@@ -25,5 +25,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           rm -rf azerothcore-wotlk
           git add .
-          git commit -m "chore: update doxygen documentation"
+          git commit -m "chore: Doxygen documentation 🎉"
           git push
