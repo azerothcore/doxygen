@@ -1,0 +1,66 @@
+var zulaman_8h =
+[
+    [ "DataHeader", "d9/d98/zulaman_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterZulAmanCreatureAI", "d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64", null ],
+    [ "ZulAmanScriptName", "d9/d98/zulaman_8h.html#ace761e31be9f593ef8cf90b8c97daf05", null ],
+    [ "CreatureIds", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963e", [
+      [ "NPC_HARRISON_JONES", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eab01f5bc950f6905a93de503a844970ca", null ],
+      [ "NPC_JANALAI", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea3005615e39c8aad246875d1a93773a34", null ],
+      [ "NPC_ZULJIN", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea9a1f396f23ef1ad00ff3922bd23b61bc", null ],
+      [ "NPC_HEXLORD", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac84820d025b516898e6afcbd23db2254", null ],
+      [ "NPC_HALAZZI", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea51c882596018d2ba15340b72c3be9e47", null ],
+      [ "NPC_NALORAKK", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ffa8fa2bed01ab7bf2d149c1def595f", null ],
+      [ "NPC_SPIRIT_LYNX", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea8f225a27e896bcfd28fb1d28b9126752", null ],
+      [ "NPC_AMANISHI_WARBRINGER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea865f43e14a3e455e9d3f41717a595cf2", null ],
+      [ "NPC_AMANISHI_TRIBESMAN", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eaa65853288bfe6b5b24a9b599d453e9a2", null ],
+      [ "NPC_AMANISHI_MEDICINE_MAN", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eaa4e1fcc7fd793d503f38a8db6d23d4a4", null ],
+      [ "NPC_AMANISHI_AXE_THROWER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eae6689904a252475374cedac39faf24c5", null ],
+      [ "NPC_AMANI_HATCHLING", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046", null ],
+      [ "NPC_AMANISHI_WIND_WALKER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea29795414aee71ecb6224cfa47db08477", null ],
+      [ "NPC_AMINISHI_LOOKOUT", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac14ffea4a6ab257ee5374df62cefc9ec", null ],
+      [ "NPC_AMINISHI_PROTECTOR", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea5af7c4f08ae0b8376ae92ab680e81aa1", null ],
+      [ "NPC_AMINISHI_TEMPEST", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac4b95a31981edd2d9db989afd66c4277", null ],
+      [ "NPC_EAGLE_TRASH_AGGRO_TRIGGER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea70163ed25437b64fe93c055a7dc76d54", null ]
+    ] ],
+    [ "DataTypes", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22", [
+      [ "DATA_NALORAKK", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a30ffad0a1864462111d7e7d771c17139", null ],
+      [ "DATA_AKILZON", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a102a7915a44f9efd4dc362e2de38f82c", null ],
+      [ "DATA_JANALAI", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a803ff78288c8c6ae96d5c0d38c1b4552", null ],
+      [ "DATA_HALAZZI", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a93ba73dd62afe072c5298db34d3a1631", null ],
+      [ "DATA_HEXLORD", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f", null ],
+      [ "DATA_ZULJIN", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a36fe7bc67adfb4a23744bb5f4e2a55a1", null ],
+      [ "MAX_ENCOUNTER", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_SPIRIT_LYNX", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22af7f03b173ce5d732418cf1cd2d313808", null ],
+      [ "TYPE_RAND_VENDOR_1", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a67804437d9a68001565663794a556fc1", null ],
+      [ "TYPE_RAND_VENDOR_2", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a994824137762f657e71e2cf01f5753d9", null ],
+      [ "DATA_STRANGE_GONG", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a25f20caa751f439e2b65d536efb7e40f", null ],
+      [ "DATA_MASSIVE_GATE", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a7afc125bb7bf43f0ba8b6e211c5f29e7", null ],
+      [ "DATA_HEXLORD_GATE", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ae44ed29085b14444414b73bbd223d58e", null ],
+      [ "DATA_HARRISON_JONES", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22afed37b4cccbefb71eae3b750ca256a8a", null ],
+      [ "TYPE_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a32627ed2529fd86dd576f9b0b8d8da65", null ],
+      [ "DATA_LOOKOUT", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ac9a7e429aa546919840b39674b9692cf", null ],
+      [ "DATA_ZULJIN_GATE", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22aef4fd113c1545998d07b032c3367ced1", null ]
+    ] ],
+    [ "GameobjectIds", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744", [
+      [ "GO_DOOR_HALAZZI", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac2342c996dae69a2a9ce6317af3faa15", null ],
+      [ "GO_LYNX_TEMPLE_ENTRANCE", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a9fd70fcab29fdd518534420db73e1d82", null ],
+      [ "GO_GATE_HEXLORD", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a46d8f5cc2b5acece5f3f2722da44c01a", null ],
+      [ "GO_GATE_ZULJIN", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744af96b4aeed9ca94ea250b902a327f0e0d", null ],
+      [ "GO_MASSIVE_GATE", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a68d42695da1812d4d2079800162b75a9", null ],
+      [ "GO_DOOR_AKILZON", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aae147d4c5dc5dc568e5c3faee55285f7", null ],
+      [ "GO_ZULJIN_FIREWALL", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aef20e95909479b9ffbe6b99415eb85e0", null ],
+      [ "GO_HARKORS_SATCHEL", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744adcbe0bc3f26a53496f509add9b12cb24", null ],
+      [ "GO_TANZARS_TRUNK", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aec695c41f1e7a100182585c0bda3d1c9", null ],
+      [ "GO_ASHLIS_BAG", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a31cf2239d13efed94f245c07fa8ba32a", null ],
+      [ "GO_KRAZS_PACKAGE", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a3014989d85dcf7af706c8ed7467fb704", null ],
+      [ "GO_STRANGE_GONG", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a1c5777b09961e594e335a1811524a3af", null ]
+    ] ],
+    [ "MiscIds", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87", [
+      [ "DATA_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8b0940fe883897da12f11a72f7722d85", null ],
+      [ "ACTION_START_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8e3160a5893fef5cf57380ff6cbcf1b6", null ],
+      [ "ACTION_START_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a1e58053c43ea495ecd1bfad82b605375", null ],
+      [ "GROUP_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ac01978c6fe524cb88c2f5933245ee834", null ]
+    ] ],
+    [ "GetZulAmanAI", "d9/d98/zulaman_8h.html#a43dfa33903c585c05a4fd45c02f1bbe3", null ],
+    [ "PersistentDataCount", "d9/d98/zulaman_8h.html#aa38a92afffebaf4b33726515956b256b", null ]
+];

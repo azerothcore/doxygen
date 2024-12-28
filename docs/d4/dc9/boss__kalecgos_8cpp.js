@@ -1,0 +1,67 @@
+var boss__kalecgos_8cpp =
+[
+    [ "boss_kalecgos", "d3/d02/structboss__kalecgos.html", "d3/d02/structboss__kalecgos" ],
+    [ "boss_kalec", "df/d99/structboss__kalec.html", "df/d99/structboss__kalec" ],
+    [ "boss_sathrovarr", "d1/d21/structboss__sathrovarr.html", "d1/d21/structboss__sathrovarr" ],
+    [ "SpectralBlastCheck", "d7/d55/classSpectralBlastCheck.html", "d7/d55/classSpectralBlastCheck" ],
+    [ "spell_kalecgos_spectral_blast_dummy", "df/df2/classspell__kalecgos__spectral__blast__dummy.html", "df/df2/classspell__kalecgos__spectral__blast__dummy" ],
+    [ "spell_kalecgos_curse_of_boundless_agony_aura", "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html", "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura" ],
+    [ "spell_kalecgos_spectral_realm_dummy", "d6/da6/classspell__kalecgos__spectral__realm__dummy.html", "d6/da6/classspell__kalecgos__spectral__realm__dummy" ],
+    [ "spell_kalecgos_spectral_realm_aura", "dd/d87/classspell__kalecgos__spectral__realm__aura.html", "dd/d87/classspell__kalecgos__spectral__realm__aura" ],
+    [ "DRAGON_REALM_Z", "d4/dc9/boss__kalecgos_8cpp.html#a1b91e4a720662db9acdb526263aca28e", null ],
+    [ "Kalec", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310", [
+      [ "SPELL_OPEN_BRUTALLUS_BACK_DOOR", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310aa4c446ea60fca0ad0a117259b3d3caeb", null ],
+      [ "MODEL_KALECGOS_DRAGON", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a7ad18553ddfd11f845101d275790d248", null ],
+      [ "EVENT_KALEC_SCENE_1", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a45a9c6f6574e5c87ce074ef3ecff1ad1", null ],
+      [ "EVENT_KALEC_SCENE_2", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310abd453afc9b6f6d2c11db422f2396129f", null ],
+      [ "EVENT_KALEC_SCENE_3", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a17a3b85f94be954891365c11e8cf4e0a", null ]
+    ] ],
+    [ "Spells", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_SPECTRAL_EXHAUSTION", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e4c8019cab150215b3400f95b9c5a83", null ],
+      [ "SPELL_SPECTRAL_BLAST", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caff3afd45b52a219545d62cd6c8052689", null ],
+      [ "SPELL_SPECTRAL_BLAST_PORTAL", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298cae02cb53f60ebef7cc5b61425062cc3a5", null ],
+      [ "SPELL_SPECTRAL_BLAST_AA", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca329fa146adee8e0dfba50552628555bb", null ],
+      [ "SPELL_TELEPORT_SPECTRAL", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca714b67cdb097a374b4f10e81303bb5bb", null ],
+      [ "SPELL_TELEPORT_NORMAL_REALM", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca05567ac9f71cf7b6a6017693c46ed956", null ],
+      [ "SPELL_SPECTRAL_REALM", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a80ca380f2d6cf16368d3f9c6fa320b", null ],
+      [ "SPELL_SPECTRAL_INVISIBILITY", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca61e02f118315b6f09f3d5b4b47c226db", null ],
+      [ "SPELL_DEMONIC_VISUAL", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298cab97d88223eed0eefd96693c99a15e969", null ],
+      [ "SPELL_ARCANE_BUFFET", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca294b53c608b8a18dffa4af2594501c31", null ],
+      [ "SPELL_FROST_BREATH", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d2702c1c121e1139359d986fbab12a", null ],
+      [ "SPELL_TAIL_LASH", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c9bff1261007c0f6374179c6a55bff4", null ],
+      [ "SPELL_BANISH", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140", null ],
+      [ "SPELL_TRANSFORM_KALEC", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca06386ec8e4cf106eb16f5e7db47da2d2", null ],
+      [ "SPELL_CRAZED_RAGE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298cacad1b9e8239636659c27a0f86e724fcb", null ],
+      [ "SPELL_CORRUPTION_STRIKE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca687a302170a67d79baee3f00c477675f", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298cae78ecaf717328c161471dfdaaced89f2", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_PLR", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caa862c8513866200a59b644da6348f5d3", null ],
+      [ "SPELL_SHADOW_BOLT", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_HEROIC_STRIKE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca9fe775d82acd6008689a7d2a3b35c422", null ],
+      [ "SPELL_REVITALIZE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e5dc2355b4c7f5dd45b4bfcc98cf7df", null ]
+    ] ],
+    [ "SWPActions", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704", [
+      [ "ACTION_ENRAGE", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704a23aacd87487640af561f78b37780a126", null ],
+      [ "ACTION_BANISH", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704af30a0b0acacad18f09f42f11cc07ce02", null ],
+      [ "ACTION_SATH_BANISH", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704a0a524fb594ead2a02a0fe2714bde7cb2", null ],
+      [ "ACTION_KALEC_DIED", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704aaa36961701d1abd66e738f05f675f589", null ],
+      [ "ACTION_ENRAGE_OTHER", "d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704ac70f66907b75e4b6fcbdf0f70e1bbf33", null ]
+    ] ],
+    [ "Yells", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
+      [ "SAY_SATH_AGGRO", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0c50130e18d44879f8f653212f9b4391", null ],
+      [ "SAY_SATH_SLAY", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6218d0ca3ea72e9fbc4d9d7f4f8db623", null ],
+      [ "SAY_SATH_DEATH", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a72cd1b6f07ef9d5375c4770f81f50d78", null ],
+      [ "SAY_SATH_SPELL1", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa0d220a878db3704def1f47603d87a04", null ],
+      [ "SAY_SATH_SPELL2", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abe9aabf7fd56f9bbf9b87a77715c6b62", null ],
+      [ "SAY_EVIL_AGGRO", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaee200a34eb191aff77420aa0d347069", null ],
+      [ "SAY_EVIL_SLAY", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abdc6f4bfae978b6208f251510073d380", null ],
+      [ "SAY_GOOD_PLRWIN", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad60e2605da72a121ad07b591242e1ed0", null ],
+      [ "SAY_EVIL_ENRAGE", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad21820acf5dd884c11e0262979229706", null ],
+      [ "SAY_SATH_ENRAGE_ME", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a35cb61fc59049bb94521907811bfd7a2", null ],
+      [ "SAY_KALEC_ENRAGE_SATH", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a61c29eb1abe2e990ab8d6ded2985f84f", null ],
+      [ "SAY_GOOD_AGGRO", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a877b13cb7cdfa4219cea6ac49ee89505", null ],
+      [ "SAY_GOOD_NEAR_DEATH", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a29540d05325076573f1bb840e8ef6f84", null ],
+      [ "SAY_GOOD_NEAR_DEATH2", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a817640e4cb56fdb1b7c44311612dc52d", null ],
+      [ "SAY_GOOD_MADRIGOSA", "d4/dc9/boss__kalecgos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac1a02d11df34c7f70db0d503f9ced0dd", null ]
+    ] ],
+    [ "AddSC_boss_kalecgos", "d4/dc9/boss__kalecgos_8cpp.html#a2bb0c9c73542d01aaad4f3d359447bf2", null ]
+];
