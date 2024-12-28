@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['rbcachemap_0',['RBCacheMap',['../d2/dbc/classlfg_1_1LFGMgr.html#a99bc3e034c8c5fdb430468ed3ae46082',1,'lfg::LFGMgr']]],
+  ['rbentryinfomap_1',['RBEntryInfoMap',['../d2/dbc/classlfg_1_1LFGMgr.html#abd78b94d14d22018ff1db5b5c63b84b6',1,'lfg::LFGMgr']]],
+  ['rbinternalinfomap_2',['RBInternalInfoMap',['../d2/dbc/classlfg_1_1LFGMgr.html#a57056e80361ce8ec578c9dff88755de9',1,'lfg::LFGMgr']]],
+  ['rbinternalinfomapmap_3',['RBInternalInfoMapMap',['../d2/dbc/classlfg_1_1LFGMgr.html#a6ee5ae56782964a4f2b89af1ad3cb058',1,'lfg::LFGMgr']]],
+  ['rbsearchersmap_4',['RBSearchersMap',['../d2/dbc/classlfg_1_1LFGMgr.html#af78f160dc595b0c6b70579d3bcf223b0',1,'lfg::LFGMgr']]],
+  ['rbstoremap_5',['RBStoreMap',['../d2/dbc/classlfg_1_1LFGMgr.html#a6ade4e82c96dac128b3a88086e5088fb',1,'lfg::LFGMgr']]],
+  ['rbuseddungeonsset_6',['RBUsedDungeonsSet',['../d2/dbc/classlfg_1_1LFGMgr.html#a0fa2e84c27810b0b32e3094cc3661a67',1,'lfg::LFGMgr']]],
+  ['realmmap_7',['RealmMap',['../d4/d25/classRealmList.html#a6031c19ec935fbe535f60a1014483dbd',1,'RealmList']]],
+  ['reference_8',['reference',['../d0/d45/classLinkedListHead_1_1Iterator.html#a70eac4878b3b65e97e1af190b5085280',1,'LinkedListHead::Iterator::reference()'],['../dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#a95fa5b0dac0017e43bc5683fb040836d',1,'Acore::CheckedBufferOutputIterator::reference()'],['../d0/dcf/classEnumUtils_1_1Iterator.html#a3a0c25745e0fe5d45156cb04a570d1b7',1,'EnumUtils::Iterator::reference()'],['../dc/d21/structResultIterator.html#a5618bd9b42f553be7feaf26fac8fe3ba',1,'ResultIterator::reference()'],['../df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e',1,'WorldPackets::Array::reference()'],['../d7/dd6/classDBCStorageIterator.html#a17541a5d418dd9835eab783fc5c50b4e',1,'DBCStorageIterator::reference()']]],
+  ['refundableitemsset_9',['RefundableItemsSet',['../d2/d4b/classPlayer.html#afae54f93b4ceeede8978b156fc74e5dd',1,'Player']]],
+  ['registrymaptype_10',['RegistryMapType',['../d8/df1/classObjectRegistry.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2',1,'ObjectRegistry']]],
+  ['repeated_5ft_11',['repeated_t',['../df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690',1,'TaskScheduler']]],
+  ['replistid_12',['RepListID',['../d3/d4e/ReputationMgr_8h.html#a5d6355bb0de767f549aeb8f1e6481624',1,'ReputationMgr.h']]],
+  ['reponkillcontainer_13',['RepOnKillContainer',['../d5/dfb/classObjectMgr.html#ae2a4be849f1065acdd52224dd0813465',1,'ObjectMgr']]],
+  ['reprewardratecontainer_14',['RepRewardRateContainer',['../d5/dfb/classObjectMgr.html#a0435d4c8478d452fdb137bcddd3f9aa6',1,'ObjectMgr']]],
+  ['repspillovertemplatecontainer_15',['RepSpilloverTemplateContainer',['../d5/dfb/classObjectMgr.html#a504972294a7f828f3cf6d951a883e1a9',1,'ObjectMgr']]],
+  ['reservednamescontainer_16',['ReservedNamesContainer',['../d5/dfb/classObjectMgr.html#a228d018c71898d2c104f42e92f96ad32',1,'ObjectMgr']]],
+  ['resettimebymapdifficultymap_17',['ResetTimeByMapDifficultyMap',['../d4/d57/InstanceSaveMgr_8h.html#aecf15b673beb714ef0acaa3bac23696a',1,'InstanceSaveMgr.h']]],
+  ['resettimequeue_18',['ResetTimeQueue',['../d6/dee/classInstanceSaveMgr.html#a22b56c7b035c7948ee19a6b65fb41ec4',1,'InstanceSaveMgr']]],
+  ['respawnmap_19',['RespawnMap',['../dc/de8/classBattlegroundIC.html#ac0682d6c6402a7aed48f84f9e06a711b',1,'BattlegroundIC']]],
+  ['result_5ftype_20',['result_type',['../d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9',1,'Acore::unary_function::result_type()'],['../d1/d01/classRandomEngine.html#a20f96383bade76c6185d8f20f458784e',1,'RandomEngine::result_type()']]],
+  ['rewardedquestset_21',['RewardedQuestSet',['../da/dbf/Player_8h.html#a59ae2084b25805b47224ad24aa9c54d0',1,'Player.h']]],
+  ['rolls_22',['Rolls',['../d0/db7/classGroup.html#a79a79b673dbb3124304d390bb9e869eb',1,'Group']]]
+];
