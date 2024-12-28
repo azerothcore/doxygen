@@ -1,4 +1,4 @@
-name: generate-doxygen-doc
+name: generate-doxygen
 on:
   workflow_dispatch:
   schedule:
