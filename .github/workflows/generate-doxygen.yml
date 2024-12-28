@@ -14,12 +14,8 @@ jobs:
       - name: "clone azerothcore-wotlk source"
         run: |
           git clone --single-branch https://github.com/azerothcore/azerothcore-wotlk
-          mv azerothcore-wotlk docs/azerothcore-wotlk
       - name: "run doxygen"
         uses: mattnotmitt/doxygen-action@v1.9.8
-        with:
-            working-directory: 'docs/'
-            doxyfile-path: 'Doxyfile'
       - name: "commit doxygen"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
