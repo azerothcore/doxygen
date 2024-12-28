@@ -1,0 +1,47 @@
+var temple__of__ahnqiraj_8cpp =
+[
+    [ "npc_anubisath_defender", "d6/db1/structnpc__anubisath__defender.html", "d6/db1/structnpc__anubisath__defender" ],
+    [ "npc_vekniss_stinger", "de/d0e/structnpc__vekniss__stinger.html", "de/d0e/structnpc__vekniss__stinger" ],
+    [ "npc_obsidian_eradicator", "d5/d26/structnpc__obsidian__eradicator.html", "d5/d26/structnpc__obsidian__eradicator" ],
+    [ "npc_anubisath_warder", "d9/d7a/structnpc__anubisath__warder.html", "d9/d7a/structnpc__anubisath__warder" ],
+    [ "npc_obsidian_nullifier", "d8/d18/structnpc__obsidian__nullifier.html", "d8/d18/structnpc__obsidian__nullifier" ],
+    [ "npc_ahnqiraji_critter", "df/d38/structnpc__ahnqiraji__critter.html", "df/d38/structnpc__ahnqiraji__critter" ],
+    [ "spell_aggro_drones", "d6/d9e/classspell__aggro__drones.html", "d6/d9e/classspell__aggro__drones" ],
+    [ "spell_nullify", "dc/d32/classspell__nullify.html", "dc/d32/classspell__nullify" ],
+    [ "at_battleguard_sartura", "d3/d18/classat__battleguard__sartura.html", "d3/d18/classat__battleguard__sartura" ],
+    [ "NPCs", "db/dec/temple__of__ahnqiraj_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
+      [ "NPC_VEKNISS_DRONE", "db/dec/temple__of__ahnqiraj_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca369262a57814d253735f74572072131f", null ]
+    ] ],
+    [ "Spells", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_SHADOW_FROST_REFLECT", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cae2406a11d1bdb8b16b814464c4e4aa3f", null ],
+      [ "SPELL_FIRE_ARCANE_REFLECT", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca17b7a6ad8d4650eaaef54fa7a803a7ea", null ],
+      [ "SPELL_METEOR", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca9852a46c953e171195a8863b0248a328", null ],
+      [ "SPELL_PLAGUE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cabc33b11540726249fc549e501d963cc4", null ],
+      [ "SPELL_SHADOW_STORM", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca853f7b688e2cee45b9ef6290a9393a7d", null ],
+      [ "SPELL_THUNDERCLAP", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e", null ],
+      [ "SPELL_ENRAGE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_EXPLODE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7fe4a075b9a9af0d891907d2f36a97b", null ],
+      [ "SPELL_SUMMON_WARRIOR", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca2cbca2a74cf6c73fc2fb28813653c694", null ],
+      [ "SPELL_SUMMON_SWARMGUARD", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca90187ae8d60b63dadadf994544987708", null ],
+      [ "SPELL_SUMMON_LARGE_OBSIDIAN_CHUNK", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c816ad9675a0e5e8696f4c8c42a65f3", null ],
+      [ "TALK_ENRAGE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf1e07bb745ccec2dbcf6b568b94d6a50", null ],
+      [ "SPELL_VEKNISS_CATALYST", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca95d913a915f457e9ad70f25da1a055bf", null ],
+      [ "SPELL_STINGER_CHARGE_NORMAL", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eba2b675d1f06a206f14b520785c0a5", null ],
+      [ "SPELL_STINGER_CHARGE_BUFFED", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca95392cad70b646740a704e74edf61379", null ],
+      [ "SPELL_SHOCK_BLAST", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca27f80025af35906645d792e1207f6e85", null ],
+      [ "SPELL_DRAIN_MANA_ERADICATOR", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca9896682c80696ca27b05964a4be9dc31", null ],
+      [ "SPELL_DRAIN_MANA_VISUAL", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b75b40ba29f38f391afbbf61fa041d9", null ],
+      [ "SPELL_FEAR", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88", null ],
+      [ "SPELL_ENTAGLING_ROOTS", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf0e20cad46ac003fdde837c171d8e9d3", null ],
+      [ "SPELL_SILENCE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca3fb0854cb76a3dd2c796a5339f0e4eba", null ],
+      [ "SPELL_DUST_CLOUD", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cab197ca800b89fe5f62e660c40d21b9ba", null ],
+      [ "SPELL_FIRE_NOVA", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca675194ae1ebcc6b507bf7f88be2f8414", null ],
+      [ "SPELL_NULLIFY", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7165f0a4b15a18b290c92c53991b33e", null ],
+      [ "SPELL_DRAIN_MANA_NULLIFIER", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca044f0f330d57591a8fd173c7f776063e", null ],
+      [ "SPELL_CLEAVE", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_PIERCE_ARMOR", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c", null ],
+      [ "SPELL_ACID_SPIT", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806", null ],
+      [ "NPC_QIRAJI_SCORPION", "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05", null ]
+    ] ],
+    [ "AddSC_temple_of_ahnqiraj", "db/dec/temple__of__ahnqiraj_8cpp.html#a01dd3a78f0b663896c149c395a890753", null ]
+];

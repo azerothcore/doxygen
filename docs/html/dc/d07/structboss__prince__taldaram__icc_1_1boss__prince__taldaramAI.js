@@ -1,0 +1,25 @@
+var structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI =
+[
+    [ "boss_prince_taldaramAI", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
+    [ "DamageDealt", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ad657caac275c5c43c9630db6c230ea6a", null ],
+    [ "DamageTaken", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
+    [ "DoAction", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
+    [ "EnterEvadeMode", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a145d62ce132c3cdaeb7918790122967b", null ],
+    [ "InitializeAI", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a86ffd0e0da7bff506bad5508c32de505", null ],
+    [ "JustDied", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a5433de81912a208ea79533e0650d8687", null ],
+    [ "JustEngagedWith", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae9b82e54daa62b196c6064143253b0d7", null ],
+    [ "JustReachedHome", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a448dcc055b5a4f57b6ad1ed09a4e19de", null ],
+    [ "JustRespawned", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a692da5cd278c64a6e14c9a997e02a433", null ],
+    [ "JustSummoned", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af62d0d20e8f7f312c1cd57ba3816bf70", null ],
+    [ "KilledUnit", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1b3b2ce6d33becceb9a0426932b351be", null ],
+    [ "Reset", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#acb777001e906749c81328df787732938", null ],
+    [ "SpellHit", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6258962c56bb67fdc09abe695a48fd7", null ],
+    [ "SummonedCreatureDespawn", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af512a9920b3e21641776197a570d87fa", null ],
+    [ "UpdateAI", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1c15de4b477bbab2bb7d73df9f524d77", null ],
+    [ "_canDie", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aabe7cd8c61d97e1b3ea5a5736245aba0", null ],
+    [ "_evading", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a9dd90a58ca89477b9d18e3931edfec45", null ],
+    [ "_isEmpowered", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb", null ],
+    [ "events", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6e957dbd34e2c10d26875647faabe6b", null ],
+    [ "instance", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a45e9131b837b3967cc5b8d08ce7946cd", null ],
+    [ "summons", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aa198916309f31e243afc879c289269f8", null ]
+];

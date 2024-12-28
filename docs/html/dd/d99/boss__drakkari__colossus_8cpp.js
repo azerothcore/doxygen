@@ -1,0 +1,48 @@
+var boss__drakkari__colossus_8cpp =
+[
+    [ "RestoreFight", "d2/d0f/classRestoreFight.html", "d2/d0f/classRestoreFight" ],
+    [ "boss_drakkari_colossus", "d7/d9e/classboss__drakkari__colossus.html", "d7/d9e/classboss__drakkari__colossus" ],
+    [ "boss_drakkari_colossus::boss_drakkari_colossusAI", "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html", "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI" ],
+    [ "boss_drakkari_elemental", "d6/d1c/classboss__drakkari__elemental.html", "d6/d1c/classboss__drakkari__elemental" ],
+    [ "boss_drakkari_elemental::boss_drakkari_elementalAI", "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html", "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI" ],
+    [ "npc_living_mojo", "dd/d3d/classnpc__living__mojo.html", "dd/d3d/classnpc__living__mojo" ],
+    [ "npc_living_mojo::npc_living_mojoAI", "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html", "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI" ],
+    [ "spell_drakkari_colossus_emerge", "df/dae/classspell__drakkari__colossus__emerge.html", "df/dae/classspell__drakkari__colossus__emerge" ],
+    [ "spell_drakkari_colossus_surge", "d4/d65/classspell__drakkari__colossus__surge.html", "d4/d65/classspell__drakkari__colossus__surge" ],
+    [ "spell_drakkari_colossus_face_me", "df/d77/classspell__drakkari__colossus__face__me.html", "df/d77/classspell__drakkari__colossus__face__me" ],
+    [ "Misc", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
+      [ "NPC_LIVING_MOJO", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a77fc15301d94248ad1c834edbbd7eb7e", null ],
+      [ "NPC_DRAKKARI_ELEMENTAL", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a86482e388747e6846ab6b1877dcc82a1", null ],
+      [ "ACTION_MERGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a63fd17f849c7bec9e7834eb6c7ba1ffd", null ],
+      [ "ACTION_INFORM", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3dbefc5a67100c2d5bae2e866f23cbab", null ],
+      [ "POINT_MERGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a30116e09a94a4565b4b803aa9ddc41c8", null ],
+      [ "SAY_SURGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0be05cf38671dac65609ad3781ddc87d", null ],
+      [ "EMOTE_ALTAR", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7067586544d8212d7442abdb0e584991", null ],
+      [ "EVENT_COLOSSUS_MIGHTY_BLOW", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e4466db7bb032cf5e1f9979d4817822", null ],
+      [ "EVENT_COLOSSUS_HEALTH_1", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de18eae43b5a92eb6d1b396dc212f38", null ],
+      [ "EVENT_COLOSSUS_HEALTH_2", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a38958b9da0b2edfc8de6afbbc031a775", null ],
+      [ "EVENT_COLOSSUS_START_FIGHT", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7f30f5390c892fb583e78d131e494b44", null ],
+      [ "EVENT_ELEMENTAL_HEALTH", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0cee60179bf7f259eaa21e30d6386cb7", null ],
+      [ "EVENT_ELEMENTAL_SURGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac5380b27c722045bcb229f93f0d57e05", null ],
+      [ "EVENT_ELEMENTAL_VOLLEY", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3314c603f33f72793adcf09ce64309a", null ],
+      [ "EVENT_MOJO_MOJO_WAVE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4cd705181d8cc4fa2d557156c21baceb", null ],
+      [ "EVENT_MOJO_MOJO_PUDDLE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4c6536f8d29ccba89c75956005904e48", null ]
+    ] ],
+    [ "Spells", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_MOJO_PUDDLE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298caf3185bfbdf2b48731fe0397307c42dcc", null ],
+      [ "SPELL_MOJO_WAVE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
+      [ "SPELL_FREEZE_ANIM", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
+      [ "SPELL_MIGHTY_BLOW", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
+      [ "SPELL_EMERGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
+      [ "SPELL_EMERGE_SUMMON", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],
+      [ "SPELL_MOJO_VOLLEY", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cac58b19b452aa61f94f50ce2b548f19ee", null ],
+      [ "SPELL_SURGE_VISUAL", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cad0b861505f9aa186120029570e3615e6", null ],
+      [ "SPELL_SURGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cae241a6c1a3e011d0f66cedcc8d321074", null ],
+      [ "SPELL_SURGE_DAMAGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca09738d660e33b135a99046a0f76c78e6", null ],
+      [ "SPELL_FACE_ME", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cac1106074e4d58bbfee617c3d60a8f99e", null ],
+      [ "SPELL_MERGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca3fb8cb5d4031537cfb911d9ab4fc1631", null ]
+    ] ],
+    [ "AddSC_boss_drakkari_colossus", "dd/d99/boss__drakkari__colossus_8cpp.html#a36fafdad910f82658205c0a332cede4f", null ],
+    [ "mojoPosition", "dd/d99/boss__drakkari__colossus_8cpp.html#a9e6f8d3ccf0dfd3ed0b9ef74c344b0f9", null ]
+];
