@@ -2,7 +2,7 @@ name: generate-doxygen
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 06 * * *'
 
 jobs:
   build-doxygen-doc:
