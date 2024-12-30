@@ -1,5 +1,8 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[5,0,1853,0],
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[5,0,1853,0,1],
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[5,0,1853,0,9],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1afe3245dc18db3c0bf6801b5ca20d31":[5,0,1853,0,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a28aef0767b6adb0ccf0479dd50dc11a8":[5,0,1853,0,6],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a2e02aa8d441426aa51f46121eec0becb":[5,0,1853,0,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX270 =
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a7808767e79ebe4c5ac784ff7a32874f6":[5,0,701,0,1],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a86f376743055f99c066ad1a7c960b6c7":[5,0,701,0,7],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a9c6fca6d70c7c53048b137b7d8cc0861":[5,0,701,0,6],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#aa85b0d305074d0df887fbb7ba42a3b20":[5,0,701,0,2],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#abe87bb56b844c75dd9b24a4d45c94e7f":[5,0,701,0,10],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#ad4bf163bf81dee06bead6f9a8aaa2a3a":[5,0,701,0,4],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#ae36faacbbd22ddde8d8f25540e583c14":[5,0,701,0,3]
+"db/d33/structboss__svala_1_1boss__svalaAI.html#aa85b0d305074d0df887fbb7ba42a3b20":[5,0,701,0,2]
 };

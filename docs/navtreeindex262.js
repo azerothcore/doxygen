@@ -1,5 +1,8 @@
 var NAVTREEINDEX262 =
 {
+"da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ab9866b0d339beff1b603cf8acc0cdf93":[6,0,0,0,1,2,16,7,5,109,0],
+"da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ae54edeab8c5afb0816bf330bc2909300":[6,0,0,0,1,2,16,7,5,109,1],
+"da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103":[6,0,0,0,1,2,16,7,5,105],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103a91c9a62241f28714002f84dbbddf768f":[6,0,0,0,1,2,16,7,5,105,2],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103ac77fdbe212fe2d09fd2f8dea5cec42cf":[6,0,0,0,1,2,16,7,5,105,0],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103af02b0882bd022d38de23cdc52e5cd534":[6,0,0,0,1,2,16,7,5,105,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX262 =
 "da/dcc/boss__isalien_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a9804f458758271100faa8cf4fe112f3e":[6,0,0,0,1,3,4,2,0,1,1],
 "da/dcc/boss__isalien_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[6,0,0,0,1,3,4,2,0,4],
 "da/dcc/boss__isalien_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[6,0,0,0,1,3,4,2,0,4,0],
-"da/dcc/boss__isalien_8cpp.html#ae7ff175f63ed6dcb6b39ddd95361f8bc":[6,0,0,0,1,3,4,2,0,5],
-"da/dcc/structGameTeleVisitor.html":[5,0,1074],
-"da/dcc/structGameTeleVisitor.html#a8ee9220d4226b4dd028f3f9c438f34ba":[5,0,1074,2],
-"da/dcc/structGameTeleVisitor.html#abeff0e73688ad4745201c5d817f7a442":[5,0,1074,1]
+"da/dcc/boss__isalien_8cpp.html#ae7ff175f63ed6dcb6b39ddd95361f8bc":[6,0,0,0,1,3,4,2,0,5]
 };

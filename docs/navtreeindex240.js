@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da8fc1521a1fca503d0dd4cf7161f37eba":[6,0,0,0,1,3,10,13,2,10],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54daa75ebebac153a89f56aff2b8b2b57175":[6,0,0,0,1,3,10,13,2,8],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54daaf4a81698583de42ad4f1a6c3f11c094":[6,0,0,0,1,3,10,13,2,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dacfdeeefd98ee3bf9f455a6ecba6bfed4":[6,0,0,0,1,3,10,13,2,11],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dad754608fadc01b8aaa8f5213bd44d028":[6,0,0,0,1,3,10,13,2,6],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dadbe6fe3be78684641974e1e7bb83bab9":[6,0,0,0,1,3,10,13,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dd9/structgo__transport__the__purple__princess.html#ac5b73f1bea180797169138f8e9228783":[5,0,1171,1],
 "d9/dda/PCQueue_8h.html":[6,0,0,0,0,14,2],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[5,0,2396],
-"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[5,0,2396,0],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html":[6,0,0,0,1,2,16,4,4],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[6,0,0,0,1,2,16,4,4,3],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[6,0,0,0,1,2,16,4,4,5]
+"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[5,0,2396,0]
 };

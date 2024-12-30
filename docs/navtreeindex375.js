@@ -1,5 +1,8 @@
 var NAVTREEINDEX375 =
 {
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae515d0b1d383c48e40fa4795edd1b247":[5,0,2040,0,2],
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae89b397bafdcb06e94fa94c18ef0d2c8":[5,0,2040,0,0],
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9":[5,0,2040,0,11],
 "df/d2a/StringFormat_8cpp.html":[6,0,0,0,0,15,28],
 "df/d2a/StringFormat_8cpp.html#a39e286b6ca47198eba4d5e31cef66aa5":[6,0,0,0,0,15,28,0],
 "df/d2a/classboss__sjonnir__dwarf.html":[5,0,686],
@@ -246,8 +249,5 @@ var NAVTREEINDEX375 =
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[5,0,1881,0,8],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[5,0,1881,0,5],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#abf30320da7f6fc6a4f213b0c4b2b24ce":[5,0,1881,0,3],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#ac4de8610671b000bdff5cf47f2aecd0f":[5,0,1881,0,6],
-"df/d3b/classnpc__bunthen__plainswind.html":[5,0,1635],
-"df/d3b/classnpc__bunthen__plainswind.html#a117f28d513ac645b9d3d908d052d2146":[5,0,1635,2],
-"df/d3b/classnpc__bunthen__plainswind.html#ad9b789ad3e958dee4733b142813b6302":[5,0,1635,0]
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#ac4de8610671b000bdff5cf47f2aecd0f":[5,0,1881,0,6]
 };

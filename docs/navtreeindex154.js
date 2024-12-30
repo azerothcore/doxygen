@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#afd8e05444eeea620a7ef21e97c345d41":[5,0,724,0,3],
+"d5/dc8/classspell__blood__queen__bloodbolt.html":[5,0,2616],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a1add221102b7067ffc130969f5172eae":[5,0,2616,4],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a46a43b9a8dec2f61aee3dccad4178a78":[5,0,2616,2],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a4d2b60161f5aed31132f0fc554aab7b6":[5,0,2616,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204ae84e1d34a0eda6b46d12facd974f3068":[6,0,0,0,1,3,4,1,1,6,3,10],
 "d5/dcf/culling__of__stratholme_8h.html#a86cdbaa64f91558b59589e0fec92e53d":[6,0,0,0,1,3,4,1,1,6,16],
 "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9":[6,0,0,0,1,3,4,1,1,6,10],
-"d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a3508f129ff017eee5aabbe4a1726fe9d":[6,0,0,0,1,3,4,1,1,6,10,0],
-"d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a6e696ff2642f5b086c42c6ae0583788a":[6,0,0,0,1,3,4,1,1,6,10,2],
-"d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a964a05e74d5ad31ee80e8f1b0a39ad42":[6,0,0,0,1,3,4,1,1,6,10,1]
+"d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a3508f129ff017eee5aabbe4a1726fe9d":[6,0,0,0,1,3,4,1,1,6,10,0]
 };

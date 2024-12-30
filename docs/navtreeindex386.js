@@ -1,5 +1,8 @@
 var NAVTREEINDEX386 =
 {
+"df/dae/classspell__drakkari__colossus__emerge.html":[5,0,2745],
+"df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[5,0,2745,1],
+"df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[5,0,2745,2],
 "df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[5,0,2745,0],
 "df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[5,0,2745,3],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[5,0,2009,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX386 =
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a5099c03b3ab1eb437ea11a0c4e8650f1":[5,0,2179,0,5],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a6384437fff9349df0cfa5053b37313ea":[5,0,2179,0,2],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a71d24eb5cea764011249b8ff78c3ed6c":[5,0,2179,0,4],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a98ad3308b0fa56847ce6f5583bdfaba9":[5,0,2179,0,0],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#aa18e89f63e98112efeb69328f8fdc296":[5,0,2179,0,1],
-"df/dbe/CreatureAISelector_8h.html":[6,0,0,0,1,2,3,10],
-"df/dbe/CreatureAISelector_8h.html#a10fef1ff3335f4642179ee423b1ff0d6":[6,0,0,0,1,2,3,10,0]
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a98ad3308b0fa56847ce6f5583bdfaba9":[5,0,2179,0,0]
 };

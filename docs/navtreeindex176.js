@@ -1,5 +1,7 @@
 var NAVTREEINDEX176 =
 {
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a8c7e2643c2d443b382a60f28ea74266c":[5,0,2004,0,3],
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#ade416a422e67ce61e8874320cce7143b":[5,0,2004,0,2],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aea107ede3b11726b3f7caae590edaf52":[5,0,2004,0,1],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aee61de504cfb25d9a99651a58ea0b63c":[5,0,2004,0,5],
 "d6/db1/classnpc__living__constellation.html":[5,0,1893],
@@ -81,8 +83,8 @@ var NAVTREEINDEX176 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[6,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[4,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[4,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[6,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[6,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[6,0,0,0,1,2,3,0,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX176 =
 "d6/dbf/structInstancePlayerBind.html#a24ef1e0e0a38033a16b697c32e3d8234":[5,0,1336,3],
 "d6/dbf/structInstancePlayerBind.html#a9327f62b74eea3a1a525b2fec6d90b69":[5,0,1336,1],
 "d6/dbf/structInstancePlayerBind.html#ab35249eb791941b484ecc321b1102b24":[5,0,1336,2],
-"d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[5,0,1336,0],
-"d6/dc0/structCreatureSpellCooldown.html":[5,0,912],
-"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[5,0,912,2]
+"d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[5,0,1336,0]
 };

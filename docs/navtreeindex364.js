@@ -1,5 +1,8 @@
 var NAVTREEINDEX364 =
 {
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,0,1,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[4,0,1,2,1,0,3],
+"de/da9/classMotionTransport.html":[5,0,1490],
 "de/da9/classMotionTransport.html#a00417cfdf5901d38c0adf04f8d734dcf":[5,0,1490,18],
 "de/da9/classMotionTransport.html#a09f55f2b1ee17805d3ffdafd10eac768":[5,0,1490,7],
 "de/da9/classMotionTransport.html#a156ee130cf2b0c07eff158bcdc361986":[5,0,1490,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX364 =
 "de/db4/classPreparedStatementBase.html#af804ff958eb51e96c0deccb59e6c79a6":[5,0,2402,0],
 "de/db4/structGossipMenuItemData.html":[5,0,1188],
 "de/db4/structGossipMenuItemData.html#a377beba97be2b81a0c2bbeb933f1927b":[5,0,1188,0],
-"de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[5,0,1188,1],
-"de/db5/QueryHolder_8cpp.html":[6,0,0,0,1,1,0,26],
-"de/db5/classBattlegroundDS.html":[5,0,303],
-"de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[5,0,303,0]
+"de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[5,0,1188,1]
 };

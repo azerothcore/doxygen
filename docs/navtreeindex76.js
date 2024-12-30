@@ -1,5 +1,6 @@
 var NAVTREEINDEX76 =
 {
+"d2/de3/classnpc__shadowmoon__tuber__node.html#a5f641af77e2fd78fe67b34fa18bf6b73":[5,0,2068,2],
 "d2/de3/classnpc__shadowmoon__tuber__node.html#a98e8c7a84789457900fa342cca209d41":[5,0,2068,1],
 "d2/de4/VehicleHandler_8cpp.html":[6,0,0,0,1,2,22,34],
 "d2/de5/GameObject_8h.html":[6,0,0,0,1,2,16,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#ac1a82f9330481616b4b87ed9eff0f785":[5,0,3991,180],
 "d2/de9/classSpellInfo.html#ac223275f113bdcbfa094e6c1d8e61edc":[5,0,3991,140],
 "d2/de9/classSpellInfo.html#ac29a2c6ee4ab66402daf29fb0227fb95":[5,0,3991,116],
-"d2/de9/classSpellInfo.html#ac4dd6630a1fcd25141ebfb5b8acf8014":[5,0,3991,54],
-"d2/de9/classSpellInfo.html#ac65e88e92aa359a27d136336337fa49e":[5,0,3991,194]
+"d2/de9/classSpellInfo.html#ac4dd6630a1fcd25141ebfb5b8acf8014":[5,0,3991,54]
 };

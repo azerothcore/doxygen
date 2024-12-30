@@ -39,7 +39,8 @@ var zulaman_8h =
       [ "DATA_HARRISON_JONES", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22afed37b4cccbefb71eae3b750ca256a8a", null ],
       [ "TYPE_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a32627ed2529fd86dd576f9b0b8d8da65", null ],
       [ "DATA_LOOKOUT", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ac9a7e429aa546919840b39674b9692cf", null ],
-      [ "DATA_ZULJIN_GATE", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22aef4fd113c1545998d07b032c3367ced1", null ]
+      [ "DATA_ZULJIN_GATE", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22aef4fd113c1545998d07b032c3367ced1", null ],
+      [ "DATA_CHEST_LOOTED", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7", null ]
     ] ],
     [ "GameobjectIds", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744", [
       [ "GO_DOOR_HALAZZI", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac2342c996dae69a2a9ce6317af3faa15", null ],

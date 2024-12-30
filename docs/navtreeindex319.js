@@ -1,5 +1,8 @@
 var NAVTREEINDEX319 =
 {
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bd3e45b45660311d7510f58a1850648":[5,0,414,0,4],
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a6fd78f4f45b9f2104acc481fb0f2763f":[5,0,414,0,6],
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a7235760bd407f49802bc9e26e8f3f22c":[5,0,414,0,1],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a75d771095897081457353be898b332c3":[5,0,414,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#abf761c7cda4031c31354d8c8d42963e0":[5,0,414,0,7],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#adc9461ae5334634a9140f338547688b4":[5,0,414,0,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#af6e04824ea1682c529e8579a306d34ca":[5,0,2101,0,4],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#afd1cd4fc387ff7cdad58c9db60841c7a":[5,0,2101,0,2],
 "dd/d59/classspell__lady__vashj__spore__drop__effect.html":[5,0,3300],
-"dd/d59/classspell__lady__vashj__spore__drop__effect.html#a1eac10c673b8f43ae08f8bbdf949f82f":[5,0,3300,1],
-"dd/d59/classspell__lady__vashj__spore__drop__effect.html#a60d4e21bf31c997ef4105ad72c8b4e85":[5,0,3300,2],
-"dd/d59/classspell__lady__vashj__spore__drop__effect.html#a766edc5924124c869b04ec82cd2bc693":[5,0,3300,0],
-"dd/d59/structMapDifficulty.html":[5,0,1453]
+"dd/d59/classspell__lady__vashj__spore__drop__effect.html#a1eac10c673b8f43ae08f8bbdf949f82f":[5,0,3300,1]
 };

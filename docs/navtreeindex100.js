@@ -1,5 +1,6 @@
 var NAVTREEINDEX100 =
 {
+"d3/d74/classnpc__living__inferno.html#a7df2bb522e67b6f1864604c7b0182078":[5,0,1894,1],
 "d3/d77/classspell__dru__rip.html":[5,0,2780],
 "d3/d77/classspell__dru__rip.html#a2ed00d02a1685bc8b66e9cdfd430d1ad":[5,0,2780,0],
 "d3/d77/classspell__dru__rip.html#a6766b6ebbba04bc595373145e4eaaa7a":[5,0,2780,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX100 =
 "d3/d81/trial__of__the__champion_8h.html":[6,0,0,0,1,3,5,2,0,5],
 "d3/d81/trial__of__the__champion_8h.html#a042491ef36459046f3866e90f15aae0d":[6,0,0,0,1,3,5,2,0,5,0],
 "d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[6,0,0,0,1,3,5,2,0,5,4],
-"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1":[6,0,0,0,1,3,5,2,0,5,4,8],
-"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0":[6,0,0,0,1,3,5,2,0,5,4,9]
+"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1":[6,0,0,0,1,3,5,2,0,5,4,8]
 };

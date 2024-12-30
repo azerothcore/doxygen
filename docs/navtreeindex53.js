@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/structBossBoundaryData.html#af60e90664c434a8d36115ca5dec889b5":[5,0,796,6],
 "d2/d27/structboss__viscidus.html":[5,0,755],
 "d2/d27/structboss__viscidus.html#a12ee60a91dab2f95aab6e9914351344a":[5,0,755,10],
 "d2/d27/structboss__viscidus.html#a1a194c161b485d2abbb862506b6c239f":[5,0,755,9],
@@ -206,12 +207,12 @@ var NAVTREEINDEX53 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[5,0,3205,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[5,0,3205,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[5,0,3205,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[4,0,31,1,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,11,1,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[4,0,31,1,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,11,1,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[4,0,31,1,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,11,1,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[4,0,31,1,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,11,1,0,1],
 "d2/d35/BattlegroundAB_8h.html":[6,0,0,0,1,2,8,0,1],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[6,0,0,0,1,2,8,0,1,9],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716a003bd627e1e2937f456930df39bd54fe":[6,0,0,0,1,2,8,0,1,9,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa3b9498412e6798dbe0619f472849a7b":[6,0,0,0,1,2,8,0,1,10,20],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa501df1803557d6bf095074604206b66":[6,0,0,0,1,2,8,0,1,10,8],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aaf1ed05e79654c99430e1acfd7ee208f":[6,0,0,0,1,2,8,0,1,10,4],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254abf84e4f0e1e7f3c5d5ef2adffb21ea9d":[6,0,0,0,1,2,8,0,1,10,13],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac28800a8fe47d19f4f22a6e4158d245d":[6,0,0,0,1,2,8,0,1,10,25]
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254abf84e4f0e1e7f3c5d5ef2adffb21ea9d":[6,0,0,0,1,2,8,0,1,10,13]
 };

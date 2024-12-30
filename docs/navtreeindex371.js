@@ -1,5 +1,8 @@
 var NAVTREEINDEX371 =
 {
+"df/d14/classPet.html#ac731f71baf5d76ef5eead277e371605a":[5,0,2348,2],
+"df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0":[5,0,2348,38],
+"df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[5,0,2348,73],
 "df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[5,0,2348,77],
 "df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[5,0,2348,23],
 "df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[5,0,2348,80],
@@ -246,8 +249,5 @@ var NAVTREEINDEX371 =
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a6ae48c92d9fec13d66c445a2176b58eb":[5,0,1933,0,4],
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a8019ef0c505c6b71a44da13ed0dd081b":[5,0,1933,0,6],
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a9619ab9bb68a3da71a6c78e4092632f4":[5,0,1933,0,8],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#ad3a5853ee86922f5854ddf757dada8e9":[5,0,1933,0,11],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#ad6f7e7f6a745ba9b7b860030a9a22e9a":[5,0,1933,0,9],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#adc8ed31e1d0d2aac5bd75391b21b7bfb":[5,0,1933,0,10],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#adf35df754ce212e9937f4b7833b81bf6":[5,0,1933,0,5]
+"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#ad3a5853ee86922f5854ddf757dada8e9":[5,0,1933,0,11]
 };

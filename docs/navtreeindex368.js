@@ -1,5 +1,8 @@
 var NAVTREEINDEX368 =
 {
+"de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[5,0,1669,5],
+"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[5,0,1669,1],
+"de/deb/LogCommon_8h.html":[6,0,0,0,0,9,10],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[6,0,0,0,0,9,10,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[6,0,0,0,0,9,10,0,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[6,0,0,0,0,9,10,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX368 =
 "de/df5/transport__zeppelins_8cpp.html#a29051596b0a3382db98c6b72f7ff3173":[6,0,0,0,1,3,10,18,3],
 "de/df7/classWorldPackets_1_1Packet.html":[5,0,11,19],
 "de/df7/classWorldPackets_1_1Packet.html":[4,0,31,19],
-"de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[4,0,31,19,2],
-"de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,11,19,2],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[4,0,31,19,4],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[5,0,11,19,4]
+"de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[4,0,31,19,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffab0ee8ff5a96094148921a3aaedb4d18b":[6,0,0,0,1,3,2,4,0,10,19],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffab13a1aae8b85d53e3b7a3667d2cb9988":[6,0,0,0,1,3,2,4,0,10,15],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffac477ca3e4a9cac1e1f4d9bf2d1c5fa39":[6,0,0,0,1,3,2,4,0,10,7],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffac4a617a669a6454d394faebc6a06497d":[6,0,0,0,1,3,2,4,0,10,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/structBossBoundaryData.html#a446a3ec16cdce76058761fce972f1e57":[5,0,796,3],
 "d2/d27/structBossBoundaryData.html#a6825a379d1af4254b920c14ab0068e7b":[5,0,796,1],
 "d2/d27/structBossBoundaryData.html#ab3dc9905d861b62c4551f45ee8b08ba5":[5,0,796,5],
-"d2/d27/structBossBoundaryData.html#ac52d3ebfa7eaeb9d6fd08f0089b13918":[5,0,796,0],
-"d2/d27/structBossBoundaryData.html#af60e90664c434a8d36115ca5dec889b5":[5,0,796,6]
+"d2/d27/structBossBoundaryData.html#ac52d3ebfa7eaeb9d6fd08f0089b13918":[5,0,796,0]
 };

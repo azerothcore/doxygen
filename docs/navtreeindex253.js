@@ -1,5 +1,8 @@
 var NAVTREEINDEX253 =
 {
+"da/d77/classachievement__neck__deep__in__vile.html#a9861c008f302279a4ac5f4ddc14ca2d0":[5,0,74,1],
+"da/d77/classachievement__neck__deep__in__vile.html#af0e54c236e7637d8c1a8cf7dbed5a195":[5,0,74,0],
+"da/d77/classboss__the__lich__king.html":[5,0,715],
 "da/d77/classboss__the__lich__king.html#a10e2789a98a85907d24eabae6d7655f4":[5,0,715,1],
 "da/d77/classboss__the__lich__king.html#ab12d8cdfdb1c5428423f6db9dda6c97e":[5,0,715,2],
 "da/d77/structboss__tinhead.html":[5,0,731],
@@ -246,8 +249,5 @@ var NAVTREEINDEX253 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7df67fa2e186853d7cd92d20b1796cb9":[6,0,0,0,1,3,5,6,10,78,38],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80e6f5799737bc22dbfdc2d7b5bed89e":[6,0,0,0,1,3,5,6,10,78,10],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81ae81c83664c419bed5119046dc4ce3":[6,0,0,0,1,3,5,6,10,78,16],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81b63da66d67d3ccd13b2c105e0c8759":[6,0,0,0,1,3,5,6,10,78,52],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a85d9f7a629bba91cc7738c2e060f8adf":[6,0,0,0,1,3,5,6,10,78,61],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89dec8b25ae679b4716322cd8dfb1042":[6,0,0,0,1,3,5,6,10,78,32],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a90ca1c8992be0e186db128c8825baa15":[6,0,0,0,1,3,5,6,10,78,2]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81b63da66d67d3ccd13b2c105e0c8759":[6,0,0,0,1,3,5,6,10,78,52]
 };

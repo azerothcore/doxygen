@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,5,3,1,8],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[6,0,0,0,1,3,5,3,1,8,2],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[6,0,0,0,1,3,5,3,1,8,0],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[6,0,0,0,1,3,5,3,1,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d64/BattlegroundSA_8cpp.html#a2ec6635cf59771fcfd56b16cd670eebc":[6,0,0,0,1,2,8,0,18,0],
 "d2/d64/BattlegroundSA_8cpp.html#a7447506b77b9babea7568349335ea705":[6,0,0,0,1,2,8,0,18,2],
 "d2/d65/classspell__mother__shahraz__random__periodic__aura.html":[5,0,3391],
-"d2/d65/classspell__mother__shahraz__random__periodic__aura.html#a0a5ac432eca09206ac032317e8aa8cfc":[5,0,3391,1],
-"d2/d65/classspell__mother__shahraz__random__periodic__aura.html#a70248cfa468dfb3a97ea7f8b6848bc5f":[5,0,3391,3]
+"d2/d65/classspell__mother__shahraz__random__periodic__aura.html#a0a5ac432eca09206ac032317e8aa8cfc":[5,0,3391,1]
 };

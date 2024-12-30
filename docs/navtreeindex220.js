@@ -1,5 +1,7 @@
 var NAVTREEINDEX220 =
 {
+"d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6e3e940c0fe46fe4621781829b06da":[6,0,0,0,1,3,5,7,4,14,1],
+"d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e49fde4fe8ce8fa992cf9a3a4584afc":[6,0,0,0,1,3,5,7,4,14,9],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64":[6,0,0,0,1,3,5,7,4,14,4],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[6,0,0,0,1,3,5,7,4,14,3],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[6,0,0,0,1,3,5,7,4,14,5],
@@ -101,12 +103,12 @@ var NAVTREEINDEX220 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,26,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[4,0,1,38,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,0,26,1],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[4,0,1,38,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,0,26,5],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[4,0,1,38,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[4,0,1,38,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,0,26,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[4,0,1,38,6],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[5,0,0,26,6],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[4,0,1,38,6],
 "d8/dbd/structnpc__netherspite__infernal.html":[5,0,1949],
 "d8/dbd/structnpc__netherspite__infernal.html#a49c37fbebed2951c493962c1a3bd0339":[5,0,1949,3],
 "d8/dbd/structnpc__netherspite__infernal.html#a575040456c0eb4d343e7c0c5f75159b4":[5,0,1949,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX220 =
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#ae082296b63763d2c18db5093dba4d18d":[5,0,1681,0,10],
 "d8/dc2/boss__halazzi_8cpp.html":[6,0,0,0,1,3,2,15,1],
 "d8/dc2/boss__halazzi_8cpp.html#a010d3293429f2ddb4d3c8a470ee2347f":[6,0,0,0,1,3,2,15,1,8],
-"d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccf":[6,0,0,0,1,3,2,15,1,1],
-"d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccfa63fd17f849c7bec9e7834eb6c7ba1ffd":[6,0,0,0,1,3,2,15,1,1,0],
-"d8/dc2/boss__halazzi_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,2,15,1,7]
+"d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccf":[6,0,0,0,1,3,2,15,1,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX218 =
 {
+"d8/d94/classTradeData.html#a420249fcbb7394f16009861ccdb6962a":[5,0,4075,8],
+"d8/d94/classTradeData.html#a4851016708b0e8336ec33c64ab41aa8a":[5,0,4075,13],
 "d8/d94/classTradeData.html#a54d3de8cb15ccc761d272295b19b7575":[5,0,4075,2],
 "d8/d94/classTradeData.html#a6c769042535c69e89bdc19234dd680e4":[5,0,4075,1],
 "d8/d94/classTradeData.html#a75b4970c1f26912bc24da528f226ca76":[5,0,4075,10],
@@ -109,10 +111,10 @@ var NAVTREEINDEX218 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[4,0,31,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[4,0,31,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,11,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[4,0,31,2,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,11,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[4,0,31,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[5,0,2459],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[5,0,2459,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[5,0,2459,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d8/da3/structCreatureMovementData.html#aa535d32995ba28e11915dd56494f4a72":[5,0,910,10],
 "d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf":[5,0,910,1],
 "d8/da3/structCreatureMovementData.html#ac16489cdc845f350e98da595269b7770":[5,0,910,2],
-"d8/da3/structCreatureMovementData.html#acb8099aff89bb3526a78073fd5503e9b":[5,0,910,0],
-"d8/da3/structCreatureMovementData.html#ad2e480bc7a0b98c417be077305392647":[5,0,910,4],
-"d8/da3/structCreatureMovementData.html#ad76c73b59fa83682a9ae43389fed95b0":[5,0,910,8]
+"d8/da3/structCreatureMovementData.html#acb8099aff89bb3526a78073fd5503e9b":[5,0,910,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX215 =
 {
+"d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[3,1,19,537],
+"d8/d74/classWorldSession.html#aaec211170af12b890ad586005a16661d":[3,1,19,215],
 "d8/d74/classWorldSession.html#aaeca041a436f4516a75eeba5d3361c20":[3,1,19,255],
 "d8/d74/classWorldSession.html#aaf12dbcad4c88c4e71d0af7ea1507474":[3,1,19,452],
 "d8/d74/classWorldSession.html#aaf1751384d52e30e18b46d451d6ddd72":[3,1,19,259],
@@ -247,7 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[5,0,85,1],
 "d8/d78/classDeathEvent.html":[5,0,945],
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[5,0,945,2],
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[5,0,945,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[5,0,945,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,11,5,31]
+"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[5,0,945,0]
 };

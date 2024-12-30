@@ -1,5 +1,8 @@
 var NAVTREEINDEX254 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a85d9f7a629bba91cc7738c2e060f8adf":[6,0,0,0,1,3,5,6,10,78,61],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89dec8b25ae679b4716322cd8dfb1042":[6,0,0,0,1,3,5,6,10,78,32],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a90ca1c8992be0e186db128c8825baa15":[6,0,0,0,1,3,5,6,10,78,2],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[6,0,0,0,1,3,5,6,10,78,0],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[6,0,0,0,1,3,5,6,10,78,35],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a95e80ebad3e746dc03d5948a5238d251":[6,0,0,0,1,3,5,6,10,78,23],
@@ -32,8 +35,8 @@ var NAVTREEINDEX254 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[5,0,3823,1],
 "da/d7b/MapMgr_8h.html":[6,0,0,0,1,2,26,7],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[6,0,0,0,1,2,26,7,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[4,0,27,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,8,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[4,0,27,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[4,0,27,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[6,0,0,0,1,3,2,12,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX254 =
 "da/d82/classreload__commandscript.html#a4355d72ccb63064dfd0b9a381aa7b0c4":[5,0,2453,82],
 "da/d82/classreload__commandscript.html#a4548192c2d51e3b596f6fb367ca477a6":[5,0,2453,62],
 "da/d82/classreload__commandscript.html#a4623d0a113c0bd884475f8abb1396161":[5,0,2453,11],
-"da/d82/classreload__commandscript.html#a4a4b97e0b3655fcfe30648988ebc98b3":[5,0,2453,50],
-"da/d82/classreload__commandscript.html#a4a8ffd2e0efa826f59f7d0a57ff6963a":[5,0,2453,39],
-"da/d82/classreload__commandscript.html#a4bcf56a34cf56f3f04a68abc55e58968":[5,0,2453,34],
-"da/d82/classreload__commandscript.html#a4c1f75b4a252ea1edfd9734973b2f2b7":[5,0,2453,60]
+"da/d82/classreload__commandscript.html#a4a4b97e0b3655fcfe30648988ebc98b3":[5,0,2453,50]
 };

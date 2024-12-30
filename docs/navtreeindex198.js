@@ -1,5 +1,7 @@
 var NAVTREEINDEX198 =
 {
+"d7/da8/classspell__dru__glyph__of__starfire.html#af9056c179b8089cf0b304b3ce61ea92f":[5,0,2767,3],
+"d7/da9/IntermediateValues_8cpp.html":[6,0,0,0,3,2,0],
 "d7/da9/IntermediateValues_8cpp.html#a4ebf72895c1d62f0bc7d45804db4bc91":[6,0,0,0,3,2,0,0],
 "d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html":[5,0,468,0],
 "d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a01cc3db24e03600501b9980aa966ad7d":[5,0,468,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX198 =
 "d7/db0/classMap.html#ab70e727db299a2c99866ec407ae31d8a":[5,0,1447,38],
 "d7/db0/classMap.html#ab7d7a4e9fa4e69efa9b45691ffe7519e":[5,0,1447,81],
 "d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7":[5,0,1447,42],
-"d7/db0/classMap.html#ab89dead692716665cb5fe0c9c2dcf830":[5,0,1447,45],
-"d7/db0/classMap.html#ab8a0f0ee2c5280d116fef1c28f3c52cd":[5,0,1447,142],
-"d7/db0/classMap.html#ab9855e187255da4c4bdb41c5debadcb0":[5,0,1447,237]
+"d7/db0/classMap.html#ab89dead692716665cb5fe0c9c2dcf830":[5,0,1447,45]
 };

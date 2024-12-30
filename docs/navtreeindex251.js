@@ -1,7 +1,10 @@
 var NAVTREEINDEX251 =
 {
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[4,0,19,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[4,0,19,14,8],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,5,14,9],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[4,0,19,14,9],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,5,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[4,0,19,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,5,14,0],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[4,0,19,14,0],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html":[5,0,1268,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX251 =
 "da/d70/classat__icc__saurfang__portal.html#a7f30058251c520634a0b7bad08380e5d":[5,0,208,0],
 "da/d70/classat__icc__saurfang__portal.html#a8980fe0e67aa33335f0fdb947a294213":[5,0,208,1],
 "da/d71/classFleeingMovementGenerator.html":[5,0,1032],
-"da/d71/classFleeingMovementGenerator.html#a0e84bc32b599040c7f8ed9cdf92679e8":[5,0,1032,4],
-"da/d71/classFleeingMovementGenerator.html#a1b71b8e2f29109b5dee1e1661d54f74a":[5,0,1032,10],
-"da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211":[5,0,1032,13],
-"da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16":[5,0,1032,11]
+"da/d71/classFleeingMovementGenerator.html#a0e84bc32b599040c7f8ed9cdf92679e8":[5,0,1032,4]
 };

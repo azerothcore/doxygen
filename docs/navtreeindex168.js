@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a4a1dd1e544ac1590b380010345979157":[6,0,0,0,1,2,7,0,1,52],
+"d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734d":[6,0,0,0,1,2,7,0,1,19],
 "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da1d42500b191b0b27c493da37d7eb015c":[6,0,0,0,1,2,7,0,1,19,1],
 "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da2dc05848dae9c1e9ddb3ba49785ebbfa":[6,0,0,0,1,2,7,0,1,19,3],
 "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da7f27fe55a854d9050a7a648a7da6365b":[6,0,0,0,1,2,7,0,1,19,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825":[6,0,0,0,1,3,2,9,0,11,11],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199":[6,0,0,0,1,3,2,9,0,11,3],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a":[6,0,0,0,1,3,2,9,0,11,1],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[6,0,0,0,1,3,2,9,0,11,5],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340e":[6,0,0,0,1,3,2,9,0,13],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[6,0,0,0,1,3,2,9,0,13,14]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[6,0,0,0,1,3,2,9,0,11,5]
 };

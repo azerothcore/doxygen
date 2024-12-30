@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aae9eeefe6d0a0ccea0196ca1c8501869":[6,0,0,0,1,1,0,0,5,1,62],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ab12f92e72373cae0a3aeb3ca33a69e37":[6,0,0,0,1,1,0,0,5,1,45],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ab6587a27577a86066682b3f594cbc94e":[6,0,0,0,1,1,0,0,5,1,65],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ab84ac2f6139d179e977b76c479fc17bc":[6,0,0,0,1,1,0,0,5,1,37],
@@ -197,14 +198,14 @@ var NAVTREEINDEX94 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[5,0,3715,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[5,0,3715,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[5,0,3715,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[4,0,1,7,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,4,0,5,1],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[4,0,1,7,0,5,1],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[4,0,1,7,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[4,0,1,7,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[4,0,1,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[5,0,1716],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[5,0,1716,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[5,0,1716,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#a6de2140f17790b63314f653b7dd0ddd3":[5,0,3295,3],
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#ac8b3f1a826e3491d4315983a89d23d2e":[5,0,3295,0],
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#ad54c3014195c5b848ab1f9cc978f72b3":[5,0,3295,1],
-"d3/d2d/classspell__krick__explosive__barrage__aura.html#af8e1ee8ddf7ed8290eb71fb7697428fb":[5,0,3295,2],
-"d3/d2d/classspell__rotface__mutated__infection__aura.html":[5,0,3668]
+"d3/d2d/classspell__krick__explosive__barrage__aura.html#af8e1ee8ddf7ed8290eb71fb7697428fb":[5,0,3295,2]
 };

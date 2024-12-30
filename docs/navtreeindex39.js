@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d1/da9/classboss__auriaya.html#a09c7cd124672eb12ec349dbbbd3c87ef":[5,0,371,2],
 "d1/da9/classboss__auriaya.html#a8acecf02a63e846d1a46633a6ade6083":[5,0,371,1],
 "d1/daa/classnpc__ulduar__aerial__command__unit.html":[5,0,2173],
 "d1/daa/classnpc__ulduar__aerial__command__unit.html#a406e828a902d75bb1946fd8f5090044f":[5,0,2173,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabe35819c1f26bc8a11889d5f6efe026c":[6,0,0,0,1,2,16,10,5,41,20],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fac3d309e81b26ab610ed447863d403617":[6,0,0,0,1,2,16,10,5,41,19],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facb66efc9eeb8a80af7ee8cbf6f7d5083":[6,0,0,0,1,2,16,10,5,41,7],
-"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facf6a2e896a4631eff4530af87546cfbc":[6,0,0,0,1,2,16,10,5,41,12],
-"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fadea061f6bf3278a55f54a7f930bc34fe":[6,0,0,0,1,2,16,10,5,41,10]
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facf6a2e896a4631eff4530af87546cfbc":[6,0,0,0,1,2,16,10,5,41,12]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX383 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0":[6,0,0,0,1,3,6,8,7,0],
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19":[6,0,0,0,1,3,6,8,4],
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623":[6,0,0,0,1,3,6,8,4,1],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870":[6,0,0,0,1,3,6,8,4,7],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099":[6,0,0,0,1,3,6,8,4,8],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8":[6,0,0,0,1,3,6,8,4,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX383 =
 "df/da0/classspell__item__fetch__ball.html#a3153b6c6814922cd7220e19b06f2a602":[5,0,3171,2],
 "df/da0/classspell__item__fetch__ball.html#a72e57e8a4bdb9a4fcd73e3519b6025ea":[5,0,3171,0],
 "df/da0/classspell__item__fetch__ball.html#aac4d3c8ecde3652c65c05abad5c8eaeb":[5,0,3171,1],
-"df/da1/boss__black__knight_8cpp.html":[6,0,0,0,1,3,5,2,0,1],
-"df/da1/boss__black__knight_8cpp.html#a1f2fb442cd7b62bd2617eb1c22397bcc":[6,0,0,0,1,3,5,2,0,1,8],
-"df/da1/boss__black__knight_8cpp.html#a21750265bbf84aa88650092ac436f88e":[6,0,0,0,1,3,5,2,0,1,14],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298c":[6,0,0,0,1,3,5,2,0,1,19]
+"df/da1/boss__black__knight_8cpp.html":[6,0,0,0,1,3,5,2,0,1]
 };

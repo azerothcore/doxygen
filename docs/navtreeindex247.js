@@ -1,5 +1,8 @@
 var NAVTREEINDEX247 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7eb197a8bd93b47521695875517c14e":[6,0,0,0,1,2,41,0,0,6,149],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab874bc804510a60629deb927b2610db6":[6,0,0,0,1,2,41,0,0,6,276],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab9cdea3561a7d5ff5ade44bdd2e6f962":[6,0,0,0,1,2,41,0,0,6,248],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab9f377f6e107ad1633d32a22da2ec7d2":[6,0,0,0,1,2,41,0,0,6,24],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aba1e414b7190fbe159d5eb4faa4b99d7":[6,0,0,0,1,2,41,0,0,6,83],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aba7e00a7ce6cd006b67262e5e3731364":[6,0,0,0,1,2,41,0,0,6,230],
@@ -185,8 +188,8 @@ var NAVTREEINDEX247 =
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[4,0,31,5,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[5,0,11,5,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[4,0,31,5,33,4],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[5,0,11,5,33,0],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[4,0,31,5,33,0],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[5,0,11,5,33,0],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[4,0,31,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[5,0,11,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acd5105c31e0f56e680f3384e86186872":[4,0,31,5,33,2],
@@ -216,8 +219,8 @@ var NAVTREEINDEX247 =
 "da/d35/structPlayer_1_1ChatFloodThrottle.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb":[5,0,2362,1,0,1],
 "da/d35/structPlayer_1_1ChatFloodThrottle.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5":[5,0,2362,1,0,2],
 "da/d35/structPlayer_1_1ChatFloodThrottle.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68":[5,0,2362,1,0,0],
-"da/d35/structlfg_1_1LfgWaitTime.html":[4,0,19,18],
 "da/d35/structlfg_1_1LfgWaitTime.html":[5,0,5,18],
+"da/d35/structlfg_1_1LfgWaitTime.html":[4,0,19,18],
 "da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[4,0,19,18,2],
 "da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[5,0,5,18,2],
 "da/d35/structlfg_1_1LfgWaitTime.html#a1d80e0848c06c658a4c0587b686fe09d":[4,0,19,18,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX247 =
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#ac607601becc7fbf4ea9c64d87c93287c":[5,0,1276,0,1],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#ae19a56e7fdcb2d0204d444cba11b7441":[5,0,1276,0,6],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#af800a1906c532f61f0299f8aa9359a66":[5,0,1276,0,4],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html":[5,0,0,14],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html":[4,0,1,26],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a0281d22587b9b1bdbfbdd8dccc625186":[5,0,0,14,0],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a0281d22587b9b1bdbfbdd8dccc625186":[4,0,1,26,0]
+"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html":[5,0,0,14]
 };

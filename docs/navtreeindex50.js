@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d2/d12/classUnitScript.html#a7b74be81d24bc7265d5566d67d044aad":[5,0,4114,23],
 "d2/d12/classUnitScript.html#a7bb5f4ea3ae8edb55df455648863d93f":[5,0,4114,19],
 "d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb":[5,0,4114,20],
 "d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf":[5,0,4114,1],
@@ -42,16 +43,16 @@ var NAVTREEINDEX50 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[5,0,2135,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[5,0,2135,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[5,0,2135,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,11,7,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[4,0,31,7,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,11,7,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[4,0,31,7,0,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,11,7,0,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[4,0,31,7,0,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,11,7,0,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,11,7,0,4],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[4,0,31,7,0,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[4,0,31,7,0,4],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[4,0,31,7,0,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,11,7,0,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,11,7,0,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[4,0,31,7,0,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[4,0,31,7,0,3],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[5,0,11,7,0,3],
 "d2/d16/AppenderFile_8h.html":[6,0,0,0,0,9,5],
@@ -96,10 +97,10 @@ var NAVTREEINDEX50 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[5,0,270,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[5,0,270,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[5,0,270,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[4,0,1,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,4,0,3],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[4,0,1,7,0,3,2],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[4,0,1,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,4,0,3,2],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[4,0,1,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[4,0,1,7,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[4,0,1,7,0,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d1e/classInstanceScript.html#a2a29bf4fcd4b279aaaee1d820fe57bd4":[5,0,1339,6],
 "d2/d1e/classInstanceScript.html#a2d682a63bb3099ffdc35517d004fe723":[5,0,1339,9],
 "d2/d1e/classInstanceScript.html#a2ec79651907fddda63f1bbdd2e23e2c3":[5,0,1339,37],
-"d2/d1e/classInstanceScript.html#a31853e63c6bcc2096427c49008e8ffb2":[5,0,1339,69],
-"d2/d1e/classInstanceScript.html#a31f75bf8f2474a84d439c96a78e6f964":[5,0,1339,63]
+"d2/d1e/classInstanceScript.html#a31853e63c6bcc2096427c49008e8ffb2":[5,0,1339,69]
 };

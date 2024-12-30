@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd9/structAchievementCriteriaEntry.html#a0452734f5f0849ae41e0812924416c4c":[5,0,111,122],
+"d4/dd9/structAchievementCriteriaEntry.html#a0564fbf31435181c22870af2c993fd03":[5,0,111,17],
 "d4/dd9/structAchievementCriteriaEntry.html#a083268faa95a36a1d89bf2421791a650":[5,0,111,114],
 "d4/dd9/structAchievementCriteriaEntry.html#a0b834e291a9565c7362be4294fdce2b5":[5,0,111,13],
 "d4/dd9/structAchievementCriteriaEntry.html#a0bd4aaf5ed1e7915d26eb7862180d829":[5,0,111,123],
@@ -130,8 +132,8 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[5,0,1027,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,11,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[4,0,31,15],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,11,15,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[4,0,31,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,11,15,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[5,0,1859,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[5,0,1859,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[5,0,1859,0,0],
@@ -218,16 +220,16 @@ var NAVTREEINDEX137 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[5,0,1609,0,3],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[5,0,1609,0,2],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[5,0,1609,0,7],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,11,5,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[4,0,31,5,35],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,11,5,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,11,5,35,1],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[4,0,31,5,35,1],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,11,5,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[4,0,31,5,35,0],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,11,5,35,3],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,11,5,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[4,0,31,5,35,3],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[5,0,11,5,35,2],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,11,5,35,3],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[4,0,31,5,35,2],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[5,0,11,5,35,2],
 "d4/de2/classlfg__commandscript.html":[5,0,1385],
 "d4/de2/classlfg__commandscript.html#a2376288a2ef82d8a19602cd66ff880f2":[5,0,1385,3],
 "d4/de2/classlfg__commandscript.html#a324310f9b04675c277ceae44ea09fbaf":[5,0,1385,1],
@@ -246,8 +248,6 @@ var NAVTREEINDEX137 =
 "d4/de3/classnpc__terenas__menethil.html#ad5f29af90c3f40ce0dad019b5ec05cf2":[5,0,2121,2],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html":[4,0,1,8,0,19],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html":[5,0,0,5,0,19],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a1605d492889200f2d18d6759882913aa":[4,0,1,8,0,19,7],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a1605d492889200f2d18d6759882913aa":[5,0,0,5,0,19,7],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461":[4,0,1,8,0,19,0],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461":[5,0,0,5,0,19,0]
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a1605d492889200f2d18d6759882913aa":[4,0,1,8,0,19,7]
 };

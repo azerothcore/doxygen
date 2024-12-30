@@ -1,5 +1,8 @@
 var NAVTREEINDEX394 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[5,0,2636,4],
+"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[5,0,2636,3],
+"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[5,0,2636,5],
 "df/de3/boss__leotheras__the__blind_8cpp.html":[6,0,0,0,1,3,7,2,0,3],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[6,0,0,0,1,3,7,2,0,3,9],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdce7ad61e391f64294777e90a00175":[6,0,0,0,1,3,7,2,0,3,9,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX394 =
 "df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[5,0,826,28],
 "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[5,0,826,22],
 "df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[5,0,826,14],
-"df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[5,0,826,9],
-"df/df1/structCell.html#ab3fe002db0c02530e0e81857857ab26b":[5,0,826,31],
-"df/df1/structCell.html#abc5ed731630ec862efb15d699d4e5213":[5,0,826,5],
-"df/df1/structCell.html#abd95fd440e9f8dab059a8c518c58eca2":[5,0,826,19]
+"df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[5,0,826,9]
 };

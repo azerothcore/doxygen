@@ -1,5 +1,8 @@
 var NAVTREEINDEX377 =
 {
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#aceae6d1588aec9035fb80678af32e96c":[5,0,1602,0,10],
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#acf165009e5b2164d8244e709043eba09":[5,0,1602,0,0],
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#afa7fd12da57b887f1254e24d444f43d1":[5,0,1602,0,13],
 "df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html":[5,0,3772],
 "df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a55460c6393c165e3096c967c81136032":[5,0,3772,0],
 "df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a8458f77fde6eaddc273b3fe5f4e49ae0":[5,0,3772,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX377 =
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a":[6,0,0,0,1,3,2,1,0,0,13,3],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97":[6,0,0,0,1,3,2,1,0,0,13,0],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb":[6,0,0,0,1,3,2,1,0,0,13,1],
-"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94":[6,0,0,0,1,3,2,1,0,0,14],
-"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b":[6,0,0,0,1,3,2,1,0,0,14,0],
-"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700":[6,0,0,0,1,3,2,1,0,0,14,1],
-"df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822":[6,0,0,0,1,3,2,1,0,0,23]
+"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94":[6,0,0,0,1,3,2,1,0,0,14]
 };

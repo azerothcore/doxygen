@@ -1,5 +1,8 @@
 var NAVTREEINDEX269 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68":[6,0,0,0,1,3,9,6,27,44],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee":[6,0,0,0,1,3,9,6,27,17],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f":[6,0,0,0,1,3,9,6,27,45],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332":[6,0,0,0,1,3,9,6,27,16],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd":[6,0,0,0,1,3,9,6,27,35],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117":[6,0,0,0,1,3,9,6,27,30],
@@ -245,9 +248,6 @@ var NAVTREEINDEX269 =
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[4,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[4,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,4,6,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[5,0,1853,0],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[5,0,1853,0,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[5,0,1853,0,9]
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[4,0,1,7,6,1]
 };

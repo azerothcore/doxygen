@@ -1,5 +1,6 @@
 var NAVTREEINDEX75 =
 {
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a6ab4dc86911debb47e9d1784cb65dbb8":[5,0,571,0,7],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a72971bdfe394da6fe94ce340143ab060":[5,0,571,0,14],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a7eec8900602522cf39dd3a8dba733649":[5,0,571,0,9],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a868b18df67744868a8f694e7df7f1e66":[5,0,571,0,10],
@@ -27,12 +28,12 @@ var NAVTREEINDEX75 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[5,0,2034,0,4],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,11,1,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[4,0,31,1,8],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[4,0,31,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,11,1,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,11,1,8,0],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[4,0,31,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[4,0,31,1,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[4,0,31,1,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,11,1,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,11,1,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[4,0,31,1,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[6,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[6,0,0,0,1,3,5,8,1,5,5],
 "d2/dd2/instance__nexus_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[6,0,0,0,1,3,5,8,1,5,4],
@@ -121,8 +122,8 @@ var NAVTREEINDEX75 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,0,38],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,38,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[4,0,1,50,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[4,0,1,50,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,38,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[4,0,1,50,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,38,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[4,0,1,50,2],
 "d2/ddb/structPyramidEventData.html":[5,0,2412],
@@ -248,6 +249,5 @@ var NAVTREEINDEX75 =
 "d2/de1/structnpc__pet__mage__mirror__image.html#a8be57d06114f108e74b850ce66722bf3":[5,0,1989,6],
 "d2/de1/structnpc__pet__mage__mirror__image.html#aa219b3adc38b625c6885089895b941b4":[5,0,1989,5],
 "d2/de3/CellImpl_8h.html":[6,0,0,0,1,2,19,0,1],
-"d2/de3/classnpc__shadowmoon__tuber__node.html":[5,0,2068],
-"d2/de3/classnpc__shadowmoon__tuber__node.html#a5f641af77e2fd78fe67b34fa18bf6b73":[5,0,2068,2]
+"d2/de3/classnpc__shadowmoon__tuber__node.html":[5,0,2068]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#a4e2a5a2d666419ccbb0ca71670332b8c":[5,0,2601,3],
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#a7494c41e41ffc55811c57208f80c7eb6":[5,0,2601,1],
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#aad87c25b9b3255a4871bec39d9787299":[5,0,2601,0],
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#acce25abc58a29dfe5a5287a8b00242ae":[5,0,2601,2],
@@ -47,12 +48,12 @@ var NAVTREEINDEX36 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[5,0,1947,0,5],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,10],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[4,0,1,22],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,10,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[4,0,1,22,0],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,10,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[4,0,1,22,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,10,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[4,0,1,22,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,10,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[4,0,1,22,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[4,0,1,22,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,10,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[4,0,1,22,3],
@@ -221,8 +222,8 @@ var NAVTREEINDEX36 =
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[4,0,31,5,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[4,0,31,5,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[5,0,11,5,18,0],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[4,0,31,5,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[5,0,11,5,18,2],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[4,0,31,5,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,11,5,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[4,0,31,5,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[4,0,31,5,18,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d88/structboss__onyxia.html#a837fb19b4c85d87ebf026b2f692696bb":[5,0,631,9],
 "d1/d88/structboss__onyxia.html#a9e6a94b225caf455f9072c3a430ba49e":[5,0,631,3],
 "d1/d88/structboss__onyxia.html#aa03a986845d79dba3c60446d84ec7189":[5,0,631,4],
-"d1/d88/structboss__onyxia.html#ab465e9d7dd63ca51559b9b8f1ed9921e":[5,0,631,17],
-"d1/d88/structboss__onyxia.html#ab46b86e0eeee3918d1308a1fdb48e22f":[5,0,631,0]
+"d1/d88/structboss__onyxia.html#ab465e9d7dd63ca51559b9b8f1ed9921e":[5,0,631,17]
 };

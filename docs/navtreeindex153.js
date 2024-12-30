@@ -1,8 +1,10 @@
 var NAVTREEINDEX153 =
 {
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[4,0,1,104,4],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,92,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[4,0,1,104,3],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[4,0,1,104,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,92,5],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[4,0,1,104,5],
 "d5/dc0/classspell__marli__transform.html":[5,0,3363],
 "d5/dc0/classspell__marli__transform.html#a56bf9c77cf96b1e34543a59fc2a308b2":[5,0,3363,1],
 "d5/dc0/classspell__marli__transform.html#a92734043e53b5e1ef81fa9b5ccce135e":[5,0,3363,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a1cb3ef9fdfc9e375d15e14b9230dd51e":[5,0,724,0,2],
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a6ef7c9e23280564aec1b82eb670bc4f9":[5,0,724,0,4],
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae00c9e72f14e3f2c94da118a1fe27130":[5,0,724,0,0],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae9043ed9b72cc0eda6fb7c859355da57":[5,0,724,0,1],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#afd8e05444eeea620a7ef21e97c345d41":[5,0,724,0,3],
-"d5/dc8/classspell__blood__queen__bloodbolt.html":[5,0,2616]
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae9043ed9b72cc0eda6fb7c859355da57":[5,0,724,0,1]
 };

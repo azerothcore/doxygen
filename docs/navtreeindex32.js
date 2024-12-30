@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d1/d4f/classQuest.html#a284d048bad5d1106b000888fed973ced":[5,0,2418,125],
 "d1/d4f/classQuest.html#a2f5672d8628461b03e49242cd2f9342b":[5,0,2418,86],
 "d1/d4f/classQuest.html#a31378cd54fb5bbe7cccbd47cdd06ac3b":[5,0,2418,31],
 "d1/d4f/classQuest.html#a3558479026c8508a7e20b25e682ae74c":[5,0,2418,2],
@@ -156,16 +157,16 @@ var NAVTREEINDEX32 =
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,0,116,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[4,0,1,128,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,0,116,3],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[4,0,1,128,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,0,116,5],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[4,0,1,128,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,0,116,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[4,0,1,128,2],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[5,0,0,116,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[4,0,1,128,7],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[5,0,0,116,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[5,0,0,116,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[4,0,1,128,9],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,0,116,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[4,0,1,128,6],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,0,116,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[4,0,1,128,0],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[5,0,0,116,0],
 "d1/d55/GuildScript_8h.html":[6,0,0,0,1,2,38,0,56],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d1/d59/structboss__headless__horseman__pumpkin.html#a62191ae523401ac57a947db96a245f7a":[5,0,508,0],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a9d5f6922a52146b61168f1c50b378294":[5,0,508,3],
 "d1/d59/structboss__headless__horseman__pumpkin.html#aca53b8839bce5e180ba8583490d694c3":[5,0,508,5],
-"d1/d59/structnpc__raging__flames.html":[5,0,2029],
-"d1/d59/structnpc__raging__flames.html#a0e015aa73efdafb1bb9683b2f3c1ba34":[5,0,2029,2]
+"d1/d59/structnpc__raging__flames.html":[5,0,2029]
 };

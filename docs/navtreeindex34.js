@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d63/classnpc__brann__radio.html#a22b5231f643c287d8e32d88a3b0728b2":[5,0,1627,1],
 "d1/d63/classnpc__brann__radio.html#aa2ea91337262fb886e7535ba013f4b10":[5,0,1627,2],
 "d1/d63/structargentPonyBanner.html":[5,0,187],
 "d1/d63/structargentPonyBanner.html#a740f9162b10d31d1677a4ac4f5926db6":[5,0,187,1],
@@ -9,10 +10,10 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[4,0,1,86],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[4,0,1,86,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,74,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,74,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[4,0,1,86,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,74,3],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,74,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[4,0,1,86,3],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,74,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[4,0,1,86,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,74,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,0,74,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#ae110bf89612d9e2c6a3cf2b207d4ce6d":[5,0,1279,0,5],
 "d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#ae6f84f7a7ae0af6349f1879b2178f36e":[5,0,1279,0,13],
 "d1/d6c/classspell__dk__death__coil.html":[5,0,2711],
-"d1/d6c/classspell__dk__death__coil.html#a39b726e6c5809a6f8100970e8b71fc71":[5,0,2711,2],
-"d1/d6c/classspell__dk__death__coil.html#a59cca008a97447e257bf24071301b366":[5,0,2711,4]
+"d1/d6c/classspell__dk__death__coil.html#a39b726e6c5809a6f8100970e8b71fc71":[5,0,2711,2]
 };

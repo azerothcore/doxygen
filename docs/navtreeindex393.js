@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3052aa4a7f17d77561be9df21799ce79":[6,0,0,0,1,3,5,6,4,57,28],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a34354ccdb52f4fa2ef6d3d9c932ba97e":[6,0,0,0,1,3,5,6,4,57,4],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53d2cfee66f049e1a762f6558b27d62d":[6,0,0,0,1,3,5,6,4,57,15],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5bc621fe7e30a65a9fddfbd8712d7759":[6,0,0,0,1,3,5,6,4,57,31],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6136b7f6b09dd957ea7977018c25216b":[6,0,0,0,1,3,5,6,4,57,2],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a648ba9823986665be2cd3febcf9b396e":[6,0,0,0,1,3,5,6,4,57,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/de2/classspell__brewfest__main__ram__buff.html":[5,0,2636],
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[5,0,2636,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[5,0,2636,2],
-"df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[5,0,2636,1],
-"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[5,0,2636,4],
-"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[5,0,2636,3],
-"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[5,0,2636,5]
+"df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[5,0,2636,1]
 };

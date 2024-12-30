@@ -1,5 +1,8 @@
 var NAVTREEINDEX312 =
 {
+"dc/dfb/classUpdateTime.html#abb8749ed72a0bd159034132fb2a8b628":[5,0,4122,20],
+"dc/dfb/classUpdateTime.html#ac3ccabe6dee6e0e2343fab39a971e888":[5,0,4122,16],
+"dc/dfb/classUpdateTime.html#acee0682ebe0d6c2097209262ebee6f80":[5,0,4122,21],
 "dc/dfb/classUpdateTime.html#ad44ab22d8f9cdbad920887109e52609a":[5,0,4122,14],
 "dc/dfb/classUpdateTime.html#ae013fcb0d7df86c35d9caf355a6968ff":[5,0,4122,15],
 "dc/dfb/classspell__gruul__ground__slam.html":[5,0,2984],
@@ -221,10 +224,10 @@ var NAVTREEINDEX312 =
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[4,0,19,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,5,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[4,0,19,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,5,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[4,0,19,15,2],
+"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[4,0,19,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,5,15,2],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[4,0,19,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[4,0,19,15,0],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,5,15,0],
 "dd/d08/classspell__electrial__storm.html":[5,0,2800],
@@ -246,8 +249,5 @@ var NAVTREEINDEX312 =
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a92af4732575008c1a4f061cef0f23902":[5,0,2020,0,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#ad4a4bd9af581abe832933da69b18d76f":[5,0,2020,0,3],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#af8e4e706925d8837cacdc0b5a6d1f10d":[5,0,2020,0,2],
-"dd/d0a/structGtOCTRegenHPEntry.html":[5,0,1218],
-"dd/d0a/structGtOCTRegenHPEntry.html#ac22c096d41c6fb7ebdc824fc1ca8601b":[5,0,1218,0],
-"dd/d0b/classPetScript.html":[5,0,2358],
-"dd/d0b/classPetScript.html#a1263b06233902fbede9fc5df80cc8ad4":[5,0,2358,5]
+"dd/d0a/structGtOCTRegenHPEntry.html":[5,0,1218]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html#a070e0dacb457d7dc0bd61594f0ed6d83":[5,0,2609,0],
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html#ac30073d35c40385a24b694012776391e":[5,0,2609,1],
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html#ae66eceece2812aee47acb386735f50a0":[5,0,2609,2],
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html#af26c0361e6b7e480f59563d8630d6736":[5,0,2609,3],
@@ -171,8 +172,8 @@ var NAVTREEINDEX56 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[5,0,1012,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[5,0,1012,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[5,0,1012,6],
-"d2/d49/structAcore_1_1find__type__if.html":[4,0,1,60],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,0,48],
+"d2/d49/structAcore_1_1find__type__if.html":[4,0,1,60],
 "d2/d4a/classinstance__zulaman.html":[5,0,1331],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[5,0,1331,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[5,0,1331,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d4b/classPlayer.html#a0d45904c854c2ac11a5f21a578c6ad00":[5,0,2362,1165],
 "d2/d4b/classPlayer.html#a0d99907a41953dfe2e4589a785503fc1":[5,0,2362,708],
 "d2/d4b/classPlayer.html#a0de8239a1bc26a76ffbfd887201492e3":[5,0,2362,535],
-"d2/d4b/classPlayer.html#a0e0d50a8cdedda02db6c52eca13f6ace":[5,0,2362,651],
-"d2/d4b/classPlayer.html#a0eaf8ade1fc32527b845a3213bb27703":[5,0,2362,783]
+"d2/d4b/classPlayer.html#a0e0d50a8cdedda02db6c52eca13f6ace":[5,0,2362,651]
 };

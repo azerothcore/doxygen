@@ -1,5 +1,8 @@
 var NAVTREEINDEX332 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a3565b34d1a34ff58648c1ac6c3d2c13b":[6,0,0,0,1,3,5,19,29,10],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a46b0a895be7ae9d5a29ff6273df0fe9a":[6,0,0,0,1,3,5,19,29,12],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5ea4c443cdf136d58f98541869a0d3a7":[6,0,0,0,1,3,5,19,29,8],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5eac235efc73e11d15cbd086ac1c7bc3":[6,0,0,0,1,3,5,19,29,9],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995":[6,0,0,0,1,3,5,19,29,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469":[6,0,0,0,1,3,5,19,29,17],
@@ -114,18 +117,18 @@ var NAVTREEINDEX332 =
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[5,0,2909,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[5,0,2909,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[5,0,2909,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,13],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[4,0,1,25],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,13,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,13],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[4,0,1,25,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,13,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[4,0,1,25,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,13,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[4,0,1,25,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,13,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[4,0,1,25,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[4,0,1,25,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,13,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,13,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[4,0,1,25,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,13,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[5,0,2982],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[5,0,2982,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[5,0,2982,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX332 =
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a36d1993262eb0a7200e2bec625f5b4d1":[5,0,1808,0,7],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[5,0,1808,0,1],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a7cf9338767e8edf0a87a5552703de87a":[5,0,1808,0,2],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#aca22c73db989f0393926067506794e43":[5,0,1808,0,6],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#ad91cd657166a12d3c34adcf7b11d076f":[5,0,1808,0,0],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#afc490ae2382fd7097b3877c7f9eadf6b":[5,0,1808,0,5],
-"dd/df6/classLootValidatorRefMgr.html":[5,0,1428]
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#aca22c73db989f0393926067506794e43":[5,0,1808,0,6]
 };

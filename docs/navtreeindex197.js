@@ -1,5 +1,7 @@
 var NAVTREEINDEX197 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaedebec607a7922fc82d774b20549aa14":[6,0,0,0,1,2,28,2,0,19],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaedeecd0c92b04d69d6805edc965ccaff":[6,0,0,0,1,2,28,2,0,460],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaee284332b2a2e8f34945453834532574":[6,0,0,0,1,2,28,2,0,869],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaee980c28d0c1f3032f7b68c40067a200":[6,0,0,0,1,2,28,2,0,62],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaeeb6196b10b3ef554ef0fdd7725b73f6":[6,0,0,0,1,2,28,2,0,696],
@@ -247,7 +249,5 @@ var NAVTREEINDEX197 =
 "d7/da8/classspell__dru__glyph__of__starfire.html":[5,0,2767],
 "d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[5,0,2767,0],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae29c4f69a34e71011192df12509e2935":[5,0,2767,1],
-"d7/da8/classspell__dru__glyph__of__starfire.html#ae37da44bde25f6bdb5b4a382ab66b7be":[5,0,2767,2],
-"d7/da8/classspell__dru__glyph__of__starfire.html#af9056c179b8089cf0b304b3ce61ea92f":[5,0,2767,3],
-"d7/da9/IntermediateValues_8cpp.html":[6,0,0,0,3,2,0]
+"d7/da8/classspell__dru__glyph__of__starfire.html#ae37da44bde25f6bdb5b4a382ab66b7be":[5,0,2767,2]
 };

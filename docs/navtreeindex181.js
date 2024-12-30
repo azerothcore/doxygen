@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0":[6,0,0,0,1,3,6,12,4,4],
+"d6/dfa/OutdoorPvPTF_8h.html#a82bc235ec6d43b48511d1b3d903a934b":[6,0,0,0,1,3,6,12,3],
 "d6/dfa/OutdoorPvPTF_8h.html#a925c2f6bf9c7a6d1b694382b888fa85f":[6,0,0,0,1,3,6,12,11],
 "d6/dfa/OutdoorPvPTF_8h.html#a9ef7be226d98726081fd3cb435d223b5":[6,0,0,0,1,3,6,12,12],
 "d6/dfa/OutdoorPvPTF_8h.html#ac5dbb8989285178cfea88af6f03dd6a6":[6,0,0,0,1,3,6,12,14],
@@ -179,20 +181,20 @@ var NAVTREEINDEX181 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[5,0,3808,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[6,0,0,0,1,2,38,0,12],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[6,0,0,0,1,2,38,0,12,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[4,0,1,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,4,2],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[4,0,1,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[4,0,1,7,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,4,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[4,0,1,7,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[4,0,1,107],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,4,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,95],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[4,0,1,107,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[4,0,1,107],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,0,95,0],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,95,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[4,0,1,107,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[4,0,1,107,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,95,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[4,0,1,107,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,95,2],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[5,0,2256,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[5,0,2256,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[5,0,2256,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html":[5,0,1821,0],
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#a20742bb0fe610367283cd5dc7e8b36ff":[5,0,1821,0,3],
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#a49eb1c20ef810d0e4aeea8f99fcabebb":[5,0,1821,0,1],
-"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#a54378daf294fcbee4ba1abf14927cc52":[5,0,1821,0,2],
-"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#abb39744cdcdc8e1fbf8fd06508af35f9":[5,0,1821,0,5],
-"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#acd33d4811521f6d41bce21270198db45":[5,0,1821,0,0]
+"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#a54378daf294fcbee4ba1abf14927cc52":[5,0,1821,0,2]
 };

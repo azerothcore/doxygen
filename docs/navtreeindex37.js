@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d88/structboss__onyxia.html#ab46b86e0eeee3918d1308a1fdb48e22f":[5,0,631,0],
 "d1/d88/structboss__onyxia.html#abf2607b4eb644bd42edc9e723ec92ef4":[5,0,631,2],
 "d1/d88/structboss__onyxia.html#ace3d7dd677a4716e13f4c0c1c5944471":[5,0,631,11],
 "d1/d88/structboss__onyxia.html#ad04fc48bd1aa5ffa5570c0e44b2a112c":[5,0,631,12],
@@ -35,8 +36,8 @@ var NAVTREEINDEX37 =
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html":[5,0,0,87],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a133cb19ac25d346ba24b8405595dd174":[5,0,0,87,2],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a133cb19ac25d346ba24b8405595dd174":[4,0,1,99,2],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[4,0,1,99,1],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[5,0,0,87,1],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[4,0,1,99,1],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[4,0,1,99,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,87,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[4,0,1,99,3],
@@ -47,14 +48,14 @@ var NAVTREEINDEX37 =
 "d1/d8b/structLeechingThrowSelector.html#a22a123333a8fbd50ccd4c37afe28d2f0":[5,0,1384,2],
 "d1/d8b/structLeechingThrowSelector.html#a4308c7be06e2e70d3a269b6dc78420cb":[5,0,1384,0],
 "d1/d8b/structLeechingThrowSelector.html#a76c7746a9b0aee52201881c4d9572bde":[5,0,1384,1],
-"d1/d8c/structMovement_1_1CommonInitializer.html":[5,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html":[4,0,22,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html":[5,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[4,0,22,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[5,0,7,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,7,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[4,0,22,0,0],
-"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[4,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,7,0,1],
+"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[4,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,7,0,3],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[4,0,22,0,3],
 "d1/d8d/structAuctionSearcherUpdate.html":[5,0,256],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d9c/MapUpdater_8cpp.html":[6,0,0,0,1,2,26,10],
 "d1/d9c/classChannelRights.html":[5,0,832],
 "d1/d9c/classChannelRights.html#a4b7dc06e8839da5a6d50b5d4dae76c1b":[5,0,832,6],
-"d1/d9c/classChannelRights.html#a7fbfd84470bf1b4bf564eec0315f6c8d":[5,0,832,0],
-"d1/d9c/classChannelRights.html#a9883582d36b8cc67ab5d649670441000":[5,0,832,5]
+"d1/d9c/classChannelRights.html#a7fbfd84470bf1b4bf564eec0315f6c8d":[5,0,832,0]
 };

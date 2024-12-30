@@ -1,5 +1,8 @@
 var NAVTREEINDEX299 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a6c1a07a1a59b46d65683436f32f76bf9":[5,0,356,0,12],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a6c88f2f38d3072f5192fc0b9bd2c6e04":[5,0,356,0,7],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a79138cf6c886c843544b948778f91145":[5,0,356,0,4],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a80aaeb0ce3a5fe101aedbdfc2489bafe":[5,0,356,0,10],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a9ec61ccf9984a9a68091ca9fba7582df":[5,0,356,0,5],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae2dd71a0edfc489645de130a8b731392":[5,0,356,0,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[6,0,0,0,1,3,0,42,1],
 "dc/d44/structWardenHashRequest.html":[5,0,4149],
 "dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[5,0,4149,1],
-"dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[5,0,4149,0],
-"dc/d45/LFGGroupData_8h.html":[6,0,0,0,1,2,15,3],
-"dc/d46/classspell__dru__moonkin__form__passive.html":[5,0,2773],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb":[5,0,2773,5]
+"dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[5,0,4149,0]
 };

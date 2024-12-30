@@ -16,6 +16,7 @@ var structinstance__zulaman_1_1instance__zulaman__InstanceMapScript =
     [ "SummonHostage", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a907b3f4a59cbd366f702daeffe05d607", null ],
     [ "Update", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a826800c63083d2af31847118c8b05e57", null ],
     [ "_akilzonGauntlet", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "_chestLooted", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ac6bce6de8ca45513cdabbace943f32d4", null ],
     [ "AkilzonTrash", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
     [ "RandVendor", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

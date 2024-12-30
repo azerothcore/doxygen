@@ -1,5 +1,8 @@
 var NAVTREEINDEX249 =
 {
+"da/d4b/classCastArmageddon.html#a4f0651a38eaf03a07bcd73d0f88dda16":[5,0,822,1],
+"da/d4b/structWaypointData.html":[5,0,4161],
+"da/d4b/structWaypointData.html#a013fa650f43e790e652016fbce2e1bd5":[5,0,4161,8],
 "da/d4b/structWaypointData.html#a083020691278af836e48f0a0c2feff96":[5,0,4161,2],
 "da/d4b/structWaypointData.html#a2dfd7f1f946ebef0b67d8f1542198b4b":[5,0,4161,6],
 "da/d4b/structWaypointData.html#a574c5ba7eb5e6bd55f6c55bb511c03f7":[5,0,4161,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX249 =
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3758183c8861bf06b306d425ee3277e2":[6,0,0,0,1,3,5,8,2,1,6,3],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c228b425f8b70001e3ea83230ba978a":[6,0,0,0,1,3,5,8,2,1,6,4],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca408d8bb8db80db05d285009d31b403e6":[6,0,0,0,1,3,5,8,2,1,6,10],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca446d4017e711f785f72f7d1acbbb4276":[6,0,0,0,1,3,5,8,2,1,6,2],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca46acf1ed335ab27fd8b571fadaab2553":[6,0,0,0,1,3,5,8,2,1,6,11],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca58cb58cfc2215580b0b435d80c915be1":[6,0,0,0,1,3,5,8,2,1,6,7],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca817e80efd6bc1b439134f38375ee6f50":[6,0,0,0,1,3,5,8,2,1,6,0]
+"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca446d4017e711f785f72f7d1acbbb4276":[6,0,0,0,1,3,5,8,2,1,6,2]
 };

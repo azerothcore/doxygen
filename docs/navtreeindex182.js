@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#abb39744cdcdc8e1fbf8fd06508af35f9":[5,0,1821,0,5],
+"d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#acd33d4811521f6d41bce21270198db45":[5,0,1821,0,0],
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#af9baaf71fa53a42ab5d1507fdd6aa9fd":[5,0,1821,0,4],
 "d7/d0b/classspell__gen__parachute.html":[5,0,2928],
 "d7/d0b/classspell__gen__parachute.html#a36792fd068ec7444aa118ec63cf972a7":[5,0,2928,2],
@@ -234,10 +236,10 @@ var NAVTREEINDEX182 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[5,0,2233,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[5,0,2233,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[5,0,2233,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[4,0,1,2,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[4,0,1,2,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,1,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[4,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[4,0,1,2,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[6,0,0,0,1,3,5,25],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0ad15cf346316f00def5a6d78f5638792d":[6,0,0,0,1,3,5,25,24,0],
 "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4":[6,0,0,0,1,3,5,25,30],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[6,0,0,0,1,3,5,25,29],
-"d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[6,0,0,0,1,3,5,25,19],
-"d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558aa398d24adbdfe339fb61758b7ff7cb27":[6,0,0,0,1,3,5,25,19,2],
-"d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558ab22bb917cff7d6a67cefe2712a66299b":[6,0,0,0,1,3,5,25,19,0]
+"d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[6,0,0,0,1,3,5,25,19]
 };

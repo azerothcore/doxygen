@@ -1,5 +1,8 @@
 var NAVTREEINDEX398 =
 {
+"hierarchy.html":[5,2],
+"index.html":[],
+"namespacemembers.html":[4,1,0,0],
 "namespacemembers.html":[4,1,0],
 "namespacemembers_b.html":[4,1,0,1],
 "namespacemembers_c.html":[4,1,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX398 =
 "":[6,0,0,0,1,2,27,2],
 "":[6,0,0,0,1,2,27,3],
 "":[6,0,0,0,1,2,27,4],
-"":[6,0,0,0,1,2,27,5],
-"":[6,0,0,0,1,2,28,0],
-"":[6,0,0,0,1,2,28,1],
-"":[6,0,0,0,1,2,28,2]
+"":[6,0,0,0,1,2,27,5]
 };

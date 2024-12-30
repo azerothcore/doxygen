@@ -1,5 +1,8 @@
 var NAVTREEINDEX365 =
 {
+"de/db5/QueryHolder_8cpp.html":[6,0,0,0,1,1,0,26],
+"de/db5/classBattlegroundDS.html":[5,0,303],
+"de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[5,0,303,0],
 "de/db5/classBattlegroundDS.html#a32490dab9fd8ea9ae9afd8cf66feb087":[5,0,303,9],
 "de/db5/classBattlegroundDS.html#a57cfca32a361d43f19163dc6e7408e96":[5,0,303,4],
 "de/db5/classBattlegroundDS.html#a5fab4d2e772aba65211f1636deaf4220":[5,0,303,1],
@@ -239,15 +242,12 @@ var NAVTREEINDEX365 =
 "de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[5,0,276,3],
 "de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[5,0,276,5],
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[5,0,276,7],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[4,0,1,2,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,1,3,0],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[4,0,1,2,3,0],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,1,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[4,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,1,3,2],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[4,0,1,2,3,5],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[4,0,1,2,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[4,0,1,2,3,3]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,1,3,5]
 };

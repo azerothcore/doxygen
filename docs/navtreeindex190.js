@@ -1,12 +1,14 @@
 var NAVTREEINDEX190 =
 {
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[4,0,1,67,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[4,0,1,67,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,0,55,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,0,55,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[4,0,1,67,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[4,0,1,67,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,0,55,5],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,0,55,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[4,0,1,67,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[4,0,1,67,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,0,55,0],
 "d7/d78/classnpc__plucky.html":[5,0,2001],
 "d7/d78/classnpc__plucky.html#a3443f3e8c2b3fcc96955ab2e55e7fd61":[5,0,2001,3],
 "d7/d78/classnpc__plucky.html#a51e73f4e1f618aee5a000e31328efefc":[5,0,2001,2],
@@ -55,12 +57,12 @@ var NAVTREEINDEX190 =
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[4,0,31,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[4,0,31,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,11,2,1,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[4,0,31,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,11,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[4,0,31,2,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,11,2,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,11,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[4,0,31,2,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,11,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[5,0,3562],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[5,0,3562,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[5,0,3562,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d88/classspell__thaddius__pos__neg__charge.html#ac36e689bad93aa17738f390680764a7e":[5,0,3779,1],
 "d7/d89/classnpc__arthas.html":[5,0,1577],
 "d7/d89/classnpc__arthas.html#a4a613dd76cde27f7df834b9bb837ab6c":[5,0,1577,2],
-"d7/d89/classnpc__arthas.html#a4bd3d5dd8eebe48b525e2bd162787172":[5,0,1577,3],
-"d7/d89/classnpc__arthas.html#a87c280ff9861187b0a713f795e657266":[5,0,1577,1],
-"d7/d89/classnpc__arthas.html#aeca2f4baa3c943281c676c6498393165":[5,0,1577,4]
+"d7/d89/classnpc__arthas.html#a4bd3d5dd8eebe48b525e2bd162787172":[5,0,1577,3]
 };

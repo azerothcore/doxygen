@@ -1,5 +1,8 @@
 var NAVTREEINDEX318 =
 {
+"dd/d3b/structGameObjectTemplate.html#a86afe986dba59379167186254eec1d03":[5,0,1070,2],
+"dd/d3b/structGameObjectTemplate.html#a8a0bf784d46da47e3dba60f0184bdcc1":[5,0,1070,114],
+"dd/d3b/structGameObjectTemplate.html#a8aec950d501fa71132f9a708c8e5d0d7":[5,0,1070,133],
 "dd/d3b/structGameObjectTemplate.html#a8cf701f02cda6bccb93ba9b6a9f05835":[5,0,1070,29],
 "dd/d3b/structGameObjectTemplate.html#a8e277e69a5f072b5ca8a111de3d8b798":[5,0,1070,85],
 "dd/d3b/structGameObjectTemplate.html#a8edc2962c444e4236fda0764bcb0b29e":[5,0,1070,45],
@@ -128,14 +131,14 @@ var NAVTREEINDEX318 =
 "dd/d3f/structVMAP_1_1LocationInfo.html":[4,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[4,0,28,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,9,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[4,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,9,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[4,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[4,0,28,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[4,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,9,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[4,0,28,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[4,0,28,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[5,0,441,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[5,0,441,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[5,0,441,0,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[5,0,414,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[5,0,414,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[5,0,414,0,5],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bc15075d9e9a913783da482a7a167c7":[5,0,414,0,2],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bd3e45b45660311d7510f58a1850648":[5,0,414,0,4],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a6fd78f4f45b9f2104acc481fb0f2763f":[5,0,414,0,6],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a7235760bd407f49802bc9e26e8f3f22c":[5,0,414,0,1]
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bc15075d9e9a913783da482a7a167c7":[5,0,414,0,2]
 };

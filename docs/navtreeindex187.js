@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"d7/d46/classAuraEffect.html#abd6a595444acecc12c84820cc3f86865":[5,0,267,78],
+"d7/d46/classAuraEffect.html#abf1a9e6c5d480b4a72634fd4d489c81f":[5,0,267,185],
 "d7/d46/classAuraEffect.html#abfe708f78779cd14750387b72c516b33":[5,0,267,154],
 "d7/d46/classAuraEffect.html#ac14e9e6906344f04904ed7ee866f4475":[5,0,267,24],
 "d7/d46/classAuraEffect.html#ac313992b1527bbeddf09365da0d28ebc":[5,0,267,12],
@@ -191,14 +193,14 @@ var NAVTREEINDEX187 =
 "d7/d4d/classachievement__everything__counts.html":[5,0,47],
 "d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[5,0,47,1],
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[5,0,47,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[4,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,0,2,3],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[4,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[4,0,1,4,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[4,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,0,2,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[4,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[4,0,1,4,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[5,0,1033,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[5,0,1033,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[5,0,1033,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d53/structboss__cthun.html#a7d2685597f1eec2459fe509e5b97681f":[5,0,398,7],
 "d7/d53/structboss__cthun.html#abad23f1df9c6989e7a6d3d62143adb05":[5,0,398,9],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html":[5,0,3956],
-"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a1b8782a4f22522cfe224073515abdf45":[5,0,3956,0],
-"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a8e9b7613131ef7ea05b853df337faa4e":[5,0,3956,2],
-"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#ab3a99392d06ba0bea8e3f4b345acb23d":[5,0,3956,3]
+"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a1b8782a4f22522cfe224073515abdf45":[5,0,3956,0]
 };

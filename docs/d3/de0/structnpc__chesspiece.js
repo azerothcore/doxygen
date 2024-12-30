@@ -23,6 +23,7 @@ var structnpc__chesspiece =
     [ "_combatSpellTimerBase", "d3/de0/structnpc__chesspiece.html#af204f7dbf482641dbfe73c00ccb32a0e", null ],
     [ "_combatSpellTimerBase2", "d3/de0/structnpc__chesspiece.html#ac2a7ebaf577a12d729ec5976b2bee5f5", null ],
     [ "_currentOrientation", "d3/de0/structnpc__chesspiece.html#a1b8274682a01e3f92e2b8e8bc079f7f6", null ],
+    [ "_homePosition", "d3/de0/structnpc__chesspiece.html#a44bfed2f6886e47f687bb0c9a6f3b811", null ],
     [ "_instance", "d3/de0/structnpc__chesspiece.html#aebbabcf244c1a31b02ff7fd4c7211ea4", null ],
     [ "_nextMoveTimer", "d3/de0/structnpc__chesspiece.html#a219168909195ea3bff239c2ea4d21040", null ],
     [ "_teamControlledByRaid", "d3/de0/structnpc__chesspiece.html#a5b85fe5bf6ecf0f379c73950fd80da62", null ]

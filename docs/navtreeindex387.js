@@ -1,5 +1,8 @@
 var NAVTREEINDEX387 =
 {
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#aa18e89f63e98112efeb69328f8fdc296":[5,0,2179,0,1],
+"df/dbe/CreatureAISelector_8h.html":[6,0,0,0,1,2,3,10],
+"df/dbe/CreatureAISelector_8h.html#a10fef1ff3335f4642179ee423b1ff0d6":[6,0,0,0,1,2,3,10,0],
 "df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[6,0,0,0,1,2,3,10,2],
 "df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[6,0,0,0,1,2,3,10,1],
 "df/dbe/HostileRefMgr_8h.html":[6,0,0,0,1,2,12,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX387 =
 "df/dd3/classEmblemInfo.html#a66da2cd78cee9e929ff0f2439caed0e5":[5,0,990,1],
 "df/dd3/classEmblemInfo.html#a7a791a3f467e72a3e8e941e3179d7709":[5,0,990,3],
 "df/dd3/classEmblemInfo.html#a8d053ab27856955bf6013ef4c61ed33f":[5,0,990,0],
-"df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[5,0,990,11],
-"df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[5,0,990,7],
-"df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[5,0,990,2],
-"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[5,0,990,12]
+"df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[5,0,990,11]
 };

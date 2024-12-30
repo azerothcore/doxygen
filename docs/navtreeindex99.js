@@ -1,7 +1,8 @@
 var NAVTREEINDEX99 =
 {
-"d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[5,0,0,96,4],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a6dd83612b7f0d00035a7efb8d970afc6":[5,0,0,96,5],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[4,0,1,108,4],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[5,0,0,96,4],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[5,0,0,96,0],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[4,0,1,108,0],
 "d3/d69/structAcore_1_1PlayerSearcher.html#ab2544b79869ba4de9772b1bff7c40704":[5,0,0,96,1],
@@ -26,10 +27,10 @@ var NAVTREEINDEX99 =
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[4,0,1,114,4],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[5,0,0,102,3],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[4,0,1,114,3],
-"d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[4,0,1,114,0],
 "d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[5,0,0,102,0],
-"d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[5,0,0,102,1],
+"d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[4,0,1,114,0],
 "d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[4,0,1,114,1],
+"d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[5,0,0,102,1],
 "d3/d6d/classOPvPCapturePointZM__GraveYard.html":[5,0,2302],
 "d3/d6d/classOPvPCapturePointZM__GraveYard.html#a103cb36247799a5826c47978d451d2b7":[5,0,2302,12],
 "d3/d6d/classOPvPCapturePointZM__GraveYard.html#a28ce2dba96ff5784c4758bd3d0d4e640":[5,0,2302,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d73/classIceTombSummonEvent.html#aa708b67e60ba0b4fe2334c43aaaca5c7":[5,0,1249,1],
 "d3/d73/classIceTombSummonEvent.html#abe61867b29cd4fe3d02268f18b3618ee":[5,0,1249,3],
 "d3/d74/classnpc__living__inferno.html":[5,0,1894],
-"d3/d74/classnpc__living__inferno.html#a53f0bbd0a502374664cfa54140f4b8c0":[5,0,1894,2],
-"d3/d74/classnpc__living__inferno.html#a7df2bb522e67b6f1864604c7b0182078":[5,0,1894,1]
+"d3/d74/classnpc__living__inferno.html#a53f0bbd0a502374664cfa54140f4b8c0":[5,0,1894,2]
 };

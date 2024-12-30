@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca667a079b04cc692b797d1e84b8026637":[6,0,0,0,1,3,2,1,1,8,6,10],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ea77c0f71e7cfec827076d1bf979469":[6,0,0,0,1,3,2,1,1,8,6,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca757aa4e3604bb36e01dcc74c895edf88":[6,0,0,0,1,3,2,1,1,8,6,13],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[6,0,0,0,1,3,2,1,1,8,6,8],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298caa79419e68a1437beb36bb07361b55682":[6,0,0,0,1,3,2,1,1,8,6,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d6d/structDoorInfo.html#a26f4849a1d68df466e6db0ccbb8d001b":[5,0,966,0],
 "d6/d6d/structDoorInfo.html#ad77a91752ea10a11c8e73655e63dd5c1":[5,0,966,2],
 "d6/d6e/EnumFlag_8h.html":[6,0,0,0,0,15,7],
-"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[6,0,0,0,0,15,7,5],
-"d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[6,0,0,0,0,15,7,4],
-"d6/d6e/EnumFlag_8h.html#a7294b75cb336d554d5ce2b75b05c37d6":[6,0,0,0,0,15,7,2]
+"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[6,0,0,0,0,15,7,5]
 };

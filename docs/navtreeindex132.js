@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[4,0,22,10,1],
+"d4/da1/classspectator__commandscript.html":[5,0,2538],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[5,0,2538,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[5,0,2538,0],
 "d4/da1/classspectator__commandscript.html#a1ee822e332374b375962d1ae87adbc61":[5,0,2538,7],
@@ -243,11 +245,9 @@ var NAVTREEINDEX132 =
 "d4/daa/classspell__oculus__rider__aura.html#aa94b30468b2c853c0d8b86658a43dee4":[5,0,3418,2],
 "d4/dab/classMMAP_1_1MapBuilder.html":[5,0,6,2],
 "d4/dab/classMMAP_1_1MapBuilder.html":[4,0,21,2],
-"d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[4,0,21,2,24],
 "d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[5,0,6,2,24],
-"d4/dab/classMMAP_1_1MapBuilder.html#a17634a316737ca31fd89d13d48e7467d":[5,0,6,2,0],
+"d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[4,0,21,2,24],
 "d4/dab/classMMAP_1_1MapBuilder.html#a17634a316737ca31fd89d13d48e7467d":[4,0,21,2,0],
-"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[4,0,21,2,3],
-"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[5,0,6,2,3],
-"d4/dab/classMMAP_1_1MapBuilder.html#a3dfc20dcb3b5e8e85a6f3fa7e2cfd057":[4,0,21,2,22]
+"d4/dab/classMMAP_1_1MapBuilder.html#a17634a316737ca31fd89d13d48e7467d":[5,0,6,2,0],
+"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[5,0,6,2,3]
 };

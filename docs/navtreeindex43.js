@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab447bfa8b9599f6d90117233b4baf440":[6,0,0,0,1,2,3,2,5,18,34],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab48d718e08d3da70ff6fb62421507ed0":[6,0,0,0,1,2,3,2,5,18,128],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab53ff5ef14a68bdc166184880375d7e8":[6,0,0,0,1,2,3,2,5,18,106],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab564b0968e26ec330f2784f253291ada":[6,0,0,0,1,2,3,2,5,18,153],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "d1/dc6/classboss__gormok.html#a45cff2e7ee0525de37382cf09b116a32":[5,0,486,2],
 "d1/dc6/classboss__gormok.html#a86ce0681be4370198c44dde5aa98a593":[5,0,486,1],
 "d1/dc6/classnpc__troll__volunteer.html":[5,0,2167],
-"d1/dc6/classnpc__troll__volunteer.html#a3c5eb7108dc0480e07b77eceb01cd18a":[5,0,2167,1],
-"d1/dc6/classnpc__troll__volunteer.html#aba0208b0910ace75686941c462ecca56":[5,0,2167,2]
+"d1/dc6/classnpc__troll__volunteer.html#a3c5eb7108dc0480e07b77eceb01cd18a":[5,0,2167,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"dc/dae/gruuls__lair_8h.html#ae30223b9f59e44b321d94c046c08d7f9":[6,0,0,0,1,3,7,3,2,6],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[6,0,0,0,1,3,7,3,2,4],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[6,0,0,0,1,3,7,3,2,4,2],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ac09db2925e40836a675d938f0e4411cc":[6,0,0,0,1,3,7,3,2,4,3],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22acc5f3c1f985f39faef5b26b393862a0f":[6,0,0,0,1,3,7,3,2,4,4],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22accf4ac52aca57b15bc50cf47c8a3e5fc":[6,0,0,0,1,3,7,3,2,4,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[6,0,0,0,1,3,7,5,3,1,1,0],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47cdf4e03ced76b0d17a26165994f220":[6,0,0,0,1,3,7,5,3,1,1,1],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[6,0,0,0,1,3,7,5,3,1,1,2],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1acf921de439ae53b12be3c6c7b63438b8":[6,0,0,0,1,3,7,5,3,1,1,4],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a490f828a77063f37fdf34abf92a3d97c":[6,0,0,0,1,3,7,5,3,1,3],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a5bd342133be8c2137b831460acc9298c":[6,0,0,0,1,3,7,5,3,1,2],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a5bd342133be8c2137b831460acc9298caa6fc14e6b55e16bf23eda6475bd8ae17":[6,0,0,0,1,3,7,5,3,1,2,2]
+"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1acf921de439ae53b12be3c6c7b63438b8":[6,0,0,0,1,3,7,5,3,1,1,4]
 };

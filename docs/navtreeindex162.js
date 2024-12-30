@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[5,0,3923,0],
+"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[5,0,3923,2],
 "d6/d0f/structContainerUnorderedMap.html":[5,0,887],
 "d6/d0f/structContainerUnorderedMap.html#ab18c6fa467deee7af0db888ab94d0ba7":[5,0,887,0],
 "d6/d11/magisters__terrace_8h.html":[6,0,0,0,1,3,2,5,5],
@@ -177,8 +179,8 @@ var NAVTREEINDEX162 =
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[4,0,31,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,11,5,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[4,0,31,5,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,11,5,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[4,0,31,5,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,11,5,42,1],
 "d6/d18/classModel.html":[5,0,1481],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[5,0,1481,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[5,0,1481,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e9a85af02d9cd7f12cff2f61ce92db9":[6,0,0,0,1,3,5,6,11,40,3],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa92bffffa663ea52a762e1ace1b1857a":[6,0,0,0,1,3,5,6,11,40,2],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb1a135362c546cfdbb18242092a546b":[6,0,0,0,1,3,5,6,11,40,8],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abc4b00bfc663df75aaecb5d81b8dff2b":[6,0,0,0,1,3,5,6,11,40,1],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adf20ceed12295f40310ba3dbf57253d6":[6,0,0,0,1,3,5,6,11,40,7],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5720f0adf8ed4ec6418dfd0afc50849":[6,0,0,0,1,3,5,6,11,40,5]
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abc4b00bfc663df75aaecb5d81b8dff2b":[6,0,0,0,1,3,5,6,11,40,1]
 };

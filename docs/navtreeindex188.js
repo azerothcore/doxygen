@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a8e9b7613131ef7ea05b853df337faa4e":[5,0,3956,2],
+"d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#ab3a99392d06ba0bea8e3f4b345acb23d":[5,0,3956,3],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#ab4a8a98564d561082243c0f7a2dda1bf":[5,0,3956,1],
 "d7/d54/structSelectableGameObjectAI.html":[5,0,2491],
 "d7/d54/structSelectableGameObjectAI.html#a185217e2cec7ff5b1395efc71dc6ca08":[5,0,2491,0],
@@ -244,10 +246,8 @@ var NAVTREEINDEX188 =
 "d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[5,0,83,1],
 "d7/d64/structMMAP_1_1MMapData.html":[5,0,6,5],
 "d7/d64/structMMAP_1_1MMapData.html":[4,0,21,5],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[4,0,21,5,1],
 "d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[5,0,6,5,1],
-"d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[4,0,21,5,3],
+"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[4,0,21,5,1],
 "d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[5,0,6,5,3],
-"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[4,0,21,5,0],
-"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[5,0,6,5,0]
+"d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[4,0,21,5,3]
 };

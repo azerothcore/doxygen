@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d14/boss__anetheron_8cpp.html#aaa8cd8499551ea54c022bd57ada0fb65":[6,0,0,0,1,3,4,1,0,0,4],
 "d3/d14/classBasicStatementTask.html":[5,0,291],
 "d3/d14/classBasicStatementTask.html#a0db608b5bae77e5f83b0e1bf5850719f":[5,0,291,1],
 "d3/d14/classBasicStatementTask.html#a11c6f1259d1d6d9c50211784636e45c4":[5,0,291,0],
@@ -165,8 +166,8 @@ var NAVTREEINDEX93 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,0,36,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[4,0,1,48,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,0,36,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[4,0,1,48,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,0,36,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[4,0,1,48,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[5,0,2815],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[5,0,2815,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[5,0,2815,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a983fc0fd2a9ce2350602aeec74bbc2be":[6,0,0,0,1,1,0,0,5,1,20],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aa07f2dc41d58b4eec619c24062c91d43":[6,0,0,0,1,1,0,0,5,1,30],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aa95ac7db8258eef78d794650ba9e6f37":[6,0,0,0,1,1,0,0,5,1,54],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aacabfaac637e2b526a8e866b75810b0e":[6,0,0,0,1,1,0,0,5,1,57],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aae9eeefe6d0a0ccea0196ca1c8501869":[6,0,0,0,1,1,0,0,5,1,62]
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aacabfaac637e2b526a8e866b75810b0e":[6,0,0,0,1,1,0,0,5,1,57]
 };

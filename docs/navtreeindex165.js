@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993":[6,0,0,0,1,2,38,0,1,1,2],
+"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f":[6,0,0,0,1,2,38,0,1,1,9],
 "d6/d2b/classspell__gen__break__shield.html":[5,0,2864],
 "d6/d2b/classspell__gen__break__shield.html#a45151bb2eacdd642e8f11564d4ef0d65":[5,0,2864,1],
 "d6/d2b/classspell__gen__break__shield.html#a884d0f5f8bf0f3515b4fedd54dd20ebf":[5,0,2864,0],
@@ -24,12 +26,12 @@ var NAVTREEINDEX165 =
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[5,0,2856,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,11,8,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[4,0,31,8,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[4,0,31,8,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,11,8,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,11,8,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[4,0,31,8,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[4,0,31,8,0,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[4,0,31,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,11,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,11,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[4,0,31,8,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[5,0,2394,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[5,0,2394,1,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[5,0,2394,1,0],
@@ -125,8 +127,8 @@ var NAVTREEINDEX165 =
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[5,0,0,5,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[4,0,1,8,0,4,0],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[5,0,0,5,0,4,0],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[5,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[4,0,1,8,0,4,2],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[5,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[4,0,1,8,0,4,1],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[5,0,0,5,0,4,1],
 "d6/d34/structModuleString.html":[5,0,1487],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d38/classAchievementGlobalMgr.html#a76d515b4eda4b2438d21c4b4ac397a0c":[5,0,114,36],
 "d6/d38/classAchievementGlobalMgr.html#a7d20309962b3fcae56964739a9819175":[5,0,114,25],
 "d6/d38/classAchievementGlobalMgr.html#a882580b8cad4fe4bc23c410e20a73c5a":[5,0,114,21],
-"d6/d38/classAchievementGlobalMgr.html#a97a514e1da4fce962bdab5d34ab98cfe":[5,0,114,12],
-"d6/d38/classAchievementGlobalMgr.html#a99eccfa5474d1fec475e7afcd80b53f7":[5,0,114,9],
-"d6/d38/classAchievementGlobalMgr.html#aa6074b3ceaf01b9e3bba5272c6652ec1":[5,0,114,5]
+"d6/d38/classAchievementGlobalMgr.html#a97a514e1da4fce962bdab5d34ab98cfe":[5,0,114,12]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/dec/classspell__kiljaeden__dragon__breath.html":[5,0,3283],
+"d5/dec/classspell__kiljaeden__dragon__breath.html#a6b0d2fc316bef6af20199b15795b00b4":[5,0,3283,2],
 "d5/dec/classspell__kiljaeden__dragon__breath.html#a905e1f979284a368463ad4829891b6ee":[5,0,3283,1],
 "d5/dec/classspell__kiljaeden__dragon__breath.html#ae945b657d0fbee4d5ee5d6e7d15ef39b":[5,0,3283,0],
 "d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html":[5,0,3417],
@@ -70,12 +72,12 @@ var NAVTREEINDEX157 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[6,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[6,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[6,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[4,0,31,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,11,5,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[4,0,31,5,29,1],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[4,0,31,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,11,5,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[4,0,31,5,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[4,0,31,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,11,5,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[4,0,31,5,29,0],
 "d5/def/classdeserter__commandscript.html":[5,0,956],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[5,0,956,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[5,0,956,9],
@@ -216,8 +218,8 @@ var NAVTREEINDEX157 =
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[4,0,1,7,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[5,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[4,0,1,7,0,0,0],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[4,0,1,7,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[5,0,0,4,0,0,1],
+"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[4,0,1,7,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[4,0,1,7,0,0,2],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[5,0,0,4,0,0,2],
 "d5/df2/boss__fathomlord__karathress_8cpp.html":[6,0,0,0,1,3,7,2,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cab47ffc8cbbcb587bbe1a3e348c95bee3":[6,0,0,0,1,3,7,2,0,0,9,20],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cac02245ef078d26414d241077935f652b":[6,0,0,0,1,3,7,2,0,0,9,9],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad0ea0d38c049194d81f13d4c335d6780":[6,0,0,0,1,3,7,2,0,0,9,0],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad34841733026dae0e9f9956ed01b79bd":[6,0,0,0,1,3,7,2,0,0,9,19],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad7fb566b5ad0b8b2d555cc919f14e48a":[6,0,0,0,1,3,7,2,0,0,9,14],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298caec68f95d5e33616002caa423993a515f":[6,0,0,0,1,3,7,2,0,0,9,10]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad34841733026dae0e9f9956ed01b79bd":[6,0,0,0,1,3,7,2,0,0,9,19]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX258 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abff1b505e9d2d6c826f814b2d43409af":[5,0,683,0,11],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[5,0,683,0,8],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#acb1e677b2347e0464df832e1d86cd3b5":[5,0,683,0,4],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ad2d10d5aeebea48809a61eee293ff9da":[5,0,683,0,13],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#addc25d8f87dd9fd627c0bde5944c037a":[5,0,683,0,18],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#aea65b981e8b9461750a53fca3919c27f":[5,0,683,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX258 =
 "da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[3,1,10,0],
 "da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[3,1,10,1],
 "da/dad/CombatPackets_8cpp.html":[6,0,0,0,1,2,39,0,9],
-"da/dad/structboss__harbinger__skyriss.html":[5,0,504],
-"da/dad/structboss__harbinger__skyriss.html#a045ec2371ad99c3465b8f089eb604e0a":[5,0,504,6],
-"da/dad/structboss__harbinger__skyriss.html#a245179f74d61c2671b397e8f2473b599":[5,0,504,0],
-"da/dad/structboss__harbinger__skyriss.html#a2b5152ddeb53d382294bd0fe7455a21e":[5,0,504,2]
+"da/dad/structboss__harbinger__skyriss.html":[5,0,504]
 };

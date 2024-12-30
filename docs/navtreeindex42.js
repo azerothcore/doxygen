@@ -1,5 +1,6 @@
 var NAVTREEINDEX42 =
 {
+"d1/dc1/classnpc__anachronos__the__ancient.html#a345c801231907d98f2ab2425b1d35cbc":[5,0,1555,2],
 "d1/dc1/classnpc__anachronos__the__ancient.html#a720884359886e6f881190471005f4cfc":[5,0,1555,1],
 "d1/dc1/classspell__ioc__repair__turret__aura.html":[5,0,3135],
 "d1/dc1/classspell__ioc__repair__turret__aura.html#a1b90f1288b3b45267edd4da2b3418b21":[5,0,3135,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX42 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab3135100c21cf6441e49a9b96a210b55":[6,0,0,0,1,2,3,2,5,18,158],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab38ab0ad5ca36b7b5714b3c5c4356a9a":[6,0,0,0,1,2,3,2,5,18,85],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab38e86486980c0f2572e74e9be3e758b":[6,0,0,0,1,2,3,2,5,18,61],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab39ce9d146271601be9c2c1057d56f9e":[6,0,0,0,1,2,3,2,5,18,121],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab447bfa8b9599f6d90117233b4baf440":[6,0,0,0,1,2,3,2,5,18,34]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab39ce9d146271601be9c2c1057d56f9e":[6,0,0,0,1,2,3,2,5,18,121]
 };

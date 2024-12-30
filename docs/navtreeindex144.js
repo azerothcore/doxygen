@@ -1,5 +1,7 @@
 var NAVTREEINDEX144 =
 {
+"d5/d4d/classIWorld.html#a9a374eb71d8bac4976c16e1bd246df11":[5,0,1373,82],
+"d5/d4d/classIWorld.html#a9abb3024db27c78c53f6d5c05adedb38":[5,0,1373,36],
 "d5/d4d/classIWorld.html#a9f5dccffa9d6f688d43dffa5f0994ae1":[5,0,1373,10],
 "d5/d4d/classIWorld.html#aaec81c6c04c36ba9c0df64f05bc9f600":[5,0,1373,24],
 "d5/d4d/classIWorld.html#aaec976cfa47bd3fa2fd23e31c65b5bdd":[5,0,1373,22],
@@ -110,10 +112,10 @@ var NAVTREEINDEX144 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[5,0,1806,0,4],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[5,0,1806,0,2],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[5,0,1806,0,5],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[4,0,1,8,0,14],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[4,0,1,8,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,0,5,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[4,0,1,8,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[5,0,3791],
 "d5/d52/classspell__the__lich__king__defile.html#a017ade08eca93f326d2e5115c4d88c33":[5,0,3791,0],
 "d5/d52/classspell__the__lich__king__defile.html#a3e1d1764add95728428cbf25f9b66dc4":[5,0,3791,2],
@@ -122,10 +124,10 @@ var NAVTREEINDEX144 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[5,0,3791,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[4,0,31,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,11,5,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,11,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[4,0,31,5,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,11,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,11,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[4,0,31,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,11,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[4,0,31,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,11,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[4,0,31,5,52,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d5f/classOutdoorPvPHP.html#a90c41df874abfee0a4861cf923de9ab5":[5,0,2318,12],
 "d5/d5f/classOutdoorPvPHP.html#a9395b6966bcdd36b448ca1c403f17873":[5,0,2318,3],
 "d5/d5f/classOutdoorPvPHP.html#aad7804f10c42f6643397d673ba4e9bee":[5,0,2318,4],
-"d5/d5f/classOutdoorPvPHP.html#abf21499824ad64aa7a26a4b33090783e":[5,0,2318,6],
-"d5/d5f/classOutdoorPvPHP.html#ac94c44783b2141c751d5c16a24bce8d4":[5,0,2318,7],
-"d5/d5f/classOutdoorPvPHP.html#ada8244f57fe3a693d167689d3f921025":[5,0,2318,13]
+"d5/d5f/classOutdoorPvPHP.html#abf21499824ad64aa7a26a4b33090783e":[5,0,2318,6]
 };
