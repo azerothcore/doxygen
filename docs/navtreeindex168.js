@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccac37577a6cdd4b8d5f971ba284bf60860":[6,0,0,0,1,2,7,0,1,22,3],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccad995b3fe8c989b8635731a628c26463a":[6,0,0,0,1,2,7,0,1,22,1],
 "d6/d4f/BattlefieldWG_8h.html#a4a1dd1e544ac1590b380010345979157":[6,0,0,0,1,2,7,0,1,52],
 "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734d":[6,0,0,0,1,2,7,0,1,19],
 "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da1d42500b191b0b27c493da37d7eb015c":[6,0,0,0,1,2,7,0,1,19,1],
@@ -226,16 +228,16 @@ var NAVTREEINDEX168 =
 "d6/d4f/classboss__thorim__ancient__rune__giant.html":[5,0,720],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[5,0,720,2],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[5,0,720,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html":[5,0,3037],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[5,0,3037,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[5,0,3037,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[5,0,3037,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[5,0,1979],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[5,0,1979,1],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[5,0,1979,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[5,0,1979,0],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[5,0,1979,4],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[5,0,1979,3],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[5,0,3036],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[5,0,3036,0],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[5,0,3036,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[5,0,3036,2],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[5,0,1978],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[5,0,1978,1],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[5,0,1978,2],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[5,0,1978,0],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[5,0,1978,4],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[5,0,1978,3],
 "d6/d51/boss__apothecary__hummel_8cpp.html":[6,0,0,0,1,3,2,9,0],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cf":[6,0,0,0,1,3,2,9,0,11],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26":[6,0,0,0,1,3,2,9,0,11,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520":[6,0,0,0,1,3,2,9,0,11,8],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b":[6,0,0,0,1,3,2,9,0,11,6],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825":[6,0,0,0,1,3,2,9,0,11,11],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199":[6,0,0,0,1,3,2,9,0,11,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a":[6,0,0,0,1,3,2,9,0,11,1],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[6,0,0,0,1,3,2,9,0,11,5]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199":[6,0,0,0,1,3,2,9,0,11,3]
 };

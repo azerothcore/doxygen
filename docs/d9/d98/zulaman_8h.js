@@ -54,12 +54,17 @@ var zulaman_8h =
       [ "GO_TANZARS_TRUNK", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aec695c41f1e7a100182585c0bda3d1c9", null ],
       [ "GO_ASHLIS_BAG", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a31cf2239d13efed94f245c07fa8ba32a", null ],
       [ "GO_KRAZS_PACKAGE", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a3014989d85dcf7af706c8ed7467fb704", null ],
-      [ "GO_STRANGE_GONG", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a1c5777b09961e594e335a1811524a3af", null ]
+      [ "GO_STRANGE_GONG", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a1c5777b09961e594e335a1811524a3af", null ],
+      [ "GO_ALTAR_TORCH_EAGLE_GOD", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a7b0191f95c80f461dd4d357fef99b32e", null ],
+      [ "GO_ALTAR_TORCH_DRAGONHAWK_GOD", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744adf6b7f3b07fcb2dd3869871d41c96420", null ],
+      [ "GO_ALTAR_TORCH_LYNX_GOD", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a153c48431c2bf66e37650df7a410ad55", null ],
+      [ "GO_ALTAR_TORCH_BEAR_GOD", "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a58bcc5d0cc24bd8d67001e6120f96fca", null ]
     ] ],
     [ "MiscIds", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87", [
       [ "DATA_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8b0940fe883897da12f11a72f7722d85", null ],
       [ "ACTION_START_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8e3160a5893fef5cf57380ff6cbcf1b6", null ],
       [ "ACTION_START_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a1e58053c43ea495ecd1bfad82b605375", null ],
+      [ "ACTION_RESET_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a975640cf2a355b698a781a70de842cca", null ],
       [ "GROUP_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ac01978c6fe524cb88c2f5933245ee834", null ]
     ] ],
     [ "GetZulAmanAI", "d9/d98/zulaman_8h.html#a43dfa33903c585c05a4fd45c02f1bbe3", null ],

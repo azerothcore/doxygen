@@ -1,9 +1,11 @@
 var NAVTREEINDEX204 =
 {
-"d7/df0/classspell__sha__fire__nova.html#a2048b0e43dbe2df6e4dfc42d912a74a7":[5,0,3699,4],
-"d7/df0/classspell__sha__fire__nova.html#a8311cc106da26267e90acd98698cb737":[5,0,3699,2],
-"d7/df0/classspell__sha__fire__nova.html#a9d6b4368f5c72b95c25415ea87575fce":[5,0,3699,0],
-"d7/df0/classspell__sha__fire__nova.html#abae5a4961888e6ba2d876e450307e362":[5,0,3699,3],
+"d7/df0/classspell__sha__fire__nova.html":[5,0,3698],
+"d7/df0/classspell__sha__fire__nova.html#a179d07e7090cec396a7845754e545e8e":[5,0,3698,1],
+"d7/df0/classspell__sha__fire__nova.html#a2048b0e43dbe2df6e4dfc42d912a74a7":[5,0,3698,4],
+"d7/df0/classspell__sha__fire__nova.html#a8311cc106da26267e90acd98698cb737":[5,0,3698,2],
+"d7/df0/classspell__sha__fire__nova.html#a9d6b4368f5c72b95c25415ea87575fce":[5,0,3698,0],
+"d7/df0/classspell__sha__fire__nova.html#abae5a4961888e6ba2d876e450307e362":[5,0,3698,3],
 "d7/df1/UnitDefines_8h.html":[6,0,0,0,1,2,16,10,6],
 "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9d":[6,0,0,0,1,2,16,10,6,3],
 "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da025fc8349887310b1f1e564e7be468c2":[6,0,0,0,1,2,16,10,6,3,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX204 =
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89aa04b7c1a042862deb96601f2e56bf31c":[6,0,0,0,1,2,16,10,6,6,4],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab5e94342328f9218432459c372417f2f":[6,0,0,0,1,2,16,10,6,6,2],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab675521e5a509cec8dcdd179b2e75a97":[6,0,0,0,1,2,16,10,6,6,14],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab78c5071ba38308a6258b1153514f175":[6,0,0,0,1,2,16,10,6,6,1],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89aba284ec2e22c54fc7dc1b3bc714bf901":[6,0,0,0,1,2,16,10,6,6,7],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ac2da3b0faa98e573b2788314742901b3":[6,0,0,0,1,2,16,10,6,6,6]
+"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab78c5071ba38308a6258b1153514f175":[6,0,0,0,1,2,16,10,6,6,1]
 };

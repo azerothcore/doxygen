@@ -2186,7 +2186,6 @@ var annotated_dup =
     [ "npc_drakonid_spawner", "dc/d48/structnpc__drakonid__spawner.html", "dc/d48/structnpc__drakonid__spawner" ],
     [ "npc_drakuru_shackles", "db/dfa/classnpc__drakuru__shackles.html", "db/dfa/classnpc__drakuru__shackles" ],
     [ "npc_dream_fog", "da/d42/classnpc__dream__fog.html", "da/d42/classnpc__dream__fog" ],
-    [ "npc_eagle_trash_aggro_trigger", "d8/da4/structnpc__eagle__trash__aggro__trigger.html", "d8/da4/structnpc__eagle__trash__aggro__trigger" ],
     [ "npc_earthen_ring_flamecaller", "d4/da8/structnpc__earthen__ring__flamecaller.html", "d4/da8/structnpc__earthen__ring__flamecaller" ],
     [ "npc_eastvale_peasent", "dc/d56/structnpc__eastvale__peasent.html", "dc/d56/structnpc__eastvale__peasent" ],
     [ "npc_echo_of_medivh", "d5/d59/structnpc__echo__of__medivh.html", "d5/d59/structnpc__echo__of__medivh" ],

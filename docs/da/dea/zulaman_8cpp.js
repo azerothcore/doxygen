@@ -7,7 +7,6 @@ var zulaman_8cpp =
     [ "spell_ritual_of_power", "d1/d03/classspell__ritual__of__power.html", "d1/d03/classspell__ritual__of__power" ],
     [ "npc_amanishi_lookout", "d1/db2/structnpc__amanishi__lookout.html", "d1/db2/structnpc__amanishi__lookout" ],
     [ "npc_amanishi_tempest", "d5/db3/structnpc__amanishi__tempest.html", "d5/db3/structnpc__amanishi__tempest" ],
-    [ "npc_eagle_trash_aggro_trigger", "d8/da4/structnpc__eagle__trash__aggro__trigger.html", "d8/da4/structnpc__eagle__trash__aggro__trigger" ],
     [ "GOSSIP_HOSTAGE1", "da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_COMPLETE_GONG_RITUAL", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccfa0fd6958fdb6b383ab8afdd359422f564", null ]
@@ -17,7 +16,6 @@ var zulaman_8cpp =
       [ "SAY_INVADERS", "da/dea/zulaman_8cpp.html#a551260ec9098e89aace8d91b15b67846abf1483656937ad0229f0cb987645d65b", null ]
     ] ],
     [ "AmanishiTempest", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9", [
-      [ "ACTION_START_GAUNTLET", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a840f14c0588f0609c97c592a3413780f", null ],
       [ "GROUP_AKILZON_GAUNTLET", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25", null ],
       [ "SPELL_SUMMON_EAGLE", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a0947710156d8a33ca49bb50006eaeb9b", null ],
       [ "SPELL_SUMMON_WARRIOR", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a2cbca2a74cf6c73fc2fb28813653c694", null ],
