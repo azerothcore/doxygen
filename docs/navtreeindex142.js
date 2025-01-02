@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"d5/d2e/classspell__festergut__gastric__bloat.html#a8f668b88a41585cabeace574b30b4f85":[5,0,2817,1],
+"d5/d2e/classspell__festergut__gastric__bloat.html#a8fae161a91fae297b99079bde218ced8":[5,0,2817,2],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html":[5,0,489,0],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a06e384e12f998cd1165255199dec6371":[5,0,489,0,16],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a0a3eb3835e3997689cd40568b85bcae4":[5,0,489,0,10],
@@ -132,16 +134,16 @@ var NAVTREEINDEX142 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[5,0,1084,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[5,0,1084,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[5,0,1084,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[4,0,1,100],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,88],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[4,0,1,100],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[4,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,88,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[4,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,88,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[4,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[4,0,1,100,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[4,0,1,100,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,88,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[4,0,1,100,2],
 "d5/d34/structMovieEntry.html":[5,0,1498],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[5,0,1498,0],
 "d5/d34/structProgressionRequirement.html":[5,0,2407],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d43/TileAssembler_8cpp.html":[6,0,0,0,0,1,1,3],
 "d5/d43/TileAssembler_8cpp.html#a166f3eeee53079ac9df4f15ccd577974":[6,0,0,0,0,1,1,3,5],
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[6,0,0,0,0,1,1,3,4],
-"d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[6,0,0,0,0,1,1,3,3],
-"d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[6,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[4,0,1,8,0,28]
+"d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[6,0,0,0,0,1,1,3,3]
 };

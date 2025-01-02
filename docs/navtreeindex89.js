@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d2/df3/structQuestLocale.html":[5,0,2424],
+"d2/df3/structQuestLocale.html#a5c6c5a8d1fb500afef514c80c9d87e4e":[5,0,2424,1],
 "d2/df3/structQuestLocale.html#a764d2092084454844e59c484fb637017":[5,0,2424,7],
 "d2/df3/structQuestLocale.html#a887d474a470ee0278fb4b465a7ad9547":[5,0,2424,0],
 "d2/df3/structQuestLocale.html#aaba6d07625232a77e3457454f7d4fa77":[5,0,2424,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/classgo__heat.html#a6c3d6919652159e4fd265b6d63f59c16":[5,0,1128,1],
 "d2/df6/classgo__heat.html#a9f19009a78c7abd349d2e2e7bf98c1a0":[5,0,1128,2],
 "d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html":[5,0,1806,0],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a0435dba6aff5287b1d10420a54a72d28":[5,0,1806,0,15],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a132fc1f697d32c76c10766c71948fe01":[5,0,1806,0,12],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a1c610a1cf0ba5a27aeb98d51dff916fa":[5,0,1806,0,16]
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a0435dba6aff5287b1d10420a54a72d28":[5,0,1806,0,15]
 };

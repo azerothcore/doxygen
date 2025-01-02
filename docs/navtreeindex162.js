@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[5,0,2695,0],
+"d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[5,0,2695,6],
 "d6/d0f/classspell__warr__rend.html":[5,0,3922],
 "d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[5,0,3922,1],
 "d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[5,0,3922,0],
@@ -175,14 +177,14 @@ var NAVTREEINDEX162 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[5,0,1320,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[4,0,31,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,11,5,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[4,0,31,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,11,5,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[4,0,31,5,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[4,0,31,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,11,5,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[4,0,31,5,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[4,0,31,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,11,5,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,11,5,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[4,0,31,5,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[4,0,31,5,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,11,5,42,1],
 "d6/d18/classModel.html":[5,0,1481],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[5,0,1481,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[5,0,1481,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[6,0,0,0,1,3,5,6,11,40],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a06a474c29c4ea8b840388135a87bd5fa":[6,0,0,0,1,3,5,6,11,40,4],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2550735cdd6c2765682564e1027f0c6c":[6,0,0,0,1,3,5,6,11,40,0],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6bfa5af8eb9d20677af2e51d9ebe97d1":[6,0,0,0,1,3,5,6,11,40,6],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e9a85af02d9cd7f12cff2f61ce92db9":[6,0,0,0,1,3,5,6,11,40,3],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa92bffffa663ea52a762e1ace1b1857a":[6,0,0,0,1,3,5,6,11,40,2]
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6bfa5af8eb9d20677af2e51d9ebe97d1":[6,0,0,0,1,3,5,6,11,40,6]
 };

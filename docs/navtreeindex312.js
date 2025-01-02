@@ -1,5 +1,7 @@
 var NAVTREEINDEX312 =
 {
+"dc/dfb/classUpdateTime.html#a8736328e4f88bad027298a6d0bbf416c":[5,0,4121,18],
+"dc/dfb/classUpdateTime.html#a8837b608acde446f1eda813ca530c63f":[5,0,4121,11],
 "dc/dfb/classUpdateTime.html#a9089665d344f9b0b4e85351dd04e0a5b":[5,0,4121,9],
 "dc/dfb/classUpdateTime.html#ab5b77fcf7746e613e2997601fac659fc":[5,0,4121,5],
 "dc/dfb/classUpdateTime.html#ab5f1c144429d1a8fe3937fd22cab8206":[5,0,4121,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX312 =
 "dd/d09/BanMgr_8cpp.html":[6,0,0,0,1,2,27,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html":[5,0,2019,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a1c62cd07da5f0da91ef572bb00619d26":[5,0,2019,0,4],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a7be58c6ecc4e5ba23ec35cc1864f19e6":[5,0,2019,0,5],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a8864031e3c7a32cde57ca6efbf785d53":[5,0,2019,0,1],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a92af4732575008c1a4f061cef0f23902":[5,0,2019,0,0]
+"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a7be58c6ecc4e5ba23ec35cc1864f19e6":[5,0,2019,0,5]
 };

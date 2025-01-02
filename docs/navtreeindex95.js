@@ -1,5 +1,7 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2d/classspell__krick__explosive__barrage__aura.html#ad54c3014195c5b848ab1f9cc978f72b3":[5,0,3294,1],
+"d3/d2d/classspell__krick__explosive__barrage__aura.html#af8e1ee8ddf7ed8290eb71fb7697428fb":[5,0,3294,2],
 "d3/d2d/classspell__rotface__mutated__infection__aura.html":[5,0,3667],
 "d3/d2d/classspell__rotface__mutated__infection__aura.html#a41992ed6c23275d3a910915755b682f9":[5,0,3667,1],
 "d3/d2d/classspell__rotface__mutated__infection__aura.html#a49b1087d66606ddeebe6918ad05d4b37":[5,0,3667,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959acb32fb6ef5552af61de27da686be3b2f":[6,0,0,0,1,3,5,9,2,13,61,4],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ad72106448b85c8e11fee7fd4dae735bf":[6,0,0,0,1,3,5,9,2,13,61,10],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959adb4b27872651a46ddc1859fd7c927997":[6,0,0,0,1,3,5,9,2,13,61,26],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ae08e3878b155bb92c06445e84cc67dae":[6,0,0,0,1,3,5,9,2,13,61,15],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959af7f4fedd46b995effc6098909253cc10":[6,0,0,0,1,3,5,9,2,13,61,17],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959afb894208474ee5fcfd18fbcf0518a6e9":[6,0,0,0,1,3,5,9,2,13,61,31]
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ae08e3878b155bb92c06445e84cc67dae":[6,0,0,0,1,3,5,9,2,13,61,15]
 };

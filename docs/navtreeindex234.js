@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6bad9983a17d117d785671b552859fb22ec":[6,0,0,0,1,3,5,6,13,17,0],
+"d9/d6a/icecrown__citadel_8h.html#aedd5b1571735b8eb8d453ae63fb062d8":[6,0,0,0,1,3,5,6,13,21],
 "d9/d6a/icecrown__citadel_8h.html#aefe943fb367709acb52dfbad7631e202":[6,0,0,0,1,3,5,6,13,24],
 "d9/d6a/icecrown__citadel_8h.html#af5d9729702ab9f6cbada3720c3cc0147":[6,0,0,0,1,3,5,6,13,5],
 "d9/d6a/icecrown__citadel_8h.html#af5d9729702ab9f6cbada3720c3cc0147a7081e9fbce528474f7530670818b8d4b":[6,0,0,0,1,3,5,6,13,5,1],
@@ -180,12 +182,12 @@ var NAVTREEINDEX234 =
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[5,0,2528,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[4,0,19,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[4,0,19,16,1],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[4,0,19,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[4,0,19,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[4,0,19,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,5,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[4,0,19,16,2],
@@ -216,10 +218,10 @@ var NAVTREEINDEX234 =
 "d9/d71/AuthDefines_8h.html#accf22e06a217bb405f0ee6f240d2e263":[6,0,0,0,0,3,0,2,1],
 "d9/d71/classAcore_1_1ThreatOrderPred.html":[4,0,1,119],
 "d9/d71/classAcore_1_1ThreatOrderPred.html":[5,0,0,107],
-"d9/d71/classAcore_1_1ThreatOrderPred.html#a33b2897bfd994ce57628f939814facba":[4,0,1,119,0],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#a33b2897bfd994ce57628f939814facba":[5,0,0,107,0],
-"d9/d71/classAcore_1_1ThreatOrderPred.html#a5f668d69e800b472bc64711199f2b732":[5,0,0,107,1],
+"d9/d71/classAcore_1_1ThreatOrderPred.html#a33b2897bfd994ce57628f939814facba":[4,0,1,119,0],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#a5f668d69e800b472bc64711199f2b732":[4,0,1,119,1],
+"d9/d71/classAcore_1_1ThreatOrderPred.html#a5f668d69e800b472bc64711199f2b732":[5,0,0,107,1],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#ad4d70c60ed781e443f07ad1b81afd10d":[5,0,0,107,2],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#ad4d70c60ed781e443f07ad1b81afd10d":[4,0,1,119,2],
 "d9/d71/classat__baltharus__plateau.html":[5,0,194],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a79bf005de95aa1fee60dfc73b8920dad":[5,0,2253,0,3],
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#af0a1e717b08b2fa35dd4ff83778a87c1":[5,0,2253,0,2],
 "d9/d73/classboss__kirtonos__the__herald.html":[5,0,558],
-"d9/d73/classboss__kirtonos__the__herald.html#a0e81153a0da7910cda4c9b6d32544318":[5,0,558,1],
-"d9/d73/classboss__kirtonos__the__herald.html#aa5e0fe2386aae52fd53ff309282db652":[5,0,558,2],
-"d9/d73/classspell__morogrim__tidewalker__water__globule__new__target.html":[5,0,3385]
+"d9/d73/classboss__kirtonos__the__herald.html#a0e81153a0da7910cda4c9b6d32544318":[5,0,558,1]
 };

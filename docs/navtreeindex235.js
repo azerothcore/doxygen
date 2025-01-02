@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"d9/d73/classboss__kirtonos__the__herald.html#aa5e0fe2386aae52fd53ff309282db652":[5,0,558,2],
+"d9/d73/classspell__morogrim__tidewalker__water__globule__new__target.html":[5,0,3385],
 "d9/d73/classspell__morogrim__tidewalker__water__globule__new__target.html#a2fe7441bd9753cb912d11f8d36632f44":[5,0,3385,1],
 "d9/d73/classspell__morogrim__tidewalker__water__globule__new__target.html#adb8581b4b92aa49eda8f531e6d6de1ea":[5,0,3385,0],
 "d9/d73/classspell__morogrim__tidewalker__water__globule__new__target.html#ade51d4cb00b63c46582c7a5e6e031e9d":[5,0,3385,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d84/LootMgr_8h.html#a9e0dd775278fdc9626bc8cb723035395":[6,0,0,0,1,2,24,3,45],
 "d9/d84/LootMgr_8h.html#aa442746e1859bbd940dad2fdd852f406":[6,0,0,0,1,2,24,3,50],
 "d9/d84/LootMgr_8h.html#aa6e191c54a43255f4cc43af79b20c817":[6,0,0,0,1,2,24,3,27],
-"d9/d84/LootMgr_8h.html#aab54e459c8a6d83039755f8b6c82a5e9":[6,0,0,0,1,2,24,3,9],
-"d9/d84/LootMgr_8h.html#aade507039245a0e20adcdbf548a7d690":[6,0,0,0,1,2,24,3,30],
-"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628b":[6,0,0,0,1,2,24,3,19]
+"d9/d84/LootMgr_8h.html#aab54e459c8a6d83039755f8b6c82a5e9":[6,0,0,0,1,2,24,3,9]
 };

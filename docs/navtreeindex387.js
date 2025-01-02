@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a2f7d5b821ea4bf80bd01d469859f6fb6":[5,0,2178,0,3],
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a5099c03b3ab1eb437ea11a0c4e8650f1":[5,0,2178,0,5],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a6384437fff9349df0cfa5053b37313ea":[5,0,2178,0,2],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a71d24eb5cea764011249b8ff78c3ed6c":[5,0,2178,0,4],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a98ad3308b0fa56847ce6f5583bdfaba9":[5,0,2178,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/dd3/classEmblemInfo.html#a0bc92e459910ab6aad3ac35c8b613a5f":[5,0,990,9],
 "df/dd3/classEmblemInfo.html#a0e6d684542535d537bdeba4104b7a18d":[5,0,990,5],
 "df/dd3/classEmblemInfo.html#a15108f3a2a93ebbc01111672dd238d63":[5,0,990,4],
-"df/dd3/classEmblemInfo.html#a17de371e72a2b29a7f249dbe912636bc":[5,0,990,6],
-"df/dd3/classEmblemInfo.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf":[5,0,990,10],
-"df/dd3/classEmblemInfo.html#a66da2cd78cee9e929ff0f2439caed0e5":[5,0,990,1]
+"df/dd3/classEmblemInfo.html#a17de371e72a2b29a7f249dbe912636bc":[5,0,990,6]
 };

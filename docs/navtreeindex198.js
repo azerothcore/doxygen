@@ -1,5 +1,7 @@
 var NAVTREEINDEX198 =
 {
+"d7/da8/classspell__dru__glyph__of__starfire.html":[5,0,2766],
+"d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[5,0,2766,0],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae29c4f69a34e71011192df12509e2935":[5,0,2766,1],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae37da44bde25f6bdb5b4a382ab66b7be":[5,0,2766,2],
 "d7/da8/classspell__dru__glyph__of__starfire.html#af9056c179b8089cf0b304b3ce61ea92f":[5,0,2766,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX198 =
 "d7/db0/classMap.html#ab3102061629ab8c3375a9260d844064e":[5,0,1447,150],
 "d7/db0/classMap.html#ab5a0895b07c01085feb62dade7a9e888":[5,0,1447,243],
 "d7/db0/classMap.html#ab6742aeb8f4bc8c4b3d77ac4469ff817":[5,0,1447,41],
-"d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec":[5,0,1447,221],
-"d7/db0/classMap.html#ab70e727db299a2c99866ec407ae31d8a":[5,0,1447,38],
-"d7/db0/classMap.html#ab7d7a4e9fa4e69efa9b45691ffe7519e":[5,0,1447,81]
+"d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec":[5,0,1447,221]
 };

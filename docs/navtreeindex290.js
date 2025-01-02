@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/de9/classspell__pursue.html#aef8bfe18b42bcc9ad70378c0d78354e7":[5,0,3497,1],
+"db/de9/classspell__pursue.html#afabe09f8d9a9a10855d6469e8a3db30f":[5,0,3497,3],
 "db/dea/classLinkedListHead.html":[5,0,1392],
 "db/dea/classLinkedListHead.html#a20c91c0ace1d4404b55802fbc7704bb5":[5,0,1392,11],
 "db/dea/classLinkedListHead.html#a2b67ea8030683685e442b534f6ac14ae":[5,0,1392,5],
@@ -162,12 +164,12 @@ var NAVTREEINDEX290 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[4,0,31,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[4,0,31,5,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[4,0,31,5,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,11,5,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[4,0,31,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,11,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[4,0,31,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,11,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[5,0,3101],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[5,0,3101,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[5,0,3101,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[5,0,1189,12],
 "db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[5,0,1189,0],
 "db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[5,0,1189,3],
-"db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[5,0,1189,7],
-"db/df2/structGossipMenuItems.html#a6f41e9adfcb11adabdd79b55c1d47bfc":[5,0,1189,11],
-"db/df2/structGossipMenuItems.html#a9a20a64e29d0464c40f57286b9c1804d":[5,0,1189,1]
+"db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[5,0,1189,7]
 };

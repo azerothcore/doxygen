@@ -1,10 +1,12 @@
 var NAVTREEINDEX99 =
 {
+"d3/d69/structAcore_1_1PlayerSearcher.html#a58c24b81eec33c9ba8fe8145ee3679b4":[5,0,0,96,3],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a6dd83612b7f0d00035a7efb8d970afc6":[4,0,1,108,5],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a6dd83612b7f0d00035a7efb8d970afc6":[5,0,0,96,5],
-"d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[5,0,0,96,4],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[4,0,1,108,4],
-"d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[4,0,1,108,0],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[5,0,0,96,4],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[5,0,0,96,0],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[4,0,1,108,0],
 "d3/d69/structAcore_1_1PlayerSearcher.html#ab2544b79869ba4de9772b1bff7c40704":[5,0,0,96,1],
 "d3/d69/structAcore_1_1PlayerSearcher.html#ab2544b79869ba4de9772b1bff7c40704":[4,0,1,108,1],
 "d3/d69/structAcore_1_1PlayerSearcher.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b":[4,0,1,108,2],
@@ -19,8 +21,8 @@ var NAVTREEINDEX99 =
 "d3/d6c/classboss__gothik.html":[5,0,488],
 "d3/d6c/classboss__gothik.html#a0c3ee990a1caf020e9a4be000f0b77e0":[5,0,488,1],
 "d3/d6c/classboss__gothik.html#aea7aec86c4132521fb7b9b6e87baf289":[5,0,488,2],
-"d3/d6d/classAcore_1_1RespawnDo.html":[4,0,1,114],
 "d3/d6d/classAcore_1_1RespawnDo.html":[5,0,0,102],
+"d3/d6d/classAcore_1_1RespawnDo.html":[4,0,1,114],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,0,102,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[4,0,1,114,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[5,0,0,102,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d73/classIceTombSummonEvent.html#a1b95617b511dfa7868c59dbdf7e6c4c7":[5,0,1249,2],
 "d3/d73/classIceTombSummonEvent.html#a2ead0e5f6eb0c32f5c11f38e667b65d3":[5,0,1249,0],
 "d3/d73/classIceTombSummonEvent.html#aa708b67e60ba0b4fe2334c43aaaca5c7":[5,0,1249,1],
-"d3/d73/classIceTombSummonEvent.html#abe61867b29cd4fe3d02268f18b3618ee":[5,0,1249,3],
-"d3/d74/classnpc__living__inferno.html":[5,0,1893],
-"d3/d74/classnpc__living__inferno.html#a53f0bbd0a502374664cfa54140f4b8c0":[5,0,1893,2]
+"d3/d73/classIceTombSummonEvent.html#abe61867b29cd4fe3d02268f18b3618ee":[5,0,1249,3]
 };

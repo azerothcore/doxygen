@@ -1,5 +1,7 @@
 var NAVTREEINDEX365 =
 {
+"de/db4/classPreparedStatementBase.html#ae206b57c5ba8b621ab2e769089eb8045":[5,0,2401,14],
+"de/db4/classPreparedStatementBase.html#af804ff958eb51e96c0deccb59e6c79a6":[5,0,2401,0],
 "de/db4/structGossipMenuItemData.html":[5,0,1188],
 "de/db4/structGossipMenuItemData.html#a377beba97be2b81a0c2bbeb933f1927b":[5,0,1188,0],
 "de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[5,0,1188,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[5,0,276,7],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[4,0,1,2,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,1,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[4,0,1,2,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,1,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,1,3,2]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[4,0,1,2,3,0]
 };

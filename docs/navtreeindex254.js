@@ -1,5 +1,7 @@
 var NAVTREEINDEX254 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7dcfd0e7c3d53ba3c5abed2115fd95b6":[6,0,0,0,1,3,5,6,10,78,22],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7df67fa2e186853d7cd92d20b1796cb9":[6,0,0,0,1,3,5,6,10,78,38],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80e6f5799737bc22dbfdc2d7b5bed89e":[6,0,0,0,1,3,5,6,10,78,10],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81ae81c83664c419bed5119046dc4ce3":[6,0,0,0,1,3,5,6,10,78,16],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81b63da66d67d3ccd13b2c105e0c8759":[6,0,0,0,1,3,5,6,10,78,52],
@@ -40,8 +42,8 @@ var NAVTREEINDEX254 =
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[6,0,0,0,1,2,26,7,1],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,8,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[4,0,27,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[4,0,27,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,8,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[4,0,27,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[6,0,0,0,1,3,2,12,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[6,0,0,0,1,3,2,12,4,17],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[6,0,0,0,1,3,2,12,4,17,40],
@@ -247,7 +249,5 @@ var NAVTREEINDEX254 =
 "da/d82/classreload__commandscript.html#a39f6f017a450421dfa7505786617e14a":[5,0,2452,6],
 "da/d82/classreload__commandscript.html#a3a676a55e16e1f6280d0c006650def41":[5,0,2452,69],
 "da/d82/classreload__commandscript.html#a3fe650a3da2b15e68ec5ea3e66ed7646":[5,0,2452,45],
-"da/d82/classreload__commandscript.html#a4124297c1e5d3188241b18deeaff0ea5":[5,0,2452,100],
-"da/d82/classreload__commandscript.html#a4144d91271ce9979a4fc13f3307abf17":[5,0,2452,35],
-"da/d82/classreload__commandscript.html#a4355d72ccb63064dfd0b9a381aa7b0c4":[5,0,2452,82]
+"da/d82/classreload__commandscript.html#a4124297c1e5d3188241b18deeaff0ea5":[5,0,2452,100]
 };

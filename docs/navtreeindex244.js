@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"da/d07/classByteBuffer.html#a13c94e2d389aa4c7427d1ba0c79fc955":[5,0,810,57],
+"da/d07/classByteBuffer.html#a177ac23fc6f11fbc89d9e93259f84e4b":[5,0,810,22],
 "da/d07/classByteBuffer.html#a195c157d1bbe2949bbbbf278f04c4497":[5,0,810,28],
 "da/d07/classByteBuffer.html#a1c3b7fe10221e5c32f3b542b37d453cf":[5,0,810,14],
 "da/d07/classByteBuffer.html#a1d626d542d2f60f3724d232b4d33a53c":[5,0,810,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#aa2a5488ff4706a44350bd969d57a99e1":[5,0,3815,1],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#adaab7b03edc6ff147e856dc0cdfc5ad0":[5,0,3815,0],
 "da/d16/structnpc__grandmother.html":[5,0,1781],
-"da/d16/structnpc__grandmother.html#a0e2b684377ed593abfbb49b730cfe9b2":[5,0,1781,2],
-"da/d16/structnpc__grandmother.html#a6cffe8c574859779f6561dde0aef9666":[5,0,1781,0],
-"da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[5,0,1781,1]
+"da/d16/structnpc__grandmother.html#a0e2b684377ed593abfbb49b730cfe9b2":[5,0,1781,2]
 };

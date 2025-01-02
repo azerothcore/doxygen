@@ -1,6 +1,8 @@
 var NAVTREEINDEX315 =
 {
+"dd/d27/classAcore_1_1Asio_1_1Strand.html":[4,0,1,0,3],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,0,0,2,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[4,0,1,0,3,0],
 "dd/d27/classOPvPCapturePointTF.html":[5,0,2299],
 "dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[5,0,2299,7],
 "dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[5,0,2299,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d27/structSmartAction.html#acc9eb53e012606ff390c7fa4dbcd22ff":[5,0,2519,231],
 "dd/d27/structSmartAction.html#ace91c6cbae89b21951ad9c6de2ee7452":[5,0,2519,210],
 "dd/d27/structSmartAction.html#aceae3dcd3652d218153b2cd8b269bffb":[5,0,2519,176],
-"dd/d27/structSmartAction.html#acfc67f1cc35227d77db319132471f5a6":[5,0,2519,197],
-"dd/d27/structSmartAction.html#acfecd88a57f366350452dba7ccc11455":[5,0,2519,12],
-"dd/d27/structSmartAction.html#acff32c26bdfa92b6b99526b93624c376":[5,0,2519,71]
+"dd/d27/structSmartAction.html#acfc67f1cc35227d77db319132471f5a6":[5,0,2519,197]
 };

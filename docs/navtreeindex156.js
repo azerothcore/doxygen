@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/ddd/classTransportMgr.html#aac45c48421abd6a85bddf4b2570807dc":[5,0,4087,3],
+"d5/ddd/classTransportMgr.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8":[5,0,4087,4],
 "d5/ddd/classTransportMgr.html#accb329967e8129ddcf857ecb6269c4d5":[5,0,4087,12],
 "d5/ddd/classTransportMgr.html#afd703e2da6667f5499e75eb6c85c4fec":[5,0,4087,7],
 "d5/ddd/classTransportMgr.html#afff76c3893f5a76d83d48f0074e77349":[5,0,4087,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a6bfd75b1d57d8002cab075bbd5a12612":[5,0,485,0,4],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a79e2416a55a1531316d891ebff4e5575":[5,0,485,0,0],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#aeed4cda9fae3e0b46832ec1bfecb97b0":[5,0,485,0,2],
-"d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#af7b322731241dbb08041a92cd355f273":[5,0,485,0,3],
-"d5/dec/classspell__black__temple__charge__rage__aura.html":[5,0,2598],
-"d5/dec/classspell__black__temple__charge__rage__aura.html#a0dca39c324a5431d4861c1f20a34355e":[5,0,2598,0]
+"d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#af7b322731241dbb08041a92cd355f273":[5,0,485,0,3]
 };

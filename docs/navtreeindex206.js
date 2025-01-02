@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"d8/d01/structAreaGroupEntry.html#a2868a59574e635d5f5859cfa01811151":[5,0,158,0],
+"d8/d01/structAreaGroupEntry.html#aabde46a6c77db2c7fb92ca211c86727a":[5,0,158,1],
 "d8/d01/structironhand__guardian_1_1ironhand__guardianAI.html":[5,0,1347,0],
 "d8/d01/structironhand__guardian_1_1ironhand__guardianAI.html#a095b11f44935c8ddb43a20c095495507":[5,0,1347,0,2],
 "d8/d01/structironhand__guardian_1_1ironhand__guardianAI.html#a13ed887285809d2fcad0d23fdf37face":[5,0,1347,0,3],
@@ -76,14 +78,14 @@ var NAVTREEINDEX206 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a1a4268b745e63992f4d0fc2028b717aa":[5,0,1784,0,0],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a6fa27328cf47bef81c3465b8a3e2ace1":[5,0,1784,0,3],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[5,0,1784,0,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[4,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,0,4,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[4,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[4,0,1,7,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[4,0,1,7,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[4,0,1,7,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,0,4,0,7,0],
 "d8/d05/RASession_8h.html":[6,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[6,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[5,0,452,0],
@@ -230,10 +232,10 @@ var NAVTREEINDEX206 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[6,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[4,0,28,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,9,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[4,0,28,0,1,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,9,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[4,0,28,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[4,0,28,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,9,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[5,0,1893,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "d8/d0f/classspell__nightbane__fireball__barrage.html":[5,0,3403],
 "d8/d0f/classspell__nightbane__fireball__barrage.html#a9576a48a3aa761c103f72586cd93970c":[5,0,3403,1],
 "d8/d0f/classspell__nightbane__fireball__barrage.html#aaadad68c322eac268ea7a45f9c369c59":[5,0,3403,2],
-"d8/d0f/classspell__nightbane__fireball__barrage.html#adae7a812a222a60f9c89cac4ea327011":[5,0,3403,0],
-"d8/d11/boss__brutallus_8cpp.html":[6,0,0,0,1,3,2,12,0],
-"d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[6,0,0,0,1,3,2,12,0,7]
+"d8/d0f/classspell__nightbane__fireball__barrage.html#adae7a812a222a60f9c89cac4ea327011":[5,0,3403,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada846ecaf157e15a16497991556e028fe6":[6,0,0,0,1,3,2,6,3,5,27],
+"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada848ed06bd99fd7a7c2347d37b08cc155":[6,0,0,0,1,3,2,6,3,5,80],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada89608799bcae8793822a5fb169e1982d":[6,0,0,0,1,3,2,6,3,5,66],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada8ab3c4c2717b178d21dd138c3620b3e8":[6,0,0,0,1,3,2,6,3,5,90],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada8cde4e4bfee4a3b79c0971c267502974":[6,0,0,0,1,3,2,6,3,5,87],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b2e0054b2bac6795ae520c16a9ffde0":[6,0,0,0,1,3,7,4,2,0,11,16],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8343d12d67c98d10cfb35faefefebdb8":[6,0,0,0,1,3,7,4,2,0,11,15],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca83be3e6f56ef7747fd0271ef7c6a5089":[6,0,0,0,1,3,7,4,2,0,11,12],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[6,0,0,0,1,3,7,4,2,0,11,4],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4":[6,0,0,0,1,3,7,4,2,0,11,7],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca99dfcda224e38c33771d6bf70abb5b66":[6,0,0,0,1,3,7,4,2,0,11,13]
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[6,0,0,0,1,3,7,4,2,0,11,4]
 };

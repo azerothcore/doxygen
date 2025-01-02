@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"de/d2d/namespaceObjectAccessor.html#a2ddde0dc109d262af644c232a315afd7":[4,0,24,18],
+"de/d2d/namespaceObjectAccessor.html#a2f3be0f1bc71493623f991ad879c8be4":[4,0,24,1],
 "de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0":[4,0,24,2],
 "de/d2d/namespaceObjectAccessor.html#a424a63829a446dac6f97a464cc64ed48":[4,0,24,10],
 "de/d2d/namespaceObjectAccessor.html#a43f4538cfa587672688705f6f7a60edc":[4,0,24,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX350 =
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaeddddf521bc306ef9b98bf6562778b57":[6,0,0,0,1,2,41,9,67,3],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebafcdcc89a75089da2c021819a91f01c2e":[6,0,0,0,1,2,41,9,67,0],
 "de/d30/SpellMgr_8h.html#abc58ec73bf74a9332a2d7a61af6d6f2e":[6,0,0,0,1,2,41,9,36],
-"de/d30/SpellMgr_8h.html#ac02351fce8a30ebfe6d2ced766e2e4df":[6,0,0,0,1,2,41,9,42],
-"de/d30/SpellMgr_8h.html#ac0bf7c1f4212d9675abaaa9b3ca6f33d":[6,0,0,0,1,2,41,9,28],
-"de/d30/SpellMgr_8h.html#ac7df41f0a89d4e98f71779b2460269b6":[6,0,0,0,1,2,41,9,39]
+"de/d30/SpellMgr_8h.html#ac02351fce8a30ebfe6d2ced766e2e4df":[6,0,0,0,1,2,41,9,42]
 };

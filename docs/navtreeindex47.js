@@ -1,5 +1,7 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa8d15c02209d50e65b927cf87cefaa4b5":[6,0,0,0,1,3,9,2,185,8],
+"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa94b2ba15af48a5d4ddb1bb17162af7b4":[6,0,0,0,1,3,9,2,185,9],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aaab7e94f78ac968198a0348f5080330b9":[6,0,0,0,1,3,9,2,185,11],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aac05372a6fdc4e573e2b208cb47d262eb":[6,0,0,0,1,3,9,2,185,7],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aace0886c9a3801dc62d3fc26803e12a24":[6,0,0,0,1,3,9,2,185,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX47 =
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[5,0,2836,0],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html":[5,0,3893],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[5,0,3893,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[5,0,3893,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[5,0,3893,2],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[5,0,2010,0]
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[5,0,3893,0]
 };

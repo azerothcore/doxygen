@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,2,0,0,0],
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html":[5,0,414,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[5,0,414,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[5,0,414,0,5],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bc15075d9e9a913783da482a7a167c7":[5,0,414,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[5,0,2100,0],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[5,0,2100,0,5],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[5,0,2100,0,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[5,0,2100,0,1],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#ac66e3398598576fdc889a7b56646eecf":[5,0,2100,0,3],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#af6e04824ea1682c529e8579a306d34ca":[5,0,2100,0,4]
+"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[5,0,2100,0,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a13615bc55651a754b0c7f0412829f611":[6,0,0,0,1,2,48,0,5,89],
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a1431c271d96f369f141b0ad6248c38c0":[6,0,0,0,1,2,48,0,5,28],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a14b24fe45e8851d05311c5b35d6179b5":[6,0,0,0,1,2,48,0,5,17],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a14be5dd23686af6c6df2c7496364ceb5":[6,0,0,0,1,2,48,0,5,24],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a1882d898cdee5466850d93688756463a":[6,0,0,0,1,2,48,0,5,52],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc":[5,0,2117,0,7],
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac45352b8b3d2301dbaecceaa69bdb1cf":[5,0,2117,0,4],
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac792f91930c869ce919f8fd96b3fb076":[5,0,2117,0,0],
-"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ae7c14a4cf5af178525e5a41c0ba34d4b":[5,0,2117,0,2],
-"d2/d7a/wailing__caverns_8h.html":[6,0,0,0,1,3,4,10,1],
-"d2/d7a/wailing__caverns_8h.html#a042491ef36459046f3866e90f15aae0d":[6,0,0,0,1,3,4,10,1,0]
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ae7c14a4cf5af178525e5a41c0ba34d4b":[5,0,2117,0,2]
 };

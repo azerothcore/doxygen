@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"da/dcc/boss__isalien_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a61e900515aec51ba22cfdd63c1082fc7":[6,0,0,0,1,3,4,2,0,1,0],
+"da/dcc/boss__isalien_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a9804f458758271100faa8cf4fe112f3e":[6,0,0,0,1,3,4,2,0,1,1],
 "da/dcc/boss__isalien_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[6,0,0,0,1,3,4,2,0,4],
 "da/dcc/boss__isalien_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[6,0,0,0,1,3,4,2,0,4,0],
 "da/dcc/boss__isalien_8cpp.html#ae7ff175f63ed6dcb6b39ddd95361f8bc":[6,0,0,0,1,3,4,2,0,5],
@@ -31,12 +33,12 @@ var NAVTREEINDEX263 =
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[4,0,1,46,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[4,0,1,46,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,34,5],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[4,0,1,46,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,34,2],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[4,0,1,46,0],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[4,0,1,46,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,34,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[4,0,1,46,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[4,0,1,46,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,34,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[4,0,1,46,4],
 "da/dd3/classObjectGridUnloader.html":[5,0,2278],
 "da/dd3/classObjectGridUnloader.html#a439967799109a30fabe5803c971387a6":[5,0,2278,0],
 "da/dd3/classObjectGridUnloader.html#af4e0726f266bcf919089cdcb47e5dade":[5,0,2278,1],
@@ -58,8 +60,8 @@ var NAVTREEINDEX263 =
 "da/dd7/classspell__najentus__needle__spine.html#a85cbe85873c5f04c8fb94ad52e94afda":[5,0,3400,0],
 "da/dd7/classspell__najentus__needle__spine.html#a972574075c86c32593982add71dc893f":[5,0,3400,2],
 "da/dd7/classspell__najentus__needle__spine.html#ae483ea2ecc541f52f37456f6e9d4b380":[5,0,3400,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,5,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[4,0,19,8],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,5,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,5,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[4,0,19,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[4,0,19,8,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX263 =
 "da/ddf/classspell__lich__king__vo__blocker.html#a8d52c4ea09e1d58d2dc44ff73d71faf5":[5,0,3308,0],
 "da/ddf/classspell__lich__king__vo__blocker.html#a9829789fe5544429454e29d228ce0daf":[5,0,3308,1],
 "da/ddf/classspell__lich__king__vo__blocker.html#ae81a441757ab9f10c29a7b313b99cf5f":[5,0,3308,3],
-"da/ddf/structboss__warbringer__omrogg.html":[5,0,759],
-"da/ddf/structboss__warbringer__omrogg.html#a176217a0767e8153d07996461ac68f60":[5,0,759,6],
-"da/ddf/structboss__warbringer__omrogg.html#a20f790595640cd41d636ad43c8837cda":[5,0,759,0]
+"da/ddf/structboss__warbringer__omrogg.html":[5,0,759]
 };

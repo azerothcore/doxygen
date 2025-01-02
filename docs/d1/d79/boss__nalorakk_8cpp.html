@@ -203,13 +203,15 @@ Enumerations</h2></td></tr>
 <tr class="memitem:a2b9b56f8ba96d26553d016ff45e7c8e2" id="r_a2b9b56f8ba96d26553d016ff45e7c8e2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2">NalorakkGroups</a> { <br />
 &#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f">GROUP_CHECK_DEAD</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a> = 2
+&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf">GROUP_CHECK_EVADE</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a> = 3
+&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a> = 4
+&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a> = 5
+&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a> = 6
 <br />
  }</td></tr>
 <tr class="separator:a2b9b56f8ba96d26553d016ff45e7c8e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -233,6 +235,7 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f" name="a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f"></a>GROUP_CHECK_DEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf" name="a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf"></a>GROUP_CHECK_EVADE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e" name="a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e"></a>GROUP_MOVE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b" name="a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b"></a>GROUP_BERSERK&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85" name="a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85"></a>GROUP_HUMAN&#160;</td><td class="fielddoc"></td></tr>
@@ -240,15 +243,17 @@ Functions</h2></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
 <div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f">GROUP_CHECK_DEAD</a>            = 1,</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a>                  = 2,</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a>               = 3,</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a>                 = 4,</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a>                  = 5</div>
-<div class="line"><span class="lineno">   79</span>};</div>
-<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a></div><div class="ttdeci">@ GROUP_BEAR</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:78</div></div>
-<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a></div><div class="ttdeci">@ GROUP_HUMAN</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:77</div></div>
-<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a></div><div class="ttdeci">@ GROUP_BERSERK</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:76</div></div>
-<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a></div><div class="ttdeci">@ GROUP_MOVE</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:75</div></div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf">GROUP_CHECK_EVADE</a>           = 2,</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a>                  = 3,</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a>               = 4,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a>                 = 5,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a>                  = 6</div>
+<div class="line"><span class="lineno">   80</span>};</div>
+<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf">GROUP_CHECK_EVADE</a></div><div class="ttdeci">@ GROUP_CHECK_EVADE</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:75</div></div>
+<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f">GROUP_BEAR</a></div><div class="ttdeci">@ GROUP_BEAR</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:79</div></div>
+<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85">GROUP_HUMAN</a></div><div class="ttdeci">@ GROUP_HUMAN</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:78</div></div>
+<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b">GROUP_BERSERK</a></div><div class="ttdeci">@ GROUP_BERSERK</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:77</div></div>
+<div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e">GROUP_MOVE</a></div><div class="ttdeci">@ GROUP_MOVE</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:76</div></div>
 <div class="ttc" id="aboss__nalorakk_8cpp_html_a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f"><div class="ttname"><a href="../../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f">GROUP_CHECK_DEAD</a></div><div class="ttdeci">@ GROUP_CHECK_DEAD</div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:74</div></div>
 </div><!-- fragment -->
 </div>
@@ -419,10 +424,10 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  341</span>{</div>
-<div class="line"><span class="lineno">  342</span>    <a class="code hl_define" href="../../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64">RegisterZulAmanCreatureAI</a>(<a class="code hl_struct" href="../../d1/d44/structboss__nalorakk.html">boss_nalorakk</a>);</div>
-<div class="line"><span class="lineno">  343</span>}</div>
-<div class="ttc" id="astructboss__nalorakk_html"><div class="ttname"><a href="../../d1/d44/structboss__nalorakk.html">boss_nalorakk</a></div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:82</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{</div>
+<div class="line"><span class="lineno">  370</span>    <a class="code hl_define" href="../../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64">RegisterZulAmanCreatureAI</a>(<a class="code hl_struct" href="../../d1/d44/structboss__nalorakk.html">boss_nalorakk</a>);</div>
+<div class="line"><span class="lineno">  371</span>}</div>
+<div class="ttc" id="astructboss__nalorakk_html"><div class="ttname"><a href="../../d1/d44/structboss__nalorakk.html">boss_nalorakk</a></div><div class="ttdef"><b>Definition</b> boss_nalorakk.cpp:83</div></div>
 <div class="ttc" id="azulaman_8h_html_ab29f29115db3f860c14af46fc7bf3b64"><div class="ttname"><a href="../../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64">RegisterZulAmanCreatureAI</a></div><div class="ttdeci">#define RegisterZulAmanCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> zulaman.h:107</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00107">RegisterZulAmanCreatureAI</a>.</p>
@@ -437,7 +442,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_2e841367dc54c4bfb9664988ca9a6769.html">ZulAman</a></li><li class="navelem"><a class="el" href="../../d1/d79/boss__nalorakk_8cpp.html">boss_nalorakk.cpp</a></li>
-    <li class="footer">Generated on Wed Jan 1 2025 06:20:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Jan 2 2025 06:20:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

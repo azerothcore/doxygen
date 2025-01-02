@@ -1,5 +1,7 @@
 var NAVTREEINDEX308 =
 {
+"dc/dc9/ObjectGuid_8h.html#a393d9824dfb17afe3b82652e89eccc68":[6,0,0,0,1,2,16,5,5,11],
+"dc/dc9/ObjectGuid_8h.html#a407d39fdbc20e1e06960539245ee6a25":[6,0,0,0,1,2,16,5,5,14],
 "dc/dc9/ObjectGuid_8h.html#a4d3dbad84884c4977ba2be1ac82cc142":[6,0,0,0,1,2,16,5,5,7],
 "dc/dc9/ObjectGuid_8h.html#a5951d383f157ff0ed6d23ecef2213a4b":[6,0,0,0,1,2,16,5,5,12],
 "dc/dc9/ObjectGuid_8h.html#a62874da4f73709809fa3c7609d3e30af":[6,0,0,0,1,2,16,5,5,13],
@@ -87,12 +89,12 @@ var NAVTREEINDEX308 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a63c0fede080591df9ebf8b3de2cd2fc3":[5,0,3539,0],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a7d60c5b18bbf77a18ab683a101782ada":[5,0,3539,2],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[5,0,3539,3],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[4,0,1,79],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,67],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[4,0,1,79,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[4,0,1,79],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,67,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[4,0,1,79,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[4,0,1,79,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,67,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[4,0,1,79,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,67,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[4,0,1,79,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,0,67,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dda/structboss__janalai.html#a48636a0186d7a09e4e98d960bab5530e":[5,0,538,10],
 "dc/dda/structboss__janalai.html#a6a049cb60b475b6c496862205d91c39f":[5,0,538,0],
 "dc/dda/structboss__janalai.html#a7caee2554fe4f6211589e3346d1865fd":[5,0,538,5],
-"dc/dda/structboss__janalai.html#a881f564fe75051c1c10e645d3f0b243b":[5,0,538,14],
-"dc/dda/structboss__janalai.html#a8f42138403eb2ef6d1737539dd352e80":[5,0,538,9],
-"dc/dda/structboss__janalai.html#a902814fa472af7dde6096e6e1901bfd4":[5,0,538,1]
+"dc/dda/structboss__janalai.html#a881f564fe75051c1c10e645d3f0b243b":[5,0,538,14]
 };

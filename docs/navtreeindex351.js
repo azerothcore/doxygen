@@ -1,5 +1,7 @@
 var NAVTREEINDEX351 =
 {
+"de/d30/SpellMgr_8h.html#ac0bf7c1f4212d9675abaaa9b3ca6f33d":[6,0,0,0,1,2,41,9,28],
+"de/d30/SpellMgr_8h.html#ac7df41f0a89d4e98f71779b2460269b6":[6,0,0,0,1,2,41,9,39],
 "de/d30/SpellMgr_8h.html#ac821b7d2d8a9effd8fafef038528e877":[6,0,0,0,1,2,41,9,24],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46":[6,0,0,0,1,2,41,9,60],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a07b2f1753e6047dcfef05d8ec0de5b87":[6,0,0,0,1,2,41,9,60,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX351 =
 "de/d38/OutdoorPvPHP_8cpp.html#ad62cd8f07ac98311202494985c6ae9c8":[6,0,0,0,1,3,6,5,5],
 "de/d38/classspell__gen__select__target__count.html":[5,0,2949],
 "de/d38/classspell__gen__select__target__count.html#a42ddce15414dcdf495b572e0f75e9486":[5,0,2949,2],
-"de/d38/classspell__gen__select__target__count.html#a5de89be9ce321a0f4ac49853a700b502":[5,0,2949,1],
-"de/d38/classspell__gen__select__target__count.html#a65507c155a8746ff49c58c051b7868e4":[5,0,2949,0],
-"de/d38/classspell__gen__select__target__count.html#a94f86992275123e2e3989655cf077efd":[5,0,2949,3]
+"de/d38/classspell__gen__select__target__count.html#a5de89be9ce321a0f4ac49853a700b502":[5,0,2949,1]
 };

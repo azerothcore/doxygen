@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[5,0,1769,0,4],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[5,0,1769,0,9],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[5,0,1769,0,3],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[5,0,1769,0,7],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[5,0,1541,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d20/DBCStore_8h.html":[6,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[6,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[6,0,0,0,1,3,2,1,0,4,5],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,2,1,0,4,4],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a632ec05dcccb225f30e3072493cef73d":[6,0,0,0,1,3,2,1,0,4,4,1],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9cb9bf5bb86d78ba6568cb7b33b6000b":[6,0,0,0,1,3,2,1,0,4,4,0]
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,2,1,0,4,4]
 };

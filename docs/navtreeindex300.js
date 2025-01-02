@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"dc/d44/cs__spectator_8cpp.html":[6,0,0,0,1,3,0,42],
+"dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[6,0,0,0,1,3,0,42,1],
 "dc/d44/structWardenHashRequest.html":[5,0,4148],
 "dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[5,0,4148,1],
 "dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[5,0,4148,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[6,0,0,0,1,3,7,5,1,6,5],
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea2e23df1f4d8b45ea8f7c0460f0e298f9":[6,0,0,0,1,3,7,5,1,6,5,3],
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea5eb8b318e75f7fafb22bd9fbc40ed420":[6,0,0,0,1,3,7,5,1,6,5,0],
-"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea8870ee908e189b299d97dec0da566017":[6,0,0,0,1,3,7,5,1,6,5,2],
-"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae79530671a5f0f569a679ff8017fe7a6":[6,0,0,0,1,3,7,5,1,6,5,1],
-"dc/d56/the__botanica_8h.html#a44c9842da22cdbd95af832a0e11f5410":[6,0,0,0,1,3,7,5,1,6,1]
+"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea8870ee908e189b299d97dec0da566017":[6,0,0,0,1,3,7,5,1,6,5,2]
 };

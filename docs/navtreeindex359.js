@@ -1,5 +1,7 @@
 var NAVTREEINDEX359 =
 {
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[4,0,1,8,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[4,0,1,8,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,0,5,0,26,0],
 "de/d8d/structArenaScore.html":[5,0,179],
@@ -247,7 +249,5 @@ var NAVTREEINDEX359 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca6705e7dadee2dd3403374f42166db929":[6,0,0,0,1,3,7,1,4,8,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b39310aedae8c463ba027790ef07c39":[6,0,0,0,1,3,7,1,4,8,2],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca97f757fd8852d84166e0dacb74d48895":[6,0,0,0,1,3,7,1,4,8,1],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[6,0,0,0,1,3,7,1,4,8,10],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caaf0272d8528a147b8084c7a7d6d69b2a":[6,0,0,0,1,3,7,1,4,8,14],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cac0f9e5964a0246a1e0401ada311ac54a":[6,0,0,0,1,3,7,1,4,8,13]
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[6,0,0,0,1,3,7,1,4,8,10]
 };

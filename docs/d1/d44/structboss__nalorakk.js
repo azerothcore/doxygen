@@ -1,6 +1,7 @@
 var structboss__nalorakk =
 [
     [ "boss_nalorakk", "d1/d44/structboss__nalorakk.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
+    [ "CheckAnyEvadeGroup", "d1/d44/structboss__nalorakk.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
     [ "CheckFullyDeadGroup", "d1/d44/structboss__nalorakk.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
     [ "GroupedAttack", "d1/d44/structboss__nalorakk.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
     [ "JustDied", "d1/d44/structboss__nalorakk.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],

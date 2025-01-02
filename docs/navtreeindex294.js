@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4":[6,0,0,0,1,3,7,4,2,0,11,7],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca99dfcda224e38c33771d6bf70abb5b66":[6,0,0,0,1,3,7,4,2,0,11,13],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8":[6,0,0,0,1,3,7,4,2,0,11,9],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cab61a4963be73929db365ddabad71eef7":[6,0,0,0,1,3,7,4,2,0,11,17],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cacd0b5cac8c9deb10c2f18f8191c662ee":[6,0,0,0,1,3,7,4,2,0,11,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[5,0,1769,0,8],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[5,0,1769,0,5],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[5,0,1769,0,1],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[5,0,1769,0,2],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[5,0,1769,0,4],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[5,0,1769,0,9]
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[5,0,1769,0,2]
 };

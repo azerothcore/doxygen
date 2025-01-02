@@ -1,5 +1,7 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[4,0,1,7,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[4,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[4,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,4,6,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX270 =
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a47b7405bd2fd6789f61172cbacd12fa0":[5,0,701,0,8],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a542d2bc22970ee5835b2e15322dc2e58":[5,0,701,0,11],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a568466d621043157958bea38595d42a8":[5,0,701,0,0],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#a58f451d373d8336d5b8b38e33a1eeea8":[5,0,701,0,12],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#a5d4b4c94062db7601fdc918f9727e03b":[5,0,701,0,13],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#a7808767e79ebe4c5ac784ff7a32874f6":[5,0,701,0,1]
+"db/d33/structboss__svala_1_1boss__svalaAI.html#a58f451d373d8336d5b8b38e33a1eeea8":[5,0,701,0,12]
 };

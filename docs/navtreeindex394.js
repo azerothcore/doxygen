@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[5,0,3391,3],
+"df/de2/classspell__brewfest__main__ram__buff.html":[5,0,2635],
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[5,0,2635,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[5,0,2635,2],
 "df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[5,0,2635,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[5,0,826,29],
 "df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[5,0,826,16],
 "df/df1/structCell.html#a952f2c6008bbbc3b9ee1652ea5f9188a":[5,0,826,26],
-"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[5,0,826,18],
-"df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[5,0,826,2],
-"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[5,0,826,28]
+"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[5,0,826,18]
 };

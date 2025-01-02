@@ -1,5 +1,7 @@
 var NAVTREEINDEX45 =
 {
+"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac6e7cd54f93bd52f85a966e9ff9c13ae":[6,0,0,0,1,2,16,4,3,10,46],
+"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac8532b14a0c93294c9047016f131e1ff":[6,0,0,0,1,2,16,4,3,10,54],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac9915d33280865e825168470d29f48be":[6,0,0,0,1,2,16,4,3,10,66],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faad0f5128698a1c59b19c704bc413f690b":[6,0,0,0,1,2,16,4,3,10,21],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faae0407efbb0f13c4eda02fe5f0f32a28f":[6,0,0,0,1,2,16,4,3,10,62],
@@ -247,7 +249,5 @@ var NAVTREEINDEX45 =
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html":[5,0,635,0],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a76f9bd309e1c5045c74bb0ba8d8bce5c":[5,0,635,0,0],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a8183e3f02d931809440adc8cc0cd3654":[5,0,635,0,5],
-"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a950b2161ed4c2441fb73f8b009c5ba30":[5,0,635,0,4],
-"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a9dbc4cc1830703c393fbeb9c0385b709":[5,0,635,0,3],
-"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#ade379755d256c4c290e6dc8bbd862261":[5,0,635,0,1]
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a950b2161ed4c2441fb73f8b009c5ba30":[5,0,635,0,4]
 };

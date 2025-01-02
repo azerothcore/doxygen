@@ -1,5 +1,7 @@
 var NAVTREEINDEX397 =
 {
+"functions_j.html":[5,3,0,10],
+"functions_k.html":[5,3,0,11],
 "functions_l.html":[5,3,0,12],
 "functions_m.html":[5,3,0,13],
 "functions_n.html":[5,3,0,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX397 =
 "globals_vars_u.html":[6,1,2,21],
 "globals_vars_v.html":[6,1,2,22],
 "globals_vars_w.html":[6,1,2,23],
-"globals_vars_y.html":[6,1,2,24],
-"globals_vars_z.html":[6,1,2,25],
-"globals_w.html":[6,1,0,23]
+"globals_vars_y.html":[6,1,2,24]
 };

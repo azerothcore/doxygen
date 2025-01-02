@@ -1,5 +1,7 @@
 var NAVTREEINDEX310 =
 {
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88ab240c367c5e45c91ba387ac010e238bf":[6,0,0,0,1,3,3,1,39,4],
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88ad306b605b01d26aee45d81b8a241cb65":[6,0,0,0,1,3,3,1,39,3],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92":[6,0,0,0,1,3,3,1,36],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a1696f23ce1666381858aa20ce59c4879":[6,0,0,0,1,3,3,1,36,5],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a256fd25f172fa42871e6171e67568f28":[6,0,0,0,1,3,3,1,36,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX310 =
 "dc/de9/classnpc__azure__raider.html#a88a45e3b117c5105f7541d640dda8470":[5,0,1594,2],
 "dc/dea/namespaceEnumTraits.html":[4,0,14],
 "dc/dea/namespaceEnumTraits.html#a7294b75cb336d554d5ce2b75b05c37d6":[4,0,14,0],
-"dc/dec/chapter1_8cpp.html":[6,0,0,0,1,3,2,6,0],
-"dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691":[6,0,0,0,1,3,2,6,0,30],
-"dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691a791a1bbc1293066fe9178912253684a5":[6,0,0,0,1,3,2,6,0,30,1]
+"dc/dec/chapter1_8cpp.html":[6,0,0,0,1,3,2,6,0]
 };

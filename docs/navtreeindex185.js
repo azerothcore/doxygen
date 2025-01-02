@@ -1,5 +1,7 @@
 var NAVTREEINDEX185 =
 {
+"d7/d31/classachievement__yogg__saron__kiss__and__make__up.html":[5,0,107],
+"d7/d31/classachievement__yogg__saron__kiss__and__make__up.html#a8ce7df713b804d5bdd5f6f47d77fc1b8":[5,0,107,1],
 "d7/d31/classachievement__yogg__saron__kiss__and__make__up.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376":[5,0,107,0],
 "d7/d32/classBIH_1_1BuildStats.html":[5,0,341,1],
 "d7/d32/classBIH_1_1BuildStats.html#a0d3d26a62ae4aeb18fdff7d07a4b7873":[5,0,341,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d40/classspell__warl__create__healthstone.html#a90b8ae945aeb85ad6e8a120501288979":[5,0,3871,2],
 "d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[5,0,3871,3],
 "d7/d40/classspell__warl__create__healthstone.html#ae852b9df34612c074eab23b025c86870":[5,0,3871,5],
-"d7/d40/forge__of__souls_8h.html":[6,0,0,0,1,3,5,4,0,3],
-"d7/d40/forge__of__souls_8h.html#a042491ef36459046f3866e90f15aae0d":[6,0,0,0,1,3,5,4,0,3,1],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08":[6,0,0,0,1,3,5,4,0,3,4]
+"d7/d40/forge__of__souls_8h.html":[6,0,0,0,1,3,5,4,0,3]
 };

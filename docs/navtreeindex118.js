@@ -1,5 +1,7 @@
 var NAVTREEINDEX118 =
 {
+"d4/d1b/classspell__gen__no__offhand__proc.html#a3c4f64fc51367ebb549282b068458f4c":[5,0,2923,0],
+"d4/d1b/classspell__gen__no__offhand__proc.html#a72dc7c7b8bc842a7feb6857cbec34d25":[5,0,2923,1],
 "d4/d1b/classspell__gen__no__offhand__proc.html#ac84b357828094a42aab1c8bfee83d298":[5,0,2923,2],
 "d4/d1c/classspell__commander__sarannis__summon__reinforcements.html":[5,0,2668],
 "d4/d1c/classspell__commander__sarannis__summon__reinforcements.html#a0084e7f81fcd032c1e04b8f86d821993":[5,0,2668,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX118 =
 "d4/d1e/halls__of__reflection_8h.html#ad4550aef34ca62c3a6d9256b6df9fb0a":[6,0,0,0,1,3,5,4,1,3,27],
 "d4/d1e/halls__of__reflection_8h.html#ad46916324407da5e4a8c80b8e14cd597":[6,0,0,0,1,3,5,4,1,3,24],
 "d4/d1e/halls__of__reflection_8h.html#adec5fd0d03700bf28da476841b22a325":[6,0,0,0,1,3,5,4,1,3,41],
-"d4/d1e/halls__of__reflection_8h.html#ae4c6cef48277dd690772a3685aaff31e":[6,0,0,0,1,3,5,4,1,3,40],
-"d4/d1e/halls__of__reflection_8h.html#ae66e95c14537a74ebd7d32542aa359ca":[6,0,0,0,1,3,5,4,1,3,18],
-"d4/d1e/halls__of__reflection_8h.html#aeac8b3d1b93efac8f6254613447d4846":[6,0,0,0,1,3,5,4,1,3,16]
+"d4/d1e/halls__of__reflection_8h.html#ae4c6cef48277dd690772a3685aaff31e":[6,0,0,0,1,3,5,4,1,3,40]
 };

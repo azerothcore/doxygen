@@ -1,5 +1,7 @@
 var NAVTREEINDEX303 =
 {
+"dc/d7c/uldaman_8h.html#a16c2b8982727dd1439379712d87864b3":[6,0,0,0,1,3,2,14,1,3],
+"dc/d7c/uldaman_8h.html#a16c2b8982727dd1439379712d87864b3acf3daddab55457ad9e07286467a79672":[6,0,0,0,1,3,2,14,1,3,0],
 "dc/d7c/uldaman_8h.html#a16c2b8982727dd1439379712d87864b3af2ab523ddea33d0e8a2cf024a914c155":[6,0,0,0,1,3,2,14,1,3,1],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999f":[6,0,0,0,1,3,2,14,1,2],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa2363e2a8b85f2c57c2d18bf00a61c710":[6,0,0,0,1,3,2,14,1,2,2],
@@ -90,16 +92,16 @@ var NAVTREEINDEX303 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[5,0,1957,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[5,0,1957,0,9],
 "dc/d83/QuestDef_8cpp.html":[6,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[4,0,1,89],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,77],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[4,0,1,89],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[4,0,1,89,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,77,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,77,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[4,0,1,89,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,77,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[4,0,1,89,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,77,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[4,0,1,89,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,77,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[4,0,1,89,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[5,0,3208],
@@ -244,10 +246,8 @@ var NAVTREEINDEX303 =
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a42dd178512ebfbba612889f3ff5384bb":[5,0,5,1,11],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[4,0,19,1,9],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[5,0,5,1,9],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a6eef80ccf8defe89696cec1675033ea2":[4,0,19,1,10],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a6eef80ccf8defe89696cec1675033ea2":[5,0,5,1,10],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956":[4,0,19,1,16],
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a6eef80ccf8defe89696cec1675033ea2":[4,0,19,1,10],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956":[5,0,5,1,16],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a8791fcc476a5ebec99327f497f53db04":[5,0,5,1,5],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a8791fcc476a5ebec99327f497f53db04":[4,0,19,1,5]
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956":[4,0,19,1,16]
 };

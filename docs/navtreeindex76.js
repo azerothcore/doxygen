@@ -1,5 +1,7 @@
 var NAVTREEINDEX76 =
 {
+"d2/de3/CellImpl_8h.html":[6,0,0,0,1,2,19,0,1],
+"d2/de3/classnpc__shadowmoon__tuber__node.html":[5,0,2067],
 "d2/de3/classnpc__shadowmoon__tuber__node.html#a5f641af77e2fd78fe67b34fa18bf6b73":[5,0,2067,2],
 "d2/de3/classnpc__shadowmoon__tuber__node.html#a98e8c7a84789457900fa342cca209d41":[5,0,2067,1],
 "d2/de4/VehicleHandler_8cpp.html":[6,0,0,0,1,2,22,34],
@@ -247,7 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#abed64acc9b4dcfa1c15888aa76137175":[5,0,3990,22],
 "d2/de9/classSpellInfo.html#abf8e0cea7d33036ea66fa33e44f31509":[5,0,3990,109],
 "d2/de9/classSpellInfo.html#ac1a82f9330481616b4b87ed9eff0f785":[5,0,3990,180],
-"d2/de9/classSpellInfo.html#ac223275f113bdcbfa094e6c1d8e61edc":[5,0,3990,140],
-"d2/de9/classSpellInfo.html#ac29a2c6ee4ab66402daf29fb0227fb95":[5,0,3990,116],
-"d2/de9/classSpellInfo.html#ac4dd6630a1fcd25141ebfb5b8acf8014":[5,0,3990,54]
+"d2/de9/classSpellInfo.html#ac223275f113bdcbfa094e6c1d8e61edc":[5,0,3990,140]
 };

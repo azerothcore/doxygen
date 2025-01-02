@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d2/d04/classBattlegroundAV.html#a49c199681984e5db0c7e6743775b72c2":[5,0,299,20],
+"d2/d04/classBattlegroundAV.html#a4c23686707da15345afaf2b061d4d16a":[5,0,299,23],
 "d2/d04/classBattlegroundAV.html#a513060614915a5d0b5c513a5e6a35410":[5,0,299,35],
 "d2/d04/classBattlegroundAV.html#a608dc42a00ef8b541d97ca17d28149b8":[5,0,299,19],
 "d2/d04/classBattlegroundAV.html#a620e8e207b67bce220351ff4fa1e517d":[5,0,299,33],
@@ -142,14 +144,14 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[6,0,0,0,1,2,38,0,17,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[6,0,0,0,1,2,38,0,17,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[6,0,0,0,1,2,38,0,17,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[4,0,1,98],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,0,86],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,0,86,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[4,0,1,98],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[4,0,1,98,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,86,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,0,86,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[4,0,1,98,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[4,0,1,98,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,86,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,0,86,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[4,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[4,0,1,98,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,0,86,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[5,0,2129],
@@ -198,8 +200,8 @@ var NAVTREEINDEX49 =
 "d2/d0f/classRestoreFight.html":[5,0,2462],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[5,0,2462,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[5,0,2462,0],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[5,0,2462,2],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[5,0,2462,3],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[5,0,2462,2],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[5,0,2462,4],
 "d2/d0f/classboss__freya__summons.html":[5,0,467],
 "d2/d0f/classboss__freya__summons.html#a3445ed89967cc9a610472f18e862ecd4":[5,0,467,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80":[5,0,4113,22],
 "d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345":[5,0,4113,11],
 "d2/d12/classUnitScript.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83":[5,0,4113,16],
-"d2/d12/classUnitScript.html#a4b161e889eee3572a41c33a144d12cdf":[5,0,4113,2],
-"d2/d12/classUnitScript.html#a5541573db45b4404ae0b613251ad1a13":[5,0,4113,15],
-"d2/d12/classUnitScript.html#a627a99cd078d2cbd52519874f0bd0aff":[5,0,4113,14]
+"d2/d12/classUnitScript.html#a4b161e889eee3572a41c33a144d12cdf":[5,0,4113,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX101 =
 {
+"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[6,0,0,0,1,3,5,2,0,5,4],
+"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1":[6,0,0,0,1,3,5,2,0,5,4,8],
 "d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0":[6,0,0,0,1,3,5,2,0,5,4,9],
 "d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc":[6,0,0,0,1,3,5,2,0,5,4,1],
 "d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9":[6,0,0,0,1,3,5,2,0,5,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d89/classnpc__thassarian.html#a82bde4555821f84a6d07a69669528313":[5,0,2124,1],
 "d3/d89/classnpc__thassarian.html#af4bbf5f6a63c3765355d6b70c2bda55b":[5,0,2124,2],
 "d3/d8b/Geometry_8h.html":[6,0,0,0,0,15,13],
-"d3/d8b/Geometry_8h.html#a0b02845f56a27df498d0598d259ca5e1":[6,0,0,0,0,15,13,5],
-"d3/d8b/Geometry_8h.html#a18ed540c327b1fd656065d8cbfc4844f":[6,0,0,0,0,15,13,1],
-"d3/d8b/Geometry_8h.html#a5ce837ff4fb41332a25e6b0dc0f5b848":[6,0,0,0,0,15,13,0]
+"d3/d8b/Geometry_8h.html#a0b02845f56a27df498d0598d259ca5e1":[6,0,0,0,0,15,13,5]
 };

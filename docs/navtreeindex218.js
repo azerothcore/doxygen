@@ -1,5 +1,7 @@
 var NAVTREEINDEX218 =
 {
+"d8/d94/classTradeData.html#a291fdc4207d594982a780485b960f6fa":[5,0,4074,23],
+"d8/d94/classTradeData.html#a2982777fbad962000c016309667104df":[5,0,4074,7],
 "d8/d94/classTradeData.html#a2afa4c75d1fe0b8a712f270166f838ef":[5,0,4074,16],
 "d8/d94/classTradeData.html#a3e3023cdf6deb5283ebbe844727cadef":[5,0,4074,5],
 "d8/d94/classTradeData.html#a420249fcbb7394f16009861ccdb6962a":[5,0,4074,8],
@@ -109,12 +111,12 @@ var NAVTREEINDEX218 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[5,0,1624,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[5,0,1624,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[5,0,1624,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[4,0,31,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[4,0,31,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[4,0,31,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,11,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[4,0,31,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,11,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[4,0,31,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[5,0,2458],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d8/da3/structCreatureMovementData.html#a0ca3905bb168b81853091a7d56796c1f":[5,0,910,14],
 "d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[5,0,910,13],
 "d8/da3/structCreatureMovementData.html#a3ed4b7f140537f9d066344c50a79b0b1":[5,0,910,7],
-"d8/da3/structCreatureMovementData.html#a530b2bbf530e553687c23555f3ffe655":[5,0,910,6],
-"d8/da3/structCreatureMovementData.html#aa535d32995ba28e11915dd56494f4a72":[5,0,910,10],
-"d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf":[5,0,910,1]
+"d8/da3/structCreatureMovementData.html#a530b2bbf530e553687c23555f3ffe655":[5,0,910,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX366 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,1,3,0],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,1,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[4,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[4,0,1,2,3,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX366 =
 "de/dd9/AccountMgr_8h.html#a17c28dfcb31af8f4241bb5210408185a":[6,0,0,0,1,2,0,1,7],
 "de/dd9/AccountMgr_8h.html#a2a6c83e2d4e6121855beb252f23c905b":[6,0,0,0,1,2,0,1,4],
 "de/dd9/AccountMgr_8h.html#a30b6e5cf1733f0143f86aaeff600215c":[6,0,0,0,1,2,0,1,14],
-"de/dd9/AccountMgr_8h.html#a3382c6430bfbf14e32ca11b5ac68fc23":[6,0,0,0,1,2,0,1,6],
-"de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b":[6,0,0,0,1,2,0,1,2],
-"de/dd9/AccountMgr_8h.html#a4fb760897161c3d463f842b28bcf7c20":[6,0,0,0,1,2,0,1,10]
+"de/dd9/AccountMgr_8h.html#a3382c6430bfbf14e32ca11b5ac68fc23":[6,0,0,0,1,2,0,1,6]
 };

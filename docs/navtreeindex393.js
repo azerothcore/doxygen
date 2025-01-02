@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0a9e8381d2d5c7958d0c9ba1b662f3b0":[6,0,0,0,1,3,5,6,4,57,7],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a14b2d2a857f743fe5aeeb1026b3821f6":[6,0,0,0,1,3,5,6,4,57,3],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d9d413d349a18814b717b8996ce6315":[6,0,0,0,1,3,5,6,4,57,11],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a24da4196a9be71cd2781f9bccea1d89f":[6,0,0,0,1,3,5,6,4,57,29],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a25a5a53c9d058cd0aad716d8aa1c1383":[6,0,0,0,1,3,5,6,4,57,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html":[5,0,3391],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[5,0,3391,2],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[5,0,3391,0],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[5,0,3391,1],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[5,0,3391,3],
-"df/de2/classspell__brewfest__main__ram__buff.html":[5,0,2635]
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[5,0,3391,1]
 };

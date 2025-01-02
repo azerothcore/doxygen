@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a525fedad4a803a14bf7d7e6058b2a623":[6,0,0,0,1,3,10,3,19],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a525fedad4a803a14bf7d7e6058b2a623a7b8805640046853aca33e6ba0101979a":[6,0,0,0,1,3,10,3,19,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a525fedad4a803a14bf7d7e6058b2a623aeff25a98a93d2f000bf1264b52828408":[6,0,0,0,1,3,10,3,19,2],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a525fedad4a803a14bf7d7e6058b2a623afc68134944ca511ff138e50e24055f2d":[6,0,0,0,1,3,10,3,19,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5b":[6,0,0,0,1,3,10,3,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d99/classdark__rune__stormcaller.html#a9072aaf482106cfae0d3901507b47f60":[5,0,930,2],
 "d2/d99/classdark__rune__stormcaller.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc":[5,0,930,1],
 "d2/d99/structboss__jormungarAI.html":[5,0,544],
-"d2/d99/structboss__jormungarAI.html#a08cfa4cc7bf270926bf1d3fc8089318f":[5,0,544,17],
-"d2/d99/structboss__jormungarAI.html#a16e42748b51576e6acb7cb30794b47bf":[5,0,544,16],
-"d2/d99/structboss__jormungarAI.html#a2a9278b547776c84b756b6fb2fc89e67":[5,0,544,4]
+"d2/d99/structboss__jormungarAI.html#a08cfa4cc7bf270926bf1d3fc8089318f":[5,0,544,17]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"dd/d3b/structGameObjectTemplate.html#a7a2b60ae16e3397bf1bb899ce4448b0b":[5,0,1070,49],
+"dd/d3b/structGameObjectTemplate.html#a7c5724594df57db3bdb71b1daea87df3":[5,0,1070,1],
 "dd/d3b/structGameObjectTemplate.html#a7d0a8d9364a53e1db6d63ecadb0eb6b9":[5,0,1070,118],
 "dd/d3b/structGameObjectTemplate.html#a7d70afd5dcb16f45c13982af271c5522":[5,0,1070,139],
 "dd/d3b/structGameObjectTemplate.html#a828623bc49a497fe4a400e13147765f5":[5,0,1070,4],
@@ -130,14 +132,14 @@ var NAVTREEINDEX318 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[6,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[6,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[6,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[4,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,9,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[4,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[4,0,28,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[4,0,28,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[4,0,28,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[4,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,9,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[5,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[5,0,90,0],
 "dd/d48/UpdateMask_8h.html":[6,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[4,0,8,0,0,0],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,2,0,0,0],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html":[5,0,414,0]
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[4,0,8,0,0,0]
 };

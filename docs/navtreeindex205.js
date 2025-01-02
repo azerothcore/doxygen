@@ -1,5 +1,7 @@
 var NAVTREEINDEX205 =
 {
+"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab675521e5a509cec8dcdd179b2e75a97":[6,0,0,0,1,2,16,10,6,6,14],
+"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ab78c5071ba38308a6258b1153514f175":[6,0,0,0,1,2,16,10,6,6,1],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89aba284ec2e22c54fc7dc1b3bc714bf901":[6,0,0,0,1,2,16,10,6,6,7],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89ac2da3b0faa98e573b2788314742901b3":[6,0,0,0,1,2,16,10,6,6,6],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89aedd54e7d8b448cd045640e92aff23751":[6,0,0,0,1,2,16,10,6,6,16],
@@ -176,10 +178,10 @@ var NAVTREEINDEX205 =
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,0,43,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[4,0,1,55,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,0,43,3],
-"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[4,0,1,55,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,0,43,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[4,0,1,55,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[4,0,1,55,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,0,43,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[4,0,1,55,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html":[6,0,0,0,1,3,7,2,0,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[6,0,0,0,1,3,7,2,0,5,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,7,2,0,5,4],
@@ -217,8 +219,8 @@ var NAVTREEINDEX205 =
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html":[5,0,2196,0],
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a3c254e16f62e7d2414d81062c91c2468":[5,0,2196,0,1],
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a6308129d11989dadf0a5948c4a268e4b":[5,0,2196,0,0],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[4,0,1,7,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,0,4,0,2],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[4,0,1,7,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[4,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,4,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[4,0,1,7,0,2,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX205 =
 "d7/dff/structDynamicTreeIntersectionCallback.html#a77d71c68e20f4d19059317b307c27441":[5,0,981,0],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a9927d15de557ef58b7e4046e830f8dad":[5,0,981,2],
 "d8/d01/structAreaGroupEntry.html":[5,0,158],
-"d8/d01/structAreaGroupEntry.html#a1f966f2d6848e8aba2ae3c6bd8120503":[5,0,158,2],
-"d8/d01/structAreaGroupEntry.html#a2868a59574e635d5f5859cfa01811151":[5,0,158,0],
-"d8/d01/structAreaGroupEntry.html#aabde46a6c77db2c7fb92ca211c86727a":[5,0,158,1]
+"d8/d01/structAreaGroupEntry.html#a1f966f2d6848e8aba2ae3c6bd8120503":[5,0,158,2]
 };

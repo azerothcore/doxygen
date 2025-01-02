@@ -1,5 +1,7 @@
 var NAVTREEINDEX358 =
 {
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a9dfbb607bb117d2d1fc8a4e61c42859f":[5,0,2022,0,5],
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[5,0,2022,0,0],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[5,0,2022,0,10],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[5,0,2022,0,6],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[5,0,2022,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX358 =
 "de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[5,0,3710,2],
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[5,0,3710,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[5,0,3710,1],
-"de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[5,0,3710,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[4,0,1,8,0,26],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,5,0,26]
+"de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[5,0,3710,3]
 };

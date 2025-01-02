@@ -1,5 +1,7 @@
 var NAVTREEINDEX39 =
 {
+"d1/da9/boss__toravon_8cpp.html#afa530e4aa1607d79d7690c3d93df141d":[6,0,0,0,1,3,5,11,3,8],
+"d1/da9/classboss__auriaya.html":[5,0,371],
 "d1/da9/classboss__auriaya.html#a09c7cd124672eb12ec349dbbbd3c87ef":[5,0,371,2],
 "d1/da9/classboss__auriaya.html#a8acecf02a63e846d1a46633a6ade6083":[5,0,371,1],
 "d1/daa/classnpc__ulduar__aerial__command__unit.html":[5,0,2172],
@@ -247,7 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64faa802d0dafa7983a85583662f59eba430":[6,0,0,0,1,2,16,10,5,41,17],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabc080bbc3c53cdae00ae44e46179d2f1":[6,0,0,0,1,2,16,10,5,41,4],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabe35819c1f26bc8a11889d5f6efe026c":[6,0,0,0,1,2,16,10,5,41,20],
-"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fac3d309e81b26ab610ed447863d403617":[6,0,0,0,1,2,16,10,5,41,19],
-"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facb66efc9eeb8a80af7ee8cbf6f7d5083":[6,0,0,0,1,2,16,10,5,41,7],
-"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facf6a2e896a4631eff4530af87546cfbc":[6,0,0,0,1,2,16,10,5,41,12]
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fac3d309e81b26ab610ed447863d403617":[6,0,0,0,1,2,16,10,5,41,19]
 };

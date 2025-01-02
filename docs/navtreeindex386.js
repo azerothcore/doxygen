@@ -1,5 +1,7 @@
 var NAVTREEINDEX386 =
 {
+"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[6,0,0,0,1,3,5,9,1,0,4,2],
+"df/dab/boss__krystallus_8cpp.html#af4edae984bfe1d62b750eec0e9b7c015":[6,0,0,0,1,3,5,9,1,0,7],
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html":[5,0,1972],
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html#aaa0881509c2842d6c0442884d0947e28":[5,0,1972,1],
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html#aae11c76fbcf729f44136c53b2b3e0982":[5,0,1972,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[4,0,1,87,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,75,0],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[4,0,1,87,0],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html":[5,0,2178,0],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a2f7d5b821ea4bf80bd01d469859f6fb6":[5,0,2178,0,3],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a5099c03b3ab1eb437ea11a0c4e8650f1":[5,0,2178,0,5]
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html":[5,0,2178,0]
 };

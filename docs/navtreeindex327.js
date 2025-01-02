@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687a":[6,0,0,0,1,3,5,23,31],
+"dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687aa5436d9053113a8e073fc91da29feae33":[6,0,0,0,1,3,5,23,31,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687aae8457fa3c07267f329e0540b0a3b1549":[6,0,0,0,1,3,5,23,31,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144":[6,0,0,0,1,3,5,23,33],
 "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47":[6,0,0,0,1,3,5,23,33,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[5,0,3537,1],
 "dd/dc6/steam__vault_8h.html":[6,0,0,0,1,3,7,2,2,4],
 "dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[6,0,0,0,1,3,7,2,2,4,2],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08":[6,0,0,0,1,3,7,2,2,4,3],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08a0cb8f43195a3711e8de7b95d6977f602":[6,0,0,0,1,3,7,2,2,4,3,1],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08a23fe7bbcacd48b943c5bb78627a13a38":[6,0,0,0,1,3,7,2,2,4,3,0]
+"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08":[6,0,0,0,1,3,7,2,2,4,3]
 };

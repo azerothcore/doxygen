@@ -1,5 +1,7 @@
 var NAVTREEINDEX46 =
 {
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a9dbc4cc1830703c393fbeb9c0385b709":[5,0,635,0,3],
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#ade379755d256c4c290e6dc8bbd862261":[5,0,635,0,1],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#af7780f467df92c9218700773d1257a8c":[5,0,635,0,2],
 "d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[5,0,3772],
 "d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[5,0,3772,0],
@@ -63,8 +65,8 @@ var NAVTREEINDEX46 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[5,0,1424,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[5,0,1424,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[5,0,1424,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[4,0,31,5,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,11,5,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[4,0,31,5,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[4,0,31,5,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,11,5,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,11,5,26,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa18dbf00db0288b6b94302430f94d261d":[6,0,0,0,1,3,9,2,185,10],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa4c9820d5cd8f46e4fff8bed2faa7e64c":[6,0,0,0,1,3,9,2,185,4],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa59b07072753d6bf133aa9d3e1174f0da":[6,0,0,0,1,3,9,2,185,0],
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa765f964cd33a6eeb2cd7172ba41143d2":[6,0,0,0,1,3,9,2,185,1],
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa8d15c02209d50e65b927cf87cefaa4b5":[6,0,0,0,1,3,9,2,185,8],
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa94b2ba15af48a5d4ddb1bb17162af7b4":[6,0,0,0,1,3,9,2,185,9]
+"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa765f964cd33a6eeb2cd7172ba41143d2":[6,0,0,0,1,3,9,2,185,1]
 };

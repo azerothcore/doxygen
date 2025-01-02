@@ -1,5 +1,7 @@
 var NAVTREEINDEX268 =
 {
+"db/d0b/TerrainBuilder_8h.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[6,0,0,0,3,2,7,5],
+"db/d0b/TerrainBuilder_8h.html#a26a6da9ce81eb096651bf47cb90f947f":[6,0,0,0,3,2,7,7],
 "db/d0b/TerrainBuilder_8h.html#a32c90e1638c0f8693e2fc95201d2ec3f":[6,0,0,0,3,2,7,10],
 "db/d0b/TerrainBuilder_8h.html#a39bc2d4fa649e77addef85b06c49b369":[6,0,0,0,3,2,7,4],
 "db/d0b/TerrainBuilder_8h.html#a44bbf7085ddd1deacaae673ea4ec357c":[6,0,0,0,3,2,7,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX268 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931":[6,0,0,0,1,3,9,6,27,27],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a":[6,0,0,0,1,3,9,6,27,7],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca":[6,0,0,0,1,3,9,6,27,6],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d":[6,0,0,0,1,3,9,6,27,42],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d":[6,0,0,0,1,3,9,6,27,24],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938":[6,0,0,0,1,3,9,6,27,29]
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d":[6,0,0,0,1,3,9,6,27,42]
 };

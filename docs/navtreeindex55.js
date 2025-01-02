@@ -1,5 +1,7 @@
 var NAVTREEINDEX55 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#ad1aff64c18cd0f2107efa6558feccc87":[6,0,0,0,1,3,5,14,8],
+"d2/d38/northrend__script__loader_8cpp.html#ad209ba6d641758bf22351a6196d3c7c9":[6,0,0,0,1,3,5,14,44],
 "d2/d38/northrend__script__loader_8cpp.html#ad497b56557b631a443ef2ea56c24faff":[6,0,0,0,1,3,5,14,82],
 "d2/d38/northrend__script__loader_8cpp.html#ad9b4c5bfe589f9f6b1ea405752347585":[6,0,0,0,1,3,5,14,151],
 "d2/d38/northrend__script__loader_8cpp.html#ada8b6081df07a02725323b1c08577108":[6,0,0,0,1,3,5,14,77],
@@ -150,13 +152,13 @@ var NAVTREEINDEX55 =
 "d2/d3f/classActivePoolData.html":[5,0,125],
 "d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[5,0,125,17],
 "d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[5,0,125,9],
-"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[5,0,125,0],
 "d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[5,0,125,1],
+"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[5,0,125,0],
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[5,0,125,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[5,0,125,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[5,0,125,5],
-"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[5,0,125,7],
 "d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[5,0,125,8],
+"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[5,0,125,7],
 "d2/d3f/classActivePoolData.html#a8979fda780644f1e678b6569bc7ca6eb":[5,0,125,15],
 "d2/d3f/classActivePoolData.html#a904a2e30dd2c90c42efbd111fadb939b":[5,0,125,11],
 "d2/d3f/classActivePoolData.html#a9873ca821d26606ee06011a02bf3e1f8":[5,0,125,18],
@@ -164,8 +166,8 @@ var NAVTREEINDEX55 =
 "d2/d3f/classActivePoolData.html#ab64e67ec373ca97edab12662190e36c5":[5,0,125,20],
 "d2/d3f/classActivePoolData.html#ac06d473e60ddb91e027dabbd64d64961":[5,0,125,4],
 "d2/d3f/classActivePoolData.html#ac23fc621fc12c77718d5a1b9b9d928c4":[5,0,125,2],
-"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[5,0,125,13],
 "d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[5,0,125,12],
+"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[5,0,125,13],
 "d2/d3f/classActivePoolData.html#ae4e61f0da2ed8848c3afced7af36e761":[5,0,125,19],
 "d2/d3f/classActivePoolData.html#ae5973d0bb86a4477a3471579c5697d51":[5,0,125,6],
 "d2/d3f/classActivePoolData.html#ae6cf482063504094ce47271cf8097001":[5,0,125,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[5,0,252,0],
 "d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[5,0,252,1],
 "d2/d43/classMovementHandlerScript.html":[5,0,1496],
-"d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[5,0,1496,1],
-"d2/d43/classMovementHandlerScript.html#aeeeb5fe81eebc04fc317e726782be3ab":[5,0,1496,0],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html":[5,0,2608]
+"d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[5,0,1496,1]
 };

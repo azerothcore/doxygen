@@ -3,6 +3,7 @@ var boss__nalorakk_8cpp =
     [ "boss_nalorakk", "d1/d44/structboss__nalorakk.html", "d1/d44/structboss__nalorakk" ],
     [ "NalorakkGroups", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2", [
       [ "GROUP_CHECK_DEAD", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f", null ],
+      [ "GROUP_CHECK_EVADE", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf", null ],
       [ "GROUP_MOVE", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e", null ],
       [ "GROUP_BERSERK", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b", null ],
       [ "GROUP_HUMAN", "d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX171 =
 {
+"d6/d6d/structDoorInfo.html#a26f4849a1d68df466e6db0ccbb8d001b":[5,0,966,0],
+"d6/d6d/structDoorInfo.html#ad77a91752ea10a11c8e73655e63dd5c1":[5,0,966,2],
 "d6/d6e/EnumFlag_8h.html":[6,0,0,0,0,15,7],
 "d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[6,0,0,0,0,15,7,5],
 "d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[6,0,0,0,0,15,7,4],
@@ -115,8 +117,8 @@ var NAVTREEINDEX171 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[5,0,3327,2],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html":[6,0,0,0,0,1,3],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[6,0,0,0,0,1,3,0],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[4,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[4,0,1,8,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[6,0,0,0,1,3,5,8,2,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d78/classnpc__auriaya__feral__defender.html#abec35e280e42154af82f3e7e4fcec48d":[5,0,1586,2],
 "d6/d78/classnpc__auriaya__feral__defender.html#ae1afc396a1d9e6c9c2042ee0f58fb270":[5,0,1586,1],
 "d6/d78/structAchievementEntry.html":[5,0,113],
-"d6/d78/structAchievementEntry.html#a1de0e4302757f18c08b90b40e059737b":[5,0,113,0],
-"d6/d78/structAchievementEntry.html#a5c0dfb5b3c0711aff47d3d604ded2d1a":[5,0,113,2],
-"d6/d78/structAchievementEntry.html#a722dbda5ed8d74f5a1e75bdec8841aa3":[5,0,113,8]
+"d6/d78/structAchievementEntry.html#a1de0e4302757f18c08b90b40e059737b":[5,0,113,0]
 };

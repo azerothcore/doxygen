@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"d9/d84/LootMgr_8h.html#aade507039245a0e20adcdbf548a7d690":[6,0,0,0,1,2,24,3,30],
+"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628b":[6,0,0,0,1,2,24,3,19],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba5d87501f88aede6518f687729359edb2":[6,0,0,0,1,2,24,3,19,4],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba73564f8582e2a666fb3c4f4b4bc96bff":[6,0,0,0,1,2,24,3,19,3],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba8d79cbace44f9ce8c9f1d4b2a970837e":[6,0,0,0,1,2,24,3,19,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d90/zone__eversong__woods_8cpp.html":[6,0,0,0,1,3,2,24],
 "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e":[6,0,0,0,1,3,2,24,2],
 "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9":[6,0,0,0,1,3,2,24,2,4],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886":[6,0,0,0,1,3,2,24,2,1],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081":[6,0,0,0,1,3,2,24,2,5],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51":[6,0,0,0,1,3,2,24,2,3]
+"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886":[6,0,0,0,1,3,2,24,2,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX140 =
 {
+"d5/d09/classPetAura.html#aa5b3219cd2021341ce0910dce81d8b56":[5,0,2350,9],
+"d5/d09/classPetAura.html#abacd738dfb04687810b981297b1a1567":[5,0,2350,7],
 "d5/d09/classPetAura.html#adc1b329e1f303b5ad3f353abb4343cdf":[5,0,2350,6],
 "d5/d09/classPetAura.html#ae33bb99ab341f66fb2f296ccd6617e63":[5,0,2350,3],
 "d5/d09/classgo__l70__etc__music.html":[5,0,1133],
@@ -247,7 +249,5 @@ var NAVTREEINDEX140 =
 "d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[5,0,3729,1],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html":[5,0,3056],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html#a3f36968d10bde12c7e2eda8db4145252":[5,0,3056,2],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a51b075f95211025b2a7719a3ee70a6be":[5,0,3056,5],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a736c4fe39e947ad98df19b3b001bdc29":[5,0,3056,4],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a913c0137d2a13c810bbae869cc6cf734":[5,0,3056,1]
+"d5/d1b/classspell__hun__pet__carrion__feeder.html#a51b075f95211025b2a7719a3ee70a6be":[5,0,3056,5]
 };

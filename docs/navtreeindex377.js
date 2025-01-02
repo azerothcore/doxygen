@@ -1,5 +1,7 @@
 var NAVTREEINDEX377 =
 {
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a8a5c4a97e9093220a5d8642fcf6ceece":[5,0,1602,0,5],
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a9094deb17c0c77c968bbfb4f9f05e521":[5,0,1602,0,8],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#ab5ed76e189150b2bb8a57095289246fe":[5,0,1602,0,4],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#acae5cbc4bcbe91b6810d649385a889a9":[5,0,1602,0,7],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#acdefdf68be1d870f76cbd0e329e3c890":[5,0,1602,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX377 =
 "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0":[6,0,0,0,1,3,2,1,0,0,19],
 "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22":[6,0,0,0,1,3,2,1,0,0,19,0],
 "df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22":[6,0,0,0,1,3,2,1,0,0,21],
-"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779":[6,0,0,0,1,3,2,1,0,0,13],
-"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451":[6,0,0,0,1,3,2,1,0,0,13,2],
-"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a":[6,0,0,0,1,3,2,1,0,0,13,3]
+"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779":[6,0,0,0,1,3,2,1,0,0,13]
 };

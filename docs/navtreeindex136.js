@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d4/dd0/classWorldObject.html#a8533908fbfdf524205c7a30b1e997d19":[5,0,4199,142],
+"d4/dd0/classWorldObject.html#a89a478800326e154af1bb567d0b275e9":[5,0,4199,58],
 "d4/dd0/classWorldObject.html#a8b5bf67b1f64fee748e20a147455c141":[5,0,4199,5],
 "d4/dd0/classWorldObject.html#a8bcd0563ce34a4ed2336034e762ce7fb":[5,0,4199,137],
 "d4/dd0/classWorldObject.html#a8debfe26d218358a75ac85ea0bf079ad":[5,0,4199,60],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd8/structAchievementCriteriaData.html#af417eb1063ef86212128bdc05c6f278a":[5,0,109,19],
 "d4/dd9/structAchievementCriteriaEntry.html":[5,0,111],
 "d4/dd9/structAchievementCriteriaEntry.html#a0078bacbeb6140141d4818036f08d6a3":[5,0,111,36],
-"d4/dd9/structAchievementCriteriaEntry.html#a00e201b605e2507b85a489c9d951751f":[5,0,111,116],
-"d4/dd9/structAchievementCriteriaEntry.html#a016e4668a27a1f0790349af72eb7d563":[5,0,111,124],
-"d4/dd9/structAchievementCriteriaEntry.html#a032d98e8f3a481350f6a7484e39c9c73":[5,0,111,121]
+"d4/dd9/structAchievementCriteriaEntry.html#a00e201b605e2507b85a489c9d951751f":[5,0,111,116]
 };

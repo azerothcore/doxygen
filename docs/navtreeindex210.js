@@ -1,5 +1,7 @@
 var NAVTREEINDEX210 =
 {
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a9959966856601f79a83931a7a7ecff91":[5,0,3687,2],
+"d8/d3a/structItemSetEntry.html":[5,0,1368],
 "d8/d3a/structItemSetEntry.html#a58d0997a73cf48061545edbc0201f544":[5,0,1368,4],
 "d8/d3a/structItemSetEntry.html#a8496a2f3fa3e230def04b996fc585760":[5,0,1368,1],
 "d8/d3a/structItemSetEntry.html#a8aac032992efe1bfbba0e49693562c7f":[5,0,1368,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d4b/classObject.html#af0930b68d7e83e9200e110722d012aa0":[5,0,2274,53],
 "d8/d4b/classObject.html#af2a0d1358ff1532ac3cdb78b357f2fd0":[5,0,2274,115],
 "d8/d4b/classObject.html#af3b5cd7a9a24ddde484344200cf83281":[5,0,2274,2],
-"d8/d4b/classObject.html#af4f98f3e36c6dba78b0f69011d426cd8":[5,0,2274,91],
-"d8/d4b/classObject.html#af7b6a5afebd7c3297e369213be44e059":[5,0,2274,37],
-"d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8":[5,0,2274,104]
+"d8/d4b/classObject.html#af4f98f3e36c6dba78b0f69011d426cd8":[5,0,2274,91]
 };

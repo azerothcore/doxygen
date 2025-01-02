@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a2d2a162132b7f4c0a5faf1f86a476002":[5,0,356,0,3],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a33afad6262abe2a0c9224a4b5bb3ce28":[5,0,356,0,0],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a4b3a75fa687361efc85ebc0da7bf2b75":[5,0,356,0,11],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a528436b7e4e55910d1eb6e00831e7e41":[5,0,356,0,9],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a6466b6b4a275849a813a362ef6b1d518":[5,0,356,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d44/classspell__sha__flurry__proc.html":[5,0,3700],
 "dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[5,0,3700,2],
 "dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[5,0,3700,0],
-"dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[5,0,3700,1],
-"dc/d44/cs__spectator_8cpp.html":[6,0,0,0,1,3,0,42],
-"dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[6,0,0,0,1,3,0,42,1]
+"dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[5,0,3700,1]
 };

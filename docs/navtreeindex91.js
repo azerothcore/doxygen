@@ -1,5 +1,7 @@
 var NAVTREEINDEX91 =
 {
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#a3696b798ea0c6c899263cd06e9eb467d":[5,0,459,0,1],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#a3ecaa81b75770931d55938f8b36328f6":[5,0,459,0,2],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a3fd5c4e8997e06afdd9c4a9f7003cb9b":[5,0,459,0,5],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a45bdff52a8cd0d286070c22c2c42de77":[5,0,459,0,19],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a4f14e1653a9925b92954fb8ff28e9bb0":[5,0,459,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[5,0,2972,0],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[5,0,2972,1],
 "d3/d0a/structboss__ossirian.html":[5,0,633],
-"d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[5,0,633,9],
-"d3/d0a/structboss__ossirian.html#a16aa4ac59c1c8f6f844c311745b6e969":[5,0,633,5],
-"d3/d0a/structboss__ossirian.html#a17a31cf7827cdb904efa64d954b19c4a":[5,0,633,6]
+"d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[5,0,633,9]
 };

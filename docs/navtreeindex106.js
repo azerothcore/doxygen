@@ -1,16 +1,18 @@
 var NAVTREEINDEX106 =
 {
+"d3/db2/classgo__resonite__cask.html#a5a89aa97a4cd31d7ae183649ee750b74":[5,0,1149,0],
+"d3/db2/classgo__resonite__cask.html#aae8591d53a6983886b52d404acdba293":[5,0,1149,1],
 "d3/db2/cs__instance_8cpp.html":[6,0,0,0,1,3,0,21],
 "d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[6,0,0,0,1,3,0,21,1],
 "d3/db3/DynamicTree_8h.html":[6,0,0,0,0,1,7],
-"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[4,0,28,20],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[4,0,28,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,9,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[4,0,28,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[4,0,28,20,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,9,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[4,0,28,20,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,9,20,0],
 "d3/db3/structNpcFlagText.html":[5,0,2265],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[5,0,2265,1],
 "d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[5,0,2265,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dc4/classCorpse.html#a57a9b6a244d82265bd625bb465e6cc9d":[5,0,891,20],
 "d3/dc4/classCorpse.html#a6017c84645e7e633871c92786ed25838":[5,0,891,22],
 "d3/dc4/classCorpse.html#a659f796ae11a5872226a6aa64323be59":[5,0,891,14],
-"d3/dc4/classCorpse.html#a7f839a667b4a10014760a0f4451298b1":[5,0,891,19],
-"d3/dc4/classCorpse.html#a8c5111652979636e59e655eedf47f978":[5,0,891,2],
-"d3/dc4/classCorpse.html#a92e3fd5bebe85204829e5ff97bd3c44f":[5,0,891,9]
+"d3/dc4/classCorpse.html#a7f839a667b4a10014760a0f4451298b1":[5,0,891,19]
 };

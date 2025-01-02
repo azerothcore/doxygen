@@ -1,5 +1,7 @@
 var NAVTREEINDEX249 =
 {
+"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[4,0,1,116,0],
+"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,0,104,0],
 "da/d4b/classCastArmageddon.html":[5,0,822],
 "da/d4b/classCastArmageddon.html#a1e70887099a7a47b7c26517d4363ad93":[5,0,822,2],
 "da/d4b/classCastArmageddon.html#a2e90929b63e6151252aa01a55dbd801f":[5,0,822,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX249 =
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[6,0,0,0,1,3,5,8,2,1,5,2],
 "da/d53/boss__eregos_8cpp.html#a3018d2eec0f678e0cfade4ec6e226259":[6,0,0,0,1,3,5,8,2,1,8],
 "da/d53/boss__eregos_8cpp.html#a46a311f1484a23f697614b35a94255ed":[6,0,0,0,1,3,5,8,2,1,3],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[6,0,0,0,1,3,5,8,2,1,6],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0389df4fe9df0a23018c0c898f6904cb":[6,0,0,0,1,3,5,8,2,1,6,5],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3758183c8861bf06b306d425ee3277e2":[6,0,0,0,1,3,5,8,2,1,6,3]
+"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[6,0,0,0,1,3,5,8,2,1,6]
 };

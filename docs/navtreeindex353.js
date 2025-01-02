@@ -1,5 +1,7 @@
 var NAVTREEINDEX353 =
 {
+"de/d3d/LFGMgr_8h.html#a24a94f53e8d64ec14618126aff5fb965":[6,0,0,0,1,2,15,5,14],
+"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7c":[6,0,0,0,1,2,15,5,28],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158":[6,0,0,0,1,2,15,5,28,4],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca5c2d973e50a206ed3db55622d9697c0b":[6,0,0,0,1,2,15,5,28,1],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905":[6,0,0,0,1,2,15,5,28,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX353 =
 "de/d4a/structnpc__anzu__spirit.html#ad14937df9ddddabcf96e2d1104ca153c":[5,0,1567,4],
 "de/d4a/structnpc__anzu__spirit.html#adb1b66d6bf6ec1991465f85a504397d5":[5,0,1567,0],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html":[5,0,715,0],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a06c2609a2cff0d6b684dc197e6a29e9b":[5,0,715,0,16],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a0e1ab5732b70522e47036f067866eef3":[5,0,715,0,8],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a0e932a7e98d4e5d5fce8c35926acc185":[5,0,715,0,17]
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a06c2609a2cff0d6b684dc197e6a29e9b":[5,0,715,0,16]
 };

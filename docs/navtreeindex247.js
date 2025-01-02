@@ -1,5 +1,7 @@
 var NAVTREEINDEX247 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab4e25ba6068fba0c5d7c5ac8adbbf8fa":[6,0,0,0,1,2,41,0,0,6,56],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab6c4d806c60e94fec189c27a7a205576":[6,0,0,0,1,2,41,0,0,6,227],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7aebcdfc938aad8e15f24f026994dbb":[6,0,0,0,1,2,41,0,0,6,298],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08":[6,0,0,0,1,2,41,0,0,6,69],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7caec06da12516fc003278d36a7d07a":[6,0,0,0,1,2,41,0,0,6,101],
@@ -185,14 +187,14 @@ var NAVTREEINDEX247 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#afdb4215cd0578de7342b152783666ed6":[5,0,1842,0,2],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[4,0,31,5,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,11,5,33],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,11,5,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[4,0,31,5,33,3],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,11,5,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[4,0,31,5,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[5,0,11,5,33,5],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[4,0,31,5,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[5,0,11,5,33,4],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[4,0,31,5,33,0],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[4,0,31,5,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[5,0,11,5,33,0],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[4,0,31,5,33,0],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[4,0,31,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[5,0,11,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acd5105c31e0f56e680f3384e86186872":[4,0,31,5,33,2],
@@ -224,8 +226,8 @@ var NAVTREEINDEX247 =
 "da/d35/structPlayer_1_1ChatFloodThrottle.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68":[5,0,2361,1,0,0],
 "da/d35/structlfg_1_1LfgWaitTime.html":[5,0,5,18],
 "da/d35/structlfg_1_1LfgWaitTime.html":[4,0,19,18],
-"da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[5,0,5,18,2],
 "da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[4,0,19,18,2],
+"da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[5,0,5,18,2],
 "da/d35/structlfg_1_1LfgWaitTime.html#a1d80e0848c06c658a4c0587b686fe09d":[5,0,5,18,0],
 "da/d35/structlfg_1_1LfgWaitTime.html#a1d80e0848c06c658a4c0587b686fe09d":[4,0,19,18,0],
 "da/d35/structlfg_1_1LfgWaitTime.html#ae6bd7db37ac17752edbc8d336081b91e":[5,0,5,18,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX247 =
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html":[5,0,1276,0],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a0080fdf557ad8159a8934dce5b39a535":[5,0,1276,0,0],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a0c2f4d615394ef1d6e1b930ed6aff82f":[5,0,1276,0,2],
-"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a1b30829b3c782bb2c52e5da4fa388d5c":[5,0,1276,0,5],
-"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a85d3db22430a4bac7e01dcfa1a1efb5b":[5,0,1276,0,3],
-"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#ac607601becc7fbf4ea9c64d87c93287c":[5,0,1276,0,1]
+"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a1b30829b3c782bb2c52e5da4fa388d5c":[5,0,1276,0,5]
 };
