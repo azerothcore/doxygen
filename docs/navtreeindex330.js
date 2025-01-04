@@ -1,7 +1,15 @@
 var NAVTREEINDEX330 =
 {
-"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[5,0,3769,0],
-"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[5,0,3769,2],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#ad21127654d5511b6b1d9b22cdd77bd08":[5,0,2175,0,3],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aedb43124c923621aadecb77511204fc6":[5,0,2175,0,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[5,0,2175,0,1],
+"dd/dd1/classboss__professor__putricide.html":[5,0,647],
+"dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[5,0,647,2],
+"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[5,0,647,1],
+"dd/dd1/classspell__target__fissures.html":[5,0,3770],
+"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[5,0,3770,1],
+"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[5,0,3770,0],
+"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[5,0,3770,2],
 "dd/dd2/boss__anubarak_8cpp.html":[6,0,0,0,1,3,5,0,1,1],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[6,0,0,0,1,3,5,0,1,1,5],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a195f6417cd6d29f73dab0b90876d138d":[6,0,0,0,1,3,5,0,1,1,5,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae7473d5bc22b110e233fcd4f0f744b90":[6,0,0,0,1,3,5,1,1,2,32,45],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caea22bf0ab4ea520a289186a942c6c2d1":[6,0,0,0,1,3,5,1,1,2,32,6],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caed947e02a8704c936d8cfa3c6a5b59c7":[6,0,0,0,1,3,5,1,1,2,32,18],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caeed2ad5ddd42421a39d77dd7ca3c8be7":[6,0,0,0,1,3,5,1,1,2,32,29],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caef3a7ef6eb5ac336c0d19b74babf5a79":[6,0,0,0,1,3,5,1,1,2,32,28],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[6,0,0,0,1,3,5,1,1,2,33],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[6,0,0,0,1,3,5,1,1,2,33,5],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3b0243eca26899dc1cdc80355f84ba4c":[6,0,0,0,1,3,5,1,1,2,33,14],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[6,0,0,0,1,3,5,1,1,2,33,2],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4e38e0a47878670e0cd99c74852521fa":[6,0,0,0,1,3,5,1,1,2,33,10],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5c8dea166446ae7a3f0bcbd4b305ff35":[6,0,0,0,1,3,5,1,1,2,33,4],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[6,0,0,0,1,3,5,1,1,2,33,6]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caeed2ad5ddd42421a39d77dd7ca3c8be7":[6,0,0,0,1,3,5,1,1,2,32,29]
 };

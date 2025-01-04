@@ -1,5 +1,13 @@
 var NAVTREEINDEX283 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[6,0,0,0,1,3,10,14,66,3],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595":[6,0,0,0,1,3,10,14,63],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595a2ced7cd57bec439c9966fd4b41850718":[6,0,0,0,1,3,10,14,63,1],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595ade06fbaacc54b9a03a93e09f5c51db7e":[6,0,0,0,1,3,10,14,63,0],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038":[6,0,0,0,1,3,10,14,60],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a1d8a88e239cde106b375557fb799ef90":[6,0,0,0,1,3,10,14,60,6],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a2ae4e6a98f2ff50cacca426b400367dd":[6,0,0,0,1,3,10,14,60,12],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a421d6650ebd58f6ad30bc7c2c2a40eb8":[6,0,0,0,1,3,10,14,60,13],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a4427a4f52a4a68460728a828c83cf560":[6,0,0,0,1,3,10,14,60,2],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a48da002210c92ff0c5ee0c5671a457c7":[6,0,0,0,1,3,10,14,60,3],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a543f4a4539eb2a9bc69021b9bc580915":[6,0,0,0,1,3,10,14,60,14],
@@ -220,8 +228,8 @@ var NAVTREEINDEX283 =
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[5,0,3685,2],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[5,0,3685,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[5,0,3685,1],
-"db/db4/classSQLQueryHolder.html":[5,0,4021],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[5,0,4021,0],
+"db/db4/classSQLQueryHolder.html":[5,0,4022],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[5,0,4022,0],
 "db/db5/structboss__hydross__the__unstable.html":[5,0,525],
 "db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[5,0,525,3],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[5,0,525,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX283 =
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[5,0,3288,2],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[5,0,3288,4],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[5,0,3288,3],
-"db/db7/instance__hyjal_8cpp.html":[6,0,0,0,1,3,4,1,0,7],
-"db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[6,0,0,0,1,3,4,1,0,7,6],
-"db/db7/instance__hyjal_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[6,0,0,0,1,3,4,1,0,7,3],
-"db/db7/instance__hyjal_8cpp.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41":[6,0,0,0,1,3,4,1,0,7,2],
-"db/db7/instance__hyjal_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[6,0,0,0,1,3,4,1,0,7,4],
-"db/db7/instance__hyjal_8cpp.html#aaad50890c4534c5b5c848a9b85f3d8fe":[6,0,0,0,1,3,4,1,0,7,7],
-"db/db7/instance__hyjal_8cpp.html#ade7b4d2fdf8cd15fa4985554885eb881":[6,0,0,0,1,3,4,1,0,7,5],
-"db/db7/instance__trial__of__the__champion_8cpp.html":[6,0,0,0,1,3,5,2,0,3],
-"db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[6,0,0,0,1,3,5,2,0,3,3]
+"db/db7/instance__hyjal_8cpp.html":[6,0,0,0,1,3,4,1,0,7]
 };

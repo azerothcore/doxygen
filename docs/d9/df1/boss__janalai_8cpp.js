@@ -2,6 +2,7 @@ var boss__janalai_8cpp =
 [
     [ "boss_janalai", "dc/dda/structboss__janalai.html", "dc/dda/structboss__janalai" ],
     [ "npc_janalai_hatcher", "dc/d39/structnpc__janalai__hatcher.html", "dc/d39/structnpc__janalai__hatcher" ],
+    [ "spell_summon_all_players_dummy", "da/db8/classspell__summon__all__players__dummy.html", "da/db8/classspell__summon__all__players__dummy" ],
     [ "Creatures", "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_AMANI_HATCHER", "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abb1b0d048c012ee227241b4d7a567edb", null ],
       [ "NPC_EGG", "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4", null ],
@@ -21,6 +22,7 @@ var boss__janalai_8cpp =
       [ "SPELL_FLAME_BREATH", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

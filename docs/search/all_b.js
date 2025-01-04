@@ -68,7 +68,7 @@ var searchData=
   ['killcreditgo_65',['KillCreditGO',['../d2/d4b/classPlayer.html#ac1e9eaf17709fa3fec00fc2356ead46b',1,'Player']]],
   ['killed_5fby_5fcreature_66',['killed_by_creature',['../d4/dd9/structAchievementCriteriaEntry.html#a4f5abc471b17d3014450fef0c4318204',1,'AchievementCriteriaEntry']]],
   ['killedadds_67',['KilledAdds',['../d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a88f7040db2bf60fb165a406571471fbb',1,'boss_victor_nefarius::boss_victor_nefariusAI']]],
-  ['killedmonster_68',['killedmonster',['../d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5',1,'Player::KilledMonster()'],['../dd/d27/structSmartAction.html#a061fee019b88560c4dddb4133647ec8c',1,'SmartAction::killedMonster']]],
+  ['killedmonster_68',['killedmonster',['../dd/d27/structSmartAction.html#a061fee019b88560c4dddb4133647ec8c',1,'SmartAction::killedMonster'],['../d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5',1,'Player::KilledMonster(CreatureTemplate const *cInfo, ObjectGuid guid)']]],
   ['killedmonstercredit_69',['KilledMonsterCredit',['../d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a',1,'Player']]],
   ['killedplayercredit_70',['KilledPlayerCredit',['../d2/d4b/classPlayer.html#ad41ec715f6adfcb5cfc70e3d5925ae85',1,'Player']]],
   ['killedplayercreditforquest_71',['KilledPlayerCreditForQuest',['../d2/d4b/classPlayer.html#ad868b1cd905ba7dc0fc8969240cf8c58',1,'Player']]],

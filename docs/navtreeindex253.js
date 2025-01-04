@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"da/d76/structnpc__ulduar__snow__mound.html#a3f66ad92d616050bb67cb1a5e33ffa74":[5,0,2199,0],
+"da/d76/structnpc__ulduar__snow__mound.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687":[5,0,2199,2],
 "da/d76/structnpc__ulduar__snow__mound.html#aafe42af9ba1402cad91326eb1037e476":[5,0,2199,6],
 "da/d76/structnpc__ulduar__snow__mound.html#ac48f6985d857276e0e59c2a429f5b359":[5,0,2199,3],
 "da/d76/structnpc__ulduar__snow__mound.html#aca94a744c23b7f9771c728997ba4b8f3":[5,0,2199,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a690000692f6f0bcf8467ac5ae22e55a0":[6,0,0,0,1,3,5,6,10,78,69],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[6,0,0,0,1,3,5,6,10,78,15],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a737c33193f12241e682a2965cb34ecab":[6,0,0,0,1,3,5,6,10,78,41],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a07788329d8b23ec18c3f264400d538":[6,0,0,0,1,3,5,6,10,78,64],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7b26fb7df9cb5761e5eebc086d6157ae":[6,0,0,0,1,3,5,6,10,78,49],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d8b41671b52159f904161ba74639894":[6,0,0,0,1,3,5,6,10,78,1]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a07788329d8b23ec18c3f264400d538":[6,0,0,0,1,3,5,6,10,78,64]
 };

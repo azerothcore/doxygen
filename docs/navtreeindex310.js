@@ -1,5 +1,13 @@
 var NAVTREEINDEX310 =
 {
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af7ada19ef9f0a41cfbe3fa5f82d539b7":[6,0,0,0,1,3,3,1,34,1],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af919e7c5177f7362a608a27d96cefb5c":[6,0,0,0,1,3,3,1,34,14],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973afad8b82466cd7a695591579dbc20d0c7":[6,0,0,0,1,3,3,1,34,17],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973afc3e716c0747870baa0816576d4a16af":[6,0,0,0,1,3,3,1,34,22],
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88":[6,0,0,0,1,3,3,1,39],
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a010c34255c53692507f4cf089853cd05":[6,0,0,0,1,3,3,1,39,2],
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a4759cf00b99e3a6f4a2f65af817bd203":[6,0,0,0,1,3,3,1,39,1],
+"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a5a174c07b8602efe54b08ead7652a3fe":[6,0,0,0,1,3,3,1,39,0],
 "dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88ab240c367c5e45c91ba387ac010e238bf":[6,0,0,0,1,3,3,1,39,4],
 "dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88ad306b605b01d26aee45d81b8a241cb65":[6,0,0,0,1,3,3,1,39,3],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92":[6,0,0,0,1,3,3,1,36],
@@ -241,13 +249,5 @@ var NAVTREEINDEX310 =
 "dc/de8/structnpc__kalecgos__kj.html#ab5cc58e293e20172558e15fa28670633":[5,0,1872,5],
 "dc/de8/structnpc__kalecgos__kj.html#acf92559a2b06b8c9cce5c4887dd1316b":[5,0,1872,2],
 "dc/de9/Opcodes_8cpp.html":[6,0,0,0,1,2,39,1,0],
-"dc/de9/Opcodes_8cpp.html#a0adf4b5d8c638656581d9a62be18539e":[6,0,0,0,1,2,39,1,0,7],
-"dc/de9/Opcodes_8cpp.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e":[6,0,0,0,1,2,39,1,0,5],
-"dc/de9/Opcodes_8cpp.html#ab23af9582942bed23ea9ab4a8747c67c":[6,0,0,0,1,2,39,1,0,4],
-"dc/de9/classnpc__azure__raider.html":[5,0,1594],
-"dc/de9/classnpc__azure__raider.html#a249abee0df263e183341193b828a310c":[5,0,1594,1],
-"dc/de9/classnpc__azure__raider.html#a88a45e3b117c5105f7541d640dda8470":[5,0,1594,2],
-"dc/dea/namespaceEnumTraits.html":[4,0,14],
-"dc/dea/namespaceEnumTraits.html#a7294b75cb336d554d5ce2b75b05c37d6":[4,0,14,0],
-"dc/dec/chapter1_8cpp.html":[6,0,0,0,1,3,2,6,0]
+"dc/de9/Opcodes_8cpp.html#a0adf4b5d8c638656581d9a62be18539e":[6,0,0,0,1,2,39,1,0,7]
 };

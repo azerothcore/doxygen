@@ -1,5 +1,13 @@
 var NAVTREEINDEX363 =
 {
+"de/da5/vmapexport_8cpp.html#a995d89b97dfb31a6a8c1c4e1c96d47f4":[6,0,0,0,3,4,12,11],
+"de/da5/vmapexport_8cpp.html#aab524156a5705c5cd09f96106eaac92d":[6,0,0,0,3,4,12,4],
+"de/da5/vmapexport_8cpp.html#ac9e88429cc2168db83793cb7074bc69f":[6,0,0,0,3,4,12,12],
+"de/da5/vmapexport_8cpp.html#ae79cb6c3493a63f0e1058be3bd5ba328":[6,0,0,0,3,4,12,20],
+"de/da5/vmapexport_8cpp.html#aeb9ec80db9cddb3d9ab2303f2a825d0b":[6,0,0,0,3,4,12,18],
+"de/da5/vmapexport_8cpp.html#afc9839262206eb10094c1769141ae146":[6,0,0,0,3,4,12,3],
+"de/da6/boss__prince__malchezaar_8cpp.html":[6,0,0,0,1,3,2,4,7],
+"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4":[6,0,0,0,1,3,2,4,7,5],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ab9ec1415fb27c06f233c0de1a05d3ab1":[6,0,0,0,1,3,2,4,7,5,1],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d":[6,0,0,0,1,3,2,4,7,5,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4af80aaa14ff05f8c4fbfb1b502997d25b":[6,0,0,0,1,3,2,4,7,5,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX363 =
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809acb7d3e659383a8bc3f3d4f4d89031b51":[6,0,0,0,1,3,5,18,49,1],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809ad72c1b6082b386167aefbcd06b866da8":[6,0,0,0,1,3,5,18,49,8],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809adc7ad0f9c316fc5f84c74d792511f47b":[6,0,0,0,1,3,5,18,49,9],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[4,0,1,2,1,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[5,0,0,1,1,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,0,1,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[4,0,1,2,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[4,0,1,2,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,0,1,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,0,1,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[4,0,1,2,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[4,0,1,2,1,0,0]
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[4,0,1,2,1,0]
 };

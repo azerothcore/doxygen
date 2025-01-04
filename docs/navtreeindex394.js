@@ -1,5 +1,13 @@
 var NAVTREEINDEX394 =
 {
+"df/de1/classnpc__gunship__boarding__leader.html#ae422c8a1de8fb909a89d2ad2f516e3b4":[5,0,1792,2],
+"df/de1/classnpc__spark__of__ionar.html":[5,0,2086],
+"df/de1/classnpc__spark__of__ionar.html#a63578a0d77331849b7a48272870af04d":[5,0,2086,1],
+"df/de1/classnpc__spark__of__ionar.html#aa1e524327b76ddc11a32e7a094e39dd1":[5,0,2086,2],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html":[5,0,3391],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[5,0,3391,2],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[5,0,3391,0],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[5,0,3391,1],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[5,0,3391,3],
 "df/de2/classspell__brewfest__main__ram__buff.html":[5,0,2635],
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[5,0,2635,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX394 =
 "df/df1/structCell.html#a5eaaf569dcc6162e4cea9a0629eb88bc":[5,0,826,13],
 "df/df1/structCell.html#a5f0e313fdb5d44607d916257c27be810":[5,0,826,30],
 "df/df1/structCell.html#a6ba637c4f7e1e563197b8006c19f00e1":[5,0,826,7],
-"df/df1/structCell.html#a6ccf5bbce503433022fce680363b4e3a":[5,0,826,15],
-"df/df1/structCell.html#a7040fac6edc9c2b742ff1d91f786afa0":[5,0,826,24],
-"df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[5,0,826,12],
-"df/df1/structCell.html#a7c24016f35beee2eacff87249eda4033":[5,0,826,20],
-"df/df1/structCell.html#a820ea96eb11d365133bea0b793ee9171":[5,0,826,23],
-"df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[5,0,826,29],
-"df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[5,0,826,16],
-"df/df1/structCell.html#a952f2c6008bbbc3b9ee1652ea5f9188a":[5,0,826,26],
-"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[5,0,826,18]
+"df/df1/structCell.html#a6ccf5bbce503433022fce680363b4e3a":[5,0,826,15]
 };

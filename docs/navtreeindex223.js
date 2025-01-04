@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff":[6,0,0,0,1,2,31,2,1,5,0],
 "d8/dda/classnpc__wizzlecrank__shredder.html":[5,0,2246],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[5,0,2246,1],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[5,0,2246,2],
@@ -16,15 +17,15 @@ var NAVTREEINDEX223 =
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[5,0,3367,1],
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[5,0,3367,2],
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[5,0,3367,0],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html":[5,0,4000],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[5,0,4000,5],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[5,0,4000,0],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[5,0,4000,3],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[5,0,4000,6],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[5,0,4000,7],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[5,0,4000,4],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[5,0,4000,2],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#af69ed83578024b979dc9d65ff5ddc83b":[5,0,4000,1],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html":[5,0,4001],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[5,0,4001,5],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[5,0,4001,0],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[5,0,4001,3],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[5,0,4001,6],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[5,0,4001,7],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[5,0,4001,4],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[5,0,4001,2],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#af69ed83578024b979dc9d65ff5ddc83b":[5,0,4001,1],
 "d8/dde/classat__hor__shadow__throne.html":[5,0,205],
 "d8/dde/classat__hor__shadow__throne.html#a0166b1a58f4171c4d9893010df5831c4":[5,0,205,1],
 "d8/dde/classat__hor__shadow__throne.html#a342808808be75079acf6a2f930afe930":[5,0,205,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259":[6,0,0,0,1,2,8,0,19,10,21],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea50dd1c58107cfd9c7e0728536abd952e":[6,0,0,0,1,2,8,0,19,10,13],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea839059eca54ba38023aa55cf145a7b8b":[6,0,0,0,1,2,8,0,19,10,19],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5":[6,0,0,0,1,2,8,0,19,10,25],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18":[6,0,0,0,1,2,8,0,19,10,24]
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5":[6,0,0,0,1,2,8,0,19,10,25]
 };

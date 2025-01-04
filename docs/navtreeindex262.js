@@ -1,5 +1,13 @@
 var NAVTREEINDEX262 =
 {
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a43e609d4309527a1344f62f72ac6a861":[6,0,0,0,1,2,16,7,5,122,0],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a756758e20568fa43014daae863cf07d1":[6,0,0,0,1,2,16,7,5,122,2],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8ac2c1ad4aa095c43d0bd16933f220dae7":[6,0,0,0,1,2,16,7,5,122,1],
+"da/dbf/Player_8h.html#ab6a9fef336444d917d4caa5a59acf600":[6,0,0,0,1,2,16,7,5,30],
+"da/dbf/Player_8h.html#ab7da463fdcf48285d8c4a18db9fceb3d":[6,0,0,0,1,2,16,7,5,64],
+"da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755":[6,0,0,0,1,2,16,7,5,85],
+"da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755a0e79848772fb35db024b1d9cfd8a55b2":[6,0,0,0,1,2,16,7,5,85,1],
+"da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755a32e552f3a0c23a33401b6bb2e90b8753":[6,0,0,0,1,2,16,7,5,85,0],
 "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755ae07ddeb5ee480f16943f43b31e53ebba":[6,0,0,0,1,2,16,7,5,85,2],
 "da/dbf/Player_8h.html#abcb5e93310258612a5598eecf2801dce":[6,0,0,0,1,2,16,7,5,53],
 "da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9":[6,0,0,0,1,2,16,7,5,109],
@@ -141,9 +149,9 @@ var NAVTREEINDEX262 =
 "da/dc3/classADT__file.html#aad5263c4df4ab9d072f217ec8c19441c":[5,0,129,4],
 "da/dc3/classADT__file.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e":[5,0,129,0],
 "da/dc3/classADT__file.html#ac9f498cb9c8e21a1947be87904e3760b":[5,0,129,3],
-"da/dc3/classSpellModPred.html":[5,0,3997],
-"da/dc3/classSpellModPred.html#a0cb5fc09a4171b42fdd59c065720bcae":[5,0,3997,1],
-"da/dc3/classSpellModPred.html#ad27be78223b010f22730363dd56032ba":[5,0,3997,0],
+"da/dc3/classSpellModPred.html":[5,0,3998],
+"da/dc3/classSpellModPred.html#a0cb5fc09a4171b42fdd59c065720bcae":[5,0,3998,1],
+"da/dc3/classSpellModPred.html#ad27be78223b010f22730363dd56032ba":[5,0,3998,0],
 "da/dc4/classspell__koralon__meteor__fists__aura.html":[5,0,3291],
 "da/dc4/classspell__koralon__meteor__fists__aura.html#a2b5894cd889205f19ac2c6ea5a535a82":[5,0,3291,0],
 "da/dc4/classspell__koralon__meteor__fists__aura.html#a2b7c45343d17839d85bf64ed36afd45c":[5,0,3291,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX262 =
 "da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[5,0,3745,1],
 "da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[5,0,3745,2],
 "da/dcc/boss__isalien_8cpp.html":[6,0,0,0,1,3,4,2,0],
-"da/dcc/boss__isalien_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[6,0,0,0,1,3,4,2,0,2],
-"da/dcc/boss__isalien_8cpp.html#a50ba2acfd483f395e71abb80f687463ead3736a25f6ba0a1f7fd078a34d9f3bf4":[6,0,0,0,1,3,4,2,0,2,0],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298c":[6,0,0,0,1,3,4,2,0,3],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298ca5fc73e71edff866ad53ac9432ac74109":[6,0,0,0,1,3,4,2,0,3,3],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987":[6,0,0,0,1,3,4,2,0,3,1],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298cad629b7c9e5a74890e7d6a77a13a38bcf":[6,0,0,0,1,3,4,2,0,3,2],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298cae9dd990a9bb360b30e55604ce4f6664c":[6,0,0,0,1,3,4,2,0,3,4],
-"da/dcc/boss__isalien_8cpp.html#a5bd342133be8c2137b831460acc9298caf898991201b1c1cdce65911c5666fa11":[6,0,0,0,1,3,4,2,0,3,0],
-"da/dcc/boss__isalien_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[6,0,0,0,1,3,4,2,0,1]
+"da/dcc/boss__isalien_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[6,0,0,0,1,3,4,2,0,2]
 };

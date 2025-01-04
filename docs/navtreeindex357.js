@@ -1,5 +1,13 @@
 var NAVTREEINDEX357 =
 {
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[4,0,19,48,14],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[4,0,19,48,0],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[4,0,19,48,12],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9":[4,0,19,48,1],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[4,0,19,48,4],
+"de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[4,0,19,36],
+"de/d74/Group_8cpp.html":[6,0,0,0,1,2,20,0],
+"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[6,0,0,0,1,2,20,0,0],
 "de/d74/classnpc__ulduar__toasty__fire.html":[5,0,2201],
 "de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[5,0,2201,2],
 "de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[5,0,2201,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX357 =
 "de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[5,0,714,4],
 "de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[5,0,714,2],
 "de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[5,0,714,0],
-"de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[5,0,714,1],
-"de/d7c/structboss__the__black__stalker.html#aede25dbe426ec26ccb0509eca0c9c6af":[5,0,714,3],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[5,0,2022,0],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a1de76ab7f3304f8373c633fa7d0aa533":[5,0,2022,0,11],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a24f17e0954e498e4a4b73b4cdffea6a3":[5,0,2022,0,8],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a2720994f88a2706a2f0b4fb361f81f2c":[5,0,2022,0,1],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a3e89e187c08f45a51fb69b647dcc766d":[5,0,2022,0,9],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a6049433795be30eb31e240a4939ad42f":[5,0,2022,0,2],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[5,0,2022,0,4]
+"de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[5,0,714,1]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX351 =
 {
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaa1865762e5eea260fb0e1ab62aa9f903":[6,0,0,0,1,2,41,9,67,12],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaa3b11615942df9ce24227d1abeba45ec":[6,0,0,0,1,2,41,9,67,1],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebab0a69bcf9c5d7234a4eb3fb6cf15eb09":[6,0,0,0,1,2,41,9,67,2],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebae4e89d876ebb538ee36e3dfcf5a080d4":[6,0,0,0,1,2,41,9,67,16],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaeddddf521bc306ef9b98bf6562778b57":[6,0,0,0,1,2,41,9,67,3],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebafcdcc89a75089da2c021819a91f01c2e":[6,0,0,0,1,2,41,9,67,0],
+"de/d30/SpellMgr_8h.html#abc58ec73bf74a9332a2d7a61af6d6f2e":[6,0,0,0,1,2,41,9,36],
+"de/d30/SpellMgr_8h.html#ac02351fce8a30ebfe6d2ced766e2e4df":[6,0,0,0,1,2,41,9,42],
 "de/d30/SpellMgr_8h.html#ac0bf7c1f4212d9675abaaa9b3ca6f33d":[6,0,0,0,1,2,41,9,28],
 "de/d30/SpellMgr_8h.html#ac7df41f0a89d4e98f71779b2460269b6":[6,0,0,0,1,2,41,9,39],
 "de/d30/SpellMgr_8h.html#ac821b7d2d8a9effd8fafef038528e877":[6,0,0,0,1,2,41,9,24],
@@ -221,9 +229,9 @@ var NAVTREEINDEX351 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[5,0,806,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[5,0,806,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[5,0,806,10],
-"de/d34/structSpellDurationEntry.html":[5,0,3981],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[5,0,3981,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[5,0,3981,0],
+"de/d34/structSpellDurationEntry.html":[5,0,3982],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[5,0,3982,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[5,0,3982,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[5,0,699,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[5,0,699,0,2],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[5,0,699,0,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX351 =
 "de/d37/classboss__freya__nature__bomb.html":[5,0,466],
 "de/d37/classboss__freya__nature__bomb.html#a18fa6ff862a1b367ac23eb1b7bda0ed4":[5,0,466,1],
 "de/d37/classboss__freya__nature__bomb.html#a73e24282c6bb29cf3f6a7da14a4de582":[5,0,466,2],
-"de/d38/OutdoorPvPHP_8cpp.html":[6,0,0,0,1,3,6,5],
-"de/d38/OutdoorPvPHP_8cpp.html#a1b9adf9c71e549e4545c2e4eabe58dd5":[6,0,0,0,1,3,6,5,4],
-"de/d38/OutdoorPvPHP_8cpp.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd":[6,0,0,0,1,3,6,5,3],
-"de/d38/OutdoorPvPHP_8cpp.html#a642fe1233b764402bae812604b684442":[6,0,0,0,1,3,6,5,2],
-"de/d38/OutdoorPvPHP_8cpp.html#a69303ad6f661d8c009ee493dc4fd486c":[6,0,0,0,1,3,6,5,1],
-"de/d38/OutdoorPvPHP_8cpp.html#ad62cd8f07ac98311202494985c6ae9c8":[6,0,0,0,1,3,6,5,5],
-"de/d38/classspell__gen__select__target__count.html":[5,0,2949],
-"de/d38/classspell__gen__select__target__count.html#a42ddce15414dcdf495b572e0f75e9486":[5,0,2949,2],
-"de/d38/classspell__gen__select__target__count.html#a5de89be9ce321a0f4ac49853a700b502":[5,0,2949,1]
+"de/d38/OutdoorPvPHP_8cpp.html":[6,0,0,0,1,3,6,5]
 };

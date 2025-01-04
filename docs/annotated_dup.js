@@ -4216,6 +4216,7 @@ var annotated_dup =
     [ "spell_spawn_drakonid", "db/d6a/classspell__spawn__drakonid.html", "db/d6a/classspell__spawn__drakonid" ],
     [ "spell_spore_cloud", "dc/d5f/classspell__spore__cloud.html", "dc/d5f/classspell__spore__cloud" ],
     [ "spell_stinky_precious_decimate", "df/dee/classspell__stinky__precious__decimate.html", "df/dee/classspell__stinky__precious__decimate" ],
+    [ "spell_summon_all_players_dummy", "da/db8/classspell__summon__all__players__dummy.html", "da/db8/classspell__summon__all__players__dummy" ],
     [ "spell_summon_ice_spear_delayer", "d9/d5b/classspell__summon__ice__spear__delayer.html", "d9/d5b/classspell__summon__ice__spear__delayer" ],
     [ "spell_summon_ragnaros", "d7/d73/classspell__summon__ragnaros.html", "d7/d73/classspell__summon__ragnaros" ],
     [ "spell_summon_toxin_slime", "dd/de2/classspell__summon__toxin__slime.html", "dd/de2/classspell__summon__toxin__slime" ],

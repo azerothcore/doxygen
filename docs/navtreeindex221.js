@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccf":[6,0,0,0,1,3,2,15,1,1],
 "d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccfa63fd17f849c7bec9e7834eb6c7ba1ffd":[6,0,0,0,1,3,2,15,1,1,0],
 "d8/dc2/boss__halazzi_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[6,0,0,0,1,3,2,15,1,7],
 "d8/dc2/boss__halazzi_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[6,0,0,0,1,3,2,15,1,7,5],
@@ -41,22 +42,22 @@ var NAVTREEINDEX221 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb":[6,0,0,0,1,3,2,15,1,4,4],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6":[6,0,0,0,1,3,2,15,1,4,3],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[6,0,0,0,1,3,2,15,1,4,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[4,0,1,88],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,76],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[4,0,1,88,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[4,0,1,88],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,76,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[4,0,1,88,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,0,76,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[4,0,1,88,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[4,0,1,88,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,76,3],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[4,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,76,5],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[4,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[4,0,1,88,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,76,0],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,76,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[4,0,1,88,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[4,0,1,88,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,76,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,0,76,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[4,0,1,88,4],
 "d8/dc2/classinstance__ulduar.html":[5,0,1325],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[5,0,1325,1],
 "d8/dc2/classinstance__ulduar.html#ad15f003a90e656910fc32d661ca9baba":[5,0,1325,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/dd6/DBCfmt_8h.html#a0075040f7af393b0e85ca47430c7f37c":[6,0,0,0,1,4,0,3,49],
 "d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[6,0,0,0,1,4,0,3,35],
 "d8/dd6/DBCfmt_8h.html#a0a9211dfe8a10e9d63a78306415ea057":[6,0,0,0,1,4,0,3,2],
-"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[6,0,0,0,1,4,0,3,6],
-"d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[6,0,0,0,1,4,0,3,69]
+"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[6,0,0,0,1,4,0,3,6]
 };

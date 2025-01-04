@@ -1,5 +1,13 @@
 var NAVTREEINDEX294 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f3862c0f3bd64b8ac636659f1dc59af":[6,0,0,0,1,3,7,4,2,0,11,11],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c4255505875cf389a3c5d2d352a40a1":[6,0,0,0,1,3,7,4,2,0,11,14],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[6,0,0,0,1,3,7,4,2,0,11,10],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd":[6,0,0,0,1,3,7,4,2,0,11,6],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b2e0054b2bac6795ae520c16a9ffde0":[6,0,0,0,1,3,7,4,2,0,11,16],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8343d12d67c98d10cfb35faefefebdb8":[6,0,0,0,1,3,7,4,2,0,11,15],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca83be3e6f56ef7747fd0271ef7c6a5089":[6,0,0,0,1,3,7,4,2,0,11,12],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[6,0,0,0,1,3,7,4,2,0,11,4],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4":[6,0,0,0,1,3,7,4,2,0,11,7],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca99dfcda224e38c33771d6bf70abb5b66":[6,0,0,0,1,3,7,4,2,0,11,13],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8":[6,0,0,0,1,3,7,4,2,0,11,9],
@@ -203,10 +211,10 @@ var NAVTREEINDEX294 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a35ea1362df09fccf0c4cee2e9ef6deb9":[5,0,841,2],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[5,0,841,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[5,0,841,1],
-"dc/d08/classspell__trollgore__invader__taunt.html":[5,0,3831],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[5,0,3831,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[5,0,3831,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[5,0,3831,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[5,0,3832],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[5,0,3832,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[5,0,3832,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[5,0,3832,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[5,0,1620,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[5,0,1620,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[5,0,1620,0,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[5,0,656,0,3],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[5,0,656,0,5],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#addd5c34675473b78e1785a8122a6ccd2":[5,0,656,0,2],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[5,0,656,0,7],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3":[5,0,656,0,10],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html":[5,0,1769,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[5,0,1769,0,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a93c41781e4cb037b56773bbbf36181b7":[5,0,1769,0,6],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[5,0,1769,0,8],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[5,0,1769,0,5],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[5,0,1769,0,1],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[5,0,1769,0,2]
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[5,0,656,0,7]
 };

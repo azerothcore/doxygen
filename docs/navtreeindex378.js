@@ -1,5 +1,13 @@
 var NAVTREEINDEX378 =
 {
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803":[6,0,0,0,1,3,2,1,0,0,12,5],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134":[6,0,0,0,1,3,2,1,0,0,12,1],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d":[6,0,0,0,1,3,2,1,0,0,12,4],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f":[6,0,0,0,1,3,2,1,0,0,12,0],
+"df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0":[6,0,0,0,1,3,2,1,0,0,19],
+"df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22":[6,0,0,0,1,3,2,1,0,0,19,0],
+"df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22":[6,0,0,0,1,3,2,1,0,0,21],
+"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779":[6,0,0,0,1,3,2,1,0,0,13],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451":[6,0,0,0,1,3,2,1,0,0,13,2],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a":[6,0,0,0,1,3,2,1,0,0,13,3],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97":[6,0,0,0,1,3,2,1,0,0,13,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX378 =
 "df/d6c/classspell__sartharion__lava__strike.html#aa657a9869f04a1d1d2ce71f6d8464b17":[5,0,3675,6],
 "df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[5,0,3675,2],
 "df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[5,0,3675,0],
-"df/d6c/structB64Impl.html":[5,0,282],
-"df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[5,0,282,4],
-"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[5,0,282,2],
-"df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[5,0,282,3],
-"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[5,0,282,0],
-"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[5,0,282,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html":[5,0,306],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[5,0,306,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[5,0,306,2]
+"df/d6c/structB64Impl.html":[5,0,282]
 };

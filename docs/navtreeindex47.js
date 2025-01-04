@@ -247,7 +247,7 @@ var NAVTREEINDEX47 =
 "d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[5,0,2836,2],
 "d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[5,0,2836,3],
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[5,0,2836,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html":[5,0,3893],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[5,0,3893,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[5,0,3893,0]
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[5,0,3894],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[5,0,3894,1],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[5,0,3894,0]
 };

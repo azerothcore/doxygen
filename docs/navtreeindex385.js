@@ -1,5 +1,13 @@
 var NAVTREEINDEX385 =
 {
+"df/da7/classBattleground.html#a42e45f62e648d1eb34736bda3ffe7b35":[5,0,296,73],
+"df/da7/classBattleground.html#a433454b346105d74c55e2be3804ec09a":[5,0,296,186],
+"df/da7/classBattleground.html#a43fdcee5d3e10760490e433f05c374d4":[5,0,296,210],
+"df/da7/classBattleground.html#a4427dab664622266761c922569963904":[5,0,296,154],
+"df/da7/classBattleground.html#a443984ae7462dfbde7b32e9b41ff22a9":[5,0,296,220],
+"df/da7/classBattleground.html#a4477b9b46a8133a2bb3f992cf8be6124":[5,0,296,247],
+"df/da7/classBattleground.html#a447ecd1d9bc9efd8efac2bf4900dc665":[5,0,296,72],
+"df/da7/classBattleground.html#a44bf60cb7a2d83f6b83dcc5fececb528":[5,0,296,22],
 "df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[5,0,296,88],
 "df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[5,0,296,59],
 "df/da7/classBattleground.html#a476285ec168eec279bf3d1a4bb99603d":[5,0,296,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX385 =
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a981ded08b76f414fbc3de557aef11006":[6,0,0,0,1,3,5,9,1,0,5,5],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa2ba587ec6abb998f5549b113fcb3f90":[6,0,0,0,1,3,5,9,1,0,5,1],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acfaf0511808dcbe60c9c22bce5cd8501":[6,0,0,0,1,3,5,9,1,0,5,8],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ae71900060dd77ccbaf5957c5e8530b27":[6,0,0,0,1,3,5,9,1,0,5,7],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aff8517cd7a971453de2f28af60e64f0c":[6,0,0,0,1,3,5,9,1,0,5,2],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[6,0,0,0,1,3,5,9,1,0,4],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e":[6,0,0,0,1,3,5,9,1,0,4,6],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a295161f0049efe83985b3c22ac4af27b":[6,0,0,0,1,3,5,9,1,0,4,1],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a67fb1e75418e5f4394f0dea3f005a0bf":[6,0,0,0,1,3,5,9,1,0,4,5],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a715b039dea752d6c6c517cb12c503e5e":[6,0,0,0,1,3,5,9,1,0,4,3],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a939a6cc6d749a232a23ff324dca6d48c":[6,0,0,0,1,3,5,9,1,0,4,0],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a990d801452a3350349a1834c5905a761":[6,0,0,0,1,3,5,9,1,0,4,4]
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ae71900060dd77ccbaf5957c5e8530b27":[6,0,0,0,1,3,5,9,1,0,5,7]
 };

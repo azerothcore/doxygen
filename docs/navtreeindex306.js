@@ -1,5 +1,13 @@
 var NAVTREEINDEX306 =
 {
+"dc/dae/gruuls__lair_8h.html":[6,0,0,0,1,3,7,3,2],
+"dc/dae/gruuls__lair_8h.html#a02f4ee42fa7e8b8780181f1d48cecd84":[6,0,0,0,1,3,7,3,2,2],
+"dc/dae/gruuls__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[6,0,0,0,1,3,7,3,2,0],
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999f":[6,0,0,0,1,3,7,3,2,5],
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fac19511a30a99f3d0cb9eafbce3745768":[6,0,0,0,1,3,7,3,2,5,1],
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fadfeb06c530d78f6c5bfdc414ae505622":[6,0,0,0,1,3,7,3,2,5,0],
+"dc/dae/gruuls__lair_8h.html#a6cc1f699014ee48a56647e53e9d1440a":[6,0,0,0,1,3,7,3,2,1],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e":[6,0,0,0,1,3,7,3,2,3],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea61f2ef319d5203666bd8a86b5b9a2603":[6,0,0,0,1,3,7,3,2,3,0],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea7e440984b10a7a2300c1caab77949a74":[6,0,0,0,1,3,7,3,2,3,1],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea8bd4e976e7d8d6748ac16eeea3862a2b":[6,0,0,0,1,3,7,3,2,3,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX306 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[5,0,2175],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[5,0,2175,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[5,0,2175,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[5,0,3515],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[5,0,3515,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[5,0,3515,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[5,0,3515,0],
-"dc/db5/structCreatureTextLocale.html":[5,0,918],
-"dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[5,0,918,0],
-"dc/db6/PointMovementGenerator_8cpp.html":[6,0,0,0,1,2,31,0,12],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html":[6,0,0,0,1,3,7,5,3,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[6,0,0,0,1,3,7,5,3,1,1]
+"dc/db5/classspell__putricide__tear__gas__effect.html":[5,0,3515]
 };

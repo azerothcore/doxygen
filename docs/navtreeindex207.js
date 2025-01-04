@@ -1,5 +1,6 @@
 var NAVTREEINDEX207 =
 {
+"d8/d0f/classspell__nightbane__fireball__barrage.html#adae7a812a222a60f9c89cac4ea327011":[5,0,3403,0],
 "d8/d11/boss__brutallus_8cpp.html":[6,0,0,0,1,3,2,12,0],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[6,0,0,0,1,3,2,12,0,7],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0bce26e34871a7286a8ae98612e30af1":[6,0,0,0,1,3,2,12,0,7,1],
@@ -87,10 +88,10 @@ var NAVTREEINDEX207 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[4,0,31,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[4,0,31,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,11,17,0],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[4,0,31,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,11,17,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[4,0,31,17,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[4,0,31,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,11,17,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[4,0,31,17,2],
 "d8/d12/structboss__ayamiss.html":[5,0,372],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[5,0,372,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[5,0,372,0],
@@ -210,11 +211,11 @@ var NAVTREEINDEX207 =
 "d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a5b9f23b815b1c85ecf2e56c626ce5077":[5,0,3506,0],
 "d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a9207d9f59026e1beb7c266ee3a1ef884":[5,0,3506,1],
 "d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc":[5,0,3506,2],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html":[5,0,3886],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html#a1da44046f2cb9fb68b18f712111c38ea":[5,0,3886,2],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40":[5,0,3886,1],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72":[5,0,3886,0],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html#ac7c9e15a796e91e0ac68791d24e3d4bf":[5,0,3886,3],
+"d8/d18/classspell__warl__glyph__of__voidwalker.html":[5,0,3887],
+"d8/d18/classspell__warl__glyph__of__voidwalker.html#a1da44046f2cb9fb68b18f712111c38ea":[5,0,3887,2],
+"d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40":[5,0,3887,1],
+"d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72":[5,0,3887,0],
+"d8/d18/classspell__warl__glyph__of__voidwalker.html#ac7c9e15a796e91e0ac68791d24e3d4bf":[5,0,3887,3],
 "d8/d18/structnpc__obsidian__nullifier.html":[5,0,1953],
 "d8/d18/structnpc__obsidian__nullifier.html#a37cf1d335dd3735b262e82828c4f904a":[5,0,1953,3],
 "d8/d18/structnpc__obsidian__nullifier.html#a9897eab3b71dd0a6a2ea598951b095cd":[5,0,1953,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX207 =
 "d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5aa01a00ad67f65745c45300c65fb85a329":[6,0,0,0,1,3,10,12,5,0],
 "d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5aa537440d3949e818014bd5962f1faab81":[6,0,0,0,1,3,10,12,5,1],
 "d8/d19/npc__stave__of__ancients_8h.html#abe201f9ef5f58feb36b74aed845c1ede":[6,0,0,0,1,3,10,12,2],
-"d8/d19/npc__stave__of__ancients_8h.html#abe201f9ef5f58feb36b74aed845c1edea07c2a58a57c5aaac815f93d435707ba8":[6,0,0,0,1,3,10,12,2,2],
-"d8/d19/npc__stave__of__ancients_8h.html#abe201f9ef5f58feb36b74aed845c1edea45adb6c2214dbf19fde4a3273ca3ad24":[6,0,0,0,1,3,10,12,2,1]
+"d8/d19/npc__stave__of__ancients_8h.html#abe201f9ef5f58feb36b74aed845c1edea07c2a58a57c5aaac815f93d435707ba8":[6,0,0,0,1,3,10,12,2,2]
 };

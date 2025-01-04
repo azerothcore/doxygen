@@ -1,5 +1,13 @@
 var NAVTREEINDEX349 =
 {
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366":[6,0,0,0,1,3,9,7,25,8],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690":[6,0,0,0,1,3,9,7,25,20],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0":[6,0,0,0,1,3,9,7,25,18],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d":[6,0,0,0,1,3,9,7,25,10],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099":[6,0,0,0,1,3,9,7,25,9],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2":[6,0,0,0,1,3,9,7,25,7],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5":[6,0,0,0,1,3,9,7,25,2],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fad0b9beecf2b1e0f1fadc6cf162bbd07d":[6,0,0,0,1,3,9,7,25,6],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fad1d6a6bd6506f7e5a302ca1ad7256c4f":[6,0,0,0,1,3,9,7,25,14],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014":[6,0,0,0,1,3,9,7,25,1],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fadbaba8ea6d37743ef668662c895fcb4e":[6,0,0,0,1,3,9,7,25,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX349 =
 "de/d2d/classboss__hodir.html#a5740f489f57380d2633a8ee5a18de339":[5,0,521,1],
 "de/d2d/classboss__hodir.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c":[5,0,521,2],
 "de/d2d/classboss__yoggsaron__constrictor__tentacle.html":[5,0,776],
-"de/d2d/classboss__yoggsaron__constrictor__tentacle.html#a131809f1c691e55a33863caf6fe0c5dc":[5,0,776,1],
-"de/d2d/classboss__yoggsaron__constrictor__tentacle.html#ac469d5661eb664c73bf5ab38084cb03e":[5,0,776,2],
-"de/d2d/enuminfo__ArenaTeam_8cpp.html":[6,0,0,0,1,2,8,19],
-"de/d2d/namespaceObjectAccessor.html":[4,0,24],
-"de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07":[4,0,24,19],
-"de/d2d/namespaceObjectAccessor.html#a0726eba7e71a7c6d4f6f90b4dfb410f8":[4,0,24,0],
-"de/d2d/namespaceObjectAccessor.html#a0bfd3fb4a5f43a4159bbd0b176186e19":[4,0,24,11],
-"de/d2d/namespaceObjectAccessor.html#a0fba0222d2e46026727c6e898a7f35bc":[4,0,24,23],
-"de/d2d/namespaceObjectAccessor.html#a106c85352229fc2c097d9e021b4ce297":[4,0,24,4]
+"de/d2d/classboss__yoggsaron__constrictor__tentacle.html#a131809f1c691e55a33863caf6fe0c5dc":[5,0,776,1]
 };

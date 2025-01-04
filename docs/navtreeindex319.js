@@ -1,6 +1,14 @@
 var NAVTREEINDEX319 =
 {
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#ab37c5c22456c06f78b53505ae7973658":[5,0,1814,0,3],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#aeff0f7526f12f0e09e53c0e43a423799":[5,0,1814,0,8],
+"dd/d46/PetPackets_8h.html":[6,0,0,0,1,2,39,0,20],
+"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[5,0,90],
+"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[5,0,90,1],
+"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[5,0,90,0],
+"dd/d48/UpdateMask_8h.html":[6,0,0,0,1,2,16,5,0,5],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[4,0,8,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[5,0,414,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[5,0,414,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[5,0,414,0,5],
@@ -187,9 +195,9 @@ var NAVTREEINDEX319 =
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4":[6,0,0,0,1,0,0,2,1,3,0],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[6,0,0,0,1,0,0,2,1,3,1],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[6,0,0,0,1,0,0,2,1,3,3],
-"dd/d57/structSQLElementData.html":[5,0,4019],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[5,0,4019,0],
-"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[5,0,4019,1],
+"dd/d57/structSQLElementData.html":[5,0,4020],
+"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[5,0,4020,0],
+"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[5,0,4020,1],
 "dd/d58/boss__twinemperors_8cpp.html":[6,0,0,0,1,3,4,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[6,0,0,0,1,3,4,9,7,5],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[6,0,0,0,1,3,4,9,7,5,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[5,0,1865,0,4],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[5,0,1865,0,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[5,0,1865,0,2],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[5,0,1865,0,7],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#aaf329f0160efa778abdebf86b1cf230b":[5,0,1865,0,1],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#af5be6fc6d7d234cfd2ac78f636b0ad7c":[5,0,1865,0,5],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afcbb113387345361baf0351a19e6eb1d":[5,0,1865,0,6],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afce7cebdb4a49d9e5618ac211b235c6b":[5,0,1865,0,3],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[5,0,2100,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[5,0,2100,0,5],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[5,0,2100,0,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[5,0,2100,0,1]
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[5,0,1865,0,7]
 };

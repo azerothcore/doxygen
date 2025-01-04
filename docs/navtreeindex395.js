@@ -1,5 +1,13 @@
 var NAVTREEINDEX395 =
 {
+"df/df1/structCell.html#a7040fac6edc9c2b742ff1d91f786afa0":[5,0,826,24],
+"df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[5,0,826,12],
+"df/df1/structCell.html#a7c24016f35beee2eacff87249eda4033":[5,0,826,20],
+"df/df1/structCell.html#a820ea96eb11d365133bea0b793ee9171":[5,0,826,23],
+"df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[5,0,826,29],
+"df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[5,0,826,16],
+"df/df1/structCell.html#a952f2c6008bbbc3b9ee1652ea5f9188a":[5,0,826,26],
+"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[5,0,826,18],
 "df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[5,0,826,2],
 "df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[5,0,826,28],
 "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[5,0,826,22],
@@ -201,10 +209,10 @@ var NAVTREEINDEX395 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[5,0,676,0,4],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[5,0,676,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[5,0,676,0,7],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[5,0,3795],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[5,0,3795,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[5,0,3795,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[5,0,3795,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[5,0,3796],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[5,0,3796,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[5,0,3796,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[5,0,3796,0],
 "df/dfe/classnpc__high__inquisitor__valroth.html":[5,0,1803],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[5,0,1803,2],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[5,0,1803,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX395 =
 "dir_1f3214457037742cde290c7511bc5bd6.html":[6,0,0,0,1,2,3,1],
 "dir_1fd92d9a30d0fdf42a981ea00259f736.html":[6,0,0,0,1,2,39,1],
 "dir_212cab7aa189befb69033d54678b54b0.html":[6,0,0,0,1,3,2,14],
-"dir_21848b791f33e40a23e6d092548069d2.html":[6,0,0,0,1,3,4,5],
-"dir_22de0d38c781b430619603c756a2179f.html":[6,0,0,0,1,3,7,2],
-"dir_23d74cf01fe3f1f57e5987f77f0efe4c.html":[6,0,0,0,1,3,5,1,1],
-"dir_2519615cc1c93425dacf3aa6e071da7e.html":[6,0,0,0,1,3,0],
-"dir_2520e02461832f009bb34cab9ff8023f.html":[6,0,0,0,1,1,2],
-"dir_25d8f4185a27c7d78867bf9666699c3c.html":[6,0,0,0,1,2,32],
-"dir_26a560dca6d22ebb61b5c78a9f0b7562.html":[6,0,0,0,0,4],
-"dir_27480f4b138219461115b0c89185026b.html":[6,0,0,0,1,3,2,1,0],
-"dir_27c47d768f113c084c0b575dcbf4137a.html":[6,0,0,0,1,2,16,1]
+"dir_21848b791f33e40a23e6d092548069d2.html":[6,0,0,0,1,3,4,5]
 };

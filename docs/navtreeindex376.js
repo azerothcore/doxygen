@@ -1,5 +1,13 @@
 var NAVTREEINDEX376 =
 {
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[6,0,0,0,1,3,7,4,1,3,4,3],
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22ab4fb50b126f3e0d71927aeebafe66b5d":[6,0,0,0,1,3,7,4,1,3,4,2],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html":[5,0,1880,0],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a03dc3870b23105bb1d0d207adefe2541":[5,0,1880,0,2],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[5,0,1880,0,0],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[5,0,1880,0,9],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[5,0,1880,0,4],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[5,0,1880,0,1],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[5,0,1880,0,7],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[5,0,1880,0,8],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[5,0,1880,0,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX376 =
 "df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[5,0,3726,4],
 "df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[5,0,3726,1],
 "df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[5,0,3726,3],
-"df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[5,0,3726,2],
-"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[5,0,3726,5],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html":[5,0,1602,0],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[5,0,1602,0,6],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a1f24ea5604563c9a16c5a2a91ae078f1":[5,0,1602,0,1],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a27a8ceb27724f074de840d24dcf0e284":[5,0,1602,0,11],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a47ac00c081635aeba9ef02a7f1bbd645":[5,0,1602,0,9],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a555a152b2f4981dc824a6fb0f66b5702":[5,0,1602,0,12],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a67ee1ef5c6012e499a9d9d7b77938fbe":[5,0,1602,0,3]
+"df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[5,0,3726,2]
 };

@@ -1314,6 +1314,7 @@ var hierarchy =
         [ "spell_spawn_blood_pool", "d7/d0e/classspell__spawn__blood__pool.html", null ],
         [ "spell_spawn_drakonid", "db/d6a/classspell__spawn__drakonid.html", null ],
         [ "spell_stinky_precious_decimate", "df/dee/classspell__stinky__precious__decimate.html", null ],
+        [ "spell_summon_all_players_dummy", "da/db8/classspell__summon__all__players__dummy.html", null ],
         [ "spell_summon_ragnaros", "d7/d73/classspell__summon__ragnaros.html", null ],
         [ "spell_summon_toxin_slime", "dd/de2/classspell__summon__toxin__slime.html", null ],
         [ "spell_suppression_aura", "d9/d3c/classspell__suppression__aura.html", null ],

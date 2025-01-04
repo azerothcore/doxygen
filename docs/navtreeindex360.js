@@ -1,5 +1,13 @@
 var NAVTREEINDEX360 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[6,0,0,0,1,3,7,1,4,8,17],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a86638a5209e6bbe3fb8f1114ad5ae1":[6,0,0,0,1,3,7,1,4,8,9],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca39830a88116af885ed6d769960af61ca":[6,0,0,0,1,3,7,1,4,8,8],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca5fcda4485906d968fda02a961319085d":[6,0,0,0,1,3,7,1,4,8,11],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca6705e7dadee2dd3403374f42166db929":[6,0,0,0,1,3,7,1,4,8,6],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b39310aedae8c463ba027790ef07c39":[6,0,0,0,1,3,7,1,4,8,2],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca97f757fd8852d84166e0dacb74d48895":[6,0,0,0,1,3,7,1,4,8,1],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[6,0,0,0,1,3,7,1,4,8,10],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caaf0272d8528a147b8084c7a7d6d69b2a":[6,0,0,0,1,3,7,1,4,8,14],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cac0f9e5964a0246a1e0401ada311ac54a":[6,0,0,0,1,3,7,1,4,8,13],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad0cf2e4cb01aa491b9c126c8324ecdbc":[6,0,0,0,1,3,7,1,4,8,0],
@@ -167,10 +175,10 @@ var NAVTREEINDEX360 =
 "de/d9f/structSkillPerfectItemEntry.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3":[5,0,2513,0],
 "de/d9f/structSkillPerfectItemEntry.html#a750d5ab6bc3df0026e640f1c84de8547":[5,0,2513,2],
 "de/d9f/structSkillPerfectItemEntry.html#aa7ad968ab1b8804ee8f0f8f40bc6f762":[5,0,2513,4],
-"de/da0/classUpdateRequest.html":[5,0,4119],
-"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[5,0,4119,0],
-"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[5,0,4119,1],
-"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[5,0,4119,2],
+"de/da0/classUpdateRequest.html":[5,0,4120],
+"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[5,0,4120,0],
+"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[5,0,4120,1],
+"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[5,0,4120,2],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html":[5,0,2789],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a2d72f5771d6563260a6e81122e4a2be5":[5,0,2789,3],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a4e98fbf669c030263ed2e5759a5bd6e8":[5,0,2789,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX360 =
 "de/da3/ModuleMgr_8h.html#ac16569c9333f642e54fa7a4ec6a948e3":[6,0,0,0,1,2,29,1,1],
 "de/da4/classspell__putricide__mutated__plague__aura.html":[5,0,3504],
 "de/da4/classspell__putricide__mutated__plague__aura.html#a109dc4f189a64ac3b5949191d6abd2be":[5,0,3504,0],
-"de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[5,0,3504,1],
-"de/da4/classspell__putricide__mutated__plague__aura.html#ab36a001ea8cd87703e2694e0765635c0":[5,0,3504,3],
-"de/da4/classspell__putricide__mutated__plague__aura.html#af9ce7433b620fdf1dea570561c514b3b":[5,0,3504,2],
-"de/da5/CharacterDatabase_8h.html":[6,0,0,0,1,1,0,0,1],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7":[6,0,0,0,1,1,0,0,1,1],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a005b347f56b0d5dd4586f6ef2f232406":[6,0,0,0,1,1,0,0,1,1,48],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a00955da44994cc15fa73659a95358c40":[6,0,0,0,1,1,0,0,1,1,38],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0095b49db02518c869fe8366ca9af08a":[6,0,0,0,1,1,0,0,1,1,169],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a01747cfaad7d94815f46399465acc0b9":[6,0,0,0,1,1,0,0,1,1,364]
+"de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[5,0,3504,1]
 };

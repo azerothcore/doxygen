@@ -1,5 +1,13 @@
 var NAVTREEINDEX371 =
 {
+"df/d14/classPet.html#a9a66612d754660f0ff25ac0b1236372e":[5,0,2347,76],
+"df/d14/classPet.html#a9d623f0127c82864f885e09a9ddd2eb8":[5,0,2347,45],
+"df/d14/classPet.html#aa112fc828c2fc64dd592c81932b71481":[5,0,2347,1],
+"df/d14/classPet.html#aaac68db137c1dd9b03527cfd84b9b8b1":[5,0,2347,82],
+"df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb":[5,0,2347,56],
+"df/d14/classPet.html#aaccd1b242377432d3b3c79909a2d8ef4":[5,0,2347,66],
+"df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167":[5,0,2347,53],
+"df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1":[5,0,2347,59],
 "df/d14/classPet.html#ab79fec2955813a0598a4a4fc972daa69":[5,0,2347,30],
 "df/d14/classPet.html#ab85942641ebca1533c4de72ff2f7abb2":[5,0,2347,64],
 "df/d14/classPet.html#ab9c3c5e18aa1585b489fc2d5983284f6":[5,0,2347,11],
@@ -241,13 +249,5 @@ var NAVTREEINDEX371 =
 "df/d17/structboss__headless__horseman__head.html#a73e75350937736ad7cfe725b785b3768":[5,0,507,1],
 "df/d17/structboss__headless__horseman__head.html#a9752326bac7ecbcdfde5b12f55b20be2":[5,0,507,8],
 "df/d17/structboss__headless__horseman__head.html#ab72d1f1891401754ffe032ed0534882d":[5,0,507,2],
-"df/d17/structboss__headless__horseman__head.html#adcd9ce9755f8dbc1391b4d2b3f5e1669":[5,0,507,4],
-"df/d17/structboss__headless__horseman__head.html#ae7c669e65659459fd83f91b5e9ed1347":[5,0,507,9],
-"df/d18/classnpc__anachronos__quest__trigger.html":[5,0,1554],
-"df/d18/classnpc__anachronos__quest__trigger.html#a2e0e6a69ed1cbed76db9c4bd64d51330":[5,0,1554,2],
-"df/d18/classnpc__anachronos__quest__trigger.html#ad39871952acd3152b51820fe360f4ebd":[5,0,1554,1],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html":[5,0,1932,0],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a499301a57e57a54aa8f1249c12247be7":[5,0,1932,0,2],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a5676eb2a790be80e539dd71a3b8e140a":[5,0,1932,0,1],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a586f15a02d77ed6831eb787e2bdf477c":[5,0,1932,0,3]
+"df/d17/structboss__headless__horseman__head.html#adcd9ce9755f8dbc1391b4d2b3f5e1669":[5,0,507,4]
 };
