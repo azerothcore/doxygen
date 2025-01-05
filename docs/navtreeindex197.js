@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaece357e42c2714553d95e3dbf17000b8":[6,0,0,0,1,2,28,2,0,557],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaed4911ef67b3b697c6adb46345bb9036":[6,0,0,0,1,2,28,2,0,451],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaed4b852139ece7988c165ebc3c0b9679":[6,0,0,0,1,2,28,2,0,603],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaed7a08c24c61178cd240e4b3b1a4daf9":[6,0,0,0,1,2,28,2,0,528],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a1a034601a7dda94becbf1801bda63d55":[5,0,377,0,5],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a2c3ed57dd0336ce8ac1a85c957da9e4a":[5,0,377,0,2],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a3a85b2a6e958a965e52a9fde87c08177":[5,0,377,0,0],
-"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a8c5e43b4b4e0583db7dcc93694202bd8":[5,0,377,0,3],
-"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#aaf47fc993e672877f51b5095f682906c":[5,0,377,0,4]
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a8c5e43b4b4e0583db7dcc93694202bd8":[5,0,377,0,3]
 };

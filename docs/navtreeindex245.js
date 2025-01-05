@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#aa2a5488ff4706a44350bd969d57a99e1":[5,0,3816,1],
+"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#adaab7b03edc6ff147e856dc0cdfc5ad0":[5,0,3816,0],
 "da/d16/structnpc__grandmother.html":[5,0,1781],
 "da/d16/structnpc__grandmother.html#a0e2b684377ed593abfbb49b730cfe9b2":[5,0,1781,2],
 "da/d16/structnpc__grandmother.html#a6cffe8c574859779f6561dde0aef9666":[5,0,1781,0],
@@ -14,10 +16,10 @@ var NAVTREEINDEX245 =
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,0,39,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[4,0,1,51,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,39,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,0,39,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[4,0,1,51,4],
-"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,0,39,2],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,0,39,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[4,0,1,51,2],
+"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,0,39,2],
 "da/d17/classat__naxxramas__hub__portal.html":[5,0,217],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[5,0,217,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[5,0,217,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "da/d28/structClientPktHeader.html#ad0a112cb2a8a71e6e8c20e320af63f49":[5,0,867,2],
 "da/d28/structClientPktHeader.html#aec5192f7f57a16c9dfa244ff3874e693":[5,0,867,1],
 "da/d28/structClientPktHeader.html#afdba55f89a1c7ffb9e7c302f2269687f":[5,0,867,0],
-"da/d29/classspell__dru__living__seed.html":[5,0,2770],
-"da/d29/classspell__dru__living__seed.html#a2d38c32b4eb2ba91c657801b21a3b90d":[5,0,2770,0],
-"da/d29/classspell__dru__living__seed.html#ac5988a79ab42ec1bbcc9b69bb649fc29":[5,0,2770,1]
+"da/d29/classspell__dru__living__seed.html":[5,0,2770]
 };

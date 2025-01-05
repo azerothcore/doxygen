@@ -1,5 +1,7 @@
 var NAVTREEINDEX388 =
 {
+"df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[6,0,0,0,1,2,31,1,2,7],
+"df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[6,0,0,0,1,2,31,1,2,2],
 "df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[6,0,0,0,1,2,31,1,2,1],
 "df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[6,0,0,0,1,2,31,1,2,4],
 "df/dd3/classEmblemInfo.html":[5,0,990],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "df/dd9/classUnit.html#a19e188ad0d01f0bc775a56949e16b9f4":[5,0,4109,619],
 "df/dd9/classUnit.html#a19e3ed905a70d863d3dbc0b34a5e82f1":[5,0,4109,504],
 "df/dd9/classUnit.html#a19ef7c501d1344832b2f3f5d7e7df6d9":[5,0,4109,507],
-"df/dd9/classUnit.html#a19f785f860043c1c37e887ad463b8453":[5,0,4109,893],
-"df/dd9/classUnit.html#a1a103fd08bef74a848d061adc411b223":[5,0,4109,913],
-"df/dd9/classUnit.html#a1a827e55eb31db97c7e3dbf4fc36df31":[5,0,4109,471]
+"df/dd9/classUnit.html#a19f785f860043c1c37e887ad463b8453":[5,0,4109,893]
 };

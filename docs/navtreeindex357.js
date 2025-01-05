@@ -1,5 +1,7 @@
 var NAVTREEINDEX357 =
 {
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277":[4,0,19,48,2],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[4,0,19,48,9],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[4,0,19,48,14],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[4,0,19,48,0],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[4,0,19,48,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX357 =
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[5,0,3611,0],
 "de/d7c/structboss__the__black__stalker.html":[5,0,714],
 "de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[5,0,714,4],
-"de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[5,0,714,2],
-"de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[5,0,714,0],
-"de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[5,0,714,1]
+"de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[5,0,714,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba555c0f944c1b69b930b96c21c2f0b3ff":[6,0,0,0,1,3,5,19,37,9],
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba7794ace87705e2898f8b60f1f5228110":[6,0,0,0,1,3,5,19,37,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba9cf2faff07cd45e6ad2b3079df78c447":[6,0,0,0,1,3,5,19,37,7],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbac7b7264f3ed2f23ac1abe23f74fd84c2":[6,0,0,0,1,3,5,19,37,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbacf0e09ec5d3579ff8de698c1cd310978":[6,0,0,0,1,3,5,19,37,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dd/df4/classgo__amberpine__outhouse.html#a953ea72b3954c89b6c391de5aca3b6ce":[5,0,1093,0],
 "dd/df4/classgo__amberpine__outhouse.html#aa55fe049ba43dbd548ba55d982d89d51":[5,0,1093,2],
 "dd/df4/classspell__deathbringer__blood__power.html":[5,0,2680],
-"dd/df4/classspell__deathbringer__blood__power.html#a359453c6253beb6f729209c6d3d79af7":[5,0,2680,0],
-"dd/df4/classspell__deathbringer__blood__power.html#a4a387df07c88144288c4327ce86b730a":[5,0,2680,2],
-"dd/df4/classspell__deathbringer__blood__power.html#a4f916abef69782be10cc6be9ba0124f5":[5,0,2680,1]
+"dd/df4/classspell__deathbringer__blood__power.html#a359453c6253beb6f729209c6d3d79af7":[5,0,2680,0]
 };

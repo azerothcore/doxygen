@@ -1,5 +1,7 @@
 var NAVTREEINDEX352 =
 {
+"de/d37/classboss__freya__nature__bomb.html#a73e24282c6bb29cf3f6a7da14a4de582":[5,0,466,2],
+"de/d38/OutdoorPvPHP_8cpp.html":[6,0,0,0,1,3,6,5],
 "de/d38/OutdoorPvPHP_8cpp.html#a1b9adf9c71e549e4545c2e4eabe58dd5":[6,0,0,0,1,3,6,5,4],
 "de/d38/OutdoorPvPHP_8cpp.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd":[6,0,0,0,1,3,6,5,3],
 "de/d38/OutdoorPvPHP_8cpp.html#a642fe1233b764402bae812604b684442":[6,0,0,0,1,3,6,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX352 =
 "de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4":[6,0,0,0,1,2,15,5,29],
 "de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913":[6,0,0,0,1,2,15,5,29,2],
 "de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76":[6,0,0,0,1,2,15,5,29,0],
-"de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668":[6,0,0,0,1,2,15,5,29,1],
-"de/d3d/LFGMgr_8h.html#a1191f332347cf635992fa819f9b4c0f4":[6,0,0,0,1,2,15,5,17],
-"de/d3d/LFGMgr_8h.html#a20632643454bb292a5d524a3d230dbe0":[6,0,0,0,1,2,15,5,16]
+"de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668":[6,0,0,0,1,2,15,5,29,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX368 =
 {
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a4abdd53f735be815cb2d43497d1531e0":[5,0,1304,0,0],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a542669592205682d96ff4f7915dffe89":[5,0,1304,0,5],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a5e90e8cadff18b19c9a1d451dbe675c9":[5,0,1304,0,4],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a70730d88a5f7d3839a20d1eaca7147e7":[5,0,1304,0,9],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a71fcfc166f945325a4ee149645a9ccef":[5,0,1304,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX368 =
 "de/df5/classnpc__eoe__wyrmrest__skytalon.html#a01a384ab10cfccbd159f116e0bef52e8":[5,0,1733,2],
 "de/df5/classnpc__eoe__wyrmrest__skytalon.html#a55685de624b277840f8fc0c397b8aebf":[5,0,1733,1],
 "de/df5/structAreaTableEntry.html":[5,0,161],
-"de/df5/structAreaTableEntry.html#a048ac249318efd9aa35bb705bfb92dc8":[5,0,161,8],
-"de/df5/structAreaTableEntry.html#a23434848cf8b2eab4de1b6530b8d5f8d":[5,0,161,2],
-"de/df5/structAreaTableEntry.html#a2a59297a617c9d3b582ede2a028bd07e":[5,0,161,0]
+"de/df5/structAreaTableEntry.html#a048ac249318efd9aa35bb705bfb92dc8":[5,0,161,8]
 };

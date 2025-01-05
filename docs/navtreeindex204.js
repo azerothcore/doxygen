@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/df0/classspell__putricide__clear__aura__effect__value.html":[5,0,3500],
 "d7/df0/classspell__putricide__clear__aura__effect__value.html#a5a4e7d674c09ebbbc9d918cf877418a3":[5,0,3500,1],
 "d7/df0/classspell__putricide__clear__aura__effect__value.html#abd766c298f8aa363d28198b6a5d7e374":[5,0,3500,0],
 "d7/df0/classspell__putricide__clear__aura__effect__value.html#ae9bd26c97b3dc9c1af96304e3c67d532":[5,0,3500,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a619c1df91b6ffdf4c15a7e9ca270d5d5":[6,0,0,0,1,2,16,10,6,6,15],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a6da108929d54e325682dc8b9012d1e41":[6,0,0,0,1,2,16,10,6,6,8],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a767253b396000655219d5a75223e8a3e":[6,0,0,0,1,2,16,10,6,6,5],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a864786a761bf88a1b0841377434fa77e":[6,0,0,0,1,2,16,10,6,6,0],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89aa04b7c1a042862deb96601f2e56bf31c":[6,0,0,0,1,2,16,10,6,6,4]
+"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a864786a761bf88a1b0841377434fa77e":[6,0,0,0,1,2,16,10,6,6,0]
 };

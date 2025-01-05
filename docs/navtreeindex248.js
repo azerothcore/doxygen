@@ -1,5 +1,7 @@
 var NAVTREEINDEX248 =
 {
+"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html":[5,0,1276,0],
+"da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a0080fdf557ad8159a8934dce5b39a535":[5,0,1276,0,0],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a0c2f4d615394ef1d6e1b930ed6aff82f":[5,0,1276,0,2],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a1b30829b3c782bb2c52e5da4fa388d5c":[5,0,1276,0,5],
 "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html#a85d3db22430a4bac7e01dcfa1a1efb5b":[5,0,1276,0,3],
@@ -10,14 +12,14 @@ var NAVTREEINDEX248 =
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html":[4,0,1,26],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a0281d22587b9b1bdbfbdd8dccc625186":[5,0,0,14,0],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a0281d22587b9b1bdbfbdd8dccc625186":[4,0,1,26,0],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a5fba0e3c7cde76bfe56f8e9e9716412b":[4,0,1,26,3],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a5fba0e3c7cde76bfe56f8e9e9716412b":[5,0,0,14,3],
+"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a5fba0e3c7cde76bfe56f8e9e9716412b":[4,0,1,26,3],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#ae40de8ce49bb429243e5059b6d14398f":[4,0,1,26,4],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#ae40de8ce49bb429243e5059b6d14398f":[5,0,0,14,4],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#aebb4cb9e84cf91cca235fe663dba8d60":[4,0,1,26,2],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#aebb4cb9e84cf91cca235fe663dba8d60":[5,0,0,14,2],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#afe0bea69ddd5e275363361bf37284840":[5,0,0,14,1],
+"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#aebb4cb9e84cf91cca235fe663dba8d60":[4,0,1,26,2],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#afe0bea69ddd5e275363361bf37284840":[4,0,1,26,1],
+"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#afe0bea69ddd5e275363361bf37284840":[5,0,0,14,1],
 "da/d3b/classAreaTrigger__at__scent__larkorwi.html":[5,0,170],
 "da/d3b/classAreaTrigger__at__scent__larkorwi.html#a967a43eae4cc986754eed9ee8291c17e":[5,0,170,0],
 "da/d3b/classAreaTrigger__at__scent__larkorwi.html#aeeb339afa5a7dd4b028aea800026998e":[5,0,170,1],
@@ -200,10 +202,10 @@ var NAVTREEINDEX248 =
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[4,0,1,7,0,4],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[4,0,1,7,0,4,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,4,0,4,0],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,4,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[4,0,1,7,0,4,2],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[4,0,1,7,0,4,1],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,4,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,4,0,4,1],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[4,0,1,7,0,4,1],
 "da/d48/adtfile_8h.html":[6,0,0,0,3,4,2],
 "da/d48/adtfile_8h.html#a05f8969fb6d17548033afc24b906a83f":[6,0,0,0,3,4,2,7],
 "da/d48/adtfile_8h.html#a5e577b4c8e75312883ba4e8c571908ca":[6,0,0,0,3,4,2,6],
@@ -246,8 +248,6 @@ var NAVTREEINDEX248 =
 "da/d4b/GuardAI_8h.html":[6,0,0,0,1,2,3,0,5],
 "da/d4b/classAcore_1_1SignalHandler.html":[4,0,1,116],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,104],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[4,0,1,116,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,104,3],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[4,0,1,116,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,104,2]
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[4,0,1,116,3]
 };

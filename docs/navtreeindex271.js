@@ -1,5 +1,7 @@
 var NAVTREEINDEX271 =
 {
+"db/d32/classspell__item__flask__of__the__north.html#a3f9d43d11b344e3eb02fdc088506008e":[5,0,3171,0],
+"db/d32/classspell__item__flask__of__the__north.html#a581e04721eb9564d1300ddd78c805368":[5,0,3171,2],
 "db/d33/structboss__svala_1_1boss__svalaAI.html":[5,0,701,0],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a3d14b708a8156a6c9025ff92aa3774c4":[5,0,701,0,14],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a42e1753c8a66cc292799c890b9177a3e":[5,0,701,0,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX271 =
 "db/d4a/classAcore_1_1Thread.html":[4,0,1,118],
 "db/d4a/classAcore_1_1Thread.html":[5,0,0,106],
 "db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[4,0,1,118,10],
-"db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[5,0,0,106,10],
-"db/d4a/classAcore_1_1Thread.html#a37d9edd3a1a776cbc27dedff949c9726":[5,0,0,106,2],
-"db/d4a/classAcore_1_1Thread.html#a37d9edd3a1a776cbc27dedff949c9726":[4,0,1,118,2]
+"db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[5,0,0,106,10]
 };
