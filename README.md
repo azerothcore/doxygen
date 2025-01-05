@@ -13,6 +13,7 @@ The generated documentation is publicly available through the following URL:
 [https://www.azerothcore.org/doxygen/](https://www.azerothcore.org/doxygen/)
 
 The documentation site is built and deployed using [GitHub Pages](https://pages.github.com/), ensuring it is always accessible and up-to-date.
+
 The AzerothCore Doxygen Documentation repository is publicly available through the following URL:
 [https://github.com/azerothcore/doxygen/](https://github.com/azerothcore/doxygen/)
 
