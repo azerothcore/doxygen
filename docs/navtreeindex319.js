@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[5,0,1814,0,1],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a7c911cf24b21c959ee5c62d664e1879a":[5,0,1814,0,5],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#ab37c5c22456c06f78b53505ae7973658":[5,0,1814,0,3],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#aeff0f7526f12f0e09e53c0e43a423799":[5,0,1814,0,8],
 "dd/d46/PetPackets_8h.html":[6,0,0,0,1,2,39,0,20],
@@ -7,8 +9,8 @@ var NAVTREEINDEX319 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[5,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[5,0,90,0],
 "dd/d48/UpdateMask_8h.html":[6,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,2,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[4,0,8,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,2,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[5,0,414,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[5,0,414,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[5,0,414,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[5,0,2910,1],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[5,0,1865,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[5,0,1865,0,4],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[5,0,1865,0,0],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[5,0,1865,0,2],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[5,0,1865,0,7]
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[5,0,1865,0,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cafeb43072f684b2563826e45ac18a6555":[6,0,0,0,1,3,5,6,4,56,14],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a643943fd1d4ba977492feddfa3fed018":[6,0,0,0,1,3,5,6,4,69],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a6f7794498a43bcf34a1c7fcae34e61e4":[6,0,0,0,1,3,5,6,4,71],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a7223737951358748df19a97099ecedd9":[6,0,0,0,1,3,5,6,4,65],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a76a28cac90f5383e2003c6157fbb689e":[6,0,0,0,1,3,5,6,4,64],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a8d7fef6dfcdc5be20f0531c34b09fc13":[5,0,367,0,6],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ab51f09b76054d8bdb13f3c27396db87e":[5,0,367,0,7],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ac9f82f61ee7fe945cb3fba23a69e704c":[5,0,367,0,1],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#ace4a10f62eaa21ecd997ad1dbe15f3c8":[5,0,367,0,3],
-"df/de1/classnpc__gunship__boarding__leader.html":[5,0,1792],
-"df/de1/classnpc__gunship__boarding__leader.html#a8390eadab34a89643252f573588b140a":[5,0,1792,1]
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#ace4a10f62eaa21ecd997ad1dbe15f3c8":[5,0,367,0,3]
 };

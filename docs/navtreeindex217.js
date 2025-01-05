@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fae8830226aeb4002944c0375d61a14e3b":[6,0,0,0,1,3,2,1,2,0,3,16],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fae96931ed395b2a388948c7d9e5df6527":[6,0,0,0,1,3,2,1,2,0,3,19],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4faf397b79c56313c06d741f61f9a3fa8bf":[6,0,0,0,1,3,2,1,2,0,3,0],
 "d8/d83/blackwing__lair_8h.html#ae6104e16f72c5b3e12bd4250dde032ce":[6,0,0,0,1,3,2,1,2,0,9],
@@ -42,12 +43,12 @@ var NAVTREEINDEX217 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[5,0,4125,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[5,0,4125,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[5,0,4125,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,11,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[4,0,31,5,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,11,5,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,11,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[4,0,31,5,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[4,0,31,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,11,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,11,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[4,0,31,5,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[5,0,554],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[5,0,554,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[5,0,554,2],
@@ -143,14 +144,14 @@ var NAVTREEINDEX217 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,0,5,0,22,2],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[4,0,1,8,0,22,9],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[5,0,0,5,0,22,9],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[4,0,1,8,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[5,0,0,5,0,22,0],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[4,0,1,8,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,0,5,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[4,0,1,8,0,22,1],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[4,0,1,8,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,0,5,0,22,10],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[4,0,1,8,0,22,6],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[4,0,1,8,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,0,5,0,22,6],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[4,0,1,8,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[6,0,0,0,1,2,17,1],
 "d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[6,0,0,0,1,2,17,1,7],
 "d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[6,0,0,0,1,2,17,1,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476":[6,0,0,0,1,2,39,1,3,2,0],
 "d8/d94/classTradeData.html":[5,0,4075],
 "d8/d94/classTradeData.html#a011acd6730c58aa75d3c27e793748afc":[5,0,4075,4],
-"d8/d94/classTradeData.html#a0dc996fdc9acab409833caff4e6b489b":[5,0,4075,15],
-"d8/d94/classTradeData.html#a1e585dd9ed486381a55e108a709e4db3":[5,0,4075,19]
+"d8/d94/classTradeData.html#a0dc996fdc9acab409833caff4e6b489b":[5,0,4075,15]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX307 =
 {
+"dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[5,0,2175,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[5,0,3515],
 "dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[5,0,3515,2],
 "dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[5,0,3515,1],
 "dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[5,0,3515,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[5,0,3476,5],
 "dc/dc9/ObjectGuid_8h.html":[6,0,0,0,1,2,16,5,5],
 "dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8":[6,0,0,0,1,2,16,5,5,19],
-"dc/dc9/ObjectGuid_8h.html#a173958393e55b3150391dfb3a6d387ed":[6,0,0,0,1,2,16,5,5,15],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2":[6,0,0,0,1,2,16,5,5,17],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f":[6,0,0,0,1,2,16,5,5,17,0]
+"dc/dc9/ObjectGuid_8h.html#a173958393e55b3150391dfb3a6d387ed":[6,0,0,0,1,2,16,5,5,15]
 };

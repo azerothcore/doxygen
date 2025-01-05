@@ -1,5 +1,7 @@
 var NAVTREEINDEX240 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[6,0,0,0,1,3,10,13,2],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[6,0,0,0,1,3,10,13,2,9],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[6,0,0,0,1,3,10,13,2,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[6,0,0,0,1,3,10,13,2,12],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2643442342f258b423a515f080a54e20":[6,0,0,0,1,3,10,13,2,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[5,0,2285,0,1],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[5,0,2285,0,0],
 "d9/dd9/ArenaTeamMgr_8h.html":[6,0,0,0,1,2,8,7],
-"d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[6,0,0,0,1,2,8,7,1],
-"d9/dd9/ArenaTeamMgr_8h.html#aa472ba6cfd587021965aece0e77797b7":[6,0,0,0,1,2,8,7,2],
-"d9/dd9/ArenaTeamMgr_8h.html#ade4bc52db611f6481d3c8f5e6f346b4c":[6,0,0,0,1,2,8,7,3]
+"d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[6,0,0,0,1,2,8,7,1]
 };

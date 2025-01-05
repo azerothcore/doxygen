@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d7/d30/structnpc__ulduar__flames__spread_1_1npc__ulduar__flames__spreadAI.html#a607ee542f7c6d84f4072557e44a80905":[5,0,2182,0,0],
 "d7/d30/structnpc__ulduar__flames__spread_1_1npc__ulduar__flames__spreadAI.html#abe69df9873fc125306a4ed757665e448":[5,0,2182,0,1],
 "d7/d31/classachievement__yogg__saron__kiss__and__make__up.html":[5,0,107],
 "d7/d31/classachievement__yogg__saron__kiss__and__make__up.html#a8ce7df713b804d5bdd5f6f47d77fc1b8":[5,0,107,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d40/classspell__warl__create__healthstone.html#a10e9691aa15869c82fba79072a314d7e":[5,0,3872,1],
 "d7/d40/classspell__warl__create__healthstone.html#a441927e0d8d7304030440c19458eb34d":[5,0,3872,0],
 "d7/d40/classspell__warl__create__healthstone.html#a90b8ae945aeb85ad6e8a120501288979":[5,0,3872,2],
-"d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[5,0,3872,3],
-"d7/d40/classspell__warl__create__healthstone.html#ae852b9df34612c074eab23b025c86870":[5,0,3872,5]
+"d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[5,0,3872,3]
 };

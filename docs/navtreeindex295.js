@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#addd5c34675473b78e1785a8122a6ccd2":[5,0,656,0,2],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[5,0,656,0,7],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3":[5,0,656,0,10],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html":[5,0,1769,0],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[5,0,1769,0,0],
@@ -242,12 +244,10 @@ var NAVTREEINDEX295 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[5,0,3580,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[5,0,3580,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[5,0,3580,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[4,0,1,24],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[4,0,1,24,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,12,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[4,0,1,24,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[4,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,12,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,12,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[4,0,1,24,1]
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[4,0,1,24,0]
 };

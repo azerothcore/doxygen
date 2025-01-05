@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938ac6afa7d3ac9a57971584a40e5768592c":[6,0,0,0,1,3,7,1,2,22,0],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938af14cdba1aaf9fbfbd5b94c608513b872":[6,0,0,0,1,3,7,1,2,22,5],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html":[5,0,1780,0],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a138bc8cd6f1312d83fefdf5499a479b7":[5,0,1780,0,1],
@@ -86,10 +87,10 @@ var NAVTREEINDEX227 =
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[4,0,1,7,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,0,4,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[4,0,1,7,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[4,0,1,7,0,1,3],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,0,4,0,1,3],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[4,0,1,7,0,1,3],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[5,0,0,1,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[4,0,1,2,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[4,0,1,2,6,0],
@@ -170,16 +171,16 @@ var NAVTREEINDEX227 =
 "d9/d13/classAppender.html#aed555d5a182fefce9bb570201e9f005f":[5,0,152,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,11,7,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[4,0,31,7,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,11,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[4,0,31,7,2,3],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,11,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[4,0,31,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,11,7,2,5],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[4,0,31,7,2,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,11,7,2,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[4,0,31,7,2,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,11,7,2,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,11,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[4,0,31,7,2,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,11,7,2,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[4,0,31,7,2,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[5,0,2559],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[5,0,3825,2],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#ae5749a43f37f0eb3f049d8804845f61e":[5,0,3825,0],
 "d9/d17/structBattlegroundObjectInfo.html":[5,0,315],
-"d9/d17/structBattlegroundObjectInfo.html#a6722b83d6969c1a34b4846f19865075a":[5,0,315,1],
-"d9/d17/structBattlegroundObjectInfo.html#a7eaf1fbe40f3a7918965da8d5ac81a50":[5,0,315,3]
+"d9/d17/structBattlegroundObjectInfo.html#a6722b83d6969c1a34b4846f19865075a":[5,0,315,1]
 };

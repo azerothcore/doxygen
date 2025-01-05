@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085":[6,0,0,0,1,3,2,12,5,8,20],
 "d9/d3f/boss__muru_8cpp.html#abb36992caf0a693d29fb5bf8ceacb8b0":[6,0,0,0,1,3,2,12,5,9],
 "d9/d3f/structTalentSpellPos.html":[5,0,4043],
 "d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[5,0,4043,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d55/structCreatureAIFactory.html#ab5f691811cc23c5079a7a0a7f3503638":[5,0,899,1],
 "d9/d55/structCreatureAIFactory.html#ae5e76ee1d1f8949214dd5421bf7e4deb":[5,0,899,2],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html":[5,0,520,0],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[5,0,520,0,2],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a38e6008d616131d2876ae5a085a083ff":[5,0,520,0,4]
+"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[5,0,520,0,2]
 };

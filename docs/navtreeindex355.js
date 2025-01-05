@@ -1,5 +1,7 @@
 var NAVTREEINDEX355 =
 {
+"de/d5c/classspell__warr__concussion__blow.html#ad168c9164d1edd23abfbf05141b96de4":[5,0,3910,2],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html":[5,0,1333,0],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0234565dc9c87e32bcd0a7f19e2336b6":[5,0,1333,0,5],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a07cff6b252eb9b08855bc8bd7e5d7735":[5,0,1333,0,13],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0da827e64e90a1f97b75038621a195ff":[5,0,1333,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX355 =
 "de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[5,0,1157,1],
 "de/d69/classgo__skull__pile.html#af74fcd75404c0886128401d661067394":[5,0,1157,4],
 "de/d69/classgo__skull__pile.html#afb8e8db2705355e975fa48c98e09f20b":[5,0,1157,2],
-"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html":[5,0,1868,0],
-"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a0a0f24af22e4c72e843970c0d5c1ff87":[5,0,1868,0,0],
-"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a81c039a2a230b261967842161757b6f8":[5,0,1868,0,3]
+"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html":[5,0,1868,0]
 };

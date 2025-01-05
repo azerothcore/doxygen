@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[6,0,0,0,1,3,7,4,2,0,11,2],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e06885b4e559bc0ea44ce31f6a4c4a8":[6,0,0,0,1,3,7,4,2,0,11,0],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f3862c0f3bd64b8ac636659f1dc59af":[6,0,0,0,1,3,7,4,2,0,11,11],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c4255505875cf389a3c5d2d352a40a1":[6,0,0,0,1,3,7,4,2,0,11,14],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[6,0,0,0,1,3,7,4,2,0,11,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6c5b5a7bc419b30a8814ada3f95f0c3a":[5,0,656,0,0],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d":[5,0,656,0,16],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[5,0,656,0,3],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[5,0,656,0,5],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#addd5c34675473b78e1785a8122a6ccd2":[5,0,656,0,2],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[5,0,656,0,7]
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[5,0,656,0,5]
 };

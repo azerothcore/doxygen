@@ -1,5 +1,7 @@
 var NAVTREEINDEX369 =
 {
+"de/df5/structAreaTableEntry.html#a23434848cf8b2eab4de1b6530b8d5f8d":[5,0,161,2],
+"de/df5/structAreaTableEntry.html#a2a59297a617c9d3b582ede2a028bd07e":[5,0,161,0],
 "de/df5/structAreaTableEntry.html#a3b4f9e187629db5ced9a06c601fc7f78":[5,0,161,10],
 "de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25":[5,0,161,5],
 "de/df5/structAreaTableEntry.html#a78cf3009cd0fe49dc7870c7f65c79251":[5,0,161,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX369 =
 "df/d09/TerrainBuilder_8cpp.html#a59daadc7c96729526e05982ec6600bb1":[6,0,0,0,3,2,6,6],
 "df/d09/TerrainBuilder_8cpp.html#a5ec110bd30ec47fcd087aaf5d572de28":[6,0,0,0,3,2,6,13],
 "df/d09/TerrainBuilder_8cpp.html#a661f965d11d7da56890b64484d871441":[6,0,0,0,3,2,6,8],
-"df/d09/TerrainBuilder_8cpp.html#a6d257e0effb928fba7534eeee5de602d":[6,0,0,0,3,2,6,11],
-"df/d09/TerrainBuilder_8cpp.html#a8c5ddef856ef804076860bb176c6d9e1":[6,0,0,0,3,2,6,15],
-"df/d09/TerrainBuilder_8cpp.html#aa56f76510545ed9c706b8fee3061b6cb":[6,0,0,0,3,2,6,12]
+"df/d09/TerrainBuilder_8cpp.html#a6d257e0effb928fba7534eeee5de602d":[6,0,0,0,3,2,6,11]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX259 =
 {
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[5,0,3534,0],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[5,0,3534,3],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[5,0,3534,2],
 "da/dac/structAccountData.html":[3,1,10],
 "da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[3,1,10,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX259 =
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ae98715a31cd22febb1725977556a48aa":[5,0,403,0,11],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#afaac9e6939e0d873f576129546560fba":[5,0,403,0,3],
 "da/dba/ArenaTeam_8cpp.html":[6,0,0,0,1,2,8,4],
-"da/dba/classspell__kelthuzad__frost__blast.html":[5,0,3278],
-"da/dba/classspell__kelthuzad__frost__blast.html#abbe7ae557fb510457504f72adfa0aedc":[5,0,3278,3],
-"da/dba/classspell__kelthuzad__frost__blast.html#ad7ccb2b2024887ec0a9802454a8bfaec":[5,0,3278,1]
+"da/dba/classspell__kelthuzad__frost__blast.html":[5,0,3278]
 };

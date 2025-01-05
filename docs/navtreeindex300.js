@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[5,0,687,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html":[5,0,3001],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[5,0,3001,3],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[5,0,3001,2],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[5,0,3001,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[5,0,1723,0],
 "dc/d56/structnpc__eastvale__peasent.html#a7eb6cf174a46fd31c8c5241649fcebdc":[5,0,1723,3],
 "dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[5,0,1723,5],
-"dc/d56/structnpc__eastvale__peasent.html#a8b73aa30b0b4a984d8644e6d9541461d":[5,0,1723,1],
-"dc/d56/structnpc__eastvale__peasent.html#a907db8e6148947248b5bcfdb35023e16":[5,0,1723,7],
-"dc/d56/structnpc__eastvale__peasent.html#aad06364be8698b5ba69cd229e2a5085b":[5,0,1723,8]
+"dc/d56/structnpc__eastvale__peasent.html#a8b73aa30b0b4a984d8644e6d9541461d":[5,0,1723,1]
 };

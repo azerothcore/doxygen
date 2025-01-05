@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a308b99ee4d07ed1de0cabd94dafd5dd8":[5,0,1959,0,1],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3cba2cd9a920816bee993ae2986639a0":[5,0,1959,0,4],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3fb01e6a8df3b8205f494f03faf8ace8":[5,0,1959,0,9],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a756a44feb79eb56f443ee16995a2566d":[5,0,1959,0,5],
@@ -209,18 +210,18 @@ var NAVTREEINDEX179 =
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[5,0,1297,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[4,0,1,106],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,94],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,94,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[4,0,1,106,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,94,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[4,0,1,106,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,94,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,0,94,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[4,0,1,106,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,0,94,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[4,0,1,106,6],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,0,94,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,0,94,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[4,0,1,106,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,0,94,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,0,94,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[4,0,1,106,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,0,94,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,0,94,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[4,0,1,106,5],
 "d6/dee/boss__nethekurse_8cpp.html":[6,0,0,0,1,3,7,4,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[6,0,0,0,1,3,7,4,3,0,11,7],
 "d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9ea4d6d46f04cc569ddf6dba98e4bda4":[6,0,0,0,1,3,7,4,3,0,11,4],
 "d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab069062aa9743f9bf93fa357c9ce538a":[6,0,0,0,1,3,7,4,3,0,11,5],
-"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac06e5bbf853ac54e131d78954cadb856":[6,0,0,0,1,3,7,4,3,0,11,8],
-"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae56904456afe0ee6f8f9cad906005c2e":[6,0,0,0,1,3,7,4,3,0,11,0]
+"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac06e5bbf853ac54e131d78954cadb856":[6,0,0,0,1,3,7,4,3,0,11,8]
 };

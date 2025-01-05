@@ -1,5 +1,7 @@
 var NAVTREEINDEX258 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[5,0,683,0,12],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[5,0,683,0,20],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a87663e3f6d1c87c9def8eb1852adc029":[5,0,683,0,17],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[5,0,683,0,16],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[5,0,683,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX258 =
 "da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[5,0,3160,3],
 "da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[5,0,3160,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html":[5,0,3534],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[5,0,3534,1],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[5,0,3534,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[5,0,3534,3]
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[5,0,3534,1]
 };

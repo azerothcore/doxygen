@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[6,0,0,0,1,4,0,3,6],
 "d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[6,0,0,0,1,4,0,3,69],
 "d8/dd6/DBCfmt_8h.html#a1266dda82a0166373df711f4de5b84fa":[6,0,0,0,1,4,0,3,20],
 "d8/dd6/DBCfmt_8h.html#a12aadeb86c55d0b33d8389c91c0d89ea":[6,0,0,0,1,4,0,3,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[6,0,0,0,1,2,31,2,1,5],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[6,0,0,0,1,2,31,2,1,5,1],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[6,0,0,0,1,2,31,2,1,5,2],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[6,0,0,0,1,2,31,2,1,5,4],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843":[6,0,0,0,1,2,31,2,1,5,3]
+"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[6,0,0,0,1,2,31,2,1,5,4]
 };

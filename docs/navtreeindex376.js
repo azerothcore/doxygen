@@ -1,5 +1,7 @@
 var NAVTREEINDEX376 =
 {
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a20f7701e6174f8d1a1f99b79c14e688e":[6,0,0,0,1,3,7,4,1,3,4,0],
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a335aa1da5e1dd299f874d80861fcdd61":[6,0,0,0,1,3,7,4,1,3,4,1],
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[6,0,0,0,1,3,7,4,1,3,4,3],
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22ab4fb50b126f3e0d71927aeebafe66b5d":[6,0,0,0,1,3,7,4,1,3,4,2],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html":[5,0,1880,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX376 =
 "df/d48/classspell__shield__generator__aura.html":[5,0,3726],
 "df/d48/classspell__shield__generator__aura.html#a16c2e931950102fc0ae5c88ef14587c1":[5,0,3726,0],
 "df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[5,0,3726,4],
-"df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[5,0,3726,1],
-"df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[5,0,3726,3],
-"df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[5,0,3726,2]
+"df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[5,0,3726,1]
 };

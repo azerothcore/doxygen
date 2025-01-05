@@ -1,5 +1,7 @@
 var NAVTREEINDEX354 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#aea75646687854c08eaee75c55718376d":[5,0,445,14],
+"de/d4a/structboss__fathomguard__tidalvess.html#af218abccb0b61e483dcc6d7a3313d99d":[5,0,445,6],
 "de/d4a/structnpc__anzu__spirit.html":[5,0,1567],
 "de/d4a/structnpc__anzu__spirit.html#a26f0928593f75d242c8bbcc541f7b59b":[5,0,1567,1],
 "de/d4a/structnpc__anzu__spirit.html#a9866d91ffc04548a96cfcdc3a5c7496a":[5,0,1567,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX354 =
 "de/d5b/classChargeRifts.html#aec98a12dec1f2ad98e00d399b0e2a1d5":[5,0,844,0],
 "de/d5c/classspell__warr__concussion__blow.html":[5,0,3910],
 "de/d5c/classspell__warr__concussion__blow.html#a68a86f7f86324336dc837622e01fa6af":[5,0,3910,0],
-"de/d5c/classspell__warr__concussion__blow.html#a8c0a4b3b96a93b6977c2d3077fdfff1d":[5,0,3910,1],
-"de/d5c/classspell__warr__concussion__blow.html#ad168c9164d1edd23abfbf05141b96de4":[5,0,3910,2],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html":[5,0,1333,0]
+"de/d5c/classspell__warr__concussion__blow.html#a8c0a4b3b96a93b6977c2d3077fdfff1d":[5,0,3910,1]
 };
