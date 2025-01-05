@@ -1,14 +1,11 @@
 var NAVTREEINDEX176 =
 {
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2241,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,5,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1857],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1857,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1857,2],
@@ -96,8 +93,8 @@ var NAVTREEINDEX176 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX176 =
 "d6/dbf/classTaskScheduler_1_1Task.html#a9acec30a90c44ffcff66c256a9caf01a":[6,0,4051,1,3],
 "d6/dbf/classTaskScheduler_1_1Task.html#a9f0573c5408a663c3874787eeb7d599e":[6,0,4051,1,11],
 "d6/dbf/classTaskScheduler_1_1Task.html#aa53b9d06447478218858aaff7634daab":[6,0,4051,1,5],
-"d6/dbf/classTaskScheduler_1_1Task.html#ab75a9caf07880e5ba2bb9f75068bbe7e":[6,0,4051,1,10]
+"d6/dbf/classTaskScheduler_1_1Task.html#ab75a9caf07880e5ba2bb9f75068bbe7e":[6,0,4051,1,10],
+"d6/dbf/classTaskScheduler_1_1Task.html#ac245f8900a292b6ad6ece4c44da85e11":[6,0,4051,1,8],
+"d6/dbf/classTaskScheduler_1_1Task.html#ad9b788727c5e8dfa5c424970f882b1dc":[6,0,4051,1,1],
+"d6/dbf/classTaskScheduler_1_1Task.html#ad9e890cbd7ed9ff7b8829e132605d432":[6,0,4051,1,14]
 };

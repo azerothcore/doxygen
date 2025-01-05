@@ -1,8 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#ae081898b8dcaf45cd3069e79021de452":[6,0,1619,0,2],
-"d2/df1/structnpc__archmage__landalock_1_1npc__archmage__landalockAI.html":[6,0,1575,0],
-"d2/df1/structnpc__archmage__landalock_1_1npc__archmage__landalockAI.html#a5e2fb6556bbb5cf22b77a72e9ccbc548":[6,0,1575,0,5],
 "d2/df1/structnpc__archmage__landalock_1_1npc__archmage__landalockAI.html#a8b59c414dfd46209dcc3d00531e2b98b":[6,0,1575,0,4],
 "d2/df1/structnpc__archmage__landalock_1_1npc__archmage__landalockAI.html#a8e2b48a9cf243b0d6f11286cf1e301c8":[6,0,1575,0,0],
 "d2/df1/structnpc__archmage__landalock_1_1npc__archmage__landalockAI.html#abad2f45c0a5c43cc7aa7867a0291133d":[6,0,1575,0,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#af9b9c30e9fba500ba3703c94847f2a4d":[7,0,0,0,1,2,14,1,72],
 "d2/df6/DBCStores_8h.html#afbbd418ece4304360cfb4707f79f5685":[7,0,0,0,1,2,14,1,80],
 "d2/df6/DBCStores_8h.html#afc09b0f1883b13e6251568b320502f3a":[7,0,0,0,1,2,14,1,23],
-"d2/df6/IpNetwork_8h.html":[7,0,0,0,0,0,3]
+"d2/df6/IpNetwork_8h.html":[7,0,0,0,0,0,3],
+"d2/df6/IpNetwork_8h.html#a2617cb1c747a45e5af4e2c32cc29d5de":[7,0,0,0,0,0,3,2],
+"d2/df6/IpNetwork_8h.html#af108d05a57113d16ab9c8f3b26870be2":[7,0,0,0,0,0,3,1],
+"d2/df6/IpNetwork_8h.html#af75b2c10ca445dc89c53b7ed8d17eae0":[7,0,0,0,0,0,3,0]
 };

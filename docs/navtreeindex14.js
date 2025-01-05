@@ -1,8 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[7,0,0,0,1,2,8,0,11,15,60],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3bd9cb7368abc36e9a221225a6ba6392":[7,0,0,0,1,2,8,0,11,15,9],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3eb5e05eee22dd0d729eea833e75a497":[7,0,0,0,1,2,8,0,11,15,81],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a40242685bc2ee57e15e215f139f0055e":[7,0,0,0,1,2,8,0,11,15,49],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a41d009259a7c821732836f5459b4888c":[7,0,0,0,1,2,8,0,11,15,91],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a45891e5b536fb15d65966670d361b4fe":[7,0,0,0,1,2,8,0,11,15,21],
@@ -249,5 +246,8 @@ var NAVTREEINDEX14 =
 "d0/d9b/classboss__gyth.html":[6,0,498],
 "d0/d9b/classboss__gyth.html#a286d19b0a6e317cb7e69343982b71062":[6,0,498,1],
 "d0/d9b/classboss__gyth.html#a3706cbdd1bfb16112653d31cfa971b30":[6,0,498,2],
-"d0/d9b/structboss__dalronn__the__controller.html":[6,0,402]
+"d0/d9b/structboss__dalronn__the__controller.html":[6,0,402],
+"d0/d9b/structboss__dalronn__the__controller.html#a1c3e44fe347e9c1ec45db19865bb5110":[6,0,402,7],
+"d0/d9b/structboss__dalronn__the__controller.html#a1d419cec78a9a8d6ceee3651c8054762":[6,0,402,4],
+"d0/d9b/structboss__dalronn__the__controller.html#a28a669b56392b599e124573778e33134":[6,0,402,2]
 };

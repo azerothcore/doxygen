@@ -328,7 +328,7 @@ var searchData=
   ['infinitycooldowndelay_325',['infinityCooldownDelay',['../d1/daf/Unit_8h.html#a76b85ce9200f098d29159574458e921e',1,'Unit.h']]],
   ['infinitycooldowndelaycheck_326',['infinityCooldownDelayCheck',['../d1/daf/Unit_8h.html#a12cb62c744887f9c3df04b223bb04080',1,'Unit.h']]],
   ['info_327',['Info',['../d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe',1,'WorldPackets::Guild::QueryGuildInfoResponse']]],
-  ['information_328',['Useful Information',['../d0/d30/md_README.html#autotoc_md2',1,'']]],
+  ['information_328',['Useful Information',['../index.html#autotoc_md2',1,'']]],
   ['informcloud_329',['InformCloud',['../da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a88f10087dc7cdb555f8f7b7363bed39e',1,'boss_yoggsaron_sara::boss_yoggsaron_saraAI']]],
   ['infotext_330',['infotext',['../db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975',1,'WorldPackets::Guild::GuildUpdateInfoText::InfoText'],['../de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6',1,'WorldPackets::Guild::GuildRoster::InfoText']]],
   ['infragreenbomberquests_331',['infraGreenBomberQuests',['../d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6d',1,'zone_icecrown.cpp']]],

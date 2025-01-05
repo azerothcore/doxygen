@@ -1,8 +1,5 @@
 var NAVTREEINDEX102 =
 {
-"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[6,0,4077,2],
-"d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[6,0,4077,1],
-"d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be":[6,0,4077,0],
 "d3/d89/classnpc__thassarian.html":[6,0,2125],
 "d3/d89/classnpc__thassarian.html#a82bde4555821f84a6d07a69669528313":[6,0,2125,1],
 "d3/d89/classnpc__thassarian.html#af4bbf5f6a63c3765355d6b70c2bda55b":[6,0,2125,2],
@@ -15,14 +12,14 @@ var NAVTREEINDEX102 =
 "d3/d8b/Geometry_8h.html#a95ce6760beb476a4c24ff46d3069103f":[7,0,0,0,0,15,13,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,31,7,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,31,7,3,0],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,31,7,3,4],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,7,3,4],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,31,7,3,3],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,31,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,31,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,31,7,3,1],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,31,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3859],
@@ -249,5 +246,8 @@ var NAVTREEINDEX102 =
 "d3/d93/classPathGenerator.html#a1eb4218f3306b633eaba93dec4694f94":[6,0,2342,35],
 "d3/d93/classPathGenerator.html#a1fcc03c45ec4fe9cf425fd05f776cef7":[6,0,2342,58],
 "d3/d93/classPathGenerator.html#a221f887587b2c2decf11d7da3fbac303":[6,0,2342,18],
-"d3/d93/classPathGenerator.html#a24008b472bf361d2f4c46a9644c66d00":[6,0,2342,22]
+"d3/d93/classPathGenerator.html#a24008b472bf361d2f4c46a9644c66d00":[6,0,2342,22],
+"d3/d93/classPathGenerator.html#a276eef917f78f0d5e2ae0cd94fc34fe5":[6,0,2342,42],
+"d3/d93/classPathGenerator.html#a2eb2d511355fd2759f95e4324a9b5fb1":[6,0,2342,21],
+"d3/d93/classPathGenerator.html#a30bd29c08ded1b2161f81af5654bb492":[6,0,2342,10]
 };

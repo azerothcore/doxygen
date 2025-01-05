@@ -1,8 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d3/d81/structsOnyxMove.html#a41c7bdb057d984f552a41835651d84f5":[6,0,2534,4],
-"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2534,3],
-"d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2534,1],
 "d3/d81/structsOnyxMove.html#a94c284d63e66765c4d484c8edea8fdb8":[6,0,2534,2],
 "d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2534,5],
 "d3/d81/structsOnyxMove.html#ac49d886d09e2ebf8ccf8abd59a9649ec":[6,0,2534,6],
@@ -249,5 +246,8 @@ var NAVTREEINDEX101 =
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c":[6,0,783,0,1],
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ae7457ed8084888b1074a44dd9a7ed0c7":[6,0,783,0,0],
 "d3/d88/SpellHandler_8cpp.html":[7,0,0,0,1,2,22,30],
-"d3/d88/structTotemCategoryEntry.html":[6,0,4077]
+"d3/d88/structTotemCategoryEntry.html":[6,0,4077],
+"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[6,0,4077,2],
+"d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[6,0,4077,1],
+"d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be":[6,0,4077,0]
 };

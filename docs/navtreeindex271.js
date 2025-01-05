@@ -1,8 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc":[6,0,1098,0,2],
-"db/d31/structgo__beacon_1_1go__beaconAI.html#a95f0f62d4e34da650c22a7ce796fc85f":[6,0,1098,0,0],
-"db/d31/structnpc__hive__zara__swarmer.html":[6,0,1812],
 "db/d31/structnpc__hive__zara__swarmer.html#a374fa63e210e0be8a074af9199126a9e":[6,0,1812,0],
 "db/d31/structnpc__hive__zara__swarmer.html#a3b3510bd00853395b756e1d83d96a474":[6,0,1812,1],
 "db/d32/classWardenMac.html":[6,0,4154],
@@ -249,5 +246,8 @@ var NAVTREEINDEX271 =
 "db/d43/classPacketLog.html#aea6ccfd41bc147557b7c5066fe18afa6":[6,0,2334,3],
 "db/d43/classPacketLog.html#aeffb6309ef859cbb346b15dc1fca5cbe":[6,0,2334,8],
 "db/d44/LinkedList_8h.html":[7,0,0,0,0,6,2],
-"db/d45/classnpc__steam__tonk.html":[6,0,2097]
+"db/d45/classnpc__steam__tonk.html":[6,0,2097],
+"db/d45/classnpc__steam__tonk.html#a19731e7f1bc6fe0220e8c28619ff7c50":[6,0,2097,1],
+"db/d45/classnpc__steam__tonk.html#a38e51485a3610a204a45677fce15c943":[6,0,2097,2],
+"db/d46/Reference_8h.html":[7,0,0,0,0,6,0,0]
 };

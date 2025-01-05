@@ -1,8 +1,5 @@
 var NAVTREEINDEX285 =
 {
-"db/dc8/structScriptedAI.html#a1ca3b73dcbf8a3e8b35c334a97a8dcf9":[6,0,2480,26],
-"db/dc8/structScriptedAI.html#a24d913e15199a26fe8e57a368ed9112a":[6,0,2480,54],
-"db/dc8/structScriptedAI.html#a24f0336fca3874e1f167e6b28289ff1d":[6,0,2480,21],
 "db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9":[6,0,2480,45],
 "db/dc8/structScriptedAI.html#a3109a39616dac324a0cf2c043d905919":[6,0,2480,22],
 "db/dc8/structScriptedAI.html#a3576525c6a84c0110304496b935929eb":[6,0,2480,53],
@@ -103,14 +100,14 @@ var NAVTREEINDEX285 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2647,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,22,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,22,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,22,4,2],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,22,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,22,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3586],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html#a125f7550ce826f74ac14902bc82d5021":[6,0,3586,1],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html#a35e9132e2414383caafbde699de6061d":[6,0,3586,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX285 =
 "db/dce/classAura.html#ae88253dbdddede64cf443796dc155852":[6,0,263,55],
 "db/dce/classAura.html#aeb7fadeb3b25c9d5a2903e5c1ea06ff2":[6,0,263,141],
 "db/dce/classAura.html#af0236680754f81e374b015640e4b6eff":[6,0,263,30],
-"db/dce/classAura.html#af22450afa8bf33c979c0a0f7d801ab4c":[6,0,263,130]
+"db/dce/classAura.html#af22450afa8bf33c979c0a0f7d801ab4c":[6,0,263,130],
+"db/dce/classAura.html#af32b9da81a73be723f660ae4e3363e74":[6,0,263,135],
+"db/dce/classAura.html#af64f07e2756640cb9caf21433bd4e2b6":[6,0,263,73],
+"db/dce/classAura.html#af70f37c9e40b7038cf952c2969ae9ab2":[6,0,263,86]
 };

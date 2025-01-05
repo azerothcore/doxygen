@@ -1,8 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cac0db7c2e9ed4be044bbd919420e74d08":[7,0,0,0,1,3,5,24,22,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
-"d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1],
 "d8/dda/WaypointMgr_8h.html#a3884c0cb3f926b9869757242cf112630":[7,0,0,0,1,2,31,2,1,3],
 "d8/dda/WaypointMgr_8h.html#a4022be9e8c89b6ab197c2564c77b52c5":[7,0,0,0,1,2,31,2,1,4],
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,1,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX223 =
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea02d0ac7029987e0c6c4afd37ddaae4c9":[7,0,0,0,1,2,8,0,19,10,17],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea07b151af8957c4730fe07f4c14290b05":[7,0,0,0,1,2,8,0,19,10,2],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea1c2e72b4533d78c59ed347490fe72517":[7,0,0,0,1,2,8,0,19,10,12],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea20239b336b99084edad9f45aa637fb98":[7,0,0,0,1,2,8,0,19,10,9]
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea20239b336b99084edad9f45aa637fb98":[7,0,0,0,1,2,8,0,19,10,9],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2149a4c21e32a6b98b5c52356bce9e0d":[7,0,0,0,1,2,8,0,19,10,3],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea28d751da34358f47b2275f79552f141c":[7,0,0,0,1,2,8,0,19,10,15],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2cf04af92e948da7904271426dbe405f":[7,0,0,0,1,2,8,0,19,10,18]
 };

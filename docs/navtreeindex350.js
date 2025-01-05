@@ -1,8 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a8ddd21047a857facc767a9edc0ec5408":[6,0,2242,0,2],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#aaeca9e73520701ce28f2cc9d1483cc6b":[6,0,2242,0,0],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2242,0,3],
 "de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,722],
 "de/d28/classboss__thorim__gauntlet__npcs.html#a2a71153ed2a9091de6668ab0b6f7674f":[6,0,722,2],
 "de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,722,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX350 =
 "de/d30/SpellMgr_8h.html#a69bbd3906e9d334176d6a0ffde617490":[7,0,0,0,1,2,41,9,26],
 "de/d30/SpellMgr_8h.html#a6ff6942e4e3e7cb8a0e686d4cd15663d":[7,0,0,0,1,2,41,9,34],
 "de/d30/SpellMgr_8h.html#a729c75c0a1016cc9e4d93d87f6b894bc":[7,0,0,0,1,2,41,9,47],
-"de/d30/SpellMgr_8h.html#a7c0cdd053514c40a2feec0fec57fcbfb":[7,0,0,0,1,2,41,9,54]
+"de/d30/SpellMgr_8h.html#a7c0cdd053514c40a2feec0fec57fcbfb":[7,0,0,0,1,2,41,9,54],
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136a":[7,0,0,0,1,2,41,9,58],
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83":[7,0,0,0,1,2,41,9,58,0],
+"de/d30/SpellMgr_8h.html#a8376fb57333e49309455eb6a5389938d":[7,0,0,0,1,2,41,9,25]
 };

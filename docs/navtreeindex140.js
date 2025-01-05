@@ -1,8 +1,5 @@
 var NAVTREEINDEX140 =
 {
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[5,0,1,28,1],
-"d5/d09/classPetAura.html":[6,0,2351],
-"d5/d09/classPetAura.html#a216021a7ad893ae6ca65ea068dd6eedb":[6,0,2351,8],
 "d5/d09/classPetAura.html#a38087712cef92ad55dc84f96e2b9e300":[6,0,2351,5],
 "d5/d09/classPetAura.html#a6c020340ff467b5f2d00c3b5f9fee817":[6,0,2351,0],
 "d5/d09/classPetAura.html#a6f8318410229a89e0b3aa2af28d6cb2b":[6,0,2351,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX140 =
 "d5/d17/structnpc__love__in__air__snivel__real.html#ab1685b1ee34c81c689af3c3466b185f0":[6,0,1906,3],
 "d5/d18/classnpc__grimstone.html":[6,0,1786],
 "d5/d18/classnpc__grimstone.html#a24cf0aa69ac28c13ac3c44e14c35406c":[6,0,1786,2],
-"d5/d18/classnpc__grimstone.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb":[6,0,1786,1]
+"d5/d18/classnpc__grimstone.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb":[6,0,1786,1],
+"d5/d19/classspell__shockwave__knockback.html":[6,0,3731],
+"d5/d19/classspell__shockwave__knockback.html#a162f60784fdec6b748151e5c2a7ed257":[6,0,3731,3],
+"d5/d19/classspell__shockwave__knockback.html#a1cc140d2b5487e9dbbf107025e09e51d":[6,0,3731,2]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX300 =
 {
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac565bfbde4cd8bf5f38c76981c61dc33":[7,0,0,0,1,3,5,11,0,3,10],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7":[7,0,0,0,1,3,5,11,0,3,1],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,11,0,3,11],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af1861518bf62b7830a159108cf310f07":[7,0,0,0,1,3,5,11,0,3,4],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af8cd99d54ceae1b1a250c4ad585ab79d":[7,0,0,0,1,3,5,11,0,3,7],
 "dc/d41/boss__archavon_8cpp.html#ad1aff64c18cd0f2107efa6558feccc87":[7,0,0,0,1,3,5,11,0,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX300 =
 "dc/d56/structStoredLootItem.html#a25c63cc5a94ecc3bf803e83be5aabc39":[6,0,4034,2],
 "dc/d56/structStoredLootItem.html#a32da4030f3e58b7fae5001511c6caa40":[6,0,4034,0],
 "dc/d56/structStoredLootItem.html#a41a3c4caf90fc8c42d2e0e5192201d19":[6,0,4034,4],
-"dc/d56/structStoredLootItem.html#a801a125a5035167f3f511560a29808c4":[6,0,4034,6]
+"dc/d56/structStoredLootItem.html#a801a125a5035167f3f511560a29808c4":[6,0,4034,6],
+"dc/d56/structStoredLootItem.html#a895cc61dd542959c3726dbc54abf7434":[6,0,4034,5],
+"dc/d56/structStoredLootItem.html#a9be27c3407923df6b15bef993dd58830":[6,0,4034,1],
+"dc/d56/structStoredLootItem.html#ac945688a64f92c40ada1abd5847d9b0d":[6,0,4034,3]
 };

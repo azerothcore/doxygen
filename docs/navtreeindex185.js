@@ -1,8 +1,5 @@
 var NAVTREEINDEX185 =
 {
-"d7/d2f/classspell__mage__blast__wave.html#a860fb74000a42a7d6f22d17dde93cdf6":[6,0,3321,0],
-"d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[6,0,3321,1],
-"d7/d2f/classspell__mage__blast__wave.html#ac62f4fdf003cdd53650fe632b3ed3ef1":[6,0,3321,2],
 "d7/d2f/classspell__mage__blast__wave.html#add1bd8f583772d4dfeb20f01b9fac8ed":[6,0,3321,3],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html":[6,0,3593],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a20f7416465ba1cc04426f24037e8074e":[6,0,3593,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX185 =
 "d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[6,0,1736,2],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html":[6,0,3380],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a013e9e0eef93583722f7d347c2ebbc49":[6,0,3380,4],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a2537b325ff57b867092f3d9a1bd0fa8b":[6,0,3380,5]
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a2537b325ff57b867092f3d9a1bd0fa8b":[6,0,3380,5],
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a524c071390365b7dab59bc7a79b50f15":[6,0,3380,3],
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a60deabce505dd3993dca0e71402dc190":[6,0,3380,1],
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a9a2fae625718f854ec5d2587a01a2da7":[6,0,3380,2]
 };

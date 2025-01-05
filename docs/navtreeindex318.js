@@ -1,8 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"dd/d3b/structGameObjectTemplate.html#a31e6f93a512a1043b69020225e77eb34":[6,0,1070,14],
-"dd/d3b/structGameObjectTemplate.html#a32ad02505bf60c19a26cf9a5729dd42b":[6,0,1070,106],
-"dd/d3b/structGameObjectTemplate.html#a354e13e46bcce767d7850bf82d4a17b6":[6,0,1070,44],
 "dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[6,0,1070,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[6,0,1070,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[6,0,1070,19],
@@ -249,5 +246,8 @@ var NAVTREEINDEX318 =
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[6,0,1795,0,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[6,0,1920,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[6,0,1920,0,1],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1920,0,3]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1920,0,3],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[6,0,1920,0,6],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[6,0,1920,0,2],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[6,0,1920,0,0]
 };

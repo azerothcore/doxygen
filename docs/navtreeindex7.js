@@ -1,8 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"d0/d60/SpellDefines_8h.html#a9712a6b6a8f9f5f194085aed5e4ef7b4":[7,0,0,0,1,2,41,3,3],
-"d0/d60/SpellDefines_8h.html#a9714315fea51314dc7b5f61e56a03211":[7,0,0,0,1,2,41,3,8],
-"d0/d60/SpellDefines_8h.html#a9714315fea51314dc7b5f61e56a03211a2ad272b579814ab99a7e831afdabdc1d":[7,0,0,0,1,2,41,3,8,0],
 "d0/d60/SpellDefines_8h.html#a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb":[7,0,0,0,1,2,41,3,8,1],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967":[7,0,0,0,1,2,41,3,12],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a047db1b783fd12cf86cbc55687456ed7":[7,0,0,0,1,2,41,3,12,18],
@@ -47,12 +44,12 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,3809,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,3809,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3809,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,1,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,1,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2285,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2285,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2285,0,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX7 =
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da01677503ea95582bedb4bd6396f037e1":[7,0,0,0,1,3,7,11,8,11],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da1d5b2ff1254efae5b9ebff19733b070a":[7,0,0,0,1,3,7,11,8,13],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da23c48674cfb86f376ec29a45dfc7bae7":[7,0,0,0,1,3,7,11,8,1],
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da3ccb8a60d8d82c84658c9eb76cee2bdb":[7,0,0,0,1,3,7,11,8,10]
+"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da3ccb8a60d8d82c84658c9eb76cee2bdb":[7,0,0,0,1,3,7,11,8,10],
+"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da415a94ee05b8fad2385a6988ab1c554c":[7,0,0,0,1,3,7,11,8,3],
+"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183":[7,0,0,0,1,3,7,11,8,4],
+"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da8a33a6376ae25b08e61a6c434797a76c":[7,0,0,0,1,3,7,11,8,9]
 };

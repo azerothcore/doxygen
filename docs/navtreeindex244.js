@@ -1,8 +1,5 @@
 var NAVTREEINDEX244 =
 {
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a2d56572acf042ba34f468f0ff3b0bd1a":[6,0,1731,0,3],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a9322622f679dbc311bd8983f5037bd2e":[6,0,1731,0,1],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#aa487c906c1c0d15dc7761c7288e7d3c6":[6,0,1731,0,0],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#adc3d04d66f2b4de7a970f2cd5e476a2b":[6,0,1731,0,4],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#afa6825696b0622849f877b392df4b326":[6,0,1731,0,5],
 "da/d07/classByteBuffer.html":[6,0,810],
@@ -58,8 +55,8 @@ var NAVTREEINDEX244 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[6,0,810,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[6,0,810,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[6,0,810,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,810,59],
 "da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,810,58],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,810,59],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[6,0,810,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[6,0,810,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[6,0,810,69],
@@ -249,5 +246,8 @@ var NAVTREEINDEX244 =
 "da/d15/classSpellScript_1_1EffectHandler.html#a88fbf00b2e35c462423ddeff55ac3dee":[6,0,4011,4,4],
 "da/d15/classSpellScript_1_1EffectHandler.html#a8eeff14be65159b6f9a88b04abe14e8b":[6,0,4011,4,2],
 "da/d15/classSpellScript_1_1EffectHandler.html#aebdff9758b3ec51a75220be43b0d7b44":[6,0,4011,4,0],
-"da/d16/classspell__q10714__on__spirits__wings.html":[6,0,3530]
+"da/d16/classspell__q10714__on__spirits__wings.html":[6,0,3530],
+"da/d16/classspell__q10714__on__spirits__wings.html#a2b4811bf7e60361e13bc382e62173cee":[6,0,3530,1],
+"da/d16/classspell__q10714__on__spirits__wings.html#a73358b2272ad12faef006b1ef633cac0":[6,0,3530,4],
+"da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[6,0,3530,3]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d5e/classNecroticPlagueTargetCheck.html#abf9c21cc0041e5981a91abce8fb0a58f":[6,0,1524,0],
-"da/d5e/classNecroticPlagueTargetCheck.html#affa9b300cd7a7469b0bdf2a72d380dd6":[6,0,1524,3],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html":[5,0,19,14],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html":[6,0,5,14],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[6,0,5,14,4],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[5,0,19,14,4],
@@ -16,16 +13,16 @@ var NAVTREEINDEX251 =
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[6,0,5,14,1],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[5,0,19,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[6,0,5,14,2],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,19,14,6],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[6,0,5,14,6],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[5,0,19,14,8],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,19,14,6],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[6,0,5,14,8],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,19,14,9],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[5,0,19,14,8],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[6,0,5,14,9],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,19,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,19,14,9],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[6,0,5,14,7],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[6,0,5,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,19,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,19,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[6,0,5,14,0],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html":[6,0,1268,0],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a16315f7921b1960c7720f855cdddee96":[6,0,1268,0,9],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a18488afb78747a35ce7e3b4b9a2468b5":[6,0,1268,0,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX251 =
 "da/d70/AuctionHouseSearcher_8h.html#a1b900c09f81e1b28037da303e33bd597":[7,0,0,0,1,2,5,3,19],
 "da/d70/AuctionHouseSearcher_8h.html#a7cad31f048914034b12550129308e80e":[7,0,0,0,1,2,5,3,22],
 "da/d70/AuctionHouseSearcher_8h.html#a7d6d8287b2adf4a3caae16ed69a8519d":[7,0,0,0,1,2,5,3,23],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420":[7,0,0,0,1,2,5,3,24]
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420":[7,0,0,0,1,2,5,3,24],
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595":[7,0,0,0,1,2,5,3,24,3],
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a":[7,0,0,0,1,2,5,3,24,8],
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215":[7,0,0,0,1,2,5,3,24,2]
 };

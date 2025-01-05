@@ -1,8 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5211ce30aa273f9b084f0a18f1b90ed6":[7,0,0,0,1,3,5,3,1,6,3],
-"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5216547b0d407e13c51118fdb18309a3":[7,0,0,0,1,3,5,3,1,6,11],
-"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8faf1c82659032d221c0cd29cfa03576":[7,0,0,0,1,3,5,3,1,6,9],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91c6e3cf358f18fcb1af298f61e707ef":[7,0,0,0,1,3,5,3,1,6,6],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d211e1034e51a7cae966447a6786576":[7,0,0,0,1,3,5,3,1,6,1],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac606e675601adab10c842ebb8e996148":[7,0,0,0,1,3,5,3,1,6,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX63 =
 "d2/d62/AuthCodes_8cpp.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,0,1],
 "d2/d62/classat__zulgurub__temple__speech.html":[6,0,239],
 "d2/d62/classat__zulgurub__temple__speech.html#ab727ad7cb7f0a0e8309bbab233766cde":[6,0,239,0],
-"d2/d62/classat__zulgurub__temple__speech.html#afd42cd408df7562a9dcd91e33750f3d4":[6,0,239,1]
+"d2/d62/classat__zulgurub__temple__speech.html#afd42cd408df7562a9dcd91e33750f3d4":[6,0,239,1],
+"d2/d63/structSlotInfo.html":[6,0,2519],
+"d2/d63/structSlotInfo.html#a28ff8bdab669f7b4aec95857cc460a2f":[6,0,2519,1],
+"d2/d63/structSlotInfo.html#ac2f21814be8269023a2069f3eb03dfe2":[6,0,2519,0]
 };

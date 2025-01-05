@@ -1,8 +1,5 @@
 var NAVTREEINDEX100 =
 {
-"d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html#aebdbf8f4c2fe6948c78315e6b404119b":[6,0,1901,0,0],
-"d3/d73/Realm_8cpp.html":[7,0,0,0,1,4,3,0],
-"d3/d73/WorldPacket_8h.html":[7,0,0,0,1,2,39,4],
 "d3/d73/classIceTombSummonEvent.html":[6,0,1249],
 "d3/d73/classIceTombSummonEvent.html#a1b95617b511dfa7868c59dbdf7e6c4c7":[6,0,1249,2],
 "d3/d73/classIceTombSummonEvent.html#a2ead0e5f6eb0c32f5c11f38e667b65d3":[6,0,1249,0],
@@ -228,8 +225,8 @@ var NAVTREEINDEX100 =
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,8],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,19,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,19,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,19,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,19,4,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX100 =
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a7cfcac5dbe4562268679ddceaf8ec8ea":[6,0,1282,0,4],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#aebc047b45cb4560a38df89db75f8efab":[6,0,1282,0,0],
 "d3/d81/structsOnyxMove.html":[6,0,2534],
-"d3/d81/structsOnyxMove.html#a126d1c0e7d475a07acd91de471cb7cab":[6,0,2534,0]
+"d3/d81/structsOnyxMove.html#a126d1c0e7d475a07acd91de471cb7cab":[6,0,2534,0],
+"d3/d81/structsOnyxMove.html#a41c7bdb057d984f552a41835651d84f5":[6,0,2534,4],
+"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2534,3],
+"d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2534,1]
 };

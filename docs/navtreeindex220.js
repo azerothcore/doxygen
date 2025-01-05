@@ -1,8 +1,5 @@
 var NAVTREEINDEX220 =
 {
-"d8/db8/boss__gothik_8cpp.html#aa24d3d964dd3e1763d41ecf0d688458c":[7,0,0,0,1,3,5,7,4,9],
-"d8/db8/boss__gothik_8cpp.html#acaaee73ac1505d7aa99cf52b53127b0a":[7,0,0,0,1,3,5,7,4,21],
-"d8/db8/boss__gothik_8cpp.html#ad42058ab3d240d516651468d3d624008":[7,0,0,0,1,3,5,7,4,8],
 "d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7":[7,0,0,0,1,3,5,7,4,12],
 "d8/db8/boss__gothik_8cpp.html#aee5606dfbe589b8aca39906b99d82b99":[7,0,0,0,1,3,5,7,4,13],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,4,14],
@@ -105,8 +102,8 @@ var NAVTREEINDEX220 =
 "d8/dbc/classspell__najentus__hurl__spine.html#a0296aa3d00d0d12e213d95b8520c50dc":[6,0,3401,1],
 "d8/dbc/classspell__najentus__hurl__spine.html#a4cd7135ff9e4ef605635f1eccc01ba65":[6,0,3401,2],
 "d8/dbc/classspell__najentus__hurl__spine.html#ab105ff1efd0fe20585ac3dc6c60f81a2":[6,0,3401,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,1,38],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[6,0,0,26],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,1,38],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[6,0,0,26,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,1,38,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,1,38,2],
@@ -119,8 +116,8 @@ var NAVTREEINDEX220 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[6,0,0,26,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,1,38,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[6,0,0,26,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[6,0,0,26,6],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[5,0,1,38,6],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[6,0,0,26,6],
 "d8/dbd/structnpc__netherspite__infernal.html":[6,0,1949],
 "d8/dbd/structnpc__netherspite__infernal.html#a49c37fbebed2951c493962c1a3bd0339":[6,0,1949,3],
 "d8/dbd/structnpc__netherspite__infernal.html#a575040456c0eb4d343e7c0c5f75159b4":[6,0,1949,6],
@@ -218,8 +215,8 @@ var NAVTREEINDEX220 =
 "d8/dbf/classspell__hallows__end__base__fire.html#ae2ce9c161a25385c6de1f4b7607c9935":[6,0,3012,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,1,8,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[6,0,0,5,0,10],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,1,8,0,10,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[6,0,0,5,0,10,0],
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,1,8,0,10,0],
 "d8/dbf/structLFGDungeonEntry.html":[6,0,1386],
 "d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[6,0,1386,8],
 "d8/dbf/structLFGDungeonEntry.html#a2e6456d16cce98666b0ac63cebf0eb82":[6,0,1386,10],
@@ -249,5 +246,8 @@ var NAVTREEINDEX220 =
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a127c36f01e2ddfeb26f3192a1db8ffaf":[6,0,1682,0,2],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a1872c99adfb913f28ff5859e05edcdf0":[6,0,1682,0,12],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a1a63af278109662a6dc6bc814d2363a7":[6,0,1682,0,11],
-"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a3076964de32f12d70d41677fb626719b":[6,0,1682,0,7]
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a3076964de32f12d70d41677fb626719b":[6,0,1682,0,7],
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a3f4d42544edf6443ed360477abaaba64":[6,0,1682,0,8],
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a4b0c5d69a7563b2f4f399a60010378a9":[6,0,1682,0,13],
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a56509a3338d5887667f63d1f6a04af98":[6,0,1682,0,9]
 };

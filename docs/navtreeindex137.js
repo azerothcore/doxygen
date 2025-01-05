@@ -1,8 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/dd8/structAchievementCriteriaData.html#adaa288b2266b6704f2310285035b3b92":[6,0,109,34],
-"d4/dd8/structAchievementCriteriaData.html#adebbc6d9212e12ba060ff9968d6e9364":[6,0,109,6],
-"d4/dd8/structAchievementCriteriaData.html#ae0c5209dfb2cf9e19b7702e18a4ba3f6":[6,0,109,29],
 "d4/dd8/structAchievementCriteriaData.html#aeb569026e19e7a097601d7a916136912":[6,0,109,7],
 "d4/dd8/structAchievementCriteriaData.html#af417eb1063ef86212128bdc05c6f278a":[6,0,109,19],
 "d4/dd9/structAchievementCriteriaEntry.html":[6,0,111],
@@ -234,10 +231,10 @@ var NAVTREEINDEX137 =
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[6,0,11,5,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[6,0,11,5,35,1],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,5,35,1],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,5,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[6,0,11,5,35,0],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,31,5,35,3],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,5,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[6,0,11,5,35,3],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,31,5,35,3],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[6,0,11,5,35,2],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[5,0,31,5,35,2],
 "d4/de2/classlfg__commandscript.html":[6,0,1385],
@@ -249,5 +246,8 @@ var NAVTREEINDEX137 =
 "d4/de2/classlfg__commandscript.html#a93db689dbdb97a0318d62409a863767e":[6,0,1385,2],
 "d4/de2/classlfg__commandscript.html#acdf12aff45f16904df5724ab158e3b97":[6,0,1385,5],
 "d4/de2/classspell__warr__charge.html":[6,0,3912],
-"d4/de2/classspell__warr__charge.html#a0b107442c0b76a018cc019f776c0b785":[6,0,3912,3]
+"d4/de2/classspell__warr__charge.html#a0b107442c0b76a018cc019f776c0b785":[6,0,3912,3],
+"d4/de2/classspell__warr__charge.html#a3af91500357eb127f813334bdf538dbd":[6,0,3912,0],
+"d4/de2/classspell__warr__charge.html#add4e4d484008d1e1cf63e36c6b6e9757":[6,0,3912,2],
+"d4/de2/classspell__warr__charge.html#ae34ff5e6027efecc34fa770690df5887":[6,0,3912,1]
 };

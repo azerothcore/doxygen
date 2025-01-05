@@ -1,14 +1,11 @@
 var NAVTREEINDEX240 =
 {
-"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
-"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
-"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -249,5 +246,8 @@ var NAVTREEINDEX240 =
 "d9/dd7/CreatureAIRegistry_8cpp.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,7,0],
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html":[6,0,3820],
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a399fc30c23c03d3c4964ec23faed7c18":[6,0,3820,2],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4":[6,0,3820,1]
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4":[6,0,3820,1],
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a4ee6fe23e45481eea16f77d8de72742e":[6,0,3820,3],
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d":[6,0,3820,4],
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[6,0,3820,0]
 };

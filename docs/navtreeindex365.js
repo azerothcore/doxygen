@@ -1,8 +1,5 @@
 var NAVTREEINDEX365 =
 {
-"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[6,0,3521,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[6,0,1262,0],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a1ef3dc88400345998d03f3c993b9a181":[6,0,1262,0,2],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a3a2776b83272d81de9ddcb0c90ac881c":[6,0,1262,0,3],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a7a99d985a4b465ae87c04211a7a83a77":[6,0,1262,0,1],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[6,0,1262,0,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX365 =
 "de/dc1/classadt__MCNK.html#afd186be00432e7c4f44d6372a22e1d10":[6,0,134,20],
 "de/dc1/classadt__MCNK.html#aff83e30524adb734334ed235dcf2ef8f":[6,0,134,36],
 "de/dc1/underbog_8cpp.html":[7,0,0,0,1,3,7,2,3,6],
-"de/dc1/underbog_8cpp.html#a597f861031d65ff9c7c3da68293f6847":[7,0,0,0,1,3,7,2,3,6,3]
+"de/dc1/underbog_8cpp.html#a597f861031d65ff9c7c3da68293f6847":[7,0,0,0,1,3,7,2,3,6,3],
+"de/dc1/underbog_8cpp.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3":[7,0,0,0,1,3,7,2,3,6,3,0],
+"de/dc1/underbog_8cpp.html#a8c9725cac978bfa0eb0405faa6588549":[7,0,0,0,1,3,7,2,3,6,5],
+"de/dc1/underbog_8cpp.html#aba9ed07daed7ae7df6becb96f5194f52":[7,0,0,0,1,3,7,2,3,6,4]
 };

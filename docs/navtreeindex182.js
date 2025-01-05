@@ -1,8 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d7/d0a/structB32Impl.html#ace6b211be8a36043942f0a1aaee063b1":[6,0,281,3],
-"d7/d0a/structB32Impl.html#af099d69cc636a7ad298ec9e38b2f20d2":[6,0,281,4],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html":[6,0,432,0],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a056aa8fd704d832e83735cf2a1a22888":[6,0,432,0,7],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a16d2b13fcf3dfa513813669b44712c4c":[6,0,432,0,3],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a25eed717395b4e1ca5504d2d473e2500":[6,0,432,0,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX182 =
 "d7/d1e/structnpc__warchief__portal.html":[6,0,2233],
 "d7/d1e/structnpc__warchief__portal.html#a1a52395a5ae66f5cc5f92c6d4ce81893":[6,0,2233,0],
 "d7/d1e/structnpc__warchief__portal.html#a538ab8c6e7683aa02e8c75f9dd900be8":[6,0,2233,2],
-"d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2233,4]
+"d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2233,4],
+"d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2233,3],
+"d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2233,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5]
 };

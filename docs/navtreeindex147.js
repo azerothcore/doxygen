@@ -1,8 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94":[6,0,898,23],
-"d5/d79/classCreatureAI.html#ae99cf5a9b542173bf08aa21de2319a51":[6,0,898,45],
-"d5/d79/classCreatureAI.html#aea867029296aaa7739a5d46c4294105f":[6,0,898,14],
 "d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819":[6,0,898,62],
 "d5/d79/classCreatureAI.html#afa92eeb50af35d0c7ab49c90509d0a57":[6,0,898,38],
 "d5/d79/classCreatureAI.html#afd0302ecfe6e2381dc2bc5f89f2c2152":[6,0,898,33],
@@ -34,8 +31,8 @@ var NAVTREEINDEX147 =
 "d5/d79/structnpc__telonicus.html#af8ba6be2d39463725bbbaf7770319a93":[6,0,2120,0],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,52],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html":[6,0,0,40],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[6,0,0,40,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[5,0,1,52,2],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[6,0,0,40,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[5,0,1,52,3],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[6,0,0,40,3],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[5,0,1,52,0],
@@ -77,16 +74,16 @@ var NAVTREEINDEX147 =
 "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5399086bf936186e2d5e143fad34032":[7,0,0,0,1,3,5,8,1,4,3,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[5,0,31,21],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[6,0,11,21],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[5,0,31,21,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[6,0,11,21,0],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[5,0,31,21,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,31,21,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[6,0,11,21,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,31,21,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[6,0,11,21,3],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,31,21,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[6,0,11,21,5],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,31,21,1],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,31,21,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[6,0,11,21,1],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,31,21,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,31,21,4],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[6,0,11,21,4],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html":[6,0,1858],
@@ -249,5 +246,8 @@ var NAVTREEINDEX147 =
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2d5badfefa3cb8bb1f536115393710a4":[7,0,0,0,1,3,4,9,0,6,0],
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a56e0821bb6ae7b6cf482a6b16894e53b":[7,0,0,0,1,3,4,9,0,6,3],
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88e97536616442f7ddda59ad6763283e":[7,0,0,0,1,3,4,9,0,6,1],
-"d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acf2aea2187e0ab101767dfcafba6d735":[7,0,0,0,1,3,4,9,0,6,2]
+"d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acf2aea2187e0ab101767dfcafba6d735":[7,0,0,0,1,3,4,9,0,6,2],
+"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,0,7],
+"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,9,0,7,2],
+"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a7799016b55afde2db1b879d1a71ad9":[7,0,0,0,1,3,4,9,0,7,9]
 };

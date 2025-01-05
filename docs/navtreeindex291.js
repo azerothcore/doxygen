@@ -1,8 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/df1/structboss__terestian__illhoof.html#a0007e35a38efce5edada2f47a9bb89c6":[6,0,708,7],
-"db/df1/structboss__terestian__illhoof.html#a2f25021cfbc9e466d73c13de8116d8f1":[6,0,708,6],
-"db/df1/structboss__terestian__illhoof.html#a5750bf4f12ac01216335a926f885e136":[6,0,708,0],
 "db/df1/structboss__terestian__illhoof.html#a685b00f0e3317740412adfc48df1c3fb":[6,0,708,5],
 "db/df1/structboss__terestian__illhoof.html#a8b156654dbd75a4a7626edf30a8aae78":[6,0,708,3],
 "db/df1/structboss__terestian__illhoof.html#a9039c0fb905e72e659ce62f9d36593ce":[6,0,708,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX291 =
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a606f7af45e95db31d83434f773f49c28":[7,0,0,0,1,3,9,8,86,5],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6474a07bde766d299fee1fabe61075da":[7,0,0,0,1,3,9,8,86,13],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6b4e4e3dbb139e67c67940b0022e1ba7":[7,0,0,0,1,3,9,8,86,11],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6edf004590c39a20deadab7e311be4ac":[7,0,0,0,1,3,9,8,86,18]
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6edf004590c39a20deadab7e311be4ac":[7,0,0,0,1,3,9,8,86,18],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,9,8,86,1],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a75f2bd8178978b50d3468b559443d53f":[7,0,0,0,1,3,9,8,86,12],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212ab615aa6946f4f3296576bd7a171642a1":[7,0,0,0,1,3,9,8,86,16]
 };

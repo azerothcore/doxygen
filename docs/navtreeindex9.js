@@ -1,8 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"d0/d77/classLog.html#a7ae682c6d1aa26dd2cbda948d41871f6":[6,0,1411,40],
-"d0/d77/classLog.html#a7ba6f988f6a9235fb7f9ac89ed912db5":[6,0,1411,0],
-"d0/d77/classLog.html#a7e23ad189250d8c51b34bb5b4b1fef4a":[6,0,1411,4],
 "d0/d77/classLog.html#a8f2cd954bb95f88d4ae4450f4a4234c1":[6,0,1411,23],
 "d0/d77/classLog.html#a90022da6d95dcba62a2b1a57c351939b":[6,0,1411,35],
 "d0/d77/classLog.html#a90c6e536169d36106b583f14e1df221d":[6,0,1411,38],
@@ -179,14 +176,14 @@ var NAVTREEINDEX9 =
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,1,32],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[5,0,1,32,5],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[6,0,0,20,5],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[6,0,0,20,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,32,1],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[6,0,0,20,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,32,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[6,0,0,20,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[6,0,0,20,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[5,0,1,32,6],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[6,0,0,20,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,1,32,0],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[6,0,0,20,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[5,0,1,32,4],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[6,0,0,20,4],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[6,0,0,20,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX9 =
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca4a10ee0a0c5215670f072985959f0a22":[7,0,0,0,1,3,5,6,2,26,0],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca56b4514bd7c1707e61efc04a743e968b":[7,0,0,0,1,3,5,6,2,26,17],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca649bb7a38a15f0e52bc66be464a3df4a":[7,0,0,0,1,3,5,6,2,26,8],
-"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca7c9ad0826df80107da6cefb83c9f4532":[7,0,0,0,1,3,5,6,2,26,2]
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca7c9ad0826df80107da6cefb83c9f4532":[7,0,0,0,1,3,5,6,2,26,2],
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a1743243d3d57b31390dd0e6649c253":[7,0,0,0,1,3,5,6,2,26,5],
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caa45183e935a9bd2291029e1186a118d8":[7,0,0,0,1,3,5,6,2,26,13],
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caadbea51043452c394f0b2c5b17641807":[7,0,0,0,1,3,5,6,2,26,1]
 };

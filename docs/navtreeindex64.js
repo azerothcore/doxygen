@@ -1,8 +1,5 @@
 var NAVTREEINDEX64 =
 {
-"d2/d63/structSlotInfo.html":[6,0,2519],
-"d2/d63/structSlotInfo.html#a28ff8bdab669f7b4aec95857cc460a2f":[6,0,2519,1],
-"d2/d63/structSlotInfo.html#ac2f21814be8269023a2069f3eb03dfe2":[6,0,2519,0],
 "d2/d63/structSlotInfo.html#ac47af49622012b4ad40357cadc5214b3":[6,0,2519,2],
 "d2/d64/BattlegroundSA_8cpp.html":[7,0,0,0,1,2,8,0,18],
 "d2/d64/BattlegroundSA_8cpp.html#a1197e8f288608511601a41e8e8ea80ce":[7,0,0,0,1,2,8,0,18,1],
@@ -182,8 +179,8 @@ var NAVTREEINDEX64 =
 "d2/d6e/structVMAP_1_1AreaInfo.html":[6,0,9,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,28,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[6,0,9,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,28,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[6,0,9,1,6],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,28,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,9,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,28,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX64 =
 "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html":[6,0,1606,0],
 "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a45481c2ef18ab3fec727813de96eb1b6":[6,0,1606,0,6],
 "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a61f3bcbf36e630bbb455405eb89ccf00":[6,0,1606,0,11],
-"d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a88ff13ec705d11475de5a2080998c905":[6,0,1606,0,7]
+"d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a88ff13ec705d11475de5a2080998c905":[6,0,1606,0,7],
+"d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#aa18258b7f80c040d6a5fb9fbbb321efe":[6,0,1606,0,5],
+"d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#aa5124160ecba044a3752f68945068776":[6,0,1606,0,12],
+"d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#ab03f29b1f76b7d67e7d7bb3407e2cd41":[6,0,1606,0,2]
 };

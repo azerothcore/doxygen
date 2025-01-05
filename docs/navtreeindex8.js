@@ -1,8 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da415a94ee05b8fad2385a6988ab1c554c":[7,0,0,0,1,3,7,11,8,3],
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183":[7,0,0,0,1,3,7,11,8,4],
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da8a33a6376ae25b08e61a6c434797a76c":[7,0,0,0,1,3,7,11,8,9],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da9036ad57839bc33a33771f3426f66b00":[7,0,0,0,1,3,7,11,8,8],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da947d09acef568031d0a63aa3b491c6be":[7,0,0,0,1,3,7,11,8,7],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5daa43be8740522cf897de5d4034c52d874":[7,0,0,0,1,3,7,11,8,2],
@@ -95,8 +92,8 @@ var NAVTREEINDEX8 =
 "d0/d71/structnpc__pet__pri__lightwell.html":[6,0,1990],
 "d0/d71/structnpc__pet__pri__lightwell.html#a5244bcfab27ccad603f80c6f2b2fcd3a":[6,0,1990,1],
 "d0/d71/structnpc__pet__pri__lightwell.html#aebeb192e66c7d5b4201cbaa81d46703c":[6,0,1990,0],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[5,0,31,7,6],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[6,0,11,7,6],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[5,0,31,7,6],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,11,7,6,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[5,0,31,7,6,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,11,7,6,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX8 =
 "d0/d77/classLog.html#a5f1d31912ee6fd2dc900f6b5ad493717":[6,0,1411,26],
 "d0/d77/classLog.html#a62bd4b0528aa23befb3226da3d5622f6":[6,0,1411,16],
 "d0/d77/classLog.html#a66e501b6951649526caf61b6bcfe4cac":[6,0,1411,17],
-"d0/d77/classLog.html#a6bf321b54b12221ff11837745a083d82":[6,0,1411,6]
+"d0/d77/classLog.html#a6bf321b54b12221ff11837745a083d82":[6,0,1411,6],
+"d0/d77/classLog.html#a7ae682c6d1aa26dd2cbda948d41871f6":[6,0,1411,40],
+"d0/d77/classLog.html#a7ba6f988f6a9235fb7f9ac89ed912db5":[6,0,1411,0],
+"d0/d77/classLog.html#a7e23ad189250d8c51b34bb5b4b1fef4a":[6,0,1411,4]
 };

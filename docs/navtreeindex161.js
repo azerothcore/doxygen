@@ -1,8 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d6/d09/classspell__herald__volzaj__insanity.html#ae90184fd34636b33755b732ec82fd52f":[6,0,3022,4],
-"d6/d0a/classspell__gen__black__magic__enchant.html":[6,0,2862],
-"d6/d0a/classspell__gen__black__magic__enchant.html#a9fff895957dfedb5d975e4a8e9588aa9":[6,0,2862,1],
 "d6/d0a/classspell__gen__black__magic__enchant.html#ab0746e7fa614f09708f89ed3ef93fca9":[6,0,2862,2],
 "d6/d0a/classspell__gen__black__magic__enchant.html#afa477049b9a4fa18594b203a6066d205":[6,0,2862,0],
 "d6/d0b/boss__anzu_8cpp.html":[7,0,0,0,1,3,7,0,2,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29ead":[7,0,0,0,1,3,10,5,76],
 "d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29eada8a6d9cfd8e359afb76b8eb63a183a59d":[7,0,0,0,1,3,10,5,76,0],
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fc":[7,0,0,0,1,3,10,5,89],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[7,0,0,0,1,3,10,5,89,0]
+"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[7,0,0,0,1,3,10,5,89,0],
+"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c":[7,0,0,0,1,3,10,5,89,1],
+"d6/d0d/classnpc__vics__flying__machine.html":[6,0,2226],
+"d6/d0d/classnpc__vics__flying__machine.html#aac2a7cabd2e87705e9a1b3bfebb89eae":[6,0,2226,2]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#ae3adee89e63c289f1dd38e0f7700e67b":[6,0,592,0,4],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#ae3b52ef5527ab932d1bfa479ed767b0f":[6,0,592,0,14],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#ae40ac9fdd49c182daff81f411d316bb4":[6,0,592,0,12],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#af1e7213b798cdab457d8b32024da414e":[6,0,592,0,13],
 "db/d16/classTransportScript.html":[6,0,4093],
 "db/d16/classTransportScript.html#a10334c1929c80fc80c76791cbd52f6dd":[6,0,4093,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX269 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefca0a4ca2a4e782ead9bd179ad3568cc88c":[7,0,0,0,1,3,2,7,0,14,2],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefca3c1e5064253393b56f9c3dd49653a410":[7,0,0,0,1,3,2,7,0,14,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefcab40a93f360bb3c5888a31fd55d055d79":[7,0,0,0,1,3,2,7,0,14,1],
-"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,7,0,13]
+"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,7,0,13],
+"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[7,0,0,0,1,3,2,7,0,13,1],
+"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c7c7bb6b9e906911880377d2ea2470b":[7,0,0,0,1,3,2,7,0,13,7],
+"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca2552e76ecd9869062d18e07c3853fcde":[7,0,0,0,1,3,2,7,0,13,5]
 };

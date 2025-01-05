@@ -1,8 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"de/d95/classTicketMgr.html#a84182a16a815a9bdcd54118bc62a93c4":[6,0,4069,23],
-"de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[6,0,4069,7],
-"de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4069,19],
 "de/d95/classTicketMgr.html#aa225ab2b5709ce806e579e90b517f150":[6,0,4069,25],
 "de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[6,0,4069,11],
 "de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4069,26],
@@ -159,8 +156,8 @@ var NAVTREEINDEX360 =
 "de/d99/classspell__dk__chains__of__ice.html#a7d0dd936965845c14e7b54846facdb89":[6,0,2705,1],
 "de/d99/classspell__dk__chains__of__ice.html#aaa65e67362ded5318e89272acf073bf3":[6,0,2705,0],
 "de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2705,2],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,11,5,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,31,5,43],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,11,5,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,5,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,31,5,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,5,43,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX360 =
 "de/da1/structObjectPosSelector.html#a678445810801988c429489ba187b28f0":[6,0,2286,4],
 "de/da1/structObjectPosSelector.html#a76a3553e006171560baf7aa7cc2bc163":[6,0,2286,1],
 "de/da1/structObjectPosSelector.html#a779268da0c5b089c9752601543a0f856":[6,0,2286,14],
-"de/da1/structObjectPosSelector.html#a7b6cf79a4806aff044b3f6b7d9181aaf":[6,0,2286,19]
+"de/da1/structObjectPosSelector.html#a7b6cf79a4806aff044b3f6b7d9181aaf":[6,0,2286,19],
+"de/da1/structObjectPosSelector.html#a7f798861b78a0b54ad121e6acb5e442c":[6,0,2286,24],
+"de/da1/structObjectPosSelector.html#a81959e17cd93eb5590dc3533ffa2217b":[6,0,2286,13],
+"de/da1/structObjectPosSelector.html#a93e3a877fef90a3fa933addeb53e3e8e":[6,0,2286,15]
 };
