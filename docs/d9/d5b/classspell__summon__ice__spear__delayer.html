@@ -327,7 +327,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  754</span>    {</div>
 <div class="line"><span class="lineno">  755</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
 <div class="line"><span class="lineno">  756</span>        target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f01dda5ed925b6a0e551eaf500ff8e3">SPELL_ICE_SPEAR_KNOCKBACK</a>);</div>
-<div class="line"><span class="lineno">  757</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;ToCreature()-&gt;<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298caba7e6ad4e1f844662d75ca4521c0ae22">SPELL_ICE_SPEAR_DELAY</a>))</div>
+<div class="line"><span class="lineno">  757</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a96cb153ed12eab6856e6a824316ed43d">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298caba7e6ad4e1f844662d75ca4521c0ae22">SPELL_ICE_SPEAR_DELAY</a>))</div>
 <div class="line"><span class="lineno">  758</span>            aur-&gt;Remove();</div>
 <div class="line"><span class="lineno">  759</span>    }</div>
 <div class="ttc" id="aboss__ahune_8cpp_html_a5bd342133be8c2137b831460acc9298ca5f01dda5ed925b6a0e551eaf500ff8e3"><div class="ttname"><a href="../../d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f01dda5ed925b6a0e551eaf500ff8e3">SPELL_ICE_SPEAR_KNOCKBACK</a></div><div class="ttdeci">@ SPELL_ICE_SPEAR_KNOCKBACK</div><div class="ttdef"><b>Definition</b> boss_ahune.cpp:79</div></div>
@@ -338,6 +338,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1167</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_a96cb153ed12eab6856e6a824316ed43d"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a96cb153ed12eab6856e6a824316ed43d">LuaObject::ToCreature</a></div><div class="ttdeci">int ToCreature(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:458</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01167">Unit::CastSpell()</a>, <a class="el" href="../../#l01045">AuraScript::GetAura()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00081">SPELL_ICE_SPEAR_DELAY</a>, and <a class="el" href="../../#l00079">SPELL_ICE_SPEAR_KNOCKBACK</a>.</p>
 
@@ -451,7 +452,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d5b/classspell__summon__ice__spear__delayer.html">spell_summon_ice_spear_delayer</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

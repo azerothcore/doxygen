@@ -1,0 +1,28 @@
+var GroupMethods_8h =
+[
+    [ "AddMember", "d1/d0f/GroupMethods_8h.html#a311511b56b67d30d87a4e6540bb804e5", null ],
+    [ "ConvertToRaid", "d1/d0f/GroupMethods_8h.html#a44ff7b027b091b9a0516c574b86abfa5", null ],
+    [ "Disband", "d1/d0f/GroupMethods_8h.html#a7a050e6c83c804b47262b524581acb8f", null ],
+    [ "GetGroupType", "d1/d0f/GroupMethods_8h.html#ad3b698c94d13ce0247b95f8584924991", null ],
+    [ "GetGUID", "d1/d0f/GroupMethods_8h.html#aba6a0ec5814f21f8a2bb7c1aa9a18271", null ],
+    [ "GetLeaderGUID", "d1/d0f/GroupMethods_8h.html#a1ff7ad351bf1d54237b2552e7ca48dc4", null ],
+    [ "GetMemberGroup", "d1/d0f/GroupMethods_8h.html#a14d8434d36689c6a8f5398ab5df6aef0", null ],
+    [ "GetMemberGUID", "d1/d0f/GroupMethods_8h.html#a8185e430f0dd6b95975fbf08838393d3", null ],
+    [ "GetMembers", "d1/d0f/GroupMethods_8h.html#a9ac715a6df62e0554860f3cfc3a65ee9", null ],
+    [ "GetMembersCount", "d1/d0f/GroupMethods_8h.html#ae569487ad5d7e721779c909ad236c6d6", null ],
+    [ "HasFreeSlotSubGroup", "d1/d0f/GroupMethods_8h.html#a5ccb0ee57714981f07deb91d8eeda2be", null ],
+    [ "IsAssistant", "d1/d0f/GroupMethods_8h.html#afcbb62ab86be080ef092faa487145a89", null ],
+    [ "IsBGGroup", "d1/d0f/GroupMethods_8h.html#a7c4dea8c9f82819085c4bc8346e59f21", null ],
+    [ "IsFull", "d1/d0f/GroupMethods_8h.html#a41f21c06ac7bb0feeb5a0ab12d48bb1c", null ],
+    [ "IsLeader", "d1/d0f/GroupMethods_8h.html#a5783517f99a71f5b3af589957616a000", null ],
+    [ "IsLFGGroup", "d1/d0f/GroupMethods_8h.html#ab470179daea27c0430d086c46b01e644", null ],
+    [ "IsMember", "d1/d0f/GroupMethods_8h.html#a0829ae220e0ae69b637677071a0de274", null ],
+    [ "IsRaidGroup", "d1/d0f/GroupMethods_8h.html#a48eea78be857e7b125508f17310d22f3", null ],
+    [ "RemoveMember", "d1/d0f/GroupMethods_8h.html#a1846d20f76ac11616cb0bfb803645be9", null ],
+    [ "SameSubGroup", "d1/d0f/GroupMethods_8h.html#a78ce40297cf48c3b7386fb9f93a86a86", null ],
+    [ "SendPacket", "d1/d0f/GroupMethods_8h.html#a01072a14c634ff2185d8ffa3de9faae2", null ],
+    [ "SetLeader", "d1/d0f/GroupMethods_8h.html#aa03181f70c1c7e0e1b83834518d1845e", null ],
+    [ "SetMemberFlag", "d1/d0f/GroupMethods_8h.html#a25da87bad1b327bbcf02faa265f34150", null ],
+    [ "SetMembersGroup", "d1/d0f/GroupMethods_8h.html#a1ae68d3b3ca1e190b93ec3fd51536b47", null ],
+    [ "SetTargetIcon", "d1/d0f/GroupMethods_8h.html#af49efc78462246c0814349ba1b260fc5", null ]
+];

@@ -9,5 +9,6 @@ var searchData=
   ['queryresult_2eh_6',['QueryResult.h',['../d4/d39/QueryResult_8h.html',1,'']]],
   ['questdef_2ecpp_7',['QuestDef.cpp',['../dc/d83/QuestDef_8cpp.html',1,'']]],
   ['questdef_2eh_8',['QuestDef.h',['../d2/d27/QuestDef_8h.html',1,'']]],
-  ['questhandler_2ecpp_9',['QuestHandler.cpp',['../d8/db1/QuestHandler_8cpp.html',1,'']]]
+  ['questhandler_2ecpp_9',['QuestHandler.cpp',['../d8/db1/QuestHandler_8cpp.html',1,'']]],
+  ['questmethods_2eh_10',['QuestMethods.h',['../dc/d61/QuestMethods_8h.html',1,'']]]
 ];

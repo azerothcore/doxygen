@@ -954,12 +954,12 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">   50</span>    <span class="comment">// calculate extents</span></div>
 <div class="line"><span class="lineno">   51</span>    <span class="keywordtype">int</span> axis = -1, prevAxis, rightOrig;</div>
 <div class="line"><span class="lineno">   52</span>    <span class="keywordtype">float</span> clipL = G3D::fnan(), clipR = G3D::fnan(), prevClip = G3D::fnan();</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keywordtype">float</span> split = G3D::fnan(), prevSplit;</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordtype">float</span> <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a> = G3D::fnan(), prevSplit;</div>
 <div class="line"><span class="lineno">   54</span>    <span class="keywordtype">bool</span> wasLeft = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   55</span>    <span class="keywordflow">while</span> (<span class="keyword">true</span>)</div>
 <div class="line"><span class="lineno">   56</span>    {</div>
 <div class="line"><span class="lineno">   57</span>        prevAxis = axis;</div>
-<div class="line"><span class="lineno">   58</span>        prevSplit = split;</div>
+<div class="line"><span class="lineno">   58</span>        prevSplit = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">   59</span>        <span class="comment">// perform quick consistency checks</span></div>
 <div class="line"><span class="lineno">   60</span>        G3D::Vector3 d( gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a> - gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a> );</div>
 <div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (d.x &lt; 0 || d.y &lt; 0 || d.z &lt; 0)</div>
@@ -976,7 +976,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">   72</span>        }</div>
 <div class="line"><span class="lineno">   73</span>        <span class="comment">// find longest axis</span></div>
 <div class="line"><span class="lineno">   74</span>        axis = d.primaryAxis();</div>
-<div class="line"><span class="lineno">   75</span>        split = 0.5f * (gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] + gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis]);</div>
+<div class="line"><span class="lineno">   75</span>        <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a> = 0.5f * (gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] + gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis]);</div>
 <div class="line"><span class="lineno">   76</span>        <span class="comment">// partition L/R subsets</span></div>
 <div class="line"><span class="lineno">   77</span>        clipL = -G3D::inf();</div>
 <div class="line"><span class="lineno">   78</span>        clipR = G3D::inf();</div>
@@ -1053,12 +1053,12 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  149</span>            <span class="keywordflow">if</span> (clipL &lt;= split)</div>
 <div class="line"><span class="lineno">  150</span>            {</div>
 <div class="line"><span class="lineno">  151</span>                <span class="comment">// keep looping on left half</span></div>
-<div class="line"><span class="lineno">  152</span>                gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis] = split;</div>
+<div class="line"><span class="lineno">  152</span>                gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis] = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">  153</span>                prevClip = clipL;</div>
 <div class="line"><span class="lineno">  154</span>                wasLeft = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  155</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  156</span>            }</div>
-<div class="line"><span class="lineno">  157</span>            gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis] = split;</div>
+<div class="line"><span class="lineno">  157</span>            gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">hi</a>[axis] = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">  158</span>            prevClip = G3D::fnan();</div>
 <div class="line"><span class="lineno">  159</span>        }</div>
 <div class="line"><span class="lineno">  160</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (left &gt; right)</div>
@@ -1075,12 +1075,12 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  171</span>            <span class="keywordflow">if</span> (clipR &gt;= split)</div>
 <div class="line"><span class="lineno">  172</span>            {</div>
 <div class="line"><span class="lineno">  173</span>                <span class="comment">// keep looping on right half</span></div>
-<div class="line"><span class="lineno">  174</span>                gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] = split;</div>
+<div class="line"><span class="lineno">  174</span>                gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">  175</span>                prevClip = clipR;</div>
 <div class="line"><span class="lineno">  176</span>                wasLeft = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  177</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  178</span>            }</div>
-<div class="line"><span class="lineno">  179</span>            gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] = split;</div>
+<div class="line"><span class="lineno">  179</span>            gridBox.<a class="code hl_variable" href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">lo</a>[axis] = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">  180</span>            prevClip = G3D::fnan();</div>
 <div class="line"><span class="lineno">  181</span>        }</div>
 <div class="line"><span class="lineno">  182</span>        <span class="keywordflow">else</span></div>
@@ -1152,7 +1152,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  248</span>    <span class="comment">// prepare L/R child boxes</span></div>
 <div class="line"><span class="lineno">  249</span>    <a class="code hl_struct" href="../../d5/dab/structAABound.html">AABound</a> gridBoxL(gridBox), gridBoxR(gridBox);</div>
 <div class="line"><span class="lineno">  250</span>    <a class="code hl_struct" href="../../d5/dab/structAABound.html">AABound</a> nodeBoxL(nodeBox), nodeBoxR(nodeBox);</div>
-<div class="line"><span class="lineno">  251</span>    gridBoxL.hi[axis] = gridBoxR.lo[axis] = split;</div>
+<div class="line"><span class="lineno">  251</span>    gridBoxL.hi[axis] = gridBoxR.lo[axis] = <a class="code hl_function" href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">split</a>;</div>
 <div class="line"><span class="lineno">  252</span>    nodeBoxL.hi[axis] = clipL;</div>
 <div class="line"><span class="lineno">  253</span>    nodeBoxR.lo[axis] = clipR;</div>
 <div class="line"><span class="lineno">  254</span>    <span class="comment">// recurse</span></div>
@@ -1175,6 +1175,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  271</span>}</div>
 <div class="ttc" id="aBoundingIntervalHierarchy_8cpp_html_a075c8459d7e501109174c1a2fdc5cd7e"><div class="ttname"><a href="../../d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e">isnan</a></div><div class="ttdeci">#define isnan</div><div class="ttdef"><b>Definition</b> BoundingIntervalHierarchy.cpp:23</div></div>
 <div class="ttc" id="aclassBIH_html_a5700833c10e9c06bf9937d3b21a26df3"><div class="ttname"><a href="../../d0/de7/classBIH.html#a5700833c10e9c06bf9937d3b21a26df3">BIH::createNode</a></div><div class="ttdeci">void createNode(std::vector&lt; uint32 &gt; &amp;tempTree, int nodeIndex, uint32 left, uint32 right) const</div><div class="ttdef"><b>Definition</b> BoundingIntervalHierarchy.h:425</div></div>
+<div class="ttc" id="anamespacehttplib_1_1detail_html_a34049cfd6a6fb079a3a4372efb95cc6c"><div class="ttname"><a href="../../d4/dcc/namespacehttplib_1_1detail.html#a34049cfd6a6fb079a3a4372efb95cc6c">httplib::detail::split</a></div><div class="ttdeci">void split(const char *b, const char *e, char d, std::function&lt; void(const char *, const char *)&gt; fn)</div><div class="ttdef"><b>Definition</b> httplib.h:2431</div></div>
 <div class="ttc" id="astructAABound_html_aa227ae5593ba3111598033f570d97cb9"><div class="ttname"><a href="../../d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9">AABound::hi</a></div><div class="ttdeci">G3D::Vector3 hi</div><div class="ttdef"><b>Definition</b> BoundingIntervalHierarchy.h:56</div></div>
 <div class="ttc" id="astructAABound_html_aaf79653331f78979c84dfee2da118fdd"><div class="ttname"><a href="../../d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd">AABound::lo</a></div><div class="ttdeci">G3D::Vector3 lo</div><div class="ttdef"><b>Definition</b> BoundingIntervalHierarchy.h:56</div></div>
 </div><!-- fragment -->
@@ -1301,7 +1302,7 @@ template&lt;typename RayCallback &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/de7/classBIH.html">BIH</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

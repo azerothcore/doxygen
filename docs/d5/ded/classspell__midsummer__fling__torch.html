@@ -388,7 +388,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1096</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
 <div class="line"><span class="lineno"> 1097</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>())</div>
 <div class="line"><span class="lineno"> 1098</span>        {</div>
-<div class="line"><span class="lineno"> 1099</span>            <span class="keywordflow">if</span> (target-&gt;GetGUID() != <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetGUID())</div>
+<div class="line"><span class="lineno"> 1099</span>            <span class="keywordflow">if</span> (target-&gt;GetGUID() != <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/da6/namespaceLuaGroup.html#aba6a0ec5814f21f8a2bb7c1aa9a18271">GetGUID</a>())</div>
 <div class="line"><span class="lineno"> 1100</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 1101</span> </div>
 <div class="line"><span class="lineno"> 1102</span>            <a class="code hl_variable" href="../../d5/ded/classspell__midsummer__fling__torch.html#a869fde9e5d0756d3c68a8db3e10ad50d">handled</a> = <span class="keyword">true</span>;</div>
@@ -423,6 +423,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="amidsummer_8cpp_html_a5f92bb894fc1c31a174dd327b647bdfaa6a19486e91f83430c2c213db4b909b12"><div class="ttname"><a href="../../d6/dba/midsummer_8cpp.html#a5f92bb894fc1c31a174dd327b647bdfaa6a19486e91f83430c2c213db4b909b12">SPELL_TORCH_CATCH_SUCCESS_H</a></div><div class="ttdeci">@ SPELL_TORCH_CATCH_SUCCESS_H</div><div class="ttdef"><b>Definition</b> midsummer.cpp:1022</div></div>
 <div class="ttc" id="amidsummer_8cpp_html_a5f92bb894fc1c31a174dd327b647bdfaa7f2c6b8fb32596153dc95e8fcbdfef0f"><div class="ttname"><a href="../../d6/dba/midsummer_8cpp.html#a5f92bb894fc1c31a174dd327b647bdfaa7f2c6b8fb32596153dc95e8fcbdfef0f">SPELL_TORCH_CATCH_SUCCESS_A</a></div><div class="ttdeci">@ SPELL_TORCH_CATCH_SUCCESS_A</div><div class="ttdef"><b>Definition</b> midsummer.cpp:1021</div></div>
 <div class="ttc" id="amidsummer_8cpp_html_a5f92bb894fc1c31a174dd327b647bdfaabd2e316629058e902b336af9194906c5"><div class="ttname"><a href="../../d6/dba/midsummer_8cpp.html#a5f92bb894fc1c31a174dd327b647bdfaabd2e316629058e902b336af9194906c5">QUEST_MORE_TORCH_TOSS_A</a></div><div class="ttdeci">@ QUEST_MORE_TORCH_TOSS_A</div><div class="ttdef"><b>Definition</b> midsummer.cpp:1025</div></div>
+<div class="ttc" id="anamespaceLuaGroup_html_aba6a0ec5814f21f8a2bb7c1aa9a18271"><div class="ttname"><a href="../../d0/da6/namespaceLuaGroup.html#aba6a0ec5814f21f8a2bb7c1aa9a18271">LuaGroup::GetGUID</a></div><div class="ttdeci">int GetGUID(lua_State *L, Group *group)</div><div class="ttdef"><b>Definition</b> GroupMethods.h:226</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00471">SpellScript::GetHitPlayer()</a>, <a class="el" href="../../#l01046">handled</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, <a class="el" href="../../#l01025">QUEST_MORE_TORCH_TOSS_A</a>, <a class="el" href="../../#l01026">QUEST_MORE_TORCH_TOSS_H</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l01021">SPELL_TORCH_CATCH_SUCCESS_A</a>, <a class="el" href="../../#l01022">SPELL_TORCH_CATCH_SUCCESS_H</a>, <a class="el" href="../../#l01019">SPELL_TORCH_COUNTER</a>, and <a class="el" href="../../#l01049">ThrowNextTorch()</a>.</p>
 
@@ -674,7 +675,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/ded/classspell__midsummer__fling__torch.html">spell_midsummer_fling_torch</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

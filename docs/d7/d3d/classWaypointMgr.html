@@ -324,7 +324,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   72</span>        <span class="keywordtype">float</span> y = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><span class="lineno">   73</span>        <span class="keywordtype">float</span> z = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><span class="lineno">   74</span>        std::optional&lt;float &gt; o;</div>
-<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">if</span> (!fields[5].IsNull())</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">if</span> (!fields[5].<a class="code hl_function" href="../../d7/dad/namespaceLuaQuery.html#abecf693749345ab350d8f8d2526b98d4">IsNull</a>())</div>
 <div class="line"><span class="lineno">   76</span>            o = fields[5].Get&lt;float&gt;();</div>
 <div class="line"><span class="lineno">   77</span> </div>
 <div class="line"><span class="lineno">   78</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(x);</div>
@@ -368,6 +368,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassField_html"><div class="ttname"><a href="../../d7/d24/classField.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition</b> Field.h:98</div></div>
 <div class="ttc" id="aclassField_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition</b> Field.h:112</div></div>
 <div class="ttc" id="anamespaceAcore_html_a081c4b764dd94224c4a046465c5c6274"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a></div><div class="ttdeci">void NormalizeMapCoord(float &amp;c)</div><div class="ttdef"><b>Definition</b> GridDefines.h:207</div></div>
+<div class="ttc" id="anamespaceLuaQuery_html_abecf693749345ab350d8f8d2526b98d4"><div class="ttname"><a href="../../d7/dad/namespaceLuaQuery.html#abecf693749345ab350d8f8d2526b98d4">LuaQuery::IsNull</a></div><div class="ttdeci">int IsNull(lua_State *L, ElunaQuery *result)</div><div class="ttdef"><b>Definition</b> ElunaQueryMethods.h:43</div></div>
 <div class="ttc" id="astructWaypointData_html"><div class="ttname"><a href="../../da/d4b/structWaypointData.html">WaypointData</a></div><div class="ttdef"><b>Definition</b> WaypointMgr.h:37</div></div>
 <div class="ttc" id="astructWaypointData_html_a013fa650f43e790e652016fbce2e1bd5"><div class="ttname"><a href="../../da/d4b/structWaypointData.html#a013fa650f43e790e652016fbce2e1bd5">WaypointData::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition</b> WaypointMgr.h:39</div></div>
 <div class="ttc" id="astructWaypointData_html_a083020691278af836e48f0a0c2feff96"><div class="ttname"><a href="../../da/d4b/structWaypointData.html#a083020691278af836e48f0a0c2feff96">WaypointData::event_id</a></div><div class="ttdeci">uint32 event_id</div><div class="ttdef"><b>Definition</b> WaypointMgr.h:42</div></div>
@@ -428,7 +429,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  135</span>        <span class="keywordtype">float</span> y = fields[2].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><span class="lineno">  136</span>        <span class="keywordtype">float</span> z = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><span class="lineno">  137</span>        std::optional&lt;float&gt; o;</div>
-<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (!fields[4].IsNull())</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (!fields[4].<a class="code hl_function" href="../../d7/dad/namespaceLuaQuery.html#abecf693749345ab350d8f8d2526b98d4">IsNull</a>())</div>
 <div class="line"><span class="lineno">  139</span>            o = fields[4].Get&lt;float&gt;();</div>
 <div class="line"><span class="lineno">  140</span> </div>
 <div class="line"><span class="lineno">  141</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(x);</div>
@@ -500,7 +501,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d3d/classWaypointMgr.html">WaypointMgr</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

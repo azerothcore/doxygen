@@ -6,12 +6,15 @@ var searchData=
   ['wer_5fmax_5farray_5felements_5fcount_3',['WER_MAX_ARRAY_ELEMENTS_COUNT',['../d7/d83/WheatyExceptionReport_8h.html#a5ca750f3bbda2b3eab451528de39aa3c',1,'WheatyExceptionReport.h']]],
   ['wer_5fmax_5fnesting_5flevel_4',['WER_MAX_NESTING_LEVEL',['../d7/d83/WheatyExceptionReport_8h.html#a5562a6136a28726d82fc486fd3b81ab1',1,'WheatyExceptionReport.h']]],
   ['wer_5fsmall_5fbuffer_5fsize_5',['WER_SMALL_BUFFER_SIZE',['../d7/d83/WheatyExceptionReport_8h.html#a2c2a64833d9c531c4cf0873d15733a66',1,'WheatyExceptionReport.h']]],
-  ['win32_5flean_5fand_5fmean_6',['WIN32_LEAN_AND_MEAN',['../d7/d3f/WheatyExceptionReport_8cpp.html#ac7bef5d85e3dcd73eef56ad39ffc84a9',1,'WheatyExceptionReport.cpp']]],
-  ['world_5ftrigger_7',['WORLD_TRIGGER',['../d1/daf/Unit_8h.html#a14e3dcee1542d1f8fe5bdcbb2a66142e',1,'Unit.h']]],
-  ['wpabort_8',['WPAbort',['../d2/d0e/Errors_8h.html#aab8761bc4b218ac84ad259cc6e0c1589',1,'Errors.h']]],
-  ['wpassert_9',['WPAssert',['../d2/d0e/Errors_8h.html#a6b3632c6657f3d1633b9a9707d9ede62',1,'Errors.h']]],
-  ['wpassert_5fnodebuginfo_10',['WPAssert_NODEBUGINFO',['../d2/d0e/Errors_8h.html#ab0566f9653ccc9fc0e174bda17fc5277',1,'Errors.h']]],
-  ['wperror_11',['WPError',['../d2/d0e/Errors_8h.html#a7d9ea9088aab1556ba6739861998001a',1,'Errors.h']]],
-  ['wpfatal_12',['WPFatal',['../d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea',1,'Errors.h']]],
-  ['wpwarning_13',['WPWarning',['../d2/d0e/Errors_8h.html#afbbc90bf1881f7811a1022e7af350b47',1,'Errors.h']]]
+  ['white0bit_6',['WHITE0BIT',['../dc/d9c/lgc_8h.html#a4b3ebb4bccaf9a33e772a2f4515519e6',1,'lgc.h']]],
+  ['white1bit_7',['WHITE1BIT',['../dc/d9c/lgc_8h.html#a7de7885f3d09155a2c530154ec045d72',1,'lgc.h']]],
+  ['whitebits_8',['WHITEBITS',['../dc/d9c/lgc_8h.html#a0acb34c1b3d1234f11ee9fdc34df3f71',1,'lgc.h']]],
+  ['win32_5flean_5fand_5fmean_9',['WIN32_LEAN_AND_MEAN',['../d7/d3f/WheatyExceptionReport_8cpp.html#ac7bef5d85e3dcd73eef56ad39ffc84a9',1,'WheatyExceptionReport.cpp']]],
+  ['world_5ftrigger_10',['WORLD_TRIGGER',['../d1/daf/Unit_8h.html#a14e3dcee1542d1f8fe5bdcbb2a66142e',1,'Unit.h']]],
+  ['wpabort_11',['WPAbort',['../d2/d0e/Errors_8h.html#aab8761bc4b218ac84ad259cc6e0c1589',1,'Errors.h']]],
+  ['wpassert_12',['WPAssert',['../d2/d0e/Errors_8h.html#a6b3632c6657f3d1633b9a9707d9ede62',1,'Errors.h']]],
+  ['wpassert_5fnodebuginfo_13',['WPAssert_NODEBUGINFO',['../d2/d0e/Errors_8h.html#ab0566f9653ccc9fc0e174bda17fc5277',1,'Errors.h']]],
+  ['wperror_14',['WPError',['../d2/d0e/Errors_8h.html#a7d9ea9088aab1556ba6739861998001a',1,'Errors.h']]],
+  ['wpfatal_15',['WPFatal',['../d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea',1,'Errors.h']]],
+  ['wpwarning_16',['WPWarning',['../d2/d0e/Errors_8h.html#afbbc90bf1881f7811a1022e7af350b47',1,'Errors.h']]]
 ];

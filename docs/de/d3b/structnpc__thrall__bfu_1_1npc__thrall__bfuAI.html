@@ -1070,7 +1070,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2408</span> </div>
 <div class="line"><span class="lineno"> 2409</span>                <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e">hordeGuardsGUID</a>)</div>
 <div class="line"><span class="lineno"> 2410</span>                    if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* temp = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guid))</div>
-<div class="line"><span class="lineno"> 2411</span>                        temp-&gt;DespawnOrUnsummon();</div>
+<div class="line"><span class="lineno"> 2411</span>                        temp-&gt;<a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">DespawnOrUnsummon</a>();</div>
 <div class="line"><span class="lineno"> 2412</span> </div>
 <div class="line"><span class="lineno"> 2413</span>                <a class="code hl_variable" href="../../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e">hordeGuardsGUID</a>.clear();</div>
 <div class="line"><span class="lineno"> 2414</span>            }</div>
@@ -1085,6 +1085,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a76a05f1a743edc939472c8402674b5e0"><div class="ttname"><a href="../../df/dd9/classUnit.html#a76a05f1a743edc939472c8402674b5e0">Unit::Mount</a></div><div class="ttdeci">void Mount(uint32 mount, uint32 vehicleId=0, uint32 creatureEntry=0)</div><div class="ttdef"><b>Definition</b> Unit.cpp:13488</div></div>
 <div class="ttc" id="aclassUnit_html_a9c5739d268705d03fc40799b7c3d3239"><div class="ttname"><a href="../../df/dd9/classUnit.html#a9c5739d268705d03fc40799b7c3d3239">Unit::SetNpcFlag</a></div><div class="ttdeci">void SetNpcFlag(NPCFlags flags)</div><div class="ttdef"><b>Definition</b> Unit.h:732</div></div>
 <div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16749</div></div>
+<div class="ttc" id="anamespaceLuaCreature_html_aa4be6bc82ff0abcadc5a36cdf1fdd705"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">LuaCreature::DespawnOrUnsummon</a></div><div class="ttdeci">int DespawnOrUnsummon(lua_State *L, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:1303</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a></div><div class="ttdef"><b>Definition</b> ObjectAccessor.h:61</div></div>
 <div class="ttc" id="astructnpc__thrall__bfu_1_1npc__thrall__bfuAI_html_a2f03d831bd3217366741716f671fcde6"><div class="ttname"><a href="../../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a2f03d831bd3217366741716f671fcde6">npc_thrall_bfu::npc_thrall_bfuAI::bStepping</a></div><div class="ttdeci">bool bStepping</div><div class="ttdef"><b>Definition</b> zone_undercity.cpp:2321</div></div>
 <div class="ttc" id="astructnpc__thrall__bfu_1_1npc__thrall__bfuAI_html_a34f9a36d0bdb6dea215d21da3bdf54de"><div class="ttname"><a href="../../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a34f9a36d0bdb6dea215d21da3bdf54de">npc_thrall_bfu::npc_thrall_bfuAI::ValimathrasGUID</a></div><div class="ttdeci">ObjectGuid ValimathrasGUID</div><div class="ttdef"><b>Definition</b> zone_undercity.cpp:2329</div></div>
@@ -3134,7 +3135,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d80/classnpc__thrall__bfu.html">npc_thrall_bfu</a></li><li class="navelem"><a class="el" href="../../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html">npc_thrall_bfuAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

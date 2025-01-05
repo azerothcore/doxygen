@@ -316,7 +316,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
 <div class="line"><span class="lineno">   77</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
 <div class="line"><span class="lineno">   79</span>            player-&gt;CastSpell(player, <a class="code hl_enumvalue" href="../../d8/d5c/zone__dustwallow__marsh_8cpp.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b">SPELL_OOZE_CHANNEL_CREDIT</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">   80</span>        <a class="code hl_function" href="../../df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>());</div>
 <div class="line"><span class="lineno">   81</span>    }</div>
@@ -325,6 +325,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html_a413f3a85a1e57ce8c13b8870347830f5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a></div><div class="ttdeci">static void Kill(Unit *killer, Unit *victim, bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:17725</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
 <div class="ttc" id="azone__dustwallow__marsh_8cpp_html_a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b"><div class="ttname"><a href="../../d8/d5c/zone__dustwallow__marsh_8cpp.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b">SPELL_OOZE_CHANNEL_CREDIT</a></div><div class="ttdeci">@ SPELL_OOZE_CHANNEL_CREDIT</div><div class="ttdef"><b>Definition</b> zone_dustwallow_marsh.cpp:28</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l17725">Unit::Kill()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, and <a class="el" href="../../#l00028">SPELL_OOZE_CHANNEL_CREDIT</a>.</p>
@@ -440,7 +441,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d09/classspell__ooze__zap__channel__end.html">spell_ooze_zap_channel_end</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

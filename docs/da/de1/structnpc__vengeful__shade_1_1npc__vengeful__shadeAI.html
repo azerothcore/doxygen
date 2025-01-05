@@ -606,7 +606,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  929</span>        {</div>
 <div class="line"><span class="lineno">  930</span>            <span class="keywordflow">if</span> (!who)</div>
 <div class="line"><span class="lineno">  931</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  932</span>            <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  932</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">ScriptedAI::AttackStart</a>(who);</div>
 <div class="line"><span class="lineno">  933</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#a75c3f61506fe42e41b10a2e67f5b091d">targetGUID</a>)</div>
 <div class="line"><span class="lineno">  934</span>            {</div>
 <div class="line"><span class="lineno">  935</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#af90090f5c00aff1bc6e7fbb89ab2464f">ResetAllThreat</a>();</div>
@@ -616,11 +616,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  939</span>        }</div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:112</div></div>
 <div class="ttc" id="aclassThreatMgr_html_af90090f5c00aff1bc6e7fbb89ab2464f"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#af90090f5c00aff1bc6e7fbb89ab2464f">ThreatMgr::ResetAllThreat</a></div><div class="ttdeci">void ResetAllThreat()</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:651</div></div>
+<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14676</div></div>
 <div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:909</div></div>
-<div class="ttc" id="astructScriptedAI_html_a4c91d8d2c1a6e8b234c1c4f15936c7a4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l14676">Unit::AddThreat()</a>, <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00909">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00651">ThreatMgr::ResetAllThreat()</a>, and <a class="el" href="../../#l00920">targetGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l14676">Unit::AddThreat()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00909">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00651">ThreatMgr::ResetAllThreat()</a>, and <a class="el" href="../../#l00920">targetGUID</a>.</p>
 
 </div>
 </div>
@@ -888,7 +888,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d95/classnpc__vengeful__shade.html">npc_vengeful_shade</a></li><li class="navelem"><a class="el" href="../../da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html">npc_vengeful_shadeAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

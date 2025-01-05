@@ -325,7 +325,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1454</span>    {</div>
-<div class="line"><span class="lineno"> 1455</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;IsPlayer() &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;isMoving())</div>
+<div class="line"><span class="lineno"> 1455</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#afe60167b4dedfc4d776526b1dd65b5e9">IsPlayer</a>() &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;isMoving())</div>
 <div class="line"><span class="lineno"> 1456</span>        {</div>
 <div class="line"><span class="lineno"> 1457</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa157b5ed7b2bcf44d9b40fc8bd393a29">SPELL_SHADOW_PRISON_DAMAGE</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
 <div class="line"><span class="lineno"> 1458</span>        }</div>
@@ -333,6 +333,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__blood__prince__council_8cpp_html_a5bd342133be8c2137b831460acc9298caa157b5ed7b2bcf44d9b40fc8bd393a29"><div class="ttname"><a href="../../d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa157b5ed7b2bcf44d9b40fc8bd393a29">SPELL_SHADOW_PRISON_DAMAGE</a></div><div class="ttdeci">@ SPELL_SHADOW_PRISON_DAMAGE</div><div class="ttdef"><b>Definition</b> boss_blood_prince_council.cpp:71</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1167</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_afe60167b4dedfc4d776526b1dd65b5e9"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#afe60167b4dedfc4d776526b1dd65b5e9">LuaObject::IsPlayer</a></div><div class="ttdeci">int IsPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:59</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01167">Unit::CastSpell()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00071">SPELL_SHADOW_PRISON_DAMAGE</a>.</p>
 
@@ -446,7 +447,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d27/classspell__blood__council__shadow__prison__aura.html">spell_blood_council_shadow_prison_aura</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

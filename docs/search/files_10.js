@@ -22,7 +22,8 @@ var searchData=
   ['reputationmgr_2eh_19',['ReputationMgr.h',['../d3/d4e/ReputationMgr_8h.html',1,'']]],
   ['resolver_2eh_20',['Resolver.h',['../d7/d95/Resolver_8h.html',1,'']]],
   ['resource_2eh_21',['resource.h',['../d4/d77/worldserver_2resource_8h.html',1,'(Global Namespace)'],['../d1/d14/authserver_2resource_8h.html',1,'(Global Namespace)']]],
-  ['ruby_5fsanctum_2eh_22',['ruby_sanctum.h',['../db/dd6/ruby__sanctum_8h.html',1,'']]],
-  ['ruins_5fof_5fahnqiraj_2ecpp_23',['ruins_of_ahnqiraj.cpp',['../d4/d03/ruins__of__ahnqiraj_8cpp.html',1,'']]],
-  ['ruins_5fof_5fahnqiraj_2eh_24',['ruins_of_ahnqiraj.h',['../d4/d01/ruins__of__ahnqiraj_8h.html',1,'']]]
+  ['rollmethods_2eh_22',['RollMethods.h',['../df/d91/RollMethods_8h.html',1,'']]],
+  ['ruby_5fsanctum_2eh_23',['ruby_sanctum.h',['../db/dd6/ruby__sanctum_8h.html',1,'']]],
+  ['ruins_5fof_5fahnqiraj_2ecpp_24',['ruins_of_ahnqiraj.cpp',['../d4/d03/ruins__of__ahnqiraj_8cpp.html',1,'']]],
+  ['ruins_5fof_5fahnqiraj_2eh_25',['ruins_of_ahnqiraj.h',['../d4/d01/ruins__of__ahnqiraj_8h.html',1,'']]]
 ];

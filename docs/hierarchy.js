@@ -1757,6 +1757,7 @@ var hierarchy =
     [ "BigNumber", "d4/d8a/classBigNumber.html", null ],
     [ "BIH", "d0/de7/classBIH.html", null ],
     [ "BIHWrap< T, BoundsFunc >", "de/d3a/classBIHWrap.html", null ],
+    [ "BindingMap< K >::Binding", "dd/d0c/structBindingMap_1_1Binding.html", null ],
     [ "BloodboltHitCheck", "df/dee/classBloodboltHitCheck.html", null ],
     [ "BoardCell", "d6/da0/structBoardCell.html", null ],
     [ "BoneStormMoveTargetSelector", "d3/d44/structBoneStormMoveTargetSelector.html", null ],
@@ -1784,11 +1785,13 @@ var hierarchy =
     [ "CalendarEvent", "d8/dff/structCalendarEvent.html", null ],
     [ "CalendarInvite", "d8/de1/structCalendarInvite.html", null ],
     [ "CalendarMgr", "d8/da3/classCalendarMgr.html", null ],
+    [ "CallInfo", "dd/d7e/structCallInfo.html", null ],
     [ "Acore::CallOfHelpCreatureInRangeDo", "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html", null ],
     [ "BattlegroundAB::CapturePointInfo", "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html", null ],
     [ "BattlegroundEY::CapturePointInfo", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html", null ],
     [ "SpellScript::CastHandler", "d9/d3c/classSpellScript_1_1CastHandler.html", null ],
     [ "Acore::Impl::CastToVisitor< T >", "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html", null ],
+    [ "CClosure", "db/daf/structCClosure.html", null ],
     [ "Cell", "df/df1/structCell.html", null ],
     [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >::Cell", "d8/d8c/structRegularGrid2D_1_1Cell.html", null ],
     [ "CellArea", "d2/db5/structCellArea.html", null ],
@@ -1830,6 +1833,7 @@ var hierarchy =
     [ "AuraScript::CheckProcHandler", "db/da7/classAuraScript_1_1CheckProcHandler.html", null ],
     [ "ChrClassesEntry", "d5/def/structChrClassesEntry.html", null ],
     [ "ChrRacesEntry", "d3/d9d/structChrRacesEntry.html", null ],
+    [ "httplib::detail::ci", "da/dbe/structhttplib_1_1detail_1_1ci.html", null ],
     [ "CinematicCameraEntry", "d0/de3/structCinematicCameraEntry.html", null ],
     [ "CinematicMgr", "d8/d26/classCinematicMgr.html", null ],
     [ "CinematicSequencesEntry", "d5/d22/structCinematicSequencesEntry.html", null ],
@@ -1838,14 +1842,20 @@ var hierarchy =
     [ "Acore::ClassLevelLockable< T, MUTEX >", "d2/dd7/classAcore_1_1ClassLevelLockable.html", null ],
     [ "CleanDamage", "d9/d74/structCleanDamage.html", null ],
     [ "CliCommandHolder", "de/d80/structCliCommandHolder.html", null ],
+    [ "httplib::Client", "d8/d98/classhttplib_1_1Client.html", null ],
+    [ "httplib::ClientImpl", "d3/d22/classhttplib_1_1ClientImpl.html", null ],
     [ "ClientPktHeader", "da/d28/structClientPktHeader.html", null ],
     [ "ClientWardenModule", "d8/dd5/structClientWardenModule.html", null ],
+    [ "Closure", "d4/de8/unionClosure.html", null ],
     [ "Acore::Impl::ChatCommands::CommandInvoker", "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html", null ],
     [ "Acore::Impl::ChatCommands::CommandPermissions", "da/d5c/structAcore_1_1Impl_1_1ChatCommands_1_1CommandPermissions.html", null ],
     [ "Movement::CommonInitializer", "d1/d8c/structMovement_1_1CommonInitializer.html", null ],
     [ "WorldPackets::CompactArray< T >", "da/d97/classWorldPackets_1_1CompactArray.html", null ],
     [ "TaskScheduler::Compare", "d5/d87/structTaskScheduler_1_1Compare.html", null ],
     [ "CompletedAchievementData", "d5/dc0/structCompletedAchievementData.html", null ],
+    [ "httplib::detail::compressor", "d8/d93/classhttplib_1_1detail_1_1compressor.html", [
+      [ "httplib::detail::nocompressor", "d1/d2e/classhttplib_1_1detail_1_1nocompressor.html", null ]
+    ] ],
     [ "Condition", "d6/d9f/structCondition.html", null ],
     [ "std::conditional_t", null, [
       [ "Acore::find_type_if< Check, T1, Ts... >", "d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html", null ]
@@ -1898,6 +1908,8 @@ var hierarchy =
     [ "ContainerUnorderedMap< T, KEY_TYPE >", "d6/d0f/structContainerUnorderedMap.html", null ],
     [ "ContainerUnorderedMap< TypeList< H, T >, KEY_TYPE >", "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html", null ],
     [ "ContainerUnorderedMap< TypeNull, KEY_TYPE >", "dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html", null ],
+    [ "httplib::detail::ContentProviderAdapter", "dd/da0/classhttplib_1_1detail_1_1ContentProviderAdapter.html", null ],
+    [ "httplib::ContentReader", "d5/d14/classhttplib_1_1ContentReader.html", null ],
     [ "CoordPair< LIMIT >", "d4/d6f/structCoordPair.html", null ],
     [ "CoordPair< TOTAL_NUMBER_OF_CELLS_PER_MAP >", "d4/d6f/structCoordPair.html", null ],
     [ "CorpseExplosionCheck", "da/d64/classCorpseExplosionCheck.html", null ],
@@ -1940,6 +1952,7 @@ var hierarchy =
     [ "DatabaseWorker", "db/d78/classDatabaseWorker.html", null ],
     [ "DatabaseWorkerPool< T >", "d1/d49/classDatabaseWorkerPool.html", null ],
     [ "DataMap", "d3/dcf/classDataMap.html", null ],
+    [ "httplib::DataSink", "d3/d09/classhttplib_1_1DataSink.html", null ],
     [ "DBCDatabaseLoader", "de/d44/structDBCDatabaseLoader.html", null ],
     [ "DBCFile", "dd/d13/classDBCFile.html", null ],
     [ "DBCFileLoader", "d7/da4/classDBCFileLoader.html", null ],
@@ -1951,6 +1964,7 @@ var hierarchy =
     [ "DBUpdater< T >", "d0/d66/classDBUpdater.html", null ],
     [ "DBUpdaterUtil", "d6/d66/classDBUpdaterUtil.html", null ],
     [ "DeclinedName", "d1/d97/structDeclinedName.html", null ],
+    [ "httplib::detail::decompressor", "de/df7/classhttplib_1_1detail_1_1decompressor.html", null ],
     [ "DefileTargetSelector", "d6/df7/structDefileTargetSelector.html", null ],
     [ "character_commandscript::DeletedInfo", "d9/d96/structcharacter__commandscript_1_1DeletedInfo.html", null ],
     [ "Acore::dependant_false< T >", "d1/dc3/structAcore_1_1dependant__false.html", null ],
@@ -1985,6 +1999,7 @@ var hierarchy =
     [ "DynamicTreeIntersectionCallback", "d7/dff/structDynamicTreeIntersectionCallback.html", null ],
     [ "DynamicTreeLocationInfoCallback", "d3/d98/structDynamicTreeLocationInfoCallback.html", null ],
     [ "DynamicVisibilityMgr", "da/df9/classDynamicVisibilityMgr.html", null ],
+    [ "Dyndata", "d7/d60/structDyndata.html", null ],
     [ "EarthenPowerTargetSelector", "d5/d6b/classEarthenPowerTargetSelector.html", null ],
     [ "_SpellScript::EffectAuraNameCheck", "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html", [
       [ "AuraScript::EffectBase", "d6/d33/classAuraScript_1_1EffectBase.html", [
@@ -2012,6 +2027,12 @@ var hierarchy =
     [ "_SpellScript::EffectNameCheck", "d5/de6/class__SpellScript_1_1EffectNameCheck.html", [
       [ "SpellScript::EffectHandler", "da/d15/classSpellScript_1_1EffectHandler.html", null ]
     ] ],
+    [ "Eluna", "d7/dc2/classEluna.html", null ],
+    [ "ElunaEventProcessor", "df/d58/classElunaEventProcessor.html", null ],
+    [ "ElunaGlobal", "d0/df3/classElunaGlobal.html", null ],
+    [ "ElunaObject", "d9/d4e/classElunaObject.html", null ],
+    [ "ElunaRegister< T >", "d2/d4f/structElunaRegister.html", null ],
+    [ "ElunaTemplate< T >", "d3/d52/classElunaTemplate.html", null ],
     [ "EmblemInfo", "df/dd3/classEmblemInfo.html", null ],
     [ "Acore::EmoteChatBuilder", "d0/dfe/classAcore_1_1EmoteChatBuilder.html", null ],
     [ "EmotesEntry", "d8/d3e/structEmotesEntry.html", null ],
@@ -2030,15 +2051,33 @@ var hierarchy =
     [ "EnchantDuration", "da/d17/structEnchantDuration.html", null ],
     [ "EnchStoreItem", "d2/d5d/structEnchStoreItem.html", null ],
     [ "EntryCheckPredicate", "d9/dea/classEntryCheckPredicate.html", null ],
+    [ "EntryKey< T >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::CreatureEvents >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::GameObjectEvents >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::GossipEvents >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::InstanceEvents >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::ItemEvents >", "dd/d1f/structEntryKey.html", null ],
+    [ "EntryKey< Hooks::PacketEvents >", "dd/d1f/structEntryKey.html", null ],
     [ "EntryPointData", "d2/dc2/structEntryPointData.html", null ],
     [ "EnumFlag< T >", "d4/dcb/classEnumFlag.html", null ],
     [ "EnumText", "d7/deb/structEnumText.html", null ],
     [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html", null ],
     [ "EnumUtils", "d0/d8c/classEnumUtils.html", null ],
+    [ "std::equal_to< EntryKey< T > >", "d3/dac/structstd_1_1equal__to_3_01EntryKey_3_01T_01_4_01_4.html", null ],
+    [ "std::equal_to< EventKey< T > >", "d2/d87/structstd_1_1equal__to_3_01EventKey_3_01T_01_4_01_4.html", null ],
+    [ "std::equal_to< UniqueObjectKey< T > >", "db/dd0/structstd_1_1equal__to_3_01UniqueObjectKey_3_01T_01_4_01_4.html", null ],
     [ "EquipmentInfo", "df/d3e/structEquipmentInfo.html", null ],
     [ "EquipmentSet", "d8/db8/structEquipmentSet.html", null ],
     [ "Escort_Waypoint", "da/d80/structEscort__Waypoint.html", null ],
     [ "EventEmitter< Signature >", "d9/d51/classEventEmitter.html", null ],
+    [ "EventEmitter< void(std::string)>", "d9/d51/classEventEmitter.html", null ],
+    [ "EventKey< T >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::BGEvents >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::GroupEvents >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::GuildEvents >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::PlayerEvents >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::ServerEvents >", "d3/dba/structEventKey.html", null ],
+    [ "EventKey< Hooks::VehicleEvents >", "d3/dba/structEventKey.html", null ],
     [ "EventMap", "d1/d2e/classEventMap.html", null ],
     [ "EventProcessor", "d2/d58/classEventProcessor.html", null ],
     [ "DBCFile::Exception", "dd/d96/classDBCFile_1_1Exception.html", [
@@ -2066,6 +2105,7 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
+    [ "expdesc", "df/dfe/structexpdesc.html", null ],
     [ "Movement::FacingInfo", "d4/d5a/unionMovement_1_1FacingInfo.html", null ],
     [ "FactionEntry", "de/d14/structFactionEntry.html", null ],
     [ "FactionState", "d2/d48/structFactionState.html", null ],
@@ -2123,6 +2163,7 @@ var hierarchy =
     [ "FrostwingGauntletRespawner", "d9/d9c/classFrostwingGauntletRespawner.html", null ],
     [ "FrostwingVrykulSearcher", "d2/dab/classFrostwingVrykulSearcher.html", null ],
     [ "FrozenThroneResetWorker", "d7/def/classFrozenThroneResetWorker.html", null ],
+    [ "FuncState", "da/db2/structFuncState.html", null ],
     [ "GameEventAIHookWorker", "d2/dea/classGameEventAIHookWorker.html", null ],
     [ "GameEventData", "da/d99/structGameEventData.html", null ],
     [ "GameEventFinishCondition", "d7/da0/structGameEventFinishCondition.html", null ],
@@ -2185,6 +2226,8 @@ var hierarchy =
     [ "Acore::GameObjectWorker< Functor >", "d1/df9/structAcore_1_1GameObjectWorker.html", null ],
     [ "GameTele", "d4/d0f/structGameTele.html", null ],
     [ "GameTeleVisitor", "da/dcc/structGameTeleVisitor.html", null ],
+    [ "GCheader", "d1/dfb/structGCheader.html", null ],
+    [ "GCObject", "d6/d42/unionGCObject.html", null ],
     [ "GemPropertiesEntry", "dc/df5/structGemPropertiesEntry.html", null ],
     [ "Acore::GeneralLock< MUTEX >", "d6/dc7/classAcore_1_1GeneralLock.html", null ],
     [ "Acore::Impl::GenericBaseEncoding< Encoding >", "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html", null ],
@@ -2196,6 +2239,7 @@ var hierarchy =
     [ "get_packet_class< T >", "d4/d9f/structget__packet__class.html", null ],
     [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d4/d55/structget__packet__class_3_01void_07WorldSession_1_1_5_08_07PacketClass_01_6_08_4.html", null ],
     [ "GhoulTargetCheck", "d9/dbf/classGhoulTargetCheck.html", null ],
+    [ "global_State", "d2/df2/structglobal__State.html", null ],
     [ "GlobalCooldown", "d8/da3/structGlobalCooldown.html", null ],
     [ "GlobalCooldownMgr", "d5/d33/classGlobalCooldownMgr.html", null ],
     [ "Acore::Hyperlinks::LinkTags::glyph", "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html", null ],
@@ -2283,7 +2327,11 @@ var hierarchy =
     [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html", null ],
     [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html", null ],
     [ "Acore::has_type< T, Tuple >", "d7/db4/structAcore_1_1has__type.html", null ],
+    [ "std::hash< EntryKey< T > >", "dc/dd1/structstd_1_1hash_3_01EntryKey_3_01T_01_4_01_4.html", null ],
+    [ "std::hash< EventKey< T > >", "d0/dad/structstd_1_1hash_3_01EventKey_3_01T_01_4_01_4.html", null ],
     [ "std::hash< ObjectGuid >", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html", null ],
+    [ "std::hash< UniqueObjectKey< T > >", "d2/d10/structstd_1_1hash_3_01UniqueObjectKey_3_01T_01_4_01_4.html", null ],
+    [ "hash_helper", "d4/d46/classhash__helper.html", null ],
     [ "HashMapHolder< T >", "da/dd8/classHashMapHolder.html", null ],
     [ "HashTrait< GameObjectModel >", "d4/ddb/structHashTrait_3_01GameObjectModel_01_4.html", null ],
     [ "HealInfo", "db/df2/classHealInfo.html", null ],
@@ -2320,6 +2368,9 @@ var hierarchy =
     [ "HookList< SpellScript::ObjectAreaTargetSelectHandler >", "d8/d8e/classHookList.html", null ],
     [ "HookList< SpellScript::ObjectTargetSelectHandler >", "d8/d8e/classHookList.html", null ],
     [ "Movement::HoverMovementTransform", "db/dcc/classMovement_1_1HoverMovementTransform.html", null ],
+    [ "HttpManager", "d4/d55/classHttpManager.html", null ],
+    [ "HttpResponse", "dd/d43/structHttpResponse.html", null ],
+    [ "HttpWorkItem", "dc/d93/structHttpWorkItem.html", null ],
     [ "Acore::Hyperlinks::HyperlinkColor", "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html", null ],
     [ "HyperlinkDataTokenizer", "df/d37/classHyperlinkDataTokenizer.html", null ],
     [ "Acore::Hyperlinks::HyperlinkInfo", "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html", null ],
@@ -2332,6 +2383,9 @@ var hierarchy =
     [ "IgbExplosionCheck", "de/ddc/classIgbExplosionCheck.html", null ],
     [ "IgbTeleportOnVictoryCheck", "da/d8c/classIgbTeleportOnVictoryCheck.html", null ],
     [ "MMAP::IMMapMgr", "de/da2/classMMAP_1_1IMMapMgr.html", null ],
+    [ "InstanceData", null, [
+      [ "ElunaInstanceAI", "d6/d0c/classElunaInstanceAI.html", null ]
+    ] ],
     [ "InstancePlayerBind", "d6/dbf/structInstancePlayerBind.html", null ],
     [ "InstanceSave", "d7/d91/classInstanceSave.html", null ],
     [ "InstanceSaveMgr", "d6/dee/classInstanceSaveMgr.html", null ],
@@ -2390,10 +2444,14 @@ var hierarchy =
     [ "keyData", "de/d0a/unionkeyData.html", null ],
     [ "KeyFrame", "dd/d3a/structKeyFrame.html", null ],
     [ "KillRewarder", "d4/d50/classKillRewarder.html", null ],
+    [ "Labeldesc", "df/d5c/structLabeldesc.html", null ],
+    [ "Labellist", "d7/d2d/structLabellist.html", null ],
     [ "LajTransformData", "d4/dd2/structLajTransformData.html", null ],
     [ "LanguageDesc", "d0/d1b/structLanguageDesc.html", null ],
     [ "LastPhaseIceTombTargetSelector", "db/d2d/structLastPhaseIceTombTargetSelector.html", null ],
+    [ "LClosure", "df/d2c/structLClosure.html", null ],
     [ "LeechingThrowSelector", "d1/d8b/structLeechingThrowSelector.html", null ],
+    [ "LexState", "d9/d72/structLexState.html", null ],
     [ "lfg::Lfg5Guids", "da/de4/classlfg_1_1Lfg5Guids.html", null ],
     [ "lfg::LFGDungeonData", "dc/d8b/structlfg_1_1LFGDungeonData.html", null ],
     [ "LFGDungeonEntry", "d8/dbf/structLFGDungeonEntry.html", null ],
@@ -2527,12 +2585,30 @@ var hierarchy =
     [ "Acore::ClassLevelLockable< T, MUTEX >::Lock", "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html", null ],
     [ "Acore::ObjectLevelLockable< T, MUTEX >::Lock", "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html", null ],
     [ "Acore::SingleThreaded< T >::Lock", "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html", null ],
+    [ "ElunaUtil::Lockable", "d7/d8c/classElunaUtil_1_1Lockable.html", [
+      [ "BindingMap< EventKey< Hooks::ServerEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EventKey< Hooks::PlayerEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EventKey< Hooks::GuildEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EventKey< Hooks::GroupEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EventKey< Hooks::VehicleEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EventKey< Hooks::BGEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::PacketEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::CreatureEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::GossipEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::GameObjectEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::ItemEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< EntryKey< Hooks::InstanceEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< UniqueObjectKey< Hooks::CreatureEvents > >", "d8/dc1/classBindingMap.html", null ],
+      [ "BindingMap< K >", "d8/dc1/classBindingMap.html", null ],
+      [ "EventMgr", "d9/dda/classEventMgr.html", null ]
+    ] ],
     [ "LockedQueue< T, StorageType >", "d2/d8b/classLockedQueue.html", null ],
     [ "LockedQueue< CliCommandHolder * >", "d2/d8b/classLockedQueue.html", null ],
     [ "LockedQueue< std::shared_ptr< AuctionSearcherUpdate > >", "d2/d8b/classLockedQueue.html", null ],
     [ "LockedQueue< WorldPacket * >", "d2/d8b/classLockedQueue.html", null ],
     [ "LockedQueue< WorldSession * >", "d2/d8b/classLockedQueue.html", null ],
     [ "LockEntry", "d2/d7d/structLockEntry.html", null ],
+    [ "LocVar", "d1/ddd/structLocVar.html", null ],
     [ "Log", "d0/d77/classLog.html", null ],
     [ "Guild::LogEntry", "d6/d26/classGuild_1_1LogEntry.html", [
       [ "Guild::BankEventLogEntry", "d3/d4e/classGuild_1_1BankEventLogEntry.html", null ],
@@ -2553,6 +2629,15 @@ var hierarchy =
     [ "LootStoreItem", "d6/d79/structLootStoreItem.html", null ],
     [ "LootTemplate", "db/d14/classLootTemplate.html", null ],
     [ "LootView", "da/db3/structLootView.html", null ],
+    [ "lua_Debug", "d8/d6b/structlua__Debug.html", null ],
+    [ "lua_State", "df/df1/structlua__State.html", null ],
+    [ "lua_TValue", "d0/d9e/structlua__TValue.html", null ],
+    [ "LuaEvent", "d4/d83/structLuaEvent.html", null ],
+    [ "luai_Cast", "d1/dc0/unionluai__Cast.html", null ],
+    [ "luaL_Buffer", "dc/d6f/structluaL__Buffer.html", null ],
+    [ "luaL_Reg", "da/d47/structluaL__Reg.html", null ],
+    [ "luaL_Stream", "da/d65/structluaL__Stream.html", null ],
+    [ "LuaScript", "d5/ddf/structLuaScript.html", null ],
     [ "M2Array", "d3/ded/structM2Array.html", null ],
     [ "M2Camera", "d9/dae/structM2Camera.html", null ],
     [ "M2Header", "de/deb/structM2Header.html", null ],
@@ -2584,7 +2669,13 @@ var hierarchy =
     [ "VMAP::MapSpawns", "d3/d5d/structVMAP_1_1MapSpawns.html", null ],
     [ "MMAP::MapTiles", "df/d51/structMMAP_1_1MapTiles.html", null ],
     [ "MapUpdater", "d3/db8/classMapUpdater.html", null ],
+    [ "mar_Buffer", "df/d58/structmar__Buffer.html", null ],
     [ "MarkOfNatureTargetSelector", "d8/dd7/classMarkOfNatureTargetSelector.html", null ],
+    [ "httplib::detail::MatcherBase", "d9/d80/classhttplib_1_1detail_1_1MatcherBase.html", [
+      [ "httplib::detail::PathParamsMatcher", "d2/d81/classhttplib_1_1detail_1_1PathParamsMatcher.html", null ],
+      [ "httplib::detail::RegexMatcher", "d3/d7d/classhttplib_1_1detail_1_1RegexMatcher.html", null ]
+    ] ],
+    [ "Mbuffer", "dd/d5c/structMbuffer.html", null ],
     [ "MCBossObject", "dd/d89/structMCBossObject.html", null ],
     [ "ADT::MDDF", "d1/d71/structADT_1_1MDDF.html", null ],
     [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d7/dc2/structBIHWrap_1_1MDLCallback.html", null ],
@@ -2623,6 +2714,7 @@ var hierarchy =
     [ "Acore::MostHPPercentMissingInRange", "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html", null ],
     [ "MotdMgr", "dd/d8b/classMotdMgr.html", null ],
     [ "MotionMaster", "de/d3b/classMotionMaster.html", null ],
+    [ "httplib::Server::MountPointEntry", "d3/dd4/structhttplib_1_1Server_1_1MountPointEntry.html", null ],
     [ "MovableMapObject", "db/def/classMovableMapObject.html", [
       [ "Creature", "db/dd5/classCreature.html", null ],
       [ "DynamicObject", "dc/d8e/classDynamicObject.html", null ],
@@ -2692,6 +2784,9 @@ var hierarchy =
     [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html", null ],
     [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html", null ],
     [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html", null ],
+    [ "httplib::MultipartFormData", "da/dfc/structhttplib_1_1MultipartFormData.html", null ],
+    [ "httplib::detail::MultipartFormDataParser", "d3/dbd/classhttplib_1_1detail_1_1MultipartFormDataParser.html", null ],
+    [ "httplib::MultipartFormDataProvider", "de/df4/structhttplib_1_1MultipartFormDataProvider.html", null ],
     [ "VMAP::MyCollisionDetection", "d1/d7f/classVMAP_1_1MyCollisionDetection.html", null ],
     [ "MYSQL", null, [
       [ "MySQLHandle", "d0/d7e/structMySQLHandle.html", null ]
@@ -2739,6 +2834,7 @@ var hierarchy =
     ] ],
     [ "NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "df/d46/classNGrid.html", null ],
     [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html", null ],
+    [ "Node", "d8/d49/structNode.html", null ],
     [ "NodeArray< Node >", "d7/d06/classNodeArray.html", null ],
     [ "NodeCreator< Node >", "d5/d6e/structNodeCreator.html", null ],
     [ "WorldPackets::Strings::NoHyperlinks", "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html", null ],
@@ -2764,11 +2860,13 @@ var hierarchy =
     ] ],
     [ "ObjectData", "d3/dfb/structObjectData.html", null ],
     [ "Acore::ObjectDistanceOrderPred", "df/d25/classAcore_1_1ObjectDistanceOrderPred.html", null ],
+    [ "ElunaUtil::ObjectDistanceOrderPred", "d0/de1/classElunaUtil_1_1ObjectDistanceOrderPred.html", null ],
     [ "ObjectGridCleaner", "d7/d6b/classObjectGridCleaner.html", null ],
     [ "ObjectGridLoader", "d2/d7d/classObjectGridLoader.html", null ],
     [ "ObjectGridUnloader", "da/dd3/classObjectGridUnloader.html", null ],
     [ "ObjectGuid", "d0/d0a/classObjectGuid.html", null ],
     [ "Acore::ObjectGUIDCheck", "d2/d0d/classAcore_1_1ObjectGUIDCheck.html", null ],
+    [ "ElunaUtil::ObjectGUIDCheck", "db/dad/classElunaUtil_1_1ObjectGUIDCheck.html", null ],
     [ "ObjectGuidGeneratorBase", "d5/d89/classObjectGuidGeneratorBase.html", [
       [ "ObjectGuidGenerator< high >", "d3/d18/classObjectGuidGenerator.html", null ]
     ] ],
@@ -3014,6 +3112,7 @@ var hierarchy =
     [ "ProducerConsumerQueue< SQLOperation * >", "d7/d29/classProducerConsumerQueue.html", null ],
     [ "ProducerConsumerQueue< UpdateRequest * >", "d7/d29/classProducerConsumerQueue.html", null ],
     [ "ProgressionRequirement", "d5/d34/structProgressionRequirement.html", null ],
+    [ "Proto", "d8/dc2/structProto.html", null ],
     [ "PvPDifficultyEntry", "db/d2f/structPvPDifficultyEntry.html", null ],
     [ "PvPInfo", "d2/db0/structPvPInfo.html", null ],
     [ "PyramidEventData", "d2/ddb/structPyramidEventData.html", null ],
@@ -3063,9 +3162,12 @@ var hierarchy =
     [ "RepSpilloverTemplate", "d7/db1/structRepSpilloverTemplate.html", null ],
     [ "ReputationMgr", "dd/db3/classReputationMgr.html", null ],
     [ "ReputationOnKillEntry", "d1/d44/structReputationOnKillEntry.html", null ],
+    [ "httplib::Request", "dc/de9/structhttplib_1_1Request.html", null ],
     [ "ResetNotifier", "d2/dfb/structResetNotifier.html", null ],
     [ "Acore::Asio::Resolver", "d9/dac/classAcore_1_1Asio_1_1Resolver.html", null ],
     [ "Acore::RespawnDo", "d3/d6d/classAcore_1_1RespawnDo.html", null ],
+    [ "httplib::Response", "d8/d08/structhttplib_1_1Response.html", null ],
+    [ "httplib::Result", "d8/dd1/classhttplib_1_1Result.html", null ],
     [ "ResultIterator< T >", "dc/d21/structResultIterator.html", null ],
     [ "ResultSet", "d0/d92/classResultSet.html", null ],
     [ "RisenArchmageCheck", "d2/d0a/classRisenArchmageCheck.html", null ],
@@ -3078,6 +3180,7 @@ var hierarchy =
     [ "SavedItem", "d8/d60/structSavedItem.html", null ],
     [ "ScalingStatDistributionEntry", "d1/dea/structScalingStatDistributionEntry.html", null ],
     [ "ScalingStatValuesEntry", "d6/de3/structScalingStatValuesEntry.html", null ],
+    [ "httplib::detail::scope_exit", "d5/d17/structhttplib_1_1detail_1_1scope__exit.html", null ],
     [ "ScriptAction", "d2/d1e/structScriptAction.html", null ],
     [ "ScriptInfo", "d2/d8f/structScriptInfo.html", null ],
     [ "ScriptMgr", "d2/d73/classScriptMgr.html", null ],
@@ -3168,13 +3271,27 @@ var hierarchy =
         [ "achievement_yogg_saron_kiss_and_make_up", "d7/d31/classachievement__yogg__saron__kiss__and__make__up.html", null ]
       ] ],
       [ "AchievementScript", "d6/d41/classAchievementScript.html", null ],
-      [ "AllBattlegroundScript", "d3/ddf/classAllBattlegroundScript.html", null ],
-      [ "AllCommandScript", "d7/da3/classAllCommandScript.html", null ],
-      [ "AllCreatureScript", "de/d12/classAllCreatureScript.html", null ],
-      [ "AllGameObjectScript", "d3/dbf/classAllGameObjectScript.html", null ],
-      [ "AllItemScript", "d0/dcc/classAllItemScript.html", null ],
-      [ "AllMapScript", "d5/dac/classAllMapScript.html", null ],
-      [ "AllSpellScript", "dd/db7/classAllSpellScript.html", null ],
+      [ "AllBattlegroundScript", "d3/ddf/classAllBattlegroundScript.html", [
+        [ "Eluna_BGScript", "da/df2/classEluna__BGScript.html", null ]
+      ] ],
+      [ "AllCommandScript", "d7/da3/classAllCommandScript.html", [
+        [ "Eluna_CommandSC", "d6/d60/classEluna__CommandSC.html", null ]
+      ] ],
+      [ "AllCreatureScript", "de/d12/classAllCreatureScript.html", [
+        [ "Eluna_AllCreatureScript", "d7/d4f/classEluna__AllCreatureScript.html", null ]
+      ] ],
+      [ "AllGameObjectScript", "d3/dbf/classAllGameObjectScript.html", [
+        [ "Eluna_AllGameObjectScript", "da/d7b/classEluna__AllGameObjectScript.html", null ]
+      ] ],
+      [ "AllItemScript", "d0/dcc/classAllItemScript.html", [
+        [ "Eluna_AllItemScript", "dd/d5f/classEluna__AllItemScript.html", null ]
+      ] ],
+      [ "AllMapScript", "d5/dac/classAllMapScript.html", [
+        [ "Eluna_AllMapScript", "db/d09/classEluna__AllMapScript.html", null ]
+      ] ],
+      [ "AllSpellScript", "dd/db7/classAllSpellScript.html", [
+        [ "Eluna_SpellSC", "d7/d83/classEluna__SpellSC.html", null ]
+      ] ],
       [ "AreaTriggerScript", "d3/d57/classAreaTriggerScript.html", [
         [ "AreaTrigger_at_area_52_entrance", "d0/d21/classAreaTrigger__at__area__52__entrance.html", null ],
         [ "AreaTrigger_at_brewfest", "d5/d2e/classAreaTrigger__at__brewfest.html", null ],
@@ -3241,7 +3358,9 @@ var hierarchy =
       ] ],
       [ "ArenaScript", "d6/d1d/classArenaScript.html", null ],
       [ "ArenaTeamScript", "d0/d32/classArenaTeamScript.html", null ],
-      [ "AuctionHouseScript", "da/d5a/classAuctionHouseScript.html", null ],
+      [ "AuctionHouseScript", "da/d5a/classAuctionHouseScript.html", [
+        [ "Eluna_AuctionHouseScript", "d4/d38/classEluna__AuctionHouseScript.html", null ]
+      ] ],
       [ "BattlegroundMapScript", "da/d99/classBattlegroundMapScript.html", null ],
       [ "BattlegroundScript", "d4/da9/classBattlegroundScript.html", null ],
       [ "CommandScript", "d1/d40/classCommandScript.html", [
@@ -4091,9 +4210,13 @@ var hierarchy =
       ] ],
       [ "DatabaseScript", "d6/d6e/classDatabaseScript.html", null ],
       [ "DynamicObjectScript", "d7/db2/classDynamicObjectScript.html", null ],
-      [ "ElunaScript", "d8/d0f/classElunaScript.html", null ],
+      [ "ElunaScript", "d8/d0f/classElunaScript.html", [
+        [ "Eluna_ElunaScript", "df/dd0/classEluna__ElunaScript.html", null ]
+      ] ],
       [ "FormulaScript", "d8/d09/classFormulaScript.html", null ],
-      [ "GameEventScript", "d2/d48/classGameEventScript.html", null ],
+      [ "GameEventScript", "d2/d48/classGameEventScript.html", [
+        [ "Eluna_GameEventScript", "d4/d57/classEluna__GameEventScript.html", null ]
+      ] ],
       [ "GameObjectScript", "dd/de9/classGameObjectScript.html", [
         [ "FactoryGameObjectScript< AI, AIFactory >", "db/d00/classFactoryGameObjectScript.html", null ],
         [ "GenericGameObjectScript< AI >", "dd/d66/classGenericGameObjectScript.html", null ],
@@ -4185,9 +4308,12 @@ var hierarchy =
       ] ],
       [ "GlobalScript", "dc/d37/classGlobalScript.html", null ],
       [ "GroupScript", "dd/de0/classGroupScript.html", [
+        [ "Eluna_GroupScript", "da/d69/classEluna__GroupScript.html", null ],
         [ "lfg::LFGGroupScript", "d5/df9/classlfg_1_1LFGGroupScript.html", null ]
       ] ],
-      [ "GuildScript", "dd/d25/classGuildScript.html", null ],
+      [ "GuildScript", "dd/d25/classGuildScript.html", [
+        [ "Eluna_GuildScript", "dd/d0b/classEluna__GuildScript.html", null ]
+      ] ],
       [ "InstanceMapScript", "dc/d07/classInstanceMapScript.html", [
         [ "instance_ahnkahet", "d5/dc6/classinstance__ahnkahet.html", null ],
         [ "instance_arcatraz", "df/d3c/classinstance__arcatraz.html", null ],
@@ -4273,9 +4399,13 @@ var hierarchy =
         [ "item_only_for_flight", "d6/d3f/classitem__only__for__flight.html", null ],
         [ "item_petrov_cluster_bombs", "d5/de4/classitem__petrov__cluster__bombs.html", null ]
       ] ],
-      [ "LootScript", "da/dbd/classLootScript.html", null ],
+      [ "LootScript", "da/dbd/classLootScript.html", [
+        [ "Eluna_LootScript", "d4/dc9/classEluna__LootScript.html", null ]
+      ] ],
       [ "MailScript", "d0/da6/classMailScript.html", null ],
-      [ "MiscScript", "de/dd5/classMiscScript.html", null ],
+      [ "MiscScript", "de/dd5/classMiscScript.html", [
+        [ "Eluna_MiscScript", "d7/d71/classEluna__MiscScript.html", null ]
+      ] ],
       [ "ModuleScript", "d7/dc3/classModuleScript.html", null ],
       [ "MovementHandlerScript", "d2/d43/classMovementHandlerScript.html", null ],
       [ "OutdoorPvPScript", "d2/d45/classOutdoorPvPScript.html", [
@@ -4287,29 +4417,42 @@ var hierarchy =
         [ "OutdoorPvP_terokkar_forest", "dc/d31/classOutdoorPvP__terokkar__forest.html", null ],
         [ "OutdoorPvP_zangarmarsh", "de/d83/classOutdoorPvP__zangarmarsh.html", null ]
       ] ],
-      [ "PetScript", "dd/d0b/classPetScript.html", null ],
+      [ "PetScript", "dd/d0b/classPetScript.html", [
+        [ "Eluna_PetScript", "db/deb/classEluna__PetScript.html", null ]
+      ] ],
       [ "PlayerScript", "d0/d5b/classPlayerScript.html", [
         [ "CharacterActionIpLogger", "d8/d12/classCharacterActionIpLogger.html", null ],
         [ "CharacterDeleteActionIpLogger", "dc/d08/classCharacterDeleteActionIpLogger.html", null ],
         [ "ChatLogScript", "de/dbb/classChatLogScript.html", null ],
+        [ "Eluna_PlayerScript", "df/da5/classEluna__PlayerScript.html", null ],
         [ "MidsummerPlayerScript", "dc/db1/classMidsummerPlayerScript.html", null ],
         [ "QuestApprenticeAnglerPlayerScript", "d2/d31/classQuestApprenticeAnglerPlayerScript.html", null ],
         [ "ServerMailReward", "d3/d2d/classServerMailReward.html", null ],
         [ "lfg::LFGPlayerScript", "df/d55/classlfg_1_1LFGPlayerScript.html", null ]
       ] ],
-      [ "ServerScript", "da/dc8/classServerScript.html", null ],
+      [ "ServerScript", "da/dc8/classServerScript.html", [
+        [ "Eluna_ServerScript", "d6/d5a/classEluna__ServerScript.html", null ]
+      ] ],
       [ "SpellScriptLoader", "d0/dad/classSpellScriptLoader.html", [
         [ "GenericSpellAndAuraScriptLoader< Ts >", "dc/dde/classGenericSpellAndAuraScriptLoader.html", null ],
         [ "spell_q11515_fel_siphon_dummy", "d9/d06/classspell__q11515__fel__siphon__dummy.html", null ],
         [ "spell_q55_sacred_cleansing", "d8/d1e/classspell__q55__sacred__cleansing.html", null ]
       ] ],
       [ "TransportScript", "db/d16/classTransportScript.html", null ],
-      [ "UnitScript", "d2/d12/classUnitScript.html", null ],
-      [ "VehicleScript", "d7/d60/classVehicleScript.html", null ],
+      [ "UnitScript", "d2/d12/classUnitScript.html", [
+        [ "Eluna_UnitScript", "da/db4/classEluna__UnitScript.html", null ]
+      ] ],
+      [ "VehicleScript", "d7/d60/classVehicleScript.html", [
+        [ "Eluna_VehicleScript", "d0/d08/classEluna__VehicleScript.html", null ]
+      ] ],
       [ "WeatherScript", "d0/df7/classWeatherScript.html", null ],
       [ "WorldMapScript", "de/d4a/classWorldMapScript.html", null ],
-      [ "WorldObjectScript", "db/d0c/classWorldObjectScript.html", null ],
-      [ "WorldScript", "d7/da7/classWorldScript.html", null ]
+      [ "WorldObjectScript", "db/d0c/classWorldObjectScript.html", [
+        [ "Eluna_WorldObjectScript", "db/dd0/classEluna__WorldObjectScript.html", null ]
+      ] ],
+      [ "WorldScript", "d7/da7/classWorldScript.html", [
+        [ "Eluna_WorldScript", "d5/d4e/classEluna__WorldScript.html", null ]
+      ] ]
     ] ],
     [ "ScriptPointMove", "d3/d15/structScriptPointMove.html", null ],
     [ "ScriptRegistry< TScript >", "d5/d23/classScriptRegistry.html", null ],
@@ -4320,6 +4463,8 @@ var hierarchy =
     [ "SecretInfo", "d2/d1c/structSecretInfo.html", null ],
     [ "SecretMgr", "dc/d49/classSecretMgr.html", null ],
     [ "BattlegroundQueue::SelectionPool", "d3/d25/classBattlegroundQueue_1_1SelectionPool.html", null ],
+    [ "SemInfo", "df/d55/unionSemInfo.html", null ],
+    [ "httplib::Server", "d4/d9f/classhttplib_1_1Server.html", null ],
     [ "ServerMail", "d8/d86/structServerMail.html", null ],
     [ "ServerPktHeader", "d6/d13/structServerPktHeader.html", null ],
     [ "SessionKeyGenerator< Hash >", "de/d8f/classSessionKeyGenerator.html", null ],
@@ -4351,6 +4496,7 @@ var hierarchy =
     [ "SmartWaypointMgr", "d9/d6e/classSmartWaypointMgr.html", null ],
     [ "SOAPCommand", "d5/dfc/classSOAPCommand.html", null ],
     [ "SocialMgr", "dc/d79/classSocialMgr.html", null ],
+    [ "httplib::ClientImpl::Socket", "d5/d4e/structhttplib_1_1ClientImpl_1_1Socket.html", null ],
     [ "SocketMgr< SocketType >", "df/d41/classSocketMgr.html", null ],
     [ "SocketMgr< AuthSession >", "df/d41/classSocketMgr.html", [
       [ "AuthSocketMgr", "dd/d76/classAuthSocketMgr.html", null ]
@@ -4414,6 +4560,9 @@ var hierarchy =
     ] ],
     [ "SplineHandler", "de/d59/classSplineHandler.html", null ],
     [ "SplineRawInitializer", "d9/d97/classSplineRawInitializer.html", null ],
+    [ "rigtorp::SPSCQueue< T, Allocator >", "d1/dc1/classrigtorp_1_1SPSCQueue.html", null ],
+    [ "rigtorp::SPSCQueue< HttpResponse * >", "d1/dc1/classrigtorp_1_1SPSCQueue.html", null ],
+    [ "rigtorp::SPSCQueue< HttpWorkItem * >", "d1/dc1/classrigtorp_1_1SPSCQueue.html", null ],
     [ "SQLElementData", "dd/d57/structSQLElementData.html", null ],
     [ "SQLOperation", "da/d08/classSQLOperation.html", [
       [ "BasicStatementTask", "d3/d14/classBasicStatementTask.html", null ],
@@ -4443,6 +4592,14 @@ var hierarchy =
     [ "IoContextBaseNamespace::IoContextBase::strand", null, [
       [ "Acore::Asio::Strand", "dd/d27/classAcore_1_1Asio_1_1Strand.html", null ]
     ] ],
+    [ "httplib::Stream", "d8/dce/classhttplib_1_1Stream.html", [
+      [ "httplib::detail::BufferStream", "df/d57/classhttplib_1_1detail_1_1BufferStream.html", null ],
+      [ "httplib::detail::SocketStream", "d9/d9e/classhttplib_1_1detail_1_1SocketStream.html", null ]
+    ] ],
+    [ "httplib::detail::stream_line_reader", "df/dc5/classhttplib_1_1detail_1_1stream__line__reader.html", null ],
+    [ "std::streambuf", null, [
+      [ "httplib::DataSink::data_sink_streambuf", "df/d31/classhttplib_1_1DataSink_1_1data__sink__streambuf.html", null ]
+    ] ],
     [ "WorldPackets::String< MaxBytesWithoutNullTerminator, Validators >", "db/de2/classWorldPackets_1_1String.html", null ],
     [ "WorldPackets::String< 100 >", "db/de2/classWorldPackets_1_1String.html", null ],
     [ "WorldPackets::String< 128, WorldPackets::Strings::NoHyperlinks >", "db/de2/classWorldPackets_1_1String.html", null ],
@@ -4452,6 +4609,7 @@ var hierarchy =
     [ "WorldPackets::String< 48 >", "db/de2/classWorldPackets_1_1String.html", null ],
     [ "WorldPackets::String< 500, WorldPackets::Strings::NoHyperlinks >", "db/de2/classWorldPackets_1_1String.html", null ],
     [ "StringCompareLessI_T", "d1/d28/structStringCompareLessI__T.html", null ],
+    [ "stringtable", "d2/d80/structstringtable.html", null ],
     [ "StringTransaction", "da/d95/classStringTransaction.html", null ],
     [ "SummonList", "d6/df5/classSummonList.html", null ],
     [ "SummonPropertiesEntry", "d0/df2/structSummonPropertiesEntry.html", null ],
@@ -4461,6 +4619,7 @@ var hierarchy =
     [ "SymbolDetail", "d0/da3/structSymbolDetail.html", null ],
     [ "SymbolPair", "d2/d66/structSymbolPair.html", null ],
     [ "SystemMgr", "d8/db3/classSystemMgr.html", null ],
+    [ "Table", "dc/dcb/structTable.html", null ],
     [ "TableField", "d2/db0/structTableField.html", null ],
     [ "TableStruct", "d9/da3/structTableStruct.html", null ],
     [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html", null ],
@@ -4477,6 +4636,9 @@ var hierarchy =
     [ "TargetInfo", "db/de6/structTargetInfo.html", null ],
     [ "TaskScheduler::Task", "d6/dbf/classTaskScheduler_1_1Task.html", null ],
     [ "TaskContext", "db/ddb/classTaskContext.html", null ],
+    [ "httplib::TaskQueue", "d1/d9e/classhttplib_1_1TaskQueue.html", [
+      [ "httplib::ThreadPool", "d4/d05/classhttplib_1_1ThreadPool.html", null ]
+    ] ],
     [ "TaskScheduler::TaskQueue", "d3/ddc/classTaskScheduler_1_1TaskQueue.html", null ],
     [ "TaskScheduler", "df/ddc/classTaskScheduler.html", null ],
     [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html", null ],
@@ -4506,6 +4668,8 @@ var hierarchy =
     [ "boost::asio::time_traits< Time >", "d3/da7/structboost_1_1asio_1_1time__traits.html", null ],
     [ "TimeTracker", "db/d88/structTimeTracker.html", null ],
     [ "TimeTrackerSmall", "d6/d1a/structTimeTrackerSmall.html", null ],
+    [ "TKey", "d0/de2/unionTKey.html", null ],
+    [ "Token", "df/dcd/structToken.html", null ],
     [ "Acore::Impl::ChatCommands::TokenizeResult", "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html", null ],
     [ "TorlothCinematic", "d0/d87/structTorlothCinematic.html", null ],
     [ "TotemCategoryEntry", "d3/d88/structTotemCategoryEntry.html", null ],
@@ -4538,6 +4702,7 @@ var hierarchy =
     ] ],
     [ "TSpellSummary", "dc/d9f/structTSpellSummary.html", null ],
     [ "TSPosition", "da/d2d/structTSPosition.html", null ],
+    [ "TString", "d3/d5c/unionTString.html", null ],
     [ "TwilightCutterSelector", "d7/d4c/classTwilightCutterSelector.html", null ],
     [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d1/d14/classTypeContainerVisitor.html", null ],
     [ "TypeList< HEAD, TAIL >", "db/d0b/structTypeList.html", null ],
@@ -4548,6 +4713,7 @@ var hierarchy =
     [ "TypeUnorderedMapContainer< AllMapStoredObjectTypes, ObjectGuid >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
     [ "u_map_fcc", "dd/d66/unionu__map__fcc.html", null ],
     [ "u_map_magic", "d0/dcf/unionu__map__magic.html", null ],
+    [ "Udata", "d1/db8/unionUdata.html", null ],
     [ "Acore::unary_function< ArgumentType, ResultType >", "d8/dfc/structAcore_1_1unary__function.html", null ],
     [ "Acore::unary_function< LootStoreItem *, bool >", "d8/dfc/structAcore_1_1unary__function.html", [
       [ "LootGroupInvalidSelector", "db/ded/structLootGroupInvalidSelector.html", null ]
@@ -4562,10 +4728,14 @@ var hierarchy =
     ] ],
     [ "UnboundPlagueTargetSelector", "de/df4/classUnboundPlagueTargetSelector.html", null ],
     [ "UnchainedMagicTargetSelector", "d1/dfb/classUnchainedMagicTargetSelector.html", null ],
+    [ "UniqueObjectKey< T >", "d3/d54/structUniqueObjectKey.html", null ],
+    [ "UniqueObjectKey< Hooks::CreatureEvents >", "d3/d54/structUniqueObjectKey.html", null ],
     [ "UnitActionBarEntry", "dd/d00/structUnitActionBarEntry.html", null ],
     [ "UnitAI", "d0/ddd/classUnitAI.html", [
       [ "CreatureAI", "d5/d79/classCreatureAI.html", [
-        [ "AggressorAI", "d4/d4f/classAggressorAI.html", null ],
+        [ "AggressorAI", "d4/d4f/classAggressorAI.html", [
+          [ "ElunaCreatureAI", "d1/d60/structElunaCreatureAI.html", null ]
+        ] ],
         [ "ArcherAI", "dd/d24/structArcherAI.html", null ],
         [ "CombatAI", "d3/dfa/classCombatAI.html", [
           [ "CasterAI", "de/d3a/classCasterAI.html", [
@@ -5825,9 +5995,13 @@ var hierarchy =
     [ "UpdateTime", "dc/dfb/classUpdateTime.html", [
       [ "WorldUpdateTime", "de/dad/classWorldUpdateTime.html", null ]
     ] ],
+    [ "UpVal", "d1/ddb/structUpVal.html", null ],
+    [ "Upvaldesc", "d1/d10/structUpvaldesc.html", null ],
     [ "ObjectPosSelector::UsedPos", "d9/dd7/structObjectPosSelector_1_1UsedPos.html", null ],
     [ "WorldPackets::Strings::Utf8", "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html", null ],
+    [ "Value", "df/d39/unionValue.html", null ],
     [ "VampiricBiteTargetSelector", "d8/d86/structVampiricBiteTargetSelector.html", null ],
+    [ "Vardesc", "d2/d1e/structVardesc.html", null ],
     [ "std::variant", null, [
       [ "Acore::ChatCommands::Variant< T1, Ts >", "d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html", null ]
     ] ],
@@ -5899,11 +6073,13 @@ var hierarchy =
     [ "WMOLiquidHeader", "d3/dd1/structWMOLiquidHeader.html", null ],
     [ "WMOLiquidVert", "d1/d01/structWMOLiquidVert.html", null ],
     [ "WMORoot", "da/d10/classWMORoot.html", null ],
+    [ "httplib::ThreadPool::worker", "dd/deb/structhttplib_1_1ThreadPool_1_1worker.html", null ],
     [ "WorldMapAreaEntry", "dc/d62/structWorldMapAreaEntry.html", null ],
     [ "WorldMapOverlayEntry", "d7/d5c/structWorldMapOverlayEntry.html", null ],
     [ "VMAP::WorldModel", "d5/db0/classVMAP_1_1WorldModel.html", null ],
     [ "VMAP::WorldModel_Raw", "d1/dd3/structVMAP_1_1WorldModel__Raw.html", null ],
     [ "WorldObjectChangeAccumulator", "d0/d09/structWorldObjectChangeAccumulator.html", null ],
+    [ "ElunaUtil::WorldObjectInRangeCheck", "d4/d8b/classElunaUtil_1_1WorldObjectInRangeCheck.html", null ],
     [ "Acore::WorldObjectLastSearcher< Check >", "de/dff/structAcore_1_1WorldObjectLastSearcher.html", null ],
     [ "Acore::WorldObjectSearcher< Check >", "d8/dfd/structAcore_1_1WorldObjectSearcher.html", null ],
     [ "Acore::WorldObjectSpellTargetCheck", "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html", [
@@ -5920,6 +6096,7 @@ var hierarchy =
     [ "Acore::WorldWorldTextBuilder", "d0/d23/classAcore_1_1WorldWorldTextBuilder.html", null ],
     [ "WretchedGhoulCleaner", "de/dbb/classWretchedGhoulCleaner.html", null ],
     [ "Yells", "dd/dbd/structYells.html", null ],
+    [ "Zio", "de/dab/structZio.html", null ],
     [ "zm_beacon", "d5/d4a/structzm__beacon.html", null ],
     [ "ZoneDynamicInfo", "d7/d59/structZoneDynamicInfo.html", null ],
     [ "ZoneScript", "dc/d7d/classZoneScript.html", [

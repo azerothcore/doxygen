@@ -1013,7 +1013,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  278</span>        {</div>
-<div class="line"><span class="lineno">  279</span>            <span class="keywordtype">bool</span> cast = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  279</span>            <span class="keywordtype">bool</span> <a class="code hl_define" href="../../de/d2a/llimits_8h.html#af17d62ec9e237a7644de6b9b34a48a34">cast</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  280</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> ni = 0; ni &lt; 3; ++ni)</div>
 <div class="line"><span class="lineno">  281</span>            {</div>
 <div class="line"><span class="lineno">  282</span>                <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* sent = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a8404e634212a1967c22363656d2c3fac">NearbyGUID</a>[ni]);</div>
@@ -1021,12 +1021,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  284</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  285</span>                <span class="keywordflow">if</span> (sent-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#afd7aa5f7719cba4d967bb7f009582d2f">isDead</a>())</div>
 <div class="line"><span class="lineno">  286</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  287</span>                cast = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  287</span>                <a class="code hl_define" href="../../de/d2a/llimits_8h.html#af17d62ec9e237a7644de6b9b34a48a34">cast</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  288</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(sent, <a class="code hl_enumvalue" href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298caa11d69daf5b3774209ad75770dbb62bc">SPELL_HEAL_BRETHEN</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  289</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(sent, <a class="code hl_enumvalue" href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298cac9b313e1152900a266d334cbfe0051c4">SPELL_TRANSFER_POWER</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  290</span>            }</div>
 <div class="line"><span class="lineno">  291</span> </div>
-<div class="line"><span class="lineno">  292</span>            <span class="keywordflow">if</span> (cast)</div>
+<div class="line"><span class="lineno">  292</span>            <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d2a/llimits_8h.html#af17d62ec9e237a7644de6b9b34a48a34">cast</a>)</div>
 <div class="line"><span class="lineno">  293</span>            {</div>
 <div class="line"><span class="lineno">  294</span>                <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298cae19a119fc464a5c98b34e2d301207b32">TALK_SHARE_BUFFS</a>);</div>
 <div class="line"><span class="lineno">  295</span>            }</div>
@@ -1035,12 +1035,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  298</span>        }</div>
 <div class="ttc" id="aclassUnitAI_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aclassUnit_html_afd7aa5f7719cba4d967bb7f009582d2f"><div class="ttname"><a href="../../df/dd9/classUnit.html#afd7aa5f7719cba4d967bb7f009582d2f">Unit::isDead</a></div><div class="ttdeci">bool isDead() const</div><div class="ttdef"><b>Definition</b> Unit.h:1706</div></div>
+<div class="ttc" id="allimits_8h_html_af17d62ec9e237a7644de6b9b34a48a34"><div class="ttname"><a href="../../de/d2a/llimits_8h.html#af17d62ec9e237a7644de6b9b34a48a34">cast</a></div><div class="ttdeci">#define cast(t, exp)</div><div class="ttdef"><b>Definition</b> llimits.h:93</div></div>
 <div class="ttc" id="amob__anubisath__sentinel_8cpp_html_a5bd342133be8c2137b831460acc9298ca6a45310b58847615860efd30b51df72b"><div class="ttname"><a href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a45310b58847615860efd30b51df72b">SPELL_SUMMON_SMALL_OBSIDIAN_CHUNK</a></div><div class="ttdeci">@ SPELL_SUMMON_SMALL_OBSIDIAN_CHUNK</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:46</div></div>
 <div class="ttc" id="amob__anubisath__sentinel_8cpp_html_a5bd342133be8c2137b831460acc9298caa11d69daf5b3774209ad75770dbb62bc"><div class="ttname"><a href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298caa11d69daf5b3774209ad75770dbb62bc">SPELL_HEAL_BRETHEN</a></div><div class="ttdeci">@ SPELL_HEAL_BRETHEN</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:49</div></div>
 <div class="ttc" id="amob__anubisath__sentinel_8cpp_html_a5bd342133be8c2137b831460acc9298cac9b313e1152900a266d334cbfe0051c4"><div class="ttname"><a href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298cac9b313e1152900a266d334cbfe0051c4">SPELL_TRANSFER_POWER</a></div><div class="ttdeci">@ SPELL_TRANSFER_POWER</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:48</div></div>
 <div class="ttc" id="amob__anubisath__sentinel_8cpp_html_a5bd342133be8c2137b831460acc9298cae19a119fc464a5c98b34e2d301207b32"><div class="ttname"><a href="../../d1/d3f/mob__anubisath__sentinel_8cpp.html#a5bd342133be8c2137b831460acc9298cae19a119fc464a5c98b34e2d301207b32">TALK_SHARE_BUFFS</a></div><div class="ttdeci">@ TALK_SHARE_BUFFS</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:53</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01706">Unit::isDead()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00111">NearbyGUID</a>, <a class="el" href="../../#l00049">SPELL_HEAL_BRETHEN</a>, <a class="el" href="../../#l00046">SPELL_SUMMON_SMALL_OBSIDIAN_CHUNK</a>, <a class="el" href="../../#l00048">SPELL_TRANSFER_POWER</a>, and <a class="el" href="../../#l00053">TALK_SHARE_BUFFS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00093">cast</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01706">Unit::isDead()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00111">NearbyGUID</a>, <a class="el" href="../../#l00049">SPELL_HEAL_BRETHEN</a>, <a class="el" href="../../#l00046">SPELL_SUMMON_SMALL_OBSIDIAN_CHUNK</a>, <a class="el" href="../../#l00048">SPELL_TRANSFER_POWER</a>, and <a class="el" href="../../#l00053">TALK_SHARE_BUFFS</a>.</p>
 
 </div>
 </div>
@@ -1434,7 +1435,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dfa/classnpc__anubisath__sentinel.html">npc_anubisath_sentinel</a></li><li class="navelem"><a class="el" href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html">aqsentinelAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

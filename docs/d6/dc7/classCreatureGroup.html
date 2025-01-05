@@ -327,7 +327,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  336</span>                <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  337</span>                    member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
 <div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Set {} movement for member {}&quot;</span>, dismiss ? <span class="stringliteral">&quot;default&quot;</span> : <span class="stringliteral">&quot;idle&quot;</span>, member-&gt;GetGUID().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>());</div>
+<div class="line"><span class="lineno">  339</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Set {} movement for member {}&quot;</span>, dismiss ? <span class="stringliteral">&quot;default&quot;</span> : <span class="stringliteral">&quot;idle&quot;</span>, member-&gt;<a class="code hl_function" href="../../d0/da6/namespaceLuaGroup.html#aba6a0ec5814f21f8a2bb7c1aa9a18271">GetGUID</a>().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>());</div>
 <div class="line"><span class="lineno">  340</span>            }</div>
 <div class="line"><span class="lineno">  341</span>        }</div>
 <div class="line"><span class="lineno">  342</span>    }</div>
@@ -340,6 +340,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1670</div></div>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1704</div></div>
 <div class="ttc" id="anamespaceAcore_html_ac2cb308fb001c35fbaa90489ea6cf478"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a></div><div class="ttdeci">std::string ToString(Type &amp;&amp;val, Params &amp;&amp;... params)</div><div class="ttdef"><b>Definition</b> StringConvert.h:250</div></div>
+<div class="ttc" id="anamespaceLuaGroup_html_aba6a0ec5814f21f8a2bb7c1aa9a18271"><div class="ttname"><a href="../../d0/da6/namespaceLuaGroup.html#aba6a0ec5814f21f8a2bb7c1aa9a18271">LuaGroup::GetGUID</a></div><div class="ttdeci">int GetGUID(lua_State *L, Group *group)</div><div class="ttdef"><b>Definition</b> GroupMethods.h:226</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00073">MotionMaster::Initialize()</a>, <a class="el" href="../../#l01704">Unit::IsAlive()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00124">m_Formed</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00232">MotionMaster::MoveIdle()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
@@ -1074,7 +1075,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dc7/classCreatureGroup.html">CreatureGroup</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

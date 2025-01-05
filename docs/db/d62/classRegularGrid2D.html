@@ -137,7 +137,7 @@ Public Types</h2></td></tr>
 <tr class="memitem:a81322b12079e0e46cd2d62a402d1feb2" id="r_a81322b12079e0e46cd2d62a402d1feb2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a> = 64
  }</td></tr>
 <tr class="separator:a81322b12079e0e46cd2d62a402d1feb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a53d3129df77e91fe5a16a990f94412fb" id="r_a53d3129df77e91fe5a16a990f94412fb"><td class="memItemLeft" align="right" valign="top">typedef G3D::Table&lt; const T *, <a class="el" href="../../d7/d06/classNodeArray.html">NodeArray</a>&lt; Node &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a53d3129df77e91fe5a16a990f94412fb">MemberTable</a></td></tr>
+<tr class="memitem:a53d3129df77e91fe5a16a990f94412fb" id="r_a53d3129df77e91fe5a16a990f94412fb"><td class="memItemLeft" align="right" valign="top">typedef G3D::Table&lt; const T *, <a class="el" href="../../d7/d06/classNodeArray.html">NodeArray</a>&lt; <a class="el" href="../../d8/d49/structNode.html">Node</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a53d3129df77e91fe5a16a990f94412fb">MemberTable</a></td></tr>
 <tr class="separator:a53d3129df77e91fe5a16a990f94412fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -156,9 +156,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a03a3daaf4be4e818315eb1051bed786f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e7ce25838521cf8dde65aa6f70f404f" id="r_a6e7ce25838521cf8dde65aa6f70f404f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a6e7ce25838521cf8dde65aa6f70f404f">size</a> () const</td></tr>
 <tr class="separator:a6e7ce25838521cf8dde65aa6f70f404f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a038d866c2d0b029b1b60991f0d7ac106" id="r_a038d866c2d0b029b1b60991f0d7ac106"><td class="memItemLeft" align="right" valign="top">Node &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106">getGridFor</a> (float fx, float fy)</td></tr>
+<tr class="memitem:a038d866c2d0b029b1b60991f0d7ac106" id="r_a038d866c2d0b029b1b60991f0d7ac106"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d49/structNode.html">Node</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106">getGridFor</a> (float fx, float fy)</td></tr>
 <tr class="separator:a038d866c2d0b029b1b60991f0d7ac106"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17d16d7813e95d09000563cd1f059414" id="r_a17d16d7813e95d09000563cd1f059414"><td class="memItemLeft" align="right" valign="top">Node &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a17d16d7813e95d09000563cd1f059414">getGrid</a> (int x, int y)</td></tr>
+<tr class="memitem:a17d16d7813e95d09000563cd1f059414" id="r_a17d16d7813e95d09000563cd1f059414"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d49/structNode.html">Node</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a17d16d7813e95d09000563cd1f059414">getGrid</a> (int x, int y)</td></tr>
 <tr class="separator:a17d16d7813e95d09000563cd1f059414"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8ff8f11a1e48a2ee247609c5d01330eb" id="r_a8ff8f11a1e48a2ee247609c5d01330eb"><td class="memTemplParams" colspan="2">template&lt;typename RayCallback &gt; </td></tr>
 <tr class="memitem:a8ff8f11a1e48a2ee247609c5d01330eb"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a8ff8f11a1e48a2ee247609c5d01330eb">intersectRay</a> (const G3D::Ray &amp;ray, RayCallback &amp;intersectCallback, float max_dist, bool stopAtFirstHit)</td></tr>
@@ -177,11 +177,11 @@ Public Member Functions</h2></td></tr>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a2343374187eaf1b4a4dcf6d5cf4611d1" id="r_a2343374187eaf1b4a4dcf6d5cf4611d1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d62/classRegularGrid2D.html#a53d3129df77e91fe5a16a990f94412fb">MemberTable</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a2343374187eaf1b4a4dcf6d5cf4611d1">memberTable</a></td></tr>
 <tr class="separator:a2343374187eaf1b4a4dcf6d5cf4611d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f31b8ce99c32652c8b8c3b5063fe83d" id="r_a1f31b8ce99c32652c8b8c3b5063fe83d"><td class="memItemLeft" align="right" valign="top">Node *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a> [<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>][<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>]</td></tr>
+<tr class="memitem:a1f31b8ce99c32652c8b8c3b5063fe83d" id="r_a1f31b8ce99c32652c8b8c3b5063fe83d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d49/structNode.html">Node</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a> [<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>][<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>]</td></tr>
 <tr class="separator:a1f31b8ce99c32652c8b8c3b5063fe83d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class T, class Node, class NodeCreatorFunc = NodeCreator&lt;Node&gt;, class PositionFunc = PositionTrait&lt;T&gt;&gt;<br />
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T, class <a class="el" href="../../d8/d49/structNode.html">Node</a>, class NodeCreatorFunc = NodeCreator&lt;Node&gt;, class PositionFunc = PositionTrait&lt;T&gt;&gt;<br />
 class RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
 <a id="a53d3129df77e91fe5a16a990f94412fb" name="a53d3129df77e91fe5a16a990f94412fb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a53d3129df77e91fe5a16a990f94412fb">&#9670;&#160;</a></span>MemberTable</h2>
@@ -189,10 +189,10 @@ class RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</div></div><
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef G3D::Table&lt;const T*, <a class="el" href="../../d7/d06/classNodeArray.html">NodeArray</a>&lt;Node&gt; &gt; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::MemberTable</td>
+          <td class="memname">typedef G3D::Table&lt;const T*, <a class="el" href="../../d7/d06/classNodeArray.html">NodeArray</a>&lt;<a class="el" href="../../d8/d49/structNode.html">Node</a>&gt; &gt; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::MemberTable</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -206,7 +206,7 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">anonymous enum</td>
@@ -230,13 +230,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;<a class="el" href="../../db/d62/classRegularGrid2D.html">::RegularGrid2D</a> </td>
+          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;<a class="el" href="../../db/d62/classRegularGrid2D.html">::RegularGrid2D</a> </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -263,13 +263,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::~<a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a> </td>
+          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::~<a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a> </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -300,13 +300,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::balance </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::balance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -321,11 +321,12 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="fragment"><div class="line"><span class="lineno">  133</span>    {</div>
 <div class="line"><span class="lineno">  134</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> x = 0; x &lt; <a class="code hl_enumvalue" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>; ++x)</div>
 <div class="line"><span class="lineno">  135</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> y = 0; y &lt; <a class="code hl_enumvalue" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>; ++y)</div>
-<div class="line"><span class="lineno">  136</span>                <span class="keywordflow">if</span> (Node* n = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[x][y])</div>
+<div class="line"><span class="lineno">  136</span>                <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>* n = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[x][y])</div>
 <div class="line"><span class="lineno">  137</span>                {</div>
 <div class="line"><span class="lineno">  138</span>                    n-&gt;balance();</div>
 <div class="line"><span class="lineno">  139</span>                }</div>
 <div class="line"><span class="lineno">  140</span>    }</div>
+<div class="ttc" id="astructNode_html"><div class="ttname"><a href="../../d8/d49/structNode.html">Node</a></div><div class="ttdef"><b>Definition</b> lobject.h:554</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00048">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::CELL_NUMBER</a>, and <a class="el" href="../../#l00057">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::nodes</a>.</p>
 
@@ -339,13 +340,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::contains </td>
+          <td class="memname">bool <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::contains </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
           <td class="paramname"><em>value</em></td><td>)</td>
@@ -373,13 +374,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Node &amp; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::getGrid </td>
+          <td class="memname"><a class="el" href="../../d8/d49/structNode.html">Node</a> &amp; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::getGrid </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>x</em>, </td>
@@ -424,13 +425,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Node &amp; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::getGridFor </td>
+          <td class="memname"><a class="el" href="../../d8/d49/structNode.html">Node</a> &amp; <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::getGridFor </td>
           <td>(</td>
           <td class="paramtype">float&#160;</td>
           <td class="paramname"><em>fx</em>, </td>
@@ -473,13 +474,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::insert </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::insert </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
           <td class="paramname"><em>value</em></td><td>)</td>
@@ -512,7 +513,7 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="line"><span class="lineno">   91</span>            {</div>
 <div class="line"><span class="lineno">   92</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   93</span>            }</div>
-<div class="line"><span class="lineno">   94</span>            Node&amp; node = <a class="code hl_function" href="../../db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106">getGridFor</a>(pos[i].x, pos[i].y);</div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>&amp; node = <a class="code hl_function" href="../../db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106">getGridFor</a>(pos[i].x, pos[i].y);</div>
 <div class="line"><span class="lineno">   95</span>            na.<a class="code hl_function" href="../../d7/d06/classNodeArray.html#a370b6e8633c2c739ff68c0399e315a7e">AddNode</a>(&amp;node);</div>
 <div class="line"><span class="lineno">   96</span>        }</div>
 <div class="line"><span class="lineno">   97</span> </div>
@@ -548,7 +549,7 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <div class="memtemplate">
 template&lt;typename IsectCallback &gt; </div>
 <table class="mlabels">
@@ -556,7 +557,7 @@ template&lt;typename IsectCallback &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectPoint </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::intersectPoint </td>
           <td>(</td>
           <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
           <td class="paramname"><em>point</em>, </td>
@@ -585,7 +586,7 @@ template&lt;typename IsectCallback &gt; </div>
 <div class="line"><span class="lineno">  268</span>        {</div>
 <div class="line"><span class="lineno">  269</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  270</span>        }</div>
-<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">if</span> (Node* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
+<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
 <div class="line"><span class="lineno">  272</span>        {</div>
 <div class="line"><span class="lineno">  273</span>            node-&gt;intersectPoint(point, intersectCallback);</div>
 <div class="line"><span class="lineno">  274</span>        }</div>
@@ -603,7 +604,7 @@ template&lt;typename IsectCallback &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <div class="memtemplate">
 template&lt;typename RayCallback &gt; </div>
 <table class="mlabels">
@@ -611,7 +612,7 @@ template&lt;typename RayCallback &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectRay </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::intersectRay </td>
           <td>(</td>
           <td class="paramtype">const G3D::Ray &amp;&#160;</td>
           <td class="paramname"><em>ray</em>, </td>
@@ -663,7 +664,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  191</span> </div>
 <div class="line"><span class="lineno">  192</span>        <span class="keywordflow">if</span> (cell == last_cell)</div>
 <div class="line"><span class="lineno">  193</span>        {</div>
-<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">if</span> (Node* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
+<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
 <div class="line"><span class="lineno">  195</span>            {</div>
 <div class="line"><span class="lineno">  196</span>                node-&gt;intersectRay(ray, intersectCallback, max_dist, stopAtFirstHit);</div>
 <div class="line"><span class="lineno">  197</span>            }</div>
@@ -709,7 +710,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  237</span>        <span class="keywordtype">float</span> tDeltaY = voxel * std::fabs(ky_inv);</div>
 <div class="line"><span class="lineno">  238</span>        <span class="keywordflow">do</span></div>
 <div class="line"><span class="lineno">  239</span>        {</div>
-<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">if</span> (Node* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
+<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
 <div class="line"><span class="lineno">  241</span>            {</div>
 <div class="line"><span class="lineno">  242</span>                <span class="comment">//float enterdist = max_dist;</span></div>
 <div class="line"><span class="lineno">  243</span>                node-&gt;intersectRay(ray, intersectCallback, max_dist, stopAtFirstHit);</div>
@@ -743,7 +744,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <div class="memtemplate">
 template&lt;typename RayCallback &gt; </div>
 <table class="mlabels">
@@ -751,7 +752,7 @@ template&lt;typename RayCallback &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectRay </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::intersectRay </td>
           <td>(</td>
           <td class="paramtype">const G3D::Ray &amp;&#160;</td>
           <td class="paramname"><em>ray</em>, </td>
@@ -803,7 +804,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <div class="memtemplate">
 template&lt;typename RayCallback &gt; </div>
 <table class="mlabels">
@@ -811,7 +812,7 @@ template&lt;typename RayCallback &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectZAllignedRay </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::intersectZAllignedRay </td>
           <td>(</td>
           <td class="paramtype">const G3D::Ray &amp;&#160;</td>
           <td class="paramname"><em>ray</em>, </td>
@@ -846,7 +847,7 @@ template&lt;typename RayCallback &gt; </div>
 <div class="line"><span class="lineno">  283</span>        {</div>
 <div class="line"><span class="lineno">  284</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  285</span>        }</div>
-<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">if</span> (Node* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
+<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/d49/structNode.html">Node</a>* node = <a class="code hl_variable" href="../../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d">nodes</a>[cell.x][cell.y])</div>
 <div class="line"><span class="lineno">  287</span>        {</div>
 <div class="line"><span class="lineno">  288</span>            node-&gt;intersectRay(ray, intersectCallback, max_dist, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  289</span>        }</div>
@@ -864,13 +865,13 @@ template&lt;typename RayCallback &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::remove </td>
+          <td class="memname">void <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::remove </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
           <td class="paramname"><em>value</em></td><td>)</td>
@@ -913,13 +914,13 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::size </td>
+          <td class="memname">int <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::size </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -946,10 +947,10 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html#a53d3129df77e91fe5a16a990f94412fb">MemberTable</a> <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::memberTable</td>
+          <td class="memname"><a class="el" href="../../db/d62/classRegularGrid2D.html#a53d3129df77e91fe5a16a990f94412fb">MemberTable</a> <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::memberTable</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -964,10 +965,10 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
+template&lt;class T , class <a class="el" href="../../d8/d49/structNode.html">Node</a> , class NodeCreatorFunc  = NodeCreator&lt;Node&gt;, class PositionFunc  = PositionTrait&lt;T&gt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">Node* <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::nodes[<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>][<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>]</td>
+          <td class="memname"><a class="el" href="../../d8/d49/structNode.html">Node</a>* <a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a>&lt; T, <a class="el" href="../../d8/d49/structNode.html">Node</a>, NodeCreatorFunc, PositionFunc &gt;::nodes[<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>][<a class="el" href="../../db/d62/classRegularGrid2D.html#a81322b12079e0e46cd2d62a402d1feb2ac99125975cf608fa0b0ec9671758bb60">CELL_NUMBER</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -985,7 +986,7 @@ template&lt;class T , class Node , class NodeCreatorFunc  = NodeCreator&lt;Node&
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d62/classRegularGrid2D.html">RegularGrid2D</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -614,7 +614,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  104</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; guid : <a class="code hl_variable" href="../../db/d3e/structnpc__cameron.html#ad260466902e8fb1a2e02998cc4549695">_childrenGUIDs</a>)</div>
 <div class="line"><span class="lineno">  105</span>            if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* child = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guid))</div>
 <div class="line"><span class="lineno">  106</span>                if (child-&gt;GetFormation())</div>
-<div class="line"><span class="lineno">  107</span>                    child-&gt;GetFormation()-&gt;RemoveMember(child);</div>
+<div class="line"><span class="lineno">  107</span>                    child-&gt;GetFormation()-&gt;<a class="code hl_function" href="../../d0/da6/namespaceLuaGroup.html#a1846d20f76ac11616cb0bfb803645be9">RemoveMember</a>(child);</div>
 <div class="line"><span class="lineno">  108</span> </div>
 <div class="line"><span class="lineno">  109</span>        <span class="comment">// Move each child to an random position</span></div>
 <div class="line"><span class="lineno">  110</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../db/d3e/structnpc__cameron.html#ad260466902e8fb1a2e02998cc4549695">_childrenGUIDs</a>.size(); ++i)</div>
@@ -634,6 +634,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassMotionMaster_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:213</div></div>
 <div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1670</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a4585a27b1f592547062d7bc039cff3b4"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a4585a27b1f592547062d7bc039cff3b4">Acore::Containers::RandomShuffle</a></div><div class="ttdeci">void RandomShuffle(C &amp;container)</div><div class="ttdef"><b>Definition</b> Containers.h:220</div></div>
+<div class="ttc" id="anamespaceLuaGroup_html_a1846d20f76ac11616cb0bfb803645be9"><div class="ttname"><a href="../../d0/da6/namespaceLuaGroup.html#a1846d20f76ac11616cb0bfb803645be9">LuaGroup::RemoveMember</a></div><div class="ttdeci">int RemoveMember(lua_State *L, Group *group)</div><div class="ttdef"><b>Definition</b> GroupMethods.h:350</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a></div><div class="ttdef"><b>Definition</b> ObjectAccessor.h:61</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
@@ -1029,7 +1030,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d3e/structnpc__cameron.html">npc_cameron</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

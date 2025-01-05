@@ -549,12 +549,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno"> 2264</span>        {</div>
 <div class="line"><span class="lineno"> 2265</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../d5/da6/structnpc__ulduar__flames__initial_1_1npc__ulduar__flames__initialAI.html#a75b218699a42ece4959d0a1fe40713d7">FlameList</a>)</div>
 <div class="line"><span class="lineno"> 2266</span>                if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">GetCreature</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, guid))</div>
-<div class="line"><span class="lineno"> 2267</span>                    c-&gt;DespawnOrUnsummon();</div>
+<div class="line"><span class="lineno"> 2267</span>                    c-&gt;<a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">DespawnOrUnsummon</a>();</div>
 <div class="line"><span class="lineno"> 2268</span>            <a class="code hl_variable" href="../../d5/da6/structnpc__ulduar__flames__initial_1_1npc__ulduar__flames__initialAI.html#a75b218699a42ece4959d0a1fe40713d7">FlameList</a>.clear();</div>
 <div class="line"><span class="lineno"> 2269</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>();</div>
 <div class="line"><span class="lineno"> 2270</span>        }</div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2178</div></div>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="anamespaceLuaCreature_html_aa4be6bc82ff0abcadc5a36cdf1fdd705"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">LuaCreature::DespawnOrUnsummon</a></div><div class="ttdeci">int DespawnOrUnsummon(lua_State *L, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:1303</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a></div><div class="ttdef"><b>Definition</b> ObjectAccessor.h:61</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 </div><!-- fragment -->
@@ -807,7 +808,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/de8/classnpc__ulduar__flames__initial.html">npc_ulduar_flames_initial</a></li><li class="navelem"><a class="el" href="../../d5/da6/structnpc__ulduar__flames__initial_1_1npc__ulduar__flames__initialAI.html">npc_ulduar_flames_initialAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

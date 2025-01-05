@@ -625,14 +625,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  194</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  195</span> </div>
 <div class="line"><span class="lineno">  196</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(1103.0f, 1049.0f, 510.0f) &lt; 55.0f)</div>
-<div class="line"><span class="lineno">  197</span>                <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  197</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">ScriptedAI::AttackStart</a>(who);</div>
 <div class="line"><span class="lineno">  198</span>        }</div>
+<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassWorldObject_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1256</div></div>
-<div class="ttc" id="astructScriptedAI_html_a4c91d8d2c1a6e8b234c1c4f15936c7a4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="astructboss__urom_1_1boss__uromAI_html_a9f8635cb44dd5ac3b148c69890cfb38f"><div class="ttname"><a href="../../d8/dc3/structboss__urom_1_1boss__uromAI.html#a9f8635cb44dd5ac3b148c69890cfb38f">boss_urom::boss_uromAI::lock</a></div><div class="ttdeci">bool lock</div><div class="ttdef"><b>Definition</b> boss_urom.cpp:110</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00110">lock</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00110">lock</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -894,7 +894,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  206</span>        }</div>
 <div class="ttc" id="aclassCreature_html_abb2a08ef5b7ea16dc71e813b464e4b7d"><div class="ttname"><a href="../../db/dd5/classCreature.html#abb2a08ef5b7ea16dc71e813b464e4b7d">Creature::SelectVictim</a></div><div class="ttdeci">Unit * SelectVictim()</div><div class="ttdef"><b>Definition</b> Unit.cpp:14756</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:140</div></div>
-<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00140">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l14756">Creature::SelectVictim()</a>, and <a class="el" href="../../#l02811">Creature::SetInCombatWithZone()</a>.</p>
@@ -1415,7 +1414,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d37/classboss__urom.html">boss_urom</a></li><li class="navelem"><a class="el" href="../../d8/dc3/structboss__urom_1_1boss__uromAI.html">boss_uromAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

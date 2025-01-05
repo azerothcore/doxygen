@@ -314,14 +314,17 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  225</span>    {</div>
-<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno">  227</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer()-&gt;InBattleground())</div>
+<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#afe60167b4dedfc4d776526b1dd65b5e9">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  227</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d6/d8f/namespaceLuaPlayer.html#aa6dc8d014921f6d00371f9ffa9949b4d">InBattleground</a>())</div>
 <div class="line"><span class="lineno">  228</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa697801a257ea7f5d55bbaa1c54c28dd0">SPELL_FAILED_NOT_IN_BATTLEGROUND</a>;</div>
 <div class="line"><span class="lineno">  229</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
 <div class="line"><span class="lineno">  230</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daa697801a257ea7f5d55bbaa1c54c28dd0"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa697801a257ea7f5d55bbaa1c54c28dd0">SPELL_FAILED_NOT_IN_BATTLEGROUND</a></div><div class="ttdeci">@ SPELL_FAILED_NOT_IN_BATTLEGROUND</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1115</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1138</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_afe60167b4dedfc4d776526b1dd65b5e9"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#afe60167b4dedfc4d776526b1dd65b5e9">LuaObject::IsPlayer</a></div><div class="ttdeci">int IsPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:59</div></div>
+<div class="ttc" id="anamespaceLuaPlayer_html_aa6dc8d014921f6d00371f9ffa9949b4d"><div class="ttname"><a href="../../d6/d8f/namespaceLuaPlayer.html#aa6dc8d014921f6d00371f9ffa9949b4d">LuaPlayer::InBattleground</a></div><div class="ttdeci">int InBattleground(lua_State *L, Player *player)</div><div class="ttdef"><b>Definition</b> PlayerMethods.h:782</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, and <a class="el" href="../../#l01115">SPELL_FAILED_NOT_IN_BATTLEGROUND</a>.</p>
 
@@ -399,7 +402,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/df2/classspell__warl__ritual__of__summoning.html">spell_warl_ritual_of_summoning</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

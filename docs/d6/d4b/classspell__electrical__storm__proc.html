@@ -352,7 +352,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  341</span>    {</div>
-<div class="line"><span class="lineno">  342</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aura = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAura(<a class="code hl_enumvalue" href="../../d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298cab30f314c24cbcc3f60fe8f7fe129cb8a">SPELL_ELECTRICAL_STORM</a>))</div>
+<div class="line"><span class="lineno">  342</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aura = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#a3f2e0d3567ebc70812c4ec8689c7c406">GetAura</a>(<a class="code hl_enumvalue" href="../../d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298cab30f314c24cbcc3f60fe8f7fe129cb8a">SPELL_ELECTRICAL_STORM</a>))</div>
 <div class="line"><span class="lineno">  343</span>        {</div>
 <div class="line"><span class="lineno">  344</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> multiplier = aura-&gt;GetEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>)-&gt;GetTickNumber();</div>
 <div class="line"><span class="lineno">  345</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * multiplier);</div>
@@ -365,6 +365,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_ac1cfda0b3181c0da3422765acf78922e"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SpellScript::SetHitDamage</a></div><div class="ttdeci">void SetHitDamage(int32 damage)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:524</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassSpellScript_html_aff69d3a9a6f02ae0afa8f8bbaa543493"><div class="ttname"><a href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">SpellScript::GetHitDamage</a></div><div class="ttdeci">int32 GetHitDamage()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:514</div></div>
+<div class="ttc" id="anamespaceLuaUnit_html_a3f2e0d3567ebc70812c4ec8689c7c406"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#a3f2e0d3567ebc70812c4ec8689c7c406">LuaUnit::GetAura</a></div><div class="ttdeci">int GetAura(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:1098</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>, and <a class="el" href="../../#l00036">SPELL_ELECTRICAL_STORM</a>.</p>
 
@@ -449,7 +450,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d4b/classspell__electrical__storm__proc.html">spell_electrical_storm_proc</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

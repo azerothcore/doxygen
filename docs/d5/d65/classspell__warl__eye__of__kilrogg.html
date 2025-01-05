@@ -338,7 +338,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
 <div class="line"><span class="lineno">   90</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
 <div class="line"><span class="lineno">   92</span>        {</div>
 <div class="line"><span class="lineno">   93</span>            player-&gt;UnsummonPetTemporaryIfAny();</div>
 <div class="line"><span class="lineno">   94</span> </div>
@@ -360,6 +360,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassUnit_html_a100e3f2d8087c543111ac3a6404836fe"><div class="ttname"><a href="../../df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe">Unit::GetCharm</a></div><div class="ttdeci">Unit * GetCharm() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10694</div></div>
+<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
 <div class="ttc" id="aspell__warlock_8cpp_html_a4245c2f90407b49fba1c8eb66fd58570a643aee1b4ebb09794fb9ae199f48c7f8"><div class="ttname"><a href="../../d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a643aee1b4ebb09794fb9ae199f48c7f8">SPELL_WARLOCK_EYE_OF_KILROGG_FLY</a></div><div class="ttdeci">@ SPELL_WARLOCK_EYE_OF_KILROGG_FLY</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:72</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l10694">Unit::GetCharm()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00072">SPELL_WARLOCK_EYE_OF_KILROGG_FLY</a>.</p>
@@ -402,7 +403,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
 <div class="line"><span class="lineno">  112</span>        {</div>
 <div class="line"><span class="lineno">  113</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* charm = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe">GetCharm</a>())</div>
 <div class="line"><span class="lineno">  114</span>                charm-&gt;ToTempSummon()-&gt;UnSummon();</div>
@@ -494,7 +495,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d65/classspell__warl__eye__of__kilrogg.html">spell_warl_eye_of_kilrogg</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

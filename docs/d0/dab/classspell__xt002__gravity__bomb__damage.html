@@ -319,7 +319,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  955</span>        <span class="keywordflow">if</span> (!caster)</div>
 <div class="line"><span class="lineno">  956</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  957</span> </div>
-<div class="line"><span class="lineno">  958</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() &gt;= <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;GetHealth()))</div>
+<div class="line"><span class="lineno">  958</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() &gt;= <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#a28794e3db1b082f77497536091a8b4f0">GetHealth</a>()))</div>
 <div class="line"><span class="lineno">  959</span>            <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>())</div>
 <div class="line"><span class="lineno">  960</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3e994f52b75409c172e024592f0eb1ea">DATA_XT002_GRAVITY_ACHIEV</a>);</div>
 <div class="line"><span class="lineno">  961</span>    }</div>
@@ -331,6 +331,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnitAI_html_a165d336cb3423f9665ed612d2dec76ed"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI::DoAction</a></div><div class="ttdeci">virtual void DoAction(int32)</div><div class="ttdef"><b>Definition</b> UnitAI.h:212</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassUnit_html_ac53944779fa1544c06a3fc3dc74f5294"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">Unit::GetAI</a></div><div class="ttdeci">UnitAI * GetAI()</div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
+<div class="ttc" id="anamespaceLuaUnit_html_a28794e3db1b082f77497536091a8b4f0"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#a28794e3db1b082f77497536091a8b4f0">LuaUnit::GetHealth</a></div><div class="ttdeci">int GetHealth(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:773</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00123">DATA_XT002_GRAVITY_ACHIEV</a>, <a class="el" href="../../#l00212">UnitAI::DoAction()</a>, <a class="el" href="../../#l00664">Unit::GetAI()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, and <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>.</p>
 
@@ -410,7 +411,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/dab/classspell__xt002__gravity__bomb__damage.html">spell_xt002_gravity_bomb_damage</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:19:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:32:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

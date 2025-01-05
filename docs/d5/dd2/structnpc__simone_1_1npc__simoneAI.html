@@ -669,7 +669,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  632</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  633</span>            }</div>
 <div class="line"><span class="lineno">  634</span> </div>
-<div class="line"><span class="lineno">  635</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html#ad40c5f293558ca5a00614810a89d86c9">Precious</a>()-&gt;IsInCombat())</div>
+<div class="line"><span class="lineno">  635</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html#ad40c5f293558ca5a00614810a89d86c9">Precious</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#a56c98e9ef5aa2a6828668415d2d91ef6">IsInCombat</a>())</div>
 <div class="line"><span class="lineno">  636</span>            {</div>
 <div class="line"><span class="lineno">  637</span>                <span class="comment">// If Simone corpse is removed but pet is InCombat, EnterEvadeMode and auto despawn on pet reaching home</span></div>
 <div class="line"><span class="lineno">  638</span>                <a class="code hl_function" href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html#acbdf0e5404402edf28fecf8657303aba">PreciousAI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">EnterEvadeMode</a>();</div>
@@ -682,6 +682,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  645</span>        }</div>
 <div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:208</div></div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2178</div></div>
+<div class="ttc" id="anamespaceLuaUnit_html_a56c98e9ef5aa2a6828668415d2d91ef6"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#a56c98e9ef5aa2a6828668415d2d91ef6">LuaUnit::IsInCombat</a></div><div class="ttdeci">int IsInCombat(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:424</div></div>
 <div class="ttc" id="astructnpc__precious_1_1npc__preciousAI_html_a934a5147c1cc9937189011fb061657da"><div class="ttname"><a href="../../db/de4/structnpc__precious_1_1npc__preciousAI.html#a934a5147c1cc9937189011fb061657da">npc_precious::npc_preciousAI::FlagForDespawn</a></div><div class="ttdeci">void FlagForDespawn()</div><div class="ttdef"><b>Definition</b> npc_stave_of_ancients.cpp:510</div></div>
 <div class="ttc" id="astructnpc__simone_1_1npc__simoneAI_html_acbdf0e5404402edf28fecf8657303aba"><div class="ttname"><a href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html#acbdf0e5404402edf28fecf8657303aba">npc_simone::npc_simoneAI::PreciousAI</a></div><div class="ttdeci">npc_precious::npc_preciousAI * PreciousAI()</div><div class="ttdef"><b>Definition</b> npc_stave_of_ancients.cpp:564</div></div>
 <div class="ttc" id="astructnpc__simone_1_1npc__simoneAI_html_ad40c5f293558ca5a00614810a89d86c9"><div class="ttname"><a href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html#ad40c5f293558ca5a00614810a89d86c9">npc_simone::npc_simoneAI::Precious</a></div><div class="ttdeci">Creature * Precious()</div><div class="ttdef"><b>Definition</b> npc_stave_of_ancients.cpp:549</div></div>
@@ -1417,7 +1418,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d0c/classnpc__simone.html">npc_simone</a></li><li class="navelem"><a class="el" href="../../d5/dd2/structnpc__simone_1_1npc__simoneAI.html">npc_simoneAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

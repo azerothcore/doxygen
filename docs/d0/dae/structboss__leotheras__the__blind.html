@@ -650,15 +650,15 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  133</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97">SPELL_METAMORPHOSIS</a>))</div>
 <div class="line"><span class="lineno">  134</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b">AttackStartCaster</a>(who, 40.0f);</div>
 <div class="line"><span class="lineno">  135</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  136</span>            <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  136</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">ScriptedAI::AttackStart</a>(who);</div>
 <div class="line"><span class="lineno">  137</span>    }</div>
 <div class="ttc" id="aboss__leotheras__the__blind_8cpp_html_a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97"><div class="ttname"><a href="../../df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97">SPELL_METAMORPHOSIS</a></div><div class="ttdeci">@ SPELL_METAMORPHOSIS</div><div class="ttdef"><b>Definition</b> boss_leotheras_the_blind.cpp:53</div></div>
 <div class="ttc" id="aclassUnitAI_html_a187fc41350aa8d540512695ef2cbf73b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b">UnitAI::AttackStartCaster</a></div><div class="ttdeci">void AttackStartCaster(Unit *victim, float dist)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:33</div></div>
+<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5721</div></div>
-<div class="ttc" id="astructScriptedAI_html_a4c91d8d2c1a6e8b234c1c4f15936c7a4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l00033">UnitAI::AttackStartCaster()</a>, <a class="el" href="../../#l05721">Unit::HasAura()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00053">SPELL_METAMORPHOSIS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00033">UnitAI::AttackStartCaster()</a>, <a class="el" href="../../#l05721">Unit::HasAura()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00053">SPELL_METAMORPHOSIS</a>.</p>
 
 </div>
 </div>
@@ -1094,7 +1094,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/dae/structboss__leotheras__the__blind.html">boss_leotheras_the_blind</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:18:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:31:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
