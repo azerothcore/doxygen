@@ -7,6 +7,11 @@ var zulaman_8cpp =
     [ "spell_ritual_of_power", "d1/d03/classspell__ritual__of__power.html", "d1/d03/classspell__ritual__of__power" ],
     [ "npc_amanishi_lookout", "d1/db2/structnpc__amanishi__lookout.html", "d1/db2/structnpc__amanishi__lookout" ],
     [ "npc_amanishi_tempest", "d5/db3/structnpc__amanishi__tempest.html", "d5/db3/structnpc__amanishi__tempest" ],
+    [ "WorldTriggerHutPred", "dd/d18/structWorldTriggerHutPred.html", "dd/d18/structWorldTriggerHutPred" ],
+    [ "WorldTriggerDrumPred", "d5/dc1/structWorldTriggerDrumPred.html", "d5/dc1/structWorldTriggerDrumPred" ],
+    [ "npc_amanishi_scout", "dc/d8c/structnpc__amanishi__scout.html", "dc/d8c/structnpc__amanishi__scout" ],
+    [ "spell_alert_drums", "d1/d16/classspell__alert__drums.html", "d1/d16/classspell__alert__drums" ],
+    [ "spell_summon_amanishi_sentries", "dc/d93/classspell__summon__amanishi__sentries.html", "dc/d93/classspell__summon__amanishi__sentries" ],
     [ "GOSSIP_HOSTAGE1", "da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_COMPLETE_GONG_RITUAL", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccfa0fd6958fdb6b383ab8afdd359422f564", null ]
@@ -14,6 +19,20 @@ var zulaman_8cpp =
     [ "AmanishiLookout", "da/dea/zulaman_8cpp.html#a551260ec9098e89aace8d91b15b67846", [
       [ "PATH_LOOKOUT", "da/dea/zulaman_8cpp.html#a551260ec9098e89aace8d91b15b67846ab61b8a7a29e91e546145fa1cead1aff9", null ],
       [ "SAY_INVADERS", "da/dea/zulaman_8cpp.html#a551260ec9098e89aace8d91b15b67846abf1483656937ad0229f0cb987645d65b", null ]
+    ] ],
+    [ "AmanishiScout", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458", [
+      [ "NPC_WORLD_TRIGGER", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a2de54d34271fcadd2d72ee13d7e0ce48", null ],
+      [ "POINT_DRUM", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a62c6d71c075339d26f985e0f927bff20", null ],
+      [ "SAY_AGGRO", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SPELL_ALERT_DRUMS", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a360249375688b5427f211ef11c9057c8", null ],
+      [ "SPELL_MULTI_SHOT", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458ac7138c3b5a7250d35e73359c3d5e2987", null ],
+      [ "SPELL_SHOOT", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a1b728fa1bb0194534b5b491d35ed871c", null ]
+    ] ],
+    [ "AmanishiSentries", "da/dea/zulaman_8cpp.html#a2147825a3117ea5251124654f7ecf980", [
+      [ "SUMMON_AMANISHI_SENTRIES_1", "da/dea/zulaman_8cpp.html#a2147825a3117ea5251124654f7ecf980a4d76d6d9c198b37e42a77a8cbcaa4264", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_2", "da/dea/zulaman_8cpp.html#a2147825a3117ea5251124654f7ecf980a019767d5817af28a7adb40948fadd189", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_3", "da/dea/zulaman_8cpp.html#a2147825a3117ea5251124654f7ecf980a5a8fe67397d3793c4f088df5a0dc4cea", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_4", "da/dea/zulaman_8cpp.html#a2147825a3117ea5251124654f7ecf980a0d2036b9f6efdf2373135ab3619ee67f", null ]
     ] ],
     [ "AmanishiTempest", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9", [
       [ "GROUP_AKILZON_GAUNTLET", "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25", null ],
@@ -67,6 +86,9 @@ var zulaman_8cpp =
       [ "SAY_HARRISON_1", "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1aa02bb6b172fe286a094316bd16eab9e7", null ],
       [ "SAY_HARRISON_2", "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1a0e328deea347418d5205cd0366e350d1", null ],
       [ "SAY_HARRISON_3", "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1af58317619db7f1dadb9583466e6f03b2", null ]
+    ] ],
+    [ "SpellAlertDrums", "da/dea/zulaman_8cpp.html#a6f5be427fc72711537a7d3d5ad12b0cc", [
+      [ "SPELL_SUMMON_AMANISHI_SENTRIES", "da/dea/zulaman_8cpp.html#a6f5be427fc72711537a7d3d5ad12b0cca433c34a5dc9b2a09c38cb183fde71d2f", null ]
     ] ],
     [ "Spells", "da/dea/zulaman_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_BANGING_THE_GONG", "da/dea/zulaman_8cpp.html#a5bd342133be8c2137b831460acc9298caa7d2cee185568f3fe9fe4ed05f353965", null ],
