@@ -1,7 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[5,0,3675,0],
-"df/d6c/structB64Impl.html":[5,0,282],
 "df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[5,0,282,4],
 "df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[5,0,282,2],
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[5,0,282,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX379 =
 "df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318":[6,0,0,0,1,2,26,3,36],
 "df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4":[6,0,0,0,1,2,26,3,41],
 "df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857":[6,0,0,0,1,2,26,3,41,4],
-"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825":[6,0,0,0,1,2,26,3,41,0]
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825":[6,0,0,0,1,2,26,3,41,0],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01":[6,0,0,0,1,2,26,3,41,3],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71":[6,0,0,0,1,2,26,3,41,1]
 };

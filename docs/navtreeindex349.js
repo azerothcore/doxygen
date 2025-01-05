@@ -1,7 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4":[6,0,0,0,1,3,9,7,25,5],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1":[6,0,0,0,1,3,9,7,25,0],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366":[6,0,0,0,1,3,9,7,25,8],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690":[6,0,0,0,1,3,9,7,25,20],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0":[6,0,0,0,1,3,9,7,25,18],
@@ -249,5 +247,7 @@ var NAVTREEINDEX349 =
 "de/d2c/structItemPosCount.html#ad8954f1a6323316510cfe0f332ee495f":[5,0,1363,3],
 "de/d2d/classboss__hodir.html":[5,0,521],
 "de/d2d/classboss__hodir.html#a5740f489f57380d2633a8ee5a18de339":[5,0,521,1],
-"de/d2d/classboss__hodir.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c":[5,0,521,2]
+"de/d2d/classboss__hodir.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c":[5,0,521,2],
+"de/d2d/classboss__yoggsaron__constrictor__tentacle.html":[5,0,776],
+"de/d2d/classboss__yoggsaron__constrictor__tentacle.html#a131809f1c691e55a33863caf6fe0c5dc":[5,0,776,1]
 };

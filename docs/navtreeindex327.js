@@ -1,7 +1,5 @@
 var NAVTREEINDEX327 =
 {
-"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709":[6,0,0,0,1,3,5,23,23],
-"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8":[6,0,0,0,1,3,5,23,23,2],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c":[6,0,0,0,1,3,5,23,23,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d":[6,0,0,0,1,3,5,23,23,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709ac25cc7b06441c788ebfe392822513ac3":[6,0,0,0,1,3,5,23,23,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX327 =
 "dd/dc5/structnpc__doomfire__spirit.html#a0600718fad91723eba74b903583c5942":[5,0,1714,1],
 "dd/dc5/structnpc__doomfire__spirit.html#a3d16e8437c2e90ad1ab5de609f4fcff0":[5,0,1714,0],
 "dd/dc5/structnpc__doomfire__spirit.html#a7fc48df636df66a006a8179fd63e2a65":[5,0,1714,2],
-"dd/dc5/structnpc__doomfire__spirit.html#aa0d953c28f25e2838f3b24364b51f10b":[5,0,1714,3]
+"dd/dc5/structnpc__doomfire__spirit.html#aa0d953c28f25e2838f3b24364b51f10b":[5,0,1714,3],
+"dd/dc5/structnpc__doomfire__spirit.html#afeab7c791c31457d86e98a0064fa6ad8":[5,0,1714,4],
+"dd/dc6/advstd_8h.html":[6,0,0,0,0,15,0]
 };

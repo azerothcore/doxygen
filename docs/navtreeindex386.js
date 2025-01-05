@@ -1,7 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acfaf0511808dcbe60c9c22bce5cd8501":[6,0,0,0,1,3,5,9,1,0,5,8],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ae71900060dd77ccbaf5957c5e8530b27":[6,0,0,0,1,3,5,9,1,0,5,7],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aff8517cd7a971453de2f28af60e64f0c":[6,0,0,0,1,3,5,9,1,0,5,2],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[6,0,0,0,1,3,5,9,1,0,4],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e":[6,0,0,0,1,3,5,9,1,0,4,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX386 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[4,0,1,87],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[4,0,1,87,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,0,75,5],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[4,0,1,87,2]
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[4,0,1,87,2],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,75,2],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[4,0,1,87,4]
 };

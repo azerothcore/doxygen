@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65":[6,0,0,0,1,3,6,12,4,3],
 "d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b":[6,0,0,0,1,3,6,12,4,1],
 "d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97":[6,0,0,0,1,3,6,12,4,2],
 "d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16":[6,0,0,0,1,3,6,12,4,0],
@@ -187,20 +186,20 @@ var NAVTREEINDEX181 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[5,0,3808,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[6,0,0,0,1,2,38,0,12],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[6,0,0,0,1,2,38,0,12,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[4,0,1,7,2],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[4,0,1,7,2,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,4,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[4,0,1,7,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[4,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,4,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[4,0,1,107],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[4,0,1,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,95],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[4,0,1,107,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[4,0,1,107],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,0,95,0],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,95,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[4,0,1,107,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[4,0,1,107,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,95,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[4,0,1,107,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,95,2],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[5,0,2255,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[5,0,2255,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[5,0,2255,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX181 =
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a67e9f5a361894aa227f2a74f9222740d":[5,0,432,0,6],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a6a900f9a9dc5509c36e5bdaaaacc197d":[5,0,432,0,4],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a81576aaf465dfc99d199aaf6a182df52":[5,0,432,0,1],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a997d75ad388e790f9863e1b15fa1c899":[5,0,432,0,2]
+"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a997d75ad388e790f9863e1b15fa1c899":[5,0,432,0,2],
+"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#adc3867a4446375f1217809299f3dd9bb":[5,0,432,0,8]
 };

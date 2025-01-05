@@ -1,6 +1,5 @@
 var NAVTREEINDEX218 =
 {
-"d8/d94/classTradeData.html#a1e585dd9ed486381a55e108a709e4db3":[5,0,4075,19],
 "d8/d94/classTradeData.html#a27981abf9bddbfe87bf81836b57e0780":[5,0,4075,9],
 "d8/d94/classTradeData.html#a291fdc4207d594982a780485b960f6fa":[5,0,4075,23],
 "d8/d94/classTradeData.html#a2982777fbad962000c016309667104df":[5,0,4075,7],
@@ -113,12 +112,12 @@ var NAVTREEINDEX218 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[5,0,1624,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[5,0,1624,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[5,0,1624,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[4,0,31,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[4,0,31,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[4,0,31,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,11,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[4,0,31,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[4,0,31,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[5,0,2458],
@@ -249,5 +248,6 @@ var NAVTREEINDEX218 =
 "d8/da3/structCreatureMovementData.html#a04966dc48fffcd65574314f238ba9be2":[5,0,910,15],
 "d8/da3/structCreatureMovementData.html#a0820b5840321870dafa9119d404ad0d9":[5,0,910,5],
 "d8/da3/structCreatureMovementData.html#a0ca3905bb168b81853091a7d56796c1f":[5,0,910,14],
-"d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[5,0,910,13]
+"d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[5,0,910,13],
+"d8/da3/structCreatureMovementData.html#a3ed4b7f140537f9d066344c50a79b0b1":[5,0,910,7]
 };

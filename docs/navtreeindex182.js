@@ -1,6 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#adc3867a4446375f1217809299f3dd9bb":[5,0,432,0,8],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#ade57a575bd84e8e095b1ab5a5c81d3f6":[5,0,432,0,5],
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html":[5,0,1820,0],
 "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html#a20742bb0fe610367283cd5dc7e8b36ff":[5,0,1820,0,3],
@@ -246,8 +245,9 @@ var NAVTREEINDEX182 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[4,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[4,0,1,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[4,0,1,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[6,0,0,0,1,3,5,25],
-"d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[6,0,0,0,1,3,5,25,24]
+"d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[6,0,0,0,1,3,5,25,24],
+"d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370":[6,0,0,0,1,3,5,25,24,1]
 };

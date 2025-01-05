@@ -1,7 +1,5 @@
 var NAVTREEINDEX312 =
 {
-"dc/dfb/classUpdateTime.html#a2073ed7e673a5db381432267861d64ec":[5,0,4122,3],
-"dc/dfb/classUpdateTime.html#a28ab3fb6bd445bf1b36f7cb3b73acff2":[5,0,4122,4],
 "dc/dfb/classUpdateTime.html#a29b8d4c5394820b71aaf8864ba4b8327":[5,0,4122,8],
 "dc/dfb/classUpdateTime.html#a38ae34827b0de71df0eeb31c1af9e07e":[5,0,4122,0],
 "dc/dfb/classUpdateTime.html#a451d39365491ae8d38816783865d2a75":[5,0,4122,10],
@@ -235,10 +233,10 @@ var NAVTREEINDEX312 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a90eee01f380f97f033c82d7c6ec48d00":[5,0,3039,1],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a91c5a0e10c308332e18dc40033049996":[5,0,3039,6],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[5,0,3039,2],
-"dd/d07/structlfg_1_1LfgReward.html":[5,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html":[4,0,19,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,5,15,1],
+"dd/d07/structlfg_1_1LfgReward.html":[5,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[4,0,19,15,1],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[4,0,19,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,5,15,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX312 =
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[5,0,2799,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[5,0,2799,0],
 "dd/d08/classspell__electrial__storm.html#ac2db8f8d9b778a0a36081c897f4149cb":[5,0,2799,3],
-"dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[5,0,2799,1]
+"dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[5,0,2799,1],
+"dd/d08/structboss__grilek_1_1boss__grilekAI.html":[5,0,492,0],
+"dd/d08/structboss__grilek_1_1boss__grilekAI.html#a19438103c9a582a7d36d805c80131e8c":[5,0,492,0,3]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/df4/classspell__deathbringer__blood__power.html#a4a387df07c88144288c4327ce86b730a":[5,0,2680,2],
-"dd/df4/classspell__deathbringer__blood__power.html#a4f916abef69782be10cc6be9ba0124f5":[5,0,2680,1],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html":[5,0,3249],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#acac962ba1cb72615772fe8bc81d24f9d":[5,0,3249,0],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[5,0,3249,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX333 =
 "de/d03/Channel_8h.html#a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf":[6,0,0,0,1,2,11,0,1,6,0],
 "de/d03/Channel_8h.html#a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8":[6,0,0,0,1,2,11,0,1,6,1],
 "de/d03/Channel_8h.html#a4acfab10728f2904523abb9c3761a256":[6,0,0,0,1,2,11,0,1,4],
-"de/d03/Channel_8h.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173":[6,0,0,0,1,2,11,0,1,4,0]
+"de/d03/Channel_8h.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173":[6,0,0,0,1,2,11,0,1,4,0],
+"de/d03/Channel_8h.html#a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed":[6,0,0,0,1,2,11,0,1,4,4],
+"de/d03/Channel_8h.html#a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f":[6,0,0,0,1,2,11,0,1,4,5]
 };

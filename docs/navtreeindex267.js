@@ -1,7 +1,5 @@
 var NAVTREEINDEX267 =
 {
-"da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[5,0,3921,1],
-"da/df6/classspell__warr__mocking__blow.html#ab21c47d1918a9e29ebe7b041421deaf7":[5,0,3921,2],
 "da/df7/TradeData_8cpp.html":[6,0,0,0,1,2,16,7,17],
 "da/df8/TicketMgr_8cpp.html":[6,0,0,0,1,2,43,0],
 "da/df8/TicketMgr_8cpp.html#a347e0449afd73dbcc6c084dbe72af6c8":[6,0,0,0,1,2,43,0,0],
@@ -174,12 +172,12 @@ var NAVTREEINDEX267 =
 "db/d02/zone__felwood_8cpp.html#aed16a0d3c0f5042443d68996e30f15bd":[6,0,0,0,1,3,4,22,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,90],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[4,0,1,102],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[4,0,1,102,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,90,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[4,0,1,102,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[4,0,1,102,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,90,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[4,0,1,102,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[4,0,1,102,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,90,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[4,0,1,102,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,90,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[4,0,1,102,3],
 "db/d03/classboss__sartharion.html":[5,0,669],
@@ -249,5 +247,7 @@ var NAVTREEINDEX267 =
 "db/d09/classOutdoorPvP__grizzly__hills.html#aa020d8120c62874fb15b4623bbb714d9":[5,0,2307,0],
 "db/d09/classOutdoorPvP__grizzly__hills.html#add8a0c81bcc55c7b382c25fa077b80ce":[5,0,2307,1],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html":[5,0,738,0],
-"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a0cb60f308637cbd152faf274b3e5f636":[5,0,738,0,1]
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a0cb60f308637cbd152faf274b3e5f636":[5,0,738,0,1],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a2168a2e1b36607b76614bdef54b02bc3":[5,0,738,0,8],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a249b7dc28dfc40c2a782ef32b88dbb48":[5,0,738,0,4]
 };

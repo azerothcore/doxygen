@@ -1,7 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[5,0,3726,3],
-"df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[5,0,3726,2],
 "df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[5,0,3726,5],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html":[5,0,1602,0],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[5,0,1602,0,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX377 =
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[4,0,28,22,3],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,9,22,3],
 "df/d57/blackrock__depths_8cpp.html":[6,0,0,0,1,3,2,1,0,0],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[6,0,0,0,1,3,2,1,0,0,12]
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[6,0,0,0,1,3,2,1,0,0,12],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[6,0,0,0,1,3,2,1,0,0,12,3],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9":[6,0,0,0,1,3,2,1,0,0,12,2]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX364 =
 {
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809adc7ad0f9c316fc5f84c74d792511f47b":[6,0,0,0,1,3,5,18,49,9],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[4,0,1,2,1,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[5,0,0,1,1,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,0,1,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[4,0,1,2,1,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX364 =
 "de/db4/classPreparedStatementBase.html#a9af41817061c82bc5498c463b2f0fdf0":[5,0,2401,18],
 "de/db4/classPreparedStatementBase.html#a9dcba27137454af96729a7e3e897f86c":[5,0,2401,15],
 "de/db4/classPreparedStatementBase.html#aa450d6784414246752c84556f6960fc9":[5,0,2401,16],
-"de/db4/classPreparedStatementBase.html#aa4ff9aa53e042d424954b553d6912fa8":[5,0,2401,13]
+"de/db4/classPreparedStatementBase.html#aa4ff9aa53e042d424954b553d6912fa8":[5,0,2401,13],
+"de/db4/classPreparedStatementBase.html#aa71863fdcace3c2fc666a0cf456d9e59":[5,0,2401,10],
+"de/db4/classPreparedStatementBase.html#aa7703fa7b7cf7cf033a45cccf4701f48":[5,0,2401,2]
 };

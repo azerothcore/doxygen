@@ -1,7 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"dc/dae/classboss__high__inquisitor__whitemane.html#aae73cc11aa89bdc8d908feeb05c68148":[5,0,514,1],
-"dc/dae/classboss__high__inquisitor__whitemane.html#af98b4901fb56c3cf27a86ad80891087a":[5,0,514,2],
 "dc/dae/gruuls__lair_8h.html":[6,0,0,0,1,3,7,3,2],
 "dc/dae/gruuls__lair_8h.html#a02f4ee42fa7e8b8780181f1d48cecd84":[6,0,0,0,1,3,7,3,2,2],
 "dc/dae/gruuls__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[6,0,0,0,1,3,7,3,2,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX306 =
 "dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[5,0,1757,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[5,0,1757,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[5,0,2175],
-"dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[5,0,2175,1]
+"dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[5,0,2175,1],
+"dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[5,0,2175,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[5,0,3515]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX238 =
 {
-"d9/d9f/classnpc__putricide__oozeAI.html#a8e96a50b9a35f6220bf6c824c1acce58":[5,0,2021,2],
-"d9/d9f/classnpc__putricide__oozeAI.html#a9615a0e6c73c155330c1791c2a205553":[5,0,2021,9],
 "d9/d9f/classnpc__putricide__oozeAI.html#ab9d288f8eded19720a0aee3bd91920d2":[5,0,2021,5],
 "d9/d9f/classnpc__putricide__oozeAI.html#ae01b7ffe31548aa15d913cc28fa32422":[5,0,2021,10],
 "d9/d9f/classspell__q11198__take__down__tethyr.html":[5,0,3551],
@@ -198,10 +196,10 @@ var NAVTREEINDEX238 =
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[4,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,0,0,1,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[4,0,1,0,2,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[4,0,1,0,2,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,0,0,1,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[4,0,1,0,2,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[4,0,1,0,2,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,0,0,1,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[4,0,1,0,2,0],
 "d9/dac/classnpc__nether__drake.html":[5,0,1947],
 "d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[5,0,1947,1],
 "d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[5,0,1947,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX238 =
 "d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[5,0,1431,6],
 "d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[5,0,1431,4],
 "d9/dae/structM2Camera.html#a9426497de885b901d364c0b3ddd487d9":[5,0,1431,2],
-"d9/dae/structM2Camera.html#abf0892be5ecf6d1e1021e101832396f3":[5,0,1431,3]
+"d9/dae/structM2Camera.html#abf0892be5ecf6d1e1021e101832396f3":[5,0,1431,3],
+"d9/dae/structM2Camera.html#ad3428dcc0b93e509c9225fa86ea2d691":[5,0,1431,5],
+"d9/dae/structM2Camera.html#ae553ef5e28cc3af3acd45b9efd309fbe":[5,0,1431,1]
 };

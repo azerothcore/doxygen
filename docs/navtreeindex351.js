@@ -1,7 +1,5 @@
 var NAVTREEINDEX351 =
 {
-"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d457dfd48a2e7d09a51f74af799d15c":[6,0,0,0,1,2,41,9,67,8],
-"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d98815351483be1e181c60534155a32":[6,0,0,0,1,2,41,9,67,14],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaa1865762e5eea260fb0e1ab62aa9f903":[6,0,0,0,1,2,41,9,67,12],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaa3b11615942df9ce24227d1abeba45ec":[6,0,0,0,1,2,41,9,67,1],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebab0a69bcf9c5d7234a4eb3fb6cf15eb09":[6,0,0,0,1,2,41,9,67,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX351 =
 "de/d37/classadt__MFBO.html#af92420cfd862486c73c35ac8a9f9fdee":[5,0,136,6],
 "de/d37/classadt__MFBO.html#afadebfc1361985b6f5d45c27e22cb303":[5,0,136,4],
 "de/d37/classboss__freya__nature__bomb.html":[5,0,466],
-"de/d37/classboss__freya__nature__bomb.html#a18fa6ff862a1b367ac23eb1b7bda0ed4":[5,0,466,1]
+"de/d37/classboss__freya__nature__bomb.html#a18fa6ff862a1b367ac23eb1b7bda0ed4":[5,0,466,1],
+"de/d37/classboss__freya__nature__bomb.html#a73e24282c6bb29cf3f6a7da14a4de582":[5,0,466,2],
+"de/d38/OutdoorPvPHP_8cpp.html":[6,0,0,0,1,3,6,5]
 };

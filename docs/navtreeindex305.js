@@ -1,7 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"dc/d9d/classspell__yogg__saron__destabilization__matrix.html":[5,0,3953],
-"dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a2796cc02d7c029f3f99264162a19e1d2":[5,0,3953,3],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a3d92ca79a15efaff3c4dd28f0c7ede2c":[5,0,3953,0],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a7ec441904bc100c6b15ee219617489ff":[5,0,3953,2],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a85388adbc15d449e687f9f463cce3833":[5,0,3953,4],
@@ -233,14 +231,14 @@ var NAVTREEINDEX305 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[4,0,31,6,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,11,6,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[4,0,31,6,0,3],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,11,6,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[4,0,31,6,0,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[4,0,31,6,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,11,6,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,11,6,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[4,0,31,6,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,11,6,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[4,0,31,6,0,6],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[4,0,31,6,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,11,6,0,1],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[4,0,31,6,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,11,6,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[4,0,31,6,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,11,6,0,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX305 =
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[5,0,1523,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[5,0,1523,2],
 "dc/dab/classnear__scarshield__infiltrator.html#aeb761433e3210ce85c1de4dab653a87c":[5,0,1523,1],
-"dc/dae/classboss__high__inquisitor__whitemane.html":[5,0,514]
+"dc/dae/classboss__high__inquisitor__whitemane.html":[5,0,514],
+"dc/dae/classboss__high__inquisitor__whitemane.html#aae73cc11aa89bdc8d908feeb05c68148":[5,0,514,1],
+"dc/dae/classboss__high__inquisitor__whitemane.html#af98b4901fb56c3cf27a86ad80891087a":[5,0,514,2]
 };

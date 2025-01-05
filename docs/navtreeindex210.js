@@ -1,6 +1,5 @@
 var NAVTREEINDEX210 =
 {
-"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a67d4b92cc494b6081247a90e8d4c9628":[5,0,3687,4],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a6ac1d4f1d82aabb39526aca92636a41f":[5,0,3687,3],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a9959966856601f79a83931a7a7ecff91":[5,0,3687,2],
 "d8/d3a/structItemSetEntry.html":[5,0,1368],
@@ -249,5 +248,6 @@ var NAVTREEINDEX210 =
 "d8/d4b/classObject.html#af01444effe1f5da6942ad6d597bd0e48":[5,0,2274,88],
 "d8/d4b/classObject.html#af053cb79afcecda74e5525815941e9f9":[5,0,2274,97],
 "d8/d4b/classObject.html#af0930b68d7e83e9200e110722d012aa0":[5,0,2274,53],
-"d8/d4b/classObject.html#af2a0d1358ff1532ac3cdb78b357f2fd0":[5,0,2274,115]
+"d8/d4b/classObject.html#af2a0d1358ff1532ac3cdb78b357f2fd0":[5,0,2274,115],
+"d8/d4b/classObject.html#af3b5cd7a9a24ddde484344200cf83281":[5,0,2274,2]
 };

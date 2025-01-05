@@ -1,9 +1,7 @@
 var NAVTREEINDEX249 =
 {
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,104,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[4,0,1,116,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,104,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[4,0,1,116,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,104,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[4,0,1,116,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,0,104,0],
 "da/d4b/classCastArmageddon.html":[5,0,822],
@@ -249,5 +247,7 @@ var NAVTREEINDEX249 =
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[6,0,0,0,1,3,5,8,2,1,5,1],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[6,0,0,0,1,3,5,8,2,1,5,3],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1aaf749e8e64cc093fd7431662518404d9":[6,0,0,0,1,3,5,8,2,1,5,5],
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1ab543380783668ea87e4c4d93d0db622e":[6,0,0,0,1,3,5,8,2,1,5,0]
+"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1ab543380783668ea87e4c4d93d0db622e":[6,0,0,0,1,3,5,8,2,1,5,0],
+"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[6,0,0,0,1,3,5,8,2,1,5,2],
+"da/d53/boss__eregos_8cpp.html#a3018d2eec0f678e0cfade4ec6e226259":[6,0,0,0,1,3,5,8,2,1,8]
 };

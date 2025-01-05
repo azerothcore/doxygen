@@ -1,7 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a43d5a2d46876df1d33576a0f51012cd1":[6,0,0,0,1,2,38,0,75,1,33],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a44bb21dbceb7f3d834cf8896eb0bf204":[6,0,0,0,1,2,38,0,75,1,150],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a46b45eff4b16d8894f96a1d46d60d6a9":[6,0,0,0,1,2,38,0,75,1,15],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48ac1860f792469c42281167e11a5857":[6,0,0,0,1,2,38,0,75,1,64],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48e5f4b7118a2abbd36fe0495a47dc04":[6,0,0,0,1,2,38,0,75,1,40],
@@ -249,5 +247,7 @@ var NAVTREEINDEX329 =
 "dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[5,0,837,9],
 "dd/dcf/structCharacterCacheEntry.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532":[5,0,837,4],
 "dd/dcf/structCharacterCacheEntry.html#ae1921d1e949cec70ebbd52779b775df6":[5,0,837,0],
-"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[5,0,2175,0]
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[5,0,2175,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#a4c1f53fbbc6189ca9ee0420bc4198684":[5,0,2175,0,2],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aa66f1aa48cf928ac12751cb3ca2358f3":[5,0,2175,0,4]
 };

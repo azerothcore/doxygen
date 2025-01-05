@@ -1,7 +1,5 @@
 var NAVTREEINDEX348 =
 {
-"de/d1c/classGameObject.html":[5,0,1057],
-"de/d1c/classGameObject.html#a029bfbe8e0c98b99e556f977d53a1249":[5,0,1057,124],
 "de/d1c/classGameObject.html#a0348e3ee2e83d56eafca7a3547f432c4":[5,0,1057,1],
 "de/d1c/classGameObject.html#a0451e73a232d8bc61ee7339d48f03dca":[5,0,1057,55],
 "de/d1c/classGameObject.html#a0497a25973bb212d9e320d2ae732b715":[5,0,1057,54],
@@ -249,5 +247,7 @@ var NAVTREEINDEX348 =
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d":[6,0,0,0,1,3,9,7,25,3],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03":[6,0,0,0,1,3,9,7,25,16],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4":[6,0,0,0,1,3,9,7,25,12],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[6,0,0,0,1,3,9,7,25,13]
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[6,0,0,0,1,3,9,7,25,13],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4":[6,0,0,0,1,3,9,7,25,5],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1":[6,0,0,0,1,3,9,7,25,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX176 =
 {
-"d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[5,0,1856,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[5,0,1856,2],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html":[5,0,2003,0],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a007e4bad6ef41729d3f7b7ade4285dfe":[5,0,2003,0,0],
@@ -86,8 +85,8 @@ var NAVTREEINDEX176 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[6,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[6,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[6,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[4,0,1,8,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[4,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[6,0,0,0,1,2,3,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX176 =
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[5,0,3548,0],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[5,0,3548,3],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[5,0,3548,2],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[5,0,3548,1]
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[5,0,3548,1],
+"d6/dbf/structInstancePlayerBind.html":[5,0,1336]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055":[6,0,0,0,1,2,5,3,24,1],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094":[6,0,0,0,1,2,5,3,24,10],
 "da/d70/AuctionHouseSearcher_8h.html#add0df1394d287b79672ebf01c59138c1":[6,0,0,0,1,2,5,3,20],
 "da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[6,0,0,0,1,2,5,3,21],
 "da/d70/classat__icc__saurfang__portal.html":[5,0,208],
@@ -30,16 +28,16 @@ var NAVTREEINDEX252 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[4,0,1,7,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,4,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[4,0,1,7,4,8],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,4,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[4,0,1,7,4,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,4,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[4,0,1,7,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,4,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,4,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[4,0,1,7,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,4,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[4,0,1,7,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,4,4,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[4,0,1,7,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,4,4,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[4,0,1,7,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[4,0,1,7,4,1],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,4,4,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[5,0,1829,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX252 =
 "da/d76/namespaceDisableMgr.html#a38b182e1836b2197303b2809006f5148":[4,0,12,3],
 "da/d76/namespaceDisableMgr.html#a6673bbc719c96febfc86a4220a988ed0":[4,0,12,1],
 "da/d76/namespaceDisableMgr.html#ad6a338e6f295d785a4f9256703ffbd71":[4,0,12,2],
-"da/d76/namespaceDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[4,0,12,4]
+"da/d76/namespaceDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[4,0,12,4],
+"da/d76/structnpc__ulduar__snow__mound.html":[5,0,2199],
+"da/d76/structnpc__ulduar__snow__mound.html#a1856c3bba24842f33720a83e1de40421":[5,0,2199,4]
 };

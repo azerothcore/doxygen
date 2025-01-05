@@ -1,6 +1,5 @@
 var NAVTREEINDEX188 =
 {
-"d7/d53/structboss__cthun.html#a56fe3347ac41b67fb6912f372a5879ba":[5,0,398,3],
 "d7/d53/structboss__cthun.html#a5a0514e56217bb3b30b22b2681542adb":[5,0,398,5],
 "d7/d53/structboss__cthun.html#a7d2685597f1eec2459fe509e5b97681f":[5,0,398,7],
 "d7/d53/structboss__cthun.html#abad23f1df9c6989e7a6d3d62143adb05":[5,0,398,9],
@@ -178,10 +177,10 @@ var NAVTREEINDEX188 =
 "d7/d61/classFactoryCreatureScript.html":[5,0,1014],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[5,0,1014,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[5,0,1014,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,11,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[4,0,31,1,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[4,0,31,1,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,11,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,11,1,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[4,0,31,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[4,0,31,1,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,11,1,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[6,0,0,0,1,3,2,23],
@@ -249,5 +248,6 @@ var NAVTREEINDEX188 =
 "d7/d62/classinstance__gundrak.html#ad6acbbcd96740a011f2a72a63fb211c3":[5,0,1278,1],
 "d7/d64/classachievement__respect__your__elders.html":[5,0,83],
 "d7/d64/classachievement__respect__your__elders.html#a2fd66ada0ff7482c00b2cb417a12e88e":[5,0,83,0],
-"d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[5,0,83,1]
+"d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[5,0,83,1],
+"d7/d64/structMMAP_1_1MMapData.html":[4,0,21,5]
 };

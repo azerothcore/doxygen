@@ -1,7 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"dd/d3b/structGameObjectTemplate.html#a67aa14ccaea3181f5e9b359fb28d31ec":[5,0,1070,158],
-"dd/d3b/structGameObjectTemplate.html#a6855d22b6b51a65765c41be9a6f205dc":[5,0,1070,103],
 "dd/d3b/structGameObjectTemplate.html#a68cfbe7c338d158d08bd1ffab6856990":[5,0,1070,9],
 "dd/d3b/structGameObjectTemplate.html#a6c88f4672ef3c4d2e44d7d486fab8776":[5,0,1070,25],
 "dd/d3b/structGameObjectTemplate.html#a6c9615541f4a5f94b7c05e86f945179e":[5,0,1070,145],
@@ -142,10 +140,10 @@ var NAVTREEINDEX318 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[6,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[6,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[6,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[4,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,9,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[4,0,28,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[4,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,9,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[4,0,28,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[4,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,9,8,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX318 =
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[5,0,1814,0,6],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[5,0,1814,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[5,0,1814,0,2],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[5,0,1814,0,0]
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[5,0,1814,0,0],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[5,0,1814,0,1],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a7c911cf24b21c959ee5c62d664e1879a":[5,0,1814,0,5]
 };

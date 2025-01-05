@@ -1,19 +1,17 @@
 var NAVTREEINDEX251 =
 {
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[5,0,5,14,5],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[4,0,19,14,5],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[5,0,5,14,1],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[4,0,19,14,1],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[5,0,5,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[4,0,19,14,2],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,5,14,6],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[5,0,5,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[4,0,19,14,6],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[5,0,5,14,8],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,5,14,6],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[4,0,19,14,8],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,5,14,9],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[5,0,5,14,8],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[4,0,19,14,9],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,5,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,5,14,9],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[4,0,19,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,5,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,5,14,0],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[4,0,19,14,0],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html":[5,0,1268,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX251 =
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef":[6,0,0,0,1,2,5,3,24,6],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e":[6,0,0,0,1,2,5,3,24,7],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ad941e54aa0ae31a89638b48d169f88ea":[6,0,0,0,1,2,5,3,24,5],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4":[6,0,0,0,1,2,5,3,24,9]
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4":[6,0,0,0,1,2,5,3,24,9],
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055":[6,0,0,0,1,2,5,3,24,1],
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094":[6,0,0,0,1,2,5,3,24,10]
 };

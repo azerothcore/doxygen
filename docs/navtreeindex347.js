@@ -1,7 +1,5 @@
 var NAVTREEINDEX347 =
 {
-"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ad3082b556b21e9f4f7393146baf89b93":[6,0,0,0,1,4,7,104,6],
-"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ae9c293aadafa9a86b515abb5005af8b2":[6,0,0,0,1,4,7,104,17],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094aee1f9613547746d1ed29bdd589d1f44d":[6,0,0,0,1,4,7,104,7],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094af579da93553a5df0f3688999e8fa5d6e":[6,0,0,0,1,4,7,104,19],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094afe55bfd618395e7678022d732549952a":[6,0,0,0,1,4,7,104,23],
@@ -249,5 +247,7 @@ var NAVTREEINDEX347 =
 "de/d1b/classspell__item__trigger__spell.html#a610c5ac434fe788120ed101f7bf58f63":[5,0,3245,5],
 "de/d1b/classspell__item__trigger__spell.html#a619e9a5233e36157cbdaba70a3ba80da":[5,0,3245,0],
 "de/d1b/classspell__item__trigger__spell.html#a78903f92c30fb23ff7297f7fa16c4861":[5,0,3245,2],
-"de/d1b/classspell__item__trigger__spell.html#ab9abd9f01ce37c23d6502e6d86e3f998":[5,0,3245,3]
+"de/d1b/classspell__item__trigger__spell.html#ab9abd9f01ce37c23d6502e6d86e3f998":[5,0,3245,3],
+"de/d1c/classGameObject.html":[5,0,1057],
+"de/d1c/classGameObject.html#a029bfbe8e0c98b99e556f977d53a1249":[5,0,1057,124]
 };

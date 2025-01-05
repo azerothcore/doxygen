@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5":[6,0,0,0,1,2,8,0,19,10,25],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18":[6,0,0,0,1,2,8,0,19,10,24],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff":[6,0,0,0,1,2,8,0,19,10,16],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64":[6,0,0,0,1,2,8,0,19,10,23],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a71b88fbad5acbba47028dd1ff82b4836":[5,0,3422,0],
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a754da297cd5801616e24bf2d802d0b38":[5,0,3422,1],
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html":[5,0,3743],
-"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4":[5,0,3743,0]
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4":[5,0,3743,0],
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0e8e8685ce8c1eea2b60e8bf6aeed782":[5,0,3743,2]
 };

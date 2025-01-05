@@ -1,7 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"df/d14/classPet.html#a99f2a004a9f240577b0dea12eceb247d":[5,0,2347,86],
-"df/d14/classPet.html#a9a49a8303c99851bb861b3b11e3fce32":[5,0,2347,4],
 "df/d14/classPet.html#a9a66612d754660f0ff25ac0b1236372e":[5,0,2347,76],
 "df/d14/classPet.html#a9d623f0127c82864f885e09a9ddd2eb8":[5,0,2347,45],
 "df/d14/classPet.html#aa112fc828c2fc64dd592c81932b71481":[5,0,2347,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX371 =
 "df/d17/structboss__headless__horseman__head.html#a367e8b82d6d3bb08e7106c71295610f9":[5,0,507,3],
 "df/d17/structboss__headless__horseman__head.html#a72c0d0c8c534fa8fdc1370203c30c3a3":[5,0,507,7],
 "df/d17/structboss__headless__horseman__head.html#a73e75350937736ad7cfe725b785b3768":[5,0,507,1],
-"df/d17/structboss__headless__horseman__head.html#a9752326bac7ecbcdfde5b12f55b20be2":[5,0,507,8]
+"df/d17/structboss__headless__horseman__head.html#a9752326bac7ecbcdfde5b12f55b20be2":[5,0,507,8],
+"df/d17/structboss__headless__horseman__head.html#ab72d1f1891401754ffe032ed0534882d":[5,0,507,2],
+"df/d17/structboss__headless__horseman__head.html#adcd9ce9755f8dbc1391b4d2b3f5e1669":[5,0,507,4]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"de/d2d/classboss__yoggsaron__constrictor__tentacle.html":[5,0,776],
-"de/d2d/classboss__yoggsaron__constrictor__tentacle.html#a131809f1c691e55a33863caf6fe0c5dc":[5,0,776,1],
 "de/d2d/classboss__yoggsaron__constrictor__tentacle.html#ac469d5661eb664c73bf5ab38084cb03e":[5,0,776,2],
 "de/d2d/enuminfo__ArenaTeam_8cpp.html":[6,0,0,0,1,2,8,19],
 "de/d2d/namespaceObjectAccessor.html":[4,0,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX350 =
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba6acd812cb11a98c7bc9176e03bbd8f3f":[6,0,0,0,1,2,41,9,67,15],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba7544e286bc4aa39c6d31bea5b8765111":[6,0,0,0,1,2,41,9,67,4],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba7839f95fbf97ecde100bfe23ad17a6bf":[6,0,0,0,1,2,41,9,67,13],
-"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba88058107a5eb1341d5edf23eefaade52":[6,0,0,0,1,2,41,9,67,5]
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba88058107a5eb1341d5edf23eefaade52":[6,0,0,0,1,2,41,9,67,5],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d457dfd48a2e7d09a51f74af799d15c":[6,0,0,0,1,2,41,9,67,8],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d98815351483be1e181c60534155a32":[6,0,0,0,1,2,41,9,67,14]
 };
