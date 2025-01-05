@@ -251,7 +251,7 @@ PYTHON_DOCSTRING       = YES
 
 # If the INHERIT_DOCS tag is set to YES then an undocumented member inherits the
 # documentation from any documented member that it re-implements.
-# The default value is: YES.
+# The default value is: YES.q
 
 INHERIT_DOCS           = YES
 
@@ -918,6 +918,7 @@ WARN_LOGFILE           =
 # Note: If this tag is empty the current directory is searched.
 
 INPUT                  = azerothcore-wotlk/src \
+                         mod-eluna\src \
                          doxygen-settings/mainpage.md
 
 # This tag can be used to specify the character encoding of the source files
