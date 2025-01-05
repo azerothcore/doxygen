@@ -1,27 +1,7 @@
 var searchData=
 [
-  ['lfg_0',['lfg',['../de/d72/namespacelfg.html',1,'']]],
-  ['luaachievement_1',['LuaAchievement',['../d8/d23/namespaceLuaAchievement.html',1,'']]],
-  ['luaaura_2',['LuaAura',['../d6/de8/namespaceLuaAura.html',1,'']]],
-  ['luabattleground_3',['LuaBattleGround',['../de/d3f/namespaceLuaBattleGround.html',1,'']]],
-  ['luachathandler_4',['LuaChatHandler',['../d9/d2c/namespaceLuaChatHandler.html',1,'']]],
-  ['luacorpse_5',['LuaCorpse',['../d9/d09/namespaceLuaCorpse.html',1,'']]],
-  ['luacreature_6',['LuaCreature',['../de/df7/namespaceLuaCreature.html',1,'']]],
-  ['luagameobject_7',['LuaGameObject',['../db/dea/namespaceLuaGameObject.html',1,'']]],
-  ['luaglobalfunctions_8',['LuaGlobalFunctions',['../db/d04/namespaceLuaGlobalFunctions.html',1,'']]],
-  ['luagroup_9',['LuaGroup',['../d0/da6/namespaceLuaGroup.html',1,'']]],
-  ['luaguild_10',['LuaGuild',['../d7/db1/namespaceLuaGuild.html',1,'']]],
-  ['luaitem_11',['LuaItem',['../dd/d2a/namespaceLuaItem.html',1,'']]],
-  ['luaitemtemplate_12',['LuaItemTemplate',['../d8/dbb/namespaceLuaItemTemplate.html',1,'']]],
-  ['luamap_13',['LuaMap',['../dd/db9/namespaceLuaMap.html',1,'']]],
-  ['luaobject_14',['LuaObject',['../d3/de2/namespaceLuaObject.html',1,'']]],
-  ['luapacket_15',['LuaPacket',['../d7/dc6/namespaceLuaPacket.html',1,'']]],
-  ['luaplayer_16',['LuaPlayer',['../d6/d8f/namespaceLuaPlayer.html',1,'']]],
-  ['luaquery_17',['LuaQuery',['../d7/dad/namespaceLuaQuery.html',1,'']]],
-  ['luaquest_18',['LuaQuest',['../da/de0/namespaceLuaQuest.html',1,'']]],
-  ['luaroll_19',['LuaRoll',['../dd/d47/namespaceLuaRoll.html',1,'']]],
-  ['luaspell_20',['LuaSpell',['../d5/dbc/namespaceLuaSpell.html',1,'']]],
-  ['luaunit_21',['LuaUnit',['../d7/dd3/namespaceLuaUnit.html',1,'']]],
-  ['luavehicle_22',['LuaVehicle',['../d7/d9d/namespaceLuaVehicle.html',1,'']]],
-  ['luaworldobject_23',['LuaWorldObject',['../dc/da4/namespaceLuaWorldObject.html',1,'']]]
+  ['mapobject_0',['MapObject',['../d2/d6f/namespaceMapObject.html',1,'']]],
+  ['mmap_1',['MMAP',['../de/d19/namespaceMMAP.html',1,'']]],
+  ['movement_2',['Movement',['../db/db7/namespaceMovement.html',1,'']]],
+  ['mysql_3',['MySQL',['../d0/dc2/namespaceMySQL.html',1,'']]]
 ];

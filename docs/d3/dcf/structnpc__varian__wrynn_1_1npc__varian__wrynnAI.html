@@ -902,7 +902,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1096</span> </div>
 <div class="line"><span class="lineno"> 1097</span>                <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#aafeadcb50b34de9cb109f0293889aaf4">allianceGuardsGUID</a>)</div>
 <div class="line"><span class="lineno"> 1098</span>                    if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* temp = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guid))</div>
-<div class="line"><span class="lineno"> 1099</span>                        temp-&gt;<a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">DespawnOrUnsummon</a>();</div>
+<div class="line"><span class="lineno"> 1099</span>                        temp-&gt;DespawnOrUnsummon();</div>
 <div class="line"><span class="lineno"> 1100</span> </div>
 <div class="line"><span class="lineno"> 1101</span>                <a class="code hl_variable" href="../../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#aafeadcb50b34de9cb109f0293889aaf4">allianceGuardsGUID</a>.clear();</div>
 <div class="line"><span class="lineno"> 1102</span> </div>
@@ -925,7 +925,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
 <div class="ttc" id="aclassObjectGuid_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:138</div></div>
 <div class="ttc" id="aclassUnit_html_a9c5739d268705d03fc40799b7c3d3239"><div class="ttname"><a href="../../df/dd9/classUnit.html#a9c5739d268705d03fc40799b7c3d3239">Unit::SetNpcFlag</a></div><div class="ttdeci">void SetNpcFlag(NPCFlags flags)</div><div class="ttdef"><b>Definition</b> Unit.h:732</div></div>
-<div class="ttc" id="anamespaceLuaCreature_html_aa4be6bc82ff0abcadc5a36cdf1fdd705"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">LuaCreature::DespawnOrUnsummon</a></div><div class="ttdeci">int DespawnOrUnsummon(lua_State *L, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:1303</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a></div><div class="ttdef"><b>Definition</b> ObjectAccessor.h:61</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="astructnpc__varian__wrynn_1_1npc__varian__wrynnAI_html_a45677cab3e5ca17f320c4a949d4ed7f7"><div class="ttname"><a href="../../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a45677cab3e5ca17f320c4a949d4ed7f7">npc_varian_wrynn::npc_varian_wrynnAI::bStepping</a></div><div class="ttdeci">bool bStepping</div><div class="ttdef"><b>Definition</b> zone_undercity.cpp:991</div></div>
@@ -2503,7 +2502,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d2e/classnpc__varian__wrynn.html">npc_varian_wrynn</a></li><li class="navelem"><a class="el" href="../../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html">npc_varian_wrynnAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

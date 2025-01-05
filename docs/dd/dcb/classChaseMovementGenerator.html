@@ -621,7 +621,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  225</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  226</span>            {</div>
 <div class="line"><span class="lineno">  227</span>                <span class="comment">// otherwise, we fall back to nearpoint finding</span></div>
-<div class="line"><span class="lineno">  228</span>                target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a71b8159f80f25ef3913369abe7086d92">GetNearPoint</a>(owner, x, y, z, (moveToward ? maxTarget : minTarget) - chaseRange - additionalRange, 0, angle ? target-&gt;ToAbsoluteAngle(angle-&gt;RelativeAngle) : target-&gt;<a class="code hl_function" href="../../dc/da4/namespaceLuaWorldObject.html#a63820adb77bfd77c4458c37eab311e7d">GetAngle</a>(owner));</div>
+<div class="line"><span class="lineno">  228</span>                target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a71b8159f80f25ef3913369abe7086d92">GetNearPoint</a>(owner, x, y, z, (moveToward ? maxTarget : minTarget) - chaseRange - additionalRange, 0, angle ? target-&gt;ToAbsoluteAngle(angle-&gt;RelativeAngle) : target-&gt;GetAngle(owner));</div>
 <div class="line"><span class="lineno">  229</span>                shortenPath = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  230</span>            }</div>
 <div class="line"><span class="lineno">  231</span> </div>
@@ -715,7 +715,6 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:859</div></div>
 <div class="ttc" id="aclassUnit_html_af5f118a391194216cdd0ab4dcd2f48c3"><div class="ttname"><a href="../../df/dd9/classUnit.html#af5f118a391194216cdd0ab4dcd2f48c3">Unit::IsWalking</a></div><div class="ttdeci">bool IsWalking() const</div><div class="ttdef"><b>Definition</b> Unit.h:1624</div></div>
 <div class="ttc" id="aclassWorldObject_html_a71b8159f80f25ef3913369abe7086d92"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a71b8159f80f25ef3913369abe7086d92">WorldObject::GetNearPoint</a></div><div class="ttdeci">void GetNearPoint(WorldObject const *searcher, float &amp;x, float &amp;y, float &amp;z, float searcher_size, float distance2d, float absAngle, float controlZ=0, Position const *startPos=nullptr) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2639</div></div>
-<div class="ttc" id="anamespaceLuaWorldObject_html_a63820adb77bfd77c4458c37eab311e7d"><div class="ttname"><a href="../../dc/da4/namespaceLuaWorldObject.html#a63820adb77bfd77c4458c37eab311e7d">LuaWorldObject::GetAngle</a></div><div class="ttdeci">int GetAngle(lua_State *L, WorldObject *obj)</div><div class="ttdef"><b>Definition</b> WorldObjectMethods.h:658</div></div>
 <div class="ttc" id="astructCreatureMovementData_html_aa9e0267e4c73ec837653113394841fcf"><div class="ttname"><a href="../../d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf">CreatureMovementData::GetChase</a></div><div class="ttdeci">CreatureChaseMovementType GetChase() const</div><div class="ttdef"><b>Definition</b> CreatureData.h:150</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:121</div></div>
 <div class="ttc" id="astructTimeTrackerSmall_html_a6c10a37051caf7c16f1aa057bf2bf7da"><div class="ttname"><a href="../../d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da">TimeTrackerSmall::Update</a></div><div class="ttdeci">void Update(int32 diff)</div><div class="ttdef"><b>Definition</b> Timer.h:239</div></div>
@@ -1204,7 +1203,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dcb/classChaseMovementGenerator.html">ChaseMovementGenerator</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

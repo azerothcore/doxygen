@@ -830,17 +830,17 @@ Additional Inherited Members</h2></td></tr>
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  310</span>    {</div>
 <div class="line"><span class="lineno">  311</span>        <span class="comment">// In Retail they seem to me like they should move in formations of 3 to set points, this is simpler for now</span></div>
-<div class="line"><span class="lineno">  312</span>        <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">ScriptedAI::JustSummoned</a>(summon);</div>
+<div class="line"><span class="lineno">  312</span>        <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a1625d27c60b9833cc9bdebffb80833cb">ScriptedAI::JustSummoned</a>(summon);</div>
 <div class="line"><span class="lineno">  313</span>        <span class="keywordtype">float</span> x, y, z;</div>
 <div class="line"><span class="lineno">  314</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a71b8159f80f25ef3913369abe7086d92">GetNearPoint</a>(summon, x, y, z, 25.f, 0, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#aee80751b631ac7287aafe8f6df5891b4">GetAngle</a>(summon));</div>
 <div class="line"><span class="lineno">  315</span>        summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  316</span>        summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(<a class="code hl_enumvalue" href="../../d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6c1e6b5787916970155d69a771a3a5a">POINT_OUTRO</a>, x, y, z);</div>
 <div class="line"><span class="lineno">  317</span>    }</div>
-<div class="ttc" id="aclassCreatureAI_html_a3a55253d96d72f1df305b2ccfa7284ca"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI::JustSummoned</a></div><div class="ttdeci">virtual void JustSummoned(Creature *)</div><div class="ttdef"><b>Definition</b> CreatureAI.h:134</div></div>
 <div class="ttc" id="aclassWorldObject_html_a71b8159f80f25ef3913369abe7086d92"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a71b8159f80f25ef3913369abe7086d92">WorldObject::GetNearPoint</a></div><div class="ttdeci">void GetNearPoint(WorldObject const *searcher, float &amp;x, float &amp;y, float &amp;z, float searcher_size, float distance2d, float absAngle, float controlZ=0, Position const *startPos=nullptr) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2639</div></div>
 <div class="ttc" id="astructPosition_html_aee80751b631ac7287aafe8f6df5891b4"><div class="ttname"><a href="../../d0/df4/structPosition.html#aee80751b631ac7287aafe8f6df5891b4">Position::GetAngle</a></div><div class="ttdeci">float GetAngle(const Position *pos) const</div><div class="ttdef"><b>Definition</b> Position.cpp:78</div></div>
+<div class="ttc" id="astructScriptedAI_html_a1625d27c60b9833cc9bdebffb80833cb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a1625d27c60b9833cc9bdebffb80833cb">ScriptedAI::JustSummoned</a></div><div class="ttdeci">void JustSummoned(Creature *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:213</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">Position::GetAngle()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02639">WorldObject::GetNearPoint()</a>, <a class="el" href="../../#l00134">CreatureAI::JustSummoned()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00078">POINT_OUTRO</a>, and <a class="el" href="../../#l03191">Creature::SetWalk()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">Position::GetAngle()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02639">WorldObject::GetNearPoint()</a>, <a class="el" href="../../#l00213">ScriptedAI::JustSummoned()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00078">POINT_OUTRO</a>, and <a class="el" href="../../#l03191">Creature::SetWalk()</a>.</p>
 
 </div>
 </div>
@@ -1192,7 +1192,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/db8/structnpc__akama__shade.html">npc_akama_shade</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

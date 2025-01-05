@@ -1346,7 +1346,7 @@ false The command was unsuccessful (show error or syntax) </dd></dl>
 <div class="line"><span class="lineno">  354</span> </div>
 <div class="line"><span class="lineno">  355</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
 <div class="line"><span class="lineno">  356</span> </div>
-<div class="line"><span class="lineno">  357</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId = locationValues.size() &gt;= 4 ? <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(locationValues[3]) : player-&gt;<a class="code hl_function" href="../../de/d3f/namespaceLuaBattleGround.html#adba043ecabad862e21df58e452420610">GetMapId</a>();</div>
+<div class="line"><span class="lineno">  357</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId = locationValues.size() &gt;= 4 ? <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(locationValues[3]) : player-&gt;GetMapId();</div>
 <div class="line"><span class="lineno">  358</span> </div>
 <div class="line"><span class="lineno">  359</span>        <span class="keywordtype">float</span> x = locationValues[0];</div>
 <div class="line"><span class="lineno">  360</span>        <span class="keywordtype">float</span> y = locationValues[1];</div>
@@ -1373,7 +1373,6 @@ false The command was unsuccessful (show error or syntax) </dd></dl>
 <div class="line"><span class="lineno">  381</span>    }</div>
 <div class="ttc" id="aDBCStores_8cpp_html_acbe166cef01fbaa320231e8ef42b25c6"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a></div><div class="ttdeci">DBCStorage&lt; MapEntry &gt; sMapStore(MapEntryfmt)</div></div>
 <div class="ttc" id="aUtil_8cpp_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../d9/da5/Util_8cpp.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition</b> Util.cpp:281</div></div>
-<div class="ttc" id="anamespaceLuaBattleGround_html_adba043ecabad862e21df58e452420610"><div class="ttname"><a href="../../de/d3f/namespaceLuaBattleGround.html#adba043ecabad862e21df58e452420610">LuaBattleGround::GetMapId</a></div><div class="ttdeci">int GetMapId(lua_State *L, BattleGround *bg)</div><div class="ttdef"><b>Definition</b> BattleGroundMethods.h:133</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00070">DoTeleport()</a>, <a class="el" href="../../#l02043">Map::GetHeight()</a>, <a class="el" href="../../#l00275">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00119">Position::GetOrientation()</a>, <a class="el" href="../../#l00376">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l02433">Map::GetWaterLevel()</a>, <a class="el" href="../../#l00089">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l00308">LANG_INVALID_TARGET_COORD</a>, <a class="el" href="../../#l00162">MAX_HEIGHT</a>, <a class="el" href="../../#l00215">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l00219">sMapMgr</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
 
@@ -1505,7 +1504,7 @@ false The command was unsuccessful (show error or syntax) </dd></dl>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d4d/classgo__commandscript.html">go_commandscript</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

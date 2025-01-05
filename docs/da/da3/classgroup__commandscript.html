@@ -564,7 +564,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  218</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  219</span>        }</div>
 <div class="line"><span class="lineno">  220</span> </div>
-<div class="line"><span class="lineno">  221</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad9a6710bfe44b7daecd91de99cfabf73">LANG_GROUP_TYPE</a>, (groupTarget-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#af451cbb50edfecf4ba130bac6cf8fa61">isRaidGroup</a>() ? <span class="stringliteral">&quot;Raid&quot;</span> : <span class="stringliteral">&quot;Party&quot;</span>), groupTarget-&gt;<a class="code hl_function" href="../../d0/da6/namespaceLuaGroup.html#ae569487ad5d7e721779c909ad236c6d6">GetMembersCount</a>());</div>
+<div class="line"><span class="lineno">  221</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad9a6710bfe44b7daecd91de99cfabf73">LANG_GROUP_TYPE</a>, (groupTarget-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#af451cbb50edfecf4ba130bac6cf8fa61">isRaidGroup</a>() ? <span class="stringliteral">&quot;Raid&quot;</span> : <span class="stringliteral">&quot;Party&quot;</span>), groupTarget-&gt;GetMembersCount());</div>
 <div class="line"><span class="lineno">  222</span> </div>
 <div class="line"><span class="lineno">  223</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; slot : groupTarget-&gt;GetMemberSlots())</div>
 <div class="line"><span class="lineno">  224</span>        {</div>
@@ -611,7 +611,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aGroup_8h_html_a7199c0fc3344f944250290234c6110bdab4244bc75cc8b303dab133abe583dd7b"><div class="ttname"><a href="../../de/d3d/Group_8h.html#a7199c0fc3344f944250290234c6110bdab4244bc75cc8b303dab133abe583dd7b">MEMBER_FLAG_MAINTANK</a></div><div class="ttdeci">@ MEMBER_FLAG_MAINTANK</div><div class="ttdef"><b>Definition</b> Group.h:74</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aad9a6710bfe44b7daecd91de99cfabf73"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad9a6710bfe44b7daecd91de99cfabf73">LANG_GROUP_TYPE</a></div><div class="ttdeci">@ LANG_GROUP_TYPE</div><div class="ttdef"><b>Definition</b> Language.h:938</div></div>
 <div class="ttc" id="aclassGroup_html_af451cbb50edfecf4ba130bac6cf8fa61"><div class="ttname"><a href="../../d0/db7/classGroup.html#af451cbb50edfecf4ba130bac6cf8fa61">Group::isRaidGroup</a></div><div class="ttdeci">bool isRaidGroup() const</div><div class="ttdef"><b>Definition</b> Group.cpp:2267</div></div>
-<div class="ttc" id="anamespaceLuaGroup_html_ae569487ad5d7e721779c909ad236c6d6"><div class="ttname"><a href="../../d0/da6/namespaceLuaGroup.html#ae569487ad5d7e721779c909ad236c6d6">LuaGroup::GetMembersCount</a></div><div class="ttdeci">int GetMembersCount(lua_State *L, Group *group)</div><div class="ttdef"><b>Definition</b> GroupMethods.h:258</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00037">flags</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l00245">Group::GetMembersCount()</a>, <a class="el" href="../../#l00242">Group::GetMemberSlots()</a>, <a class="el" href="../../#l02267">Group::isRaidGroup()</a>, <a class="el" href="../../#l00936">LANG_GROUP_NOT_IN_GROUP</a>, <a class="el" href="../../#l00938">LANG_GROUP_TYPE</a>, <a class="el" href="../../#l00073">MEMBER_FLAG_ASSISTANT</a>, <a class="el" href="../../#l00075">MEMBER_FLAG_MAINASSIST</a>, <a class="el" href="../../#l00074">MEMBER_FLAG_MAINTANK</a>, <a class="el" href="../../#l00210">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGroupMgr</a>.</p>
 
@@ -694,7 +693,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/da3/classgroup__commandscript.html">group_commandscript</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

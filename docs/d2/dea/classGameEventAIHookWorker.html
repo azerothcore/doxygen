@@ -200,10 +200,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1790</span>    {</div>
 <div class="line"><span class="lineno"> 1791</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; p : creatureMap)</div>
-<div class="line"><span class="lineno"> 1792</span>            if (p.second-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#ac5b94118f967cb19c65b15b8be84b65d">IsInWorld</a>() &amp;&amp; !p.second-&gt;IsDuringRemoveFromWorld() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;IsAIEnabled &amp;&amp; p.second-&gt;AI())</div>
+<div class="line"><span class="lineno"> 1792</span>            if (p.second-&gt;IsInWorld() &amp;&amp; !p.second-&gt;IsDuringRemoveFromWorld() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;IsAIEnabled &amp;&amp; p.second-&gt;AI())</div>
 <div class="line"><span class="lineno"> 1793</span>                p.second-&gt;AI()-&gt;sOnGameEvent(<a class="code hl_variable" href="../../d2/dea/classGameEventAIHookWorker.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a>, <a class="code hl_variable" href="../../d2/dea/classGameEventAIHookWorker.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a>);</div>
 <div class="line"><span class="lineno"> 1794</span>    }</div>
-<div class="ttc" id="anamespaceLuaObject_html_ac5b94118f967cb19c65b15b8be84b65d"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#ac5b94118f967cb19c65b15b8be84b65d">LuaObject::IsInWorld</a></div><div class="ttdeci">int IsInWorld(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:48</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01808">_activate</a>, and <a class="el" href="../../#l01807">_eventId</a>.</p>
 
@@ -234,7 +233,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1797</span>    {</div>
 <div class="line"><span class="lineno"> 1798</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; p : gameObjectMap)</div>
-<div class="line"><span class="lineno"> 1799</span>            if (p.second-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#ac5b94118f967cb19c65b15b8be84b65d">IsInWorld</a>() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;AI())</div>
+<div class="line"><span class="lineno"> 1799</span>            if (p.second-&gt;IsInWorld() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;AI())</div>
 <div class="line"><span class="lineno"> 1800</span>                p.second-&gt;AI()-&gt;OnGameEvent(<a class="code hl_variable" href="../../d2/dea/classGameEventAIHookWorker.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a>, <a class="code hl_variable" href="../../d2/dea/classGameEventAIHookWorker.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a>);</div>
 <div class="line"><span class="lineno"> 1801</span>    }</div>
 </div><!-- fragment -->
@@ -329,7 +328,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/dea/classGameEventAIHookWorker.html">GameEventAIHookWorker</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

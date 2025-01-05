@@ -337,14 +337,13 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 2225</span>    {</div>
-<div class="line"><span class="lineno"> 2226</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">HasAura</a>(aurEff-&gt;GetSpellInfo()-&gt;GetEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>).CalcValue()))</div>
+<div class="line"><span class="lineno"> 2226</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;HasAura(aurEff-&gt;GetSpellInfo()-&gt;GetEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>).CalcValue()))</div>
 <div class="line"><span class="lineno"> 2227</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f">GetAura</a>()-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20">Remove</a>();</div>
 <div class="line"><span class="lineno"> 2228</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraScript_html_a99cbee6d75732fbd9aa54d2d9679986f"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f">AuraScript::GetAura</a></div><div class="ttdeci">Aura * GetAura() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1045</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassAura_html_af9799e5670c2bc3899e3430aa793ca20"><div class="ttname"><a href="../../db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20">Aura::Remove</a></div><div class="ttdeci">virtual void Remove(AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)=0</div></div>
-<div class="ttc" id="anamespaceLuaUnit_html_ada882d7e69c8327964c8f5632cc2adf3"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">LuaUnit::HasAura</a></div><div class="ttdeci">int HasAura(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:504</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00409">SpellEffectInfo::CalcValue()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01045">AuraScript::GetAura()</a>, <a class="el" href="../../#l00528">SpellInfo::GetEffect()</a>, <a class="el" href="../../#l00054">AuraEffect::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20">Aura::Remove()</a>.</p>
 
@@ -376,7 +375,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 2231</span>    {</div>
-<div class="line"><span class="lineno"> 2232</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">HasAura</a>(aurEff-&gt;GetSpellInfo()-&gt;GetEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>).CalcValue()))</div>
+<div class="line"><span class="lineno"> 2232</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;HasAura(aurEff-&gt;GetSpellInfo()-&gt;GetEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>).CalcValue()))</div>
 <div class="line"><span class="lineno"> 2233</span>        {</div>
 <div class="line"><span class="lineno"> 2234</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
 <div class="line"><span class="lineno"> 2235</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f">GetAura</a>()-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20">Remove</a>();</div>
@@ -502,7 +501,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/db7/classspell__dragonblight__corrosive__spit.html">spell_dragonblight_corrosive_spit</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

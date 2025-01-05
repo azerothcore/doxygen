@@ -18,6 +18,5 @@ var searchData=
   ['hook_5fspell_5fhit_5fend_15',['HOOK_SPELL_HIT_END',['../dc/db2/SpellScript_8h.html#a9bb1763d44f533712264a39e14b1b11a',1,'SpellScript.h']]],
   ['hook_5fspell_5fhit_5fstart_16',['HOOK_SPELL_HIT_START',['../dc/db2/SpellScript_8h.html#a74c28613619bc48006209c76f168f833',1,'SpellScript.h']]],
   ['hook_5fspell_5fstart_17',['HOOK_SPELL_START',['../dc/db2/SpellScript_8h.html#aa9ce4c0ac71f3efe6030048f5f3ed594',1,'SpellScript.h']]],
-  ['hvalue_18',['hvalue',['../d2/d51/lobject_8h.html#a336a6ce5e8340e6de133ec249cf47ebf',1,'lobject.h']]],
-  ['hyjalscriptname_19',['HyjalScriptName',['../d0/dff/hyjal_8h.html#a63d881c8bbe156c386fd5bc4e9a48e83',1,'hyjal.h']]]
+  ['hyjalscriptname_18',['HyjalScriptName',['../d0/dff/hyjal_8h.html#a63d881c8bbe156c386fd5bc4e9a48e83',1,'hyjal.h']]]
 ];

@@ -314,8 +314,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d6/de8/namespaceLuaAura.html#a7c5d78e7f9ab8cb7510646f1471156b3">GetOwner</a>())</div>
-<div class="line"><span class="lineno">  101</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../dc/da4/namespaceLuaWorldObject.html#aaad28b8741777733381c1b58d0665742">IsWithinDist</a>(owner, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;GetMaxRange(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;IsPositive())))</div>
+<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetOwner())</div>
+<div class="line"><span class="lineno">  101</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsWithinDist(owner, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;GetMaxRange(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;IsPositive())))</div>
 <div class="line"><span class="lineno">  102</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
 <div class="line"><span class="lineno">  103</span> </div>
 <div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa6845123487453490658f1b1f746ef8c5">SPELL_FAILED_OUT_OF_RANGE</a>;</div>
@@ -325,8 +325,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
-<div class="ttc" id="anamespaceLuaAura_html_a7c5d78e7f9ab8cb7510646f1471156b3"><div class="ttname"><a href="../../d6/de8/namespaceLuaAura.html#a7c5d78e7f9ab8cb7510646f1471156b3">LuaAura::GetOwner</a></div><div class="ttdeci">int GetOwner(lua_State *L, Aura *aura)</div><div class="ttdef"><b>Definition</b> AuraMethods.h:123</div></div>
-<div class="ttc" id="anamespaceLuaWorldObject_html_aaad28b8741777733381c1b58d0665742"><div class="ttname"><a href="../../dc/da4/namespaceLuaWorldObject.html#aaad28b8741777733381c1b58d0665742">LuaWorldObject::IsWithinDist</a></div><div class="ttdeci">int IsWithinDist(lua_State *L, WorldObject *obj)</div><div class="ttdef"><b>Definition</b> WorldObjectMethods.h:1013</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, and <a class="el" href="../../#l01046">SPELL_FAILED_OUT_OF_RANGE</a>.</p>
 
@@ -404,7 +402,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dd7/classspell__sha__spirit__walk.html">spell_sha_spirit_walk</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:32:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

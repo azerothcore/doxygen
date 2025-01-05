@@ -199,7 +199,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1097</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1098</span> </div>
 <div class="line"><span class="lineno"> 1099</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)                               <span class="comment">// not have expected aura</span></div>
-<div class="line"><span class="lineno"> 1100</span>        <span class="keywordflow">if</span> (!player || (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a> &gt; 0 &amp;&amp; !player-&gt;HasAura(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)) || (auraSpell &lt; 0 &amp;&amp; player-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">HasAura</a>(-<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)))</div>
+<div class="line"><span class="lineno"> 1100</span>        <span class="keywordflow">if</span> (!player || (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a> &gt; 0 &amp;&amp; !player-&gt;HasAura(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)) || (auraSpell &lt; 0 &amp;&amp; player-&gt;HasAura(-<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)))</div>
 <div class="line"><span class="lineno"> 1101</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1102</span> </div>
 <div class="line"><span class="lineno"> 1103</span>    <span class="comment">// Extra conditions -- leaving the possibility add extra conditions...</span></div>
@@ -350,7 +350,6 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aclassInstanceScript_html"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html">InstanceScript</a></div><div class="ttdef"><b>Definition</b> InstanceScript.h:142</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:443</div></div>
-<div class="ttc" id="anamespaceLuaUnit_html_ada882d7e69c8327964c8f5632cc2adf3"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">LuaUnit::HasAura</a></div><div class="ttdeci">int HasAura(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:504</div></div>
 <div class="ttc" id="astructAreaTableEntry_html"><div class="ttname"><a href="../../de/df5/structAreaTableEntry.html">AreaTableEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:518</div></div>
 <div class="ttc" id="astructAreaTableEntry_html_a5854e3f565d827dbad3d9a36f99e9a25"><div class="ttname"><a href="../../de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25">AreaTableEntry::flags</a></div><div class="ttdeci">uint32 flags</div><div class="ttdef"><b>Definition</b> DBCStructure.h:523</div></div>
 <div class="ttc" id="astructSpellArea_html_a075cc2bc4d8c9663b2bdb2cf8ba77f5f"><div class="ttname"><a href="../../d5/d27/structSpellArea.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f">SpellArea::questEnd</a></div><div class="ttdeci">uint32 questEnd</div><div class="ttdef"><b>Definition</b> SpellMgr.h:531</div></div>
@@ -536,7 +535,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d27/structSpellArea.html">SpellArea</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:32:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

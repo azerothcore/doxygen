@@ -684,13 +684,13 @@ Additional Inherited Members</h2></td></tr>
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  282</span>    {</div>
 <div class="line"><span class="lineno">  283</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/dfa/structboss__nightbane.html#ae15a984403ef5ef27b58400dbc92777d">_phase</a> == <a class="code hl_enumvalue" href="../../d8/d82/boss__nightbane_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ac254831385f10a22ed7b3cc98e8ac925">PHASE_GROUND</a>)</div>
-<div class="line"><span class="lineno">  284</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">ScriptedAI::AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  284</span>            <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a>(who);</div>
 <div class="line"><span class="lineno">  285</span>    }</div>
 <div class="ttc" id="aboss__nightbane_8cpp_html_a5d32d09cde4f13ec4fb05a824d3e3219ac254831385f10a22ed7b3cc98e8ac925"><div class="ttname"><a href="../../d8/d82/boss__nightbane_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ac254831385f10a22ed7b3cc98e8ac925">PHASE_GROUND</a></div><div class="ttdeci">@ PHASE_GROUND</div><div class="ttdef"><b>Definition</b> boss_nightbane.cpp:63</div></div>
-<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
+<div class="ttc" id="astructScriptedAI_html_a4c91d8d2c1a6e8b234c1c4f15936c7a4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:210</div></div>
 <div class="ttc" id="astructboss__nightbane_html_ae15a984403ef5ef27b58400dbc92777d"><div class="ttname"><a href="../../dd/dfa/structboss__nightbane.html#ae15a984403ef5ef27b58400dbc92777d">boss_nightbane::_phase</a></div><div class="ttdeci">uint8 _phase</div><div class="ttdef"><b>Definition</b> boss_nightbane.cpp:488</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00488">_phase</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, and <a class="el" href="../../#l00063">PHASE_GROUND</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00488">_phase</a>, <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, and <a class="el" href="../../#l00063">PHASE_GROUND</a>.</p>
 
 </div>
 </div>
@@ -1046,6 +1046,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:511</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:140</div></div>
 <div class="ttc" id="aclassSummonList_html_a4b10347a4407bb6351230423019d9786"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a4b10347a4407bb6351230423019d9786">SummonList::Summon</a></div><div class="ttdeci">void Summon(Creature const *summon)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:88</div></div>
+<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:859</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00140">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l00511">BossAI::summons</a>.</p>
@@ -1851,7 +1852,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dfa/structboss__nightbane.html">boss_nightbane</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

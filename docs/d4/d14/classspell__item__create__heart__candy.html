@@ -316,7 +316,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  350</span>    {</div>
 <div class="line"><span class="lineno">  351</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno">  352</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  352</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;ToPlayer())</div>
 <div class="line"><span class="lineno">  353</span>        {</div>
 <div class="line"><span class="lineno">  354</span>            target-&gt;CastSpell(target, <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(<a class="code hl_variable" href="../../db/d67/love__in__air_8cpp.html#ae74e22b074ebca89f423a6a7f5b22572">CreateHeartCandySpells</a>), <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  355</span>        }</div>
@@ -327,7 +327,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="alove__in__air_8cpp_html_ae74e22b074ebca89f423a6a7f5b22572"><div class="ttname"><a href="../../db/d67/love__in__air_8cpp.html#ae74e22b074ebca89f423a6a7f5b22572">CreateHeartCandySpells</a></div><div class="ttdeci">std::array&lt; uint32, 8 &gt; constexpr CreateHeartCandySpells</div><div class="ttdef"><b>Definition</b> love_in_air.cpp:332</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a8ca673d18562735d4ed20a11519b3d46"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a></div><div class="ttdeci">auto SelectRandomContainerElement(C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</div><div class="ttdef"><b>Definition</b> Containers.h:133</div></div>
-<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00332">CreateHeartCandySpells</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, and <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>.</p>
 
@@ -441,7 +440,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d14/classspell__item__create__heart__candy.html">spell_item_create_heart_candy</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -20,6 +20,5 @@ var searchData=
   ['dungeonprogressionrequirementscontainer_17',['DungeonProgressionRequirementsContainer',['../d5/dfb/classObjectMgr.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
   ['duration_5ft_18',['duration_t',['../df/ddc/classTaskScheduler.html#a9c6be5fc079684953f911548fb66cb21',1,'TaskScheduler']]],
   ['dynamicobjectmaptype_19',['DynamicObjectMapType',['../d7/d34/GridDefines_8h.html#a5957bb381cc7067b3da243bb5999e870',1,'GridDefines.h']]],
-  ['dyndata_20',['Dyndata',['../d7/d09/lparser_8h.html#aecb808d1d218e15537c9ff5b72bfd1e5',1,'lparser.h']]],
-  ['dynobjectlist_21',['DynObjectList',['../df/dd9/classUnit.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
+  ['dynobjectlist_20',['DynObjectList',['../df/dd9/classUnit.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
 ];

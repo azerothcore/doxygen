@@ -56,6 +56,5 @@ var searchData=
   ['frostwinggauntletrespawner_53',['FrostwingGauntletRespawner',['../d9/d9c/classFrostwingGauntletRespawner.html',1,'']]],
   ['frostwingvrykulsearcher_54',['FrostwingVrykulSearcher',['../d2/dab/classFrostwingVrykulSearcher.html',1,'']]],
   ['frostwyrmlandevent_55',['FrostwyrmLandEvent',['../d9/de7/classFrostwyrmLandEvent.html',1,'']]],
-  ['frozenthroneresetworker_56',['FrozenThroneResetWorker',['../d7/def/classFrozenThroneResetWorker.html',1,'']]],
-  ['funcstate_57',['FuncState',['../da/db2/structFuncState.html',1,'']]]
+  ['frozenthroneresetworker_56',['FrozenThroneResetWorker',['../d7/def/classFrozenThroneResetWorker.html',1,'']]]
 ];

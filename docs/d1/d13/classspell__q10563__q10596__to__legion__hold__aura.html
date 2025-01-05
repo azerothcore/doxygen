@@ -337,7 +337,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  111</span>    {</div>
-<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
 <div class="line"><span class="lineno">  113</span>        {</div>
 <div class="line"><span class="lineno">  114</span>            player-&gt;SetControlled(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a>);</div>
 <div class="line"><span class="lineno">  115</span>            player-&gt;SummonCreature(21633, -3311.13f, 2946.15f, 171.1f, 4.86f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, 64000);</div>
@@ -347,7 +347,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a></div><div class="ttdeci">@ UNIT_STATE_STUNNED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:173</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
-<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00048">TEMPSUMMON_TIMED_DESPAWN</a>, and <a class="el" href="../../#l00173">UNIT_STATE_STUNNED</a>.</p>
 
@@ -389,7 +388,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
 <div class="line"><span class="lineno">  104</span>        {</div>
 <div class="line"><span class="lineno">  105</span>            player-&gt;KilledMonsterCredit(21502);</div>
 <div class="line"><span class="lineno">  106</span>            player-&gt;SetControlled(<span class="keyword">false</span>, <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a>);</div>
@@ -479,7 +478,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d13/classspell__q10563__q10596__to__legion__hold__aura.html">spell_q10563_q10596_to_legion_hold_aura</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:32:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

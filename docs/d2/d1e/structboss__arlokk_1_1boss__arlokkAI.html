@@ -659,11 +659,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  163</span>            std::list&lt;Creature*&gt; panthers;</div>
 <div class="line"><span class="lineno">  164</span>            <a class="code hl_function" href="../../dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d">GetCreatureListWithEntryInGrid</a>(panthers, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b">NPC_ZULIAN_PROWLER</a>, 200.f);</div>
 <div class="line"><span class="lineno">  165</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; panther : panthers)</div>
-<div class="line"><span class="lineno">  166</span>                panther-&gt;<a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">DespawnOrUnsummon</a>();</div>
+<div class="line"><span class="lineno">  166</span>                panther-&gt;DespawnOrUnsummon();</div>
 <div class="line"><span class="lineno">  167</span>        }</div>
 <div class="ttc" id="aScriptedCreature_8cpp_html_ab6a8246d473139627106be4651f6329d"><div class="ttname"><a href="../../dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d">GetCreatureListWithEntryInGrid</a></div><div class="ttdeci">void GetCreatureListWithEntryInGrid(std::list&lt; Creature * &gt; &amp;list, WorldObject *source, uint32 entry, float maxSearchRange)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:860</div></div>
 <div class="ttc" id="aclassBossAI_html_adf2e07878232fcb60ace6a79438c63f5"><div class="ttname"><a href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:498</div></div>
-<div class="ttc" id="anamespaceLuaCreature_html_aa4be6bc82ff0abcadc5a36cdf1fdd705"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#aa4be6bc82ff0abcadc5a36cdf1fdd705">LuaCreature::DespawnOrUnsummon</a></div><div class="ttdeci">int DespawnOrUnsummon(lua_State *L, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:1303</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="azulgurub_8h_html_a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b"><div class="ttname"><a href="../../dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b">NPC_ZULIAN_PROWLER</a></div><div class="ttdeci">@ NPC_ZULIAN_PROWLER</div><div class="ttdef"><b>Definition</b> zulgurub.h:51</div></div>
 </div><!-- fragment -->
@@ -1225,7 +1224,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dd8/classboss__arlokk.html">boss_arlokk</a></li><li class="navelem"><a class="el" href="../../d2/d1e/structboss__arlokk_1_1boss__arlokkAI.html">boss_arlokkAI</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

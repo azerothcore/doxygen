@@ -315,7 +315,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1070</span>    {</div>
-<div class="line"><span class="lineno"> 1071</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d6/d8f/namespaceLuaPlayer.html#a4501a590288db518a552addb3b6deea1">GetGroup</a>())</div>
+<div class="line"><span class="lineno"> 1071</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer()-&gt;GetGroup())</div>
 <div class="line"><span class="lineno"> 1072</span>        {</div>
 <div class="line"><span class="lineno"> 1073</span>            targets.clear();</div>
 <div class="line"><span class="lineno"> 1074</span>            targets.push_back(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>());</div>
@@ -351,8 +351,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_a34c3118760e4a30dd144a34fa9f7019f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a34c3118760e4a30dd144a34fa9f7019f">SpellScript::FinishCast</a></div><div class="ttdeci">void FinishCast(SpellCastResult result)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:635</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../df/dd9/classUnit.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:18820</div></div>
-<div class="ttc" id="anamespaceLuaObject_html_a468e1269b305e2a0c28c84bb5b8bd374"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a468e1269b305e2a0c28c84bb5b8bd374">LuaObject::ToPlayer</a></div><div class="ttdeci">int ToPlayer(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:471</div></div>
-<div class="ttc" id="anamespaceLuaPlayer_html_a4501a590288db518a552addb3b6deea1"><div class="ttname"><a href="../../d6/d8f/namespaceLuaPlayer.html#a4501a590288db518a552addb3b6deea1">LuaPlayer::GetGroup</a></div><div class="ttdeci">int GetGroup(lua_State *L, Player *player)</div><div class="ttdef"><b>Definition</b> PlayerMethods.h:1747</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00635">SpellScript::FinishCast()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l18820">Unit::IsInRaidWith()</a>, <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>, <a class="el" href="../../#l00976">SPELL_FAILED_DONT_REPORT</a>, <a class="el" href="../../#l03535">SPELLFAMILY_DRUID</a>, <a class="el" href="../../#l00050">TYPEMASK_PLAYER</a>, and <a class="el" href="../../#l00049">TYPEMASK_UNIT</a>.</p>
 
@@ -464,7 +462,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/da1/classspell__dru__t10__restoration__4p__bonus.html">spell_dru_t10_restoration_4p_bonus</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -861,7 +861,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  259</span>        <span class="keywordflow">if</span> (hatchAction == <a class="code hl_enumvalue" href="../../d9/df1/boss__janalai_8cpp.html#a061bbdeafe4381030cccbc295b3074caac37de3886ae637f1c1cb84e144a022f3">HATCH_RESET</a>)</div>
 <div class="line"><span class="lineno">  260</span>        {</div>
 <div class="line"><span class="lineno">  261</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* egg : eggList)</div>
-<div class="line"><span class="lineno">  262</span>                egg-&gt;<a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#a1a7ed297113603cca898bf10bdc1d90c">Respawn</a>();</div>
+<div class="line"><span class="lineno">  262</span>                egg-&gt;Respawn();</div>
 <div class="line"><span class="lineno">  263</span> </div>
 <div class="line"><span class="lineno">  264</span>            <a class="code hl_variable" href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>.<a class="code hl_function" href="../../d6/df5/classSummonList.html#a4364fa04f8e65b19c721a704acfed26b">DespawnEntry</a>(<a class="code hl_enumvalue" href="../../d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046">NPC_AMANI_HATCHLING</a>);</div>
 <div class="line"><span class="lineno">  265</span>        }</div>
@@ -877,7 +877,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__janalai_8cpp_html_a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5"><div class="ttname"><a href="../../d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5">SPELL_HATCH_EGG_ALL</a></div><div class="ttdeci">@ SPELL_HATCH_EGG_ALL</div><div class="ttdef"><b>Definition</b> boss_janalai.cpp:60</div></div>
 <div class="ttc" id="aclassSummonList_html_a4364fa04f8e65b19c721a704acfed26b"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a4364fa04f8e65b19c721a704acfed26b">SummonList::DespawnEntry</a></div><div class="ttdeci">void DespawnEntry(uint32 entry)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:54</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa95da5ea65fa0d7f7cd74c11b70b1ed2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">WorldObject::GetCreaturesWithEntryInRange</a></div><div class="ttdeci">void GetCreaturesWithEntryInRange(std::list&lt; Creature * &gt; &amp;creatureList, float radius, uint32 entry)</div><div class="ttdef"><b>Definition</b> Object.cpp:3099</div></div>
-<div class="ttc" id="anamespaceLuaCreature_html_a1a7ed297113603cca898bf10bdc1d90c"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#a1a7ed297113603cca898bf10bdc1d90c">LuaCreature::Respawn</a></div><div class="ttdeci">int Respawn(lua_State *, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:1320</div></div>
 <div class="ttc" id="azulaman_8h_html_a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046"><div class="ttname"><a href="../../d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046">NPC_AMANI_HATCHLING</a></div><div class="ttdeci">@ NPC_AMANI_HATCHLING</div><div class="ttdef"><b>Definition</b> zulaman.h:62</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00054">SummonList::DespawnEntry()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l03099">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00109">HATCH_ALL</a>, <a class="el" href="../../#l00108">HATCH_RESET</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00062">NPC_AMANI_HATCHLING</a>, <a class="el" href="../../#l00071">NPC_EGG</a>, <a class="el" href="../../#l00060">SPELL_HATCH_EGG_ALL</a>, and <a class="el" href="../../#l00511">BossAI::summons</a>.</p>
@@ -1431,7 +1430,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/dda/structboss__janalai.html">boss_janalai</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:18:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -29,7 +29,7 @@ var searchData=
   ['arenalogentrydatamap_26',['ArenaLogEntryDataMap',['../df/da7/classBattleground.html#ad6b17a34e7a55f82b824f60b7ec249c6',1,'Battleground']]],
   ['arenateamcontainer_27',['ArenaTeamContainer',['../d3/da8/classArenaTeamMgr.html#ac76e895599b64e0824e923faf9c08560',1,'ArenaTeamMgr']]],
   ['argstype_28',['ArgsType',['../dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658',1,'GenericSpellAndAuraScriptLoader']]],
-  ['argument_5ftype_29',['argument_type',['../d2/d10/structstd_1_1hash_3_01UniqueObjectKey_3_01T_01_4_01_4.html#a0dbf5e2ebc7d2af3f94d7500184d9304',1,'std::hash&lt; UniqueObjectKey&lt; T &gt; &gt;::argument_type'],['../dc/dd1/structstd_1_1hash_3_01EntryKey_3_01T_01_4_01_4.html#aea001c04e80a1d3b5bfc54defd0565b7',1,'std::hash&lt; EntryKey&lt; T &gt; &gt;::argument_type'],['../d0/dad/structstd_1_1hash_3_01EventKey_3_01T_01_4_01_4.html#a023f350fe2d2c993c4c5f7ed28c214cc',1,'std::hash&lt; EventKey&lt; T &gt; &gt;::argument_type'],['../d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693',1,'Acore::unary_function::argument_type']]],
+  ['argument_5ftype_29',['argument_type',['../d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693',1,'Acore::unary_function']]],
   ['asyncholder_30',['AsyncHolder',['../df/ddc/classTaskScheduler.html#acdbf8f3c6c8515347b4fd2ad48d3f822',1,'TaskScheduler']]],
   ['attackerset_31',['AttackerSet',['../df/dd9/classUnit.html#a82fb2d4bc61ba6e8ef2c4169003a7d65',1,'Unit']]],
   ['auctionentrymap_32',['AuctionEntryMap',['../db/d5a/classAuctionHouseObject.html#ab05cddc8805f4f6745a620aaf78490e6',1,'AuctionHouseObject']]],

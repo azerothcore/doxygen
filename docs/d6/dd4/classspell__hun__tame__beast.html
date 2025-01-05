@@ -326,7 +326,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  961</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
 <div class="line"><span class="lineno">  962</span>        }</div>
 <div class="line"><span class="lineno">  963</span> </div>
-<div class="line"><span class="lineno">  964</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;<a class="code hl_function" href="../../d3/de2/namespaceLuaObject.html#a96cb153ed12eab6856e6a824316ed43d">ToCreature</a>())</div>
+<div class="line"><span class="lineno">  964</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;ToCreature())</div>
 <div class="line"><span class="lineno">  965</span>        {</div>
 <div class="line"><span class="lineno">  966</span>            <span class="keywordflow">if</span> (target-&gt;GetLevel() &gt; player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>())</div>
 <div class="line"><span class="lineno">  967</span>            {</div>
@@ -404,7 +404,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a870c5bddb94e9bac797da681fcad2b9b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">Unit::SendTameFailure</a></div><div class="ttdeci">void SendTameFailure(uint8 result)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20022</div></div>
 <div class="ttc" id="aclassUnit_html_aa635c1b2bc45fb46d9064068b015356f"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa635c1b2bc45fb46d9064068b015356f">Unit::GetCharmGUID</a></div><div class="ttdeci">ObjectGuid GetCharmGUID() const</div><div class="ttdef"><b>Definition</b> Unit.h:692</div></div>
 <div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1030</div></div>
-<div class="ttc" id="anamespaceLuaObject_html_a96cb153ed12eab6856e6a824316ed43d"><div class="ttname"><a href="../../d3/de2/namespaceLuaObject.html#a96cb153ed12eab6856e6a824316ed43d">LuaObject::ToCreature</a></div><div class="ttdeci">int ToCreature(lua_State *L, Object *obj)</div><div class="ttdef"><b>Definition</b> ObjectMethods.h:458</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02192">Player::CanTameExoticPets()</a>, <a class="el" href="../../#l00229">PetStable::CurrentPet</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00692">Unit::GetCharmGUID()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l01030">Unit::GetLevel()</a>, <a class="el" href="../../#l01219">Player::GetPetStable()</a>, <a class="el" href="../../#l00234">PetStable::GetUnslottedHunterPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l03681">PET_TAME_ANOTHER_SUMMON_ACTIVE</a>, <a class="el" href="../../#l03688">PET_TAME_CANT_CONTROL_EXOTIC</a>, <a class="el" href="../../#l03679">PET_TAME_CREATURE_ALREADY_OWNED</a>, <a class="el" href="../../#l03677">PET_TAME_INVALID_CREATURE</a>, <a class="el" href="../../#l03680">PET_TAME_NOT_TAMEABLE</a>, <a class="el" href="../../#l03685">PET_TAME_TOO_HIGHLEVEL</a>, <a class="el" href="../../#l03678">PET_TAME_TOO_MANY</a>, <a class="el" href="../../#l20022">Unit::SendTameFailure()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l00956">SPELL_FAILED_ALREADY_HAVE_SUMMON</a>, <a class="el" href="../../#l00976">SPELL_FAILED_DONT_REPORT</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
@@ -482,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dd4/classspell__hun__tame__beast.html">spell_hun_tame_beast</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

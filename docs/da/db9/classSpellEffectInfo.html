@@ -1290,7 +1290,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  836</span>    <a class="code hl_enumeration" href="../../d0/dba/SpellInfo_8h.html#a41dacfabf3231ea2ee5894d61f6c3b6f">SpellTargetDirectionTypes</a> GetDirectionType() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno">  837</span>    <span class="keywordtype">float</span> CalcDirectionAngle() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno">  838</span> </div>
-<div class="line"><span class="lineno">  839</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a> <a class="code hl_function" href="../../d5/dbc/namespaceLuaSpell.html#a78d944b8b44c506a55a96e7a9dc33012">GetTarget</a>() <span class="keyword">const</span>;</div>
+<div class="line"><span class="lineno">  839</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a> GetTarget() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno">  840</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetExplicitTargetMask(<span class="keywordtype">bool</span>&amp; srcSet, <span class="keywordtype">bool</span>&amp; dstSet) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno">  841</span> </div>
 <div class="line"><span class="lineno">  842</span><span class="keyword">private</span>:</div>
@@ -1469,7 +1469,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1015</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetCategory() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1016</span>    <span class="keywordtype">bool</span> HasEffect(<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a> effect) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1017</span>    <span class="keywordtype">bool</span> HasEffectMechanic(<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ad">Mechanics</a> mechanic) <span class="keyword">const</span>;</div>
-<div class="line"><span class="lineno"> 1018</span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">HasAura</a>(<a class="code hl_enumeration" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> aura) <span class="keyword">const</span>;</div>
+<div class="line"><span class="lineno"> 1018</span>    <span class="keywordtype">bool</span> HasAura(<a class="code hl_enumeration" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> aura) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1019</span>    <span class="keywordtype">bool</span> HasAnyAura() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1020</span>    <span class="keywordtype">bool</span> HasAreaAuraEffect() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1021</span> </div>
@@ -1564,8 +1564,8 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1110</span>    <span class="keywordtype">float</span> GetMinRange(<span class="keywordtype">bool</span> positive = <span class="keyword">false</span>) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1111</span>    <span class="keywordtype">float</span> GetMaxRange(<span class="keywordtype">bool</span> positive = <span class="keyword">false</span>, <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <span class="keyword">nullptr</span>, <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a>* spell = <span class="keyword">nullptr</span>) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1112</span> </div>
-<div class="line"><span class="lineno"> 1113</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <a class="code hl_function" href="../../d6/de8/namespaceLuaAura.html#a0a5f2e64bf3a8a4174b0d8f7f70c67c7">GetDuration</a>() <span class="keyword">const</span>;</div>
-<div class="line"><span class="lineno"> 1114</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <a class="code hl_function" href="../../d6/de8/namespaceLuaAura.html#aa2d093ebf5d842cb4c0128ca3eb31bb1">GetMaxDuration</a>() <span class="keyword">const</span>;</div>
+<div class="line"><span class="lineno"> 1113</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> GetDuration() <span class="keyword">const</span>;</div>
+<div class="line"><span class="lineno"> 1114</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> GetMaxDuration() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1115</span> </div>
 <div class="line"><span class="lineno"> 1116</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetMaxTicks() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1117</span> </div>
@@ -1575,7 +1575,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1121</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> CalcPowerCost(<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> <span class="keyword">const</span>* caster, <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> schoolMask, <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a>* spell = <span class="keyword">nullptr</span>) <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1122</span> </div>
 <div class="line"><span class="lineno"> 1123</span>    <span class="keywordtype">bool</span> IsRanked() <span class="keyword">const</span>;</div>
-<div class="line"><span class="lineno"> 1124</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="code hl_function" href="../../de/df7/namespaceLuaCreature.html#a1b6b8a0f491b5dec7bd0200ea4b21c41">GetRank</a>() <span class="keyword">const</span>;</div>
+<div class="line"><span class="lineno"> 1124</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GetRank() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1125</span>    <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* GetFirstRankSpell() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1126</span>    <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* GetLastRankSpell() <span class="keyword">const</span>;</div>
 <div class="line"><span class="lineno"> 1127</span>    <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* GetNextRankSpell() <span class="keyword">const</span>;</div>
@@ -1784,11 +1784,6 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassWorldObject_html"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html">WorldObject</a></div><div class="ttdef"><b>Definition</b> Object.h:410</div></div>
 <div class="ttc" id="aclassflag96_html"><div class="ttname"><a href="../../dc/dd4/classflag96.html">flag96</a></div><div class="ttdef"><b>Definition</b> Util.h:451</div></div>
-<div class="ttc" id="anamespaceLuaAura_html_a0a5f2e64bf3a8a4174b0d8f7f70c67c7"><div class="ttname"><a href="../../d6/de8/namespaceLuaAura.html#a0a5f2e64bf3a8a4174b0d8f7f70c67c7">LuaAura::GetDuration</a></div><div class="ttdeci">int GetDuration(lua_State *L, Aura *aura)</div><div class="ttdef"><b>Definition</b> AuraMethods.h:66</div></div>
-<div class="ttc" id="anamespaceLuaAura_html_aa2d093ebf5d842cb4c0128ca3eb31bb1"><div class="ttname"><a href="../../d6/de8/namespaceLuaAura.html#aa2d093ebf5d842cb4c0128ca3eb31bb1">LuaAura::GetMaxDuration</a></div><div class="ttdeci">int GetMaxDuration(lua_State *L, Aura *aura)</div><div class="ttdef"><b>Definition</b> AuraMethods.h:95</div></div>
-<div class="ttc" id="anamespaceLuaCreature_html_a1b6b8a0f491b5dec7bd0200ea4b21c41"><div class="ttname"><a href="../../de/df7/namespaceLuaCreature.html#a1b6b8a0f491b5dec7bd0200ea4b21c41">LuaCreature::GetRank</a></div><div class="ttdeci">int GetRank(lua_State *L, Creature *creature)</div><div class="ttdef"><b>Definition</b> CreatureMethods.h:965</div></div>
-<div class="ttc" id="anamespaceLuaSpell_html_a78d944b8b44c506a55a96e7a9dc33012"><div class="ttname"><a href="../../d5/dbc/namespaceLuaSpell.html#a78d944b8b44c506a55a96e7a9dc33012">LuaSpell::GetTarget</a></div><div class="ttdeci">int GetTarget(lua_State *L, Spell *spell)</div><div class="ttdef"><b>Definition</b> SpellMethods.h:149</div></div>
-<div class="ttc" id="anamespaceLuaUnit_html_ada882d7e69c8327964c8f5632cc2adf3"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#ada882d7e69c8327964c8f5632cc2adf3">LuaUnit::HasAura</a></div><div class="ttdeci">int HasAura(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:504</div></div>
 <div class="ttc" id="astructSpellCastTimesEntry_html"><div class="ttname"><a href="../../d7/da1/structSpellCastTimesEntry.html">SpellCastTimesEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:1757</div></div>
 <div class="ttc" id="astructSpellCategoryEntry_html"><div class="ttname"><a href="../../d6/d41/structSpellCategoryEntry.html">SpellCategoryEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:1765</div></div>
 <div class="ttc" id="astructSpellChainNode_html"><div class="ttname"><a href="../../dd/d1c/structSpellChainNode.html">SpellChainNode</a></div><div class="ttdef"><b>Definition</b> SpellMgr.h:554</div></div>
@@ -2199,7 +2194,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/db9/classSpellEffectInfo.html">SpellEffectInfo</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:32:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

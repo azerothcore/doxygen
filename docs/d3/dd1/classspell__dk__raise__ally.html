@@ -418,7 +418,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  216</span>                    <span class="keywordflow">if</span> (aurEff)</div>
 <div class="line"><span class="lineno">  217</span>                        mod += <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(1.0f, aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee">GetAmount</a>());                                                    <span class="comment">// Glyph of the Ghoul adds a flat value to the scale mod</span></div>
 <div class="line"><span class="lineno">  218</span> </div>
-<div class="line"><span class="lineno">  219</span>                    value = float(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d7/dd3/namespaceLuaUnit.html#a7c9a52e0314b8e9dd7cea0b657242f98">GetStat</a>(stat)) * mod;</div>
+<div class="line"><span class="lineno">  219</span>                    value = float(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetStat(stat)) * mod;</div>
 <div class="line"><span class="lineno">  220</span>                    value = ghoul-&gt;GetTotalStatValue(stat, value);</div>
 <div class="line"><span class="lineno">  221</span>                    ghoul-&gt;SetStat(stat, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(value));</div>
 <div class="line"><span class="lineno">  222</span>                    ghoul-&gt;ApplyStatBuffMod(stat, value, <span class="keyword">true</span>);</div>
@@ -501,7 +501,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a100e3f2d8087c543111ac3a6404836fe"><div class="ttname"><a href="../../df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe">Unit::GetCharm</a></div><div class="ttdeci">Unit * GetCharm() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10694</div></div>
 <div class="ttc" id="aclassUnit_html_a2c5ce1bcd9f0631aa8846aef99919c9b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2c5ce1bcd9f0631aa8846aef99919c9b">Unit::m_modAttackSpeedPct</a></div><div class="ttdeci">float m_modAttackSpeedPct[3]</div><div class="ttdef"><b>Definition</b> Unit.h:2003</div></div>
 <div class="ttc" id="aclassUnit_html_a520e229dc1a93ea4a53d0ba81e586d11"><div class="ttname"><a href="../../df/dd9/classUnit.html#a520e229dc1a93ea4a53d0ba81e586d11">Unit::GetAuraEffect</a></div><div class="ttdeci">AuraEffect * GetAuraEffect(uint32 spellId, uint8 effIndex, ObjectGuid casterGUID=ObjectGuid::Empty) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5494</div></div>
-<div class="ttc" id="anamespaceLuaUnit_html_a7c9a52e0314b8e9dd7cea0b657242f98"><div class="ttname"><a href="../../d7/dd3/namespaceLuaUnit.html#a7c9a52e0314b8e9dd7cea0b657242f98">LuaUnit::GetStat</a></div><div class="ttdeci">int GetStat(lua_State *L, Unit *unit)</div><div class="ttdef"><b>Definition</b> UnitMethods.h:659</div></div>
 <div class="ttc" id="aspell__dk_8cpp_html_a70990262974db7bc1730b177eb17a499a7bb62a89c9a4b0ef9c462557e6bebf06"><div class="ttname"><a href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7bb62a89c9a4b0ef9c462557e6bebf06">SPELL_DK_GLYPH_OF_THE_GHOUL</a></div><div class="ttdeci">@ SPELL_DK_GLYPH_OF_THE_GHOUL</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:39</div></div>
 <div class="ttc" id="astructPetLevelInfo_html"><div class="ttname"><a href="../../d4/ddd/structPetLevelInfo.html">PetLevelInfo</a></div><div class="ttdef"><b>Definition</b> ObjectMgr.h:528</div></div>
 <div class="ttc" id="astructPetLevelInfo_html_a322dcab3af8f98726aa6addf38e8891b"><div class="ttname"><a href="../../d4/ddd/structPetLevelInfo.html#a322dcab3af8f98726aa6addf38e8891b">PetLevelInfo::health</a></div><div class="ttdeci">uint32 health</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:535</div></div>
@@ -589,7 +588,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dd1/classspell__dk__raise__ally.html">spell_dk_raise_ally</a></li>
-    <li class="footer">Generated on Sun Jan 5 2025 00:31:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 5 2025 00:19:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
