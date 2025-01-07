@@ -1,5 +1,6 @@
 var NAVTREEINDEX370 =
 {
+"df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9da9e237907ab7952c8ef3b015e08abdb23":[7,0,0,0,1,3,2,1,0,12,5,1],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9daadfb7e9d82b141469099cf1a1960277c":[7,0,0,0,1,3,2,1,0,12,5,0],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9dad517b85965220b4cb8d25c85d223b237":[7,0,0,0,1,3,2,1,0,12,5,4],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9daecc44370e3c04e1be83c31587ee669df":[7,0,0,0,1,3,2,1,0,12,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX370 =
 "df/d14/classPet.html#a2aa7a541439129ba1e1ec73d8b444015":[6,0,2348,27],
 "df/d14/classPet.html#a2cde20d24d5fe0fb7aea2f85ea07ce9e":[6,0,2348,14],
 "df/d14/classPet.html#a2dbea061451c0aba0ed87810d5f74c2d":[6,0,2348,63],
-"df/d14/classPet.html#a31ab715e673a1dc18255dfc4f37299d6":[6,0,2348,70],
-"df/d14/classPet.html#a3c482ec7706059ac839d59cb54431671":[6,0,2348,9]
+"df/d14/classPet.html#a31ab715e673a1dc18255dfc4f37299d6":[6,0,2348,70]
 };

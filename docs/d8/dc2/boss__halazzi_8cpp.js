@@ -17,7 +17,6 @@ var boss__halazzi_8cpp =
     [ "PhaseHalazzi", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696", [
       [ "PHASE_NONE", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a61e900515aec51ba22cfdd63c1082fc7", null ],
       [ "PHASE_LYNX", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7", null ],
-      [ "PHASE_SPLIT", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a041ad3eda58912cc1b87b6d95d4e9225", null ],
       [ "PHASE_HUMAN", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6", null ],
       [ "PHASE_MERGE", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb", null ],
       [ "PHASE_ENRAGE", "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a7272d361ebd09b163573d51d24c73198", null ]

@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad81fa9c3449ba347de09b1519be6d408":[6,0,553,0,9],
 "d5/db3/structnpc__amanishi__tempest.html":[6,0,1551],
 "d5/db3/structnpc__amanishi__tempest.html#a09ba0ce51ad981578adcc1950c89d5ae":[6,0,1551,7],
 "d5/db3/structnpc__amanishi__tempest.html#a4337b2bc417d8dafc4a6d5d10bbd0db9":[6,0,1551,11],
@@ -68,12 +69,12 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4180,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,5,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,31,5,38,1],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,5,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,31,5,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,5,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[6,0,1705],
 "d5/db6/classnpc__deathstalker__erland.html#a81b20bc8c7249a59d69ba63ab32a5f06":[6,0,1705,3],
 "d5/db6/classnpc__deathstalker__erland.html#ab59235f212ddb985056cb8e32719b723":[6,0,1705,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d5/dbd/classnpc__unworthy__initiate__anchor.html":[6,0,2208],
 "d5/dbd/classnpc__unworthy__initiate__anchor.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1":[6,0,2208,1],
 "d5/dbd/classnpc__unworthy__initiate__anchor.html#ab012983661d20a3ffa4f58136bd2d808":[6,0,2208,2],
-"d5/dbe/OutdoorPvPGH_8cpp.html":[7,0,0,0,1,3,6,3],
-"d5/dbe/OutdoorPvPGH_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[7,0,0,0,1,3,6,3,1]
+"d5/dbe/OutdoorPvPGH_8cpp.html":[7,0,0,0,1,3,6,3]
 };

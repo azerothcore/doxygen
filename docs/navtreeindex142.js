@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d5/d2e/classAreaTrigger__at__brewfest.html#a17e4a8d671136466c7673789e4f69a84":[6,0,164,1],
 "d5/d2e/classAreaTrigger__at__brewfest.html#ab763765427796ad17338bcc8d63cf891":[6,0,164,2],
 "d5/d2e/classAreaTrigger__at__brewfest.html#ad7e2916aefc6efbfb9f747a75a4a14a3":[6,0,164,0],
 "d5/d2e/classspell__festergut__gastric__bloat.html":[6,0,2819],
@@ -141,14 +142,14 @@ var NAVTREEINDEX142 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1084,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,100],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,88,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/structMovieEntry.html":[6,0,1498],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[6,0,1498,0],
 "d5/d34/structProgressionRequirement.html":[6,0,2408],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d42/structnpc__shattered__hand__scout.html#a9416dd89c4728538971abc5975c7080f":[6,0,2073,7],
 "d5/d42/structnpc__shattered__hand__scout.html#aa3043011d7d9e7b7c5826b9afc7581d1":[6,0,2073,2],
 "d5/d42/structnpc__shattered__hand__scout.html#ad37c34ae2dee082f1b4eed90bc4a3618":[6,0,2073,1],
-"d5/d43/SpellEffects_8cpp.html":[7,0,0,0,1,2,41,4],
-"d5/d43/SpellEffects_8cpp.html#a294b5954f08aebdafe9e5a6f00e2dc82":[7,0,0,0,1,2,41,4,1]
+"d5/d43/SpellEffects_8cpp.html":[7,0,0,0,1,2,41,4]
 };

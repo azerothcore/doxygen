@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"d5/da2/classnpc__risen__guardian.html#a568f57a442adcd64c8c3d2e4d5df729f":[6,0,2044,2],
 "d5/da2/classspell__mark__of__kazrogal__aura.html":[6,0,3358],
 "d5/da2/classspell__mark__of__kazrogal__aura.html#a4ed63f32afe3831d7fb08333ff1d379f":[6,0,3358,0],
 "d5/da2/classspell__mark__of__kazrogal__aura.html#a74be4e2b0f9c6254a87a7cfb8159fc9b":[6,0,3358,1],
@@ -166,16 +167,16 @@ var NAVTREEINDEX150 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a447c2cd258d784ca1d79c79412a1a426":[6,0,1984,0],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a694ee5f884f1bd404f0ef3d3030a212f":[6,0,1984,3],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,1984,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,8,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,8,3],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,8,3,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,8,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,8,3,2],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,8,3,1],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,8,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,8,3,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,8,3,4],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,8,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,8,3,4],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,8,3,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,8,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,8,3,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,8,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,8,3,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,8,3,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "d5/dad/classnpc__xt002__boombot.html#a6e2f7dd0d26d140a5b73b0f66ea434af":[6,0,2252,1],
 "d5/dad/classspell__dred__raptor__call.html":[6,0,2759],
 "d5/dad/classspell__dred__raptor__call.html#a1805904d5e50bbf5aeccf37d2cadd09e":[6,0,2759,2],
-"d5/dad/classspell__dred__raptor__call.html#a84fb6e08a523f375cd8bc43e9cc73eab":[6,0,2759,0],
-"d5/dad/classspell__dred__raptor__call.html#accbf8f40b1ab123a2be81a514c94c836":[6,0,2759,1]
+"d5/dad/classspell__dred__raptor__call.html#a84fb6e08a523f375cd8bc43e9cc73eab":[6,0,2759,0]
 };

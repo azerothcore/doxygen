@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html":[6,0,1664,0],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a32c351c44121629bccea71f2fd27cf9c":[6,0,1664,0,9],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a62e33501656b57698b19d8fec44afa37":[6,0,1664,0,11],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a6705fda3183602c11573735e0ac536a8":[6,0,1664,0,8],
@@ -131,10 +132,10 @@ var NAVTREEINDEX303 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,89,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,89,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,77,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,89,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,89,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,77,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,89,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3210],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3210,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3210,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#ab72843264c39ce4d9aa3d4d8fbd83fc4":[5,0,1,8,0,38],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b":[5,0,1,8,0,32],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,1,8,0,40],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[6,0,412,0],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a3a0cd44c30eacac26bcfd1bbe2a18086":[6,0,412,0,4]
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[6,0,412,0]
 };

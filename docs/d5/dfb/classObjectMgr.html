@@ -18306,20 +18306,20 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 3516</span> </div>
 <div class="line"><span class="lineno"> 3517</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a0bfa073eefdc51af1ba9d23803ecb6bf">sVehicleSeatStore</a>.LookupEntry(seatID))</div>
 <div class="line"><span class="lineno"> 3518</span>        {</div>
-<div class="line"><span class="lineno"> 3519</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: %u does not exist in VehicleSeat.dbc. Skipping entry.&quot;</span>, seatID);</div>
+<div class="line"><span class="lineno"> 3519</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: {} does not exist in VehicleSeat.dbc. Skipping entry.&quot;</span>, seatID);</div>
 <div class="line"><span class="lineno"> 3520</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 3521</span>        }</div>
 <div class="line"><span class="lineno"> 3522</span> </div>
 <div class="line"><span class="lineno"> 3523</span>        <span class="comment">// Sanitizing values</span></div>
 <div class="line"><span class="lineno"> 3524</span>        <span class="keywordflow">if</span> (orientation &gt; <span class="keywordtype">float</span>(M_PI * 2))</div>
 <div class="line"><span class="lineno"> 3525</span>        {</div>
-<div class="line"><span class="lineno"> 3526</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: %u is using invalid angle offset value (%f). Set Value to 0.&quot;</span>, seatID, orientation);</div>
+<div class="line"><span class="lineno"> 3526</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: {} is using invalid angle offset value ({}). Set Value to 0.&quot;</span>, seatID, orientation);</div>
 <div class="line"><span class="lineno"> 3527</span>            orientation = 0.0f;</div>
 <div class="line"><span class="lineno"> 3528</span>        }</div>
 <div class="line"><span class="lineno"> 3529</span> </div>
 <div class="line"><span class="lineno"> 3530</span>        <span class="keywordflow">if</span> (exitParam &gt;= <a class="code hl_function" href="../../d1/dc8/Util_8h.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="code hl_enumvalue" href="../../d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParameters::VehicleExitParamMax</a>))</div>
 <div class="line"><span class="lineno"> 3531</span>        {</div>
-<div class="line"><span class="lineno"> 3532</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: %u is using invalid exit parameter value (%u). Setting to 0 (none).&quot;</span>, seatID, exitParam);</div>
+<div class="line"><span class="lineno"> 3532</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `vehicle_seat_addon`: SeatID: {} is using invalid exit parameter value ({}). Setting to 0 (none).&quot;</span>, seatID, exitParam);</div>
 <div class="line"><span class="lineno"> 3533</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 3534</span>        }</div>
 <div class="line"><span class="lineno"> 3535</span> </div>
@@ -18328,7 +18328,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 3538</span>        ++count;</div>
 <div class="line"><span class="lineno"> 3539</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
 <div class="line"><span class="lineno"> 3540</span> </div>
-<div class="line"><span class="lineno"> 3541</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded %u Vehicle Seat Addon entries in %u ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno"> 3541</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Vehicle Seat Addon entries in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
 <div class="line"><span class="lineno"> 3542</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a0bfa073eefdc51af1ba9d23803ecb6bf"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a0bfa073eefdc51af1ba9d23803ecb6bf">sVehicleSeatStore</a></div><div class="ttdeci">DBCStorage&lt; VehicleSeatEntry &gt; sVehicleSeatStore(VehicleSeatEntryfmt)</div></div>
 <div class="ttc" id="aVehicleDefines_8h_html_a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0"><div class="ttname"><a href="../../d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParameters::VehicleExitParamMax</a></div><div class="ttdeci">@ VehicleExitParamMax</div></div>
@@ -21944,7 +21944,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dfb/classObjectMgr.html">ObjectMgr</a></li>
-    <li class="footer">Generated on Mon Jan 6 2025 06:21:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jan 7 2025 06:21:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1151,1],
 "d6/d4d/structgo__sand__trap.html#af845c0efb3d8ebe53d3620970a84f1e4":[6,0,1151,3],
 "d6/d4e/EventProcessor_8cpp.html":[7,0,0,0,0,15,11],
 "d6/d4f/BattlefieldWG_8h.html":[7,0,0,0,1,2,7,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[6,0,1979,0],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[6,0,1979,4],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[6,0,1979,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html":[7,0,0,0,1,3,2,9,0],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cf":[7,0,0,0,1,3,2,9,0,11]
+"d6/d51/boss__apothecary__hummel_8cpp.html":[7,0,0,0,1,3,2,9,0]
 };

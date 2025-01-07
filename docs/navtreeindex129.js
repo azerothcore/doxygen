@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#ad45dbb23ecc23403dadc184fa17e5509":[7,0,0,0,1,3,5,2,1,1,45],
 "d4/d81/boss__faction__champions_8cpp.html#ad45dbb23ecc23403dadc184fa17e5509a490452dbac9d8c4fa44c7c39e3a06d57":[7,0,0,0,1,3,5,2,1,1,45,0],
 "d4/d81/boss__faction__champions_8cpp.html#ae1cf6f89e2a5b39b347c2da310a8469b":[7,0,0,0,1,3,5,2,1,1,49],
 "d4/d81/boss__faction__champions_8cpp.html#ae1cf6f89e2a5b39b347c2da310a8469ba21c342ea925e2c3fee9408321cc659ec":[7,0,0,0,1,3,5,2,1,1,49,0],
@@ -154,12 +155,12 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2937,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,836],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[6,0,836,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[6,0,836,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22a32546786af37a0979cad06845da20":[7,0,0,0,1,3,5,8,2,2,3,2],
 "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a418e8ff4826303ff84757960b934af07":[7,0,0,0,1,3,5,8,2,2,3,1],
 "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a871f5fe6b3a29a616edcf7341607acf1":[7,0,0,0,1,3,5,8,2,2,3,3],
-"d4/d8d/classnpc__mechanolift.html":[6,0,1923],
-"d4/d8d/classnpc__mechanolift.html#a7b753a3426213706c899745a6d0d989b":[6,0,1923,1]
+"d4/d8d/classnpc__mechanolift.html":[6,0,1923]
 };

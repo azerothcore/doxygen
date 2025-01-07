@@ -1,11 +1,12 @@
 var NAVTREEINDEX132 =
 {
+"d4/da1/classMovement_1_1PacketBuilder.html":[5,0,22,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,22,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,22,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,22,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,22,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2538],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/daa/classspell__oculus__rider__aura.html#a6ab047004cc901331d747641f218cf6a":[6,0,3419,0],
 "d4/daa/classspell__oculus__rider__aura.html#a83b0d414a6e97b434f82492fa01ac385":[6,0,3419,3],
 "d4/daa/classspell__oculus__rider__aura.html#a88af7f269f56e474434d51c7ac0eb0a0":[6,0,3419,4],
-"d4/daa/classspell__oculus__rider__aura.html#a9f66217f4785c8240c4b074bbf04b96e":[6,0,3419,1],
-"d4/daa/classspell__oculus__rider__aura.html#aa94b30468b2c853c0d8b86658a43dee4":[6,0,3419,2]
+"d4/daa/classspell__oculus__rider__aura.html#a9f66217f4785c8240c4b074bbf04b96e":[6,0,3419,1]
 };

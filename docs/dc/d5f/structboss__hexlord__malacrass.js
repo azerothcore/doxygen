@@ -9,5 +9,6 @@ var structboss__hexlord__malacrass =
     [ "UseAbility", "dc/d5f/structboss__hexlord__malacrass.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
     [ "_classAbilityTimer", "dc/d5f/structboss__hexlord__malacrass.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
     [ "_creatureIndex", "dc/d5f/structboss__hexlord__malacrass.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "dc/d5f/structboss__hexlord__malacrass.html#ab7e531fccbb486b7b429d77d804841c2", null ]
+    [ "_currentClass", "dc/d5f/structboss__hexlord__malacrass.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "dc/d5f/structboss__hexlord__malacrass.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

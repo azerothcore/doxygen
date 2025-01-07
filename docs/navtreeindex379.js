@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d6a/firework__show__Teldrassil_8h.html#ade54ff9545ac94f914ea82994571e3a0":[7,0,0,0,1,3,3,0,9,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html":[6,0,1747,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1747,0,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1747,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[6,0,89,1],
 "df/d77/classspell__drakkari__colossus__face__me.html":[6,0,2747],
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2747,1],
-"df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2747,2],
-"df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2747,0]
+"df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2747,2]
 };

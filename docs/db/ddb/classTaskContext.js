@@ -15,7 +15,7 @@ var classTaskContext =
     [ "DelayGroup", "db/ddb/classTaskContext.html#ab51c9108135f18eda88250cbdc1d4c9e", null ],
     [ "DelayGroup", "db/ddb/classTaskContext.html#a701e13bfc09a6c1fc6e372c5310e2d80", null ],
     [ "Dispatch", "db/ddb/classTaskContext.html#a5c5bc5a317527f3dbc496e6e5a873505", null ],
-    [ "GetNextOcurrence", "db/ddb/classTaskContext.html#a331ec9a799ece90f84cfbd92c700e548", null ],
+    [ "GetNextOccurrence", "db/ddb/classTaskContext.html#ac9eb22a04ed6b03d252e5fd57255045b", null ],
     [ "GetRepeatCounter", "db/ddb/classTaskContext.html#aab7910aa171d409afa3f074858eacd0e", null ],
     [ "Invoke", "db/ddb/classTaskContext.html#a47b03e1428d2b3df88a0664b93b0debc", null ],
     [ "IsExpired", "db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5", null ],

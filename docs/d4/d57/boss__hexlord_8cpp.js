@@ -27,7 +27,8 @@ var boss__hexlord_8cpp =
       [ "MAX_ADD_COUNT", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab", null ],
       [ "ADDITIONAL_CLASS_SPRIEST", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
-      [ "GROUP_CLASS_ABILITY", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ]
+      [ "GROUP_CLASS_ABILITY", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ]
     ] ],
     [ "Says", "d4/d57/boss__hexlord_8cpp.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_AGGRO", "d4/d57/boss__hexlord_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],

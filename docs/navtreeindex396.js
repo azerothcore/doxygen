@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3799,1],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3799,0],
 "df/dfe/classnpc__high__inquisitor__valroth.html":[6,0,1804],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[6,0,1804,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "dir_fb762df71c7c0f13e82000a41941de2e.html":[7,0,0,0,1,2,7,0],
 "dir_fc0206cb51b58c6ef7ebf9067894935e.html":[7,0,0,0,1,3,4,3],
 "dir_fc52f0b797d74b4b54bfd04593b84648.html":[7,0,0,0,1,2,8],
-"dir_fc9741c162534defc29969ffbc5109e0.html":[7,0,0,0,0,0],
-"dir_fc9bfef1edff0265984502c058da6496.html":[7,0,0,0,2,0]
+"dir_fc9741c162534defc29969ffbc5109e0.html":[7,0,0,0,0,0]
 };

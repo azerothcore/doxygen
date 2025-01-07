@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2747,0],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,117],
 "df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2718],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb":[7,0,0,0,1,3,5,9,2,4,43,5],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3":[7,0,0,0,1,3,5,9,2,4,43,8],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0":[7,0,0,0,1,3,5,9,2,4,43,7],
-"df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,45],
-"df/d87/boss__freya_8cpp.html#a47ccfc1e011291655bceb28851d1cf39":[7,0,0,0,1,3,5,9,2,4,37]
+"df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,45]
 };
