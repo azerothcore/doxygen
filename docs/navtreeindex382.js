@@ -1,7 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"df/d8d/structSmartTarget.html#a8772407f3c557a577055190db8e6345f":[6,0,2527,1],
-"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[6,0,2527,34],
 "df/d8d/structSmartTarget.html#a9766bf05d7a4626bc3a5d62cd5b20247":[6,0,2527,58],
 "df/d8d/structSmartTarget.html#a9da046f165d92768248a187b7650bc34":[6,0,2527,60],
 "df/d8d/structSmartTarget.html#aa676c444d44c6d3d51054d7601cf509e":[6,0,2527,31],
@@ -249,5 +247,7 @@ var NAVTREEINDEX382 =
 "df/d99/classspell__leotheras__chaos__blast.html":[6,0,3304],
 "df/d99/classspell__leotheras__chaos__blast.html#a3347413822ce083085bcf1418fbdbae2":[6,0,3304,0],
 "df/d99/classspell__leotheras__chaos__blast.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5":[6,0,3304,1],
-"df/d99/classspell__leotheras__chaos__blast.html#af0c8bf6a5076a4171a9d70f6872a21d5":[6,0,3304,2]
+"df/d99/classspell__leotheras__chaos__blast.html#af0c8bf6a5076a4171a9d70f6872a21d5":[6,0,3304,2],
+"df/d99/classspell__q12096__q12092__dummy.html":[6,0,3569],
+"df/d99/classspell__q12096__q12092__dummy.html#a45f80e0436f93a597deb4653852df6a1":[6,0,3569,2]
 };

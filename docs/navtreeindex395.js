@@ -1,7 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1818,0,8],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1818,0,4],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1818,0,6],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1818,0,11],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1818,0,9],
@@ -249,5 +247,7 @@ var NAVTREEINDEX395 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,676,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,676,0,7],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3799],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3799,2]
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3799,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3799,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3799,0]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[6,0,1920,0,0],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[6,0,1920,0,5],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#acd6f45abb93f3f043cd85647405a50f6":[6,0,1920,0,4],
 "dd/d44/classnpc__nerubar__victim.html":[6,0,1946],
 "dd/d44/classnpc__nerubar__victim.html#a4fe80597d3e56776f0f04965fc706097":[6,0,1946,1],
@@ -46,8 +44,8 @@ var NAVTREEINDEX319 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,414,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,414,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,414,0,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX319 =
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af43e097e08b8abfcf8578505722488c0":[7,0,0,0,1,3,4,9,7,6,0],
 "dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663c":[7,0,0,0,1,3,4,9,7,8],
 "dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e":[7,0,0,0,1,3,4,9,7,8,0],
-"dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663cac6237de5011c6cf28fa703e10d989e5b":[7,0,0,0,1,3,4,9,7,8,1]
+"dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663cac6237de5011c6cf28fa703e10d989e5b":[7,0,0,0,1,3,4,9,7,8,1],
+"dd/d58/boss__twinemperors_8cpp.html#a4b4e073b11b562dca54712d381c284fa":[7,0,0,0,1,3,4,9,7,11],
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,7,9]
 };

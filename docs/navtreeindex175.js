@@ -1,7 +1,5 @@
 var NAVTREEINDEX175 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff":[7,0,0,0,1,2,16,6,2,9,39],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[7,0,0,0,1,2,16,6,2,9,15],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570":[7,0,0,0,1,2,16,6,2,9,31],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a47e6e2fa037fecebc1af203e75d24969":[7,0,0,0,1,2,16,6,2,9,9],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a49c674bb42727bc9b76c7f325413b3cb":[7,0,0,0,1,2,16,6,2,9,22],
@@ -249,5 +247,7 @@ var NAVTREEINDEX175 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2241,0,1],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2241,0,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2241,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22]
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,5,22,0]
 };

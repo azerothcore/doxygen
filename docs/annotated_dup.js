@@ -4678,8 +4678,6 @@ var annotated_dup =
     [ "WorldSocketMgr", "d5/d92/classWorldSocketMgr.html", "d5/d92/classWorldSocketMgr" ],
     [ "WorldSocketThread", "db/d07/classWorldSocketThread.html", "db/d07/classWorldSocketThread" ],
     [ "WorldState", "d3/da9/classWorldState.html", "d3/da9/classWorldState" ],
-    [ "WorldTriggerDrumPred", "d5/dc1/structWorldTriggerDrumPred.html", "d5/dc1/structWorldTriggerDrumPred" ],
-    [ "WorldTriggerHutPred", "dd/d18/structWorldTriggerHutPred.html", "dd/d18/structWorldTriggerHutPred" ],
     [ "WorldUpdateTime", "de/dad/classWorldUpdateTime.html", "de/dad/classWorldUpdateTime" ],
     [ "wp_commandscript", "d5/d0e/classwp__commandscript.html", "d5/d0e/classwp__commandscript" ],
     [ "WretchedGhoulCleaner", "de/dbb/classWretchedGhoulCleaner.html", "de/dbb/classWretchedGhoulCleaner" ],

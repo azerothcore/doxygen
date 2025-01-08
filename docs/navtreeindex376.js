@@ -1,7 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35abb62aff4efebc4fcd4f4da02ca764":[7,0,0,0,1,3,4,9,4,3,3],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a43a5db19698d40a2bcdb442f73be7fcb":[7,0,0,0,1,3,4,9,4,3,4],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a453ab624683f0e02a1fae1a6cfcec1db":[7,0,0,0,1,3,4,9,4,3,1],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9bb6afd65bd209bced613fbcf1964cb6":[7,0,0,0,1,3,4,9,4,3,2],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6762b2873125ac73a850d2e103ec31a":[7,0,0,0,1,3,4,9,4,3,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX376 =
 "df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1454,0],
 "df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1454,3],
 "df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1454,4],
-"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1454,2]
+"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1454,2],
+"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1454,1],
+"df/d44/structBattlegroundData.html":[6,0,302]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d6/d0a/classspell__gen__black__magic__enchant.html#a9fff895957dfedb5d975e4a8e9588aa9":[6,0,2862,1],
-"d6/d0a/classspell__gen__black__magic__enchant.html#ab0746e7fa614f09708f89ed3ef93fca9":[6,0,2862,2],
 "d6/d0a/classspell__gen__black__magic__enchant.html#afa477049b9a4fa18594b203a6066d205":[6,0,2862,0],
 "d6/d0b/boss__anzu_8cpp.html":[7,0,0,0,1,3,7,0,2,0],
 "d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,2,0,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fc":[7,0,0,0,1,3,10,5,89],
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[7,0,0,0,1,3,10,5,89,0],
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c":[7,0,0,0,1,3,10,5,89,1],
-"d6/d0d/classnpc__vics__flying__machine.html":[6,0,2226]
+"d6/d0d/classnpc__vics__flying__machine.html":[6,0,2226],
+"d6/d0d/classnpc__vics__flying__machine.html#aac2a7cabd2e87705e9a1b3bfebb89eae":[6,0,2226,2],
+"d6/d0d/classnpc__vics__flying__machine.html#ac0f1e83a9f53f1e38e81804f0332e3fd":[6,0,2226,1]
 };

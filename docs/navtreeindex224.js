@@ -1,7 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08":[7,0,0,0,1,2,8,0,19,10,14],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea329adab562700210e7bc1fa2acbc497b":[7,0,0,0,1,2,8,0,19,10,1],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea430f4279be64578c1343e30e9db1854e":[7,0,0,0,1,2,8,0,19,10,20],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea465d29324f41dc0286952d883faa2103":[7,0,0,0,1,2,8,0,19,10,11],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259":[7,0,0,0,1,2,8,0,19,10,21],
@@ -249,5 +247,7 @@ var NAVTREEINDEX224 =
 "d8/df1/classObjectRegistry.html#a61e6a6eb75512241e82092abfeba7a65":[6,0,2287,8],
 "d8/df1/classObjectRegistry.html#a7a6582a84361d5ad1142f29c9e1d9cb5":[6,0,2287,7],
 "d8/df1/classObjectRegistry.html#aa3bcc30791e82bc900eacf1c5833b7f8":[6,0,2287,1],
-"d8/df1/classObjectRegistry.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2":[6,0,2287,0]
+"d8/df1/classObjectRegistry.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2":[6,0,2287,0],
+"d8/df1/classObjectRegistry.html#aba4a4fcc7ee59afbb4dea6df7410dc02":[6,0,2287,3],
+"d8/df2/classspell__oculus__touch__the__nightmare.html":[6,0,3424]
 };

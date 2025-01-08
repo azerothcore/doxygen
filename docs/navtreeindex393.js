@@ -1,7 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca168b547f6733ba270d8174a7867aa4dc":[7,0,0,0,1,3,5,6,4,56,35],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,6,4,56,18],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1cdf36550b109445b0813f5ee912a07b":[7,0,0,0,1,3,5,6,4,56,40],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dfb9cc691798218302a100ab206aff5":[7,0,0,0,1,3,5,6,4,56,36],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc29b75f9a69dd6e04ae8a4a7f1d12e":[7,0,0,0,1,3,5,6,4,56,22],
@@ -249,5 +247,7 @@ var NAVTREEINDEX393 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1]
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3]
 };

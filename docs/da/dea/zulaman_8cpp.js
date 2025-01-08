@@ -7,8 +7,6 @@ var zulaman_8cpp =
     [ "spell_ritual_of_power", "d1/d03/classspell__ritual__of__power.html", "d1/d03/classspell__ritual__of__power" ],
     [ "npc_amanishi_lookout", "d1/db2/structnpc__amanishi__lookout.html", "d1/db2/structnpc__amanishi__lookout" ],
     [ "npc_amanishi_tempest", "d5/db3/structnpc__amanishi__tempest.html", "d5/db3/structnpc__amanishi__tempest" ],
-    [ "WorldTriggerHutPred", "dd/d18/structWorldTriggerHutPred.html", "dd/d18/structWorldTriggerHutPred" ],
-    [ "WorldTriggerDrumPred", "d5/dc1/structWorldTriggerDrumPred.html", "d5/dc1/structWorldTriggerDrumPred" ],
     [ "npc_amanishi_scout", "dc/d8c/structnpc__amanishi__scout.html", "dc/d8c/structnpc__amanishi__scout" ],
     [ "spell_alert_drums", "d1/d16/classspell__alert__drums.html", "d1/d16/classspell__alert__drums" ],
     [ "spell_summon_amanishi_sentries", "dc/d93/classspell__summon__amanishi__sentries.html", "dc/d93/classspell__summon__amanishi__sentries" ],
@@ -105,6 +103,8 @@ var zulaman_8cpp =
       [ "WEAPON_SPEAR", "da/dea/zulaman_8cpp.html#a2e238758e72da0491a67935310819213a704a5913fca77f96bb989586de4d5140", null ]
     ] ],
     [ "AddSC_zulaman", "da/dea/zulaman_8cpp.html#a7a3a1617870dd5be1d8b53b0050691dc", null ],
+    [ "IsDrum", "da/dea/zulaman_8cpp.html#ac3d86ae5eeaa7565d388a40e507d49fd", null ],
+    [ "IsHut", "da/dea/zulaman_8cpp.html#a31b2aad66e4b23946685d8b4be0eb04d", null ],
     [ "ChestEntry", "da/dea/zulaman_8cpp.html#aedf2afdf0b3812acadf8a94a8cda5c85", null ],
     [ "HostageEntry", "da/dea/zulaman_8cpp.html#aa970a6566d7b3e62eeb8be3f5d647b33", null ]
 ];

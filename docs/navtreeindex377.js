@@ -1,7 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1454,1],
-"df/d44/structBattlegroundData.html":[6,0,302],
 "df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[6,0,302,1],
 "df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[6,0,302,2],
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,302,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX377 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[5,0,28,22,20],
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[5,0,28,22,22],
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[6,0,9,22,22],
-"df/d56/classVMAP_1_1VMapMgr2.html#a8efdd22a9fd8fbd5f94e4eb70b7a2b19":[5,0,28,22,23]
+"df/d56/classVMAP_1_1VMapMgr2.html#a8efdd22a9fd8fbd5f94e4eb70b7a2b19":[5,0,28,22,23],
+"df/d56/classVMAP_1_1VMapMgr2.html#a8efdd22a9fd8fbd5f94e4eb70b7a2b19":[6,0,9,22,23],
+"df/d56/classVMAP_1_1VMapMgr2.html#aa3b980d488c7729118f8f8f032fdb40b":[5,0,28,22,21]
 };

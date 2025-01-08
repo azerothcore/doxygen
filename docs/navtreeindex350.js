@@ -1,7 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2242,0,3],
-"de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,722],
 "de/d28/classboss__thorim__gauntlet__npcs.html#a2a71153ed2a9091de6668ab0b6f7674f":[6,0,722,2],
 "de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,722,1],
 "de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3473],
@@ -249,5 +247,7 @@ var NAVTREEINDEX350 =
 "de/d30/SpellMgr_8h.html#a729c75c0a1016cc9e4d93d87f6b894bc":[7,0,0,0,1,2,41,9,47],
 "de/d30/SpellMgr_8h.html#a7c0cdd053514c40a2feec0fec57fcbfb":[7,0,0,0,1,2,41,9,54],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136a":[7,0,0,0,1,2,41,9,58],
-"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83":[7,0,0,0,1,2,41,9,58,0]
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83":[7,0,0,0,1,2,41,9,58,0],
+"de/d30/SpellMgr_8h.html#a8376fb57333e49309455eb6a5389938d":[7,0,0,0,1,2,41,9,25],
+"de/d30/SpellMgr_8h.html#a83a1058767f1f4fd343208f7b9d74645":[7,0,0,0,1,2,41,9,53]
 };

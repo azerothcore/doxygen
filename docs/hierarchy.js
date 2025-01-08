@@ -5920,8 +5920,6 @@ var hierarchy =
     [ "WorldSession", "d8/d74/classWorldSession.html", null ],
     [ "WorldState", "d3/da9/classWorldState.html", null ],
     [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html", null ],
-    [ "WorldTriggerDrumPred", "d5/dc1/structWorldTriggerDrumPred.html", null ],
-    [ "WorldTriggerHutPred", "dd/d18/structWorldTriggerHutPred.html", null ],
     [ "Acore::WorldWorldTextBuilder", "d0/d23/classAcore_1_1WorldWorldTextBuilder.html", null ],
     [ "WretchedGhoulCleaner", "de/dbb/classWretchedGhoulCleaner.html", null ],
     [ "Yells", "dd/dbd/structYells.html", null ],

@@ -190,8 +190,8 @@ var NAVTREEINDEX288 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2717,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2717,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[6,0,2717,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,878],
@@ -248,6 +248,6 @@ var NAVTREEINDEX288 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,5,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2]
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2]
 };

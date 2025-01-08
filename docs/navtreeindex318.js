@@ -1,7 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"dd/d3b/structGameObjectTemplate.html#a354e13e46bcce767d7850bf82d4a17b6":[6,0,1070,44],
-"dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[6,0,1070,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[6,0,1070,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[6,0,1070,19],
 "dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[6,0,1070,23],
@@ -181,14 +179,14 @@ var NAVTREEINDEX318 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,28,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,441,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX318 =
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[6,0,1920,0,1],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1920,0,3],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[6,0,1920,0,6],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[6,0,1920,0,2]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[6,0,1920,0,2],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[6,0,1920,0,0],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[6,0,1920,0,5]
 };

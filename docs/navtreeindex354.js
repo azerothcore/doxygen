@@ -1,7 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"de/d48/classnpc__algalon__worm__hole.html#a72516a4824fa61a331caff46d2784c64":[6,0,1548,1],
-"de/d48/classnpc__algalon__worm__hole.html#aac6ff3a41f08f5a11baa78c0526a3556":[6,0,1548,2],
 "de/d48/classspell__halion__twilight__mending.html":[6,0,3008],
 "de/d48/classspell__halion__twilight__mending.html#a3016c31c072d6417bbe47c2891059718":[6,0,3008,2],
 "de/d48/classspell__halion__twilight__mending.html#ad13b3924815ac3da7902c8292a760943":[6,0,3008,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX354 =
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
-"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8]
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,12,8,3],
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a1a67be461f59a69ebedf21ac42895f28":[7,0,0,0,1,3,5,7,12,8,6]
 };

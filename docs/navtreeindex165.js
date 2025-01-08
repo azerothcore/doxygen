@@ -1,7 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3705,0],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3a496539a6adddca91724d9cc77f81c3":[6,0,3705,1],
 "d6/d2b/AccountScript_8h.html":[7,0,0,0,1,2,38,0,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3f":[7,0,0,0,1,2,38,0,1,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5":[7,0,0,0,1,2,38,0,1,1,6],
@@ -133,8 +131,8 @@ var NAVTREEINDEX165 =
 "d6/d33/classAuraScript_1_1EffectBase.html#a8c300ca68c3ff6f74b230835c566fd60":[6,0,270,7,1],
 "d6/d33/classAuraScript_1_1EffectBase.html#ab02f9f344e2f32ad59b35993d5c8f819":[6,0,270,7,0],
 "d6/d33/classAuraScript_1_1EffectBase.html#ab6f5b2a7ec1183206110eac9a21a7de5":[6,0,270,7,2],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,5,0,4],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,8,0,4],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,5,0,4],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[6,0,0,5,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[5,0,1,8,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[6,0,0,5,0,4,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX165 =
 "d6/d38/classAchievementGlobalMgr.html#a4bb815985daebe61703846c095f48adb":[6,0,114,0],
 "d6/d38/classAchievementGlobalMgr.html#a4ee4ce63632cc67d7d87d44c6ab4cfef":[6,0,114,1],
 "d6/d38/classAchievementGlobalMgr.html#a5057e0b9b55f64716949c2b3e443a705":[6,0,114,35],
-"d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[6,0,114,16]
+"d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[6,0,114,16],
+"d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[6,0,114,3],
+"d6/d38/classAchievementGlobalMgr.html#a5999c47a86e58fd7b5437da05385d59a":[6,0,114,34]
 };

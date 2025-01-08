@@ -1,7 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3828],
-"d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,3828,3],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#a66dcb98f38ed6b040928543015f59c9b":[6,0,3828,1],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[6,0,3828,2],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#ae5749a43f37f0eb3f049d8804845f61e":[6,0,3828,0],
@@ -160,8 +158,8 @@ var NAVTREEINDEX228 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3179,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,9,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,9,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX228 =
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2010,2],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2010,1],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3411],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#a27549f3cacc1732bbc1e61209e0f4905":[6,0,3411,1]
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#a27549f3cacc1732bbc1e61209e0f4905":[6,0,3411,1],
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3411,0],
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3411,3]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX364 =
 {
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a723f43bebeb9fb471451eab79c9b2f8b":[7,0,0,0,1,3,5,18,47,19],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a7f0014c0bccdc769cc63e8f1e7304282":[7,0,0,0,1,3,5,18,47,31],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a80a9c48f6a731f2ff48f0b7ae687fec9":[7,0,0,0,1,3,5,18,47,28],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a827336e7de5ddacb68914026d6f0be49":[7,0,0,0,1,3,5,18,47,27],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a84af0617fbeb30df550bc4e30aa4111c":[7,0,0,0,1,3,5,18,47,32],
@@ -164,15 +162,15 @@ var NAVTREEINDEX364 =
 "de/dac/structnpc__scarlet__cannon_1_1npc__scarlet__cannonAI.html#a26720b34088b8063544f8c5db3b8d67c":[6,0,2057,0,0],
 "de/dac/structnpc__scarlet__cannon_1_1npc__scarlet__cannonAI.html#a71241dfc9b3ebe1f664d0adf03439c41":[6,0,2057,0,1],
 "de/dac/structnpc__scarlet__cannon_1_1npc__scarlet__cannonAI.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5":[6,0,2057,0,3],
-"de/dad/classWorldUpdateTime.html":[6,0,4216],
-"de/dad/classWorldUpdateTime.html#a3ae299cfba6adcbb4e38af40313428fc":[6,0,4216,3],
-"de/dad/classWorldUpdateTime.html#a5486477b0a604f0207336e423f42c2b1":[6,0,4216,6],
-"de/dad/classWorldUpdateTime.html#a6b8a8d1b61f9ecec591165fa334972fc":[6,0,4216,7],
-"de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[6,0,4216,5],
-"de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[6,0,4216,2],
-"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[6,0,4216,0],
-"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[6,0,4216,1],
-"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[6,0,4216,4],
+"de/dad/classWorldUpdateTime.html":[6,0,4214],
+"de/dad/classWorldUpdateTime.html#a3ae299cfba6adcbb4e38af40313428fc":[6,0,4214,3],
+"de/dad/classWorldUpdateTime.html#a5486477b0a604f0207336e423f42c2b1":[6,0,4214,6],
+"de/dad/classWorldUpdateTime.html#a6b8a8d1b61f9ecec591165fa334972fc":[6,0,4214,7],
+"de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[6,0,4214,5],
+"de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[6,0,4214,2],
+"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[6,0,4214,0],
+"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[6,0,4214,1],
+"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[6,0,4214,4],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,165],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[6,0,165,1],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[6,0,165,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX364 =
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a2376d12f379f75f5decfdc133c18403e":[6,0,3521,0],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#aa70bfd2e614f9bf68ad2972990f0f7f5":[6,0,3521,1],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[6,0,3521,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[6,0,1262,0]
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[6,0,1262,0],
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a1ef3dc88400345998d03f3c993b9a181":[6,0,1262,0,2],
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a3a2776b83272d81de9ddcb0c90ac881c":[6,0,1262,0,3]
 };

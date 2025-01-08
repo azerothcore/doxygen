@@ -1,7 +1,5 @@
 var NAVTREEINDEX188 =
 {
-"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3259,2],
-"d7/d53/structboss__cthun.html":[6,0,398],
 "d7/d53/structboss__cthun.html#a04ae38b67d358f1d34820b855aab3869":[6,0,398,1],
 "d7/d53/structboss__cthun.html#a05bab8427cd4b4bfa50aee450e423f98":[6,0,398,4],
 "d7/d53/structboss__cthun.html#a139de83ae488c40d40a4587509cd197d":[6,0,398,8],
@@ -82,13 +80,13 @@ var NAVTREEINDEX188 =
 "d7/d58/classboss__sjonnir.html#a8bb9b10778a2dedcde3d4ced44bc13f1":[6,0,685,1],
 "d7/d58/cs__wp_8cpp.html":[7,0,0,0,1,3,0,46],
 "d7/d58/cs__wp_8cpp.html#afc6bb2ca7e993730a57350142f7e6fd5":[7,0,0,0,1,3,0,46,1],
-"d7/d59/structZoneDynamicInfo.html":[6,0,4221],
-"d7/d59/structZoneDynamicInfo.html#a0542940fdcc273a4ff8a8e8bb6a40b1f":[6,0,4221,0],
-"d7/d59/structZoneDynamicInfo.html#a0be8cff9a7e74add7bba8af3be993e48":[6,0,4221,1],
-"d7/d59/structZoneDynamicInfo.html#a0d43acd5539d3449b7c36ee88518346e":[6,0,4221,3],
-"d7/d59/structZoneDynamicInfo.html#a3ab0244b34c30cc7d929b418da31d7d3":[6,0,4221,2],
-"d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9":[6,0,4221,5],
-"d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[6,0,4221,4],
+"d7/d59/structZoneDynamicInfo.html":[6,0,4219],
+"d7/d59/structZoneDynamicInfo.html#a0542940fdcc273a4ff8a8e8bb6a40b1f":[6,0,4219,0],
+"d7/d59/structZoneDynamicInfo.html#a0be8cff9a7e74add7bba8af3be993e48":[6,0,4219,1],
+"d7/d59/structZoneDynamicInfo.html#a0d43acd5539d3449b7c36ee88518346e":[6,0,4219,3],
+"d7/d59/structZoneDynamicInfo.html#a3ab0244b34c30cc7d929b418da31d7d3":[6,0,4219,2],
+"d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9":[6,0,4219,5],
+"d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[6,0,4219,4],
 "d7/d5a/classachievement__arena__by__type.html":[6,0,30],
 "d7/d5a/classachievement__arena__by__type.html#a2042c808304e8ddf1849820491b9f1a3":[6,0,30,0],
 "d7/d5a/classachievement__arena__by__type.html#a5c38e5fef5eaf3d037864ba2aa80584a":[6,0,30,2],
@@ -188,8 +186,8 @@ var NAVTREEINDEX188 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1014,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,31,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,11,1,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,31,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,11,1,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,31,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,31,1,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,11,1,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,23],
@@ -249,5 +247,7 @@ var NAVTREEINDEX188 =
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7":[7,0,0,0,1,3,2,23,4,5],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4":[7,0,0,0,1,3,2,23,4,4],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1":[7,0,0,0,1,3,2,23,4,6],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8":[7,0,0,0,1,3,2,23,4,3]
+"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8":[7,0,0,0,1,3,2,23,4,3],
+"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d":[7,0,0,0,1,3,2,23,4,2],
+"d7/d61/zone__elwynn__forest_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[7,0,0,0,1,3,2,23,10]
 };

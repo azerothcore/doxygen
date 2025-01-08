@@ -1,7 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[5,0,1,129,5],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[6,0,0,117,5],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[5,0,1,129,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[6,0,0,117,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[6,0,0,117,1],
@@ -68,14 +66,14 @@ var NAVTREEINDEX226 =
 "d9/d01/TargetedMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,17],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[5,0,1,7,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[6,0,0,4,8],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,1,7,8,3],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,1,7,8,0],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,1,7,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,1,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[6,0,0,4,8,1],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[6,0,0,4,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,1,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,1,7,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[6,0,0,4,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,1,7,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[6,0,1212],
@@ -249,5 +247,7 @@ var NAVTREEINDEX226 =
 "d9/d02/boss__illidan_8cpp.html#ab3ed40d8833244a4ba8a3ef14f3a4909a76c837b7bd4bea046b1441258337669e":[7,0,0,0,1,3,7,1,2,27,0],
 "d9/d02/boss__illidan_8cpp.html#ab3ed40d8833244a4ba8a3ef14f3a4909ab86240079fad951ebfc2f5c4dbfa7d70":[7,0,0,0,1,3,7,1,2,27,1],
 "d9/d02/boss__illidan_8cpp.html#ab9c54ea132c297bc804894bbb7480246":[7,0,0,0,1,3,7,1,2,35],
-"d9/d02/boss__illidan_8cpp.html#abc88523ef1c16bd74183ad49db872ac1":[7,0,0,0,1,3,7,1,2,30]
+"d9/d02/boss__illidan_8cpp.html#abc88523ef1c16bd74183ad49db872ac1":[7,0,0,0,1,3,7,1,2,30],
+"d9/d02/boss__illidan_8cpp.html#ac83669f2b02a90b0d19838cd7161d54a":[7,0,0,0,1,3,7,1,2,28],
+"d9/d02/boss__illidan_8cpp.html#af150be08e836b76defd7b796d87dd9f9":[7,0,0,0,1,3,7,1,2,36]
 };

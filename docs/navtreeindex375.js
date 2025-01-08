@@ -1,7 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,8,2,6,7],
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58":[7,0,0,0,1,3,5,8,2,6,7,0],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ca72db3e8475eeba86052fae23a2505":[7,0,0,0,1,3,5,8,2,6,7,10],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ce72b4c6c6a26113697fa23efa44b48":[7,0,0,0,1,3,5,8,2,6,7,6],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca359710ec72bcbf796e2b6a78e30b725c":[7,0,0,0,1,3,5,8,2,6,7,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX375 =
 "df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[6,0,1538,1],
 "df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[6,0,1538,2],
 "df/d39/boss__ouro_8cpp.html":[7,0,0,0,1,3,4,9,4],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3]
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35abb62aff4efebc4fcd4f4da02ca764":[7,0,0,0,1,3,4,9,4,3,3],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a43a5db19698d40a2bcdb442f73be7fcb":[7,0,0,0,1,3,4,9,4,3,4]
 };
