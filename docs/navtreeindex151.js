@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"d5/dad/classspell__dred__raptor__call.html#a84fb6e08a523f375cd8bc43e9cc73eab":[6,0,2759,0],
 "d5/dad/classspell__dred__raptor__call.html#accbf8f40b1ab123a2be81a514c94c836":[6,0,2759,1],
 "d5/dae/classnpc__rivern__frostwind.html":[6,0,2046],
 "d5/dae/classnpc__rivern__frostwind.html#a0675c120fc28b26c7ea3c35f8d3f2a64":[6,0,2046,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX151 =
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a5df92ebc5bd4ee8d06b17e31381be8c4":[6,0,553,0,8],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a8fd3938c0e91a0773eacba9fbdb4a60e":[6,0,553,0,3],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ac99064d95afff73680df1fe96749665a":[6,0,553,0,1],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#aca5ecad3993753902e211479c84e5ad6":[6,0,553,0,14],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad2fa9b4d11b158e3fadf0c304be6b431":[6,0,553,0,5]
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#aca5ecad3993753902e211479c84e5ad6":[6,0,553,0,14]
 };

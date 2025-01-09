@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298ca048669fd4b3699b0d26cd70148e02152":[7,0,0,0,1,3,2,15,5,9,14],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298ca09164a78bcee622df510d7c96c49d384":[7,0,0,0,1,3,2,15,5,9,18],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e7b39ade041ee3421630ef241db1676":[7,0,0,0,1,3,2,15,5,9,9],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298ca15e4b8d572f9c259d3828db00df59f0d":[7,0,0,0,1,3,2,15,5,9,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d86/boss__malygos_8cpp.html#a0547f54f150711278abfdeddb369a2d7a1715ac619ad5eb4d51d9804b3731f182":[7,0,0,0,1,3,5,8,0,0,27,4],
 "db/d86/boss__malygos_8cpp.html#a0547f54f150711278abfdeddb369a2d7a30998385b447fc5d68ac0f64405b12f5":[7,0,0,0,1,3,5,8,0,0,27,1],
 "db/d86/boss__malygos_8cpp.html#a0547f54f150711278abfdeddb369a2d7a34218250f2bd9db5446ec17d5bf46fb9":[7,0,0,0,1,3,5,8,0,0,27,0],
-"db/d86/boss__malygos_8cpp.html#a0547f54f150711278abfdeddb369a2d7ae874fcf40af8002ed6089c6a80b2a17e":[7,0,0,0,1,3,5,8,0,0,27,3],
-"db/d86/boss__malygos_8cpp.html#a363d7f950daf5b56e90980dea282857b":[7,0,0,0,1,3,5,8,0,0,32]
+"db/d86/boss__malygos_8cpp.html#a0547f54f150711278abfdeddb369a2d7ae874fcf40af8002ed6089c6a80b2a17e":[7,0,0,0,1,3,5,8,0,0,27,3]
 };

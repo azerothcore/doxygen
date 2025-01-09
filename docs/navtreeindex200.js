@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/db7/structAuctionSearcherResponse.html#a824393dda7676d4a5268d2d7d2e9d17b":[6,0,255,1],
 "d7/db7/structAuctionSearcherResponse.html#ad266cc5bd8e3637534055a7564047f87":[6,0,255,0],
 "d7/db8/classgm__commandscript.html":[6,0,1088],
 "d7/db8/classgm__commandscript.html#a15a18b1179a602da3eeba7e8247fbbac":[6,0,1088,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0":[7,0,0,0,1,2,1,1,21],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f":[7,0,0,0,1,2,1,1,21,22],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c":[7,0,0,0,1,2,1,1,21,11],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5":[7,0,0,0,1,2,1,1,21,13],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6":[7,0,0,0,1,2,1,1,21,10]
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5":[7,0,0,0,1,2,1,1,21,13]
 };

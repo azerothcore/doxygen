@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d7/d46/classAuraEffect.html#aaf478059af657f8126f4979f94b60159":[6,0,267,43],
 "d7/d46/classAuraEffect.html#ab0b3261b6c7f5ae45348d0113d24f1ed":[6,0,267,7],
 "d7/d46/classAuraEffect.html#ab144ae6a14c8fd95ff6b868b64cd7c12":[6,0,267,113],
 "d7/d46/classAuraEffect.html#ab17ae5878087d1047e5163db7e95564b":[6,0,267,67],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d53/classspell__kaelthas__flame__strike.html#a17e8be131f01b2434b18740b20a08d6e":[6,0,3259,3],
 "d7/d53/classspell__kaelthas__flame__strike.html#aba7e1a0b87607386649bb842b5058c3e":[6,0,3259,0],
 "d7/d53/classspell__kaelthas__flame__strike.html#ac2f7a4532f62fb49f54c60b79aceb2e8":[6,0,3259,1],
-"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3259,2],
-"d7/d53/structboss__cthun.html":[6,0,398]
+"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3259,2]
 };

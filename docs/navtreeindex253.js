@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"da/d76/namespaceDisableMgr.html":[5,0,12],
 "da/d76/namespaceDisableMgr.html#a2f9fa5dadf6f2da5f01651d37d996377":[5,0,12,0],
 "da/d76/namespaceDisableMgr.html#a38b182e1836b2197303b2809006f5148":[5,0,12,3],
 "da/d76/namespaceDisableMgr.html#a6673bbc719c96febfc86a4220a988ed0":[5,0,12,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4ebda281ee2226b66d0eb3ed00649440":[7,0,0,0,1,3,5,6,10,78,31],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51a006d7a5839598f6cc905b79e70a11":[7,0,0,0,1,3,5,6,10,78,36],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a568f8c5f16c01d67bc7311e89b9c12d0":[7,0,0,0,1,3,5,6,10,78,29],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[7,0,0,0,1,3,5,6,10,78,62],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6273288116f824c35ae0343fd0161964":[7,0,0,0,1,3,5,6,10,78,46]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[7,0,0,0,1,3,5,6,10,78,62]
 };

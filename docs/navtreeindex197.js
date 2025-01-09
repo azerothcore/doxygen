@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaebd000e21313d0fa0ef9c5e984c45e93":[7,0,0,0,1,2,28,2,0,916],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaebd9da0a0c17a432513e1bcca23730b2":[7,0,0,0,1,2,28,2,0,811],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaebf2c482725e77a6f0834a67e6593e6f":[7,0,0,0,1,2,28,2,0,763],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaec022401ccbf2beea080f8f2fbabff6f":[7,0,0,0,1,2,28,2,0,239],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "d7/da7/classWorldScript.html#affadabcae325631b2683ef458c6d13ee":[6,0,4207,1],
 "d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html":[6,0,3557],
 "d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a03d59b6859286dbe460b348df6de63d7":[6,0,3557,3],
-"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a367bd26543382ad71668fbe4f524d823":[6,0,3557,0],
-"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a71cde3f81fdb253d8e93a19be104e9db":[6,0,3557,1]
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a367bd26543382ad71668fbe4f524d823":[6,0,3557,0]
 };

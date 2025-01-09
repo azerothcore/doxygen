@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"d5/da2/classnpc__risen__guardian.html#a472274c69abe912f5781c60911204eb5":[6,0,2044,1],
 "d5/da2/classnpc__risen__guardian.html#a568f57a442adcd64c8c3d2e4d5df729f":[6,0,2044,2],
 "d5/da2/classspell__mark__of__kazrogal__aura.html":[6,0,3358],
 "d5/da2/classspell__mark__of__kazrogal__aura.html#a4ed63f32afe3831d7fb08333ff1d379f":[6,0,3358,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "d5/dad/classnpc__xt002__boombot.html#a27237e7a60042ed7163b19d80537c1b3":[6,0,2252,2],
 "d5/dad/classnpc__xt002__boombot.html#a6e2f7dd0d26d140a5b73b0f66ea434af":[6,0,2252,1],
 "d5/dad/classspell__dred__raptor__call.html":[6,0,2759],
-"d5/dad/classspell__dred__raptor__call.html#a1805904d5e50bbf5aeccf37d2cadd09e":[6,0,2759,2],
-"d5/dad/classspell__dred__raptor__call.html#a84fb6e08a523f375cd8bc43e9cc73eab":[6,0,2759,0]
+"d5/dad/classspell__dred__raptor__call.html#a1805904d5e50bbf5aeccf37d2cadd09e":[6,0,2759,2]
 };

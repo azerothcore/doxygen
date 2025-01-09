@@ -1,5 +1,6 @@
 var NAVTREEINDEX210 =
 {
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,3838],
 "d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,3838,0],
 "d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,3838,2],
 "d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,3838,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67":[6,0,2275,35],
 "d8/d4b/classObject.html#ae6d7d519332f6d82f25286070ed351b1":[6,0,2275,100],
 "d8/d4b/classObject.html#ae8f5483f459e46687bd01e6f9977afd3":[6,0,2275,0],
-"d8/d4b/classObject.html#aebc9abb8dc78d8184bfbc5cd2a23eff0":[6,0,2275,50],
-"d8/d4b/classObject.html#aec7f6a30d16673ee2c768b13f9e815a5":[6,0,2275,19]
+"d8/d4b/classObject.html#aebc9abb8dc78d8184bfbc5cd2a23eff0":[6,0,2275,50]
 };

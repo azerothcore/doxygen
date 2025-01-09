@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a63e56670fd0c304844c7982db2e05a61":[7,0,0,0,1,3,3,2,15,9],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a7022262ba0bb179c4dc521faadba0a22":[7,0,0,0,1,3,3,2,15,16],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a765ff62c59c012914cb8fb97ede60c0a":[7,0,0,0,1,3,3,2,15,1],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a9ba4875c28a5ffe47126f7d38e9a59dc":[7,0,0,0,1,3,3,2,15,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d84/classspell__sha__healing__stream__totem.html":[6,0,3703],
 "dd/d84/classspell__sha__healing__stream__totem.html#a00d36b914f5fd0466ae775e1fc95aa4f":[6,0,3703,0],
 "dd/d84/classspell__sha__healing__stream__totem.html#a1b879ab84b8d6227ee5b2cccccd38bc2":[6,0,3703,2],
-"dd/d84/classspell__sha__healing__stream__totem.html#a86a5c2b8ff373af7e98645b8b380145c":[6,0,3703,1],
-"dd/d84/classspell__sha__healing__stream__totem.html#aa7d437146a96bb40c1a66a453e3e4339":[6,0,3703,3]
+"dd/d84/classspell__sha__healing__stream__totem.html#a86a5c2b8ff373af7e98645b8b380145c":[6,0,3703,1]
 };

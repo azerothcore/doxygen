@@ -1,5 +1,6 @@
 var NAVTREEINDEX203 =
 {
+"d7/dd6/classPlayerMenu.html#acc519746fa45290cde3967dc5f604158":[6,0,2377,4],
 "d7/dd6/classPlayerMenu.html#afc3d8fc9f8fd2f20ea0068b101d90f91":[6,0,2377,12],
 "d7/dd6/classPlayerMenu.html#afe2b7121b08000226986315ab2da007c":[6,0,2377,5],
 "d7/dd7/classnpc__doctor.html":[6,0,1714],
@@ -248,6 +249,5 @@ var NAVTREEINDEX203 =
 "d7/def/classspell__the__lich__king__vile__spirits__visual.html":[6,0,3821],
 "d7/def/classspell__the__lich__king__vile__spirits__visual.html#a3c84b7044f448a5596e18f72e7b2f11a":[6,0,3821,1],
 "d7/def/classspell__the__lich__king__vile__spirits__visual.html#aafab48e58a2eb18c286f71fa907e9bc8":[6,0,3821,0],
-"d7/def/classspell__the__lich__king__vile__spirits__visual.html#ad3900c969dfb05a61ebc750eb3425bc0":[6,0,3821,2],
-"d7/df0/classevent__commandscript.html":[6,0,1007]
+"d7/def/classspell__the__lich__king__vile__spirits__visual.html#ad3900c969dfb05a61ebc750eb3425bc0":[6,0,3821,2]
 };

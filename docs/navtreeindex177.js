@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/dbf/classTaskScheduler_1_1Task.html#add2dd72f389df2168012eb70160f6eb3":[6,0,4051,1,12],
 "d6/dbf/classTaskScheduler_1_1Task.html#af7f962055b0324a6fedcdd91d9d375dd":[6,0,4051,1,6],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html":[6,0,3550],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[6,0,3550,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/dcc/classBag.html#a88bd93c16e7b35f299b8b013835d646e":[6,0,283,7],
 "d6/dcc/classBag.html#aac5b94be9c36a9fca542bca3e32260c1":[6,0,283,1],
 "d6/dcc/classBag.html#ab4967fad85ab0291fef6bda19a0e7a67":[6,0,283,10],
-"d6/dcc/classBag.html#abc8317240a86c65cc2e7152681e9a5e1":[6,0,283,16],
-"d6/dcc/classBag.html#ac1f55a19c69604914ab2f7576d3be016":[6,0,283,5]
+"d6/dcc/classBag.html#abc8317240a86c65cc2e7152681e9a5e1":[6,0,283,16]
 };

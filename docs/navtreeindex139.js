@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"d4/df7/classConfigMgr.html#a951307027c22fea8c88c3d0e78232413":[6,0,879,12],
 "d4/df7/classConfigMgr.html#aa5a8c891e53c6d76cf63d0a40fd799e1":[6,0,879,21],
 "d4/df7/classConfigMgr.html#ab44a44b2613fc787f60937835bf4878f":[6,0,879,15],
 "d4/df7/classConfigMgr.html#ac2d5c14f32b1d8dfb3e8736f5aef5e7e":[6,0,879,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[6,0,0,16,6],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[5,0,1,28,6],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[5,0,1,28,1],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[6,0,0,16,1],
-"d5/d09/classPetAura.html":[6,0,2351]
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[6,0,0,16,1]
 };

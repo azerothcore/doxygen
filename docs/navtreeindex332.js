@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#a5bfc63041f8eef0296a858a61f8b33d9":[7,0,0,0,1,3,5,19,38],
 "dd/de1/zone__grizzly__hills_8cpp.html#a5bfc63041f8eef0296a858a61f8b33d9a2cd59bde3ee8f8a17d86748ee11aea19":[7,0,0,0,1,3,5,19,38,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#a5bfc63041f8eef0296a858a61f8b33d9a584bfd73f3d6a8efe6ffe50988247013":[7,0,0,0,1,3,5,19,38,2],
 "dd/de1/zone__grizzly__hills_8cpp.html#a5bfc63041f8eef0296a858a61f8b33d9a8043534c36bc75f78406ec9e8a8b8516":[7,0,0,0,1,3,5,19,38,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/def/classspell__q11065__wrangle__some__aether__rays.html#ada9b1c9e159956cb2a79610dbdb3eaf9":[6,0,3551,0],
 "dd/df0/classnpc__attracted__reef__bull.html":[6,0,1585],
 "dd/df0/classnpc__attracted__reef__bull.html#acd0ade9e7ce5492c11be0b3f2696418e":[6,0,1585,1],
-"dd/df0/classnpc__attracted__reef__bull.html#af705e2768cd41c955af7f944c670ac85":[6,0,1585,2],
-"dd/df0/classnpc__rookery__hatcher.html":[6,0,2050]
+"dd/df0/classnpc__attracted__reef__bull.html#af705e2768cd41c955af7f944c670ac85":[6,0,1585,2]
 };

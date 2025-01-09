@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957":[7,0,0,0,1,2,38,0,7,2,2],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53":[7,0,0,0,1,2,38,0,7,2,11],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323":[7,0,0,0,1,2,38,0,7,2,10],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5":[7,0,0,0,1,2,38,0,7,2,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da37b7695030ef8ce337f5aea38b3c92ef":[7,0,0,0,1,3,5,4,0,1,7,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da50c25068d3490fb2b31176c6be60f61c":[7,0,0,0,1,3,5,4,0,1,7,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da6351d79ac2a9fbf63cca0fee0dcb670e":[7,0,0,0,1,3,5,4,0,1,7,3],
-"db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa3cdca173c6ef467405d6b051b353a03":[7,0,0,0,1,3,5,4,0,1,7,5],
-"db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa6464091ba95df048d18c93e4cc19816":[7,0,0,0,1,3,5,4,0,1,7,9]
+"db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa3cdca173c6ef467405d6b051b353a03":[7,0,0,0,1,3,5,4,0,1,7,5]
 };

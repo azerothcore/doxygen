@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[6,0,2164,0,2],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[6,0,2164,0,8],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[6,0,2164,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[6,0,2164,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7":[6,0,1911,0,5],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abab2cfe84f4bb83fea3b35202a957bb5":[6,0,1911,0,0],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abebcdcb102f8d338ae0b792708940cd7":[6,0,1911,0,4],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70":[6,0,1911,0,7],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#adbef78d8c908bfbce6ea506c55fb6922":[6,0,1911,0,1]
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70":[6,0,1911,0,7]
 };

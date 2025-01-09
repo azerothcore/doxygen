@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/dcc/classBag.html#ac1f55a19c69604914ab2f7576d3be016":[6,0,283,5],
 "d6/dcc/classBag.html#ad2fdcedba1dec947bfddfcd55a4d92a0":[6,0,283,19],
 "d6/dcc/classBag.html#ad5f4da5a3bc645d29c15651190a41d5e":[6,0,283,8],
 "d6/dcc/classBag.html#ad8c47ab6e44c8dd8713d4af4b07a5df4":[6,0,283,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dd9/classspell__pri__item__greater__heal__refund.html":[6,0,3480],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#a1ee84242579d4cd81d6313f78354729b":[6,0,3480,2],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#a787639c45505da58aeb2174148ef4f83":[6,0,3480,4],
-"d6/dd9/classspell__pri__item__greater__heal__refund.html#a8f16147f2dfc433458ad32529f7d25d1":[6,0,3480,3],
-"d6/dd9/classspell__pri__item__greater__heal__refund.html#ac6b3ce1ff227a140b77e177198675dbf":[6,0,3480,0]
+"d6/dd9/classspell__pri__item__greater__heal__refund.html#a8f16147f2dfc433458ad32529f7d25d1":[6,0,3480,3]
 };

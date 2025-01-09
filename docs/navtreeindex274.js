@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d67/classLogger.html#a3b1d9dd7bd391ac7bed560918f82a03b":[6,0,1412,8],
 "db/d67/classLogger.html#a79033d763c69dbfb95b1c591f1cc680b":[6,0,1412,0],
 "db/d67/classLogger.html#aa93931f2386ebc6dbf2464f536ed54f9":[6,0,1412,7],
 "db/d67/classLogger.html#aabacae0a84994e5567f9c87829909fdd":[6,0,1412,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fae980b68d340b03cfad82391977b9463b":[7,0,0,0,1,3,9,4,160,1],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fafabdf437cb075a642b7e50bad74234d5":[7,0,0,0,1,3,9,4,160,2],
 "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82":[7,0,0,0,1,3,9,4,157],
-"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a4820d604c73df2f6b7e562490fb7dc3f":[7,0,0,0,1,3,9,4,157,2],
-"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a60458e6a34555aedacd2c698b712e448":[7,0,0,0,1,3,9,4,157,4]
+"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a4820d604c73df2f6b7e562490fb7dc3f":[7,0,0,0,1,3,9,4,157,2]
 };

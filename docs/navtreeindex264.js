@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#acf4ad45c1145c7b0cd6f05c847546005":[6,0,1965,0,5],
 "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#ad154b8027917a1402840ced87aacac7d":[6,0,1965,0,6],
 "da/ddd/classboss__solakar__flamewreath.html":[6,0,694],
 "da/ddd/classboss__solakar__flamewreath.html#a0bd7971406392f15f68828ed217f4d06":[6,0,694,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/de8/trial__of__the__crusader_8h.html#a4251155c1d8b18d099f92d4c188e0e58a61e7612a07cd2908af75af067f639873":[7,0,0,0,1,3,5,2,1,7,5,0],
 "da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0":[7,0,0,0,1,3,5,2,1,7,3],
 "da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0a2594368e698cf4e81db60025c01c1108":[7,0,0,0,1,3,5,2,1,7,3,7],
-"da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0a2e19681299a3ee1e1ba042a3e37f38e5":[7,0,0,0,1,3,5,2,1,7,3,8],
-"da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0a43285e21c1e8fa7d6f9bf3a19a37b7dd":[7,0,0,0,1,3,5,2,1,7,3,3]
+"da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0a2e19681299a3ee1e1ba042a3e37f38e5":[7,0,0,0,1,3,5,2,1,7,3,8]
 };

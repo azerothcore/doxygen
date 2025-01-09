@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"d7/db0/classMap.html#aacf7286dae69a90d212fdef84a7686b1":[6,0,1447,43],
 "d7/db0/classMap.html#aad4660ab136a74469c5cf790d932391f":[6,0,1447,120],
 "d7/db0/classMap.html#aae3a929aefb05046ef304ffba10aae71":[6,0,1447,125],
 "d7/db0/classMap.html#aae6ae9e8b45a9da8e8808a3c91806c72":[6,0,1447,31],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "d7/db7/classboss__urok__doomhowl.html":[6,0,739],
 "d7/db7/classboss__urok__doomhowl.html#a0ca9cea9919648baa5ff7db2d5a5b530":[6,0,739,1],
 "d7/db7/classboss__urok__doomhowl.html#ac77756af77191e02df49161da0ace268":[6,0,739,2],
-"d7/db7/structAuctionSearcherResponse.html":[6,0,255],
-"d7/db7/structAuctionSearcherResponse.html#a824393dda7676d4a5268d2d7d2e9d17b":[6,0,255,1]
+"d7/db7/structAuctionSearcherResponse.html":[6,0,255]
 };

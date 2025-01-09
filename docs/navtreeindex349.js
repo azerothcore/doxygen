@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html":[5,0,28,11],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[5,0,28,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a7ce79406da48e245a0baa2fdd23622b9":[6,0,2242,0,1],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a8ddd21047a857facc767a9edc0ec5408":[6,0,2242,0,2],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#aaeca9e73520701ce28f2cc9d1483cc6b":[6,0,2242,0,0],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2242,0,3],
-"de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,722]
+"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2242,0,3]
 };

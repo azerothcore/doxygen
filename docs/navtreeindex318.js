@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[6,0,1070,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[6,0,1070,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[6,0,1070,19],
 "dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[6,0,1070,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1920,0,3],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[6,0,1920,0,6],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[6,0,1920,0,2],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[6,0,1920,0,0],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[6,0,1920,0,5]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[6,0,1920,0,0]
 };

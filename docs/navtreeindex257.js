@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d97/Define_8h.html#ae4e9017a1f7c4a30d42240994c73707d":[7,0,0,0,0,21,8],
 "da/d97/Define_8h.html#ae8a7a9ab4a727295d96a5645d592be1a":[7,0,0,0,0,21,1],
 "da/d97/Define_8h.html#aecf4e3680a32207d17f62a3426731878":[7,0,0,0,0,21,15],
 "da/d97/classWorldPackets_1_1CompactArray.html":[5,0,31,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[6,0,1204,1],
 "da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[6,0,1204,4],
 "da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[6,0,1204,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[6,0,683,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[6,0,683,0,6]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[6,0,683,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#aab72405691cab78ac0f224cf637f7570":[6,0,689,0,5],
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#ac0513a8e187b3d68fd320b124930ac8b":[6,0,689,0,1],
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#ae48e23b61d9cafbdc9a7811361ebcd11":[6,0,689,0,11],
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#af963eda18854869f3a73cb22f48b0230":[6,0,689,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dd6/classPlayerMenu.html#a873a174b6ef46140ff8d8acf0c683ffb":[6,0,2377,16],
 "d7/dd6/classPlayerMenu.html#a950ed922c39040db8a1fe16588c7c65a":[6,0,2377,17],
 "d7/dd6/classPlayerMenu.html#aa55a3dbe879c3d0166ba7a8deda0d6e0":[6,0,2377,20],
-"d7/dd6/classPlayerMenu.html#ab85bfb274849b70e5e49d9dfdd9ea414":[6,0,2377,6],
-"d7/dd6/classPlayerMenu.html#acc519746fa45290cde3967dc5f604158":[6,0,2377,4]
+"d7/dd6/classPlayerMenu.html#ab85bfb274849b70e5e49d9dfdd9ea414":[6,0,2377,6]
 };

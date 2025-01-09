@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"da/d49/classticket__commandscript.html#afc1a25ed1d1a966d5afaa6dbd1070fda":[6,0,4068,19],
 "da/d4b/GuardAI_8h.html":[7,0,0,0,1,2,3,0,5],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,116],
 "da/d4b/classAcore_1_1SignalHandler.html":[6,0,0,104],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#af36ccbeaec6bc0157cb8cac6d705c3c3":[6,0,1609,0,12],
 "da/d53/WorldSession_8h.html":[4,1,2],
 "da/d53/boss__eregos_8cpp.html":[7,0,0,0,1,3,5,8,2,1],
-"da/d53/boss__eregos_8cpp.html#a08343cea04d45054f3c55b70c2c4f77a":[7,0,0,0,1,3,5,8,2,1,2],
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,2,1,5]
+"da/d53/boss__eregos_8cpp.html#a08343cea04d45054f3c55b70c2c4f77a":[7,0,0,0,1,3,5,8,2,1,2]
 };

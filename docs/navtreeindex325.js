@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/da0/structnpc__thorims__hammer_1_1npc__thorims__hammerAI.html":[6,0,2131,0],
 "dd/da0/structnpc__thorims__hammer_1_1npc__thorims__hammerAI.html#a218bd28d18a2c2f0aef6906619437209":[6,0,2131,0,4],
 "dd/da0/structnpc__thorims__hammer_1_1npc__thorims__hammerAI.html#a4e01a61d09c11647e06c3547d6fa91fa":[6,0,2131,0,2],
 "dd/da0/structnpc__thorims__hammer_1_1npc__thorims__hammerAI.html#a57975d0dc00c86946e547ba43c7151ec":[6,0,2131,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3856,1],
 "dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3856,0],
 "dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3856,2],
-"dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5],
-"dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[7,0,0,0,1,3,5,4,2,5,38]
+"dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5]
 };

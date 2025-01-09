@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd8/structAchievementCriteriaData.html#adebbc6d9212e12ba060ff9968d6e9364":[6,0,109,6],
 "d4/dd8/structAchievementCriteriaData.html#ae0c5209dfb2cf9e19b7702e18a4ba3f6":[6,0,109,29],
 "d4/dd8/structAchievementCriteriaData.html#aeb569026e19e7a097601d7a916136912":[6,0,109,7],
 "d4/dd8/structAchievementCriteriaData.html#af417eb1063ef86212128bdc05c6f278a":[6,0,109,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "d4/de2/classlfg__commandscript.html#acdf12aff45f16904df5724ab158e3b97":[6,0,1385,5],
 "d4/de2/classspell__warr__charge.html":[6,0,3912],
 "d4/de2/classspell__warr__charge.html#a0b107442c0b76a018cc019f776c0b785":[6,0,3912,3],
-"d4/de2/classspell__warr__charge.html#a3af91500357eb127f813334bdf538dbd":[6,0,3912,0],
-"d4/de2/classspell__warr__charge.html#add4e4d484008d1e1cf63e36c6b6e9757":[6,0,3912,2]
+"d4/de2/classspell__warr__charge.html#a3af91500357eb127f813334bdf538dbd":[6,0,3912,0]
 };

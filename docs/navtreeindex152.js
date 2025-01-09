@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad2fa9b4d11b158e3fadf0c304be6b431":[6,0,553,0,5],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad81fa9c3449ba347de09b1519be6d408":[6,0,553,0,9],
 "d5/db3/structnpc__amanishi__tempest.html":[6,0,1551],
 "d5/db3/structnpc__amanishi__tempest.html#a09ba0ce51ad981578adcc1950c89d5ae":[6,0,1551,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d5/dbd/classnpc__ulduar__hodir__priest.html#a30d7f1b68f9a1d10bc47288b81fc517c":[6,0,2188,1],
 "d5/dbd/classnpc__unworthy__initiate__anchor.html":[6,0,2208],
 "d5/dbd/classnpc__unworthy__initiate__anchor.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1":[6,0,2208,1],
-"d5/dbd/classnpc__unworthy__initiate__anchor.html#ab012983661d20a3ffa4f58136bd2d808":[6,0,2208,2],
-"d5/dbe/OutdoorPvPGH_8cpp.html":[7,0,0,0,1,3,6,3]
+"d5/dbd/classnpc__unworthy__initiate__anchor.html#ab012983661d20a3ffa4f58136bd2d808":[6,0,2208,2]
 };

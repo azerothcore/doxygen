@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d8d/DBCStores_8cpp.html#ac0b0889df5fc27090df33faec1aaaac1":[7,0,0,0,1,2,14,0,129],
 "dd/d8d/DBCStores_8cpp.html#ac3f802857fc494bacd323fe2c545305c":[7,0,0,0,1,2,14,0,40],
 "dd/d8d/DBCStores_8cpp.html#ac51f98eee67b65e0bc5243b7ee5c9880":[7,0,0,0,1,2,14,0,153],
 "dd/d8d/DBCStores_8cpp.html#ac7a40de63fcb4e2490e0952bb2335865":[7,0,0,0,1,2,14,0,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html":[6,0,2268],
 "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html#a7f331c38ec82d2c69bce4b1f861527a0":[6,0,2268,1],
 "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html#aa95eceea94521947bd443805c8ddb52d":[6,0,2268,0],
-"dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html#aff34165955ba93e1fcd2b9731894d871":[6,0,2268,2],
-"dd/da0/structnpc__thorims__hammer_1_1npc__thorims__hammerAI.html":[6,0,2131,0]
+"dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html#aff34165955ba93e1fcd2b9731894d871":[6,0,2268,2]
 };

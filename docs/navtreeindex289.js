@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,5,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4017],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/de6/structTargetInfo.html#aebeb2f67bf8646770570e5564fb01d4d":[6,0,4049,0],
 "db/de6/structTargetInfo.html#afb839b2b409a61e4d63de03dbce2abcb":[6,0,4049,3],
 "db/de6/struct__Damage.html":[6,0,12],
-"db/de6/struct__Damage.html#acbab962cbc25ad032c97216feac281bb":[6,0,12,1],
-"db/de6/struct__Damage.html#aecdcc73f2cb30ef5cc149607e01bbe34":[6,0,12,2]
+"db/de6/struct__Damage.html#acbab962cbc25ad032c97216feac281bb":[6,0,12,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d66/classWMOGroup.html#a647259dd122cf8e424f1704ebab524f9":[6,0,4191,13],
 "dc/d66/classWMOGroup.html#a6575b9c6e9e1277d4eaef123a319b6f5":[6,0,4191,31],
 "dc/d66/classWMOGroup.html#a752352742955934b15d6882fa7e0e96a":[6,0,4191,6],
 "dc/d66/classWMOGroup.html#a76169b5fa7a0babdc3060018fce02136":[6,0,4191,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d79/classSocialMgr.html#a6b4968dc0a09a48c2b58e40d47da665d":[6,0,2531,8],
 "dc/d79/classSocialMgr.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9":[6,0,2531,6],
 "dc/d79/classSocialMgr.html#a8824263f601c107ef84e487ca1b71bff":[6,0,2531,9],
-"dc/d79/classSocialMgr.html#a9acd86505e66f2e6de9f8d30b36b94e6":[6,0,2531,7],
-"dc/d79/classSocialMgr.html#aef859e6c923a6ba4bb7ac0049f17463d":[6,0,2531,2]
+"dc/d79/classSocialMgr.html#a9acd86505e66f2e6de9f8d30b36b94e6":[6,0,2531,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/da9/structboss__illidari__council__memberAI.html#a135c8e8f4113b1c9c05e5b26e61e639c":[6,0,532,4],
 "dc/da9/structboss__illidari__council__memberAI.html#a203310b84d71a24145b1c39e7faff182":[6,0,532,2],
 "dc/da9/structboss__illidari__council__memberAI.html#a5c43bfb6e1781a83bfad36668ac724f2":[6,0,532,5],
 "dc/da9/structboss__illidari__council__memberAI.html#a8e75d47f56d14d9b66d10b74c3479839":[6,0,532,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a":[7,0,0,0,1,3,7,2,2,1,1,6],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,2,1,1,2],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58":[7,0,0,0,1,3,7,2,2,1,1,5],
-"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba":[7,0,0,0,1,3,7,2,2,1,1,0],
-"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1":[7,0,0,0,1,3,7,2,2,1,1,9]
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba":[7,0,0,0,1,3,7,2,2,1,1,0]
 };

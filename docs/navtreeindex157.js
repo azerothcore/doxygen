@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a142ededff85d517c08744bdafd644c34":[6,0,485,0,6],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a52e6d8bcf979d216aff536e8fae3bf01":[6,0,485,0,5],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a5f9191609c7ff0715ba186f8ae28262b":[6,0,485,0,1],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a6bfd75b1d57d8002cab075bbd5a12612":[6,0,485,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca2bf62e7cbf26cf4001117c125b0ddd7b":[7,0,0,0,1,3,7,2,0,0,9,15],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d43a5f909680b46e6dcce759c5fb3b0":[7,0,0,0,1,3,7,2,0,0,9,11],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f77b86573e182a73eb21e988f326035":[7,0,0,0,1,3,7,2,0,0,9,5],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca5301c404ce8822455bd65b78893b8f8e":[7,0,0,0,1,3,7,2,0,0,9,1],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca73b0724093ccf1b7960c55c236c1502c":[7,0,0,0,1,3,7,2,0,0,9,12]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca5301c404ce8822455bd65b78893b8f8e":[7,0,0,0,1,3,7,2,0,0,9,1]
 };

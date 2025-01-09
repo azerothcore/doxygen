@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"d4/de2/classspell__warr__charge.html#add4e4d484008d1e1cf63e36c6b6e9757":[6,0,3912,2],
 "d4/de2/classspell__warr__charge.html#ae34ff5e6027efecc34fa770690df5887":[6,0,3912,1],
 "d4/de3/classnpc__terenas__menethil.html":[6,0,2121],
 "d4/de3/classnpc__terenas__menethil.html#a6b6850598c582e3d44c13275302fd32d":[6,0,2121,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "d4/df7/classConfigMgr.html#a711be8eda4077d967a3677bd138998ac":[6,0,879,9],
 "d4/df7/classConfigMgr.html#a775439020c2e5577206c2559bbb2b042":[6,0,879,11],
 "d4/df7/classConfigMgr.html#a809bc22f24f6330edac8f95bbdc1be2e":[6,0,879,1],
-"d4/df7/classConfigMgr.html#a824a06c1dc274c92c33d1f5681994be0":[6,0,879,4],
-"d4/df7/classConfigMgr.html#a951307027c22fea8c88c3d0e78232413":[6,0,879,12]
+"d4/df7/classConfigMgr.html#a824a06c1dc274c92c33d1f5681994be0":[6,0,879,4]
 };

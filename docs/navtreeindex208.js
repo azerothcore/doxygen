@@ -1,5 +1,6 @@
 var NAVTREEINDEX208 =
 {
+"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf1e382929ce37d0beeb97fd31eaed5e2":[7,0,0,0,1,3,10,12,1,6],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936":[7,0,0,0,1,3,10,12,1,0],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee":[7,0,0,0,1,3,10,12,1,9],
 "d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5a":[7,0,0,0,1,3,10,12,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX208 =
 "d8/d2e/classnpc__tyrion__spybot.html":[6,0,2172],
 "d8/d2e/classnpc__tyrion__spybot.html#a7e0eed1b51ffe1df2d8ae2ad37f26528":[6,0,2172,1],
 "d8/d2e/classnpc__tyrion__spybot.html#af81b70437703edc8d99fe24249891dd6":[6,0,2172,2],
-"d8/d2f/structnpc__pet__gen__wind__rider__cub.html":[6,0,1987],
-"d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a17e1f3155b9a9864459e48d1cd11c6a6":[6,0,1987,0]
+"d8/d2f/structnpc__pet__gen__wind__rider__cub.html":[6,0,1987]
 };

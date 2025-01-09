@@ -1,5 +1,6 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0d/classnpc__vics__flying__machine.html#ac0f1e83a9f53f1e38e81804f0332e3fd":[6,0,2226,1],
 "d6/d0f/classspell__dk__anti__magic__zone.html":[6,0,2697],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a2419bff95bad81a0f63c4988f14eb3f9":[6,0,2697,4],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a279a025cac490ee3647f47584b59179f":[6,0,2697,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cab8729d6d745266edf3105fd1c3b874b4":[7,0,0,0,1,3,5,6,11,39,3],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cac24d72e4f2fc5bab8d916ca224218cbf":[7,0,0,0,1,3,5,6,11,39,30],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cace7489efdb30119233059090f253a9f6":[7,0,0,0,1,3,5,6,11,39,12],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad1388697854144d327b8463933f39e4d":[7,0,0,0,1,3,5,6,11,39,18],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad7f8ac76e48c4c06ab845b8ce8c3fa81":[7,0,0,0,1,3,5,6,11,39,34]
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad1388697854144d327b8463933f39e4d":[7,0,0,0,1,3,5,6,11,39,18]
 };

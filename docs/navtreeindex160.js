@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#aefd6a2fe7b0e7dbcbf829cd4ddd4ed95":[6,0,2285,277],
 "d5/dfb/classObjectMgr.html#af000e37db50763c582dada4ab0a7125b":[6,0,2285,106],
 "d5/dfb/classObjectMgr.html#af01a7bc82c2a69865a014475124ecf76":[6,0,2285,52],
 "d5/dfb/classObjectMgr.html#af04c04e526c0910a99ec75ac30140c38":[6,0,2285,291],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d6/d09/classspell__herald__volzaj__insanity.html#aad6f7f1d29414475b5e678e7bd94737f":[6,0,3022,3],
 "d6/d09/classspell__herald__volzaj__insanity.html#ae90184fd34636b33755b732ec82fd52f":[6,0,3022,4],
 "d6/d0a/classspell__gen__black__magic__enchant.html":[6,0,2862],
-"d6/d0a/classspell__gen__black__magic__enchant.html#a9fff895957dfedb5d975e4a8e9588aa9":[6,0,2862,1],
-"d6/d0a/classspell__gen__black__magic__enchant.html#ab0746e7fa614f09708f89ed3ef93fca9":[6,0,2862,2]
+"d6/d0a/classspell__gen__black__magic__enchant.html#a9fff895957dfedb5d975e4a8e9588aa9":[6,0,2862,1]
 };

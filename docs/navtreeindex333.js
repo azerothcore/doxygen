@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/df0/classnpc__rookery__hatcher.html":[6,0,2050],
 "dd/df0/classnpc__rookery__hatcher.html#a76e27f10dd58ec15a8e8f9d579f1c176":[6,0,2050,2],
 "dd/df0/classnpc__rookery__hatcher.html#aa385f8a93384d4db9b92eecd1b152ce0":[6,0,2050,1],
 "dd/df0/structnpc__toxic__slime.html":[6,0,2165],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "de/d01/classIpLocationStore.html#af7b7a5a4fc65c6af966be27f7bf7e07d":[6,0,1345,5],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html":[6,0,1681,0],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0698a3297da669fd5440743be200c378":[6,0,1681,0,15],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0a26fdecc1748b96d0e7598a80449dc9":[6,0,1681,0,1],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0b59ffcc00aeb1b9ac23ddc0b1504054":[6,0,1681,0,0]
+"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0a26fdecc1748b96d0e7598a80449dc9":[6,0,1681,0,1]
 };

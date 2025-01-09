@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a58ef19b8c08aee764bdd55e480d9d750":[6,0,1983,0],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a6c0d3181b913c5022325f66586f66bfa":[6,0,1983,2],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a72bfd4cf6c734d1f1070a1560131667d":[6,0,1983,1],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html#ae0a6d4850a0a0da4bd04227b11bae9e4":[6,0,1983,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[7,0,0,0,1,3,0,0,1],
 "d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2022],
-"d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2022,3],
-"d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2022,4]
+"d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2022,3]
 };

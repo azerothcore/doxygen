@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d79/classSocialMgr.html#aef859e6c923a6ba4bb7ac0049f17463d":[6,0,2531,2],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html":[6,0,1664,0],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a32c351c44121629bccea71f2fd27cf9c":[6,0,1664,0,9],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a62e33501656b57698b19d8fec44afa37":[6,0,1664,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aae4c9556d5cc172144fa280ca820226d":[5,0,1,8,0,39],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#ab72843264c39ce4d9aa3d4d8fbd83fc4":[5,0,1,8,0,38],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b":[5,0,1,8,0,32],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,1,8,0,40],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[6,0,412,0]
+"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,1,8,0,40]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d9/d02/boss__illidan_8cpp.html#af150be08e836b76defd7b796d87dd9f9":[7,0,0,0,1,3,7,1,2,36],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938":[7,0,0,0,1,3,7,1,2,22],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938a0315d213c052997815c958a4f69eb266":[7,0,0,0,1,3,7,1,2,22,1],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938a263c162aae93606284eca334fc56af79":[7,0,0,0,1,3,7,1,2,22,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d9/d17/classnpc__firework.html":[6,0,1748],
 "d9/d17/classnpc__firework.html#a9732f7b6eb8b3638bb6280ff7a71bcf7":[6,0,1748,2],
 "d9/d17/classnpc__firework.html#a9efb6ed098e4eb3e24c30393cb5cb45d":[6,0,1748,1],
-"d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3828],
-"d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,3828,3]
+"d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3828]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX206 =
 {
+"d7/dff/structDynamicTreeIntersectionCallback.html":[6,0,981],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a1805d508be79660d90f991e4453c2c9a":[6,0,981,3],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a52e7470145db9cc4c2369024fbf7bbb8":[6,0,981,5],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a616d15c3cce00574d604591bc8af4140":[6,0,981,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX206 =
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1894,0],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[6,0,1894,0,1],
-"d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1894,0,2],
-"d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#ab33eeac6aab8e18778fc7d4ffe5038f1":[6,0,1894,0,0]
+"d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1894,0,2]
 };

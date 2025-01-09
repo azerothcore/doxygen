@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a17e1f3155b9a9864459e48d1cd11c6a6":[6,0,1987,0],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a39fcfc5f5d9a630180713512db778b32":[6,0,1987,2],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a534d122522d553e106e6c7729d6c55db":[6,0,1987,1],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a57124f8172bd15a5e6c708edff41dc2f":[6,0,1987,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d38/classspell__sapphiron__frost__explosion.html#a4d5340e7b2e3326ff36b4d61d1faeaa9":[6,0,3674,0],
 "d8/d38/classspell__sapphiron__frost__explosion.html#a883e383928a9b0ad0aeccf7afee4f15e":[6,0,3674,2],
 "d8/d38/structadt__MFBO_1_1plane.html":[6,0,136,0],
-"d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,136,0,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,3838]
+"d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,136,0,0]
 };

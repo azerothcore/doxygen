@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"d4/dbc/structboss__thekal.html#a684bf1fc087970a41cf79959ba57b31b":[6,0,718,7],
 "d4/dbc/structboss__thekal.html#a79bc19df134cbeb17f0941865461bd0d":[6,0,718,5],
 "d4/dbc/structboss__thekal.html#a91e8fd9ba169d5096fd06471f8bd16e9":[6,0,718,0],
 "d4/dbc/structboss__thekal.html#a95aeb81565f5863eec67106ae1118ac4":[6,0,718,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "d4/dc6/classnpc__korkron__or__wildhammer.html":[6,0,1883],
 "d4/dc6/classnpc__korkron__or__wildhammer.html#a2b216f372b3681b4c96a711568c2a93b":[6,0,1883,2],
 "d4/dc6/classnpc__korkron__or__wildhammer.html#a3d2252865e0e540dd76aaf87ff62a83c":[6,0,1883,0],
-"d4/dc6/classnpc__korkron__or__wildhammer.html#a598dada110aff99a3c36f3037dcf8bf4":[6,0,1883,3],
-"d4/dc6/classnpc__korkron__or__wildhammer.html#a5f1a79c10b5363ee24b3941c54ff10d7":[6,0,1883,5]
+"d4/dc6/classnpc__korkron__or__wildhammer.html#a598dada110aff99a3c36f3037dcf8bf4":[6,0,1883,3]
 };

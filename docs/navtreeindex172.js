@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d77/GuildPackets_8h.html":[7,0,0,0,1,2,39,0,12],
 "d6/d77/GuildPackets_8h.html#abd3549ec2eebc439058205da8ae53eb3":[7,0,0,0,1,2,39,0,12,56],
 "d6/d77/GuildPackets_8h.html#ae8a45300d819957eb5ed8c659180c750":[7,0,0,0,1,2,39,0,12,55],
 "d6/d78/classnpc__auriaya__feral__defender.html":[6,0,1587],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca6bf10bde97c42f5baa04cf747e323677":[7,0,0,0,1,3,5,21,32,12],
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca6dfb4874a898790c86691547bd4a093c":[7,0,0,0,1,3,5,21,32,3],
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7a5754df1c909426c787a3cfa6ec9fa5":[7,0,0,0,1,3,5,21,32,31],
-"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7c1284c62d53ebef70ee3aaf2edf2aa6":[7,0,0,0,1,3,5,21,32,26],
-"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7e30fc1f1581d6245ca16ebe68fa12c7":[7,0,0,0,1,3,5,21,32,16]
+"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7c1284c62d53ebef70ee3aaf2edf2aa6":[7,0,0,0,1,3,5,21,32,26]
 };

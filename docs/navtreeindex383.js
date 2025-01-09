@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"df/d99/classspell__q12096__q12092__dummy.html#a45f80e0436f93a597deb4653852df6a1":[6,0,3569,2],
 "df/d99/classspell__q12096__q12092__dummy.html#a9d863ad1d44a9d5dc2b212ef0c414626":[6,0,3569,1],
 "df/d99/classspell__q12096__q12092__dummy.html#ad13fdade1fb7455485bfd68687de53c5":[6,0,3569,3],
 "df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce":[6,0,3569,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84ab37c540bea5bf254528fb30d46bc31d7":[7,0,0,0,1,3,2,27,13,23],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84ac19bd9ecf29de8bb0333e8249f300a66":[7,0,0,0,1,3,2,27,13,24],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84acb340c9de3b567d6e1f1e9e5b90ec90d":[7,0,0,0,1,3,2,27,13,20],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84ad2023dc14536e596fb220bf8e356f82d":[7,0,0,0,1,3,2,27,13,19],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84af9f733c27da94408e28395568d2a2b9c":[7,0,0,0,1,3,2,27,13,14]
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84ad2023dc14536e596fb220bf8e356f82d":[7,0,0,0,1,3,2,27,13,19]
 };

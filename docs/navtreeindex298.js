@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html":[6,0,7,9],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a133d1d0172fde0564a58a004cb354ed0":[6,0,7,9,7],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a133d1d0172fde0564a58a004cb354ed0":[5,0,22,9,7],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a17beca23a7a7eaa298debb5e9638daca":[5,0,22,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[6,0,0,21,6],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,1,33,6],
 "dc/d33/structPendingSpellCastRequest.html":[6,0,2344],
-"dc/d33/structPendingSpellCastRequest.html#a28f12287e339fd0c6cc9ea8c89c26113":[6,0,2344,5],
-"dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4":[6,0,2344,2]
+"dc/d33/structPendingSpellCastRequest.html#a28f12287e339fd0c6cc9ea8c89c26113":[6,0,2344,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a45cabc5fc139ebe5f9ab99ba04442ee4":[7,0,0,0,1,2,5,3,24,4],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d":[7,0,0,0,1,2,5,3,24,11],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef":[7,0,0,0,1,2,5,3,24,6],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e":[7,0,0,0,1,2,5,3,24,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490ae2cadfe21e44b1b9042c7112fc39f3bf":[7,0,0,0,1,3,2,4,14,9,9],
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490ae99e91e38703869b6b3333d01b2a2f56":[7,0,0,0,1,3,2,4,14,9,5],
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af22c758bdd3b20ff00899ddf7afcdd99":[7,0,0,0,1,3,2,4,14,9,11],
-"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af4c704eaa3da4b08b0af73caa86f7411":[7,0,0,0,1,3,2,4,14,9,12],
-"da/d76/namespaceDisableMgr.html":[5,0,12]
+"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af4c704eaa3da4b08b0af73caa86f7411":[7,0,0,0,1,3,2,4,14,9,12]
 };

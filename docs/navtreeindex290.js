@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/de6/struct__Damage.html#aecdcc73f2cb30ef5cc149607e01bbe34":[6,0,12,2],
 "db/de6/struct__Damage.html#afc0bd7960848f6434c182a3fadc1e256":[6,0,12,0],
 "db/de7/TOTP_8cpp.html":[7,0,0,0,0,3,18],
 "db/de7/TOTP_8cpp.html#abcaccdfb09251b1b2856cc0c48c64eda":[7,0,0,0,0,3,18,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/df1/classspell__warl__life__tap.html#acec7437ba80e4ae491020448a36e4559":[6,0,3896,2],
 "db/df1/structboss__terestian__illhoof.html":[6,0,708],
 "db/df1/structboss__terestian__illhoof.html#a0007e35a38efce5edada2f47a9bb89c6":[6,0,708,7],
-"db/df1/structboss__terestian__illhoof.html#a2f25021cfbc9e466d73c13de8116d8f1":[6,0,708,6],
-"db/df1/structboss__terestian__illhoof.html#a5750bf4f12ac01216335a926f885e136":[6,0,708,0]
+"db/df1/structboss__terestian__illhoof.html#a2f25021cfbc9e466d73c13de8116d8f1":[6,0,708,6]
 };

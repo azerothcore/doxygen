@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[6,0,3687,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[6,0,3687,1],
 "db/db4/classSQLQueryHolder.html":[6,0,4025],
 "db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4025,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd":[6,0,2480,33],
 "db/dc8/structScriptedAI.html#a1625d27c60b9833cc9bdebffb80833cb":[6,0,2480,39],
 "db/dc8/structScriptedAI.html#a1ca3b73dcbf8a3e8b35c334a97a8dcf9":[6,0,2480,26],
-"db/dc8/structScriptedAI.html#a24d913e15199a26fe8e57a368ed9112a":[6,0,2480,54],
-"db/dc8/structScriptedAI.html#a24f0336fca3874e1f167e6b28289ff1d":[6,0,2480,21]
+"db/dc8/structScriptedAI.html#a24d913e15199a26fe8e57a368ed9112a":[6,0,2480,54]
 };

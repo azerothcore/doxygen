@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3143,1],
 "dd/db2/classGenericCreatureScript.html":[6,0,1077],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[6,0,1077,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[6,0,1077,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html":[6,0,3385],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[6,0,3385,0],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[6,0,3385,1],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[6,0,3385,2],
-"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html":[6,0,1932,0]
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[6,0,3385,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dd/d26/structtf__tower__world__state.html":[6,0,4061],
 "dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[6,0,4061,1],
 "dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[6,0,4061,2],
 "dd/d26/structtf__tower__world__state.html#af01321c0fa24acf26086f7dccb326640":[6,0,4061,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d27/structSmartAction.html#aaac11b3eeab7ac3a5c2835c2e26b6881":[6,0,2520,61],
 "dd/d27/structSmartAction.html#aaad593afa1579a42ce280b5c0cbcafe3":[6,0,2520,242],
 "dd/d27/structSmartAction.html#aabcc40f86b3c0539b3dd0156df9682a7":[6,0,2520,154],
-"dd/d27/structSmartAction.html#aadb3028d566569c5cc358cfff45c9b22":[6,0,2520,275],
-"dd/d27/structSmartAction.html#aae8564780e7c2d14da8e7d491a23667c":[6,0,2520,264]
+"dd/d27/structSmartAction.html#aadb3028d566569c5cc358cfff45c9b22":[6,0,2520,275]
 };

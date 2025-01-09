@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d97/structTaxiPathNodeEntry.html#a08778d3ef9a9a87fd731b54d5501daab":[6,0,4054,8],
 "dc/d97/structTaxiPathNodeEntry.html#a1ffe17f529066091b18451a1121ce6ac":[6,0,4054,1],
 "dc/d97/structTaxiPathNodeEntry.html#a6257ae486eff937cf12be64f0e850ca6":[6,0,4054,0],
 "dc/d97/structTaxiPathNodeEntry.html#a670a033aaf0ff48676373baf9235d670":[6,0,4054,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/da9/classboss__victor__nefarius.html#a6ea19bde6980cbb4ca627d17cf57ae24":[6,0,754,2],
 "dc/da9/classboss__victor__nefarius.html#a85c529c49a0373a553bc59818fb18f49":[6,0,754,1],
 "dc/da9/structboss__illidari__council__memberAI.html":[6,0,532],
-"dc/da9/structboss__illidari__council__memberAI.html#a1006bbdb6e39b6ceb52037e1b3cdb788":[6,0,532,1],
-"dc/da9/structboss__illidari__council__memberAI.html#a135c8e8f4113b1c9c05e5b26e61e639c":[6,0,532,4]
+"dc/da9/structboss__illidari__council__memberAI.html#a1006bbdb6e39b6ceb52037e1b3cdb788":[6,0,532,1]
 };

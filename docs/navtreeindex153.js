@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"d5/dbe/OutdoorPvPGH_8cpp.html":[7,0,0,0,1,3,6,3],
 "d5/dbe/OutdoorPvPGH_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[7,0,0,0,1,3,6,3,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,104],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[6,0,0,92],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "d5/dc7/structSpellEntry.html#ae2557dda8531ce194843a5cec938d9e7":[6,0,3988,43],
 "d5/dc7/structSpellEntry.html#ae5ff025c22c5ab702e908f975b3f7edf":[6,0,3988,67],
 "d5/dc7/structSpellEntry.html#ae6f0f05fb4bce3d739c202f26844e2e1":[6,0,3988,54],
-"d5/dc7/structSpellEntry.html#aeba13f7b70101e67850ece210e61a196":[6,0,3988,65],
-"d5/dc7/structSpellEntry.html#af0bfd5d7047b9fff6dadbeb7e0049837":[6,0,3988,66]
+"d5/dc7/structSpellEntry.html#aeba13f7b70101e67850ece210e61a196":[6,0,3988,65]
 };

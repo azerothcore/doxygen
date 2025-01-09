@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a7f0014c0bccdc769cc63e8f1e7304282":[7,0,0,0,1,3,5,18,47,31],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a80a9c48f6a731f2ff48f0b7ae687fec9":[7,0,0,0,1,3,5,18,47,28],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a827336e7de5ddacb68914026d6f0be49":[7,0,0,0,1,3,5,18,47,27],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a84af0617fbeb30df550bc4e30aa4111c":[7,0,0,0,1,3,5,18,47,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#aa70bfd2e614f9bf68ad2972990f0f7f5":[6,0,3521,1],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[6,0,3521,2],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[6,0,1262,0],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a1ef3dc88400345998d03f3c993b9a181":[6,0,1262,0,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a3a2776b83272d81de9ddcb0c90ac881c":[6,0,1262,0,3]
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a1ef3dc88400345998d03f3c993b9a181":[6,0,1262,0,2]
 };

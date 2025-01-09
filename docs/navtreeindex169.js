@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26":[7,0,0,0,1,3,2,9,0,11,4],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc":[7,0,0,0,1,3,2,9,0,11,2],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203":[7,0,0,0,1,3,2,9,0,11,10],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,2,9,0,11,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#a0208fbae8e6c46d0671107530279c50c":[6,0,2025,0,2],
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#aa31baac9ce3c4c951f93917b88390797":[6,0,2025,0,1],
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#ad354ccbe97b12f8df1186de4bf52bfcc":[6,0,2025,0,0],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html":[7,0,0,0,1,3,2,1,1,8],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a191e88b101ff3e6db86a2b5b93feb9a5":[7,0,0,0,1,3,2,1,1,8,8]
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html":[7,0,0,0,1,3,2,1,1,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d79/classCreatureAI.html#ae99cf5a9b542173bf08aa21de2319a51":[6,0,898,45],
 "d5/d79/classCreatureAI.html#aea867029296aaa7739a5d46c4294105f":[6,0,898,14],
 "d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819":[6,0,898,62],
 "d5/d79/classCreatureAI.html#afa92eeb50af35d0c7ab49c90509d0a57":[6,0,898,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a56e0821bb6ae7b6cf482a6b16894e53b":[7,0,0,0,1,3,4,9,0,6,3],
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88e97536616442f7ddda59ad6763283e":[7,0,0,0,1,3,4,9,0,6,1],
 "d5/d85/boss__bug__trio_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acf2aea2187e0ab101767dfcafba6d735":[7,0,0,0,1,3,4,9,0,6,2],
-"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,0,7],
-"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,9,0,7,2]
+"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,0,7]
 };

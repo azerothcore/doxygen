@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"d4/daa/classspell__oculus__rider__aura.html#a9f66217f4785c8240c4b074bbf04b96e":[6,0,3419,1],
 "d4/daa/classspell__oculus__rider__aura.html#aa94b30468b2c853c0d8b86658a43dee4":[6,0,3419,2],
 "d4/dab/classMMAP_1_1MapBuilder.html":[5,0,21,2],
 "d4/dab/classMMAP_1_1MapBuilder.html":[6,0,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "d4/dbc/structboss__thekal.html":[6,0,718],
 "d4/dbc/structboss__thekal.html#a0f84ad2f224fe29fc4ddde3258200e10":[6,0,718,13],
 "d4/dbc/structboss__thekal.html#a4b5e7dae10900a197d047b6ea32c33ed":[6,0,718,10],
-"d4/dbc/structboss__thekal.html#a586805c5f8d20a35055cf12a3c9f673f":[6,0,718,9],
-"d4/dbc/structboss__thekal.html#a684bf1fc087970a41cf79959ba57b31b":[6,0,718,7]
+"d4/dbc/structboss__thekal.html#a586805c5f8d20a35055cf12a3c9f673f":[6,0,718,9]
 };

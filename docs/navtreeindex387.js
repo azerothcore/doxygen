@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#adbef78d8c908bfbce6ea506c55fb6922":[6,0,1911,0,1],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#afe55f91acd8c47a758b8d08bd07d763f":[6,0,1911,0,3],
 "df/dba/classnpc__ulduar__hodir__mage.html":[6,0,2187],
 "df/dba/classnpc__ulduar__hodir__mage.html#abcbe0337b2a83b6eb0a64f7465d7f79a":[6,0,2187,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac458fc9a331dc7edfdc764215b1926e8":[6,0,1577,0,9],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[6,0,1577,0,10],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[6,0,1577,0,6],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1577,0,2],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1577,0,8]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1577,0,2]
 };

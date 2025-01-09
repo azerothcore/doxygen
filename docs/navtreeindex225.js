@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/df2/classspell__oculus__touch__the__nightmare.html":[6,0,3424],
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a231f29ea69a354ddb2963cb4ef9a3f4e":[6,0,3424,2],
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a71b88fbad5acbba47028dd1ff82b4836":[6,0,3424,0],
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a754da297cd5801616e24bf2d802d0b38":[6,0,3424,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa2742bc25a4773a487e9e8ff760644ea":[6,0,0,117,6],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa8af931f3d562aa1c31e774347db2e24":[5,0,1,129,7],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa8af931f3d562aa1c31e774347db2e24":[6,0,0,117,7],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[5,0,1,129,5],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[6,0,0,117,5]
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[5,0,1,129,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dda/WaypointMgr_8h.html#a4022be9e8c89b6ab197c2564c77b52c5":[7,0,0,0,1,2,31,2,1,4],
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,1,2],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[7,0,0,0,1,2,31,2,1,5],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[7,0,0,0,1,2,31,2,1,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2149a4c21e32a6b98b5c52356bce9e0d":[7,0,0,0,1,2,8,0,19,10,3],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea28d751da34358f47b2275f79552f141c":[7,0,0,0,1,2,8,0,19,10,15],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2cf04af92e948da7904271426dbe405f":[7,0,0,0,1,2,8,0,19,10,18],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08":[7,0,0,0,1,2,8,0,19,10,14],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea329adab562700210e7bc1fa2acbc497b":[7,0,0,0,1,2,8,0,19,10,1]
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08":[7,0,0,0,1,2,8,0,19,10,14]
 };

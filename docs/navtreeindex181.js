@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b":[7,0,0,0,1,3,6,12,6,8],
 "d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126":[7,0,0,0,1,3,6,12,5],
 "d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1":[7,0,0,0,1,3,6,12,5,1],
 "d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f":[7,0,0,0,1,3,6,12,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d7/d0a/structB32Impl.html#aacf2a55e180aa5ee475ac76c6af4d47a":[6,0,281,0],
 "d7/d0a/structB32Impl.html#ace6b211be8a36043942f0a1aaee063b1":[6,0,281,3],
 "d7/d0a/structB32Impl.html#af099d69cc636a7ad298ec9e38b2f20d2":[6,0,281,4],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html":[6,0,432,0],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a056aa8fd704d832e83735cf2a1a22888":[6,0,432,0,7]
+"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html":[6,0,432,0]
 };

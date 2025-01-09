@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a94b4d90efc105d4c95e044a523c17619":[7,0,0,0,1,3,5,9,2,9,44,14],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa241d058cdbdb98c303e28c8a15c80a6":[7,0,0,0,1,3,5,9,2,9,44,15],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa70c1763f53085dbdf7702d9ccbcf5ed":[7,0,0,0,1,3,5,9,2,9,44,7],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa7c45f7b8e441dd5e61ec0bb86118e5e":[7,0,0,0,1,3,5,9,2,9,44,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d2e/structboss__entropius.html#ad9da990a540703d38cb45dd2da72c179":[6,0,426,4],
 "dc/d2e/structboss__entropius.html#aed1313073a44bc15f87432a85e6c2d8e":[6,0,426,2],
 "dc/d2e/structboss__entropius.html#afb07fc44fd14b9f78fbc97b2670b8b5e":[6,0,426,3],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html":[5,0,22,9],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html":[6,0,7,9]
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html":[5,0,22,9]
 };

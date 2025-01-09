@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7":[7,0,0,0,1,3,5,7,4,12],
 "d8/db8/boss__gothik_8cpp.html#aee5606dfbe589b8aca39906b99d82b99":[7,0,0,0,1,3,5,7,4,13],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,4,14],
 "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0c617e9f95a3797c617dab880f4ba5eb":[7,0,0,0,1,3,5,7,4,14,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a3076964de32f12d70d41677fb626719b":[6,0,1682,0,7],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a3f4d42544edf6443ed360477abaaba64":[6,0,1682,0,8],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a4b0c5d69a7563b2f4f399a60010378a9":[6,0,1682,0,13],
-"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a56509a3338d5887667f63d1f6a04af98":[6,0,1682,0,9],
-"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a6266a91324717feee94727a0578e9584":[6,0,1682,0,1]
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a56509a3338d5887667f63d1f6a04af98":[6,0,1682,0,9]
 };

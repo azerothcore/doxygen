@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d7/d87/structnpc__snowfall__glade__playmate.html#aa31b472ad55b240faff4bc2c1ee02ebc":[6,0,2085,0],
 "d7/d87/structnpc__snowfall__glade__playmate.html#ac3d736f2cd62289b88940e0a6ddcd957":[6,0,2085,7],
 "d7/d87/structnpc__snowfall__glade__playmate.html#ad9bdbee8ec178b0a6c7ff125dc698279":[6,0,2085,4],
 "d7/d88/AuthHandler_8cpp.html":[7,0,0,0,1,2,22,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d94/structmap__liquidHeader.html#a90f22c454f03ecee6aa1b9f9392e10a0":[6,0,1452,3],
 "d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed":[6,0,1452,8],
 "d7/d94/structmap__liquidHeader.html#ab064dde684394c3aa84f9b151749d524":[6,0,1452,2],
-"d7/d94/structmap__liquidHeader.html#ab1c2612a57fcfce78e10de45dfc1c28d":[6,0,1452,0],
-"d7/d94/structmap__liquidHeader.html#ab2ce1920efaec0a4fc0a81df9d6539e3":[6,0,1452,5]
+"d7/d94/structmap__liquidHeader.html#ab1c2612a57fcfce78e10de45dfc1c28d":[6,0,1452,0]
 };

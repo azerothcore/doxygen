@@ -1,5 +1,6 @@
 var NAVTREEINDEX207 =
 {
+"d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#ab33eeac6aab8e18778fc7d4ffe5038f1":[6,0,1894,0,0],
 "d8/d0f/classElunaScript.html":[6,0,989],
 "d8/d0f/classElunaScript.html#a1b4a815f484b4048f7e1fa7ec5282eef":[6,0,989,0],
 "d8/d0f/classElunaScript.html#a47f8793586dd27dd4eb42eb5379828b0":[6,0,989,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX207 =
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecda607e929a10d88ac2761d12fef6cab706":[7,0,0,0,1,3,10,12,1,8],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecda7fcd9a3142a87856248cbc51a25268ee":[7,0,0,0,1,3,10,12,1,4],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecda882c4c20d663e5bbdb81fc74aacf77c8":[7,0,0,0,1,3,10,12,1,7],
-"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdab1074563852eb0de868ad858b218823c":[7,0,0,0,1,3,10,12,1,2],
-"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf1e382929ce37d0beeb97fd31eaed5e2":[7,0,0,0,1,3,10,12,1,6]
+"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdab1074563852eb0de868ad858b218823c":[7,0,0,0,1,3,10,12,1,2]
 };

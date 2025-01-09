@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6":[7,0,0,0,1,2,1,1,21,10],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda":[7,0,0,0,1,2,1,1,21,23],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1":[7,0,0,0,1,2,1,1,21,6],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1":[7,0,0,0,1,2,1,1,21,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a7dabced72e6cc2191cc29a221967159e":[6,0,689,0,8],
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a93762ced245b700eb6196ea3a96b143c":[6,0,689,0,13],
 "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a9990eed4758e5eaad8a538b09ac7ee4f":[6,0,689,0,10],
-"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#aa4f75b2430f3b95dcc2a06f22f5d9680":[6,0,689,0,9],
-"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#aab72405691cab78ac0f224cf637f7570":[6,0,689,0,5]
+"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#aa4f75b2430f3b95dcc2a06f22f5d9680":[6,0,689,0,9]
 };

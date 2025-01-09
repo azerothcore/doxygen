@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,7,9],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca0c5ee3e020fe7ce2987f78305f9de588":[7,0,0,0,1,3,4,9,7,9,0],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca39f8ade97df636ec291e84ac82f4aa9c":[7,0,0,0,1,3,4,9,7,9,14],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,4,9,7,9,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d69/WorldObjectScript_8cpp.html#a2e5b964820eedff4e7b34c6c79cfca6d":[7,0,0,0,1,2,38,0,90,0],
 "dd/d69/boss__firemaw_8cpp.html":[7,0,0,0,1,3,2,1,2,4],
 "dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,4,3],
-"dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[7,0,0,0,1,3,2,1,2,4,3,2],
-"dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[7,0,0,0,1,3,2,1,2,4,3,0]
+"dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[7,0,0,0,1,3,2,1,2,4,3,2]
 };

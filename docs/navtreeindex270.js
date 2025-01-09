@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca2552e76ecd9869062d18e07c3853fcde":[7,0,0,0,1,3,2,7,0,13,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca6537e5147d1dcdbe6f7dd4e60aed302d":[7,0,0,0,1,3,2,7,0,13,10],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7":[7,0,0,0,1,3,2,7,0,13,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5bd342133be8c2137b831460acc9298ca748c886ad604af3db71d021ecb7f3b52":[7,0,0,0,1,3,2,7,0,13,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d31/structgo__beacon_1_1go__beaconAI.html":[6,0,1098,0],
 "db/d31/structgo__beacon_1_1go__beaconAI.html#a10bd78bf6c2451fe95163eb9083bdf44":[6,0,1098,0,1],
 "db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc":[6,0,1098,0,2],
-"db/d31/structgo__beacon_1_1go__beaconAI.html#a95f0f62d4e34da650c22a7ce796fc85f":[6,0,1098,0,0],
-"db/d31/structnpc__hive__zara__swarmer.html":[6,0,1812]
+"db/d31/structgo__beacon_1_1go__beaconAI.html#a95f0f62d4e34da650c22a7ce796fc85f":[6,0,1098,0,0]
 };

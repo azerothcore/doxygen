@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#aeeb18f0aee11e7f0bbd7e4c7936e8869":[6,0,527,0,4],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#af0096a40fd1337ecf810e54c89deb327":[6,0,527,0,6],
 "da/dcb/classspell__skeram__arcane__explosion.html":[6,0,3747],
 "da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[6,0,3747,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#a58eb77bbfec0279908c3ed9a111c6cce":[6,0,1965,0,8],
 "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#a836f0886846ac3081a05800fffb0aa0b":[6,0,1965,0,7],
 "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#a8c2b70321771af8b668e5f76974f854b":[6,0,1965,0,13],
-"da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#aafcdcb353cdc6f19bebec63a31a0da6d":[6,0,1965,0,9],
-"da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#acf4ad45c1145c7b0cd6f05c847546005":[6,0,1965,0,5]
+"da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html#aafcdcb353cdc6f19bebec63a31a0da6d":[6,0,1965,0,9]
 };

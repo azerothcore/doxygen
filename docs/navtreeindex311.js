@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/de8/classBattlegroundIC.html#a556c4b2d8de07ec3689d6579dc6dd339":[6,0,309,33],
 "dc/de8/classBattlegroundIC.html#a5a508ac96dc9358b488b15b8b799b660":[6,0,309,2],
 "dc/de8/classBattlegroundIC.html#a5bb25b5e577817c39a3466bb42a53db8":[6,0,309,17],
 "dc/de8/classBattlegroundIC.html#a6208616b3ab5d3e47366ff43568d5975":[6,0,309,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
-"dc/df8/structboss__vazruden__the__herald.html":[6,0,746]
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3411,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3411,2],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca764305aa2d6247199b1f1f88caa05a69":[7,0,0,0,1,3,2,12,5,8,4],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca873f08dcf80d86ef98c4e80be381db49":[7,0,0,0,1,3,2,12,5,8,2],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca87e9fa2e283eca2f5256dd90fadf931b":[7,0,0,0,1,3,2,12,5,8,10],
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e595cb4e0ae09f8965cc0671aa82732":[7,0,0,0,1,3,2,12,5,8,14],
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca927da7f75d1a92d2811a34dc3ba5ecb2":[7,0,0,0,1,3,2,12,5,8,1]
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e595cb4e0ae09f8965cc0671aa82732":[7,0,0,0,1,3,2,12,5,8,14]
 };

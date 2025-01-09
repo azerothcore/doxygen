@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[6,0,1920,0,5],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#acd6f45abb93f3f043cd85647405a50f6":[6,0,1920,0,4],
 "dd/d44/classnpc__nerubar__victim.html":[6,0,1946],
 "dd/d44/classnpc__nerubar__victim.html#a4fe80597d3e56776f0f04965fc706097":[6,0,1946,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663c":[7,0,0,0,1,3,4,9,7,8],
 "dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e":[7,0,0,0,1,3,4,9,7,8,0],
 "dd/d58/boss__twinemperors_8cpp.html#a378d5c1c6cef9f24f253a041e207663cac6237de5011c6cf28fa703e10d989e5b":[7,0,0,0,1,3,4,9,7,8,1],
-"dd/d58/boss__twinemperors_8cpp.html#a4b4e073b11b562dca54712d381c284fa":[7,0,0,0,1,3,4,9,7,11],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,7,9]
+"dd/d58/boss__twinemperors_8cpp.html#a4b4e073b11b562dca54712d381c284fa":[7,0,0,0,1,3,4,9,7,11]
 };

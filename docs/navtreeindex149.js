@@ -1,5 +1,6 @@
 var NAVTREEINDEX149 =
 {
+"d5/d92/forge__of__souls_8cpp.html#a87e445f60f4b39a5f42df070e70f150d":[7,0,0,0,1,3,5,4,0,2,8],
 "d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498":[7,0,0,0,1,3,5,4,0,2,6],
 "d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df":[7,0,0,0,1,3,5,4,0,2,6,0],
 "d5/d93/classspell__item__titanium__seal__of__dalaran.html":[6,0,3243],
@@ -248,6 +249,5 @@ var NAVTREEINDEX149 =
 "d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html":[6,0,1286,0],
 "d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html#a8dbe1537ea00412a6fa366891204d645":[6,0,1286,0,1],
 "d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html#ad083ab5aa00902987e18f4e9423a705a":[6,0,1286,0,0],
-"d5/da2/classnpc__risen__guardian.html":[6,0,2044],
-"d5/da2/classnpc__risen__guardian.html#a472274c69abe912f5781c60911204eb5":[6,0,2044,1]
+"d5/da2/classnpc__risen__guardian.html":[6,0,2044]
 };

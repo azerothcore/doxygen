@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d46/Reference_8h.html":[7,0,0,0,0,6,0,0],
 "db/d47/classinstance__temple__of__ahnqiraj.html":[6,0,1315],
 "db/d47/classinstance__temple__of__ahnqiraj.html#a316c5e2cac59f2ee2520fba1b97407e3":[6,0,1315,1],
 "db/d47/classinstance__temple__of__ahnqiraj.html#a9e3060d9f2188f410da8aa3e9526e79d":[6,0,1315,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69":[7,0,0,0,1,3,9,1,37,4],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3":[7,0,0,0,1,3,9,1,37,25],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e":[7,0,0,0,1,3,9,1,37,18],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0":[7,0,0,0,1,3,9,1,37,3],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a":[7,0,0,0,1,3,9,1,37,27]
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0":[7,0,0,0,1,3,9,1,37,3]
 };

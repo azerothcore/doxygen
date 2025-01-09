@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d5/d68/boss__terestian__illhoof_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ad99be33e79d1e3520e5565766389dd29":[7,0,0,0,1,3,2,4,10,3,1],
 "d5/d68/boss__terestian__illhoof_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,10,4],
 "d5/d68/boss__terestian__illhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca0138486c18b8477b168468a65fb54455":[7,0,0,0,1,3,2,4,10,4,1],
 "d5/d68/boss__terestian__illhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca11bf9c07b068cf9e5c5157df20c3b170":[7,0,0,0,1,3,2,4,10,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d79/classCreatureAI.html#ae23cd0abf3ef7c0c7fa43f169d95f258":[6,0,898,46],
 "d5/d79/classCreatureAI.html#ae7d3a9d75687236fcd615a1ac624db59":[6,0,898,12],
 "d5/d79/classCreatureAI.html#ae80b4a2f2107818472619d8586059d66":[6,0,898,30],
-"d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94":[6,0,898,23],
-"d5/d79/classCreatureAI.html#ae99cf5a9b542173bf08aa21de2319a51":[6,0,898,45]
+"d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94":[6,0,898,23]
 };

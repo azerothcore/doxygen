@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"da/d82/classreload__commandscript.html#a2bd9934dde78843a99b04888147ac1b3":[6,0,2453,109],
 "da/d82/classreload__commandscript.html#a2d25c38339213f9bf0099a41d553ee12":[6,0,2453,95],
 "da/d82/classreload__commandscript.html#a2e19d9d690b646ba69472af33af35c1f":[6,0,2453,90],
 "da/d82/classreload__commandscript.html#a2f0de0c132a56dec01a77bed9780d6f3":[6,0,2453,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "da/d8f/classspell__wintergrasp__portal.html#a50c24464dd88717bf78971d679715d7b":[6,0,3945,1],
 "da/d8f/classspell__wintergrasp__portal.html#ab48b37db40865d60d7cda3260ec15ba8":[6,0,3945,2],
 "da/d8f/structboss__bug__trio.html":[6,0,390],
-"da/d8f/structboss__bug__trio.html#a09c60b117f2cb194eeb1a2b13b7e5d37":[6,0,390,7],
-"da/d8f/structboss__bug__trio.html#a121d3abe2854c5b798ee1eebdaea699f":[6,0,390,15]
+"da/d8f/structboss__bug__trio.html#a09c60b117f2cb194eeb1a2b13b7e5d37":[6,0,390,7]
 };

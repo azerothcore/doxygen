@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a75f16f2b028ca341db6e08536be06bfa":[6,0,2210,0,2],
 "d5/d5f/classOutdoorPvPHP.html":[6,0,2318],
 "d5/d5f/classOutdoorPvPHP.html#a117149e3db7fa02fdcfab05a6ff6de18":[6,0,2318,5],
 "d5/d5f/classOutdoorPvPHP.html#a19118d7facc4a745e391491fb7d95421":[6,0,2318,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d68/boss__terestian__illhoof_8cpp.html":[7,0,0,0,1,3,2,4,10],
 "d5/d68/boss__terestian__illhoof_8cpp.html#a182dae5a06e199c8e00f756011206a51":[7,0,0,0,1,3,2,4,10,6],
 "d5/d68/boss__terestian__illhoof_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,10,3],
-"d5/d68/boss__terestian__illhoof_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ac3d96e55b9cafcfdb2460bac7cd3fae1":[7,0,0,0,1,3,2,4,10,3,0],
-"d5/d68/boss__terestian__illhoof_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ad99be33e79d1e3520e5565766389dd29":[7,0,0,0,1,3,2,4,10,3,1]
+"d5/d68/boss__terestian__illhoof_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ac3d96e55b9cafcfdb2460bac7cd3fae1":[7,0,0,0,1,3,2,4,10,3,0]
 };

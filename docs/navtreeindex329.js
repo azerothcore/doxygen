@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1011ead5bf6c9473f1bc7f7a25dfdacd":[7,0,0,0,1,2,38,0,75,1,36],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a11323422d2dacd542888d0ccf7182715":[7,0,0,0,1,2,38,0,75,1,171],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a120d939113cec3067e54f4ecbe3d08cf":[7,0,0,0,1,2,38,0,75,1,95],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a142c0f1770623585749dc2ba07abf8be":[7,0,0,0,1,2,38,0,75,1,85],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,3992,1],
 "dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,3992,2],
 "dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,3992,0],
-"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,3992,3],
-"dd/dcd/structboss__moira__bronzebeardAI.html":[6,0,607]
+"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,3992,3]
 };

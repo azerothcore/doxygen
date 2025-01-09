@@ -1,5 +1,6 @@
 var NAVTREEINDEX366 =
 {
+"de/dc1/underbog_8cpp.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a":[7,0,0,0,1,3,7,2,3,6,4,0],
 "de/dc2/boss__azgalor_8cpp.html":[7,0,0,0,1,3,4,1,0,2],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,2,3],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,1,0,2,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX366 =
 "de/dd7/structnpc__mograine_1_1npc__mograineAI.html#af5430751fc9ae5bad238d163d67cfd11":[6,0,1937,0,0],
 "de/dd8/classInstanceMap.html":[6,0,1334],
 "de/dd8/classInstanceMap.html#a068035508b2effba43d8799cdc476299":[6,0,1334,2],
-"de/dd8/classInstanceMap.html#a0ef50638887402136d92fc045de2dfd6":[6,0,1334,22],
-"de/dd8/classInstanceMap.html#a190a114cdde8646edb34980afbe5920a":[6,0,1334,8]
+"de/dd8/classInstanceMap.html#a0ef50638887402136d92fc045de2dfd6":[6,0,1334,22]
 };

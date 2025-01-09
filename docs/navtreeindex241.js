@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a2b5f97425309d56482a1f287b6d5be69":[6,0,2286,0,2],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#a4ad5a2df36ae9c1cd9130c5efd27af58":[6,0,2286,0,3],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[6,0,2286,0,1],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[6,0,2286,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/df2/classspell__warl__demonic__empowerment.html#a328c1ba6ccd98e25e477a3f784cb47ff":[6,0,3880,0],
 "d9/df2/classspell__warl__demonic__empowerment.html#a3b752f07631223199ed7ac404ed1afed":[6,0,3880,3],
 "d9/df2/classspell__warl__demonic__empowerment.html#aa211032991d8fd11d574cb364533a515":[6,0,3880,1],
-"d9/df2/the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,4],
-"d9/df2/the__black__morass_8cpp.html#a40d83565d4b54b30e895e0b76768246b":[7,0,0,0,1,3,4,1,3,4,7]
+"d9/df2/the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,4]
 };

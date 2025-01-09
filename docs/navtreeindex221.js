@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a6266a91324717feee94727a0578e9584":[6,0,1682,0,1],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a72476d0e2c63d629c2200824cd3cb5a1":[6,0,1682,0,3],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#a9a6a762384bb8ca74a34d30472fa8e3c":[6,0,1682,0,0],
 "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html#aada4f1277fc1f000c27cefcd6011c24d":[6,0,1682,0,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/dd5/instance__gundrak_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,5,6,3],
 "d8/dd5/structClientWardenModule.html":[6,0,868],
 "d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944":[6,0,868,0],
-"d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e":[6,0,868,1],
-"d8/dd5/structClientWardenModule.html#ad100540b5c6722a19c938b134a985aed":[6,0,868,3]
+"d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e":[6,0,868,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22":[7,0,0,0,1,2,20,1,13],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a053bf2b40e15c99b4d87212b6224edf5":[7,0,0,0,1,2,20,1,13,2],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a0828c5fe18a98dcec2e52be5a6faf62a":[7,0,0,0,1,2,20,1,13,14],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a18568d1a780d4ee8bd1261f04789ddec":[7,0,0,0,1,2,20,1,13,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "de/d47/classboss__sulfuron.html#aced001845e4a9bb9f517d45a36f474c7":[6,0,699,2],
 "de/d47/classboss__sulfuron.html#aed72791db02009136592b905cc4f4df3":[6,0,699,1],
 "de/d48/classnpc__algalon__worm__hole.html":[6,0,1548],
-"de/d48/classnpc__algalon__worm__hole.html#a72516a4824fa61a331caff46d2784c64":[6,0,1548,1],
-"de/d48/classnpc__algalon__worm__hole.html#aac6ff3a41f08f5a11baa78c0526a3556":[6,0,1548,2]
+"de/d48/classnpc__algalon__worm__hole.html#a72516a4824fa61a331caff46d2784c64":[6,0,1548,1]
 };

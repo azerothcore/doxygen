@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"da/d8f/structboss__bug__trio.html#a121d3abe2854c5b798ee1eebdaea699f":[6,0,390,15],
 "da/d8f/structboss__bug__trio.html#a26896dd5f3f2e0ca6251bd96f8199e10":[6,0,390,11],
 "da/d8f/structboss__bug__trio.html#a2d4d6a43de7ce16b6cf5b7603fbacd87":[6,0,390,8],
 "da/d8f/structboss__bug__trio.html#a331eb32e0713aee8d5a84ed32c72de12":[6,0,390,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "da/d97/Define_8h.html#abf772f43caa1c9ba44098b6bf2bf355c":[7,0,0,0,0,21,14],
 "da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b":[7,0,0,0,0,21,21],
 "da/d97/Define_8h.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1":[7,0,0,0,0,21,17],
-"da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b":[7,0,0,0,0,21,19],
-"da/d97/Define_8h.html#ae4e9017a1f7c4a30d42240994c73707d":[7,0,0,0,0,21,8]
+"da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b":[7,0,0,0,0,21,19]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/dac/classspell__item__eggnog.html#a2b22be9826db241ecf3f99ff16c309c0":[6,0,3162,2],
 "da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[6,0,3162,1],
 "da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[6,0,3162,3],
 "da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3162,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a745d411fc485892529cb4cc6f06ba3af":[6,0,403,0,16],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a7ca1847b3223c82f7c190546809c49bc":[6,0,403,0,1],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a8244b7b91de9a0413193001f41288f7f":[6,0,403,0,7],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa0abb31ac1a05c4a99e4b8079410867a":[6,0,403,0,12],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa71a73d3804187c6b89566ec3d1cd6ed":[6,0,403,0,4]
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa0abb31ac1a05c4a99e4b8079410867a":[6,0,403,0,12]
 };

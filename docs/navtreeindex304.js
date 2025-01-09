@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[6,0,412,0],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a3a0cd44c30eacac26bcfd1bbe2a18086":[6,0,412,0,4],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a75cbf6a164ab4337f86b600541c563f2":[6,0,412,0,3],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aad8f28b7e45a7897cb758dff90aa46d8":[6,0,412,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[6,0,3899,0],
 "dc/d97/classspell__warl__seduction.html#a7596065e5ffcacf099a5984f5d940c11":[6,0,3899,1],
 "dc/d97/classspell__warl__seduction.html#a8efa76b28dddad68fee132f37791f231":[6,0,3899,2],
-"dc/d97/structTaxiPathNodeEntry.html":[6,0,4054],
-"dc/d97/structTaxiPathNodeEntry.html#a08778d3ef9a9a87fd731b54d5501daab":[6,0,4054,8]
+"dc/d97/structTaxiPathNodeEntry.html":[6,0,4054]
 };

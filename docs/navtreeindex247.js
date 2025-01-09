@@ -1,5 +1,6 @@
 var NAVTREEINDEX247 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aada4a291fd71b7b408ec0ac6543e79b1":[7,0,0,0,1,2,41,0,0,6,177],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aaf02db72f5f8caa2ee902203728b8287":[7,0,0,0,1,2,41,0,0,6,252],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c":[7,0,0,0,1,2,41,0,0,6,123],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aafb43e01791a80d2b2c43be24a1a2137":[7,0,0,0,1,2,41,0,0,6,180],
@@ -248,6 +249,5 @@ var NAVTREEINDEX247 =
 "da/d37/unionGameObjectValue.html#a07ed76d692ae0af008e2373f3f9fd3e9":[6,0,1072,6],
 "da/d37/unionGameObjectValue.html#a0bd07a1a7536659ef9ee34f07006737d":[6,0,1072,1],
 "da/d37/unionGameObjectValue.html#a11596cf934a9391400e5368d9038a7c1":[6,0,1072,2],
-"da/d37/unionGameObjectValue.html#a3d2d6f1c1b4393c6b9f1de10afcace8b":[6,0,1072,3],
-"da/d37/unionGameObjectValue.html#a565624b690fa7fabf21b175548765652":[6,0,1072,7]
+"da/d37/unionGameObjectValue.html#a3d2d6f1c1b4393c6b9f1de10afcace8b":[6,0,1072,3]
 };

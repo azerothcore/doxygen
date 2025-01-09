@@ -1,5 +1,6 @@
 var NAVTREEINDEX359 =
 {
+"de/d87/boss__netherspite_8cpp.html#ab6b49b0e770e4a42d0d918eb0870a9c9":[7,0,0,0,1,3,2,4,5,12],
 "de/d87/boss__netherspite_8cpp.html#aed31b52543c556f43d7268340ea660fe":[7,0,0,0,1,3,2,4,5,6],
 "de/d87/boss__netherspite_8cpp.html#af50db85296b6cc3bcfbdbe8943087500":[7,0,0,0,1,3,2,4,5,13],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[7,0,0,0,1,3,2,4,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX359 =
 "de/d95/classTicketMgr.html#a7b51b5f4aebb51922717c463bcc34a40":[6,0,4069,18],
 "de/d95/classTicketMgr.html#a84182a16a815a9bdcd54118bc62a93c4":[6,0,4069,23],
 "de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[6,0,4069,7],
-"de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4069,19],
-"de/d95/classTicketMgr.html#aa225ab2b5709ce806e579e90b517f150":[6,0,4069,25]
+"de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4069,19]
 };

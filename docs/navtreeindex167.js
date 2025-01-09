@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d6/d39/classWorld.html#adce37741453050be9959f231113856df":[4,2,11,52],
 "d6/d39/classWorld.html#addeed40ffdac86e3bf1974618cffccfb":[4,2,11,146],
 "d6/d39/classWorld.html#adf5e8724afb4d083e566ee4e48905bf2":[4,2,11,4],
 "d6/d39/classWorld.html#ae0d3b1419d403980ab5b968ec84e7215":[4,2,11,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d4d/structgo__sand__trap.html":[6,0,1151],
 "d6/d4d/structgo__sand__trap.html#a2e4a5fec4d4c790233ca97e6a7732ac4":[6,0,1151,2],
 "d6/d4d/structgo__sand__trap.html#a58d45acac672cb05988ddca78185b469":[6,0,1151,0],
-"d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1151,1],
-"d6/d4d/structgo__sand__trap.html#af845c0efb3d8ebe53d3620970a84f1e4":[6,0,1151,3]
+"d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1151,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d84/classspell__sha__healing__stream__totem.html#aa7d437146a96bb40c1a66a453e3e4339":[6,0,3703,3],
 "dd/d85/classboss__warmaster__voone.html":[6,0,763],
 "dd/d85/classboss__warmaster__voone.html#a560469e60fda04b2c7d8fd3994493868":[6,0,763,2],
 "dd/d85/classboss__warmaster__voone.html#ac363118e4201adccd4be0028a558442f":[6,0,763,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d8d/DBCStores_8cpp.html#abdbb1d766763a0a237036238325d75d3":[7,0,0,0,1,2,14,0,105],
 "dd/d8d/DBCStores_8cpp.html#abe3da39beb532daf79d5d26407887fb3":[7,0,0,0,1,2,14,0,146],
 "dd/d8d/DBCStores_8cpp.html#abf0ec5a70cc97a27dafdf32aa7709545":[7,0,0,0,1,2,14,0,151],
-"dd/d8d/DBCStores_8cpp.html#abf2b3438ac1db9a9b301a15eb31927e1":[7,0,0,0,1,2,14,0,128],
-"dd/d8d/DBCStores_8cpp.html#ac0b0889df5fc27090df33faec1aaaac1":[7,0,0,0,1,2,14,0,129]
+"dd/d8d/DBCStores_8cpp.html#abf2b3438ac1db9a9b301a15eb31927e1":[7,0,0,0,1,2,14,0,128]
 };

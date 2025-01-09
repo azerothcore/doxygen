@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d5/d4d/classIWorld.html#a818274a9edcf99a70d2351884c63ddad":[6,0,1373,58],
 "d5/d4d/classIWorld.html#a85bdafdbbda1a86c319fd9aa539e0265":[6,0,1373,5],
 "d5/d4d/classIWorld.html#a863cdec75eb1eeacbaaf71dcbaec989b":[6,0,1373,71],
 "d5/d4d/classIWorld.html#a88b7bc544b6d3311b5ac5b5d06486d9e":[6,0,1373,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html":[6,0,2210,0],
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0769e975c5c7ff1cfbfa6089e3e55e3f":[6,0,2210,0,0],
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0cf5f0413b1cded835252a38e272f835":[6,0,2210,0,3],
-"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a65718076e65b68cae0a54ff4112fdb4b":[6,0,2210,0,1],
-"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a75f16f2b028ca341db6e08536be06bfa":[6,0,2210,0,2]
+"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a65718076e65b68cae0a54ff4112fdb4b":[6,0,2210,0,1]
 };

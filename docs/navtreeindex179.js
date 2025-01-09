@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/dd9/classspell__pri__item__greater__heal__refund.html#ac6b3ce1ff227a140b77e177198675dbf":[6,0,3480,0],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#ae5ed8237f49454279db6348dbde653ad":[6,0,3480,1],
 "d6/dd9/structnpc__pet__dk__risen__ally_1_1npc__pet__dk__risen__allyAI.html":[6,0,1976,0],
 "d6/dd9/structnpc__pet__dk__risen__ally_1_1npc__pet__dk__risen__allyAI.html#ac9f42a8f6d87ab65e78d9a3951102705":[6,0,1976,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/dee/boss__nethekurse_8cpp.html#a5bd342133be8c2137b831460acc9298cad84d86a778bb9a6190ebc6c60cba9641":[7,0,0,0,1,3,7,4,3,0,10,3],
 "d6/dee/boss__nethekurse_8cpp.html#aa2c749739c12713f36011bf79da84da8":[7,0,0,0,1,3,7,4,3,0,13],
 "d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,7,4,3,0,11],
-"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a238127f548f0c91e1b43b9d9a4b65e6c":[7,0,0,0,1,3,7,4,3,0,11,3],
-"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,7,4,3,0,11,1]
+"d6/dee/boss__nethekurse_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a238127f548f0c91e1b43b9d9a4b65e6c":[7,0,0,0,1,3,7,4,3,0,11,3]
 };

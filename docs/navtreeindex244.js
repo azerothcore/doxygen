@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#afa6825696b0622849f877b392df4b326":[6,0,1731,0,5],
 "da/d07/classByteBuffer.html":[6,0,810],
 "da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[6,0,810,20],
 "da/d07/classByteBuffer.html#a00ca375ab87d05aee2a7444265664623":[6,0,810,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "da/d16/classspell__q10714__on__spirits__wings.html#a2b4811bf7e60361e13bc382e62173cee":[6,0,3530,1],
 "da/d16/classspell__q10714__on__spirits__wings.html#a73358b2272ad12faef006b1ef633cac0":[6,0,3530,4],
 "da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[6,0,3530,3],
-"da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[6,0,3530,2],
-"da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[6,0,3530,0]
+"da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[6,0,3530,2]
 };

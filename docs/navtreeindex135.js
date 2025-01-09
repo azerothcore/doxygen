@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"d4/dc6/classnpc__korkron__or__wildhammer.html#a5f1a79c10b5363ee24b3941c54ff10d7":[6,0,1883,5],
 "d4/dc6/classnpc__korkron__or__wildhammer.html#a67d5cf4a8418ab3f07a387f1021080df":[6,0,1883,4],
 "d4/dc6/classnpc__korkron__or__wildhammer.html#aa63e935c2d64716f22f4e74e43e6b639":[6,0,1883,1],
 "d4/dc6/classspell__warhead__detonate.html":[6,0,3872],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "d4/dd0/classWorldObject.html#a7b65f5354be0a698bf59435f5434709a":[6,0,4203,26],
 "d4/dd0/classWorldObject.html#a7c0d104a2d51195a1fd0b9f2a89ae17d":[6,0,4203,36],
 "d4/dd0/classWorldObject.html#a7c8bb517d334d1eb40948457fea2d2bf":[6,0,4203,90],
-"d4/dd0/classWorldObject.html#a7d071b1eb243a18cc1e4a30fe454f57c":[6,0,4203,71],
-"d4/dd0/classWorldObject.html#a7dfe30d8f45bcf4128719b8e4ab12ba5":[6,0,4203,46]
+"d4/dd0/classWorldObject.html#a7d071b1eb243a18cc1e4a30fe454f57c":[6,0,4203,71]
 };

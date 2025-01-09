@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#ae3cb0f7a3da5a72eaa59350d7df13ffc":[6,0,3380,0],
 "d7/d40/classspell__warl__create__healthstone.html":[6,0,3875],
 "d7/d40/classspell__warl__create__healthstone.html#a00c67b65bcfdeaf56295da6a64689d58":[6,0,3875,4],
 "d7/d40/classspell__warl__create__healthstone.html#a10e9691aa15869c82fba79072a314d7e":[6,0,3875,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d46/classAuraEffect.html#aab17b1ef9a6932ad13b43b0ed377e044":[6,0,267,52],
 "d7/d46/classAuraEffect.html#aab9391e1ba5774b3df74dee4f65f707a":[6,0,267,118],
 "d7/d46/classAuraEffect.html#aad290467c397f70ff3ca4c24961a05fb":[6,0,267,89],
-"d7/d46/classAuraEffect.html#aaea11ca24fdbdb92e653f59bfd181ff0":[6,0,267,74],
-"d7/d46/classAuraEffect.html#aaf478059af657f8126f4979f94b60159":[6,0,267,43]
+"d7/d46/classAuraEffect.html#aaea11ca24fdbdb92e653f59bfd181ff0":[6,0,267,74]
 };

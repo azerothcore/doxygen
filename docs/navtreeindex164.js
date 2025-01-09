@@ -1,5 +1,6 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[6,0,3000,0],
 "d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[6,0,3000,1],
 "d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3000,4],
 "d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3000,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d2a/classspell__sha__item__lightning__shield.html":[6,0,3705],
 "d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[6,0,3705,2],
 "d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[6,0,3705,3],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3705,0],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3a496539a6adddca91724d9cc77f81c3":[6,0,3705,1]
+"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3705,0]
 };

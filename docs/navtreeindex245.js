@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[6,0,3530,0],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html":[6,0,3819],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a16b01725a1b2a105df365e0b178a4f0f":[6,0,3819,3],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8":[6,0,3819,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "da/d28/classspell__hun__check__pet__los.html":[6,0,3044],
 "da/d28/classspell__hun__check__pet__los.html#a0bc2de519e0c84688fad609444d28afa":[6,0,3044,1],
 "da/d28/classspell__hun__check__pet__los.html#a712900d0c9e9cc78b5de2886e416f34d":[6,0,3044,0],
-"da/d28/classspell__hun__check__pet__los.html#a7f438fb8ce7eda520a366437df65c6e8":[6,0,3044,2],
-"da/d28/structClientPktHeader.html":[6,0,867]
+"da/d28/classspell__hun__check__pet__los.html#a7f438fb8ce7eda520a366437df65c6e8":[6,0,3044,2]
 };

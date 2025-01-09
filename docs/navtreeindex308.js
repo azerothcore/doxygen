@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ab5fe766d46e9445b9e7cfc605073983f":[6,0,400,0,9],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#adb699a22dbf1c14cb80f8fdcca9c6f82":[6,0,400,0,5],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ae69afba77636c962045160b610177bd9":[6,0,400,0,8],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ae8218b69e6dc7489e65d891048d84da1":[6,0,400,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html":[6,0,1817,0],
 "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a32cebea12e13c87b45dd2a4c6cf495e5":[6,0,1817,0,9],
 "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a3510e246908f4e5b758e05ca06a29e47":[6,0,1817,0,8],
-"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a4185259006017e85fade721796851dd0":[6,0,1817,0,2],
-"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a54a5094dc533755efc249ebc96663b62":[6,0,1817,0,0]
+"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a4185259006017e85fade721796851dd0":[6,0,1817,0,2]
 };

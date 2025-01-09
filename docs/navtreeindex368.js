@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,6,9,37,5],
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[6,0,2122],
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2122,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ac5078f624899e574a7b56b72e2824b9a":[6,0,1241,8],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1241,5],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1241,0],
-"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4110],
-"de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[6,0,4110,2]
+"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4110]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/da3/classgo__crystal__prison.html#a0faca8b76f9650ee5cc7825b90463365":[6,0,1110,0],
 "d8/da3/classgo__crystal__prison.html#ad19d8bdf8361d5d7fca2917a6bf0977a":[6,0,1110,1],
 "d8/da3/structCreatureMovementData.html":[6,0,910],
 "d8/da3/structCreatureMovementData.html#a04966dc48fffcd65574314f238ba9be2":[6,0,910,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/db8/boss__gothik_8cpp.html#a5e644d9a6ca4d206c8a772239fd64c10":[7,0,0,0,1,3,5,7,4,18],
 "d8/db8/boss__gothik_8cpp.html#aa24d3d964dd3e1763d41ecf0d688458c":[7,0,0,0,1,3,5,7,4,9],
 "d8/db8/boss__gothik_8cpp.html#acaaee73ac1505d7aa99cf52b53127b0a":[7,0,0,0,1,3,5,7,4,21],
-"d8/db8/boss__gothik_8cpp.html#ad42058ab3d240d516651468d3d624008":[7,0,0,0,1,3,5,7,4,8],
-"d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7":[7,0,0,0,1,3,5,7,4,12]
+"d8/db8/boss__gothik_8cpp.html#ad42058ab3d240d516651468d3d624008":[7,0,0,0,1,3,5,7,4,8]
 };

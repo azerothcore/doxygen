@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa2ffab3f2903b69cf4de331c0dd4a7bc":[7,0,0,0,1,3,5,10,0,1,8,3],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5dab2694a03dd1e0c46c17500ebe13dcf45":[7,0,0,0,1,3,5,10,0,1,8,2],
 "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[7,0,0,0,1,3,5,10,0,1,5],
 "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76":[7,0,0,0,1,3,5,10,0,1,5,0],
@@ -219,14 +220,14 @@ var NAVTREEINDEX123 =
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a038a827f7fe179ff56ab581efdf08790":[6,0,2831,0],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a6018f3a74a1b61042bb0ff6c02b76611":[6,0,2831,2],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd":[6,0,2831,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[6,0,0,5,0,15],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[5,0,1,8,0,15],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[6,0,0,5,0,15,0],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[6,0,0,5,0,15],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[5,0,1,8,0,15,0],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,1,8,0,15,1],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[6,0,0,5,0,15,0],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[6,0,0,5,0,15,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,1,8,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[6,0,0,5,0,15,4],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,1,8,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,1,8,0,15,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a47524945c021303a5dd791d38dc0543c":[6,0,774,0,10],
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a4c784f57e0f29673583529e1e8fb157b":[6,0,774,0,11],
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a556f89a88f4af04c09bec268661d4dae":[6,0,774,0,0],
-"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a641ebeadcf257d1eddf61cef9bcdc913":[6,0,774,0,7],
-"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a6c8fe143ff212f32cf284b749f55857d":[6,0,774,0,9]
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a641ebeadcf257d1eddf61cef9bcdc913":[6,0,774,0,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d7/d2f/classspell__mage__blast__wave.html#add1bd8f583772d4dfeb20f01b9fac8ed":[6,0,3321,3],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html":[6,0,3593],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a20f7416465ba1cc04426f24037e8074e":[6,0,3593,3],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a2ac898d186e755fbf3b3ae8812e8e579":[6,0,3593,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a2537b325ff57b867092f3d9a1bd0fa8b":[6,0,3380,5],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a524c071390365b7dab59bc7a79b50f15":[6,0,3380,3],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a60deabce505dd3993dca0e71402dc190":[6,0,3380,1],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a9a2fae625718f854ec5d2587a01a2da7":[6,0,3380,2],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#ae3cb0f7a3da5a72eaa59350d7df13ffc":[6,0,3380,0]
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a9a2fae625718f854ec5d2587a01a2da7":[6,0,3380,2]
 };

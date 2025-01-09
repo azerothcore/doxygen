@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/dd5/classCreature.html#adbdbb5b9dc6da1d57c9c3de5fc9f7f7d":[6,0,895,95],
 "db/dd5/classCreature.html#adbee63d935ba5bc05c338d129a778579":[6,0,895,148],
 "db/dd5/classCreature.html#adc4f35223eb98a4ce674a2c4b7e5b7bf":[6,0,895,146],
 "db/dd5/classCreature.html#adccf64447a9b0e22bed1b2f3b68b9ad9":[6,0,895,246],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,5,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2]
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2]
 };

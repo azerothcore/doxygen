@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d6/d2a/classspell__sha__item__lightning__shield.html#a3a496539a6adddca91724d9cc77f81c3":[6,0,3705,1],
 "d6/d2b/AccountScript_8h.html":[7,0,0,0,1,2,38,0,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3f":[7,0,0,0,1,2,38,0,1,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5":[7,0,0,0,1,2,38,0,1,1,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d38/classAchievementGlobalMgr.html#a4ee4ce63632cc67d7d87d44c6ab4cfef":[6,0,114,1],
 "d6/d38/classAchievementGlobalMgr.html#a5057e0b9b55f64716949c2b3e443a705":[6,0,114,35],
 "d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[6,0,114,16],
-"d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[6,0,114,3],
-"d6/d38/classAchievementGlobalMgr.html#a5999c47a86e58fd7b5437da05385d59a":[6,0,114,34]
+"d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[6,0,114,3]
 };

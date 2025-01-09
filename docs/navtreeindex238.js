@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2022,4],
 "d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2022,6],
 "d9/d9f/classnpc__putricide__oozeAI.html#a508fe1a9974f2ffa36c72575c2d4b252":[6,0,2022,7],
 "d9/d9f/classnpc__putricide__oozeAI.html#a5b3200110d6cd8ac1311220ab2ee3385":[6,0,2022,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a672526de2c71dcae79bacef88f34dc26":[6,0,3676,0],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a9ba7c109fe96881dd47ba47366890e2b":[6,0,3676,2],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#ab5833f6218760a7d9829b5d453436302":[6,0,3676,3],
-"d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8],
-"d9/dae/structM2Camera.html":[6,0,1431]
+"d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8]
 };

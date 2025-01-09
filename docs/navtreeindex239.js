@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/dae/structM2Camera.html":[6,0,1431],
 "d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1431,7],
 "d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1431,6],
 "d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[6,0,1431,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,1,7]
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7]
 };
