@@ -1,5 +1,9 @@
 var NAVTREEINDEX368 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac44e3da7743742f856230fb208f3afeb":[7,0,0,0,1,3,5,6,9,37,7],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad40fac9b7911b5d8c150f8d388adf4ab":[7,0,0,0,1,3,5,6,9,37,24],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,6,9,37,2],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,6,9,37,13],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,6,9,37,5],
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[6,0,2122],
@@ -231,11 +235,11 @@ var NAVTREEINDEX368 =
 "de/df3/classinstance__the__slave__pens.html":[6,0,1319],
 "de/df3/classinstance__the__slave__pens.html#a0eedcecf1ddc27e139898cacf6f48965":[6,0,1319,2],
 "de/df3/classinstance__the__slave__pens.html#a765f7b66ad3bed1828524ecb143742f2":[6,0,1319,1],
-"de/df3/classspell__voa__flaming__cinder.html":[6,0,3865],
-"de/df3/classspell__voa__flaming__cinder.html#a2ad8abf39847c79ac5bc53093c487fc0":[6,0,3865,1],
-"de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[6,0,3865,2],
-"de/df3/classspell__voa__flaming__cinder.html#a92f99501ee1582873586d2405b224f4f":[6,0,3865,3],
-"de/df3/classspell__voa__flaming__cinder.html#af524c771ef3a314f3c1dbaacae4f4538":[6,0,3865,0],
+"de/df3/classspell__voa__flaming__cinder.html":[6,0,3866],
+"de/df3/classspell__voa__flaming__cinder.html#a2ad8abf39847c79ac5bc53093c487fc0":[6,0,3866,1],
+"de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[6,0,3866,2],
+"de/df3/classspell__voa__flaming__cinder.html#a92f99501ee1582873586d2405b224f4f":[6,0,3866,3],
+"de/df3/classspell__voa__flaming__cinder.html#af524c771ef3a314f3c1dbaacae4f4538":[6,0,3866,0],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html":[6,0,1241],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a4e3c1f79f8115312f22612a4b8c6fede":[6,0,1241,6],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a77b40bcbada8ea43accae23ceb642628":[6,0,1241,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX368 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa203c37c8259c8b54ad5ec70db484f1":[6,0,1241,7],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa6f7b1aa064be00a726539830d6c30e":[6,0,1241,4],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1241,10],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1241,3],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ac5078f624899e574a7b56b72e2824b9a":[6,0,1241,8],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1241,5],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1241,0],
-"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4110]
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1241,3]
 };

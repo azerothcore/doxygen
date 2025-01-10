@@ -6,7 +6,7 @@ var classWorld =
     [ "World", "d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8", null ],
     [ "~World", "d6/d39/classWorld.html#adf5e8724afb4d083e566ee4e48905bf2", null ],
     [ "_UpdateGameTime", "d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4", null ],
-    [ "_UpdateRealmCharCount", "d6/d39/classWorld.html#a8fe5f1300d7b28cd70536da1daa688c7", null ],
+    [ "_UpdateRealmCharCount", "d6/d39/classWorld.html#a42dca1e9a4af3d1aa94c0f045ce41d8b", null ],
     [ "AddQueuedPlayer", "d6/d39/classWorld.html#a58817621061aff4215f6c2269434ffb0", null ],
     [ "AddSession", "d6/d39/classWorld.html#ab4405678e629bda377be42d5774bcbc1", null ],
     [ "AddSession_", "d6/d39/classWorld.html#a17a1ece4104f5702640a9b030e9f0dad", null ],

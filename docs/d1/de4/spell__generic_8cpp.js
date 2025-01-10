@@ -135,6 +135,7 @@ var spell__generic_8cpp =
     [ "spell_gen_steal_weapon", "de/de0/classspell__gen__steal__weapon.html", "de/de0/classspell__gen__steal__weapon" ],
     [ "spell_gen_set_health", "dd/dfd/classspell__gen__set__health.html", "dd/dfd/classspell__gen__set__health" ],
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling" ],
+    [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],

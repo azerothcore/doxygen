@@ -1988,7 +1988,7 @@ var searchData=
   ['_5fupdatememberwithdrawslots_1985',['_UpdateMemberWithdrawSlots',['../de/d79/classGuild.html#af5cec12a703c5b02db7e4270c3b64c44',1,'Guild']]],
   ['_5fupdateobjects_1986',['_updateObjects',['../d7/db0/classMap.html#ab5a0895b07c01085feb62dade7a9e888',1,'Map']]],
   ['_5fupdatepositiondata_1987',['_updatePositionData',['../d4/dd0/classWorldObject.html#a152a2a1b3a8c33b377294f6a1f76fa6d',1,'WorldObject']]],
-  ['_5fupdaterealmcharcount_1988',['_UpdateRealmCharCount',['../d6/d39/classWorld.html#a8fe5f1300d7b28cd70536da1daa688c7',1,'World']]],
+  ['_5fupdaterealmcharcount_1988',['_UpdateRealmCharCount',['../d6/d39/classWorld.html#a42dca1e9a4af3d1aa94c0f045ce41d8b',1,'World']]],
   ['_5fupdatespells_1989',['_UpdateSpells',['../df/dd9/classUnit.html#a24806334c9d27cd7449ebea72c952a21',1,'Unit']]],
   ['_5fupdatestate_1990',['_updateState',['../d3/d68/classMovement_1_1MoveSpline.html#a18f8b2eea1e37fabbe43bfe441329035',1,'Movement::MoveSpline']]],
   ['_5fupdatetimedatatable_1991',['_updateTimeDataTable',['../dc/dfb/classUpdateTime.html#abb8749ed72a0bd159034132fb2a8b628',1,'UpdateTime']]],

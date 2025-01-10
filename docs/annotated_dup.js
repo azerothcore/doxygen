@@ -3403,6 +3403,7 @@ var annotated_dup =
     [ "spell_gen_proc_from_direct_damage", "da/dab/classspell__gen__proc__from__direct__damage.html", "da/dab/classspell__gen__proc__from__direct__damage" ],
     [ "spell_gen_proc_not_self", "d4/d8a/classspell__gen__proc__not__self.html", "d4/d8a/classspell__gen__proc__not__self" ],
     [ "spell_gen_proc_on_self", "da/dd9/classspell__gen__proc__on__self.html", "da/dd9/classspell__gen__proc__on__self" ],
+    [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
     [ "spell_gen_proc_reduced_above_60", "d5/dea/classspell__gen__proc__reduced__above__60.html", "d5/dea/classspell__gen__proc__reduced__above__60" ],
     [ "spell_gen_profession_research", "d5/de9/classspell__gen__profession__research.html", "d5/de9/classspell__gen__profession__research" ],
     [ "spell_gen_rallying_cry_of_the_dragonslayer", "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html", "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer" ],

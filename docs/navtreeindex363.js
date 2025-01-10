@@ -1,5 +1,9 @@
 var NAVTREEINDEX363 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afd93cf5f7fbcfcac8e122cf922eb49e4":[7,0,0,0,1,1,0,0,1,1,76],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afd97a71f773cfe89c439819e24ddc9b2":[7,0,0,0,1,1,0,0,1,1,272],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afdb2fe0d56f207a354fd72e58d11753a":[7,0,0,0,1,1,0,0,1,1,307],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe534ff82e22ce6a60fcb6015067ca51":[7,0,0,0,1,1,0,0,1,1,32],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe5c728d9fe48a1e9911d5a6a388271e":[7,0,0,0,1,1,0,0,1,1,420],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe60b9a87596e77e25fc2c2ef0e10f87":[7,0,0,0,1,1,0,0,1,1,189],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02":[7,0,0,0,1,1,0,0,1,1,123],
@@ -81,13 +85,13 @@ var NAVTREEINDEX363 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab83b898058a1a7dfb48469256a193761":[7,0,0,0,1,3,2,4,7,4,6],
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,4,7,9],
-"de/da6/classspell__item__with__mount__speed.html":[6,0,3254],
-"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3254,2],
-"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3254,4],
-"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3254,5],
-"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3254,3],
-"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3254,1],
-"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3254,0],
+"de/da6/classspell__item__with__mount__speed.html":[6,0,3255],
+"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3255,2],
+"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3255,4],
+"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3255,5],
+"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3255,3],
+"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3255,1],
+"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3255,0],
 "de/da6/zone__dragonblight_8cpp.html":[7,0,0,0,1,3,5,18],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2":[7,0,0,0,1,3,5,18,44],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2a5220fc25d0e046e45924ef4a9f6a3b7d":[7,0,0,0,1,3,5,18,44,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX363 =
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a465ed6831f5cbb7a46acc646867a4418":[7,0,0,0,1,3,5,18,47,17],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a49d6cee12d60b301c2d1486de834b5c7":[7,0,0,0,1,3,5,18,47,1],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,47,21],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,47,29],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,47,20],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,47,13],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,47,14],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a723f43bebeb9fb471451eab79c9b2f8b":[7,0,0,0,1,3,5,18,47,19]
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,47,29]
 };

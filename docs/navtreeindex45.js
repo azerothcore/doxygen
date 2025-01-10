@@ -108,10 +108,10 @@ var NAVTREEINDEX45 =
 "d1/dd5/classRandomMovementGenerator.html#ae53e616aeb31ebc90c17a12b1954527d":[6,0,2438,5],
 "d1/dd5/classRandomMovementGenerator.html#af055ec2b1a95f0338ccbbaabd0e82483":[6,0,2438,20],
 "d1/dd5/classRandomMovementGenerator.html#af06aa5a3173151c6a8d42f30dd61b497":[6,0,2438,3],
-"d1/dd5/classspell__item__snowman.html":[6,0,3235],
-"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[6,0,3235,0],
-"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[6,0,3235,1],
-"d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[6,0,3235,2],
+"d1/dd5/classspell__item__snowman.html":[6,0,3236],
+"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[6,0,3236,0],
+"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[6,0,3236,1],
+"d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[6,0,3236,2],
 "d1/dd5/spell__warlock_8cpp.html":[7,0,0,0,1,3,9,11],
 "d1/dd5/spell__warlock_8cpp.html#a2054657c41c2347732a7d2903e3b8138":[7,0,0,0,1,3,9,11,37],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570":[7,0,0,0,1,3,9,11,36],
@@ -247,7 +247,7 @@ var NAVTREEINDEX45 =
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a65b5bc8d053a69325f42a7f23ae4dbdc":[6,0,2818,0],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a85be360bb15482ff34b7f1d04d949b1d":[6,0,2818,2],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#ab14e7410cf542d9f4043800a3b86c664":[6,0,2818,3],
-"d1/ddc/classspell__kael__pyroblast.html":[6,0,3257],
-"d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[6,0,3257,0],
-"d1/ddc/classspell__kael__pyroblast.html#a14aafc65b554c0ada5684c46ae1f57c8":[6,0,3257,2]
+"d1/ddc/classspell__kael__pyroblast.html":[6,0,3258],
+"d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[6,0,3258,0],
+"d1/ddc/classspell__kael__pyroblast.html#a14aafc65b554c0ada5684c46ae1f57c8":[6,0,3258,2]
 };

@@ -243,7 +243,7 @@ var searchData=
   ['_5fupdateautorepeatspell_240',['_UpdateAutoRepeatSpell',['../df/dd9/classUnit.html#a13f8850805b0fcdbd03162abe7888362',1,'Unit']]],
   ['_5fupdategametime_241',['_UpdateGameTime',['../d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4',1,'World']]],
   ['_5fupdatememberwithdrawslots_242',['_UpdateMemberWithdrawSlots',['../de/d79/classGuild.html#af5cec12a703c5b02db7e4270c3b64c44',1,'Guild']]],
-  ['_5fupdaterealmcharcount_243',['_UpdateRealmCharCount',['../d6/d39/classWorld.html#a8fe5f1300d7b28cd70536da1daa688c7',1,'World']]],
+  ['_5fupdaterealmcharcount_243',['_UpdateRealmCharCount',['../d6/d39/classWorld.html#a42dca1e9a4af3d1aa94c0f045ce41d8b',1,'World']]],
   ['_5fupdatespells_244',['_UpdateSpells',['../df/dd9/classUnit.html#a24806334c9d27cd7449ebea72c952a21',1,'Unit']]],
   ['_5fupdatestate_245',['_updateState',['../d3/d68/classMovement_1_1MoveSpline.html#a18f8b2eea1e37fabbe43bfe441329035',1,'Movement::MoveSpline']]],
   ['_5fvalidate_246',['_validate',['../dd/ddb/class__SpellScript.html#af46024e85e0618c84bf72dc61df05673',1,'_SpellScript::_Validate()'],['../df/d92/classSpellScript.html#a7f3fd0137862305299f6c65d43f2abae',1,'SpellScript::_Validate()'],['../d5/d0f/classAuraScript.html#a9256947ce172fcf7947390e893c154f6',1,'AuraScript::_Validate()']]],

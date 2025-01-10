@@ -200,6 +200,7 @@ var hierarchy =
         [ "spell_gen_proc_from_direct_damage", "da/dab/classspell__gen__proc__from__direct__damage.html", null ],
         [ "spell_gen_proc_not_self", "d4/d8a/classspell__gen__proc__not__self.html", null ],
         [ "spell_gen_proc_on_self", "da/dd9/classspell__gen__proc__on__self.html", null ],
+        [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", null ],
         [ "spell_gen_proc_reduced_above_60", "d5/dea/classspell__gen__proc__reduced__above__60.html", null ],
         [ "spell_gen_reduced_above_60_aura", "de/da2/classspell__gen__reduced__above__60__aura.html", null ],
         [ "spell_gen_replenishment_aura", "d7/d15/classspell__gen__replenishment__aura.html", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX326 =
 {
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3857,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3857,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3857,2],
+"dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[7,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,2,5,3],
 "dd/dac/pit__of__saron_8h.html#a13bf201e0331fb88a7d079c97321c506":[7,0,0,0,1,3,5,4,2,5,21],
@@ -242,12 +246,8 @@ var NAVTREEINDEX326 =
 "dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,31,2],
 "dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,31,1],
 "dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[6,0,31,0],
-"dd/db1/classspell__gen__replenishment.html":[6,0,2948],
-"dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[6,0,2948,3],
-"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,2948,2],
-"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,2948,0],
-"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[6,0,2948,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3143],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3143,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3143,2]
+"dd/db1/classspell__gen__replenishment.html":[6,0,2949],
+"dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[6,0,2949,3],
+"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,2949,2],
+"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,2949,0]
 };
