@@ -1,5 +1,7 @@
 var NAVTREEINDEX238 =
 {
+"d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2022],
+"d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2022,3],
 "d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2022,4],
 "d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2022,6],
 "d9/d9f/classnpc__putricide__oozeAI.html#a508fe1a9974f2ffa36c72575c2d4b252":[6,0,2022,7],
@@ -67,11 +69,11 @@ var NAVTREEINDEX238 =
 "d9/da3/classspell__dru__barkskin.html#a6c105609c1ee61a8f845018550b2e3ba":[6,0,2760,3],
 "d9/da3/classspell__dru__barkskin.html#a7c08bea735cd36840463aa942e7529b4":[6,0,2760,1],
 "d9/da3/classspell__dru__barkskin.html#ad27880f797137cae09381e860727e2f7":[6,0,2760,2],
-"d9/da3/structTableStruct.html":[6,0,4045],
-"d9/da3/structTableStruct.html#a06a366c804088e6fbb170881004a5cff":[6,0,4045,0],
-"d9/da3/structTableStruct.html#ab00ee028c72660db98e8108583701471":[6,0,4045,2],
-"d9/da3/structTableStruct.html#ad5d909c6b4b062f3c4aac3f559c5eaec":[6,0,4045,1],
-"d9/da3/structTableStruct.html#af1be82a21f6172504e310ae27b899e5b":[6,0,4045,3],
+"d9/da3/structTableStruct.html":[6,0,4046],
+"d9/da3/structTableStruct.html#a06a366c804088e6fbb170881004a5cff":[6,0,4046,0],
+"d9/da3/structTableStruct.html#ab00ee028c72660db98e8108583701471":[6,0,4046,2],
+"d9/da3/structTableStruct.html#ad5d909c6b4b062f3c4aac3f559c5eaec":[6,0,4046,1],
+"d9/da3/structTableStruct.html#af1be82a21f6172504e310ae27b899e5b":[6,0,4046,3],
 "d9/da4/classspell__svalna__remove__spear.html":[6,0,3764],
 "d9/da4/classspell__svalna__remove__spear.html#a69344370af56f033e1c1ba16f4dee174":[6,0,3764,3],
 "d9/da4/classspell__svalna__remove__spear.html#a87a2b32a9a20f032157df5ddb2cd9979":[6,0,3764,0],
@@ -204,8 +206,8 @@ var NAVTREEINDEX238 =
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
 "d9/dac/classnpc__nether__drake.html":[6,0,1948],
@@ -247,7 +249,5 @@ var NAVTREEINDEX238 =
 "d9/dad/classspell__saronite__vapors__dummy__aura.html":[6,0,3677],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a1da221b63cb7fcd0dbb580e8cf0003ce":[6,0,3677,1],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a672526de2c71dcae79bacef88f34dc26":[6,0,3677,0],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#a9ba7c109fe96881dd47ba47366890e2b":[6,0,3677,2],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#ab5833f6218760a7d9829b5d453436302":[6,0,3677,3],
-"d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8]
+"d9/dad/classspell__saronite__vapors__dummy__aura.html#a9ba7c109fe96881dd47ba47366890e2b":[6,0,3677,2]
 };

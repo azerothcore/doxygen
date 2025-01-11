@@ -1,7 +1,7 @@
 var structinstance__zulaman_1_1instance__zulaman__InstanceMapScript =
 [
     [ "instance_zulaman_InstanceMapScript", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a7647cb64c36022d31c6d4c9112318a41", null ],
+    [ "CheckInstanceStatus", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a195e4175f943bfaf42ded378cde928e4", null ],
     [ "DoAction", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
     [ "GetData", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
     [ "Initialize", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a070925eb76b8af866819844411da1beb", null ],

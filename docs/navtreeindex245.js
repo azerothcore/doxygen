@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[6,0,3531,3],
+"da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[6,0,3531,2],
 "da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[6,0,3531,0],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html":[6,0,3820],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a16b01725a1b2a105df365e0b178a4f0f":[6,0,3820,3],
@@ -14,18 +16,18 @@ var NAVTREEINDEX245 =
 "da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[6,0,1782,1],
 "da/d17/classAcore_1_1ContainerInserter.html":[6,0,0,39],
 "da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,51],
-"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,1,51,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[6,0,0,39,3],
+"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,1,51,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[6,0,0,39,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,1,51,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,1,51,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,39,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,39,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,1,51,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,51,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,39,4],
-"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,51,2],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,51,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,39,2],
+"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,51,2],
 "da/d17/classat__naxxramas__hub__portal.html":[6,0,217],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[6,0,217,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[6,0,217,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "da/d27/structDurabilityCostsEntry.html#a39d9dcee397a1f5984184c769f9b8b17":[6,0,975,0],
 "da/d27/structDurabilityCostsEntry.html#a5c6c206a6185a546223de7501ff846f6":[6,0,975,1],
 "da/d28/classspell__hun__check__pet__los.html":[6,0,3045],
-"da/d28/classspell__hun__check__pet__los.html#a0bc2de519e0c84688fad609444d28afa":[6,0,3045,1],
-"da/d28/classspell__hun__check__pet__los.html#a712900d0c9e9cc78b5de2886e416f34d":[6,0,3045,0],
-"da/d28/classspell__hun__check__pet__los.html#a7f438fb8ce7eda520a366437df65c6e8":[6,0,3045,2]
+"da/d28/classspell__hun__check__pet__los.html#a0bc2de519e0c84688fad609444d28afa":[6,0,3045,1]
 };

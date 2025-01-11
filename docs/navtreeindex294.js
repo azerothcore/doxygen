@@ -1,5 +1,12 @@
 var NAVTREEINDEX294 =
 {
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca19fd751bdf0b8d401d30a76edb682723":[7,0,0,0,1,3,2,4,1,1,2],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca2754cdfe3abaa36af80434b488e4cc11":[7,0,0,0,1,3,2,4,1,1,3],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca65b03c8218033c2fbc5f7ccfb454c4f2":[7,0,0,0,1,3,2,4,1,1,7],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e76c33295c4469c0995f9891c4ba780":[7,0,0,0,1,3,2,4,1,1,6],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca8934d7c1a86aa663dd516e759a774822":[7,0,0,0,1,3,2,4,1,1,1],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca96e3140ab635d00121baf8c0ee6a76ad":[7,0,0,0,1,3,2,4,1,1,0],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bb78e60c9b828cf088458619da656f8":[7,0,0,0,1,3,2,4,1,1,4],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298cad7ae14a78d5df48baefa84e1e188c418":[7,0,0,0,1,3,2,4,1,1,5],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,2,4,1,2],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,1,2,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3836],
 "dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3836,2],
 "dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3836,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3836,1],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1621,0],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1621,0,4],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1621,0,2],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[6,0,1621,0,5],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a75dca4f2e90318f334e7e6385d4f7a6f":[6,0,1621,0,0],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a9752f518441071dd4a60cd63423bf9a3":[6,0,1621,0,3],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#afe9b10dfcee3b241a48e6f2e40eec657":[6,0,1621,0,1]
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3836,1]
 };

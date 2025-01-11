@@ -1,5 +1,12 @@
 var NAVTREEINDEX319 =
 {
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1795,0,1],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1795,0,4],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1795,0,2],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1795,0,3],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[6,0,1795,0,0],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[6,0,1920,0],
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[6,0,1920,0,1],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1920,0,3],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[6,0,1920,0,6],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[6,0,1920,0,2],
@@ -237,17 +244,10 @@ var NAVTREEINDEX319 =
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4":[7,0,0,0,1,0,0,2,1,3,0],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[7,0,0,0,1,0,0,2,1,3,1],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[7,0,0,0,1,0,0,2,1,3,3],
-"dd/d57/structSQLElementData.html":[6,0,4024],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4024,0],
-"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[6,0,4024,1],
+"dd/d57/structSQLElementData.html":[6,0,4025],
+"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4025,0],
+"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[6,0,4025,1],
 "dd/d58/boss__twinemperors_8cpp.html":[7,0,0,0,1,3,4,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,9,7,5],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,4,9,7,5,0],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f":[7,0,0,0,1,3,4,9,7,5,1],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,7,6],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a193f6b29e1a4f07a90b5839e7cd9bd05":[7,0,0,0,1,3,4,9,7,6,2],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a485374e988cafa135e5776f1f3aa8638":[7,0,0,0,1,3,4,9,7,6,1],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f091068e93fe04fde1b2d77d34d5fcf":[7,0,0,0,1,3,4,9,7,6,3],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af43e097e08b8abfcf8578505722488c0":[7,0,0,0,1,3,4,9,7,6,0]
+"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2]
 };

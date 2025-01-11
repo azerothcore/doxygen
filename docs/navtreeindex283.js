@@ -1,5 +1,12 @@
 var NAVTREEINDEX283 =
 {
+"db/dab/classspell__gen__shriveling__gaze.html#a344d1a92623865876174c0e88ce8ab4b":[6,0,2954,2],
+"db/dab/classspell__gen__shriveling__gaze.html#a352ff0e85eee6e51e9f2eea5cdd9108c":[6,0,2954,3],
+"db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11":[6,0,2954,1],
+"db/dab/classspell__gen__shriveling__gaze.html#ac4fd8fdde53f947082b23852ce149ea9":[6,0,2954,4],
+"db/dab/classspell__gen__shriveling__gaze.html#af20f30fe2bfc7a370b166a6200b44ca9":[6,0,2954,0],
+"db/dae/npcs__special_8cpp.html":[7,0,0,0,1,3,10,14],
+"db/dae/npcs__special_8cpp.html#a0a5db3a56905c53a86dda19b1525d543":[7,0,0,0,1,3,10,14,44],
 "db/dae/npcs__special_8cpp.html#a1896308cb3a61422f078cf36a4cdfb11":[7,0,0,0,1,3,10,14,71],
 "db/dae/npcs__special_8cpp.html#a1896308cb3a61422f078cf36a4cdfb11a3da1e1309814dd148a6b7d1aa4cb0326":[7,0,0,0,1,3,10,14,71,2],
 "db/dae/npcs__special_8cpp.html#a1896308cb3a61422f078cf36a4cdfb11a57f5b5899e1415f29ab85aabb791f7ca":[7,0,0,0,1,3,10,14,71,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX283 =
 "db/db2/Chat_8cpp.html":[7,0,0,0,1,2,11,2],
 "db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9":[7,0,0,0,1,2,11,2,1],
 "db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd":[7,0,0,0,1,2,11,2,1,0],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e":[7,0,0,0,1,2,11,2,1,4],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56":[7,0,0,0,1,2,11,2,1,1],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654":[7,0,0,0,1,2,11,2,1,2],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919":[7,0,0,0,1,2,11,2,1,3],
-"db/db2/Chat_8cpp.html#a493fba30c4b66be28baeb971844ea593":[7,0,0,0,1,2,11,2,3],
-"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5":[7,0,0,0,1,2,11,2,0],
-"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028":[7,0,0,0,1,2,11,2,0,0],
-"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[7,0,0,0,1,2,11,2,0,1]
+"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e":[7,0,0,0,1,2,11,2,1,4]
 };

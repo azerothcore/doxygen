@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
+"d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
 "d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[7,0,0,0,1,2,24,3,35],
 "d9/d84/LootMgr_8h.html#a8c148c99c4a202233809e690e3759993":[7,0,0,0,1,2,24,3,15],
 "d9/d84/LootMgr_8h.html#a8db9118af32d6a6196c348da5aeafdc6":[7,0,0,0,1,2,24,3,11],
@@ -170,10 +172,10 @@ var NAVTREEINDEX236 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[7,0,0,0,1,3,5,9,2,1,26,5],
 "d9/d88/structCreatureTypeEntry.html":[6,0,921],
 "d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[6,0,921,0],
-"d9/d89/classspellIdImmunityPredicate.html":[6,0,3992],
-"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[6,0,3992,0],
-"d9/d89/classspellIdImmunityPredicate.html#a125dfe727d668b5b9820adf1f7f0e0a8":[6,0,3992,2],
-"d9/d89/classspellIdImmunityPredicate.html#ae97afff7a6b3ea5dca917d3dbb9ef818":[6,0,3992,1],
+"d9/d89/classspellIdImmunityPredicate.html":[6,0,3993],
+"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[6,0,3993,0],
+"d9/d89/classspellIdImmunityPredicate.html#a125dfe727d668b5b9820adf1f7f0e0a8":[6,0,3993,2],
+"d9/d89/classspellIdImmunityPredicate.html#ae97afff7a6b3ea5dca917d3dbb9ef818":[6,0,3993,1],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html":[6,0,3671],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#a6964ca668f02a8b5b1c3015503a41eef":[6,0,3671,2],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#a6b6eaf3e761f2c173c2e72f46b25595a":[6,0,3671,1],
@@ -181,9 +183,9 @@ var NAVTREEINDEX236 =
 "d9/d8a/LogOperation_8h.html":[7,0,0,0,0,9,16],
 "d9/d8a/structQuestSortEntry.html":[6,0,2432],
 "d9/d8a/structQuestSortEntry.html#a61c817f16c280ee29e1c91bdb0c2fda8":[6,0,2432,0],
-"d9/d8a/structStableSlotPricesEntry.html":[6,0,4030],
-"d9/d8a/structStableSlotPricesEntry.html#a9cf01cf0d41d49613b4ceaf1eeb1716b":[6,0,4030,0],
-"d9/d8a/structStableSlotPricesEntry.html#aa53247914bda0ceca015b8b9ca117379":[6,0,4030,1],
+"d9/d8a/structStableSlotPricesEntry.html":[6,0,4031],
+"d9/d8a/structStableSlotPricesEntry.html#a9cf01cf0d41d49613b4ceaf1eeb1716b":[6,0,4031,0],
+"d9/d8a/structStableSlotPricesEntry.html#aa53247914bda0ceca015b8b9ca117379":[6,0,4031,1],
 "d9/d8b/structboss__sothos.html":[6,0,695],
 "d9/d8b/structboss__sothos.html#a042578148cae9a0b9befb7c5747a8e99":[6,0,695,5],
 "d9/d8b/structboss__sothos.html#a1433dddccb71896016bc014bdf92b453":[6,0,695,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3636,3],
 "d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3636,0],
 "d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3636,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,1983],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,1983,3],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a3a42e83216c0111a740a0c89e57c6f62":[6,0,1983,5]
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,1983]
 };

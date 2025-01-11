@@ -1442,7 +1442,8 @@ var hierarchy =
         [ "spell_yogg_saron_target_selectors", "df/d8c/classspell__yogg__saron__target__selectors.html", null ],
         [ "spell_yogg_saron_titanic_storm", "d9/d74/classspell__yogg__saron__titanic__storm.html", null ],
         [ "spell_zulfarrak_summon_zulfarrak_zombies", "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html", null ],
-        [ "spell_zulfarrak_unlocking", "d4/d36/classspell__zulfarrak__unlocking.html", null ]
+        [ "spell_zulfarrak_unlocking", "d4/d36/classspell__zulfarrak__unlocking.html", null ],
+        [ "spell_zuljin_zap", "db/d0e/classspell__zuljin__zap.html", null ]
       ] ]
     ] ],
     [ "AABound", "d5/dab/structAABound.html", null ],

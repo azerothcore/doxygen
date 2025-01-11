@@ -9,8 +9,8 @@ var structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapS
     [ "SetData", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#a566090f29d13977354fb50e68d92f046", null ],
     [ "Update", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#aad1666c364feff4e2b7654f5894c129f", null ],
     [ "WriteSaveDataMore", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "executionerGUID", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#aa7a664b841be7dc70cdc42a79710566e", null ],
-    [ "prisonerGUID", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#a79029c1bfc8f3234482c367e9c739b57", null ],
+    [ "ExecutionerGUID", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
     [ "RescueTimer", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#a8df2961264a192ab2692e3c8ca507666", null ],
     [ "TeamIdInInstance", "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html#a647e394629c44e1899e70a69324e8056", null ]
 ];

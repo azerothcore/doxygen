@@ -1,5 +1,12 @@
 var NAVTREEINDEX351 =
 {
+"de/d30/SpellMgr_8h.html#a4edcdc3e020b29d06505e8048874c414":[7,0,0,0,1,2,41,9,32],
+"de/d30/SpellMgr_8h.html#a4fe5e2a01f1b4ea090aa00a5c6146490":[7,0,0,0,1,2,41,9,37],
+"de/d30/SpellMgr_8h.html#a548a7734b72d00c646549629de190faf":[7,0,0,0,1,2,41,9,35],
+"de/d30/SpellMgr_8h.html#a5b7d1112d52fa7a4d81f9ac996c7030f":[7,0,0,0,1,2,41,9,43],
+"de/d30/SpellMgr_8h.html#a69bbd3906e9d334176d6a0ffde617490":[7,0,0,0,1,2,41,9,26],
+"de/d30/SpellMgr_8h.html#a6ff6942e4e3e7cb8a0e686d4cd15663d":[7,0,0,0,1,2,41,9,34],
+"de/d30/SpellMgr_8h.html#a729c75c0a1016cc9e4d93d87f6b894bc":[7,0,0,0,1,2,41,9,47],
 "de/d30/SpellMgr_8h.html#a7c0cdd053514c40a2feec0fec57fcbfb":[7,0,0,0,1,2,41,9,54],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136a":[7,0,0,0,1,2,41,9,58],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83":[7,0,0,0,1,2,41,9,58,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX351 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#af768b50e85b799d35844b173d94e578d":[6,0,1270,0,23],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aff696873e854d325e42b3fd7623128b3":[6,0,1270,0,2],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aff8e5df41dd304df32a6ad3ac185b672":[6,0,1270,0,15],
-"de/d33/structnpc__healing__ward.html":[6,0,1801],
-"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1801,5],
-"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[6,0,1801,0],
-"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[6,0,1801,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1801,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1801,2],
-"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1801,3],
-"de/d34/classspell__gordunni__trap.html":[6,0,2982]
+"de/d33/structnpc__healing__ward.html":[6,0,1801]
 };

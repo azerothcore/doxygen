@@ -20,7 +20,9 @@ var shattered__halls_8h =
       [ "NPC_PRIVATE_JACINT", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eac80c1eab903468e1ad601285c81c9f76", null ],
       [ "NPC_KORAG_PROUDMANE", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea29c2c4667cb593f215943bc2329b76d8", null ],
       [ "NPC_CAPTAIN_BONESHATTER", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaf3b6aefd2fb5626550e1c0435635b2bc", null ],
-      [ "NPC_SCOUT_ORGARR", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ead5eef2e0cd9e77cc0d969043bee11b65", null ]
+      [ "NPC_SCOUT_ORGARR", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ead5eef2e0cd9e77cc0d969043bee11b65", null ],
+      [ "NPC_DRISELLA", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c", null ],
+      [ "NPC_RANDY_WHIZZLESPROCKET", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae6f40ad8a42f5bfe6b72df5db730fe2", null ]
     ] ],
     [ "DataTypes", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "DATA_NETHEKURSE", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22abf6aceeb13c42866b5cd82d397a3f3eb", null ],

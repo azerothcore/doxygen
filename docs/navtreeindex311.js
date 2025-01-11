@@ -1,5 +1,12 @@
 var NAVTREEINDEX311 =
 {
+"dc/de8/classBattlegroundIC.html#a187acc6a446edb836448937616c9f197":[6,0,309,24],
+"dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e":[6,0,309,11],
+"dc/de8/classBattlegroundIC.html#a2329a98ce3beede2e9c52b058ffc7267":[6,0,309,22],
+"dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[6,0,309,37],
+"dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30":[6,0,309,12],
+"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[6,0,309,18],
+"dc/de8/classBattlegroundIC.html#a40e3f213ab179fed03eaf522671b8ed4":[6,0,309,28],
 "dc/de8/classBattlegroundIC.html#a498d3e2919acc4c8e8ae117dbbf4a1e0":[6,0,309,6],
 "dc/de8/classBattlegroundIC.html#a4bb4895ace9d7004913da10ac62ad509":[6,0,309,34],
 "dc/de8/classBattlegroundIC.html#a4de35e642c708834956432a621b7fa28":[6,0,309,35],
@@ -242,12 +249,5 @@ var NAVTREEINDEX311 =
 "dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[6,0,2547,0],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html":[6,0,3937],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,3937,2],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,3937,1],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,3937,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3]
+"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,3937,1]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX370 =
 {
+"df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4143,1],
+"df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4143,4],
+"df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4143,5],
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4143,0],
+"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4143,3],
+"df/d05/structWebTargetSelector.html":[6,0,4178],
+"df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[6,0,4178,1],
+"df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[6,0,4178,0],
+"df/d05/structWebTargetSelector.html#ad21c9ac380f7b97aacc06f08f1c45974":[6,0,4178,2],
 "df/d07/boss__moira__bronzebeard_8cpp.html":[7,0,0,0,1,3,2,1,0,12],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9d":[7,0,0,0,1,3,2,1,0,12,5],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9da332f1bb7b8077ebb87199295c6cd670b":[7,0,0,0,1,3,2,1,0,12,5,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX370 =
 "df/d14/classPet.html#a04c9223accb74363902edd455c7b836e":[6,0,2348,48],
 "df/d14/classPet.html#a0595dccf2ddfc73bffb69512ca6c79ce":[6,0,2348,81],
 "df/d14/classPet.html#a08deaa012267337fe991915fa6114e72":[6,0,2348,0],
-"df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7":[6,0,2348,57],
-"df/d14/classPet.html#a0f1272e143553fa21884ebad628d31c8":[6,0,2348,36],
-"df/d14/classPet.html#a10d8a224dc5726395aa872a6caaf9429":[6,0,2348,54],
-"df/d14/classPet.html#a1223cf843907fc54e5428e12b3f85de6":[6,0,2348,78],
-"df/d14/classPet.html#a13ab01f117d87d02badb7f4f4e98710b":[6,0,2348,13],
-"df/d14/classPet.html#a16d96ee5a28389b29128ede8702096ee":[6,0,2348,32],
-"df/d14/classPet.html#a211a1e0df229610952fbec24c9d3240b":[6,0,2348,71],
-"df/d14/classPet.html#a235e6d5091f5923f17257ef909128039":[6,0,2348,20],
-"df/d14/classPet.html#a29db51ddfb19ca7fe27815b9cbe11f9f":[6,0,2348,88],
-"df/d14/classPet.html#a2aa7a541439129ba1e1ec73d8b444015":[6,0,2348,27]
+"df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7":[6,0,2348,57]
 };

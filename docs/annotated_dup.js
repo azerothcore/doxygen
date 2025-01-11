@@ -4439,6 +4439,7 @@ var annotated_dup =
     [ "spell_z_check_aura", "d3/d0c/classspell__z__check__aura.html", "d3/d0c/classspell__z__check__aura" ],
     [ "spell_zulfarrak_summon_zulfarrak_zombies", "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html", "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies" ],
     [ "spell_zulfarrak_unlocking", "d4/d36/classspell__zulfarrak__unlocking.html", "d4/d36/classspell__zulfarrak__unlocking" ],
+    [ "spell_zuljin_zap", "db/d0e/classspell__zuljin__zap.html", "db/d0e/classspell__zuljin__zap" ],
     [ "SpellArea", "d5/d27/structSpellArea.html", "d5/d27/structSpellArea" ],
     [ "SpellBonusEntry", "db/d90/structSpellBonusEntry.html", "db/d90/structSpellBonusEntry" ],
     [ "SpellCastTargets", "d4/d3a/classSpellCastTargets.html", "d4/d3a/classSpellCastTargets" ],

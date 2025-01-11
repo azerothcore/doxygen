@@ -1,5 +1,7 @@
 var NAVTREEINDEX266 =
 {
+"da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9":[7,0,0,0,1,3,2,15,7,15],
+"da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a0947710156d8a33ca49bb50006eaeb9b":[7,0,0,0,1,3,2,15,7,15,1],
 "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25":[7,0,0,0,1,3,2,15,7,15,0],
 "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a2cbca2a74cf6c73fc2fb28813653c694":[7,0,0,0,1,3,2,15,7,15,2],
 "da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,2,15,7,15,3],
@@ -89,13 +91,13 @@ var NAVTREEINDEX266 =
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[6,0,1360,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[6,0,1360,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[6,0,1360,6],
-"da/def/structSpellCooldown.html":[6,0,3982],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,3982,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,3982,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,3982,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,3982,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,3982,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,3982,0],
+"da/def/structSpellCooldown.html":[6,0,3983],
+"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,3983,2],
+"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,3983,5],
+"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,3983,4],
+"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,3983,1],
+"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,3983,3],
+"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,3983,0],
 "da/df1/classMetric.html":[6,0,1469],
 "da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[6,0,1469,28],
 "da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[6,0,1469,26],
@@ -247,7 +249,5 @@ var NAVTREEINDEX266 =
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7":[7,0,0,0,1,2,38,0,7,2,6],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0":[7,0,0,0,1,2,38,0,7,2,3],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1":[7,0,0,0,1,2,38,0,7,2,16],
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb":[7,0,0,0,1,2,38,0,7,2,1],
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2":[7,0,0,0,1,2,38,0,7,2,0],
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8":[7,0,0,0,1,2,38,0,7,2,13]
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb":[7,0,0,0,1,2,38,0,7,2,1]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX295 =
 {
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1621,0],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1621,0,4],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1621,0,2],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[6,0,1621,0,5],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a75dca4f2e90318f334e7e6385d4f7a6f":[6,0,1621,0,0],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a9752f518441071dd4a60cd63423bf9a3":[6,0,1621,0,3],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#afe9b10dfcee3b241a48e6f2e40eec657":[6,0,1621,0,1],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html":[6,0,2007,0],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a28477c5f88b5ec77dc3e021ec01401ce":[6,0,2007,0,0],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a32d9b6bd2f0b994adb33e2bd99dd34ce":[6,0,2007,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,399,4],
 "dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,399,3],
 "dc/d1b/structboss__curator.html#af6fbf3c3d77f9f052f11974f7b54feab":[6,0,399,5],
-"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3036],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[6,0,3036,2],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a4b95717cb19116b81f3eec798089abad":[6,0,3036,0],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a581645fa151531aaf7b562a8739d5616":[6,0,3036,1],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[6,0,3036,3],
-"dc/d1d/Corpse_8h.html":[7,0,0,0,1,2,16,0,1],
-"dc/d1d/Corpse_8h.html#a1cebf109f41dcdac8a90086696642782":[7,0,0,0,1,2,16,0,1,1],
-"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683":[7,0,0,0,1,2,16,0,1,4]
+"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3036]
 };

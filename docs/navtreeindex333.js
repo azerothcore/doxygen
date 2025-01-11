@@ -1,5 +1,12 @@
 var NAVTREEINDEX333 =
 {
+"dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a0d8d042e6e9bf8fd26b6f283f6da6194":[6,0,3117,0],
+"dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a84ec7db2aab055bc4328a4d8862bd3f5":[6,0,3117,1],
+"dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a9ee8e71020c17f593472de5a9c130753":[6,0,3117,2],
+"dd/def/AchievementCriteriaScript_8h.html":[7,0,0,0,1,2,38,0,3],
+"dd/def/classspell__q11065__wrangle__some__aether__rays.html":[6,0,3552],
+"dd/def/classspell__q11065__wrangle__some__aether__rays.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6":[6,0,3552,2],
+"dd/def/classspell__q11065__wrangle__some__aether__rays.html#aa9cc041f2e0dae1eb322713d4f140ce8":[6,0,3552,1],
 "dd/def/classspell__q11065__wrangle__some__aether__rays.html#ada9b1c9e159956cb2a79610dbdb3eaf9":[6,0,3552,0],
 "dd/df0/classnpc__attracted__reef__bull.html":[6,0,1585],
 "dd/df0/classnpc__attracted__reef__bull.html#acd0ade9e7ce5492c11be0b3f2696418e":[6,0,1585,1],
@@ -76,10 +83,10 @@ var NAVTREEINDEX333 =
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[6,0,0,38,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[6,0,0,38,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,1,50,0,3],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,1,50,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,38,0,1],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,1,50,0,2],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,1,50,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,38,0,2],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,1,50,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,38,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,50,0,0],
 "dd/df8/SRP6_8h.html":[7,0,0,0,0,3,0,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX333 =
 "de/d00/structboss__roar.html#aaaa0d33697fe1abc0df5bf9ecb249ffc":[6,0,661,6],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html":[6,0,2136,0],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a0fc7ca1313a21c5f74539ce2dbd7465d":[6,0,2136,0,1],
-"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a628772971a9c2a190ffe2fae6b0b6865":[6,0,2136,0,0],
-"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#ae96e0de4a36dde3237520e8a0ddd9f5f":[6,0,2136,0,2],
-"de/d01/classIpLocationStore.html":[6,0,1345],
-"de/d01/classIpLocationStore.html#a06384169031d2417a7f6bac54d3187a9":[6,0,1345,2],
-"de/d01/classIpLocationStore.html#a1b3a38bbd932ae50d55ff15374aa2f37":[6,0,1345,0],
-"de/d01/classIpLocationStore.html#a411302e6bf5e5e82e5cd59e78e66bd0b":[6,0,1345,4],
-"de/d01/classIpLocationStore.html#a82360c1ce130670fde23d42135f91324":[6,0,1345,1],
-"de/d01/classIpLocationStore.html#ad740adf9b81b37cf147dc00e220b29db":[6,0,1345,3]
+"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a628772971a9c2a190ffe2fae6b0b6865":[6,0,2136,0,0]
 };

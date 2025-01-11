@@ -1,5 +1,12 @@
 var NAVTREEINDEX328 =
 {
+"dd/dc1/MovementUtil_8cpp.html#a4e816239736800d4508c1fc14e624ddc":[7,0,0,0,1,2,31,1,3,9],
+"dd/dc1/MovementUtil_8cpp.html#a654673c77f53f27a80309b050d44d38d":[7,0,0,0,1,2,31,1,3,10],
+"dd/dc1/MovementUtil_8cpp.html#a7d1eb637bb6ae4a1859504fb84872808":[7,0,0,0,1,2,31,1,3,7],
+"dd/dc1/MovementUtil_8cpp.html#a87260372150c8322b45e75bfaa445f14":[7,0,0,0,1,2,31,1,3,1],
+"dd/dc1/MovementUtil_8cpp.html#a98cc74e5667e1057f334f02a28abcb01":[7,0,0,0,1,2,31,1,3,11],
+"dd/dc1/MovementUtil_8cpp.html#aa6a1b38cb6e1507d88f0f45a4820990b":[7,0,0,0,1,2,31,1,3,5],
+"dd/dc1/MovementUtil_8cpp.html#aa927e4ada20ca56ce951239357407270":[7,0,0,0,1,2,31,1,3,6],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html":[6,0,3386],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[6,0,3386,0],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[6,0,3386,1],
@@ -72,9 +79,9 @@ var NAVTREEINDEX328 =
 "dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1cac005dbd1ce453e73fcaccc2947bf971d":[7,0,0,0,1,3,7,2,2,4,5,0],
 "dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1cae473549b8b6a55e4c7ffdb0c2cc0f214":[7,0,0,0,1,3,7,2,2,4,5,2],
 "dd/dc6/steam__vault_8h.html#ad79516eee3b91946c25c59331935e1ab":[7,0,0,0,1,3,7,2,2,4,6],
-"dd/dc6/structWaveCreature.html":[6,0,4161],
-"dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[6,0,4161,0],
-"dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[6,0,4161,1],
+"dd/dc6/structWaveCreature.html":[6,0,4162],
+"dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[6,0,4162,0],
+"dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[6,0,4162,1],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[6,0,2072,0],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[6,0,2072,0,1],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a3fbae63669c8382097b0bcb936301945":[6,0,2072,0,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX328 =
 "dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2093,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
-"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357":[7,0,0,0,1,2,38,0,75,1],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a002be09105d92b7edefa4c442ce040e5":[7,0,0,0,1,2,38,0,75,1,160],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a020ab2524fa543d1063bbeba914880e7":[7,0,0,0,1,2,38,0,75,1,129],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02453111bfc178b81ea188400c41936d":[7,0,0,0,1,2,38,0,75,1,65],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02de63d1819adb4a4e59936bb2c6e29d":[7,0,0,0,1,2,38,0,75,1,110],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a03539459952f9e2f5bd06aed55ff8438":[7,0,0,0,1,2,38,0,75,1,24],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0926eaeb74efef88a99b97ebd77aba2f":[7,0,0,0,1,2,38,0,75,1,75]
+"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75]
 };

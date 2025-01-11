@@ -481,7 +481,7 @@ var searchData=
   ['_5fdefenderskilled_478',['_defendersKilled',['../da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#abb53f597c52726680dd20f4946dc363b',1,'instance_sunken_temple::instance_sunken_temple_InstanceMapScript']]],
   ['_5fdefenseskill_479',['_defenseSkill',['../d5/d65/structlfg_1_1RBInternalInfo.html#ae054e980b0874ed79177ccf4d01ee153',1,'lfg::RBInternalInfo']]],
   ['_5fdeforestation_480',['_deforestation',['../d3/d07/structboss__freya_1_1boss__freyaAI.html#afa6d2870adc9b550f3ca6c190bb61b4c',1,'boss_freya::boss_freyaAI']]],
-  ['_5fdelay_481',['_delay',['../de/d9d/classspell__hadronox__summon__periodic__aura.html#a191d7eec948e0753835bd41eef66f1ec',1,'spell_hadronox_summon_periodic_aura::_delay'],['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay']]],
+  ['_5fdelay_481',['_delay',['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay'],['../de/d9d/classspell__hadronox__summon__periodic__aura.html#a191d7eec948e0753835bd41eef66f1ec',1,'spell_hadronox_summon_periodic_aura::_delay']]],
   ['_5fdelayedteleport_482',['_delayedTeleport',['../de/da9/classMotionTransport.html#a3715caa515f3096c9c03a1b64bd8bebf',1,'MotionTransport']]],
   ['_5fdelaytimer_483',['_delayTimer',['../df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be',1,'npc_ranshalla::npc_ranshallaAI']]],
   ['_5fdeletebankitems_484',['_DeleteBankItems',['../de/d79/classGuild.html#a339f2b47fec6228e85ac765a0eebcb3c',1,'Guild']]],
@@ -771,7 +771,7 @@ var searchData=
   ['_5fguardeluneguid_768',['_guardEluneGUID',['../df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a575afe78a40c8d49a928772fbec64dd9',1,'npc_ranshalla::npc_ranshallaAI']]],
   ['_5fguardiantimer_769',['_guardianTimer',['../de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aaf1409ef7e2c3ef43d0704f586a75312',1,'instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript']]],
   ['_5fguardlist_770',['_guardlist',['../d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623',1,'npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::_guardList'],['../d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a1d8ccb93c5c8d13767fa8a1429adb262',1,'npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::_guardList']]],
-  ['_5fguid_771',['_guid',['../d0/d0a/classObjectGuid.html#a7af28584189cdcc9d9460374bef4593d',1,'ObjectGuid::_guid'],['../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a378564a9a7e2b4a85381cc4e3c371451',1,'Acore::ChatCommands::PlayerIdentifier::_guid'],['../d9/d20/classWhoListPlayerInfo.html#a1202a6f9ad207c7f1f3a58513278c58a',1,'WhoListPlayerInfo::_guid'],['../d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555',1,'Acore::ObjectGUIDCheck::_GUID']]],
+  ['_5fguid_771',['_guid',['../d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555',1,'Acore::ObjectGUIDCheck::_GUID'],['../d0/d0a/classObjectGuid.html#a7af28584189cdcc9d9460374bef4593d',1,'ObjectGuid::_guid'],['../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a378564a9a7e2b4a85381cc4e3c371451',1,'Acore::ChatCommands::PlayerIdentifier::_guid'],['../d9/d20/classWhoListPlayerInfo.html#a1202a6f9ad207c7f1f3a58513278c58a',1,'WhoListPlayerInfo::_guid']]],
   ['_5fguidgenerators_772',['_guidgenerators',['../d5/dfb/classObjectMgr.html#a963cee871ecb0c3ea1814d48a3bb5ac7',1,'ObjectMgr::_guidGenerators'],['../d7/db0/classMap.html#adfeed908a39835e79fee44f4a8cb61a3',1,'Map::_guidGenerators']]],
   ['_5fguidvector_773',['_guidVector',['../d5/df7/classObjectGuidVector.html#aefce0edc7881ca01ba8c8c98067e165d',1,'ObjectGuidVector']]],
   ['_5fguildid_774',['_guildId',['../d8/dff/structCalendarEvent.html#a849efebab349382a1f21b2ec209c2fad',1,'CalendarEvent']]],
@@ -1471,7 +1471,7 @@ var searchData=
   ['_5fprofanitynamesstore_1468',['_profanityNamesStore',['../d5/dfb/classObjectMgr.html#a14047bf3a72d59318c21946b10b457b9',1,'ObjectMgr']]],
   ['_5fproxyheaderreadingenabled_1469',['_proxyHeaderReadingEnabled',['../d5/d87/classNetworkThread.html#aac8fdbb8b3ec4f0edac5a1b0aa929fa4',1,'NetworkThread']]],
   ['_5fproxyheaderreadingstate_1470',['_proxyHeaderReadingState',['../d4/d33/classSocket.html#a90e0ed7fcf294898d3d866e0c2293127',1,'Socket']]],
-  ['_5fptr_1471',['_ptr',['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr'],['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr']]],
+  ['_5fptr_1471',['_ptr',['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr'],['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr']]],
   ['_5fpummelercount_1472',['_pummelerCount',['../d3/d15/structnpc__xt002__heart_1_1npc__xt002__heartAI.html#a8179da94f961897085289568468d2bba',1,'npc_xt002_heart::npc_xt002_heartAI']]],
   ['_5fpursuittargetguid_1473',['_pursuitTargetGUID',['../dd/d08/structboss__grilek_1_1boss__grilekAI.html#ad20779cdb8d82ae8a54c12a8d4b0bada',1,'boss_grilek::boss_grilekAI']]],
   ['_5fpvp_1474',['_pvp',['../d6/d79/classOPvPCapturePoint.html#ab3219f9a9866fa4643f3fa66f7bc70c8',1,'OPvPCapturePoint']]],
@@ -1975,7 +1975,7 @@ var searchData=
   ['_5funder25percenttalkdone_1972',['_under25PercentTalkDone',['../d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a288c98af035d55bef4322f7fe91d26b9',1,'boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI']]],
   ['_5funiquetimedevents_1973',['_uniqueTimedEvents',['../db/dc8/structScriptedAI.html#a0cad563d21fbd0958def8d3e9be3cd25',1,'ScriptedAI']]],
   ['_5funit_1974',['_unit',['../dd/d80/structCharmInfo.html#af62aeed73a3a4ecc6fe8f81f8cebea8b',1,'CharmInfo::_unit'],['../de/d59/classSplineHandler.html#aaafb07271736d8bc89d07aafbbae7f25',1,'SplineHandler::_unit']]],
-  ['_5funload_1975',['_unload',['../d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f',1,'Model::_unload()'],['../dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df',1,'_SpellScript::_Unload()']]],
+  ['_5funload_1975',['_unload',['../dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df',1,'_SpellScript::_Unload()'],['../d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f',1,'Model::_unload()']]],
   ['_5funloadimplicittargetconditionlists_1976',['_UnloadImplicitTargetConditionLists',['../d2/de9/classSpellInfo.html#a6c19e9a1b420634cd7201e09b9bd0cbc',1,'SpellInfo']]],
   ['_5funregisterdynobject_1977',['_UnregisterDynObject',['../df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857',1,'Unit']]],
   ['_5fupdate_1978',['_update',['../d9/d7e/classDatabaseLoader.html#aa0473ab9141855bd64a9dc5ac6e2bc83',1,'DatabaseLoader']]],
@@ -2078,5 +2078,5 @@ var searchData=
   ['_5fzigguratstate2_2075',['_zigguratState2',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzigguratstate3_2076',['_zigguratState3',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzonedynamicinfo_2077',['_zoneDynamicInfo',['../d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f',1,'Map']]],
-  ['_5fzoneid_2078',['_zoneid',['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid'],['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId']]]
+  ['_5fzoneid_2078',['_zoneid',['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId'],['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid']]]
 ];

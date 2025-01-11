@@ -1,11 +1,11 @@
 var NAVTREEINDEX154 =
 {
-"d5/dc7/structSpellEntry.html#af0bfd5d7047b9fff6dadbeb7e0049837":[6,0,3989,66],
-"d5/dc7/structSpellEntry.html#af1586de0e99ed09fbd805fa4a09f2c6c":[6,0,3989,74],
-"d5/dc7/structSpellEntry.html#af173dce15da28e663953f57d435f3dd8":[6,0,3989,29],
-"d5/dc7/structSpellEntry.html#af89b96363f1bde634ea89269fae39a2f":[6,0,3989,23],
-"d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[6,0,3989,82],
-"d5/dc7/structSpellEntry.html#afd20211c0346e85509641da5c413f3de":[6,0,3989,6],
+"d5/dc7/structSpellEntry.html#af0bfd5d7047b9fff6dadbeb7e0049837":[6,0,3990,66],
+"d5/dc7/structSpellEntry.html#af1586de0e99ed09fbd805fa4a09f2c6c":[6,0,3990,74],
+"d5/dc7/structSpellEntry.html#af173dce15da28e663953f57d435f3dd8":[6,0,3990,29],
+"d5/dc7/structSpellEntry.html#af89b96363f1bde634ea89269fae39a2f":[6,0,3990,23],
+"d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[6,0,3990,82],
+"d5/dc7/structSpellEntry.html#afd20211c0346e85509641da5c413f3de":[6,0,3990,6],
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html":[6,0,724,0],
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a1cb3ef9fdfc9e375d15e14b9230dd51e":[6,0,724,0,2],
 "d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a6ef7c9e23280564aec1b82eb670bc4f9":[6,0,724,0,4],

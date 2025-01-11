@@ -1,5 +1,12 @@
 var NAVTREEINDEX310 =
 {
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded":[7,0,0,0,1,3,3,1,40,3],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[7,0,0,0,1,3,3,1,40,5],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf2538d75def0c158b7a28c33187f39d0":[7,0,0,0,1,3,3,1,40,6],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,3,1,40,0],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784cafc9c1989ff6b959b21add6f92af072d8":[7,0,0,0,1,3,3,1,40,2],
+"dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663":[7,0,0,0,1,3,3,1,35],
+"dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663a027d4077cde87fd4a1ae2ed918c72887":[7,0,0,0,1,3,3,1,35,1],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663a8ee82bf806ca0d2d14e8e91877942bc4":[7,0,0,0,1,3,3,1,35,3],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663ab974bef4b163b78c262252509b9352c1":[7,0,0,0,1,3,3,1,35,2],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663afd2662e5ad45793954d7eca931443e2a":[7,0,0,0,1,3,3,1,35,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX310 =
 "dc/de7/structboss__fathomlord__karathress.html#ae221d994f2ebb0a298288233727ea1ba":[6,0,446,3],
 "dc/de8/classBattlegroundIC.html":[6,0,309],
 "dc/de8/classBattlegroundIC.html#a09ff848e58542003c0ea3144d8ccd0ea":[6,0,309,7],
-"dc/de8/classBattlegroundIC.html#a0f5c44d05fea0a7a7b7a2f207af4a631":[6,0,309,20],
-"dc/de8/classBattlegroundIC.html#a187acc6a446edb836448937616c9f197":[6,0,309,24],
-"dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e":[6,0,309,11],
-"dc/de8/classBattlegroundIC.html#a2329a98ce3beede2e9c52b058ffc7267":[6,0,309,22],
-"dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[6,0,309,37],
-"dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30":[6,0,309,12],
-"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[6,0,309,18],
-"dc/de8/classBattlegroundIC.html#a40e3f213ab179fed03eaf522671b8ed4":[6,0,309,28]
+"dc/de8/classBattlegroundIC.html#a0f5c44d05fea0a7a7b7a2f207af4a631":[6,0,309,20]
 };

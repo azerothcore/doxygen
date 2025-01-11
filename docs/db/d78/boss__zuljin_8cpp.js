@@ -5,6 +5,7 @@ var boss__zuljin_8cpp =
     [ "boss_zuljin", "d4/dfa/structboss__zuljin.html", "d4/dfa/structboss__zuljin" ],
     [ "npc_zuljin_vortex", "d7/d01/structnpc__zuljin__vortex.html", "d7/d01/structnpc__zuljin__vortex" ],
     [ "spell_claw_rage_aura", "d5/dca/classspell__claw__rage__aura.html", "d5/dca/classspell__claw__rage__aura" ],
+    [ "spell_zuljin_zap", "db/d0e/classspell__zuljin__zap.html", "db/d0e/classspell__zuljin__zap" ],
     [ "CreatureEntries", "db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],

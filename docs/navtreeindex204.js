@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/def/classspell__the__lich__king__vile__spirits__visual.html#ad3900c969dfb05a61ebc750eb3425bc0":[6,0,3822,2],
 "d7/df0/classevent__commandscript.html":[6,0,1007],
 "d7/df0/classevent__commandscript.html#a1322b3206a1846dc0404a3fb5c74e025":[6,0,1007,5],
 "d7/df0/classevent__commandscript.html#a160db0ad8874b0834ef863043b1796ae":[6,0,1007,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/df1/UnitDefines_8h.html#ab7f73bef2e8c2d6be5e65b55062f3ceb":[7,0,0,0,1,2,16,10,6,8],
 "d7/df1/UnitDefines_8h.html#ab7f73bef2e8c2d6be5e65b55062f3ceba52aec647eb936e99455c1bad2d7f1c16":[7,0,0,0,1,2,16,10,6,8,0],
 "d7/df1/UnitDefines_8h.html#ab7f73bef2e8c2d6be5e65b55062f3ceba72a383a4d8b9eacc45b04550148927f0":[7,0,0,0,1,2,16,10,6,8,1],
-"d7/df1/UnitDefines_8h.html#ab7f73bef2e8c2d6be5e65b55062f3cebaa9bbc59f38a4dbcf5ab69ab31caa8974":[7,0,0,0,1,2,16,10,6,8,2],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89":[7,0,0,0,1,2,16,10,6,6]
+"d7/df1/UnitDefines_8h.html#ab7f73bef2e8c2d6be5e65b55062f3cebaa9bbc59f38a4dbcf5ab69ab31caa8974":[7,0,0,0,1,2,16,10,6,8,2]
 };

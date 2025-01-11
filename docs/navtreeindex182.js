@@ -1,6 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a056aa8fd704d832e83735cf2a1a22888":[6,0,432,0,7],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a16d2b13fcf3dfa513813669b44712c4c":[6,0,432,0,3],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a25eed717395b4e1ca5504d2d473e2500":[6,0,432,0,0],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a67e9f5a361894aa227f2a74f9222740d":[6,0,432,0,6],
@@ -85,14 +84,14 @@ var NAVTREEINDEX182 =
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa5abd29a74790b35b5baffb698d18029":[7,0,0,0,1,3,5,11,5,5,0],
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac043dcd883c573c1879ec36d05f239f2":[7,0,0,0,1,3,5,11,5,5,5],
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63adc280c4712578c2969c61318e1630c2f":[7,0,0,0,1,3,5,11,5,5,1],
-"d7/d0d/structWayPoint.html":[6,0,4164],
-"d7/d0d/structWayPoint.html#a3fb66d4e5cb360ce49b42518ed2b5247":[6,0,4164,0],
-"d7/d0d/structWayPoint.html#a42a0da500ce0495968af4d8e8568ea26":[6,0,4164,2],
-"d7/d0d/structWayPoint.html#a42f341fba1d8d0406e086414bcdb7948":[6,0,4164,3],
-"d7/d0d/structWayPoint.html#a4b0160c4f8941aa20772baf06c6a7286":[6,0,4164,6],
-"d7/d0d/structWayPoint.html#ad766ebb0355b936da137a18b593aa2e4":[6,0,4164,1],
-"d7/d0d/structWayPoint.html#adfe474d3c93a63fbe78935c1b2873cae":[6,0,4164,5],
-"d7/d0d/structWayPoint.html#aff5ba831af9f5f01b7ebb5f784d085f7":[6,0,4164,4],
+"d7/d0d/structWayPoint.html":[6,0,4165],
+"d7/d0d/structWayPoint.html#a3fb66d4e5cb360ce49b42518ed2b5247":[6,0,4165,0],
+"d7/d0d/structWayPoint.html#a42a0da500ce0495968af4d8e8568ea26":[6,0,4165,2],
+"d7/d0d/structWayPoint.html#a42f341fba1d8d0406e086414bcdb7948":[6,0,4165,3],
+"d7/d0d/structWayPoint.html#a4b0160c4f8941aa20772baf06c6a7286":[6,0,4165,6],
+"d7/d0d/structWayPoint.html#ad766ebb0355b936da137a18b593aa2e4":[6,0,4165,1],
+"d7/d0d/structWayPoint.html#adfe474d3c93a63fbe78935c1b2873cae":[6,0,4165,5],
+"d7/d0d/structWayPoint.html#aff5ba831af9f5f01b7ebb5f784d085f7":[6,0,4165,4],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html":[6,0,667,0],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a55c0bba93a90b5a3770c81b9c4d2fe5b":[6,0,667,0,8],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a59bc42afcbb0ed2c2629bd0280836194":[6,0,667,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX182 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2233,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2233,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2233,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5]
 };
