@@ -1,5 +1,15 @@
 var NAVTREEINDEX222 =
 {
+"d8/dd3/UpdateFieldFlags_8h.html#aefe3be44e608ab4935e11ea44f8e0ce6":[7,0,0,0,1,2,16,5,0,3,2],
+"d8/dd5/LootHandler_8cpp.html":[7,0,0,0,1,2,22,17],
+"d8/dd5/classnpc__bushwhacker.html":[6,0,1639],
+"d8/dd5/classnpc__bushwhacker.html#ab3190b66069e820abf3637bb877066a0":[6,0,1639,2],
+"d8/dd5/classnpc__bushwhacker.html#ad87a9fdec3d5dbaef429c88905a5f6e8":[6,0,1639,1],
+"d8/dd5/instance__gundrak_8cpp.html":[7,0,0,0,1,3,5,5,6],
+"d8/dd5/instance__gundrak_8cpp.html#a232822e6236513eb23c90943d98fd6dc":[7,0,0,0,1,3,5,5,6,2],
+"d8/dd5/instance__gundrak_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,5,6,3],
+"d8/dd5/structClientWardenModule.html":[6,0,868],
+"d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944":[6,0,868,0],
 "d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e":[6,0,868,1],
 "d8/dd5/structClientWardenModule.html#ad100540b5c6722a19c938b134a985aed":[6,0,868,3],
 "d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794":[6,0,868,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea7619d743dc30a4fc6ae14328af5d8f4a":[7,0,0,0,1,3,5,24,20,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea903fb1c0c0c1e0d05da3ad65312d3a4a":[7,0,0,0,1,3,5,24,20,3],
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963eadc17cbed34c9319ab20132469e91ad53":[7,0,0,0,1,3,5,24,20,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132c":[7,0,0,0,1,3,5,24,22],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca00196fac05608ead9789c51d9dff96e4":[7,0,0,0,1,3,5,24,22,2],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca16720611d2a8048c24a7f179d8d464f9":[7,0,0,0,1,3,5,24,22,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca3b88ffb5021d65bc5be890a51f243cba":[7,0,0,0,1,3,5,24,22,0],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca6d753ec23fd856df77f453270305a065":[7,0,0,0,1,3,5,24,22,5],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132caadec99b9f8e1e1a6bd3aff29a5365b7e":[7,0,0,0,1,3,5,24,22,7],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cabf80d52d9c82bd67fd19840d4d4e44d1":[7,0,0,0,1,3,5,24,22,4],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cac0db7c2e9ed4be044bbd919420e74d08":[7,0,0,0,1,3,5,24,22,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
-"d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1]
+"d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25]
 };

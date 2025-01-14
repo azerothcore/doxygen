@@ -1,5 +1,11 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aa260a1f5edc9dabe13993e70c6aa4b62":[7,0,0,0,1,3,5,9,2,13,61,5],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aab56e8def367d7b08fa4a2b67ce222d6":[7,0,0,0,1,3,5,9,2,13,61,21],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab4c4dc666a5c4cd4e9c16f65cf3d5ecf":[7,0,0,0,1,3,5,9,2,13,61,24],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab5322ea77f92c7302d78eb2a9af502f3":[7,0,0,0,1,3,5,9,2,13,61,14],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959abd0575cd83ccbb6cfce2ed374c32de7a":[7,0,0,0,1,3,5,9,2,13,61,23],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ac95b534034df715b11fa93230ae12983":[7,0,0,0,1,3,5,9,2,13,61,25],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aca34c7e6de98bd1830d82c27f049cd01":[7,0,0,0,1,3,5,9,2,13,61,12],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959acb32fb6ef5552af61de27da686be3b2f":[7,0,0,0,1,3,5,9,2,13,61,4],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ad72106448b85c8e11fee7fd4dae735bf":[7,0,0,0,1,3,5,9,2,13,61,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1166],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1166,1],
-"d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1166,0],
-"d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html":[6,0,804],
-"d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html#aa539d8da20d440e595ceec02dcd2e4f3":[6,0,804,0],
-"d3/d49/Appender_8cpp.html":[7,0,0,0,0,9,0],
-"d3/d49/GameObjectAI_8cpp.html":[7,0,0,0,1,2,3,0,2],
-"d3/d4a/boss__onyxia_8cpp.html":[7,0,0,0,1,3,4,4,0],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,4,0,6]
+"d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1166,0]
 };

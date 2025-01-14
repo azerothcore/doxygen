@@ -1,5 +1,14 @@
 var NAVTREEINDEX175 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a0aa0c961bdeac93e543d7220a231efb9":[7,0,0,0,1,2,16,6,2,9,3],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a10924dd5bdf6d5e874dc90169d7428c0":[7,0,0,0,1,2,16,6,2,9,27],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a1312d5c9b922188d01ddc00f85de7a0a":[7,0,0,0,1,2,16,6,2,9,14],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a1517c7eb9a168500db21bdc6c7a1a7e8":[7,0,0,0,1,2,16,6,2,9,21],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a168170eaf66f49c4f8634b7d638eb71d":[7,0,0,0,1,2,16,6,2,9,24],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a17ac2d316ec1de174e4ec1ddf8f22a9a":[7,0,0,0,1,2,16,6,2,9,38],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a18b2632c7e6f3079e8a2cafa094d1477":[7,0,0,0,1,2,16,6,2,9,33],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a213f9282a4c8984e0f80f63df1ee0070":[7,0,0,0,1,2,16,6,2,9,0],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff":[7,0,0,0,1,2,16,6,2,9,39],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[7,0,0,0,1,2,16,6,2,9,15],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570":[7,0,0,0,1,2,16,6,2,9,31],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a47e6e2fa037fecebc1af203e75d24969":[7,0,0,0,1,2,16,6,2,9,9],
@@ -240,14 +249,5 @@ var NAVTREEINDEX175 =
 "d6/dac/structM2SplineKey.html#a40d46738768d6c2037e5978ce32a9fb8":[6,0,1433,2],
 "d6/dac/structM2SplineKey.html#a8c5a9c6371f264469203575be48684fa":[6,0,1433,1],
 "d6/dac/structM2SplineKey.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad":[6,0,1433,0],
-"d6/dad/classspell__gen__eject__all__passengers.html":[6,0,2890],
-"d6/dad/classspell__gen__eject__all__passengers.html#a4ec803f3164d6e38ddf10f4a0ca392e0":[6,0,2890,2],
-"d6/dad/classspell__gen__eject__all__passengers.html#a50e902cc281b909259097a8bed5651f2":[6,0,2890,1],
-"d6/dad/classspell__gen__eject__all__passengers.html#abb178100d4e5fa4032118f86aa34127d":[6,0,2890,0],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html":[6,0,2241,0],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2241,0,1],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2241,0,0],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2241,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22]
+"d6/dad/classspell__gen__eject__all__passengers.html":[6,0,2890]
 };

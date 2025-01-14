@@ -1,5 +1,8 @@
 var NAVTREEINDEX32 =
 {
+"d1/d4f/classQuest.html#a1f3dfbddd6a434059255220b0ea3feaa":[6,0,2418,35],
+"d1/d4f/classQuest.html#a21539315997cd0002075b8fa22f2414a":[6,0,2418,130],
+"d1/d4f/classQuest.html#a223366694ecec2c03363642eeb85f54a":[6,0,2418,129],
 "d1/d4f/classQuest.html#a24413850c04e8559fc97cc6242c29e80":[6,0,2418,171],
 "d1/d4f/classQuest.html#a26795fa9c5daf20043c08171c75672c9":[6,0,2418,138],
 "d1/d4f/classQuest.html#a2689be1a4799b2e9f1e456d2f4a1ec5b":[6,0,2418,51],
@@ -153,8 +156,8 @@ var NAVTREEINDEX32 =
 "d1/d50/classspell__gen__seaforium__blast.html#ab0ec836feb53875de355330e05367fe8":[6,0,2951,0],
 "d1/d50/classspell__gen__seaforium__blast.html#ae48c67f363e399f076122cb6eee10ffb":[6,0,2951,1],
 "d1/d50/classspell__gen__seaforium__blast.html#af0bb22c618af5dca7f534bea32e7ee7f":[6,0,2951,2],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,1,128],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,116],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,1,128],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,116,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,1,128,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[6,0,0,116,4],
@@ -167,14 +170,14 @@ var NAVTREEINDEX32 =
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[6,0,0,116,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,1,128,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[6,0,0,116,2],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,116,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[5,0,1,128,7],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[6,0,0,116,9],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,116,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[5,0,1,128,9],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,1,128,6],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[6,0,0,116,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[6,0,0,116,6],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[6,0,0,116,0],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,1,128,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[5,0,1,128,0],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[6,0,0,116,0],
 "d1/d55/GuildScript_8h.html":[7,0,0,0,1,2,38,0,56],
 "d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507e":[7,0,0,0,1,2,38,0,56,1],
 "d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc":[7,0,0,0,1,2,38,0,56,1,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX32 =
 "d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a95235e7a4943332acba827714141aed3":[7,0,0,0,1,3,2,1,1,12,7,5],
 "d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb9d8d679681eb112bdb7817e710f8d1":[7,0,0,0,1,3,2,1,1,12,7,3],
 "d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0c41ea1eb5f716fa3e1729642029213":[7,0,0,0,1,3,2,1,1,12,7,0],
-"d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae345a8c03e1eb0a7d4c52bc06361dffd":[7,0,0,0,1,3,2,1,1,12,7,2],
-"d1/d59/structboss__headless__horseman__pumpkin.html":[6,0,508],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,508,6],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,508,2]
+"d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae345a8c03e1eb0a7d4c52bc06361dffd":[7,0,0,0,1,3,2,1,1,12,7,2]
 };

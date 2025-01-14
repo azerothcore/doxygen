@@ -1,5 +1,17 @@
 var NAVTREEINDEX385 =
 {
+"df/da7/classBattleground.html#a07105385f71c07160418f66e71e0b53e":[6,0,296,237],
+"df/da7/classBattleground.html#a08b079bddbd3bbc5fd1ae22448738cf0":[6,0,296,171],
+"df/da7/classBattleground.html#a08e1612fa065bd42df3cee575c9f66fa":[6,0,296,40],
+"df/da7/classBattleground.html#a09632cebba6310e05423d0a145b84fcb":[6,0,296,65],
+"df/da7/classBattleground.html#a0aaf48a0b3b4241015d9dad82f6c55e4":[6,0,296,176],
+"df/da7/classBattleground.html#a0c51accd8da002ba439ef97a73f3c5e4":[6,0,296,20],
+"df/da7/classBattleground.html#a0d0353c4244b88c61de0c6124aab70fd":[6,0,296,179],
+"df/da7/classBattleground.html#a0d8aefed33201996044179dbc248a169":[6,0,296,39],
+"df/da7/classBattleground.html#a0da7cf3c47f49da20ce93c4bd4bc9970":[6,0,296,163],
+"df/da7/classBattleground.html#a0e23512a1aa9e333dc861e5a46b09f24":[6,0,296,18],
+"df/da7/classBattleground.html#a0f2b5179c9b91b5410f84eb199320720":[6,0,296,96],
+"df/da7/classBattleground.html#a11f638dab7a0cf67b8a3588fd7f30cc5":[6,0,296,196],
 "df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[6,0,296,190],
 "df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[6,0,296,81],
 "df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[6,0,296,58],
@@ -236,18 +248,6 @@ var NAVTREEINDEX385 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,296,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,296,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,296,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
-"df/da7/classspell__gen__clear__debuffs.html":[6,0,2871],
-"df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2871,2],
-"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2871,0],
-"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,2871,1],
-"df/da7/classspell__gen__gnomish__transporter.html":[6,0,2903],
-"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[6,0,2903,0]
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9]
 };

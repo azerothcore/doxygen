@@ -1,5 +1,12 @@
 var NAVTREEINDEX161 =
 {
+"d6/d09/classspell__herald__volzaj__insanity.html#a4fc295b4d8775dce16d913fe4a8ce8cb":[6,0,3023,2],
+"d6/d09/classspell__herald__volzaj__insanity.html#a539c233fc820248930e1988c4074b9c8":[6,0,3023,1],
+"d6/d09/classspell__herald__volzaj__insanity.html#aa85852ff5e5d03637d1dcc43a446843e":[6,0,3023,0],
+"d6/d09/classspell__herald__volzaj__insanity.html#aad6f7f1d29414475b5e678e7bd94737f":[6,0,3023,3],
+"d6/d09/classspell__herald__volzaj__insanity.html#ae90184fd34636b33755b732ec82fd52f":[6,0,3023,4],
+"d6/d0a/classspell__gen__black__magic__enchant.html":[6,0,2862],
+"d6/d0a/classspell__gen__black__magic__enchant.html#a9fff895957dfedb5d975e4a8e9588aa9":[6,0,2862,1],
 "d6/d0a/classspell__gen__black__magic__enchant.html#ab0746e7fa614f09708f89ed3ef93fca9":[6,0,2862,2],
 "d6/d0a/classspell__gen__black__magic__enchant.html#afa477049b9a4fa18594b203a6066d205":[6,0,2862,0],
 "d6/d0b/boss__anzu_8cpp.html":[7,0,0,0,1,3,7,0,2,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4":[7,0,0,0,1,3,10,5,91,2],
 "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33":[7,0,0,0,1,3,10,5,91,0],
 "d6/d0c/go__scripts_8cpp.html#ae025fd503d338829244816661253f72b":[7,0,0,0,1,3,10,5,75],
-"d6/d0c/go__scripts_8cpp.html#ae025fd503d338829244816661253f72ba83d0dd412977abc7617591f50cb2ee25":[7,0,0,0,1,3,10,5,75,0],
-"d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29ead":[7,0,0,0,1,3,10,5,76],
-"d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29eada8a6d9cfd8e359afb76b8eb63a183a59d":[7,0,0,0,1,3,10,5,76,0],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fc":[7,0,0,0,1,3,10,5,89],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[7,0,0,0,1,3,10,5,89,0],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c":[7,0,0,0,1,3,10,5,89,1],
-"d6/d0d/classnpc__vics__flying__machine.html":[6,0,2226],
-"d6/d0d/classnpc__vics__flying__machine.html#aac2a7cabd2e87705e9a1b3bfebb89eae":[6,0,2226,2]
+"d6/d0c/go__scripts_8cpp.html#ae025fd503d338829244816661253f72ba83d0dd412977abc7617591f50cb2ee25":[7,0,0,0,1,3,10,5,75,0]
 };

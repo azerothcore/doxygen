@@ -1,5 +1,11 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fa799799e533f52f1b7c1dce023368e145":[7,0,0,0,1,3,5,2,1,1,60,2],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fa7ef7daa23932b450c80289511c0d3d9a":[7,0,0,0,1,3,5,2,1,1,60,6],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fa88cd9f67c5feb7f0ba6c853b8520a00b":[7,0,0,0,1,3,5,2,1,1,60,5],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fab47ffc8cbbcb587bbe1a3e348c95bee3":[7,0,0,0,1,3,5,2,1,1,60,0],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fae95913d87ac89138e5fe9a669e796aaa":[7,0,0,0,1,3,5,2,1,1,60,7],
+"d4/d81/boss__faction__champions_8cpp.html#ac8eb863f5fc82105aa2e0c4968ea99d3":[7,0,0,0,1,3,5,2,1,1,44],
 "d4/d81/boss__faction__champions_8cpp.html#ac8eb863f5fc82105aa2e0c4968ea99d3a8112b48d67f6e858502012c77c1ae2d6":[7,0,0,0,1,3,5,2,1,1,44,0],
 "d4/d81/boss__faction__champions_8cpp.html#ad45dbb23ecc23403dadc184fa17e5509":[7,0,0,0,1,3,5,2,1,1,45],
 "d4/d81/boss__faction__champions_8cpp.html#ad45dbb23ecc23403dadc184fa17e5509a490452dbac9d8c4fa44c7c39e3a06d57":[7,0,0,0,1,3,5,2,1,1,45,0],
@@ -158,8 +164,8 @@ var NAVTREEINDEX129 =
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,836],
@@ -243,11 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8ae2b368c50b7785e92ce7e177b17bbece":[7,0,0,0,1,3,5,8,2,2,5,6],
 "d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8aec2fa4a8b4780c07245feef34849b61e":[7,0,0,0,1,3,5,8,2,2,5,1],
 "d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8af9a940bc6f5f4440ead1ad39a59b3de7":[7,0,0,0,1,3,5,8,2,2,5,0],
-"d4/d8d/boss__urom_8cpp.html#af429de7522143f067a4756f8d76e83ce":[7,0,0,0,1,3,5,8,2,2,8],
-"d4/d8d/boss__urom_8cpp.html#af4c297ccc6a80b137d9b5d80e31086ed":[7,0,0,0,1,3,5,8,2,2,9],
-"d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,2,3],
-"d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a168dce0de06e2e00cb469de28def7114":[7,0,0,0,1,3,5,8,2,2,3,0],
-"d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22a32546786af37a0979cad06845da20":[7,0,0,0,1,3,5,8,2,2,3,2],
-"d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a418e8ff4826303ff84757960b934af07":[7,0,0,0,1,3,5,8,2,2,3,1],
-"d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a871f5fe6b3a29a616edcf7341607acf1":[7,0,0,0,1,3,5,8,2,2,3,3]
+"d4/d8d/boss__urom_8cpp.html#af429de7522143f067a4756f8d76e83ce":[7,0,0,0,1,3,5,8,2,2,8]
 };

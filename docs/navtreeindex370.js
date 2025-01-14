@@ -1,5 +1,17 @@
 var NAVTREEINDEX370 =
 {
+"df/d04/classspell__putricide__ooze__channel.html#a17b20a391d70ae487774d52ed0e5dbd7":[6,0,3513,5],
+"df/d04/classspell__putricide__ooze__channel.html#a296ec09cec9661123ea5c86f3f262f32":[6,0,3513,3],
+"df/d04/classspell__putricide__ooze__channel.html#a7619f7ec6dc0ce14293414729731ed00":[6,0,3513,6],
+"df/d04/classspell__putricide__ooze__channel.html#a8338cc31a3c494c1cb24d015a11fbd64":[6,0,3513,1],
+"df/d04/classspell__putricide__ooze__channel.html#a9adbad7cc2185b22fb16135e78114548":[6,0,3513,2],
+"df/d04/classspell__putricide__ooze__channel.html#abe6d3ad0f06b2370f1a5985878d6af3d":[6,0,3513,7],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html":[6,0,3550],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a8b60ae77f13045a582548fe5d1186d54":[6,0,3550,0],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a929c49d6dd30b6a0dedfbc23c877eb36":[6,0,3550,2],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#ad68619783c4a1aad5a24826bf5d89858":[6,0,3550,1],
+"df/d05/structVendorItem.html":[6,0,4143],
+"df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[6,0,4143,2],
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4143,1],
 "df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4143,4],
 "df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4143,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX370 =
 "df/d14/ObjectDefines_8h.html#ae57720dd4437b418bb332db290c71d45":[7,0,0,0,1,2,16,5,3,24],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1d":[7,0,0,0,1,2,16,5,3,27],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592":[7,0,0,0,1,2,16,5,3,27,2],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338":[7,0,0,0,1,2,16,5,3,27,1],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743":[7,0,0,0,1,2,16,5,3,27,3],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233":[7,0,0,0,1,2,16,5,3,27,6],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b":[7,0,0,0,1,2,16,5,3,27,4],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0":[7,0,0,0,1,2,16,5,3,27,0],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045":[7,0,0,0,1,2,16,5,3,27,5],
-"df/d14/ObjectDefines_8h.html#ae7170f91373fc9614734d4365eaebf77":[7,0,0,0,1,2,16,5,3,31],
-"df/d14/classPet.html":[6,0,2348],
-"df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e":[6,0,2348,39],
-"df/d14/classPet.html#a04c9223accb74363902edd455c7b836e":[6,0,2348,48],
-"df/d14/classPet.html#a0595dccf2ddfc73bffb69512ca6c79ce":[6,0,2348,81],
-"df/d14/classPet.html#a08deaa012267337fe991915fa6114e72":[6,0,2348,0],
-"df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7":[6,0,2348,57]
+"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338":[7,0,0,0,1,2,16,5,3,27,1]
 };

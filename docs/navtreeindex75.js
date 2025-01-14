@@ -1,5 +1,11 @@
 var NAVTREEINDEX75 =
 {
+"d2/dd1/structMovementInfo.html#ad9571cb899d58cc60fbe2412be79116e":[6,0,1497,8],
+"d2/dd1/structMovementInfo.html#ade08354701baa32b9ff232d6b07e6097":[6,0,1497,6],
+"d2/dd1/structMovementInfo.html#ae02908de40bf25e5d07d3bb248448a68":[6,0,1497,4],
+"d2/dd1/structMovementInfo.html#af2945943a91efc4cd5f2f9a0b86424cf":[6,0,1497,18],
+"d2/dd1/structMovementInfo.html#af8c4c6db42364ec712398b317238c90b":[6,0,1497,9],
+"d2/dd1/structMovementInfo.html#afad84c80474a806e8abb4626ccfbcfaf":[6,0,1497,7],
 "d2/dd1/structMovementInfo.html#afc5605f3e357e6ca4f2c681329bb0302":[6,0,1497,19],
 "d2/dd1/structMovementInfo.html#aff0e449eb1567041f1a44c34e5fa85bc":[6,0,1497,3],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html":[6,0,571,0],
@@ -35,8 +41,8 @@ var NAVTREEINDEX75 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[6,0,2034,0,4],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,31,1,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,11,1,8],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,31,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[6,0,11,1,8,2],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,31,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,31,1,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,11,1,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,31,1,8,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX75 =
 "d2/de1/classlearn__commandscript.html#ab59da6873596596ee84509cb0060e760":[6,0,1383,11],
 "d2/de1/classlearn__commandscript.html#ae25064fa03d022277a368f52a17e5b70":[6,0,1383,2],
 "d2/de1/classlearn__commandscript.html#ae8bd0389415fdeb70d369b694b953619":[6,0,1383,12],
-"d2/de1/classlearn__commandscript.html#af95e27d3bfb3cd421a0fd13f9f655755":[6,0,1383,8],
-"d2/de1/structnpc__pet__mage__mirror__image.html":[6,0,1989],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a074611355768dc2072da69ed9d72242b":[6,0,1989,7],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a2761cc9bf3a8bb7908d3db6d929721ba":[6,0,1989,0],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a49d57ba93cd88816f68c16d56d3b8cd2":[6,0,1989,3],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a66d513908aa88504d0cbe4ce9bf222be":[6,0,1989,2],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a79a8c153ab61c619d928ec5535e67077":[6,0,1989,4]
+"d2/de1/classlearn__commandscript.html#af95e27d3bfb3cd421a0fd13f9f655755":[6,0,1383,8]
 };

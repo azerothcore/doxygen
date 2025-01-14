@@ -1,5 +1,11 @@
 var NAVTREEINDEX92 =
 {
+"d3/d0a/classachievement__kologarn__rubble__and__roll.html#acb0f72ebdf1917a3331b3fc0f9aa4300":[6,0,67,1],
+"d3/d0a/classachievement__kologarn__rubble__and__roll.html#ae36bbab8d82f10ad120a1e7564a13961":[6,0,67,0],
+"d3/d0a/classnpc__augustus__the__touched.html":[6,0,1586],
+"d3/d0a/classnpc__augustus__the__touched.html#a81e0d4f2aaa685cd5231ea430c86e7b4":[6,0,1586,1],
+"d3/d0a/classnpc__augustus__the__touched.html#a992da9b22693c1fac1148b4ba545b819":[6,0,1586,2],
+"d3/d0a/classnpc__augustus__the__touched.html#abc84c884345f44cf780410569cdee10c":[6,0,1586,0],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,2975],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,2975,0],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,2975,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d13/structboss__maiden__of__grief_1_1boss__maiden__of__griefAI.html#acf30049b09bbaf3e30f2dcb77bf1b4e0":[6,0,590,0,2],
 "d3/d14/boss__anetheron_8cpp.html":[7,0,0,0,1,3,4,1,0,0],
 "d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,0,2],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,1,0,0,2,4],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f563c1bba1af64ae5c19d212170eed5":[7,0,0,0,1,3,4,1,0,0,2,1],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298ca92d49b6301dcd8a596dd24f5e40f9260":[7,0,0,0,1,3,4,1,0,0,2,0],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298cac3264b4827dd7cd605ca41583aa457db":[7,0,0,0,1,3,4,1,0,0,2,3],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298cacea34277c029e40a5922891751ef6013":[7,0,0,0,1,3,4,1,0,0,2,5],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298cada487105cb8115ca218006ffd61f7dbb":[7,0,0,0,1,3,4,1,0,0,2,6],
-"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298caef3e4861ce90f1b77eab500dddb31880":[7,0,0,0,1,3,4,1,0,0,2,2]
+"d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,1,0,0,2,4]
 };

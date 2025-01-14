@@ -20,6 +20,7 @@ var structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMa
     [ "OnGameObjectRemove", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#add7335071cc495315aa72e6c7a19ecfb", null ],
     [ "OnPlayerAreaUpdate", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a58d6de4dd5dd2daacaef56e4e7ea4cee", null ],
     [ "OnPlayerEnter", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a40da60f24392e25e723c2065bd894572", null ],
+    [ "OnPlayerLeave", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a9bc059ef6da0744b384cd29c05a21c17", null ],
     [ "OnUnitDeath", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a7d885d00eec258df6228c28be51d11c4", null ],
     [ "ProcessEvent", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a065beb3e5680e2c3c7d491d9bd05214f", null ],
     [ "ReadSaveDataMore", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#abbe0c8545852b972f4b9d71733d81ca8", null ],

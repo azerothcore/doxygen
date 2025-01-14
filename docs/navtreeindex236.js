@@ -1,5 +1,16 @@
 var NAVTREEINDEX236 =
 {
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa537ec62994db268ea075329b2a8506fa":[7,0,0,0,1,2,24,3,24,2],
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa5ccd70d5799413c4175e4278fa6f8995":[7,0,0,0,1,2,24,3,24,1],
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa80420a7e03a1ec9e4383cfe5ba8a1010":[7,0,0,0,1,2,24,3,24,3],
+"d9/d84/LootMgr_8h.html#a5f88815e67cdbdaebef659559cd0d954":[7,0,0,0,1,2,24,3,28],
+"d9/d84/LootMgr_8h.html#a60e4571187c2d3ad1cc7ecec58b29b6b":[7,0,0,0,1,2,24,3,41],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42":[7,0,0,0,1,2,24,3,20],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a2704402003a31c849c6f52da262bf294":[7,0,0,0,1,2,24,3,20,2],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a5f038102313e70df26e6218c38c17e6b":[7,0,0,0,1,2,24,3,20,1],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a89e7b03ca05bd629c1aee0cb5b612128":[7,0,0,0,1,2,24,3,20,0],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42aa11325a7cb83156f4b8f07049189c2db":[7,0,0,0,1,2,24,3,20,4],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba":[7,0,0,0,1,2,24,3,20,3],
 "d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
 "d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
 "d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[7,0,0,0,1,2,24,3,35],
@@ -238,16 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d90/InstanceScript_8cpp.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,23,2,0],
 "d9/d90/classspell__item__defibrillate.html":[6,0,3153],
 "d9/d90/classspell__item__defibrillate.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b":[6,0,3153,6],
-"d9/d90/classspell__item__defibrillate.html#a680092f30ebc6b322e5d01a1100b308c":[6,0,3153,5],
-"d9/d90/classspell__item__defibrillate.html#a6a7ad6c9bb9bee3b093bd06b1b259468":[6,0,3153,2],
-"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[6,0,3153,1],
-"d9/d90/classspell__item__defibrillate.html#ab64fdd36fc646ca0bcb2010380199ede":[6,0,3153,0],
-"d9/d90/classspell__item__defibrillate.html#ad2faa26a2874f68e8e419e59cafbf10b":[6,0,3153,3],
-"d9/d90/classspell__item__defibrillate.html#ad871a6bef7ba074f32abe1bf062dffe1":[6,0,3153,4],
-"d9/d90/classspell__razelikh__teleport__group.html":[6,0,3636],
-"d9/d90/classspell__razelikh__teleport__group.html#a1d9cfdc65bd5ae76376e709d0ac891c0":[6,0,3636,2],
-"d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3636,3],
-"d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3636,0],
-"d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3636,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,1983]
+"d9/d90/classspell__item__defibrillate.html#a680092f30ebc6b322e5d01a1100b308c":[6,0,3153,5]
 };

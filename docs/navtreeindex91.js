@@ -1,5 +1,11 @@
 var NAVTREEINDEX91 =
 {
+"d3/d06/classspell__mimiron__rapid__burst__aura.html#a41c3846c03ce1e37fc6858a676f61c48":[6,0,3382,2],
+"d3/d06/classspell__mimiron__rapid__burst__aura.html#ac8e9521a6b8ab9a4642361085dbe517d":[6,0,3382,3],
+"d3/d06/classspell__mimiron__rapid__burst__aura.html#af432e810a46e35f95bb0b3b2eaada132":[6,0,3382,1],
+"d3/d06/namespaceAcore_1_1Impl.html":[5,0,1,8],
+"d3/d06/namespaceAcore_1_1Impl.html#a028fc93107022ad23a763503c9b0bbdb":[5,0,1,8,14],
+"d3/d06/namespaceAcore_1_1Impl.html#a0a5a7e96b8beae562acc662922304ca6":[5,0,1,8,13],
 "d3/d06/namespaceAcore_1_1Impl.html#aee21cf91c2a5f1c520d6b01dd6b2e835":[5,0,1,8,12],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html":[6,0,459,0],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a0441cd3dc5902696823b992c340660e9":[6,0,459,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71":[7,0,0,0,1,3,5,15,43],
 "d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71a47d19b0d1180cb9dabde16931af99d71":[7,0,0,0,1,3,5,15,43,0],
 "d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71a65b64cf29c0d183fb2b68c7e0887ae61":[7,0,0,0,1,3,5,15,43,1],
-"d3/d0a/classachievement__kologarn__rubble__and__roll.html":[6,0,67],
-"d3/d0a/classachievement__kologarn__rubble__and__roll.html#acb0f72ebdf1917a3331b3fc0f9aa4300":[6,0,67,1],
-"d3/d0a/classachievement__kologarn__rubble__and__roll.html#ae36bbab8d82f10ad120a1e7564a13961":[6,0,67,0],
-"d3/d0a/classnpc__augustus__the__touched.html":[6,0,1586],
-"d3/d0a/classnpc__augustus__the__touched.html#a81e0d4f2aaa685cd5231ea430c86e7b4":[6,0,1586,1],
-"d3/d0a/classnpc__augustus__the__touched.html#a992da9b22693c1fac1148b4ba545b819":[6,0,1586,2],
-"d3/d0a/classnpc__augustus__the__touched.html#abc84c884345f44cf780410569cdee10c":[6,0,1586,0]
+"d3/d0a/classachievement__kologarn__rubble__and__roll.html":[6,0,67]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX157 =
 {
+"d5/dea/structFireworkShow.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f":[6,0,1024,3],
+"d5/dea/structFireworkShow.html#a8c55bbd253d6bea01e83c0aa7380dee5":[6,0,1024,0],
+"d5/dea/structFireworkShow.html#a953850b267eb6f599bb49d82080bdf64":[6,0,1024,1],
+"d5/dea/structFireworkShow.html#a9e4069ef00c8b4e31d8af06f34e12ad5":[6,0,1024,2],
+"d5/dea/structFireworkShow.html#aa22c51469489fbb6551de2b751f06c94":[6,0,1024,5],
+"d5/dea/structFireworkShow.html#ae6a3fa59e1eb384255c247abadc962d5":[6,0,1024,4],
+"d5/dea/structboss__golemagg_1_1boss__golemaggAI.html":[6,0,485,0],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a142ededff85d517c08744bdafd644c34":[6,0,485,0,6],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a52e6d8bcf979d216aff536e8fae3bf01":[6,0,485,0,5],
 "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html#a5f9191609c7ff0715ba186f8ae28262b":[6,0,485,0,1],
@@ -85,8 +92,8 @@ var NAVTREEINDEX157 =
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,31,5,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,31,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,11,5,29,1],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,31,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,31,5,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,956],
@@ -225,8 +232,8 @@ var NAVTREEINDEX157 =
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eae4ccd71da672cd021682c47fc6ac6fee":[7,0,0,0,1,3,7,5,0,0,7,8],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eae53e80b52afcd7b783b905b39635f58b":[7,0,0,0,1,3,7,5,0,0,7,5],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eaf9613db3725f3d2ee90e2f29d95f209a":[7,0,0,0,1,3,7,5,0,0,7,3],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[6,0,0,4,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[5,0,1,7,0,0],
+"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[6,0,0,4,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[5,0,1,7,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[6,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[5,0,1,7,0,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa9711d2373aa61900647e6ea55cad9e4":[7,0,0,0,1,3,7,2,0,0,7,1],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8d35951eed2c9e47bed2aa4da3fab8b":[7,0,0,0,1,3,7,2,0,0,7,0],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,0,9],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca13680bcb421d2a16426689737c48ec23":[7,0,0,0,1,3,7,2,0,0,9,13],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca256a5f663e539ef95c02b773e7690a76":[7,0,0,0,1,3,7,2,0,0,9,4],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca291221bf3dff6124429fb69c68f54525":[7,0,0,0,1,3,7,2,0,0,9,22],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,0,0,9,2],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca2bf62e7cbf26cf4001117c125b0ddd7b":[7,0,0,0,1,3,7,2,0,0,9,15],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d43a5f909680b46e6dcce759c5fb3b0":[7,0,0,0,1,3,7,2,0,0,9,11],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f77b86573e182a73eb21e988f326035":[7,0,0,0,1,3,7,2,0,0,9,5],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca5301c404ce8822455bd65b78893b8f8e":[7,0,0,0,1,3,7,2,0,0,9,1]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298ca13680bcb421d2a16426689737c48ec23":[7,0,0,0,1,3,7,2,0,0,9,13]
 };

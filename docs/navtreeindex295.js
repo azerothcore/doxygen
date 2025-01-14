@@ -1,5 +1,16 @@
 var NAVTREEINDEX295 =
 {
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb":[6,0,645,0,18],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af62d0d20e8f7f312c1cd57ba3816bf70":[6,0,645,0,10],
+"dc/d08/classCharacterDeleteActionIpLogger.html":[6,0,841],
+"dc/d08/classCharacterDeleteActionIpLogger.html#a34efd44289746078fdcfae63641b5580":[6,0,841,3],
+"dc/d08/classCharacterDeleteActionIpLogger.html#a35ea1362df09fccf0c4cee2e9ef6deb9":[6,0,841,2],
+"dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,841,0],
+"dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,841,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3836],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3836,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3836,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3836,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1621,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1621,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1621,0,2],
@@ -238,16 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1b/FleeingMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,4],
 "dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a":[7,0,0,0,1,2,31,0,4,0],
 "dc/d1b/FleeingMovementGenerator_8cpp.html#aa1f2b73706ddb69d07dbdc87257f010f":[7,0,0,0,1,2,31,0,4,1],
-"dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403":[7,0,0,0,1,2,31,0,4,2],
-"dc/d1b/classnpc__toc__retro__paladin.html":[6,0,2154],
-"dc/d1b/classnpc__toc__retro__paladin.html#a1213c99792aa4362275bc827aa2f037e":[6,0,2154,2],
-"dc/d1b/classnpc__toc__retro__paladin.html#abfb15148aefe186447cfdb3a2c8749c4":[6,0,2154,1],
-"dc/d1b/structboss__curator.html":[6,0,399],
-"dc/d1b/structboss__curator.html#a41b65078d0822ba87f3e40fc7bb10a40":[6,0,399,0],
-"dc/d1b/structboss__curator.html#a5617f51f51304682d48af11fdb0c6b8b":[6,0,399,1],
-"dc/d1b/structboss__curator.html#a848f477a101956662389cab5ffcc0727":[6,0,399,2],
-"dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,399,4],
-"dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,399,3],
-"dc/d1b/structboss__curator.html#af6fbf3c3d77f9f052f11974f7b54feab":[6,0,399,5],
-"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3036]
+"dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403":[7,0,0,0,1,2,31,0,4,2]
 };

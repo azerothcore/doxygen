@@ -1,5 +1,14 @@
 var NAVTREEINDEX171 =
 {
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a9459cb9bb83f7a23115debb607cb25a3":[7,0,0,0,1,3,7,5,2,5,3,3],
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a98fbd26f079dc1afe0d3ffee6577f5ec":[7,0,0,0,1,3,7,5,2,5,3,10],
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e":[7,0,0,0,1,3,7,5,2,5,3,6],
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea":[7,0,0,0,1,3,7,5,2,5,3,7],
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9":[7,0,0,0,1,3,7,5,2,5,3,1],
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82":[7,0,0,0,1,3,7,5,2,5,3,5],
+"d6/d6b/classspell__mage__ignite.html":[6,0,3336],
+"d6/d6b/classspell__mage__ignite.html#a3f6a53421c7c4b9346d98aa51c4ccd6d":[6,0,3336,1],
+"d6/d6b/classspell__mage__ignite.html#a801610a9f9fae5cb711850254b291268":[6,0,3336,0],
 "d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[6,0,3336,3],
 "d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[6,0,3336,4],
 "d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[6,0,3336,2],
@@ -125,8 +134,8 @@ var NAVTREEINDEX171 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3330,2],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d76/boss__grizzle_8cpp.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83":[7,0,0,0,1,3,2,1,0,8,3,1],
 "d6/d76/boss__grizzle_8cpp.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59":[7,0,0,0,1,3,2,1,0,8,3,0],
 "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aa":[7,0,0,0,1,3,2,1,0,8,2],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb":[7,0,0,0,1,3,2,1,0,8,2,0],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,1,0,8,2,1],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63":[7,0,0,0,1,3,2,1,0,8,2,2],
-"d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[7,0,0,0,1,3,2,1,0,8,4],
-"d6/d76/classspell__dk__improved__blood__presence.html":[6,0,2721],
-"d6/d76/classspell__dk__improved__blood__presence.html#a64f9e0f3d0376342767b912e32642c6c":[6,0,2721,2],
-"d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[6,0,2721,3],
-"d6/d76/classspell__dk__improved__blood__presence.html#a88e98bcb11fb16696f789878f79c665c":[6,0,2721,0],
-"d6/d76/classspell__dk__improved__blood__presence.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2":[6,0,2721,1],
-"d6/d76/classspell__dk__improved__blood__presence.html#ac936c92c3a24fba95505243cd3e79c21":[6,0,2721,4]
+"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb":[7,0,0,0,1,3,2,1,0,8,2,0]
 };

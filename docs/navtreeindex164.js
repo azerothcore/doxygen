@@ -1,5 +1,12 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1f/classspell__gen__proc__above__75.html":[6,0,2935],
+"d6/d1f/classspell__gen__proc__above__75.html#a9c0f4404275b274bd8af7be621eaa5b9":[6,0,2935,0],
+"d6/d1f/classspell__gen__proc__above__75.html#abc2bcce83810661ab462f56594066df3":[6,0,2935,1],
+"d6/d1f/classspell__gen__proc__above__75.html#add6731563bd9a26d8f286bd29ffc8709":[6,0,2935,2],
+"d6/d1f/classspell__halion__marks__aura.html":[6,0,3001],
+"d6/d1f/classspell__halion__marks__aura.html#a01e8677e4f55dbb55cca1bf16dec48b2":[6,0,3001,6],
+"d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[6,0,3001,2],
 "d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[6,0,3001,0],
 "d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[6,0,3001,1],
 "d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3001,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75":[7,0,0,0,0,1,1,0,5,3],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1":[7,0,0,0,0,1,1,0,5,4],
 "d6/d2a/MapDefines_8h.html#aea71555fdd0af33ccc21c76c67574421":[7,0,0,0,0,1,1,0,3],
-"d6/d2a/MapDefines_8h.html#af7a9a5e840ab3ad1c160e832500016d1":[7,0,0,0,0,1,1,0,2],
-"d6/d2a/classinstance__wailing__caverns.html":[6,0,1330],
-"d6/d2a/classinstance__wailing__caverns.html#a0f1020e86443d6902b3c4d8726f3e610":[6,0,1330,2],
-"d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[6,0,1330,1],
-"d6/d2a/classspell__sha__item__lightning__shield.html":[6,0,3706],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[6,0,3706,2],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[6,0,3706,3],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3706,0]
+"d6/d2a/MapDefines_8h.html#af7a9a5e840ab3ad1c160e832500016d1":[7,0,0,0,0,1,1,0,2]
 };

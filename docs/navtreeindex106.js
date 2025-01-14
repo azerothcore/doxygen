@@ -1,5 +1,11 @@
 var NAVTREEINDEX106 =
 {
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a481e79d61fcdd011632f8f0d37f940bc":[6,0,2301,8],
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a5bbe87c18c814358596a9648fd92b129":[6,0,2301,1],
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a6e5bfb2751f157fc4ebc8338b7cce802":[6,0,2301,4],
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a":[6,0,2301,3],
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a9622620e5b969e19ea049ebd3cc4a3dc":[6,0,2301,6],
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a9efdfd232e9aa6dd390800bbf0373442":[6,0,2301,0],
 "d3/db1/classOPvPCapturePointZM__Beacon.html#aedeeea5a7c1424a0dff51fe06dfaa23a":[6,0,2301,2],
 "d3/db1/classinstance__zulgurub.html":[6,0,1333],
 "d3/db1/classinstance__zulgurub.html#a51f17d1135c7e97ff082d0d95ec3ffa4":[6,0,1333,2],
@@ -10,12 +16,12 @@ var NAVTREEINDEX106 =
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,21],
 "d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,21,1],
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
-"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,28,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
+"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,28,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,28,20,1],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,28,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,28,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,28,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2266],
@@ -243,11 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dc3/structboss__yoggsaron_1_1boss__yoggsaronAI.html#ab280a3b876c273f6e2422de6bc843e56":[6,0,773,0,2],
 "d3/dc3/structboss__yoggsaron_1_1boss__yoggsaronAI.html#ae7b88f2024b2c4c47aac8a481d82cdd5":[6,0,773,0,3],
 "d3/dc4/classCorpse.html":[6,0,891],
-"d3/dc4/classCorpse.html#a0196d9ba2d908262a65ff8fa8f34b76b":[6,0,891,18],
-"d3/dc4/classCorpse.html#a025404f6d3fcd7392960b48d636236d4":[6,0,891,12],
-"d3/dc4/classCorpse.html#a0f709c964269b438fcc2562868e72834":[6,0,891,5],
-"d3/dc4/classCorpse.html#a10bff6f7d0e2597ef9db67aafd8249ea":[6,0,891,16],
-"d3/dc4/classCorpse.html#a28d222b38b604d2ecc566ef78b4eb8f9":[6,0,891,15],
-"d3/dc4/classCorpse.html#a2f7783ce9a9be85c3212fe86a349766d":[6,0,891,0],
-"d3/dc4/classCorpse.html#a34e2fc9d1f64dedd9da4428b532f145c":[6,0,891,4]
+"d3/dc4/classCorpse.html#a0196d9ba2d908262a65ff8fa8f34b76b":[6,0,891,18]
 };

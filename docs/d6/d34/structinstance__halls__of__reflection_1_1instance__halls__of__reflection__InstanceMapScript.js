@@ -9,6 +9,8 @@ var structinstance__halls__of__reflection_1_1instance__halls__of__reflection__In
     [ "IsEncounterInProgress", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a3ea9b318144371f5bc9e26d54ab963bc", null ],
     [ "OnCreatureCreate", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a37632ae3c62a0b874bccb6ebcbe973fd", null ],
     [ "OnGameObjectCreate", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ab298d59762192c8b35d0dc3e7114775a", null ],
+    [ "OnPlayerEnter", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ad7adeef20646c042007d1dd46f23f18c", null ],
+    [ "OnPlayerLeave", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a5487957761b734cbb5f3bd949ae50886", null ],
     [ "OnUnitDeath", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#acbde8686a572ee189e311432cbd1618f", null ],
     [ "RandomizeCompositionsAndShow", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ae4fd799bac4c094aa384df2ed45dd122", null ],
     [ "ReadSaveDataMore", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a8476d8be25911f15db641802cf366490", null ],

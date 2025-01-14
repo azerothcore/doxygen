@@ -1,5 +1,16 @@
 var NAVTREEINDEX271 =
 {
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a9b75af98b11bf1115dfd7ce852ab7591":[6,0,2214,0,5],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#acd70f755f4a14f5f8749b59c953fdb5d":[6,0,2214,0,4],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ad2d2e3f45a7cb8e9bece6a46036d75b6":[6,0,2214,0,12],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd":[6,0,2214,0,7],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ae13cffcbcec48bb26f5d301a543615f5":[6,0,2214,0,16],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aea20be843c1f9c3402edd903b938292d":[6,0,2214,0,17],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#af547ffffa48ee8d7b0f6babbd0e9875e":[6,0,2214,0,0],
+"db/d31/classspell__hun__scatter__shot.html":[6,0,3062],
+"db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[6,0,3062,2],
+"db/d31/classspell__hun__scatter__shot.html#a5b25d03bb22995e1ba9deb7eec4ee35a":[6,0,3062,0],
+"db/d31/classspell__hun__scatter__shot.html#a833d9abe12cb4fff1700b97bc7215c1d":[6,0,3062,1],
 "db/d31/classspell__hun__scatter__shot.html#ae7d502253b0c47921e40da4aa87b0eef":[6,0,3062,3],
 "db/d31/classspell__item__shifting__naaru__silver.html":[6,0,3230],
 "db/d31/classspell__item__shifting__naaru__silver.html#a0331b3860691db793c5a7bcf53550c6f":[6,0,3230,2],
@@ -238,16 +249,5 @@ var NAVTREEINDEX271 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac2c80956574971754e4af43560035ee1":[6,0,2078,0,17],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac68852c868ab0958c7f86204d500aeb6":[6,0,2078,0,4],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aca80d441032da46537d17571357ad74c":[6,0,2078,0,16],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[6,0,2078,0,9],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[6,0,2078,0,19],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ae0bc5a848784255b909b8318e3ae30a2":[6,0,2078,0,14],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aed4c0374e19d2f0a92797c155c69bb84":[6,0,2078,0,29],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#af0c328a94608ad87b394e68289df34d0":[6,0,2078,0,6],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#af3af8fdd86002afb23ea00878b8a7120":[6,0,2078,0,0],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afaf7d79b4bb53ef3001df88e444f6674":[6,0,2078,0,22],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afd7378e117564cd01d47ef068aeb410d":[6,0,2078,0,15],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afea578c38df569699ad66ae2ce06610e":[6,0,2078,0,13],
-"db/d43/classPacketLog.html":[6,0,2334],
-"db/d43/classPacketLog.html#a03346a709f7586f6445e03b9a3b6af04":[6,0,2334,6],
-"db/d43/classPacketLog.html#a322cf3a0d8707becb9dcc64548d4cce5":[6,0,2334,2]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[6,0,2078,0,9]
 };

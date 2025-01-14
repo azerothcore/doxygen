@@ -1,5 +1,12 @@
 var NAVTREEINDEX143 =
 {
+"d5/d42/structnpc__shattered__hand__scout.html#a51a57eaaad75817a9b5a81210e01ed51":[6,0,2073,0],
+"d5/d42/structnpc__shattered__hand__scout.html#a575b12c40aeccd6d0cdd63f71a3b93d6":[6,0,2073,3],
+"d5/d42/structnpc__shattered__hand__scout.html#a6f6198c2faf68823b1d4c8237044784b":[6,0,2073,5],
+"d5/d42/structnpc__shattered__hand__scout.html#a91c2c7eca064d6eaafe5ecaeca4344b4":[6,0,2073,8],
+"d5/d42/structnpc__shattered__hand__scout.html#a9416dd89c4728538971abc5975c7080f":[6,0,2073,7],
+"d5/d42/structnpc__shattered__hand__scout.html#aa3043011d7d9e7b7c5826b9afc7581d1":[6,0,2073,2],
+"d5/d42/structnpc__shattered__hand__scout.html#ad37c34ae2dee082f1b4eed90bc4a3618":[6,0,2073,1],
 "d5/d43/SpellEffects_8cpp.html":[7,0,0,0,1,2,41,4],
 "d5/d43/SpellEffects_8cpp.html#a294b5954f08aebdafe9e5a6f00e2dc82":[7,0,0,0,1,2,41,4,1],
 "d5/d43/SpellEffects_8cpp.html#a711d5a2b2f8cbeb49153d9e33ea51bf1":[7,0,0,0,1,2,41,4,0],
@@ -10,8 +17,8 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/ObjectGridLoader_8h.html":[7,0,0,0,1,2,19,9],
 "d5/d44/structadt__liquid__attributes.html":[6,0,130],
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,130,1],
@@ -46,8 +53,8 @@ var NAVTREEINDEX143 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[6,0,3014,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[6,0,3014,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3014,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1767],
@@ -242,12 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d4d/classIWorld.html#a5fc5e2f0028e43ba3fbfba1b5a44b8d1":[6,0,1373,16],
 "d5/d4d/classIWorld.html#a67fb052c8ddefec8f3fc9af1c83c23bd":[6,0,1373,1],
 "d5/d4d/classIWorld.html#a6e0a6af1ba566fd0ecfef456b88a1e89":[6,0,1373,78],
-"d5/d4d/classIWorld.html#a6e58c19e6099153aeaf1d51c71884364":[6,0,1373,60],
-"d5/d4d/classIWorld.html#a710b83c9fbe39f64917c5a17420f7479":[6,0,1373,40],
-"d5/d4d/classIWorld.html#a766dec51b10f7394cac7a29051686cf9":[6,0,1373,6],
-"d5/d4d/classIWorld.html#a77cd2dfde9ad40c09c236543fa0a7dde":[6,0,1373,7],
-"d5/d4d/classIWorld.html#a79dd26c3602b7efc27b8aeea9824fa46":[6,0,1373,51],
-"d5/d4d/classIWorld.html#a7bbdbecc8450da56ec9dc52cf1c30182":[6,0,1373,48],
-"d5/d4d/classIWorld.html#a7ddf36a5bbbab3288e2e069062fd90b9":[6,0,1373,79],
-"d5/d4d/classIWorld.html#a7f70490de6ab3ef87b0f72f80a37710f":[6,0,1373,37]
+"d5/d4d/classIWorld.html#a6e58c19e6099153aeaf1d51c71884364":[6,0,1373,60]
 };

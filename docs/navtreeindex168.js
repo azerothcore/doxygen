@@ -1,5 +1,14 @@
 var NAVTREEINDEX168 =
 {
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#aaa7e94f653a1db001cd0c962fb855098":[6,0,722,0,0],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#afaf0a05b1fd2fc2187b52328340b65bb":[6,0,722,0,1],
+"d6/d4d/classspell__item__gor__dreks__ointment.html":[6,0,3184],
+"d6/d4d/classspell__item__gor__dreks__ointment.html#ad7b3235062959af1f28bb6c7b2f929c3":[6,0,3184,0],
+"d6/d4d/classspell__item__gor__dreks__ointment.html#ae35dad0d33ee0dd571a8f5fcccd2ce58":[6,0,3184,1],
+"d6/d4d/structgo__sand__trap.html":[6,0,1151],
+"d6/d4d/structgo__sand__trap.html#a2e4a5fec4d4c790233ca97e6a7732ac4":[6,0,1151,2],
+"d6/d4d/structgo__sand__trap.html#a58d45acac672cb05988ddca78185b469":[6,0,1151,0],
+"d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1151,1],
 "d6/d4d/structgo__sand__trap.html#af845c0efb3d8ebe53d3620970a84f1e4":[6,0,1151,3],
 "d6/d4e/EventProcessor_8cpp.html":[7,0,0,0,0,15,11],
 "d6/d4f/BattlefieldWG_8h.html":[7,0,0,0,1,2,7,0,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,720,1],
 "d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3039],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3039,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3039,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3039,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[6,0,1979],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[6,0,1979,1],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[6,0,1979,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[6,0,1979,0],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[6,0,1979,4],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[6,0,1979,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html":[7,0,0,0,1,3,2,9,0],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cf":[7,0,0,0,1,3,2,9,0,11]
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3039,1]
 };

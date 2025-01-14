@@ -1,5 +1,11 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4":[7,0,0,0,1,3,10,3,18],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a15b48ce49edb842723e40fdee9e9e151":[7,0,0,0,1,3,10,3,18,7],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a2f563c1bba1af64ae5c19d212170eed5":[7,0,0,0,1,3,10,3,18,3],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a397012fccbcf2bdcf5ce7bd83c3c29b7":[7,0,0,0,1,3,10,3,18,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a4596f84ec53728c8de69bd2452eedfb5":[7,0,0,0,1,3,10,3,18,8],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a816aafc97b2ad14a518850d925df801c":[7,0,0,0,1,3,10,3,18,9],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4a931490add8499402749c5b8af3cb84b8":[7,0,0,0,1,3,10,3,18,5],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4addcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,10,3,18,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a2ddc23c260c8fab8a1045665d3efb0d4ae0fa18919fc13ab1b07552ae49e88183":[7,0,0,0,1,3,10,3,18,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d98/structboss__kiljaeden.html#a6878b5b88a45f1a5d70d866e9850041d":[6,0,557,14],
 "d2/d98/structboss__kiljaeden.html#a82376e807061529bfd8fb4e52d409acf":[6,0,557,7],
 "d2/d98/structboss__kiljaeden.html#a8e765740602b4f9efddafa5f2bdc8909":[6,0,557,5],
-"d2/d98/structboss__kiljaeden.html#a9ad882dda480a564406628bfde386e57":[6,0,557,1],
-"d2/d98/structboss__kiljaeden.html#aa45b8e5f598f68183b390e3239f0f75c":[6,0,557,11],
-"d2/d98/structboss__kiljaeden.html#aac01e1f8b7b7dfb80a62f3eb0105ed10":[6,0,557,8],
-"d2/d98/structboss__kiljaeden.html#ac72d5d9615040c981e8e4e932be8c362":[6,0,557,6],
-"d2/d98/structboss__kiljaeden.html#ade10c2e693f41d5d0240bce37d5c1168":[6,0,557,4],
-"d2/d98/structboss__kiljaeden.html#aedcd604a535ce354881d7e59a05a79b9":[6,0,557,13],
-"d2/d98/structboss__kiljaeden.html#afd668a9d98182d7e05ca38040e55e908":[6,0,557,2]
+"d2/d98/structboss__kiljaeden.html#a9ad882dda480a564406628bfde386e57":[6,0,557,1]
 };

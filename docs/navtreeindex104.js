@@ -1,5 +1,11 @@
 var NAVTREEINDEX104 =
 {
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58":[7,0,0,0,1,3,7,3,1,5,10],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,3,1,5,3],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7":[7,0,0,0,1,3,7,3,1,5,21],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e":[7,0,0,0,1,3,7,3,1,5,5],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,3,1,5,1],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716":[7,0,0,0,1,3,7,3,1,5,6],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,7,3,1,5,7],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c":[7,0,0,0,1,3,7,3,1,5,11],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[7,0,0,0,1,3,7,3,1,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX104 =
 "d3/da5/classspell__vem__knockback.html#ac8412777c84abfe56262d6d83163e9a1":[6,0,3864,2],
 "d3/da6/BattlegroundRV_8h.html":[7,0,0,0,1,2,8,0,17],
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436":[7,0,0,0,1,2,8,0,17,3],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4":[7,0,0,0,1,2,8,0,17,3,6],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a04808f08eb598192b617907fd51e0a15":[7,0,0,0,1,2,8,0,17,3,13],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a25271eab61123d9887adb758a9f79b58":[7,0,0,0,1,2,8,0,17,3,11],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a258356e82cf4da9b5e751765bf518895":[7,0,0,0,1,2,8,0,17,3,14],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a25d784ddd4f2eaeb962ab84de9fb23d0":[7,0,0,0,1,2,8,0,17,3,18],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a3810356845120e6dae0fdd79cee11a47":[7,0,0,0,1,2,8,0,17,3,3],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a46acd9a6aca7218ab030d97ac5e43a4a":[7,0,0,0,1,2,8,0,17,3,8]
+"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4":[7,0,0,0,1,2,8,0,17,3,6]
 };

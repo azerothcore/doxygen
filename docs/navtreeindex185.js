@@ -1,5 +1,14 @@
 var NAVTREEINDEX185 =
 {
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a4003deba30ff47ed3296325112b6cb0e":[6,0,2106,0,4],
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a530d16086a9e613f6f0299186f8bcc33":[6,0,2106,0,5],
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a74d84534c39e7e6f3774099fd6b28d29":[6,0,2106,0,0],
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#aaef10316b8f7c3e980082cab722ffe9f":[6,0,2106,0,2],
+"d7/d2f/classspell__mage__blast__wave.html":[6,0,3322],
+"d7/d2f/classspell__mage__blast__wave.html#a860fb74000a42a7d6f22d17dde93cdf6":[6,0,3322,0],
+"d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[6,0,3322,1],
+"d7/d2f/classspell__mage__blast__wave.html#ac62f4fdf003cdd53650fe632b3ed3ef1":[6,0,3322,2],
+"d7/d2f/classspell__mage__blast__wave.html#add1bd8f583772d4dfeb20f01b9fac8ed":[6,0,3322,3],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html":[6,0,3594],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a20f7416465ba1cc04426f24037e8074e":[6,0,3594,3],
 "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a2ac898d186e755fbf3b3ae8812e8e579":[6,0,3594,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d3f/WheatyExceptionReport_8cpp.html#ac7bef5d85e3dcd73eef56ad39ffc84a9":[7,0,0,0,0,5,2,4],
 "d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[7,0,0,0,0,5,2,1],
 "d7/d3f/classnpc__eris__hevenfire.html":[6,0,1736],
-"d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[6,0,1736,3],
-"d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[6,0,1736,1],
-"d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[6,0,1736,2],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html":[6,0,3381],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a013e9e0eef93583722f7d347c2ebbc49":[6,0,3381,4],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a2537b325ff57b867092f3d9a1bd0fa8b":[6,0,3381,5],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a524c071390365b7dab59bc7a79b50f15":[6,0,3381,3],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a60deabce505dd3993dca0e71402dc190":[6,0,3381,1],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a9a2fae625718f854ec5d2587a01a2da7":[6,0,3381,2],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#ae3cb0f7a3da5a72eaa59350d7df13ffc":[6,0,3381,0]
+"d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[6,0,1736,3]
 };

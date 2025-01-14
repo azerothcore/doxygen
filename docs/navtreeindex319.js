@@ -1,5 +1,16 @@
 var NAVTREEINDEX319 =
 {
+"dd/d40/instance__molten__core_8cpp.html#a398f000c29691c6a24707190dc4a4024":[7,0,0,0,1,3,2,1,3,10,5],
+"dd/d40/instance__molten__core_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,2,1,3,10,6],
+"dd/d40/instance__molten__core_8cpp.html#a69ab269a27b57bb4b00d3eee95db589e":[7,0,0,0,1,3,2,1,3,10,4],
+"dd/d40/instance__molten__core_8cpp.html#aa908fb56c2f024e5bfcb38bc98b849ab":[7,0,0,0,1,3,2,1,3,10,3],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html":[6,0,1898,0],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1898,0,1],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1898,0,3],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1898,0,2],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1898,0,0],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1898,0,4],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1795,0],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1795,0,1],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1795,0,4],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1795,0,2],
@@ -238,16 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d55/classspell__shredder__delivery.html#af9d8f764a6a02737f8b559f067156df6":[6,0,3733,3],
 "dd/d57/AuthSession_8h.html":[7,0,0,0,1,0,0,2,1],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834":[7,0,0,0,1,0,0,2,1,3],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734":[7,0,0,0,1,0,0,2,1,3,2],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0":[7,0,0,0,1,0,0,2,1,3,4],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94":[7,0,0,0,1,0,0,2,1,3,5],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4":[7,0,0,0,1,0,0,2,1,3,0],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[7,0,0,0,1,0,0,2,1,3,1],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[7,0,0,0,1,0,0,2,1,3,3],
-"dd/d57/structSQLElementData.html":[6,0,4025],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4025,0],
-"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[6,0,4025,1],
-"dd/d58/boss__twinemperors_8cpp.html":[7,0,0,0,1,3,4,9,7],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,9,7,5],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2]
+"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734":[7,0,0,0,1,0,0,2,1,3,2]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX329 =
 {
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af935b0f6967dcbbc84f9d510f35b6f32":[7,0,0,0,1,3,5,9,2,10,28,6],
+"dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[7,0,0,0,1,3,5,9,2,10,29],
+"dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82":[7,0,0,0,1,3,5,9,2,10,17],
+"dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
+"dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18],
+"dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0":[7,0,0,0,1,3,5,9,2,10,19],
+"dd/dca/classnpc__spiritual__insight.html":[6,0,2093],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2093,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2093,1],
+"dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
+"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
+"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357":[7,0,0,0,1,2,38,0,75,1],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a002be09105d92b7edefa4c442ce040e5":[7,0,0,0,1,2,38,0,75,1,160],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a020ab2524fa543d1063bbeba914880e7":[7,0,0,0,1,2,38,0,75,1,129],
@@ -237,17 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031":[7,0,0,0,1,3,4,11,2,3,6],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8":[7,0,0,0,1,3,4,11,2,3,2],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b":[7,0,0,0,1,3,4,11,2,3,9],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a":[7,0,0,0,1,3,4,11,2,3,11],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d":[7,0,0,0,1,3,4,11,2,3,4],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[7,0,0,0,1,3,4,11,2,3,7],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[7,0,0,0,1,3,4,11,2,3,8],
-"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[7,0,0,0,1,3,4,11,2,6],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2853],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[6,0,2853,1],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[6,0,2853,2],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2853,0],
-"dd/dcd/structCreatureFamilyEntry.html":[6,0,904],
-"dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[6,0,904,1],
-"dd/dcd/structCreatureFamilyEntry.html#a3eacdd8639c6dd25dbd3205a58860cf9":[6,0,904,3],
-"dd/dcd/structCreatureFamilyEntry.html#a49d9d7847cc4d54891d83166eb277740":[6,0,904,4]
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a":[7,0,0,0,1,3,4,11,2,3,11]
 };

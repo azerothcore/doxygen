@@ -1,5 +1,10 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/classspell__warr__deep__wounds.html":[6,0,3916],
+"d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[6,0,3916,2],
+"d2/d27/classspell__warr__deep__wounds.html#a42ff645d6c8e94353ae118327af5f4e6":[6,0,3916,1],
+"d2/d27/classspell__warr__deep__wounds.html#a436ed0843e0035308c69f0854decd7f2":[6,0,3916,0],
+"d2/d27/classspell__warr__deep__wounds.html#a93e68d77227297883aae472ef08fb67c":[6,0,3916,3],
 "d2/d27/structBossBoundaryData.html":[6,0,796],
 "d2/d27/structBossBoundaryData.html#a326930360d22d5fdf9a895991f2c4e49":[6,0,796,4],
 "d2/d27/structBossBoundaryData.html#a3f80cd89e43eae1a74e2b0a6a674d0cb":[6,0,796,2],
@@ -40,12 +45,12 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3016,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3016,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3016,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,119,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,131,1],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,119,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,880],
@@ -63,8 +68,8 @@ var NAVTREEINDEX53 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,880,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,880,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,880,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,31,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,31,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,31,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a16b4786413200180dbd3039de1a094f2":[7,0,0,0,1,2,8,0,1,10,21],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2098795ff583a05546cfb1d4b65be4d3":[7,0,0,0,1,2,8,0,1,10,1],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2162382f9fb7ed5babb7b0d26c848d96":[7,0,0,0,1,2,8,0,1,10,9],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a450f73e1468e38cb6b534dad2169d40d":[7,0,0,0,1,2,8,0,1,10,6],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a46f103b7cf27050acc515398fd3e869a":[7,0,0,0,1,2,8,0,1,10,17],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4b77b0df124be1f9e77637feeef4af17":[7,0,0,0,1,2,8,0,1,10,16],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4d4b2d0c09eebec8e2fbf2048239f905":[7,0,0,0,1,2,8,0,1,10,26],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103":[7,0,0,0,1,2,8,0,1,10,14],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273":[7,0,0,0,1,2,8,0,1,10,10]
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a450f73e1468e38cb6b534dad2169d40d":[7,0,0,0,1,2,8,0,1,10,6]
 };

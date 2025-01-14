@@ -354,7 +354,7 @@ var searchData=
   ['loadvehicleseataddon_351',['LoadVehicleSeatAddon',['../d5/dfb/classObjectMgr.html#aefd6a2fe7b0e7dbcbf829cd4ddd4ed95',1,'ObjectMgr']]],
   ['loadvehicletemplateaccessories_352',['LoadVehicleTemplateAccessories',['../d5/dfb/classObjectMgr.html#a8c254fc79caab26e9b85304943691472',1,'ObjectMgr']]],
   ['loadvendors_353',['LoadVendors',['../d5/dfb/classObjectMgr.html#aeec4639ff09cfcd658d39872283e3886',1,'ObjectMgr']]],
-  ['loadvmap_354',['loadvmap',['../d7/db0/classMap.html#a851a2d861a462c1c1132eef8c76557bd',1,'Map::LoadVMap()'],['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()']]],
+  ['loadvmap_354',['loadvmap',['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()'],['../d7/db0/classMap.html#a851a2d861a462c1c1132eef8c76557bd',1,'Map::LoadVMap()']]],
   ['loadwardenchecks_355',['LoadWardenChecks',['../dc/d48/classWardenCheckMgr.html#ad02847547a06d98c582d09992dce9d11',1,'WardenCheckMgr']]],
   ['loadwardenoverrides_356',['LoadWardenOverrides',['../dc/d48/classWardenCheckMgr.html#a0a82e118a8f8236fecf1b00de0e2071c',1,'WardenCheckMgr']]],
   ['loadwaypointscripts_357',['LoadWaypointScripts',['../d5/dfb/classObjectMgr.html#acb39506ceb0b83bd56369084ba706b3d',1,'ObjectMgr']]],

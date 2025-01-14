@@ -1,5 +1,8 @@
 var NAVTREEINDEX33 =
 {
+"d1/d59/structboss__headless__horseman__pumpkin.html":[6,0,508],
+"d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,508,6],
+"d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,508,2],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,508,1],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a401db237c45efde3a30cdca6cb4f95c0":[6,0,508,4],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a62191ae523401ac57a947db96a245f7a":[6,0,508,0],
@@ -236,8 +239,8 @@ var NAVTREEINDEX33 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2006,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[6,0,2006,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2006,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,31,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,10,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,31,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,31,10,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,31,10,1,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,10,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,696],
 "d1/d62/classboss__steelbreaker.html#ac4189ffbba997719fb36a10ecdabd26c":[6,0,696,2],
-"d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,696,1],
-"d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1],
-"d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[7,0,0,0,1,2,44,1,3],
-"d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[7,0,0,0,1,2,44,1,6]
+"d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,696,1]
 };

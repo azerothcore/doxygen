@@ -1,5 +1,17 @@
 var NAVTREEINDEX330 =
 {
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d":[7,0,0,0,1,3,4,11,2,3,4],
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[7,0,0,0,1,3,4,11,2,3,7],
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[7,0,0,0,1,3,4,11,2,3,8],
+"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[7,0,0,0,1,3,4,11,2,6],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2853],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[6,0,2853,1],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[6,0,2853,2],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2853,0],
+"dd/dcd/structCreatureFamilyEntry.html":[6,0,904],
+"dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[6,0,904,1],
+"dd/dcd/structCreatureFamilyEntry.html#a3eacdd8639c6dd25dbd3205a58860cf9":[6,0,904,3],
+"dd/dcd/structCreatureFamilyEntry.html#a49d9d7847cc4d54891d83166eb277740":[6,0,904,4],
 "dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[6,0,904,6],
 "dd/dcd/structCreatureFamilyEntry.html#a802000cefb6c4d357edfc45cc291e21e":[6,0,904,7],
 "dd/dcd/structCreatureFamilyEntry.html#a84ba697182123cb3e7dd3ba07241e971":[6,0,904,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2734],
 "dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2734,3],
 "dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2734,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2734,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2734,1],
-"dd/dd6/boss__halion_8cpp.html":[7,0,0,0,1,3,5,1,1,2],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a14e03d152c58b504c232ebb687dec528":[7,0,0,0,1,3,5,1,1,2,31,3],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b1c2e9fbaceb3cb2fb8fd35fae82587":[7,0,0,0,1,3,5,1,1,2,31,2],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad":[7,0,0,0,1,3,5,1,1,2,31,4],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a69a3c27ce1f74548f0f5c044de93d1d2":[7,0,0,0,1,3,5,1,1,2,31,1],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a857d8d65f60a3457bbd70737ac2a8d05":[7,0,0,0,1,3,5,1,1,2,31,8],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9cf8c6de0055cdefd98ace30711ccb9d":[7,0,0,0,1,3,5,1,1,2,31,6],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4b4e29da6bbd52b6fc9dc360127da3d":[7,0,0,0,1,3,5,1,1,2,31,7],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad0eb8271cee9550292a41c9aaae5410d":[7,0,0,0,1,3,5,1,1,2,31,0]
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2734,2]
 };

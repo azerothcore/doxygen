@@ -1,5 +1,16 @@
 var NAVTREEINDEX283 =
 {
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a42ffdf5a3d2ee43ddf0fc0d29f580491":[6,0,499,0,6],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a5b4dc381ff6df8a4badc61196e2687bd":[6,0,499,0,1],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a65b93a213a69edf864ca123b6560b0a8":[6,0,499,0,8],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a6fdb9b9650382600086f5646a627af52":[6,0,499,0,5],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a75430465e2329252581c2522ff14d82b":[6,0,499,0,0],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#aa5c858b2702744f24ac1d22078df1d7b":[6,0,499,0,2],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e":[6,0,499,0,4],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#ac4b6a589939bdc8a23f182ebf955e242":[6,0,499,0,9],
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#af8bcc00fbf757e0a0129111cca0a0a5c":[6,0,499,0,7],
+"db/dab/DBCFileLoader_8cpp.html":[7,0,0,0,0,4,0],
+"db/dab/classspell__gen__shriveling__gaze.html":[6,0,2954],
 "db/dab/classspell__gen__shriveling__gaze.html#a344d1a92623865876174c0e88ce8ab4b":[6,0,2954,2],
 "db/dab/classspell__gen__shriveling__gaze.html#a352ff0e85eee6e51e9f2eea5cdd9108c":[6,0,2954,3],
 "db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11":[6,0,2954,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX283 =
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83":[7,0,0,0,1,3,10,14,61],
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[7,0,0,0,1,3,10,14,61,0],
 "db/daf/structboss__eramas__brightblaze.html":[6,0,429],
-"db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[6,0,429,0],
-"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,429,1],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html":[6,0,1613,0],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a5e20d5e17baaac92a560a5b2fe15fe7b":[6,0,1613,0,2],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159":[6,0,1613,0,4],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a851008790128831c5c10710b4cccb196":[6,0,1613,0,3],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#ada99dced1e560aebc908a0efb6c23d0a":[6,0,1613,0,0],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#af38e129cdf4af99e99c41b6a98448e56":[6,0,1613,0,1],
-"db/db2/Chat_8cpp.html":[7,0,0,0,1,2,11,2],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9":[7,0,0,0,1,2,11,2,1],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd":[7,0,0,0,1,2,11,2,1,0],
-"db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e":[7,0,0,0,1,2,11,2,1,4]
+"db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[6,0,429,0]
 };
