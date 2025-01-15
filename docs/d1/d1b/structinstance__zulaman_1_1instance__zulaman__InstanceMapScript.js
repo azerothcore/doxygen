@@ -9,6 +9,7 @@ var structinstance__zulaman_1_1instance__zulaman__InstanceMapScript =
     [ "OnCreatureEvade", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
     [ "OnGameObjectCreate", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
     [ "OnPlayerEnter", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
+    [ "OnUnitDeath", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
     [ "ResetAkilzonGauntlet", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1623080f2466aeca03f048decc34bdb5", null ],
     [ "SetBossState", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
     [ "SetData", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a7381d84943028f66b339168724b467b8", null ],
@@ -16,7 +17,6 @@ var structinstance__zulaman_1_1instance__zulaman__InstanceMapScript =
     [ "SummonHostage", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a907b3f4a59cbd366f702daeffe05d607", null ],
     [ "Update", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a826800c63083d2af31847118c8b05e57", null ],
     [ "_akilzonGauntlet", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "_chestLooted", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ac6bce6de8ca45513cdabbace943f32d4", null ],
     [ "AkilzonTrash", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
     [ "RandVendor", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

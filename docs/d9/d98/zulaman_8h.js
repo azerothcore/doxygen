@@ -63,6 +63,7 @@ var zulaman_8h =
     ] ],
     [ "MiscIds", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87", [
       [ "DATA_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8b0940fe883897da12f11a72f7722d85", null ],
+      [ "DATA_CHEST_COUNT", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a3e3649448714ebe0272b6d660d540ae8", null ],
       [ "ACTION_START_TIMED_RUN", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a8e3160a5893fef5cf57380ff6cbcf1b6", null ],
       [ "ACTION_START_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a1e58053c43ea495ecd1bfad82b605375", null ],
       [ "ACTION_RESET_AKILZON_GAUNTLET", "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a975640cf2a355b698a781a70de842cca", null ],

@@ -5345,6 +5345,7 @@ var hierarchy =
           [ "npc_dragonmaw_peon::npc_dragonmaw_peonAI", "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html", null ],
           [ "npc_drakonid_spawner", "dc/d48/structnpc__drakonid__spawner.html", null ],
           [ "npc_dream_fog::npc_dream_fogAI", "db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html", null ],
+          [ "npc_eagle_trash_aggro_trigger", "d8/da4/structnpc__eagle__trash__aggro__trigger.html", null ],
           [ "npc_earthen_ring_flamecaller", "d4/da8/structnpc__earthen__ring__flamecaller.html", null ],
           [ "npc_eastvale_peasent", "dc/d56/structnpc__eastvale__peasent.html", null ],
           [ "npc_echo_of_medivh", "d5/d59/structnpc__echo__of__medivh.html", null ],

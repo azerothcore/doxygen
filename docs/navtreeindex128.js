@@ -1,11 +1,11 @@
 var NAVTREEINDEX128 =
 {
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a892d973ca4e04138eda70b09e16c9b2a":[6,0,2090,0,7],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a94ad98a558ed8df7c17f75a0a6c0ec26":[6,0,2090,0,8],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ab87abc1a65e48325c31a52517477297b":[6,0,2090,0,2],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ad758068ccfc12cead2e3a6b646bea374":[6,0,2090,0,0],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ada5ab1c21b13acc0aee4e7a4907d76d9":[6,0,2090,0,3],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#aebb6606d219bd6ee59c01718374576e9":[6,0,2090,0,6],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a892d973ca4e04138eda70b09e16c9b2a":[6,0,2091,0,7],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a94ad98a558ed8df7c17f75a0a6c0ec26":[6,0,2091,0,8],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ab87abc1a65e48325c31a52517477297b":[6,0,2091,0,2],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ad758068ccfc12cead2e3a6b646bea374":[6,0,2091,0,0],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#ada5ab1c21b13acc0aee4e7a4907d76d9":[6,0,2091,0,3],
+"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#aebb6606d219bd6ee59c01718374576e9":[6,0,2091,0,6],
 "d4/d81/boss__faction__champions_8cpp.html":[7,0,0,0,1,3,5,2,1,1],
 "d4/d81/boss__faction__champions_8cpp.html#a083f0903f82b4bda8bd96e530f83c37f":[7,0,0,0,1,3,5,2,1,1,55],
 "d4/d81/boss__faction__champions_8cpp.html#a083f0903f82b4bda8bd96e530f83c37fa0f8ea6d9f1c9e8a73a6986f1f098daf3":[7,0,0,0,1,3,5,2,1,1,55,6],

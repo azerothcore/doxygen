@@ -334,24 +334,24 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3830</span>    {</div>
-<div class="line"><span class="lineno"> 3831</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 3832</span> </div>
-<div class="line"><span class="lineno"> 3833</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>();</div>
-<div class="line"><span class="lineno"> 3834</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(<a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>);</div>
-<div class="line"><span class="lineno"> 3835</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 3836</span>        {</div>
-<div class="line"><span class="lineno"> 3837</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 3838</span>        }</div>
-<div class="line"><span class="lineno"> 3839</span> </div>
-<div class="line"><span class="lineno"> 3840</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> stacks = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>();</div>
-<div class="line"><span class="lineno"> 3841</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bp = 0;</div>
-<div class="line"><span class="lineno"> 3842</span> </div>
-<div class="line"><span class="lineno"> 3843</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; stacks; ++i)</div>
-<div class="line"><span class="lineno"> 3844</span>            bp += spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue(caster);</div>
-<div class="line"><span class="lineno"> 3845</span> </div>
-<div class="line"><span class="lineno"> 3846</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, bp, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>(), <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 3847</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3831</span>    {</div>
+<div class="line"><span class="lineno"> 3832</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 3833</span> </div>
+<div class="line"><span class="lineno"> 3834</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>();</div>
+<div class="line"><span class="lineno"> 3835</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(<a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>);</div>
+<div class="line"><span class="lineno"> 3836</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 3837</span>        {</div>
+<div class="line"><span class="lineno"> 3838</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 3839</span>        }</div>
+<div class="line"><span class="lineno"> 3840</span> </div>
+<div class="line"><span class="lineno"> 3841</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> stacks = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>();</div>
+<div class="line"><span class="lineno"> 3842</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bp = 0;</div>
+<div class="line"><span class="lineno"> 3843</span> </div>
+<div class="line"><span class="lineno"> 3844</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; stacks; ++i)</div>
+<div class="line"><span class="lineno"> 3845</span>            bp += spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue(caster);</div>
+<div class="line"><span class="lineno"> 3846</span> </div>
+<div class="line"><span class="lineno"> 3847</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, bp, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>(), <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 3848</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
@@ -366,11 +366,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellInfo_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition</b> SpellInfo.h:393</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassUnit_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1224</div></div>
-<div class="ttc" id="aspell__generic_8cpp_html_a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690"><div class="ttname"><a href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a></div><div class="ttdeci">@ SPELL_GEN_BLADE_WARDING_TRIGGERED</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:3816</div></div>
+<div class="ttc" id="aspell__generic_8cpp_html_a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690"><div class="ttname"><a href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a></div><div class="ttdeci">@ SPELL_GEN_BLADE_WARDING_TRIGGERED</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:3817</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01224">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l00440">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00439">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01125">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l03816">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00150">TRIGGERED_FULL_MASK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01224">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l00440">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00439">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01125">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l03817">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00150">TRIGGERED_FULL_MASK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03849">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03850">Register()</a>.</p>
 
 </div>
 </div>
@@ -424,16 +424,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3850</span>    {</div>
-<div class="line"><span class="lineno"> 3851</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d8f/classspell__gen__blade__warding.html#ac88c41bcfcedd9194d9d3f958d605d37">spell_gen_blade_warding::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 3852</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3851</span>    {</div>
+<div class="line"><span class="lineno"> 3852</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d8f/classspell__gen__blade__warding.html#ac88c41bcfcedd9194d9d3f958d605d37">spell_gen_blade_warding::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 3853</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__gen__blade__warding_html_ac88c41bcfcedd9194d9d3f958d605d37"><div class="ttname"><a href="../../dd/d8f/classspell__gen__blade__warding.html#ac88c41bcfcedd9194d9d3f958d605d37">spell_gen_blade_warding::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:3829</div></div>
+<div class="ttc" id="aclassspell__gen__blade__warding_html_ac88c41bcfcedd9194d9d3f958d605d37"><div class="ttname"><a href="../../dd/d8f/classspell__gen__blade__warding.html#ac88c41bcfcedd9194d9d3f958d605d37">spell_gen_blade_warding::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:3830</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l03829">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l03830">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -462,12 +462,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3825</span>    {</div>
-<div class="line"><span class="lineno"> 3826</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a> });</div>
-<div class="line"><span class="lineno"> 3827</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3826</span>    {</div>
+<div class="line"><span class="lineno"> 3827</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690">SPELL_GEN_BLADE_WARDING_TRIGGERED</a> });</div>
+<div class="line"><span class="lineno"> 3828</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03816">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03817">SPELL_GEN_BLADE_WARDING_TRIGGERED</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -480,7 +480,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d8f/classspell__gen__blade__warding.html">spell_gen_blade_warding</a></li>
-    <li class="footer">Generated on Tue Jan 14 2025 06:20:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 15 2025 06:20:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

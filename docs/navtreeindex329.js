@@ -1,14 +1,19 @@
 var NAVTREEINDEX329 =
 {
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4b8f79ded529e854ee92c7d49a6af2d2":[7,0,0,0,1,3,5,9,2,10,28,8],
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,5,9,2,10,28,1],
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5ea4e521bba41459b27dc29831dc1b3a":[7,0,0,0,1,3,5,9,2,10,28,7],
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,9,2,10,28,2],
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4e2a2237c699c048aed272ed67283e3":[7,0,0,0,1,3,5,9,2,10,28,5],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af935b0f6967dcbbc84f9d510f35b6f32":[7,0,0,0,1,3,5,9,2,10,28,6],
 "dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[7,0,0,0,1,3,5,9,2,10,29],
 "dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82":[7,0,0,0,1,3,5,9,2,10,17],
 "dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
 "dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18],
 "dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0":[7,0,0,0,1,3,5,9,2,10,19],
-"dd/dca/classnpc__spiritual__insight.html":[6,0,2093],
-"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2093,2],
-"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2093,1],
+"dd/dca/classnpc__spiritual__insight.html":[6,0,2094],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2094,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2094,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
 "dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
@@ -244,10 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178":[7,0,0,0,1,3,4,11,2,3,10],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a":[7,0,0,0,1,3,4,11,2,3,3],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b":[7,0,0,0,1,3,4,11,2,3,1],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7":[7,0,0,0,1,3,4,11,2,3,5],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376":[7,0,0,0,1,3,4,11,2,3,0],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031":[7,0,0,0,1,3,4,11,2,3,6],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8":[7,0,0,0,1,3,4,11,2,3,2],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b":[7,0,0,0,1,3,4,11,2,3,9],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a":[7,0,0,0,1,3,4,11,2,3,11]
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7":[7,0,0,0,1,3,4,11,2,3,5]
 };

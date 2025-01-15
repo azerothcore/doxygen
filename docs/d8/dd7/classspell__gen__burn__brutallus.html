@@ -324,17 +324,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1325</span>    {</div>
-<div class="line"><span class="lineno"> 1326</span>        <span class="keywordflow">if</span> (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>() % 11 == 0)</div>
-<div class="line"><span class="lineno"> 1327</span>            aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee">GetAmount</a>() * 2);</div>
-<div class="line"><span class="lineno"> 1328</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1326</span>    {</div>
+<div class="line"><span class="lineno"> 1327</span>        <span class="keywordflow">if</span> (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>() % 11 == 0)</div>
+<div class="line"><span class="lineno"> 1328</span>            aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee">GetAmount</a>() * 2);</div>
+<div class="line"><span class="lineno"> 1329</span>    }</div>
 <div class="ttc" id="aclassAuraEffect_html_a0c28e995bc0e15c692c24154bab9df4d"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">AuraEffect::GetTickNumber</a></div><div class="ttdeci">uint32 GetTickNumber() const</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:87</div></div>
 <div class="ttc" id="aclassAuraEffect_html_a9790b9f33c52c6d3b830dc6f56f08bf0"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">AuraEffect::SetAmount</a></div><div class="ttdeci">void SetAmount(int32 amount)</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:66</div></div>
 <div class="ttc" id="aclassAuraEffect_html_afcf272bebf373ad3aebc03cce644cbee"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee">AuraEffect::GetAmount</a></div><div class="ttdeci">int32 GetAmount() const</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:64</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00066">AuraEffect::SetAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01330">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01331">Register()</a>.</p>
 
 </div>
 </div>
@@ -388,16 +388,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1331</span>    {</div>
-<div class="line"><span class="lineno"> 1332</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b">spell_gen_burn_brutallus::HandleEffectPeriodicUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
-<div class="line"><span class="lineno"> 1333</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1332</span>    {</div>
+<div class="line"><span class="lineno"> 1333</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b">spell_gen_burn_brutallus::HandleEffectPeriodicUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
+<div class="line"><span class="lineno"> 1334</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:66</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a715640892166108a23f30ed68346d395"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a></div><div class="ttdeci">#define AuraEffectUpdatePeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aclassAuraScript_html_a6baf2932d6e9170f5dc3aa969e6f0396"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">AuraScript::OnEffectUpdatePeriodic</a></div><div class="ttdeci">HookList&lt; EffectUpdatePeriodicHandler &gt; OnEffectUpdatePeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
-<div class="ttc" id="aclassspell__gen__burn__brutallus_html_a554353fede78b89bf488230254d7892b"><div class="ttname"><a href="../../d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b">spell_gen_burn_brutallus::HandleEffectPeriodicUpdate</a></div><div class="ttdeci">void HandleEffectPeriodicUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1324</div></div>
+<div class="ttc" id="aclassspell__gen__burn__brutallus_html_a554353fede78b89bf488230254d7892b"><div class="ttname"><a href="../../d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b">spell_gen_burn_brutallus::HandleEffectPeriodicUpdate</a></div><div class="ttdeci">void HandleEffectPeriodicUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1325</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00766">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01324">HandleEffectPeriodicUpdate()</a>, <a class="el" href="../../#l00765">AuraScript::OnEffectUpdatePeriodic</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00766">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01325">HandleEffectPeriodicUpdate()</a>, <a class="el" href="../../#l00765">AuraScript::OnEffectUpdatePeriodic</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -410,7 +410,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dd7/classspell__gen__burn__brutallus.html">spell_gen_burn_brutallus</a></li>
-    <li class="footer">Generated on Tue Jan 14 2025 06:20:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 15 2025 06:20:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

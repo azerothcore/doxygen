@@ -6,6 +6,7 @@ var zulaman_8cpp =
     [ "npc_harrison_jones", "d7/dd1/structnpc__harrison__jones.html", "d7/dd1/structnpc__harrison__jones" ],
     [ "spell_ritual_of_power", "d1/d03/classspell__ritual__of__power.html", "d1/d03/classspell__ritual__of__power" ],
     [ "npc_amanishi_lookout", "d1/db2/structnpc__amanishi__lookout.html", "d1/db2/structnpc__amanishi__lookout" ],
+    [ "npc_eagle_trash_aggro_trigger", "d8/da4/structnpc__eagle__trash__aggro__trigger.html", "d8/da4/structnpc__eagle__trash__aggro__trigger" ],
     [ "npc_amanishi_tempest", "d5/db3/structnpc__amanishi__tempest.html", "d5/db3/structnpc__amanishi__tempest" ],
     [ "npc_amanishi_scout", "dc/d8c/structnpc__amanishi__scout.html", "dc/d8c/structnpc__amanishi__scout" ],
     [ "spell_alert_drums", "d1/d16/classspell__alert__drums.html", "d1/d16/classspell__alert__drums" ],
