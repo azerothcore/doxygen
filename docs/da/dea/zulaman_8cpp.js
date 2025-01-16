@@ -46,8 +46,7 @@ var zulaman_8cpp =
     ] ],
     [ "EntryIds", "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127", [
       [ "NPC_HARRISON_JONES_1", "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127ac63e6a577265282613537f3490261423", null ],
-      [ "NPC_HARRISON_JONES_2", "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a73615b24ba6a96dc45d228eb839fb5ad", null ],
-      [ "NPC_AMANISHI_GUARDIAN", "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a5643943c442474783e6406099d0ea6f2", null ]
+      [ "NPC_HARRISON_JONES_2", "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a73615b24ba6a96dc45d228eb839fb5ad", null ]
     ] ],
     [ "ForestFrog", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4", [
       [ "SPELL_REMOVE_AMANI_CURSE", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a032ce56f77df22d596b091bddfa5eb3e", null ],

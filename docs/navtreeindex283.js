@@ -1,12 +1,5 @@
 var NAVTREEINDEX283 =
 {
-"db/da7/classAuraScript_1_1CheckProcHandler.html#abcb28d1a2f32402511c1e659b2f3b443":[6,0,270,4,2],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html":[6,0,499,0],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a1063db2596a0d57381011c2a6ceeb34e":[6,0,499,0,10],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a10aa0f67aeb12d3d9a34f6213fe3d28f":[6,0,499,0,11],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a31ddd8521366da9cb862334c659288b3":[6,0,499,0,3],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a42ffdf5a3d2ee43ddf0fc0d29f580491":[6,0,499,0,6],
-"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a5b4dc381ff6df8a4badc61196e2687bd":[6,0,499,0,1],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a65b93a213a69edf864ca123b6560b0a8":[6,0,499,0,8],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a6fdb9b9650382600086f5646a627af52":[6,0,499,0,5],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a75430465e2329252581c2522ff14d82b":[6,0,499,0,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX283 =
 "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30ad68532a0855388a10365fc2258880037":[7,0,0,0,1,3,10,14,69,0],
 "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30adbfb65848461634db21e3cc10b7b9bf8":[7,0,0,0,1,3,10,14,69,5],
 "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30af3b3a47b352433e2338a75f30a14ccc3":[7,0,0,0,1,3,10,14,69,7],
-"db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9c":[7,0,0,0,1,3,10,14,72]
+"db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9c":[7,0,0,0,1,3,10,14,72],
+"db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9ca731f1c8fa206bd1f031344f9604eee1e":[7,0,0,0,1,3,10,14,72,0],
+"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83":[7,0,0,0,1,3,10,14,61],
+"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[7,0,0,0,1,3,10,14,61,0],
+"db/daf/structboss__eramas__brightblaze.html":[6,0,429],
+"db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[6,0,429,0],
+"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,429,1],
+"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html":[6,0,1613,0]
 };

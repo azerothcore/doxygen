@@ -70,7 +70,7 @@ var searchData=
   ['playerdumpreader_67',['PlayerDumpReader',['../db/d30/classPlayerDumpReader.html',1,'']]],
   ['playerdumpwriter_68',['PlayerDumpWriter',['../d9/d98/classPlayerDumpWriter.html',1,'']]],
   ['playeridentifier_69',['PlayerIdentifier',['../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html',1,'Acore::ChatCommands']]],
-  ['playerinfo_70',['playerinfo',['../d8/d1c/structChannel_1_1PlayerInfo.html',1,'Channel::PlayerInfo'],['../d3/d50/structPlayerInfo.html',1,'PlayerInfo']]],
+  ['playerinfo_70',['playerinfo',['../d3/d50/structPlayerInfo.html',1,'PlayerInfo'],['../d8/d1c/structChannel_1_1PlayerInfo.html',1,'Channel::PlayerInfo']]],
   ['playerlastsearcher_71',['PlayerLastSearcher',['../d5/dbf/structAcore_1_1PlayerLastSearcher.html',1,'Acore']]],
   ['playerlevelinfo_72',['PlayerLevelInfo',['../dd/d22/structPlayerLevelInfo.html',1,'']]],
   ['playerlistsearcher_73',['PlayerListSearcher',['../d3/dcd/structAcore_1_1PlayerListSearcher.html',1,'Acore']]],
@@ -133,7 +133,5 @@ var searchData=
   ['puppet_130',['Puppet',['../d3/d06/classPuppet.html',1,'']]],
   ['pvpdifficultyentry_131',['PvPDifficultyEntry',['../db/d2f/structPvPDifficultyEntry.html',1,'']]],
   ['pvpinfo_132',['PvPInfo',['../d2/db0/structPvPInfo.html',1,'']]],
-  ['pyramideventdata_133',['PyramidEventData',['../d2/ddb/structPyramidEventData.html',1,'']]],
-  ['pyrewood_5fambush_134',['pyrewood_ambush',['../d1/d14/classpyrewood__ambush.html',1,'']]],
-  ['pyrewood_5fambushai_135',['pyrewood_ambushAI',['../d9/d12/structpyrewood__ambush_1_1pyrewood__ambushAI.html',1,'pyrewood_ambush']]]
+  ['pyramideventdata_133',['PyramidEventData',['../d2/ddb/structPyramidEventData.html',1,'']]]
 ];

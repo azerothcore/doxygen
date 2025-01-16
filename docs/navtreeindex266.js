@@ -1,14 +1,7 @@
 var NAVTREEINDEX266 =
 {
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa0d0fdc87fd135ef2bedb030901cdb9c":[7,0,0,0,3,4,0,0,3],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa79c2d3de4fcd200458c406f40b2ae64":[7,0,0,0,3,4,0,0,6],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#ab7903878916593daecbeb95b98115ab0":[7,0,0,0,3,4,0,0,4],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#abc0f5bc07737e498f287334775dff2b6":[7,0,0,0,3,4,0,0,9],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#ac2a9e79eb120216f855626495b7bd18a":[7,0,0,0,3,4,0,0,7],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#acbd4acd0d29e2d6c43104827f77d9cd2":[7,0,0,0,3,4,0,0,8],
 "da/dea/zulaman_8cpp.html":[7,0,0,0,1,3,2,15,7],
 "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127":[7,0,0,0,1,3,2,15,7,18],
-"da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a5643943c442474783e6406099d0ea6f2":[7,0,0,0,1,3,2,15,7,18,2],
 "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a73615b24ba6a96dc45d228eb839fb5ad":[7,0,0,0,1,3,2,15,7,18,1],
 "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127ac63e6a577265282613537f3490261423":[7,0,0,0,1,3,2,15,7,18,0],
 "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,15,7,21],
@@ -90,9 +83,9 @@ var NAVTREEINDEX266 =
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4add1d767616394768a71ca2131950e827":[7,0,0,0,1,3,2,15,7,19,21],
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aea02c26290f54d1dc8aa363ca5f5ad29":[7,0,0,0,1,3,2,15,7,19,2],
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aed5c8b06c2f4f9325e8689540eeb3e5f":[7,0,0,0,1,3,2,15,7,19,12],
-"da/dec/classnpc__garr__firesworn.html":[6,0,1772],
-"da/dec/classnpc__garr__firesworn.html#a07e47767a44d3613f8cba2c3dfb1d14e":[6,0,1772,2],
-"da/dec/classnpc__garr__firesworn.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf":[6,0,1772,1],
+"da/dec/classnpc__garr__firesworn.html":[6,0,1773],
+"da/dec/classnpc__garr__firesworn.html#a07e47767a44d3613f8cba2c3dfb1d14e":[6,0,1773,2],
+"da/dec/classnpc__garr__firesworn.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf":[6,0,1773,1],
 "da/dee/classboss__rend__blackhand.html":[6,0,660],
 "da/dee/classboss__rend__blackhand.html#aed65d31a5a841af8aed015555bf811cb":[6,0,660,2],
 "da/dee/classboss__rend__blackhand.html#afd12818c33de25332bf207f30c8490a1":[6,0,660,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX266 =
 "da/df4/classboss__overlord__wyrmthalak.html#a56de538f25cbabc9346b987dbfe680a1":[6,0,635,2],
 "da/df4/classspell__majordomo__separation__anxiety__aura.html":[6,0,3354],
 "da/df4/classspell__majordomo__separation__anxiety__aura.html#a5651e7ecab22d2286f85e56b8eccc003":[6,0,3354,0],
-"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5972e66a8c05c5ae64e6666d0f35cb6e":[6,0,3354,2]
+"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5972e66a8c05c5ae64e6666d0f35cb6e":[6,0,3354,2],
+"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5dca8e116c05d11961cbd7995314441e":[6,0,3354,1],
+"da/df4/classspell__majordomo__separation__anxiety__aura.html#a689b93dcf39828f507ef2b7f72d1ca01":[6,0,3354,3],
+"da/df4/structPetition.html":[6,0,2355],
+"da/df4/structPetition.html#a1bbf412a221b76c4a20765d9a6612182":[6,0,2355,1],
+"da/df4/structPetition.html#a7c66ffa9f54768a0e81f61e5bcdde014":[6,0,2355,0],
+"da/df4/structPetition.html#a91c81356e9aa77641eaa881cd04af5af":[6,0,2355,2],
+"da/df4/structPetition.html#aeaf6c421d7545cf98d88b4e552dcff23":[6,0,2355,3]
 };

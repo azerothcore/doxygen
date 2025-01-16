@@ -1,12 +1,5 @@
 var NAVTREEINDEX288 =
 {
-"db/dd5/classCreature.html#ac8053a37866fdc948648683c358498a3":[6,0,895,78],
-"db/dd5/classCreature.html#ac92978c32c3b66af03eadfa1b565d4ca":[6,0,895,218],
-"db/dd5/classCreature.html#ac9335d688ff6d857c475b40589c1c916":[6,0,895,228],
-"db/dd5/classCreature.html#ac9af7951044c7a1059b6ad383c413ef3":[6,0,895,220],
-"db/dd5/classCreature.html#acaf3b49c2d63ddefde205e8a411ce0c9":[6,0,895,84],
-"db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e":[6,0,895,210],
-"db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8":[6,0,895,219],
 "db/dd5/classCreature.html#acbf61d5c54e93808734562b8bd02d2a9":[6,0,895,212],
 "db/dd5/classCreature.html#acc1b9708bc38b39a2c878dfa3ae503e7":[6,0,895,137],
 "db/dd5/classCreature.html#acc2c5f7925a968c540b54b5f126a0f7d":[6,0,895,74],
@@ -218,10 +211,10 @@ var NAVTREEINDEX288 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2718,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2718,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[6,0,2718,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[6,0,878],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,878,0],
 "db/ddb/classTaskContext.html":[6,0,4053],
@@ -249,5 +242,12 @@ var NAVTREEINDEX288 =
 "db/ddb/classTaskContext.html#aab7910aa171d409afa3f074858eacd0e":[6,0,4053,16],
 "db/ddb/classTaskContext.html#aad967f626ce88f95bb7e0610f92f83bb":[6,0,4053,10],
 "db/ddb/classTaskContext.html#ab51c9108135f18eda88250cbdc1d4c9e":[6,0,4053,12],
-"db/ddb/classTaskContext.html#abde6f85254b960e69355583af88123f1":[6,0,4053,11]
+"db/ddb/classTaskContext.html#abde6f85254b960e69355583af88123f1":[6,0,4053,11],
+"db/ddb/classTaskContext.html#ac22c5c7e5ceac123c72918d77edb25b9":[6,0,4053,8],
+"db/ddb/classTaskContext.html#ac35c49969cef74262137fce851a3a30d":[6,0,4053,26],
+"db/ddb/classTaskContext.html#ac3d6d215d8c605a1f724af35136bafe6":[6,0,4053,9],
+"db/ddb/classTaskContext.html#ac844b54773254e162987f61f6c37450d":[6,0,4053,0],
+"db/ddb/classTaskContext.html#ac9eb22a04ed6b03d252e5fd57255045b":[6,0,4053,15],
+"db/ddb/classTaskContext.html#ad3e2db1e5a72a066f1eb6f9efc59cc26":[6,0,4053,2],
+"db/ddb/classTaskContext.html#ad7bd61567707321cad553befb28c1c6a":[6,0,4053,19]
 };

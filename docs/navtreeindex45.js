@@ -1,9 +1,5 @@
 var NAVTREEINDEX45 =
 {
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faaaf35c01a71211832909d1fad60a65901":[7,0,0,0,1,2,16,4,3,10,75],
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faab5cd4a340004a45093ed51e576051fed":[7,0,0,0,1,2,16,4,3,10,26],
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faab89824b15edb6a7e286e9ea8bd8a2f45":[7,0,0,0,1,2,16,4,3,10,8],
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faaba94e22a03f83a1dd624c3ffcd254054":[7,0,0,0,1,2,16,4,3,10,15],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac06a41a34c6aea3c4c1b61a6ba1ac789":[7,0,0,0,1,2,16,4,3,10,68],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac254221a412907baa414795f0b7eb39d":[7,0,0,0,1,2,16,4,3,10,19],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac38e8d6381e5ed7855a06a1b34163dca":[7,0,0,0,1,2,16,4,3,10,17],
@@ -167,11 +163,11 @@ var NAVTREEINDEX45 =
 "d1/dd9/classnpc__av__marshal__or__warmaster.html":[6,0,1589],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a295eee4baef6a53cf291fdf155cfdf4a":[6,0,1589,2],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a7ffc93248d66d50d5d75d1fcf1f907ee":[6,0,1589,1],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html":[6,0,1876,0],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a3b43992dfeeb7b3b19e777b9629c55ce":[6,0,1876,0,0],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1876,0,3],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#ac365753a428009f4fc4d01ead8fe46fd":[6,0,1876,0,1],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#af9be00be9867622a16103bd21311327f":[6,0,1876,0,2],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html":[6,0,1877,0],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a3b43992dfeeb7b3b19e777b9629c55ce":[6,0,1877,0,0],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1877,0,3],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#ac365753a428009f4fc4d01ead8fe46fd":[6,0,1877,0,1],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#af9be00be9867622a16103bd21311327f":[6,0,1877,0,2],
 "d1/dda/boss__epoch__hunter_8cpp.html":[7,0,0,0,1,3,4,1,2,1],
 "d1/dda/boss__epoch__hunter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,2,1,1],
 "d1/dda/boss__epoch__hunter_8cpp.html#a5bd342133be8c2137b831460acc9298ca11999a4d1291ae659fde0a08ce95cd4c":[7,0,0,0,1,3,4,1,2,1,1,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX45 =
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a53d6013e5ec473854e1537969cb31988":[6,0,2819,1],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a65b5bc8d053a69325f42a7f23ae4dbdc":[6,0,2819,0],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a85be360bb15482ff34b7f1d04d949b1d":[6,0,2819,2],
-"d1/dda/classspell__festergut__blighted__spores__aura.html#ab14e7410cf542d9f4043800a3b86c664":[6,0,2819,3]
+"d1/dda/classspell__festergut__blighted__spores__aura.html#ab14e7410cf542d9f4043800a3b86c664":[6,0,2819,3],
+"d1/ddc/classspell__kael__pyroblast.html":[6,0,3259],
+"d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[6,0,3259,0],
+"d1/ddc/classspell__kael__pyroblast.html#a14aafc65b554c0ada5684c46ae1f57c8":[6,0,3259,2],
+"d1/ddc/classspell__kael__pyroblast.html#afa186c0b0728e3462f8984189613f9a7":[6,0,3259,1]
 };

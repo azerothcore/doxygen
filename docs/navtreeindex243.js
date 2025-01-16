@@ -1,11 +1,5 @@
 var NAVTREEINDEX243 =
 {
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ab0badb57931c59ecfa02e19fbf0af177":[7,0,0,0,1,3,5,9,2,16,3,15],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ab4fab6f5b49e988fec56cf1ee9449064":[7,0,0,0,1,3,5,9,2,16,3,0],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ac7d5c147983433f8d4c7b8a907cad3a7":[7,0,0,0,1,3,5,9,2,16,3,10],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acf1fb682eb9a04679d941e02b7bfd470":[7,0,0,0,1,3,5,9,2,16,3,27],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad8828c678b2dfc9e6712c730388aaa02":[7,0,0,0,1,3,5,9,2,16,3,24],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adc7d3dd1e424bae9564dead1249783d2":[7,0,0,0,1,3,5,9,2,16,3,9],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae3c24bcd411ea3dea5d4b30962003fdc":[7,0,0,0,1,3,5,9,2,16,3,12],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae9eac7645b4f2648d0af2f3d0ea22ebc":[7,0,0,0,1,3,5,9,2,16,3,28],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed4b9c58f88611899c168627ad8a49ca":[7,0,0,0,1,3,5,9,2,16,3,16],
@@ -224,8 +218,8 @@ var NAVTREEINDEX243 =
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,31,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,31,5,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,31,5,3,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,31,5,3,0],
 "da/d02/classachievement__not__even__a__scratch.html":[6,0,75],
@@ -249,5 +243,11 @@ var NAVTREEINDEX243 =
 "da/d02/namespaceAcore_1_1Time.html#abb2429e5a8226c49ea8909ad21d2a36b":[5,0,1,14,11],
 "da/d02/namespaceAcore_1_1Time.html#adcb393a66882383e4038b040ea9fa983":[5,0,1,14,4],
 "da/d02/namespaceAcore_1_1Time.html#af415b3b5ef693e8bd9a8b7f5088ab704":[5,0,1,14,8],
-"da/d02/namespaceAcore_1_1Time.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[5,0,1,14,17]
+"da/d02/namespaceAcore_1_1Time.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[5,0,1,14,17],
+"da/d02/namespaceAcore_1_1Time.html#afe6fb6cf9a0829f40c9ba45356eec815":[5,0,1,14,7],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[6,0,3379],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[6,0,3379,2],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[6,0,3379,1],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[6,0,3379,0],
+"da/d04/classspell__item__the__eye__of__diminution.html":[6,0,3244]
 };

@@ -1,12 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ac4b5548b4d4194b6f7ab9fafa507cc14":[6,0,604,0,11],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ad4276a2a0682f609d99d6c21f99c12e6":[6,0,604,0,6],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#adacbe636f193dbce30f93d1747475d61":[6,0,604,0,26],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#adf78855db6c7e8b96162e218a292bd13":[6,0,604,0,17],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ae04f0373493354a5980b5ea50d9409ab":[6,0,604,0,21],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ae9407e6517ff2fbde9636bb15c50c7c9":[6,0,604,0,0],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#aed52f33d004bdda17c827f6f84281729":[6,0,604,0,1],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#af0dee99bc7185e817d75564e0b76e9a5":[6,0,604,0,22],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#afa232bbc2dfa59864b33dd5ef01f510c":[6,0,604,0,12],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#afcd749730b91e9bf9c18609d1f826b06":[6,0,604,0,16],
@@ -181,9 +174,9 @@ var NAVTREEINDEX393 =
 "df/dda/structnpc__crystalline__frayer.html#adc85054030146067d2cff47db2886a07":[6,0,1685,6],
 "df/dda/structnpc__crystalline__frayer.html#ade88d8f4d4fd32155b87dfba75084f4c":[6,0,1685,0],
 "df/dda/structnpc__crystalline__frayer.html#ae4a140cd9fccecea24982d7aa90c6bf0":[6,0,1685,7],
-"df/ddb/classnpc__unworthy__initiate.html":[6,0,2208],
-"df/ddb/classnpc__unworthy__initiate.html#a0912cc56cb2082b2de086cbd9b914b4a":[6,0,2208,2],
-"df/ddb/classnpc__unworthy__initiate.html#aaa04626b783eadc0b14bd89aa715e694":[6,0,2208,1],
+"df/ddb/classnpc__unworthy__initiate.html":[6,0,2209],
+"df/ddb/classnpc__unworthy__initiate.html#a0912cc56cb2082b2de086cbd9b914b4a":[6,0,2209,2],
+"df/ddb/classnpc__unworthy__initiate.html#aaa04626b783eadc0b14bd89aa715e694":[6,0,2209,1],
 "df/ddb/structviolet__hold__trashAI.html":[6,0,4149],
 "df/ddb/structviolet__hold__trashAI.html#a0a5f5b86cd54c28a828db2ac3e83126b":[6,0,4149,13],
 "df/ddb/structviolet__hold__trashAI.html#a16e7677aa9597dda938a67c51febde6c":[6,0,4149,6],
@@ -249,5 +242,12 @@ var NAVTREEINDEX393 =
 "df/ddc/classTaskScheduler.html#aef5466d24be443ceaacd982b960eefd6":[6,0,4054,34],
 "df/ddc/classTaskScheduler.html#af1ed48e830753b5ca1b209d6d137bbeb":[6,0,4054,53],
 "df/ddc/classTaskScheduler.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2":[6,0,4054,45],
-"df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690":[6,0,4054,8]
+"df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690":[6,0,4054,8],
+"df/ddc/classTaskScheduler.html#afa0f29cd0a38f5af81b8cd2888c81fa1":[6,0,4054,27],
+"df/ddc/classTaskScheduler.html#afabf8f475205d00eedb9c39d84af7aa3":[6,0,4054,37],
+"df/ddc/classTaskScheduler.html#afd7ca0f744e8f492f18b42d186ec0723":[6,0,4054,36],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,733,0],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa":[6,0,733,0,3],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd":[6,0,733,0,2],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a39be832be97a27a3358c2f6c939ca728":[6,0,733,0,1]
 };

@@ -1,12 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a9901698526c4b867603247e2486bbaf0":[7,0,0,0,1,3,2,6,3,9,6],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a99dfcda224e38c33771d6bf70abb5b66":[7,0,0,0,1,3,2,6,3,9,1],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1aa1682889d7efa23bfdf6197ca365fdad":[7,0,0,0,1,3,2,6,3,9,20],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1ab0ba98cb6d4e115d23d38ae6bd858e3c":[7,0,0,0,1,3,2,6,3,9,16],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1abfc7d54e74db92362bf3ea462b72d431":[7,0,0,0,1,3,2,6,3,9,11],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1ae890adead55474482b5031f6a3ac6b6b":[7,0,0,0,1,3,2,6,3,9,17],
-"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af0bfd11832b7b0c618f4f777cec9a666":[7,0,0,0,1,3,2,6,3,9,21],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af1a666ea0d02fcaa052b6a4e232855f5":[7,0,0,0,1,3,2,6,3,9,9],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1afb793747c717daaa6a0d41719459878f":[7,0,0,0,1,3,2,6,3,9,13],
 "dc/d00/chapter5_8cpp.html#a946fafe9c84bca2b2b604d0729ca6bf7":[7,0,0,0,1,3,2,6,3,12],
@@ -242,12 +235,19 @@ var NAVTREEINDEX293 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[6,0,49],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[6,0,49,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[6,0,49,1],
-"dc/d05/classnpc__wounded__blood__elf.html":[6,0,2250],
-"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2250,2],
-"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2250,1],
+"dc/d05/classnpc__wounded__blood__elf.html":[6,0,2251],
+"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2251,2],
+"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2251,1],
 "dc/d05/structboss__anomalus.html":[6,0,359],
 "dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,359,9],
 "dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[6,0,359,5],
 "dc/d05/structboss__anomalus.html#a41e257481921a122dba30348559e05fb":[6,0,359,3],
-"dc/d05/structboss__anomalus.html#a5d3d77b49e256e09bbb613e810dfc60b":[6,0,359,8]
+"dc/d05/structboss__anomalus.html#a5d3d77b49e256e09bbb613e810dfc60b":[6,0,359,8],
+"dc/d05/structboss__anomalus.html#a7224e8cf6e849d7115f88c7198fdb023":[6,0,359,4],
+"dc/d05/structboss__anomalus.html#a80bec5060c1b6747f2b418b90bcc18eb":[6,0,359,6],
+"dc/d05/structboss__anomalus.html#aa4dd8fac7c360beb834382f624ed2246":[6,0,359,0],
+"dc/d05/structboss__anomalus.html#aa79ec9829862b573cd0f38f965d737e8":[6,0,359,7],
+"dc/d05/structboss__anomalus.html#ac7632bd47c4d64ac032fd066138f22cf":[6,0,359,10],
+"dc/d05/structboss__anomalus.html#ad48aebb50cda7ee621f71803669f04c2":[6,0,359,2],
+"dc/d05/structboss__anomalus.html#ada0735330bff29a8c04706c980e6bbfc":[6,0,359,1]
 };

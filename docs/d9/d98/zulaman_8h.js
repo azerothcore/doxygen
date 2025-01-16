@@ -17,10 +17,11 @@ var zulaman_8h =
       [ "NPC_AMANISHI_MEDICINE_MAN", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eaa4e1fcc7fd793d503f38a8db6d23d4a4", null ],
       [ "NPC_AMANISHI_AXE_THROWER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eae6689904a252475374cedac39faf24c5", null ],
       [ "NPC_AMANI_HATCHLING", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046", null ],
+      [ "NPC_AMANISHI_GUARDIAN", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea5643943c442474783e6406099d0ea6f2", null ],
       [ "NPC_AMANISHI_WIND_WALKER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea29795414aee71ecb6224cfa47db08477", null ],
-      [ "NPC_AMINISHI_LOOKOUT", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac14ffea4a6ab257ee5374df62cefc9ec", null ],
-      [ "NPC_AMINISHI_PROTECTOR", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea5af7c4f08ae0b8376ae92ab680e81aa1", null ],
-      [ "NPC_AMINISHI_TEMPEST", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac4b95a31981edd2d9db989afd66c4277", null ],
+      [ "NPC_AMANISHI_LOOKOUT", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea5a1aefc1e653a6dd7ab41fe069054831", null ],
+      [ "NPC_AMANISHI_PROTECTOR", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea0bdd8c8ef1d879df7c14109e4980b096", null ],
+      [ "NPC_AMANISHI_TEMPEST", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac80a4551e436304fcb1156d19f0db096", null ],
       [ "NPC_EAGLE_TRASH_AGGRO_TRIGGER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea70163ed25437b64fe93c055a7dc76d54", null ]
     ] ],
     [ "DataTypes", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22", [

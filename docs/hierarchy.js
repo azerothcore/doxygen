@@ -4090,7 +4090,6 @@ var hierarchy =
         [ "npc_zulian_prowler", "d2/d98/classnpc__zulian__prowler.html", null ],
         [ "npcs_flanis_swiftwing_and_kagrosh", "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html", null ],
         [ "npcs_riverbreeze_and_silversky", "d2/d14/classnpcs__riverbreeze__and__silversky.html", null ],
-        [ "pyrewood_ambush", "d1/d14/classpyrewood__ambush.html", null ],
         [ "trigger_periodic", "d2/dd4/classtrigger__periodic.html", null ]
       ] ],
       [ "DatabaseScript", "d6/d6e/classDatabaseScript.html", null ],
@@ -5332,6 +5331,7 @@ var hierarchy =
           [ "npc_death_ravager::npc_death_ravagerAI", "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html", null ],
           [ "npc_deaths_door_fell_cannon_target_bunny::npc_deaths_door_fell_cannon_target_bunnyAI", "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html", null ],
           [ "npc_deaths_fel_cannon::npc_deaths_fel_cannonAI", "d4/d9c/structnpc__deaths__fel__cannon_1_1npc__deaths__fel__cannonAI.html", null ],
+          [ "npc_deathstalker_fearleia", "d2/d45/structnpc__deathstalker__fearleia.html", null ],
           [ "npc_demon_chain", "de/d24/structnpc__demon__chain.html", null ],
           [ "npc_depth_charge::npc_depth_chargeAI", "d3/dfe/structnpc__depth__charge_1_1npc__depth__chargeAI.html", null ],
           [ "npc_direbrew_antagonist", "dd/d48/structnpc__direbrew__antagonist.html", null ],
@@ -5729,8 +5729,7 @@ var hierarchy =
           [ "npc_zulaman_hostage::npc_zulaman_hostageAI", "d0/d3a/structnpc__zulaman__hostage_1_1npc__zulaman__hostageAI.html", null ],
           [ "npc_zulian_prowler::npc_zulian_prowlerAI", "d0/d2f/structnpc__zulian__prowler_1_1npc__zulian__prowlerAI.html", null ],
           [ "npc_zuljin_vortex", "d7/d01/structnpc__zuljin__vortex.html", null ],
-          [ "outdoorpvp_na_halaa_creatures", "d9/dd2/structoutdoorpvp__na__halaa__creatures.html", null ],
-          [ "pyrewood_ambush::pyrewood_ambushAI", "d9/d12/structpyrewood__ambush_1_1pyrewood__ambushAI.html", null ]
+          [ "outdoorpvp_na_halaa_creatures", "d9/dd2/structoutdoorpvp__na__halaa__creatures.html", null ]
         ] ],
         [ "SmartAI", "da/ddc/classSmartAI.html", [
           [ "npc_black_morass_summoned_add", "de/d25/structnpc__black__morass__summoned__add.html", null ],

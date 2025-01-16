@@ -2,11 +2,9 @@ var zone__silverpine__forest_8cpp =
 [
     [ "npc_deathstalker_erland", "d5/db6/classnpc__deathstalker__erland.html", "d5/db6/classnpc__deathstalker__erland" ],
     [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html", "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI" ],
-    [ "pyrewood_ambush", "d1/d14/classpyrewood__ambush.html", "d1/d14/classpyrewood__ambush" ],
-    [ "pyrewood_ambush::pyrewood_ambushAI", "d9/d12/structpyrewood__ambush_1_1pyrewood__ambushAI.html", "d9/d12/structpyrewood__ambush_1_1pyrewood__ambushAI" ],
+    [ "npc_deathstalker_fearleia", "d2/d45/structnpc__deathstalker__fearleia.html", "d2/d45/structnpc__deathstalker__fearleia" ],
     [ "npc_ravenclaw_apparition", "d0/d44/classnpc__ravenclaw__apparition.html", "d0/d44/classnpc__ravenclaw__apparition" ],
     [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html", "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI" ],
-    [ "WAIT_SECS", "d2/d5b/zone__silverpine__forest_8cpp.html#a9ad1ed098bd723cdee424425d0e071cb", null ],
     [ "ApparitionEvents", "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416", [
       [ "EVENT_APPA_INTRO", "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
       [ "EVENT_APPA_SAY_1", "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],

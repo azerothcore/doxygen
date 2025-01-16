@@ -1,5 +1,13 @@
 var NAVTREEINDEX213 =
 {
+"d8/d70/OutdoorPvPEP_8h.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b":[7,0,0,0,1,3,6,2,12,6],
+"d8/d70/OutdoorPvPEP_8h.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf":[7,0,0,0,1,3,6,2,12,3],
+"d8/d70/OutdoorPvPEP_8h.html#a870abed831404a02d171e9cf1bd741cb":[7,0,0,0,1,3,6,2,22],
+"d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9":[7,0,0,0,1,3,6,2,5],
+"d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a194ef7849d171faa0d1f64345e7a8e5e":[7,0,0,0,1,3,6,2,5,4],
+"d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a8fd531fb30b66fb2b93c59bb25572143":[7,0,0,0,1,3,6,2,5,3],
+"d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aa3935e441b830c6a57a25b41f956a472":[7,0,0,0,1,3,6,2,5,1],
+"d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aba70f403d1ce18bde45c549e4f2df087":[7,0,0,0,1,3,6,2,5,2],
 "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9abc9c069eb162f17c873d780f5d210c5a":[7,0,0,0,1,3,6,2,5,0],
 "d8/d70/OutdoorPvPEP_8h.html#a8e411865d0acd6cd6c6f10172adf4ad4":[7,0,0,0,1,3,6,2,29],
 "d8/d70/OutdoorPvPEP_8h.html#a9bf83dc59a4ca7a56297e572ee782e9e":[7,0,0,0,1,3,6,2,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d74/classWorldSession.html#a3cb7899370591b4d283a6f6d72950f0b":[4,1,19,544],
 "d8/d74/classWorldSession.html#a3cd8064c92ed44ac83674bc1de37b2a8":[4,1,19,412],
 "d8/d74/classWorldSession.html#a3dcec659eac3abb983ecd97766c13b63":[4,1,19,378],
-"d8/d74/classWorldSession.html#a3e590c3e755ac99074972fe3a83267f1":[4,1,19,297],
-"d8/d74/classWorldSession.html#a3edc9dcf5e56d0030a6793b4492dda43":[4,1,19,24],
-"d8/d74/classWorldSession.html#a3f508131a606a36ef69bf7d0d05e5219":[4,1,19,407],
-"d8/d74/classWorldSession.html#a3fd53d0d648a183db9c349b416c2f34c":[4,1,19,586],
-"d8/d74/classWorldSession.html#a4135507e3f31ab86c7c40cb108ac2808":[4,1,19,519],
-"d8/d74/classWorldSession.html#a41ee58eef56639bfafadd409c35c7420":[4,1,19,355],
-"d8/d74/classWorldSession.html#a421b36a71ee8f4ae7d06b180f5503b12":[4,1,19,387],
-"d8/d74/classWorldSession.html#a42429b06d755cc495d9e31d5aa2a9e12":[4,1,19,573],
-"d8/d74/classWorldSession.html#a42c367cc873ddba4ee27871aae8725c3":[4,1,19,418]
+"d8/d74/classWorldSession.html#a3e590c3e755ac99074972fe3a83267f1":[4,1,19,297]
 };

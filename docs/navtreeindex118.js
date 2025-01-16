@@ -1,5 +1,13 @@
 var NAVTREEINDEX118 =
 {
+"d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#a4464e0b1433c4ffb24ae7809b1a0eec5":[6,0,2228,0,0],
+"d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#aa1412c23f0c3b964262e145c51aea974":[6,0,2228,0,4],
+"d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#aa67dcbb4b43b047398fec2619ad61829":[6,0,2228,0,2],
+"d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#aa81229a104e1521d570abec4b6f7bca7":[6,0,2228,0,3],
+"d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#ac4bbe0a3cccb6878d050b717b9efb320":[6,0,2228,0,1],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[5,0,31,2,0],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[6,0,11,2,0],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[5,0,31,2,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[6,0,11,2,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[6,0,11,2,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,31,2,0,3],
@@ -36,9 +44,9 @@ var NAVTREEINDEX118 =
 "d4/d1d/instance__stratholme_8cpp.html#aa404f6799978911e2f0e4de3b4386c59":[7,0,0,0,1,3,2,10,2,3],
 "d4/d1d/instance__stratholme_8cpp.html#add44fd9ad05267cc5db256b112db2585":[7,0,0,0,1,3,2,10,2,2],
 "d4/d1d/instance__stratholme_8cpp.html#aec64d79cbf450b10fd485f2e559e0472":[7,0,0,0,1,3,2,10,2,8],
-"d4/d1d/structPackedGuidReader.html":[6,0,2329],
-"d4/d1d/structPackedGuidReader.html#a4de5d725a22f0a8ae4bb83cb51a72588":[6,0,2329,1],
-"d4/d1d/structPackedGuidReader.html#aec7af2ed383e06998a0fa12b94da90e3":[6,0,2329,0],
+"d4/d1d/structPackedGuidReader.html":[6,0,2330],
+"d4/d1d/structPackedGuidReader.html#a4de5d725a22f0a8ae4bb83cb51a72588":[6,0,2330,1],
+"d4/d1d/structPackedGuidReader.html#aec7af2ed383e06998a0fa12b94da90e3":[6,0,2330,0],
 "d4/d1e/MovementHandlerScript_8cpp.html":[7,0,0,0,1,2,38,0,68],
 "d4/d1e/MovementHandlerScript_8cpp.html#adecbf467a875ee8886c336d96a2f97dc":[7,0,0,0,1,2,38,0,68,0],
 "d4/d1e/halls__of__reflection_8h.html":[7,0,0,0,1,3,5,4,1,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX118 =
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ac80a67bcec8995faea329a1574b588cb":[7,0,0,0,1,3,5,4,1,3,12,18],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acda471822322dc05ef7803ad7da5afd6":[7,0,0,0,1,3,5,4,1,3,12,23],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf15aa78dad945df7c9e69b25c950cbe":[7,0,0,0,1,3,5,4,1,3,12,55],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf4b6235eb1baa60cb015f34a3de77dd":[7,0,0,0,1,3,5,4,1,3,12,28],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ad1f3e57ea33782b3be88f9d0954f98b4":[7,0,0,0,1,3,5,4,1,3,12,9],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ad4fe4e42e1ba34343196a82d91b5011b":[7,0,0,0,1,3,5,4,1,3,12,30],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99adc69e3e23b9737f4131d22f500ea3f47":[7,0,0,0,1,3,5,4,1,3,12,49],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99addb8cc19e7c414f6b8300a33df2c5210":[7,0,0,0,1,3,5,4,1,3,12,2],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ae7d668b4bbeb3e5508c96258cb46467d":[7,0,0,0,1,3,5,4,1,3,12,60],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ae8655a62fe59a7ef675c7c341e1aadb2":[7,0,0,0,1,3,5,4,1,3,12,48],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ae9359b4b2dd72c3fb1d3fb1494a7e3e5":[7,0,0,0,1,3,5,4,1,3,12,20],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99aef774ac5adcaad52e6636c0233a68f12":[7,0,0,0,1,3,5,4,1,3,12,61]
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf4b6235eb1baa60cb015f34a3de77dd":[7,0,0,0,1,3,5,4,1,3,12,28]
 };
