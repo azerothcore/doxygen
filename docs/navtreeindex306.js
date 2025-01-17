@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[7,0,0,0,1,3,4,9,8,9],
 "dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[7,0,0,0,1,3,4,9,8,9,0],
 "dc/da8/boss__viscidus_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,4,9,8,14],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7":[7,0,0,0,1,3,4,9,8,7],
@@ -33,18 +34,18 @@ var NAVTREEINDEX306 =
 "dc/daa/classNullGameObjectAI.html#a01b2b14306c75fafe58295a30e5d01e0":[6,0,2276,2],
 "dc/daa/classNullGameObjectAI.html#a54f6ae6e03fbe423d895ec306fe091db":[6,0,2276,0],
 "dc/daa/classNullGameObjectAI.html#a850b58bfcc5e613f31fc95e556ed7f91":[6,0,2276,1],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,31,6,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,11,6,0],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,31,6,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,31,6,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[6,0,11,6,0,4],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,31,6,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[6,0,11,6,0,3],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,31,6,0,0],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,31,6,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[6,0,11,6,0,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,31,6,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,31,6,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,11,6,0,2],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,31,6,0,6],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,31,6,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,11,6,0,6],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,31,6,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,11,6,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,31,6,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,11,6,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,1,0,1,9,3],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac724f365f4f61d2e80b6f54c5873b667":[7,0,0,0,1,3,4,1,0,1,9,1],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,4,1,0,1,9,4],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e":[7,0,0,0,1,3,4,1,0,1,8],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea49c2d8931d73c2b1606341de80521473":[7,0,0,0,1,3,4,1,0,1,8,1]
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e":[7,0,0,0,1,3,4,1,0,1,8]
 };

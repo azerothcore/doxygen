@@ -246,8 +246,8 @@ var NAVTREEINDEX385 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,296,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,296,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,296,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0]
 };

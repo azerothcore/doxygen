@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1079,4],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[6,0,1079,2],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a7b2a19d6c7c75c0df22eae17b0c8e90a":[6,0,1079,1],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1079,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/de6/structboss__skarvald__the__constructor.html#ada2068f8b5d125062ec0b7fde0d05c7f":[6,0,691,5],
 "dc/de7/structboss__fathomlord__karathress.html":[6,0,446],
 "dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[6,0,446,6],
-"dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[6,0,446,0],
-"dc/de7/structboss__fathomlord__karathress.html#a1e03da049ad75a464de5dd15ac5e6d88":[6,0,446,4]
+"dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[6,0,446,0]
 };

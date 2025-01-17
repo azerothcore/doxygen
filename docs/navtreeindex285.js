@@ -1,5 +1,6 @@
 var NAVTREEINDEX285 =
 {
+"db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3390],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3390,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3390,1],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a34f80edf782ade371e7a6fc908b47b4f":[6,0,3390,5],
@@ -121,10 +122,10 @@ var NAVTREEINDEX285 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2648,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,22,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,22,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,22,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,22,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX285 =
 "db/dce/classAura.html#ac53ebfd796f09dd49bf93877b4edb615":[6,0,263,124],
 "db/dce/classAura.html#ac6a690bd3e87d00af4c6a562b250f6f1":[6,0,263,77],
 "db/dce/classAura.html#ac7a35591f5b0d0429cf706984dbe4316":[6,0,263,2],
-"db/dce/classAura.html#ac8b613264a2fe06bb7f39043d6d7af32":[6,0,263,53],
-"db/dce/classAura.html#aca22c44b0c3179824f9951b0b3ce206c":[6,0,263,12]
+"db/dce/classAura.html#ac8b613264a2fe06bb7f39043d6d7af32":[6,0,263,53]
 };

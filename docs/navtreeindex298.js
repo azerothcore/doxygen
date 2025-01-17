@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"dc/d2b/structVehicleEntry.html#a9d538a4a455d353e5a89de720987b2f6":[6,0,4139,19],
 "dc/d2b/structVehicleEntry.html#abb5eaa7a8ece7f110e11e8632d9739c8":[6,0,4139,13],
 "dc/d2b/structVehicleEntry.html#ac19f92c418d1bff7734201be0505adeb":[6,0,4139,22],
 "dc/d2b/structVehicleEntry.html#ac7babc51469d8508f5d7c5423e289eaa":[6,0,4139,16],
@@ -27,16 +28,16 @@ var NAVTREEINDEX298 =
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a17beca23a7a7eaa298debb5e9638daca":[6,0,7,9,2],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a3857df1ab2d6dafef4a6d796e6593341":[5,0,22,9,8],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a3857df1ab2d6dafef4a6d796e6593341":[6,0,7,9,8],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a6b6aaf43685649798db46d7b409d3e32":[6,0,7,9,9],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a6b6aaf43685649798db46d7b409d3e32":[5,0,22,9,9],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a8800fca5b50ab5123e92b28e921ec8b0":[5,0,22,9,3],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a6b6aaf43685649798db46d7b409d3e32":[6,0,7,9,9],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a8800fca5b50ab5123e92b28e921ec8b0":[6,0,7,9,3],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a984db18cdbd061605a9d486b061dc7c0":[5,0,22,9,1],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a8800fca5b50ab5123e92b28e921ec8b0":[5,0,22,9,3],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a984db18cdbd061605a9d486b061dc7c0":[6,0,7,9,1],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68":[5,0,22,9,0],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a984db18cdbd061605a9d486b061dc7c0":[5,0,22,9,1],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68":[6,0,7,9,0],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ab0b66cba791fc206be5b64310480cb88":[5,0,22,9,6],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68":[5,0,22,9,0],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ab0b66cba791fc206be5b64310480cb88":[6,0,7,9,6],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ab0b66cba791fc206be5b64310480cb88":[5,0,22,9,6],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac4271ed0434fc8e7f7a70e8869d81a0e":[6,0,7,9,4],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac4271ed0434fc8e7f7a70e8869d81a0e":[5,0,22,9,4],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac8c84e828c23801a68524c9811f0336b":[6,0,7,9,10],
@@ -47,8 +48,8 @@ var NAVTREEINDEX298 =
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[5,0,22,9,12],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[6,0,7,9,13],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[5,0,22,9,13],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[5,0,22,9,11],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[6,0,7,9,11],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[5,0,22,9,11],
 "dc/d30/AuthSocketMgr_8h.html":[7,0,0,0,1,0,0,2,2],
 "dc/d30/AuthSocketMgr_8h.html#abd297ee25e8d77bf56f22d43561d9451":[7,0,0,0,1,0,0,2,2,1],
 "dc/d30/boss__hodir_8cpp.html":[7,0,0,0,1,3,5,9,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0":[7,0,0,0,0,19,7,1],
 "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399":[7,0,0,0,0,19,7,4],
 "dc/d33/Common_8h.html#add49e81cdd2c0bb5eb745bed627d5022":[7,0,0,0,0,19,17],
-"dc/d33/Common_8h.html#aeb4958d609f89151a2aed8c6e375ed40":[7,0,0,0,0,19,2],
-"dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,16]
+"dc/d33/Common_8h.html#aeb4958d609f89151a2aed8c6e375ed40":[7,0,0,0,0,19,2]
 };

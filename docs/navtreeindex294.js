@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"dc/d05/structboss__anomalus.html#ada0735330bff29a8c04706c980e6bbfc":[6,0,359,1],
 "dc/d05/structnpc__shade__of__jindo.html":[6,0,2069],
 "dc/d05/structnpc__shade__of__jindo.html#a1aca8192c0655c0ab359f49448f8fafd":[6,0,2069,4],
 "dc/d05/structnpc__shade__of__jindo.html#a1d74d8113f5ef117b2968f8f864fcaf4":[6,0,2069,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae9b82e54daa62b196c6064143253b0d7":[6,0,645,0,7],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0":[6,0,645,0,2],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af512a9920b3e21641776197a570d87fa":[6,0,645,0,14],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb":[6,0,645,0,18],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af62d0d20e8f7f312c1cd57ba3816bf70":[6,0,645,0,10]
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb":[6,0,645,0,18]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/df0/classTransactionCallback.html#abb0dbcebb22ea716025ed6aca99f6afb":[6,0,4086,5],
 "db/df0/classTransactionCallback.html#adeff62976c11d9d90169e4650640118b":[6,0,4086,1],
 "db/df0/classTransactionCallback.html#af2ec892bbca8d2cc694b36fb931fc1e8":[6,0,4086,2],
 "db/df0/classachievement__wg__within__our__grasp.html":[6,0,101],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19":[7,0,0,0,1,3,9,8,91],
 "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ac9131e86f20693bd376f14a69bfa2d90":[7,0,0,0,1,3,9,8,91,1],
 "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ae7872245ba055a3653b0caf7f5caf1d6":[7,0,0,0,1,3,9,8,91,0],
-"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6":[7,0,0,0,1,3,9,8,111],
-"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6a0091adfedb78948eb88146dd2577f56f":[7,0,0,0,1,3,9,8,111,3]
+"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6":[7,0,0,0,1,3,9,8,111]
 };

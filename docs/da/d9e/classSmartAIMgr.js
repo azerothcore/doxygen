@@ -17,6 +17,7 @@ var classSmartAIMgr =
     [ "IsItemValid", "da/d9e/classSmartAIMgr.html#adb011836ffb01660a069ced11c24aa81", null ],
     [ "IsMinMaxValid", "da/d9e/classSmartAIMgr.html#a819e55257c9a9bfb1eb951d650a36843", null ],
     [ "IsQuestValid", "da/d9e/classSmartAIMgr.html#a99cb71cb69ba38b8bebd6edbdbf34221", null ],
+    [ "IsSAIBoolValid", "da/d9e/classSmartAIMgr.html#ad24d5454bfab13924494a83889b16577", null ],
     [ "IsSoundValid", "da/d9e/classSmartAIMgr.html#a5060a757f6617a6fe2638b9c15f2c2a6", null ],
     [ "IsSpellValid", "da/d9e/classSmartAIMgr.html#af74d3b1999c3774350e87d70a08c8210", null ],
     [ "IsTargetValid", "da/d9e/classSmartAIMgr.html#a2c560363e15bafb702256b053143e635", null ],

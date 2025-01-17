@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#acd70f755f4a14f5f8749b59c953fdb5d":[6,0,2216,0,4],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ad2d2e3f45a7cb8e9bece6a46036d75b6":[6,0,2216,0,12],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd":[6,0,2216,0,7],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ae13cffcbcec48bb26f5d301a543615f5":[6,0,2216,0,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac68852c868ab0958c7f86204d500aeb6":[6,0,2080,0,4],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aca80d441032da46537d17571357ad74c":[6,0,2080,0,16],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[6,0,2080,0,9],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[6,0,2080,0,19],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ae0bc5a848784255b909b8318e3ae30a2":[6,0,2080,0,14]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[6,0,2080,0,19]
 };

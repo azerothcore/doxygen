@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#aacbaae85f9870e64ca43a42c224bb12e":[6,0,2205,0,3],
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#ab0230a2e72f5a0f37abcb01428749db2":[6,0,2205,0,13],
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#ab42021785e07a3ca000ae807c53c84a8":[6,0,2205,0,20],
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#abf25b8b64231c1aba63a381734709d76":[6,0,2205,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d52/classTimedFleeingMovementGenerator.html#a1533d13f4e786e498353805a2a2daf85":[6,0,4073,2],
 "dc/d52/classTimedFleeingMovementGenerator.html#a1a18f033663fa93ef0b9885aae21f766":[6,0,4073,1],
 "dc/d52/classTimedFleeingMovementGenerator.html#a2858047459ff675383e7b86805702369":[6,0,4073,4],
-"dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[6,0,4073,3],
-"dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[6,0,4073,0]
+"dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[6,0,4073,3]
 };

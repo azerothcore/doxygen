@@ -154,10 +154,10 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1027,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1027,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1027,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,31,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,31,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,31,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,31,15,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1861,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1861,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1861,0,0],
@@ -246,8 +246,8 @@ var NAVTREEINDEX137 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[6,0,1610,0,7],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,31,5,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[6,0,11,5,35],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[6,0,11,5,35,1],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,5,35,1],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,5,35,0],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[6,0,11,5,35,0]
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[6,0,11,5,35,1],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[6,0,11,5,35,0],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,5,35,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX283 =
 {
+"db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a5b4dc381ff6df8a4badc61196e2687bd":[6,0,499,0,1],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a65b93a213a69edf864ca123b6560b0a8":[6,0,499,0,8],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a6fdb9b9650382600086f5646a627af52":[6,0,499,0,5],
 "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html#a75430465e2329252581c2522ff14d82b":[6,0,499,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX283 =
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[7,0,0,0,1,3,10,14,61,0],
 "db/daf/structboss__eramas__brightblaze.html":[6,0,429],
 "db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[6,0,429,0],
-"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,429,1],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html":[6,0,1613,0]
+"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,429,1]
 };

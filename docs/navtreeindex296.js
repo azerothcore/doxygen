@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"dc/d1b/classnpc__toc__retro__paladin.html#a1213c99792aa4362275bc827aa2f037e":[6,0,2156,2],
 "dc/d1b/classnpc__toc__retro__paladin.html#abfb15148aefe186447cfdb3a2c8749c4":[6,0,2156,1],
 "dc/d1b/structboss__curator.html":[6,0,399],
 "dc/d1b/structboss__curator.html#a41b65078d0822ba87f3e40fc7bb10a40":[6,0,399,0],
@@ -36,14 +37,14 @@ var NAVTREEINDEX296 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3584,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3584,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3584,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2049],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2049,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2049,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1c82e84038889b63ff246314efbd64f7":[7,0,0,0,1,3,5,9,2,9,45,0],
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1e0a2a78eaede09d88ba4a527fcf8a2b":[7,0,0,0,1,3,5,9,2,9,45,5],
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b":[7,0,0,0,1,3,5,9,2,9,45,7],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4":[7,0,0,0,1,3,5,9,2,9,45,9],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4ef65e0d1c5fa644312b85d3efaf207d":[7,0,0,0,1,3,5,9,2,9,45,2]
+"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4":[7,0,0,0,1,3,5,9,2,9,45,9]
 };

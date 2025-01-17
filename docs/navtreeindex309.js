@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d":[7,0,0,0,1,3,2,12,1,8,4],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35":[7,0,0,0,1,3,2,12,1,8,12],
 "dc/dd6/classRespawnEvent.html":[6,0,2462],
 "dc/dd6/classRespawnEvent.html#a2e58f4e472fb72cf5401f11be6e5e136":[6,0,2462,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cae7d77304e23ba7ad5b4feab5c71266da":[7,0,0,0,1,3,7,0,0,2,3,7],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[7,0,0,0,1,3,7,0,0,2,3,5],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html":[6,0,1079],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[6,0,1079,0],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1079,4]
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[6,0,1079,0]
 };

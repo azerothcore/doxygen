@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d64/structnpc__capernian.html#a6bd26f5584a1c960b84b574abd723ad1":[6,0,1642,2],
 "db/d64/structnpc__capernian.html#a81e89eacbae30a1229fda5e9fe924e2b":[6,0,1642,1],
 "db/d65/classspell__rog__tricks__of__the__trade__proc.html":[6,0,3664],
 "db/d65/classspell__rog__tricks__of__the__trade__proc.html#a132193c0c13a2f89b9b29391d524023a":[6,0,3664,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698dae0682cfbd99e9488505046b5ab1541f3":[7,0,0,0,1,3,9,4,156,1],
 "db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698dae90a73338a9ee89a483e16425616f447":[7,0,0,0,1,3,9,4,156,4],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391f":[7,0,0,0,1,3,9,4,160],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa010abde9c4fe1da8ca9fb56c537e94d8":[7,0,0,0,1,3,9,4,160,3],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa02a1609756e8b2f05ddea8010d0a0cc6":[7,0,0,0,1,3,9,4,160,9]
+"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa010abde9c4fe1da8ca9fb56c537e94d8":[7,0,0,0,1,3,9,4,160,3]
 };
