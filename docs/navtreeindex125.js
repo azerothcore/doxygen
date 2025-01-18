@@ -1,9 +1,5 @@
 var NAVTREEINDEX125 =
 {
-"d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325":[7,0,0,0,1,3,2,4,13,15,2],
-"d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942":[7,0,0,0,1,3,2,4,13,15,1],
-"d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3":[7,0,0,0,1,3,2,4,13,15,3],
-"d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d":[7,0,0,0,1,3,2,4,13,15,0],
 "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,13,17],
 "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50":[7,0,0,0,1,3,2,4,13,17,1],
 "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1":[7,0,0,0,1,3,2,4,13,17,3],
@@ -223,18 +219,18 @@ var NAVTREEINDEX125 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[7,0,0,0,1,3,7,5,2,2,20,4],
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html":[5,0,22,1],
+"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,22,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,22,1,4],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,22,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,22,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,22,1,2],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,22,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1181],
@@ -249,5 +245,9 @@ var NAVTREEINDEX125 =
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a939c66ff6c1eb6dfdb3d93b3d0292e40":[6,0,453,1],
 "d4/d69/structItemTemplate.html":[6,0,1371],
 "d4/d69/structItemTemplate.html#a0204c005b14e5108365b0bc22fd899e4":[6,0,1371,67],
-"d4/d69/structItemTemplate.html#a02f226e21d1da638fa5a194521f2d48d":[6,0,1371,28]
+"d4/d69/structItemTemplate.html#a02f226e21d1da638fa5a194521f2d48d":[6,0,1371,28],
+"d4/d69/structItemTemplate.html#a0cc7568d921d0ad9efb7cfe4fcccdf72":[6,0,1371,43],
+"d4/d69/structItemTemplate.html#a0d331f6b24699e18a74f995951353b91":[6,0,1371,8],
+"d4/d69/structItemTemplate.html#a102568cd394a97d14d13717f97cf8281":[6,0,1371,40],
+"d4/d69/structItemTemplate.html#a14f6e1bf7528a599803028066c956fba":[6,0,1371,35]
 };

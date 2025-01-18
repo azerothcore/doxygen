@@ -1,9 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,31,0,3,2],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,11,0,3,2],
-"d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1621],
 "d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1621,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[6,0,1621,2],
 "d2/d5b/boss__novos_8cpp.html":[7,0,0,0,1,3,5,3,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX63 =
 "d2/d61/classRestoreAttack.html#a633e5abe4a3a9353df63d3778b8d71bc":[6,0,2463,1],
 "d2/d61/classRestoreAttack.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3":[6,0,2463,0],
 "d2/d61/classspell__hun__last__stand__pet.html":[6,0,3055],
-"d2/d61/classspell__hun__last__stand__pet.html#a1abee3e5f324875aab8dd666ac417308":[6,0,3055,2]
+"d2/d61/classspell__hun__last__stand__pet.html#a1abee3e5f324875aab8dd666ac417308":[6,0,3055,2],
+"d2/d61/classspell__hun__last__stand__pet.html#a393043b94f50d9379a987f9b49b8abde":[6,0,3055,3],
+"d2/d61/classspell__hun__last__stand__pet.html#a84430c269e419acd94a2d0520b9ca639":[6,0,3055,0],
+"d2/d61/classspell__hun__last__stand__pet.html#a8ec4e9cea213739825126111d038d1a5":[6,0,3055,1],
+"d2/d62/AuthCodes_8cpp.html":[7,0,0,0,1,0,0,0,0]
 };

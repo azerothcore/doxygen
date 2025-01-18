@@ -1,14 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d4c/structboss__pathaleon__the__calculator.html#ab875fb787d71eaf008b7267c81a2a4df":[6,0,640,7],
-"d6/d4c/structboss__pathaleon__the__calculator.html#abcbb5f1236ebfbec680241ae8c5cbb00":[6,0,640,1],
-"d6/d4c/structboss__pathaleon__the__calculator.html#adc48067c3656bf768c3013ff266565c0":[6,0,640,6],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html":[6,0,722,0],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a104f447cc52c285d59653a8ebff20fef":[6,0,722,0,4],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,722,0,3],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,722,0,5],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a9e4c25742785809d788f2e910f7840bc":[6,0,722,0,2],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#aaa7e94f653a1db001cd0c962fb855098":[6,0,722,0,0],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#afaf0a05b1fd2fc2187b52328340b65bb":[6,0,722,0,1],
 "d6/d4d/classspell__item__gor__dreks__ointment.html":[6,0,3185],
 "d6/d4d/classspell__item__gor__dreks__ointment.html#ad7b3235062959af1f28bb6c7b2f929c3":[6,0,3185,0],
@@ -249,5 +240,14 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ac3a135d7147c6ecbb520bdf9748154a7":[7,0,0,0,1,2,7,0,1,27,2],
 "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ac588b2c9df991b093b92853a7f0e5ff8":[7,0,0,0,1,2,7,0,1,27,1],
 "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ad12ba831651acab1529b4d1777ae0ca0":[7,0,0,0,1,2,7,0,1,27,3],
-"d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ad45ec952a1d97891ea269c38b258ce99":[7,0,0,0,1,2,7,0,1,27,5]
+"d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ad45ec952a1d97891ea269c38b258ce99":[7,0,0,0,1,2,7,0,1,27,5],
+"d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1afccef19f1873ba64b3fa7674b7b74389":[7,0,0,0,1,2,7,0,1,27,6],
+"d6/d4f/BattlefieldWG_8h.html#aff471fe9dd821b2acdbca9fc2aca81c7":[7,0,0,0,1,2,7,0,1,14],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html":[6,0,720],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[6,0,720,2],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,720,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3040],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3040,0],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3040,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3040,2]
 };

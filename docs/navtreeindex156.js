@@ -1,11 +1,5 @@
 var NAVTREEINDEX156 =
 {
-"d5/ddd/classSpellScript_1_1TargetHook.html#a238979ffaaa644bd65ffd4e7cb20d797":[6,0,4014,8,2],
-"d5/ddd/classSpellScript_1_1TargetHook.html#a28f2f6f3338a2c261ee754508ee48e60":[6,0,4014,8,5],
-"d5/ddd/classSpellScript_1_1TargetHook.html#a424e03e457dc15a2689f344e614a882f":[6,0,4014,8,3],
-"d5/ddd/classSpellScript_1_1TargetHook.html#aceec6f0ea91d45a11233122c3bc843ed":[6,0,4014,8,4],
-"d5/ddd/classSpellScript_1_1TargetHook.html#aed2e0e651bdd5453d716db464ac0ab55":[6,0,4014,8,6],
-"d5/ddd/classSpellScript_1_1TargetHook.html#af02ad1f1fb914aac52095d7e41f12c94":[6,0,4014,8,1],
 "d5/ddd/classSpellScript_1_1TargetHook.html#afcada203ddd8752107c74bbf0e7c24eb":[6,0,4014,8,0],
 "d5/ddd/classTransportMgr.html":[6,0,4094],
 "d5/ddd/classTransportMgr.html#a0b3e4e63bc4194c40f5dba6ced1ed205":[6,0,4094,11],
@@ -249,5 +243,11 @@ var NAVTREEINDEX156 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae6f273bea1158e487b5d0efa57b692bf":[6,0,1312,0,20],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c":[6,0,1312,0,35],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af07eae7f1e94a9317aec26404b68b33e":[6,0,1312,0,2],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af9b41e111ea55b45d007685c1b122ac4":[6,0,1312,0,16]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af9b41e111ea55b45d007685c1b122ac4":[6,0,1312,0,16],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#afa7f98e85998447206dc06b09dfc928d":[6,0,1312,0,34],
+"d5/dea/Banner_8h.html":[7,0,0,0,0,17],
+"d5/dea/Banner_8h.html#af6170962feecf3d126a80593221a357d":[7,0,0,0,0,17,0],
+"d5/dea/classspell__gen__proc__reduced__above__60.html":[6,0,2941],
+"d5/dea/classspell__gen__proc__reduced__above__60.html#a21cda631d861161c370a44a2fd2fd2f7":[6,0,2941,0],
+"d5/dea/classspell__gen__proc__reduced__above__60.html#a861caa47c502c42fa84d9f9de74df024":[6,0,2941,1]
 };

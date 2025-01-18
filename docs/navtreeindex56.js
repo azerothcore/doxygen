@@ -1,9 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d41/classWDTFile.html#aa952c5bfe52a1aa851984a7e6dc963c9":[6,0,4174,2],
-"d2/d41/classWDTFile.html#ab3dac8623598bac1152a514a00126bf6":[6,0,4174,6],
-"d2/d42/structAuctionSearchAdd.html":[6,0,252],
-"d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[6,0,252,0],
 "d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[6,0,252,1],
 "d2/d43/classMovementHandlerScript.html":[6,0,1496],
 "d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[6,0,1496,1],
@@ -194,8 +190,8 @@ var NAVTREEINDEX56 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1012,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1012,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[6,0,1012,6],
-"d2/d49/structAcore_1_1find__type__if.html":[6,0,0,48],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,1,60],
+"d2/d49/structAcore_1_1find__type__if.html":[6,0,0,48],
 "d2/d4a/classinstance__zulaman.html":[6,0,1331],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1331,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1331,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX56 =
 "d2/d4b/classPlayer.html#a09a67b9de6e43d0bc70bbeb403def557":[6,0,2364,1244],
 "d2/d4b/classPlayer.html#a09b2b2876e99a05175578e35eef393d6":[6,0,2364,572],
 "d2/d4b/classPlayer.html#a09f82d39cc77e3761fe3c8f30306f802":[6,0,2364,1289],
-"d2/d4b/classPlayer.html#a0a0ab72b82316cfc57923b5df1d5d2ea":[6,0,2364,690]
+"d2/d4b/classPlayer.html#a0a0ab72b82316cfc57923b5df1d5d2ea":[6,0,2364,690],
+"d2/d4b/classPlayer.html#a0a237df4b314f239917dceb45f32c4d0":[6,0,2364,371],
+"d2/d4b/classPlayer.html#a0a4dc5dbc656abdc90695b8dd643f1c7":[6,0,2364,174],
+"d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da":[6,0,2364,410],
+"d2/d4b/classPlayer.html#a0a8d74504a10a162c77d4a64d652a1b5":[6,0,2364,984]
 };

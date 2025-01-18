@@ -1,8 +1,5 @@
 var NAVTREEINDEX32 =
 {
-"d1/d4f/classQuest.html#a26795fa9c5daf20043c08171c75672c9":[6,0,2419,138],
-"d1/d4f/classQuest.html#a2689be1a4799b2e9f1e456d2f4a1ec5b":[6,0,2419,51],
-"d1/d4f/classQuest.html#a26b14eedb72710fdf1b9e5d4eb09b58b":[6,0,2419,166],
 "d1/d4f/classQuest.html#a2746f1838b0ac91cbdff9da93246fb55":[6,0,2419,95],
 "d1/d4f/classQuest.html#a2777c50dbb1a68750de0443bcdd725eb":[6,0,2419,80],
 "d1/d4f/classQuest.html#a284d048bad5d1106b000888fed973ced":[6,0,2419,125],
@@ -152,14 +149,14 @@ var NAVTREEINDEX32 =
 "d1/d50/classspell__gen__seaforium__blast.html#ab0ec836feb53875de355330e05367fe8":[6,0,2952,0],
 "d1/d50/classspell__gen__seaforium__blast.html#ae48c67f363e399f076122cb6eee10ffb":[6,0,2952,1],
 "d1/d50/classspell__gen__seaforium__blast.html#af0bb22c618af5dca7f534bea32e7ee7f":[6,0,2952,2],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,116],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,1,128],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,116,1],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,116],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,1,128,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[6,0,0,116,4],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,116,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[5,0,1,128,4],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[6,0,0,116,8],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[6,0,0,116,4],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,1,128,8],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[6,0,0,116,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[6,0,0,116,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,1,128,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,1,128,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX32 =
 "d1/d59/structboss__headless__horseman__pumpkin.html":[6,0,508],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,508,6],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,508,2],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,508,1]
+"d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,508,1],
+"d1/d59/structboss__headless__horseman__pumpkin.html#a401db237c45efde3a30cdca6cb4f95c0":[6,0,508,4],
+"d1/d59/structboss__headless__horseman__pumpkin.html#a62191ae523401ac57a947db96a245f7a":[6,0,508,0],
+"d1/d59/structboss__headless__horseman__pumpkin.html#a9d5f6922a52146b61168f1c50b378294":[6,0,508,3]
 };

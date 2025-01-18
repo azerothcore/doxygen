@@ -8,7 +8,6 @@ var structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScri
     [ "IsEncounterInProgress", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a698bfce6741edaccdbd32b1215def039", null ],
     [ "OnCreatureCreate", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
     [ "OnPlayerEnter", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "OnPlayerLeave", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a1a667681f0ef84e1d5f594f8bfd8f783", null ],
     [ "ReadSaveDataMore", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a590164fab67dd90d63045671d22143c5", null ],
     [ "SetData", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a7187a50cebadcf77d74c62b053830efb", null ],
     [ "WriteSaveDataMore", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a1a3006add0aed0572d8b784a449fc75e", null ],

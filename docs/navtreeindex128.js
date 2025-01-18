@@ -1,9 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#af1f30a0f3bf0f88725f8a146c528b77a":[6,0,608,0,5],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html":[6,0,2092,0],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a263d897b4c94c71fe6597c0753722ce8":[6,0,2092,0,1],
-"d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a324cd480e056750c61318446c97df48d":[6,0,2092,0,11],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a45d8828fc3324d91387a26c560cf725b":[6,0,2092,0,9],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a56e9b760fd28219bee8a3aa604010d07":[6,0,2092,0,4],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a6ae99a71f8517055acc6e637b54c78d0":[6,0,2092,0,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX128 =
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a68539f6036ceda13698123e680943acf":[7,0,0,0,1,3,5,2,1,1,53,4],
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a7597dc945c62e936bb8eb202738df58c":[7,0,0,0,1,3,5,2,1,1,53,5],
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a8cbb40f272229c789703021570aa46a8":[7,0,0,0,1,3,5,2,1,1,53,2],
-"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a921c34deeef3be3735a4749500227b03":[7,0,0,0,1,3,5,2,1,1,53,0]
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a921c34deeef3be3735a4749500227b03":[7,0,0,0,1,3,5,2,1,1,53,0],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647ab478faca898156eb73e82ce9450a5889":[7,0,0,0,1,3,5,2,1,1,53,3],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647ac17a6b9127aa81e1d2e1917536260aab":[7,0,0,0,1,3,5,2,1,1,53,6],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9f":[7,0,0,0,1,3,5,2,1,1,60],
+"d4/d81/boss__faction__champions_8cpp.html#ac44575531b1880199468ea2e54338d9fa1008f0be4cd0f99391ed14a070caa81b":[7,0,0,0,1,3,5,2,1,1,60,1]
 };

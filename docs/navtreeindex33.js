@@ -1,8 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d59/structboss__headless__horseman__pumpkin.html#a401db237c45efde3a30cdca6cb4f95c0":[6,0,508,4],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a62191ae523401ac57a947db96a245f7a":[6,0,508,0],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a9d5f6922a52146b61168f1c50b378294":[6,0,508,3],
 "d1/d59/structboss__headless__horseman__pumpkin.html#aca53b8839bce5e180ba8583490d694c3":[6,0,508,5],
 "d1/d59/structnpc__raging__flames.html":[6,0,2031],
 "d1/d59/structnpc__raging__flames.html#a0e015aa73efdafb1bb9683b2f3c1ba34":[6,0,2031,2],
@@ -235,19 +232,22 @@ var NAVTREEINDEX33 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2008,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[6,0,2008,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2008,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,31,10,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,31,10,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,10,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,31,10,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,10,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,10,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,31,10,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,10,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,696],
 "d1/d62/classboss__steelbreaker.html#ac4189ffbba997719fb36a10ecdabd26c":[6,0,696,2],
 "d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,696,1],
 "d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1],
 "d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[7,0,0,0,1,2,44,1,3],
 "d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[7,0,0,0,1,2,44,1,6],
-"d1/d63/GameTime_8h.html#a6d0d49f37e25e497391157b2a2ec90c1":[7,0,0,0,1,2,44,1,1]
+"d1/d63/GameTime_8h.html#a6d0d49f37e25e497391157b2a2ec90c1":[7,0,0,0,1,2,44,1,1],
+"d1/d63/GameTime_8h.html#a872d34d3f9d420cfc749073c809931f9":[7,0,0,0,1,2,44,1,2],
+"d1/d63/GameTime_8h.html#adbe1785d1327dedf2ac403b7cc8e99c2":[7,0,0,0,1,2,44,1,0],
+"d1/d63/GameTime_8h.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[7,0,0,0,1,2,44,1,4]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX45 =
 {
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac06a41a34c6aea3c4c1b61a6ba1ac789":[7,0,0,0,1,2,16,4,3,10,68],
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac254221a412907baa414795f0b7eb39d":[7,0,0,0,1,2,16,4,3,10,19],
-"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac38e8d6381e5ed7855a06a1b34163dca":[7,0,0,0,1,2,16,4,3,10,17],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac4e61c6dc874cd504fdda149c24667ab":[7,0,0,0,1,2,16,4,3,10,16],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac6e7cd54f93bd52f85a966e9ff9c13ae":[7,0,0,0,1,2,16,4,3,10,46],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faac8532b14a0c93294c9047016f131e1ff":[7,0,0,0,1,2,16,4,3,10,54],
@@ -249,5 +246,8 @@ var NAVTREEINDEX45 =
 "d1/ddc/classspell__kael__pyroblast.html":[6,0,3259],
 "d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[6,0,3259,0],
 "d1/ddc/classspell__kael__pyroblast.html#a14aafc65b554c0ada5684c46ae1f57c8":[6,0,3259,2],
-"d1/ddc/classspell__kael__pyroblast.html#afa186c0b0728e3462f8984189613f9a7":[6,0,3259,1]
+"d1/ddc/classspell__kael__pyroblast.html#afa186c0b0728e3462f8984189613f9a7":[6,0,3259,1],
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html":[6,0,635,0],
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a76f9bd309e1c5045c74bb0ba8d8bce5c":[6,0,635,0,0],
+"d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a8183e3f02d931809440adc8cc0cd3654":[6,0,635,0,5]
 };

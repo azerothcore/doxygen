@@ -10,7 +10,6 @@ var structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript =
     [ "OnCreatureCreate", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13", null ],
     [ "OnGameObjectCreate", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5480e686009146fc68764e4e9e849144", null ],
     [ "OnPlayerEnter", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5933eef3bb8e02e9b03754b39d908a57", null ],
-    [ "OnPlayerLeave", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a7095c8b24734d1ffd2a350d1e2c19919", null ],
     [ "ReadSaveDataMore", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788", null ],
     [ "SetData", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#abec0551c4546b0d258e24e6c69fc2555", null ],
     [ "SetGuidData", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a96e4c025c3fe823a733a2219f27975e6", null ],
@@ -32,6 +31,5 @@ var structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript =
     [ "NPC_SindragosaGUID", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a4bc05d8ced3a1d2535659e2efabc5e5b", null ],
     [ "NPC_TyrannusEventGUID", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#afeee2b5a895985de06f74cc49a143e99", null ],
     [ "NPC_TyrannusGUID", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a3d93f3f437c7f4d9db67aa079db31eac", null ],
-    [ "str_data", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#ae076d9060c48bc71d20a5a2e0cb6f530", null ],
-    [ "teamIdInInstance", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a8c4904b0c0c6c8b6c913060632e4b265", null ]
+    [ "str_data", "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#ae076d9060c48bc71d20a5a2e0cb6f530", null ]
 ];

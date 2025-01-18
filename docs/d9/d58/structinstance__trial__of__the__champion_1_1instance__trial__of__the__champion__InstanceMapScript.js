@@ -14,7 +14,6 @@ var structinstance__trial__of__the__champion_1_1instance__trial__of__the__champi
     [ "OnCreatureCreate", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a925ce6161478e51dc37e1ea60b48f08e", null ],
     [ "OnGameObjectCreate", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae17340753f10e9baf05d5c98f65ba3c4", null ],
     [ "OnPlayerEnter", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a8f1ad4ce07f3f3d535c452c111d66400", null ],
-    [ "OnPlayerLeave", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a3077f8032cf3124601c9920f2548a582", null ],
     [ "SetData", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#adaa1a6d7179e72ace0b017a2a452b092", null ],
     [ "Update", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ade2cd2a0aba04b6c28c7daacf0b37ec3", null ],
     [ "bAchievIveHadWorse", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ad49451efbd192d6d92357379d4750c88", null ],
@@ -36,7 +35,6 @@ var structinstance__trial__of__the__champion_1_1instance__trial__of__the__champi
     [ "NPC_TirionGUID", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aaffc4597af0d2591cd29c0b488676e10", null ],
     [ "shortver", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aebb4773c1c7d8456e8570d98770917fb", null ],
     [ "str_data", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#adabd395a3f63887f9be301c16289fbdd", null ],
-    [ "TeamIdInInstance", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a88a8032bdd1d91cea65db72b178c7395", null ],
     [ "temp1", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#af89006f67a014ea0c5574e8320d9ef23", null ],
     [ "temp2", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a7982ebb6e4d86c5dcdf3b172a755a2a6", null ],
     [ "VehicleList", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a4d830f1dd5b87c2d179c59d85a87104a", null ]

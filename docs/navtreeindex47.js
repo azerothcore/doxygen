@@ -1,8 +1,5 @@
 var NAVTREEINDEX47 =
 {
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa18dbf00db0288b6b94302430f94d261d":[7,0,0,0,1,3,9,2,186,10],
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa4c9820d5cd8f46e4fff8bed2faa7e64c":[7,0,0,0,1,3,9,2,186,4],
-"d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa59b07072753d6bf133aa9d3e1174f0da":[7,0,0,0,1,3,9,2,186,0],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa765f964cd33a6eeb2cd7172ba41143d2":[7,0,0,0,1,3,9,2,186,1],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa8d15c02209d50e65b927cf87cefaa4b5":[7,0,0,0,1,3,9,2,186,8],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa94b2ba15af48a5d4ddb1bb17162af7b4":[7,0,0,0,1,3,9,2,186,9],
@@ -249,5 +246,8 @@ var NAVTREEINDEX47 =
 "d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[6,0,2839,5],
 "d1/de9/classspell__garfrost__permafrost.html#a6adc9b6ca86da6cd9465fa0da150dcca":[6,0,2839,4],
 "d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[6,0,2839,2],
-"d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[6,0,2839,3]
+"d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[6,0,2839,3],
+"d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[6,0,2839,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[6,0,3899],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[6,0,3899,1]
 };

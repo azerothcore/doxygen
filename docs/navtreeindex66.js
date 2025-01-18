@@ -1,9 +1,5 @@
 var NAVTREEINDEX66 =
 {
-"d2/d73/classScriptMgr.html#a7c2da684439c53f1205b9d39ea6166da":[6,0,2483,415],
-"d2/d73/classScriptMgr.html#a7c7a660a4472761cc7e8ecceaad7c1a8":[6,0,2483,186],
-"d2/d73/classScriptMgr.html#a7d768553d82877bdc746028f1ba4537f":[6,0,2483,420],
-"d2/d73/classScriptMgr.html#a7dc3e627a35d9cfa7b2fdae77244f095":[6,0,2483,166],
 "d2/d73/classScriptMgr.html#a7e57e55d3cd37cc6c2850fad6c3db70d":[6,0,2483,455],
 "d2/d73/classScriptMgr.html#a7e7c87ec0423e9a86eb3c6d55d1649d4":[6,0,2483,185],
 "d2/d73/classScriptMgr.html#a7f3afdf2e10dcf49d2e19dfca09d4e31":[6,0,2483,21],
@@ -249,5 +245,9 @@ var NAVTREEINDEX66 =
 "d2/d73/structAuctionSearchRemove.html#a5a93de23f32eb653e9df2df3e2d11bcb":[6,0,259,0],
 "d2/d73/structAuctionSearchRemove.html#a6e18c3999d22c1972314b4a20ed8b62f":[6,0,259,1],
 "d2/d74/classgo__shadowforge__brazier.html":[6,0,1155],
-"d2/d74/classgo__shadowforge__brazier.html#a83b188cd2ee68e1ebfe75060465f8f38":[6,0,1155,1]
+"d2/d74/classgo__shadowforge__brazier.html#a83b188cd2ee68e1ebfe75060465f8f38":[6,0,1155,1],
+"d2/d74/classgo__shadowforge__brazier.html#aafc1d2e865294bb102c918d6016aab4b":[6,0,1155,0],
+"d2/d75/Duration_8h.html":[7,0,0,0,0,15,6],
+"d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f":[7,0,0,0,0,15,6,3],
+"d2/d75/Duration_8h.html#a201a83ed0d59d2baf946daf42dac834f":[7,0,0,0,0,15,6,2]
 };

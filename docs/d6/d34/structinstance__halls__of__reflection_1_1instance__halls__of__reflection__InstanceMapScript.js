@@ -9,8 +9,6 @@ var structinstance__halls__of__reflection_1_1instance__halls__of__reflection__In
     [ "IsEncounterInProgress", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a3ea9b318144371f5bc9e26d54ab963bc", null ],
     [ "OnCreatureCreate", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a37632ae3c62a0b874bccb6ebcbe973fd", null ],
     [ "OnGameObjectCreate", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ab298d59762192c8b35d0dc3e7114775a", null ],
-    [ "OnPlayerEnter", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ad7adeef20646c042007d1dd46f23f18c", null ],
-    [ "OnPlayerLeave", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a5487957761b734cbb5f3bd949ae50886", null ],
     [ "OnUnitDeath", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#acbde8686a572ee189e311432cbd1618f", null ],
     [ "RandomizeCompositionsAndShow", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#ae4fd799bac4c094aa384df2ed45dd122", null ],
     [ "ReadSaveDataMore", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a8476d8be25911f15db641802cf366490", null ],
@@ -53,7 +51,6 @@ var structinstance__halls__of__reflection_1_1instance__halls__of__reflection__In
     [ "ResumeFirstEventStep", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#adc3cd6ffeeaf8c7e51ecbf2a0a3718c9", null ],
     [ "ResumeFirstEventTimer", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#aed6d274c9c7a30e20dd47c03d4b030f8", null ],
     [ "T1", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a48a1c61ad157c516e7d8de77ec832661", null ],
-    [ "TeamIdInInstance", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a98fa6280c0e876574d8230d7ce384747", null ],
     [ "TrashActive", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a5ad4a4c995d53bb92b8c1dd132922862", null ],
     [ "TrashCounter", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a14718f80b43d4163e31dff31354698a7", null ],
     [ "WaveNumber", "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#aadb8e3e48d22fd1a32edf4b7762a19f9", null ]

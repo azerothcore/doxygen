@@ -13,7 +13,6 @@ var structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusad
     [ "OnCreatureCreate", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af04c5783b5046848dfd9a0378f82eb45", null ],
     [ "OnGameObjectCreate", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af8f04df04aaf30fe62dd2f0ce7f41426", null ],
     [ "OnPlayerEnter", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ae6c6764f8a49d237445492443ade65bd", null ],
-    [ "OnPlayerLeave", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a64a5c2f48d36e4a9f27682526d10cf98", null ],
     [ "OnUnitDeath", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a6685af1d1dfc83c9193e059f4ac9e3c2", null ],
     [ "ReadSaveDataMore", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad22a732215e4b3c37897050cbd45f4a2", null ],
     [ "SetData", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aab2e2d3f7bce3553dd815855117d19f6", null ],
@@ -52,6 +51,5 @@ var structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusad
     [ "NPC_PurpleGroundGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a40144efa4d0d24b183240dfc9ee387b5", null ],
     [ "NPC_TirionGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a22904d71fb2663089127c5f078e31aab", null ],
     [ "NPC_VarianGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aa296216c8809730fabff9d67dc1a0588", null ],
-    [ "str_data", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af0934839b977ffdaee8d2049e2fd7ea9", null ],
-    [ "TeamIdInInstance", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a1c8f1aa90bcb687251ff09c055c9910f", null ]
+    [ "str_data", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af0934839b977ffdaee8d2049e2fd7ea9", null ]
 ];
