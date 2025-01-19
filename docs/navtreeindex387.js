@@ -1,5 +1,14 @@
 var NAVTREEINDEX387 =
 {
+"df/db9/structAddonInfo.html":[6,0,128],
+"df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[6,0,128,3],
+"df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[6,0,128,4],
+"df/db9/structAddonInfo.html#a60ea66ed93b64c9e182226954a514f53":[6,0,128,0],
+"df/db9/structAddonInfo.html#a75e016fa7abee24757c89b97330a6192":[6,0,128,5],
+"df/db9/structAddonInfo.html#a7f0f2d817a2189b3acee5999f154ba60":[6,0,128,1],
+"df/db9/structAddonInfo.html#ace9f109c395ed84cc01ca4381222c25b":[6,0,128,2],
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html":[6,0,1913,0],
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[6,0,1913,0,6],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[6,0,1913,0,2],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[6,0,1913,0,9],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[6,0,1913,0,10],
@@ -240,14 +249,5 @@ var NAVTREEINDEX387 =
 "df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#af9e0459fff845bf4f6e53d06e4a9447f":[6,0,672,0,1],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html":[6,0,1184,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a509e6d8401380c326a0f565a6b903d7a":[6,0,1184,0,2],
-"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a955625e2315008a2e36936d44f825060":[6,0,1184,0,0],
-"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#af688bab2dc3d938951adb303e8b8d88b":[6,0,1184,0,1],
-"df/dcb/classspell__sha__item__mana__surge.html":[6,0,3709],
-"df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[6,0,3709,4],
-"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[6,0,3709,0],
-"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[6,0,3709,3],
-"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[6,0,3709,2],
-"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[6,0,3709,1],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[6,0,1577,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[6,0,1577,0,3]
+"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a955625e2315008a2e36936d44f825060":[6,0,1184,0,0]
 };

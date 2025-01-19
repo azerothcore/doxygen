@@ -1,5 +1,14 @@
 var NAVTREEINDEX386 =
 {
+"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2872,0],
+"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,2872,1],
+"df/da7/classspell__gen__gnomish__transporter.html":[6,0,2904],
+"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[6,0,2904,0],
+"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[6,0,2904,2],
+"df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[6,0,2904,1],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2016,0],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2016,0,2],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[6,0,2016,0,1],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[6,0,2016,0,6],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[6,0,2016,0,7],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[6,0,2016,0,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX386 =
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,31,5,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,11,5,50,0],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,31,5,50,0],
-"df/db9/structAddonInfo.html":[6,0,128],
-"df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[6,0,128,3],
-"df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[6,0,128,4],
-"df/db9/structAddonInfo.html#a60ea66ed93b64c9e182226954a514f53":[6,0,128,0],
-"df/db9/structAddonInfo.html#a75e016fa7abee24757c89b97330a6192":[6,0,128,5],
-"df/db9/structAddonInfo.html#a7f0f2d817a2189b3acee5999f154ba60":[6,0,128,1],
-"df/db9/structAddonInfo.html#ace9f109c395ed84cc01ca4381222c25b":[6,0,128,2],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html":[6,0,1913,0],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[6,0,1913,0,6]
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,31,5,50,0]
 };

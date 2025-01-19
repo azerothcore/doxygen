@@ -1,5 +1,11 @@
 var NAVTREEINDEX291 =
 {
+"db/df1/classRaiseDeadCheck.html#a7b1647934c5e64de65d38b9fba2d343a":[6,0,2437,2],
+"db/df1/classRaiseDeadCheck.html#a9647e6afd21e7397f05349e66bea4326":[6,0,2437,1],
+"db/df1/classRaiseDeadCheck.html#abc6439e5b457f2f6e832f504167a392d":[6,0,2437,0],
+"db/df1/classspell__warl__life__tap.html":[6,0,3898],
+"db/df1/classspell__warl__life__tap.html#a6c6dee3de2c54536765cfdd97f4fd0c0":[6,0,3898,5],
+"db/df1/classspell__warl__life__tap.html#a846862b62f5750801cd804133f290d5d":[6,0,3898,0],
 "db/df1/classspell__warl__life__tap.html#a865fa526f2131703a668e113ba0d7849":[6,0,3898,4],
 "db/df1/classspell__warl__life__tap.html#aa56609d3c75a69fb62e302622fd11c3c":[6,0,3898,1],
 "db/df1/classspell__warl__life__tap.html#ab5e281028c009a4b317111de9a0a17e3":[6,0,3898,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX291 =
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212":[7,0,0,0,1,3,9,8,86],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a18e7856b0bb2be57df1ac59f90b894f1":[7,0,0,0,1,3,9,8,86,3],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a29d3bf939fd7b5bddc4fb8d38c07e62f":[7,0,0,0,1,3,9,8,86,9],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a32f70a7fee3162d794cf8c6be89f5682":[7,0,0,0,1,3,9,8,86,19],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a3e89fae53932e31a67bc37d7b688f2c6":[7,0,0,0,1,3,9,8,86,2],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4411e2f8adfa007dc7a31040237b9abe":[7,0,0,0,1,3,9,8,86,6],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4a956540bf457e206223deb1ada0c15d":[7,0,0,0,1,3,9,8,86,0],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4ce3f4dd29b10b23e1529ea8cdccf0e9":[7,0,0,0,1,3,9,8,86,14],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4fa36744d4024e3ccc322f0225e357a0":[7,0,0,0,1,3,9,8,86,15],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a53d0e13b5246c20e54735a47681b433d":[7,0,0,0,1,3,9,8,86,17]
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a32f70a7fee3162d794cf8c6be89f5682":[7,0,0,0,1,3,9,8,86,19]
 };

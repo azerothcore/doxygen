@@ -1,5 +1,14 @@
 var NAVTREEINDEX329 =
 {
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2095,1],
+"dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
+"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
+"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357":[7,0,0,0,1,2,38,0,75,1],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a002be09105d92b7edefa4c442ce040e5":[7,0,0,0,1,2,38,0,75,1,160],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a020ab2524fa543d1063bbeba914880e7":[7,0,0,0,1,2,38,0,75,1,129],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02453111bfc178b81ea188400c41936d":[7,0,0,0,1,2,38,0,75,1,65],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02de63d1819adb4a4e59936bb2c6e29d":[7,0,0,0,1,2,38,0,75,1,110],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a03539459952f9e2f5bd06aed55ff8438":[7,0,0,0,1,2,38,0,75,1,24],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0926eaeb74efef88a99b97ebd77aba2f":[7,0,0,0,1,2,38,0,75,1,75],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0989122f881cd0898543ae2299bde2c0":[7,0,0,0,1,2,38,0,75,1,55],
@@ -240,14 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2854],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[6,0,2854,1],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[6,0,2854,2],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2854,0],
-"dd/dcd/structCreatureFamilyEntry.html":[6,0,904],
-"dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[6,0,904,1],
-"dd/dcd/structCreatureFamilyEntry.html#a3eacdd8639c6dd25dbd3205a58860cf9":[6,0,904,3],
-"dd/dcd/structCreatureFamilyEntry.html#a49d9d7847cc4d54891d83166eb277740":[6,0,904,4],
-"dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[6,0,904,6],
-"dd/dcd/structCreatureFamilyEntry.html#a802000cefb6c4d357edfc45cc291e21e":[6,0,904,7],
-"dd/dcd/structCreatureFamilyEntry.html#a84ba697182123cb3e7dd3ba07241e971":[6,0,904,0],
-"dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[6,0,904,5],
-"dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[6,0,904,8]
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2854,0]
 };

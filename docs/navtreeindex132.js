@@ -1,5 +1,8 @@
 var NAVTREEINDEX132 =
 {
+"d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a139df1207438dbd3793a2fbc58c2396c":[6,0,1897,0,4],
+"d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a418d7eee72f0a8506357eee3f1fbaf6c":[6,0,1897,0,5],
+"d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a7981568666269e25580ae839f1f97f09":[6,0,1897,0,3],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a9d942e99f358a7488d473969ab461d6f":[6,0,1897,0,2],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#ab0e6dd5db0c358ff4fefc4797a622b8c":[6,0,1897,0,0],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2":[6,0,1897,0,6],
@@ -16,8 +19,8 @@ var NAVTREEINDEX132 =
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,22,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,22,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,22,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,22,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2539],
@@ -246,8 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe":[6,0,3234,0],
 "d4/da9/classspell__item__skull__of__impeding__doom.html#a63d24d3ca4b2de1aa7f67376ded7bc59":[6,0,3234,2],
 "d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb":[6,0,3234,1],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#aa6e74e89930fd3cc564c3cba86e3687e":[6,0,3234,3],
-"d4/da9/classspell__talon__king__ikiss__blink.html":[6,0,3773],
-"d4/da9/classspell__talon__king__ikiss__blink.html#a5a87a7c18a55caf5288b8ca8bbd2f361":[6,0,3773,4],
-"d4/da9/classspell__talon__king__ikiss__blink.html#a9e0a72530a8dc764269e8df6d9d1ed3d":[6,0,3773,0]
+"d4/da9/classspell__item__skull__of__impeding__doom.html#aa6e74e89930fd3cc564c3cba86e3687e":[6,0,3234,3]
 };

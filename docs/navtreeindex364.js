@@ -1,5 +1,14 @@
 var NAVTREEINDEX364 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a00fb6561d080dd95447dee7cc31af3ae":[7,0,0,0,1,3,5,18,47,4],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a06516d8acac42f9635bcabca9885b4de":[7,0,0,0,1,3,5,18,47,26],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a12b3ad955ab13fdd3aa52c96bcd70b58":[7,0,0,0,1,3,5,18,47,33],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a202971ea23fa079e19418d08fb0e96c9":[7,0,0,0,1,3,5,18,47,7],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a2f68edbc1e38872baadd78ea56f7cde2":[7,0,0,0,1,3,5,18,47,16],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a34dde365d2e77c893549436104e9042e":[7,0,0,0,1,3,5,18,47,0],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a35a71bb9820f5dfc53fb19b40e777714":[7,0,0,0,1,3,5,18,47,8],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a465ed6831f5cbb7a46acc646867a4418":[7,0,0,0,1,3,5,18,47,17],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a49d6cee12d60b301c2d1486de834b5c7":[7,0,0,0,1,3,5,18,47,1],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,47,21],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,47,29],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,47,20],
@@ -240,14 +249,5 @@ var NAVTREEINDEX364 =
 "de/db1/structnpc__dark__iron__attack__mole__machine.html":[6,0,1697],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a0727aab751ddfbd94ae070e60e47e768":[6,0,1697,4],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a1217ed510a846d011143ae0a386c6236":[6,0,1697,5],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a2be5de913ca9d472a31cd44c07bcde57":[6,0,1697,3],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a4713da02f4a86547a0f796167e24d8bb":[6,0,1697,7],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a473a8fb4905e5d1333196797d7d0f371":[6,0,1697,0],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a50e0657f33f15bf2ffe83ca4041eb483":[6,0,1697,2],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a8686845ebef564c9fcaa115866c99749":[6,0,1697,6],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[6,0,1697,1],
-"de/db2/classspell__black__template__free__friend.html":[6,0,2598],
-"de/db2/classspell__black__template__free__friend.html#a0810dd4ad4d324c1a53e192fc99d1d35":[6,0,2598,0],
-"de/db2/classspell__black__template__free__friend.html#a0ece61d7bed3e19ee6f6175a55c0733d":[6,0,2598,1],
-"de/db2/classspell__black__template__free__friend.html#a827cefe322562f0e8ea7cfa58b9a776b":[6,0,2598,2]
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a2be5de913ca9d472a31cd44c07bcde57":[6,0,1697,3]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX236 =
 {
+"d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
+"d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
+"d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[7,0,0,0,1,2,24,3,35],
+"d9/d84/LootMgr_8h.html#a8c148c99c4a202233809e690e3759993":[7,0,0,0,1,2,24,3,15],
+"d9/d84/LootMgr_8h.html#a8db9118af32d6a6196c348da5aeafdc6":[7,0,0,0,1,2,24,3,11],
+"d9/d84/LootMgr_8h.html#a9b802fc33b09fc4fced1a39a7bb8583d":[7,0,0,0,1,2,24,3,31],
 "d9/d84/LootMgr_8h.html#a9e0dd775278fdc9626bc8cb723035395":[7,0,0,0,1,2,24,3,45],
 "d9/d84/LootMgr_8h.html#aa442746e1859bbd940dad2fdd852f406":[7,0,0,0,1,2,24,3,50],
 "d9/d84/LootMgr_8h.html#aa6e191c54a43255f4cc43af79b20c817":[7,0,0,0,1,2,24,3,27],
@@ -243,11 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3637,3],
 "d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3637,0],
 "d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3637,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,1985],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,1985,3],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a3a42e83216c0111a740a0c89e57c6f62":[6,0,1985,5],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a58ef19b8c08aee764bdd55e480d9d750":[6,0,1985,0],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a6c0d3181b913c5022325f66586f66bfa":[6,0,1985,2],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a72bfd4cf6c734d1f1070a1560131667d":[6,0,1985,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#ae0a6d4850a0a0da4bd04227b11bae9e4":[6,0,1985,4]
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,1985]
 };

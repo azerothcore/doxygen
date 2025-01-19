@@ -1,5 +1,14 @@
 var NAVTREEINDEX360 =
 {
+"de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4072,28],
+"de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4072,8],
+"de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4072,16],
+"de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[6,0,4072,31],
+"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[6,0,4072,22],
+"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[6,0,4072,15],
+"de/d95/classTicketMgr.html#a5c6638093e959f1cd7311268f2c8cf56":[6,0,4072,3],
+"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[6,0,4072,1],
+"de/d95/classTicketMgr.html#a5ea5f45b9ac52b3bbbceccbc69d894f3":[6,0,4072,21],
 "de/d95/classTicketMgr.html#a6a5b603d107d4e14a7aff5c019f0b3d1":[6,0,4072,29],
 "de/d95/classTicketMgr.html#a711629e4c21f66401248b9f8d8e7c511":[6,0,4072,27],
 "de/d95/classTicketMgr.html#a7b51b5f4aebb51922717c463bcc34a40":[6,0,4072,18],
@@ -240,14 +249,5 @@ var NAVTREEINDEX360 =
 "de/da1/instance__magisters__terrace_8cpp.html#a845a92716bd40c99a93eb0715cd737b0":[7,0,0,0,1,3,2,5,4,5],
 "de/da1/instance__magisters__terrace_8cpp.html#acefca1a118e299acbb631fc6166a1526":[7,0,0,0,1,3,2,5,4,7],
 "de/da1/structObjectPosSelector.html":[6,0,2288],
-"de/da1/structObjectPosSelector.html#a092252be70aef7ba47a2e81d183d68ab":[6,0,2288,9],
-"de/da1/structObjectPosSelector.html#a1d792bc79d1646eae7651705bc0afdd5":[6,0,2288,11],
-"de/da1/structObjectPosSelector.html#a25ec0d7656c52f0a9c4b24ea81e37771":[6,0,2288,17],
-"de/da1/structObjectPosSelector.html#a34a49751e6810835d4e4f2828d7c8b0c":[6,0,2288,6],
-"de/da1/structObjectPosSelector.html#a353fa17ca519ace0ba637271e8dc1e8b":[6,0,2288,2],
-"de/da1/structObjectPosSelector.html#a39bfdb4e3b3e3e3d902387c548bf81ff":[6,0,2288,22],
-"de/da1/structObjectPosSelector.html#a3a61d5b8187c602ba5a2213283b5139c":[6,0,2288,21],
-"de/da1/structObjectPosSelector.html#a3ca2304f7f268685b22db941d70fab36":[6,0,2288,12],
-"de/da1/structObjectPosSelector.html#a56ff73252996b988d6d1ea384dad1de8":[6,0,2288,20],
-"de/da1/structObjectPosSelector.html#a678445810801988c429489ba187b28f0":[6,0,2288,4]
+"de/da1/structObjectPosSelector.html#a092252be70aef7ba47a2e81d183d68ab":[6,0,2288,9]
 };

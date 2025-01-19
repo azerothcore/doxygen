@@ -1,5 +1,11 @@
 var NAVTREEINDEX288 =
 {
+"db/dd5/classCreature.html#acf8cc3ca7dc387e6fe953235aeed0bce":[6,0,895,247],
+"db/dd5/classCreature.html#ad32f2bf50c234d1a512e6123d0b4c4ef":[6,0,895,14],
+"db/dd5/classCreature.html#ad3d2fafaa31c54a944d4ad72b0eda808":[6,0,895,188],
+"db/dd5/classCreature.html#ad3e387db7e6a51869beeffffaf946619":[6,0,895,76],
+"db/dd5/classCreature.html#ad3fb795c36f38751c68c4b9c2053d58e":[6,0,895,163],
+"db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709":[6,0,895,194],
 "db/dd5/classCreature.html#ad871ba0b75de51b893579296eba79e3f":[6,0,895,166],
 "db/dd5/classCreature.html#ad8891b07b8b211818d4284ed88e6ba10":[6,0,895,172],
 "db/dd5/classCreature.html#ad89b31f980b01291e35b631ecb333f8f":[6,0,895,278],
@@ -243,11 +249,5 @@ var NAVTREEINDEX288 =
 "db/ddb/classTaskContext.html#add5a7d1e76bd0d0766c17920dadd5b61":[6,0,4053,27],
 "db/ddb/classTaskContext.html#ae60b6c797e99c416b84c5b9ae715b215":[6,0,4053,25],
 "db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5":[6,0,4053,18],
-"db/ddb/classboss__stormcaller__brundir.html":[6,0,697],
-"db/ddb/classboss__stormcaller__brundir.html#a399b1b7cf2ee74c1e672231e922ff4fa":[6,0,697,2],
-"db/ddb/classboss__stormcaller__brundir.html#aa966d1534a58e3832c46772043956533":[6,0,697,1],
-"db/ddb/classnpc__black__knight__ghoul.html":[6,0,1611],
-"db/ddb/classnpc__black__knight__ghoul.html#a52308f8d168e1ccea22de653813b7f6f":[6,0,1611,2],
-"db/ddb/classnpc__black__knight__ghoul.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0":[6,0,1611,1],
-"db/ddb/classnpc__blood__queen__lana__thel.html":[6,0,1620]
+"db/ddb/classboss__stormcaller__brundir.html":[6,0,697]
 };

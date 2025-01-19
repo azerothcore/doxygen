@@ -1,5 +1,14 @@
 var NAVTREEINDEX385 =
 {
+"df/da7/classBattleground.html#a0da7cf3c47f49da20ce93c4bd4bc9970":[6,0,296,163],
+"df/da7/classBattleground.html#a0e23512a1aa9e333dc861e5a46b09f24":[6,0,296,18],
+"df/da7/classBattleground.html#a0f2b5179c9b91b5410f84eb199320720":[6,0,296,96],
+"df/da7/classBattleground.html#a11f638dab7a0cf67b8a3588fd7f30cc5":[6,0,296,196],
+"df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[6,0,296,190],
+"df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[6,0,296,81],
+"df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[6,0,296,58],
+"df/da7/classBattleground.html#a152b516933fa88d053a99d3e3aa052c3":[6,0,296,5],
+"df/da7/classBattleground.html#a15ae5454869e14bf35aa3df6cfe3be8f":[6,0,296,21],
 "df/da7/classBattleground.html#a1864145bddee5dc00672a5c17bbde4b4":[6,0,296,213],
 "df/da7/classBattleground.html#a19cf075511f45a5b3984296651641273":[6,0,296,38],
 "df/da7/classBattleground.html#a19ebb33fd7ed9c085e30257d88210a41":[6,0,296,188],
@@ -240,14 +249,5 @@ var NAVTREEINDEX385 =
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2872],
-"df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2872,2],
-"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2872,0],
-"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,2872,1],
-"df/da7/classspell__gen__gnomish__transporter.html":[6,0,2904],
-"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[6,0,2904,0],
-"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[6,0,2904,2],
-"df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[6,0,2904,1],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2016,0],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2016,0,2],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[6,0,2016,0,1]
+"df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2872,2]
 };

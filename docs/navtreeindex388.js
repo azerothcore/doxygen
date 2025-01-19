@@ -1,5 +1,14 @@
 var NAVTREEINDEX388 =
 {
+"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#af688bab2dc3d938951adb303e8b8d88b":[6,0,1184,0,1],
+"df/dcb/classspell__sha__item__mana__surge.html":[6,0,3709],
+"df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[6,0,3709,4],
+"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[6,0,3709,0],
+"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[6,0,3709,3],
+"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[6,0,3709,2],
+"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[6,0,3709,1],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[6,0,1577,0],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[6,0,1577,0,3],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[6,0,1577,0,4],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[6,0,1577,0,5],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[6,0,1577,0,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX388 =
 "df/dd9/classUnit.html#a0c7afdd1ee706094dcaea3404dab22b9":[6,0,4115,920],
 "df/dd9/classUnit.html#a0cb842af542d302eb67b743078e1ac01":[6,0,4115,251],
 "df/dd9/classUnit.html#a0d0ef0eaccdb2627741e0e15d9a8edd6":[6,0,4115,422],
-"df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2":[6,0,4115,247],
-"df/dd9/classUnit.html#a0d52c4248592475ddb1bd5e43d8927f9":[6,0,4115,936],
-"df/dd9/classUnit.html#a0d74177af4f180c8ec0af151313189c6":[6,0,4115,227],
-"df/dd9/classUnit.html#a0d8467fc487ce4c1eaecdbaab6cddd6f":[6,0,4115,756],
-"df/dd9/classUnit.html#a0e26ac5eae65e908edf086ec7a68cb3e":[6,0,4115,760],
-"df/dd9/classUnit.html#a0ea8974d848966b4d3744c9cfdff6c53":[6,0,4115,808],
-"df/dd9/classUnit.html#a0ebd2fdf5717fd7a5f49a95541264a98":[6,0,4115,40],
-"df/dd9/classUnit.html#a0ed0c3a3a587eeab40abba42c3d0d593":[6,0,4115,632],
-"df/dd9/classUnit.html#a0f8170f7916972a683a65f5a0e9e11cd":[6,0,4115,341],
-"df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[6,0,4115,60]
+"df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2":[6,0,4115,247]
 };

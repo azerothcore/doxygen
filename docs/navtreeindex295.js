@@ -1,5 +1,11 @@
 var NAVTREEINDEX295 =
 {
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3837,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3837,1],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1621,0],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1621,0,4],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1621,0,2],
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[6,0,1621,0,5],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a75dca4f2e90318f334e7e6385d4f7a6f":[6,0,1621,0,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a9752f518441071dd4a60cd63423bf9a3":[6,0,1621,0,3],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#afe9b10dfcee3b241a48e6f2e40eec657":[6,0,1621,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1b/structboss__curator.html#a5617f51f51304682d48af11fdb0c6b8b":[6,0,399,1],
 "dc/d1b/structboss__curator.html#a848f477a101956662389cab5ffcc0727":[6,0,399,2],
 "dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,399,4],
-"dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,399,3],
-"dc/d1b/structboss__curator.html#af6fbf3c3d77f9f052f11974f7b54feab":[6,0,399,5],
-"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3037],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[6,0,3037,2],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a4b95717cb19116b81f3eec798089abad":[6,0,3037,0],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a581645fa151531aaf7b562a8739d5616":[6,0,3037,1],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[6,0,3037,3]
+"dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,399,3]
 };

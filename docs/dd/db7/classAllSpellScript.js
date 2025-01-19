@@ -14,5 +14,8 @@ var classAllSpellScript =
     [ "OnDummyEffect", "dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
     [ "OnRemoveAuraScaleTargets", "dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
     [ "OnScaleAuraUnitAdd", "dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCheckCast", "dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ]
+    [ "OnSpellCast", "dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

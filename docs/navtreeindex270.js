@@ -1,5 +1,11 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa5d5aa37d95460ed9d1e980988c1e201":[7,0,0,0,1,3,2,7,0,8,13],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[7,0,0,0,1,3,2,7,0,8,3],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dac4127ea2034069c6c4e6db3f2e323f13":[7,0,0,0,1,3,2,7,0,8,0],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[7,0,0,0,1,3,2,7,0,8,10],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[7,0,0,0,1,3,2,7,0,8,8],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[7,0,0,0,1,3,2,7,0,8,2],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefc":[7,0,0,0,1,3,2,7,0,14],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefca0a4ca2a4e782ead9bd179ad3568cc88c":[7,0,0,0,1,3,2,7,0,14,2],
 "db/d20/instance__scarlet__monastery_8cpp.html#a5a280b8624987b46673a521067becefca3c1e5064253393b56f9c3dd49653a410":[7,0,0,0,1,3,2,7,0,14,0],
@@ -42,8 +48,8 @@ var NAVTREEINDEX270 =
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1855,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1855,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1855,0,9],
@@ -61,8 +67,8 @@ var NAVTREEINDEX270 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4014,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX270 =
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aea20be843c1f9c3402edd903b938292d":[6,0,2216,0,17],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#af547ffffa48ee8d7b0f6babbd0e9875e":[6,0,2216,0,0],
 "db/d31/classspell__hun__scatter__shot.html":[6,0,3063],
-"db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[6,0,3063,2],
-"db/d31/classspell__hun__scatter__shot.html#a5b25d03bb22995e1ba9deb7eec4ee35a":[6,0,3063,0],
-"db/d31/classspell__hun__scatter__shot.html#a833d9abe12cb4fff1700b97bc7215c1d":[6,0,3063,1],
-"db/d31/classspell__hun__scatter__shot.html#ae7d502253b0c47921e40da4aa87b0eef":[6,0,3063,3],
-"db/d31/classspell__item__shifting__naaru__silver.html":[6,0,3231],
-"db/d31/classspell__item__shifting__naaru__silver.html#a0331b3860691db793c5a7bcf53550c6f":[6,0,3231,2],
-"db/d31/classspell__item__shifting__naaru__silver.html#a34ad4890c7ce30427537e36980057e57":[6,0,3231,3]
+"db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[6,0,3063,2]
 };

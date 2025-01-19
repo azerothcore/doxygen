@@ -1,5 +1,14 @@
 var NAVTREEINDEX359 =
 {
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,5,5],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d6e490960801191a590241ba200b2c":[7,0,0,0,1,3,2,4,5,5,0],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2385e82e98a5ec79d206aae4580c8504":[7,0,0,0,1,3,2,4,5,5,6],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca26438c32a6e128c85fccb573bc869f4a":[7,0,0,0,1,3,2,4,5,5,4],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e7c9a294a6919b4b75ea034b46ae870":[7,0,0,0,1,3,2,4,5,5,2],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca966a9f6d39c25574ae624c5b3eff675b":[7,0,0,0,1,3,2,4,5,5,1],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298cad8257999f1b04206e97634f0f7e9afee":[7,0,0,0,1,3,2,4,5,5,7],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298cadc0d9bf02fd502562b00eb84aa8d82cc":[7,0,0,0,1,3,2,4,5,5,3],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298caef005e5bec2cc642d2cc41cc7298f085":[7,0,0,0,1,3,2,4,5,5,5],
 "de/d87/boss__netherspite_8cpp.html#a98c41f42c8ba4d94e61b0fd7906ac31c":[7,0,0,0,1,3,2,4,5,10],
 "de/d87/boss__netherspite_8cpp.html#aa5f1b61f59a2604edc9dd172b80c5bef":[7,0,0,0,1,3,2,4,5,7],
 "de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,5,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX359 =
 "de/d95/classTicketMgr.html#a014f3883e6f743db0f7e0756a0bf68c0":[6,0,4072,17],
 "de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[6,0,4072,0],
 "de/d95/classTicketMgr.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3":[6,0,4072,2],
-"de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[6,0,4072,30],
-"de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4072,28],
-"de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4072,8],
-"de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4072,16],
-"de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[6,0,4072,31],
-"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[6,0,4072,22],
-"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[6,0,4072,15],
-"de/d95/classTicketMgr.html#a5c6638093e959f1cd7311268f2c8cf56":[6,0,4072,3],
-"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[6,0,4072,1],
-"de/d95/classTicketMgr.html#a5ea5f45b9ac52b3bbbceccbc69d894f3":[6,0,4072,21]
+"de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[6,0,4072,30]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX308 =
 {
+"dc/dc4/classspell__illidan__cage__trap__stun__aura.html":[6,0,3111],
+"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#a165d47b116b0a53e37b05f664960e6ec":[6,0,3111,0],
+"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#a1ac8741542c921f5e4c42b0a9a02ed3c":[6,0,3111,2],
+"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#ac46af3566c5c03622f8146f1bb6f0ac7":[6,0,3111,1],
+"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#adf76f9183dd9c5e0f00c2115aaafb119":[6,0,3111,3],
+"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html":[6,0,400,0],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a075f4a592202dc73d9b5d63ca5178093":[6,0,400,0,10],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a4b24132889b17b3e682a15009a1ae910":[6,0,400,0,0],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a4ef85c0178120f14f2a7b29efb7a9abf":[6,0,400,0,3],
@@ -146,12 +152,12 @@ var NAVTREEINDEX308 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,79],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,67,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,79,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,79,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,67,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,79,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,79,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,67,2],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,79,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,67,1],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,79,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,79,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,67,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dd6/classRespawnEvent.html#accc0d5638ff7a493fa116ac2e8f2e58b":[6,0,2462,0],
 "dc/dd6/classRespawnEvent.html#adb0835b4a2e7a2795bb81f0a1e3c911a":[6,0,2462,2],
 "dc/dd7/classboss__wushoolay.html":[6,0,767],
-"dc/dd7/classboss__wushoolay.html#a68359ee086bb4e86c3c16c4a03e54893":[6,0,767,1],
-"dc/dd7/classboss__wushoolay.html#a70b476358956fd05d6effb75517e2b3d":[6,0,767,2],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[6,0,3814],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[6,0,3814,2],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[6,0,3814,1],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[6,0,3814,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,3814,3]
+"dc/dd7/classboss__wushoolay.html#a68359ee086bb4e86c3c16c4a03e54893":[6,0,767,1]
 };

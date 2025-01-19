@@ -1,5 +1,8 @@
 var NAVTREEINDEX185 =
 {
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a112bd4adaa290afd04d229347a96ff4a":[6,0,2108,0,1],
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a3944886823dad81bcd5d72e020910143":[6,0,2108,0,3],
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a4003deba30ff47ed3296325112b6cb0e":[6,0,2108,0,4],
 "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a530d16086a9e613f6f0299186f8bcc33":[6,0,2108,0,5],
 "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a74d84534c39e7e6f3774099fd6b28d29":[6,0,2108,0,0],
 "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#aaef10316b8f7c3e980082cab722ffe9f":[6,0,2108,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d3f/WheatyExceptionReport_8cpp.html#a9f2ce59205c508258855d0568854e367":[7,0,0,0,0,5,2,6],
 "d7/d3f/WheatyExceptionReport_8cpp.html#a9fff8ce906026fe3179e50e97182d90d":[7,0,0,0,0,5,2,8],
 "d7/d3f/WheatyExceptionReport_8cpp.html#ac7bef5d85e3dcd73eef56ad39ffc84a9":[7,0,0,0,0,5,2,4],
-"d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[7,0,0,0,0,5,2,1],
-"d7/d3f/classnpc__eris__hevenfire.html":[6,0,1738],
-"d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[6,0,1738,3],
-"d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[6,0,1738,1]
+"d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[7,0,0,0,0,5,2,1]
 };

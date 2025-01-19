@@ -1,5 +1,14 @@
 var NAVTREEINDEX370 =
 {
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a929c49d6dd30b6a0dedfbc23c877eb36":[6,0,3551,2],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#ad68619783c4a1aad5a24826bf5d89858":[6,0,3551,1],
+"df/d05/structVendorItem.html":[6,0,4144],
+"df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[6,0,4144,2],
+"df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4144,1],
+"df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4144,4],
+"df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4144,5],
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4144,0],
+"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4144,3],
 "df/d05/structWebTargetSelector.html":[6,0,4179],
 "df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[6,0,4179,1],
 "df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[6,0,4179,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX370 =
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045":[7,0,0,0,1,2,16,5,3,27,5],
 "df/d14/ObjectDefines_8h.html#ae7170f91373fc9614734d4365eaebf77":[7,0,0,0,1,2,16,5,3,31],
 "df/d14/classPet.html":[6,0,2350],
-"df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e":[6,0,2350,39],
-"df/d14/classPet.html#a04c9223accb74363902edd455c7b836e":[6,0,2350,48],
-"df/d14/classPet.html#a0595dccf2ddfc73bffb69512ca6c79ce":[6,0,2350,81],
-"df/d14/classPet.html#a08deaa012267337fe991915fa6114e72":[6,0,2350,0],
-"df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7":[6,0,2350,57],
-"df/d14/classPet.html#a0f1272e143553fa21884ebad628d31c8":[6,0,2350,36],
-"df/d14/classPet.html#a10d8a224dc5726395aa872a6caaf9429":[6,0,2350,54],
-"df/d14/classPet.html#a1223cf843907fc54e5428e12b3f85de6":[6,0,2350,78],
-"df/d14/classPet.html#a13ab01f117d87d02badb7f4f4e98710b":[6,0,2350,13],
-"df/d14/classPet.html#a16d96ee5a28389b29128ede8702096ee":[6,0,2350,32]
+"df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e":[6,0,2350,39]
 };

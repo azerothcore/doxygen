@@ -1,5 +1,14 @@
 var NAVTREEINDEX375 =
 {
+"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a3b40dce57adf9e868b80128865aaf817":[7,0,0,0,1,3,5,8,2,6,4,0],
+"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a488fca0324c32f82c39bbb5287fe7971":[7,0,0,0,1,3,5,8,2,6,4,3],
+"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a5cced6821bfc3357e75f77436ec90cb5":[7,0,0,0,1,3,5,8,2,6,4,4],
+"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad9112ab4da3904d6906631cbbdc0ac75":[7,0,0,0,1,3,5,8,2,6,4,1],
+"df/d29/oculus_8h.html#a1ba95f9809b0b448349b371a2de97ad0":[7,0,0,0,1,3,5,8,2,6,10],
+"df/d29/oculus_8h.html#a32a1723002ca04a85898f7274cd4dec7":[7,0,0,0,1,3,5,8,2,6,11],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5e":[7,0,0,0,1,3,5,8,2,6,2],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea24171b132f2eacb3e9fa2b9e7a735f92":[7,0,0,0,1,3,5,8,2,6,2,3],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea4b91d5faa0d876e04c64b0eb99134744":[7,0,0,0,1,3,5,8,2,6,2,1],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea68f4800ee218a41c1afa12eeb2cb8cce":[7,0,0,0,1,3,5,8,2,6,2,2],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eaadbc758e3c1b7e6a6595c6a8178b4737":[7,0,0,0,1,3,5,8,2,6,2,4],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eacfd97bd3fb1ccc16d2a7bf6a147600b7":[7,0,0,0,1,3,5,8,2,6,2,6],
@@ -240,14 +249,5 @@ var NAVTREEINDEX375 =
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#adc28dd5beed1a6e48c79d7cdcceec084":[6,0,697,0,0],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#af26795d89f26a9d907e81ef16ab10762":[6,0,697,0,5],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#af6e9b985d9bb5f63b1163d8ef1299992":[6,0,697,0,8],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#af7e52166fdeb9b77ffa7057444ee67ef":[6,0,697,0,4],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#afe01d10d1abf8a7ddfc1d3c1b238cd30":[6,0,697,0,14],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#afe480aedba3a5772a98f694647c7ed50":[6,0,697,0,16],
-"df/d37/ReputationMgr_8cpp.html":[7,0,0,0,1,2,37,0],
-"df/d37/classHyperlinkDataTokenizer.html":[6,0,1247],
-"df/d37/classHyperlinkDataTokenizer.html#a1fb14152c61205ce31fcf2bfeaeceeaf":[6,0,1247,0],
-"df/d37/classHyperlinkDataTokenizer.html#a42e18263129c27149bf9a91b3dc42418":[6,0,1247,2],
-"df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[6,0,1247,1],
-"df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[6,0,1247,3],
-"df/d38/structnpc__ahnqiraji__critter.html":[6,0,1538]
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#af7e52166fdeb9b77ffa7057444ee67ef":[6,0,697,0,4]
 };

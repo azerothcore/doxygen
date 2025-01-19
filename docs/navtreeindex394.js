@@ -1,5 +1,14 @@
 var NAVTREEINDEX394 =
 {
+"df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
+"df/dde/classBGSpamProtect.html":[6,0,339],
+"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,339,0],
+"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,339,1],
+"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1872],
+"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1872,2],
+"df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1872,1],
+"df/dde/classnpc__rinji.html":[6,0,2044],
+"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2044,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2044,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
@@ -240,14 +249,5 @@ var NAVTREEINDEX394 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,11,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,11,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,11,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,11,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,11,0,0,1],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
-"df/dee/classBloodboltHitCheck.html":[6,0,343],
-"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,343,2],
-"df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,343,1],
-"df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,343,0]
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,11,0,0,2]
 };

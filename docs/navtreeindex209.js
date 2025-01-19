@@ -1,5 +1,8 @@
 var NAVTREEINDEX209 =
 {
+"d8/d2d/structTrainerSpell.html#a87a098774b32babfcf2000e3330a25b9":[6,0,4082,0],
+"d8/d2d/structTrainerSpell.html#a9adb80199e22a0db5d4eb262d9edbfe8":[6,0,4082,8],
+"d8/d2d/structTrainerSpell.html#ac0a74c104994e36ba95703689ed92964":[6,0,4082,4],
 "d8/d2d/structTrainerSpell.html#ac71afa7c180905ae4247011b2f40f929":[6,0,4082,3],
 "d8/d2d/structTrainerSpell.html#af7649fcfa5e6ca77c7d0aa9ef474b44c":[6,0,4082,7],
 "d8/d2e/classboss__razorgore.html":[6,0,654],
@@ -110,12 +113,12 @@ var NAVTREEINDEX209 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,120],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,132,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,120,1],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,132,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,120,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,132,3],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,132,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,120,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,132,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,132,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[6,0,0,120,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,132,0],
 "d8/d36/BigNumber_8h.html":[7,0,0,0,0,3,8],
 "d8/d36/MailScript_8cpp.html":[7,0,0,0,1,2,38,0,62],
 "d8/d36/MailScript_8cpp.html#a2c63e917d984cb7f72bcae15da56850c":[7,0,0,0,1,2,38,0,62,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d37/classGuild_1_1RankInfo.html#aaacf8ce1bfa6429cb5980d74f076cbd3":[6,0,1225,9,2],
 "d8/d37/classGuild_1_1RankInfo.html#ad7ff7ee31212be87b5cb580edef3cc16":[6,0,1225,9,20],
 "d8/d37/classGuild_1_1RankInfo.html#adb568b8ad70d0b42d834af5e2bf528d2":[6,0,1225,9,4],
-"d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[6,0,1225,9,10],
-"d8/d37/classGuild_1_1RankInfo.html#aeb209d1e53f55b5b48bcd00979014eb8":[6,0,1225,9,17],
-"d8/d37/classspell__hun__bestial__wrath.html":[6,0,3045],
-"d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[6,0,3045,1]
+"d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[6,0,1225,9,10]
 };

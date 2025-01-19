@@ -1,5 +1,11 @@
 var NAVTREEINDEX238 =
 {
+"d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
+"d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[7,0,0,0,1,3,0,0,1],
+"d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2024],
+"d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2024,3],
+"d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2024,4],
+"d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2024,6],
 "d9/d9f/classnpc__putricide__oozeAI.html#a508fe1a9974f2ffa36c72575c2d4b252":[6,0,2024,7],
 "d9/d9f/classnpc__putricide__oozeAI.html#a5b3200110d6cd8ac1311220ab2ee3385":[6,0,2024,0],
 "d9/d9f/classnpc__putricide__oozeAI.html#a62c9027b6d8a7812fcf5c0023621ef70":[6,0,2024,1],
@@ -198,14 +204,14 @@ var NAVTREEINDEX238 =
 "d9/dac/ScriptedCreature_8h.html#acaba34b4ac104e5289c265c1f8524b15":[7,0,0,0,1,2,3,1,1,9],
 "d9/dac/ScriptedCreature_8h.html#acc68161fe019b33e9356ea1473fba71d":[7,0,0,0,1,2,3,1,1,7],
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[7,0,0,0,1,2,3,1,1,12],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
 "d9/dac/classnpc__nether__drake.html":[6,0,1950],
 "d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[6,0,1950,1],
 "d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[6,0,1950,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX238 =
 "d9/dad/AccountMgr_8cpp.html#adb1b210137b09011677c74011addeefa":[7,0,0,0,1,2,0,0,11],
 "d9/dad/AccountMgr_8cpp.html#af911e3860ec519c541d6df35468ee41b":[7,0,0,0,1,2,0,0,8],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html":[6,0,3678],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#a1da221b63cb7fcd0dbb580e8cf0003ce":[6,0,3678,1],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#a672526de2c71dcae79bacef88f34dc26":[6,0,3678,0],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#a9ba7c109fe96881dd47ba47366890e2b":[6,0,3678,2],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#ab5833f6218760a7d9829b5d453436302":[6,0,3678,3],
-"d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8],
-"d9/dae/structM2Camera.html":[6,0,1431],
-"d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1431,7]
+"d9/dad/classspell__saronite__vapors__dummy__aura.html#a1da221b63cb7fcd0dbb580e8cf0003ce":[6,0,3678,1]
 };

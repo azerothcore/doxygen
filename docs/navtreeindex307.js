@@ -1,5 +1,11 @@
 var NAVTREEINDEX307 =
 {
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html":[7,0,0,0,1,3,7,2,2,1],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dd":[7,0,0,0,1,3,7,2,2,1,1],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,2,2,1,1,3],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,2,1,1,7],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd":[7,0,0,0,1,3,7,2,2,1,1,4],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,2,1,1,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01":[7,0,0,0,1,3,7,2,2,1,1,8],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c":[7,0,0,0,1,3,7,2,2,1,1,10],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e":[7,0,0,0,1,3,7,2,2,1,1,11],
@@ -243,11 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc3/classspell__dru__dash__aura.html#a4db48f3a549a04caf746a9459b1c5640":[6,0,2766,2],
 "dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e":[6,0,2766,0],
 "dc/dc3/instance__halls__of__reflection_8cpp.html":[7,0,0,0,1,3,5,4,1,4],
-"dc/dc3/instance__halls__of__reflection_8cpp.html#a0f581d4a1a046db6b8b7729c87457646":[7,0,0,0,1,3,5,4,1,4,3],
-"dc/dc4/classspell__illidan__cage__trap__stun__aura.html":[6,0,3111],
-"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#a165d47b116b0a53e37b05f664960e6ec":[6,0,3111,0],
-"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#a1ac8741542c921f5e4c42b0a9a02ed3c":[6,0,3111,2],
-"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#ac46af3566c5c03622f8146f1bb6f0ac7":[6,0,3111,1],
-"dc/dc4/classspell__illidan__cage__trap__stun__aura.html#adf76f9183dd9c5e0f00c2115aaafb119":[6,0,3111,3],
-"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html":[6,0,400,0]
+"dc/dc3/instance__halls__of__reflection_8cpp.html#a0f581d4a1a046db6b8b7729c87457646":[7,0,0,0,1,3,5,4,1,4,3]
 };

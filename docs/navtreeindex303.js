@@ -1,5 +1,11 @@
 var NAVTREEINDEX303 =
 {
+"dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#ae1996cf79f8a82df7fe02cd60e5ce3a4":[6,0,2193,0,8],
+"dc/d79/ServiceWin32_8h.html":[7,0,0,0,0,12,1],
+"dc/d79/classSocialMgr.html":[6,0,2532],
+"dc/d79/classSocialMgr.html#a223f3d7811d8c360da7f467b70af808f":[6,0,2532,5],
+"dc/d79/classSocialMgr.html#a24344515cc4e656b98afcf760181b070":[6,0,2532,4],
+"dc/d79/classSocialMgr.html#a2b80fa18a6f1ed54fda7719867f45ebd":[6,0,2532,0],
 "dc/d79/classSocialMgr.html#a2f8a276598ad01d350aa245fcef82a7a":[6,0,2532,10],
 "dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2532,1],
 "dc/d79/classSocialMgr.html#a55b35ea17ebfea4ff31710186b87865f":[6,0,2532,3],
@@ -132,16 +138,16 @@ var NAVTREEINDEX303 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,1960,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,1960,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,89],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,77],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,89],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,89,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,77,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,89,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,77,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,77,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,89,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,89,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,77,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,77,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,89,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3212],
@@ -243,11 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d89/classAsyncAcceptor.html#ae2443c046b245262497e407c9a5b7b3f":[6,0,191,3],
 "dc/d89/classAsyncAcceptor.html#aef188268de7b2f7447a97aa73ac19ff3":[6,0,191,11],
 "dc/d89/classAsyncAcceptor.html#af3d5ae4979b29b4fc72e78fc9de34b8e":[6,0,191,8],
-"dc/d89/classnpc__gunship.html":[6,0,1792],
-"dc/d89/classnpc__gunship.html#a86b3ba622bd6e606cd21f7c7d8dddd1b":[6,0,1792,1],
-"dc/d89/classnpc__gunship.html#adcd37802a2850f4ec8892f3495d5dc16":[6,0,1792,2],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html":[5,0,1,8,0],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a068db55731856ca7770e1b09a4225aa2":[5,0,1,8,0,41],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a3cb927687da0e8c0bae77a78fe45d942":[5,0,1,8,0,35],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a496bce28eb0bf0ac4b5e1c54c19193b7":[5,0,1,8,0,36]
+"dc/d89/classnpc__gunship.html":[6,0,1792]
 };

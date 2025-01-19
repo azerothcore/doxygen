@@ -1,5 +1,14 @@
 var NAVTREEINDEX349 =
 {
+"de/d1e/WardenWin_8cpp.html#adfb39c1ce4f6159c2c70e3cdf26978c9":[7,0,0,0,1,2,46,10,1],
+"de/d1e/classMailSender.html":[6,0,1442],
+"de/d1e/classMailSender.html#a03145c3fdc5bbabc64019e63e121132b":[6,0,1442,7],
+"de/d1e/classMailSender.html#a0954b3514cfcba4258b1b266dfd71ddb":[6,0,1442,10],
+"de/d1e/classMailSender.html#a12c87bb414a3e8889c95091f3b51716b":[6,0,1442,5],
+"de/d1e/classMailSender.html#a145000f5ef63627ee26a5699846e06cf":[6,0,1442,2],
+"de/d1e/classMailSender.html#a16466924bf75ea8203ba27c0f3e6188b":[6,0,1442,0],
+"de/d1e/classMailSender.html#a1bbced35b4600f9a45a421d28a33393b":[6,0,1442,11],
+"de/d1e/classMailSender.html#a45a312eda342d2197f15d73b47d7787b":[6,0,1442,9],
 "de/d1e/classMailSender.html#a64c99a49ec01d2226b6bf740edb380fb":[6,0,1442,6],
 "de/d1e/classMailSender.html#a6a4446e52e20ad7ab4817bf024b38631":[6,0,1442,8],
 "de/d1e/classMailSender.html#a735cfef6950357644d6965978dde0309":[6,0,1442,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX349 =
 "de/d25/ObjectMgr_8h.html#afa0666fc9b624916246a36dd84dda7a8":[7,0,0,0,1,2,18,3,64],
 "de/d25/ObjectMgr_8h.html#afc8e96385c8104938600f9b83185fcfd":[7,0,0,0,1,2,18,3,60],
 "de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1":[7,0,0,0,1,2,18,3,92],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517":[7,0,0,0,1,2,18,3,92,2],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980":[7,0,0,0,1,2,18,3,92,4],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169":[7,0,0,0,1,2,18,3,92,0],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b":[7,0,0,0,1,2,18,3,92,3],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd":[7,0,0,0,1,2,18,3,92,1],
-"de/d25/classnpc__custodian__of__time.html":[6,0,1688],
-"de/d25/classnpc__custodian__of__time.html#a57217b2dab1cab110f1c59526ca13c86":[6,0,1688,2],
-"de/d25/classnpc__custodian__of__time.html#a6018b30119ce819853a3c662b3d5347e":[6,0,1688,1],
-"de/d25/structnpc__black__morass__summoned__add.html":[6,0,1614],
-"de/d25/structnpc__black__morass__summoned__add.html#a437e7b72b985713d22883f3e33f30942":[6,0,1614,1]
+"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517":[7,0,0,0,1,2,18,3,92,2]
 };

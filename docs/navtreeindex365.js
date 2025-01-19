@@ -1,5 +1,14 @@
 var NAVTREEINDEX365 =
 {
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a4713da02f4a86547a0f796167e24d8bb":[6,0,1697,7],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a473a8fb4905e5d1333196797d7d0f371":[6,0,1697,0],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a50e0657f33f15bf2ffe83ca4041eb483":[6,0,1697,2],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a8686845ebef564c9fcaa115866c99749":[6,0,1697,6],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[6,0,1697,1],
+"de/db2/classspell__black__template__free__friend.html":[6,0,2598],
+"de/db2/classspell__black__template__free__friend.html#a0810dd4ad4d324c1a53e192fc99d1d35":[6,0,2598,0],
+"de/db2/classspell__black__template__free__friend.html#a0ece61d7bed3e19ee6f6175a55c0733d":[6,0,2598,1],
+"de/db2/classspell__black__template__free__friend.html#a827cefe322562f0e8ea7cfa58b9a776b":[6,0,2598,2],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html":[6,0,3523],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a0b32bf9d565d7d6f606150f70fc244a0":[6,0,3523,3],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a1aee8ca0cc33f949371fa5cbb4745ccd":[6,0,3523,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX365 =
 "de/dc1/classadt__MCNK.html#a9ccf5d31fb5474104fa579954a4aa35c":[6,0,134,28],
 "de/dc1/classadt__MCNK.html#aa263bf7d7e0b8be16761a20fc7aff92c":[6,0,134,7],
 "de/dc1/classadt__MCNK.html#aa842f25b9fbbea3fde01552f1c680031":[6,0,134,27],
-"de/dc1/classadt__MCNK.html#ac1ba53cb0c26f5d051e46339b2085be9":[6,0,134,6],
-"de/dc1/classadt__MCNK.html#ac717e7875c10b8828b73a2ef291b4cf7":[6,0,134,16],
-"de/dc1/classadt__MCNK.html#ac84dbc5b35de959cef015ca4fd54e5eb":[6,0,134,13],
-"de/dc1/classadt__MCNK.html#acba52fc381adbb2ca3cb0141844b8002":[6,0,134,32],
-"de/dc1/classadt__MCNK.html#ad11584a70c6f61fc6b050528d71534f0":[6,0,134,30],
-"de/dc1/classadt__MCNK.html#ade5a9c93564f39e26be0d05d6f3f55ea":[6,0,134,17],
-"de/dc1/classadt__MCNK.html#aec9abb241e89ef48ca654a7d8af1824d":[6,0,134,10],
-"de/dc1/classadt__MCNK.html#af1012fb59a96794ca5b31bfc025c4f3e":[6,0,134,14],
-"de/dc1/classadt__MCNK.html#af153ffcb3ada9f28c3df15add4a58f20":[6,0,134,26],
-"de/dc1/classadt__MCNK.html#af1c6bef350a3529f3ee1e8c49399a02b":[6,0,134,3]
+"de/dc1/classadt__MCNK.html#ac1ba53cb0c26f5d051e46339b2085be9":[6,0,134,6]
 };

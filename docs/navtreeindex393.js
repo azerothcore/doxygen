@@ -1,5 +1,14 @@
 var NAVTREEINDEX393 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3658fac86b86157b826d07c311b2eaea":[7,0,0,0,1,3,5,6,4,67],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21":[7,0,0,0,1,3,5,6,4,52],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a2582a2f69e5d10b2500d64027f9385b2":[7,0,0,0,1,3,5,6,4,52,4],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a356f54f46201c64d499d3ac22d6b79f4":[7,0,0,0,1,3,5,6,4,52,3],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a61230091f6d3fb803a21caaf79f0a2de":[7,0,0,0,1,3,5,6,4,52,6],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a9830aca24e9426e9beca96950a2dfa65":[7,0,0,0,1,3,5,6,4,52,7],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21aec316844248752f9a40510eaab2e667f":[7,0,0,0,1,3,5,6,4,52,5],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21aeca37d82ff1e358d20ca09355ca03110":[7,0,0,0,1,3,5,6,4,52,0],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af5c31ea9a88c67dcda1c7746fb8e1ce4":[7,0,0,0,1,3,5,6,4,52,1],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af6aa344e6136036cd42f46df6d8cdf5e":[7,0,0,0,1,3,5,6,4,52,2],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,4,56],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ac6f98c2ff3ee507ab1d9d93b0dd33d":[7,0,0,0,1,3,5,6,4,56,27],
@@ -240,14 +249,5 @@ var NAVTREEINDEX393 =
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[6,0,733,0,8],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[6,0,733,0,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[6,0,733,0,5],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,733,0,4],
-"df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
-"df/dde/classBGSpamProtect.html":[6,0,339],
-"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,339,0],
-"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,339,1],
-"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1872],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1872,2],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1872,1],
-"df/dde/classnpc__rinji.html":[6,0,2044],
-"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2044,2]
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,733,0,4]
 };

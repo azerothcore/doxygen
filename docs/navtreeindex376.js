@@ -1,5 +1,14 @@
 var NAVTREEINDEX376 =
 {
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#afe01d10d1abf8a7ddfc1d3c1b238cd30":[6,0,697,0,14],
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#afe480aedba3a5772a98f694647c7ed50":[6,0,697,0,16],
+"df/d37/ReputationMgr_8cpp.html":[7,0,0,0,1,2,37,0],
+"df/d37/classHyperlinkDataTokenizer.html":[6,0,1247],
+"df/d37/classHyperlinkDataTokenizer.html#a1fb14152c61205ce31fcf2bfeaeceeaf":[6,0,1247,0],
+"df/d37/classHyperlinkDataTokenizer.html#a42e18263129c27149bf9a91b3dc42418":[6,0,1247,2],
+"df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[6,0,1247,1],
+"df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[6,0,1247,3],
+"df/d38/structnpc__ahnqiraji__critter.html":[6,0,1538],
 "df/d38/structnpc__ahnqiraji__critter.html#a60e2dc1c52579a410d3435126bf39684":[6,0,1538,0],
 "df/d38/structnpc__ahnqiraji__critter.html#a645e16e9da29f6579320394201d0ada7":[6,0,1538,3],
 "df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[6,0,1538,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX376 =
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5":[7,0,0,0,1,3,4,14,2,2],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63":[7,0,0,0,1,3,4,14,2,7],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0":[7,0,0,0,1,3,4,14,2,10],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964":[7,0,0,0,1,3,4,14,2,18],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46":[7,0,0,0,1,3,4,14,2,16],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce":[7,0,0,0,1,3,4,14,2,5],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8":[7,0,0,0,1,3,4,14,2,4],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a":[7,0,0,0,1,3,4,14,2,15],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b":[7,0,0,0,1,3,4,14,2,6],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7":[7,0,0,0,1,3,4,14,2,19],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a":[7,0,0,0,1,3,4,14,2,3],
-"df/d42/zone__ashenvale_8cpp.html#ab15d952fc1bf94911661206ead25b5b1":[7,0,0,0,1,3,4,14,6],
-"df/d43/namespaceOpenSSLCrypto.html":[5,0,25]
+"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964":[7,0,0,0,1,3,4,14,2,18]
 };

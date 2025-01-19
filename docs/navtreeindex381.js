@@ -1,5 +1,14 @@
 var NAVTREEINDEX381 =
 {
+"df/d87/boss__freya_8cpp.html#a0592b886279c92025acfb86eb6ca5d58":[7,0,0,0,1,3,5,9,2,4,32],
+"df/d87/boss__freya_8cpp.html#a1198e1a45c6701c3f45fca2655946685":[7,0,0,0,1,3,5,9,2,4,35],
+"df/d87/boss__freya_8cpp.html#a1e2f5215d0ecde7df34aefcd7c8a20b0":[7,0,0,0,1,3,5,9,2,4,27],
+"df/d87/boss__freya_8cpp.html#a23df6e625d12323a9e8de8b074337468":[7,0,0,0,1,3,5,9,2,4,21],
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,2,4,43],
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2506c434b212867f6a797b2f6dbc44bc":[7,0,0,0,1,3,5,9,2,4,43,3],
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f3a4c4f65a02db119e97acdb0de3c70":[7,0,0,0,1,3,5,9,2,4,43,4],
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a653cb7ac35e95f513bd33aeaf209825f":[7,0,0,0,1,3,5,9,2,4,43,0],
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ce227d3cc740f5d52c5d46259892d35":[7,0,0,0,1,3,5,9,2,4,43,6],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a853648b75be4547c89e3010b38275b2b":[7,0,0,0,1,3,5,9,2,4,43,2],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd":[7,0,0,0,1,3,5,9,2,4,43,9],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa160d93acd266977ad939a8950bdf5a6":[7,0,0,0,1,3,5,9,2,4,43,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX381 =
 "df/d8d/structSmartTarget.html#a4734ee065fbac63197607c954ed3554a":[6,0,2528,57],
 "df/d8d/structSmartTarget.html#a47ca1b5e1d5a12bed1934e1eb0c82306":[6,0,2528,32],
 "df/d8d/structSmartTarget.html#a4a000f749faecc744ca9074301e038f3":[6,0,2528,8],
-"df/d8d/structSmartTarget.html#a4bd814dcd248033cd2b6f16d6ca8057f":[6,0,2528,16],
-"df/d8d/structSmartTarget.html#a4c71451eacd886100952f45ddcc8ae6b":[6,0,2528,23],
-"df/d8d/structSmartTarget.html#a574fa96928ef9dbca12649c55b7ea596":[6,0,2528,42],
-"df/d8d/structSmartTarget.html#a59e03101305ccf733a6bdb0e80fe1cce":[6,0,2528,59],
-"df/d8d/structSmartTarget.html#a5aaa94e956b2653c8b7da95b1885c1a1":[6,0,2528,19],
-"df/d8d/structSmartTarget.html#a5d5c979cd4cfd87f978d065ff7c03d01":[6,0,2528,37],
-"df/d8d/structSmartTarget.html#a5d72ed7a43cb807080d7d5461fffaecd":[6,0,2528,7],
-"df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d":[6,0,2528,47],
-"df/d8d/structSmartTarget.html#a647e6d839f3e58848c1088755d3122a1":[6,0,2528,54],
-"df/d8d/structSmartTarget.html#a6485b621fa6bb529b7cff1c4bc63c8df":[6,0,2528,6]
+"df/d8d/structSmartTarget.html#a4bd814dcd248033cd2b6f16d6ca8057f":[6,0,2528,16]
 };

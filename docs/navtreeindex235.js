@@ -1,5 +1,11 @@
 var NAVTREEINDEX235 =
 {
+"d9/d71/structnpc__nelson_1_1npc__nelsonAI.html#accb9aeb3b3f3fc2233598b7fef40c3ec":[6,0,1947,0,2],
+"d9/d71/structnpc__nelson_1_1npc__nelsonAI.html#af6aada5c34048ce6bda6d5c1541e0bf3":[6,0,1947,0,0],
+"d9/d71/structnpc__nelson_1_1npc__nelsonAI.html#afab81d8a6077c755c186bb619944d78d":[6,0,1947,0,5],
+"d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html":[6,0,2256,0],
+"d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a596e2ed45b9221915781b03bf2d18e5b":[6,0,2256,0,1],
+"d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a763ec1834d3b71c88bfa80bc0e34966a":[6,0,2256,0,0],
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a79bf005de95aa1fee60dfc73b8920dad":[6,0,2256,0,3],
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#af0a1e717b08b2fa35dd4ff83778a87c1":[6,0,2256,0,2],
 "d9/d73/classboss__kirtonos__the__herald.html":[6,0,558],
@@ -243,11 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a5f038102313e70df26e6218c38c17e6b":[7,0,0,0,1,2,24,3,20,1],
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a89e7b03ca05bd629c1aee0cb5b612128":[7,0,0,0,1,2,24,3,20,0],
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42aa11325a7cb83156f4b8f07049189c2db":[7,0,0,0,1,2,24,3,20,4],
-"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba":[7,0,0,0,1,2,24,3,20,3],
-"d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
-"d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
-"d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[7,0,0,0,1,2,24,3,35],
-"d9/d84/LootMgr_8h.html#a8c148c99c4a202233809e690e3759993":[7,0,0,0,1,2,24,3,15],
-"d9/d84/LootMgr_8h.html#a8db9118af32d6a6196c348da5aeafdc6":[7,0,0,0,1,2,24,3,11],
-"d9/d84/LootMgr_8h.html#a9b802fc33b09fc4fced1a39a7bb8583d":[7,0,0,0,1,2,24,3,31]
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba":[7,0,0,0,1,2,24,3,20,3]
 };

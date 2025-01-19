@@ -1,5 +1,8 @@
 var NAVTREEINDEX224 =
 {
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701ae5cf5a33cbe1b92b63ab2deb3c71f327":[7,0,0,0,1,2,8,0,19,11,25],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701aeb4e28b68f506c518ab83a78f925987c":[7,0,0,0,1,2,8,0,19,11,22],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701af7c5965801baa4f43aff642e07f7170a":[7,0,0,0,1,2,8,0,19,11,11],
 "d8/de0/BattlegroundSA_8h.html#ac39afb1c6e408b6ae2290ca6d1e39e25":[7,0,0,0,1,2,8,0,19,19],
 "d8/de0/BattlegroundSA_8h.html#ac80f7cc783ba19b2ad9c8eef95405e3e":[7,0,0,0,1,2,8,0,19,21],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924be":[7,0,0,0,1,2,8,0,19,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dee/classboss__taerar.html#a100c1b80a50faf93088db870faa21b58":[6,0,703,1],
 "d8/dee/classboss__taerar.html#ae6615da6ee14c4f7cb3087b4ee5d6246":[6,0,703,2],
 "d8/def/PlayerCommand_8h.html":[7,0,0,0,1,3,0,48],
-"d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,48,0],
-"d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,48,1],
-"d8/df0/classat__lady__deathwhisper__entrance.html":[6,0,215],
-"d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[6,0,215,0]
+"d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,48,0]
 };

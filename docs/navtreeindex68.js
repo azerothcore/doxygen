@@ -1,5 +1,8 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af442ec747e22414670b39b6a70304adc":[7,0,0,0,1,2,48,0,7,46],
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af6c7329fe4933f38df25fa6f352c26fd":[7,0,0,0,1,2,48,0,7,178],
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af6ed0fba08d10c6aefeea077f45ee5e3":[7,0,0,0,1,2,48,0,7,25],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af7ef0b3043872b9d78aaed5d658b19f6":[7,0,0,0,1,2,48,0,7,57],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41afacf9adb187a200f7dde730a74541923":[7,0,0,0,1,2,48,0,7,83],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41afb28fa87adc7ebedf09576d6a7d16553":[7,0,0,0,1,2,48,0,7,156],
@@ -246,8 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a6d251ba1e88d4349dcffa96978389a7f":[6,0,2943,1],
 "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#acfa320b33c00883a78c3696bbbeb7eb0":[6,0,2943,0],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html":[6,0,1958,0],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a04e43a623d16b4cf8d80552d649d90ca":[6,0,1958,0,3],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a069e202a84d99cd757862bd1a43b5562":[6,0,1958,0,4],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a461b45ab959e71699cf1543ecbcbd91f":[6,0,1958,0,6],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a4bba380256a0ede70b8d90611249b444":[6,0,1958,0,0]
+"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a04e43a623d16b4cf8d80552d649d90ca":[6,0,1958,0,3]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX380 =
 {
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[6,0,2136,0,3],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a994a9030e2d8c5afaa66c21897e54f82":[6,0,2136,0,2],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[6,0,2136,0,6],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2136,0,5],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2136,0,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2250,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2250,0,3],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2250,0,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2250,0,2],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2250,0,1],
 "df/d77/classachievement__smell__saronite.html":[6,0,89],
 "df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,89,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX380 =
 "df/d86/structboss__twilight__corrupter.html#aa18d2fc90e1ccd322ec9d3128ba206d2":[6,0,734,3],
 "df/d86/structboss__twilight__corrupter.html#afe06461e9f3e1549da6631d2f89406c4":[6,0,734,1],
 "df/d86/structboss__twilight__corrupter.html#afe140d6231d9ad8543e17c4a8a8230c0":[6,0,734,0],
-"df/d87/boss__freya_8cpp.html":[7,0,0,0,1,3,5,9,2,4],
-"df/d87/boss__freya_8cpp.html#a0592b886279c92025acfb86eb6ca5d58":[7,0,0,0,1,3,5,9,2,4,32],
-"df/d87/boss__freya_8cpp.html#a1198e1a45c6701c3f45fca2655946685":[7,0,0,0,1,3,5,9,2,4,35],
-"df/d87/boss__freya_8cpp.html#a1e2f5215d0ecde7df34aefcd7c8a20b0":[7,0,0,0,1,3,5,9,2,4,27],
-"df/d87/boss__freya_8cpp.html#a23df6e625d12323a9e8de8b074337468":[7,0,0,0,1,3,5,9,2,4,21],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,2,4,43],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2506c434b212867f6a797b2f6dbc44bc":[7,0,0,0,1,3,5,9,2,4,43,3],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f3a4c4f65a02db119e97acdb0de3c70":[7,0,0,0,1,3,5,9,2,4,43,4],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a653cb7ac35e95f513bd33aeaf209825f":[7,0,0,0,1,3,5,9,2,4,43,0],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ce227d3cc740f5d52c5d46259892d35":[7,0,0,0,1,3,5,9,2,4,43,6]
+"df/d87/boss__freya_8cpp.html":[7,0,0,0,1,3,5,9,2,4]
 };

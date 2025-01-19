@@ -1,5 +1,14 @@
 var NAVTREEINDEX395 =
 {
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,11,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,11,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
+"df/dee/classBloodboltHitCheck.html":[6,0,343],
+"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,343,2],
+"df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,343,1],
+"df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,343,0],
 "df/dee/classspell__stinky__precious__decimate.html":[6,0,3755],
 "df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3755,0],
 "df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3755,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX395 =
 "df/df7/classnpc__phantom__hallucination.html#a685889c090152a2562ee9adef7efbf71":[6,0,1998,1],
 "df/df7/classnpc__phantom__hallucination.html#a771ee338f87ca0a2e9a7d02d1322c5d5":[6,0,1998,2],
 "df/df8/CombatHandler_8cpp.html":[7,0,0,0,1,2,22,11],
-"df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1],
-"df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[7,0,0,0,1,2,22,1,1],
-"df/df9/classspell__brewfest__reveler__transform.html":[6,0,2641],
-"df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[6,0,2641,1],
-"df/df9/classspell__brewfest__reveler__transform.html#a4a276b00d4912c210598057620368934":[6,0,2641,0],
-"df/df9/classspell__brewfest__reveler__transform.html#adf9962252dec76f324b8cdbf8f6b9155":[6,0,2641,2],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html":[6,0,676,0],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a30331f9cdb141cd2dbc043888b48a6eb":[6,0,676,0,1],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a458eb370872c20441b5ec6ecd2c97500":[6,0,676,0,2],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a4b7f103331c566cbf007a075161505af":[6,0,676,0,6]
+"df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1]
 };

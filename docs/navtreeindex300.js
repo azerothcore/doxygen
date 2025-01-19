@@ -1,5 +1,11 @@
 var NAVTREEINDEX300 =
 {
+"dc/d3f/Item_8cpp.html#a0c91640134a5241ec34f91bdec13c8ec":[7,0,0,0,1,2,16,4,2,1],
+"dc/d3f/Item_8cpp.html#a402c3dd64769702b750f96adff4b3a14":[7,0,0,0,1,2,16,4,2,2],
+"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9":[7,0,0,0,1,3,5,11,0,3],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907":[7,0,0,0,1,3,5,11,0,3,0],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a25860979d716fd920a8bbe83c6b47e50":[7,0,0,0,1,3,5,11,0,3,5],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a34c99ceca40c117ebce9f0fe4167334c":[7,0,0,0,1,3,5,11,0,3,8],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a43081076ec7d1db8340e265562ade445":[7,0,0,0,1,3,5,11,0,3,6],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a55fb04232a8d205929af47e45598694b":[7,0,0,0,1,3,5,11,0,3,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d54/classspell__control__piece.html":[6,0,2673],
 "dc/d54/classspell__control__piece.html#aae5dc71af1a0fade2da9ee88875896a5":[6,0,2673,0],
 "dc/d55/classnpc__kaya__flathoof.html":[6,0,1877],
-"dc/d55/classnpc__kaya__flathoof.html#a588f88b1c00927a4ad6b7cd25fc1b065":[6,0,1877,1],
-"dc/d55/classnpc__kaya__flathoof.html#acdb20ecb1ffee4417c9b39f3aebb0591":[6,0,1877,3],
-"dc/d55/classnpc__kaya__flathoof.html#ad7cce0c1a30abe5bc0bffa777c40c79a":[6,0,1877,2],
-"dc/d56/LootScript_8cpp.html":[7,0,0,0,1,2,38,0,60],
-"dc/d56/structStoredLootItem.html":[6,0,4037],
-"dc/d56/structStoredLootItem.html#a076564a43a586c6b6d17cd64fca8e9fb":[6,0,4037,9],
-"dc/d56/structStoredLootItem.html#a12e1cb9403cc4f6ceb770c8cf50a1d17":[6,0,4037,11]
+"dc/d55/classnpc__kaya__flathoof.html#a588f88b1c00927a4ad6b7cd25fc1b065":[6,0,1877,1]
 };

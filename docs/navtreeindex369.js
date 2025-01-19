@@ -1,5 +1,14 @@
 var NAVTREEINDEX369 =
 {
+"de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[6,0,3867,2],
+"de/df3/classspell__voa__flaming__cinder.html#a92f99501ee1582873586d2405b224f4f":[6,0,3867,3],
+"de/df3/classspell__voa__flaming__cinder.html#af524c771ef3a314f3c1dbaacae4f4538":[6,0,3867,0],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html":[6,0,1241],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a4e3c1f79f8115312f22612a4b8c6fede":[6,0,1241,6],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a77b40bcbada8ea43accae23ceb642628":[6,0,1241,11],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a7ac3be92303b77b640c7199ec65184dd":[6,0,1241,2],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a97f3cd9b1c5919ffe9ab979d8ad4e747":[6,0,1241,9],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a9d889b5112f6c93a0707227fc65dd902":[6,0,1241,1],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa203c37c8259c8b54ad5ec70db484f1":[6,0,1241,7],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa6f7b1aa064be00a726539830d6c30e":[6,0,1241,4],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1241,10],
@@ -240,14 +249,5 @@ var NAVTREEINDEX369 =
 "df/d04/classspell__putricide__ooze__channel.html#a9adbad7cc2185b22fb16135e78114548":[6,0,3514,2],
 "df/d04/classspell__putricide__ooze__channel.html#abe6d3ad0f06b2370f1a5985878d6af3d":[6,0,3514,7],
 "df/d05/classspell__q11026__a11051__banish__the__demons.html":[6,0,3551],
-"df/d05/classspell__q11026__a11051__banish__the__demons.html#a8b60ae77f13045a582548fe5d1186d54":[6,0,3551,0],
-"df/d05/classspell__q11026__a11051__banish__the__demons.html#a929c49d6dd30b6a0dedfbc23c877eb36":[6,0,3551,2],
-"df/d05/classspell__q11026__a11051__banish__the__demons.html#ad68619783c4a1aad5a24826bf5d89858":[6,0,3551,1],
-"df/d05/structVendorItem.html":[6,0,4144],
-"df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[6,0,4144,2],
-"df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4144,1],
-"df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4144,4],
-"df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4144,5],
-"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4144,0],
-"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4144,3]
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a8b60ae77f13045a582548fe5d1186d54":[6,0,3551,0]
 };
