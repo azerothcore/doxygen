@@ -20,6 +20,7 @@ var classInstanceScript =
     [ "DoRespawnCreature", "d2/d1e/classInstanceScript.html#a8a6dc670ee4712a033d891f4d5ac3f07", null ],
     [ "DoRespawnCreature", "d2/d1e/classInstanceScript.html#aa8136fc3ab6e5ddd6d3dfbdbe935f227", null ],
     [ "DoRespawnGameObject", "d2/d1e/classInstanceScript.html#aa528d1016aee9dbbe55b7933fe631917", null ],
+    [ "DoRespawnGameObject", "d2/d1e/classInstanceScript.html#a171f14d81fcb184893a4f28f76807611", null ],
     [ "DoSendNotifyToInstance", "d2/d1e/classInstanceScript.html#afb15c27a59a2fb73c12db0574d88946d", null ],
     [ "DoStartTimedAchievement", "d2/d1e/classInstanceScript.html#ac01ba61e0495829df66878fca191f7eb", null ],
     [ "DoStopTimedAchievement", "d2/d1e/classInstanceScript.html#ae9b6369a3b84cf474f74265c8c97f1fd", null ],

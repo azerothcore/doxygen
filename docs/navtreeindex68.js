@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af413a0d6aafa9c2e88b1ddad174ea49a":[7,0,0,0,1,2,48,0,7,42],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af442ec747e22414670b39b6a70304adc":[7,0,0,0,1,2,48,0,7,46],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af6c7329fe4933f38df25fa6f352c26fd":[7,0,0,0,1,2,48,0,7,178],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af6ed0fba08d10c6aefeea077f45ee5e3":[7,0,0,0,1,2,48,0,7,25],
@@ -244,10 +245,9 @@ var NAVTREEINDEX68 =
 "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780ab36a57fc195a2a254e2fd3d226d60262":[7,0,0,0,1,2,48,0,6,12],
 "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780accfa0e93b6c60e54b97e662630811163":[7,0,0,0,1,2,48,0,6,8],
 "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780aeafefe4d43382b4fd7eefd0d93d300ce":[7,0,0,0,1,2,48,0,6,4],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html":[6,0,2943],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a0d95f8ad8d05d2c0b100dc10988d00c9":[6,0,2943,2],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a6d251ba1e88d4349dcffa96978389a7f":[6,0,2943,1],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#acfa320b33c00883a78c3696bbbeb7eb0":[6,0,2943,0],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html":[6,0,1958,0],
-"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a04e43a623d16b4cf8d80552d649d90ca":[6,0,1958,0,3]
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html":[6,0,2940],
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a0d95f8ad8d05d2c0b100dc10988d00c9":[6,0,2940,2],
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a6d251ba1e88d4349dcffa96978389a7f":[6,0,2940,1],
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#acfa320b33c00883a78c3696bbbeb7eb0":[6,0,2940,0],
+"d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html":[6,0,1955,0]
 };

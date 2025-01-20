@@ -12,5 +12,6 @@ var instance__naxxramas_8cpp =
     [ "gameObjectData", "db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
     [ "HeiganEruptionSlope", "db/dd6/instance__naxxramas_8cpp.html#afc813e25da4423b11b3f71a4c3434b43", null ],
     [ "HeiganPos", "db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HorsemanCount", "db/dd6/instance__naxxramas_8cpp.html#ad95f54c0a227c67f4b8d5d346ffb7ec0", null ],
     [ "sapphironEntryTP", "db/dd6/instance__naxxramas_8cpp.html#a11d995fa7a0e4c0af781d298ab2ce3a7", null ]
 ];

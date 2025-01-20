@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a8cd23628f5cb3d874e2b6799430ca4c5":[7,0,0,0,1,2,8,0,1,10,19],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a928f8a26d7ddcc2cec91cb204e743817":[7,0,0,0,1,2,8,0,1,10,24],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a9cde6affef60e332122963574c994230":[7,0,0,0,1,2,8,0,1,10,0],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa3b9498412e6798dbe0619f472849a7b":[7,0,0,0,1,2,8,0,1,10,20],
@@ -106,11 +107,11 @@ var NAVTREEINDEX54 =
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b":[7,0,0,0,1,2,8,0,1,11,6],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a82345118263a37caa33c0f0fa160ee58":[7,0,0,0,1,2,8,0,1,11,0],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338adec8cd5886a496342cf2ade674f4edf6":[7,0,0,0,1,2,8,0,1,11,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[6,0,3970],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[6,0,3970,3],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[6,0,3970,2],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[6,0,3970,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[6,0,3970,0],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[6,0,3967],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[6,0,3967,3],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[6,0,3967,2],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[6,0,3967,1],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[6,0,3967,0],
 "d2/d38/northrend__script__loader_8cpp.html":[7,0,0,0,1,3,5,14],
 "d2/d38/northrend__script__loader_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[7,0,0,0,1,3,5,14,65],
 "d2/d38/northrend__script__loader_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,14,50],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#abe6e80b96bfca08ba67a03a41a1107be":[7,0,0,0,1,3,5,14,1],
 "d2/d38/northrend__script__loader_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3":[7,0,0,0,1,3,5,14,98],
 "d2/d38/northrend__script__loader_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[7,0,0,0,1,3,5,14,138],
-"d2/d38/northrend__script__loader_8cpp.html#ac8298d2bc33aa6752bc997cb838fe008":[7,0,0,0,1,3,5,14,153],
-"d2/d38/northrend__script__loader_8cpp.html#ac87d59ebbaf3103c87b5c31b3966957c":[7,0,0,0,1,3,5,14,33]
+"d2/d38/northrend__script__loader_8cpp.html#ac8298d2bc33aa6752bc997cb838fe008":[7,0,0,0,1,3,5,14,153]
 };

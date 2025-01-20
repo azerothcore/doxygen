@@ -1117,7 +1117,7 @@ var searchData=
   ['npc_5fhighlord_5falexandros_5fmograine_1114',['NPC_HIGHLORD_ALEXANDROS_MOGRAINE',['../dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1af224d8dc029d63e029d2899003bb50ea',1,'chapter5.cpp']]],
   ['npc_5fhighlord_5fbolvar_5ffordragon_5flh_1115',['NPC_HIGHLORD_BOLVAR_FORDRAGON_LH',['../d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a93a66e145b71c13fce4d76bdced77e4d',1,'icecrown_citadel.h']]],
   ['npc_5fhighlord_5fdarion_5fmograine_1116',['NPC_HIGHLORD_DARION_MOGRAINE',['../dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1aaeebfc31fb6c7ae089993d2801213efb',1,'chapter5.cpp']]],
-  ['npc_5fhighlord_5fmograine_1117',['NPC_HIGHLORD_MOGRAINE',['../db/d20/instance__scarlet__monastery_8cpp.html#aa81743ab4c26c296c96870d2ee418b2ca92a50d1f1606f4f249ee05de65e2c3b5',1,'instance_scarlet_monastery.cpp']]],
+  ['npc_5fhighlord_5fmograine_1117',['NPC_HIGHLORD_MOGRAINE',['../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5',1,'instance_scarlet_monastery.cpp']]],
   ['npc_5fhighlord_5fomokk_1118',['NPC_HIGHLORD_OMOKK',['../df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2aa549a7fb98f72c849212314432aeaf67',1,'blackrock_spire.h']]],
   ['npc_5fhighlord_5ftirion_5ffordring_1119',['NPC_HIGHLORD_TIRION_FORDRING',['../dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a38cf3d1191706948beec28ac2da3c620',1,'chapter5.cpp']]],
   ['npc_5fhighlord_5ftirion_5ffordring_5flh_1120',['NPC_HIGHLORD_TIRION_FORDRING_LH',['../d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aea9e467005afeec5b2005a062777a782',1,'icecrown_citadel.h']]],
