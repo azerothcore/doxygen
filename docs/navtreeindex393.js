@@ -1,6 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8b7b42f22b7e61865c189cadfc3f62a9":[7,0,0,0,1,3,5,6,4,57,12],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a94918dcd5642e40f5e5cbb0f747bf283":[7,0,0,0,1,3,5,6,4,57,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a968c472e15619221d6355e667e9e7c0d":[7,0,0,0,1,3,5,6,4,57,9],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a994639ba60ae479a74ee6dfe98c3103c":[7,0,0,0,1,3,5,6,4,57,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX393 =
 "df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a81010c7b22ac0dd95b2f5b9188f505be":[7,0,0,0,1,3,7,2,0,3,9,1],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,3,10],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97":[7,0,0,0,1,3,7,2,0,3,10,9],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca4005312cc9fcbd7a183df7391696d8b3":[7,0,0,0,1,3,7,2,0,3,10,11]
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca4005312cc9fcbd7a183df7391696d8b3":[7,0,0,0,1,3,7,2,0,3,10,11],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,7,2,0,3,10,0]
 };

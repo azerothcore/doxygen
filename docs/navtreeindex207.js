@@ -1,8 +1,8 @@
 var NAVTREEINDEX207 =
 {
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1894,0],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[6,0,1894,0,1],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1894,0,2],
@@ -143,8 +143,8 @@ var NAVTREEINDEX207 =
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,727,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,148],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,148,0],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,31,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,18],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,31,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,31,18,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,18,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],

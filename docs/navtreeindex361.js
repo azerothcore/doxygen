@@ -1,6 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"de/da3/ModuleMgr_8h.html":[7,0,0,0,1,2,29,1],
 "de/da3/ModuleMgr_8h.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[7,0,0,0,1,2,29,1,0],
 "de/da3/ModuleMgr_8h.html#ac16569c9333f642e54fa7a4ec6a948e3":[7,0,0,0,1,2,29,1,1],
 "de/da4/classspell__putricide__mutated__plague__aura.html":[6,0,3505],
@@ -249,5 +248,6 @@ var NAVTREEINDEX361 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8af8802925321277befc1a6574600af2":[7,0,0,0,1,1,0,0,1,1,338],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226":[7,0,0,0,1,1,0,0,1,1,278],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b5b1d6188848b4f6b8f3007bab57a86":[7,0,0,0,1,1,0,0,1,1,22],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b7a3863418371ab4f62a44ca202e5a0":[7,0,0,0,1,1,0,0,1,1,63]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b7a3863418371ab4f62a44ca202e5a0":[7,0,0,0,1,1,0,0,1,1,63],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2b4c7eec954ec3c9bbb73ad220fa":[7,0,0,0,1,1,0,0,1,1,365]
 };

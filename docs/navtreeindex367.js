@@ -1,6 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/dd9/AccountMgr_8h.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,0,0,1,2,0,1,5],
 "de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214":[7,0,0,0,1,2,0,1,8],
 "de/dd9/AccountMgr_8h.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,0,0,1,2,0,1,16],
 "de/dd9/AccountMgr_8h.html#a8280510b2564ec6ea76727218c1687b3":[7,0,0,0,1,2,0,1,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX367 =
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#af6c6214f8d506815afeeb2af4ad4a71b":[6,0,1303,0,12],
 "de/dea/structnpc__corrupted__totem.html":[6,0,1669],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[6,0,1669,3],
-"de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1669,4]
+"de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1669,4],
+"de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[6,0,1669,0]
 };

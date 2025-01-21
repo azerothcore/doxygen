@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,306,0],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[6,0,306,3],
 "df/d6e/BattlegroundBE_8cpp.html":[7,0,0,0,1,2,8,0,4],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html":[6,0,488,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "df/d79/Map_8h.html#a5ec110bd30ec47fcd087aaf5d572de28":[7,0,0,0,1,2,26,3,30],
 "df/d79/Map_8h.html#a661f965d11d7da56890b64484d871441":[7,0,0,0,1,2,26,3,25],
 "df/d79/Map_8h.html#a6d257e0effb928fba7534eeee5de602d":[7,0,0,0,1,2,26,3,28],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,3,38]
+"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,3,38],
+"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,3,38,3]
 };
