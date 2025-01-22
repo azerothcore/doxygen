@@ -211,8 +211,8 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1626</span>{</div>
-<div class="line"><span class="lineno"> 1627</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1664</span>{</div>
+<div class="line"><span class="lineno"> 1665</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -251,10 +251,10 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1631</span>{</div>
-<div class="line"><span class="lineno"> 1632</span>    <span class="keywordflow">if</span> (p-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#afd46bcfcf94e3c6bdbd7b23730a0b1ca">GetPetGUID</a>() == t-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() &amp;&amp; t-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
-<div class="line"><span class="lineno"> 1633</span>        ((<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>*) t)-&gt;Remove(<a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd">PET_SAVE_NOT_IN_SLOT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1634</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1669</span>{</div>
+<div class="line"><span class="lineno"> 1670</span>    <span class="keywordflow">if</span> (p-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#afd46bcfcf94e3c6bdbd7b23730a0b1ca">GetPetGUID</a>() == t-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() &amp;&amp; t-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
+<div class="line"><span class="lineno"> 1671</span>        ((<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>*) t)-&gt;Remove(<a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd">PET_SAVE_NOT_IN_SLOT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1672</span>}</div>
 <div class="ttc" id="aPetDefines_8h_html_a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd"><div class="ttname"><a href="../../d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd">PET_SAVE_NOT_IN_SLOT</a></div><div class="ttdeci">@ PET_SAVE_NOT_IN_SLOT</div><div class="ttdef"><b>Definition</b> PetDefines.h:45</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:112</div></div>
 <div class="ttc" id="aclassPet_html"><div class="ttname"><a href="../../df/d14/classPet.html">Pet</a></div><div class="ttdef"><b>Definition</b> Pet.h:41</div></div>
@@ -263,7 +263,7 @@ template&lt;&gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00694">Unit::GetPetGUID()</a>, <a class="el" href="../../#l00760">Unit::IsPet()</a>, and <a class="el" href="../../#l00045">PET_SAVE_NOT_IN_SLOT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01671">Player::UpdateVisibilityOf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01709">Player::UpdateVisibilityOf()</a>.</p>
 
 </div>
 </div>
@@ -282,27 +282,27 @@ template&lt;&gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  825</span>{</div>
-<div class="line"><span class="lineno">  826</span>    <span class="comment">/* According to El&#39;s Extreme Angling page, from 1 to 115 the probability of</span></div>
-<div class="line"><span class="lineno">  827</span><span class="comment">     * a skill level up is 100% since 100/1 = 100. From 115 - 135 should average</span></div>
-<div class="line"><span class="lineno">  828</span><span class="comment">     * 2 catches per skill up so that means 100/2 = 50%. This returns the</span></div>
-<div class="line"><span class="lineno">  829</span><span class="comment">     * probability depending on the player&#39;s SkillValue.</span></div>
-<div class="line"><span class="lineno">  830</span><span class="comment">     */</span></div>
-<div class="line"><span class="lineno">  831</span>    <span class="keywordflow">if</span> (!SkillValue)</div>
-<div class="line"><span class="lineno">  832</span>    {</div>
-<div class="line"><span class="lineno">  833</span>        <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno">  834</span>    }</div>
-<div class="line"><span class="lineno">  835</span> </div>
-<div class="line"><span class="lineno">  836</span>    std::array&lt;uint32, 10&gt; bounds {115, 135, 160, 190, 215,</div>
-<div class="line"><span class="lineno">  837</span>                                   295, 315, 355, 425, 450};</div>
-<div class="line"><span class="lineno">  838</span>    std::array&lt;float, 11&gt;  dens {1.0f, 2.0f, 3.0f, 4.0f, 5.0f, 6.0f,</div>
-<div class="line"><span class="lineno">  839</span>                                9.0f, 10.0f, 11.0f, 12.0f, 1.0f};</div>
-<div class="line"><span class="lineno">  840</span>    <span class="keyword">auto</span>                   it =</div>
-<div class="line"><span class="lineno">  841</span>        std::lower_bound(std::begin(bounds), std::end(bounds), SkillValue);</div>
-<div class="line"><span class="lineno">  842</span>    <span class="keywordflow">return</span> 100 / dens[std::distance(std::begin(bounds), it)];</div>
-<div class="line"><span class="lineno">  843</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  863</span>{</div>
+<div class="line"><span class="lineno">  864</span>    <span class="comment">/* According to El&#39;s Extreme Angling page, from 1 to 115 the probability of</span></div>
+<div class="line"><span class="lineno">  865</span><span class="comment">     * a skill level up is 100% since 100/1 = 100. From 115 - 135 should average</span></div>
+<div class="line"><span class="lineno">  866</span><span class="comment">     * 2 catches per skill up so that means 100/2 = 50%. This returns the</span></div>
+<div class="line"><span class="lineno">  867</span><span class="comment">     * probability depending on the player&#39;s SkillValue.</span></div>
+<div class="line"><span class="lineno">  868</span><span class="comment">     */</span></div>
+<div class="line"><span class="lineno">  869</span>    <span class="keywordflow">if</span> (!SkillValue)</div>
+<div class="line"><span class="lineno">  870</span>    {</div>
+<div class="line"><span class="lineno">  871</span>        <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno">  872</span>    }</div>
+<div class="line"><span class="lineno">  873</span> </div>
+<div class="line"><span class="lineno">  874</span>    std::array&lt;uint32, 10&gt; bounds {115, 135, 160, 190, 215,</div>
+<div class="line"><span class="lineno">  875</span>                                   295, 315, 355, 425, 450};</div>
+<div class="line"><span class="lineno">  876</span>    std::array&lt;float, 11&gt;  dens {1.0f, 2.0f, 3.0f, 4.0f, 5.0f, 6.0f,</div>
+<div class="line"><span class="lineno">  877</span>                                9.0f, 10.0f, 11.0f, 12.0f, 1.0f};</div>
+<div class="line"><span class="lineno">  878</span>    <span class="keyword">auto</span>                   it =</div>
+<div class="line"><span class="lineno">  879</span>        std::lower_bound(std::begin(bounds), std::end(bounds), SkillValue);</div>
+<div class="line"><span class="lineno">  880</span>    <span class="keywordflow">return</span> 100 / dens[std::distance(std::begin(bounds), it)];</div>
+<div class="line"><span class="lineno">  881</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00845">Player::UpdateFishingSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00883">Player::UpdateFishingSkill()</a>.</p>
 
 </div>
 </div>
@@ -351,15 +351,15 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  711</span>{</div>
-<div class="line"><span class="lineno">  712</span>    <span class="keywordflow">if</span> (SkillValue &gt;= GrayLevel)</div>
-<div class="line"><span class="lineno">  713</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af0dec07495e5bb36ef8657d63838ed98">CONFIG_SKILL_CHANCE_GREY</a>) * 10;</div>
-<div class="line"><span class="lineno">  714</span>    <span class="keywordflow">if</span> (SkillValue &gt;= GreenLevel)</div>
-<div class="line"><span class="lineno">  715</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af7ef0b3043872b9d78aaed5d658b19f6">CONFIG_SKILL_CHANCE_GREEN</a>) * 10;</div>
-<div class="line"><span class="lineno">  716</span>    <span class="keywordflow">if</span> (SkillValue &gt;= YellowLevel)</div>
-<div class="line"><span class="lineno">  717</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a402c1518e230bc7bbe0ba6a646c73c9c">CONFIG_SKILL_CHANCE_YELLOW</a>) * 10;</div>
-<div class="line"><span class="lineno">  718</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a2017230fc8e29bed64b9489c530720e0">CONFIG_SKILL_CHANCE_ORANGE</a>) * 10;</div>
-<div class="line"><span class="lineno">  719</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  749</span>{</div>
+<div class="line"><span class="lineno">  750</span>    <span class="keywordflow">if</span> (SkillValue &gt;= GrayLevel)</div>
+<div class="line"><span class="lineno">  751</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af0dec07495e5bb36ef8657d63838ed98">CONFIG_SKILL_CHANCE_GREY</a>) * 10;</div>
+<div class="line"><span class="lineno">  752</span>    <span class="keywordflow">if</span> (SkillValue &gt;= GreenLevel)</div>
+<div class="line"><span class="lineno">  753</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af7ef0b3043872b9d78aaed5d658b19f6">CONFIG_SKILL_CHANCE_GREEN</a>) * 10;</div>
+<div class="line"><span class="lineno">  754</span>    <span class="keywordflow">if</span> (SkillValue &gt;= YellowLevel)</div>
+<div class="line"><span class="lineno">  755</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a402c1518e230bc7bbe0ba6a646c73c9c">CONFIG_SKILL_CHANCE_YELLOW</a>) * 10;</div>
+<div class="line"><span class="lineno">  756</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a2017230fc8e29bed64b9489c530720e0">CONFIG_SKILL_CHANCE_ORANGE</a>) * 10;</div>
+<div class="line"><span class="lineno">  757</span>}</div>
 <div class="ttc" id="aIWorld_8h_html_a17aac4c166ebe43e3b8fdccf9e012e41a2017230fc8e29bed64b9489c530720e0"><div class="ttname"><a href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a2017230fc8e29bed64b9489c530720e0">CONFIG_SKILL_CHANCE_ORANGE</a></div><div class="ttdeci">@ CONFIG_SKILL_CHANCE_ORANGE</div><div class="ttdef"><b>Definition</b> IWorld.h:265</div></div>
 <div class="ttc" id="aIWorld_8h_html_a17aac4c166ebe43e3b8fdccf9e012e41a402c1518e230bc7bbe0ba6a646c73c9c"><div class="ttname"><a href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a402c1518e230bc7bbe0ba6a646c73c9c">CONFIG_SKILL_CHANCE_YELLOW</a></div><div class="ttdeci">@ CONFIG_SKILL_CHANCE_YELLOW</div><div class="ttdef"><b>Definition</b> IWorld.h:266</div></div>
 <div class="ttc" id="aIWorld_8h_html_a17aac4c166ebe43e3b8fdccf9e012e41af0dec07495e5bb36ef8657d63838ed98"><div class="ttname"><a href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af0dec07495e5bb36ef8657d63838ed98">CONFIG_SKILL_CHANCE_GREY</a></div><div class="ttdeci">@ CONFIG_SKILL_CHANCE_GREY</div><div class="ttdef"><b>Definition</b> IWorld.h:268</div></div>
@@ -368,7 +368,7 @@ template&lt;&gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00267">CONFIG_SKILL_CHANCE_GREEN</a>, <a class="el" href="../../#l00268">CONFIG_SKILL_CHANCE_GREY</a>, <a class="el" href="../../#l00265">CONFIG_SKILL_CHANCE_ORANGE</a>, <a class="el" href="../../#l00266">CONFIG_SKILL_CHANCE_YELLOW</a>, and <a class="el" href="../../#l00443">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00783">Player::UpdateCraftSkill()</a>, and <a class="el" href="../../#l00721">Player::UpdateGatherSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00821">Player::UpdateCraftSkill()</a>, and <a class="el" href="../../#l00759">Player::UpdateGatherSkill()</a>.</p>
 
 </div>
 </div>
@@ -413,10 +413,10 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1611</span>{</div>
-<div class="line"><span class="lineno"> 1612</span>    s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1613</span>    v.push_back(target);</div>
-<div class="line"><span class="lineno"> 1614</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1649</span>{</div>
+<div class="line"><span class="lineno"> 1650</span>    s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1651</span>    v.push_back(target);</div>
+<div class="line"><span class="lineno"> 1652</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>.</p>
 
@@ -463,12 +463,12 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1601</span>{</div>
-<div class="line"><span class="lineno"> 1602</span>    <span class="comment">// @HACK: This is to prevent objects like deeprun tram from disappearing</span></div>
-<div class="line"><span class="lineno"> 1603</span>    <span class="comment">// when player moves far from its spawn point while riding it</span></div>
-<div class="line"><span class="lineno"> 1604</span>    <span class="keywordflow">if</span> ((target-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a230c015ae8c6e13d4cbb3285426f6bc0">GAMEOBJECT_TYPE_TRANSPORT</a>))</div>
-<div class="line"><span class="lineno"> 1605</span>        s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1606</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1639</span>{</div>
+<div class="line"><span class="lineno"> 1640</span>    <span class="comment">// @HACK: This is to prevent objects like deeprun tram from disappearing</span></div>
+<div class="line"><span class="lineno"> 1641</span>    <span class="comment">// when player moves far from its spawn point while riding it</span></div>
+<div class="line"><span class="lineno"> 1642</span>    <span class="keywordflow">if</span> ((target-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a230c015ae8c6e13d4cbb3285426f6bc0">GAMEOBJECT_TYPE_TRANSPORT</a>))</div>
+<div class="line"><span class="lineno"> 1643</span>        s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1644</span>}</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9a230c015ae8c6e13d4cbb3285426f6bc0"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a230c015ae8c6e13d4cbb3285426f6bc0">GAMEOBJECT_TYPE_TRANSPORT</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_TRANSPORT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1571</div></div>
 <div class="ttc" id="aclassGameObject_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition</b> GameObject.h:136</div></div>
 <div class="ttc" id="astructGameObjectTemplate_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition</b> GameObjectData.h:33</div></div>
@@ -518,10 +518,10 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1619</span>{</div>
-<div class="line"><span class="lineno"> 1620</span>    s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1621</span>    v.push_back(target);</div>
-<div class="line"><span class="lineno"> 1622</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1657</span>{</div>
+<div class="line"><span class="lineno"> 1658</span>    s64.insert(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1659</span>    v.push_back(target);</div>
+<div class="line"><span class="lineno"> 1660</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>.</p>
 
@@ -568,11 +568,11 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1594</span>{</div>
-<div class="line"><span class="lineno"> 1595</span>    s64.insert(target-&gt;GetGUID());</div>
-<div class="line"><span class="lineno"> 1596</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1632</span>{</div>
+<div class="line"><span class="lineno"> 1633</span>    s64.insert(target-&gt;GetGUID());</div>
+<div class="line"><span class="lineno"> 1634</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01637">Player::UpdateVisibilityOf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01675">Player::UpdateVisibilityOf()</a>.</p>
 
 </div>
 </div>
@@ -596,9 +596,9 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  868</span>{75, 150, 225, 300, 375, 450};</div>
+<div class="fragment"><div class="line"><span class="lineno">  906</span>{75, 150, 225, 300, 375, 450};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00872">Player::UpdateSkillPro()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00910">Player::UpdateSkillPro()</a>.</p>
 
 </div>
 </div>
@@ -624,9 +624,9 @@ template&lt;class T &gt; </div>
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">    <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../da/d64/PlayerUpdates_8cpp.html#a72b3624ee55553e28f82ef06d7c74c6a">bonusSkillLevels</a>) / <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
-<div class="ttc" id="aPlayerUpdates_8cpp_html_a72b3624ee55553e28f82ef06d7c74c6a"><div class="ttname"><a href="../../da/d64/PlayerUpdates_8cpp.html#a72b3624ee55553e28f82ef06d7c74c6a">bonusSkillLevels</a></div><div class="ttdeci">static uint32 bonusSkillLevels[]</div><div class="ttdef"><b>Definition</b> PlayerUpdates.cpp:868</div></div>
+<div class="ttc" id="aPlayerUpdates_8cpp_html_a72b3624ee55553e28f82ef06d7c74c6a"><div class="ttname"><a href="../../da/d64/PlayerUpdates_8cpp.html#a72b3624ee55553e28f82ef06d7c74c6a">bonusSkillLevels</a></div><div class="ttdeci">static uint32 bonusSkillLevels[]</div><div class="ttdef"><b>Definition</b> PlayerUpdates.cpp:906</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00872">Player::UpdateSkillPro()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00910">Player::UpdateSkillPro()</a>.</p>
 
 </div>
 </div>
@@ -651,7 +651,7 @@ template&lt;class T &gt; </div>
 </div><div class="memdoc">
 <dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000059">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00053">Player::Update()</a>, and <a class="el" href="../../#l01209">Player::UpdateZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">Player::Update()</a>, and <a class="el" href="../../#l01247">Player::UpdateZone()</a>.</p>
 
 </div>
 </div>
@@ -661,7 +661,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_47dd4bd942ccc740eef16326f5a4c0e4.html">Player</a></li><li class="navelem"><a class="el" href="../../da/d64/PlayerUpdates_8cpp.html">PlayerUpdates.cpp</a></li>
-    <li class="footer">Generated on Tue Jan 21 2025 06:19:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 22 2025 06:19:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

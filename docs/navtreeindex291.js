@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[6,0,1188,0],
+"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1188,3],
 "db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[6,0,1188,7],
 "db/df2/structGossipMenuItems.html#a6f41e9adfcb11adabdd79b55c1d47bfc":[6,0,1188,11],
 "db/df2/structGossipMenuItems.html#a9a20a64e29d0464c40f57286b9c1804d":[6,0,1188,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4":[7,0,0,0,1,3,9,8,82,3],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15":[7,0,0,0,1,3,9,8,82,0],
 "db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844b":[7,0,0,0,1,3,9,8,114],
-"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844ba783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,9,8,114,1],
-"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844bae78401d214538c5ff3813acd41b34f9a":[7,0,0,0,1,3,9,8,114,0],
-"db/dfb/spell__quest_8cpp.html#a95a2ca28961093a73b56ce09f2aa1e8a":[7,0,0,0,1,3,9,8,78]
+"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844ba783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,9,8,114,1]
 };

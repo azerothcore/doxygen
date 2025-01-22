@@ -437,7 +437,7 @@ var searchData=
   ['_5fdefenderskilled_434',['_defendersKilled',['../da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#abb53f597c52726680dd20f4946dc363b',1,'instance_sunken_temple::instance_sunken_temple_InstanceMapScript']]],
   ['_5fdefenseskill_435',['_defenseSkill',['../d5/d65/structlfg_1_1RBInternalInfo.html#ae054e980b0874ed79177ccf4d01ee153',1,'lfg::RBInternalInfo']]],
   ['_5fdeforestation_436',['_deforestation',['../d3/d07/structboss__freya_1_1boss__freyaAI.html#afa6d2870adc9b550f3ca6c190bb61b4c',1,'boss_freya::boss_freyaAI']]],
-  ['_5fdelay_437',['_delay',['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay'],['../de/d9d/classspell__hadronox__summon__periodic__aura.html#a191d7eec948e0753835bd41eef66f1ec',1,'spell_hadronox_summon_periodic_aura::_delay']]],
+  ['_5fdelay_437',['_delay',['../de/d9d/classspell__hadronox__summon__periodic__aura.html#a191d7eec948e0753835bd41eef66f1ec',1,'spell_hadronox_summon_periodic_aura::_delay'],['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay']]],
   ['_5fdelayedteleport_438',['_delayedTeleport',['../de/da9/classMotionTransport.html#a3715caa515f3096c9c03a1b64bd8bebf',1,'MotionTransport']]],
   ['_5fdelaytimer_439',['_delayTimer',['../df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be',1,'npc_ranshalla::npc_ranshallaAI']]],
   ['_5fdescription_440',['_description',['../d8/dff/structCalendarEvent.html#a37852d77353b86569274368bd6d01076',1,'CalendarEvent']]],

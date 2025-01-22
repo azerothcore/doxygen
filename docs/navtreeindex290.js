@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/de9/classspell__pursue.html":[6,0,3498],
+"db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3498,0],
 "db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3498,2],
 "db/de9/classspell__pursue.html#aef8bfe18b42bcc9ad70378c0d78354e7":[6,0,3498,1],
 "db/de9/classspell__pursue.html#afabe09f8d9a9a10855d6469e8a3db30f":[6,0,3498,3],
@@ -163,14 +165,14 @@ var NAVTREEINDEX290 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1490,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3102],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3102,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3102,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/df2/structGossipMenuItems.html":[6,0,1188],
 "db/df2/structGossipMenuItems.html#a0b73f7ce36e7703725e6b0d01c2a4564":[6,0,1188,9],
 "db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1188,2],
-"db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1188,12],
-"db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[6,0,1188,0],
-"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1188,3]
+"db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1188,12]
 };

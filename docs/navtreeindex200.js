@@ -1,5 +1,7 @@
 var NAVTREEINDEX200 =
 {
+"d7/db6/structAISpellInfoType.html#a6ea49fdc98ece29ceee63352424e9366":[6,0,142,2],
+"d7/db6/structAISpellInfoType.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4":[6,0,142,5],
 "d7/db6/structAISpellInfoType.html#ab421f918f3cb479d2d0390cd98cdeae3":[6,0,142,3],
 "d7/db6/structAISpellInfoType.html#af357bcc7eaeaf88a107a6309c468d53d":[6,0,142,1],
 "d7/db7/classboss__urok__doomhowl.html":[6,0,738],
@@ -247,7 +249,5 @@ var NAVTREEINDEX200 =
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#adb4e884787dc480358c5be22d276ec49":[6,0,1803,0,7],
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#adf6d85bc5a32c8bd7c125d24f67411d9":[6,0,1803,0,5],
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#aea867d06cb737e2a44445c2c8c7d6e45":[6,0,1803,0,9],
-"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#afe38e448d86cdf910870d72a3890ae1f":[6,0,1803,0,4],
-"d7/dc5/AchievementMgr_8h.html":[7,0,0,0,1,2,1,1],
-"d7/dc5/AchievementMgr_8h.html#a3d51ce6b9e37b72772cea78f064e5a77":[7,0,0,0,1,2,1,1,16]
+"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#afe38e448d86cdf910870d72a3890ae1f":[6,0,1803,0,4]
 };

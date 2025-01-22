@@ -1,13 +1,15 @@
 var NAVTREEINDEX249 =
 {
+"da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,116],
+"da/d4b/classAcore_1_1SignalHandler.html":[6,0,0,104],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[6,0,0,104,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,1,116,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[6,0,0,104,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,1,116,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,104,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,1,116,1],
-"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[6,0,0,104,0],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,104,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,116,0],
+"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[6,0,0,104,0],
 "da/d4b/classCastArmageddon.html":[6,0,821],
 "da/d4b/classCastArmageddon.html#a1e70887099a7a47b7c26517d4363ad93":[6,0,821,2],
 "da/d4b/classCastArmageddon.html#a2e90929b63e6151252aa01a55dbd801f":[6,0,821,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX249 =
 "da/d53/boss__eregos_8cpp.html":[7,0,0,0,1,3,5,8,2,1],
 "da/d53/boss__eregos_8cpp.html#a08343cea04d45054f3c55b70c2c4f77a":[7,0,0,0,1,3,5,8,2,1,2],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,2,1,5],
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,1,5,4],
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,1,5,1],
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,2,1,5,3]
+"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,1,5,4]
 };

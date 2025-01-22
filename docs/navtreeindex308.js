@@ -1,5 +1,7 @@
 var NAVTREEINDEX308 =
 {
+"dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[6,0,3477,5],
+"dc/dc9/ObjectGuid_8h.html":[7,0,0,0,1,2,16,5,5],
 "dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,5,19],
 "dc/dc9/ObjectGuid_8h.html#a173958393e55b3150391dfb3a6d387ed":[7,0,0,0,1,2,16,5,5,15],
 "dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2":[7,0,0,0,1,2,16,5,5,17],
@@ -111,10 +113,10 @@ var NAVTREEINDEX308 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,79,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,67,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,79,1],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,79,3],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,67,5],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,79,5],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,67,5],
 "dc/dd2/classboss__hadronox.html":[6,0,499],
 "dc/dd2/classboss__hadronox.html#a90bf0ecb218e30e61852baffeabc3dc1":[6,0,499,2],
 "dc/dd2/classboss__hadronox.html#ae3457fd6108cc350cf9eedab3178f781":[6,0,499,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dd9/structDuelInfo.html#a2765770367c839ad28f804e2df3205cb":[6,0,969,3],
 "dc/dd9/structDuelInfo.html#a8ff9ae1c990674b6ac0cd929f5114f23":[6,0,969,4],
 "dc/dd9/structDuelInfo.html#ad80e3507a7bdfc8f7dbebd07697c464f":[6,0,969,2],
-"dc/dd9/structDuelInfo.html#ae1a6667f934c88ad8f0b160e6a8b1190":[6,0,969,1],
-"dc/dd9/structDuelInfo.html#ae8492a9857d819fcec56a10cfd5051e2":[6,0,969,6],
-"dc/dda/classspell__pal__judgement__of__command.html":[6,0,3448]
+"dc/dd9/structDuelInfo.html#ae1a6667f934c88ad8f0b160e6a8b1190":[6,0,969,1]
 };

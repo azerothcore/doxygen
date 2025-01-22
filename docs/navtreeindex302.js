@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"dc/d67/classboss__garfrost.html#ac116491cf252ee476cedee55ea292827":[6,0,473,1],
+"dc/d69/classboss__skadi.html":[6,0,688],
 "dc/d69/classboss__skadi.html#a124c1c1de7ba232b3256a65547370464":[6,0,688,1],
 "dc/d69/classboss__skadi.html#a4b66199169442af5ec6542be71c19033":[6,0,688,2],
 "dc/d6a/namespaceAcore_1_1SpellScripts.html":[5,0,1,12],
@@ -60,14 +62,14 @@ var NAVTREEINDEX302 =
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f":[7,0,0,0,1,3,10,1,3,1],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7":[7,0,0,0,1,3,10,1,3,10],
 "dc/d6f/action__ip__logger_8cpp.html#a530be5efb251d5ca58e97804e48ad953":[7,0,0,0,1,3,10,1,4],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[6,0,0,15],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[5,0,1,27],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,1,27,1],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[6,0,0,15],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,15,1],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,1,27,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,1,27,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,15,0],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,15,2],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,15,3],
 "dc/d70/boss__grobbulus_8cpp.html":[7,0,0,0,1,3,5,7,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d7b/structTempSummonGroupKey.html":[6,0,4060],
 "dc/d7b/structTempSummonGroupKey.html#a0ecac0e82ce63c9e64f2e17d941df447":[6,0,4060,2],
 "dc/d7b/structTempSummonGroupKey.html#a1a90f3bf90363f88828cc217dd7ceda6":[6,0,4060,4],
-"dc/d7b/structTempSummonGroupKey.html#ac6bf8fb36092134f63409f3cddc5f810":[6,0,4060,3],
-"dc/d7b/structTempSummonGroupKey.html#ae1bd752c8fc7d037d6942b32859ce1ad":[6,0,4060,0],
-"dc/d7b/structTempSummonGroupKey.html#ae92c7712bd58b9b773ddaac3d2b8a345":[6,0,4060,1]
+"dc/d7b/structTempSummonGroupKey.html#ac6bf8fb36092134f63409f3cddc5f810":[6,0,4060,3]
 };

@@ -84,6 +84,7 @@ var classInstanceScript =
     [ "SetHeaders", "d2/d1e/classInstanceScript.html#af245e9c6f05b94e3ca41f7f25915db95", null ],
     [ "SetPersistentDataCount", "d2/d1e/classInstanceScript.html#a7a4c24cd9accd749ef1b402bedfdb97b", null ],
     [ "SetSummoner", "d2/d1e/classInstanceScript.html#af7832c833c3d996cd0c0a30209e3efe1", null ],
+    [ "SetTeamIdInInstance", "d2/d1e/classInstanceScript.html#a01a470669bcb4dc92361d66a8f0f2357", null ],
     [ "StoreGameObjectState", "d2/d1e/classInstanceScript.html#a33669bd91132f4f7adcf7837bd3dc79a", null ],
     [ "StorePersistentData", "d2/d1e/classInstanceScript.html#a90352246c6aca70f025fe4233ac32d04", null ],
     [ "Update", "d2/d1e/classInstanceScript.html#acbfafe42a012a82f968d92ea93bd7870", null ],

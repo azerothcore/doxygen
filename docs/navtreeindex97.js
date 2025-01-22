@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adfcae59f1ecb69193139540751b63566":[7,0,0,0,1,3,5,2,0,4,2,1],
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aecabad3faea06eea3d7351ca76671746":[7,0,0,0,1,3,5,2,0,4,2,6],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1165],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1165,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d5d/classinstance__naxxramas.html#ac5dd8d591af2239faab17727eb1ef66e":[6,0,1291,2],
 "d3/d5d/classspell__saviana__conflagration__throwback.html":[6,0,3678],
 "d3/d5d/classspell__saviana__conflagration__throwback.html#a0077abbe11092b9636c3bb7b5c367946":[6,0,3678,2],
-"d3/d5d/classspell__saviana__conflagration__throwback.html#a55dec84643f9bd536c7c73b5909ab303":[6,0,3678,1],
-"d3/d5d/classspell__saviana__conflagration__throwback.html#a647f39eb125537cd7545ab4115be1091":[6,0,3678,0],
-"d3/d5d/structVMAP_1_1MapSpawns.html":[6,0,9,12]
+"d3/d5d/classspell__saviana__conflagration__throwback.html#a55dec84643f9bd536c7c73b5909ab303":[6,0,3678,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX356 =
 {
+"de/d69/classgo__skull__pile.html#a9cf8dfef432c4967c60f66e645585770":[6,0,1156,0],
+"de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[6,0,1156,1],
 "de/d69/classgo__skull__pile.html#af74fcd75404c0886128401d661067394":[6,0,1156,4],
 "de/d69/classgo__skull__pile.html#afb8e8db2705355e975fa48c98e09f20b":[6,0,1156,2],
 "de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html":[6,0,1869,0],
@@ -19,16 +21,16 @@ var NAVTREEINDEX356 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1939,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1939,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1939,0,5],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,19,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,19,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,19,19,1],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,19,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,19,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,19,19,0],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,19,19,3],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,19,19,3],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[6,0,1690],
 "de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[6,0,1690,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX356 =
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f":[5,0,19,48,7],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04":[5,0,19,48,8],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd":[5,0,19,48,10],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776":[5,0,19,48,16],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004":[5,0,19,48,3],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8":[5,0,19,48,6]
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776":[5,0,19,48,16]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"dc/de8/structnpc__kalecgos__kj.html#aae30bdf82ff333ef02a1981717c54ea4":[6,0,1873,0],
+"dc/de8/structnpc__kalecgos__kj.html#ab3cd4229999bddc16fe8152acb187111":[6,0,1873,3],
 "dc/de8/structnpc__kalecgos__kj.html#ab5cc58e293e20172558e15fa28670633":[6,0,1873,5],
 "dc/de8/structnpc__kalecgos__kj.html#acf92559a2b06b8c9cce5c4887dd1316b":[6,0,1873,2],
 "dc/de9/Opcodes_8cpp.html":[7,0,0,0,1,2,39,1,0],
@@ -206,16 +208,16 @@ var NAVTREEINDEX311 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,3935,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,3935,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,3935,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,745],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,745,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[6,0,745,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "dc/dfb/classReactorAI.html":[6,0,2439],
 "dc/dfb/classReactorAI.html#a10c4c10d9ac942990d1a1ef9eb6603ad":[6,0,2439,3],
 "dc/dfb/classReactorAI.html#a1b0845464b0d356be7bf38e65ab5eb19":[6,0,2439,2],
-"dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2439,1],
-"dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2439,0],
-"dc/dfb/classUpdateTime.html":[6,0,4125]
+"dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2439,1]
 };

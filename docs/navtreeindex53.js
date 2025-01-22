@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/classspell__warr__deep__wounds.html#a93e68d77227297883aae472ef08fb67c":[6,0,3914,3],
 "d2/d27/structBossBoundaryData.html":[6,0,795],
 "d2/d27/structBossBoundaryData.html#a326930360d22d5fdf9a895991f2c4e49":[6,0,795,4],
 "d2/d27/structBossBoundaryData.html#a3f80cd89e43eae1a74e2b0a6a674d0cb":[6,0,795,2],
@@ -63,8 +64,8 @@ var NAVTREEINDEX53 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,879,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,879,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,879,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,31,7,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,31,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a46f103b7cf27050acc515398fd3e869a":[7,0,0,0,1,2,8,0,1,10,17],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4b77b0df124be1f9e77637feeef4af17":[7,0,0,0,1,2,8,0,1,10,16],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4d4b2d0c09eebec8e2fbf2048239f905":[7,0,0,0,1,2,8,0,1,10,26],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103":[7,0,0,0,1,2,8,0,1,10,14],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273":[7,0,0,0,1,2,8,0,1,10,10]
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103":[7,0,0,0,1,2,8,0,1,10,14]
 };

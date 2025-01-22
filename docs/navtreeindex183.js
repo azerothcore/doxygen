@@ -1,14 +1,16 @@
 var NAVTREEINDEX183 =
 {
+"d7/d1e/structnpc__warchief__portal.html#a1a52395a5ae66f5cc5f92c6d4ce81893":[6,0,2232,0],
+"d7/d1e/structnpc__warchief__portal.html#a538ab8c6e7683aa02e8c75f9dd900be8":[6,0,2232,2],
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2232,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2232,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2232,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[7,0,0,0,1,3,5,25,24],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370":[7,0,0,0,1,3,5,25,24,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3d8e0e38aa4a063429df3da1ce62f6fe":[7,0,0,0,1,3,2,1,0,1,3,8],
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3e21968d52df0e895e9ec41fe757e868":[7,0,0,0,1,3,2,1,0,1,3,5],
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3ee86cac9df08dcaa8ccab7abf35b3a3":[7,0,0,0,1,3,2,1,0,1,3,14],
-"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add":[7,0,0,0,1,3,2,1,0,1,3,34],
-"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a4f91d0e6048cc929f518f54464a0c735":[7,0,0,0,1,3,2,1,0,1,3,2],
-"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a5a8d75aa9b1ad564ff05d9329d86b403":[7,0,0,0,1,3,2,1,0,1,3,12]
+"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add":[7,0,0,0,1,3,2,1,0,1,3,34]
 };

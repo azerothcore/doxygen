@@ -1,5 +1,7 @@
 var NAVTREEINDEX210 =
 {
+"d8/d37/classspell__hun__bestial__wrath.html#ac1bc3f881c31c5ab90785a62a5f5b5ae":[6,0,3042,0],
+"d8/d38/LogOperation_8cpp.html":[7,0,0,0,0,9,15],
 "d8/d38/classspell__sapphiron__frost__explosion.html":[6,0,3673],
 "d8/d38/classspell__sapphiron__frost__explosion.html#a452937a4e95b40366f915213ec475a84":[6,0,3673,1],
 "d8/d38/classspell__sapphiron__frost__explosion.html#a4d5340e7b2e3326ff36b4d61d1faeaa9":[6,0,3673,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d4b/classObject.html#ad951343e568f25e4db54e64d19c964dd":[6,0,2274,86],
 "d8/d4b/classObject.html#ada61cb59931e3c02624a63161997bf20":[6,0,2274,51],
 "d8/d4b/classObject.html#adacf40e17c0582b835dde700d4f36aa5":[6,0,2274,79],
-"d8/d4b/classObject.html#adc648c59e740565161b8c8b29dc0f3e5":[6,0,2274,74],
-"d8/d4b/classObject.html#adc7e9b205f35f9894ec9a4f0ec0871f9":[6,0,2274,90],
-"d8/d4b/classObject.html#ade938856f818c4a7e722b2c4509655c2":[6,0,2274,118]
+"d8/d4b/classObject.html#adc648c59e740565161b8c8b29dc0f3e5":[6,0,2274,74]
 };

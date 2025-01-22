@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeadb17c9a6dbec4722b8ea5d2ca9087ac0":[7,0,0,0,1,3,5,23,28,4],
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213":[7,0,0,0,1,3,5,23,28,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0":[7,0,0,0,1,3,5,23,28,5],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709":[7,0,0,0,1,3,5,23,23],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8":[7,0,0,0,1,3,5,23,23,2],
@@ -163,8 +165,8 @@ var NAVTREEINDEX327 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,610,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2125],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#af0c1477b3d9fb48cfcf55f32e21591f4":[6,0,427,0,7],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#af41946feab7b86d812f706bd7abbf1bd":[6,0,427,0,3],
 "dd/dc5/classgo__orb__of__domination.html":[6,0,1141],
-"dd/dc5/classgo__orb__of__domination.html#a1d4659e21344a12ec6084ef7ef5df7d0":[6,0,1141,0],
-"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1141,1],
-"dd/dc5/structnpc__doomfire__spirit.html":[6,0,1715]
+"dd/dc5/classgo__orb__of__domination.html#a1d4659e21344a12ec6084ef7ef5df7d0":[6,0,1141,0]
 };

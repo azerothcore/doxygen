@@ -1,5 +1,7 @@
 var NAVTREEINDEX204 =
 {
+"d7/def/classFrozenThroneResetWorker.html#afd21e9c1449d4e391713256e197bc92b":[6,0,1049,0],
+"d7/def/classboss__four__horsemen.html":[6,0,458],
 "d7/def/classboss__four__horsemen.html#a3ee27da1d0da48306cc10c17c9411d1a":[6,0,458,2],
 "d7/def/classboss__four__horsemen.html#a6bcaf9a12d854a322f50ac2f98dbb72b":[6,0,458,1],
 "d7/def/classspell__the__lich__king__vile__spirits__visual.html":[6,0,3820],
@@ -247,7 +249,5 @@ var NAVTREEINDEX204 =
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac6f4bdb76e70e28c403bbd02bf4a969d":[7,0,0,0,1,2,16,10,6,7,17],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cad1fdce3b8651f9cc379452c672b19245":[7,0,0,0,1,2,16,10,6,7,12],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadc094fb8dc4c8a87fffe3eac62b84ad4":[7,0,0,0,1,2,16,10,6,7,22],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadcc1e9eb63ae2e0530c35f95767cfa5a":[7,0,0,0,1,2,16,10,6,7,7],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadede345fd72f3a48598be8a70afe65ca":[7,0,0,0,1,2,16,10,6,7,2],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cae52ec1864a96665f18b681a021b40d1e":[7,0,0,0,1,2,16,10,6,7,11]
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadcc1e9eb63ae2e0530c35f95767cfa5a":[7,0,0,0,1,2,16,10,6,7,7]
 };

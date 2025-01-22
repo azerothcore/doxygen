@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1141,1],
+"dd/dc5/structnpc__doomfire__spirit.html":[6,0,1715],
 "dd/dc5/structnpc__doomfire__spirit.html#a0600718fad91723eba74b903583c5942":[6,0,1715,1],
 "dd/dc5/structnpc__doomfire__spirit.html#a3d16e8437c2e90ad1ab5de609f4fcff0":[6,0,1715,0],
 "dd/dc5/structnpc__doomfire__spirit.html#a7fc48df636df66a006a8179fd63e2a65":[6,0,1715,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a383986e4e1b1b96e5c921fcf222b7bf8":[7,0,0,0,1,2,38,0,75,1,109],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38b3899c46b1d16f8071921fd6dd1516":[7,0,0,0,1,2,38,0,75,1,97],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38bd0023c59c4a5bc8761e35b54466c0":[7,0,0,0,1,2,38,0,75,1,3],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[7,0,0,0,1,2,38,0,75,1,135],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[7,0,0,0,1,2,38,0,75,1,58],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[7,0,0,0,1,2,38,0,75,1,165]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[7,0,0,0,1,2,38,0,75,1,135]
 };

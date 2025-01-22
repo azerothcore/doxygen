@@ -1,5 +1,7 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2c/namespaceGitRevision.html#abd1a810f85a1f404d88e3f7e61cc85cc":[5,0,18,10],
+"d3/d2c/namespaceGitRevision.html#ad63ab422bd364927fa88a394e82fc2a7":[5,0,18,9],
 "d3/d2c/namespaceGitRevision.html#ad68b75fc60314941c3cbade8eafcda23":[5,0,18,7],
 "d3/d2c/namespaceGitRevision.html#addcf1401768f04ea13a6e868d9580605":[5,0,18,8],
 "d3/d2c/structboss__huhuran.html":[6,0,521],
@@ -247,7 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a3e97649ec5321791dd8d502190da103b":[7,0,0,0,1,3,5,9,2,13,61,11],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a410c2060d0090664c0d5958e116dd0e4":[7,0,0,0,1,3,5,9,2,13,61,3],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a4dc3c9ef6343b2ed9aafad0f5fe3287f":[7,0,0,0,1,3,5,9,2,13,61,7],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a565dcee03b998d30d9abd0af161d0b3c":[7,0,0,0,1,3,5,9,2,13,61,8],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a59b5dd8939e8cce174a056513339d396":[7,0,0,0,1,3,5,9,2,13,61,2],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a67331f4822ab2c7c6c82e821c2e4a26a":[7,0,0,0,1,3,5,9,2,13,61,33]
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a565dcee03b998d30d9abd0af161d0b3c":[7,0,0,0,1,3,5,9,2,13,61,8]
 };

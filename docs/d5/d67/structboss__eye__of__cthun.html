@@ -729,7 +729,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassCreature_html_a50cbb98572134a854c21c0ff8221c380"><div class="ttname"><a href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">Creature::SetTarget</a></div><div class="ttdeci">void SetTarget(ObjectGuid guid=ObjectGuid::Empty) override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3545</div></div>
 <div class="ttc" id="aclassEventProcessor_html_ac4cfbe963d7e9335f6404666a6b95bad"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">EventProcessor::AddEventAtOffset</a></div><div class="ttdeci">void AddEventAtOffset(BasicEvent *event, Milliseconds offset)</div><div class="ttdef"><b>Definition</b> EventProcessor.h:107</div></div>
-<div class="ttc" id="aclassInstanceScript_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:131</div></div>
+<div class="ttc" id="aclassInstanceScript_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:115</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a05da7a474b80d725c991dde9d24df4a4"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4">TaskScheduler::CancelAll</a></div><div class="ttdeci">TaskScheduler &amp; CancelAll()</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:45</div></div>
 <div class="ttc" id="aclassUnit_html_a2bdfe38bdc28869a9002094e4341d56e"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2bdfe38bdc28869a9002094e4341d56e">Unit::InterruptNonMeleeSpells</a></div><div class="ttdeci">void InterruptNonMeleeSpells(bool withDelayed, uint32 spellid=0, bool withInstant=true, bool bySelf=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4129</div></div>
 <div class="ttc" id="aclassUnit_html_a6548d4bfff73fad6df63a0bd0d806e2e"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6548d4bfff73fad6df63a0bd0d806e2e">Unit::SetHealth</a></div><div class="ttdeci">void SetHealth(uint32 val)</div><div class="ttdef"><b>Definition</b> Unit.cpp:15511</div></div>
@@ -817,7 +817,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>            cthun-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../da/d47/boss__cthun_8cpp.html#a250372292659bed7ae290d8621f88ccfa42cd59602e5e982cdfe69c9f9ac09789">ACTION_START_PHASE_TWO</a>);</div>
 <div class="line"><span class="lineno">  165</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00080">ACTION_START_PHASE_TWO</a>, <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l00131">InstanceScript::GetCreature()</a>, and <a class="el" href="../../#l00474">BossAI::instance</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00080">ACTION_START_PHASE_TWO</a>, <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, and <a class="el" href="../../#l00474">BossAI::instance</a>.</p>
 
 </div>
 </div>
@@ -895,7 +895,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:511</div></div>
 <div class="ttc" id="aclassSummonList_html_a4b10347a4407bb6351230423019d9786"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a4b10347a4407bb6351230423019d9786">SummonList::Summon</a></div><div class="ttdeci">void Summon(Creature const *summon)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:88</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l00131">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00474">BossAI::instance</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l00511">BossAI::summons</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">DATA_CTHUN</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00474">BossAI::instance</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l00511">BossAI::summons</a>.</p>
 
 </div>
 </div>
@@ -1281,7 +1281,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d67/structboss__eye__of__cthun.html">boss_eye_of_cthun</a></li>
-    <li class="footer">Generated on Tue Jan 21 2025 06:19:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 22 2025 06:20:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

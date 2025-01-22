@@ -1,5 +1,7 @@
 var NAVTREEINDEX355 =
 {
+"de/d5b/classChargeRifts.html#a8d01bf861d37c25413dc14eee16a2939":[6,0,843,1],
+"de/d5b/classChargeRifts.html#aec98a12dec1f2ad98e00d399b0e2a1d5":[6,0,843,0],
 "de/d5c/classspell__warr__concussion__blow.html":[6,0,3912],
 "de/d5c/classspell__warr__concussion__blow.html#a68a86f7f86324336dc837622e01fa6af":[6,0,3912,0],
 "de/d5c/classspell__warr__concussion__blow.html#a8c0a4b3b96a93b6977c2d3077fdfff1d":[6,0,3912,1],
@@ -226,8 +228,8 @@ var NAVTREEINDEX355 =
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9":[7,0,0,0,1,3,2,25,5,4],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[6,0,11,5,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,31,5,30],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,31,5,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[6,0,11,5,30,2],
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,31,5,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[6,0,11,5,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[5,0,31,5,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[5,0,31,5,30,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX355 =
 "de/d69/DisableMgr_8cpp.html#ad6a338e6f295d785a4f9256703ffbd71":[7,0,0,0,1,2,13,2,2],
 "de/d69/DisableMgr_8cpp.html#adb464165caf6cd436499fa84969eeaf8":[7,0,0,0,1,2,13,2,4],
 "de/d69/classgo__skull__pile.html":[6,0,1156],
-"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[6,0,1156,3],
-"de/d69/classgo__skull__pile.html#a9cf8dfef432c4967c60f66e645585770":[6,0,1156,0],
-"de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[6,0,1156,1]
+"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[6,0,1156,3]
 };

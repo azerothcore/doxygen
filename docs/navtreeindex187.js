@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"d7/d46/classAuraEffect.html#aa95ea36217eb2e120bb22fa8fe9c82e2":[6,0,267,160],
+"d7/d46/classAuraEffect.html#aa978582e776583063a2a82af4c658c35":[6,0,267,151],
 "d7/d46/classAuraEffect.html#aab17b1ef9a6932ad13b43b0ed377e044":[6,0,267,52],
 "d7/d46/classAuraEffect.html#aab9391e1ba5774b3df74dee4f65f707a":[6,0,267,118],
 "d7/d46/classAuraEffect.html#aad290467c397f70ff3ca4c24961a05fb":[6,0,267,89],
@@ -214,8 +216,8 @@ var NAVTREEINDEX187 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1032,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[6,0,3989,5],
 "d7/d52/classSpellEvent.html#a2ecd9b31bacc717cc509eb9bb69c3cb3":[6,0,3989,4],
 "d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,3989,0],
-"d7/d52/classSpellEvent.html#ac21656467ae71def45fd78b9d1fa1c30":[6,0,3989,2],
-"d7/d52/classSpellEvent.html#ac8158bfbe916ff6207b2f6608308ae24":[6,0,3989,3],
-"d7/d53/classspell__kaelthas__flame__strike.html":[6,0,3258]
+"d7/d52/classSpellEvent.html#ac21656467ae71def45fd78b9d1fa1c30":[6,0,3989,2]
 };

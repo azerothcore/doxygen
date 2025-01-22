@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[6,0,809,20],
+"da/d07/classByteBuffer.html#a00ca375ab87d05aee2a7444265664623":[6,0,809,9],
 "da/d07/classByteBuffer.html#a0736aaa59564526e948667e4c5178d66":[6,0,809,56],
 "da/d07/classByteBuffer.html#a0906d52f1f309a482e0bc18ba853beae":[6,0,809,4],
 "da/d07/classByteBuffer.html#a0be375370879a95ef6ec68cc8916ab61":[6,0,809,71],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[6,0,3529,3],
 "da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[6,0,3529,2],
 "da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[6,0,3529,0],
-"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html":[6,0,3818],
-"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a16b01725a1b2a105df365e0b178a4f0f":[6,0,3818,3],
-"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8":[6,0,3818,5]
+"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html":[6,0,3818]
 };

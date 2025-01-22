@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"d8/de0/BattlegroundSA_8h.html#ac80f7cc783ba19b2ad9c8eef95405e3e":[7,0,0,0,1,2,8,0,19,21],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924be":[7,0,0,0,1,2,8,0,19,10],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea02d0ac7029987e0c6c4afd37ddaae4c9":[7,0,0,0,1,2,8,0,19,10,17],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea07b151af8957c4730fe07f4c14290b05":[7,0,0,0,1,2,8,0,19,10,2],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea1c2e72b4533d78c59ed347490fe72517":[7,0,0,0,1,2,8,0,19,10,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,48,1],
 "d8/df0/classat__lady__deathwhisper__entrance.html":[6,0,215],
 "d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[6,0,215,0],
-"d8/df0/classat__lady__deathwhisper__entrance.html#a769c838c94a88af5492057909d88f3de":[6,0,215,1],
-"d8/df1/classObjectRegistry.html":[6,0,2286],
-"d8/df1/classObjectRegistry.html#a2734a0e6001f597b43e006bc9d84a6b1":[6,0,2286,2]
+"d8/df0/classat__lady__deathwhisper__entrance.html#a769c838c94a88af5492057909d88f3de":[6,0,215,1]
 };

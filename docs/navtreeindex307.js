@@ -1,5 +1,7 @@
 var NAVTREEINDEX307 =
 {
+"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1758,2],
+"dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1758,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2175],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2175,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2175,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[6,0,3477,1],
 "dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[6,0,3477,2],
 "dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[6,0,3477,4],
-"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[6,0,3477,0],
-"dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[6,0,3477,5],
-"dc/dc9/ObjectGuid_8h.html":[7,0,0,0,1,2,16,5,5]
+"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[6,0,3477,0]
 };

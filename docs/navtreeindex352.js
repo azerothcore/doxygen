@@ -1,5 +1,7 @@
 var NAVTREEINDEX352 =
 {
+"de/d37/classadt__MFBO.html#ac3ebf1557841088ef8912b68fe6df908":[6,0,136,5],
+"de/d37/classadt__MFBO.html#af92420cfd862486c73c35ac8a9f9fdee":[6,0,136,6],
 "de/d37/classadt__MFBO.html#afadebfc1361985b6f5d45c27e22cb303":[6,0,136,4],
 "de/d37/classboss__freya__nature__bomb.html":[6,0,466],
 "de/d37/classboss__freya__nature__bomb.html#a18fa6ff862a1b367ac23eb1b7bda0ed4":[6,0,466,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX352 =
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37":[7,0,0,0,1,2,20,1,8,2],
 "de/d3d/Group_8h.html#ad409013260cb0aea80c911d24d7b5d00":[7,0,0,0,1,2,20,1,3],
-"de/d3d/Group_8h.html#afb58b37bfbd0e4d75c26cc40d4066a43":[7,0,0,0,1,2,20,1,4],
-"de/d3d/LFGMgr_8h.html":[7,0,0,0,1,2,15,5],
-"de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4":[7,0,0,0,1,2,15,5,29]
+"de/d3d/Group_8h.html#afb58b37bfbd0e4d75c26cc40d4066a43":[7,0,0,0,1,2,20,1,4]
 };
