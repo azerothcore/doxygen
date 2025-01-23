@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/dd3/UpdateFieldFlags_8h.html#aefe3be44e608ab4935e11ea44f8e0ce6":[7,0,0,0,1,2,16,5,0,3,2],
 "d8/dd5/LootHandler_8cpp.html":[7,0,0,0,1,2,22,17],
 "d8/dd5/classnpc__bushwhacker.html":[6,0,1638],
 "d8/dd5/classnpc__bushwhacker.html#ab3190b66069e820abf3637bb877066a0":[6,0,1638,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea7619d743dc30a4fc6ae14328af5d8f4a":[7,0,0,0,1,3,5,24,20,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea903fb1c0c0c1e0d05da3ad65312d3a4a":[7,0,0,0,1,3,5,24,20,3],
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963eadc17cbed34c9319ab20132469e91ad53":[7,0,0,0,1,3,5,24,20,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132c":[7,0,0,0,1,3,5,24,22]
+"d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25]
 };

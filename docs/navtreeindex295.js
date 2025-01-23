@@ -1,5 +1,6 @@
 var NAVTREEINDEX295 =
 {
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[6,0,1770,0,8],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[6,0,1770,0,5],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[6,0,1770,0,1],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1770,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2046],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2046,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2046,1],
-"dc/d1f/classnpc__rizzle__sprysprocket.html#ae445545476b4046db305117fa635e7f5":[6,0,2046,2],
-"dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6]
+"dc/d1f/classnpc__rizzle__sprysprocket.html#ae445545476b4046db305117fa635e7f5":[6,0,2046,2]
 };

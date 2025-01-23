@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[7,0,0,0,1,3,5,6,10,78,15],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a737c33193f12241e682a2965cb34ecab":[7,0,0,0,1,3,5,6,10,78,41],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a07788329d8b23ec18c3f264400d538":[7,0,0,0,1,3,5,6,10,78,64],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7b26fb7df9cb5761e5eebc086d6157ae":[7,0,0,0,1,3,5,6,10,78,49],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "da/d82/classreload__commandscript.html#a2d25c38339213f9bf0099a41d553ee12":[6,0,2451,95],
 "da/d82/classreload__commandscript.html#a2e19d9d690b646ba69472af33af35c1f":[6,0,2451,90],
 "da/d82/classreload__commandscript.html#a2f0de0c132a56dec01a77bed9780d6f3":[6,0,2451,63],
-"da/d82/classreload__commandscript.html#a30db6679283e1af10f8101fe31acbe64":[6,0,2451,71],
-"da/d82/classreload__commandscript.html#a37de9b5d1c8de7b785ebb3c8dadb4792":[6,0,2451,52]
+"da/d82/classreload__commandscript.html#a30db6679283e1af10f8101fe31acbe64":[6,0,2451,71]
 };

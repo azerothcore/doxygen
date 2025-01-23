@@ -1,5 +1,6 @@
 var NAVTREEINDEX348 =
 {
+"de/d1b/classspell__item__trigger__spell.html":[6,0,3246],
 "de/d1b/classspell__item__trigger__spell.html#a2f2df93e8f9d0e51273560665ea5c245":[6,0,3246,4],
 "de/d1b/classspell__item__trigger__spell.html#a49613255eea28e34cf5ff8a06798f89a":[6,0,3246,1],
 "de/d1b/classspell__item__trigger__spell.html#a610c5ac434fe788120ed101f7bf58f63":[6,0,3246,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX348 =
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,23,5],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa98c7454ab11639256776039df0d734ed":[7,0,0,0,1,3,9,7,23,3],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa9bfaa0e89cf08c8ab24187cae961c97c":[7,0,0,0,1,3,9,7,23,0],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fad6392938a0dad3deb3aa4baf51a0f6a4":[7,0,0,0,1,3,9,7,23,4],
-"de/d21/spell__priest_8cpp.html#a76dafc0c87fe43a1d174f254d1822859":[7,0,0,0,1,3,9,7,27]
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fad6392938a0dad3deb3aa4baf51a0f6a4":[7,0,0,0,1,3,9,7,23,4]
 };

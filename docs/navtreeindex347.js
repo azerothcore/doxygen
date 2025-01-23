@@ -1,5 +1,6 @@
 var NAVTREEINDEX347 =
 {
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a8ce57e6dd82f1e8cf4e7dfbaaefe0267":[7,0,0,0,1,4,7,104,2],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a9a1eff1b358bb4bdac21eceba585a0d6":[7,0,0,0,1,4,7,104,14],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a9adfd372f51b0d3f01c3289f67e3ce3a":[7,0,0,0,1,4,7,104,1],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094aa8889abf8f13b0fe841bc053c8eeb210":[7,0,0,0,1,4,7,104,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,2981,0],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,2981,3],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a9494bea35088161c9a520395d714fde1":[6,0,2981,2],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,2981,1],
-"de/d1b/classspell__item__trigger__spell.html":[6,0,3246]
+"de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,2981,1]
 };

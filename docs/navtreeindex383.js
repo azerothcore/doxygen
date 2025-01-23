@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200":[7,0,0,0,1,3,6,8,11,1],
 "df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e":[7,0,0,0,1,3,6,8,11,3],
 "df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578":[7,0,0,0,1,3,6,8,11,2],
 "df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5fae":[7,0,0,0,1,3,6,8,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[6,0,6,4,6],
 "df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[5,0,21,4,6],
 "df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[6,0,6,4,1],
-"df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[5,0,21,4,1],
-"df/da0/classspell__item__fetch__ball.html":[6,0,3171]
+"df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[5,0,21,4,1]
 };

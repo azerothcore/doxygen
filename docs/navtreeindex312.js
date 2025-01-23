@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2439,1],
 "dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2439,0],
 "dc/dfb/classUpdateTime.html":[6,0,4125],
 "dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4125,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,19,15,0],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
-"dd/d08/classspell__electrial__storm.html":[6,0,2799],
-"dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2799,2]
+"dd/d08/classspell__electrial__storm.html":[6,0,2799]
 };

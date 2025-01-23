@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dd/d18/classnpc__illidari__spawn.html#ac8dbb30fe7f40d29a3434c8a888ace60":[6,0,1852,1],
 "dd/d19/MiscPackets_8cpp.html":[7,0,0,0,1,2,39,0,15],
 "dd/d19/OutdoorPvP_8h.html":[7,0,0,0,1,2,32,1],
 "dd/d19/OutdoorPvP_8h.html#a080aeb08f4e15904e94076846a03e927":[7,0,0,0,1,2,32,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dd/d27/Timer_8h.html#ab62428e79e66b0b1217643f702022113":[7,0,0,0,0,15,33,7],
 "dd/d27/Timer_8h.html#ab6a946894ec0cb9fa9bf76afa8e7fec8":[7,0,0,0,0,15,33,28],
 "dd/d27/Timer_8h.html#abb2429e5a8226c49ea8909ad21d2a36b":[7,0,0,0,0,15,33,27],
-"dd/d27/Timer_8h.html#ac26feb8a0cb9d57ffe71c1a86ae8108e":[7,0,0,0,0,15,33,10],
-"dd/d27/Timer_8h.html#ad9f0d19bcdfb695da4f399b36471c7de":[7,0,0,0,0,15,33,18]
+"dd/d27/Timer_8h.html#ac26feb8a0cb9d57ffe71c1a86ae8108e":[7,0,0,0,0,15,33,10]
 };

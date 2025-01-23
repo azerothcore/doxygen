@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/db6/structAISpellInfoType.html#a3ee8081ca5749ef9b5991a5505104ee9":[6,0,142,4],
 "d7/db6/structAISpellInfoType.html#a6ea49fdc98ece29ceee63352424e9366":[6,0,142,2],
 "d7/db6/structAISpellInfoType.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4":[6,0,142,5],
 "d7/db6/structAISpellInfoType.html#ab421f918f3cb479d2d0390cd98cdeae3":[6,0,142,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18":[6,0,1803,0,10],
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#adb4e884787dc480358c5be22d276ec49":[6,0,1803,0,7],
 "d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#adf6d85bc5a32c8bd7c125d24f67411d9":[6,0,1803,0,5],
-"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#aea867d06cb737e2a44445c2c8c7d6e45":[6,0,1803,0,9],
-"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#afe38e448d86cdf910870d72a3890ae1f":[6,0,1803,0,4]
+"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#aea867d06cb737e2a44445c2c8c7d6e45":[6,0,1803,0,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[6,0,3612,1],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#aa490168c69f9ba5c12db3171516dd8ac":[6,0,3612,2],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[6,0,3612,0],
 "de/d7c/structboss__the__black__stalker.html":[6,0,713],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a79cc34760b58ad4b29c6a0a496971f0a":[6,0,2023,0,3],
 "de/d89/boss__grilek_8cpp.html":[7,0,0,0,1,3,2,16,2],
 "de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,2,3],
-"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca28574d4484fa9dddb63e423dc7194e35":[7,0,0,0,1,3,2,16,2,3,0],
-"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca366705ee88fada6cb8aa2dab3dcd3cee":[7,0,0,0,1,3,2,16,2,3,2]
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca28574d4484fa9dddb63e423dc7194e35":[7,0,0,0,1,3,2,16,2,3,0]
 };

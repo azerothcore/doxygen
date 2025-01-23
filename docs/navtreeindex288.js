@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/dd5/classCreature.html#aef2b71f49792162b95ae610310a39a08":[6,0,894,106],
 "db/dd5/classCreature.html#aef9d08b3201a7ca820db28b6bbdd9463":[6,0,894,127],
 "db/dd5/classCreature.html#af04dcde6450a79eac41b53df9549c993":[6,0,894,123],
 "db/dd5/classCreature.html#af17d0e294d26a8c61ad17f0ba9b310d0":[6,0,894,277],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda56e3a3f46b3461af29f9f045686dfe5f":[7,0,0,0,1,3,2,4,9,8,2],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda731300d55e294f9fc40d8bc5e2bd7a55":[7,0,0,0,1,3,2,4,9,8,0],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8ddad5fe85bcf673fc6b49dca1275a953383":[7,0,0,0,1,3,2,4,9,8,1],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,9,4],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a20029c58282cf9c3559c32a2aed1b1bd":[7,0,0,0,1,3,2,4,9,4,0]
+"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,9,4]
 };

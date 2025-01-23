@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"da/d8f/structboss__bug__trio.html#a46b943e5d5f5b0972b42edc4134c1f98":[6,0,390,4],
 "da/d8f/structboss__bug__trio.html#a4ad80d1c623a86396d180bc6a6f14bb5":[6,0,390,13],
 "da/d8f/structboss__bug__trio.html#a808939fbc1a9f2bc9e3a6dda5dce02f4":[6,0,390,3],
 "da/d8f/structboss__bug__trio.html#a89dbaf8c1bba75369b978dd366806bb4":[6,0,390,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "da/d97/Define_8h.html#ae8a7a9ab4a727295d96a5645d592be1a":[7,0,0,0,0,21,1],
 "da/d97/Define_8h.html#aecf4e3680a32207d17f62a3426731878":[7,0,0,0,0,21,15],
 "da/d97/classWorldPackets_1_1CompactArray.html":[6,0,11,14],
-"da/d97/classWorldPackets_1_1CompactArray.html":[5,0,31,14],
-"da/d97/classWorldPackets_1_1CompactArray.html#a14d76ffa09769e341dea769424ac586c":[5,0,31,14,9]
+"da/d97/classWorldPackets_1_1CompactArray.html":[5,0,31,14]
 };

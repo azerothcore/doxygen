@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/dac/classspell__q10923__evil__draws__near__summon.html":[6,0,3535],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[6,0,3535,1],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3535,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[6,0,3535,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa71a73d3804187c6b89566ec3d1cd6ed":[6,0,403,0,4],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ab28b7d97956c21515c9872d8f9122f18":[6,0,403,0,6],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ae98715a31cd22febb1725977556a48aa":[6,0,403,0,11],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#afaac9e6939e0d873f576129546560fba":[6,0,403,0,3],
-"da/dba/ArenaTeam_8cpp.html":[7,0,0,0,1,2,8,4]
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#afaac9e6939e0d873f576129546560fba":[6,0,403,0,3]
 };

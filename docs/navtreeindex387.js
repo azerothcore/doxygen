@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,806,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1913,0],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1913,0,6],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1913,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,86,1],
 "df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,86,0],
 "df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,4],
-"df/dd4/MMapMgr_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[7,0,0,0,0,1,0,4,0],
-"df/dd4/MMapMgr_8cpp.html#a27e34ce3b8808f2aa889e5c4e623059a":[7,0,0,0,0,1,0,4,1]
+"df/dd4/MMapMgr_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[7,0,0,0,0,1,0,4,0]
 };

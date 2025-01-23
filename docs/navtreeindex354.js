@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#a9eaeaf02dbe143d38ca857e5ae478aca":[6,0,445,11],
 "de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,445,0],
 "de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,445,4],
 "de/d4a/structboss__fathomguard__tidalvess.html#abce5d58fced89ecaac1d1f34989f0d9e":[6,0,445,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a60154d304ccf236b597cc0f34480c058":[7,0,0,0,1,3,5,7,12,5,1],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a666261989d27e91bdd049a9b5566ef12":[7,0,0,0,1,3,5,7,12,5,2],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6f13ee3dc4b64db9586ad9592d094b":[7,0,0,0,1,3,5,7,12,5,0],
-"de/d5b/classChargeRifts.html":[6,0,843],
-"de/d5b/classChargeRifts.html#a3cbf5f7e26de337dadd9d96a43d728b0":[6,0,843,2]
+"de/d5b/classChargeRifts.html":[6,0,843]
 };

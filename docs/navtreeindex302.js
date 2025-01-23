@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d67/classboss__garfrost.html#a8a67bb09249655a8706868bb26b5124d":[6,0,473,2],
 "dc/d67/classboss__garfrost.html#ac116491cf252ee476cedee55ea292827":[6,0,473,1],
 "dc/d69/classboss__skadi.html":[6,0,688],
 "dc/d69/classboss__skadi.html#a124c1c1de7ba232b3256a65547370464":[6,0,688,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d7b/classspell__q10525__vision__guide.html#ab291f6c6f269ec7004df39a043f49efd":[6,0,3525,3],
 "dc/d7b/structTempSummonGroupKey.html":[6,0,4060],
 "dc/d7b/structTempSummonGroupKey.html#a0ecac0e82ce63c9e64f2e17d941df447":[6,0,4060,2],
-"dc/d7b/structTempSummonGroupKey.html#a1a90f3bf90363f88828cc217dd7ceda6":[6,0,4060,4],
-"dc/d7b/structTempSummonGroupKey.html#ac6bf8fb36092134f63409f3cddc5f810":[6,0,4060,3]
+"dc/d7b/structTempSummonGroupKey.html#a1a90f3bf90363f88828cc217dd7ceda6":[6,0,4060,4]
 };

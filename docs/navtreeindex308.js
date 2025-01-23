@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[6,0,3477,0],
 "dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[6,0,3477,5],
 "dc/dc9/ObjectGuid_8h.html":[7,0,0,0,1,2,16,5,5],
 "dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,5,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dd9/structDuelInfo.html#a1b8b4c373b2e4243f8e33a391821528f":[6,0,969,5],
 "dc/dd9/structDuelInfo.html#a2765770367c839ad28f804e2df3205cb":[6,0,969,3],
 "dc/dd9/structDuelInfo.html#a8ff9ae1c990674b6ac0cd929f5114f23":[6,0,969,4],
-"dc/dd9/structDuelInfo.html#ad80e3507a7bdfc8f7dbebd07697c464f":[6,0,969,2],
-"dc/dd9/structDuelInfo.html#ae1a6667f934c88ad8f0b160e6a8b1190":[6,0,969,1]
+"dc/dd9/structDuelInfo.html#ad80e3507a7bdfc8f7dbebd07697c464f":[6,0,969,2]
 };

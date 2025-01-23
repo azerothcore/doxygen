@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,836,8],
 "dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,836,7],
 "dd/dcf/structCharacterCacheEntry.html#a91c17eef26be0a18823a9834853c296a":[6,0,836,10],
 "dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[6,0,836,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabeb10d9b2d8b7b7aba28d2fcb1f3ae2c":[7,0,0,0,1,3,5,1,1,2,32,16],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c404944e70b252c6ffaf6ca5d5b41d":[7,0,0,0,1,3,5,1,1,2,32,32],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf":[7,0,0,0,1,3,5,1,1,2,32,34]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10]
 };

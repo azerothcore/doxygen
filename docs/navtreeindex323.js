@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d88/classspell__pal__righteous__defense.html#ad7bfc65b26013ad259679ae8b4a5dd9a":[6,0,3450,0],
 "dd/d89/structMCBossObject.html":[6,0,1464],
 "dd/d89/structMCBossObject.html#a898f2ce24d96fb7d6a118e9772344c43":[6,0,1464,0],
 "dd/d89/structMCBossObject.html#aa7ac7e2d5729aa906e00ca9c2648581d":[6,0,1464,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d8d/DBCStores_8cpp.html#af3003bf91bbf3cd78c669cbc9e8a18cf":[7,0,0,0,1,2,14,0,98],
 "dd/d8d/DBCStores_8cpp.html#af7762283f4c8ffff1486225df2f5bc92":[7,0,0,0,1,2,14,0,112],
 "dd/d8d/DBCStores_8cpp.html#af7b6eff71f64ecef778f854613d72288":[7,0,0,0,1,2,14,0,26],
-"dd/d8d/DBCStores_8cpp.html#afbbd418ece4304360cfb4707f79f5685":[7,0,0,0,1,2,14,0,86],
-"dd/d8d/DBCStores_8cpp.html#afc09b0f1883b13e6251568b320502f3a":[7,0,0,0,1,2,14,0,24]
+"dd/d8d/DBCStores_8cpp.html#afbbd418ece4304360cfb4707f79f5685":[7,0,0,0,1,2,14,0,86]
 };

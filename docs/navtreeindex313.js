@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2799,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2799,0],
 "dd/d08/classspell__electrial__storm.html#ac2db8f8d9b778a0a36081c897f4149cb":[6,0,2799,3],
 "dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[6,0,2799,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901":[7,0,0,0,1,2,38,0,93,1,3],
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7":[7,0,0,0,1,2,38,0,93,1,1],
 "dd/d18/classnpc__illidari__spawn.html":[6,0,1852],
-"dd/d18/classnpc__illidari__spawn.html#a7198f506b0d4fd55d22fc72a90f42a09":[6,0,1852,2],
-"dd/d18/classnpc__illidari__spawn.html#ac8dbb30fe7f40d29a3434c8a888ace60":[6,0,1852,1]
+"dd/d18/classnpc__illidari__spawn.html#a7198f506b0d4fd55d22fc72a90f42a09":[6,0,1852,2]
 };

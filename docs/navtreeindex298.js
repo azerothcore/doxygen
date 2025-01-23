@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[6,0,7,9,11],
 "dc/d30/AuthSocketMgr_8h.html":[7,0,0,0,1,0,0,2,2],
 "dc/d30/AuthSocketMgr_8h.html#abd297ee25e8d77bf56f22d43561d9451":[7,0,0,0,1,0,0,2,2,1],
 "dc/d30/boss__hodir_8cpp.html":[7,0,0,0,1,3,5,9,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298cab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,4,1,0,4,2,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,4,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,4,3,4],
-"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3],
-"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1]
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"de/d2c/structItemPosCount.html#a4e09f94aa0808f76b2d5ff23691abb27":[6,0,1362,2],
 "de/d2c/structItemPosCount.html#a6977c544a2d39ca5872b75f27517974f":[6,0,1362,1],
 "de/d2c/structItemPosCount.html#ad8954f1a6323316510cfe0f332ee495f":[6,0,1362,3],
 "de/d2d/classboss__hodir.html":[6,0,520],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eb":[7,0,0,0,1,2,41,9,67],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba1241df11023c863e2de7d3371c703d76":[7,0,0,0,1,2,41,9,67,9],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba1bc48e6ac848cb5c901d64b8e38f0927":[7,0,0,0,1,2,41,9,67,11],
-"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba61cc76ba8b08b3b96969cd3623750724":[7,0,0,0,1,2,41,9,67,7],
-"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba63c0705fb6979627890de8e601fa6828":[7,0,0,0,1,2,41,9,67,6]
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba61cc76ba8b08b3b96969cd3623750724":[7,0,0,0,1,2,41,9,67,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,723,2],
 "db/de9/classspell__pursue.html":[6,0,3498],
 "db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3498,0],
 "db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3498,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/df2/classHealInfo.html#af95a6d6c94a72874c150a3deabce20ee":[6,0,1233,4],
 "db/df2/structGossipMenuItems.html":[6,0,1188],
 "db/df2/structGossipMenuItems.html#a0b73f7ce36e7703725e6b0d01c2a4564":[6,0,1188,9],
-"db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1188,2],
-"db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1188,12]
+"db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1188,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"de/d21/spell__priest_8cpp.html#a76dafc0c87fe43a1d174f254d1822859":[7,0,0,0,1,3,9,7,27],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110f":[7,0,0,0,1,3,9,7,25],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d":[7,0,0,0,1,3,9,7,25,3],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03":[7,0,0,0,1,3,9,7,25,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ab9113a021844aa7ea8ac46df9c50b205":[6,0,2193,0,2],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe":[6,0,2193,0,3],
 "de/d2c/structItemPosCount.html":[6,0,1362],
-"de/d2c/structItemPosCount.html#a43458da1fc31d827b6de726754f7901e":[6,0,1362,0],
-"de/d2c/structItemPosCount.html#a4e09f94aa0808f76b2d5ff23691abb27":[6,0,1362,2]
+"de/d2c/structItemPosCount.html#a43458da1fc31d827b6de726754f7901e":[6,0,1362,0]
 };

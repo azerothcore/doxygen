@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#a14d76ffa09769e341dea769424ac586c":[5,0,31,14,9],
 "da/d97/classWorldPackets_1_1CompactArray.html#a14d76ffa09769e341dea769424ac586c":[6,0,11,14,9],
 "da/d97/classWorldPackets_1_1CompactArray.html#a167096f1966862ec92556b6f5d3aa3b8":[5,0,31,14,0],
 "da/d97/classWorldPackets_1_1CompactArray.html#a167096f1966862ec92556b6f5d3aa3b8":[6,0,11,14,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[6,0,682,0,6],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0e92f831d702eda65309787c651f221b":[6,0,682,0,15],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39":[6,0,682,0,10],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[6,0,682,0,9],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[6,0,682,0,19]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[6,0,682,0,9]
 };

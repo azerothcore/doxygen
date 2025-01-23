@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a452c096475581c12bf2f4ccb12448026":[6,0,2008,0,5],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a640aea9ce4a47dd13d417748e533fc33":[6,0,2008,0,4],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2008,0,1],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2008,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/dbe/HostileRefMgr_8h.html":[7,0,0,0,1,2,12,1],
 "df/dbe/structBuildValuesCachedBuffer.html":[6,0,806],
 "df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[6,0,806,0],
-"df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,806,1],
-"df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,806,2]
+"df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,806,1]
 };

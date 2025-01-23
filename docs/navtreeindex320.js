@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2910,1],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1866,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[6,0,1866,0,4],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1866,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d6c/classVehicleDespawnEvent.html":[6,0,4135],
 "dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573":[6,0,4135,3],
 "dd/d6c/classVehicleDespawnEvent.html#a39284ca2343e54cec915ac3ecf51f4a8":[6,0,4135,1],
-"dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0":[6,0,4135,2],
-"dd/d6c/classVehicleDespawnEvent.html#ab6f88e60f1068ab79049c158314a87ab":[6,0,4135,0]
+"dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0":[6,0,4135,2]
 };

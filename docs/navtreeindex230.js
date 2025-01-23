@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085":[7,0,0,0,1,3,2,12,5,8,20],
 "d9/d3f/boss__muru_8cpp.html#abb36992caf0a693d29fb5bf8ceacb8b0":[7,0,0,0,1,3,2,12,5,9],
 "d9/d3f/structTalentSpellPos.html":[6,0,4046],
 "d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[6,0,4046,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0":[7,0,0,0,1,2,3,0,15,10,1],
 "d9/d55/UnitAI_8h.html#afbd9552e4d9ae2fb45fe846c8e9775cf":[7,0,0,0,1,2,3,0,15,9],
 "d9/d55/structCreatureAIFactory.html":[6,0,898],
-"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[6,0,898,0],
-"d9/d55/structCreatureAIFactory.html#ab5f691811cc23c5079a7a0a7f3503638":[6,0,898,1]
+"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[6,0,898,0]
 };

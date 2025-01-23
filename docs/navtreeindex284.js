@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/db7/instance__hyjal_8cpp.html#ade7b4d2fdf8cd15fa4985554885eb881":[7,0,0,0,1,3,4,1,0,7,5],
 "db/db7/instance__trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[7,0,0,0,1,3,5,2,0,3,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a70438d12d4153aa7d510c89551abf7c9":[7,0,0,0,1,3,5,2,0,3,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/dc8/structScriptedAI.html#a9df86a2d90d8a9561657dee07d4d6ed8":[6,0,2478,36],
 "db/dc8/structScriptedAI.html#aa4e7196924ef7710dc780b0321e09002":[6,0,2478,30],
 "db/dc8/structScriptedAI.html#aa85301410e58ca4d6e1db96400969d60":[6,0,2478,27],
-"db/dc8/structScriptedAI.html#aaf9f41f775dc6f8d6c95eba728f1f635":[6,0,2478,14],
-"db/dc8/structScriptedAI.html#ab00652b2ad976b04928bb69b5e6a5686":[6,0,2478,50]
+"db/dc8/structScriptedAI.html#aaf9f41f775dc6f8d6c95eba728f1f635":[6,0,2478,14]
 };

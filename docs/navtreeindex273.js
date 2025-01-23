@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d55/structBattlegroundICScore.html#a5050b80f9d1855cb8b97830f9e80124f":[6,0,310,6],
 "db/d55/structBattlegroundICScore.html#a690ede108b8ce8dfa45a2b7457e53a3c":[6,0,310,4],
 "db/d55/structBattlegroundICScore.html#a70c2965b6b1e99239e0dcc1c03ccb552":[6,0,310,7],
 "db/d55/structBattlegroundICScore.html#a758fa51038f232c7d65cd0168a4608c2":[6,0,310,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390ad099fc87491bffa7129dc95e1ee8e35f":[7,0,0,0,1,3,3,5,8,5],
 "db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390afd77d31a7c753031a2ccca7f7dacb5f2":[7,0,0,0,1,3,3,5,8,4],
 "db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079a":[7,0,0,0,1,3,3,5,7],
-"db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4":[7,0,0,0,1,3,3,5,7,0],
-"db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa3463fc30e5ad08043418a6e5f000b6ff":[7,0,0,0,1,3,3,5,7,3]
+"db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4":[7,0,0,0,1,3,3,5,7,0]
 };

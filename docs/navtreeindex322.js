@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaebe347b189e409542b67ed453f873b96":[7,0,0,0,1,3,3,2,12,13],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaede323c4cbe9bb0af7bdc35ad654a6c2":[7,0,0,0,1,3,3,2,12,1],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaff9346d1bd1ae48c8264c82c85b68e9a":[7,0,0,0,1,3,3,2,12,5],
 "dd/d7d/childrens__week_8cpp.html#a832536a026ab4dad8df7bb48ad0493fc":[7,0,0,0,1,3,3,2,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d88/classspell__pal__righteous__defense.html#a9247b5f3a376bebdcf857565b5049944":[6,0,3450,3],
 "dd/d88/classspell__pal__righteous__defense.html#aa67bf9f81086a3837037d67306979072":[6,0,3450,2],
 "dd/d88/classspell__pal__righteous__defense.html#aaf056806d72da6aa2e3e6e70d46d6933":[6,0,3450,4],
-"dd/d88/classspell__pal__righteous__defense.html#aca027bb2995456bfcedd33c06966eb88":[6,0,3450,1],
-"dd/d88/classspell__pal__righteous__defense.html#ad7bfc65b26013ad259679ae8b4a5dd9a":[6,0,3450,0]
+"dd/d88/classspell__pal__righteous__defense.html#aca027bb2995456bfcedd33c06966eb88":[6,0,3450,1]
 };

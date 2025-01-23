@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d79/Map_8h.html#a6d257e0effb928fba7534eeee5de602d":[7,0,0,0,1,2,26,3,28],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,3,38],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,3,38,3],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d":[7,0,0,0,1,2,26,3,38,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,4,44],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,2,4,44,6],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a076407c159ee539e0c00bd1226bac627":[7,0,0,0,1,3,5,9,2,4,44,8],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20bb696b3ec369136955621a71e9fad5":[7,0,0,0,1,3,5,9,2,4,44,4],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a21cb5e37cb8dcdcd693670b7114905ac":[7,0,0,0,1,3,5,9,2,4,44,0]
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20bb696b3ec369136955621a71e9fad5":[7,0,0,0,1,3,5,9,2,4,44,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776":[5,0,19,48,16],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004":[5,0,19,48,3],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8":[5,0,19,48,6],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba820334a9820da285d1e46da7a8d7b37e":[5,0,19,48,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3331,2],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3331,1],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[6,0,3331,0],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html":[6,0,3612],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[6,0,3612,1]
+"de/d7c/classspell__q13369__fate__up__against__your__will.html":[6,0,3612]
 };

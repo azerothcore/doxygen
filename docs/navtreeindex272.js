@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d4a/classAcore_1_1Thread.html#a3e9a687df7ed593abc33f5e5897125e5":[5,0,1,118,9],
 "db/d4a/classAcore_1_1Thread.html#a3e9a687df7ed593abc33f5e5897125e5":[6,0,0,106,9],
 "db/d4a/classAcore_1_1Thread.html#a4dcbafab5741b819852d6702e5b09369":[5,0,1,118,7],
 "db/d4a/classAcore_1_1Thread.html#a4dcbafab5741b819852d6702e5b09369":[6,0,0,106,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d55/structBattlegroundICScore.html":[6,0,310],
 "db/d55/structBattlegroundICScore.html#a2d7503354e4bdce9f2a06d48b649da2f":[6,0,310,5],
 "db/d55/structBattlegroundICScore.html#a3b8798fdb479885fbe4b7cecb2f84f68":[6,0,310,0],
-"db/d55/structBattlegroundICScore.html#a4a10d0be9c318048feb4e76ffae9472c":[6,0,310,1],
-"db/d55/structBattlegroundICScore.html#a5050b80f9d1855cb8b97830f9e80124f":[6,0,310,6]
+"db/d55/structBattlegroundICScore.html#a4a10d0be9c318048feb4e76ffae9472c":[6,0,310,1]
 };

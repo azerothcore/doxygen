@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/dba/ArenaTeam_8cpp.html":[7,0,0,0,1,2,8,4],
 "da/dba/classspell__kelthuzad__frost__blast.html":[6,0,3279],
 "da/dba/classspell__kelthuzad__frost__blast.html#abbe7ae557fb510457504f72adfa0aedc":[6,0,3279,3],
 "da/dba/classspell__kelthuzad__frost__blast.html#ad7ccb2b2024887ec0a9802454a8bfaec":[6,0,3279,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0eca938ea85001baaf2073af57ded0411a02":[7,0,0,0,1,2,16,7,5,114,2],
 "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecac950ed5e60136d7150be960ae38420fd":[7,0,0,0,1,2,16,7,5,114,6],
 "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecad9fc309580a3e8ac23871eab1c8ce586":[7,0,0,0,1,2,16,7,5,114,7],
-"da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecaf0285b1075903e68a12c5496fa0db458":[7,0,0,0,1,2,16,7,5,114,4],
-"da/dbf/Player_8h.html#a3d6156ea4383f298702ee6c20c616536":[7,0,0,0,1,2,16,7,5,104]
+"da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecaf0285b1075903e68a12c5496fa0db458":[7,0,0,0,1,2,16,7,5,114,4]
 };

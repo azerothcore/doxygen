@@ -140,6 +140,7 @@ var NAVTREEINDEX187 =
 "d7/d48/group__Acored.html#gae4bea4699ff716ee22295d12bc9f1b9b":[4,0,8],
 "d7/d48/group__Acored.html#gaf86bc63df807e80b7a14688e48340fea":[4,0,7],
 "d7/d48/structboss__vexallus.html":[6,0,751],
+"d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354":[6,0,751,6],
 "d7/d48/structboss__vexallus.html#a48d44cc3ed6f0e7f97f76cd325e5c48e":[6,0,751,3],
 "d7/d48/structboss__vexallus.html#a4bd88222143d8db098312cff8a2fc969":[6,0,751,5],
 "d7/d48/structboss__vexallus.html#a68c32ed70274e9f135b7a9107f888c91":[6,0,751,0],
@@ -216,10 +217,10 @@ var NAVTREEINDEX187 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1032,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[6,0,1032,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[6,0,1032,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d52/classSpellEvent.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e":[6,0,3989,1],
 "d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[6,0,3989,5],
 "d7/d52/classSpellEvent.html#a2ecd9b31bacc717cc509eb9bb69c3cb3":[6,0,3989,4],
-"d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,3989,0],
-"d7/d52/classSpellEvent.html#ac21656467ae71def45fd78b9d1fa1c30":[6,0,3989,2]
+"d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,3989,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ad25383e2c00eeae2e4b15e33298d79a2":[7,0,0,0,1,3,7,1,4,7,2],
 "de/d97/boss__mother__shahraz_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,4,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780":[7,0,0,0,1,3,7,1,4,6,0],
 "de/d97/boss__mother__shahraz_8cpp.html#a4f923bbee6110ea8127e4b559dd67661":[7,0,0,0,1,3,7,1,4,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/da2/classnpc__maxx__a__million__escort.html#af3c2f2708702f7d25e712c63a45e69e0":[6,0,1920,3],
 "de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[6,0,1920,2],
 "de/da2/classspell__gen__reduced__above__60__aura.html":[6,0,2943],
-"de/da2/classspell__gen__reduced__above__60__aura.html#a4be139ae22c20468be1930195097d98a":[6,0,2943,1],
-"de/da2/classspell__gen__reduced__above__60__aura.html#a90d6446ed05f9dfedb43d689e8de0614":[6,0,2943,2]
+"de/da2/classspell__gen__reduced__above__60__aura.html#a4be139ae22c20468be1930195097d98a":[6,0,2943,1]
 };

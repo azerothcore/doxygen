@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,7,5,1,6,5],
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea2e23df1f4d8b45ea8f7c0460f0e298f9":[7,0,0,0,1,3,7,5,1,6,5,3],
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea5eb8b318e75f7fafb22bd9fbc40ed420":[7,0,0,0,1,3,7,5,1,6,5,0],
 "dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea8870ee908e189b299d97dec0da566017":[7,0,0,0,1,3,7,5,1,6,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d66/classnpc__hor__leader__second.html#a9fa1f38ab8a0b5d2207857b75e272ee0":[6,0,1817,1],
 "dc/d66/classnpc__hor__leader__second.html#af5b97ecca35501a75658919d384a18f7":[6,0,1817,2],
 "dc/d67/Spline_8h.html":[7,0,0,0,1,2,31,1,11],
-"dc/d67/classboss__garfrost.html":[6,0,473],
-"dc/d67/classboss__garfrost.html#a8a67bb09249655a8706868bb26b5124d":[6,0,473,2]
+"dc/d67/classboss__garfrost.html":[6,0,473]
 };

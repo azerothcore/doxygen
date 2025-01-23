@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849":[7,0,0,0,1,3,2,7,0,4,4],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f":[7,0,0,0,1,3,2,7,0,4,1],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b":[7,0,0,0,1,3,2,7,0,4,7],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a":[7,0,0,0,1,3,2,7,0,4,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d32/classspell__item__flask__of__the__north.html#a18a648ebf1dbc9a11d09e457a33d0e33":[6,0,3172,3],
 "db/d32/classspell__item__flask__of__the__north.html#a1fb13b562c5d4f905739e193bc5292dd":[6,0,3172,1],
 "db/d32/classspell__item__flask__of__the__north.html#a3f9d43d11b344e3eb02fdc088506008e":[6,0,3172,0],
-"db/d32/classspell__item__flask__of__the__north.html#a581e04721eb9564d1300ddd78c805368":[6,0,3172,2],
-"db/d33/structboss__svala_1_1boss__svalaAI.html":[6,0,700,0]
+"db/d32/classspell__item__flask__of__the__north.html#a581e04721eb9564d1300ddd78c805368":[6,0,3172,2]
 };

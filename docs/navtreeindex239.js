@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1430,7],
 "d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1430,6],
 "d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[6,0,1430,4],
 "d9/dae/structM2Camera.html#a9426497de885b901d364c0b3ddd487d9":[6,0,1430,2],
@@ -29,8 +30,8 @@ var NAVTREEINDEX239 =
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a4eae1ba9b211d8c8307000ddae428348":[6,0,0,4,1,2],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[5,0,1,7,1,6],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[6,0,0,4,1,6],
-"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[5,0,1,7,1,5],
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db4/classnpc__giant__spotlight.html":[6,0,1777],
 "d9/db4/classnpc__giant__spotlight.html#a9d1c47de758c74a89c751b675d5cc4c0":[6,0,1777,1],
 "d9/db4/classnpc__giant__spotlight.html#af002a3d0194c991c1f78c720de63cfea":[6,0,1777,2],
@@ -85,10 +86,10 @@ var NAVTREEINDEX239 =
 "d9/dba/classspell__mark__of__malice.html#ad89123425cca5bd02a18526a11595a1a":[6,0,3359,3],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html":[5,0,1,8,2,2],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html":[6,0,0,5,2,2],
-"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[6,0,0,5,2,2,1],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[5,0,1,8,2,2,1],
-"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[6,0,0,5,2,2,2],
+"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[6,0,0,5,2,2,1],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[5,0,1,8,2,2,2],
+"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[6,0,0,5,2,2,2],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a9d10adc7fc7e9ba967ce0704ff369019":[5,0,1,8,2,2,0],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a9d10adc7fc7e9ba967ce0704ff369019":[6,0,0,5,2,2,0],
 "d9/dbc/structMySQLType_3_01uint8_01_4.html":[6,0,1518],
@@ -133,12 +134,12 @@ var NAVTREEINDEX239 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1181,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1181,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1181,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,134,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,134,1],
 "d9/dc5/classboss__prince__valanar__icc.html":[6,0,645],
 "d9/dc5/classboss__prince__valanar__icc.html#a2f7f58d57f5ed107d1f972d061105fd4":[6,0,645,2],
 "d9/dc5/classboss__prince__valanar__icc.html#a7bfa4e13fa5cc19313c7ce9877d1c631":[6,0,645,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1]
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7]
 };

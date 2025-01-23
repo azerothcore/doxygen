@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[7,0,0,0,1,3,5,18,49,3],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[7,0,0,0,1,3,5,18,49,4],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a87a8544d0aed9cd7282f6b18b8dd34dd":[7,0,0,0,1,3,5,18,49,2],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a98f9f2bac321e4c75e450f7a090e6a52":[7,0,0,0,1,3,5,18,49,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/db3/structSpellShapeshiftFormEntry.html#a86dfa61342583d920b7d8496bce4b49d":[6,0,4013,4],
 "de/db3/structSpellShapeshiftFormEntry.html#ab5242f7367e8799a556176178c72fc88":[6,0,4013,0],
 "de/db4/AdhocStatement_8h.html":[7,0,0,0,1,1,0,2],
-"de/db4/classPreparedStatementBase.html":[6,0,2401],
-"de/db4/classPreparedStatementBase.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660":[6,0,2401,6]
+"de/db4/classPreparedStatementBase.html":[6,0,2401]
 };
