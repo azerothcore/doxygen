@@ -1,7 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/df0/classgo__strange__pool.html#a5a2ee56e277b062e6b4757cb8b8b09a0":[6,0,1159,1],
-"d2/df0/classgo__strange__pool.html#aa44feb353ad1cb440e5b6707112af680":[6,0,1159,0],
 "d2/df0/classspell__illidan__demon__transform2__aura.html":[6,0,3110],
 "d2/df0/classspell__illidan__demon__transform2__aura.html#a038301fbb547469574efff88455be663":[6,0,3110,0],
 "d2/df0/classspell__illidan__demon__transform2__aura.html#a1b7b9bff5b3d906fa491846a4d5c6743":[6,0,3110,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#adff3a199c893023323a04e8c6c35ddef":[7,0,0,0,1,2,14,1,100],
 "d2/df6/DBCStores_8h.html#ae1befbcddb5f7115c1d06a15e379aafa":[7,0,0,0,1,2,14,1,85],
 "d2/df6/DBCStores_8h.html#ae1da802bd48a4bf2cce40a8b9e4c1cb9":[7,0,0,0,1,2,14,1,83],
-"d2/df6/DBCStores_8h.html#ae33f72acc556851465786fd8cfd961d6":[7,0,0,0,1,2,14,1,92]
+"d2/df6/DBCStores_8h.html#ae33f72acc556851465786fd8cfd961d6":[7,0,0,0,1,2,14,1,92],
+"d2/df6/DBCStores_8h.html#aec9dabc566bcb274ecd98daf1e07d13a":[7,0,0,0,1,2,14,1,29],
+"d2/df6/DBCStores_8h.html#aed8e397af9e1fd664bfdba10bea966c6":[7,0,0,0,1,2,14,1,76]
 };

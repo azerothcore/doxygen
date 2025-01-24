@@ -1,7 +1,5 @@
 var NAVTREEINDEX299 =
 {
-"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1],
-"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,4,3,0],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad63ecb274b6fd82552c2d94b90509ef8":[7,0,0,0,1,3,4,1,0,4,3,2],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html":[6,0,356,0],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a2d2a162132b7f4c0a5faf1f86a476002":[6,0,356,0,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX299 =
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3002,3],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3002,2],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3002,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3002,0]
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3002,0],
+"dc/d44/classspell__sha__flurry__proc.html":[6,0,3701],
+"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3701,2]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451":[7,0,0,0,1,3,2,1,0,0,13,2],
-"df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a":[7,0,0,0,1,3,2,1,0,0,13,3],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97":[7,0,0,0,1,3,2,1,0,0,13,0],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb":[7,0,0,0,1,3,2,1,0,0,13,1],
 "df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94":[7,0,0,0,1,3,2,1,0,0,14],
@@ -249,5 +247,7 @@ var NAVTREEINDEX378 =
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,282,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,306],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,306,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,306,2]
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,306,2],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,306,5],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,306,4]
 };

@@ -6,7 +6,6 @@ var structboss__felblood__kaelthas =
     [ "InitializeAI", "d2/d14/structboss__felblood__kaelthas.html#a9903c814479181886f49c2cb38c7ca87", null ],
     [ "JustDied", "d2/d14/structboss__felblood__kaelthas.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
     [ "JustEngagedWith", "d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "JustSummoned", "d2/d14/structboss__felblood__kaelthas.html#a1a98e8c8bcbd96d6118fafcbcc646939", null ],
     [ "LapseAction", "d2/d14/structboss__felblood__kaelthas.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
     [ "MoveInLineOfSight", "d2/d14/structboss__felblood__kaelthas.html#a18d6d636236999bd10decde84fba0d1d", null ],
     [ "Reset", "d2/d14/structboss__felblood__kaelthas.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/classSpell.html#af322c6aa308c93950f370d71e5fef3ad":[6,0,2538,59],
 "d1/d16/classSpell.html#af46c9b635b8928c161d943f10ae693f1":[6,0,2538,352],
 "d1/d16/classSpell.html#af5b979f4290c2172523aae0d2d09077a":[6,0,2538,218],
 "d1/d16/classSpell.html#af69126fd235a1bb9bc50946acde2e099":[6,0,2538,155],
@@ -53,18 +54,18 @@ var NAVTREEINDEX26 =
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,121],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,109],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,121,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,109,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,121,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,121,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,109,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,121,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,109,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,109,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,121,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,109,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,109,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,121,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,109,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,109,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,1,121,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,109,4],
 "d1/d17/structboss__halycon_1_1boss__halyconAI.html":[6,0,503,0],
 "d1/d17/structboss__halycon_1_1boss__halyconAI.html#a5735567462167fffa4d01800d696296e":[6,0,503,0,2],
 "d1/d17/structboss__halycon_1_1boss__halyconAI.html#a6e72949b63de3d32d8369c7122b6060d":[6,0,503,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a26152cc7660e2220c144d0d4f6fb5794":[6,0,1264,0,32],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a27a2f2b8eb36b050590b752e03148a5b":[6,0,1264,0,5],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a2933cac3db4fd15dc7f9a542cd281a4c":[6,0,1264,0,22],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a2a981c96a7921825feab189e2b4e2ccc":[6,0,1264,0,15],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a2b6889e8776004f6a521c7be1f75684c":[6,0,1264,0,0]
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a2a981c96a7921825feab189e2b4e2ccc":[6,0,1264,0,15]
 };

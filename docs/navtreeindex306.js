@@ -1,7 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,11,6,0,7],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,11,6,0,5],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,31,6,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[6,0,1522],
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1522,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX306 =
 "dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,496,0],
 "dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,496,4],
 "dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,496,2],
-"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,496,3]
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,496,3],
+"dc/db5/classnpc__frenzied__worgen.html":[6,0,1758],
+"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1758,2]
 };

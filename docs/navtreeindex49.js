@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d2/d04/classBattlegroundAV.html#a3aeadf26150bab0d0eeea02b2125b00b":[6,0,299,3],
 "d2/d04/classBattlegroundAV.html#a3f37f8a817a90e3d1a086a43a4b16163":[6,0,299,11],
 "d2/d04/classBattlegroundAV.html#a49c199681984e5db0c7e6743775b72c2":[6,0,299,20],
 "d2/d04/classBattlegroundAV.html#a4c23686707da15345afaf2b061d4d16a":[6,0,299,23],
@@ -145,16 +146,16 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,17,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[7,0,0,0,1,2,38,0,17,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[7,0,0,0,1,2,38,0,17,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,86],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,98],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,98,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,86],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,86,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,98,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,86,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,98,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,86,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,98,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,86,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,98,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2129],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2129,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2129,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d12/classUnitScript.html#a334ac1a9d8e29aa064d3625d59c7a167":[6,0,4117,12],
 "d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2":[6,0,4117,3],
 "d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80":[6,0,4117,22],
-"d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345":[6,0,4117,11],
-"d2/d12/classUnitScript.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83":[6,0,4117,16]
+"d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345":[6,0,4117,11]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX185 =
 {
-"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a74d84534c39e7e6f3774099fd6b28d29":[6,0,2105,0,0],
-"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#aaef10316b8f7c3e980082cab722ffe9f":[6,0,2105,0,2],
 "d7/d2f/classspell__mage__blast__wave.html":[6,0,3320],
 "d7/d2f/classspell__mage__blast__wave.html#a860fb74000a42a7d6f22d17dde93cdf6":[6,0,3320,0],
 "d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[6,0,3320,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX185 =
 "d7/d3f/classnpc__eris__hevenfire.html":[6,0,1737],
 "d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[6,0,1737,3],
 "d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[6,0,1737,1],
-"d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[6,0,1737,2]
+"d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[6,0,1737,2],
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html":[6,0,3379],
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a013e9e0eef93583722f7d347c2ebbc49":[6,0,3379,4]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a51abd6d78888450534ec50786c9f4322":[7,0,0,0,1,1,0,0,5,1,14],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53647962d71478bb5071ec4c379184f4":[7,0,0,0,1,1,0,0,5,1,68],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53675be7448c87a1dca8233ed997ff49":[7,0,0,0,1,1,0,0,5,1,59],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5cd1c18f111a4310ec52bdf2734eccc3":[7,0,0,0,1,1,0,0,5,1,5],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5ea22bceb343b1dfd253b3a2bba4a58c":[7,0,0,0,1,1,0,0,5,1,10],
@@ -220,10 +218,10 @@ var NAVTREEINDEX94 =
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3715,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1717],
@@ -249,5 +247,7 @@ var NAVTREEINDEX94 =
 "d3/d2c/namespaceGitRevision.html#a72b700a0bbbdb2829e283fe892f1ba51":[5,0,18,4],
 "d3/d2c/namespaceGitRevision.html#a83b62eaf53be851b0bd82c3a00b934d1":[5,0,18,3],
 "d3/d2c/namespaceGitRevision.html#a9d2cbfd79c6c215859ddad44996a8a8c":[5,0,18,2],
-"d3/d2c/namespaceGitRevision.html#abbfa02a4b9aba10f263252be4d3f48fc":[5,0,18,12]
+"d3/d2c/namespaceGitRevision.html#abbfa02a4b9aba10f263252be4d3f48fc":[5,0,18,12],
+"d3/d2c/namespaceGitRevision.html#abd1a810f85a1f404d88e3f7e61cc85cc":[5,0,18,10],
+"d3/d2c/namespaceGitRevision.html#ad63ab422bd364927fa88a394e82fc2a7":[5,0,18,9]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX347 =
 {
-"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a8ce57e6dd82f1e8cf4e7dfbaaefe0267":[7,0,0,0,1,4,7,104,2],
-"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a9a1eff1b358bb4bdac21eceba585a0d6":[7,0,0,0,1,4,7,104,14],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a9adfd372f51b0d3f01c3289f67e3ce3a":[7,0,0,0,1,4,7,104,1],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094aa8889abf8f13b0fe841bc053c8eeb210":[7,0,0,0,1,4,7,104,30],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ac07d7418b040b9377069f4a46d12d960":[7,0,0,0,1,4,7,104,26],
@@ -211,17 +209,17 @@ var NAVTREEINDEX347 =
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,21,19],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,21,20],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[5,0,21,20,0],
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[5,0,21,19,0],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[5,0,21,20,3],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[5,0,21,19,3],
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,20,2],
+"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[5,0,21,19,0],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,19,5],
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,19,2],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,20,5],
+"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,19,2],
+"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[5,0,21,20,2],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[5,0,21,20,4],
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[5,0,21,19,1],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[5,0,21,19,4],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[5,0,21,20,1],
+"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[5,0,21,19,1],
 "de/d19/namespaceMMAP.html#a32c90e1638c0f8693e2fc95201d2ec3f":[5,0,21,36],
 "de/d19/namespaceMMAP.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab":[5,0,21,22],
 "de/d19/namespaceMMAP.html#a39bc2d4fa649e77addef85b06c49b369":[5,0,21,25],
@@ -249,5 +247,7 @@ var NAVTREEINDEX347 =
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,2981,0],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,2981,3],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a9494bea35088161c9a520395d714fde1":[6,0,2981,2],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,2981,1]
+"de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,2981,1],
+"de/d1b/classspell__item__trigger__spell.html":[6,0,3246],
+"de/d1b/classspell__item__trigger__spell.html#a2f2df93e8f9d0e51273560665ea5c245":[6,0,3246,4]
 };

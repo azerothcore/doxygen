@@ -707,7 +707,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  160</span> </div>
 <div class="line"><span class="lineno">  161</span>    <span class="comment">//TODO free addSessQueue</span></div>
 <div class="line"><span class="lineno">  162</span>}</div>
-<div class="ttc" id="aclassLockedQueue_html_ac818ec56d60e2ec059857e0aaa99f8a4"><div class="ttname"><a href="../../d2/d8b/classLockedQueue.html#ac818ec56d60e2ec059857e0aaa99f8a4">LockedQueue::next</a></div><div class="ttdeci">bool next(T &amp;result)</div><div class="ttdoc">Gets the next result in the queue, if any.</div><div class="ttdef"><b>Definition</b> LockedQueue.h:63</div></div>
+<div class="ttc" id="aclassLockedQueue_html_ac818ec56d60e2ec059857e0aaa99f8a4"><div class="ttname"><a href="../../d2/d8b/classLockedQueue.html#ac818ec56d60e2ec059857e0aaa99f8a4">LockedQueue::next</a></div><div class="ttdeci">bool next(T &amp;result)</div><div class="ttdoc">Gets the next item in the queue and removes it.</div><div class="ttdef"><b>Definition</b> LockedQueue.h:77</div></div>
 <div class="ttc" id="aclassMMAP_1_1MMapFactory_html_af2120a6bb6aa223baa117e5699c93012"><div class="ttname"><a href="../../dc/d5c/classMMAP_1_1MMapFactory.html#af2120a6bb6aa223baa117e5699c93012">MMAP::MMapFactory::clear</a></div><div class="ttdeci">static void clear()</div><div class="ttdef"><b>Definition</b> MMapFactory.cpp:48</div></div>
 <div class="ttc" id="aclassVMAP_1_1VMapFactory_html_a69bc508845bc35319a6d8c51e562a5f9"><div class="ttname"><a href="../../d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9">VMAP::VMapFactory::clear</a></div><div class="ttdeci">static void clear()</div><div class="ttdef"><b>Definition</b> VMapFactory.cpp:39</div></div>
 <div class="ttc" id="aclassWorld_html_a45eb673c19fc1664b6e2ec7fd234c7fc"><div class="ttname"><a href="../../d6/d39/classWorld.html#a45eb673c19fc1664b6e2ec7fd234c7fc">World::_offlineSessions</a></div><div class="ttdeci">SessionMap _offlineSessions</div><div class="ttdef"><b>Definition</b> World.h:379</div></div>
@@ -715,7 +715,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassWorld_html_aed78fef424de1212a0f25f5e40067b77"><div class="ttname"><a href="../../d6/d39/classWorld.html#aed78fef424de1212a0f25f5e40067b77">World::_cliCmdQueue</a></div><div class="ttdeci">LockedQueue&lt; CliCommandHolder * &gt; _cliCmdQueue</div><div class="ttdef"><b>Definition</b> World.h:411</div></div>
 <div class="ttc" id="astructCliCommandHolder_html"><div class="ttname"><a href="../../de/d80/structCliCommandHolder.html">CliCommandHolder</a></div><div class="ttdoc">Storage class for commands issued for delayed execution.</div><div class="ttdef"><b>Definition</b> IWorld.h:34</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, <a class="el" href="../../#l00379">_offlineSessions</a>, <a class="el" href="../../#l00378">_sessions</a>, <a class="el" href="../../#l00048">MMAP::MMapFactory::clear()</a>, <a class="el" href="../../#l00039">VMAP::VMapFactory::clear()</a>, and <a class="el" href="../../#l00063">LockedQueue&lt; T, StorageType &gt;::next()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, <a class="el" href="../../#l00379">_offlineSessions</a>, <a class="el" href="../../#l00378">_sessions</a>, <a class="el" href="../../#l00048">MMAP::MMapFactory::clear()</a>, <a class="el" href="../../#l00039">VMAP::VMapFactory::clear()</a>, and <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>.</p>
 
 </div>
 </div>
@@ -934,10 +934,10 @@ Static Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  253</span>{</div>
 <div class="line"><span class="lineno">  254</span>    <a class="code hl_variable" href="../../d6/d39/classWorld.html#ac12499115b139a933222ffa5640d3069">_addSessQueue</a>.<a class="code hl_function" href="../../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8">add</a>(s);</div>
 <div class="line"><span class="lineno">  255</span>}</div>
-<div class="ttc" id="aclassLockedQueue_html_a03f459044b4ffb413fb8d1ba98179ab8"><div class="ttname"><a href="../../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8">LockedQueue::add</a></div><div class="ttdeci">void add(const T &amp;item)</div><div class="ttdoc">Adds an item to the queue.</div><div class="ttdef"><b>Definition</b> LockedQueue.h:45</div></div>
+<div class="ttc" id="aclassLockedQueue_html_a03f459044b4ffb413fb8d1ba98179ab8"><div class="ttname"><a href="../../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8">LockedQueue::add</a></div><div class="ttdeci">void add(const T &amp;item)</div><div class="ttdoc">Adds an item to the back of the queue.</div><div class="ttdef"><b>Definition</b> LockedQueue.h:52</div></div>
 <div class="ttc" id="aclassWorld_html_ac12499115b139a933222ffa5640d3069"><div class="ttname"><a href="../../d6/d39/classWorld.html#ac12499115b139a933222ffa5640d3069">World::_addSessQueue</a></div><div class="ttdeci">LockedQueue&lt; WorldSession * &gt; _addSessQueue</div><div class="ttdef"><b>Definition</b> World.h:426</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00426">_addSessQueue</a>, and <a class="el" href="../../#l00045">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00426">_addSessQueue</a>, and <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
 
 </div>
 </div>
@@ -5072,7 +5072,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="astructCliCommandHolder_html_ab10379cf266b38f4d81e2477b727471e"><div class="ttname"><a href="../../de/d80/structCliCommandHolder.html#ab10379cf266b38f4d81e2477b727471e">CliCommandHolder::Print</a></div><div class="ttdeci">void(*)(void *, std::string_view) Print</div><div class="ttdef"><b>Definition</b> IWorld.h:35</div></div>
 <div class="ttc" id="astructCliCommandHolder_html_ae333918e09a9de4c9e402c334e076674"><div class="ttname"><a href="../../de/d80/structCliCommandHolder.html#ae333918e09a9de4c9e402c334e076674">CliCommandHolder::m_command</a></div><div class="ttdeci">char * m_command</div><div class="ttdef"><b>Definition</b> IWorld.h:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, <a class="el" href="../../#l00237">ChatHandler::HasSentErrorMessage()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00038">CliCommandHolder::m_callbackArg</a>, <a class="el" href="../../#l00039">CliCommandHolder::m_command</a>, <a class="el" href="../../#l00041">CliCommandHolder::m_commandFinished</a>, <a class="el" href="../../#l00040">CliCommandHolder::m_print</a>, <a class="el" href="../../#l00063">LockedQueue&lt; T, StorageType &gt;::next()</a>, and <a class="el" href="../../#l00895">CliHandler::ParseCommands()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, <a class="el" href="../../#l00237">ChatHandler::HasSentErrorMessage()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00038">CliCommandHolder::m_callbackArg</a>, <a class="el" href="../../#l00039">CliCommandHolder::m_command</a>, <a class="el" href="../../#l00041">CliCommandHolder::m_commandFinished</a>, <a class="el" href="../../#l00040">CliCommandHolder::m_print</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, and <a class="el" href="../../#l00895">CliHandler::ParseCommands()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02269">Update()</a>.</p>
 
@@ -5139,7 +5139,7 @@ Static Private Attributes</h2></td></tr>
 <p>Implements <a class="el" href="../../d5/d4d/classIWorld.html#a325294771c12b3a097363856a9bdd260">IWorld</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  322</span>{ <a class="code hl_variable" href="../../d6/d39/classWorld.html#aed78fef424de1212a0f25f5e40067b77">_cliCmdQueue</a>.<a class="code hl_function" href="../../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8">add</a>(commandHolder); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, and <a class="el" href="../../#l00045">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00411">_cliCmdQueue</a>, and <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
 
 </div>
 </div>
@@ -8026,7 +8026,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassWorldSession_html_afd519a2ae4f8deb94208a71b23a33aaf"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#afd519a2ae4f8deb94208a71b23a33aaf">WorldSession::IsKicked</a></div><div class="ttdeci">bool IsKicked() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:1079</div></div>
 <div class="ttc" id="aclassWorld_html_a17a1ece4104f5702640a9b030e9f0dad"><div class="ttname"><a href="../../d6/d39/classWorld.html#a17a1ece4104f5702640a9b030e9f0dad">World::AddSession_</a></div><div class="ttdeci">void AddSession_(WorldSession *s)</div><div class="ttdef"><b>Definition</b> World.cpp:257</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00426">_addSessQueue</a>, <a class="el" href="../../#l00381">_disconnects</a>, <a class="el" href="../../#l00379">_offlineSessions</a>, <a class="el" href="../../#l00378">_sessions</a>, <a class="el" href="../../#l00257">AddSession_()</a>, <a class="el" href="../../#l00213">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>, <a class="el" href="../../#l00375">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00297">getIntConfig()</a>, <a class="el" href="../../#l01078">WorldSession::GetOfflineTime()</a>, <a class="el" href="../../#l00376">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00536">WorldSession::HandleSocketClosed()</a>, <a class="el" href="../../#l01079">WorldSession::IsKicked()</a>, <a class="el" href="../../#l00220">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>, <a class="el" href="../../#l00219">METRIC_DETAILED_TIMER</a>, <a class="el" href="../../#l00159">METRIC_TAG</a>, <a class="el" href="../../#l00063">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../#l00360">RemoveQueuedPlayer()</a>, <a class="el" href="../../#l01077">WorldSession::SetOfflineTime()</a>, and <a class="el" href="../../#l00300">WorldSession::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00426">_addSessQueue</a>, <a class="el" href="../../#l00381">_disconnects</a>, <a class="el" href="../../#l00379">_offlineSessions</a>, <a class="el" href="../../#l00378">_sessions</a>, <a class="el" href="../../#l00257">AddSession_()</a>, <a class="el" href="../../#l00213">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>, <a class="el" href="../../#l00375">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00297">getIntConfig()</a>, <a class="el" href="../../#l01078">WorldSession::GetOfflineTime()</a>, <a class="el" href="../../#l00376">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00536">WorldSession::HandleSocketClosed()</a>, <a class="el" href="../../#l01079">WorldSession::IsKicked()</a>, <a class="el" href="../../#l00220">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>, <a class="el" href="../../#l00219">METRIC_DETAILED_TIMER</a>, <a class="el" href="../../#l00159">METRIC_TAG</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../#l00360">RemoveQueuedPlayer()</a>, <a class="el" href="../../#l01077">WorldSession::SetOfflineTime()</a>, and <a class="el" href="../../#l00300">WorldSession::Update()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02269">Update()</a>.</p>
 
@@ -9099,7 +9099,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d39/classWorld.html">World</a></li>
-    <li class="footer">Generated on Thu Jan 23 2025 06:20:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jan 24 2025 06:20:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

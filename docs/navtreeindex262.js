@@ -1,7 +1,5 @@
 var NAVTREEINDEX262 =
 {
-"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aff3c7cb6cd42a4018f9b949afe89e004":[7,0,0,0,1,2,16,7,5,137,12],
-"da/dbf/Player_8h.html#ab2dad6ccd523f4a1d9099e820e603d1e":[7,0,0,0,1,2,16,7,5,63],
 "da/dbf/Player_8h.html#ab5c23006e50d6e278b50ca5a57e478d6":[7,0,0,0,1,2,16,7,5,46],
 "da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8":[7,0,0,0,1,2,16,7,5,122],
 "da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a43e609d4309527a1344f62f72ac6a861":[7,0,0,0,1,2,16,7,5,122,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX262 =
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#aeeb18f0aee11e7f0bbd7e4c7936e8869":[6,0,526,0,4],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#af0096a40fd1337ecf810e54c89deb327":[6,0,526,0,6],
 "da/dcb/classspell__skeram__arcane__explosion.html":[6,0,3746],
-"da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[6,0,3746,0]
+"da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[6,0,3746,0],
+"da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[6,0,3746,1],
+"da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[6,0,3746,2]
 };

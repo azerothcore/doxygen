@@ -1,7 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3004d23e6eaa3f2ef5942e96e0c17308":[6,0,552,0,11],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3a21a45072144b6f0421733466770267":[6,0,552,0,10],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3fa1e67bf942824cd40c5591f4e63a08":[6,0,552,0,0],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a440b758486cd95b7884fe2ce9bdfb28f":[6,0,552,0,6],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a49066a2fa1dc424a27262706c8af046a":[6,0,552,0,2],
@@ -81,10 +79,10 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4180,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,31,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,5,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,31,5,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[6,0,1704],
@@ -249,5 +247,7 @@ var NAVTREEINDEX152 =
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065afb4bf32a8356fd21bf71815e09bfa3f9":[7,0,0,0,1,3,5,2,0,0,25,14],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065affad04806a12aa2afe39e609f129580c":[7,0,0,0,1,3,5,2,0,0,25,11],
 "d5/dbb/boss__argent__challenge_8cpp.html#aff31c755c0c35f6c75440182aafc212e":[7,0,0,0,1,3,5,2,0,0,14],
-"d5/dbc/namespaceDoodad.html":[5,0,13]
+"d5/dbc/namespaceDoodad.html":[5,0,13],
+"d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,13,0],
+"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,13,1]
 };

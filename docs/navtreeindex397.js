@@ -1,7 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"functions_type_b.html":[6,3,3,2],
-"functions_type_c.html":[6,3,3,3],
 "functions_type_d.html":[6,3,3,4],
 "functions_type_e.html":[6,3,3,5],
 "functions_type_f.html":[6,3,3,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX397 =
 "namespacemembers.html":[5,1,0],
 "namespacemembers_b.html":[5,1,0,1],
 "namespacemembers_c.html":[5,1,0,2],
-"namespacemembers_d.html":[5,1,0,3]
+"namespacemembers_d.html":[5,1,0,3],
+"namespacemembers_e.html":[5,1,0,4],
+"namespacemembers_enum.html":[5,1,4]
 };

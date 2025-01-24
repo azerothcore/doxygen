@@ -1,7 +1,5 @@
 var NAVTREEINDEX77 =
 {
-"d2/de9/classSpellInfo.html#aa8de3a55617f9dbe8313e4d66907a0b7":[6,0,3994,28],
-"d2/de9/classSpellInfo.html#aa957eeb510350df83e1e7f18994a53d0":[6,0,3994,66],
 "d2/de9/classSpellInfo.html#aa9d0a19769974a025cc53eddb8bd0e38":[6,0,3994,29],
 "d2/de9/classSpellInfo.html#aad468ff1d83ba29cad67dc5d395337db":[6,0,3994,156],
 "d2/de9/classSpellInfo.html#aae8dfafe06e0dd85eb98212daec448f7":[6,0,3994,130],
@@ -249,5 +247,7 @@ var NAVTREEINDEX77 =
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,3,1,3,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#adb2eb2d091d5cc04f803066829d697bb":[7,0,0,0,1,3,7,0,3,1,4],
 "d2/dec/classnpc__assembly__lightning.html":[6,0,1583],
-"d2/dec/classnpc__assembly__lightning.html#a4054ea8bb68b2742847b359e19b477df":[6,0,1583,2]
+"d2/dec/classnpc__assembly__lightning.html#a4054ea8bb68b2742847b359e19b477df":[6,0,1583,2],
+"d2/dec/classnpc__assembly__lightning.html#ac9776fc8cb3dd3f8bfecb1d367afefd2":[6,0,1583,1],
+"d2/dec/group__u2w.html":[4,1]
 };

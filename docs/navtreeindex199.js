@@ -1,7 +1,5 @@
 var NAVTREEINDEX199 =
 {
-"d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946":[6,0,1446,57],
-"d7/db0/classMap.html#aa6b4598db359095ac0b6b446862c717c":[6,0,1446,175],
 "d7/db0/classMap.html#aa6cf73684dd1684cc2bf28f77ad37f3e":[6,0,1446,60],
 "d7/db0/classMap.html#aa8c061a376ee3e7982951ef26c9946cd":[6,0,1446,181],
 "d7/db0/classMap.html#aa95d8065e23713c2d990a3927e9fe0fc":[6,0,1446,85],
@@ -249,5 +247,7 @@ var NAVTREEINDEX199 =
 "d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[7,0,0,0,0,3,16,1],
 "d7/db6/OpenSSLCrypto_8h.html#af868d9171650614810772c5675c47fd3":[7,0,0,0,0,3,16,0],
 "d7/db6/structAISpellInfoType.html":[6,0,142],
-"d7/db6/structAISpellInfoType.html#a3b6d2057522e7b79c87a16d4b9cced98":[6,0,142,0]
+"d7/db6/structAISpellInfoType.html#a3b6d2057522e7b79c87a16d4b9cced98":[6,0,142,0],
+"d7/db6/structAISpellInfoType.html#a3ee8081ca5749ef9b5991a5505104ee9":[6,0,142,4],
+"d7/db6/structAISpellInfoType.html#a6ea49fdc98ece29ceee63352424e9366":[6,0,142,2]
 };

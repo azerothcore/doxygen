@@ -16,7 +16,8 @@ var boss__felblood__kaelthas_8cpp =
       [ "SAY_GRAVITY_LAPSE", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1acf1c3a144e41ab43eaf801552cceecc7", null ],
       [ "SAY_TIRED", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1a67e164a4d77e2d3072ac45e824794f8b", null ],
       [ "SAY_RECAST_GRAVITY", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1a1c862bb3eb0824bdb9ad2b06f39f3bf6", null ],
-      [ "SAY_DEATH", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ]
+      [ "SAY_DEATH", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SAY_AGGRO_2", "d1/d01/boss__felblood__kaelthas_8cpp.html#a16774215bba3b38580ea51987d64cff1a0fdaf6665212c1450403a1bb874dc352", null ]
     ] ],
     [ "Spells", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_FIREBALL", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963", null ],

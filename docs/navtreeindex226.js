@@ -1,9 +1,7 @@
 var NAVTREEINDEX226 =
 {
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62":[6,0,0,117,0],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62":[5,0,1,129,0],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a5688db61fc9d297252987830eadb0ee5":[6,0,0,117,10],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a5688db61fc9d297252987830eadb0ee5":[5,0,1,129,10],
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a5688db61fc9d297252987830eadb0ee5":[6,0,0,117,10],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a8f705e476d2a32ca90d589d9b58b2c8d":[6,0,0,117,9],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a8f705e476d2a32ca90d589d9b58b2c8d":[5,0,1,129,9],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa2742bc25a4773a487e9e8ff760644ea":[6,0,0,117,6],
@@ -14,8 +12,8 @@ var NAVTREEINDEX226 =
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[6,0,0,117,5],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[6,0,0,117,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[5,0,1,129,2],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[6,0,0,117,1],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[5,0,1,129,1],
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[6,0,0,117,1],
 "d8/dff/boss__urok__doomhowl_8cpp.html":[7,0,0,0,1,3,2,1,1,13],
 "d8/dff/boss__urok__doomhowl_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,1,1,13,3],
 "d8/dff/boss__urok__doomhowl_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,1,1,13,3,1],
@@ -78,12 +76,12 @@ var NAVTREEINDEX226 =
 "d9/d01/TargetedMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,17],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[5,0,1,7,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[6,0,0,4,8],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,1,7,8,3],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,1,7,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[6,0,0,4,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,1,7,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[6,0,0,4,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,1,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[6,0,0,4,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX226 =
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8ae6166ec5824e9f9f7476e22eae81c76c":[7,0,0,0,1,3,7,1,2,23,5],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8af4088137ea7449ed019646c995839409":[7,0,0,0,1,3,7,1,2,23,7],
 "d9/d02/boss__illidan_8cpp.html#a9e682bf5435b4791d707cf2eb2479539":[7,0,0,0,1,3,7,1,2,39],
-"d9/d02/boss__illidan_8cpp.html#aa0713f650e92920561f94fc10389a058":[7,0,0,0,1,3,7,1,2,32]
+"d9/d02/boss__illidan_8cpp.html#aa0713f650e92920561f94fc10389a058":[7,0,0,0,1,3,7,1,2,32],
+"d9/d02/boss__illidan_8cpp.html#aaa81c4a194095bd38cf274151b60d456":[7,0,0,0,1,3,7,1,2,34],
+"d9/d02/boss__illidan_8cpp.html#aabac44233b15773a45dda4fe4561d147":[7,0,0,0,1,3,7,1,2,33]
 };

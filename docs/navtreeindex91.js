@@ -1,7 +1,5 @@
 var NAVTREEINDEX91 =
 {
-"d3/d06/classPuppet.html#ab0082936291e6b7f5370656c7c9ed948":[6,0,2408,0],
-"d3/d06/classPuppet.html#abfc97f1d25cb1ac27b1bed6f61867fa3":[6,0,2408,3],
 "d3/d06/classPuppet.html#ac5dd23d7cf6d4b4a2ba073ae1128181b":[6,0,2408,2],
 "d3/d06/classPuppet.html#adae18eabdba52ef8a9f7c5c8768e060c":[6,0,2408,6],
 "d3/d06/classspell__lurker__below__spout__cone.html":[6,0,3316],
@@ -249,5 +247,7 @@ var NAVTREEINDEX91 =
 "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caad46b1abd1272b63396c8283aa1eae5d8":[7,0,0,0,1,3,5,15,50,0],
 "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4":[7,0,0,0,1,3,5,15,52],
 "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a526123ed48766dbd305162355e1488f3":[7,0,0,0,1,3,5,15,52,6],
-"d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a64271ae9d918bbe98c41f665d909ff8d":[7,0,0,0,1,3,5,15,52,5]
+"d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a64271ae9d918bbe98c41f665d909ff8d":[7,0,0,0,1,3,5,15,52,5],
+"d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a6d1f642e0db602f0e01eb6b1c9ac6212":[7,0,0,0,1,3,5,15,52,3],
+"d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a81d1f706e1dc4fea6b953e51f45415fa":[7,0,0,0,1,3,5,15,52,4]
 };

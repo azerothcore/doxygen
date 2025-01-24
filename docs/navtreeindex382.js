@@ -1,10 +1,8 @@
 var NAVTREEINDEX382 =
 {
-"df/d8e/classMMAP_1_1MMapMgr.html#a8b087a39387a10c17dca364b9db537f9":[5,0,21,7,2],
-"df/d8e/classMMAP_1_1MMapMgr.html#a98a7d0bf952eb80340863f2336ae84d1":[5,0,21,7,14],
 "df/d8e/classMMAP_1_1MMapMgr.html#a98a7d0bf952eb80340863f2336ae84d1":[6,0,6,7,14],
-"df/d8e/classMMAP_1_1MMapMgr.html#a9e2154958fcfa78d8906ccb5ccf2597c":[5,0,21,7,15],
 "df/d8e/classMMAP_1_1MMapMgr.html#a9e2154958fcfa78d8906ccb5ccf2597c":[6,0,6,7,15],
+"df/d8e/classMMAP_1_1MMapMgr.html#a9e2154958fcfa78d8906ccb5ccf2597c":[5,0,21,7,15],
 "df/d8e/classMMAP_1_1MMapMgr.html#aa27722de47fd0f5ea0d0afac8b08e161":[5,0,21,7,8],
 "df/d8e/classMMAP_1_1MMapMgr.html#aa27722de47fd0f5ea0d0afac8b08e161":[6,0,6,7,8],
 "df/d8e/classMMAP_1_1MMapMgr.html#aa97a8352cad200ea1243e968dc1629a6":[5,0,21,7,13],
@@ -15,10 +13,10 @@ var NAVTREEINDEX382 =
 "df/d8e/classMMAP_1_1MMapMgr.html#ac677ea014721d0631195ba64b05c66a0":[6,0,6,7,9],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,21,7,10],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[6,0,6,7,10],
-"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[5,0,21,7,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[6,0,6,7,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,21,7,6],
+"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[5,0,21,7,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,7,6],
+"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,21,7,6],
 "df/d8e/classspell__mage__burnout__trigger.html":[6,0,3324],
 "df/d8e/classspell__mage__burnout__trigger.html#a1f83fae2fb3dc0904ed56101e1254f5f":[6,0,3324,2],
 "df/d8e/classspell__mage__burnout__trigger.html#a4fde3142b38989cb37db76da6eada03c":[6,0,3324,0],
@@ -136,8 +134,8 @@ var NAVTREEINDEX382 =
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[6,0,936,1,12],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,936,1,9],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,936,1,8],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,936,1,7],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,936,1,6],
+"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,936,1,7],
 "df/d94/classShockVortexExplodeEvent.html":[6,0,2503],
 "df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[6,0,2503,1],
 "df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[6,0,2503,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX382 =
 "df/d9a/OutdoorPvPNA_8h.html#a3951c5b11bab0eeb9b06c1e19b25c036":[7,0,0,0,1,3,6,8,3],
 "df/d9a/OutdoorPvPNA_8h.html#a3fba4585a3d42e96191aa62b6938472f":[7,0,0,0,1,3,6,8,20],
 "df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557c":[7,0,0,0,1,3,6,8,11],
-"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5":[7,0,0,0,1,3,6,8,11,0]
+"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5":[7,0,0,0,1,3,6,8,11,0],
+"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200":[7,0,0,0,1,3,6,8,11,1],
+"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e":[7,0,0,0,1,3,6,8,11,3]
 };

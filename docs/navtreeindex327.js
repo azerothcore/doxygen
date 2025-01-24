@@ -1,7 +1,5 @@
 var NAVTREEINDEX327 =
 {
-"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceead685cfc89c277ad5fce5c6943abf5cf2":[7,0,0,0,1,3,5,23,28,9],
-"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeadb17c9a6dbec4722b8ea5d2ca9087ac0":[7,0,0,0,1,3,5,23,28,4],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213":[7,0,0,0,1,3,5,23,28,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0":[7,0,0,0,1,3,5,23,28,5],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709":[7,0,0,0,1,3,5,23,23],
@@ -168,8 +166,8 @@ var NAVTREEINDEX327 =
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2125],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2125,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2125,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX327 =
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#ae742dceac5979faebb58a133e9bd91f0":[6,0,427,0,2],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#af0c1477b3d9fb48cfcf55f32e21591f4":[6,0,427,0,7],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#af41946feab7b86d812f706bd7abbf1bd":[6,0,427,0,3],
-"dd/dc5/classgo__orb__of__domination.html":[6,0,1141]
+"dd/dc5/classgo__orb__of__domination.html":[6,0,1141],
+"dd/dc5/classgo__orb__of__domination.html#a1d4659e21344a12ec6084ef7ef5df7d0":[6,0,1141,0],
+"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1141,1]
 };

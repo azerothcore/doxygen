@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[6,0,3896,1],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[6,0,3896,0],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[6,0,3896,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[6,0,2010,0],
@@ -155,10 +156,10 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,2945,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,70],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,58],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,58,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,70,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,58,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,58,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,70,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,58,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,70,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,58,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,58,3],
@@ -200,12 +201,12 @@ var NAVTREEINDEX48 =
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#ae797de0ed29b3ca179c07d759b469228":[6,0,3518,2],
 "d1/dff/structAcore_1_1ObjectUpdater.html":[5,0,1,101],
 "d1/dff/structAcore_1_1ObjectUpdater.html":[6,0,0,89],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[5,0,1,101,3],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[6,0,0,89,3],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[5,0,1,101,3],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[6,0,0,89,2],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[5,0,1,101,2],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a4f1acae57c44d33449a8f040b02fa5e4":[5,0,1,101,5],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a4f1acae57c44d33449a8f040b02fa5e4":[6,0,0,89,5],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a4f1acae57c44d33449a8f040b02fa5e4":[5,0,1,101,5],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a7dc639f90a38e6156a436ef6ff1204ec":[6,0,0,89,1],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a7dc639f90a38e6156a436ef6ff1204ec":[5,0,1,101,1],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a8f3e4ed206f6793edf9bf358d1bdf2c2":[6,0,0,89,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "d2/d04/classBattlegroundAV.html#a2ce76cb954602639f13eeef75a61ad9e":[6,0,299,10],
 "d2/d04/classBattlegroundAV.html#a313b97c6c8eb5de313b2d49d208cfae0":[6,0,299,37],
 "d2/d04/classBattlegroundAV.html#a31f573a1fd82f041cc81348b41e2e501":[6,0,299,51],
-"d2/d04/classBattlegroundAV.html#a3885e1076f159ef6e4ee7a5e491e0d7a":[6,0,299,45],
-"d2/d04/classBattlegroundAV.html#a3aeadf26150bab0d0eeea02b2125b00b":[6,0,299,3]
+"d2/d04/classBattlegroundAV.html#a3885e1076f159ef6e4ee7a5e491e0d7a":[6,0,299,45]
 };

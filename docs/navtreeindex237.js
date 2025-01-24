@@ -1,7 +1,5 @@
 var NAVTREEINDEX237 =
 {
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#ae0a6d4850a0a0da4bd04227b11bae9e4":[6,0,1982,4],
-"d9/d90/zone__eversong__woods_8cpp.html":[7,0,0,0,1,3,2,24],
 "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e":[7,0,0,0,1,3,2,24,2],
 "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9":[7,0,0,0,1,3,2,24,2,4],
 "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886":[7,0,0,0,1,3,2,24,2,1],
@@ -187,12 +185,12 @@ var NAVTREEINDEX237 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[6,0,2858,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,1,8,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[6,0,0,5,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,1,8,1,0,0],
 "d9/d9b/classHostileReference.html":[6,0,1244],
@@ -235,8 +233,8 @@ var NAVTREEINDEX237 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8":[7,0,0,0,1,3,2,32,4],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798":[7,0,0,0,1,3,2,32,4,0],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[7,0,0,0,1,3,2,32,5],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,31,5,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[6,0,11,5,46],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,31,5,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,31,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,11,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,31,5,46,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX237 =
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[7,0,0,0,1,3,0,0,1],
 "d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2021],
 "d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2021,3],
-"d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2021,4]
+"d9/d9f/classnpc__putricide__oozeAI.html#a4820e07300bfd50980e42faac3327fec":[6,0,2021,4],
+"d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2021,6],
+"d9/d9f/classnpc__putricide__oozeAI.html#a508fe1a9974f2ffa36c72575c2d4b252":[6,0,2021,7]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d6/d07/structnpc__nightbane__helper__target.html":[6,0,1950],
-"d6/d07/structnpc__nightbane__helper__target.html#a688ebb85baad72e523be0dceb70a75fc":[6,0,1950,0],
 "d6/d08/FollowerRefMgr_8h.html":[7,0,0,0,1,2,31,5],
 "d6/d09/classspell__herald__volzaj__insanity.html":[6,0,3021],
 "d6/d09/classspell__herald__volzaj__insanity.html#a4fc295b4d8775dce16d913fe4a8ce8cb":[6,0,3021,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29cedae2e298b0385483a254dfe93caea9ea7c":[7,0,0,0,1,3,10,5,74,0],
 "d6/d0c/go__scripts_8cpp.html#adf584257acd0715545b9fd85af9b4b26":[7,0,0,0,1,3,10,5,54],
 "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548":[7,0,0,0,1,3,10,5,91],
-"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f":[7,0,0,0,1,3,10,5,91,1]
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f":[7,0,0,0,1,3,10,5,91,1],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4":[7,0,0,0,1,3,10,5,91,2],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33":[7,0,0,0,1,3,10,5,91,0]
 };

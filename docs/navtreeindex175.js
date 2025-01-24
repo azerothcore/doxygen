@@ -1,7 +1,5 @@
 var NAVTREEINDEX175 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a0a80e1e5e59ea98d4f2479a9c77abc38":[7,0,0,0,1,2,16,6,2,9,23],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a0aa0c961bdeac93e543d7220a231efb9":[7,0,0,0,1,2,16,6,2,9,3],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a10924dd5bdf6d5e874dc90169d7428c0":[7,0,0,0,1,2,16,6,2,9,27],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a1312d5c9b922188d01ddc00f85de7a0a":[7,0,0,0,1,2,16,6,2,9,14],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a1517c7eb9a168500db21bdc6c7a1a7e8":[7,0,0,0,1,2,16,6,2,9,21],
@@ -249,5 +247,7 @@ var NAVTREEINDEX175 =
 "d6/dac/structM2SplineKey.html":[6,0,1432],
 "d6/dac/structM2SplineKey.html#a40d46738768d6c2037e5978ce32a9fb8":[6,0,1432,2],
 "d6/dac/structM2SplineKey.html#a8c5a9c6371f264469203575be48684fa":[6,0,1432,1],
-"d6/dac/structM2SplineKey.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad":[6,0,1432,0]
+"d6/dac/structM2SplineKey.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad":[6,0,1432,0],
+"d6/dad/classspell__gen__eject__all__passengers.html":[6,0,2888],
+"d6/dad/classspell__gen__eject__all__passengers.html#a4ec803f3164d6e38ddf10f4a0ca392e0":[6,0,2888,2]
 };

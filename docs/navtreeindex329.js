@@ -1,7 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[7,0,0,0,1,2,38,0,75,1,135],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[7,0,0,0,1,2,38,0,75,1,58],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[7,0,0,0,1,2,38,0,75,1,165],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3fa08968eb2d0acc747af4886085bee4":[7,0,0,0,1,2,38,0,75,1,117],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a1e3ddb279ae0a6244979b5335abe2":[7,0,0,0,1,2,38,0,75,1,59],
@@ -249,5 +247,7 @@ var NAVTREEINDEX329 =
 "dd/dcf/structCharacterCacheEntry.html#a1d094e514af9970b0239cc8e27da06bc":[6,0,836,1],
 "dd/dcf/structCharacterCacheEntry.html#a41ea77c9e690336b709259bfccbd939f":[6,0,836,6],
 "dd/dcf/structCharacterCacheEntry.html#a4b6f5540de2e47959a053696698e8e05":[6,0,836,3],
-"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,836,5]
+"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,836,5],
+"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,836,8],
+"dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,836,7]
 };

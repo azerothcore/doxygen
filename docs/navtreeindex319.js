@@ -1,7 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1815,0,6],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1815,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1815,0,2],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1815,0,0],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1815,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX319 =
 "dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[6,0,2154,1],
 "dd/d58/classspell__gen__knock__away.html":[6,0,2910],
 "dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[6,0,2910,0],
-"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2910,2]
+"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2910,2],
+"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2910,1],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1866,0]
 };

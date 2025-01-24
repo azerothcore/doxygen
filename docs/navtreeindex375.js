@@ -1,7 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aacd146fbfac94b8f82b3971ff74644cc":[6,0,2039,0,7],
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ab3cd1550cda44cecf889f4bf28f976ba":[6,0,2039,0,3],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ad12541907c439117cf8c8a6741c07445":[6,0,2039,0,12],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ad161bb0a6c76d223b1e687a1cc604375":[6,0,2039,0,4],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ade0c279565236eb3fd59fd43eef4c3e1":[6,0,2039,0,10],
@@ -17,20 +15,20 @@ var NAVTREEINDEX375 =
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,31,5,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,5,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,31,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,5,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,31,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,31,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,5,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,5,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,5,40,4],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,31,5,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,5,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,31,5,40,6],
 "df/d2d/classachievement__thorim__lose__your__illusion.html":[6,0,94],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[6,0,94,1],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[6,0,94,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX375 =
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[6,0,1881,0,0],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[6,0,1881,0,9],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[6,0,1881,0,4],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[6,0,1881,0,1]
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[6,0,1881,0,1],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[6,0,1881,0,7],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[6,0,1881,0,8]
 };

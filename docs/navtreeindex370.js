@@ -1,7 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[7,0,0,0,1,2,16,5,7,2],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[7,0,0,0,1,2,16,5,7,2,0],
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[7,0,0,0,1,2,16,5,7,2,1],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[6,0,3541],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[6,0,3541,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX370 =
 "df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb":[6,0,2347,56],
 "df/d14/classPet.html#aaccd1b242377432d3b3c79909a2d8ef4":[6,0,2347,66],
 "df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167":[6,0,2347,53],
-"df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1":[6,0,2347,59]
+"df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1":[6,0,2347,59],
+"df/d14/classPet.html#ab79fec2955813a0598a4a4fc972daa69":[6,0,2347,30],
+"df/d14/classPet.html#ab85942641ebca1533c4de72ff2f7abb2":[6,0,2347,64]
 };

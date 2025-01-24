@@ -1,7 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[6,0,296,51],
-"df/da7/classBattleground.html#a5746983283edbcf45f6a980b61b6cf05":[6,0,296,112],
 "df/da7/classBattleground.html#a576a3a84512ae8afa468f7d31f556e9a":[6,0,296,36],
 "df/da7/classBattleground.html#a577dcbd8ed354790c88257ba2e0a9179":[6,0,296,232],
 "df/da7/classBattleground.html#a57f23a55d9f4ebdad0202c7df1e40337":[6,0,296,118],
@@ -163,12 +161,12 @@ var NAVTREEINDEX385 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,296,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,296,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,296,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2869],
@@ -249,5 +247,7 @@ var NAVTREEINDEX385 =
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[6,0,2008,0],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a1e1ab6c1d349a9543815a29ae185feec":[6,0,2008,0,6],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a2ded8591da2548921cd016d592d1f1c8":[6,0,2008,0,0],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a32f4c5c48f1a63ded0ac9b8ee763090b":[6,0,2008,0,2]
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a32f4c5c48f1a63ded0ac9b8ee763090b":[6,0,2008,0,2],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a452c096475581c12bf2f4ccb12448026":[6,0,2008,0,5],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a640aea9ce4a47dd13d417748e533fc33":[6,0,2008,0,4]
 };
