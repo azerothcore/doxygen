@@ -1,5 +1,14 @@
 var NAVTREEINDEX307 =
 {
+"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,496,7],
+"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,496,6],
+"dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,496,1],
+"dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,496,0],
+"dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,496,4],
+"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,496,2],
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,496,3],
+"dc/db5/classnpc__frenzied__worgen.html":[6,0,1758],
+"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1758,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1758,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2175],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2175,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[6,0,1966,0],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[6,0,1966,4],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[6,0,1966,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[6,0,1966,2],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[6,0,1966,1],
-"dc/dc8/classspell__pri__guardian__spirit.html":[6,0,3477],
-"dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[6,0,3477,6],
-"dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[6,0,3477,3],
-"dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[6,0,3477,1],
-"dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[6,0,3477,2],
-"dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[6,0,3477,4],
-"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[6,0,3477,0],
-"dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[6,0,3477,5]
+"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[6,0,1966,2]
 };

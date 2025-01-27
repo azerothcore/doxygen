@@ -1,16 +1,22 @@
 var NAVTREEINDEX270 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,2,7,0,4],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d":[7,0,0,0,1,3,2,7,0,4,8],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb":[7,0,0,0,1,3,2,7,0,4,2],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15":[7,0,0,0,1,3,2,7,0,4,3],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849":[7,0,0,0,1,3,2,7,0,4,4],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f":[7,0,0,0,1,3,2,7,0,4,1],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b":[7,0,0,0,1,3,2,7,0,4,7],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a":[7,0,0,0,1,3,2,7,0,4,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1853,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1853,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1853,0,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX270 =
 "db/d32/classspell__ioc__gunship__portal.html#a7cf32445caa09f2a2b3c52f68f315ba5":[6,0,3132,4],
 "db/d32/classspell__ioc__gunship__portal.html#ad41decc0a264104ca2232aef4e71cdaf":[6,0,3132,2],
 "db/d32/classspell__ioc__gunship__portal.html#ae0d16607f9eb3ff233513233bfb573ea":[6,0,3132,0],
-"db/d32/classspell__item__flask__of__the__north.html":[6,0,3172],
-"db/d32/classspell__item__flask__of__the__north.html#a18a648ebf1dbc9a11d09e457a33d0e33":[6,0,3172,3],
-"db/d32/classspell__item__flask__of__the__north.html#a1fb13b562c5d4f905739e193bc5292dd":[6,0,3172,1],
-"db/d32/classspell__item__flask__of__the__north.html#a3f9d43d11b344e3eb02fdc088506008e":[6,0,3172,0],
-"db/d32/classspell__item__flask__of__the__north.html#a581e04721eb9564d1300ddd78c805368":[6,0,3172,2],
-"db/d33/structboss__svala_1_1boss__svalaAI.html":[6,0,700,0],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#a3d14b708a8156a6c9025ff92aa3774c4":[6,0,700,0,14]
+"db/d32/classspell__item__flask__of__the__north.html":[6,0,3172]
 };

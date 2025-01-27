@@ -1,5 +1,14 @@
 var NAVTREEINDEX291 =
 {
+"db/df2/classHealInfo.html#ae7a08b2e27a5ac316ed2d3bca7d2395d":[6,0,1233,8],
+"db/df2/classHealInfo.html#af0a2d7c40710cabbb88122de2650c705":[6,0,1233,13],
+"db/df2/classHealInfo.html#af2fd7934b1b1cd08dd4dcfeadc9c02df":[6,0,1233,15],
+"db/df2/classHealInfo.html#af95a6d6c94a72874c150a3deabce20ee":[6,0,1233,4],
+"db/df2/structGossipMenuItems.html":[6,0,1188],
+"db/df2/structGossipMenuItems.html#a0b73f7ce36e7703725e6b0d01c2a4564":[6,0,1188,9],
+"db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1188,2],
+"db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1188,12],
+"db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[6,0,1188,0],
 "db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1188,3],
 "db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[6,0,1188,7],
 "db/df2/structGossipMenuItems.html#a6f41e9adfcb11adabdd79b55c1d47bfc":[6,0,1188,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX291 =
 "db/dfb/spell__quest_8cpp.html#a77f3a6f16d1de1cea169e95d9de62520adc4d89aa65439148d1be8ed1dd32985c":[7,0,0,0,1,3,9,8,100,0],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887ea":[7,0,0,0,1,3,9,8,82],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2b4f620e8297fdc7167dbfc9b0394ffe":[7,0,0,0,1,3,9,8,82,5],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e":[7,0,0,0,1,3,9,8,82,4],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82":[7,0,0,0,1,3,9,8,82,1],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3":[7,0,0,0,1,3,9,8,82,7],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7":[7,0,0,0,1,3,9,8,82,6],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5":[7,0,0,0,1,3,9,8,82,2],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4":[7,0,0,0,1,3,9,8,82,3],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15":[7,0,0,0,1,3,9,8,82,0],
-"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844b":[7,0,0,0,1,3,9,8,114],
-"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844ba783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,9,8,114,1],
-"db/dfb/spell__quest_8cpp.html#a91f1ed3c8869dcbc7e0af14012e0844bae78401d214538c5ff3813acd41b34f9a":[7,0,0,0,1,3,9,8,114,0]
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e":[7,0,0,0,1,3,9,8,82,4]
 };

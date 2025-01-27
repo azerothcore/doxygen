@@ -1,5 +1,9 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548":[7,0,0,0,1,3,10,5,91],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f":[7,0,0,0,1,3,10,5,91,1],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4":[7,0,0,0,1,3,10,5,91,2],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33":[7,0,0,0,1,3,10,5,91,0],
 "d6/d0c/go__scripts_8cpp.html#ae025fd503d338829244816661253f72b":[7,0,0,0,1,3,10,5,75],
 "d6/d0c/go__scripts_8cpp.html#ae025fd503d338829244816661253f72ba83d0dd412977abc7617591f50cb2ee25":[7,0,0,0,1,3,10,5,75,0],
 "d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29ead":[7,0,0,0,1,3,10,5,76],
@@ -191,16 +195,16 @@ var NAVTREEINDEX162 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3022,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1319,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1319,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,31,5,42],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,31,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,31,5,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,31,5,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,5,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,31,5,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,31,5,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,11,5,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,31,5,42,1],
 "d6/d18/classModel.html":[6,0,1480],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1480,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1480,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca793a49a00dcc6f1483d25cd234f8a608":[7,0,0,0,1,3,5,6,11,39,5],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,6,11,39,28],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca850cc68875b981c368bd0bcac598e517":[7,0,0,0,1,3,5,6,11,39,19],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8743fced78474c945d4d5b6cfd08137a":[7,0,0,0,1,3,5,6,11,39,21],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8cb0ce30f128c8db142a2fcfdb7ba17f":[7,0,0,0,1,3,5,6,11,39,17],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea68b7a9f8984372d34a01128c98410":[7,0,0,0,1,3,5,6,11,39,24],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca955744cf3fb9ab62285b64b578021190":[7,0,0,0,1,3,5,6,11,39,6],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c3cf2497f2c1ad4bf05869e73bc072e":[7,0,0,0,1,3,5,6,11,39,27]
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8743fced78474c945d4d5b6cfd08137a":[7,0,0,0,1,3,5,6,11,39,21]
 };

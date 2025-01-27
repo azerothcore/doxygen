@@ -1,5 +1,14 @@
 var NAVTREEINDEX319 =
 {
+"dd/d45/structItemRandomSuffixEntry.html":[6,0,1364],
+"dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[6,0,1364,3],
+"dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1364,0],
+"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1364,1],
+"dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[6,0,1364,2],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html":[6,0,1815,0],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a03dd56d6801194333288a2edc7ae4eaa":[6,0,1815,0,4],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1815,0,6],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1815,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1815,0,2],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1815,0,0],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1815,0,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,4,9,7,7,3],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,4,9,7,7,5],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,4,9,7,7,0],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739":[7,0,0,0,1,3,4,9,7,7,6],
-"dd/d58/boss__twinemperors_8cpp.html#ac7ebb1d823f77b23775c912303b2dac5":[7,0,0,0,1,3,4,9,7,10],
-"dd/d58/classnpc__toc__rogue.html":[6,0,2154],
-"dd/d58/classnpc__toc__rogue.html#a6f0246b284ffd800e3870d70e9c52aac":[6,0,2154,2],
-"dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[6,0,2154,1],
-"dd/d58/classspell__gen__knock__away.html":[6,0,2910],
-"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[6,0,2910,0],
-"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2910,2],
-"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2910,1],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1866,0]
+"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739":[7,0,0,0,1,3,4,9,7,7,6]
 };

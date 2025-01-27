@@ -1,5 +1,15 @@
 var NAVTREEINDEX393 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a34354ccdb52f4fa2ef6d3d9c932ba97e":[7,0,0,0,1,3,5,6,4,57,4],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53d2cfee66f049e1a762f6558b27d62d":[7,0,0,0,1,3,5,6,4,57,15],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5bc621fe7e30a65a9fddfbd8712d7759":[7,0,0,0,1,3,5,6,4,57,31],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6136b7f6b09dd957ea7977018c25216b":[7,0,0,0,1,3,5,6,4,57,2],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a648ba9823986665be2cd3febcf9b396e":[7,0,0,0,1,3,5,6,4,57,16],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6e219b6ec1095c361bd6384205f3ab5a":[7,0,0,0,1,3,5,6,4,57,21],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a751a177e9753634ff67369c6dc315d9c":[7,0,0,0,1,3,5,6,4,57,24],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a78bbe08e6007188499933e592adf84cb":[7,0,0,0,1,3,5,6,4,57,0],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7bab4447dbe477353931faa9fef2a7f6":[7,0,0,0,1,3,5,6,4,57,1],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a89ff9f4f5aeda6e19ccf307d0539d1c8":[7,0,0,0,1,3,5,6,4,57,13],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8b7b42f22b7e61865c189cadfc3f62a9":[7,0,0,0,1,3,5,6,4,57,12],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a94918dcd5642e40f5e5cbb0f747bf283":[7,0,0,0,1,3,5,6,4,57,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a968c472e15619221d6355e667e9e7c0d":[7,0,0,0,1,3,5,6,4,57,9],
@@ -189,8 +199,8 @@ var NAVTREEINDEX393 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,710,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a0acea3b93ae7fa45ed468de406de08e4":[6,0,710,0,11],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,710,0,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX393 =
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[6,0,2635,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[6,0,2635,2],
 "df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[6,0,2635,1],
-"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2635,4],
-"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[6,0,2635,3],
-"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[6,0,2635,5],
-"df/de3/boss__leotheras__the__blind_8cpp.html":[7,0,0,0,1,3,7,2,0,3],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,2,0,3,9],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdce7ad61e391f64294777e90a00175":[7,0,0,0,1,3,7,2,0,3,9,0],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de3bbd791800c0cc1336f4d61904765":[7,0,0,0,1,3,7,2,0,3,9,2],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a81010c7b22ac0dd95b2f5b9188f505be":[7,0,0,0,1,3,7,2,0,3,9,1],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,3,10],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97":[7,0,0,0,1,3,7,2,0,3,10,9],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca4005312cc9fcbd7a183df7391696d8b3":[7,0,0,0,1,3,7,2,0,3,10,11]
+"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2635,4]
 };

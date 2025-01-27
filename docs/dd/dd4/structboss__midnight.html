@@ -654,13 +654,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  294</span>    {</div>
 <div class="line"><span class="lineno">  295</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() &amp;&amp; (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() &lt; 53.0f || <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b">GetHomePosition</a>()) &lt; 50.0f);</div>
 <div class="line"><span class="lineno">  296</span>    }</div>
-<div class="ttc" id="aclassCreature_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition</b> Creature.h:338</div></div>
+<div class="ttc" id="aclassCreature_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition</b> Creature.h:341</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:859</div></div>
 <div class="ttc" id="aclassWorldObject_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1256</div></div>
 <div class="ttc" id="astructPosition_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition</b> Position.h:118</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00338">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00118">Position::GetPositionZ()</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00341">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00118">Position::GetPositionZ()</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00364">UpdateAI()</a>.</p>
 
@@ -815,9 +815,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  349</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a65c19d734307deca122adc33e5b64b7d">DespawnOnEvade</a>(10s);</div>
 <div class="line"><span class="lineno">  350</span>        <a class="code hl_variable" href="../../dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74">_phase</a> = <a class="code hl_enumvalue" href="../../d0/d08/boss__midnight_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a61e900515aec51ba22cfdd63c1082fc7">PHASE_NONE</a>;</div>
 <div class="line"><span class="lineno">  351</span>    }</div>
-<div class="ttc" id="aclassCreature_html_a65c19d734307deca122adc33e5b64b7d"><div class="ttname"><a href="../../db/dd5/classCreature.html#a65c19d734307deca122adc33e5b64b7d">Creature::DespawnOnEvade</a></div><div class="ttdeci">void DespawnOnEvade(Seconds respawnDelay=20s)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2186</div></div>
+<div class="ttc" id="aclassCreature_html_a65c19d734307deca122adc33e5b64b7d"><div class="ttname"><a href="../../db/dd5/classCreature.html#a65c19d734307deca122adc33e5b64b7d">Creature::DespawnOnEvade</a></div><div class="ttdeci">void DespawnOnEvade(Seconds respawnDelay=20s)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2191</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00381">_phase</a>, <a class="el" href="../../#l02186">Creature::DespawnOnEvade()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00058">PHASE_NONE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00381">_phase</a>, <a class="el" href="../../#l02191">Creature::DespawnOnEvade()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00058">PHASE_NONE</a>.</p>
 
 </div>
 </div>
@@ -988,9 +988,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a7183e7251db222734d0d007a258d65c7"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a7183e7251db222734d0d007a258d65c7">REACT_DEFENSIVE</a></div><div class="ttdeci">@ REACT_DEFENSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:549</div></div>
 <div class="ttc" id="aclassBossAI_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:496</div></div>
 <div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:94</div></div>
-<div class="ttc" id="aclassUnit_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14265</div></div>
+<div class="ttc" id="aclassUnit_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14298</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00549">REACT_DEFENSIVE</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00094">Creature::SetReactState()</a>, and <a class="el" href="../../#l14265">Unit::SetVisible()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00549">REACT_DEFENSIVE</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00094">Creature::SetReactState()</a>, and <a class="el" href="../../#l14298">Unit::SetVisible()</a>.</p>
 
 </div>
 </div>
@@ -1080,7 +1080,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dd4/structboss__midnight.html">boss_midnight</a></li>
-    <li class="footer">Generated on Sun Jan 26 2025 06:18:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jan 27 2025 06:20:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

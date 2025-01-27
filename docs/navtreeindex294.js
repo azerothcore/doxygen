@@ -1,5 +1,14 @@
 var NAVTREEINDEX294 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,4,2,0,11],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,7,4,2,0,11,2],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e06885b4e559bc0ea44ce31f6a4c4a8":[7,0,0,0,1,3,7,4,2,0,11,0],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f3862c0f3bd64b8ac636659f1dc59af":[7,0,0,0,1,3,7,4,2,0,11,11],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c4255505875cf389a3c5d2d352a40a1":[7,0,0,0,1,3,7,4,2,0,11,14],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[7,0,0,0,1,3,7,4,2,0,11,10],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd":[7,0,0,0,1,3,7,4,2,0,11,6],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b2e0054b2bac6795ae520c16a9ffde0":[7,0,0,0,1,3,7,4,2,0,11,16],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8343d12d67c98d10cfb35faefefebdb8":[7,0,0,0,1,3,7,4,2,0,11,15],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca83be3e6f56ef7747fd0271ef7c6a5089":[7,0,0,0,1,3,7,4,2,0,11,12],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[7,0,0,0,1,3,7,4,2,0,11,4],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4":[7,0,0,0,1,3,7,4,2,0,11,7],
@@ -240,14 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5cdc692e17c3d331f1f1b12c8160408e":[6,0,655,0,8],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6c5b5a7bc419b30a8814ada3f95f0c3a":[6,0,655,0,0],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d":[6,0,655,0,16],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[6,0,655,0,3],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[6,0,655,0,5],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#addd5c34675473b78e1785a8122a6ccd2":[6,0,655,0,2],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[6,0,655,0,7],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3":[6,0,655,0,10],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html":[6,0,1770,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[6,0,1770,0,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a93c41781e4cb037b56773bbbf36181b7":[6,0,1770,0,6],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[6,0,1770,0,8],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[6,0,1770,0,5]
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[6,0,655,0,3]
 };

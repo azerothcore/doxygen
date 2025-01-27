@@ -1,5 +1,14 @@
 var NAVTREEINDEX364 =
 {
+"de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4a16f3963a1a993de00353e49a08605fef":[7,0,0,0,1,3,5,18,46,0],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809":[7,0,0,0,1,3,5,18,49],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a09da691978ccf957c50a24789da8c884":[7,0,0,0,1,3,5,18,49,5],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a1c927e4dcdda9844ca6ee5943cf5ab4a":[7,0,0,0,1,3,5,18,49,7],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a3d50c7e9fa4855164e19604c2c4c8bfc":[7,0,0,0,1,3,5,18,49,10],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5dadd0d0bff2da4e5ccd02f7276f3a77":[7,0,0,0,1,3,5,18,49,11],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5fc9b09599e278ae70a72431be195ed7":[7,0,0,0,1,3,5,18,49,6],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[7,0,0,0,1,3,5,18,49,3],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[7,0,0,0,1,3,5,18,49,4],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a87a8544d0aed9cd7282f6b18b8dd34dd":[7,0,0,0,1,3,5,18,49,2],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a98f9f2bac321e4c75e450f7a090e6a52":[7,0,0,0,1,3,5,18,49,0],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809acb7d3e659383a8bc3f3d4f4d89031b51":[7,0,0,0,1,3,5,18,49,1],
@@ -13,10 +22,10 @@ var NAVTREEINDEX364 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[6,0,0,1,1,0,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[6,0,0,1,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX364 =
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#afa72c0c1f905f4277d650ad0cfef281d":[6,0,945,0,3],
 "de/db3/structSpellShapeshiftFormEntry.html":[6,0,4013],
 "de/db3/structSpellShapeshiftFormEntry.html#a026745f2ce754d754858d69ee219b518":[6,0,4013,2],
-"de/db3/structSpellShapeshiftFormEntry.html#a08f54b905e905fb5a59e449f8c613c08":[6,0,4013,6],
-"de/db3/structSpellShapeshiftFormEntry.html#a1ee597d6fd02507b682874929645e01d":[6,0,4013,5],
-"de/db3/structSpellShapeshiftFormEntry.html#a3dff9074b85261932ed8a8a550c5395b":[6,0,4013,1],
-"de/db3/structSpellShapeshiftFormEntry.html#a72853ed36016e05e4cd14a9d89e9d6a8":[6,0,4013,3],
-"de/db3/structSpellShapeshiftFormEntry.html#a86dfa61342583d920b7d8496bce4b49d":[6,0,4013,4],
-"de/db3/structSpellShapeshiftFormEntry.html#ab5242f7367e8799a556176178c72fc88":[6,0,4013,0],
-"de/db4/AdhocStatement_8h.html":[7,0,0,0,1,1,0,2],
-"de/db4/classPreparedStatementBase.html":[6,0,2401],
-"de/db4/classPreparedStatementBase.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660":[6,0,2401,6],
-"de/db4/classPreparedStatementBase.html#a4c1bf9847756076bf3bba7b1178f0f99":[6,0,2401,17]
+"de/db3/structSpellShapeshiftFormEntry.html#a08f54b905e905fb5a59e449f8c613c08":[6,0,4013,6]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX168 =
 {
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,721,0,3],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,721,0,5],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a9e4c25742785809d788f2e910f7840bc":[6,0,721,0,2],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#aaa7e94f653a1db001cd0c962fb855098":[6,0,721,0,0],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#afaf0a05b1fd2fc2187b52328340b65bb":[6,0,721,0,1],
 "d6/d4d/classspell__item__gor__dreks__ointment.html":[6,0,3182],
 "d6/d4d/classspell__item__gor__dreks__ointment.html#ad7b3235062959af1f28bb6c7b2f929c3":[6,0,3182,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#aff471fe9dd821b2acdbca9fc2aca81c7":[7,0,0,0,1,2,7,0,1,14],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html":[6,0,719],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[6,0,719,2],
-"d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,719,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3037],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3037,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3037,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3037,2]
+"d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,719,1]
 };

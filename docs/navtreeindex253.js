@@ -1,5 +1,11 @@
 var NAVTREEINDEX253 =
 {
+"da/d76/namespaceDisableMgr.html#a2f9fa5dadf6f2da5f01651d37d996377":[5,0,12,0],
+"da/d76/namespaceDisableMgr.html#a38b182e1836b2197303b2809006f5148":[5,0,12,3],
+"da/d76/namespaceDisableMgr.html#a6673bbc719c96febfc86a4220a988ed0":[5,0,12,1],
+"da/d76/namespaceDisableMgr.html#ad6a338e6f295d785a4f9256703ffbd71":[5,0,12,2],
+"da/d76/namespaceDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[5,0,12,4],
+"da/d76/structnpc__ulduar__snow__mound.html":[6,0,2199],
 "da/d76/structnpc__ulduar__snow__mound.html#a1856c3bba24842f33720a83e1de40421":[6,0,2199,4],
 "da/d76/structnpc__ulduar__snow__mound.html#a3f66ad92d616050bb67cb1a5e33ffa74":[6,0,2199,0],
 "da/d76/structnpc__ulduar__snow__mound.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687":[6,0,2199,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX253 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51a006d7a5839598f6cc905b79e70a11":[7,0,0,0,1,3,5,6,10,78,36],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a568f8c5f16c01d67bc7311e89b9c12d0":[7,0,0,0,1,3,5,6,10,78,29],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[7,0,0,0,1,3,5,6,10,78,62],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6273288116f824c35ae0343fd0161964":[7,0,0,0,1,3,5,6,10,78,46],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63b2e64ae8d59500575435e10ae42a48":[7,0,0,0,1,3,5,6,10,78,3],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a645255314065f3f783385d240e0bfef4":[7,0,0,0,1,3,5,6,10,78,4],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a66178d358d605e8d45d757f38a175b7a":[7,0,0,0,1,3,5,6,10,78,57],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a690000692f6f0bcf8467ac5ae22e55a0":[7,0,0,0,1,3,5,6,10,78,69],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[7,0,0,0,1,3,5,6,10,78,15],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a737c33193f12241e682a2965cb34ecab":[7,0,0,0,1,3,5,6,10,78,41]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6273288116f824c35ae0343fd0161964":[7,0,0,0,1,3,5,6,10,78,46]
 };

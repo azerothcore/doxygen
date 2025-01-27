@@ -1,5 +1,15 @@
 var NAVTREEINDEX397 =
 {
+"functions_q.html":[6,3,0,17],
+"functions_r.html":[6,3,0,18],
+"functions_rela.html":[6,3,6],
+"functions_s.html":[6,3,0,19],
+"functions_t.html":[6,3,0,20],
+"functions_type.html":[6,3,3,0],
+"functions_type.html":[6,3,3],
+"functions_type_a.html":[6,3,3,1],
+"functions_type_b.html":[6,3,3,2],
+"functions_type_c.html":[6,3,3,3],
 "functions_type_d.html":[6,3,3,4],
 "functions_type_e.html":[6,3,3,5],
 "functions_type_f.html":[6,3,3,6],
@@ -22,8 +32,8 @@ var NAVTREEINDEX397 =
 "functions_type_w.html":[6,3,3,23],
 "functions_u.html":[6,3,0,21],
 "functions_v.html":[6,3,0,22],
-"functions_vars.html":[6,3,2],
 "functions_vars.html":[6,3,2,0],
+"functions_vars.html":[6,3,2],
 "functions_vars_a.html":[6,3,2,1],
 "functions_vars_b.html":[6,3,2,2],
 "functions_vars_c.html":[6,3,2,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX397 =
 "globals_y.html":[7,1,0,25],
 "globals_z.html":[7,1,0,26],
 "hierarchy.html":[6,2],
-"index.html":[0],
-"index.html":[],
-"index.html#autotoc_md1":[0,0],
-"index.html#autotoc_md2":[0,1],
-"namespacemembers.html":[5,1,0,0],
-"namespacemembers.html":[5,1,0],
-"namespacemembers_b.html":[5,1,0,1],
-"namespacemembers_c.html":[5,1,0,2],
-"namespacemembers_d.html":[5,1,0,3],
-"namespacemembers_e.html":[5,1,0,4],
-"namespacemembers_enum.html":[5,1,4]
+"index.html":[0]
 };

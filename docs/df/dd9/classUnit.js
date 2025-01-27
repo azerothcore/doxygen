@@ -111,6 +111,7 @@ var classUnit =
     [ "CanModifyStats", "df/dd9/classUnit.html#aa7ee48856840fce3d7216603c22d3357", null ],
     [ "CanProc", "df/dd9/classUnit.html#a3e021c02b1d25f663a046c57da4c0d1e", null ],
     [ "CanRestoreMana", "df/dd9/classUnit.html#a4afb0189ee402bb90fa39cecf3d304cc", null ],
+    [ "CanSparringWith", "df/dd9/classUnit.html#ae86065c1dbcbc5f52a76189ae57c8377", null ],
     [ "CanSwim", "df/dd9/classUnit.html#ac1f2634272d3507e2da0b2fc972901aa", null ],
     [ "CanUseAttackType", "df/dd9/classUnit.html#a2b2c033c2df168977ab5b72644e75daf", null ],
     [ "CastCustomSpell", "df/dd9/classUnit.html#acb4079c53b6b1969e3cab1f58412d5ec", null ],

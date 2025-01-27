@@ -1,5 +1,14 @@
 var NAVTREEINDEX312 =
 {
+"dc/dfa/structboss__twinemperorsAI.html#ab9a279e9ba3bb057268602be7368ffe4":[6,0,736,7],
+"dc/dfa/structboss__twinemperorsAI.html#acdccdde2ee573f51e1783ea493577258":[6,0,736,5],
+"dc/dfa/structboss__twinemperorsAI.html#ae0857b191dbbf086533062aee5885237":[6,0,736,0],
+"dc/dfa/structboss__twinemperorsAI.html#af23aa54bca9752c242e80331862ace4d":[6,0,736,4],
+"dc/dfb/classReactorAI.html":[6,0,2439],
+"dc/dfb/classReactorAI.html#a10c4c10d9ac942990d1a1ef9eb6603ad":[6,0,2439,3],
+"dc/dfb/classReactorAI.html#a1b0845464b0d356be7bf38e65ab5eb19":[6,0,2439,2],
+"dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2439,1],
+"dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2439,0],
 "dc/dfb/classUpdateTime.html":[6,0,4125],
 "dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4125,19],
 "dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4125,2],
@@ -237,17 +246,8 @@ var NAVTREEINDEX312 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a90eee01f380f97f033c82d7c6ec48d00":[6,0,3040,1],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a91c5a0e10c308332e18dc40033049996":[6,0,3040,6],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3040,2],
-"dd/d07/structlfg_1_1LfgReward.html":[5,0,19,15],
 "dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,19,15,1],
+"dd/d07/structlfg_1_1LfgReward.html":[5,0,19,15],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,19,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,19,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,19,15,0],
-"dd/d08/classspell__electrial__storm.html":[6,0,2799],
-"dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2799,2],
-"dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2799,0]
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,19,15,1]
 };

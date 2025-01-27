@@ -1,5 +1,14 @@
 var NAVTREEINDEX295 =
 {
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[6,0,655,0,5],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#addd5c34675473b78e1785a8122a6ccd2":[6,0,655,0,2],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[6,0,655,0,7],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3":[6,0,655,0,10],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html":[6,0,1770,0],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[6,0,1770,0,0],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a93c41781e4cb037b56773bbbf36181b7":[6,0,1770,0,6],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[6,0,1770,0,8],
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[6,0,1770,0,5],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[6,0,1770,0,1],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1770,0,2],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1770,0,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
-"dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2046],
-"dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2046,3],
-"dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2046,1],
-"dc/d1f/classnpc__rizzle__sprysprocket.html#ae445545476b4046db305117fa635e7f5":[6,0,2046,2],
-"dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[7,0,0,0,1,3,2,1,0,4]
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0]
 };

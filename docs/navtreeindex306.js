@@ -1,6 +1,15 @@
 var NAVTREEINDEX306 =
 {
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,31,6,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,11,6,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,31,6,0,6],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,11,6,0,6],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,31,6,0,1],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,11,6,0,1],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,31,6,0,7],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,11,6,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,31,6,0,5],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,11,6,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[6,0,1522],
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1522,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[6,0,1522,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX306 =
 "dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[6,0,451,1],
 "dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[6,0,451,2],
 "dc/db4/structboss__gruul.html":[6,0,496],
-"dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,496,5],
-"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,496,7],
-"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,496,6],
-"dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,496,1],
-"dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,496,0],
-"dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,496,4],
-"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,496,2],
-"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,496,3],
-"dc/db5/classnpc__frenzied__worgen.html":[6,0,1758],
-"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1758,2]
+"dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,496,5]
 };

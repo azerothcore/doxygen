@@ -1,5 +1,14 @@
 var NAVTREEINDEX352 =
 {
+"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#ae038aa8140f5b4128c39c592966321f1":[6,0,698,0,1],
+"de/d36/classnpc__mrfloppy.html":[6,0,1939],
+"de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[6,0,1939,1],
+"de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[6,0,1939,2],
+"de/d37/classadt__MFBO.html":[6,0,136],
+"de/d37/classadt__MFBO.html#a29dc30be1cb7f5439e023865ff5a4853":[6,0,136,1],
+"de/d37/classadt__MFBO.html#a8c64958fb4e18bc3bcfaf7dbfde9f178":[6,0,136,2],
+"de/d37/classadt__MFBO.html#ab768fb1ba27812060cf2edeb5f4b876c":[6,0,136,3],
+"de/d37/classadt__MFBO.html#ac3ebf1557841088ef8912b68fe6df908":[6,0,136,5],
 "de/d37/classadt__MFBO.html#af92420cfd862486c73c35ac8a9f9fdee":[6,0,136,6],
 "de/d37/classadt__MFBO.html#afadebfc1361985b6f5d45c27e22cb303":[6,0,136,4],
 "de/d37/classboss__freya__nature__bomb.html":[6,0,466],
@@ -240,14 +249,5 @@ var NAVTREEINDEX352 =
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721":[7,0,0,0,1,2,20,1,13,7],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65":[7,0,0,0,1,2,20,1,13,21],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81":[7,0,0,0,1,2,20,1,13,11],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[7,0,0,0,1,2,20,1,13,15],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[7,0,0,0,1,2,20,1,13,5],
-"de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37":[7,0,0,0,1,2,20,1,8,2],
-"de/d3d/Group_8h.html#ad409013260cb0aea80c911d24d7b5d00":[7,0,0,0,1,2,20,1,3],
-"de/d3d/Group_8h.html#afb58b37bfbd0e4d75c26cc40d4066a43":[7,0,0,0,1,2,20,1,4],
-"de/d3d/LFGMgr_8h.html":[7,0,0,0,1,2,15,5]
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[7,0,0,0,1,2,20,1,13,15]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX275 =
 {
+"db/d6e/spell__item_8cpp.html#a852e1657705a20c00b4cb7c8a450c0c1a176931f334aa33d0f1f13f9443eb3212":[7,0,0,0,1,3,9,4,149,1],
+"db/d6e/spell__item_8cpp.html#a852e1657705a20c00b4cb7c8a450c0c1a91fbac3e71bbcd92e8312bf6b0b37824":[7,0,0,0,1,3,9,4,149,0],
+"db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93ea":[7,0,0,0,1,3,9,4,159],
+"db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93eaace3f0b910cb7e9fe1967bcba0150bd38":[7,0,0,0,1,3,9,4,159,0],
+"db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc":[7,0,0,0,1,3,9,4,128],
+"db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf":[7,0,0,0,1,3,9,4,128,0],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfb":[7,0,0,0,1,3,9,4,132],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba049e0d56c3f30d8991dde2beae302c4f":[7,0,0,0,1,3,9,4,132,2],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba22aa014dbddc9e42d31d6fbb92b0aeb8":[7,0,0,0,1,3,9,4,132,3],
@@ -132,12 +138,12 @@ var NAVTREEINDEX275 =
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1919,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,117,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,105,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,105,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,117,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,105,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,105,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,117,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,117,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,105,0,2],
 "db/d72/structLootItem.html":[6,0,1420],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1420,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1420,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX275 =
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,15,5,10,27],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cae3a43c7ffcfa2c72e1723d8086ceb1a7":[7,0,0,0,1,3,2,15,5,10,12],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,2,15,5,10,0],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caf07305942506c5af1e21a15775d108a5":[7,0,0,0,1,3,2,15,5,10,6],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caf3368d158fa5ddd947b7450c1f2e6adf":[7,0,0,0,1,3,2,15,5,10,7],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caf56ce99342f053140b6ce8636f637fac":[7,0,0,0,1,3,2,15,5,10,20],
-"db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918":[7,0,0,0,1,3,2,15,5,6],
-"db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51":[7,0,0,0,1,3,2,15,5,6,0],
-"db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc":[7,0,0,0,1,3,2,15,5,6,1],
-"db/d78/boss__zuljin_8cpp.html#a8954ba92de87382cc5d2ff27d0ec3918ae146fa8205076d66300fdd45aade7564":[7,0,0,0,1,3,2,15,5,6,3]
+"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caf07305942506c5af1e21a15775d108a5":[7,0,0,0,1,3,2,15,5,10,6]
 };

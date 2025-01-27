@@ -1,5 +1,14 @@
 var NAVTREEINDEX299 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,1,0,4,2,4],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d343d8659aac6c2c356387e867baf5f":[7,0,0,0,1,3,4,1,0,4,2,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,4,1,0,4,2,0],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298cab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,4,1,0,4,2,2],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,4,3],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,4,3,4],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,4,3,0],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad63ecb274b6fd82552c2d94b90509ef8":[7,0,0,0,1,3,4,1,0,4,3,2],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html":[6,0,356,0],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a2d2a162132b7f4c0a5faf1f86a476002":[6,0,356,0,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1270,0,0],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1270,0,3],
 "dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,3],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,686],
-"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,686,2],
-"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,686,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3002],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3002,3],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3002,2],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3002,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3002,0],
-"dc/d44/classspell__sha__flurry__proc.html":[6,0,3701],
-"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3701,2]
+"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,686]
 };

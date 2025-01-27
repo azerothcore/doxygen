@@ -49,7 +49,7 @@ var searchData=
   ['aurastateaurasmap_46',['AuraStateAurasMap',['../df/dd9/classUnit.html#a76b67b239da7913bb6e8a71fd78b1335',1,'Unit']]],
   ['aurastateaurasmapbounds_47',['AuraStateAurasMapBounds',['../df/dd9/classUnit.html#a7494e420245495ecb527005cb88cd2b8',1,'Unit']]],
   ['authsocket_48',['AuthSocket',['../d8/df8/classAuthSession.html#a79d35828c93c4856d97243b52796740e',1,'AuthSession']]],
-  ['autobroadcastsmap_49',['AutobroadcastsMap',['../d6/d59/classAutobroadcastMgr.html#a8abeae830f5692c45bd0b880ba62e743',1,'AutobroadcastMgr']]],
+  ['autobroadcastsmap_49',['AutobroadcastsMap',['../d6/d59/classAutobroadcastMgr.html#a9064ad588e8a02d9b60974af4da1c7cf',1,'AutobroadcastMgr']]],
   ['autobroadcastsweightmap_50',['AutobroadcastsWeightMap',['../d6/d59/classAutobroadcastMgr.html#a75e5b978794a7010c8d9d3390d8690f9',1,'AutobroadcastMgr']]],
   ['autospelllist_51',['AutoSpellList',['../d0/dd6/Pet_8h.html#a85baf40bd776b1c20b66ba7ad78e0356',1,'Pet.h']]]
 ];

@@ -1,5 +1,14 @@
 var NAVTREEINDEX300 =
 {
+"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,686,2],
+"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,686,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3002],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3002,3],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3002,2],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3002,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3002,0],
+"dc/d44/classspell__sha__flurry__proc.html":[6,0,3701],
+"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3701,2],
 "dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[6,0,3701,0],
 "dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[6,0,3701,1],
 "dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42],
@@ -240,14 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1725,6],
 "dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[6,0,1725,0],
 "dc/d56/structnpc__eastvale__peasent.html#a7eb6cf174a46fd31c8c5241649fcebdc":[6,0,1725,3],
-"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1725,5],
-"dc/d56/structnpc__eastvale__peasent.html#a8b73aa30b0b4a984d8644e6d9541461d":[6,0,1725,1],
-"dc/d56/structnpc__eastvale__peasent.html#a907db8e6148947248b5bcfdb35023e16":[6,0,1725,7],
-"dc/d56/structnpc__eastvale__peasent.html#aad06364be8698b5ba69cd229e2a5085b":[6,0,1725,8],
-"dc/d56/structnpc__eastvale__peasent.html#add14d9505880727e208e7ef9428f5acd":[6,0,1725,4],
-"dc/d56/the__botanica_8h.html":[7,0,0,0,1,3,7,5,1,6],
-"dc/d56/the__botanica_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,5,1,6,0],
-"dc/d56/the__botanica_8h.html#a19db736d35b3034295a274776520d76f":[7,0,0,0,1,3,7,5,1,6,6],
-"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,7,5,1,6,5],
-"dc/d56/the__botanica_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea2e23df1f4d8b45ea8f7c0460f0e298f9":[7,0,0,0,1,3,7,5,1,6,5,3]
+"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1725,5]
 };

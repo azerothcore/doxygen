@@ -1,5 +1,11 @@
 var NAVTREEINDEX241 =
 {
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d":[6,0,3819,4],
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[6,0,3819,0],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html":[6,0,2285,0],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a2b5f97425309d56482a1f287b6d5be69":[6,0,2285,0,2],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a4ad5a2df36ae9c1cd9130c5efd27af58":[6,0,2285,0,3],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[6,0,2285,0,1],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[6,0,2285,0,0],
 "d9/dd9/ArenaTeamMgr_8h.html":[7,0,0,0,1,2,8,7],
 "d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[7,0,0,0,1,2,8,7,1],
@@ -80,8 +86,8 @@ var NAVTREEINDEX241 =
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,65,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,270,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX241 =
 "d9/df2/classspell__najentus__remove__spines.html#aaed4b5d67dbd06cb0a1adc91aa873247":[6,0,3402,1],
 "d9/df2/classspell__warl__demonic__empowerment.html":[6,0,3879],
 "d9/df2/classspell__warl__demonic__empowerment.html#a13315f197f2e6975dca00b53cbc599d2":[6,0,3879,2],
-"d9/df2/classspell__warl__demonic__empowerment.html#a328c1ba6ccd98e25e477a3f784cb47ff":[6,0,3879,0],
-"d9/df2/classspell__warl__demonic__empowerment.html#a3b752f07631223199ed7ac404ed1afed":[6,0,3879,3],
-"d9/df2/classspell__warl__demonic__empowerment.html#aa211032991d8fd11d574cb364533a515":[6,0,3879,1],
-"d9/df2/the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,4],
-"d9/df2/the__black__morass_8cpp.html#a40d83565d4b54b30e895e0b76768246b":[7,0,0,0,1,3,4,1,3,4,7],
-"d9/df2/the__black__morass_8cpp.html#a60bd1cccea53e743620a4b2f0e9b1f8b":[7,0,0,0,1,3,4,1,3,4,8],
-"d9/df2/the__black__morass_8cpp.html#a7d484fa8ee0c999014d29246b9ebffb3":[7,0,0,0,1,3,4,1,3,4,5]
+"d9/df2/classspell__warl__demonic__empowerment.html#a328c1ba6ccd98e25e477a3f784cb47ff":[6,0,3879,0]
 };

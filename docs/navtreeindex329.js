@@ -1,5 +1,14 @@
 var NAVTREEINDEX329 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a336ba08240724fa74f4d4ab371f32527":[7,0,0,0,1,2,38,0,75,1,50],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a352b65e761257cee6aa285d62f8ee648":[7,0,0,0,1,2,38,0,75,1,157],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3563a18d88151f87d63e6688e422295f":[7,0,0,0,1,2,38,0,75,1,73],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a35874bb6e4d573dd21e1c79c64804d38":[7,0,0,0,1,2,38,0,75,1,62],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a383986e4e1b1b96e5c921fcf222b7bf8":[7,0,0,0,1,2,38,0,75,1,109],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38b3899c46b1d16f8071921fd6dd1516":[7,0,0,0,1,2,38,0,75,1,97],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38bd0023c59c4a5bc8761e35b54466c0":[7,0,0,0,1,2,38,0,75,1,3],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[7,0,0,0,1,2,38,0,75,1,135],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[7,0,0,0,1,2,38,0,75,1,58],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[7,0,0,0,1,2,38,0,75,1,165],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3fa08968eb2d0acc747af4886085bee4":[7,0,0,0,1,2,38,0,75,1,117],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a1e3ddb279ae0a6244979b5335abe2":[7,0,0,0,1,2,38,0,75,1,59],
@@ -240,14 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dce/structboss__gurtogg__bloodboil.html#ab2b8131fc06f0ff6dd9e3ac7799e72db":[6,0,497,6],
 "dd/dce/structboss__gurtogg__bloodboil.html#add25677d422b8bddcb753465451f0584":[6,0,497,7],
 "dd/dce/structboss__gurtogg__bloodboil.html#ae718666a1da0e93cb0965c42c40b51df":[6,0,497,5],
-"dd/dce/structboss__gurtogg__bloodboil.html#af6abec4e4db5ce939e4c9593656d16fb":[6,0,497,0],
-"dd/dcf/namespaceWorldPackets_1_1Guild.html":[5,0,31,5],
-"dd/dcf/structCharacterCacheEntry.html":[6,0,836],
-"dd/dcf/structCharacterCacheEntry.html#a19dbbbdce9dbf9993d57edbebeeaf425":[6,0,836,2],
-"dd/dcf/structCharacterCacheEntry.html#a1d094e514af9970b0239cc8e27da06bc":[6,0,836,1],
-"dd/dcf/structCharacterCacheEntry.html#a41ea77c9e690336b709259bfccbd939f":[6,0,836,6],
-"dd/dcf/structCharacterCacheEntry.html#a4b6f5540de2e47959a053696698e8e05":[6,0,836,3],
-"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,836,5],
-"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,836,8],
-"dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,836,7]
+"dd/dce/structboss__gurtogg__bloodboil.html#af6abec4e4db5ce939e4c9593656d16fb":[6,0,497,0]
 };

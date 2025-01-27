@@ -1,5 +1,11 @@
 var NAVTREEINDEX215 =
 {
+"d8/d74/classWorldSession.html#aa25780c994c1beed1f89ea9ddb4d9648":[4,1,19,517],
+"d8/d74/classWorldSession.html#aa355f874eeb39b2fac37e538b2c4c805":[4,1,19,318],
+"d8/d74/classWorldSession.html#aa371efb78c38b2b9cc8f42327a3b615d":[4,1,19,495],
+"d8/d74/classWorldSession.html#aa3fc0f873562ddc702a0f9106b617b39":[4,1,19,253],
+"d8/d74/classWorldSession.html#aa47b29f93c889f8934845b9806180456":[4,1,19,383],
+"d8/d74/classWorldSession.html#aa5239d0d34442a38a0700a41d1f79b74":[4,1,19,503],
 "d8/d74/classWorldSession.html#aa577b856300912025b9254d6b69385e1":[4,1,19,405],
 "d8/d74/classWorldSession.html#aa59070ede5d3baacd3ae4afe959bcf63":[4,1,19,174],
 "d8/d74/classWorldSession.html#aa635bd639a002628e027fb53ae2a5d98":[4,1,19,368],
@@ -243,11 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda1408ee1329bcb762ee45fb865ee58d9e":[6,0,115,1,2],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedaad0795d71aa92acdd2da8c8ed3d42471":[6,0,115,1,1],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedae56d39bbbd70987d9e5839b4ca0e983c":[6,0,115,1,3],
-"d8/d77/classAchievementMgr.html#a609f1328333a605b938575d55b061d8f":[6,0,115,5],
-"d8/d77/classAchievementMgr.html#a6ab19372da640991eeb1fba0c43d8e08":[6,0,115,26],
-"d8/d77/classAchievementMgr.html#a6eebdde97187856c115223c4fba3160c":[6,0,115,3],
-"d8/d77/classAchievementMgr.html#a7683a0c816137b1d61d97b457ae6e8b6":[6,0,115,33],
-"d8/d77/classAchievementMgr.html#a77ab8c7741b56fda8a20a7593656d808":[6,0,115,38],
-"d8/d77/classAchievementMgr.html#a79bc930bd6ee111a0c3b49c928fd8468":[6,0,115,34],
-"d8/d77/classAchievementMgr.html#a8700a8f83cca4a1d70a18d6c1bc78807":[6,0,115,15]
+"d8/d77/classAchievementMgr.html#a609f1328333a605b938575d55b061d8f":[6,0,115,5]
 };

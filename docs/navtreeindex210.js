@@ -1,5 +1,11 @@
 var NAVTREEINDEX210 =
 {
+"d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[6,0,1224,9,10],
+"d8/d37/classGuild_1_1RankInfo.html#aeb209d1e53f55b5b48bcd00979014eb8":[6,0,1224,9,17],
+"d8/d37/classspell__hun__bestial__wrath.html":[6,0,3042],
+"d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[6,0,3042,1],
+"d8/d37/classspell__hun__bestial__wrath.html#a4b34bd5ce9d3e948d6c712d71ed71b2d":[6,0,3042,2],
+"d8/d37/classspell__hun__bestial__wrath.html#ac1bc3f881c31c5ab90785a62a5f5b5ae":[6,0,3042,0],
 "d8/d38/LogOperation_8cpp.html":[7,0,0,0,0,9,15],
 "d8/d38/classspell__sapphiron__frost__explosion.html":[6,0,3673],
 "d8/d38/classspell__sapphiron__frost__explosion.html#a452937a4e95b40366f915213ec475a84":[6,0,3673,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d4b/classObject.html#ad4fdb092a9ea4f6f5fc082bb755b24bd":[6,0,2274,110],
 "d8/d4b/classObject.html#ad591516e39981b3684a9274ce6152f3d":[6,0,2274,23],
 "d8/d4b/classObject.html#ad5a622757f2d91f0b3fc41b8af751d6f":[6,0,2274,63],
-"d8/d4b/classObject.html#ad5ba4799de88341246bc5ff7dd4b2d36":[6,0,2274,78],
-"d8/d4b/classObject.html#ad837c14c5766b8c13f4a5ce2532b0657":[6,0,2274,47],
-"d8/d4b/classObject.html#ad951343e568f25e4db54e64d19c964dd":[6,0,2274,86],
-"d8/d4b/classObject.html#ada61cb59931e3c02624a63161997bf20":[6,0,2274,51],
-"d8/d4b/classObject.html#adacf40e17c0582b835dde700d4f36aa5":[6,0,2274,79],
-"d8/d4b/classObject.html#adc648c59e740565161b8c8b29dc0f3e5":[6,0,2274,74],
-"d8/d4b/classObject.html#adc7e9b205f35f9894ec9a4f0ec0871f9":[6,0,2274,90]
+"d8/d4b/classObject.html#ad5ba4799de88341246bc5ff7dd4b2d36":[6,0,2274,78]
 };

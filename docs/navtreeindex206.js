@@ -1,5 +1,10 @@
 var NAVTREEINDEX206 =
 {
+"d7/dfe/classLootValidatorRef.html":[6,0,1426],
+"d7/dfe/classLootValidatorRef.html#a8833022cf1acf786c06f1580fbe11c24":[6,0,1426,1],
+"d7/dfe/classLootValidatorRef.html#a93baac45dcb801215c28ac0dba097eba":[6,0,1426,2],
+"d7/dfe/classLootValidatorRef.html#acce3ced73583bf8dbf04232cddd6ebd8":[6,0,1426,0],
+"d7/dfe/classnpc__nexus__lord.html":[6,0,1949],
 "d7/dfe/classnpc__nexus__lord.html#a1cea0b189b2ef8e932b51caf3d70d6ba":[6,0,1949,2],
 "d7/dfe/classnpc__nexus__lord.html#a6e58f0074451dfd04b95b3ecaa0201e3":[6,0,1949,1],
 "d7/dff/M2Structure_8h.html":[7,0,0,0,1,2,14,4],
@@ -98,10 +103,10 @@ var NAVTREEINDEX206 =
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,452,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX206 =
 "d8/d0d/classboss__yoggsaron__sara.html":[6,0,787],
 "d8/d0d/classboss__yoggsaron__sara.html#aaf5bd5440122f6c97315b0e3b9d47586":[6,0,787,1],
 "d8/d0d/classboss__yoggsaron__sara.html#abc83e0f3a7d12a84ea283e5b2a69826d":[6,0,787,2],
-"d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0],
-"d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,28,0,1,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1]
+"d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0]
 };
