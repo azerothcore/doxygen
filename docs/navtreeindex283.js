@@ -1,5 +1,7 @@
 var NAVTREEINDEX283 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae8e15077d2b7b473011aa4474d68fd13":[7,0,0,0,1,3,10,14,66,6],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[7,0,0,0,1,3,10,14,66,3],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595":[7,0,0,0,1,3,10,14,63],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595a2ced7cd57bec439c9966fd4b41850718":[7,0,0,0,1,3,10,14,63,1],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595ade06fbaacc54b9a03a93e09f5c51db7e":[7,0,0,0,1,3,10,14,63,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX283 =
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3289,0],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3289,2],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[6,0,3289,4],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3289,3],
-"db/db7/instance__hyjal_8cpp.html":[7,0,0,0,1,3,4,1,0,7],
-"db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[7,0,0,0,1,3,4,1,0,7,6]
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3289,3]
 };

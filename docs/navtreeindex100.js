@@ -1,6 +1,5 @@
 var NAVTREEINDEX100 =
 {
-"d3/d6f/boss__commander__sarannis_8cpp.html#a96d51617c4818c06de68961b8bd2bacc":[7,0,0,0,1,3,7,5,1,0,5],
 "d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html":[6,0,1901,0],
 "d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html#a22d0c3e2445bff2d742b28bd99f37394":[6,0,1901,0,1],
 "d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html#a5cba8d4429ae191dd5b90ca5a4fe2866":[6,0,1901,0,2],
@@ -239,8 +238,8 @@ var NAVTREEINDEX100 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,19,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,19,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,19,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
@@ -249,5 +248,6 @@ var NAVTREEINDEX100 =
 "d3/d81/classAbominationDespawner.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e":[6,0,20,0],
 "d3/d81/classAbominationDespawner.html#a58b8faac1cdffa7230783a1d6439fcfb":[6,0,20,1],
 "d3/d81/classAbominationDespawner.html#af9089e566905b885887a5714ad5b0741":[6,0,20,2],
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html":[6,0,1281,0]
+"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html":[6,0,1281,0],
+"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a0639fcd867616d1f04aacde44020bb30":[6,0,1281,0,2]
 };

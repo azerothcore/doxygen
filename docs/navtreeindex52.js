@@ -1,6 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa5e46c5549fa0882d99fa53b58aebeaf0":[7,0,0,0,1,3,2,4,0,10,23],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa6c390167d44074b21b96b84f032411f3":[7,0,0,0,1,3,2,4,0,10,1],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa6cc7e8f379dd656b539f3a6f095e516a":[7,0,0,0,1,3,2,4,0,10,10],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa756dfbd56ba9a107542747b8e8db88af":[7,0,0,0,1,3,2,4,0,10,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX52 =
 "d2/d27/classspell__warr__deep__wounds.html":[6,0,3914],
 "d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[6,0,3914,2],
 "d2/d27/classspell__warr__deep__wounds.html#a42ff645d6c8e94353ae118327af5f4e6":[6,0,3914,1],
-"d2/d27/classspell__warr__deep__wounds.html#a436ed0843e0035308c69f0854decd7f2":[6,0,3914,0]
+"d2/d27/classspell__warr__deep__wounds.html#a436ed0843e0035308c69f0854decd7f2":[6,0,3914,0],
+"d2/d27/classspell__warr__deep__wounds.html#a93e68d77227297883aae472ef08fb67c":[6,0,3914,3]
 };

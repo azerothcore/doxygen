@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabc080bbc3c53cdae00ae44e46179d2f1":[7,0,0,0,1,2,16,10,5,41,4],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabe35819c1f26bc8a11889d5f6efe026c":[7,0,0,0,1,2,16,10,5,41,20],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fac3d309e81b26ab610ed447863d403617":[7,0,0,0,1,2,16,10,5,41,19],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64facb66efc9eeb8a80af7ee8cbf6f7d5083":[7,0,0,0,1,2,16,10,5,41,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db9/classnpc__cult__fanatic.html":[6,0,1686],
 "d1/db9/classnpc__cult__fanatic.html#ae4d22bac12d17d79669d3fccd4029952":[6,0,1686,2],
 "d1/db9/classnpc__cult__fanatic.html#af29ab8f7628b96b0f192bccab74ca02e":[6,0,1686,1],
-"d1/db9/structPeriodicTimer.html":[6,0,2345],
-"d1/db9/structPeriodicTimer.html#a1b013fe47a2dfb131110d3a29ccf9868":[6,0,2345,4]
+"d1/db9/structPeriodicTimer.html":[6,0,2345]
 };

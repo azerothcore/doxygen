@@ -1,6 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"df/d18/classnpc__anachronos__quest__trigger.html":[6,0,1554],
 "df/d18/classnpc__anachronos__quest__trigger.html#a2e0e6a69ed1cbed76db9c4bd64d51330":[6,0,1554,2],
 "df/d18/classnpc__anachronos__quest__trigger.html#ad39871952acd3152b51820fe360f4ebd":[6,0,1554,1],
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html":[6,0,1933,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX372 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a12aec05556dba9548e48851cc0dcf48d":[7,0,0,0,1,2,16,5,0,4,6,238],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a132df4597ea73a26d0574cbcfe3d9b5c":[7,0,0,0,1,2,16,5,0,4,6,48],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a136f8e7d01e970aa1bf3be3759399fed":[7,0,0,0,1,2,16,5,0,4,6,187],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a17f798ebf28bd5a55071171b0f1c41ef":[7,0,0,0,1,2,16,5,0,4,6,267]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a17f798ebf28bd5a55071171b0f1c41ef":[7,0,0,0,1,2,16,5,0,4,6,267],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1839e5053ba2ed57303c92683b483745":[7,0,0,0,1,2,16,5,0,4,6,298]
 };

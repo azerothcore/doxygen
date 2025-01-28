@@ -1,6 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,445,10],
 "de/d4a/structboss__fathomguard__tidalvess.html#a1b4ace7575946c585cc63057e81a1529":[6,0,445,15],
 "de/d4a/structboss__fathomguard__tidalvess.html#a1dc16180610c742e98a93f87653e93e9":[6,0,445,5],
 "de/d4a/structboss__fathomguard__tidalvess.html#a7f79a16e0c186e97aeb7f16f3b7d45ea":[6,0,445,3],
@@ -56,12 +55,12 @@ var NAVTREEINDEX354 =
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,66,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,78,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,66,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,78,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,66,1],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,78,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,78,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,66,2],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,78,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,66,0],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,78,0],
 "de/d4d/events__script__loader_8cpp.html":[7,0,0,0,1,3,3,3],
 "de/d4d/events__script__loader_8cpp.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e":[7,0,0,0,1,3,3,3,8],
 "de/d4d/events__script__loader_8cpp.html#a5b00ce0eeb1dcf64dc867f4bce623416":[7,0,0,0,1,3,3,3,0],
@@ -135,8 +134,8 @@ var NAVTREEINDEX354 =
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,3,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,3,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,3,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,3,0,1],
@@ -219,10 +218,10 @@ var NAVTREEINDEX354 =
 "de/d59/classgo__simon__cluster.html":[6,0,1155],
 "de/d59/classgo__simon__cluster.html#a9fd9799604de44c91803511c45b67786":[6,0,1155,1],
 "de/d59/classgo__simon__cluster.html#adac53a8451abd6ace227a66afc7e61e8":[6,0,1155,0],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX354 =
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,5,7,12,9,5],
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298cac6af27f7cbb0f5f223d65ff55a9a86fb":[7,0,0,0,1,3,5,7,12,9,2],
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298caca3c536cf7ada4b3f780dcdb28d4d3b2":[7,0,0,0,1,3,5,7,12,9,1],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,7,12,7]
+"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,7,12,7],
+"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba":[7,0,0,0,1,3,5,7,12,7,1]
 };

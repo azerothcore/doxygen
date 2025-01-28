@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"d7/d52/classSpellEvent.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e":[6,0,3989,1],
 "d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[6,0,3989,5],
 "d7/d52/classSpellEvent.html#a2ecd9b31bacc717cc509eb9bb69c3cb3":[6,0,3989,4],
 "d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,3989,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49":[7,0,0,0,1,3,2,23,8,2],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6":[7,0,0,0,1,3,2,23,8,1],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90":[7,0,0,0,1,3,2,23,8,8],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942":[7,0,0,0,1,3,2,23,8,16],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc":[7,0,0,0,1,3,2,23,8,13]
+"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942":[7,0,0,0,1,3,2,23,8,16]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX64 =
 {
-"d2/d61/classspell__hun__last__stand__pet.html#a84430c269e419acd94a2d0520b9ca639":[6,0,3052,0],
 "d2/d61/classspell__hun__last__stand__pet.html#a8ec4e9cea213739825126111d038d1a5":[6,0,3052,1],
 "d2/d62/AuthCodes_8cpp.html":[7,0,0,0,1,0,0,0,0],
 "d2/d62/AuthCodes_8cpp.html#a50a906b5a3fdca3508aee0997881a717":[7,0,0,0,1,0,0,0,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX64 =
 "d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#ace71fc6f1d7bc4b49bc2a2507f481fc2":[6,0,1310,0,1],
 "d2/d71/classachievement__bg__ic__glaive__grave.html":[6,0,38],
 "d2/d71/classachievement__bg__ic__glaive__grave.html#a0eacab5595969cfe5e3d083c984dfd77":[6,0,38,1],
-"d2/d71/classachievement__bg__ic__glaive__grave.html#a97e1cead0102a120b3bd14592ea26034":[6,0,38,0]
+"d2/d71/classachievement__bg__ic__glaive__grave.html#a97e1cead0102a120b3bd14592ea26034":[6,0,38,0],
+"d2/d71/classachievement__tilted.html":[6,0,96]
 };

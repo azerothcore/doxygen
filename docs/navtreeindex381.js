@@ -1,6 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dad93515bc74f74c4963e0e7c599daeeee":[7,0,0,0,1,3,5,9,2,4,41,7],
 "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daf617a786729f5d97a5fcd03f895d0c8f":[7,0,0,0,1,3,5,9,2,4,41,6],
 "df/d87/boss__freya_8cpp.html#aa6d193a6cde253af8005284b30ea5484":[7,0,0,0,1,3,5,9,2,4,38],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,4,44],
@@ -121,14 +120,14 @@ var NAVTREEINDEX381 =
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,13,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,66],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,54],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,54,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,66,0],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,54,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,54,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,66,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[6,0,0,54,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,66,2],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,66,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[6,0,0,54,5],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,66,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,54,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,66,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,66,3],
@@ -240,14 +239,15 @@ var NAVTREEINDEX381 =
 "df/d8d/structSmartTarget.html#af83071775da34749226ea32c6421d0dd":[6,0,2525,28],
 "df/d8d/structSmartTarget.html#afafd6378f6b9472ce21aab4addbc55b6":[6,0,2525,45],
 "df/d8d/structSmartTarget.html#afd68fe281c872f9d960b7eb40cc5fba9":[6,0,2525,27],
-"df/d8e/classMMAP_1_1MMapMgr.html":[5,0,21,7],
 "df/d8e/classMMAP_1_1MMapMgr.html":[6,0,6,7],
+"df/d8e/classMMAP_1_1MMapMgr.html":[5,0,21,7],
 "df/d8e/classMMAP_1_1MMapMgr.html#a09b83a0d5246838d42a49c5103957480":[6,0,6,7,1],
 "df/d8e/classMMAP_1_1MMapMgr.html#a09b83a0d5246838d42a49c5103957480":[5,0,21,7,1],
 "df/d8e/classMMAP_1_1MMapMgr.html#a14fe8d762bac4d5d179af1acf8bfe84e":[6,0,6,7,3],
 "df/d8e/classMMAP_1_1MMapMgr.html#a14fe8d762bac4d5d179af1acf8bfe84e":[5,0,21,7,3],
-"df/d8e/classMMAP_1_1MMapMgr.html#a2d933fd783126e48423d81d1c06fb3f9":[6,0,6,7,12],
 "df/d8e/classMMAP_1_1MMapMgr.html#a2d933fd783126e48423d81d1c06fb3f9":[5,0,21,7,12],
+"df/d8e/classMMAP_1_1MMapMgr.html#a2d933fd783126e48423d81d1c06fb3f9":[6,0,6,7,12],
+"df/d8e/classMMAP_1_1MMapMgr.html#a755d34666349eba1d7665e510afa3453":[6,0,6,7,4],
 "df/d8e/classMMAP_1_1MMapMgr.html#a755d34666349eba1d7665e510afa3453":[5,0,21,7,4],
-"df/d8e/classMMAP_1_1MMapMgr.html#a755d34666349eba1d7665e510afa3453":[6,0,6,7,4]
+"df/d8e/classMMAP_1_1MMapMgr.html#a83acf8ce1357052ccb8aa6b63f6860ca":[5,0,21,7,11]
 };

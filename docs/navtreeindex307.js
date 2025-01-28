@@ -1,5 +1,8 @@
 var NAVTREEINDEX307 =
 {
+"dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[6,0,451,2],
+"dc/db4/structboss__gruul.html":[6,0,496],
+"dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,496,5],
 "dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,496,7],
 "dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,496,6],
 "dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,496,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[6,0,2413,2],
 "dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[6,0,2413,0],
 "dc/dc7/structnpc__parasitic__shadowfiend.html":[6,0,1966],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[6,0,1966,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[6,0,1966,4],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[6,0,1966,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[6,0,1966,2]
+"dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[6,0,1966,0]
 };

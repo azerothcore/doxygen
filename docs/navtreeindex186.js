@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d7/d3f/classnpc__eris__hevenfire.html":[6,0,1737],
 "d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[6,0,1737,3],
 "d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[6,0,1737,1],
 "d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[6,0,1737,2],
@@ -46,8 +47,8 @@ var NAVTREEINDEX186 =
 "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,0,3,5,2],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[6,0,11,4,0],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[5,0,31,4,0],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[6,0,11,4,0,6],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[5,0,31,4,0,6],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[6,0,11,4,0,6],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[6,0,11,4,0,3],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[5,0,31,4,0,3],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[6,0,11,4,0,2],
@@ -56,16 +57,16 @@ var NAVTREEINDEX186 =
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a51df177d9ce6a8459bc8fa41f80cdb7a":[6,0,11,4,0,5],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ab4311f6516d9b7491abf5cb2ba9a0ee0":[6,0,11,4,0,0],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ab4311f6516d9b7491abf5cb2ba9a0ee0":[5,0,31,4,0,0],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ad20a9730af3088d93ac56d89b6f66b12":[6,0,11,4,0,4],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ad20a9730af3088d93ac56d89b6f66b12":[5,0,31,4,0,4],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ad20a9730af3088d93ac56d89b6f66b12":[6,0,11,4,0,4],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#af7d49b8d57100cf2c3048d5415a4edc7":[5,0,31,4,0,1],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#af7d49b8d57100cf2c3048d5415a4edc7":[6,0,11,4,0,1],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html":[5,0,31,5,34],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html":[6,0,11,5,34],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a1a0acf334d88751e94257ff76c9e3fd8":[5,0,31,5,34,2],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html":[5,0,31,5,34],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a1a0acf334d88751e94257ff76c9e3fd8":[6,0,11,5,34,2],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[5,0,31,5,34,4],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a1a0acf334d88751e94257ff76c9e3fd8":[5,0,31,5,34,2],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[6,0,11,5,34,4],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[5,0,31,5,34,4],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[6,0,11,5,34,0],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[5,0,31,5,34,0],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[6,0,11,5,34,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d46/classAuraEffect.html#a9bea1efab99a42212d85ea5c39921950":[6,0,267,72],
 "d7/d46/classAuraEffect.html#a9ca1c0fbc142af46a5926b2d87520ee3":[6,0,267,20],
 "d7/d46/classAuraEffect.html#a9e7dc7c97738c4404913cab0cae09027":[6,0,267,161],
-"d7/d46/classAuraEffect.html#a9f294bf8036e7a0c71b83950da2b3eff":[6,0,267,162],
-"d7/d46/classAuraEffect.html#aa183791665930afb43bbac2163b1d8d4":[6,0,267,28]
+"d7/d46/classAuraEffect.html#a9f294bf8036e7a0c71b83950da2b3eff":[6,0,267,162]
 };

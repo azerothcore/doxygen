@@ -1,6 +1,5 @@
 var NAVTREEINDEX374 =
 {
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aea67e139c1fd791a6ef4d5595f8c6d7f":[7,0,0,0,1,2,16,5,0,4,6,104],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aebcd916152e7d9118c4a4fb15bc7cc9e":[7,0,0,0,1,2,16,5,0,4,6,212],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aec5a53232e5ddee6a77c6b1339b908b6":[7,0,0,0,1,2,16,5,0,4,6,236],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aed253017fbffa608b66ca1e45802f968":[7,0,0,0,1,2,16,5,0,4,6,250],
@@ -136,12 +135,12 @@ var NAVTREEINDEX374 =
 "df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[6,0,1693,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,85],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,97],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,85,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,97,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,85,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,85,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,97,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,97,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,85,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,97,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,97,3],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,85,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3097],
@@ -248,6 +247,7 @@ var NAVTREEINDEX374 =
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1":[7,0,0,0,1,3,5,8,2,6,3,9],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa5927bac3b5dbcbb4d84d36552c1f6c1":[7,0,0,0,1,3,5,8,2,6,3,2],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a":[7,0,0,0,1,3,5,8,2,6,3,5],
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
-"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23]
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[6,0,2039,0]
 };

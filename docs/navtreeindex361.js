@@ -1,6 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[6,0,82,0],
 "de/da2/classnpc__maxx__a__million__escort.html":[6,0,1920],
 "de/da2/classnpc__maxx__a__million__escort.html#a958a88b495594dd8e14919d950ac917a":[6,0,1920,1],
 "de/da2/classnpc__maxx__a__million__escort.html#af3c2f2708702f7d25e712c63a45e69e0":[6,0,1920,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX361 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8647e748ac88d8863f6df22cc2a4ccb3":[7,0,0,0,1,1,0,0,1,1,389],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a868f093ec4ce5d1b93010f0dbf7080e7":[7,0,0,0,1,1,0,0,1,1,368],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a87f4012edfae1432d8cadfb45a4e1686":[7,0,0,0,1,1,0,0,1,1,196],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a880da191fa86cb646accf336868acb69":[7,0,0,0,1,1,0,0,1,1,255]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a880da191fa86cb646accf336868acb69":[7,0,0,0,1,1,0,0,1,1,255],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8907acf05ccd3a0a184963cac916c548":[7,0,0,0,1,1,0,0,1,1,358]
 };

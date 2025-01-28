@@ -1,7 +1,6 @@
 var NAVTREEINDEX161 =
 {
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,1,8,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[6,0,1950],
 "d6/d07/structnpc__nightbane__helper__target.html#a688ebb85baad72e523be0dceb70a75fc":[6,0,1950,0],
 "d6/d08/FollowerRefMgr_8h.html":[7,0,0,0,1,2,31,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29ced":[7,0,0,0,1,3,10,5,74],
 "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29ceda3a62854b3a4bf50563697b1f3d8522e5":[7,0,0,0,1,3,10,5,74,1],
 "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29cedae2e298b0385483a254dfe93caea9ea7c":[7,0,0,0,1,3,10,5,74,0],
-"d6/d0c/go__scripts_8cpp.html#adf584257acd0715545b9fd85af9b4b26":[7,0,0,0,1,3,10,5,54]
+"d6/d0c/go__scripts_8cpp.html#adf584257acd0715545b9fd85af9b4b26":[7,0,0,0,1,3,10,5,54],
+"d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548":[7,0,0,0,1,3,10,5,91]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3fa1e67bf942824cd40c5591f4e63a08":[6,0,552,0,0],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a440b758486cd95b7884fe2ce9bdfb28f":[6,0,552,0,6],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a49066a2fa1dc424a27262706c8af046a":[6,0,552,0,2],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e":[6,0,552,0,15],
@@ -77,8 +76,8 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[6,0,4180,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[6,0,4180,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4180,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX152 =
 "d5/dbb/boss__argent__challenge_8cpp.html#aff31c755c0c35f6c75440182aafc212e":[7,0,0,0,1,3,5,2,0,0,14],
 "d5/dbc/namespaceDoodad.html":[5,0,13],
 "d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,13,0],
-"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,13,1]
+"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,13,1],
+"d5/dbd/classnpc__feedin__da__goolz.html":[6,0,1743]
 };

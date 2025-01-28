@@ -1,5 +1,8 @@
 var NAVTREEINDEX312 =
 {
+"dc/dfa/structboss__twinemperorsAI.html#a9cc74619908c2aa9f8deda2689616735":[6,0,736,6],
+"dc/dfa/structboss__twinemperorsAI.html#aaa52e01bfeff824345f7b9c7346e8aef":[6,0,736,8],
+"dc/dfa/structboss__twinemperorsAI.html#ab5a1b28405c38ece65f5ee145e472de8":[6,0,736,3],
 "dc/dfa/structboss__twinemperorsAI.html#ab9a279e9ba3bb057268602be7368ffe4":[6,0,736,7],
 "dc/dfa/structboss__twinemperorsAI.html#acdccdde2ee573f51e1783ea493577258":[6,0,736,5],
 "dc/dfa/structboss__twinemperorsAI.html#ae0857b191dbbf086533062aee5885237":[6,0,736,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX312 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a90eee01f380f97f033c82d7c6ec48d00":[6,0,3040,1],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a91c5a0e10c308332e18dc40033049996":[6,0,3040,6],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3040,2],
-"dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html":[5,0,19,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,19,15,1]
+"dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15]
 };

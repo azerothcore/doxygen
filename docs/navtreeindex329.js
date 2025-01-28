@@ -1,6 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a336ba08240724fa74f4d4ab371f32527":[7,0,0,0,1,2,38,0,75,1,50],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a352b65e761257cee6aa285d62f8ee648":[7,0,0,0,1,2,38,0,75,1,157],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3563a18d88151f87d63e6688e422295f":[7,0,0,0,1,2,38,0,75,1,73],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a35874bb6e4d573dd21e1c79c64804d38":[7,0,0,0,1,2,38,0,75,1,62],
@@ -249,5 +248,6 @@ var NAVTREEINDEX329 =
 "dd/dce/structboss__gurtogg__bloodboil.html#ab2b8131fc06f0ff6dd9e3ac7799e72db":[6,0,497,6],
 "dd/dce/structboss__gurtogg__bloodboil.html#add25677d422b8bddcb753465451f0584":[6,0,497,7],
 "dd/dce/structboss__gurtogg__bloodboil.html#ae718666a1da0e93cb0965c42c40b51df":[6,0,497,5],
-"dd/dce/structboss__gurtogg__bloodboil.html#af6abec4e4db5ce939e4c9593656d16fb":[6,0,497,0]
+"dd/dce/structboss__gurtogg__bloodboil.html#af6abec4e4db5ce939e4c9593656d16fb":[6,0,497,0],
+"dd/dcf/namespaceWorldPackets_1_1Guild.html":[5,0,31,5]
 };

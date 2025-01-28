@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d9/d17/classnpc__firework.html#a9efb6ed098e4eb3e24c30393cb5cb45d":[6,0,1748,1],
+"d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3827],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,3827,3],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#a66dcb98f38ed6b040928543015f59c9b":[6,0,3827,1],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[6,0,3827,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2009],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2009,2],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2009,1],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3410],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#a27549f3cacc1732bbc1e61209e0f4905":[6,0,3410,1],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3410,0]
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3410]
 };

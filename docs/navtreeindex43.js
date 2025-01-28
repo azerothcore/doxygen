@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcaaf71d3ce4f2654e5fc036f6328aa5844":[7,0,0,0,1,2,3,2,5,18,99],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab3135100c21cf6441e49a9b96a210b55":[7,0,0,0,1,2,3,2,5,18,158],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab38ab0ad5ca36b7b5714b3c5c4356a9a":[7,0,0,0,1,2,3,2,5,18,85],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab38e86486980c0f2572e74e9be3e758b":[7,0,0,0,1,2,3,2,5,18,61],
@@ -224,10 +225,10 @@ var NAVTREEINDEX43 =
 "d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[6,0,2978,3],
 "d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[6,0,2978,2],
 "d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,2978,0],
-"d1/dc3/structAcore_1_1dependant__false.html":[5,0,1,58],
 "d1/dc3/structAcore_1_1dependant__false.html":[6,0,0,46],
-"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,58,0],
+"d1/dc3/structAcore_1_1dependant__false.html":[5,0,1,58],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[6,0,0,46,0],
+"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,58,0],
 "d1/dc3/struct__Spell.html":[6,0,15],
 "d1/dc3/struct__Spell.html#a16909465a3a20dbab6e3ca2e3c807f17":[6,0,15,2],
 "d1/dc3/struct__Spell.html#a39657ff9e561a3c86a671f7b3c78ef98":[6,0,15,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "d1/dc4/structFormationInfo.html#afc612acf30e8d0a047aac5b0fc2dc07b":[6,0,1040,1],
 "d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html":[6,0,1400],
 "d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html#a075621e69c80c128ec44cfb4f3ba0cf6":[6,0,1400,0],
-"d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html#a33f6c3e46c24571a8eec083087618fed":[6,0,1400,1],
-"d1/dc6/classboss__gormok.html":[6,0,486]
+"d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html#a33f6c3e46c24571a8eec083087618fed":[6,0,1400,1]
 };

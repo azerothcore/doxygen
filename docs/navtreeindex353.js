@@ -1,6 +1,5 @@
 var NAVTREEINDEX353 =
 {
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[7,0,0,0,1,2,20,1,13,5],
 "de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX353 =
 "de/d4a/classspell__brewfest__toss__mug.html#a9638048b4107db116474abf8e18d7760":[6,0,2639,1],
 "de/d4a/classspell__brewfest__toss__mug.html#aab9211291bd9dab8255d94e4eb07bf8e":[6,0,2639,4],
 "de/d4a/structboss__fathomguard__tidalvess.html":[6,0,445],
-"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,445,7]
+"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,445,7],
+"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,445,10]
 };

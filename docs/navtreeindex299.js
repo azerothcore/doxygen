@@ -1,5 +1,8 @@
 var NAVTREEINDEX299 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a3f7bd026726a42823812843a495aae95":[7,0,0,0,1,3,4,1,0,4,4],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,4,2],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca07e091ecb8a2612b504b5d38e97179cc":[7,0,0,0,1,3,4,1,0,4,2,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,1,0,4,2,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d343d8659aac6c2c356387e867baf5f":[7,0,0,0,1,3,4,1,0,4,2,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,4,1,0,4,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a775c7d564b931e157a32b0909efed859":[6,0,1270,0,1],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1270,0,2],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1270,0,5],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1270,0,0],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1270,0,3],
-"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,3],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,686]
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1270,0,0]
 };

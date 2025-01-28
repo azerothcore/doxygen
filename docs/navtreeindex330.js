@@ -1,6 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dd/dcf/namespaceWorldPackets_1_1Guild.html":[5,0,31,5],
 "dd/dcf/structCharacterCacheEntry.html":[6,0,836],
 "dd/dcf/structCharacterCacheEntry.html#a19dbbbdce9dbf9993d57edbebeeaf425":[6,0,836,2],
 "dd/dcf/structCharacterCacheEntry.html#a1d094e514af9970b0239cc8e27da06bc":[6,0,836,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX330 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caa932d8829093f32605f60f73620df5e5":[7,0,0,0,1,3,5,1,1,2,32,24],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caab57ea052e5939556b5374499f5f918d":[7,0,0,0,1,3,5,1,1,2,32,8],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caac0491ef41263c4f5ab3e3676d3557bf":[7,0,0,0,1,3,5,1,1,2,32,33],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cab106e50e57ee1f79a784b55bfeaef3b5":[7,0,0,0,1,3,5,1,1,2,32,44]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cab106e50e57ee1f79a784b55bfeaef3b5":[7,0,0,0,1,3,5,1,1,2,32,44],
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cab731dc7875dfc786792fe2e824193c72":[7,0,0,0,1,3,5,1,1,2,32,4]
 };

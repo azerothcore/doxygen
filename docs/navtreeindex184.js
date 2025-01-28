@@ -1,5 +1,6 @@
 var NAVTREEINDEX184 =
 {
+"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3d8e0e38aa4a063429df3da1ce62f6fe":[7,0,0,0,1,3,2,1,0,1,3,8],
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3e21968d52df0e895e9ec41fe757e868":[7,0,0,0,1,3,2,1,0,1,3,5],
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3ee86cac9df08dcaa8ccab7abf35b3a3":[7,0,0,0,1,3,2,1,0,1,3,14],
 "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add":[7,0,0,0,1,3,2,1,0,1,3,34],
@@ -83,16 +84,16 @@ var NAVTREEINDEX184 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,11,5,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,31,5,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,11,5,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,31,5,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,11,5,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,31,5,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,31,5,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,11,5,47,1],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,31,5,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,11,5,47,0],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,11,5,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,31,5,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,31,5,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,11,5,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,31,5,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,11,5,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,31,5,47,5],
@@ -207,10 +208,10 @@ var NAVTREEINDEX184 =
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[6,0,9,10,4],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[5,0,28,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
-"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,28,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
-"d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,28,10,5],
+"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,28,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
+"d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,28,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3696],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a241b65bdcb6aefa4e37b61c5007149f6":[6,0,3696,1],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a4efa486733390dea566e1169902db915":[6,0,3696,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d2e/SecretMgr_8h.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6":[7,0,0,0,1,4,4,1,3,1],
 "d7/d2e/SecretMgr_8h.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9":[7,0,0,0,1,4,4,1,3,0],
 "d7/d2e/enuminfo__Channel_8cpp.html":[7,0,0,0,1,2,11,0,4],
-"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html":[6,0,2105,0],
-"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html#a112bd4adaa290afd04d229347a96ff4a":[6,0,2105,0,1]
+"d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html":[6,0,2105,0]
 };

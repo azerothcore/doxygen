@@ -1,6 +1,5 @@
 var NAVTREEINDEX76 =
 {
-"d2/de1/classlearn__commandscript.html#a956716b7743dfc6de922b0badf40aeda":[6,0,1382,6],
 "d2/de1/classlearn__commandscript.html#a985d2a10f01808c4bff2922b1530e911":[6,0,1382,3],
 "d2/de1/classlearn__commandscript.html#aaa19e92798ac56355a95e625ead56556":[6,0,1382,9],
 "d2/de1/classlearn__commandscript.html#aaf4d779b47511db72727fe44fb1bbd2d":[6,0,1382,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0":[6,0,3994,145],
 "d2/de9/classSpellInfo.html#aa85c0bb7b69c425976650fe10444adaa":[6,0,3994,160],
 "d2/de9/classSpellInfo.html#aa8de3a55617f9dbe8313e4d66907a0b7":[6,0,3994,28],
-"d2/de9/classSpellInfo.html#aa957eeb510350df83e1e7f18994a53d0":[6,0,3994,66]
+"d2/de9/classSpellInfo.html#aa957eeb510350df83e1e7f18994a53d0":[6,0,3994,66],
+"d2/de9/classSpellInfo.html#aa9d0a19769974a025cc53eddb8bd0e38":[6,0,3994,29]
 };

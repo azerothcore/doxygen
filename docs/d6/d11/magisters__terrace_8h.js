@@ -24,7 +24,9 @@ var magisters__terrace_8h =
       [ "DATA_KAELTHAS", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
       [ "MAX_ENCOUNTER", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
       [ "DATA_KALECGOS", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
-      [ "DATA_ESCAPE_ORB", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ]
+      [ "DATA_ESCAPE_ORB", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
     ] ],
     [ "MTGameObjects", "d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867d", [
       [ "GO_VEXALLUS_DOOR", "d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],

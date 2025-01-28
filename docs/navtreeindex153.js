@@ -1,6 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"d5/dbd/classnpc__feedin__da__goolz.html":[6,0,1743],
 "d5/dbd/classnpc__feedin__da__goolz.html#a61ab3189e2525a995a87eec06d45e355":[6,0,1743,2],
 "d5/dbd/classnpc__feedin__da__goolz.html#ace9fd4ca5809c0d47b49fc63ca8363be":[6,0,1743,1],
 "d5/dbd/classnpc__ulduar__hodir__priest.html":[6,0,2187],
@@ -249,5 +248,6 @@ var NAVTREEINDEX153 =
 "d5/dc7/structSpellEntry.html#ac2d17132ffcbb75f8748f9c04930526d":[6,0,3988,60],
 "d5/dc7/structSpellEntry.html#ac553667d97b29d8ad7e682d4c55e4263":[6,0,3988,16],
 "d5/dc7/structSpellEntry.html#ac5b4ec3f69915daa9dbf90fa01ccd85e":[6,0,3988,28],
-"d5/dc7/structSpellEntry.html#acc079291b724a3685b3375532ca783e3":[6,0,3988,38]
+"d5/dc7/structSpellEntry.html#acc079291b724a3685b3375532ca783e3":[6,0,3988,38],
+"d5/dc7/structSpellEntry.html#accbc0425316d6848dbdd9f6bed9ec306":[6,0,3988,51]
 };

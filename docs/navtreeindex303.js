@@ -1,5 +1,8 @@
 var NAVTREEINDEX303 =
 {
+"dc/d7b/classnpc__leryssa.html#a4725831580b206d91dbd8c21a703893f":[6,0,1891,2],
+"dc/d7b/classnpc__leryssa.html#a549bed4476f88c313e6b42c0fe1fffb8":[6,0,1891,1],
+"dc/d7b/classspell__q10525__vision__guide.html":[6,0,3525],
 "dc/d7b/classspell__q10525__vision__guide.html#a2144b0602501471a4001883ce9de6db3":[6,0,3525,1],
 "dc/d7b/classspell__q10525__vision__guide.html#a814687d3938e966f8721438e1a722f77":[6,0,3525,0],
 "dc/d7b/classspell__q10525__vision__guide.html#a9d696dc7e58692216fa1cf6cc7c011a9":[6,0,3525,2],
@@ -108,14 +111,14 @@ var NAVTREEINDEX303 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,77],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,77,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,89,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,77,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,89,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,77,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,77,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,89,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,89,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,77,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,89,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,77,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,89,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3209],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3209,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3209,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d8b/classboss__blood__queen__lana__thel.html":[6,0,385],
 "dc/d8b/classboss__blood__queen__lana__thel.html#a7873efd945bdb24228866f639e32879b":[6,0,385,2],
 "dc/d8b/classboss__blood__queen__lana__thel.html#a9f8fa906f01082caacd106abc2707b07":[6,0,385,1],
-"dc/d8b/structlfg_1_1LFGDungeonData.html":[5,0,19,1],
-"dc/d8b/structlfg_1_1LFGDungeonData.html":[6,0,5,1],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a0d5bc7c615666f52aca24ee34d849992":[6,0,5,1,4],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a0d5bc7c615666f52aca24ee34d849992":[5,0,19,1,4]
+"dc/d8b/structlfg_1_1LFGDungeonData.html":[6,0,5,1]
 };

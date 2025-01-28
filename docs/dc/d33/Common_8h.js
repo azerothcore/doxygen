@@ -29,6 +29,7 @@ var Common_8h =
     [ "CleanStringForMysqlQuery", "dc/d33/Common_8h.html#a3de291e93c6c35b96ebb4fe810183863", null ],
     [ "GetLocaleByName", "dc/d33/Common_8h.html#a81800cc16f876fcd41a0b7736b5a321d", null ],
     [ "GetNameByLocaleConstant", "dc/d33/Common_8h.html#aae0d764fc40e007fe4f0648c94757ff2", null ],
+    [ "IsLocaleValid", "dc/d33/Common_8h.html#acf14111452f4827857c02f0b5421623d", null ],
     [ "DAY", "dc/d33/Common_8h.html#a219e927a5d306db9cd363487d1f94366", null ],
     [ "HOUR", "dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f", null ],
     [ "IN_MILLISECONDS", "dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58", null ],

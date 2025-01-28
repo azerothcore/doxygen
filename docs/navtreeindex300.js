@@ -1,5 +1,8 @@
 var NAVTREEINDEX300 =
 {
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1270,0,3],
+"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,3],
+"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,686],
 "dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,686,2],
 "dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,686,1],
 "dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3002],
@@ -246,8 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d56/structadvisor__baseAI.html#ae1c2011ba993c8d589bf6fe45602ac41":[6,0,140,8],
 "dc/d56/structnpc__eastvale__peasent.html":[6,0,1725],
 "dc/d56/structnpc__eastvale__peasent.html#a002ec21e0715b020aa19cd0839408033":[6,0,1725,2],
-"dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1725,6],
-"dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[6,0,1725,0],
-"dc/d56/structnpc__eastvale__peasent.html#a7eb6cf174a46fd31c8c5241649fcebdc":[6,0,1725,3],
-"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1725,5]
+"dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1725,6]
 };

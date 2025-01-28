@@ -1,6 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,23],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,23,2],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,23,1],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,23,5],
@@ -67,10 +66,10 @@ var NAVTREEINDEX349 =
 "de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,30,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
-"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,30,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,30,0,1],
+"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,30,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,30,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,10,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,30,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX349 =
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1964],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1964,2],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1964,1],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2193,0]
+"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2193,0],
+"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2193,0,1]
 };

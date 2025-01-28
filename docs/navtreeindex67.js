@@ -1,6 +1,5 @@
 var NAVTREEINDEX67 =
 {
-"d2/d74/classgo__shadowforge__brazier.html":[6,0,1154],
 "d2/d74/classgo__shadowforge__brazier.html#a83b188cd2ee68e1ebfe75060465f8f38":[6,0,1154,1],
 "d2/d74/classgo__shadowforge__brazier.html#aafc1d2e865294bb102c918d6016aab4b":[6,0,1154,0],
 "d2/d75/Duration_8h.html":[7,0,0,0,0,15,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX67 =
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af0d8643ea5e9da459b0ec49203038941":[7,0,0,0,1,2,48,0,7,70],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af0dec07495e5bb36ef8657d63838ed98":[7,0,0,0,1,2,48,0,7,58],
 "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af1655587f05a59f0273209a63b22dbbd":[7,0,0,0,1,2,48,0,7,202],
-"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af2c2ac57755b8dcf32e1086d64b4b89e":[7,0,0,0,1,2,48,0,7,1]
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af2c2ac57755b8dcf32e1086d64b4b89e":[7,0,0,0,1,2,48,0,7,1],
+"d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41af364b552bd7075a90a9ad6bee9fa33f0":[7,0,0,0,1,2,48,0,7,130]
 };

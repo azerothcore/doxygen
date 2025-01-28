@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2635,4],
 "df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[6,0,2635,3],
 "df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[6,0,2635,5],
 "df/de3/boss__leotheras__the__blind_8cpp.html":[7,0,0,0,1,3,7,2,0,3],
@@ -182,8 +183,8 @@ var NAVTREEINDEX394 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,11,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,11,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,11,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,343],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,825,28],
 "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[6,0,825,22],
 "df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[6,0,825,14],
-"df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[6,0,825,9],
-"df/df1/structCell.html#ab3fe002db0c02530e0e81857857ab26b":[6,0,825,31]
+"df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[6,0,825,9]
 };

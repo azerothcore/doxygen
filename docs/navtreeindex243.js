@@ -1,5 +1,7 @@
 var NAVTREEINDEX243 =
 {
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0dfb31c4c49cf239d73256485cd9516b":[7,0,0,0,1,3,5,9,2,16,5,14],
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0fd428b0ebe7376e4ffd7d62a4cff2d6":[7,0,0,0,1,3,5,9,2,16,5,64],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a11b2f5ef22d640215ad3e00cebf107ae":[7,0,0,0,1,3,5,9,2,16,5,42],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a18f2af99b825f98f8660a928d24371fb":[7,0,0,0,1,3,5,9,2,16,5,38],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e":[7,0,0,0,1,3,5,9,2,16,5,56],
@@ -247,7 +249,5 @@ var NAVTREEINDEX243 =
 "da/d06/classboss__zuramat.html":[6,0,793],
 "da/d06/classboss__zuramat.html#a1008c053a2c9ad14cf9ce994db931670":[6,0,793,2],
 "da/d06/classboss__zuramat.html#a1d169e786dcf846026b48d9be389f9ab":[6,0,793,1],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html":[6,0,1732,0],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a1d192d0dd563dc2735b23a171b2bf659":[6,0,1732,0,2],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a2d56572acf042ba34f468f0ff3b0bd1a":[6,0,1732,0,3]
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html":[6,0,1732,0]
 };

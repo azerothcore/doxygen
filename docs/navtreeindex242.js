@@ -1,5 +1,7 @@
 var NAVTREEINDEX242 =
 {
+"d9/df2/classspell__warl__demonic__empowerment.html#a13315f197f2e6975dca00b53cbc599d2":[6,0,3879,2],
+"d9/df2/classspell__warl__demonic__empowerment.html#a328c1ba6ccd98e25e477a3f784cb47ff":[6,0,3879,0],
 "d9/df2/classspell__warl__demonic__empowerment.html#a3b752f07631223199ed7ac404ed1afed":[6,0,3879,3],
 "d9/df2/classspell__warl__demonic__empowerment.html#aa211032991d8fd11d574cb364533a515":[6,0,3879,1],
 "d9/df2/the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX242 =
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed5ca0a465b7ad5d7ecedf2386848b83":[7,0,0,0,1,3,5,9,2,16,3,4],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904":[7,0,0,0,1,3,5,9,2,16,5],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48":[7,0,0,0,1,3,5,9,2,16,5,61],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a09127b173c49b4f434eea2d6fa99b245":[7,0,0,0,1,3,5,9,2,16,5,40],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0dfb31c4c49cf239d73256485cd9516b":[7,0,0,0,1,3,5,9,2,16,5,14],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0fd428b0ebe7376e4ffd7d62a4cff2d6":[7,0,0,0,1,3,5,9,2,16,5,64]
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a09127b173c49b4f434eea2d6fa99b245":[7,0,0,0,1,3,5,9,2,16,5,40]
 };

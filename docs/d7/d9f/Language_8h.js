@@ -82,6 +82,7 @@ var Language_8h =
       [ "LANG_RBAC_PERM_REVOKED_NOT_IN_LIST", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa5a9f305c0d00753a8e9c8156878c1c82", null ],
       [ "LANG_PVPSTATS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4aea44ae383b25d9584cef90837b9b4c", null ],
       [ "LANG_PVPSTATS_DISABLED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aabf76b3e782106868ff29134ec35efdc0", null ],
+      [ "LANG_GENERIC_TWO_CURLIES_WITH_COLON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6611417d281ee706ffc553edcedc35f6", null ],
       [ "LANG_UNKNOWN_ERROR", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa590cfed17afc2c05b635ec3661511077", null ],
       [ "LANG_2FA_COMMANDS_NOT_SETUP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa90ac80b6942df5c8e2b45bed0a668ca4", null ],
       [ "LANG_2FA_ALREADY_SETUP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06be2f611064175a0e9555b1a510ef34", null ],

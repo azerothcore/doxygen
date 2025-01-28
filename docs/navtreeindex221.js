@@ -1,5 +1,7 @@
 var NAVTREEINDEX221 =
 {
+"d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html#a0dd2ca5b83f5d75c51dfa358544c018a":[6,0,1937,0,1],
+"d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html#a5172d70649be5030fd91e1adbcad4f06":[6,0,1937,0,0],
 "d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html#a9f90e791c77377c02c66e5d809c555cc":[6,0,1937,0,3],
 "d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html#ad1a300c13e98965b935c1e3fc26b9606":[6,0,1937,0,6],
 "d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html#ad97142df8344df59eddfb92471d1a737":[6,0,1937,0,5],
@@ -64,22 +66,22 @@ var NAVTREEINDEX221 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb":[7,0,0,0,1,3,2,15,1,4,3],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6":[7,0,0,0,1,3,2,15,1,4,2],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[7,0,0,0,1,3,2,15,1,4,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[6,0,0,76],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,1,88],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[6,0,0,76],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[6,0,0,76,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,1,88,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,76,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,1,88,6],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,76,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[6,0,0,76,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,1,88,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[6,0,0,76,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,1,88,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[6,0,0,76,0],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,1,88,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[6,0,0,76,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[6,0,0,76,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,1,88,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,1,88,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[6,0,0,76,4],
 "d8/dc2/classinstance__ulduar.html":[6,0,1324],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[6,0,1324,1],
 "d8/dc2/classinstance__ulduar.html#ad15f003a90e656910fc32d661ca9baba":[6,0,1324,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX221 =
 "d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65":[7,0,0,0,1,2,16,5,0,3,0,5],
 "d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1":[7,0,0,0,1,2,16,5,0,3,0,8],
 "d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a":[7,0,0,0,1,2,16,5,0,3,0,0],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da":[7,0,0,0,1,2,16,5,0,3,0,1],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715":[7,0,0,0,1,2,16,5,0,3,0,3],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c":[7,0,0,0,1,2,16,5,0,3,0,2]
+"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da":[7,0,0,0,1,2,16,5,0,3,0,1]
 };

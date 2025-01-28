@@ -1,5 +1,8 @@
 var NAVTREEINDEX314 =
 {
+"dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6":[7,0,0,0,1,2,38,0,93,1,6],
+"dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca":[7,0,0,0,1,2,38,0,93,1,7],
+"dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e":[7,0,0,0,1,2,38,0,93,1,11],
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213":[7,0,0,0,1,2,38,0,93,1,2],
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7":[7,0,0,0,1,2,38,0,93,1,5],
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa":[7,0,0,0,1,2,38,0,93,1,8],
@@ -58,14 +61,14 @@ var NAVTREEINDEX314 =
 "dd/d1a/classnpc__vortex__ride.html":[6,0,2230],
 "dd/d1a/classnpc__vortex__ride.html#a23ef53feb432127db2620810a55d02ff":[6,0,2230,2],
 "dd/d1a/classnpc__vortex__ride.html#ad794cda407c9dfc35dd9bc2724f5014a":[6,0,2230,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,65],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,53],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,65,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,65],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,53,0],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,65,3],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,65,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,53,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,65,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,65,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,53,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,65,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,65,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,53,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1241],
@@ -217,8 +220,8 @@ var NAVTREEINDEX314 =
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,7,7,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,31,7,7,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,11,7,7,4],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,7,7,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,31,7,7,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,7,7,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[6,0,11,7,7,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,31,7,7,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,31,7,7,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX314 =
 "dd/d27/Timer_8h.html#a5922471809ac8688a8146982524ce0fc":[7,0,0,0,0,15,33,34],
 "dd/d27/Timer_8h.html#a5f88e45f1a432d5a2613a65936a4a19a":[7,0,0,0,0,15,33,17],
 "dd/d27/Timer_8h.html#a644d31badd91d21f970b5369c64a8f56":[7,0,0,0,0,15,33,11],
-"dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694c":[7,0,0,0,0,15,33,4],
-"dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca1bcf159aa5ff6c1a04b8db08698d6e84":[7,0,0,0,0,15,33,4,0],
-"dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca63d151a6eecaa685919cba8fe362c3f3":[7,0,0,0,0,15,33,4,1],
-"dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca87322391cc6e8948ce9fd5d6cb84fced":[7,0,0,0,0,15,33,4,2]
+"dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694c":[7,0,0,0,0,15,33,4]
 };

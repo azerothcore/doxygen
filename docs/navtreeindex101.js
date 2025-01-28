@@ -1,6 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a0639fcd867616d1f04aacde44020bb30":[6,0,1281,0,2],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a115a36ec26e15e23be4d78250d86d814":[6,0,1281,0,1],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a7a38526ca7b9a7c7c04231f8f8efd2f7":[6,0,1281,0,3],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a7cfcac5dbe4562268679ddceaf8ec8ea":[6,0,1281,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX101 =
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a7b099b90600e433e304dee1f356a9909":[6,0,1619,0,0],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a8ec7641bab991fc584b066fae55690bf":[6,0,1619,0,5],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a9058ce72bb956d7e90eff740c0f9633a":[6,0,1619,0,6],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#ae9d2f6b53898db04da58efe0deeceea5":[6,0,1619,0,4]
+"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#ae9d2f6b53898db04da58efe0deeceea5":[6,0,1619,0,4],
+"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#af1aafdc45abcdfbdbea7f5b67f3bc620":[6,0,1619,0,1]
 };

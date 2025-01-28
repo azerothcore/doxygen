@@ -1,5 +1,7 @@
 var NAVTREEINDEX211 =
 {
+"d8/d4b/classObject.html#ad5a622757f2d91f0b3fc41b8af751d6f":[6,0,2274,63],
+"d8/d4b/classObject.html#ad5ba4799de88341246bc5ff7dd4b2d36":[6,0,2274,78],
 "d8/d4b/classObject.html#ad837c14c5766b8c13f4a5ce2532b0657":[6,0,2274,47],
 "d8/d4b/classObject.html#ad951343e568f25e4db54e64d19c964dd":[6,0,2274,86],
 "d8/d4b/classObject.html#ada61cb59931e3c02624a63161997bf20":[6,0,2274,51],
@@ -121,8 +123,8 @@ var NAVTREEINDEX211 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[6,0,1902,0,5],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1902,0,3],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1902,0,6],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,62],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,74],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,62],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,62,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,74,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,74,1],
@@ -189,8 +191,8 @@ var NAVTREEINDEX211 =
 "d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[5,0,1,112,1],
 "d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[6,0,0,100,2],
 "d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[5,0,1,112,2],
-"d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[5,0,1,112,3],
 "d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[6,0,0,100,3],
+"d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[5,0,1,112,3],
 "d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[6,0,0,100,0],
 "d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[5,0,1,112,0],
 "d8/d58/classMapMgr.html":[6,0,1456],
@@ -247,7 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d58/classboss__freya__healthy__spore.html":[6,0,463],
 "d8/d58/classboss__freya__healthy__spore.html#a16633136393061aa98c7a98f535d421e":[6,0,463,1],
 "d8/d58/classboss__freya__healthy__spore.html#ae76eb3b334f82c536f71fdcfc86e4382":[6,0,463,2],
-"d8/d5a/classspell__marrowgar__bone__spike__graveyard.html":[6,0,3365],
-"d8/d5a/classspell__marrowgar__bone__spike__graveyard.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4":[6,0,3365,0],
-"d8/d5a/classspell__marrowgar__bone__spike__graveyard.html#a6ffb6454eb4c58a1b66356814c13b659":[6,0,3365,1]
+"d8/d5a/classspell__marrowgar__bone__spike__graveyard.html":[6,0,3365]
 };

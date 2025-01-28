@@ -1,6 +1,5 @@
 var NAVTREEINDEX351 =
 {
-"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa3d9abd3ac2621e0ae06a7bd64a3698e9":[7,0,0,0,1,2,41,9,64,0],
 "de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa58c3d6ea4ecd2afb029d7c3bb84c00c0":[7,0,0,0,1,2,41,9,64,3],
 "de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa6bb46f994541c2f6951d17cd33ff5ccc":[7,0,0,0,1,2,41,9,64,2],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eb":[7,0,0,0,1,2,41,9,67],
@@ -249,5 +248,6 @@ var NAVTREEINDEX351 =
 "de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,3985,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[6,0,698,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[6,0,698,0,2],
-"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,698,0,0]
+"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,698,0,0],
+"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#ae038aa8140f5b4128c39c592966321f1":[6,0,698,0,1]
 };

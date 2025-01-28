@@ -1,6 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"d5/d67/structboss__eye__of__cthun.html#a701a24f3a06657467b8665d2e4216710":[6,0,438,11],
 "d5/d67/structboss__eye__of__cthun.html#ac71992a2cf223d65c0e06cd8bd440164":[6,0,438,12],
 "d5/d67/structboss__eye__of__cthun.html#ac780d2e04a1fab6bd02db049bc6eaab2":[6,0,438,0],
 "d5/d67/structboss__eye__of__cthun.html#ae83ed5b888df95ad0b854f67192cbd4a":[6,0,438,4],
@@ -39,16 +38,16 @@ var NAVTREEINDEX146 =
 "d5/d68/structboss__gyth_1_1boss__gythAI.html#aa3c86b403af5394a4e4cb30781bcb46b":[6,0,498,0,6],
 "d5/d68/structboss__gyth_1_1boss__gythAI.html#ab9024ce261129c82d4304d2a13834a5f":[6,0,498,0,5],
 "d5/d68/structboss__gyth_1_1boss__gythAI.html#aeec049af24b3a6f94051f1008ce107e6":[6,0,498,0,0],
-"d5/d69/structlfg_1_1LfgQueueData.html":[5,0,19,13],
 "d5/d69/structlfg_1_1LfgQueueData.html":[6,0,5,13],
+"d5/d69/structlfg_1_1LfgQueueData.html":[5,0,19,13],
 "d5/d69/structlfg_1_1LfgQueueData.html#a10fe592a7d0b3fc53701d1946d55f0af":[5,0,19,13,2],
 "d5/d69/structlfg_1_1LfgQueueData.html#a10fe592a7d0b3fc53701d1946d55f0af":[6,0,5,13,2],
 "d5/d69/structlfg_1_1LfgQueueData.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd":[5,0,19,13,0],
 "d5/d69/structlfg_1_1LfgQueueData.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd":[6,0,5,13,0],
 "d5/d69/structlfg_1_1LfgQueueData.html#a20218584ba5c3dbaf9ff7ae520eba9a3":[6,0,5,13,8],
 "d5/d69/structlfg_1_1LfgQueueData.html#a20218584ba5c3dbaf9ff7ae520eba9a3":[5,0,19,13,8],
-"d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2":[5,0,19,13,6],
 "d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2":[6,0,5,13,6],
+"d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2":[5,0,19,13,6],
 "d5/d69/structlfg_1_1LfgQueueData.html#a363aa2cc53bce304893335ca93755103":[6,0,5,13,1],
 "d5/d69/structlfg_1_1LfgQueueData.html#a363aa2cc53bce304893335ca93755103":[5,0,19,13,1],
 "d5/d69/structlfg_1_1LfgQueueData.html#a500f93175d7a25f7c2e0dc0f3943e639":[6,0,5,13,9],
@@ -92,8 +91,8 @@ var NAVTREEINDEX146 =
 "d5/d71/classspell__item__enchanted__broom__periodic.html#a1bd15727da421fdbfc3a60136bfa9bc9":[6,0,3163,0],
 "d5/d71/classspell__item__enchanted__broom__periodic.html#a1c4f592511c8886d0b9a5e64eb19cda7":[6,0,3163,1],
 "d5/d71/classspell__item__enchanted__broom__periodic.html#ac019a52a6f62f1251d20efcfadba1e78":[6,0,3163,2],
-"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[6,0,0,49],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[5,0,1,61],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[6,0,0,49],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[6,0,0,49,0],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[5,0,1,61,0],
 "d5/d73/classspell__mark__of__nature.html":[6,0,3360],
@@ -147,8 +146,8 @@ var NAVTREEINDEX146 =
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[6,0,2383,11],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,31,9,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[6,0,11,9,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,31,9,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[6,0,11,9,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,31,9,3,0],
 "d5/d76/structboss__faction__championsAI.html":[6,0,439],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[6,0,439,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[6,0,439,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX146 =
 "d5/d79/classCreatureAI.html#ab9ec4de552a9f0b08b8494bb782eed58":[6,0,897,29],
 "d5/d79/classCreatureAI.html#abb43fe424c8e27543a935a335c133c86":[6,0,897,44],
 "d5/d79/classCreatureAI.html#abc9bcf212073b9c33f4adcb4265a5a94":[6,0,897,61],
-"d5/d79/classCreatureAI.html#ac43a29ce3cf25c376853a52f3829c0ee":[6,0,897,11]
+"d5/d79/classCreatureAI.html#ac43a29ce3cf25c376853a52f3829c0ee":[6,0,897,11],
+"d5/d79/classCreatureAI.html#ac5f77a4717d02695e089042fa12f5c1e":[6,0,897,41]
 };

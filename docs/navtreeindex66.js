@@ -1,6 +1,5 @@
 var NAVTREEINDEX66 =
 {
-"d2/d73/classScriptMgr.html#a7c2da684439c53f1205b9d39ea6166da":[6,0,2480,415],
 "d2/d73/classScriptMgr.html#a7c7a660a4472761cc7e8ecceaad7c1a8":[6,0,2480,186],
 "d2/d73/classScriptMgr.html#a7d768553d82877bdc746028f1ba4537f":[6,0,2480,420],
 "d2/d73/classScriptMgr.html#a7dc3e627a35d9cfa7b2fdae77244f095":[6,0,2480,166],
@@ -249,5 +248,6 @@ var NAVTREEINDEX66 =
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[6,0,1352,0],
 "d2/d73/structAuctionSearchRemove.html":[6,0,259],
 "d2/d73/structAuctionSearchRemove.html#a5a93de23f32eb653e9df2df3e2d11bcb":[6,0,259,0],
-"d2/d73/structAuctionSearchRemove.html#a6e18c3999d22c1972314b4a20ed8b62f":[6,0,259,1]
+"d2/d73/structAuctionSearchRemove.html#a6e18c3999d22c1972314b4a20ed8b62f":[6,0,259,1],
+"d2/d74/classgo__shadowforge__brazier.html":[6,0,1154]
 };

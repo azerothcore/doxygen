@@ -1,6 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"de/d69/DisableMgr_8cpp.html#a38b182e1836b2197303b2809006f5148":[7,0,0,0,1,2,13,2,3],
 "de/d69/DisableMgr_8cpp.html#a6673bbc719c96febfc86a4220a988ed0":[7,0,0,0,1,2,13,2,1],
 "de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099":[7,0,0,0,1,2,13,2,6],
 "de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1":[7,0,0,0,1,2,13,2,5],
@@ -33,12 +32,12 @@ var NAVTREEINDEX356 =
 "de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,19,19,1],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,19,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,19,19,0],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,19,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[6,0,1690],
 "de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[6,0,1690,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX356 =
 "de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b":[5,0,19,64],
 "de/d72/namespacelfg.html#aeaebe53b818ad905c96d2cc56c18b7ca":[5,0,19,62],
 "de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05":[5,0,19,52],
-"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,19,52,2]
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,19,52,2],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051":[5,0,19,52,1]
 };
