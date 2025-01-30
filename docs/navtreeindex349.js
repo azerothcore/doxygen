@@ -1,5 +1,7 @@
 var NAVTREEINDEX349 =
 {
+"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,26],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,23],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,23,2],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,23,1],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,23,5],
@@ -64,16 +66,16 @@ var NAVTREEINDEX349 =
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,1],
 "de/d24/structWMO_1_1MODD.html":[5,0,30,0],
 "de/d24/structWMO_1_1MODD.html":[6,0,10,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,30,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,30,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,30,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,30,0,1],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,30,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,10,0,4],
-"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,30,0,2],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,10,0,2],
+"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,30,0,2],
 "de/d24/structnpc__demon__chain.html":[6,0,1706],
 "de/d24/structnpc__demon__chain.html#a27007fdff0d685b0a38a0b98820b95fb":[6,0,1706,2],
 "de/d24/structnpc__demon__chain.html#a35d1b7de8612f11cdf61b9d663990686":[6,0,1706,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX349 =
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3168,0],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1964],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1964,2],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1964,1],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2193,0],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2193,0,1]
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1964,1]
 };

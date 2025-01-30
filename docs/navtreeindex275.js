@@ -1,5 +1,7 @@
 var NAVTREEINDEX275 =
 {
+"db/d6e/spell__item_8cpp.html#a84043aa1e52cded1eb8c330267c2f575":[7,0,0,0,1,3,9,4,124],
+"db/d6e/spell__item_8cpp.html#a84043aa1e52cded1eb8c330267c2f575a2e11e8760f909fae3d7f22db6743e5d2":[7,0,0,0,1,3,9,4,124,1],
 "db/d6e/spell__item_8cpp.html#a84043aa1e52cded1eb8c330267c2f575ab0ab0a7df25d64eb9d621eed865a94d1":[7,0,0,0,1,3,9,4,124,0],
 "db/d6e/spell__item_8cpp.html#a852e1657705a20c00b4cb7c8a450c0c1":[7,0,0,0,1,3,9,4,149],
 "db/d6e/spell__item_8cpp.html#a852e1657705a20c00b4cb7c8a450c0c1a176931f334aa33d0f1f13f9443eb3212":[7,0,0,0,1,3,9,4,149,1],
@@ -138,8 +140,8 @@ var NAVTREEINDEX275 =
 "db/d6f/classnpc__mature__netherwing__drake.html":[6,0,1919],
 "db/d6f/classnpc__mature__netherwing__drake.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5":[6,0,1919,1],
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1919,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,117,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,105,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,117,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,105,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,105,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX275 =
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298caa6d46f670c28194b2dbc2cf6bc73b32f":[7,0,0,0,1,3,2,15,5,10,21],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cab1f1f160b65800a76971d5d6dc694c67":[7,0,0,0,1,3,2,15,5,10,11],
 "db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cac02e3225f94948f349bf625488e42d06":[7,0,0,0,1,3,2,15,5,10,15],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cad096a1ca49fd8774fc661db5aee3a0df":[7,0,0,0,1,3,2,15,5,10,26],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,15,5,10,27],
-"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cae3a43c7ffcfa2c72e1723d8086ceb1a7":[7,0,0,0,1,3,2,15,5,10,12]
+"db/d78/boss__zuljin_8cpp.html#a5bd342133be8c2137b831460acc9298cad096a1ca49fd8774fc661db5aee3a0df":[7,0,0,0,1,3,2,15,5,10,26]
 };

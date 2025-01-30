@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#acfa84efc38b994706015e6d82fe1f653":[6,0,1918,0,10],
+"d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#ad50a9852370798817fda318f71f27653":[6,0,1918,0,9],
 "d6/d9a/PetDefines_8h.html":[7,0,0,0,1,2,16,6,2],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7":[7,0,0,0,1,2,16,6,2,9],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a07349db70c3ae7222953ed7d5a4cef6e":[7,0,0,0,1,2,16,6,2,9,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "d6/dab/classAreaTrigger__at__sentry__point.html#ab59fb74f4f988c208359855d2e4d9918":[6,0,171,1],
 "d6/dac/classspell__gruul__shatter.html":[6,0,2986],
 "d6/dac/classspell__gruul__shatter.html#a1176b4e4ad488a3b6b38ff4b8c955d64":[6,0,2986,2],
-"d6/dac/classspell__gruul__shatter.html#a534bf39998813f06c48bc920e4666692":[6,0,2986,0],
-"d6/dac/classspell__gruul__shatter.html#a5892f20a0704596cb70a995a73846368":[6,0,2986,1],
-"d6/dac/classspell__gruul__shatter.html#af618314a13013eaf9f36b30047de0878":[6,0,2986,3]
+"d6/dac/classspell__gruul__shatter.html#a534bf39998813f06c48bc920e4666692":[6,0,2986,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685cee":[7,0,0,0,1,3,5,23,28],
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea0e531d9bf92c9a71c24e097d8f1fd381":[7,0,0,0,1,3,5,23,28,10],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea189032763f0efaa7516effaa4352af54":[7,0,0,0,1,3,5,23,28,7],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea268dd0e7aca5fa4e9ff65f33ab1b9b71":[7,0,0,0,1,3,5,23,28,8],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea83d89284f483b36bed64cd61c597a289":[7,0,0,0,1,3,5,23,28,3],
@@ -170,12 +172,12 @@ var NAVTREEINDEX327 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,610,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,610,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,610,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2125],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2125,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2125,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dd/dc4/classspell__item__spell__reflectors.html#acf737f74e3cb9340f3449b491e923b7f":[6,0,3236,2],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html":[6,0,427,0],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a2986db39b7db92b1fa9d64cef5f8c08b":[6,0,427,0,0],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#a478113af1ce565c729604c6039f55551":[6,0,427,0,8],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#a651b11c4cc5f92881b4dd5b7f22c9d85":[6,0,427,0,6],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#a780aa5bc86c80aaeeffad441b2873121":[6,0,427,0,1]
+"dd/dc4/structboss__epoch_1_1boss__epochAI.html#a478113af1ce565c729604c6039f55551":[6,0,427,0,8]
 };

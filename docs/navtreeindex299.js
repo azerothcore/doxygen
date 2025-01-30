@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a51038fe2b69e5fa3518ac526719344b6":[7,0,0,0,1,3,4,1,0,4,1,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91adf90069f0b0a515897fbdc91e20b4":[7,0,0,0,1,3,4,1,0,4,1,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3f7bd026726a42823812843a495aae95":[7,0,0,0,1,3,4,1,0,4,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,4,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca07e091ecb8a2612b504b5d38e97179cc":[7,0,0,0,1,3,4,1,0,4,2,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1":[6,0,1270,0,6],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a095202af8915f8a1d8888c045e18d6c4":[6,0,1270,0,4],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a775c7d564b931e157a32b0909efed859":[6,0,1270,0,1],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1270,0,2],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1270,0,5],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1270,0,0]
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1270,0,2]
 };

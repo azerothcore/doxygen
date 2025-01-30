@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/dbe/CreatureAISelector_8h.html":[7,0,0,0,1,2,3,10],
+"df/dbe/CreatureAISelector_8h.html#a10fef1ff3335f4642179ee423b1ff0d6":[7,0,0,0,1,2,3,10,0],
 "df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,10,2],
 "df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[7,0,0,0,1,2,3,10,1],
 "df/dbe/HostileRefMgr_8h.html":[7,0,0,0,1,2,12,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/dd3/classEmblemInfo.html#a7a791a3f467e72a3e8e941e3179d7709":[6,0,989,3],
 "df/dd3/classEmblemInfo.html#a8d053ab27856955bf6013ef4c61ed33f":[6,0,989,0],
 "df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[6,0,989,11],
-"df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[6,0,989,7],
-"df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[6,0,989,2],
-"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,989,12]
+"df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[6,0,989,7]
 };

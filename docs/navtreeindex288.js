@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"db/dd5/classCreature.html#ae5ab87b05a210d9f8d6fc3eb00da2143":[6,0,894,243],
+"db/dd5/classCreature.html#ae6e4a2e97d499e7b484ad51295398387":[6,0,894,15],
 "db/dd5/classCreature.html#ae7562299498456dfedc23c0e904a039a":[6,0,894,102],
 "db/dd5/classCreature.html#ae886b44b42ac37c4af92beb6c248d19c":[6,0,894,239],
 "db/dd5/classCreature.html#ae922438d0eb927e4c957aa0b7154c736":[6,0,894,158],
@@ -226,14 +228,14 @@ var NAVTREEINDEX288 =
 "db/ddb/classnpc__blood__queen__lana__thel.html":[6,0,1619],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1619,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1619,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,31,5,48],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,5,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4017],
 "db/ddd/structSpellThreatEntry.html#a0d66e48d986f246e6aea08dd00837158":[6,0,4017,1],
 "db/ddd/structSpellThreatEntry.html#a35f5f8f7a3ac33768299913fecc1cf8d":[6,0,4017,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "db/ddd/structboss__kelidan__the__breaker.html#a6774e4a0315b30266f6c55da608cd193":[6,0,551,0],
 "db/ddd/structboss__kelidan__the__breaker.html#adc84fae23d68c0c75ac21c3f3b32973a":[6,0,551,1],
 "db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html":[6,0,1594,0],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a2e9833d0d25fd8c442f7ab279de6a40a":[6,0,1594,0,2],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b":[6,0,1594,0,3],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a6928428a9dc1ed483a682c8f2a281ebf":[6,0,1594,0,0]
+"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a2e9833d0d25fd8c442f7ab279de6a40a":[6,0,1594,0,2]
 };

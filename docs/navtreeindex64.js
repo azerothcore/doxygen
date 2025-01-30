@@ -1,5 +1,7 @@
 var NAVTREEINDEX64 =
 {
+"d2/d61/classspell__hun__last__stand__pet.html#a393043b94f50d9379a987f9b49b8abde":[6,0,3052,3],
+"d2/d61/classspell__hun__last__stand__pet.html#a84430c269e419acd94a2d0520b9ca639":[6,0,3052,0],
 "d2/d61/classspell__hun__last__stand__pet.html#a8ec4e9cea213739825126111d038d1a5":[6,0,3052,1],
 "d2/d62/AuthCodes_8cpp.html":[7,0,0,0,1,0,0,0,0],
 "d2/d62/AuthCodes_8cpp.html#a50a906b5a3fdca3508aee0997881a717":[7,0,0,0,1,0,0,0,0,0],
@@ -191,12 +193,12 @@ var NAVTREEINDEX64 =
 "d2/d6e/structVMAP_1_1AreaInfo.html":[6,0,9,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,28,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[6,0,9,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[6,0,9,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,28,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,9,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[6,0,9,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,28,1,4],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,9,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,28,1,2],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,9,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,28,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,28,1,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#ab1e344fbf169ee40f28741217f3dca14":[6,0,1310,0,2],
 "d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#ace71fc6f1d7bc4b49bc2a2507f481fc2":[6,0,1310,0,1],
 "d2/d71/classachievement__bg__ic__glaive__grave.html":[6,0,38],
-"d2/d71/classachievement__bg__ic__glaive__grave.html#a0eacab5595969cfe5e3d083c984dfd77":[6,0,38,1],
-"d2/d71/classachievement__bg__ic__glaive__grave.html#a97e1cead0102a120b3bd14592ea26034":[6,0,38,0],
-"d2/d71/classachievement__tilted.html":[6,0,96]
+"d2/d71/classachievement__bg__ic__glaive__grave.html#a0eacab5595969cfe5e3d083c984dfd77":[6,0,38,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX65 =
 {
+"d2/d71/classachievement__bg__ic__glaive__grave.html#a97e1cead0102a120b3bd14592ea26034":[6,0,38,0],
+"d2/d71/classachievement__tilted.html":[6,0,96],
 "d2/d71/classachievement__tilted.html#a61d3eb78450383485699532d96f79d93":[6,0,96,1],
 "d2/d71/classachievement__tilted.html#a868d7b8a437434d6dc34b5000c429e66":[6,0,96,0],
 "d2/d71/classinstance__nexus.html":[6,0,1292],
@@ -247,7 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a79c3551a19d468f0d296bf778df2c380":[6,0,2480,180],
 "d2/d73/classScriptMgr.html#a7a03ca4530b0f7ab2aa2a1af7e7df635":[6,0,2480,275],
 "d2/d73/classScriptMgr.html#a7a309497fb8c09eadc0e400cb120921d":[6,0,2480,159],
-"d2/d73/classScriptMgr.html#a7bc36054d0730af34402c5b8a6a43190":[6,0,2480,84],
-"d2/d73/classScriptMgr.html#a7c0e8f6bb255ca74b999db10bb710bb4":[6,0,2480,49],
-"d2/d73/classScriptMgr.html#a7c2da684439c53f1205b9d39ea6166da":[6,0,2480,415]
+"d2/d73/classScriptMgr.html#a7bc36054d0730af34402c5b8a6a43190":[6,0,2480,84]
 };

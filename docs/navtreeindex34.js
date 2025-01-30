@@ -1,5 +1,9 @@
 var NAVTREEINDEX34 =
 {
+"d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[7,0,0,0,1,2,44,1,3],
+"d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[7,0,0,0,1,2,44,1,6],
+"d1/d63/GameTime_8h.html#a6d0d49f37e25e497391157b2a2ec90c1":[7,0,0,0,1,2,44,1,1],
+"d1/d63/GameTime_8h.html#a872d34d3f9d420cfc749073c809931f9":[7,0,0,0,1,2,44,1,2],
 "d1/d63/GameTime_8h.html#adbe1785d1327dedf2ac403b7cc8e99c2":[7,0,0,0,1,2,44,1,0],
 "d1/d63/GameTime_8h.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[7,0,0,0,1,2,44,1,4],
 "d1/d63/GameTime_8h.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[7,0,0,0,1,2,44,1,5],
@@ -18,8 +22,8 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,74,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,86,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,74,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,86,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,74,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,86,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,86,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,74,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3613],
@@ -245,9 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#a98e2944f3199f4820cd52231880aba3b":[6,0,1278,0,10],
 "d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#a9c82cd25354abaf7707c1dabd62c9fe3":[6,0,1278,0,0],
 "d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#aaa57bfd43cd20fafbd66f6cabbb2128c":[6,0,1278,0,8],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#abe74e5b5247f779d75fb8f6542393b19":[6,0,1278,0,17],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#abf142b92d4db3fefd0088f7473d2c3c7":[6,0,1278,0,22],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#ac5ffe94c706af44c1989359d398c9a74":[6,0,1278,0,2],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#ad6db51b0ae7de338264d07a61daf21cc":[6,0,1278,0,1],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#ade089fe04440ea936550130f7e98ba29":[6,0,1278,0,20]
+"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html#abe74e5b5247f779d75fb8f6542393b19":[6,0,1278,0,17]
 };

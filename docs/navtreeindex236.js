@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a89e7b03ca05bd629c1aee0cb5b612128":[7,0,0,0,1,2,24,3,20,0],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42aa11325a7cb83156f4b8f07049189c2db":[7,0,0,0,1,2,24,3,20,4],
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba":[7,0,0,0,1,2,24,3,20,3],
 "d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
 "d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d90/classspell__item__defibrillate.html#ad871a6bef7ba074f32abe1bf062dffe1":[6,0,3151,4],
 "d9/d90/classspell__razelikh__teleport__group.html":[6,0,3634],
 "d9/d90/classspell__razelikh__teleport__group.html#a1d9cfdc65bd5ae76376e709d0ac891c0":[6,0,3634,2],
-"d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3634,3],
-"d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3634,0],
-"d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3634,1]
+"d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3634,3]
 };

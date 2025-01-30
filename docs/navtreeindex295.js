@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5cdc692e17c3d331f1f1b12c8160408e":[6,0,655,0,8],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6c5b5a7bc419b30a8814ada3f95f0c3a":[6,0,655,0,0],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d":[6,0,655,0,16],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[6,0,655,0,3],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ab49711d40ea8ecbbf3a1fbab96569cc4":[6,0,655,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3581,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3581,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3581,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2]
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24]
 };

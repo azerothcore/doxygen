@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a89131323897170905fdb14093af866ba":[7,0,0,0,1,3,5,19,31,8],
+"dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a8ca55067cf9ed1d0c28e2bb3dd82ff7b":[7,0,0,0,1,3,5,19,31,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82aa7a715042fd825541f28330e0eb75964":[7,0,0,0,1,3,5,19,31,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82ab6e7a3bb5201f4580e1c7a08633ff909":[7,0,0,0,1,3,5,19,31,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82ac8e2c26038cd9c7df7af75f622abbd77":[7,0,0,0,1,3,5,19,31,10],
@@ -155,8 +157,8 @@ var NAVTREEINDEX332 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,13,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,25,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,25,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,13,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,25,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,2982],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[6,0,2982,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[6,0,2982,0],
@@ -206,12 +208,12 @@ var NAVTREEINDEX332 =
 "dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20":[6,0,735,10],
 "dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f":[6,0,735,11],
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[6,0,735,6],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,11,8,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,31,8,2],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,31,8,2,0],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,11,8,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,11,8,2,0],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,31,8,2,2],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,31,8,2,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,11,8,2,2],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,31,8,2,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,31,8,2,1],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,11,8,2,1],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html":[6,0,3115],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dd/df1/structboss__buru.html#a6d8f3265dca889bc49e747471da8597f":[6,0,391,4],
 "dd/df1/structboss__buru.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c":[6,0,391,6],
 "dd/df1/structboss__buru.html#aa395967af50f2a422bf1e81a087efc43":[6,0,391,10],
-"dd/df1/structboss__buru.html#aa534cca1e46299e8db917cc8aa5d5b51":[6,0,391,3],
-"dd/df1/structboss__buru.html#ac3bc641c6bb67e585541c4e5d93dd7fa":[6,0,391,8],
-"dd/df1/structboss__buru.html#af65d0026b2ea78edb6d48e3c48b6b37b":[6,0,391,9]
+"dd/df1/structboss__buru.html#aa534cca1e46299e8db917cc8aa5d5b51":[6,0,391,3]
 };

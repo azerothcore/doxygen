@@ -1,5 +1,9 @@
 var NAVTREEINDEX31 =
 {
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,4,2,0,8],
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ad333a081eae70806d4223e5e28e790":[7,0,0,0,1,3,5,4,2,0,8,4],
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ffd8cc12eee29e4c420d2cc2aee2a65":[7,0,0,0,1,3,5,4,2,0,8,1],
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca626925ba86f88514659778da36ed7122":[7,0,0,0,1,3,5,4,2,0,8,2],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298cacfbb84c268887505646fb54930d478cd":[7,0,0,0,1,3,5,4,2,0,8,0],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298caf55c40c1126f624e66da03e04bedf710":[7,0,0,0,1,3,5,4,2,0,8,3],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a84b5dddbef44e6c43897360580f77274":[7,0,0,0,1,3,5,4,2,0,3],
@@ -17,12 +21,12 @@ var NAVTREEINDEX31 =
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a98efb2a9a68d7878af9d6f9d46db88c9":[6,0,3787,2],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[6,0,0,118],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[5,0,1,130],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a2b017300220426ac42de18e3a8699219":[5,0,1,130,0],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a2b017300220426ac42de18e3a8699219":[6,0,0,118,0],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a2b017300220426ac42de18e3a8699219":[5,0,1,130,0],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[5,0,1,130,1],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[6,0,0,118,1],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[6,0,0,118,3],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[5,0,1,130,3],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[6,0,0,118,3],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[5,0,1,130,2],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[6,0,0,118,2],
 "d1/d43/structboss__commander__sarannis.html":[6,0,395],
@@ -122,10 +126,10 @@ var NAVTREEINDEX31 =
 "d1/d48/classSFMTRand.html#ace8e8802bdb710f3354d3ff7d619497c":[6,0,2500,8],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[5,0,31,10,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[6,0,11,10,0],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[5,0,31,10,0,3],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[6,0,11,10,0,3],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[6,0,11,10,0,0],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[5,0,31,10,0,3],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[5,0,31,10,0,0],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[6,0,11,10,0,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[5,0,31,10,0,4],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[6,0,11,10,0,4],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[6,0,11,10,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX31 =
 "d1/d4f/classQuest.html#a1ad088d9ac7b9893b71753657cac6aa3":[6,0,2416,163],
 "d1/d4f/classQuest.html#a1b2f2d40bd0793f17df715facc803811":[6,0,2416,135],
 "d1/d4f/classQuest.html#a1c6aee64c4ebe888060dfc4a3b0ae974":[6,0,2416,30],
-"d1/d4f/classQuest.html#a1f3dfbddd6a434059255220b0ea3feaa":[6,0,2416,35],
-"d1/d4f/classQuest.html#a21539315997cd0002075b8fa22f2414a":[6,0,2416,130],
-"d1/d4f/classQuest.html#a223366694ecec2c03363642eeb85f54a":[6,0,2416,129],
-"d1/d4f/classQuest.html#a24413850c04e8559fc97cc6242c29e80":[6,0,2416,171],
-"d1/d4f/classQuest.html#a26795fa9c5daf20043c08171c75672c9":[6,0,2416,138]
+"d1/d4f/classQuest.html#a1f3dfbddd6a434059255220b0ea3feaa":[6,0,2416,35]
 };

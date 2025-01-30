@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#a8fd3c7073a250d054e3edc73d5867fbd":[6,0,725,0,7],
+"d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#ab30d73613bafac5b92021677d69b3aae":[6,0,725,0,4],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#ade272764f09375d8e5fda937d42aad90":[6,0,725,0,6],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#ae9354f2e97c88cd1af86fae050e810d6":[6,0,725,0,1],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#af63f344d3a5650baaa9b96204abc39a9":[6,0,725,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d98/classnpc__zulian__prowler.html":[6,0,2263],
 "d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[6,0,2263,1],
 "d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[6,0,2263,2],
-"d2/d98/structboss__kiljaeden.html":[6,0,556],
-"d2/d98/structboss__kiljaeden.html#a220cf460466c44a82ce3933d2c5f27f8":[6,0,556,10],
-"d2/d98/structboss__kiljaeden.html#a345f52703c9d72be2a67ff46ac1a0472":[6,0,556,12]
+"d2/d98/structboss__kiljaeden.html":[6,0,556]
 };

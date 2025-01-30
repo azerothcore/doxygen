@@ -1,5 +1,7 @@
 var NAVTREEINDEX176 =
 {
+"d6/dac/classspell__gruul__shatter.html#a5892f20a0704596cb70a995a73846368":[6,0,2986,1],
+"d6/dac/classspell__gruul__shatter.html#af618314a13013eaf9f36b30047de0878":[6,0,2986,3],
 "d6/dac/structM2SplineKey.html":[6,0,1432],
 "d6/dac/structM2SplineKey.html#a40d46738768d6c2037e5978ce32a9fb8":[6,0,1432,2],
 "d6/dac/structM2SplineKey.html#a8c5a9c6371f264469203575be48684fa":[6,0,1432,1],
@@ -12,8 +14,8 @@ var NAVTREEINDEX176 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2240,0,1],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2240,0,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2240,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
@@ -109,8 +111,8 @@ var NAVTREEINDEX176 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX176 =
 "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html#ac6fa83aa5673bd6c90e128f06e56049e":[6,0,2162,0,1],
 "d6/dbe/classnpc__clintar__spirit.html":[6,0,1655],
 "d6/dbe/classnpc__clintar__spirit.html#a118198504f6f93c86302275a11582d60":[6,0,1655,2],
-"d6/dbe/classnpc__clintar__spirit.html#a416f5eea882f2c13c4c0f7dd81d36a2b":[6,0,1655,1],
-"d6/dbf/classTaskScheduler_1_1Task.html":[6,0,4051,1],
-"d6/dbf/classTaskScheduler_1_1Task.html#a09a7b8fbb3878aef1cc5f76367e4d43b":[6,0,4051,1,13]
+"d6/dbe/classnpc__clintar__spirit.html#a416f5eea882f2c13c4c0f7dd81d36a2b":[6,0,1655,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX271 =
 {
+"db/d32/classspell__ioc__gunship__portal.html#a7cf32445caa09f2a2b3c52f68f315ba5":[6,0,3132,4],
+"db/d32/classspell__ioc__gunship__portal.html#ad41decc0a264104ca2232aef4e71cdaf":[6,0,3132,2],
 "db/d32/classspell__ioc__gunship__portal.html#ae0d16607f9eb3ff233513233bfb573ea":[6,0,3132,0],
 "db/d32/classspell__item__flask__of__the__north.html":[6,0,3172],
 "db/d32/classspell__item__flask__of__the__north.html#a18a648ebf1dbc9a11d09e457a33d0e33":[6,0,3172,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX271 =
 "db/d48/structboss__gathios__the__shatterer.html#a34708f52c610e567c5acf62962e90d4e":[6,0,477,0],
 "db/d48/structboss__gathios__the__shatterer.html#a3d33c1a29b7ba2feb22ea9d3941b39ed":[6,0,477,2],
 "db/d48/structboss__gathios__the__shatterer.html#a52e9b7d3b1af46d3ecb6ca9432ee3957":[6,0,477,5],
-"db/d48/structboss__gathios__the__shatterer.html#a98ad625cf2ac9b1d8d9b41001ba4fb34":[6,0,477,1],
-"db/d48/structboss__gathios__the__shatterer.html#aa983e2d9018a9e53ee29840781f47c33":[6,0,477,4],
-"db/d48/structboss__gathios__the__shatterer.html#ad7e6f9e03968e2abac570d0c7a5de9e2":[6,0,477,6]
+"db/d48/structboss__gathios__the__shatterer.html#a98ad625cf2ac9b1d8d9b41001ba4fb34":[6,0,477,1]
 };

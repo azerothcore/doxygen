@@ -1,5 +1,7 @@
 var NAVTREEINDEX199 =
 {
+"d7/db0/classMap.html#a9c20f696cb8109183fbd81b13848b050":[6,0,1446,73],
+"d7/db0/classMap.html#aa1d73675f684b9d9fc97546dbab73572":[6,0,1446,170],
 "d7/db0/classMap.html#aa1dddc6cf8d835c384f24136890a5e14":[6,0,1446,40],
 "d7/db0/classMap.html#aa2e9f4255501666b3a8a081d0f09766c":[6,0,1446,10],
 "d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f":[6,0,1446,244],
@@ -247,7 +249,5 @@ var NAVTREEINDEX199 =
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a33ef03a9f005ff187493275a9c2683a7":[6,0,1779,0,4],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a45588181429a74ac024e0390c76fa57a":[6,0,1779,0,3],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a49ff3db7845167b9e98feab2a01b1ed1":[6,0,1779,0,2],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a4a841c7d2565f4797bc893a9c1ee7acd":[6,0,1779,0,5],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a8b9b632e2e26ef8d0e8c122d28530e81":[6,0,1779,0,0],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#abc0dd71bbaf85786f34367acc3a849e9":[6,0,1779,0,1]
+"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a4a841c7d2565f4797bc893a9c1ee7acd":[6,0,1779,0,5]
 };

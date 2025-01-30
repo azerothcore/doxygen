@@ -1,5 +1,7 @@
 var NAVTREEINDEX379 =
 {
+"df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,282,4],
+"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,282,2],
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,282,3],
 "df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,282,0],
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,282,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX379 =
 "df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857":[7,0,0,0,1,2,26,3,41,4],
 "df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825":[7,0,0,0,1,2,26,3,41,0],
 "df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01":[7,0,0,0,1,2,26,3,41,3],
-"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71":[7,0,0,0,1,2,26,3,41,1],
-"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50":[7,0,0,0,1,2,26,3,41,2],
-"df/d79/Map_8h.html#a29bbacae053e66ee8b7fa97db3cbd127":[7,0,0,0,1,2,26,3,16]
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71":[7,0,0,0,1,2,26,3,41,1]
 };

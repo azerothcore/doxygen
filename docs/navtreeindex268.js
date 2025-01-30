@@ -1,5 +1,7 @@
 var NAVTREEINDEX268 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5d":[7,0,0,0,1,3,5,4,0,1,7],
+"db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da1cbca2e8e25eb4e6c422a1a08ff872bf":[7,0,0,0,1,3,5,4,0,1,7,4],
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da279474d5b8e7a2c4c44aee34e0f8eddb":[7,0,0,0,1,3,5,4,0,1,7,8],
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da37b7695030ef8ce337f5aea38b3c92ef":[7,0,0,0,1,3,5,4,0,1,7,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da50c25068d3490fb2b31176c6be60f61c":[7,0,0,0,1,3,5,4,0,1,7,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX268 =
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a2cf09a0ea3428cd7f49e00b0ab629c3e":[6,0,591,0,16],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a49ed1d7da066305a46ab99fbd897572a":[6,0,591,0,10],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a51bea2ba94084c0ea6a8da98f08e02ce":[6,0,591,0,8],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a55c13b164aa2d0bc2bd4a18f3043fca2":[6,0,591,0,0],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a7cc99275d0b798a56aeb189f364669e9":[6,0,591,0,2],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a8db4401bfec6986abe2490e1bb05b9ee":[6,0,591,0,5]
+"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a55c13b164aa2d0bc2bd4a18f3043fca2":[6,0,591,0,0]
 };

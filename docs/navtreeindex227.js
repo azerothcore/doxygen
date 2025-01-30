@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8aae4256f2bfdff01c65679967af6c791c":[7,0,0,0,1,3,7,1,2,23,10],
+"d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8ad4647c9c0207607e71d9ac0f2f698c04":[7,0,0,0,1,3,7,1,2,23,9],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8ad62564fdf9f3fe67ddf084de6e425bba":[7,0,0,0,1,3,7,1,2,23,6],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8ad8bd36e48a98e5a70e74e5d251f2b4d9":[7,0,0,0,1,3,7,1,2,23,3],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8ae6166ec5824e9f9f7476e22eae81c76c":[7,0,0,0,1,3,7,1,2,23,5],
@@ -110,8 +112,8 @@ var NAVTREEINDEX227 =
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[6,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[6,0,0,4,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,1,7,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[6,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,1,7,0,1,1],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[6,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,1,7,0,1,3],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[6,0,0,4,0,1,3],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[6,0,0,1,6],
@@ -181,16 +183,16 @@ var NAVTREEINDEX227 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,31,7,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,31,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[6,0,11,7,2,3],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,31,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,31,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,31,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,31,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,31,7,2,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,31,7,2,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[6,0,11,7,2,1],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,31,7,2,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[6,0,2559],
 "d9/d13/classspell__anubisath__mortal__strike.html#a3c5a192302ec6d531037f8b5da1565f2":[6,0,2559,2],
 "d9/d13/classspell__anubisath__mortal__strike.html#a5945e24db52c6bacae7221b085dc877b":[6,0,2559,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "d9/d17/PetAI_8cpp.html":[7,0,0,0,1,2,3,0,8],
 "d9/d17/classboss__general__angerforge.html":[6,0,479],
 "d9/d17/classboss__general__angerforge.html#a00c94097831dc52d31505f312a04f562":[6,0,479,1],
-"d9/d17/classboss__general__angerforge.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae":[6,0,479,2],
-"d9/d17/classnpc__firework.html":[6,0,1748],
-"d9/d17/classnpc__firework.html#a9732f7b6eb8b3638bb6280ff7a71bcf7":[6,0,1748,2]
+"d9/d17/classboss__general__angerforge.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae":[6,0,479,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d9/d17/classnpc__firework.html":[6,0,1748],
+"d9/d17/classnpc__firework.html#a9732f7b6eb8b3638bb6280ff7a71bcf7":[6,0,1748,2],
 "d9/d17/classnpc__firework.html#a9efb6ed098e4eb3e24c30393cb5cb45d":[6,0,1748,1],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3827],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,3827,3],
@@ -159,10 +161,10 @@ var NAVTREEINDEX228 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3178,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3178,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3178,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a1eb5d931c7c520b7cd6f516bfcb819e4":[6,0,32,0],
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a905b9a4389521fde6d26d3c19a0fe21c":[6,0,32,1],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2009],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2009,2],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2009,1],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3410]
+"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2009,2]
 };

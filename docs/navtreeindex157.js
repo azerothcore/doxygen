@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/dea/classspell__gen__proc__reduced__above__60.html#a861caa47c502c42fa84d9f9de74df024":[6,0,2938,1],
+"d5/dea/classspell__gen__proc__reduced__above__60.html#ab4275de186b6841a1f424863cb6c128c":[6,0,2938,2],
 "d5/dea/structFireworkShow.html":[6,0,1023],
 "d5/dea/structFireworkShow.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f":[6,0,1023,3],
 "d5/dea/structFireworkShow.html#a8c55bbd253d6bea01e83c0aa7380dee5":[6,0,1023,0],
@@ -95,8 +97,8 @@ var NAVTREEINDEX157 =
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,31,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,11,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,31,5,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,31,5,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,955],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[6,0,955,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[6,0,955,9],
@@ -237,8 +239,8 @@ var NAVTREEINDEX157 =
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[6,0,0,4,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[6,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[5,0,1,7,0,0,0],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[6,0,0,4,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[5,0,1,7,0,0,1],
+"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[6,0,0,4,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[5,0,1,7,0,0,2],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[6,0,0,4,0,0,2],
 "d5/df2/boss__fathomlord__karathress_8cpp.html":[7,0,0,0,1,3,7,2,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782fafade62fe4f24a4588a2fc5066d962d0f1b":[7,0,0,0,1,3,7,2,0,0,8,0],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782fafafff7f62af5d0e093a92a638fab4baf8e":[7,0,0,0,1,3,7,2,0,0,8,1],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,2,0,0,7],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa9711d2373aa61900647e6ea55cad9e4":[7,0,0,0,1,3,7,2,0,0,7,1],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8d35951eed2c9e47bed2aa4da3fab8b":[7,0,0,0,1,3,7,2,0,0,7,0],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,0,9]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa9711d2373aa61900647e6ea55cad9e4":[7,0,0,0,1,3,7,2,0,0,7,1]
 };

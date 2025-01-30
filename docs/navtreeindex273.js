@@ -1,5 +1,7 @@
 var NAVTREEINDEX273 =
 {
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b":[7,0,0,0,1,3,9,1,37,2],
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32":[7,0,0,0,1,3,9,1,37,7],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3":[7,0,0,0,1,3,9,1,37,20],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19":[7,0,0,0,1,3,9,1,37,10],
 "db/d55/structBattlegroundICScore.html":[6,0,310],
@@ -140,8 +142,8 @@ var NAVTREEINDEX273 =
 "db/d60/classboss__palehoof.html":[6,0,635],
 "db/d60/classboss__palehoof.html#ac0e541befaad7e1e6e318d64ca4a1d94":[6,0,635,1],
 "db/d60/classboss__palehoof.html#ae33ca6e71b251214be50168a5940d058":[6,0,635,2],
-"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[5,0,1,81],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[6,0,0,69],
+"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[5,0,1,81],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#a0a932cd193e847ee0cfddae0946e39d1":[6,0,0,69,8],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#a0a932cd193e847ee0cfddae0946e39d1":[5,0,1,81,8],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#a0fc7e00f191801869c3fd8eeae032af8":[6,0,0,69,6],
@@ -156,8 +158,8 @@ var NAVTREEINDEX273 =
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#a4e1642660288eeb46867d4e19944cc78":[5,0,1,81,0],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#aced79e7b19918408fa4d81667fbeb7f0":[6,0,0,69,1],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#aced79e7b19918408fa4d81667fbeb7f0":[5,0,1,81,1],
-"db/d61/structAcore_1_1MessageDistDelivererToHostile.html#ae10ac98c489ec48ed49daf835e7a361d":[5,0,1,81,7],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#ae10ac98c489ec48ed49daf835e7a361d":[6,0,0,69,7],
+"db/d61/structAcore_1_1MessageDistDelivererToHostile.html#ae10ac98c489ec48ed49daf835e7a361d":[5,0,1,81,7],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#ae2a44055a4363eeff81a799b8a93d74d":[5,0,1,81,5],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#ae2a44055a4363eeff81a799b8a93d74d":[6,0,0,69,5],
 "db/d61/structAcore_1_1MessageDistDelivererToHostile.html#af9c5269b0266e9e28a70118e62d25e58":[5,0,1,81,2],
@@ -205,10 +207,10 @@ var NAVTREEINDEX273 =
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,7],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[5,0,1,8,5,0],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
 "db/d64/structnpc__capernian.html":[6,0,1641],
 "db/d64/structnpc__capernian.html#a0acb568664c777797eeb7104f454699d":[6,0,1641,0],
 "db/d64/structnpc__capernian.html#a6bd26f5584a1c960b84b574abd723ad1":[6,0,1641,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX273 =
 "db/d67/classspell__gen__defend.html#aed4bb9ec815ac4e22b952a64c8bd3b51":[6,0,2881,4],
 "db/d67/classspell__gen__defend.html#aeefbbdd391c347b350ec7738b9825f8c":[6,0,2881,1],
 "db/d67/love__in__air_8cpp.html":[7,0,0,0,1,3,3,5],
-"db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390":[7,0,0,0,1,3,3,5,8],
-"db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390a00b4fa551ce3ec4ab9f5129c963372a8":[7,0,0,0,1,3,3,5,8,0],
-"db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390a3220e4e00221ab3d31933abb9148c5b8":[7,0,0,0,1,3,3,5,8,2]
+"db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390":[7,0,0,0,1,3,3,5,8]
 };

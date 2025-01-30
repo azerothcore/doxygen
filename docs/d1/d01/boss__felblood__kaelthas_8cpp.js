@@ -32,7 +32,11 @@ var boss__felblood__kaelthas_8cpp =
       [ "SPELL_GRAVITY_LAPSE_FLY", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca5422b4212e2a0ab69c592323e025fc98", null ],
       [ "SPELL_GRAVITY_LAPSE_DOT", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca17d90504d3877f232a0428961b74466e", null ],
       [ "SPELL_GRAVITY_LAPSE_CHANNEL", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca4cbec25ae17837af1d9f2064dd9e8272", null ],
-      [ "SPELL_POWER_FEEDBACK", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca171416d5fbbf35458549b7adeed9e3fd", null ]
+      [ "SPELL_POWER_FEEDBACK", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca171416d5fbbf35458549b7adeed9e3fd", null ],
+      [ "SPELL_CLEAR_FLIGHT", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298caaaf08cac3f2f4ff2df8f387bbc7ad1c1", null ],
+      [ "SPELL_EMOTE_EXCLAMATION", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cadeed243516bb8d30f9b0b71671272c17", null ],
+      [ "SPELL_EMOTE_POINT", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca607d8f3cfeeee1be37a26adebe39a6bc", null ],
+      [ "SPELL_EMOTE_ROAR", "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca29f0beb64a861e624228fa86853a3627", null ]
     ] ],
     [ "AddSC_boss_felblood_kaelthas", "d1/d01/boss__felblood__kaelthas_8cpp.html#ad6c5f805d876c924d7e5030eb2124183", null ]
 ];

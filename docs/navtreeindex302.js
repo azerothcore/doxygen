@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"dc/d66/classWMOGroup.html#ae185ea49affd80b22e7fb1825ce01031":[6,0,4191,21],
+"dc/d66/classWMOGroup.html#ae263e796a667e2876c174b971c635d0d":[6,0,4191,14],
 "dc/d66/classWMOGroup.html#ae4430cee0de8719128a77abf1d5f97ba":[6,0,4191,2],
 "dc/d66/classWMOGroup.html#af4a4ce4598527e13f15c452a8105acf1":[6,0,4191,28],
 "dc/d66/classWMOGroup.html#af7c65f3e297f0884de3aab0a86a84e3d":[6,0,4191,24],
@@ -30,16 +32,16 @@ var NAVTREEINDEX302 =
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#a0767ac60151517b803e871a0fcb25967":[6,0,2749,1],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#ac0b2cf06027c2f658745d6a90dfc76a1":[6,0,2749,0],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#afd1e28b224035aef5ac109f38d7e118d":[6,0,2749,2],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html":[6,0,11,13],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,31,13],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html":[6,0,11,13],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[6,0,11,13,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,31,13,3],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,11,13,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,31,13,1],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,31,13,0],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,11,13,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,11,13,0],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,11,13,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,31,13,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,31,13,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,11,13,2],
 "dc/d6d/classgo__crystalline__tear.html":[6,0,1110],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1110,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1110,0],
@@ -81,8 +83,8 @@ var NAVTREEINDEX302 =
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,1,27,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,15,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,15,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
 "dc/d70/boss__grobbulus_8cpp.html":[7,0,0,0,1,3,5,7,5],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,5,6],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,6,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ad34d850e1f11da93dc461995d9f00115":[6,0,1663,0,6],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ae66ac194b89e761808cd3e226fc7e495":[6,0,1663,0,4],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aec678cda5d636e66907593d8b3f952f4":[6,0,1663,0,3],
-"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#af2a8c43537cac96be12e6dc8d7874cec":[6,0,1663,0,0],
-"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#af52e16097889f80d02ab2362f5578257":[6,0,1663,0,5],
-"dc/d7b/classnpc__leryssa.html":[6,0,1891]
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#af2a8c43537cac96be12e6dc8d7874cec":[6,0,1663,0,0]
 };

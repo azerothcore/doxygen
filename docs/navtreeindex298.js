@@ -1,11 +1,13 @@
 var NAVTREEINDEX298 =
 {
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac4271ed0434fc8e7f7a70e8869d81a0e":[5,0,22,9,4],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac4271ed0434fc8e7f7a70e8869d81a0e":[6,0,7,9,4],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac8c84e828c23801a68524c9811f0336b":[5,0,22,9,10],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac8c84e828c23801a68524c9811f0336b":[6,0,7,9,10],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2":[6,0,7,9,5],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2":[5,0,22,9,5],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[5,0,22,9,12],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2":[6,0,7,9,5],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[6,0,7,9,12],
+"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[5,0,22,9,12],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[5,0,22,9,13],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[6,0,7,9,13],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[5,0,22,9,11],
@@ -214,8 +216,8 @@ var NAVTREEINDEX298 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,17],
 "dc/d33/HomeMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,21],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,33],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,21],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,21,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,33,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,21,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[6,0,4052,3],
 "dc/d34/boss__rage__winterchill_8cpp.html":[7,0,0,0,1,3,4,1,0,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1],
-"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[7,0,0,0,1,3,4,1,0,4,1,0],
-"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a51038fe2b69e5fa3518ac526719344b6":[7,0,0,0,1,3,4,1,0,4,1,1],
-"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91adf90069f0b0a515897fbdc91e20b4":[7,0,0,0,1,3,4,1,0,4,1,2]
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[7,0,0,0,1,3,4,1,0,4,1,0]
 };

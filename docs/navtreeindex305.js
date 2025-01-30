@@ -1,5 +1,7 @@
 var NAVTREEINDEX305 =
 {
+"dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[6,0,365,1],
+"dc/d99/VMapFactory_8cpp.html":[7,0,0,0,0,1,0,6],
 "dc/d99/VMapFactory_8cpp.html#a3fb33e0008bbbabc087f99a45e512784":[7,0,0,0,0,1,0,6,0],
 "dc/d9a/classspell__hatch__eggs.html":[6,0,3019],
 "dc/d9a/classspell__hatch__eggs.html#a77ba184428cfbb8ec3cc4670f78741e0":[6,0,3019,1],
@@ -245,9 +247,7 @@ var NAVTREEINDEX305 =
 "dc/daa/classNullGameObjectAI.html#a01b2b14306c75fafe58295a30e5d01e0":[6,0,2273,2],
 "dc/daa/classNullGameObjectAI.html#a54f6ae6e03fbe423d895ec306fe091db":[6,0,2273,0],
 "dc/daa/classNullGameObjectAI.html#a850b58bfcc5e613f31fc95e556ed7f91":[6,0,2273,1],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,11,6,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,31,6,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,31,6,0,4],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[6,0,11,6,0,4],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,31,6,0,3]
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,11,6,0],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,31,6,0,4]
 };

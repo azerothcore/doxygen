@@ -22,7 +22,7 @@ var searchData=
   ['zombiepos_19',['zombiePos',['../df/d30/boss__gluth_8cpp.html#a32d0413d6bdf48dc1dabfe0de4df5dc9',1,'boss_gluth.cpp']]],
   ['zone_20',['zone',['../de/df5/structAreaTableEntry.html#a3b4f9e187629db5ced9a06c601fc7f78',1,'AreaTableEntry']]],
   ['zone_5fupdate_5finterval_21',['ZONE_UPDATE_INTERVAL',['../da/d64/PlayerUpdates_8cpp.html#afabbcd46bf6f03c5dca10b117810b710',1,'PlayerUpdates.cpp']]],
-  ['zoneid_22',['zoneid',['../d9/d28/structAreaPOIEntry.html#a0cc33089981237694ca550cba6793a3e',1,'AreaPOIEntry::zoneId'],['../d4/dd9/structAchievementCriteriaEntry.html#a4dc8098b49090f775161b15bd7db1f85',1,'AchievementCriteriaEntry::zoneID'],['../d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71',1,'WorldPackets::WorldState::InitWorldStates::ZoneID']]],
+  ['zoneid_22',['zoneid',['../d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71',1,'WorldPackets::WorldState::InitWorldStates::ZoneID'],['../d4/dd9/structAchievementCriteriaEntry.html#a4dc8098b49090f775161b15bd7db1f85',1,'AchievementCriteriaEntry::zoneID'],['../d9/d28/structAreaPOIEntry.html#a0cc33089981237694ca550cba6793a3e',1,'AreaPOIEntry::zoneId']]],
   ['zoneorsort_23',['ZoneOrSort',['../d1/d4f/classQuest.html#a24413850c04e8559fc97cc6242c29e80',1,'Quest']]],
   ['zpos_24',['zpos',['../de/dc1/classadt__MCNK.html#a3da25e5f560ee821026232fbaf52ba14',1,'adt_MCNK']]],
   ['zspeed_25',['zspeed',['../d3/d77/structMovementInfo_1_1JumpInfo.html#ad0a5a36aeabc9b8d8ea27cecae30ae31',1,'MovementInfo::JumpInfo']]],

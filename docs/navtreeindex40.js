@@ -1,5 +1,9 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fa6d6cfbdb0875d4dd77872dddb41e4608":[7,0,0,0,1,2,16,10,5,41,21],
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fa8200fcaa4607c184b12d61cbbb001767":[7,0,0,0,1,2,16,10,5,41,2],
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fa832531ac5d4a382e49391f88cd399ca4":[7,0,0,0,1,2,16,10,5,41,1],
+"d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64faa802d0dafa7983a85583662f59eba430":[7,0,0,0,1,2,16,10,5,41,17],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabc080bbc3c53cdae00ae44e46179d2f1":[7,0,0,0,1,2,16,10,5,41,4],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fabe35819c1f26bc8a11889d5f6efe026c":[7,0,0,0,1,2,16,10,5,41,20],
 "d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64fac3d309e81b26ab610ed447863d403617":[7,0,0,0,1,2,16,10,5,41,19],
@@ -245,9 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db9/boss__solakar__flamewreath_8cpp.html#ae181e2ae0973235f04c9e6f93971805f":[7,0,0,0,1,3,2,1,1,11,8],
 "d1/db9/classnpc__boss__gothik__minion.html":[6,0,1624],
 "d1/db9/classnpc__boss__gothik__minion.html#a6cabeae812639ac179133245d85a0e15":[6,0,1624,1],
-"d1/db9/classnpc__boss__gothik__minion.html#a8abb1ec265f9eeb646a858bee06cfb92":[6,0,1624,2],
-"d1/db9/classnpc__cult__fanatic.html":[6,0,1686],
-"d1/db9/classnpc__cult__fanatic.html#ae4d22bac12d17d79669d3fccd4029952":[6,0,1686,2],
-"d1/db9/classnpc__cult__fanatic.html#af29ab8f7628b96b0f192bccab74ca02e":[6,0,1686,1],
-"d1/db9/structPeriodicTimer.html":[6,0,2345]
+"d1/db9/classnpc__boss__gothik__minion.html#a8abb1ec265f9eeb646a858bee06cfb92":[6,0,1624,2]
 };

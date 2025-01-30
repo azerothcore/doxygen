@@ -1,5 +1,7 @@
 var NAVTREEINDEX307 =
 {
+"dc/db4/classboss__fjola.html":[6,0,451],
+"dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[6,0,451,1],
 "dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[6,0,451,2],
 "dc/db4/structboss__gruul.html":[6,0,496],
 "dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,496,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dc7/structQuaternion.html#a2676f1a5ec3a2f69ebb953e4b5741c4b":[6,0,2413,1],
 "dc/dc7/structQuaternion.html#a533b5e90b6333d89190828f28721e61d":[6,0,2413,3],
 "dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[6,0,2413,2],
-"dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[6,0,2413,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html":[6,0,1966],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[6,0,1966,0]
+"dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[6,0,2413,0]
 };

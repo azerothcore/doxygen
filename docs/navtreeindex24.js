@@ -1,5 +1,9 @@
 var NAVTREEINDEX24 =
 {
+"d1/d06/classinstance__violet__hold.html":[6,0,1328],
+"d1/d06/classinstance__violet__hold.html#ae66f018196cd90683506c3cc3d8c5d7a":[6,0,1328,1],
+"d1/d06/classinstance__violet__hold.html#aeedcbb24b0709bd172ebbbc6d9851532":[6,0,1328,2],
+"d1/d07/structboss__mennu__the__betrayer.html":[6,0,601],
 "d1/d07/structboss__mennu__the__betrayer.html#a1a55fb7f1dacc5e514e71901d66bd35e":[6,0,601,4],
 "d1/d07/structboss__mennu__the__betrayer.html#a3f881a89d1da70d066ce9a3fe0b29a3e":[6,0,601,0],
 "d1/d07/structboss__mennu__the__betrayer.html#a535b9af1677b8af50515818a18e88d27":[6,0,601,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a39bddfec4b1d97d380972515a7d26314":[6,0,2538,284],
 "d1/d16/classSpell.html#a3a0cf9d43912ab1fddb649fb081f18ff":[6,0,2538,233],
 "d1/d16/classSpell.html#a3a75cd3b7e1fb468c176e68fc7da279a":[6,0,2538,316],
-"d1/d16/classSpell.html#a3bcd543c6837bec119c5a2f7cb20cecf":[6,0,2538,350],
-"d1/d16/classSpell.html#a3e3fb4e343ab4c2a49bb03ba1b24d0dc":[6,0,2538,172],
-"d1/d16/classSpell.html#a3fe7f6de1726199e719707ba24277a12":[6,0,2538,94],
-"d1/d16/classSpell.html#a409f590382608165345bf27072dc198a":[6,0,2538,228],
-"d1/d16/classSpell.html#a40cf3f45ca20af682b62b73c84aac8ee":[6,0,2538,90]
+"d1/d16/classSpell.html#a3bcd543c6837bec119c5a2f7cb20cecf":[6,0,2538,350]
 };

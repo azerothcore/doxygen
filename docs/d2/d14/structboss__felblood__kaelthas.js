@@ -8,7 +8,5 @@ var structboss__felblood__kaelthas =
     [ "JustEngagedWith", "d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218", null ],
     [ "LapseAction", "d2/d14/structboss__felblood__kaelthas.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
     [ "Reset", "d2/d14/structboss__felblood__kaelthas.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "UpdateAI", "d2/d14/structboss__felblood__kaelthas.html#a60975291b4d7a28fdd1d4cb585ae85e6", null ],
-    [ "_gravityLapseCounter", "d2/d14/structboss__felblood__kaelthas.html#ab4e884a341fa25a555c160f6978861fc", null ],
-    [ "_OOCScheduler", "d2/d14/structboss__felblood__kaelthas.html#ac45d2a34d909521dce4a9ec883acc8b0", null ]
+    [ "_gravityLapseCounter", "d2/d14/structboss__felblood__kaelthas.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

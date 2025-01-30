@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5":[7,0,0,0,1,2,8,0,19,11,8],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701ac2d12e7289110383ac3b8d0a769d1977":[7,0,0,0,1,2,8,0,19,11,12],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701ac56f4ba86ad45e41e623e0ba08c2efa3":[7,0,0,0,1,2,8,0,19,11,5],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701ad2acd915b36102027c638ad6aa22bbdd":[7,0,0,0,1,2,8,0,19,11,19],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701adcf0075eae66e8b2ceedd205472072a5":[7,0,0,0,1,2,8,0,19,11,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a2011c247d2157f5f2a06db6e149743e0":[6,0,1961,0,0],
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a501d0bdb9d77be1229dadf60d5f8af8c":[6,0,1961,0,1],
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a6b6b127db878ca3b79ac8d7aeff4156e":[6,0,1961,0,2],
-"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a99a08390fcf2b0a058aee161932392d0":[6,0,1961,0,3],
-"d8/dee/classboss__taerar.html":[6,0,702],
-"d8/dee/classboss__taerar.html#a100c1b80a50faf93088db870faa21b58":[6,0,702,1]
+"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a99a08390fcf2b0a058aee161932392d0":[6,0,1961,0,3]
 };

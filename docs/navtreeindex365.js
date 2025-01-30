@@ -1,5 +1,7 @@
 var NAVTREEINDEX365 =
 {
+"de/db3/structSpellShapeshiftFormEntry.html#a08f54b905e905fb5a59e449f8c613c08":[6,0,4013,6],
+"de/db3/structSpellShapeshiftFormEntry.html#a1ee597d6fd02507b682874929645e01d":[6,0,4013,5],
 "de/db3/structSpellShapeshiftFormEntry.html#a3dff9074b85261932ed8a8a550c5395b":[6,0,4013,1],
 "de/db3/structSpellShapeshiftFormEntry.html#a72853ed36016e05e4cd14a9d89e9d6a8":[6,0,4013,3],
 "de/db3/structSpellShapeshiftFormEntry.html#a86dfa61342583d920b7d8496bce4b49d":[6,0,4013,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[6,0,3766,4],
 "de/dc3/classspell__systems__shutdown__aura.html#a5aec8606684637bbdb1e819254f5d483":[6,0,3766,0],
 "de/dc3/classspell__systems__shutdown__aura.html#adcc21606209dc2f32c1173c7ab4c5579":[6,0,3766,2],
-"de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[6,0,3766,1],
-"de/dc3/classspell__systems__shutdown__aura.html#af1db6ca387cf0733ba4b9c324172d692":[6,0,3766,3],
-"de/dc3/structTrainerSpellData.html":[6,0,4080]
+"de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[6,0,3766,1]
 };
