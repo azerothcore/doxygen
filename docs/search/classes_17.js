@@ -80,10 +80,11 @@ var searchData=
   ['worldsocketmgr_77',['WorldSocketMgr',['../d5/d92/classWorldSocketMgr.html',1,'']]],
   ['worldsocketthread_78',['WorldSocketThread',['../db/d07/classWorldSocketThread.html',1,'']]],
   ['worldstate_79',['WorldState',['../d3/da9/classWorldState.html',1,'']]],
-  ['worldstateinfo_80',['WorldStateInfo',['../df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html',1,'WorldPackets::WorldState::InitWorldStates']]],
-  ['worldupdatetime_81',['WorldUpdateTime',['../de/dad/classWorldUpdateTime.html',1,'']]],
-  ['worldworldtextbuilder_82',['WorldWorldTextBuilder',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html',1,'Acore']]],
-  ['wp_5fcommandscript_83',['wp_commandscript',['../d5/d0e/classwp__commandscript.html',1,'']]],
-  ['wretchedghoulcleaner_84',['WretchedGhoulCleaner',['../de/dbb/classWretchedGhoulCleaner.html',1,'']]],
-  ['wtail_85',['WTail',['../d6/def/structAcore_1_1ChatCommands_1_1WTail.html',1,'Acore::ChatCommands']]]
+  ['worldstate_5fcommandscript_80',['worldstate_commandscript',['../d9/dab/classworldstate__commandscript.html',1,'']]],
+  ['worldstateinfo_81',['WorldStateInfo',['../df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html',1,'WorldPackets::WorldState::InitWorldStates']]],
+  ['worldupdatetime_82',['WorldUpdateTime',['../de/dad/classWorldUpdateTime.html',1,'']]],
+  ['worldworldtextbuilder_83',['WorldWorldTextBuilder',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html',1,'Acore']]],
+  ['wp_5fcommandscript_84',['wp_commandscript',['../d5/d0e/classwp__commandscript.html',1,'']]],
+  ['wretchedghoulcleaner_85',['WretchedGhoulCleaner',['../de/dbb/classWretchedGhoulCleaner.html',1,'']]],
+  ['wtail_86',['WTail',['../d6/def/structAcore_1_1ChatCommands_1_1WTail.html',1,'Acore::ChatCommands']]]
 ];

@@ -46,5 +46,6 @@ var cs__script__loader_8cpp =
     [ "AddSC_tele_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a75673ffc02c68c43cefd69bb0648dd53", null ],
     [ "AddSC_ticket_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ad71463f4442d2e022a92404a4d9dec76", null ],
     [ "AddSC_titles_commandscript", "d5/d1c/cs__script__loader_8cpp.html#abd13948cbed6e10bdbf797847a0f6839", null ],
+    [ "AddSC_worldstate_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a2ff66ad19f50180b9878cf95696fd09b", null ],
     [ "AddSC_wp_commandscript", "d5/d1c/cs__script__loader_8cpp.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

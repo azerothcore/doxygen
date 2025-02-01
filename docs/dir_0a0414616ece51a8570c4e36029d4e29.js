@@ -17,6 +17,7 @@ var dir_0a0414616ece51a8570c4e36029d4e29 =
     [ "npcs_special.cpp", "db/dae/npcs__special_8cpp.html", "db/dae/npcs__special_8cpp" ],
     [ "player_scripts.cpp", "d3/d3c/player__scripts_8cpp.html", "d3/d3c/player__scripts_8cpp" ],
     [ "server_mail.cpp", "d0/d45/server__mail_8cpp.html", "d0/d45/server__mail_8cpp" ],
+    [ "suns_reach_reclamation.cpp", "d3/d91/suns__reach__reclamation_8cpp.html", "d3/d91/suns__reach__reclamation_8cpp" ],
     [ "transport_zeppelin.h", "df/d7d/transport__zeppelin_8h.html", "df/d7d/transport__zeppelin_8h" ],
     [ "transport_zeppelins.cpp", "de/df5/transport__zeppelins_8cpp.html", "de/df5/transport__zeppelins_8cpp" ],
     [ "world_script_loader.cpp", "dc/d3a/world__script__loader_8cpp.html", "dc/d3a/world__script__loader_8cpp" ]

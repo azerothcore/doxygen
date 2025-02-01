@@ -1584,7 +1584,7 @@ var searchData=
   ['standupevent_1581',['StandUpEvent',['../dc/d3a/classStandUpEvent.html',1,'']]],
   ['startmirrortimer_1582',['StartMirrorTimer',['../dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html',1,'WorldPackets::Misc']]],
   ['startmovementevent_1583',['StartMovementEvent',['../d2/d73/classStartMovementEvent.html',1,'']]],
-  ['staticdata_1584',['staticdata',['../d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html',1,'SpellImplicitTargetInfo::StaticData'],['../d6/d2d/structSpellEffectInfo_1_1StaticData.html',1,'SpellEffectInfo::StaticData']]],
+  ['staticdata_1584',['staticdata',['../d6/d2d/structSpellEffectInfo_1_1StaticData.html',1,'SpellEffectInfo::StaticData'],['../d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html',1,'SpellImplicitTargetInfo::StaticData']]],
   ['staticmaptree_1585',['StaticMapTree',['../d9/d67/classVMAP_1_1StaticMapTree.html',1,'VMAP']]],
   ['statictransport_1586',['StaticTransport',['../d8/d57/classStaticTransport.html',1,'']]],
   ['stonegriptargetselector_1587',['StoneGripTargetSelector',['../da/d63/classStoneGripTargetSelector.html',1,'']]],
@@ -1604,7 +1604,8 @@ var searchData=
   ['suckbackevent_1601',['SuckBackEvent',['../d2/d4b/classSuckBackEvent.html',1,'']]],
   ['summonlist_1602',['SummonList',['../d6/df5/classSummonList.html',1,'']]],
   ['summonpropertiesentry_1603',['SummonPropertiesEntry',['../d0/df2/structSummonPropertiesEntry.html',1,'']]],
-  ['symboldetail_1604',['SymbolDetail',['../d0/da3/structSymbolDetail.html',1,'']]],
-  ['symbolpair_1605',['SymbolPair',['../d2/d66/structSymbolPair.html',1,'']]],
-  ['systemmgr_1606',['SystemMgr',['../d8/db3/classSystemMgr.html',1,'']]]
+  ['sunsreachreclamationdata_1604',['SunsReachReclamationData',['../d3/db1/structSunsReachReclamationData.html',1,'']]],
+  ['symboldetail_1605',['SymbolDetail',['../d0/da3/structSymbolDetail.html',1,'']]],
+  ['symbolpair_1606',['SymbolPair',['../d2/d66/structSymbolPair.html',1,'']]],
+  ['systemmgr_1607',['SystemMgr',['../d8/db3/classSystemMgr.html',1,'']]]
 ];

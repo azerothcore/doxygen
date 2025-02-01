@@ -247,7 +247,7 @@ var NAVTREEINDEX47 =
 "d1/de9/classnpc__captain__saeed.html#a8a5bee9f908b10451b8d4720dff85670":[6,0,1646,1],
 "d1/de9/classnpc__captain__saeed.html#a8ace4d924b6f33312d914fb6ce1e0ea6":[6,0,1646,4],
 "d1/de9/classnpc__captain__saeed.html#aa6a232f6c2dd39483273cac41af9a7d7":[6,0,1646,2],
-"d1/de9/classspell__garfrost__permafrost.html":[6,0,2836],
-"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[6,0,2836,1],
-"d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[6,0,2836,5]
+"d1/de9/classspell__garfrost__permafrost.html":[6,0,2839],
+"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[6,0,2839,1],
+"d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[6,0,2839,5]
 };

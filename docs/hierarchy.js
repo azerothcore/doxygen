@@ -3294,6 +3294,7 @@ var hierarchy =
         [ "tele_commandscript", "df/d75/classtele__commandscript.html", null ],
         [ "ticket_commandscript", "da/d49/classticket__commandscript.html", null ],
         [ "titles_commandscript", "d9/dd2/classtitles__commandscript.html", null ],
+        [ "worldstate_commandscript", "d9/dab/classworldstate__commandscript.html", null ],
         [ "wp_commandscript", "d5/d0e/classwp__commandscript.html", null ]
       ] ],
       [ "ConditionScript", "de/dee/classConditionScript.html", null ],
@@ -3957,6 +3958,8 @@ var hierarchy =
         [ "npc_storm_cloud", "da/da9/classnpc__storm__cloud.html", null ],
         [ "npc_stormforged_lieutenant", "d4/d02/classnpc__stormforged__lieutenant.html", null ],
         [ "npc_strangulate_vehicle", "d4/d85/classnpc__strangulate__vehicle.html", null ],
+        [ "npc_suns_reach_reclamation", "d7/df9/classnpc__suns__reach__reclamation.html", null ],
+        [ "npc_sunwell_gate", "d8/d25/classnpc__sunwell__gate.html", null ],
         [ "npc_suppresser", "d4/d3d/classnpc__suppresser.html", null ],
         [ "npc_swarm_scarab", "d9/dcc/classnpc__swarm__scarab.html", null ],
         [ "npc_tallhorn_stag", "d4/d8d/classnpc__tallhorn__stag.html", null ],
@@ -4455,6 +4458,7 @@ var hierarchy =
     [ "StringTransaction", "da/d95/classStringTransaction.html", null ],
     [ "SummonList", "d6/df5/classSummonList.html", null ],
     [ "SummonPropertiesEntry", "d0/df2/structSummonPropertiesEntry.html", null ],
+    [ "SunsReachReclamationData", "d3/db1/structSunsReachReclamationData.html", null ],
     [ "SYMBOL_INFO_PACKAGE", null, [
       [ "CSymbolInfoPackage", "d7/d4c/structCSymbolInfoPackage.html", null ]
     ] ],
@@ -5589,6 +5593,7 @@ var hierarchy =
           [ "npc_plucky::npc_pluckyAI", "d1/d11/structnpc__plucky_1_1npc__pluckyAI.html", null ],
           [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html", null ],
           [ "npc_precious_icc::npc_precious_iccAI", "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html", null ],
+          [ "npc_pure_energy", "d4/d1f/structnpc__pure__energy.html", null ],
           [ "npc_putricide_oozeAI", "d9/d9f/classnpc__putricide__oozeAI.html", [
             [ "npc_gas_cloud::npc_gas_cloudAI", "d4/db1/structnpc__gas__cloud_1_1npc__gas__cloudAI.html", null ],
             [ "npc_volatile_ooze::npc_volatile_oozeAI", "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html", null ]

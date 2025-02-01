@@ -54,8 +54,11 @@ var searchData=
   ['zoneid_5fhellfire_5fcitadel_51',['ZONEID_HELLFIRE_CITADEL',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab978fffc00c9d4a7284fe22aa3891158',1,'WorldState.h']]],
   ['zoneid_5fhellfire_5fpeninsula_52',['ZONEID_HELLFIRE_PENINSULA',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada4e9c94b3e7923f0c38a58de29b1a0b26',1,'WorldState.h']]],
   ['zoneid_5fhellfire_5framparts_53',['ZONEID_HELLFIRE_RAMPARTS',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada33650e228e22c29316b54577070e7c9f',1,'WorldState.h']]],
-  ['zoneid_5fmagtheridon_5flair_54',['ZONEID_MAGTHERIDON_LAIR',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada5262fcfc9a86c14b3f0bdb672e73fc19',1,'WorldState.h']]],
-  ['zoneid_5fmechanar_55',['ZONEID_MECHANAR',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab7c50fd72d746d6cd4c512c503677de7',1,'WorldState.h']]],
-  ['zoneid_5fshattered_5fhalls_56',['ZONEID_SHATTERED_HALLS',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada9b930d2c1fc821a6829d2ed0490dd3c8',1,'WorldState.h']]],
-  ['zoneid_5fshattrath_57',['ZONEID_SHATTRATH',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada01e9f07a5ed524b5d62ee36a3fbc66b8',1,'WorldState.h']]]
+  ['zoneid_5fisle_5fof_5fquel_5fdanas_54',['ZONEID_ISLE_OF_QUEL_DANAS',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab0f57f0cd727527ae2740910621a686b',1,'WorldState.h']]],
+  ['zoneid_5fmagisters_5fterrace_55',['ZONEID_MAGISTERS_TERRACE',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adaf56c1ebbcf2c442b80c7e719d0f8e893',1,'WorldState.h']]],
+  ['zoneid_5fmagtheridon_5flair_56',['ZONEID_MAGTHERIDON_LAIR',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada5262fcfc9a86c14b3f0bdb672e73fc19',1,'WorldState.h']]],
+  ['zoneid_5fmechanar_57',['ZONEID_MECHANAR',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab7c50fd72d746d6cd4c512c503677de7',1,'WorldState.h']]],
+  ['zoneid_5fshattered_5fhalls_58',['ZONEID_SHATTERED_HALLS',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada9b930d2c1fc821a6829d2ed0490dd3c8',1,'WorldState.h']]],
+  ['zoneid_5fshattrath_59',['ZONEID_SHATTRATH',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada01e9f07a5ed524b5d62ee36a3fbc66b8',1,'WorldState.h']]],
+  ['zoneid_5fsunwell_5fplateau_60',['ZONEID_SUNWELL_PLATEAU',['../d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adac5a0c2e4bcc1f61eff160099fde2a98b',1,'WorldState.h']]]
 ];

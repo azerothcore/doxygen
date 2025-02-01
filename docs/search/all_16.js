@@ -235,7 +235,7 @@ var searchData=
   ['vic_5fsay_5f4_232',['VIC_SAY_4',['../d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52dad7c4ea2b5c2035181a28d0e3d5e4b6b0',1,'zone_sholazar_basin.cpp']]],
   ['vic_5fsay_5f5_233',['VIC_SAY_5',['../d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da4330f3fdcd0deec342bcdd9760a24fc4',1,'zone_sholazar_basin.cpp']]],
   ['vic_5fsay_5f6_234',['VIC_SAY_6',['../d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da16d118efcca2482dbf317b80034053c1',1,'zone_sholazar_basin.cpp']]],
-  ['victim_235',['victim',['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim'],['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim']]],
+  ['victim_235',['victim',['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim'],['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim']]],
   ['victimguid_236',['victimGUID',['../d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92',1,'boss_maexxna_webwrap::boss_maexxna_webwrapAI']]],
   ['victimpos_237',['victimPos',['../d7/d2c/structnpc__taldaram__flamesphere.html#ae681d84f2324faf22296dcb6e08484b0',1,'npc_taldaram_flamesphere']]],
   ['victimsperepos_238',['victimSperePos',['../df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc',1,'boss_taldaram']]],
