@@ -129,7 +129,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8fb0fc85204ea32cc000a2d711f1245b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ee1c5bebc234010f60f79618b541613" id="r_a0ee1c5bebc234010f60f79618b541613"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#a0ee1c5bebc234010f60f79618b541613">SetFriendNote</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> friendGuid, std::string note)</td></tr>
 <tr class="separator:a0ee1c5bebc234010f60f79618b541613"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa31ca078f363c5d5f6cfabcc4126fa9b" id="r_aa31ca078f363c5d5f6cfabcc4126fa9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#aa31ca078f363c5d5f6cfabcc4126fa9b">SendSocialList</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>)</td></tr>
+<tr class="memitem:aa31ca078f363c5d5f6cfabcc4126fa9b" id="r_aa31ca078f363c5d5f6cfabcc4126fa9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#aa31ca078f363c5d5f6cfabcc4126fa9b">SendSocialList</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)</td></tr>
 <tr class="separator:aa31ca078f363c5d5f6cfabcc4126fa9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a85c9c9320e8fa0c673e75d11d7e7b91c" id="r_a85c9c9320e8fa0c673e75d11d7e7b91c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#a85c9c9320e8fa0c673e75d11d7e7b91c">HasFriend</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> friend_guid) const</td></tr>
 <tr class="separator:a85c9c9320e8fa0c673e75d11d7e7b91c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -149,7 +149,7 @@ Private Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a56e7be93e0ed5e55e21c2b827e73f16b" id="r_a56e7be93e0ed5e55e21c2b827e73f16b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#a56e7be93e0ed5e55e21c2b827e73f16b">_checkContact</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid, <a class="el" href="../../dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> <a class="el" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>) const</td></tr>
+<tr class="memitem:a56e7be93e0ed5e55e21c2b827e73f16b" id="r_a56e7be93e0ed5e55e21c2b827e73f16b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d56/classPlayerSocial.html#a56e7be93e0ed5e55e21c2b827e73f16b">_checkContact</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid, <a class="el" href="../../dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> flags) const</td></tr>
 <tr class="separator:a56e7be93e0ed5e55e21c2b827e73f16b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -245,14 +245,13 @@ Friends</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  180</span>{</div>
 <div class="line"><span class="lineno">  181</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(guid);</div>
 <div class="line"><span class="lineno">  182</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())</div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">return</span> (itr-&gt;second.Flags &amp; <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>) != 0;</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">return</span> (itr-&gt;second.Flags &amp; flags) != 0;</div>
 <div class="line"><span class="lineno">  184</span> </div>
 <div class="line"><span class="lineno">  185</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  186</span>}</div>
-<div class="ttc" id="aDisableMgr_8cpp_html_acd8859336a5cb8a70051c97a438726a1"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a></div><div class="ttdeci">uint8 flags</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:37</div></div>
 <div class="ttc" id="aclassPlayerSocial_html_a608444605a276e67a868b7ceac94a954"><div class="ttname"><a href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">PlayerSocial::m_playerSocialMap</a></div><div class="ttdeci">PlayerSocialMap m_playerSocialMap</div><div class="ttdef"><b>Definition</b> SocialMgr.h:121</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">flags</a>, and <a class="el" href="../../#l00121">m_playerSocialMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00121">m_playerSocialMap</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00188">HasFriend()</a>, and <a class="el" href="../../#l00193">HasIgnore()</a>.</p>
 
@@ -541,7 +540,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  131</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> totalCount = 0;</div>
 <div class="line"><span class="lineno">  132</span> </div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9bae7783eee2f9846fcf6fdceca15ef238c">SMSG_CONTACT_LIST</a>, (4 + 4 + <a class="code hl_variable" href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.size() * 25)); <span class="comment">// just can guess size</span></div>
-<div class="line"><span class="lineno">  134</span>    data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>);                                                        <span class="comment">// 0x1 = Friendlist update. 0x2 = Ignorelist update. 0x4 = Mutelist update.</span></div>
+<div class="line"><span class="lineno">  134</span>    data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(flags);                                                        <span class="comment">// 0x1 = Friendlist update. 0x2 = Ignorelist update. 0x4 = Mutelist update.</span></div>
 <div class="line"><span class="lineno">  135</span>    std::size_t countPos = data.wpos();</div>
 <div class="line"><span class="lineno">  136</span>    data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);                                                           <span class="comment">// contacts count placeholder</span></div>
 <div class="line"><span class="lineno">  137</span> </div>
@@ -549,7 +548,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  139</span>    {</div>
 <div class="line"><span class="lineno">  140</span>        <a class="code hl_struct" href="../../d7/d8c/structFriendInfo.html">FriendInfo</a>&amp; friendInfo = itr.second;</div>
 <div class="line"><span class="lineno">  141</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> contactFlags = friendInfo.<a class="code hl_variable" href="../../d7/d8c/structFriendInfo.html#ab74652d747c8baa8df7fdbcfd5c68636">Flags</a>;</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (!(contactFlags &amp; <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>))</div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (!(contactFlags &amp; flags))</div>
 <div class="line"><span class="lineno">  143</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  144</span> </div>
 <div class="line"><span class="lineno">  145</span>        <span class="comment">// Check client limit for friends list</span></div>
@@ -600,7 +599,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="astructFriendInfo_html_ab74652d747c8baa8df7fdbcfd5c68636"><div class="ttname"><a href="../../d7/d8c/structFriendInfo.html#ab74652d747c8baa8df7fdbcfd5c68636">FriendInfo::Flags</a></div><div class="ttdeci">uint8 Flags</div><div class="ttdef"><b>Definition</b> SocialMgr.h:50</div></div>
 <div class="ttc" id="astructFriendInfo_html_adf16884b55545ed9302dbb54d653867b"><div class="ttname"><a href="../../d7/d8c/structFriendInfo.html#adf16884b55545ed9302dbb54d653867b">FriendInfo::Area</a></div><div class="ttdeci">uint32 Area</div><div class="ttdef"><b>Definition</b> SocialMgr.h:51</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00037">flags</a>, <a class="el" href="../../#l00050">FriendInfo::Flags</a>, <a class="el" href="../../#l02001">Player::GetSession()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00225">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00133">SMSG_CONTACT_LIST</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, <a class="el" href="../../#l00040">SOCIAL_FLAG_IGNORED</a>, <a class="el" href="../../#l00097">SOCIALMGR_FRIEND_LIMIT</a>, <a class="el" href="../../#l00098">SOCIALMGR_IGNORE_LIMIT</a>, <a class="el" href="../../#l00147">sSocialMgr</a>, <a class="el" href="../../#l00049">FriendInfo::Status</a>, and <a class="el" href="../../#l00330">ByteBuffer::wpos()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00050">FriendInfo::Flags</a>, <a class="el" href="../../#l02001">Player::GetSession()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00225">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00133">SMSG_CONTACT_LIST</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, <a class="el" href="../../#l00040">SOCIAL_FLAG_IGNORED</a>, <a class="el" href="../../#l00097">SOCIALMGR_FRIEND_LIMIT</a>, <a class="el" href="../../#l00098">SOCIALMGR_IGNORE_LIMIT</a>, <a class="el" href="../../#l00147">sSocialMgr</a>, <a class="el" href="../../#l00049">FriendInfo::Status</a>, and <a class="el" href="../../#l00330">ByteBuffer::wpos()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00029">WorldSession::HandleContactListOpcode()</a>, and <a class="el" href="../../#l11612">Player::SendInitialPacketsBeforeAddToMap()</a>.</p>
 
@@ -771,7 +770,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d56/classPlayerSocial.html">PlayerSocial</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:18:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

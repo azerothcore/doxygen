@@ -62,7 +62,7 @@ var classIWorld =
     [ "SendGlobalMessage", "d5/d4d/classIWorld.html#adfd537fb103bfcddfb70634e1a857d95", null ],
     [ "SendServerMessage", "d5/d4d/classIWorld.html#a6e58c19e6099153aeaf1d51c71884364", null ],
     [ "SendZoneMessage", "d5/d4d/classIWorld.html#af290e3107f9d82afdb60fa909f4fac05", null ],
-    [ "SendZoneText", "d5/d4d/classIWorld.html#a5f9c0c13044a0028b4b184d7ab8c22fc", null ],
+    [ "SendZoneText", "d5/d4d/classIWorld.html#a939c3e4d8927f5290f7e6845377fa376", null ],
     [ "SetAllowMovement", "d5/d4d/classIWorld.html#af3c670ab13a39d235ffe81a06c07d0c4", null ],
     [ "setBoolConfig", "d5/d4d/classIWorld.html#a1f3ee80bf4d0f4348228a08e48106270", null ],
     [ "SetCleaningFlags", "d5/d4d/classIWorld.html#ac01563d75973481b056130b07a6d44ac", null ],

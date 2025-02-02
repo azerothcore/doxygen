@@ -499,39 +499,39 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  768</span>                iv.polyMesh-&gt;flags[i] = iv.polyMesh-&gt;areas[i];</div>
 <div class="line"><span class="lineno">  769</span> </div>
 <div class="line"><span class="lineno">  770</span>        <span class="comment">// setup mesh parameters</span></div>
-<div class="line"><span class="lineno">  771</span>        dtNavMeshCreateParams <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>;</div>
-<div class="line"><span class="lineno">  772</span>        memset(&amp;<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>));</div>
-<div class="line"><span class="lineno">  773</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.verts = iv.polyMesh-&gt;verts;</div>
-<div class="line"><span class="lineno">  774</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.vertCount = iv.polyMesh-&gt;nverts;</div>
-<div class="line"><span class="lineno">  775</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polys = iv.polyMesh-&gt;polys;</div>
-<div class="line"><span class="lineno">  776</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polyAreas = iv.polyMesh-&gt;areas;</div>
-<div class="line"><span class="lineno">  777</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polyFlags = iv.polyMesh-&gt;flags;</div>
-<div class="line"><span class="lineno">  778</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polyCount = iv.polyMesh-&gt;npolys;</div>
-<div class="line"><span class="lineno">  779</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.nvp = iv.polyMesh-&gt;nvp;</div>
-<div class="line"><span class="lineno">  780</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailMeshes = iv.polyMeshDetail-&gt;meshes;</div>
-<div class="line"><span class="lineno">  781</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailVerts = iv.polyMeshDetail-&gt;verts;</div>
-<div class="line"><span class="lineno">  782</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailVertsCount = iv.polyMeshDetail-&gt;nverts;</div>
-<div class="line"><span class="lineno">  783</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailTris = iv.polyMeshDetail-&gt;tris;</div>
-<div class="line"><span class="lineno">  784</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailTriCount = iv.polyMeshDetail-&gt;ntris;</div>
+<div class="line"><span class="lineno">  771</span>        dtNavMeshCreateParams params;</div>
+<div class="line"><span class="lineno">  772</span>        memset(&amp;params, 0, <span class="keyword">sizeof</span>(params));</div>
+<div class="line"><span class="lineno">  773</span>        params.verts = iv.polyMesh-&gt;verts;</div>
+<div class="line"><span class="lineno">  774</span>        params.vertCount = iv.polyMesh-&gt;nverts;</div>
+<div class="line"><span class="lineno">  775</span>        params.polys = iv.polyMesh-&gt;polys;</div>
+<div class="line"><span class="lineno">  776</span>        params.polyAreas = iv.polyMesh-&gt;areas;</div>
+<div class="line"><span class="lineno">  777</span>        params.polyFlags = iv.polyMesh-&gt;flags;</div>
+<div class="line"><span class="lineno">  778</span>        params.polyCount = iv.polyMesh-&gt;npolys;</div>
+<div class="line"><span class="lineno">  779</span>        params.nvp = iv.polyMesh-&gt;nvp;</div>
+<div class="line"><span class="lineno">  780</span>        params.detailMeshes = iv.polyMeshDetail-&gt;meshes;</div>
+<div class="line"><span class="lineno">  781</span>        params.detailVerts = iv.polyMeshDetail-&gt;verts;</div>
+<div class="line"><span class="lineno">  782</span>        params.detailVertsCount = iv.polyMeshDetail-&gt;nverts;</div>
+<div class="line"><span class="lineno">  783</span>        params.detailTris = iv.polyMeshDetail-&gt;tris;</div>
+<div class="line"><span class="lineno">  784</span>        params.detailTriCount = iv.polyMeshDetail-&gt;ntris;</div>
 <div class="line"><span class="lineno">  785</span> </div>
-<div class="line"><span class="lineno">  786</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConVerts = meshData.offMeshConnections.getCArray();</div>
-<div class="line"><span class="lineno">  787</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConCount = meshData.offMeshConnections.size() / 6;</div>
-<div class="line"><span class="lineno">  788</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConRad = meshData.offMeshConnectionRads.getCArray();</div>
-<div class="line"><span class="lineno">  789</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConDir = meshData.offMeshConnectionDirs.getCArray();</div>
-<div class="line"><span class="lineno">  790</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConAreas = meshData.offMeshConnectionsAreas.getCArray();</div>
-<div class="line"><span class="lineno">  791</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.offMeshConFlags = meshData.offMeshConnectionsFlags.getCArray();</div>
+<div class="line"><span class="lineno">  786</span>        params.offMeshConVerts = meshData.offMeshConnections.getCArray();</div>
+<div class="line"><span class="lineno">  787</span>        params.offMeshConCount = meshData.offMeshConnections.size() / 6;</div>
+<div class="line"><span class="lineno">  788</span>        params.offMeshConRad = meshData.offMeshConnectionRads.getCArray();</div>
+<div class="line"><span class="lineno">  789</span>        params.offMeshConDir = meshData.offMeshConnectionDirs.getCArray();</div>
+<div class="line"><span class="lineno">  790</span>        params.offMeshConAreas = meshData.offMeshConnectionsAreas.getCArray();</div>
+<div class="line"><span class="lineno">  791</span>        params.offMeshConFlags = meshData.offMeshConnectionsFlags.getCArray();</div>
 <div class="line"><span class="lineno">  792</span> </div>
-<div class="line"><span class="lineno">  793</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.walkableHeight = BASE_UNIT_DIM * config.walkableHeight;  <span class="comment">// agent height</span></div>
-<div class="line"><span class="lineno">  794</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.walkableRadius = BASE_UNIT_DIM * config.walkableRadius;  <span class="comment">// agent radius</span></div>
-<div class="line"><span class="lineno">  795</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.walkableClimb = BASE_UNIT_DIM * config.walkableClimb;    <span class="comment">// keep less that walkableHeight (aka agent height)!</span></div>
-<div class="line"><span class="lineno">  796</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.tileX = (((bmin[0] + bmax[0]) / 2) - navMesh-&gt;getParams()-&gt;orig[0]) / <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c">GRID_SIZE</a>;</div>
-<div class="line"><span class="lineno">  797</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.tileY = (((bmin[2] + bmax[2]) / 2) - navMesh-&gt;getParams()-&gt;orig[2]) / <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c">GRID_SIZE</a>;</div>
-<div class="line"><span class="lineno">  798</span>        rcVcopy(<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.bmin, bmin);</div>
-<div class="line"><span class="lineno">  799</span>        rcVcopy(<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.bmax, bmax);</div>
-<div class="line"><span class="lineno">  800</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.cs = config.cs;</div>
-<div class="line"><span class="lineno">  801</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.ch = config.ch;</div>
-<div class="line"><span class="lineno">  802</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.tileLayer = 0;</div>
-<div class="line"><span class="lineno">  803</span>        <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.buildBvTree = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  793</span>        params.walkableHeight = BASE_UNIT_DIM * config.walkableHeight;  <span class="comment">// agent height</span></div>
+<div class="line"><span class="lineno">  794</span>        params.walkableRadius = BASE_UNIT_DIM * config.walkableRadius;  <span class="comment">// agent radius</span></div>
+<div class="line"><span class="lineno">  795</span>        params.walkableClimb = BASE_UNIT_DIM * config.walkableClimb;    <span class="comment">// keep less that walkableHeight (aka agent height)!</span></div>
+<div class="line"><span class="lineno">  796</span>        params.tileX = (((bmin[0] + bmax[0]) / 2) - navMesh-&gt;getParams()-&gt;orig[0]) / <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c">GRID_SIZE</a>;</div>
+<div class="line"><span class="lineno">  797</span>        params.tileY = (((bmin[2] + bmax[2]) / 2) - navMesh-&gt;getParams()-&gt;orig[2]) / <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c">GRID_SIZE</a>;</div>
+<div class="line"><span class="lineno">  798</span>        rcVcopy(params.bmin, bmin);</div>
+<div class="line"><span class="lineno">  799</span>        rcVcopy(params.bmax, bmax);</div>
+<div class="line"><span class="lineno">  800</span>        params.cs = config.cs;</div>
+<div class="line"><span class="lineno">  801</span>        params.ch = config.ch;</div>
+<div class="line"><span class="lineno">  802</span>        params.tileLayer = 0;</div>
+<div class="line"><span class="lineno">  803</span>        params.buildBvTree = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  804</span> </div>
 <div class="line"><span class="lineno">  805</span>        <span class="comment">// will hold final navmesh</span></div>
 <div class="line"><span class="lineno">  806</span>        <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>* navData = <span class="keyword">nullptr</span>;</div>
@@ -541,17 +541,17 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  810</span>        {</div>
 <div class="line"><span class="lineno">  811</span>            <span class="comment">// these values are checked within dtCreateNavMeshData - handle them here</span></div>
 <div class="line"><span class="lineno">  812</span>            <span class="comment">// so we have a clear error message</span></div>
-<div class="line"><span class="lineno">  813</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.nvp &gt; DT_VERTS_PER_POLYGON)</div>
+<div class="line"><span class="lineno">  813</span>            <span class="keywordflow">if</span> (params.nvp &gt; DT_VERTS_PER_POLYGON)</div>
 <div class="line"><span class="lineno">  814</span>            {</div>
 <div class="line"><span class="lineno">  815</span>                printf(<span class="stringliteral">&quot;%s Invalid verts-per-polygon value!        \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  816</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  817</span>            }</div>
-<div class="line"><span class="lineno">  818</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.vertCount &gt;= 0xffff)</div>
+<div class="line"><span class="lineno">  818</span>            <span class="keywordflow">if</span> (params.vertCount &gt;= 0xffff)</div>
 <div class="line"><span class="lineno">  819</span>            {</div>
 <div class="line"><span class="lineno">  820</span>                printf(<span class="stringliteral">&quot;%s Too many vertices!                      \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  821</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  822</span>            }</div>
-<div class="line"><span class="lineno">  823</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.vertCount || !<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.verts)</div>
+<div class="line"><span class="lineno">  823</span>            <span class="keywordflow">if</span> (!params.vertCount || !params.verts)</div>
 <div class="line"><span class="lineno">  824</span>            {</div>
 <div class="line"><span class="lineno">  825</span>                <span class="comment">// occurs mostly when adjacent tiles have models</span></div>
 <div class="line"><span class="lineno">  826</span>                <span class="comment">// loaded but those models don&#39;t span into this tile</span></div>
@@ -560,21 +560,21 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  829</span>                printf(<span class="stringliteral">&quot;%sNo vertices to build tile!              \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  830</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  831</span>            }</div>
-<div class="line"><span class="lineno">  832</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polyCount || !<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.polys)</div>
+<div class="line"><span class="lineno">  832</span>            <span class="keywordflow">if</span> (!params.polyCount || !params.polys)</div>
 <div class="line"><span class="lineno">  833</span>            {</div>
 <div class="line"><span class="lineno">  834</span>                <span class="comment">// we have flat tiles with no actual geometry - don&#39;t build those, its useless</span></div>
 <div class="line"><span class="lineno">  835</span>                <span class="comment">// keep in mind that we do output those into debug info</span></div>
 <div class="line"><span class="lineno">  836</span>                printf(<span class="stringliteral">&quot;%s No polygons to build on tile!              \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  837</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  838</span>            }</div>
-<div class="line"><span class="lineno">  839</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailMeshes || !<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailVerts || !<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>.detailTris)</div>
+<div class="line"><span class="lineno">  839</span>            <span class="keywordflow">if</span> (!params.detailMeshes || !params.detailVerts || !params.detailTris)</div>
 <div class="line"><span class="lineno">  840</span>            {</div>
 <div class="line"><span class="lineno">  841</span>                printf(<span class="stringliteral">&quot;%s No detail mesh to build tile!           \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  842</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  843</span>            }</div>
 <div class="line"><span class="lineno">  844</span> </div>
 <div class="line"><span class="lineno">  845</span>            printf(<span class="stringliteral">&quot;%s Building navmesh tile...\n&quot;</span>, tileString);</div>
-<div class="line"><span class="lineno">  846</span>            <span class="keywordflow">if</span> (!dtCreateNavMeshData(&amp;<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>, &amp;navData, &amp;navDataSize))</div>
+<div class="line"><span class="lineno">  846</span>            <span class="keywordflow">if</span> (!dtCreateNavMeshData(&amp;params, &amp;navData, &amp;navDataSize))</div>
 <div class="line"><span class="lineno">  847</span>            {</div>
 <div class="line"><span class="lineno">  848</span>                printf(<span class="stringliteral">&quot;%s Failed building navmesh tile!           \n&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  849</span>                <span class="keywordflow">break</span>;</div>
@@ -636,7 +636,6 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  905</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
-<div class="ttc" id="aDisableMgr_8cpp_html_ac9cefc7bcc3e1616c9b9340bdf9c8099"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a></div><div class="ttdeci">std::set&lt; uint32 &gt; params[2]</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:38</div></div>
 <div class="ttc" id="aMapDefines_8h_html_a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98"><div class="ttname"><a href="../../d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a></div><div class="ttdeci">@ NAV_GROUND</div><div class="ttdef"><b>Definition</b> MapDefines.h:54</div></div>
 <div class="ttc" id="aclassMMAP_1_1MapBuilder_html_a86e75f8857980cff57f87558342fbeb1"><div class="ttname"><a href="../../d4/dab/classMMAP_1_1MapBuilder.html#a86e75f8857980cff57f87558342fbeb1">MMAP::MapBuilder::GetMapSpecificConfig</a></div><div class="ttdeci">rcConfig GetMapSpecificConfig(uint32 mapID, float bmin[3], float bmax[3], const TileConfig &amp;tileConfig) const</div><div class="ttdef"><b>Definition</b> MapBuilder.cpp:1052</div></div>
 <div class="ttc" id="aclassMMAP_1_1TerrainBuilder_html_ab869d655ea5cb7f9d32dff63ed4df779"><div class="ttname"><a href="../../d3/dfe/classMMAP_1_1TerrainBuilder.html#ab869d655ea5cb7f9d32dff63ed4df779">MMAP::TerrainBuilder::usesLiquids</a></div><div class="ttdeci">bool usesLiquids() const</div><div class="ttdef"><b>Definition</b> TerrainBuilder.h:88</div></div>
@@ -645,7 +644,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructMmapTileHeader_html_a69f3284a4a56b1108792ba56c250bf97"><div class="ttname"><a href="../../d1/d1b/structMmapTileHeader.html#a69f3284a4a56b1108792ba56c250bf97">MmapTileHeader::size</a></div><div class="ttdeci">uint32 size</div><div class="ttdef"><b>Definition</b> MapDefines.h:35</div></div>
 <div class="ttc" id="astructMmapTileHeader_html_aeb4e622161a4bb42cff42d37542f0254"><div class="ttname"><a href="../../d1/d1b/structMmapTileHeader.html#aeb4e622161a4bb42cff42d37542f0254">MmapTileHeader::usesLiquids</a></div><div class="ttdeci">char usesLiquids</div><div class="ttdef"><b>Definition</b> MapDefines.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00089">MMAP::TileConfig::BASE_UNIT_DIM</a>, <a class="el" href="../../#l00067">MMAP::Tile::chf</a>, <a class="el" href="../../#l00069">MMAP::Tile::cset</a>, <a class="el" href="../../#l00071">MMAP::Tile::dmesh</a>, <a class="el" href="../../#l00201">MMAP::IntermediateValues::generateObjFile()</a>, <a class="el" href="../../#l01052">MMAP::MapBuilder::GetMapSpecificConfig()</a>, <a class="el" href="../../#l00048">MMAP::GRID_SIZE</a>, <a class="el" href="../../#l00065">MMAP::MeshData::liquidTris</a>, <a class="el" href="../../#l00066">MMAP::MeshData::liquidType</a>, <a class="el" href="../../#l00064">MMAP::MeshData::liquidVerts</a>, <a class="el" href="../../#l00134">m_bigBaseUnit</a>, <a class="el" href="../../#l00135">m_debugOutput</a>, <a class="el" href="../../#l00137">m_mapBuilder</a>, <a class="el" href="../../#l00141">m_rcContext</a>, <a class="el" href="../../#l00138">m_terrainBuilder</a>, <a class="el" href="../../#l00054">NAV_GROUND</a>, <a class="el" href="../../#l00071">MMAP::MeshData::offMeshConnectionDirs</a>, <a class="el" href="../../#l00070">MMAP::MeshData::offMeshConnectionRads</a>, <a class="el" href="../../#l00069">MMAP::MeshData::offMeshConnections</a>, <a class="el" href="../../#l00072">MMAP::MeshData::offMeshConnectionsAreas</a>, <a class="el" href="../../#l00073">MMAP::MeshData::offMeshConnectionsFlags</a>, <a class="el" href="../../#l00038">params</a>, <a class="el" href="../../#l00070">MMAP::Tile::pmesh</a>, <a class="el" href="../../#l00032">MMAP::IntermediateValues::polyMesh</a>, <a class="el" href="../../#l00033">MMAP::IntermediateValues::polyMeshDetail</a>, <a class="el" href="../../#l00035">MmapTileHeader::size</a>, <a class="el" href="../../#l00068">MMAP::Tile::solid</a>, <a class="el" href="../../#l00062">MMAP::MeshData::solidTris</a>, <a class="el" href="../../#l00061">MMAP::MeshData::solidVerts</a>, <a class="el" href="../../#l00092">MMAP::TileConfig::TILES_PER_MAP</a>, <a class="el" href="../../#l00036">MmapTileHeader::usesLiquids</a>, <a class="el" href="../../#l00088">MMAP::TerrainBuilder::usesLiquids()</a>, and <a class="el" href="../../#l00031">MMAP::IntermediateValues::writeIV()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00089">MMAP::TileConfig::BASE_UNIT_DIM</a>, <a class="el" href="../../#l00067">MMAP::Tile::chf</a>, <a class="el" href="../../#l00069">MMAP::Tile::cset</a>, <a class="el" href="../../#l00071">MMAP::Tile::dmesh</a>, <a class="el" href="../../#l00201">MMAP::IntermediateValues::generateObjFile()</a>, <a class="el" href="../../#l01052">MMAP::MapBuilder::GetMapSpecificConfig()</a>, <a class="el" href="../../#l00048">MMAP::GRID_SIZE</a>, <a class="el" href="../../#l00065">MMAP::MeshData::liquidTris</a>, <a class="el" href="../../#l00066">MMAP::MeshData::liquidType</a>, <a class="el" href="../../#l00064">MMAP::MeshData::liquidVerts</a>, <a class="el" href="../../#l00134">m_bigBaseUnit</a>, <a class="el" href="../../#l00135">m_debugOutput</a>, <a class="el" href="../../#l00137">m_mapBuilder</a>, <a class="el" href="../../#l00141">m_rcContext</a>, <a class="el" href="../../#l00138">m_terrainBuilder</a>, <a class="el" href="../../#l00054">NAV_GROUND</a>, <a class="el" href="../../#l00071">MMAP::MeshData::offMeshConnectionDirs</a>, <a class="el" href="../../#l00070">MMAP::MeshData::offMeshConnectionRads</a>, <a class="el" href="../../#l00069">MMAP::MeshData::offMeshConnections</a>, <a class="el" href="../../#l00072">MMAP::MeshData::offMeshConnectionsAreas</a>, <a class="el" href="../../#l00073">MMAP::MeshData::offMeshConnectionsFlags</a>, <a class="el" href="../../#l00070">MMAP::Tile::pmesh</a>, <a class="el" href="../../#l00032">MMAP::IntermediateValues::polyMesh</a>, <a class="el" href="../../#l00033">MMAP::IntermediateValues::polyMeshDetail</a>, <a class="el" href="../../#l00035">MmapTileHeader::size</a>, <a class="el" href="../../#l00068">MMAP::Tile::solid</a>, <a class="el" href="../../#l00062">MMAP::MeshData::solidTris</a>, <a class="el" href="../../#l00061">MMAP::MeshData::solidVerts</a>, <a class="el" href="../../#l00092">MMAP::TileConfig::TILES_PER_MAP</a>, <a class="el" href="../../#l00036">MmapTileHeader::usesLiquids</a>, <a class="el" href="../../#l00088">MMAP::TerrainBuilder::usesLiquids()</a>, and <a class="el" href="../../#l00031">MMAP::IntermediateValues::writeIV()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00289">MMAP::MapBuilder::buildMeshFromFile()</a>, and <a class="el" href="../../#l00461">buildTile()</a>.</p>
 
@@ -1044,7 +1043,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li><li class="navelem"><a class="el" href="../../dd/d2d/classMMAP_1_1TileBuilder.html">TileBuilder</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:19:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

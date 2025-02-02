@@ -125,7 +125,7 @@ var group__world =
       [ "SendGlobalMessage", "d6/d39/classWorld.html#ad257abf0349f0ae62fc84ebf5f7f4eb4", null ],
       [ "SendServerMessage", "d6/d39/classWorld.html#a4623f9876dc822dd06b869be0e099e52", null ],
       [ "SendZoneMessage", "d6/d39/classWorld.html#aafba1c95ea840760a1948f252e50d96b", null ],
-      [ "SendZoneText", "d6/d39/classWorld.html#a66768df8ddad85f7e3c0643dc1612f5e", null ],
+      [ "SendZoneText", "d6/d39/classWorld.html#a1d50617aa26682e72449e892df66c74c", null ],
       [ "SetAllowMovement", "d6/d39/classWorld.html#a19560e2e6fb9d54a1297bdebd5466d17", null ],
       [ "setBoolConfig", "d6/d39/classWorld.html#a93f9c1ab7c3e59c14b22f17bd8a538c2", null ],
       [ "SetCleaningFlags", "d6/d39/classWorld.html#a31964f041ebc34a0a9db42f9baf37da1", null ],

@@ -37,7 +37,7 @@ var namespaceAcore_1_1Impl_1_1ChatCommands =
     [ "TupleType", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
     [ "ConsumeFromOffset", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
     [ "FormatAcoreString", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
-    [ "GetAcoreString", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a671c2d8ee25e88cc8f58246b1486f1de", null ],
+    [ "GetAcoreString", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a1106e69269315156c6019b7812547ce9", null ],
     [ "GetChar", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ],
     [ "SendErrorMessageToHandler", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aae4c9556d5cc172144fa280ca820226d", null ],
     [ "tokenize", "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7", null ],

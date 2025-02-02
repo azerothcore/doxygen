@@ -1,5 +1,6 @@
 var NAVTREEINDEX109 =
 {
+"d3/dd1/DBCEnums_8h.html#a4b18ccd2246e4262c78561a41103e249a93def091e154f48e734a058ccf6169a7":[7,0,0,0,1,4,0,2,12,5],
 "d3/dd1/DBCEnums_8h.html#a4b18ccd2246e4262c78561a41103e249a9cfdf054d238295a7de024ddbc289c33":[7,0,0,0,1,4,0,2,12,3],
 "d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c":[7,0,0,0,1,4,0,2,4],
 "d3/dd1/DBCEnums_8h.html#a5201a522ecfb21f8b94bcab8b2ba2f8c":[7,0,0,0,1,4,0,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dd1/boss__ahune_8cpp.html#a50ba2acfd483f395e71abb80f687463ea8c6bfe5932edcefa38c6b55a21e4b7f4":[7,0,0,0,1,3,7,2,1,0,21,1],
 "d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,0,23],
 "d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca0078af6e610dabfa9e698ef78b3d89fe":[7,0,0,0,1,3,7,2,1,0,23,21],
-"d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca014db384d07b4224f6b4980ad0128484":[7,0,0,0,1,3,7,2,1,0,23,10],
-"d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca031a138d1b515851b189330584dd3720":[7,0,0,0,1,3,7,2,1,0,23,43]
+"d3/dd1/boss__ahune_8cpp.html#a5bd342133be8c2137b831460acc9298ca014db384d07b4224f6b4980ad0128484":[7,0,0,0,1,3,7,2,1,0,23,10]
 };

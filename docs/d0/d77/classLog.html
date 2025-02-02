@@ -538,7 +538,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   82</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   83</span>    }</div>
 <div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a> = <a class="code hl_enumvalue" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>;</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> flags = <a class="code hl_enumvalue" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>;</div>
 <div class="line"><span class="lineno">   86</span>    <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> type = <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>(Acore::StringTo&lt;uint8&gt;(tokens[0]).value_or(<a class="code hl_enumvalue" href="../../de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301">APPENDER_INVALID</a>));</div>
 <div class="line"><span class="lineno">   87</span>    <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> level = <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>(Acore::StringTo&lt;uint8&gt;(tokens[1]).value_or(<a class="code hl_enumvalue" href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96">LOG_LEVEL_INVALID</a>));</div>
 <div class="line"><span class="lineno">   88</span> </div>
@@ -559,7 +559,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  103</span>    {</div>
 <div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint8&gt;</a> flagsVal = Acore::StringTo&lt;uint8&gt;(tokens[2]))</div>
 <div class="line"><span class="lineno">  105</span>        {</div>
-<div class="line"><span class="lineno">  106</span>            <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a> = <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>(*flagsVal);</div>
+<div class="line"><span class="lineno">  106</span>            flags = <a class="code hl_enumeration" href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>(*flagsVal);</div>
 <div class="line"><span class="lineno">  107</span>        }</div>
 <div class="line"><span class="lineno">  108</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  109</span>        {</div>
@@ -570,7 +570,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  114</span> </div>
 <div class="line"><span class="lineno">  115</span>    <span class="keywordflow">try</span></div>
 <div class="line"><span class="lineno">  116</span>    {</div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_class" href="../../d9/d13/classAppender.html">Appender</a>* appender = factoryFunction-&gt;second(<a class="code hl_function" href="../../d0/d77/classLog.html#a20f1c9877dbe19a75a46d756757d3fc2">NextAppenderId</a>(), name, level, <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>, tokens);</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_class" href="../../d9/d13/classAppender.html">Appender</a>* appender = factoryFunction-&gt;second(<a class="code hl_function" href="../../d0/d77/classLog.html#a20f1c9877dbe19a75a46d756757d3fc2">NextAppenderId</a>(), name, level, flags, tokens);</div>
 <div class="line"><span class="lineno">  118</span>        <a class="code hl_variable" href="../../d0/d77/classLog.html#a589c40e90cd9ed521b525fd42010d33d">appenders</a>[appender-&gt;<a class="code hl_function" href="../../d9/d13/classAppender.html#a643046505390b3988572c53051d7d4c1">getId</a>()].reset(appender);</div>
 <div class="line"><span class="lineno">  119</span>    }</div>
 <div class="line"><span class="lineno">  120</span>    <span class="keywordflow">catch</span> (<a class="code hl_class" href="../../da/d21/classInvalidAppenderArgsException.html">InvalidAppenderArgsException</a> <span class="keyword">const</span>&amp; iaae)</div>
@@ -579,7 +579,6 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>    }</div>
 <div class="line"><span class="lineno">  124</span>}</div>
 <div class="ttc" id="aConfig_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
-<div class="ttc" id="aDisableMgr_8cpp_html_acd8859336a5cb8a70051c97a438726a1"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a></div><div class="ttdeci">uint8 flags</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:37</div></div>
 <div class="ttc" id="aLogCommon_8h_html_a94c1c25ceab6db205eb6a5d5a2e0e803"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a></div><div class="ttdeci">AppenderFlags</div><div class="ttdef"><b>Definition</b> LogCommon.h:51</div></div>
 <div class="ttc" id="aLogCommon_8h_html_a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a></div><div class="ttdeci">@ APPENDER_FLAGS_NONE</div><div class="ttdef"><b>Definition</b> LogCommon.h:52</div></div>
 <div class="ttc" id="aLogCommon_8h_html_aacbd2dccb14fcb75d2651dce582364df"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a></div><div class="ttdeci">AppenderType</div><div class="ttdef"><b>Definition</b> LogCommon.h:40</div></div>
@@ -595,7 +594,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassLog_html_aea6024bb1b054aef15a7851238721d24"><div class="ttname"><a href="../../d0/d77/classLog.html#aea6024bb1b054aef15a7851238721d24">Log::appenderFactory</a></div><div class="ttdeci">std::unordered_map&lt; uint8, AppenderCreatorFn &gt; appenderFactory</div><div class="ttdef"><b>Definition</b> Log.h:113</div></div>
 <div class="ttc" id="anamespaceAcore_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition</b> Tokenize.cpp:20</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">APPENDER_FLAGS_NONE</a>, <a class="el" href="../../#l00046">APPENDER_INVALID</a>, <a class="el" href="../../#l00113">appenderFactory</a>, <a class="el" href="../../#l00114">appenders</a>, <a class="el" href="../../#l00037">flags</a>, <a class="el" href="../../#l00028">Appender::getId()</a>, <a class="el" href="../../#l00035">LOG_LEVEL_INVALID</a>, <a class="el" href="../../#l00046">NextAppenderId()</a>, <a class="el" href="../../#l00034">NUM_ENABLED_LOG_LEVELS</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">APPENDER_FLAGS_NONE</a>, <a class="el" href="../../#l00046">APPENDER_INVALID</a>, <a class="el" href="../../#l00113">appenderFactory</a>, <a class="el" href="../../#l00114">appenders</a>, <a class="el" href="../../#l00028">Appender::getId()</a>, <a class="el" href="../../#l00035">LOG_LEVEL_INVALID</a>, <a class="el" href="../../#l00046">NextAppenderId()</a>, <a class="el" href="../../#l00034">NUM_ENABLED_LOG_LEVELS</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00186">ReadAppendersFromConfig()</a>.</p>
 
@@ -1808,7 +1807,7 @@ template&lt;class AppenderImpl &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d77/classLog.html">Log</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:18:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:18:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

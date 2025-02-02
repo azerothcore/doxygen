@@ -14,7 +14,7 @@ var classChatHandler =
     [ "extractPlayerTarget", "d6/d38/classChatHandler.html#ad2aadfd932dfb1f57cc7a0b2aeb5bd52", null ],
     [ "extractQuotedArg", "d6/d38/classChatHandler.html#a56773f00c74d5aeb327d188b0015e126", null ],
     [ "extractSpellIdFromLink", "d6/d38/classChatHandler.html#a9819eb4f3d8aecfe12d794fe87c811f4", null ],
-    [ "GetAcoreString", "d6/d38/classChatHandler.html#a8ca438da44d3f43db97a03d32a777dad", null ],
+    [ "GetAcoreString", "d6/d38/classChatHandler.html#ac910f883652c712f97b8db31fb4bd609", null ],
     [ "GetCreatureFromPlayerMapByDbGuid", "d6/d38/classChatHandler.html#a7f1f93fbd2856330821b565db4014cd3", null ],
     [ "GetModuleString", "d6/d38/classChatHandler.html#a050e5644f350519a1f3d564c84d31108", null ],
     [ "GetNameLink", "d6/d38/classChatHandler.html#a0e2b0a9da9e25f17c2f995505eeea940", null ],

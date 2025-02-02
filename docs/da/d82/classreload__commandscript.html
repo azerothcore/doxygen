@@ -1877,16 +1877,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1064</span>    {</div>
 <div class="line"><span class="lineno"> 1065</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Reloading disables table...&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1066</span>        <a class="code hl_function" href="../../da/d76/namespaceDisableMgr.html#adb464165caf6cd436499fa84969eeaf8">DisableMgr::LoadDisables</a>();</div>
+<div class="line"><span class="lineno"> 1066</span>        <a class="code hl_define" href="../../de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a>-&gt;LoadDisables();</div>
 <div class="line"><span class="lineno"> 1067</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Checking quest disables...&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1068</span>        <a class="code hl_function" href="../../da/d76/namespaceDisableMgr.html#a2f9fa5dadf6f2da5f01651d37d996377">DisableMgr::CheckQuestDisables</a>();</div>
+<div class="line"><span class="lineno"> 1068</span>        <a class="code hl_define" href="../../de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a>-&gt;CheckQuestDisables();</div>
 <div class="line"><span class="lineno"> 1069</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a5886fc7866ef80ae4c66f176c8c3cc43">SendGlobalGMSysMessage</a>(<span class="stringliteral">&quot;DB table `disables` reloaded.&quot;</span>);</div>
 <div class="line"><span class="lineno"> 1070</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1071</span>    }</div>
-<div class="ttc" id="anamespaceDisableMgr_html_a2f9fa5dadf6f2da5f01651d37d996377"><div class="ttname"><a href="../../da/d76/namespaceDisableMgr.html#a2f9fa5dadf6f2da5f01651d37d996377">DisableMgr::CheckQuestDisables</a></div><div class="ttdeci">void CheckQuestDisables()</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:276</div></div>
-<div class="ttc" id="anamespaceDisableMgr_html_adb464165caf6cd436499fa84969eeaf8"><div class="ttname"><a href="../../da/d76/namespaceDisableMgr.html#adb464165caf6cd436499fa84969eeaf8">DisableMgr::LoadDisables</a></div><div class="ttdeci">void LoadDisables()</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:51</div></div>
+<div class="ttc" id="aDisableMgr_8h_html_a1a184d22bd27210ea5af79573927826a"><div class="ttname"><a href="../../de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a></div><div class="ttdeci">#define sDisableMgr</div><div class="ttdef"><b>Definition</b> DisableMgr.h:87</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00276">DisableMgr::CheckQuestDisables()</a>, <a class="el" href="../../#l00051">DisableMgr::LoadDisables()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, and <a class="el" href="../../#l00195">ChatHandler::SendGlobalGMSysMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00087">sDisableMgr</a>, and <a class="el" href="../../#l00195">ChatHandler::SendGlobalGMSysMessage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00058">GetCommands()</a>.</p>
 
@@ -4254,9 +4253,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1232</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a5886fc7866ef80ae4c66f176c8c3cc43">SendGlobalGMSysMessage</a>(<span class="stringliteral">&quot;Smart Scripts reloaded.&quot;</span>);</div>
 <div class="line"><span class="lineno"> 1233</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1234</span>    }</div>
-<div class="ttc" id="aSmartScriptMgr_8h_html_a6fcbfe722a7e6345cf5c655c860d9ad3"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a6fcbfe722a7e6345cf5c655c860d9ad3">sSmartScriptMgr</a></div><div class="ttdeci">#define sSmartScriptMgr</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2229</div></div>
+<div class="ttc" id="aSmartScriptMgr_8h_html_a6fcbfe722a7e6345cf5c655c860d9ad3"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a6fcbfe722a7e6345cf5c655c860d9ad3">sSmartScriptMgr</a></div><div class="ttdeci">#define sSmartScriptMgr</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2236</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00195">ChatHandler::SendGlobalGMSysMessage()</a>, and <a class="el" href="../../#l02229">sSmartScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00195">ChatHandler::SendGlobalGMSysMessage()</a>, and <a class="el" href="../../#l02236">sSmartScriptMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00058">GetCommands()</a>.</p>
 
@@ -4948,7 +4947,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d82/classreload__commandscript.html">reload_commandscript</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:18:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -202,6 +202,7 @@ var SmartScriptMgr_8h =
       [ "SMART_ACTION_MOVEMENT_PAUSE", "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcaaf59e3054ca8582e258de99e02a156f9", null ],
       [ "SMART_ACTION_MOVEMENT_RESUME", "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca2b1608d8533efbcc9a63811f09c6c2ef", null ],
       [ "SMART_ACTION_WORLD_SCRIPT", "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca4c6f10882f7a391d9a57c4837ab6790d", null ],
+      [ "SMART_ACTION_DISABLE_REWARD", "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcaf206e07c1061964cce3d2ed7869276dd", null ],
       [ "SMART_ACTION_AC_END", "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6", null ]
     ] ],
     [ "SMART_EVENT", "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97", [

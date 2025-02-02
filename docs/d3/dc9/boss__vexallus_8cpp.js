@@ -1,6 +1,5 @@
 var boss__vexallus_8cpp =
 [
-    [ "npc_pure_energy", "d4/d1f/structnpc__pure__energy.html", "d4/d1f/structnpc__pure__energy" ],
     [ "boss_vexallus", "d7/d48/structboss__vexallus.html", "d7/d48/structboss__vexallus" ],
     [ "Spells", "d3/dc9/boss__vexallus_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_ENERGY_FEEDBACK_CHANNEL", "d3/dc9/boss__vexallus_8cpp.html#a5bd342133be8c2137b831460acc9298cacf167569d07227e6ce2b384338df20f2", null ],

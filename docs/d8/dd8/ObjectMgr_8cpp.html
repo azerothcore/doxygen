@@ -467,7 +467,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 7147</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a4702d03a245a571da652d6c354d94cff"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a4702d03a245a571da652d6c354d94cff">sLockStore</a></div><div class="ttdeci">DBCStorage&lt; LockEntry &gt; sLockStore(LockEntryfmt)</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#abb947353c3b98345f63cb9bcf285c867">GameObjectTemplate::door</a>, <a class="el" href="../../#l00032">GameObjectTemplate::entry</a>, <a class="el" href="../../#l00046">GameObjectTemplate::lockId</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a4702d03a245a571da652d6c354d94cff">sLockStore</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
+<p class="reference">References <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#ab8cf64793c6d29fbaa50b490b7e68945">GameObjectTemplate::door</a>, <a class="el" href="../../#l00032">GameObjectTemplate::entry</a>, <a class="el" href="../../#l00046">GameObjectTemplate::lockId</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a4702d03a245a571da652d6c354d94cff">sLockStore</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l07199">ObjectMgr::LoadGameObjectTemplate()</a>.</p>
 
@@ -612,7 +612,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00230">lang_description</a>, and <a class="el" href="../../#l00756">LANGUAGES_COUNT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l09650">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00081">CreatureTextMgr::LoadCreatureTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l09651">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00081">CreatureTextMgr::LoadCreatureTexts()</a>.</p>
 
 </div>
 </div>
@@ -936,33 +936,33 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8900</span>{</div>
-<div class="line"><span class="lineno"> 8901</span>    <a class="code hl_struct" href="../../d8/d11/structSkillLineEntry.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(rcEntry-&gt;SkillID);</div>
-<div class="line"><span class="lineno"> 8902</span>    <span class="keywordflow">if</span> (!skill)</div>
-<div class="line"><span class="lineno"> 8903</span>    {</div>
-<div class="line"><span class="lineno"> 8904</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>;</div>
-<div class="line"><span class="lineno"> 8905</span>    }</div>
-<div class="line"><span class="lineno"> 8906</span> </div>
-<div class="line"><span class="lineno"> 8907</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.LookupEntry(rcEntry-&gt;SkillTierID))</div>
-<div class="line"><span class="lineno"> 8908</span>    {</div>
-<div class="line"><span class="lineno"> 8909</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>;</div>
-<div class="line"><span class="lineno"> 8910</span>    }</div>
-<div class="line"><span class="lineno"> 8911</span> </div>
-<div class="line"><span class="lineno"> 8912</span>    <span class="keywordflow">if</span> (rcEntry-&gt;SkillID == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab05776d4e4650677906614d28589caf1">SKILL_RUNEFORGING</a>)</div>
-<div class="line"><span class="lineno"> 8913</span>    {</div>
-<div class="line"><span class="lineno"> 8914</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
-<div class="line"><span class="lineno"> 8915</span>    }</div>
-<div class="line"><span class="lineno"> 8916</span> </div>
-<div class="line"><span class="lineno"> 8917</span>    <span class="keywordflow">switch</span> (skill-&gt;<a class="code hl_variable" href="../../d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">categoryId</a>)</div>
-<div class="line"><span class="lineno"> 8918</span>    {</div>
-<div class="line"><span class="lineno"> 8919</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411">SKILL_CATEGORY_ARMOR</a>:</div>
-<div class="line"><span class="lineno"> 8920</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
-<div class="line"><span class="lineno"> 8921</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a79e1863d69891d47892f384391f85359">SKILL_CATEGORY_LANGUAGES</a>:</div>
-<div class="line"><span class="lineno"> 8922</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>;</div>
-<div class="line"><span class="lineno"> 8923</span>    }</div>
-<div class="line"><span class="lineno"> 8924</span> </div>
-<div class="line"><span class="lineno"> 8925</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>;</div>
-<div class="line"><span class="lineno"> 8926</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8901</span>{</div>
+<div class="line"><span class="lineno"> 8902</span>    <a class="code hl_struct" href="../../d8/d11/structSkillLineEntry.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(rcEntry-&gt;SkillID);</div>
+<div class="line"><span class="lineno"> 8903</span>    <span class="keywordflow">if</span> (!skill)</div>
+<div class="line"><span class="lineno"> 8904</span>    {</div>
+<div class="line"><span class="lineno"> 8905</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>;</div>
+<div class="line"><span class="lineno"> 8906</span>    }</div>
+<div class="line"><span class="lineno"> 8907</span> </div>
+<div class="line"><span class="lineno"> 8908</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.LookupEntry(rcEntry-&gt;SkillTierID))</div>
+<div class="line"><span class="lineno"> 8909</span>    {</div>
+<div class="line"><span class="lineno"> 8910</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>;</div>
+<div class="line"><span class="lineno"> 8911</span>    }</div>
+<div class="line"><span class="lineno"> 8912</span> </div>
+<div class="line"><span class="lineno"> 8913</span>    <span class="keywordflow">if</span> (rcEntry-&gt;SkillID == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab05776d4e4650677906614d28589caf1">SKILL_RUNEFORGING</a>)</div>
+<div class="line"><span class="lineno"> 8914</span>    {</div>
+<div class="line"><span class="lineno"> 8915</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
+<div class="line"><span class="lineno"> 8916</span>    }</div>
+<div class="line"><span class="lineno"> 8917</span> </div>
+<div class="line"><span class="lineno"> 8918</span>    <span class="keywordflow">switch</span> (skill-&gt;<a class="code hl_variable" href="../../d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">categoryId</a>)</div>
+<div class="line"><span class="lineno"> 8919</span>    {</div>
+<div class="line"><span class="lineno"> 8920</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411">SKILL_CATEGORY_ARMOR</a>:</div>
+<div class="line"><span class="lineno"> 8921</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
+<div class="line"><span class="lineno"> 8922</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a79e1863d69891d47892f384391f85359">SKILL_CATEGORY_LANGUAGES</a>:</div>
+<div class="line"><span class="lineno"> 8923</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>;</div>
+<div class="line"><span class="lineno"> 8924</span>    }</div>
+<div class="line"><span class="lineno"> 8925</span> </div>
+<div class="line"><span class="lineno"> 8926</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>;</div>
+<div class="line"><span class="lineno"> 8927</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a48f208d73a9f906cf5f8f92d8d885fa9"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a></div><div class="ttdeci">DBCStorage&lt; SkillTiersEntry &gt; sSkillTiersStore(SkillTiersfmt)</div></div>
 <div class="ttc" id="aDBCStores_8cpp_html_ab4bb35cde6511a56d8b9d23f4290f8e7"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a></div><div class="ttdeci">DBCStorage&lt; SkillLineEntry &gt; sSkillLineStore(SkillLinefmt)</div></div>
 <div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a></div><div class="ttdeci">@ SKILL_RANGE_MONO</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:676</div></div>
@@ -1259,7 +1259,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_a12bdf17fc4860c5ac78d8e274fbb711.html">Globals</a></li><li class="navelem"><a class="el" href="../../d8/dd8/ObjectMgr_8cpp.html">ObjectMgr.cpp</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:18:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:17:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

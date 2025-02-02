@@ -1,25 +1,12 @@
 var structboss__vexallus =
 [
     [ "boss_vexallus", "d7/d48/structboss__vexallus.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "CheckHealthThresholds", "d7/d48/structboss__vexallus.html#acd68b97a4c83eeb86472f206e038fe17", null ],
-    [ "CheckOverload", "d7/d48/structboss__vexallus.html#adbb9d7ce4b43513382648d4e4413d555", null ],
     [ "JustDied", "d7/d48/structboss__vexallus.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
     [ "JustEngagedWith", "d7/d48/structboss__vexallus.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d7/d48/structboss__vexallus.html#a9bc7808889da754bae9c935418975f90", null ],
     [ "KilledUnit", "d7/d48/structboss__vexallus.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "ProcessEnergyQueue", "d7/d48/structboss__vexallus.html#a7358f6114daec758c3d595424aa52cf9", null ],
     [ "Reset", "d7/d48/structboss__vexallus.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "ScheduleCombatAbilities", "d7/d48/structboss__vexallus.html#a7948f8e9314da697cc6b6506473c5d02", null ],
-    [ "ScheduleEnergyCheck", "d7/d48/structboss__vexallus.html#a1720002008d3c8516a6fcc6560c2bd34", null ],
-    [ "SetEnergyCooldown", "d7/d48/structboss__vexallus.html#af8cc170a5261d7ea0bc07eae0dc3c45f", null ],
     [ "SummonedCreatureDies", "d7/d48/structboss__vexallus.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "UpdateAI", "d7/d48/structboss__vexallus.html#a25c6adf34521cf0f1dac7a8140205812", null ],
     [ "_energyCooldown", "d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyQueue", "d7/d48/structboss__vexallus.html#a9f24e22d1a26ee881b359bf8dc7f56f0", null ],
-    [ "_overloaded", "d7/d48/structboss__vexallus.html#a1b03aee962f7c0c5116dc41f4b337ea8", null ],
-    [ "_pureEnergy", "d7/d48/structboss__vexallus.html#a29c17917f8bed52d82497ea130181ed5", null ],
-    [ "_thresholdsPassed", "d7/d48/structboss__vexallus.html#a51f72479a4920665ab72f09c9a18ca82", null ],
-    [ "ABILITY_TIMER", "d7/d48/structboss__vexallus.html#a1a0ddab1258f3f047b0a86a9f5f6b969", null ],
-    [ "ENERGY_COOLDOWN", "d7/d48/structboss__vexallus.html#a49d61823374e5b10a2bd64887d95556b", null ],
-    [ "HEALTH_THRESHOLDS", "d7/d48/structboss__vexallus.html#a7ca012b1fb6a4885d6f4cb2bd5aea44e", null ],
-    [ "INITIAL_PURE_ENERGY", "d7/d48/structboss__vexallus.html#afc7f45b0caa6c18ab0127682344f3b60", null ]
+    [ "_energyCount", "d7/d48/structboss__vexallus.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

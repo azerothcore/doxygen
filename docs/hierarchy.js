@@ -1966,6 +1966,8 @@ var hierarchy =
     ] ],
     [ "DiminishingReturn", "d9/d10/structDiminishingReturn.html", null ],
     [ "UpdateFetcher::DirectoryEntry", "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html", null ],
+    [ "DisableData", "dc/d93/structDisableData.html", null ],
+    [ "DisableMgr", "d8/d72/classDisableMgr.html", null ],
     [ "std::disjunction", null, [
       [ "Acore::has_type< T, std::tuple< Us... > >", "da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html", null ]
     ] ],
@@ -5593,7 +5595,6 @@ var hierarchy =
           [ "npc_plucky::npc_pluckyAI", "d1/d11/structnpc__plucky_1_1npc__pluckyAI.html", null ],
           [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html", null ],
           [ "npc_precious_icc::npc_precious_iccAI", "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html", null ],
-          [ "npc_pure_energy", "d4/d1f/structnpc__pure__energy.html", null ],
           [ "npc_putricide_oozeAI", "d9/d9f/classnpc__putricide__oozeAI.html", [
             [ "npc_gas_cloud::npc_gas_cloudAI", "d4/db1/structnpc__gas__cloud_1_1npc__gas__cloudAI.html", null ],
             [ "npc_volatile_ooze::npc_volatile_oozeAI", "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html", null ]

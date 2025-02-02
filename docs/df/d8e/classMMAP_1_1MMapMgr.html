@@ -627,8 +627,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   94</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   95</span>        }</div>
 <div class="line"><span class="lineno">   96</span> </div>
-<div class="line"><span class="lineno">   97</span>        dtNavMeshParams <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>;</div>
-<div class="line"><span class="lineno">   98</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fread(&amp;<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>, <span class="keyword">sizeof</span>(dtNavMeshParams), 1, file));</div>
+<div class="line"><span class="lineno">   97</span>        dtNavMeshParams params;</div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fread(&amp;params, <span class="keyword">sizeof</span>(dtNavMeshParams), 1, file));</div>
 <div class="line"><span class="lineno">   99</span>        fclose(file);</div>
 <div class="line"><span class="lineno">  100</span>        <span class="keywordflow">if</span> (count != 1)</div>
 <div class="line"><span class="lineno">  101</span>        {</div>
@@ -638,7 +638,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  105</span> </div>
 <div class="line"><span class="lineno">  106</span>        dtNavMesh* mesh = dtAllocNavMesh();</div>
 <div class="line"><span class="lineno">  107</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(mesh);</div>
-<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">if</span> (DT_SUCCESS != mesh-&gt;init(&amp;<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a>))</div>
+<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">if</span> (DT_SUCCESS != mesh-&gt;init(&amp;params))</div>
 <div class="line"><span class="lineno">  109</span>        {</div>
 <div class="line"><span class="lineno">  110</span>            dtFreeNavMesh(mesh);</div>
 <div class="line"><span class="lineno">  111</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;MMAP:loadMapData: Failed to initialize dtNavMesh for mmap {:03} from file {}&quot;</span>, mapId, fileName);</div>
@@ -652,11 +652,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  119</span>        itr-&gt;second = mmap_data;</div>
 <div class="line"><span class="lineno">  120</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  121</span>    }</div>
-<div class="ttc" id="aDisableMgr_8cpp_html_ac9cefc7bcc3e1616c9b9340bdf9c8099"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#ac9cefc7bcc3e1616c9b9340bdf9c8099">params</a></div><div class="ttdeci">std::set&lt; uint32 &gt; params[2]</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:38</div></div>
 <div class="ttc" id="aErrors_8h_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition</b> Errors.h:76</div></div>
 <div class="ttc" id="anamespaceMMAP_html_a1d57d156046bda88886b7488ab0b83bc"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc">MMAP::MAP_FILE_NAME_FORMAT</a></div><div class="ttdeci">static char const  *const MAP_FILE_NAME_FORMAT</div><div class="ttdef"><b>Definition</b> MMapMgr.cpp:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">loadedMMaps</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00026">MMAP::MAP_FILE_NAME_FORMAT</a>, <a class="el" href="../../#l00038">params</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, and <a class="el" href="../../#l00099">thread_safe_environment</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00097">loadedMMaps</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00026">MMAP::MAP_FILE_NAME_FORMAT</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, and <a class="el" href="../../#l00099">thread_safe_environment</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00128">loadMap()</a>.</p>
 
@@ -974,7 +973,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li><li class="navelem"><a class="el" href="../../df/d8e/classMMAP_1_1MMapMgr.html">MMapMgr</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:19:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

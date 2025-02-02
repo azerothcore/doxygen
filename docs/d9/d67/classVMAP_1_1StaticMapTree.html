@@ -132,7 +132,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a747e6e36e5ab00a084e1ebd3edfa37c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af36059fa934fc9d25a29ae5aa30b3710" id="r_af36059fa934fc9d25a29ae5aa30b3710"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#af36059fa934fc9d25a29ae5aa30b3710">getHeight</a> (const G3D::Vector3 &amp;pPos, float maxSearchDist) const</td></tr>
 <tr class="separator:af36059fa934fc9d25a29ae5aa30b3710"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6662688ee5150fec5e835a8fa3db279e" id="r_a6662688ee5150fec5e835a8fa3db279e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a6662688ee5150fec5e835a8fa3db279e">GetAreaInfo</a> (G3D::Vector3 &amp;pos, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;<a class="el" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;adtId, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;rootId, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;groupId) const</td></tr>
+<tr class="memitem:a6662688ee5150fec5e835a8fa3db279e" id="r_a6662688ee5150fec5e835a8fa3db279e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a6662688ee5150fec5e835a8fa3db279e">GetAreaInfo</a> (G3D::Vector3 &amp;pos, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;flags, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;adtId, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;rootId, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;groupId) const</td></tr>
 <tr class="separator:a6662688ee5150fec5e835a8fa3db279e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada47b221e97dd5b14d87c7008be270a1" id="r_ada47b221e97dd5b14d87c7008be270a1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#ada47b221e97dd5b14d87c7008be270a1">GetLocationInfo</a> (const G3D::Vector3 &amp;pos, <a class="el" href="../../dd/d3f/structVMAP_1_1LocationInfo.html">LocationInfo</a> &amp;info) const</td></tr>
 <tr class="separator:ada47b221e97dd5b14d87c7008be270a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -457,7 +457,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  105</span>        <a class="code hl_variable" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a>.<a class="code hl_function" href="../../d0/de7/classBIH.html#af2ead3a6c24ec4e31b01ca28b82fc3a9">intersectPoint</a>(pos, intersectionCallBack);</div>
 <div class="line"><span class="lineno">  106</span>        <span class="keywordflow">if</span> (intersectionCallBack.aInfo.result)</div>
 <div class="line"><span class="lineno">  107</span>        {</div>
-<div class="line"><span class="lineno">  108</span>            <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a> = intersectionCallBack.aInfo.flags;</div>
+<div class="line"><span class="lineno">  108</span>            flags = intersectionCallBack.aInfo.flags;</div>
 <div class="line"><span class="lineno">  109</span>            adtId = intersectionCallBack.aInfo.adtId;</div>
 <div class="line"><span class="lineno">  110</span>            rootId = intersectionCallBack.aInfo.rootId;</div>
 <div class="line"><span class="lineno">  111</span>            groupId = intersectionCallBack.aInfo.groupId;</div>
@@ -466,11 +466,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  114</span>        }</div>
 <div class="line"><span class="lineno">  115</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  116</span>    }</div>
-<div class="ttc" id="aDisableMgr_8cpp_html_acd8859336a5cb8a70051c97a438726a1"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a></div><div class="ttdeci">uint8 flags</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:37</div></div>
 <div class="ttc" id="aclassBIH_html_af2ead3a6c24ec4e31b01ca28b82fc3a9"><div class="ttname"><a href="../../d0/de7/classBIH.html#af2ead3a6c24ec4e31b01ca28b82fc3a9">BIH::intersectPoint</a></div><div class="ttdeci">void intersectPoint(const G3D::Vector3 &amp;p, IsectCallback &amp;intersectCallback) const</div><div class="ttdef"><b>Definition</b> BoundingIntervalHierarchy.h:284</div></div>
 <div class="ttc" id="aclassVMAP_1_1StaticMapTree_html_a2a6d8374af191f9484fe0e73c2e4e6b6"><div class="ttname"><a href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a2a6d8374af191f9484fe0e73c2e4e6b6">VMAP::StaticMapTree::iTree</a></div><div class="ttdeci">BIH iTree</div><div class="ttdef"><b>Definition</b> MapTree.h:49</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">VMAP::AreaInfo::adtId</a>, <a class="el" href="../../#l00067">VMAP::AreaInfoCallback::aInfo</a>, <a class="el" href="../../#l00093">VMAP::AreaInfo::flags</a>, <a class="el" href="../../#l00037">flags</a>, <a class="el" href="../../#l00092">VMAP::AreaInfo::ground_Z</a>, <a class="el" href="../../#l00096">VMAP::AreaInfo::groupId</a>, <a class="el" href="../../#l00284">BIH::intersectPoint()</a>, <a class="el" href="../../#l00049">iTree</a>, <a class="el" href="../../#l00050">iTreeValues</a>, <a class="el" href="../../#l00091">VMAP::AreaInfo::result</a>, and <a class="el" href="../../#l00095">VMAP::AreaInfo::rootId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00094">VMAP::AreaInfo::adtId</a>, <a class="el" href="../../#l00067">VMAP::AreaInfoCallback::aInfo</a>, <a class="el" href="../../#l00093">VMAP::AreaInfo::flags</a>, <a class="el" href="../../#l00092">VMAP::AreaInfo::ground_Z</a>, <a class="el" href="../../#l00096">VMAP::AreaInfo::groupId</a>, <a class="el" href="../../#l00284">BIH::intersectPoint()</a>, <a class="el" href="../../#l00049">iTree</a>, <a class="el" href="../../#l00050">iTreeValues</a>, <a class="el" href="../../#l00091">VMAP::AreaInfo::result</a>, and <a class="el" href="../../#l00095">VMAP::AreaInfo::rootId</a>.</p>
 
 </div>
 </div>
@@ -1546,7 +1545,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d34/namespaceVMAP.html">VMAP</a></li><li class="navelem"><a class="el" href="../../d9/d67/classVMAP_1_1StaticMapTree.html">StaticMapTree</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:19:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

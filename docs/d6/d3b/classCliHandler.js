@@ -2,7 +2,7 @@ var classCliHandler =
 [
     [ "Print", "d6/d3b/classCliHandler.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
     [ "CliHandler", "d6/d3b/classCliHandler.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "d6/d3b/classCliHandler.html#a84a52cac4c1ac11e36e36c37f976af0e", null ],
+    [ "GetAcoreString", "d6/d3b/classCliHandler.html#ab12ec41c55bc5f92461abff538a76b66", null ],
     [ "GetNameLink", "d6/d3b/classCliHandler.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
     [ "GetSessionDbcLocale", "d6/d3b/classCliHandler.html#a610f7431dc7b064c964e0d446160d19f", null ],
     [ "GetSessionDbLocaleIndex", "d6/d3b/classCliHandler.html#a5a2118d9227aa53818d736e387d77dea", null ],

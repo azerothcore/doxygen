@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282f":[7,0,0,0,1,3,9,2,185],
 "d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282fa9c3c0a83e9c0120368033ced1854cc0d":[7,0,0,0,1,3,9,2,185,1],
 "d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282faeebf03245cd3e2adebc022e09fcb1db4":[7,0,0,0,1,3,9,2,185,0],
 "d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7a":[7,0,0,0,1,3,9,2,186],
@@ -232,9 +233,9 @@ var NAVTREEINDEX47 =
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a04cb1d2fa18dba82b9c881b09406a076":[6,0,450,0,1],
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a6e35e47b23d713263ef00769324bbbed":[6,0,450,0,2],
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html#ab3f56c97119676b1a75662e52caecb75":[6,0,450,0,0],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html":[6,0,1174],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html#aa204af213a643c001161e0c2f173ee6b":[6,0,1174,0],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html#ae11efa54b496ab21600a9c62e50b5fbe":[6,0,1174,1],
+"d1/de6/classgo__ulduar__do__not__push__this__button.html":[6,0,1176],
+"d1/de6/classgo__ulduar__do__not__push__this__button.html#aa204af213a643c001161e0c2f173ee6b":[6,0,1176,0],
+"d1/de6/classgo__ulduar__do__not__push__this__button.html#ae11efa54b496ab21600a9c62e50b5fbe":[6,0,1176,1],
 "d1/de6/firework__show__Orgrimmar_8h.html":[7,0,0,0,1,3,3,0,5],
 "d1/de6/firework__show__Orgrimmar_8h.html#a20e15c8e61c734af478a4849bd54c9d3":[7,0,0,0,1,3,3,0,5,1],
 "d1/de6/firework__show__Orgrimmar_8h.html#a2e2ca4fa893601a2122f94a72c18401f":[7,0,0,0,1,3,3,0,5,2],
@@ -242,12 +243,11 @@ var NAVTREEINDEX47 =
 "d1/de8/classboss__anubrekhan.html":[6,0,362],
 "d1/de8/classboss__anubrekhan.html#a6ff866300f8b0b58d4b7467def9747c0":[6,0,362,1],
 "d1/de8/classboss__anubrekhan.html#aba5c31f182d6f600302f84ed21e9f7e9":[6,0,362,2],
-"d1/de9/classnpc__captain__saeed.html":[6,0,1646],
-"d1/de9/classnpc__captain__saeed.html#a7db9b76578743d4ee96b2c4f11dc265c":[6,0,1646,3],
-"d1/de9/classnpc__captain__saeed.html#a8a5bee9f908b10451b8d4720dff85670":[6,0,1646,1],
-"d1/de9/classnpc__captain__saeed.html#a8ace4d924b6f33312d914fb6ce1e0ea6":[6,0,1646,4],
-"d1/de9/classnpc__captain__saeed.html#aa6a232f6c2dd39483273cac41af9a7d7":[6,0,1646,2],
-"d1/de9/classspell__garfrost__permafrost.html":[6,0,2839],
-"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[6,0,2839,1],
-"d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[6,0,2839,5]
+"d1/de9/classnpc__captain__saeed.html":[6,0,1648],
+"d1/de9/classnpc__captain__saeed.html#a7db9b76578743d4ee96b2c4f11dc265c":[6,0,1648,3],
+"d1/de9/classnpc__captain__saeed.html#a8a5bee9f908b10451b8d4720dff85670":[6,0,1648,1],
+"d1/de9/classnpc__captain__saeed.html#a8ace4d924b6f33312d914fb6ce1e0ea6":[6,0,1648,4],
+"d1/de9/classnpc__captain__saeed.html#aa6a232f6c2dd39483273cac41af9a7d7":[6,0,1648,2],
+"d1/de9/classspell__garfrost__permafrost.html":[6,0,2840],
+"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[6,0,2840,1]
 };

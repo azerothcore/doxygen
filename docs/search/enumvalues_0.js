@@ -1554,7 +1554,7 @@ var searchData=
   ['aura_5fstate_5funknown22_1551',['AURA_STATE_UNKNOWN22',['../de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a80804893814bfd2410171c356e6096cd',1,'SharedDefines.h']]],
   ['aura_5fstate_5fwarrior_5fvictory_5frush_1552',['AURA_STATE_WARRIOR_VICTORY_RUSH',['../de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a686406c696d3c66f704eb3e902b1514e',1,'SharedDefines.h']]],
   ['aura_5ftwilight_5fset_1553',['AURA_TWILIGHT_SET',['../d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aaea3b632fcb9a55ccec096e5223e2dcb2',1,'zone_silithus.cpp']]],
-  ['auras_1554',['AURAS',['../d2/db8/classPetLoadQueryHolder.html#aa45d0754f89b51604caf198535d266faaefca92e362948d31c6df34642ae02153',1,'PetLoadQueryHolder']]],
+  ['auras_1554',['AURAS',['../d2/db8/classPetLoadQueryHolder.html#a10a0ffdc30d99440b87e4a066d4335d8aefca92e362948d31c6df34642ae02153',1,'PetLoadQueryHolder']]],
   ['auth_5falready_5flogging_5fin_1555',['AUTH_ALREADY_LOGGING_IN',['../de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1aa7d289b8953ef804820b0a135909e960a',1,'SharedDefines.h']]],
   ['auth_5falready_5fonline_1556',['AUTH_ALREADY_ONLINE',['../de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1aa4fa6caf77080c40464575ad60ea38d42',1,'SharedDefines.h']]],
   ['auth_5fbad_5fserver_5fproof_1557',['AUTH_BAD_SERVER_PROOF',['../de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1aaa00e49bacb75be1985f63c4c65e33fb2',1,'SharedDefines.h']]],

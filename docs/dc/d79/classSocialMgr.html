@@ -479,23 +479,22 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  329</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
 <div class="line"><span class="lineno">  330</span> </div>
 <div class="line"><span class="lineno">  331</span>        <span class="keyword">auto</span> friendGuid = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[0].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  332</span>        <span class="keyword">auto</span> <a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a> = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  332</span>        <span class="keyword">auto</span> flags = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
 <div class="line"><span class="lineno">  333</span>        <span class="keyword">auto</span> note = fields[2].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">  334</span> </div>
-<div class="line"><span class="lineno">  335</span>        social-&gt;<a class="code hl_variable" href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid] = <a class="code hl_struct" href="../../d7/d8c/structFriendInfo.html">FriendInfo</a>(<a class="code hl_variable" href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a>, note);</div>
+<div class="line"><span class="lineno">  335</span>        social-&gt;<a class="code hl_variable" href="../../d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid] = <a class="code hl_struct" href="../../d7/d8c/structFriendInfo.html">FriendInfo</a>(flags, note);</div>
 <div class="line"><span class="lineno">  336</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
 <div class="line"><span class="lineno">  337</span> </div>
 <div class="line"><span class="lineno">  338</span>    <span class="keywordflow">return</span> social;</div>
 <div class="line"><span class="lineno">  339</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
-<div class="ttc" id="aDisableMgr_8cpp_html_acd8859336a5cb8a70051c97a438726a1"><div class="ttname"><a href="../../de/d69/DisableMgr_8cpp.html#acd8859336a5cb8a70051c97a438726a1">flags</a></div><div class="ttdeci">uint8 flags</div><div class="ttdef"><b>Definition</b> DisableMgr.cpp:37</div></div>
 <div class="ttc" id="aclassField_html"><div class="ttname"><a href="../../d7/d24/classField.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition</b> Field.h:98</div></div>
 <div class="ttc" id="aclassField_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition</b> Field.h:112</div></div>
 <div class="ttc" id="aclassPlayerSocial_html"><div class="ttname"><a href="../../d2/d56/classPlayerSocial.html">PlayerSocial</a></div><div class="ttdef"><b>Definition</b> SocialMgr.h:101</div></div>
 <div class="ttc" id="aclassPlayerSocial_html_af913d007399dede4ddf59c2811fc3b8a"><div class="ttname"><a href="../../d2/d56/classPlayerSocial.html#af913d007399dede4ddf59c2811fc3b8a">PlayerSocial::SetPlayerGUID</a></div><div class="ttdeci">void SetPlayerGUID(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> SocialMgr.h:116</div></div>
 <div class="ttc" id="astructFriendInfo_html"><div class="ttname"><a href="../../d7/d8c/structFriendInfo.html">FriendInfo</a></div><div class="ttdef"><b>Definition</b> SocialMgr.h:48</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">flags</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00144">m_socialMap</a>, and <a class="el" href="../../#l00116">PlayerSocial::SetPlayerGUID()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00144">m_socialMap</a>, and <a class="el" href="../../#l00116">PlayerSocial::SetPlayerGUID()</a>.</p>
 
 </div>
 </div>
@@ -690,7 +689,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d79/classSocialMgr.html">SocialMgr</a></li>
-    <li class="footer">Generated on Sat Feb 1 2025 06:19:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 2 2025 06:18:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
