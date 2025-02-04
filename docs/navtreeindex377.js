@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[6,0,5,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[6,0,5,2,17],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[5,0,18,2,17],
 "df/d3e/classlfg_1_1LfgGroupData.html#aa272606655d08afc1763caf9311035c3":[6,0,5,2,5],
@@ -12,10 +13,10 @@ var NAVTREEINDEX377 =
 "df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,18,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[6,0,5,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,18,2,9],
-"df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,18,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[6,0,5,2,7],
-"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
+"df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,18,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22],
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
 "df/d3e/namespaceGameTime.html":[5,0,16],
 "df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220":[5,0,16,3],
 "df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d":[5,0,16,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3501,0],
 "df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
 "df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,3,4]
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4]
 };

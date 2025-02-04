@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[6,0,2085,0,8],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348":[6,0,2085,0,3],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d":[6,0,2085,0,6],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#afc140e6f9fc1ec78914aecc5150345b0":[6,0,2085,0,9],
 "d8/d7f/classnpc__ulduar__iron__construct.html":[6,0,2194],
@@ -196,12 +198,12 @@ var NAVTREEINDEX217 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4133,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4133,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4133,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,30,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,5,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,30,5,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,30,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,5,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,30,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,30,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,30,5,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,553],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,553,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,553,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d8d/structActiveBoatStruct.html#a3b6b89143c8a875cda01b000cea6a7c7":[6,0,123,5],
 "d8/d8d/structActiveBoatStruct.html#a4bdccc14156f7e5822c9a8eefc29adaa":[6,0,123,3],
 "d8/d8d/structActiveBoatStruct.html#a62cd7f778cea049a1a6a4c34d21545a7":[6,0,123,1],
-"d8/d8d/structActiveBoatStruct.html#a749e9c6edcc87f258f250344d652145c":[6,0,123,7],
-"d8/d8d/structActiveBoatStruct.html#a80b842f55108fec58fe04cf02e8e0b35":[6,0,123,2],
-"d8/d8d/structActiveBoatStruct.html#aaae6e8ea168850a934b887ec006d7d8b":[6,0,123,0]
+"d8/d8d/structActiveBoatStruct.html#a749e9c6edcc87f258f250344d652145c":[6,0,123,7]
 };

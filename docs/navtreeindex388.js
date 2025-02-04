@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/dc7/classOPvPCapturePointEP__PWT.html#a1e26a3ed8d700533df0a51d8db510a4f":[6,0,2299,1],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a5772e54263c613eee365856def5e74e6":[6,0,2299,4],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a823b74c3f4e2dac7e02b060ccfb93c89":[6,0,2299,2],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a914dcbb37baf457750cfe9829d95d88c":[6,0,2299,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#aef1192735d87a7e83ea00cc8cb9303c7":[6,0,2034,0,2],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642":[6,0,2034,0,15],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2034,0,8],
-"df/dd7/classboss__devourer__of__souls.html":[6,0,406],
-"df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,406,2]
+"df/dd7/classboss__devourer__of__souls.html":[6,0,406]
 };

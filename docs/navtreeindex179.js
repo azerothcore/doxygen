@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e536c78710d5b778b14a756d68c47e2":[7,0,0,0,1,3,5,10,1,1,6,6],
+"d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23ad67139df344342263dca07927c122":[7,0,0,0,1,3,5,10,1,1,6,24],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a27415b019dd189dbf87ba112d5a3c663":[7,0,0,0,1,3,5,10,1,1,6,25],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a28102865b8a4bfc8b86cfd7e13a3e5bc":[7,0,0,0,1,3,5,10,1,1,6,3],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a301dd510f1ca6604fda24c94112e97fe":[7,0,0,0,1,3,5,10,1,1,6,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/dea/classspell__item__healing__injector.html#a4dd5016439e8798083fe3d4fa5458731":[6,0,3189,1],
 "d6/dea/classspell__item__healing__injector.html#ae24fd6305b5d17c2fbb6f03238b385c6":[6,0,3189,0],
 "d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[6,0,3189,3],
-"d6/deb/UnitScript_8cpp.html":[7,0,0,0,1,2,38,0,82],
-"d6/deb/UnitScript_8cpp.html#aced42ee6099fa72848b9b4aef527ebc3":[7,0,0,0,1,2,38,0,82,0],
-"d6/deb/structnpc__blade__of__azzinoth.html":[6,0,1617]
+"d6/deb/UnitScript_8cpp.html":[7,0,0,0,1,2,38,0,82]
 };

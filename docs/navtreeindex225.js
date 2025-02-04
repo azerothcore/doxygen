@@ -1,5 +1,8 @@
 var NAVTREEINDEX225 =
 {
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71":[7,0,0,0,1,3,5,9,1,1,3,4],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378":[7,0,0,0,1,3,5,9,1,1,3,5],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c":[7,0,0,0,1,3,5,9,1,1,3,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af3454b7726ff200f857b79943aac2cf8":[7,0,0,0,1,3,5,9,1,1,3,0],
 "d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498fa":[7,0,0,0,1,3,5,9,1,1,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa0992d683bc7d0448b2e32fdf931c00d3":[7,0,0,0,1,3,5,9,1,1,2,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX225 =
 "d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[6,0,3079,2],
 "d8/df6/classspell__icc__soul__missile.html#aac12da39c503615036120e3e0cd55622":[6,0,3079,0],
 "d8/df6/structnpc__spawn__of__marli.html":[6,0,2089],
-"d8/df6/structnpc__spawn__of__marli.html#a1b8afff5d90df02d16b81785026b2ff0":[6,0,2089,1],
-"d8/df6/structnpc__spawn__of__marli.html#a1c456e7deb43d2e4dd1abc6f702c3f75":[6,0,2089,3],
-"d8/df6/structnpc__spawn__of__marli.html#a1dcd5066de108203903f5767c4b375ea":[6,0,2089,0],
-"d8/df6/structnpc__spawn__of__marli.html#a79ef192d41af75e0dad0494776c75189":[6,0,2089,2]
+"d8/df6/structnpc__spawn__of__marli.html#a1b8afff5d90df02d16b81785026b2ff0":[6,0,2089,1]
 };

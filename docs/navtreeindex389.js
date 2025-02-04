@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,406,2],
 "df/dd7/classboss__devourer__of__souls.html#a95b3a33be3b85a4c7ecfb4370a9ddc60":[6,0,406,1],
 "df/dd8/classDBCStorage.html":[6,0,939],
 "df/dd8/classDBCStorage.html#a00d89ccb706cdf73c3cd3840333504cc":[6,0,939,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd9/classUnit.html#a3b8c0d3de7eaf8ec48236035f58dcfb5":[6,0,4117,864],
 "df/dd9/classUnit.html#a3b99532f8cbe18f3dd08972ee8d3b44d":[6,0,4117,847],
 "df/dd9/classUnit.html#a3bb06bc22c7b60ab2fae8d7141335043":[6,0,4117,91],
-"df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683":[6,0,4117,197],
-"df/dd9/classUnit.html#a3c20bbd85474cc42ac23b3bd1c5f54c5":[6,0,4117,884]
+"df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683":[6,0,4117,197]
 };

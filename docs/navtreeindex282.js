@@ -1,17 +1,20 @@
 var NAVTREEINDEX282 =
 {
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae3e2fce2a5bc4e22e55de02d0748162b":[6,0,7,7,40],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae4379be978b9dc1de688f51a374675f0":[6,0,7,7,3],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae4379be978b9dc1de688f51a374675f0":[5,0,21,7,3],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af":[6,0,7,7,53],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af":[5,0,21,7,53],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[6,0,7,7,51],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[5,0,21,7,51],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5":[6,0,7,7,54],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5":[5,0,21,7,54],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[6,0,7,7,28],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[5,0,21,7,28],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[6,0,7,7,28],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[6,0,7,7,36],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[5,0,21,7,36],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,21,7,4],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[6,0,7,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,21,7,4],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[5,0,21,7,27],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[6,0,7,7,27],
 "db/d9d/classboss__galvangar.html":[6,0,471],
@@ -246,8 +249,5 @@ var NAVTREEINDEX282 =
 "db/da5/zone__azshara_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce":[7,0,0,0,1,3,4,15,5],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[6,0,0,5,0,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[5,0,1,8,0,17,12],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[6,0,0,5,0,17,12]
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15]
 };

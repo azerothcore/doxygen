@@ -1,14 +1,15 @@
 var NAVTREEINDEX21 =
 {
+"d0/deb/structQuestPOI.html#af4ce75549d1fff2042e98683119214a6":[6,0,2431,0],
 "d0/dec/Spline_8cpp.html":[7,0,0,0,1,2,31,1,10],
 "d0/dec/Spline_8cpp.html#a318f60ef13751f5cf60cdb79cf353faa":[7,0,0,0,1,2,31,1,10,1],
 "d0/dec/Spline_8cpp.html#a409e47c24c7802840315c6e4c75725cc":[7,0,0,0,1,2,31,1,10,0],
 "d0/dec/Spline_8cpp.html#a508e01047096fea2dbd9e0fedf6d75cb":[7,0,0,0,1,2,31,1,10,2],
 "d0/dec/Spline_8cpp.html#aff10e913762216c0735a8a3530ee25d2":[7,0,0,0,1,2,31,1,10,3],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html":[5,0,1,21],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html":[6,0,0,9],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html":[5,0,1,21],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[6,0,0,9,1],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[5,0,1,21,2],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[6,0,0,9,2],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[6,0,0,9,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea653e6b51fdee19a2fd5e8a715fc3a0ce":[7,0,0,0,1,2,8,0,9,12,6],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea812893b31976f39cc396bec8d672057c":[7,0,0,0,1,2,8,0,9,12,3],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9b6dfd40144bac23e375dfb22a406762":[7,0,0,0,1,2,8,0,9,12,9],
-"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9d717d5e125f13b736b576a66b9c8710":[7,0,0,0,1,2,8,0,9,12,0],
-"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9d8e3b833f5560795dbf0999f71c992c":[7,0,0,0,1,2,8,0,9,12,1]
+"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9d717d5e125f13b736b576a66b9c8710":[7,0,0,0,1,2,8,0,9,12,0]
 };

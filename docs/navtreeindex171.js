@@ -1,5 +1,7 @@
 var NAVTREEINDEX171 =
 {
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a826ecad9e9a06050a3ebc0861bf52c1e":[6,0,2164,0,6],
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a991868074e39e2a4d06c37afc642a756":[6,0,2164,0,10],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#aa7944f80bb6718a65a07128be830ed94":[6,0,2164,0,4],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ab69f481e3871e5ce803ab1f389a2385c":[6,0,2164,0,1],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#abf3fc3538e82fceaa916d4e217d6f9fd":[6,0,2164,0,3],
@@ -180,8 +182,8 @@ var NAVTREEINDEX171 =
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
 "d6/d75/boss__varos_8cpp.html#a075a51f16e112a721f01da6beedbbb6f":[7,0,0,0,1,3,5,8,2,3,2],
 "d6/d75/boss__varos_8cpp.html#a088f90a94bfd48bdd631e135332dee31":[7,0,0,0,1,3,5,8,2,3,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02":[7,0,0,0,1,3,7,15,21],
 "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6":[7,0,0,0,1,3,7,15,21,3],
 "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a9f091068e93fe04fde1b2d77d34d5fcf":[7,0,0,0,1,3,7,15,21,1],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c":[7,0,0,0,1,3,7,15,21,0],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac9b055761d26e7020af8fca0ad0914e8":[7,0,0,0,1,3,7,15,21,2],
-"d6/d75/zone__terokkar__forest_8cpp.html#aac8f425764fbd137acd527c44a8217e5":[7,0,0,0,1,3,7,15,15]
+"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c":[7,0,0,0,1,3,7,15,21,0]
 };

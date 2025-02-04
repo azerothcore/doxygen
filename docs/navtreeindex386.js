@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/da7/classBattleground.html#ab188798f704cc4f103aab7f94addd280":[6,0,296,211],
 "df/da7/classBattleground.html#ab40dd6ed08f1504cf72c0657b801037a":[6,0,296,116],
 "df/da7/classBattleground.html#ab53cf7fe615fefbafecc0cf7b3077e4c":[6,0,296,93],
 "df/da7/classBattleground.html#ab626085602960980a3e93ac2b93123a3":[6,0,296,12],
@@ -229,16 +230,16 @@ var NAVTREEINDEX386 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1681,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1681,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1681,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,7,4],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,30,7,4],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,7,4],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,7,4,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,30,7,4,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,7,4,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,30,7,4,3],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,11,7,4,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,30,7,4,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,4,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,11,7,4,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,30,7,4,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,4,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,4,1,1,3,4,2],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,3,3],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca84be6ed368c53a45a93ac053097aad60":[7,0,0,0,1,3,4,1,1,3,3,3],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c129b60b4b52a474c5617f275a3b094":[7,0,0,0,1,3,4,1,1,3,3,0],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,1,1,3,3,4]
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c129b60b4b52a474c5617f275a3b094":[7,0,0,0,1,3,4,1,1,3,3,0]
 };

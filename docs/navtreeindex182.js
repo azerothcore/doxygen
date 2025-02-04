@@ -1,12 +1,14 @@
 var NAVTREEINDEX182 =
 {
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,107],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,95],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,95,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,1,107,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,107,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,95,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,107,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,95,2],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[6,0,2259,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[6,0,2259,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[6,0,2259,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html":[6,0,3965],
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a069cc54bf009830ad781c790b4fcedad":[6,0,3965,2],
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a45d300e8cb6fbc499345b3bb2fb0d34f":[6,0,3965,0],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[6,0,3965,1],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ac91532151b689bde35d7120b1e9aec5b":[6,0,3965,3],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ad225dcdb1325a855f1909a8c66ca577b":[6,0,3965,4]
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[6,0,3965,1]
 };

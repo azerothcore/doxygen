@@ -1,5 +1,8 @@
 var NAVTREEINDEX230 =
 {
+"d9/d36/classFlameLeviathanPursuedTargetSelector.html#acc855eaab1e9590e1fcfae6ed8d37815":[6,0,1031,1],
+"d9/d36/classWorldSessionFilter.html":[4,1,13],
+"d9/d36/classWorldSessionFilter.html#a0f0acf4ed9e61bf8aeb77ee7fb310660":[4,1,13,2],
 "d9/d36/classWorldSessionFilter.html#a5de22e3a331e0ab17fe60f34c5b9b3fa":[4,1,13,1],
 "d9/d36/classWorldSessionFilter.html#aba91eb2dfd56201534743b2d458fa111":[4,1,13,0],
 "d9/d36/classspell__q1846__bending__shinbone.html":[6,0,3618],
@@ -246,8 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d4d/classmisc__commandscript.html#a738d4416fce5e5a1aa9e5df515ac8429":[6,0,1477,4],
 "d9/d4d/classmisc__commandscript.html#a7b504cc3fd2d0bdbea7682a05b73d883":[6,0,1477,24],
 "d9/d4d/classmisc__commandscript.html#a7dfc18f4db20a1c86c6481bc13ace63c":[6,0,1477,41],
-"d9/d4d/classmisc__commandscript.html#a84d8e28f6d75e913e9cca02785997967":[6,0,1477,33],
-"d9/d4d/classmisc__commandscript.html#a85a9c32bf77c68bb63952acacabc4003":[6,0,1477,34],
-"d9/d4d/classmisc__commandscript.html#a868fb733d2531f127d31b6ba88d4b446":[6,0,1477,30],
-"d9/d4d/classmisc__commandscript.html#a893eed58f98ae465302ffb0ba5bd2aeb":[6,0,1477,23]
+"d9/d4d/classmisc__commandscript.html#a84d8e28f6d75e913e9cca02785997967":[6,0,1477,33]
 };

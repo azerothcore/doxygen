@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca099376550328e9ee8ad3d3b6a238cbc8":[7,0,0,0,1,3,5,1,0,0,18,18],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629":[7,0,0,0,1,3,5,1,0,0,18,6],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca142a7ffa9068ed86d8d870f51b60e7a2":[7,0,0,0,1,3,5,1,0,0,18,1],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2":[7,0,0,0,1,3,5,1,0,0,18,7],
@@ -112,8 +113,8 @@ var NAVTREEINDEX380 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2749,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2749,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2749,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,117],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2720],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2720,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2720,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a3fcf4fc5145b77ab22eea5a29b1298ce":[7,0,0,0,1,3,10,18,0,16],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a404b382addc43d908acf571a3543acaa":[7,0,0,0,1,3,10,18,0,4],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a495dcdd368ee1050722706e45639eb7c":[7,0,0,0,1,3,10,18,0,10],
-"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8":[7,0,0,0,1,3,10,18,0,18],
-"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a5c1e71dd6ac0b00949242285a18465c9":[7,0,0,0,1,3,10,18,0,12]
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8":[7,0,0,0,1,3,10,18,0,18]
 };

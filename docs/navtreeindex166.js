@@ -1,5 +1,7 @@
 var NAVTREEINDEX166 =
 {
+"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#aed6d274c9c7a30e20dd47c03d4b030f8":[6,0,1281,0,49],
+"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#af086f3043e9f179c06a24ae8e71829fe":[6,0,1281,0,36],
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#af995978d89bd4720735ae426909e272f":[6,0,1281,0,37],
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#afb180016bde1f140ce03e900083d99de":[6,0,1281,0,17],
 "d6/d35/structHolidaysEntry.html":[6,0,1240],
@@ -247,7 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d39/classWorld.html#a73e78f8722794f47a88a6bda50b80d0c":[4,2,11,21],
 "d6/d39/classWorld.html#a74a69622ac41136efc3b6a6b967bbb65":[4,2,11,72],
 "d6/d39/classWorld.html#a74baa2bb1744320512f9f29538512573":[4,2,11,152],
-"d6/d39/classWorld.html#a751dbc01d2c2599919c279756e5eedd4":[4,2,11,1],
-"d6/d39/classWorld.html#a77244fe89d68e91d26ff6c3c355fed33":[4,2,11,129],
-"d6/d39/classWorld.html#a79351ea85793bf75a5104e1e153a237b":[4,2,11,82]
+"d6/d39/classWorld.html#a751dbc01d2c2599919c279756e5eedd4":[4,2,11,1]
 };

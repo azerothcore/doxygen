@@ -1,5 +1,8 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,959,1],
+"d9/dc8/classDialogueHelper.html#ac16b8b9b50e8b35980d21f161bf33340":[6,0,959,5],
+"d9/dc8/classboss__deathbringer__saurfang.html":[6,0,405],
 "d9/dc8/classboss__deathbringer__saurfang.html#a6bc1ef44b3ea9e860d62bf78cfa38c92":[6,0,405,2],
 "d9/dc8/classboss__deathbringer__saurfang.html#ad19893be7dc3b4290d9b1ed3bb992e08":[6,0,405,1],
 "d9/dc9/classspell__batrider__bomb.html":[6,0,2596],
@@ -220,12 +223,12 @@ var NAVTREEINDEX241 =
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217":[7,0,0,0,1,3,4,29,11,0],
 "d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,77],
 "d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,65],
-"d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,65,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,77,1],
+"d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,65,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,77,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,65,3],
-"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
+"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX241 =
 "d9/de2/classspell__cannibalize__heal.html#a953536a9a393af9472bdd89018449df0":[6,0,2655,0],
 "d9/de2/structCalcDamageInfo.html":[6,0,815],
 "d9/de2/structCalcDamageInfo.html#a01f1cc6661ef5f4e7d657ba59d06108f":[6,0,815,7],
-"d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,815,3],
-"d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115":[6,0,815,9],
-"d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f":[6,0,815,10],
-"d9/de2/structCalcDamageInfo.html#a236b06649e715fab9dbddb074ef2f075":[6,0,815,12]
+"d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,815,3]
 };

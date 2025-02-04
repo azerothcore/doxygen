@@ -1,5 +1,8 @@
 var NAVTREEINDEX264 =
 {
+"da/dd9/classspell__gen__proc__on__victim.html":[6,0,2941],
+"da/dd9/classspell__gen__proc__on__victim.html#a15b05d352f94d2aabeb75a6bfd996fc6":[6,0,2941,2],
+"da/dd9/classspell__gen__proc__on__victim.html#a6a7b011f151ff81672221b84eb4456b8":[6,0,2941,1],
 "da/dd9/classspell__gen__proc__on__victim.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88":[6,0,2941,0],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html":[6,0,2044,0],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a063a28cd36dbc709699e6d1d4e4ca9e3":[6,0,2044,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX264 =
 "da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#a33364da3af4681de9f9e21b9dcf7f16c":[6,0,1755,0,2],
 "da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ac02a0c34096086e7baf1dc004811f4c1":[6,0,1755,0,4],
 "da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ac6f2aedc40e415ac0f7e8c212d4deae5":[6,0,1755,0,3],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ae6a80f77558e0f5a62efc3b5ef1f61d6":[6,0,1755,0,0],
-"da/de4/classlfg_1_1Lfg5Guids.html":[5,0,18,0],
-"da/de4/classlfg_1_1Lfg5Guids.html":[6,0,5,0],
-"da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[6,0,5,0,10]
+"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ae6a80f77558e0f5a62efc3b5ef1f61d6":[6,0,1755,0,0]
 };

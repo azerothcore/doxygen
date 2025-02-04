@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d8b/classitem__commandscript.html#a84c67a46c513c1aac2b9d2563d693929":[6,0,1351,4],
 "dd/d8b/classitem__commandscript.html#aab60aa980ef0f86938cfcb51e7ee20a8":[6,0,1351,1],
 "dd/d8b/classitem__commandscript.html#af914e33be05148062abd89c754d939c9":[6,0,1351,3],
 "dd/d8c/classspell__shade__of__akama__shade__soul__channel.html":[6,0,3723],
@@ -194,16 +195,16 @@ var NAVTREEINDEX324 =
 "dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[6,0,1736,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[6,0,0,11],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,1,23],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,11,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[5,0,1,23,0],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,1,23,1],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,11,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[6,0,0,11,1],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,1,23,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,11,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,23,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,11,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,23,2],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,23,4],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,11,4],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,23,4],
 "dd/d91/classat__shattered__halls__execution.html":[6,0,224],
 "dd/d91/classat__shattered__halls__execution.html#a73f1d1f03960acd070b7996257f7a526":[6,0,224,0],
 "dd/d91/classat__shattered__halls__execution.html#ad35f9736371b091dc0780e5bf0caf9f5":[6,0,224,1],
@@ -247,7 +248,6 @@ var NAVTREEINDEX324 =
 "dd/d96/classDBCFile_1_1Exception.html":[6,0,936,0],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,936,0,1],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,936,0,3],
-"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,936,0,0],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,936,0,2],
-"dd/d96/classDBCFile_1_1Exception.html#aeb732542a0ba63cde3d9b3bff93f4eda":[6,0,936,0,6]
+"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,936,0,0]
 };

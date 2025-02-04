@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"d7/d46/classAuraEffect.html#a71cd3938d8e16b4f6363e6978077aa8f":[6,0,267,197],
+"d7/d46/classAuraEffect.html#a757600361597c84413041214cd39dc22":[6,0,267,176],
 "d7/d46/classAuraEffect.html#a7595664aebf24652d3ce95d6bdc18ebe":[6,0,267,22],
 "d7/d46/classAuraEffect.html#a7710e32fe9dc267292c3b15333521560":[6,0,267,117],
 "d7/d46/classAuraEffect.html#a7778b120e414f28e95e71ce96660149e":[6,0,267,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#a99654ac86502e3ac2f899082269ccb01":[6,0,2106,0,2],
 "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#aa4dd9409cd74f3c2c878974715e43394":[6,0,2106,0,0],
 "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#ac51313cec4d76216f3c716d988fc4857":[6,0,2106,0,3],
-"d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#ad0f99362f7ab506b322b6d75890881c1":[6,0,2106,0,1],
-"d7/d4c/structnpc__underbat.html":[6,0,2207],
-"d7/d4c/structnpc__underbat.html#a710a010d3425b7171ee45d8465fd6b2b":[6,0,2207,0]
+"d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#ad0f99362f7ab506b322b6d75890881c1":[6,0,2106,0,1]
 };

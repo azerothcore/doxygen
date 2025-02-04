@@ -14,6 +14,7 @@ var structboss__urom_1_1boss__uromAI =
     [ "SpellHit", "d8/dc3/structboss__urom_1_1boss__uromAI.html#a669ede4aef5ca1da7bcca867d7231c35", null ],
     [ "UpdateAI", "d8/dc3/structboss__urom_1_1boss__uromAI.html#a037de8c5598890701fcef021abd14c71", null ],
     [ "events", "d8/dc3/structboss__urom_1_1boss__uromAI.html#a97732ed404611bee7168e1f04722426c", null ],
+    [ "inCenter", "d8/dc3/structboss__urom_1_1boss__uromAI.html#a8a79ebc3f12e2e9b1001f81132ef4259", null ],
     [ "lock", "d8/dc3/structboss__urom_1_1boss__uromAI.html#a9f8635cb44dd5ac3b148c69890cfb38f", null ],
     [ "pInstance", "d8/dc3/structboss__urom_1_1boss__uromAI.html#ab4ef43ca30ccf83c81245db164288794", null ],
     [ "releaseLockTimer", "d8/dc3/structboss__urom_1_1boss__uromAI.html#ab96273a14e3cec773d8fe79ca774ec52", null ],

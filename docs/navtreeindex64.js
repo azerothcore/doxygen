@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d61/classRestoreAttack.html#a633e5abe4a3a9353df63d3778b8d71bc":[6,0,2464,1],
 "d2/d61/classRestoreAttack.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3":[6,0,2464,0],
 "d2/d61/classspell__hun__last__stand__pet.html":[6,0,3056],
 "d2/d61/classspell__hun__last__stand__pet.html#a1abee3e5f324875aab8dd666ac417308":[6,0,3056,2],
@@ -200,12 +201,12 @@ var NAVTREEINDEX64 =
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,27,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,27,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,9,1,4],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,27,1,2],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,9,1,1],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,27,1,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,27,1,5],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,9,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[6,0,9,1,5],
+"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,27,1,5],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[5,0,27,1,3],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[6,0,9,1,3],
 "d2/d6f/classgo__seer__of__zebhalak.html":[6,0,1155],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d70/structMovementInfo_1_1TransportInfo.html#ad57bea2ae3beb6a086a116989b0d528f":[6,0,1498,1,3],
 "d2/d70/structMovementInfo_1_1TransportInfo.html#adff317cbf0c2d159d8ffddf52b4751b3":[6,0,1498,1,2],
 "d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html":[6,0,1312,0],
-"d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#a1ca8d6b10fabe1a8b829dbf62b77ed51":[6,0,1312,0,0],
-"d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#ab1e344fbf169ee40f28741217f3dca14":[6,0,1312,0,2]
+"d2/d70/structinstance__steam__vault_1_1instance__steam__vault__InstanceMapScript.html#a1ca8d6b10fabe1a8b829dbf62b77ed51":[6,0,1312,0,0]
 };

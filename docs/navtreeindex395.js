@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/de7/classOutdoorPvPTF.html#abc72dff4380cfef895c0cd535e69d5c3":[6,0,2326,14],
 "df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[6,0,2326,16],
 "df/de7/classOutdoorPvPTF.html#aea70b0297157e9cab3faf182e339ee3f":[6,0,2326,15],
 "df/de7/classOutdoorPvPTF.html#aeafe05bb2ef984a411436f3971239ae4":[6,0,2326,9],
@@ -84,10 +85,10 @@ var NAVTREEINDEX395 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,30,11,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,30,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,343],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,343,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,343,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/df3/structboss__grand__warlock__nethekurse.html#a4eefeb639cf5f0753feb6cfd99cda187":[6,0,490,0],
 "df/df3/structboss__grand__warlock__nethekurse.html#a6c647262ce7df78c46af6b725cbcc250":[6,0,490,8],
 "df/df3/structboss__grand__warlock__nethekurse.html#a8288f8c28b61dac574254435534b5e3f":[6,0,490,1],
-"df/df3/structboss__grand__warlock__nethekurse.html#a8837d810df1d8b8a505d2d6c98ac8be8":[6,0,490,13],
-"df/df3/structboss__grand__warlock__nethekurse.html#a886a0e792cf5ac6afa9670703cb568ff":[6,0,490,12]
+"df/df3/structboss__grand__warlock__nethekurse.html#a8837d810df1d8b8a505d2d6c98ac8be8":[6,0,490,13]
 };

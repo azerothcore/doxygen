@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/df3/structboss__grand__warlock__nethekurse.html#a886a0e792cf5ac6afa9670703cb568ff":[6,0,490,12],
 "df/df3/structboss__grand__warlock__nethekurse.html#a9c577798d5bc87654e6984af02d95c34":[6,0,490,10],
 "df/df3/structboss__grand__warlock__nethekurse.html#ac29fa30bfa8377a07cbfdd1f0964ebfb":[6,0,490,6],
 "df/df3/structboss__grand__warlock__nethekurse.html#ac7d0737aa28c51cc63d93b8774e536f0":[6,0,490,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "dir_8a86f46c68fd9f4cbeaa550d3ee2afc5.html":[7,0,0,0,1,2,16,3],
 "dir_8af33554ddafa3432455437cc558c9c8.html":[7,0,0,0,1,2,41,0],
 "dir_8b777919d2ae980e2f3806300ea01226.html":[7,0,0,0,0,1,1],
-"dir_9190001e5b6939293a2fb2bd5f108b56.html":[7,0,0,0,1,2,21],
-"dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html":[7,0,0,0,0,10]
+"dir_9190001e5b6939293a2fb2bd5f108b56.html":[7,0,0,0,1,2,21]
 };

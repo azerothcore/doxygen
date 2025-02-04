@@ -1,5 +1,8 @@
 var NAVTREEINDEX310 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57604b634eb000dd3a77ed767652d105":[7,0,0,0,1,3,2,17,92],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57729392acbf8df56faae2a7865f65b4":[7,0,0,0,1,3,2,17,119],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5c92c13d577422c37a1de0e3b5b4a020":[7,0,0,0,1,3,2,17,113],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5ccf6dda552246620e7ef4626abaa82b":[7,0,0,0,1,3,2,17,28],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5e65b369faff6f7058465f02107c9d6e":[7,0,0,0,1,3,2,17,5],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5fee1c9d68f60b7ddb9112635fdc55a0":[7,0,0,0,1,3,2,17,57],
@@ -246,8 +249,5 @@ var NAVTREEINDEX310 =
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8e":[7,0,0,0,1,3,3,1,44],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea09de7ce3b856ca5205416e36f8572cd8":[7,0,0,0,1,3,3,1,44,4],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea390ab2cfc30916ec5b00ae56f5502e68":[7,0,0,0,1,3,3,1,44,1],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea4c699153018141923bc67370ea550fc2":[7,0,0,0,1,3,3,1,44,5],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea5bc3bbf967481311be4408e109d3984a":[7,0,0,0,1,3,3,1,44,7],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea705362846c84af3c7965bdb23caffe14":[7,0,0,0,1,3,3,1,44,2],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea7832ee7e0c769012c8b8736099b6b227":[7,0,0,0,1,3,3,1,44,6]
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea4c699153018141923bc67370ea550fc2":[7,0,0,0,1,3,3,1,44,5]
 };

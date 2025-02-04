@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa267f1511a952094f60889f8ecec5634b":[7,0,0,0,1,3,2,4,0,10,11],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa2b2d792b4c3e585f0f2951abeccebf55":[7,0,0,0,1,3,2,4,0,10,8],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa2ec7b6902e0b67ac3386718dfee83c1d":[7,0,0,0,1,3,2,4,0,10,5],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa3bcbae149e306622ea2c1b4c0f45dc6e":[7,0,0,0,1,3,2,4,0,10,12],
@@ -31,8 +32,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3486,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1299,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1299,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1299,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7adaf684e0d6b4efab2cf6a32452b9bba335":[7,0,0,0,1,2,36,2,19,15],
 "d2/d27/classspell__dru__omen__of__clarity.html":[6,0,2779],
 "d2/d27/classspell__dru__omen__of__clarity.html#a1b7b855383b04bd1b627c6f1e33ad7a5":[6,0,2779,0],
-"d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[6,0,2779,1],
-"d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[6,0,2779,2]
+"d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[6,0,2779,1]
 };

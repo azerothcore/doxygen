@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea70065ceeb513008ef3c8bc999615b9d4":[7,0,0,0,1,3,2,1,1,0,6,25],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[7,0,0,0,1,3,2,1,1,0,6,8],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[7,0,0,0,1,3,2,1,1,0,6,5],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7a779e1a0e8de1430067af278fc96af2":[7,0,0,0,1,3,2,1,1,0,6,2],
@@ -224,12 +225,12 @@ var NAVTREEINDEX371 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,30,5,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,30,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,30,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,30,5,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,5,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,30,5,17,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[6,0,11,5,17,1],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,30,5,17,1],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html":[6,0,534,0],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#a05006b60fa4e7b33f589ca87b3374aa5":[6,0,534,0,10],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#a12ad910d0838b1fbb626f761b70c86c5":[6,0,534,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "df/d17/classGameObjectModelOwnerBase.html#a307c744710782fcb0d5c287b23c74d69":[6,0,1068,0],
 "df/d17/classGameObjectModelOwnerBase.html#a35c11d2346c5156b95558729d84b3fe8":[6,0,1068,3],
 "df/d17/classGameObjectModelOwnerBase.html#a6b55de1c8de5a50245d7e5a833766d0f":[6,0,1068,4],
-"df/d17/classGameObjectModelOwnerBase.html#a82e89b7fac5f46a25519674930294ed8":[6,0,1068,5],
-"df/d17/classGameObjectModelOwnerBase.html#abf8e9a74f58ec34bc6f1f8d853100f69":[6,0,1068,6]
+"df/d17/classGameObjectModelOwnerBase.html#a82e89b7fac5f46a25519674930294ed8":[6,0,1068,5]
 };

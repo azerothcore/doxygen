@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caadbea51043452c394f0b2c5b17641807":[7,0,0,0,1,3,5,6,2,26,1],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298cab49e909f0b69fffbb73a6dda87c676d9":[7,0,0,0,1,3,5,6,2,26,10],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,5,6,2,26,7],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298cabb55d812aa6728c7ba13e8c097fd3c8e":[7,0,0,0,1,3,5,6,2,26,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a0f23886cdb5f6a0d23f18e38f60ba8e7":[7,0,0,0,1,3,5,9,2,11,42,28],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a12c9bbad9ba0f280bd50ad8459f371bf":[7,0,0,0,1,3,5,9,2,11,42,16],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a16c44f780486035a9f1e38addba45448":[7,0,0,0,1,3,5,9,2,11,42,3],
-"d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a185d2b742814e2ec96c398520ce26a7e":[7,0,0,0,1,3,5,9,2,11,42,5],
-"d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a1be73fa2c4254f1547a8d7dfc75d6ea2":[7,0,0,0,1,3,5,9,2,11,42,42]
+"d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a185d2b742814e2ec96c398520ce26a7e":[7,0,0,0,1,3,5,9,2,11,42,5]
 };

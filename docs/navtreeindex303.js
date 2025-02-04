@@ -1,5 +1,8 @@
 var NAVTREEINDEX303 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dd4744c8d528ca10f6d77005740da62":[7,0,0,0,1,3,5,7,5,9,8],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca632b63ff701695a506937cb49c1f3a97":[7,0,0,0,1,3,5,7,5,9,5],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a086a4956dd824479e8022f3763089c":[7,0,0,0,1,3,5,7,5,9,3],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8eec3c63909f675d501a55c2edbaf1d4":[7,0,0,0,1,3,5,7,5,9,1],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cacc855b55b581daeba17019d6a34816ab":[7,0,0,0,1,3,5,7,5,9,4],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,5,9,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d81/classCreatureTextMgr.html#aaa36b5a9223c7521e1b2a222fce77d79":[6,0,919,4],
 "dc/d81/classCreatureTextMgr.html#ad25faab453d0f5d6270797eeeb5e2e40":[6,0,919,17],
 "dc/d81/classCreatureTextMgr.html#aeddebd7d3fcf604ee4d11b77ff87fd53":[6,0,919,3],
-"dc/d82/cs__modify_8cpp.html":[7,0,0,0,1,3,0,31],
-"dc/d82/cs__modify_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[7,0,0,0,1,3,0,31,1],
-"dc/d82/structChampionPosition.html":[6,0,828],
-"dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602":[6,0,828,0]
+"dc/d82/cs__modify_8cpp.html":[7,0,0,0,1,3,0,31]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a35da2de3288022df68a6ba7c06601d5d":[7,0,0,0,1,3,5,2,0,4,2,2],
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a468d0a3a423de419ece3beb913b394b7":[7,0,0,0,1,3,5,2,0,4,2,0],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6ae1c8240ded32778398e4d21c1f2f3c":[7,0,0,0,1,3,5,2,0,4,2,5],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa3010bc7cfd18a85fdd33053d073a204":[7,0,0,0,1,3,5,2,0,4,2,4],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aaf6999381a76e86e3b9c7982815b18ef":[7,0,0,0,1,3,5,2,0,4,2,8],
@@ -178,8 +180,8 @@ var NAVTREEINDEX97 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1017,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1017,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1017,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,30,6,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ae9c1e204ed846b77a118bae352a16a0a":[6,0,1788,0,13],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#aeb8bb46e75506889ddb1f32c7846618d":[6,0,1788,0,1],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#af5a78c00f2df9a6e7f810821e478b334":[6,0,1788,0,0],
-"d3/d5d/classinstance__naxxramas.html":[6,0,1293],
-"d3/d5d/classinstance__naxxramas.html#a9d4b57f9f0f7a44565bb8d9bd3aa24a1":[6,0,1293,1],
-"d3/d5d/classinstance__naxxramas.html#ac5dd8d591af2239faab17727eb1ef66e":[6,0,1293,2]
+"d3/d5d/classinstance__naxxramas.html":[6,0,1293]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112":[7,0,0,0,1,3,7,3,1,5,13],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4":[7,0,0,0,1,3,7,3,1,5,8],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd":[7,0,0,0,1,3,7,3,1,5,24],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e":[7,0,0,0,1,3,7,3,1,5,22],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,3,1,5,0],
@@ -24,10 +26,10 @@ var NAVTREEINDEX104 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,1,39],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,27,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,1,39,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,27,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,39,2],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,39,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,27,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,27,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,39,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,1,39,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[6,0,0,27,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[6,0,2631],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/da4/classgo__pirate__day__music.html#a3bce105696415c9a31c5cbeb9607fa95":[6,0,1146,2],
 "d3/da4/classgo__pirate__day__music.html#aa8d19102357639bd160eae9e90a87505":[6,0,1146,1],
 "d3/da4/classspell__item__scroll__of__retribution.html":[6,0,3228],
-"d3/da4/classspell__item__scroll__of__retribution.html#a7d6187a7aa8f8d67efe15ffc74fa1873":[6,0,3228,1],
-"d3/da4/classspell__item__scroll__of__retribution.html#ac08a5b38ac3012ad31c8ecdf4ca36585":[6,0,3228,0],
-"d3/da5/classspell__vael__burning__adrenaline.html":[6,0,3850]
+"d3/da4/classspell__item__scroll__of__retribution.html#a7d6187a7aa8f8d67efe15ffc74fa1873":[6,0,3228,1]
 };

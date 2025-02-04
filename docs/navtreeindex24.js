@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d1/d06/classinstance__halls__of__stone.html#ad0237cfaf2e48036f45181fd7746df2b":[6,0,1282,1],
 "d1/d06/classinstance__violet__hold.html":[6,0,1330],
 "d1/d06/classinstance__violet__hold.html#ae66f018196cd90683506c3cc3d8c5d7a":[6,0,1330,1],
 "d1/d06/classinstance__violet__hold.html#aeedcbb24b0709bd172ebbbc6d9851532":[6,0,1330,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a37c2769aa31d3170f39072fbfd8e8397":[6,0,2542,301],
 "d1/d16/classSpell.html#a39bddfec4b1d97d380972515a7d26314":[6,0,2542,284],
 "d1/d16/classSpell.html#a3a0cf9d43912ab1fddb649fb081f18ff":[6,0,2542,233],
-"d1/d16/classSpell.html#a3a75cd3b7e1fb468c176e68fc7da279a":[6,0,2542,316],
-"d1/d16/classSpell.html#a3bcd543c6837bec119c5a2f7cb20cecf":[6,0,2542,350]
+"d1/d16/classSpell.html#a3a75cd3b7e1fb468c176e68fc7da279a":[6,0,2542,316]
 };

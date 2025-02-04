@@ -1,5 +1,6 @@
 var NAVTREEINDEX369 =
 {
+"de/deb/structM2Header.html#ad085f18e5d58d1c9a1e3d5b909ac0f56":[6,0,1433,39],
 "de/deb/structM2Header.html#ad1c83cf331351b857c2e7947c676ce97":[6,0,1433,13],
 "de/deb/structM2Header.html#ad7c7e68037544260c32dd858e756d800":[6,0,1433,35],
 "de/deb/structM2Header.html#adb985cadc4bac7834b3d413fb5e47088":[6,0,1433,60],
@@ -176,10 +177,10 @@ var NAVTREEINDEX369 =
 "de/df7/classWorldPackets_1_1Packet.html#a94afc4d66c2b5bced3063bab5a666bfd":[5,0,30,19,6],
 "de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[5,0,30,19,3],
 "de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[6,0,11,19,3],
-"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,11,19,8],
 "de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[5,0,30,19,8],
-"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,11,19,7],
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,11,19,8],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,30,19,7],
+"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,11,19,7],
 "de/df9/classnpc__lk__wicked__spirit.html":[6,0,1899],
 "de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1899,2],
 "de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[6,0,1899,1],
@@ -189,16 +190,16 @@ var NAVTREEINDEX369 =
 "de/df9/classspell__warr__slam.html#a7c6d300e60ed492c82d5c017d3e73ed1":[6,0,3932,3],
 "de/df9/classspell__warr__slam.html#a9a5014de08f73ad5dad29354812030ac":[6,0,3932,4],
 "de/df9/classspell__warr__slam.html#ad2eec86cff225cc0bd806e31596fb127":[6,0,3932,0],
-"de/df9/structVMAP_1_1GModelRayCallback.html":[6,0,9,3],
 "de/df9/structVMAP_1_1GModelRayCallback.html":[5,0,27,3],
+"de/df9/structVMAP_1_1GModelRayCallback.html":[6,0,9,3],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[6,0,9,3,3],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[5,0,27,3,3],
-"de/df9/structVMAP_1_1GModelRayCallback.html#a39bc53ae3bf18800ea215a5a54568606":[6,0,9,3,0],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a39bc53ae3bf18800ea215a5a54568606":[5,0,27,3,0],
-"de/df9/structVMAP_1_1GModelRayCallback.html#ad8861bd8f8c15ff9955c62f5cb1e13bf":[6,0,9,3,2],
+"de/df9/structVMAP_1_1GModelRayCallback.html#a39bc53ae3bf18800ea215a5a54568606":[6,0,9,3,0],
 "de/df9/structVMAP_1_1GModelRayCallback.html#ad8861bd8f8c15ff9955c62f5cb1e13bf":[5,0,27,3,2],
-"de/df9/structVMAP_1_1GModelRayCallback.html#af0072bed861fb89a63c37fd72482ed42":[6,0,9,3,1],
+"de/df9/structVMAP_1_1GModelRayCallback.html#ad8861bd8f8c15ff9955c62f5cb1e13bf":[6,0,9,3,2],
 "de/df9/structVMAP_1_1GModelRayCallback.html#af0072bed861fb89a63c37fd72482ed42":[5,0,27,3,1],
+"de/df9/structVMAP_1_1GModelRayCallback.html#af0072bed861fb89a63c37fd72482ed42":[6,0,9,3,1],
 "de/df9/structVMAP_1_1GModelRayCallback.html#af80815b123c6611f38e3d5b41e501546":[5,0,27,3,4],
 "de/df9/structVMAP_1_1GModelRayCallback.html#af80815b123c6611f38e3d5b41e501546":[6,0,9,3,4],
 "de/dfa/classLogOperation.html":[6,0,1418],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/dff/Position_8h.html":[7,0,0,0,1,2,16,5,9],
 "de/dff/Position_8h.html#a09519787a0405fc17b028180b2da4cdd":[7,0,0,0,1,2,16,5,9,6],
 "de/dff/Position_8h.html#a188cc2956d39298323a99c4aa5ceede6":[7,0,0,0,1,2,16,5,9,9],
-"de/dff/Position_8h.html#a71323635f122d24189054da615cb39e1":[7,0,0,0,1,2,16,5,9,7],
-"de/dff/Position_8h.html#a72e22c3226b5f361848aef2c75a6d3fb":[7,0,0,0,1,2,16,5,9,10]
+"de/dff/Position_8h.html#a71323635f122d24189054da615cb39e1":[7,0,0,0,1,2,16,5,9,7]
 };

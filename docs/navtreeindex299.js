@@ -1,5 +1,8 @@
 var NAVTREEINDEX299 =
 {
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d":[7,0,0,0,1,3,5,9,2,6,36,3],
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648acb69ae4d07badc732a3da4d04686e78b":[7,0,0,0,1,3,5,9,2,6,36,8],
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648ad8db1ac2a3383a88af15f509c492f444":[7,0,0,0,1,3,5,9,2,6,36,6],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648addfac274c9b761b45b7a75e0b3717dab":[7,0,0,0,1,3,5,9,2,6,36,18],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648ae0c9b2106c14b9b97ea4053eb7697658":[7,0,0,0,1,3,5,9,2,6,36,15],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648aedcf0cec60709d2b2aec05cb22776a36":[7,0,0,0,1,3,5,9,2,6,36,12],
@@ -67,10 +70,10 @@ var NAVTREEINDEX299 =
 "dc/d31/classOutdoorPvP__terokkar__forest.html#acf268293812d7a1a233e7f1fcba1e733":[6,0,2316,1],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[6,0,0,5,2,3],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[5,0,1,8,2,3],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[5,0,1,8,2,3,0],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[5,0,1,8,2,3,1],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
 "dc/d32/BuiltInConfig_8h.html":[7,0,0,0,0,2,1],
 "dc/d32/BuiltInConfig_8h.html#a84544d0c16175b62a0894c34fee2b6d7":[7,0,0,0,0,2,1,3],
 "dc/d32/BuiltInConfig_8h.html#abdfee61576e0a7c64d7bb6a516ab69b7":[7,0,0,0,0,2,1,2],
@@ -119,8 +122,8 @@ var NAVTREEINDEX299 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,17],
 "dc/d33/HomeMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,33],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,21],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,33],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,33,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,21,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,21,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d37/classGlobalScript.html#a0140624a479c0d2c0a96050bb6a96bf7":[6,0,1086,16],
 "dc/d37/classGlobalScript.html#a08783ec228e8e3025641a5a2f7474071":[6,0,1086,17],
 "dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7":[6,0,1086,6],
-"dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[6,0,1086,0],
-"dc/d37/classGlobalScript.html#a42cbfd8f6c10feb1012b7e5dad67ef84":[6,0,1086,11],
-"dc/d37/classGlobalScript.html#a43efa65b032111032e290371a0df0a60":[6,0,1086,2],
-"dc/d37/classGlobalScript.html#a782994a96188e1540e03b9481f4ee93d":[6,0,1086,18]
+"dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[6,0,1086,0]
 };

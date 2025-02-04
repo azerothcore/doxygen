@@ -1,5 +1,8 @@
 var NAVTREEINDEX312 =
 {
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a":[7,0,0,0,1,3,2,6,0,32,9],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaae9b9660563d2096d35cce6e540a8ad92":[7,0,0,0,1,3,2,6,0,32,8],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842":[7,0,0,0,1,3,2,6,0,32,15],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaef0f2fd9d58d9ccb6e04f28bac92cebc":[7,0,0,0,1,3,2,6,0,32,7],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7":[7,0,0,0,1,3,2,6,0,32,14],
 "dc/dec/chapter1_8cpp.html#ad2b494eedadd51ebe87fbe351fa1dc3b":[7,0,0,0,1,3,2,6,0,33],
@@ -128,14 +131,14 @@ var NAVTREEINDEX312 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,3939,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,3939,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,3939,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,745],
@@ -246,8 +249,5 @@ var NAVTREEINDEX312 =
 "dc/dfe/classspell__rog__prey__on__the__weak.html#ad5cc7a5aa1164092f267071c82752bb5":[6,0,3660,3],
 "dc/dfe/classspell__rog__prey__on__the__weak.html#ae151331af09510cc91b63b65a30bdcbf":[6,0,3660,1],
 "dc/dff/classnpc__spirit__warden.html":[6,0,2093],
-"dc/dff/classnpc__spirit__warden.html#ab33ab494d7fee64eed7c75464ce60489":[6,0,2093,2],
-"dc/dff/classnpc__spirit__warden.html#ab585d20eadb7876752d731702db44293":[6,0,2093,1],
-"dc/dff/instance__uldaman_8cpp.html":[7,0,0,0,1,3,2,14,0],
-"dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,14,0,6]
+"dc/dff/classnpc__spirit__warden.html#ab33ab494d7fee64eed7c75464ce60489":[6,0,2093,2]
 };

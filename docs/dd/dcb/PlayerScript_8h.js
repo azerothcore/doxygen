@@ -178,6 +178,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_CAN_SEND_ERROR_ALREADY_LOOTED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7bb8eb90ca195c4a126c319072b92de6", null ],
       [ "PLAYERHOOK_ON_AFTER_CREATURE_LOOT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac0399502c9c935fec9513ecfde9a28ce", null ],
       [ "PLAYERHOOK_ON_AFTER_CREATURE_LOOT_MONEY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a19afa7b760fabff04425d40c21f03cb9", null ],
+      [ "PLAYERHOOK_CAN_RESURRECT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1cd44b42c86b09f221025742a6262c1c", null ],
       [ "PLAYERHOOK_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

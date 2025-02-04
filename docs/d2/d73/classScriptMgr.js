@@ -42,6 +42,7 @@ var classScriptMgr =
     [ "CanPacketReceive", "d2/d73/classScriptMgr.html#ac756c6fba0cc477d4d383dd70448400b", null ],
     [ "CanPacketSend", "d2/d73/classScriptMgr.html#a483dbd524161ad219cded3dd1b76b384", null ],
     [ "CanPlaceAuctionBid", "d2/d73/classScriptMgr.html#acf458514a40ecf55f61b03a5587dac30", null ],
+    [ "CanPlayerResurrect", "d2/d73/classScriptMgr.html#a22b2df842b3b345ce4ebcd3e3c6c93e4", null ],
     [ "CanPlayerUseChat", "d2/d73/classScriptMgr.html#ab0ce5f71226aa77ad2263c18b9f59264", null ],
     [ "CanPlayerUseChat", "d2/d73/classScriptMgr.html#ab026cd204752b57fb90e2e091d72be11", null ],
     [ "CanPlayerUseChat", "d2/d73/classScriptMgr.html#a1f87572894535133da68960878f2d599", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX191 =
 {
+"d7/d83/structboss__nexusprince__shaffar.html#aa7d55363fe9a326dc86bd4f4076d12ab":[6,0,623,9],
+"d7/d83/structboss__nexusprince__shaffar.html#ab806564e96708ca12f444249abd3c88c":[6,0,623,7],
 "d7/d83/structboss__nexusprince__shaffar.html#abf2fef0888bced83511883027bf4d500":[6,0,623,1],
 "d7/d83/structboss__nexusprince__shaffar.html#ad5dd5ab4178d968146e2205e60c49d07":[6,0,623,4],
 "d7/d83/structboss__nexusprince__shaffar.html#af28242e0c0f2dcbfb2fb16514d912200":[6,0,623,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d91/classboss__gorosh__the__dervish.html#abae1fa2a7e959d1b7b02e0850aff4fb9":[6,0,487,2],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html":[6,0,3579],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3579,2],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3579,0],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3579,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0]
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3579,0]
 };

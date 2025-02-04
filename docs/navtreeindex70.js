@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2063,2],
+"d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2063,1],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html":[6,0,725,0],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#a09ee3373177e84a5e4e51ebb48c68525":[6,0,725,0,5],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html#a3e7d07ca6fc8f4619173f3fd74d63ccb":[6,0,725,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca64fa5cae680bc2acf65e23eb510b2244":[7,0,0,0,1,3,5,16,3,1],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1":[7,0,0,0,1,3,5,16,2],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1a1f9b133b8099adbb89d16b5c66ba7d9c":[7,0,0,0,1,3,5,16,2,3],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1a5aa0e8b45a38734a0451f4ac204af779":[7,0,0,0,1,3,5,16,2,2],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872":[7,0,0,0,1,3,5,16,2,0],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa":[7,0,0,0,1,3,5,16,2,1]
+"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1a5aa0e8b45a38734a0451f4ac204af779":[7,0,0,0,1,3,5,16,2,2]
 };

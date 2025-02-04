@@ -1,5 +1,8 @@
 var NAVTREEINDEX237 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5362c2b7323691df788ef25e53663524":[7,0,0,0,1,3,5,9,2,1,25,26],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5949b1c30a471dc572ce9b2df0a346e7":[7,0,0,0,1,3,5,9,2,1,25,15],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5b1ab91c8e24e9fdea9ae5a64054dc87":[7,0,0,0,1,3,5,9,2,1,25,11],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a65b2cba0455bd641540532cebca2cbe4":[7,0,0,0,1,3,5,9,2,1,25,31],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a7097ac23e5856e8690ade607bd710d12":[7,0,0,0,1,3,5,9,2,1,25,4],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a73813ca4b299deb50b9f1daf22f5066e":[7,0,0,0,1,3,5,9,2,1,25,27],
@@ -246,8 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4":[6,0,587,11],
 "d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a":[6,0,587,8],
 "d9/d98/structboss__magtheridon.html#adca91ab2fbfe88cc79b19aaa4bff74cf":[6,0,587,2],
-"d9/d98/structboss__magtheridon.html#ae9b2f0929c2309e6bd57cc1241452d61":[6,0,587,6],
-"d9/d98/structboss__magtheridon.html#af860281db4d20e3d3b9589657c921a50":[6,0,587,13],
-"d9/d98/zulaman_8h.html":[7,0,0,0,1,3,2,15,8],
-"d9/d98/zulaman_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,15,8,0]
+"d9/d98/structboss__magtheridon.html#ae9b2f0929c2309e6bd57cc1241452d61":[6,0,587,6]
 };

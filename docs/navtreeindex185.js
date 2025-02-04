@@ -1,5 +1,7 @@
 var NAVTREEINDEX185 =
 {
+"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
+"d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,27,10,5],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3700],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a241b65bdcb6aefa4e37b61c5007149f6":[6,0,3700,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d3a/classspell__pal__holy__shock.html#a4b67c348685a8094668e4ed2f0c78446":[6,0,3450,4],
 "d7/d3a/classspell__pal__holy__shock.html#a6acb46e81171e13f50ac1f01bf83013b":[6,0,3450,3],
 "d7/d3a/classspell__pal__holy__shock.html#adbb58b75232560d101b291c0d99a2a20":[6,0,3450,2],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html":[6,0,566,0],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a613441fcb7bd851a03729be84d27650c":[6,0,566,0,7],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a68a4994c750979b91e46160b0cba77b4":[6,0,566,0,10]
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html":[6,0,566,0]
 };

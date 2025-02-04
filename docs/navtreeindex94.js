@@ -1,5 +1,7 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a8996079eb80d4dcb1699d52cd73ac7":[7,0,0,0,1,1,0,0,5,1,60],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4bea2ddbac89587f89839fa64ef7373b":[7,0,0,0,1,1,0,0,5,1,8],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dadde7df4c0d545ef06c92d5fcd4ffa":[7,0,0,0,1,1,0,0,5,1,58],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dc6d4105ca603ac701174501c3f439e":[7,0,0,0,1,1,0,0,5,1,24],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a50184b271468f8fa3314e5dfcaa50fd7":[7,0,0,0,1,1,0,0,5,1,49],
@@ -247,7 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d2c/namespaceGitRevision.html#a1062fcec3676f562803f4775d95a9594":[5,0,17,13],
 "d3/d2c/namespaceGitRevision.html#a10817e6a26ea352c0f79233d2ef552a8":[5,0,17,5],
 "d3/d2c/namespaceGitRevision.html#a13f3b200d2427f6546ebddd3b54b7fcf":[5,0,17,11],
-"d3/d2c/namespaceGitRevision.html#a51523316de8184739b710e472a8ce843":[5,0,17,1],
-"d3/d2c/namespaceGitRevision.html#a631c2811f3f8b72a16dfa2ceb7c4cb42":[5,0,17,6],
-"d3/d2c/namespaceGitRevision.html#a72b700a0bbbdb2829e283fe892f1ba51":[5,0,17,4]
+"d3/d2c/namespaceGitRevision.html#a51523316de8184739b710e472a8ce843":[5,0,17,1]
 };

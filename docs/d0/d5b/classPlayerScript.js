@@ -27,6 +27,7 @@ var classPlayerScript =
     [ "CanJoinInBattlegroundQueue", "d0/d5b/classPlayerScript.html#a8d3a7ca0be9205af9b8027ae95267a03", null ],
     [ "CanJoinLfg", "d0/d5b/classPlayerScript.html#a2f5d7acdc259072f72b766dd2782e3db", null ],
     [ "CanPlaceAuctionBid", "d0/d5b/classPlayerScript.html#aa210d6f295b37a0921ac4d010451205c", null ],
+    [ "CanPlayerResurrect", "d0/d5b/classPlayerScript.html#a688313b88d2308f788f45051c548ef20", null ],
     [ "CanPlayerUseChat", "d0/d5b/classPlayerScript.html#a462d4a327ad5cd55f6856a55dfe4a5ee", null ],
     [ "CanPlayerUseChat", "d0/d5b/classPlayerScript.html#a00d337a8c8539361295e37d3f705aae9", null ],
     [ "CanPlayerUseChat", "d0/d5b/classPlayerScript.html#acb937451d4f225d7983937b87859d7a7", null ],

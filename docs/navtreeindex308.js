@@ -1,5 +1,8 @@
 var NAVTREEINDEX308 =
 {
+"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
+"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18],
+"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,7,13],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a166f226fccae20bae418e894a1786e67":[7,0,0,0,1,3,2,16,7,13,5],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a17b3f7ce0f4341cf08035090bd0ca78d":[7,0,0,0,1,3,2,16,7,13,3],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a1e6ef792a2053eb1a67a79c9f9e284e5":[7,0,0,0,1,3,2,16,7,13,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dcb/classnpc__jungle__punch__target.html#abb38ccb55abfe0f48f360469031c6902":[6,0,1874,2],
 "dc/dcc/structnpc__shattrath__daily__quest.html":[6,0,2075],
 "dc/dcc/structnpc__shattrath__daily__quest.html#ab6aa71e4738fdce1b59d379249a868d5":[6,0,2075,0],
-"dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[6,0,2075,1],
-"dc/dcf/classVerasEnvenom.html":[6,0,4149],
-"dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[6,0,4149,1],
-"dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[6,0,4149,3]
+"dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[6,0,2075,1]
 };

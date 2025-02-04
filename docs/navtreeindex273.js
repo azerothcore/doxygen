@@ -1,5 +1,8 @@
 var NAVTREEINDEX273 =
 {
+"db/d4f/structMinionInfo.html":[6,0,1476],
+"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[6,0,1476,1],
+"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[6,0,1476,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html":[6,0,3013],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a2e4fa91ed7b3270a1addb8e5b3a85d74":[6,0,3013,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a53c56711e31500f827123c08f44072cb":[6,0,3013,3],
@@ -86,8 +89,8 @@ var NAVTREEINDEX273 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,30,5,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,5,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,30,5,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,5,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,30,5,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,5,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,30,5,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2188,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6":[6,0,2554,1],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#acd911f78780e052d88f5f47574092d62":[6,0,2554,2],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#af7426e99a49f8618fc38242ded7132f1":[6,0,2554,0],
-"db/d5d/classspell__pri__mind__sear.html":[6,0,3489],
-"db/d5d/classspell__pri__mind__sear.html#a23c7b977f7e213322b3702367d6a28c7":[6,0,3489,0],
-"db/d5d/classspell__pri__mind__sear.html#a7000b2fd940c914933c486e847932b62":[6,0,3489,1],
-"db/d5d/classspell__pri__mind__sear.html#a870ee08d0341f6640710a87c97a6b98b":[6,0,3489,2]
+"db/d5d/classspell__pri__mind__sear.html":[6,0,3489]
 };

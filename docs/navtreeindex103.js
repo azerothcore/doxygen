@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"d3/d92/classboss__grand__champion.html":[6,0,489],
+"d3/d92/classboss__grand__champion.html#a9577f8af5e234b3aebd7567841b867e2":[6,0,489,1],
 "d3/d92/classboss__grand__champion.html#aa60972482ef16329d7ffc0a7ccf2d03e":[6,0,489,2],
 "d3/d93/classPathGenerator.html":[6,0,2345],
 "d3/d93/classPathGenerator.html#a013d4342d677780f62a0e2404de4caa8":[6,0,2345,57],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,3,1,5,4],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163":[7,0,0,0,1,3,7,3,1,5,12],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df":[7,0,0,0,1,3,7,3,1,5,14],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f":[7,0,0,0,1,3,7,3,1,5,9],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112":[7,0,0,0,1,3,7,3,1,5,13],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4":[7,0,0,0,1,3,7,3,1,5,8]
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f":[7,0,0,0,1,3,7,3,1,5,9]
 };

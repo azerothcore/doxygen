@@ -1,5 +1,7 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada4a98b6e61667225f497d8365630e72df":[7,0,0,0,1,3,5,2,1,1,46,3],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada5540d6687faadb9887397324b33591ed":[7,0,0,0,1,3,5,2,1,1,46,1],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada72998a4d83035498eb434a926b3c605c":[7,0,0,0,1,3,5,2,1,1,46,4],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada8a7a86cecbd82f651dc88384ca189df3":[7,0,0,0,1,3,5,2,1,1,46,6],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[7,0,0,0,1,3,5,2,1,1,46,0],
@@ -201,14 +203,14 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,2939,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,2939,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2939,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,835],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[6,0,835,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[6,0,835,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[6,0,2688],
 "d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a01e31df6c6ec9f6ae5bffb4b435caf8e":[6,0,2688,2],
 "d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a29bf443cdb53b10032ba382b8ae44828":[6,0,2688,0],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[6,0,2688,1],
-"d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html":[6,0,780,0],
-"d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a43d12c19425f3caa56a9732774b6f943":[6,0,780,0,2]
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[6,0,2688,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX210 =
 {
+"d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a14523a24042d23efbafc7924f394dd04":[6,0,2069,0,3],
+"d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a2deaa1aeed26b862e93055d90c9139d6":[6,0,2069,0,7],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a9bcbd0b0b6b12058a8356ce274b6a597":[6,0,2069,0,1],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad":[6,0,2069,0,2],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#ae5cd38aa2a9cc1727141298323639660":[6,0,2069,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d45/classnpc__adventurous__dwarf.html#ac3f124fab8520a16ccd73e058a0383b1":[6,0,1535,2],
 "d8/d45/classnpc__adventurous__dwarf.html#aebb2cd209f71d8ab56a29e5bfd668def":[6,0,1535,4],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html":[6,0,578,0],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a1abcf157e05eeb634f8e857a2de35538":[6,0,578,0,3],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a37ef117714403002afb4faa4978f136b":[6,0,578,0,12],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a4dac78bba24069050dd9df729dd58b45":[6,0,578,0,5]
+"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a1abcf157e05eeb634f8e857a2de35538":[6,0,578,0,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[6,0,3271],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[6,0,3271,2],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[6,0,3271,1],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[6,0,3271,3],
@@ -39,10 +40,10 @@ var NAVTREEINDEX375 =
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,97],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,85,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,97,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,97,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,85,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,97,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,97,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,85,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,97,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,97,3],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,85,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3101],
@@ -177,14 +178,14 @@ var NAVTREEINDEX375 =
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,5,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,30,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,5,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,30,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,5,40,2],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,30,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,30,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,30,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,30,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,5,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,30,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,30,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,5,40,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,26,9],
 "df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601":[6,0,26,2],
 "df/d30/classspell__auchenai__possess.html":[6,0,2579],
-"df/d30/classspell__auchenai__possess.html#a7a34b9bd77cd1f15a1cd7954d76d80d0":[6,0,2579,0],
-"df/d30/classspell__auchenai__possess.html#aa35fc5865f108712e450661e67c384ce":[6,0,2579,3]
+"df/d30/classspell__auchenai__possess.html#a7a34b9bd77cd1f15a1cd7954d76d80d0":[6,0,2579,0]
 };

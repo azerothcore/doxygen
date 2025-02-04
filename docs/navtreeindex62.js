@@ -1,5 +1,6 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#afc2a956efc9b40bee79bb220105e7b0c":[6,0,2365,140],
 "d2/d4b/classPlayer.html#afc7fc2d7e2f235a45fdf36c823cdeb32":[6,0,2365,746],
 "d2/d4b/classPlayer.html#afc9db3638895abd0ba684e648b5f1220":[6,0,2365,409],
 "d2/d4b/classPlayer.html#afcaa46bf862fd0a9f1b788c8a4a4ce97":[6,0,2365,1201],
@@ -248,6 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,3817,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,3817,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3817,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,30,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3]
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,30,0,3]
 };

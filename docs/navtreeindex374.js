@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a622e274f53c8d18661f3997af38c99ac":[7,0,0,0,1,2,16,5,0,4,6,216],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a62bb19b832db89226e9dbff5aa5096de":[7,0,0,0,1,2,16,5,0,4,6,21],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a62d7f81e6666500d36310c8cc3c21bfe":[7,0,0,0,1,2,16,5,0,4,6,215],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a63e75ffbe278d996f62d8f4ac29e0411":[7,0,0,0,1,2,16,5,0,4,6,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fab399837e3e7e2c2a23e9c906e197e51a":[7,0,0,0,1,2,16,5,0,4,3,3],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66":[7,0,0,0,1,2,16,5,0,4,3,2],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf":[7,0,0,0,1,2,16,5,0,4,3,7],
-"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[7,0,0,0,1,2,16,5,0,4,3,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[6,0,3271]
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[7,0,0,0,1,2,16,5,0,4,3,1]
 };

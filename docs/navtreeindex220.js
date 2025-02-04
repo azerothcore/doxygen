@@ -1,5 +1,7 @@
 var NAVTREEINDEX220 =
 {
+"d8/dab/SpellAuras_8cpp.html#a49c1eff45f8eb67e523f8593923a5df0":[7,0,0,0,1,2,41,0,3,0],
+"d8/dab/classspell__oculus__soar__aura.html":[6,0,3424],
 "d8/dab/classspell__oculus__soar__aura.html#a09481646f8ec90b0135d93d83cc18929":[6,0,3424,4],
 "d8/dab/classspell__oculus__soar__aura.html#a3ec47d5d9fdbdcfe671e02c3b0f55980":[6,0,3424,1],
 "d8/dab/classspell__oculus__soar__aura.html#abb453e3d38677be7082f2cd4e43134cc":[6,0,3424,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX220 =
 "d8/dbb/structnpc__pet__gen__plump__turkey.html#af27c91388891add6d00e251bf3187743":[6,0,1983,1],
 "d8/dbb/structnpc__pet__gen__plump__turkey.html#af9e7339416ada0c3bb9829cbd8e1f5d3":[6,0,1983,3],
 "d8/dbc/classspell__najentus__hurl__spine.html":[6,0,3404],
-"d8/dbc/classspell__najentus__hurl__spine.html#a0296aa3d00d0d12e213d95b8520c50dc":[6,0,3404,1],
-"d8/dbc/classspell__najentus__hurl__spine.html#a4cd7135ff9e4ef605635f1eccc01ba65":[6,0,3404,2],
-"d8/dbc/classspell__najentus__hurl__spine.html#ab105ff1efd0fe20585ac3dc6c60f81a2":[6,0,3404,0]
+"d8/dbc/classspell__najentus__hurl__spine.html#a0296aa3d00d0d12e213d95b8520c50dc":[6,0,3404,1]
 };

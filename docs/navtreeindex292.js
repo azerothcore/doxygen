@@ -1,5 +1,8 @@
 var NAVTREEINDEX292 =
 {
+"db/df7/structnpc__twilight__volunteer.html#a4f27ae97ccf2c349a6352a0f5ba1681a":[6,0,2173,4],
+"db/df7/structnpc__twilight__volunteer.html#a8350dba2c41754a2e5d15c94731ef27d":[6,0,2173,7],
+"db/df7/structnpc__twilight__volunteer.html#a93288a45982b172c201e2442a4c91114":[6,0,2173,5],
 "db/df7/structnpc__twilight__volunteer.html#abc2e12fb7be5b1a7dabc4c2211e7de13":[6,0,2173,1],
 "db/df7/structnpc__twilight__volunteer.html#abd88e6fe0565babb92ccae17df0421d6":[6,0,2173,3],
 "db/df7/structnpc__twilight__volunteer.html#ad58453e078520fa23238a96115e5f38f":[6,0,2173,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX292 =
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a182dca1aea22740c6bbf97565396b6ee":[7,0,0,0,1,3,9,8,96,1],
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,96,0],
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90d":[7,0,0,0,1,3,9,8,97],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dad9f6131e9a41f30d6544aa1332442dcc":[7,0,0,0,1,3,9,8,97,1],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dade1a3bebfdcf08232b4fbf12b11de8a1":[7,0,0,0,1,3,9,8,97,0],
-"db/dfb/structnpc__ashtongue__sorcerer.html":[6,0,1584]
+"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2]
 };

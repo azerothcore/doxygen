@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d5c/classspell__deathbringer__blood__nova__targeting.html#acebf4a9f8c4cdd6111ae816d7c24b00f":[6,0,2683,0],
 "df/d5c/structboss__crone.html":[6,0,397],
 "df/d5c/structboss__crone.html#a247db7fc1329ef00e48fd9bd09fb27a1":[6,0,397,6],
 "df/d5c/structboss__crone.html#a3795fe3185005693ed9bba49177bb35a":[6,0,397,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,0,0,18],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca028bd456c32bff29e8587a05b5c71a25":[7,0,0,0,1,3,5,1,0,0,18,13],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca039181f529575fd1e4fe2c9a3e8b3b3c":[7,0,0,0,1,3,5,1,0,0,18,14],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca061d5a2b10ffdfefcd8d2b9500b34eb4":[7,0,0,0,1,3,5,1,0,0,18,17],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca099376550328e9ee8ad3d3b6a238cbc8":[7,0,0,0,1,3,5,1,0,0,18,18]
+"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca061d5a2b10ffdfefcd8d2b9500b34eb4":[7,0,0,0,1,3,5,1,0,0,18,17]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#ade0645763bee2a3f6c41ba9d3efcd4a9":[7,0,0,0,1,2,14,1,130],
+"d2/df6/DBCStores_8h.html#adff3a199c893023323a04e8c6c35ddef":[7,0,0,0,1,2,14,1,100],
 "d2/df6/DBCStores_8h.html#ae1befbcddb5f7115c1d06a15e379aafa":[7,0,0,0,1,2,14,1,85],
 "d2/df6/DBCStores_8h.html#ae1da802bd48a4bf2cce40a8b9e4c1cb9":[7,0,0,0,1,2,14,1,83],
 "d2/df6/DBCStores_8h.html#ae33f72acc556851465786fd8cfd961d6":[7,0,0,0,1,2,14,1,92],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d06/classDBCStorageBase.html#aa9bebefe18610016bef2c7d087d20abe":[6,0,940,11],
 "d3/d06/classDBCStorageBase.html#ab13a1018e69345a3665f50d696bc7236":[6,0,940,10],
 "d3/d06/classDBCStorageBase.html#ab333cdbf4cb7c6f527045902256fdf2f":[6,0,940,3],
-"d3/d06/classDBCStorageBase.html#abea56cf48880a3ae02d322b6283032b4":[6,0,940,6],
-"d3/d06/classDBCStorageBase.html#ad688053187f77a4a016274f7e46a76a3":[6,0,940,0],
-"d3/d06/classPuppet.html":[6,0,2412]
+"d3/d06/classDBCStorageBase.html#abea56cf48880a3ae02d322b6283032b4":[6,0,940,6]
 };

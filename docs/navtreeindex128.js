@@ -1,5 +1,7 @@
 var NAVTREEINDEX128 =
 {
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb2b28327a5995b68c94b771aa9aa6ac":[7,0,0,0,1,3,2,1,2,6,14,24],
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebf40c0febf91ccc4264dde0d5d6a4ed":[7,0,0,0,1,3,2,1,2,6,14,17],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed5a38cb40a4b968186fc9666da7fa1c":[7,0,0,0,1,3,2,1,2,6,14,19],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,2,1,2,6,14,6],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af40681055e7d8de688575d82fc637cd9":[7,0,0,0,1,3,2,1,2,6,14,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfae1f0efa4026f86ebb692786585cec455":[7,0,0,0,1,3,5,2,1,1,38,0],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cad":[7,0,0,0,1,3,5,2,1,1,46],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada0a80478ad8e7cc8360bb5fc47d26149c":[7,0,0,0,1,3,5,2,1,1,46,7],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,2,1,1,46,5],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada4a98b6e61667225f497d8365630e72df":[7,0,0,0,1,3,5,2,1,1,46,3],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada5540d6687faadb9887397324b33591ed":[7,0,0,0,1,3,5,2,1,1,46,1]
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,2,1,1,46,5]
 };

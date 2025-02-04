@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d9/dbf/classGhoulTargetCheck.html#acd743b2b1407c5171fbf410a02ff07bf":[6,0,1083,0],
+"d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1733],
+"d9/dbf/classnpc__engineering__tele__trinket.html#a4d7125cf0333d4e5ebc299019c8feb1a":[6,0,1733,3],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a8a35f1c09a9df609561e76f4ed578647":[6,0,1733,1],
 "d9/dbf/classnpc__engineering__tele__trinket.html#ab891a8378a7b1b63151d05801b8b2fd1":[6,0,1733,0],
 "d9/dbf/classnpc__engineering__tele__trinket.html#ad11f576fb7efad0f6ea4cf22d3bc4e59":[6,0,1733,2],
@@ -30,8 +33,8 @@ var NAVTREEINDEX240 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1183,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1183,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1183,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
@@ -144,8 +147,8 @@ var NAVTREEINDEX240 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dc8/classDialogueHelper.html#a50e652ca2cff035d8c79517fdbcfc67a":[6,0,959,3],
 "d9/dc8/classDialogueHelper.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af":[6,0,959,2],
 "d9/dc8/classDialogueHelper.html#a79e80634f1780895669f5c810958fd4f":[6,0,959,4],
-"d9/dc8/classDialogueHelper.html#a89ca5e8d25372bd8ab32322a0a9999f2":[6,0,959,7],
-"d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,959,1],
-"d9/dc8/classDialogueHelper.html#ac16b8b9b50e8b35980d21f161bf33340":[6,0,959,5],
-"d9/dc8/classboss__deathbringer__saurfang.html":[6,0,405]
+"d9/dc8/classDialogueHelper.html#a89ca5e8d25372bd8ab32322a0a9999f2":[6,0,959,7]
 };

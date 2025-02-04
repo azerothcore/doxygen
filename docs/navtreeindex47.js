@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a460785efc1ddd5d7e472fc61340cb9aaadbff08f49ac1cc5a8d187d2b226b31b6":[7,0,0,0,1,3,9,2,148,3],
 "d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282f":[7,0,0,0,1,3,9,2,185],
 "d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282fa9c3c0a83e9c0120368033ced1854cc0d":[7,0,0,0,1,3,9,2,185,1],
 "d1/de4/spell__generic_8cpp.html#a5d1e6047340140c75784f9e56b18282faeebf03245cd3e2adebc022e09fcb1db4":[7,0,0,0,1,3,9,2,185,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/de9/classnpc__captain__saeed.html#a8a5bee9f908b10451b8d4720dff85670":[6,0,1648,1],
 "d1/de9/classnpc__captain__saeed.html#a8ace4d924b6f33312d914fb6ce1e0ea6":[6,0,1648,4],
 "d1/de9/classnpc__captain__saeed.html#aa6a232f6c2dd39483273cac41af9a7d7":[6,0,1648,2],
-"d1/de9/classspell__garfrost__permafrost.html":[6,0,2840],
-"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[6,0,2840,1]
+"d1/de9/classspell__garfrost__permafrost.html":[6,0,2840]
 };

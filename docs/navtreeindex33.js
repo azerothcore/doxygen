@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"d1/d59/structboss__headless__horseman__pumpkin.html":[6,0,508],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,508,6],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,508,2],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,508,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,10,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,695],
 "d1/d62/classboss__steelbreaker.html#ac4189ffbba997719fb36a10ecdabd26c":[6,0,695,2],
-"d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,695,1],
-"d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1]
+"d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,695,1]
 };

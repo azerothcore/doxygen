@@ -1,5 +1,8 @@
 var NAVTREEINDEX313 =
 {
+"dc/dff/classnpc__spirit__warden.html#ab585d20eadb7876752d731702db44293":[6,0,2093,1],
+"dc/dff/instance__uldaman_8cpp.html":[7,0,0,0,1,3,2,14,0],
+"dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,14,0,6],
 "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e":[7,0,0,0,1,3,2,14,0,6,1],
 "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63":[7,0,0,0,1,3,2,14,0,6,0],
 "dc/dff/instance__uldaman_8cpp.html#a66d92c60f732b1d4d9e366b9f2529bc5":[7,0,0,0,1,3,2,14,0,7],
@@ -160,10 +163,10 @@ var NAVTREEINDEX313 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3044,2],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,18,15],
 "dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,18,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
+"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,18,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,18,15,0],
@@ -213,8 +216,8 @@ var NAVTREEINDEX313 =
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[6,0,11,5,10,0],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,30,5,10,3],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[6,0,11,5,10,3],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,30,5,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[6,0,11,5,10,4],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,30,5,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,30,5,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[6,0,11,5,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[5,0,30,5,10,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX313 =
 "dd/d0d/structgo__heat_1_1go__heatAI.html":[6,0,1129,0],
 "dd/d0d/structgo__heat_1_1go__heatAI.html#a2332206ee47b2cea9e4707d16ea79325":[6,0,1129,0,1],
 "dd/d0d/structgo__heat_1_1go__heatAI.html#a40e4ec3294126aaf3fc6875aa8b39f0a":[6,0,1129,0,0],
-"dd/d0d/structgo__heat_1_1go__heatAI.html#a4f01692c9f39e2a40d2d5f9c22e0ac43":[6,0,1129,0,2],
-"dd/d0e/Threading_8h.html":[7,0,0,0,0,14,7],
-"dd/d0e/Threading_8h.html#a98ce3c3a6bb5eee03a544054eae9f9f0":[7,0,0,0,0,14,7,2],
-"dd/d0e/Threading_8h.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0":[7,0,0,0,0,14,7,2,1]
+"dd/d0d/structgo__heat_1_1go__heatAI.html#a4f01692c9f39e2a40d2d5f9c22e0ac43":[6,0,1129,0,2]
 };

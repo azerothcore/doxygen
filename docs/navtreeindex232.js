@@ -1,5 +1,8 @@
 var NAVTREEINDEX232 =
 {
+"d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3387],
+"d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[6,0,3387,0],
+"d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[6,0,3387,1],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a994bb1f4670d16f6797b9e0df1d8c36c":[6,0,3387,2],
 "d9/d5b/classspell__summon__ice__spear__delayer.html":[6,0,3759],
 "d9/d5b/classspell__summon__ice__spear__delayer.html#ad0eb66e0bab8441e1bb3db42967df7ff":[6,0,3759,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[6,0,2666,1],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[6,0,2666,0],
 "d9/d63/classspell__charge__shield__bomber__aura.html#aa3260fa9a1a918e13ccfc9cd57f59d19":[6,0,2666,3],
-"d9/d63/classspell__destroy__door__seal__aura.html":[6,0,2693],
-"d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[6,0,2693,2],
-"d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[6,0,2693,1],
-"d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[6,0,2693,0]
+"d9/d63/classspell__destroy__door__seal__aura.html":[6,0,2693]
 };

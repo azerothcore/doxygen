@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d4/dd0/classWorldObject.html#a473d569a85885b1ae007e45dac084637":[6,0,4208,157],
+"d4/dd0/classWorldObject.html#a477b02977d6df6435e78374be08523b4":[6,0,4208,154],
 "d4/dd0/classWorldObject.html#a488ffb2c3d4f60c987706f93bc4db611":[6,0,4208,111],
 "d4/dd0/classWorldObject.html#a4941b1936ef66a2d1b3e74a7766cf0b4":[6,0,4208,57],
 "d4/dd0/classWorldObject.html#a4a495dba05e29028f7967ccc08560870":[6,0,4208,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd8/classinstance__mana__tombs.html#a78ca8b378e4ab290f1eea2b2b5799630":[6,0,1289,1],
 "d4/dd8/structAchievementCriteriaData.html":[6,0,109],
 "d4/dd8/structAchievementCriteriaData.html#a0461ba6bbb71d66abeee6dfaa6b81782":[6,0,109,38],
-"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,109,2],
-"d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[6,0,109,39],
-"d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[6,0,109,16]
+"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,109,2]
 };

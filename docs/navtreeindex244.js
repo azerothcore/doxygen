@@ -1,5 +1,8 @@
 var NAVTREEINDEX244 =
 {
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad001561db20966c57a92c84f431f5c0e":[7,0,0,0,1,3,5,9,2,16,7,30],
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad0f4ce2cad8fad01ce1ebb017cb15dcb":[7,0,0,0,1,3,5,9,2,16,7,38],
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad229f7b4841038ed947ca7b7d20db3b5":[7,0,0,0,1,3,5,9,2,16,7,40],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2adb8a723edfa362b53c50a30de6c5ccbf":[7,0,0,0,1,3,5,9,2,16,7,7],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ae17ebc5576dc28e63e7c9970c673abd8":[7,0,0,0,1,3,5,9,2,16,7,32],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ae1813bcce05fa7e0f47cd4c55ff2cc1a":[7,0,0,0,1,3,5,9,2,16,7,8],
@@ -97,14 +100,14 @@ var NAVTREEINDEX244 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1679,0,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,30,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
 "da/d02/classachievement__not__even__a__scratch.html":[6,0,75],
 "da/d02/classachievement__not__even__a__scratch.html#a0d025c09d35c3640016ab42e11dd96eb":[6,0,75,0],
 "da/d02/classachievement__not__even__a__scratch.html#a81f6c9bd36e5a3eea3fe0af24c9f1649":[6,0,75,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX244 =
 "da/d08/classnpc__ulduar__storm__tempered__keeper.html#aaf2ef154cad4f2ba5796e410dabf02fc":[6,0,2204,1],
 "da/d09/VoiceChatHandler_8cpp.html":[7,0,0,0,1,2,22,35],
 "da/d0a/boss__baron__geddon_8cpp.html":[7,0,0,0,1,3,2,1,3,0],
-"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,1,3,0,4],
-"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa5163e38d154f523096097f5146ea2fed":[7,0,0,0,1,3,2,1,3,0,4,0],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,0,6],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e072139138a1aa0f4820669940855a2":[7,0,0,0,1,3,2,1,3,0,6,4]
+"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,1,3,0,4]
 };

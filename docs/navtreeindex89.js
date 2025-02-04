@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a9aede5daebe0cf90ca2091a052c34282":[6,0,1887,0,9],
+"d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a9e36749629568d7917353bee51be08b8":[6,0,1887,0,2],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96":[6,0,1887,0,0],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#aea5af2579f9be13620f15b82b5cc8436":[6,0,1887,0,4],
 "d2/df0/classgo__strange__pool.html":[6,0,1161],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5":[7,0,0,0,1,2,14,1,5,2],
 "d2/df6/DBCStores_8h.html#adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44":[7,0,0,0,1,2,14,1,5,0],
 "d2/df6/DBCStores_8h.html#adc55d123b0d45d7b26ee52be0db5cef1":[7,0,0,0,1,2,14,1,89],
-"d2/df6/DBCStores_8h.html#add156a29e80e01505b1fe906686b0a6e":[7,0,0,0,1,2,14,1,53],
-"d2/df6/DBCStores_8h.html#ade0645763bee2a3f6c41ba9d3efcd4a9":[7,0,0,0,1,2,14,1,130],
-"d2/df6/DBCStores_8h.html#adff3a199c893023323a04e8c6c35ddef":[7,0,0,0,1,2,14,1,100]
+"d2/df6/DBCStores_8h.html#add156a29e80e01505b1fe906686b0a6e":[7,0,0,0,1,2,14,1,53]
 };

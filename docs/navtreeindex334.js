@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[6,0,624,13],
+"dd/dfa/structboss__nightbane.html#a55a8cf6e293b0c7ad3865340412aa31e":[6,0,624,24],
 "dd/dfa/structboss__nightbane.html#a7973791c2410f57ed9bc72b151a35419":[6,0,624,16],
 "dd/dfa/structboss__nightbane.html#a867c09a5802d402db3a4dca7584b6d85":[6,0,624,7],
 "dd/dfa/structboss__nightbane.html#a96d7a6c7fd756c78cb528b738e2f15e6":[6,0,624,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "de/d06/structboss__headless__horseman.html#a076037b8bad3648551997915d97fb9b2":[6,0,506,16],
 "de/d06/structboss__headless__horseman.html#a091a925d7040e29efc54a4c5f123591d":[6,0,506,21],
 "de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[6,0,506,5],
-"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,506,15],
-"de/d06/structboss__headless__horseman.html#a4f791099607d7861cfa193f9b5fc265b":[6,0,506,0],
-"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,506,9]
+"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,506,15]
 };

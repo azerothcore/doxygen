@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd7/classspell__item__mercurial__shield.html#ab923050ce4613538ee4837daba09dd33":[6,0,3202,0],
+"d5/dd7/classspell__sha__spirit__walk.html":[6,0,3716],
 "d5/dd7/classspell__sha__spirit__walk.html#a0efb319154edb2c798460de72d6a56ed":[6,0,3716,1],
 "d5/dd7/classspell__sha__spirit__walk.html#acd6ecb0204dd369c410e465551328f56":[6,0,3716,2],
 "d5/dd7/classspell__sha__spirit__walk.html#aecbecbd753b8ed32d51971a090063ef4":[6,0,3716,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[6,0,1313,0],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[6,0,1313,0,25],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[6,0,1313,0,4],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1313,0,23],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[6,0,1313,0,32],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1313,0,10]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1313,0,23]
 };

@@ -1,6 +1,9 @@
 var NAVTREEINDEX228 =
 {
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[5,0,1,2,6,0],
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[6,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[5,0,1,2,6,1],
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[6,0,0,1,6,1],
 "d9/d0c/SessionKeyGenerator_8h.html":[7,0,0,0,0,3,17],
 "d9/d0c/classnpc__simone.html":[6,0,2080],
 "d9/d0c/classnpc__simone.html#a36d94c5ab6c910cd3853e579d6a5ab5a":[6,0,2080,2],
@@ -58,12 +61,12 @@ var NAVTREEINDEX228 =
 "d9/d13/classAppender.html#ae13f18ba2b26260f64aedc1ce1806fef":[6,0,152,10],
 "d9/d13/classAppender.html#ae6c4e7120a54b7069e157fe9a397d455":[6,0,152,9],
 "d9/d13/classAppender.html#aed555d5a182fefce9bb570201e9f005f":[6,0,152,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[6,0,11,7,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,30,7,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,30,7,2,3],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[6,0,11,7,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[6,0,11,7,2,3],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,30,7,2,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,30,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,30,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,30,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,30,7,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX228 =
 "d9/d26/structSpellLearnSkillNode.html":[6,0,4002],
 "d9/d26/structSpellLearnSkillNode.html#a064fece53cdaf07b072510b14200a968":[6,0,4002,3],
 "d9/d26/structSpellLearnSkillNode.html#a1c882f7d43c65954cb99566225660312":[6,0,4002,2],
-"d9/d26/structSpellLearnSkillNode.html#a1dd2289b0d3505cb50e8613595ad8c8e":[6,0,4002,0],
-"d9/d26/structSpellLearnSkillNode.html#a8bcbe05ff6a3220f9f05f52b16925f5d":[6,0,4002,1],
-"d9/d27/PlayerDump_8h.html":[7,0,0,0,1,2,45,3],
-"d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866":[7,0,0,0,1,2,45,3,3]
+"d9/d26/structSpellLearnSkillNode.html#a1dd2289b0d3505cb50e8613595ad8c8e":[6,0,4002,0]
 };

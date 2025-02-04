@@ -492,6 +492,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ab180d2d7acfd009dc489d9adbdfa5461 inherit pub_methods_classPlayerScript" id="r_ab180d2d7acfd009dc489d9adbdfa5461"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#ab180d2d7acfd009dc489d9adbdfa5461">OnAfterCreatureLootMoney</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *)</td></tr>
 <tr class="memdesc:ab180d2d7acfd009dc489d9adbdfa5461 inherit pub_methods_classPlayerScript"><td class="mdescLeft">&#160;</td><td class="mdescRight">After a creature's money is taken.  <br /></td></tr>
 <tr class="separator:ab180d2d7acfd009dc489d9adbdfa5461 inherit pub_methods_classPlayerScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a688313b88d2308f788f45051c548ef20 inherit pub_methods_classPlayerScript" id="r_a688313b88d2308f788f45051c548ef20"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#a688313b88d2308f788f45051c548ef20">CanPlayerResurrect</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *)</td></tr>
+<tr class="memdesc:a688313b88d2308f788f45051c548ef20 inherit pub_methods_classPlayerScript"><td class="mdescLeft">&#160;</td><td class="mdescRight">This hook is called, to avoid player resurrect.  <br /></td></tr>
+<tr class="separator:a688313b88d2308f788f45051c548ef20 inherit pub_methods_classPlayerScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classScriptObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classScriptObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d9a/classScriptObject.html">ScriptObject</a></td></tr>
 <tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_classScriptObject" id="r_a37da453729d5c8fbe2d06f905563f47c"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/classScriptObject.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
 <tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_classScriptObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -555,7 +558,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a5d8494d3253327375388d02c3c9369b4"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5d8494d3253327375388d02c3c9369b4">PLAYERHOOK_ON_CHAT_WITH_GUILD</a></div><div class="ttdeci">@ PLAYERHOOK_ON_CHAT_WITH_GUILD</div><div class="ttdef"><b>Definition</b> PlayerScript.h:62</div></div>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a722bd16fab1ed25e20ee05b9a6d88938"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a722bd16fab1ed25e20ee05b9a6d88938">PLAYERHOOK_ON_CHAT_WITH_RECEIVER</a></div><div class="ttdeci">@ PLAYERHOOK_ON_CHAT_WITH_RECEIVER</div><div class="ttdef"><b>Definition</b> PlayerScript.h:60</div></div>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a9919efc658a68db165ee470614c879f6"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9919efc658a68db165ee470614c879f6">PLAYERHOOK_ON_CHAT_WITH_CHANNEL</a></div><div class="ttdeci">@ PLAYERHOOK_ON_CHAT_WITH_CHANNEL</div><div class="ttdef"><b>Definition</b> PlayerScript.h:63</div></div>
-<div class="ttc" id="aclassPlayerScript_html"><div class="ttname"><a href="../../d0/d5b/classPlayerScript.html">PlayerScript</a></div><div class="ttdef"><b>Definition</b> PlayerScript.h:211</div></div>
+<div class="ttc" id="aclassPlayerScript_html"><div class="ttname"><a href="../../d0/d5b/classPlayerScript.html">PlayerScript</a></div><div class="ttdef"><b>Definition</b> PlayerScript.h:212</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00058">PLAYERHOOK_ON_CHAT</a>, <a class="el" href="../../#l00063">PLAYERHOOK_ON_CHAT_WITH_CHANNEL</a>, <a class="el" href="../../#l00061">PLAYERHOOK_ON_CHAT_WITH_GROUP</a>, <a class="el" href="../../#l00062">PLAYERHOOK_ON_CHAT_WITH_GUILD</a>, and <a class="el" href="../../#l00060">PLAYERHOOK_ON_CHAT_WITH_RECEIVER</a>.</p>
 
@@ -983,7 +986,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/dbb/classChatLogScript.html">ChatLogScript</a></li>
-    <li class="footer">Generated on Mon Feb 3 2025 06:20:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 4 2025 06:20:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

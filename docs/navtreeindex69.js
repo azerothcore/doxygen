@@ -1,5 +1,7 @@
 var NAVTREEINDEX69 =
 {
+"d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780aa5f25bccbdf5fe7e3a83a91d378418c6":[7,0,0,0,1,2,48,0,6,1],
+"d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780ab36a57fc195a2a254e2fd3d226d60262":[7,0,0,0,1,2,48,0,6,12],
 "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780accfa0e93b6c60e54b97e662630811163":[7,0,0,0,1,2,48,0,6,8],
 "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780aeafefe4d43382b4fd7eefd0d93d300ce":[7,0,0,0,1,2,48,0,6,4],
 "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html":[6,0,2944],
@@ -92,12 +94,12 @@ var NAVTREEINDEX69 =
 "d2/d7d/structLockEntry.html#aed5e58cf605d3c28cd0d26015722be03":[6,0,1411,2],
 "d2/d7e/MMapFactory_8h.html":[7,0,0,0,0,1,0,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868":[7,0,0,0,0,1,0,3,1],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,0],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,0],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html":[7,0,0,0,1,3,7,0,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a0a0bb294821c88853f49c728b9a5fdb2":[7,0,0,0,1,3,7,0,1,1,8],
 "d2/d7e/boss__pandemonius_8cpp.html#a18d62d8f86b7d4023e10d17dce27919f":[7,0,0,0,1,3,7,0,1,1,2],
@@ -198,8 +200,8 @@ var NAVTREEINDEX69 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8b656a464525e881944e72e9486b0eb9":[6,0,1956,0,7],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8ecaebfcf1c1fbe8ed263be6148ccef6":[6,0,1956,0,5],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[6,0,1956,0,4],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
@@ -235,8 +237,8 @@ var NAVTREEINDEX69 =
 "d2/d8b/structArenaTeamStats.html#ab43875cc3ae58eb636a490c2c0f5c1f6":[6,0,186,1],
 "d2/d8b/structArenaTeamStats.html#ad274601b85ea634524b1c00979e09465":[6,0,186,3],
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,52],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,64],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,52],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,52,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,64,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,52,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,52,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,52,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,64,2],
-"d2/d8c/classnpc__scholomance__occultist.html":[6,0,2063],
-"d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2063,2],
-"d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2063,1]
+"d2/d8c/classnpc__scholomance__occultist.html":[6,0,2063]
 };

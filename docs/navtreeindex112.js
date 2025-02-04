@@ -1,5 +1,7 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba9207b6ab86c5514aa8df0f7bc059989e":[7,0,0,0,1,2,8,0,3,23,35],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba9bdcb961555328d07862e2aa433eac6d":[7,0,0,0,1,2,8,0,3,23,36],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaa48397307b0d116c030d58ca7ab09579":[7,0,0,0,1,2,8,0,3,23,42],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaa98c3a5f931d124e32b434fc630e200c":[7,0,0,0,1,2,8,0,3,23,32],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaaca5689179a8fb8ea2861ddde6401285":[7,0,0,0,1,2,8,0,3,23,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX112 =
 "d3/de0/structnpc__chesspiece.html#a346082af6bfba16717680f2fb2cd3bbf":[6,0,1654,3],
 "d3/de0/structnpc__chesspiece.html#a44bfed2f6886e47f687bb0c9a6f3b811":[6,0,1654,23],
 "d3/de0/structnpc__chesspiece.html#a55b4ff6f9f0809680253f4de570403b5":[6,0,1654,2],
-"d3/de0/structnpc__chesspiece.html#a5b85fe5bf6ecf0f379c73950fd80da62":[6,0,1654,26],
-"d3/de0/structnpc__chesspiece.html#a7a2fdfacca506fd7cc1c012c0a5aefbf":[6,0,1654,5],
-"d3/de0/structnpc__chesspiece.html#a8071dc87f9e394408df7d8d51b123040":[6,0,1654,10]
+"d3/de0/structnpc__chesspiece.html#a5b85fe5bf6ecf0f379c73950fd80da62":[6,0,1654,26]
 };

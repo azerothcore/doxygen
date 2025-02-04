@@ -1,5 +1,8 @@
 var NAVTREEINDEX259 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[7,0,0,0,1,3,7,13,38,28],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686":[7,0,0,0,1,3,7,13,38,20],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[7,0,0,0,1,3,7,13,38,13],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[7,0,0,0,1,3,7,13,38,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX259 =
 "da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2743,2],
 "da/db3/structLootView.html":[6,0,1430],
 "da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1430,2],
-"da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1430,0],
-"da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1430,1],
-"da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1430,3],
-"da/db4/classat__commander__dawnforge.html":[6,0,198]
+"da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1430,0]
 };

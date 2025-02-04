@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d87/boss__freya_8cpp.html#af40a0ea076977dd53f7554e3e1f5eb82":[7,0,0,0,1,3,5,9,2,4,39],
 "df/d87/boss__freya_8cpp.html#af5b656fe6ab557fa96123cf784deca59":[7,0,0,0,1,3,5,9,2,4,26],
 "df/d87/boss__freya_8cpp.html#afe08ad9345c9d1f9a2c07d67ea4861d7":[7,0,0,0,1,3,5,9,2,4,31],
 "df/d87/structFireworkShowGameobject.html":[6,0,1026],
@@ -30,12 +31,12 @@ var NAVTREEINDEX382 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,66,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[6,0,0,54,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,66,5],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,54,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,66,1],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,54,3],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,54,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,66,3],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,54,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,54,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,66,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,54,4],
 "df/d88/classspell__hallows__end__trick.html":[6,0,3020],
 "df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[6,0,3020,2],
 "df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[6,0,3020,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6":[6,0,4015,58],
 "df/d92/classSpellScript.html#ac0fd1a4f71242c07aee200b98dda1295":[6,0,4015,11],
 "df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e":[6,0,4015,53],
-"df/d92/classSpellScript.html#ac2c96c7e45658bc2799b6beb486ac144":[6,0,4015,12],
-"df/d92/classSpellScript.html#acaf6e9b3897e4746f65339df351d7cc8":[6,0,4015,41]
+"df/d92/classSpellScript.html#ac2c96c7e45658bc2799b6beb486ac144":[6,0,4015,12]
 };

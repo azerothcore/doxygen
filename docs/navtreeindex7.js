@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d60/SpellDefines_8h.html#a9714315fea51314dc7b5f61e56a03211a2ad272b579814ab99a7e831afdabdc1d":[7,0,0,0,1,2,41,3,8,0],
 "d0/d60/SpellDefines_8h.html#a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb":[7,0,0,0,1,2,41,3,8,1],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967":[7,0,0,0,1,2,41,3,12],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a047db1b783fd12cf86cbc55687456ed7":[7,0,0,0,1,2,41,3,12,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da23c48674cfb86f376ec29a45dfc7bae7":[7,0,0,0,1,3,7,11,8,1],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da3ccb8a60d8d82c84658c9eb76cee2bdb":[7,0,0,0,1,3,7,11,8,10],
 "d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da415a94ee05b8fad2385a6988ab1c554c":[7,0,0,0,1,3,7,11,8,3],
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183":[7,0,0,0,1,3,7,11,8,4],
-"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da8a33a6376ae25b08e61a6c434797a76c":[7,0,0,0,1,3,7,11,8,9]
+"d0/d6a/zone__nagrand_8cpp.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183":[7,0,0,0,1,3,7,11,8,4]
 };

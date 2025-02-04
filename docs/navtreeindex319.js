@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dd/d3b/structGameObjectTemplate.html#ac9efed694b58c5d87011253e7c042efa":[6,0,1071,164],
 "dd/d3b/structGameObjectTemplate.html#aca93e24126a2e25a814206ca961825bb":[6,0,1071,149],
 "dd/d3b/structGameObjectTemplate.html#acb03ad16762d93b6f2bb9acbb8ea37fa":[6,0,1071,120],
 "dd/d3b/structGameObjectTemplate.html#acbbf0a662b50b26932d61a9dc355b833":[6,0,1071,53],
@@ -68,14 +69,14 @@ var NAVTREEINDEX319 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a878635ef0673325943e6026ad76c2b06":[6,0,536,0,2],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696":[6,0,536,0,6],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#ab33aa7e735c5837428a4cf2b76e4275e":[6,0,536,0,4],
-"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#add59669e5f6c3c882ac008c720349573":[6,0,536,0,3],
-"dd/d4e/classspell__rog__blade__flurry.html":[6,0,3651]
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#add59669e5f6c3c882ac008c720349573":[6,0,536,0,3]
 };

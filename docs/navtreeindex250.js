@@ -1,5 +1,8 @@
 var NAVTREEINDEX250 =
 {
+"da/d4c/violet__hold_8h.html#a5012dcce247705cd082204f6dae90b04":[7,0,0,0,1,3,5,12,9,37],
+"da/d4c/violet__hold_8h.html#a5401c263ffd473e3c12ce4e91cffb50d":[7,0,0,0,1,3,5,12,9,28],
+"da/d4c/violet__hold_8h.html#a571b8eb16445af41bf2410b919b86015":[7,0,0,0,1,3,5,12,9,4],
 "da/d4c/violet__hold_8h.html#a571b8eb16445af41bf2410b919b86015a1b38cbc84502f5e31bced4ad1b052100":[7,0,0,0,1,3,5,12,9,4,5],
 "da/d4c/violet__hold_8h.html#a571b8eb16445af41bf2410b919b86015a1e1505d04476f93c2464a92b3750cb4d":[7,0,0,0,1,3,5,12,9,4,6],
 "da/d4c/violet__hold_8h.html#a571b8eb16445af41bf2410b919b86015a46b7b95c99a057939d46ae72f70ca96c":[7,0,0,0,1,3,5,12,9,4,0],
@@ -239,15 +242,12 @@ var NAVTREEINDEX250 =
 "da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,3952,1],
 "da/d58/classVMAP_1_1IVMapMgr.html":[5,0,27,7],
 "da/d58/classVMAP_1_1IVMapMgr.html":[6,0,9,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,27,7,9],
 "da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[6,0,9,7,9],
-"da/d58/classVMAP_1_1IVMapMgr.html#a3ce407c232386fbe00958660457474e4":[6,0,9,7,19],
+"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,27,7,9],
 "da/d58/classVMAP_1_1IVMapMgr.html#a3ce407c232386fbe00958660457474e4":[5,0,27,7,19],
-"da/d58/classVMAP_1_1IVMapMgr.html#a4439165a00d5611c910d76e88504dda1":[6,0,9,7,7],
+"da/d58/classVMAP_1_1IVMapMgr.html#a3ce407c232386fbe00958660457474e4":[6,0,9,7,19],
 "da/d58/classVMAP_1_1IVMapMgr.html#a4439165a00d5611c910d76e88504dda1":[5,0,27,7,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a5029a4bc75becde24a8daa69d6aa113f":[5,0,27,7,3],
+"da/d58/classVMAP_1_1IVMapMgr.html#a4439165a00d5611c910d76e88504dda1":[6,0,9,7,7],
 "da/d58/classVMAP_1_1IVMapMgr.html#a5029a4bc75becde24a8daa69d6aa113f":[6,0,9,7,3],
-"da/d58/classVMAP_1_1IVMapMgr.html#a5642a08f1cbd688985314fb821525c95":[6,0,9,7,15],
-"da/d58/classVMAP_1_1IVMapMgr.html#a5642a08f1cbd688985314fb821525c95":[5,0,27,7,15],
-"da/d58/classVMAP_1_1IVMapMgr.html#a583f740a47a711a78b54a0258eaf8397":[5,0,27,7,6]
+"da/d58/classVMAP_1_1IVMapMgr.html#a5029a4bc75becde24a8daa69d6aa113f":[5,0,27,7,3]
 };

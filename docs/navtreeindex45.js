@@ -1,5 +1,6 @@
 var NAVTREEINDEX45 =
 {
+"d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faaaf326dffde695da47e69254c043c2c55":[7,0,0,0,1,2,16,4,3,10,29],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faaaf35c01a71211832909d1fad60a65901":[7,0,0,0,1,2,16,4,3,10,75],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faab5cd4a340004a45093ed51e576051fed":[7,0,0,0,1,2,16,4,3,10,26],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faab89824b15edb6a7e286e9ea8bd8a2f45":[7,0,0,0,1,2,16,4,3,10,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX45 =
 "d1/dda/classspell__festergut__blighted__spores__aura.html":[6,0,2820],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a53d6013e5ec473854e1537969cb31988":[6,0,2820,1],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a65b5bc8d053a69325f42a7f23ae4dbdc":[6,0,2820,0],
-"d1/dda/classspell__festergut__blighted__spores__aura.html#a85be360bb15482ff34b7f1d04d949b1d":[6,0,2820,2],
-"d1/dda/classspell__festergut__blighted__spores__aura.html#ab14e7410cf542d9f4043800a3b86c664":[6,0,2820,3]
+"d1/dda/classspell__festergut__blighted__spores__aura.html#a85be360bb15482ff34b7f1d04d949b1d":[6,0,2820,2]
 };

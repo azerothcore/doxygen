@@ -1,5 +1,8 @@
 var NAVTREEINDEX269 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html":[6,0,668,0],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a0f16f9865159338c46e140c01650a728":[6,0,668,0,1],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a14384c3853570d0f7580d72d0008b986":[6,0,668,0,11],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a15c50a40ae2a6caa873993c6e330600c":[6,0,668,0,6],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4":[6,0,668,0,14],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a1d6e306084fb64742d28beb1f65ef338":[6,0,668,0,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX269 =
 "db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2900,2],
 "db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3574],
 "db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3574,1],
-"db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3574,2],
-"db/d1a/classspell__q12227__outhouse__groans.html#a8f6332b2d4e7ac7ba6a68331b1d4512f":[6,0,3574,3],
-"db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3574,0],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1704,0]
+"db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3574,2]
 };

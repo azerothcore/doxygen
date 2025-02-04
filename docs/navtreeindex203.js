@@ -1,5 +1,7 @@
 var NAVTREEINDEX203 =
 {
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html":[6,0,2096,0],
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a09205661674dd011ffe425deaadde053":[6,0,2096,0,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a5c6f9bca1004af163ddb074b606330be":[6,0,2096,0,0],
 "d7/dcf/NetworkThread_8h.html":[7,0,0,0,1,4,1,1],
 "d7/dcf/structCreatureModel.html":[6,0,906],
@@ -247,7 +249,5 @@ var NAVTREEINDEX203 =
 "d7/de4/classachievement__share__the__love.html":[6,0,87],
 "d7/de4/classachievement__share__the__love.html#a3eaa89eaa356b0e2f8b5c688439baf9c":[6,0,87,0],
 "d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[6,0,87,1],
-"d7/de4/structGossipTextOption.html":[6,0,1194],
-"d7/de4/structGossipTextOption.html#a046d637b91807db067c6e7050184322d":[6,0,1194,4],
-"d7/de4/structGossipTextOption.html#a0f67a651fdb3f3217279015c9e3fb292":[6,0,1194,1]
+"d7/de4/structGossipTextOption.html":[6,0,1194]
 };

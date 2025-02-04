@@ -1,5 +1,7 @@
 var NAVTREEINDEX93 =
 {
+"d3/d13/structOverrideSpellDataEntry.html":[6,0,2329],
+"d3/d13/structOverrideSpellDataEntry.html#a22e48015dd880199e131089e35b1ce05":[6,0,2329,0],
 "d3/d13/structOverrideSpellDataEntry.html#a956d683b42f34eae3a1ea3f8882716fd":[6,0,2329,1],
 "d3/d13/structboss__maiden__of__grief_1_1boss__maiden__of__griefAI.html":[6,0,589,0],
 "d3/d13/structboss__maiden__of__grief_1_1boss__maiden__of__griefAI.html#a3d2173db5a852a356c187b2d2771b75f":[6,0,589,0,3],
@@ -165,8 +167,8 @@ var NAVTREEINDEX93 =
 "d3/d19/structArenaTeamScore.html#ab99de3b9213f3ccab1791858df6aa3e8":[6,0,184,10],
 "d3/d19/structArenaTeamScore.html#ade081f31c498ee03a80f73fe70a56cc7":[6,0,184,1],
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[6,0,184,3],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,99,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,87,0],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,99,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[6,0,0,87,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,99,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[6,0,0,87,0,1],
@@ -182,18 +184,18 @@ var NAVTREEINDEX93 =
 "d3/d1b/classnpc__prof__leather.html#a4a96f0c41a2a75ed26f52b1b0377c800":[6,0,2019,0],
 "d3/d1b/classnpc__prof__leather.html#aefbf75b4109f8013335f36cd2d6e84de":[6,0,2019,1],
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[6,0,2019,3],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,36],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,1,48],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,36],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[6,0,0,36,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,48,1],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,48,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,36,0],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,48,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,48,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,36,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,36,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,48,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,48,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,36,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,48,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2818],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2818,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2818,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a407c46bd315d756424f11282a91638de":[7,0,0,0,1,1,0,0,5,1,64],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a40a80b70c5c6ca6547fcceafe0c26cfc":[7,0,0,0,1,1,0,0,5,1,29],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a48ccff5363dd1dc253a44c1fd13dbed3":[7,0,0,0,1,1,0,0,5,1,11],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a1aa08675589bbe24eec3a349a6d0f0":[7,0,0,0,1,1,0,0,5,1,71],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a8996079eb80d4dcb1699d52cd73ac7":[7,0,0,0,1,1,0,0,5,1,60],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4bea2ddbac89587f89839fa64ef7373b":[7,0,0,0,1,1,0,0,5,1,8]
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a1aa08675589bbe24eec3a349a6d0f0":[7,0,0,0,1,1,0,0,5,1,71]
 };

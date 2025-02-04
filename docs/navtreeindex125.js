@@ -1,5 +1,7 @@
 var NAVTREEINDEX125 =
 {
+"d4/d61/namespaceAIRegistry.html":[5,0,5],
+"d4/d61/namespaceAIRegistry.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[5,0,5,0],
 "d4/d64/classFlaggedValuesArray32.html":[6,0,1030],
 "d4/d64/classFlaggedValuesArray32.html#a0680f7b67001783f20d89989a49cbead":[6,0,1030,0],
 "d4/d64/classFlaggedValuesArray32.html#a0ea5d977caef5152c71c515259a91f06":[6,0,1030,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fac0534370a7e92d96714489a749a8b466":[7,0,0,0,1,3,7,5,2,2,19,6],
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fac053bfc4599cab42b71cb3513b1503ab":[7,0,0,0,1,3,7,5,2,2,19,7],
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fad61e30ce4f8b15cacac9f115284d460b":[7,0,0,0,1,3,7,5,2,2,19,0],
-"d4/d67/boss__kaelthas_8cpp.html#abaa62e9749b10ffa05287340e7d96f10":[7,0,0,0,1,3,7,5,2,2,26],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9d":[7,0,0,0,1,3,7,5,2,2,20],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da61e900515aec51ba22cfdd63c1082fc7":[7,0,0,0,1,3,7,5,2,2,20,0]
+"d4/d67/boss__kaelthas_8cpp.html#abaa62e9749b10ffa05287340e7d96f10":[7,0,0,0,1,3,7,5,2,2,26]
 };

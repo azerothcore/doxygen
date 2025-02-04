@@ -1,5 +1,7 @@
 var NAVTREEINDEX101 =
 {
+"d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
+"d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,53,0],
 "d3/d81/classAbominationDespawner.html":[6,0,20],
 "d3/d81/classAbominationDespawner.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e":[6,0,20,0],
 "d3/d81/classAbominationDespawner.html#a58b8faac1cdffa7230783a1d6439fcfb":[6,0,20,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a6a74b74e4e4b45aec86f70a5211ddd28":[6,0,413,0,3],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a7c347bcdb092afcd64b481b87d0895ea":[6,0,413,0,0],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#aae3762b27c3d99b32f47293c544e4afe":[6,0,413,0,4],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1621,0],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a004a878ccb5fe68b249342f6a0fce31d":[6,0,1621,0,2],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a40c642758a751e072e41343bb75ad306":[6,0,1621,0,7]
+"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1621,0]
 };

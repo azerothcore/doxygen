@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"d0/dcf/classspell__warl__drain__soul.html#a11b0120ea8c8ccf1c96e5d1053d64895":[6,0,3886,4],
 "d0/dcf/classspell__warl__drain__soul.html#a257202ac9b80a67ce58d9e3491164d22":[6,0,3886,0],
 "d0/dcf/classspell__warl__drain__soul.html#a333ad80d8478f59713ee049f935d7885":[6,0,3886,5],
 "d0/dcf/classspell__warl__drain__soul.html#a5e436c530e5ef70bc4de4305676ed196":[6,0,3886,2],
@@ -79,16 +80,16 @@ var NAVTREEINDEX19 =
 "d0/dd4/structAcore_1_1GameObjectSearcher.html":[6,0,0,57],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[6,0,0,57,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[5,0,1,69,2],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[6,0,0,57,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,1,69,1],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[6,0,0,57,0],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[6,0,0,57,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[5,0,1,69,0],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[6,0,0,57,3],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[6,0,0,57,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[5,0,1,69,3],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[6,0,0,57,5],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[6,0,0,57,3],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,1,69,5],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,1,69,4],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[6,0,0,57,5],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[6,0,0,57,4],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,1,69,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html":[6,0,1998,0],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a3a522e4c741bc321469ed87c10cf7904":[6,0,1998,0,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a5a1bf4aaf716674a63e31d24ae4a5d7c":[6,0,1998,0,5],
@@ -166,8 +167,8 @@ var NAVTREEINDEX19 =
 "d0/ddc/WardenPayloadMgr_8h.html":[7,0,0,0,1,2,46,9],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,1,8,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[6,0,0,5,0,30],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[6,0,0,5,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[7,0,0,0,1,2,16,7,13],
 "d0/ddd/classMinion.html":[6,0,1474],
 "d0/ddd/classMinion.html#a02806f2eae429a33e0d2b0c115892c77":[6,0,1474,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "d0/dde/classProcEventInfo.html#a18426bb408d5f0f35ce52e438653c5e0":[6,0,2408,15],
 "d0/dde/classProcEventInfo.html#a1a3d8c6e876eda3b6b75b9fc8a850b53":[6,0,2408,25],
 "d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9":[6,0,2408,1],
-"d0/dde/classProcEventInfo.html#a2775d531511b12f2cf00b50e1a60566a":[6,0,2408,29],
-"d0/dde/classProcEventInfo.html#a3fe9727a50bbb28a24976cc53f5515cb":[6,0,2408,22]
+"d0/dde/classProcEventInfo.html#a2775d531511b12f2cf00b50e1a60566a":[6,0,2408,29]
 };

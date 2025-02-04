@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[7,0,0,0,1,2,38,0,75,1,93],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[7,0,0,0,1,2,38,0,75,1,84],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[7,0,0,0,1,2,38,0,75,1,44],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa346539c7e7fd716628d6631efc9b74b":[7,0,0,0,1,2,38,0,75,1,87],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa3c8ae160547aae5db74400fbca0b172":[7,0,0,0,1,2,38,0,75,1,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9a452940701988febe58083682c59f99":[6,0,653,0,10],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9b9febdef4433db98fc87890a2abc6c6":[6,0,653,0,15],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab0b8fe3e7478638cd0ac9d87181934d6":[6,0,653,0,11],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab3448dfddf82046acfe8d1b9a9b3d216":[6,0,653,0,6],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#abd240288ed85bb26c07be2892cd990bb":[6,0,653,0,7],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac4635cad5e60da5755e1504608320e71":[6,0,653,0,1]
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab3448dfddf82046acfe8d1b9a9b3d216":[6,0,653,0,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc7/structSpellEntry.html#a6586c7d319184dfe4bcd6a3086da2225":[6,0,3992,85],
+"d5/dc7/structSpellEntry.html#a6b3f2f362bc6f7462bfb26931052f606":[6,0,3992,15],
 "d5/dc7/structSpellEntry.html#a6d6f3c418ca9cd448e8e861c1324a93a":[6,0,3992,55],
 "d5/dc7/structSpellEntry.html#a7179bf4be185aaac99aaecc6bf136aee":[6,0,3992,70],
 "d5/dc7/structSpellEntry.html#a72a203b64f50e058f7b5a126eb89b0da":[6,0,3992,83],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a2280e5cc5187a91917a1e517e80e960d":[6,0,1994,3],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a2df79acc05dd8489e9e994e044b45404":[6,0,1994,5],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a3428642963fc9e7588ec92fd838f1af9":[6,0,1994,0],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[6,0,1994,4],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#ac274b9edb03ab13a8e95d8c4fe5055db":[6,0,1994,2],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#aef4865f83ce0c73efe0c47a11ac87594":[6,0,1994,1]
+"d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[6,0,1994,4]
 };
