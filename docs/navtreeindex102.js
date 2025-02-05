@@ -1,5 +1,12 @@
 var NAVTREEINDEX102 =
 {
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html":[6,0,413,0],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a02ffab01744c0dbb8b5a60794e82bdb0":[6,0,413,0,2],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a09f7c704579bdb8dad951ce63b5a54c9":[6,0,413,0,1],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a6a74b74e4e4b45aec86f70a5211ddd28":[6,0,413,0,3],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a7c347bcdb092afcd64b481b87d0895ea":[6,0,413,0,0],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#aae3762b27c3d99b32f47293c544e4afe":[6,0,413,0,4],
+"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1621,0],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a004a878ccb5fe68b249342f6a0fce31d":[6,0,1621,0,2],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a40c642758a751e072e41343bb75ad306":[6,0,1621,0,7],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a539b0e158c800e1aade54f37aa99751e":[6,0,1621,0,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/classGameEventMgr.html#abe394de4b5f3dae32df1f76a270968e5":[6,0,1055,4],
 "d3/d92/classGameEventMgr.html#ac955ad9b948e13cde6de5f9f3dd01d03":[6,0,1055,25],
 "d3/d92/classGameEventMgr.html#aceae3117877a732131349ccd5593b0af":[6,0,1055,63],
-"d3/d92/classGameEventMgr.html#ad7b6407e4c5fd950446c22e4a82cdc64":[6,0,1055,54],
-"d3/d92/classGameEventMgr.html#adb0056cf47ac017721acb3374bafcb74":[6,0,1055,50],
-"d3/d92/classGameEventMgr.html#adcc6d8a9aaefca1ae44783598d70531f":[6,0,1055,16],
-"d3/d92/classGameEventMgr.html#adddda916da8f95d50cfa17f28f76fe91":[6,0,1055,37],
-"d3/d92/classGameEventMgr.html#ae2b1a729f3af63b9dac537b6ac3b1d3f":[6,0,1055,18],
-"d3/d92/classGameEventMgr.html#aea098683abd57a8a9b4878eb6a3ee747":[6,0,1055,11],
-"d3/d92/classGameEventMgr.html#afca80ec9e1640a85eaae605f2e166748":[6,0,1055,75],
-"d3/d92/classGameEventMgr.html#afda78cbdc26a31b5c5d6ce0d3f4c4b0c":[6,0,1055,6]
+"d3/d92/classGameEventMgr.html#ad7b6407e4c5fd950446c22e4a82cdc64":[6,0,1055,54]
 };

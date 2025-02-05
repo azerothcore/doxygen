@@ -1,5 +1,11 @@
 var NAVTREEINDEX76 =
 {
+"d2/de0/classspell__dreamwalker__summoner.html#ae783cf255be823bf7c9125f288479e97":[6,0,2758,1],
+"d2/de0/classspell__dreamwalker__summoner.html#aed8b741160cbf50dde84cf059c8b52cb":[6,0,2758,0],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html":[6,0,3966],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a4d2c901a32f526673e968aa5b7ca9117":[6,0,3966,2],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a67da98b94fe491afa06b7a0cfa92982a":[6,0,3966,1],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d":[6,0,3966,0],
 "d2/de1/classlearn__commandscript.html":[6,0,1384],
 "d2/de1/classlearn__commandscript.html#a2a7cc02eb4417907b50d49bab39110cf":[6,0,1384,7],
 "d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[6,0,1384,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a9255e2efd806f99a9ef5b7a3ea0ab627":[6,0,3998,24],
 "d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390":[6,0,3998,76],
 "d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6":[6,0,3998,58],
-"d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a":[6,0,3998,50],
-"d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[6,0,3998,154],
-"d2/de9/classSpellInfo.html#a9904a9ebdd084815af5ef6d1653ffbbd":[6,0,3998,144],
-"d2/de9/classSpellInfo.html#a99fae2785bf72093933e2d0ab107c18f":[6,0,3998,51],
-"d2/de9/classSpellInfo.html#a9ab37b7b7987ad85cc0bbaad45f2b905":[6,0,3998,123],
-"d2/de9/classSpellInfo.html#a9aff74ad92b9a933cdcffe41ffd2d659":[6,0,3998,125],
-"d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[6,0,3998,111]
+"d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a":[6,0,3998,50]
 };

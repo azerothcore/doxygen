@@ -1,5 +1,12 @@
 var NAVTREEINDEX359 =
 {
+"de/d80/classPetitionMgr.html#a8d30eb7c2d048ada34765193ee823a96":[6,0,2358,15],
+"de/d80/classPetitionMgr.html#a90db48e86ad855a4f3c33347dc2991e6":[6,0,2358,7],
+"de/d80/classPetitionMgr.html#aa612824469e47955f3a231e4abd9bc84":[6,0,2358,10],
+"de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873":[6,0,2358,6],
+"de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[6,0,2358,13],
+"de/d80/classPetitionMgr.html#ad3fa9f06bda57a2ff4bac0f1650f5257":[6,0,2358,11],
+"de/d80/classPetitionMgr.html#ad6ad64ff57918817def0f948a3c03717":[6,0,2358,12],
 "de/d80/classPetitionMgr.html#af5f18d9200b61cd5e84652c51206f1d7":[6,0,2358,8],
 "de/d80/structCliCommandHolder.html":[6,0,864],
 "de/d80/structCliCommandHolder.html#a416a66ac78f1d2cb1ee2d0d93f276f43":[6,0,864,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX359 =
 "de/d8f/classspell__dk__blood__caked__blade.html#a8a3eab47b8214b59275aeaa8a02e4240":[6,0,2703,1],
 "de/d90/InstanceMapScript_8cpp.html":[7,0,0,0,1,2,38,0,57],
 "de/d90/InstanceMapScript_8cpp.html#a1271f70bb9300f8012216659f38edaee":[7,0,0,0,1,2,38,0,57,0],
-"de/d90/OutdoorPvPZM_8h.html":[7,0,0,0,1,3,6,14],
-"de/d90/OutdoorPvPZM_8h.html#a308db265dfb26d8d04ea2b44077d3b42":[7,0,0,0,1,3,6,14,12],
-"de/d90/OutdoorPvPZM_8h.html#a32c62572b4ea0ef1930cffc3e9e2c6fe":[7,0,0,0,1,3,6,14,17],
-"de/d90/OutdoorPvPZM_8h.html#a32e1a277d31ee3f4a23f291ccb4798e6":[7,0,0,0,1,3,6,14,23],
-"de/d90/OutdoorPvPZM_8h.html#a397f5867c1a3f99cf044124a4a621324":[7,0,0,0,1,3,6,14,24],
-"de/d90/OutdoorPvPZM_8h.html#a3cf4b21d832f1993b7bbef74516f4690":[7,0,0,0,1,3,6,14,20],
-"de/d90/OutdoorPvPZM_8h.html#a42debbed89bc9a37f04d7da9f1ba5362":[7,0,0,0,1,3,6,14,10],
-"de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11c":[7,0,0,0,1,3,6,14,8]
+"de/d90/OutdoorPvPZM_8h.html":[7,0,0,0,1,3,6,14]
 };

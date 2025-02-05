@@ -1,5 +1,12 @@
 var NAVTREEINDEX347 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2e3e4e2fc6d9347842b7ab76d9d3e0d6":[7,0,0,0,1,4,7,97,86],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3211f6a9f36dc859970efb29b535d7de":[7,0,0,0,1,4,7,97,90],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a32a526cf1040a3f69bd10a816fd3a9a1":[7,0,0,0,1,4,7,97,98],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a338c074291d12208e3a6feeabb8320bf":[7,0,0,0,1,4,7,97,4],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a344e3a9c49e1fb20071a408161ec988b":[7,0,0,0,1,4,7,97,19],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a353944b8b0c4990e6cb0b555af870fdc":[7,0,0,0,1,4,7,97,113],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3acd12913f9e062c9e2987d5af039fd4":[7,0,0,0,1,4,7,97,88],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3af49f9a16451cb0223c24ed478b34cb":[7,0,0,0,1,4,7,97,80],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3b2177187a258dac53cd400b6828fe62":[7,0,0,0,1,4,7,97,37],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3b66fd0c0ab642c75463a8e1b7819da4":[7,0,0,0,1,4,7,97,18],
@@ -242,12 +249,5 @@ var NAVTREEINDEX347 =
 "de/d11/structboss__novos_1_1boss__novosAI.html":[6,0,626,0],
 "de/d11/structboss__novos_1_1boss__novosAI.html#a00e5942a5c4c05dc168b80d60cb10d0f":[6,0,626,0,11],
 "de/d11/structboss__novos_1_1boss__novosAI.html#a67340b4d1b140b018a91c28cb649ce6f":[6,0,626,0,5],
-"de/d11/structboss__novos_1_1boss__novosAI.html#a7fc57c7b0fe7befc5e3466e929bf8e40":[6,0,626,0,3],
-"de/d11/structboss__novos_1_1boss__novosAI.html#a86825eabbf3411443ffd8f458defb0b0":[6,0,626,0,9],
-"de/d11/structboss__novos_1_1boss__novosAI.html#a88013d55c74c4d3c86a5e254ca77e892":[6,0,626,0,13],
-"de/d11/structboss__novos_1_1boss__novosAI.html#a9c79a08d0f1814e265dc7dad59946c02":[6,0,626,0,14],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ab0d05b5f01943a2a1a4b9942b7af6a4f":[6,0,626,0,4],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ab1e9ef1780d53447e3e39c69de2111f8":[6,0,626,0,1],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ab4c51470b6e1492922fa507566cfb01b":[6,0,626,0,2],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ac62d82368e71dcb58cbac04d90731d35":[6,0,626,0,8]
+"de/d11/structboss__novos_1_1boss__novosAI.html#a7fc57c7b0fe7befc5e3466e929bf8e40":[6,0,626,0,3]
 };

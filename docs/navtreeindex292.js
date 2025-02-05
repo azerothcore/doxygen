@@ -1,5 +1,12 @@
 var NAVTREEINDEX292 =
 {
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1ce50fa9f251bf1d5270caca23d7dc1":[6,0,651,0,13],
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1f3bf328a3729e0c667bbbe9188b104":[6,0,651,0,22],
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af5d86d91401c2543128866524ff4a44f":[6,0,651,0,2],
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#afd770319814d46976e3d946b43e909a4":[6,0,651,0,16],
+"db/df7/EventEmitter_8h.html":[7,0,0,0,0,15,8],
+"db/df7/structnpc__twilight__volunteer.html":[6,0,2173],
+"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2173,0],
 "db/df7/structnpc__twilight__volunteer.html#a4f27ae97ccf2c349a6352a0f5ba1681a":[6,0,2173,4],
 "db/df7/structnpc__twilight__volunteer.html#a8350dba2c41754a2e5d15c94731ef27d":[6,0,2173,7],
 "db/df7/structnpc__twilight__volunteer.html#a93288a45982b172c201e2442a4c91114":[6,0,2173,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX292 =
 "db/dfb/spell__quest_8cpp.html#aec43b4c5f9e0916e6647d63a9dd32f53a34904c06893e3f6723f157b9e081c5a4":[7,0,0,0,1,3,9,8,116,0],
 "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620":[7,0,0,0,1,3,9,8,107],
 "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620a7689a8e53a38b12f9e8c58de3dbffdf9":[7,0,0,0,1,3,9,8,107,0],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef":[7,0,0,0,1,3,9,8,107,1],
-"db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70b":[7,0,0,0,1,3,9,8,110],
-"db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70ba13a9e7c6ea9d0532a012ef19bf7719b7":[7,0,0,0,1,3,9,8,110,0],
-"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76":[7,0,0,0,1,3,9,8,96],
-"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a182dca1aea22740c6bbf97565396b6ee":[7,0,0,0,1,3,9,8,96,1],
-"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,96,0],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90d":[7,0,0,0,1,3,9,8,97],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2]
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef":[7,0,0,0,1,3,9,8,107,1]
 };

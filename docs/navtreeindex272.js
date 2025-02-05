@@ -1,5 +1,12 @@
 var NAVTREEINDEX272 =
 {
+"db/d3d/structnpc__supervisor__raelen.html#a6e290a29c8205b22bd668f0516e8904a":[6,0,2111,7],
+"db/d3d/structnpc__supervisor__raelen.html#ab709a5a975c22556dfe71dce52a3ec2c":[6,0,2111,3],
+"db/d3d/structnpc__supervisor__raelen.html#ae3e44b8f29f05c771137c5b9afd5da56":[6,0,2111,6],
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html":[6,0,1848],
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#aa95ec1e021f3d123e5a95c356765ac36":[6,0,1848,1],
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1848,2],
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html":[6,0,3646],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3646,2],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3646,0],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3646,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX272 =
 "db/d4e/boss__ossirian_8cpp.html#ae86ec417642d83029c0015042e8f8191":[7,0,0,0,1,3,4,8,4,12],
 "db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,8,4,8],
 "db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4bf0dc30d4fa221656a4e628280e90f3":[7,0,0,0,1,3,4,8,4,8,1],
-"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e6c4f12619d8678a93725c2560ccbf":[7,0,0,0,1,3,4,8,4,8,3],
-"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,4,8,4,8,2],
-"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,4,8,4,8,0],
-"db/d4e/boss__ossirian_8cpp.html#af8d4cf87cdc6c4b3e2a903610294a592":[7,0,0,0,1,3,4,8,4,15],
-"db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e":[7,0,0,0,1,3,4,8,4,17],
-"db/d4f/classMageSpellModPred.html":[6,0,1436],
-"db/d4f/classMageSpellModPred.html#a09ba840692b7fd50f7f6a537de1b240e":[6,0,1436,1],
-"db/d4f/classMageSpellModPred.html#af97aacdd47bd4427bb7dc1093ea1f63c":[6,0,1436,0]
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e6c4f12619d8678a93725c2560ccbf":[7,0,0,0,1,3,4,8,4,8,3]
 };

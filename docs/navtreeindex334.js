@@ -1,5 +1,12 @@
 var NAVTREEINDEX334 =
 {
+"dd/dfa/structboss__nightbane.html#a14e8d2773f75c8464a725c4c0e29789f":[6,0,624,0],
+"dd/dfa/structboss__nightbane.html#a16e5dba8c2187d2f8b175360f40c299c":[6,0,624,12],
+"dd/dfa/structboss__nightbane.html#a1709459f82758e690b6f5f667ac113b2":[6,0,624,1],
+"dd/dfa/structboss__nightbane.html#a2588f568133a843cb2bd6ef97794a03f":[6,0,624,20],
+"dd/dfa/structboss__nightbane.html#a28ded4432525290ff7e81d03545d46cf":[6,0,624,23],
+"dd/dfa/structboss__nightbane.html#a2cdc3d7e7f83391eaf96e92f20ea703b":[6,0,624,9],
+"dd/dfa/structboss__nightbane.html#a39ed84d01215f9f8427e5c599e424927":[6,0,624,22],
 "dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[6,0,624,13],
 "dd/dfa/structboss__nightbane.html#a55a8cf6e293b0c7ad3865340412aa31e":[6,0,624,24],
 "dd/dfa/structboss__nightbane.html#a7973791c2410f57ed9bc72b151a35419":[6,0,624,16],
@@ -242,12 +249,5 @@ var NAVTREEINDEX334 =
 "de/d05/classspell__gen__elemental__shield.html#a3871fb036ec6e0ea006f869c21e88c8f":[6,0,2894,2],
 "de/d06/structDialogueEntry.html":[6,0,958],
 "de/d06/structDialogueEntry.html#a360822e4c069be6019c0a465cb2499cf":[6,0,958,2],
-"de/d06/structDialogueEntry.html#a3f9e374ec2a49823d942c29572ac2fa0":[6,0,958,0],
-"de/d06/structDialogueEntry.html#a942073f24fd12da712184243d9f098f2":[6,0,958,1],
-"de/d06/structboss__headless__horseman.html":[6,0,506],
-"de/d06/structboss__headless__horseman.html#a06a654a822967c02dbab2c75f211e072":[6,0,506,7],
-"de/d06/structboss__headless__horseman.html#a076037b8bad3648551997915d97fb9b2":[6,0,506,16],
-"de/d06/structboss__headless__horseman.html#a091a925d7040e29efc54a4c5f123591d":[6,0,506,21],
-"de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[6,0,506,5],
-"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,506,15]
+"de/d06/structDialogueEntry.html#a3f9e374ec2a49823d942c29572ac2fa0":[6,0,958,0]
 };

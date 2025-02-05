@@ -1,5 +1,12 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,2969,1],
+"d3/d2c/namespaceGitRevision.html":[5,0,17],
+"d3/d2c/namespaceGitRevision.html#a0353e7a37f6f7102283a92975eb1f56f":[5,0,17,0],
+"d3/d2c/namespaceGitRevision.html#a1062fcec3676f562803f4775d95a9594":[5,0,17,13],
+"d3/d2c/namespaceGitRevision.html#a10817e6a26ea352c0f79233d2ef552a8":[5,0,17,5],
+"d3/d2c/namespaceGitRevision.html#a13f3b200d2427f6546ebddd3b54b7fcf":[5,0,17,11],
+"d3/d2c/namespaceGitRevision.html#a51523316de8184739b710e472a8ce843":[5,0,17,1],
 "d3/d2c/namespaceGitRevision.html#a631c2811f3f8b72a16dfa2ceb7c4cb42":[5,0,17,6],
 "d3/d2c/namespaceGitRevision.html#a72b700a0bbbdb2829e283fe892f1ba51":[5,0,17,4],
 "d3/d2c/namespaceGitRevision.html#a83b62eaf53be851b0bd82c3a00b934d1":[5,0,17,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#ac0e97be236e763481f6e4352c2c0946b":[7,0,0,0,1,3,5,9,2,13,58],
 "d3/d32/boss__yoggsaron_8cpp.html#acab252ff6c4b3c3b94a9f08c22856114":[7,0,0,0,1,3,5,9,2,13,57],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959":[7,0,0,0,1,3,5,9,2,13,61],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a022a64153f8ac64bd22883f78ce0a1d4":[7,0,0,0,1,3,5,9,2,13,61,1],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a02fd624b35669dc53b2c0f0d03f5ba00":[7,0,0,0,1,3,5,9,2,13,61,29],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a0912de16269adc521be2ce9dd8c554c7":[7,0,0,0,1,3,5,9,2,13,61,9],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a13623f5718ebc8cf5578624ff570f782":[7,0,0,0,1,3,5,9,2,13,61,27],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a1fe3875c1c6b6fa871ccd6a966089957":[7,0,0,0,1,3,5,9,2,13,61,32],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a1ffbe78b2b001b80e097e419bd11fa06":[7,0,0,0,1,3,5,9,2,13,61,0],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a2208476e0e36e4b3b2c43f2107677364":[7,0,0,0,1,3,5,9,2,13,61,18],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a393c390b7eca055fec6aa34ff251bf49":[7,0,0,0,1,3,5,9,2,13,61,30]
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a022a64153f8ac64bd22883f78ce0a1d4":[7,0,0,0,1,3,5,9,2,13,61,1]
 };

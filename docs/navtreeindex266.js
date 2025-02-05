@@ -1,5 +1,12 @@
 var NAVTREEINDEX266 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dac525675a0a1562d2e2f3140e14c0c7b3":[7,0,0,0,1,3,5,2,1,7,4,13],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dacbe302ffef529d7b7d5a3cf727ee4ce2":[7,0,0,0,1,3,5,2,1,7,4,12],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dacd91e602313f7720d86682d6699267c4":[7,0,0,0,1,3,5,2,1,7,4,28],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dad9ec54f981737aa3586b38855eb0af89":[7,0,0,0,1,3,5,2,1,7,4,29],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dae0c72b37c6e1daf6970ef598ecfdb39e":[7,0,0,0,1,3,5,2,1,7,4,14],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dae818903b2f36d3f900a586608ed88b7d":[7,0,0,0,1,3,5,2,1,7,4,27],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daeda00c8f2b0b4c9f8227f10c7955cd8c":[7,0,0,0,1,3,5,2,1,7,4,21],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daf8bc471a6cb69ea082d1fa13e912b4d9":[7,0,0,0,1,3,5,2,1,7,4,25],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daffe69fdccd37071f5474adb7c286f143":[7,0,0,0,1,3,5,2,1,7,4,11],
 "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363":[7,0,0,0,1,3,5,2,1,7,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX266 =
 "da/df1/classMetric.html#a22934a06eb31e77c7ae3e26265a12272":[6,0,1470,3],
 "da/df1/classMetric.html#a268b52607a8f1551d5b4c58b71119902":[6,0,1470,6],
 "da/df1/classMetric.html#a28bb6c659cf9d832a85d3853f4a2a416":[6,0,1470,33],
-"da/df1/classMetric.html#a3c96e42f0a86453dc634367e701f5d1a":[6,0,1470,25],
-"da/df1/classMetric.html#a4bf949c419e470c108fbcbe8611de406":[6,0,1470,17],
-"da/df1/classMetric.html#a4f6b404ac54599df1d655169696e3685":[6,0,1470,8],
-"da/df1/classMetric.html#a5013a4cfaa8e40a739e9f7439efae575":[6,0,1470,13],
-"da/df1/classMetric.html#a57334426f5b1e719de6619f14fb602eb":[6,0,1470,18],
-"da/df1/classMetric.html#a5a3d74daf5dcaf419ef9e58360d7bfe7":[6,0,1470,0],
-"da/df1/classMetric.html#a5ac9faa55dc2f33cde3ff872d58127ec":[6,0,1470,32],
-"da/df1/classMetric.html#a5f5943d40f6a4e0d1f3694aca6acd630":[6,0,1470,31]
+"da/df1/classMetric.html#a3c96e42f0a86453dc634367e701f5d1a":[6,0,1470,25]
 };

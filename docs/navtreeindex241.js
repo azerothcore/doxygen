@@ -1,5 +1,12 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc8/classDialogueHelper.html#a33b8551c136bcbc896b29d935c155a75":[6,0,959,6],
+"d9/dc8/classDialogueHelper.html#a3566655e8781bf5f9dff514fcd659421":[6,0,959,0],
+"d9/dc8/classDialogueHelper.html#a489b8cd1c75ced0ec8e34b8051899dd7":[6,0,959,8],
+"d9/dc8/classDialogueHelper.html#a50e652ca2cff035d8c79517fdbcfc67a":[6,0,959,3],
+"d9/dc8/classDialogueHelper.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af":[6,0,959,2],
+"d9/dc8/classDialogueHelper.html#a79e80634f1780895669f5c810958fd4f":[6,0,959,4],
+"d9/dc8/classDialogueHelper.html#a89ca5e8d25372bd8ab32322a0a9999f2":[6,0,959,7],
 "d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,959,1],
 "d9/dc8/classDialogueHelper.html#ac16b8b9b50e8b35980d21f161bf33340":[6,0,959,5],
 "d9/dc8/classboss__deathbringer__saurfang.html":[6,0,405],
@@ -231,10 +238,10 @@ var NAVTREEINDEX241 =
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
-"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,65,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,270,10],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a15c0b24641cb04f31bb3d651dae59448":[6,0,270,10,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a5ca2a9c329a7dbbb7e835849ca4479aa":[6,0,270,10,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html":[6,0,801],
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#aad63d9f5960111e34b0a3005e2c51d0f":[6,0,801,0],
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#adcedbb1fa73310dff07fb945793fb23e":[6,0,801,1],
-"d9/ddf/FollowerReference_8h.html":[7,0,0,0,1,2,31,4],
-"d9/de2/classspell__cannibalize__heal.html":[6,0,2655],
-"d9/de2/classspell__cannibalize__heal.html#a383479896e6deb96e50b827370ccfd4d":[6,0,2655,2],
-"d9/de2/classspell__cannibalize__heal.html#a70503fc6042001a860d361f2597b7153":[6,0,2655,1],
-"d9/de2/classspell__cannibalize__heal.html#a953536a9a393af9472bdd89018449df0":[6,0,2655,0],
-"d9/de2/structCalcDamageInfo.html":[6,0,815],
-"d9/de2/structCalcDamageInfo.html#a01f1cc6661ef5f4e7d657ba59d06108f":[6,0,815,7],
-"d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,815,3]
+"d9/ddf/FollowerReference_8h.html":[7,0,0,0,1,2,31,4]
 };

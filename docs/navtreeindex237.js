@@ -1,5 +1,12 @@
 var NAVTREEINDEX237 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a04230267903ef4205b44e5a2ae379d80":[7,0,0,0,1,3,5,9,2,1,25,3],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a09e4ae1500547312ac56885549a42bdb":[7,0,0,0,1,3,5,9,2,1,25,10],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a2a94fb1b61be713af13b677b055d6740":[7,0,0,0,1,3,5,9,2,1,25,14],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a47e21b8bf13414e1a9bcdca0155fe93e":[7,0,0,0,1,3,5,9,2,1,25,20],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a50b06619a5bf4bd1dac8708b216234b3":[7,0,0,0,1,3,5,9,2,1,25,0],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a50e0dac22fbfb9f964522bcd5372dd45":[7,0,0,0,1,3,5,9,2,1,25,18],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a528807bdc70f6354672e25e327dc140e":[7,0,0,0,1,3,5,9,2,1,25,25],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5362c2b7323691df788ef25e53663524":[7,0,0,0,1,3,5,9,2,1,25,26],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5949b1c30a471dc572ce9b2df0a346e7":[7,0,0,0,1,3,5,9,2,1,25,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a5b1ab91c8e24e9fdea9ae5a64054dc87":[7,0,0,0,1,3,5,9,2,1,25,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d98/structboss__magtheridon.html#a3015fd8503a0da84e7b78c551587f8a3":[6,0,587,1],
 "d9/d98/structboss__magtheridon.html#a305f71322dbe10e12588ebe0c45eff5f":[6,0,587,9],
 "d9/d98/structboss__magtheridon.html#a3d718a101047cd90448577ee520adf5e":[6,0,587,0],
-"d9/d98/structboss__magtheridon.html#a42aa45e199f76f567bc7a677f3d3aedf":[6,0,587,4],
-"d9/d98/structboss__magtheridon.html#a656e9595b30d014c54cc456d7f81f657":[6,0,587,7],
-"d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e":[6,0,587,12],
-"d9/d98/structboss__magtheridon.html#a93fb4d888ebd6273bca0a128c8303996":[6,0,587,3],
-"d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4":[6,0,587,11],
-"d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a":[6,0,587,8],
-"d9/d98/structboss__magtheridon.html#adca91ab2fbfe88cc79b19aaa4bff74cf":[6,0,587,2],
-"d9/d98/structboss__magtheridon.html#ae9b2f0929c2309e6bd57cc1241452d61":[6,0,587,6]
+"d9/d98/structboss__magtheridon.html#a42aa45e199f76f567bc7a677f3d3aedf":[6,0,587,4]
 };

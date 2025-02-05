@@ -1,5 +1,12 @@
 var NAVTREEINDEX203 =
 {
+"d7/dce/classgo__darkmoon__faire__music.html#ab8dd92213e1c2815ff9498267b09b5f2":[6,0,1113,1],
+"d7/dce/classspell__black__morass__corrupt__medivh.html":[6,0,2598],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a59e8723d8b73f45075db47e1e09e15fb":[6,0,2598,0],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a7bacc1ebd4b98e5e43b74e13471b2063":[6,0,2598,2],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ab858e9f6505fa32cc7325087d29fee8b":[6,0,2598,4],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#acc4db638e0d858085dc3fb2d6b45f7ec":[6,0,2598,3],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ae4761ac3bce02903a7266511d80503f9":[6,0,2598,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html":[6,0,2096,0],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a09205661674dd011ffe425deaadde053":[6,0,2096,0,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a5c6f9bca1004af163ddb074b606330be":[6,0,2096,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX203 =
 "d7/de2/structQuestRequestItemsLocale.html":[6,0,2433],
 "d7/de2/structQuestRequestItemsLocale.html#ac898e7775bb068beee5aaf8cb4c81900":[6,0,2433,0],
 "d7/de3/classspell__flamewreath__aura.html":[6,0,2827],
-"d7/de3/classspell__flamewreath__aura.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5":[6,0,2827,0],
-"d7/de3/classspell__flamewreath__aura.html#a92a12c16381c433a946eeb1fed8ab7a9":[6,0,2827,1],
-"d7/de3/classspell__flamewreath__aura.html#aeabc1d487afdb30b80d9a5235c306df1":[6,0,2827,3],
-"d7/de3/classspell__flamewreath__aura.html#af26ef4eae84aa3982287fde0b4f65dcd":[6,0,2827,2],
-"d7/de4/classachievement__share__the__love.html":[6,0,87],
-"d7/de4/classachievement__share__the__love.html#a3eaa89eaa356b0e2f8b5c688439baf9c":[6,0,87,0],
-"d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[6,0,87,1],
-"d7/de4/structGossipTextOption.html":[6,0,1194]
+"d7/de3/classspell__flamewreath__aura.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5":[6,0,2827,0]
 };

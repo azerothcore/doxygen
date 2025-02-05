@@ -1,5 +1,12 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd6/structCreatureDisplayInfoEntry.html#a174d6f73393e6dcfeecf487fc09c2e6f":[6,0,901,1],
+"d5/dd6/structCreatureDisplayInfoEntry.html#ada31381a4ee360e2fcb68403bc6d14e5":[6,0,901,2],
+"d5/dd6/structCreatureDisplayInfoEntry.html#adc5aee11b1e27752576b0b98156d3b3c":[6,0,901,0],
+"d5/dd6/structCreatureDisplayInfoEntry.html#ae15b89669bf5d711cc57c21d8c8be0dd":[6,0,901,3],
+"d5/dd7/classspell__item__mercurial__shield.html":[6,0,3202],
+"d5/dd7/classspell__item__mercurial__shield.html#a4bacedda40b04934e7473f7a92f6a314":[6,0,3202,2],
+"d5/dd7/classspell__item__mercurial__shield.html#a9fa37b95f9c3788764922f4414c383f5":[6,0,3202,1],
 "d5/dd7/classspell__item__mercurial__shield.html#ab923050ce4613538ee4837daba09dd33":[6,0,3202,0],
 "d5/dd7/classspell__sha__spirit__walk.html":[6,0,3716],
 "d5/dd7/classspell__sha__spirit__walk.html#a0efb319154edb2c798460de72d6a56ed":[6,0,3716,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de9/AppenderDB_8cpp.html":[7,0,0,0,1,1,1,0],
 "d5/de9/classspell__gen__profession__research.html":[6,0,2943],
 "d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[6,0,2943,4],
-"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,2943,2],
-"d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[6,0,2943,1],
-"d5/de9/classspell__gen__profession__research.html#ace75db8a6e5628df6e2edba91cd2852f":[6,0,2943,3],
-"d5/de9/classspell__gen__profession__research.html#ad967ae7e2affa312fa4adbca6e86dd7c":[6,0,2943,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[6,0,1313,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[6,0,1313,0,25],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[6,0,1313,0,4],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1313,0,23]
+"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,2943,2]
 };

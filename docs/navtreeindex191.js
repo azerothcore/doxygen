@@ -1,5 +1,12 @@
 var NAVTREEINDEX191 =
 {
+"d7/d83/structboss__nexusprince__shaffar.html":[6,0,623],
+"d7/d83/structboss__nexusprince__shaffar.html#a147500575a3821262ec718ec023b458c":[6,0,623,8],
+"d7/d83/structboss__nexusprince__shaffar.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a":[6,0,623,10],
+"d7/d83/structboss__nexusprince__shaffar.html#a2e861fb53bca7a40e967971b5e7be533":[6,0,623,0],
+"d7/d83/structboss__nexusprince__shaffar.html#a35db119f5351a8ef9bef4588cbdd83cf":[6,0,623,6],
+"d7/d83/structboss__nexusprince__shaffar.html#a576240b46ce0988f0ef86e1460c831ef":[6,0,623,3],
+"d7/d83/structboss__nexusprince__shaffar.html#a71e501225d88851210d2e0e58de27f99":[6,0,623,5],
 "d7/d83/structboss__nexusprince__shaffar.html#aa7d55363fe9a326dc86bd4f4076d12ab":[6,0,623,9],
 "d7/d83/structboss__nexusprince__shaffar.html#ab806564e96708ca12f444249abd3c88c":[6,0,623,7],
 "d7/d83/structboss__nexusprince__shaffar.html#abf2fef0888bced83511883027bf4d500":[6,0,623,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d91/classInstanceSave.html#af5ac89030cb727a6c05f1fb07a8a8c49":[6,0,1338,26],
 "d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac":[6,0,1338,11],
 "d7/d91/classInstanceSave.html#afe1d6c463ee67c999066116837641324":[6,0,1338,24],
-"d7/d91/classInstanceSave.html#afe42a43cecab75523b5f92340c5ef827":[6,0,1338,17],
-"d7/d91/classInstanceSave.html#afe47ec184ab41772b446a6bfb338796f":[6,0,1338,4],
-"d7/d91/classboss__gorosh__the__dervish.html":[6,0,487],
-"d7/d91/classboss__gorosh__the__dervish.html#a18c39f21ebf6a9d43d37eb92857083a3":[6,0,487,1],
-"d7/d91/classboss__gorosh__the__dervish.html#abae1fa2a7e959d1b7b02e0850aff4fb9":[6,0,487,2],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html":[6,0,3579],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3579,2],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3579,0]
+"d7/d91/classInstanceSave.html#afe42a43cecab75523b5f92340c5ef827":[6,0,1338,17]
 };

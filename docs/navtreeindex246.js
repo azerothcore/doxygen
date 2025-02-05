@@ -1,5 +1,12 @@
 var NAVTREEINDEX246 =
 {
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cac193f276d7e62e6e3c96ff51c07e809d":[7,0,0,0,1,3,4,20,13,1],
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cae93c311cfc0096515b205b48c8d56654":[7,0,0,0,1,3,4,20,13,13],
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298caeceed8c0c0975cd6e8f0348a5a42cd74":[7,0,0,0,1,3,4,20,13,5],
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298caf43575059c528a97cc44d81fecf62693":[7,0,0,0,1,3,4,20,13,3],
+"da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,20,14],
+"da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2097cab4b8743a2e5b29ec1dcba5ec56":[7,0,0,0,1,3,4,20,14,1],
+"da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2cc6b7c8c317c6d750bed34cd9d45b76":[7,0,0,0,1,3,4,20,14,0],
 "da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac2d168c47cfbd629daf4548c637648a5":[7,0,0,0,1,3,4,20,14,2],
 "da/d1d/zone__durotar_8cpp.html#ad438ca426e03cfa85f551fab12e1a1a6":[7,0,0,0,1,3,4,20,9],
 "da/d1d/zone__durotar_8cpp.html#ad65e95bd98edfed3fed682911d8737a3":[7,0,0,0,1,3,4,20,17],
@@ -242,12 +249,5 @@ var NAVTREEINDEX246 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2c54cb231c2a5249712731d819736186":[7,0,0,0,1,2,41,0,0,6,317],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2eb3f6e6a49bc0b70fa9726b1fa12bb3":[7,0,0,0,1,2,41,0,0,6,64],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3030facdd59762a7cfecd1f90e671781":[7,0,0,0,1,2,41,0,0,6,178],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30ae3c9499778cc5f920e81dc86cd020":[7,0,0,0,1,2,41,0,0,6,128],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30e12137ab8f3aa72ef04ef6092ffb9b":[7,0,0,0,1,2,41,0,0,6,31],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30f00e82d76137f31130690ec5194f3b":[7,0,0,0,1,2,41,0,0,6,167],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a37990332f97fbec322d1a943304b4d22":[7,0,0,0,1,2,41,0,0,6,208],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a380519e0dab9b5840dee150fe66287c0":[7,0,0,0,1,2,41,0,0,6,22],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a381514eeb1f11096f6d20b132d064cb7":[7,0,0,0,1,2,41,0,0,6,240],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a38d26a7bb616c3ee2b31ff72e98ffd71":[7,0,0,0,1,2,41,0,0,6,127],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a39ea3fa62739b733008d71ebe24a0842":[7,0,0,0,1,2,41,0,0,6,274]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30ae3c9499778cc5f920e81dc86cd020":[7,0,0,0,1,2,41,0,0,6,128]
 };

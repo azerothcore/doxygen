@@ -22,6 +22,7 @@ var classUnitScript =
     [ "OnUnitDeath", "d2/d12/classUnitScript.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
     [ "OnUnitEnterCombat", "d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb", null ],
     [ "OnUnitEnterEvadeMode", "d2/d12/classUnitScript.html#a9df6f81297f53007f1227778466e912f", null ],
+    [ "OnUnitSetShapeshiftForm", "d2/d12/classUnitScript.html#acacf12c000646710abf931429a0852c0", null ],
     [ "OnUnitUpdate", "d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
     [ "ShouldTrackValuesUpdatePosByIndex", "d2/d12/classUnitScript.html#a7b74be81d24bc7265d5566d67d044aad", null ]
 ];

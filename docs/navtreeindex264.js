@@ -1,5 +1,12 @@
 var NAVTREEINDEX264 =
 {
+"da/dd9/classnpc__oscillating__frequency__scanner__master__bunny.html":[6,0,1964],
+"da/dd9/classnpc__oscillating__frequency__scanner__master__bunny.html#a60d55e2eda4484ceea4e475ac8653977":[6,0,1964,2],
+"da/dd9/classnpc__oscillating__frequency__scanner__master__bunny.html#a8ae11cadbd5e883bf12f8f5201700b4e":[6,0,1964,1],
+"da/dd9/classspell__gen__proc__on__self.html":[6,0,2940],
+"da/dd9/classspell__gen__proc__on__self.html#a148f3fe7ee4bdc8e148fe71100779e56":[6,0,2940,2],
+"da/dd9/classspell__gen__proc__on__self.html#a6e164a8e3482b566b776c5ffeeb1b6ac":[6,0,2940,1],
+"da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77":[6,0,2940,0],
 "da/dd9/classspell__gen__proc__on__victim.html":[6,0,2941],
 "da/dd9/classspell__gen__proc__on__victim.html#a15b05d352f94d2aabeb75a6bfd996fc6":[6,0,2941,2],
 "da/dd9/classspell__gen__proc__on__victim.html#a6a7b011f151ff81672221b84eb4456b8":[6,0,2941,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX264 =
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,5,2,5,6],
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab4a16b4f7f621394553bf00e93c988bb":[7,0,0,0,1,3,5,5,2,5,4],
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3d73946b0f9d0a85fd9647edb90b4d5":[7,0,0,0,1,3,5,5,2,5,5],
-"da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b":[7,0,0,0,1,3,5,5,2,5,2],
-"da/de2/map__extractor_2dbcfile_8h.html":[7,0,0,0,3,1,4],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html":[6,0,1755,0],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#a1fd8cea6f8a6d8f76ba3c484b15c4054":[6,0,1755,0,1],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#a33364da3af4681de9f9e21b9dcf7f16c":[6,0,1755,0,2],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ac02a0c34096086e7baf1dc004811f4c1":[6,0,1755,0,4],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ac6f2aedc40e415ac0f7e8c212d4deae5":[6,0,1755,0,3],
-"da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ae6a80f77558e0f5a62efc3b5ef1f61d6":[6,0,1755,0,0]
+"da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b":[7,0,0,0,1,3,5,5,2,5,2]
 };

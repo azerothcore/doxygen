@@ -1,5 +1,12 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[6,0,3936,6],
+"d4/dd8/classinstance__mana__tombs.html":[6,0,1289],
+"d4/dd8/classinstance__mana__tombs.html#a26e4dad0957df886bc446396ab48ceda":[6,0,1289,2],
+"d4/dd8/classinstance__mana__tombs.html#a78ca8b378e4ab290f1eea2b2b5799630":[6,0,1289,1],
+"d4/dd8/structAchievementCriteriaData.html":[6,0,109],
+"d4/dd8/structAchievementCriteriaData.html#a0461ba6bbb71d66abeee6dfaa6b81782":[6,0,109,38],
+"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,109,2],
 "d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[6,0,109,39],
 "d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[6,0,109,16],
 "d4/dd8/structAchievementCriteriaData.html#a0bb28562878237fe2bb5249ffddaf89a":[6,0,109,44],
@@ -242,12 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dde/classnpc__elder__clearwater.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04":[6,0,1729,2],
 "d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[6,0,1729,3],
 "d4/dde/classnpc__elder__clearwater.html#abeee1650938a71762bb0c148ea9834d1":[6,0,1729,1],
-"d4/dde/classspell__dk__rune__tap__party.html":[6,0,2735],
-"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2735,1],
-"d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[6,0,2735,0],
-"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[6,0,2735,2],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[6,0,3717],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[6,0,3717,1],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[6,0,3717,0],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ab06a732203303d5533bdc4b217640d2d":[6,0,3717,3]
+"d4/dde/classspell__dk__rune__tap__party.html":[6,0,2735]
 };

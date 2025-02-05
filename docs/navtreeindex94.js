@@ -1,5 +1,12 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a3118e05fb78f0cbb8246213722964db3":[7,0,0,0,1,1,0,0,5,1,0],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a3e58b30ca2efc287328e632ebab0c074":[7,0,0,0,1,1,0,0,5,1,17],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a403c809e928615ea146d13f34139ba5b":[7,0,0,0,1,1,0,0,5,1,73],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a407c46bd315d756424f11282a91638de":[7,0,0,0,1,1,0,0,5,1,64],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a40a80b70c5c6ca6547fcceafe0c26cfc":[7,0,0,0,1,1,0,0,5,1,29],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a48ccff5363dd1dc253a44c1fd13dbed3":[7,0,0,0,1,1,0,0,5,1,11],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a1aa08675589bbe24eec3a349a6d0f0":[7,0,0,0,1,1,0,0,5,1,71],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a8996079eb80d4dcb1699d52cd73ac7":[7,0,0,0,1,1,0,0,5,1,60],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4bea2ddbac89587f89839fa64ef7373b":[7,0,0,0,1,1,0,0,5,1,8],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dadde7df4c0d545ef06c92d5fcd4ffa":[7,0,0,0,1,1,0,0,5,1,58],
@@ -223,8 +230,8 @@ var NAVTREEINDEX94 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[6,0,3719,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[6,0,3719,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3719,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d2c/classspell__gen__tournament__duel.html":[6,0,2969],
 "d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,2969,0],
 "d3/d2c/classspell__gen__tournament__duel.html#a51ebef5e7fff9dfaab553ecae7be732f":[6,0,2969,3],
-"d3/d2c/classspell__gen__tournament__duel.html#ab9360c3a883dd5a7df9836306d9762ec":[6,0,2969,2],
-"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,2969,1],
-"d3/d2c/namespaceGitRevision.html":[5,0,17],
-"d3/d2c/namespaceGitRevision.html#a0353e7a37f6f7102283a92975eb1f56f":[5,0,17,0],
-"d3/d2c/namespaceGitRevision.html#a1062fcec3676f562803f4775d95a9594":[5,0,17,13],
-"d3/d2c/namespaceGitRevision.html#a10817e6a26ea352c0f79233d2ef552a8":[5,0,17,5],
-"d3/d2c/namespaceGitRevision.html#a13f3b200d2427f6546ebddd3b54b7fcf":[5,0,17,11],
-"d3/d2c/namespaceGitRevision.html#a51523316de8184739b710e472a8ce843":[5,0,17,1]
+"d3/d2c/classspell__gen__tournament__duel.html#ab9360c3a883dd5a7df9836306d9762ec":[6,0,2969,2]
 };

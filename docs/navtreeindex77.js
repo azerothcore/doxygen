@@ -1,5 +1,11 @@
 var NAVTREEINDEX77 =
 {
+"d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[6,0,3998,154],
+"d2/de9/classSpellInfo.html#a9904a9ebdd084815af5ef6d1653ffbbd":[6,0,3998,144],
+"d2/de9/classSpellInfo.html#a99fae2785bf72093933e2d0ab107c18f":[6,0,3998,51],
+"d2/de9/classSpellInfo.html#a9ab37b7b7987ad85cc0bbaad45f2b905":[6,0,3998,123],
+"d2/de9/classSpellInfo.html#a9aff74ad92b9a933cdcffe41ffd2d659":[6,0,3998,125],
+"d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[6,0,3998,111],
 "d2/de9/classSpellInfo.html#aa006aa12bf45b271115fe1c6b03177e1":[6,0,3998,183],
 "d2/de9/classSpellInfo.html#aa2eabd23552c5904652236e468bcdecf":[6,0,3998,86],
 "d2/de9/classSpellInfo.html#aa514878adc99503658ff251f089d64bf":[6,0,3998,138],
@@ -243,11 +249,5 @@ var NAVTREEINDEX77 =
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,7,0,3,1,2,2],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e1ac33c7fbf31e632a6b7d122991f58":[7,0,0,0,1,3,7,0,3,1,2,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[7,0,0,0,1,3,7,0,3,1,2,3],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cad39824970b373b4225010b0ddc8ef66f":[7,0,0,0,1,3,7,0,3,1,2,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,7,0,3,1,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0fcbab58d501df4771df38afc41cf72b":[7,0,0,0,1,3,7,0,3,1,1,0],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,7,0,3,1,3],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,0,3,1,3,4],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba13e3c4fbf4ffac2b5a7fc5c14d049293":[7,0,0,0,1,3,7,0,3,1,3,3],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,3,1,3,1]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cad39824970b373b4225010b0ddc8ef66f":[7,0,0,0,1,3,7,0,3,1,2,1]
 };

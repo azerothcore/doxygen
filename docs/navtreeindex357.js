@@ -1,5 +1,12 @@
 var NAVTREEINDEX357 =
 {
+"de/d72/classFollowerAI.html#a792d64dca1699f77f9e1f5ad81db7aab":[6,0,1036,12],
+"de/d72/classFollowerAI.html#a83977da1bbd73813e2efa1b594512ece":[6,0,1036,8],
+"de/d72/classFollowerAI.html#a83dec5983277d0b59980b44593332b8f":[6,0,1036,10],
+"de/d72/classFollowerAI.html#a8424220526302983b8770fb5b8883785":[6,0,1036,3],
+"de/d72/classFollowerAI.html#a8594920db87044310ab710e0296be488":[6,0,1036,11],
+"de/d72/classFollowerAI.html#a9d6c390022beeac0777e73062ad73b73":[6,0,1036,6],
+"de/d72/classFollowerAI.html#aa23547887bf44a222987bcde93fc8b32":[6,0,1036,13],
 "de/d72/classFollowerAI.html#aa3f9ea2a3a454aa63c0417b6c105c3a6":[6,0,1036,5],
 "de/d72/classFollowerAI.html#ab4e7a4d16884d5e484e18541569fd72e":[6,0,1036,0],
 "de/d72/classFollowerAI.html#ac46e0e5b06f2c02d8f3119e60b20d106":[6,0,1036,16],
@@ -242,12 +249,5 @@ var NAVTREEINDEX357 =
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html":[6,0,1278,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[6,0,1278,0,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a410630dbbe00acf0b69603cfc357d503":[6,0,1278,0,1],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a4cbe09489797fa0076d976f9a717a2bd":[6,0,1278,0,3],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a7a003811fcf620f3c2d11ff3498cb298":[6,0,1278,0,4],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752":[6,0,1278,0,2],
-"de/d79/classGuild.html":[6,0,1226],
-"de/d79/classGuild.html#a0145f8793b5a59d72e6409a68fa2de6f":[6,0,1226,90],
-"de/d79/classGuild.html#a01bedc65f1be1b4f56583cdc9810d321":[6,0,1226,89],
-"de/d79/classGuild.html#a02c0229f70ce90c28278db543e8d30f5":[6,0,1226,27],
-"de/d79/classGuild.html#a03604640465ea463f12530add6b0eeb7":[6,0,1226,25]
+"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a4cbe09489797fa0076d976f9a717a2bd":[6,0,1278,0,3]
 };

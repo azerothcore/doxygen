@@ -1,5 +1,12 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79baea59b299494301cbf54f39c2c95fa676":[7,0,0,0,1,3,10,5,98,7],
+"d6/d0c/go__scripts_8cpp.html#ab3bd73bdd88e936930a8eb84b4b95a62":[7,0,0,0,1,3,10,5,53],
+"d6/d0c/go__scripts_8cpp.html#ac6b02a297c94062e319baae58b848232":[7,0,0,0,1,3,10,5,77],
+"d6/d0c/go__scripts_8cpp.html#ac6b02a297c94062e319baae58b848232acd254d27323a70361e354e43562727b8":[7,0,0,0,1,3,10,5,77,0],
+"d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8c":[7,0,0,0,1,3,10,5,69],
+"d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca014ddfda0150f1f95eddd39434809e8d":[7,0,0,0,1,3,10,5,69,10],
+"d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca35d91fa7b24f28afd792162b49505c87":[7,0,0,0,1,3,10,5,69,7],
 "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca361a87b5a3ff3ad36d9b72f394763477":[7,0,0,0,1,3,10,5,69,0],
 "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca4cd90a294a2507e756e96b77d19af12f":[7,0,0,0,1,3,10,5,69,6],
 "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca6db703ca146eb7d710109737432b9f48":[7,0,0,0,1,3,10,5,69,8],
@@ -237,17 +244,10 @@ var NAVTREEINDEX162 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3026,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1321,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1321,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,30,5,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,5,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,11,5,42,1],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,30,5,42,1],
-"d6/d18/classModel.html":[6,0,1482],
-"d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1482,8],
-"d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1482,6]
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0]
 };

@@ -24,6 +24,7 @@ var UnitScript_8h =
       [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
       [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
       [ "UNITHOOK_ON_UNIT_DEATH", "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
+      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
       [ "UNITHOOK_END", "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
     ] ]
 ];

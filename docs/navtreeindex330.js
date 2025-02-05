@@ -1,5 +1,12 @@
 var NAVTREEINDEX330 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a968f589b33c3e1e12b9bc331129881de":[7,0,0,0,1,2,38,0,75,1,46],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a96aa3e5ae074904bb993a728bd585f94":[7,0,0,0,1,2,38,0,75,1,7],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97543ec0dc75c5e390325ce9e49c0b4b":[7,0,0,0,1,2,38,0,75,1,79],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[7,0,0,0,1,2,38,0,75,1,136],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9919efc658a68db165ee470614c879f6":[7,0,0,0,1,2,38,0,75,1,32],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[7,0,0,0,1,2,38,0,75,1,45],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[7,0,0,0,1,2,38,0,75,1,81],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[7,0,0,0,1,2,38,0,75,1,93],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[7,0,0,0,1,2,38,0,75,1,84],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[7,0,0,0,1,2,38,0,75,1,44],
@@ -242,12 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,653,0,13],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,653,0,4],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a41a08d44cf7282fc1fd4e950013ac475":[6,0,653,0,2],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a4dd28e487d5eadfdb4dd008b9afff93f":[6,0,653,0,5],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a81eab09e24264d4b0f75c638522f0d53":[6,0,653,0,3],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a94013866e5275d7956c09e82459c29df":[6,0,653,0,9],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9690f4d8b01077270003d8a3605620bf":[6,0,653,0,0],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9a452940701988febe58083682c59f99":[6,0,653,0,10],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9b9febdef4433db98fc87890a2abc6c6":[6,0,653,0,15],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab0b8fe3e7478638cd0ac9d87181934d6":[6,0,653,0,11],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab3448dfddf82046acfe8d1b9a9b3d216":[6,0,653,0,6]
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a4dd28e487d5eadfdb4dd008b9afff93f":[6,0,653,0,5]
 };

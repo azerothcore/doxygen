@@ -1,5 +1,12 @@
 var NAVTREEINDEX395 =
 {
+"df/de7/classOutdoorPvPTF.html#a643ab6b5318aa1fd16ef26119696fefd":[6,0,2326,23],
+"df/de7/classOutdoorPvPTF.html#a66b822334b04a8a2d72b4fe24cb9c9d5":[6,0,2326,0],
+"df/de7/classOutdoorPvPTF.html#a6ae15350f6d7b65a1bdacc6a7df9696d":[6,0,2326,21],
+"df/de7/classOutdoorPvPTF.html#a6ff61d4338983b61f653d6780c96c8d0":[6,0,2326,5],
+"df/de7/classOutdoorPvPTF.html#a7a99a565db9930f322071e667df913d8":[6,0,2326,20],
+"df/de7/classOutdoorPvPTF.html#a993b5e28423be75745c13d3514defe15":[6,0,2326,13],
+"df/de7/classOutdoorPvPTF.html#aa99c8348cd06f182cdeabbde02ae1e76":[6,0,2326,22],
 "df/de7/classOutdoorPvPTF.html#abc72dff4380cfef895c0cd535e69d5c3":[6,0,2326,14],
 "df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[6,0,2326,16],
 "df/de7/classOutdoorPvPTF.html#aea70b0297157e9cab3faf182e339ee3f":[6,0,2326,15],
@@ -242,12 +249,5 @@ var NAVTREEINDEX395 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e4ea3125a97235bd26fe6a91e15e943":[7,0,0,0,1,3,5,6,1,15,2],
 "df/df3/classboss__vaelastrasz.html":[6,0,740],
 "df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,740,1],
-"df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,740,2],
-"df/df3/structboss__grand__warlock__nethekurse.html":[6,0,490],
-"df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,490,4],
-"df/df3/structboss__grand__warlock__nethekurse.html#a48a2ec7beeb5c9685fc627317acea949":[6,0,490,3],
-"df/df3/structboss__grand__warlock__nethekurse.html#a4eefeb639cf5f0753feb6cfd99cda187":[6,0,490,0],
-"df/df3/structboss__grand__warlock__nethekurse.html#a6c647262ce7df78c46af6b725cbcc250":[6,0,490,8],
-"df/df3/structboss__grand__warlock__nethekurse.html#a8288f8c28b61dac574254435534b5e3f":[6,0,490,1],
-"df/df3/structboss__grand__warlock__nethekurse.html#a8837d810df1d8b8a505d2d6c98ac8be8":[6,0,490,13]
+"df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,740,2]
 };

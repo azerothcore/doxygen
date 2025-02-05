@@ -1,5 +1,12 @@
 var NAVTREEINDEX383 =
 {
+"df/d92/classSpellScript.html#ab3f17ad4c7e5d6955ca812c17f6fdb3a":[6,0,4015,23],
+"df/d92/classSpellScript.html#ab477a1d96d30165236840058af3d2f78":[6,0,4015,59],
+"df/d92/classSpellScript.html#ab710c9879074c1fe4eef5101373d6c8e":[6,0,4015,33],
+"df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6":[6,0,4015,58],
+"df/d92/classSpellScript.html#ac0fd1a4f71242c07aee200b98dda1295":[6,0,4015,11],
+"df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e":[6,0,4015,53],
+"df/d92/classSpellScript.html#ac2c96c7e45658bc2799b6beb486ac144":[6,0,4015,12],
 "df/d92/classSpellScript.html#acaf6e9b3897e4746f65339df351d7cc8":[6,0,4015,41],
 "df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b":[6,0,4015,67],
 "df/d92/classSpellScript.html#ad003dd5f9342f3155ab07dc6a6c92615":[6,0,4015,54],
@@ -242,12 +249,5 @@ var NAVTREEINDEX383 =
 "df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,5,4,2],
 "df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,4,9,5,4,0],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[7,0,0,0,1,3,4,9,5,2],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691":[7,0,0,0,1,3,4,9,5,2,1],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a1f971ef9ea8a68f3ddec81062b2d4d9c":[7,0,0,0,1,3,4,9,5,2,4],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a24bcb77f42cf30ab017d8602b974a49f":[7,0,0,0,1,3,4,9,5,2,7],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a34ac1d72343b97f5595bc71c8c85c4d0":[7,0,0,0,1,3,4,9,5,2,8],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aa6c2e6b44a6b6a9e5a08a897e2947c12":[7,0,0,0,1,3,4,9,5,2,2],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180":[7,0,0,0,1,3,4,9,5,2,0],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac203e34251b5f89370dd4e971b9ac20c":[7,0,0,0,1,3,4,9,5,2,6],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac98fdfb490fa896cecb40ae427f4ea75":[7,0,0,0,1,3,4,9,5,2,3]
+"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691":[7,0,0,0,1,3,4,9,5,2,1]
 };

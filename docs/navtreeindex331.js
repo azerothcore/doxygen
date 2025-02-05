@@ -1,5 +1,12 @@
 var NAVTREEINDEX331 =
 {
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a81eab09e24264d4b0f75c638522f0d53":[6,0,653,0,3],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a94013866e5275d7956c09e82459c29df":[6,0,653,0,9],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9690f4d8b01077270003d8a3605620bf":[6,0,653,0,0],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9a452940701988febe58083682c59f99":[6,0,653,0,10],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9b9febdef4433db98fc87890a2abc6c6":[6,0,653,0,15],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab0b8fe3e7478638cd0ac9d87181934d6":[6,0,653,0,11],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab3448dfddf82046acfe8d1b9a9b3d216":[6,0,653,0,6],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#abd240288ed85bb26c07be2892cd990bb":[6,0,653,0,7],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac4635cad5e60da5755e1504608320e71":[6,0,653,0,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac813528b31e7c39d2f8b74dfe6d2c556":[6,0,653,0,12],
@@ -242,12 +249,5 @@ var NAVTREEINDEX331 =
 "dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a":[6,0,833,3],
 "dd/dd6/classcharacter__commandscript.html#a5b3dbfc264d1f5b964c466ce8deb2092":[6,0,833,17],
 "dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61":[6,0,833,25],
-"dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[6,0,833,11],
-"dd/dd6/classcharacter__commandscript.html#a7f6eb67fff48f6a4596cc1f511dead55":[6,0,833,10],
-"dd/dd6/classcharacter__commandscript.html#a8658d515f4a760f41019cb59b6278ac0":[6,0,833,12],
-"dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361":[6,0,833,7],
-"dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45":[6,0,833,28],
-"dd/dd6/classcharacter__commandscript.html#aacb45e7e90071908d2029ed2a11bef35":[6,0,833,23],
-"dd/dd6/classcharacter__commandscript.html#acd6b14efed2366e2a202ba17be781801":[6,0,833,2],
-"dd/dd6/classcharacter__commandscript.html#acf117a67ef10b7894190ff2c0cd881fd":[6,0,833,14]
+"dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[6,0,833,11]
 };

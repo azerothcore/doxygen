@@ -1,5 +1,12 @@
 var NAVTREEINDEX198 =
 {
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca6ef3d3176238bc6f7a078dd18b7a7d43":[7,0,0,0,1,3,5,9,0,0,4,9],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688":[7,0,0,0,1,3,5,9,0,0,4,0],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca8f1e729a2691ae197dd2e50093d7cef9":[7,0,0,0,1,3,5,9,0,0,4,10],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca9141549f0f2af9036ec564fc86f02f9a":[7,0,0,0,1,3,5,9,0,0,4,7],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca92fa70f34449aff6e5f446edfbf17db4":[7,0,0,0,1,3,5,9,0,0,4,11],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca9f7b79338b81736f4c09a76aef4bee15":[7,0,0,0,1,3,5,9,0,0,4,4],
+"d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dcac5deb5b1814a6648fd46b7769f9b061e":[7,0,0,0,1,3,5,9,0,0,4,5],
 "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dcaca71c4efbc2a36db2583131534dd0862":[7,0,0,0,1,3,5,9,0,0,4,6],
 "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2":[7,0,0,0,1,3,5,9,0,0,6],
 "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,9,0,0,6,13],
@@ -242,12 +249,5 @@ var NAVTREEINDEX198 =
 "d7/db0/classMap.html#a2066adfabc94652ade91fa3b2b35a937":[6,0,1448,208],
 "d7/db0/classMap.html#a206b4c17898cfce5054c4b7d0f697c8c":[6,0,1448,20],
 "d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e":[6,0,1448,179],
-"d7/db0/classMap.html#a21c6166319040063a8d058a26aabeb05":[6,0,1448,212],
-"d7/db0/classMap.html#a228e6533530589390b4fee1b8a7587b6":[6,0,1448,253],
-"d7/db0/classMap.html#a244aea889f48a5b71d2a7af3ad558eea":[6,0,1448,64],
-"d7/db0/classMap.html#a25fa975068bf7f9dbe7debefa576c822":[6,0,1448,144],
-"d7/db0/classMap.html#a26e0f008f26f76f9a704ca5382602220":[6,0,1448,159],
-"d7/db0/classMap.html#a289d7a7685f1b9ebd6bb984e76ad264f":[6,0,1448,172],
-"d7/db0/classMap.html#a2bde51e9e566b6752bbc03bfe3633700":[6,0,1448,148],
-"d7/db0/classMap.html#a31253f7c387fb9518d0b4704c79f6453":[6,0,1448,223]
+"d7/db0/classMap.html#a21c6166319040063a8d058a26aabeb05":[6,0,1448,212]
 };

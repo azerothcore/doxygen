@@ -1,5 +1,12 @@
 var NAVTREEINDEX303 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,5,6],
+"dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,6,0],
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,5,8],
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aabc6c3d94a26fb54873e0b776c36bfe3":[7,0,0,0,1,3,5,7,5,8,2],
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abdefdaaa767f3271b85dae75d4a3f920":[7,0,0,0,1,3,5,7,5,8,0],
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aec51ad24c8152f7f821576aa2fbaa5ad":[7,0,0,0,1,3,5,7,5,8,1],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,5,9],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dd4744c8d528ca10f6d77005740da62":[7,0,0,0,1,3,5,7,5,9,8],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca632b63ff701695a506937cb49c1f3a97":[7,0,0,0,1,3,5,7,5,9,5],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a086a4956dd824479e8022f3763089c":[7,0,0,0,1,3,5,7,5,9,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d81/classCreatureTextMgr.html#a826a3cd2e991c358a98fced5512297dd":[6,0,919,7],
 "dc/d81/classCreatureTextMgr.html#a880bb1943637b9e867ff3633c9d7390f":[6,0,919,18],
 "dc/d81/classCreatureTextMgr.html#a8b9dc67f09242b5ade7405663ca52fda":[6,0,919,11],
-"dc/d81/classCreatureTextMgr.html#a92acbdab30a8942859e01526144b9989":[6,0,919,6],
-"dc/d81/classCreatureTextMgr.html#a93c7fa546a0f41e7d59c6782aecee070":[6,0,919,9],
-"dc/d81/classCreatureTextMgr.html#aa36b6dd5010eea049973122bec4fceb1":[6,0,919,13],
-"dc/d81/classCreatureTextMgr.html#aa92d99a93a387193a10eb7a30c59b86e":[6,0,919,15],
-"dc/d81/classCreatureTextMgr.html#aaa36b5a9223c7521e1b2a222fce77d79":[6,0,919,4],
-"dc/d81/classCreatureTextMgr.html#ad25faab453d0f5d6270797eeeb5e2e40":[6,0,919,17],
-"dc/d81/classCreatureTextMgr.html#aeddebd7d3fcf604ee4d11b77ff87fd53":[6,0,919,3],
-"dc/d82/cs__modify_8cpp.html":[7,0,0,0,1,3,0,31]
+"dc/d81/classCreatureTextMgr.html#a92acbdab30a8942859e01526144b9989":[6,0,919,6]
 };

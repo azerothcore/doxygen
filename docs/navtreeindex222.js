@@ -1,5 +1,12 @@
 var NAVTREEINDEX222 =
 {
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#abb34f62f4e4a7f88909b1293163b8c8e":[6,0,739,0,7],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#abeb96b1a52d3daf6d8df91a4ce96dfa8":[6,0,739,0,0],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ad195384e0216075b7cae67875a0d7284":[6,0,739,0,9],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ad298bdd2619770af73265b10e77f1190":[6,0,739,0,6],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#adbc7a01adc7dd95894f3d175677353e3":[6,0,739,0,8],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ae4948d320ec32a56f514f8f01061c524":[6,0,739,0,19],
+"d8/dc5/structboss__flame__leviathan__overload__device_1_1boss__flame__leviathan__overload__deviceAI.html":[6,0,454,0],
 "d8/dc5/structboss__flame__leviathan__overload__device_1_1boss__flame__leviathan__overload__deviceAI.html#ab28c1371c20672e717f92fbc3656fb99":[6,0,454,0,0],
 "d8/dc5/structboss__flame__leviathan__overload__device_1_1boss__flame__leviathan__overload__deviceAI.html#af432be27e1b91ecf5a5a53c7b6add39e":[6,0,454,0,1],
 "d8/dc6/classcheat__commandscript.html":[6,0,854],
@@ -242,12 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dd6/DBCfmt_8h.html#ad352960633bbb13f0547e8bc178c3904":[7,0,0,0,1,4,0,3,92],
 "d8/dd6/DBCfmt_8h.html#ad4c1a6dedecbad2cc8d408c4f235ec5a":[7,0,0,0,1,4,0,3,108],
 "d8/dd6/DBCfmt_8h.html#ad516fbb2bc7db2c384e8f9faad03031d":[7,0,0,0,1,4,0,3,75],
-"d8/dd6/DBCfmt_8h.html#ad8adff9a6975691d070f94ece5e7e472":[7,0,0,0,1,4,0,3,66],
-"d8/dd6/DBCfmt_8h.html#ada48428223882e4dd280a6f63d844747":[7,0,0,0,1,4,0,3,37],
-"d8/dd6/DBCfmt_8h.html#adb60db2b749517e7348b473209a0612b":[7,0,0,0,1,4,0,3,87],
-"d8/dd6/DBCfmt_8h.html#adb68b136848388f72a972ad59d716159":[7,0,0,0,1,4,0,3,7],
-"d8/dd6/DBCfmt_8h.html#adbac7eb0f3fcc8bd7bf4d6ff2b2202fc":[7,0,0,0,1,4,0,3,56],
-"d8/dd6/DBCfmt_8h.html#add18020ae04f21f15e709f54fb24ce7e":[7,0,0,0,1,4,0,3,106],
-"d8/dd6/DBCfmt_8h.html#ade554da74d26f293d377fd1089514951":[7,0,0,0,1,4,0,3,55],
-"d8/dd6/DBCfmt_8h.html#adf8b8e5906d0a846642f9a453bfbbe66":[7,0,0,0,1,4,0,3,99]
+"d8/dd6/DBCfmt_8h.html#ad8adff9a6975691d070f94ece5e7e472":[7,0,0,0,1,4,0,3,66]
 };

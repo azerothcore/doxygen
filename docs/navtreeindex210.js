@@ -1,5 +1,12 @@
 var NAVTREEINDEX210 =
 {
+"d8/d36/classspell__dk__death__strike.html":[6,0,2718],
+"d8/d36/classspell__dk__death__strike.html#a2fe4b009fa3741c180e18730af5853e3":[6,0,2718,1],
+"d8/d36/classspell__dk__death__strike.html#a42fbc381d7ae89f1ac265fb15ebd864f":[6,0,2718,3],
+"d8/d36/classspell__dk__death__strike.html#a54f7f56a9122b623855eb9d11e34dfca":[6,0,2718,0],
+"d8/d36/classspell__dk__death__strike.html#a762c2320ab8d48e1284d81962a4b078f":[6,0,2718,2],
+"d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html":[6,0,2069,0],
+"d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a0d2649de651279fa6bbe3ae2f18571bb":[6,0,2069,0,5],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a14523a24042d23efbafc7924f394dd04":[6,0,2069,0,3],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a2deaa1aeed26b862e93055d90c9139d6":[6,0,2069,0,7],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a9bcbd0b0b6b12058a8356ce274b6a597":[6,0,2069,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d41/classnpc__great__bear__spirit.html#aae026f4cf8b0de61d36a841dcfdbd92e":[6,0,1785,2],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html":[6,0,881],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a40b7d4b51ba0849a77a41abc76407e39":[6,0,881,0],
-"d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a8762b1028a8b81762e9b08fd45d13269":[6,0,881,1],
-"d8/d45/classnpc__adventurous__dwarf.html":[6,0,1535],
-"d8/d45/classnpc__adventurous__dwarf.html#a15c39e217907189db9be7799e696f310":[6,0,1535,1],
-"d8/d45/classnpc__adventurous__dwarf.html#ab69e3e249f7075d5344ad79bf9c79b79":[6,0,1535,3],
-"d8/d45/classnpc__adventurous__dwarf.html#ac3f124fab8520a16ccd73e058a0383b1":[6,0,1535,2],
-"d8/d45/classnpc__adventurous__dwarf.html#aebb2cd209f71d8ab56a29e5bfd668def":[6,0,1535,4],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html":[6,0,578,0],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a1abcf157e05eeb634f8e857a2de35538":[6,0,578,0,3]
+"d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a8762b1028a8b81762e9b08fd45d13269":[6,0,881,1]
 };

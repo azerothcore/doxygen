@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[6,0,2779,1],
 "d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[6,0,2779,2],
 "d2/d27/classspell__warr__deep__wounds.html":[6,0,3918],
 "d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[6,0,3918,2],
@@ -46,12 +47,12 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3018,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3018,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3018,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,119,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,131,1],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,119,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,879],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a0df153dab1ff6150d5a1f951bbf1cefe":[7,0,0,0,1,2,8,0,1,10,2],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a103933bda044ac8a918b223c4973ebd1":[7,0,0,0,1,2,8,0,1,10,23],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a16b4786413200180dbd3039de1a094f2":[7,0,0,0,1,2,8,0,1,10,21],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2098795ff583a05546cfb1d4b65be4d3":[7,0,0,0,1,2,8,0,1,10,1],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2162382f9fb7ed5babb7b0d26c848d96":[7,0,0,0,1,2,8,0,1,10,9]
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2098795ff583a05546cfb1d4b65be4d3":[7,0,0,0,1,2,8,0,1,10,1]
 };

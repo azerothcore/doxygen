@@ -1,5 +1,12 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a02fd624b35669dc53b2c0f0d03f5ba00":[7,0,0,0,1,3,5,9,2,13,61,29],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a0912de16269adc521be2ce9dd8c554c7":[7,0,0,0,1,3,5,9,2,13,61,9],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a13623f5718ebc8cf5578624ff570f782":[7,0,0,0,1,3,5,9,2,13,61,27],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a1fe3875c1c6b6fa871ccd6a966089957":[7,0,0,0,1,3,5,9,2,13,61,32],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a1ffbe78b2b001b80e097e419bd11fa06":[7,0,0,0,1,3,5,9,2,13,61,0],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a2208476e0e36e4b3b2c43f2107677364":[7,0,0,0,1,3,5,9,2,13,61,18],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a393c390b7eca055fec6aa34ff251bf49":[7,0,0,0,1,3,5,9,2,13,61,30],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a3b846f3903fd3a295a301448c6334011":[7,0,0,0,1,3,5,9,2,13,61,13],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a3e97649ec5321791dd8d502190da103b":[7,0,0,0,1,3,5,9,2,13,61,11],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a410c2060d0090664c0d5958e116dd0e4":[7,0,0,0,1,3,5,9,2,13,61,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d45/classgo__beacon.html#ad4224cabdc7210d9a0a46fb1eed1a23b":[6,0,1099,1],
 "d3/d46/classspell__mage__mirror__image.html":[6,0,3343],
 "d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3343,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3343,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3343,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3343,3],
-"d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
-"d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
-"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
-"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a207b52a98fe743bd023873d8aca44a1e":[7,0,0,0,1,3,5,2,0,4,2,7],
-"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a33ac80be638517741bbfda307044213b":[7,0,0,0,1,3,5,2,0,4,2,9]
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3343,2]
 };

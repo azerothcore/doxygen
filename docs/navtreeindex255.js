@@ -1,5 +1,12 @@
 var NAVTREEINDEX255 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcadae3d6521487d96fb767d565d60fac37":[7,0,0,0,1,3,2,12,4,17,29],
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcae3be05a62d5adfd68ed216d8a39ab32a":[7,0,0,0,1,3,2,12,4,17,4],
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcaeaf75fa0b3ca1483fcd422b7006fcb18":[7,0,0,0,1,3,2,12,4,17,39],
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcaebbed9679cd99d3722899592c22ac17a":[7,0,0,0,1,3,2,12,4,17,49],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,12,4,16],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2a8d0095413ef6943bcecfd00c73dc82":[7,0,0,0,1,3,2,12,4,16,4],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4846ee5436abffae218febaa5b90ba2e":[7,0,0,0,1,3,2,12,4,16,5],
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a54bbe131e337ab949ec40be98c3c1671":[7,0,0,0,1,3,2,12,4,16,3],
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5f801295fd3e5a8d83976ee5cacd0788":[7,0,0,0,1,3,2,12,4,16,2],
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f9a2a510d15bda8318e3fc715e0b2df":[7,0,0,0,1,3,2,12,4,16,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX255 =
 "da/d82/structboss__loken_1_1boss__lokenAI.html#a0855580a471661925fdf272dedb418fd":[6,0,579,0,5],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37":[6,0,579,0,1],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#a51c7ca1ce5a0b4837d2fbc033c06a864":[6,0,579,0,6],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#a853a371812a856f39137c665fcc09b86":[6,0,579,0,4],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#a8f20ce4cddf7eae09ddc659b9bf75919":[6,0,579,0,11],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#aba89a46dae1d4d195c8be10d89fb72ab":[6,0,579,0,12],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#abdadd98c337f97f6a1daf1657f2f3ab2":[6,0,579,0,0],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#ac3b98aeba2741ee49d262b33d30f8b2a":[6,0,579,0,8],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#acc5b453efca847a6cada43606b8a08ed":[6,0,579,0,7],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#ad9f9e369ce64bab66f29899659440b62":[6,0,579,0,9],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#ae92b9ff0abd8580baf7a2fca56e0df23":[6,0,579,0,10]
+"da/d82/structboss__loken_1_1boss__lokenAI.html#a853a371812a856f39137c665fcc09b86":[6,0,579,0,4]
 };

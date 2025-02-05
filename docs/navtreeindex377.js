@@ -1,5 +1,12 @@
 var NAVTREEINDEX377 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[6,0,5,2,16],
+"df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[5,0,18,2,16],
+"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[5,0,18,2,14],
+"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[6,0,5,2,14],
+"df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[6,0,5,2,24],
+"df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[5,0,18,2,24],
+"df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[5,0,18,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[6,0,5,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[6,0,5,2,17],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[5,0,18,2,17],
@@ -242,12 +249,5 @@ var NAVTREEINDEX377 =
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[6,0,3780,3],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a3240b42a9122e61b57ea91486cb3c97b":[6,0,3780,1],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3780,2],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3780,0],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3501],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3501,1],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3501,2],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3501,0],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
-"df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4]
+"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3780,0]
 };

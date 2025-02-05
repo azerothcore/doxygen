@@ -862,6 +862,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af3d959fef12bb74fa1f41a6dcd57c9d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9f91315435a0c8c5383bc89c6bacfb4f" id="r_a9f91315435a0c8c5383bc89c6bacfb4f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#a9f91315435a0c8c5383bc89c6bacfb4f">OnUnitDeath</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *killer)</td></tr>
 <tr class="separator:a9f91315435a0c8c5383bc89c6bacfb4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afebd2c8dbe07c66a60a59484e65361ce" id="r_afebd2c8dbe07c66a60a59484e65361ce"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce">OnUnitSetShapeshiftForm</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> form)</td></tr>
+<tr class="separator:afebd2c8dbe07c66a60a59484e65361ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b0dcf878b3d4e5658c6d1f51eed2d32" id="r_a4b0dcf878b3d4e5658c6d1f51eed2d32"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#a4b0dcf878b3d4e5658c6d1f51eed2d32">OnPlayerMove</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../d2/dd1/structMovementInfo.html">MovementInfo</a> movementInfo, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> opcode)</td></tr>
 <tr class="separator:a4b0dcf878b3d4e5658c6d1f51eed2d32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad69221d10bf53ac4bb1fb90e0816581" id="r_aad69221d10bf53ac4bb1fb90e0816581"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#aad69221d10bf53ac4bb1fb90e0816581">OnBeforeCreatureSelectLevel</a> (const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *cinfo, <a class="el" href="../../db/dd5/classCreature.html">Creature</a> *creature, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;level)</td></tr>
@@ -1136,10 +1138,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   49</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>(0),</div>
 <div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">_script_loader_callback</a>(<span class="keyword">nullptr</span>),</div>
 <div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">_modules_loader_callback</a>(<span class="keyword">nullptr</span>) { }</div>
-<div class="ttc" id="aclassScriptMgr_html_a5471a436187bcfe433cc1ec3e92a9927"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">ScriptMgr::_modules_loader_callback</a></div><div class="ttdeci">ModulesLoaderCallbackType _modules_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:710</div></div>
-<div class="ttc" id="aclassScriptMgr_html_a9fa3ba2c67851169c3b0409082079ef3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">ScriptMgr::_script_loader_callback</a></div><div class="ttdeci">ScriptLoaderCallbackType _script_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:709</div></div>
-<div class="ttc" id="aclassScriptMgr_html_ada1cacc5d2f49d1cf5b5ff6792a58aff"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">ScriptMgr::_scriptCount</a></div><div class="ttdeci">uint32 _scriptCount</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:704</div></div>
-<div class="ttc" id="aclassScriptMgr_html_ade23010aa6e30ef92583d98e40b34251"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">ScriptMgr::_scheduledScripts</a></div><div class="ttdeci">std::atomic&lt; long &gt; _scheduledScripts</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:707</div></div>
+<div class="ttc" id="aclassScriptMgr_html_a5471a436187bcfe433cc1ec3e92a9927"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">ScriptMgr::_modules_loader_callback</a></div><div class="ttdeci">ModulesLoaderCallbackType _modules_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:711</div></div>
+<div class="ttc" id="aclassScriptMgr_html_a9fa3ba2c67851169c3b0409082079ef3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">ScriptMgr::_script_loader_callback</a></div><div class="ttdeci">ScriptLoaderCallbackType _script_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:710</div></div>
+<div class="ttc" id="aclassScriptMgr_html_ada1cacc5d2f49d1cf5b5ff6792a58aff"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">ScriptMgr::_scriptCount</a></div><div class="ttdeci">uint32 _scriptCount</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:705</div></div>
+<div class="ttc" id="aclassScriptMgr_html_ade23010aa6e30ef92583d98e40b34251"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">ScriptMgr::_scheduledScripts</a></div><div class="ttdeci">std::atomic&lt; long &gt; _scheduledScripts</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:708</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -2738,7 +2740,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   65</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff">CanPacketReceive</a>(session, copy));</div>
 <div class="line"><span class="lineno">   66</span>}</div>
 <div class="ttc" id="aServerScript_8h_html_af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971"><div class="ttname"><a href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_RECEIVE</div><div class="ttdef"><b>Definition</b> ServerScript.h:32</div></div>
-<div class="ttc" id="aclassScriptRegistry_html"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition</b> ScriptMgr.h:717</div></div>
+<div class="ttc" id="aclassScriptRegistry_html"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition</b> ScriptMgr.h:718</div></div>
 <div class="ttc" id="aclassServerScript_html"><div class="ttname"><a href="../../da/dc8/classServerScript.html">ServerScript</a></div><div class="ttdef"><b>Definition</b> ServerScript.h:37</div></div>
 <div class="ttc" id="aclassServerScript_html_a9c817a6f922029c9c58f783c4ebc18ff"><div class="ttname"><a href="../../da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff">ServerScript::CanPacketReceive</a></div><div class="ttdeci">virtual bool CanPacketReceive(WorldSession *, WorldPacket &amp;)</div><div class="ttdoc">Called when a (valid) packet is received by a client. The packet object is a copy of the original pac...</div><div class="ttdef"><b>Definition</b> ServerScript.h:72</div></div>
 <div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
@@ -3580,10 +3582,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  108</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93">UNITHOOK_CAN_SET_PHASE_MASK</a>, !script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf">CanSetPhaseMask</a>(unit, newPhaseMask, update));</div>
 <div class="line"><span class="lineno">  109</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93">UNITHOOK_CAN_SET_PHASE_MASK</a></div><div class="ttdeci">@ UNITHOOK_CAN_SET_PHASE_MASK</div><div class="ttdef"><b>Definition</b> UnitScript.h:39</div></div>
-<div class="ttc" id="aclassUnitScript_html"><div class="ttname"><a href="../../d2/d12/classUnitScript.html">UnitScript</a></div><div class="ttdef"><b>Definition</b> UnitScript.h:56</div></div>
-<div class="ttc" id="aclassUnitScript_html_a95d2e7dd7074494fdd4f530f9684c1bf"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf">UnitScript::CanSetPhaseMask</a></div><div class="ttdeci">virtual bool CanSetPhaseMask(Unit const *, uint32, bool)</div><div class="ttdef"><b>Definition</b> UnitScript.h:97</div></div>
+<div class="ttc" id="aclassUnitScript_html"><div class="ttname"><a href="../../d2/d12/classUnitScript.html">UnitScript</a></div><div class="ttdef"><b>Definition</b> UnitScript.h:57</div></div>
+<div class="ttc" id="aclassUnitScript_html_a95d2e7dd7074494fdd4f530f9684c1bf"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf">UnitScript::CanSetPhaseMask</a></div><div class="ttdeci">virtual bool CanSetPhaseMask(Unit const *, uint32, bool)</div><div class="ttdef"><b>Definition</b> UnitScript.h:98</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00097">UnitScript::CanSetPhaseMask()</a>, and <a class="el" href="../../#l00039">UNITHOOK_CAN_SET_PHASE_MASK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00098">UnitScript::CanSetPhaseMask()</a>, and <a class="el" href="../../#l00039">UNITHOOK_CAN_SET_PHASE_MASK</a>.</p>
 
 </div>
 </div>
@@ -3848,7 +3850,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1643</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00159">LoadDatabase()</a>.</p>
 
@@ -3954,12 +3956,12 @@ Friends</h2></td></tr>
 <div class="ttc" id="aObjectMgr_8h_html_a2f79d1bd10a4458336bb9739571c8d95"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a2f79d1bd10a4458336bb9739571c8d95">SpellScriptsBounds</a></div><div class="ttdeci">std::pair&lt; SpellScriptsContainer::iterator, SpellScriptsContainer::iterator &gt; SpellScriptsBounds</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:388</div></div>
 <div class="ttc" id="aclassAuraScript_html"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html">AuraScript</a></div><div class="ttdef"><b>Definition</b> SpellScript.h:517</div></div>
 <div class="ttc" id="aclassScriptObject_html_a79588d839860d2f5caab60c5f1368f10"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html#a79588d839860d2f5caab60c5f1368f10">ScriptObject::GetName</a></div><div class="ttdeci">const std::string &amp; GetName() const</div><div class="ttdef"><b>Definition</b> ScriptObject.h:53</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a22226c545e7975d4c612e7adcc766d05"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05">ScriptRegistry::GetScriptById</a></div><div class="ttdeci">static TScript * GetScriptById(uint32 id)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:846</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a22226c545e7975d4c612e7adcc766d05"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05">ScriptRegistry::GetScriptById</a></div><div class="ttdeci">static TScript * GetScriptById(uint32 id)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:847</div></div>
 <div class="ttc" id="aclassSpellScriptLoader_html"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html">SpellScriptLoader</a></div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:26</div></div>
 <div class="ttc" id="aclassSpellScriptLoader_html_a9c60850e39ffe3d151a128b12777859d"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html#a9c60850e39ffe3d151a128b12777859d">SpellScriptLoader::GetAuraScript</a></div><div class="ttdeci">virtual AuraScript * GetAuraScript() const</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:37</div></div>
 <div class="ttc" id="aclass__SpellScript_html_ae85c836ab2da173942a40b53561df1fb"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#ae85c836ab2da173942a40b53561df1fb">_SpellScript::_Init</a></div><div class="ttdeci">virtual void _Init(std::string const *scriptname, uint32 spellId)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00037">SpellScriptLoader::GetAuraScript()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00037">SpellScriptLoader::GetAuraScript()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -4012,7 +4014,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>}</div>
 <div class="ttc" id="aclassInstanceMap_html_a6f3eccbe5d67aec9aeab45a11432b9da"><div class="ttname"><a href="../../de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da">InstanceMap::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Map.h:827</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00827">InstanceMap::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00827">InstanceMap::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -4038,7 +4040,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;GetOutdoorPvP() : <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   28</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00034">OutdoorPvPData::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00034">OutdoorPvPData::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -4081,7 +4083,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   76</span>    }</div>
 <div class="line"><span class="lineno">   77</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -4132,7 +4134,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassSpellScriptLoader_html_a6f3a101a0517ba1440399809cf7f5b5b"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html#a6f3a101a0517ba1440399809cf7f5b5b">SpellScriptLoader::GetSpellScript</a></div><div class="ttdeci">virtual SpellScript * GetSpellScript() const</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:34</div></div>
 <div class="ttc" id="aclassSpellScript_html"><div class="ttname"><a href="../../df/d92/classSpellScript.html">SpellScript</a></div><div class="ttdef"><b>Definition</b> SpellScript.h:182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00034">SpellScriptLoader::GetSpellScript()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00034">SpellScriptLoader::GetSpellScript()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -4255,7 +4257,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  532</span>{ <span class="keywordflow">return</span> --<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00707">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00708">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -4284,7 +4286,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  533</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a> -= count; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00707">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00708">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -4312,7 +4314,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  127</span>{ --<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00704">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00705">_scriptCount</a>.</p>
 
 </div>
 </div>
@@ -4525,7 +4527,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassAllCreatureScript_html_a1e568b6f85a8b60a65a987c8d081ca3e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e">AllCreatureScript::GetCreatureAI</a></div><div class="ttdeci">virtual CreatureAI * GetCreatureAI(Creature *) const</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:101</div></div>
 <div class="ttc" id="aclassCreature_html_a8547005ac66de0dcd1e64a7958a32be7"><div class="ttname"><a href="../../db/dd5/classCreature.html#a8547005ac66de0dcd1e64a7958a32be7">Creature::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Creature.cpp:3062</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00101">AllCreatureScript::GetCreatureAI()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00101">AllCreatureScript::GetCreatureAI()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -4563,7 +4565,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  154</span>}</div>
 <div class="ttc" id="aQuestDef_8h_html_a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3">DIALOG_STATUS_SCRIPTED_NO_STATUS</a></div><div class="ttdeci">@ DIALOG_STATUS_SCRIPTED_NO_STATUS</div><div class="ttdef"><b>Definition</b> QuestDef.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -4601,7 +4603,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  132</span>}</div>
 <div class="ttc" id="aclassGameObject_html_a9f7f632d6874756694f82f140ae93ea5"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a9f7f632d6874756694f82f140ae93ea5">GameObject::GetScriptId</a></div><div class="ttdeci">virtual uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> GameObject.cpp:2181</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -4674,7 +4676,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassAllGameObjectScript_html"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html">AllGameObjectScript</a></div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:24</div></div>
 <div class="ttc" id="aclassAllGameObjectScript_html_afe0c610693bc883415952ba350596788"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#afe0c610693bc883415952ba350596788">AllGameObjectScript::GetGameObjectAI</a></div><div class="ttdeci">virtual GameObjectAI * GetGameObjectAI(GameObject *) const</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00086">AllGameObjectScript::GetGameObjectAI()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00086">AllGameObjectScript::GetGameObjectAI()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -4702,7 +4704,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  128</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00704">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00705">_scriptCount</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00159">LoadDatabase()</a>.</p>
 
@@ -4743,9 +4745,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   88</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c">UNITHOOK_IF_NORMAL_REACTION</a>, !script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2">IfNormalReaction</a>(unit, target, repRank));</div>
 <div class="line"><span class="lineno">   89</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c">UNITHOOK_IF_NORMAL_REACTION</a></div><div class="ttdeci">@ UNITHOOK_IF_NORMAL_REACTION</div><div class="ttdef"><b>Definition</b> UnitScript.h:35</div></div>
-<div class="ttc" id="aclassUnitScript_html_a355d024283b4ce02a2fdcf551c75c3b2"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2">UnitScript::IfNormalReaction</a></div><div class="ttdeci">virtual bool IfNormalReaction(Unit const *, Unit const *, ReputationRank &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:89</div></div>
+<div class="ttc" id="aclassUnitScript_html_a355d024283b4ce02a2fdcf551c75c3b2"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2">UnitScript::IfNormalReaction</a></div><div class="ttdeci">virtual bool IfNormalReaction(Unit const *, Unit const *, ReputationRank &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00089">UnitScript::IfNormalReaction()</a>, and <a class="el" href="../../#l00035">UNITHOOK_IF_NORMAL_REACTION</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00090">UnitScript::IfNormalReaction()</a>, and <a class="el" href="../../#l00035">UNITHOOK_IF_NORMAL_REACTION</a>.</p>
 
 </div>
 </div>
@@ -4773,7 +4775,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  531</span>{ <span class="keywordflow">return</span> ++<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00707">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00708">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -4801,7 +4803,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  126</span>{ ++<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00704">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00705">_scriptCount</a>.</p>
 
 </div>
 </div>
@@ -4887,13 +4889,13 @@ Friends</h2></td></tr>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a></div><div class="ttdeci">@ PLAYERHOOK_END</div><div class="ttdef"><b>Definition</b> PlayerScript.h:208</div></div>
 <div class="ttc" id="aServerScript_8h_html_af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc"><div class="ttname"><a href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a></div><div class="ttdeci">@ SERVERHOOK_END</div><div class="ttdef"><b>Definition</b> ServerScript.h:33</div></div>
 <div class="ttc" id="aSmartAI_8cpp_html_ab6012619ba76775b314475ec60f8c7d7"><div class="ttname"><a href="../../db/d17/SmartAI_8cpp.html#ab6012619ba76775b314475ec60f8c7d7">AddSC_SmartScripts</a></div><div class="ttdeci">void AddSC_SmartScripts()</div><div class="ttdoc">Registers scripts required by the SAI scripting system.</div><div class="ttdef"><b>Definition</b> SmartAI.cpp:1318</div></div>
-<div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a></div><div class="ttdeci">@ UNITHOOK_END</div><div class="ttdef"><b>Definition</b> UnitScript.h:48</div></div>
+<div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a></div><div class="ttdeci">@ UNITHOOK_END</div><div class="ttdef"><b>Definition</b> UnitScript.h:49</div></div>
 <div class="ttc" id="aWorldObjectScript_8h_html_ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59"><div class="ttname"><a href="../../d4/dee/WorldObjectScript_8h.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59">WORLDOBJECTHOOK_END</a></div><div class="ttdeci">@ WORLDOBJECTHOOK_END</div><div class="ttdef"><b>Definition</b> WorldObjectScript.h:31</div></div>
 <div class="ttc" id="aWorldScript_8h_html_a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800"><div class="ttname"><a href="../../dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a></div><div class="ttdeci">@ WORLDHOOK_END</div><div class="ttdef"><b>Definition</b> WorldScript.h:40</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:737</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:738</div></div>
 <div class="ttc" id="anamespacelfg_html_a9624b9328e26a9f420a4a3f07e253763"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a9624b9328e26a9f420a4a3f07e253763">lfg::AddSC_LFGScripts</a></div><div class="ttdeci">void AddSC_LFGScripts()</div><div class="ttdef"><b>Definition</b> LFGScripts.cpp:319</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00710">_modules_loader_callback</a>, <a class="el" href="../../#l00709">_script_loader_callback</a>, <a class="el" href="../../#l00035">ACCOUNTHOOK_END</a>, <a class="el" href="../../#l00033">ACHIEVEMENTHOOK_END</a>, <a class="el" href="../../#l00319">lfg::AddSC_LFGScripts()</a>, <a class="el" href="../../#l01318">AddSC_SmartScripts()</a>, <a class="el" href="../../#l00043">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00030">ALLCOMMANDHOOK_END</a>, <a class="el" href="../../#l00033">ALLMAPHOOK_END</a>, <a class="el" href="../../#l00042">ALLSPELLHOOK_END</a>, <a class="el" href="../../#l00032">ARENAHOOK_END</a>, <a class="el" href="../../#l00032">ARENATEAMHOOK_END</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">AUCTIONHOUSEHOOK_END</a>, <a class="el" href="../../#l00028">DATABASEHOOK_END</a>, <a class="el" href="../../#l00035">FORMULAHOOK_END</a>, <a class="el" href="../../#l00029">GAMEEVENTHOOK_END</a>, <a class="el" href="../../#l00050">GLOBALHOOK_END</a>, <a class="el" href="../../#l00034">GROUPHOOK_END</a>, <a class="el" href="../../#l00039">GUILDHOOK_END</a>, <a class="el" href="../../#l00737">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00027">LOOTHOOK_END</a>, <a class="el" href="../../#l00027">MAILHOOK_END</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00028">MOVEMENTHOOK_END</a>, <a class="el" href="../../#l00032">PETHOOK_END</a>, <a class="el" href="../../#l00208">PLAYERHOOK_END</a>, <a class="el" href="../../#l00033">SERVERHOOK_END</a>, <a class="el" href="../../#l00048">UNITHOOK_END</a>, <a class="el" href="../../#l00040">WORLDHOOK_END</a>, and <a class="el" href="../../#l00031">WORLDOBJECTHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00711">_modules_loader_callback</a>, <a class="el" href="../../#l00710">_script_loader_callback</a>, <a class="el" href="../../#l00035">ACCOUNTHOOK_END</a>, <a class="el" href="../../#l00033">ACHIEVEMENTHOOK_END</a>, <a class="el" href="../../#l00319">lfg::AddSC_LFGScripts()</a>, <a class="el" href="../../#l01318">AddSC_SmartScripts()</a>, <a class="el" href="../../#l00043">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00030">ALLCOMMANDHOOK_END</a>, <a class="el" href="../../#l00033">ALLMAPHOOK_END</a>, <a class="el" href="../../#l00042">ALLSPELLHOOK_END</a>, <a class="el" href="../../#l00032">ARENAHOOK_END</a>, <a class="el" href="../../#l00032">ARENATEAMHOOK_END</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">AUCTIONHOUSEHOOK_END</a>, <a class="el" href="../../#l00028">DATABASEHOOK_END</a>, <a class="el" href="../../#l00035">FORMULAHOOK_END</a>, <a class="el" href="../../#l00029">GAMEEVENTHOOK_END</a>, <a class="el" href="../../#l00050">GLOBALHOOK_END</a>, <a class="el" href="../../#l00034">GROUPHOOK_END</a>, <a class="el" href="../../#l00039">GUILDHOOK_END</a>, <a class="el" href="../../#l00738">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00027">LOOTHOOK_END</a>, <a class="el" href="../../#l00027">MAILHOOK_END</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00028">MOVEMENTHOOK_END</a>, <a class="el" href="../../#l00032">PETHOOK_END</a>, <a class="el" href="../../#l00208">PLAYERHOOK_END</a>, <a class="el" href="../../#l00033">SERVERHOOK_END</a>, <a class="el" href="../../#l00049">UNITHOOK_END</a>, <a class="el" href="../../#l00040">WORLDHOOK_END</a>, and <a class="el" href="../../#l00031">WORLDOBJECTHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -5078,9 +5080,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  113</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a370083225ad9db5b05a730ce4fb26d2f">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7">UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a1859b5ca0970c3a358a4ba0207f281de">IsCustomBuildValuesUpdate</a>(unit, updateType, fieldBuffer, target, index));</div>
 <div class="line"><span class="lineno">  114</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7">UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE</a></div><div class="ttdeci">@ UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE</div><div class="ttdef"><b>Definition</b> UnitScript.h:40</div></div>
-<div class="ttc" id="aclassUnitScript_html_a1859b5ca0970c3a358a4ba0207f281de"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a1859b5ca0970c3a358a4ba0207f281de">UnitScript::IsCustomBuildValuesUpdate</a></div><div class="ttdeci">virtual bool IsCustomBuildValuesUpdate(Unit const *, uint8, ByteBuffer &amp;, Player const *, uint16)</div><div class="ttdef"><b>Definition</b> UnitScript.h:99</div></div>
+<div class="ttc" id="aclassUnitScript_html_a1859b5ca0970c3a358a4ba0207f281de"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a1859b5ca0970c3a358a4ba0207f281de">UnitScript::IsCustomBuildValuesUpdate</a></div><div class="ttdeci">virtual bool IsCustomBuildValuesUpdate(Unit const *, uint8, ByteBuffer &amp;, Player const *, uint16)</div><div class="ttdef"><b>Definition</b> UnitScript.h:100</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>, <a class="el" href="../../#l00099">UnitScript::IsCustomBuildValuesUpdate()</a>, and <a class="el" href="../../#l00040">UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00082">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>, <a class="el" href="../../#l00100">UnitScript::IsCustomBuildValuesUpdate()</a>, and <a class="el" href="../../#l00040">UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE</a>.</p>
 
 </div>
 </div>
@@ -5125,9 +5127,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  103</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e">UNITHOOK_IS_NEEDMOD_HEAL_PERCENT</a>, !script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#aab4fd36511815865c02e1415c2460ea2">IsNeedModHealPercent</a>(unit, auraEff, doneTotalMod, spellProto));</div>
 <div class="line"><span class="lineno">  104</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e">UNITHOOK_IS_NEEDMOD_HEAL_PERCENT</a></div><div class="ttdeci">@ UNITHOOK_IS_NEEDMOD_HEAL_PERCENT</div><div class="ttdef"><b>Definition</b> UnitScript.h:38</div></div>
-<div class="ttc" id="aclassUnitScript_html_aab4fd36511815865c02e1415c2460ea2"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#aab4fd36511815865c02e1415c2460ea2">UnitScript::IsNeedModHealPercent</a></div><div class="ttdeci">virtual bool IsNeedModHealPercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:95</div></div>
+<div class="ttc" id="aclassUnitScript_html_aab4fd36511815865c02e1415c2460ea2"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#aab4fd36511815865c02e1415c2460ea2">UnitScript::IsNeedModHealPercent</a></div><div class="ttdeci">virtual bool IsNeedModHealPercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:96</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00095">UnitScript::IsNeedModHealPercent()</a>, and <a class="el" href="../../#l00038">UNITHOOK_IS_NEEDMOD_HEAL_PERCENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00096">UnitScript::IsNeedModHealPercent()</a>, and <a class="el" href="../../#l00038">UNITHOOK_IS_NEEDMOD_HEAL_PERCENT</a>.</p>
 
 </div>
 </div>
@@ -5172,9 +5174,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   98</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a">UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT</a>, !script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#aaaf151572d72b05833905777a979c0d9">IsNeedModMeleeDamagePercent</a>(unit, auraEff, doneTotalMod, spellProto));</div>
 <div class="line"><span class="lineno">   99</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a">UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT</a></div><div class="ttdeci">@ UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT</div><div class="ttdef"><b>Definition</b> UnitScript.h:37</div></div>
-<div class="ttc" id="aclassUnitScript_html_aaaf151572d72b05833905777a979c0d9"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#aaaf151572d72b05833905777a979c0d9">UnitScript::IsNeedModMeleeDamagePercent</a></div><div class="ttdeci">virtual bool IsNeedModMeleeDamagePercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:93</div></div>
+<div class="ttc" id="aclassUnitScript_html_aaaf151572d72b05833905777a979c0d9"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#aaaf151572d72b05833905777a979c0d9">UnitScript::IsNeedModMeleeDamagePercent</a></div><div class="ttdeci">virtual bool IsNeedModMeleeDamagePercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:94</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00093">UnitScript::IsNeedModMeleeDamagePercent()</a>, and <a class="el" href="../../#l00037">UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00094">UnitScript::IsNeedModMeleeDamagePercent()</a>, and <a class="el" href="../../#l00037">UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT</a>.</p>
 
 </div>
 </div>
@@ -5219,9 +5221,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   93</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223">UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT</a>, !script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#abef7c63663b881c66f2bcc6c3d3256b8">IsNeedModSpellDamagePercent</a>(unit, auraEff, doneTotalMod, spellProto));</div>
 <div class="line"><span class="lineno">   94</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223">UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT</a></div><div class="ttdeci">@ UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT</div><div class="ttdef"><b>Definition</b> UnitScript.h:36</div></div>
-<div class="ttc" id="aclassUnitScript_html_abef7c63663b881c66f2bcc6c3d3256b8"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#abef7c63663b881c66f2bcc6c3d3256b8">UnitScript::IsNeedModSpellDamagePercent</a></div><div class="ttdeci">virtual bool IsNeedModSpellDamagePercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:91</div></div>
+<div class="ttc" id="aclassUnitScript_html_abef7c63663b881c66f2bcc6c3d3256b8"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#abef7c63663b881c66f2bcc6c3d3256b8">UnitScript::IsNeedModSpellDamagePercent</a></div><div class="ttdeci">virtual bool IsNeedModSpellDamagePercent(Unit const *, AuraEffect *, float &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:92</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00091">UnitScript::IsNeedModSpellDamagePercent()</a>, and <a class="el" href="../../#l00036">UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00092">UnitScript::IsNeedModSpellDamagePercent()</a>, and <a class="el" href="../../#l00036">UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT</a>.</p>
 
 </div>
 </div>
@@ -5290,7 +5292,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  534</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a> &gt; 0; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00707">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00708">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -5342,9 +5344,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassScriptMgr_html_a2c35ada0fe41142cb687a6e4f1f6b4e3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a2c35ada0fe41142cb687a6e4f1f6b4e3">ScriptMgr::FillSpellSummary</a></div><div class="ttdeci">void FillSpellSummary()</div><div class="ttdef"><b>Definition</b> ScriptMgr.cpp:235</div></div>
 <div class="ttc" id="aclassScriptMgr_html_a3eb42f085fd87a5243cfff42c19f3620"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a3eb42f085fd87a5243cfff42c19f3620">ScriptMgr::GetScriptCount</a></div><div class="ttdeci">uint32 GetScriptCount() const</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:128</div></div>
 <div class="ttc" id="aclassScriptMgr_html_afd9b08456cc8caee797817f4283e28a1"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#afd9b08456cc8caee797817f4283e28a1">ScriptMgr::CheckIfScriptsInDatabaseExist</a></div><div class="ttdeci">void CheckIfScriptsInDatabaseExist()</div><div class="ttdef"><b>Definition</b> ScriptMgr.cpp:189</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_aa86b74a2560deae81f5c2a38cf1f72c8"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8">ScriptRegistry::AddALScripts</a></div><div class="ttdeci">static void AddALScripts()</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:769</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_aa86b74a2560deae81f5c2a38cf1f72c8"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8">ScriptRegistry::AddALScripts</a></div><div class="ttdeci">static void AddALScripts()</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:770</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00769">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00189">CheckIfScriptsInDatabaseExist()</a>, <a class="el" href="../../#l00235">FillSpellSummary()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00128">GetScriptCount()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, and <a class="el" href="../../#l00091">sScriptSystemMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00770">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00189">CheckIfScriptsInDatabaseExist()</a>, <a class="el" href="../../#l00235">FillSpellSummary()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00128">GetScriptCount()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, and <a class="el" href="../../#l00091">sScriptSystemMgr</a>.</p>
 
 </div>
 </div>
@@ -5389,9 +5391,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   49</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd">UNITHOOK_MODIFY_HEAL_RECEIVED</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#ac2f40d7ca52538ae874f60a7acbf443b">ModifyHealReceived</a>(target, healer, heal, spellInfo));</div>
 <div class="line"><span class="lineno">   50</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd">UNITHOOK_MODIFY_HEAL_RECEIVED</a></div><div class="ttdeci">@ UNITHOOK_MODIFY_HEAL_RECEIVED</div><div class="ttdef"><b>Definition</b> UnitScript.h:31</div></div>
-<div class="ttc" id="aclassUnitScript_html_ac2f40d7ca52538ae874f60a7acbf443b"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#ac2f40d7ca52538ae874f60a7acbf443b">UnitScript::ModifyHealReceived</a></div><div class="ttdeci">virtual void ModifyHealReceived(Unit *, Unit *, uint32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:78</div></div>
+<div class="ttc" id="aclassUnitScript_html_ac2f40d7ca52538ae874f60a7acbf443b"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#ac2f40d7ca52538ae874f60a7acbf443b">UnitScript::ModifyHealReceived</a></div><div class="ttdeci">virtual void ModifyHealReceived(Unit *, Unit *, uint32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:79</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00078">UnitScript::ModifyHealReceived()</a>, and <a class="el" href="../../#l00031">UNITHOOK_MODIFY_HEAL_RECEIVED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00079">UnitScript::ModifyHealReceived()</a>, and <a class="el" href="../../#l00031">UNITHOOK_MODIFY_HEAL_RECEIVED</a>.</p>
 
 </div>
 </div>
@@ -5430,9 +5432,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   39</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca">UNITHOOK_MODIFY_MELEE_DAMAGE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#acde1701dd3d6207da2e76d7d1753f9c7">ModifyMeleeDamage</a>(target, attacker, damage));</div>
 <div class="line"><span class="lineno">   40</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca">UNITHOOK_MODIFY_MELEE_DAMAGE</a></div><div class="ttdeci">@ UNITHOOK_MODIFY_MELEE_DAMAGE</div><div class="ttdef"><b>Definition</b> UnitScript.h:29</div></div>
-<div class="ttc" id="aclassUnitScript_html_acde1701dd3d6207da2e76d7d1753f9c7"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#acde1701dd3d6207da2e76d7d1753f9c7">UnitScript::ModifyMeleeDamage</a></div><div class="ttdeci">virtual void ModifyMeleeDamage(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:72</div></div>
+<div class="ttc" id="aclassUnitScript_html_acde1701dd3d6207da2e76d7d1753f9c7"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#acde1701dd3d6207da2e76d7d1753f9c7">UnitScript::ModifyMeleeDamage</a></div><div class="ttdeci">virtual void ModifyMeleeDamage(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:73</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00072">UnitScript::ModifyMeleeDamage()</a>, and <a class="el" href="../../#l00029">UNITHOOK_MODIFY_MELEE_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00073">UnitScript::ModifyMeleeDamage()</a>, and <a class="el" href="../../#l00029">UNITHOOK_MODIFY_MELEE_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -5477,9 +5479,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   34</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde">UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#ae0703adbc70a14443c0370de77e95190">ModifyPeriodicDamageAurasTick</a>(target, attacker, damage, spellInfo));</div>
 <div class="line"><span class="lineno">   35</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde">UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK</a></div><div class="ttdeci">@ UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK</div><div class="ttdef"><b>Definition</b> UnitScript.h:28</div></div>
-<div class="ttc" id="aclassUnitScript_html_ae0703adbc70a14443c0370de77e95190"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#ae0703adbc70a14443c0370de77e95190">UnitScript::ModifyPeriodicDamageAurasTick</a></div><div class="ttdeci">virtual void ModifyPeriodicDamageAurasTick(Unit *, Unit *, uint32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:69</div></div>
+<div class="ttc" id="aclassUnitScript_html_ae0703adbc70a14443c0370de77e95190"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#ae0703adbc70a14443c0370de77e95190">UnitScript::ModifyPeriodicDamageAurasTick</a></div><div class="ttdeci">virtual void ModifyPeriodicDamageAurasTick(Unit *, Unit *, uint32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:70</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00069">UnitScript::ModifyPeriodicDamageAurasTick()</a>, and <a class="el" href="../../#l00028">UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00070">UnitScript::ModifyPeriodicDamageAurasTick()</a>, and <a class="el" href="../../#l00028">UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK</a>.</p>
 
 </div>
 </div>
@@ -5524,9 +5526,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   44</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e">UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345">ModifySpellDamageTaken</a>(target, attacker, damage, spellInfo));</div>
 <div class="line"><span class="lineno">   45</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e">UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN</a></div><div class="ttdeci">@ UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN</div><div class="ttdef"><b>Definition</b> UnitScript.h:30</div></div>
-<div class="ttc" id="aclassUnitScript_html_a375db3302ef33bcc5c874b0b53bbc345"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345">UnitScript::ModifySpellDamageTaken</a></div><div class="ttdeci">virtual void ModifySpellDamageTaken(Unit *, Unit *, int32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:75</div></div>
+<div class="ttc" id="aclassUnitScript_html_a375db3302ef33bcc5c874b0b53bbc345"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a375db3302ef33bcc5c874b0b53bbc345">UnitScript::ModifySpellDamageTaken</a></div><div class="ttdeci">virtual void ModifySpellDamageTaken(Unit *, Unit *, int32 &amp;, SpellInfo const *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00075">UnitScript::ModifySpellDamageTaken()</a>, and <a class="el" href="../../#l00030">UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00076">UnitScript::ModifySpellDamageTaken()</a>, and <a class="el" href="../../#l00030">UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN</a>.</p>
 
 </div>
 </div>
@@ -7487,9 +7489,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   78</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae">UNITHOOK_ON_AURA_APPLY</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a334ac1a9d8e29aa064d3625d59c7a167">OnAuraApply</a>(unit, aura));</div>
 <div class="line"><span class="lineno">   79</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae">UNITHOOK_ON_AURA_APPLY</a></div><div class="ttdeci">@ UNITHOOK_ON_AURA_APPLY</div><div class="ttdef"><b>Definition</b> UnitScript.h:33</div></div>
-<div class="ttc" id="aclassUnitScript_html_a334ac1a9d8e29aa064d3625d59c7a167"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a334ac1a9d8e29aa064d3625d59c7a167">UnitScript::OnAuraApply</a></div><div class="ttdeci">virtual void OnAuraApply(Unit *, Aura *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:85</div></div>
+<div class="ttc" id="aclassUnitScript_html_a334ac1a9d8e29aa064d3625d59c7a167"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a334ac1a9d8e29aa064d3625d59c7a167">UnitScript::OnAuraApply</a></div><div class="ttdeci">virtual void OnAuraApply(Unit *, Aura *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00085">UnitScript::OnAuraApply()</a>, and <a class="el" href="../../#l00033">UNITHOOK_ON_AURA_APPLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00086">UnitScript::OnAuraApply()</a>, and <a class="el" href="../../#l00033">UNITHOOK_ON_AURA_APPLY</a>.</p>
 
 </div>
 </div>
@@ -7528,9 +7530,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   83</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e">UNITHOOK_ON_AURA_REMOVE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a2ed2cf6d9725ae342adfada023538a28">OnAuraRemove</a>(unit, aurApp, mode));</div>
 <div class="line"><span class="lineno">   84</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e">UNITHOOK_ON_AURA_REMOVE</a></div><div class="ttdeci">@ UNITHOOK_ON_AURA_REMOVE</div><div class="ttdef"><b>Definition</b> UnitScript.h:34</div></div>
-<div class="ttc" id="aclassUnitScript_html_a2ed2cf6d9725ae342adfada023538a28"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a2ed2cf6d9725ae342adfada023538a28">UnitScript::OnAuraRemove</a></div><div class="ttdeci">virtual void OnAuraRemove(Unit *, AuraApplication *, AuraRemoveMode)</div><div class="ttdef"><b>Definition</b> UnitScript.h:87</div></div>
+<div class="ttc" id="aclassUnitScript_html_a2ed2cf6d9725ae342adfada023538a28"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a2ed2cf6d9725ae342adfada023538a28">UnitScript::OnAuraRemove</a></div><div class="ttdeci">virtual void OnAuraRemove(Unit *, AuraApplication *, AuraRemoveMode)</div><div class="ttdef"><b>Definition</b> UnitScript.h:88</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00087">UnitScript::OnAuraRemove()</a>, and <a class="el" href="../../#l00034">UNITHOOK_ON_AURA_REMOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00088">UnitScript::OnAuraRemove()</a>, and <a class="el" href="../../#l00034">UNITHOOK_ON_AURA_REMOVE</a>.</p>
 
 </div>
 </div>
@@ -9532,9 +9534,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   73</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49">UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a627a99cd078d2cbd52519874f0bd0aff">OnBeforeRollMeleeOutcomeAgainst</a>(attacker, victim, attType, attackerMaxSkillValueForLevel, victimMaxSkillValueForLevel, attackerWeaponSkill, victimDefenseSkill, crit_chance, miss_chance, dodge_chance, parry_chance, block_chance));</div>
 <div class="line"><span class="lineno">   74</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49">UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST</a></div><div class="ttdeci">@ UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST</div><div class="ttdef"><b>Definition</b> UnitScript.h:32</div></div>
-<div class="ttc" id="aclassUnitScript_html_a627a99cd078d2cbd52519874f0bd0aff"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a627a99cd078d2cbd52519874f0bd0aff">UnitScript::OnBeforeRollMeleeOutcomeAgainst</a></div><div class="ttdeci">virtual void OnBeforeRollMeleeOutcomeAgainst(Unit const *, Unit const *, WeaponAttackType, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:83</div></div>
+<div class="ttc" id="aclassUnitScript_html_a627a99cd078d2cbd52519874f0bd0aff"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a627a99cd078d2cbd52519874f0bd0aff">UnitScript::OnBeforeRollMeleeOutcomeAgainst</a></div><div class="ttdeci">virtual void OnBeforeRollMeleeOutcomeAgainst(Unit const *, Unit const *, WeaponAttackType, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;, int32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:84</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00083">UnitScript::OnBeforeRollMeleeOutcomeAgainst()</a>, and <a class="el" href="../../#l00032">UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00084">UnitScript::OnBeforeRollMeleeOutcomeAgainst()</a>, and <a class="el" href="../../#l00032">UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST</a>.</p>
 
 </div>
 </div>
@@ -10256,7 +10258,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  111</span>}</div>
 <div class="ttc" id="aclassItem_html_a0ae96da9ab054f0664bd3e7db0b2a06e"><div class="ttname"><a href="../../d0/dae/classItem.html#a0ae96da9ab054f0664bd3e7db0b2a06e">Item::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Item.h:364</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -10334,7 +10336,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>}</div>
 <div class="ttc" id="astructCondition_html_a94a118e00e3382f7ae0a781114bce56d"><div class="ttname"><a href="../../d6/d9f/structCondition.html#a94a118e00e3382f7ae0a781114bce56d">Condition::ScriptId</a></div><div class="ttdeci">uint32 ScriptId</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:208</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00208">Condition::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00208">Condition::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -10811,7 +10813,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnCheck(source, target, criteria_id) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   28</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>.</p>
 
 </div>
 </div>
@@ -11050,9 +11052,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   29</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b">UNITHOOK_ON_DAMAGE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a5541573db45b4404ae0b613251ad1a13">OnDamage</a>(attacker, victim, damage));</div>
 <div class="line"><span class="lineno">   30</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b">UNITHOOK_ON_DAMAGE</a></div><div class="ttdeci">@ UNITHOOK_ON_DAMAGE</div><div class="ttdef"><b>Definition</b> UnitScript.h:27</div></div>
-<div class="ttc" id="aclassUnitScript_html_a5541573db45b4404ae0b613251ad1a13"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a5541573db45b4404ae0b613251ad1a13">UnitScript::OnDamage</a></div><div class="ttdeci">virtual void OnDamage(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:65</div></div>
+<div class="ttc" id="aclassUnitScript_html_a5541573db45b4404ae0b613251ad1a13"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a5541573db45b4404ae0b613251ad1a13">UnitScript::OnDamage</a></div><div class="ttdeci">virtual void OnDamage(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:66</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00065">UnitScript::OnDamage()</a>, and <a class="el" href="../../#l00027">UNITHOOK_ON_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00066">UnitScript::OnDamage()</a>, and <a class="el" href="../../#l00027">UNITHOOK_ON_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -11301,9 +11303,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1">UNITHOOK_ON_DISPLAYID_CHANGE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83">OnDisplayIdChange</a>(unit, displayId));</div>
 <div class="line"><span class="lineno">  134</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1">UNITHOOK_ON_DISPLAYID_CHANGE</a></div><div class="ttdeci">@ UNITHOOK_ON_DISPLAYID_CHANGE</div><div class="ttdef"><b>Definition</b> UnitScript.h:44</div></div>
-<div class="ttc" id="aclassUnitScript_html_a43cd3dd2e6cd311b1045b8f5d7d6ac83"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83">UnitScript::OnDisplayIdChange</a></div><div class="ttdeci">virtual void OnDisplayIdChange(Unit *, uint32)</div><div class="ttdef"><b>Definition</b> UnitScript.h:113</div></div>
+<div class="ttc" id="aclassUnitScript_html_a43cd3dd2e6cd311b1045b8f5d7d6ac83"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83">UnitScript::OnDisplayIdChange</a></div><div class="ttdeci">virtual void OnDisplayIdChange(Unit *, uint32)</div><div class="ttdef"><b>Definition</b> UnitScript.h:114</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00113">UnitScript::OnDisplayIdChange()</a>, and <a class="el" href="../../#l00044">UNITHOOK_ON_DISPLAYID_CHANGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00114">UnitScript::OnDisplayIdChange()</a>, and <a class="el" href="../../#l00044">UNITHOOK_ON_DISPLAYID_CHANGE</a>.</p>
 
 </div>
 </div>
@@ -12794,7 +12796,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af077a82741577a63a075c7d40b3b3dc5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a></div><div class="ttdeci">void ClearGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:22</div></div>
 <div class="ttc" id="aclassAllCreatureScript_html_a2cf3bd5ad27bf97fde905bc69a6dec5e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e">AllCreatureScript::CanCreatureGossipHello</a></div><div class="ttdeci">virtual bool CanCreatureGossipHello(Player *, Creature *)</div><div class="ttdoc">This hook called when a player opens a gossip dialog with the creature.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:67</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00067">AllCreatureScript::CanCreatureGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00067">AllCreatureScript::CanCreatureGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -12843,7 +12845,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   42</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a33efc883fe64cdc52aa9b03f9377da97"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a33efc883fe64cdc52aa9b03f9377da97">AllGameObjectScript::CanGameObjectGossipHello</a></div><div class="ttdeci">virtual bool CanGameObjectGossipHello(Player *, GameObject *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00056">AllGameObjectScript::CanGameObjectGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00056">AllGameObjectScript::CanGameObjectGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -12903,7 +12905,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   61</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_a551633c543dd01e876ee10452b98fb5e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a551633c543dd01e876ee10452b98fb5e">AllCreatureScript::CanCreatureGossipSelect</a></div><div class="ttdeci">virtual bool CanCreatureGossipSelect(Player *, Creature *, uint32, uint32)</div><div class="ttdoc">This hook called when a player selects a gossip item in the creature's gossip menu.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:79</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00079">AllCreatureScript::CanCreatureGossipSelect()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00079">AllCreatureScript::CanCreatureGossipSelect()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -12963,7 +12965,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   61</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a317305c7dc81fede50d73f65fbc2bb42"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a317305c7dc81fede50d73f65fbc2bb42">AllGameObjectScript::CanGameObjectGossipSelect</a></div><div class="ttdeci">virtual bool CanGameObjectGossipSelect(Player *, GameObject *, uint32, uint32)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">AllGameObjectScript::CanGameObjectGossipSelect()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">AllGameObjectScript::CanGameObjectGossipSelect()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -13135,7 +13137,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_aa193e968ecc1639ca33fee052dafb0b3"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#aa193e968ecc1639ca33fee052dafb0b3">AllCreatureScript::CanCreatureGossipSelectCode</a></div><div class="ttdeci">virtual bool CanCreatureGossipSelectCode(Player *, Creature *, uint32, uint32, const char *)</div><div class="ttdoc">This hook called when a player selects a gossip with a code in the creature's gossip menu.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:92</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00092">AllCreatureScript::CanCreatureGossipSelectCode()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00092">AllCreatureScript::CanCreatureGossipSelectCode()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -13202,7 +13204,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_ac0b0ce8b06f371a6adfb69b926797790"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#ac0b0ce8b06f371a6adfb69b926797790">AllGameObjectScript::CanGameObjectGossipSelectCode</a></div><div class="ttdeci">virtual bool CanGameObjectGossipSelectCode(Player *, GameObject *, uint32, uint32, const char *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00062">AllGameObjectScript::CanGameObjectGossipSelectCode()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00062">AllGameObjectScript::CanGameObjectGossipSelectCode()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -14227,9 +14229,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   24</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256">UNITHOOK_ON_HEAL</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#adcdc8430e14bccfe399a7e1a3edd2b69">OnHeal</a>(healer, reciever, gain));</div>
 <div class="line"><span class="lineno">   25</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256">UNITHOOK_ON_HEAL</a></div><div class="ttdeci">@ UNITHOOK_ON_HEAL</div><div class="ttdef"><b>Definition</b> UnitScript.h:26</div></div>
-<div class="ttc" id="aclassUnitScript_html_adcdc8430e14bccfe399a7e1a3edd2b69"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#adcdc8430e14bccfe399a7e1a3edd2b69">UnitScript::OnHeal</a></div><div class="ttdeci">virtual void OnHeal(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:62</div></div>
+<div class="ttc" id="aclassUnitScript_html_adcdc8430e14bccfe399a7e1a3edd2b69"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#adcdc8430e14bccfe399a7e1a3edd2b69">UnitScript::OnHeal</a></div><div class="ttdeci">virtual void OnHeal(Unit *, Unit *, uint32 &amp;)</div><div class="ttdef"><b>Definition</b> UnitScript.h:63</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00062">UnitScript::OnHeal()</a>, and <a class="el" href="../../#l00026">UNITHOOK_ON_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00063">UnitScript::OnHeal()</a>, and <a class="el" href="../../#l00026">UNITHOOK_ON_HEAL</a>.</p>
 
 </div>
 </div>
@@ -14679,7 +14681,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_aa2a9c691b4ba5d06f65555a7092fffc3"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#aa2a9c691b4ba5d06f65555a7092fffc3">AllItemScript::CanItemExpire</a></div><div class="ttdeci">virtual bool CanItemExpire(Player *, ItemTemplate const *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00039">AllItemScript::CanItemExpire()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00689">ItemTemplate::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00039">AllItemScript::CanItemExpire()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00689">ItemTemplate::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -14727,7 +14729,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  100</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_ad29a7f5d07d56127bc00846e1a7fb067"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#ad29a7f5d07d56127bc00846e1a7fb067">AllItemScript::CanItemRemove</a></div><div class="ttdeci">virtual bool CanItemRemove(Player *, Item *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00036">AllItemScript::CanItemRemove()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00036">AllItemScript::CanItemRemove()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -14834,7 +14836,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   62</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_a89d237f426840658e4423fb9cc7428db"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#a89d237f426840658e4423fb9cc7428db">AllItemScript::CanItemUse</a></div><div class="ttdeci">virtual bool CanItemUse(Player *, Item *, SpellCastTargets const &amp;)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:33</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00033">AllItemScript::CanItemUse()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00033">AllItemScript::CanItemUse()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -15302,9 +15304,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82">UNITHOOK_ON_PATCH_VALUES_UPDATE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a0a751a8fb5c99375b667214915822e96">OnPatchValuesUpdate</a>(unit, valuesUpdateBuf, posPointers, target));</div>
 <div class="line"><span class="lineno">  124</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82">UNITHOOK_ON_PATCH_VALUES_UPDATE</a></div><div class="ttdeci">@ UNITHOOK_ON_PATCH_VALUES_UPDATE</div><div class="ttdef"><b>Definition</b> UnitScript.h:42</div></div>
-<div class="ttc" id="aclassUnitScript_html_a0a751a8fb5c99375b667214915822e96"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a0a751a8fb5c99375b667214915822e96">UnitScript::OnPatchValuesUpdate</a></div><div class="ttdeci">virtual void OnPatchValuesUpdate(Unit const *, ByteBuffer &amp;, BuildValuesCachePosPointers &amp;, Player *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:103</div></div>
+<div class="ttc" id="aclassUnitScript_html_a0a751a8fb5c99375b667214915822e96"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a0a751a8fb5c99375b667214915822e96">UnitScript::OnPatchValuesUpdate</a></div><div class="ttdeci">virtual void OnPatchValuesUpdate(Unit const *, ByteBuffer &amp;, BuildValuesCachePosPointers &amp;, Player *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:104</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00103">UnitScript::OnPatchValuesUpdate()</a>, and <a class="el" href="../../#l00042">UNITHOOK_ON_PATCH_VALUES_UPDATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00104">UnitScript::OnPatchValuesUpdate()</a>, and <a class="el" href="../../#l00042">UNITHOOK_ON_PATCH_VALUES_UPDATE</a>.</p>
 
 </div>
 </div>
@@ -17446,7 +17448,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  102</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_af45ef5e7a0a6b3ca6126d5af87753b5c"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#af45ef5e7a0a6b3ca6126d5af87753b5c">AllCreatureScript::CanCreatureQuestAccept</a></div><div class="ttdeci">virtual bool CanCreatureQuestAccept(Player *, Creature *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:95</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00095">AllCreatureScript::CanCreatureQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00095">AllCreatureScript::CanCreatureQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17502,7 +17504,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  102</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a0c99183b04355ecfb3460bc371b58805"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a0c99183b04355ecfb3460bc371b58805">AllGameObjectScript::CanGameObjectQuestAccept</a></div><div class="ttdeci">virtual bool CanGameObjectQuestAccept(Player *, GameObject *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:65</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00065">AllGameObjectScript::CanGameObjectQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00065">AllGameObjectScript::CanGameObjectQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17558,7 +17560,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   43</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_a545e2bc7436a064146025954eaf5ae92"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#a545e2bc7436a064146025954eaf5ae92">AllItemScript::CanItemQuestAccept</a></div><div class="ttdeci">virtual bool CanItemQuestAccept(Player *, Item *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">AllItemScript::CanItemQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">AllItemScript::CanItemQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17603,7 +17605,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnQuestComplete(player, creature, quest) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  124</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17706,7 +17708,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  145</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_a31659a18df4206122a56ce69f3e4809d"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a31659a18df4206122a56ce69f3e4809d">AllCreatureScript::CanCreatureQuestReward</a></div><div class="ttdeci">virtual bool CanCreatureQuestReward(Player *, Creature *, Quest const *, uint32)</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:98</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00098">AllCreatureScript::CanCreatureQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00098">AllCreatureScript::CanCreatureQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17768,7 +17770,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a55eb61a5e4386908db998ceff1dff359"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a55eb61a5e4386908db998ceff1dff359">AllGameObjectScript::CanGameObjectQuestReward</a></div><div class="ttdeci">virtual bool CanGameObjectQuestReward(Player *, GameObject *, Quest const *, uint32)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:68</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">AllGameObjectScript::CanGameObjectQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">AllGameObjectScript::CanGameObjectQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02181">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -17854,7 +17856,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnQuestSelect(player, creature, quest) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  113</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00846">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00847">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03062">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -19058,9 +19060,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  148</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57">UNITHOOK_ON_UNIT_DEATH</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a7bb5f4ea3ae8edb55df455648863d93f">OnUnitDeath</a>(unit, killer));</div>
 <div class="line"><span class="lineno">  149</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57">UNITHOOK_ON_UNIT_DEATH</a></div><div class="ttdeci">@ UNITHOOK_ON_UNIT_DEATH</div><div class="ttdef"><b>Definition</b> UnitScript.h:47</div></div>
-<div class="ttc" id="aclassUnitScript_html_a7bb5f4ea3ae8edb55df455648863d93f"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a7bb5f4ea3ae8edb55df455648863d93f">UnitScript::OnUnitDeath</a></div><div class="ttdeci">virtual void OnUnitDeath(Unit *, Unit *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:117</div></div>
+<div class="ttc" id="aclassUnitScript_html_a7bb5f4ea3ae8edb55df455648863d93f"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a7bb5f4ea3ae8edb55df455648863d93f">UnitScript::OnUnitDeath</a></div><div class="ttdeci">virtual void OnUnitDeath(Unit *, Unit *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:118</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00117">UnitScript::OnUnitDeath()</a>, and <a class="el" href="../../#l00047">UNITHOOK_ON_UNIT_DEATH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00118">UnitScript::OnUnitDeath()</a>, and <a class="el" href="../../#l00047">UNITHOOK_ON_UNIT_DEATH</a>.</p>
 
 </div>
 </div>
@@ -19093,9 +19095,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  143</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957">UNITHOOK_ON_UNIT_ENTER_COMBAT</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb">OnUnitEnterCombat</a>(unit, victim));</div>
 <div class="line"><span class="lineno">  144</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957">UNITHOOK_ON_UNIT_ENTER_COMBAT</a></div><div class="ttdeci">@ UNITHOOK_ON_UNIT_ENTER_COMBAT</div><div class="ttdef"><b>Definition</b> UnitScript.h:46</div></div>
-<div class="ttc" id="aclassUnitScript_html_a8d04617af120a1e23ad57a45440744bb"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb">UnitScript::OnUnitEnterCombat</a></div><div class="ttdeci">virtual void OnUnitEnterCombat(Unit *, Unit *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:116</div></div>
+<div class="ttc" id="aclassUnitScript_html_a8d04617af120a1e23ad57a45440744bb"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb">UnitScript::OnUnitEnterCombat</a></div><div class="ttdeci">virtual void OnUnitEnterCombat(Unit *, Unit *)</div><div class="ttdef"><b>Definition</b> UnitScript.h:117</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00116">UnitScript::OnUnitEnterCombat()</a>, and <a class="el" href="../../#l00046">UNITHOOK_ON_UNIT_ENTER_COMBAT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00117">UnitScript::OnUnitEnterCombat()</a>, and <a class="el" href="../../#l00046">UNITHOOK_ON_UNIT_ENTER_COMBAT</a>.</p>
 
 </div>
 </div>
@@ -19128,9 +19130,44 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  138</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e">UNITHOOK_ON_UNIT_ENTER_EVADE_MODE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a9df6f81297f53007f1227778466e912f">OnUnitEnterEvadeMode</a>(unit, evadeReason));</div>
 <div class="line"><span class="lineno">  139</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e">UNITHOOK_ON_UNIT_ENTER_EVADE_MODE</a></div><div class="ttdeci">@ UNITHOOK_ON_UNIT_ENTER_EVADE_MODE</div><div class="ttdef"><b>Definition</b> UnitScript.h:45</div></div>
-<div class="ttc" id="aclassUnitScript_html_a9df6f81297f53007f1227778466e912f"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a9df6f81297f53007f1227778466e912f">UnitScript::OnUnitEnterEvadeMode</a></div><div class="ttdeci">virtual void OnUnitEnterEvadeMode(Unit *, uint8)</div><div class="ttdef"><b>Definition</b> UnitScript.h:115</div></div>
+<div class="ttc" id="aclassUnitScript_html_a9df6f81297f53007f1227778466e912f"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a9df6f81297f53007f1227778466e912f">UnitScript::OnUnitEnterEvadeMode</a></div><div class="ttdeci">virtual void OnUnitEnterEvadeMode(Unit *, uint8)</div><div class="ttdef"><b>Definition</b> UnitScript.h:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00115">UnitScript::OnUnitEnterEvadeMode()</a>, and <a class="el" href="../../#l00045">UNITHOOK_ON_UNIT_ENTER_EVADE_MODE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00116">UnitScript::OnUnitEnterEvadeMode()</a>, and <a class="el" href="../../#l00045">UNITHOOK_ON_UNIT_ENTER_EVADE_MODE</a>.</p>
+
+</div>
+</div>
+<a id="afebd2c8dbe07c66a60a59484e65361ce" name="afebd2c8dbe07c66a60a59484e65361ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afebd2c8dbe07c66a60a59484e65361ce">&#9670;&#160;</a></span>OnUnitSetShapeshiftForm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ScriptMgr::OnUnitSetShapeshiftForm </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>unit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>form</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  152</span>{</div>
+<div class="line"><span class="lineno">  153</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6">UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#acacf12c000646710abf931429a0852c0">OnUnitSetShapeshiftForm</a>(unit, form));</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+<div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6">UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM</a></div><div class="ttdeci">@ UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM</div><div class="ttdef"><b>Definition</b> UnitScript.h:48</div></div>
+<div class="ttc" id="aclassUnitScript_html_acacf12c000646710abf931429a0852c0"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#acacf12c000646710abf931429a0852c0">UnitScript::OnUnitSetShapeshiftForm</a></div><div class="ttdeci">virtual void OnUnitSetShapeshiftForm(Unit *, uint8)</div><div class="ttdef"><b>Definition</b> UnitScript.h:119</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00119">UnitScript::OnUnitSetShapeshiftForm()</a>, and <a class="el" href="../../#l00048">UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM</a>.</p>
 
 </div>
 </div>
@@ -19163,9 +19200,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  128</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f">UNITHOOK_ON_UNIT_UPDATE</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80">OnUnitUpdate</a>(unit, diff));</div>
 <div class="line"><span class="lineno">  129</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f">UNITHOOK_ON_UNIT_UPDATE</a></div><div class="ttdeci">@ UNITHOOK_ON_UNIT_UPDATE</div><div class="ttdef"><b>Definition</b> UnitScript.h:43</div></div>
-<div class="ttc" id="aclassUnitScript_html_a36e7ba9d74892f59d0a36b76e78f4f80"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80">UnitScript::OnUnitUpdate</a></div><div class="ttdeci">virtual void OnUnitUpdate(Unit *, uint32)</div><div class="ttdoc">This hook runs in Unit::Update.</div><div class="ttdef"><b>Definition</b> UnitScript.h:111</div></div>
+<div class="ttc" id="aclassUnitScript_html_a36e7ba9d74892f59d0a36b76e78f4f80"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80">UnitScript::OnUnitUpdate</a></div><div class="ttdeci">virtual void OnUnitUpdate(Unit *, uint32)</div><div class="ttdoc">This hook runs in Unit::Update.</div><div class="ttdef"><b>Definition</b> UnitScript.h:112</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00111">UnitScript::OnUnitUpdate()</a>, and <a class="el" href="../../#l00043">UNITHOOK_ON_UNIT_UPDATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00112">UnitScript::OnUnitUpdate()</a>, and <a class="el" href="../../#l00043">UNITHOOK_ON_UNIT_UPDATE</a>.</p>
 
 </div>
 </div>
@@ -20017,7 +20054,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  144</span>        <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">_modules_loader_callback</a> = script_loader_callback;</div>
 <div class="line"><span class="lineno">  145</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00710">_modules_loader_callback</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00711">_modules_loader_callback</a>.</p>
 
 </div>
 </div>
@@ -20074,7 +20111,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  137</span>        <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">_script_loader_callback</a> = script_loader_callback;</div>
 <div class="line"><span class="lineno">  138</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00709">_script_loader_callback</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00710">_script_loader_callback</a>.</p>
 
 </div>
 </div>
@@ -20138,9 +20175,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  118</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a370083225ad9db5b05a730ce4fb26d2f">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>(<a class="code hl_class" href="../../d2/d12/classUnitScript.html">UnitScript</a>, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762">UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX</a>, script-&gt;<a class="code hl_function" href="../../d2/d12/classUnitScript.html#a7b74be81d24bc7265d5566d67d044aad">ShouldTrackValuesUpdatePosByIndex</a>(unit, updateType, index));</div>
 <div class="line"><span class="lineno">  119</span>}</div>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762">UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX</a></div><div class="ttdeci">@ UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX</div><div class="ttdef"><b>Definition</b> UnitScript.h:41</div></div>
-<div class="ttc" id="aclassUnitScript_html_a7b74be81d24bc7265d5566d67d044aad"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a7b74be81d24bc7265d5566d67d044aad">UnitScript::ShouldTrackValuesUpdatePosByIndex</a></div><div class="ttdeci">virtual bool ShouldTrackValuesUpdatePosByIndex(Unit const *, uint8, uint16)</div><div class="ttdef"><b>Definition</b> UnitScript.h:101</div></div>
+<div class="ttc" id="aclassUnitScript_html_a7b74be81d24bc7265d5566d67d044aad"><div class="ttname"><a href="../../d2/d12/classUnitScript.html#a7b74be81d24bc7265d5566d67d044aad">UnitScript::ShouldTrackValuesUpdatePosByIndex</a></div><div class="ttdeci">virtual bool ShouldTrackValuesUpdatePosByIndex(Unit const *, uint8, uint16)</div><div class="ttdef"><b>Definition</b> UnitScript.h:102</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>, <a class="el" href="../../#l00101">UnitScript::ShouldTrackValuesUpdatePosByIndex()</a>, and <a class="el" href="../../#l00041">UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00082">CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE</a>, <a class="el" href="../../#l00102">UnitScript::ShouldTrackValuesUpdatePosByIndex()</a>, and <a class="el" href="../../#l00041">UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX</a>.</p>
 
 </div>
 </div>
@@ -20517,7 +20554,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d73/classScriptMgr.html">ScriptMgr</a></li>
-    <li class="footer">Generated on Tue Feb 4 2025 06:21:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Feb 5 2025 06:20:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

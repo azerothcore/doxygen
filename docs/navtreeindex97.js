@@ -1,5 +1,12 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3343,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3343,3],
+"d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
+"d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a207b52a98fe743bd023873d8aca44a1e":[7,0,0,0,1,3,5,2,0,4,2,7],
+"d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a33ac80be638517741bbfda307044213b":[7,0,0,0,1,3,5,2,0,4,2,9],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a35da2de3288022df68a6ba7c06601d5d":[7,0,0,0,1,3,5,2,0,4,2,2],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a468d0a3a423de419ece3beb913b394b7":[7,0,0,0,1,3,5,2,0,4,2,0],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6ae1c8240ded32778398e4d21c1f2f3c":[7,0,0,0,1,3,5,2,0,4,2,5],
@@ -184,8 +191,8 @@ var NAVTREEINDEX97 =
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,6,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3379],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3379,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3379,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ab17115539c7778849eb7a5d7b3c14955":[6,0,1788,0,14],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ac019b66c330d228a4baa4c81b14f825a":[6,0,1788,0,5],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ac22a90e5fcf04dae8cbf5aea715a5412":[6,0,1788,0,15],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#acc981f16561558187a4f73f30477087e":[6,0,1788,0,16],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ad3811c9392c8849770d60398f5c9ed5b":[6,0,1788,0,17],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ad7b769ce27c4cd22a2383762426a5792":[6,0,1788,0,3],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ad83bf99a15a8a80fe572e8927f533921":[6,0,1788,0,4],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ae9c1e204ed846b77a118bae352a16a0a":[6,0,1788,0,13],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#aeb8bb46e75506889ddb1f32c7846618d":[6,0,1788,0,1],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#af5a78c00f2df9a6e7f810821e478b334":[6,0,1788,0,0],
-"d3/d5d/classinstance__naxxramas.html":[6,0,1293]
+"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#acc981f16561558187a4f73f30477087e":[6,0,1788,0,16]
 };

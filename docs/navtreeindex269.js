@@ -1,5 +1,12 @@
 var NAVTREEINDEX269 =
 {
+"db/d0d/classspell__gen__disabled__above__63.html#a5c89e7e53a7f41665ff25d57df8f7afb":[6,0,2887,2],
+"db/d0d/classspell__gen__disabled__above__63.html#a9e54ae3e90ee8bf0fab966a497f761b3":[6,0,2887,0],
+"db/d0e/classspell__zuljin__zap.html":[6,0,3977],
+"db/d0e/classspell__zuljin__zap.html#a2f5d255de09818203e498c0090bdd3fb":[6,0,3977,2],
+"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[6,0,3977,3],
+"db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[6,0,3977,1],
+"db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[6,0,3977,0],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html":[6,0,668,0],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a0f16f9865159338c46e140c01650a728":[6,0,668,0,1],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a14384c3853570d0f7580d72d0008b986":[6,0,668,0,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX269 =
 "db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[6,0,3956,0],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,237],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a725de49be12116f2f7e77edd31a096ae":[6,0,237,1],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[6,0,237,0],
-"db/d18/classspell__gen__fixate__aura.html":[6,0,2900],
-"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[6,0,2900,0],
-"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2900,1],
-"db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2900,2],
-"db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3574],
-"db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3574,1],
-"db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3574,2]
+"db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[6,0,237,0]
 };

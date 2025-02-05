@@ -1,5 +1,12 @@
 var NAVTREEINDEX242 =
 {
+"d9/de2/classspell__cannibalize__heal.html":[6,0,2655],
+"d9/de2/classspell__cannibalize__heal.html#a383479896e6deb96e50b827370ccfd4d":[6,0,2655,2],
+"d9/de2/classspell__cannibalize__heal.html#a70503fc6042001a860d361f2597b7153":[6,0,2655,1],
+"d9/de2/classspell__cannibalize__heal.html#a953536a9a393af9472bdd89018449df0":[6,0,2655,0],
+"d9/de2/structCalcDamageInfo.html":[6,0,815],
+"d9/de2/structCalcDamageInfo.html#a01f1cc6661ef5f4e7d657ba59d06108f":[6,0,815,7],
+"d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,815,3],
 "d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115":[6,0,815,9],
 "d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f":[6,0,815,10],
 "d9/de2/structCalcDamageInfo.html#a236b06649e715fab9dbddb074ef2f075":[6,0,815,12],
@@ -242,12 +249,5 @@ var NAVTREEINDEX242 =
 "d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[6,0,1090,33],
 "d9/df5/classspell__gen__elune__candle.html":[6,0,2895],
 "d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2895,3],
-"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2895,0],
-"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2895,2],
-"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2895,1],
-"d9/df5/structboss__sartharion__dragonAI.html":[6,0,669],
-"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[6,0,669,13],
-"d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[6,0,669,7],
-"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[6,0,669,12],
-"d9/df5/structboss__sartharion__dragonAI.html#a16582179f25ddc130f97bb70fe80316f":[6,0,669,6]
+"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2895,0]
 };

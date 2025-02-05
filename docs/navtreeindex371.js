@@ -1,5 +1,12 @@
 var NAVTREEINDEX371 =
 {
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4d79b64b5ecee2ba9656b9d529bf3e67":[7,0,0,0,1,3,2,1,1,0,6,19],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea503877c1a58c45c0cf831956301e25d4":[7,0,0,0,1,3,2,1,1,0,6,3],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea533198e54662054bd2c30c4466c7a031":[7,0,0,0,1,3,2,1,1,0,6,15],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea55c96307cf168635ccc227452456db7a":[7,0,0,0,1,3,2,1,1,0,6,17],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea578c0d6c2dabcd13a1ad5073ed8f0943":[7,0,0,0,1,3,2,1,1,0,6,0],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6700fa8845e9d9e176db1436e7acb285":[7,0,0,0,1,3,2,1,1,0,6,6],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6ff197e3ec5d7f94d4226d9526641a26":[7,0,0,0,1,3,2,1,1,0,6,11],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea70065ceeb513008ef3c8bc999615b9d4":[7,0,0,0,1,3,2,1,1,0,6,25],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[7,0,0,0,1,3,2,1,1,0,6,8],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[7,0,0,0,1,3,2,1,1,0,6,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX371 =
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#ab10351b157e6e370d910780febdbda74":[6,0,534,0,7],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#ac67332dd2f94ea8bdd7c7871bc022239":[6,0,534,0,12],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#acbb2807142af2ef570aec0f12c861d36":[6,0,534,0,4],
-"df/d16/structboss__ionar_1_1boss__ionarAI.html#ad3f0bf773bc091cc14491cd309a4b531":[6,0,534,0,5],
-"df/d16/structboss__ionar_1_1boss__ionarAI.html#ae87ba5970d8d4f9fc33b94dc9abefa2f":[6,0,534,0,9],
-"df/d16/structboss__ionar_1_1boss__ionarAI.html#af212102febe4e0ef406475f5e1452695":[6,0,534,0,0],
-"df/d17/classGameObjectModelOwnerBase.html":[6,0,1068],
-"df/d17/classGameObjectModelOwnerBase.html#a307c744710782fcb0d5c287b23c74d69":[6,0,1068,0],
-"df/d17/classGameObjectModelOwnerBase.html#a35c11d2346c5156b95558729d84b3fe8":[6,0,1068,3],
-"df/d17/classGameObjectModelOwnerBase.html#a6b55de1c8de5a50245d7e5a833766d0f":[6,0,1068,4],
-"df/d17/classGameObjectModelOwnerBase.html#a82e89b7fac5f46a25519674930294ed8":[6,0,1068,5]
+"df/d16/structboss__ionar_1_1boss__ionarAI.html#ad3f0bf773bc091cc14491cd309a4b531":[6,0,534,0,5]
 };

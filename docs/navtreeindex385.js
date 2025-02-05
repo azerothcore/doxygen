@@ -1,5 +1,12 @@
 var NAVTREEINDEX385 =
 {
+"df/da2/Battlefield_8h.html#af5e231859535c4e1e6bd27ee42753f63":[7,0,0,0,1,2,7,2,10],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798":[7,0,0,0,1,2,7,2,6],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5":[7,0,0,0,1,2,7,2,6,4],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f":[7,0,0,0,1,2,7,2,6,3],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29":[7,0,0,0,1,2,7,2,6,2],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b":[7,0,0,0,1,2,7,2,6,5],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7":[7,0,0,0,1,2,7,2,6,1],
 "df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4":[7,0,0,0,1,2,7,2,6,6],
 "df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178":[7,0,0,0,1,2,7,2,6,0],
 "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187f":[7,0,0,0,1,2,7,2,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX385 =
 "df/da7/classBattleground.html#aa086c460693a9771645e79d5f69d9efa":[6,0,296,165],
 "df/da7/classBattleground.html#aa0b5122402b27314d7c46e05fec88e1a":[6,0,296,84],
 "df/da7/classBattleground.html#aa1eb8678ca1f6599e497ecce2df37624":[6,0,296,102],
-"df/da7/classBattleground.html#aa24da8c1e9ae0d11941e2ccdf053f022":[6,0,296,224],
-"df/da7/classBattleground.html#aa581b911d9d56c719740195687e298bb":[6,0,296,143],
-"df/da7/classBattleground.html#aa6cccb08a3e0650487dbd564f9dc07a0":[6,0,296,19],
-"df/da7/classBattleground.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1":[6,0,296,86],
-"df/da7/classBattleground.html#aab82851015efc372f0f06ea8615cbee4":[6,0,296,131],
-"df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9":[6,0,296,97],
-"df/da7/classBattleground.html#aac0f3dc367b90791647976d676328dd2":[6,0,296,191],
-"df/da7/classBattleground.html#aad6e28bc4586e9a4cd229a20f8170114":[6,0,296,204]
+"df/da7/classBattleground.html#aa24da8c1e9ae0d11941e2ccdf053f022":[6,0,296,224]
 };

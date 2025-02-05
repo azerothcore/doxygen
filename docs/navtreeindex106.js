@@ -1,5 +1,12 @@
 var NAVTREEINDEX106 =
 {
+"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298ca93a0a9962989ba42b33c3a498c18e6e1":[7,0,0,0,1,3,2,16,0,9,9],
+"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,16,0,9,8],
+"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298cab0b6404248735c9902885faa7ce72155":[7,0,0,0,1,3,2,16,0,9,2],
+"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,16,0,9,1],
+"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298caeeabe2bc0c5c074e706dc70ebe1a1807":[7,0,0,0,1,3,2,16,0,9,7],
+"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,16,0,7],
+"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,2,16,0,7,1],
 "d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,2,16,0,7,0],
 "d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,16,0,7,2],
 "d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826":[7,0,0,0,1,3,2,16,0,11],
@@ -60,12 +67,12 @@ var NAVTREEINDEX106 =
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,21],
 "d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,21,1],
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
-"d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,27,20,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,27,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2269],
@@ -242,12 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dbf/classnpc__ritual__channeler.html":[6,0,2046],
 "d3/dbf/classnpc__ritual__channeler.html#aa416545438d701cbfc2567ba5ae536c8":[6,0,2046,2],
 "d3/dbf/classnpc__ritual__channeler.html#adab372002549b009e3f937ec67e49f3f":[6,0,2046,1],
-"d3/dc1/classnpc__steam__powered__auctioneer.html":[6,0,2097],
-"d3/dc1/classnpc__steam__powered__auctioneer.html#a39a2f0c187078c759bc4a391e0a81068":[6,0,2097,2],
-"d3/dc1/classnpc__steam__powered__auctioneer.html#ae8c918c639ce0c3ddc14b8cf7f0ef855":[6,0,2097,1],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html":[6,0,771,0],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a115529fcbc5a0c8b57152be49915d575":[6,0,771,0,12],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a2b6619a51641a82109e98fd4decd22e3":[6,0,771,0,6],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a2f2782926ee9a59fc5188d02347f9ca8":[6,0,771,0,7],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a319095910309b0a78d321c4d33994542":[6,0,771,0,10]
+"d3/dc1/classnpc__steam__powered__auctioneer.html":[6,0,2097]
 };

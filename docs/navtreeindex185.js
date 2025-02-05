@@ -1,6 +1,13 @@
 var NAVTREEINDEX185 =
 {
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[6,0,9,10,1],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,27,10,1],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[5,0,27,10,4],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[6,0,9,10,4],
+"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[5,0,27,10,3],
+"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
+"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,27,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,27,10,5],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3700],
@@ -242,12 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d39/classspell__illidan__glaive__throw.html#a270a64dffdce230d97515f116ec49706":[6,0,3118,2],
 "d7/d39/classspell__illidan__glaive__throw.html#a7cf3637ea33ad30913723b4fd33e5546":[6,0,3118,3],
 "d7/d39/classspell__illidan__glaive__throw.html#adda61c05b544b52d98af5b7a76d4f808":[6,0,3118,1],
-"d7/d39/classspell__illidan__glaive__throw.html#af5ac581f7d471300fba2c23548037eea":[6,0,3118,0],
-"d7/d3a/classspell__pal__holy__shock.html":[6,0,3450],
-"d7/d3a/classspell__pal__holy__shock.html#a0d7910cd2b9d9f4174575532502d40f9":[6,0,3450,0],
-"d7/d3a/classspell__pal__holy__shock.html#a1eac1eb5f39093ff48942e82728478dd":[6,0,3450,1],
-"d7/d3a/classspell__pal__holy__shock.html#a4b67c348685a8094668e4ed2f0c78446":[6,0,3450,4],
-"d7/d3a/classspell__pal__holy__shock.html#a6acb46e81171e13f50ac1f01bf83013b":[6,0,3450,3],
-"d7/d3a/classspell__pal__holy__shock.html#adbb58b75232560d101b291c0d99a2a20":[6,0,3450,2],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html":[6,0,566,0]
+"d7/d39/classspell__illidan__glaive__throw.html#af5ac581f7d471300fba2c23548037eea":[6,0,3118,0]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX259 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a3a3ace68ae8e52f1ba035dfc34b9d113":[7,0,0,0,1,3,7,13,38,14],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a41055491c9356e1ef93a9e68820237ce":[7,0,0,0,1,3,7,13,38,29],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a75a68f28eff876a9f96b31591d24b49d":[7,0,0,0,1,3,7,13,38,26],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a785b1b1793ba985baa020374d34ca3e0":[7,0,0,0,1,3,7,13,38,8],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7960db784552c9c9e6844cdd45abe658":[7,0,0,0,1,3,7,13,38,5],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d":[7,0,0,0,1,3,7,13,38,17],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693":[7,0,0,0,1,3,7,13,38,27],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[7,0,0,0,1,3,7,13,38,28],
@@ -242,12 +249,5 @@ var NAVTREEINDEX259 =
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab57ce6fe0349a91a7309d55ab7ea1b0b":[7,0,0,0,1,3,5,7,14,9,6],
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab9e71f50b4273205920633a49fc30a6b":[7,0,0,0,1,3,5,7,14,9,0],
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7eef1befb536c172785d84edc3f9aff":[7,0,0,0,1,3,5,7,14,9,7],
-"da/db3/classspell__dk__wandering__plague__aura.html":[6,0,2743],
-"da/db3/classspell__dk__wandering__plague__aura.html#a72d89db31c1fbd5c3b49b4c05a2d90f4":[6,0,2743,3],
-"da/db3/classspell__dk__wandering__plague__aura.html#a911b81552e7193dbf1cfc11037b44d84":[6,0,2743,1],
-"da/db3/classspell__dk__wandering__plague__aura.html#abd74252153fc4fc9a4e561005ea58b3f":[6,0,2743,0],
-"da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2743,2],
-"da/db3/structLootView.html":[6,0,1430],
-"da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1430,2],
-"da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1430,0]
+"da/db3/classspell__dk__wandering__plague__aura.html":[6,0,2743]
 };

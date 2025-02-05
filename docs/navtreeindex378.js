@@ -1,5 +1,12 @@
 var NAVTREEINDEX378 =
 {
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3501],
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3501,1],
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3501,2],
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3501,0],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
+"df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3],
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[6,0,6,3,3],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX378 =
 "df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1662,23],
 "df/d5c/classnpc__commandscript.html#ad789c3fb6523abddf4d07d38952e04a8":[6,0,1662,1],
 "df/d5c/classnpc__commandscript.html#ae33bcd34c61d305dc3d98d9c8d3bd379":[6,0,1662,19],
-"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1662,18],
-"df/d5c/classnpc__commandscript.html#aebdf52c0354ed5f4c951c67d093c175a":[6,0,1662,4],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html":[6,0,2683],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a11732039155235c287757980129d5a8e":[6,0,2683,1],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a467272ccd10ec0aff7ad00a567c0049c":[6,0,2683,2],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a56a4e65df08a95fddde75162358155c2":[6,0,2683,4],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a6f97c9c1dc71a87d2a82de646809f063":[6,0,2683,3],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#abdd93e8e80826c71ead1d9e44aaf865a":[6,0,2683,5]
+"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1662,18]
 };

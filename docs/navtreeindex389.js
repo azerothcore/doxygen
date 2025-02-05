@@ -1,5 +1,12 @@
 var NAVTREEINDEX389 =
 {
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ad930520b705ab63f903f7b68d660adbb":[6,0,2034,0,4],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ade38de77f83da2f084a9ad3f8ada01d3":[6,0,2034,0,1],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ae5289a2645f3d17da452810b22a77713":[6,0,2034,0,12],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#aef1192735d87a7e83ea00cc8cb9303c7":[6,0,2034,0,2],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642":[6,0,2034,0,15],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2034,0,8],
+"df/dd7/classboss__devourer__of__souls.html":[6,0,406],
 "df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,406,2],
 "df/dd7/classboss__devourer__of__souls.html#a95b3a33be3b85a4c7ecfb4370a9ddc60":[6,0,406,1],
 "df/dd8/classDBCStorage.html":[6,0,939],
@@ -242,12 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd9/classUnit.html#a38a7263fc4ea6f9ae2bb7234392fd92e":[6,0,4117,501],
 "df/dd9/classUnit.html#a390a9b5fdbfaa9c237f8eed33579a1aa":[6,0,4117,95],
 "df/dd9/classUnit.html#a395fdde66493c57aeedacc2b6d82c742":[6,0,4117,206],
-"df/dd9/classUnit.html#a396dd1e8b03fcd409bfc1223b1d55b6f":[6,0,4117,735],
-"df/dd9/classUnit.html#a39a29be2cc002968e885ca700fd68759":[6,0,4117,368],
-"df/dd9/classUnit.html#a3ac5eb5e55d7c23cda7d7a7f3d23cc68":[6,0,4117,179],
-"df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4":[6,0,4117,62],
-"df/dd9/classUnit.html#a3b8c0d3de7eaf8ec48236035f58dcfb5":[6,0,4117,864],
-"df/dd9/classUnit.html#a3b99532f8cbe18f3dd08972ee8d3b44d":[6,0,4117,847],
-"df/dd9/classUnit.html#a3bb06bc22c7b60ab2fae8d7141335043":[6,0,4117,91],
-"df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683":[6,0,4117,197]
+"df/dd9/classUnit.html#a396dd1e8b03fcd409bfc1223b1d55b6f":[6,0,4117,735]
 };

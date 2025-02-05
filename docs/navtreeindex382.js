@@ -1,5 +1,12 @@
 var NAVTREEINDEX382 =
 {
+"df/d87/boss__freya_8cpp.html#ab4ce933d0bf2bfe411ca6bd88482e927":[7,0,0,0,1,3,5,9,2,4,30],
+"df/d87/boss__freya_8cpp.html#ab8f3e39126bf3ab3fe3ef2ba3db5bdb0":[7,0,0,0,1,3,5,9,2,4,29],
+"df/d87/boss__freya_8cpp.html#aca60cc97d567bf5a7fdffad3d623b8cf":[7,0,0,0,1,3,5,9,2,4,36],
+"df/d87/boss__freya_8cpp.html#ad8bb3079a51710317591ed013fb12466":[7,0,0,0,1,3,5,9,2,4,25],
+"df/d87/boss__freya_8cpp.html#ae02347c5d662ea88dd2b4b0efd11c0fb":[7,0,0,0,1,3,5,9,2,4,23],
+"df/d87/boss__freya_8cpp.html#ae7ebd6a5ea17fb06f3fe74663290509c":[7,0,0,0,1,3,5,9,2,4,34],
+"df/d87/boss__freya_8cpp.html#af1277bf907dfc059a3108cb5a06073da":[7,0,0,0,1,3,5,9,2,4,33],
 "df/d87/boss__freya_8cpp.html#af40a0ea076977dd53f7554e3e1f5eb82":[7,0,0,0,1,3,5,9,2,4,39],
 "df/d87/boss__freya_8cpp.html#af5b656fe6ab557fa96123cf784deca59":[7,0,0,0,1,3,5,9,2,4,26],
 "df/d87/boss__freya_8cpp.html#afe08ad9345c9d1f9a2c07d67ea4861d7":[7,0,0,0,1,3,5,9,2,4,31],
@@ -242,12 +249,5 @@ var NAVTREEINDEX382 =
 "df/d92/classSpellScript.html#a94442322faef9f04890b18a421067150":[6,0,4015,50],
 "df/d92/classSpellScript.html#a96ba2eed3fb3e3c62b3d68f3676a7062":[6,0,4015,31],
 "df/d92/classSpellScript.html#a9e6969d15b334394e0a2d4b63234fc01":[6,0,4015,17],
-"df/d92/classSpellScript.html#aacdfd8a471df948a147c97b916d2fa80":[6,0,4015,68],
-"df/d92/classSpellScript.html#ab3f17ad4c7e5d6955ca812c17f6fdb3a":[6,0,4015,23],
-"df/d92/classSpellScript.html#ab477a1d96d30165236840058af3d2f78":[6,0,4015,59],
-"df/d92/classSpellScript.html#ab710c9879074c1fe4eef5101373d6c8e":[6,0,4015,33],
-"df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6":[6,0,4015,58],
-"df/d92/classSpellScript.html#ac0fd1a4f71242c07aee200b98dda1295":[6,0,4015,11],
-"df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e":[6,0,4015,53],
-"df/d92/classSpellScript.html#ac2c96c7e45658bc2799b6beb486ac144":[6,0,4015,12]
+"df/d92/classSpellScript.html#aacdfd8a471df948a147c97b916d2fa80":[6,0,4015,68]
 };

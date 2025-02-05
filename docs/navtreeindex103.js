@@ -1,5 +1,12 @@
 var NAVTREEINDEX103 =
 {
+"d3/d92/classGameEventMgr.html#adb0056cf47ac017721acb3374bafcb74":[6,0,1055,50],
+"d3/d92/classGameEventMgr.html#adcc6d8a9aaefca1ae44783598d70531f":[6,0,1055,16],
+"d3/d92/classGameEventMgr.html#adddda916da8f95d50cfa17f28f76fe91":[6,0,1055,37],
+"d3/d92/classGameEventMgr.html#ae2b1a729f3af63b9dac537b6ac3b1d3f":[6,0,1055,18],
+"d3/d92/classGameEventMgr.html#aea098683abd57a8a9b4878eb6a3ee747":[6,0,1055,11],
+"d3/d92/classGameEventMgr.html#afca80ec9e1640a85eaae605f2e166748":[6,0,1055,75],
+"d3/d92/classGameEventMgr.html#afda78cbdc26a31b5c5d6ce0d3f4c4b0c":[6,0,1055,6],
 "d3/d92/classboss__grand__champion.html":[6,0,489],
 "d3/d92/classboss__grand__champion.html#a9577f8af5e234b3aebd7567841b867e2":[6,0,489,1],
 "d3/d92/classboss__grand__champion.html#aa60972482ef16329d7ffc0a7ccf2d03e":[6,0,489,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d9d/zone__silithus_8cpp.html#a923a77705fa4d0950a83d540db7d23b3af9ee4ad1e77a9a40b4684cafa1203be4":[7,0,0,0,1,3,4,26,15,28],
 "d3/d9d/zone__silithus_8cpp.html#a923a77705fa4d0950a83d540db7d23b3afe7be3c1465cdeaa639d28fa07e3188b":[7,0,0,0,1,3,4,26,15,35],
 "d3/d9d/zone__silithus_8cpp.html#ab2605f1616e14016c8e3b390d3dbf720":[7,0,0,0,1,3,4,26,20],
-"d3/d9d/zone__silithus_8cpp.html#ab69ef601d31d0264381d9af5e06f7769":[7,0,0,0,1,3,4,26,13],
-"d3/d9d/zone__silithus_8cpp.html#af5b8990a489280bda89e738cb3648330":[7,0,0,0,1,3,4,26,19],
-"d3/d9e/boss__high__king__maulgar_8cpp.html":[7,0,0,0,1,3,7,3,1],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00":[7,0,0,0,1,3,7,3,1,5],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,3,1,5,4],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163":[7,0,0,0,1,3,7,3,1,5,12],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df":[7,0,0,0,1,3,7,3,1,5,14],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f":[7,0,0,0,1,3,7,3,1,5,9]
+"d3/d9d/zone__silithus_8cpp.html#ab69ef601d31d0264381d9af5e06f7769":[7,0,0,0,1,3,4,26,13]
 };

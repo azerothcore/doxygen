@@ -1,5 +1,12 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc7/structSpellEntry.html#a593be50e34ea423f15a28f71a48a1e54":[6,0,3992,27],
+"d5/dc7/structSpellEntry.html#a5d389c378263cdd630baaee4ff27f0f7":[6,0,3992,77],
+"d5/dc7/structSpellEntry.html#a5dc75f632a583e7d59c9fd780d939246":[6,0,3992,49],
+"d5/dc7/structSpellEntry.html#a6092f385a545aa33ba1e5ee28d21e92a":[6,0,3992,48],
+"d5/dc7/structSpellEntry.html#a60af17b22d7c7fe6266828c70bb94aa7":[6,0,3992,0],
+"d5/dc7/structSpellEntry.html#a617fd6e64ab83548172c3029d1902328":[6,0,3992,86],
+"d5/dc7/structSpellEntry.html#a62165a7f4eab3c64302fc33d3ba9577c":[6,0,3992,72],
 "d5/dc7/structSpellEntry.html#a6586c7d319184dfe4bcd6a3086da2225":[6,0,3992,85],
 "d5/dc7/structSpellEntry.html#a6b3f2f362bc6f7462bfb26931052f606":[6,0,3992,15],
 "d5/dc7/structSpellEntry.html#a6d6f3c418ca9cd448e8e861c1324a93a":[6,0,3992,55],
@@ -242,12 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dce/outland__script__loader_8cpp.html#aed8364eb84dab70c060c0a88e6522a7c":[7,0,0,0,1,3,7,8,61],
 "d5/dce/outland__script__loader_8cpp.html#af322170b8d6ad428560c7ab2512f2a6f":[7,0,0,0,1,3,7,8,33],
 "d5/dce/outland__script__loader_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[7,0,0,0,1,3,7,8,94],
-"d5/dce/outland__script__loader_8cpp.html#af79bca9b81cdd4bec8ed244213f42deb":[7,0,0,0,1,3,7,8,20],
-"d5/dce/outland__script__loader_8cpp.html#af803a0e2dfb7f53b6682e02b90bef865":[7,0,0,0,1,3,7,8,78],
-"d5/dce/outland__script__loader_8cpp.html#af8878a94693e7e2e32962d79c7a83e80":[7,0,0,0,1,3,7,8,44],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html":[6,0,1994],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#a2280e5cc5187a91917a1e517e80e960d":[6,0,1994,3],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#a2df79acc05dd8489e9e994e044b45404":[6,0,1994,5],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#a3428642963fc9e7588ec92fd838f1af9":[6,0,1994,0],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[6,0,1994,4]
+"d5/dce/outland__script__loader_8cpp.html#af79bca9b81cdd4bec8ed244213f42deb":[7,0,0,0,1,3,7,8,20]
 };

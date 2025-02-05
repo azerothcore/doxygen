@@ -1,5 +1,12 @@
 var NAVTREEINDEX270 =
 {
+"db/d18/classspell__gen__fixate__aura.html":[6,0,2900],
+"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[6,0,2900,0],
+"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2900,1],
+"db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2900,2],
+"db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3574],
+"db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3574,1],
+"db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3574,2],
 "db/d1a/classspell__q12227__outhouse__groans.html#a8f6332b2d4e7ac7ba6a68331b1d4512f":[6,0,3574,3],
 "db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3574,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1704,0],
@@ -152,8 +159,8 @@ var NAVTREEINDEX270 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1855,0],
@@ -173,8 +180,8 @@ var NAVTREEINDEX270 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,30,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,30,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,30,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,30,5,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4015,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX270 =
 "db/d29/structWardenCheck.html#a1fc1eba87b344d4681498aafcaa496cb":[6,0,4154,7],
 "db/d29/structWardenCheck.html#a51a0cea0381f2b64e9d240ac39591172":[6,0,4154,2],
 "db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2":[6,0,4154,3],
-"db/d29/structWardenCheck.html#a962795028d40645fe67e4290ea64b10b":[6,0,4154,4],
-"db/d29/structWardenCheck.html#aaae2d4fd576f3eeb40c1413d54802345":[6,0,4154,1],
-"db/d29/structWardenCheck.html#abe0249d9550042e696eb74edf06aaec8":[6,0,4154,6],
-"db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70":[6,0,4154,8],
-"db/d2a/classspell__q10898__skywing.html":[6,0,3537],
-"db/d2a/classspell__q10898__skywing.html#a5cb9e02774ea6c307e76183253ffb472":[6,0,3537,1],
-"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3537,2],
-"db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[6,0,3537,0]
+"db/d29/structWardenCheck.html#a962795028d40645fe67e4290ea64b10b":[6,0,4154,4]
 };

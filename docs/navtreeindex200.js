@@ -1,5 +1,12 @@
 var NAVTREEINDEX200 =
 {
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#a73628636431d3549d6e3530c6ef23c08":[6,0,3548,0],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#a7f42cf47831d3c8544453530a1454ddc":[6,0,3548,2],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#ab90d3031b356e8004fa62c9562f1ba1f":[6,0,3548,1],
+"d7/db1/structRepSpilloverTemplate.html":[6,0,2457],
+"d7/db1/structRepSpilloverTemplate.html#a1ffb9cddf950edfb17e9779691b09f07":[6,0,2457,1],
+"d7/db1/structRepSpilloverTemplate.html#aaad6e04ef66264f040ddd91ae7f4e04b":[6,0,2457,0],
+"d7/db1/structRepSpilloverTemplate.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4":[6,0,2457,2],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[6,0,2153,0],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a025d39c04e864ebd77f4f930ec20b1e5":[6,0,2153,0,0],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a06130e6e440d0b25d8b5566de6190cbc":[6,0,2153,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX200 =
 "d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1858,1],
 "d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1858,2],
 "d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4":[7,0,0,0,1,3,5,2,1,4,13,1],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf":[7,0,0,0,1,3,5,2,1,4,13,2],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a7856b7938de2e6a89176fb130bb602db":[7,0,0,0,1,3,5,2,1,4,13,0],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a8a7aff98e443da9bf05b24611779948e":[7,0,0,0,1,3,5,2,1,4,13,3],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,2,1,4,15],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,2,1,4,15,8],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a434be9f1850e630630e0a9487104e4b9":[7,0,0,0,1,3,5,2,1,4,15,1]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX296 =
 {
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6":[7,0,0,0,1,3,7,2,2,0,1,6],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,2,0,1,2],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,2,2,0,1,0],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92":[7,0,0,0,1,3,7,2,2,0,1,7],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2":[7,0,0,0,1,3,7,2,2,0,1,4],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2":[7,0,0,0,1,3,7,2,2,0,1,5],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671":[7,0,0,0,1,3,7,2,2,0,1,3],
 "dc/d17/TransportScript_8h.html":[7,0,0,0,1,2,38,0,81],
 "dc/d17/classspell__bwl__shadowflame.html":[6,0,2652],
 "dc/d17/classspell__bwl__shadowflame.html#a29a7f51f01e1ccf71dcc53ad68f032ae":[6,0,2652,3],
@@ -157,8 +164,8 @@ var NAVTREEINDEX296 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3585,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d25/classCorruptTriggers.html":[6,0,892],
 "dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,892,2],
 "dc/d25/classCorruptTriggers.html#a5ec60254ee2ac299ce99164189087a1c":[6,0,892,0],
-"dc/d25/classCorruptTriggers.html#a9929f3518f307e0b753782967f06c6c1":[6,0,892,1],
-"dc/d25/cs__gobject_8cpp.html":[7,0,0,0,1,3,0,17],
-"dc/d25/cs__gobject_8cpp.html#a0cc4be9c12b1a892f031cb1ff47e23d9":[7,0,0,0,1,3,0,17,3],
-"dc/d25/cs__gobject_8cpp.html#ad5bd2a208bd6c6213df595ee7369126f":[7,0,0,0,1,3,0,17,2],
-"dc/d25/cs__gobject_8cpp.html#af6e4fdc2f36213d5f2a9fa6f335517b8":[7,0,0,0,1,3,0,17,1],
-"dc/d26/DBCStore_8cpp.html":[7,0,0,0,1,4,0,5],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html":[7,0,0,0,1,3,7,5,0,5],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#a0882a32bfa1f067701d921a72b7c79b5":[7,0,0,0,1,3,7,5,0,5,3]
+"dc/d25/classCorruptTriggers.html#a9929f3518f307e0b753782967f06c6c1":[6,0,892,1]
 };

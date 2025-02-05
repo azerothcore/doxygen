@@ -1,5 +1,12 @@
 var NAVTREEINDEX386 =
 {
+"df/da7/classBattleground.html#aa581b911d9d56c719740195687e298bb":[6,0,296,143],
+"df/da7/classBattleground.html#aa6cccb08a3e0650487dbd564f9dc07a0":[6,0,296,19],
+"df/da7/classBattleground.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1":[6,0,296,86],
+"df/da7/classBattleground.html#aab82851015efc372f0f06ea8615cbee4":[6,0,296,131],
+"df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9":[6,0,296,97],
+"df/da7/classBattleground.html#aac0f3dc367b90791647976d676328dd2":[6,0,296,191],
+"df/da7/classBattleground.html#aad6e28bc4586e9a4cd229a20f8170114":[6,0,296,204],
 "df/da7/classBattleground.html#ab188798f704cc4f103aab7f94addd280":[6,0,296,211],
 "df/da7/classBattleground.html#ab40dd6ed08f1504cf72c0657b801037a":[6,0,296,116],
 "df/da7/classBattleground.html#ab53cf7fe615fefbafecc0cf7b3077e4c":[6,0,296,93],
@@ -242,12 +249,5 @@ var NAVTREEINDEX386 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,4,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,1,3,4,3],
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,3,4,0],
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,1,1,3,4,1],
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,4,1,1,3,4,2],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,3,3],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca84be6ed368c53a45a93ac053097aad60":[7,0,0,0,1,3,4,1,1,3,3,3],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c129b60b4b52a474c5617f275a3b094":[7,0,0,0,1,3,4,1,1,3,3,0]
+"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4]
 };

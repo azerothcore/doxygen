@@ -1,5 +1,12 @@
 var NAVTREEINDEX349 =
 {
+"de/d1c/classGameObject.html#a5662ed03277c30259f7f4c88c403b63b":[6,0,1058,180],
+"de/d1c/classGameObject.html#a56d1b5bc4a1892417e3384f6fb51b815":[6,0,1058,19],
+"de/d1c/classGameObject.html#a5719e02e07ed707bcb3f69d2c321f70d":[6,0,1058,108],
+"de/d1c/classGameObject.html#a594f9c1cadd8eac4e07c81be4d2095d3":[6,0,1058,184],
+"de/d1c/classGameObject.html#a5aae646746017d2cab8aa0f625cb4d42":[6,0,1058,139],
+"de/d1c/classGameObject.html#a5b9cacd603a2936f82702d15078cf87c":[6,0,1058,75],
+"de/d1c/classGameObject.html#a5eb9fa78fedbe3404f08e0f8e7cad8c2":[6,0,1058,55],
 "de/d1c/classGameObject.html#a606cee6d214156d4c73adb5801fb566c":[6,0,1058,44],
 "de/d1c/classGameObject.html#a617e84b2e10ccd1eaae74d6df700cc7f":[6,0,1058,72],
 "de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d":[6,0,1058,128],
@@ -242,12 +249,5 @@ var NAVTREEINDEX349 =
 "de/d24/structnpc__demon__chain.html#a27007fdff0d685b0a38a0b98820b95fb":[6,0,1708,2],
 "de/d24/structnpc__demon__chain.html#a35d1b7de8612f11cdf61b9d663990686":[6,0,1708,3],
 "de/d24/structnpc__demon__chain.html#a5572e39fcf3d807ef462f5c16ff703f1":[6,0,1708,7],
-"de/d24/structnpc__demon__chain.html#a745fa194ca5ad30c96e85b3f9daad2ad":[6,0,1708,1],
-"de/d24/structnpc__demon__chain.html#a9743ebc31c5159a03889bfd40b09d749":[6,0,1708,4],
-"de/d24/structnpc__demon__chain.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05":[6,0,1708,5],
-"de/d24/structnpc__demon__chain.html#ac234e729422925bd773bcdbc45f9e1b5":[6,0,1708,0],
-"de/d24/structnpc__demon__chain.html#ad531f82511e5156d3b9891dd4095b0d5":[6,0,1708,6],
-"de/d25/ObjectMgr_8h.html":[7,0,0,0,1,2,18,3],
-"de/d25/ObjectMgr_8h.html#a005e96d6f6920dc164590837dd948b1b":[7,0,0,0,1,2,18,3,43],
-"de/d25/ObjectMgr_8h.html#a03c74a524185c10fc536a50f3ef69ce3":[7,0,0,0,1,2,18,3,40]
+"de/d24/structnpc__demon__chain.html#a745fa194ca5ad30c96e85b3f9daad2ad":[6,0,1708,1]
 };

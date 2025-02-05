@@ -1,5 +1,12 @@
 var NAVTREEINDEX350 =
 {
+"de/d24/structnpc__demon__chain.html#a9743ebc31c5159a03889bfd40b09d749":[6,0,1708,4],
+"de/d24/structnpc__demon__chain.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05":[6,0,1708,5],
+"de/d24/structnpc__demon__chain.html#ac234e729422925bd773bcdbc45f9e1b5":[6,0,1708,0],
+"de/d24/structnpc__demon__chain.html#ad531f82511e5156d3b9891dd4095b0d5":[6,0,1708,6],
+"de/d25/ObjectMgr_8h.html":[7,0,0,0,1,2,18,3],
+"de/d25/ObjectMgr_8h.html#a005e96d6f6920dc164590837dd948b1b":[7,0,0,0,1,2,18,3,43],
+"de/d25/ObjectMgr_8h.html#a03c74a524185c10fc536a50f3ef69ce3":[7,0,0,0,1,2,18,3,40],
 "de/d25/ObjectMgr_8h.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,3,99],
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198":[7,0,0,0,1,2,18,3,89],
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a21051e42b65ed96808ef8a72aaa30839":[7,0,0,0,1,2,18,3,89,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX350 =
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99":[7,0,0,0,1,2,16,1,2,36,22],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c":[7,0,0,0,1,2,16,1,2,36,1],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639":[7,0,0,0,1,2,16,1,2,36,24],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de":[7,0,0,0,1,2,16,1,2,36,15],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c":[7,0,0,0,1,2,16,1,2,36,20],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f":[7,0,0,0,1,2,16,1,2,36,14],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87":[7,0,0,0,1,2,16,1,2,36,27],
-"de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705":[7,0,0,0,1,2,16,1,2,37],
-"de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5":[7,0,0,0,1,2,16,1,2,37,1],
-"de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69":[7,0,0,0,1,2,16,1,2,37,2],
-"de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705a6a061313d22e51e0f25b7cd4dc065233":[7,0,0,0,1,2,16,1,2,37,3]
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de":[7,0,0,0,1,2,16,1,2,36,15]
 };

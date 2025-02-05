@@ -1,5 +1,11 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,52,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,52,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,64,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,52,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,64,2],
+"d2/d8c/classnpc__scholomance__occultist.html":[6,0,2063],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2063,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2063,1],
 "d2/d8c/structboss__thorim__sif_1_1boss__thorim__sifAI.html":[6,0,725,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a67b00a327f4faf8b4f2d9c089cc89d02":[7,0,0,0,1,3,5,16,5],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,16,3],
-"d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0d02e350490e1dd285b5cade43f37588":[7,0,0,0,1,3,5,16,3,0],
-"d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4fd3c8842dd2fbdc5f8adf11b4842075":[7,0,0,0,1,3,5,16,3,2],
-"d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca58ad7c8a69f612f84afcfb351abfe972":[7,0,0,0,1,3,5,16,3,3],
-"d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca64fa5cae680bc2acf65e23eb510b2244":[7,0,0,0,1,3,5,16,3,1],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1":[7,0,0,0,1,3,5,16,2],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1a1f9b133b8099adbb89d16b5c66ba7d9c":[7,0,0,0,1,3,5,16,2,3],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1a5aa0e8b45a38734a0451f4ac204af779":[7,0,0,0,1,3,5,16,2,2]
+"d2/d95/zone__crystalsong__forest_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0d02e350490e1dd285b5cade43f37588":[7,0,0,0,1,3,5,16,3,0]
 };

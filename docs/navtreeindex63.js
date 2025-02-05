@@ -1,12 +1,17 @@
 var NAVTREEINDEX63 =
 {
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html":[6,0,3817],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,3817,2],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,3817,1],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3817,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,30,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,30,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,30,0,3,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,30,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,11,0,3,2],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,30,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1622],
 "d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1622,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[6,0,1622,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d60/classspell__tharon__ja__curse__of__life__aura.html#a8b90810bfc5416cdfeac2f6a72c55d3e":[6,0,3787,2],
 "d2/d60/classspell__tharon__ja__curse__of__life__aura.html#ab71faf6fb2900e176aac245317113758":[6,0,3787,0],
 "d2/d60/classspell__thorim__lightning__pillar__P2__aura.html":[6,0,3825],
-"d2/d60/classspell__thorim__lightning__pillar__P2__aura.html#a418b37f00a8a48d0a4362fd5381797bf":[6,0,3825,0],
-"d2/d60/classspell__thorim__lightning__pillar__P2__aura.html#a60c0d5d67de6e3224cba34599acc3e69":[6,0,3825,1],
-"d2/d60/classspell__thorim__lightning__pillar__P2__aura.html#a92fb0160f7a16e6cb6b9c928b744f5e0":[6,0,3825,2],
-"d2/d61/TotemPackets_8h.html":[7,0,0,0,1,2,39,0,22],
-"d2/d61/classRestoreAttack.html":[6,0,2464],
-"d2/d61/classRestoreAttack.html#a493ef909da834b0befd90f57f54fb10c":[6,0,2464,2]
+"d2/d60/classspell__thorim__lightning__pillar__P2__aura.html#a418b37f00a8a48d0a4362fd5381797bf":[6,0,3825,0]
 };

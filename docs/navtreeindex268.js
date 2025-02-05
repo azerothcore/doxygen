@@ -1,5 +1,12 @@
 var NAVTREEINDEX268 =
 {
+"da/df9/classDynamicVisibilityMgr.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6":[6,0,984,0],
+"da/df9/classDynamicVisibilityMgr.html#aa95443d7050249a44cad2f16fa0026e5":[6,0,984,3],
+"da/df9/classDynamicVisibilityMgr.html#ac402ec0cb86192ce264d7909e09da5ac":[6,0,984,2],
+"da/dfa/classnpc__fel__guard__hound.html":[6,0,1746],
+"da/dfa/classnpc__fel__guard__hound.html#a324179695f04a31b233b0ce94a46634c":[6,0,1746,1],
+"da/dfa/classnpc__fel__guard__hound.html#a5f5c20ec379994e7d0b65133d772e18f":[6,0,1746,2],
+"da/dfa/cs__reset_8cpp.html":[7,0,0,0,1,3,0,38],
 "da/dfa/cs__reset_8cpp.html#ae4c7679595ac3aac5f03426eb6e0e6e4":[7,0,0,0,1,3,0,38,1],
 "da/dfa/structTeamContributionPointsEntry.html":[6,0,4060],
 "da/dfa/structTeamContributionPointsEntry.html#a30d3b489f743df8aa828b6e5bb847ea2":[6,0,4060,0],
@@ -86,8 +93,8 @@ var NAVTREEINDEX268 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,22,3,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,22,3,3],
 "db/d02/zone__felwood_8cpp.html#aed16a0d3c0f5042443d68996e30f15bd":[7,0,0,0,1,3,4,22,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,102],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,90],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,102],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,102,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,90,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,90,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX268 =
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a5a2c59463a0546b6f5cd375b3671b86b":[6,0,2961,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#acf1173670c35c84ae7aba29be00d31cf":[6,0,2961,1],
 "db/d0d/classspell__gen__disabled__above__63.html":[6,0,2887],
-"db/d0d/classspell__gen__disabled__above__63.html#a51f9c0f92100c02e1fe7d127fecd902f":[6,0,2887,1],
-"db/d0d/classspell__gen__disabled__above__63.html#a5c89e7e53a7f41665ff25d57df8f7afb":[6,0,2887,2],
-"db/d0d/classspell__gen__disabled__above__63.html#a9e54ae3e90ee8bf0fab966a497f761b3":[6,0,2887,0],
-"db/d0e/classspell__zuljin__zap.html":[6,0,3977],
-"db/d0e/classspell__zuljin__zap.html#a2f5d255de09818203e498c0090bdd3fb":[6,0,3977,2],
-"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[6,0,3977,3],
-"db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[6,0,3977,1],
-"db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[6,0,3977,0]
+"db/d0d/classspell__gen__disabled__above__63.html#a51f9c0f92100c02e1fe7d127fecd902f":[6,0,2887,1]
 };

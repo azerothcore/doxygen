@@ -1,5 +1,12 @@
 var NAVTREEINDEX176 =
 {
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html":[6,0,1943,0],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a16eeb7d0ed6c943c088285462131cd51":[6,0,1943,0,1],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a19b42ca678e7bf93c86891b4ea0a2dce":[6,0,1943,0,4],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1ae2393871e0f4ebeb86521f06959a7a":[6,0,1943,0,5],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623":[6,0,1943,0,7],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a4313164857ebd174fe33a9a16340b332":[6,0,1943,0,0],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a9a2e367f30ee16ca55e634de8e22551e":[6,0,1943,0,2],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ad5d5a9de05e472d24fe399b4de79a3d0":[6,0,1943,0,3],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ae7079b335373cc06a040756328e7f714":[6,0,1943,0,6],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#af1d8694678b10e5393c658ba0b20f47a":[6,0,1943,0,8],
@@ -55,8 +62,8 @@ var NAVTREEINDEX176 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2244,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,30,5,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,30,5,22,0],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,30,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
@@ -148,8 +155,8 @@ var NAVTREEINDEX176 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX176 =
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea1e0d252cd126fa3b36eadae37eecf001":[7,0,0,0,1,3,3,6,18,4],
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea1ec7c6531ce426f6ecdc3ecca3a2e80f":[7,0,0,0,1,3,3,6,18,7],
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea3d3c09529e7d370dc482d6513f0e6f7d":[7,0,0,0,1,3,3,6,18,5],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea71fe142c6a982940dc042748bf2d1f1c":[7,0,0,0,1,3,3,6,18,8],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea7dd2ae7a70ff82391f6d9ad7ce56d926":[7,0,0,0,1,3,3,6,18,3],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea8f2ff939af4f858097368acaff2fbfca":[7,0,0,0,1,3,3,6,18,1],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea984aba85c4d3dc2b79534ed149330a07":[7,0,0,0,1,3,3,6,18,0],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eaa5f003f81344b4b63c66e9d688cf5ab7":[7,0,0,0,1,3,3,6,18,9],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eada71863a07a8a1df8b4c956b71c9d619":[7,0,0,0,1,3,3,6,18,2],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eadb3e5a1b658501535c8e1b684930c8c5":[7,0,0,0,1,3,3,6,18,11],
-"d6/dba/midsummer_8cpp.html#afd8a3a151093c0630847d5c80e1f854f":[7,0,0,0,1,3,3,6,16]
+"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea71fe142c6a982940dc042748bf2d1f1c":[7,0,0,0,1,3,3,6,18,8]
 };

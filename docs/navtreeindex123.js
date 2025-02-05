@@ -1,5 +1,12 @@
 var NAVTREEINDEX123 =
 {
+"d4/d4c/classnpc__pos__tyrannus__events.html#ae5863e99d77815de71c1774e908b3f65":[6,0,2012,2],
+"d4/d4d/classgo__commandscript.html":[6,0,1110],
+"d4/d4d/classgo__commandscript.html#a03cfe4efbd8ed05680308c08b40c8f1b":[6,0,1110,0],
+"d4/d4d/classgo__commandscript.html#a1b47eda64c4c33da4b973a1e6a5d651b":[6,0,1110,8],
+"d4/d4d/classgo__commandscript.html#a4138d8299e150a55ae38613cac8e4c8b":[6,0,1110,10],
+"d4/d4d/classgo__commandscript.html#a4cc325ee1ecbb3dc9997d522fa15ebaa":[6,0,1110,4],
+"d4/d4d/classgo__commandscript.html#a4d48d4a889033f7eac9a8473fb6cf3aa":[6,0,1110,12],
 "d4/d4d/classgo__commandscript.html#a4ddbfdfa0f8bc74b956dd881c55065c0":[6,0,1110,3],
 "d4/d4d/classgo__commandscript.html#a672e84a91c30f7378adce918608a6a94":[6,0,1110,2],
 "d4/d4d/classgo__commandscript.html#a7ac0084020d81c574193668aad6e3d95":[6,0,1110,13],
@@ -242,12 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298cad30e2affcb9119c796b3b7e208c15288":[7,0,0,0,1,3,2,15,2,8,24],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298cad79f1cb8c149487722ae7aa4412d7db0":[7,0,0,0,1,3,2,15,2,8,26],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298cad7ab79d3ffbd93078a1863360496b96f":[7,0,0,0,1,3,2,15,2,8,7],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298caeb0663a2affa50bbc92a98e6a281444c":[7,0,0,0,1,3,2,15,2,8,11],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298cafacff27721cbcd8a9d07ffa8623c82cf":[7,0,0,0,1,3,2,15,2,8,19],
-"d4/d57/boss__hexlord_8cpp.html#ab5f9b5dcc2449941412d5a0629c1e6ba":[7,0,0,0,1,3,2,15,2,9],
-"d4/d57/boss__hexlord_8cpp.html#ad2f8d1f59ceadf23b8c90eb2b865fc84":[7,0,0,0,1,3,2,15,2,12],
-"d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4":[7,0,0,0,1,3,2,15,2,4],
-"d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9":[7,0,0,0,1,3,2,15,2,4,3],
-"d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901":[7,0,0,0,1,3,2,15,2,4,1],
-"d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712":[7,0,0,0,1,3,2,15,2,4,2]
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298caeb0663a2affa50bbc92a98e6a281444c":[7,0,0,0,1,3,2,15,2,8,11]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX370 =
 {
+"de/dfd/classspell__q12937__relief__for__the__fallen.html#a510f81e77597ef55a87b4f77fa324b2b":[6,0,3606,1],
+"de/dfd/classspell__q12937__relief__for__the__fallen.html#ac8dcfed4a74c85121b8b6c39856f709b":[6,0,3606,2],
+"de/dfd/classspell__q12937__relief__for__the__fallen.html#ae7ed739883e30015e99b6ab5d6cb3f39":[6,0,3606,3],
+"de/dff/Position_8h.html":[7,0,0,0,1,2,16,5,9],
+"de/dff/Position_8h.html#a09519787a0405fc17b028180b2da4cdd":[7,0,0,0,1,2,16,5,9,6],
+"de/dff/Position_8h.html#a188cc2956d39298323a99c4aa5ceede6":[7,0,0,0,1,2,16,5,9,9],
+"de/dff/Position_8h.html#a71323635f122d24189054da615cb39e1":[7,0,0,0,1,2,16,5,9,7],
 "de/dff/Position_8h.html#a72e22c3226b5f361848aef2c75a6d3fb":[7,0,0,0,1,2,16,5,9,10],
 "de/dff/Position_8h.html#ab63323f8a9ade40ddd90338538b5c9b5":[7,0,0,0,1,2,16,5,9,8],
 "de/dff/Position_8h.html#af223d782e9dcf0f80ed4009360aa0d80":[7,0,0,0,1,2,16,5,9,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX370 =
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea2dd61fad0cece41f3fe62edb95b9c42b":[7,0,0,0,1,3,2,1,1,0,6,18],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea336143c515d3015f8438a011d0e70de8":[7,0,0,0,1,3,2,1,1,0,6,22],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4853605fa0ecae40d7276581389a094f":[7,0,0,0,1,3,2,1,1,0,6,27],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4b10c456b91a7ada46b3805c8d1064cf":[7,0,0,0,1,3,2,1,1,0,6,1],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4d79b64b5ecee2ba9656b9d529bf3e67":[7,0,0,0,1,3,2,1,1,0,6,19],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea503877c1a58c45c0cf831956301e25d4":[7,0,0,0,1,3,2,1,1,0,6,3],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea533198e54662054bd2c30c4466c7a031":[7,0,0,0,1,3,2,1,1,0,6,15],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea55c96307cf168635ccc227452456db7a":[7,0,0,0,1,3,2,1,1,0,6,17],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea578c0d6c2dabcd13a1ad5073ed8f0943":[7,0,0,0,1,3,2,1,1,0,6,0],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6700fa8845e9d9e176db1436e7acb285":[7,0,0,0,1,3,2,1,1,0,6,6],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6ff197e3ec5d7f94d4226d9526641a26":[7,0,0,0,1,3,2,1,1,0,6,11]
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4b10c456b91a7ada46b3805c8d1064cf":[7,0,0,0,1,3,2,1,1,0,6,1]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX225 =
 {
+"d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,1,1,4,1],
+"d8/de5/boss__maiden__of__grief_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,9,1,1,5],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,1,3],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0ef3f59f8e1657636ee160eba01246b0":[7,0,0,0,1,3,5,9,1,1,3,6],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[7,0,0,0,1,3,5,9,1,1,3,7],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a51ed5feeba323856f831a4e8e128c5fe":[7,0,0,0,1,3,5,9,1,1,3,1],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5b97c5198240f4c93b386eb4f4ba0212":[7,0,0,0,1,3,5,9,1,1,3,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71":[7,0,0,0,1,3,5,9,1,1,3,4],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378":[7,0,0,0,1,3,5,9,1,1,3,5],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c":[7,0,0,0,1,3,5,9,1,1,3,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX225 =
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a56bfb0fd0d860678920445d1182c09ef":[6,0,270,5,1],
 "d8/df6/classspell__gen__clone__weapon.html":[6,0,2875],
 "d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[6,0,2875,1],
-"d8/df6/classspell__gen__clone__weapon.html#ab3f415ae783f2a778178cc3319b32773":[6,0,2875,0],
-"d8/df6/classspell__gen__clone__weapon.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a":[6,0,2875,2],
-"d8/df6/classspell__icc__soul__missile.html":[6,0,3079],
-"d8/df6/classspell__icc__soul__missile.html#a808d2283be9714c14f22a2df0a52dd61":[6,0,3079,1],
-"d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[6,0,3079,2],
-"d8/df6/classspell__icc__soul__missile.html#aac12da39c503615036120e3e0cd55622":[6,0,3079,0],
-"d8/df6/structnpc__spawn__of__marli.html":[6,0,2089],
-"d8/df6/structnpc__spawn__of__marli.html#a1b8afff5d90df02d16b81785026b2ff0":[6,0,2089,1]
+"d8/df6/classspell__gen__clone__weapon.html#ab3f415ae783f2a778178cc3319b32773":[6,0,2875,0]
 };
