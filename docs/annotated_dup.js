@@ -3435,6 +3435,7 @@ var annotated_dup =
     [ "spell_gen_throw_shield", "dc/dfd/classspell__gen__throw__shield.html", "dc/dfd/classspell__gen__throw__shield" ],
     [ "spell_gen_tournament_duel", "d3/d2c/classspell__gen__tournament__duel.html", "d3/d2c/classspell__gen__tournament__duel" ],
     [ "spell_gen_tournament_pennant", "d6/d9c/classspell__gen__tournament__pennant.html", "d6/d9c/classspell__gen__tournament__pennant" ],
+    [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", "d1/d43/classspell__gen__translocate" ],
     [ "spell_gen_turkey_marker", "d6/d0c/classspell__gen__turkey__marker.html", "d6/d0c/classspell__gen__turkey__marker" ],
     [ "spell_gen_upper_deck_create_foam_sword", "d3/d61/classspell__gen__upper__deck__create__foam__sword.html", "d3/d61/classspell__gen__upper__deck__create__foam__sword" ],
     [ "spell_gen_use_spell_base_level_check", "d0/d83/classspell__gen__use__spell__base__level__check.html", "d0/d83/classspell__gen__use__spell__base__level__check" ],

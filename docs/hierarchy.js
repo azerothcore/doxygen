@@ -847,6 +847,7 @@ var hierarchy =
         [ "spell_gen_throw_back", "d4/d31/classspell__gen__throw__back.html", null ],
         [ "spell_gen_throw_shield", "dc/dfd/classspell__gen__throw__shield.html", null ],
         [ "spell_gen_tournament_duel", "d3/d2c/classspell__gen__tournament__duel.html", null ],
+        [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", null ],
         [ "spell_gen_upper_deck_create_foam_sword", "d3/d61/classspell__gen__upper__deck__create__foam__sword.html", null ],
         [ "spell_gen_use_spell_base_level_check", "d0/d83/classspell__gen__use__spell__base__level__check.html", null ],
         [ "spell_gen_valthalak_amulet", "d7/d83/classspell__gen__valthalak__amulet.html", null ],

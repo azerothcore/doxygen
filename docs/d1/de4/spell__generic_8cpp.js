@@ -136,6 +136,7 @@ var spell__generic_8cpp =
     [ "spell_gen_set_health", "dd/dfd/classspell__gen__set__health.html", "dd/dfd/classspell__gen__set__health" ],
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling" ],
     [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
+    [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", "d1/d43/classspell__gen__translocate" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],
@@ -502,6 +503,10 @@ var spell__generic_8cpp =
       [ "QUEST_A_VALIANT_OF_UNDERCITY", "d1/de4/spell__generic_8cpp.html#a0d36545e46b8e4d1fbb74bd77f2ba601ab8d2b248810e881cf8df405c0fade7ee", null ],
       [ "QUEST_VALIANT_OF_SILVERMOON", "d1/de4/spell__generic_8cpp.html#a0d36545e46b8e4d1fbb74bd77f2ba601a7cbf996a4020775140afbd44a7c9aaa8", null ],
       [ "QUEST_A_VALIANT_OF_SILVERMOON", "d1/de4/spell__generic_8cpp.html#a0d36545e46b8e4d1fbb74bd77f2ba601a7e027173eecac13112653d2ad85eb7ca", null ]
+    ] ],
+    [ "TranslocateSpells", "d1/de4/spell__generic_8cpp.html#af23dc55719e8841fa8e33066176130b4", [
+      [ "SPELL_TRANSLOCATION_DOWN", "d1/de4/spell__generic_8cpp.html#af23dc55719e8841fa8e33066176130b4aaef24651ef5fef7e8db0aae1194268fb", null ],
+      [ "SPELL_TRANSLOCATION_UP", "d1/de4/spell__generic_8cpp.html#af23dc55719e8841fa8e33066176130b4ab14af7f64a5d038d207ad39a7d2fc7b0", null ]
     ] ],
     [ "TransporterBackfires", "d1/de4/spell__generic_8cpp.html#a2e35569a890d85938ce046a63ada28eb", [
       [ "SPELL_TRANSPORTER_MALFUNCTION_POLYMORPH", "d1/de4/spell__generic_8cpp.html#a2e35569a890d85938ce046a63ada28ebae3dbe038ce1db94abb07c9fba15e3bd9", null ],

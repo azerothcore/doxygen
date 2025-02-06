@@ -1,5 +1,15 @@
 var NAVTREEINDEX65 =
 {
+"d2/d70/classspell__flamewreath.html#ab4ef82283e4d651d2e5304e49970efa8":[6,0,2826,2],
+"d2/d70/classspell__flamewreath.html#af4963be6c544a1706a6dc30dcbf18309":[6,0,2826,4],
+"d2/d70/classspell__q12683__take__sputum__sample.html":[6,0,3595],
+"d2/d70/classspell__q12683__take__sputum__sample.html#a1ef5914adfd2c951a68f50658852e095":[6,0,3595,1],
+"d2/d70/classspell__q12683__take__sputum__sample.html#aee5967205738ebaef70e1105e8d91b2c":[6,0,3595,0],
+"d2/d70/classspell__q12683__take__sputum__sample.html#af42b6d5a5fbb5eb84773818594813afc":[6,0,3595,2],
+"d2/d70/structMovementInfo_1_1TransportInfo.html":[6,0,1498,1],
+"d2/d70/structMovementInfo_1_1TransportInfo.html#a426c651d2f359847b033a4d7f278a191":[6,0,1498,1,5],
+"d2/d70/structMovementInfo_1_1TransportInfo.html#a9c210ff536b49481f71bc6c3f60ee864":[6,0,1498,1,0],
+"d2/d70/structMovementInfo_1_1TransportInfo.html#ac115013e34f67bc1444fef4fc96c843e":[6,0,1498,1,1],
 "d2/d70/structMovementInfo_1_1TransportInfo.html#acec3991f0d19fd9f72e9837eef516057":[6,0,1498,1,4],
 "d2/d70/structMovementInfo_1_1TransportInfo.html#ad57bea2ae3beb6a086a116989b0d528f":[6,0,1498,1,3],
 "d2/d70/structMovementInfo_1_1TransportInfo.html#adff317cbf0c2d159d8ffddf52b4751b3":[6,0,1498,1,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a6e1a7f0d70156816cc3ff1b093aea147":[6,0,2484,270],
 "d2/d73/classScriptMgr.html#a6f512cd0e07f8fc5cc76b38b1e0db7a8":[6,0,2484,120],
 "d2/d73/classScriptMgr.html#a6f8baedea37356381942b97f448460bd":[6,0,2484,206],
-"d2/d73/classScriptMgr.html#a720e2e355482f9d9c94e4979716d2267":[6,0,2484,132],
-"d2/d73/classScriptMgr.html#a7218bf06683e818070cb5f0d4934d8fc":[6,0,2484,392],
-"d2/d73/classScriptMgr.html#a721c1d45eeb5a05c1157fc8b0b701e50":[6,0,2484,390],
-"d2/d73/classScriptMgr.html#a7290d44df312b258934afb6ed68de4a3":[6,0,2484,379],
-"d2/d73/classScriptMgr.html#a732eb79ad5235cfb2d93c730f26896b8":[6,0,2484,227],
-"d2/d73/classScriptMgr.html#a73775efa4eedea799af516d25aa33e01":[6,0,2484,171],
-"d2/d73/classScriptMgr.html#a74251ba5f43d56be913907e6a577b76f":[6,0,2484,450],
-"d2/d73/classScriptMgr.html#a74b5ce680a5e22b2f8d36d4057243c6d":[6,0,2484,363],
-"d2/d73/classScriptMgr.html#a75da87bbd59bc94e90f325b73b871253":[6,0,2484,295],
-"d2/d73/classScriptMgr.html#a75fb87c67db297199187a945466efb16":[6,0,2484,226],
-"d2/d73/classScriptMgr.html#a7627b594ed1d754015e68c41fa5049f7":[6,0,2484,215]
+"d2/d73/classScriptMgr.html#a720e2e355482f9d9c94e4979716d2267":[6,0,2484,132]
 };

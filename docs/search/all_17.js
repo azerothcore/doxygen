@@ -19,7 +19,7 @@ var searchData=
   ['waittimetank_16',['waitTimeTank',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#a73cdcd16181375a7d428e6b50cb1e1e6',1,'lfg::LfgQueueStatusData']]],
   ['walk_17',['Walk',['../de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62',1,'CreatureData.h']]],
   ['walkcaveinpos_18',['WalkCaveInPos',['../d4/d1e/halls__of__reflection_8h.html#adec5fd0d03700bf28da476841b22a325',1,'halls_of_reflection.h']]],
-  ['walkmode_19',['walkmode',['../db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5',1,'Movement::MoveSplineFlag::walkmode'],['../db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca364e60ed42b162880ed33baf297a4b97',1,'Movement::MoveSplineFlag::Walkmode']]],
+  ['walkmode_19',['walkmode',['../db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca364e60ed42b162880ed33baf297a4b97',1,'Movement::MoveSplineFlag::Walkmode'],['../db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5',1,'Movement::MoveSplineFlag::walkmode']]],
   ['wander_5fdistance_20',['wander_distance',['../dd/d52/structCreatureData.html#a05ac0d5358ba012c40155efee608772e',1,'CreatureData']]],
   ['warbladetear_21',['WarbladeTear',['../d9/d02/boss__illidan_8cpp.html#ab3ed40d8833244a4ba8a3ef14f3a4909',1,'boss_illidan.cpp']]],
   ['warchiefrendblackhand_22',['WarchiefRendBlackhand',['../d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a0558addc33c751c08aab41255fac10f1',1,'instance_blackrock_spire::instance_blackrock_spireMapScript']]],

@@ -1,5 +1,15 @@
 var NAVTREEINDEX59 =
 {
+"d2/d4b/classPlayer.html#a6787a03b3126a38525bc1884e28a4778":[6,0,2365,494],
+"d2/d4b/classPlayer.html#a67ac5859ee04767ae673f4bd92f615aa":[6,0,2365,870],
+"d2/d4b/classPlayer.html#a67b53af432006bf83e80cb6991b6e146":[6,0,2365,223],
+"d2/d4b/classPlayer.html#a67e814b16284e080c93c094ba0239613":[6,0,2365,136],
+"d2/d4b/classPlayer.html#a681d507744410840b99ecf2ee14dfc72":[6,0,2365,526],
+"d2/d4b/classPlayer.html#a681f061ce38477248df5d83db1f06f8d":[6,0,2365,79],
+"d2/d4b/classPlayer.html#a68405dded1b3a1188f0fc7839ac89aa7":[6,0,2365,880],
+"d2/d4b/classPlayer.html#a68814cc19b72f7432bc5470b0e6fea93":[6,0,2365,571],
+"d2/d4b/classPlayer.html#a68910cdec33bf9685215f8d39b3eee4a":[6,0,2365,536],
+"d2/d4b/classPlayer.html#a689cb341605f1e8103fa40531163b09b":[6,0,2365,1289],
 "d2/d4b/classPlayer.html#a692d13187869363b07cb33eb96c2d4a5":[6,0,2365,302],
 "d2/d4b/classPlayer.html#a693cb4d80c65b3d09a897c2c05293aca":[6,0,2365,447],
 "d2/d4b/classPlayer.html#a69baed96b8a48a98befcf272aac0ec5a":[6,0,2365,1194],
@@ -239,15 +249,5 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#a966607859ce9c9537038b9ca21b9e827":[6,0,2365,567],
 "d2/d4b/classPlayer.html#a966fc3946c56b7b3659bbe9ca10bb20d":[6,0,2365,524],
 "d2/d4b/classPlayer.html#a96a1839a4be96aedcaca590d2d2a4b5f":[6,0,2365,433],
-"d2/d4b/classPlayer.html#a96c55310c8b792ee5f6f166070a65df7":[6,0,2365,321],
-"d2/d4b/classPlayer.html#a970ca5d91c30b386754cab01b988b364":[6,0,2365,999],
-"d2/d4b/classPlayer.html#a973fadb87c8c67cf40af237c54f724e1":[6,0,2365,1091],
-"d2/d4b/classPlayer.html#a97490fe6d84d817466a40f50adf9f011":[6,0,2365,889],
-"d2/d4b/classPlayer.html#a976a527cd400b730a19ce1b69f61d178":[6,0,2365,974],
-"d2/d4b/classPlayer.html#a97b9fd78235fc954d573f94134b3616c":[6,0,2365,854],
-"d2/d4b/classPlayer.html#a97f139b9451ce823fc7a6e4cf23648f9":[6,0,2365,1109],
-"d2/d4b/classPlayer.html#a981ca241668a35c4d44f885769f59f7a":[6,0,2365,770],
-"d2/d4b/classPlayer.html#a9866cfe24c371353d49f86972cfd8c1b":[6,0,2365,476],
-"d2/d4b/classPlayer.html#a987275ba05384dac5dcfb929dbbcc0f4":[6,0,2365,144],
-"d2/d4b/classPlayer.html#a989a0636ec71ce23efa1627584dcf0a6":[6,0,2365,383]
+"d2/d4b/classPlayer.html#a96c55310c8b792ee5f6f166070a65df7":[6,0,2365,321]
 };

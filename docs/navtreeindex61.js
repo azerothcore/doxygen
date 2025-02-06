@@ -1,5 +1,15 @@
 var NAVTREEINDEX61 =
 {
+"d2/d4b/classPlayer.html#ac7c7214f2adea5f8ee75f4122aae4be2":[6,0,2365,89],
+"d2/d4b/classPlayer.html#ac7d019457d97bc18e070a5e445012304":[6,0,2365,389],
+"d2/d4b/classPlayer.html#ac7d583e914a735322c3d47a57a0c1645":[6,0,2365,436],
+"d2/d4b/classPlayer.html#ac8113b5a5bfe162d3ebf05aabc3a00ad":[6,0,2365,718],
+"d2/d4b/classPlayer.html#ac84736fec697d49391a3325b99e3e039":[6,0,2365,617],
+"d2/d4b/classPlayer.html#ac8736ef8f8d17239d5fd4f1c65f08c0e":[6,0,2365,897],
+"d2/d4b/classPlayer.html#ac8b3b9caa0bb91f17474ab80f8cedf5b":[6,0,2365,42],
+"d2/d4b/classPlayer.html#ac8e55e9ca3aec15337a7a952aa8efac8":[6,0,2365,481],
+"d2/d4b/classPlayer.html#ac942316fdf313fde068a6a6aec580ae0":[6,0,2365,666],
+"d2/d4b/classPlayer.html#ac960994f0346b8ca89cc61aa6b74cf53":[6,0,2365,1255],
 "d2/d4b/classPlayer.html#ac96b50df0f89e67a7063982ae1cfe262":[6,0,2365,381],
 "d2/d4b/classPlayer.html#ac97476b82b7626d35584bb4c86e659f0":[6,0,2365,112],
 "d2/d4b/classPlayer.html#ac996a41fc3f89d8683de8695bb7db13c":[6,0,2365,1012],
@@ -239,15 +249,5 @@ var NAVTREEINDEX61 =
 "d2/d4b/classPlayer.html#af704c773704245154ff8aa60cac9651e":[6,0,2365,550],
 "d2/d4b/classPlayer.html#af7e3ec77fe429cf8eefb9f78657d9906":[6,0,2365,442],
 "d2/d4b/classPlayer.html#af7fe3cf7f229a27f44774dfeff912b46":[6,0,2365,244],
-"d2/d4b/classPlayer.html#af82c81c4e98aa7468ce5c98ad6df59cd":[6,0,2365,682],
-"d2/d4b/classPlayer.html#af844c9dfab333ce6bb51a81ce88647b0":[6,0,2365,734],
-"d2/d4b/classPlayer.html#af85e4f061186ef03c3561aaf1a99a72d":[6,0,2365,489],
-"d2/d4b/classPlayer.html#af89508664d7341a8a9652ae4fa91299b":[6,0,2365,1302],
-"d2/d4b/classPlayer.html#af8a6f2187bcab2a49b751acbce24dbe8":[6,0,2365,153],
-"d2/d4b/classPlayer.html#af92906e643e5e1895fd2fb4205977568":[6,0,2365,1102],
-"d2/d4b/classPlayer.html#af9651858db4302e3dff8ec5bff131f72":[6,0,2365,1320],
-"d2/d4b/classPlayer.html#afaaa25ac681e5fd98e4734351e9331ad":[6,0,2365,29],
-"d2/d4b/classPlayer.html#afaaa353c834c690569d10395ccba76ee":[6,0,2365,930],
-"d2/d4b/classPlayer.html#afae54f93b4ceeede8978b156fc74e5dd":[6,0,2365,6],
-"d2/d4b/classPlayer.html#afb07200491762094c1a50b09795d9496":[6,0,2365,831]
+"d2/d4b/classPlayer.html#af82c81c4e98aa7468ce5c98ad6df59cd":[6,0,2365,682]
 };

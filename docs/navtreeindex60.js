@@ -1,5 +1,15 @@
 var NAVTREEINDEX60 =
 {
+"d2/d4b/classPlayer.html#a970ca5d91c30b386754cab01b988b364":[6,0,2365,999],
+"d2/d4b/classPlayer.html#a973fadb87c8c67cf40af237c54f724e1":[6,0,2365,1091],
+"d2/d4b/classPlayer.html#a97490fe6d84d817466a40f50adf9f011":[6,0,2365,889],
+"d2/d4b/classPlayer.html#a976a527cd400b730a19ce1b69f61d178":[6,0,2365,974],
+"d2/d4b/classPlayer.html#a97b9fd78235fc954d573f94134b3616c":[6,0,2365,854],
+"d2/d4b/classPlayer.html#a97f139b9451ce823fc7a6e4cf23648f9":[6,0,2365,1109],
+"d2/d4b/classPlayer.html#a981ca241668a35c4d44f885769f59f7a":[6,0,2365,770],
+"d2/d4b/classPlayer.html#a9866cfe24c371353d49f86972cfd8c1b":[6,0,2365,476],
+"d2/d4b/classPlayer.html#a987275ba05384dac5dcfb929dbbcc0f4":[6,0,2365,144],
+"d2/d4b/classPlayer.html#a989a0636ec71ce23efa1627584dcf0a6":[6,0,2365,383],
 "d2/d4b/classPlayer.html#a9933bf04d9f7236d3d6179108e92fda7":[6,0,2365,1084],
 "d2/d4b/classPlayer.html#a9940e82568c515c239c821d6fffdfb9b":[6,0,2365,551],
 "d2/d4b/classPlayer.html#a9966f1ea2cb3a16e36aa80a8b5fbb5c2":[6,0,2365,578],
@@ -239,15 +249,5 @@ var NAVTREEINDEX60 =
 "d2/d4b/classPlayer.html#ac72e4b3b4de7ed6afe8bd3e88b671930":[6,0,2365,923],
 "d2/d4b/classPlayer.html#ac743f23c0a2a733634fbd6d68e361e22":[6,0,2365,793],
 "d2/d4b/classPlayer.html#ac7492fb571501eddda995ff043fa46b7":[6,0,2365,648],
-"d2/d4b/classPlayer.html#ac75fc6e53f43ac72e08d4bfe8c104c30":[6,0,2365,115],
-"d2/d4b/classPlayer.html#ac7c7214f2adea5f8ee75f4122aae4be2":[6,0,2365,89],
-"d2/d4b/classPlayer.html#ac7d019457d97bc18e070a5e445012304":[6,0,2365,389],
-"d2/d4b/classPlayer.html#ac7d583e914a735322c3d47a57a0c1645":[6,0,2365,436],
-"d2/d4b/classPlayer.html#ac8113b5a5bfe162d3ebf05aabc3a00ad":[6,0,2365,718],
-"d2/d4b/classPlayer.html#ac84736fec697d49391a3325b99e3e039":[6,0,2365,617],
-"d2/d4b/classPlayer.html#ac8736ef8f8d17239d5fd4f1c65f08c0e":[6,0,2365,897],
-"d2/d4b/classPlayer.html#ac8b3b9caa0bb91f17474ab80f8cedf5b":[6,0,2365,42],
-"d2/d4b/classPlayer.html#ac8e55e9ca3aec15337a7a952aa8efac8":[6,0,2365,481],
-"d2/d4b/classPlayer.html#ac942316fdf313fde068a6a6aec580ae0":[6,0,2365,666],
-"d2/d4b/classPlayer.html#ac960994f0346b8ca89cc61aa6b74cf53":[6,0,2365,1255]
+"d2/d4b/classPlayer.html#ac75fc6e53f43ac72e08d4bfe8c104c30":[6,0,2365,115]
 };
