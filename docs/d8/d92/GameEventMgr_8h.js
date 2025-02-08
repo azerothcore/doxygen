@@ -17,6 +17,6 @@ var GameEventMgr_8h =
       [ "GAMEEVENT_WORLD_FINISHED", "d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
       [ "GAMEEVENT_INTERNAL", "d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
     ] ],
-    [ "IsEventActive", "d8/d92/GameEventMgr_8h.html#aaddb0f1fada20faf4702603241206f91", null ],
+    [ "IsEventActive", "d8/d92/GameEventMgr_8h.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
     [ "IsHolidayActive", "d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

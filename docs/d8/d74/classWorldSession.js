@@ -477,7 +477,7 @@ var classWorldSession =
     [ "SendAccountDataTimes", "d8/d74/classWorldSession.html#ad146e22917545a0ef3264bc70e7534e1", null ],
     [ "SendActivateTaxiReply", "d8/d74/classWorldSession.html#a8e1e99d6f4670854f7153fb566310045", null ],
     [ "SendAddonsInfo", "d8/d74/classWorldSession.html#a84c0f0ec3e203124fa1c92f0c93999c0", null ],
-    [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a53e93da8c510fd4603bfe255ff6bb8ba", null ],
+    [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a45cafabe37b4d230ec861de42588af05", null ],
     [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a353a7ba0eff62fdad9e13ee67af143a3", null ],
     [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a6578d3d0d7077a6d211016a93241e061", null ],
     [ "SendArenaTeamCommandResult", "d8/d74/classWorldSession.html#ad1fe9d70cc66e8a257ad84f0d2f7634c", null ],
