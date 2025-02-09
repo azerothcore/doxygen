@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a1062c7a6d406daee37f5167ad66ccb7a":[7,0,0,0,1,3,5,1,0,0,17,8],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a37191cdc843aa3fe0d584b06596a4d97":[7,0,0,0,1,3,5,1,0,0,17,19],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a3979f1af96a127667325c6bf26b9ef91":[7,0,0,0,1,3,5,1,0,0,17,9],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a39b1481f7ab3e86f658ff3c8dc0963da":[7,0,0,0,1,3,5,1,0,0,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,663,0,8],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa":[6,0,663,0,11],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,663,0,3],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,663,0,5],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaf47878572d23bfb22f2ae77fed8d95e":[6,0,663,0,9]
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,663,0,5]
 };

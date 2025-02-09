@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"functions_vars_n.html":[6,3,2,14],
 "functions_vars_o.html":[6,3,2,15],
 "functions_vars_p.html":[6,3,2,16],
 "functions_vars_q.html":[6,3,2,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "namespacemembers_t.html":[5,1,0,16],
 "namespacemembers_type.html":[5,1,3],
 "namespacemembers_u.html":[5,1,0,17],
-"namespacemembers_v.html":[5,1,0,18],
-"namespacemembers_vars.html":[5,1,2]
+"namespacemembers_v.html":[5,1,0,18]
 };

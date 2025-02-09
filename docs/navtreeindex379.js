@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[7,0,0,0,1,1,0,16,5],
 "df/d5b/classinstance__stratholme.html":[6,0,1313],
 "df/d5b/classinstance__stratholme.html#a3d3d2e773029dd1c4bc1a59a94c4e015":[6,0,1313,2],
 "df/d5b/classinstance__stratholme.html#a42ac504b2790af8c37a44e87fbd9c6c1":[6,0,1313,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a03de1f1acaf34bf5b5cbcc0b962a7b70":[7,0,0,0,1,3,5,1,0,0,17,12],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a04f34f9a84f65db54c87b37f31b196cc":[7,0,0,0,1,3,5,1,0,0,17,31],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[7,0,0,0,1,3,5,1,0,0,17,1],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a1062c7a6d406daee37f5167ad66ccb7a":[7,0,0,0,1,3,5,1,0,0,17,8]
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25]
 };

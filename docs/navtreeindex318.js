@@ -1,9 +1,10 @@
 var NAVTREEINDEX318 =
 {
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[6,0,0,1,4,12],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#aea33fb49551ebc0f687f3d24dc3dfbea":[5,0,1,2,4,4],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[5,0,1,2,4,12],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[6,0,0,1,4,3],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[6,0,0,1,4,12],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[5,0,1,2,4,3],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[6,0,0,1,4,3],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html":[7,0,0,0,1,3,2,8,1],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,8,1,3],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2d7918e6244e568a604193e00b867466":[7,0,0,0,1,3,2,8,1,3,2],
@@ -103,8 +104,8 @@ var NAVTREEINDEX318 =
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,11],
 "dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,11,6],
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,11,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d3b/structGameObjectTemplate.html#a8e277e69a5f072b5ca8a111de3d8b798":[6,0,1071,85],
 "dd/d3b/structGameObjectTemplate.html#a8e80173abf9d3c72849bd1e2d6deb8fc":[6,0,1071,86],
 "dd/d3b/structGameObjectTemplate.html#a8edc2962c444e4236fda0764bcb0b29e":[6,0,1071,45],
-"dd/d3b/structGameObjectTemplate.html#a8f946804e61f725b51db910962887876":[6,0,1071,157],
-"dd/d3b/structGameObjectTemplate.html#a912d251efbe00674ea9497f3b5e7f537":[6,0,1071,121]
+"dd/d3b/structGameObjectTemplate.html#a8f946804e61f725b51db910962887876":[6,0,1071,157]
 };

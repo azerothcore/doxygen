@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/de3/classMapInstanced.html#ad83d8860fcc67f41208f73f7938eb513":[6,0,1457,5],
 "df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[6,0,1457,14],
 "df/de3/classMapInstanced.html#af30e91e40c171ddbf7400f310283c43c":[6,0,1457,1],
 "df/de3/classMapInstanced.html#aff2cc0a1f57f06ead9a3e999c1c7dba0":[6,0,1457,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298cad8bcb7e924f475934fc4441091955969":[7,0,0,0,1,3,5,6,1,19,17],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298cae34b0736e19b56bc06f089646423ff18":[7,0,0,0,1,3,5,6,1,19,15],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298cae43d84eb86b706d760388e9ff4aba881":[7,0,0,0,1,3,5,6,1,19,20],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298cae500ec3d3b5764e0c30168c8a455b5eb":[7,0,0,0,1,3,5,6,1,19,14],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298caefd62991720ce392f16d1812fe41d1c8":[7,0,0,0,1,3,5,6,1,19,11]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298cae500ec3d3b5764e0c30168c8a455b5eb":[7,0,0,0,1,3,5,6,1,19,14]
 };

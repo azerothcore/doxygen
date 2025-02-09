@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a3217617eb3312c1da34dc7dce590fe0d":[6,0,2190,0,1],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a556453c557df0be6a57255e400d98a87":[6,0,2190,0,9],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a66ea56e856fcc706e4f938512def1590":[6,0,2190,0,2],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2190,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "de/d2d/namespaceObjectAccessor.html#a9179a3b50b384405892a8e8e538617b4":[5,0,23,14],
 "de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee":[5,0,23,3],
 "de/d2d/namespaceObjectAccessor.html#abe7c8995443541417f52b00973dbde6f":[5,0,23,8],
-"de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22],
-"de/d2d/namespaceObjectAccessor.html#ade254f98439319c444ce701c75d4f93a":[5,0,23,20]
+"de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22]
 };

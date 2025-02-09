@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d48/structnpc__direbrew__antagonist.html#aaf54b03d66d726901c289ff28d362787":[6,0,1712,2],
 "dd/d49/boss__drakkisath_8cpp.html":[7,0,0,0,1,3,2,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#a2ddf7b694fd5c4a7e10c90401faee403":[7,0,0,0,1,3,2,1,1,1,4],
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[6,0,1454,0],
 "dd/d59/structMapDifficulty.html#af82ad844bc4ac9585cb9df1963697e1b":[6,0,1454,3],
 "dd/d5a/LFGGroupData_8cpp.html":[7,0,0,0,1,2,15,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html":[6,0,9,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html":[5,0,27,2]
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html":[6,0,9,2]
 };

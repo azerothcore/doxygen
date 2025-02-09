@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/da7/classBattleground.html#a7aa3e9f8429f44f24cc413dc57469e33":[6,0,296,91],
 "df/da7/classBattleground.html#a7b203e7f42f2235b993ea3a1f0b24cd7":[6,0,296,100],
 "df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,296,244],
 "df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,296,215],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[6,0,3465,6],
 "df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[6,0,3465,2],
 "df/db1/structGraveyardData.html":[6,0,1196],
-"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1196,2],
-"df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1196,1]
+"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1196,2]
 };

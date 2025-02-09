@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1196,1],
 "df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[6,0,1196,0],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,494,0],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b":[6,0,494,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[6,0,2568,0],
 "df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[6,0,2568,2],
 "df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[6,0,2568,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2697],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[6,0,2697,1]
+"df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2697]
 };

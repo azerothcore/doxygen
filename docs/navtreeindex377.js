@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"df/d3d/classBfCapturePoint.html#a9d43160e2a96cdae295596756f770f74":[6,0,328,19],
 "df/d3d/classBfCapturePoint.html#aa96d823e5093e1baff06666c35c49932":[6,0,328,23],
 "df/d3d/classBfCapturePoint.html#ab961bfe8934f89e6e454b8a74a280e3e":[6,0,328,12],
 "df/d3d/classBfCapturePoint.html#acd3c8e8fe970c160670bd5a7cdb9b1c4":[6,0,328,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[6,0,2083,0,6],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[6,0,2083,0,5],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[6,0,2083,0,0],
-"df/d4e/structBfWGCoordGY.html":[6,0,331],
-"df/d4e/structBfWGCoordGY.html#a405e8098772e77250683985f957ce5f3":[6,0,331,6]
+"df/d4e/structBfWGCoordGY.html":[6,0,331]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"df/d2d/structGossipMenus.html":[6,0,1192],
 "df/d2d/structGossipMenus.html#a6ec8df5fcc5126bdee656ca08c0a5edc":[6,0,1192,2],
 "df/d2d/structGossipMenus.html#a732aa82f621c312745ddbd6fe2e3e906":[6,0,1192,1],
 "df/d2d/structGossipMenus.html#a93edc2f0d71164b683c844b713befa85":[6,0,1192,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "df/d3d/classBfCapturePoint.html#a7b3e3cb728347cd9783eea394245fcc0":[6,0,328,27],
 "df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[6,0,328,11],
 "df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546":[6,0,328,13],
-"df/d3d/classBfCapturePoint.html#a89bf5ddb47f47bb1129ec2256221dcb8":[6,0,328,21],
-"df/d3d/classBfCapturePoint.html#a9d43160e2a96cdae295596756f770f74":[6,0,328,19]
+"df/d3d/classBfCapturePoint.html#a89bf5ddb47f47bb1129ec2256221dcb8":[6,0,328,21]
 };

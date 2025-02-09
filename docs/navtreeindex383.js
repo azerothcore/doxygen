@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a":[6,0,4016,28],
 "df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f":[6,0,4016,55],
 "df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[6,0,4016,27],
 "df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[6,0,4016,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc":[7,0,0,0,1,3,6,8,10,11],
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe":[7,0,0,0,1,3,6,8,10,26],
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76":[7,0,0,0,1,3,6,8,10,1],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61":[7,0,0,0,1,3,6,8,10,8],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99":[7,0,0,0,1,3,6,8,10,4]
+"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61":[7,0,0,0,1,3,6,8,10,8]
 };

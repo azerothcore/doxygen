@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa0f574ead1b5da7f8d485a596684d95e":[6,0,1328,0,13],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa1c6dc80069ac1c31ce24f1d99485f45":[6,0,1328,0,7],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa55142f2dd41d204c5a60aaa45075911":[6,0,1328,0,24],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aaa2ae64e837747496b569a9d8a1aa0f4":[6,0,1328,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca248eca01cf3e30b7ab8e432a43367ece":[7,0,0,0,1,3,7,0,0,1,3,3],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca258574c4fada51659dd69eac0086d02d":[7,0,0,0,1,3,7,0,0,1,3,12],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,7,0,0,1,3,11],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,0,0,1,3,6],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca96202845ce0a0e2a5099d834b3cc8cc4":[7,0,0,0,1,3,7,0,0,1,3,10]
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,0,0,1,3,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/dfb/classspell__gruul__ground__slam.html#afb61d7dcc8ad52da4dcad3d7593f08ad":[6,0,2989,2],
 "dc/dfc/classByteBufferPositionException.html":[6,0,812],
 "dc/dfc/classByteBufferPositionException.html#a6c2e31012a8ccf20d52c6431e024a576":[6,0,812,0],
 "dc/dfc/classByteBufferPositionException.html#aba8b7764a5517fa3e4a26d7ced1ad38f":[6,0,812,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dd/d0b/classPetScript.html#ab4e5e0b19285573753ef6e9b7e8fd535":[6,0,2361,1],
 "dd/d0b/classPetScript.html#acccf0b5fa2e346c800925142ed52c917":[6,0,2361,0],
 "dd/d0b/classPetScript.html#af150efd719bbb619df792ebc6705bb0a":[6,0,2361,2],
-"dd/d0b/classspell__q11730__ultrasonic__screwdriver.html":[6,0,3568],
-"dd/d0b/classspell__q11730__ultrasonic__screwdriver.html#a5b336f402a256c80d8d3f8c5b1cbda2f":[6,0,3568,1]
+"dd/d0b/classspell__q11730__ultrasonic__screwdriver.html":[6,0,3568]
 };

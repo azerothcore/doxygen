@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa38f8cee8bb2a4781b943effa2dc6da4":[7,0,0,0,1,1,0,0,1,1,70],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa3faf0022028536a77494b592b73e0a6":[7,0,0,0,1,1,0,0,1,1,460],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa41643a44d2ba4d560e43b1450d041e2":[7,0,0,0,1,1,0,0,1,1,212],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa4b8681b6982f6bed6b8c974c33dc696":[7,0,0,0,1,1,0,0,1,1,46],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[7,0,0,0,1,3,2,4,7,8,2],
 "de/da6/boss__prince__malchezaar_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,4,7,6],
 "de/da6/boss__prince__malchezaar_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,2,4,7,6,0],
-"de/da6/boss__prince__malchezaar_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ab240c367c5e45c91ba387ac010e238bf":[7,0,0,0,1,3,2,4,7,6,2],
-"de/da6/boss__prince__malchezaar_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,4,7,6,1]
+"de/da6/boss__prince__malchezaar_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ab240c367c5e45c91ba387ac010e238bf":[7,0,0,0,1,3,2,4,7,6,2]
 };

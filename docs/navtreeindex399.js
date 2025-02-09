@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"namespacemembers_vars.html":[5,1,2],
 "namespacemembers_w.html":[5,1,0,19],
 "namespacemembers_x.html":[5,1,0,20],
 "namespaces.html":[5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "":[7,0,0,0,1,2,31,1,9],
 "":[7,0,0,0,1,2,31,1,10],
 "":[7,0,0,0,1,2,31,1,11],
-"":[7,0,0,0,1,2,31,1,12],
-"":[7,0,0,0,1,2,26,14]
+"":[7,0,0,0,1,2,31,1,12]
 };

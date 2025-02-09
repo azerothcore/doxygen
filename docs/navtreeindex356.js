@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d5e/classnpc__gilthares.html#af1e0746350b32b68825710e1c3ed91a5":[6,0,1780,1],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[6,0,1782,0],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[6,0,1782,0,6],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a35be0135b77a3e62ac8d421910cf0674":[6,0,1782,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,273,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#aa8e111f748d165f854b2deff5a81577f":[6,0,273,0],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#ad05c428ccd8fbdce40dc4f337de19fb8":[6,0,273,5],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#adb807963195c0abbb840aca64499f630":[6,0,273,3],
-"de/d6e/structBG__AV__NodeInfo.html":[6,0,333]
+"de/d6e/structAUTH__LOGON__PROOF__S.html#adb807963195c0abbb840aca64499f630":[6,0,273,3]
 };

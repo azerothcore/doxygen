@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"df/d4e/structBfWGCoordGY.html#a405e8098772e77250683985f957ce5f3":[6,0,331,6],
 "df/d4e/structBfWGCoordGY.html#a742fcc91d2daf1a9331f02a90496328c":[6,0,331,0],
 "df/d4e/structBfWGCoordGY.html#a844e4c9c9b1a9a22a817025ccda7f08d":[6,0,331,7],
 "df/d4e/structBfWGCoordGY.html#a87d80377ad632b9d667eecf11ae8faae":[6,0,331,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,2928,3],
 "df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[6,0,2928,2],
 "df/d59/structWeatherData.html":[4,2,8],
-"df/d5a/MySQLHacks_8h.html":[7,0,0,0,1,1,0,16],
-"df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[7,0,0,0,1,1,0,16,5]
+"df/d5a/MySQLHacks_8h.html":[7,0,0,0,1,1,0,16]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d6d/classspell__dk__dancing__rune__weapon.html":[6,0,2710],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a21000167be45c4a5503813e5a508b8fd":[6,0,2710,1],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a6b62e970a78ae8187989f566e6d47317":[6,0,2710,0],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a7f8fea0f52ed4c98120195f205d6c0d7":[6,0,2710,2],
@@ -37,8 +38,8 @@ var NAVTREEINDEX303 =
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,15,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,15,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,15,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
 "dc/d70/boss__grobbulus_8cpp.html":[7,0,0,0,1,3,5,7,5],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,5,6],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d7d/classZoneScript.html#ab32f7102df50af48e43f544bd107f964":[6,0,4227,13],
 "dc/d7d/classZoneScript.html#ab7aecf55fb84288840465dd69eacc8eb":[6,0,4227,4],
 "dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4":[6,0,4227,16],
-"dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4227,9],
-"dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4227,7]
+"dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4227,9]
 };

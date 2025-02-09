@@ -1,5 +1,6 @@
 var NAVTREEINDEX359 =
 {
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca96202845ce0a0e2a5099d834b3cc8cc4":[7,0,0,0,1,3,7,0,0,1,3,10],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298caa0cfe2b0e6e353cf8f8e4fc864ba9a0a":[7,0,0,0,1,3,7,0,0,1,3,1],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298caa664d912f53e50768282c551e086cc01":[7,0,0,0,1,3,7,0,0,1,3,9],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,7,0,0,1,3,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX359 =
 "de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
 "de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,2,1,8],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0b18f04fb48020d6be26e18957637ec0":[7,0,0,0,1,3,5,4,2,1,8,6],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a29443597a97bf51f047ffc37ae2740ce":[7,0,0,0,1,3,5,4,2,1,8,1]
+"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0b18f04fb48020d6be26e18957637ec0":[7,0,0,0,1,3,5,4,2,1,8,6]
 };

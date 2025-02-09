@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10":[7,0,0,0,1,3,5,23,27,2],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef":[7,0,0,0,1,3,5,23,27,5],
 "dd/db3/classReputationMgr.html":[6,0,2458],
 "dd/db3/classReputationMgr.html#a0c7e77faf6bfabc7449ae097a8540d38":[6,0,2458,10],
@@ -130,8 +131,8 @@ var NAVTREEINDEX328 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,610,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,610,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,610,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/dc6/steam__vault_8h.html#a503807dfd03f05e95a9435b32165c0af":[7,0,0,0,1,3,7,2,2,4,1],
 "dd/dc6/steam__vault_8h.html#a5b5ca0ae07e92e9cad54568049f06fce":[7,0,0,0,1,3,7,2,2,4,0],
 "dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1c":[7,0,0,0,1,3,7,2,2,4,5],
-"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1ca4f8a620894011d53e53d042e6176123b":[7,0,0,0,1,3,7,2,2,4,5,4],
-"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1ca7819c607ecb4a70f4dec21fd5b8b2ea1":[7,0,0,0,1,3,7,2,2,4,5,3]
+"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1ca4f8a620894011d53e53d042e6176123b":[7,0,0,0,1,3,7,2,2,4,5,4]
 };

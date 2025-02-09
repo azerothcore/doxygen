@@ -248,6 +248,6 @@ var NAVTREEINDEX33 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2007,0,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,30,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,10,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,30,10,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1]
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,30,10,1,1]
 };
