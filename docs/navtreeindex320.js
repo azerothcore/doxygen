@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"dd/d48/structnpc__direbrew__antagonist.html#a30fed4e6888d98af576dea8e13c510d3":[6,0,1712,0],
+"dd/d48/structnpc__direbrew__antagonist.html#a924891e5d4e3f30d78186bedf76cf7d1":[6,0,1712,1],
 "dd/d48/structnpc__direbrew__antagonist.html#aaf54b03d66d726901c289ff28d362787":[6,0,1712,2],
 "dd/d49/boss__drakkisath_8cpp.html":[7,0,0,0,1,3,2,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#a2ddf7b694fd5c4a7e10c90401faee403":[7,0,0,0,1,3,2,1,1,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d59/structMapDifficulty.html#a7190131620b9eee0897ac7b4dd62949e":[6,0,1454,4],
 "dd/d59/structMapDifficulty.html#a8dd5436eaec4d0e67f8b41c8dd071148":[6,0,1454,2],
 "dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[6,0,1454,0],
-"dd/d59/structMapDifficulty.html#af82ad844bc4ac9585cb9df1963697e1b":[6,0,1454,3],
-"dd/d5a/LFGGroupData_8cpp.html":[7,0,0,0,1,2,15,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html":[6,0,9,2]
+"dd/d59/structMapDifficulty.html#af82ad844bc4ac9585cb9df1963697e1b":[6,0,1454,3]
 };

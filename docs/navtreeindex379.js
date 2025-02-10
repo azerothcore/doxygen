@@ -1,5 +1,8 @@
 var NAVTREEINDEX379 =
 {
+"df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[6,0,2928,2],
+"df/d59/structWeatherData.html":[4,2,8],
+"df/d5a/MySQLHacks_8h.html":[7,0,0,0,1,1,0,16],
 "df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[7,0,0,0,1,1,0,16,5],
 "df/d5b/classinstance__stratholme.html":[6,0,1313],
 "df/d5b/classinstance__stratholme.html#a3d3d2e773029dd1c4bc1a59a94c4e015":[6,0,1313,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX379 =
 "df/d70/classspell__illidari__council__reflective__shield__aura.html#ae6879f1d8c27f19cf3e3ada0b34d568f":[6,0,3132,0],
 "df/d71/boss__sartharion_8cpp.html":[7,0,0,0,1,3,5,1,0,0],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,1,0,0,17],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a03de1f1acaf34bf5b5cbcc0b962a7b70":[7,0,0,0,1,3,5,1,0,0,17,12],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a04f34f9a84f65db54c87b37f31b196cc":[7,0,0,0,1,3,5,1,0,0,17,31],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[7,0,0,0,1,3,5,1,0,0,17,1],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25]
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a03de1f1acaf34bf5b5cbcc0b962a7b70":[7,0,0,0,1,3,5,1,0,0,17,12]
 };

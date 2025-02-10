@@ -70,5 +70,8 @@ var sunwell__plateau_8h =
       [ "GO_ORB_OF_THE_BLUE_DRAGONFLIGHT3", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa10c801f471604c9ec0894f110daecfd4", null ],
       [ "GO_ORB_OF_THE_BLUE_DRAGONFLIGHT4", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa0721c9d648ab814e29d33ac01a59a9de", null ]
     ] ],
+    [ "SpellIds", "dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e", [
+      [ "SPELL_SUMMON_FELBLAZE", "dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928", null ]
+    ] ],
     [ "GetSunwellPlateauAI", "dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf", null ]
 ];

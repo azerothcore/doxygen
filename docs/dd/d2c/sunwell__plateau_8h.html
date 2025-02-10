@@ -257,6 +257,9 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a57d2d4154291532e405ab880a40a999f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cd0f1a61f215e1bdcde5cbbd34da57e" id="r_a2cd0f1a61f215e1bdcde5cbbd34da57e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e">SpellIds</a> { <a class="el" href="../../dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928">SPELL_SUMMON_FELBLAZE</a> = 45069
+ }</td></tr>
+<tr class="separator:a2cd0f1a61f215e1bdcde5cbbd34da57e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -578,6 +581,27 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a2cd0f1a61f215e1bdcde5cbbd34da57e" name="a2cd0f1a61f215e1bdcde5cbbd34da57e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cd0f1a61f215e1bdcde5cbbd34da57e">&#9670;&#160;</a></span>SpellIds</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e">SpellIds</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928" name="a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928"></a>SPELL_SUMMON_FELBLAZE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928">SPELL_SUMMON_FELBLAZE</a>                    = 45069 <span class="comment">// Felblaze? Summons Felmyst</span></div>
+<div class="line"><span class="lineno">  112</span>};</div>
+<div class="ttc" id="asunwell__plateau_8h_html_a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928"><div class="ttname"><a href="../../dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928">SPELL_SUMMON_FELBLAZE</a></div><div class="ttdeci">@ SPELL_SUMMON_FELBLAZE</div><div class="ttdef"><b>Definition</b> sunwell_plateau.h:111</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a0198140f94836b058b6c839d2880dbbf" name="a0198140f94836b058b6c839d2880dbbf"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0198140f94836b058b6c839d2880dbbf">&#9670;&#160;</a></span>GetSunwellPlateauAI()</h2>
@@ -604,9 +628,9 @@ template&lt;class AI , class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7">SWPScriptName</a>);</div>
-<div class="line"><span class="lineno">  113</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7">SWPScriptName</a>);</div>
+<div class="line"><span class="lineno">  118</span>}</div>
 <div class="ttc" id="asunwell__plateau_8h_html_a103ca16a488216d0f7e12edd6d99e1b7"><div class="ttname"><a href="../../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7">SWPScriptName</a></div><div class="ttdeci">#define SWPScriptName</div><div class="ttdef"><b>Definition</b> sunwell_plateau.h:25</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00025">SWPScriptName</a>.</p>
@@ -619,7 +643,7 @@ template&lt;class AI , class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_ae768b8f8ff3a94207cd3cc19c295cc8.html">SunwellPlateau</a></li><li class="navelem"><a class="el" href="../../dd/d2c/sunwell__plateau_8h.html">sunwell_plateau.h</a></li>
-    <li class="footer">Generated on Sun Feb 9 2025 06:18:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 10 2025 06:20:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

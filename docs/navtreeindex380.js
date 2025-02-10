@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a04f34f9a84f65db54c87b37f31b196cc":[7,0,0,0,1,3,5,1,0,0,17,31],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[7,0,0,0,1,3,5,1,0,0,17,1],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a1062c7a6d406daee37f5167ad66ccb7a":[7,0,0,0,1,3,5,1,0,0,17,8],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a37191cdc843aa3fe0d584b06596a4d97":[7,0,0,0,1,3,5,1,0,0,17,19],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a3979f1af96a127667325c6bf26b9ef91":[7,0,0,0,1,3,5,1,0,0,17,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a28e859c796fc210cba9a1ac7bfd0124a":[6,0,663,0,10],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a8b166241350c7437c0baab2bc783dc93":[6,0,663,0,1],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a9356f21962b312eccfba1b3e75afaba0":[6,0,663,0,6],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,663,0,8],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa":[6,0,663,0,11],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,663,0,3],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,663,0,5]
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,663,0,8]
 };

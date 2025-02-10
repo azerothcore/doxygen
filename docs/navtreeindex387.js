@@ -1,5 +1,8 @@
 var NAVTREEINDEX387 =
 {
+"df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[6,0,3465,2],
+"df/db1/structGraveyardData.html":[6,0,1196],
+"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1196,2],
 "df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1196,1],
 "df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[6,0,1196,0],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,494,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX387 =
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[6,0,731,0,3],
 "df/dc3/classspell__apothecary__throw__perfume.html":[6,0,2568],
 "df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[6,0,2568,1],
-"df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[6,0,2568,0],
-"df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[6,0,2568,2],
-"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[6,0,2568,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2697]
+"df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[6,0,2568,0]
 };

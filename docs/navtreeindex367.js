@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/dcb/classspell__item__impale__leviroth.html#a2699b3bc033bdd896d0f9a4b3c067354":[6,0,3191,1],
+"de/dcb/classspell__item__impale__leviroth.html#a5d95d2329c750692d9a4facae9ddf781":[6,0,3191,0],
+"de/dcb/classspell__item__impale__leviroth.html#a8d83f9e52ba19f75647e99760439c380":[6,0,3191,2],
 "de/dcc/GridNotifiers_8cpp.html":[7,0,0,0,1,2,19,1,0],
 "de/dcc/GridNotifiers_8cpp.html#a6dd107031f342074ca560b711fe188d7":[7,0,0,0,1,2,19,1,0,0],
 "de/dcc/MoveSpline_8h.html":[7,0,0,0,1,2,31,1,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2806,2],
 "de/ddd/classspell__entropius__black__hole__effect.html#aec00f82a35c8154e7d4c1f47c52d486f":[6,0,2806,1],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html":[6,0,887],
-"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#a7d3b640a8d68089436c3792b3db088f1":[6,0,887,1],
-"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#adca71d306b9b5ee6b1dc0dc75cec1f2c":[6,0,887,0],
-"de/dde/cs__reload_8cpp.html":[7,0,0,0,1,3,0,37],
-"de/dde/cs__reload_8cpp.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f":[7,0,0,0,1,3,0,37,1]
+"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#a7d3b640a8d68089436c3792b3db088f1":[6,0,887,1]
 };

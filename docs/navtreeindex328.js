@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78":[7,0,0,0,1,3,5,23,27,1],
+"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65":[7,0,0,0,1,3,5,23,27,3],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10":[7,0,0,0,1,3,5,23,27,2],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef":[7,0,0,0,1,3,5,23,27,5],
 "dd/db3/classReputationMgr.html":[6,0,2458],
@@ -131,12 +133,12 @@ var NAVTREEINDEX328 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,610,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,610,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,610,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2129],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2129,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2129,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06ad734973ee3e79047d5fcadb7c6d6428c":[7,0,0,0,1,3,7,2,2,4,4,1],
 "dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06afe2fb20f4fb31e316e0f9425ae4b64e6":[7,0,0,0,1,3,7,2,2,4,4,2],
 "dd/dc6/steam__vault_8h.html#a503807dfd03f05e95a9435b32165c0af":[7,0,0,0,1,3,7,2,2,4,1],
-"dd/dc6/steam__vault_8h.html#a5b5ca0ae07e92e9cad54568049f06fce":[7,0,0,0,1,3,7,2,2,4,0],
-"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1c":[7,0,0,0,1,3,7,2,2,4,5],
-"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1ca4f8a620894011d53e53d042e6176123b":[7,0,0,0,1,3,7,2,2,4,5,4]
+"dd/dc6/steam__vault_8h.html#a5b5ca0ae07e92e9cad54568049f06fce":[7,0,0,0,1,3,7,2,2,4,0]
 };

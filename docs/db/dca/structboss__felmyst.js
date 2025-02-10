@@ -1,7 +1,7 @@
 var structboss__felmyst =
 [
     [ "boss_felmyst", "db/dca/structboss__felmyst.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "DoAction", "db/dca/structboss__felmyst.html#ad6a578f2b47ed6bc804785e1f9d0c604", null ],
+    [ "InitializeAI", "db/dca/structboss__felmyst.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
     [ "JustDied", "db/dca/structboss__felmyst.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
     [ "JustEngagedWith", "db/dca/structboss__felmyst.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
     [ "KilledUnit", "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be", null ],

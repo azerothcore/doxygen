@@ -1,5 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[6,0,2568,2],
+"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[6,0,2568,3],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2697],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[6,0,2697,1],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a49277dbcc2d7cc79f29226e9b242120b":[6,0,2697,2],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a58c03a57bdfcba203159ae38683fdf14":[6,0,2697,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX388 =
 "df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,321,20],
 "df/dd5/spell__shaman_8cpp.html":[7,0,0,0,1,3,9,10],
 "df/dd5/spell__shaman_8cpp.html#a3082f46075e4e453c37bc429c9d57a1a":[7,0,0,0,1,3,9,10,33],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186f":[7,0,0,0,1,3,9,10,31],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090":[7,0,0,0,1,3,9,10,31,1],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa783b4ebd290063ab5c847a6496ff1ec6":[7,0,0,0,1,3,9,10,31,0],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019":[7,0,0,0,1,3,9,10,32]
+"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186f":[7,0,0,0,1,3,9,10,31]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dd/d3b/structGameObjectTemplate.html#a8edc2962c444e4236fda0764bcb0b29e":[6,0,1071,45],
+"dd/d3b/structGameObjectTemplate.html#a8f946804e61f725b51db910962887876":[6,0,1071,157],
 "dd/d3b/structGameObjectTemplate.html#a912d251efbe00674ea9497f3b5e7f537":[6,0,1071,121],
 "dd/d3b/structGameObjectTemplate.html#a9275a36e77bca2d0d608cd3b9989c623":[6,0,1071,47],
 "dd/d3b/structGameObjectTemplate.html#a9324c1be0308ad8a08eb3db43be18576":[6,0,1071,179],
@@ -119,10 +121,10 @@ var NAVTREEINDEX319 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#abf761c7cda4031c31354d8c8d42963e0":[6,0,414,0,7],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#adc9461ae5334634a9140f338547688b4":[6,0,414,0,9],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#ae86ad4fcc57cc1137411c881355f2f51":[6,0,414,0,8],
-"dd/d48/structnpc__direbrew__antagonist.html":[6,0,1712],
-"dd/d48/structnpc__direbrew__antagonist.html#a30fed4e6888d98af576dea8e13c510d3":[6,0,1712,0],
-"dd/d48/structnpc__direbrew__antagonist.html#a924891e5d4e3f30d78186bedf76cf7d1":[6,0,1712,1]
+"dd/d48/structnpc__direbrew__antagonist.html":[6,0,1712]
 };
