@@ -1,6 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[6,0,328,11],
 "df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546":[6,0,328,13],
 "df/d3d/classBfCapturePoint.html#a89bf5ddb47f47bb1129ec2256221dcb8":[6,0,328,21],
 "df/d3d/classBfCapturePoint.html#a9d43160e2a96cdae295596756f770f74":[6,0,328,19],
@@ -249,5 +248,6 @@ var NAVTREEINDEX377 =
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[6,0,2083,0,1],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a75611004a543bece9d3f51914547f2fe":[6,0,2083,0,3],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a95eaf518fb18b67820d6195cd525b017":[6,0,2083,0,2],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[6,0,2083,0,6]
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[6,0,2083,0,6],
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[6,0,2083,0,5]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX265 =
 {
-"da/de2/boss__ebonroc_8cpp.html":[7,0,0,0,1,3,2,1,2,3],
 "da/de2/boss__ebonroc_8cpp.html#a4df2e27653483a1abf3481ce7210779e":[7,0,0,0,1,3,2,1,2,3,4],
 "da/de2/boss__ebonroc_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,3,3],
 "da/de2/boss__ebonroc_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[7,0,0,0,1,3,2,1,2,3,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX265 =
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531":[7,0,0,0,1,3,5,2,1,7,10,16],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cadf64cb27de898214cbdc79bfe42acfc8":[7,0,0,0,1,3,5,2,1,7,10,26],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae52a2e92cc69c2d011beba5407e20179":[7,0,0,0,1,3,5,2,1,7,10,7],
-"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caebb60322b40191c0a110780db6fd61aa":[7,0,0,0,1,3,5,2,1,7,10,9]
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caebb60322b40191c0a110780db6fd61aa":[7,0,0,0,1,3,5,2,1,7,10,9],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf6581cb88629c8413869304ac7cc465d":[7,0,0,0,1,3,5,2,1,7,10,5]
 };

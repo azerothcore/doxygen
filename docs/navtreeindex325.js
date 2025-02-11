@@ -1,6 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,23,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,11,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,23,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,23,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX325 =
 "dd/da2/classlfg_1_1LFGQueue.html#ad6a3508c6a249526a259cbd9c6213eef":[6,0,5,12,27],
 "dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c":[5,0,18,12,22],
 "dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c":[6,0,5,12,22],
-"dd/da2/classlfg_1_1LFGQueue.html#add2a29f6d8874b75c4a43c5802de8af5":[5,0,18,12,19]
+"dd/da2/classlfg_1_1LFGQueue.html#add2a29f6d8874b75c4a43c5802de8af5":[5,0,18,12,19],
+"dd/da2/classlfg_1_1LFGQueue.html#add2a29f6d8874b75c4a43c5802de8af5":[6,0,5,12,19]
 };

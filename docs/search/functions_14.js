@@ -140,7 +140,7 @@ var searchData=
   ['totransport_137',['totransport',['../de/d1c/classGameObject.html#ad789c168865fdad575558a041205522a',1,'GameObject::ToTransport()'],['../de/d1c/classGameObject.html#a7b627f724d167f3b63c1b5d3318ef949',1,'GameObject::ToTransport() const']]],
   ['tounit_138',['tounit',['../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8',1,'Object::ToUnit()'],['../d8/d4b/classObject.html#aa03101bb1475aebf3573f998c4cf598d',1,'Object::ToUnit() const']]],
   ['tpassed_139',['TPassed',['../d1/db9/structPeriodicTimer.html#a3fdac0a26ee6f5db8d536ae44907930d',1,'PeriodicTimer']]],
-  ['tradecancel_140',['TradeCancel',['../d2/d4b/classPlayer.html#ac45fd65e26ffafc40225a6918460ad6e',1,'Player']]],
+  ['tradecancel_140',['TradeCancel',['../d2/d4b/classPlayer.html#a72d1127cbcf86d680ba7f730c06943e7',1,'Player']]],
   ['tradedata_141',['TradeData',['../d8/d94/classTradeData.html#ac2bfab37acbdb9fd955d8f2ee8876b79',1,'TradeData']]],
   ['trainerspell_142',['TrainerSpell',['../d8/d2d/structTrainerSpell.html#a87a098774b32babfcf2000e3330a25b9',1,'TrainerSpell']]],
   ['trainerspelldata_143',['TrainerSpellData',['../de/dc3/structTrainerSpellData.html#ab58a8a4ca9d8b609131e7f8b3ec507c9',1,'TrainerSpellData']]],

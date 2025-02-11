@@ -1,6 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"db/d0b/structboss__ahune.html#a6404a8255566f2eaa061a89025e2bdcd":[6,0,349,2],
 "db/d0b/structboss__ahune.html#a9e197e8a5ecbad8487c7bad7647e6d2c":[6,0,349,1],
 "db/d0b/structboss__ahune.html#aa3d15e1ab37843761d9f7c56d2e5a319":[6,0,349,0],
 "db/d0b/structboss__ahune.html#aad68758720cc1cb703f8f2dc72c09af2":[6,0,349,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX269 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a":[7,0,0,0,1,3,9,6,27,10],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317":[7,0,0,0,1,3,9,6,27,22],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20":[7,0,0,0,1,3,9,6,27,36],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb":[7,0,0,0,1,3,9,6,27,43]
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb":[7,0,0,0,1,3,9,6,27,43],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b":[7,0,0,0,1,3,9,6,27,39]
 };

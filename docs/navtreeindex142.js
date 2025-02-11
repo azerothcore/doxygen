@@ -1,6 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d5/d26/classinstance__drak__tharon__keep.html#aca6364452dc39e747af152695d479bf8":[6,0,1274,2],
 "d5/d26/classspell__ignis__grab__initial.html":[6,0,3109],
 "d5/d26/classspell__ignis__grab__initial.html#a3bb460d50928bd1b57566dd6a50fa5cd":[6,0,3109,3],
 "d5/d26/classspell__ignis__grab__initial.html#a6128956f1037b62fff2e6f10ec22d956":[6,0,3109,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX142 =
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/structMovieEntry.html":[6,0,1499],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[6,0,1499,0],
-"d5/d34/structProgressionRequirement.html":[6,0,2411]
+"d5/d34/structProgressionRequirement.html":[6,0,2411],
+"d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a":[6,0,2411,3]
 };

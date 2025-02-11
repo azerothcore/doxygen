@@ -1386,7 +1386,7 @@ var searchData=
   ['trade_5fstatus_5fyou_5fdead_1383',['TRADE_STATUS_YOU_DEAD',['../de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a227ff8d6c606b65c64c5e34b25ccd621',1,'SharedDefines.h']]],
   ['trade_5fstatus_5fyou_5flogout_1384',['TRADE_STATUS_YOU_LOGOUT',['../de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a455d338395e313eeebfa95cadf86b5c6',1,'SharedDefines.h']]],
   ['trade_5fstatus_5fyou_5fstunned_1385',['TRADE_STATUS_YOU_STUNNED',['../de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a00515d26660c8793d26a9c3e578134fc',1,'SharedDefines.h']]],
-  ['tradecancel_1386',['TradeCancel',['../d2/d4b/classPlayer.html#ac45fd65e26ffafc40225a6918460ad6e',1,'Player']]],
+  ['tradecancel_1386',['TradeCancel',['../d2/d4b/classPlayer.html#a72d1127cbcf86d680ba7f730c06943e7',1,'Player']]],
   ['tradedata_1387',['tradedata',['../d8/d94/classTradeData.html',1,'TradeData'],['../d8/d94/classTradeData.html#ac2bfab37acbdb9fd955d8f2ee8876b79',1,'TradeData::TradeData()']]],
   ['tradedata_2ecpp_1388',['TradeData.cpp',['../da/df7/TradeData_8cpp.html',1,'']]],
   ['tradedata_2eh_1389',['TradeData.h',['../de/d31/TradeData_8h.html',1,'']]],

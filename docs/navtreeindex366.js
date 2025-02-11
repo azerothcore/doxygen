@@ -1,6 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[6,0,2732,2],
 "de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[6,0,2732,1],
 "de/db7/classQueryCallback.html":[6,0,2418],
 "de/db7/classQueryCallback.html#a0c1c3dbbe82846340770760cf9c11aa4":[6,0,2418,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX366 =
 "de/dcb/classspell__gen__bonked.html#a7909f23da8385abdabb62e5196d88d38":[6,0,2866,1],
 "de/dcb/classspell__gen__bonked.html#aa45c1c80f137dd90b5f0e06e19f09da6":[6,0,2866,2],
 "de/dcb/classspell__item__impale__leviroth.html":[6,0,3191],
-"de/dcb/classspell__item__impale__leviroth.html#a24610d5652ef85e883b1bac9256b30f7":[6,0,3191,3]
+"de/dcb/classspell__item__impale__leviroth.html#a24610d5652ef85e883b1bac9256b30f7":[6,0,3191,3],
+"de/dcb/classspell__item__impale__leviroth.html#a2699b3bc033bdd896d0f9a4b3c067354":[6,0,3191,1]
 };

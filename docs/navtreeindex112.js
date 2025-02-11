@@ -1,6 +1,5 @@
 var NAVTREEINDEX112 =
 {
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dace298b9120a510d4b190dadb89c9ffaf":[7,0,0,0,1,2,8,0,3,26,0],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dacf000e1718343b785e08ddbbef353335":[7,0,0,0,1,2,8,0,3,26,61],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dad2022a64503ff861eea89295137e488c":[7,0,0,0,1,2,8,0,3,26,35],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dad886f27ca09d6bfd66176e3710026901":[7,0,0,0,1,2,8,0,3,26,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX112 =
 "d3/ddf/onyxias__lair_8h.html":[7,0,0,0,1,3,4,4,2],
 "d3/ddf/onyxias__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,4,2,0],
 "d3/ddf/onyxias__lair_8h.html#a0b356f44d43edb1bff30f404c9469250":[7,0,0,0,1,3,4,4,2,5],
-"d3/ddf/onyxias__lair_8h.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851":[7,0,0,0,1,3,4,4,2,5,1]
+"d3/ddf/onyxias__lair_8h.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851":[7,0,0,0,1,3,4,4,2,5,1],
+"d3/ddf/onyxias__lair_8h.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d":[7,0,0,0,1,3,4,4,2,5,0]
 };

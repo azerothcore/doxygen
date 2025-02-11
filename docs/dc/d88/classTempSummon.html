@@ -3490,13 +3490,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../db/dd5/classCreature.html#af6606a3e3973e312654a3901dc01f2d5">Creature</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  349</span>{</div>
-<div class="line"><span class="lineno">  350</span>    std::stringstream sstr;</div>
-<div class="line"><span class="lineno">  351</span>    sstr &lt;&lt; <a class="code hl_function" href="../../db/dd5/classCreature.html#af6606a3e3973e312654a3901dc01f2d5">Creature::GetDebugInfo</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
-<div class="line"><span class="lineno">  352</span>        &lt;&lt; std::boolalpha</div>
-<div class="line"><span class="lineno">  353</span>        &lt;&lt; <span class="stringliteral">&quot;TempSummonType : &quot;</span> &lt;&lt; std::to_string(<a class="code hl_function" href="../../dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a">GetSummonType</a>()) &lt;&lt; <span class="stringliteral">&quot; Summoner: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../dc/d88/classTempSummon.html#a4f1c054b1e80b1ae0b44e6f38951082e">GetSummonerGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>();</div>
-<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">return</span> sstr.str();</div>
-<div class="line"><span class="lineno">  355</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  345</span>{</div>
+<div class="line"><span class="lineno">  346</span>    std::stringstream sstr;</div>
+<div class="line"><span class="lineno">  347</span>    sstr &lt;&lt; <a class="code hl_function" href="../../db/dd5/classCreature.html#af6606a3e3973e312654a3901dc01f2d5">Creature::GetDebugInfo</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  348</span>        &lt;&lt; std::boolalpha</div>
+<div class="line"><span class="lineno">  349</span>        &lt;&lt; <span class="stringliteral">&quot;TempSummonType : &quot;</span> &lt;&lt; std::to_string(<a class="code hl_function" href="../../dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a">GetSummonType</a>()) &lt;&lt; <span class="stringliteral">&quot; Summoner: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../dc/d88/classTempSummon.html#a4f1c054b1e80b1ae0b44e6f38951082e">GetSummonerGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>();</div>
+<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">return</span> sstr.str();</div>
+<div class="line"><span class="lineno">  351</span>}</div>
 <div class="ttc" id="aclassCreature_html_af6606a3e3973e312654a3901dc01f2d5"><div class="ttname"><a href="../../db/dd5/classCreature.html#af6606a3e3973e312654a3901dc01f2d5">Creature::GetDebugInfo</a></div><div class="ttdeci">std::string GetDebugInfo() const override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3873</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:47</div></div>
 <div class="ttc" id="aclassTempSummon_html_a331c63533ec0473a314bb16e696c849a"><div class="ttname"><a href="../../dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a">TempSummon::GetSummonType</a></div><div class="ttdeci">TempSummonType GetSummonType() const</div><div class="ttdef"><b>Definition</b> TemporarySummon.h:57</div></div>
@@ -3504,7 +3504,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l03873">Creature::GetDebugInfo()</a>, <a class="el" href="../../#l00056">GetSummonerGUID()</a>, <a class="el" href="../../#l00057">GetSummonType()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00415">Minion::GetDebugInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00411">Minion::GetDebugInfo()</a>.</p>
 
 </div>
 </div>
@@ -3608,7 +3608,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00072">m_summonerGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00348">GetDebugInfo()</a>, <a class="el" href="../../#l00385">spell_pri_lightwell::HandleScriptEffect()</a>, <a class="el" href="../../#l00978">boss_freya_iron_root::boss_freya_iron_rootAI::JustDied()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, and <a class="el" href="../../#l00390">npc_stormforged_lieutenant::npc_stormforged_lieutenantAI::Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00344">GetDebugInfo()</a>, <a class="el" href="../../#l00385">spell_pri_lightwell::HandleScriptEffect()</a>, <a class="el" href="../../#l00978">boss_freya_iron_root::boss_freya_iron_rootAI::JustDied()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, and <a class="el" href="../../#l00390">npc_stormforged_lieutenant::npc_stormforged_lieutenantAI::Reset()</a>.</p>
 
 </div>
 </div>
@@ -3637,7 +3637,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00039">GetSummoner()</a>, and <a class="el" href="../../#l00209">Object::ToUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00357">npc_living_mojo::npc_living_mojoAI::AttackStart()</a>, <a class="el" href="../../#l00196">npc_tiger_matriarch::npc_tiger_matriarchAI::DamageTaken()</a>, <a class="el" href="../../#l00248">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00103">SuckBackEvent::Execute()</a>, <a class="el" href="../../#l01333">boss_headless_horseman_head::GetOwner()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00206">spell_q11026_a11051_banish_the_demons::HandleScriptEffect()</a>, <a class="el" href="../../#l00371">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::InitializeAI()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00264">SpellClickInfo::IsFitToRequirements()</a>, <a class="el" href="../../#l01846">boss_yoggsaron_influence_tentacle::boss_yoggsaron_influence_tentacleAI::JustDied()</a>, <a class="el" href="../../#l02015">npc_counselor_talbot::npc_counselor_talbotAI::JustDied()</a>, <a class="el" href="../../#l00517">boss_essence_of_anger::boss_essence_of_angerAI::JustDied()</a>, <a class="el" href="../../#l00072">npc_pet_pri_shadowfiend::JustDied()</a>, <a class="el" href="../../#l00276">npc_anub_ar_crusher::npc_anub_ar_crusherAI::JustEngagedWith()</a>, <a class="el" href="../../#l00234">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::JustEngagedWith()</a>, <a class="el" href="../../#l00232">boss_halion::boss_halionAI::JustSummoned()</a>, <a class="el" href="../../#l00181">npc_tiger_matriarch::npc_tiger_matriarchAI::KilledUnit()</a>, <a class="el" href="../../#l01929">npc_leryssa::npc_leryssaAI::MovementInform()</a>, <a class="el" href="../../#l00262">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00042">npc_attracted_reef_bull::npc_attracted_reef_bullAI::MovementInform()</a>, <a class="el" href="../../#l00034">npc_attracted_reef_bull::npc_attracted_reef_bullAI::npc_attracted_reef_bullAI()</a>, <a class="el" href="../../#l00582">npc_claw_tentacle::npc_claw_tentacle()</a>, <a class="el" href="../../#l00521">npc_eye_tentacle::npc_eye_tentacle()</a>, <a class="el" href="../../#l00643">npc_giant_claw_tentacle::npc_giant_claw_tentacle()</a>, <a class="el" href="../../#l00777">npc_giant_eye_tentacle::npc_giant_eye_tentacle()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l01754">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l00331">RemoveFromWorld()</a>, <a class="el" href="../../#l00243">npc_anub_ar_crusher::npc_anub_ar_crusherAI::Reset()</a>, <a class="el" href="../../#l00539">npc_future_you::npc_future_youAI::Reset()</a>, <a class="el" href="../../#l00301">npc_plaguehound_tracker::npc_plaguehound_trackerAI::Reset()</a>, <a class="el" href="../../#l01760">Spell::SelectImplicitCasterObjectTargets()</a>, <a class="el" href="../../#l00139">npc_your_inner_turmoil::npc_your_inner_turmoilAI::setphase()</a>, <a class="el" href="../../#l02346">npc_ulduar_flames_spread::npc_ulduar_flames_spreadAI::SpellHit()</a>, <a class="el" href="../../#l00072">npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI::UpdateAI()</a>, <a class="el" href="../../#l00237">npc_love_in_air_snivel_real::UpdateAI()</a>, <a class="el" href="../../#l00106">npc_tiger_matriarch_credit::npc_tiger_matriarch_creditAI::UpdateAI()</a>, <a class="el" href="../../#l00220">npc_tiger_matriarch::npc_tiger_matriarchAI::UpdateAI()</a>, <a class="el" href="../../#l00696">npc_ulduar_flash_freeze::npc_ulduar_flash_freezeAI::UpdateAI()</a>, <a class="el" href="../../#l00234">npc_vh_void_sentry::npc_vh_void_sentryAI::UpdateAI()</a>, <a class="el" href="../../#l00618">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l00260">npc_feedin_da_goolz::npc_feedin_da_goolzAI::UpdateAI()</a>, and <a class="el" href="../../#l00079">npc_frosthound::npc_frosthoundAI::WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00357">npc_living_mojo::npc_living_mojoAI::AttackStart()</a>, <a class="el" href="../../#l00196">npc_tiger_matriarch::npc_tiger_matriarchAI::DamageTaken()</a>, <a class="el" href="../../#l00248">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00103">SuckBackEvent::Execute()</a>, <a class="el" href="../../#l01333">boss_headless_horseman_head::GetOwner()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00206">spell_q11026_a11051_banish_the_demons::HandleScriptEffect()</a>, <a class="el" href="../../#l00371">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::InitializeAI()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00264">SpellClickInfo::IsFitToRequirements()</a>, <a class="el" href="../../#l01846">boss_yoggsaron_influence_tentacle::boss_yoggsaron_influence_tentacleAI::JustDied()</a>, <a class="el" href="../../#l02015">npc_counselor_talbot::npc_counselor_talbotAI::JustDied()</a>, <a class="el" href="../../#l00517">boss_essence_of_anger::boss_essence_of_angerAI::JustDied()</a>, <a class="el" href="../../#l00072">npc_pet_pri_shadowfiend::JustDied()</a>, <a class="el" href="../../#l00276">npc_anub_ar_crusher::npc_anub_ar_crusherAI::JustEngagedWith()</a>, <a class="el" href="../../#l00234">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::JustEngagedWith()</a>, <a class="el" href="../../#l00232">boss_halion::boss_halionAI::JustSummoned()</a>, <a class="el" href="../../#l00181">npc_tiger_matriarch::npc_tiger_matriarchAI::KilledUnit()</a>, <a class="el" href="../../#l01929">npc_leryssa::npc_leryssaAI::MovementInform()</a>, <a class="el" href="../../#l00262">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00042">npc_attracted_reef_bull::npc_attracted_reef_bullAI::MovementInform()</a>, <a class="el" href="../../#l00034">npc_attracted_reef_bull::npc_attracted_reef_bullAI::npc_attracted_reef_bullAI()</a>, <a class="el" href="../../#l00582">npc_claw_tentacle::npc_claw_tentacle()</a>, <a class="el" href="../../#l00521">npc_eye_tentacle::npc_eye_tentacle()</a>, <a class="el" href="../../#l00643">npc_giant_claw_tentacle::npc_giant_claw_tentacle()</a>, <a class="el" href="../../#l00777">npc_giant_eye_tentacle::npc_giant_eye_tentacle()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l01754">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l00327">RemoveFromWorld()</a>, <a class="el" href="../../#l00243">npc_anub_ar_crusher::npc_anub_ar_crusherAI::Reset()</a>, <a class="el" href="../../#l00539">npc_future_you::npc_future_youAI::Reset()</a>, <a class="el" href="../../#l00301">npc_plaguehound_tracker::npc_plaguehound_trackerAI::Reset()</a>, <a class="el" href="../../#l01760">Spell::SelectImplicitCasterObjectTargets()</a>, <a class="el" href="../../#l00139">npc_your_inner_turmoil::npc_your_inner_turmoilAI::setphase()</a>, <a class="el" href="../../#l02346">npc_ulduar_flames_spread::npc_ulduar_flames_spreadAI::SpellHit()</a>, <a class="el" href="../../#l00072">npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI::UpdateAI()</a>, <a class="el" href="../../#l00237">npc_love_in_air_snivel_real::UpdateAI()</a>, <a class="el" href="../../#l00106">npc_tiger_matriarch_credit::npc_tiger_matriarch_creditAI::UpdateAI()</a>, <a class="el" href="../../#l00220">npc_tiger_matriarch::npc_tiger_matriarchAI::UpdateAI()</a>, <a class="el" href="../../#l00696">npc_ulduar_flash_freeze::npc_ulduar_flash_freezeAI::UpdateAI()</a>, <a class="el" href="../../#l00234">npc_vh_void_sentry::npc_vh_void_sentryAI::UpdateAI()</a>, <a class="el" href="../../#l00618">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l00260">npc_feedin_da_goolz::npc_feedin_da_goolzAI::UpdateAI()</a>, and <a class="el" href="../../#l00079">npc_frosthound::npc_frosthoundAI::WaypointReached()</a>.</p>
 
 </div>
 </div>
@@ -3667,7 +3667,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00069">m_type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00348">GetDebugInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00344">GetDebugInfo()</a>.</p>
 
 </div>
 </div>
@@ -3808,7 +3808,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l01911">SummonPropertiesEntry::Faction</a>, <a class="el" href="../../#l03328">Map::GetCreature()</a>, <a class="el" href="../../#l00817">Unit::GetFaction()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01033">Unit::GetLevel()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00044">GetSummonerUnit()</a>, <a class="el" href="../../#l00763">Unit::IsPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00760">Unit::IsSummon()</a>, <a class="el" href="../../#l00076">Creature::IsTrigger()</a>, <a class="el" href="../../#l00766">Unit::IsVehicle()</a>, <a class="el" href="../../#l02015">Unit::m_ControlledByPlayer</a>, <a class="el" href="../../#l02016">Unit::m_CreatedByPlayer</a>, <a class="el" href="../../#l00071">m_lifetime</a>, <a class="el" href="../../#l00064">m_Properties</a>, <a class="el" href="../../#l00254">Creature::m_spells</a>, <a class="el" href="../../#l01994">Unit::m_SummonSlot</a>, <a class="el" href="../../#l00070">m_timer</a>, <a class="el" href="../../#l00069">m_type</a>, <a class="el" href="../../#l10108">Unit::SetFaction()</a>, <a class="el" href="../../#l15523">Unit::SetLevel()</a>, <a class="el" href="../../#l01913">SummonPropertiesEntry::Slot</a>, <a class="el" href="../../#l00714">sScriptMgr</a>, <a class="el" href="../../#l00052">TEMPSUMMON_DEAD_DESPAWN</a>, <a class="el" href="../../#l00053">TEMPSUMMON_MANUAL_DESPAWN</a>, <a class="el" href="../../#l00048">TEMPSUMMON_TIMED_DESPAWN</a>, <a class="el" href="../../#l00201">Object::ToPlayer()</a>, <a class="el" href="../../#l00702">Unit::ToTempSummon()</a>, and <a class="el" href="../../#l00287">UnSummon()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00365">Minion::InitStats()</a>, <a class="el" href="../../#l00098">npc_frosthound::npc_frosthoundAI::JustSummoned()</a>, <a class="el" href="../../#l00154">boss_supremus::JustSummoned()</a>, and <a class="el" href="../../#l02174">Map::SummonCreature()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00361">Minion::InitStats()</a>, <a class="el" href="../../#l00098">npc_frosthound::npc_frosthoundAI::JustSummoned()</a>, <a class="el" href="../../#l00154">boss_supremus::JustSummoned()</a>, and <a class="el" href="../../#l02174">Map::SummonCreature()</a>.</p>
 
 </div>
 </div>
@@ -3872,7 +3872,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00305">GameObject::AI()</a>, <a class="el" href="../../#l00039">GetSummoner()</a>, <a class="el" href="../../#l02012">Unit::IsAIEnabled</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00212">Object::IsGameObject()</a>, <a class="el" href="../../#l00135">CreatureAI::IsSummonedBy()</a>, <a class="el" href="../../#l00070">GameObjectAI::JustSummoned()</a>, <a class="el" href="../../#l00134">CreatureAI::JustSummoned()</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00213">Object::ToGameObject()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00449">Guardian::InitSummon()</a>, <a class="el" href="../../#l00482">Puppet::InitSummon()</a>, <a class="el" href="../../#l00080">Totem::InitSummon()</a>, and <a class="el" href="../../#l02174">Map::SummonCreature()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00445">Guardian::InitSummon()</a>, <a class="el" href="../../#l00478">Puppet::InitSummon()</a>, <a class="el" href="../../#l00080">Totem::InitSummon()</a>, and <a class="el" href="../../#l02174">Map::SummonCreature()</a>.</p>
 
 </div>
 </div>
@@ -3928,27 +3928,27 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993">Creature</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  332</span>{</div>
-<div class="line"><span class="lineno">  333</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d8/d4b/classObject.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
-<div class="line"><span class="lineno">  334</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  335</span> </div>
-<div class="line"><span class="lineno">  336</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73">m_Properties</a>)</div>
-<div class="line"><span class="lineno">  337</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> slot = <a class="code hl_variable" href="../../dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73">m_Properties</a>-&gt;<a class="code hl_variable" href="../../d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115">Slot</a>)</div>
-<div class="line"><span class="lineno">  338</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../dc/d88/classTempSummon.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>())</div>
-<div class="line"><span class="lineno">  339</span>                <span class="keywordflow">if</span> (owner-&gt;m_SummonSlot[slot] == <a class="code hl_function" href="../../d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67">GetGUID</a>())</div>
-<div class="line"><span class="lineno">  340</span>                    owner-&gt;m_SummonSlot[slot].Clear();</div>
-<div class="line"><span class="lineno">  341</span> </div>
-<div class="line"><span class="lineno">  342</span>    <span class="comment">//if (GetOwnerGUID())</span></div>
-<div class="line"><span class="lineno">  343</span>    <span class="comment">//    LOG_ERROR(&quot;entities.unit&quot;, &quot;Unit {} has owner guid when removed from world&quot;, GetEntry());</span></div>
-<div class="line"><span class="lineno">  344</span> </div>
-<div class="line"><span class="lineno">  345</span>    <a class="code hl_function" href="../../db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993">Creature::RemoveFromWorld</a>();</div>
-<div class="line"><span class="lineno">  346</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  328</span>{</div>
+<div class="line"><span class="lineno">  329</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d8/d4b/classObject.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
+<div class="line"><span class="lineno">  330</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  331</span> </div>
+<div class="line"><span class="lineno">  332</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73">m_Properties</a>)</div>
+<div class="line"><span class="lineno">  333</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> slot = <a class="code hl_variable" href="../../dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73">m_Properties</a>-&gt;<a class="code hl_variable" href="../../d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115">Slot</a>)</div>
+<div class="line"><span class="lineno">  334</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../dc/d88/classTempSummon.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>())</div>
+<div class="line"><span class="lineno">  335</span>                <span class="keywordflow">if</span> (owner-&gt;m_SummonSlot[slot] == <a class="code hl_function" href="../../d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67">GetGUID</a>())</div>
+<div class="line"><span class="lineno">  336</span>                    owner-&gt;m_SummonSlot[slot].Clear();</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>    <span class="comment">//if (GetOwnerGUID())</span></div>
+<div class="line"><span class="lineno">  339</span>    <span class="comment">//    LOG_ERROR(&quot;entities.unit&quot;, &quot;Unit {} has owner guid when removed from world&quot;, GetEntry());</span></div>
+<div class="line"><span class="lineno">  340</span> </div>
+<div class="line"><span class="lineno">  341</span>    <a class="code hl_function" href="../../db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993">Creature::RemoveFromWorld</a>();</div>
+<div class="line"><span class="lineno">  342</span>}</div>
 <div class="ttc" id="aclassCreature_html_a5e3a0a2c171f9b056431b86fdafe8993"><div class="ttname"><a href="../../db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993">Creature::RemoveFromWorld</a></div><div class="ttdeci">void RemoveFromWorld() override</div><div class="ttdef"><b>Definition</b> Creature.cpp:348</div></div>
 <div class="ttc" id="aclassObject_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../d8/d4b/classObject.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition</b> Object.h:107</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00044">GetSummonerUnit()</a>, <a class="el" href="../../#l00107">Object::IsInWorld()</a>, <a class="el" href="../../#l00064">m_Properties</a>, <a class="el" href="../../#l00348">Creature::RemoveFromWorld()</a>, and <a class="el" href="../../#l01913">SummonPropertiesEntry::Slot</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00379">Minion::RemoveFromWorld()</a>, <a class="el" href="../../#l00179">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript::ReplaceMoiraIfSaved()</a>, and <a class="el" href="../../#l00451">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00375">Minion::RemoveFromWorld()</a>, <a class="el" href="../../#l00179">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript::ReplaceMoiraIfSaved()</a>, and <a class="el" href="../../#l00451">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript::SetData()</a>.</p>
 
 </div>
 </div>
@@ -4134,17 +4134,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  310</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a>* owner = <a class="code hl_function" href="../../dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18">GetSummoner</a>())</div>
 <div class="line"><span class="lineno">  311</span>    {</div>
 <div class="line"><span class="lineno">  312</span>        <span class="keywordflow">if</span> (owner-&gt;IsCreature() &amp;&amp; owner-&gt;ToCreature()-&gt;IsAIEnabled)</div>
-<div class="line"><span class="lineno">  313</span>        {</div>
-<div class="line"><span class="lineno">  314</span>            owner-&gt;ToCreature()-&gt;AI()-&gt;SummonedCreatureDespawn(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  315</span>        }</div>
-<div class="line"><span class="lineno">  316</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (owner-&gt;IsGameObject() &amp;&amp; owner-&gt;ToGameObject()-&gt;AI())</div>
-<div class="line"><span class="lineno">  317</span>        {</div>
-<div class="line"><span class="lineno">  318</span>            owner-&gt;ToGameObject()-&gt;AI()-&gt;SummonedCreatureDespawn(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  319</span>        }</div>
-<div class="line"><span class="lineno">  320</span>    }</div>
-<div class="line"><span class="lineno">  321</span> </div>
-<div class="line"><span class="lineno">  322</span>    <a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a8b5bf67b1f64fee748e20a147455c141">AddObjectToRemoveList</a>();</div>
-<div class="line"><span class="lineno">  323</span>}</div>
+<div class="line"><span class="lineno">  313</span>            owner-&gt;ToCreature()-&gt;AI()-&gt;SummonedCreatureDespawn(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  314</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (owner-&gt;IsGameObject() &amp;&amp; owner-&gt;ToGameObject()-&gt;AI())</div>
+<div class="line"><span class="lineno">  315</span>            owner-&gt;ToGameObject()-&gt;AI()-&gt;SummonedCreatureDespawn(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  316</span>    }</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    <a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a8b5bf67b1f64fee748e20a147455c141">AddObjectToRemoveList</a>();</div>
+<div class="line"><span class="lineno">  319</span>}</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687">TEMPSUMMON_DESPAWNED</a></div><div class="ttdeci">@ TEMPSUMMON_DESPAWNED</div><div class="ttdef"><b>Definition</b> Object.h:54</div></div>
 <div class="ttc" id="aPetDefines_8h_html_a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd"><div class="ttname"><a href="../../d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd">PET_SAVE_NOT_IN_SLOT</a></div><div class="ttdeci">@ PET_SAVE_NOT_IN_SLOT</div><div class="ttdef"><b>Definition</b> PetDefines.h:45</div></div>
 <div class="ttc" id="aclassEventProcessor_html_a0ecdf822624a632b7b3fad1e66228cfb"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#a0ecdf822624a632b7b3fad1e66228cfb">EventProcessor::AddEvent</a></div><div class="ttdeci">void AddEvent(BasicEvent *Event, uint64 e_time, bool set_addtime=true)</div><div class="ttdef"><b>Definition</b> EventProcessor.h:103</div></div>
@@ -4158,7 +4154,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00103">EventProcessor::AddEvent()</a>, <a class="el" href="../../#l02160">WorldObject::AddObjectToRemoveList()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00159">EventProcessor::CalculateTime()</a>, <a class="el" href="../../#l00039">GetSummoner()</a>, <a class="el" href="../../#l00107">Object::IsInWorld()</a>, <a class="el" href="../../#l00763">Unit::IsPet()</a>, <a class="el" href="../../#l00635">WorldObject::m_Events</a>, <a class="el" href="../../#l00069">m_type</a>, <a class="el" href="../../#l00045">PET_SAVE_NOT_IN_SLOT</a>, <a class="el" href="../../#l00878">Pet::Remove()</a>, <a class="el" href="../../#l00282">SetTempSummonType()</a>, <a class="el" href="../../#l00054">TEMPSUMMON_DESPAWNED</a>, and <a class="el" href="../../#l00700">Unit::ToPet()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l19835">Unit::_ExitVehicle()</a>, <a class="el" href="../../#l03794">Spell::EffectScriptEffect()</a>, <a class="el" href="../../#l00325">ForcedUnsummonDelayEvent::Execute()</a>, <a class="el" href="../../#l00039">WorldSession::HandleDismissCritter()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00385">spell_pri_lightwell::HandleScriptEffect()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00248">npc_pet_dk_ghoul::npc_pet_dk_ghoulAI::JustDied()</a>, <a class="el" href="../../#l11142">Unit::RemoveAllControlled()</a>, <a class="el" href="../../#l10919">Unit::RemoveAllMinionsByEntry()</a>, <a class="el" href="../../#l00167">npc_pet_gen_argent_pony_bridle::Reset()</a>, <a class="el" href="../../#l00066">Update()</a>, and <a class="el" href="../../#l00497">Puppet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l19835">Unit::_ExitVehicle()</a>, <a class="el" href="../../#l03794">Spell::EffectScriptEffect()</a>, <a class="el" href="../../#l00321">ForcedUnsummonDelayEvent::Execute()</a>, <a class="el" href="../../#l00039">WorldSession::HandleDismissCritter()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00385">spell_pri_lightwell::HandleScriptEffect()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00248">npc_pet_dk_ghoul::npc_pet_dk_ghoulAI::JustDied()</a>, <a class="el" href="../../#l11142">Unit::RemoveAllControlled()</a>, <a class="el" href="../../#l10919">Unit::RemoveAllMinionsByEntry()</a>, <a class="el" href="../../#l00167">npc_pet_gen_argent_pony_bridle::Reset()</a>, <a class="el" href="../../#l00066">Update()</a>, and <a class="el" href="../../#l00493">Puppet::Update()</a>.</p>
 
 </div>
 </div>
@@ -4434,7 +4430,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">Totem::InitStats()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00395">Minion::IsGuardianPet()</a>, <a class="el" href="../../#l00331">RemoveFromWorld()</a>, and <a class="el" href="../../#l10741">Unit::SetMinion()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">Totem::InitStats()</a>, <a class="el" href="../../#l00200">InitStats()</a>, <a class="el" href="../../#l00391">Minion::IsGuardianPet()</a>, <a class="el" href="../../#l00327">RemoveFromWorld()</a>, and <a class="el" href="../../#l10741">Unit::SetMinion()</a>.</p>
 
 </div>
 </div>
@@ -4520,7 +4516,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d88/classTempSummon.html">TempSummon</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 06:22:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 11 2025 06:20:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

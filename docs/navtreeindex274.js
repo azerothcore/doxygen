@@ -1,6 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a5efaf8479d7afb8c24e7f3389ad9c8cf":[6,0,2365,0,1],
 "db/d5c/BattlegroundAV_8cpp.html":[7,0,0,0,1,2,8,0,2],
 "db/d5c/classWarden.html":[6,0,4154],
 "db/d5c/classWarden.html#a00480a14958d2b3cffd2c29be090894e":[6,0,4154,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX274 =
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a":[7,0,0,0,1,2,48,3,0,2],
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5":[7,0,0,0,1,2,48,3,0,5],
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430":[7,0,0,0,1,2,48,3,0,7],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4":[7,0,0,0,1,2,48,3,0,10]
+"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4":[7,0,0,0,1,2,48,3,0,10],
+"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158":[7,0,0,0,1,2,48,3,0,8]
 };

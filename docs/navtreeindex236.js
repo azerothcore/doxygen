@@ -1,6 +1,5 @@
 var NAVTREEINDEX236 =
 {
-"d9/d75/classnpc__oculus__drakegiver.html#ac8bbe890722aa924a7f0dee161d342c4":[6,0,1957,6],
 "d9/d75/classnpc__oculus__drakegiver.html#ad0fc46e306080ccfe9988d416ef71e77":[6,0,1957,4],
 "d9/d75/classnpc__oculus__drakegiver.html#add34aba22fb2ca16f6f055dd77a2994b":[6,0,1957,1],
 "d9/d75/namespaceboost_1_1filesystem.html":[5,0,8,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX236 =
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#a262781c90fe1b5a5af2c6f94e4cc52e2":[6,0,1967,0,3],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#a7997a3d398db82c205e3a8af77ac1684":[6,0,1967,0,1],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#a92a229f76de3bc46ae14910439db0004":[6,0,1967,0,0],
-"d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#acae0427957aba04a54e6001823bc7eb4":[6,0,1967,0,2]
+"d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#acae0427957aba04a54e6001823bc7eb4":[6,0,1967,0,2],
+"d9/d86/classspell__winter__veil__racer__slam__hit.html":[6,0,3943]
 };

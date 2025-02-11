@@ -1,6 +1,5 @@
 var NAVTREEINDEX257 =
 {
-"da/d90/classSpellMgr.html#a60283ceb69bf92310153db6769f70a6a":[6,0,4004,97],
 "da/d90/classSpellMgr.html#a624b4e60fda126e6a868ac252fda2757":[6,0,4004,16],
 "da/d90/classSpellMgr.html#a62767dc60e5f32a91b8428a01d083184":[6,0,4004,51],
 "da/d90/classSpellMgr.html#a639ed2f06c1e6457882c02bee9da7dcb":[6,0,4004,77],
@@ -249,5 +248,6 @@ var NAVTREEINDEX257 =
 "da/d98/instance__sethekk__halls_8cpp.html":[7,0,0,0,1,3,7,0,2,3],
 "da/d98/instance__sethekk__halls_8cpp.html#a14325c1667938972a51bf364b00fe3c3":[7,0,0,0,1,3,7,0,2,3,2],
 "da/d98/instance__sethekk__halls_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,7,0,2,3,6],
-"da/d98/instance__sethekk__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,0,2,3,4]
+"da/d98/instance__sethekk__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,0,2,3,4],
+"da/d98/instance__sethekk__halls_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,0,2,3,5]
 };

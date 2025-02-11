@@ -1,6 +1,5 @@
 var NAVTREEINDEX303 =
 {
-"dc/d6d/classspell__dk__dancing__rune__weapon.html":[6,0,2710],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a21000167be45c4a5503813e5a508b8fd":[6,0,2710,1],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a6b62e970a78ae8187989f566e6d47317":[6,0,2710,0],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a7f8fea0f52ed4c98120195f205d6c0d7":[6,0,2710,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX303 =
 "dc/d7d/classZoneScript.html#ab32f7102df50af48e43f544bd107f964":[6,0,4227,13],
 "dc/d7d/classZoneScript.html#ab7aecf55fb84288840465dd69eacc8eb":[6,0,4227,4],
 "dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4":[6,0,4227,16],
-"dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4227,9]
+"dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4227,9],
+"dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4227,7]
 };

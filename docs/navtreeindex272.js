@@ -1,6 +1,5 @@
 var NAVTREEINDEX272 =
 {
-"db/d37/structSearchableAuctionEntryItem.html#a9184925bad61ad58f35c4e4b3dbccd81":[6,0,2489,3],
 "db/d37/structSearchableAuctionEntryItem.html#aa1c185178359f1cbd5afcedd38a0e69f":[6,0,2489,5],
 "db/d37/structSearchableAuctionEntryItem.html#aa3332c4ea806c944c9c4e95ddb31efa9":[6,0,2489,2],
 "db/d37/structSearchableAuctionEntryItem.html#af076353ee7ce0fd3665e13449c248629":[6,0,2489,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX272 =
 "db/d4e/boss__ossirian_8cpp.html":[7,0,0,0,1,3,4,8,4],
 "db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,8,4,6],
 "db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfa35b17668e233eb44f3bf7350ceac9b7f":[7,0,0,0,1,3,4,8,4,6,1],
-"db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfabe9697b88f8a315d3fa35240283b2897":[7,0,0,0,1,3,4,8,4,6,0]
+"db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfabe9697b88f8a315d3fa35240283b2897":[7,0,0,0,1,3,4,8,4,6,0],
+"db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,8,4,9]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca258574c4fada51659dd69eac0086d02d":[7,0,0,0,1,3,7,0,0,1,3,12],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,7,0,0,1,3,11],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,0,0,1,3,6],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca96202845ce0a0e2a5099d834b3cc8cc4":[7,0,0,0,1,3,7,0,0,1,3,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX359 =
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,1,8,8,1],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
-"de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1]
+"de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
+"de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9]
 };

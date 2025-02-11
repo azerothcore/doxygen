@@ -1,6 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a429e55a9de628624ca3406538c5b72f3":[7,0,0,0,1,3,2,1,1,0,4,19],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a461abb41884a3ef6688ddedb03b29f07":[7,0,0,0,1,3,2,1,1,0,4,15],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a46caa76e421265b40e4fbe06bcc49e45":[7,0,0,0,1,3,2,1,1,0,4,7],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a6da96e04fc2fe0322ea5aad590c0191c":[7,0,0,0,1,3,2,1,1,0,4,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX371 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,30,1,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
-"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7]
+"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
+"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b":[7,0,0,0,1,2,15,9,6,4]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,42,28],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa55b91fe768defca1e66253e5907df936":[7,0,0,0,1,3,5,9,2,4,42,18],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa57f7792a48e0f3187e20c30291a0e75f":[7,0,0,0,1,3,5,9,2,4,42,58],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[7,0,0,0,1,3,5,9,2,4,42,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX382 =
 "df/d91/structboss__high__botanist__freywinn.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b":[6,0,513,2],
 "df/d91/structboss__high__botanist__freywinn.html#aeecf6ed56e34cf1d9a552aab82f1f64a":[6,0,513,0],
 "df/d92/LootItemStorage_8h.html":[7,0,0,0,1,2,24,1],
-"df/d92/LootItemStorage_8h.html#a06515a8a4bd76cd02aa0ab99d3d7c64e":[7,0,0,0,1,2,24,1,2]
+"df/d92/LootItemStorage_8h.html#a06515a8a4bd76cd02aa0ab99d3d7c64e":[7,0,0,0,1,2,24,1,2],
+"df/d92/LootItemStorage_8h.html#a06cc23df363d1d767959d7ab5ec29ad5":[7,0,0,0,1,2,24,1,3]
 };

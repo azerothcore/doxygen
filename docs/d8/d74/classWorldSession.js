@@ -497,7 +497,7 @@ var classWorldSession =
     [ "SendBindPoint", "d8/d74/classWorldSession.html#a6959256c9a41e9e833e567f806a554df", null ],
     [ "SendCalendarRaidLockout", "d8/d74/classWorldSession.html#aa371efb78c38b2b9cc8f42327a3b615d", null ],
     [ "SendCalendarRaidLockoutUpdated", "d8/d74/classWorldSession.html#ac12574e7948a0b481b446feb080b4893", null ],
-    [ "SendCancelTrade", "d8/d74/classWorldSession.html#ae207b88d4a46306c621f7ca3fea874fb", null ],
+    [ "SendCancelTrade", "d8/d74/classWorldSession.html#a7a59a673eb7ce09552c0a2113d455346", null ],
     [ "SendCharCreate", "d8/d74/classWorldSession.html#ade144d6b86e2612cbff571638f50809d", null ],
     [ "SendCharCustomize", "d8/d74/classWorldSession.html#a70c69a222cc1e1656961810fa91dfcf2", null ],
     [ "SendCharDelete", "d8/d74/classWorldSession.html#a53e18e97d6204b9e135e4101b7740066", null ],

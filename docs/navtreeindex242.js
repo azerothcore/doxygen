@@ -1,6 +1,5 @@
 var NAVTREEINDEX242 =
 {
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b":[7,0,0,0,1,3,4,29,10,4],
 "d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd":[7,0,0,0,1,3,4,29,10,3],
 "d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423":[7,0,0,0,1,3,4,29,10,2],
 "d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e":[7,0,0,0,1,3,4,29,10,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX242 =
 "d9/df5/classGmTicket.html#a63e060b0ca21bcaed6414594c95b0dc7":[6,0,1090,1],
 "d9/df5/classGmTicket.html#a6459c45f0d15a7a986529f6040e31a15":[6,0,1090,41],
 "d9/df5/classGmTicket.html#a67884c5001ecdc5cc22cfe939757edff":[6,0,1090,37],
-"d9/df5/classGmTicket.html#a6af8aeccb72ac9fc611b91fd3693d29d":[6,0,1090,30]
+"d9/df5/classGmTicket.html#a6af8aeccb72ac9fc611b91fd3693d29d":[6,0,1090,30],
+"d9/df5/classGmTicket.html#a6b378ac66d4958af7198cfeb120239b3":[6,0,1090,44]
 };

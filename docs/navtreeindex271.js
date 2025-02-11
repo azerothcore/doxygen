@@ -1,6 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[6,0,3931,0],
 "db/d23/classspell__warr__retaliation.html#ae786a8c97e9f66152b8d0b55624a4eac":[6,0,3931,4],
 "db/d23/classspell__warr__retaliation.html#aeffb8490a7208ae6e32a505283afbc03":[6,0,3931,2],
 "db/d23/classspell__warr__retaliation.html#af01d160cb2a55124361a2dd113acd0a7":[6,0,3931,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX271 =
 "db/d37/structSearchableAuctionEntryItem.html#a356adde7f6574f697e02e6657f325baa":[6,0,2489,4],
 "db/d37/structSearchableAuctionEntryItem.html#a3fc02342ec2cdd81de7ef378edf30b54":[6,0,2489,0],
 "db/d37/structSearchableAuctionEntryItem.html#a650acd7b902fd4038f1ea384f595b058":[6,0,2489,7],
-"db/d37/structSearchableAuctionEntryItem.html#a73f9647b66aa316bdb97c50a20bc826f":[6,0,2489,6]
+"db/d37/structSearchableAuctionEntryItem.html#a73f9647b66aa316bdb97c50a20bc826f":[6,0,2489,6],
+"db/d37/structSearchableAuctionEntryItem.html#a9184925bad61ad58f35c4e4b3dbccd81":[6,0,2489,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5":[6,0,2671,0],
 "d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a616d1758aa257140f4941fe12ef21e87":[6,0,2671,3],
 "d4/ddc/classspell__commander__sarannis__arcane__devastation.html#aa98346e5f5b23fe016148426a19a719f":[6,0,2671,1],
 "d4/ddc/classspell__commander__sarannis__arcane__devastation.html#ac0edcddf6c38b933c868dbe0535f143a":[6,0,2671,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX138 =
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,7,0,2,1,2],
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,0,2,1,2,3],
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,2,1,2,1],
-"d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,2,1,2,2]
+"d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,2,1,2,2],
+"d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,2,1,2,0]
 };

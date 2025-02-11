@@ -1,6 +1,5 @@
 var NAVTREEINDEX167 =
 {
-"d6/d39/classWorld.html#a3153b7fa5ea82ad6f23454de5741068f":[4,2,11,147],
 "d6/d39/classWorld.html#a31964f041ebc34a0a9db42f9baf37da1":[4,2,11,93],
 "d6/d39/classWorld.html#a338859282584d39a7d19ecd8c808083a":[4,2,11,137],
 "d6/d39/classWorld.html#a34fbfdee7f02094d3c2403b9f2196af6":[4,2,11,127],
@@ -249,5 +248,6 @@ var NAVTREEINDEX167 =
 "d6/d46/classspell__sha__heroism.html":[6,0,3708],
 "d6/d46/classspell__sha__heroism.html#a1374c764b20b95febbca44c593bde218":[6,0,3708,3],
 "d6/d46/classspell__sha__heroism.html#a2eb14ea281b41b08acd4514c01aa938f":[6,0,3708,4],
-"d6/d46/classspell__sha__heroism.html#a76ecb96d27c54b18f3628476dae4cc73":[6,0,3708,0]
+"d6/d46/classspell__sha__heroism.html#a76ecb96d27c54b18f3628476dae4cc73":[6,0,3708,0],
+"d6/d46/classspell__sha__heroism.html#ae53dfd7f60a1c4132c441f7cd1595b95":[6,0,3708,2]
 };

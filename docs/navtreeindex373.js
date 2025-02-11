@@ -1,6 +1,5 @@
 var NAVTREEINDEX373 =
 {
-"df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9":[7,0,0,0,1,3,2,30,9,4],
 "df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea":[7,0,0,0,1,3,2,30,9,9],
 "df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372":[7,0,0,0,1,3,2,30,9,1],
 "df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc":[7,0,0,0,1,3,2,30,9,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX373 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a38adfb6a0f92713841ea1e448b0389e0":[7,0,0,0,1,2,16,5,0,4,6,228],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a39594b3e5d4a74ea1d76b499739087a8":[7,0,0,0,1,2,16,5,0,4,6,22],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a396f4fd6387503fb38a75947a4c4147b":[7,0,0,0,1,2,16,5,0,4,6,188],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3a2144f2983e5062f122329a18828005":[7,0,0,0,1,2,16,5,0,4,6,4]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3a2144f2983e5062f122329a18828005":[7,0,0,0,1,2,16,5,0,4,6,4],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3a5ed3397688c8caacc0318e7ff27200":[7,0,0,0,1,2,16,5,0,4,6,266]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ad6653183f1dda6bfe3659a94993772ab":[6,0,714,0,11],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ad8a8a978402cc32046b67a42621d8d42":[6,0,714,0,21],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae069cec361b187a657a707d6613f32b7":[6,0,714,0,22],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae4ebbccc403bcc3621437a36f8678b93":[6,0,714,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX355 =
 "de/d5e/ObjectAccessor_8cpp.html#a42d065468e6e62b7161ba0c17e1d75ea":[7,0,0,0,1,2,18,0,1],
 "de/d5e/ObjectAccessor_8cpp.html#a8f833a3f02f1e431170dd5d052b0f919":[7,0,0,0,1,2,18,0,3],
 "de/d5e/ObjectAccessor_8cpp.html#a9c5298580060e7a6078ffb5f4008c549":[7,0,0,0,1,2,18,0,4],
-"de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[7,0,0,0,1,2,18,0,5]
+"de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[7,0,0,0,1,2,18,0,5],
+"de/d5e/classnpc__gilthares.html":[6,0,1780]
 };

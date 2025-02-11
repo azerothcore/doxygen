@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d5a/LFGGroupData_8cpp.html":[7,0,0,0,1,2,15,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[5,0,27,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[6,0,9,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[6,0,9,2,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dd/d71/classspell__oculus__stop__time__aura.html#add8e95d38b0c437833c11cded72fe2a7":[6,0,3426,0],
 "dd/d72/classAcore_1_1FriendlyCCedInRange.html":[5,0,1,63],
 "dd/d72/classAcore_1_1FriendlyCCedInRange.html":[6,0,0,51],
-"dd/d72/classAcore_1_1FriendlyCCedInRange.html#a0e241f930cee855664aeac3604d5c023":[6,0,0,51,1]
+"dd/d72/classAcore_1_1FriendlyCCedInRange.html#a0e241f930cee855664aeac3604d5c023":[6,0,0,51,1],
+"dd/d72/classAcore_1_1FriendlyCCedInRange.html#a0e241f930cee855664aeac3604d5c023":[5,0,1,63,1]
 };

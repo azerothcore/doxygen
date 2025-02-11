@@ -1,6 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d26/classBattlefield.html#afbc41a4bc278ed1f252e8bd40e59a32c":[6,0,293,31],
 "d6/d26/classBattlefield.html#afc8d792d012e536def774d003daee784":[6,0,293,57],
 "d6/d26/classGuild_1_1LogEntry.html":[6,0,1226,4],
 "d6/d26/classGuild_1_1LogEntry.html#a1c00aa88973423a1c112c2776a14e78f":[6,0,1226,4,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX165 =
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html":[6,0,1281,0],
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a04956ac678b5bb4367bfeafa1fa9b445":[6,0,1281,0,0],
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a08052ecbfec50a3e84b3fce767c3b6f4":[6,0,1281,0,32],
-"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a0a84225bc53ee6837dcde2d0f02aa2cc":[6,0,1281,0,40]
+"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a0a84225bc53ee6837dcde2d0f02aa2cc":[6,0,1281,0,40],
+"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#a14718f80b43d4163e31dff31354698a7":[6,0,1281,0,52]
 };

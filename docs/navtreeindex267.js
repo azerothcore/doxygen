@@ -1,6 +1,5 @@
 var NAVTREEINDEX267 =
 {
-"da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aa843b8c6ecfc357b9015fdeb299b40e6":[7,0,0,0,1,3,2,15,7,19,15],
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aae44ce363af34fa8b4ea01045f3d403c":[7,0,0,0,1,3,2,15,7,19,14],
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4abe8657b3509fc698b00760023afbf1c9":[7,0,0,0,1,3,2,15,7,19,10],
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4ad3b84027ea4f2bc6fe199fbda54ddab0":[7,0,0,0,1,3,2,15,7,19,19],
@@ -249,5 +248,6 @@ var NAVTREEINDEX267 =
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588abd7331667a5896a5a2c898c7c31f79c2":[7,0,0,0,1,3,5,9,2,2,17,7],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588abf5c14f89901703792d768829442fbbb":[7,0,0,0,1,3,5,9,2,2,17,1],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ac38a4aa36c238cead30d53592912785d":[7,0,0,0,1,3,5,9,2,2,17,16],
-"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ad40e3f03578b068a58f9cb61ba6b779b":[7,0,0,0,1,3,5,9,2,2,17,0]
+"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ad40e3f03578b068a58f9cb61ba6b779b":[7,0,0,0,1,3,5,9,2,2,17,0],
+"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588adfbd3570513c2ecf5945df86c2a41c41":[7,0,0,0,1,3,5,9,2,2,17,13]
 };

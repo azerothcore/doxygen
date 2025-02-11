@@ -1,6 +1,5 @@
 var NAVTREEINDEX91 =
 {
-"d3/d05/classspell__rotface__large__ooze__buff__combine.html#aa579f99f704f4db50b38b5f9b87259d7":[6,0,3669,0],
 "d3/d05/classspell__rotface__large__ooze__buff__combine.html#aeee94330ee7ea9b4fd7447e642404119":[6,0,3669,3],
 "d3/d06/classDBCStorageBase.html":[6,0,940],
 "d3/d06/classDBCStorageBase.html#a0e3e3be24e2404fad11c322190e0e337":[6,0,940,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX91 =
 "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281":[7,0,0,0,1,3,5,15,38],
 "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a1c6a7f86c2818960d6f6f23a4554e39e":[7,0,0,0,1,3,5,15,38,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a281a473ba44c139884440cbe38ad8de0":[7,0,0,0,1,3,5,15,38,6],
-"d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a5d250c4109c407d2861d5982dad55ab0":[7,0,0,0,1,3,5,15,38,3]
+"d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a5d250c4109c407d2861d5982dad55ab0":[7,0,0,0,1,3,5,15,38,3],
+"d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a841c79fce50df768a27cb5f8194de13b":[7,0,0,0,1,3,5,15,38,5]
 };

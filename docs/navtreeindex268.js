@@ -1,6 +1,5 @@
 var NAVTREEINDEX268 =
 {
-"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588adfbd3570513c2ecf5945df86c2a41c41":[7,0,0,0,1,3,5,9,2,2,17,13],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588af048b876a848210f7afe30f88c60f4aa":[7,0,0,0,1,3,5,9,2,2,17,3],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588afb311abc438609a45a38b6ed02ef4f46":[7,0,0,0,1,3,5,9,2,2,17,15],
 "da/df9/boss__auriaya_8cpp.html#a13d7e875845caf98cf62373690834bba":[7,0,0,0,1,3,5,9,2,2,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX268 =
 "db/d0b/structTypeList.html#ac5c6d38e71241055f58984e88368494a":[6,0,4111,0],
 "db/d0b/structboss__ahune.html":[6,0,349],
 "db/d0b/structboss__ahune.html#a2b906881621e59143a916c588beb70e7":[6,0,349,3],
-"db/d0b/structboss__ahune.html#a46b477aef635de1d3ec88baa2465089f":[6,0,349,4]
+"db/d0b/structboss__ahune.html#a46b477aef635de1d3ec88baa2465089f":[6,0,349,4],
+"db/d0b/structboss__ahune.html#a6404a8255566f2eaa061a89025e2bdcd":[6,0,349,2]
 };

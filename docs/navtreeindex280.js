@@ -1,6 +1,5 @@
 var NAVTREEINDEX280 =
 {
-"db/d8b/boss__mechano__lord__capacitus_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bb57123b9cd12b2c3e76ab34e258339":[7,0,0,0,1,3,7,5,3,2,5,5],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#a5bd342133be8c2137b831460acc9298ca7fec1b41346f79e2a3c1a03244c89fa9":[7,0,0,0,1,3,7,5,3,2,5,7],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8081e4f9d58b305e3e4e954911367737":[7,0,0,0,1,3,7,5,3,2,5,0],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#a5bd342133be8c2137b831460acc9298ca85277755ba960ba7144e32a581200ba0":[7,0,0,0,1,3,7,5,3,2,5,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX280 =
 "db/d95/classspell__q12823__remove__collapsing__cave__aura.html#afa4ad1b205bf963b4230881738baf938":[6,0,3603,1],
 "db/d95/eye__of__eternity_8h.html":[7,0,0,0,1,3,5,8,0,1],
 "db/d95/eye__of__eternity_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,0,1,2],
-"db/d95/eye__of__eternity_8h.html#a559a0cc5cb3300bc0fc829fb770893fd":[7,0,0,0,1,3,5,8,0,1,6]
+"db/d95/eye__of__eternity_8h.html#a559a0cc5cb3300bc0fc829fb770893fd":[7,0,0,0,1,3,5,8,0,1,6],
+"db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fd":[7,0,0,0,1,3,5,8,0,1,11]
 };

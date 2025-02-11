@@ -1,6 +1,5 @@
 var NAVTREEINDEX260 =
 {
-"da/db3/boss__thaddius_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9defa7eb680e88ffcb8b46a7b140d0de":[7,0,0,0,1,3,5,7,14,10,0],
 "da/db3/boss__thaddius_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab10a5ccbb4bf0cea9149b1c671d88824":[7,0,0,0,1,3,5,7,14,10,1],
 "da/db3/boss__thaddius_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abe2c3d9c19878f9d00973a41045d0bfd":[7,0,0,0,1,3,5,7,14,10,5],
 "da/db3/boss__thaddius_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae289ec3c92f02c79151c2f74123dcdf0":[7,0,0,0,1,3,5,7,14,10,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX260 =
 "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a78a3e9a6ef289e82c3ccaedc4399607a":[6,0,638,0,7],
 "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#aaed18187aa8e0058c70b29b1ccbe955f":[6,0,638,0,1],
 "da/dbd/classLootScript.html":[6,0,1424],
-"da/dbd/classLootScript.html#a56a57baead49f6815a9979b181a55375":[6,0,1424,2]
+"da/dbd/classLootScript.html#a56a57baead49f6815a9979b181a55375":[6,0,1424,2],
+"da/dbd/classLootScript.html#a57fd5dffc97f62a595f0ff4c2856dbd4":[6,0,1424,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX180 =
 {
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a562f9786bd3b2978337babac1240a22b":[7,0,0,0,1,3,2,12,2,8,2],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9":[7,0,0,0,1,3,2,12,2,8,0],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a748a2f6dc45352eb37327da0aaedc0a2":[7,0,0,0,1,3,2,12,2,8,5],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af":[7,0,0,0,1,3,2,12,2,8,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX180 =
 "d6/df4/classspell__dru__savage__roar.html":[6,0,2785],
 "d6/df4/classspell__dru__savage__roar.html#a191085bc21ce6f5ce1d5b43d6d70f069":[6,0,2785,2],
 "d6/df4/classspell__dru__savage__roar.html#a8ab8394c56201264ac4f2d859dd52092":[6,0,2785,0],
-"d6/df4/classspell__dru__savage__roar.html#acc6d27c8d869ec80ee5794405f6c238a":[6,0,2785,1]
+"d6/df4/classspell__dru__savage__roar.html#acc6d27c8d869ec80ee5794405f6c238a":[6,0,2785,1],
+"d6/df4/classspell__festergut__pungent__blight.html":[6,0,2822]
 };

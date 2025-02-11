@@ -1,6 +1,5 @@
 var NAVTREEINDEX331 =
 {
-"dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac19ae1fe556e9550431bdd7f1f984ac0":[7,0,0,0,1,3,5,0,1,1,5,14],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,0,1,1,5,6],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac84d40b2869575c0552fca376701ef2c":[7,0,0,0,1,3,5,0,1,1,5,5],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac853e2b296604ddbdba385f171046d0b":[7,0,0,0,1,3,5,0,1,1,5,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX331 =
 "dd/dd6/boss__halion_8cpp.html#abc5005c32589bbd3476dfdb8838aaa69":[7,0,0,0,1,3,5,1,1,2,34],
 "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddf":[7,0,0,0,1,3,5,1,1,2,29],
 "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa2ea98117e05bba3b810e8de9d1e6cf3f":[7,0,0,0,1,3,5,1,1,2,29,4],
-"dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa35ed4e2a44ff747f8953376b5dc90390":[7,0,0,0,1,3,5,1,1,2,29,1]
+"dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa35ed4e2a44ff747f8953376b5dc90390":[7,0,0,0,1,3,5,1,1,2,29,1],
+"dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa4ff3d7d7271f8cb2caba11688d679b6a":[7,0,0,0,1,3,5,1,1,2,29,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX235 =
 {
-"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eab564a90178cd4f0459fc631e3552d174":[7,0,0,0,1,3,5,6,13,8,67],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabca4c60af1ea54bd13fc439c2a2f3e15":[7,0,0,0,1,3,5,6,13,8,51],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabd8cb07bb1ef2361d27aa45dcd64c339":[7,0,0,0,1,3,5,6,13,8,52],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabf0fc0bd5f9aa4c410c1f7b5d393434b":[7,0,0,0,1,3,5,6,13,8,63],
@@ -249,5 +248,6 @@ var NAVTREEINDEX235 =
 "d9/d75/classnpc__oculus__drakegiver.html#a650d1cd18700e29328e0fc97b1709f38":[6,0,1957,7],
 "d9/d75/classnpc__oculus__drakegiver.html#a70513d873111c590ca4e33cb446a4438":[6,0,1957,5],
 "d9/d75/classnpc__oculus__drakegiver.html#aa26a2b82c5e4076ce704d5884895d903":[6,0,1957,2],
-"d9/d75/classnpc__oculus__drakegiver.html#ac00d09d2d81121d562e3303704229c18":[6,0,1957,3]
+"d9/d75/classnpc__oculus__drakegiver.html#ac00d09d2d81121d562e3303704229c18":[6,0,1957,3],
+"d9/d75/classnpc__oculus__drakegiver.html#ac8bbe890722aa924a7f0dee161d342c4":[6,0,1957,6]
 };

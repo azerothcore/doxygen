@@ -1,6 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d46/classspell__sha__heroism.html#ae53dfd7f60a1c4132c441f7cd1595b95":[6,0,3708,2],
 "d6/d46/classspell__sha__heroism.html#aeff4dce89b0d893b90571e0ff63e1aaa":[6,0,3708,1],
 "d6/d47/ScriptedGossip_8cpp.html":[7,0,0,0,1,2,3,1,6],
 "d6/d47/ScriptedGossip_8cpp.html#a18599cfc6649557de0d505ed4d4a0210":[7,0,0,0,1,2,3,1,6,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ab8d10846fcb0a9349937fa0859f6d75b":[7,0,0,0,1,2,7,0,1,21,5],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aba7cc0a5cc5ac40ab98e30817d3fc104":[7,0,0,0,1,2,7,0,1,21,2],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ad8a355c8acce70c783fbfadb6c617fc1":[7,0,0,0,1,2,7,0,1,21,10],
-"d6/d4f/BattlefieldWG_8h.html#aaade639b1e417891ffe0be5339623e64":[7,0,0,0,1,2,7,0,1,38]
+"d6/d4f/BattlefieldWG_8h.html#aaade639b1e417891ffe0be5339623e64":[7,0,0,0,1,2,7,0,1,38],
+"d6/d4f/BattlefieldWG_8h.html#aaee111860f98aeceabef50a4ba03891b":[7,0,0,0,1,2,7,0,1,40]
 };

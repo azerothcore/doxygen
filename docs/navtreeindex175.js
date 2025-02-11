@@ -1,6 +1,5 @@
 var NAVTREEINDEX175 =
 {
-"d6/d8d/classspell__dru__moonkin__form__passive__proc.html#ad59ef816bd24f6215cc853386859dbb4":[6,0,2777,1],
 "d6/d8d/classspell__dru__moonkin__form__passive__proc.html#af499437b1af535488792f44c18ad9bf7":[6,0,2777,2],
 "d6/d8d/classspell__q13007__iron__colossus.html":[6,0,3611],
 "d6/d8d/classspell__q13007__iron__colossus.html#a21e9eaf2eea4b46986b8e8b911bd0508":[6,0,3611,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX175 =
 "d6/d9f/classboss__maiden__of__grief.html#af8d2e6392a0c73add801910945b2558e":[6,0,589,2],
 "d6/d9f/classspell__symbol__of__life__dummy.html":[6,0,3770],
 "d6/d9f/classspell__symbol__of__life__dummy.html#a43052fedbec62cfbdbbf24fbfcbca047":[6,0,3770,1],
-"d6/d9f/classspell__symbol__of__life__dummy.html#a7a249dd2bcdccf1a19d151d041a25215":[6,0,3770,2]
+"d6/d9f/classspell__symbol__of__life__dummy.html#a7a249dd2bcdccf1a19d151d041a25215":[6,0,3770,2],
+"d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,3770,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d9/d03/structModelHeader.html#a7607b56b33987a299415a116a24bf088":[6,0,1484,39],
 "d9/d03/structModelHeader.html#a775f1d419ae0a11becfba1b6997d06a3":[6,0,1484,48],
 "d9/d03/structModelHeader.html#a79d8bbe59f8f51fbfde10737007aebc4":[6,0,1484,46],
 "d9/d03/structModelHeader.html#a7e0fc7a04de53f4c5a7d3dddbb529a8e":[6,0,1484,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX228 =
 "d9/d20/classWhoListPlayerInfo.html#a701cf843b5e6cea8385b172ca83e0e15":[6,0,4188,4],
 "d9/d20/classWhoListPlayerInfo.html#a7e25cdf1d9049a84270f9ad5c6ce7107":[6,0,4188,13],
 "d9/d20/classWhoListPlayerInfo.html#a8d82352fc915903769f22532330861eb":[6,0,4188,22],
-"d9/d20/classWhoListPlayerInfo.html#aa18fcdffe693100aacbd345c32641fed":[6,0,4188,0]
+"d9/d20/classWhoListPlayerInfo.html#aa18fcdffe693100aacbd345c32641fed":[6,0,4188,0],
+"d9/d20/classWhoListPlayerInfo.html#aaf1a4d5511681b40c35dfa4a5eca3e11":[6,0,4188,2]
 };

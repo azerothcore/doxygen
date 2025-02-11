@@ -1,6 +1,5 @@
 var NAVTREEINDEX302 =
 {
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#abded7dc13c226ccad53c151d75ced243":[6,0,1319,0,11],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ada64ef9f71d61ea19144cec596ba06e2":[6,0,1319,0,12],
 "dc/d5a/ModelIgnoreFlags_8h.html":[7,0,0,0,0,1,2,2],
 "dc/d5a/ModelIgnoreFlags_8h.html#a3c25bdb4d30c345cd6760935e2c456f4":[7,0,0,0,0,1,2,2,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX302 =
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,30,13,2],
 "dc/d6d/classgo__crystalline__tear.html":[6,0,1112],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1112,1],
-"dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1112,0]
+"dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1112,0],
+"dc/d6d/classspell__dk__dancing__rune__weapon.html":[6,0,2710]
 };

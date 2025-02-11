@@ -1,6 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"da/d3e/BattlegroundIC_8cpp.html":[7,0,0,0,1,2,8,0,10],
 "da/d3e/classspell__blade__dance__targeting.html":[6,0,2614],
 "da/d3e/classspell__blade__dance__targeting.html#a3747ad271dc659436ae7a8203b964554":[6,0,2614,4],
 "da/d3e/classspell__blade__dance__targeting.html#a3da162fd2cafc2e1236db0c6d4f65440":[6,0,2614,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX249 =
 "da/d4c/violet__hold_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,12,9,0],
 "da/d4c/violet__hold_8h.html#a0437b19b38eb7bbfb24325997a21203a":[7,0,0,0,1,3,5,12,9,22],
 "da/d4c/violet__hold_8h.html#a0699cc64e4985a12f33575524379d1a2":[7,0,0,0,1,3,5,12,9,21],
-"da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec":[7,0,0,0,1,3,5,12,9,29]
+"da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec":[7,0,0,0,1,3,5,12,9,29],
+"da/d4c/violet__hold_8h.html#a0bb7365a02c1bb98957103454ceb870f":[7,0,0,0,1,3,5,12,9,32]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX96 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9848d7f776c1ee11664bb2794292514d":[7,0,0,0,1,3,5,9,2,13,63,26],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa23b661f8bc25c865d675b0c1fe63d25":[7,0,0,0,1,3,5,9,2,13,63,0],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa307276dc992f9c99b84172fa531c574":[7,0,0,0,1,3,5,9,2,13,63,4],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa417a735543dfa64f2b610a6b74e4079":[7,0,0,0,1,3,5,9,2,13,63,32],
@@ -249,5 +248,6 @@ var NAVTREEINDEX96 =
 "d3/d43/classspell__gen__aura__service__uniform.html#a64018d24a33565e615c6c2d3eb4810f8":[6,0,2856,1],
 "d3/d43/classspell__gen__aura__service__uniform.html#a77ed6196af0fcf75c6d1071e236f6210":[6,0,2856,4],
 "d3/d43/classspell__gen__aura__service__uniform.html#a9cd1e664cb6ccec5dc897b586203faf1":[6,0,2856,3],
-"d3/d43/classspell__gen__aura__service__uniform.html#aa38abcc9fa49fc2c397edbfff2c0ea0d":[6,0,2856,0]
+"d3/d43/classspell__gen__aura__service__uniform.html#aa38abcc9fa49fc2c397edbfff2c0ea0d":[6,0,2856,0],
+"d3/d43/classspell__gen__aura__service__uniform.html#acb57b284b9d9116b6b0c0a758e09a8d5":[6,0,2856,2]
 };

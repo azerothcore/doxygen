@@ -1,6 +1,5 @@
 var NAVTREEINDEX158 =
 {
-"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a98bf37bdf10fc49149d826ccdad01ede":[7,0,0,0,1,3,7,5,0,0,8,22],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a992d7de926f67e537b090a4550ccee4e":[7,0,0,0,1,3,7,5,0,0,8,19],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a9b7405788e094a604dcd52f769e622a1":[7,0,0,0,1,3,7,5,0,0,8,1],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9aa76e28ada135838a637c65ab2532e544":[7,0,0,0,1,3,7,5,0,0,8,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX158 =
 "d5/dfb/classObjectMgr.html#a0ee7820b6e4fa30a2b0a83ef5d2dd1c6":[6,0,2288,334],
 "d5/dfb/classObjectMgr.html#a0f5cd4f8b63f9909a031f92d22f777f2":[6,0,2288,78],
 "d5/dfb/classObjectMgr.html#a0f9eaccdfb9c38ee97f8215dcf5eebc7":[6,0,2288,206],
-"d5/dfb/classObjectMgr.html#a1034d0ec4cf1c74b099767b5e9b632ef":[6,0,2288,40]
+"d5/dfb/classObjectMgr.html#a1034d0ec4cf1c74b099767b5e9b632ef":[6,0,2288,40],
+"d5/dfb/classObjectMgr.html#a11b0006c2e487ff3e56bf188ce29fcdf":[6,0,2288,29]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[6,0,2083,0,5],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[6,0,2083,0,0],
 "df/d4e/structBfWGCoordGY.html":[6,0,331],
 "df/d4e/structBfWGCoordGY.html#a405e8098772e77250683985f957ce5f3":[6,0,331,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX378 =
 "df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[6,0,2928,0],
 "df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[6,0,2928,1],
 "df/d58/classspell__gen__obsidian__armor.html#ab6e36f24dea949c8cedaaed0d5fa9517":[6,0,2928,4],
-"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,2928,3]
+"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,2928,3],
+"df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[6,0,2928,2]
 };

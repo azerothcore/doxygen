@@ -1,6 +1,5 @@
 var NAVTREEINDEX237 =
 {
-"d9/d86/classspell__winter__veil__racer__slam__hit.html":[6,0,3943],
 "d9/d86/classspell__winter__veil__racer__slam__hit.html#a0ecf5662d9cc1296ebdac82233f1fe7c":[6,0,3943,1],
 "d9/d86/classspell__winter__veil__racer__slam__hit.html#a3d22cc828a2aa59d45e5d648161926fd":[6,0,3943,0],
 "d9/d86/classspell__winter__veil__racer__slam__hit.html#aee5d9189b6df318b57e919511a185a99":[6,0,3943,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX237 =
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#ad92ac599589bdd8b7c3aa055b451f0cf":[6,0,1303,0,10],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#aefcf3beb1d5da118c80d3af9eb21ec99":[6,0,1303,0,15],
 "d9/d94/boss__eviscerator_8cpp.html":[7,0,0,0,1,3,2,1,0,5],
-"d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,5,2]
+"d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,5,2],
+"d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9920244895e362fd1d3b8789ac5f5811":[7,0,0,0,1,3,2,1,0,5,2,0]
 };

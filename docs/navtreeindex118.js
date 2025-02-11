@@ -1,6 +1,5 @@
 var NAVTREEINDEX118 =
 {
-"d4/d0f/structLinkValidator_3_01LinkTags_1_1spell_01_4.html#a54af0b68fa7891adbc3001c74e251ea1":[6,0,1400,1],
 "d4/d0f/structLinkValidator_3_01LinkTags_1_1spell_01_4.html#a816b3afba97af88a04cd5a724e9b663c":[6,0,1400,0],
 "d4/d10/structAcoreString.html":[6,0,121],
 "d4/d10/structAcoreString.html#a1987f2c29c82d8a140bfa8cadcae53d7":[6,0,121,0],
@@ -95,8 +94,8 @@ var NAVTREEINDEX118 =
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,30,2,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[6,0,11,2,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[5,0,30,2,0,1],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#afde854fc17313d214fa0f0cdc48ca9a9":[6,0,11,2,0,2],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#afde854fc17313d214fa0f0cdc48ca9a9":[5,0,30,2,0,2],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#afde854fc17313d214fa0f0cdc48ca9a9":[6,0,11,2,0,2],
 "d4/d1b/classspell__dru__innervate.html":[6,0,2772],
 "d4/d1b/classspell__dru__innervate.html#a66fd870eff0f2a225630e26047d36225":[6,0,2772,0],
 "d4/d1b/classspell__dru__innervate.html#a8e5b9dd71dfccb224e92784725f2a8a9":[6,0,2772,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX118 =
 "d4/d1e/halls__of__reflection_8h.html#a71d71556e4e43bbc72dd63881602b048":[7,0,0,0,1,3,5,4,1,3,29],
 "d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6a":[7,0,0,0,1,3,5,4,1,3,11],
 "d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6aa1afcee1b424925d99c5a918c9367828b":[7,0,0,0,1,3,5,4,1,3,11,0],
-"d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6aa7d0ea77278f7909d42f73d96c0364e62":[7,0,0,0,1,3,5,4,1,3,11,1]
+"d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6aa7d0ea77278f7909d42f73d96c0364e62":[7,0,0,0,1,3,5,4,1,3,11,1],
+"d4/d1e/halls__of__reflection_8h.html#a780f9e55e937224a9e5338267a3cbe14":[7,0,0,0,1,3,5,4,1,3,17]
 };

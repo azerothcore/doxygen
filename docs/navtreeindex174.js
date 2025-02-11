@@ -1,6 +1,5 @@
 var NAVTREEINDEX174 =
 {
-"d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46a4e671a3bddd9faf3cfb9c3fab7198afb":[7,0,0,0,1,3,5,7,16,5,34],
 "d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46a626635c52b11f06d007452a9845f06d1":[7,0,0,0,1,3,5,7,16,5,27],
 "d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46a62bf6a0a3b6ed10194f936a5b0d04faa":[7,0,0,0,1,3,5,7,16,5,25],
 "d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46a6c2237b53675c58e6ef64bd41ed5818f":[7,0,0,0,1,3,5,7,16,5,19],
@@ -249,5 +248,6 @@ var NAVTREEINDEX174 =
 "d6/d8c/classspell__icc__geist__alarm.html#a7936a64a1142a47b2addfd746dccfcef":[6,0,3077,0],
 "d6/d8c/classspell__icc__geist__alarm.html#a89364583504d2eaa75473586850bc3d5":[6,0,3077,2],
 "d6/d8d/classspell__dru__moonkin__form__passive__proc.html":[6,0,2777],
-"d6/d8d/classspell__dru__moonkin__form__passive__proc.html#a67f31710f6a3e843b9d3539710100898":[6,0,2777,0]
+"d6/d8d/classspell__dru__moonkin__form__passive__proc.html#a67f31710f6a3e843b9d3539710100898":[6,0,2777,0],
+"d6/d8d/classspell__dru__moonkin__form__passive__proc.html#ad59ef816bd24f6215cc853386859dbb4":[6,0,2777,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX263 =
 {
-"da/dbf/Player_8h.html#aeba4f8d5fc0fa3fd00538df69077ba55a1a8411f74fdb6a5715ed8cfca6b96a50":[7,0,0,0,1,2,16,7,5,124,3],
 "da/dbf/Player_8h.html#aeba4f8d5fc0fa3fd00538df69077ba55a3d895d03802b444cce65a8021262a638":[7,0,0,0,1,2,16,7,5,124,0],
 "da/dbf/Player_8h.html#aeba4f8d5fc0fa3fd00538df69077ba55a598b808ff4ad6c853b4a3b0474944bfc":[7,0,0,0,1,2,16,7,5,124,1],
 "da/dbf/Player_8h.html#aeba4f8d5fc0fa3fd00538df69077ba55ab6092cbafa41540e9b6318f88eed9285":[7,0,0,0,1,2,16,7,5,124,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX263 =
 "da/dd3/structMovementGeneratorFactory.html#af3a494507c8d910bd98bb0989d42ba6f":[6,0,1495,1],
 "da/dd6/structboss__broggok.html":[6,0,386],
 "da/dd6/structboss__broggok.html#a084e3c37a0218d47c8e39b196fc6746a":[6,0,386,2],
-"da/dd6/structboss__broggok.html#a0bf2d75f7889542a9e48689b8d080a1e":[6,0,386,3]
+"da/dd6/structboss__broggok.html#a0bf2d75f7889542a9e48689b8d080a1e":[6,0,386,3],
+"da/dd6/structboss__broggok.html#ae20c04793116d3e8eab62d2ee27010df":[6,0,386,0]
 };

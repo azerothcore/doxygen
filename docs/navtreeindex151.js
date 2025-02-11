@@ -1,6 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"d5/da7/structnpc__hover__disk_1_1npc__hover__diskAI.html#a130a40916bb42945531b02d2f3385ece":[6,0,1826,0,5],
 "d5/da7/structnpc__hover__disk_1_1npc__hover__diskAI.html#a1ee618b8e6393437f0e4193fc57725f3":[6,0,1826,0,0],
 "d5/da7/structnpc__hover__disk_1_1npc__hover__diskAI.html#a5141cd8297bf3dc67ce9195867a4152c":[6,0,1826,0,8],
 "d5/da7/structnpc__hover__disk_1_1npc__hover__diskAI.html#a5213e9b9a750e53b83621cd981741773":[6,0,1826,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX151 =
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ac18d753a8273ee2e7491ed505496187c":[7,0,0,0,1,2,8,0,21,7,1],
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad5f2e0d93cca63d1851913e2f2106084":[7,0,0,0,1,2,8,0,21,7,4],
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad67a39572196019af2aa979a9c5929e2":[7,0,0,0,1,2,8,0,21,7,8],
-"d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad8e1321f07d95c44c6485983e9bad69d":[7,0,0,0,1,2,8,0,21,7,10]
+"d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad8e1321f07d95c44c6485983e9bad69d":[7,0,0,0,1,2,8,0,21,7,10],
+"d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86af6a0024c110d5588d483c36f0e1b4f8c":[7,0,0,0,1,2,8,0,21,7,11]
 };

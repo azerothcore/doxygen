@@ -1,6 +1,5 @@
 var NAVTREEINDEX261 =
 {
-"da/dbd/classLootScript.html#a57fd5dffc97f62a595f0ff4c2856dbd4":[6,0,1424,0],
 "da/dbd/classLootScript.html#ad60b605eac89be48efd339127e9cb9cd":[6,0,1424,1],
 "da/dbd/structPlayerCreateInfoItem.html":[6,0,2373],
 "da/dbd/structPlayerCreateInfoItem.html#a2cc481d54ec0c8a58477803364f40b2a":[6,0,2373,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX261 =
 "da/dbf/Player_8h.html#a54991a2b7a7195de0963e7133d320655ab475b83af4b838bb80cfc45e83d16419":[7,0,0,0,1,2,16,7,5,98,3],
 "da/dbf/Player_8h.html#a54991a2b7a7195de0963e7133d320655af36236abe76e2b86c45cc165a74a06b0":[7,0,0,0,1,2,16,7,5,98,2],
 "da/dbf/Player_8h.html#a55fbc0250544fd9279ce898ab7c99f97":[7,0,0,0,1,2,16,7,5,66],
-"da/dbf/Player_8h.html#a5762ddb9f9cc6b6a6f8fb2669f6398a3":[7,0,0,0,1,2,16,7,5,50]
+"da/dbf/Player_8h.html#a5762ddb9f9cc6b6a6f8fb2669f6398a3":[7,0,0,0,1,2,16,7,5,50],
+"da/dbf/Player_8h.html#a58b30b88955cb12b1f6441e41eed03b5":[7,0,0,0,1,2,16,7,5,75]
 };

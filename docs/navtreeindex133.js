@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"d4/da8/classadt__MCLQ.html#a9a2576f7b8923089b3b6020d4f8d97fc":[6,0,133,4],
 "d4/da8/classadt__MCLQ.html#aa3f6e6de7453b4a1acc7dfe4c83eac69":[6,0,133,2],
 "d4/da8/classadt__MCLQ.html#aae29940e6fdf046f9a29cf519ef61936":[6,0,133,8],
 "d4/da8/classadt__MCLQ.html#ab0181729f82eb0f02da5cb95ec48cda1":[6,0,133,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html":[6,0,1595,0],
 "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#a7cc5ea88be6c9cf767a0cd433db7dd73":[6,0,1595,0,2],
 "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#aabe921f0d4fd147c457779791a7af619":[6,0,1595,0,1],
-"d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#ac3c4d2be0dd9ba42e40adccda7100947":[6,0,1595,0,4]
+"d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#ac3c4d2be0dd9ba42e40adccda7100947":[6,0,1595,0,4],
+"d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#ace0fdd5e4b57e7ce603d2355bfc838dd":[6,0,1595,0,3]
 };

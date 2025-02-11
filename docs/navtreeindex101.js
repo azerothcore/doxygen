@@ -1,6 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d3/d7d/classMovementGenerator.html#a0f9c4fd52947688dcda1161924e829bb":[6,0,1494,9],
 "d3/d7d/classMovementGenerator.html#a13c3c432ac2a91dd4d07b090ec06b903":[6,0,1494,0],
 "d3/d7d/classMovementGenerator.html#a37530e5cd743faecabd21eba08dce939":[6,0,1494,6],
 "d3/d7d/classMovementGenerator.html#a51988a8b0a45459242467e38ca46303c":[6,0,1494,8],
@@ -22,8 +21,8 @@ var NAVTREEINDEX101 =
 "d3/d7d/structNonTankTargetSelector.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce":[6,0,1531,0],
 "d3/d7f/namespaceadvstd.html":[5,0,4],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,8],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX101 =
 "d3/d83/classCircleBoundary.html#acbb3cc0c546f0e557a48a45425355950":[6,0,860,4],
 "d3/d83/classCircleBoundary.html#ad8eef3c2c98ee71a7d28d1e5d93ee508":[6,0,860,2],
 "d3/d83/classGridLoader.html":[6,0,1199],
-"d3/d83/classspell__algalon__remove__phase__aura.html":[6,0,2556]
+"d3/d83/classspell__algalon__remove__phase__aura.html":[6,0,2556],
+"d3/d83/classspell__algalon__remove__phase__aura.html#a14fd25f78c9e2bfbdaeb07f3233628b6":[6,0,2556,0]
 };

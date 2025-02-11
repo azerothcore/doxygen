@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/df4/classspell__festergut__pungent__blight.html":[6,0,2822],
 "d6/df4/classspell__festergut__pungent__blight.html#a5fe0b684473bd5dd1ff9b12432ff3de8":[6,0,2822,0],
 "d6/df4/classspell__festergut__pungent__blight.html#a7edb44f70501c2e760d29c8f78a4e087":[6,0,2822,3],
 "d6/df4/classspell__festergut__pungent__blight.html#ab1d81386ae3ccd332c01864d7f456017":[6,0,2822,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX181 =
 "d7/d05/boss__gorosh__the__dervish_8cpp.html#ab4d1592137d12427d186be538badd18bab3a547541dd680c330a5c661cd77545f":[7,0,0,0,1,3,2,1,0,7,3,1],
 "d7/d05/classgo__ossirian__crystal.html":[6,0,1144],
 "d7/d05/classgo__ossirian__crystal.html#a2f7b12eddc6504917614913e347ec0a0":[6,0,1144,2],
-"d7/d05/classgo__ossirian__crystal.html#a783f0f0570ee0f667920e29613b565b2":[6,0,1144,1]
+"d7/d05/classgo__ossirian__crystal.html#a783f0f0570ee0f667920e29613b565b2":[6,0,1144,1],
+"d7/d05/classnpc__orb__carrier.html":[6,0,1963]
 };

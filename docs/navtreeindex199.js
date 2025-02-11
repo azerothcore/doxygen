@@ -1,6 +1,5 @@
 var NAVTREEINDEX199 =
 {
-"d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,6,6],
 "d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5c1455269f8b3c292743c460d0a7ad0d":[7,0,0,0,1,3,5,12,6,6,2],
 "d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6b0de37cbb06e1c1747c0a25eb04e98c":[7,0,0,0,1,3,5,12,6,6,1],
 "d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa789066f4f1549df8b43a7e090761d37":[7,0,0,0,1,3,5,12,6,6,3],
@@ -154,7 +153,6 @@ var NAVTREEINDEX199 =
 "d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[6,0,1448,86],
 "d7/db0/classMap.html#a97f29654e5c2219b6f68f98b566e534e":[6,0,1448,37],
 "d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a":[6,0,1448,147],
-"d7/db0/classMap.html#a98c7c2a2616e3069e8f2c2ac3f47f9fc":[6,0,1448,186],
 "d7/db0/classMap.html#a98ef9f7412045ae5124bd5cb7b65868a":[6,0,1448,160],
 "d7/db0/classMap.html#a9a5750b1e364dd62e13206915ed4fc89":[6,0,1448,4],
 "d7/db0/classMap.html#a9a5cc62529de66a22ec559dc5a2593c6":[6,0,1448,267],
@@ -178,6 +176,7 @@ var NAVTREEINDEX199 =
 "d7/db0/classMap.html#aad4660ab136a74469c5cf790d932391f":[6,0,1448,120],
 "d7/db0/classMap.html#aae3a929aefb05046ef304ffba10aae71":[6,0,1448,125],
 "d7/db0/classMap.html#aae6ae9e8b45a9da8e8808a3c91806c72":[6,0,1448,31],
+"d7/db0/classMap.html#aaf74a176fa4d0ccccfa114af19d43057":[6,0,1448,186],
 "d7/db0/classMap.html#ab0a79643b1fe6ea70e028cc0a65a60e6":[6,0,1448,207],
 "d7/db0/classMap.html#ab3102061629ab8c3375a9260d844064e":[6,0,1448,150],
 "d7/db0/classMap.html#ab5a0895b07c01085feb62dade7a9e888":[6,0,1448,243],
@@ -249,5 +248,6 @@ var NAVTREEINDEX199 =
 "d7/db0/classMap.html#ae70896defa5eb020eaf5e387d8fcd963":[6,0,1448,35],
 "d7/db0/classMap.html#ae759ebefcfc853ac1e057f18cae43da6":[6,0,1448,213],
 "d7/db0/classMap.html#ae8c9569cce6839eec70f7cccfa49c389":[6,0,1448,49],
-"d7/db0/classMap.html#ae9af486229f55ffc58fb8d908b203771":[6,0,1448,63]
+"d7/db0/classMap.html#ae9af486229f55ffc58fb8d908b203771":[6,0,1448,63],
+"d7/db0/classMap.html#ae9f3e5261fbe241735938523f70adf10":[6,0,1448,228]
 };

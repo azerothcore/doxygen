@@ -1,6 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d58/classspell__load__into__catapult__aura.html#a788480ec4aaa57e643f55daca17c6ded":[6,0,3316,2],
 "d6/d58/classspell__load__into__catapult__aura.html#ab967233994aa3ff07b272f010b2c1545":[6,0,3316,1],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html":[6,0,3429],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html#a1654fec971696e613b5102b3ca5030f1":[6,0,3429,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX170 =
 "d6/d66/classGameObjectAI.html#ad1f196822d40d0fb7325d8945a3e30dc":[6,0,1060,11],
 "d6/d66/classGameObjectAI.html#ad6552cf333273f5c68ffc936748b8e46":[6,0,1060,7],
 "d6/d66/classGameObjectAI.html#ad8b835bdd79598da6683c40501df5903":[6,0,1060,10],
-"d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c":[6,0,1060,19]
+"d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c":[6,0,1060,19],
+"d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[6,0,1060,15]
 };

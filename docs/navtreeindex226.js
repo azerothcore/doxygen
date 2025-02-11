@@ -1,6 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/df3/classspell__marrowgar__coldflame.html#abeb703f8f050677bafb8f5ce4173751a":[6,0,3372,0],
 "d8/df3/classspell__marrowgar__coldflame.html#ae8eb94536a9f08138b42cfe8ea711eaa":[6,0,3372,3],
 "d8/df3/structSkillStatusData.html":[6,0,2518],
 "d8/df3/structSkillStatusData.html#a232801ad25897a82739916d5be4fdc22":[6,0,2518,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX226 =
 "d8/dff/structCalendarEvent.html#aa10c3956af3ba9ad7a7599e439e386a5":[6,0,816,35],
 "d8/dff/structCalendarEvent.html#abbf9d3e9a984bc2a666f39d26e2b0b18":[6,0,816,22],
 "d8/dff/structCalendarEvent.html#aca67561141854ee8d9ac11258dec92c5":[6,0,816,8],
-"d8/dff/structCalendarEvent.html#acd5bdd13096df09cf46824601f6c4402":[6,0,816,14]
+"d8/dff/structCalendarEvent.html#acd5bdd13096df09cf46824601f6c4402":[6,0,816,14],
+"d8/dff/structCalendarEvent.html#acf06b49619c9ca1c27ee473ff295f848":[6,0,816,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX315 =
 {
-"dd/d19/classspell__uldaman__stoned__aura.html#a99b97b2ed12d73e417af0b970c2a9645":[6,0,3843,3],
 "dd/d19/classspell__uldaman__stoned__aura.html#afd47748c7db2e0a5b7da2e18dc7b53ec":[6,0,3843,0],
 "dd/d19/structnpc__time__rift.html":[6,0,2141],
 "dd/d19/structnpc__time__rift.html#a12ffd459f8d63f299269da5b65f60128":[6,0,2141,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX315 =
 "dd/d27/classOPvPCapturePointTF.html#ad8ec5b055da6a7d34b8db0e8a75e65c8":[6,0,2303,2],
 "dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe":[6,0,2303,3],
 "dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[6,0,2303,0],
-"dd/d27/structSmartAction.html":[6,0,2522]
+"dd/d27/structSmartAction.html":[6,0,2522],
+"dd/d27/structSmartAction.html#a04edfa2e3b414ef277740131dfe23055":[6,0,2522,292]
 };

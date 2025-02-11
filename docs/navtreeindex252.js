@@ -1,6 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"da/d64/PlayerUpdates_8cpp.html#aa890f698ac89e4049e1107c05d065495":[7,0,0,0,1,2,16,7,14,2],
 "da/d64/PlayerUpdates_8cpp.html#ac411c559a97e183268339b1ea63a84b6":[7,0,0,0,1,2,16,7,14,6],
 "da/d64/PlayerUpdates_8cpp.html#ad103e97f7db0cfd188ab64f5748c7464":[7,0,0,0,1,2,16,7,14,9],
 "da/d64/PlayerUpdates_8cpp.html#afabbcd46bf6f03c5dca10b117810b710":[7,0,0,0,1,2,16,7,14,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX252 =
 "da/d72/MovementGenerator_8h.html#aa270c1b96e4671274975a07340ba687a":[7,0,0,0,1,2,31,9,4],
 "da/d72/MovementGenerator_8h.html#ae78e82cd7b1aea7744a0dbb2e65f8e79":[7,0,0,0,1,2,31,9,6],
 "da/d72/MovementGenerator_8h.html#ae7a6c44762ef974149bfb8d00247a013":[7,0,0,0,1,2,31,9,5],
-"da/d72/structboss__krosh__firehand.html":[6,0,567]
+"da/d72/structboss__krosh__firehand.html":[6,0,567],
+"da/d72/structboss__krosh__firehand.html#a1ef3618844f086de7875f26e7e6190f9":[6,0,567,0]
 };

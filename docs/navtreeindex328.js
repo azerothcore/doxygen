@@ -1,6 +1,5 @@
 var NAVTREEINDEX328 =
 {
-"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78":[7,0,0,0,1,3,5,23,27,1],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65":[7,0,0,0,1,3,5,23,27,3],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10":[7,0,0,0,1,3,5,23,27,2],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef":[7,0,0,0,1,3,5,23,27,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX328 =
 "dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06ad734973ee3e79047d5fcadb7c6d6428c":[7,0,0,0,1,3,7,2,2,4,4,1],
 "dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06afe2fb20f4fb31e316e0f9425ae4b64e6":[7,0,0,0,1,3,7,2,2,4,4,2],
 "dd/dc6/steam__vault_8h.html#a503807dfd03f05e95a9435b32165c0af":[7,0,0,0,1,3,7,2,2,4,1],
-"dd/dc6/steam__vault_8h.html#a5b5ca0ae07e92e9cad54568049f06fce":[7,0,0,0,1,3,7,2,2,4,0]
+"dd/dc6/steam__vault_8h.html#a5b5ca0ae07e92e9cad54568049f06fce":[7,0,0,0,1,3,7,2,2,4,0],
+"dd/dc6/steam__vault_8h.html#a6a1d2eaeba2f5b18237dce73ae578a1c":[7,0,0,0,1,3,7,2,2,4,5]
 };

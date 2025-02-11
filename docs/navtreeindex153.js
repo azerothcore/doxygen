@@ -1,6 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240":[7,0,0,0,1,2,8,5,4,1],
 "d5/dba/classspell__magtheridon__shadow__grasp__visual.html":[6,0,3355],
 "d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a094004ccf6b4cae4d27bca639b76b899":[6,0,3355,3],
 "d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a34d09e48b69d32dae6c127fa0837be4b":[6,0,3355,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX153 =
 "d5/dc7/classnpc__cairne__bloodhoof.html#a1c34470c46ae9e98684de0e786be28b7":[6,0,1641,2],
 "d5/dc7/classnpc__cairne__bloodhoof.html#a3519d94c5fcdc3d55e31c49c7773e56c":[6,0,1641,1],
 "d5/dc7/instance__zulgurub_8cpp.html":[7,0,0,0,1,3,2,16,13],
-"d5/dc7/instance__zulgurub_8cpp.html#a224e147b1990c0996e0ac61a1865e34c":[7,0,0,0,1,3,2,16,13,4]
+"d5/dc7/instance__zulgurub_8cpp.html#a224e147b1990c0996e0ac61a1865e34c":[7,0,0,0,1,3,2,16,13,4],
+"d5/dc7/instance__zulgurub_8cpp.html#a352683729da59da9923d0f67d510f73c":[7,0,0,0,1,3,2,16,13,8]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"d5/dfb/classObjectMgr.html#aae5dd401627f5f4cb92572ede8b65043":[6,0,2288,44],
 "d5/dfb/classObjectMgr.html#aaf21d0630b3e53ec12ae84a9b1dd68b8":[6,0,2288,316],
 "d5/dfb/classObjectMgr.html#ab060832b1d17ae8ac52b6e686427d041":[6,0,2288,375],
 "d5/dfb/classObjectMgr.html#ab1a5a5875c2a874984395044bf3ea158":[6,0,2288,156],
@@ -249,5 +248,6 @@ var NAVTREEINDEX160 =
 "d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a0f6e6c6892d56a6fceb927f68c734bde":[6,0,3578,3],
 "d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b":[6,0,3578,1],
 "d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79":[6,0,3578,0],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3578,2]
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3578,2],
+"d6/d06/temple__of__ahnqiraj_8h.html":[7,0,0,0,1,3,4,9,12]
 };

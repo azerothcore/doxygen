@@ -1,6 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b":[7,0,0,0,1,3,9,6,27,39],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,6,27,41],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a":[7,0,0,0,1,3,9,6,27,3],
 "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437":[7,0,0,0,1,3,9,6,28],
@@ -249,5 +248,6 @@ var NAVTREEINDEX270 =
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165":[7,0,0,0,0,1,0,1,7,2],
 "db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316":[7,0,0,0,0,1,0,1,4],
 "db/d23/classspell__warr__retaliation.html":[6,0,3931],
-"db/d23/classspell__warr__retaliation.html#a5436413d098dde4b0fa1ed2259a47779":[6,0,3931,3]
+"db/d23/classspell__warr__retaliation.html#a5436413d098dde4b0fa1ed2259a47779":[6,0,3931,3],
+"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[6,0,3931,0]
 };

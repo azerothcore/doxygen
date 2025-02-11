@@ -1,6 +1,5 @@
 var NAVTREEINDEX277 =
 {
-"db/d7a/structItemLocale.html#a787ca2c05ddac7ee5c3a5c28a02b8494":[6,0,1363,1],
 "db/d7b/DBCDatabaseLoader_8cpp.html":[7,0,0,0,1,4,0,0],
 "db/d7b/classItemScript.html":[6,0,1367],
 "db/d7b/classItemScript.html#a08a73378706fdfb0cee5e6214060ad1b":[6,0,1367,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX277 =
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a716c582d7dd92f72c5c448370ee92da2":[7,0,0,0,1,3,5,8,0,0,28,16],
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a7b032d61ea97aa0edcf124be5cb55c1d":[7,0,0,0,1,3,5,8,0,0,28,21],
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a8022f67dfcc4b6382ef6b74db224ebb8":[7,0,0,0,1,3,5,8,0,0,28,8],
-"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a82faceee7cce77b1a08257a4eb71440f":[7,0,0,0,1,3,5,8,0,0,28,10]
+"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a82faceee7cce77b1a08257a4eb71440f":[7,0,0,0,1,3,5,8,0,0,28,10],
+"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a9e72b3c1445ef263bb753e77e2eec599":[7,0,0,0,1,3,5,8,0,0,28,13]
 };

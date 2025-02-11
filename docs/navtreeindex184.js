@@ -1,6 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1268,1],
 "d7/d23/structboss__magus__telestra.html":[6,0,588],
 "d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[6,0,588,10],
 "d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[6,0,588,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX184 =
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca50ad689b2f503dce3a43384f6a4b3267":[7,0,0,0,1,3,5,6,8,19,18],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[7,0,0,0,1,3,5,6,8,19,0],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298caba1e6515747bf8031d80a79c33bf0969":[7,0,0,0,1,3,5,6,8,19,9],
-"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298cabf5964d8547068bb4af165c9a81cd2e4":[7,0,0,0,1,3,5,6,8,19,4]
+"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298cabf5964d8547068bb4af165c9a81cd2e4":[7,0,0,0,1,3,5,6,8,19,4],
+"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298cac4e03f3e6d6650e974e1ad899dfb2d56":[7,0,0,0,1,3,5,6,8,19,17]
 };

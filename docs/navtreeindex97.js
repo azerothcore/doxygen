@@ -1,6 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d43/classspell__gen__aura__service__uniform.html#acb57b284b9d9116b6b0c0a758e09a8d5":[6,0,2856,2],
 "d3/d43/classspell__pos__blight__aura.html":[6,0,3473],
 "d3/d43/classspell__pos__blight__aura.html#a008166d25e7a278507e953325f40ccd5":[6,0,3473,1],
 "d3/d43/classspell__pos__blight__aura.html#a3fc78060f881262c59151b6eb6a943f8":[6,0,3473,3],
@@ -212,12 +211,12 @@ var NAVTREEINDEX97 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1017,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1017,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1017,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,30,6,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,6,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3380],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3380,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3380,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX97 =
 "d3/d57/classspell__random__aggro.html#a710f2a60bf6ae00909d279b98ac6b7d6":[6,0,3637,2],
 "d3/d57/classspell__random__aggro.html#a76b09288d14d399735250607e2105eb3":[6,0,3637,0],
 "d3/d5b/classLichKingDeathEvent.html":[6,0,1389],
-"d3/d5b/classLichKingDeathEvent.html#a06b9a77d3c5efb228368a1e423a620ae":[6,0,1389,1]
+"d3/d5b/classLichKingDeathEvent.html#a06b9a77d3c5efb228368a1e423a620ae":[6,0,1389,1],
+"d3/d5b/classLichKingDeathEvent.html#a75ccb1b2bd5a8149aff85404b5e0ce21":[6,0,1389,2]
 };

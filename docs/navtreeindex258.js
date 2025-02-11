@@ -1,6 +1,5 @@
 var NAVTREEINDEX258 =
 {
-"da/d98/instance__sethekk__halls_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,0,2,3,5],
 "da/d98/instance__sethekk__halls_8cpp.html#aa1fc295d418ed62b1c08ea6d11e111e3":[7,0,0,0,1,3,7,0,2,3,3],
 "da/d99/classBattlegroundMapScript.html":[6,0,312],
 "da/d99/classBattlegroundMapScript.html#a0148a79556f82c990fe0fc494d03c7ab":[6,0,312,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX258 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a291915ace633b26b8dce599d6e9ee70dafe9c76701fdd7f4c9ee827d727255719":[7,0,0,0,1,3,7,13,47,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a310a37ec148e2e37c1123f9ced34020f":[7,0,0,0,1,3,7,13,35],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a4154053cb93b323fc74dd05d04a20d7e":[7,0,0,0,1,3,7,13,34],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a49b9a0d378851fc27feacce144995fc1":[7,0,0,0,1,3,7,13,51]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a49b9a0d378851fc27feacce144995fc1":[7,0,0,0,1,3,7,13,51],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2f":[7,0,0,0,1,3,7,13,37]
 };

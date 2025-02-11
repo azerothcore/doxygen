@@ -1,6 +1,5 @@
 var NAVTREEINDEX172 =
 {
-"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caada7304645dc19675f744513cf22eb68":[7,0,0,0,1,3,5,8,2,3,7,6],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cab60913d01b07dbe2eb963ef4c52c6ccd":[7,0,0,0,1,3,5,8,2,3,7,2],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cabc56841947e95a75399043840b1afc88":[7,0,0,0,1,3,5,8,2,3,7,17],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cac568bb3333987a7d2d4a3f1d1f860a7f":[7,0,0,0,1,3,5,8,2,3,7,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX172 =
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cb":[6,0,4127,9],
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4":[6,0,4127,9,1],
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a":[6,0,4127,9,0],
-"d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8":[6,0,4127,9,3]
+"d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8":[6,0,4127,9,3],
+"d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4":[6,0,4127,9,2]
 };

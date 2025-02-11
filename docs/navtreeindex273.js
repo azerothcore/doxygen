@@ -1,6 +1,5 @@
 var NAVTREEINDEX273 =
 {
-"db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,8,4,9],
 "db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6e9ad9b4da35ddb2c277c0f133c846c0":[7,0,0,0,1,3,4,8,4,9,0],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,8,4,10],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca0990e77dc4c2e45052288cf86c835736":[7,0,0,0,1,3,4,8,4,10,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX273 =
 "db/d5a/classnpc__sinkhole__kill__credit.html#a4d734432f132bea2c4525d049fbcfa67":[6,0,2083,2],
 "db/d5a/classnpc__sinkhole__kill__credit.html#a627d01aaaa3408986f2b4d171624e680":[6,0,2083,1],
 "db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html":[6,0,2365,0],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[6,0,2365,0,0]
+"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[6,0,2365,0,0],
+"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a5efaf8479d7afb8c24e7f3389ad9c8cf":[6,0,2365,0,1]
 };

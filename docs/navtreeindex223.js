@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/dd6/DBCfmt_8h.html#a80a9b3c3eda13a8ef3b8f5193f84b016":[7,0,0,0,1,4,0,3,58],
 "d8/dd6/DBCfmt_8h.html#a80bc2498b780d6b3bb628300305ae900":[7,0,0,0,1,4,0,3,103],
 "d8/dd6/DBCfmt_8h.html#a81ec700b34b76772ade19900d83ab8f7":[7,0,0,0,1,4,0,3,33],
 "d8/dd6/DBCfmt_8h.html#a82005783b0058ee75e142aadf0404944":[7,0,0,0,1,4,0,3,102],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a45a304b8dfba9d442913fc1a33c1b239":[7,0,0,0,1,3,5,6,7,30],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,7,32],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea83153fb4fea4c966c7ab9403e3084b89":[7,0,0,0,1,3,5,6,7,32,3],
-"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea9cd0b8a7b2129669204159b13ed947e4":[7,0,0,0,1,3,5,6,7,32,1]
+"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea9cd0b8a7b2129669204159b13ed947e4":[7,0,0,0,1,3,5,6,7,32,1],
+"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eab8f0405f877cd4ac00fcbb41afa69f21":[7,0,0,0,1,3,5,6,7,32,0]
 };

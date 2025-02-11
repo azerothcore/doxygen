@@ -1,6 +1,5 @@
 var NAVTREEINDEX229 =
 {
-"d9/d20/classWhoListPlayerInfo.html#aaf1a4d5511681b40c35dfa4a5eca3e11":[6,0,4188,2],
 "d9/d20/classWhoListPlayerInfo.html#ac4d213071630ef58d19a1c6044d9de58":[6,0,4188,14],
 "d9/d20/classWhoListPlayerInfo.html#ac7a2520681c66632c0ae4cbeb8ddce64":[6,0,4188,3],
 "d9/d20/classWhoListPlayerInfo.html#ac7d9dc1689f73d568f62e0ccbe578dc8":[6,0,4188,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX229 =
 "d9/d34/classboss__sapphiron.html":[6,0,667],
 "d9/d34/classboss__sapphiron.html#a31209287faa721bef341388ae4383b6c":[6,0,667,2],
 "d9/d34/classboss__sapphiron.html#a87a70204dd727f92d035ad98e2ab9010":[6,0,667,1],
-"d9/d34/structShadowOfDeathSelector.html":[6,0,2505]
+"d9/d34/structShadowOfDeathSelector.html":[6,0,2505],
+"d9/d34/structShadowOfDeathSelector.html#a3c91b315ce6d6c523d4bdb8a8206a3c8":[6,0,2505,0]
 };

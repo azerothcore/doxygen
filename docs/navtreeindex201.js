@@ -1,6 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[6,0,2680,3],
 "d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[6,0,2680,2],
 "d7/dba/classspell__deathbringer__blood__link.html#a89c0706f21fe92fd443c3638181044ec":[6,0,2680,0],
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[6,0,2680,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX201 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ef5f14c6d94a3d62ec6b58a0e4e2be8":[6,0,1326,0,32],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a70dda8f2f50e95b330c5fbdd960c8130":[6,0,1326,0,76],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e":[6,0,1326,0,24],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a724fbae6ea2a36cf226e13469f9a6932":[6,0,1326,0,52]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a724fbae6ea2a36cf226e13469f9a6932":[6,0,1326,0,52],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a73985b9658bd3091da745aecad9c4dff":[6,0,1326,0,16]
 };

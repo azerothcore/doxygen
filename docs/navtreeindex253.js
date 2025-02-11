@@ -1,6 +1,5 @@
 var NAVTREEINDEX253 =
 {
-"da/d72/structboss__krosh__firehand.html#a1ef3618844f086de7875f26e7e6190f9":[6,0,567,0],
 "da/d72/structboss__krosh__firehand.html#a261ced01dc1305ab7c2d2f3322022fe5":[6,0,567,6],
 "da/d72/structboss__krosh__firehand.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f":[6,0,567,5],
 "da/d72/structboss__krosh__firehand.html#a74bd2c93ac45efcd163a904b9a52827b":[6,0,567,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX253 =
 "da/d78/boss__the__lich__king_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a975cbaec6928b9d207a9656daaad105b":[7,0,0,0,1,3,5,6,10,76,1],
 "da/d78/boss__the__lich__king_8cpp.html#a3d3d0368b97072191973f8c108f6bb21abb516226f3df30c332c998da773f56db":[7,0,0,0,1,3,5,6,10,76,0],
 "da/d78/boss__the__lich__king_8cpp.html#a5796028fa6754f704c0d20bc5394d7d2":[7,0,0,0,1,3,5,6,10,95],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,10,82]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,10,82],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0224e46daa4773073e41dcfb7a46a777":[7,0,0,0,1,3,5,6,10,82,34]
 };

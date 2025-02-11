@@ -1,6 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86af6a0024c110d5588d483c36f0e1b4f8c":[7,0,0,0,1,2,8,0,21,7,11],
 "d5/db2/BattlegroundWS_8h.html#ae5f8a7cd4f42f719752da8c95249214a":[7,0,0,0,1,2,8,0,21,12],
 "d5/db2/BattlegroundWS_8h.html#ae5f8a7cd4f42f719752da8c95249214aa0960ca9313b2915b96ae434eca282313":[7,0,0,0,1,2,8,0,21,12,2],
 "d5/db2/BattlegroundWS_8h.html#ae5f8a7cd4f42f719752da8c95249214aa4876641eeb6401cce978679a1150de48":[7,0,0,0,1,2,8,0,21,12,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX152 =
 "d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c":[7,0,0,0,1,2,8,5,7,3],
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbf":[7,0,0,0,1,2,8,5,4],
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e":[7,0,0,0,1,2,8,5,4,0],
-"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990":[7,0,0,0,1,2,8,5,4,2]
+"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990":[7,0,0,0,1,2,8,5,4,2],
+"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240":[7,0,0,0,1,2,8,5,4,1]
 };

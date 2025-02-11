@@ -1,6 +1,5 @@
 var NAVTREEINDEX139 =
 {
-"d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,2,1,2,0],
 "d4/df4/classspell__magtheridon__quake.html":[6,0,3353],
 "d4/df4/classspell__magtheridon__quake.html#a37ff09e6b82d69c85b5bd98e84968569":[6,0,3353,1],
 "d4/df4/classspell__magtheridon__quake.html#ab948b958955c2413ad6e15dfa09fd3cd":[6,0,3353,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX139 =
 "d5/d05/classSmartGameObjectAI.html#ab5cb3c976d87d9e9f255734f5e7c74d2":[6,0,2526,6],
 "d5/d05/classSmartGameObjectAI.html#ac3868517374f4ab9bdcbeb0159fa45c9":[6,0,2526,17],
 "d5/d05/classSmartGameObjectAI.html#ac6a37e9b53bc84189ab8e162edd7d3f4":[6,0,2526,14],
-"d5/d05/classSmartGameObjectAI.html#ac78b290274eb2e5c3645a355269b4c45":[6,0,2526,13]
+"d5/d05/classSmartGameObjectAI.html#ac78b290274eb2e5c3645a355269b4c45":[6,0,2526,13],
+"d5/d05/classSmartGameObjectAI.html#acb32f3f31274b5938a450e199cad8852":[6,0,2526,24]
 };

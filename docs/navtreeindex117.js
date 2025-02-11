@@ -1,6 +1,5 @@
 var NAVTREEINDEX117 =
 {
-"d4/d02/structSmartEvent.html#a09be7b05a8ecb64d8ab8218aeccd4d3d":[6,0,2525,74],
 "d4/d02/structSmartEvent.html#a0d4e695cf9ac6974678eb0e3b8de1a65":[6,0,2525,43],
 "d4/d02/structSmartEvent.html#a0f107cd5aef0cb0fdbed7fd4862870eb":[6,0,2525,57],
 "d4/d02/structSmartEvent.html#a1abeb9dda55740c30c2a66a7de5a7303":[6,0,2525,54],
@@ -197,12 +196,12 @@ var NAVTREEINDEX117 =
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[6,0,5,6,3],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,30,5,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[6,0,11,5,45],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,30,5,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[6,0,11,5,45,2],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,30,5,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[5,0,30,5,45,1],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,11,5,45,1],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[5,0,30,5,45,0],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[6,0,11,5,45,0],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[5,0,30,5,45,0],
 "d4/d0a/classnpc__vekjik.html":[6,0,2220],
 "d4/d0a/classnpc__vekjik.html#a0bcdcb6cd57264e664c449e261d3580b":[6,0,2220,2],
 "d4/d0a/classnpc__vekjik.html#a7439c6038237b77ba8623ae92d6cf708":[6,0,2220,0],
@@ -233,14 +232,14 @@ var NAVTREEINDEX117 =
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#a8ab8433afb22bbca79e028e8f082da2b":[6,0,3135,1],
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#aa07e0bdaac9cad239bae1b24d16b433c":[6,0,3135,0],
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#af8a46c99290ce700e765c7ad5e8c866c":[6,0,3135,3],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[6,0,0,4,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[5,0,1,7,0,6],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[6,0,0,4,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[6,0,0,4,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,1,7,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[6,0,0,4,0,6,1],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[5,0,1,7,0,6,1],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#ac481731c1965ea0420cd7820e1e89881":[5,0,1,7,0,6,0],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#ac481731c1965ea0420cd7820e1e89881":[6,0,0,4,0,6,0],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#ac481731c1965ea0420cd7820e1e89881":[5,0,1,7,0,6,0],
 "d4/d0f/structGameTele.html":[6,0,1074],
 "d4/d0f/structGameTele.html#a3d3f398cd23566dce721fefeae7af33c":[6,0,1074,4],
 "d4/d0f/structGameTele.html#a49b4a83290dbe39ab0be79a8ae2f03a6":[6,0,1074,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX117 =
 "d4/d0f/structGameTele.html#a9dd0dacb5825cf3afd117c22ac5ebf21":[6,0,1074,1],
 "d4/d0f/structGameTele.html#a9ff9a74b00016df6df7c27ebce8ff3fb":[6,0,1074,5],
 "d4/d0f/structGameTele.html#ac63cbb609eadc584fe61d33fb709c4d6":[6,0,1074,6],
-"d4/d0f/structLinkValidator_3_01LinkTags_1_1spell_01_4.html":[6,0,1400]
+"d4/d0f/structLinkValidator_3_01LinkTags_1_1spell_01_4.html":[6,0,1400],
+"d4/d0f/structLinkValidator_3_01LinkTags_1_1spell_01_4.html#a54af0b68fa7891adbc3001c74e251ea1":[6,0,1400,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX248 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ada8d676f4b4e8cae7956ab2d6cb169e1":[7,0,0,0,1,2,41,0,0,6,159],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adaa58e2c604243da285d64f4a95b42f7":[7,0,0,0,1,2,41,0,0,6,5],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adad95ef086a39748c9e556342967d388":[7,0,0,0,1,2,41,0,0,6,44],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc30e3257d95c2736a98331a53766eea":[7,0,0,0,1,2,41,0,0,6,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX248 =
 "da/d3d/classspell__hydross__cleansing__field__command.html":[6,0,3074],
 "da/d3d/classspell__hydross__cleansing__field__command.html#a2d0bbef8b32c688b7409837b426d9cd1":[6,0,3074,2],
 "da/d3d/classspell__hydross__cleansing__field__command.html#a5fa56f4d61c63487919bb2080795e391":[6,0,3074,1],
-"da/d3d/classspell__hydross__cleansing__field__command.html#a9e578e576d8fa4198cf1f0e9f03ba47a":[6,0,3074,0]
+"da/d3d/classspell__hydross__cleansing__field__command.html#a9e578e576d8fa4198cf1f0e9f03ba47a":[6,0,3074,0],
+"da/d3e/BattlegroundIC_8cpp.html":[7,0,0,0,1,2,8,0,10]
 };

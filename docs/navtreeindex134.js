@@ -1,6 +1,5 @@
 var NAVTREEINDEX134 =
 {
-"d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#ace0fdd5e4b57e7ce603d2355bfc838dd":[6,0,1595,0,3],
 "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html#af1a57574d70a48b16d70d8a056f54018":[6,0,1595,0,0],
 "d4/dad/structnpc__injured__7th__legion__soldier_1_1npc__injured__7th__legion__soldierAI.html":[6,0,1860,0],
 "d4/dad/structnpc__injured__7th__legion__soldier_1_1npc__injured__7th__legion__soldierAI.html#a3021c037acdb141fc3ca4d6f3b146bbf":[6,0,1860,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX134 =
 "d4/dc4/classspell__dk__raise__dead.html#ae339cf884f1d2f877e988ef6f6b555bf":[6,0,2733,2],
 "d4/dc4/classspell__dk__raise__dead.html#aefebf79fa61b9f4d12929d54bd48389f":[6,0,2733,12],
 "d4/dc4/classspell__dk__raise__dead.html#af1013668080685cd86ae6abb52258fb1":[6,0,2733,3],
-"d4/dc5/classspell__generic__quest__update__entry__SpellScript.html":[6,0,2982]
+"d4/dc5/classspell__generic__quest__update__entry__SpellScript.html":[6,0,2982],
+"d4/dc5/classspell__generic__quest__update__entry__SpellScript.html#a0495a98565cd8292c252745956206743":[6,0,2982,4]
 };

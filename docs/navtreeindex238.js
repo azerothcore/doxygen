@@ -1,6 +1,5 @@
 var NAVTREEINDEX238 =
 {
-"d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9920244895e362fd1d3b8789ac5f5811":[7,0,0,0,1,3,2,1,0,5,2,0],
 "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298cac553ad24710435636bd9736df18484c6":[7,0,0,0,1,3,2,1,0,5,2,1],
 "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298caf4b3b7a5e8b4481dcb60a25093408bb2":[7,0,0,0,1,3,2,1,0,5,2,2],
 "d9/d94/boss__eviscerator_8cpp.html#a7460bbae56678bce60e48f1d4f76057d":[7,0,0,0,1,3,2,1,0,5,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX238 =
 "d9/da2/classspell__direbrew__summon__mole__machine__target__picker.html#aaad3c8870d8ad748e3ac07287da32e84":[6,0,2695,0],
 "d9/da2/enuminfo__Item_8cpp.html":[7,0,0,0,1,2,16,4,1],
 "d9/da3/classspell__dru__barkskin.html":[6,0,2762],
-"d9/da3/classspell__dru__barkskin.html#a1849f49a9682627753b8bd39b3ff827e":[6,0,2762,0]
+"d9/da3/classspell__dru__barkskin.html#a1849f49a9682627753b8bd39b3ff827e":[6,0,2762,0],
+"d9/da3/classspell__dru__barkskin.html#a6c105609c1ee61a8f845018550b2e3ba":[6,0,2762,3]
 };

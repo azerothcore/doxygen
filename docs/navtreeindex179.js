@@ -1,6 +1,5 @@
 var NAVTREEINDEX179 =
 {
-"d6/dd6/structLogMessage.html#afe279a591acc9740457c3cd58d43a263":[6,0,1417,10],
 "d6/dd7/classspell__dreamwalker__summon__portal.html":[6,0,2755],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a11c40abf4db37e1498b1a7ee5089f083":[6,0,2755,2],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a567509ccadbc74b3ba9e420f08a0c2b4":[6,0,2755,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX179 =
 "d6/de9/boss__felmyst_8cpp.html":[7,0,0,0,1,3,2,12,2],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,12,2,8],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71":[7,0,0,0,1,3,2,12,2,8,1],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b9cbb64cba3bb8333ecb8b0caddf83b":[7,0,0,0,1,3,2,12,2,8,3]
+"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b9cbb64cba3bb8333ecb8b0caddf83b":[7,0,0,0,1,3,2,12,2,8,3],
+"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a562f9786bd3b2978337babac1240a22b":[7,0,0,0,1,3,2,12,2,8,2]
 };

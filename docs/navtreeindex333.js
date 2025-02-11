@@ -1,6 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a8e8e2ceb6d7d223924eb89e9c6c45472":[7,0,0,0,1,3,5,19,29,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a93d3c0aa673ef405062b10b99b5b0f68":[7,0,0,0,1,3,5,19,29,7],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a942902449244f40dbe31e3aede7da07d":[7,0,0,0,1,3,5,19,29,14],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec":[7,0,0,0,1,3,5,19,29,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX333 =
 "dd/df6/classLootValidatorRefMgr.html#a9fada63aa17222fc5e216f3904affafd":[6,0,1429,0],
 "dd/df6/classLootValidatorRefMgr.html#ac03e93ac8ad6fc91ec9d2961b8904217":[6,0,1429,4],
 "dd/df6/classLootValidatorRefMgr.html#ad61defd77296790a6c5d0a43bacbbe4b":[6,0,1429,2],
-"dd/df6/classLootValidatorRefMgr.html#ae47bba95a17db31a42231da948245387":[6,0,1429,3]
+"dd/df6/classLootValidatorRefMgr.html#ae47bba95a17db31a42231da948245387":[6,0,1429,3],
+"dd/df6/classLootValidatorRefMgr.html#aee3a4701c5bc51f4028fe53f18675989":[6,0,1429,1]
 };

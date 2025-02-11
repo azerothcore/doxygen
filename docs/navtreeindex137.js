@@ -1,6 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafa170c538a2b96defdebd227451262fc":[7,0,0,0,1,3,7,1,5,17,11],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafb8dced78bd1feb6ddef65f694130abf":[7,0,0,0,1,3,7,1,5,17,20],
 "d4/dd3/classboss__mandokir.html":[6,0,595],
 "d4/dd3/classboss__mandokir.html#a215842d5ab23824ec20db64e2fa4407e":[6,0,595,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX137 =
 "d4/ddc/classnpc__oculus__unstable__sphere.html":[6,0,1958],
 "d4/ddc/classnpc__oculus__unstable__sphere.html#a5167370a6d3fd32a5673bbeb95ed3f3c":[6,0,1958,1],
 "d4/ddc/classnpc__oculus__unstable__sphere.html#adda2a9e7eab03444742e85729673ab2f":[6,0,1958,2],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html":[6,0,2671]
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html":[6,0,2671],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5":[6,0,2671,0]
 };

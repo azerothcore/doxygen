@@ -201,15 +201,14 @@ var NAVTREEINDEX90 =
 "d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#af8a298ccbd6f22a0a4416ed6cb082e67":[6,0,1848,0,7],
 "d3/d02/structboss__kalecgos.html":[6,0,548],
 "d3/d02/structboss__kalecgos.html#a17ffb7ec1b591acb0e5c359cb73ed2f6":[6,0,548,3],
-"d3/d02/structboss__kalecgos.html#a595eb66eb6f820efa29fcc5d631fe159":[6,0,548,9],
-"d3/d02/structboss__kalecgos.html#a9844d54a8334ae5d20689593cd8a5e1a":[6,0,548,7],
+"d3/d02/structboss__kalecgos.html#a595eb66eb6f820efa29fcc5d631fe159":[6,0,548,8],
+"d3/d02/structboss__kalecgos.html#a9844d54a8334ae5d20689593cd8a5e1a":[6,0,548,6],
 "d3/d02/structboss__kalecgos.html#a99cf385b11044c364b23fa8fc7e755ee":[6,0,548,2],
 "d3/d02/structboss__kalecgos.html#a9a3eaee76ada967445cc0ed3d5ed21d2":[6,0,548,0],
 "d3/d02/structboss__kalecgos.html#aa810a7eae5a6b1102e2e96022eaf5085":[6,0,548,1],
 "d3/d02/structboss__kalecgos.html#aaccfa519a7290eb56990e43de4beea97":[6,0,548,4],
 "d3/d02/structboss__kalecgos.html#ab4d440dd0b66002b840bc4b3d3a8f7ef":[6,0,548,5],
-"d3/d02/structboss__kalecgos.html#ad30cbd6d6fe343b9eb44fb96b0779551":[6,0,548,8],
-"d3/d02/structboss__kalecgos.html#ad3890c81f73ee82c1b44cef5554210c9":[6,0,548,6],
+"d3/d02/structboss__kalecgos.html#ad30cbd6d6fe343b9eb44fb96b0779551":[6,0,548,7],
 "d3/d03/classReflectEvent.html":[6,0,2452],
 "d3/d03/classReflectEvent.html#a1669aec08a3a09143c57e4889c8fad08":[6,0,2452,0],
 "d3/d03/classReflectEvent.html#a37fb766d70932e8a431dba363c603531":[6,0,2452,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX90 =
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#aff3dab2b81e39198ca84330e6094aa8e":[6,0,486,0,0],
 "d3/d05/classspell__rotface__large__ooze__buff__combine.html":[6,0,3669],
 "d3/d05/classspell__rotface__large__ooze__buff__combine.html#a2278ecef3dc60082ccb8964a34e55587":[6,0,3669,2],
-"d3/d05/classspell__rotface__large__ooze__buff__combine.html#a92a6f2b0d5a0845e35c07d0b5cefe053":[6,0,3669,1]
+"d3/d05/classspell__rotface__large__ooze__buff__combine.html#a92a6f2b0d5a0845e35c07d0b5cefe053":[6,0,3669,1],
+"d3/d05/classspell__rotface__large__ooze__buff__combine.html#aa579f99f704f4db50b38b5f9b87259d7":[6,0,3669,0]
 };

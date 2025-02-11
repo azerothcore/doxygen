@@ -1031,7 +1031,7 @@ var classPlayer =
     [ "ToggleDND", "d2/d4b/classPlayer.html#ae084d38ca06379a97d2e5a279c24686f", null ],
     [ "ToggleInstantFlight", "d2/d4b/classPlayer.html#a6e3420d4db92257f7df0968a72b8783c", null ],
     [ "ToggleMetaGemsActive", "d2/d4b/classPlayer.html#a1721526f115b1be92c558ba6a94bbc61", null ],
-    [ "TradeCancel", "d2/d4b/classPlayer.html#ac45fd65e26ffafc40225a6918460ad6e", null ],
+    [ "TradeCancel", "d2/d4b/classPlayer.html#a72d1127cbcf86d680ba7f730c06943e7", null ],
     [ "UninviteFromGroup", "d2/d4b/classPlayer.html#ad1ea6763f9187890c0def15b615935d6", null ],
     [ "UnsummonPetTemporaryIfAny", "d2/d4b/classPlayer.html#a70bb54941b7ecb5d2cba657c93a82117", null ],
     [ "Update", "d2/d4b/classPlayer.html#a3d1d239c7d4c925f73e036371f3679c2", null ],

@@ -1,9 +1,8 @@
 var NAVTREEINDEX222 =
 {
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,1,88,6],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,76,6],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[6,0,0,76,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,1,88,3],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[6,0,0,76,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[6,0,0,76,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,1,88,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX222 =
 "d8/dd6/DBCfmt_8h.html#a78848df924fb8387c980a546cddf4d6b":[7,0,0,0,1,4,0,3,16],
 "d8/dd6/DBCfmt_8h.html#a7b73d00012583f3f9b19f7ff47592ba3":[7,0,0,0,1,4,0,3,65],
 "d8/dd6/DBCfmt_8h.html#a7dc8655fce93259051dbbaa93016db57":[7,0,0,0,1,4,0,3,60],
-"d8/dd6/DBCfmt_8h.html#a804190f2937789857492be7c664d777c":[7,0,0,0,1,4,0,3,27]
+"d8/dd6/DBCfmt_8h.html#a804190f2937789857492be7c664d777c":[7,0,0,0,1,4,0,3,27],
+"d8/dd6/DBCfmt_8h.html#a80a9b3c3eda13a8ef3b8f5193f84b016":[7,0,0,0,1,4,0,3,58]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX155 =
 {
-"d5/dce/outland__script__loader_8cpp.html#a9635474efd3864a1fd97e1d7b77d46ca":[7,0,0,0,1,3,7,8,40],
 "d5/dce/outland__script__loader_8cpp.html#a96d51617c4818c06de68961b8bd2bacc":[7,0,0,0,1,3,7,8,9],
 "d5/dce/outland__script__loader_8cpp.html#a98c9216d522184f8377a09a4733b2e9d":[7,0,0,0,1,3,7,8,38],
 "d5/dce/outland__script__loader_8cpp.html#a9aa3518f4196a7c844ab6ffafbc91068":[7,0,0,0,1,3,7,8,39],
@@ -249,5 +248,6 @@ var NAVTREEINDEX155 =
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7068f2f91b7cdd8c6d55f3038e4bcbcf":[7,0,0,0,1,3,5,1,1,0,13,0],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73dc781d4c23102953ac7a25e40d9ce1":[7,0,0,0,1,3,5,1,1,0,13,13],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7e3b9f2b39a966a6213fb43c59f2028e":[7,0,0,0,1,3,5,1,1,0,13,3],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7ed0b7bde9634116efa6580b7e7093b0":[7,0,0,0,1,3,5,1,1,0,13,10]
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7ed0b7bde9634116efa6580b7e7093b0":[7,0,0,0,1,3,5,1,1,0,13,10],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,0,13,2]
 };

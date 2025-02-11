@@ -1,6 +1,5 @@
 var NAVTREEINDEX171 =
 {
-"d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[6,0,1060,15],
 "d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5":[6,0,1060,5],
 "d6/d66/classGameObjectAI.html#afc78344df8960b50913bc434fd01351f":[6,0,1060,2],
 "d6/d66/classspell__vehicle__warhead__fuse.html":[6,0,3866],
@@ -249,5 +248,6 @@ var NAVTREEINDEX171 =
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca87e9bdbcad370474c4c3bb29bd8eaba1":[7,0,0,0,1,3,5,8,2,3,7,9],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8aadb99fb905a6d56d982f9e512897ec":[7,0,0,0,1,3,5,8,2,3,7,11],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca9fe07b80a3099720bbf99d05276a3e0d":[7,0,0,0,1,3,5,8,2,3,7,16],
-"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caa23322b1bf5fb3a45bdd2e203daf0dfd":[7,0,0,0,1,3,5,8,2,3,7,7]
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caa23322b1bf5fb3a45bdd2e203daf0dfd":[7,0,0,0,1,3,5,8,2,3,7,7],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caada7304645dc19675f744513cf22eb68":[7,0,0,0,1,3,5,8,2,3,7,6]
 };

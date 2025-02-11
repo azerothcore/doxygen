@@ -1,6 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,809,59],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[6,0,809,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[6,0,809,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[6,0,809,69],
@@ -249,5 +248,6 @@ var NAVTREEINDEX245 =
 "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html#aeb55bf23d97e963b0fb9a18596bb58b1":[6,0,1723,0,0],
 "da/d1c/DuelHandler_8cpp.html":[7,0,0,0,1,2,22,12],
 "da/d1c/classnpc__shattrathflaskvendors.html":[6,0,2076],
-"da/d1c/classnpc__shattrathflaskvendors.html#ab74b234406c2022bf519242a7842458a":[6,0,2076,0]
+"da/d1c/classnpc__shattrathflaskvendors.html#ab74b234406c2022bf519242a7842458a":[6,0,2076,0],
+"da/d1c/classnpc__shattrathflaskvendors.html#ad9eb60422dfc663e6d020a630c09ee05":[6,0,2076,2]
 };

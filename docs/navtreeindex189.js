@@ -1,6 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298ca3fb0854cb76a3dd2c796a5339f0e4eba":[7,0,0,0,1,3,2,10,0,2,2],
 "d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bc8b1f313ed3738fc07c109d7a84d8b":[7,0,0,0,1,3,2,10,0,2,5],
 "d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298caa6eda124699fe83419ebc16ea7847376":[7,0,0,0,1,3,2,10,0,2,3],
 "d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298cacea830f2112252838897453d0163291a":[7,0,0,0,1,3,2,10,0,2,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX189 =
 "d7/d6e/mana__tombs_8h.html":[7,0,0,0,1,3,7,0,1,4],
 "d7/d6e/mana__tombs_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,0,1,4,0],
 "d7/d6e/mana__tombs_8h.html#a31d630c40753c29f94ceac2db5e451a8":[7,0,0,0,1,3,7,0,1,4,5],
-"d7/d6e/mana__tombs_8h.html#a772413d8818d681e2261c99f58e1268c":[7,0,0,0,1,3,7,0,1,4,1]
+"d7/d6e/mana__tombs_8h.html#a772413d8818d681e2261c99f58e1268c":[7,0,0,0,1,3,7,0,1,4,1],
+"d7/d6e/mana__tombs_8h.html#a7e2e8ea768842320ce5d953aeaddb176":[7,0,0,0,1,3,7,0,1,4,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX211 =
 {
-"d8/d3e/classEscortMovementGenerator.html#a235e330c4c3368af00d37028915684ff":[6,0,1007,7],
 "d8/d3e/classEscortMovementGenerator.html#a46eb2812a1b2a56e584b925cae2169eb":[6,0,1007,10],
 "d8/d3e/classEscortMovementGenerator.html#a4c191a86f5ecc30ae5b34d7578d58d3e":[6,0,1007,1],
 "d8/d3e/classEscortMovementGenerator.html#a524bb8f72836dc5d1b63e429436b3a77":[6,0,1007,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX211 =
 "d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a37c22b84c74c36e2af467a6bd1047f15":[7,0,0,0,1,3,5,13,17,1],
 "d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8d5fcaf7b3bfdd91e6337d222c1620f":[7,0,0,0,1,3,5,13,17,0],
 "d8/d4e/classnpc__toc__pet__hunter.html":[6,0,2154],
-"d8/d4e/classnpc__toc__pet__hunter.html#a1aa59cca8cd71e9f17fb9f55cf03c1da":[6,0,2154,1]
+"d8/d4e/classnpc__toc__pet__hunter.html#a1aa59cca8cd71e9f17fb9f55cf03c1da":[6,0,2154,1],
+"d8/d4e/classnpc__toc__pet__hunter.html#a9febc3086b0627324277f45d49cdd03f":[6,0,2154,2]
 };

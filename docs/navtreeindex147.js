@@ -1,6 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"d5/d76/structboss__faction__championsAI.html#ac49f6c9994484a6d905362fd66ccf81e":[6,0,439,9],
 "d5/d76/structboss__faction__championsAI.html#acbb166d6ac50f11eae591ddf1dbba917":[6,0,439,2],
 "d5/d76/structboss__faction__championsAI.html#acff880f98ff81d25d02224931fe8ff93":[6,0,439,14],
 "d5/d76/structboss__faction__championsAI.html#aea6f9e045fb3866cef15d890f63766d8":[6,0,439,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX147 =
 "d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca52ffa4d31feca240abe0b99509dfa563":[7,0,0,0,1,3,5,9,2,12,27,1],
 "d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca53111590edeab125370f899800940ff3":[7,0,0,0,1,3,5,9,2,12,27,4],
 "d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca82c23f496544e2da92214d1c94bb21c3":[7,0,0,0,1,3,5,9,2,12,27,5],
-"d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa2af1f5928466fc064373019cd34e474":[7,0,0,0,1,3,5,9,2,12,27,0]
+"d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa2af1f5928466fc064373019cd34e474":[7,0,0,0,1,3,5,9,2,12,27,0],
+"d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5cab1534679b8c098742f359ab548214e9b":[7,0,0,0,1,3,5,9,2,12,27,2]
 };

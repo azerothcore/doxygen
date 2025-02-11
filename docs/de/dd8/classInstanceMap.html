@@ -437,8 +437,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3c53406860b450e74535f20ee223bef6 inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a335ff13492aeed7129a82fb5e4a239ff inherit pub_methods_classMap" id="r_a335ff13492aeed7129a82fb5e4a239ff"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a335ff13492aeed7129a82fb5e4a239ff">GetInstanceResetPeriod</a> () const</td></tr>
 <tr class="separator:a335ff13492aeed7129a82fb5e4a239ff inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98c7c2a2616e3069e8f2c2ac3f47f9fc inherit pub_methods_classMap" id="r_a98c7c2a2616e3069e8f2c2ac3f47f9fc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a98c7c2a2616e3069e8f2c2ac3f47f9fc">ScheduleCreatureRespawn</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>, <a class="el" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>)</td></tr>
-<tr class="separator:a98c7c2a2616e3069e8f2c2ac3f47f9fc inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf74a176fa4d0ccccfa114af19d43057 inherit pub_methods_classMap" id="r_aaf74a176fa4d0ccccfa114af19d43057"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#aaf74a176fa4d0ccccfa114af19d43057">ScheduleCreatureRespawn</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>, <a class="el" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>, <a class="el" href="../../d0/df4/structPosition.html">Position</a> pos=<a class="el" href="../../d0/df4/structPosition.html">Position</a>())</td></tr>
+<tr class="separator:aaf74a176fa4d0ccccfa114af19d43057 inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9869c29763545c30a707e6503566fe6a inherit pub_methods_classMap" id="r_a9869c29763545c30a707e6503566fe6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a">LoadCorpseData</a> ()</td></tr>
 <tr class="separator:a9869c29763545c30a707e6503566fe6a inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3842cb810c4741e6d05501ada3976d86 inherit pub_methods_classMap" id="r_a3842cb810c4741e6d05501ada3976d86"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a3842cb810c4741e6d05501ada3976d86">DeleteCorpseData</a> ()</td></tr>
@@ -1251,18 +1251,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4082</span>{</div>
-<div class="line"><span class="lineno"> 4083</span>    std::stringstream sstr;</div>
-<div class="line"><span class="lineno"> 4084</span>    sstr &lt;&lt; <a class="code hl_function" href="../../d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c">Map::GetDebugInfo</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
-<div class="line"><span class="lineno"> 4085</span>        &lt;&lt; std::boolalpha</div>
-<div class="line"><span class="lineno"> 4086</span>        &lt;&lt; <span class="stringliteral">&quot;ScriptId: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da">GetScriptId</a>() &lt;&lt; <span class="stringliteral">&quot; ScriptName: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9">GetScriptName</a>();</div>
-<div class="line"><span class="lineno"> 4087</span>    <span class="keywordflow">return</span> sstr.str();</div>
-<div class="line"><span class="lineno"> 4088</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4084</span>{</div>
+<div class="line"><span class="lineno"> 4085</span>    std::stringstream sstr;</div>
+<div class="line"><span class="lineno"> 4086</span>    sstr &lt;&lt; <a class="code hl_function" href="../../d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c">Map::GetDebugInfo</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno"> 4087</span>        &lt;&lt; std::boolalpha</div>
+<div class="line"><span class="lineno"> 4088</span>        &lt;&lt; <span class="stringliteral">&quot;ScriptId: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da">GetScriptId</a>() &lt;&lt; <span class="stringliteral">&quot; ScriptName: &quot;</span> &lt;&lt; <a class="code hl_function" href="../../de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9">GetScriptName</a>();</div>
+<div class="line"><span class="lineno"> 4089</span>    <span class="keywordflow">return</span> sstr.str();</div>
+<div class="line"><span class="lineno"> 4090</span>}</div>
 <div class="ttc" id="aclassInstanceMap_html_a6f3eccbe5d67aec9aeab45a11432b9da"><div class="ttname"><a href="../../de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da">InstanceMap::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Map.h:827</div></div>
 <div class="ttc" id="aclassInstanceMap_html_ab8eaa34f2319d5a2d40900360756a5c9"><div class="ttname"><a href="../../de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9">InstanceMap::GetScriptName</a></div><div class="ttdeci">std::string const &amp; GetScriptName() const</div><div class="ttdef"><b>Definition</b> Map.cpp:3161</div></div>
-<div class="ttc" id="aclassMap_html_a937ecbcdf1b70e81187a56bcacd3324c"><div class="ttname"><a href="../../d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c">Map::GetDebugInfo</a></div><div class="ttdeci">virtual std::string GetDebugInfo() const</div><div class="ttdef"><b>Definition</b> Map.cpp:4072</div></div>
+<div class="ttc" id="aclassMap_html_a937ecbcdf1b70e81187a56bcacd3324c"><div class="ttname"><a href="../../d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c">Map::GetDebugInfo</a></div><div class="ttdeci">virtual std::string GetDebugInfo() const</div><div class="ttdef"><b>Definition</b> Map.cpp:4074</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l04072">Map::GetDebugInfo()</a>, <a class="el" href="../../#l00827">GetScriptId()</a>, and <a class="el" href="../../#l03161">GetScriptName()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l04074">Map::GetDebugInfo()</a>, <a class="el" href="../../#l00827">GetScriptId()</a>, and <a class="el" href="../../#l03161">GetScriptName()</a>.</p>
 
 </div>
 </div>
@@ -1353,7 +1353,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00317">Map::GetEntry()</a>, <a class="el" href="../../#l03223">Map::GetMapDifficulty()</a>, <a class="el" href="../../#l01345">MapEntry::maxPlayers</a>, and <a class="el" href="../../#l02226">MapDifficulty::maxPlayers</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02885">CannotEnter()</a>, <a class="el" href="../../#l01399">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::CheckAchievementCriteriaMeet()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02885">CannotEnter()</a>, <a class="el" href="../../#l01388">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::CheckAchievementCriteriaMeet()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -1407,7 +1407,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00847">i_script_id</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00021">ScriptMgr::CreateInstanceScript()</a>, and <a class="el" href="../../#l04081">GetDebugInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00021">ScriptMgr::CreateInstanceScript()</a>, and <a class="el" href="../../#l04083">GetDebugInfo()</a>.</p>
 
 </div>
 </div>
@@ -1431,7 +1431,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00847">i_script_id</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04081">GetDebugInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04083">GetDebugInfo()</a>.</p>
 
 </div>
 </div>
@@ -1755,11 +1755,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 3214</span>    <a class="code hl_function" href="../../d7/db0/classMap.html#a58340824b6724c3127220d733487456b">Map::UnloadAll</a>();</div>
 <div class="line"><span class="lineno"> 3215</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
-<div class="ttc" id="aclassMap_html_a3842cb810c4741e6d05501ada3976d86"><div class="ttname"><a href="../../d7/db0/classMap.html#a3842cb810c4741e6d05501ada3976d86">Map::DeleteCorpseData</a></div><div class="ttdeci">void DeleteCorpseData()</div><div class="ttdef"><b>Definition</b> Map.cpp:4063</div></div>
+<div class="ttc" id="aclassMap_html_a3842cb810c4741e6d05501ada3976d86"><div class="ttname"><a href="../../d7/db0/classMap.html#a3842cb810c4741e6d05501ada3976d86">Map::DeleteCorpseData</a></div><div class="ttdeci">void DeleteCorpseData()</div><div class="ttdef"><b>Definition</b> Map.cpp:4065</div></div>
 <div class="ttc" id="aclassMap_html_a3c53406860b450e74535f20ee223bef6"><div class="ttname"><a href="../../d7/db0/classMap.html#a3c53406860b450e74535f20ee223bef6">Map::DeleteRespawnTimes</a></div><div class="ttdeci">void DeleteRespawnTimes()</div><div class="ttdef"><b>Definition</b> Map.cpp:3464</div></div>
 <div class="ttc" id="aclassMap_html_a58340824b6724c3127220d733487456b"><div class="ttname"><a href="../../d7/db0/classMap.html#a58340824b6724c3127220d733487456b">Map::UnloadAll</a></div><div class="ttdeci">virtual void UnloadAll()</div><div class="ttdef"><b>Definition</b> Map.cpp:1278</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l04063">Map::DeleteCorpseData()</a>, <a class="el" href="../../#l03464">Map::DeleteRespawnTimes()</a>, <a class="el" href="../../#l00475">Map::HavePlayers()</a>, <a class="el" href="../../#l00844">m_resetAfterUnload</a>, and <a class="el" href="../../#l01278">Map::UnloadAll()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l04065">Map::DeleteCorpseData()</a>, <a class="el" href="../../#l03464">Map::DeleteRespawnTimes()</a>, <a class="el" href="../../#l00475">Map::HavePlayers()</a>, <a class="el" href="../../#l00844">m_resetAfterUnload</a>, and <a class="el" href="../../#l01278">Map::UnloadAll()</a>.</p>
 
 </div>
 </div>
@@ -1925,7 +1925,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/dd8/classInstanceMap.html">InstanceMap</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 06:21:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 11 2025 06:20:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

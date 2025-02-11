@@ -1,6 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"d5/d65/structlfg_1_1RBInternalInfo.html#a16f7daa165cc0521e928bf6c755f2231":[5,0,18,20,0],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a16f7daa165cc0521e928bf6c755f2231":[6,0,5,20,0],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a1e86832b189b07e5307c78bc9b673d22":[5,0,18,20,30],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a1e86832b189b07e5307c78bc9b673d22":[6,0,5,20,30],
@@ -249,5 +248,6 @@ var NAVTREEINDEX146 =
 "d5/d76/structboss__faction__championsAI.html#a81f01bf15e7d7d647fa01da165ee0896":[6,0,439,3],
 "d5/d76/structboss__faction__championsAI.html#a8f993213b96d47f12258f6182b876042":[6,0,439,4],
 "d5/d76/structboss__faction__championsAI.html#aa8976d148ac4882063787f144ebeeea8":[6,0,439,7],
-"d5/d76/structboss__faction__championsAI.html#aae5bc496f0f17c2167dd8a47c8ae40cd":[6,0,439,5]
+"d5/d76/structboss__faction__championsAI.html#aae5bc496f0f17c2167dd8a47c8ae40cd":[6,0,439,5],
+"d5/d76/structboss__faction__championsAI.html#ac49f6c9994484a6d905362fd66ccf81e":[6,0,439,9]
 };

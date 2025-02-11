@@ -1,6 +1,5 @@
 var NAVTREEINDEX149 =
 {
-"d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#ae32c95f7f1927bb4a572d06d014f1080":[6,0,0,1,7,5],
 "d5/d8c/zone__azuremyst__isle_8cpp.html":[7,0,0,0,1,3,4,16],
 "d5/d8c/zone__azuremyst__isle_8cpp.html#a4312325b44ff42e455a1955a0a0d0ce0":[7,0,0,0,1,3,4,16,14],
 "d5/d8c/zone__azuremyst__isle_8cpp.html#a4312325b44ff42e455a1955a0a0d0ce0a13e3c4fbf4ffac2b5a7fc5c14d049293":[7,0,0,0,1,3,4,16,14,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX149 =
 "d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463aa0bf8140afe40c0988666448e72ea45e":[7,0,0,0,1,3,5,9,1,4,2,7],
 "d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463aa20c9c8a39f4fd5ef266aa91c761f64c":[7,0,0,0,1,3,5,9,1,4,2,4],
 "d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463ac68ee382aa3c26c77cc5faffef8dcf4c":[7,0,0,0,1,3,5,9,1,4,2,1],
-"d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463ac7f6f9cbdbb2cd35ff344110e2aa662b":[7,0,0,0,1,3,5,9,1,4,2,2]
+"d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463ac7f6f9cbdbb2cd35ff344110e2aa662b":[7,0,0,0,1,3,5,9,1,4,2,2],
+"d5/d9e/halls__of__stone_8h.html#a64573ec9b8743a1169d84540f2ab9463af5f7dc4694276a77539caaf56919d5a7":[7,0,0,0,1,3,5,9,1,4,2,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86ac0673b3e45691ec9d8cdd58e498b4a52":[7,0,0,0,1,3,10,10,56,11],
 "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86acc1c8fef95f67d6a2173df96f82c41e4":[7,0,0,0,1,3,10,10,56,15],
 "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86afc427d9d03c750e0d75a0ef3af9dd10f":[7,0,0,0,1,3,10,10,56,17],
 "d3/da1/npc__professions_8cpp.html#add5fdcf9862a57aed21ac937a4a50ebf":[7,0,0,0,1,3,10,10,51],
@@ -249,5 +248,6 @@ var NAVTREEINDEX105 =
 "d3/dae/structnpc__apothecary__frye.html":[6,0,1571],
 "d3/dae/structnpc__apothecary__frye.html#a5546099958a9a267d237e65720588456":[6,0,1571,0],
 "d3/dae/structnpc__apothecary__frye.html#ab1dc310e90c591b44ce4d5bcf1bac930":[6,0,1571,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,30,7,12]
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,30,7,12],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[6,0,11,7,12]
 };

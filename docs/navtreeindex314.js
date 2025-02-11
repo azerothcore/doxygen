@@ -1,6 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"dd/d0b/classspell__q11730__ultrasonic__screwdriver.html#a5b336f402a256c80d8d3f8c5b1cbda2f":[6,0,3568,1],
 "dd/d0b/classspell__q11730__ultrasonic__screwdriver.html#a79dc24ba1f2f059d77a06b457a78fcf1":[6,0,3568,2],
 "dd/d0b/classspell__q11730__ultrasonic__screwdriver.html#a923fa966dc7109f7cb02c25bbd23b0ff":[6,0,3568,0],
 "dd/d0b/classspell__q11730__ultrasonic__screwdriver.html#acaaeacf371538cafbbb4cc7cc036280e":[6,0,3568,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX314 =
 "dd/d19/classspell__uldaman__stoned__aura.html":[6,0,3843],
 "dd/d19/classspell__uldaman__stoned__aura.html#a2e3b53977f188ed28d9deedbcbc03e6b":[6,0,3843,2],
 "dd/d19/classspell__uldaman__stoned__aura.html#a6a90296c9903ce65913f3bba29dea176":[6,0,3843,4],
-"dd/d19/classspell__uldaman__stoned__aura.html#a87a0061366829cbc6f856cc1f7ea1105":[6,0,3843,1]
+"dd/d19/classspell__uldaman__stoned__aura.html#a87a0061366829cbc6f856cc1f7ea1105":[6,0,3843,1],
+"dd/d19/classspell__uldaman__stoned__aura.html#a99b97b2ed12d73e417af0b970c2a9645":[6,0,3843,3]
 };

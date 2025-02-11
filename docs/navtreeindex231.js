@@ -1,6 +1,5 @@
 var NAVTREEINDEX231 =
 {
-"d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e":[6,0,1926,8],
 "d9/d49/classTriggerAI.html":[6,0,4103],
 "d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[6,0,4103,1],
 "d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[6,0,4103,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX231 =
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,2,1,2,8,6,1],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca675194ae1ebcc6b507bf7f88be2f8414":[7,0,0,0,1,3,2,1,2,8,6,2],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c076300512d36ce3303219ac9a5c59b":[7,0,0,0,1,3,2,1,2,8,6,5],
-"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cab39444c87d20be4413c65a921dfadcd3":[7,0,0,0,1,3,2,1,2,8,6,0]
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cab39444c87d20be4413c65a921dfadcd3":[7,0,0,0,1,3,2,1,2,8,6,0],
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cabbd34dce2c9a2b0dabee40c8e88d6146":[7,0,0,0,1,3,2,1,2,8,6,6]
 };

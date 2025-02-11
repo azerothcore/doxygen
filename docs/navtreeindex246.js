@@ -1,6 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"da/d1c/classnpc__shattrathflaskvendors.html#ad9eb60422dfc663e6d020a630c09ee05":[6,0,2076,2],
 "da/d1c/classnpc__shattrathflaskvendors.html#af165d6f4640b41a92b36d77c1f1c1161":[6,0,2076,1],
 "da/d1d/boss__void__reaver_8cpp.html":[7,0,0,0,1,3,7,5,2,3],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6":[7,0,0,0,1,3,7,5,2,3,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX246 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[7,0,0,0,1,2,41,0,0,6,30],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1015c47e51e396ce6bac8260ce380831":[7,0,0,0,1,2,41,0,0,6,71],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[7,0,0,0,1,2,41,0,0,6,3],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1156dae2e392ceb801c50846a22f915b":[7,0,0,0,1,2,41,0,0,6,206]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1156dae2e392ceb801c50846a22f915b":[7,0,0,0,1,2,41,0,0,6,206],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1191ab2524c100b0d91f8d63cee8e781":[7,0,0,0,1,2,41,0,0,6,316]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d9/da3/classspell__dru__barkskin.html#a6c105609c1ee61a8f845018550b2e3ba":[6,0,2762,3],
 "d9/da3/classspell__dru__barkskin.html#a7c08bea735cd36840463aa942e7529b4":[6,0,2762,1],
 "d9/da3/classspell__dru__barkskin.html#ad27880f797137cae09381e860727e2f7":[6,0,2762,2],
 "d9/da3/structTableStruct.html":[6,0,4050],
@@ -249,5 +248,6 @@ var NAVTREEINDEX239 =
 "d9/db6/structnpc__elder__kekek.html":[6,0,1730],
 "d9/db6/structnpc__elder__kekek.html#a0c673e4fdf8e75d3bc8570db166bcd95":[6,0,1730,1],
 "d9/db6/structnpc__elder__kekek.html#a445c048d8858f5dc7c1e88308ed7e5ab":[6,0,1730,7],
-"d9/db6/structnpc__elder__kekek.html#a5823bc7164d797c40d48b9b74642d9b5":[6,0,1730,3]
+"d9/db6/structnpc__elder__kekek.html#a5823bc7164d797c40d48b9b74642d9b5":[6,0,1730,3],
+"d9/db6/structnpc__elder__kekek.html#a6084af39be5c70699c9fdcf3cd58e954":[6,0,1730,0]
 };

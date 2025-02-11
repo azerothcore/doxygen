@@ -1,6 +1,5 @@
 var NAVTREEINDEX135 =
 {
-"d4/dc5/classspell__generic__quest__update__entry__SpellScript.html#a0495a98565cd8292c252745956206743":[6,0,2982,4],
 "d4/dc5/classspell__generic__quest__update__entry__SpellScript.html#a3bf2605d8aa31e694b479f0de9f1703e":[6,0,2982,2],
 "d4/dc5/classspell__generic__quest__update__entry__SpellScript.html#a46dd459dc324dfea871c93a0b3b5d8f1":[6,0,2982,5],
 "d4/dc5/classspell__generic__quest__update__entry__SpellScript.html#a891c357279ecee2e7fce323761607285":[6,0,2982,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX135 =
 "d4/dd0/classWorldObject.html#a085b17d13dab7fa848259fe55933a4bc":[6,0,4209,150],
 "d4/dd0/classWorldObject.html#a0a471b58ac8905281008aa4a730c4093":[6,0,4209,67],
 "d4/dd0/classWorldObject.html#a0b4cc2758ff4a939539d0adbac6aa53c":[6,0,4209,102],
-"d4/dd0/classWorldObject.html#a0ecfe05a8965ef2d2764685fff1cc961":[6,0,4209,113]
+"d4/dd0/classWorldObject.html#a0ecfe05a8965ef2d2764685fff1cc961":[6,0,4209,113],
+"d4/dd0/classWorldObject.html#a0f50be7888e7adb64d542c540b7f5675":[6,0,4209,115]
 };

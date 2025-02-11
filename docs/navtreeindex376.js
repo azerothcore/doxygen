@@ -1,6 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"df/d2d/classspell__sindragosa__mystic__buffet.html#a24466e7a04722cc7559b086f89d2edc8":[6,0,3746,1],
 "df/d2d/classspell__sindragosa__mystic__buffet.html#a9ecea534f3dffdedf7d23b3b2461509d":[6,0,3746,2],
 "df/d2d/classspell__sindragosa__mystic__buffet.html#ad5a004ddfdc888c38e95c3a0b49ca73e":[6,0,3746,0],
 "df/d2d/structGossipMenus.html":[6,0,1192],
@@ -249,5 +248,6 @@ var NAVTREEINDEX376 =
 "df/d3d/classBfCapturePoint.html#a5a375223e2be7103bf6d9b411bb95b2c":[6,0,328,10],
 "df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0":[6,0,328,5],
 "df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[6,0,328,3],
-"df/d3d/classBfCapturePoint.html#a7b3e3cb728347cd9783eea394245fcc0":[6,0,328,27]
+"df/d3d/classBfCapturePoint.html#a7b3e3cb728347cd9783eea394245fcc0":[6,0,328,27],
+"df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[6,0,328,11]
 };

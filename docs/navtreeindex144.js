@@ -1,6 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"d5/d4b/classinstance__zulfarrak.html#a7c8594fe278dc9f6c3ab6f291cf9bad2":[6,0,1333,1],
 "d5/d4b/classspell__warl__demonic__pact__aura.html":[6,0,3886],
 "d5/d4b/classspell__warl__demonic__pact__aura.html#a5d33fbbc36417bd229fb9b1576f4f42b":[6,0,3886,2],
 "d5/d4b/classspell__warl__demonic__pact__aura.html#ac24bde081e118b347a3cad6832cd96da":[6,0,3886,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX144 =
 "d5/d55/classnpc__ghostly__priest.html#a7c03bb327cfc65f4df515969da482ddb":[6,0,1776,1],
 "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html":[6,0,1919,0],
 "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a0b42596550d045f5ca0096ceee80c0ac":[6,0,1919,0,1],
-"d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a116b3458f342811e378713e6a67f76a6":[6,0,1919,0,2]
+"d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a116b3458f342811e378713e6a67f76a6":[6,0,1919,0,2],
+"d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a32201d45f0c19212becb6319a48366f8":[6,0,1919,0,3]
 };

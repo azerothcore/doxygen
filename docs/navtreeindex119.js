@@ -1,6 +1,5 @@
 var NAVTREEINDEX119 =
 {
-"d4/d1e/halls__of__reflection_8h.html#a780f9e55e937224a9e5338267a3cbe14":[7,0,0,0,1,3,5,4,1,3,17],
 "d4/d1e/halls__of__reflection_8h.html#a795df6758e6e85102f0abbfd1014c976":[7,0,0,0,1,3,5,4,1,3,28],
 "d4/d1e/halls__of__reflection_8h.html#a84d3e53f3b178700bf1747b920f35620":[7,0,0,0,1,3,5,4,1,3,15],
 "d4/d1e/halls__of__reflection_8h.html#a8a267df5a83c8b5da51abec5ea00769e":[7,0,0,0,1,3,5,4,1,3,22],
@@ -122,16 +121,16 @@ var NAVTREEINDEX119 =
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63adb683ca05b5dc26b9eeba5bc23b4a9fb":[7,0,0,0,1,3,5,4,1,3,8,4],
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ae3dcdaa982379d53e39039263ddb95a1":[7,0,0,0,1,3,5,4,1,3,8,9],
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ae95dd70549003ebe67b19649e0c731a7":[7,0,0,0,1,3,5,4,1,3,8,0],
-"d4/d1e/structMMAP_1_1TileConfig.html":[6,0,6,11],
 "d4/d1e/structMMAP_1_1TileConfig.html":[5,0,20,11],
-"d4/d1e/structMMAP_1_1TileConfig.html#a46640a80428b1ab93d65d593c03d13ed":[6,0,6,11,3],
+"d4/d1e/structMMAP_1_1TileConfig.html":[6,0,6,11],
 "d4/d1e/structMMAP_1_1TileConfig.html#a46640a80428b1ab93d65d593c03d13ed":[5,0,20,11,3],
-"d4/d1e/structMMAP_1_1TileConfig.html#a5a882b0595456ab3fcca85c80af3b6f8":[6,0,6,11,1],
+"d4/d1e/structMMAP_1_1TileConfig.html#a46640a80428b1ab93d65d593c03d13ed":[6,0,6,11,3],
 "d4/d1e/structMMAP_1_1TileConfig.html#a5a882b0595456ab3fcca85c80af3b6f8":[5,0,20,11,1],
+"d4/d1e/structMMAP_1_1TileConfig.html#a5a882b0595456ab3fcca85c80af3b6f8":[6,0,6,11,1],
 "d4/d1e/structMMAP_1_1TileConfig.html#a67b10c747fb0d2bc2a263e5009d42e1b":[6,0,6,11,0],
 "d4/d1e/structMMAP_1_1TileConfig.html#a67b10c747fb0d2bc2a263e5009d42e1b":[5,0,20,11,0],
-"d4/d1e/structMMAP_1_1TileConfig.html#ae0331739074e5546818e13527a76524a":[6,0,6,11,4],
 "d4/d1e/structMMAP_1_1TileConfig.html#ae0331739074e5546818e13527a76524a":[5,0,20,11,4],
+"d4/d1e/structMMAP_1_1TileConfig.html#ae0331739074e5546818e13527a76524a":[6,0,6,11,4],
 "d4/d1e/structMMAP_1_1TileConfig.html#ae3443f89a8a698823c91096abe51a6a9":[6,0,6,11,2],
 "d4/d1e/structMMAP_1_1TileConfig.html#ae3443f89a8a698823c91096abe51a6a9":[5,0,20,11,2],
 "d4/d1f/ReferAFriendHandler_8cpp.html":[7,0,0,0,1,2,22,27],
@@ -249,5 +248,6 @@ var NAVTREEINDEX119 =
 "d4/d25/firework__show__Ironforge_8h.html#aac2063b01976ab49960c5cde832a70dc":[7,0,0,0,1,3,3,0,4,1],
 "d4/d25/firework__show__Ironforge_8h.html#ac473aa81696d6b6374a3062efff6b146":[7,0,0,0,1,3,3,0,4,2],
 "d4/d25/structboss__swamplord__muselek.html":[6,0,701],
-"d4/d25/structboss__swamplord__muselek.html#a0732fdf14c972ae955eb43417a6d86a1":[6,0,701,1]
+"d4/d25/structboss__swamplord__muselek.html#a0732fdf14c972ae955eb43417a6d86a1":[6,0,701,1],
+"d4/d25/structboss__swamplord__muselek.html#a4020748c43bf03cb338e3d64a1dfd840":[6,0,701,3]
 };

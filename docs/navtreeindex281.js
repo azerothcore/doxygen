@@ -1,6 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fd":[7,0,0,0,1,3,5,8,0,1,11],
 "db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda0e67e4f671df0cb7690f9fb9b98b9b69":[7,0,0,0,1,3,5,8,0,1,11,1],
 "db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda7f6db0c8e1be8ece4bd50291c9ddc8c7":[7,0,0,0,1,3,5,8,0,1,11,2],
 "db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdab3f90752db7a22e6994b0594d89df12f":[7,0,0,0,1,3,5,8,0,1,11,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX281 =
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca769fb40b8df9ccc561d0f3cd43951e63":[5,0,21,7,0,18],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca769fb40b8df9ccc561d0f3cd43951e63":[6,0,7,7,0,18],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca7f9de8e682260aaadfca7cdc810b9a7b":[6,0,7,7,0,0],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca7f9de8e682260aaadfca7cdc810b9a7b":[5,0,21,7,0,0]
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca7f9de8e682260aaadfca7cdc810b9a7b":[5,0,21,7,0,0],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca7fe6d10bf82a655112a90ff47277d1bb":[6,0,7,7,0,13]
 };

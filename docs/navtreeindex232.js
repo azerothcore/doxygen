@@ -1,6 +1,5 @@
 var NAVTREEINDEX232 =
 {
-"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cabbd34dce2c9a2b0dabee40c8e88d6146":[7,0,0,0,1,3,2,1,2,8,6,6],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,2,1,2,8,6,3],
 "d9/d59/boss__vaelastrasz_8cpp.html#a61331983013ee1bae03d79f188b537a6":[7,0,0,0,1,3,2,1,2,8,8],
 "d9/d59/boss__vaelastrasz_8cpp.html#aa6b1d1380186602b7ff6054055bce67f":[7,0,0,0,1,3,2,1,2,8,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX232 =
 "d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596a58e37aa9f30d84a720d64ab4945e70f2":[7,0,0,0,1,3,2,8,0,6,1],
 "d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596a721dafb8110521518fdeee7b9fa5f0b1":[7,0,0,0,1,3,2,8,0,6,3],
 "d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596ab77f165542c4c408d48a3d967d04af07":[7,0,0,0,1,3,2,8,0,6,0],
-"d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596abf53b862b5edf27f96cd0651fd42e28a":[7,0,0,0,1,3,2,8,0,6,2]
+"d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596abf53b862b5edf27f96cd0651fd42e28a":[7,0,0,0,1,3,2,8,0,6,2],
+"d9/d61/boss__darkmaster__gandling_8cpp.html#a903ed15f0aa140d45b78116813e38596aec0785bc14c9c3148d9b94746bd2da4a":[7,0,0,0,1,3,2,8,0,6,5]
 };

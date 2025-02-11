@@ -1,6 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/dd6/structboss__broggok.html#ae20c04793116d3e8eab62d2ee27010df":[6,0,386,0],
 "da/dd6/structboss__broggok.html#af11b4dc2aee8064a1eaad334d93e6de0":[6,0,386,4],
 "da/dd6/structboss__broggok.html#af5de5a1747c502f72af015c09d050354":[6,0,386,1],
 "da/dd7/classspell__apothecary__cologne__spill.html":[6,0,2564],
@@ -249,5 +248,6 @@ var NAVTREEINDEX264 =
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#acd3961c7c81f88a341cb71888c55c882":[6,0,2222,0,0],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#acf85448a221a37be819b7ab82f4f9fdc":[6,0,2222,0,4],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#af9b40af943ee8a7c9bd8866f116871fc":[6,0,2222,0,5],
-"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#afbd441c5ebf2207d37da1a905be1a247":[6,0,2222,0,1]
+"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#afbd441c5ebf2207d37da1a905be1a247":[6,0,2222,0,1],
+"da/de2/boss__ebonroc_8cpp.html":[7,0,0,0,1,3,2,1,2,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX285 =
 {
-"db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558":[5,0,21,17,0],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642":[5,0,21,17,4],
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,21,28],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[6,0,0,5,0,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX285 =
 "db/dca/classMapScript.html#a280ca8d9bfa672c10d34a99db53d2959":[6,0,1461,10],
 "db/dca/classMapScript.html#a3b2e87c4a0ffdbf848c988a5d688d626":[6,0,1461,8],
 "db/dca/classMapScript.html#a3d74ae0f2535cda31cf2d4125600f3e2":[6,0,1461,7],
-"db/dca/classMapScript.html#a4631768d457c2804f057c565d6e8fb7a":[6,0,1461,4]
+"db/dca/classMapScript.html#a4631768d457c2804f057c565d6e8fb7a":[6,0,1461,4],
+"db/dca/classMapScript.html#a4e447511780a0c561e16b9e118361f63":[6,0,1461,9]
 };

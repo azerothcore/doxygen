@@ -1,6 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d97/structSkillLineAbilityEntry.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d":[6,0,2514,7],
 "d8/d97/structSkillLineAbilityEntry.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd":[6,0,2514,6],
 "d8/d97/structSkillLineAbilityEntry.html#a2a6c4b50a288ea023099fb49aaca37e4":[6,0,2514,3],
 "d8/d97/structSkillLineAbilityEntry.html#a31a8f5d642b2826b58bc7dfaf5f26719":[6,0,2514,0],
@@ -65,14 +64,14 @@ var NAVTREEINDEX219 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1626,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1626,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1626,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,30,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2461],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2461,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2461,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX219 =
 "d8/da7/structboss__garr_1_1boss__garrAI.html#a12d403a90bf4920763ddd87b252f544a":[6,0,474,0,0],
 "d8/da7/structboss__garr_1_1boss__garrAI.html#a3b2bf0e6d3b6b32c450d03b1c88f3850":[6,0,474,0,1],
 "d8/da7/structboss__garr_1_1boss__garrAI.html#ab807c47afd1ba8320730c3aa733e1b15":[6,0,474,0,4],
-"d8/da7/structboss__garr_1_1boss__garrAI.html#aca82837e143f4509db221de15276b90c":[6,0,474,0,3]
+"d8/da7/structboss__garr_1_1boss__garrAI.html#aca82837e143f4509db221de15276b90c":[6,0,474,0,3],
+"d8/da7/structboss__garr_1_1boss__garrAI.html#acb14e869dac8e7df83b5b9d858cd2b21":[6,0,474,0,2]
 };

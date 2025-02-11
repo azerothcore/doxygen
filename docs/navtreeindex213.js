@@ -1,6 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d8/d62/structLoot.html#a21b53989f30d155e42ff928e2a3fe580":[6,0,1420,7],
 "d8/d62/structLoot.html#a2a48b2d09c4518895c2a1c0c452f82c0":[6,0,1420,18],
 "d8/d62/structLoot.html#a2a807fdaa67f37677e66c7e8b3f92959":[6,0,1420,37],
 "d8/d62/structLoot.html#a306b206993cd60f1b413487feb5f97ac":[6,0,1420,21],
@@ -102,8 +101,8 @@ var NAVTREEINDEX213 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2548,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,9,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,30,9,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,9,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,30,9,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,9,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,526],
 "d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,526,2],
 "d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,526,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX213 =
 "d8/d72/classBattlegroundQueue.html#ad3f9ef46f22bad92ed04704f9f898e01":[6,0,316,34],
 "d8/d72/classBattlegroundQueue.html#ae457aefbd607eae5a6ebb809917e0dd2":[6,0,316,18],
 "d8/d72/classBattlegroundQueue.html#aec5a5dc9b8f0ce85665af73ebd9f11d5":[6,0,316,5],
-"d8/d72/classBattlegroundQueue.html#aec633181b16f50d0b4bfa00eb4f737df":[6,0,316,10]
+"d8/d72/classBattlegroundQueue.html#aec633181b16f50d0b4bfa00eb4f737df":[6,0,316,10],
+"d8/d72/classBattlegroundQueue.html#af07a7b1feee7c3158be1efc4e9823a25":[6,0,316,30]
 };

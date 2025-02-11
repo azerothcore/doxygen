@@ -1,6 +1,5 @@
 var NAVTREEINDEX176 =
 {
-"d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,3770,0],
 "d6/d9f/structCondition.html":[6,0,872],
 "d6/d9f/structCondition.html#a37333d2f5e007c96d2808b51cd95ce4e":[6,0,872,2],
 "d6/d9f/structCondition.html#a39ec8f2115b587bbdc87b9f90ac749ae":[6,0,872,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX176 =
 "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a5bc660f5b3f7eba58ad5feb4cc97b863":[7,0,0,0,1,3,3,6,21,7],
 "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a66421dc2ba4aad2ae967f0ea7e01eda0":[7,0,0,0,1,3,3,6,21,4],
 "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a80af6d006ebda9a2f393ab7b40e34b16":[7,0,0,0,1,3,3,6,21,2],
-"d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a943f97d742dfd831fe988ca89b935a7a":[7,0,0,0,1,3,3,6,21,5]
+"d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a943f97d742dfd831fe988ca89b935a7a":[7,0,0,0,1,3,3,6,21,5],
+"d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503aa4992462634636849dc5588d0b1ef532":[7,0,0,0,1,3,3,6,21,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX365 =
 {
-"de/da9/classMotionTransport.html#a4644371fc5f276dac58a53cd6da3c89f":[6,0,1491,14],
 "de/da9/classMotionTransport.html#a47548b40dcb724188f94bb0bbf3475a2":[6,0,1491,6],
 "de/da9/classMotionTransport.html#a50ceb5a1c496ba4ad862e172fb0554e6":[6,0,1491,4],
 "de/da9/classMotionTransport.html#a57eb95df116519359de5d29e2a8c7163":[6,0,1491,15],
@@ -249,5 +248,6 @@ var NAVTREEINDEX365 =
 "de/db5/classBattlegroundDS.html#ae008bf979e6984856237938dfe743ec7":[6,0,303,5],
 "de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[6,0,303,6],
 "de/db6/classspell__dk__raise__ally__trigger.html":[6,0,2732],
-"de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[6,0,2732,0]
+"de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[6,0,2732,0],
+"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[6,0,2732,2]
 };

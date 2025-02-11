@@ -1,6 +1,5 @@
 var NAVTREEINDEX244 =
 {
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904af1e715b4c225329a7fe69c18e6de5886":[7,0,0,0,1,3,5,9,2,16,5,13],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904af2dada6136ddc7445d3f46b6b3419ef1":[7,0,0,0,1,3,5,9,2,16,5,63],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904af93be0411b521fbf7ca321bd601ae38f":[7,0,0,0,1,3,5,9,2,16,5,35],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904afa567b28e19fd21f82ddb9f716504270":[7,0,0,0,1,3,5,9,2,16,5,44],
@@ -249,5 +248,6 @@ var NAVTREEINDEX244 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[6,0,809,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[6,0,809,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[6,0,809,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,809,58]
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,809,58],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,809,59]
 };

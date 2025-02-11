@@ -1,6 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0":[7,0,0,0,1,2,8,0,15,1,0],
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921":[7,0,0,0,1,2,8,0,15,1,3],
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934":[7,0,0,0,1,2,8,0,15,1,2],
 "da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24":[7,0,0,0,1,2,8,0,15,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX251 =
 "da/d64/PlayerUpdates_8cpp.html#a66adde9ba6a85d585f6e6e8355499aa6":[7,0,0,0,1,2,16,7,14,3],
 "da/d64/PlayerUpdates_8cpp.html#a72b3624ee55553e28f82ef06d7c74c6a":[7,0,0,0,1,2,16,7,14,8],
 "da/d64/PlayerUpdates_8cpp.html#a8172910e1dfdc7b56ca3931dd2fab1fb":[7,0,0,0,1,2,16,7,14,0],
-"da/d64/PlayerUpdates_8cpp.html#aa522147fa6130f7d54551f137424bd15":[7,0,0,0,1,2,16,7,14,5]
+"da/d64/PlayerUpdates_8cpp.html#aa522147fa6130f7d54551f137424bd15":[7,0,0,0,1,2,16,7,14,5],
+"da/d64/PlayerUpdates_8cpp.html#aa890f698ac89e4049e1107c05d065495":[7,0,0,0,1,2,16,7,14,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503aa4992462634636849dc5588d0b1ef532":[7,0,0,0,1,3,3,6,21,6],
 "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503aaba7748854831cfc2b7b36aa8ba09a5f":[7,0,0,0,1,3,3,6,21,1],
 "d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8":[7,0,0,0,1,3,3,6,20],
 "d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8a0742582fb100a048256a524bf04d7f41":[7,0,0,0,1,3,3,6,20,26],
@@ -249,5 +248,6 @@ var NAVTREEINDEX177 =
 "d6/dc9/classspell__vem__vengeance.html#a8fa6932a6cf291d8ab40140b171e1c17":[6,0,3868,0],
 "d6/dca/pilgrims__bounty_8cpp.html":[7,0,0,0,1,3,3,7],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7":[7,0,0,0,1,3,3,7,12],
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b":[7,0,0,0,1,3,3,7,12,32]
+"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b":[7,0,0,0,1,3,3,7,12,32],
+"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105":[7,0,0,0,1,3,3,7,12,13]
 };

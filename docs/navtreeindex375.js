@@ -1,6 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba12bd222a96c12e682a62496e90dbbda5":[7,0,0,0,1,2,16,5,0,4,4,4],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba143b4ba9ef19df854e38756d08a2043f":[7,0,0,0,1,2,16,5,0,4,4,18],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba19a005b27de65324c93bd60461767bc4":[7,0,0,0,1,2,16,5,0,4,4,5],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba1b4b493c700591fb7b16d2c41b66de4b":[7,0,0,0,1,2,16,5,0,4,4,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX375 =
 "df/d2d/classgo__acherus__soul__prison.html":[6,0,1091],
 "df/d2d/classgo__acherus__soul__prison.html#a13c858f74080b8f7963fdacc4b554019":[6,0,1091,0],
 "df/d2d/classgo__acherus__soul__prison.html#a904059cbeac3ddb3acf07ec1afe78c37":[6,0,1091,1],
-"df/d2d/classspell__sindragosa__mystic__buffet.html":[6,0,3746]
+"df/d2d/classspell__sindragosa__mystic__buffet.html":[6,0,3746],
+"df/d2d/classspell__sindragosa__mystic__buffet.html#a24466e7a04722cc7559b086f89d2edc8":[6,0,3746,1]
 };
