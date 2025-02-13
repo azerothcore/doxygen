@@ -10,7 +10,7 @@ var classSmartAI =
     [ "CanRespawn", "da/ddc/classSmartAI.html#a99d0acc079c361e61ecc861b6afd7313", null ],
     [ "CheckConditions", "da/ddc/classSmartAI.html#ad7a0000039c97cdb621ddec564974f7e", null ],
     [ "CorpseRemoved", "da/ddc/classSmartAI.html#abe474c35fc913dc4a9b196da8b9829c7", null ],
-    [ "DamageDealt", "da/ddc/classSmartAI.html#ac2def53ef1444c613958dbe2144ada00", null ],
+    [ "DamageDealt", "da/ddc/classSmartAI.html#a27df76950c42e58f7cb2f59802c43947", null ],
     [ "DamageTaken", "da/ddc/classSmartAI.html#adfff7ae3ece146add0262c2c7db2491a", null ],
     [ "DoAction", "da/ddc/classSmartAI.html#ad442b0b03df29c739d1480dc91a80787", null ],
     [ "EndPath", "da/ddc/classSmartAI.html#a592de7ca189581b9d9adf36e22bcf974", null ],

@@ -3,7 +3,7 @@ var structboss__janalai =
     [ "boss_janalai", "dc/dda/structboss__janalai.html#a6a049cb60b475b6c496862205d91c39f", null ],
     [ "Boom", "dc/dda/structboss__janalai.html#a902814fa472af7dde6096e6e1901bfd4", null ],
     [ "CheckEvadeIfOutOfCombatArea", "dc/dda/structboss__janalai.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "dc/dda/structboss__janalai.html#a1bd1d7567bf59c066b380d5b6fbbb9bf", null ],
+    [ "DamageDealt", "dc/dda/structboss__janalai.html#af29b99a31b38516815390087d76c9408", null ],
     [ "FireWall", "dc/dda/structboss__janalai.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
     [ "HatchAllEggs", "dc/dda/structboss__janalai.html#a7caee2554fe4f6211589e3346d1865fd", null ],
     [ "JustDied", "dc/dda/structboss__janalai.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],

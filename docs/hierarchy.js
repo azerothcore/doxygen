@@ -1546,7 +1546,22 @@ var hierarchy =
     [ "AreaTrigger", "d9/d1c/structAreaTrigger.html", null ],
     [ "AreaTriggerTeleport", "d5/da7/structAreaTriggerTeleport.html", null ],
     [ "ArenaLogEntryData", "d1/d9a/classArenaLogEntryData.html", null ],
-    [ "ArenaTeam", "d4/dc6/classArenaTeam.html", null ],
+    [ "ArenaSeasonMgr", "d1/d17/classArenaSeasonMgr.html", null ],
+    [ "ArenaSeasonReward", "de/df0/structArenaSeasonReward.html", null ],
+    [ "ArenaSeasonRewardDistributor", "d0/dae/classArenaSeasonRewardDistributor.html", null ],
+    [ "ArenaSeasonRewardGroup", "d5/dd9/structArenaSeasonRewardGroup.html", null ],
+    [ "ArenaSeasonTeamRewarder", "d4/d07/classArenaSeasonTeamRewarder.html", [
+      [ "ArenaSeasonTeamRewarderImpl", "dc/d4b/classArenaSeasonTeamRewarderImpl.html", null ],
+      [ "MockArenaSeasonTeamRewarder", "d8/d8b/classMockArenaSeasonTeamRewarder.html", null ]
+    ] ],
+    [ "ArenaTeam", "d4/dc6/classArenaTeam.html", [
+      [ "ArenaTeamTest", "d8/d12/classArenaTeamTest.html", null ]
+    ] ],
+    [ "ArenaTeamFilter", "d4/d74/classArenaTeamFilter.html", [
+      [ "ArenaTeamFilterAllTeams", "d4/df6/classArenaTeamFilterAllTeams.html", null ],
+      [ "ArenaTeamFilterByTypes", "d7/d19/classArenaTeamFilterByTypes.html", null ]
+    ] ],
+    [ "ArenaTeamFilterFactoryByUserInput", "dc/da2/classArenaTeamFilterFactoryByUserInput.html", null ],
     [ "ArenaTeamMember", "d4/ddf/structArenaTeamMember.html", null ],
     [ "ArenaTeamMgr", "d3/da8/classArenaTeamMgr.html", null ],
     [ "ArenaTeamScore", "d3/d19/structArenaTeamScore.html", null ],
@@ -4495,6 +4510,8 @@ var hierarchy =
     [ "TempSummonGroupKey", "dc/d7b/structTempSummonGroupKey.html", null ],
     [ "MMAP::TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html", null ],
     [ "testing::Test", null, [
+      [ "ArenaSeasonRewardDistributorTest", "d5/d6e/classArenaSeasonRewardDistributorTest.html", null ],
+      [ "ArenaTeamFilterTest", "d8/dd2/classArenaTeamFilterTest.html", null ],
       [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ]
     ] ],
     [ "tf_tower_world_state", "dd/d26/structtf__tower__world__state.html", null ],
@@ -5921,6 +5938,7 @@ var hierarchy =
     ] ],
     [ "Acore::WorldObjectWorker< Do >", "da/dba/structAcore_1_1WorldObjectWorker.html", null ],
     [ "WorldSession", "d8/d74/classWorldSession.html", null ],
+    [ "WorldSessionMgr", "d0/d5e/classWorldSessionMgr.html", null ],
     [ "WorldState", "d3/da9/classWorldState.html", null ],
     [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html", null ],
     [ "Acore::WorldWorldTextBuilder", "d0/d23/classAcore_1_1WorldWorldTextBuilder.html", null ],

@@ -2,7 +2,7 @@ var structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI =
 [
     [ "boss_prince_kelesethAI", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5743d3b9db43e31b7de861338f657a3e", null ],
     [ "AttackStart", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a48fa8a4094331da081e93470af5a34b4", null ],
-    [ "DamageDealt", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a534908423aeec2993c8260a09ab22692", null ],
+    [ "DamageDealt", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a1102dc1a5feabf3b4a9cf170835f8ade", null ],
     [ "DamageTaken", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5cc920075198e9dfdbfae94d32099392", null ],
     [ "DoAction", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a32615a07ab4974923a9f8ed3fb6b5eb5", null ],
     [ "EnterEvadeMode", "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c", null ],

@@ -22,6 +22,7 @@ var classBattlegroundMgr =
     [ "CreateClientVisibleInstanceId", "d1/d1a/classBattlegroundMgr.html#ad63c12ce8ddf74a5a70672c5f713f7dc", null ],
     [ "CreateNewBattleground", "d1/d1a/classBattlegroundMgr.html#a9e88a03b4ba612e41d918a8193599a93", null ],
     [ "DeleteAllBattlegrounds", "d1/d1a/classBattlegroundMgr.html#a3597287df2905e6d26a6d27f648720d3", null ],
+    [ "GetActiveBattlegrounds", "d1/d1a/classBattlegroundMgr.html#a3ec9a5fbf1cdb3383f8a58239e8b46eb", null ],
     [ "GetBattleground", "d1/d1a/classBattlegroundMgr.html#ac856eff37b502b631da5caef444ed2d7", null ],
     [ "GetBattlegroundQueue", "d1/d1a/classBattlegroundMgr.html#a768bdb6dd924ddbce6a0f4258c8eb31e", null ],
     [ "GetBattlegroundTemplate", "d1/d1a/classBattlegroundMgr.html#accfc60dcbdd85535e1d16a3e22857cd9", null ],

@@ -87,6 +87,6 @@ var classPet =
     [ "m_tempoldTarget", "df/d14/classPet.html#af98d9932f6260f70dee8e43526790ec2", null ],
     [ "m_tempspell", "df/d14/classPet.html#a92c2d9d4849f602c21b2fc166d699c1f", null ],
     [ "m_tempspellIsPositive", "df/d14/classPet.html#a99f2a004a9f240577b0dea12eceb247d", null ],
-    [ "m_tempspellTarget", "df/d14/classPet.html#a58814ff4e27910f3f4d20d72425674a0", null ],
+    [ "m_tempspellTarget", "df/d14/classPet.html#ae2e012cf32db4cb54424dd7a227beef7", null ],
     [ "m_usedTalentCount", "df/d14/classPet.html#a29db51ddfb19ca7fe27815b9cbe11f9f", null ]
 ];

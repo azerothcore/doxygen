@@ -43,6 +43,6 @@ var boss__urom_8cpp =
       [ "SAY_PLAYER_KILL", "d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a20a5bea295e2dcd7f92a48fe31981191", null ]
     ] ],
     [ "AddSC_boss_urom", "d4/d8d/boss__urom_8cpp.html#a88dfb5e1f3bdbc3644a90d55d5aa6fb1", null ],
-    [ "cords", "d4/d8d/boss__urom_8cpp.html#af429de7522143f067a4756f8d76e83ce", null ],
+    [ "cords", "d4/d8d/boss__urom_8cpp.html#adc9f707bf6c91e9f987833aa0a341364", null ],
     [ "summons", "d4/d8d/boss__urom_8cpp.html#af4c297ccc6a80b137d9b5d80e31086ed", null ]
 ];

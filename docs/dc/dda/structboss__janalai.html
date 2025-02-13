@@ -136,9 +136,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1dd381dbf7bdc25e6a5fc519b132c5e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a37aacd788ee8206a8ffbaad7ba702736" id="r_a37aacd788ee8206a8ffbaad7ba702736"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dda/structboss__janalai.html#a37aacd788ee8206a8ffbaad7ba702736">JustSummoned</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *summon) override</td></tr>
 <tr class="separator:a37aacd788ee8206a8ffbaad7ba702736"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1bd1d7567bf59c066b380d5b6fbbb9bf" id="r_a1bd1d7567bf59c066b380d5b6fbbb9bf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dda/structboss__janalai.html#a1bd1d7567bf59c066b380d5b6fbbb9bf">DamageDealt</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *target, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;damage, <a class="el" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1">DamageEffectType</a>) override</td></tr>
-<tr class="memdesc:a1bd1d7567bf59c066b380d5b6fbbb9bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called at any Damage to any victim (before damage apply)  <br /></td></tr>
-<tr class="separator:a1bd1d7567bf59c066b380d5b6fbbb9bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af29b99a31b38516815390087d76c9408" id="r_af29b99a31b38516815390087d76c9408"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dda/structboss__janalai.html#af29b99a31b38516815390087d76c9408">DamageDealt</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *target, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;damage, <a class="el" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1">DamageEffectType</a>, <a class="el" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a>) override</td></tr>
+<tr class="memdesc:af29b99a31b38516815390087d76c9408"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called at any Damage to any victim (before damage apply)  <br /></td></tr>
+<tr class="separator:af29b99a31b38516815390087d76c9408"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af16f7db848ff2ddcf060ba770d0df836" id="r_af16f7db848ff2ddcf060ba770d0df836"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dda/structboss__janalai.html#af16f7db848ff2ddcf060ba770d0df836">JustEngagedWith</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *who) override</td></tr>
 <tr class="memdesc:af16f7db848ff2ddcf060ba770d0df836"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged.  <br /></td></tr>
 <tr class="separator:af16f7db848ff2ddcf060ba770d0df836"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -721,8 +721,8 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a1bd1d7567bf59c066b380d5b6fbbb9bf" name="a1bd1d7567bf59c066b380d5b6fbbb9bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1bd1d7567bf59c066b380d5b6fbbb9bf">&#9670;&#160;</a></span>DamageDealt()</h2>
+<a id="af29b99a31b38516815390087d76c9408" name="af29b99a31b38516815390087d76c9408"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af29b99a31b38516815390087d76c9408">&#9670;&#160;</a></span>DamageDealt()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -746,6 +746,12 @@ Additional Inherited Members</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1">DamageEffectType</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a>&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -763,7 +769,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Called at any Damage to any victim (before damage apply) </p>
 
-<p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#ad2ff7747aadce5bf9b3734a5f7abbc1b">UnitAI</a>.</p>
+<p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aa9a922f8a3d15fcae49c6d5e74c6bae5">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  177</span>    {</div>
 <div class="line"><span class="lineno">  178</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dda/structboss__janalai.html#a0fc79fcdfdd27baa047d22b86135a653">_isFlameBreathing</a>)</div>
 <div class="line"><span class="lineno">  179</span>        {</div>
@@ -1138,7 +1144,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__janalai_8cpp_html_a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d"><div class="ttname"><a href="../../d9/df1/boss__janalai_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d">SPELL_HATCH_ALL</a></div><div class="ttdeci">@ SPELL_HATCH_ALL</div><div class="ttdef"><b>Definition</b> boss_janalai.cpp:50</div></div>
 <div class="ttc" id="aclassBossAI_html_aab20c7bf9fd41e651496c529bcc5ad94"><div class="ttname"><a href="../../d3/d24/classBossAI.html#aab20c7bf9fd41e651496c529bcc5ad94">BossAI::ScheduleHealthCheckEvent</a></div><div class="ttdeci">void ScheduleHealthCheckEvent(uint32 healthPct, std::function&lt; void()&gt; exec)</div><div class="ttdoc">Executes a function once the creature reaches the defined health point percent.</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:774</div></div>
 <div class="ttc" id="aclassBossAI_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:496</div></div>
-<div class="ttc" id="aclassCreature_html_a73a7d3d9c51705f6e06d3cb8149a0212"><div class="ttname"><a href="../../db/dd5/classCreature.html#a73a7d3d9c51705f6e06d3cb8149a0212">Creature::SetPosition</a></div><div class="ttdeci">void SetPosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3169</div></div>
+<div class="ttc" id="aclassCreature_html_a73a7d3d9c51705f6e06d3cb8149a0212"><div class="ttname"><a href="../../db/dd5/classCreature.html#a73a7d3d9c51705f6e06d3cb8149a0212">Creature::SetPosition</a></div><div class="ttdeci">void SetPosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3171</div></div>
 <div class="ttc" id="aclassEventProcessor_html_a15a65ecc2391f505266176cfc7f29c39"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#a15a65ecc2391f505266176cfc7f29c39">EventProcessor::KillAllEvents</a></div><div class="ttdeci">void KillAllEvents(bool force)</div><div class="ttdef"><b>Definition</b> EventProcessor.cpp:82</div></div>
 <div class="ttc" id="aclassEventProcessor_html_a29651ba6704e7908820af60ec37a2478"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#a29651ba6704e7908820af60ec37a2478">EventProcessor::CancelEventGroup</a></div><div class="ttdeci">void CancelEventGroup(uint8 group)</div><div class="ttdef"><b>Definition</b> EventProcessor.cpp:114</div></div>
 <div class="ttc" id="aclassMotionMaster_html_afa6ffa9c5d6897f3aad3ac524c7bb35a"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">MotionMaster::Clear</a></div><div class="ttdeci">void Clear(bool reset=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:167</div></div>
@@ -1148,7 +1154,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructboss__janalai_html_a7caee2554fe4f6211589e3346d1865fd"><div class="ttname"><a href="../../dc/dda/structboss__janalai.html#a7caee2554fe4f6211589e3346d1865fd">boss_janalai::HatchAllEggs</a></div><div class="ttdeci">bool HatchAllEggs(uint32 hatchAction)</div><div class="ttdef"><b>Definition</b> boss_janalai.cpp:252</div></div>
 <div class="ttc" id="astructboss__janalai_html_a881f564fe75051c1c10e645d3f0b243b"><div class="ttname"><a href="../../dc/dda/structboss__janalai.html#a881f564fe75051c1c10e645d3f0b243b">boss_janalai::_isBombing</a></div><div class="ttdeci">bool _isBombing</div><div class="ttdef"><b>Definition</b> boss_janalai.cpp:370</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00370">_isBombing</a>, <a class="el" href="../../#l00371">_isFlameBreathing</a>, <a class="el" href="../../#l00372">_sideHatched</a>, <a class="el" href="../../#l10459">Unit::AttackStop()</a>, <a class="el" href="../../#l00114">EventProcessor::CancelEventGroup()</a>, <a class="el" href="../../#l00167">MotionMaster::Clear()</a>, <a class="el" href="../../#l00248">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00115">GROUP_ENRAGE</a>, <a class="el" href="../../#l05752">Unit::HasAura()</a>, <a class="el" href="../../#l00108">HATCH_RESET</a>, <a class="el" href="../../#l00252">HatchAllEggs()</a>, <a class="el" href="../../#l00078">janalainPos</a>, <a class="el" href="../../#l00082">EventProcessor::KillAllEvents()</a>, <a class="el" href="../../#l00635">WorldObject::m_Events</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00033">SAY_ALL_EGGS</a>, <a class="el" href="../../#l00774">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l03169">Creature::SetPosition()</a>, <a class="el" href="../../#l00046">SPELL_ENRAGE</a>, <a class="el" href="../../#l00050">SPELL_HATCH_ALL</a>, and <a class="el" href="../../#l16752">Unit::StopMovingOnCurrentPos()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00370">_isBombing</a>, <a class="el" href="../../#l00371">_isFlameBreathing</a>, <a class="el" href="../../#l00372">_sideHatched</a>, <a class="el" href="../../#l10459">Unit::AttackStop()</a>, <a class="el" href="../../#l00114">EventProcessor::CancelEventGroup()</a>, <a class="el" href="../../#l00167">MotionMaster::Clear()</a>, <a class="el" href="../../#l00248">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00115">GROUP_ENRAGE</a>, <a class="el" href="../../#l05752">Unit::HasAura()</a>, <a class="el" href="../../#l00108">HATCH_RESET</a>, <a class="el" href="../../#l00252">HatchAllEggs()</a>, <a class="el" href="../../#l00078">janalainPos</a>, <a class="el" href="../../#l00082">EventProcessor::KillAllEvents()</a>, <a class="el" href="../../#l00635">WorldObject::m_Events</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00033">SAY_ALL_EGGS</a>, <a class="el" href="../../#l00774">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l03171">Creature::SetPosition()</a>, <a class="el" href="../../#l00046">SPELL_ENRAGE</a>, <a class="el" href="../../#l00050">SPELL_HATCH_ALL</a>, and <a class="el" href="../../#l16752">Unit::StopMovingOnCurrentPos()</a>.</p>
 
 </div>
 </div>
@@ -1430,7 +1436,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/dda/structboss__janalai.html">boss_janalai</a></li>
-    <li class="footer">Generated on Wed Feb 12 2025 06:20:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 13 2025 06:20:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

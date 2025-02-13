@@ -1,7 +1,7 @@
 var structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI =
 [
     [ "boss_prince_taldaramAI", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
-    [ "DamageDealt", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ad657caac275c5c43c9630db6c230ea6a", null ],
+    [ "DamageDealt", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a7fdce83dce5c425aa6ba266860808f8a", null ],
     [ "DamageTaken", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
     [ "DoAction", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
     [ "EnterEvadeMode", "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a145d62ce132c3cdaeb7918790122967b", null ],

@@ -2,7 +2,6 @@ var IWorld_8h =
 [
     [ "CliCommandHolder", "de/d80/structCliCommandHolder.html", "de/d80/structCliCommandHolder" ],
     [ "IWorld", "d5/d4d/classIWorld.html", "d5/d4d/classIWorld" ],
-    [ "SessionMap", "d2/d78/IWorld_8h.html#a24a95911e6375202b09db2333ec94fc1", null ],
     [ "Rates", "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20", [
       [ "RATE_HEALTH", "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a8bdee348b397c9fbaa19c38d23814cb2", null ],
       [ "RATE_POWER_MANA", "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a5f7f53b89eba684a78e954df438e9dcd", null ],
@@ -161,7 +160,6 @@ var IWorld_8h =
       [ "CONFIG_BATTLEGROUND_TRACK_DESERTERS", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0aa6b92f6e49187078e2543866cc0a0c68", null ],
       [ "CONFIG_BG_XP_FOR_KILL", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a06ec61e8b7598ce9aac00b5b4c663915", null ],
       [ "CONFIG_ARENA_AUTO_DISTRIBUTE_POINTS", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a1882d898cdee5466850d93688756463a", null ],
-      [ "CONFIG_ARENA_SEASON_IN_PROGRESS", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a5e8978d2b84af3d8dca26b77125f5049", null ],
       [ "CONFIG_ARENA_QUEUE_ANNOUNCER_ENABLE", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a8352804a84b26f2bd7f3679419c6bf86", null ],
       [ "CONFIG_ARENA_QUEUE_ANNOUNCER_PLAYERONLY", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a9f4b9a8804c854472e08a61d01f898c7", null ],
       [ "CONFIG_OFFHAND_CHECK_AT_SPELL_UNLEARN", "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a8daa70b5caa3696a40e7abb382a54742", null ],
@@ -245,6 +243,8 @@ var IWorld_8h =
       [ "CONFIG_ARENA_WIN_RATING_MODIFIER_2", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780a4aa6102fc0cf0df947d238cfecddce1a", null ],
       [ "CONFIG_ARENA_LOSE_RATING_MODIFIER", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780a4e0c9a65d5995d1af9ae06f2c8174b89", null ],
       [ "CONFIG_ARENA_MATCHMAKER_RATING_MODIFIER", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780ab36a57fc195a2a254e2fd3d226d60262", null ],
+      [ "CONFIG_RESPAWN_DYNAMICRATE_GAMEOBJECT", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780aba850298993f339cb4bca1ba3ea6cdc1", null ],
+      [ "CONFIG_RESPAWN_DYNAMICRATE_CREATURE", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780a1b8d9b9dc0ee52c158383f3da629ede1", null ],
       [ "FLOAT_CONFIG_VALUE_COUNT", "d2/d78/IWorld_8h.html#aa23506e28a8e9c6ea99ea2d0b1ea5780a04b55107c58ad59419d0932d0c39fd40", null ]
     ] ],
     [ "WorldIntConfigs", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41", [
@@ -366,7 +366,6 @@ var IWorld_8h =
       [ "CONFIG_ARENA_PREV_OPPONENTS_DISCARD_TIMER", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a9bf233b019fec991c7e87e83bc4f4828", null ],
       [ "CONFIG_ARENA_AUTO_DISTRIBUTE_INTERVAL_DAYS", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a7ec54f60ae2781bf1ad79691b68df081", null ],
       [ "CONFIG_ARENA_GAMES_REQUIRED", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a09c007960a1a354b6905af0250d41e76", null ],
-      [ "CONFIG_ARENA_SEASON_ID", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a03feb682b413bff57fddbc0f97cc7253", null ],
       [ "CONFIG_ARENA_START_RATING", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a0cf89807ea66fd80478c5110224c2347", null ],
       [ "CONFIG_LEGACY_ARENA_POINTS_CALC", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41ab21e88d6a1bd6bcfd1b0f75f14ddb2b0", null ],
       [ "CONFIG_ARENA_START_PERSONAL_RATING", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a8d50a88973ad684c4702dd8244dd1e00", null ],
@@ -463,6 +462,8 @@ var IWorld_8h =
       [ "CONFIG_AUCTIONHOUSE_WORKERTHREADS", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41acbf04c7b237f0ea807ec2f3b3aa88de6", null ],
       [ "CONFIG_SPELL_QUEUE_WINDOW", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a5e104e52d4032d6b6507b8e7c9997ac3", null ],
       [ "CONFIG_SUNSREACH_COUNTER_MAX", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41aa665c623ee4ce5d5942b73e3864328f4", null ],
+      [ "CONFIG_RESPAWN_DYNAMICMINIMUM_GAMEOBJECT", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41aecc354493401f18b5e5a36e620a22b35", null ],
+      [ "CONFIG_RESPAWN_DYNAMICMINIMUM_CREATURE", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a619620b3cf478cdb30094cb67c327552", null ],
       [ "INT_CONFIG_VALUE_COUNT", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a17d8a53ae2d7130180aac066b2f64adb", null ]
     ] ]
 ];

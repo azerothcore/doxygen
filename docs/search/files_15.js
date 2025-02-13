@@ -52,12 +52,14 @@ var searchData=
   ['worldserverpch_2eh_49',['worldserverPCH.h',['../db/d24/worldserverPCH_8h.html',1,'']]],
   ['worldsession_2ecpp_50',['WorldSession.cpp',['../d6/da7/WorldSession_8cpp.html',1,'']]],
   ['worldsession_2eh_51',['WorldSession.h',['../da/d53/WorldSession_8h.html',1,'']]],
-  ['worldsocket_2ecpp_52',['WorldSocket.cpp',['../d1/dd6/WorldSocket_8cpp.html',1,'']]],
-  ['worldsocket_2eh_53',['WorldSocket.h',['../d3/d80/WorldSocket_8h.html',1,'']]],
-  ['worldsocketmgr_2ecpp_54',['WorldSocketMgr.cpp',['../d9/de5/WorldSocketMgr_8cpp.html',1,'']]],
-  ['worldsocketmgr_2eh_55',['WorldSocketMgr.h',['../d9/d74/WorldSocketMgr_8h.html',1,'']]],
-  ['worldstate_2ecpp_56',['WorldState.cpp',['../db/d68/WorldState_8cpp.html',1,'']]],
-  ['worldstate_2eh_57',['WorldState.h',['../d7/d9a/WorldState_8h.html',1,'']]],
-  ['worldstatepackets_2ecpp_58',['WorldStatePackets.cpp',['../d0/db5/WorldStatePackets_8cpp.html',1,'']]],
-  ['worldstatepackets_2eh_59',['WorldStatePackets.h',['../d6/d9b/WorldStatePackets_8h.html',1,'']]]
+  ['worldsessionmgr_2ecpp_52',['WorldSessionMgr.cpp',['../dd/d30/WorldSessionMgr_8cpp.html',1,'']]],
+  ['worldsessionmgr_2eh_53',['WorldSessionMgr.h',['../de/d6d/WorldSessionMgr_8h.html',1,'']]],
+  ['worldsocket_2ecpp_54',['WorldSocket.cpp',['../d1/dd6/WorldSocket_8cpp.html',1,'']]],
+  ['worldsocket_2eh_55',['WorldSocket.h',['../d3/d80/WorldSocket_8h.html',1,'']]],
+  ['worldsocketmgr_2ecpp_56',['WorldSocketMgr.cpp',['../d9/de5/WorldSocketMgr_8cpp.html',1,'']]],
+  ['worldsocketmgr_2eh_57',['WorldSocketMgr.h',['../d9/d74/WorldSocketMgr_8h.html',1,'']]],
+  ['worldstate_2ecpp_58',['WorldState.cpp',['../db/d68/WorldState_8cpp.html',1,'']]],
+  ['worldstate_2eh_59',['WorldState.h',['../d7/d9a/WorldState_8h.html',1,'']]],
+  ['worldstatepackets_2ecpp_60',['WorldStatePackets.cpp',['../d0/db5/WorldStatePackets_8cpp.html',1,'']]],
+  ['worldstatepackets_2eh_61',['WorldStatePackets.h',['../d6/d9b/WorldStatePackets_8h.html',1,'']]]
 ];

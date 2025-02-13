@@ -4,6 +4,7 @@ var classArenaTeamMgr =
     [ "ArenaTeamMgr", "d3/da8/classArenaTeamMgr.html#a75121a3cd5d86b5b43b4ade8aa41e84a", null ],
     [ "~ArenaTeamMgr", "d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e", null ],
     [ "AddArenaTeam", "d3/da8/classArenaTeamMgr.html#a8716557895c17d3de97334849654e7b6", null ],
+    [ "DeleteAllArenaTeams", "d3/da8/classArenaTeamMgr.html#a4f8e6c59e23f1761eadde8a1988b8774", null ],
     [ "DistributeArenaPoints", "d3/da8/classArenaTeamMgr.html#a15b74f88c2715c9bd8baa3059284f715", null ],
     [ "GenerateArenaTeamId", "d3/da8/classArenaTeamMgr.html#a5556877a1a789ae1156c462e57109aee", null ],
     [ "GenerateTempArenaTeamId", "d3/da8/classArenaTeamMgr.html#a37ceab8c1edeb0c8915c37886dc4e7c2", null ],

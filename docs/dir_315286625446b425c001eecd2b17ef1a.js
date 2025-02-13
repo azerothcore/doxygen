@@ -7,6 +7,8 @@ var dir_315286625446b425c001eecd2b17ef1a =
     [ "WorldPacket.h", "d3/d73/WorldPacket_8h.html", "d3/d73/WorldPacket_8h" ],
     [ "WorldSession.cpp", "d6/da7/WorldSession_8cpp.html", "d6/da7/WorldSession_8cpp" ],
     [ "WorldSession.h", "da/d53/WorldSession_8h.html", "da/d53/WorldSession_8h" ],
+    [ "WorldSessionMgr.cpp", "dd/d30/WorldSessionMgr_8cpp.html", null ],
+    [ "WorldSessionMgr.h", "de/d6d/WorldSessionMgr_8h.html", "de/d6d/WorldSessionMgr_8h" ],
     [ "WorldSocket.cpp", "d1/dd6/WorldSocket_8cpp.html", "d1/dd6/WorldSocket_8cpp" ],
     [ "WorldSocket.h", "d3/d80/WorldSocket_8h.html", "d3/d80/WorldSocket_8h" ],
     [ "WorldSocketMgr.cpp", "d9/de5/WorldSocketMgr_8cpp.html", "d9/de5/WorldSocketMgr_8cpp" ],

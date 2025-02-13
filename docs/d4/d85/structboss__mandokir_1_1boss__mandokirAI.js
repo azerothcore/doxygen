@@ -2,7 +2,7 @@ var structboss__mandokir_1_1boss__mandokirAI =
 [
     [ "boss_mandokirAI", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
     [ "CalculateThreat", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7df606ab7059bdac98255ddfd5fffe80", null ],
+    [ "DamageDealt", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
     [ "DoAction", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
     [ "DoMeleeAttackIfReady", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
     [ "JustDied", "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],

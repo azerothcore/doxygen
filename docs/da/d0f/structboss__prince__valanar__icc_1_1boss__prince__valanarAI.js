@@ -2,7 +2,7 @@ var structboss__prince__valanar__icc_1_1boss__prince__valanarAI =
 [
     [ "boss_prince_valanarAI", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a2fea965d45c5ca8646d87634daf63fbe", null ],
     [ "CheckRoom", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a679228ccb0e31f463b04cd873fa7e16f", null ],
-    [ "DamageDealt", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#ac4c6ba1ee03b35f1c65fd1bd94e33ff2", null ],
+    [ "DamageDealt", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a06a216b9f75f50bf0e738398da37082c", null ],
     [ "DamageTaken", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc12adf72a109be78d5ff936e3432a8f", null ],
     [ "DoAction", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a51d020ef915d72366303fbb86892b3bf", null ],
     [ "EnterEvadeMode", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a6ab536425fe96d4e4e027d12acecb8e6", null ],

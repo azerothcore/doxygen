@@ -5,7 +5,7 @@ var classUnitAI =
     [ "AttackStart", "d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb", null ],
     [ "AttackStartCaster", "d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b", null ],
     [ "CanAIAttack", "d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690", null ],
-    [ "DamageDealt", "d0/ddd/classUnitAI.html#ad2ff7747aadce5bf9b3734a5f7abbc1b", null ],
+    [ "DamageDealt", "d0/ddd/classUnitAI.html#aa9a922f8a3d15fcae49c6d5e74c6bae5", null ],
     [ "DamageTaken", "d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91", null ],
     [ "DoAction", "d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed", null ],
     [ "DoAddAuraToAllHostilePlayers", "d0/ddd/classUnitAI.html#a109b45d74dd97d12a43a03918c31bfec", null ],
