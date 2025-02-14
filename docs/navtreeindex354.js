@@ -1,17 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd":[7,0,0,0,1,2,20,1,13,13],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e":[7,0,0,0,1,2,20,1,13,12],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af":[7,0,0,0,1,2,20,1,13,19],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e":[7,0,0,0,1,2,20,1,13,10],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721":[7,0,0,0,1,2,20,1,13,7],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65":[7,0,0,0,1,2,20,1,13,21],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81":[7,0,0,0,1,2,20,1,13,11],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[7,0,0,0,1,2,20,1,13,15],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[7,0,0,0,1,2,20,1,13,5],
-"de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
-"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37":[7,0,0,0,1,2,20,1,8,2],
 "de/d3d/Group_8h.html#ad409013260cb0aea80c911d24d7b5d00":[7,0,0,0,1,2,20,1,3],
@@ -249,5 +237,17 @@ var NAVTREEINDEX354 =
 "de/d4a/classspell__brewfest__toss__mug.html":[6,0,2657],
 "de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2657,0],
 "de/d4a/classspell__brewfest__toss__mug.html#a3567c72e999ad6ca9db15b4d6ddadafb":[6,0,2657,2],
-"de/d4a/classspell__brewfest__toss__mug.html#a47d6a6c1fcb2b04782e54d3797c1f42c":[6,0,2657,3]
+"de/d4a/classspell__brewfest__toss__mug.html#a47d6a6c1fcb2b04782e54d3797c1f42c":[6,0,2657,3],
+"de/d4a/classspell__brewfest__toss__mug.html#a73e6c9c91dccb309207fa3aeb6bd9d6f":[6,0,2657,5],
+"de/d4a/classspell__brewfest__toss__mug.html#a9638048b4107db116474abf8e18d7760":[6,0,2657,1],
+"de/d4a/classspell__brewfest__toss__mug.html#aab9211291bd9dab8255d94e4eb07bf8e":[6,0,2657,4],
+"de/d4a/structboss__fathomguard__tidalvess.html":[6,0,458],
+"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,458,7],
+"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,458,10],
+"de/d4a/structboss__fathomguard__tidalvess.html#a1b4ace7575946c585cc63057e81a1529":[6,0,458,15],
+"de/d4a/structboss__fathomguard__tidalvess.html#a1dc16180610c742e98a93f87653e93e9":[6,0,458,5],
+"de/d4a/structboss__fathomguard__tidalvess.html#a7f79a16e0c186e97aeb7f16f3b7d45ea":[6,0,458,3],
+"de/d4a/structboss__fathomguard__tidalvess.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33":[6,0,458,2],
+"de/d4a/structboss__fathomguard__tidalvess.html#a909601091c25285e0a6c9773b61ff049":[6,0,458,1],
+"de/d4a/structboss__fathomguard__tidalvess.html#a958c76b6ad9d9713625b10baa0d6d992":[6,0,458,12]
 };

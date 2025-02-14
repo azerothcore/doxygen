@@ -1,16 +1,5 @@
 var NAVTREEINDEX241 =
 {
-"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dad754608fadc01b8aaa8f5213bd44d028":[7,0,0,0,1,3,10,13,2,6],
-"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dadbe6fe3be78684641974e1e7bb83bab9":[7,0,0,0,1,3,10,13,2,0],
-"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54daffc7cf7aa1ccedc3a6d74811746c273e":[7,0,0,0,1,3,10,13,2,4],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,10,13,1],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0262850db660d2366c7fa07991153ca1":[7,0,0,0,1,3,10,13,1,14],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a05a2ec2642f23a2cbd150ba71ef2df04":[7,0,0,0,1,3,10,13,1,6],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d9ed0038709b80dbbb68a7d3abd091e":[7,0,0,0,1,3,10,13,1,13],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a67d73daa85947d4f135f5342a1fbbb86":[7,0,0,0,1,3,10,13,1,12],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c11512197ac7cf230e9af958c3e3db4":[7,0,0,0,1,3,10,13,1,0],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa34f27f6313f335110d9a9271dd87e85":[7,0,0,0,1,3,10,13,1,10],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aae268b0c35a399f6e7b0a135646316f0":[7,0,0,0,1,3,10,13,1,5],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8fa214b55ea772749b0bd654d205971":[7,0,0,0,1,3,10,13,1,4],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abe64374ca36158d4ed929191d707aac7":[7,0,0,0,1,3,10,13,1,1],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac55b3ad799ddc48197c4dc507c294029":[7,0,0,0,1,3,10,13,1,2],
@@ -249,5 +238,16 @@ var NAVTREEINDEX241 =
 "d9/ddc/ItemEnchantmentMgr_8cpp.html":[7,0,0,0,1,2,16,4,4],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[7,0,0,0,1,2,16,4,4,3],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[7,0,0,0,1,2,16,4,4,5],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7":[7,0,0,0,1,2,16,4,4,6]
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7":[7,0,0,0,1,2,16,4,4,6],
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#a76d03c9ceb2d3ac35582eaea4624544f":[7,0,0,0,1,2,16,4,4,4],
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#ab462bc366dd954f1c0b539c408b74c01":[7,0,0,0,1,2,16,4,4,1],
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#ab5e9dd6a265a402e7a9499fdaae1e850":[7,0,0,0,1,2,16,4,4,2],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html":[6,0,2432,0],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a135161ac21cd4f11f2178acc8316afea":[6,0,2432,0,5],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a384db60c65e7823fdbc0ff430ac8dfe1":[6,0,2432,0,13],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a3bf0675bb0e337d06f1e7ef31d7622fe":[6,0,2432,0,10],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a43aa5b63c21480a9a02e5b1705f5e46a":[6,0,2432,0,0],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa":[6,0,2432,0,9],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a5b4baade8dd78ab3dc00e1003f679fb3":[6,0,2432,0,6],
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a63276ee687270e668e7c51876ced5fb1":[6,0,2432,0,7]
 };

@@ -1,17 +1,5 @@
 var NAVTREEINDEX368 =
 {
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4":[7,0,0,0,1,2,0,1,3,1],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c":[7,0,0,0,1,2,0,1,3,2],
-"de/dd9/AccountMgr_8h.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,0,0,1,2,0,1,9],
-"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[7,0,0,0,1,2,0,1,0],
-"de/dd9/AccountMgr_8h.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,0,0,1,2,0,1,7],
-"de/dd9/AccountMgr_8h.html#a2a6c83e2d4e6121855beb252f23c905b":[7,0,0,0,1,2,0,1,4],
-"de/dd9/AccountMgr_8h.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,0,0,1,2,0,1,14],
-"de/dd9/AccountMgr_8h.html#a3382c6430bfbf14e32ca11b5ac68fc23":[7,0,0,0,1,2,0,1,6],
-"de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b":[7,0,0,0,1,2,0,1,2],
-"de/dd9/AccountMgr_8h.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,0,0,1,2,0,1,10],
-"de/dd9/AccountMgr_8h.html#a63751f144cb7acb57fc20f0caf5e7043":[7,0,0,0,1,2,0,1,17],
-"de/dd9/AccountMgr_8h.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,0,0,1,2,0,1,5],
 "de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214":[7,0,0,0,1,2,0,1,8],
 "de/dd9/AccountMgr_8h.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,0,0,1,2,0,1,16],
 "de/dd9/AccountMgr_8h.html#a8280510b2564ec6ea76727218c1687b3":[7,0,0,0,1,2,0,1,13],
@@ -249,5 +237,17 @@ var NAVTREEINDEX368 =
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[6,0,1318,0,6],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[6,0,1318,0,9],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a49ac1088399ef71b1fcd7c90c6a34fac":[6,0,1318,0,2],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a4abdd53f735be815cb2d43497d1531e0":[6,0,1318,0,0]
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a4abdd53f735be815cb2d43497d1531e0":[6,0,1318,0,0],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a5e90e8cadff18b19c9a1d451dbe675c9":[6,0,1318,0,4],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a71fcfc166f945325a4ee149645a9ccef":[6,0,1318,0,3],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a9d025f0d9740eaec42fe4f45971a6cf9":[6,0,1318,0,10],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a9f5070bfd7326ccaa1ebe697524a814b":[6,0,1318,0,8],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#aaf498d563d070d6250a182f583651777":[6,0,1318,0,5],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#ac6f544cf00bb6d987c9128cce9c1aa10":[6,0,1318,0,7],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#ad34fc11ed5bd36a8f3a84f183627deb1":[6,0,1318,0,11],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#af6c6214f8d506815afeeb2af4ad4a71b":[6,0,1318,0,12],
+"de/dea/structnpc__corrupted__totem.html":[6,0,1685],
+"de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[6,0,1685,3],
+"de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1685,4],
+"de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[6,0,1685,0]
 };

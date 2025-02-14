@@ -3,6 +3,9 @@ var magisters__terrace_8h =
     [ "DataHeader", "d6/d11/magisters__terrace_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "MTScriptName", "d6/d11/magisters__terrace_8h.html#a772413d8818d681e2261c99f58e1268c", null ],
     [ "RegisterMagistersTerraceCreatureAI", "d6/d11/magisters__terrace_8h.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d6/d11/magisters__terrace_8h.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d6/d11/magisters__terrace_8h.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    ] ],
     [ "InstanceEventIds", "d6/d11/magisters__terrace_8h.html#ab51342a4a8f5976e51b0074f9a5746f8", [
       [ "EVENT_SPAWN_KALECGOS", "d6/d11/magisters__terrace_8h.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
     ] ],

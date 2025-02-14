@@ -1,9 +1,5 @@
 var NAVTREEINDEX124 =
 {
-"d4/d56/structSpell_1_1ItemTargetInfo.html":[6,0,2556,2],
-"d4/d56/structSpell_1_1ItemTargetInfo.html#a3161ec2ffdf794c000cc94b91519d009":[6,0,2556,2,0],
-"d4/d56/structSpell_1_1ItemTargetInfo.html#afce5eba99c3dc33698dd12af8432f357":[6,0,2556,2,1],
-"d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html":[6,0,2251,0],
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a07e7b215ed7653fe7e1ee44d34a74bbd":[6,0,2251,0,2],
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a0d0e8d1af5179aea73aa60e060ba751a":[6,0,2251,0,8],
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a2b16dc3ad358e4179fe20e2066ba5c64":[6,0,2251,0,1],
@@ -162,8 +158,8 @@ var NAVTREEINDEX124 =
 "d4/d5a/classnpc__toc__warrior.html":[6,0,2176],
 "d4/d5a/classnpc__toc__warrior.html#a3e969be07603ef59389106769010660c":[6,0,2176,1],
 "d4/d5a/classnpc__toc__warrior.html#a557d9aa512c485e37b4a05b57ab3d1a4":[6,0,2176,2],
-"d4/d5a/unionMovement_1_1FacingInfo.html":[6,0,7,2],
 "d4/d5a/unionMovement_1_1FacingInfo.html":[5,0,21,2],
+"d4/d5a/unionMovement_1_1FacingInfo.html":[6,0,7,2],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a064b5265b4bb2a0053908bf6031b8f65":[5,0,21,2,5],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a064b5265b4bb2a0053908bf6031b8f65":[6,0,7,2,5],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a1ac825c359704924c66e46eada64e34e":[5,0,21,2,0],
@@ -172,12 +168,12 @@ var NAVTREEINDEX124 =
 "d4/d5a/unionMovement_1_1FacingInfo.html#a5ff017b732d47684f675041e44227754":[6,0,7,2,8],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a7820b3ce134dcca05b9b15299eb3b33f":[6,0,7,2,1],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a7820b3ce134dcca05b9b15299eb3b33f":[5,0,21,2,1],
-"d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[6,0,7,2,4],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[5,0,21,2,4],
+"d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[6,0,7,2,4],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac08687158cc0bcfbc9814b1cbbe95684":[5,0,21,2,6],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac08687158cc0bcfbc9814b1cbbe95684":[6,0,7,2,6],
-"d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[6,0,7,2,3],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[5,0,21,2,3],
+"d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[6,0,7,2,3],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ad7fcfb6b1c5402a0570748d343eadfcc":[5,0,21,2,7],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ad7fcfb6b1c5402a0570748d343eadfcc":[6,0,7,2,7],
 "d4/d5a/unionMovement_1_1FacingInfo.html#add6411db27c1d313d2f133adf0c35755":[5,0,21,2,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX124 =
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a900f3352aadd098f5a6289cbad77dab6ac6d4748634a4379bac5daa0f860fec50":[7,0,0,0,1,3,2,5,1,15,1],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a900f3352aadd098f5a6289cbad77dab6ace00400987bd4444f7fe64180848cf5b":[7,0,0,0,1,3,2,5,1,15,0],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#aa59c2db187ea6d36455fb737877f931c":[7,0,0,0,1,3,2,5,1,24],
-"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92":[7,0,0,0,1,3,2,5,1,20]
+"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92":[7,0,0,0,1,3,2,5,1,20],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a079fdbedeb449ce76d26fa93301be553":[7,0,0,0,1,3,2,5,1,20,4],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a4f4b8cd8f87524623197ea23d28c08dc":[7,0,0,0,1,3,2,5,1,20,5],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,5,1,20,6],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#aaf1f6da599c3d7b6c1ce3d779e46cc92a7f9d9318fd95cc478d4d66ba51e54dbe":[7,0,0,0,1,3,2,5,1,20,0]
 };

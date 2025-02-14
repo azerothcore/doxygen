@@ -1,17 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"de/d19/namespaceMMAP.html#a94a0ee7c4f225dfc488737a7ba825bae":[5,0,20,35],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165":[5,0,20,21],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12":[5,0,20,21,4],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b":[5,0,20,21,2],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[5,0,20,21,1],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[5,0,20,21,3],
-"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[5,0,20,21,0],
-"de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1":[5,0,20,16],
-"de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
-"de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html":[6,0,3000],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,3000,0],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,3000,3],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a9494bea35088161c9a520395d714fde1":[6,0,3000,2],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,3000,1],
@@ -249,5 +237,17 @@ var NAVTREEINDEX349 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,859],
-"de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2]
+"de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
+"de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
+"de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,859,0],
+"de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,859,3],
+"de/d20/structEmotesTextEntry.html":[6,0,1007],
+"de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1007,0],
+"de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1007,1],
+"de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7],
+"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,26],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,23],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,23,2],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,23,1],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,23,5]
 };

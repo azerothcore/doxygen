@@ -1,16 +1,5 @@
 var NAVTREEINDEX288 =
 {
-"db/dd5/classCreature.html#a1b526d2bc3cefab6bd3ffb66c089fb82":[6,0,907,13],
-"db/dd5/classCreature.html#a1b7ac1396ab86ac6c07d466b3151ac56":[6,0,907,121],
-"db/dd5/classCreature.html#a1be582fec26ac23706bf4178a87b09f4":[6,0,907,281],
-"db/dd5/classCreature.html#a1c86112bec4f340b9f1a78bd9c491e37":[6,0,907,299],
-"db/dd5/classCreature.html#a1cfc0e9f28173b3d419a0700c70aa5ae":[6,0,907,255],
-"db/dd5/classCreature.html#a1e4f1ed588789ac22b0833dceb1be880":[6,0,907,51],
-"db/dd5/classCreature.html#a1e574d0e011d1352003fcd6970981532":[6,0,907,258],
-"db/dd5/classCreature.html#a1e8e9b7c41b24a7d0b8b11f1f44a192d":[6,0,907,145],
-"db/dd5/classCreature.html#a2018fe25c84766f4a9286d9846f3d53c":[6,0,907,287],
-"db/dd5/classCreature.html#a223db1b78a3dc2730c1096f7d2ca3675":[6,0,907,107],
-"db/dd5/classCreature.html#a224f40a0c8521ce5a63064cd00be618e":[6,0,907,146],
 "db/dd5/classCreature.html#a22700e9023b19bf75b22135ca7cf477d":[6,0,907,228],
 "db/dd5/classCreature.html#a22cbdca149b752e92820dcf9c3c4255a":[6,0,907,126],
 "db/dd5/classCreature.html#a2582c88b3d69863436fa5535b6884a43":[6,0,907,307],
@@ -249,5 +238,16 @@ var NAVTREEINDEX288 =
 "db/dd5/classCreature.html#aea83098aeac3585b0b32d9c42c996340":[6,0,907,48],
 "db/dd5/classCreature.html#aeb904f603839b901b04460660c6d2a1d":[6,0,907,44],
 "db/dd5/classCreature.html#aeb92e111672bcbf70e810b0476a782c9":[6,0,907,114],
-"db/dd5/classCreature.html#aebde95fd71657665be8d152d4c3cbd94":[6,0,907,288]
+"db/dd5/classCreature.html#aebde95fd71657665be8d152d4c3cbd94":[6,0,907,288],
+"db/dd5/classCreature.html#aeefb6d051a5abfbbec8a07c67b397a25":[6,0,907,182],
+"db/dd5/classCreature.html#aef2b71f49792162b95ae610310a39a08":[6,0,907,108],
+"db/dd5/classCreature.html#aef9d08b3201a7ca820db28b6bbdd9463":[6,0,907,129],
+"db/dd5/classCreature.html#af04dcde6450a79eac41b53df9549c993":[6,0,907,125],
+"db/dd5/classCreature.html#af17d0e294d26a8c61ad17f0ba9b310d0":[6,0,907,284],
+"db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67":[6,0,907,9],
+"db/dd5/classCreature.html#af280020a72bceeccb5456281082d12fc":[6,0,907,154],
+"db/dd5/classCreature.html#af297d0d2933c5a290f3520adaa34fa5b":[6,0,907,248],
+"db/dd5/classCreature.html#af2ba01002d6a24a525342cfe6db3601a":[6,0,907,203],
+"db/dd5/classCreature.html#af446524f197ae14e4f4b46a9f247f223":[6,0,907,274],
+"db/dd5/classCreature.html#af4d52931d24b26093b1315768b712813":[6,0,907,122]
 };

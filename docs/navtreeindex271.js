@@ -1,16 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a9a662b435218a3e13ca58eb4a6b3af86":[6,0,1869,0,7],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a9d7b9bdcf9e185284dba5251a0deb0b3":[6,0,1869,0,10],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1869,0,3],
-"db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
-"db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,30,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,30,5,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,30,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4030,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4030,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4030,0,1],
@@ -249,5 +238,16 @@ var NAVTREEINDEX271 =
 "db/d35/classspell__dk__will__of__the__necropolis.html#a5ab2041dcc342b087d8c6fd9b8d2635f":[6,0,2758,0],
 "db/d35/classspell__dk__will__of__the__necropolis.html#a64e8bcde6ee27dd00e77d7bfa0864e81":[6,0,2758,6],
 "db/d35/classspell__dk__will__of__the__necropolis.html#a884927612b8ab2712a057da72f8180c6":[6,0,2758,3],
-"db/d35/classspell__dk__will__of__the__necropolis.html#aed6e525b71f18dafb6f458bc255a6495":[6,0,2758,1]
+"db/d35/classspell__dk__will__of__the__necropolis.html#aed6e525b71f18dafb6f458bc255a6495":[6,0,2758,1],
+"db/d35/classspell__dk__will__of__the__necropolis.html#af58ba552be9c91e8885ef1ccd567c96a":[6,0,2758,5],
+"db/d35/classspell__dk__will__of__the__necropolis.html#af73fcf4a73ba60e214c045471569f7b0":[6,0,2758,2],
+"db/d35/structGraveyardStruct.html":[6,0,1210],
+"db/d35/structGraveyardStruct.html#a148ead3270ad02213204792d6063cead":[6,0,1210,3],
+"db/d35/structGraveyardStruct.html#a3bd2bf63526b6ee4a15cf7a2244ff06b":[6,0,1210,0],
+"db/d35/structGraveyardStruct.html#adf56d09898752230a4fa1629849ac945":[6,0,1210,6],
+"db/d35/structGraveyardStruct.html#ae1dd7ba1294653756ea4af9d9b66fa2c":[6,0,1210,2],
+"db/d35/structGraveyardStruct.html#ae8f23fc9e53f6357d56b3a25ed514330":[6,0,1210,4],
+"db/d35/structGraveyardStruct.html#af2e239c4c76dff49090f8f1d8eb4d455":[6,0,1210,5],
+"db/d35/structGraveyardStruct.html#af4e60380e8434e5b8f573d2172ddf656":[6,0,1210,1],
+"db/d36/OutdoorPvPMgr_8h.html":[7,0,0,0,1,2,32,3]
 };

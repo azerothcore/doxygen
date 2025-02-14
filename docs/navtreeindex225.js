@@ -1,16 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9a9d77f0e12e8533aa15be553e91175a8f":[7,0,0,0,1,2,8,1,19,7,0],
-"d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9ab3e87a51e7e69f5fcb922455927cf9d1":[7,0,0,0,1,2,8,1,19,7,3],
-"d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9ad2bb88613bdc961d95584bceaf469aea":[7,0,0,0,1,2,8,1,19,7,1],
-"d8/de0/BattlegroundSA_8h.html#af84cb0582fa6a8afb2000ab86b942e08":[7,0,0,0,1,2,8,1,19,22],
-"d8/de0/classboss__thorim__lightning__orb.html":[6,0,735],
-"d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,735,1],
-"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,735,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1920],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1920,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1920,1],
-"d8/de1/structCalendarInvite.html":[6,0,830],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,830,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,830,7],
 "d8/de1/structCalendarInvite.html#a1a4c97cf72f6fa1889ab61e003f5193a":[6,0,830,15],
@@ -249,5 +238,16 @@ var NAVTREEINDEX225 =
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805":[7,0,0,0,1,2,3,6,3],
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56":[7,0,0,0,1,2,3,6,3,3],
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed":[7,0,0,0,1,2,3,6,3,4],
-"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2":[7,0,0,0,1,2,3,6,3,0]
+"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2":[7,0,0,0,1,2,3,6,3,0],
+"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452":[7,0,0,0,1,2,3,6,3,1],
+"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439":[7,0,0,0,1,2,3,6,3,2],
+"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654":[7,0,0,0,1,2,3,6,3,5],
+"d8/df3/CreatureAIImpl_8h.html#a1ed41ad074263f6c0c63f38b7f51414b":[7,0,0,0,1,2,3,6,4],
+"d8/df3/CreatureAIImpl_8h.html#a41c947edd84b4f2bb45133dc7aa00cad":[7,0,0,0,1,2,3,6,1],
+"d8/df3/CreatureAIImpl_8h.html#a6650ccba23715eea545340cd3e712233":[7,0,0,0,1,2,3,6,5],
+"d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c":[7,0,0,0,1,2,3,6,7],
+"d8/df3/CreatureAIImpl_8h.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,3,6,6],
+"d8/df3/CreatureAIImpl_8h.html#ac43b18581ae7a7b66984b1003502d5af":[7,0,0,0,1,2,3,6,2],
+"d8/df3/CreatureAIImpl_8h.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642":[7,0,0,0,1,2,3,6,2,1],
+"d8/df3/CreatureAIImpl_8h.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8":[7,0,0,0,1,2,3,6,2,0]
 };

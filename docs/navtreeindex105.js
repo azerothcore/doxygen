@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/da1/npc__professions_8cpp.html#a7692ef73b6e8f9b56a57c511a55655b8":[7,0,0,0,1,3,10,10,15],
 "d3/da1/npc__professions_8cpp.html#a7af7c75f26678e90f307515732b5a3d7":[7,0,0,0,1,3,10,10,9],
 "d3/da1/npc__professions_8cpp.html#a7c9fe875cf1d066558c2200d9a892cd7":[7,0,0,0,1,3,10,10,24],
 "d3/da1/npc__professions_8cpp.html#a7d255b0fd87a48149f13de5648285ccb":[7,0,0,0,1,3,10,10,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/daa/ScriptSystem_8h.html#a55d384db121a9bd513042ebdeb40e602":[7,0,0,0,1,2,38,9,3],
 "d3/daa/ScriptSystem_8h.html#a95cfdf568913b08b669f19b401f888a7":[7,0,0,0,1,2,38,9,2],
 "d3/daa/ScriptSystem_8h.html#aab50bb2bd1f4c2c015d1ed573408733a":[7,0,0,0,1,2,38,9,4],
-"d3/daa/classnpc__high__overlord__saurfang__icc.html":[6,0,1822],
-"d3/daa/classnpc__high__overlord__saurfang__icc.html#a21c04ab5b8d747c28c7355cc483ac6e3":[6,0,1822,2]
+"d3/daa/classnpc__high__overlord__saurfang__icc.html":[6,0,1822]
 };

@@ -129,8 +129,6 @@ Inheritance diagram for boss_nethermancer_sepethrea:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aae77446e9a8f2ac41601049d3fe9ffd4" id="r_aae77446e9a8f2ac41601049d3fe9ffd4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d55/structboss__nethermancer__sepethrea.html#aae77446e9a8f2ac41601049d3fe9ffd4">boss_nethermancer_sepethrea</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *creature)</td></tr>
 <tr class="separator:aae77446e9a8f2ac41601049d3fe9ffd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34fbf871d99519306469c010d5fed9c7" id="r_a34fbf871d99519306469c010d5fed9c7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d55/structboss__nethermancer__sepethrea.html#a34fbf871d99519306469c010d5fed9c7">CanAIAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target) const override</td></tr>
-<tr class="separator:a34fbf871d99519306469c010d5fed9c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a89851b9f6eb94270fe22151d3a968bec" id="r_a89851b9f6eb94270fe22151d3a968bec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d55/structboss__nethermancer__sepethrea.html#a89851b9f6eb94270fe22151d3a968bec">JustEngagedWith</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *) override</td></tr>
 <tr class="memdesc:a89851b9f6eb94270fe22151d3a968bec"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged.  <br /></td></tr>
 <tr class="separator:a89851b9f6eb94270fe22151d3a968bec"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -390,6 +388,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3bf60ae9d2c16f842e97cba569d8ec01 inherit pub_methods_classUnitAI" id="r_a3bf60ae9d2c16f842e97cba569d8ec01"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a3bf60ae9d2c16f842e97cba569d8ec01">~UnitAI</a> ()</td></tr>
 <tr class="separator:a3bf60ae9d2c16f842e97cba569d8ec01 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a2ee2c8c34726e0dd7d2e7a25047690 inherit pub_methods_classUnitAI" id="r_a5a2ee2c8c34726e0dd7d2e7a25047690"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">CanAIAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *) const</td></tr>
+<tr class="separator:a5a2ee2c8c34726e0dd7d2e7a25047690 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa88ecdf57b44fb013c3fed4ff59aec0d inherit pub_methods_classUnitAI" id="r_aa88ecdf57b44fb013c3fed4ff59aec0d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#aa88ecdf57b44fb013c3fed4ff59aec0d">InitializeAI</a> ()</td></tr>
 <tr class="separator:aa88ecdf57b44fb013c3fed4ff59aec0d inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a165d336cb3423f9665ed612d2dec76ed inherit pub_methods_classUnitAI" id="r_a165d336cb3423f9665ed612d2dec76ed"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)</td></tr>
@@ -613,59 +613,6 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a34fbf871d99519306469c010d5fed9c7" name="a34fbf871d99519306469c010d5fed9c7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34fbf871d99519306469c010d5fed9c7">&#9670;&#160;</a></span>CanAIAttack()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool boss_nethermancer_sepethrea::CanAIAttack </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#a7fe45d13a55cd657c383f8be4d7801c2">GetThreatListSize</a>() &gt; 1)</div>
-<div class="line"><span class="lineno">   57</span>        {</div>
-<div class="line"><span class="lineno">   58</span>            ThreatContainer::StorageType::const_iterator lastRef = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#afde3e6a5ca3fc977c6a79fadd530dd7c">GetOnlineContainer</a>().<a class="code hl_function" href="../../d7/d65/classThreatContainer.html#afee41781035f056b5fee91b9cde82639">GetThreatList</a>().end();</div>
-<div class="line"><span class="lineno">   59</span>            --lastRef;</div>
-<div class="line"><span class="lineno">   60</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* lastTarget = (*lastRef)-&gt;getTarget())</div>
-<div class="line"><span class="lineno">   61</span>            {</div>
-<div class="line"><span class="lineno">   62</span>                <span class="keywordflow">if</span> (lastTarget != target)</div>
-<div class="line"><span class="lineno">   63</span>                {</div>
-<div class="line"><span class="lineno">   64</span>                    <span class="keywordflow">return</span> !target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652">SPELL_DRAGONS_BREATH</a>);</div>
-<div class="line"><span class="lineno">   65</span>                }</div>
-<div class="line"><span class="lineno">   66</span>            }</div>
-<div class="line"><span class="lineno">   67</span>        }</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652">SPELL_DRAGONS_BREATH</a></div><div class="ttdeci">@ SPELL_DRAGONS_BREATH</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:40</div></div>
-<div class="ttc" id="aclassThreatContainer_html_afee41781035f056b5fee91b9cde82639"><div class="ttname"><a href="../../d7/d65/classThreatContainer.html#afee41781035f056b5fee91b9cde82639">ThreatContainer::GetThreatList</a></div><div class="ttdeci">StorageType const &amp; GetThreatList() const</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:176</div></div>
-<div class="ttc" id="aclassThreatMgr_html_a7fe45d13a55cd657c383f8be4d7801c2"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#a7fe45d13a55cd657c383f8be4d7801c2">ThreatMgr::GetThreatListSize</a></div><div class="ttdeci">float GetThreatListSize() const</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:221</div></div>
-<div class="ttc" id="aclassThreatMgr_html_afde3e6a5ca3fc977c6a79fadd530dd7c"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#afde3e6a5ca3fc977c6a79fadd530dd7c">ThreatMgr::GetOnlineContainer</a></div><div class="ttdeci">ThreatContainer &amp; GetOnlineContainer()</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:275</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
-<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:912</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00275">ThreatMgr::GetOnlineContainer()</a>, <a class="el" href="../../#l00176">ThreatContainer::GetThreatList()</a>, <a class="el" href="../../#l00221">ThreatMgr::GetThreatListSize()</a>, <a class="el" href="../../#l00912">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l05752">Unit::HasAura()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00040">SPELL_DRAGONS_BREATH</a>.</p>
-
-</div>
-</div>
 <a id="a0ac9dd29b73e8734318851ffd9a09162" name="a0ac9dd29b73e8734318851ffd9a09162"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0ac9dd29b73e8734318851ffd9a09162">&#9670;&#160;</a></span>EnterEvadeMode()</h2>
 
@@ -691,11 +638,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <span class="comment">// Fails probably because target is in evade mode (yes, she kills them on evade too). We&#39;ll kill them directly in their script for now</span></div>
-<div class="line"><span class="lineno">  105</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56">SPELL_QUELL_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  106</span>        <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">ScriptedAI::EnterEvadeMode</a>(why);</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>    {</div>
+<div class="line"><span class="lineno">   86</span>        <span class="comment">// Fails probably because target is in evade mode (yes, she kills them on evade too). We&#39;ll kill them directly in their script for now</span></div>
+<div class="line"><span class="lineno">   87</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56">SPELL_QUELL_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   88</span>        <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">ScriptedAI::EnterEvadeMode</a>(why);</div>
+<div class="line"><span class="lineno">   89</span>    }</div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56">SPELL_QUELL_RAGING_FLAMES</a></div><div class="ttdeci">@ SPELL_QUELL_RAGING_FLAMES</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:38</div></div>
 <div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:208</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:392</div></div>
@@ -729,11 +676,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  129</span>    {</div>
-<div class="line"><span class="lineno">  130</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae">_JustDied</a>();</div>
-<div class="line"><span class="lineno">  131</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a>);</div>
-<div class="line"><span class="lineno">  132</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56">SPELL_QUELL_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  133</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  111</span>    {</div>
+<div class="line"><span class="lineno">  112</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae">_JustDied</a>();</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a>);</div>
+<div class="line"><span class="lineno">  114</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56">SPELL_QUELL_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  115</span>    }</div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a></div><div class="ttdeci">@ SAY_DEATH</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:31</div></div>
 <div class="ttc" id="aclassBossAI_html_acb0ee118bdfc7f7aef660e44b5fb18ae"><div class="ttname"><a href="../../d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae">BossAI::_JustDied</a></div><div class="ttdeci">void _JustDied()</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:643</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
@@ -769,38 +716,39 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(6s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">   77</span>        {</div>
-<div class="line"><span class="lineno">   78</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca03052669bfe9623f0d50c207badf0a8d">SPELL_FROST_ATTACK</a>);</div>
-<div class="line"><span class="lineno">   79</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(8s);</div>
-<div class="line"><span class="lineno">   80</span>        }).Schedule(15s, 25s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">   81</span>        {</div>
-<div class="line"><span class="lineno">   82</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a>);</div>
-<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">   84</span>            {</div>
-<div class="line"><span class="lineno">   85</span>                <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a6e851a6b13df9733395aa128ce0b05e4">DoModifyThreatByPercent</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), -50);</div>
-<div class="line"><span class="lineno">   86</span>            }</div>
-<div class="line"><span class="lineno">   87</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
-<div class="line"><span class="lineno">   88</span>        }).Schedule(20s, 30s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">   89</span>        {</div>
-<div class="line"><span class="lineno">   90</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652">SPELL_DRAGONS_BREATH</a>);</div>
-<div class="line"><span class="lineno">   91</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 35s);</div>
-<div class="line"><span class="lineno">   92</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50))</div>
-<div class="line"><span class="lineno">   93</span>            {</div>
-<div class="line"><span class="lineno">   94</span>                <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1af34b2813b12e1ef2db2987c91aa396f0">SAY_DRAGONS_BREATH</a>);</div>
-<div class="line"><span class="lineno">   95</span>            }</div>
-<div class="line"><span class="lineno">   96</span>        });</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>);</div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542">SPELL_SUMMON_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  100</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(6s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">   59</span>        {</div>
+<div class="line"><span class="lineno">   60</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca03052669bfe9623f0d50c207badf0a8d">SPELL_FROST_ATTACK</a>);</div>
+<div class="line"><span class="lineno">   61</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(8s);</div>
+<div class="line"><span class="lineno">   62</span>        }).Schedule(15s, 25s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">   63</span>        {</div>
+<div class="line"><span class="lineno">   64</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a>);</div>
+<div class="line"><span class="lineno">   65</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">   66</span>            {</div>
+<div class="line"><span class="lineno">   67</span>                <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a6e851a6b13df9733395aa128ce0b05e4">DoModifyThreatByPercent</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), -50);</div>
+<div class="line"><span class="lineno">   68</span>            }</div>
+<div class="line"><span class="lineno">   69</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
+<div class="line"><span class="lineno">   70</span>        }).Schedule(20s, 30s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">   71</span>        {</div>
+<div class="line"><span class="lineno">   72</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652">SPELL_DRAGONS_BREATH</a>);</div>
+<div class="line"><span class="lineno">   73</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 35s);</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50))</div>
+<div class="line"><span class="lineno">   75</span>            {</div>
+<div class="line"><span class="lineno">   76</span>                <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1af34b2813b12e1ef2db2987c91aa396f0">SAY_DRAGONS_BREATH</a>);</div>
+<div class="line"><span class="lineno">   77</span>            }</div>
+<div class="line"><span class="lineno">   78</span>        });</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>);</div>
+<div class="line"><span class="lineno">   81</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542">SPELL_SUMMON_RAGING_FLAMES</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   82</span>    }</div>
 <div class="ttc" id="aRandom_8h_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition</b> Random.h:59</div></div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:27</div></div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a16774215bba3b38580ea51987d64cff1af34b2813b12e1ef2db2987c91aa396f0"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1af34b2813b12e1ef2db2987c91aa396f0">SAY_DRAGONS_BREATH</a></div><div class="ttdeci">@ SAY_DRAGONS_BREATH</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:29</div></div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298ca03052669bfe9623f0d50c207badf0a8d"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca03052669bfe9623f0d50c207badf0a8d">SPELL_FROST_ATTACK</a></div><div class="ttdeci">@ SPELL_FROST_ATTACK</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:36</div></div>
+<div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652">SPELL_DRAGONS_BREATH</a></div><div class="ttdeci">@ SPELL_DRAGONS_BREATH</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:40</div></div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542">SPELL_SUMMON_RAGING_FLAMES</a></div><div class="ttdeci">@ SPELL_SUMMON_RAGING_FLAMES</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:37</div></div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803">SPELL_ARCANE_BLAST</a></div><div class="ttdeci">@ SPELL_ARCANE_BLAST</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:39</div></div>
 <div class="ttc" id="aclassBossAI_html_a9619670887e8e94096e50f784b083150"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">BossAI::_JustEngagedWith</a></div><div class="ttdeci">void _JustEngagedWith()</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:656</div></div>
@@ -810,6 +758,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aclassUnitAI_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:240</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:862</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="astructScriptedAI_html_a6e851a6b13df9733395aa128ce0b05e4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a6e851a6b13df9733395aa128ce0b05e4">ScriptedAI::DoModifyThreatByPercent</a></div><div class="ttdeci">void DoModifyThreatByPercent(Unit *unit, int32 pct)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:429</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00656">BossAI::_JustEngagedWith()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00240">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00429">ScriptedAI::DoModifyThreatByPercent()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00059">roll_chance_i()</a>, <a class="el" href="../../#l00027">SAY_AGGRO</a>, <a class="el" href="../../#l00029">SAY_DRAGONS_BREATH</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00039">SPELL_ARCANE_BLAST</a>, <a class="el" href="../../#l00040">SPELL_DRAGONS_BREATH</a>, <a class="el" href="../../#l00036">SPELL_FROST_ATTACK</a>, and <a class="el" href="../../#l00037">SPELL_SUMMON_RAGING_FLAMES</a>.</p>
@@ -841,20 +790,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_variable" href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>.<a class="code hl_function" href="../../d6/df5/classSummonList.html#a4b10347a4407bb6351230423019d9786">Summon</a>(summon);</div>
-<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  113</span>        {</div>
-<div class="line"><span class="lineno">  114</span>            summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(victim);</div>
-<div class="line"><span class="lineno">  115</span>            summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">AddThreat</a>(victim, 1000.0f);</div>
-<div class="line"><span class="lineno">  116</span>            summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
-<div class="line"><span class="lineno">  117</span>        }</div>
-<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>    {</div>
+<div class="line"><span class="lineno">   93</span>        <a class="code hl_variable" href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>.<a class="code hl_function" href="../../d6/df5/classSummonList.html#a4b10347a4407bb6351230423019d9786">Summon</a>(summon);</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(victim);</div>
+<div class="line"><span class="lineno">   97</span>            summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">AddThreat</a>(victim, 1000.0f);</div>
+<div class="line"><span class="lineno">   98</span>            summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
+<div class="line"><span class="lineno">   99</span>        }</div>
+<div class="line"><span class="lineno">  100</span>    }</div>
 <div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:511</div></div>
 <div class="ttc" id="aclassCreature_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition</b> Creature.cpp:2828</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
 <div class="ttc" id="aclassSummonList_html_a4b10347a4407bb6351230423019d9786"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a4b10347a4407bb6351230423019d9786">SummonList::Summon</a></div><div class="ttdeci">void Summon(Creature const *summon)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:88</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14716</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l14716">Unit::AddThreat()</a>, <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l02828">Creature::SetInCombatWithZone()</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l00511">BossAI::summons</a>.</p>
@@ -886,12 +836,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ab9ec4de552a9f0b08b8494bb782eed58">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  121</span>    {</div>
-<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (victim-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno">  123</span>        {</div>
-<div class="line"><span class="lineno">  124</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>);</div>
-<div class="line"><span class="lineno">  125</span>        }</div>
-<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (victim-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  105</span>        {</div>
+<div class="line"><span class="lineno">  106</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>);</div>
+<div class="line"><span class="lineno">  107</span>        }</div>
+<div class="line"><span class="lineno">  108</span>    }</div>
 <div class="ttc" id="aboss__nethermancer__sepethrea_8cpp_html_a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75"><div class="ttname"><a href="../../d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a></div><div class="ttdeci">@ SAY_SLAY</div><div class="ttdef"><b>Definition</b> boss_nethermancer_sepethrea.cpp:30</div></div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:200</div></div>
 </div><!-- fragment -->
@@ -908,7 +858,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d55/structboss__nethermancer__sepethrea.html">boss_nethermancer_sepethrea</a></li>
-    <li class="footer">Generated on Thu Feb 13 2025 06:20:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 14 2025 06:19:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

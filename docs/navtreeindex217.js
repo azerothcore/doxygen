@@ -1,16 +1,5 @@
 var NAVTREEINDEX217 =
 {
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html":[6,0,1759,0],
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html#a7cbe5e54620e2356601c09effbe22928":[6,0,1759,0,1],
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html#a834f91e84fc2dff6a07e46f0b677de3e":[6,0,1759,0,2],
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html#a91b49f7c12fed4ddd958171187ccfb47":[6,0,1759,0,3],
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html#ada9ba6b4a0dfa5858b76986f8ebaa5d0":[6,0,1759,0,0],
-"d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html#adf256f6a4311f8b7cf6758259cc78f3f":[6,0,1759,0,4],
-"d8/d7b/TransportScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
-"d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[7,0,0,0,1,2,38,0,80,0],
-"d8/d7b/classRotateMovementGenerator.html":[6,0,2484],
-"d8/d7b/classRotateMovementGenerator.html#a0dc8600e3aa862a81735dfb927232e53":[6,0,2484,5],
-"d8/d7b/classRotateMovementGenerator.html#a18fea8760bb24912af9349a06ff7b596":[6,0,2484,3],
 "d8/d7b/classRotateMovementGenerator.html#a20677803edf5d93ceae3bf76ef426a81":[6,0,2484,2],
 "d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[6,0,2484,7],
 "d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[6,0,2484,4],
@@ -249,5 +238,16 @@ var NAVTREEINDEX217 =
 "d8/d84/classspell__q10923__evil__draws__near__visual.html#a85d66a58597954501305ad5b674cc8a2":[6,0,3555,2],
 "d8/d86/map__extractor_2dbcfile_8cpp.html":[7,0,0,0,3,1,3],
 "d8/d86/map__extractor_2dbcfile_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,3,0],
-"d8/d86/structServerMail.html":[6,0,2511]
+"d8/d86/structServerMail.html":[6,0,2511],
+"d8/d86/structServerMail.html#a0e899ce54283bc000cc6afb96e6a3244":[6,0,2511,9],
+"d8/d86/structServerMail.html#a246e499c69c57a436aac4c039ea37d31":[6,0,2511,12],
+"d8/d86/structServerMail.html#a24a12fcafd0b0f4a7c0558737d8fd71f":[6,0,2511,1],
+"d8/d86/structServerMail.html#a2d5232d5e111f5af7446940f92aaf9df":[6,0,2511,4],
+"d8/d86/structServerMail.html#a494ce9c800d1545b023b9ff526f8b994":[6,0,2511,10],
+"d8/d86/structServerMail.html#a50cf3e6929e397a3c1de83b9fcf83416":[6,0,2511,0],
+"d8/d86/structServerMail.html#a58d352611dcb35126f6ec93622ddc4b9":[6,0,2511,2],
+"d8/d86/structServerMail.html#a6a84ca583beef891422f67bef7919c47":[6,0,2511,8],
+"d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[6,0,2511,3],
+"d8/d86/structServerMail.html#ab7dc4da9b86a39ecb5c28ec071f17112":[6,0,2511,7],
+"d8/d86/structServerMail.html#abb24673f0b21f715f3e112e232cec35b":[6,0,2511,5]
 };

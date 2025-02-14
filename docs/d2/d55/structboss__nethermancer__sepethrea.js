@@ -1,7 +1,6 @@
 var structboss__nethermancer__sepethrea =
 [
     [ "boss_nethermancer_sepethrea", "d2/d55/structboss__nethermancer__sepethrea.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "CanAIAttack", "d2/d55/structboss__nethermancer__sepethrea.html#a34fbf871d99519306469c010d5fed9c7", null ],
     [ "EnterEvadeMode", "d2/d55/structboss__nethermancer__sepethrea.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
     [ "JustDied", "d2/d55/structboss__nethermancer__sepethrea.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
     [ "JustEngagedWith", "d2/d55/structboss__nethermancer__sepethrea.html#a89851b9f6eb94270fe22151d3a968bec", null ],

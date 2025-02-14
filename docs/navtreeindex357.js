@@ -1,17 +1,5 @@
 var NAVTREEINDEX357 =
 {
-"de/d66/classnpc__karynaku.html":[6,0,1890],
-"de/d66/classnpc__karynaku.html#a4cae1950fe3b7b4ae6f2e6691800ec47":[6,0,1890,1],
-"de/d66/classnpc__karynaku.html#aa6a3cb409cdbc990f1eee4137c7519d2":[6,0,1890,0],
-"de/d69/DisableMgr_8cpp.html":[7,0,0,0,1,2,13,2],
-"de/d69/classgo__skull__pile.html":[6,0,1171],
-"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[6,0,1171,3],
-"de/d69/classgo__skull__pile.html#a9cf8dfef432c4967c60f66e645585770":[6,0,1171,0],
-"de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[6,0,1171,1],
-"de/d69/classgo__skull__pile.html#af74fcd75404c0886128401d661067394":[6,0,1171,4],
-"de/d69/classgo__skull__pile.html#afb8e8db2705355e975fa48c98e09f20b":[6,0,1171,2],
-"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html":[6,0,1885,0],
-"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a0a0f24af22e4c72e843970c0d5c1ff87":[6,0,1885,0,0],
 "de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a81c039a2a230b261967842161757b6f8":[6,0,1885,0,3],
 "de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a88390da94298bea9c445bb422a806d23":[6,0,1885,0,1],
 "de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#aca941c070a97278c8ec27d7e6b4edede":[6,0,1885,0,5],
@@ -249,5 +237,17 @@ var NAVTREEINDEX357 =
 "de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b":[5,0,18,64],
 "de/d72/namespacelfg.html#aeaebe53b818ad905c96d2cc56c18b7ca":[5,0,18,62],
 "de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05":[5,0,18,52],
-"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,18,52,2]
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,18,52,2],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051":[5,0,18,52,1],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce":[5,0,18,52,0],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eb":[5,0,18,48],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba016eadb9dc423a41bab04bf6dd09b12d":[5,0,18,48,15],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f":[5,0,18,48,7],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04":[5,0,18,48,8],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd":[5,0,18,48,10],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776":[5,0,18,48,16],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004":[5,0,18,48,3],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8":[5,0,18,48,6],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba820334a9820da285d1e46da7a8d7b37e":[5,0,18,48,5],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba8e634ce1df5dbacebbad5ae4761ed0df":[5,0,18,48,11]
 };

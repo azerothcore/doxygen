@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da21b988bc0be7d7d342a41b4dae1b01d5":[7,0,0,0,1,2,8,1,3,26,2],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da2788eec9e6ac14404212848f006486e8":[7,0,0,0,1,2,8,1,3,26,40],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da28cd414fc13e7ec4852500c6690a7ed6":[7,0,0,0,1,2,8,1,3,26,12],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da295d736e106c9d9178b3e350d3e23532":[7,0,0,0,1,2,8,1,3,26,65],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "d3/ddc/classTaskScheduler_1_1TaskQueue.html#aff6bc8c7fae6640b555ddb027cf0f6ab":[6,0,4071,2,7],
 "d3/ddc/classat__q24545__frostmourne__cavern.html":[6,0,232],
 "d3/ddc/classat__q24545__frostmourne__cavern.html#a76e2d8424b5fcd037fabfa9b878d21e1":[6,0,232,0],
-"d3/ddc/classat__q24545__frostmourne__cavern.html#a9016ef31fde1bbcaf57a17e64ea8d503":[6,0,232,1],
-"d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html":[6,0,3820]
+"d3/ddc/classat__q24545__frostmourne__cavern.html#a9016ef31fde1bbcaf57a17e64ea8d503":[6,0,232,1]
 };

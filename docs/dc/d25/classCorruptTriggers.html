@@ -171,8 +171,8 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>: <a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>(caster) { }</div>
-<div class="ttc" id="aclassCorruptTriggers_html_a2b9e4c3d292b7e3deea57e1542b3ba12"><div class="ttname"><a href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">CorruptTriggers::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:98</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>: <a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>(caster) { }</div>
+<div class="ttc" id="aclassCorruptTriggers_html_a2b9e4c3d292b7e3deea57e1542b3ba12"><div class="ttname"><a href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">CorruptTriggers::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:101</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -212,19 +212,19 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   88</span>    {</div>
-<div class="line"><span class="lineno">   89</span>        std::list&lt;Creature*&gt; creatureList;</div>
-<div class="line"><span class="lineno">   90</span>        <a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(creatureList, 70.0f, <a class="code hl_enumvalue" href="../../d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af">NPC_FOG_TRIGGER</a>);</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; creature : creatureList)</div>
-<div class="line"><span class="lineno">   92</span>            if (<a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>-&gt;GetExactDist2d(creature) &lt;= 11.0f)</div>
-<div class="line"><span class="lineno">   93</span>                creature-&gt;CastSpell(creature, <a class="code hl_enumvalue" href="../../d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea2135546670e7c28329850db865b74">SPELL_FOG_OF_CORRUPTION</a>, true);</div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   95</span>    }</div>
-<div class="ttc" id="aboss__felmyst_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af"><div class="ttname"><a href="../../d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af">NPC_FOG_TRIGGER</a></div><div class="ttdeci">@ NPC_FOG_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:79</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   91</span>    {</div>
+<div class="line"><span class="lineno">   92</span>        std::list&lt;Creature*&gt; creatureList;</div>
+<div class="line"><span class="lineno">   93</span>        <a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(creatureList, 70.0f, <a class="code hl_enumvalue" href="../../d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af">NPC_FOG_TRIGGER</a>);</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; creature : creatureList)</div>
+<div class="line"><span class="lineno">   95</span>            if (<a class="code hl_variable" href="../../dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12">_caster</a>-&gt;GetExactDist2d(creature) &lt;= 11.0f)</div>
+<div class="line"><span class="lineno">   96</span>                creature-&gt;CastSpell(creature, <a class="code hl_enumvalue" href="../../d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea2135546670e7c28329850db865b74">SPELL_FOG_OF_CORRUPTION</a>, true);</div>
+<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   98</span>    }</div>
+<div class="ttc" id="aboss__felmyst_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af"><div class="ttname"><a href="../../d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af">NPC_FOG_TRIGGER</a></div><div class="ttdeci">@ NPC_FOG_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:81</div></div>
 <div class="ttc" id="aboss__felmyst_8cpp_html_a5bd342133be8c2137b831460acc9298ca8ea2135546670e7c28329850db865b74"><div class="ttname"><a href="../../d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea2135546670e7c28329850db865b74">SPELL_FOG_OF_CORRUPTION</a></div><div class="ttdeci">@ SPELL_FOG_OF_CORRUPTION</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:59</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa95da5ea65fa0d7f7cd74c11b70b1ed2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">WorldObject::GetCreaturesWithEntryInRange</a></div><div class="ttdeci">void GetCreaturesWithEntryInRange(std::list&lt; Creature * &gt; &amp;creatureList, float radius, uint32 entry)</div><div class="ttdef"><b>Definition</b> Object.cpp:3099</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_caster</a>, <a class="el" href="../../#l03099">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00165">Position::GetExactDist2d()</a>, <a class="el" href="../../#l00079">NPC_FOG_TRIGGER</a>, and <a class="el" href="../../#l00059">SPELL_FOG_OF_CORRUPTION</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00101">_caster</a>, <a class="el" href="../../#l03099">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00165">Position::GetExactDist2d()</a>, <a class="el" href="../../#l00081">NPC_FOG_TRIGGER</a>, and <a class="el" href="../../#l00059">SPELL_FOG_OF_CORRUPTION</a>.</p>
 
 </div>
 </div>
@@ -249,7 +249,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00087">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00090">Execute()</a>.</p>
 
 </div>
 </div>
@@ -262,7 +262,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d25/classCorruptTriggers.html">CorruptTriggers</a></li>
-    <li class="footer">Generated on Thu Feb 13 2025 06:20:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 14 2025 06:20:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

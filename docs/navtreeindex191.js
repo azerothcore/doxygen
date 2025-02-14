@@ -1,16 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526ad49f3758e70cf56d6995beedd04131ac":[7,0,0,0,0,5,3,9,8],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526add8226f5758099a1441724364e5993f6":[7,0,0,0,0,5,3,9,4],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526ae97aff1b319f95719407a49daa6d3161":[7,0,0,0,0,5,3,9,11],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526aead6fd771496ad5d1954f8338f1fdafe":[7,0,0,0,0,5,3,9,17],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af1a861dbf80e81561363604629189804":[7,0,0,0,0,5,3,9,3],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774":[7,0,0,0,0,5,3,9,6],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html":[6,0,2195],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html#a0536c61d70d5c6d61496fc1720d37950":[6,0,2195,1],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html#a6677d6dc0d07b508e921064f3299b302":[6,0,2195,2],
-"d7/d83/classspell__gen__valthalak__amulet.html":[6,0,2989],
-"d7/d83/classspell__gen__valthalak__amulet.html#a096ce1292821f201af5f294877ee25e0":[6,0,2989,0],
 "d7/d83/classspell__gen__valthalak__amulet.html#a804d6dec38ea4e59a72ed09882dc9e95":[6,0,2989,1],
 "d7/d83/structAuctionEntry.html":[6,0,254],
 "d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f":[6,0,254,16],
@@ -249,5 +238,16 @@ var NAVTREEINDEX191 =
 "d7/d91/classCritterAI.html#a989d1fc00af900320dcf27cce7f247dc":[6,0,935,1],
 "d7/d91/classCritterAI.html#aa211359ea8b80ac0ed27e9b337e333f1":[6,0,935,0],
 "d7/d91/classCritterAI.html#ae43183a24398fe3af1cb8275b9b4c6c6":[6,0,935,4],
-"d7/d91/classCritterAI.html#af860be127a671f5448cb731aa2f701b0":[6,0,935,5]
+"d7/d91/classCritterAI.html#af860be127a671f5448cb731aa2f701b0":[6,0,935,5],
+"d7/d91/classForcedUnsummonDelayEvent.html":[6,0,1054],
+"d7/d91/classForcedUnsummonDelayEvent.html#a3954577354fb882ec1def262502ed2e6":[6,0,1054,2],
+"d7/d91/classForcedUnsummonDelayEvent.html#a86d7bd6f9f47ef37382b725f0d64877b":[6,0,1054,1],
+"d7/d91/classForcedUnsummonDelayEvent.html#aadabfc349c81e02743add4307977c2fd":[6,0,1054,0],
+"d7/d91/classInstanceSave.html":[6,0,1351],
+"d7/d91/classInstanceSave.html#a0785f4ba4011ef735d10e80ff05b0cf7":[6,0,1351,7],
+"d7/d91/classInstanceSave.html#a0e4cc72ed74b163f7c1a8dde39dd01f3":[6,0,1351,22],
+"d7/d91/classInstanceSave.html#a1d01bd891d1885b4efc3a61a937a3d45":[6,0,1351,13],
+"d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b":[6,0,1351,6],
+"d7/d91/classInstanceSave.html#a30fae391561928818b002a29098f141c":[6,0,1351,18],
+"d7/d91/classInstanceSave.html#a5e52665f53db7ed2e185920c22c584a2":[6,0,1351,9]
 };

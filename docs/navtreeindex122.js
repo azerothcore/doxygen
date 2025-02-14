@@ -1,9 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d39/structnpc__pilgrims__bounty__chair.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e":[6,0,2013,11],
-"d4/d39/structnpc__pilgrims__bounty__chair.html#a681323ae3100f46dd0aba595159d7daf":[6,0,2013,7],
-"d4/d39/structnpc__pilgrims__bounty__chair.html#a896c9efee388d7cb5d6dc82e7c537021":[6,0,2013,0],
-"d4/d39/structnpc__pilgrims__bounty__chair.html#a8a7c49f28df937e90dbaa83be85b595e":[6,0,2013,3],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a907cb3d22f4e0daf92dada09fdc16b94":[6,0,2013,12],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a9a43ccc98f2e184f709b1af6992acea8":[6,0,2013,6],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#aa44fc14f98ac00cfe098516963cc3c8b":[6,0,2013,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX122 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2865,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[6,0,2865,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2865,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,30,9,4]
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,30,9,4],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,11,9,4],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,30,9,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,11,9,4,0],
+"d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2160,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/daa/classnpc__high__overlord__saurfang__icc.html#a21c04ab5b8d747c28c7355cc483ac6e3":[6,0,1822,2],
 "d3/daa/classnpc__high__overlord__saurfang__icc.html#a39c33a3b2e7037ca6f0f40ba65cb55db":[6,0,1822,4],
 "d3/daa/classnpc__high__overlord__saurfang__icc.html#a515a87f751527412222cfdd968febe7c":[6,0,1822,3],
 "d3/daa/classnpc__high__overlord__saurfang__icc.html#ac02fe80550572e142406c2d80c0392df":[6,0,1822,1],
@@ -45,16 +46,16 @@ var NAVTREEINDEX106 =
 "d3/dae/structnpc__apothecary__frye.html#ab1dc310e90c591b44ce4d5bcf1bac930":[6,0,1585,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[6,0,11,7,12],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,30,7,12],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,30,7,12,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,11,7,12,3],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,30,7,12,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,30,7,12,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,11,7,12,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,30,7,12,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,11,7,12,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,11,7,12,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,30,7,12,2],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,11,7,12,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,30,7,12,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,11,7,12,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[5,0,30,7,12,4],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[6,0,11,7,12,4],
 "d3/daf/classspell__igb__rocket__artillery.html":[6,0,3117],
@@ -153,8 +154,8 @@ var NAVTREEINDEX106 =
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,27,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,27,20,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[6,0,4141,1],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#a02538aefc1b014b60957d4c67793000f":[6,0,4141,1,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aca34dff6659f2da63f31e12bb41cf3d0":[6,0,4141,1,1],
-"d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aeddd31e8fbb23e54549e985f09c4ea96":[6,0,4141,1,2],
-"d3/dbd/DBCStructure_8h.html":[7,0,0,0,1,4,0,7]
+"d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aeddd31e8fbb23e54549e985f09c4ea96":[6,0,4141,1,2]
 };

@@ -1,9 +1,11 @@
 var NAVTREEINDEX33 =
 {
 "d1/d56/classspell__felmyst__open__brutallus__back__doors.html":[6,0,2833],
-"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78":[6,0,2833,2],
-"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#a222e2c8e5401c132e89b29bbd22d46a6":[6,0,2833,1],
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78":[6,0,2833,4],
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#a222e2c8e5401c132e89b29bbd22d46a6":[6,0,2833,3],
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#aa28714ce9ac251fe7c3bdec17b47deb3":[6,0,2833,1],
 "d1/d56/classspell__felmyst__open__brutallus__back__doors.html#ac7f7287b88cde82fbf8a625f002c86fa":[6,0,2833,0],
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#aecfa38940ea3dd287179bdef3d290487":[6,0,2833,2],
 "d1/d56/classspell__igb__explosion.html":[6,0,3110],
 "d1/d56/classspell__igb__explosion.html#a4878ffa30feb16e98d3945f8a6e3c863":[6,0,3110,0],
 "d1/d56/classspell__igb__explosion.html#a651f52f7d242251ff69d100fd69376e4":[6,0,3110,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#ae8109936f1c52efe487803cfab29a581":[6,0,926,59],
 "d1/d61/structCreatureTemplate.html#af430ad69b2aa35c1788997dc5638c4c6":[6,0,926,61],
 "d1/d61/structCreatureTemplate.html#af596e49e3418f003b8ed9c6bb8305e01":[6,0,926,22],
-"d1/d61/structCreatureTemplate.html#af686b0d1ff954f16a3068eaee85b0c98":[6,0,926,18],
-"d1/d61/structCreatureTemplate.html#af77004d19cbb94f3ec3fa3be5daf1dca":[6,0,926,40],
-"d1/d61/structCreatureTemplate.html#af88626941d13903be805def34aa8e3ed":[6,0,926,44]
+"d1/d61/structCreatureTemplate.html#af686b0d1ff954f16a3068eaee85b0c98":[6,0,926,18]
 };

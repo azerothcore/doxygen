@@ -1,5 +1,7 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca613950ceeda8562b1adde132e35afc0f":[7,0,0,0,1,2,36,2,16,5],
+"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca6f96ed412e49f476cfc660a4b13fb22d":[7,0,0,0,1,2,36,2,16,20],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca7cbb7562bb0498d57259245e3d170e9c":[7,0,0,0,1,2,36,2,16,8],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47caacbbd50733b9d85ad468a4edf4ba5c42":[7,0,0,0,1,2,36,2,16,1],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47caad03215b00fda5ef5b3a3b55d0181582":[7,0,0,0,1,2,36,2,16,4],
@@ -99,12 +101,12 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3033,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3033,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3033,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,119,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,119,1],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,131,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,892],
@@ -126,8 +128,8 @@ var NAVTREEINDEX53 =
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,30,7,1,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,30,7,1,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebd":[7,0,0,0,1,2,16,11,2,8],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f":[7,0,0,0,1,2,16,11,2,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d32/classachievement__mimiron__set__up__us__the__bomb__12.html#adc7f5769894c59710fa70604878b1e2c":[6,0,72,0],
 "d2/d32/classspell__magmadar__lava__bomb.html":[6,0,3364],
 "d2/d32/classspell__magmadar__lava__bomb.html#a24447c4367d8e8713ba7d05ea53681ee":[6,0,3364,3],
-"d2/d32/classspell__magmadar__lava__bomb.html#a76d395449ed9fb26914aa9ff0488f1be":[6,0,3364,1],
-"d2/d32/classspell__magmadar__lava__bomb.html#a7d094ce258e3dc28cc30d5fb644d5a1e":[6,0,3364,2],
-"d2/d32/classspell__magmadar__lava__bomb.html#acbf0fa3d73de0cec47928fc0dda0c724":[6,0,3364,0]
+"d2/d32/classspell__magmadar__lava__bomb.html#a76d395449ed9fb26914aa9ff0488f1be":[6,0,3364,1]
 };

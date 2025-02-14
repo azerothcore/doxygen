@@ -1,5 +1,6 @@
 var NAVTREEINDEX114 =
 {
+"d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,11,2,3],
 "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad209eb29d7c36fb6ea95ef16c1d329bc":[7,0,0,0,1,3,5,7,11,2,2],
 "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,7,11,2,0],
 "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb0fe50bb5faeeedf94f702e800ac9fe":[7,0,0,0,1,3,5,7,11,2,1],
@@ -211,8 +212,8 @@ var NAVTREEINDEX114 =
 "d3/df0/adt_8h.html#adad9f01017a76fb25b04611c100d3df7":[7,0,0,0,3,1,2,19],
 "d3/df0/classAcore_1_1PowerCheck.html":[6,0,0,98],
 "d3/df0/classAcore_1_1PowerCheck.html":[5,0,1,110],
-"d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[6,0,0,98,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,1,110,1],
+"d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[6,0,0,98,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,1,110,3],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[6,0,0,98,3],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,98,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX114 =
 "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a3699b19f23cf15115ff8c92691a6d334":[6,0,447,0,4],
 "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7":[6,0,447,0,5],
 "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a71a28a61e97f6278836649411493484f":[6,0,447,0,8],
-"d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a98de7f0b7d12d0981854129cbeab0d0d":[6,0,447,0,0],
-"d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#aa2fce36768ad6e23a955cd215ca759db":[6,0,447,0,3]
+"d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a98de7f0b7d12d0981854129cbeab0d0d":[6,0,447,0,0]
 };

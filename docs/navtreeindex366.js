@@ -1,17 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/db3/structSpellShapeshiftFormEntry.html#a026745f2ce754d754858d69ee219b518":[6,0,4032,2],
-"de/db3/structSpellShapeshiftFormEntry.html#a08f54b905e905fb5a59e449f8c613c08":[6,0,4032,6],
-"de/db3/structSpellShapeshiftFormEntry.html#a1ee597d6fd02507b682874929645e01d":[6,0,4032,5],
-"de/db3/structSpellShapeshiftFormEntry.html#a3dff9074b85261932ed8a8a550c5395b":[6,0,4032,1],
-"de/db3/structSpellShapeshiftFormEntry.html#a72853ed36016e05e4cd14a9d89e9d6a8":[6,0,4032,3],
-"de/db3/structSpellShapeshiftFormEntry.html#a86dfa61342583d920b7d8496bce4b49d":[6,0,4032,4],
-"de/db3/structSpellShapeshiftFormEntry.html#ab5242f7367e8799a556176178c72fc88":[6,0,4032,0],
-"de/db4/AdhocStatement_8h.html":[7,0,0,0,1,1,0,2],
-"de/db4/classPreparedStatementBase.html":[6,0,2419],
-"de/db4/classPreparedStatementBase.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660":[6,0,2419,6],
-"de/db4/classPreparedStatementBase.html#a4c1bf9847756076bf3bba7b1178f0f99":[6,0,2419,17],
-"de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0":[6,0,2419,11],
 "de/db4/classPreparedStatementBase.html#a96323eed4643ae8016b32215d6a902d4":[6,0,2419,1],
 "de/db4/classPreparedStatementBase.html#a9af41817061c82bc5498c463b2f0fdf0":[6,0,2419,18],
 "de/db4/classPreparedStatementBase.html#a9dcba27137454af96729a7e3e897f86c":[6,0,2419,15],
@@ -249,5 +237,17 @@ var NAVTREEINDEX366 =
 "de/dc3/classspell__systems__shutdown__aura.html":[6,0,3785],
 "de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[6,0,3785,4],
 "de/dc3/classspell__systems__shutdown__aura.html#a5aec8606684637bbdb1e819254f5d483":[6,0,3785,0],
-"de/dc3/classspell__systems__shutdown__aura.html#adcc21606209dc2f32c1173c7ab4c5579":[6,0,3785,2]
+"de/dc3/classspell__systems__shutdown__aura.html#adcc21606209dc2f32c1173c7ab4c5579":[6,0,3785,2],
+"de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[6,0,3785,1],
+"de/dc3/classspell__systems__shutdown__aura.html#af1db6ca387cf0733ba4b9c324172d692":[6,0,3785,3],
+"de/dc3/structTrainerSpellData.html":[6,0,4100],
+"de/dc3/structTrainerSpellData.html#a0e157dbcebbbea5704270f182d313568":[6,0,4100,3],
+"de/dc3/structTrainerSpellData.html#a6ea889f294b37bfe1a7a40dffd1b2159":[6,0,4100,4],
+"de/dc3/structTrainerSpellData.html#a9bd25177856f54fa2eda882627b21644":[6,0,4100,1],
+"de/dc3/structTrainerSpellData.html#ab58a8a4ca9d8b609131e7f8b3ec507c9":[6,0,4100,0],
+"de/dc3/structTrainerSpellData.html#acee027787f06b4186b781bbd0d7db781":[6,0,4100,2],
+"de/dc4/CircularBuffer_8h.html":[7,0,0,0,0,15,3],
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html":[6,0,1607,0],
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a13d25bf1612086cc4bb5bc2078105f18":[6,0,1607,0,1],
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a15b1acc73108c6802dbf3ac2ed0734c9":[6,0,1607,0,0]
 };

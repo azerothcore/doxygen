@@ -1,15 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/dd2/structLajTransformData.html#a6cfbffba97934cc420964f9b6d7645a3":[6,0,1392,1],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html":[7,0,0,0,1,3,7,1,5],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,5,16],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a0e057683b7d5fcbbe845f939acaa2c23":[7,0,0,0,1,3,7,1,5,16,5],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a2f6233c1156cc83135bb5d9641f79bd7":[7,0,0,0,1,3,7,1,5,16,13],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a3112bf9e1da146cbd470e9fd2b4a893c":[7,0,0,0,1,3,7,1,5,16,0],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a476ffae45c8fa38abf1e26f67f6a30c8":[7,0,0,0,1,3,7,1,5,16,3],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a7284e6700ed912c65b87bbe8397455c0":[7,0,0,0,1,3,7,1,5,16,12],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a763b601cd117db9a02ed93a8c9004e68":[7,0,0,0,1,3,7,1,5,16,1],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a84de229c7e84985182dd2fab47a4b4a2":[7,0,0,0,1,3,7,1,5,16,9],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a8fbaf0ab133a29ab460ec3cdd8d534f3":[7,0,0,0,1,3,7,1,5,16,2],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9b1e4c07831227b3e8a9aaeaa2eb229d":[7,0,0,0,1,3,7,1,5,16,11],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9eb85eaedbf643f0b6bc596a8b719d1e":[7,0,0,0,1,3,7,1,5,16,15],
@@ -249,5 +239,15 @@ var NAVTREEINDEX137 =
 "d4/dd9/structAchievementCriteriaEntry.html#aa9901805bc4d754d7194f303aad3c0de":[6,0,111,5],
 "d4/dd9/structAchievementCriteriaEntry.html#aaa291de0aae04cdabdad1ec1ef43e797":[6,0,111,34],
 "d4/dd9/structAchievementCriteriaEntry.html#aad7391352c84eef773a964ab4fd41446":[6,0,111,28],
-"d4/dd9/structAchievementCriteriaEntry.html#aaf1c1dc88af9d8cc435277cf9b65efbb":[6,0,111,64]
+"d4/dd9/structAchievementCriteriaEntry.html#aaf1c1dc88af9d8cc435277cf9b65efbb":[6,0,111,64],
+"d4/dd9/structAchievementCriteriaEntry.html#ab6ab9a9979b301e7835806d4f804886a":[6,0,111,92],
+"d4/dd9/structAchievementCriteriaEntry.html#ab8f8873c72626593d567e2524f9cd4d4":[6,0,111,15],
+"d4/dd9/structAchievementCriteriaEntry.html#abac6b773ed48c525b7600514562257b3":[6,0,111,115],
+"d4/dd9/structAchievementCriteriaEntry.html#abb4f7fb6587550e17aca2b411de81687":[6,0,111,111],
+"d4/dd9/structAchievementCriteriaEntry.html#abc7e4a326b53ef2bbc9478e8830593db":[6,0,111,101],
+"d4/dd9/structAchievementCriteriaEntry.html#abe96b16bcf1a1cedb171daf6afb5ced5":[6,0,111,43],
+"d4/dd9/structAchievementCriteriaEntry.html#abfecefb40cd5d19ccdc2e6c25b252ef4":[6,0,111,81],
+"d4/dd9/structAchievementCriteriaEntry.html#ac17a33237f84ba9722b22057ee44f8cc":[6,0,111,1],
+"d4/dd9/structAchievementCriteriaEntry.html#ac6660196f7926a36251cbe165ea21fc9":[6,0,111,70],
+"d4/dd9/structAchievementCriteriaEntry.html#ac7b579fe1c12c82995bdecca0af68c51":[6,0,111,100]
 };

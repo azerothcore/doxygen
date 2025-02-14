@@ -1,5 +1,6 @@
 var NAVTREEINDEX113 =
 {
+"d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html":[6,0,3820],
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#a2db820022631647e942b5ec84e63717e":[6,0,3820,1],
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#aa498d4669f67eba4b904b203daeb5a7d":[6,0,3820,3],
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#ac1a58d605156c03d05eb99605287e762":[6,0,3820,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX113 =
 "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cab857dee80726f235f38a035d6a304a2a":[7,0,0,0,1,3,5,7,11,4,0],
 "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,11,4,3],
 "d3/de8/boss__patchwerk_8cpp.html#a5cf023cbbab66f88b048e2d733cbf78a":[7,0,0,0,1,3,5,7,11,6],
-"d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,11,2],
-"d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,11,2,3]
+"d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,11,2]
 };

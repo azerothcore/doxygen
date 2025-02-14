@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"d2/de9/classSpellInfo.html#a58d040fe222fe15da1b6b2f3088a8877":[6,0,4013,26],
 "d2/de9/classSpellInfo.html#a58eafb96e3aa47a4764407e04ab3f1c3":[6,0,4013,82],
 "d2/de9/classSpellInfo.html#a5aac32d8a974eaabb1a107e47fff488f":[6,0,4013,23],
 "d2/de9/classSpellInfo.html#a5bb24a13e40650c90a6a8e5002a68c2c":[6,0,4013,43],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a310b15ac4e9cc00a2beb7de6487374db":[7,0,0,0,1,2,21,1,14,1],
 "d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a3a60cdc1e4288057e5e23d4d3ad699a0":[7,0,0,0,1,2,21,1,14,3],
 "d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a704fd663ca498becd8238c184e6a3ab9":[7,0,0,0,1,2,21,1,14,0],
-"d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a811459ece597faecc5bb31a2b98bfc6f":[7,0,0,0,1,2,21,1,14,4],
-"d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a846c032e634a8df5ac6575e90c92445a":[7,0,0,0,1,2,21,1,14,7]
+"d2/dea/Guild_8h.html#a965ebfa7c809976c6361afae89c98895a811459ece597faecc5bb31a2b98bfc6f":[7,0,0,0,1,2,21,1,14,4]
 };

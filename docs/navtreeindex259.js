@@ -1,16 +1,5 @@
 var NAVTREEINDEX259 =
 {
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a57d520ed6f16c3f881f892e7578ad378":[6,0,1327,0,14],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a616b3762e7400b17bb6fc1f3b0a8f2a9":[6,0,1327,0,12],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a7c686c287e8fedd53c2a22afd5721656":[6,0,1327,0,0],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a92ccf87798e87caf106e274169ef9d6e":[6,0,1327,0,11],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa4ffd7ee39e413c7486eea1d738be522":[6,0,1327,0,8],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa6247ca0f46a680373601bae1308b94d":[6,0,1327,0,1],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aaeb98dc1aad0d16142325c4d5a5cbf8e":[6,0,1327,0,17],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ab51ad8cd98d085811aa2c02494de3a7c":[6,0,1327,0,15],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#abb53f597c52726680dd20f4946dc363b":[6,0,1327,0,10],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ad87da3eb261f03d36d7520dc20d8b1b9":[6,0,1327,0,7],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ae57762cc1a5555f0532cf630179d2840":[6,0,1327,0,3],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af535a80d3e92a9ff42c6d9edaa989a44":[6,0,1327,0,13],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af97a2dc80ff18b4258e2137c60c5983d":[6,0,1327,0,6],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#afce97e50bbc6d935c183b1ed21f6c993":[6,0,1327,0,4],
@@ -249,5 +238,16 @@ var NAVTREEINDEX259 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7":[6,0,2614,1],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23":[6,0,2614,5],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a3b9838f26673ce344ca40f9f487ef878":[6,0,2614,2],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[6,0,2614,3]
+"da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[6,0,2614,3],
+"da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[6,0,2614,4],
+"da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2614,0],
+"da/daf/classspell__contagion__of__rot.html":[6,0,2687],
+"da/daf/classspell__contagion__of__rot.html#a0f33043317402119aa14e50a1eb6c227":[6,0,2687,2],
+"da/daf/classspell__contagion__of__rot.html#a159ee8a9b0af729ed01f7632adb58863":[6,0,2687,1],
+"da/daf/classspell__contagion__of__rot.html#a476bf6fc1a91784dbc8534c0e57005d6":[6,0,2687,0],
+"da/db0/MySQLConnection_8cpp.html":[7,0,0,0,1,1,0,14],
+"da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html":[6,0,1761,0],
+"da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html#a09f408c9250467228b91ef9f6c9544f4":[6,0,1761,0,3],
+"da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html#a45075fdaba6d7c04cb526420deb8a0ac":[6,0,1761,0,4],
+"da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html#a599786069f98231eeb7f9ca809f8e671":[6,0,1761,0,2]
 };

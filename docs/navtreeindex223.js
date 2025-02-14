@@ -1,16 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/dd6/DBCfmt_8h.html#a33a9a6da17625ca15a93082b922dfd7c":[7,0,0,0,1,4,0,3,97],
-"d8/dd6/DBCfmt_8h.html#a3591aa6bd927d9a3225c1580e1a55071":[7,0,0,0,1,4,0,3,15],
-"d8/dd6/DBCfmt_8h.html#a366ae111d40fb97fc96b0f37b799fde9":[7,0,0,0,1,4,0,3,82],
-"d8/dd6/DBCfmt_8h.html#a3891a7b9a1b8e6c6cb16f2b9a9c87d68":[7,0,0,0,1,4,0,3,22],
-"d8/dd6/DBCfmt_8h.html#a3909b2dd872ea3a006038c6070d5f0b1":[7,0,0,0,1,4,0,3,57],
-"d8/dd6/DBCfmt_8h.html#a3bc747351c211ceefd20509d1dcc744f":[7,0,0,0,1,4,0,3,96],
-"d8/dd6/DBCfmt_8h.html#a3e475f31f4cffe4963bb7ea14dd02388":[7,0,0,0,1,4,0,3,78],
-"d8/dd6/DBCfmt_8h.html#a403a136c126513ae56a58523a246d28e":[7,0,0,0,1,4,0,3,73],
-"d8/dd6/DBCfmt_8h.html#a4710b3cfcda1dc630ed1d619cbc12868":[7,0,0,0,1,4,0,3,1],
-"d8/dd6/DBCfmt_8h.html#a4b382b6e95ced2aa17a608a4809c144a":[7,0,0,0,1,4,0,3,94],
-"d8/dd6/DBCfmt_8h.html#a4f6cc73661edba8fc844af7b0d592ab1":[7,0,0,0,1,4,0,3,95],
 "d8/dd6/DBCfmt_8h.html#a50372b10c2d08e0392c15d3bd961dbb5":[7,0,0,0,1,4,0,3,10],
 "d8/dd6/DBCfmt_8h.html#a51e9a188870d9d1599422390aad2664c":[7,0,0,0,1,4,0,3,89],
 "d8/dd6/DBCfmt_8h.html#a5440fdfda2e7810318ecb104255bf9db":[7,0,0,0,1,4,0,3,28],
@@ -249,5 +238,16 @@ var NAVTREEINDEX223 =
 "d8/ddd/classnpc__cos__chromie__middle.html#a1bb7229781c122d362e781d2737d0fd3":[6,0,1686,0],
 "d8/ddd/classnpc__cos__chromie__middle.html#a37ebdd257ef22554c81cf3c062856141":[6,0,1686,2],
 "d8/ddd/classnpc__cos__chromie__middle.html#a6af52ce23a90e7d8418e2c414c9c0fd4":[6,0,1686,3],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[6,0,3387]
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[6,0,3387],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[6,0,3387,1],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[6,0,3387,2],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[6,0,3387,0],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html":[6,0,4023],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[6,0,4023,5],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[6,0,4023,0],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[6,0,4023,3],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[6,0,4023,6],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[6,0,4023,7],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[6,0,4023,4],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[6,0,4023,2]
 };

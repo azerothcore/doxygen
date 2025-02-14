@@ -1,5 +1,7 @@
 var NAVTREEINDEX57 =
 {
+"d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1026,3],
+"d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1026,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[6,0,1026,6],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,1,60],
 "d2/d49/structAcore_1_1find__type__if.html":[6,0,0,48],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d4b/classPlayer.html#a2f511f4e2692c6fe8970b991763ad7c9":[6,0,2379,217],
 "d2/d4b/classPlayer.html#a2f780cf8d581075515965d1de74cf789":[6,0,2379,404],
 "d2/d4b/classPlayer.html#a2f876e332a71e68aa8fd08863ad3623c":[6,0,2379,790],
-"d2/d4b/classPlayer.html#a2f8909f36282889342c505016e76e98e":[6,0,2379,1086],
-"d2/d4b/classPlayer.html#a2fbb070d0fade63eb36eaddc8513dbc0":[6,0,2379,184],
-"d2/d4b/classPlayer.html#a2fbea399aa7aabcb8bf963a6f5e6810c":[6,0,2379,240]
+"d2/d4b/classPlayer.html#a2f8909f36282889342c505016e76e98e":[6,0,2379,1086]
 };

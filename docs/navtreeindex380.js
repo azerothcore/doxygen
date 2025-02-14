@@ -1,17 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d6c/classspell__sartharion__lava__strike.html#a8278d362a4354ccf81665ce0067c9a06":[6,0,3695,4],
-"df/d6c/classspell__sartharion__lava__strike.html#a8372b7d176c94689b1b7fe99add7812e":[6,0,3695,1],
-"df/d6c/classspell__sartharion__lava__strike.html#aa657a9869f04a1d1d2ce71f6d8464b17":[6,0,3695,6],
-"df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[6,0,3695,2],
-"df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[6,0,3695,0],
-"df/d6c/structB64Impl.html":[6,0,295],
-"df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,295,4],
-"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,295,2],
-"df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,295,3],
-"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,295,0],
-"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,295,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,319],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,319,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,319,2],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,319,5],
@@ -249,5 +237,17 @@ var NAVTREEINDEX380 =
 "df/d79/Map_8h.html#a0fc25db7841a9836359d1825ec78ca08":[7,0,0,0,1,2,26,3,19],
 "df/d79/Map_8h.html#a14e2a0a2291347b0ef877bc9d70f7384":[7,0,0,0,1,2,26,3,26],
 "df/d79/Map_8h.html#a15a9245a53c00f1a8a89dd2d798cea9d":[7,0,0,0,1,2,26,3,18],
-"df/d79/Map_8h.html#a17d4c5ea32412f0fbe04a27f63d50e13":[7,0,0,0,1,2,26,3,27]
+"df/d79/Map_8h.html#a17d4c5ea32412f0fbe04a27f63d50e13":[7,0,0,0,1,2,26,3,27],
+"df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318":[7,0,0,0,1,2,26,3,36],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4":[7,0,0,0,1,2,26,3,41],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857":[7,0,0,0,1,2,26,3,41,4],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825":[7,0,0,0,1,2,26,3,41,0],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01":[7,0,0,0,1,2,26,3,41,3],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71":[7,0,0,0,1,2,26,3,41,1],
+"df/d79/Map_8h.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50":[7,0,0,0,1,2,26,3,41,2],
+"df/d79/Map_8h.html#a29bbacae053e66ee8b7fa97db3cbd127":[7,0,0,0,1,2,26,3,16],
+"df/d79/Map_8h.html#a37ba261cbc15afa0e5cb95e9d34fe115":[7,0,0,0,1,2,26,3,34],
+"df/d79/Map_8h.html#a3f00601bc8d385b63e3e766209cd366b":[7,0,0,0,1,2,26,3,23],
+"df/d79/Map_8h.html#a42b8b790a3d284e7116bcad1c391b8f9":[7,0,0,0,1,2,26,3,22],
+"df/d79/Map_8h.html#a59daadc7c96729526e05982ec6600bb1":[7,0,0,0,1,2,26,3,21]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca331b20686b90aa35eb86d13da38b1968":[7,0,0,0,1,3,5,9,2,13,64,8],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca349284f6a7098ffd52d578684305b711":[7,0,0,0,1,3,5,9,2,13,64,13],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca38dfb643de18193016334146c6bca06e":[7,0,0,0,1,3,5,9,2,13,64,14],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca4d422f80c6547f2e32a54926e044371e":[7,0,0,0,1,3,5,9,2,13,64,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a9036bfbe4c942732b01fc1750e15bac8":[6,0,1306,0,58],
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a91a87a7d99dbe2aa9613987f6633ca12":[6,0,1306,0,37],
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a92339c6212fc3713eeac18f9943f16e8":[6,0,1306,0,30],
-"d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a92b7dca61a1d1c863c9ef8398ea27add":[6,0,1306,0,31],
-"d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a9a4e771ac1751e76228465ca2b7cee8d":[6,0,1306,0,69]
+"d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a92b7dca61a1d1c863c9ef8398ea27add":[6,0,1306,0,31]
 };

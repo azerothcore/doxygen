@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d3/d81/trial__of__the__champion_8h.html#aebe90f74b46b296e06e43901fec3d56cae0803ddfe5588c768e189f30a92d711c":[7,0,0,0,1,3,5,2,0,5,5,11],
 "d3/d81/trial__of__the__champion_8h.html#aebe90f74b46b296e06e43901fec3d56cae3384bda9eca98e21a4f1724567b6047":[7,0,0,0,1,3,5,2,0,5,5,20],
 "d3/d81/trial__of__the__champion_8h.html#aebe90f74b46b296e06e43901fec3d56cae38c2f3227aa96a65ee208830f958bc5":[7,0,0,0,1,3,5,2,0,5,5,4],
 "d3/d81/trial__of__the__champion_8h.html#aebe90f74b46b296e06e43901fec3d56cae70839258cf085318a57be54e0d46649":[7,0,0,0,1,3,5,2,0,5,5,5],
@@ -102,8 +103,8 @@ var NAVTREEINDEX102 =
 "d3/d8b/Geometry_8h.html#a61d2d33d44f335480a833a04436620ba":[7,0,0,0,0,15,13,4],
 "d3/d8b/Geometry_8h.html#a62641094ea3c1b9506faefa7a35ba456":[7,0,0,0,0,15,13,2],
 "d3/d8b/Geometry_8h.html#a95ce6760beb476a4c24ff46d3069103f":[7,0,0,0,0,15,13,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,30,7,3],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,30,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
@@ -112,8 +113,8 @@ var NAVTREEINDEX102 =
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3877],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a1ecb6e617976cdfbeb534849db41d57a":[6,0,3877,1],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a2c2ca2c0425ab3b815d246b1caebf588":[6,0,3877,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/Map_8cpp.html#ad41458075af3abab316f89b325f54b7e":[7,0,0,0,1,2,26,2,3],
 "d3/d92/Map_8cpp.html#ae53a23e88747c5795afb99cccd6b4c6a":[7,0,0,0,1,2,26,2,7],
 "d3/d92/Map_8cpp.html#aeb7bc0ea8073198e3cb70d0ee7f2aa44":[7,0,0,0,1,2,26,2,6],
-"d3/d92/classGameEventMgr.html":[6,0,1068],
-"d3/d92/classGameEventMgr.html#a05276e1cc9758c37008cfafe14dec717":[6,0,1068,39]
+"d3/d92/classGameEventMgr.html":[6,0,1068]
 };

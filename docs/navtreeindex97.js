@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a9a4e771ac1751e76228465ca2b7cee8d":[6,0,1306,0,69],
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a9dfda6a08dace91a79faf45ccf360d6d":[6,0,1306,0,44],
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#aa549bffffb672891501f95368423d06b":[6,0,1306,0,72],
 "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#aa5be147a85ee121fe92704f782e5854b":[6,0,1306,0,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d53/structnpc__steam__powered__auctioneer_1_1npc__steam__powered__auctioneerAI.html":[6,0,2111,0],
 "d3/d53/structnpc__steam__powered__auctioneer_1_1npc__steam__powered__auctioneerAI.html#a3352588abda326f7c72d0764a3f53370":[6,0,2111,0,1],
 "d3/d53/structnpc__steam__powered__auctioneer_1_1npc__steam__powered__auctioneerAI.html#a5ef3dfd385ee3e5a49bd5c0e165103fc":[6,0,2111,0,0],
-"d3/d54/classFactoryHolder.html":[6,0,1030],
-"d3/d54/classFactoryHolder.html#a5384598eca62a35bc617a4c395353ecd":[6,0,1030,0]
+"d3/d54/classFactoryHolder.html":[6,0,1030]
 };

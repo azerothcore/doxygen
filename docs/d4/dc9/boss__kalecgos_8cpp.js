@@ -9,13 +9,6 @@ var boss__kalecgos_8cpp =
     [ "spell_kalecgos_spectral_realm_dummy", "d6/da6/classspell__kalecgos__spectral__realm__dummy.html", "d6/da6/classspell__kalecgos__spectral__realm__dummy" ],
     [ "spell_kalecgos_spectral_realm_aura", "dd/d87/classspell__kalecgos__spectral__realm__aura.html", "dd/d87/classspell__kalecgos__spectral__realm__aura" ],
     [ "DRAGON_REALM_Z", "d4/dc9/boss__kalecgos_8cpp.html#a1b91e4a720662db9acdb526263aca28e", null ],
-    [ "Kalec", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310", [
-      [ "SPELL_OPEN_BRUTALLUS_BACK_DOOR", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310aa4c446ea60fca0ad0a117259b3d3caeb", null ],
-      [ "MODEL_KALECGOS_DRAGON", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a7ad18553ddfd11f845101d275790d248", null ],
-      [ "EVENT_KALEC_SCENE_1", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a45a9c6f6574e5c87ce074ef3ecff1ad1", null ],
-      [ "EVENT_KALEC_SCENE_2", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310abd453afc9b6f6d2c11db422f2396129f", null ],
-      [ "EVENT_KALEC_SCENE_3", "d4/dc9/boss__kalecgos_8cpp.html#aa8f71fb42740a9161f16f2d5f20e4310a17a3b85f94be954891365c11e8cf4e0a", null ]
-    ] ],
     [ "Spells", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SPECTRAL_EXHAUSTION", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e4c8019cab150215b3400f95b9c5a83", null ],
       [ "SPELL_SPECTRAL_BLAST", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caff3afd45b52a219545d62cd6c8052689", null ],
