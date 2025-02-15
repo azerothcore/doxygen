@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1400</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_crystal_prison&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1403</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_crystal_prison&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -253,20 +253,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1403</span>    {</div>
-<div class="line"><span class="lineno"> 1404</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_define" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a310a37ec148e2e37c1123f9ced34020f">QUEST_BATTLE_OF_THE_CRIMSON_WATCH</a>)</div>
-<div class="line"><span class="lineno"> 1405</span>        {</div>
-<div class="line"><span class="lineno"> 1406</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* Illidan = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(22083, 50);</div>
-<div class="line"><span class="lineno"> 1407</span> </div>
-<div class="line"><span class="lineno"> 1408</span>            <span class="keywordflow">if</span> (Illidan &amp;&amp; !<a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;EventStarted)</div>
-<div class="line"><span class="lineno"> 1409</span>            {</div>
-<div class="line"><span class="lineno"> 1410</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;PlayerGUID = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1411</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;LiveCount = 0;</div>
-<div class="line"><span class="lineno"> 1412</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;EventStarted = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1413</span>            }</div>
-<div class="line"><span class="lineno"> 1414</span>        }</div>
-<div class="line"><span class="lineno"> 1415</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1416</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1406</span>    {</div>
+<div class="line"><span class="lineno"> 1407</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_define" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a310a37ec148e2e37c1123f9ced34020f">QUEST_BATTLE_OF_THE_CRIMSON_WATCH</a>)</div>
+<div class="line"><span class="lineno"> 1408</span>        {</div>
+<div class="line"><span class="lineno"> 1409</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* Illidan = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(22083, 50);</div>
+<div class="line"><span class="lineno"> 1410</span> </div>
+<div class="line"><span class="lineno"> 1411</span>            <span class="keywordflow">if</span> (Illidan &amp;&amp; !<a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;EventStarted)</div>
+<div class="line"><span class="lineno"> 1412</span>            {</div>
+<div class="line"><span class="lineno"> 1413</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;PlayerGUID = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1414</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;LiveCount = 0;</div>
+<div class="line"><span class="lineno"> 1415</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, Illidan-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())-&gt;EventStarted = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1416</span>            }</div>
+<div class="line"><span class="lineno"> 1417</span>        }</div>
+<div class="line"><span class="lineno"> 1418</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1419</span>    }</div>
 <div class="ttc" id="aUnitAI_8h_html_a0476b18cfebeb691aabb4344ec4f8af3"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a></div><div class="ttdeci">#define CAST_AI(a, b)</div><div class="ttdef"><b>Definition</b> UnitAI.h:26</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
@@ -288,7 +288,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/da3/classgo__crystal__prison.html">go_crystal_prison</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:18:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

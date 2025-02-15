@@ -2128,6 +2128,7 @@ var hierarchy =
     [ "FlaggedValuesArray32< int32, uint32, StealthType, TOTAL_STEALTH_TYPES >", "d4/d64/classFlaggedValuesArray32.html", null ],
     [ "FlameLeviathanPursuedTargetSelector", "d9/d36/classFlameLeviathanPursuedTargetSelector.html", null ],
     [ "FlashFreezeCheck", "d3/dc5/classFlashFreezeCheck.html", null ],
+    [ "LoadedHeightData::FloatHeightData", "d9/d5c/structLoadedHeightData_1_1FloatHeightData.html", null ],
     [ "FlyByCamera", "d9/d21/structFlyByCamera.html", null ],
     [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html", null ],
     [ "Acore::Impl::StringConvertImpl::For< bool, void >", "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html", null ],
@@ -2239,9 +2240,7 @@ var hierarchy =
     [ "Graveyard", "d0/deb/classGraveyard.html", null ],
     [ "GraveyardData", "df/db1/structGraveyardData.html", null ],
     [ "GraveyardStruct", "db/d35/structGraveyardStruct.html", null ],
-    [ "Grid< ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "d0/daf/classGrid.html", null ],
-    [ "GridLoader< A, T, O >", "d3/d83/classGridLoader.html", null ],
-    [ "GridMap", "d0/d90/classGridMap.html", null ],
+    [ "GridCell< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "dd/dfd/classGridCell.html", null ],
     [ "GridObject< T >", "d5/ddf/classGridObject.html", null ],
     [ "GridObject< Corpse >", "d5/ddf/classGridObject.html", [
       [ "Corpse", "d3/dc4/classCorpse.html", null ]
@@ -2273,6 +2272,12 @@ var hierarchy =
     [ "GridObject< Player >", "d5/ddf/classGridObject.html", [
       [ "Player", "d2/d4b/classPlayer.html", null ]
     ] ],
+    [ "GridObjectCleaner", "dc/d12/classGridObjectCleaner.html", null ],
+    [ "GridObjectLoader", "d0/d69/classGridObjectLoader.html", null ],
+    [ "GridObjectUnloader", "de/d89/classGridObjectUnloader.html", null ],
+    [ "GridTerrainData", "de/d5e/classGridTerrainData.html", null ],
+    [ "GridTerrainLoader", "d5/d61/classGridTerrainLoader.html", null ],
+    [ "GridTerrainUnloader", "d4/d8c/classGridTerrainUnloader.html", null ],
     [ "Group", "d0/db7/classGroup.html", null ],
     [ "GroupMgr", "d4/df8/classGroupMgr.html", null ],
     [ "VMAP::GroupModel", "d2/da8/classVMAP_1_1GroupModel.html", null ],
@@ -2462,7 +2467,7 @@ var hierarchy =
       ] ],
       [ "Reference< GridRefMgr< Player >, Player >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< T >, T >", "d4/d52/classReference.html", null ],
-      [ "Reference< GridRefMgr< NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
+      [ "Reference< GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
       [ "Reference< TO, FROM >", "d4/d52/classReference.html", [
         [ "GridReference< Corpse >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Creature >", "d4/db8/classGridReference.html", null ],
@@ -2470,7 +2475,7 @@ var hierarchy =
         [ "GridReference< GameObject >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Player >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< T >", "d4/db8/classGridReference.html", null ],
-        [ "GridReference< NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
+        [ "GridReference< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
       ] ]
     ] ],
     [ "LinkedListHead", "db/dea/classLinkedListHead.html", [
@@ -2493,7 +2498,7 @@ var hierarchy =
       [ "RefMgr< Loot, LootValidatorRef >", "d4/d73/classRefMgr.html", [
         [ "LootValidatorRefMgr", "dd/df6/classLootValidatorRefMgr.html", null ]
       ] ],
-      [ "RefMgr< GridRefMgr< NGridType >, NGridType >", "d4/d73/classRefMgr.html", null ],
+      [ "RefMgr< GridRefMgr< MapGridType >, MapGridType >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< Map, Player >", "d4/d73/classRefMgr.html", [
         [ "MapRefMgr", "d4/dbe/classMapRefMgr.html", null ]
       ] ],
@@ -2502,14 +2507,14 @@ var hierarchy =
       [ "RefMgr< GridRefMgr< H >, H >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< GRID_OBJECT_TYPES >, GRID_OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< WORLD_OBJECT_TYPES >, WORLD_OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< GridRefMgr< NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
+      [ "RefMgr< GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< OBJECT_TYPES >, OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< TO, FROM >", "d4/d73/classRefMgr.html", [
         [ "GridRefMgr< Corpse >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< Creature >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< DynamicObject >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< GameObject >", "db/d9d/classGridRefMgr.html", null ],
-        [ "GridRefMgr< NGridType >", "db/d9d/classGridRefMgr.html", [
+        [ "GridRefMgr< MapGridType >", "db/d9d/classGridRefMgr.html", [
           [ "Map", "d7/db0/classMap.html", [
             [ "BattlegroundMap", "d4/d93/classBattlegroundMap.html", null ],
             [ "InstanceMap", "de/dd8/classInstanceMap.html", null ],
@@ -2521,7 +2526,7 @@ var hierarchy =
         [ "GridRefMgr< H >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< GRID_OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< WORLD_OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ],
-        [ "GridRefMgr< NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
+        [ "GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ]
       ] ]
     ] ],
@@ -2538,6 +2543,10 @@ var hierarchy =
     [ "LiquidData", "da/df8/structLiquidData.html", null ],
     [ "VMAP::AreaAndLiquidData::LiquidInfo", "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html", null ],
     [ "LiquidTypeEntry", "da/d20/structLiquidTypeEntry.html", null ],
+    [ "LoadedAreaData", "dd/d23/structLoadedAreaData.html", null ],
+    [ "LoadedHeightData", "de/da0/structLoadedHeightData.html", null ],
+    [ "LoadedHoleData", "d5/dab/structLoadedHoleData.html", null ],
+    [ "LoadedLiquidData", "d6/dd6/structLoadedLiquidData.html", null ],
     [ "Acore::LocalizedPacketDo< Builder >", "de/d4c/classAcore_1_1LocalizedPacketDo.html", null ],
     [ "Acore::LocalizedPacketListDo< Builder >", "dc/dd2/classAcore_1_1LocalizedPacketListDo.html", null ],
     [ "Location", "d3/d98/structLocation.html", null ],
@@ -2601,6 +2610,8 @@ var hierarchy =
     [ "MapDifficulty", "dd/d59/structMapDifficulty.html", null ],
     [ "MapDifficultyEntry", "df/d43/structMapDifficultyEntry.html", null ],
     [ "MapEntry", "d2/d1d/structMapEntry.html", null ],
+    [ "MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "da/d7e/classMapGrid.html", null ],
+    [ "MapGridManager", "d9/d8b/classMapGridManager.html", null ],
     [ "MapMgr", "d8/d58/classMapMgr.html", null ],
     [ "VMAP::MapRayCallback", "de/d20/classVMAP_1_1MapRayCallback.html", null ],
     [ "VMAP::MapSpawns", "d3/d5d/structVMAP_1_1MapSpawns.html", null ],
@@ -2759,7 +2770,6 @@ var hierarchy =
     [ "NetworkThread< WorldSocket >", "d5/d87/classNetworkThread.html", [
       [ "WorldSocketThread", "db/d07/classWorldSocketThread.html", null ]
     ] ],
-    [ "NGrid< N, ACTIVE_OBJECT, WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "df/d46/classNGrid.html", null ],
     [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html", null ],
     [ "NodeArray< Node >", "d7/d06/classNodeArray.html", null ],
     [ "NodeCreator< Node >", "d5/d6e/structNodeCreator.html", null ],
@@ -2786,9 +2796,6 @@ var hierarchy =
     ] ],
     [ "ObjectData", "d3/dfb/structObjectData.html", null ],
     [ "Acore::ObjectDistanceOrderPred", "df/d25/classAcore_1_1ObjectDistanceOrderPred.html", null ],
-    [ "ObjectGridCleaner", "d7/d6b/classObjectGridCleaner.html", null ],
-    [ "ObjectGridLoader", "d2/d7d/classObjectGridLoader.html", null ],
-    [ "ObjectGridUnloader", "da/dd3/classObjectGridUnloader.html", null ],
     [ "ObjectGuid", "d0/d0a/classObjectGuid.html", null ],
     [ "Acore::ObjectGUIDCheck", "d2/d0d/classAcore_1_1ObjectGUIDCheck.html", null ],
     [ "ObjectGuidGeneratorBase", "d5/d89/classObjectGuidGeneratorBase.html", [
@@ -2802,7 +2809,6 @@ var hierarchy =
     [ "ObjectRegistry< T, Key >", "d8/df1/classObjectRegistry.html", null ],
     [ "Acore::ObjectTypeIdCheck", "d5/d34/classAcore_1_1ObjectTypeIdCheck.html", null ],
     [ "Acore::ObjectUpdater", "d1/dff/structAcore_1_1ObjectUpdater.html", null ],
-    [ "ObjectWorldLoader", "da/d26/classObjectWorldLoader.html", null ],
     [ "OpcodeHandler", "da/d15/classOpcodeHandler.html", [
       [ "ClientOpcodeHandler", "d5/ddc/classClientOpcodeHandler.html", [
         [ "PacketHandler< PacketClass, HandlerFunction >", "d3/db9/classPacketHandler.html", null ],
@@ -4572,6 +4578,8 @@ var hierarchy =
     [ "TypeUnorderedMapContainer< AllMapStoredObjectTypes, ObjectGuid >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
     [ "u_map_fcc", "dd/d66/unionu__map__fcc.html", null ],
     [ "u_map_magic", "d0/dcf/unionu__map__magic.html", null ],
+    [ "LoadedHeightData::Uint16HeightData", "d5/df7/structLoadedHeightData_1_1Uint16HeightData.html", null ],
+    [ "LoadedHeightData::Uint8HeightData", "d3/dec/structLoadedHeightData_1_1Uint8HeightData.html", null ],
     [ "Acore::unary_function< ArgumentType, ResultType >", "d8/dfc/structAcore_1_1unary__function.html", null ],
     [ "Acore::unary_function< LootStoreItem *, bool >", "d8/dfc/structAcore_1_1unary__function.html", [
       [ "LootGroupInvalidSelector", "db/ded/structLootGroupInvalidSelector.html", null ]

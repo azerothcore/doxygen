@@ -313,25 +313,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1807</span>    {</div>
-<div class="line"><span class="lineno"> 1808</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno"> 1809</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* infernal = caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f">NPC_INFERNAL_OVERSOUL</a>, 100.0f))</div>
-<div class="line"><span class="lineno"> 1810</span>                <span class="keywordflow">if</span> (!infernal-&gt;HasAura(<a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8">SPELL_DISRUPT_SUMMONING_RITUAL</a>))</div>
-<div class="line"><span class="lineno"> 1811</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa18552f5d30b48824016eafa3b1b411b6">SPELL_FAILED_CASTER_AURASTATE</a>;</div>
-<div class="line"><span class="lineno"> 1812</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 1813</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1810</span>    {</div>
+<div class="line"><span class="lineno"> 1811</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno"> 1812</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* infernal = caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f">NPC_INFERNAL_OVERSOUL</a>, 100.0f))</div>
+<div class="line"><span class="lineno"> 1813</span>                <span class="keywordflow">if</span> (!infernal-&gt;HasAura(<a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8">SPELL_DISRUPT_SUMMONING_RITUAL</a>))</div>
+<div class="line"><span class="lineno"> 1814</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa18552f5d30b48824016eafa3b1b411b6">SPELL_FAILED_CASTER_AURASTATE</a>;</div>
+<div class="line"><span class="lineno"> 1815</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 1816</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daa18552f5d30b48824016eafa3b1b411b6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa18552f5d30b48824016eafa3b1b411b6">SPELL_FAILED_CASTER_AURASTATE</a></div><div class="ttdeci">@ SPELL_FAILED_CASTER_AURASTATE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:971</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1138</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2459</div></div>
-<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f">NPC_INFERNAL_OVERSOUL</a></div><div class="ttdeci">@ NPC_INFERNAL_OVERSOUL</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1797</div></div>
-<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8">SPELL_DISRUPT_SUMMONING_RITUAL</a></div><div class="ttdeci">@ SPELL_DISRUPT_SUMMONING_RITUAL</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1798</div></div>
+<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f">NPC_INFERNAL_OVERSOUL</a></div><div class="ttdeci">@ NPC_INFERNAL_OVERSOUL</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1800</div></div>
+<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8">SPELL_DISRUPT_SUMMONING_RITUAL</a></div><div class="ttdeci">@ SPELL_DISRUPT_SUMMONING_RITUAL</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1801</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l01797">NPC_INFERNAL_OVERSOUL</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l01798">SPELL_DISRUPT_SUMMONING_RITUAL</a>, and <a class="el" href="../../#l00971">SPELL_FAILED_CASTER_AURASTATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l01800">NPC_INFERNAL_OVERSOUL</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l01801">SPELL_DISRUPT_SUMMONING_RITUAL</a>, and <a class="el" href="../../#l00971">SPELL_FAILED_CASTER_AURASTATE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01815">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01818">Register()</a>.</p>
 
 </div>
 </div>
@@ -377,14 +377,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1816</span>    {</div>
-<div class="line"><span class="lineno"> 1817</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d0/d42/classspell__disrupt__summoning__ritual.html#aa53bdc1b4b57150dbebce61ac87d2b88">spell_disrupt_summoning_ritual::CheckRequirement</a>);</div>
-<div class="line"><span class="lineno"> 1818</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1819</span>    {</div>
+<div class="line"><span class="lineno"> 1820</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d0/d42/classspell__disrupt__summoning__ritual.html#aa53bdc1b4b57150dbebce61ac87d2b88">spell_disrupt_summoning_ritual::CheckRequirement</a>);</div>
+<div class="line"><span class="lineno"> 1821</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aclassspell__disrupt__summoning__ritual_html_aa53bdc1b4b57150dbebce61ac87d2b88"><div class="ttname"><a href="../../d0/d42/classspell__disrupt__summoning__ritual.html#aa53bdc1b4b57150dbebce61ac87d2b88">spell_disrupt_summoning_ritual::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1806</div></div>
+<div class="ttc" id="aclassspell__disrupt__summoning__ritual_html_aa53bdc1b4b57150dbebce61ac87d2b88"><div class="ttname"><a href="../../d0/d42/classspell__disrupt__summoning__ritual.html#aa53bdc1b4b57150dbebce61ac87d2b88">spell_disrupt_summoning_ritual::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1809</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01806">CheckRequirement()</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01809">CheckRequirement()</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -397,7 +397,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d42/classspell__disrupt__summoning__ritual.html">spell_disrupt_summoning_ritual</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:19:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

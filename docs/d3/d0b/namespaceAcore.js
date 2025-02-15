@@ -232,6 +232,7 @@ var namespaceAcore =
     [ "ComputeCellCoord", "d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5", null ],
     [ "ComputeCellCoord", "d3/d0b/namespaceAcore.html#a140264392cb3077ed7bb734e39b73310", null ],
     [ "ComputeGridCoord", "d3/d0b/namespaceAcore.html#a4bbdd5e55a789ab8b861c1205f122b0e", null ],
+    [ "ComputeGridCoordSimple", "d3/d0b/namespaceAcore.html#a2de9525f5b0c56d1f592f8c63f21f52c", null ],
     [ "Count", "d3/d0b/namespaceAcore.html#a2d87541d6d2eceb7467b09f7fa5bd51b", null ],
     [ "Count", "d3/d0b/namespaceAcore.html#aca0eb3f176889f6cc837d75915f5d668", null ],
     [ "Count", "d3/d0b/namespaceAcore.html#a9e588c84ac0874cf6273cffcc353bd8c", null ],

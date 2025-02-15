@@ -728,7 +728,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  792</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  793</span>            <a class="code hl_class" href="../../d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html">Acore::AnyPlayerInObjectRangeCheck</a> checker(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 2.0f);</div>
 <div class="line"><span class="lineno">  794</span>            <a class="code hl_struct" href="../../d3/d69/structAcore_1_1PlayerSearcher.html">Acore::PlayerSearcher&lt;Acore::AnyPlayerInObjectRangeCheck&gt;</a> searcher(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, player, checker);</div>
-<div class="line"><span class="lineno">  795</span>            <a class="code hl_function" href="../../df/df1/structCell.html#a952f2c6008bbbc3b9ee1652ea5f9188a">Cell::VisitWorldObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 2.0f);</div>
+<div class="line"><span class="lineno">  795</span>            <a class="code hl_function" href="../../df/df1/structCell.html#a3aa212635749a4fa5ca9dd7fab1ae884">Cell::VisitWorldObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 2.0f);</div>
 <div class="line"><span class="lineno">  796</span>            <span class="keywordflow">if</span> (player)</div>
 <div class="line"><span class="lineno">  797</span>            {</div>
 <div class="line"><span class="lineno">  798</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ab5e919448c2ee68b813a2115ca30a83c">SPELL_DRUNKEN_MASTER</a>, <span class="keyword">true</span>);</div>
@@ -744,9 +744,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1178</div></div>
 <div class="ttc" id="aclassUnit_html_ada48afda515b2bf5acc45c5872972114"><div class="ttname"><a href="../../df/dd9/classUnit.html#ada48afda515b2bf5acc45c5872972114">Unit::KillSelf</a></div><div class="ttdeci">void KillSelf(bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.h:1168</div></div>
 <div class="ttc" id="astructAcore_1_1PlayerSearcher_html"><div class="ttname"><a href="../../d3/d69/structAcore_1_1PlayerSearcher.html">Acore::PlayerSearcher</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:510</div></div>
-<div class="ttc" id="astructCell_html_a952f2c6008bbbc3b9ee1652ea5f9188a"><div class="ttname"><a href="../../df/df1/structCell.html#a952f2c6008bbbc3b9ee1652ea5f9188a">Cell::VisitWorldObjects</a></div><div class="ttdeci">static void VisitWorldObjects(WorldObject const *obj, T &amp;visitor, float radius, bool dont_load=true)</div><div class="ttdef"><b>Definition</b> CellImpl.h:192</div></div>
+<div class="ttc" id="astructCell_html_a3aa212635749a4fa5ca9dd7fab1ae884"><div class="ttname"><a href="../../df/df1/structCell.html#a3aa212635749a4fa5ca9dd7fab1ae884">Cell::VisitWorldObjects</a></div><div class="ttdeci">static void VisitWorldObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:173</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l01168">Unit::KillSelf()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l06317">Unit::RemoveAllGameObjects()</a>, <a class="el" href="../../#l00290">SPELL_DRUNKEN_MASTER</a>, <a class="el" href="../../#l00772">timer</a>, and <a class="el" href="../../#l00192">Cell::VisitWorldObjects()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l01168">Unit::KillSelf()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l06317">Unit::RemoveAllGameObjects()</a>, <a class="el" href="../../#l00290">SPELL_DRUNKEN_MASTER</a>, <a class="el" href="../../#l00772">timer</a>, and <a class="el" href="../../#l00173">Cell::VisitWorldObjects()</a>.</p>
 
 </div>
 </div>
@@ -776,7 +776,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d25/structnpc__brewfest__super__brew__trigger.html">npc_brewfest_super_brew_trigger</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:18:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

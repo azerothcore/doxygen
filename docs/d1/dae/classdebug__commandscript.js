@@ -18,6 +18,7 @@ var classdebug__commandscript =
     [ "HandleDebugHostileRefListCommand", "d1/dae/classdebug__commandscript.html#a7727d6889a801c2dd277b6dd8e1bda8b", null ],
     [ "HandleDebugItemExpireCommand", "d1/dae/classdebug__commandscript.html#ab37d9549a84c3a4750bc9122ab9f940b", null ],
     [ "HandleDebugLoSCommand", "d1/dae/classdebug__commandscript.html#a47bba4688bef25b8772364c9f420f3ff", null ],
+    [ "HandleDebugMapDataCommand", "d1/dae/classdebug__commandscript.html#a5cfe4914059e3792880d3b1b00d65bf2", null ],
     [ "HandleDebugMod32ValueCommand", "d1/dae/classdebug__commandscript.html#ab0da4795656e2a115f19160edae75539", null ],
     [ "HandleDebugMoveflagsCommand", "d1/dae/classdebug__commandscript.html#a27db9c9ddc109ec154b9551fcbe22528", null ],
     [ "HandleDebugObjectCountCommand", "d1/dae/classdebug__commandscript.html#a92daab7064ce29118506bc3a42e66ae3", null ],

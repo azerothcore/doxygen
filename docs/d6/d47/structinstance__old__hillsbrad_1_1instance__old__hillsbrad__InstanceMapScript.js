@@ -2,7 +2,6 @@ var structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScrip
 [
     [ "instance_old_hillsbrad_InstanceMapScript", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
     [ "CleanupInstance", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
-    [ "EnsureGridLoaded", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#a337693ca3ad4527249b0f9f5c9a62d0f", null ],
     [ "GetData", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
     [ "GetGuidData", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#a119965a939e79b0fb395e8e3695359aa", null ],
     [ "Initialize", "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],

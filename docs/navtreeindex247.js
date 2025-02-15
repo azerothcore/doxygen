@@ -1,9 +1,5 @@
 var NAVTREEINDEX247 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799":[7,0,0,0,1,2,41,0,0,6],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a004bf17a57500ae744346f8950917da2":[7,0,0,0,1,2,41,0,0,6,119],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a007ec89b67aa5358a7da6c3dd899e4d2":[7,0,0,0,1,2,41,0,0,6,314],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a00f1e6aef82a866aa3e723b486c72c15":[7,0,0,0,1,2,41,0,0,6,70],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0339badeb04540b67e97dafe15d3ab78":[7,0,0,0,1,2,41,0,0,6,102],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a034172ccdcc57a664eff33cfbe475f55":[7,0,0,0,1,2,41,0,0,6,97],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a04579619962412a4186f6fa895c51d39":[7,0,0,0,1,2,41,0,0,6,103],
@@ -249,5 +245,9 @@ var NAVTREEINDEX247 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799abd40116bf1c82e2da65fda2000c3b54c":[7,0,0,0,1,2,41,0,0,6,61],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799abe2d215d7961b30703f38c2d33807543":[7,0,0,0,1,2,41,0,0,6,306],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933":[7,0,0,0,1,2,41,0,0,6,96],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac0dfa842319d63f7923d74c30ef38dfb":[7,0,0,0,1,2,41,0,0,6,19]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac0dfa842319d63f7923d74c30ef38dfb":[7,0,0,0,1,2,41,0,0,6,19],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac0f06e2dafd8ae571b3c8dc1588fd915":[7,0,0,0,1,2,41,0,0,6,267],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac10d497358145820773847a2686fe030":[7,0,0,0,1,2,41,0,0,6,238],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac223cdd1e0ee2aca2ce289f7a3f2e1f4":[7,0,0,0,1,2,41,0,0,6,285],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac249005d97d7714006fc479189308fb9":[7,0,0,0,1,2,41,0,0,6,142]
 };

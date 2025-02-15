@@ -120,6 +120,7 @@ $(document).ready(function(){initNavTree('d9/ddc/ItemEnchantmentMgr_8cpp.html','
 <code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
 <code>#include &lt;cmath&gt;</code><br />
 <code>#include &lt;functional&gt;</code><br />
@@ -198,83 +199,83 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
-<div class="line"><span class="lineno">  126</span>    <a class="code hl_struct" href="../../d4/d69/structItemTemplate.html">ItemTemplate</a> <span class="keyword">const</span>* itemProto = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemTemplate(item_id);</div>
-<div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">if</span> (!itemProto)</div>
-<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">if</span> (!itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#acf4934f509118a60bcf90dbb893b7e58">RandomSuffix</a>)</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  132</span> </div>
-<div class="line"><span class="lineno">  133</span>    <a class="code hl_struct" href="../../dd/d97/structRandomPropertiesPointsEntry.html">RandomPropertiesPointsEntry</a> <span class="keyword">const</span>* randomProperty = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a0663ae41922720e1d5f53ed43f7423d7">sRandomPropertiesPointsStore</a>.LookupEntry(itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemLevel</a>);</div>
-<div class="line"><span class="lineno">  134</span>    <span class="keywordflow">if</span> (!randomProperty)</div>
-<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> suffixFactor;</div>
-<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">switch</span> (itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#ac47429e999906b62258c7ade930efcbf">InventoryType</a>)</div>
-<div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        <span class="comment">// Items of that type don`t have points</span></div>
-<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1acc17c9114149a53a3a62ef132aaa6841">INVTYPE_NON_EQUIP</a>:</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aac84cafd4a3fad90aee9685b0afff462">INVTYPE_BAG</a>:</div>
-<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1adca3872318331e2a5f3c95dd80838f5f">INVTYPE_TABARD</a>:</div>
-<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1acde5d85868749e487a7662f649df11ad">INVTYPE_AMMO</a>:</div>
-<div class="line"><span class="lineno">  145</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ad4e21ef0cfa56e691d9d982141a849e4">INVTYPE_QUIVER</a>:</div>
-<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a6df30683d5a0d8a30a617cd902529bf2">INVTYPE_RELIC</a>:</div>
-<div class="line"><span class="lineno">  147</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  148</span>        <span class="comment">// Select point coefficient</span></div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a1d726ab1e91ba4370a91a84e9cfe04b5">INVTYPE_HEAD</a>:</div>
-<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a0ad9dd30137bfa28a21e79ce412afc68">INVTYPE_BODY</a>:</div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1af2b736117eeda9485c06f5f903f6777f">INVTYPE_CHEST</a>:</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ae909d8d958266ae8c919c4b7ed206983">INVTYPE_LEGS</a>:</div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d">INVTYPE_2HWEAPON</a>:</div>
-<div class="line"><span class="lineno">  154</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a3e22e849ed0cf8a5cc98ac51085281b6">INVTYPE_ROBE</a>:</div>
-<div class="line"><span class="lineno">  155</span>            suffixFactor = 0;</div>
-<div class="line"><span class="lineno">  156</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1abc5cec8592b34966c4806d34be126e57">INVTYPE_SHOULDERS</a>:</div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a8db05c002af58440ff80a03d4891743c">INVTYPE_WAIST</a>:</div>
-<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ac564477d61f339db6062c92eb7d8890c">INVTYPE_FEET</a>:</div>
-<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1afc3d77b951a4063cd59e22006f7e24ff">INVTYPE_HANDS</a>:</div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a5e9267552277837eabc99511223700af">INVTYPE_TRINKET</a>:</div>
-<div class="line"><span class="lineno">  162</span>            suffixFactor = 1;</div>
-<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  164</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ab4f525d0d5ac2bd14e13b62a434eae18">INVTYPE_NECK</a>:</div>
-<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a943b1ff4ec6ef38c5d83feff5cd089e7">INVTYPE_WRISTS</a>:</div>
-<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a0fb6a5ac04b5dec28b32c62c84c9b83d">INVTYPE_FINGER</a>:</div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ad6601fdb0215631c2b4f647a43b3296b">INVTYPE_SHIELD</a>:</div>
-<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a35ccb0e0d02d4f8adb5ae15f4b4f2351">INVTYPE_CLOAK</a>:</div>
-<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a4fcd05d96b74ed7d7e4c97cb33605e9e">INVTYPE_HOLDABLE</a>:</div>
-<div class="line"><span class="lineno">  170</span>            suffixFactor = 2;</div>
-<div class="line"><span class="lineno">  171</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3">INVTYPE_WEAPON</a>:</div>
-<div class="line"><span class="lineno">  173</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1">INVTYPE_WEAPONMAINHAND</a>:</div>
-<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62">INVTYPE_WEAPONOFFHAND</a>:</div>
-<div class="line"><span class="lineno">  175</span>            suffixFactor = 3;</div>
-<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  177</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a893eec6f59183350450e3aa76371fbe0">INVTYPE_RANGED</a>:</div>
-<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a8baed7484de6618b6a471f07ae065e20">INVTYPE_THROWN</a>:</div>
-<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a93f18d1bdd5ca88c8b1c1269c8460610">INVTYPE_RANGEDRIGHT</a>:</div>
-<div class="line"><span class="lineno">  180</span>            suffixFactor = 4;</div>
-<div class="line"><span class="lineno">  181</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  183</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  184</span>    }</div>
-<div class="line"><span class="lineno">  185</span>    <span class="comment">// Select rare/epic modifier</span></div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">switch</span> (itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a>)</div>
-<div class="line"><span class="lineno">  187</span>    {</div>
-<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277">ITEM_QUALITY_UNCOMMON</a>:</div>
-<div class="line"><span class="lineno">  189</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a74acb6861a84d5d193038eaa5ac9b12f">UncommonPropertiesPoints</a>[suffixFactor];</div>
-<div class="line"><span class="lineno">  190</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d">ITEM_QUALITY_RARE</a>:</div>
-<div class="line"><span class="lineno">  191</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a9359171635ef3e9a0029820fad286368">RarePropertiesPoints</a>[suffixFactor];</div>
-<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021aff8031480ccc27818d93e34ae1de8723">ITEM_QUALITY_EPIC</a>:</div>
-<div class="line"><span class="lineno">  193</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a35dc60a15091357e03032226621340f7">EpicPropertiesPoints</a>[suffixFactor];</div>
-<div class="line"><span class="lineno">  194</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a62ca005289b46a8bf1bd633f7440b4a4">ITEM_QUALITY_LEGENDARY</a>:</div>
-<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021af237157bd894c3f26f3f821f28f5f1bf">ITEM_QUALITY_ARTIFACT</a>:</div>
-<div class="line"><span class="lineno">  196</span>            <span class="keywordflow">return</span> 0;                                       <span class="comment">// not have random properties</span></div>
-<div class="line"><span class="lineno">  197</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  198</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  199</span>    }</div>
-<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  201</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
+<div class="line"><span class="lineno">  127</span>    <a class="code hl_struct" href="../../d4/d69/structItemTemplate.html">ItemTemplate</a> <span class="keyword">const</span>* itemProto = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemTemplate(item_id);</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">if</span> (!itemProto)</div>
+<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  131</span>    <span class="keywordflow">if</span> (!itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#acf4934f509118a60bcf90dbb893b7e58">RandomSuffix</a>)</div>
+<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    <a class="code hl_struct" href="../../dd/d97/structRandomPropertiesPointsEntry.html">RandomPropertiesPointsEntry</a> <span class="keyword">const</span>* randomProperty = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a0663ae41922720e1d5f53ed43f7423d7">sRandomPropertiesPointsStore</a>.LookupEntry(itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#a21d62ad4a38e5a84305cf783c27c1d39">ItemLevel</a>);</div>
+<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">if</span> (!randomProperty)</div>
+<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> suffixFactor;</div>
+<div class="line"><span class="lineno">  139</span>    <span class="keywordflow">switch</span> (itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#ac47429e999906b62258c7ade930efcbf">InventoryType</a>)</div>
+<div class="line"><span class="lineno">  140</span>    {</div>
+<div class="line"><span class="lineno">  141</span>        <span class="comment">// Items of that type don`t have points</span></div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1acc17c9114149a53a3a62ef132aaa6841">INVTYPE_NON_EQUIP</a>:</div>
+<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aac84cafd4a3fad90aee9685b0afff462">INVTYPE_BAG</a>:</div>
+<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1adca3872318331e2a5f3c95dd80838f5f">INVTYPE_TABARD</a>:</div>
+<div class="line"><span class="lineno">  145</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1acde5d85868749e487a7662f649df11ad">INVTYPE_AMMO</a>:</div>
+<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ad4e21ef0cfa56e691d9d982141a849e4">INVTYPE_QUIVER</a>:</div>
+<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a6df30683d5a0d8a30a617cd902529bf2">INVTYPE_RELIC</a>:</div>
+<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  149</span>        <span class="comment">// Select point coefficient</span></div>
+<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a1d726ab1e91ba4370a91a84e9cfe04b5">INVTYPE_HEAD</a>:</div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a0ad9dd30137bfa28a21e79ce412afc68">INVTYPE_BODY</a>:</div>
+<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1af2b736117eeda9485c06f5f903f6777f">INVTYPE_CHEST</a>:</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ae909d8d958266ae8c919c4b7ed206983">INVTYPE_LEGS</a>:</div>
+<div class="line"><span class="lineno">  154</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aa6021d97341d71ee92c4bdd366c1491d">INVTYPE_2HWEAPON</a>:</div>
+<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a3e22e849ed0cf8a5cc98ac51085281b6">INVTYPE_ROBE</a>:</div>
+<div class="line"><span class="lineno">  156</span>            suffixFactor = 0;</div>
+<div class="line"><span class="lineno">  157</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1abc5cec8592b34966c4806d34be126e57">INVTYPE_SHOULDERS</a>:</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a8db05c002af58440ff80a03d4891743c">INVTYPE_WAIST</a>:</div>
+<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ac564477d61f339db6062c92eb7d8890c">INVTYPE_FEET</a>:</div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1afc3d77b951a4063cd59e22006f7e24ff">INVTYPE_HANDS</a>:</div>
+<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a5e9267552277837eabc99511223700af">INVTYPE_TRINKET</a>:</div>
+<div class="line"><span class="lineno">  163</span>            suffixFactor = 1;</div>
+<div class="line"><span class="lineno">  164</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ab4f525d0d5ac2bd14e13b62a434eae18">INVTYPE_NECK</a>:</div>
+<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a943b1ff4ec6ef38c5d83feff5cd089e7">INVTYPE_WRISTS</a>:</div>
+<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a0fb6a5ac04b5dec28b32c62c84c9b83d">INVTYPE_FINGER</a>:</div>
+<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1ad6601fdb0215631c2b4f647a43b3296b">INVTYPE_SHIELD</a>:</div>
+<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a35ccb0e0d02d4f8adb5ae15f4b4f2351">INVTYPE_CLOAK</a>:</div>
+<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a4fcd05d96b74ed7d7e4c97cb33605e9e">INVTYPE_HOLDABLE</a>:</div>
+<div class="line"><span class="lineno">  171</span>            suffixFactor = 2;</div>
+<div class="line"><span class="lineno">  172</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  173</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a954063f623e72c620604b459c26c4ad3">INVTYPE_WEAPON</a>:</div>
+<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a9d412d648bbc325ddfdb468222f605e1">INVTYPE_WEAPONMAINHAND</a>:</div>
+<div class="line"><span class="lineno">  175</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1aa3df49ccbc9b10700cab1815f60aab62">INVTYPE_WEAPONOFFHAND</a>:</div>
+<div class="line"><span class="lineno">  176</span>            suffixFactor = 3;</div>
+<div class="line"><span class="lineno">  177</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a893eec6f59183350450e3aa76371fbe0">INVTYPE_RANGED</a>:</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a8baed7484de6618b6a471f07ae065e20">INVTYPE_THROWN</a>:</div>
+<div class="line"><span class="lineno">  180</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a93f18d1bdd5ca88c8b1c1269c8460610">INVTYPE_RANGEDRIGHT</a>:</div>
+<div class="line"><span class="lineno">  181</span>            suffixFactor = 4;</div>
+<div class="line"><span class="lineno">  182</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  184</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  185</span>    }</div>
+<div class="line"><span class="lineno">  186</span>    <span class="comment">// Select rare/epic modifier</span></div>
+<div class="line"><span class="lineno">  187</span>    <span class="keywordflow">switch</span> (itemProto-&gt;<a class="code hl_variable" href="../../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a>)</div>
+<div class="line"><span class="lineno">  188</span>    {</div>
+<div class="line"><span class="lineno">  189</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a034177b9460b4065321013cceb4df277">ITEM_QUALITY_UNCOMMON</a>:</div>
+<div class="line"><span class="lineno">  190</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a74acb6861a84d5d193038eaa5ac9b12f">UncommonPropertiesPoints</a>[suffixFactor];</div>
+<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a5bdfb2a35587ab1272d24c8dffcf849d">ITEM_QUALITY_RARE</a>:</div>
+<div class="line"><span class="lineno">  192</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a9359171635ef3e9a0029820fad286368">RarePropertiesPoints</a>[suffixFactor];</div>
+<div class="line"><span class="lineno">  193</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021aff8031480ccc27818d93e34ae1de8723">ITEM_QUALITY_EPIC</a>:</div>
+<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">return</span> randomProperty-&gt;<a class="code hl_variable" href="../../dd/d97/structRandomPropertiesPointsEntry.html#a35dc60a15091357e03032226621340f7">EpicPropertiesPoints</a>[suffixFactor];</div>
+<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a62ca005289b46a8bf1bd633f7440b4a4">ITEM_QUALITY_LEGENDARY</a>:</div>
+<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021af237157bd894c3f26f3f821f28f5f1bf">ITEM_QUALITY_ARTIFACT</a>:</div>
+<div class="line"><span class="lineno">  197</span>            <span class="keywordflow">return</span> 0;                                       <span class="comment">// not have random properties</span></div>
+<div class="line"><span class="lineno">  198</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  199</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  200</span>    }</div>
+<div class="line"><span class="lineno">  201</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  202</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a0663ae41922720e1d5f53ed43f7423d7"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a0663ae41922720e1d5f53ed43f7423d7">sRandomPropertiesPointsStore</a></div><div class="ttdeci">DBCStorage&lt; RandomPropertiesPointsEntry &gt; sRandomPropertiesPointsStore(RandomPropertiesPointsfmt)</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aItemTemplate_8h_html_a2793ea198e8b328078cf49008fa1d5b1a0ad9dd30137bfa28a21e79ce412afc68"><div class="ttname"><a href="../../db/d8b/ItemTemplate_8h.html#a2793ea198e8b328078cf49008fa1d5b1a0ad9dd30137bfa28a21e79ce412afc68">INVTYPE_BODY</a></div><div class="ttdeci">@ INVTYPE_BODY</div><div class="ttdef"><b>Definition</b> ItemTemplate.h:260</div></div>
@@ -343,51 +344,51 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (!entry)</div>
-<div class="line"><span class="lineno">   86</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">if</span> (entry == -1)</div>
-<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    EnchantmentStore::const_iterator tab = <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.find(entry);</div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (tab == <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.end())</div>
-<div class="line"><span class="lineno">   93</span>    {</div>
-<div class="line"><span class="lineno">   94</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Item RandomProperty / RandomSuffix id #{} used in `item_template` but it does not have records in `item_enchantment_template` table.&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   96</span>    }</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordtype">double</span> dRoll = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a66621d09a8cc2aa9476391004fe2c427">rand_chance</a>();</div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordtype">float</span> fCount = 0;</div>
-<div class="line"><span class="lineno">  100</span> </div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">for</span> (EnchStoreList::const_iterator ench_iter = tab-&gt;second.begin(); ench_iter != tab-&gt;second.end(); ++ench_iter)</div>
-<div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        fCount += ench_iter-&gt;chance;</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (fCount &gt; dRoll)</div>
-<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> ench_iter-&gt;ench;</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <span class="comment">//we could get here only if sum of all enchantment chances is lower than 100%</span></div>
-<div class="line"><span class="lineno">  110</span>    dRoll = (<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a6ae07d2bb0593d8339e65c136f63ecc0">irand</a>(0, (<span class="keywordtype">int</span>)std::floor(fCount * 100) + 1)) / 100;</div>
-<div class="line"><span class="lineno">  111</span>    fCount = 0;</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">for</span> (EnchStoreList::const_iterator ench_iter = tab-&gt;second.begin(); ench_iter != tab-&gt;second.end(); ++ench_iter)</div>
-<div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  115</span>        fCount += ench_iter-&gt;chance;</div>
-<div class="line"><span class="lineno">  116</span> </div>
-<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (fCount &gt; dRoll)</div>
-<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">return</span> ench_iter-&gt;ench;</div>
-<div class="line"><span class="lineno">  119</span>    }</div>
-<div class="line"><span class="lineno">  120</span> </div>
-<div class="line"><span class="lineno">  121</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  122</span>}</div>
-<div class="ttc" id="aItemEnchantmentMgr_8cpp_html_a6aeb6f30f019ca8d9839fcf41beb1ac7"><div class="ttname"><a href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a></div><div class="ttdeci">static EnchantmentStore RandomItemEnch</div><div class="ttdef"><b>Definition</b> ItemEnchantmentMgr.cpp:44</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">if</span> (!entry)</div>
+<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (entry == -1)</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>    EnchantmentStore::const_iterator tab = <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.find(entry);</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">if</span> (tab == <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.end())</div>
+<div class="line"><span class="lineno">   94</span>    {</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Item RandomProperty / RandomSuffix id #{} used in `item_template` but it does not have records in `item_enchantment_template` table.&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   97</span>    }</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>    <span class="keywordtype">double</span> dRoll = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a66621d09a8cc2aa9476391004fe2c427">rand_chance</a>();</div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordtype">float</span> fCount = 0;</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">for</span> (EnchStoreList::const_iterator ench_iter = tab-&gt;second.begin(); ench_iter != tab-&gt;second.end(); ++ench_iter)</div>
+<div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        fCount += ench_iter-&gt;chance;</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">if</span> (fCount &gt; dRoll)</div>
+<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">return</span> ench_iter-&gt;ench;</div>
+<div class="line"><span class="lineno">  108</span>    }</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="comment">//we could get here only if sum of all enchantment chances is lower than 100%</span></div>
+<div class="line"><span class="lineno">  111</span>    dRoll = (<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a6ae07d2bb0593d8339e65c136f63ecc0">irand</a>(0, (<span class="keywordtype">int</span>)std::floor(fCount * 100) + 1)) / 100;</div>
+<div class="line"><span class="lineno">  112</span>    fCount = 0;</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">for</span> (EnchStoreList::const_iterator ench_iter = tab-&gt;second.begin(); ench_iter != tab-&gt;second.end(); ++ench_iter)</div>
+<div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        fCount += ench_iter-&gt;chance;</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">if</span> (fCount &gt; dRoll)</div>
+<div class="line"><span class="lineno">  119</span>            <span class="keywordflow">return</span> ench_iter-&gt;ench;</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  123</span>}</div>
+<div class="ttc" id="aItemEnchantmentMgr_8cpp_html_a6aeb6f30f019ca8d9839fcf41beb1ac7"><div class="ttname"><a href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a></div><div class="ttdeci">static EnchantmentStore RandomItemEnch</div><div class="ttdef"><b>Definition</b> ItemEnchantmentMgr.cpp:45</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
 <div class="ttc" id="aRandom_8cpp_html_a66621d09a8cc2aa9476391004fe2c427"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#a66621d09a8cc2aa9476391004fe2c427">rand_chance</a></div><div class="ttdeci">double rand_chance()</div><div class="ttdef"><b>Definition</b> Random.cpp:83</div></div>
 <div class="ttc" id="aRandom_8cpp_html_a6ae07d2bb0593d8339e65c136f63ecc0"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#a6ae07d2bb0593d8339e65c136f63ecc0">irand</a></div><div class="ttdeci">int32 irand(int32 min, int32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:37</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">irand()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00083">rand_chance()</a>, and <a class="el" href="../../#l00044">RandomItemEnch</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00037">irand()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00083">rand_chance()</a>, and <a class="el" href="../../#l00045">RandomItemEnch</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00622">Item::GenerateItemRandomPropertyId()</a>, and <a class="el" href="../../#l02696">ObjectMgr::LoadItemTemplates()</a>.</p>
 
@@ -407,41 +408,41 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.clear();                                 <span class="comment">// for reload case</span></div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <span class="comment">//                                                 0      1      2</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT entry, ench, chance FROM item_enchantment_template&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">if</span> (result)</div>
-<div class="line"><span class="lineno">   56</span>    {</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   58</span> </div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   60</span>        {</div>
-<div class="line"><span class="lineno">   61</span>            <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   64</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ench = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   65</span>            <span class="keywordtype">float</span> chance = fields[2].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>            <span class="keywordflow">if</span> (chance &gt; 0.000001f &amp;&amp; chance &lt;= 100.0f)</div>
-<div class="line"><span class="lineno">   68</span>                <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>[entry].push_back(<a class="code hl_struct" href="../../d2/d5d/structEnchStoreItem.html">EnchStoreItem</a>(ench, chance));</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>            ++count;</div>
-<div class="line"><span class="lineno">   71</span>        } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Item Enchantment Definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   75</span>    }</div>
-<div class="line"><span class="lineno">   76</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   77</span>    {</div>
-<div class="line"><span class="lineno">   78</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 Item Enchantment definitions. DB table `item_enchantment_template` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">   79</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   80</span>    }</div>
-<div class="line"><span class="lineno">   81</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>.clear();                                 <span class="comment">// for reload case</span></div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <span class="comment">//                                                 0      1      2</span></div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT entry, ench, chance FROM item_enchantment_template&quot;</span>);</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">   57</span>    {</div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   61</span>        {</div>
+<div class="line"><span class="lineno">   62</span>            <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   65</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ench = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordtype">float</span> chance = fields[2].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>            <span class="keywordflow">if</span> (chance &gt; 0.000001f &amp;&amp; chance &lt;= 100.0f)</div>
+<div class="line"><span class="lineno">   69</span>                <a class="code hl_variable" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7">RandomItemEnch</a>[entry].push_back(<a class="code hl_struct" href="../../d2/d5d/structEnchStoreItem.html">EnchStoreItem</a>(ench, chance));</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>            ++count;</div>
+<div class="line"><span class="lineno">   72</span>        } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Item Enchantment Definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">   75</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 Item Enchantment definitions. DB table `item_enchantment_template` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">   80</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   81</span>    }</div>
+<div class="line"><span class="lineno">   82</span>}</div>
 <div class="ttc" id="aDatabaseEnvFwd_8h_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition</b> DatabaseEnvFwd.h:27</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:20</div></div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:165</div></div>
@@ -450,9 +451,9 @@ Variables</h2></td></tr>
 <div class="ttc" id="aTimer_8h_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition</b> Timer.h:103</div></div>
 <div class="ttc" id="aclassField_html"><div class="ttname"><a href="../../d7/d24/classField.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition</b> Field.h:98</div></div>
 <div class="ttc" id="aclassField_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition</b> Field.h:112</div></div>
-<div class="ttc" id="astructEnchStoreItem_html"><div class="ttname"><a href="../../d2/d5d/structEnchStoreItem.html">EnchStoreItem</a></div><div class="ttdef"><b>Definition</b> ItemEnchantmentMgr.cpp:30</div></div>
+<div class="ttc" id="astructEnchStoreItem_html"><div class="ttname"><a href="../../d2/d5d/structEnchStoreItem.html">EnchStoreItem</a></div><div class="ttdef"><b>Definition</b> ItemEnchantmentMgr.cpp:31</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l00044">RandomItemEnch</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l00045">RandomItemEnch</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00965">reload_commandscript::HandleReloadItemEnchantementsCommand()</a>, and <a class="el" href="../../#l01267">World::SetInitialWorldSettings()</a>.</p>
 
@@ -479,7 +480,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00083">GetItemEnchantMod()</a>, and <a class="el" href="../../#l00046">LoadRandomEnchantmentsTable()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00084">GetItemEnchantMod()</a>, and <a class="el" href="../../#l00047">LoadRandomEnchantmentsTable()</a>.</p>
 
 </div>
 </div>
@@ -489,7 +490,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_4b91de77c0d3c1b17ed3a22a8949a24f.html">Item</a></li><li class="navelem"><a class="el" href="../../d9/ddc/ItemEnchantmentMgr_8cpp.html">ItemEnchantmentMgr.cpp</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:19:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:18:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

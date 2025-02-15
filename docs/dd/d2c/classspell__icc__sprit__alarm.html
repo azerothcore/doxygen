@@ -314,46 +314,46 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1937</span>    {</div>
-<div class="line"><span class="lineno"> 1938</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno"> 1939</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> trapId = 0;</div>
-<div class="line"><span class="lineno"> 1940</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Effects[effIndex].MiscValue)</div>
-<div class="line"><span class="lineno"> 1941</span>        {</div>
-<div class="line"><span class="lineno"> 1942</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a8284521dd3c95ce68fe2748319344748">EVENT_AWAKEN_WARD_1</a>:</div>
-<div class="line"><span class="lineno"> 1943</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea94901fd7464232d0d19f5b5da93c37b6">GO_SPIRIT_ALARM_1</a>;</div>
-<div class="line"><span class="lineno"> 1944</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1945</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad0deb7e319bfb7894ba617f117b43ed7">EVENT_AWAKEN_WARD_2</a>:</div>
-<div class="line"><span class="lineno"> 1946</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eac974d4f53b05a22303393e5ece8a74a6">GO_SPIRIT_ALARM_2</a>;</div>
-<div class="line"><span class="lineno"> 1947</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1948</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a9a52f6895e2ad11d95220bd480c64636">EVENT_AWAKEN_WARD_3</a>:</div>
-<div class="line"><span class="lineno"> 1949</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eac2f4268171862f2d49feeea9c71ec8ff">GO_SPIRIT_ALARM_3</a>;</div>
-<div class="line"><span class="lineno"> 1950</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1951</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a2ff36eafb6ea24ab319472a96b54763f">EVENT_AWAKEN_WARD_4</a>:</div>
-<div class="line"><span class="lineno"> 1952</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf71a221131a861ffea04df7de0db2cd1">GO_SPIRIT_ALARM_4</a>;</div>
-<div class="line"><span class="lineno"> 1953</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1954</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 1955</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1956</span>        }</div>
-<div class="line"><span class="lineno"> 1957</span> </div>
-<div class="line"><span class="lineno"> 1958</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* trap = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;FindNearestGameObject(trapId, 5.0f))</div>
-<div class="line"><span class="lineno"> 1959</span>        {</div>
-<div class="line"><span class="lineno"> 1960</span>            trap-&gt;SetRespawnTime(trap-&gt;GetGOInfo()-&gt;GetAutoCloseTime() / <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno"> 1961</span>        }</div>
-<div class="line"><span class="lineno"> 1962</span> </div>
-<div class="line"><span class="lineno"> 1963</span>        std::list&lt;Creature*&gt; wards;</div>
-<div class="line"><span class="lineno"> 1964</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(wards, <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afbdd66447e7bc201168d3c2ea76c965b">NPC_DEATHBOUND_WARD</a>, 150.0f);</div>
-<div class="line"><span class="lineno"> 1965</span>        wards.sort(<a class="code hl_class" href="../../df/d25/classAcore_1_1ObjectDistanceOrderPred.html">Acore::ObjectDistanceOrderPred</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()));</div>
-<div class="line"><span class="lineno"> 1966</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::iterator itr = wards.begin(); itr != wards.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 1967</span>        {</div>
-<div class="line"><span class="lineno"> 1968</span>            <span class="keywordflow">if</span> ((*itr)-&gt;IsAlive() &amp;&amp; (*itr)-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a>))</div>
-<div class="line"><span class="lineno"> 1969</span>            {</div>
-<div class="line"><span class="lineno"> 1970</span>                (*itr)-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6062011ee395b340310879028f29ff7d">SAY_TRAP_ACTIVATE</a>);</div>
-<div class="line"><span class="lineno"> 1971</span>                (*itr)-&gt;RemoveAurasDueToSpell(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a>);</div>
-<div class="line"><span class="lineno"> 1972</span>                (*itr)-&gt;AI()-&gt;SetData(1, 1);</div>
-<div class="line"><span class="lineno"> 1973</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1974</span>            }</div>
-<div class="line"><span class="lineno"> 1975</span>        }</div>
-<div class="line"><span class="lineno"> 1976</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1935</span>    {</div>
+<div class="line"><span class="lineno"> 1936</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno"> 1937</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> trapId = 0;</div>
+<div class="line"><span class="lineno"> 1938</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Effects[effIndex].MiscValue)</div>
+<div class="line"><span class="lineno"> 1939</span>        {</div>
+<div class="line"><span class="lineno"> 1940</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a8284521dd3c95ce68fe2748319344748">EVENT_AWAKEN_WARD_1</a>:</div>
+<div class="line"><span class="lineno"> 1941</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea94901fd7464232d0d19f5b5da93c37b6">GO_SPIRIT_ALARM_1</a>;</div>
+<div class="line"><span class="lineno"> 1942</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1943</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad0deb7e319bfb7894ba617f117b43ed7">EVENT_AWAKEN_WARD_2</a>:</div>
+<div class="line"><span class="lineno"> 1944</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eac974d4f53b05a22303393e5ece8a74a6">GO_SPIRIT_ALARM_2</a>;</div>
+<div class="line"><span class="lineno"> 1945</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1946</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a9a52f6895e2ad11d95220bd480c64636">EVENT_AWAKEN_WARD_3</a>:</div>
+<div class="line"><span class="lineno"> 1947</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eac2f4268171862f2d49feeea9c71ec8ff">GO_SPIRIT_ALARM_3</a>;</div>
+<div class="line"><span class="lineno"> 1948</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1949</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a2ff36eafb6ea24ab319472a96b54763f">EVENT_AWAKEN_WARD_4</a>:</div>
+<div class="line"><span class="lineno"> 1950</span>                trapId = <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf71a221131a861ffea04df7de0db2cd1">GO_SPIRIT_ALARM_4</a>;</div>
+<div class="line"><span class="lineno"> 1951</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1952</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 1953</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1954</span>        }</div>
+<div class="line"><span class="lineno"> 1955</span> </div>
+<div class="line"><span class="lineno"> 1956</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* trap = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;FindNearestGameObject(trapId, 5.0f))</div>
+<div class="line"><span class="lineno"> 1957</span>        {</div>
+<div class="line"><span class="lineno"> 1958</span>            trap-&gt;SetRespawnTime(trap-&gt;GetGOInfo()-&gt;GetAutoCloseTime() / <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno"> 1959</span>        }</div>
+<div class="line"><span class="lineno"> 1960</span> </div>
+<div class="line"><span class="lineno"> 1961</span>        std::list&lt;Creature*&gt; wards;</div>
+<div class="line"><span class="lineno"> 1962</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(wards, <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afbdd66447e7bc201168d3c2ea76c965b">NPC_DEATHBOUND_WARD</a>, 150.0f);</div>
+<div class="line"><span class="lineno"> 1963</span>        wards.sort(<a class="code hl_class" href="../../df/d25/classAcore_1_1ObjectDistanceOrderPred.html">Acore::ObjectDistanceOrderPred</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()));</div>
+<div class="line"><span class="lineno"> 1964</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::iterator itr = wards.begin(); itr != wards.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1965</span>        {</div>
+<div class="line"><span class="lineno"> 1966</span>            <span class="keywordflow">if</span> ((*itr)-&gt;IsAlive() &amp;&amp; (*itr)-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a>))</div>
+<div class="line"><span class="lineno"> 1967</span>            {</div>
+<div class="line"><span class="lineno"> 1968</span>                (*itr)-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6062011ee395b340310879028f29ff7d">SAY_TRAP_ACTIVATE</a>);</div>
+<div class="line"><span class="lineno"> 1969</span>                (*itr)-&gt;RemoveAurasDueToSpell(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a>);</div>
+<div class="line"><span class="lineno"> 1970</span>                (*itr)-&gt;AI()-&gt;SetData(1, 1);</div>
+<div class="line"><span class="lineno"> 1971</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1972</span>            }</div>
+<div class="line"><span class="lineno"> 1973</span>        }</div>
+<div class="line"><span class="lineno"> 1974</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassAcore_1_1ObjectDistanceOrderPred_html"><div class="ttname"><a href="../../df/d25/classAcore_1_1ObjectDistanceOrderPred.html">Acore::ObjectDistanceOrderPred</a></div><div class="ttdef"><b>Definition</b> Object.h:696</div></div>
@@ -376,7 +376,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00274">EVENT_AWAKEN_WARD_1</a>, <a class="el" href="../../#l00275">EVENT_AWAKEN_WARD_2</a>, <a class="el" href="../../#l00276">EVENT_AWAKEN_WARD_3</a>, <a class="el" href="../../#l00277">EVENT_AWAKEN_WARD_4</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l02513">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00379">GO_SPIRIT_ALARM_1</a>, <a class="el" href="../../#l00380">GO_SPIRIT_ALARM_2</a>, <a class="el" href="../../#l00381">GO_SPIRIT_ALARM_3</a>, <a class="el" href="../../#l00382">GO_SPIRIT_ALARM_4</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00175">NPC_DEATHBOUND_WARD</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, <a class="el" href="../../#l00067">SAY_TRAP_ACTIVATE</a>, and <a class="el" href="../../#l00051">SPELL_STONEFORM</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01978">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01976">Register()</a>.</p>
 
 </div>
 </div>
@@ -430,16 +430,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1979</span>    {</div>
-<div class="line"><span class="lineno"> 1980</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dd/d2c/classspell__icc__sprit__alarm.html#a7aea0f5c4cd3765a8266e5478322910b">spell_icc_sprit_alarm::HandleEvent</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a8715eb5a36de38e3caa81115dfb9e2db">SPELL_EFFECT_SEND_EVENT</a>);</div>
-<div class="line"><span class="lineno"> 1981</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1977</span>    {</div>
+<div class="line"><span class="lineno"> 1978</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dd/d2c/classspell__icc__sprit__alarm.html#a7aea0f5c4cd3765a8266e5478322910b">spell_icc_sprit_alarm::HandleEvent</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a8715eb5a36de38e3caa81115dfb9e2db">SPELL_EFFECT_SEND_EVENT</a>);</div>
+<div class="line"><span class="lineno"> 1979</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a8715eb5a36de38e3caa81115dfb9e2db"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a8715eb5a36de38e3caa81115dfb9e2db">SPELL_EFFECT_SEND_EVENT</a></div><div class="ttdeci">@ SPELL_EFFECT_SEND_EVENT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:839</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a55b352390f66a1d2314566de232343f9"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">SpellScript::OnEffectHit</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:335</div></div>
-<div class="ttc" id="aclassspell__icc__sprit__alarm_html_a7aea0f5c4cd3765a8266e5478322910b"><div class="ttname"><a href="../../dd/d2c/classspell__icc__sprit__alarm.html#a7aea0f5c4cd3765a8266e5478322910b">spell_icc_sprit_alarm::HandleEvent</a></div><div class="ttdeci">void HandleEvent(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> icecrown_citadel.cpp:1936</div></div>
+<div class="ttc" id="aclassspell__icc__sprit__alarm_html_a7aea0f5c4cd3765a8266e5478322910b"><div class="ttname"><a href="../../dd/d2c/classspell__icc__sprit__alarm.html#a7aea0f5c4cd3765a8266e5478322910b">spell_icc_sprit_alarm::HandleEvent</a></div><div class="ttdeci">void HandleEvent(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> icecrown_citadel.cpp:1934</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l01936">HandleEvent()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00839">SPELL_EFFECT_SEND_EVENT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l01934">HandleEvent()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00839">SPELL_EFFECT_SEND_EVENT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -468,9 +468,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1932</span>    {</div>
-<div class="line"><span class="lineno"> 1933</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a> });</div>
-<div class="line"><span class="lineno"> 1934</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1930</span>    {</div>
+<div class="line"><span class="lineno"> 1931</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7">SPELL_STONEFORM</a> });</div>
+<div class="line"><span class="lineno"> 1932</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00051">SPELL_STONEFORM</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -486,7 +486,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d2c/classspell__icc__sprit__alarm.html">spell_icc_sprit_alarm</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:19:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

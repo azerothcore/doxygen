@@ -126,6 +126,7 @@ $(document).ready(function(){initNavTree('d9/dca/firework__show_8cpp.html','../.
 <code>#include &quot;<a class="el" href="../../">firework_show_Undercity.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -159,12 +160,12 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  211</span>{</div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">// Gameobjects</span></div>
-<div class="line"><span class="lineno">  213</span>    <a class="code hl_define" href="../../d2/d31/GameObjectScript_8h.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../dd/d5e/structgo__firework__show.html">go_firework_show</a>);</div>
-<div class="line"><span class="lineno">  214</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
+<div class="line"><span class="lineno">  213</span>    <span class="comment">// Gameobjects</span></div>
+<div class="line"><span class="lineno">  214</span>    <a class="code hl_define" href="../../d2/d31/GameObjectScript_8h.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../dd/d5e/structgo__firework__show.html">go_firework_show</a>);</div>
+<div class="line"><span class="lineno">  215</span>}</div>
 <div class="ttc" id="aGameObjectScript_8h_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../d2/d31/GameObjectScript_8h.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition</b> GameObjectScript.h:77</div></div>
-<div class="ttc" id="astructgo__firework__show_html"><div class="ttname"><a href="../../dd/d5e/structgo__firework__show.html">go_firework_show</a></div><div class="ttdef"><b>Definition</b> firework_show.cpp:47</div></div>
+<div class="ttc" id="astructgo__firework__show_html"><div class="ttname"><a href="../../dd/d5e/structgo__firework__show.html">go_firework_show</a></div><div class="ttdef"><b>Definition</b> firework_show.cpp:48</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00077">RegisterGameObjectAI</a>.</p>
 
@@ -206,20 +207,20 @@ Variables</h2></td></tr>
 <div class="ttc" id="afirework__show__Teldrassil_8h_html_a8999f3fc85a14b073f5037adea6f7496"><div class="ttname"><a href="../../df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496">fireworkShowTeldrassil</a></div><div class="ttdeci">FireworkShow const fireworkShowTeldrassil</div><div class="ttdef"><b>Definition</b> firework_show_Teldrassil.h:1306</div></div>
 <div class="ttc" id="afirework__show__ThunderBluff_8h_html_ae9cf9fa234ec7db55622bede66c21f78"><div class="ttname"><a href="../../dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78">fireworkShowThunderBluff</a></div><div class="ttdeci">FireworkShow const fireworkShowThunderBluff</div><div class="ttdef"><b>Definition</b> firework_show_ThunderBluff.h:1562</div></div>
 <div class="ttc" id="afirework__show__Undercity_8h_html_afd61e001f4ea31858964426d56d2b3cf"><div class="ttname"><a href="../../d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a></div><div class="ttdeci">FireworkShow const fireworkShowUndercity</div><div class="ttdef"><b>Definition</b> firework_show_Undercity.h:1263</div></div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   33</span>                                                                                {</div>
-<div class="line"><span class="lineno">   34</span>    { { 0,   1    }, &amp;<a class="code hl_variable" href="../../d4/d25/firework__show__Ironforge_8h.html#aac2063b01976ab49960c5cde832a70dc">fireworkShowIronforge</a>    },</div>
-<div class="line"><span class="lineno">   35</span>    { { 0,   33   }, &amp;<a class="code hl_variable" href="../../d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99">fireworkShowBootyBay</a>     },</div>
-<div class="line"><span class="lineno">   36</span>    { { 0,   1497 }, &amp;<a class="code hl_variable" href="../../d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a>    },</div>
-<div class="line"><span class="lineno">   37</span>    { { 0,   1519 }, &amp;<a class="code hl_variable" href="../../d8/d64/firework__show__Stormwind_8h.html#a378278257abadcd4369abd66f412d8e6">fireworkShowStormwind</a>    },</div>
-<div class="line"><span class="lineno">   38</span>    { { 1,   141  }, &amp;<a class="code hl_variable" href="../../df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496">fireworkShowTeldrassil</a>   },</div>
-<div class="line"><span class="lineno">   39</span>    { { 1,   1637 }, &amp;<a class="code hl_variable" href="../../d1/de6/firework__show__Orgrimmar_8h.html#a20e15c8e61c734af478a4849bd54c9d3">fireworkShowOrgrimmar</a>    },</div>
-<div class="line"><span class="lineno">   40</span>    { { 1,   1638 }, &amp;<a class="code hl_variable" href="../../dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78">fireworkShowThunderBluff</a> },</div>
-<div class="line"><span class="lineno">   41</span>    { { 530, 3430 }, &amp;<a class="code hl_variable" href="../../d3/df7/firework__show__Silvermoon_8h.html#accc2d205eed4478e8e14ed4d88aeeb02">fireworkShowSilvermoon</a>   },</div>
-<div class="line"><span class="lineno">   42</span>    { { 530, 3557 }, &amp;<a class="code hl_variable" href="../../db/d96/firework__show__Exodar_8h.html#a62ccee24b6a90b61a19256b66e97c1dd">fireworkShowExodar</a>       },</div>
-<div class="line"><span class="lineno">   43</span>    { { 530, 3703 }, &amp;<a class="code hl_variable" href="../../d2/dc6/firework__show__Shattrath_8h.html#a5fcd036e2fe28c58f38d59d0ade0e4ed">fireworkShowShattrath</a>    },</div>
-<div class="line"><span class="lineno">   44</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   34</span>                                                                                {</div>
+<div class="line"><span class="lineno">   35</span>    { { 0,   1    }, &amp;<a class="code hl_variable" href="../../d4/d25/firework__show__Ironforge_8h.html#aac2063b01976ab49960c5cde832a70dc">fireworkShowIronforge</a>    },</div>
+<div class="line"><span class="lineno">   36</span>    { { 0,   33   }, &amp;<a class="code hl_variable" href="../../d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99">fireworkShowBootyBay</a>     },</div>
+<div class="line"><span class="lineno">   37</span>    { { 0,   1497 }, &amp;<a class="code hl_variable" href="../../d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a>    },</div>
+<div class="line"><span class="lineno">   38</span>    { { 0,   1519 }, &amp;<a class="code hl_variable" href="../../d8/d64/firework__show__Stormwind_8h.html#a378278257abadcd4369abd66f412d8e6">fireworkShowStormwind</a>    },</div>
+<div class="line"><span class="lineno">   39</span>    { { 1,   141  }, &amp;<a class="code hl_variable" href="../../df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496">fireworkShowTeldrassil</a>   },</div>
+<div class="line"><span class="lineno">   40</span>    { { 1,   1637 }, &amp;<a class="code hl_variable" href="../../d1/de6/firework__show__Orgrimmar_8h.html#a20e15c8e61c734af478a4849bd54c9d3">fireworkShowOrgrimmar</a>    },</div>
+<div class="line"><span class="lineno">   41</span>    { { 1,   1638 }, &amp;<a class="code hl_variable" href="../../dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78">fireworkShowThunderBluff</a> },</div>
+<div class="line"><span class="lineno">   42</span>    { { 530, 3430 }, &amp;<a class="code hl_variable" href="../../d3/df7/firework__show__Silvermoon_8h.html#accc2d205eed4478e8e14ed4d88aeeb02">fireworkShowSilvermoon</a>   },</div>
+<div class="line"><span class="lineno">   43</span>    { { 530, 3557 }, &amp;<a class="code hl_variable" href="../../db/d96/firework__show__Exodar_8h.html#a62ccee24b6a90b61a19256b66e97c1dd">fireworkShowExodar</a>       },</div>
+<div class="line"><span class="lineno">   44</span>    { { 530, 3703 }, &amp;<a class="code hl_variable" href="../../d2/dc6/firework__show__Shattrath_8h.html#a5fcd036e2fe28c58f38d59d0ade0e4ed">fireworkShowShattrath</a>    },</div>
+<div class="line"><span class="lineno">   45</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00057">go_firework_show::InitShow()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">go_firework_show::InitShow()</a>.</p>
 
 </div>
 </div>
@@ -229,7 +230,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../dir_86b42cc1a54e6d04672764bc481d77b5.html">firework_show</a></li><li class="navelem"><a class="el" href="../../d9/dca/firework__show_8cpp.html">firework_show.cpp</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:19:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:18:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

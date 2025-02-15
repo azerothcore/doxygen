@@ -9,7 +9,7 @@ var searchData=
   ['instantiate_5fclass_5fmutex_6',['INSTANTIATE_CLASS_MUTEX',['../d9/d36/ThreadingModel_8h.html#a517f069300d9fa1587cf281664c72a75',1,'ThreadingModel.h']]],
   ['interaction_5fdistance_7',['INTERACTION_DISTANCE',['../df/d14/ObjectDefines_8h.html#a54eb9ac4fb3942c956544c22e84743d4',1,'ObjectDefines.h']]],
   ['intro_5fmovement_5finterval_8',['INTRO_MOVEMENT_INTERVAL',['../db/d95/eye__of__eternity_8h.html#a914791b23da531680a3fa365d19e7919',1,'eye_of_eternity.h']]],
-  ['invalid_5fheight_9',['INVALID_HEIGHT',['../df/d79/Map_8h.html#ac08ed03fa837b2e3d2624e0123f0897b',1,'Map.h']]],
+  ['invalid_5fheight_9',['INVALID_HEIGHT',['../db/dab/GridTerrainData_8h.html#ac08ed03fa837b2e3d2624e0123f0897b',1,'GridTerrainData.h']]],
   ['invalid_5fpolyref_10',['INVALID_POLYREF',['../d8/dbf/PathGenerator_8h.html#a6ed37c24cf4f8cd0008c13f111e01092',1,'PathGenerator.h']]],
   ['inventory_5fslot_5fbag_5f0_11',['INVENTORY_SLOT_BAG_0',['../da/dbf/Player_8h.html#ad3dd8ed856e16139eaa67147d40cf24e',1,'Player.h']]],
   ['iocontextbase_12',['IoContextBase',['../d7/d06/IoContext_8h.html#a0ec391e3d78f246934f76abd937aecd8',1,'IoContext.h']]],

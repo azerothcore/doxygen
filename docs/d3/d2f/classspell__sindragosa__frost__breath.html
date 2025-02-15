@@ -313,28 +313,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1779</span>    {</div>
-<div class="line"><span class="lineno"> 1780</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>();</div>
-<div class="line"><span class="lineno"> 1781</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno"> 1782</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1783</span> </div>
-<div class="line"><span class="lineno"> 1784</span>        <span class="comment">// Check difficulty and quest status</span></div>
-<div class="line"><span class="lineno"> 1785</span>        <span class="keywordflow">if</span> (!(target-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da">GetRaidDifficulty</a>() &amp; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a93eb25c516fdcc8f078bdd3d6cc8dffd">RAID_DIFFICULTY_MASK_25MAN</a>) || target-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34">QUEST_FROST_INFUSION</a>) != <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno"> 1786</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1787</span> </div>
-<div class="line"><span class="lineno"> 1788</span>        <span class="comment">// Check if player has Shadow&#39;s Edge equipped and not ready for infusion</span></div>
-<div class="line"><span class="lineno"> 1789</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f">SPELL_UNSATED_CRAVING</a>) || target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>))</div>
-<div class="line"><span class="lineno"> 1790</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1791</span> </div>
-<div class="line"><span class="lineno"> 1792</span>        <a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* infusion = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a>, target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1793</span>        <span class="keywordflow">if</span> (infusion &amp;&amp; infusion-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6">GetStackAmount</a>() &gt;= 3)</div>
-<div class="line"><span class="lineno"> 1794</span>        {</div>
-<div class="line"><span class="lineno"> 1795</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(infusion);</div>
-<div class="line"><span class="lineno"> 1796</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
-<div class="line"><span class="lineno"> 1797</span>        }</div>
-<div class="line"><span class="lineno"> 1798</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1799</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
-<div class="line"><span class="lineno"> 1800</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1778</span>    {</div>
+<div class="line"><span class="lineno"> 1779</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>();</div>
+<div class="line"><span class="lineno"> 1780</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno"> 1781</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1782</span> </div>
+<div class="line"><span class="lineno"> 1783</span>        <span class="comment">// Check difficulty and quest status</span></div>
+<div class="line"><span class="lineno"> 1784</span>        <span class="keywordflow">if</span> (!(target-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da">GetRaidDifficulty</a>() &amp; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a93eb25c516fdcc8f078bdd3d6cc8dffd">RAID_DIFFICULTY_MASK_25MAN</a>) || target-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34">QUEST_FROST_INFUSION</a>) != <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno"> 1785</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1786</span> </div>
+<div class="line"><span class="lineno"> 1787</span>        <span class="comment">// Check if player has Shadow&#39;s Edge equipped and not ready for infusion</span></div>
+<div class="line"><span class="lineno"> 1788</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f">SPELL_UNSATED_CRAVING</a>) || target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>))</div>
+<div class="line"><span class="lineno"> 1789</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1790</span> </div>
+<div class="line"><span class="lineno"> 1791</span>        <a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* infusion = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a>, target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1792</span>        <span class="keywordflow">if</span> (infusion &amp;&amp; infusion-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6">GetStackAmount</a>() &gt;= 3)</div>
+<div class="line"><span class="lineno"> 1793</span>        {</div>
+<div class="line"><span class="lineno"> 1794</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(infusion);</div>
+<div class="line"><span class="lineno"> 1795</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
+<div class="line"><span class="lineno"> 1796</span>        }</div>
+<div class="line"><span class="lineno"> 1797</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1798</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
+<div class="line"><span class="lineno"> 1799</span>    }</div>
 <div class="ttc" id="aDBCEnums_8h_html_a93eb25c516fdcc8f078bdd3d6cc8dffd"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a93eb25c516fdcc8f078bdd3d6cc8dffd">RAID_DIFFICULTY_MASK_25MAN</a></div><div class="ttdeci">#define RAID_DIFFICULTY_MASK_25MAN</div><div class="ttdef"><b>Definition</b> DBCEnums.h:279</div></div>
 <div class="ttc" id="aQuestDef_8h_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition</b> QuestDef.h:103</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_MASK</div><div class="ttdoc">Will return SPELL_FAILED_DONT_REPORT in CheckCast functions.</div><div class="ttdef"><b>Definition</b> SpellDefines.h:150</div></div>
@@ -356,7 +356,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l05612">Unit::GetAura()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00471">SpellScript::GetHitPlayer()</a>, <a class="el" href="../../#l01430">Player::GetQuestStatus()</a>, <a class="el" href="../../#l01929">Player::GetRaidDifficulty()</a>, <a class="el" href="../../#l00148">Aura::GetStackAmount()</a>, <a class="el" href="../../#l05752">Unit::HasAura()</a>, <a class="el" href="../../#l00098">QUEST_FROST_INFUSION</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l00279">RAID_DIFFICULTY_MASK_25MAN</a>, <a class="el" href="../../#l04807">Unit::RemoveAura()</a>, <a class="el" href="../../#l00100">SPELL_FROST_IMBUED_BLADE</a>, <a class="el" href="../../#l00101">SPELL_FROST_INFUSION</a>, <a class="el" href="../../#l00062">SPELL_UNSATED_CRAVING</a>, and <a class="el" href="../../#l00150">TRIGGERED_FULL_MASK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01802">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01801">Register()</a>.</p>
 
 </div>
 </div>
@@ -410,14 +410,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1803</span>    {</div>
-<div class="line"><span class="lineno"> 1804</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66">spell_sindragosa_frost_breath::HandleInfusion</a>);</div>
-<div class="line"><span class="lineno"> 1805</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1802</span>    {</div>
+<div class="line"><span class="lineno"> 1803</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66">spell_sindragosa_frost_breath::HandleInfusion</a>);</div>
+<div class="line"><span class="lineno"> 1804</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3362c737af695ae44f841bf3c94003af"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">SpellScript::AfterHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; AfterHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:347</div></div>
-<div class="ttc" id="aclassspell__sindragosa__frost__breath_html_a9f77330d81fef646dd5d5399800cba66"><div class="ttname"><a href="../../d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66">spell_sindragosa_frost_breath::HandleInfusion</a></div><div class="ttdeci">void HandleInfusion()</div><div class="ttdef"><b>Definition</b> boss_sindragosa.cpp:1778</div></div>
+<div class="ttc" id="aclassspell__sindragosa__frost__breath_html_a9f77330d81fef646dd5d5399800cba66"><div class="ttname"><a href="../../d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66">spell_sindragosa_frost_breath::HandleInfusion</a></div><div class="ttdeci">void HandleInfusion()</div><div class="ttdef"><b>Definition</b> boss_sindragosa.cpp:1777</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l01778">HandleInfusion()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l01777">HandleInfusion()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -446,9 +446,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1774</span>    {</div>
-<div class="line"><span class="lineno"> 1775</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f">SPELL_UNSATED_CRAVING</a>, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a> });</div>
-<div class="line"><span class="lineno"> 1776</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1773</span>    {</div>
+<div class="line"><span class="lineno"> 1774</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f">SPELL_UNSATED_CRAVING</a>, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9">SPELL_FROST_IMBUED_BLADE</a>, <a class="code hl_enumvalue" href="../../de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384">SPELL_FROST_INFUSION</a> });</div>
+<div class="line"><span class="lineno"> 1775</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00100">SPELL_FROST_IMBUED_BLADE</a>, <a class="el" href="../../#l00101">SPELL_FROST_INFUSION</a>, <a class="el" href="../../#l00062">SPELL_UNSATED_CRAVING</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -464,7 +464,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d2f/classspell__sindragosa__frost__breath.html">spell_sindragosa_frost_breath</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:19:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

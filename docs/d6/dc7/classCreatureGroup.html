@@ -259,19 +259,19 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  170</span>{</div>
-<div class="line"><span class="lineno">  171</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;CreatureGroup::AddMember: Adding unit {}.&quot;</span>, member-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>    <span class="comment">//Check if it is a leader</span></div>
-<div class="line"><span class="lineno">  174</span>    <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>() == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">m_groupID</a>)</div>
-<div class="line"><span class="lineno">  175</span>    {</div>
-<div class="line"><span class="lineno">  176</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Unit {} is formation leader. Adding group.&quot;</span>, member-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  177</span>        <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> = member;</div>
-<div class="line"><span class="lineno">  178</span>    }</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>[member] = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap.find(member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>())-&gt;second;</div>
-<div class="line"><span class="lineno">  181</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  182</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;CreatureGroup::AddMember: Adding unit {}.&quot;</span>, member-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    <span class="comment">//Check if it is a leader</span></div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>() == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">m_groupID</a>)</div>
+<div class="line"><span class="lineno">  176</span>    {</div>
+<div class="line"><span class="lineno">  177</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Unit {} is formation leader. Adding group.&quot;</span>, member-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  178</span>        <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> = member;</div>
+<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>[member] = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap.find(member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>())-&gt;second;</div>
+<div class="line"><span class="lineno">  182</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  183</span>}</div>
 <div class="ttc" id="aCreatureGroups_8h_html_ae80a51404625cee821a8727ed7369352"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a></div><div class="ttdeci">#define sFormationMgr</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:127</div></div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:169</div></div>
 <div class="ttc" id="aclassCreatureGroup_html_a63805a04ef3ef80270ae7e7d03014d83"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">CreatureGroup::m_members</a></div><div class="ttdeci">CreatureGroupMemberType m_members</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:121</div></div>
@@ -282,7 +282,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00065">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00123">m_groupID</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00359">Creature::SetFormation()</a>, <a class="el" href="../../#l00127">sFormationMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00037">FormationMgr::AddCreatureToGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">FormationMgr::AddCreatureToGroup()</a>.</p>
 
 </div>
 </div>
@@ -311,28 +311,28 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  323</span>{</div>
-<div class="line"><span class="lineno">  324</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.size() &amp;&amp; !(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.begin()-&gt;second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a>))))</div>
-<div class="line"><span class="lineno">  325</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  326</span> </div>
-<div class="line"><span class="lineno">  327</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  328</span>    {</div>
-<div class="line"><span class="lineno">  329</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* member = itr.first;</div>
-<div class="line"><span class="lineno">  330</span>        <span class="keywordflow">if</span> (member &amp;&amp; member != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  331</span>        {</div>
-<div class="line"><span class="lineno">  332</span>            <span class="keywordflow">if</span> (initMotionMaster)</div>
-<div class="line"><span class="lineno">  333</span>            {</div>
-<div class="line"><span class="lineno">  334</span>                <span class="keywordflow">if</span> (dismiss)</div>
-<div class="line"><span class="lineno">  335</span>                    member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820">Initialize</a>();</div>
-<div class="line"><span class="lineno">  336</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  337</span>                    member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
-<div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Set {} movement for member {}&quot;</span>, dismiss ? <span class="stringliteral">&quot;default&quot;</span> : <span class="stringliteral">&quot;idle&quot;</span>, member-&gt;GetGUID().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>());</div>
-<div class="line"><span class="lineno">  340</span>            }</div>
-<div class="line"><span class="lineno">  341</span>        }</div>
-<div class="line"><span class="lineno">  342</span>    }</div>
-<div class="line"><span class="lineno">  343</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">m_Formed</a> = !dismiss;</div>
-<div class="line"><span class="lineno">  344</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  324</span>{</div>
+<div class="line"><span class="lineno">  325</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.size() &amp;&amp; !(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.begin()-&gt;second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a>))))</div>
+<div class="line"><span class="lineno">  326</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  327</span> </div>
+<div class="line"><span class="lineno">  328</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  329</span>    {</div>
+<div class="line"><span class="lineno">  330</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* member = itr.first;</div>
+<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">if</span> (member &amp;&amp; member != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  332</span>        {</div>
+<div class="line"><span class="lineno">  333</span>            <span class="keywordflow">if</span> (initMotionMaster)</div>
+<div class="line"><span class="lineno">  334</span>            {</div>
+<div class="line"><span class="lineno">  335</span>                <span class="keywordflow">if</span> (dismiss)</div>
+<div class="line"><span class="lineno">  336</span>                    member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820">Initialize</a>();</div>
+<div class="line"><span class="lineno">  337</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  338</span>                    member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
+<div class="line"><span class="lineno">  339</span> </div>
+<div class="line"><span class="lineno">  340</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Set {} movement for member {}&quot;</span>, dismiss ? <span class="stringliteral">&quot;default&quot;</span> : <span class="stringliteral">&quot;idle&quot;</span>, member-&gt;GetGUID().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>());</div>
+<div class="line"><span class="lineno">  341</span>            }</div>
+<div class="line"><span class="lineno">  342</span>        }</div>
+<div class="line"><span class="lineno">  343</span>    }</div>
+<div class="line"><span class="lineno">  344</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">m_Formed</a> = !dismiss;</div>
+<div class="line"><span class="lineno">  345</span>}</div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_FOLLOW_LEADER</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassMotionMaster_html_a06d5cf35eac7d31217b2266951d60820"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820">MotionMaster::Initialize</a></div><div class="ttdeci">void Initialize()</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:73</div></div>
@@ -373,7 +373,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00123">m_groupID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01215">npc_commandscript::HandleNpcAddFormationCommand()</a>, and <a class="el" href="../../#l00063">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01215">npc_commandscript::HandleNpcAddFormationCommand()</a>, and <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
 </div>
 </div>
@@ -450,51 +450,51 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
-<div class="line"><span class="lineno">  237</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GroupAIFlags::GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a>)))</div>
-<div class="line"><span class="lineno">  239</span>    {</div>
-<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  241</span>    }</div>
-<div class="line"><span class="lineno">  242</span> </div>
-<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  244</span>    {</div>
-<div class="line"><span class="lineno">  245</span>        <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
-<div class="line"><span class="lineno">  246</span>        {</div>
-<div class="line"><span class="lineno">  247</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  248</span>        }</div>
-<div class="line"><span class="lineno">  249</span>    }</div>
-<div class="line"><span class="lineno">  250</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
-<div class="line"><span class="lineno">  251</span>    {</div>
-<div class="line"><span class="lineno">  252</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  253</span>    }</div>
-<div class="line"><span class="lineno">  254</span> </div>
-<div class="line"><span class="lineno">  255</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  256</span>    {</div>
-<div class="line"><span class="lineno">  257</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
-<div class="line"><span class="lineno">  258</span>        <span class="keywordflow">if</span> (!pMember)</div>
-<div class="line"><span class="lineno">  259</span>        {</div>
-<div class="line"><span class="lineno">  260</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  261</span>        }</div>
-<div class="line"><span class="lineno">  262</span> </div>
-<div class="line"><span class="lineno">  263</span>        <span class="keywordflow">if</span> (pMember == member || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  264</span>        {</div>
-<div class="line"><span class="lineno">  265</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  266</span>        }</div>
-<div class="line"><span class="lineno">  267</span> </div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">if</span> (pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; !(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
-<div class="line"><span class="lineno">  269</span>        {</div>
-<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  271</span>        }</div>
-<div class="line"><span class="lineno">  272</span> </div>
-<div class="line"><span class="lineno">  273</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()))</div>
-<div class="line"><span class="lineno">  274</span>        {</div>
-<div class="line"><span class="lineno">  275</span>            <span class="keywordflow">return</span> pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
-<div class="line"><span class="lineno">  276</span>        }</div>
-<div class="line"><span class="lineno">  277</span>    }</div>
-<div class="line"><span class="lineno">  278</span> </div>
-<div class="line"><span class="lineno">  279</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  280</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
+<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GroupAIFlags::GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a>)))</div>
+<div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  242</span>    }</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>    <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  245</span>    {</div>
+<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
+<div class="line"><span class="lineno">  247</span>        {</div>
+<div class="line"><span class="lineno">  248</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  249</span>        }</div>
+<div class="line"><span class="lineno">  250</span>    }</div>
+<div class="line"><span class="lineno">  251</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
+<div class="line"><span class="lineno">  252</span>    {</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  254</span>    }</div>
+<div class="line"><span class="lineno">  255</span> </div>
+<div class="line"><span class="lineno">  256</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  257</span>    {</div>
+<div class="line"><span class="lineno">  258</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
+<div class="line"><span class="lineno">  259</span>        <span class="keywordflow">if</span> (!pMember)</div>
+<div class="line"><span class="lineno">  260</span>        {</div>
+<div class="line"><span class="lineno">  261</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  262</span>        }</div>
+<div class="line"><span class="lineno">  263</span> </div>
+<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">if</span> (pMember == member || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  265</span>        {</div>
+<div class="line"><span class="lineno">  266</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  267</span>        }</div>
+<div class="line"><span class="lineno">  268</span> </div>
+<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">if</span> (pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; !(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
+<div class="line"><span class="lineno">  270</span>        {</div>
+<div class="line"><span class="lineno">  271</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  272</span>        }</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()))</div>
+<div class="line"><span class="lineno">  275</span>        {</div>
+<div class="line"><span class="lineno">  276</span>            <span class="keywordflow">return</span> pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
+<div class="line"><span class="lineno">  277</span>        }</div>
+<div class="line"><span class="lineno">  278</span>    }</div>
+<div class="line"><span class="lineno">  279</span> </div>
+<div class="line"><span class="lineno">  280</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  281</span>}</div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GroupAIFlags::GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a></div><div class="ttdeci">@ GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</div></div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</div></div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</div></div>
@@ -521,20 +521,20 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
-<div class="line"><span class="lineno">  444</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  445</span>    {</div>
-<div class="line"><span class="lineno">  446</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  447</span>        {</div>
-<div class="line"><span class="lineno">  448</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  449</span>            {</div>
-<div class="line"><span class="lineno">  450</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  451</span>            }</div>
-<div class="line"><span class="lineno">  452</span>        }</div>
-<div class="line"><span class="lineno">  453</span>    }</div>
-<div class="line"><span class="lineno">  454</span> </div>
-<div class="line"><span class="lineno">  455</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  456</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>{</div>
+<div class="line"><span class="lineno">  445</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  446</span>    {</div>
+<div class="line"><span class="lineno">  447</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  448</span>        {</div>
+<div class="line"><span class="lineno">  449</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  450</span>            {</div>
+<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  452</span>            }</div>
+<div class="line"><span class="lineno">  453</span>        }</div>
+<div class="line"><span class="lineno">  454</span>    }</div>
+<div class="line"><span class="lineno">  455</span> </div>
+<div class="line"><span class="lineno">  456</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  457</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00120">m_leader</a>, and <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -566,7 +566,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
 </div>
 </div>
@@ -584,17 +584,17 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  430</span>{</div>
-<div class="line"><span class="lineno">  431</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  432</span>    {</div>
-<div class="line"><span class="lineno">  433</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
-<div class="line"><span class="lineno">  434</span>        {</div>
-<div class="line"><span class="lineno">  435</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  436</span>        }</div>
-<div class="line"><span class="lineno">  437</span>    }</div>
-<div class="line"><span class="lineno">  438</span> </div>
-<div class="line"><span class="lineno">  439</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  440</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  431</span>{</div>
+<div class="line"><span class="lineno">  432</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  433</span>    {</div>
+<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
+<div class="line"><span class="lineno">  435</span>        {</div>
+<div class="line"><span class="lineno">  436</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  437</span>        }</div>
+<div class="line"><span class="lineno">  438</span>    }</div>
+<div class="line"><span class="lineno">  439</span> </div>
+<div class="line"><span class="lineno">  440</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  441</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -668,74 +668,74 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>To do: This should probably get its own movement generator or use <a class="el" href="../../de/d87/classWaypointMovementGenerator.html">WaypointMovementGenerator</a>. If the leader's path is known, member's path can be plotted as well using formation offsets.</p>
-<div class="fragment"><div class="line"><span class="lineno">  347</span>{</div>
-<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  351</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  352</span> </div>
-<div class="line"><span class="lineno">  353</span>    <span class="keywordtype">float</span> pathDist = <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(x, y, z);</div>
-<div class="line"><span class="lineno">  354</span>    <span class="keywordtype">float</span> pathAngle = std::atan2(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() - y, <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() - x);</div>
-<div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  357</span>    {</div>
-<div class="line"><span class="lineno">  358</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* member = itr.first;</div>
-<div class="line"><span class="lineno">  359</span>        <a class="code hl_struct" href="../../d1/dc4/structFormationInfo.html">FormationInfo</a> <span class="keyword">const</span>&amp; pFormationInfo = itr.second;</div>
-<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> || !member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() || !pFormationInfo.<a class="code hl_function" href="../../d1/dc4/structFormationInfo.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a>)))</div>
-<div class="line"><span class="lineno">  361</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  362</span> </div>
-<div class="line"><span class="lineno">  363</span>        <span class="comment">// Xinef: If member is stunned / rooted etc don&#39;t allow to move him</span></div>
-<div class="line"><span class="lineno">  364</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>))</div>
-<div class="line"><span class="lineno">  365</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  366</span> </div>
-<div class="line"><span class="lineno">  367</span>        <span class="comment">// Xinef: this should be automatized, if turn angle is greater than PI/2 (90�) we should swap formation angle</span></div>
-<div class="line"><span class="lineno">  368</span>        <span class="keywordtype">float</span> followAngle = pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>;</div>
-<div class="line"><span class="lineno">  369</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) - std::fabs(std::fabs(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>() - pathAngle) - <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)) &gt; <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)* 0.5f)</div>
-<div class="line"><span class="lineno">  370</span>        {</div>
-<div class="line"><span class="lineno">  371</span>            <span class="comment">// pussywizard: in both cases should be 2*M_PI - follow_angle</span></div>
-<div class="line"><span class="lineno">  372</span>            <span class="comment">// pussywizard: also, GetCurrentWaypointID() returns 0..n-1, while point_1 must be &gt; 0, so +1</span></div>
-<div class="line"><span class="lineno">  373</span>            <span class="comment">// pussywizard: db table waypoint_data shouldn&#39;t have point id 0 and shouldn&#39;t have any gaps for this to work!</span></div>
-<div class="line"><span class="lineno">  374</span>            <span class="comment">// if (m_leader-&gt;GetCurrentWaypointID()+1 == pFormationInfo-&gt;point_1 || m_leader-&gt;GetCurrentWaypointID()+1 == itr-&gt;second-&gt;point_2)</span></div>
-<div class="line"><span class="lineno">  375</span>            followAngle = <a class="code hl_function" href="../../d0/df4/structPosition.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a> + <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)); <span class="comment">//(2 * M_PI) - itr-&gt;second-&gt;follow_angle;</span></div>
-<div class="line"><span class="lineno">  376</span>        }</div>
-<div class="line"><span class="lineno">  377</span> </div>
-<div class="line"><span class="lineno">  378</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> followDist = pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>;</div>
-<div class="line"><span class="lineno">  379</span> </div>
-<div class="line"><span class="lineno">  380</span>        <span class="keywordtype">float</span> dx = x + std::cos(followAngle + pathAngle) * followDist;</div>
-<div class="line"><span class="lineno">  381</span>        <span class="keywordtype">float</span> dy = y + std::sin(followAngle + pathAngle) * followDist;</div>
-<div class="line"><span class="lineno">  382</span>        <span class="keywordtype">float</span> dz = z;</div>
-<div class="line"><span class="lineno">  383</span> </div>
-<div class="line"><span class="lineno">  384</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dx);</div>
-<div class="line"><span class="lineno">  385</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dy);</div>
-<div class="line"><span class="lineno">  386</span>        <span class="keywordflow">if</span> (move_type &lt; 2)</div>
-<div class="line"><span class="lineno">  387</span>            member-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaac0221148a65e0aec0cc92663f55c9b">UpdateGroundPositionZ</a>(dx, dy, dz);</div>
-<div class="line"><span class="lineno">  388</span> </div>
-<div class="line"><span class="lineno">  389</span>        <span class="comment">// pussywizard: setting the same movementflags is not enough, spline decides whether leader walks/runs, so spline param is now passed as &quot;run&quot; parameter to this function</span></div>
-<div class="line"><span class="lineno">  390</span>        member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a50e34bb16f6a4d069d89d72fd5f11c51">SetUnitMovementFlags</a>(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
-<div class="line"><span class="lineno">  391</span>        <span class="keywordflow">switch</span> (move_type)</div>
-<div class="line"><span class="lineno">  392</span>        {</div>
-<div class="line"><span class="lineno">  393</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
-<div class="line"><span class="lineno">  394</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
-<div class="line"><span class="lineno">  395</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
-<div class="line"><span class="lineno">  397</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
-<div class="line"><span class="lineno">  398</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  399</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
-<div class="line"><span class="lineno">  400</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a>);</div>
-<div class="line"><span class="lineno">  401</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  402</span>        }</div>
-<div class="line"><span class="lineno">  403</span> </div>
-<div class="line"><span class="lineno">  404</span>        <span class="comment">// xinef: if we move members to position without taking care of sizes, we should compare distance without sizes</span></div>
-<div class="line"><span class="lineno">  405</span>        <span class="comment">// xinef: change members speed basing on distance - if too far speed up, if too close slow down</span></div>
-<div class="line"><span class="lineno">  406</span>        <a class="code hl_enumeration" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> <span class="keyword">const</span> mtype = <a class="code hl_function" href="../../db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f">Movement::SelectSpeedType</a>(member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
-<div class="line"><span class="lineno">  407</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> speedRate = <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aab66f0084b10c4a2a45f064567cf1118">GetSpeedRate</a>(mtype) * member-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(dx, dy, dz) / pathDist;</div>
-<div class="line"><span class="lineno">  408</span> </div>
-<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">if</span> (speedRate &gt; 0.01f) <span class="comment">// don&#39;t move if speed rate is too low</span></div>
-<div class="line"><span class="lineno">  410</span>        {</div>
-<div class="line"><span class="lineno">  411</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab072ce4871903cf564cf9272684fa95d">SetSpeedRate</a>(mtype, speedRate);</div>
-<div class="line"><span class="lineno">  412</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, dx, dy, dz);</div>
-<div class="line"><span class="lineno">  413</span>            member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(dx, dy, dz, pathAngle);</div>
-<div class="line"><span class="lineno">  414</span>        }</div>
-<div class="line"><span class="lineno">  415</span>    }</div>
-<div class="line"><span class="lineno">  416</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
+<div class="line"><span class="lineno">  351</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  352</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  353</span> </div>
+<div class="line"><span class="lineno">  354</span>    <span class="keywordtype">float</span> pathDist = <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  355</span>    <span class="keywordtype">float</span> pathAngle = std::atan2(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() - y, <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() - x);</div>
+<div class="line"><span class="lineno">  356</span> </div>
+<div class="line"><span class="lineno">  357</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  358</span>    {</div>
+<div class="line"><span class="lineno">  359</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* member = itr.first;</div>
+<div class="line"><span class="lineno">  360</span>        <a class="code hl_struct" href="../../d1/dc4/structFormationInfo.html">FormationInfo</a> <span class="keyword">const</span>&amp; pFormationInfo = itr.second;</div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> || !member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() || !pFormationInfo.<a class="code hl_function" href="../../d1/dc4/structFormationInfo.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a>)))</div>
+<div class="line"><span class="lineno">  362</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  363</span> </div>
+<div class="line"><span class="lineno">  364</span>        <span class="comment">// Xinef: If member is stunned / rooted etc don&#39;t allow to move him</span></div>
+<div class="line"><span class="lineno">  365</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>))</div>
+<div class="line"><span class="lineno">  366</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>        <span class="comment">// Xinef: this should be automatized, if turn angle is greater than PI/2 (90�) we should swap formation angle</span></div>
+<div class="line"><span class="lineno">  369</span>        <span class="keywordtype">float</span> followAngle = pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>;</div>
+<div class="line"><span class="lineno">  370</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) - std::fabs(std::fabs(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>() - pathAngle) - <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)) &gt; <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)* 0.5f)</div>
+<div class="line"><span class="lineno">  371</span>        {</div>
+<div class="line"><span class="lineno">  372</span>            <span class="comment">// pussywizard: in both cases should be 2*M_PI - follow_angle</span></div>
+<div class="line"><span class="lineno">  373</span>            <span class="comment">// pussywizard: also, GetCurrentWaypointID() returns 0..n-1, while point_1 must be &gt; 0, so +1</span></div>
+<div class="line"><span class="lineno">  374</span>            <span class="comment">// pussywizard: db table waypoint_data shouldn&#39;t have point id 0 and shouldn&#39;t have any gaps for this to work!</span></div>
+<div class="line"><span class="lineno">  375</span>            <span class="comment">// if (m_leader-&gt;GetCurrentWaypointID()+1 == pFormationInfo-&gt;point_1 || m_leader-&gt;GetCurrentWaypointID()+1 == itr-&gt;second-&gt;point_2)</span></div>
+<div class="line"><span class="lineno">  376</span>            followAngle = <a class="code hl_function" href="../../d0/df4/structPosition.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a> + <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)); <span class="comment">//(2 * M_PI) - itr-&gt;second-&gt;follow_angle;</span></div>
+<div class="line"><span class="lineno">  377</span>        }</div>
+<div class="line"><span class="lineno">  378</span> </div>
+<div class="line"><span class="lineno">  379</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> followDist = pFormationInfo.<a class="code hl_variable" href="../../d1/dc4/structFormationInfo.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>;</div>
+<div class="line"><span class="lineno">  380</span> </div>
+<div class="line"><span class="lineno">  381</span>        <span class="keywordtype">float</span> dx = x + std::cos(followAngle + pathAngle) * followDist;</div>
+<div class="line"><span class="lineno">  382</span>        <span class="keywordtype">float</span> dy = y + std::sin(followAngle + pathAngle) * followDist;</div>
+<div class="line"><span class="lineno">  383</span>        <span class="keywordtype">float</span> dz = z;</div>
+<div class="line"><span class="lineno">  384</span> </div>
+<div class="line"><span class="lineno">  385</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dx);</div>
+<div class="line"><span class="lineno">  386</span>        <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dy);</div>
+<div class="line"><span class="lineno">  387</span>        <span class="keywordflow">if</span> (move_type &lt; 2)</div>
+<div class="line"><span class="lineno">  388</span>            member-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaac0221148a65e0aec0cc92663f55c9b">UpdateGroundPositionZ</a>(dx, dy, dz);</div>
+<div class="line"><span class="lineno">  389</span> </div>
+<div class="line"><span class="lineno">  390</span>        <span class="comment">// pussywizard: setting the same movementflags is not enough, spline decides whether leader walks/runs, so spline param is now passed as &quot;run&quot; parameter to this function</span></div>
+<div class="line"><span class="lineno">  391</span>        member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a50e34bb16f6a4d069d89d72fd5f11c51">SetUnitMovementFlags</a>(<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
+<div class="line"><span class="lineno">  392</span>        <span class="keywordflow">switch</span> (move_type)</div>
+<div class="line"><span class="lineno">  393</span>        {</div>
+<div class="line"><span class="lineno">  394</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
+<div class="line"><span class="lineno">  395</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
+<div class="line"><span class="lineno">  396</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  397</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
+<div class="line"><span class="lineno">  398</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
+<div class="line"><span class="lineno">  399</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  400</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
+<div class="line"><span class="lineno">  401</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a>);</div>
+<div class="line"><span class="lineno">  402</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  403</span>        }</div>
+<div class="line"><span class="lineno">  404</span> </div>
+<div class="line"><span class="lineno">  405</span>        <span class="comment">// xinef: if we move members to position without taking care of sizes, we should compare distance without sizes</span></div>
+<div class="line"><span class="lineno">  406</span>        <span class="comment">// xinef: change members speed basing on distance - if too far speed up, if too close slow down</span></div>
+<div class="line"><span class="lineno">  407</span>        <a class="code hl_enumeration" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> <span class="keyword">const</span> mtype = <a class="code hl_function" href="../../db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f">Movement::SelectSpeedType</a>(member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
+<div class="line"><span class="lineno">  408</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> speedRate = <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aab66f0084b10c4a2a45f064567cf1118">GetSpeedRate</a>(mtype) * member-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(dx, dy, dz) / pathDist;</div>
+<div class="line"><span class="lineno">  409</span> </div>
+<div class="line"><span class="lineno">  410</span>        <span class="keywordflow">if</span> (speedRate &gt; 0.01f) <span class="comment">// don&#39;t move if speed rate is too low</span></div>
+<div class="line"><span class="lineno">  411</span>        {</div>
+<div class="line"><span class="lineno">  412</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab072ce4871903cf564cf9272684fa95d">SetSpeedRate</a>(mtype, speedRate);</div>
+<div class="line"><span class="lineno">  413</span>            member-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, dx, dy, dz);</div>
+<div class="line"><span class="lineno">  414</span>            member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(dx, dy, dz, pathAngle);</div>
+<div class="line"><span class="lineno">  415</span>        }</div>
+<div class="line"><span class="lineno">  416</span>    }</div>
+<div class="line"><span class="lineno">  417</span>}</div>
 <div class="ttc" id="aUnitDefines_8h_html_a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a></div><div class="ttdeci">@ MOVEMENTFLAG_DISABLE_GRAVITY</div><div class="ttdef"><b>Definition</b> UnitDefines.h:375</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a></div><div class="ttdeci">@ MOVEMENTFLAG_WALKING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:373</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:218</div></div>
@@ -753,7 +753,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:707</div></div>
 <div class="ttc" id="aclassUnit_html_abeb7f8bf0fe8c1e6ee5b5758f1b044b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">Unit::RemoveUnitMovementFlag</a></div><div class="ttdeci">void RemoveUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:744</div></div>
 <div class="ttc" id="aclassWorldObject_html_aaac0221148a65e0aec0cc92663f55c9b"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aaac0221148a65e0aec0cc92663f55c9b">WorldObject::UpdateGroundPositionZ</a></div><div class="ttdeci">void UpdateGroundPositionZ(float x, float y, float &amp;z) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1541</div></div>
-<div class="ttc" id="anamespaceAcore_html_a081c4b764dd94224c4a046465c5c6274"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a></div><div class="ttdeci">void NormalizeMapCoord(float &amp;c)</div><div class="ttdef"><b>Definition</b> GridDefines.h:207</div></div>
+<div class="ttc" id="anamespaceAcore_html_a081c4b764dd94224c4a046465c5c6274"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a></div><div class="ttdeci">void NormalizeMapCoord(float &amp;c)</div><div class="ttdef"><b>Definition</b> GridDefines.h:213</div></div>
 <div class="ttc" id="anamespaceMovement_html_a1f10281929f445f6d8150dc510bf1f2f"><div class="ttname"><a href="../../db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f">Movement::SelectSpeedType</a></div><div class="ttdeci">UnitMoveType SelectSpeedType(uint32 moveFlags)</div><div class="ttdef"><b>Definition</b> MoveSplineInit.cpp:29</div></div>
 <div class="ttc" id="astructFormationInfo_html"><div class="ttname"><a href="../../d1/dc4/structFormationInfo.html">FormationInfo</a></div><div class="ttdef"><b>Definition</b> CreatureGroups.h:52</div></div>
 <div class="ttc" id="astructFormationInfo_html_a3b59ee5129e208cc3df407a921362393"><div class="ttname"><a href="../../d1/dc4/structFormationInfo.html#a3b59ee5129e208cc3df407a921362393">FormationInfo::follow_dist</a></div><div class="ttdeci">float follow_dist</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:64</div></div>
@@ -765,7 +765,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructPosition_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition</b> Position.h:116</div></div>
 <div class="ttc" id="astructPosition_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition</b> Position.h:117</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00743">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00177">Position::GetExactDist()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00119">Position::GetOrientation()</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l01654">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00746">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00707">Unit::HasUnitState()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00375">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00207">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00232">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00744">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00029">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00340">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00747">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01541">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00028">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00743">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00177">Position::GetExactDist()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00119">Position::GetOrientation()</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l01654">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00746">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00707">Unit::HasUnitState()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00375">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00213">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00232">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00744">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00029">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00340">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00747">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01541">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00028">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, and <a class="el" href="../../#l00101">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
@@ -796,44 +796,44 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
-<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  199</span>    {</div>
-<div class="line"><span class="lineno">  200</span>        <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
-<div class="line"><span class="lineno">  201</span>        {</div>
-<div class="line"><span class="lineno">  202</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  203</span>        }</div>
-<div class="line"><span class="lineno">  204</span>    }</div>
-<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
-<div class="line"><span class="lineno">  206</span>    {</div>
-<div class="line"><span class="lineno">  207</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  208</span>    }</div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  211</span>    {</div>
-<div class="line"><span class="lineno">  212</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
-<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">if</span> (!pMember)</div>
-<div class="line"><span class="lineno">  214</span>        {</div>
-<div class="line"><span class="lineno">  215</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  216</span>        }</div>
-<div class="line"><span class="lineno">  217</span> </div>
-<div class="line"><span class="lineno">  218</span>        <span class="keywordflow">if</span> (pMember == member || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  219</span>        {</div>
-<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  221</span>        }</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">if</span> (pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; !(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
-<div class="line"><span class="lineno">  224</span>        {</div>
-<div class="line"><span class="lineno">  225</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  226</span>        }</div>
-<div class="line"><span class="lineno">  227</span> </div>
-<div class="line"><span class="lineno">  228</span>        <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target) &amp;&amp; pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  229</span>        {</div>
-<div class="line"><span class="lineno">  230</span>            pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
-<div class="line"><span class="lineno">  231</span>        }</div>
-<div class="line"><span class="lineno">  232</span>    }</div>
-<div class="line"><span class="lineno">  233</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
+<div class="line"><span class="lineno">  198</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  200</span>    {</div>
+<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>)))</div>
+<div class="line"><span class="lineno">  202</span>        {</div>
+<div class="line"><span class="lineno">  203</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  204</span>        }</div>
+<div class="line"><span class="lineno">  205</span>    }</div>
+<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
+<div class="line"><span class="lineno">  207</span>    {</div>
+<div class="line"><span class="lineno">  208</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  209</span>    }</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  212</span>    {</div>
+<div class="line"><span class="lineno">  213</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
+<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">if</span> (!pMember)</div>
+<div class="line"><span class="lineno">  215</span>        {</div>
+<div class="line"><span class="lineno">  216</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  217</span>        }</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">if</span> (pMember == member || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  220</span>        {</div>
+<div class="line"><span class="lineno">  221</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  222</span>        }</div>
+<div class="line"><span class="lineno">  223</span> </div>
+<div class="line"><span class="lineno">  224</span>        <span class="keywordflow">if</span> (pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> &amp;&amp; !(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>)))</div>
+<div class="line"><span class="lineno">  225</span>        {</div>
+<div class="line"><span class="lineno">  226</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  227</span>        }</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>        <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target) &amp;&amp; pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  230</span>        {</div>
+<div class="line"><span class="lineno">  231</span>            pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
+<div class="line"><span class="lineno">  232</span>        }</div>
+<div class="line"><span class="lineno">  233</span>    }</div>
+<div class="line"><span class="lineno">  234</span>}</div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 </div><!-- fragment -->
@@ -856,44 +856,44 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  283</span>{</div>
-<div class="line"><span class="lineno">  284</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
-<div class="line"><span class="lineno">  285</span>    <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a>)))</div>
-<div class="line"><span class="lineno">  286</span>    {</div>
-<div class="line"><span class="lineno">  287</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  288</span>    }</div>
-<div class="line"><span class="lineno">  289</span> </div>
-<div class="line"><span class="lineno">  290</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  291</span>    {</div>
-<div class="line"><span class="lineno">  292</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
-<div class="line"><span class="lineno">  293</span>        <span class="comment">// This should never happen</span></div>
-<div class="line"><span class="lineno">  294</span>        <span class="keywordflow">if</span> (!pMember)</div>
-<div class="line"><span class="lineno">  295</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  296</span> </div>
-<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">if</span> (pMember == member || pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#aef9d08b3201a7ca820db28b6bbdd9463">IsInEvadeMode</a>() || !itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a>)))</div>
-<div class="line"><span class="lineno">  298</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  299</span> </div>
-<div class="line"><span class="lineno">  300</span>        <span class="keywordflow">if</span> (itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GroupAIFlags::GROUP_AI_FLAG_EVADE_TOGETHER</a>)))</div>
-<div class="line"><span class="lineno">  301</span>        {</div>
-<div class="line"><span class="lineno">  302</span>            <span class="keywordflow">if</span> (!pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
-<div class="line"><span class="lineno">  303</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  304</span> </div>
-<div class="line"><span class="lineno">  305</span>            <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a>)</div>
-<div class="line"><span class="lineno">  306</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* pMemberAI = pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  307</span>                    pMemberAI-&gt;EnterEvadeMode();</div>
-<div class="line"><span class="lineno">  308</span>        }</div>
-<div class="line"><span class="lineno">  309</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  310</span>        {</div>
-<div class="line"><span class="lineno">  311</span>            <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  312</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  313</span> </div>
-<div class="line"><span class="lineno">  314</span>            <span class="keywordflow">if</span> (itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GroupAIFlags::GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a>)) &amp;&amp; pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  315</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  316</span> </div>
-<div class="line"><span class="lineno">  317</span>            pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a1277512afd7e270a9d0b4acd90c17550">Respawn</a>();</div>
-<div class="line"><span class="lineno">  318</span>        }</div>
-<div class="line"><span class="lineno">  319</span>    }</div>
-<div class="line"><span class="lineno">  320</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  284</span>{</div>
+<div class="line"><span class="lineno">  285</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> groupAI = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap[member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>()].groupAI;</div>
+<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">if</span> (!(groupAI &amp; std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a>)))</div>
+<div class="line"><span class="lineno">  287</span>    {</div>
+<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  289</span>    }</div>
+<div class="line"><span class="lineno">  290</span> </div>
+<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pMember = itr.first;</div>
+<div class="line"><span class="lineno">  294</span>        <span class="comment">// This should never happen</span></div>
+<div class="line"><span class="lineno">  295</span>        <span class="keywordflow">if</span> (!pMember)</div>
+<div class="line"><span class="lineno">  296</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  297</span> </div>
+<div class="line"><span class="lineno">  298</span>        <span class="keywordflow">if</span> (pMember == member || pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#aef9d08b3201a7ca820db28b6bbdd9463">IsInEvadeMode</a>() || !itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a>)))</div>
+<div class="line"><span class="lineno">  299</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>        <span class="keywordflow">if</span> (itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GroupAIFlags::GROUP_AI_FLAG_EVADE_TOGETHER</a>)))</div>
+<div class="line"><span class="lineno">  302</span>        {</div>
+<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">if</span> (!pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
+<div class="line"><span class="lineno">  304</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  305</span> </div>
+<div class="line"><span class="lineno">  306</span>            <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a>)</div>
+<div class="line"><span class="lineno">  307</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* pMemberAI = pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  308</span>                    pMemberAI-&gt;EnterEvadeMode();</div>
+<div class="line"><span class="lineno">  309</span>        }</div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  311</span>        {</div>
+<div class="line"><span class="lineno">  312</span>            <span class="keywordflow">if</span> (pMember-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  313</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  314</span> </div>
+<div class="line"><span class="lineno">  315</span>            <span class="keywordflow">if</span> (itr.second.HasGroupFlag(std::underlying_type_t&lt;GroupAIFlags&gt;(<a class="code hl_enumvalue" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GroupAIFlags::GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a>)) &amp;&amp; pMember == <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  316</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>            pMember-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a1277512afd7e270a9d0b4acd90c17550">Respawn</a>();</div>
+<div class="line"><span class="lineno">  319</span>        }</div>
+<div class="line"><span class="lineno">  320</span>    }</div>
+<div class="line"><span class="lineno">  321</span>}</div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a></div><div class="ttdeci">@ GROUP_AI_FLAG_EVADE_MASK</div></div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GroupAIFlags::GROUP_AI_FLAG_EVADE_TOGETHER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_EVADE_TOGETHER</div></div>
 <div class="ttc" id="aCreatureGroups_8h_html_a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GroupAIFlags::GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a></div><div class="ttdeci">@ GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</div></div>
@@ -922,19 +922,19 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> == member)</div>
-<div class="line"><span class="lineno">  187</span>    {</div>
-<div class="line"><span class="lineno">  188</span>        <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  189</span>    }</div>
-<div class="line"><span class="lineno">  190</span> </div>
-<div class="line"><span class="lineno">  191</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.erase(member);</div>
-<div class="line"><span class="lineno">  192</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  193</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
+<div class="line"><span class="lineno">  187</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> == member)</div>
+<div class="line"><span class="lineno">  188</span>    {</div>
+<div class="line"><span class="lineno">  189</span>        <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  190</span>    }</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.erase(member);</div>
+<div class="line"><span class="lineno">  193</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  194</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, and <a class="el" href="../../#l00359">Creature::SetFormation()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
 </div>
 </div>
@@ -953,15 +953,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  419</span>{</div>
-<div class="line"><span class="lineno">  420</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  421</span>    {</div>
-<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  423</span>        {</div>
-<div class="line"><span class="lineno">  424</span>            itr.first-&gt;Respawn(force);</div>
-<div class="line"><span class="lineno">  425</span>        }</div>
-<div class="line"><span class="lineno">  426</span>    }</div>
-<div class="line"><span class="lineno">  427</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  420</span>{</div>
+<div class="line"><span class="lineno">  421</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  422</span>    {</div>
+<div class="line"><span class="lineno">  423</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  424</span>        {</div>
+<div class="line"><span class="lineno">  425</span>            itr.first-&gt;Respawn(force);</div>
+<div class="line"><span class="lineno">  426</span>        }</div>
+<div class="line"><span class="lineno">  427</span>    }</div>
+<div class="line"><span class="lineno">  428</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -988,7 +988,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00322">FormationReset()</a>, and <a class="el" href="../../#l00103">IsFormed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00323">FormationReset()</a>, and <a class="el" href="../../#l00103">IsFormed()</a>.</p>
 
 </div>
 </div>
@@ -1012,7 +1012,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddMember()</a>, and <a class="el" href="../../#l00100">GetId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, and <a class="el" href="../../#l00100">GetId()</a>.</p>
 
 </div>
 </div>
@@ -1036,7 +1036,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddMember()</a>, <a class="el" href="../../#l00322">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00235">GetNewTargetForMember()</a>, <a class="el" href="../../#l00442">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00346">LeaderMoveTo()</a>, <a class="el" href="../../#l00195">MemberEngagingTarget()</a>, <a class="el" href="../../#l00282">MemberEvaded()</a>, and <a class="el" href="../../#l00184">RemoveMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00443">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, and <a class="el" href="../../#l00185">RemoveMember()</a>.</p>
 
 </div>
 </div>
@@ -1060,7 +1060,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddMember()</a>, <a class="el" href="../../#l00322">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00235">GetNewTargetForMember()</a>, <a class="el" href="../../#l00442">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00429">IsFormationInCombat()</a>, <a class="el" href="../../#l00346">LeaderMoveTo()</a>, <a class="el" href="../../#l00195">MemberEngagingTarget()</a>, <a class="el" href="../../#l00282">MemberEvaded()</a>, <a class="el" href="../../#l00184">RemoveMember()</a>, and <a class="el" href="../../#l00418">RespawnFormation()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00443">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00430">IsFormationInCombat()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, <a class="el" href="../../#l00185">RemoveMember()</a>, and <a class="el" href="../../#l00419">RespawnFormation()</a>.</p>
 
 </div>
 </div>
@@ -1074,7 +1074,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dc7/classCreatureGroup.html">CreatureGroup</a></li>
-    <li class="footer">Generated on Fri Feb 14 2025 06:20:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 15 2025 06:18:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

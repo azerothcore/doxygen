@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gridloader_0',['GridLoader',['../d0/daf/classGrid.html#a06e47216bdac43edea86c507c93a6ed4',1,'Grid']]]
+  ['gridobjectloader_0',['GridObjectLoader',['../d7/db0/classMap.html#a33cabfee087597c2b88e2166f73e4b18',1,'Map']]]
 ];
