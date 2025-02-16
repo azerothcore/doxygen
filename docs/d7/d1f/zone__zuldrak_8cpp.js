@@ -3,8 +3,6 @@ var zone__zuldrak_8cpp =
     [ "npc_finklestein", "d3/d30/classnpc__finklestein.html", "d3/d30/classnpc__finklestein" ],
     [ "npc_finklestein::npc_finklesteinAI", "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html", "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI" ],
     [ "go_finklestein_cauldron", "d2/d9d/classgo__finklestein__cauldron.html", "d2/d9d/classgo__finklestein__cauldron" ],
-    [ "npc_feedin_da_goolz", "d5/dbd/classnpc__feedin__da__goolz.html", "d5/dbd/classnpc__feedin__da__goolz" ],
-    [ "npc_feedin_da_goolz::npc_feedin_da_goolzAI", "d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI.html", "d8/d7a/structnpc__feedin__da__goolz_1_1npc__feedin__da__goolzAI" ],
     [ "npc_overlord_drakuru_betrayal", "de/d2a/classnpc__overlord__drakuru__betrayal.html", "de/d2a/classnpc__overlord__drakuru__betrayal" ],
     [ "npc_overlord_drakuru_betrayal::npc_overlord_drakuru_betrayalAI", "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI.html", "da/ddc/structnpc__overlord__drakuru__betrayal_1_1npc__overlord__drakuru__betrayalAI" ],
     [ "npc_drakuru_shackles", "db/dfa/classnpc__drakuru__shackles.html", "db/dfa/classnpc__drakuru__shackles" ],
@@ -38,10 +36,6 @@ var zone__zuldrak_8cpp =
       [ "SPELL_RIGHT_CHAIN", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ea78a87217309119207f5733d5b75c1bf1", null ],
       [ "SPELL_UNLOCK_SHACKLE", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ea38d299dfaf2a1a9d3796e60bc5792e51", null ],
       [ "SPELL_FREE_RAGECLAW", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468eaa4c76adb98fdd5265f5e156cdeb0dcf2", null ]
-    ] ],
-    [ "eFeedinDaGoolz", "d7/d1f/zone__zuldrak_8cpp.html#a43c9efb8a651596a7a5fef22e29f58fc", [
-      [ "NPC_DECAYING_GHOUL", "d7/d1f/zone__zuldrak_8cpp.html#a43c9efb8a651596a7a5fef22e29f58fca9ef1c4771e696935078cdd4341b32c69", null ],
-      [ "GO_BOWL", "d7/d1f/zone__zuldrak_8cpp.html#a43c9efb8a651596a7a5fef22e29f58fcafb8d22dbf319a5f8710fb6fa9bf34b60", null ]
     ] ],
     [ "overlordDrakuru", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487", [
       [ "SPELL_SHADOW_BOLT", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a8872edea8a2ac8c4e895c975482b9413", null ],

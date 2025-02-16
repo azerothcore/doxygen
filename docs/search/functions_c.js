@@ -371,7 +371,7 @@ var searchData=
   ['loadvehicleseataddon_368',['LoadVehicleSeatAddon',['../d5/dfb/classObjectMgr.html#aefd6a2fe7b0e7dbcbf829cd4ddd4ed95',1,'ObjectMgr']]],
   ['loadvehicletemplateaccessories_369',['LoadVehicleTemplateAccessories',['../d5/dfb/classObjectMgr.html#a8c254fc79caab26e9b85304943691472',1,'ObjectMgr']]],
   ['loadvendors_370',['LoadVendors',['../d5/dfb/classObjectMgr.html#aeec4639ff09cfcd658d39872283e3886',1,'ObjectMgr']]],
-  ['loadvmap_371',['loadvmap',['../d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f',1,'GridTerrainLoader::LoadVMap()'],['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()']]],
+  ['loadvmap_371',['loadvmap',['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()'],['../d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f',1,'GridTerrainLoader::LoadVMap()']]],
   ['loadwardenchecks_372',['LoadWardenChecks',['../dc/d48/classWardenCheckMgr.html#ad02847547a06d98c582d09992dce9d11',1,'WardenCheckMgr']]],
   ['loadwardenoverrides_373',['LoadWardenOverrides',['../dc/d48/classWardenCheckMgr.html#a0a82e118a8f8236fecf1b00de0e2071c',1,'WardenCheckMgr']]],
   ['loadwaypointscripts_374',['LoadWaypointScripts',['../d5/dfb/classObjectMgr.html#acb39506ceb0b83bd56369084ba706b3d',1,'ObjectMgr']]],

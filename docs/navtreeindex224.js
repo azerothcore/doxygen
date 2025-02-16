@@ -1,10 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eafabebc18bc02e50c56c22cbb1c8cd9c2":[7,0,0,0,1,3,5,6,7,32,2],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,7,35],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca083ff881600452988daa1991bf941da1":[7,0,0,0,1,3,5,6,7,35,21],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca09121e62a28418c9ebf693978ec275fe":[7,0,0,0,1,3,5,6,7,35,19],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a4e04ac6b5dc62969c46db76b96dbd8":[7,0,0,0,1,3,5,6,7,35,33],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca11304d7c71ebd5165f9b049c830f88fe":[7,0,0,0,1,3,5,6,7,35,35],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca1157ad9ab62470662136d84520e1fbe6":[7,0,0,0,1,3,5,6,7,35,32],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca14cf9a5f1492a702975eb634bc04ca90":[7,0,0,0,1,3,5,6,7,35,28],
@@ -79,9 +74,9 @@ var NAVTREEINDEX224 =
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaccbe25a95fcd8c56847451954286c3a":[7,0,0,0,1,3,5,6,7,31,9],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae48ed16e3d81e698b26347019dff68be":[7,0,0,0,1,3,5,6,7,31,6],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe67fa0dd0861c8771b271303bdbec75":[7,0,0,0,1,3,5,6,7,31,3],
-"d8/ddf/classnpc__spectral__footman.html":[6,0,2113],
-"d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2113,1],
-"d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2113,2],
+"d8/ddf/classnpc__spectral__footman.html":[6,0,2112],
+"d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2112,1],
+"d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2112,2],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html":[6,0,523,0],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8":[6,0,523,0,11],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a211387ae4f89d54a22a4f8515239d1c3":[6,0,523,0,6],
@@ -225,9 +220,9 @@ var NAVTREEINDEX224 =
 "d8/de0/classboss__thorim__lightning__orb.html":[6,0,735],
 "d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,735,1],
 "d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,735,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1929],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1929,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1929,1],
+"d8/de0/structnpc__lord__sanguinar.html":[6,0,1928],
+"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1928,0],
+"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1928,1],
 "d8/de1/structCalendarInvite.html":[6,0,830],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,830,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,830,7],
@@ -249,5 +244,10 @@ var NAVTREEINDEX224 =
 "d8/de1/structCalendarInvite.html#ab100ae1e5142fb6d542b0bb7f695501c":[6,0,830,1],
 "d8/de1/structCalendarInvite.html#ab61ee5b537d41a60cac7457acc9fab39":[6,0,830,21],
 "d8/de1/structCalendarInvite.html#abc265fe3f25e9fa2a6ae9094f427c0b0":[6,0,830,10],
-"d8/de1/structCalendarInvite.html#abc834aa4f0c75fc49320e110a2f5cb2b":[6,0,830,20]
+"d8/de1/structCalendarInvite.html#abc834aa4f0c75fc49320e110a2f5cb2b":[6,0,830,20],
+"d8/de1/structCalendarInvite.html#ac2b323dd70802562c497414e2cec300a":[6,0,830,3],
+"d8/de1/structCalendarInvite.html#ad6a17313390686f6a8fd2c7af26b98f9":[6,0,830,11],
+"d8/de1/structCalendarInvite.html#ae05cd257558e98112528a997e1faba02":[6,0,830,4],
+"d8/de1/structCalendarInvite.html#af3d5020fcca737e10a4aaac8b2194566":[6,0,830,8],
+"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[6,0,830,25]
 };

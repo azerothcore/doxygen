@@ -326,14 +326,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  904</span>    {</div>
-<div class="line"><span class="lineno">  905</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>() != <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  906</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  903</span>    {</div>
+<div class="line"><span class="lineno">  904</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>() != <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  905</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_a759add2c89e786125196eb6bd3b20c6d"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">ProcEventInfo::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:184</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00184">ProcEventInfo::GetSpellInfo()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00917">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00916">Register()</a>.</p>
 
 </div>
 </div>
@@ -370,13 +370,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  909</span>    {</div>
-<div class="line"><span class="lineno">  910</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  911</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> mana = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795">CalcPowerCost</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a175351e318f9066e28a8d106e9c9e1f9">GetSchoolMask</a>());</div>
-<div class="line"><span class="lineno">  912</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(mana, 35);</div>
-<div class="line"><span class="lineno">  913</span> </div>
-<div class="line"><span class="lineno">  914</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f">SPELL_SHAMAN_ITEM_MANA_SURGE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, damage, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno">  915</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  908</span>    {</div>
+<div class="line"><span class="lineno">  909</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  910</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> mana = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795">CalcPowerCost</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a175351e318f9066e28a8d106e9c9e1f9">GetSchoolMask</a>());</div>
+<div class="line"><span class="lineno">  911</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(mana, 35);</div>
+<div class="line"><span class="lineno">  912</span> </div>
+<div class="line"><span class="lineno">  913</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f">SPELL_SHAMAN_ITEM_MANA_SURGE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, damage, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno">  914</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition</b> SpellDefines.h:113</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:61</div></div>
@@ -389,7 +389,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02401">SpellInfo::CalcPowerCost()</a>, <a class="el" href="../../#l00061">CalculatePct()</a>, <a class="el" href="../../#l01235">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00447">ProcEventInfo::GetSchoolMask()</a>, <a class="el" href="../../#l00184">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00049">SPELL_SHAMAN_ITEM_MANA_SURGE</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00917">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00916">Register()</a>.</p>
 
 </div>
 </div>
@@ -443,20 +443,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  918</span>    {</div>
-<div class="line"><span class="lineno">  919</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb">spell_sha_item_mana_surge::CheckProc</a>);</div>
-<div class="line"><span class="lineno">  920</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741">spell_sha_item_mana_surge::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno">  921</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  917</span>    {</div>
+<div class="line"><span class="lineno">  918</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb">spell_sha_item_mana_surge::CheckProc</a>);</div>
+<div class="line"><span class="lineno">  919</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741">spell_sha_item_mana_surge::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno">  920</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:818</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:817</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__sha__item__mana__surge_html_a33412f2b5abb1ce2160408ef13e7f0cb"><div class="ttname"><a href="../../df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb">spell_sha_item_mana_surge::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:903</div></div>
-<div class="ttc" id="aclassspell__sha__item__mana__surge_html_ab24c3d3f697a7ebd146d6135305c7741"><div class="ttname"><a href="../../df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741">spell_sha_item_mana_surge::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:908</div></div>
+<div class="ttc" id="aclassspell__sha__item__mana__surge_html_a33412f2b5abb1ce2160408ef13e7f0cb"><div class="ttname"><a href="../../df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb">spell_sha_item_mana_surge::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:902</div></div>
+<div class="ttc" id="aclassspell__sha__item__mana__surge_html_ab24c3d3f697a7ebd146d6135305c7741"><div class="ttname"><a href="../../df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741">spell_sha_item_mana_surge::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:907</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00903">CheckProc()</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00908">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00902">CheckProc()</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00907">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -485,9 +485,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  899</span>    {</div>
-<div class="line"><span class="lineno">  900</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a> });</div>
-<div class="line"><span class="lineno">  901</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  898</span>    {</div>
+<div class="line"><span class="lineno">  899</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a> });</div>
+<div class="line"><span class="lineno">  900</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 <div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a></div><div class="ttdeci">@ SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:48</div></div>
 </div><!-- fragment -->
@@ -504,7 +504,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/dcb/classspell__sha__item__mana__surge.html">spell_sha_item_mana_surge</a></li>
-    <li class="footer">Generated on Sat Feb 15 2025 06:19:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 16 2025 06:19:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

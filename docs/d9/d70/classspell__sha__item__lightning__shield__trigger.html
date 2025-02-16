@@ -129,8 +129,8 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:acda7b1b6e91a433b72c2a5dd0e165685"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f2c7d754a37e6ae02d4aaec758841e5" id="r_a5f2c7d754a37e6ae02d4aaec758841e5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a5f2c7d754a37e6ae02d4aaec758841e5">Validate</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *) override</td></tr>
 <tr class="separator:a5f2c7d754a37e6ae02d4aaec758841e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e358f231f3ee72fcb95432a4705312a" id="r_a7e358f231f3ee72fcb95432a4705312a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a7e358f231f3ee72fcb95432a4705312a">HandleProc</a> (<a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> const *aurEff, <a class="el" href="../../d0/dde/classProcEventInfo.html">ProcEventInfo</a> &amp;)</td></tr>
-<tr class="separator:a7e358f231f3ee72fcb95432a4705312a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46726e3e05e386892ea86d74d161e8d0" id="r_a46726e3e05e386892ea86d74d161e8d0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0">HandleProc</a> (<a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> const *aurEff, <a class="el" href="../../d0/dde/classProcEventInfo.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
+<tr class="separator:a46726e3e05e386892ea86d74d161e8d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33cd336a6ca68e66e6046cfdac776fee" id="r_a33cd336a6ca68e66e6046cfdac776fee"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a33cd336a6ca68e66e6046cfdac776fee">Register</a> () override</td></tr>
 <tr class="separator:a33cd336a6ca68e66e6046cfdac776fee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -301,8 +301,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7e358f231f3ee72fcb95432a4705312a" name="a7e358f231f3ee72fcb95432a4705312a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e358f231f3ee72fcb95432a4705312a">&#9670;&#160;</a></span>HandleProc()</h2>
+<a id="a46726e3e05e386892ea86d74d161e8d0" name="a46726e3e05e386892ea86d74d161e8d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46726e3e05e386892ea86d74d161e8d0">&#9670;&#160;</a></span>HandleProc()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -320,7 +320,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d0/dde/classProcEventInfo.html">ProcEventInfo</a> &amp;&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramname"><em>eventInfo</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -334,18 +334,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  882</span>    {</div>
-<div class="line"><span class="lineno">  883</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  884</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno">  885</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  881</span>    {</div>
+<div class="line"><span class="lineno">  882</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  883</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>(), <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno">  884</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
+<div class="ttc" id="aclassProcEventInfo_html_ae57fa4c37ca2a3fedb00079f4160bcc7"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">ProcEventInfo::GetProcTarget</a></div><div class="ttdeci">Unit * GetProcTarget() const</div><div class="ttdef"><b>Definition</b> Unit.h:441</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1178</div></div>
 <div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a></div><div class="ttdeci">@ SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:48</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00048">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00441">ProcEventInfo::GetProcTarget()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00048">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00887">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00886">Register()</a>.</p>
 
 </div>
 </div>
@@ -399,16 +400,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  888</span>    {</div>
-<div class="line"><span class="lineno">  889</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a7e358f231f3ee72fcb95432a4705312a">spell_sha_item_lightning_shield_trigger::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno">  890</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  887</span>    {</div>
+<div class="line"><span class="lineno">  888</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0">spell_sha_item_lightning_shield_trigger::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno">  889</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__sha__item__lightning__shield__trigger_html_a7e358f231f3ee72fcb95432a4705312a"><div class="ttname"><a href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a7e358f231f3ee72fcb95432a4705312a">spell_sha_item_lightning_shield_trigger::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:881</div></div>
+<div class="ttc" id="aclassspell__sha__item__lightning__shield__trigger_html_a46726e3e05e386892ea86d74d161e8d0"><div class="ttname"><a href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0">spell_sha_item_lightning_shield_trigger::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:880</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00881">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00880">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -456,7 +457,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d70/classspell__sha__item__lightning__shield__trigger.html">spell_sha_item_lightning_shield_trigger</a></li>
-    <li class="footer">Generated on Sat Feb 15 2025 06:19:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 16 2025 06:19:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

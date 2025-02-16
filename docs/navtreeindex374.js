@@ -1,7 +1,5 @@
 var NAVTREEINDEX374 =
 {
-"df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a":[7,0,0,0,1,3,10,2,10,0],
-"df/d20/areatrigger__scripts_8cpp.html#a9670aee8aef02c60b84d4c3d11c963b5":[7,0,0,0,1,3,10,2,13],
 "df/d20/areatrigger__scripts_8cpp.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d":[7,0,0,0,1,3,10,2,13,0],
 "df/d20/areatrigger__scripts_8cpp.html#a992f2da647f1f8748c7c9239b52079ad":[7,0,0,0,1,3,10,2,19],
 "df/d20/areatrigger__scripts_8cpp.html#a9b234b18092b711f6f11cda755fe0bfd":[7,0,0,0,1,3,10,2,12],
@@ -25,11 +23,11 @@ var NAVTREEINDEX374 =
 "df/d20/classnpc__commander__dawnforge.html":[6,0,1683],
 "df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[6,0,1683,2],
 "df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[6,0,1683,1],
-"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3337],
-"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3337,1],
-"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[6,0,3337,3],
-"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3337,2],
-"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[6,0,3337,0],
+"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3336],
+"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3336,1],
+"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[6,0,3336,3],
+"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3336,2],
+"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[6,0,3336,0],
 "df/d20/instance__blackwing__lair_8cpp.html":[7,0,0,0,1,3,2,1,2,9],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[7,0,0,0,1,3,2,1,2,9,5],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[7,0,0,0,1,3,2,1,2,9,5,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX374 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8f9507d82164c73d580999fc3858559e":[7,0,0,0,1,2,16,5,0,4,6,133],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a907297d4c653f7a1b9c81f56daac20bf":[7,0,0,0,1,2,16,5,0,4,6,198],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a928f672f35127dce1bb9424a7254cfb4":[7,0,0,0,1,2,16,5,0,4,6,239],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a95c39cd7d3e9f5eea7e394aac9becf5e":[7,0,0,0,1,2,16,5,0,4,6,137]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a95c39cd7d3e9f5eea7e394aac9becf5e":[7,0,0,0,1,2,16,5,0,4,6,137],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a974f785c9af14d16f5f31d6311d42405":[7,0,0,0,1,2,16,5,0,4,6,276],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a976a3b06037931872edb8d6eef9ad102":[7,0,0,0,1,2,16,5,0,4,6,255]
 };

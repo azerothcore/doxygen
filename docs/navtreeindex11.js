@@ -1,6 +1,9 @@
 var NAVTREEINDEX11 =
 {
-"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[6,0,4099,0],
+"d0/d87/classgo__wg__vehicle__teleporter.html#a113aaf42c095000c1a016bfe60df11e7":[6,0,1196,2],
+"d0/d87/structTorlothCinematic.html":[6,0,4098],
+"d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[6,0,4098,1],
+"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[6,0,4098,0],
 "d0/d88/UpdateFetcher_8cpp.html":[7,0,0,0,1,1,3,2],
 "d0/d88/boss__hedrum_8cpp.html":[7,0,0,0,1,3,2,1,0,9],
 "d0/d88/boss__hedrum_8cpp.html#a518437f8a83303c8b99890b84ff89461":[7,0,0,0,1,3,2,1,0,9,4],
@@ -12,11 +15,11 @@ var NAVTREEINDEX11 =
 "d0/d88/boss__hedrum_8cpp.html#ab4d1592137d12427d186be538badd18ba8d056d654b46aab07c40d19cc3ee2029":[7,0,0,0,1,3,2,1,0,9,3,0],
 "d0/d88/boss__hedrum_8cpp.html#ab4d1592137d12427d186be538badd18ba8f1c893edf81f769e9824f30fa16ff51":[7,0,0,0,1,3,2,1,0,9,3,2],
 "d0/d88/boss__hedrum_8cpp.html#ab4d1592137d12427d186be538badd18bab352b22b988b03780479aa8fd293c04d":[7,0,0,0,1,3,2,1,0,9,3,1],
-"d0/d88/structSpellRadiusEntry.html":[6,0,4031],
-"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4031,3],
-"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4031,0],
-"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4031,1],
-"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4031,2],
+"d0/d88/structSpellRadiusEntry.html":[6,0,4030],
+"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4030,3],
+"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4030,0],
+"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4030,1],
+"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4030,2],
 "d0/d89/boss__thorim_8cpp.html":[7,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a057e2a0167c7a513c210504a814f72f0":[7,0,0,0,1,3,5,9,2,11,27],
 "d0/d89/boss__thorim_8cpp.html#a0e292a3fa43a6ce6b2dee40fdfe2e8c9":[7,0,0,0,1,3,5,9,2,11,36],
@@ -246,8 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d8c/classEnumUtils.html#a167ce659fea26e33bce59b116703c1e4":[6,0,1015,47],
 "d0/d8c/classEnumUtils.html#a1779da0597301d57cfa6b1b14954024c":[6,0,1015,31],
 "d0/d8c/classEnumUtils.html#a18943651bf8600cddb7bb436b4d79017":[6,0,1015,2],
-"d0/d8c/classEnumUtils.html#a18bf71b29f7c40ebf1bc1c70d6848ab5":[6,0,1015,117],
-"d0/d8c/classEnumUtils.html#a19d3d423e5e7dfd27fb8bd134a39d442":[6,0,1015,119],
-"d0/d8c/classEnumUtils.html#a19e58e18c04916f02f9f72143da0551f":[6,0,1015,17],
-"d0/d8c/classEnumUtils.html#a1d5e19376c2138942c4161560297a574":[6,0,1015,48]
+"d0/d8c/classEnumUtils.html#a18bf71b29f7c40ebf1bc1c70d6848ab5":[6,0,1015,117]
 };

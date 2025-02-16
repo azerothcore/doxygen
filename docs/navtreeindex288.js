@@ -1,17 +1,12 @@
 var NAVTREEINDEX288 =
 {
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ab3fac4faa54b273d67df8f1c39cc2f29":[6,0,2159,0,2],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#abfee2eb8ef6086b162fddcd69372ddc8":[6,0,2159,0,11],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac0227757e89b0d86c77e3b306f12901f":[6,0,2159,0,21],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac0f5110c0a7b10f1a14433916ca3bea9":[6,0,2159,0,7],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac36d7100de7444fcd711eaeecd510ac3":[6,0,2159,0,6],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac3bb42dd096d49e138399aac2d0616c0":[6,0,2159,0,3],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#addb829b3cef88f6430c2a1ae5251105f":[6,0,2159,0,22],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae097af2a0aaeecc237a73ab3d4fafb0f":[6,0,2159,0,12],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae9073aa689450fca369fa99815804f61":[6,0,2159,0,17],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae91bdf876060d8ff6fdf4fbf797d07d8":[6,0,2159,0,0],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aeeeebf8e7c9351ce7ec6b9b86c6180da":[6,0,2159,0,23],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#af6b067b16ecd834513590e51e6ddd485":[6,0,2159,0,4],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac3bb42dd096d49e138399aac2d0616c0":[6,0,2158,0,3],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#addb829b3cef88f6430c2a1ae5251105f":[6,0,2158,0,22],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae097af2a0aaeecc237a73ab3d4fafb0f":[6,0,2158,0,12],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae9073aa689450fca369fa99815804f61":[6,0,2158,0,17],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae91bdf876060d8ff6fdf4fbf797d07d8":[6,0,2158,0,0],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aeeeebf8e7c9351ce7ec6b9b86c6180da":[6,0,2158,0,23],
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#af6b067b16ecd834513590e51e6ddd485":[6,0,2158,0,4],
 "db/dd5/classCreature.html":[6,0,907],
 "db/dd5/classCreature.html#a00d974a3f97e003cadb1760538d8be27":[6,0,907,190],
 "db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571":[6,0,907,201],
@@ -249,5 +244,10 @@ var NAVTREEINDEX288 =
 "db/dd5/classCreature.html#ac9af7951044c7a1059b6ad383c413ef3":[6,0,907,225],
 "db/dd5/classCreature.html#acaf3b49c2d63ddefde205e8a411ce0c9":[6,0,907,84],
 "db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e":[6,0,907,214],
-"db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8":[6,0,907,224]
+"db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8":[6,0,907,224],
+"db/dd5/classCreature.html#acbf61d5c54e93808734562b8bd02d2a9":[6,0,907,216],
+"db/dd5/classCreature.html#acc1b9708bc38b39a2c878dfa3ae503e7":[6,0,907,140],
+"db/dd5/classCreature.html#acc2c5f7925a968c540b54b5f126a0f7d":[6,0,907,74],
+"db/dd5/classCreature.html#acdf0f0b5b6eb03aed0ba9a188f156d9e":[6,0,907,236],
+"db/dd5/classCreature.html#ace3244d1ca6f0af9ca70ae6a4da76e1a":[6,0,907,54]
 };

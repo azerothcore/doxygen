@@ -1,10 +1,5 @@
 var NAVTREEINDEX254 =
 {
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9":[7,0,0,0,1,3,5,6,10,79,5],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431":[7,0,0,0,1,3,5,6,10,79,10],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba487d113f5c278059d4b918086c275225":[7,0,0,0,1,3,5,6,10,79,2],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba661c65ae92e776ae2fabf52e13241bd4":[7,0,0,0,1,3,5,6,10,79,3],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba6f518a1d708b492e3304a20b1acc44ab":[7,0,0,0,1,3,5,6,10,79,6],
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba967fb816432d73e72a935b03d3fdf287":[7,0,0,0,1,3,5,6,10,79,0],
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba9cc87d6fe875c0abce87f9bcf834779b":[7,0,0,0,1,3,5,6,10,79,7],
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8badb6489a662fb1f672e55cc152340d6af":[7,0,0,0,1,3,5,6,10,79,9],
@@ -249,5 +244,10 @@ var NAVTREEINDEX254 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae01b0339d7e9a782c9dd5d2bc3a9dc7a":[7,0,0,0,1,3,5,6,10,78,25],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae40828636422c5a0120bac5b12b049cf":[7,0,0,0,1,3,5,6,10,78,11],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae473b3ffeef20cbb9d61a70f66598c9f":[7,0,0,0,1,3,5,6,10,78,19],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff6d1325e3e2cd0077e376988d8cd859":[7,0,0,0,1,3,5,6,10,78,70]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff6d1325e3e2cd0077e376988d8cd859":[7,0,0,0,1,3,5,6,10,78,70],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff7ee4bd2a3d0493e491afac2e180aec":[7,0,0,0,1,3,5,6,10,78,30],
+"da/d79/classspell__threatening__gaze__charge.html":[6,0,3848],
+"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[6,0,3848,0],
+"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[6,0,3848,2],
+"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3848,1]
 };

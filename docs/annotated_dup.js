@@ -2232,7 +2232,6 @@ var annotated_dup =
     [ "npc_experience", "d2/dca/classnpc__experience.html", "d2/dca/classnpc__experience" ],
     [ "npc_eye_of_acherus", "d0/d7a/structnpc__eye__of__acherus.html", "d0/d7a/structnpc__eye__of__acherus" ],
     [ "npc_eye_tentacle", "d3/d96/structnpc__eye__tentacle.html", "d3/d96/structnpc__eye__tentacle" ],
-    [ "npc_feedin_da_goolz", "d5/dbd/classnpc__feedin__da__goolz.html", "d5/dbd/classnpc__feedin__da__goolz" ],
     [ "npc_fel_guard_hound", "da/dfa/classnpc__fel__guard__hound.html", "da/dfa/classnpc__fel__guard__hound" ],
     [ "npc_fel_infernal", "d9/dcd/classnpc__fel__infernal.html", "d9/dcd/classnpc__fel__infernal" ],
     [ "npc_ferocious_rhino", "d6/da5/classnpc__ferocious__rhino.html", "d6/da5/classnpc__ferocious__rhino" ],
