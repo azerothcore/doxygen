@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_0',['n',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n']]],
+  ['n_0',['n',['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N']]],
   ['na_5fbuff_5fzone_1',['NA_BUFF_ZONE',['../df/d9a/OutdoorPvPNA_8h.html#ae9287f13e383331fe53c5a514989ca99',1,'OutdoorPvPNA.h']]],
   ['na_5fcredit_5fmarker_2',['NA_CREDIT_MARKER',['../df/d9a/OutdoorPvPNA_8h.html#a8c04516b1462a78d64563849fe3136a1',1,'OutdoorPvPNA.h']]],
   ['na_5fguard_5fcheck_5ftime_3',['NA_GUARD_CHECK_TIME',['../df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf',1,'OutdoorPvPNA.h']]],
@@ -90,7 +90,7 @@ var searchData=
   ['newmountguid_87',['NewMountGUID',['../d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a06e384e12f998cd1165255199dec6371',1,'boss_grand_champion::boss_grand_championAI']]],
   ['newpower_88',['newPower',['../dd/d27/structSmartAction.html#a14e689eb32d8aa1bc56bdac0432338f6',1,'SmartAction']]],
   ['newtoqueuestore_89',['newToQueueStore',['../dd/da2/classlfg_1_1LFGQueue.html#aaba8b19f883004cfe6fff5ca561aff46',1,'lfg::LFGQueue']]],
-  ['next_90',['next',['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71',1,'Acore::Impl::MPSCQueueNonIntrusive::Node::Next'],['../dd/d1c/structSpellChainNode.html#a0a7791b7069912a013299e7afaf4142f',1,'SpellChainNode::next']]],
+  ['next_90',['next',['../dd/d1c/structSpellChainNode.html#a0a7791b7069912a013299e7afaf4142f',1,'SpellChainNode::next'],['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71',1,'Acore::Impl::MPSCQueueNonIntrusive::Node::Next']]],
   ['nextarcaneexplosiontime_91',['nextArcaneExplosionTime',['../d8/daa/structboss__okthor_1_1boss__okthorAI.html#a89d8cdd528775ee77caeac1d0465d4f2',1,'boss_okthor::boss_okthorAI']]],
   ['nextarenateamid_92',['NextArenaTeamId',['../d3/da8/classArenaTeamMgr.html#a7d542a1eea7a8f9c5c3f91552b5e1a30',1,'ArenaTeamMgr']]],
   ['nextarrivetime_93',['NextArriveTime',['../dd/d3a/structKeyFrame.html#a51fb15713126d4890bfe99dc00e421f7',1,'KeyFrame']]],
@@ -127,7 +127,7 @@ var searchData=
   ['normfaction_124',['NormFaction',['../d1/d11/structnpc__plucky_1_1npc__pluckyAI.html#afd9c6fccf4c30b4fbc62bfa951665949',1,'npc_plucky::npc_pluckyAI']]],
   ['northforgepos_125',['northForgePos',['../d1/d43/boss__forgemaster__garfrost_8cpp.html#a37c3a9c0f86a22051ef229548afa2603',1,'boss_forgemaster_garfrost.cpp']]],
   ['northrendbeastsmask_126',['northrendBeastsMask',['../d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a2cc64b81560df68cc159e230ec25fb5c',1,'instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript']]],
-  ['note_127',['note',['../d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a',1,'ProgressionRequirement::note'],['../d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f',1,'FriendInfo::Note'],['../dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94',1,'WorldPackets::Guild::GuildRosterMemberData::Note'],['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41',1,'WorldPackets::Guild::GuildSetMemberNote::Note']]],
+  ['note_127',['note',['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41',1,'WorldPackets::Guild::GuildSetMemberNote::Note'],['../d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a',1,'ProgressionRequirement::note'],['../d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f',1,'FriendInfo::Note'],['../dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94',1,'WorldPackets::Guild::GuildRosterMemberData::Note']]],
   ['noteename_128',['NoteeName',['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af',1,'WorldPackets::Guild::GuildSetMemberNote']]],
   ['nothposition_129',['nothPosition',['../d8/d35/boss__noth_8cpp.html#a5ea7a58738763ee366de28d98ae5a025',1,'boss_noth.cpp']]],
   ['notincombat_130',['notInCombat',['../dd/d3b/structGameObjectTemplate.html#afab75dce09111797347fb1b46d081903',1,'GameObjectTemplate']]],

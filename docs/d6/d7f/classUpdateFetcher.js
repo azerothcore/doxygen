@@ -12,6 +12,7 @@ var classUpdateFetcher =
     [ "State", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cb", [
       [ "RELEASED", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a", null ],
       [ "CUSTOM", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4", null ],
+      [ "PENDING", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cba34c826a491acfc2f451ee3d596d85763", null ],
       [ "MODULE", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4", null ],
       [ "ARCHIVED", "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8", null ]
     ] ],

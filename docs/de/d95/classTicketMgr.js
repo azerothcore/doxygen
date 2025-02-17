@@ -25,7 +25,7 @@ var classTicketMgr =
     [ "ShowClosedList", "de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592", null ],
     [ "ShowEscalatedList", "de/d95/classTicketMgr.html#a84182a16a815a9bdcd54118bc62a93c4", null ],
     [ "ShowList", "de/d95/classTicketMgr.html#af1176e11f3cb248599a0684b8a779012", null ],
-    [ "UpdateLastChange", "de/d95/classTicketMgr.html#aa225ab2b5709ce806e579e90b517f150", null ],
+    [ "UpdateLastChange", "de/d95/classTicketMgr.html#a07baf2322b9c2b51251fc921b1767a44", null ],
     [ "_lastChange", "de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423", null ],
     [ "_lastSurveyId", "de/d95/classTicketMgr.html#a711629e4c21f66401248b9f8d8e7c511", null ],
     [ "_lastTicketId", "de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1", null ],

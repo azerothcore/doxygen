@@ -4215,6 +4215,7 @@ var hierarchy =
       ] ],
       [ "GuildScript", "dd/d25/classGuildScript.html", null ],
       [ "InstanceMapScript", "dc/d07/classInstanceMapScript.html", [
+        [ "GenericInstanceMapScript< IS >", "d0/db1/classGenericInstanceMapScript.html", null ],
         [ "instance_ahnkahet", "d5/dc6/classinstance__ahnkahet.html", null ],
         [ "instance_arcatraz", "df/d3c/classinstance__arcatraz.html", null ],
         [ "instance_auchenai_crypts", "d0/d0b/classinstance__auchenai__crypts.html", null ],
@@ -4329,6 +4330,7 @@ var hierarchy =
         [ "spell_q11515_fel_siphon_dummy", "d9/d06/classspell__q11515__fel__siphon__dummy.html", null ],
         [ "spell_q55_sacred_cleansing", "d8/d1e/classspell__q55__sacred__cleansing.html", null ]
       ] ],
+      [ "TicketScript", "d3/db5/classTicketScript.html", null ],
       [ "TransportScript", "db/d16/classTransportScript.html", null ],
       [ "UnitScript", "d2/d12/classUnitScript.html", null ],
       [ "VehicleScript", "d7/d60/classVehicleScript.html", null ],

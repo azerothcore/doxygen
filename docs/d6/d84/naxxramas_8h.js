@@ -56,7 +56,8 @@ var naxxramas_8h =
     [ "NXEvents", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0a", [
       [ "EVENT_THADDIUS_SCREAMS", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0aa2fb92cd40a3d7109586578fc0a28bb63", null ],
       [ "EVENT_KELTHUZAD_WING_TAUNT", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0aac02d11e89679fe53e690bfdd21b25e8a", null ],
-      [ "EVENT_FROSTWYRM_WATERFALL_DOOR", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0aa98b693dc68f4d408d41ce2e4c08edef4", null ]
+      [ "EVENT_FROSTWYRM_WATERFALL_DOOR", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0aa98b693dc68f4d408d41ce2e4c08edef4", null ],
+      [ "EVENT_HORSEMEN_INTRO", "d6/d84/naxxramas_8h.html#a95c6464d34bef766ec75b8b516583e0aad284f50593ed6161e93dba73c14b8a09", null ]
     ] ],
     [ "NXGOs", "d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46", [
       [ "GO_PATCHWERK_GATE", "d6/d84/naxxramas_8h.html#a3e0b36a19f583e1b943423e019ad8a46a16f059a3675ffbf7091356caede306ab", null ],
@@ -137,7 +138,9 @@ var naxxramas_8h =
       [ "SAY_SAPP_DIALOG5", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2fa7d05ae866dfe1230691f1c4adf6df4e2", null ],
       [ "SAY_SAPP_DIALOG6", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2fa303819d029cc25755488598ced29068b", null ],
       [ "SAY_CAT_DIED", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2faf22d7819d4a04dd5524fcd51d60d8c21", null ],
-      [ "SAY_FIRST_WING_TAUNT", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2faa63360fcfe178d377aa40c2e7e14a1ca", null ]
+      [ "SAY_FIRST_WING_TAUNT", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2faa63360fcfe178d377aa40c2e7e14a1ca", null ],
+      [ "SAY_HORSEMEN_DIALOG1", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2fa784e247e76fa3ce297a95b05d6a7da21", null ],
+      [ "SAY_HORSEMEN_DIALOG2", "d6/d84/naxxramas_8h.html#af1aeea265734da2aff9539892f9fcf2fa25ca8f1ed683348f618116ae9ca08560", null ]
     ] ],
     [ "GetNaxxramasAI", "d6/d84/naxxramas_8h.html#a2804991aa85bbb3543625b8fe2a2df79", null ]
 ];

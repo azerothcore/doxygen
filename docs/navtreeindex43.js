@@ -1,5 +1,8 @@
 var NAVTREEINDEX43 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8e30ea5c027e4a14eba2120e51309d14":[7,0,0,0,1,2,3,2,5,18,111],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8eca93835d3b2825a2029ceee7abec80":[7,0,0,0,1,2,3,2,5,18,33],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca926eb5c85b23ec66c3acb92f0a5f1edc":[7,0,0,0,1,2,3,2,5,18,164],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca9540e2a4e545552a9d08ee8e04e61116":[7,0,0,0,1,2,3,2,5,18,1],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca97b732775c8c2019bc2a3c4765e502b5":[7,0,0,0,1,2,3,2,5,18,78],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca99cfbc2c588d11cb93773d05f9f6d557":[7,0,0,0,1,2,3,2,5,18,45],
@@ -236,18 +239,15 @@ var NAVTREEINDEX43 =
 "d1/dc3/SmartScriptMgr_8h.html#acd26a1a0a2488cd1cfa946dab6ed4b8cafab51dde761ac461b9ca8db0ec48b6ad":[7,0,0,0,1,2,3,2,5,20,13],
 "d1/dc3/SmartScriptMgr_8h.html#ad4f4d9e70444f2b543bd9f53118150eb":[7,0,0,0,1,2,3,2,5,14],
 "d1/dc3/SmartScriptMgr_8h.html#add3ebeb0fb87dda9a06c8135846c6b81":[7,0,0,0,1,2,3,2,5,34],
-"d1/dc3/classspell__gluth__decimate.html":[6,0,3001],
-"d1/dc3/classspell__gluth__decimate.html#a21a3175346c9b12c02205f2d33da3b86":[6,0,3001,1],
-"d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[6,0,3001,3],
-"d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[6,0,3001,2],
-"d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,3001,0],
+"d1/dc3/classspell__gluth__decimate.html":[6,0,3002],
+"d1/dc3/classspell__gluth__decimate.html#a21a3175346c9b12c02205f2d33da3b86":[6,0,3002,1],
+"d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[6,0,3002,3],
+"d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[6,0,3002,2],
+"d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,3002,0],
 "d1/dc3/structAcore_1_1dependant__false.html":[5,0,1,58],
 "d1/dc3/structAcore_1_1dependant__false.html":[6,0,0,46],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[6,0,0,46,0],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,58,0],
 "d1/dc3/struct__Spell.html":[6,0,15],
-"d1/dc3/struct__Spell.html#a16909465a3a20dbab6e3ca2e3c807f17":[6,0,15,2],
-"d1/dc3/struct__Spell.html#a39657ff9e561a3c86a671f7b3c78ef98":[6,0,15,6],
-"d1/dc3/struct__Spell.html#a5b208a667802e4c3766619c96d267287":[6,0,15,5],
-"d1/dc3/struct__Spell.html#a8a33274d71b410f24f110e9a5921ff18":[6,0,15,1]
+"d1/dc3/struct__Spell.html#a16909465a3a20dbab6e3ca2e3c807f17":[6,0,15,2]
 };

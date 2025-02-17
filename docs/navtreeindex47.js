@@ -1,5 +1,8 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a2e35569a890d85938ce046a63ada28ebae3dbe038ce1db94abb07c9fba15e3bd9":[7,0,0,0,1,3,9,2,192,0],
+"d1/de4/spell__generic_8cpp.html#a3753c6e1b6dd7e2a40bdd3d88fdc4aa1":[7,0,0,0,1,3,9,2,160],
+"d1/de4/spell__generic_8cpp.html#a3753c6e1b6dd7e2a40bdd3d88fdc4aa1a0336989c80115e3f31f9505d0dd6eeb3":[7,0,0,0,1,3,9,2,160,1],
 "d1/de4/spell__generic_8cpp.html#a3753c6e1b6dd7e2a40bdd3d88fdc4aa1a0ef65b7c92337e0433d83f75bfd60803":[7,0,0,0,1,3,9,2,160,2],
 "d1/de4/spell__generic_8cpp.html#a3753c6e1b6dd7e2a40bdd3d88fdc4aa1a310498cd01121eaacff6672628caa7ed":[7,0,0,0,1,3,9,2,160,0],
 "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149":[7,0,0,0,1,3,9,2,194],
@@ -246,8 +249,5 @@ var NAVTREEINDEX47 =
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html":[6,0,463,0],
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a04cb1d2fa18dba82b9c881b09406a076":[6,0,463,0,1],
 "d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a6e35e47b23d713263ef00769324bbbed":[6,0,463,0,2],
-"d1/de5/structboss__firemaw_1_1boss__firemawAI.html#ab3f56c97119676b1a75662e52caecb75":[6,0,463,0,0],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html":[6,0,1189],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html#aa204af213a643c001161e0c2f173ee6b":[6,0,1189,0],
-"d1/de6/classgo__ulduar__do__not__push__this__button.html#ae11efa54b496ab21600a9c62e50b5fbe":[6,0,1189,1]
+"d1/de5/structboss__firemaw_1_1boss__firemawAI.html#ab3f56c97119676b1a75662e52caecb75":[6,0,463,0,0]
 };

@@ -18,6 +18,7 @@ var structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript =
     [ "_abomGlowEyePortalGUID", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a459dfeb6e863b77c0286a24bd31cbaa7", null ],
     [ "_anubNextGateGUID", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a8165406be67e3ac7fcb7959c1edf6fd1", null ],
     [ "_blaumeuxGUID", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a7b59c9f271078e46f59f17388385c035", null ],
+    [ "_currentHorsemenLine", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#afb7321ab52997a4effb9bec42aea46d6", null ],
     [ "_currentWingTaunt", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a034539903c3f55c4366a428aa1661855", null ],
     [ "_deathknightEyePortalGUID", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a86c0a92699bfcf30f37113f966619721", null ],
     [ "_deathknightGlowEyePortalGUID", "d3/d41/structinstance__naxxramas_1_1instance__naxxramas__InstanceMapScript.html#a38615407c1fbe5eb8399f0e118a71792", null ],
