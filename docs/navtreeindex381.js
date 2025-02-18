@@ -1,9 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55":[7,0,0,0,1,3,5,1,0,0,14,8],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39cddfd73c7a581aaae8b86425ab0513":[7,0,0,0,1,3,5,1,0,0,14,11],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430":[7,0,0,0,1,3,5,1,0,0,14,15],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a859e0907cf7afb553a4e513dd7b69160":[7,0,0,0,1,3,5,1,0,0,14,6],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e4b041fca086c68a936ab58b730ac6":[7,0,0,0,1,3,5,1,0,0,14,9],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e32ad5ac07b499ea8433d2ea86eba74":[7,0,0,0,1,3,5,1,0,0,14,5],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e8e661302d7248dbe4a907ba41efd24":[7,0,0,0,1,3,5,1,0,0,14,7],
@@ -249,5 +245,9 @@ var NAVTREEINDEX381 =
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a75aa55580bed475e88e9071fa5284267":[6,0,594,0,10],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a7f10837eafefefb87b338410c5994362":[6,0,594,0,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a852589ca84562ad1a9dcdd403fe5aa83":[6,0,594,0,2],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5":[6,0,594,0,9]
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5":[6,0,594,0,9],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#abcc993a205602484fb46a67bc68dbbd9":[6,0,594,0,5],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#ac1d7b3844f9019ea6485de7616caff95":[6,0,594,0,7],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#acee7b1758b670a688fe1afcdef3b9f8c":[6,0,594,0,4],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#af06da24e8bedf922895c8c591c1def04":[6,0,594,0,6]
 };

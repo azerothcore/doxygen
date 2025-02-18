@@ -1,9 +1,5 @@
 var NAVTREEINDEX320 =
 {
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
-"dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,454,0],
-"dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,454,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,454,0,6],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a2a7de8f939cd3cdc113c841da36e28c8":[6,0,454,0,1],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a4a8b45eb85c1328af6beec69f2db1842":[6,0,454,0,5],
@@ -107,8 +103,8 @@ var NAVTREEINDEX320 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,427,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,427,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,427,0,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX320 =
 "dd/d52/classGuildMgr.html#ae90afb785961e122afc419a61dfb20c1":[6,0,1247,2],
 "dd/d52/classGuildMgr.html#aef69fd59528ec594c76ae390a4ba05bd":[6,0,1247,9],
 "dd/d52/classGuildMgr.html#af9ff736e84a18d8dfce3826c9459df37":[6,0,1247,7],
-"dd/d52/structCreatureData.html":[6,0,913]
+"dd/d52/structCreatureData.html":[6,0,913],
+"dd/d52/structCreatureData.html#a05ac0d5358ba012c40155efee608772e":[6,0,913,23],
+"dd/d52/structCreatureData.html#a116526b4b43aa76b5f739c0f498a3144":[6,0,913,15],
+"dd/d52/structCreatureData.html#a1f0910de3138ea16397173c9821acf35":[6,0,913,21],
+"dd/d52/structCreatureData.html#a25d7752e9510c8019469b8a09ce1b059":[6,0,913,6]
 };

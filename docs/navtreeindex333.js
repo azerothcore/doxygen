@@ -1,9 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[6,0,16,3],
-"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,16,19],
-"dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,16,18],
-"dd/ddb/class__SpellScript.html#a423786f1fc45a010a4ebc16db2645a1f":[6,0,16,10],
 "dd/ddb/class__SpellScript.html#a6a2621e4aeda24af6ec55b9a8c461262":[6,0,16,4],
 "dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df":[6,0,16,8],
 "dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e":[6,0,16,15],
@@ -249,5 +245,9 @@ var NAVTREEINDEX333 =
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[6,0,3006,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#aaefd5b15f7a3725b2663c0717fe22c92":[6,0,3006,1],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#ad7ba015a7878adad0820cf378d2632ca":[6,0,3006,2],
-"dd/dec/classChannelMgr.html":[6,0,843]
+"dd/dec/classChannelMgr.html":[6,0,843],
+"dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed":[6,0,843,13],
+"dd/dec/classChannelMgr.html#a1d672ab806b5e00bdd96d3a56fe3520b":[6,0,843,11],
+"dd/dec/classChannelMgr.html#a2f9099cf528aacae9110d349841e57a7":[6,0,843,3],
+"dd/dec/classChannelMgr.html#a41bbe928d2e50c899a10b4b7da0e1a68":[6,0,843,12]
 };

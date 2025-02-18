@@ -1,6 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d43/classspell__gen__aura__service__uniform.html#aa38abcc9fa49fc2c397edbfff2c0ea0d":[6,0,2875,0],
 "d3/d43/classspell__gen__aura__service__uniform.html#acb57b284b9d9116b6b0c0a758e09a8d5":[6,0,2875,2],
 "d3/d43/classspell__pos__blight__aura.html":[6,0,3492],
 "d3/d43/classspell__pos__blight__aura.html#a008166d25e7a278507e953325f40ccd5":[6,0,3492,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX97 =
 "d3/d57/classspell__random__aggro.html#a2270ce546ae286ffa701d094df591aa2":[6,0,3656,1],
 "d3/d57/classspell__random__aggro.html#a710f2a60bf6ae00909d279b98ac6b7d6":[6,0,3656,2],
 "d3/d57/classspell__random__aggro.html#a76b09288d14d399735250607e2105eb3":[6,0,3656,0],
-"d3/d5b/classLichKingDeathEvent.html":[6,0,1407]
+"d3/d5b/classLichKingDeathEvent.html":[6,0,1407],
+"d3/d5b/classLichKingDeathEvent.html#a06b9a77d3c5efb228368a1e423a620ae":[6,0,1407,1]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX171 =
 {
-"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ea6f59bef5aacd997ec3c2c234baf9896d":[7,0,0,0,1,3,4,0,0,1,2],
-"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963eac83289e3699f1f6e12eb19c00d658571":[7,0,0,0,1,3,4,0,0,1,1],
-"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ead4d5225ce2046abd5430cbb92a5ee2a6":[7,0,0,0,1,3,4,0,0,1,0],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,4,0,0,2],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4842090ac3ea8e0e3f79e41bd8540a80":[7,0,0,0,1,3,4,0,0,2,6],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4f42b03438989f88459efb5c4a84e4d5":[7,0,0,0,1,3,4,0,0,2,4],
@@ -206,8 +203,8 @@ var NAVTREEINDEX171 =
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
 "d6/d75/boss__varos_8cpp.html#a075a51f16e112a721f01da6beedbbb6f":[7,0,0,0,1,3,5,8,2,3,2],
 "d6/d75/boss__varos_8cpp.html#a088f90a94bfd48bdd631e135332dee31":[7,0,0,0,1,3,5,8,2,3,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX171 =
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006a50b1f51e04f71142aff9fca977ef4771":[7,0,0,0,1,3,5,8,2,3,8,0],
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006a881ba623b2d01d44962ddc174d393488":[7,0,0,0,1,3,5,8,2,3,8,1],
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006addc188f99f0b762351bb96375b425168":[7,0,0,0,1,3,5,8,2,3,8,2],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[6,0,283,11]
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[6,0,283,11],
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b":[6,0,283,11,2],
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[6,0,283,11,0],
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[6,0,283,11,1]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d95/classspell__pri__pain__and__suffering__proc.html#a852a621f0b008dc1294dbeb9e9877a04":[6,0,3510,0],
-"d8/d95/classspell__pri__pain__and__suffering__proc.html#a8b0f656994289f260645a2ae60d9ee4b":[6,0,3510,1],
-"d8/d95/structItemSetNameLocale.html":[6,0,1389],
-"d8/d95/structItemSetNameLocale.html#aab0b8fc04dcd6a8c551f5dfc4846b290":[6,0,1389,0],
 "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI.html":[6,0,1775,0],
 "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI.html#a15fefb756ad1ae20257d4ed9cb1d3eca":[6,0,1775,0,2],
 "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI.html#a28c0ed65521f3d2150874ddc1b913933":[6,0,1775,0,4],
@@ -83,14 +79,14 @@ var NAVTREEINDEX219 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1650,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1650,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1650,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,30,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2480],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2480,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2480,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX219 =
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#aa8892e7f2bec9f26320cd9749e648ebd":[6,0,1749,1],
 "d8/da6/classnpc__freya__ward.html":[6,0,1784],
 "d8/da6/classnpc__freya__ward.html#a90c0e7a0be1717bf1793415b6fcafbed":[6,0,1784,2],
-"d8/da6/classnpc__freya__ward.html#aebaadcc001922c78e8ec43084a827ac9":[6,0,1784,1]
+"d8/da6/classnpc__freya__ward.html#aebaadcc001922c78e8ec43084a827ac9":[6,0,1784,1],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,443,0],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a1544782732beba5d7114c3bb70419ae1":[6,0,443,0,3],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a16c90dba1f0a7f4cc2025e294dbac455":[6,0,443,0,11],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36":[6,0,443,0,8]
 };

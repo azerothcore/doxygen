@@ -1,9 +1,5 @@
 var NAVTREEINDEX294 =
 {
-"db/dff/QueryHandler_8cpp.html":[7,0,0,0,1,2,22,25],
-"db/dff/classnpc__gunship__boarding__add.html":[6,0,1816],
-"db/dff/classnpc__gunship__boarding__add.html#aa80871f80bae7186d3665f73d757e108":[6,0,1816,1],
-"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1816,2],
 "dc/d00/AllCreatureScript_8h.html":[7,0,0,0,1,2,38,0,11],
 "dc/d00/chapter5_8cpp.html":[7,0,0,0,1,3,2,6,3],
 "dc/d00/chapter5_8cpp.html#a2361288a6bfc083ea12d77072611faa0":[7,0,0,0,1,3,2,6,3,6],
@@ -249,5 +245,9 @@ var NAVTREEINDEX294 =
 "dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,974,0],
 "dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,974,4],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2644],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2644,1]
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2644,1],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2644,0],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2644,2],
+"dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
+"dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[7,0,0,0,1,3,7,4,1,4,2]
 };

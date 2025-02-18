@@ -1,8 +1,5 @@
 var NAVTREEINDEX169 =
 {
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dab5ab89eecddb77f7eac790254e6833de":[7,0,0,0,1,2,7,0,1,17,12],
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dab6437d1b56bdd3dbed3dad05ed79dfcd":[7,0,0,0,1,2,7,0,1,17,1],
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dac7ca7dae60d6d6b8268e747e1f50be3d":[7,0,0,0,1,2,7,0,1,17,17],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daceca3c889fc7f521c62886d5c890332c":[7,0,0,0,1,2,7,0,1,17,27],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad37016932bb6d19c2bd649a185ede936":[7,0,0,0,1,2,7,0,1,17,25],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad5e71a439ac8c7d779b13298d7a53601":[7,0,0,0,1,2,7,0,1,17,20],
@@ -249,5 +246,8 @@ var NAVTREEINDEX169 =
 "d6/d59/classAutobroadcastMgr.html#aadbd8ca926a64be4fbbe832fd633ee88":[6,0,293,10],
 "d6/d59/classAutobroadcastMgr.html#ace584bb6b66c8944e1405ec0af686d3a":[6,0,293,6],
 "d6/d59/classAutobroadcastMgr.html#aead196df7f590d43c89f179ca0bd4a68":[6,0,293,2],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html":[7,0,0,0,1,3,6,0]
+"d6/d5a/outdoorpvp__script__loader_8cpp.html":[7,0,0,0,1,3,6,0],
+"d6/d5a/outdoorpvp__script__loader_8cpp.html#a03015585e7619177355fefd05f85e1c7":[7,0,0,0,1,3,6,0,4],
+"d6/d5a/outdoorpvp__script__loader_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[7,0,0,0,1,3,6,0,2],
+"d6/d5a/outdoorpvp__script__loader_8cpp.html#a3077d08865fa83f84cf956c392a9091c":[7,0,0,0,1,3,6,0,7]
 };

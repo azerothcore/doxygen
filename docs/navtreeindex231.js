@@ -1,9 +1,5 @@
 var NAVTREEINDEX231 =
 {
-"d9/d45/classboss__vezax.html#af778f9ef3070598f8ca5109b2f6f0f82":[6,0,765,1],
-"d9/d47/CharmInfo_8cpp.html":[7,0,0,0,1,2,16,10,0],
-"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html":[6,0,2171,0],
-"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a293d5fca2940432c4eea57c5de5a1fdc":[6,0,2171,0,3],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a54dee5d9b0f17bad21e8c1e275f0b222":[6,0,2171,0,1],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#aa01bf528b10ed7bbdfe9b03694e51845":[6,0,2171,0,0],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#ab4f4b11e2b250fb24de6c069c5e38208":[6,0,2171,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX231 =
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a9c280422bcddaae9e839e232c71bae29":[6,0,1341,0,22],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aa4189d7a2bdb2966f9a0b6790b7bcf5d":[6,0,1341,0,25],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aaffc4597af0d2591cd29c0b488676e10":[6,0,1341,0,32],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab44f15e5e59b4a5c5bb8388d5aef48e1":[6,0,1341,0,8]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab44f15e5e59b4a5c5bb8388d5aef48e1":[6,0,1341,0,8],
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab77f583b714b73c85c3b82fc2fbb3ad9":[6,0,1341,0,7],
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aba0f2cde89b5c5bdf1c0c380c22f400b":[6,0,1341,0,17],
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#acb650a26d1dfcee19c3a7e4fbb8835aa":[6,0,1341,0,21],
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ad3a93053a5e4f0ef5034428f74dd8348":[6,0,1341,0,31]
 };

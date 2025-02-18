@@ -1,9 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"df/d3e/namespaceGameTime.html#ad5fc2a056410eeac2e2717f91cb8295c":[5,0,16,7],
-"df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2":[5,0,16,0],
-"df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,16,4],
-"df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,16,5],
 "df/d3e/structBG__SA__RoundScore.html":[6,0,348],
 "df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[6,0,348,0],
 "df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[6,0,348,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX378 =
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a986f19145e46f5975f22a84a3e1b10ee":[6,0,1604,0,3],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[6,0,1604,0,0],
 "df/d54/classat__ring__of__law.html":[6,0,234],
-"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,234,1]
+"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,234,1],
+"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,234,0],
+"df/d54/classat__underbog__ghazan.html":[6,0,247],
+"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,247,0],
+"df/d54/classat__underbog__ghazan.html#aff03fc0bbded7bf7fa68d0c736bfaff2":[6,0,247,1]
 };

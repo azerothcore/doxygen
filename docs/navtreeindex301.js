@@ -1,9 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d3b/classachievement__bg__ic__mowed__down.html#a385e09c605084900f374090e5e19c24f":[6,0,39,1],
-"dc/d3b/classachievement__bg__ic__mowed__down.html#ab05387d1e14958e87123bd0fc2188445":[6,0,39,0],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html":[6,0,1638],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html#a5dc83a92fbe2eb4d6faa30f23a9ac777":[6,0,1638,1],
 "dc/d3b/classnpc__black__knight__skeletal__gryphon.html#aad244f95877a208b56a2b6544984d724":[6,0,1638,2],
 "dc/d3b/classspell__the__lich__king__infest__aura.html":[6,0,3820],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,3820,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX301 =
 "dc/d4c/classOutdoorPvPZM.html#ae0c3a1c02e364d63f1579c368fe7df8e":[6,0,2346,13],
 "dc/d4c/classOutdoorPvPZM.html#aff4124f54572e0812c39562fbc6390c3":[6,0,2346,12],
 "dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3477],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3477,0]
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3477,0],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3477,3],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3477,1],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3477,2],
+"dc/d4d/ArenaTeamHandler_8cpp.html":[7,0,0,0,1,2,22,2]
 };

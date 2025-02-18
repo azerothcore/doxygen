@@ -1,9 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744adda62666c22bfb57a7054f84a9699e96":[7,0,0,0,1,3,7,5,3,6,5,2],
-"df/ded/mechanar_8h.html#adf30040e6cb1523a4badbeec93b9ec6d":[7,0,0,0,1,3,7,5,3,6,1],
-"df/ded/mechanar_8h.html#ae4698fbff4770ad6546c4cb256cd3bfc":[7,0,0,0,1,3,7,5,3,6,2],
-"df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,5,3,6,4],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a41c4d833a970359acddae580527f47e3":[7,0,0,0,1,3,7,5,3,6,4,3],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a737b73a75ea3258deccf10804f459315":[7,0,0,0,1,3,7,5,3,6,4,2],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,5,3,6,4,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX396 =
 "df/df7/boss__drakos_8cpp.html#a9b6e942098b05e96df3467d6c45f057c":[7,0,0,0,1,3,5,8,2,0,5],
 "df/df7/boss__drakos_8cpp.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815":[7,0,0,0,1,3,5,8,2,0,5,0],
 "df/df7/boss__drakos_8cpp.html#a9ebe730e1ca4a8adafaaf46acc268a3e":[7,0,0,0,1,3,5,8,2,0,9],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,0,6]
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,0,6],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a147cb1e026431254297f5950e80d12d8":[7,0,0,0,1,3,5,8,2,0,6,1],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a602c4b9dbf5b8a6350c97f5a074794f7":[7,0,0,0,1,3,5,8,2,0,6,0],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,8,2,0,6,2],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,6,3]
 };

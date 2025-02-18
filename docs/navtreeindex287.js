@@ -1,9 +1,5 @@
 var NAVTREEINDEX287 =
 {
-"db/dce/classAura.html#aad107d81d9d0898ac5922504526dd07e":[6,0,276,39],
-"db/dce/classAura.html#aaddb94cd3bd95b145a8b8392e9feecca":[6,0,276,74],
-"db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6":[6,0,276,72],
-"db/dce/classAura.html#aaf49ca3ee98e09b072985755bcfb2d34":[6,0,276,3],
 "db/dce/classAura.html#ab048dcde17f19db0f48464f9cdea182b":[6,0,276,70],
 "db/dce/classAura.html#ab07705be94c0c10fce558c80d7208e0b":[6,0,276,61],
 "db/dce/classAura.html#ab0d4d20bb3fac4108ba3dbc891d8dec9":[6,0,276,113],
@@ -249,5 +245,9 @@ var NAVTREEINDEX287 =
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a35cfcfd3418295bcb1140d1b8b8266ab":[6,0,2001,4],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a36f15c2c0ec3466b492148303e828403":[6,0,2001,5],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a38253b6d1e1f7fb8fc3fdccb2522a090":[6,0,2001,11],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411":[6,0,2001,10]
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411":[6,0,2001,10],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4c08ed385886a118c165925602b1dff7":[6,0,2001,1],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc":[6,0,2001,6],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a862546ec66d8282c87169305711e4ec7":[6,0,2001,3],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a897e72a4bf279607903bce58a5a45c6f":[6,0,2001,2]
 };

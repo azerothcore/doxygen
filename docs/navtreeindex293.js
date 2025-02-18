@@ -1,9 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"db/dfb/spell__quest_8cpp.html#a359e8dd1f4c8f41dbc34d5a6a7f42f1f":[7,0,0,0,1,3,9,8,105],
-"db/dfb/spell__quest_8cpp.html#a359e8dd1f4c8f41dbc34d5a6a7f42f1fa62206309e5e96a80ecde664266359867":[7,0,0,0,1,3,9,8,105,1],
-"db/dfb/spell__quest_8cpp.html#a359e8dd1f4c8f41dbc34d5a6a7f42f1fa867499a061ccf0010b111a84aa7fa5d7":[7,0,0,0,1,3,9,8,105,0],
-"db/dfb/spell__quest_8cpp.html#a3b72ba924b96495c99f54a2b93047839":[7,0,0,0,1,3,9,8,113],
 "db/dfb/spell__quest_8cpp.html#a3b72ba924b96495c99f54a2b93047839a203aaa2cfbd01c61d9ccf8d1a782e0e8":[7,0,0,0,1,3,9,8,113,0],
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421":[7,0,0,0,1,3,9,8,87],
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421a0afc759d23a72367a8995303f97b19f2":[7,0,0,0,1,3,9,8,87,0],
@@ -197,12 +193,12 @@ var NAVTREEINDEX293 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#af18eee25feb57f41708801f4d772a1ee":[6,0,607,0,13],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#afb7d93501d3559e4163b207bfb9b0d78":[6,0,607,0,12],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#affb313b502fbebaa6937fc3f2a380906":[6,0,607,0,21],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,8,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,30,8,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,8,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,8,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,30,8,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,8,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,8,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,30,8,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,8,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[6,0,11,8,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,30,8,1,0],
 "db/dfd/classboss__anubarak__trial.html":[6,0,374],
@@ -249,5 +245,9 @@ var NAVTREEINDEX293 =
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298caf53f6ec82ee5cc7eba108fd9385579cc":[7,0,0,0,1,3,4,8,0,11,21],
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298cafa3c746f20aa5f459bf84f6873d1adb0":[7,0,0,0,1,3,4,8,0,11,1],
 "db/dfe/boss__ayamiss_8cpp.html#aaff9bf4a1193d28032a46428a879f03d":[7,0,0,0,1,3,4,8,0,12],
-"db/dfe/boss__ayamiss_8cpp.html#aaff9bf4a1193d28032a46428a879f03da2d1cdac72395e4d8222cd2ddd9b285db":[7,0,0,0,1,3,4,8,0,12,0]
+"db/dfe/boss__ayamiss_8cpp.html#aaff9bf4a1193d28032a46428a879f03da2d1cdac72395e4d8222cd2ddd9b285db":[7,0,0,0,1,3,4,8,0,12,0],
+"db/dff/QueryHandler_8cpp.html":[7,0,0,0,1,2,22,25],
+"db/dff/classnpc__gunship__boarding__add.html":[6,0,1816],
+"db/dff/classnpc__gunship__boarding__add.html#aa80871f80bae7186d3665f73d757e108":[6,0,1816,1],
+"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1816,2]
 };

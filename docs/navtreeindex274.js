@@ -1,9 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43":[7,0,0,0,1,3,9,1,37,11],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994":[7,0,0,0,1,3,9,1,37,8],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b":[7,0,0,0,1,3,9,1,37,0],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89":[7,0,0,0,1,3,9,1,37,26],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18":[7,0,0,0,1,3,9,1,37,23],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b":[7,0,0,0,1,3,9,1,37,2],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32":[7,0,0,0,1,3,9,1,37,7],
@@ -249,5 +245,9 @@ var NAVTREEINDEX274 =
 "db/d67/classspell__gen__defend.html":[6,0,2904],
 "db/d67/classspell__gen__defend.html#a399641ce72b74038a4517868267bd86a":[6,0,2904,3],
 "db/d67/classspell__gen__defend.html#aacd9f12cddd0c698816916d9cdf5f0ea":[6,0,2904,2],
-"db/d67/classspell__gen__defend.html#ae5799f72b7fbce82799fd730f1525948":[6,0,2904,5]
+"db/d67/classspell__gen__defend.html#ae5799f72b7fbce82799fd730f1525948":[6,0,2904,5],
+"db/d67/classspell__gen__defend.html#aebfc1dfb1ff025b0ef4a8c0062a000f1":[6,0,2904,0],
+"db/d67/classspell__gen__defend.html#aed4bb9ec815ac4e22b952a64c8bd3b51":[6,0,2904,4],
+"db/d67/classspell__gen__defend.html#aeefbbdd391c347b350ec7738b9825f8c":[6,0,2904,1],
+"db/d67/love__in__air_8cpp.html":[7,0,0,0,1,3,3,5]
 };

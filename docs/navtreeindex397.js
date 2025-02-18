@@ -1,9 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a147cb1e026431254297f5950e80d12d8":[7,0,0,0,1,3,5,8,2,0,6,1],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a602c4b9dbf5b8a6350c97f5a074794f7":[7,0,0,0,1,3,5,8,2,0,6,0],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,8,2,0,6,2],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,6,3],
 "df/df7/classnpc__phantom__hallucination.html":[6,0,2020],
 "df/df7/classnpc__phantom__hallucination.html#a685889c090152a2562ee9adef7efbf71":[6,0,2020,1],
 "df/df7/classnpc__phantom__hallucination.html#a771ee338f87ca0a2e9a7d02d1322c5d5":[6,0,2020,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX397 =
 "dir_d80fbdfc32bca936ccce0e66a1573f7f.html":[7,0,0,0,0,1,0],
 "dir_d8666fd2ba86beec6989660fbdf6542b.html":[7,0,0,0,0,11],
 "dir_d90aaa2ea94453e3d8129317a50f1cad.html":[7,0,0,0,1,3,2,1,2],
-"dir_d9de844c1d859dc2cc6a65181dd33644.html":[7,0,0,0,1,2,8,1]
+"dir_d9de844c1d859dc2cc6a65181dd33644.html":[7,0,0,0,1,2,8,1],
+"dir_da01a965bae6fd871215c00876339143.html":[7,0,0,0,1,3,7,3],
+"dir_ddeb450e5fe586f747c0635391d1d1d6.html":[7,0,0,0,1,3,2],
+"dir_df159a8f325d88d9d469ac728430a4fa.html":[7,0,0,0,1,4,0],
+"dir_e068b882fd581e5818b3e126213c1b22.html":[7,0,0,0,1,3,4,1,0]
 };

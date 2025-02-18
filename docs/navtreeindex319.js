@@ -1,9 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dd/d3a/structKeyFrame.html#a60502cefa4387ffd815ba88530123ac6":[6,0,1394,6],
-"dd/d3a/structKeyFrame.html#a9af26b07943f22473526463f7a0f7c6b":[6,0,1394,9],
-"dd/d3a/structKeyFrame.html#ac243e42c49063db26557d96b5fdf8a8f":[6,0,1394,4],
-"dd/d3a/structKeyFrame.html#ac628c537d5854ddf54d516eaf4471d7f":[6,0,1394,12],
 "dd/d3a/structKeyFrame.html#ad57abe67a7e4771a35621b4204bfe347":[6,0,1394,14],
 "dd/d3a/structKeyFrame.html#ae12ac1910a4aa13557e69bd5e066214b":[6,0,1394,15],
 "dd/d3a/structKeyFrame.html#ae4e0c37d26edb99017bf0042b3e0bad4":[6,0,1394,16],
@@ -246,8 +242,12 @@ var NAVTREEINDEX319 =
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4]
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
+"dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,454,0],
+"dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,454,0,11]
 };

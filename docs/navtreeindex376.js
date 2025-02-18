@@ -1,9 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"df/d23/deadmines_8h.html#a1c13a8c05a90adc47a26dfc907b60659":[7,0,0,0,1,3,2,2,1,1],
-"df/d23/deadmines_8h.html#a430093e84bf56df8f56940091b668c93":[7,0,0,0,1,3,2,2,1,4],
-"df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,2,2,1,2],
-"df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db":[7,0,0,0,1,3,2,2,1,2,0],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,2,2,1,2,2],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c":[7,0,0,0,1,3,2,2,1,2,1],
 "df/d24/classnpc__daphne__stilwell.html":[6,0,1719],
@@ -249,5 +245,9 @@ var NAVTREEINDEX376 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html":[6,0,1351,0],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a03e0ecaffa85c23edacf5bf526fcb4b1":[6,0,1351,0,24],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a070aeb3e9535f30f6a8af4374bc06115":[6,0,1351,0,12],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[6,0,1351,0,20]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[6,0,1351,0,20],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0ef170420596e91cf81b267f2f6bed93":[6,0,1351,0,5],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[6,0,1351,0,0],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[6,0,1351,0,15],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2dba82a79b82db7358638a59799b69e4":[6,0,1351,0,27]
 };

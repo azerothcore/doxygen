@@ -1,9 +1,5 @@
 var NAVTREEINDEX257 =
 {
-"da/d8d/structSkillExtraItemEntry.html#adfda967d36154b039495f0b289a5c9d1":[6,0,2532,3],
-"da/d8f/classboss__maexxna.html":[6,0,596],
-"da/d8f/classboss__maexxna.html#ab438df4cb61625da35552ca7c867dc64":[6,0,596,2],
-"da/d8f/classboss__maexxna.html#ae47a789ac8abe50932b9e000c83b02b2":[6,0,596,1],
 "da/d8f/classspell__wintergrasp__portal.html":[6,0,3968],
 "da/d8f/classspell__wintergrasp__portal.html#a0f0e4621965ea7ed7a108bca6d232ad0":[6,0,3968,3],
 "da/d8f/classspell__wintergrasp__portal.html#a1811115f1732912bdfaeeb8272db2304":[6,0,3968,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX257 =
 "da/d97/Define_8h.html#a1ea3ec26cc8112e6b4750ed2e3099e23":[7,0,0,0,0,21,6],
 "da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d":[7,0,0,0,0,21,20],
 "da/d97/Define_8h.html#a2c5b5e664ed3daebece45d89595e3105":[7,0,0,0,0,21,0],
-"da/d97/Define_8h.html#a31363a4567529bac0c62af57b8249f37":[7,0,0,0,0,21,7]
+"da/d97/Define_8h.html#a31363a4567529bac0c62af57b8249f37":[7,0,0,0,0,21,7],
+"da/d97/Define_8h.html#a3bb8a71f4ae9af551f71e9eb2c9c3325":[7,0,0,0,0,21,18],
+"da/d97/Define_8h.html#a4239bd747d930d5084e8f6e489980585":[7,0,0,0,0,21,3],
+"da/d97/Define_8h.html#a426f0c72f52eca709249d5962bf31b6d":[7,0,0,0,0,21,13],
+"da/d97/Define_8h.html#a9fb461803e0a17b90422b7166f79bd87":[7,0,0,0,0,21,12]
 };

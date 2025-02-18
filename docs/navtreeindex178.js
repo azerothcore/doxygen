@@ -1,8 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604":[7,0,0,0,1,3,3,7,12,19],
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f":[7,0,0,0,1,3,3,7,12,24],
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122":[7,0,0,0,1,3,3,7,12,41],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125":[7,0,0,0,1,3,3,7,12,5],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11":[7,0,0,0,1,3,3,7,12,45],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8":[7,0,0,0,1,3,3,7,12,2],
@@ -101,8 +98,8 @@ var NAVTREEINDEX178 =
 "d6/dcc/classspell__warr__intimidating__shout.html#a2fab1592d19331239b1ef63045389886":[6,0,3945,2],
 "d6/dcc/classspell__warr__intimidating__shout.html#a6224b3193474f569d09edaf29b40c2fb":[6,0,3945,0],
 "d6/dcc/classspell__warr__intimidating__shout.html#ad7478a1a70ebc52eda1c57dd4f143b67":[6,0,3945,1],
-"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[6,0,11,20],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,30,20],
+"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[6,0,11,20],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,30,20,0],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[6,0,11,20,0],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html":[6,0,2592],
@@ -119,10 +116,10 @@ var NAVTREEINDEX178 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,30,5,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,11,5,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,30,5,28,3],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,11,5,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,30,5,28,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,11,5,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,11,5,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,30,5,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,11,5,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[6,0,3077],
 "d6/dce/classspell__hun__lock__and__load.html#a00f06f18b6874302f88c3af193d8e4ed":[6,0,3077,1],
 "d6/dce/classspell__hun__lock__and__load.html#a02590da9b97a4d6bc7a6cbd0e670480f":[6,0,3077,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX178 =
 "d6/dd7/classspell__dreamwalker__summon__portal.html":[6,0,2774],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a11c40abf4db37e1498b1a7ee5089f083":[6,0,2774,2],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a567509ccadbc74b3ba9e420f08a0c2b4":[6,0,2774,0],
-"d6/dd7/classspell__dreamwalker__summon__portal.html#aac5f2cb3e5f498ae46598e95eece825d":[6,0,2774,1]
+"d6/dd7/classspell__dreamwalker__summon__portal.html#aac5f2cb3e5f498ae46598e95eece825d":[6,0,2774,1],
+"d6/dd7/classspell__hallows__end__trick__or__treat.html":[6,0,3041],
+"d6/dd7/classspell__hallows__end__trick__or__treat.html#a26b296c1c4d9f5193dc3773509267284":[6,0,3041,1],
+"d6/dd7/classspell__hallows__end__trick__or__treat.html#a465272dc4e693ab5ce5abd5a3905283b":[6,0,3041,0]
 };

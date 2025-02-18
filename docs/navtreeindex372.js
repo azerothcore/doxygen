@@ -1,9 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a74b9c350c949ab174753708ad4b5cf6d":[7,0,0,0,1,3,2,1,1,0,5,25],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a8122b6f122b7a936d2a9a63016f74c0b":[7,0,0,0,1,3,2,1,1,0,5,11],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a98bf89eb64f42b149d5c60959239de69":[7,0,0,0,1,3,2,1,1,0,5,22],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a9c2be1294a0f496c499e732e48048980":[7,0,0,0,1,3,2,1,1,0,5,6],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ab5b7db92d452173b23d5cc0cfc2b24f4":[7,0,0,0,1,3,2,1,1,0,5,10],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22abb4346b52f32e220c100845e9d81af46":[7,0,0,0,1,3,2,1,1,0,5,13],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22abd19159ba9f15227b78769ce3caa0155":[7,0,0,0,1,3,2,1,1,0,5,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX372 =
 "df/d17/group__world.html#ga5cf53e440c7da53eb6524ea1d658b0e6":[4,2,40],
 "df/d17/group__world.html#ga5ee30d2da0d958800dd3ad582c49d487":[4,2,13],
 "df/d17/group__world.html#ga6bf640d0ef6703c32d9fa1618826319b":[4,2,39],
-"df/d17/group__world.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623":[4,2,41]
+"df/d17/group__world.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623":[4,2,41],
+"df/d17/group__world.html#ga8c3d9f1d251a9b167c9adc99101e5612":[4,2,58],
+"df/d17/group__world.html#ga8db480edb9459ebf73a1363c6fea0b27":[4,2,51],
+"df/d17/group__world.html#gaa452a9be01e00154512cb55980737ae6":[4,2,60],
+"df/d17/group__world.html#gaa50e5243877e8283f30ee9376b2d519e":[4,2,62]
 };

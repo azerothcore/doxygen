@@ -1,9 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#abcc993a205602484fb46a67bc68dbbd9":[6,0,594,0,5],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#ac1d7b3844f9019ea6485de7616caff95":[6,0,594,0,7],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#acee7b1758b670a688fe1afcdef3b9f8c":[6,0,594,0,4],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#af06da24e8bedf922895c8c591c1def04":[6,0,594,0,6],
 "df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2044],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2044,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2044,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX382 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3578,3],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3578,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,3992],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,3992,2]
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,3992,2],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,3992,1],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,3992,0],
+"df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
+"df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0]
 };

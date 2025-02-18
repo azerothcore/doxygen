@@ -1,9 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a98967233e04c6223361897c02bc0edc5":[6,0,0,115,4],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#ac011f150695eb1f3a83536175fd2a016":[5,0,1,127,1],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#ac011f150695eb1f3a83536175fd2a016":[6,0,0,115,1],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#af5c5a533084c436e0d7de828e1ef82ad":[6,0,0,115,2],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#af5c5a533084c436e0d7de828e1ef82ad":[5,0,1,127,2],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#af8baf5ff23a3167a963ade43faec09fc":[6,0,0,115,0],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#af8baf5ff23a3167a963ade43faec09fc":[5,0,1,127,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX371 =
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c":[7,0,0,0,1,3,2,1,1,0,5,2],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a50f1afd057358e03bbc0c1fcfb5e373d":[7,0,0,0,1,3,2,1,1,0,5,5],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a5f76f4a3dd01b0dd5bf931b8a59b82c1":[7,0,0,0,1,3,2,1,1,0,5,17],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a70cc4ad43c3a41ff2fd61e0b3c726613":[7,0,0,0,1,3,2,1,1,0,5,15]
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a70cc4ad43c3a41ff2fd61e0b3c726613":[7,0,0,0,1,3,2,1,1,0,5,15],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a74b9c350c949ab174753708ad4b5cf6d":[7,0,0,0,1,3,2,1,1,0,5,25],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a8122b6f122b7a936d2a9a63016f74c0b":[7,0,0,0,1,3,2,1,1,0,5,11],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a98bf89eb64f42b149d5c60959239de69":[7,0,0,0,1,3,2,1,1,0,5,22],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a9c2be1294a0f496c499e732e48048980":[7,0,0,0,1,3,2,1,1,0,5,6]
 };

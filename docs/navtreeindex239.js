@@ -1,9 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d9/d9f/classnpc__putricide__oozeAI.html#ab9d288f8eded19720a0aee3bd91920d2":[6,0,2046,5],
-"d9/d9f/classnpc__putricide__oozeAI.html#ae01b7ffe31548aa15d913cc28fa32422":[6,0,2046,10],
-"d9/d9f/classspell__q11198__take__down__tethyr.html":[6,0,3576],
-"d9/d9f/classspell__q11198__take__down__tethyr.html#a721430db1738b255f114483bdddef5e2":[6,0,3576,1],
 "d9/d9f/classspell__q11198__take__down__tethyr.html#aa2d9d885e55c1685c2ce9cbc5b4d4279":[6,0,3576,0],
 "d9/d9f/structDumpTable.html":[6,0,985],
 "d9/d9f/structDumpTable.html#ac16bf9d80201e270ffb1571fb2e9fb02":[6,0,985,0],
@@ -203,10 +199,10 @@ var NAVTREEINDEX239 =
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[7,0,0,0,1,2,3,1,1,12],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
 "d9/dac/classnpc__nether__drake.html":[6,0,1972],
@@ -249,5 +245,9 @@ var NAVTREEINDEX239 =
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a1da221b63cb7fcd0dbb580e8cf0003ce":[6,0,3699,1],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a672526de2c71dcae79bacef88f34dc26":[6,0,3699,0],
 "d9/dad/classspell__saronite__vapors__dummy__aura.html#a9ba7c109fe96881dd47ba47366890e2b":[6,0,3699,2],
-"d9/dad/classspell__saronite__vapors__dummy__aura.html#ab5833f6218760a7d9829b5d453436302":[6,0,3699,3]
+"d9/dad/classspell__saronite__vapors__dummy__aura.html#ab5833f6218760a7d9829b5d453436302":[6,0,3699,3],
+"d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8],
+"d9/dae/structM2Camera.html":[6,0,1454],
+"d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1454,7],
+"d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1454,6]
 };

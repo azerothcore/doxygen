@@ -1,9 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/dd6/DBCfmt_8h.html#a3e475f31f4cffe4963bb7ea14dd02388":[7,0,0,0,1,4,0,3,78],
-"d8/dd6/DBCfmt_8h.html#a403a136c126513ae56a58523a246d28e":[7,0,0,0,1,4,0,3,73],
-"d8/dd6/DBCfmt_8h.html#a4710b3cfcda1dc630ed1d619cbc12868":[7,0,0,0,1,4,0,3,1],
-"d8/dd6/DBCfmt_8h.html#a4b382b6e95ced2aa17a608a4809c144a":[7,0,0,0,1,4,0,3,94],
 "d8/dd6/DBCfmt_8h.html#a4f6cc73661edba8fc844af7b0d592ab1":[7,0,0,0,1,4,0,3,95],
 "d8/dd6/DBCfmt_8h.html#a50372b10c2d08e0392c15d3bd961dbb5":[7,0,0,0,1,4,0,3,10],
 "d8/dd6/DBCfmt_8h.html#a51e9a188870d9d1599422390aad2664c":[7,0,0,0,1,4,0,3,89],
@@ -249,5 +245,9 @@ var NAVTREEINDEX223 =
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[6,0,3392,0],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html":[6,0,4028],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[6,0,4028,5],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[6,0,4028,0]
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[6,0,4028,0],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[6,0,4028,3],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[6,0,4028,6],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[6,0,4028,7],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[6,0,4028,4]
 };

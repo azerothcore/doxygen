@@ -1,9 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,735,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1929],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1929,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1929,1],
 "d8/de1/structCalendarInvite.html":[6,0,830],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,830,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,830,7],
@@ -249,5 +245,9 @@ var NAVTREEINDEX225 =
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654":[7,0,0,0,1,2,3,6,3,5],
 "d8/df3/CreatureAIImpl_8h.html#a1ed41ad074263f6c0c63f38b7f51414b":[7,0,0,0,1,2,3,6,4],
 "d8/df3/CreatureAIImpl_8h.html#a41c947edd84b4f2bb45133dc7aa00cad":[7,0,0,0,1,2,3,6,1],
-"d8/df3/CreatureAIImpl_8h.html#a6650ccba23715eea545340cd3e712233":[7,0,0,0,1,2,3,6,5]
+"d8/df3/CreatureAIImpl_8h.html#a6650ccba23715eea545340cd3e712233":[7,0,0,0,1,2,3,6,5],
+"d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c":[7,0,0,0,1,2,3,6,7],
+"d8/df3/CreatureAIImpl_8h.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,3,6,6],
+"d8/df3/CreatureAIImpl_8h.html#ac43b18581ae7a7b66984b1003502d5af":[7,0,0,0,1,2,3,6,2],
+"d8/df3/CreatureAIImpl_8h.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642":[7,0,0,0,1,2,3,6,2,1]
 };

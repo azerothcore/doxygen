@@ -1,9 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ac4b5548b4d4194b6f7ab9fafa507cc14":[6,0,616,0,11],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ad4276a2a0682f609d99d6c21f99c12e6":[6,0,616,0,6],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#adacbe636f193dbce30f93d1747475d61":[6,0,616,0,26],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#adf78855db6c7e8b96162e218a292bd13":[6,0,616,0,17],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ae04f0373493354a5980b5ea50d9409ab":[6,0,616,0,21],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#ae9407e6517ff2fbde9636bb15c50c7c9":[6,0,616,0,0],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#aed52f33d004bdda17c827f6f84281729":[6,0,616,0,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX394 =
 "df/ddc/classTaskScheduler.html#aef5466d24be443ceaacd982b960eefd6":[6,0,4076,34],
 "df/ddc/classTaskScheduler.html#af1ed48e830753b5ca1b209d6d137bbeb":[6,0,4076,53],
 "df/ddc/classTaskScheduler.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2":[6,0,4076,45],
-"df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690":[6,0,4076,8]
+"df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690":[6,0,4076,8],
+"df/ddc/classTaskScheduler.html#afa0f29cd0a38f5af81b8cd2888c81fa1":[6,0,4076,27],
+"df/ddc/classTaskScheduler.html#afabf8f475205d00eedb9c39d84af7aa3":[6,0,4076,37],
+"df/ddc/classTaskScheduler.html#afd7ca0f744e8f492f18b42d186ec0723":[6,0,4076,36],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,745,0]
 };

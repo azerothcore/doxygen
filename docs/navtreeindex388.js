@@ -1,9 +1,5 @@
 var NAVTREEINDEX388 =
 {
-"df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[6,0,2167,4],
-"df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2167,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,30,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,30,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX388 =
 "df/dc9/classCreatureScript.html#af19c64d23391f8b835f79bc6cf315caa":[6,0,923,3],
 "df/dc9/classCreatureScript.html#afa0053e299f9125cc288ea38652edecb":[6,0,923,0],
 "df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html":[6,0,684,0],
-"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a1aa8277ddc91989ed7480d4221a6e534":[6,0,684,0,6]
+"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a1aa8277ddc91989ed7480d4221a6e534":[6,0,684,0,6],
+"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a5060b01175ece5ad782e96bdf3d2c82d":[6,0,684,0,7],
+"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a50d000b322e3d3a61cc02dea96c2979d":[6,0,684,0,5],
+"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a6a7f8255aa1dcbb979354467d0e6949d":[6,0,684,0,2],
+"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a9996fce9320390ead967ad82bcef9554":[6,0,684,0,0]
 };

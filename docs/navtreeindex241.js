@@ -1,9 +1,5 @@
 var NAVTREEINDEX241 =
 {
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
@@ -249,5 +245,9 @@ var NAVTREEINDEX241 =
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4":[6,0,3843,1],
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a4ee6fe23e45481eea16f77d8de72742e":[6,0,3843,3],
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d":[6,0,3843,4],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[6,0,3843,0]
+"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[6,0,3843,0],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html":[6,0,2309,0],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a2b5f97425309d56482a1f287b6d5be69":[6,0,2309,0,2],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a4ad5a2df36ae9c1cd9130c5efd27af58":[6,0,2309,0,3],
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[6,0,2309,0,1]
 };

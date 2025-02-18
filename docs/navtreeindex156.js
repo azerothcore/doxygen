@@ -1,8 +1,5 @@
 var NAVTREEINDEX156 =
 {
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,0,13,2],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a82e19f73242ca02f112e21d1881d7c8b":[7,0,0,0,1,3,5,1,1,0,13,11],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a843a4ce0e229a4d59c92ba78e943ff85":[7,0,0,0,1,3,5,1,1,0,13,5],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab13f56ef49d07d40560fc4bbba5c61fa":[7,0,0,0,1,3,5,1,1,0,13,7],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31acb1f3e0eb462db1add3967e6a6bb86a1":[7,0,0,0,1,3,5,1,1,0,13,9],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb1987c6e9debc6b7a2f071fd6a52bfe":[7,0,0,0,1,3,5,1,1,0,13,12],
@@ -249,5 +246,8 @@ var NAVTREEINDEX156 =
 "d5/de4/classitem__petrov__cluster__bombs.html#a14e8a00a532b5aebc8469ff538848f53":[6,0,1375,1],
 "d5/de4/classitem__petrov__cluster__bombs.html#a1a76760f7c4617a40d96b9833e7466df":[6,0,1375,0],
 "d5/de5/classinstance__maraudon.html":[6,0,1308],
-"d5/de5/classinstance__maraudon.html#aaae11d2569d04b42840b101a5702cf24":[6,0,1308,1]
+"d5/de5/classinstance__maraudon.html#aaae11d2569d04b42840b101a5702cf24":[6,0,1308,1],
+"d5/de5/classinstance__maraudon.html#ac4f5c7c3ee755226449c96b3e351f12d":[6,0,1308,2],
+"d5/de5/classspell__pal__sacred__shield__base.html":[6,0,3475],
+"d5/de5/classspell__pal__sacred__shield__base.html#a046cd1087342cdcbd2e6b0f8ded7c03a":[6,0,3475,1]
 };

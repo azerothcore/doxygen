@@ -1,9 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/ddc/classTaskScheduler.html#afa0f29cd0a38f5af81b8cd2888c81fa1":[6,0,4076,27],
-"df/ddc/classTaskScheduler.html#afabf8f475205d00eedb9c39d84af7aa3":[6,0,4076,37],
-"df/ddc/classTaskScheduler.html#afd7ca0f744e8f492f18b42d186ec0723":[6,0,4076,36],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,745,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa":[6,0,745,0,3],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd":[6,0,745,0,2],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a39be832be97a27a3358c2f6c939ca728":[6,0,745,0,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX395 =
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343a6bf5450598a85734fd601aadcb5c921b":[7,0,0,0,1,3,7,5,3,6,3,0],
 "df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,7,5,3,6,5],
 "df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744a2a7e69f5940ea31bf675822e9a72bd70":[7,0,0,0,1,3,7,5,3,6,5,0],
-"df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac3d4ec6faaa60f8a0c815ed8ee1a868a":[7,0,0,0,1,3,7,5,3,6,5,1]
+"df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac3d4ec6faaa60f8a0c815ed8ee1a868a":[7,0,0,0,1,3,7,5,3,6,5,1],
+"df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744adda62666c22bfb57a7054f84a9699e96":[7,0,0,0,1,3,7,5,3,6,5,2],
+"df/ded/mechanar_8h.html#adf30040e6cb1523a4badbeec93b9ec6d":[7,0,0,0,1,3,7,5,3,6,1],
+"df/ded/mechanar_8h.html#ae4698fbff4770ad6546c4cb256cd3bfc":[7,0,0,0,1,3,7,5,3,6,2],
+"df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,5,3,6,4]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0ef170420596e91cf81b267f2f6bed93":[6,0,1351,0,5],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[6,0,1351,0,0],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[6,0,1351,0,15],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2dba82a79b82db7358638a59799b69e4":[6,0,1351,0,27],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2e908036be061e2c2b5d10f98af22c53":[6,0,1351,0,23],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a340b119d584b317a33b2225668c3288a":[6,0,1351,0,14],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a55b9b4c4cfe65cd15e6fc8cb807535db":[6,0,1351,0,11],
@@ -249,5 +245,9 @@ var NAVTREEINDEX377 =
 "df/d3e/namespaceGameTime.html#a872d34d3f9d420cfc749073c809931f9":[5,0,16,2],
 "df/d3e/namespaceGameTime.html#a874057035d37aa57afc5064acffba119":[5,0,16,9],
 "df/d3e/namespaceGameTime.html#a9a28ffdb4bb387919d2dd70a51080ce0":[5,0,16,8],
-"df/d3e/namespaceGameTime.html#aa393fef2187ebdd6aa34379b0f1504d7":[5,0,16,10]
+"df/d3e/namespaceGameTime.html#aa393fef2187ebdd6aa34379b0f1504d7":[5,0,16,10],
+"df/d3e/namespaceGameTime.html#ad5fc2a056410eeac2e2717f91cb8295c":[5,0,16,7],
+"df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2":[5,0,16,0],
+"df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,16,4],
+"df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,16,5]
 };

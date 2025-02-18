@@ -1,9 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a5060b01175ece5ad782e96bdf3d2c82d":[6,0,684,0,7],
-"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a50d000b322e3d3a61cc02dea96c2979d":[6,0,684,0,5],
-"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a6a7f8255aa1dcbb979354467d0e6949d":[6,0,684,0,2],
-"df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#a9996fce9320390ead967ad82bcef9554":[6,0,684,0,0],
 "df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#ac3e03263a174dd147854fa6d714ec003":[6,0,684,0,4],
 "df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#ad78a939f0584b775e29341ff08f0eee1":[6,0,684,0,3],
 "df/dc9/structboss__sartharion__tenebron_1_1boss__sartharion__tenebronAI.html#af9e0459fff845bf4f6e53d06e4a9447f":[6,0,684,0,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX389 =
 "df/dd9/classUnit.html#a099b958ed2828d6b4cd1aa996acdd005":[6,0,4138,49],
 "df/dd9/classUnit.html#a09eacd80ca37afbf0d99ae8542d84fcd":[6,0,4138,500],
 "df/dd9/classUnit.html#a0a250126bc1ae99a1b9e2a4310a124b5":[6,0,4138,480],
-"df/dd9/classUnit.html#a0ab8d73c0a9b2b4e1568fbdb75077fc4":[6,0,4138,154]
+"df/dd9/classUnit.html#a0ab8d73c0a9b2b4e1568fbdb75077fc4":[6,0,4138,154],
+"df/dd9/classUnit.html#a0abdc922cb68a81459935b54b59fad2e":[6,0,4138,672],
+"df/dd9/classUnit.html#a0b11b9c93b383ee00d362c72e4ba7e8e":[6,0,4138,269],
+"df/dd9/classUnit.html#a0b571ebf5bf71fdca61ecf0038597972":[6,0,4138,529],
+"df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8":[6,0,4138,187]
 };

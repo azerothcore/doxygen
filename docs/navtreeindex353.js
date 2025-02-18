@@ -1,9 +1,5 @@
 var NAVTREEINDEX353 =
 {
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4":[7,0,0,0,1,2,41,9,59,12],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c":[7,0,0,0,1,2,41,9,59,6],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58":[7,0,0,0,1,2,41,9,59,29],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488":[7,0,0,0,1,2,41,9,59,32],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aec3e2077cfabdc92fbbc9a1858dd5c7b":[7,0,0,0,1,2,41,9,59,22],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6":[7,0,0,0,1,2,41,9,59,24],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45":[7,0,0,0,1,2,41,9,59,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX353 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[6,0,2158,0,11],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[6,0,2158,0,18],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ae764b73931eb22712fc4e22e0c15a080":[6,0,2158,0,26],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[6,0,2158,0,6]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[6,0,2158,0,6],
+"de/d3c/classnpc__beryl__sorcerer.html":[6,0,1632],
+"de/d3c/classnpc__beryl__sorcerer.html#a4f74ee45ee0730fcfd044418771a9ee1":[6,0,1632,1],
+"de/d3c/classnpc__beryl__sorcerer.html#a963646eed9f121f87efe480312957286":[6,0,1632,2],
+"de/d3c/classnpc__scarlet__miner__cart.html":[6,0,2085]
 };

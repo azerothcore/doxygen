@@ -1,9 +1,5 @@
 var NAVTREEINDEX232 =
 {
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab77f583b714b73c85c3b82fc2fbb3ad9":[6,0,1341,0,7],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aba0f2cde89b5c5bdf1c0c380c22f400b":[6,0,1341,0,17],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#acb650a26d1dfcee19c3a7e4fbb8835aa":[6,0,1341,0,21],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ad3a93053a5e4f0ef5034428f74dd8348":[6,0,1341,0,31],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ad49451efbd192d6d92357379d4750c88":[6,0,1341,0,16],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#adaa1a6d7179e72ace0b017a2a452b092":[6,0,1341,0,14],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#adabd395a3f63887f9be301c16289fbdd":[6,0,1341,0,34],
@@ -65,18 +61,18 @@ var NAVTREEINDEX232 =
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,1,124],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[6,0,0,112,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,1,124,5],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[6,0,0,112,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,112,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,112,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,124,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,112,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,124,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,124,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,112,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3407],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[6,0,3407,0],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[6,0,3407,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX232 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa3a5cabe46707317810e95d78ba50f253":[7,0,0,0,1,3,7,9,19,6],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa4696a878338dce014dad288b5985c0d8":[7,0,0,0,1,3,7,9,19,2],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa60931902ba1577725f6f7ba986d71714":[7,0,0,0,1,3,7,9,19,4],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa67f02c977fbc9ba59db2084441cbfcab":[7,0,0,0,1,3,7,9,19,8]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa67f02c977fbc9ba59db2084441cbfcab":[7,0,0,0,1,3,7,9,19,8],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa7684a98229a2724d35c0e343bc86abd1":[7,0,0,0,1,3,7,9,19,12],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fa9c9645356a428e1741960e164925af74":[7,0,0,0,1,3,7,9,19,1],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989faaa80ed24dc21154e02ed2f5f553cd836":[7,0,0,0,1,3,7,9,19,7],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ad2cbcccde158bb594439b8fbc724989fab059be6442b1fe7263888d587540b206":[7,0,0,0,1,3,7,9,19,11]
 };

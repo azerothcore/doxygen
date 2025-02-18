@@ -1,9 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,4,0,0,8],
-"de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2d272c72d6327d9b395bce68d32114c0":[7,0,0,0,1,3,5,4,0,0,8,3],
-"de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a42a62d1683f7c1e5f1e356bcdd80f6d2":[7,0,0,0,1,3,5,4,0,0,8,2],
-"de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a49b64ec43e205ab38891e35d2785209e":[7,0,0,0,1,3,5,4,0,0,8,1],
 "de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,4,0,0,8,0],
 "de/dc0/boss__bronjahm_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516aecd620118a6d4fca771c9a2e088dffa8":[7,0,0,0,1,3,5,4,0,0,8,4],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,0,0,10],
@@ -249,5 +245,9 @@ var NAVTREEINDEX367 =
 "de/dd1/classnpc__maredis__firestar.html":[6,0,1941],
 "de/dd1/classnpc__maredis__firestar.html#a91015d70203597db3dda10b695565740":[6,0,1941,1],
 "de/dd2/auchenai__crypts_8h.html":[7,0,0,0,1,3,7,0,0,0],
-"de/dd2/auchenai__crypts_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,0,0,0,1]
+"de/dd2/auchenai__crypts_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,0,0,0,1],
+"de/dd2/auchenai__crypts_8h.html#a31d630c40753c29f94ceac2db5e451a8":[7,0,0,0,1,3,7,0,0,0,5],
+"de/dd2/auchenai__crypts_8h.html#a44e28f969fff2c33cf76b8eaaff1898c":[7,0,0,0,1,3,7,0,0,0,0],
+"de/dd2/auchenai__crypts_8h.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961":[7,0,0,0,1,3,7,0,0,0,4],
+"de/dd2/auchenai__crypts_8h.html#aae3060cf5aa0b4d27bcbbfeee3db2856":[7,0,0,0,1,3,7,0,0,0,3]
 };

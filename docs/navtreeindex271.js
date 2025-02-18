@@ -1,9 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[7,0,0,0,1,3,2,7,0,2,7],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[7,0,0,0,1,3,2,7,0,2,11],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[7,0,0,0,1,3,2,7,0,2,8],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[7,0,0,0,1,3,2,7,0,2,4],
 "db/d20/instance__scarlet__monastery_8cpp.html#a67ff809187d02c20986ede33691ed9b2":[7,0,0,0,1,3,2,7,0,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035":[7,0,0,0,1,3,2,7,0,3],
 "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6":[7,0,0,0,1,3,2,7,0,3,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX271 =
 "db/d32/classWardenMac.html#a576c0cf7a819e95c97cc0ac4e5962d6d":[6,0,4180,0],
 "db/d32/classWardenMac.html#a5f3832580c73a0af34fa83669a92ceab":[6,0,4180,1],
 "db/d32/classWardenMac.html#a7a31b72ea7362c70f0fc9ff6e316d80b":[6,0,4180,2],
-"db/d32/classWardenMac.html#a7feb3f82b2e0efd8427d6d8bcabaf17c":[6,0,4180,4]
+"db/d32/classWardenMac.html#a7feb3f82b2e0efd8427d6d8bcabaf17c":[6,0,4180,4],
+"db/d32/classWardenMac.html#ae329d60e41b9f5af2a2c7e4983936eac":[6,0,4180,5],
+"db/d32/classWardenMac.html#af031f18554c5a96b4eb39371a92b9c51":[6,0,4180,8],
+"db/d32/classspell__ioc__gunship__portal.html":[6,0,3156],
+"db/d32/classspell__ioc__gunship__portal.html#a2d1dbae570206b358878020879708000":[6,0,3156,3]
 };

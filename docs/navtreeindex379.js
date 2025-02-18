@@ -1,9 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,234,0],
-"df/d54/classat__underbog__ghazan.html":[6,0,247],
-"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,247,0],
-"df/d54/classat__underbog__ghazan.html#aff03fc0bbded7bf7fa68d0c736bfaff2":[6,0,247,1],
 "df/d55/PlayerGossip_8cpp.html":[7,0,0,0,1,2,16,7,6],
 "df/d55/classlfg_1_1LFGPlayerScript.html":[6,0,5,9],
 "df/d55/classlfg_1_1LFGPlayerScript.html":[5,0,18,9],
@@ -249,5 +245,9 @@ var NAVTREEINDEX379 =
 "df/d5e/structAuctionHouseSearchInfo.html#a736642258b38fa05f04df4f4ac9069db":[6,0,262,0],
 "df/d5e/structAuctionHouseSearchInfo.html#a902d715d89a5ca66072393ccefbb1ead":[6,0,262,4],
 "df/d5e/structAuctionHouseSearchInfo.html#a97bc36937a55f3e9a88dabf9a4e4f0b5":[6,0,262,2],
-"df/d5e/structAuctionHouseSearchInfo.html#ac437de5977b177a586381c8665439a56":[6,0,262,5]
+"df/d5e/structAuctionHouseSearchInfo.html#ac437de5977b177a586381c8665439a56":[6,0,262,5],
+"df/d5e/structAuctionHouseSearchInfo.html#acf154bf30417c1a202ae85b4dd1adead":[6,0,262,3],
+"df/d5e/structAuctionHouseSearchInfo.html#ad81a5f3c2c58e620673539b6271ff8e9":[6,0,262,9],
+"df/d65/classspell__ooze__zap.html":[6,0,3449],
+"df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[6,0,3449,3]
 };

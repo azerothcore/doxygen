@@ -1,8 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3585,1],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#abaef73201d2e0bd1d6789309442019e0":[6,0,3585,0],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#add5c1ecaa5a75af6e91a0df5d63bbc42":[6,0,3585,2],
 "d6/d33/classAuraScript_1_1EffectBase.html":[6,0,283,7],
 "d6/d33/classAuraScript_1_1EffectBase.html#a8c300ca68c3ff6f74b230835c566fd60":[6,0,283,7,1],
 "d6/d33/classAuraScript_1_1EffectBase.html#ab02f9f344e2f32ad59b35993d5c8f819":[6,0,283,7,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX166 =
 "d6/d39/classWorld.html#a111207dc1b734f3b68e2d544bd39e2f5":[4,2,11,25],
 "d6/d39/classWorld.html#a14ecf1cc37847138eeeb101406b05f1a":[4,2,11,0],
 "d6/d39/classWorld.html#a1538b23aae0a3e7f3cc2fc9fd4ca5787":[4,2,11,19],
-"d6/d39/classWorld.html#a18fe5194248a0c6126f02b642eba41fc":[4,2,11,85]
+"d6/d39/classWorld.html#a18fe5194248a0c6126f02b642eba41fc":[4,2,11,85],
+"d6/d39/classWorld.html#a19560e2e6fb9d54a1297bdebd5466d17":[4,2,11,59],
+"d6/d39/classWorld.html#a1a4d5e21370a098176816cad4678d677":[4,2,11,80],
+"d6/d39/classWorld.html#a1aaf354de61c3bfe4de4d5133e6a3aeb":[4,2,11,41]
 };

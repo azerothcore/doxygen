@@ -1,6 +1,5 @@
 var NAVTREEINDEX117 =
 {
-"d4/d02/classnpc__stormforged__lieutenant.html":[6,0,2130],
 "d4/d02/classnpc__stormforged__lieutenant.html#ab58a73d33c6545815511c5c4f0ecfd9e":[6,0,2130,1],
 "d4/d02/classnpc__stormforged__lieutenant.html#ae3aba4b53e73097c261eaaed19f17950":[6,0,2130,2],
 "d4/d02/structSmartEvent.html":[6,0,2544],
@@ -199,20 +198,20 @@ var NAVTREEINDEX117 =
 "d4/d09/structlfg_1_1LfgPlayerBoot.html":[6,0,5,6],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[6,0,5,6,2],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[5,0,18,6,2],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[5,0,18,6,0],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[6,0,5,6,0],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[5,0,18,6,0],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[6,0,5,6,4],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[5,0,18,6,4],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[5,0,18,6,1],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[6,0,5,6,1],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[5,0,18,6,3],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[5,0,18,6,1],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[6,0,5,6,3],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[5,0,18,6,3],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,30,5,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[6,0,11,5,45],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,30,5,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[6,0,11,5,45,2],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[5,0,30,5,45,1],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,30,5,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,11,5,45,1],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[5,0,30,5,45,1],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[5,0,30,5,45,0],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[6,0,11,5,45,0],
 "d4/d0a/classnpc__vekjik.html":[6,0,2243],
@@ -247,7 +246,8 @@ var NAVTREEINDEX117 =
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#af8a46c99290ce700e765c7ad5e8c866c":[6,0,3154,3],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[6,0,0,4,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[5,0,1,7,0,6],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,1,7,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[6,0,0,4,0,6,2],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[5,0,1,7,0,6,1]
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,1,7,0,6,2],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[5,0,1,7,0,6,1],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[6,0,0,4,0,6,1]
 };

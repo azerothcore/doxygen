@@ -342,12 +342,12 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../df/df1/structCell.html#a7626a5fc8186c5c5cbcc74709c831241">data</a>.Part.cell_x = p.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a> % <a class="code hl_define" href="../../d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>;</div>
 <div class="line"><span class="lineno">   39</span>    <a class="code hl_variable" href="../../df/df1/structCell.html#a7626a5fc8186c5c5cbcc74709c831241">data</a>.Part.cell_y = p.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a> % <a class="code hl_define" href="../../d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>;</div>
 <div class="line"><span class="lineno">   40</span>}</div>
-<div class="ttc" id="anamespaceAcore_html_af056a475dba505792191bc6e8c3370a5"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a></div><div class="ttdeci">CellCoord ComputeCellCoord(float x, float y)</div><div class="ttdef"><b>Definition</b> GridDefines.h:196</div></div>
+<div class="ttc" id="anamespaceAcore_html_af056a475dba505792191bc6e8c3370a5"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a></div><div class="ttdeci">CellCoord ComputeCellCoord(float x, float y)</div><div class="ttdef"><b>Definition</b> GridDefines.h:193</div></div>
 <div class="ttc" id="astructCoordPair_html"><div class="ttname"><a href="../../d4/d6f/structCoordPair.html">CoordPair&lt; TOTAL_NUMBER_OF_CELLS_PER_MAP &gt;</a></div></div>
 <div class="ttc" id="astructCoordPair_html_a101dd71af6a2cba18140aea2e502ef8b"><div class="ttname"><a href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">CoordPair::x_coord</a></div><div class="ttdeci">uint32 x_coord</div><div class="ttdef"><b>Definition</b> GridDefines.h:151</div></div>
 <div class="ttc" id="astructCoordPair_html_aacae12844cc0c0d70e26b137ad28f700"><div class="ttname"><a href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">CoordPair::y_coord</a></div><div class="ttdeci">uint32 y_coord</div><div class="ttdef"><b>Definition</b> GridDefines.h:152</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, <a class="el" href="../../df/df1/structCell.html#a7626a5fc8186c5c5cbcc74709c831241">data</a>, <a class="el" href="../../#l00025">MAX_NUMBER_OF_CELLS</a>, <a class="el" href="../../#l00151">CoordPair&lt; LIMIT &gt;::x_coord</a>, and <a class="el" href="../../#l00152">CoordPair&lt; LIMIT &gt;::y_coord</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, <a class="el" href="../../df/df1/structCell.html#a7626a5fc8186c5c5cbcc74709c831241">data</a>, <a class="el" href="../../#l00025">MAX_NUMBER_OF_CELLS</a>, <a class="el" href="../../#l00151">CoordPair&lt; LIMIT &gt;::x_coord</a>, and <a class="el" href="../../#l00152">CoordPair&lt; LIMIT &gt;::y_coord</a>.</p>
 
 </div>
 </div>
@@ -398,15 +398,15 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span> <a class="code hl_struct" href="../../d2/db5/structCellArea.html">CellArea</a>(center, center);</div>
 <div class="line"><span class="lineno">   48</span>    }</div>
 <div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> centerX = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x - radius, y - radius).<a class="code hl_function" href="../../d4/d6f/structCoordPair.html#afac8086374bfc499e3a8d74d6afc58db">normalize</a>();</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> centerY = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x + radius, y + radius).<a class="code hl_function" href="../../d4/d6f/structCoordPair.html#afac8086374bfc499e3a8d74d6afc58db">normalize</a>();</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> centerX = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x + radius, y + radius).<a class="code hl_function" href="../../d4/d6f/structCoordPair.html#afac8086374bfc499e3a8d74d6afc58db">normalize</a>();</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> centerY = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x - radius, y - radius).<a class="code hl_function" href="../../d4/d6f/structCoordPair.html#afac8086374bfc499e3a8d74d6afc58db">normalize</a>();</div>
 <div class="line"><span class="lineno">   52</span> </div>
 <div class="line"><span class="lineno">   53</span>    <span class="keywordflow">return</span> <a class="code hl_struct" href="../../d2/db5/structCellArea.html">CellArea</a>(centerX, centerY);</div>
 <div class="line"><span class="lineno">   54</span>}</div>
 <div class="ttc" id="astructCellArea_html"><div class="ttname"><a href="../../d2/db5/structCellArea.html">CellArea</a></div><div class="ttdef"><b>Definition</b> Cell.h:28</div></div>
 <div class="ttc" id="astructCoordPair_html_afac8086374bfc499e3a8d74d6afc58db"><div class="ttname"><a href="../../d4/d6f/structCoordPair.html#afac8086374bfc499e3a8d74d6afc58db">CoordPair::normalize</a></div><div class="ttdeci">CoordPair &amp; normalize()</div><div class="ttdef"><b>Definition</b> GridDefines.h:139</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00139">CoordPair&lt; LIMIT &gt;::normalize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00139">CoordPair&lt; LIMIT &gt;::normalize()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00313">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00065">Visit()</a>, <a class="el" href="../../#l00530">Map::VisitNearbyCellsOf()</a>, and <a class="el" href="../../#l00495">Map::VisitNearbyCellsOfPlayer()</a>.</p>
 
@@ -868,26 +868,29 @@ template&lt;class T , class CONTAINER &gt; </div>
 <div class="line"><span class="lineno">   99</span>    }</div>
 <div class="line"><span class="lineno">  100</span> </div>
 <div class="line"><span class="lineno">  101</span>    <span class="comment">// loop the cell range</span></div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x = area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a>; x &lt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a>; ++x)</div>
-<div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a>; y &lt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a>; ++y)</div>
-<div class="line"><span class="lineno">  105</span>        {</div>
-<div class="line"><span class="lineno">  106</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord(x, y);</div>
-<div class="line"><span class="lineno">  107</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone(cellCoord);</div>
-<div class="line"><span class="lineno">  108</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone, visitor);</div>
-<div class="line"><span class="lineno">  109</span>        }</div>
-<div class="line"><span class="lineno">  110</span>    }</div>
-<div class="line"><span class="lineno">  111</span>}</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a> &gt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a>);</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a> &gt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a>);</div>
+<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x = area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a>; x &lt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#a101dd71af6a2cba18140aea2e502ef8b">x_coord</a>; ++x)</div>
+<div class="line"><span class="lineno">  105</span>    {</div>
+<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a>; y &lt;= area.<a class="code hl_variable" href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>.<a class="code hl_variable" href="../../d4/d6f/structCoordPair.html#aacae12844cc0c0d70e26b137ad28f700">y_coord</a>; ++y)</div>
+<div class="line"><span class="lineno">  107</span>        {</div>
+<div class="line"><span class="lineno">  108</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord(x, y);</div>
+<div class="line"><span class="lineno">  109</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone(cellCoord);</div>
+<div class="line"><span class="lineno">  110</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone, visitor);</div>
+<div class="line"><span class="lineno">  111</span>        }</div>
+<div class="line"><span class="lineno">  112</span>    }</div>
+<div class="line"><span class="lineno">  113</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
+<div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 <div class="ttc" id="aMapDefines_8h_html_a55c9adba46c0c14cd4ac80ab51228816"><div class="ttname"><a href="../../d6/d2a/MapDefines_8h.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a></div><div class="ttdeci">#define SIZE_OF_GRIDS</div><div class="ttdef"><b>Definition</b> MapDefines.h:26</div></div>
 <div class="ttc" id="aclassMap_html_ab690442f3631e908795d01f16f20f2ec"><div class="ttname"><a href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Map::Visit</a></div><div class="ttdeci">void Visit(const Cell &amp;cell, TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;visitor)</div><div class="ttdef"><b>Definition</b> Map.h:706</div></div>
 <div class="ttc" id="astructCellArea_html_a0c90f0474902deaafc4a64faaf6e8071"><div class="ttname"><a href="../../d2/db5/structCellArea.html#a0c90f0474902deaafc4a64faaf6e8071">CellArea::high_bound</a></div><div class="ttdeci">CellCoord high_bound</div><div class="ttdef"><b>Definition</b> Cell.h:41</div></div>
 <div class="ttc" id="astructCellArea_html_a374fe9802c798e6ece359a8025b6e1df"><div class="ttname"><a href="../../d2/db5/structCellArea.html#a374fe9802c798e6ece359a8025b6e1df">CellArea::low_bound</a></div><div class="ttdeci">CellCoord low_bound</div><div class="ttdef"><b>Definition</b> Cell.h:40</div></div>
 <div class="ttc" id="astructCell_html"><div class="ttname"><a href="../../df/df1/structCell.html">Cell</a></div><div class="ttdef"><b>Definition</b> Cell.h:45</div></div>
-<div class="ttc" id="astructCell_html_aa8d9ead1231c6119656eb132949d3a97"><div class="ttname"><a href="../../df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97">Cell::VisitCircle</a></div><div class="ttdeci">void VisitCircle(TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;, Map &amp;, CellCoord const &amp;, CellCoord const &amp;) const</div><div class="ttdef"><b>Definition</b> CellImpl.h:114</div></div>
+<div class="ttc" id="astructCell_html_aa8d9ead1231c6119656eb132949d3a97"><div class="ttname"><a href="../../df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97">Cell::VisitCircle</a></div><div class="ttdeci">void VisitCircle(TypeContainerVisitor&lt; T, CONTAINER &gt; &amp;, Map &amp;, CellCoord const &amp;, CellCoord const &amp;) const</div><div class="ttdef"><b>Definition</b> CellImpl.h:116</div></div>
 <div class="ttc" id="astructCell_html_ad2bffe1e67368857b3c82a07a89c3a55"><div class="ttname"><a href="../../df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55">Cell::CalculateCellArea</a></div><div class="ttdeci">static CellArea CalculateCellArea(float x, float y, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">CalculateCellArea()</a>, <a class="el" href="../../#l00041">CellArea::high_bound</a>, <a class="el" href="../../#l00134">CoordPair&lt; LIMIT &gt;::IsCoordValid()</a>, <a class="el" href="../../#l00040">CellArea::low_bound</a>, <a class="el" href="../../#l00026">SIZE_OF_GRIDS</a>, <a class="el" href="../../#l00706">Map::Visit()</a>, <a class="el" href="../../#l00114">VisitCircle()</a>, <a class="el" href="../../#l00151">CoordPair&lt; LIMIT &gt;::x_coord</a>, and <a class="el" href="../../#l00152">CoordPair&lt; LIMIT &gt;::y_coord</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00042">CalculateCellArea()</a>, <a class="el" href="../../#l00041">CellArea::high_bound</a>, <a class="el" href="../../#l00134">CoordPair&lt; LIMIT &gt;::IsCoordValid()</a>, <a class="el" href="../../#l00040">CellArea::low_bound</a>, <a class="el" href="../../#l00026">SIZE_OF_GRIDS</a>, <a class="el" href="../../#l00706">Map::Visit()</a>, <a class="el" href="../../#l00116">VisitCircle()</a>, <a class="el" href="../../#l00151">CoordPair&lt; LIMIT &gt;::x_coord</a>, and <a class="el" href="../../#l00152">CoordPair&lt; LIMIT &gt;::y_coord</a>.</p>
 
 </div>
 </div>
@@ -953,7 +956,7 @@ template&lt;class T , class CONTAINER &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00441">WorldObject::GetCombatReach()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l07768">Spell::CheckSpellFocus()</a>, <a class="el" href="../../#l00057">Visit()</a>, <a class="el" href="../../#l00215">VisitAllObjects()</a>, <a class="el" href="../../#l00183">VisitAllObjects()</a>, <a class="el" href="../../#l00195">VisitGridObjects()</a>, <a class="el" href="../../#l00163">VisitGridObjects()</a>, <a class="el" href="../../#l00205">VisitWorldObjects()</a>, and <a class="el" href="../../#l00173">VisitWorldObjects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07768">Spell::CheckSpellFocus()</a>, <a class="el" href="../../#l00057">Visit()</a>, <a class="el" href="../../#l00217">VisitAllObjects()</a>, <a class="el" href="../../#l00185">VisitAllObjects()</a>, <a class="el" href="../../#l00197">VisitGridObjects()</a>, <a class="el" href="../../#l00165">VisitGridObjects()</a>, <a class="el" href="../../#l00207">VisitWorldObjects()</a>, and <a class="el" href="../../#l00175">VisitWorldObjects()</a>.</p>
 
 </div>
 </div>
@@ -1010,18 +1013,18 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  216</span>{</div>
-<div class="line"><span class="lineno">  217</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
-<div class="line"><span class="lineno">  218</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  219</span> </div>
-<div class="line"><span class="lineno">  220</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
-<div class="line"><span class="lineno">  221</span>    cell.Visit(p, wnotifier, *map, x, y, radius);</div>
-<div class="line"><span class="lineno">  222</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  223</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
-<div class="line"><span class="lineno">  224</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  218</span>{</div>
+<div class="line"><span class="lineno">  219</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
+<div class="line"><span class="lineno">  220</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
+<div class="line"><span class="lineno">  223</span>    cell.Visit(p, wnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  224</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  225</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  226</span>}</div>
 <div class="ttc" id="aclassTypeContainerVisitor_html"><div class="ttname"><a href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition</b> TypeContainerVisitor.h:84</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
 </div>
 </div>
@@ -1066,17 +1069,17 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  184</span>{</div>
-<div class="line"><span class="lineno">  185</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
-<div class="line"><span class="lineno">  186</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  187</span> </div>
-<div class="line"><span class="lineno">  188</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
-<div class="line"><span class="lineno">  189</span>    cell.Visit(p, wnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  190</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  191</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  192</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
+<div class="line"><span class="lineno">  187</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
+<div class="line"><span class="lineno">  188</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
+<div class="line"><span class="lineno">  191</span>    cell.Visit(p, wnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  193</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
+<div class="line"><span class="lineno">  194</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00176">boss_ouro::CastGroundRupture()</a>, <a class="el" href="../../#l05284">SmartScript::DoFindClosestFriendlyInRange()</a>, <a class="el" href="../../#l00499">ScriptedAI::DoFindFriendlyCC()</a>, <a class="el" href="../../#l00508">ScriptedAI::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l00489">ScriptedAI::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l04783">Spell::EffectForceDeselect()</a>, <a class="el" href="../../#l04030">Spell::EffectSanctuary()</a>, <a class="el" href="../../#l20575">Unit::ExecuteDelayedUnitAINotifyEvent()</a>, <a class="el" href="../../#l20466">Unit::ExecuteDelayedUnitRelocationEvent()</a>, <a class="el" href="../../#l02800">UnitAura::FillTargetMap()</a>, <a class="el" href="../../#l02887">DynObjAura::FillTargetMap()</a>, <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l03099">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l04013">SmartScript::GetWorldObjectsInDist()</a>, <a class="el" href="../../#l00904">debug_commandscript::HandleDebugEnterVehicleCommand()</a>, <a class="el" href="../../#l02812">AuraEffect::HandleFeignDeath()</a>, <a class="el" href="../../#l00495">spell_zulfarrak_unlocking::HandleOpenLock()</a>, <a class="el" href="../../#l07325">AuraEffect::HandleRaidProcFromChargeWithValueAuraProc()</a>, <a class="el" href="../../#l01661">spell_vehicle_throw_passenger::HandleScript()</a>, <a class="el" href="../../#l17082">Unit::SelectNearbyNoTotemTarget()</a>, <a class="el" href="../../#l17047">Unit::SelectNearbyTarget()</a>, <a class="el" href="../../#l02393">Creature::SelectNearestTarget()</a>, <a class="el" href="../../#l02411">Creature::SelectNearestTargetInAttackDistance()</a>, <a class="el" href="../../#l17311">Unit::SetContestedPvP()</a>, <a class="el" href="../../#l00701">npc_simon_bunny::npc_simon_bunnyAI::StartGame()</a>, <a class="el" href="../../#l02174">Map::SummonCreature()</a>, <a class="el" href="../../#l00447">GameObject::Update()</a>, <a class="el" href="../../#l00063">TotemAI::UpdateAI()</a>, <a class="el" href="../../#l00142">npc_belnistrasz::npc_belnistraszAI::UpdateAI()</a>, <a class="el" href="../../#l01223">boss_naxxramas_misc::boss_naxxramas_miscAI::UpdateAI()</a>, <a class="el" href="../../#l00174">npc_pet_dk_ebon_gargoyle::npc_pet_dk_ebon_gargoyleAI::UpdateAI()</a>, <a class="el" href="../../#l19193">Unit::UpdateObjectVisibility()</a>, and <a class="el" href="../../#l01589">Player::UpdateVisibilityForPlayer()</a>.</p>
 
@@ -1129,52 +1132,52 @@ template&lt;class T , class CONTAINER &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
-<div class="line"><span class="lineno">  116</span>    <span class="comment">//here is an algorithm for &#39;filling&#39; circum-squared octagon</span></div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_shift = (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)ceilf((end_cell.x_coord - begin_cell.x_coord) * 0.3f - 0.5f);</div>
-<div class="line"><span class="lineno">  118</span>    <span class="comment">//lets calculate x_start/x_end coords for central strip...</span></div>
-<div class="line"><span class="lineno">  119</span>    <span class="keyword">const</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_start = begin_cell.x_coord + x_shift;</div>
-<div class="line"><span class="lineno">  120</span>    <span class="keyword">const</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_end = end_cell.x_coord - x_shift;</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">//visit central strip with constant width...</span></div>
-<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x = x_start; x &lt;= x_end; ++x)</div>
-<div class="line"><span class="lineno">  124</span>    {</div>
-<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = begin_cell.y_coord; y &lt;= end_cell.y_coord; ++y)</div>
-<div class="line"><span class="lineno">  126</span>        {</div>
-<div class="line"><span class="lineno">  127</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord(x, y);</div>
-<div class="line"><span class="lineno">  128</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone(cellCoord);</div>
-<div class="line"><span class="lineno">  129</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone, visitor);</div>
-<div class="line"><span class="lineno">  130</span>        }</div>
-<div class="line"><span class="lineno">  131</span>    }</div>
-<div class="line"><span class="lineno">  132</span> </div>
-<div class="line"><span class="lineno">  133</span>    <span class="comment">//if x_shift == 0 then we have too small cell area, which were already</span></div>
-<div class="line"><span class="lineno">  134</span>    <span class="comment">//visited at previous step, so just return from procedure...</span></div>
-<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">if</span> (x_shift == 0)</div>
-<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y_start = end_cell.y_coord;</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y_end = begin_cell.y_coord;</div>
-<div class="line"><span class="lineno">  140</span>    <span class="comment">//now we are visiting borders of an octagon...</span></div>
-<div class="line"><span class="lineno">  141</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> step = 1; step &lt;= (x_start - begin_cell.x_coord); ++step)</div>
-<div class="line"><span class="lineno">  142</span>    {</div>
-<div class="line"><span class="lineno">  143</span>        <span class="comment">//each step reduces strip height by 2 cells...</span></div>
-<div class="line"><span class="lineno">  144</span>        y_end += 1;</div>
-<div class="line"><span class="lineno">  145</span>        y_start -= 1;</div>
-<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = y_start; y &gt;= y_end; --y)</div>
-<div class="line"><span class="lineno">  147</span>        {</div>
-<div class="line"><span class="lineno">  148</span>            <span class="comment">//we visit cells symmetrically from both sides, heading from center to sides and from up to bottom</span></div>
-<div class="line"><span class="lineno">  149</span>            <span class="comment">//e.g. filling 2 trapezoids after filling central cell strip...</span></div>
-<div class="line"><span class="lineno">  150</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord_left(x_start - step, y);</div>
-<div class="line"><span class="lineno">  151</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone_left(cellCoord_left);</div>
-<div class="line"><span class="lineno">  152</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone_left, visitor);</div>
-<div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>            <span class="comment">//right trapezoid cell visit</span></div>
-<div class="line"><span class="lineno">  155</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord_right(x_end + step, y);</div>
-<div class="line"><span class="lineno">  156</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone_right(cellCoord_right);</div>
-<div class="line"><span class="lineno">  157</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone_right, visitor);</div>
-<div class="line"><span class="lineno">  158</span>        }</div>
-<div class="line"><span class="lineno">  159</span>    }</div>
-<div class="line"><span class="lineno">  160</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span>    <span class="comment">//here is an algorithm for &#39;filling&#39; circum-squared octagon</span></div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_shift = (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)ceilf((end_cell.x_coord - begin_cell.x_coord) * 0.3f - 0.5f);</div>
+<div class="line"><span class="lineno">  120</span>    <span class="comment">//lets calculate x_start/x_end coords for central strip...</span></div>
+<div class="line"><span class="lineno">  121</span>    <span class="keyword">const</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_start = begin_cell.x_coord + x_shift;</div>
+<div class="line"><span class="lineno">  122</span>    <span class="keyword">const</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x_end = end_cell.x_coord - x_shift;</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">//visit central strip with constant width...</span></div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> x = x_start; x &lt;= x_end; ++x)</div>
+<div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = begin_cell.y_coord; y &lt;= end_cell.y_coord; ++y)</div>
+<div class="line"><span class="lineno">  128</span>        {</div>
+<div class="line"><span class="lineno">  129</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord(x, y);</div>
+<div class="line"><span class="lineno">  130</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone(cellCoord);</div>
+<div class="line"><span class="lineno">  131</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone, visitor);</div>
+<div class="line"><span class="lineno">  132</span>        }</div>
+<div class="line"><span class="lineno">  133</span>    }</div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">//if x_shift == 0 then we have too small cell area, which were already</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="comment">//visited at previous step, so just return from procedure...</span></div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">if</span> (x_shift == 0)</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y_start = end_cell.y_coord;</div>
+<div class="line"><span class="lineno">  141</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y_end = begin_cell.y_coord;</div>
+<div class="line"><span class="lineno">  142</span>    <span class="comment">//now we are visiting borders of an octagon...</span></div>
+<div class="line"><span class="lineno">  143</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> step = 1; step &lt;= (x_start - begin_cell.x_coord); ++step)</div>
+<div class="line"><span class="lineno">  144</span>    {</div>
+<div class="line"><span class="lineno">  145</span>        <span class="comment">//each step reduces strip height by 2 cells...</span></div>
+<div class="line"><span class="lineno">  146</span>        y_end += 1;</div>
+<div class="line"><span class="lineno">  147</span>        y_start -= 1;</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> y = y_start; y &gt;= y_end; --y)</div>
+<div class="line"><span class="lineno">  149</span>        {</div>
+<div class="line"><span class="lineno">  150</span>            <span class="comment">//we visit cells symmetrically from both sides, heading from center to sides and from up to bottom</span></div>
+<div class="line"><span class="lineno">  151</span>            <span class="comment">//e.g. filling 2 trapezoids after filling central cell strip...</span></div>
+<div class="line"><span class="lineno">  152</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord_left(x_start - step, y);</div>
+<div class="line"><span class="lineno">  153</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone_left(cellCoord_left);</div>
+<div class="line"><span class="lineno">  154</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone_left, visitor);</div>
+<div class="line"><span class="lineno">  155</span> </div>
+<div class="line"><span class="lineno">  156</span>            <span class="comment">//right trapezoid cell visit</span></div>
+<div class="line"><span class="lineno">  157</span>            <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> cellCoord_right(x_end + step, y);</div>
+<div class="line"><span class="lineno">  158</span>            <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> r_zone_right(cellCoord_right);</div>
+<div class="line"><span class="lineno">  159</span>            map.<a class="code hl_function" href="../../d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec">Visit</a>(r_zone_right, visitor);</div>
+<div class="line"><span class="lineno">  160</span>        }</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00706">Map::Visit()</a>, <a class="el" href="../../#l00151">CoordPair&lt; LIMIT &gt;::x_coord</a>, and <a class="el" href="../../#l00152">CoordPair&lt; LIMIT &gt;::y_coord</a>.</p>
 
@@ -1235,15 +1238,15 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  201</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
-<div class="line"><span class="lineno">  202</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  198</span>{</div>
+<div class="line"><span class="lineno">  199</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  203</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  204</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
 </div>
 </div>
@@ -1288,17 +1291,17 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
-<div class="line"><span class="lineno">  165</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
-<div class="line"><span class="lineno">  166</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  167</span> </div>
-<div class="line"><span class="lineno">  168</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  169</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  170</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
+<div class="line"><span class="lineno">  167</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
+<div class="line"><span class="lineno">  168</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  171</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
+<div class="line"><span class="lineno">  172</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02438">Creature::CallAssistance()</a>, <a class="el" href="../../#l02474">Creature::CallForHelp()</a>, <a class="el" href="../../#l01352">spell_gen_cannibalize::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00841">spell_hun_pet_carrion_feeder::CheckIfCorpseNear()</a>, <a class="el" href="../../#l01052">npc_q24545_lich_king::npc_q24545_lich_kingAI::CleanAll()</a>, <a class="el" href="../../#l05264">SmartScript::DoFindFriendlyCC()</a>, <a class="el" href="../../#l05274">SmartScript::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l01061">Creature::DoFleeToGetAssistance()</a>, <a class="el" href="../../#l05237">SmartScript::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l05250">SmartScript::DoSelectLowestHpPercentFriendly()</a>, <a class="el" href="../../#l00224">ValithriaDespawner::Execute()</a>, <a class="el" href="../../#l01362">npc_captain_arnath::npc_captain_arnathAI::FindFriendlyCreature()</a>, <a class="el" href="../../#l02468">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l02477">WorldObject::FindNearestGameObjectOfType()</a>, <a class="el" href="../../#l02513">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l02520">WorldObject::GetDeadCreatureListInGrid()</a>, <a class="el" href="../../#l02506">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00565">ChatHandler::GetNearbyGameObject()</a>, <a class="el" href="../../#l00263">mmaps_commandscript::HandleMmapTestArea()</a>, <a class="el" href="../../#l02404">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l00522">npc_green_dragon_combat_trigger::npc_green_dragon_combat_triggerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00039">GridObjectLoader::LoadCreatures()</a>, <a class="el" href="../../#l01393">GameObject::LookupFishingHoleAround()</a>, <a class="el" href="../../#l02253">at_icc_start_frostwing_gauntlet::OnTrigger()</a>, <a class="el" href="../../#l00653">boss_the_lich_king::boss_the_lich_kingAI::Reset()</a>, <a class="el" href="../../#l02148">Spell::SearchTargets()</a>, <a class="el" href="../../#l00629">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::UpdateAI()</a>, <a class="el" href="../../#l00888">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01141">npc_q24545_lich_king::npc_q24545_lich_kingAI::UpdateAI()</a>, and <a class="el" href="../../#l00826">npc_crok_scourgebane::npc_crok_scourgebaneAI::WaypointStart()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02438">Creature::CallAssistance()</a>, <a class="el" href="../../#l02474">Creature::CallForHelp()</a>, <a class="el" href="../../#l01352">spell_gen_cannibalize::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00841">spell_hun_pet_carrion_feeder::CheckIfCorpseNear()</a>, <a class="el" href="../../#l01052">npc_q24545_lich_king::npc_q24545_lich_kingAI::CleanAll()</a>, <a class="el" href="../../#l05264">SmartScript::DoFindFriendlyCC()</a>, <a class="el" href="../../#l05274">SmartScript::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l01061">Creature::DoFleeToGetAssistance()</a>, <a class="el" href="../../#l05237">SmartScript::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l05250">SmartScript::DoSelectLowestHpPercentFriendly()</a>, <a class="el" href="../../#l00224">ValithriaDespawner::Execute()</a>, <a class="el" href="../../#l01362">npc_captain_arnath::npc_captain_arnathAI::FindFriendlyCreature()</a>, <a class="el" href="../../#l02468">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l02477">WorldObject::FindNearestGameObjectOfType()</a>, <a class="el" href="../../#l02513">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l02520">WorldObject::GetDeadCreatureListInGrid()</a>, <a class="el" href="../../#l02506">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00565">ChatHandler::GetNearbyGameObject()</a>, <a class="el" href="../../#l00262">mmaps_commandscript::HandleMmapTestArea()</a>, <a class="el" href="../../#l02399">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l00522">npc_green_dragon_combat_trigger::npc_green_dragon_combat_triggerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00039">GridObjectLoader::LoadCreatures()</a>, <a class="el" href="../../#l01393">GameObject::LookupFishingHoleAround()</a>, <a class="el" href="../../#l02253">at_icc_start_frostwing_gauntlet::OnTrigger()</a>, <a class="el" href="../../#l00653">boss_the_lich_king::boss_the_lich_kingAI::Reset()</a>, <a class="el" href="../../#l02148">Spell::SearchTargets()</a>, <a class="el" href="../../#l00629">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::UpdateAI()</a>, <a class="el" href="../../#l00888">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01141">npc_q24545_lich_king::npc_q24545_lich_kingAI::UpdateAI()</a>, and <a class="el" href="../../#l00826">npc_crok_scourgebane::npc_crok_scourgebaneAI::WaypointStart()</a>.</p>
 
 </div>
 </div>
@@ -1355,15 +1358,15 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
-<div class="line"><span class="lineno">  208</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
-<div class="line"><span class="lineno">  211</span>    cell.Visit(p, wnotifier, *map, x, y, radius);</div>
-<div class="line"><span class="lineno">  212</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
+<div class="line"><span class="lineno">  210</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
+<div class="line"><span class="lineno">  213</span>    cell.Visit(p, wnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  214</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
 </div>
 </div>
@@ -1408,15 +1411,15 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
-<div class="line"><span class="lineno">  175</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
-<div class="line"><span class="lineno">  176</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
-<div class="line"><span class="lineno">  179</span>    cell.Visit(p, wnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  180</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  176</span>{</div>
+<div class="line"><span class="lineno">  177</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
+<div class="line"><span class="lineno">  178</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, WorldTypeMapContainer&gt;</a> wnotifier(visitor);</div>
+<div class="line"><span class="lineno">  181</span>    cell.Visit(p, wnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
+<div class="line"><span class="lineno">  182</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l03090">WorldObject::BuildUpdate()</a>, <a class="el" href="../../#l00787">npc_hallows_end_soh::CastFires()</a>, <a class="el" href="../../#l01352">spell_gen_cannibalize::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00841">spell_hun_pet_carrion_feeder::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00883">npc_hallows_end_soh::CompleteQuest()</a>, <a class="el" href="../../#l02957">WorldObject::DestroyForNearbyPlayers()</a>, <a class="el" href="../../#l04783">Spell::EffectForceDeselect()</a>, <a class="el" href="../../#l00517">ScriptedAI::GetPlayerAtMinimumRange()</a>, <a class="el" href="../../#l05414">AuraEffect::HandleAuraDummy()</a>, <a class="el" href="../../#l01872">spell_q11010_q11102_q11023_choose_loc::HandleDummy()</a>, <a class="el" href="../../#l00728">WorldSession::HandleTextEmoteOpcode()</a>, <a class="el" href="../../#l00346">npc_clintar_spirit::npc_clintar_spiritAI::IsSummonedBy()</a>, <a class="el" href="../../#l00387">spell_love_is_in_the_air_romantic_picnic::OnPeriodic()</a>, <a class="el" href="../../#l02941">WorldObject::PlayRadiusMusic()</a>, <a class="el" href="../../#l02913">WorldObject::PlayRadiusSound()</a>, <a class="el" href="../../#l02148">Spell::SearchTargets()</a>, <a class="el" href="../../#l02486">WorldObject::SelectNearestPlayer()</a>, <a class="el" href="../../#l00702">AchievementMgr::SendAchievementEarned()</a>, <a class="el" href="../../#l00180">CreatureTextMgr::SendChatPacket()</a>, <a class="el" href="../../#l02103">WorldObject::SendMessageToSet()</a>, <a class="el" href="../../#l05719">Player::SendMessageToSet()</a>, <a class="el" href="../../#l02097">WorldObject::SendMessageToSetInRange()</a>, <a class="el" href="../../#l05697">Player::SendMessageToSetInRange()</a>, <a class="el" href="../../#l05706">Player::SendMessageToSetInRange()</a>, <a class="el" href="../../#l21192">Unit::Talk()</a>, <a class="el" href="../../#l21244">Unit::Talk()</a>, <a class="el" href="../../#l00990">BfCapturePoint::Update()</a>, <a class="el" href="../../#l00316">OPvPCapturePoint::Update()</a>, <a class="el" href="../../#l00603">OPvPCapturePointNA::Update()</a>, <a class="el" href="../../#l00447">GameObject::Update()</a>, <a class="el" href="../../#l00786">npc_brewfest_super_brew_trigger::UpdateAI()</a>, <a class="el" href="../../#l00888">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l00332">go_flames::go_flamesAI::UpdateAI()</a>, <a class="el" href="../../#l00379">go_heat::go_heatAI::UpdateAI()</a>, <a class="el" href="../../#l00839">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l02984">WorldObject::UpdateObjectVisibility()</a>.</p>
 
@@ -1545,7 +1548,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/df1/structCell.html">Cell</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 06:20:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 18 2025 06:20:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

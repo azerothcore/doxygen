@@ -1,9 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d5e/structAuctionHouseSearchInfo.html#acf154bf30417c1a202ae85b4dd1adead":[6,0,262,3],
-"df/d5e/structAuctionHouseSearchInfo.html#ad81a5f3c2c58e620673539b6271ff8e9":[6,0,262,9],
-"df/d65/classspell__ooze__zap.html":[6,0,3449],
-"df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[6,0,3449,3],
 "df/d65/classspell__ooze__zap.html#a5b0a5f957a7b996cbe6b219a9803069e":[6,0,3449,2],
 "df/d65/classspell__ooze__zap.html#a6d2c75ad53f0e0f7be2df037f385d686":[6,0,3449,1],
 "df/d65/classspell__ooze__zap.html#ab3f8d94f3b8d44e668743cb821430a92":[6,0,3449,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX380 =
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02e7aba4a3c36ee2030914b3e3d37084":[7,0,0,0,1,3,5,1,0,0,14,12],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961":[7,0,0,0,1,3,5,1,0,0,14,2],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348":[7,0,0,0,1,3,5,1,0,0,14,1],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8":[7,0,0,0,1,3,5,1,0,0,14,14]
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8":[7,0,0,0,1,3,5,1,0,0,14,14],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55":[7,0,0,0,1,3,5,1,0,0,14,8],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39cddfd73c7a581aaae8b86425ab0513":[7,0,0,0,1,3,5,1,0,0,14,11],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430":[7,0,0,0,1,3,5,1,0,0,14,15],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a859e0907cf7afb553a4e513dd7b69160":[7,0,0,0,1,3,5,1,0,0,14,6]
 };

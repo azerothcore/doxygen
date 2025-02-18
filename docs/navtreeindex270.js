@@ -1,9 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html":[6,0,604,0],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a2cf09a0ea3428cd7f49e00b0ab629c3e":[6,0,604,0,16],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a49ed1d7da066305a46ab99fbd897572a":[6,0,604,0,10],
-"db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a51bea2ba94084c0ea6a8da98f08e02ce":[6,0,604,0,8],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a55c13b164aa2d0bc2bd4a18f3043fca2":[6,0,604,0,0],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a7cc99275d0b798a56aeb189f364669e9":[6,0,604,0,2],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#a8db4401bfec6986abe2490e1bb05b9ee":[6,0,604,0,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX270 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645":[7,0,0,0,1,3,2,7,0,2,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[7,0,0,0,1,3,2,7,0,2,12],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[7,0,0,0,1,3,2,7,0,2,0],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[7,0,0,0,1,3,2,7,0,2,5]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[7,0,0,0,1,3,2,7,0,2,5],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[7,0,0,0,1,3,2,7,0,2,7],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[7,0,0,0,1,3,2,7,0,2,11],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[7,0,0,0,1,3,2,7,0,2,8],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[7,0,0,0,1,3,2,7,0,2,4]
 };

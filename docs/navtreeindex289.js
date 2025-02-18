@@ -1,9 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"db/dd5/classCreature.html#ab7d351aa8efffae4f04f6f25ef4806b9":[6,0,907,205],
-"db/dd5/classCreature.html#ab845d9a60e029daa5c1e9f34fbe2aa4c":[6,0,907,19],
-"db/dd5/classCreature.html#ab861d1f64d1852833bf89f42c5412f0b":[6,0,907,286],
-"db/dd5/classCreature.html#ab889e4b3e49530c362799ae155352246":[6,0,907,71],
 "db/dd5/classCreature.html#ab972fe7efab1a5e541e29424c32e98ac":[6,0,907,231],
 "db/dd5/classCreature.html#aba89209c841c649d05a23226c14c2351":[6,0,907,32],
 "db/dd5/classCreature.html#abb2a08ef5b7ea16dc71e813b464e4b7d":[6,0,907,178],
@@ -242,12 +238,16 @@ var NAVTREEINDEX289 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2738,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2738,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[6,0,2738,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,890],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,890,0],
 "db/ddb/classTaskContext.html":[6,0,4075],
-"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[6,0,4075,20]
+"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[6,0,4075,20],
+"db/ddb/classTaskContext.html#a0cac55da6d10d0a74c9f83689d028174":[6,0,4075,28],
+"db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda":[6,0,4075,23],
+"db/ddb/classTaskContext.html#a40aa7f8f29b300c5252ffd23c7e1632f":[6,0,4075,4],
+"db/ddb/classTaskContext.html#a47b03e1428d2b3df88a0664b93b0debc":[6,0,4075,17]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d3/d7d/classMovementGenerator.html#a0040e427ac4a09273641a96a13fd4c1f":[6,0,1519,5],
 "d3/d7d/classMovementGenerator.html#a0f9c4fd52947688dcda1161924e829bb":[6,0,1519,9],
 "d3/d7d/classMovementGenerator.html#a13c3c432ac2a91dd4d07b090ec06b903":[6,0,1519,0],
 "d3/d7d/classMovementGenerator.html#a37530e5cd743faecabd21eba08dce939":[6,0,1519,6],
@@ -27,12 +26,12 @@ var NAVTREEINDEX101 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,53,0],
 "d3/d81/classAbominationDespawner.html":[6,0,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX101 =
 "d3/d83/classCircleBoundary.html#a65edd0aef7b73b176e5e311bb0d63738":[6,0,873,3],
 "d3/d83/classCircleBoundary.html#acbb3cc0c546f0e557a48a45425355950":[6,0,873,4],
 "d3/d83/classCircleBoundary.html#ad8eef3c2c98ee71a7d28d1e5d93ee508":[6,0,873,2],
-"d3/d83/classspell__algalon__remove__phase__aura.html":[6,0,2575]
+"d3/d83/classspell__algalon__remove__phase__aura.html":[6,0,2575],
+"d3/d83/classspell__algalon__remove__phase__aura.html#a14fd25f78c9e2bfbdaeb07f3233628b6":[6,0,2575,0]
 };

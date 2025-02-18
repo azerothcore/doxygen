@@ -1,9 +1,5 @@
 var NAVTREEINDEX368 =
 {
-"de/dd2/auchenai__crypts_8h.html#a31d630c40753c29f94ceac2db5e451a8":[7,0,0,0,1,3,7,0,0,0,5],
-"de/dd2/auchenai__crypts_8h.html#a44e28f969fff2c33cf76b8eaaff1898c":[7,0,0,0,1,3,7,0,0,0,0],
-"de/dd2/auchenai__crypts_8h.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961":[7,0,0,0,1,3,7,0,0,0,4],
-"de/dd2/auchenai__crypts_8h.html#aae3060cf5aa0b4d27bcbbfeee3db2856":[7,0,0,0,1,3,7,0,0,0,3],
 "de/dd2/auchenai__crypts_8h.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe":[7,0,0,0,1,3,7,0,0,0,3,0],
 "de/dd2/auchenai__crypts_8h.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8":[7,0,0,0,1,3,7,0,0,0,3,1],
 "de/dd2/auchenai__crypts_8h.html#abf97bec93b670890ad0eaa7d6b4bd4b9":[7,0,0,0,1,3,7,0,0,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX368 =
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b":[7,0,0,0,1,3,5,6,9,41,3],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caa0cd634c01d3c8d5ecf6339dcbe4ac53":[7,0,0,0,1,3,5,6,9,41,15],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caaedd791f2995c3a06c0c25be75c8522a":[7,0,0,0,1,3,5,6,9,41,32],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cabd5eef3f1b74c3c6b27720c8b9dadb6b":[7,0,0,0,1,3,5,6,9,41,13]
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cabd5eef3f1b74c3c6b27720c8b9dadb6b":[7,0,0,0,1,3,5,6,9,41,13],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cac85d6f8366ed996b0a55e4c661aacd41":[7,0,0,0,1,3,5,6,9,41,6],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf39450cf769b7beb843db9d1d73f62":[7,0,0,0,1,3,5,6,9,41,31],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caccb63962003ee4919f4fb6705092f56c":[7,0,0,0,1,3,5,6,9,41,24],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cad426932b1103da5d8cb5f7efb6d7fcfc":[7,0,0,0,1,3,5,6,9,41,17]
 };

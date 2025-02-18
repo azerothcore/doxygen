@@ -32,9 +32,8 @@ var GridDefines_8h =
       [ "GRID_MAP_TYPE_MASK_PLAYER", "d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1a21cae0e997f66481782878b049542c6e", null ],
       [ "GRID_MAP_TYPE_MASK_ALL", "d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1a911d5a5a64d897a2295ecd8366a763f7", null ]
     ] ],
-    [ "Compute", "d7/d34/GridDefines_8h.html#a2542f72c47ba39557150d861147748d1", null ],
+    [ "Compute", "d7/d34/GridDefines_8h.html#a17df66939c936195b601d2eecf30eaa0", null ],
     [ "ComputeCellCoord", "d7/d34/GridDefines_8h.html#af056a475dba505792191bc6e8c3370a5", null ],
-    [ "ComputeCellCoord", "d7/d34/GridDefines_8h.html#a140264392cb3077ed7bb734e39b73310", null ],
     [ "ComputeGridCoord", "d7/d34/GridDefines_8h.html#a4bbdd5e55a789ab8b861c1205f122b0e", null ],
     [ "ComputeGridCoordSimple", "d7/d34/GridDefines_8h.html#a2de9525f5b0c56d1f592f8c63f21f52c", null ],
     [ "IsValidMapCoord", "d7/d34/GridDefines_8h.html#aa0d982635f9cfc01b01bd05b05ceac08", null ],

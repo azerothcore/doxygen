@@ -1,9 +1,5 @@
 var NAVTREEINDEX273 =
 {
-"db/d48/structboss__gathios__the__shatterer.html#a1541f1efd3978a4c91b80e411aec6442":[6,0,490,3],
-"db/d48/structboss__gathios__the__shatterer.html#a34708f52c610e567c5acf62962e90d4e":[6,0,490,0],
-"db/d48/structboss__gathios__the__shatterer.html#a3d33c1a29b7ba2feb22ea9d3941b39ed":[6,0,490,2],
-"db/d48/structboss__gathios__the__shatterer.html#a52e9b7d3b1af46d3ecb6ca9432ee3957":[6,0,490,5],
 "db/d48/structboss__gathios__the__shatterer.html#a98ad625cf2ac9b1d8d9b41001ba4fb34":[6,0,490,1],
 "db/d48/structboss__gathios__the__shatterer.html#aa983e2d9018a9e53ee29840781f47c33":[6,0,490,4],
 "db/d48/structboss__gathios__the__shatterer.html#ad7e6f9e03968e2abac570d0c7a5de9e2":[6,0,490,6],
@@ -249,5 +245,9 @@ var NAVTREEINDEX273 =
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984":[7,0,0,0,1,3,9,1,37,21],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d":[7,0,0,0,1,3,9,1,37,24],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52":[7,0,0,0,1,3,9,1,37,12],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1":[7,0,0,0,1,3,9,1,37,13]
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1":[7,0,0,0,1,3,9,1,37,13],
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43":[7,0,0,0,1,3,9,1,37,11],
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994":[7,0,0,0,1,3,9,1,37,8],
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b":[7,0,0,0,1,3,9,1,37,0],
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89":[7,0,0,0,1,3,9,1,37,26]
 };

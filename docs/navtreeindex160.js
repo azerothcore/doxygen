@@ -1,8 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"d5/dfb/classObjectMgr.html#aa7a855ec14472960883d4f399f8758bf":[6,0,2308,398],
-"d5/dfb/classObjectMgr.html#aa7e6865d591c3a2eebcf0d9944a9c137":[6,0,2308,161],
-"d5/dfb/classObjectMgr.html#aa82e1da9905987a33a74e41223bacc3d":[6,0,2308,157],
 "d5/dfb/classObjectMgr.html#aa8b0010e059e95b5749136a2cb785709":[6,0,2308,297],
 "d5/dfb/classObjectMgr.html#aa93f8a8b1d152d202ce17142944b1fe3":[6,0,2308,19],
 "d5/dfb/classObjectMgr.html#aa973ea9999959366f30d8332f29963ac":[6,0,2308,189],
@@ -192,8 +189,8 @@ var NAVTREEINDEX160 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[6,0,21,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[6,0,21,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX160 =
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a07f1af63bc54d1b4c8d8e1cd87a787a1":[6,0,500,0,3],
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a52bc5f76baff626b8834aa604fdd8e6a":[6,0,500,0,1],
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#aa17e26419a8e3f7cd99c5e9b44be8ed8":[6,0,500,0,2],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#adac003c51a2d1d0a8daa6ba552114c25":[6,0,500,0,0]
+"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#adac003c51a2d1d0a8daa6ba552114c25":[6,0,500,0,0],
+"d6/d03/classinstance__utgarde__keep.html":[6,0,1345],
+"d6/d03/classinstance__utgarde__keep.html#a9a42e0dde1c7598eb2ef665f11e25e92":[6,0,1345,2],
+"d6/d03/classinstance__utgarde__keep.html#abe013e4f086f63722a6398b2b7928c80":[6,0,1345,1]
 };

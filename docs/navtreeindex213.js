@@ -1,9 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d8/d61/classspell__galdarah__impaling__charge.html#a80638966202cb9e27d204ea621e379ef":[6,0,2857,2],
-"d8/d61/classspell__galdarah__impaling__charge.html#aaa3505a74905b91f52e37b0ded0ba7fd":[6,0,2857,3],
-"d8/d61/classspell__galdarah__impaling__charge.html#ac71784d7d135df4828ddcf5c85c4301c":[6,0,2857,0],
-"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html":[6,0,669,0],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a170de8517a03a0e78b1e67652869fd9a":[6,0,669,0,4],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a6f9fc7dad68f35846ee76d4bff564407":[6,0,669,0,0],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a93cfa3f706ffadd94ad4dbe0585eebf1":[6,0,669,0,1],
@@ -138,8 +134,8 @@ var NAVTREEINDEX213 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,453,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[6,0,453,2],
 "d8/d6e/PetHandler_8cpp.html":[7,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
 "d8/d6f/classnpc__injured__draenei.html":[6,0,1884],
 "d8/d6f/classnpc__injured__draenei.html#a660c0f0c4ed41d70ad0a50cde25c1d14":[6,0,1884,1],
 "d8/d6f/classnpc__injured__draenei.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb":[6,0,1884,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX213 =
 "d8/d72/classBattlegroundQueue.html#a49de2d2dc31c0e780bdae8eb9cec3c29":[6,0,329,13],
 "d8/d72/classBattlegroundQueue.html#a504448a85ed444c66a96169306c8a7a1":[6,0,329,17],
 "d8/d72/classBattlegroundQueue.html#a570f402208b08ba797440d8ad2df22bd":[6,0,329,32],
-"d8/d72/classBattlegroundQueue.html#a58c38c8c7512fb348451e0ac8c6f1900":[6,0,329,25]
+"d8/d72/classBattlegroundQueue.html#a58c38c8c7512fb348451e0ac8c6f1900":[6,0,329,25],
+"d8/d72/classBattlegroundQueue.html#a5982554745cc6150ac7dcb910c865d3c":[6,0,329,28],
+"d8/d72/classBattlegroundQueue.html#a6121371548913f7d71a22884fc17a259":[6,0,329,11],
+"d8/d72/classBattlegroundQueue.html#a6197f159dd1684dee91e5731e437c765":[6,0,329,3],
+"d8/d72/classBattlegroundQueue.html#a61c5491ac53b40ebb128a68607a3e8d4":[6,0,329,24]
 };
