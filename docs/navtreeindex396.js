@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,5,3,6,4],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a41c4d833a970359acddae580527f47e3":[7,0,0,0,1,3,7,5,3,6,4,3],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a737b73a75ea3258deccf10804f459315":[7,0,0,0,1,3,7,5,3,6,4,2],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,5,3,6,4,5],
@@ -8,10 +9,10 @@ var NAVTREEINDEX396 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,11,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,30,11,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,30,11,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,356],
@@ -82,12 +83,12 @@ var NAVTREEINDEX396 =
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,838,25],
 "df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18],
 "df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,838,22],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3292],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3292,2],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3292,4],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3292,0],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3292,3],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3292,1],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3291],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3291,2],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3291,4],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3291,0],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3291,3],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3291,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,1,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,0,6],
 "df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a147cb1e026431254297f5950e80d12d8":[7,0,0,0,1,3,5,8,2,0,6,1],
 "df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a602c4b9dbf5b8a6350c97f5a074794f7":[7,0,0,0,1,3,5,8,2,0,6,0],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,8,2,0,6,2],
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,6,3]
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,8,2,0,6,2]
 };

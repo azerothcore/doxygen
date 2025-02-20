@@ -1,6 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aff420b042588a02e45a53a11f637807f":[7,0,0,0,1,3,2,17,64],
 "dc/ddc/classinstance__eye__of__eternity.html":[6,0,1293],
 "dc/ddc/classinstance__eye__of__eternity.html#af51319609d355fe87a77a87eb697f434":[6,0,1293,2],
 "dc/ddc/classinstance__eye__of__eternity.html#afcab4ba969d0423871a4e398627a323d":[6,0,1293,1],
@@ -218,11 +217,11 @@ var NAVTREEINDEX311 =
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#acc1a3842ddae670e23d8c55e8768ace9":[6,0,1789,0,2],
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#ae1e2a4763e8bfc8ab04687829830c639":[6,0,1789,0,6],
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#aea512a9811ec0766b9b175ec2ca9a447":[6,0,1789,0,7],
-"dc/de2/classspell__dru__bear__form__passive.html":[6,0,2782],
-"dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2782,3],
-"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2782,0],
-"dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2782,1],
-"dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2782,2],
+"dc/de2/classspell__dru__bear__form__passive.html":[6,0,2781],
+"dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2781,3],
+"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2781,0],
+"dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2781,1],
+"dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2781,2],
 "dc/de3/structboss__isalien.html":[6,0,548],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[6,0,548,5],
 "dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[6,0,548,2],
@@ -233,10 +232,10 @@ var NAVTREEINDEX311 =
 "dc/de3/structboss__isalien.html#a95d461e099193b5e2c1363acb1b5939a":[6,0,548,1],
 "dc/de3/structboss__isalien.html#aa067bea34557a4b2fe840ef305852bc0":[6,0,548,6],
 "dc/de3/structboss__isalien.html#ad6714da515db77c7299ee80b3268433e":[6,0,548,3],
-"dc/de4/classPartyTimeEmoteEvent.html":[6,0,2360],
-"dc/de4/classPartyTimeEmoteEvent.html#a525efd58fc8465658208058e6dc5d31c":[6,0,2360,0],
-"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[6,0,2360,2],
-"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2360,1],
+"dc/de4/classPartyTimeEmoteEvent.html":[6,0,2359],
+"dc/de4/classPartyTimeEmoteEvent.html#a525efd58fc8465658208058e6dc5d31c":[6,0,2359,0],
+"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[6,0,2359,2],
+"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2359,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html":[6,0,1314,0],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a04ea989733a6ba1bed1990e1ea8baf1f":[6,0,1314,0,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c":[6,0,1314,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX311 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a5043a99a4a3d1c86a4a7026757ebdc14":[6,0,1314,0,11],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a559b482989ee8f91f1ba412683856d89":[6,0,1314,0,20],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a58b0b5142cbae350d6cc61c89a3792af":[6,0,1314,0,10],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a7046a9b087300d0854bb1078c7bd1c9b":[6,0,1314,0,7]
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a7046a9b087300d0854bb1078c7bd1c9b":[6,0,1314,0,7],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a84fa94a97c62ba7b68130c7a5d8bb4dd":[6,0,1314,0,8]
 };

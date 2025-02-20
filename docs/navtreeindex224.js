@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[6,0,4028,7],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[6,0,4028,4],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[6,0,4028,2],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#af69ed83578024b979dc9d65ff5ddc83b":[6,0,4028,1],
 "d8/dde/classat__hor__shadow__throne.html":[6,0,218],
@@ -101,9 +103,9 @@ var NAVTREEINDEX224 =
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaccbe25a95fcd8c56847451954286c3a":[7,0,0,0,1,3,5,6,7,31,9],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae48ed16e3d81e698b26347019dff68be":[7,0,0,0,1,3,5,6,7,31,6],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe67fa0dd0861c8771b271303bdbec75":[7,0,0,0,1,3,5,6,7,31,3],
-"d8/ddf/classnpc__spectral__footman.html":[6,0,2113],
-"d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2113,1],
-"d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2113,2],
+"d8/ddf/classnpc__spectral__footman.html":[6,0,2112],
+"d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2112,1],
+"d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2112,2],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html":[6,0,523,0],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8":[6,0,523,0,11],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a211387ae4f89d54a22a4f8515239d1c3":[6,0,523,0,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "d8/de0/classboss__thorim__lightning__orb.html":[6,0,735],
 "d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,735,1],
 "d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,735,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1929],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1929,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1929,1]
+"d8/de0/structnpc__lord__sanguinar.html":[6,0,1929]
 };

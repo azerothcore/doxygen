@@ -8,7 +8,7 @@ var structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMa
     [ "CheckLowerSpire", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a75c4db58fcc06dcbc5219d202cfa46bd", null ],
     [ "CheckPlagueworks", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ae834bf7f8b00b8ea8f4a00cbb7ebf1c1", null ],
     [ "CheckRequiredBosses", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ac323de5e6f30d11362dcc9a8e3046c3d", null ],
-    [ "FillInitialWorldStates", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#af232705438f9ce03cb4329bfee3e1df5", null ],
+    [ "FillInitialWorldStates", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#aaae28f5ab72aef95a63518d9666136fd", null ],
     [ "GetCreatureEntry", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#aad0d22370d402ac2801e68eecae5f230", null ],
     [ "GetData", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a124102c1f65323c5fb83dbd9de19f18e", null ],
     [ "GetGameObjectEntry", "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a3c0a7fe38df65d3e82ce92d2365df31f", null ],

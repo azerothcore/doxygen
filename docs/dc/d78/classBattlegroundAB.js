@@ -10,7 +10,7 @@ var classBattlegroundAB =
     [ "DeleteBanner", "dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5", null ],
     [ "EndBattleground", "dc/d78/classBattlegroundAB.html#a94a57fa4c05fba5ef64b909bc292c798", null ],
     [ "EventPlayerClickedOnFlag", "dc/d78/classBattlegroundAB.html#aa48d02d4e88bb3860945b4de7e413241", null ],
-    [ "FillInitialWorldStates", "dc/d78/classBattlegroundAB.html#a5e7790f712aff9cbb49c485f4e4dca16", null ],
+    [ "FillInitialWorldStates", "dc/d78/classBattlegroundAB.html#a0bbc64eabc2bd3352e04008f06efda28", null ],
     [ "GetClosestGraveyard", "dc/d78/classBattlegroundAB.html#acc3b937b5148fab5ca05b67d8fd93d68", null ],
     [ "GetPrematureWinner", "dc/d78/classBattlegroundAB.html#a3c414dfe5ab6cce6d62e5ef79246b59c", null ],
     [ "HandleAreaTrigger", "dc/d78/classBattlegroundAB.html#a2f560ac8b9970e9f014f7ed2499b7258", null ],

@@ -23,6 +23,7 @@ var spell__priest_8cpp =
     [ "spell_pri_vampiric_touch", "d2/d45/classspell__pri__vampiric__touch.html", "d2/d45/classspell__pri__vampiric__touch" ],
     [ "spell_pri_mind_control", "d7/d0f/classspell__pri__mind__control.html", "d7/d0f/classspell__pri__mind__control" ],
     [ "spell_pri_t4_4p_bonus", "d2/db2/classspell__pri__t4__4p__bonus.html", "d2/db2/classspell__pri__t4__4p__bonus" ],
+    [ "spell_pri_shadowfiend_death", "d0/d6a/classspell__pri__shadowfiend__death.html", "d0/d6a/classspell__pri__shadowfiend__death" ],
     [ "Mics", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f", [
       [ "PRIEST_LIGHTWELL_NPC_1", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa9bfaa0e89cf08c8ab24187cae961c97c", null ],
       [ "PRIEST_LIGHTWELL_NPC_2", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8", null ],
@@ -55,6 +56,8 @@ var spell__priest_8cpp =
       [ "SPELL_PRIEST_T9_HEALING_2P", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
       [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
       [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
       [ "SPELL_GENERIC_ARENA_DAMPENING", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
       [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
       [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],

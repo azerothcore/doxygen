@@ -13,7 +13,7 @@ var classBattlegroundSA =
     [ "EventPlayerClickedOnFlag", "d4/d3e/classBattlegroundSA.html#a5eadd31adcd3f742a55ccd6c7c879869", null ],
     [ "EventPlayerDamagedGO", "d4/d3e/classBattlegroundSA.html#aca0440f81eab500e1a1a0c916ba58cd2", null ],
     [ "EventPlayerUsedGO", "d4/d3e/classBattlegroundSA.html#a2bb2fc11d239e21ee50c5aef63b4f41f", null ],
-    [ "FillInitialWorldStates", "d4/d3e/classBattlegroundSA.html#a5e52c123d34a3ca704160ad576004c4a", null ],
+    [ "FillInitialWorldStates", "d4/d3e/classBattlegroundSA.html#ad995b549bc809c64a309c83d66268f57", null ],
     [ "GetClosestGraveyard", "d4/d3e/classBattlegroundSA.html#a166c203774538fd4ec1fc774ed50472f", null ],
     [ "GetGateIDFromEntry", "d4/d3e/classBattlegroundSA.html#ada0cb515fadd9383d0a6f595c971b306", null ],
     [ "GetWorldStateFromGateID", "d4/d3e/classBattlegroundSA.html#a4d589e43b20f9a96dc13c07047fde356", null ],

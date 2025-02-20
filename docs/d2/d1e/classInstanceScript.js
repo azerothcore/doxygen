@@ -27,7 +27,7 @@ var classInstanceScript =
     [ "DoUpdateAchievementCriteria", "d2/d1e/classInstanceScript.html#a34f9bf633ad83de55a5f09e9567ca6a9", null ],
     [ "DoUpdateWorldState", "d2/d1e/classInstanceScript.html#aedd4eef2e0653d655e20fdd5343b372e", null ],
     [ "DoUseDoorOrButton", "d2/d1e/classInstanceScript.html#a3ddcb4558a36e54ae0b1e37204de09fa", null ],
-    [ "FillInitialWorldStates", "d2/d1e/classInstanceScript.html#a1c5708ec7b48e3657cde0f4e960586bb", null ],
+    [ "FillInitialWorldStates", "d2/d1e/classInstanceScript.html#a82f7dca46aa947abc0bc561cb044357f", null ],
     [ "GetBossBoundary", "d2/d1e/classInstanceScript.html#a677713180e18358e1e984f42805c0747", null ],
     [ "GetBossInfo", "d2/d1e/classInstanceScript.html#a24814ea53b08e7c7281b5abc609499ae", null ],
     [ "GetBossState", "d2/d1e/classInstanceScript.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2", null ],

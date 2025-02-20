@@ -2,7 +2,7 @@ var classOPvPCapturePointTF =
 [
     [ "OPvPCapturePointTF", "dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
     [ "ChangeState", "dd/d27/classOPvPCapturePointTF.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
-    [ "FillInitialWorldStates", "dd/d27/classOPvPCapturePointTF.html#ad8ec5b055da6a7d34b8db0e8a75e65c8", null ],
+    [ "FillInitialWorldStates", "dd/d27/classOPvPCapturePointTF.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
     [ "HandlePlayerEnter", "dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
     [ "HandlePlayerLeave", "dd/d27/classOPvPCapturePointTF.html#ace20d19311478a136ae0b75016c36ea8", null ],
     [ "ResetToTeamControlled", "dd/d27/classOPvPCapturePointTF.html#a7ad637f6a4005da3166601dafda52d1b", null ],

@@ -5,7 +5,7 @@ var classOPvPCapturePointNA =
     [ "DespawnCreatures", "d3/d62/classOPvPCapturePointNA.html#a6c8643092cbe18f5d9c1f6976a29795b", null ],
     [ "DespawnGOs", "d3/d62/classOPvPCapturePointNA.html#a4d87db5c0ead53aefe174b9f51793222", null ],
     [ "FactionTakeOver", "d3/d62/classOPvPCapturePointNA.html#a796f352d5581a0a82bba86821b592e89", null ],
-    [ "FillInitialWorldStates", "d3/d62/classOPvPCapturePointNA.html#aa6a60d2f8f9a5ec2687beccb8e5c2959", null ],
+    [ "FillInitialWorldStates", "d3/d62/classOPvPCapturePointNA.html#a92eefe38e4089c17759ece55747c83e9", null ],
     [ "GetAliveGuardsCount", "d3/d62/classOPvPCapturePointNA.html#a50baebf1ee9f8d4a3d8bcc00ff87529a", null ],
     [ "GetControllingFaction", "d3/d62/classOPvPCapturePointNA.html#a7e4158865b6a5f00d41fe331b0e7e2f4", null ],
     [ "HandleCustomSpell", "d3/d62/classOPvPCapturePointNA.html#a139da552f460d580aa35d0efc8f04fb7", null ],

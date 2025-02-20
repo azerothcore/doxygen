@@ -342,14 +342,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  423</span>    {</div>
-<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  425</span>        {</div>
-<div class="line"><span class="lineno">  426</span>            <span class="comment">// Bonus from Glyph of Lightwell</span></div>
-<div class="line"><span class="lineno">  427</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* modHealing = caster-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d">SPELL_PRIEST_GLYPH_OF_LIGHTWELL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
-<div class="line"><span class="lineno">  428</span>                <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(amount, modHealing-&gt;GetAmount());</div>
-<div class="line"><span class="lineno">  429</span>        }</div>
-<div class="line"><span class="lineno">  430</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  425</span>    {</div>
+<div class="line"><span class="lineno">  426</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  427</span>        {</div>
+<div class="line"><span class="lineno">  428</span>            <span class="comment">// Bonus from Glyph of Lightwell</span></div>
+<div class="line"><span class="lineno">  429</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* modHealing = caster-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d">SPELL_PRIEST_GLYPH_OF_LIGHTWELL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
+<div class="line"><span class="lineno">  430</span>                <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(amount, modHealing-&gt;GetAmount());</div>
+<div class="line"><span class="lineno">  431</span>        }</div>
+<div class="line"><span class="lineno">  432</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aUtil_8h_html_a53176b459b4462b058b2a1be47ef82ee"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a></div><div class="ttdeci">T AddPct(T &amp;base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:67</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
@@ -359,7 +359,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00067">AddPct()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00037">SPELL_PRIEST_GLYPH_OF_LIGHTWELL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00447">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00449">Register()</a>.</p>
 
 </div>
 </div>
@@ -396,19 +396,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  433</span>    {</div>
-<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  435</span>        {</div>
-<div class="line"><span class="lineno">  436</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno">  437</span>            {</div>
-<div class="line"><span class="lineno">  438</span>                <a class="code hl_class" href="../../d0/d57/classUpdateData.html">UpdateData</a> data;</div>
-<div class="line"><span class="lineno">  439</span>                <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> packet;</div>
-<div class="line"><span class="lineno">  440</span>                caster-&gt;BuildValuesUpdateBlockForPlayer(&amp;data, player);</div>
-<div class="line"><span class="lineno">  441</span>                data.<a class="code hl_function" href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(packet);</div>
-<div class="line"><span class="lineno">  442</span>                player-&gt;SendDirectMessage(&amp;packet);</div>
-<div class="line"><span class="lineno">  443</span>            }</div>
-<div class="line"><span class="lineno">  444</span>        }</div>
-<div class="line"><span class="lineno">  445</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  435</span>    {</div>
+<div class="line"><span class="lineno">  436</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  437</span>        {</div>
+<div class="line"><span class="lineno">  438</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">  439</span>            {</div>
+<div class="line"><span class="lineno">  440</span>                <a class="code hl_class" href="../../d0/d57/classUpdateData.html">UpdateData</a> data;</div>
+<div class="line"><span class="lineno">  441</span>                <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> packet;</div>
+<div class="line"><span class="lineno">  442</span>                caster-&gt;BuildValuesUpdateBlockForPlayer(&amp;data, player);</div>
+<div class="line"><span class="lineno">  443</span>                data.<a class="code hl_function" href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(packet);</div>
+<div class="line"><span class="lineno">  444</span>                player-&gt;SendDirectMessage(&amp;packet);</div>
+<div class="line"><span class="lineno">  445</span>            }</div>
+<div class="line"><span class="lineno">  446</span>        }</div>
+<div class="line"><span class="lineno">  447</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
 <div class="ttc" id="aclassUpdateData_html"><div class="ttname"><a href="../../d0/d57/classUpdateData.html">UpdateData</a></div><div class="ttdef"><b>Definition</b> UpdateData.h:52</div></div>
@@ -417,7 +417,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00447">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00449">Register()</a>.</p>
 
 </div>
 </div>
@@ -471,11 +471,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  448</span>    {</div>
-<div class="line"><span class="lineno">  449</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a5d4549ac73b46382c1beddbb65257ad0">spell_pri_lightwell_renew::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
-<div class="line"><span class="lineno">  450</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  451</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  452</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  450</span>    {</div>
+<div class="line"><span class="lineno">  451</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a5d4549ac73b46382c1beddbb65257ad0">spell_pri_lightwell_renew::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
+<div class="line"><span class="lineno">  452</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  453</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  454</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_HEAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:71</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:772</div></div>
@@ -484,10 +484,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
 <div class="ttc" id="aclassAuraScript_html_a509262d9721d83783e19142eee1645df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AuraScript::AfterEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:742</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
-<div class="ttc" id="aclassspell__pri__lightwell__renew_html_a5d4549ac73b46382c1beddbb65257ad0"><div class="ttname"><a href="../../da/d92/classspell__pri__lightwell__renew.html#a5d4549ac73b46382c1beddbb65257ad0">spell_pri_lightwell_renew::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:422</div></div>
-<div class="ttc" id="aclassspell__pri__lightwell__renew_html_a89956d7f3a6404d5b60e46034867c82c"><div class="ttname"><a href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a></div><div class="ttdeci">void HandleUpdateSpellclick(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:432</div></div>
+<div class="ttc" id="aclassspell__pri__lightwell__renew_html_a5d4549ac73b46382c1beddbb65257ad0"><div class="ttname"><a href="../../da/d92/classspell__pri__lightwell__renew.html#a5d4549ac73b46382c1beddbb65257ad0">spell_pri_lightwell_renew::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:424</div></div>
+<div class="ttc" id="aclassspell__pri__lightwell__renew_html_a89956d7f3a6404d5b60e46034867c82c"><div class="ttname"><a href="../../da/d92/classspell__pri__lightwell__renew.html#a89956d7f3a6404d5b60e46034867c82c">spell_pri_lightwell_renew::HandleUpdateSpellclick</a></div><div class="ttdeci">void HandleUpdateSpellclick(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:434</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00422">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00432">HandleUpdateSpellclick()</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00424">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00434">HandleUpdateSpellclick()</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
 
 </div>
 </div>
@@ -500,7 +500,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d92/classspell__pri__lightwell__renew.html">spell_pri_lightwell_renew</a></li>
-    <li class="footer">Generated on Wed Feb 19 2025 06:21:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 20 2025 06:21:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

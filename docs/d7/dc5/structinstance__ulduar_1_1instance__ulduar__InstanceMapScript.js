@@ -2,7 +2,7 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
 [
     [ "instance_ulduar_InstanceMapScript", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac34aed0e0504aa2b603c2701ab8ae2fb", null ],
     [ "CheckAchievementCriteriaMeet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd", null ],
-    [ "FillInitialWorldStates", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a29c1a2729e3c291498657a94599642f9", null ],
+    [ "FillInitialWorldStates", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a881215831485df502c95b2ea99f593e4", null ],
     [ "GetData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab73afbc81283f58b786e1b62848df3e2", null ],
     [ "GetGuidData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac2feda8cd6838208b4125660768bd149", null ],
     [ "Initialize", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a566e3c3ddf7e5ccd03cacadc11033782", null ],

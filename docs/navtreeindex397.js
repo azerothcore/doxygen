@@ -1,15 +1,16 @@
 var NAVTREEINDEX397 =
 {
-"df/df7/classnpc__phantom__hallucination.html":[6,0,2020],
-"df/df7/classnpc__phantom__hallucination.html#a685889c090152a2562ee9adef7efbf71":[6,0,2020,1],
-"df/df7/classnpc__phantom__hallucination.html#a771ee338f87ca0a2e9a7d02d1322c5d5":[6,0,2020,2],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,6,3],
+"df/df7/classnpc__phantom__hallucination.html":[6,0,2019],
+"df/df7/classnpc__phantom__hallucination.html#a685889c090152a2562ee9adef7efbf71":[6,0,2019,1],
+"df/df7/classnpc__phantom__hallucination.html#a771ee338f87ca0a2e9a7d02d1322c5d5":[6,0,2019,2],
 "df/df8/CombatHandler_8cpp.html":[7,0,0,0,1,2,22,11],
 "df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1],
 "df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[7,0,0,0,1,2,22,1,1],
-"df/df9/classspell__brewfest__reveler__transform.html":[6,0,2661],
-"df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[6,0,2661,1],
-"df/df9/classspell__brewfest__reveler__transform.html#a4a276b00d4912c210598057620368934":[6,0,2661,0],
-"df/df9/classspell__brewfest__reveler__transform.html#adf9962252dec76f324b8cdbf8f6b9155":[6,0,2661,2],
+"df/df9/classspell__brewfest__reveler__transform.html":[6,0,2660],
+"df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[6,0,2660,1],
+"df/df9/classspell__brewfest__reveler__transform.html#a4a276b00d4912c210598057620368934":[6,0,2660,0],
+"df/df9/classspell__brewfest__reveler__transform.html#adf9962252dec76f324b8cdbf8f6b9155":[6,0,2660,2],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html":[6,0,688,0],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a30331f9cdb141cd2dbc043888b48a6eb":[6,0,688,0,1],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a458eb370872c20441b5ec6ecd2c97500":[6,0,688,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "dir_d9de844c1d859dc2cc6a65181dd33644.html":[7,0,0,0,1,2,8,1],
 "dir_da01a965bae6fd871215c00876339143.html":[7,0,0,0,1,3,7,3],
 "dir_ddeb450e5fe586f747c0635391d1d1d6.html":[7,0,0,0,1,3,2],
-"dir_df159a8f325d88d9d469ac728430a4fa.html":[7,0,0,0,1,4,0],
-"dir_e068b882fd581e5818b3e126213c1b22.html":[7,0,0,0,1,3,4,1,0]
+"dir_df159a8f325d88d9d469ac728430a4fa.html":[7,0,0,0,1,4,0]
 };

@@ -13,7 +13,7 @@ var classBattlefield =
     [ "CanFlyIn", "d6/d26/classBattlefield.html#aa5ed54065b1201e086a89240a6acc1cc", null ],
     [ "DoPlaySoundToAll", "d6/d26/classBattlefield.html#a1893e076847e04d2ee3ffbc289eb81ce", null ],
     [ "EndBattle", "d6/d26/classBattlefield.html#a37273312df76cae483824bb433d0b7d9", null ],
-    [ "FillInitialWorldStates", "d6/d26/classBattlefield.html#a2aa80b24d7a93b31d608a721eab569ad", null ],
+    [ "FillInitialWorldStates", "d6/d26/classBattlefield.html#a58c82a0d241228d076c5cb3e1362d2db", null ],
     [ "GetAttackerTeam", "d6/d26/classBattlefield.html#af499c86fd4f5c8ad547b5b097cd4a8ad", null ],
     [ "GetBattleId", "d6/d26/classBattlefield.html#a4afc0154d583a0d185deef8b779c3c04", null ],
     [ "GetClosestGraveyard", "d6/d26/classBattlefield.html#ad03120a119fbcb5cb1291b6d2f793094", null ],

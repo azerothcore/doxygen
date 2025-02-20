@@ -5,7 +5,7 @@ var classBattlefieldWG =
     [ "BrokenWallOrTower", "d0/d76/classBattlefieldWG.html#ad3f0346dd291e421a5adcd57eb079760", null ],
     [ "CanInteractWithRelic", "d0/d76/classBattlefieldWG.html#a7ef5a828ca28b98eb8c2a9ef7a6810f0", null ],
     [ "CapturePointTaken", "d0/d76/classBattlefieldWG.html#a9a0271f0b293c0254ce7d62de4feffad", null ],
-    [ "FillInitialWorldStates", "d0/d76/classBattlefieldWG.html#a342335a625c363d8f4a24b612579d377", null ],
+    [ "FillInitialWorldStates", "d0/d76/classBattlefieldWG.html#ad40fb6e7319111ee509f38fad409cda8", null ],
     [ "FindAndRemoveVehicleFromList", "d0/d76/classBattlefieldWG.html#aadb26dd791017117ee7bb66ca284d35a", null ],
     [ "GetAreaByGraveyardId", "d0/d76/classBattlefieldWG.html#a575c3c315ace0a0bb258b27b08931068", null ],
     [ "GetData", "d0/d76/classBattlefieldWG.html#aca0fcf8b29b4b7f8bd7cb595c7f751cc", null ],

@@ -1,6 +1,5 @@
 var NAVTREEINDEX250 =
 {
-"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,116,0],
 "da/d4b/classCastArmageddon.html":[6,0,834],
 "da/d4b/classCastArmageddon.html#a1e70887099a7a47b7c26517d4363ad93":[6,0,834,2],
 "da/d4b/classCastArmageddon.html#a2e90929b63e6151252aa01a55dbd801f":[6,0,834,0],
@@ -33,9 +32,9 @@ var NAVTREEINDEX250 =
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#aec8a2a424ff10099437cbc7e7ca03ae3":[6,0,1967,0,10],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#af13f2f59692b16ad24d17442efe9f834":[6,0,1967,0,14],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#afd7e3b65e8091e5f24367c8de65df200":[6,0,1967,0,3],
-"da/d4c/structPageText.html":[6,0,2357],
-"da/d4c/structPageText.html#a5ea0eba89ecb21a09b184efd5dc57dc0":[6,0,2357,0],
-"da/d4c/structPageText.html#a9c13498341adce66590cb198b720f96f":[6,0,2357,1],
+"da/d4c/structPageText.html":[6,0,2356],
+"da/d4c/structPageText.html#a5ea0eba89ecb21a09b184efd5dc57dc0":[6,0,2356,0],
+"da/d4c/structPageText.html#a9c13498341adce66590cb198b720f96f":[6,0,2356,1],
 "da/d4c/violet__hold_8h.html":[7,0,0,0,1,3,5,12,9],
 "da/d4c/violet__hold_8h.html#a010ab021da28385aeeb36c541f954cdc":[7,0,0,0,1,3,5,12,9,36],
 "da/d4c/violet__hold_8h.html#a01f9cd79d36cfca9abc3129f02ed93ba":[7,0,0,0,1,3,5,12,9,16],
@@ -217,11 +216,11 @@ var NAVTREEINDEX250 =
 "da/d50/ItemEnchantmentMgr_8h.html#a25026e783b088b45eebd4db8295b1b87":[7,0,0,0,1,2,16,4,5,0],
 "da/d50/ItemEnchantmentMgr_8h.html#a376fabf7bba54eaf928217f860f1c33b":[7,0,0,0,1,2,16,4,5,2],
 "da/d50/ItemEnchantmentMgr_8h.html#a76d03c9ceb2d3ac35582eaea4624544f":[7,0,0,0,1,2,16,4,5,1],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html":[6,0,2916],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2120cecbca61e4c7380892fe8d43772a":[6,0,2916,2],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2854357f92b1faac6e7840f1576138e0":[6,0,2916,0],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a7960ca4deb4ff61d04ea7fe7ec0f0471":[6,0,2916,1],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a98c71c0d4c4b0503e66ed2033946cb2e":[6,0,2916,3],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html":[6,0,2915],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2120cecbca61e4c7380892fe8d43772a":[6,0,2915,2],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2854357f92b1faac6e7840f1576138e0":[6,0,2915,0],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a7960ca4deb4ff61d04ea7fe7ec0f0471":[6,0,2915,1],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a98c71c0d4c4b0503e66ed2033946cb2e":[6,0,2915,3],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html":[6,0,1634,0],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a095587a925d6054da2e2fdc9de2b415e":[6,0,1634,0,7],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a24293b807b8999acbb6fbe59e3c06232":[6,0,1634,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX250 =
 "da/d53/boss__eregos_8cpp.html#a3018d2eec0f678e0cfade4ec6e226259":[7,0,0,0,1,3,5,8,2,1,8],
 "da/d53/boss__eregos_8cpp.html#a46a311f1484a23f697614b35a94255ed":[7,0,0,0,1,3,5,8,2,1,3],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,1,6],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0389df4fe9df0a23018c0c898f6904cb":[7,0,0,0,1,3,5,8,2,1,6,5]
+"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0389df4fe9df0a23018c0c898f6904cb":[7,0,0,0,1,3,5,8,2,1,6,5],
+"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3758183c8861bf06b306d425ee3277e2":[7,0,0,0,1,3,5,8,2,1,6,3]
 };

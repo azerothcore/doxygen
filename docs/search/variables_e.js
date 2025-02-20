@@ -90,7 +90,7 @@ var searchData=
   ['newmountguid_87',['NewMountGUID',['../d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a06e384e12f998cd1165255199dec6371',1,'boss_grand_champion::boss_grand_championAI']]],
   ['newpower_88',['newPower',['../dd/d27/structSmartAction.html#a14e689eb32d8aa1bc56bdac0432338f6',1,'SmartAction']]],
   ['newtoqueuestore_89',['newToQueueStore',['../dd/da2/classlfg_1_1LFGQueue.html#aaba8b19f883004cfe6fff5ca561aff46',1,'lfg::LFGQueue']]],
-  ['next_90',['next',['../dd/d1c/structSpellChainNode.html#a0a7791b7069912a013299e7afaf4142f',1,'SpellChainNode::next'],['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71',1,'Acore::Impl::MPSCQueueNonIntrusive::Node::Next']]],
+  ['next_90',['next',['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71',1,'Acore::Impl::MPSCQueueNonIntrusive::Node::Next'],['../dd/d1c/structSpellChainNode.html#a0a7791b7069912a013299e7afaf4142f',1,'SpellChainNode::next']]],
   ['nextarcaneexplosiontime_91',['nextArcaneExplosionTime',['../d8/daa/structboss__okthor_1_1boss__okthorAI.html#a89d8cdd528775ee77caeac1d0465d4f2',1,'boss_okthor::boss_okthorAI']]],
   ['nextarenateamid_92',['NextArenaTeamId',['../d3/da8/classArenaTeamMgr.html#a7d542a1eea7a8f9c5c3f91552b5e1a30',1,'ArenaTeamMgr']]],
   ['nextarrivetime_93',['NextArriveTime',['../dd/d3a/structKeyFrame.html#a51fb15713126d4890bfe99dc00e421f7',1,'KeyFrame']]],

@@ -1,7 +1,7 @@
 var classOutdoorPvPHP =
 [
     [ "OutdoorPvPHP", "d5/d5f/classOutdoorPvPHP.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d5/d5f/classOutdoorPvPHP.html#adf60b6367470edb799b18e70f705a757", null ],
+    [ "FillInitialWorldStates", "d5/d5f/classOutdoorPvPHP.html#a4ecc55395f1f792075e07026e1ccd171", null ],
     [ "GetAllianceTowersControlled", "d5/d5f/classOutdoorPvPHP.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
     [ "GetHordeTowersControlled", "d5/d5f/classOutdoorPvPHP.html#a9395b6966bcdd36b448ca1c403f17873", null ],
     [ "HandleKillImpl", "d5/d5f/classOutdoorPvPHP.html#aad7804f10c42f6643397d673ba4e9bee", null ],

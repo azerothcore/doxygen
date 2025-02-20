@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"d0/d8c/classEnumUtils.html#a18943651bf8600cddb7bb436b4d79017":[6,0,1015,2],
+"d0/d8c/classEnumUtils.html#a18bf71b29f7c40ebf1bc1c70d6848ab5":[6,0,1015,117],
 "d0/d8c/classEnumUtils.html#a19d3d423e5e7dfd27fb8bd134a39d442":[6,0,1015,119],
 "d0/d8c/classEnumUtils.html#a19e58e18c04916f02f9f72143da0551f":[6,0,1015,17],
 "d0/d8c/classEnumUtils.html#a1d5e19376c2138942c4161560297a574":[6,0,1015,48],
@@ -134,11 +136,11 @@ var NAVTREEINDEX12 =
 "d0/d8c/classnpc__mistress__of__pain.html":[6,0,1961],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[6,0,1961,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[6,0,1961,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3357],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3357,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3357,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3357,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3357,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3356],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3356,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3356,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3356,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3356,3],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html":[6,0,1310,0],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a080decfc444d3d89f0334a76bfb5e757":[6,0,1310,0,10],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a0849a6d1a98b6c49cca7341f6341179c":[6,0,1310,0,2],
@@ -177,10 +179,10 @@ var NAVTREEINDEX12 =
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[6,0,1671,0,2],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a8ebaca725aba2c3aed8856fb23228ae1":[6,0,1671,0,1],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#ae91de64c440e71e612f34e37b90076d5":[6,0,1671,0,0],
-"d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3420],
-"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3420,2],
-"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3420,1],
-"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[6,0,3420,0],
+"d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3419],
+"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3419,2],
+"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3419,1],
+"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[6,0,3419,0],
 "d0/d91/BattlegroundIC_8h.html":[7,0,0,0,1,2,8,1,11],
 "d0/d91/BattlegroundIC_8h.html#a049af3560e17980d576075a47c35388c":[7,0,0,0,1,2,8,1,11,27],
 "d0/d91/BattlegroundIC_8h.html#a1128797b076699b79f556063e82a58d5":[7,0,0,0,1,2,8,1,11,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a106cf724ee69f7f8bf8622733e3112c3":[7,0,0,0,1,2,8,1,11,10,102],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a15473ad469cbc6bdb58593f983117190":[7,0,0,0,1,2,8,1,11,10,91],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1586d28a4302cf70a82b191a96f05b59":[7,0,0,0,1,2,8,1,11,10,98],
-"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1747b0834f88df533f6f2779824f9115":[7,0,0,0,1,2,8,1,11,10,89],
-"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1a073d334d176cf83a7829e4dde189d2":[7,0,0,0,1,2,8,1,11,10,41],
-"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1a437e43a34e783ede2859e417b77241":[7,0,0,0,1,2,8,1,11,10,48]
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1747b0834f88df533f6f2779824f9115":[7,0,0,0,1,2,8,1,11,10,89]
 };

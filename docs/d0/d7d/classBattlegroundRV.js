@@ -2,7 +2,7 @@ var classBattlegroundRV =
 [
     [ "BattlegroundRV", "d0/d7d/classBattlegroundRV.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
     [ "CheckPositionForUnit", "d0/d7d/classBattlegroundRV.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "d0/d7d/classBattlegroundRV.html#a507004e47e4ff6160fd34b736701e363", null ],
+    [ "FillInitialWorldStates", "d0/d7d/classBattlegroundRV.html#a62c7201196fabb6000d2df52b8323e6a", null ],
     [ "GetPillarAtPosition", "d0/d7d/classBattlegroundRV.html#a0cd6f84233993bde76be990abab75f23", null ],
     [ "GetPillarIdForPos", "d0/d7d/classBattlegroundRV.html#a4edb8efce09dece515e8b833142d2c55", null ],
     [ "HandleAreaTrigger", "d0/d7d/classBattlegroundRV.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],

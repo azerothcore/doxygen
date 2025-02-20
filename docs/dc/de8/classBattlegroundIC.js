@@ -8,7 +8,7 @@ var classBattlegroundIC =
     [ "DoAction", "dc/de8/classBattlegroundIC.html#a81be9659f738913b6bcdd1ceab6581f7", null ],
     [ "EventPlayerClickedOnFlag", "dc/de8/classBattlegroundIC.html#a498d3e2919acc4c8e8ae117dbbf4a1e0", null ],
     [ "EventPlayerDamagedGO", "dc/de8/classBattlegroundIC.html#a09ff848e58542003c0ea3144d8ccd0ea", null ],
-    [ "FillInitialWorldStates", "dc/de8/classBattlegroundIC.html#aa636c62b2804d0aab6bfa4ee0c7c5559", null ],
+    [ "FillInitialWorldStates", "dc/de8/classBattlegroundIC.html#a4a5ee6dea0efcf02039934e1fc721b31", null ],
     [ "GetClosestGraveyard", "dc/de8/classBattlegroundIC.html#ac3d7672be3cc735fe5fa945319a0898d", null ],
     [ "GetGateIDFromEntry", "dc/de8/classBattlegroundIC.html#a6208616b3ab5d3e47366ff43568d5975", null ],
     [ "GetNextBanner", "dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e", null ],

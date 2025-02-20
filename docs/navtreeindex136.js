@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html#ab71b71ac63517349cb8702bb29d76334":[6,0,1652,0,5],
+"d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html#ae9da41b5b4cae16e1ed4709ab41b8964":[6,0,1652,0,4],
 "d4/dd0/classWorldObject.html":[6,0,4229],
 "d4/dd0/classWorldObject.html#a00db62e79f895c1fe3893c95ee30b6fe":[6,0,4229,98],
 "d4/dd0/classWorldObject.html#a01ba49d253cef5ec2604ee539163efdd":[6,0,4229,122],
@@ -199,11 +201,11 @@ var NAVTREEINDEX136 =
 "d4/dd0/classWorldObject.html#afb0998855682f99a84683de812ae3dc4":[6,0,4229,131],
 "d4/dd0/classWorldObject.html#afc786081f657fd125cfc0b7d938305e9":[6,0,4229,164],
 "d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[6,0,4229,7],
-"d4/dd1/classspell__gen__dalaran__disguise.html":[6,0,2902],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[6,0,2902,3],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[6,0,2902,0],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[6,0,2902,1],
-"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[6,0,2902,2],
+"d4/dd1/classspell__gen__dalaran__disguise.html":[6,0,2901],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[6,0,2901,3],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[6,0,2901,0],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[6,0,2901,1],
+"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[6,0,2901,2],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html":[6,0,59],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#a87fd2d5702fe33ee8b09042c66897636":[6,0,59,0],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#aa77aa6129967601ede2f3fc44b2ee1aa":[6,0,59,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca231e630effc53f4f3b052aa9b9b248a2":[7,0,0,0,1,3,7,1,5,17,15],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca2335e5557e964354f83ec86a6fe3eb52":[7,0,0,0,1,3,7,1,5,17,10],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca251f124346c0b3fea500cd7ce987302c":[7,0,0,0,1,3,7,1,5,17,17],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca30cddfb6172c433efcbbd20dd820d020":[7,0,0,0,1,3,7,1,5,17,7],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca36f79c95d1bfba6c9cbb3888399c836d":[7,0,0,0,1,3,7,1,5,17,16],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b921b8b20bfa9b95c2800c19198858d":[7,0,0,0,1,3,7,1,5,17,8]
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca30cddfb6172c433efcbbd20dd820d020":[7,0,0,0,1,3,7,1,5,17,7]
 };

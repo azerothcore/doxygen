@@ -12,7 +12,7 @@ var classBattlegroundEY =
     [ "EventPlayerDroppedFlag", "dd/dd4/classBattlegroundEY.html#a8f5556ecd5b356628d022c7bb22c68d9", null ],
     [ "EventTeamCapturedPoint", "dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0", null ],
     [ "EventTeamLostPoint", "dd/dd4/classBattlegroundEY.html#abc089f432cd646b3189f16bcfe03d652", null ],
-    [ "FillInitialWorldStates", "dd/dd4/classBattlegroundEY.html#a80581882dbf21f1e2f84295bd002dcf4", null ],
+    [ "FillInitialWorldStates", "dd/dd4/classBattlegroundEY.html#ac2abdac2ac5ee9022bbb020bf470b233", null ],
     [ "GetClosestGraveyard", "dd/dd4/classBattlegroundEY.html#a3aba31ef0af6e0a389729e4cf98df213", null ],
     [ "GetDroppedFlagGUID", "dd/dd4/classBattlegroundEY.html#ad7db209dc027770dd7deb4f9f6ca32f8", null ],
     [ "GetFlagPickerGUID", "dd/dd4/classBattlegroundEY.html#abc31bd918f007ae10b412e2ad3a60e4c", null ],

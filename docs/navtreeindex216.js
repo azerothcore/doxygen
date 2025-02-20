@@ -1,5 +1,7 @@
 var NAVTREEINDEX216 =
 {
+"d8/d74/classWorldSession.html#abb51ac5b8c3910c53d21fb22f7b95557":[4,1,19,141],
+"d8/d74/classWorldSession.html#abc245826fa7835ec09549a98d4d66f65":[4,1,19,18],
 "d8/d74/classWorldSession.html#abc768acad0d68404afdcef70b22dbf8f":[4,1,19,304],
 "d8/d74/classWorldSession.html#abd418473386494f3776f63612ed6a85f":[4,1,19,40],
 "d8/d74/classWorldSession.html#abd50ab388e3b222aac2cb85de40dc326":[4,1,19,482],
@@ -169,9 +171,9 @@ var NAVTREEINDEX216 =
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1887,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1887,2],
 "d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1887,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2235],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2235,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2235,1],
+"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2234],
+"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2234,2],
+"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2234,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1941,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1941,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1941,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d79/classgo__jotunheim__cage.html#a28c9312de97a822e34f05c7358b42df4":[6,0,1146,0],
 "d8/d79/classgo__jotunheim__cage.html#a5598fcb4df9c7d0a610ea064af8095d3":[6,0,1146,1],
 "d8/d7b/TransportScript_8cpp.html":[7,0,0,0,1,2,38,0,82],
-"d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[7,0,0,0,1,2,38,0,82,0],
-"d8/d7b/classRotateMovementGenerator.html":[6,0,2489],
-"d8/d7b/classRotateMovementGenerator.html#a0dc8600e3aa862a81735dfb927232e53":[6,0,2489,5]
+"d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[7,0,0,0,1,2,38,0,82,0]
 };

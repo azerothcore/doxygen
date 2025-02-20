@@ -1,7 +1,7 @@
 var classBattlegroundNA =
 [
     [ "BattlegroundNA", "d5/d92/classBattlegroundNA.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d5/d92/classBattlegroundNA.html#addd2fe865e37a1909375c2d991586702", null ],
+    [ "FillInitialWorldStates", "d5/d92/classBattlegroundNA.html#af0932b648d2a4a4288409d8da360e06b", null ],
     [ "HandleAreaTrigger", "d5/d92/classBattlegroundNA.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
     [ "HandlePlayerUnderMap", "d5/d92/classBattlegroundNA.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
     [ "SetupBattleground", "d5/d92/classBattlegroundNA.html#addc3350a283fdac24e7aa88c23a7945a", null ],

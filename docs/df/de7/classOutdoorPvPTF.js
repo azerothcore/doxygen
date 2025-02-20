@@ -1,7 +1,7 @@
 var classOutdoorPvPTF =
 [
     [ "OutdoorPvPTF", "df/de7/classOutdoorPvPTF.html#a66b822334b04a8a2d72b4fe24cb9c9d5", null ],
-    [ "FillInitialWorldStates", "df/de7/classOutdoorPvPTF.html#a4e08c8c885565901f9bd2ada8ec3ca3e", null ],
+    [ "FillInitialWorldStates", "df/de7/classOutdoorPvPTF.html#a54856e667989fda0c208783691acb3f5", null ],
     [ "GetAllianceTowersControlled", "df/de7/classOutdoorPvPTF.html#a45402ed7b4a58a6dcd94e7d4320fd313", null ],
     [ "GetHordeTowersControlled", "df/de7/classOutdoorPvPTF.html#a3ea3cd44ae7cbfc5b8dc641f2023e1ed", null ],
     [ "HandlePlayerEnterZone", "df/de7/classOutdoorPvPTF.html#a23ef36361746c9fae0a14b1094914d22", null ],

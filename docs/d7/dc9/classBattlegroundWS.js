@@ -9,7 +9,7 @@ var classBattlegroundWS =
     [ "EventPlayerCapturedFlag", "d7/dc9/classBattlegroundWS.html#ade3f18417b441fed6e9b5afc00e1932e", null ],
     [ "EventPlayerClickedOnFlag", "d7/dc9/classBattlegroundWS.html#a31ac5f2e709e9d0d220e46968d10e5e3", null ],
     [ "EventPlayerDroppedFlag", "d7/dc9/classBattlegroundWS.html#afa6527811ca62235c6a17a4804684ba3", null ],
-    [ "FillInitialWorldStates", "d7/dc9/classBattlegroundWS.html#a4f4c07abb2c9c83d8e9b3d02e3abb11b", null ],
+    [ "FillInitialWorldStates", "d7/dc9/classBattlegroundWS.html#a9fcda2d30855dca66568870e17927bc1", null ],
     [ "GetAssaultSpellId", "d7/dc9/classBattlegroundWS.html#a7cc81588e7695ec07347d2f3eed6788a", null ],
     [ "GetClosestGraveyard", "d7/dc9/classBattlegroundWS.html#a7cad9bda8b768e1c7f989afb885d16f3", null ],
     [ "GetDroppedFlagGUID", "d7/dc9/classBattlegroundWS.html#a28099bef0024bdb4eda202c497d055f7", null ],

@@ -13,7 +13,7 @@ var classOPvPCapturePoint =
     [ "DelCreature", "d6/d79/classOPvPCapturePoint.html#abcfc4d11c2e518bfe0fa3eb88e164b73", null ],
     [ "DeleteSpawns", "d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3", null ],
     [ "DelObject", "d6/d79/classOPvPCapturePoint.html#adc968f6934c72d739311599fc0507664", null ],
-    [ "FillInitialWorldStates", "d6/d79/classOPvPCapturePoint.html#a1678c2913f53578bbfff558232bcd16f", null ],
+    [ "FillInitialWorldStates", "d6/d79/classOPvPCapturePoint.html#a7c9283a6f080f7164d9506510e95e383", null ],
     [ "GetSlider", "d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6", null ],
     [ "HandleCustomSpell", "d6/d79/classOPvPCapturePoint.html#a341553dac679f6e257ed7c6d1c6a9f9a", null ],
     [ "HandleDropFlag", "d6/d79/classOPvPCapturePoint.html#a9b6713759cd263075c2f07d515ae41eb", null ],

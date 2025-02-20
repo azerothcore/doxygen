@@ -2,7 +2,7 @@ var OutdoorPvPZM_8h =
 [
     [ "zm_beacon", "d5/d4a/structzm__beacon.html", "d5/d4a/structzm__beacon" ],
     [ "OPvPCapturePointZM_Beacon", "d3/db1/classOPvPCapturePointZM__Beacon.html", "d3/db1/classOPvPCapturePointZM__Beacon" ],
-    [ "OPvPCapturePointZM_GraveYard", "d3/d6d/classOPvPCapturePointZM__GraveYard.html", "d3/d6d/classOPvPCapturePointZM__GraveYard" ],
+    [ "OPvPCapturePointZM_Graveyard", "d2/d0b/classOPvPCapturePointZM__Graveyard.html", "d2/d0b/classOPvPCapturePointZM__Graveyard" ],
     [ "OutdoorPvPZM", "dc/d4c/classOutdoorPvPZM.html", "dc/d4c/classOutdoorPvPZM" ],
     [ "OutdoorPvPZMSpells", "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
       [ "ZM_CAPTURE_BUFF", "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
@@ -44,10 +44,10 @@ var OutdoorPvPZM_8h =
       [ "ZM_BEACON_WEST", "de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
       [ "ZM_NUM_BEACONS", "de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
     ] ],
-    [ "ZM_GraveYardState", "de/d90/OutdoorPvPZM_8h.html#a7f5994fe11cd4c05d90e61455885dca0", [
-      [ "ZM_GRAVEYARD_N", "de/d90/OutdoorPvPZM_8h.html#a7f5994fe11cd4c05d90e61455885dca0a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "de/d90/OutdoorPvPZM_8h.html#a7f5994fe11cd4c05d90e61455885dca0aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "de/d90/OutdoorPvPZM_8h.html#a7f5994fe11cd4c05d90e61455885dca0a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "Zm_GraveyardState", "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
     ] ],
     [ "ZM_TowerStateMask", "de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11c", [
       [ "ZM_TOWERSTATE_N", "de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],

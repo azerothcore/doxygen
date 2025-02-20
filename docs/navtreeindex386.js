@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/da7/classBattleground.html#a07105385f71c07160418f66e71e0b53e":[6,0,309,236],
 "df/da7/classBattleground.html#a08b079bddbd3bbc5fd1ae22448738cf0":[6,0,309,170],
 "df/da7/classBattleground.html#a08e1612fa065bd42df3cee575c9f66fa":[6,0,309,40],
 "df/da7/classBattleground.html#a09632cebba6310e05423d0a145b84fcb":[6,0,309,64],
@@ -175,6 +176,7 @@ var NAVTREEINDEX386 =
 "df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9":[6,0,309,97],
 "df/da7/classBattleground.html#aac0f3dc367b90791647976d676328dd2":[6,0,309,191],
 "df/da7/classBattleground.html#aad6e28bc4586e9a4cd229a20f8170114":[6,0,309,204],
+"df/da7/classBattleground.html#aaff9192d533142390f2d3a651528243e":[6,0,309,43],
 "df/da7/classBattleground.html#ab188798f704cc4f103aab7f94addd280":[6,0,309,211],
 "df/da7/classBattleground.html#ab40dd6ed08f1504cf72c0657b801037a":[6,0,309,116],
 "df/da7/classBattleground.html#ab53cf7fe615fefbafecc0cf7b3077e4c":[6,0,309,93],
@@ -216,7 +218,6 @@ var NAVTREEINDEX386 =
 "df/da7/classBattleground.html#ad6b17a34e7a55f82b824f60b7ec249c6":[6,0,309,0],
 "df/da7/classBattleground.html#ad72bbab90db4b7e57af5a67311cf435a":[6,0,309,14],
 "df/da7/classBattleground.html#ad852cf4a41a6dd4466dea57eec067fa0":[6,0,309,115],
-"df/da7/classBattleground.html#ad904af2dd4e41824d8f1a9256f4cdaa6":[6,0,309,43],
 "df/da7/classBattleground.html#ad9d9477db10cb63be48148c66d68fca3":[6,0,309,41],
 "df/da7/classBattleground.html#ada82891b0df636385045ce4a8aa9e265":[6,0,309,27],
 "df/da7/classBattleground.html#adaa7c7b4db6828792ab1e2866ef732b6":[6,0,309,54],
@@ -246,8 +247,7 @@ var NAVTREEINDEX386 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,309,241],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,309,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,309,251],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,30,1,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0]
 };

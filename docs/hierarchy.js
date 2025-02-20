@@ -431,6 +431,7 @@ var hierarchy =
         [ "spell_pri_mind_control", "d7/d0f/classspell__pri__mind__control.html", null ],
         [ "spell_pri_power_word_shield_aura", "d4/dad/classspell__pri__power__word__shield__aura.html", null ],
         [ "spell_pri_renew", "d9/d13/classspell__pri__renew.html", null ],
+        [ "spell_pri_shadowfiend_death", "d0/d6a/classspell__pri__shadowfiend__death.html", null ],
         [ "spell_pri_shadowfiend_scaling", "df/d1e/classspell__pri__shadowfiend__scaling.html", null ],
         [ "spell_pri_t4_4p_bonus", "d2/db2/classspell__pri__t4__4p__bonus.html", null ],
         [ "spell_pri_vampiric_touch", "d2/d45/classspell__pri__vampiric__touch.html", null ],
@@ -2828,7 +2829,7 @@ var hierarchy =
       [ "OPvPCapturePointNA", "d3/d62/classOPvPCapturePointNA.html", null ],
       [ "OPvPCapturePointTF", "dd/d27/classOPvPCapturePointTF.html", null ],
       [ "OPvPCapturePointZM_Beacon", "d3/db1/classOPvPCapturePointZM__Beacon.html", null ],
-      [ "OPvPCapturePointZM_GraveYard", "d3/d6d/classOPvPCapturePointZM__GraveYard.html", null ]
+      [ "OPvPCapturePointZM_Graveyard", "d2/d0b/classOPvPCapturePointZM__Graveyard.html", null ]
     ] ],
     [ "OrderWhelpTargetSelector", "d8/d57/classOrderWhelpTargetSelector.html", null ],
     [ "OutdoorPvPData", "db/d72/structOutdoorPvPData.html", null ],
@@ -4757,9 +4758,7 @@ var hierarchy =
           [ "npc_xt002_heart::npc_xt002_heartAI", "d3/d15/structnpc__xt002__heart_1_1npc__xt002__heartAI.html", null ],
           [ "npc_xt002_scrapbot::npc_xt002_scrapbotAI", "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html", null ]
         ] ],
-        [ "PetAI", "db/da4/classPetAI.html", [
-          [ "npc_pet_pri_shadowfiend", "d0/d03/structnpc__pet__pri__shadowfiend.html", null ]
-        ] ],
+        [ "PetAI", "db/da4/classPetAI.html", null ],
         [ "PossessedAI", "db/df3/classPossessedAI.html", [
           [ "npc_controller", "df/d65/structnpc__controller.html", null ],
           [ "npc_pet_dk_risen_ally::npc_pet_dk_risen_allyAI", "d6/dd9/structnpc__pet__dk__risen__ally_1_1npc__pet__dk__risen__allyAI.html", null ]

@@ -1,7 +1,7 @@
 var structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript =
 [
     [ "instance_ruby_sanctum_InstanceMapScript", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a6628d939c42a71778547a03ef281c451", null ],
+    [ "FillInitialWorldStates", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
     [ "GetGuidData", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
     [ "OnCreatureCreate", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
     [ "OnGameObjectCreate", "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a27c4858d5972471ef91a269c11fc0494", null ],

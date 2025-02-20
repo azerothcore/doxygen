@@ -10,7 +10,7 @@ var classOutdoorPvP =
     [ "BroadcastPacket", "d2/dd6/classOutdoorPvP.html#ae34ffe3b531f8689d186610b4a06d093", null ],
     [ "CanTalkTo", "d2/dd6/classOutdoorPvP.html#abfcc1955c4cd7d9458912ceeb4b08e04", null ],
     [ "DeleteSpawns", "d2/dd6/classOutdoorPvP.html#a529ad9f8016c1be0b444dce0ee041625", null ],
-    [ "FillInitialWorldStates", "d2/dd6/classOutdoorPvP.html#a7633a64657de911ffcdc7ee410bf51fb", null ],
+    [ "FillInitialWorldStates", "d2/dd6/classOutdoorPvP.html#aa7dedd71991c47b076b4a6f1ea4836d6", null ],
     [ "GetCapturePoint", "d2/dd6/classOutdoorPvP.html#a1b505bc0acb28e5ed2124678a1cf569f", null ],
     [ "GetMap", "d2/dd6/classOutdoorPvP.html#aab6b1bcfcef2a332c5c58e778a4106a2", null ],
     [ "GetTypeId", "d2/dd6/classOutdoorPvP.html#aff00edc6783bc27182eb3f6b605ab2fe", null ],

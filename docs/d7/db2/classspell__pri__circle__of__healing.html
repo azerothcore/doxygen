@@ -314,17 +314,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  164</span>    {</div>
-<div class="line"><span class="lineno">  165</span>        targets.remove_if(<a class="code hl_class" href="../../d8/d58/classAcore_1_1RaidCheck.html">Acore::RaidCheck</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <span class="keyword">false</span>));</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> maxTargets = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a>) ? 6 : 5; <span class="comment">// Glyph of Circle of Healing</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  166</span>    {</div>
+<div class="line"><span class="lineno">  167</span>        targets.remove_if(<a class="code hl_class" href="../../d8/d58/classAcore_1_1RaidCheck.html">Acore::RaidCheck</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <span class="keyword">false</span>));</div>
 <div class="line"><span class="lineno">  168</span> </div>
-<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">if</span> (targets.size() &gt; maxTargets)</div>
-<div class="line"><span class="lineno">  170</span>        {</div>
-<div class="line"><span class="lineno">  171</span>            targets.sort(<a class="code hl_class" href="../../d8/d54/classAcore_1_1HealthPctOrderPred.html">Acore::HealthPctOrderPred</a>());</div>
-<div class="line"><span class="lineno">  172</span>            targets.resize(maxTargets);</div>
-<div class="line"><span class="lineno">  173</span>        }</div>
-<div class="line"><span class="lineno">  174</span>    }</div>
+<div class="line"><span class="lineno">  169</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> maxTargets = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a>) ? 6 : 5; <span class="comment">// Glyph of Circle of Healing</span></div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">if</span> (targets.size() &gt; maxTargets)</div>
+<div class="line"><span class="lineno">  172</span>        {</div>
+<div class="line"><span class="lineno">  173</span>            targets.sort(<a class="code hl_class" href="../../d8/d54/classAcore_1_1HealthPctOrderPred.html">Acore::HealthPctOrderPred</a>());</div>
+<div class="line"><span class="lineno">  174</span>            targets.resize(maxTargets);</div>
+<div class="line"><span class="lineno">  175</span>        }</div>
+<div class="line"><span class="lineno">  176</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassAcore_1_1HealthPctOrderPred_html"><div class="ttname"><a href="../../d8/d54/classAcore_1_1HealthPctOrderPred.html">Acore::HealthPctOrderPred</a></div><div class="ttdef"><b>Definition</b> Unit.h:2210</div></div>
 <div class="ttc" id="aclassAcore_1_1RaidCheck_html"><div class="ttname"><a href="../../d8/d58/classAcore_1_1RaidCheck.html">Acore::RaidCheck</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1689</div></div>
@@ -334,7 +334,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l05752">Unit::HasAura()</a>, and <a class="el" href="../../#l00036">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00176">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00178">Register()</a>.</p>
 
 </div>
 </div>
@@ -388,16 +388,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  177</span>    {</div>
-<div class="line"><span class="lineno">  178</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d7/db2/classspell__pri__circle__of__healing.html#ad679149423fda97ad5744318520022b1">spell_pri_circle_of_healing::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a>);</div>
-<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  179</span>    {</div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d7/db2/classspell__pri__circle__of__healing.html#ad679149423fda97ad5744318520022b1">spell_pri_circle_of_healing::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a>);</div>
+<div class="line"><span class="lineno">  181</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a></div><div class="ttdeci">@ TARGET_UNIT_DEST_AREA_ALLY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1435</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__pri__circle__of__healing_html_ad679149423fda97ad5744318520022b1"><div class="ttname"><a href="../../d7/db2/classspell__pri__circle__of__healing.html#ad679149423fda97ad5744318520022b1">spell_pri_circle_of_healing::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:163</div></div>
+<div class="ttc" id="aclassspell__pri__circle__of__healing_html_ad679149423fda97ad5744318520022b1"><div class="ttname"><a href="../../d7/db2/classspell__pri__circle__of__healing.html#ad679149423fda97ad5744318520022b1">spell_pri_circle_of_healing::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00163">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01435">TARGET_UNIT_DEST_AREA_ALLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00165">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01435">TARGET_UNIT_DEST_AREA_ALLY</a>.</p>
 
 </div>
 </div>
@@ -426,9 +426,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  159</span>    {</div>
-<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a> });</div>
-<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  161</span>    {</div>
+<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a> });</div>
+<div class="line"><span class="lineno">  163</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00036">SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -444,7 +444,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/db2/classspell__pri__circle__of__healing.html">spell_pri_circle_of_healing</a></li>
-    <li class="footer">Generated on Wed Feb 19 2025 06:21:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 20 2025 06:21:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -63,7 +63,7 @@ var Player_8h =
     [ "SKILL_VALUE", "da/dbf/Player_8h.html#a264fbbb222ac496b745b0585255816b4", null ],
     [ "SPEC_MASK_ALL", "da/dbf/Player_8h.html#a6a6dfeb0ddba76f8c51abbe98ea08609", null ],
     [ "ActionButtonList", "da/dbf/Player_8h.html#a732fdd0c458850a5f5358b561f98bd86", null ],
-    [ "bgZoneRef", "da/dbf/Player_8h.html#ab2dad6ccd523f4a1d9099e820e603d1e", null ],
+    [ "bgZoneRef", "da/dbf/Player_8h.html#ad02e5b85aad803acf5ec43c31028d07e", null ],
     [ "EnchantDurationList", "da/dbf/Player_8h.html#ab7da463fdcf48285d8c4a18db9fceb3d", null ],
     [ "EquipmentSets", "da/dbf/Player_8h.html#a9c5d66387ebbe380eb85dc073bb477e1", null ],
     [ "InstanceTimeMap", "da/dbf/Player_8h.html#a55fbc0250544fd9279ce898ab7c99f97", null ],

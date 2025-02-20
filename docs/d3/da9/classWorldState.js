@@ -8,7 +8,7 @@ var classWorldState =
     [ "BuffMagtheridonTeam", "d3/da9/classWorldState.html#adcfb88f8c931e68b98bfd2f06ce1cee5", null ],
     [ "DispelAdalsSongOfBattle", "d3/da9/classWorldState.html#a20f98292f5c55cab7b70fd7c20d8cb5a", null ],
     [ "DispelMagtheridonTeam", "d3/da9/classWorldState.html#a6eafdbdd9c30de839b5768aaf9ae16a8", null ],
-    [ "FillInitialWorldStates", "d3/da9/classWorldState.html#a9997402ee233a58c3deaee678cca74d3", null ],
+    [ "FillInitialWorldStates", "d3/da9/classWorldState.html#af41ca189b0ec20d9dc3f78d7f191011e", null ],
     [ "GetSunsReachPrintout", "d3/da9/classWorldState.html#a023a69d9e9608aa7dde3cb769f76e1fc", null ],
     [ "HandleConditionStateChange", "d3/da9/classWorldState.html#a210ba9c92b727b3a0bb18b59194cc70a", null ],
     [ "HandleExternalEvent", "d3/da9/classWorldState.html#ade529a26b08fca422a215c5aac78bb52", null ],

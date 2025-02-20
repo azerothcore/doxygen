@@ -14,7 +14,7 @@ var classBattlegroundAV =
     [ "EventPlayerClickedOnFlag", "d2/d04/classBattlegroundAV.html#a3f37f8a817a90e3d1a086a43a4b16163", null ],
     [ "EventPlayerDefendsPoint", "d2/d04/classBattlegroundAV.html#af29c28acdabf264990e56ba850c71db4", null ],
     [ "EventPlayerDestroyedPoint", "d2/d04/classBattlegroundAV.html#a8f53dfc4b8b429c8b755309747989a88", null ],
-    [ "FillInitialWorldStates", "d2/d04/classBattlegroundAV.html#a1b5c787a62bceed0137d1909df4ee307", null ],
+    [ "FillInitialWorldStates", "d2/d04/classBattlegroundAV.html#afc342f3a7b58fe4becfef5d2b34dbcc6", null ],
     [ "GetAttackString", "d2/d04/classBattlegroundAV.html#a7177d62ef0590c50c2dde597c5348550", null ],
     [ "GetClosestGraveyard", "d2/d04/classBattlegroundAV.html#adaeba210b38e298593c2af0a200c3470", null ],
     [ "GetDefendString", "d2/d04/classBattlegroundAV.html#ae5fb626c629056c89ee409ffa33d0914", null ],

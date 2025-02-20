@@ -248,7 +248,7 @@ var BattlefieldWG_8h =
     [ "WG_MAX_WORKSHOP", "d6/d4f/BattlefieldWG_8h.html#ad60d096a6b2eeda76a6150d8258cd811", null ],
     [ "WG_OUTSIDE_ALLIANCE_NPC", "d6/d4f/BattlefieldWG_8h.html#a507400d509f29bea530dd83c5e66db83", null ],
     [ "WGGameObjectBuilding", "d6/d4f/BattlefieldWG_8h.html#aeba003c4dae068fe0ca8848e6e7f3fc4", null ],
-    [ "WGGraveYard", "d6/d4f/BattlefieldWG_8h.html#ae7dd9af0106ae9c616999b8680c7b913", null ],
+    [ "WGGraveyard", "d6/d4f/BattlefieldWG_8h.html#a882e09db77473008fb6da7de73f161c8", null ],
     [ "WGKeepNPC", "d6/d4f/BattlefieldWG_8h.html#a9018c141277b272e211791c393849d1e", null ],
     [ "WGOutsideNPC", "d6/d4f/BattlefieldWG_8h.html#a830b15e081154d798bd6ad3698583820", null ],
     [ "WGPortalDefenderData", "d6/d4f/BattlefieldWG_8h.html#a555bbd4a0ffa59349a9c897c0e0cc962", null ],

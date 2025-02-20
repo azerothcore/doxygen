@@ -1,11 +1,12 @@
 var NAVTREEINDEX374 =
 {
+"df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf87c780432ca26b887bf986d5a7a4b6":[7,0,0,0,1,3,2,1,1,15,11,4],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afc3e2fe9429a9d43bb8e00ffe69703cf":[7,0,0,0,1,3,2,1,1,15,11,3],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afd09db3869f04306b07aef3cb2bd47e8":[7,0,0,0,1,3,2,1,1,15,11,9],
-"df/d1f/classnpc__tharnarian.html":[6,0,2150],
-"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[6,0,2150,1],
-"df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[6,0,2150,2],
-"df/d1f/classnpc__tharnarian.html#aedf88edfd99292a68b8e08f9f05d8f00":[6,0,2150,3],
+"df/d1f/classnpc__tharnarian.html":[6,0,2149],
+"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[6,0,2149,1],
+"df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[6,0,2149,2],
+"df/d1f/classnpc__tharnarian.html#aedf88edfd99292a68b8e08f9f05d8f00":[6,0,2149,3],
 "df/d20/GameObjectAI_8h.html":[7,0,0,0,1,2,3,0,3],
 "df/d20/areatrigger__scripts_8cpp.html":[7,0,0,0,1,3,10,2],
 "df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275":[7,0,0,0,1,3,10,2,17],
@@ -51,11 +52,11 @@ var NAVTREEINDEX374 =
 "df/d20/classnpc__commander__dawnforge.html":[6,0,1684],
 "df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[6,0,1684,2],
 "df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[6,0,1684,1],
-"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3337],
-"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3337,1],
-"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[6,0,3337,3],
-"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3337,2],
-"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[6,0,3337,0],
+"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3336],
+"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3336,1],
+"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[6,0,3336,3],
+"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3336,2],
+"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[6,0,3336,0],
 "df/d20/instance__blackwing__lair_8cpp.html":[7,0,0,0,1,3,2,1,2,9],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[7,0,0,0,1,3,2,1,2,9,5],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[7,0,0,0,1,3,2,1,2,9,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7734f162388203e49d131fec30fd795e":[7,0,0,0,1,2,16,5,0,4,6,67],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a77f4da68cf83b5f3ac8680f7f9c0370d":[7,0,0,0,1,2,16,5,0,4,6,78],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a781565bf5ad5771c78cdb93870dc8f95":[7,0,0,0,1,2,16,5,0,4,6,76],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a78c66f483e148831040080bd93991237":[7,0,0,0,1,2,16,5,0,4,6,223],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a79bbde3bd7e439a29e7453da2a5b557d":[7,0,0,0,1,2,16,5,0,4,6,136]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a78c66f483e148831040080bd93991237":[7,0,0,0,1,2,16,5,0,4,6,223]
 };

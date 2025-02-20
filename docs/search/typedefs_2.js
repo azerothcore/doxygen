@@ -25,7 +25,7 @@ var searchData=
   ['bgref_22',['bgRef',['../dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915',1,'BattlegroundMgr.h']]],
   ['bgscript_23',['BGScript',['../da/df5/AllBattlegroundScript_8h.html#ae9cb670a445a9cb3089a66cdcc822d0e',1,'AllBattlegroundScript.h']]],
   ['bgtyperef_24',['bgTypeRef',['../dd/d3a/BattlegroundMgr_8h.html#ab13257a97cde6f35eb3aed651e61e20c',1,'BattlegroundMgr.h']]],
-  ['bgzoneref_25',['bgZoneRef',['../da/dbf/Player_8h.html#ab2dad6ccd523f4a1d9099e820e603d1e',1,'Player.h']]],
+  ['bgzoneref_25',['bgZoneRef',['../da/dbf/Player_8h.html#ad02e5b85aad803acf5ec43c31028d07e',1,'Player.h']]],
   ['binary_26',['Binary',['../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e',1,'Field.h']]],
   ['boundinstancesmap_27',['BoundInstancesMap',['../d4/d57/InstanceSaveMgr_8h.html#aaa779bf09b703eb355cb51ac3481a19e',1,'InstanceSaveMgr.h']]],
   ['broadcasttextcontainer_28',['BroadcastTextContainer',['../de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]

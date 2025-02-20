@@ -1,7 +1,7 @@
 var classBattlegroundDS =
 [
     [ "BattlegroundDS", "de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "de/db5/classBattlegroundDS.html#a5fab4d2e772aba65211f1636deaf4220", null ],
+    [ "FillInitialWorldStates", "de/db5/classBattlegroundDS.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
     [ "HandleAreaTrigger", "de/db5/classBattlegroundDS.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
     [ "HandlePlayerUnderMap", "de/db5/classBattlegroundDS.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
     [ "PostUpdateImpl", "de/db5/classBattlegroundDS.html#a57cfca32a361d43f19163dc6e7408e96", null ],

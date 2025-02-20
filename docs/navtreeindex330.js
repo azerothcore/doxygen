@@ -1,6 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,9,2,10,27,2],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9031bf60657c442da34f6a4d10623ec5":[7,0,0,0,1,3,5,9,2,10,27,22],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e392631fd3fc2bbf42521cc82fb8948":[7,0,0,0,1,3,5,9,2,10,27,4],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ef080824555536f8f9762bf9cb4e088":[7,0,0,0,1,3,5,9,2,10,27,16],
@@ -40,9 +39,9 @@ var NAVTREEINDEX330 =
 "dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
 "dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18],
 "dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0":[7,0,0,0,1,3,5,9,2,10,19],
-"dd/dca/classnpc__spiritual__insight.html":[6,0,2117],
-"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2117,2],
-"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2117,1],
+"dd/dca/classnpc__spiritual__insight.html":[6,0,2116],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2116,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2116,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
 "dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
@@ -249,5 +248,6 @@ var NAVTREEINDEX330 =
 "dd/dcb/classChaseMovementGenerator.html#ac30308e6e93e600778047e6dc54ebb74":[6,0,862,1],
 "dd/dcb/classChaseMovementGenerator.html#ac325e618f8dd0376a7c726df993e2e3d":[6,0,862,12],
 "dd/dcb/classChaseMovementGenerator.html#ac98da5e0e4e4bb24d67ce554095b0bd1":[6,0,862,0],
-"dd/dcb/classChaseMovementGenerator.html#ad3100749f673d40913020f0d1df1e692":[6,0,862,11]
+"dd/dcb/classChaseMovementGenerator.html#ad3100749f673d40913020f0d1df1e692":[6,0,862,11],
+"dd/dcb/classChaseMovementGenerator.html#ae525659d62dc022ffcc03566ad23a01f":[6,0,862,20]
 };

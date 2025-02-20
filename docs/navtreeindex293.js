@@ -1,6 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"db/dfb/spell__quest_8cpp.html#a3b72ba924b96495c99f54a2b93047839a203aaa2cfbd01c61d9ccf8d1a782e0e8":[7,0,0,0,1,3,9,8,113,0],
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421":[7,0,0,0,1,3,9,8,87],
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421a0afc759d23a72367a8995303f97b19f2":[7,0,0,0,1,3,9,8,87,0],
 "db/dfb/spell__quest_8cpp.html#a4eb0f632f4c478b8360da49cf5adce9b":[7,0,0,0,1,3,9,8,79],
@@ -163,13 +162,13 @@ var NAVTREEINDEX293 =
 "db/dfb/structnpc__ashtongue__sorcerer.html":[6,0,1608],
 "db/dfb/structnpc__ashtongue__sorcerer.html#a0045af5cfbfcd2f26bcde2e2dffd04a6":[6,0,1608,0],
 "db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[6,0,1608,1],
-"db/dfb/structnpc__wounded__skirmisher.html":[6,0,2276],
-"db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[6,0,2276,0],
-"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[6,0,2276,5],
-"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[6,0,2276,2],
-"db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[6,0,2276,4],
-"db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[6,0,2276,3],
-"db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[6,0,2276,1],
+"db/dfb/structnpc__wounded__skirmisher.html":[6,0,2275],
+"db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[6,0,2275,0],
+"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[6,0,2275,5],
+"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[6,0,2275,2],
+"db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[6,0,2275,4],
+"db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[6,0,2275,3],
+"db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[6,0,2275,1],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html":[6,0,607,0],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a04ae7795de03560add41170a9487aa99":[6,0,607,0,15],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a23ea01ace48cde2675399ce3f202cb22":[6,0,607,0,5],
@@ -195,10 +194,10 @@ var NAVTREEINDEX293 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#affb313b502fbebaa6937fc3f2a380906":[6,0,607,0,21],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,30,8,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,8,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,30,8,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,8,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,30,8,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,30,8,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,8,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,30,8,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[6,0,11,8,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,30,8,1,0],
 "db/dfd/classboss__anubarak__trial.html":[6,0,374],
@@ -249,5 +248,6 @@ var NAVTREEINDEX293 =
 "db/dff/QueryHandler_8cpp.html":[7,0,0,0,1,2,22,25],
 "db/dff/classnpc__gunship__boarding__add.html":[6,0,1816],
 "db/dff/classnpc__gunship__boarding__add.html#aa80871f80bae7186d3665f73d757e108":[6,0,1816,1],
-"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1816,2]
+"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1816,2],
+"dc/d00/AllCreatureScript_8h.html":[7,0,0,0,1,2,38,0,11]
 };

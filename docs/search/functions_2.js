@@ -30,7 +30,7 @@ var searchData=
   ['battlegroundchatbuilder_27',['BattlegroundChatBuilder',['../da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06',1,'Acore::BattlegroundChatBuilder']]],
   ['battlegroundds_28',['BattlegroundDS',['../de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8',1,'BattlegroundDS']]],
   ['battlegroundey_29',['BattlegroundEY',['../dd/dd4/classBattlegroundEY.html#ab18290226f0d8db8440b9e7c9e164452',1,'BattlegroundEY']]],
-  ['battlegroundeycapturingpointstruct_30',['BattlegroundEYCapturingPointStruct',['../df/de3/structBattlegroundEYCapturingPointStruct.html#adbaa98470bccb52e0a429b88cd2e2e0c',1,'BattlegroundEYCapturingPointStruct']]],
+  ['battlegroundeycapturingpointstruct_30',['BattlegroundEYCapturingPointStruct',['../df/de3/structBattlegroundEYCapturingPointStruct.html#a54164bcb9e4235b15d8a5d8a27fbe41c',1,'BattlegroundEYCapturingPointStruct']]],
   ['battlegroundeylosingpointstruct_31',['BattlegroundEYLosingPointStruct',['../df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12',1,'BattlegroundEYLosingPointStruct']]],
   ['battlegroundeypointiconsstruct_32',['BattlegroundEYPointIconsStruct',['../db/d29/structBattlegroundEYPointIconsStruct.html#a322379024d155d293d1c0083c510d232',1,'BattlegroundEYPointIconsStruct']]],
   ['battlegroundeyscore_33',['BattlegroundEYScore',['../dc/dc9/structBattlegroundEYScore.html#a91c17f1ff1924439b05840cd11ede36f',1,'BattlegroundEYScore']]],

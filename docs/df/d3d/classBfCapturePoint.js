@@ -4,7 +4,7 @@ var classBfCapturePoint =
     [ "~BfCapturePoint", "df/d3d/classBfCapturePoint.html#a309a0c2b2f3c5696aef46bb7bdf4dade", null ],
     [ "ChangeTeam", "df/d3d/classBfCapturePoint.html#a429037910b1a3108cdb753ba91230bf7", null ],
     [ "DelCapturePoint", "df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6", null ],
-    [ "FillInitialWorldStates", "df/d3d/classBfCapturePoint.html#a0e5304012825579a14703a6624a902ba", null ],
+    [ "FillInitialWorldStates", "df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12", null ],
     [ "GetCapturePointGo", "df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0", null ],
     [ "GetCapturePointGo", "df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f", null ],
     [ "GetTeamId", "df/d3d/classBfCapturePoint.html#a1963ac8eea7452b1bb89923a2e32b0f6", null ],

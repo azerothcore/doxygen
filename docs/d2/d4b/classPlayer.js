@@ -811,7 +811,7 @@ var classPlayer =
     [ "SendInitialPacketsAfterAddToMap", "d2/d4b/classPlayer.html#a06cd820961fe07e87607b0d975dbe0c3", null ],
     [ "SendInitialPacketsBeforeAddToMap", "d2/d4b/classPlayer.html#a53e1db7bde15cef472a6db923d4e79fa", null ],
     [ "SendInitialSpells", "d2/d4b/classPlayer.html#a11b8cf823e68e3ea7bb6431d66af5c62", null ],
-    [ "SendInitWorldStates", "d2/d4b/classPlayer.html#a911aa8b6eabbdc6f815280d813d130ff", null ],
+    [ "SendInitWorldStates", "d2/d4b/classPlayer.html#a9065e5ca5561ebb3e237e7dd739cea5d", null ],
     [ "SendInstanceResetWarning", "d2/d4b/classPlayer.html#a1d5a99a1bc3fe2cd6be06768c66e574a", null ],
     [ "SendItemDurations", "d2/d4b/classPlayer.html#ae1d1899fa6df13292b3d0672e4ce5ebe", null ],
     [ "SendItemRetrievalMail", "d2/d4b/classPlayer.html#ab3e29319958681d1b49fc4b9cd23d5e7", null ],

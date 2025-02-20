@@ -1,6 +1,5 @@
 var NAVTREEINDEX259 =
 {
-"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[6,0,1223,5],
 "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[6,0,1223,6],
 "da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[6,0,1223,3],
 "da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[6,0,1223,2],
@@ -220,9 +219,9 @@ var NAVTREEINDEX259 =
 "da/da9/classinstance__ruby__sanctum.html":[6,0,1321],
 "da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[6,0,1321,1],
 "da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[6,0,1321,2],
-"da/da9/classnpc__storm__cloud.html":[6,0,2129],
-"da/da9/classnpc__storm__cloud.html#a8403185cdf54b2924024ba1d1d44a06a":[6,0,2129,1],
-"da/da9/classnpc__storm__cloud.html#a952bd1cf5406b989182d8560d8b9e665":[6,0,2129,2],
+"da/da9/classnpc__storm__cloud.html":[6,0,2128],
+"da/da9/classnpc__storm__cloud.html#a8403185cdf54b2924024ba1d1d44a06a":[6,0,2128,1],
+"da/da9/classnpc__storm__cloud.html#a952bd1cf5406b989182d8560d8b9e665":[6,0,2128,2],
 "da/da9/classspell__slippery__floor__periodic.html":[6,0,3772],
 "da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,3772,3],
 "da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,3772,1],
@@ -247,7 +246,8 @@ var NAVTREEINDEX259 =
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a6af98b3daace7852a485983167538f85":[6,0,797,0,7],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a8f0234b32612ff56ac6a7429f6e4da09":[6,0,797,0,5],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a9d7f0f2a8cf4f421253c8c5a6ec98111":[6,0,797,0,6],
-"da/dab/classspell__gen__proc__from__direct__damage.html":[6,0,2957],
-"da/dab/classspell__gen__proc__from__direct__damage.html#a255a58ad99059ba28ab09a94e7cc683a":[6,0,2957,1],
-"da/dab/classspell__gen__proc__from__direct__damage.html#a4ec4dd2342a5b75c975dc6ffe0b02b79":[6,0,2957,2]
+"da/dab/classspell__gen__proc__from__direct__damage.html":[6,0,2956],
+"da/dab/classspell__gen__proc__from__direct__damage.html#a255a58ad99059ba28ab09a94e7cc683a":[6,0,2956,1],
+"da/dab/classspell__gen__proc__from__direct__damage.html#a4ec4dd2342a5b75c975dc6ffe0b02b79":[6,0,2956,2],
+"da/dab/classspell__gen__proc__from__direct__damage.html#af742bdfd97c9202d50ed7aa1cf8e7d49":[6,0,2956,0]
 };

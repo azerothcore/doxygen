@@ -43,7 +43,7 @@ var classBattleground =
     [ "EventPlayerDamagedGO", "df/da7/classBattleground.html#a08e1612fa065bd42df3cee575c9f66fa", null ],
     [ "EventPlayerDroppedFlag", "df/da7/classBattleground.html#ad9d9477db10cb63be48148c66d68fca3", null ],
     [ "EventPlayerUsedGO", "df/da7/classBattleground.html#a3fd0daa95d91c0beb3509a183b2cf099", null ],
-    [ "FillInitialWorldStates", "df/da7/classBattleground.html#ad904af2dd4e41824d8f1a9256f4cdaa6", null ],
+    [ "FillInitialWorldStates", "df/da7/classBattleground.html#aaff9192d533142390f2d3a651528243e", null ],
     [ "FindBgMap", "df/da7/classBattleground.html#a6040822fc38f74cac43acad7009c3480", null ],
     [ "GetAlivePlayersCountByTeam", "df/da7/classBattleground.html#ad04081ca872e7be4fdd2c9a472d7aa89", null ],
     [ "GetArenaMatchmakerRating", "df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25", null ],

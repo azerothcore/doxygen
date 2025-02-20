@@ -1,7 +1,7 @@
 var classOutdoorPvPSI =
 [
     [ "OutdoorPvPSI", "dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "dc/db7/classOutdoorPvPSI.html#a0bf1688569e00431dcb128113b35d0f5", null ],
+    [ "FillInitialWorldStates", "dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077", null ],
     [ "HandleAreaTrigger", "dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840", null ],
     [ "HandleCustomSpell", "dc/db7/classOutdoorPvPSI.html#a10853a2f5766b6fc75044a20b281a198", null ],
     [ "HandleDropFlag", "dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a", null ],
