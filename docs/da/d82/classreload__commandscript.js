@@ -16,6 +16,7 @@ var classreload__commandscript =
     [ "HandleReloadAllQuestCommand", "da/d82/classreload__commandscript.html#a278af00d9fe64cecea8d60e2f07e2203", null ],
     [ "HandleReloadAllScriptsCommand", "da/d82/classreload__commandscript.html#a6b362c3462fd8aba472326f4847618c1", null ],
     [ "HandleReloadAllSpellCommand", "da/d82/classreload__commandscript.html#a55832cf474e646a20658117331ca3f4b", null ],
+    [ "HandleReloadAntiDosOpcodePoliciesCommand", "da/d82/classreload__commandscript.html#a0ee97bf9774f84acc2d99984cc83b3be", null ],
     [ "HandleReloadAreaTriggerCommand", "da/d82/classreload__commandscript.html#a4ea5bbeb3bc267f743725d9e42aff2a8", null ],
     [ "HandleReloadAreaTriggerTavernCommand", "da/d82/classreload__commandscript.html#a8231d01e727cfe54d9eb241fa9bbdd60", null ],
     [ "HandleReloadAreaTriggerTeleportCommand", "da/d82/classreload__commandscript.html#a7f0ba793f99e93e06836e8b0b1cb8887", null ],

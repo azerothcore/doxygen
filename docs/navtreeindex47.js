@@ -245,9 +245,9 @@ var NAVTREEINDEX47 =
 "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85":[7,0,0,0,1,3,9,2,193],
 "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85a5731caef0304be929e0bfa36d75b9c58":[7,0,0,0,1,3,9,2,193,0],
 "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85a7dcc4506d5a3f551aa49223a6b267716":[7,0,0,0,1,3,9,2,193,1],
-"d1/de5/classboss__golemagg.html":[6,0,498],
-"d1/de5/classboss__golemagg.html#a66720a143f8987dfa5d6e2acb7cd73cd":[6,0,498,1],
-"d1/de5/classboss__golemagg.html#a6899f30975e0984306feabe47bbc8317":[6,0,498,2],
-"d1/de5/structboss__firemaw_1_1boss__firemawAI.html":[6,0,463,0],
-"d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a04cb1d2fa18dba82b9c881b09406a076":[6,0,463,0,1]
+"d1/de5/classboss__golemagg.html":[6,0,499],
+"d1/de5/classboss__golemagg.html#a66720a143f8987dfa5d6e2acb7cd73cd":[6,0,499,1],
+"d1/de5/classboss__golemagg.html#a6899f30975e0984306feabe47bbc8317":[6,0,499,2],
+"d1/de5/structboss__firemaw_1_1boss__firemawAI.html":[6,0,464,0],
+"d1/de5/structboss__firemaw_1_1boss__firemawAI.html#a04cb1d2fa18dba82b9c881b09406a076":[6,0,464,0,1]
 };

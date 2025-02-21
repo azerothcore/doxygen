@@ -408,7 +408,6 @@ var IWorld_8h =
       [ "CONFIG_WINTERGRASP_BATTLETIME", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a73b205051af5dfbc8685b5e9462dcf26", null ],
       [ "CONFIG_WINTERGRASP_NOBATTLETIME", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a7b1c5e14be4f4227814f75a66ba1aa12", null ],
       [ "CONFIG_WINTERGRASP_RESTART_AFTER_CRASH", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a86d32c3097c924674d8171b170652ef6", null ],
-      [ "CONFIG_PACKET_SPOOF_POLICY", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a91452db26cd723f2290d0ef7bc5e8e22", null ],
       [ "CONFIG_PACKET_SPOOF_BANMODE", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41aae839a5d37a711a45ce11f1b1539f9aa", null ],
       [ "CONFIG_PACKET_SPOOF_BANDURATION", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a7bbac6f1e7c05710935efebf9d5a5e02", null ],
       [ "CONFIG_WARDEN_CLIENT_RESPONSE_DELAY", "d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41adcf526d0e348ba99123772b8f38ffa6f", null ],

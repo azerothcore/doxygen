@@ -102,7 +102,7 @@ var searchData=
   ['spell_5fblazing_5flight_99',['SPELL_BLAZING_LIGHT',['../d5/dbb/boss__argent__challenge_8cpp.html#ad30c7d5fca000abb48df17bf13be8707',1,'boss_argent_challenge.cpp']]],
   ['spell_5fbrittle_5f10_100',['SPELL_BRITTLE_10',['../d4/da9/boss__ignis_8cpp.html#af92b06a5ffb669c8807c8d69306a31bb',1,'boss_ignis.cpp']]],
   ['spell_5fbrittle_5f25_101',['SPELL_BRITTLE_25',['../d4/da9/boss__ignis_8cpp.html#a1cbf1fcae71b62b3c0c93064a4f9d402',1,'boss_ignis.cpp']]],
-  ['spell_5fchain_5flightning_102',['spell_chain_lightning',['../d0/d89/boss__thorim_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_thorim.cpp'],['../d9/d88/boss__assembly__of__iron_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_assembly_of_iron.cpp'],['../d6/d1b/boss__grand__champions_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_grand_champions.cpp']]],
+  ['spell_5fchain_5flightning_102',['spell_chain_lightning',['../d6/d1b/boss__grand__champions_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_grand_champions.cpp'],['../d9/d88/boss__assembly__of__iron_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_assembly_of_iron.cpp'],['../d0/d89/boss__thorim_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a',1,'SPELL_CHAIN_LIGHTNING:&#160;boss_thorim.cpp']]],
   ['spell_5fchainlightning_103',['SPELL_CHAINLIGHTNING',['../dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0',1,'boss_razorscale.cpp']]],
   ['spell_5fchannel_5fupdate_5finterval_104',['SPELL_CHANNEL_UPDATE_INTERVAL',['../d0/d78/Spell_8h.html#ab78935c66af944ba148b76e50b175514',1,'Spell.h']]],
   ['spell_5fcolossus_5fcharge_105',['SPELL_COLOSSUS_CHARGE',['../d0/d89/boss__thorim_8cpp.html#adad1d73fd07f76dd61e028d479b066c3',1,'boss_thorim.cpp']]],
@@ -223,7 +223,7 @@ var searchData=
   ['spell_5fslag_5fpot_5f10_220',['SPELL_SLAG_POT_10',['../d4/da9/boss__ignis_8cpp.html#ae795d007152fa520bc46d3f0b907b9da',1,'boss_ignis.cpp']]],
   ['spell_5fslag_5fpot_5f25_221',['SPELL_SLAG_POT_25',['../d4/da9/boss__ignis_8cpp.html#a04efa0c6b506aec9c3a95e1973033f7b',1,'boss_ignis.cpp']]],
   ['spell_5fsmash_222',['SPELL_SMASH',['../d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a29597657a2021b4ce69510ef57e5c532',1,'boss_ingvar_the_plunderer.cpp']]],
-  ['spell_5fsmite_223',['spell_smite',['../d5/dbb/boss__argent__challenge_8cpp.html#a764ef6e32d8d7765d047e4ab2eaca43c',1,'SPELL_SMITE:&#160;boss_argent_challenge.cpp'],['../db/dd3/icecrown__citadel_8cpp.html#a764ef6e32d8d7765d047e4ab2eaca43c',1,'SPELL_SMITE:&#160;icecrown_citadel.cpp']]],
+  ['spell_5fsmite_223',['spell_smite',['../db/dd3/icecrown__citadel_8cpp.html#a764ef6e32d8d7765d047e4ab2eaca43c',1,'SPELL_SMITE:&#160;icecrown_citadel.cpp'],['../d5/dbb/boss__argent__challenge_8cpp.html#a764ef6e32d8d7765d047e4ab2eaca43c',1,'SPELL_SMITE:&#160;boss_argent_challenge.cpp']]],
   ['spell_5fsolar_5fflare_224',['SPELL_SOLAR_FLARE',['../df/d87/boss__freya_8cpp.html#afe08ad9345c9d1f9a2c07d67ea4861d7',1,'boss_freya.cpp']]],
   ['spell_5fsonic_5fscreech_225',['SPELL_SONIC_SCREECH',['../da/df9/boss__auriaya_8cpp.html#aecf7dfe377d3691660073312bdb3dd45',1,'boss_auriaya.cpp']]],
   ['spell_5fspark_5fdamage_226',['SPELL_SPARK_DAMAGE',['../d5/d7d/boss__xt002_8cpp.html#a2b316d29eaae51be30ebda8b3f57d4aa',1,'boss_xt002.cpp']]],
@@ -288,7 +288,8 @@ var searchData=
   ['swardencheckmgr_285',['sWardenCheckMgr',['../db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c',1,'WardenCheckMgr.h']]],
   ['swaypointmgr_286',['sWaypointMgr',['../d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627',1,'WaypointMgr.h']]],
   ['swholistcachemgr_287',['sWhoListCacheMgr',['../dd/d14/WhoListCacheMgr_8h.html#aae5ef4cf031d5523b7d5fda6d83af41a',1,'WhoListCacheMgr.h']]],
-  ['sworldsessionmgr_288',['sWorldSessionMgr',['../de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85',1,'WorldSessionMgr.h']]],
-  ['sworldstate_289',['sWorldState',['../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f',1,'WorldState.h']]],
-  ['swpscriptname_290',['SWPScriptName',['../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7',1,'sunwell_plateau.h']]]
+  ['sworldglobals_288',['sWorldGlobals',['../db/d9c/WorldGlobals_8h.html#abde160907db136b0b0c16309add3ae94',1,'WorldGlobals.h']]],
+  ['sworldsessionmgr_289',['sWorldSessionMgr',['../de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85',1,'WorldSessionMgr.h']]],
+  ['sworldstate_290',['sWorldState',['../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f',1,'WorldState.h']]],
+  ['swpscriptname_291',['SWPScriptName',['../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7',1,'sunwell_plateau.h']]]
 ];
