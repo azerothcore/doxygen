@@ -1,5 +1,12 @@
 var NAVTREEINDEX397 =
 {
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,2,0,8,1],
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[7,0,0,0,1,3,5,8,2,0,8,4],
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa62890e77a96ea677db2e97d05cf9b3f":[7,0,0,0,1,3,5,8,2,0,8,3],
+"df/df7/boss__drakos_8cpp.html#a49700fd50259585cfac2c788de5e00a8":[7,0,0,0,1,3,5,8,2,0,4],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,0,7],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3df00e451a027ccc48488b61a54f01c5":[7,0,0,0,1,3,5,8,2,0,7,4],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca46d8a36e8760d3adacace8ade5d769a8":[7,0,0,0,1,3,5,8,2,0,7,2],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,5,8,2,0,7,6],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca76f4d1023355b57425e3d0e08fa611d1":[7,0,0,0,1,3,5,8,2,0,7,1],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca96a05afd42764dee65dc6b579e8e4795":[7,0,0,0,1,3,5,8,2,0,7,3],
@@ -32,10 +39,10 @@ var NAVTREEINDEX397 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,689,0,4],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,689,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,689,0,7],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3823],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3823,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3823,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3823,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3824],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3824,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3824,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3824,0],
 "df/dfe/classnpc__high__inquisitor__valroth.html":[6,0,1830],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[6,0,1830,2],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[6,0,1830,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX397 =
 "dir_ccefc5ead7ac03e8c9da01366479cde4.html":[7,0,0,0,1,4,4],
 "dir_cd5f8786a04521b4a96eac0f95f95a85.html":[7,0,0,0,1,2,31,1],
 "dir_cefc0a666b7eb08add8b713ef09ac247.html":[7,0,0,0,1,2,30],
-"dir_cf66c9a7c0140de46c47cc8282fbae4a.html":[7,0,0,0,1,2,14],
-"dir_cfd62069f43c6d31c3f6e771507ef478.html":[7,0,0,0,1],
-"dir_d060a361923b82432b6b770fd21c8bea.html":[7,0,0,0,1,2,43],
-"dir_d1549822ab15c727c75ddc2dceea56dd.html":[7,0,0,0,1,3,5,10],
-"dir_d1bcd4454d504780cc6b5b93a278321d.html":[7,0,0,0,1,2,34],
-"dir_d24bca12e9309aa7fe30851098c5d03d.html":[7,0,0,0,1,3,2,7],
-"dir_d253a27506f7041d543a98c5e5d24de3.html":[7,0,0,0,1,3,4,6],
-"dir_d35b7636bdd4a8db0bf316c0b0a1358d.html":[7,0,0,0,2,1]
+"dir_cf66c9a7c0140de46c47cc8282fbae4a.html":[7,0,0,0,1,2,14]
 };

@@ -21,7 +21,6 @@ var zulaman_8cpp =
     ] ],
     [ "AmanishiScout", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458", [
       [ "NPC_WORLD_TRIGGER", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a2de54d34271fcadd2d72ee13d7e0ce48", null ],
-      [ "POINT_DRUM", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a62c6d71c075339d26f985e0f927bff20", null ],
       [ "SAY_AGGRO", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SPELL_ALERT_DRUMS", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a360249375688b5427f211ef11c9057c8", null ],
       [ "SPELL_MULTI_SHOT", "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458ac7138c3b5a7250d35e73359c3d5e2987", null ],

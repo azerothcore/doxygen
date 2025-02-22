@@ -138,6 +138,7 @@ var hierarchy =
         [ "spell_electrial_storm", "dd/d08/classspell__electrial__storm.html", null ],
         [ "spell_entropius_negative_energy_periodic", "d7/d5c/classspell__entropius__negative__energy__periodic.html", null ],
         [ "spell_entropius_void_zone_visual_aura", "d7/d45/classspell__entropius__void__zone__visual__aura.html", null ],
+        [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", null ],
         [ "spell_exploding_orb_auto_grow_aura", "dd/d1f/classspell__exploding__orb__auto__grow__aura.html", null ],
         [ "spell_faction_champion_warl_unstable_affliction_aura", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html", null ],
         [ "spell_felmyst_fog_of_corruption_charm_aura", "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html", null ],

@@ -3297,6 +3297,7 @@ var annotated_dup =
     [ "spell_eredar_twins_apply_touch", "d7/dee/classspell__eredar__twins__apply__touch.html", "d7/dee/classspell__eredar__twins__apply__touch" ],
     [ "spell_eredar_twins_blaze", "d6/d40/classspell__eredar__twins__blaze.html", "d6/d40/classspell__eredar__twins__blaze" ],
     [ "spell_eredar_twins_handle_touch", "dd/d4a/classspell__eredar__twins__handle__touch.html", "dd/d4a/classspell__eredar__twins__handle__touch" ],
+    [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", "da/d2e/classspell__eredar__twins__handle__touch__periodic" ],
     [ "spell_explode_trigger", "d0/db6/classspell__explode__trigger.html", "d0/db6/classspell__explode__trigger" ],
     [ "spell_exploding_orb_auto_grow_aura", "dd/d1f/classspell__exploding__orb__auto__grow__aura.html", "dd/d1f/classspell__exploding__orb__auto__grow__aura" ],
     [ "spell_faction_champion_warl_unstable_affliction_aura", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura" ],

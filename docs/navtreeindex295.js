@@ -1,5 +1,13 @@
 var NAVTREEINDEX295 =
 {
+"dc/d01/classdisable__commandscript.html#aa1df5e4cbc89182eb9e31b4fa9a5325f":[6,0,975,9],
+"dc/d01/classdisable__commandscript.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf":[6,0,975,7],
+"dc/d01/classdisable__commandscript.html#aaa457682d8621801d457eb734673d745":[6,0,975,16],
+"dc/d01/classdisable__commandscript.html#aae06939a2fc52aedce54a75db4b3c218":[6,0,975,17],
+"dc/d01/classdisable__commandscript.html#ab0d61b762d728c1a35e20cda3c347c55":[6,0,975,12],
+"dc/d01/classdisable__commandscript.html#ac5088383c36894c7bd753ee99086e508":[6,0,975,10],
+"dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,975,0],
+"dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,975,4],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2644],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2644,1],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2644,0],
@@ -105,10 +113,10 @@ var NAVTREEINDEX295 =
 "dc/d07/classnpc__captain__brandon.html":[6,0,1670],
 "dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1670,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1670,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3094],
-"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3094,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3094,0],
-"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3094,2],
+"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3095],
+"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3095,1],
+"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3095,0],
+"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3095,2],
 "dc/d07/halls__of__reflection_8cpp.html":[7,0,0,0,1,3,5,4,1,2],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543":[7,0,0,0,1,3,5,4,1,2,32],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a045c165c307fd58d9f2a27b2ffdef086":[7,0,0,0,1,3,5,4,1,2,32,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf06f3ff83a1569f59d36555d0e4897a":[7,0,0,0,1,3,5,4,1,2,33,67],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1c4d6d44252f39ca3e714c838429572":[7,0,0,0,1,3,5,4,1,2,33,60],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1ff9f6df418335d6ecdaf14705e6634":[7,0,0,0,1,3,5,4,1,2,33,59],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4b51f48f97ba313306dd8f057f26a19":[7,0,0,0,1,3,5,4,1,2,33,63],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9eca9b8087de6873a64bfef98ab5cb9":[7,0,0,0,1,3,5,4,1,2,33,39],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad00ddd943bf0e9d2338afb8144805b93":[7,0,0,0,1,3,5,4,1,2,33,54],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad0e2076b92b09eb9eab90439592d6ef1":[7,0,0,0,1,3,5,4,1,2,33,37],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9d58c4083728a4652b06dda805b76c9":[7,0,0,0,1,3,5,4,1,2,33,22],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb05711c33ffcbdb6dd9ebe06d691504":[7,0,0,0,1,3,5,4,1,2,33,15],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb68f937d20a2c3b950fa0472657a174":[7,0,0,0,1,3,5,4,1,2,33,11],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc0378017b872625a84efb340c7c3224":[7,0,0,0,1,3,5,4,1,2,33,8],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1addf50b7ce422c565cdfa865d4f741dc2":[7,0,0,0,1,3,5,4,1,2,33,19]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4b51f48f97ba313306dd8f057f26a19":[7,0,0,0,1,3,5,4,1,2,33,63]
 };

@@ -5,6 +5,7 @@ var boss__eredar__twins_8cpp =
     [ "spell_eredar_twins_apply_touch", "d7/dee/classspell__eredar__twins__apply__touch.html", "d7/dee/classspell__eredar__twins__apply__touch" ],
     [ "spell_eredar_twins_handle_touch", "dd/d4a/classspell__eredar__twins__handle__touch.html", "dd/d4a/classspell__eredar__twins__handle__touch" ],
     [ "spell_eredar_twins_blaze", "d6/d40/classspell__eredar__twins__blaze.html", "d6/d40/classspell__eredar__twins__blaze" ],
+    [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", "da/d2e/classspell__eredar__twins__handle__touch__periodic" ],
     [ "at_sunwell_eredar_twins", "d2/d59/classat__sunwell__eredar__twins.html", "d2/d59/classat__sunwell__eredar__twins" ],
     [ "Misc", "dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ACTION_SISTER_DIED", "dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91bbcc3808c94e9f9f27c03c1cb93002", null ],

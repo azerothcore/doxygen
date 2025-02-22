@@ -18,6 +18,5 @@ var structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScri
     [ "NPC_GuardSecondGUID", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#aa2d81eabe8cf50f3c42b075581e4d6dd", null ],
     [ "NPC_LeaderFirstGUID", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a10b3c39fb3c038932ddcff1ddfc4ab85", null ],
     [ "NPC_LeaderSecondGUID", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a252639143b34c38ef106192cb2399b30", null ],
-    [ "str_data", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#ad540fbbabef46015fb1730c5b6477b92", null ],
-    [ "teamIdInInstance", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#aaba17e6fc33bcca175006486c5f21f81", null ]
+    [ "str_data", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#ad540fbbabef46015fb1730c5b6477b92", null ]
 ];

@@ -1,5 +1,13 @@
 var NAVTREEINDEX308 =
 {
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html":[6,0,2151,0],
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#a8611ef17700c739dbd5e7a70660f1379":[6,0,2151,0,1],
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#a92e873dc3aa97f81919225ce75a5f894":[6,0,2151,0,0],
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#aaecb5a402e4ffca1e819303dbb94f5b5":[6,0,2151,0,3],
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#ad09a3a063d716bc43e23b5aad5e46a7b":[6,0,2151,0,2],
+"dc/db3/boss__archimonde_8cpp.html":[7,0,0,0,1,3,4,1,0,1],
+"dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,1,0,1,10],
+"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[7,0,0,0,1,3,4,1,0,1,12],
 "dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[7,0,0,0,1,3,4,1,0,1,11],
 "dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[7,0,0,0,1,3,4,1,0,1,15],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[7,0,0,0,1,3,4,1,0,1,5],
@@ -94,10 +102,10 @@ var NAVTREEINDEX308 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2202],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2202,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2202,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3541],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3541,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3541,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3541,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3542],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3542,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3542,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3542,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,931],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,931,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -241,13 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[6,0,656,8],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[6,0,656,4],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[6,0,656,6],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[6,0,656,9],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[6,0,656,12],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[6,0,656,0],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[6,0,656,10],
-"dc/dc0/structBattlegroundAVScore.html":[6,0,314],
-"dc/dc0/structBattlegroundAVScore.html#a09038f1133996849064da1b09983be82":[6,0,314,11],
-"dc/dc0/structBattlegroundAVScore.html#a13edee0d2da9b539eeab5d5d7a15dcc9":[6,0,314,6],
-"dc/dc0/structBattlegroundAVScore.html#a17e5ba885b1dd8d4f4f1992b3503a31f":[6,0,314,9],
-"dc/dc0/structBattlegroundAVScore.html#a28b8aa5df57cea0b481edc5a0b8c490e":[6,0,314,12]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[6,0,656,9]
 };

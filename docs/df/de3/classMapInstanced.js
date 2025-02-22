@@ -5,7 +5,7 @@ var classMapInstanced =
     [ "~MapInstanced", "df/de3/classMapInstanced.html#aa27d6f90288f23d34117c7d68160e04c", null ],
     [ "CannotEnter", "df/de3/classMapInstanced.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
     [ "CreateBattleground", "df/de3/classMapInstanced.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
-    [ "CreateInstance", "df/de3/classMapInstanced.html#ad83d8860fcc67f41208f73f7938eb513", null ],
+    [ "CreateInstance", "df/de3/classMapInstanced.html#a6d04039bbbde5717e50606d48c3ea954", null ],
     [ "CreateInstanceForPlayer", "df/de3/classMapInstanced.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
     [ "DelayedUpdate", "df/de3/classMapInstanced.html#a8f58a4c872089f8fce60ddc31623611e", null ],
     [ "DestroyInstance", "df/de3/classMapInstanced.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],

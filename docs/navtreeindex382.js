@@ -1,5 +1,12 @@
 var NAVTREEINDEX382 =
 {
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,30,5,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,30,5,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,30,5,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,595,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,595,0,8],
@@ -226,10 +233,10 @@ var NAVTREEINDEX382 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,54,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,66,4],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,54,4],
-"df/d88/classspell__hallows__end__trick.html":[6,0,3040],
-"df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[6,0,3040,2],
-"df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[6,0,3040,0],
-"df/d88/classspell__hallows__end__trick.html#aab4303fff660c68db100e07a4423c39b":[6,0,3040,1],
+"df/d88/classspell__hallows__end__trick.html":[6,0,3041],
+"df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[6,0,3041,2],
+"df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[6,0,3041,0],
+"df/d88/classspell__hallows__end__trick.html#aab4303fff660c68db100e07a4423c39b":[6,0,3041,1],
 "df/d89/SkillDiscovery_8cpp.html":[7,0,0,0,1,2,40,0],
 "df/d89/SkillDiscovery_8cpp.html#a0c80a6b86b3b7bd5e9c238efa802919b":[7,0,0,0,1,2,40,0,1],
 "df/d89/SkillDiscovery_8cpp.html#a1d624484e07efeeabc8a73a10c75ca4d":[7,0,0,0,1,2,40,0,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX382 =
 "df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[6,0,392,2],
 "df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[6,0,392,1],
 "df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html":[6,0,684,0],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a02e2e657ac74ab37a4568589511de664":[6,0,684,0,0],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a3db5e816f6253f9c4251690bfbbe1912":[6,0,684,0,2],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a6a26f1f777988be6eaf8b1a675bbbabb":[6,0,684,0,1],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a7054cde1de2166c2b06489187115cb3f":[6,0,684,0,3],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a8b70b3b7287108ad13caeb85a83cf26f":[6,0,684,0,4],
-"df/d8b/WardenPayloadMgr_8cpp.html":[7,0,0,0,1,2,46,8],
-"df/d8b/classspell__item__rocket__chicken.html":[6,0,3244],
-"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[6,0,3244,0]
+"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a02e2e657ac74ab37a4568589511de664":[6,0,684,0,0]
 };

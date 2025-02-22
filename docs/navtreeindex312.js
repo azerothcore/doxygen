@@ -1,5 +1,13 @@
 var NAVTREEINDEX312 =
 {
+"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2360,1],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html":[6,0,1315,0],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a04ea989733a6ba1bed1990e1ea8baf1f":[6,0,1315,0,1],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c":[6,0,1315,0,6],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1b0553334dc2d00fd12512dae373039a":[6,0,1315,0,5],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1bc410826700bdfcefc5f60d0967a091":[6,0,1315,0,19],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1c035ca450efdd89481715bd09c6c38c":[6,0,1315,0,4],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a402480035dfffd7c4c717229bd55b921":[6,0,1315,0,16],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a44cf46153dd392758fa5c388e8c2ea84":[6,0,1315,0,2],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a45ce85a8a6c9362ad04194b0518066c9":[6,0,1315,0,13],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a5043a99a4a3d1c86a4a7026757ebdc14":[6,0,1315,0,11],
@@ -203,9 +211,9 @@ var NAVTREEINDEX312 =
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
 "dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
 "dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2925],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2925,0],
-"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2925,1],
+"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2926],
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2926,0],
+"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2926,1],
 "dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
 "dc/def/structboss__mechano__lord__capacitus.html":[6,0,613],
 "dc/def/structboss__mechano__lord__capacitus.html#a4aa9ee50a942fe123acfdeee0350fa2d":[6,0,613,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX312 =
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea23fe52d57e566b96f971bce2115acebe":[7,0,0,0,1,3,2,16,15,3,11],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea24fd6700727df09c29b59afec4e02a27":[7,0,0,0,1,3,2,16,15,3,19],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea30a45f900541626fcd0e16042cb9bcfc":[7,0,0,0,1,3,2,16,15,3,0],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b":[7,0,0,0,1,3,2,16,15,3,2],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea4ce1495cad3819497d4439b9bce70f15":[7,0,0,0,1,3,2,16,15,3,15],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea4e217da14b95b49418a2c8ad63bf03db":[7,0,0,0,1,3,2,16,15,3,22],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea84ef08cb2fea2a05b848399fd3d3e355":[7,0,0,0,1,3,2,16,15,3,14],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea8a44010fa75bbda43fd629e8bf15fd97":[7,0,0,0,1,3,2,16,15,3,20],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea92c7a332f35295e71d692653187f274a":[7,0,0,0,1,3,2,16,15,3,9],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea93700636bed8e6671157b5c57d6631f1":[7,0,0,0,1,3,2,16,15,3,18],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea95e557f5d65bd89bc6f0d6be45a1128f":[7,0,0,0,1,3,2,16,15,3,23],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaa875232eda4b6326535c996ac99b8a97":[7,0,0,0,1,3,2,16,15,3,13]
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b":[7,0,0,0,1,3,2,16,15,3,2]
 };
