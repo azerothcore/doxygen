@@ -97,7 +97,7 @@ var searchData=
   ['nextdistfromprev_94',['NextDistFromPrev',['../dd/d3a/structKeyFrame.html#a23823648385abc72ffd8372468b98915',1,'KeyFrame']]],
   ['nextgroup_95',['nextGroup',['../d8/d01/structAreaGroupEntry.html#a1f966f2d6848e8aba2ae3c6bd8120503',1,'AreaGroupEntry']]],
   ['nextguildid_96',['NextGuildId',['../dd/d52/classGuildMgr.html#a75e150f66ebccfc05824a4f7b66a9210',1,'GuildMgr']]],
-  ['nextpage_97',['NextPage',['../da/d4c/structPageText.html#a5ea0eba89ecb21a09b184efd5dc57dc0',1,'PageText']]],
+  ['nextpage_97',['NextPage',['../da/d4c/structPageText.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef',1,'PageText']]],
   ['nextquestid_98',['NextQuestId',['../d1/d4f/classQuest.html#a58e8d1e22f2097a2de9eaff8cdcea654',1,'Quest']]],
   ['nextstart_99',['NextStart',['../da/d99/structGameEventData.html#aafe5f4d5b9122f26442266c651ebd77e',1,'GameEventData']]],
   ['nexttemparenateamid_100',['NextTempArenaTeamId',['../d3/da8/classArenaTeamMgr.html#aab81eef5786283d423d7e35a75517831',1,'ArenaTeamMgr']]],

@@ -262,7 +262,7 @@ var searchData=
   ['nextdistfromprev_259',['NextDistFromPrev',['../dd/d3a/structKeyFrame.html#a23823648385abc72ffd8372468b98915',1,'KeyFrame']]],
   ['nextgroup_260',['nextGroup',['../d8/d01/structAreaGroupEntry.html#a1f966f2d6848e8aba2ae3c6bd8120503',1,'AreaGroupEntry']]],
   ['nextguildid_261',['NextGuildId',['../dd/d52/classGuildMgr.html#a75e150f66ebccfc05824a4f7b66a9210',1,'GuildMgr']]],
-  ['nextpage_262',['NextPage',['../da/d4c/structPageText.html#a5ea0eba89ecb21a09b184efd5dc57dc0',1,'PageText']]],
+  ['nextpage_262',['NextPage',['../da/d4c/structPageText.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef',1,'PageText']]],
   ['nextposibleangle_263',['NextPosibleAngle',['../de/da1/structObjectPosSelector.html#a3ca2304f7f268685b22db941d70fab36',1,'ObjectPosSelector']]],
   ['nextquestid_264',['NextQuestId',['../d1/d4f/classQuest.html#a58e8d1e22f2097a2de9eaff8cdcea654',1,'Quest']]],
   ['nextrow_265',['nextrow',['../d0/d92/classResultSet.html#a3d63f8274e3b485176855e2ade9e0642',1,'ResultSet::NextRow()'],['../d0/dad/classPreparedResultSet.html#a318512d8357070f2aac5a511a6980b7a',1,'PreparedResultSet::NextRow()']]],
