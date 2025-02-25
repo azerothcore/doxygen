@@ -1,6 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caea1d4ae5c34f2cdc018e5e331625a8c2":[7,0,0,0,1,3,2,12,0,6,20],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caecbfefbb37e319d47db8aa6ebe55606a":[7,0,0,0,1,3,2,12,0,6,15],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caee9950fce5121ad938990d1d73fa4b92":[7,0,0,0,1,3,2,12,0,6,18],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caef00732fe4d2299861cbf4a895899e54":[7,0,0,0,1,3,2,12,0,6,31],
@@ -26,8 +25,8 @@ var NAVTREEINDEX208 =
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[6,0,848,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,11,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,30,17],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,30,17,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,30,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,11,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,30,17,2],
@@ -69,8 +68,8 @@ var NAVTREEINDEX208 =
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,741,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,148],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,148,0],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,30,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,18],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,30,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,18,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,30,18,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX208 =
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a7473dff3417d3e7510bc4fb7acbeb494":[6,0,1682,0,10],
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a98315f3202daaac261a1e7f0222b01c5":[6,0,1682,0,7],
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ab64c9da6af7246e1665a5264a26d75ab":[6,0,1682,0,0],
-"d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ad721852353215d46bc623efca358981f":[6,0,1682,0,12]
+"d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ad721852353215d46bc623efca358981f":[6,0,1682,0,12],
+"d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ae3b4588a2dfd337ffc71456652fa136f":[6,0,1682,0,9]
 };

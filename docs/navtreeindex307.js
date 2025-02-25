@@ -1,6 +1,5 @@
 var NAVTREEINDEX307 =
 {
-"dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6eab3af33ac2cf3fe32495daff66469e7f1":[7,0,0,0,1,2,16,7,16,8,3],
 "dc/da6/SocialMgr_8h.html#ad75bdebf3d450d178eb4945e1b484ff3":[7,0,0,0,1,2,16,7,16,4],
 "dc/da6/SocialMgr_8h.html#afd83098f3a1e072e6ae7e54b799c5a49":[7,0,0,0,1,2,16,7,16,3],
 "dc/da7/classRectangleBoundary.html":[6,0,2467],
@@ -249,5 +248,6 @@ var NAVTREEINDEX307 =
 "dc/db2/classspell__calling__korkron__or__wildhammer.html":[6,0,2673],
 "dc/db2/classspell__calling__korkron__or__wildhammer.html#a0deddf7497d3bdb82901d612dce28dc9":[6,0,2673,1],
 "dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2673,2],
-"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2673,0]
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2673,0],
+"dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html":[6,0,2151,0]
 };

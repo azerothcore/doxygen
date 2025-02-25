@@ -1,6 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html":[6,0,540,0],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a0cc9573f8e2a35faaeee48ff9095e93f":[6,0,540,0,17],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a11dc0853f1262b11c7d58559864698e2":[6,0,540,0,16],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a2eb918a85cd7025f5f65c1aec7e9fd1f":[6,0,540,0,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX264 =
 "da/ddc/classSmartAI.html#ae4ca3b9840e41984e4bd2911ac85f2f5":[6,0,2542,80],
 "da/ddc/classSmartAI.html#ae6196c6dad0f280f15551c8ecb96f814":[6,0,2542,45],
 "da/ddc/classSmartAI.html#aea6a1ce8d6d74dcff2d9987779c10836":[6,0,2542,78],
-"da/ddc/classSmartAI.html#aee1f9ae0a22e6b509026e209d51b4d73":[6,0,2542,33]
+"da/ddc/classSmartAI.html#aee1f9ae0a22e6b509026e209d51b4d73":[6,0,2542,33],
+"da/ddc/classSmartAI.html#aee67b82ba775d7efb9f2c7b056c23cb6":[6,0,2542,37]
 };

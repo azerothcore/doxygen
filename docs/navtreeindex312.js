@@ -1,6 +1,5 @@
 var NAVTREEINDEX312 =
 {
-"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2360,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html":[6,0,1315,0],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a04ea989733a6ba1bed1990e1ea8baf1f":[6,0,1315,0,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c":[6,0,1315,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX312 =
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea23fe52d57e566b96f971bce2115acebe":[7,0,0,0,1,3,2,16,15,3,11],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea24fd6700727df09c29b59afec4e02a27":[7,0,0,0,1,3,2,16,15,3,19],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea30a45f900541626fcd0e16042cb9bcfc":[7,0,0,0,1,3,2,16,15,3,0],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b":[7,0,0,0,1,3,2,16,15,3,2]
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea42d8b1d4b05175f371bac205b62bfb2b":[7,0,0,0,1,3,2,16,15,3,2],
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea4ce1495cad3819497d4439b9bce70f15":[7,0,0,0,1,3,2,16,15,3,15]
 };

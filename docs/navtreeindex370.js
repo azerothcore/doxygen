@@ -1,6 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a4fb20172c48257aafe284b3934a9c357":[6,0,2090,0,1],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a5ed567ac16bef8f53a66a12fbaf4573e":[6,0,2090,0,16],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a7a037981d3d2a37abf0d3995283ac218":[6,0,2090,0,17],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a89cbd29300ca07b3366a197a7549edab":[6,0,2090,0,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX370 =
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#a77c272d4a26323c421e4b264f79d5b66":[6,0,3826,2],
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#ae149a739150cb7eb9fb67f19130c0510":[6,0,3826,0],
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#aecd8670e3a079c8460cddd5ce0b4f79b":[6,0,3826,3],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,1,127]
+"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,1,127],
+"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[6,0,0,115]
 };

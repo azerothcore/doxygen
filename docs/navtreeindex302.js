@@ -1,6 +1,5 @@
 var NAVTREEINDEX302 =
 {
-"dc/d4c/classOutdoorPvPZM.html#a93105e3229db7798ad882fc7e538b250":[6,0,2346,6],
 "dc/d4c/classOutdoorPvPZM.html#a9842f1c5de04af4db3e0397839de7765":[6,0,2346,13],
 "dc/d4c/classOutdoorPvPZM.html#a98bfdd944bc51f9ed30b74e1cf3217b5":[6,0,2346,3],
 "dc/d4c/classOutdoorPvPZM.html#ab7e230cfa2f06fa450ca40c381491c85":[6,0,2346,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX302 =
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#acde6b3e037d3c297e5d1beccdbe3d03a":[6,0,2264,0,0],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7":[6,0,2264,0,13],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#af6f68e291ce7d8cf25105ac64d7eebff":[6,0,2264,0,10],
-"dc/d5e/structSpellStackInfo.html":[6,0,4040]
+"dc/d5e/structSpellStackInfo.html":[6,0,4040],
+"dc/d5e/structSpellStackInfo.html#a2232afb6a6b05e5ea33f40992a09621d":[6,0,4040,1]
 };

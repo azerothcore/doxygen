@@ -1,6 +1,5 @@
 var NAVTREEINDEX286 =
 {
-"db/dc4/classspell__gen__on__tournament__mount.html#a396c05708a89758e4038b327e09c65e8":[6,0,2949,1],
 "db/dc4/classspell__gen__on__tournament__mount.html#a46782a9dfb8ee2100be00afb6aa8b9a7":[6,0,2949,5],
 "db/dc4/classspell__gen__on__tournament__mount.html#adf6fd3d2a36e1ff115b5c5109d37b7a4":[6,0,2949,2],
 "db/dc4/classspell__gen__on__tournament__mount.html#afc83ecf02a1702d48fb39d60419bdbf1":[6,0,2949,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX286 =
 "db/dce/classAura.html#a96d2072a3b0b06f82113eb9d3e186ac1":[6,0,277,37],
 "db/dce/classAura.html#a97347f8dc5f2dd96c7c45a77c13988a5":[6,0,277,22],
 "db/dce/classAura.html#a97f212bb7332fdf03fccafe5389c1e0a":[6,0,277,16],
-"db/dce/classAura.html#a998a0e0cfd700ef9fed95f969ad9b791":[6,0,277,66]
+"db/dce/classAura.html#a998a0e0cfd700ef9fed95f969ad9b791":[6,0,277,66],
+"db/dce/classAura.html#a99930c42ad9f6e002ffe6de5e5fbe59b":[6,0,277,105]
 };

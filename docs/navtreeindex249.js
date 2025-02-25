@@ -1,6 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"da/d37/unionGameObjectValue.html#aa443028e95ae416e09f1acfef0575803":[6,0,1087,0],
 "da/d37/unionGameObjectValue.html#aae3dbb59dc70ee4d5d0a10390200c66e":[6,0,1087,1],
 "da/d37/unionGameObjectValue.html#ab606f11596c1dd3d1cf7588346338721":[6,0,1087,5],
 "da/d37/unionGameObjectValue.html#af70b72663064c9c4b88c93a824f1e14b":[6,0,1087,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX249 =
 "da/d49/classticket__commandscript.html#ae0686f933ff941c8ba36a727b703cdd9":[6,0,4095,8],
 "da/d49/classticket__commandscript.html#af38ad7d982f8cf16523ed62677f2c0e1":[6,0,4095,9],
 "da/d49/classticket__commandscript.html#afc1a25ed1d1a966d5afaa6dbd1070fda":[6,0,4095,19],
-"da/d4b/GuardAI_8h.html":[7,0,0,0,1,2,3,0,5]
+"da/d4b/GuardAI_8h.html":[7,0,0,0,1,2,3,0,5],
+"da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,116]
 };

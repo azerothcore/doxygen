@@ -1,6 +1,5 @@
 var NAVTREEINDEX292 =
 {
-"db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1518,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1518,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1518,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX292 =
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aac1a0bd0e5cba3d9ec177fd27adb4c8da":[7,0,0,0,1,3,9,8,99,4],
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aace77d85994d74fcf63aa22411d0f8297":[7,0,0,0,1,3,9,8,99,5],
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aadb304b2c523fd7ab68318d2ac251bfd5":[7,0,0,0,1,3,9,8,99,3],
-"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cf":[7,0,0,0,1,3,9,8,117]
+"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cf":[7,0,0,0,1,3,9,8,117],
+"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa02a9330a59bb21bcb5a9b07acbfeadcd":[7,0,0,0,1,3,9,8,117,0]
 };

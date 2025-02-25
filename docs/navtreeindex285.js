@@ -1,6 +1,5 @@
 var NAVTREEINDEX285 =
 {
-"db/dae/npcs__special_8cpp.html#ae468f7065cce4d4fc7a31838290a82ee":[7,0,0,0,1,3,10,14,49],
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cd":[7,0,0,0,1,3,10,14,70],
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda48be430269d4b81aa898b2609dcf4e65":[7,0,0,0,1,3,10,14,70,0],
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda561ec693739cd4d708d30cbb62c2e47a":[7,0,0,0,1,3,10,14,70,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX285 =
 "db/dc4/classspell__gen__on__tournament__mount.html#a0230d694e9325d7ac6ac6526ecb5a0e3":[6,0,2949,4],
 "db/dc4/classspell__gen__on__tournament__mount.html#a092f0d88ede12dea699b39d5df04131c":[6,0,2949,7],
 "db/dc4/classspell__gen__on__tournament__mount.html#a095b002671940f2b3504ae2646f76d5a":[6,0,2949,6],
-"db/dc4/classspell__gen__on__tournament__mount.html#a1e327a79ce90cf7ebbec644ed15ff67f":[6,0,2949,0]
+"db/dc4/classspell__gen__on__tournament__mount.html#a1e327a79ce90cf7ebbec644ed15ff67f":[6,0,2949,0],
+"db/dc4/classspell__gen__on__tournament__mount.html#a396c05708a89758e4038b327e09c65e8":[6,0,2949,1]
 };

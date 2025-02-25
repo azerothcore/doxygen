@@ -1,6 +1,5 @@
 var NAVTREEINDEX259 =
 {
-"da/da1/classspell__mage__pet__scaling.html#a3860e12ea334cb61a437941b6f9b81e0":[6,0,3366,2],
 "da/da1/classspell__mage__pet__scaling.html#a5180cc8beb5244bd0b957dfc89dc9cf4":[6,0,3366,5],
 "da/da1/classspell__mage__pet__scaling.html#a56489b52592e63dd00640de388926512":[6,0,3366,4],
 "da/da1/classspell__mage__pet__scaling.html#a5b57273e0d9fc39a000c7bf4e232acb4":[6,0,3366,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX259 =
 "da/daa/classMetricStopWatch.html#a712b660e090531e69455096afeb60c4c":[6,0,1497,1],
 "da/daa/classMetricStopWatch.html#a74ad62e26a4f6598c76ca5c2d928d3a2":[6,0,1497,3],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html":[6,0,798,0],
-"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a01217dd4c33b0ccae448aa137e83dd9b":[6,0,798,0,3]
+"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a01217dd4c33b0ccae448aa137e83dd9b":[6,0,798,0,3],
+"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a3cbe18164c993fd034242b3f19d27e31":[6,0,798,0,4]
 };

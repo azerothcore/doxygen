@@ -1,6 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa02a9330a59bb21bcb5a9b07acbfeadcd":[7,0,0,0,1,3,9,8,117,0],
 "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa10ecfcbeb3286a3292832d54efaa59fa":[7,0,0,0,1,3,9,8,117,2],
 "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa972f9b13a33886bee9c952216c9b7acf":[7,0,0,0,1,3,9,8,117,1],
 "db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037a":[7,0,0,0,1,3,9,8,92],
@@ -249,5 +248,6 @@ var NAVTREEINDEX293 =
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d351e3389aca88383e01f701673900a":[7,0,0,0,1,3,4,8,0,11,15],
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca93962f6921e607976ee530363b1014da":[7,0,0,0,1,3,4,8,0,11,12],
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c0d75ded437b7cb501d83646ddb3423":[7,0,0,0,1,3,4,8,0,11,16],
-"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298caa6c220a036678e24d62f8c818be4cf63":[7,0,0,0,1,3,4,8,0,11,20]
+"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298caa6c220a036678e24d62f8c818be4cf63":[7,0,0,0,1,3,4,8,0,11,20],
+"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,4,8,0,11,6]
 };

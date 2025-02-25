@@ -1,6 +1,5 @@
 var NAVTREEINDEX348 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a8cb08b915e864248b8726623b4788e57":[7,0,0,0,1,4,7,97,47],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a8d2d6bb6154a86efb03f1a26583b00f8":[7,0,0,0,1,4,7,97,42],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a8fbf805f4252df71fa639c4029842f66":[7,0,0,0,1,4,7,97,147],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a91ab54f2f2d5f62473324790d2678324":[7,0,0,0,1,4,7,97,126],
@@ -249,5 +248,6 @@ var NAVTREEINDEX348 =
 "de/d14/structFactionEntry.html#aee99121c2d7298e16540229923391aee":[6,0,1026,8],
 "de/d14/zone__tanaris_8cpp.html":[7,0,0,0,1,3,4,28],
 "de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6":[7,0,0,0,1,3,4,28,9],
-"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a06594b919a53dcb69dd5d8b1617a18d8":[7,0,0,0,1,3,4,28,9,2]
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a06594b919a53dcb69dd5d8b1617a18d8":[7,0,0,0,1,3,4,28,9,2],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a108cce45652b8a8986c6f7ec5026ffe5":[7,0,0,0,1,3,4,28,9,3]
 };

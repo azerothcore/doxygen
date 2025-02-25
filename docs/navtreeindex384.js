@@ -1,6 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"df/d94/classnpc__roxi__ramrocket.html#af7f6bf6d5f8fc468abe62605f205571b":[6,0,2076,0],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html":[6,0,2059,0],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a003eb350a11f3f5c2355a58958633f36":[6,0,2059,0,3],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a03e5dd969fcc2e3dcebc714247e18bf2":[6,0,2059,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX384 =
 "df/d9d/classMessageBuffer.html#a8ae995ff5da60ca581e3539a511780be":[6,0,1494,6],
 "df/d9d/classMessageBuffer.html#a92586fdeffb14738acbf8979b5974e6f":[6,0,1494,1],
 "df/d9d/classMessageBuffer.html#a960c58291dd38003298dbcf85d649568":[6,0,1494,11],
-"df/d9d/classMessageBuffer.html#a9a9bf51f87346e42a4765b72d78dc7f6":[6,0,1494,3]
+"df/d9d/classMessageBuffer.html#a9a9bf51f87346e42a4765b72d78dc7f6":[6,0,1494,3],
+"df/d9d/classMessageBuffer.html#ab9c9b5422fff1450c98c2241344631e9":[6,0,1494,19]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[7,0,0,0,1,3,2,17,42],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,17,75],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4d8848387918b6d4fbc1efdbb445f12":[7,0,0,0,1,3,2,17,55],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,17,47],
@@ -249,5 +248,6 @@ var NAVTREEINDEX311 =
 "dc/de3/structboss__isalien.html#ad6714da515db77c7299ee80b3268433e":[6,0,549,3],
 "dc/de4/classPartyTimeEmoteEvent.html":[6,0,2360],
 "dc/de4/classPartyTimeEmoteEvent.html#a525efd58fc8465658208058e6dc5d31c":[6,0,2360,0],
-"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[6,0,2360,2]
+"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[6,0,2360,2],
+"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2360,1]
 };

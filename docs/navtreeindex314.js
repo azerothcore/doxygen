@@ -1,6 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"dd/d05/M2Stores_8h.html#a9971ebb80eba223b5767bcfa8f713267":[7,0,0,0,1,2,14,3,2],
 "dd/d05/structInstanceSaveMgr_1_1InstResetEvent.html":[6,0,1358,0],
 "dd/d05/structInstanceSaveMgr_1_1InstResetEvent.html#a67afe513dd42370ac4bb385a7128a324":[6,0,1358,0,2],
 "dd/d05/structInstanceSaveMgr_1_1InstResetEvent.html#ad02e00b2782304fbd75973fe58eefd33":[6,0,1358,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX314 =
 "dd/d13/classDBCFile.html#a13665b42b03d29542922798b8e596db0":[6,0,950,21],
 "dd/d13/classDBCFile.html#a1ad4638c766b9222924e17977153439c":[6,0,950,4],
 "dd/d13/classDBCFile.html#a1ad4638c766b9222924e17977153439c":[6,0,950,6],
-"dd/d13/classDBCFile.html#a2453497157878f50c1e709e834fa2ca6":[6,0,950,7]
+"dd/d13/classDBCFile.html#a2453497157878f50c1e709e834fa2ca6":[6,0,950,7],
+"dd/d13/classDBCFile.html#a2453497157878f50c1e709e834fa2ca6":[6,0,950,5]
 };

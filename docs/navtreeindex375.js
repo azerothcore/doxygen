@@ -1,6 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6a312f5578b89833bcfac93ba4cd6281":[7,0,0,0,1,2,16,5,0,4,6,93],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b03ad8147a368bbf29c0b92b12b0679":[7,0,0,0,1,2,16,5,0,4,6,32],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b4c3379fbf86b796b86c3771f6c1f15":[7,0,0,0,1,2,16,5,0,4,6,33],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b7e5537e6e872969b970851dfb9767d":[7,0,0,0,1,2,16,5,0,4,6,217],
@@ -249,5 +248,6 @@ var NAVTREEINDEX375 =
 "df/d22/classnpc__gunship__rocketeer.html":[6,0,1822],
 "df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[6,0,1822,2],
 "df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[6,0,1822,1],
-"df/d23/classspell__black__temple__spell__absorption__aura.html":[6,0,2629]
+"df/d23/classspell__black__temple__spell__absorption__aura.html":[6,0,2629],
+"df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[6,0,2629,2]
 };

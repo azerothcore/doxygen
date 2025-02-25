@@ -1,6 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a1b045bbe6c337e726158e64375fa9fe7":[6,0,1284,0,6],
 "db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a37b3647e927798d77a17f99976910b4b":[6,0,1284,0,9],
 "db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a3aade6e7fb756b84180876b4ba086376":[6,0,1284,0,11],
 "db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a4cfd6047351fd144ba96627889a3e9cd":[6,0,1284,0,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX291 =
 "db/def/classMovableMapObject.html#a4caa8c9e50452bff413dec06bf80b84c":[6,0,1518,2],
 "db/def/classMovableMapObject.html#a529db8859c0c9713bcc2f62459bbcc9f":[6,0,1518,6],
 "db/def/classMovableMapObject.html#a6782d8e3dc7de58ef83a83cf0a355e43":[6,0,1518,7],
-"db/def/classMovableMapObject.html#a6d7d87cff5f00f3b370584675caf7870":[6,0,1518,1]
+"db/def/classMovableMapObject.html#a6d7d87cff5f00f3b370584675caf7870":[6,0,1518,1],
+"db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1518,4]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX296 =
 {
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9eca9b8087de6873a64bfef98ab5cb9":[7,0,0,0,1,3,5,4,1,2,33,39],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad00ddd943bf0e9d2338afb8144805b93":[7,0,0,0,1,3,5,4,1,2,33,54],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad0e2076b92b09eb9eab90439592d6ef1":[7,0,0,0,1,3,5,4,1,2,33,37],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9d58c4083728a4652b06dda805b76c9":[7,0,0,0,1,3,5,4,1,2,33,22],
@@ -249,5 +248,6 @@ var NAVTREEINDEX296 =
 "dc/d1a/CalendarMgr_8h.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a":[7,0,0,0,1,2,10,1,9,2],
 "dc/d1a/CalendarMgr_8h.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e":[7,0,0,0,1,2,10,1,9,1],
 "dc/d1a/CalendarMgr_8h.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab":[7,0,0,0,1,2,10,1,9,3],
-"dc/d1a/CalendarMgr_8h.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce":[7,0,0,0,1,2,10,1,9,0]
+"dc/d1a/CalendarMgr_8h.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce":[7,0,0,0,1,2,10,1,9,0],
+"dc/d1a/CalendarMgr_8h.html#a6fe31a855a3ec48abb6eccd7296351ee":[7,0,0,0,1,2,10,1,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[6,0,1455,4],
 "d9/dae/structM2Camera.html#a9426497de885b901d364c0b3ddd487d9":[6,0,1455,2],
 "d9/dae/structM2Camera.html#abf0892be5ecf6d1e1021e101832396f3":[6,0,1455,3],
 "d9/dae/structM2Camera.html#ad3428dcc0b93e509c9225fa86ea2d691":[6,0,1455,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX240 =
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1]
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0]
 };

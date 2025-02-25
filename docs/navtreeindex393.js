@@ -1,6 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/dd9/classUnit.html#ac7b72d17bab9bfe2c183be146c348c02":[6,0,4140,538],
 "df/dd9/classUnit.html#ac7b8b4896478ec239a547d99ef4d4c9d":[6,0,4140,585],
 "df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8":[6,0,4140,339],
 "df/dd9/classUnit.html#ac81358a580d9b69922fe76fae6f1365d":[6,0,4140,717],
@@ -249,5 +248,6 @@ var NAVTREEINDEX393 =
 "df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[5,0,30,12,5],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html":[6,0,617,0],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html#a06a05b4c3c6493c4f6297f44e10a8ae1":[6,0,617,0,19],
-"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#a0a947b0a1115f32a262e5dd9b7e4744c":[6,0,617,0,27]
+"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#a0a947b0a1115f32a262e5dd9b7e4744c":[6,0,617,0,27],
+"df/dd9/structboss__mimiron_1_1boss__mimironAI.html#a0cc9b15d27b4044922407f86b8204974":[6,0,617,0,2]
 };

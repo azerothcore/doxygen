@@ -1,6 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d9/d9f/classspell__q11198__take__down__tethyr.html#aa2d9d885e55c1685c2ce9cbc5b4d4279":[6,0,3578,0],
 "d9/d9f/structDumpTable.html":[6,0,986],
 "d9/d9f/structDumpTable.html#ac16bf9d80201e270ffb1571fb2e9fb02":[6,0,986,0],
 "d9/d9f/structDumpTable.html#aeacac864bd23dcb7b24efc484810f592":[6,0,986,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX239 =
 "d9/dae/MovementGenerator_8cpp.html":[7,0,0,0,1,2,31,8],
 "d9/dae/structM2Camera.html":[6,0,1455],
 "d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1455,7],
-"d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1455,6]
+"d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1455,6],
+"d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[6,0,1455,4]
 };

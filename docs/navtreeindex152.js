@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ac18d753a8273ee2e7491ed505496187c":[7,0,0,0,1,2,8,1,21,7,1],
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad5f2e0d93cca63d1851913e2f2106084":[7,0,0,0,1,2,8,1,21,7,4],
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad67a39572196019af2aa979a9c5929e2":[7,0,0,0,1,2,8,1,21,7,8],
 "d5/db2/BattlegroundWS_8h.html#a9bad07d2619ccf292c169deab76e5e86ad8e1321f07d95c44c6485983e9bad69d":[7,0,0,0,1,2,8,1,21,7,10],
@@ -167,8 +168,8 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[6,0,4208,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[6,0,4208,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4208,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,30,5,38],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,30,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aa44614d25e1c22b45bd4c11f09f69b6ae":[7,0,0,0,1,2,8,6,7,2],
 "d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aa483c8031ec08a7c47b67b55b8dd949da":[7,0,0,0,1,2,8,6,7,1],
 "d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aa80c970a7a9b0d59fc7dd0435bbd13c97":[7,0,0,0,1,2,8,6,7,5],
-"d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9":[7,0,0,0,1,2,8,6,7,0],
-"d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c":[7,0,0,0,1,2,8,6,7,3]
+"d5/dba/ArenaTeam_8h.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9":[7,0,0,0,1,2,8,6,7,0]
 };

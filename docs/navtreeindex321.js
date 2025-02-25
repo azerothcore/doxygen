@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d52/classGuildMgr.html#a174158d11bf6102462a094ff4a8fa402":[6,0,1248,14],
 "dd/d52/classGuildMgr.html#a51728f1c2780cdb105cb35947739cbd7":[6,0,1248,11],
 "dd/d52/classGuildMgr.html#a5198534a243b70104ce17a7871fcfb27":[6,0,1248,6],
 "dd/d52/classGuildMgr.html#a5b63dae4f2252c452c797b83477d2280":[6,0,1248,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dd/d61/classspell__igb__cannon__blast.html#a49489a8e4e39735efa560f53236dfc2c":[6,0,3114,2],
 "dd/d61/classspell__igb__cannon__blast.html#a5eebe6f82a6d7306d6e232b755531939":[6,0,3114,3],
 "dd/d61/classspell__igb__cannon__blast.html#a66acc23548f88c31e9fe45db76af2bcc":[6,0,3114,0],
-"dd/d61/classspell__igb__cannon__blast.html#a67b59c096848adaad5566cbc2140da59":[6,0,3114,4]
+"dd/d61/classspell__igb__cannon__blast.html#a67b59c096848adaad5566cbc2140da59":[6,0,3114,4],
+"dd/d61/classspell__igb__cannon__blast.html#a820032e169929fd9969ecf1ee2c7f1be":[6,0,3114,1]
 };

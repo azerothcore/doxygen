@@ -1,6 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a":[6,0,1643,0,1],
 "de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#aab1b04989d5e3fc289f00bc121df193d":[6,0,1643,0,3],
 "de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#ad4f997a7a4cc0fa96594da35434fd921":[6,0,1643,0,0],
 "de/d82/structboss__brutallus.html":[6,0,403],
@@ -249,5 +248,6 @@ var NAVTREEINDEX360 =
 "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b":[7,0,0,0,1,3,6,14,4,4],
 "de/d90/OutdoorPvPZM_8h.html#ace5e051bf69a2b4be978b04c832c5592":[7,0,0,0,1,3,6,14,22],
 "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636":[7,0,0,0,1,3,6,14,7],
-"de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065":[7,0,0,0,1,3,6,14,7,2]
+"de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065":[7,0,0,0,1,3,6,14,7,2],
+"de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0":[7,0,0,0,1,3,6,14,7,0]
 };

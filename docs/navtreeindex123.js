@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b":[6,0,586,14],
 "d4/d44/structboss__lady__vashj.html#a0418ead0213eeea16a531baca96db704":[6,0,586,5],
 "d4/d44/structboss__lady__vashj.html#a0ccfbf23e8f47b77496d35cdeae5e3ac":[6,0,586,11],
 "d4/d44/structboss__lady__vashj.html#a114729e5a3caa70c89d8c8b53eba5af3":[6,0,586,8],
@@ -15,16 +16,16 @@ var NAVTREEINDEX123 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[6,0,586,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[6,0,586,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,586,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,11,5,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,30,5,8],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,11,5,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,11,5,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,30,5,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,11,5,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,30,5,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,5,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,30,5,8,0],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,30,5,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,5,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,11,5,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,30,5,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1344],
 "d4/d46/classinstance__uldaman.html#a672bb8b5a16d29d25a191ab90d8007b4":[6,0,1344,2],
 "d4/d46/classinstance__uldaman.html#a854807db729d15aa4a09aad051fe3bda":[6,0,1344,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a9ef9f186f763eb87aceebd469e624f64":[7,0,0,0,1,3,2,15,2,5,1],
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08aba0093f918c447c2f45a81f92def2d48":[7,0,0,0,1,3,2,15,2,5,5],
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abaea72f32d91c4c2b198760d28abc317":[7,0,0,0,1,3,2,15,2,5,4],
-"d4/d57/boss__hexlord_8cpp.html#a292390cf431fe7e742e797ff157e0b1d":[7,0,0,0,1,3,2,15,2,11],
-"d4/d57/boss__hexlord_8cpp.html#a2cab39858986fd0fc663c84b508ad899":[7,0,0,0,1,3,2,15,2,10]
+"d4/d57/boss__hexlord_8cpp.html#a292390cf431fe7e742e797ff157e0b1d":[7,0,0,0,1,3,2,15,2,11]
 };

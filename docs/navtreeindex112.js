@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dab8aead80a7e6f8ded85ac453edd5d48d":[7,0,0,0,1,2,8,1,3,26,67],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dabc942baab2c9add34b72fbfc8b53f8c5":[7,0,0,0,1,2,8,1,3,26,47],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dacaad713e7049477137453109fb3bfaad":[7,0,0,0,1,2,8,1,3,26,48],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dace105506a34ebcb5e1b3fdf2c71ac944":[7,0,0,0,1,2,8,1,3,26,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "d3/ddf/classAllBattlegroundScript.html#acf48de938b3535c1d64d5e69b7e4c3cc":[6,0,144,12],
 "d3/ddf/classAllBattlegroundScript.html#adea000f8e6470a2d69843c2894102086":[6,0,144,8],
 "d3/ddf/classAllBattlegroundScript.html#ae315ebbf606d85f59b6c0e6558283088":[6,0,144,5],
-"d3/ddf/classAllBattlegroundScript.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03":[6,0,144,0],
-"d3/ddf/onyxias__lair_8h.html":[7,0,0,0,1,3,4,4,2]
+"d3/ddf/classAllBattlegroundScript.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03":[6,0,144,0]
 };

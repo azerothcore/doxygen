@@ -1,6 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d8/d61/classspell__galdarah__impaling__charge.html#aaa3505a74905b91f52e37b0ded0ba7fd":[6,0,2858,3],
 "d8/d61/classspell__galdarah__impaling__charge.html#ac71784d7d135df4828ddcf5c85c4301c":[6,0,2858,0],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html":[6,0,670,0],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a170de8517a03a0e78b1e67652869fd9a":[6,0,670,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX213 =
 "d8/d72/classBattlegroundQueue.html#a504448a85ed444c66a96169306c8a7a1":[6,0,330,17],
 "d8/d72/classBattlegroundQueue.html#a570f402208b08ba797440d8ad2df22bd":[6,0,330,32],
 "d8/d72/classBattlegroundQueue.html#a58c38c8c7512fb348451e0ac8c6f1900":[6,0,330,25],
-"d8/d72/classBattlegroundQueue.html#a5982554745cc6150ac7dcb910c865d3c":[6,0,330,28]
+"d8/d72/classBattlegroundQueue.html#a5982554745cc6150ac7dcb910c865d3c":[6,0,330,28],
+"d8/d72/classBattlegroundQueue.html#a6121371548913f7d71a22884fc17a259":[6,0,330,11]
 };

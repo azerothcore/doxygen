@@ -1,6 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf":[7,0,0,0,1,3,2,7,0,2,10],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645":[7,0,0,0,1,3,2,7,0,2,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[7,0,0,0,1,3,2,7,0,2,12],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[7,0,0,0,1,3,2,7,0,2,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX271 =
 "db/d31/structnpc__hive__zara__swarmer.html#a3b3510bd00853395b756e1d83d96a474":[6,0,1838,1],
 "db/d32/classWardenMac.html":[6,0,4182],
 "db/d32/classWardenMac.html#a024be47d39641cb0e7654b0e0999e444":[6,0,4182,3],
-"db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da":[6,0,4182,7]
+"db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da":[6,0,4182,7],
+"db/d32/classWardenMac.html#a4fceef34e83db1a357d9eadce35efdef":[6,0,4182,6]
 };

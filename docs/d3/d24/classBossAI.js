@@ -16,6 +16,7 @@ var classBossAI =
     [ "JustReachedHome", "d3/d24/classBossAI.html#a9a84666026e84e2e1f19aff503faa8e3", null ],
     [ "JustSummoned", "d3/d24/classBossAI.html#a55938a5ee8ad433cca9fad829cc0d915", null ],
     [ "Reset", "d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7", null ],
+    [ "ScheduleEnrageTimer", "d3/d24/classBossAI.html#accee8f999f68b7e739db5ba89228c679", null ],
     [ "ScheduleHealthCheckEvent", "d3/d24/classBossAI.html#a4c2fa936feff56b940b38d550bfb3ad8", null ],
     [ "ScheduleHealthCheckEvent", "d3/d24/classBossAI.html#aab20c7bf9fd41e651496c529bcc5ad94", null ],
     [ "ScheduleTasks", "d3/d24/classBossAI.html#ab25b7944e0c00d7dca2226fad00d9fa7", null ],

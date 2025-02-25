@@ -1,6 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a108cce45652b8a8986c6f7ec5026ffe5":[7,0,0,0,1,3,4,28,9,3],
 "de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a196d6e1ffdf8de102970f8a54e399e12":[7,0,0,0,1,3,4,28,9,4],
 "de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a25d9b01e13803e0edc1678a64d7b2b0a":[7,0,0,0,1,3,4,28,9,0],
 "de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a25fc2c55641b1187b7c365330336f3eb":[7,0,0,0,1,3,4,28,9,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX349 =
 "de/d1c/classGameObject.html#aa26835999115da7347d704576df1f75d":[6,0,1072,132],
 "de/d1c/classGameObject.html#aa3b143dbae51d267ce35146d685aa019":[6,0,1072,148],
 "de/d1c/classGameObject.html#aa42104cda151bf8c6c33cc98fa716f36":[6,0,1072,22],
-"de/d1c/classGameObject.html#aa6182bf3056fce747774ad1b1608f773":[6,0,1072,88]
+"de/d1c/classGameObject.html#aa6182bf3056fce747774ad1b1608f773":[6,0,1072,88],
+"de/d1c/classGameObject.html#aa91e5e5fbca165fb60ba1cc540fd1fae":[6,0,1072,65]
 };

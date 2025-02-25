@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/dd6/DBCfmt_8h.html#a403a136c126513ae56a58523a246d28e":[7,0,0,0,1,4,0,3,73],
 "d8/dd6/DBCfmt_8h.html#a4710b3cfcda1dc630ed1d619cbc12868":[7,0,0,0,1,4,0,3,1],
 "d8/dd6/DBCfmt_8h.html#a4b382b6e95ced2aa17a608a4809c144a":[7,0,0,0,1,4,0,3,94],
 "d8/dd6/DBCfmt_8h.html#a4f6cc73661edba8fc844af7b0d592ab1":[7,0,0,0,1,4,0,3,95],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "d8/ddd/structSpellPeriodicAuraLogInfo.html":[6,0,4030],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[6,0,4030,5],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[6,0,4030,0],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[6,0,4030,3]
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[6,0,4030,3],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[6,0,4030,6]
 };

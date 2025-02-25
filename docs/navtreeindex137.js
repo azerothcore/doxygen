@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca30cddfb6172c433efcbbd20dd820d020":[7,0,0,0,1,3,7,1,5,17,7],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca36f79c95d1bfba6c9cbb3888399c836d":[7,0,0,0,1,3,7,1,5,17,16],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b921b8b20bfa9b95c2800c19198858d":[7,0,0,0,1,3,7,1,5,17,8],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca64cbb72383f1e02158f312fbca730a20":[7,0,0,0,1,3,7,1,5,17,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1042,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,30,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,30,15,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0]
 };

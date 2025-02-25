@@ -1,6 +1,5 @@
 var NAVTREEINDEX320 =
 {
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#ae827bdfdef36419e33b37aecde1a2cc4":[6,0,2257,0,0],
 "dd/d3f/AchievementCriteriaScript_8cpp.html":[7,0,0,0,1,2,38,0,2],
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX320 =
 "dd/d52/WardenModuleMac_8h.html#aba4af9417ad91ebf078cf0ff83ecf503":[7,0,0,0,1,2,46,0,0,1],
 "dd/d52/classGuildMgr.html":[6,0,1248],
 "dd/d52/classGuildMgr.html#a04f4586ea6461c6f7165efba2bf666a1":[6,0,1248,5],
-"dd/d52/classGuildMgr.html#a0d4a44461eb4c54ddb6646dfd1c11a68":[6,0,1248,1]
+"dd/d52/classGuildMgr.html#a0d4a44461eb4c54ddb6646dfd1c11a68":[6,0,1248,1],
+"dd/d52/classGuildMgr.html#a174158d11bf6102462a094ff4a8fa402":[6,0,1248,14]
 };

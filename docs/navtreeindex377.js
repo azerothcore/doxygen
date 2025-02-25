@@ -1,6 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"df/d31/classspell__hun__generic__scaling.html#a51828f07b0e099c5931161f7aeebaab7":[6,0,3072,2],
 "df/d31/classspell__hun__generic__scaling.html#a55605257006d8218250932357f325bb8":[6,0,3072,7],
 "df/d31/classspell__hun__generic__scaling.html#a638a2544d9216bec90c433100c0663a0":[6,0,3072,6],
 "df/d31/classspell__hun__generic__scaling.html#ab5feede17fa79c9d02fa459586eaca41":[6,0,3072,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX377 =
 "df/d3e/classlfg_1_1LfgGroupData.html#aac29414393890237f16203443190c72b":[5,0,18,2,23],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab081bd042f880ff9e1b5f7fcbc80db74":[6,0,5,2,0],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab081bd042f880ff9e1b5f7fcbc80db74":[5,0,18,2,0],
-"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,18,2,6]
+"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,18,2,6],
+"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[6,0,5,2,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX122 =
 {
+"d4/d3a/classSpellCastTargets.html#a0a258c62f7721fd75cb8b5d0bb5d6a0a":[6,0,4002,15],
 "d4/d3a/classSpellCastTargets.html#a0f124dba95793b891cf6d5e46db01a62":[6,0,4002,6],
 "d4/d3a/classSpellCastTargets.html#a0f1cc10cd8e4c38aca9c6bd43cd9605a":[6,0,4002,46],
 "d4/d3a/classSpellCastTargets.html#a12d59dbb97786a1a6b799bda41ca9e2e":[6,0,4002,41],
@@ -209,10 +210,10 @@ var NAVTREEINDEX122 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2871,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[6,0,2871,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2871,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,30,9,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,11,9,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,30,9,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,30,9,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,11,9,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,30,9,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2169,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[6,0,2169,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[6,0,2169,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d43/classnpc__brann__bronzebeard__algalon.html#ad8bc8bde865adcce1e9f6fd6234f1a0a":[6,0,1653,2],
 "d4/d43/modelheaders_8h.html":[7,0,0,0,3,4,8],
 "d4/d44/classWeather.html":[4,2,9],
-"d4/d44/structboss__lady__vashj.html":[6,0,586],
-"d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b":[6,0,586,14]
+"d4/d44/structboss__lady__vashj.html":[6,0,586]
 };

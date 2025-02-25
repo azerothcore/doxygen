@@ -1,6 +1,5 @@
 var NAVTREEINDEX303 =
 {
-"dc/d5e/structSpellStackInfo.html#a2232afb6a6b05e5ea33f40992a09621d":[6,0,4040,1],
 "dc/d5e/structSpellStackInfo.html#a71a218d1ea3241f0c72205f7e2f34125":[6,0,4040,0],
 "dc/d5e/structnpc__chained__spirit.html":[6,0,1677],
 "dc/d5e/structnpc__chained__spirit.html#a193fddae1d3eb84bc36842adbb1fe86a":[6,0,1677,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX303 =
 "dc/d76/structAuctionSortInfo.html#ac6afc258e0eca83f8e2fd8996e83231b":[6,0,276,2],
 "dc/d77/ChatHandler_8cpp.html":[7,0,0,0,1,2,22,10],
 "dc/d77/ChatHandler_8cpp.html#ae6092f307f09a5dcbbc5ed10c145032f":[7,0,0,0,1,2,22,10,1],
-"dc/d77/cs__ticket_8cpp.html":[7,0,0,0,1,3,0,44]
+"dc/d77/cs__ticket_8cpp.html":[7,0,0,0,1,3,0,44],
+"dc/d77/cs__ticket_8cpp.html#ad71463f4442d2e022a92404a4d9dec76":[7,0,0,0,1,3,0,44,1]
 };

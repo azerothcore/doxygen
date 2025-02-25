@@ -1,6 +1,5 @@
 var NAVTREEINDEX236 =
 {
-"d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a44e310a789c4c5a288f07c9254ad389a":[6,0,4019,0,2],
 "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c":[6,0,4019,0,3],
 "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a8491033c0286895c2d4d3280cfd529f0":[6,0,4019,0,0],
 "d9/d75/GlobalScript_8h.html":[7,0,0,0,1,2,38,0,52],
@@ -249,5 +248,6 @@ var NAVTREEINDEX236 =
 "d9/d84/LootMgr_8h.html#ac7f789f6da959300694693d249113e9f":[7,0,0,0,1,2,24,3,39],
 "d9/d84/LootMgr_8h.html#ac9e46e174fc099adcec7130517afc524":[7,0,0,0,1,2,24,3,14],
 "d9/d84/LootMgr_8h.html#ace36a12afd7b338b0b935b6a824c1bbe":[7,0,0,0,1,2,24,3,53],
-"d9/d84/LootMgr_8h.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9":[7,0,0,0,1,2,24,3,21]
+"d9/d84/LootMgr_8h.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9":[7,0,0,0,1,2,24,3,21],
+"d9/d84/LootMgr_8h.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a1c2d168702c954ae1e0cb3e8c8f472c1":[7,0,0,0,1,2,24,3,21,2]
 };

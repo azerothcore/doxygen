@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a9990339040b491e108594df755f03a6c":[5,0,1,7,0,17],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[5,0,1,7,0,18],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0ca4a111a856da9091a377934f8de93":[5,0,1,7,0,16],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa8156f2996632fd42a2e39b974426995":[5,0,1,7,0,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "df/d5e/boss__buru_8cpp.html#a5bd342133be8c2137b831460acc9298caef0ec8b4ac0f7cb10c11a0b66ba1bb39":[7,0,0,0,1,3,4,8,1,6,5],
 "df/d5e/boss__buru_8cpp.html#a5bd342133be8c2137b831460acc9298caef133cddbfa17b30af91d5fce490685d":[7,0,0,0,1,3,4,8,1,6,8],
 "df/d5e/boss__buru_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,4,8,1,5],
-"df/d5e/boss__buru_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ab4ee0eb82a93d45e1a90bfd4dfddaeee":[7,0,0,0,1,3,4,8,1,5,0]
+"df/d5e/boss__buru_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ab4ee0eb82a93d45e1a90bfd4dfddaeee":[7,0,0,0,1,3,4,8,1,5,0],
+"df/d5e/boss__buru_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219abc9319d9059d77e60ed0ec5de955611d":[7,0,0,0,1,3,4,8,1,5,1]
 };

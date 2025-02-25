@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[6,0,4030,6],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[6,0,4030,7],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[6,0,4030,4],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[6,0,4030,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "d8/de0/BattlegroundSA_8h.html#af84cb0582fa6a8afb2000ab86b942e08":[7,0,0,0,1,2,8,1,19,22],
 "d8/de0/classboss__thorim__lightning__orb.html":[6,0,736],
 "d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,736,1],
-"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,736,2]
+"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,736,2],
+"d8/de0/structnpc__lord__sanguinar.html":[6,0,1930]
 };

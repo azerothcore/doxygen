@@ -1,6 +1,5 @@
 var NAVTREEINDEX299 =
 {
-"dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0":[5,0,30,5,53,7],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0":[6,0,11,5,53,7],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a53e3f146f6a925bbe1fdae2105b79952":[6,0,11,5,53,3],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a53e3f146f6a925bbe1fdae2105b79952":[5,0,30,5,53,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX299 =
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[5,0,1,8,2,3,1],
-"dc/d32/BuiltInConfig_8h.html":[7,0,0,0,0,2,1]
+"dc/d32/BuiltInConfig_8h.html":[7,0,0,0,0,2,1],
+"dc/d32/BuiltInConfig_8h.html#a84544d0c16175b62a0894c34fee2b6d7":[7,0,0,0,0,2,1,3]
 };

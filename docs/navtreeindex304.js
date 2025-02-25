@@ -1,6 +1,5 @@
 var NAVTREEINDEX304 =
 {
-"dc/d77/cs__ticket_8cpp.html#ad71463f4442d2e022a92404a4d9dec76":[7,0,0,0,1,3,0,44,1],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html":[6,0,2177,0],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a751e37388df10abf4bf9df5d3f373fa3":[6,0,2177,0,0],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a7f60ea2596fa4af2209333696dbe00e0":[6,0,2177,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX304 =
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#aaa72a25326e9c4e1936020a1e6e7b87a":[6,0,407,0,5],
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#acc8b5cfbae8debb22a0493400ec310c4":[6,0,407,0,10],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html":[6,0,1123,0],
-"dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a37f83dbbb05e461d613a4c38001f785c":[6,0,1123,0,3]
+"dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a37f83dbbb05e461d613a4c38001f785c":[6,0,1123,0,3],
+"dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a9b2bfb74a12e3258476387fc78cde574":[6,0,1123,0,2]
 };

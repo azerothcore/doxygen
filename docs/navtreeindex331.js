@@ -1,6 +1,5 @@
 var NAVTREEINDEX331 =
 {
-"dd/dcb/classChaseMovementGenerator.html#a2e116b448b83e35c0c7dc63337516fa3":[6,0,863,7],
 "dd/dcb/classChaseMovementGenerator.html#a30cd5471f5737157cf09bc3eca69758f":[6,0,863,9],
 "dd/dcb/classChaseMovementGenerator.html#a529672fc598fa3c38cbf309c4e95c7bc":[6,0,863,2],
 "dd/dcb/classChaseMovementGenerator.html#a54601925140f09b330caaba240a43037":[6,0,863,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX331 =
 "dd/dd3/zone__netherstorm_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[7,0,0,0,1,3,7,12,18],
 "dd/dd4/classBattlegroundEY.html":[6,0,318],
 "dd/dd4/classBattlegroundEY.html#a0150b390b2e3107d0c5a4e73b9676174":[6,0,318,27],
-"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[6,0,318,10]
+"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[6,0,318,10],
+"dd/dd4/classBattlegroundEY.html#a2874eadcf5031b6841f68c0e167cde0d":[6,0,318,8]
 };

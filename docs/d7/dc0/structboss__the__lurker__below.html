@@ -176,6 +176,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aab20c7bf9fd41e651496c529bcc5ad94 inherit pub_methods_classBossAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4c2fa936feff56b940b38d550bfb3ad8 inherit pub_methods_classBossAI" id="r_a4c2fa936feff56b940b38d550bfb3ad8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/classBossAI.html#a4c2fa936feff56b940b38d550bfb3ad8">ScheduleHealthCheckEvent</a> (std::initializer_list&lt; <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; healthPct, std::function&lt; void()&gt; exec)</td></tr>
 <tr class="separator:a4c2fa936feff56b940b38d550bfb3ad8 inherit pub_methods_classBossAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accee8f999f68b7e739db5ba89228c679 inherit pub_methods_classBossAI" id="r_accee8f999f68b7e739db5ba89228c679"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/classBossAI.html#accee8f999f68b7e739db5ba89228c679">ScheduleEnrageTimer</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId, <a class="el" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> timer, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId=0)</td></tr>
+<tr class="separator:accee8f999f68b7e739db5ba89228c679 inherit pub_methods_classBossAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8bf8914221409d5403cf3522f70d28d6 inherit pub_methods_classBossAI" id="r_a8bf8914221409d5403cf3522f70d28d6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/classBossAI.html#a8bf8914221409d5403cf3522f70d28d6">ExecuteEvent</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
 <tr class="separator:a8bf8914221409d5403cf3522f70d28d6 inherit pub_methods_classBossAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab25b7944e0c00d7dca2226fad00d9fa7 inherit pub_methods_classBossAI" id="r_ab25b7944e0c00d7dca2226fad00d9fa7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/classBossAI.html#ab25b7944e0c00d7dca2226fad00d9fa7">ScheduleTasks</a> ()</td></tr>
@@ -816,13 +818,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   91</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(2000);</div>
 <div class="line"><span class="lineno">   92</span>    }</div>
 <div class="ttc" id="aclassBossAI_html_a05890dbd00c482b204af44f69d3efdc0"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a05890dbd00c482b204af44f69d3efdc0">BossAI::instance</a></div><div class="ttdeci">InstanceScript *const instance</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:474</div></div>
-<div class="ttc" id="aclassBossAI_html_adf2e07878232fcb60ace6a79438c63f5"><div class="ttname"><a href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:498</div></div>
+<div class="ttc" id="aclassBossAI_html_adf2e07878232fcb60ace6a79438c63f5"><div class="ttname"><a href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:504</div></div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2183</div></div>
 <div class="ttc" id="aclassGameObject_html"><div class="ttname"><a href="../../de/d1c/classGameObject.html">GameObject</a></div><div class="ttdef"><b>Definition</b> GameObject.h:120</div></div>
 <div class="ttc" id="aclassInstanceScript_html_ad5b9b0f0203d87894c7df0364babfe87"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#ad5b9b0f0203d87894c7df0364babfe87">InstanceScript::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(uint32 type)</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:120</div></div>
 <div class="ttc" id="aserpent__shrine_8h_html_afb6eb4f28419b652027fad41104a6d22a6b65e905f33be4295b23495261918c6a"><div class="ttname"><a href="../../d2/dcb/serpent__shrine_8h.html#afb6eb4f28419b652027fad41104a6d22a6b65e905f33be4295b23495261918c6a">DATA_STRANGE_POOL</a></div><div class="ttdeci">@ DATA_STRANGE_POOL</div><div class="ttdef"><b>Definition</b> serpent_shrine.h:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">DATA_STRANGE_POOL</a>, <a class="el" href="../../#l02183">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00498">BossAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00120">InstanceScript::GetGameObject()</a>, <a class="el" href="../../#l00474">BossAI::instance</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">DATA_STRANGE_POOL</a>, <a class="el" href="../../#l02183">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00504">BossAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00120">InstanceScript::GetGameObject()</a>, <a class="el" href="../../#l00474">BossAI::instance</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -858,10 +860,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  131</span> </div>
 <div class="line"><span class="lineno">  132</span>        <a class="code hl_function" href="../../d7/dc0/structboss__the__lurker__below.html#a42dd2ed36209e7be61788d054e2754b5">SchedulerPhaseOne</a>(38800ms, 91000ms);</div>
 <div class="line"><span class="lineno">  133</span>    }</div>
-<div class="ttc" id="aclassBossAI_html_a04dd3e06f19801bb419613f7d7482fa6"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:497</div></div>
+<div class="ttc" id="aclassBossAI_html_a04dd3e06f19801bb419613f7d7482fa6"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:503</div></div>
 <div class="ttc" id="astructboss__the__lurker__below_html_a42dd2ed36209e7be61788d054e2754b5"><div class="ttname"><a href="../../d7/dc0/structboss__the__lurker__below.html#a42dd2ed36209e7be61788d054e2754b5">boss_the_lurker_below::SchedulerPhaseOne</a></div><div class="ttdeci">void SchedulerPhaseOne(std::chrono::milliseconds spoutTimer, std::chrono::milliseconds p2Timer)</div><div class="ttdef"><b>Definition</b> boss_lurker_below.cpp:143</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00497">BossAI::JustEngagedWith()</a>, and <a class="el" href="../../#l00143">SchedulerPhaseOne()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00503">BossAI::JustEngagedWith()</a>, and <a class="el" href="../../#l00143">SchedulerPhaseOne()</a>.</p>
 
 </div>
 </div>
@@ -896,10 +898,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   79</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
 <div class="line"><span class="lineno">   80</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:548</div></div>
-<div class="ttc" id="aclassBossAI_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:496</div></div>
+<div class="ttc" id="aclassBossAI_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:502</div></div>
 <div class="ttc" id="aclassUnit_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition</b> Unit.h:719</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00548">REACT_PASSIVE</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00095">Creature::SetReactState()</a>, <a class="el" href="../../#l16789">Unit::SetStandState()</a>, <a class="el" href="../../#l00719">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>, and <a class="el" href="../../#l00041">UNIT_STAND_STATE_SUBMERGED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00548">REACT_PASSIVE</a>, <a class="el" href="../../#l00502">BossAI::Reset()</a>, <a class="el" href="../../#l00095">Creature::SetReactState()</a>, <a class="el" href="../../#l16789">Unit::SetStandState()</a>, <a class="el" href="../../#l00719">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>, and <a class="el" href="../../#l00041">UNIT_STAND_STATE_SUBMERGED</a>.</p>
 
 </div>
 </div>
@@ -1099,11 +1101,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  139</span>            <a class="code hl_function" href="../../d7/dc0/structboss__the__lurker__below.html#aa910c20d3ee26d6d2e71818008eb3b5c">SchedulerPhaseTwo</a>(1s);</div>
 <div class="line"><span class="lineno">  140</span>        }</div>
 <div class="line"><span class="lineno">  141</span>    }</div>
-<div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:511</div></div>
+<div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:517</div></div>
 <div class="ttc" id="aclassSummonList_html_a78727fdd4dd2f4824e3cd7b610922508"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a78727fdd4dd2f4824e3cd7b610922508">SummonList::IsAnyCreatureAlive</a></div><div class="ttdeci">bool IsAnyCreatureAlive() const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:144</div></div>
 <div class="ttc" id="aclassUnit_html_a4af419c3eef4085ecaad8fd08e536800"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4af419c3eef4085ecaad8fd08e536800">Unit::HasUnitFlag</a></div><div class="ttdeci">bool HasUnitFlag(UnitFlags flags) const</div><div class="ttdef"><b>Definition</b> Unit.h:718</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00718">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00144">SummonList::IsAnyCreatureAlive()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00185">SchedulerPhaseTwo()</a>, <a class="el" href="../../#l00511">BossAI::summons</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00718">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00144">SummonList::IsAnyCreatureAlive()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00185">SchedulerPhaseTwo()</a>, <a class="el" href="../../#l00517">BossAI::summons</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
@@ -1203,7 +1205,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dc0/structboss__the__lurker__below.html">boss_the_lurker_below</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 06:21:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 25 2025 06:27:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var NAVTREEINDEX235 =
 {
-"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea660f6d34f391c8eb910f369e10b312a3":[7,0,0,0,1,3,5,6,13,8,61],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea66f89a0f9eab4b42f99780ad36b69f33":[7,0,0,0,1,3,5,6,13,8,11],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea67b2450f4e0301f4cafadfceac583c67":[7,0,0,0,1,3,5,6,13,8,55],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6d61eafb887a9cd490b7e18b16ada799":[7,0,0,0,1,3,5,6,13,8,44],
@@ -249,5 +248,6 @@ var NAVTREEINDEX235 =
 "d9/d74/structCleanDamage.html#ad9b56ae5faabe67a8fdec8cd5a7988b1":[6,0,877,2],
 "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html":[6,0,4019,0],
 "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a20c29be1005aa52993d4ec0a13c36f4d":[6,0,4019,0,1],
-"d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a35c8d221b47de13408a0256598fa9d63":[6,0,4019,0,4]
+"d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a35c8d221b47de13408a0256598fa9d63":[6,0,4019,0,4],
+"d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html#a44e310a789c4c5a288f07c9254ad389a":[6,0,4019,0,2]
 };

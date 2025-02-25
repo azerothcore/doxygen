@@ -1,6 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[6,0,3861,1],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html":[6,0,1417],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[6,0,1417,0],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#aeaa47302a91b5882afae3950ffc460cc":[6,0,1417,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX367 =
 "de/dcf/classFormationMgr.html#aef758bdbc8f93c8981aedd51d7e10a07":[6,0,1057,2],
 "de/dcf/classFormationMgr.html#af0ecde62fc5c4a3a2b3be16c58f51fde":[6,0,1057,4],
 "de/dcf/classTransportBase.html":[6,0,4118],
-"de/dcf/classTransportBase.html#a328fbc464c56eca89138380182a0108c":[6,0,4118,5]
+"de/dcf/classTransportBase.html#a328fbc464c56eca89138380182a0108c":[6,0,4118,5],
+"de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70":[6,0,4118,0]
 };

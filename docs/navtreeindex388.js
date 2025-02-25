@@ -1,6 +1,5 @@
 var NAVTREEINDEX388 =
 {
-"df/db8/structboss__alar.html#aad92b4171c7e76781a72bac1ca7b257b":[6,0,365,25],
 "df/db8/structboss__alar.html#ab3e2e227822dd11e2530cd900c065b18":[6,0,365,26],
 "df/db8/structboss__alar.html#ab4b872bc9d4625fdaf7633a9c1f2bfa6":[6,0,365,9],
 "df/db8/structboss__alar.html#ab98174e8a60a6a5cf530da7337580236":[6,0,365,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX388 =
 "df/dc8/structnpc__onyxian__lair__guard.html":[6,0,1986],
 "df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[6,0,1986,1],
 "df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[6,0,1986,3],
-"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[6,0,1986,2]
+"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[6,0,1986,2],
+"df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[6,0,1986,0]
 };

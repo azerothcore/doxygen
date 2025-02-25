@@ -1,6 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d79/classGuild.html#a446fbce6fbb44fb4e45980132e06bf88":[6,0,1245,42],
 "de/d79/classGuild.html#a4583ba5df806a9bb7d47d139d8648221":[6,0,1245,116],
 "de/d79/classGuild.html#a460f284740f1bf12b1662eb0809d333f":[6,0,1245,122],
 "de/d79/classGuild.html#a4788f5b94a3767ddc69824e41343b983":[6,0,1245,82],
@@ -249,5 +248,6 @@ var NAVTREEINDEX359 =
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#ae468305fbe930baf0a1547f2e6de9953":[6,0,2140,0,4],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#aeb2bca4d3233d8790b1ccfdd559f2e41":[6,0,2140,0,0],
 "de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html":[6,0,1643,0],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a0010c4befd13ec6beada0de1607f3f7a":[6,0,1643,0,2]
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a0010c4befd13ec6beada0de1607f3f7a":[6,0,1643,0,2],
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a":[6,0,1643,0,1]
 };

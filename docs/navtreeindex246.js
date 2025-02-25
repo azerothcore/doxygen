@@ -1,6 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8":[6,0,3844,5],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a73931c9434114749b9db648665153083":[6,0,3844,2],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a95be527c43ceeb4801f4e494753c1b59":[6,0,3844,4],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#aa2a5488ff4706a44350bd969d57a99e1":[6,0,3844,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX246 =
 "da/d29/classspell__dru__living__seed.html#ac5988a79ab42ec1bbcc9b69bb649fc29":[6,0,2793,1],
 "da/d29/classspell__dru__living__seed.html#acc8797afece569e68c6d754ca09e206d":[6,0,2793,3],
 "da/d29/classspell__dru__living__seed.html#affd88326ea293f82055700ec7183d194":[6,0,2793,2],
-"da/d2a/ReactorAI_8cpp.html":[7,0,0,0,1,2,3,0,10]
+"da/d2a/ReactorAI_8cpp.html":[7,0,0,0,1,2,3,0,10],
+"da/d2a/classPathMovementBase.html":[6,0,2365]
 };

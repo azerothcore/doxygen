@@ -1,6 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"db/d90/classBGQueueRemoveEvent.html#ab751b728f64b2928eefb21f756539d81":[6,0,352,0],
 "db/d90/classBGQueueRemoveEvent.html#ac059a823ae49bd0250eec15845bf153b":[6,0,352,5],
 "db/d90/classGuardian.html":[6,0,1244],
 "db/d90/classGuardian.html#a1d5ebfa5ac5754293172041dc3a2c47d":[6,0,1244,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX281 =
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a25cac8e587b8eef74d2415fb80d0f7ba":[6,0,7,7,21],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a270c082f897ea70901f8df8862c8cddc":[6,0,7,7,41],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a270c082f897ea70901f8df8862c8cddc":[5,0,21,7,41],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a3b7bad117218e9fcdc32094cb746390f":[6,0,7,7,39]
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a3b7bad117218e9fcdc32094cb746390f":[6,0,7,7,39],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a3b7bad117218e9fcdc32094cb746390f":[5,0,21,7,39]
 };

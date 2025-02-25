@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a93d7e60cfcfaf823d896f6d2af4b4160":[7,0,0,0,1,3,7,5,2,2,23,54],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a98813f7f10d5a96ca6fb7db8dd37fc7c":[7,0,0,0,1,3,7,5,2,2,23,57],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a9b30f4b4d1e80f83c638d55c753b70f8":[7,0,0,0,1,3,7,5,2,2,23,46],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ab77d01359a0c40d40ee2306377812a08":[7,0,0,0,1,3,7,5,2,2,23,32],
@@ -62,10 +63,10 @@ var NAVTREEINDEX126 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[7,0,0,0,1,3,7,5,2,2,20,4],
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
+"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
+"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c":[7,0,0,0,1,3,5,6,14,3,1],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201":[7,0,0,0,1,3,5,6,14,3,2],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c":[7,0,0,0,1,3,5,6,14,3,3],
-"d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2":[7,0,0,0,1,3,5,6,14,3,4],
-"d4/d6f/icecrown__citadel__teleport_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[7,0,0,0,1,3,5,6,14,4]
+"d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2":[7,0,0,0,1,3,5,6,14,3,4]
 };

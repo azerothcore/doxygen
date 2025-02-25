@@ -1,6 +1,5 @@
 var NAVTREEINDEX324 =
 {
-"dd/d80/structCharmInfo.html#a50faf63c5963a2714e87da5d38a8a0ab":[6,0,859,18],
 "dd/d80/structCharmInfo.html#a56312bfccc83a4d7c27395a8781ee968":[6,0,859,33],
 "dd/d80/structCharmInfo.html#a565c393e227624a53d503d5a38c9234e":[6,0,859,22],
 "dd/d80/structCharmInfo.html#a5c04998f07bf628f0401b85f24073e26":[6,0,859,54],
@@ -249,5 +248,6 @@ var NAVTREEINDEX324 =
 "dd/d8d/DBCStores_8cpp.html#a5051ef9efb0ac2391beac3e522356fc8":[7,0,0,0,1,2,14,0,47],
 "dd/d8d/DBCStores_8cpp.html#a542dbbfcd9ff5c9f8052275985c5b3e4":[7,0,0,0,1,2,14,0,111],
 "dd/d8d/DBCStores_8cpp.html#a54a2fd7b69755d6c98273a1169cf42ac":[7,0,0,0,1,2,14,0,21],
-"dd/d8d/DBCStores_8cpp.html#a56b040f5c838bd1990b3e2d9e4b84c51":[7,0,0,0,1,2,14,0,41]
+"dd/d8d/DBCStores_8cpp.html#a56b040f5c838bd1990b3e2d9e4b84c51":[7,0,0,0,1,2,14,0,41],
+"dd/d8d/DBCStores_8cpp.html#a5a1a250429eec448b673fbe580f64fa6":[7,0,0,0,1,2,14,0,43]
 };

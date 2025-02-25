@@ -1,6 +1,5 @@
 var NAVTREEINDEX272 =
 {
-"db/d32/classWardenMac.html#a4fceef34e83db1a357d9eadce35efdef":[6,0,4182,6],
 "db/d32/classWardenMac.html#a576c0cf7a819e95c97cc0ac4e5962d6d":[6,0,4182,0],
 "db/d32/classWardenMac.html#a5f3832580c73a0af34fa83669a92ceab":[6,0,4182,1],
 "db/d32/classWardenMac.html#a7a31b72ea7362c70f0fc9ff6e316d80b":[6,0,4182,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX272 =
 "db/d47/classinstance__temple__of__ahnqiraj.html#a316c5e2cac59f2ee2520fba1b97407e3":[6,0,1335,1],
 "db/d47/classinstance__temple__of__ahnqiraj.html#a9e3060d9f2188f410da8aa3e9526e79d":[6,0,1335,2],
 "db/d48/classspell__shazzrah__gate__dummy.html":[6,0,3752],
-"db/d48/classspell__shazzrah__gate__dummy.html#a2319460465cefa69b1b81ce50b1d7b85":[6,0,3752,2]
+"db/d48/classspell__shazzrah__gate__dummy.html#a2319460465cefa69b1b81ce50b1d7b85":[6,0,3752,2],
+"db/d48/classspell__shazzrah__gate__dummy.html#a47dcb727b8e467044602b2a3d54ec1de":[6,0,3752,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"dc/d91/zone__stonetalon__mountains_8cpp.html":[7,0,0,0,1,3,4,27],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#a182f8c24fa1421c6a7c68e289491400e":[7,0,0,0,1,3,4,27,6],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#a34cc0e8072e5c86b2dd23a03fbc8f024":[7,0,0,0,1,3,4,27,7],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#a487e562e5e99ccd61aa7e93289874033":[7,0,0,0,1,3,4,27,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX306 =
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea0b36405a0edd700f5f7fa0d80f0d75fe":[7,0,0,0,1,2,16,7,16,8,2],
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea81eab5ed1dd452c57d07a29eac0043cc":[7,0,0,0,1,2,16,7,16,8,4],
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63":[7,0,0,0,1,2,16,7,16,8,0],
-"dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c":[7,0,0,0,1,2,16,7,16,8,1]
+"dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c":[7,0,0,0,1,2,16,7,16,8,1],
+"dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6eab3af33ac2cf3fe32495daff66469e7f1":[7,0,0,0,1,2,16,7,16,8,3]
 };

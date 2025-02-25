@@ -1,6 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[6,0,5,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,18,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[6,0,5,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[6,0,5,2,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX378 =
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a321da5d63921d41c561a1460929ac730":[5,0,1,7,0,12],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a32cfa3bc188d1b731f3e9e5dcc2de664":[5,0,1,7,0,19],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a":[5,0,1,7,0,9],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a7083d48423b83ff39095030678b29877":[5,0,1,7,0,14]
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a7083d48423b83ff39095030678b29877":[5,0,1,7,0,14],
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a9990339040b491e108594df755f03a6c":[5,0,1,7,0,17]
 };

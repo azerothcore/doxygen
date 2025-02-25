@@ -1,6 +1,5 @@
 var NAVTREEINDEX268 =
 {
-"da/df4/structPetition.html#a91c81356e9aa77641eaa881cd04af5af":[6,0,2375,2],
 "da/df4/structPetition.html#aeaf6c421d7545cf98d88b4e552dcff23":[6,0,2375,3],
 "da/df5/AllBattlegroundScript_8h.html":[7,0,0,0,1,2,38,0,7],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11f":[7,0,0,0,1,2,38,0,7,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX268 =
 "db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a1742a9f88886de4ba4336fff92df0969":[7,0,0,0,1,3,5,4,0,1,4,4],
 "db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a8f90790c6bb986c22688700bf880cf84":[7,0,0,0,1,3,5,4,0,1,4,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516abc79c7968016107148a4e87df3e5dc88":[7,0,0,0,1,3,5,4,0,1,4,3],
-"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516abd73e5d92dabc0698fb7e80a37148d92":[7,0,0,0,1,3,5,4,0,1,4,2]
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516abd73e5d92dabc0698fb7e80a37148d92":[7,0,0,0,1,3,5,4,0,1,4,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af9746f716f41fa3abee73388e245ba1e":[7,0,0,0,1,3,5,4,0,1,4,0]
 };

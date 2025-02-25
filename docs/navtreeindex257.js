@@ -1,6 +1,5 @@
 var NAVTREEINDEX257 =
 {
-"da/d8d/structDynTreeImpl.html#afa10e244de517c1808ba5401a726a94f":[6,0,1000,2],
 "da/d8d/structSkillExtraItemEntry.html":[6,0,2532],
 "da/d8d/structSkillExtraItemEntry.html#a0ba0ba6f012a10b717ca4e6c2f46cf26":[6,0,2532,4],
 "da/d8d/structSkillExtraItemEntry.html#a299d886468e9caf22f9d6ce80a64c247":[6,0,2532,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX257 =
 "da/d97/Define_8h.html":[7,0,0,0,0,21],
 "da/d97/Define_8h.html#a00a04eccc2ca042486601576eccae409":[7,0,0,0,0,21,4],
 "da/d97/Define_8h.html#a0bf4fe16e9c0242e08723860b589d648":[7,0,0,0,0,21,5],
-"da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd":[7,0,0,0,0,21,16]
+"da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd":[7,0,0,0,0,21,16],
+"da/d97/Define_8h.html#a0e8f3cfd1a18017c3996550aed13d45b":[7,0,0,0,0,21,10]
 };

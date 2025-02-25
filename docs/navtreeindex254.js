@@ -1,6 +1,5 @@
 var NAVTREEINDEX254 =
 {
-"da/d76/structnpc__ulduar__snow__mound.html#aca94a744c23b7f9771c728997ba4b8f3":[6,0,2226,5],
 "da/d76/structnpc__ulduar__snow__mound.html#ae5a09062d87aa1c0d446310df2ddd621":[6,0,2226,1],
 "da/d77/classachievement__neck__deep__in__vile.html":[6,0,74],
 "da/d77/classachievement__neck__deep__in__vile.html#a9861c008f302279a4ac5f4ddc14ca2d0":[6,0,74,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX254 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7b26fb7df9cb5761e5eebc086d6157ae":[7,0,0,0,1,3,5,6,10,78,49],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d8b41671b52159f904161ba74639894":[7,0,0,0,1,3,5,6,10,78,1],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7dcfd0e7c3d53ba3c5abed2115fd95b6":[7,0,0,0,1,3,5,6,10,78,22],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7df67fa2e186853d7cd92d20b1796cb9":[7,0,0,0,1,3,5,6,10,78,38]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7df67fa2e186853d7cd92d20b1796cb9":[7,0,0,0,1,3,5,6,10,78,38],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80e6f5799737bc22dbfdc2d7b5bed89e":[7,0,0,0,1,3,5,6,10,78,10]
 };

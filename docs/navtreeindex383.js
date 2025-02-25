@@ -1,6 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a3db5e816f6253f9c4251690bfbbe1912":[6,0,684,0,2],
 "df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a6a26f1f777988be6eaf8b1a675bbbabb":[6,0,684,0,1],
 "df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a7054cde1de2166c2b06489187115cb3f":[6,0,684,0,3],
 "df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a8b70b3b7287108ad13caeb85a83cf26f":[6,0,684,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX383 =
 "df/d94/classShockVortexExplodeEvent.html#ad972aed372822e10a476d1592192f3ea":[6,0,2526,0],
 "df/d94/classnpc__roxi__ramrocket.html":[6,0,2076],
 "df/d94/classnpc__roxi__ramrocket.html#a46a9898cb4b29808f9e911c03b5759cb":[6,0,2076,2],
-"df/d94/classnpc__roxi__ramrocket.html#adec28f778921246c56f11d09753e566e":[6,0,2076,1]
+"df/d94/classnpc__roxi__ramrocket.html#adec28f778921246c56f11d09753e566e":[6,0,2076,1],
+"df/d94/classnpc__roxi__ramrocket.html#af7f6bf6d5f8fc468abe62605f205571b":[6,0,2076,0]
 };

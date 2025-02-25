@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3c65e4cff3880ba89acf43dccd2ffcf2":[7,0,0,0,1,3,5,9,2,13,63,21],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3d09057ef14227afcb0bf7488ab3bb00":[7,0,0,0,1,3,5,9,2,13,63,1],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4b414a6d2bcfa0ffd16a7fab87854e0d":[7,0,0,0,1,3,5,9,2,13,63,30],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4dc1064db8ea79311150c1761e0f58b5":[7,0,0,0,1,3,5,9,2,13,63,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a5cf28e156cab2e2066bb94bc99233a2b":[6,0,1745,0,1],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a6f1255fead5357001ec85fdaa6980249":[6,0,1745,0,0],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7722420716c030b5abe7b760199df14d":[6,0,1745,0,12],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7d6fb37d1953630aa79f8665eca0db61":[6,0,1745,0,7],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a98a045606d9e689ef25a5068b81b1ebf":[6,0,1745,0,6]
+"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7d6fb37d1953630aa79f8665eca0db61":[6,0,1745,0,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX335 =
 {
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,5,10,1,3,4,23],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a878d5d93e9ae7b811a96ad1b3e2fd22b":[7,0,0,0,1,3,5,10,1,3,4,18],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a975d05f6a76f99c43c524028cec1a3ae":[7,0,0,0,1,3,5,10,1,3,4,27],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,10,1,3,4,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX335 =
 "de/d07/classnpc__depth__charge.html#a16de1a207304ea2ad7f47d5674deeec1":[6,0,1736,2],
 "de/d07/classnpc__depth__charge.html#ad16e3431b06fdd6797bfb51dda9005f5":[6,0,1736,1],
 "de/d09/classspell__apothecary__lingering__fumes.html":[6,0,2584],
-"de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[6,0,2584,3]
+"de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[6,0,2584,3],
+"de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2584,2]
 };

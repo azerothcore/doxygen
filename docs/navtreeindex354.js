@@ -1,6 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5211d82bf6c3bb5d6be665cced01018b":[6,0,2158,0,21],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[6,0,2158,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[6,0,2158,0,20],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[6,0,2158,0,15],
@@ -249,5 +248,6 @@ var NAVTREEINDEX354 =
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[6,0,1583,0,2],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1583,0,4],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[6,0,1583,0,1],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3311]
+"de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3311],
+"de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3311,1]
 };

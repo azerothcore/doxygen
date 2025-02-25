@@ -1,6 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a9b2bfb74a12e3258476387fc78cde574":[6,0,1123,0,2],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#aa03b8d270054f2b71c1d625abe322fb8":[6,0,1123,0,4],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#aca4d0e9babd6eefe84edc281f8a44cf2":[6,0,1123,0,0],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#af159df46fecf2cd74ac4ec9fa006dc03":[6,0,1123,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX305 =
 "dc/d90/classspell__rog__vanish__purge.html#a1a90cf531ba1131952161ff9d10b2cb7":[6,0,3689,4],
 "dc/d90/classspell__rog__vanish__purge.html#a6a0716f500b3926e66c62a038a1e03d3":[6,0,3689,1],
 "dc/d90/classspell__rog__vanish__purge.html#a9678ce2254825b67eb7a16312e960ba9":[6,0,3689,0],
-"dc/d90/classspell__rog__vanish__purge.html#ab9dc5e2516e269b968cb995040bc00a0":[6,0,3689,2]
+"dc/d90/classspell__rog__vanish__purge.html#ab9dc5e2516e269b968cb995040bc00a0":[6,0,3689,2],
+"dc/d91/zone__stonetalon__mountains_8cpp.html":[7,0,0,0,1,3,4,27]
 };

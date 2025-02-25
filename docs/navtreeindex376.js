@@ -1,6 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[6,0,2629,2],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[6,0,2629,0],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a85840e7d27a7ed256c45de87f4486d45":[6,0,2629,3],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#abd828dd3493339db9c0613e960792941":[6,0,2629,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX376 =
 "df/d31/classboss__yoggsaron__guardian__of__ys.html#a86380b3ad87e0070541d22d3fb74058f":[6,0,794,2],
 "df/d31/classspell__hun__generic__scaling.html":[6,0,3072],
 "df/d31/classspell__hun__generic__scaling.html#a136c8cedca7630543b8937e77571ead1":[6,0,3072,5],
-"df/d31/classspell__hun__generic__scaling.html#a255ed8f5158e715313e44b13f30b099f":[6,0,3072,3]
+"df/d31/classspell__hun__generic__scaling.html#a255ed8f5158e715313e44b13f30b099f":[6,0,3072,3],
+"df/d31/classspell__hun__generic__scaling.html#a51828f07b0e099c5931161f7aeebaab7":[6,0,3072,2]
 };

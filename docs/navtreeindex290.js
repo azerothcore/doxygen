@@ -1,6 +1,5 @@
 var NAVTREEINDEX290 =
 {
-"db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2738,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[6,0,2738,2],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX290 =
 "db/de3/cs__achievement_8cpp.html#afeb482a8cffe8416071764bc4e78bff2":[7,0,0,0,1,3,0,1,1],
 "db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html":[6,0,1284,0],
 "db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a11b698907ffea5dd1a165a35d2c23dd0":[6,0,1284,0,1],
-"db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a163178ce8e79aa0bc082172465527173":[6,0,1284,0,5]
+"db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a163178ce8e79aa0bc082172465527173":[6,0,1284,0,5],
+"db/de3/structinstance__blackfathom__deeps_1_1instance__blackfathom__deeps__InstanceMapScript.html#a1b045bbe6c337e726158e64375fa9fe7":[6,0,1284,0,6]
 };

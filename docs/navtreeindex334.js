@@ -1,6 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,13,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,25,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,25,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX334 =
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a463e13290458bfebc4c5c1ae96f03db3":[7,0,0,0,1,3,5,10,1,3,4,6],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,10,1,3,4,0],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5b5cd011529dffd9f1fe195b03ab8172":[7,0,0,0,1,3,5,10,1,3,4,13],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c68e56ebc91734d36f5446eea454f4a":[7,0,0,0,1,3,5,10,1,3,4,20]
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c68e56ebc91734d36f5446eea454f4a":[7,0,0,0,1,3,5,10,1,3,4,20],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,5,10,1,3,4,23]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449":[7,0,0,0,1,3,2,12,7,3,1],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a39be6ac90bcfca3b91b5e1e3b66bec17":[7,0,0,0,1,3,2,12,7,3,4],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff":[7,0,0,0,1,3,2,12,7,3,5],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a714c38738ede08215fb54db2648e3bf2":[7,0,0,0,1,3,2,12,7,3,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX318 =
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
 "dd/d3a/BattlegroundMgr_8h.html#a33858c5514cd62b25f056e4ba170de59":[7,0,0,0,1,2,8,12,5],
 "dd/d3a/BattlegroundMgr_8h.html#a356842317f4215b2ee31abb25b4d54e7":[7,0,0,0,1,2,8,12,7],
-"dd/d3a/BattlegroundMgr_8h.html#a91490e6276f571e959bcc65a1a7e4007":[7,0,0,0,1,2,8,12,8]
+"dd/d3a/BattlegroundMgr_8h.html#a91490e6276f571e959bcc65a1a7e4007":[7,0,0,0,1,2,8,12,8],
+"dd/d3a/BattlegroundMgr_8h.html#aa4d7efc49483e1820c6d759f0f3613f2":[7,0,0,0,1,2,8,12,4]
 };

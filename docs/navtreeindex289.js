@@ -1,6 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"db/dd5/classCreature.html#ab1103383b0a2ae2fdeea656692239236":[6,0,908,0],
 "db/dd5/classCreature.html#ab1a73e378f1a219e03392a5c5b327b6f":[6,0,908,29],
 "db/dd5/classCreature.html#ab1fe599b19bd33530f5bba414fb41cfd":[6,0,908,68],
 "db/dd5/classCreature.html#ab26405afc43fce337c2497290045a04f":[6,0,908,56],
@@ -249,5 +248,6 @@ var NAVTREEINDEX289 =
 "db/dd8/classspell__dk__ghoul__explode.html":[6,0,2738],
 "db/dd8/classspell__dk__ghoul__explode.html#a2c5149eb0b6698240c25b63e71af0854":[6,0,2738,0],
 "db/dd8/classspell__dk__ghoul__explode.html#a8a19b594de9ba23a59e22db7d05eb60d":[6,0,2738,1],
-"db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2738,3]
+"db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2738,3],
+"db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2738,4]
 };

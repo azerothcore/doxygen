@@ -1,6 +1,5 @@
 var NAVTREEINDEX244 =
 {
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a37774ef2a4caae9b9dd48fa3fdfb894e":[7,0,0,0,1,3,5,9,2,16,5,28],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a38c5d0e9b19362c051de04b616812255":[7,0,0,0,1,3,5,9,2,16,5,10],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3aa954906d0e212d99c45ccf13552ecd":[7,0,0,0,1,3,5,9,2,16,5,31],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3ade85de3cd9b6f69e9275d80818c425":[7,0,0,0,1,3,5,9,2,16,5,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX244 =
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#adc3d04d66f2b4de7a970f2cd5e476a2b":[6,0,1759,0,4],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#afa6825696b0622849f877b392df4b326":[6,0,1759,0,5],
 "da/d07/classByteBuffer.html":[6,0,823],
-"da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[6,0,823,20]
+"da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[6,0,823,20],
+"da/d07/classByteBuffer.html#a00ca375ab87d05aee2a7444265664623":[6,0,823,9]
 };

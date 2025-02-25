@@ -1,6 +1,5 @@
 var NAVTREEINDEX316 =
 {
-"dd/d22/structPlayerLevelInfo.html#af0d716577a3645fe1cef95968382ec80":[6,0,2398,0],
 "dd/d22/structboss__wrath__scryer__soccothrates.html":[6,0,779],
 "dd/d22/structboss__wrath__scryer__soccothrates.html#a09302e6f5e1422232a3024dd24a38fd6":[6,0,779,3],
 "dd/d22/structboss__wrath__scryer__soccothrates.html#a193889ee2815b93a1c9aeee394170fc4":[6,0,779,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX316 =
 "dd/d27/structSmartAction.html#a6833fd3a0af29135e623fbbb783fb8d6":[6,0,2541,227],
 "dd/d27/structSmartAction.html#a6bfe4b5faad441c6f2c4a64244e92286":[6,0,2541,230],
 "dd/d27/structSmartAction.html#a6c41603b8c4c683e2b62bcff9e35b308":[6,0,2541,3],
-"dd/d27/structSmartAction.html#a6d2dab10ed75670f7002d9fbebf8d4a9":[6,0,2541,85]
+"dd/d27/structSmartAction.html#a6d2dab10ed75670f7002d9fbebf8d4a9":[6,0,2541,85],
+"dd/d27/structSmartAction.html#a6e6f22675c02b3a458b6b644350ab54f":[6,0,2541,165]
 };

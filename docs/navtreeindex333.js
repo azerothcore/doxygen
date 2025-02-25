@@ -1,6 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1908,1],
 "dd/dda/classnpc__koltira__deathweaver.html#a745d0d384c465b26716429df48885d02":[6,0,1908,3],
 "dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[6,0,1908,2],
 "dd/dda/structboss__marli.html":[6,0,610],
@@ -249,5 +248,6 @@ var NAVTREEINDEX333 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,13],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,25],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,13,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,25,1]
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,25,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,13,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#abbc5c9d069e716d9356ec366713abb84":[6,0,3927,4],
 "d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#ac1574e943840e5f15a808ed4d338cd5f":[6,0,3927,3],
 "d5/d11/Player_8cpp.html":[7,0,0,0,1,2,16,7,4],
 "d5/d11/Player_8cpp.html#a3a8c2696b2e9a6bf9d90ce80438aa578":[7,0,0,0,1,2,16,7,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d5/d23/classScriptRegistry.html#a0f8009ac0cd91574f0bf4ac92ef90ce0":[6,0,2506,2],
 "d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05":[6,0,2506,9],
 "d5/d23/classScriptRegistry.html#a4274e01ddb2659f125970b97014da00e":[6,0,2506,13],
-"d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd":[6,0,2506,10],
-"d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622":[6,0,2506,8]
+"d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd":[6,0,2506,10]
 };

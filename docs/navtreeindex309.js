@@ -1,6 +1,5 @@
 var NAVTREEINDEX309 =
 {
-"dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[6,0,656,12],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[6,0,656,0],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[6,0,656,10],
 "dc/dc0/structBattlegroundAVScore.html":[6,0,314],
@@ -249,5 +248,6 @@ var NAVTREEINDEX309 =
 "dc/dd4/classflag96.html#a45349b70206ea9db7c3fdc5527b0aa72":[6,0,1043,11],
 "dc/dd4/classflag96.html#a489bcb41948c71aaee236389ffe54a42":[6,0,1043,0],
 "dc/dd4/classflag96.html#a6cbe6b24389cb3a9bbbf976bebdbca35":[6,0,1043,18],
-"dc/dd4/classflag96.html#a70a14c8509096c0e2fdb54643addbdbf":[6,0,1043,12]
+"dc/dd4/classflag96.html#a70a14c8509096c0e2fdb54643addbdbf":[6,0,1043,12],
+"dc/dd4/classflag96.html#a8a64335d82e361162fdade6288b7ae1f":[6,0,1043,8]
 };

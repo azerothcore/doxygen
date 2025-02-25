@@ -1,7 +1,7 @@
 var classspell__eredar__twins__handle__touch__periodic =
 [
     [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a777fc143a2f94ac94c02176d1583b699", null ],
+    [ "OnPeriodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a8d863af82300eacc1456a08f8461d5a7", null ],
     [ "PrepareAuraScript", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
     [ "Register", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
     [ "Validate", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aebeee23df951737b99e7a4ab026cbb1b", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6":[6,0,1653,0,1],
 "d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html#ab71b71ac63517349cb8702bb29d76334":[6,0,1653,0,5],
 "d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html#ae9da41b5b4cae16e1ed4709ab41b8964":[6,0,1653,0,4],
 "d4/dd0/classWorldObject.html":[6,0,4232],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c197cb269e9b054539de4c994de514e":[7,0,0,0,1,3,7,1,5,17,12],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca231e630effc53f4f3b052aa9b9b248a2":[7,0,0,0,1,3,7,1,5,17,15],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca2335e5557e964354f83ec86a6fe3eb52":[7,0,0,0,1,3,7,1,5,17,10],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca251f124346c0b3fea500cd7ce987302c":[7,0,0,0,1,3,7,1,5,17,17],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca30cddfb6172c433efcbbd20dd820d020":[7,0,0,0,1,3,7,1,5,17,7]
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca251f124346c0b3fea500cd7ce987302c":[7,0,0,0,1,3,7,1,5,17,17]
 };

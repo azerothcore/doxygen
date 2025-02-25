@@ -1,6 +1,5 @@
 var NAVTREEINDEX260 =
 {
-"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a3cbe18164c993fd034242b3f19d27e31":[6,0,798,0,4],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4c8f098f245e90685f0f3660028500a8":[6,0,798,0,2],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4f99e511d6296b56df8ab8fbe53620e6":[6,0,798,0,1],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4fcf1be1bc20327ff8daf9c79baabde7":[6,0,798,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX260 =
 "da/db9/classSpellEffectInfo.html#ae55c90629f04e78543272dfc9bb58474":[6,0,4012,34],
 "da/db9/classSpellEffectInfo.html#aee74e36f2e739bdfb7db58a3206f25c1":[6,0,4012,31],
 "da/db9/classSpellEffectInfo.html#af2e8b50078e3b9ff38a0ce326ce2a2ac":[6,0,4012,39],
-"da/db9/classSpellEffectInfo.html#af821fd10fbf2f95289b4bd3f86b9ef9d":[6,0,4012,10]
+"da/db9/classSpellEffectInfo.html#af821fd10fbf2f95289b4bd3f86b9ef9d":[6,0,4012,10],
+"da/db9/classSpellEffectInfo.html#af8310ea0f1ed4123e2389dd3dc18c70a":[6,0,4012,42]
 };

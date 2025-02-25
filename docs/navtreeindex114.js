@@ -1,5 +1,6 @@
 var NAVTREEINDEX114 =
 {
+"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a921aaa72888fdb560632d03143237bfd":[7,0,0,0,1,3,3,4,18,22],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a9fe27abf82e2838b61b0064721540580":[7,0,0,0,1,3,3,4,18,24],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6aa1a531adaedede02b2cf226a28f78236":[7,0,0,0,1,3,3,4,18,23],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6aa7ed0bc8742db8f6eddfc4f7e1f8b65a":[7,0,0,0,1,3,3,4,18,1],
@@ -132,16 +133,16 @@ var NAVTREEINDEX114 =
 "d3/dee/classinstance__gruuls__lair.html":[6,0,1297],
 "d3/dee/classinstance__gruuls__lair.html#ab8b5b000f6099111244b4ea48f0ab029":[6,0,1297,2],
 "d3/dee/classinstance__gruuls__lair.html#ae091404d09e614fe893c20e8ed90d2c4":[6,0,1297,1],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[5,0,1,8,11,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[6,0,0,5,11,0],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[5,0,1,8,11,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[5,0,1,8,11,0,3],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[6,0,0,5,11,0,3],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[6,0,0,5,11,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[5,0,1,8,11,0,0],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[6,0,0,5,11,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[6,0,0,5,11,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[5,0,1,8,11,0,1],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[5,0,1,8,11,0,2],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[6,0,0,5,11,0,2],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[5,0,1,8,11,0,2],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html":[6,0,754,0],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a15e4df870d3c5263ab534cd1d2bb8a75":[6,0,754,0,5],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a1a86b7b15e0a435284afab6ac724968c":[6,0,754,0,14],
@@ -180,10 +181,10 @@ var NAVTREEINDEX114 =
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,1,110,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,1,110,3],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[6,0,0,98,3],
-"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,98,0],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,1,110,0],
-"d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[5,0,1,110,2],
+"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,98,0],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[6,0,0,98,2],
+"d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[5,0,1,110,2],
 "d3/df0/classinstance__serpent__shrine.html":[6,0,1326],
 "d3/df0/classinstance__serpent__shrine.html#aa81add2f4aeb8b2084bcc81c05b606c7":[6,0,1326,2],
 "d3/df0/classinstance__serpent__shrine.html#aac4fc7113307805138ba4ce4a9adff09":[6,0,1326,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX114 =
 "d3/df5/classspell__temple__of__atal__hakkar__awaken__the__soulflayer.html#ad245a7dcf129774b8ef3e3653b3e3026":[6,0,3799,0],
 "d3/df5/classspell__temple__of__atal__hakkar__awaken__the__soulflayer.html#ad9dfe5b2702540eb119ec86cfbd0ff30":[6,0,3799,1],
 "d3/df6/boss__lady__deathwhisper_8cpp.html":[7,0,0,0,1,3,5,6,5],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a145f0a50d8d1ca5e67375b3abb8fe8d4":[7,0,0,0,1,3,5,6,5,15],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,6,5,17]
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a145f0a50d8d1ca5e67375b3abb8fe8d4":[7,0,0,0,1,3,5,6,5,15]
 };

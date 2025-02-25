@@ -1,6 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0ec96f1c508d36b39e9c829ff7336fe2":[7,0,0,0,1,3,5,1,0,0,16,8],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca3c9327f7d61c69a02771e58f8254bd43":[7,0,0,0,1,3,5,1,0,0,16,2],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca70525d65c99bb1860cd206023b4d0051":[7,0,0,0,1,3,5,1,0,0,16,5],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c":[7,0,0,0,1,3,5,1,0,0,16,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX381 =
 "df/d81/structboss__dorothee.html#a8bd5b4753c2d8f8aced0c036912f10f1":[6,0,424,0],
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,424,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,424,12],
-"df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,424,6]
+"df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,424,6],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36]
 };

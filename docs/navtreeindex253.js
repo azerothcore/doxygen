@@ -1,6 +1,5 @@
 var NAVTREEINDEX253 =
 {
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055":[7,0,0,0,1,2,5,3,24,1],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094":[7,0,0,0,1,2,5,3,24,10],
 "da/d70/AuctionHouseSearcher_8h.html#add0df1394d287b79672ebf01c59138c1":[7,0,0,0,1,2,5,3,20],
 "da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[7,0,0,0,1,2,5,3,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX253 =
 "da/d76/structnpc__ulduar__snow__mound.html#a3f66ad92d616050bb67cb1a5e33ffa74":[6,0,2226,0],
 "da/d76/structnpc__ulduar__snow__mound.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687":[6,0,2226,2],
 "da/d76/structnpc__ulduar__snow__mound.html#aafe42af9ba1402cad91326eb1037e476":[6,0,2226,6],
-"da/d76/structnpc__ulduar__snow__mound.html#ac48f6985d857276e0e59c2a429f5b359":[6,0,2226,3]
+"da/d76/structnpc__ulduar__snow__mound.html#ac48f6985d857276e0e59c2a429f5b359":[6,0,2226,3],
+"da/d76/structnpc__ulduar__snow__mound.html#aca94a744c23b7f9771c728997ba4b8f3":[6,0,2226,5]
 };

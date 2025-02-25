@@ -1,6 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3311,1],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#ad3c0a2c270d1b8c31761674f89500b8a":[6,0,3311,2],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#aec1ff41f0051a6c6dfbd11ea7741b1af":[6,0,3311,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[6,0,2198,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX355 =
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,3,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1304],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[6,0,1304,1],
-"de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1304,2]
+"de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1304,2],
+"de/d58/classnpc__andorhal__tower.html":[6,0,1585]
 };

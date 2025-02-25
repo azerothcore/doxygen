@@ -1,6 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1930],
 "d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1930,0],
 "d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1930,1],
 "d8/de1/structCalendarInvite.html":[6,0,831],
@@ -249,5 +248,6 @@ var NAVTREEINDEX225 =
 "d8/df3/CreatureAIImpl_8h.html#a1ed41ad074263f6c0c63f38b7f51414b":[7,0,0,0,1,2,3,6,4],
 "d8/df3/CreatureAIImpl_8h.html#a41c947edd84b4f2bb45133dc7aa00cad":[7,0,0,0,1,2,3,6,1],
 "d8/df3/CreatureAIImpl_8h.html#a6650ccba23715eea545340cd3e712233":[7,0,0,0,1,2,3,6,5],
-"d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c":[7,0,0,0,1,2,3,6,7]
+"d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c":[7,0,0,0,1,2,3,6,7],
+"d8/df3/CreatureAIImpl_8h.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,3,6,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX221 =
 {
-"d8/db8/structgo__l70__etc__music_1_1go__l70__etc__musicAI.html#a1709414fc40d48ac7c13eb8251dfbb26":[6,0,1149,0,0],
 "d8/db8/structgo__l70__etc__music_1_1go__l70__etc__musicAI.html#a182a5a9bbe53ced25740de9a4a368469":[6,0,1149,0,1],
 "d8/db8/structgo__l70__etc__music_1_1go__l70__etc__musicAI.html#aa0cda672b4491b3cfc75214038aa2132":[6,0,1149,0,2],
 "d8/db8/structinstance__shattered__halls_1_1instance__shattered__halls__InstanceMapScript.html":[6,0,1330,0],
@@ -68,18 +67,18 @@ var NAVTREEINDEX221 =
 "d8/dbc/classspell__najentus__hurl__spine.html#ab105ff1efd0fe20585ac3dc6c60f81a2":[6,0,3425,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[6,0,0,26],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,1,38],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[6,0,0,26,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,1,38,4],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[6,0,0,26,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,1,38,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[6,0,0,26,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[6,0,0,26,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,1,38,3],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,1,38,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[6,0,0,26,1],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,1,38,5],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,1,38,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[6,0,0,26,5],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,1,38,0],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,1,38,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[6,0,0,26,0],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,1,38,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[6,0,0,26,6],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[5,0,1,38,6],
 "d8/dbd/structnpc__netherspite__infernal.html":[6,0,1974],
@@ -249,5 +248,6 @@ var NAVTREEINDEX221 =
 "d8/dc2/boss__halazzi_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,15,1,5,7],
 "d8/dc2/boss__halazzi_8cpp.html#aa4ef650ee67d16bcfead3e0df873cf4d":[7,0,0,0,1,3,2,15,1,6],
 "d8/dc2/boss__halazzi_8cpp.html#aa4ef650ee67d16bcfead3e0df873cf4da94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,2,15,1,6,0],
-"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,15,1,2]
+"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,15,1,2],
+"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99aa24fb50270283b82bb36d8edf229a98c8":[7,0,0,0,1,3,2,15,1,2,3]
 };

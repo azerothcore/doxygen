@@ -1,6 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d7/d05/classnpc__orb__carrier.html#ab5b7bbffc43b840c686dc889805ea401":[6,0,1987,2],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html":[6,0,582,0],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#a5b77186f7c0920142a64a03c508dcc3e":[6,0,582,0,1],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#a79095e25f1d9dac927f63cef67db60ec":[6,0,582,0,6],
@@ -42,14 +41,14 @@ var NAVTREEINDEX182 =
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,12,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,107],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,95],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,95,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,1,107,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,95,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,107,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,107,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX182 =
 "d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#af76019911ce9bb993ebb7c658d30188d":[6,0,2219,0,3],
 "d7/d14/wmo_8h.html":[7,0,0,0,3,4,17],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3da":[7,0,0,0,3,4,17,7],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20":[7,0,0,0,3,4,17,7,2]
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20":[7,0,0,0,3,4,17,7,2],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192":[7,0,0,0,3,4,17,7,3]
 };

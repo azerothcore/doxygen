@@ -1,6 +1,5 @@
 var NAVTREEINDEX298 =
 {
-"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a8fd6977e33f5fc581e068963142f3452":[7,0,0,0,1,3,5,9,2,9,42,10],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a91bbc93d990dcc68032b35e48f76f864":[7,0,0,0,1,3,5,9,2,9,42,2],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a937e5e392fcd4266b4675fb6fd53088b":[7,0,0,0,1,3,5,9,2,9,42,38],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,9,2,9,42,27],
@@ -249,5 +248,6 @@ var NAVTREEINDEX298 =
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a44fdd025f87e13db6d83afca6c49f5f8":[6,0,11,5,53,4],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a44fdd025f87e13db6d83afca6c49f5f8":[5,0,30,5,53,4],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a48cfbac2214bfc406d8bc80c175dac8f":[6,0,11,5,53,2],
-"dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a48cfbac2214bfc406d8bc80c175dac8f":[5,0,30,5,53,2]
+"dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a48cfbac2214bfc406d8bc80c175dac8f":[5,0,30,5,53,2],
+"dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0":[5,0,30,5,53,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/dba/classat__zulgurub__bridge__speech.html#a0ef9d44dc98ddee8fe5133862339808d":[6,0,250,0],
 "d7/dba/classat__zulgurub__bridge__speech.html#a67234a1f4c77888a8535d0ea52e16ba9":[6,0,250,1],
 "d7/dba/classspell__deathbringer__blood__link.html":[6,0,2699],
 "d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[6,0,2699,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX201 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6c42448cbf2396c9b0dcbb0a209b059f":[6,0,1345,0,71],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6d04a9a48291822ea2a2a7871e782524":[6,0,1345,0,46],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ef5f14c6d94a3d62ec6b58a0e4e2be8":[6,0,1345,0,32],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a70dda8f2f50e95b330c5fbdd960c8130":[6,0,1345,0,76]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a70dda8f2f50e95b330c5fbdd960c8130":[6,0,1345,0,76],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e":[6,0,1345,0,24]
 };

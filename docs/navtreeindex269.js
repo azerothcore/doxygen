@@ -1,6 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af9746f716f41fa3abee73388e245ba1e":[7,0,0,0,1,3,5,4,0,1,4,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#a5a82b832069605e2b9bb54e94752d170":[7,0,0,0,1,3,5,4,0,1,8],
 "db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220":[7,0,0,0,1,3,5,4,0,1,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220ac2d509bd2b8f351f25ae2be6b18c41f1":[7,0,0,0,1,3,5,4,0,1,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX269 =
 "db/d14/classnpc__ulduar__vx001.html#acdab817141b851deb09861230323ee58":[6,0,2229,2],
 "db/d14/classnpc__ulduar__vx001.html#ae8393c02c94a94b0847e0c7837bc5469":[6,0,2229,1],
 "db/d14/structIpLocationRecord.html":[6,0,1364],
-"db/d14/structIpLocationRecord.html#a10ffefef6ba7d81a23d5d29bc2ee599d":[6,0,1364,1]
+"db/d14/structIpLocationRecord.html#a10ffefef6ba7d81a23d5d29bc2ee599d":[6,0,1364,1],
+"db/d14/structIpLocationRecord.html#a1dba2f8a7697c7e6fd427089d556c19a":[6,0,1364,0]
 };

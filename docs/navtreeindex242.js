@@ -1,6 +1,5 @@
 var NAVTREEINDEX242 =
 {
-"d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[6,0,2309,0,0],
 "d9/dd9/ArenaTeamMgr_8h.html":[7,0,0,0,1,2,8,8],
 "d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[7,0,0,0,1,2,8,8,1],
 "d9/dd9/ArenaTeamMgr_8h.html#aa472ba6cfd587021965aece0e77797b7":[7,0,0,0,1,2,8,8,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX242 =
 "d9/df2/the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,4],
 "d9/df2/the__black__morass_8cpp.html#a40d83565d4b54b30e895e0b76768246b":[7,0,0,0,1,3,4,1,3,4,7],
 "d9/df2/the__black__morass_8cpp.html#a60bd1cccea53e743620a4b2f0e9b1f8b":[7,0,0,0,1,3,4,1,3,4,8],
-"d9/df2/the__black__morass_8cpp.html#a7d484fa8ee0c999014d29246b9ebffb3":[7,0,0,0,1,3,4,1,3,4,5]
+"d9/df2/the__black__morass_8cpp.html#a7d484fa8ee0c999014d29246b9ebffb3":[7,0,0,0,1,3,4,1,3,4,5],
+"d9/df2/the__black__morass_8cpp.html#a7d484fa8ee0c999014d29246b9ebffb3a087df17dd123dd098bd6effa3cac4adf":[7,0,0,0,1,3,4,1,3,4,5,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf085b850f91916289be26cc58e709f5":[7,0,0,0,1,3,2,16,5,8,15],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[7,0,0,0,1,3,2,16,5,8,2],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298caef4066b9da02b2ef91f6470521c78c68":[7,0,0,0,1,3,2,16,5,8,18],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298caf315f19cb8360fc7ddd7799ed823ab81":[7,0,0,0,1,3,2,16,5,8,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX366 =
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[7,0,0,0,1,2,22,21,0,3],
 "de/dbe/classspell__tsh__shadow__bolt.html":[6,0,3861],
 "de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[6,0,3861,0],
-"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[6,0,3861,2]
+"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[6,0,3861,2],
+"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[6,0,3861,1]
 };

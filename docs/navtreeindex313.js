@@ -1,6 +1,5 @@
 var NAVTREEINDEX313 =
 {
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea4ce1495cad3819497d4439b9bce70f15":[7,0,0,0,1,3,2,16,15,3,15],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea4e217da14b95b49418a2c8ad63bf03db":[7,0,0,0,1,3,2,16,15,3,22],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea84ef08cb2fea2a05b848399fd3d3e355":[7,0,0,0,1,3,2,16,15,3,14],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea8a44010fa75bbda43fd629e8bf15fd97":[7,0,0,0,1,3,2,16,15,3,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX313 =
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#af392a545b3dccb7a7c89780d2818a7a7":[6,0,1878,0,4],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a":[6,0,1878,0,6],
 "dd/d05/M2Stores_8h.html":[7,0,0,0,1,2,14,3],
-"dd/d05/M2Stores_8h.html#a8079cfd87f117ce26e31f3da14e63cf9":[7,0,0,0,1,2,14,3,1]
+"dd/d05/M2Stores_8h.html#a8079cfd87f117ce26e31f3da14e63cf9":[7,0,0,0,1,2,14,3,1],
+"dd/d05/M2Stores_8h.html#a9971ebb80eba223b5767bcfa8f713267":[7,0,0,0,1,2,14,3,2]
 };

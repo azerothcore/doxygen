@@ -1,6 +1,5 @@
 var NAVTREEINDEX332 =
 {
-"dd/dd4/classBattlegroundEY.html#a2874eadcf5031b6841f68c0e167cde0d":[6,0,318,8],
 "dd/dd4/classBattlegroundEY.html#a2d8ae1fcfade0c8708cfb38542f4b926":[6,0,318,42],
 "dd/dd4/classBattlegroundEY.html#a3aba31ef0af6e0a389729e4cf98df213":[6,0,318,13],
 "dd/dd4/classBattlegroundEY.html#a3e8a6ae28bb6956f24f4fba79079b899":[6,0,318,18],
@@ -249,5 +248,6 @@ var NAVTREEINDEX332 =
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#aa800617f887a21d8a61cac099c86faed":[6,0,2235,0,0],
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#ab0eb414e7c9385e4831c4fbc6ba1de49":[6,0,2235,0,1],
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#ae82e9f70dbfd6a4a75206d358de4504e":[6,0,2235,0,3],
-"dd/dda/classnpc__koltira__deathweaver.html":[6,0,1908]
+"dd/dda/classnpc__koltira__deathweaver.html":[6,0,1908],
+"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1908,1]
 };

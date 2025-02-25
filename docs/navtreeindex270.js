@@ -1,6 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"db/d14/structIpLocationRecord.html#a1dba2f8a7697c7e6fd427089d556c19a":[6,0,1364,0],
 "db/d14/structIpLocationRecord.html#a844dfff114f6ce64b79c459527965bfb":[6,0,1364,5],
 "db/d14/structIpLocationRecord.html#a97d36332086a339e07b73955f23acd57":[6,0,1364,4],
 "db/d14/structIpLocationRecord.html#a9b54a497801e9da396955893473eb7da":[6,0,1364,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX270 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787":[7,0,0,0,1,3,2,7,0,2,14],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049":[7,0,0,0,1,3,2,7,0,2,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525":[7,0,0,0,1,3,2,7,0,2,2],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb":[7,0,0,0,1,3,2,7,0,2,3]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb":[7,0,0,0,1,3,2,7,0,2,3],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf":[7,0,0,0,1,3,2,7,0,2,10]
 };

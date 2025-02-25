@@ -1,6 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,30,5,36,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX382 =
 "df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[6,0,392,2],
 "df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[6,0,392,1],
 "df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html":[6,0,684,0],
-"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a02e2e657ac74ab37a4568589511de664":[6,0,684,0,0]
+"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a02e2e657ac74ab37a4568589511de664":[6,0,684,0,0],
+"df/d8a/structboss__sartharion__shadron_1_1boss__sartharion__shadronAI.html#a3db5e816f6253f9c4251690bfbbe1912":[6,0,684,0,2]
 };

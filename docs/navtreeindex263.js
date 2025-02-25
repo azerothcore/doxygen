@@ -1,6 +1,5 @@
 var NAVTREEINDEX263 =
 {
-"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a4a66547eec1e3f748d5a2fe358bbb188":[7,0,0,0,1,2,16,7,5,137,20],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a4b225082cd7ac3e368957fc33fe6bb64":[7,0,0,0,1,2,16,7,5,137,4],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a54280d64be122db9921a84e13dcc0d0c":[7,0,0,0,1,2,16,7,5,137,6],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a5778598285eab24b521afbe19c8cfb48":[7,0,0,0,1,2,16,7,5,137,28],
@@ -249,5 +248,6 @@ var NAVTREEINDEX263 =
 "da/dca/structCharacterCustomizeInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,16,1],
 "da/dca/structCharacterCustomizeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,16,0],
 "da/dca/structCharacterCustomizeInfo.html#ade5b2dff213547ab4d707070f8979085":[4,1,16,6],
-"da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5]
+"da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5],
+"da/dca/structboss__ichoron_1_1boss__ichoronAI.html":[6,0,540,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d3/dbd/DBCStructure_8h.html#af55b7730b9b6bf94de4604ce96e812c0":[7,0,0,0,1,4,0,7,150],
 "d3/dbd/DBCStructure_8h.html#af5ab857719ce6437c52aee4b87c639f3":[7,0,0,0,1,4,0,7,127],
 "d3/dbe/structboss__fjola_1_1boss__fjolaAI.html":[6,0,465,0],
 "d3/dbe/structboss__fjola_1_1boss__fjolaAI.html#a59a3f2453f923d4f19c63e88402d1a76":[6,0,465,0,1],
@@ -176,17 +177,17 @@ var NAVTREEINDEX107 =
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[6,0,0,93,0],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a87980d05e12069a42baea27ee0e937d3":[6,0,0,93,2],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a87980d05e12069a42baea27ee0e937d3":[5,0,1,105,2],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#ad49658237a1e6bf54852d4fc127ea660":[5,0,1,105,3],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ad49658237a1e6bf54852d4fc127ea660":[6,0,0,93,3],
+"d3/dcd/structAcore_1_1PlayerListSearcher.html#ad49658237a1e6bf54852d4fc127ea660":[5,0,1,105,3],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ae61e586baa621b0dbd15d453d1320091":[6,0,0,93,4],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ae61e586baa621b0dbd15d453d1320091":[5,0,1,105,4],
 "d3/dce/Argon2_8h.html":[7,0,0,0,0,3,6],
-"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html":[5,0,1,90],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html":[6,0,0,78],
-"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a104b8bece6ea78ba049dc592e54311be":[5,0,1,90,4],
+"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html":[5,0,1,90],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a104b8bece6ea78ba049dc592e54311be":[6,0,0,78,4],
-"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a28d97af524c2bab39e1bd2e5508e434b":[6,0,0,78,1],
+"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a104b8bece6ea78ba049dc592e54311be":[5,0,1,90,4],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a28d97af524c2bab39e1bd2e5508e434b":[5,0,1,90,1],
+"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a28d97af524c2bab39e1bd2e5508e434b":[6,0,0,78,1],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a2a58a6bcff73142e21c082bf2c11eff2":[5,0,1,90,5],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a2a58a6bcff73142e21c082bf2c11eff2":[6,0,0,78,5],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a5d19a23e7da2e5e5ed417d0a9623ffbb":[6,0,0,78,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d3/dcf/Battleground_8h.html#a191ff549bae459a9cb89c0ab97383998":[7,0,0,0,1,2,8,10,32],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71ab":[7,0,0,0,1,2,8,10,16],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba15a3454d09d2be99f0b5eeca08370803":[7,0,0,0,1,2,8,10,16,1],
-"d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972":[7,0,0,0,1,2,8,10,16,11],
-"d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba30852d2a8f983ec64a50520ca26f5666":[7,0,0,0,1,2,8,10,16,14]
+"d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972":[7,0,0,0,1,2,8,10,16,11]
 };

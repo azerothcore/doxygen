@@ -1,6 +1,5 @@
 var NAVTREEINDEX258 =
 {
-"da/d97/Define_8h.html#a0e8f3cfd1a18017c3996550aed13d45b":[7,0,0,0,0,21,10],
 "da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767":[7,0,0,0,0,21,22],
 "da/d97/Define_8h.html#a1ea3ec26cc8112e6b4750ed2e3099e23":[7,0,0,0,0,21,6],
 "da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d":[7,0,0,0,0,21,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX258 =
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a":[7,0,0,0,1,3,2,22,5,10],
 "da/da0/zone__eastern__plaguelands_8cpp.html#aaef7747656518bf0ce052d780430ed88":[7,0,0,0,1,3,2,22,6],
 "da/da1/InstanceSaveMgr_8cpp.html":[7,0,0,0,1,2,23,0],
-"da/da1/classspell__mage__pet__scaling.html":[6,0,3366]
+"da/da1/classspell__mage__pet__scaling.html":[6,0,3366],
+"da/da1/classspell__mage__pet__scaling.html#a3860e12ea334cb61a437941b6f9b81e0":[6,0,3366,2]
 };

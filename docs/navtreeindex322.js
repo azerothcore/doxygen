@@ -1,6 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dd/d61/classspell__igb__cannon__blast.html#a820032e169929fd9969ecf1ee2c7f1be":[6,0,3114,1],
 "dd/d61/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01ItemTemplate_01const_01_5_01_4.html":[6,0,0,5,0,6],
 "dd/d61/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01ItemTemplate_01const_01_5_01_4.html":[5,0,1,8,0,6],
 "dd/d61/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01ItemTemplate_01const_01_5_01_4.html#a8a72f0b40aea9bf9d965bbbbe8a6cc82":[5,0,1,8,0,6,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX322 =
 "dd/d77/classSACActivateEvent.html#ae930bd1f603ea296c5ccabd6fbd299f8":[6,0,2493,2],
 "dd/d77/cs__debug_8cpp.html":[7,0,0,0,1,3,0,10],
 "dd/d77/cs__debug_8cpp.html#abae44bbc8eb2fb66a5596017ea83583f":[7,0,0,0,1,3,0,10,2],
-"dd/d77/structMovement_1_1Location.html":[5,0,21,5]
+"dd/d77/structMovement_1_1Location.html":[5,0,21,5],
+"dd/d77/structMovement_1_1Location.html":[6,0,7,5]
 };

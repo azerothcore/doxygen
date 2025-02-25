@@ -1,6 +1,5 @@
 var NAVTREEINDEX315 =
 {
-"dd/d13/classDBCFile.html#a2453497157878f50c1e709e834fa2ca6":[6,0,950,5],
 "dd/d13/classDBCFile.html#a24c3e91383aec085c92c7b632497c192":[6,0,950,16],
 "dd/d13/classDBCFile.html#a294ac17f748f5db90e9795b0d35a4dbf":[6,0,950,26],
 "dd/d13/classDBCFile.html#a3fa1721514df95a0fdaab68383c92877":[6,0,950,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX315 =
 "dd/d22/classspell__red__sky__effect.html#a64a861b5c25df5780390aa55899393d7":[6,0,3661,2],
 "dd/d22/classspell__red__sky__effect.html#aec32d6b45bdcfe3a6a32c2fb7558edd1":[6,0,3661,0],
 "dd/d22/structPlayerLevelInfo.html":[6,0,2398],
-"dd/d22/structPlayerLevelInfo.html#a796af7d07604474adebf5a6f3518ca30":[6,0,2398,1]
+"dd/d22/structPlayerLevelInfo.html#a796af7d07604474adebf5a6f3518ca30":[6,0,2398,1],
+"dd/d22/structPlayerLevelInfo.html#af0d716577a3645fe1cef95968382ec80":[6,0,2398,0]
 };

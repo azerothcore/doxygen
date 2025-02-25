@@ -1,6 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,1,5,1],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,2,1,5,3],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1aaf749e8e64cc093fd7431662518404d9":[7,0,0,0,1,3,5,8,2,1,5,5],
 "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,5,8,2,1,5,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX251 =
 "da/d5e/structlfg_1_1LfgQueueStatusData.html":[5,0,18,14],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html":[6,0,5,14],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[6,0,5,14,4],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[5,0,18,14,4]
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[5,0,18,14,4],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74":[6,0,5,14,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dd/d3a/BattlegroundMgr_8h.html#aa4d7efc49483e1820c6d759f0f3613f2":[7,0,0,0,1,2,8,12,4],
 "dd/d3a/BattlegroundMgr_8h.html#ab13257a97cde6f35eb3aed651e61e20c":[7,0,0,0,1,2,8,12,10],
 "dd/d3a/BattlegroundMgr_8h.html#abe50926a988d0fff4ee6ba0358c6b278":[7,0,0,0,1,2,8,12,3],
 "dd/d3a/classgo__the__focusing__iris.html":[6,0,1183],
@@ -249,5 +248,6 @@ var NAVTREEINDEX319 =
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd72c6ae18b84cee94a295e51fae9ac3":[6,0,2257,0,8],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd7a8c972db52077f8b02317f5398ff0":[6,0,2257,0,7],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#ad450120965f9e85bdb69ffc4c092c901":[6,0,2257,0,5],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#adec384ccbdc5f2b90a1d09c67b47d24f":[6,0,2257,0,9]
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#adec384ccbdc5f2b90a1d09c67b47d24f":[6,0,2257,0,9],
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#ae827bdfdef36419e33b37aecde1a2cc4":[6,0,2257,0,0]
 };

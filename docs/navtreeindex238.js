@@ -1,6 +1,5 @@
 var NAVTREEINDEX238 =
 {
-"d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b":[7,0,0,0,1,3,2,24,3,1],
 "d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f":[7,0,0,0,1,3,2,24,3,2],
 "d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea":[7,0,0,0,1,3,2,24,3,0],
 "d9/d90/zone__eversong__woods_8cpp.html#a78299b9cdd3e783b3f231a9dda40a7b4":[7,0,0,0,1,3,2,24,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX238 =
 "d9/d9f/classnpc__putricide__oozeAI.html#ab9d288f8eded19720a0aee3bd91920d2":[6,0,2046,5],
 "d9/d9f/classnpc__putricide__oozeAI.html#ae01b7ffe31548aa15d913cc28fa32422":[6,0,2046,10],
 "d9/d9f/classspell__q11198__take__down__tethyr.html":[6,0,3578],
-"d9/d9f/classspell__q11198__take__down__tethyr.html#a721430db1738b255f114483bdddef5e2":[6,0,3578,1]
+"d9/d9f/classspell__q11198__take__down__tethyr.html#a721430db1738b255f114483bdddef5e2":[6,0,3578,1],
+"d9/d9f/classspell__q11198__take__down__tethyr.html#aa2d9d885e55c1685c2ce9cbc5b4d4279":[6,0,3578,0]
 };

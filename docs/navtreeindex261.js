@@ -1,6 +1,5 @@
 var NAVTREEINDEX261 =
 {
-"da/db9/classSpellEffectInfo.html#af8310ea0f1ed4123e2389dd3dc18c70a":[6,0,4012,42],
 "da/db9/classSpellEffectInfo.html#af92944366476e306d28639eb4fe2c872":[6,0,4012,3],
 "da/db9/classSpellEffectInfo.html#afafadbfc758eb319327663bdfff2182f":[6,0,4012,25],
 "da/db9/classSpellEffectInfo.html#affd022c8a16950759ebf85a7c283a5fe":[6,0,4012,43],
@@ -249,5 +248,6 @@ var NAVTREEINDEX261 =
 "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a00f567b73392d8208b8a37e6a60dc7c7":[7,0,0,0,1,2,16,7,5,140,4],
 "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a2a3fc09a365e3428128b94ad213b83d7":[7,0,0,0,1,2,16,7,5,140,7],
 "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a2f2f757ace3b56e8dc98c3019b3fcd50":[7,0,0,0,1,2,16,7,5,140,8],
-"da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a32a397e91b94257334d22593045af535":[7,0,0,0,1,2,16,7,5,140,15]
+"da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a32a397e91b94257334d22593045af535":[7,0,0,0,1,2,16,7,5,140,15],
+"da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a3e2065c217f4a204fcfa025553a661d8":[7,0,0,0,1,2,16,7,5,140,6]
 };

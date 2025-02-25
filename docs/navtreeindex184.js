@@ -1,6 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d7/d22/classinstance__blackwing__lair.html":[6,0,1287],
 "d7/d22/classinstance__blackwing__lair.html#a70aff4e1bb406f232d0b4961037ed0a1":[6,0,1287,2],
 "d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1287,1],
 "d7/d23/structboss__magus__telestra.html":[6,0,602],
@@ -170,22 +169,22 @@ var NAVTREEINDEX184 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[7,0,0,0,1,3,2,1,0,1,4,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[7,0,0,0,1,3,2,1,0,1,4,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,4,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,30,5,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,11,5,47],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,30,5,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,30,5,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,11,5,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,30,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,30,5,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,11,5,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,11,5,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,30,5,47,1],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,11,5,47,0],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,11,5,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,30,5,47,0],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,11,5,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,30,5,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,11,5,47,6],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,11,5,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,30,5,47,2],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,11,5,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,30,5,47,5],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[6,0,11,5,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[6,0,3902],
@@ -249,5 +248,6 @@ var NAVTREEINDEX184 =
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca307c028c73ad97c95b07e5449a1cb170":[7,0,0,0,1,3,5,6,8,19,15],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca4debec0e0a5b1b0ebedfdeb032def43c":[7,0,0,0,1,3,5,6,8,19,10],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca50ad689b2f503dce3a43384f6a4b3267":[7,0,0,0,1,3,5,6,8,19,18],
-"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[7,0,0,0,1,3,5,6,8,19,0]
+"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[7,0,0,0,1,3,5,6,8,19,0],
+"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298caba1e6515747bf8031d80a79c33bf0969":[7,0,0,0,1,3,5,6,8,19,9]
 };

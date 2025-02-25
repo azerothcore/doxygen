@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a98a045606d9e689ef25a5068b81b1ebf":[6,0,1745,0,6],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a9d876ec76b51f743c71e67749c21d939":[6,0,1745,0,4],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abd5b37793aa2fb150c808b7dc7270763":[6,0,1745,0,2],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abe5162608ba0acd7360a630562ff5935":[6,0,1745,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d56/structboss__venoxis.html#a3e91a9022163a726cbc077d38459a5f5":[6,0,763,0],
 "d3/d56/structboss__venoxis.html#a40cbcd4d41ff85ff71d5d913d8e62368":[6,0,763,4],
 "d3/d56/structboss__venoxis.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8":[6,0,763,2],
-"d3/d56/structboss__venoxis.html#afaa68ffbd5fecae48a044009326bcaed":[6,0,763,3],
-"d3/d57/classAreaTriggerScript.html":[6,0,175]
+"d3/d56/structboss__venoxis.html#afaa68ffbd5fecae48a044009326bcaed":[6,0,763,3]
 };
