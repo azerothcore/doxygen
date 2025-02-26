@@ -14,7 +14,6 @@ var structboss__gothik_1_1boss__gothikAI =
     [ "UpdateAI", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
     [ "events", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49", null ],
     [ "gateOpened", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "pInstance", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad4c7722be225a16f12abbb2207dc4101", null ],
     [ "secondPhase", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437", null ],
     [ "summons", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
     [ "waveCount", "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]

@@ -11,6 +11,5 @@ var structboss__loatheb_1_1boss__loathebAI =
     [ "UpdateAI", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#ab009008f892493b822e5ea5491c58525", null ],
     [ "doomCounter", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#aed5c631ede2eea27451a74ae21221325", null ],
     [ "events", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "pInstance", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#ac91a2f174571d0700bd50f66a2a66718", null ],
     [ "summons", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a37ef117714403002afb4faa4978f136b", null ]
 ];

@@ -13,6 +13,5 @@ var structboss__four__horsemen_1_1boss__four__horsemenAI =
     [ "currentWaypoint", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#ab3c2643e1b3c58452661255979e67e63", null ],
     [ "events", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
     [ "horsemanId", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a09b826c28e9bf6c417a650dfe710a2dd", null ],
-    [ "pInstance", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#aba63b1e9909380aa93d583a191113c54", null ]
+    [ "movementPhase", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

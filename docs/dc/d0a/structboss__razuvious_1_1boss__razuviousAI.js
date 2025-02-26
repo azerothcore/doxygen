@@ -15,6 +15,5 @@ var structboss__razuvious_1_1boss__razuviousAI =
     [ "UpdateAI", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4ea0982f190aa21077b6237cac4e4368", null ],
     [ "_rpBuddyGUID", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
     [ "events", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
-    [ "pInstance", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4eb59918ae562218fcc4372d09b41c9f", null ],
     [ "summons", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

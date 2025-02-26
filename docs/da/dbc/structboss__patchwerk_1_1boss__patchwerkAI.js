@@ -6,6 +6,5 @@ var structboss__patchwerk_1_1boss__patchwerkAI =
     [ "KilledUnit", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
     [ "Reset", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a1d03058bf53e670f4fe9384e9f047891", null ],
     [ "UpdateAI", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a00c98ee5cdb3c512ba0d92a48d441006", null ],
-    [ "pInstance", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a78a3e9a6ef289e82c3ccaedc4399607a", null ]
+    [ "events", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

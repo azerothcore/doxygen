@@ -10,7 +10,6 @@ var structboss__thaddius_1_1boss__thaddiusAI =
     [ "UpdateAI", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a5eef08082268fa181d4d396fc952dbcd", null ],
     [ "ballLightningEnabled", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a487582d59f0d717c3ec53679ad36f99a", null ],
     [ "events", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a8bf6ea9e5d3d198bccb293d4b4eac784", null ],
-    [ "pInstance", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a969d782f2813cb4ed16abfac0f88576d", null ],
     [ "resetTimer", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#aba9f23389d5f6724883dc9f7e607a351", null ],
     [ "reviveTimer", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a11388e745e81c3ad8ba7d97812a17203", null ],
     [ "summons", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a7487f79c379ef29b72959708284cfd0d", null ],

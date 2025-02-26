@@ -1,6 +1,5 @@
 var NAVTREEINDEX43 =
 {
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8cbb32f6e2303da319a5207b7eed47fe":[7,0,0,0,1,2,3,2,5,18,86],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8dc7cfd929561e6edb51c57d7c1ca231":[7,0,0,0,1,2,3,2,5,18,55],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8e30ea5c027e4a14eba2120e51309d14":[7,0,0,0,1,2,3,2,5,18,111],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca8eca93835d3b2825a2029ceee7abec80":[7,0,0,0,1,2,3,2,5,18,33],
@@ -241,13 +240,14 @@ var NAVTREEINDEX43 =
 "d1/dc3/SmartScriptMgr_8h.html#acd26a1a0a2488cd1cfa946dab6ed4b8cafab51dde761ac461b9ca8db0ec48b6ad":[7,0,0,0,1,2,3,2,5,20,13],
 "d1/dc3/SmartScriptMgr_8h.html#ad4f4d9e70444f2b543bd9f53118150eb":[7,0,0,0,1,2,3,2,5,14],
 "d1/dc3/SmartScriptMgr_8h.html#add3ebeb0fb87dda9a06c8135846c6b81":[7,0,0,0,1,2,3,2,5,34],
-"d1/dc3/classspell__gluth__decimate.html":[6,0,3003],
-"d1/dc3/classspell__gluth__decimate.html#a21a3175346c9b12c02205f2d33da3b86":[6,0,3003,1],
-"d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[6,0,3003,3],
-"d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[6,0,3003,2],
-"d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,3003,0],
+"d1/dc3/classspell__gluth__decimate.html":[6,0,3006],
+"d1/dc3/classspell__gluth__decimate.html#a21a3175346c9b12c02205f2d33da3b86":[6,0,3006,1],
+"d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[6,0,3006,3],
+"d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[6,0,3006,2],
+"d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,3006,0],
 "d1/dc3/structAcore_1_1dependant__false.html":[6,0,0,46],
 "d1/dc3/structAcore_1_1dependant__false.html":[5,0,1,58],
+"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[6,0,0,46,0],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,58,0],
-"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[6,0,0,46,0]
+"d1/dc3/struct__Spell.html":[6,0,15]
 };

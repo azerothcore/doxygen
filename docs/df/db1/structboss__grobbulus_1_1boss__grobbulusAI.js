@@ -12,6 +12,5 @@ var structboss__grobbulus_1_1boss__grobbulusAI =
     [ "UpdateAI", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aafd79debbe76b02a1478c03daf235b05", null ],
     [ "dropSludgeTimer", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
     [ "events", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "pInstance", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a26a4a5bb98800fb968cf9b30ffa299dc", null ],
     [ "summons", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

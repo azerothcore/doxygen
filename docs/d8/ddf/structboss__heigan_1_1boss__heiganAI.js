@@ -11,6 +11,5 @@ var structboss__heigan_1_1boss__heiganAI =
     [ "currentPhase", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
     [ "currentSection", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
     [ "events", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
-    [ "moveRight", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8", null ],
-    [ "pInstance", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a4b64769f2e10e7ba598fcc115b021fd4", null ]
+    [ "moveRight", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
 ];
