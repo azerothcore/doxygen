@@ -1,5 +1,12 @@
 var NAVTREEINDEX89 =
 {
+"d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html#a4bb1cd2a247136daadfa36f85b50a65d":[6,0,1419,0],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html":[6,0,3557],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html#a4505b9196609ae9339fe7e5948963663":[6,0,3557,1],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html#a54c724bd8786c894ecaa584c164c2e53":[6,0,3557,0],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html#ae293d6a2a477f716f357516781246069":[6,0,3557,2],
+"d2/dee/classWintergraspCapturePoint.html":[6,0,4215],
+"d2/dee/classWintergraspCapturePoint.html#a1e780ccd3759538fe4c9d7e3fc5447ed":[6,0,4215,4],
 "d2/dee/classWintergraspCapturePoint.html#a32d378eba7f0eea0f011b8ea8c7e6eee":[6,0,4215,3],
 "d2/dee/classWintergraspCapturePoint.html#a36090feb3626e204e0029ea45f1d8136":[6,0,4215,0],
 "d2/dee/classWintergraspCapturePoint.html#a66564dd3237538b256ebeb76d236001f":[6,0,4215,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#a94ccee26fc9e3db300a19b1c455440ff":[7,0,0,0,1,2,14,1,65],
 "d2/df6/DBCStores_8h.html#a954802aea348c1906cf838396ff8aa07":[7,0,0,0,1,2,14,1,42],
 "d2/df6/DBCStores_8h.html#a964b37604f60d70884e831743b554c5e":[7,0,0,0,1,2,14,1,99],
-"d2/df6/DBCStores_8h.html#a985e497bdaf99981b762999b19d0724c":[7,0,0,0,1,2,14,1,6],
-"d2/df6/DBCStores_8h.html#a9907247fa9853f26a90afb7c86cfdc70":[7,0,0,0,1,2,14,1,107],
-"d2/df6/DBCStores_8h.html#a9a533e551da1f47aa5b9ad694e06710b":[7,0,0,0,1,2,14,1,116],
-"d2/df6/DBCStores_8h.html#a9f8b060b3086cc716f143e7fa4c3e26f":[7,0,0,0,1,2,14,1,74],
-"d2/df6/DBCStores_8h.html#aa11bfb722e2d0f0520f9d74cb39b7970":[7,0,0,0,1,2,14,1,138],
-"d2/df6/DBCStores_8h.html#aa1683e047886ff9023ee7e7d74ebd269":[7,0,0,0,1,2,14,1,47],
-"d2/df6/DBCStores_8h.html#aa53bca705fed162d9629e396b82f6bd1":[7,0,0,0,1,2,14,1,38],
-"d2/df6/DBCStores_8h.html#aa57995df6e9ddb569da6512bc452116f":[7,0,0,0,1,2,14,1,112]
+"d2/df6/DBCStores_8h.html#a985e497bdaf99981b762999b19d0724c":[7,0,0,0,1,2,14,1,6]
 };

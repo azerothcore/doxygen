@@ -1,5 +1,16 @@
 var NAVTREEINDEX263 =
 {
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa997298918391902d13f306ff08b35468":[7,0,0,0,1,2,16,7,5,100,0],
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aadbecbf56496afcc6f2cc0abe2a838be0":[7,0,0,0,1,2,16,7,5,100,3],
+"da/dbf/Player_8h.html#a9b615cd8e69bf1f12cbee0c8ce784feb":[7,0,0,0,1,2,16,7,5,52],
+"da/dbf/Player_8h.html#a9c5d66387ebbe380eb85dc073bb477e1":[7,0,0,0,1,2,16,7,5,65],
+"da/dbf/Player_8h.html#aa01c39bcd3c3a1679c8dc86a647d0c8c":[7,0,0,0,1,2,16,7,5,40],
+"da/dbf/Player_8h.html#aa44542ab1037b2da52095a5c8e923bb2":[7,0,0,0,1,2,16,7,5,39],
+"da/dbf/Player_8h.html#aa54329cb1b1a81d0eeed65b6b11f7465":[7,0,0,0,1,2,16,7,5,41],
+"da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcb":[7,0,0,0,1,2,16,7,5,86],
+"da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba06050e392f96594aa17d23cb85ec5a22":[7,0,0,0,1,2,16,7,5,86,3],
+"da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba0e52bd573c6218d6fd8b712f4453f8b9":[7,0,0,0,1,2,16,7,5,86,2],
+"da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba3c65bd9b9ddfef144eee2270448f9326":[7,0,0,0,1,2,16,7,5,86,0],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba3cd8cf3374b3079026df290c3fed8505":[7,0,0,0,1,2,16,7,5,86,5],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba3fbef80e12e7eeda4f10d2b42d595e78":[7,0,0,0,1,2,16,7,5,86,9],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba43b44b27cf424adb7fba3ce6a5e93d1c":[7,0,0,0,1,2,16,7,5,86,10],
@@ -238,16 +249,5 @@ var NAVTREEINDEX263 =
 "da/dc6/structnpc__partygoer.html#af053caedfd1fa8173b875f521d279418":[6,0,1997,0],
 "da/dc7/classspell__item__massive__seaforium__charge.html":[6,0,3225],
 "da/dc7/classspell__item__massive__seaforium__charge.html#a28f8f8e6823bad14900d08ba10cab7e6":[6,0,3225,0],
-"da/dc7/classspell__item__massive__seaforium__charge.html#a8b43e146724a2c8b3c495e886a79d021":[6,0,3225,1],
-"da/dc7/classspell__item__massive__seaforium__charge.html#af8b02c31b81dce516ea47d6a1235d683":[6,0,3225,2],
-"da/dc8/classServerScript.html":[6,0,2523],
-"da/dc8/classServerScript.html#a164286c210360b97b9efb48aed33b0d8":[6,0,2523,0],
-"da/dc8/classServerScript.html#a1f2e87caed202bbcde98e2cb0c8f19c6":[6,0,2523,4],
-"da/dc8/classServerScript.html#a27ecdfc9c6d737d02705adcd13be9d13":[6,0,2523,5],
-"da/dc8/classServerScript.html#a656f1c0dc191b8f91e0705748d286454":[6,0,2523,6],
-"da/dc8/classServerScript.html#a6682dfb556d137feb5fc95a66ccd6917":[6,0,2523,2],
-"da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff":[6,0,2523,1],
-"da/dc8/classServerScript.html#ab51ce520816236687820d1f72bae0ed6":[6,0,2523,3],
-"da/dc9/classspell__gen__whisper__gulch__yogg__saron__whisper.html":[6,0,3003],
-"da/dc9/classspell__gen__whisper__gulch__yogg__saron__whisper.html#a4707bfaeb86b3540920a6772e1726e26":[6,0,3003,2]
+"da/dc7/classspell__item__massive__seaforium__charge.html#a8b43e146724a2c8b3c495e886a79d021":[6,0,3225,1]
 };

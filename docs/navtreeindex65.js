@@ -1,5 +1,7 @@
 var NAVTREEINDEX65 =
 {
+"d2/d6f/classgo__seer__of__zebhalak.html#a423f16e878d67f7dc6ec3860afabacf4":[6,0,1169,0],
+"d2/d6f/classgo__seer__of__zebhalak.html#a84009789ce8e8d0d7c42996fde161135":[6,0,1169,1],
 "d2/d6f/classspell__dru__feral__swiftness.html":[6,0,2791],
 "d2/d6f/classspell__dru__feral__swiftness.html#a305c532aa0e8740e8c8a87a6ba0abcff":[6,0,2791,2],
 "d2/d6f/classspell__dru__feral__swiftness.html#abf458f1f1dd5abfbba88325cad044ab1":[6,0,2791,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a5e22c7edc5a2bc09f1ee8fcf519639a5":[6,0,2506,446],
 "d2/d73/classScriptMgr.html#a5e2eb1dab9dddb7a34ce1e8b73cb3800":[6,0,2506,196],
 "d2/d73/classScriptMgr.html#a5e3af0e6979df547e603ef30f2f72057":[6,0,2506,39],
-"d2/d73/classScriptMgr.html#a5e4a565ee78927b0954f24695e6a5314":[6,0,2506,169],
-"d2/d73/classScriptMgr.html#a5e7e924d7d22a102ccca8cf330e14283":[6,0,2506,123],
-"d2/d73/classScriptMgr.html#a5ebee0f7e27f92452fd4f3153467e98e":[6,0,2506,412]
+"d2/d73/classScriptMgr.html#a5e4a565ee78927b0954f24695e6a5314":[6,0,2506,169]
 };

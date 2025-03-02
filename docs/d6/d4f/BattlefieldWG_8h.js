@@ -219,7 +219,9 @@ var BattlefieldWG_8h =
       [ "BATTLEFIELD_WG_WORLD_STATE_ACTIVE", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1a9c0ad9d9df24317e518f6b9f1f3dbbff", null ],
       [ "BATTLEFIELD_WG_WORLD_STATE_DEFENDER", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1ad45ec952a1d97891ea269c38b258ce99", null ],
       [ "BATTLEFIELD_WG_WORLD_STATE_ATTACKER", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1afccef19f1873ba64b3fa7674b7b74389", null ],
-      [ "BATTLEFIELD_WG_WORLD_STATE_SHOW_WORLDSTATE", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1a42ae5d105013476cd0a104ca858e654a", null ]
+      [ "BATTLEFIELD_WG_WORLD_STATE_SHOW_WORLDSTATE", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1a42ae5d105013476cd0a104ca858e654a", null ],
+      [ "BATTLEFIELD_WG_WORLD_STATE_CONTROL", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1a27db36701f40954526aa21b324d32992", null ],
+      [ "BATTLEFIELD_WG_WORLD_STATE_ICON_ACTIVE", "d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1a901cf06b0cba6a8fcd37988ace90c119", null ]
     ] ],
     [ "WintergraspWorldstates", "d6/d4f/BattlefieldWG_8h.html#a7653408543d938494276cb3de768d7b6", [
       [ "WORLDSTATE_WORKSHOP_NE", "d6/d4f/BattlefieldWG_8h.html#a7653408543d938494276cb3de768d7b6aeb5d3bb15e3135703307707cc98c599f", null ],

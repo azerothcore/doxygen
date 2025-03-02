@@ -27,6 +27,7 @@ var classBattlegroundAB =
     [ "UpdatePlayerScore", "dc/d78/classBattlegroundAB.html#acb2e6aa203a1587d0ac3bc9b3723e115", null ],
     [ "_bgEvents", "dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8", null ],
     [ "_capturePointInfo", "dc/d78/classBattlegroundAB.html#a8e4540ac02ee30fbf5284ca19807ed0a", null ],
+    [ "_configurableMaxTeamScore", "dc/d78/classBattlegroundAB.html#a69b7366af72520d2aaaaa22df94f3728", null ],
     [ "_controlledPoints", "dc/d78/classBattlegroundAB.html#a7ce0db7a287d0406997f63b8f7b17fe0", null ],
     [ "_honorTics", "dc/d78/classBattlegroundAB.html#a1c61e9b9c8dde549d52d4cf1d1a81e1e", null ],
     [ "_reputationTics", "dc/d78/classBattlegroundAB.html#a49aea98411332492c2dbecd4ed9cce41", null ],

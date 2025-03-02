@@ -1,5 +1,12 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#a9907247fa9853f26a90afb7c86cfdc70":[7,0,0,0,1,2,14,1,107],
+"d2/df6/DBCStores_8h.html#a9a533e551da1f47aa5b9ad694e06710b":[7,0,0,0,1,2,14,1,116],
+"d2/df6/DBCStores_8h.html#a9f8b060b3086cc716f143e7fa4c3e26f":[7,0,0,0,1,2,14,1,74],
+"d2/df6/DBCStores_8h.html#aa11bfb722e2d0f0520f9d74cb39b7970":[7,0,0,0,1,2,14,1,138],
+"d2/df6/DBCStores_8h.html#aa1683e047886ff9023ee7e7d74ebd269":[7,0,0,0,1,2,14,1,47],
+"d2/df6/DBCStores_8h.html#aa53bca705fed162d9629e396b82f6bd1":[7,0,0,0,1,2,14,1,38],
+"d2/df6/DBCStores_8h.html#aa57995df6e9ddb569da6512bc452116f":[7,0,0,0,1,2,14,1,112],
 "d2/df6/DBCStores_8h.html#aa57f88af7117354b1e77be893e3471b5":[7,0,0,0,1,2,14,1,62],
 "d2/df6/DBCStores_8h.html#aa89da0f3bfcec6a8e8d8f702fd23ed39":[7,0,0,0,1,2,14,1,3],
 "d2/df6/DBCStores_8h.html#aa932907ab61c7d6f73178284e9ce2748":[7,0,0,0,1,2,14,1,50],
@@ -242,12 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#aae293343b590c23405a32d2809887020":[6,0,285,10],
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#abe9218ee7ebdffa48dd404a2ad465ca4":[6,0,285,13],
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1":[6,0,285,8],
-"d3/d03/structAUTH__LOGON__CHALLENGE__C.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc":[6,0,285,4],
-"d3/d03/structAUTH__LOGON__CHALLENGE__C.html#afc0d27e7213846988c0ee7ccc5e54ee0":[6,0,285,9],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html":[6,0,500,0],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#a0421082f444bc4234012362b92cac132":[6,0,500,0,11],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#a244f37a3c6a1037100de20a074c74a63":[6,0,500,0,2],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#a277293d51fbaa54f9deea49af7602ae2":[6,0,500,0,8],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#a278b8ce2e656a2e6e7882de87ec2ff9c":[6,0,500,0,7],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#a3cec01072fe761e4b5141255eed08d9e":[6,0,500,0,5]
+"d3/d03/structAUTH__LOGON__CHALLENGE__C.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc":[6,0,285,4]
 };

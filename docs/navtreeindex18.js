@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,8,2,3],
+"d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a08b5bb6f0eef304cda34e83a271c0cd6":[7,0,0,0,1,3,2,8,2,3,1],
 "d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6b942156061240615506e184a65fc179":[7,0,0,0,1,3,2,8,2,3,0],
 "d0/dbc/boss__kormok_8cpp.html#af7d03eb78c1077802718200368e8028e":[7,0,0,0,1,3,2,8,2,7],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[6,0,0,1,2],
@@ -8,10 +10,10 @@ var NAVTREEINDEX18 =
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[5,0,1,2,2,2],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[6,0,0,1,2,0],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[5,0,1,2,2,0],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[5,0,1,2,2,1],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[6,0,0,1,2,3],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[5,0,1,2,2,3],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[6,0,0,1,2,3],
 "d0/dbd/structCharacterFactionChangeInfo.html":[4,1,17],
 "d0/dbd/structCharacterFactionChangeInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,17,1],
 "d0/dbd/structCharacterFactionChangeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,17,0],
@@ -63,10 +65,10 @@ var NAVTREEINDEX18 =
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[6,0,11,7,11],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[6,0,11,7,11,0],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,7,11,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[6,0,11,7,11,2],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,7,11,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[5,0,30,7,11,2],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[6,0,11,7,11,2],
 "d0/dc2/classgo__hive__pod.html":[6,0,1144],
 "d0/dc2/classgo__hive__pod.html#a4cfb09789edf6699444a7d817e4ccc70":[6,0,1144,1],
 "d0/dc2/classgo__hive__pod.html#a7ec01a399e75ff2e64746166d1aa3539":[6,0,1144,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dcf/unionu__map__magic.html#a87b4e38a5c10dba382bd0761b70c2234":[6,0,4140,1],
 "d0/dd0/ArenaSpectator_8h.html":[7,0,0,0,1,2,4,1],
 "d0/dd0/ArenaSpectator_8h.html#a20983eb9cb8e3f584a4d8f752586d06b":[7,0,0,0,1,2,4,1,7],
-"d0/dd0/ArenaSpectator_8h.html#a29f78349223aca49d417c3f818b2dd4c":[7,0,0,0,1,2,4,1,19],
-"d0/dd0/ArenaSpectator_8h.html#a3a183131cf51fa6957a40f07d8d524ef":[7,0,0,0,1,2,4,1,6],
-"d0/dd0/ArenaSpectator_8h.html#a4508ccc26eb193b85e4d229a088c6be5":[7,0,0,0,1,2,4,1,8]
+"d0/dd0/ArenaSpectator_8h.html#a29f78349223aca49d417c3f818b2dd4c":[7,0,0,0,1,2,4,1,19]
 };

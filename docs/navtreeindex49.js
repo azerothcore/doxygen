@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d2/d03/classspell__sha__lava__lash.html#af5bccd5dfb9aa37215b083438b6749ea":[6,0,3737,0],
+"d2/d03/structCreatureModelDataEntry.html":[6,0,920],
 "d2/d03/structCreatureModelDataEntry.html#a08d8be1d2dbc9eb67e1f631650ea74da":[6,0,920,6],
 "d2/d03/structCreatureModelDataEntry.html#a3bb96e232124771e78f8b5db53405106":[6,0,920,3],
 "d2/d03/structCreatureModelDataEntry.html#a5300334ce02dd5a3b9ea6796eddb7ced":[6,0,920,5],
@@ -193,8 +195,8 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,86,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,86,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,86,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,98,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,86,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2159],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2159,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2159,2],
@@ -239,15 +241,13 @@ var NAVTREEINDEX49 =
 "d2/d0e/structDefaultTargetSelector.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e":[6,0,960,2],
 "d2/d0f/Weather_8cpp.html":[4,2,0],
 "d2/d0f/classRestoreFight.html":[6,0,2487],
-"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2487,0],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2487,1],
+"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2487,0],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2487,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2487,2],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[6,0,2487,4],
 "d2/d0f/classboss__freya__summons.html":[6,0,481],
 "d2/d0f/classboss__freya__summons.html#a3445ed89967cc9a610472f18e862ecd4":[6,0,481,1],
 "d2/d0f/classboss__freya__summons.html#ac68f231c37c61d262d6c16bc87a0f1c7":[6,0,481,2],
-"d2/d0f/classspell__icc__web__wrap__aura.html":[6,0,3106],
-"d2/d0f/classspell__icc__web__wrap__aura.html#aad4497ba7cad48b9547e8696714d8c23":[6,0,3106,2],
-"d2/d0f/classspell__icc__web__wrap__aura.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d":[6,0,3106,0]
+"d2/d0f/classspell__icc__web__wrap__aura.html":[6,0,3106]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX63 =
 {
+"d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410":[7,0,0,0,1,3,3,8,6,8],
+"d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68":[7,0,0,0,1,3,3,8,6,6],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b":[7,0,0,0,1,3,3,8,6,7],
 "d2/d57/winter__veil_8cpp.html#a9ae560d3a366e6f163d4fbfd29d339ac":[7,0,0,0,1,3,3,8,7],
 "d2/d57/winter__veil_8cpp.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508":[7,0,0,0,1,3,3,8,7,1],
@@ -39,10 +41,10 @@ var NAVTREEINDEX63 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3842,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,30,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,30,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,30,0,3,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,30,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,30,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,30,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,11,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1647],
@@ -247,7 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a50dff15dc08a087b69b6e1f3e759e873":[7,0,0,0,1,3,2,29,5,3],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358":[7,0,0,0,1,3,2,29,5,1],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341":[7,0,0,0,1,3,2,29,5,7],
-"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f":[7,0,0,0,1,3,2,29,5,0],
-"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd":[7,0,0,0,1,3,2,29,5,2],
-"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c":[7,0,0,0,1,3,2,29,5,4]
+"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f":[7,0,0,0,1,3,2,29,5,0]
 };

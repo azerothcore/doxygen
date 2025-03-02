@@ -1,5 +1,17 @@
 var NAVTREEINDEX328 =
 {
+"dd/dac/pit__of__saron_8h.html#af59fba40f3674c8dc74985c58d2d8643":[7,0,0,0,1,3,5,4,2,5,31],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,5,4,2,5,7],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d":[7,0,0,0,1,3,5,4,2,5,7,20],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a10f8e1306df9893ad30fd2f58f26f156":[7,0,0,0,1,3,5,4,2,5,7,1],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a160669ad5bcddb0e126dbcd1179b5d78":[7,0,0,0,1,3,5,4,2,5,7,9],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a2538f41a0dc11a9f5a05d543e2346e64":[7,0,0,0,1,3,5,4,2,5,7,4],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a39eefda2fa2ea3bcdf00d55179800187":[7,0,0,0,1,3,5,4,2,5,7,11],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a44d1eded46b154a9954a3e93470e33c5":[7,0,0,0,1,3,5,4,2,5,7,7],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a55fe435737fca5b7eaad6715bf1b2f26":[7,0,0,0,1,3,5,4,2,5,7,6],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a61e146429d384b178f1fa0c5b1e0f1ac":[7,0,0,0,1,3,5,4,2,5,7,19],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a6727ac0bc5988e1083ec6f85456ddb36":[7,0,0,0,1,3,5,4,2,5,7,17],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7287fc01a0ab5580b108fc1f8a6944f2":[7,0,0,0,1,3,5,4,2,5,7,16],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,2,5,7,3],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7ad561518eb6c85fab52c897b48024be":[7,0,0,0,1,3,5,4,2,5,7,13],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7ef90e47be9f3ad52d3efd7c97f70c3d":[7,0,0,0,1,3,5,4,2,5,7,8],
@@ -237,17 +249,5 @@ var NAVTREEINDEX328 =
 "dd/db7/classAllSpellScript.html#a95cc4310fb4bc275c7f467a4d71d790c":[6,0,151,1],
 "dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[6,0,151,0],
 "dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[6,0,151,12],
-"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,151,14],
-"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[6,0,151,16],
-"dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[6,0,151,13],
-"dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[6,0,151,15],
-"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,151,17],
-"dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[6,0,151,7],
-"dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[6,0,151,3],
-"dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[6,0,151,11],
-"dd/db8/classnpc__massive__jormungar.html":[6,0,1945],
-"dd/db8/classnpc__massive__jormungar.html#a68e3557e967ef633ba59fa81e661b80c":[6,0,1945,2],
-"dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[6,0,1945,1],
-"dd/db8/classspell__ioc__parachute__ic__aura.html":[6,0,3162],
-"dd/db8/classspell__ioc__parachute__ic__aura.html#a0e75076c2aed1544c544b976ee9cfbcd":[6,0,3162,0]
+"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,151,14]
 };

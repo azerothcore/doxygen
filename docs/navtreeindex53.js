@@ -1,5 +1,7 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8ae1b2fe2d9de28cc70b59a4bdd5f0abed":[7,0,0,0,1,2,36,2,20,1],
+"d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0":[7,0,0,0,1,2,36,2,18],
 "d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0a03c2b208ccff7ddb48194c798da4230d":[7,0,0,0,1,2,36,2,18,7],
 "d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0a27a5d14218bd45dfdc4dca776189da32":[7,0,0,0,1,2,36,2,18,1],
 "d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0a457f8498d07f0f0c1af0989763318608":[7,0,0,0,1,2,36,2,18,4],
@@ -103,10 +105,10 @@ var NAVTREEINDEX53 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,892,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,892,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,892,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,30,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,30,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,30,7,1,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,30,7,1,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html":[6,0,2182,0],
 "d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#aa362d2136193a8738e311bba18b87c90":[6,0,2182,0,0],
 "d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#aa5be20e87351424e0e4698540fc1fef4":[6,0,2182,0,3],
-"d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#ad2d4286d8f51a2d5a4901487e56506dc":[6,0,2182,0,1],
-"d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#ae51d2ac95320909150c673b76c9856c7":[6,0,2182,0,2],
-"d2/d33/classspell__item__net__o__matic.html":[6,0,3233]
+"d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#ad2d4286d8f51a2d5a4901487e56506dc":[6,0,2182,0,1]
 };

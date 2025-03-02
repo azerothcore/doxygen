@@ -1,5 +1,7 @@
 var NAVTREEINDEX11 =
 {
+"d0/d86/classAddonChannelCommandHandler.html#ac1ed346507097817b3f8e00f0ae657a0":[6,0,126,9],
+"d0/d86/classAddonChannelCommandHandler.html#acd17995bc95b6e449d5e185bfe523b84":[6,0,126,2],
 "d0/d87/classgo__wg__vehicle__teleporter.html":[6,0,1197],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a074ead770a3da6e9ffa4180a3525f4c8":[6,0,1197,1],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a113aaf42c095000c1a016bfe60df11e7":[6,0,1197,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d8c/classEnumUtils.html#a0ee23d66504252e356524011cccc90cf":[6,0,1015,26],
 "d0/d8c/classEnumUtils.html#a131ca648eedb603f29e16c2221349de9":[6,0,1015,128],
 "d0/d8c/classEnumUtils.html#a132eca282a310a1a731f0f09be4866b4":[6,0,1015,23],
-"d0/d8c/classEnumUtils.html#a164de3a74addd12590fca94058c64094":[6,0,1015,86],
-"d0/d8c/classEnumUtils.html#a167ce659fea26e33bce59b116703c1e4":[6,0,1015,47],
-"d0/d8c/classEnumUtils.html#a1779da0597301d57cfa6b1b14954024c":[6,0,1015,31]
+"d0/d8c/classEnumUtils.html#a164de3a74addd12590fca94058c64094":[6,0,1015,86]
 };

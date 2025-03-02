@@ -1,5 +1,12 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfacd7365bfca0b6c0a8c43b4e6bc02c7f5":[7,0,0,0,1,3,5,2,1,1,38,3],
+"d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfae1f0efa4026f86ebb692786585cec455":[7,0,0,0,1,3,5,2,1,1,38,0],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cad":[7,0,0,0,1,3,5,2,1,1,46],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada0a80478ad8e7cc8360bb5fc47d26149c":[7,0,0,0,1,3,5,2,1,1,46,7],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,2,1,1,46,5],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada4a98b6e61667225f497d8365630e72df":[7,0,0,0,1,3,5,2,1,1,46,3],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada5540d6687faadb9887397324b33591ed":[7,0,0,0,1,3,5,2,1,1,46,1],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada72998a4d83035498eb434a926b3c605c":[7,0,0,0,1,3,5,2,1,1,46,4],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada8a7a86cecbd82f651dc88384ca189df3":[7,0,0,0,1,3,5,2,1,1,46,6],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[7,0,0,0,1,3,5,2,1,1,46,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8b/namespaceAcore_1_1Types.html":[5,0,1,16],
 "d4/d8b/namespaceAcore_1_1Types.html#a67eb68c20f5616b2ea2a16a87784360a":[5,0,1,16,3],
 "d4/d8b/namespaceAcore_1_1Types.html#a6d4fe40146df0d52c6917d8cc920ac84":[5,0,1,16,1],
-"d4/d8b/namespaceAcore_1_1Types.html#aa6a7b1e80be2ae7ec2efb76185ee7b44":[5,0,1,16,0],
-"d4/d8b/namespaceAcore_1_1Types.html#ae544e1b7f5a34959b1b48592f67dd4e7":[5,0,1,16,2],
-"d4/d8c/classGridTerrainUnloader.html":[6,0,1221],
-"d4/d8c/classGridTerrainUnloader.html#a2cae372520a8e6d6a54ad79381a844e9":[6,0,1221,0],
-"d4/d8c/classGridTerrainUnloader.html#a94d346bc8d44f285d8cdb97736859201":[6,0,1221,2],
-"d4/d8c/classGridTerrainUnloader.html#aac1ea80c5210b25ad26f52558336c20d":[6,0,1221,3],
-"d4/d8c/classGridTerrainUnloader.html#ad6648cf97602141fcc64bbb6c688f6a0":[6,0,1221,1],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[6,0,2710]
+"d4/d8b/namespaceAcore_1_1Types.html#aa6a7b1e80be2ae7ec2efb76185ee7b44":[5,0,1,16,0]
 };

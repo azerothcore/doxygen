@@ -1,5 +1,12 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd8/classinstance__mana__tombs.html":[6,0,1307],
+"d4/dd8/classinstance__mana__tombs.html#a26e4dad0957df886bc446396ab48ceda":[6,0,1307,2],
+"d4/dd8/classinstance__mana__tombs.html#a78ca8b378e4ab290f1eea2b2b5799630":[6,0,1307,1],
+"d4/dd8/structAchievementCriteriaData.html":[6,0,109],
+"d4/dd8/structAchievementCriteriaData.html#a0461ba6bbb71d66abeee6dfaa6b81782":[6,0,109,38],
+"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,109,2],
+"d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[6,0,109,39],
 "d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[6,0,109,16],
 "d4/dd8/structAchievementCriteriaData.html#a0bb28562878237fe2bb5249ffddaf89a":[6,0,109,44],
 "d4/dd8/structAchievementCriteriaData.html#a0d3fc06f57718915428227a946c018af":[6,0,109,10],
@@ -188,8 +195,8 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1041,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,30,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,30,15,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,30,15,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1885,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1885,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1885,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[6,0,1754,3],
 "d4/dde/classnpc__elder__clearwater.html#abeee1650938a71762bb0c148ea9834d1":[6,0,1754,1],
 "d4/dde/classspell__dk__rune__tap__party.html":[6,0,2757],
-"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2757,1],
-"d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[6,0,2757,0],
-"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[6,0,2757,2],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[6,0,3742],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[6,0,3742,1],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[6,0,3742,0],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ab06a732203303d5533bdc4b217640d2d":[6,0,3742,3],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ad2796a924fbe36dc9cd1c9de60eb9b16":[6,0,3742,2]
+"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2757,1]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX157 =
 {
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[6,0,1331,0],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[6,0,1331,0,25],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[6,0,1331,0,4],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1331,0,23],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[6,0,1331,0,32],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1331,0,10],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a1deb1d344704fa07ab78ad29f21814e4":[6,0,1331,0,21],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a22ba7cb52076decbbbd73cb7898d88eb":[6,0,1331,0,11],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a2acc3af0079f83ac5a28eb0debf496fd":[6,0,1331,0,29],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a306e5ae198bed3fdfea03659b547a034":[6,0,1331,0,3],
@@ -132,8 +139,8 @@ var NAVTREEINDEX157 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,30,5,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,30,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,11,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aaf10ed2e318e103b363922ee8d7d99429":[7,0,0,0,1,3,7,5,0,0,5,8],
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0a":[7,0,0,0,1,3,7,5,0,0,11],
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa4ca93aca370ce6e9d5ec40dc5faa9fe6":[7,0,0,0,1,3,7,5,0,0,11,1],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa4feec3a1d608c7f938f1fe0f853c84be":[7,0,0,0,1,3,7,5,0,0,11,0],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa51e7500c05468254911efb6670c0cb62":[7,0,0,0,1,3,7,5,0,0,11,4],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa7c85b51d90a5134a092b057182a3de70":[7,0,0,0,1,3,7,5,0,0,11,5],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa8cab75c2d4bc603a956094f60d53c45d":[7,0,0,0,1,3,7,5,0,0,11,2],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aaa030ac4f9a55e525dfe9941cc72029fd":[7,0,0,0,1,3,7,5,0,0,11,6],
-"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aabb1a6b84a9832a1986051c85b21d551e":[7,0,0,0,1,3,7,5,0,0,11,3],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457":[7,0,0,0,1,3,7,5,0,0,6],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,0,6,10]
+"d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa4feec3a1d608c7f938f1fe0f853c84be":[7,0,0,0,1,3,7,5,0,0,11,0]
 };

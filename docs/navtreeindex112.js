@@ -1,5 +1,12 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaa48397307b0d116c030d58ca7ab09579":[7,0,0,0,1,2,8,1,3,23,42],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaa98c3a5f931d124e32b434fc630e200c":[7,0,0,0,1,2,8,1,3,23,32],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbaaca5689179a8fb8ea2861ddde6401285":[7,0,0,0,1,2,8,1,3,23,13],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbab162b5ebc0715eadbd6c81079dff60a0":[7,0,0,0,1,2,8,1,3,23,14],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbabaea69d6572caa5eef1353d52cfbd018":[7,0,0,0,1,2,8,1,3,23,6],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbac327678b54952b47e19fce236ca79ca9":[7,0,0,0,1,2,8,1,3,23,20],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbac41e1ffd3ee1de6b92065e6baa04f9ff":[7,0,0,0,1,2,8,1,3,23,16],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbace957ce04f83f279dc9cf4b894949fea":[7,0,0,0,1,2,8,1,3,23,8],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbad170480d83564808304b477e984a56b8":[7,0,0,0,1,2,8,1,3,23,33],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbad4f220adc4f90953e909f91f7c5720ff":[7,0,0,0,1,2,8,1,3,23,45],
@@ -242,12 +249,5 @@ var NAVTREEINDEX112 =
 "d3/de0/structnpc__chesspiece.html#a55b4ff6f9f0809680253f4de570403b5":[6,0,1679,2],
 "d3/de0/structnpc__chesspiece.html#a5b85fe5bf6ecf0f379c73950fd80da62":[6,0,1679,26],
 "d3/de0/structnpc__chesspiece.html#a7a2fdfacca506fd7cc1c012c0a5aefbf":[6,0,1679,5],
-"d3/de0/structnpc__chesspiece.html#a8071dc87f9e394408df7d8d51b123040":[6,0,1679,10],
-"d3/de0/structnpc__chesspiece.html#a91dfa1e6226d5e66c50cd96fbb3042b5":[6,0,1679,4],
-"d3/de0/structnpc__chesspiece.html#a924392887b3344041504e37a64094c46":[6,0,1679,16],
-"d3/de0/structnpc__chesspiece.html#aac04dc965cebfe56731839fc29a3b8a1":[6,0,1679,19],
-"d3/de0/structnpc__chesspiece.html#aada19ed3d189d2b8cd57c1a199dc17e5":[6,0,1679,13],
-"d3/de0/structnpc__chesspiece.html#abb4e9b69c9a04212fcccd2408ef0c317":[6,0,1679,9],
-"d3/de0/structnpc__chesspiece.html#ac0cd626a5a7a37bec0cf9ba1d25dd391":[6,0,1679,1],
-"d3/de0/structnpc__chesspiece.html#ac2a7ebaf577a12d729ec5976b2bee5f5":[6,0,1679,21]
+"d3/de0/structnpc__chesspiece.html#a8071dc87f9e394408df7d8d51b123040":[6,0,1679,10]
 };

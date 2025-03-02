@@ -1,5 +1,12 @@
 var NAVTREEINDEX127 =
 {
+"d4/d74/structQuestXPEntry.html#aa34490babd6ccdc45857947db3f36d60":[6,0,2459,0],
+"d4/d74/structQuestXPEntry.html#abe177efe7ea9d1d1ae8e7d09655c7193":[6,0,2459,1],
+"d4/d76/boss__okthor_8cpp.html":[7,0,0,0,1,3,2,1,0,13],
+"d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,13,2],
+"d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,1,0,13,2,1],
+"d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c3d41eb1b68da0f3943e5df04bfcb5c":[7,0,0,0,1,3,2,1,0,13,2,3],
+"d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9efd3c20d926022e44fab28656b29c":[7,0,0,0,1,3,2,1,0,13,2,0],
 "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,2,1,0,13,2,2],
 "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18b":[7,0,0,0,1,3,2,1,0,13,3],
 "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18ba439d42554249fd90a0394bf41d747c49":[7,0,0,0,1,3,2,1,0,13,3,3],
@@ -107,10 +114,10 @@ var NAVTREEINDEX127 =
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a89b86436bb1de38223165e7ef60f2b61":[6,0,4040,6,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,27,23],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[6,0,9,23],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a136cf475a8246611c52b3af41707fe83":[5,0,27,23,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a136cf475a8246611c52b3af41707fe83":[6,0,9,23,2],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[5,0,27,23,3],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a136cf475a8246611c52b3af41707fe83":[5,0,27,23,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[6,0,9,23,3],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[5,0,27,23,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[6,0,9,23,6],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[5,0,27,23,6],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[6,0,9,23,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8af78c8435d912f5c0473fa46f9bffcc":[7,0,0,0,1,3,2,1,2,6,14,7],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e9e58cd77356fa73cd908ce0fe9e705":[7,0,0,0,1,3,2,1,2,6,14,16],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9b29a11e156c2d21ebf09231a041f37d":[7,0,0,0,1,3,2,1,2,6,14,5],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9deff480f4df728b18e20d22dc41e3b5":[7,0,0,0,1,3,2,1,2,6,14,22],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac2879d7fa3b7f565d4659a45c93509ca":[7,0,0,0,1,3,2,1,2,6,14,0],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acddc02bba718fb7dab8b3921492370d3":[7,0,0,0,1,3,2,1,2,6,14,8],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,2,6,14,11],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[7,0,0,0,1,3,2,1,2,6,14,9],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae2c0e93bc77d62accc8264f7d8508a9a":[7,0,0,0,1,3,2,1,2,6,14,1],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb2b28327a5995b68c94b771aa9aa6ac":[7,0,0,0,1,3,2,1,2,6,14,24],
-"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebf40c0febf91ccc4264dde0d5d6a4ed":[7,0,0,0,1,3,2,1,2,6,14,17]
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9deff480f4df728b18e20d22dc41e3b5":[7,0,0,0,1,3,2,1,2,6,14,22]
 };

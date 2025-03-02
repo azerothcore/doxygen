@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"d1/db7/zone__darkshore_8cpp.html#a4a231f21241510908fe1bab1745bec56afe4a0e889c848aa951c477b92846a808":[7,0,0,0,1,3,4,18,14,10],
+"d1/db7/zone__darkshore_8cpp.html#aea2746bdf2fc046053c962d9025651d1":[7,0,0,0,1,3,4,18,15],
 "d1/db8/namespaceWorldPackets_1_1Combat.html":[5,0,30,3],
 "d1/db9/boss__solakar__flamewreath_8cpp.html":[7,0,0,0,1,3,2,1,1,11],
 "d1/db9/boss__solakar__flamewreath_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,1,1,11,4],
@@ -70,16 +72,16 @@ var NAVTREEINDEX41 =
 "d1/dba/classspell__rog__nerves__of__steel.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6":[6,0,3682,1],
 "d1/dba/classspell__rog__nerves__of__steel.html#ac273b669dc396561d9ec8b523659363f":[6,0,3682,3],
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3682,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,42],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,54],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,42,3],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,42],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,54,3],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,42,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,1,54,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,42,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,42,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,54,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,54,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a1551df43a48f1dbf64dbec1e47b07eea":[7,0,0,0,1,0,0,3,6],
 "d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[7,0,0,0,1,0,0,3,4],
 "d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a56e4613e7e60d171b9ce45f52758a057":[7,0,0,0,1,0,0,3,3],
-"d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a625d6480b04e88fcbc85e5b8d29502a6":[7,0,0,0,1,0,0,3,1],
-"d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b":[7,0,0,0,1,0,0,3,2],
-"d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a927af1587546ee7503a3b9a18f6439c0":[7,0,0,0,1,0,0,3,7]
+"d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a625d6480b04e88fcbc85e5b8d29502a6":[7,0,0,0,1,0,0,3,1]
 };

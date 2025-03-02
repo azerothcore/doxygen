@@ -227,13 +227,13 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">19827</span>{</div>
-<div class="line"><span class="lineno">19828</span>    <a class="code hl_struct" href="../../d0/df4/structPosition.html">Position</a> pos = <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>;</div>
-<div class="line"><span class="lineno">19829</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a51ee0969c43fed32eacf1a56e24393eb">MovePositionToFirstCollision</a>(pos, 20.0f, M_PI);</div>
-<div class="line"><span class="lineno">19830</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, pos);</div>
-<div class="line"><span class="lineno">19831</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(<a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0">_duration</a>);</div>
-<div class="line"><span class="lineno">19832</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">19833</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">19807</span>{</div>
+<div class="line"><span class="lineno">19808</span>    <a class="code hl_struct" href="../../d0/df4/structPosition.html">Position</a> pos = <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>;</div>
+<div class="line"><span class="lineno">19809</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a51ee0969c43fed32eacf1a56e24393eb">MovePositionToFirstCollision</a>(pos, 20.0f, M_PI);</div>
+<div class="line"><span class="lineno">19810</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, pos);</div>
+<div class="line"><span class="lineno">19811</span>    <a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(<a class="code hl_variable" href="../../dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0">_duration</a>);</div>
+<div class="line"><span class="lineno">19812</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">19813</span>}</div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2183</div></div>
 <div class="ttc" id="aclassMotionMaster_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:213</div></div>
 <div class="ttc" id="aclassObject_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition</b> Object.h:205</div></div>
@@ -266,7 +266,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l19826">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l19806">Execute()</a>.</p>
 
 </div>
 </div>
@@ -290,7 +290,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l19826">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l19806">Execute()</a>.</p>
 
 </div>
 </div>
@@ -304,7 +304,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d6c/classVehicleDespawnEvent.html">VehicleDespawnEvent</a></li>
-    <li class="footer">Generated on Sat Mar 1 2025 06:20:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Mar 2 2025 06:20:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

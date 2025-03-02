@@ -1,5 +1,12 @@
 var NAVTREEINDEX100 =
 {
+"d3/d73/WorldPacket_8h.html":[7,0,0,0,1,2,39,4],
+"d3/d73/classIceTombSummonEvent.html":[6,0,1268],
+"d3/d73/classIceTombSummonEvent.html#a1b95617b511dfa7868c59dbdf7e6c4c7":[6,0,1268,2],
+"d3/d73/classIceTombSummonEvent.html#a2ead0e5f6eb0c32f5c11f38e667b65d3":[6,0,1268,0],
+"d3/d73/classIceTombSummonEvent.html#aa708b67e60ba0b4fe2334c43aaaca5c7":[6,0,1268,1],
+"d3/d73/classIceTombSummonEvent.html#abe61867b29cd4fe3d02268f18b3618ee":[6,0,1268,3],
+"d3/d74/classnpc__living__inferno.html":[6,0,1920],
 "d3/d74/classnpc__living__inferno.html#a53f0bbd0a502374664cfa54140f4b8c0":[6,0,1920,2],
 "d3/d74/classnpc__living__inferno.html#a7df2bb522e67b6f1864604c7b0182078":[6,0,1920,1],
 "d3/d77/classspell__dru__rip.html":[6,0,2805],
@@ -242,12 +249,5 @@ var NAVTREEINDEX100 =
 "d3/d81/structsOnyxMove.html":[6,0,2558],
 "d3/d81/structsOnyxMove.html#a126d1c0e7d475a07acd91de471cb7cab":[6,0,2558,0],
 "d3/d81/structsOnyxMove.html#a41c7bdb057d984f552a41835651d84f5":[6,0,2558,4],
-"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2558,3],
-"d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2558,1],
-"d3/d81/structsOnyxMove.html#a94c284d63e66765c4d484c8edea8fdb8":[6,0,2558,2],
-"d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2558,5],
-"d3/d81/structsOnyxMove.html#ac49d886d09e2ebf8ccf8abd59a9649ec":[6,0,2558,6],
-"d3/d81/trial__of__the__champion_8h.html":[7,0,0,0,1,3,5,2,0,5],
-"d3/d81/trial__of__the__champion_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,2,0,5,0],
-"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[7,0,0,0,1,3,5,2,0,5,4]
+"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2558,3]
 };

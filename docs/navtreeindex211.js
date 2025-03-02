@@ -1,5 +1,16 @@
 var NAVTREEINDEX211 =
 {
+"d8/d3a/structItemSetEntry.html#a8aac032992efe1bfbba0e49693562c7f":[6,0,1387,5],
+"d8/d3a/structItemSetEntry.html#a9b62f843833d524f200782d44151503d":[6,0,1387,2],
+"d8/d3a/structItemSetEntry.html#ab3058ac725fb8f105b9359d5a5147942":[6,0,1387,3],
+"d8/d3a/structItemSetEntry.html#ae125712e5569c9699b4748b6a15fbc12":[6,0,1387,0],
+"d8/d3a/utgarde__pinnacle_8h.html":[7,0,0,0,1,3,5,10,1,6],
+"d8/d3a/utgarde__pinnacle_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,10,1,6,0],
+"d8/d3a/utgarde__pinnacle_8h.html#a4262fffde6719c3b158860a0a1b52319":[7,0,0,0,1,3,5,10,1,6,4],
+"d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fd":[7,0,0,0,1,3,5,10,1,6,3],
+"d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda00e3e051d999e7c46d6591c355108eed":[7,0,0,0,1,3,5,10,1,6,3,11],
+"d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda0260c9875dbbddb05fe41fa73b1b71c9":[7,0,0,0,1,3,5,10,1,6,3,9],
+"d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda1c9dccc8ecb9970fcc204210b3697b2a":[7,0,0,0,1,3,5,10,1,6,3,10],
 "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda3ac553035e288bc52d1a94176b971f74":[7,0,0,0,1,3,5,10,1,6,3,6],
 "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda44e57afda1bcc80c47d9f7f7d7e7ceea":[7,0,0,0,1,3,5,10,1,6,3,2],
 "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda726e5e5e22433cd1225ae73b2280beb9":[7,0,0,0,1,3,5,10,1,6,3,7],
@@ -238,16 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8":[6,0,2304,104],
 "d8/d4b/classObject.html#afe31cbf34c193dd79f1fa6136ddd5767":[6,0,2304,29],
 "d8/d4b/classObject.html#afe65b1ab32dbcd51890b754fb8b5e1b0":[6,0,2304,75],
-"d8/d4c/classgo__main__chambers__access__panel.html":[6,0,1151],
-"d8/d4c/classgo__main__chambers__access__panel.html#a30c3c20be1892b5107ef53683d593b75":[6,0,1151,0],
-"d8/d4c/classgo__main__chambers__access__panel.html#af4b3a4a0260de68dcfac7202e0a728ee":[6,0,1151,1],
-"d8/d4c/structnpc__akama__illidan.html":[6,0,1568],
-"d8/d4c/structnpc__akama__illidan.html#a1b4a1bfec1034feccba676b35a3caf93":[6,0,1568,11],
-"d8/d4c/structnpc__akama__illidan.html#a32116d23bd508d9791f31fbc257398d0":[6,0,1568,7],
-"d8/d4c/structnpc__akama__illidan.html#a3531d35b6d996bde197447e69e50a6fb":[6,0,1568,12],
-"d8/d4c/structnpc__akama__illidan.html#a4b95cb3a3502805a915f7c6751ecf70c":[6,0,1568,1],
-"d8/d4c/structnpc__akama__illidan.html#a54b185a813a4271eef06173b8109d6cf":[6,0,1568,5],
-"d8/d4c/structnpc__akama__illidan.html#a6ab4ddfeaa2448e79577936d87d66398":[6,0,1568,10],
-"d8/d4c/structnpc__akama__illidan.html#a752a22acf6eab1d1045cac099b22fe57":[6,0,1568,13],
-"d8/d4c/structnpc__akama__illidan.html#a7838b6161a2ea9e0231f142a534de767":[6,0,1568,6]
+"d8/d4c/classgo__main__chambers__access__panel.html":[6,0,1151]
 };

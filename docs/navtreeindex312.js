@@ -1,5 +1,17 @@
 var NAVTREEINDEX312 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[7,0,0,0,1,3,2,12,6,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f":[7,0,0,0,1,3,2,12,6,3,5],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8":[7,0,0,0,1,3,2,12,6,3,6],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3":[7,0,0,0,1,3,2,12,6,3,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b":[7,0,0,0,1,3,2,12,6,3,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b":[7,0,0,0,1,3,2,12,6,3,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222":[7,0,0,0,1,3,2,12,6,3,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b":[7,0,0,0,1,3,2,12,6,3,7],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d":[7,0,0,0,1,3,2,12,6,3,4],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[7,0,0,0,1,3,2,12,6,4],
+"dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,2,12,6,8],
+"dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html":[6,0,1790,0],
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#a0278736f670f5aac069b03530f441ae1":[6,0,1790,0,1],
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#a26f4657c1d373cf4a2b45f6487a9e901":[6,0,1790,0,3],
 "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html#a80eec4a19fb53be5946b2e021b8dd332":[6,0,1790,0,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX312 =
 "dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
 "dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
-"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
-"dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2929],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2929,0],
-"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2929,1],
-"dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
-"dc/def/structboss__mechano__lord__capacitus.html":[6,0,613],
-"dc/def/structboss__mechano__lord__capacitus.html#a4aa9ee50a942fe123acfdeee0350fa2d":[6,0,613,2],
-"dc/def/structboss__mechano__lord__capacitus.html#a596314e7aebcc9e2e7311b4e0850b817":[6,0,613,1],
-"dc/def/structboss__mechano__lord__capacitus.html#a6a408c654f91a44a40b3df52c0f2b093":[6,0,613,4],
-"dc/def/structboss__mechano__lord__capacitus.html#a9a0b2cac08002db63162f95b9476c251":[6,0,613,3],
-"dc/def/structboss__mechano__lord__capacitus.html#ab5867184d4e50a89a1afe25eb40e6bc3":[6,0,613,0],
-"dc/df0/DBUpdater_8h.html":[7,0,0,0,1,1,3,1]
+"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557da85cc3f1adfadc8110b9dfbb78a30985d":[7,0,0,0,1,3,2,4,0,5,3],
+"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557da8befe39d4d62a4701f1ec063d02e9cac":[7,0,0,0,1,3,2,4,0,5,13],
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557daa790faa3ded3ef9af3dfb54ba04923a0":[7,0,0,0,1,3,2,4,0,5,4],
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dabb1459da832b3d2d1efbd8380ee976bb":[7,0,0,0,1,3,2,4,0,5,11],
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dadc33e864d043fc13e86d02717d78c17a":[7,0,0,0,1,3,2,4,0,5,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a8e2ffb80a87da63793e4122d9b73cf8b":[7,0,0,0,1,2,36,2,20,3],
 "d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484":[7,0,0,0,1,2,36,2,20,2],
 "d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28":[7,0,0,0,1,2,36,2,20,0],
-"d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8ac5861bd66a93cb8083339c969a26f6d4":[7,0,0,0,1,2,36,2,20,5],
-"d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8ae1b2fe2d9de28cc70b59a4bdd5f0abed":[7,0,0,0,1,2,36,2,20,1],
-"d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0":[7,0,0,0,1,2,36,2,18]
+"d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8ac5861bd66a93cb8083339c969a26f6d4":[7,0,0,0,1,2,36,2,20,5]
 };

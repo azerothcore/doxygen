@@ -1,5 +1,12 @@
 var NAVTREEINDEX125 =
 {
+"d4/d60/classnpc__balance__of__light__and__shadow.html#a55229e3ea8dd9c52972185b36c08908b":[6,0,1626,1],
+"d4/d61/namespaceAIRegistry.html":[5,0,5],
+"d4/d61/namespaceAIRegistry.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[5,0,5,0],
+"d4/d64/classFlaggedValuesArray32.html":[6,0,1043],
+"d4/d64/classFlaggedValuesArray32.html#a0680f7b67001783f20d89989a49cbead":[6,0,1043,0],
+"d4/d64/classFlaggedValuesArray32.html#a0ea5d977caef5152c71c515259a91f06":[6,0,1043,6],
+"d4/d64/classFlaggedValuesArray32.html#a273ab3607b23881628eb0c5d6a4da288":[6,0,1043,1],
 "d4/d64/classFlaggedValuesArray32.html#a314a315eb1c1a76116fe3a31f7be9c68":[6,0,1043,4],
 "d4/d64/classFlaggedValuesArray32.html#a3a674b2a7b8d5874f7210372b3e92123":[6,0,1043,3],
 "d4/d64/classFlaggedValuesArray32.html#a87e5949bc041f15449331aceb277e8c4":[6,0,1043,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fa9d19f9f40e61bb0d00392b911d634ed0":[7,0,0,0,1,3,7,5,2,2,19,2],
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fac0534370a7e92d96714489a749a8b466":[7,0,0,0,1,3,7,5,2,2,19,6],
 "d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fac053bfc4599cab42b71cb3513b1503ab":[7,0,0,0,1,3,7,5,2,2,19,7],
-"d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fad61e30ce4f8b15cacac9f115284d460b":[7,0,0,0,1,3,7,5,2,2,19,0],
-"d4/d67/boss__kaelthas_8cpp.html#abaa62e9749b10ffa05287340e7d96f10":[7,0,0,0,1,3,7,5,2,2,26],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9d":[7,0,0,0,1,3,7,5,2,2,20],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da61e900515aec51ba22cfdd63c1082fc7":[7,0,0,0,1,3,7,5,2,2,20,0],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da64e7cddc3bab6442c78dae160b680a31":[7,0,0,0,1,3,7,5,2,2,20,2],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da79771388149255a9fe5d1d12597ab400":[7,0,0,0,1,3,7,5,2,2,20,5],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da806abcaac7257edd7c5b3645c3599659":[7,0,0,0,1,3,7,5,2,2,20,3],
-"d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1]
+"d4/d67/boss__kaelthas_8cpp.html#ab7f5be3ff9aba93352ce5f1c4e234b8fad61e30ce4f8b15cacac9f115284d460b":[7,0,0,0,1,3,7,5,2,2,19,0]
 };

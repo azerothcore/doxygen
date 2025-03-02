@@ -1,5 +1,7 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#ab1cffcaa77006c54f8c948bc2a8d661a":[6,0,702,0,14],
+"d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#ac240eae79545ab4dc0b5cbc0f5592e8e":[6,0,702,0,1],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#ad5266bee9f90bc7c5622bd30825820eb":[6,0,702,0,0],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#add5671b1f9e20590e1121f8c18d064cc":[6,0,702,0,11],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#ae233171c66fb042f57156adfafb8e4fb":[6,0,702,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d86/classAddonChannelCommandHandler.html#a9c87777b4249795b41163b2294f44746":[6,0,126,11],
 "d0/d86/classAddonChannelCommandHandler.html#aa3a06fffce2472b941163d062f1b3569":[6,0,126,6],
 "d0/d86/classAddonChannelCommandHandler.html#aae585fad45749fd46fa28d36fdad9760":[6,0,126,0],
-"d0/d86/classAddonChannelCommandHandler.html#abd1bb7d3ca143479bd50d908dc1f4136":[6,0,126,3],
-"d0/d86/classAddonChannelCommandHandler.html#ac1ed346507097817b3f8e00f0ae657a0":[6,0,126,9],
-"d0/d86/classAddonChannelCommandHandler.html#acd17995bc95b6e449d5e185bfe523b84":[6,0,126,2]
+"d0/d86/classAddonChannelCommandHandler.html#abd1bb7d3ca143479bd50d908dc1f4136":[6,0,126,3]
 };

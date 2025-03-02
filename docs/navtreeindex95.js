@@ -1,5 +1,12 @@
 var NAVTREEINDEX95 =
 {
+"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8":[6,0,2218,0,11],
+"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af961f02169ab700716410e26114fd857":[6,0,2218,0,9],
+"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba":[6,0,2218,0,3],
+"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html":[6,0,3811],
+"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a4786e0c38f03f7e671174d0641526681":[6,0,3811,0],
+"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a7d260468f409a7fb41a39f80db5f9d63":[6,0,3811,1],
+"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a943117bfb56b846e99d04bd9a348af8d":[6,0,3811,2],
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html":[6,0,480,0],
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html#a1a7579cc6957a52d65a1d302d5ba1da0":[6,0,480,0,4],
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html#a2af9ed2067097eec2a647f17f8b1ef71":[6,0,480,0,3],
@@ -20,12 +27,12 @@ var NAVTREEINDEX95 =
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3744,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1744],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1744,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1744,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a10b4fae16b0a43eeaf55f84e63cfac59":[7,0,0,0,1,3,5,9,2,13,63,35],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a11897865fd78e8b19933dfde36a0bfc4":[7,0,0,0,1,3,5,9,2,13,63,10],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0":[7,0,0,0,1,3,5,9,2,13,63,13],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2933c667612f18abb246feac9e33ad3c":[7,0,0,0,1,3,5,9,2,13,63,16],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2a720760aca78e865e6a3468953ba5cd":[7,0,0,0,1,3,5,9,2,13,63,29],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a367548fd4d0ef7a243856b9b55a50b6b":[7,0,0,0,1,3,5,9,2,13,63,39],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a36b8d891a3b118009e3ed8206a2e88c7":[7,0,0,0,1,3,5,9,2,13,63,38],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3789cce04c915d448eff463da262b770":[7,0,0,0,1,3,5,9,2,13,63,3],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3c65e4cff3880ba89acf43dccd2ffcf2":[7,0,0,0,1,3,5,9,2,13,63,21],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3d09057ef14227afcb0bf7488ab3bb00":[7,0,0,0,1,3,5,9,2,13,63,1],
-"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4b414a6d2bcfa0ffd16a7fab87854e0d":[7,0,0,0,1,3,5,9,2,13,63,30]
+"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2933c667612f18abb246feac9e33ad3c":[7,0,0,0,1,3,5,9,2,13,63,16]
 };

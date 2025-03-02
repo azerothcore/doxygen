@@ -1,5 +1,15 @@
 var NAVTREEINDEX199 =
 {
+"d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2168,1],
+"d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[6,0,2168,2],
+"d7/dab/structboss__glob__of__viscidus.html":[6,0,496],
+"d7/dab/structboss__glob__of__viscidus.html#a0247055fc4f3a60c880ffb78e96edcb9":[6,0,496,1],
+"d7/dab/structboss__glob__of__viscidus.html#a1ba72393766110382dc4ce4122dfd1ee":[6,0,496,0],
+"d7/dab/structboss__glob__of__viscidus.html#a2e8e38ccdf4ab5e32bd750d73daf1605":[6,0,496,3],
+"d7/dab/structboss__glob__of__viscidus.html#abe0cd95930fe52fdb5a40c704d092b90":[6,0,496,2],
+"d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html":[6,0,1715,0],
+"d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html#a1fb90760dac1ae429429d84ed033aa7a":[6,0,1715,0,1],
+"d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html#aede21e01dfe762922562b6f5d57bc406":[6,0,1715,0,0],
 "d7/daf/classboss__noth.html":[6,0,638],
 "d7/daf/classboss__noth.html#a2760f1ec46a21f22de0e57527cbe9768":[6,0,638,1],
 "d7/daf/classboss__noth.html#a534f30792c051ab44c6c07c9347893e5":[6,0,638,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX199 =
 "d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2":[6,0,1471,265],
 "d7/db0/classMap.html#ac279aecabb80ef7fb308b331e47663ff":[6,0,1471,53],
 "d7/db0/classMap.html#ac2e64e8b60a06ee4ba99f4d426b2fd8a":[6,0,1471,221],
-"d7/db0/classMap.html#ac309ee57ae1a2058047c749d85d9bc95":[6,0,1471,114],
-"d7/db0/classMap.html#ac3a435876862905d8cf4f39c40a274e3":[6,0,1471,145],
-"d7/db0/classMap.html#ac49bb2772730297b09a19579ced5b8c5":[6,0,1471,117],
-"d7/db0/classMap.html#ac6cdaebabf597df48be6fe48d6172480":[6,0,1471,154],
-"d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[6,0,1471,102],
-"d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1471,105],
-"d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f":[6,0,1471,210],
-"d7/db0/classMap.html#acba733ebb1500dc5e86225730915e48f":[6,0,1471,68],
-"d7/db0/classMap.html#acc47b246ce84370150c2deea8590b997":[6,0,1471,256],
-"d7/db0/classMap.html#acc6e018eedcd4943734d153dc4a8cb89":[6,0,1471,163],
-"d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328":[6,0,1471,58]
+"d7/db0/classMap.html#ac309ee57ae1a2058047c749d85d9bc95":[6,0,1471,114]
 };

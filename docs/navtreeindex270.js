@@ -1,5 +1,16 @@
 var NAVTREEINDEX270 =
 {
+"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba":[7,0,0,0,1,2,3,2,1,3,0],
+"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f":[7,0,0,0,1,2,3,2,1,3,1],
+"db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,4],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html":[6,0,2287,0],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a0e14a306db46e817e6d8f7a358519f83":[6,0,2287,0,1],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a142359bf1661542d044a7d27b764832b":[6,0,2287,0,2],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a17c00619bcf5818e49f67d4d8b8b35b0":[6,0,2287,0,4],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2":[6,0,2287,0,5],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a4e17e9642ec11712652f41495974b716":[6,0,2287,0,3],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a60212e1504bcb6f7db05ba5ed09df71f":[6,0,2287,0,7],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a95e8039b174f6db267197e04b6bd2dd2":[6,0,2287,0,0],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af2c272de51aa15a41af9837f99256a62":[6,0,2287,0,8],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af5a9e355c2a5a927d38ea22fe96d89f0":[6,0,2287,0,6],
 "db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
@@ -238,16 +249,5 @@ var NAVTREEINDEX270 =
 "db/d1d/structboss__ouro.html#ab59237535be7a86cb4c0db4819a4d9d5":[6,0,646,11],
 "db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[6,0,646,4],
 "db/d1d/structboss__ouro.html#aee5769af48127617d40fa440d042e434":[6,0,646,5],
-"db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[6,0,646,13],
-"db/d1d/structnpc__garr__firesworn_1_1npc__garr__fireswornAI.html":[6,0,1797,0],
-"db/d1d/structnpc__garr__firesworn_1_1npc__garr__fireswornAI.html#ae9582b14e82b163ff97b99cb603e0179":[6,0,1797,0,1],
-"db/d1d/structnpc__garr__firesworn_1_1npc__garr__fireswornAI.html#af2454b2ddf93102378ebf9780d260e56":[6,0,1797,0,0],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[6,0,2057,0],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a16ab37be9e31dcfc159b5c78b196b847":[6,0,2057,0,1],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a1c85351ae62d5f45381214373e64aec4":[6,0,2057,0,0],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a64beac4aafa9e9bb2089a7c1e35fe8a5":[6,0,2057,0,6],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a64fa46f05861d8736d881aa3687f4320":[6,0,2057,0,2],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a821377a2c29b4180db00f2c4f4268fe7":[6,0,2057,0,4],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a836d605f4320ba9fd49cb60d6a1e032d":[6,0,2057,0,3],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a9dae9cb2c6f18d89d06cfa72b98d36f2":[6,0,2057,0,5]
+"db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[6,0,646,13]
 };

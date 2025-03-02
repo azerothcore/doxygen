@@ -1,5 +1,7 @@
 var NAVTREEINDEX54 =
 {
+"d2/d32/structnpc__toc__priest_1_1npc__toc__priestAI.html#ae51d2ac95320909150c673b76c9856c7":[6,0,2182,0,2],
+"d2/d33/classspell__item__net__o__matic.html":[6,0,3233],
 "d2/d33/classspell__item__net__o__matic.html#a3f10fa7accb675d36560ef5bb6ccb84e":[6,0,3233,2],
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[6,0,3233,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[6,0,3233,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a87e445f60f4b39a5f42df070e70f150d":[7,0,0,0,1,3,5,14,119],
 "d2/d38/northrend__script__loader_8cpp.html#a88dfb5e1f3bdbc3644a90d55d5aa6fb1":[7,0,0,0,1,3,5,14,104],
 "d2/d38/northrend__script__loader_8cpp.html#a8a8dca95effdef5c526abbf25caebaa3":[7,0,0,0,1,3,5,14,99],
-"d2/d38/northrend__script__loader_8cpp.html#a8b0a1fb27d5ff72bc68b01743cbfb749":[7,0,0,0,1,3,5,14,67],
-"d2/d38/northrend__script__loader_8cpp.html#a8cf65b7e13935b95a862ced493bc1ebf":[7,0,0,0,1,3,5,14,47],
-"d2/d38/northrend__script__loader_8cpp.html#a8e1c9f5854b05631a7eefcdaf101f50f":[7,0,0,0,1,3,5,14,69]
+"d2/d38/northrend__script__loader_8cpp.html#a8b0a1fb27d5ff72bc68b01743cbfb749":[7,0,0,0,1,3,5,14,67]
 };

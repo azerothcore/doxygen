@@ -1,5 +1,17 @@
 var NAVTREEINDEX317 =
 {
+"dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[6,0,2544,168],
+"dd/d27/structSmartAction.html#a4b7fdd15e89c87f7218727f6cc552a34":[6,0,2544,199],
+"dd/d27/structSmartAction.html#a4bbed4b650e554fb563d4f8df377c270":[6,0,2544,81],
+"dd/d27/structSmartAction.html#a4d2590113e86696ca8fd7302931c48d6":[6,0,2544,102],
+"dd/d27/structSmartAction.html#a4e00ac3d4e720f40c28f41daeee21294":[6,0,2544,43],
+"dd/d27/structSmartAction.html#a4e87a3617e2e5c3d556d204a44ad746c":[6,0,2544,36],
+"dd/d27/structSmartAction.html#a4eb962133b4bfa909af1303a361ec895":[6,0,2544,7],
+"dd/d27/structSmartAction.html#a503375a05263f9c5b89fe035d0202d45":[6,0,2544,210],
+"dd/d27/structSmartAction.html#a5044869d5cf7b5ea6068eed53444c24d":[6,0,2544,257],
+"dd/d27/structSmartAction.html#a50722fe60683bdacccc452b512455584":[6,0,2544,113],
+"dd/d27/structSmartAction.html#a50c825333b0bfe2610cc184107117f31":[6,0,2544,246],
+"dd/d27/structSmartAction.html#a510aaa84191680eab41468aceeb90f2d":[6,0,2544,131],
 "dd/d27/structSmartAction.html#a521a12188e00a0691b0398e7fdd47470":[6,0,2544,249],
 "dd/d27/structSmartAction.html#a532ce3027f12b32fbfbd2725520138be":[6,0,2544,25],
 "dd/d27/structSmartAction.html#a53ada39c3f5ce9e1c3b3cbde4f1d4f12":[6,0,2544,83],
@@ -237,17 +249,5 @@ var NAVTREEINDEX317 =
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a7f2ddbf54a4932277ad91eb0036915ab":[6,0,3736,0],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a97f5239399e7135b02000722eaf837ad":[6,0,3736,3],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[6,0,3736,2],
-"dd/d2c/structnpc__midsummer__torch__target.html":[6,0,1957],
-"dd/d2c/structnpc__midsummer__torch__target.html#a165c1c1a406256f5651fb01ef6843531":[6,0,1957,7],
-"dd/d2c/structnpc__midsummer__torch__target.html#a22190728dc2b82db70eeb0caa8531647":[6,0,1957,12],
-"dd/d2c/structnpc__midsummer__torch__target.html#a2abb5371f151c8d3c4f7247c411635a0":[6,0,1957,0],
-"dd/d2c/structnpc__midsummer__torch__target.html#a2c3431cab03347f3f64c95742b2f5a35":[6,0,1957,6],
-"dd/d2c/structnpc__midsummer__torch__target.html#a4d35d972cafccf892bfd3adb255e1c5b":[6,0,1957,3],
-"dd/d2c/structnpc__midsummer__torch__target.html#a72a71ea9db5c4f3aeb3edca285f94935":[6,0,1957,10],
-"dd/d2c/structnpc__midsummer__torch__target.html#a7bbd7251f3cf0ad46c8584b42b41ea6d":[6,0,1957,11],
-"dd/d2c/structnpc__midsummer__torch__target.html#a93a6b9ebbda5685a5d2caa1bc9e06941":[6,0,1957,5],
-"dd/d2c/structnpc__midsummer__torch__target.html#aaf046d64175bcd1382e475843128a139":[6,0,1957,8],
-"dd/d2c/structnpc__midsummer__torch__target.html#ab4b115eb02ce96996e06cafd8a1cd867":[6,0,1957,4],
-"dd/d2c/structnpc__midsummer__torch__target.html#ad25b68318dc06ad9c835e81b73d4a766":[6,0,1957,9],
-"dd/d2c/structnpc__midsummer__torch__target.html#ae5717304f44407fb34713990d15279d4":[6,0,1957,2]
+"dd/d2c/structnpc__midsummer__torch__target.html":[6,0,1957]
 };

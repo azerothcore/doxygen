@@ -1,5 +1,16 @@
 var NAVTREEINDEX301 =
 {
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#aa54d512a3bcf22ba64872bf60ed89ca3":[6,0,420,0,0],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#aba4ed91e1f61ddd1db29509700a4e0c8":[6,0,420,0,7],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ac0467332ad699f9c60cc9dc257d9e1df":[6,0,420,0,12],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ac387b29bcb23f1697bc8b5b1a94e9ee1":[6,0,420,0,10],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad503ae8ea66c964bc5997019c9118856":[6,0,420,0,9],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0":[6,0,420,0,11],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ae3c5c0c1d905c424102a6e3a360d61d7":[6,0,420,0,6],
+"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#aefc761b1142cc6941394a4e3402662d7":[6,0,420,0,8],
+"dc/d39/structnpc__janalai__hatcher.html":[6,0,1897],
+"dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[6,0,1897,10],
+"dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[6,0,1897,0],
 "dc/d39/structnpc__janalai__hatcher.html#a3a0170bc53f9f8f96090e34097b90c2c":[6,0,1897,4],
 "dc/d39/structnpc__janalai__hatcher.html#a4ae2157e37bb93b7465e029e526a6ce4":[6,0,1897,3],
 "dc/d39/structnpc__janalai__hatcher.html#a54c251278dcfa22052b6c6e49a4abd89":[6,0,1897,2],
@@ -238,16 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d4a/classAuctionHouseWorkerThread.html#aecd36ccabd34131c42ec1d7964b8840a":[6,0,265,14],
 "dc/d4a/classAuctionHouseWorkerThread.html#af23c367773406ed52439f21d4b288264":[6,0,265,7],
 "dc/d4a/classAuctionHouseWorkerThread.html#af4d4c4672e67953c7c909174652b99d1":[6,0,265,18],
-"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,265,1],
-"dc/d4b/classArenaSeasonTeamRewarderImpl.html":[6,0,188],
-"dc/d4b/classArenaSeasonTeamRewarderImpl.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee":[6,0,188,2],
-"dc/d4b/classArenaSeasonTeamRewarderImpl.html#a57e1ffbe543a93799d6c26d880e128ad":[6,0,188,1],
-"dc/d4b/classArenaSeasonTeamRewarderImpl.html#a962da3fcdc2feb57ffd2a635d431939a":[6,0,188,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html":[6,0,1778,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a5bb03371b24593ca2de995bf85857782":[6,0,1778,0,1],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a61797329ecddde6da2e23e951fa92ca2":[6,0,1778,0,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a6ced23b3b4150b31020a636559d6eec6":[6,0,1778,0,3],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#aa19c9928e3979bb01d89dc81b8feb4fc":[6,0,1778,0,4],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#ac6e651186c5edfd8e5279ddd38a15eb9":[6,0,1778,0,2],
-"dc/d4c/MiscScript_8h.html":[7,0,0,0,1,2,38,0,65]
+"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,265,1]
 };

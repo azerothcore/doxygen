@@ -1,5 +1,12 @@
 var NAVTREEINDEX106 =
 {
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,0,5],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1430658bbda48d31f8f7c233a1bbfca6":[7,0,0,0,1,3,2,16,0,5,9],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3f9a920d63580614256d4f9441e7d330":[7,0,0,0,1,3,2,16,0,5,0],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5915d30ae12d04f2a5459eeaaf4c2033":[7,0,0,0,1,3,2,16,0,5,7],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,0,5,1],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8abd402345dba872e20ea4cf78433433":[7,0,0,0,1,3,2,16,0,5,8],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97b901d87728b14d6992af585adaca44":[7,0,0,0,1,3,2,16,0,5,6],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,0,5,5],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acd7dec721d0a4badc019ba61162fa21e":[7,0,0,0,1,3,2,16,0,5,4],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae4faee6a0d179d66edb758f5cea7d0ba":[7,0,0,0,1,3,2,16,0,5,3],
@@ -45,14 +52,14 @@ var NAVTREEINDEX106 =
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,21],
 "d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,21,1],
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
-"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
+"d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,27,20,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,27,20,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2295],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[6,0,2295,1],
 "d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2295,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html":[6,0,784,0],
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a115529fcbc5a0c8b57152be49915d575":[6,0,784,0,12],
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a2b6619a51641a82109e98fd4decd22e3":[6,0,784,0,6],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a2f2782926ee9a59fc5188d02347f9ca8":[6,0,784,0,7],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a319095910309b0a78d321c4d33994542":[6,0,784,0,10],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a3a4d81b7a0f3f27f94fea60eff043696":[6,0,784,0,0],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a6e3c14da21d45bb7ddfba25d4487bba7":[6,0,784,0,5],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a8fbc8526e82efea3e2eddedc421b85a2":[6,0,784,0,1],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#aa82280ec0e02924d653b62298ed7e471":[6,0,784,0,14],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#aaa447c1c6092bfc7c1d117d32b2c5673":[6,0,784,0,8],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#aaa5d90d3940c84adebce772c594b0ee2":[6,0,784,0,13]
+"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#a2f2782926ee9a59fc5188d02347f9ca8":[6,0,784,0,7]
 };

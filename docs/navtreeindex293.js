@@ -1,5 +1,16 @@
 var NAVTREEINDEX293 =
 {
+"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714":[7,0,0,0,1,2,45,1,0,1],
+"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c":[7,0,0,0,1,2,45,1,0,4],
+"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748":[7,0,0,0,1,2,45,1,0,0],
+"db/dfa/CharacterDatabaseCleaner_8h.html#ae5939466cf9b4fbb63eb136baf62767f":[7,0,0,0,1,2,45,1,3],
+"db/dfa/CharacterDatabaseCleaner_8h.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[7,0,0,0,1,2,45,1,5],
+"db/dfa/CharacterDatabaseCleaner_8h.html#afe5cf638b3ba626c9dc18258d4c528fa":[7,0,0,0,1,2,45,1,1],
+"db/dfa/classnpc__barnes.html":[6,0,1629],
+"db/dfa/classnpc__barnes.html#a47cafa3628d2ca99582140f2a72ff8db":[6,0,1629,3],
+"db/dfa/classnpc__barnes.html#a4e349ede566d9be90b82e7ebd9d71de3":[6,0,1629,2],
+"db/dfa/classnpc__barnes.html#aa04d577e318f16f581f82761b6014eb5":[6,0,1629,4],
+"db/dfa/classnpc__barnes.html#aacdc737a94397a90b48b635293fe9c80":[6,0,1629,1],
 "db/dfa/classnpc__drakuru__shackles.html":[6,0,1748],
 "db/dfa/classnpc__drakuru__shackles.html#a2b15a214b34d86597cba09b17654e4ff":[6,0,1748,1],
 "db/dfa/classnpc__drakuru__shackles.html#a90ce98de4630771858cd3b79264a28f9":[6,0,1748,2],
@@ -236,18 +247,7 @@ var NAVTREEINDEX293 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#af18eee25feb57f41708801f4d772a1ee":[6,0,608,0,13],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#afb7d93501d3559e4163b207bfb9b0d78":[6,0,608,0,12],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#affb313b502fbebaa6937fc3f2a380906":[6,0,608,0,21],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,30,8,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,8,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,30,8,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,8,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,8,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,30,8,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,30,8,1,0],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[6,0,11,8,1,0],
-"db/dfd/classboss__anubarak__trial.html":[6,0,375],
-"db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[6,0,375,1],
-"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[6,0,375,2],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[6,0,1307,0],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[6,0,1307,0,0],
-"db/dfe/GroupReference_8h.html":[7,0,0,0,1,2,20,5]
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,30,8,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,8,1,1]
 };

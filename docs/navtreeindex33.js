@@ -1,5 +1,7 @@
 var NAVTREEINDEX33 =
 {
+"d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7":[7,0,0,0,1,3,2,1,1,12,6],
+"d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7a2dcee5dafe443589a30436d07c5a7858":[7,0,0,0,1,3,2,1,1,12,6,2],
 "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7a5f756bc946db358d3d20ce9b3ff1cffd":[7,0,0,0,1,3,2,1,1,12,6,1],
 "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7ab652dbca9c4dc475326463e0e5305849":[7,0,0,0,1,3,2,1,1,12,6,0],
 "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7acd14c398ef3e21a7ddeb5ad915eb8b2c":[7,0,0,0,1,3,2,1,1,12,6,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#ad991969f074942e8dc056fe976616167":[6,0,731,0,12],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#af11a6843b9fe20b8c65662000c9b64fa":[6,0,731,0,6],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#af61b75f397e1abbebab96feb18921fd0":[6,0,731,0,25],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#af9f83d760aac6bdbc8becca4112e0cba":[6,0,731,0,22],
-"d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html":[6,0,2033,0],
-"d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2033,0,2]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#af9f83d760aac6bdbc8becca4112e0cba":[6,0,731,0,22]
 };

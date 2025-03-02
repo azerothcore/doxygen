@@ -1,5 +1,12 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,5,4],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,1,2,5,4,2],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[7,0,0,0,1,3,2,1,2,5,4,0],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375":[7,0,0,0,1,3,2,1,2,5,4,1],
+"d5/dd8/boss__flamegor_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,1,2,5,5],
+"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,5,3],
+"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80":[7,0,0,0,1,3,2,1,2,5,3,1],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfbd0b3d8c5edf866b4b7b17adf6ade3":[7,0,0,0,1,3,2,1,2,5,3,2],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[7,0,0,0,1,3,2,1,2,5,3,0],
 "d5/dd8/structCreatureAddon.html":[6,0,909],
@@ -242,12 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,2966,2],
 "d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[6,0,2966,1],
 "d5/de9/classspell__gen__profession__research.html#ace75db8a6e5628df6e2edba91cd2852f":[6,0,2966,3],
-"d5/de9/classspell__gen__profession__research.html#ad967ae7e2affa312fa4adbca6e86dd7c":[6,0,2966,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[6,0,1331,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[6,0,1331,0,25],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[6,0,1331,0,4],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1331,0,23],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[6,0,1331,0,32],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1331,0,10],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a1deb1d344704fa07ab78ad29f21814e4":[6,0,1331,0,21]
+"d5/de9/classspell__gen__profession__research.html#ad967ae7e2affa312fa4adbca6e86dd7c":[6,0,2966,0]
 };

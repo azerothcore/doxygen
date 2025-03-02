@@ -1,5 +1,7 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/classSpell.html#af890373332a648814bfbba21a37f1f1f":[6,0,2564,174],
+"d1/d16/classSpell.html#af8a30a5113889306c0203f4a4298080f":[6,0,2564,57],
 "d1/d16/classSpell.html#af8acb84fff17bfa7b69025b62837f595":[6,0,2564,28],
 "d1/d16/classSpell.html#af8e7a207583b68ff524b4372e995664a":[6,0,2564,309],
 "d1/d16/classSpell.html#af97ca254b2dc780cfe73f8567f30b03d":[6,0,2564,26],
@@ -43,18 +45,18 @@ var NAVTREEINDEX26 =
 "d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,109],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,121],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,109,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,109],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,121,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,109,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,109,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,121,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,109,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,121,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,121,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,109,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,121,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,121,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,109,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,121,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,1,121,4],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,109,4],
 "d1/d17/classArenaSeasonMgr.html":[6,0,182],
@@ -247,7 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a03dc036009e77d212989139d5aeade67":[6,0,1284,0,2],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a047cc4a84be28f4d420171a1f4404143":[6,0,1284,0,39],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a0531b4a8b1ba834e2a2ce44f7260f86f":[6,0,1284,0,44],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a065aed5af761f91ded4c434acdbb0442":[6,0,1284,0,27],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a0b8c33edf87ac425c6a901c50bfcb7a2":[6,0,1284,0,46],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a10b105c8f3b6ee78a0c1f2f4ed2d9c48":[6,0,1284,0,52]
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a065aed5af761f91ded4c434acdbb0442":[6,0,1284,0,27]
 };

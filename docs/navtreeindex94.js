@@ -1,5 +1,12 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48":[7,0,0,0,1,0,0,2,0,13,0],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc":[7,0,0,0,1,0,0,2,0,13,4],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3":[7,0,0,0,1,0,0,2,0,13,3],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4":[7,0,0,0,1,0,0,2,0,13,2],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7":[7,0,0,0,1,0,0,2,0,13,6],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5":[7,0,0,0,1,0,0,2,0,13,8],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e":[7,0,0,0,1,0,0,2,0,13,1],
 "d3/d1f/AuthSession_8cpp.html#a38c5f396c839f5f22ec0ec7a5b2a5019":[7,0,0,0,1,0,0,2,0,5],
 "d3/d1f/AuthSession_8cpp.html#a887a26fd84a0bf97f1016de6aeba4d4e":[7,0,0,0,1,0,0,2,0,14],
 "d3/d1f/AuthSession_8cpp.html#ab50c6b56b4c56513ab11e4bee50a0116":[7,0,0,0,1,0,0,2,0,9],
@@ -242,12 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#a5c06c412d38203bb10e9951e27d5760a":[6,0,2218,0,4],
 "d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#ac197b53bc03fd8bdf44b8b2e2a64f568":[6,0,2218,0,6],
 "d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#ad92f69d2a63313798e16cfbaf55301ca":[6,0,2218,0,10],
-"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#ae829e62ec342c1e0d12a523506ea6b04":[6,0,2218,0,8],
-"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8":[6,0,2218,0,11],
-"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af961f02169ab700716410e26114fd857":[6,0,2218,0,9],
-"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba":[6,0,2218,0,3],
-"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html":[6,0,3811],
-"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a4786e0c38f03f7e671174d0641526681":[6,0,3811,0],
-"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a7d260468f409a7fb41a39f80db5f9d63":[6,0,3811,1],
-"d3/d28/classspell__tharon__ja__clear__gift__of__tharon__ja.html#a943117bfb56b846e99d04bd9a348af8d":[6,0,3811,2]
+"d3/d27/structnpc__ulduar__hodir__shaman_1_1npc__ulduar__hodir__shamanAI.html#ae829e62ec342c1e0d12a523506ea6b04":[6,0,2218,0,8]
 };

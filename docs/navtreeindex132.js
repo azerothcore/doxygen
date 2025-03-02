@@ -1,5 +1,12 @@
 var NAVTREEINDEX132 =
 {
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a09b80e739e4df6e751c9c2846f3fb999":[6,0,1772,0,7],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a10395930fed95fb7809a0b5ffe224c4d":[6,0,1772,0,1],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a2b1af0402dc1b4940534d2e60d7ef33e":[6,0,1772,0,2],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a6d317407c2de2f954b5dd2a6db137304":[6,0,1772,0,6],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a97e00db40792c559dd06327c9960abe4":[6,0,1772,0,9],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#a97e32d32a692f223b96746f3ef1086c5":[6,0,1772,0,5],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#aab35078fe4518b6647f98e316d02898a":[6,0,1772,0,3],
 "d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#ab8105d6c8c70037c208c83c13c35242d":[6,0,1772,0,4],
 "d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#ad70d0aeba4b73330c5087bc84a533389":[6,0,1772,0,0],
 "d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#af23061de7d8566c7435c2c64c53dff89":[6,0,1772,0,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516acfc09932c04ed23f85851887d6840a49":[7,0,0,0,1,3,5,9,2,7,38,4],
 "d4/da9/boss__ignis_8cpp.html#a25b554ac7af8a41a4bac1ccd161c572f":[7,0,0,0,1,3,5,9,2,7,16],
 "d4/da9/boss__ignis_8cpp.html#a40a409e6bd4d7ddede3d95cf80a2c8d9":[7,0,0,0,1,3,5,9,2,7,34],
-"d4/da9/boss__ignis_8cpp.html#a57d2f0afe71574d54563c8842e4072f9":[7,0,0,0,1,3,5,9,2,7,32],
-"d4/da9/boss__ignis_8cpp.html#a608c57aaa4b51807b1af1425e979768e":[7,0,0,0,1,3,5,9,2,7,41],
-"d4/da9/boss__ignis_8cpp.html#a6ad648550903dce98092287f8560062e":[7,0,0,0,1,3,5,9,2,7,11],
-"d4/da9/boss__ignis_8cpp.html#a83a21c4627bc2ee3c8a08fca83bd4994":[7,0,0,0,1,3,5,9,2,7,12],
-"d4/da9/boss__ignis_8cpp.html#a897638e3f30d69cfd96d738cf1144d1c":[7,0,0,0,1,3,5,9,2,7,26],
-"d4/da9/boss__ignis_8cpp.html#a943c5a3fae15cbe412506de21dfc60e5":[7,0,0,0,1,3,5,9,2,7,39],
-"d4/da9/boss__ignis_8cpp.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34":[7,0,0,0,1,3,5,9,2,7,39,3],
-"d4/da9/boss__ignis_8cpp.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695":[7,0,0,0,1,3,5,9,2,7,39,2]
+"d4/da9/boss__ignis_8cpp.html#a57d2f0afe71574d54563c8842e4072f9":[7,0,0,0,1,3,5,9,2,7,32]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffadef80adb8a277b51e48a1315b7192d6c":[7,0,0,0,1,3,5,15,42,6],
+"d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffae0289b6709043bf43b5027a27c618092":[7,0,0,0,1,3,5,15,42,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffaf3ea19c798b6e865604188d43c15b725":[7,0,0,0,1,3,5,15,42,2],
+"d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffaf4f9d42e3f74e7343e2825e56eb16584":[7,0,0,0,1,3,5,15,42,4],
+"d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7db":[7,0,0,0,1,3,5,15,41],
+"d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7dba1f05bf3457b0197120302f1eb044c62e":[7,0,0,0,1,3,5,15,41,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7dba4646f646b8db0c36454e08ce37c53ee0":[7,0,0,0,1,3,5,15,41,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37":[7,0,0,0,1,3,5,15,49],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22":[7,0,0,0,1,3,5,15,49,6],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab":[7,0,0,0,1,3,5,15,49,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d13/MovementHandlerScript_8h.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326":[7,0,0,0,1,2,38,0,69,1,0],
 "d3/d13/MovementHandlerScript_8h.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c":[7,0,0,0,1,2,38,0,69,1,1],
 "d3/d13/namespaceCharacterDatabaseCleaner.html":[5,0,11],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#a02688f57778d28a7bcc4ca6cee2074ad":[5,0,11,10],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#a0f72cf24646d1ece0eb793890840992d":[5,0,11,9],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#a344f61fb209b507b775a0bbfb1315fac":[5,0,11,7],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#a357c8a07f912c6efb55a13cc9bc089b9":[5,0,11,8],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#a9f512823f852120bf4c3ec78eb4bbeaa":[5,0,11,4],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#aac707369555aa95807c11b1578ae80d2":[5,0,11,11],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ab98182e5f92f72090600314cc41f0d39":[5,0,11,2],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#aca5826d283031348e5d6ae6eb75ad605":[5,0,11,6]
+"d3/d13/namespaceCharacterDatabaseCleaner.html#a02688f57778d28a7bcc4ca6cee2074ad":[5,0,11,10]
 };
