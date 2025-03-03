@@ -1,5 +1,14 @@
 var NAVTREEINDEX288 =
 {
+"db/dd3/icecrown__citadel_8cpp.html#a9e10ff7a5091df40c01d8b8ee1c0aea5":[7,0,0,0,1,3,5,6,12,78],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,6,12,91],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0dd08b5c6ed3ad1a81b66457066ae278":[7,0,0,0,1,3,5,6,12,91,7],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0e93cf6e4c5912afcda5cdad8aac7ef9":[7,0,0,0,1,3,5,6,12,91,25],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a10a315b928da7b3eca780c9b713267af":[7,0,0,0,1,3,5,6,12,91,23],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a13e19d57f21075e91ee977102ec9b3f7":[7,0,0,0,1,3,5,6,12,91,35],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a14b2d2a857f743fe5aeeb1026b3821f6":[7,0,0,0,1,3,5,6,12,91,15],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1b5afd7818504ea80021503454398ccb":[7,0,0,0,1,3,5,6,12,91,4],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1f5344cdbc8b536430e9cd14a9663f2e":[7,0,0,0,1,3,5,6,12,91,20],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a323e7728de057b71bf1fd03172eafa88":[7,0,0,0,1,3,5,6,12,91,27],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a412b345a3d4e3c9a3ded723d1fcd0df5":[7,0,0,0,1,3,5,6,12,91,43],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50eb787c2b624c33fe1362c7e34c427c":[7,0,0,0,1,3,5,6,12,91,36],
@@ -240,14 +249,5 @@ var NAVTREEINDEX288 =
 "db/dd5/classCreature.html#a804ebf801404df64612628545e87f0db":[6,0,907,42],
 "db/dd5/classCreature.html#a8127401b1a832cca416fa63f6a705a3d":[6,0,907,39],
 "db/dd5/classCreature.html#a8239facb1f9d6ac1041ef30d022d6698":[6,0,907,112],
-"db/dd5/classCreature.html#a83da0a8b21cedf8eaef8f34d63c9d4cb":[6,0,907,283],
-"db/dd5/classCreature.html#a8547005ac66de0dcd1e64a7958a32be7":[6,0,907,83],
-"db/dd5/classCreature.html#a8615af8d99800a1f76bcea8adda41f7f":[6,0,907,267],
-"db/dd5/classCreature.html#a868b09fcb142556e68af4a335930dadc":[6,0,907,262],
-"db/dd5/classCreature.html#a87b6d6ec4f245c550c48c57325fe44dd":[6,0,907,132],
-"db/dd5/classCreature.html#a88e69585fa6f15f2b98335cd8db20812":[6,0,907,139],
-"db/dd5/classCreature.html#a89efc955a7e5bd96aca5cbf3e2f40780":[6,0,907,294],
-"db/dd5/classCreature.html#a8a7e8cd058a2ae88cd81628e31119e91":[6,0,907,282],
-"db/dd5/classCreature.html#a8bdc5ca164a209df25c5f13868b407a8":[6,0,907,278],
-"db/dd5/classCreature.html#a8be835ff19d38759cece98685a26526a":[6,0,907,99]
+"db/dd5/classCreature.html#a83da0a8b21cedf8eaef8f34d63c9d4cb":[6,0,907,283]
 };

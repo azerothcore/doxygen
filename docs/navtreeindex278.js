@@ -1,5 +1,13 @@
 var NAVTREEINDEX278 =
 {
+"db/d82/classFlightPathMovementGenerator.html#aa83bc85f1b6cd6d5367d745ae31cc6fc":[6,0,1047,19],
+"db/d82/classFlightPathMovementGenerator.html#abd78eb2841908da8c3c18936d80f18e9":[6,0,1047,5],
+"db/d82/classFlightPathMovementGenerator.html#ac7bb92b99dc57a2b53b0a55e0a797678":[6,0,1047,14],
+"db/d82/classFlightPathMovementGenerator.html#ad4a14cf3b7497cf30e6305d52d94ecdb":[6,0,1047,11],
+"db/d82/classFlightPathMovementGenerator.html#ae21613bcea0003b186b08761aaf525aa":[6,0,1047,13],
+"db/d82/classFlightPathMovementGenerator.html#ae2cc924b7dd5252c1cb8fcf8679b7786":[6,0,1047,10],
+"db/d82/classFlightPathMovementGenerator.html#af4017ff6e47601f667587fb7dd6a721c":[6,0,1047,3],
+"db/d82/classFlightPathMovementGenerator.html#af7f2a72e9cf20bf105204b8de08400de":[6,0,1047,2],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html":[6,0,2615],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#a54b1de501bdf3193cdb89125bc1ceb0e":[6,0,2615,1],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#a985ad6d7eca06fbaf869e591136f46a3":[6,0,2615,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX278 =
 "db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfab3fc8ce58ee6fba527b75f2a293031d8":[7,0,0,0,1,2,16,4,6,43,17],
 "db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfac60158a12a935b4b26e2ae9121bb886c":[7,0,0,0,1,2,16,4,6,43,8],
 "db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfad0f48e9ddce56dbe7338df9f77317a6d":[7,0,0,0,1,2,16,4,6,43,10],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfad1576840279d0ddbe80768e82da597b8":[7,0,0,0,1,2,16,4,6,43,13],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfadc836d3be8ded3d9e661466d1edd2b96":[7,0,0,0,1,2,16,4,6,43,20],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfadd5a8f5fc8afbe6065d87caf7ca5caae":[7,0,0,0,1,2,16,4,6,43,15],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfae789bf6699d2483de75e28c5433af795":[7,0,0,0,1,2,16,4,6,43,25],
-"db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556":[7,0,0,0,1,2,16,4,6,63],
-"db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556a0e2041adefa9c4b36bf9fcc5cc9f6a4f":[7,0,0,0,1,2,16,4,6,63,18],
-"db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556a109fce85f20ce2e44432377b64a7e02c":[7,0,0,0,1,2,16,4,6,63,3],
-"db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556a2002b03871c9e039b2974f016b6a874d":[7,0,0,0,1,2,16,4,6,63,1],
-"db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556a24576aec66372b660e13410cdbe86ea5":[7,0,0,0,1,2,16,4,6,63,14]
+"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfad1576840279d0ddbe80768e82da597b8":[7,0,0,0,1,2,16,4,6,43,13]
 };

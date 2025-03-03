@@ -1,5 +1,14 @@
 var NAVTREEINDEX370 =
 {
+"de/deb/structM2Header.html#a65999bfae38d96013222370f9828c960":[6,0,1456,61],
+"de/deb/structM2Header.html#a6824f28b2b8783473498df9f6ac78115":[6,0,1456,58],
+"de/deb/structM2Header.html#a69b7e6e64cff924b4ce51ee9f0eac0d5":[6,0,1456,41],
+"de/deb/structM2Header.html#a6ab5c0ff4e2b5a8d91fc5a9cd78c08bb":[6,0,1456,65],
+"de/deb/structM2Header.html#a740fce4d96f514f89c6f9d3d8bc9ab35":[6,0,1456,33],
+"de/deb/structM2Header.html#a742550442ebac79aca3ae83bdfdc57e9":[6,0,1456,29],
+"de/deb/structM2Header.html#a7c4d97fe389cb61fa5cc36db86ae689b":[6,0,1456,42],
+"de/deb/structM2Header.html#a862f255ca0c97c7fdf4c9e0049d151ad":[6,0,1456,20],
+"de/deb/structM2Header.html#a876fb458f1092448d292015a826d1b8f":[6,0,1456,64],
 "de/deb/structM2Header.html#a8bde5e8d12371d14bf9915598d2c8f1f":[6,0,1456,62],
 "de/deb/structM2Header.html#a8e68b2699e159da2ab97658ab596700f":[6,0,1456,0],
 "de/deb/structM2Header.html#a8ea82d3a657beb4ccb7a536c7186ec7a":[6,0,1456,63],
@@ -240,14 +249,5 @@ var NAVTREEINDEX370 =
 "de/dfa/classspell__chapter5__rebuke.html":[6,0,2686],
 "de/dfa/classspell__chapter5__rebuke.html#a0f0b30da1c094281375230a6cf411c5e":[6,0,2686,0],
 "de/dfa/classspell__chapter5__rebuke.html#a431fa0b4f479be912507e64fd906d516":[6,0,2686,1],
-"de/dfa/classspell__chapter5__rebuke.html#ac3b7bcfe48c1fe807d2c4deab6be91a8":[6,0,2686,2],
-"de/dfa/classspell__item__make__a__wish.html":[6,0,3222],
-"de/dfa/classspell__item__make__a__wish.html#a054d9083b24183f4427fc0cb4985ba62":[6,0,3222,1],
-"de/dfa/classspell__item__make__a__wish.html#a0a01f5e290b91e58b4b0f8ba443eb7bf":[6,0,3222,4],
-"de/dfa/classspell__item__make__a__wish.html#a5679f34290f90dbcaf15f09eca0fb20f":[6,0,3222,3],
-"de/dfa/classspell__item__make__a__wish.html#aa4904ed55b5e216e0af5e32508372d4e":[6,0,3222,2],
-"de/dfa/classspell__item__make__a__wish.html#ad303a5c1bbbab3766bd5e9ab753b2a01":[6,0,3222,0],
-"de/dfb/namespaceAddonMgr.html":[5,0,2],
-"de/dfb/namespaceAddonMgr.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[5,0,2,0],
-"de/dfb/namespaceAddonMgr.html#a65cb6a88902972060e44c57d7d9ec738":[5,0,2,1]
+"de/dfa/classspell__chapter5__rebuke.html#ac3b7bcfe48c1fe807d2c4deab6be91a8":[6,0,2686,2]
 };

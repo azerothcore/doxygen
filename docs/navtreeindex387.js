@@ -1,5 +1,14 @@
 var NAVTREEINDEX387 =
 {
+"df/da7/classBattleground.html#abab9f0ab1b01d817c0a6002c317c41a6":[6,0,310,177],
+"df/da7/classBattleground.html#abb5be27eaceb660279ced11ee70e35ad":[6,0,310,141],
+"df/da7/classBattleground.html#abbb0c845ac0e2fdbfd37f94fc64c1998":[6,0,310,200],
+"df/da7/classBattleground.html#abc79e32b9a174a873ab93da3ae871cc0":[6,0,310,51],
+"df/da7/classBattleground.html#abcc29b747682ed68180678bde318f1e3":[6,0,310,112],
+"df/da7/classBattleground.html#abd39e8c90785dbb6e5067f21cd982a9a":[6,0,310,239],
+"df/da7/classBattleground.html#abdc79af5823ab0fa1437b0e5eb9b8a4c":[6,0,310,63],
+"df/da7/classBattleground.html#abe08bc432962f1a5f32e0948ae23104d":[6,0,310,105],
+"df/da7/classBattleground.html#abe4a32d5328b63c60b2363c57678d352":[6,0,310,96],
 "df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,310,157],
 "df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,310,226],
 "df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,310,16],
@@ -240,14 +249,5 @@ var NAVTREEINDEX387 =
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[7,0,0,0,1,3,4,1,1,3,2,0],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[7,0,0,0,1,3,4,1,1,3,2,1],
 "df/db6/classspell__dtk__raise__dead__aura.html":[6,0,2820],
-"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[6,0,2820,3],
-"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[6,0,2820,1],
-"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[6,0,2820,2],
-"df/db6/classspell__dtk__raise__dead__aura.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3":[6,0,2820,0],
-"df/db6/classspell__gen__vehicle__scaling.html":[6,0,2999],
-"df/db6/classspell__gen__vehicle__scaling.html#a6feb7c77ba258688a83bdb86e9ee53f8":[6,0,2999,2],
-"df/db6/classspell__gen__vehicle__scaling.html#aaa9a6f31ec57542dcd657874c4eb52aa":[6,0,2999,1],
-"df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c":[6,0,2999,0],
-"df/db7/classspell__azjol__nerub__carrion__beetels.html":[6,0,2611],
-"df/db7/classspell__azjol__nerub__carrion__beetels.html#a1203cbec26f64aa97d10783b567c2d62":[6,0,2611,1]
+"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[6,0,2820,3]
 };

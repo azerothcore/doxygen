@@ -1,5 +1,14 @@
 var NAVTREEINDEX355 =
 {
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277":[7,0,0,0,1,2,15,5,27,2],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[7,0,0,0,1,2,15,5,27,9],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[7,0,0,0,1,2,15,5,27,14],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[7,0,0,0,1,2,15,5,27,0],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[7,0,0,0,1,2,15,5,27,12],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9":[7,0,0,0,1,2,15,5,27,1],
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[7,0,0,0,1,2,15,5,27,4],
+"de/d3d/LFGMgr_8h.html#afd0c41953ace620938ac2509b7622b7e":[7,0,0,0,1,2,15,5,21],
+"de/d3d/classnpc__ulduar__proximity__mine.html":[6,0,2225],
 "de/d3d/classnpc__ulduar__proximity__mine.html#a7d8237b965699004f9df731e357b4020":[6,0,2225,2],
 "de/d3d/classnpc__ulduar__proximity__mine.html#ac33beb07e17712cdda1b3434d9dc8222":[6,0,2225,1],
 "de/d3f/BattlegroundMgr_8cpp.html":[7,0,0,0,1,2,8,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX355 =
 "de/d53/classat__icc__shutdown__traps.html#abb31b3f6d0b159b625d731ac47127005":[6,0,223,1],
 "de/d53/classspell__oscillating__field.html":[6,0,3457],
 "de/d53/classspell__oscillating__field.html#a7702b0e876ab5ccd750d1072ee70ed69":[6,0,3457,3],
-"de/d53/classspell__oscillating__field.html#ac2b2bd2581a638553167d5c8099a70cd":[6,0,3457,2],
-"de/d53/classspell__oscillating__field.html#acb353dbdd050bfc6aa4b4b5f6433dc03":[6,0,3457,0],
-"de/d53/classspell__oscillating__field.html#ad95bc33917e1aa968eedc636f6e3ddcb":[6,0,3457,1],
-"de/d53/classspell__tractor__beam__creator.html":[6,0,3858],
-"de/d53/classspell__tractor__beam__creator.html#a7daa26f4035912bff4811b0bfee35fee":[6,0,3858,2],
-"de/d53/classspell__tractor__beam__creator.html#a846fa43c9907ddb6243c006327757a1c":[6,0,3858,1],
-"de/d53/classspell__tractor__beam__creator.html#abba5817280db6579e3e6e0b964655c6e":[6,0,3858,0],
-"de/d53/structboss__blackheart__the__inciter.html":[6,0,396],
-"de/d53/structboss__blackheart__the__inciter.html#a0648c4bbabf30efd706b973bf8028dbb":[6,0,396,6],
-"de/d53/structboss__blackheart__the__inciter.html#a1e7ca1ade637766d4c6039c50e9c85f7":[6,0,396,2]
+"de/d53/classspell__oscillating__field.html#ac2b2bd2581a638553167d5c8099a70cd":[6,0,3457,2]
 };

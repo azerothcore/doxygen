@@ -1,5 +1,14 @@
 var NAVTREEINDEX358 =
 {
+"de/d71/classgo__ulduar__working__harpoon.html#a164bdd0a9538293699665a821c4f25f3":[6,0,1193,1],
+"de/d71/classgo__ulduar__working__harpoon.html#a9aaaa16f23f07e402f20a048fd69d347":[6,0,1193,0],
+"de/d72/classFollowerAI.html":[6,0,1049],
+"de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[6,0,1049,20],
+"de/d72/classFollowerAI.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00":[6,0,1049,14],
+"de/d72/classFollowerAI.html#a21a4c066ea3d6983c1b6e1f02d24cbae":[6,0,1049,21],
+"de/d72/classFollowerAI.html#a34d732db8b189e0243854ad3b87cb70f":[6,0,1049,9],
+"de/d72/classFollowerAI.html#a4aeb51a87a2ea025fa743243c587d6b2":[6,0,1049,18],
+"de/d72/classFollowerAI.html#a550cfb9b8d6a9ea178a43e3c88d3e778":[6,0,1049,15],
 "de/d72/classFollowerAI.html#a5a78e0409af05f030d1b3b429926773e":[6,0,1049,4],
 "de/d72/classFollowerAI.html#a5e2b9ddccc77bfe5cb8b16323d711c1e":[6,0,1049,1],
 "de/d72/classFollowerAI.html#a6381f756645b8c4a9dc4c30b8c431694":[6,0,1049,17],
@@ -240,14 +249,5 @@ var NAVTREEINDEX358 =
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aba8ad016f0e470b07163fef07b603380":[6,0,1561,0,5],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#ae192a3b38c0ec65cddfce3b95d15555a":[6,0,1561,0,2],
 "de/d76/classnpc__hyjal__jaina.html":[6,0,1854],
-"de/d76/classnpc__hyjal__jaina.html#a47853fa317b1a9325fcbe555867139f6":[6,0,1854,3],
-"de/d76/classnpc__hyjal__jaina.html#a6616aa6c38818770610259312a392a3f":[6,0,1854,1],
-"de/d76/classnpc__hyjal__jaina.html#ab1891f5a2aacf5d9aeb9377bd92393ed":[6,0,1854,2],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html":[6,0,1619,0],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a4b88a85f3344edbdadde0104668509aa":[6,0,1619,0,3],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a7dfdcb2a88930c6b4150f7f7c825a2df":[6,0,1619,0,2],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a85f164a6ba24d7a14d77264441a78f46":[6,0,1619,0,0],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a8b1792a8a405651d602d9ed634f52689":[6,0,1619,0,4],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#aa709ee8919a2d0317d563259c7630c99":[6,0,1619,0,5],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ab2e6d01df033985ac29e963cf2895466":[6,0,1619,0,6]
+"de/d76/classnpc__hyjal__jaina.html#a47853fa317b1a9325fcbe555867139f6":[6,0,1854,3]
 };

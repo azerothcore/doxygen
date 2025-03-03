@@ -1,5 +1,14 @@
 var NAVTREEINDEX378 =
 {
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,30,7,10,0],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[6,0,11,7,10,2],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,30,7,10,2],
+"df/d3e/classlfg_1_1LfgGroupData.html":[5,0,18,2],
+"df/d3e/classlfg_1_1LfgGroupData.html":[6,0,5,2],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[6,0,5,2,12],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[5,0,18,2,12],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[5,0,18,2,4],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[6,0,5,2,4],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[6,0,5,2,20],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[5,0,18,2,20],
 "df/d3e/classlfg_1_1LfgGroupData.html#a39d4b9904d783f85b861f18e08a94526":[6,0,5,2,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX378 =
 "df/d50/boss__keristrasza_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,5,8,1,2,4,5],
 "df/d50/boss__keristrasza_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,8,1,2,4,1],
 "df/d50/boss__keristrasza_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,5,8,1,2,4,2],
-"df/d50/boss__keristrasza_8cpp.html#a94963838fa62017b6c828d31ff1061ee":[7,0,0,0,1,3,5,8,1,2,5],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,1,2,3],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[7,0,0,0,1,3,5,8,1,2,3,2],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,8,1,2,3,5],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[7,0,0,0,1,3,5,8,1,2,3,1],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[7,0,0,0,1,3,5,8,1,2,3,4],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[7,0,0,0,1,3,5,8,1,2,3,0],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[6,0,3805],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[6,0,3805,3]
+"df/d50/boss__keristrasza_8cpp.html#a94963838fa62017b6c828d31ff1061ee":[7,0,0,0,1,3,5,8,1,2,5]
 };

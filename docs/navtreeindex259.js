@@ -1,5 +1,13 @@
 var NAVTREEINDEX259 =
 {
+"da/d9e/classSmartAIMgr.html#a99cb71cb69ba38b8bebd6edbdbf34221":[6,0,2546,16],
+"da/d9e/classSmartAIMgr.html#aa0415cf9d0fbff47974243ec9dc02a5f":[6,0,2546,10],
+"da/d9e/classSmartAIMgr.html#aa81e548346b1192c7db1d5ebf8a91ce3":[6,0,2546,9],
+"da/d9e/classSmartAIMgr.html#ab17b5915ed93c9238e1db244af053313":[6,0,2546,22],
+"da/d9e/classSmartAIMgr.html#abfe39315c88150e426ce1e421a739a14":[6,0,2546,1],
+"da/d9e/classSmartAIMgr.html#ac8bd37889f7c8cd41359f0d81110a42f":[6,0,2546,4],
+"da/d9e/classSmartAIMgr.html#acc1e1ad2f94741f64ec2f1e01326a528":[6,0,2546,8],
+"da/d9e/classSmartAIMgr.html#ad24d5454bfab13924494a83889b16577":[6,0,2546,17],
 "da/d9e/classSmartAIMgr.html#ad29edf0f46841b176529e386a669cba0":[6,0,2546,23],
 "da/d9e/classSmartAIMgr.html#ada782861c6465b53febcb835c201b46b":[6,0,2546,3],
 "da/d9e/classSmartAIMgr.html#adb011836ffb01660a069ced11c24aa81":[6,0,2546,14],
@@ -241,13 +249,5 @@ var NAVTREEINDEX259 =
 "da/da7/structboss__rokmar__the__crackler.html":[6,0,674],
 "da/da7/structboss__rokmar__the__crackler.html#a0aca6a30d045bbea6f434979f4f1d2e9":[6,0,674,0],
 "da/da7/structboss__rokmar__the__crackler.html#ae376e6a96fa07136790f3ed04ee1023b":[6,0,674,1],
-"da/da7/structboss__rokmar__the__crackler.html#aed9cf4a866d5e70647125a08885fb809":[6,0,674,2],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html":[6,0,1727,0],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a308f2f29ec7f9277d102564ff6d39e32":[6,0,1727,0,4],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a32dd4a91841f2e75c8bca109015fc56a":[6,0,1727,0,6],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a3fdcf062b22c08b1dd616dad591a1021":[6,0,1727,0,7],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a6e67cda0b83578818a5e3b34ed9517cf":[6,0,1727,0,5],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#aa03a128068072b85bf0926cdececaaf2":[6,0,1727,0,0],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#aa1c6d513e04253d0b83522c9c1cc2ac8":[6,0,1727,0,8],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ac12adec2cb751e2e41008954bbe20248":[6,0,1727,0,9]
+"da/da7/structboss__rokmar__the__crackler.html#aed9cf4a866d5e70647125a08885fb809":[6,0,674,2]
 };

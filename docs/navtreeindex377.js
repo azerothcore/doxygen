@@ -1,5 +1,14 @@
 var NAVTREEINDEX377 =
 {
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,3,3,2],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,7,3,3,4],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad533e4cc3296f79f2e8dbe5b75cf331f":[7,0,0,0,1,3,5,7,3,3,1],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad600db20c6eedc96962e774ed713a840":[7,0,0,0,1,3,5,7,3,3,3],
+"df/d30/boss__gluth_8cpp.html#a32d0413d6bdf48dc1dabfe0de4df5dc9":[7,0,0,0,1,3,5,7,3,8],
+"df/d30/boss__gluth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,3,5],
+"df/d30/boss__gluth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c96c4428af80e83e2f231e9567ea129":[7,0,0,0,1,3,5,7,3,5,0],
+"df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,3,6],
+"df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca054e7641fedceba9fa11af91f45370f0":[7,0,0,0,1,3,5,7,3,6,1],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca5976a464e37823e47ac33d9a5726ee38":[7,0,0,0,1,3,5,7,3,6,4],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca59a6d5b3f17b8c79eda3b37bc8c86ec7":[7,0,0,0,1,3,5,7,3,6,8],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca63a52cc43d9578dea34c8081de8c6958":[7,0,0,0,1,3,5,7,3,6,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX377 =
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,30,7,10,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[5,0,30,7,10,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[6,0,11,7,10,3],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,11,7,10,0],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,30,7,10,0],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[6,0,11,7,10,2],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,30,7,10,2],
-"df/d3e/classlfg_1_1LfgGroupData.html":[5,0,18,2],
-"df/d3e/classlfg_1_1LfgGroupData.html":[6,0,5,2],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[6,0,5,2,12],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[5,0,18,2,12],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[5,0,18,2,4],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[6,0,5,2,4]
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,11,7,10,0]
 };

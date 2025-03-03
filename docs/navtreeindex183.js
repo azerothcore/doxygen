@@ -1,5 +1,13 @@
 var NAVTREEINDEX183 =
 {
+"d7/d0e/structPassengerInfo.html#a037411c58c414d0c5a39915b7acd578d":[6,0,2365,2],
+"d7/d0e/structPassengerInfo.html#a738a014abc8cb5df525642acc218576b":[6,0,2365,1],
+"d7/d0e/structPassengerInfo.html#acccf504073283011dc32b05a5a87b85a":[6,0,2365,0],
+"d7/d0e/struct__ItemStat.html":[6,0,13],
+"d7/d0e/struct__ItemStat.html#a5a5ee42445d9121f186c084dfbc31425":[6,0,13,1],
+"d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[6,0,13,0],
+"d7/d0f/classPreparedStatement.html":[6,0,2426],
+"d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[6,0,2426,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[6,0,2426,1],
 "d7/d0f/classPreparedStatement.html#a9ed475a188f208344cffd74058b749e2":[6,0,2426,2],
 "d7/d0f/classspell__pri__mind__control.html":[6,0,3512],
@@ -241,13 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dc0b509ffe06922dcec8a51670f63cf":[7,0,0,0,1,3,2,1,3,9,5,4],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,2,1,3,9,5,5],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff71e63988ee36ea0dfb82be3941636":[7,0,0,0,1,3,2,1,3,9,5,0],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298caa870a0450434115486a875748b1516ad":[7,0,0,0,1,3,2,1,3,9,5,7],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298cace00400987bd4444f7fe64180848cf5b":[7,0,0,0,1,3,2,1,3,9,5,2],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298cad7eca6d43ab783ab3f5b8a24e413bae4":[7,0,0,0,1,3,2,1,3,9,5,3],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298caf5269185ad49e0b10a95a4c29601d993":[7,0,0,0,1,3,2,1,3,9,5,6],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,3,9,4],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19362bda3b38cc36d3ddf01bd859e7aa":[7,0,0,0,1,3,2,1,3,9,4,7],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3f9a920d63580614256d4f9441e7d330":[7,0,0,0,1,3,2,1,3,9,4,5],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a73b6fcb1acea2e9153575f0e6881a6e7":[7,0,0,0,1,3,2,1,3,9,4,6],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a76ae43bf1e7444b2b2353ba96988e111":[7,0,0,0,1,3,2,1,3,9,4,2]
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298caa870a0450434115486a875748b1516ad":[7,0,0,0,1,3,2,1,3,9,5,7]
 };

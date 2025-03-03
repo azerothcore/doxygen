@@ -1,5 +1,14 @@
 var NAVTREEINDEX359 =
 {
+"de/d76/classnpc__hyjal__jaina.html#a6616aa6c38818770610259312a392a3f":[6,0,1854,1],
+"de/d76/classnpc__hyjal__jaina.html#ab1891f5a2aacf5d9aeb9377bd92393ed":[6,0,1854,2],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html":[6,0,1619,0],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a4b88a85f3344edbdadde0104668509aa":[6,0,1619,0,3],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a7dfdcb2a88930c6b4150f7f7c825a2df":[6,0,1619,0,2],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a85f164a6ba24d7a14d77264441a78f46":[6,0,1619,0,0],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a8b1792a8a405651d602d9ed634f52689":[6,0,1619,0,4],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#aa709ee8919a2d0317d563259c7630c99":[6,0,1619,0,5],
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ab2e6d01df033985ac29e963cf2895466":[6,0,1619,0,6],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ada44600272b19d9416d957bc52bc3be4":[6,0,1619,0,1],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html":[6,0,1296,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[6,0,1296,0,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX359 =
 "de/d7f/structboss__yazzai.html#ab504de0e51a3715485eb65e006352a6f":[6,0,783,1],
 "de/d80/ServerScript_8cpp.html":[7,0,0,0,1,2,38,0,76],
 "de/d80/ServerScript_8cpp.html#ab647e167a3a2438bcbf1e445e37a9747":[7,0,0,0,1,2,38,0,76,0],
-"de/d80/classAuraScript_1_1EffectSplitHandler.html":[6,0,284,14],
-"de/d80/classAuraScript_1_1EffectSplitHandler.html#a181c0f987789f3725e7ba7e023cfc4e7":[6,0,284,14,2],
-"de/d80/classAuraScript_1_1EffectSplitHandler.html#a1e31c0f06961aba66f6737c4b4aca7f6":[6,0,284,14,0],
-"de/d80/classAuraScript_1_1EffectSplitHandler.html#ae0ef79af01cce82ed3cbe208d98b325a":[6,0,284,14,1],
-"de/d80/classPetitionMgr.html":[6,0,2380],
-"de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb":[6,0,2380,3],
-"de/d80/classPetitionMgr.html#a0175d79b865a34bc1451bb6c748d785f":[6,0,2380,2],
-"de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[6,0,2380,1],
-"de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8":[6,0,2380,0],
-"de/d80/classPetitionMgr.html#a289f09d808c81b5ada9b26e98260f5be":[6,0,2380,14]
+"de/d80/classAuraScript_1_1EffectSplitHandler.html":[6,0,284,14]
 };

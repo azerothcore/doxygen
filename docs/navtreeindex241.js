@@ -1,5 +1,13 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53aee71bfe8eed55c4485ea1c65ca84c557":[7,0,0,0,1,3,5,9,0,3,9,3],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ec":[7,0,0,0,1,3,5,9,0,3,10],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca20e3ee16669c29eea1487c57e8cad11f":[7,0,0,0,1,3,5,9,0,3,10,1],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca61e72c56ac632a7cead1c2ded4581569":[7,0,0,0,1,3,5,9,0,3,10,3],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca6be9aaac2d0ece39335d70b587cf5e82":[7,0,0,0,1,3,5,9,0,3,10,4],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca860fbfbef46f69ee9a0aa899e040991e":[7,0,0,0,1,3,5,9,0,3,10,5],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaa7eba26f13cb62deb289afdbf2a512c4":[7,0,0,0,1,3,5,9,0,3,10,2],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d":[7,0,0,0,1,3,5,9,0,3,10,0],
 "d9/dc6/classspell__warl__demonic__circle__summon.html":[6,0,3906],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a06e45d5f63ef1395b5949482e8393098":[6,0,3906,2],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a92f2bb73ec58832eaada3c7140f7868d":[6,0,3906,1],
@@ -39,10 +47,10 @@ var NAVTREEINDEX241 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a8d295797e21c03e7d2c3d504c40ba128":[6,0,1823,0,1],
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a92e3f116260265a2d0dbeef769eee03e":[6,0,1823,0,7],
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#aabe03dbe5652db6687e7f2857ea33a20":[6,0,1823,0,0],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#ac3ad9df40560ba8acfcd7fbabd303fde":[6,0,1823,0,4],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#ac82987f2b2b069b90c509c477004bae6":[6,0,1823,0,5],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#afcc510b0d4be10ed057d1a304b803b69":[6,0,1823,0,9],
-"d9/dd2/MapInstanced_8cpp.html":[7,0,0,0,1,2,26,4],
-"d9/dd2/classtitles__commandscript.html":[6,0,4104],
-"d9/dd2/classtitles__commandscript.html#a2001bcc2eddc5688d57154f9906218e4":[6,0,4104,4],
-"d9/dd2/classtitles__commandscript.html#a2a44d6f83bc5617a25a53b18fbd35e32":[6,0,4104,2],
-"d9/dd2/classtitles__commandscript.html#a9517b10295b856779cdd067234f640c8":[6,0,4104,5],
-"d9/dd2/classtitles__commandscript.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d":[6,0,4104,3]
+"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#ac3ad9df40560ba8acfcd7fbabd303fde":[6,0,1823,0,4]
 };

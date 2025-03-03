@@ -1,5 +1,14 @@
 var NAVTREEINDEX384 =
 {
+"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4040,19],
+"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4040,14],
+"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4040,10],
+"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[6,0,4040,70],
+"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[6,0,4040,9],
+"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4040,29],
+"df/d92/classnpc__frostwing__vrykul.html":[6,0,1791],
+"df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[6,0,1791,2],
+"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1791,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html":[6,0,1868,0],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[6,0,1868,0,5],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1868,0,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX384 =
 "df/d9b/structboss__jarien.html#a2e54c5ae404be944eeff3a57c96aa8ca":[6,0,553,2],
 "df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,553,3],
 "df/d9b/structboss__jarien.html#a8b9f1f2e7e45adf8df436b5c71555272":[6,0,553,1],
-"df/d9b/structboss__jarien.html#aa88435f313dc2b7880bca8f4cdb7a537":[6,0,553,7],
-"df/d9b/structboss__jarien.html#ab6590cf6626a12e804520b2cde84a93e":[6,0,553,4],
-"df/d9b/structboss__jarien.html#abce9540798dbae1026d1c74bfeb111a6":[6,0,553,8],
-"df/d9b/structboss__jarien.html#ac85ca96b42aa5115500bd24454f84209":[6,0,553,5],
-"df/d9b/structboss__jarien.html#acf7157ec7af7356beddc8a2429177b95":[6,0,553,6],
-"df/d9b/structboss__jarien.html#ae0c943c970990b055ebc8c31d81a7198":[6,0,553,10],
-"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html":[6,0,2198,0],
-"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#a1174c827aef1b05603214e4717c78f8a":[6,0,2198,0,2],
-"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#a8f5dfe54a5ac1d7a058c5efb9bead77a":[6,0,2198,0,0],
-"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#aac4c1e3bc635b30f1ceed8b25f2c7829":[6,0,2198,0,1]
+"df/d9b/structboss__jarien.html#aa88435f313dc2b7880bca8f4cdb7a537":[6,0,553,7]
 };

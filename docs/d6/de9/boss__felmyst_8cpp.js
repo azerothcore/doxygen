@@ -11,17 +11,20 @@ var boss__felmyst_8cpp =
     [ "Misc", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ACTION_START_EVENT", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "POINT_GROUND", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71", null ],
+      [ "POINT_TAKEOFF", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0", null ],
       [ "POINT_AIR", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a562f9786bd3b2978337babac1240a22b", null ],
+      [ "POINT_AIR_UP", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5812dc3a6ded0cbbf87ab083259e0787", null ],
+      [ "POINT_LANE", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a06e40e13c3be8d3efb6a355b7b975287", null ],
       [ "POINT_AIR_BREATH_START1", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b9cbb64cba3bb8333ecb8b0caddf83b", null ],
-      [ "POINT_AIR_BREATH_END1", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac8269f1bb7014fd231608ee42de3a9f7", null ],
+      [ "POINT_AIR_BREATH_END", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a729cac5321d343dd985df52ceeddf35b", null ],
       [ "POINT_AIR_BREATH_START2", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a748a2f6dc45352eb37327da0aaedc0a2", null ],
-      [ "POINT_AIR_BREATH_END2", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad00c887017a04eb21757f8039bf0c6a3", null ],
       [ "POINT_MISC", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e83c596817726cf2ebf4e2c63ed89d1", null ],
       [ "POINT_KALECGOS", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae28afffba3897232433dfda687d84c90", null ],
       [ "GROUP_START_INTRO", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587", null ],
       [ "GROUP_BREATH", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1", null ],
       [ "NPC_FOG_TRIGGER", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af", null ],
-      [ "NPC_KALECGOS_FELMYST", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1e303b4d4bf9ea5161f503fcfdb062e", null ]
+      [ "NPC_KALECGOS_FELMYST", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1e303b4d4bf9ea5161f503fcfdb062e", null ],
+      [ "NPC_WORLD_TRIGGER_RIGHT", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a350b4672450d7269211c926ef5605dc9", null ]
     ] ],
     [ "Spells", "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_NOXIOUS_FUMES", "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298caa9fc685a6ef352b11a2cad3109b5c4e2", null ],
@@ -50,5 +53,10 @@ var boss__felmyst_8cpp =
       [ "YELL_DEATH", "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab0554bb474effa5a810d32f250d0c1e5", null ],
       [ "EMOTE_BREATH", "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162", null ]
     ] ],
-    [ "AddSC_boss_felmyst", "d6/de9/boss__felmyst_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f", null ]
+    [ "AddSC_boss_felmyst", "d6/de9/boss__felmyst_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f", null ],
+    [ "LandingPos", "d6/de9/boss__felmyst_8cpp.html#a573c8806b9a68f2af1be0242c8b4271e", null ],
+    [ "LeftSide", "d6/de9/boss__felmyst_8cpp.html#a7ace75e83b69bcf1c98d2e8fa8a9e983", null ],
+    [ "LeftSideLanes", "d6/de9/boss__felmyst_8cpp.html#a4e49dd316fb0b3871e52ae3697488110", null ],
+    [ "RightSide", "d6/de9/boss__felmyst_8cpp.html#ad94a5faef2df17e5f5196918c5037ed4", null ],
+    [ "RightSideLanes", "d6/de9/boss__felmyst_8cpp.html#a61f0c5e01fc21db1dd23dd19dcfb6d3b", null ]
 ];

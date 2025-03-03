@@ -1,5 +1,13 @@
 var NAVTREEINDEX211 =
 {
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a2214b10da042a3af2fd3311872cc5286":[6,0,3717,1],
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a3766e5ed1f75c242f45b24c90eef7e11":[6,0,3717,0],
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a67d4b92cc494b6081247a90e8d4c9628":[6,0,3717,4],
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a6ac1d4f1d82aabb39526aca92636a41f":[6,0,3717,3],
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a9959966856601f79a83931a7a7ecff91":[6,0,3717,2],
+"d8/d3a/structItemSetEntry.html":[6,0,1387],
+"d8/d3a/structItemSetEntry.html#a58d0997a73cf48061545edbc0201f544":[6,0,1387,4],
+"d8/d3a/structItemSetEntry.html#a8496a2f3fa3e230def04b996fc585760":[6,0,1387,1],
 "d8/d3a/structItemSetEntry.html#a8aac032992efe1bfbba0e49693562c7f":[6,0,1387,5],
 "d8/d3a/structItemSetEntry.html#a9b62f843833d524f200782d44151503d":[6,0,1387,2],
 "d8/d3a/structItemSetEntry.html#ab3058ac725fb8f105b9359d5a5147942":[6,0,1387,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d4b/classObject.html#aeff5b9b739f39137cb0c5d83a1a50457":[6,0,2304,18],
 "d8/d4b/classObject.html#af01444effe1f5da6942ad6d597bd0e48":[6,0,2304,88],
 "d8/d4b/classObject.html#af053cb79afcecda74e5525815941e9f9":[6,0,2304,97],
-"d8/d4b/classObject.html#af0930b68d7e83e9200e110722d012aa0":[6,0,2304,53],
-"d8/d4b/classObject.html#af2a0d1358ff1532ac3cdb78b357f2fd0":[6,0,2304,115],
-"d8/d4b/classObject.html#af3b5cd7a9a24ddde484344200cf83281":[6,0,2304,2],
-"d8/d4b/classObject.html#af4f98f3e36c6dba78b0f69011d426cd8":[6,0,2304,91],
-"d8/d4b/classObject.html#af7b6a5afebd7c3297e369213be44e059":[6,0,2304,37],
-"d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8":[6,0,2304,104],
-"d8/d4b/classObject.html#afe31cbf34c193dd79f1fa6136ddd5767":[6,0,2304,29],
-"d8/d4b/classObject.html#afe65b1ab32dbcd51890b754fb8b5e1b0":[6,0,2304,75],
-"d8/d4c/classgo__main__chambers__access__panel.html":[6,0,1151]
+"d8/d4b/classObject.html#af0930b68d7e83e9200e110722d012aa0":[6,0,2304,53]
 };

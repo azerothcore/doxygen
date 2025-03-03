@@ -1,5 +1,14 @@
 var NAVTREEINDEX372 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abfc1ea9e0deff82c8a2a17aaa321c334":[7,0,0,0,1,3,2,1,1,0,4,12],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ac6f023117b06956b89d5321f6a92fd43":[7,0,0,0,1,3,2,1,1,0,4,11],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2acd4cc17928b16bacf1a297d083a19410":[7,0,0,0,1,3,2,1,1,0,4,9],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ad275e687a5d319f598f188bdb911e078":[7,0,0,0,1,3,2,1,1,0,4,29],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ae68bca430acc6be49bc598751269aea2":[7,0,0,0,1,3,2,1,1,0,4,14],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2af92bf5ef8ec2b9dae449cf6d9c1d6f71":[7,0,0,0,1,3,2,1,1,0,4,18],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2afce8a1914c4dc4ea350b0b11547a4ecc":[7,0,0,0,1,3,2,1,1,0,4,2],
+"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651":[7,0,0,0,1,3,2,1,1,0,3],
+"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a04a798596253400e56aa5d0bc400fde5":[7,0,0,0,1,3,2,1,1,0,3,0],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a2bb5be33f037d886f8df2406455fb2ef":[7,0,0,0,1,3,2,1,1,0,3,6],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a3d76a0781f88ad5ad001c8e70b5d6ce5":[7,0,0,0,1,3,2,1,1,0,3,7],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a487f2d32f03a1835e30c42ab2023c696":[7,0,0,0,1,3,2,1,1,0,3,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX372 =
 "df/d15/Totem_8h.html":[7,0,0,0,1,2,16,8,1],
 "df/d15/Totem_8h.html#a2bd46e1df17fdee45cd35896306092fb":[7,0,0,0,1,2,16,8,1,2],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9":[7,0,0,0,1,2,16,8,1,3],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c":[7,0,0,0,1,2,16,8,1,3,3],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649":[7,0,0,0,1,2,16,8,1,3,1],
-"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3":[7,0,0,0,1,2,16,8,1,5],
-"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0":[7,0,0,0,1,2,16,8,1,5,1],
-"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069":[7,0,0,0,1,2,16,8,1,5,0],
-"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300":[7,0,0,0,1,2,16,8,1,5,2],
-"df/d15/Totem_8h.html#a6cae59b1369b7371cefb92be8fc73fa5":[7,0,0,0,1,2,16,8,1,1],
-"df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[7,0,0,0,1,2,16,8,1,4]
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2]
 };

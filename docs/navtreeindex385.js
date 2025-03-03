@@ -1,5 +1,14 @@
 var NAVTREEINDEX385 =
 {
+"df/d9b/structboss__jarien.html#ab6590cf6626a12e804520b2cde84a93e":[6,0,553,4],
+"df/d9b/structboss__jarien.html#abce9540798dbae1026d1c74bfeb111a6":[6,0,553,8],
+"df/d9b/structboss__jarien.html#ac85ca96b42aa5115500bd24454f84209":[6,0,553,5],
+"df/d9b/structboss__jarien.html#acf7157ec7af7356beddc8a2429177b95":[6,0,553,6],
+"df/d9b/structboss__jarien.html#ae0c943c970990b055ebc8c31d81a7198":[6,0,553,10],
+"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html":[6,0,2198,0],
+"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#a1174c827aef1b05603214e4717c78f8a":[6,0,2198,0,2],
+"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#a8f5dfe54a5ac1d7a058c5efb9bead77a":[6,0,2198,0,0],
+"df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#aac4c1e3bc635b30f1ceed8b25f2c7829":[6,0,2198,0,1],
 "df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#ace4028c8f4d0240b4e2939481312d0d2":[6,0,2198,0,4],
 "df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#addb312c34c668b8189087de6cf89543b":[6,0,2198,0,3],
 "df/d9c/classHostileRefMgr.html":[6,0,1265],
@@ -240,14 +249,5 @@ var NAVTREEINDEX385 =
 "df/da2/classPoolGroup.html":[6,0,2415],
 "df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8":[6,0,2415,12],
 "df/da2/classPoolGroup.html#a1ac0f26dc780d8320d70430a3c78c21f":[6,0,2415,14],
-"df/da2/classPoolGroup.html#a1d042f8e7dfbb20edac8121f7a4c1c46":[6,0,2415,11],
-"df/da2/classPoolGroup.html#a20e8e8f1db5333436f339ee5805900f2":[6,0,2415,7],
-"df/da2/classPoolGroup.html#a235cd9ecd41ebd961b5b91ffc6b5e8cd":[6,0,2415,6],
-"df/da2/classPoolGroup.html#a3cc7d666db80bccc58ab194cbe852fd9":[6,0,2415,10],
-"df/da2/classPoolGroup.html#a4698cf918248ba9e1e1eb65ab579cfd0":[6,0,2415,5],
-"df/da2/classPoolGroup.html#a6bc374614124ed84cb80e1ac980c30fe":[6,0,2415,9],
-"df/da2/classPoolGroup.html#a792a891c185304db7e4bcf96ec061aba":[6,0,2415,16],
-"df/da2/classPoolGroup.html#a833c5bf4d13bb440df3a0d055a9b37cd":[6,0,2415,1],
-"df/da2/classPoolGroup.html#a90bd9f2c7c65d81d1804ae0c9017eaa9":[6,0,2415,13],
-"df/da2/classPoolGroup.html#a9b048b966aeb0b86e5e16f97fe720cf5":[6,0,2415,8]
+"df/da2/classPoolGroup.html#a1d042f8e7dfbb20edac8121f7a4c1c46":[6,0,2415,11]
 };

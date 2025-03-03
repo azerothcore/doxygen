@@ -1,5 +1,14 @@
 var NAVTREEINDEX383 =
 {
+"df/d87/structFireworkShowGameobject.html#a6e527854cf0959995d6b0133dedc94c9":[6,0,1039,5],
+"df/d87/structFireworkShowGameobject.html#a71696fa3f95eb20d950b6ba2ada153f4":[6,0,1039,2],
+"df/d87/structFireworkShowGameobject.html#a7536047696bd4883237369976b503131":[6,0,1039,6],
+"df/d87/structFireworkShowGameobject.html#ac2e4113330ebc9d9db379fb87eb55c03":[6,0,1039,3],
+"df/d87/structFireworkShowGameobject.html#af0a1551e7a1ced5413b6096ba15db8b2":[6,0,1039,0],
+"df/d88/BattlegroundQueue_8h.html":[7,0,0,0,1,2,8,14],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17":[7,0,0,0,1,2,8,14,5],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c":[7,0,0,0,1,2,8,14,5,1],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697":[7,0,0,0,1,2,8,14,5,2],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4":[7,0,0,0,1,2,8,14,5,0],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239":[7,0,0,0,1,2,8,14,5,4],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[7,0,0,0,1,2,8,14,5,5],
@@ -240,14 +249,5 @@ var NAVTREEINDEX383 =
 "df/d92/classSpellScript.html#ad3b76d0716ab3113b56ef35336e75709":[6,0,4040,36],
 "df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[6,0,4040,39],
 "df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c":[6,0,4040,45],
-"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4040,32],
-"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4040,19],
-"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4040,14],
-"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4040,10],
-"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[6,0,4040,70],
-"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[6,0,4040,9],
-"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4040,29],
-"df/d92/classnpc__frostwing__vrykul.html":[6,0,1791],
-"df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[6,0,1791,2],
-"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1791,1]
+"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4040,32]
 };

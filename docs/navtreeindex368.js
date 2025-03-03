@@ -1,5 +1,14 @@
 var NAVTREEINDEX368 =
 {
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2276,0,5],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2276,0,0],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a369ae3d62d1289a1c840bdc3184b463d":[6,0,2276,0,4],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a3c43ede2df7b1ea61b0f1625e2e1461c":[6,0,2276,0,8],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a7cad21f0b3286ed75256a49c315069ce":[6,0,2276,0,1],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a86929e8a2f3433f37e4dda03e3011193":[6,0,2276,0,2],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a9207ffdb39627b1262ec209fe41d6d0a":[6,0,2276,0,6],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#aa5284a284c074f32cee85d29aea00f2f":[6,0,2276,0,7],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#acb95eeebd0317f1d95bc48d6b9e7e962":[6,0,2276,0,3],
 "de/dcc/zone__thousand__needles_8cpp.html":[7,0,0,0,1,3,4,30],
 "de/dcc/zone__thousand__needles_8cpp.html#a58e024bcebfefe3b44080ac0751c36bd":[7,0,0,0,1,3,4,30,12],
 "de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502":[7,0,0,0,1,3,4,30,10],
@@ -240,14 +249,5 @@ var NAVTREEINDEX368 =
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,2985,2],
 "de/de0/structSpellClickInfo.html":[6,0,4009],
 "de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4009,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4009,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4009,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4009,3],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[6,0,779,0],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[6,0,779,0,0],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[6,0,779,0,2],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#af519da543fff63a39a6fbe48f90f2f22":[6,0,779,0,1],
-"de/de2/structgo__bells_1_1go__bellsAI.html":[6,0,1115,0],
-"de/de2/structgo__bells_1_1go__bellsAI.html#a46c66442078cee28a76fc412746ca026":[6,0,1115,0,2],
-"de/de2/structgo__bells_1_1go__bellsAI.html#a6f22847c66a3b5faded35da799359846":[6,0,1115,0,0]
+"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4009,2]
 };

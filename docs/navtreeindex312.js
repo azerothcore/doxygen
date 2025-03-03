@@ -1,5 +1,14 @@
 var NAVTREEINDEX312 =
 {
+"dc/de1/SkillDiscovery_8h.html":[7,0,0,0,1,2,40,1],
+"dc/de1/SkillDiscovery_8h.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[7,0,0,0,1,2,40,1,0],
+"dc/de1/SkillDiscovery_8h.html#ab50472e4f1f892eb77ce660ef00d808a":[7,0,0,0,1,2,40,1,1],
+"dc/de1/SkillDiscovery_8h.html#abdf3c2fcf65212466dfb54053e35024c":[7,0,0,0,1,2,40,1,2],
+"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[7,0,0,0,1,2,40,1,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html":[7,0,0,0,1,3,2,12,6],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,12,6,7],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,5],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,12,6,6],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[7,0,0,0,1,3,2,12,6,3],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f":[7,0,0,0,1,3,2,12,6,3,5],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8":[7,0,0,0,1,3,2,12,6,3,6],
@@ -240,14 +249,5 @@ var NAVTREEINDEX312 =
 "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaf17ea4feb08751873794a2be33e793aa":[7,0,0,0,1,3,2,6,0,34,11],
 "dc/ded/classat__icc__putricide__trap.html":[6,0,221],
 "dc/ded/classat__icc__putricide__trap.html#a9d4183629deada9c22750b8a34e94583":[6,0,221,0],
-"dc/ded/classat__icc__putricide__trap.html#ad59c2f694c50fabf1946d2c7ae726413":[6,0,221,1],
-"dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8],
-"dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
-"dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a1c2a3145d36ac321b7f1f11a01a235f5":[7,0,0,0,1,2,41,8,8],
-"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
-"dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
-"dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
-"dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
-"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4]
+"dc/ded/classat__icc__putricide__trap.html#ad59c2f694c50fabf1946d2c7ae726413":[6,0,221,1]
 };

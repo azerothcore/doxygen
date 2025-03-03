@@ -1,5 +1,14 @@
 var NAVTREEINDEX379 =
 {
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,1,2,3],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[7,0,0,0,1,3,5,8,1,2,3,2],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,8,1,2,3,5],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[7,0,0,0,1,3,5,8,1,2,3,1],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[7,0,0,0,1,3,5,8,1,2,3,4],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[7,0,0,0,1,3,5,8,1,2,3,0],
+"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[6,0,3805],
+"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[6,0,3805,3],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a3240b42a9122e61b57ea91486cb3c97b":[6,0,3805,1],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3805,2],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3805,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX379 =
 "df/d5c/classnpc__commandscript.html#a5fefefb73d6b51eb506215a7f78e89a6":[6,0,1687,22],
 "df/d5c/classnpc__commandscript.html#a643f8c1351d29f1bff7888702edbd305":[6,0,1687,16],
 "df/d5c/classnpc__commandscript.html#a8686af61d6197dc490848a357db3bf4f":[6,0,1687,7],
-"df/d5c/classnpc__commandscript.html#a9476a80d830149da97934707ffcc31c7":[6,0,1687,15],
-"df/d5c/classnpc__commandscript.html#a99754050720ac6703d09ca3e2d1007ff":[6,0,1687,11],
-"df/d5c/classnpc__commandscript.html#aa8896b4302ed0626d0ae02d218a9a36e":[6,0,1687,0],
-"df/d5c/classnpc__commandscript.html#aa95dc7156bbca64a885882fc3cbbdacb":[6,0,1687,13],
-"df/d5c/classnpc__commandscript.html#aaf6746d287ad6f59ddfc54e20f5fd5e7":[6,0,1687,28],
-"df/d5c/classnpc__commandscript.html#ab16b17e314d718747ed066c418f4f61b":[6,0,1687,17],
-"df/d5c/classnpc__commandscript.html#ab722d7c262e1d4e4785c7de599a6d051":[6,0,1687,6],
-"df/d5c/classnpc__commandscript.html#ab7a2211498c0f1f3bf9799aaab507fd9":[6,0,1687,8],
-"df/d5c/classnpc__commandscript.html#ab89d9ed18a38ace2b2dfd1d447f6f57c":[6,0,1687,21],
-"df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1687,23]
+"df/d5c/classnpc__commandscript.html#a9476a80d830149da97934707ffcc31c7":[6,0,1687,15]
 };

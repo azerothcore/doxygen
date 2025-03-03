@@ -1,5 +1,13 @@
 var NAVTREEINDEX276 =
 {
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca376286c3601032c3d6e02c0c5a28f929":[7,0,0,0,1,3,9,4,144,7],
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca4b5c0a76aba527f596429310faddf59b":[7,0,0,0,1,3,9,4,144,4],
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca8986c6b621b9762c925b69d2cc1c2251":[7,0,0,0,1,3,9,4,144,3],
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40caeb1264fcc0c88b80ac2412d1c5e29496":[7,0,0,0,1,3,9,4,144,5],
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40caff0c5f3cba4dbfa64c6c8631a6371f0f":[7,0,0,0,1,3,9,4,144,1],
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40caff88d7ddd5dd0caa9fa6aa28c5059bfa":[7,0,0,0,1,3,9,4,144,6],
+"db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448b":[7,0,0,0,1,3,9,4,175],
+"db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022":[7,0,0,0,1,3,9,4,175,0],
 "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6":[7,0,0,0,1,3,9,4,174],
 "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6a4144db4cd3501cc9b01b09775d2f28a1":[7,0,0,0,1,3,9,4,174,4],
 "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6a74a2401e2913563dab4456787c0782d4":[7,0,0,0,1,3,9,4,174,3],
@@ -213,12 +221,12 @@ var NAVTREEINDEX276 =
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1946,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,105,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,117,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,105,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,105,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,117,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,117,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,105,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,117,0,2],
 "db/d72/structLootItem.html":[6,0,1445],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1445,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1445,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX276 =
 "db/d72/structLootItem.html#ae9f49e27fd81c235fdc2c754918f55c4":[6,0,1445,9],
 "db/d72/structLootItem.html#aec6043508b50b16f04e9b4fbf8742677":[6,0,1445,19],
 "db/d72/structLootItem.html#af50758cf8e8ad77e42197b13d849ae08":[6,0,1445,12],
-"db/d72/structOutdoorPvPData.html":[6,0,2340],
-"db/d72/structOutdoorPvPData.html#a6b17e959f80e7b3f2f3352a345eebcf9":[6,0,2340,0],
-"db/d72/structOutdoorPvPData.html#aaddf1f172211966f5d727e6238889223":[6,0,2340,1],
-"db/d73/classnpc__idol__room__spawner.html":[6,0,1876],
-"db/d73/classnpc__idol__room__spawner.html#a3017caa645e98a7647ec42a43c025624":[6,0,1876,2],
-"db/d73/classnpc__idol__room__spawner.html#ac51fed89c27ebf6ae3cf65ca8909eab1":[6,0,1876,1],
-"db/d74/classnpc__pet__dk__ebon__gargoyle.html":[6,0,2002],
-"db/d74/classnpc__pet__dk__ebon__gargoyle.html#a19ff9fd627aab738c91ce23cf6acfffd":[6,0,2002,2],
-"db/d74/classnpc__pet__dk__ebon__gargoyle.html#ae4dcaff120a52c20a8b73d97a08604d7":[6,0,2002,1]
+"db/d72/structOutdoorPvPData.html":[6,0,2340]
 };

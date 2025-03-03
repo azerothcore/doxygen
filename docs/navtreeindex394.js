@@ -1,5 +1,14 @@
 var NAVTREEINDEX394 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[6,0,11,12,7],
+"df/dd9/classWorldPackets_1_1Array.html#a3708388e67428fe0ebefb4e71c069939":[5,0,30,12,17],
+"df/dd9/classWorldPackets_1_1Array.html#a3708388e67428fe0ebefb4e71c069939":[6,0,11,12,17],
+"df/dd9/classWorldPackets_1_1Array.html#a39bad8cfbd854b3767fed0621f96c37c":[6,0,11,12,13],
+"df/dd9/classWorldPackets_1_1Array.html#a39bad8cfbd854b3767fed0621f96c37c":[5,0,30,12,13],
+"df/dd9/classWorldPackets_1_1Array.html#a3af6a02c02b1fc0b73280bce76d5a0f2":[5,0,30,12,8],
+"df/dd9/classWorldPackets_1_1Array.html#a3af6a02c02b1fc0b73280bce76d5a0f2":[6,0,11,12,8],
+"df/dd9/classWorldPackets_1_1Array.html#a48c70221dedd1b6cbc570389e9584bf1":[5,0,30,12,2],
+"df/dd9/classWorldPackets_1_1Array.html#a48c70221dedd1b6cbc570389e9584bf1":[6,0,11,12,2],
 "df/dd9/classWorldPackets_1_1Array.html#a5ba1ac83b8b2f62042c08f60c46b04fd":[5,0,30,12,4],
 "df/dd9/classWorldPackets_1_1Array.html#a5ba1ac83b8b2f62042c08f60c46b04fd":[6,0,11,12,4],
 "df/dd9/classWorldPackets_1_1Array.html#a5f23ed7c6bd7462e013c8ef3a5b78ba5":[6,0,11,12,18],
@@ -240,14 +249,5 @@ var NAVTREEINDEX394 =
 "df/ddb/structviolet__hold__trashAI.html":[6,0,4177],
 "df/ddb/structviolet__hold__trashAI.html#a0a5f5b86cd54c28a828db2ac3e83126b":[6,0,4177,13],
 "df/ddb/structviolet__hold__trashAI.html#a16e7677aa9597dda938a67c51febde6c":[6,0,4177,6],
-"df/ddb/structviolet__hold__trashAI.html#a1e64a9f7c82275969e099b5012a32924":[6,0,4177,3],
-"df/ddb/structviolet__hold__trashAI.html#a8647797343650fcd4f6304bce3742883":[6,0,4177,9],
-"df/ddb/structviolet__hold__trashAI.html#a87011739810f39291655bc835f9995bd":[6,0,4177,0],
-"df/ddb/structviolet__hold__trashAI.html#a9e9ca535b9d2fa1b246975f984c96998":[6,0,4177,14],
-"df/ddb/structviolet__hold__trashAI.html#ab0e73a03d6e36a35eb393127bce3dad3":[6,0,4177,8],
-"df/ddb/structviolet__hold__trashAI.html#ab189607a468514d6c472ac40e6f3d85b":[6,0,4177,4],
-"df/ddb/structviolet__hold__trashAI.html#ab2d2157977ae2482217fa8ac344b30af":[6,0,4177,1],
-"df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57":[6,0,4177,10],
-"df/ddb/structviolet__hold__trashAI.html#acd512cd3722a2edf0ca539272ded3c79":[6,0,4177,5],
-"df/ddb/structviolet__hold__trashAI.html#ad0c756eb5bef8036cb47ebcc9e6915df":[6,0,4177,2]
+"df/ddb/structviolet__hold__trashAI.html#a1e64a9f7c82275969e099b5012a32924":[6,0,4177,3]
 };

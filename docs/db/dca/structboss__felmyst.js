@@ -7,8 +7,9 @@ var structboss__felmyst =
     [ "KilledUnit", "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be", null ],
     [ "MovementInform", "db/dca/structboss__felmyst.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
     [ "Reset", "db/dca/structboss__felmyst.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleFlightAbilities", "db/dca/structboss__felmyst.html#abd384c7754aedeb35a9358bc4e7888c8", null ],
-    [ "ScheduleFlightSequence", "db/dca/structboss__felmyst.html#a2cf8def19df423fe3fb188ec35934e9a", null ],
+    [ "ScheduleGroundAbilities", "db/dca/structboss__felmyst.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
     [ "StartIntro", "db/dca/structboss__felmyst.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356", null ]
+    [ "UpdateAI", "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "db/dca/structboss__felmyst.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "db/dca/structboss__felmyst.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

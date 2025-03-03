@@ -1,5 +1,14 @@
 var NAVTREEINDEX360 =
 {
+"de/d80/classAuraScript_1_1EffectSplitHandler.html#a181c0f987789f3725e7ba7e023cfc4e7":[6,0,284,14,2],
+"de/d80/classAuraScript_1_1EffectSplitHandler.html#a1e31c0f06961aba66f6737c4b4aca7f6":[6,0,284,14,0],
+"de/d80/classAuraScript_1_1EffectSplitHandler.html#ae0ef79af01cce82ed3cbe208d98b325a":[6,0,284,14,1],
+"de/d80/classPetitionMgr.html":[6,0,2380],
+"de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb":[6,0,2380,3],
+"de/d80/classPetitionMgr.html#a0175d79b865a34bc1451bb6c748d785f":[6,0,2380,2],
+"de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[6,0,2380,1],
+"de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8":[6,0,2380,0],
+"de/d80/classPetitionMgr.html#a289f09d808c81b5ada9b26e98260f5be":[6,0,2380,14],
 "de/d80/classPetitionMgr.html#a3bda5778fbc38fefedd463b0b12893cd":[6,0,2380,9],
 "de/d80/classPetitionMgr.html#a49bb11e33b39fa77f5394130e8405537":[6,0,2380,16],
 "de/d80/classPetitionMgr.html#a6532eb8de34893d4f63ea68180ca9038":[6,0,2380,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX360 =
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,4,2,1,6],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23f12f795736a646034072280e121a1d":[7,0,0,0,1,3,5,4,2,1,6,3],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2efbd9744da4105979f1135ac54e88fd":[7,0,0,0,1,3,5,4,2,1,6,1],
-"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7786b8e71bcc2652d561f7085dfc3b51":[7,0,0,0,1,3,5,4,2,1,6,4],
-"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8cf65be6cb8de4377425b4d7b735d911":[7,0,0,0,1,3,5,4,2,1,6,0],
-"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,4,2,1,6,2],
-"de/d8f/classSessionKeyGenerator.html":[6,0,2524],
-"de/d8f/classSessionKeyGenerator.html#a1eb1aafb255ccf771b0a49dcab869297":[6,0,2524,2],
-"de/d8f/classSessionKeyGenerator.html#a2162fde8dbb84fc165faedaafed706b5":[6,0,2524,1],
-"de/d8f/classSessionKeyGenerator.html#a462354aed63797a90fc228e6399cb740":[6,0,2524,4],
-"de/d8f/classSessionKeyGenerator.html#a617205c872f2163026d511809776a775":[6,0,2524,5],
-"de/d8f/classSessionKeyGenerator.html#a7ea5a4a796da94a2dc14570d4336c27b":[6,0,2524,3],
-"de/d8f/classSessionKeyGenerator.html#a8fa39e01cd3ed24e13735343ad658cbb":[6,0,2524,0]
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7786b8e71bcc2652d561f7085dfc3b51":[7,0,0,0,1,3,5,4,2,1,6,4]
 };

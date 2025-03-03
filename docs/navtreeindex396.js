@@ -1,5 +1,14 @@
 var NAVTREEINDEX396 =
 {
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a423bead0525222a132e22531f640c461":[6,0,2075,0,6],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a680f46b5d7c88bafc5d3af669e9886ef":[6,0,2075,0,3],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#aab27045dff817457d5858c48c174f3a2":[6,0,2075,0,0],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#aba8121b207be2c7be161d9ea0c903d6e":[6,0,2075,0,4],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#abfd9618bd029ae56d846cac9cf5b7e80":[6,0,2075,0,1],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#ad676c377ea08cbb33f1ff226f864849c":[6,0,2075,0,7],
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#ae347c0817e145ec333bd5b1c87dd01ef":[6,0,2075,0,5],
+"df/de9/classnpc__azure__sorceror.html":[6,0,1623],
+"df/de9/classnpc__azure__sorceror.html#a647ac2853586e380fdf0e0ffa43abaca":[6,0,1623,2],
 "df/de9/classnpc__azure__sorceror.html#ab81ec144680a37312b0a5e0110365a1a":[6,0,1623,1],
 "df/de9/classspell__pri__power__word__shield.html":[6,0,3516],
 "df/de9/classspell__pri__power__word__shield.html#a2edd0bcaa3b026cc70f9f6b58f53f486":[6,0,3516,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX396 =
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a13fe9d7463efbecf63d78fce59fc4fab":[6,0,399,0,12],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a1c5ef6d44112d67a29dde74371ab644a":[6,0,399,0,15],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a231f68b31fdd105559c186d4edbfc47b":[6,0,399,0,19],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3":[6,0,399,0,3],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a3534b15706cd35ad8de485fc430207b1":[6,0,399,0,16],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a475fcf43849c5cd2144020f57c2a461f":[6,0,399,0,6],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a4b6ce34090fcf21eb68560c078278303":[6,0,399,0,1],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a4b74cb2b2f36ae115327e8a0532fdc23":[6,0,399,0,9],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a76f5eca557f9d25c8025a909b1de8faf":[6,0,399,0,13],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a78b0d391090e9d2424da315bf1f696e9":[6,0,399,0,2],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a7a74b7241f0ff736bdff7088ee384695":[6,0,399,0,14],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a8a4d21d7ab9ad827c88a7869000c3628":[6,0,399,0,18],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ab28467f9b11a87162dae0306a1f2fb20":[6,0,399,0,0]
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3":[6,0,399,0,3]
 };

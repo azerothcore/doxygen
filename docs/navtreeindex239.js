@@ -1,5 +1,13 @@
 var NAVTREEINDEX239 =
 {
+"d9/d9b/classHostileReference.html#a85a99a8a7aae980d89a7d4a690cd3886":[6,0,1264,12],
+"d9/d9b/classHostileReference.html#a8c708097d72791957ffc93f4d0fcb742":[6,0,1264,22],
+"d9/d9b/classHostileReference.html#a903ebdbbba9a065b38b264ef3c3ac2e9":[6,0,1264,1],
+"d9/d9b/classHostileReference.html#a948e59c8e80f03305ea6272e5e2eaf61":[6,0,1264,15],
+"d9/d9b/classHostileReference.html#aa30a4bca79e58f1bf6f9c64f5092dc89":[6,0,1264,17],
+"d9/d9b/classHostileReference.html#aabdc142e65df7b7dac22a0ac7afb62db":[6,0,1264,0],
+"d9/d9b/classHostileReference.html#ab559a9c9994a6ca830a0a76f5a6507e6":[6,0,1264,20],
+"d9/d9b/classHostileReference.html#abc68accd906c8134040408ef69699ecb":[6,0,1264,7],
 "d9/d9b/classHostileReference.html#ac1c98539d86ab21972a695253bdc7673":[6,0,1264,6],
 "d9/d9b/classHostileReference.html#ad9947afb3eae22c652d5b8f6f3628eed":[6,0,1264,5],
 "d9/d9b/classHostileReference.html#aeaee3bd08e233b495b389d4101679a3c":[6,0,1264,3],
@@ -21,8 +29,8 @@ var NAVTREEINDEX239 =
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,11,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,30,5,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,11,5,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,30,5,46,0],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[6,0,11,5,46,3],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,30,5,46,3],
 "d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
@@ -238,16 +246,8 @@ var NAVTREEINDEX239 =
 "d9/dac/ScriptedCreature_8h.html#acaba34b4ac104e5289c265c1f8524b15":[7,0,0,0,1,2,3,1,1,9],
 "d9/dac/ScriptedCreature_8h.html#acc68161fe019b33e9356ea1473fba71d":[7,0,0,0,1,2,3,1,1,7],
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[7,0,0,0,1,2,3,1,1,12],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
-"d9/dac/classnpc__nether__drake.html":[6,0,1976],
-"d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[6,0,1976,1],
-"d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[6,0,1976,2],
-"d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html":[6,0,1930,0]
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2]
 };

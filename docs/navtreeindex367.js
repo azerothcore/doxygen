@@ -1,5 +1,14 @@
 var NAVTREEINDEX367 =
 {
+"de/db7/classQueryCallback.html#ac3ff3ce98767a2df178586b28f753b1e":[6,0,2440,2],
+"de/db7/classQueryCallback.html#aecac362ce15206aef0f544e9485a5bcd":[6,0,2440,8],
+"de/db7/classQueryCallback.html#af881e4cbb2742817a4075d9d6deef26c":[6,0,2440,13],
+"de/db7/classSpellScript_1_1CheckCastHandler.html":[6,0,4040,2],
+"de/db7/classSpellScript_1_1CheckCastHandler.html#a805de70601b15de19639ca01c75ae7f7":[6,0,4040,2,1],
+"de/db7/classSpellScript_1_1CheckCastHandler.html#a8647582abeea09779e05d809cbdb0d06":[6,0,4040,2,0],
+"de/db7/classSpellScript_1_1CheckCastHandler.html#af13f11d14772afbea06f0020df4bbe6c":[6,0,4040,2,2],
+"de/db8/classboss__hakkar.html":[6,0,514],
+"de/db8/classboss__hakkar.html#a834bd1f223154fbf1be94bf43136da28":[6,0,514,1],
 "de/db8/classboss__hakkar.html#aff3a089e30dcddfde4db372104153723":[6,0,514,2],
 "de/db8/classgo__bashir__crystalforge.html":[6,0,1112],
 "de/db8/classgo__bashir__crystalforge.html#a4aa941ae78a17eecc5593d6ccd17ff63":[6,0,1112,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX367 =
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3026,1],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[6,0,3026,2],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[6,0,3026,4],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2276,0],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2276,0,5],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2276,0,0],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a369ae3d62d1289a1c840bdc3184b463d":[6,0,2276,0,4],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a3c43ede2df7b1ea61b0f1625e2e1461c":[6,0,2276,0,8],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a7cad21f0b3286ed75256a49c315069ce":[6,0,2276,0,1],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a86929e8a2f3433f37e4dda03e3011193":[6,0,2276,0,2],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a9207ffdb39627b1262ec209fe41d6d0a":[6,0,2276,0,6],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#aa5284a284c074f32cee85d29aea00f2f":[6,0,2276,0,7],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#acb95eeebd0317f1d95bc48d6b9e7e962":[6,0,2276,0,3]
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2276,0]
 };

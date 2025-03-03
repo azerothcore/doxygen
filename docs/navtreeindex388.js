@@ -1,5 +1,14 @@
 var NAVTREEINDEX388 =
 {
+"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[6,0,2820,1],
+"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[6,0,2820,2],
+"df/db6/classspell__dtk__raise__dead__aura.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3":[6,0,2820,0],
+"df/db6/classspell__gen__vehicle__scaling.html":[6,0,2999],
+"df/db6/classspell__gen__vehicle__scaling.html#a6feb7c77ba258688a83bdb86e9ee53f8":[6,0,2999,2],
+"df/db6/classspell__gen__vehicle__scaling.html#aaa9a6f31ec57542dcd657874c4eb52aa":[6,0,2999,1],
+"df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c":[6,0,2999,0],
+"df/db7/classspell__azjol__nerub__carrion__beetels.html":[6,0,2611],
+"df/db7/classspell__azjol__nerub__carrion__beetels.html#a1203cbec26f64aa97d10783b567c2d62":[6,0,2611,1],
 "df/db7/classspell__azjol__nerub__carrion__beetels.html#a94b3a8e0a610afa69c3a9771f8f22b13":[6,0,2611,0],
 "df/db7/classspell__pal__exorcism__and__holy__wrath__damage.html":[6,0,3467],
 "df/db7/classspell__pal__exorcism__and__holy__wrath__damage.html#a81395c735b9546632af71319067b575b":[6,0,3467,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX388 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#ab9bf289c0814e60fd75902b4e87d1e46":[6,0,2321,3],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2321,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2321,7],
-"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2321,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,30,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,30,1,1,0],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
-"df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
-"df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
-"df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3]
+"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2321,8]
 };

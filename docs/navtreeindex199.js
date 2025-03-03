@@ -1,5 +1,13 @@
 var NAVTREEINDEX199 =
 {
+"d7/daa/LFG_8cpp.html":[7,0,0,0,1,2,15,0],
+"d7/daa/LFG_8cpp.html#a9d097d73fe8f096de2098ac74022b643":[7,0,0,0,1,2,15,0,2],
+"d7/daa/LFG_8cpp.html#adc336ffd636b51b0052448739671d46b":[7,0,0,0,1,2,15,0,1],
+"d7/daa/LFG_8cpp.html#aeaebe53b818ad905c96d2cc56c18b7ca":[7,0,0,0,1,2,15,0,0],
+"d7/dab/classboss__toravon.html":[6,0,744],
+"d7/dab/classboss__toravon.html#a6db140b1d232312300e20155830cb249":[6,0,744,2],
+"d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[6,0,744,1],
+"d7/dab/classnpc__tirion__fordring__tft.html":[6,0,2168],
 "d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2168,1],
 "d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[6,0,2168,2],
 "d7/dab/structboss__glob__of__viscidus.html":[6,0,496],
@@ -241,13 +249,5 @@ var NAVTREEINDEX199 =
 "d7/db0/classMap.html#abdb1b9067ac6ad5b27ec537c654a2e1a":[6,0,1471,138],
 "d7/db0/classMap.html#abe71c918251dd915dc490c0c2e78ea97":[6,0,1471,54],
 "d7/db0/classMap.html#abea8ed605071226978969647a0246e86":[6,0,1471,94],
-"d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1471,224],
-"d7/db0/classMap.html#ac07f125a1ad7ad6f22cd18dbe20208f3":[6,0,1471,26],
-"d7/db0/classMap.html#ac128082bd657db6000ab05ad5a6b0f95":[6,0,1471,192],
-"d7/db0/classMap.html#ac19caeb67f9223cf89c8764037cbde7d":[6,0,1471,33],
-"d7/db0/classMap.html#ac1c96f4061f210aad8d8cb1c7de0aa0f":[6,0,1471,199],
-"d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2":[6,0,1471,265],
-"d7/db0/classMap.html#ac279aecabb80ef7fb308b331e47663ff":[6,0,1471,53],
-"d7/db0/classMap.html#ac2e64e8b60a06ee4ba99f4d426b2fd8a":[6,0,1471,221],
-"d7/db0/classMap.html#ac309ee57ae1a2058047c749d85d9bc95":[6,0,1471,114]
+"d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1471,224]
 };

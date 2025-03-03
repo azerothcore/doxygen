@@ -1,5 +1,14 @@
 var NAVTREEINDEX395 =
 {
+"df/ddb/structviolet__hold__trashAI.html#a8647797343650fcd4f6304bce3742883":[6,0,4177,9],
+"df/ddb/structviolet__hold__trashAI.html#a87011739810f39291655bc835f9995bd":[6,0,4177,0],
+"df/ddb/structviolet__hold__trashAI.html#a9e9ca535b9d2fa1b246975f984c96998":[6,0,4177,14],
+"df/ddb/structviolet__hold__trashAI.html#ab0e73a03d6e36a35eb393127bce3dad3":[6,0,4177,8],
+"df/ddb/structviolet__hold__trashAI.html#ab189607a468514d6c472ac40e6f3d85b":[6,0,4177,4],
+"df/ddb/structviolet__hold__trashAI.html#ab2d2157977ae2482217fa8ac344b30af":[6,0,4177,1],
+"df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57":[6,0,4177,10],
+"df/ddb/structviolet__hold__trashAI.html#acd512cd3722a2edf0ca539272ded3c79":[6,0,4177,5],
+"df/ddb/structviolet__hold__trashAI.html#ad0c756eb5bef8036cb47ebcc9e6915df":[6,0,4177,2],
 "df/ddb/structviolet__hold__trashAI.html#ad2e8841054cece73bdc7c2e7782c96a8":[6,0,4177,11],
 "df/ddb/structviolet__hold__trashAI.html#ad84ecad1a57f0af44af2795a252d2214":[6,0,4177,12],
 "df/ddb/structviolet__hold__trashAI.html#ae98d0cd977d59cbfe567fa6e294cde7e":[6,0,4177,7],
@@ -240,14 +249,5 @@ var NAVTREEINDEX395 =
 "df/de7/cs__cast_8cpp.html":[7,0,0,0,1,3,0,7],
 "df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[7,0,0,0,1,3,0,7,1],
 "df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html":[6,0,2075,0],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a1ccb00801fbfc87cbe04f19dc15e4a10":[6,0,2075,0,2],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a423bead0525222a132e22531f640c461":[6,0,2075,0,6],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a680f46b5d7c88bafc5d3af669e9886ef":[6,0,2075,0,3],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#aab27045dff817457d5858c48c174f3a2":[6,0,2075,0,0],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#aba8121b207be2c7be161d9ea0c903d6e":[6,0,2075,0,4],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#abfd9618bd029ae56d846cac9cf5b7e80":[6,0,2075,0,1],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#ad676c377ea08cbb33f1ff226f864849c":[6,0,2075,0,7],
-"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#ae347c0817e145ec333bd5b1c87dd01ef":[6,0,2075,0,5],
-"df/de9/classnpc__azure__sorceror.html":[6,0,1623],
-"df/de9/classnpc__azure__sorceror.html#a647ac2853586e380fdf0e0ffa43abaca":[6,0,1623,2]
+"df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html#a1ccb00801fbfc87cbe04f19dc15e4a10":[6,0,2075,0,2]
 };

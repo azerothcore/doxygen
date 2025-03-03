@@ -1,5 +1,14 @@
 var NAVTREEINDEX373 =
 {
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0],
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c":[7,0,0,0,1,2,16,8,1,3,3],
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649":[7,0,0,0,1,2,16,8,1,3,1],
+"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3":[7,0,0,0,1,2,16,8,1,5],
+"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0":[7,0,0,0,1,2,16,8,1,5,1],
+"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069":[7,0,0,0,1,2,16,8,1,5,0],
+"df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300":[7,0,0,0,1,2,16,8,1,5,2],
+"df/d15/Totem_8h.html#a6cae59b1369b7371cefb92be8fc73fa5":[7,0,0,0,1,2,16,8,1,1],
+"df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[7,0,0,0,1,2,16,8,1,4],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[7,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
@@ -240,14 +249,5 @@ var NAVTREEINDEX373 =
 "df/d1d/classWorldDatabaseConnection.html":[6,0,4228],
 "df/d1d/classWorldDatabaseConnection.html#a015f79a049d37f742232bc5ac10e9551":[6,0,4228,2],
 "df/d1d/classWorldDatabaseConnection.html#a0c03387d2c019c86d1fe4933eca6aae5":[6,0,4228,1],
-"df/d1d/classWorldDatabaseConnection.html#a280aa4a4571581c5cef8f9967631b484":[6,0,4228,4],
-"df/d1d/classWorldDatabaseConnection.html#a2feafa80fe8e838587d8f7b641c0ab09":[6,0,4228,3],
-"df/d1d/classWorldDatabaseConnection.html#adaf49f7cb45d90cb041f979b1821e4a1":[6,0,4228,0],
-"df/d1d/structAuctionHousePlayerInfo.html":[6,0,260],
-"df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[6,0,260,4],
-"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,260,2],
-"df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[6,0,260,3],
-"df/d1d/structAuctionHousePlayerInfo.html#ac88c2c37d92c9e4a8502a870a580fa01":[6,0,260,1],
-"df/d1d/structAuctionHousePlayerInfo.html#acb80e9b49dda9771679b871cf862d876":[6,0,260,0],
-"df/d1e/classUpdatableScript.html":[6,0,4149]
+"df/d1d/classWorldDatabaseConnection.html#a280aa4a4571581c5cef8f9967631b484":[6,0,4228,4]
 };

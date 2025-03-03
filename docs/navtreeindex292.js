@@ -1,5 +1,14 @@
 var NAVTREEINDEX292 =
 {
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e":[7,0,0,0,1,3,2,26,3,7],
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0":[7,0,0,0,1,3,2,26,3,2],
+"db/ded/zone__hinterlands_8cpp.html#ace1d91ebeb7be507ec886616fad7eef4":[7,0,0,0,1,3,2,26,6],
+"db/dee/classLoginDatabaseConnection.html":[6,0,1438],
+"db/dee/classLoginDatabaseConnection.html#a27fa1397706cf8b986fe0a05a82a910b":[6,0,1438,2],
+"db/dee/classLoginDatabaseConnection.html#a3f826d59e4efa55d7825f90f434ae889":[6,0,1438,4],
+"db/dee/classLoginDatabaseConnection.html#a6dc31cb64a22e90cc5275bf6fcaaf000":[6,0,1438,0],
+"db/dee/classLoginDatabaseConnection.html#a7514a6e42889d5d75dcce2e804fff7b8":[6,0,1438,3],
+"db/dee/classLoginDatabaseConnection.html#aed22866380f9331ff73d4437a779206c":[6,0,1438,1],
 "db/dee/spell__hunter_8cpp.html":[7,0,0,0,1,3,9,3],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e":[7,0,0,0,1,3,9,3,29],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce":[7,0,0,0,1,3,9,3,29,8],
@@ -43,10 +52,10 @@ var NAVTREEINDEX292 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1518,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1518,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1518,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,30,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,30,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,30,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,30,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,30,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX292 =
 "db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,3953,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a357c8a07f912c6efb55a13cc9bc089b9":[7,0,0,0,1,2,45,1,8],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a9f512823f852120bf4c3ec78eb4bbeaa":[7,0,0,0,1,2,45,1,4],
-"db/dfa/CharacterDatabaseCleaner_8h.html#aac707369555aa95807c11b1578ae80d2":[7,0,0,0,1,2,45,1,11],
-"db/dfa/CharacterDatabaseCleaner_8h.html#ab98182e5f92f72090600314cc41f0d39":[7,0,0,0,1,2,45,1,2],
-"db/dfa/CharacterDatabaseCleaner_8h.html#aca5826d283031348e5d6ae6eb75ad605":[7,0,0,0,1,2,45,1,6],
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67":[7,0,0,0,1,2,45,1,0],
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550":[7,0,0,0,1,2,45,1,0,3],
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564":[7,0,0,0,1,2,45,1,0,2]
+"db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9]
 };
