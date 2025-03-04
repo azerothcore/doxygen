@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#acb3011a7800c529c8642d3dbbabc76fe":[6,0,2311,233],
 "d5/dfb/classObjectMgr.html#acb39506ceb0b83bd56369084ba706b3d":[6,0,2311,283],
 "d5/dfb/classObjectMgr.html#acb5ef37e730540db039b67602efe79aa":[6,0,2311,312],
 "d5/dfb/classObjectMgr.html#acbb58b0bcbfa04941f30b61102b268cd":[6,0,2311,353],
@@ -89,7 +90,6 @@ var NAVTREEINDEX160 =
 "d5/dfb/classObjectMgr.html#afb4994a52572a0cc0054031150e041cc":[6,0,2311,190],
 "d5/dfb/classObjectMgr.html#afc3f080d869e3abd2c2297f5beb0e195":[6,0,2311,199],
 "d5/dfb/classObjectMgr.html#afcc4bfeeefde9e7bc8212cbded58b3a7":[6,0,2311,21],
-"d5/dfb/classObjectMgr.html#afcebf3265d65a8e85d47dec49840dcb5":[6,0,2311,32],
 "d5/dfb/classObjectMgr.html#afd5cf84c3ffee0c86e6f5bb0741fdbf4":[6,0,2311,164],
 "d5/dfb/classObjectMgr.html#aff5277d75699cc517ade341b4ac8c217":[6,0,2311,278],
 "d5/dfb/classObjectMgr.html#aff7a95599cbe0e0d5911a1a98781137d":[6,0,2311,293],
@@ -139,8 +139,8 @@ var NAVTREEINDEX160 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[6,0,21,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[6,0,21,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
