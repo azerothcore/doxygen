@@ -1,5 +1,10 @@
 var NAVTREEINDEX289 =
 {
+"db/dd5/classCreature.html#a8047b1cc99f35cb1a7d4d9f085a8d91c":[6,0,907,295],
+"db/dd5/classCreature.html#a804ebf801404df64612628545e87f0db":[6,0,907,42],
+"db/dd5/classCreature.html#a8127401b1a832cca416fa63f6a705a3d":[6,0,907,39],
+"db/dd5/classCreature.html#a8239facb1f9d6ac1041ef30d022d6698":[6,0,907,112],
+"db/dd5/classCreature.html#a83da0a8b21cedf8eaef8f34d63c9d4cb":[6,0,907,283],
 "db/dd5/classCreature.html#a8547005ac66de0dcd1e64a7958a32be7":[6,0,907,83],
 "db/dd5/classCreature.html#a8615af8d99800a1f76bcea8adda41f7f":[6,0,907,267],
 "db/dd5/classCreature.html#a868b09fcb142556e68af4a335930dadc":[6,0,907,262],
@@ -162,10 +167,10 @@ var NAVTREEINDEX289 =
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2746,1],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2746,2],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2746,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3346],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3346,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3346,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3346,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3347],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3347,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3347,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3347,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1644,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1644,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1644,0,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX289 =
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ead8059fa6f75c76d0f2d7bfc31ce0047d":[7,0,0,0,1,3,5,1,1,5,4,10],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eae916a2187053d174552a7767836952d5":[7,0,0,0,1,3,5,1,1,5,4,4],
 "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,5,1,1,5,3],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a3169ab5885d804d09d50266c29843f22":[7,0,0,0,1,3,5,1,1,5,3,5],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a3a9885821005f6d88e3db97307bf2546":[7,0,0,0,1,3,5,1,1,5,3,1],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a6257cbf35366317ba330456035924b1b":[7,0,0,0,1,3,5,1,1,5,3,3],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a73af65aac870648e8d98bf75fbb83ca1":[7,0,0,0,1,3,5,1,1,5,3,2],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a9cbc16b4e0cff5f25ff8d689ad5c8e0a":[7,0,0,0,1,3,5,1,1,5,3,4],
-"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,5,1,1,5,3,7]
+"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a3169ab5885d804d09d50266c29843f22":[7,0,0,0,1,3,5,1,1,5,3,5]
 };

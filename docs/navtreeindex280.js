@@ -1,5 +1,10 @@
 var NAVTREEINDEX280 =
 {
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba57e1a1164659d27fa30795381e32a8ed":[7,0,0,0,1,2,16,4,6,62,0],
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba75f26016f11d8834e342696518d642c1":[7,0,0,0,1,2,16,4,6,62,9],
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861":[7,0,0,0,1,2,16,4,6,62,14],
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba8d9c0b5f4dcbb40362a45d46ce6983e1":[7,0,0,0,1,2,16,4,6,62,2],
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba8dee435d922c466b4b707d2770a2a8e6":[7,0,0,0,1,2,16,4,6,62,11],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba995d6ef4b6a62274783f53f5097034dd":[7,0,0,0,1,2,16,4,6,62,7],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531baa055c895912c9a7d1ef8361d2a0342d3":[7,0,0,0,1,2,16,4,6,62,4],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531baa3b702983cf088076c74fc4d81cf5883":[7,0,0,0,1,2,16,4,6,62,13],
@@ -149,12 +154,12 @@ var NAVTREEINDEX280 =
 "db/d8b/classspell__deathbringer__blood__power__aura.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a":[6,0,2707,2],
 "db/d8b/classspell__deathbringer__blood__power__aura.html#a829e96cabbb565922f7183adb3edf13c":[6,0,2707,1],
 "db/d8b/classspell__deathbringer__blood__power__aura.html#abbcd0a9a63908a875bcdbc66fb5e1218":[6,0,2707,0],
-"db/d8b/classspell__murmur__sonic__boom__effect.html":[6,0,3423],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#a02b59e5ac84c8556c9a9441ff6414461":[6,0,3423,1],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#ab6183bf9e49d3c11c256e54053c13aa2":[6,0,3423,2],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#abd6b61e7efbed1427b7603640ac7d474":[6,0,3423,0],
+"db/d8b/classspell__murmur__sonic__boom__effect.html":[6,0,3424],
+"db/d8b/classspell__murmur__sonic__boom__effect.html#a02b59e5ac84c8556c9a9441ff6414461":[6,0,3424,1],
+"db/d8b/classspell__murmur__sonic__boom__effect.html#ab6183bf9e49d3c11c256e54053c13aa2":[6,0,3424,2],
+"db/d8b/classspell__murmur__sonic__boom__effect.html#abd6b61e7efbed1427b7603640ac7d474":[6,0,3424,0],
 "db/d8c/EscortMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,3],
-"db/d8c/classThreadingModel_3_01T_01_4.html":[6,0,4092],
+"db/d8c/classThreadingModel_3_01T_01_4.html":[6,0,4093],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[5,0,1,8,0,18],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[6,0,0,5,0,18],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a48cf3f3df0e07e220d44096e7b628a72":[6,0,0,5,0,18,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX280 =
 "db/d8e/InstanceScript_8h.html#aafbf0073420e9a897ec0f243f4793a0f":[7,0,0,0,1,2,23,3,9],
 "db/d8e/InstanceScript_8h.html#ab665e2d424a75aeb6703ccd08050676c":[7,0,0,0,1,2,23,3,14],
 "db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438":[7,0,0,0,1,2,23,3,24],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012":[7,0,0,0,1,2,23,3,24,1],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715":[7,0,0,0,1,2,23,3,24,2],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749":[7,0,0,0,1,2,23,3,24,3],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465":[7,0,0,0,1,2,23,3,24,4],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5":[7,0,0,0,1,2,23,3,24,0],
-"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958":[7,0,0,0,1,2,23,3,24,5]
+"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012":[7,0,0,0,1,2,23,3,24,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX307 =
 {
+"dc/da5/classOrcMoveEvent.html":[6,0,2329],
+"dc/da5/classOrcMoveEvent.html#a58a3c88ed3c6b534016179949b85ff9e":[6,0,2329,1],
+"dc/da5/classOrcMoveEvent.html#a71f7fe243741a1629bdd846fc97f0112":[6,0,2329,0],
+"dc/da5/classOrcMoveEvent.html#ad8d09bbb659d44e9f4b9171cea7ef7e8":[6,0,2329,2],
+"dc/da5/classboss__valithria__dreamwalker.html":[6,0,754],
 "dc/da5/classboss__valithria__dreamwalker.html#a0f0bacefa7e3d682a5db81a14f2ff947":[6,0,754,2],
 "dc/da5/classboss__valithria__dreamwalker.html#afcc6dc92d94330d3aed67f71452f9cd2":[6,0,754,1],
 "dc/da5/classspell__item__blade__ward__enchant.html":[6,0,3168],
@@ -244,10 +249,5 @@ var NAVTREEINDEX307 =
 "dc/db2/SpellScript_8h.html#a3101f4f4902188b1fc7c024f151b638b":[7,0,0,0,1,2,41,11,49],
 "dc/db2/SpellScript_8h.html#a34719dcb751e4fcbcd8071ff6daa720a":[7,0,0,0,1,2,41,11,57],
 "dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ff":[7,0,0,0,1,2,41,11,72],
-"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa0af3aaacab516cfb17149875844cfd1c":[7,0,0,0,1,2,41,11,72,0],
-"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa10ff698fcd9cd1e8d81871901e427b6b":[7,0,0,0,1,2,41,11,72,2],
-"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa3617846a2487234e3dcfd0db94991036":[7,0,0,0,1,2,41,11,72,3],
-"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa3b2b2277b8f41cba6c2bf7d969c0495d":[7,0,0,0,1,2,41,11,72,1],
-"dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183":[7,0,0,0,1,2,41,11,62],
-"dc/db2/SpellScript_8h.html#a45a9e92ccb7a7baba9e6f1839a334872":[7,0,0,0,1,2,41,11,48]
+"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa0af3aaacab516cfb17149875844cfd1c":[7,0,0,0,1,2,41,11,72,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX335 =
 {
+"dd/dfa/structboss__nightbane.html#ae49cca4df3d3e4671fcd29d0ff80b820":[6,0,637,2],
+"dd/dfa/structboss__nightbane.html#aebe3a054846638cb704537bb6ae8df26":[6,0,637,8],
+"dd/dfa/structboss__nightbane.html#aebfd407ada0b093a22ba50fbfb22dc0c":[6,0,637,10],
+"dd/dfa/structboss__nightbane.html#afc9746671aab95918269375a672ecbed":[6,0,637,17],
+"dd/dfa/structboss__nightbane.html#aff6649c16f1c929325e1941479569fc1":[6,0,637,21],
 "dd/dfa/structboss__nightbane.html#affc0741ba52bdb3af2f3ca1ba65e5d16":[6,0,637,5],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html":[6,0,648,0],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a02d34d4cd26706e1108c99cc0b4afbba":[6,0,648,0,13],
@@ -104,11 +109,11 @@ var NAVTREEINDEX335 =
 "dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#a0ba286f037c07032488d6763daeaf130":[6,0,596,0,1],
 "dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#ab93792bd7798b9ee9cf869fa20190554":[6,0,596,0,0],
 "dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#aba3256ec99e56e3051045391fceedc7f":[6,0,596,0,2],
-"de/d00/classspell__voljin__war__drums.html":[6,0,3897],
-"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,3897,3],
-"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3897,0],
-"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,3897,1],
-"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,3897,2],
+"de/d00/classspell__voljin__war__drums.html":[6,0,3898],
+"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,3898,3],
+"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3898,0],
+"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,3898,1],
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,3898,2],
 "de/d00/structboss__roar.html":[6,0,673],
 "de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[6,0,673,2],
 "de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[6,0,673,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX335 =
 "de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[6,0,520,5],
 "de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,520,15],
 "de/d06/structboss__headless__horseman.html#a4f791099607d7861cfa193f9b5fc265b":[6,0,520,0],
-"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,520,9],
-"de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[6,0,520,20],
-"de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[6,0,520,1],
-"de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[6,0,520,6],
-"de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[6,0,520,17],
-"de/d06/structboss__headless__horseman.html#a9dde0cfcc41ec7d8b9f53e55057adab9":[6,0,520,18]
+"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,520,9]
 };

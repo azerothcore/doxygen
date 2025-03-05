@@ -1,5 +1,10 @@
 var NAVTREEINDEX317 =
 {
+"dd/d27/structSmartAction.html#a3e71e2a234985c7056b009edfeddc343":[6,0,2544,231],
+"dd/d27/structSmartAction.html#a3f42f2d1b59b3167632e17bad1f49db1":[6,0,2544,248],
+"dd/d27/structSmartAction.html#a3fb37b223722eb1a63edfbd8140b3804":[6,0,2544,51],
+"dd/d27/structSmartAction.html#a40c869c4a1d943b43048a232a9a97d32":[6,0,2544,0],
+"dd/d27/structSmartAction.html#a42d460c85387880967b92e11db1ddd1e":[6,0,2544,169],
 "dd/d27/structSmartAction.html#a435c6226fea0340c9cb99c28edb071d1":[6,0,2544,273],
 "dd/d27/structSmartAction.html#a43ba7be86e67031ad4ba2fae1c46a051":[6,0,2544,105],
 "dd/d27/structSmartAction.html#a4451b97891324d63d4d91253af395191":[6,0,2544,141],
@@ -237,17 +242,12 @@ var NAVTREEINDEX317 =
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a92e3137bb92545876ca67028bcc86a4f":[6,0,3171,1],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a94d4155e98a4ac5764d8bfd705b05602":[6,0,3171,3],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a9b440dd8bf21b70d068021d05832a3fc":[6,0,3171,4],
-"dd/d2c/classTransactionTask.html":[6,0,4115],
-"dd/d2c/classTransactionTask.html#a13573f827891ad172847dc0e466b0b9e":[6,0,4115,0],
-"dd/d2c/classTransactionTask.html#a242f0cb47bc6b456b6bea9aa372df4b6":[6,0,4115,9],
-"dd/d2c/classTransactionTask.html#a28c9ca1d9d3fdc6a722dcec68e46a38f":[6,0,4115,4],
-"dd/d2c/classTransactionTask.html#a5d89109a06fa4fca3057b99bbfa84e58":[6,0,4115,6],
-"dd/d2c/classTransactionTask.html#a68bc982f025d40bbc3a7323cd8c96786":[6,0,4115,1],
-"dd/d2c/classTransactionTask.html#a84b48dbb670dd884e9b44ea53c8b0008":[6,0,4115,8],
-"dd/d2c/classTransactionTask.html#aa1c1df059d15fe2077ceea5cfb51ba22":[6,0,4115,3],
-"dd/d2c/classTransactionTask.html#ac3345f3314b133d53268f53e222cdc74":[6,0,4115,7],
-"dd/d2c/classTransactionTask.html#ac8984f2167ec797d478f3a771d1c1c3f":[6,0,4115,5],
-"dd/d2c/classTransactionTask.html#adc2f1534bce5a7ce198eeeb510fcb533":[6,0,4115,2],
-"dd/d2c/classspell__icc__sprit__alarm.html":[6,0,3104],
-"dd/d2c/classspell__icc__sprit__alarm.html#a2e59f7f9eb67790c59c2e94cf877b4f3":[6,0,3104,1]
+"dd/d2c/classTransactionTask.html":[6,0,4116],
+"dd/d2c/classTransactionTask.html#a13573f827891ad172847dc0e466b0b9e":[6,0,4116,0],
+"dd/d2c/classTransactionTask.html#a242f0cb47bc6b456b6bea9aa372df4b6":[6,0,4116,9],
+"dd/d2c/classTransactionTask.html#a28c9ca1d9d3fdc6a722dcec68e46a38f":[6,0,4116,4],
+"dd/d2c/classTransactionTask.html#a5d89109a06fa4fca3057b99bbfa84e58":[6,0,4116,6],
+"dd/d2c/classTransactionTask.html#a68bc982f025d40bbc3a7323cd8c96786":[6,0,4116,1],
+"dd/d2c/classTransactionTask.html#a84b48dbb670dd884e9b44ea53c8b0008":[6,0,4116,8],
+"dd/d2c/classTransactionTask.html#aa1c1df059d15fe2077ceea5cfb51ba22":[6,0,4116,3]
 };

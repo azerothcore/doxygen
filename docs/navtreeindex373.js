@@ -1,5 +1,10 @@
 var NAVTREEINDEX373 =
 {
+"df/d15/LFGQueue_8h.html#aa2afec59ce753c11c3d8fddf4fb33991":[7,0,0,0,1,2,15,9,4],
+"df/d15/Totem_8h.html":[7,0,0,0,1,2,16,8,1],
+"df/d15/Totem_8h.html#a2bd46e1df17fdee45cd35896306092fb":[7,0,0,0,1,2,16,8,1,2],
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9":[7,0,0,0,1,2,16,8,1,3],
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c":[7,0,0,0,1,2,16,8,1,3,3],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649":[7,0,0,0,1,2,16,8,1,3,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX373 =
 "df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c":[7,0,0,0,1,3,2,30,9,0],
 "df/d1b/zone__stormwind__city_8cpp.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566":[7,0,0,0,1,3,2,30,9,3],
 "df/d1b/zone__stormwind__city_8cpp.html#ac865e7add4724f06be48735f6bf1a542":[7,0,0,0,1,3,2,30,10],
-"df/d1b/zone__stormwind__city_8cpp.html#affa30c579e72ac17979d6590547e9cde":[7,0,0,0,1,3,2,30,8],
-"df/d1b/zone__stormwind__city_8cpp.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407":[7,0,0,0,1,3,2,30,8,0],
-"df/d1d/classWorldDatabaseConnection.html":[6,0,4228],
-"df/d1d/classWorldDatabaseConnection.html#a015f79a049d37f742232bc5ac10e9551":[6,0,4228,2],
-"df/d1d/classWorldDatabaseConnection.html#a0c03387d2c019c86d1fe4933eca6aae5":[6,0,4228,1],
-"df/d1d/classWorldDatabaseConnection.html#a280aa4a4571581c5cef8f9967631b484":[6,0,4228,4]
+"df/d1b/zone__stormwind__city_8cpp.html#affa30c579e72ac17979d6590547e9cde":[7,0,0,0,1,3,2,30,8]
 };

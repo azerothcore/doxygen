@@ -1,5 +1,10 @@
 var NAVTREEINDEX308 =
 {
+"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa10ff698fcd9cd1e8d81871901e427b6b":[7,0,0,0,1,2,41,11,72,2],
+"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa3617846a2487234e3dcfd0db94991036":[7,0,0,0,1,2,41,11,72,3],
+"dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa3b2b2277b8f41cba6c2bf7d969c0495d":[7,0,0,0,1,2,41,11,72,1],
+"dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183":[7,0,0,0,1,2,41,11,62],
+"dc/db2/SpellScript_8h.html#a45a9e92ccb7a7baba9e6f1839a334872":[7,0,0,0,1,2,41,11,48],
 "dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b":[7,0,0,0,1,2,41,11,43],
 "dc/db2/SpellScript_8h.html#a4d0f0c5676f83a543e55577ac5622ce0":[7,0,0,0,1,2,41,11,69],
 "dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb":[7,0,0,0,1,2,41,11,64],
@@ -151,10 +156,10 @@ var NAVTREEINDEX308 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2205],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2205,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2205,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3545],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3545,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3545,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3545,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3546],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3546,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3546,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3546,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,930],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,930,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -244,10 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ade15fd8617e1a8945c9bdba0eae63efa":[7,0,0,0,1,3,2,16,7,11,0],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae065928d2cd03016e191363697c5765c":[7,0,0,0,1,3,2,16,7,11,4],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,7,14],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca03012cd80c49d7b7933ba723a6bfccbf":[7,0,0,0,1,3,2,16,7,14,9],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,7,14,0],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca397012fccbcf2bdcf5ce7bd83c3c29b7":[7,0,0,0,1,3,2,16,7,14,11],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d8bf8576afa397124a60457a9fdfc38":[7,0,0,0,1,3,2,16,7,14,12],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,16,7,14,4],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca9203ecb14e14edb80a8277f5776b9799":[7,0,0,0,1,3,2,16,7,14,1]
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca03012cd80c49d7b7933ba723a6bfccbf":[7,0,0,0,1,3,2,16,7,14,9]
 };

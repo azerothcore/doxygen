@@ -1,5 +1,10 @@
 var NAVTREEINDEX187 =
 {
+"d7/d46/classAuraEffect.html#a09dda5a0af27ab34292b312fd20203bb":[6,0,281,132],
+"d7/d46/classAuraEffect.html#a0ae0e56cbc82f9dde5927d069fad34e2":[6,0,281,104],
+"d7/d46/classAuraEffect.html#a0b0a7eb3419f1ef986ae136c9248e173":[6,0,281,149],
+"d7/d46/classAuraEffect.html#a0c107b074aa0e5e8cfe63d6c73c14803":[6,0,281,60],
+"d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d":[6,0,281,36],
 "d7/d46/classAuraEffect.html#a0e5699c43a4f49c32daa9c1b6df068ce":[6,0,281,178],
 "d7/d46/classAuraEffect.html#a1004d58d71df9a9b603d217ebca51321":[6,0,281,33],
 "d7/d46/classAuraEffect.html#a120cf8a45a3c816e4ef588733fa812e5":[6,0,281,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#aeaaa5a6ef611324b6cd50d5a9a087b58":[6,0,781,0,18],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#aed6c11f1050a988a98ae325e822e8b88":[6,0,781,0,19],
 "d7/d48/classAreaTrigger__at__stormwright__shelf.html":[6,0,173],
-"d7/d48/classAreaTrigger__at__stormwright__shelf.html#a97cdf51a8992b3d9edc138351770fd75":[6,0,173,0],
-"d7/d48/classAreaTrigger__at__stormwright__shelf.html#ab635f9328b35f3570211cf6ffc60a4c6":[6,0,173,1],
-"d7/d48/group__Acored.html":[4,0],
-"d7/d48/group__Acored.html#ga0781c2ca38d89a89b174f81fb895285b":[4,0,18],
-"d7/d48/group__Acored.html#ga0a2b971b7ea733d846be71abf7b5dc1d":[4,0,22],
-"d7/d48/group__Acored.html#ga0ea988a0e070d056c16d7c9f3b1035f4":[4,0,25]
+"d7/d48/classAreaTrigger__at__stormwright__shelf.html#a97cdf51a8992b3d9edc138351770fd75":[6,0,173,0]
 };

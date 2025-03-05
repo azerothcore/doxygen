@@ -314,31 +314,32 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  733</span>    {</div>
-<div class="line"><span class="lineno">  734</span>        <span class="comment">// Remove &quot;main tank&quot; and non-player targets</span></div>
-<div class="line"><span class="lineno">  735</span>        targets.remove_if (<a class="code hl_class" href="../../da/d63/classStoneGripTargetSelector.html">StoneGripTargetSelector</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToCreature(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVictim()));</div>
-<div class="line"><span class="lineno">  736</span>        <span class="comment">// Maximum affected targets per difficulty mode</span></div>
-<div class="line"><span class="lineno">  737</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxTargets = 1;</div>
-<div class="line"><span class="lineno">  738</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id == 63981)</div>
-<div class="line"><span class="lineno">  739</span>            maxTargets = 3;</div>
-<div class="line"><span class="lineno">  740</span> </div>
-<div class="line"><span class="lineno">  741</span>        <span class="comment">// Return a random amount of targets based on maxTargets</span></div>
-<div class="line"><span class="lineno">  742</span>        <span class="keywordflow">while</span> (maxTargets &lt; targets.size())</div>
-<div class="line"><span class="lineno">  743</span>        {</div>
-<div class="line"><span class="lineno">  744</span>            std::list&lt;WorldObject*&gt;::iterator itr = targets.begin();</div>
-<div class="line"><span class="lineno">  745</span>            advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, targets.size() - 1));</div>
-<div class="line"><span class="lineno">  746</span>            targets.erase(itr);</div>
-<div class="line"><span class="lineno">  747</span>        }</div>
-<div class="line"><span class="lineno">  748</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  795</span>    {</div>
+<div class="line"><span class="lineno">  796</span>        <span class="comment">// Remove &quot;main tank&quot; and non-player targets</span></div>
+<div class="line"><span class="lineno">  797</span>        targets.remove_if(<a class="code hl_class" href="../../da/d63/classStoneGripTargetSelector.html">StoneGripTargetSelector</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToCreature(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVictim()));</div>
+<div class="line"><span class="lineno">  798</span>        <span class="comment">// Maximum affected targets per difficulty mode</span></div>
+<div class="line"><span class="lineno">  799</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxTargets = 1;</div>
+<div class="line"><span class="lineno">  800</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id == <a class="code hl_enumvalue" href="../../d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89cad9e7d6a91127e77404cb3333ac1ce362">SPELL_STONE_GRIP_25</a>)</div>
+<div class="line"><span class="lineno">  801</span>            maxTargets = 3;</div>
+<div class="line"><span class="lineno">  802</span> </div>
+<div class="line"><span class="lineno">  803</span>        <span class="comment">// Return a random amount of targets based on maxTargets</span></div>
+<div class="line"><span class="lineno">  804</span>        <span class="keywordflow">while</span> (maxTargets &lt; targets.size())</div>
+<div class="line"><span class="lineno">  805</span>        {</div>
+<div class="line"><span class="lineno">  806</span>            std::list&lt;WorldObject*&gt;::iterator itr = targets.begin();</div>
+<div class="line"><span class="lineno">  807</span>            advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, targets.size() - 1));</div>
+<div class="line"><span class="lineno">  808</span>            targets.erase(itr);</div>
+<div class="line"><span class="lineno">  809</span>        }</div>
+<div class="line"><span class="lineno">  810</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
+<div class="ttc" id="aboss__kologarn_8cpp_html_a716e161346d7c90e9e23f8b21db2c89cad9e7d6a91127e77404cb3333ac1ce362"><div class="ttname"><a href="../../d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89cad9e7d6a91127e77404cb3333ac1ce362">SPELL_STONE_GRIP_25</a></div><div class="ttdeci">@ SPELL_STONE_GRIP_25</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:77</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
-<div class="ttc" id="aclassStoneGripTargetSelector_html"><div class="ttname"><a href="../../da/d63/classStoneGripTargetSelector.html">StoneGripTargetSelector</a></div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:701</div></div>
+<div class="ttc" id="aclassStoneGripTargetSelector_html"><div class="ttname"><a href="../../da/d63/classStoneGripTargetSelector.html">StoneGripTargetSelector</a></div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:765</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00077">SPELL_STONE_GRIP_25</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00750">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00812">Register()</a>.</p>
 
 </div>
 </div>
@@ -366,13 +367,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  726</span>    {</div>
-<div class="line"><span class="lineno">  727</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsCreature())</div>
-<div class="line"><span class="lineno">  728</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  729</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  730</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  790</span>    {</div>
+<div class="line"><span class="lineno">  791</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
+<div class="line"><span class="lineno">  792</span>    }</div>
+<div class="ttc" id="aclassObject_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition</b> Object.h:204</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00204">Object::IsCreature()</a>.</p>
 
 </div>
 </div>
@@ -426,16 +426,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  751</span>    {</div>
-<div class="line"><span class="lineno">  752</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../db/d52/classspell__ulduar__stone__grip__cast__target.html#a2477349cffb8da02936545ba0bd03d0f">spell_ulduar_stone_grip_cast_target::FilterTargetsInitial</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  753</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  813</span>    {</div>
+<div class="line"><span class="lineno">  814</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../db/d52/classspell__ulduar__stone__grip__cast__target.html#a2477349cffb8da02936545ba0bd03d0f">spell_ulduar_stone_grip_cast_target::FilterTargetsInitial</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  815</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1420</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__ulduar__stone__grip__cast__target_html_a2477349cffb8da02936545ba0bd03d0f"><div class="ttname"><a href="../../db/d52/classspell__ulduar__stone__grip__cast__target.html#a2477349cffb8da02936545ba0bd03d0f">spell_ulduar_stone_grip_cast_target::FilterTargetsInitial</a></div><div class="ttdeci">void FilterTargetsInitial(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:732</div></div>
+<div class="ttc" id="aclassspell__ulduar__stone__grip__cast__target_html_a2477349cffb8da02936545ba0bd03d0f"><div class="ttname"><a href="../../db/d52/classspell__ulduar__stone__grip__cast__target.html#a2477349cffb8da02936545ba0bd03d0f">spell_ulduar_stone_grip_cast_target::FilterTargetsInitial</a></div><div class="ttdeci">void FilterTargetsInitial(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:794</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l00732">FilterTargetsInitial()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l00794">FilterTargetsInitial()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -448,7 +448,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d52/classspell__ulduar__stone__grip__cast__target.html">spell_ulduar_stone_grip_cast_target</a></li>
-    <li class="footer">Generated on Tue Mar 4 2025 06:21:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 5 2025 06:21:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -15,6 +15,7 @@ var structboss__kologarn_1_1boss__kologarnAI =
     [ "MoveInLineOfSight", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a5186f2716ff3cd693b5b4756f8ccfb8a", null ],
     [ "PassengerBoarded", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a5fc33458b5753068625022ee611d26ab", null ],
     [ "Reset", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#abcfebd76968d7f4105dea27838972c1c", null ],
+    [ "SummonedCreatureDespawn", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a8096e2a3d8370391c7c5d48f86126dd0", null ],
     [ "UpdateAI", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#adf5b6a90d684ba4755b6d8aaadbc2c62", null ],
     [ "_left", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a629be9be5ad456dddd00f581581f7b0b", null ],
     [ "_looksAchievement", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a0b995b26608b4af4b338409c961b33c1", null ],
@@ -22,7 +23,6 @@ var structboss__kologarn_1_1boss__kologarnAI =
     [ "_rubbleAchievement", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a0b69667c4020ada2ab079376fd1bdb44", null ],
     [ "breathReady", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#aba71c4db963a7d9de8a784e9d2465b6e", null ],
     [ "events", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a30ad06bfe509ed5c8f584558190944cb", null ],
-    [ "eyebeamTarget", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#aa677e75695c0c6db9d3ce7ffd432053a", null ],
     [ "m_pInstance", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a5d294afcf8e40e0513836fc6f580dd17", null ],
     [ "summons", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#afe1732245f349965fc375a430ceb75b3", null ],
     [ "vehicle", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a9b25928fc46bba22366890dcf956d939", null ]

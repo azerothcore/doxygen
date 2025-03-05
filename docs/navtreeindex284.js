@@ -1,5 +1,10 @@
 var NAVTREEINDEX284 =
 {
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a86e4793a587d0c24a7ee0163e4b2a3ff":[7,0,0,0,1,3,4,33,10,27],
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a8a94155a75bf569608eb8f770f3688bc":[7,0,0,0,1,3,4,33,10,1],
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a9097c725b88c6d2186364be8536e6bd0":[7,0,0,0,1,3,4,33,10,18],
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a91c39360b65ae121fbc1128e29971e9b":[7,0,0,0,1,3,4,33,10,8],
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1aa23d2ee5a1c10a6cfaa0b9e2fe16f7ac":[7,0,0,0,1,3,4,33,10,13],
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1aa71c95780b280ab7ba2adf906e9fc376":[7,0,0,0,1,3,4,33,10,24],
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1aa750a1d2dc45b7c44591cf36b0e8a59a":[7,0,0,0,1,3,4,33,10,16],
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1aac918b5e72422bac8f740e01a8603639":[7,0,0,0,1,3,4,33,10,26],
@@ -244,10 +249,5 @@ var NAVTREEINDEX284 =
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2aa0202af34f2b5ad4432272e3ec12862e":[7,0,0,0,1,3,10,14,62,13],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2aa1c067bdad83b6881f117a9bfe93e564":[7,0,0,0,1,3,10,14,62,16],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2aab388512e2634d47f9ddd4cc262c7607":[7,0,0,0,1,3,10,14,62,7],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2ab38f62e7d4dda1a4c3cff53cc04fa93e":[7,0,0,0,1,3,10,14,62,25],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2acb36ef30fb2660e3a38bdc43fb67de4e":[7,0,0,0,1,3,10,14,62,18],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2ad6acef6e598ef2511a83202afda0fd3a":[7,0,0,0,1,3,10,14,62,6],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2ae4e06784497132240ed052a97a9b4977":[7,0,0,0,1,3,10,14,62,3],
-"db/dae/npcs__special_8cpp.html#a82e1b72d10221583944ac0247287ab60":[7,0,0,0,1,3,10,14,81],
-"db/dae/npcs__special_8cpp.html#a8977e2a39480056c7134b232950a7b24":[7,0,0,0,1,3,10,14,56]
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2ab38f62e7d4dda1a4c3cff53cc04fa93e":[7,0,0,0,1,3,10,14,62,25]
 };

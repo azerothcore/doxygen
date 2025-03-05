@@ -1,5 +1,10 @@
 var NAVTREEINDEX235 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52aadb63a1c52fd60e237f8eefd24417844":[7,0,0,0,1,3,5,6,13,11,2],
+"d9/d6a/icecrown__citadel_8h.html#ab3bc739f6357b75de6423c1b259d2f8a":[7,0,0,0,1,3,5,6,13,25],
+"d9/d6a/icecrown__citadel_8h.html#ad6af8790756d9e08db1cc80a45ed446a":[7,0,0,0,1,3,5,6,13,23],
+"d9/d6a/icecrown__citadel_8h.html#ad946c964b96b8b1ffa7c95abefe65353":[7,0,0,0,1,3,5,6,13,10],
+"d9/d6a/icecrown__citadel_8h.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef":[7,0,0,0,1,3,5,6,13,10,0],
 "d9/d6a/icecrown__citadel_8h.html#ad946c964b96b8b1ffa7c95abefe65353a1a2616300bcd960929e24f84f18a93af":[7,0,0,0,1,3,5,6,13,10,1],
 "d9/d6a/icecrown__citadel_8h.html#ae0f2faf614aebac327abe2a2393cde51":[7,0,0,0,1,3,5,6,13,18],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09":[7,0,0,0,1,3,5,6,13,14],
@@ -230,11 +235,11 @@ var NAVTREEINDEX235 =
 "d9/d6f/classnpc__taxi.html#a5a7443abba8cf98a3073195177981edc":[6,0,2148,2],
 "d9/d6f/classnpc__taxi.html#ac67282316d6ded2ff62b8a1800b8fae1":[6,0,2148,0],
 "d9/d70/DetourExtended_8cpp.html":[7,0,0,0,0,11,0],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html":[6,0,3734],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a33cd336a6ca68e66e6046cfdac776fee":[6,0,3734,2],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0":[6,0,3734,0],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a5f2c7d754a37e6ae02d4aaec758841e5":[6,0,3734,3],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#acda7b1b6e91a433b72c2a5dd0e165685":[6,0,3734,1],
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html":[6,0,3735],
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a33cd336a6ca68e66e6046cfdac776fee":[6,0,3735,2],
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0":[6,0,3735,0],
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a5f2c7d754a37e6ae02d4aaec758841e5":[6,0,3735,3],
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html#acda7b1b6e91a433b72c2a5dd0e165685":[6,0,3735,1],
 "d9/d71/AuthDefines_8h.html":[7,0,0,0,0,3,0,2],
 "d9/d71/AuthDefines_8h.html#a7cbcb71452529a2addaab3b112dba4d7":[7,0,0,0,0,3,0,2,0],
 "d9/d71/AuthDefines_8h.html#accf22e06a217bb405f0ee6f240d2e263":[7,0,0,0,0,3,0,2,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d71/classAcore_1_1ThreatOrderPred.html#a33b2897bfd994ce57628f939814facba":[5,0,1,119,0],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#a5f668d69e800b472bc64711199f2b732":[6,0,0,107,1],
 "d9/d71/classAcore_1_1ThreatOrderPred.html#a5f668d69e800b472bc64711199f2b732":[5,0,1,119,1],
-"d9/d71/classAcore_1_1ThreatOrderPred.html#ad4d70c60ed781e443f07ad1b81afd10d":[6,0,0,107,2],
-"d9/d71/classAcore_1_1ThreatOrderPred.html#ad4d70c60ed781e443f07ad1b81afd10d":[5,0,1,119,2],
-"d9/d71/classat__baltharus__plateau.html":[6,0,208],
-"d9/d71/classat__baltharus__plateau.html#ac7acc8816b298446ac9bb8d6b82f27b6":[6,0,208,0],
-"d9/d71/classat__baltharus__plateau.html#aea08e30eb57d5d84b78b8891c4a45afb":[6,0,208,1],
-"d9/d71/structBIH_1_1buildData.html":[6,0,355,0]
+"d9/d71/classAcore_1_1ThreatOrderPred.html#ad4d70c60ed781e443f07ad1b81afd10d":[6,0,0,107,2]
 };

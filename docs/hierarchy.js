@@ -1047,6 +1047,7 @@ var hierarchy =
         [ "spell_kiljaeden_power_of_the_blue_flight", "d5/db4/classspell__kiljaeden__power__of__the__blue__flight.html", null ],
         [ "spell_kiljaeden_sinister_reflection", "d8/d7c/classspell__kiljaeden__sinister__reflection.html", null ],
         [ "spell_kiljaeden_sinister_reflection_clone", "db/dbf/classspell__kiljaeden__sinister__reflection__clone.html", null ],
+        [ "spell_kologarn_focused_eyebeam", "d6/de9/classspell__kologarn__focused__eyebeam.html", null ],
         [ "spell_kologarn_stone_shout", "d5/d53/classspell__kologarn__stone__shout.html", null ],
         [ "spell_kormok_summon_bone_mages", "d8/d6a/classspell__kormok__summon__bone__mages.html", null ],
         [ "spell_kormok_summon_bone_minions", "dd/d3b/classspell__kormok__summon__bone__minions.html", null ],

@@ -3782,6 +3782,7 @@ var annotated_dup =
     [ "spell_kiljaeden_sinister_reflection", "d8/d7c/classspell__kiljaeden__sinister__reflection.html", "d8/d7c/classspell__kiljaeden__sinister__reflection" ],
     [ "spell_kiljaeden_sinister_reflection_clone", "db/dbf/classspell__kiljaeden__sinister__reflection__clone.html", "db/dbf/classspell__kiljaeden__sinister__reflection__clone" ],
     [ "spell_kiljaeden_vengeance_of_the_blue_flight_aura", "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html", "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura" ],
+    [ "spell_kologarn_focused_eyebeam", "d6/de9/classspell__kologarn__focused__eyebeam.html", "d6/de9/classspell__kologarn__focused__eyebeam" ],
     [ "spell_kologarn_stone_shout", "d5/d53/classspell__kologarn__stone__shout.html", "d5/d53/classspell__kologarn__stone__shout" ],
     [ "spell_kologarn_stone_shout_aura", "d7/d06/classspell__kologarn__stone__shout__aura.html", "d7/d06/classspell__kologarn__stone__shout__aura" ],
     [ "spell_koralon_meteor_fists_aura", "da/dc4/classspell__koralon__meteor__fists__aura.html", "da/dc4/classspell__koralon__meteor__fists__aura" ],

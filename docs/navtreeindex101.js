@@ -246,8 +246,8 @@ var NAVTREEINDEX101 =
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c":[6,0,795,0,1],
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ae7457ed8084888b1074a44dd9a7ed0c7":[6,0,795,0,0],
 "d3/d88/SpellHandler_8cpp.html":[7,0,0,0,1,2,22,30],
-"d3/d88/structTotemCategoryEntry.html":[6,0,4108],
-"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[6,0,4108,2],
-"d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[6,0,4108,1],
-"d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be":[6,0,4108,0]
+"d3/d88/structTotemCategoryEntry.html":[6,0,4109],
+"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[6,0,4109,2],
+"d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[6,0,4109,1],
+"d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be":[6,0,4109,0]
 };

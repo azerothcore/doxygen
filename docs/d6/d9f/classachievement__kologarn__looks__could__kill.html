@@ -177,7 +177,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  828</span>: <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(<span class="stringliteral">&quot;achievement_kologarn_looks_could_kill&quot;</span>) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">  890</span>: <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(<span class="stringliteral">&quot;achievement_kologarn_looks_could_kill&quot;</span>) {}</div>
 <div class="ttc" id="aclassAchievementCriteriaScript_html"><div class="ttname"><a href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a></div><div class="ttdef"><b>Definition</b> AchievementCriteriaScript.h:24</div></div>
 </div><!-- fragment -->
 </div>
@@ -224,14 +224,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d9f/classAchievementCriteriaScript.html#a9fab6f158219db6d5a65b0b302cf285e">AchievementCriteriaScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  831</span>    {</div>
-<div class="line"><span class="lineno">  832</span>        <span class="keywordflow">if</span> (target)</div>
-<div class="line"><span class="lineno">  833</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  834</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*target, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa56a06fa3287bde43773b541b79218d09">TYPE_KOLOGARN</a>)))</div>
-<div class="line"><span class="lineno">  835</span>                    <span class="keywordflow">return</span> cr-&gt;AI()-&gt;GetData(<a class="code hl_enumvalue" href="../../d3/de1/boss__kologarn_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87">DATA_KOLOGARN_LOOKS_ACHIEV</a>);</div>
-<div class="line"><span class="lineno">  836</span> </div>
-<div class="line"><span class="lineno">  837</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  838</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  893</span>    {</div>
+<div class="line"><span class="lineno">  894</span>        <span class="keywordflow">if</span> (target)</div>
+<div class="line"><span class="lineno">  895</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  896</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*target, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa56a06fa3287bde43773b541b79218d09">TYPE_KOLOGARN</a>)))</div>
+<div class="line"><span class="lineno">  897</span>                    <span class="keywordflow">return</span> cr-&gt;AI()-&gt;GetData(<a class="code hl_enumvalue" href="../../d3/de1/boss__kologarn_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87">DATA_KOLOGARN_LOOKS_ACHIEV</a>);</div>
+<div class="line"><span class="lineno">  898</span> </div>
+<div class="line"><span class="lineno">  899</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  900</span>    }</div>
 <div class="ttc" id="aboss__kologarn_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87"><div class="ttname"><a href="../../d3/de1/boss__kologarn_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87">DATA_KOLOGARN_LOOKS_ACHIEV</a></div><div class="ttdeci">@ DATA_KOLOGARN_LOOKS_ACHIEV</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:138</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassInstanceScript_html"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html">InstanceScript</a></div><div class="ttdef"><b>Definition</b> InstanceScript.h:143</div></div>
@@ -252,7 +252,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d9f/classachievement__kologarn__looks__could__kill.html">achievement_kologarn_looks_could_kill</a></li>
-    <li class="footer">Generated on Tue Mar 4 2025 06:20:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 5 2025 06:20:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

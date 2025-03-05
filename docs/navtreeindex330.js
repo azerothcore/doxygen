@@ -1,5 +1,10 @@
 var NAVTREEINDEX330 =
 {
+"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,463,1],
+"dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,463,2],
+"dd/dca/boss__moroes_8cpp.html":[7,0,0,0,1,3,2,4,4],
+"dd/dca/boss__moroes_8cpp.html#a23fefc79344f5bb5f9927175baf200b6":[7,0,0,0,1,3,2,4,4,7],
+"dd/dca/boss__moroes_8cpp.html#a2a6c515d8914dfc6bb22bcf5bde27cdc":[7,0,0,0,1,3,2,4,4,8],
 "dd/dca/boss__moroes_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,4,4,3],
 "dd/dca/boss__moroes_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf8c629d728cd00509e6f4b47b36c56d":[7,0,0,0,1,3,2,4,4,3,0],
 "dd/dca/boss__moroes_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af0ba2cbff0bd53a9797bcc8cd5ca2201":[7,0,0,0,1,3,2,4,4,3,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa64e740b6e78b87052735a76ff182364":[7,0,0,0,1,2,38,0,75,1,91],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa6bfc9b5bd35e3fe47341abeefd5dd19":[7,0,0,0,1,2,38,0,75,1,132],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7b12e6570ec3c076d1c190aae96748c":[7,0,0,0,1,2,38,0,75,1,52],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938":[7,0,0,0,1,2,38,0,75,1,63],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa946402b647964cad6bcecd7779d7855":[7,0,0,0,1,2,38,0,75,1,49],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aacabdb19eaff4de521693cc4d123dd56":[7,0,0,0,1,2,38,0,75,1,111],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[7,0,0,0,1,2,38,0,75,1,94],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadec086d3fcbab101abaf7b06e0f5a32":[7,0,0,0,1,2,38,0,75,1,99],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,75,1,143]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938":[7,0,0,0,1,2,38,0,75,1,63]
 };

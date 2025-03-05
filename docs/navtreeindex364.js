@@ -1,5 +1,10 @@
 var NAVTREEINDEX364 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6788c6b6f7080becb3a80190fa40274":[7,0,0,0,1,1,0,0,1,1,36],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa74b9d4701f39d2f032796aa03ad41b8":[7,0,0,0,1,1,0,0,1,1,112],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa7cb5b739ef458963c46828539574972":[7,0,0,0,1,1,0,0,1,1,27],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa83f5fb4fa8d0c9635a8bfdd4d0afb39":[7,0,0,0,1,1,0,0,1,1,103],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaa0df4c6813b69274736012db00752c1":[7,0,0,0,1,1,0,0,1,1,192],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaa17a3538b9e36e0e629e24b789f0112":[7,0,0,0,1,1,0,0,1,1,77],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaacb734f1498a6d155a6ddaa864c8d23":[7,0,0,0,1,1,0,0,1,1,292],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaae5117ac0c987e98fe2cf2a7b08e59a":[7,0,0,0,1,1,0,0,1,1,265],
@@ -244,10 +249,5 @@ var NAVTREEINDEX364 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,4,7,9],
 "de/da6/classspell__item__with__mount__speed.html":[6,0,3281],
-"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3281,2],
-"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3281,4],
-"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3281,5],
-"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3281,3],
-"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3281,1],
-"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3281,0]
+"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3281,2]
 };

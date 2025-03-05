@@ -1,5 +1,10 @@
 var NAVTREEINDEX323 =
 {
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4570365880f14c7f7c5e7d96332ae150":[6,0,0,4,3,4],
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4b246814aa2e2ac930e1e9e4e79345f0":[5,0,1,7,3,0],
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4b246814aa2e2ac930e1e9e4e79345f0":[6,0,0,4,3,0],
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a57d68da0bcaec609d89efb18185b7f03":[6,0,0,4,3,2],
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a57d68da0bcaec609d89efb18185b7f03":[5,0,1,7,3,2],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca":[5,0,1,7,3,3],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca":[6,0,0,4,3,3],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#aad186f06a8d61834ec94d29d305fa0f2":[5,0,1,7,3,1],
@@ -229,10 +234,10 @@ var NAVTREEINDEX323 =
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ae804b558c6912a00405070e170572407":[6,0,0,37,10],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aeb2086c6034a734b92b3cb8d0382a293":[6,0,0,37,0],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aeb2086c6034a734b92b3cb8d0382a293":[5,0,1,49,0],
-"dd/d7e/classspell__putricide__unstable__experiment.html":[6,0,3548],
-"dd/d7e/classspell__putricide__unstable__experiment.html#a68c0462bd108b04621f8288328f78b18":[6,0,3548,1],
-"dd/d7e/classspell__putricide__unstable__experiment.html#aedaec0afc414800bc481a434592ffb5d":[6,0,3548,2],
-"dd/d7e/classspell__putricide__unstable__experiment.html#aefdd306b81b44a0a5564eab5a0491e09":[6,0,3548,0],
+"dd/d7e/classspell__putricide__unstable__experiment.html":[6,0,3549],
+"dd/d7e/classspell__putricide__unstable__experiment.html#a68c0462bd108b04621f8288328f78b18":[6,0,3549,1],
+"dd/d7e/classspell__putricide__unstable__experiment.html#aedaec0afc414800bc481a434592ffb5d":[6,0,3549,2],
+"dd/d7e/classspell__putricide__unstable__experiment.html#aefdd306b81b44a0a5564eab5a0491e09":[6,0,3549,0],
 "dd/d7f/CharacterDatabaseCleaner_8cpp.html":[7,0,0,0,1,2,45,0],
 "dd/d7f/boss__mor__grayhoof_8cpp.html":[7,0,0,0,1,3,2,1,1,6],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a020c977e2d9d6b6a6a377c0b81a5ad61":[7,0,0,0,1,3,2,1,1,6,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f563c1bba1af64ae5c19d212170eed5":[7,0,0,0,1,3,2,1,1,6,2,17],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca3061724d7785d585b14cfc45699157cf":[7,0,0,0,1,3,2,1,1,6,2,5],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca30aa4cac2f70a310466b3fb0f2d10eab":[7,0,0,0,1,3,2,1,1,6,2,2],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e5e143966721ffd7007e64676feb01a":[7,0,0,0,1,3,2,1,1,6,2,13],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca5cfb51461743a5d55d8f62642576ce96":[7,0,0,0,1,3,2,1,1,6,2,15],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca62abae152164d0fc40f7e1dd0a79b586":[7,0,0,0,1,3,2,1,1,6,2,16],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bee2818aaaee066c2aaeb1a967219fc":[7,0,0,0,1,3,2,1,1,6,2,10],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,1,1,6,2,14],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca806cb7b96227d35b023af65788bf6cfd":[7,0,0,0,1,3,2,1,1,6,2,12]
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e5e143966721ffd7007e64676feb01a":[7,0,0,0,1,3,2,1,1,6,2,13]
 };

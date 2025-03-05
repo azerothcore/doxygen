@@ -1,5 +1,10 @@
 var NAVTREEINDEX365 =
 {
+"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3281,4],
+"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3281,5],
+"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3281,3],
+"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3281,1],
+"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3281,0],
 "de/da6/zone__dragonblight_8cpp.html":[7,0,0,0,1,3,5,18],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2":[7,0,0,0,1,3,5,18,44],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2a5220fc25d0e046e45924ef4a9f6a3b7d":[7,0,0,0,1,3,5,18,44,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX365 =
 "de/da9/classMotionTransport.html#a7966ea85271bae3f9f198dc6a2f39cbf":[6,0,1517,44],
 "de/da9/classMotionTransport.html#a79ba324dbc73c3a3482e1de4d4ff6f07":[6,0,1517,33],
 "de/da9/classMotionTransport.html#a7b82375d462e684d359d2d7552ad8458":[6,0,1517,38],
-"de/da9/classMotionTransport.html#a7b94321456a854f74137d6e2ee5ee3d3":[6,0,1517,16],
-"de/da9/classMotionTransport.html#a7dc241c708a80d6ede8d105eb542ac9f":[6,0,1517,41],
-"de/da9/classMotionTransport.html#a828fbe7de6e25f06807c2a842ed65926":[6,0,1517,22],
-"de/da9/classMotionTransport.html#a86f3ac330b81d47bb863db3d7bf64d91":[6,0,1517,36],
-"de/da9/classMotionTransport.html#a8cfae4b0a718455dd2f4b0949db0b4fb":[6,0,1517,1],
-"de/da9/classMotionTransport.html#a8ec4a0a3c8b3a1b8133609eaa30b4de0":[6,0,1517,24]
+"de/da9/classMotionTransport.html#a7b94321456a854f74137d6e2ee5ee3d3":[6,0,1517,16]
 };
