@@ -555,7 +555,7 @@ var searchData=
   ['handlegmticketassigntocommand_552',['HandleGMTicketAssignToCommand',['../da/d49/classticket__commandscript.html#a20e307317e082667b420562802b25eed',1,'ticket_commandscript']]],
   ['handlegmticketclosebyidcommand_553',['HandleGMTicketCloseByIdCommand',['../da/d49/classticket__commandscript.html#a18a65dc2e01aa1bfbf9be20e312fb29f',1,'ticket_commandscript']]],
   ['handlegmticketcommentcommand_554',['HandleGMTicketCommentCommand',['../da/d49/classticket__commandscript.html#a69d76ba54dc776f35a200b79d3383109',1,'ticket_commandscript']]],
-  ['handlegmticketcompletecommand_555',['HandleGMTicketCompleteCommand',['../da/d49/classticket__commandscript.html#a7dd17afc1279a650b53815c5dc5cb9ac',1,'ticket_commandscript']]],
+  ['handlegmticketcompletecommand_555',['HandleGMTicketCompleteCommand',['../da/d49/classticket__commandscript.html#a6fee1c90d90c733d2c554389e305a767',1,'ticket_commandscript']]],
   ['handlegmticketcreateopcode_556',['HandleGMTicketCreateOpcode',['../d8/d74/classWorldSession.html#a04a5f9b5a91dfc9d941012059747ea78',1,'WorldSession']]],
   ['handlegmticketdeletebyidcommand_557',['HandleGMTicketDeleteByIdCommand',['../da/d49/classticket__commandscript.html#a5caaf9293917036dd957d2b0a4bb61d1',1,'ticket_commandscript']]],
   ['handlegmticketdeleteopcode_558',['HandleGMTicketDeleteOpcode',['../d8/d74/classWorldSession.html#aed26439574e040db313c6a5b5d2b6d2b',1,'WorldSession']]],
