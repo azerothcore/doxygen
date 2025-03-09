@@ -82,7 +82,6 @@ var ObjectMgr_8h =
     [ "QuestRequestItemsLocaleContainer", "de/d25/ObjectMgr_8h.html#ade636c996e1ed5d559a29d117c73c75f", null ],
     [ "ScriptMap", "de/d25/ObjectMgr_8h.html#a260daf2379f66c27770f8fdc2e527bce", null ],
     [ "ScriptMapMap", "de/d25/ObjectMgr_8h.html#aa132ba0e71cb8e912545ffd9a6ee5b16", null ],
-    [ "ServerMailContainer", "de/d25/ObjectMgr_8h.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
     [ "SpellClickInfoContainer", "de/d25/ObjectMgr_8h.html#a8238b7ead47eff1d337db6553f15e438", null ],
     [ "SpellClickInfoMapBounds", "de/d25/ObjectMgr_8h.html#ac546455503d6a9ece86173f659e6e2bd", null ],
     [ "SpellScriptsBounds", "de/d25/ObjectMgr_8h.html#a2f79d1bd10a4458336bb9739571c8d95", null ],

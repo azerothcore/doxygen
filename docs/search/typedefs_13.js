@@ -26,7 +26,7 @@ var searchData=
   ['seconds_23',['Seconds',['../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8',1,'Duration.h']]],
   ['secret_24',['Secret',['../dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03',1,'Acore::Crypto::TOTP']]],
   ['seglenghtmethtod_25',['SegLenghtMethtod',['../d4/d2d/classMovement_1_1SplineBase.html#ad95746f73cc1c1ff8a269e6f80aa0c63',1,'Movement::SplineBase']]],
-  ['servermailcontainer_26',['ServerMailContainer',['../de/d25/ObjectMgr_8h.html#a9c10c94a0a8508b3af2e92d3455d063b',1,'ObjectMgr.h']]],
+  ['servermailcontainer_26',['ServerMailContainer',['../d0/d0a/ServerMailMgr_8h.html#a9c10c94a0a8508b3af2e92d3455d063b',1,'ServerMailMgr.h']]],
   ['sessionkey_27',['SessionKey',['../d9/d71/AuthDefines_8h.html#a7cbcb71452529a2addaab3b112dba4d7',1,'AuthDefines.h']]],
   ['sessionmap_28',['SessionMap',['../d0/d5e/classWorldSessionMgr.html#aff543987bdf9b5d8c293ddfa393d3c7b',1,'WorldSessionMgr']]],
   ['sha1_29',['sha1',['../d7/dcd/namespaceAcore_1_1Crypto.html#ac698fcc9e65a1dd451c5bd72b1b3e368',1,'Acore::Crypto::SHA1'],['../d7/d1a/SRP6_8cpp.html#af1f12790805678378554ea1c14b0c1df',1,'SHA1:&#160;SRP6.cpp']]],

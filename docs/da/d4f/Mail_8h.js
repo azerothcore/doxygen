@@ -5,7 +5,6 @@ var Mail_8h =
     [ "MailDraft", "d0/de9/classMailDraft.html", "d0/de9/classMailDraft" ],
     [ "MailItemInfo", "d0/d3b/structMailItemInfo.html", "d0/d3b/structMailItemInfo" ],
     [ "Mail", "d0/d12/structMail.html", "d0/d12/structMail" ],
-    [ "ServerMail", "d8/d86/structServerMail.html", "d8/d86/structServerMail" ],
     [ "MAIL_BODY_ITEM_TEMPLATE", "da/d4f/Mail_8h.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
     [ "MAX_MAIL_ITEMS", "da/d4f/Mail_8h.html#a92d79b5b2210d828abe28a8834a50770", null ],
     [ "MailItemInfoVec", "da/d4f/Mail_8h.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
