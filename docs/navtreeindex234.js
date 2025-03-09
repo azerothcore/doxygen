@@ -1,5 +1,13 @@
 var NAVTREEINDEX234 =
 {
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a197b4add6d328ebdfb3f0c051f216cd5":[6,0,680,0,7],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a38c4586095aeaf404914369ae5414351":[6,0,680,0,3],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a3c7c9a032233d381c942bbb29a4a39e9":[6,0,680,0,12],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a62e6b1482b2fa791813b9a5520a234e4":[6,0,680,0,2],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a765c041f412c4d20023b0cc435d4bc4f":[6,0,680,0,16],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a7e4fd2ad6735419b34484c46ec2ef421":[6,0,680,0,8],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a82d135980280477372324da270e3e6a1":[6,0,680,0,13],
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a8da157b4da551b96f534ad80fcf2f8e1":[6,0,680,0,11],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a9557df2556d86c50f41d066ce3373eaf":[6,0,680,0,14],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a96866122f159f818b2a4312fb7d3057c":[6,0,680,0,0],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a9fc4dbd88390dbb455150144f4604ccb":[6,0,680,0,15],
@@ -8,10 +16,10 @@ var NAVTREEINDEX234 =
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#adef834e9b17d7cff0aaed9c36b7c7684":[6,0,680,0,17],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#ae0e4559477f26660b20ce5de5f295c54":[6,0,680,0,10],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#aebb211a381a74128489986e32954c089":[6,0,680,0,6],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html":[6,0,3609],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#a72673f5054cf269cc8da511441f7bd66":[6,0,3609,2],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#a8b8276833404f3f69c3b7f97d95b6982":[6,0,3609,0],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#aa632d381ac415feaf226f55fc2cd8520":[6,0,3609,1],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html":[6,0,3610],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#a72673f5054cf269cc8da511441f7bd66":[6,0,3610,2],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#a8b8276833404f3f69c3b7f97d95b6982":[6,0,3610,0],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#aa632d381ac415feaf226f55fc2cd8520":[6,0,3610,1],
 "d9/d6a/icecrown__citadel_8h.html":[7,0,0,0,1,3,5,6,13],
 "d9/d6a/icecrown__citadel_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,6,13,1],
 "d9/d6a/icecrown__citadel_8h.html#a0ce99e5b1455ff2dca8dde94727b840a":[7,0,0,0,1,3,5,6,13,19],
@@ -241,13 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a4d3d690339871a0bf0a4e54f36ec5941":[7,0,0,0,1,3,5,6,13,15,5],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5c9c239c26486715a37e60ac52a924d5":[7,0,0,0,1,3,5,6,13,15,3],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5cf172c222a07399de125c1d2eb6c104":[7,0,0,0,1,3,5,6,13,15,6],
-"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a84c123382ace53bc7cfeed00d2e0d226":[7,0,0,0,1,3,5,6,13,15,0],
-"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412abfac072d6a956f92518d7859ee6adc70":[7,0,0,0,1,3,5,6,13,15,4],
-"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412ac9261fd9470dba4ec6928421d873ed0a":[7,0,0,0,1,3,5,6,13,15,2],
-"d9/d6a/icecrown__citadel_8h.html#a8ad0adeac0057e9785ab4fce6f4d6697":[7,0,0,0,1,3,5,6,13,2],
-"d9/d6a/icecrown__citadel_8h.html#a8d9cfab4a8e106814e702722a422d635":[7,0,0,0,1,3,5,6,13,22],
-"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52":[7,0,0,0,1,3,5,6,13,11],
-"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a0e3549b6895bc3f892d176a9723d4906":[7,0,0,0,1,3,5,6,13,11,0],
-"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a3f90077f9d647e6477c92e0f1eb4b233":[7,0,0,0,1,3,5,6,13,11,3],
-"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a94102e476bb2e12cceb2d89c467cb18b":[7,0,0,0,1,3,5,6,13,11,1]
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a84c123382ace53bc7cfeed00d2e0d226":[7,0,0,0,1,3,5,6,13,15,0]
 };

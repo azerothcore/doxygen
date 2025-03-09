@@ -2599,6 +2599,7 @@ var annotated_dup =
     [ "npc_storm_cloud", "da/da9/classnpc__storm__cloud.html", "da/da9/classnpc__storm__cloud" ],
     [ "npc_stormforged_lieutenant", "d4/d02/classnpc__stormforged__lieutenant.html", "d4/d02/classnpc__stormforged__lieutenant" ],
     [ "npc_strangulate_vehicle", "d4/d85/classnpc__strangulate__vehicle.html", "d4/d85/classnpc__strangulate__vehicle" ],
+    [ "npc_sunblade_scout", "d6/d6b/structnpc__sunblade__scout.html", "d6/d6b/structnpc__sunblade__scout" ],
     [ "npc_suns_reach_reclamation", "d7/df9/classnpc__suns__reach__reclamation.html", "d7/df9/classnpc__suns__reach__reclamation" ],
     [ "npc_sunwell_gate", "d8/d25/classnpc__sunwell__gate.html", "d8/d25/classnpc__sunwell__gate" ],
     [ "npc_supervisor_raelen", "db/d3d/structnpc__supervisor__raelen.html", "db/d3d/structnpc__supervisor__raelen" ],

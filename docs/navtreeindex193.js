@@ -1,5 +1,13 @@
 var NAVTREEINDEX193 =
 {
+"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2807,2],
+"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2807,5],
+"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2807,4],
+"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2807,0],
+"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2807,1],
+"d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html":[7,0,0,0,3,4,10],
+"d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#a8d76af4bfff910da40b4f93a1c465744":[7,0,0,0,3,4,10,2],
+"d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,4,10,3],
 "d7/d9a/WorldState_8h.html":[7,0,0,0,1,2,48,4],
 "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277":[7,0,0,0,1,2,48,4,14],
 "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a23c2e83b7fe4dcae33037b9f798878c1":[7,0,0,0,1,2,48,4,14,7],
@@ -191,8 +199,8 @@ var NAVTREEINDEX193 =
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[6,0,10,1,3],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[6,0,10,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,29,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[6,0,10,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,29,1,0],
+"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[6,0,10,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,29,1,2],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[6,0,10,1,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html":[6,0,397,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa053cd77d7423c67a320f87283f083477":[7,0,0,0,1,2,28,2,0,614],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa053eef5a4921d9fef44fbc79f717a286":[7,0,0,0,1,2,28,2,0,739],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa053ff25e5bc20f00fb51f396af359cc8":[7,0,0,0,1,2,28,2,0,397],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa054b1530f5c0a55a2373a76356d4da96":[7,0,0,0,1,2,28,2,0,976],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa05e8ff483dcc463ae8978f77d6623d0d":[7,0,0,0,1,2,28,2,0,466],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa05f90acfcbafadc9a14fc16c37046863":[7,0,0,0,1,2,28,2,0,696],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06066bd7a19f8b53358e12ed45517a1b":[7,0,0,0,1,2,28,2,0,1030],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa062db88f381574ec00474b33724121a7":[7,0,0,0,1,2,28,2,0,679],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa065b71e9298a1ab1ffb113b903bd4215":[7,0,0,0,1,2,28,2,0,71],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0695be5d71d2f34e1a1c00e82ef3f6c7":[7,0,0,0,1,2,28,2,0,1014],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06b30878462eab250067d5c657c26627":[7,0,0,0,1,2,28,2,0,761],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06be2f611064175a0e9555b1a510ef34":[7,0,0,0,1,2,28,2,0,84]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa054b1530f5c0a55a2373a76356d4da96":[7,0,0,0,1,2,28,2,0,976]
 };
