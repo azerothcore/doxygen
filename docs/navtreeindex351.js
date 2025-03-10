@@ -1,6 +1,5 @@
 var NAVTREEINDEX351 =
 {
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2217,0,3],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a7927f399ef1c89b3eb83804fde9b2700":[6,0,2217,0,6],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aa814a46a45ce5eb9696c8f6c6de8c521":[6,0,2217,0,7],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aaf35c04462b1698e85df64190f4e2c8a":[6,0,2217,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX351 =
 "de/d2d/namespaceObjectAccessor.html#ade254f98439319c444ce701c75d4f93a":[5,0,23,20],
 "de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
 "de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
-"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5]
+"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3795]
 };

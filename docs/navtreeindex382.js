@@ -1,6 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[6,0,282,5],
 "df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[6,0,282,6],
 "df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[6,0,282,3],
 "df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[6,0,282,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX382 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6d61585b900551b2198ce83ad78858aa":[7,0,0,0,1,3,5,9,2,4,42,22],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6f0c520b52c862406dd4918c1f622916":[7,0,0,0,1,3,5,9,2,4,42,65],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa72d2a0f288eec28f92c56eb0bbda7654":[7,0,0,0,1,3,5,9,2,4,42,14],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa734db1ef547a27fec3274345593b3ec8":[7,0,0,0,1,3,5,9,2,4,42,45]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa734db1ef547a27fec3274345593b3ec8":[7,0,0,0,1,3,5,9,2,4,42,45],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa797b574a5577d8e6dffaa998c8f0db53":[7,0,0,0,1,3,5,9,2,4,42,6]
 };

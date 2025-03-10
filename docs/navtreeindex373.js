@@ -1,6 +1,5 @@
 var NAVTREEINDEX373 =
 {
-"df/d14/classPet.html#ac731f71baf5d76ef5eead277e371605a":[6,0,2374,2],
 "df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0":[6,0,2374,38],
 "df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[6,0,2374,73],
 "df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2374,77],
@@ -249,5 +248,6 @@ var NAVTREEINDEX373 =
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a661199c38d5bce921632191132767c32":[6,0,1960,0,7],
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a6ae48c92d9fec13d66c445a2176b58eb":[6,0,1960,0,4],
 "df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a8019ef0c505c6b71a44da13ed0dd081b":[6,0,1960,0,6],
-"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a9619ab9bb68a3da71a6c78e4092632f4":[6,0,1960,0,8]
+"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#a9619ab9bb68a3da71a6c78e4092632f4":[6,0,1960,0,8],
+"df/d18/structnpc__mimirons__inferno_1_1npc__mimirons__infernoAI.html#ad3a5853ee86922f5854ddf757dada8e9":[6,0,1960,0,11]
 };

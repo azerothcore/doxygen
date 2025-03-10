@@ -1,6 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d6f/namespaceAcore_1_1Module.html":[5,0,1,9],
 "df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,1,9,0],
 "df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,1,9,1],
 "df/d6f/structboss__eydis_1_1boss__eydisAI.html":[6,0,451,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX381 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#ae6fb76012902540a55870ed7b2f3fc7b":[6,0,676,0,12],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aed06635aabcb47fd700ab1a894bad13c":[6,0,676,0,7],
 "df/d7b/classAuraMunchingQueue.html":[6,0,282],
-"df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[6,0,282,7]
+"df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[6,0,282,7],
+"df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[6,0,282,5]
 };

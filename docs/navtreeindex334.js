@@ -1,6 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69":[7,0,0,0,1,3,5,19,39,3],
 "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0af1a459e1e4ac32608277cef4939a02a1":[7,0,0,0,1,3,5,19,39,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587a":[7,0,0,0,1,3,5,19,32],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa2b1d615a0a23dead8c66bb54fe10a2ec":[7,0,0,0,1,3,5,19,32,3],
@@ -94,16 +93,16 @@ var NAVTREEINDEX334 =
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,2939,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,2939,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2939,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,25],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,13],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,25],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,13,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,25,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,13,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,25,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,13,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,25,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,25,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,13,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,25,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,13,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,25,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3014],
@@ -161,8 +160,8 @@ var NAVTREEINDEX334 =
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,11,8,2,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,11,8,2,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,30,8,2,2],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,11,8,2,1],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,30,8,2,1],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,11,8,2,1],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html":[6,0,3147],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a08be3cb2bef2f4697b7e258b231bd35b":[6,0,3147,3],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a0d8d042e6e9bf8fd26b6f283f6da6194":[6,0,3147,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX334 =
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[6,0,0,38,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,1,50,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,1,50,0,1],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,38,0,1]
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,38,0,1],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,38,0,2]
 };

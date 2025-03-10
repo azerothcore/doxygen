@@ -48,14 +48,12 @@ var sunwell__plateau_8h =
       [ "DATA_SATHROVARR", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187", null ],
       [ "DATA_KJ_CONTROLLER", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9", null ],
       [ "DATA_ANVEENA", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a8360eb3e0e40081d30fba613376c2a0d", null ],
-      [ "DATA_KALECGOS_KJ", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aebc6bcf440f44099ab74fcd0c6911859", null ]
-    ] ],
-    [ "DataTypesObjects", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4", [
-      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_1", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4a3bdea36e5df0520614d00c8205e5aaf6", null ],
-      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4aec03c7cc948b18ef8cf9f0679c52d59f", null ],
-      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4af0b1696449fcc3c87159e1b1dd68322e", null ],
-      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4a0f8218ec08638a02f12ee6a3447ceefa", null ],
-      [ "DATA_ICEBARRIER", "dd/d2c/sunwell__plateau_8h.html#a1ba2fefc89093ca142a4492c1f9334e4a0606a3b5c339e60928ac75714f1aa1f1", null ]
+      [ "DATA_KALECGOS_KJ", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aebc6bcf440f44099ab74fcd0c6911859", null ],
+      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_1", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a3bdea36e5df0520614d00c8205e5aaf6", null ],
+      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aec03c7cc948b18ef8cf9f0679c52d59f", null ],
+      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e", null ],
+      [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa", null ],
+      [ "DATA_ICEBARRIER", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1", null ]
     ] ],
     [ "GameObjectIds", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999f", [
       [ "GO_FORCE_FIELD", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9", null ],

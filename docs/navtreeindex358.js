@@ -1,6 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX358 =
 "de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2232,2],
 "de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2232,1],
 "de/d75/classDelayedSummonEvent.html":[6,0,965],
-"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,965,2]
+"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,965,2],
+"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[6,0,965,3]
 };

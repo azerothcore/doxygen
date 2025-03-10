@@ -350,27 +350,24 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d6/d79/classOPvPCapturePoint.html#a7d0292f1d050b6474599041de0653dad">OPvPCapturePoint</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  340</span>{</div>
-<div class="line"><span class="lineno">  341</span>    <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid = c-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  342</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.find(guid.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  343</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.end())</div>
-<div class="line"><span class="lineno">  344</span>    {</div>
-<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82">ZM_ALLIANCE_FIELD_SCOUT</a> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8">m_BothControllingFactionId</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> &amp;&amp; !<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a> != <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329">ZM_GRAVEYARD_A</a>)</div>
-<div class="line"><span class="lineno">  346</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62">ZM_HORDE_FIELD_SCOUT</a> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8">m_BothControllingFactionId</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> &amp;&amp; !<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a> != <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065">ZM_GRAVEYARD_H</a>)</div>
-<div class="line"><span class="lineno">  348</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  349</span>    }</div>
-<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  351</span>}</div>
+<div class="line"><span class="lineno">  341</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.find(c-&gt;GetSpawnId());</div>
+<div class="line"><span class="lineno">  342</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.end())</div>
+<div class="line"><span class="lineno">  343</span>    {</div>
+<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82">ZM_ALLIANCE_FIELD_SCOUT</a> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8">m_BothControllingFactionId</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> &amp;&amp; !<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a> != <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329">ZM_GRAVEYARD_A</a>)</div>
+<div class="line"><span class="lineno">  345</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  346</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62">ZM_HORDE_FIELD_SCOUT</a> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8">m_BothControllingFactionId</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> &amp;&amp; !<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> &amp;&amp; <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a> != <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065">ZM_GRAVEYARD_H</a>)</div>
+<div class="line"><span class="lineno">  347</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  348</span>    }</div>
+<div class="line"><span class="lineno">  349</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  350</span>}</div>
 <div class="ttc" id="aOutdoorPvPZM_8h_html_ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065"><div class="ttname"><a href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065">ZM_GRAVEYARD_H</a></div><div class="ttdeci">@ ZM_GRAVEYARD_H</div><div class="ttdef"><b>Definition</b> OutdoorPvPZM.h:195</div></div>
 <div class="ttc" id="aOutdoorPvPZM_8h_html_ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329"><div class="ttname"><a href="../../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329">ZM_GRAVEYARD_A</a></div><div class="ttdeci">@ ZM_GRAVEYARD_A</div><div class="ttdef"><b>Definition</b> OutdoorPvPZM.h:194</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:760</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:761</div></div>
 <div class="ttc" id="aclassOPvPCapturePoint_html_a17b8c218e8bb3b86489b387d56b06373"><div class="ttname"><a href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">OPvPCapturePoint::_creatureTypes</a></div><div class="ttdeci">std::unordered_map&lt; ObjectGuid::LowType, uint32 &gt; _creatureTypes</div><div class="ttdef"><b>Definition</b> OutdoorPvP.h:181</div></div>
-<div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
-<div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:145</div></div>
 <div class="ttc" id="aclassPlayer_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition</b> Player.h:2116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00181">OPvPCapturePoint::_creatureTypes</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00227">m_BothControllingFactionId</a>, <a class="el" href="../../#l00228">m_FlagCarrierGUID</a>, <a class="el" href="../../#l00224">m_GraveyardState</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, <a class="el" href="../../#l00062">ZM_ALLIANCE_FIELD_SCOUT</a>, <a class="el" href="../../#l00194">ZM_GRAVEYARD_A</a>, <a class="el" href="../../#l00195">ZM_GRAVEYARD_H</a>, and <a class="el" href="../../#l00063">ZM_HORDE_FIELD_SCOUT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00181">OPvPCapturePoint::_creatureTypes</a>, <a class="el" href="../../#l00065">Creature::GetSpawnId()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00227">m_BothControllingFactionId</a>, <a class="el" href="../../#l00228">m_FlagCarrierGUID</a>, <a class="el" href="../../#l00224">m_GraveyardState</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, <a class="el" href="../../#l00062">ZM_ALLIANCE_FIELD_SCOUT</a>, <a class="el" href="../../#l00194">ZM_GRAVEYARD_A</a>, <a class="el" href="../../#l00195">ZM_GRAVEYARD_H</a>, and <a class="el" href="../../#l00063">ZM_HORDE_FIELD_SCOUT</a>.</p>
 
 </div>
 </div>
@@ -464,9 +461,9 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>{</div>
-<div class="line"><span class="lineno">  396</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a>;</div>
-<div class="line"><span class="lineno">  397</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  394</span>{</div>
+<div class="line"><span class="lineno">  395</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#a20e5b236d87c0942d15a60d2eba1af83">m_GraveyardState</a>;</div>
+<div class="line"><span class="lineno">  396</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00224">m_GraveyardState</a>.</p>
 
@@ -509,18 +506,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d79/classOPvPCapturePoint.html#a9b6713759cd263075c2f07d515ae41eb">OPvPCapturePoint</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  381</span>{</div>
-<div class="line"><span class="lineno">  382</span>    <span class="keywordflow">switch</span> (spellId)</div>
-<div class="line"><span class="lineno">  383</span>    {</div>
-<div class="line"><span class="lineno">  384</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5">ZM_BATTLE_STANDARD_A</a>:</div>
-<div class="line"><span class="lineno">  385</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  386</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  387</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614">ZM_BATTLE_STANDARD_H</a>:</div>
-<div class="line"><span class="lineno">  388</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  389</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  390</span>    }</div>
-<div class="line"><span class="lineno">  391</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  392</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  380</span>{</div>
+<div class="line"><span class="lineno">  381</span>    <span class="keywordflow">switch</span> (spellId)</div>
+<div class="line"><span class="lineno">  382</span>    {</div>
+<div class="line"><span class="lineno">  383</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5">ZM_BATTLE_STANDARD_A</a>:</div>
+<div class="line"><span class="lineno">  384</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  385</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  386</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614">ZM_BATTLE_STANDARD_H</a>:</div>
+<div class="line"><span class="lineno">  387</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  388</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  389</span>    }</div>
+<div class="line"><span class="lineno">  390</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  391</span>}</div>
 <div class="ttc" id="aOutdoorPvPZM_8h_html_ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614"><div class="ttname"><a href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614">ZM_BATTLE_STANDARD_H</a></div><div class="ttdeci">@ ZM_BATTLE_STANDARD_H</div><div class="ttdef"><b>Definition</b> OutdoorPvPZM.h:42</div></div>
 <div class="ttc" id="aOutdoorPvPZM_8h_html_ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5"><div class="ttname"><a href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5">ZM_BATTLE_STANDARD_A</a></div><div class="ttdeci">@ ZM_BATTLE_STANDARD_A</div><div class="ttdef"><b>Definition</b> OutdoorPvPZM.h:40</div></div>
 </div><!-- fragment -->
@@ -569,31 +566,31 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d79/classOPvPCapturePoint.html#a305160a6d38719d4c019da487c1c71d9">OPvPCapturePoint</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  354</span>{</div>
-<div class="line"><span class="lineno">  355</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.find(creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>());</div>
-<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.end())</div>
-<div class="line"><span class="lineno">  357</span>    {</div>
-<div class="line"><span class="lineno">  358</span>        <span class="comment">// if the flag is already taken, then return</span></div>
-<div class="line"><span class="lineno">  359</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>)</div>
-<div class="line"><span class="lineno">  360</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  361</span> </div>
-<div class="line"><span class="lineno">  362</span>        <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82">ZM_ALLIANCE_FIELD_SCOUT</a>)</div>
-<div class="line"><span class="lineno">  363</span>        {</div>
-<div class="line"><span class="lineno">  364</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5">ZM_BATTLE_STANDARD_A</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  365</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  366</span>        }</div>
-<div class="line"><span class="lineno">  367</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62">ZM_HORDE_FIELD_SCOUT</a>)</div>
-<div class="line"><span class="lineno">  368</span>        {</div>
-<div class="line"><span class="lineno">  369</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614">ZM_BATTLE_STANDARD_H</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  370</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  371</span>        }</div>
-<div class="line"><span class="lineno">  372</span> </div>
-<div class="line"><span class="lineno">  373</span>        <a class="code hl_function" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832">UpdateTowerState</a>();</div>
-<div class="line"><span class="lineno">  374</span>        player-&gt;<a class="code hl_variable" href="../../d2/d4b/classPlayer.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d7/dd6/classPlayerMenu.html#a1071f28b7138ecbd7e94d95175059ba1">SendCloseGossip</a>();</div>
-<div class="line"><span class="lineno">  375</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  376</span>    }</div>
-<div class="line"><span class="lineno">  377</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  378</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  353</span>{</div>
+<div class="line"><span class="lineno">  354</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.find(creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>());</div>
+<div class="line"><span class="lineno">  355</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373">_creatureTypes</a>.end())</div>
+<div class="line"><span class="lineno">  356</span>    {</div>
+<div class="line"><span class="lineno">  357</span>        <span class="comment">// if the flag is already taken, then return</span></div>
+<div class="line"><span class="lineno">  358</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a>)</div>
+<div class="line"><span class="lineno">  359</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  360</span> </div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82">ZM_ALLIANCE_FIELD_SCOUT</a>)</div>
+<div class="line"><span class="lineno">  362</span>        {</div>
+<div class="line"><span class="lineno">  363</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5">ZM_BATTLE_STANDARD_A</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  364</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  365</span>        }</div>
+<div class="line"><span class="lineno">  366</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (itr-&gt;second == <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62">ZM_HORDE_FIELD_SCOUT</a>)</div>
+<div class="line"><span class="lineno">  367</span>        {</div>
+<div class="line"><span class="lineno">  368</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614">ZM_BATTLE_STANDARD_H</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  369</span>            <a class="code hl_variable" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4">m_FlagCarrierGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  370</span>        }</div>
+<div class="line"><span class="lineno">  371</span> </div>
+<div class="line"><span class="lineno">  372</span>        <a class="code hl_function" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832">UpdateTowerState</a>();</div>
+<div class="line"><span class="lineno">  373</span>        player-&gt;<a class="code hl_variable" href="../../d2/d4b/classPlayer.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d7/dd6/classPlayerMenu.html#a1071f28b7138ecbd7e94d95175059ba1">SendCloseGossip</a>();</div>
+<div class="line"><span class="lineno">  374</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  375</span>    }</div>
+<div class="line"><span class="lineno">  376</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  377</span>}</div>
 <div class="ttc" id="aclassCreature_html_a94ab8e421d4a244df52b7a6b74b2842a"><div class="ttname"><a href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">Creature::GetSpawnId</a></div><div class="ttdeci">ObjectGuid::LowType GetSpawnId() const</div><div class="ttdef"><b>Definition</b> Creature.h:65</div></div>
 <div class="ttc" id="aclassOPvPCapturePointZM__Graveyard_html_ae907325621c0c0a40fc1e7761b81e832"><div class="ttname"><a href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832">OPvPCapturePointZM_Graveyard::UpdateTowerState</a></div><div class="ttdeci">void UpdateTowerState()</div><div class="ttdef"><b>Definition</b> OutdoorPvPZM.cpp:270</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:112</div></div>
@@ -831,7 +828,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00173">OPvPCapturePoint::_pvp</a>, <a class="el" href="../../#l00227">m_BothControllingFactionId</a>, <a class="el" href="../../#l00224">m_GraveyardState</a>, <a class="el" href="../../#l00456">OutdoorPvP::SendUpdateWorldState()</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, <a class="el" href="../../#l00194">ZM_GRAVEYARD_A</a>, <a class="el" href="../../#l00195">ZM_GRAVEYARD_H</a>, <a class="el" href="../../#l00193">ZM_GRAVEYARD_N</a>, <a class="el" href="../../#l00156">ZM_MAP_ALLIANCE_FLAG_NOT_READY</a>, <a class="el" href="../../#l00157">ZM_MAP_ALLIANCE_FLAG_READY</a>, <a class="el" href="../../#l00148">ZM_MAP_GRAVEYARD_A</a>, <a class="el" href="../../#l00147">ZM_MAP_GRAVEYARD_H</a>, <a class="el" href="../../#l00149">ZM_MAP_GRAVEYARD_N</a>, <a class="el" href="../../#l00155">ZM_MAP_HORDE_FLAG_NOT_READY</a>, and <a class="el" href="../../#l00154">ZM_MAP_HORDE_FLAG_READY</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00353">HandleGossipOption()</a>, <a class="el" href="../../#l00221">HandleOpenGo()</a>, and <a class="el" href="../../#l00294">SetBeaconState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00352">HandleGossipOption()</a>, <a class="el" href="../../#l00221">HandleOpenGo()</a>, and <a class="el" href="../../#l00294">SetBeaconState()</a>.</p>
 
 </div>
 </div>
@@ -880,7 +877,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00339">CanTalkTo()</a>, <a class="el" href="../../#l00380">HandleDropFlag()</a>, <a class="el" href="../../#l00353">HandleGossipOption()</a>, <a class="el" href="../../#l00257">OPvPCapturePointZM_Graveyard()</a>, and <a class="el" href="../../#l00294">SetBeaconState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00339">CanTalkTo()</a>, <a class="el" href="../../#l00379">HandleDropFlag()</a>, <a class="el" href="../../#l00352">HandleGossipOption()</a>, <a class="el" href="../../#l00257">OPvPCapturePointZM_Graveyard()</a>, and <a class="el" href="../../#l00294">SetBeaconState()</a>.</p>
 
 </div>
 </div>
@@ -904,7 +901,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00339">CanTalkTo()</a>, <a class="el" href="../../#l00282">FillInitialWorldStates()</a>, <a class="el" href="../../#l00394">GetGraveyardState()</a>, <a class="el" href="../../#l00221">HandleOpenGo()</a>, <a class="el" href="../../#l00257">OPvPCapturePointZM_Graveyard()</a>, <a class="el" href="../../#l00294">SetBeaconState()</a>, and <a class="el" href="../../#l00270">UpdateTowerState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00339">CanTalkTo()</a>, <a class="el" href="../../#l00282">FillInitialWorldStates()</a>, <a class="el" href="../../#l00393">GetGraveyardState()</a>, <a class="el" href="../../#l00221">HandleOpenGo()</a>, <a class="el" href="../../#l00257">OPvPCapturePointZM_Graveyard()</a>, <a class="el" href="../../#l00294">SetBeaconState()</a>, and <a class="el" href="../../#l00270">UpdateTowerState()</a>.</p>
 
 </div>
 </div>
@@ -918,7 +915,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d0b/classOPvPCapturePointZM__Graveyard.html">OPvPCapturePointZM_Graveyard</a></li>
-    <li class="footer">Generated on Sun Mar 9 2025 08:23:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 10 2025 06:19:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

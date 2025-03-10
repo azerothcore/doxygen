@@ -1,6 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d":[7,0,0,0,1,2,15,5,32],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e":[7,0,0,0,1,2,15,5,32,1],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c":[7,0,0,0,1,2,15,5,32,0],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da6007d32ac1027fdc23c0db35632b3b9d":[7,0,0,0,1,2,15,5,32,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX355 =
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae4ebbccc403bcc3621437a36f8678b93":[6,0,727,0,1],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af81105d937124f49bd722ca787d31d58":[6,0,727,0,15],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af867d86aa20366bfbbfaf8083fe35271":[6,0,727,0,18],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,727,0,19]
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,727,0,19],
+"de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38]
 };

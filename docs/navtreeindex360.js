@@ -1,6 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0":[6,0,2050,0,3],
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html":[6,0,2225,0],
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#a28106e303d5e7c1bce9ceaa571129dca":[6,0,2225,0,4],
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#a60fbcbae9205bfd1c63b5bef7924b3ee":[6,0,2225,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX360 =
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3745,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3745,3],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26]
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0]
 };

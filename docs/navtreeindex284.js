@@ -1,7 +1,7 @@
 var NAVTREEINDEX284 =
 {
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
 "db/da6/classspell__sindragosa__unchained__magic.html":[6,0,3779],
 "db/da6/classspell__sindragosa__unchained__magic.html#aa7e731de9e5ab1078b8ff7022393c9a7":[6,0,3779,0],
 "db/da6/classspell__sindragosa__unchained__magic.html#ae6ab0b56688bfc07262cc83e84102ccb":[6,0,3779,2],

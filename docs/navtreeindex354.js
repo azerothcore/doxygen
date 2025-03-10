@@ -1,6 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[6,0,835,5],
 "de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,835,3],
 "de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,835,0],
 "de/d3a/classspell__warlords__rage.html":[6,0,3942],
@@ -249,5 +248,6 @@ var NAVTREEINDEX354 =
 "de/d3d/LFGMgr_8h.html#a359159fc18660e1597cc4a90255412f1":[7,0,0,0,1,2,15,5,19],
 "de/d3d/LFGMgr_8h.html#a44b05d5c4dd27aa794f6cec4816524b6":[7,0,0,0,1,2,15,5,36],
 "de/d3d/LFGMgr_8h.html#a4b4f05b0e6e1405dd9e8f44ed1da0382":[7,0,0,0,1,2,15,5,15],
-"de/d3d/LFGMgr_8h.html#a65f1d8636d10579769f79b63216ff29d":[7,0,0,0,1,2,15,5,22]
+"de/d3d/LFGMgr_8h.html#a65f1d8636d10579769f79b63216ff29d":[7,0,0,0,1,2,15,5,22],
+"de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d":[7,0,0,0,1,2,15,5,32]
 };

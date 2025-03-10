@@ -1,6 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3449,0],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html":[7,0,0,0,1,3,2,1,2,1],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,1,2,1,5],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f":[7,0,0,0,1,3,2,1,2,1,5,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX389 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b":[7,0,0,0,1,3,9,10,32,20],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4":[7,0,0,0,1,3,9,10,32,21],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990":[7,0,0,0,1,3,9,10,32,15],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f":[7,0,0,0,1,3,9,10,32,28]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f":[7,0,0,0,1,3,9,10,32,28],
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad":[7,0,0,0,1,3,9,10,32,30]
 };

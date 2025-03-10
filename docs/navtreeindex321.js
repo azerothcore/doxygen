@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d4a/classspell__eredar__twins__handle__touch.html#a07973000e8a4b0ff66d4f4d1fd9f327e":[6,0,2839,1],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[6,0,2839,0],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2839,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[6,0,2839,3],
@@ -240,8 +239,8 @@ var NAVTREEINDEX321 =
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[5,0,27,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[6,0,9,2,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[5,0,27,2,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,27,2,0],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[6,0,9,2,0],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,27,2,0],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[6,0,9,2,1],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[5,0,27,2,1],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#adb24cb7deeafd42035efb29ad2529b14":[6,0,9,2,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dd/d5a/structBfWGGameObjectBuilding.html":[6,0,346],
 "dd/d5a/structBfWGGameObjectBuilding.html#a038bd5a89eddff137fc085371f9d1888":[6,0,346,19],
 "dd/d5a/structBfWGGameObjectBuilding.html#a1747bf381279251232b35cd8ba47c381":[6,0,346,14],
-"dd/d5a/structBfWGGameObjectBuilding.html#a26ecb2ff29a81d8bad2e5070e39a9f22":[6,0,346,10]
+"dd/d5a/structBfWGGameObjectBuilding.html#a26ecb2ff29a81d8bad2e5070e39a9f22":[6,0,346,10],
+"dd/d5a/structBfWGGameObjectBuilding.html#a2f1e928509a53a7024bff2c10be306c3":[6,0,346,17]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1914,1],
 "df/d57/classnpc__prospector__remtravel.html":[6,0,2048],
 "df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2048,3],
 "df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[6,0,2048,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX380 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[6,0,502,0,10],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[6,0,502,0,13],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[6,0,502,0,11],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[6,0,502,0,7]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[6,0,502,0,7],
+"df/d6f/namespaceAcore_1_1Module.html":[5,0,1,9]
 };

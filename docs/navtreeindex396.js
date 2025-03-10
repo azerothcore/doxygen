@@ -1,6 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/de3/classspell__q11520__discovering__your__roots.html#a5efc666af2cb73c376706c20e41ace68":[6,0,3592,1],
 "df/de3/structBattlegroundEYCapturingPointStruct.html":[6,0,319],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a23524562fd9c875b29092ee7e7a4e44b":[6,0,319,2],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a4b25984504b15c7249d2e5866ad35962":[6,0,319,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX396 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac1d12eb9e0fb26e5c743901404bb24a2":[7,0,0,0,1,3,5,6,1,20,6],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac915f0a08ee700a9f4755dc82d6dcbcf":[7,0,0,0,1,3,5,6,1,20,4],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad036e5be3774c27480a351d13f0ce472":[7,0,0,0,1,3,5,6,1,20,2],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,6,1,20,10]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,6,1,20,10],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adc6c958db98866668a338252fb3f352f":[7,0,0,0,1,3,5,6,1,20,5]
 };

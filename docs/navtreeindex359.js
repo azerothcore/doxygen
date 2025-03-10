@@ -1,6 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[6,0,965,3],
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,965,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,965,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,965,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX359 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[6,0,2050,0,0],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[6,0,2050,0,10],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[6,0,2050,0,6],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[6,0,2050,0,7]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[6,0,2050,0,7],
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0":[6,0,2050,0,3]
 };

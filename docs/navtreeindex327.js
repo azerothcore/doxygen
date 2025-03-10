@@ -1,6 +1,5 @@
 var NAVTREEINDEX327 =
 {
-"dd/da2/structboss__epoch__hunter.html#a652d14ebfced39b8164687a713780600":[6,0,442,0],
 "dd/da3/classspell__fire__festival__fortitude.html":[6,0,2851],
 "dd/da3/classspell__fire__festival__fortitude.html#a50ee42c11937759b6c52c2ab994481c4":[6,0,2851,0],
 "dd/da3/classspell__fire__festival__fortitude.html#a8dc12a723c2da948c38119e3fc34df35":[6,0,2851,1],
@@ -59,14 +58,14 @@ var NAVTREEINDEX327 =
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[5,0,1,125,3],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[6,0,0,113,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,1,125,5],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[5,0,1,125,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[6,0,0,113,4],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[6,0,0,113,0],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[5,0,1,125,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[5,0,1,125,0],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[5,0,1,125,2],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[6,0,0,113,0],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[6,0,0,113,2],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,1,125,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[5,0,1,125,2],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,113,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,1,125,1],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[6,0,1854,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[6,0,1854,0,4],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[6,0,1854,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX327 =
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae05818faa9b2eafc435ec94d1b7e87b2":[7,0,0,0,1,3,5,4,2,5,6,27],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae1724b36e5090d033401a3348621673e":[7,0,0,0,1,3,5,4,2,5,6,41],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae3db6d1269e55900967db7bc83183c12":[7,0,0,0,1,3,5,4,2,5,6,25],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaef3b9ae6274df8381227b7d7cd1d66ad":[7,0,0,0,1,3,5,4,2,5,6,29]
+"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaef3b9ae6274df8381227b7d7cd1d66ad":[7,0,0,0,1,3,5,4,2,5,6,29],
+"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaff692f04110af216d14842afc84f956d":[7,0,0,0,1,3,5,4,2,5,6,37]
 };
