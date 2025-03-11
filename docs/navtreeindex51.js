@@ -1,5 +1,6 @@
 var NAVTREEINDEX51 =
 {
+"d2/d1b/classspell__rotface__little__ooze__combine.html":[6,0,3700],
 "d2/d1b/classspell__rotface__little__ooze__combine.html#a37b261d0df2829788d8290a9194913f5":[6,0,3700,0],
 "d2/d1b/classspell__rotface__little__ooze__combine.html#a5b85b01100d7f7c672c437e4bdfd7a7c":[6,0,3700,2],
 "d2/d1b/classspell__rotface__little__ooze__combine.html#a63c446574c700a895d7fbc5bb2b81508":[6,0,3700,3],
@@ -191,22 +192,22 @@ var NAVTREEINDEX51 =
 "d2/d20/classat__cthun__stomach__exit.html":[6,0,214],
 "d2/d20/classat__cthun__stomach__exit.html#ab37174eff353cdbba1f300464645ac63":[6,0,214,0],
 "d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[6,0,214,1],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,30,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[6,0,11,5,5],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,30,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[5,0,30,5,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[6,0,11,5,5,2],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,30,5,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[6,0,11,5,5,3],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,30,5,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[6,0,11,5,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,30,5,5,8],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,30,5,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[6,0,11,5,5,4],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,30,5,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[6,0,11,5,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,30,5,5,1],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[6,0,11,5,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,30,5,5,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[6,0,11,5,5,0],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[6,0,11,5,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,30,5,5,0],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[6,0,11,5,5,0],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,30,5,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[6,0,11,5,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[5,0,30,5,5,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7e":[7,0,0,0,1,3,2,4,0,9],
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea1b143867def82033bba19ae4dca7a628":[7,0,0,0,1,3,2,4,0,9,6],
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea3d4da4d4284ea30c63f16bf9d8e727ff":[7,0,0,0,1,3,2,4,0,9,3],
-"d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea5ba4627583e29f7ea8ba97cd92289fff":[7,0,0,0,1,3,2,4,0,9,7],
-"d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea6847e1649e8f840015178e8270f8b21f":[7,0,0,0,1,3,2,4,0,9,1]
+"d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea5ba4627583e29f7ea8ba97cd92289fff":[7,0,0,0,1,3,2,4,0,9,7]
 };

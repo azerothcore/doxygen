@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a634372ecb400bab20c38e69539c4fc4a":[6,0,731,0,1],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a672e95cbaa8cfbc06604e5d30a9aaa4d":[6,0,731,0,2],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a79291008072b2bdbeb4d3d5901a5634b":[6,0,731,0,0],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a7f1dbfc124986f8e982331cd92806455":[6,0,731,0,8],
@@ -25,8 +26,8 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2033,0,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,30,10,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,10,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,30,10,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,10,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,30,10,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,10,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,30,10,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,10,1,2],
@@ -51,16 +52,16 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,201,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,74],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,86],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,74,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,86,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,74,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,74,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,86,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,74,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,86,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,74,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,86,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,74,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,74,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,86,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,74,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3647],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[6,0,3647,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[6,0,3647,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#a89a466917aa5634c4c86ecbce21280b7":[6,0,1848,0,6],
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#aac0a916bfa325284b354e7241fe857ab":[6,0,1848,0,0],
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#ac35e648b93bb39ca831390bf88f6a3e7":[6,0,1848,0,3],
-"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#ad1f523fad45c34077e6d6ce7b9a4aefd":[6,0,1848,0,4],
-"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#af9613e9309b85317bc6e3a84013dcf89":[6,0,1848,0,5]
+"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#ad1f523fad45c34077e6d6ce7b9a4aefd":[6,0,1848,0,4]
 };

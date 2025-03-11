@@ -1,5 +1,6 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#aefffbcbaf3eca218f130f5a268ca9563":[6,0,2388,208],
 "d2/d4b/classPlayer.html#af00445582994be1f2887b049c1e23ca6":[6,0,2388,96],
 "d2/d4b/classPlayer.html#af059a10625d50ca7674771ea1c1c4c4c":[6,0,2388,189],
 "d2/d4b/classPlayer.html#af0a234c908ce8d74f391524bdb03dcc0":[6,0,2388,872],
@@ -248,6 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d57/classspell__rotface__large__ooze__combine.html#a802f667b20bccd3395c233482aa2485b":[6,0,3699,0],
 "d2/d57/classspell__rotface__large__ooze__combine.html#a8ec4a10d4d3c348029256fec28a19ed6":[6,0,3699,3],
 "d2/d57/classspell__rotface__large__ooze__combine.html#ad371e6387d5df422eaa05acc9efe2f46":[6,0,3699,1],
-"d2/d57/winter__veil_8cpp.html":[7,0,0,0,1,3,3,8],
-"d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5":[7,0,0,0,1,3,3,8,8]
+"d2/d57/winter__veil_8cpp.html":[7,0,0,0,1,3,3,8]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX296 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caace50dad2ffee3b41203adffc0373728":[7,0,0,0,1,3,5,4,1,2,36,20],
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cac6e5a00e1239380f9b7eefe843a08977":[7,0,0,0,1,3,5,4,1,2,36,16],
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caca6178b005973083c47ab3043a7e6f72":[7,0,0,0,1,3,5,4,1,2,36,8],
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cae8c2409fcb4dfb365cfd8594c6c8984e":[7,0,0,0,1,3,5,4,1,2,36,3],
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caeccde9e1206ee2e4eb28b875f92ec48a":[7,0,0,0,1,3,5,4,1,2,36,7],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cafffcf6697d50685578c18bfce9ae4717":[7,0,0,0,1,3,5,4,1,2,36,10],
 "dc/d07/halls__of__reflection_8cpp.html#a7adcd5cfc5805ba1a10e50278f935670":[7,0,0,0,1,3,5,4,1,2,39],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643":[7,0,0,0,1,3,5,4,1,2,37],
@@ -244,10 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a598ba7930900aa211bb7e7dc12f366c0":[6,0,2242,0,1],
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a92cc0c2aaa6add0c6c641719d6846bb3":[6,0,2242,0,3],
 "dc/d16/boss__hydromancer__thespia_8cpp.html":[7,0,0,0,1,3,7,2,2,0],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130d":[7,0,0,0,1,3,7,2,2,0,1],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,2,0,1,1],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6":[7,0,0,0,1,3,7,2,2,0,1,6],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,2,0,1,2],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,2,2,0,1,0]
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2]
 };

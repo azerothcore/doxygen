@@ -1,5 +1,11 @@
 var NAVTREEINDEX389 =
 {
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[6,0,2723,0],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html":[6,0,3449],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[6,0,3449,2],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[6,0,3449,1],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[6,0,3449,3],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3449,0],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html":[7,0,0,0,1,3,2,1,2,1],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,1,2,1,5],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f":[7,0,0,0,1,3,2,1,2,1,5,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3":[7,0,0,0,1,3,9,10,32,11],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69":[7,0,0,0,1,3,9,10,32,2],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2":[7,0,0,0,1,3,9,10,32,27],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2":[7,0,0,0,1,3,9,10,32,14],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7":[7,0,0,0,1,3,9,10,32,24],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b":[7,0,0,0,1,3,9,10,32,20],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4":[7,0,0,0,1,3,9,10,32,21],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990":[7,0,0,0,1,3,9,10,32,15],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f":[7,0,0,0,1,3,9,10,32,28],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad":[7,0,0,0,1,3,9,10,32,30]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2":[7,0,0,0,1,3,9,10,32,14]
 };

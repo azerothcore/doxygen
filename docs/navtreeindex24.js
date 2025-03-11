@@ -1,10 +1,11 @@
 var NAVTREEINDEX24 =
 {
+"d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[5,0,1,126,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[6,0,0,114,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c":[5,0,1,126,9],
 "d1/d05/structAcore_1_1VisibleNotifier.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c":[6,0,0,114,9],
-"d1/d05/structAcore_1_1VisibleNotifier.html#af6b878aad8873a7e34670af7ed84188e":[5,0,1,126,0],
 "d1/d05/structAcore_1_1VisibleNotifier.html#af6b878aad8873a7e34670af7ed84188e":[6,0,0,114,0],
+"d1/d05/structAcore_1_1VisibleNotifier.html#af6b878aad8873a7e34670af7ed84188e":[5,0,1,126,0],
 "d1/d06/classinstance__halls__of__stone.html":[6,0,1300],
 "d1/d06/classinstance__halls__of__stone.html#a784906c7710a216016101cf7a6a915f3":[6,0,1300,2],
 "d1/d06/classinstance__halls__of__stone.html#ad0237cfaf2e48036f45181fd7746df2b":[6,0,1300,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a345dbd5586fd5c63ba90140260572478":[6,0,2568,46],
 "d1/d16/classSpell.html#a34df7adad059a14aa5f3248cca54c7f6":[6,0,2568,164],
 "d1/d16/classSpell.html#a35e87fc17d3f851454bc171f0c91df8b":[6,0,2568,97],
-"d1/d16/classSpell.html#a3624f6462fad7a23534167d2d7151d5a":[6,0,2568,118],
-"d1/d16/classSpell.html#a368db9dd1b9fe065b9cefcefe0cdbe77":[6,0,2568,190]
+"d1/d16/classSpell.html#a3624f6462fad7a23534167d2d7151d5a":[6,0,2568,118]
 };

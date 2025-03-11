@@ -1,5 +1,10 @@
 var NAVTREEINDEX224 =
 {
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca5da4714fbae445a4e8ade7cffaa595d5":[7,0,0,0,1,3,5,24,24,1],
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca715f3128a1e8a76706c702c97999b823":[7,0,0,0,1,3,5,24,24,0],
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca79291516712df696b4ba985c97eef9ba":[7,0,0,0,1,3,5,24,24,7],
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ec9f5652fbb28187fe042b8afa57fff":[7,0,0,0,1,3,5,24,24,8],
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298cae004b15f21992923ce3aa4df17acd770":[7,0,0,0,1,3,5,24,24,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#a62f401e8d73d268a4e9e96410e9ff541":[7,0,0,0,1,3,5,24,26],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7":[7,0,0,0,1,3,5,24,21],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13":[7,0,0,0,1,3,5,24,21,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX224 =
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05a7ebda055d3c2b662c36640bf8b3caf93":[7,0,0,0,1,2,8,1,19,13,19],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05a89515e104f8255f95d04bff6856141f9":[7,0,0,0,1,2,8,1,19,13,12],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05a8d68047dd688b8de25d14fc1f9627a62":[7,0,0,0,1,2,8,1,19,13,18],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05aa2d9f3e52292c47dc5d6a213d3c726a1":[7,0,0,0,1,2,8,1,19,13,16],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ac3c337edd46197e6f6dde9c6c17c468b":[7,0,0,0,1,2,8,1,19,13,22],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05acb1a7d48845bc043616f4f769430130b":[7,0,0,0,1,2,8,1,19,13,8],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ad441ad0e49313ecdcb5fe921cdc78bf4":[7,0,0,0,1,2,8,1,19,13,20],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05adac9d8a0081b1184ff90f8f8f0b5837e":[7,0,0,0,1,2,8,1,19,13,3],
-"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05aeaa2d6f08dae614cc0cd9b35dd47e43c":[7,0,0,0,1,2,8,1,19,13,4]
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05aa2d9f3e52292c47dc5d6a213d3c726a1":[7,0,0,0,1,2,8,1,19,13,16]
 };

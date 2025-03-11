@@ -293,6 +293,7 @@ var classScriptMgr =
     [ "OnPlayerCanEnterMap", "d2/d73/classScriptMgr.html#af3fb4b7933b22e0af36d57aea5e3846f", null ],
     [ "OnPlayerCanEquipItem", "d2/d73/classScriptMgr.html#a01e13919f4ce26198b890c0fd69c0a5c", null ],
     [ "OnPlayerCanFlyInZone", "d2/d73/classScriptMgr.html#a529e392b264963022a4295477dace9bf", null ],
+    [ "OnPlayerCanGiveLevel", "d2/d73/classScriptMgr.html#ac64a3028829b15227e3e25cb3f7e597d", null ],
     [ "OnPlayerCanGiveMailRewardAtGiveLevel", "d2/d73/classScriptMgr.html#a874cda4b0594413140444c9bb4f94d51", null ],
     [ "OnPlayerCanGroupAccept", "d2/d73/classScriptMgr.html#a7ab71bb1faaec01f094c1fa12b7bb4d7", null ],
     [ "OnPlayerCanGroupInvite", "d2/d73/classScriptMgr.html#a0001824959f9cf681af505199fdc841b", null ],

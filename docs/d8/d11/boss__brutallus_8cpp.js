@@ -16,6 +16,7 @@ var boss__brutallus_8cpp =
       [ "EVENT_MAD_6", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca07d2d64afe1d104a6294f6c161b4ad56", null ],
       [ "EVENT_MAD_7", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cabb68f6e68942ff4984e4ad24047e0cb4", null ],
       [ "EVENT_MAD_8", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca22997c96557fa99050a3803cc5c5df3a", null ],
+      [ "EVENT_MAD_8_1", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cab6893bc0313836de581c7889bfb3e026", null ],
       [ "EVENT_MAD_9", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca635f518937d8378f33a195e6d7e86e61", null ],
       [ "EVENT_MAD_10", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caf45172aa367c257ad7c5cda647ca8d1b", null ],
       [ "EVENT_MAD_11", "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cac5b21c2f5b54092ced572604245138fc", null ],

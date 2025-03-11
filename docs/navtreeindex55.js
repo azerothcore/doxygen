@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a714dfd56c82f4af23079d52f9a5feab4":[7,0,0,0,1,3,5,14,19],
 "d2/d38/northrend__script__loader_8cpp.html#a7179b285535d217e0603be1df96a5d6d":[7,0,0,0,1,3,5,14,101],
 "d2/d38/northrend__script__loader_8cpp.html#a7325fe50708c23d0c299c19694efc771":[7,0,0,0,1,3,5,14,37],
 "d2/d38/northrend__script__loader_8cpp.html#a74968482a4e8abfe12571fc322ff8c77":[7,0,0,0,1,3,5,14,97],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d3f/classSQLQueryHolderCallback.html#afc2cb6a483d17ae115e947bc88fe592b":[6,0,4061,0],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html":[6,0,1342,0],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a18f5e55387e7262ff5a8a02b77744c62":[6,0,1342,0,23],
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a19e634103111cd6a1270ad71dbd40cf4":[6,0,1342,0,31],
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a1c5747b57b9906f94a230f1084614fb1":[6,0,1342,0,6]
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a19e634103111cd6a1270ad71dbd40cf4":[6,0,1342,0,31]
 };

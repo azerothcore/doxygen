@@ -1,5 +1,11 @@
 var NAVTREEINDEX378 =
 {
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[6,0,1907,0,1],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[6,0,1907,0,7],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[6,0,1907,0,8],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[6,0,1907,0,5],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#abf30320da7f6fc6a4f213b0c4b2b24ce":[6,0,1907,0,3],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#ac4de8610671b000bdff5cf47f2aecd0f":[6,0,1907,0,6],
 "df/d3b/classnpc__bunthen__plainswind.html":[6,0,1662],
 "df/d3b/classnpc__bunthen__plainswind.html#a117f28d513ac645b9d3d908d052d2146":[6,0,1662,2],
 "df/d3b/classnpc__bunthen__plainswind.html#ad9b789ad3e958dee4733b142813b6302":[6,0,1662,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX378 =
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a03fb543ba20f92d5528bf4667c457631":[6,0,380,0,2],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a1a9953c37286fd40c0aa0eebfec3eb86":[6,0,380,0,5],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a2af77fbe7f089b5da20d2ff693cfcedf":[6,0,380,0,1],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[6,0,380,0,4],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a3c7bc5f9aa04f155debbdacafed6163d":[6,0,380,0,3],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a61e4d85ecd592142ba07588512505990":[6,0,380,0,7],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a75796eb8dc83729f2f726ff51317bd66":[6,0,380,0,0],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a8947cbd1c2856334a0d6529bc664f71b":[6,0,380,0,6],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a951d68d4e645860cdb5c5e348bf1fff4":[6,0,380,0,10],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#aa3c37a38b95c6b3bec4e3b787d2155df":[6,0,380,0,9]
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[6,0,380,0,4]
 };

@@ -61,6 +61,7 @@ var classPlayerScript =
     [ "OnPlayerCanEnterMap", "d0/d5b/classPlayerScript.html#a6babdb76d4eea0956bd811a4cad6f743", null ],
     [ "OnPlayerCanEquipItem", "d0/d5b/classPlayerScript.html#a2ef349f20f0f546e046a5dab47771ac2", null ],
     [ "OnPlayerCanFlyInZone", "d0/d5b/classPlayerScript.html#ae44ab67f5748f8ca8c1c9a87bc38c654", null ],
+    [ "OnPlayerCanGiveLevel", "d0/d5b/classPlayerScript.html#ab1b576bf4850da8b38ec6d22cf4d3d5c", null ],
     [ "OnPlayerCanGiveMailRewardAtGiveLevel", "d0/d5b/classPlayerScript.html#a9f7f3350bbc08d2f348df1ab2bbe0886", null ],
     [ "OnPlayerCanGroupAccept", "d0/d5b/classPlayerScript.html#a05543bac33b9e0ac5d4492b671144c4f", null ],
     [ "OnPlayerCanGroupInvite", "d0/d5b/classPlayerScript.html#a4ebacfe83742d63511652041d41a4f12", null ],

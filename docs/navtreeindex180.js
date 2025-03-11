@@ -1,5 +1,9 @@
 var NAVTREEINDEX180 =
 {
+"d6/de3/structScalingStatValuesEntry.html#a5758f5152401efde26edf3110c0d11e2":[6,0,2503,10],
+"d6/de3/structScalingStatValuesEntry.html#a57cdfb5465ced673edeb8c35bd7a3535":[6,0,2503,13],
+"d6/de3/structScalingStatValuesEntry.html#a742f8447dca5961fb39e50de8233fa86":[6,0,2503,6],
+"d6/de3/structScalingStatValuesEntry.html#a7559b9045268d8050372153c8c976946":[6,0,2503,12],
 "d6/de3/structScalingStatValuesEntry.html#aa0718862ebfeea92ad299e04c9c622c8":[6,0,2503,1],
 "d6/de3/structScalingStatValuesEntry.html#aa54c3d1add4a1b982c05138f876fd138":[6,0,2503,2],
 "d6/de3/structScalingStatValuesEntry.html#ab0fbc14e59c3a387b21d3f4a825d3b36":[6,0,2503,4],
@@ -143,16 +147,16 @@ var NAVTREEINDEX180 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,106,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,94,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,106,1],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,94,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,106,4],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,94,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,94,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,106,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,106,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,94,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,94,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,106,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,106,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,94,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,94,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,106,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,7,4,3,0,5],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,7,4,3,0,5,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX180 =
 "d6/dee/namespaceArenaSpectator.html":[5,0,6],
 "d6/dee/namespaceArenaSpectator.html#a20983eb9cb8e3f584a4d8f752586d06b":[5,0,6,0],
 "d6/dee/namespaceArenaSpectator.html#a29f78349223aca49d417c3f818b2dd4c":[5,0,6,12],
-"d6/dee/namespaceArenaSpectator.html#a4508ccc26eb193b85e4d229a088c6be5":[5,0,6,1],
-"d6/dee/namespaceArenaSpectator.html#a461f69ba88de17058481bc77a3e9f7bb":[5,0,6,8],
-"d6/dee/namespaceArenaSpectator.html#a4824203dd64e1ddcd47642df9d465ea0":[5,0,6,4],
-"d6/dee/namespaceArenaSpectator.html#a5e336b6d62f2d9e24551cfb96c7a8679":[5,0,6,6],
-"d6/dee/namespaceArenaSpectator.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27":[5,0,6,5]
+"d6/dee/namespaceArenaSpectator.html#a4508ccc26eb193b85e4d229a088c6be5":[5,0,6,1]
 };

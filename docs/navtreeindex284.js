@@ -1,7 +1,12 @@
 var NAVTREEINDEX284 =
 {
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[5,0,1,8,0,17,13],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[6,0,0,5,0,17,1],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[5,0,1,8,0,17,1],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[5,0,1,8,0,17,20],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[6,0,0,5,0,17,20],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classspell__sindragosa__unchained__magic.html":[6,0,3779],
 "db/da6/classspell__sindragosa__unchained__magic.html#aa7e731de9e5ab1078b8ff7022393c9a7":[6,0,3779,0],
 "db/da6/classspell__sindragosa__unchained__magic.html#ae6ab0b56688bfc07262cc83e84102ccb":[6,0,3779,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX284 =
 "db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344":[7,0,0,0,1,3,10,14,45],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70":[7,0,0,0,1,3,10,14,54],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a04ac18a6a9e18c99748ebc043eceb43c":[7,0,0,0,1,3,10,14,54,3],
-"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a0d56e33d93a59f8fc434430256e433c8":[7,0,0,0,1,3,10,14,54,0],
-"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a66545b36633f24cc05333d976b7da411":[7,0,0,0,1,3,10,14,54,4],
-"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a8715715b3195ecb4b951f725b8fbbf75":[7,0,0,0,1,3,10,14,54,2],
-"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70ae834f7769d8681be0b836b828ac53e0a":[7,0,0,0,1,3,10,14,54,1],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2":[7,0,0,0,1,3,10,14,62],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a01db61624ef7ce8f1201777aa9a44d7c":[7,0,0,0,1,3,10,14,62,24]
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a0d56e33d93a59f8fc434430256e433c8":[7,0,0,0,1,3,10,14,54,0]
 };

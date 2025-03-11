@@ -1,5 +1,11 @@
 var NAVTREEINDEX368 =
 {
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a791a3ee9b67e72e1dcb392b9ebc2359a":[6,0,1618,0,3],
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#ae50ac21138e12be43caa93e37062051e":[6,0,1618,0,2],
+"de/dc8/classAuthCrypt.html":[6,0,290],
+"de/dc8/classAuthCrypt.html#a385fe62742cdbbf62725ace616a06b37":[6,0,290,2],
+"de/dc8/classAuthCrypt.html#a552bd409afb5fcda8a11627ccb20e4b0":[6,0,290,1],
+"de/dc8/classAuthCrypt.html#a8c5239631bd6cf700059af31f04126a3":[6,0,290,0],
 "de/dc8/classAuthCrypt.html#a911330ec40c0ca881af2f0c6fd6b0fef":[6,0,290,4],
 "de/dc8/classAuthCrypt.html#a99de2f8dd625cef94d70eeddefc9ac5c":[6,0,290,6],
 "de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,290,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX368 =
 "de/dd9/AccountMgr_8h.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,0,0,1,2,0,1,10],
 "de/dd9/AccountMgr_8h.html#a63751f144cb7acb57fc20f0caf5e7043":[7,0,0,0,1,2,0,1,17],
 "de/dd9/AccountMgr_8h.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,0,0,1,2,0,1,5],
-"de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214":[7,0,0,0,1,2,0,1,8],
-"de/dd9/AccountMgr_8h.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,0,0,1,2,0,1,16],
-"de/dd9/AccountMgr_8h.html#a8280510b2564ec6ea76727218c1687b3":[7,0,0,0,1,2,0,1,13],
-"de/dd9/AccountMgr_8h.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,0,0,1,2,0,1,11],
-"de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[7,0,0,0,1,2,0,1,1],
-"de/dd9/AccountMgr_8h.html#adb1b210137b09011677c74011addeefa":[7,0,0,0,1,2,0,1,15],
-"de/dd9/AccountMgr_8h.html#af911e3860ec519c541d6df35468ee41b":[7,0,0,0,1,2,0,1,12]
+"de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214":[7,0,0,0,1,2,0,1,8]
 };

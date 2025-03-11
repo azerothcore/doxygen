@@ -1,5 +1,10 @@
 var NAVTREEINDEX225 =
 {
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ac3c337edd46197e6f6dde9c6c17c468b":[7,0,0,0,1,2,8,1,19,13,22],
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05acb1a7d48845bc043616f4f769430130b":[7,0,0,0,1,2,8,1,19,13,8],
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ad441ad0e49313ecdcb5fe921cdc78bf4":[7,0,0,0,1,2,8,1,19,13,20],
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05adac9d8a0081b1184ff90f8f8f0b5837e":[7,0,0,0,1,2,8,1,19,13,3],
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05aeaa2d6f08dae614cc0cd9b35dd47e43c":[7,0,0,0,1,2,8,1,19,13,4],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05af1035546f77f22440c6398a4beb7281e":[7,0,0,0,1,2,8,1,19,13,2],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05af268106dd2442ff6a91cf11b5c2fa2ba":[7,0,0,0,1,2,8,1,19,13,23],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05af8a4aa1f87f50bceffeba1abd776f688":[7,0,0,0,1,2,8,1,19,13,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dea/classspell__archavon__rock__shards.html#a89d601f6036fe38238767281f3427e54":[6,0,2600,3],
 "d8/dea/classspell__archavon__rock__shards.html#ab2db47d0a2694c0734db600e810e190d":[6,0,2600,1],
 "d8/dea/structboss__ormorok.html":[6,0,644],
-"d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[6,0,644,6],
-"d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[6,0,644,2],
-"d8/dea/structboss__ormorok.html#a29cc8c3db5ba3d528ea873d66be619cd":[6,0,644,7],
-"d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[6,0,644,4],
-"d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[6,0,644,5],
-"d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[6,0,644,0]
+"d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[6,0,644,6]
 };

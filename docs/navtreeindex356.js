@@ -1,5 +1,11 @@
 var NAVTREEINDEX356 =
 {
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae069cec361b187a657a707d6613f32b7":[6,0,727,0,22],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae4ebbccc403bcc3621437a36f8678b93":[6,0,727,0,1],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af81105d937124f49bd722ca787d31d58":[6,0,727,0,15],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af867d86aa20366bfbbfaf8083fe35271":[6,0,727,0,18],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,727,0,19],
+"de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,38,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,78],
@@ -243,11 +249,5 @@ var NAVTREEINDEX356 =
 "de/d5e/ObjectAccessor_8cpp.html#a9c5298580060e7a6078ffb5f4008c549":[7,0,0,0,1,2,18,0,4],
 "de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[7,0,0,0,1,2,18,0,5],
 "de/d5e/classGridTerrainData.html":[6,0,1219],
-"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[6,0,1219,16],
-"de/d5e/classGridTerrainData.html#a1269f47abd6faf5304494c85628bb961":[6,0,1219,4],
-"de/d5e/classGridTerrainData.html#a1cf2965cea22f5a98ad2d737e372ac18":[6,0,1219,1],
-"de/d5e/classGridTerrainData.html#a2425f13f62b37931192acdc02127c243":[6,0,1219,18],
-"de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[6,0,1219,14],
-"de/d5e/classGridTerrainData.html#a2e3b2ea01f5ce3f93944529d73fa70de":[6,0,1219,10],
-"de/d5e/classGridTerrainData.html#a347927f9d7df887b2a6fd89d841e004c":[6,0,1219,0]
+"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[6,0,1219,16]
 };

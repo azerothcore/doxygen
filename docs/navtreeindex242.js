@@ -1,5 +1,10 @@
 var NAVTREEINDEX242 =
 {
+"d9/dd0/classspell__sha__bloodlust.html#aa37525d089348f58e3d871830caa3417":[6,0,3724,1],
+"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3724,0],
+"d9/dd0/classspell__sha__bloodlust.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9":[6,0,3724,2],
+"d9/dd0/classspell__sha__bloodlust.html#ac69d777fdf7a2d3c527621dee256690c":[6,0,3724,4],
+"d9/dd1/classspell__class__call__handler.html":[6,0,2693],
 "d9/dd1/classspell__class__call__handler.html#a0f6146c64a86e953c042f8404bbfe683":[6,0,2693,4],
 "d9/dd1/classspell__class__call__handler.html#a4792a25aa6fe6126a94900784798dbee":[6,0,2693,3],
 "d9/dd1/classspell__class__call__handler.html#a57cd6d2c45a9a73bb284272db21d1fce":[6,0,2693,1],
@@ -158,10 +163,10 @@ var NAVTREEINDEX242 =
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,77,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
-"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,65,2],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,284,10],
@@ -244,10 +249,5 @@ var NAVTREEINDEX242 =
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,78,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,78,0],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2606],
-"d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2606,0],
-"d9/dee/classspell__aura__of__despair__aura.html#a3b98409fa1ed8d4e53e526686bc25987":[6,0,2606,4],
-"d9/dee/classspell__aura__of__despair__aura.html#a4709f570f9014eb36bc8c65269470373":[6,0,2606,1],
-"d9/dee/classspell__aura__of__despair__aura.html#a6ac96ce73f9983915a05686eb5d411e7":[6,0,2606,2],
-"d9/dee/classspell__aura__of__despair__aura.html#a7b4f44d86df652df78a10466bf64a2cf":[6,0,2606,3],
-"d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html":[6,0,1875,0]
+"d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2606,0]
 };

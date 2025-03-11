@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d9d/zone__silithus_8cpp.html#a923a77705fa4d0950a83d540db7d23b3af7f4f59f62f1d3b32e4143438422ebf7":[7,0,0,0,1,3,4,26,15,15],
+"d3/d9d/zone__silithus_8cpp.html#a923a77705fa4d0950a83d540db7d23b3af9ee4ad1e77a9a40b4684cafa1203be4":[7,0,0,0,1,3,4,26,15,28],
 "d3/d9d/zone__silithus_8cpp.html#a923a77705fa4d0950a83d540db7d23b3afe7be3c1465cdeaa639d28fa07e3188b":[7,0,0,0,1,3,4,26,15,35],
 "d3/d9d/zone__silithus_8cpp.html#ab2605f1616e14016c8e3b390d3dbf720":[7,0,0,0,1,3,4,26,20],
 "d3/d9d/zone__silithus_8cpp.html#ab69ef601d31d0264381d9af5e06f7769":[7,0,0,0,1,3,4,26,13],
@@ -36,8 +38,8 @@ var NAVTREEINDEX104 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[6,0,0,27],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,27,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,1,39,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,39,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,27,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,39,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,27,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,39,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[6,0,0,27,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/da3/classnpc__toc__priest.html":[6,0,2183],
 "d3/da3/classnpc__toc__priest.html#a0e360a2cc053434d2f76826683da8eee":[6,0,2183,1],
 "d3/da3/classnpc__toc__priest.html#a6056a81bef962a02537d525f07d1c302":[6,0,2183,2],
-"d3/da3/structQuestStatusData.html":[6,0,2458],
-"d3/da3/structQuestStatusData.html#a16343f7a162e5b7b6a1a18345420c77a":[6,0,2458,6],
-"d3/da3/structQuestStatusData.html#a170a1e54fe45b7fd0c7934f1309f7969":[6,0,2458,4]
+"d3/da3/structQuestStatusData.html":[6,0,2458]
 };

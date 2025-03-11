@@ -1,5 +1,11 @@
 var NAVTREEINDEX388 =
 {
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,508,0,12],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242":[6,0,508,0,2],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6":[6,0,508,0,10],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,508,0,6],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a810a91ffbcc3caa7c31e17afbd615392":[6,0,508,0,11],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a996175b70b9a69175988350fc09edd79":[6,0,508,0,7],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aa717d51aa10c139473031072065064ce":[6,0,508,0,1],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aafd79debbe76b02a1478c03daf235b05":[6,0,508,0,9],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad215f20452cd48c2c2bca394410d739b":[6,0,508,0,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX388 =
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a49277dbcc2d7cc79f29226e9b242120b":[6,0,2723,2],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a58c03a57bdfcba203159ae38683fdf14":[6,0,2723,5],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a730528baddf2087fb1c0898ac7ad76c5":[6,0,2723,4],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[6,0,2723,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[6,0,2723,0],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html":[6,0,3449],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[6,0,3449,2],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[6,0,3449,1],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[6,0,3449,3],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3449,0]
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[6,0,2723,3]
 };

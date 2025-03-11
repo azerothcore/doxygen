@@ -1,5 +1,11 @@
 var NAVTREEINDEX383 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa686812debba41a4ad97942c1b4010047":[7,0,0,0,1,3,5,9,2,4,42,40],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6d61585b900551b2198ce83ad78858aa":[7,0,0,0,1,3,5,9,2,4,42,22],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6f0c520b52c862406dd4918c1f622916":[7,0,0,0,1,3,5,9,2,4,42,65],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa72d2a0f288eec28f92c56eb0bbda7654":[7,0,0,0,1,3,5,9,2,4,42,14],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa734db1ef547a27fec3274345593b3ec8":[7,0,0,0,1,3,5,9,2,4,42,45],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa797b574a5577d8e6dffaa998c8f0db53":[7,0,0,0,1,3,5,9,2,4,42,6],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa7d28d608ec33bc178eaad93bd3f93b47":[7,0,0,0,1,3,5,9,2,4,42,59],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa8e7ce4d4b1a9cb0d503627c7f05b8a56":[7,0,0,0,1,3,5,9,2,4,42,47],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa96e3278e479cff977b4822901dfdba72":[7,0,0,0,1,3,5,9,2,4,42,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX383 =
 "df/d92/classSpellScript.html":[6,0,4045],
 "df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a":[6,0,4045,28],
 "df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f":[6,0,4045,55],
-"df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[6,0,4045,27],
-"df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[6,0,4045,25],
-"df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590":[6,0,4045,63],
-"df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f":[6,0,4045,22],
-"df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d":[6,0,4045,51],
-"df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f":[6,0,4045,34],
-"df/d92/classSpellScript.html#a1a0656c9f2b3ff11078f5cbf5168b3e6":[6,0,4045,24]
+"df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[6,0,4045,27]
 };

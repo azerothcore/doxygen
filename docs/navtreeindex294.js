@@ -1,5 +1,10 @@
 var NAVTREEINDEX294 =
 {
+"db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70b":[7,0,0,0,1,3,9,8,110],
+"db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70ba13a9e7c6ea9d0532a012ef19bf7719b7":[7,0,0,0,1,3,9,8,110,0],
+"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76":[7,0,0,0,1,3,9,8,96],
+"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a182dca1aea22740c6bbf97565396b6ee":[7,0,0,0,1,3,9,8,96,1],
+"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,96,0],
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90d":[7,0,0,0,1,3,9,8,97],
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2],
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dad9f6131e9a41f30d6544aa1332442dcc":[7,0,0,0,1,3,9,8,97,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX294 =
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a2f4d87243dce0de4ce3f02d4d732b152":[7,0,0,0,1,3,2,6,3,8,62],
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a322c95fabf1cd36f6b26c2138b522a28":[7,0,0,0,1,3,2,6,3,8,1],
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a324b4172568fd5fa8df147cb68ac804a":[7,0,0,0,1,3,2,6,3,8,3],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a3493fc849b2eed7a3981418b38a4b74d":[7,0,0,0,1,3,2,6,3,8,51],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a34eb3e938736b1e082438a04823fe1d4":[7,0,0,0,1,3,2,6,3,8,60],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a36e13fbadbbbaac584edd89bd8ede0e3":[7,0,0,0,1,3,2,6,3,8,13],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a3e9f16ea389faad1f6a49c3e2fd2d074":[7,0,0,0,1,3,2,6,3,8,40],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a4123365fd115899b23507c9c07507e41":[7,0,0,0,1,3,2,6,3,8,45],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a44264c938ea93002137a68d4179ae29e":[7,0,0,0,1,3,2,6,3,8,31]
+"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a3493fc849b2eed7a3981418b38a4b74d":[7,0,0,0,1,3,2,6,3,8,51]
 };

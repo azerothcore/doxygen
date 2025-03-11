@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2cfd8e7d6c54b7e520fd604053ae0db3":[7,0,0,0,1,2,8,1,11,15,24],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2f981ebe5e9bcf4c1a81561ccee496bf":[7,0,0,0,1,2,8,1,11,15,54],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a35b776c9acb976b6930f5d0851b7cd79":[7,0,0,0,1,2,8,1,11,15,69],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[7,0,0,0,1,2,8,1,11,15,60],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#ab91df5ebee9c12d067ff83ee64effece":[6,0,1613,0,6],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#ae127a88f18f3348a0bc388d79dcd13d4":[6,0,1613,0,3],
 "d0/d9b/classboss__gyth.html":[6,0,512],
-"d0/d9b/classboss__gyth.html#a286d19b0a6e317cb7e69343982b71062":[6,0,512,1],
-"d0/d9b/classboss__gyth.html#a3706cbdd1bfb16112653d31cfa971b30":[6,0,512,2]
+"d0/d9b/classboss__gyth.html#a286d19b0a6e317cb7e69343982b71062":[6,0,512,1]
 };

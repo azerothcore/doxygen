@@ -1,5 +1,9 @@
 var NAVTREEINDEX187 =
 {
+"d7/d43/classnpc__precious__icc.html":[6,0,2041],
+"d7/d43/classnpc__precious__icc.html#a463eb0df1edb17e154658dac131f0898":[6,0,2041,1],
+"d7/d43/classnpc__precious__icc.html#aa63840c5968a089bff41dcd9c86d5849":[6,0,2041,2],
+"d7/d43/classnpc__webbed__creature.html":[6,0,2267],
 "d7/d43/classnpc__webbed__creature.html#a30fd53b81260b7fd6ca06881930b79e9":[6,0,2267,2],
 "d7/d43/classnpc__webbed__creature.html#ae52152939766c411e45e827e9ab52d4f":[6,0,2267,1],
 "d7/d44/BattlegroundDS_8cpp.html":[7,0,0,0,1,2,8,1,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d46/classAuraEffect.html#af7d61f76c6791e1a34f20b87efb425bc":[6,0,281,57],
 "d7/d46/classAuraEffect.html#af7eff5d08a22189f99f66695367ae250":[6,0,281,225],
 "d7/d46/classAuraEffect.html#af8500c42594d040d396c20997cbffc69":[6,0,281,34],
-"d7/d46/classAuraEffect.html#af91c6e2c16b5038cadfed381022dad10":[6,0,281,50],
-"d7/d46/classAuraEffect.html#af93cf68cd8854d93010663353043e4a2":[6,0,281,206],
-"d7/d46/classAuraEffect.html#af9b15db701d1d804b52a425b23c1e154":[6,0,281,186],
-"d7/d46/classAuraEffect.html#afa9f84f40fa41ddee3d6fb22c8bd3ac4":[6,0,281,133],
-"d7/d46/classAuraEffect.html#afbc68f3158a932f36315f4348dba5914":[6,0,281,68]
+"d7/d46/classAuraEffect.html#af91c6e2c16b5038cadfed381022dad10":[6,0,281,50]
 };

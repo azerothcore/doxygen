@@ -1,5 +1,11 @@
 var NAVTREEINDEX366 =
 {
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809acb7d3e659383a8bc3f3d4f4d89031b51":[7,0,0,0,1,3,5,18,49,1],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809ad72c1b6082b386167aefbcd06b866da8":[7,0,0,0,1,3,5,18,49,8],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809adc7ad0f9c316fc5f84c74d792511f47b":[7,0,0,0,1,3,5,18,49,9],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[5,0,1,2,1,0],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[6,0,0,1,1,0],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[6,0,0,1,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,1,2,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX366 =
 "de/db4/classPreparedStatementBase.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660":[6,0,2428,6],
 "de/db4/classPreparedStatementBase.html#a4c1bf9847756076bf3bba7b1178f0f99":[6,0,2428,17],
 "de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0":[6,0,2428,11],
-"de/db4/classPreparedStatementBase.html#a96323eed4643ae8016b32215d6a902d4":[6,0,2428,1],
-"de/db4/classPreparedStatementBase.html#a9af41817061c82bc5498c463b2f0fdf0":[6,0,2428,18],
-"de/db4/classPreparedStatementBase.html#a9dcba27137454af96729a7e3e897f86c":[6,0,2428,15],
-"de/db4/classPreparedStatementBase.html#aa450d6784414246752c84556f6960fc9":[6,0,2428,16],
-"de/db4/classPreparedStatementBase.html#aa4ff9aa53e042d424954b553d6912fa8":[6,0,2428,13],
-"de/db4/classPreparedStatementBase.html#aa71863fdcace3c2fc666a0cf456d9e59":[6,0,2428,10],
-"de/db4/classPreparedStatementBase.html#aa7703fa7b7cf7cf033a45cccf4701f48":[6,0,2428,2]
+"de/db4/classPreparedStatementBase.html#a96323eed4643ae8016b32215d6a902d4":[6,0,2428,1]
 };

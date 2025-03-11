@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d60/SpellDefines_8h.html#a0709fc3ab848cf1b8b4853813b8fe011a56bbb3f984a39af7fe45ecf9d7c3ad37":[7,0,0,0,1,2,41,3,5,24],
 "d0/d60/SpellDefines_8h.html#a0709fc3ab848cf1b8b4853813b8fe011a5e0770c83ed56b013447558d52614617":[7,0,0,0,1,2,41,3,5,14],
 "d0/d60/SpellDefines_8h.html#a0709fc3ab848cf1b8b4853813b8fe011a61b4509cc6643cd80da8b6c065d45f4a":[7,0,0,0,1,2,41,3,5,20],
 "d0/d60/SpellDefines_8h.html#a0709fc3ab848cf1b8b4853813b8fe011a72195dab088d94745878d6f166844a9d":[7,0,0,0,1,2,41,3,5,11],
@@ -112,10 +113,10 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3842,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,30,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,30,1,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,30,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,30,1,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2312,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2312,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2312,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d69/classGridObjectLoader.html#a4e857363f544e91918b22df7fb6b1fe8":[6,0,1215,1],
 "d0/d69/classGridObjectLoader.html#a57cd46fee6f747221761aa3114c40ba6":[6,0,1215,0],
 "d0/d69/classGridObjectLoader.html#abe551354634514fa3998eccb10fcbefe":[6,0,1215,5],
-"d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b":[6,0,1215,4],
-"d0/d69/classnpc__halion__controller.html":[6,0,1823]
+"d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b":[6,0,1215,4]
 };

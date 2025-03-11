@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a6a74b74e4e4b45aec86f70a5211ddd28":[6,0,427,0,3],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a7c347bcdb092afcd64b481b87d0895ea":[6,0,427,0,0],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#aae3762b27c3d99b32f47293c544e4afe":[6,0,427,0,4],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1646,0],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a004a878ccb5fe68b249342f6a0fce31d":[6,0,1646,0,2],
@@ -29,18 +31,18 @@ var NAVTREEINDEX102 =
 "d3/d8b/Geometry_8h.html#a61d2d33d44f335480a833a04436620ba":[7,0,0,0,0,15,13,4],
 "d3/d8b/Geometry_8h.html#a62641094ea3c1b9506faefa7a35ba456":[7,0,0,0,0,15,13,2],
 "d3/d8b/Geometry_8h.html#a95ce6760beb476a4c24ff46d3069103f":[7,0,0,0,0,15,13,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,30,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,30,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,30,7,3,0],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,7,3,4],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3892],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a1ecb6e617976cdfbeb534849db41d57a":[6,0,3892,1],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a2c2ca2c0425ab3b815d246b1caebf588":[6,0,3892,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/classGameEventMgr.html#ac3e988ebf19cce9f7ee23f4b71fe5c94":[6,0,1068,22],
 "d3/d92/classGameEventMgr.html#ac5d012e43a00b43d9073273de1984fa7":[6,0,1068,53],
 "d3/d92/classGameEventMgr.html#ac955ad9b948e13cde6de5f9f3dd01d03":[6,0,1068,25],
-"d3/d92/classGameEventMgr.html#accbec52c8ba6532ef237a4f7d043bc5d":[6,0,1068,87],
-"d3/d92/classGameEventMgr.html#ad4ba7ab20801131069c613f5c80a4fa1":[6,0,1068,62],
-"d3/d92/classGameEventMgr.html#ad6691e4a5d64eed141caa7adafba862d":[6,0,1068,85]
+"d3/d92/classGameEventMgr.html#accbec52c8ba6532ef237a4f7d043bc5d":[6,0,1068,87]
 };

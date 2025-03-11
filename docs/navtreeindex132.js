@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d4/d9c/structboss__omor__the__unscarred.html#a3fe7684742f783cb1e68fcc7cfc0de7a":[6,0,642,7],
+"d4/d9c/structboss__omor__the__unscarred.html#a5ea9161b949e99f0a61498ed05d66d27":[6,0,642,8],
 "d4/d9c/structboss__omor__the__unscarred.html#a9ddae483a0f8cefd8a19975b60002660":[6,0,642,1],
 "d4/d9c/structboss__omor__the__unscarred.html#aa874d266d9a5ced45ea2ceb750370b1a":[6,0,642,2],
 "d4/d9c/structboss__omor__the__unscarred.html#aeb478325ea00f996b4c3c1584fe3965d":[6,0,642,6],
@@ -78,14 +80,14 @@ var NAVTREEINDEX132 =
 "d4/da1/classBoundaryUnionBoundary.html#a8dc91861fa6641008236e5a83030e0d1":[6,0,812,2],
 "d4/da1/classBoundaryUnionBoundary.html#a96450fc020bfad7b9f1f7be64490ad46":[6,0,812,1],
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,812,4],
-"d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2566],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da8/structnpc__earthen__ring__flamecaller.html#a79aa6e628a50ed485cc55513c28362dc":[6,0,1751,8],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#aa9aaf58b67108a934a756afdfc2bc734":[6,0,1751,6],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#ab402dd321fa0df641b674324386d7591":[6,0,1751,0],
-"d4/da8/structnpc__earthen__ring__flamecaller.html#ab9c5ad7e56033997042031566748ee2b":[6,0,1751,5],
-"d4/da8/structnpc__earthen__ring__flamecaller.html#ac7be4763e09cb9ce1a4a0774f4c02237":[6,0,1751,4],
-"d4/da8/structnpc__earthen__ring__flamecaller.html#adfc752e7700a816b66b639007a1a90fa":[6,0,1751,2]
+"d4/da8/structnpc__earthen__ring__flamecaller.html#ab9c5ad7e56033997042031566748ee2b":[6,0,1751,5]
 };

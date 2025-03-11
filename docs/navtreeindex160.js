@@ -1,5 +1,7 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#abbbe0649ba2840e8767307c4a370b918":[6,0,2312,121],
+"d5/dfb/classObjectMgr.html#abc6e688d033a053f7c4ad27504636be0":[6,0,2312,214],
 "d5/dfb/classObjectMgr.html#abd4cf9377cf95fafb277651b9953773f":[6,0,2312,183],
 "d5/dfb/classObjectMgr.html#ac0fd219a9156ebc9aad71b8e6c33bfb8":[6,0,2312,72],
 "d5/dfb/classObjectMgr.html#ac23d9d73793250f69935bf2cfd5a78a4":[6,0,2312,324],
@@ -154,8 +156,8 @@ var NAVTREEINDEX160 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[6,0,21,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[6,0,21,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX160 =
 "d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a5c36e8deb21a5901151ada2652ec4134":[7,0,0,0,1,3,4,9,12,3,1],
 "d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a5cb6103bab9c94af9837aa8806bd25c3":[7,0,0,0,1,3,4,9,12,3,9],
 "d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a6a89d6290e5d73e0ef220031e3b39f05":[7,0,0,0,1,3,4,9,12,3,23],
-"d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a7144e3f570a917e6af020e74f0cf4f5e":[7,0,0,0,1,3,4,9,12,3,15],
-"d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a75dec1855e66192baeb04ef25c62f526":[7,0,0,0,1,3,4,9,12,3,5],
-"d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a7d7c01ee678622ab3ec66ca99df82723":[7,0,0,0,1,3,4,9,12,3,6]
+"d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08a7144e3f570a917e6af020e74f0cf4f5e":[7,0,0,0,1,3,4,9,12,3,15]
 };

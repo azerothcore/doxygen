@@ -182,6 +182,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_BEFORE_UPDATE_SKILL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a11aebc4f224e4251071f135009e25b97", null ],
       [ "PLAYERHOOK_ON_UPDATE_SKILL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1184eb92844d9bddbb254f0b3ce02db2", null ],
       [ "PLAYERHOOK_CAN_RESURRECT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1cd44b42c86b09f221025742a6262c1c", null ],
+      [ "PLAYERHOOK_ON_CAN_GIVE_LEVEL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a8b1d8b9e6a52cf26ad8ff21389f3ca3d", null ],
       [ "PLAYERHOOK_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

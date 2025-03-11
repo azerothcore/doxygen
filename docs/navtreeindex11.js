@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab173cd8b623fcf8c36406155c91bc4db":[6,0,2120,0,0],
 "d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab6b39190d1195915ea0b4b191d864da6":[6,0,2120,0,2],
 "d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ad2dd22651470f47e7a7ba6f687ba54e9":[6,0,2120,0,1],
 "d0/d86/classAddonChannelCommandHandler.html":[6,0,126],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d8b/structboss__shade__of__akama.html":[6,0,691],
 "d0/d8b/structboss__shade__of__akama.html#a19a1aca1a599704612ac845001895b4f":[6,0,691,4],
 "d0/d8b/structboss__shade__of__akama.html#a25ffed5526b1f25eb1cf790745e2a7c7":[6,0,691,6],
-"d0/d8b/structboss__shade__of__akama.html#a345707efebd5027c01a25a563d1e6f43":[6,0,691,3],
-"d0/d8b/structboss__shade__of__akama.html#a385bf995d19652254d6ae8a447c23c37":[6,0,691,0]
+"d0/d8b/structboss__shade__of__akama.html#a345707efebd5027c01a25a563d1e6f43":[6,0,691,3]
 };

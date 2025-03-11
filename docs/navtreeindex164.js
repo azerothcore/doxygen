@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,426,2],
+"d6/d1c/classspell__azgalor__doom__aura.html":[6,0,2614],
 "d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2614,2],
 "d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2614,1],
 "d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2614,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d26/classGuild_1_1LogEntry.html#ad19e7364e1beba61c9b7a4383b6d42c6":[6,0,1244,4,8],
 "d6/d26/classGuild_1_1LogEntry.html#af61604a7dc0cc4da315a09fa5b207f37":[6,0,1244,4,0],
 "d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html":[6,0,1114,0],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[6,0,1114,0,3],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a8901922d736bb0391da5618593ced5c5":[6,0,1114,0,2],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a89c76f1563f541c572c48f8cf633aa6a":[6,0,1114,0,1]
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[6,0,1114,0,3]
 };

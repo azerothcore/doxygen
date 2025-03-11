@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d1/de4/spell__generic_8cpp.html#af22401ca7146004a9f8a86333e93d96dad3c204d659ad3caced347ae3f936741d":[7,0,0,0,1,3,9,2,142,5],
 "d1/de4/spell__generic_8cpp.html#af22401ca7146004a9f8a86333e93d96daffed34ae7086f436f0eaf036b5dfe183":[7,0,0,0,1,3,9,2,142,3],
 "d1/de4/spell__generic_8cpp.html#af23dc55719e8841fa8e33066176130b4":[7,0,0,0,1,3,9,2,191],
 "d1/de4/spell__generic_8cpp.html#af23dc55719e8841fa8e33066176130b4aaef24651ef5fef7e8db0aae1194268fb":[7,0,0,0,1,3,9,2,191,0],
@@ -201,14 +202,14 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,2976,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,58],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,70],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,70,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,58,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,70,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,58,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,70,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,58,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,70,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,58,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,70,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,58,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[6,0,0,58,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,1,70,4],
 "d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3],
@@ -244,10 +245,9 @@ var NAVTREEINDEX48 =
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a5d855d79247dff6f949a5e099abb9352":[6,0,3552,1],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a9583ccd7b642694a06bde4b88826ec7b":[6,0,3552,0],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#ae797de0ed29b3ca179c07d759b469228":[6,0,3552,2],
-"d1/dff/structAcore_1_1ObjectUpdater.html":[6,0,0,89],
 "d1/dff/structAcore_1_1ObjectUpdater.html":[5,0,1,101],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[5,0,1,101,3],
+"d1/dff/structAcore_1_1ObjectUpdater.html":[6,0,0,89],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[6,0,0,89,3],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[5,0,1,101,2],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[5,0,1,101,3],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[6,0,0,89,2]
 };

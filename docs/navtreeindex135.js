@@ -1,5 +1,7 @@
 var NAVTREEINDEX135 =
 {
+"d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a":[5,0,30,5,14,1],
+"d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a":[6,0,11,5,14,1],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ae682a8405a5fa1c70033d190dde25d99":[6,0,11,5,14,0],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ae682a8405a5fa1c70033d190dde25d99":[5,0,30,5,14,0],
 "d4/dc6/classArenaTeam.html":[6,0,189],
@@ -85,12 +87,12 @@ var NAVTREEINDEX135 =
 "d4/dc6/classspell__warhead__detonate.html#a98e8a4b7bbe947b00f1bc32632736d59":[6,0,3905,0],
 "d4/dc6/classspell__warhead__detonate.html#acdfa4e1fc8e26a887e80521b1bea5150":[6,0,3905,2],
 "d4/dc6/classspell__warhead__detonate.html#aeec15705a41ad2ac0e59d90086591d96":[6,0,3905,3],
-"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,27,13],
 "d4/dc7/classVMAP_1_1MeshTriangle.html":[6,0,9,13],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[6,0,9,13,1],
+"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,27,13],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[5,0,27,13,1],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[6,0,9,13,3],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[6,0,9,13,1],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[5,0,27,13,3],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[6,0,9,13,3],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[6,0,9,13,4],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[5,0,27,13,4],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#aed1048a2b6745215a7b8f70dec378371":[5,0,27,13,2],
@@ -193,10 +195,10 @@ var NAVTREEINDEX135 =
 "d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[6,0,3358,2],
 "d4/dcd/classspell__mage__cold__snap.html#ad2840c719abd010c629747da138e9e32":[6,0,3358,3],
 "d4/dcd/classspell__mage__cold__snap.html#ae971bd1dccc9280620b6ea44dd552bd4":[6,0,3358,1],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[5,0,30,5,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[6,0,11,5,11],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[6,0,11,5,11,2],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[5,0,30,5,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[5,0,30,5,11,2],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[6,0,11,5,11,2],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[6,0,11,5,11,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[5,0,30,5,11,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#afdb4e226091e8280b4ef26bd51edebdd":[6,0,11,5,11,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX135 =
 "d4/dd0/classWorldObject.html#a224fb27b363c07b7d40e38d040410b34":[6,0,4240,72],
 "d4/dd0/classWorldObject.html#a247a2554fbf6bead7c2306fe859fb5ab":[6,0,4240,179],
 "d4/dd0/classWorldObject.html#a257d2143e8684b101e6198e21199e7b6":[6,0,4240,62],
-"d4/dd0/classWorldObject.html#a266350f5eebd01138f89f659d1eb7505":[6,0,4240,105],
-"d4/dd0/classWorldObject.html#a2679ef750921cbf1ea29ea9abc742a2a":[6,0,4240,172],
-"d4/dd0/classWorldObject.html#a27c957e578d0395d62148fe5e7bee988":[6,0,4240,188]
+"d4/dd0/classWorldObject.html#a266350f5eebd01138f89f659d1eb7505":[6,0,4240,105]
 };

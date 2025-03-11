@@ -1,5 +1,11 @@
 var NAVTREEINDEX362 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b39310aedae8c463ba027790ef07c39":[7,0,0,0,1,3,7,1,4,8,2],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca97f757fd8852d84166e0dacb74d48895":[7,0,0,0,1,3,7,1,4,8,1],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[7,0,0,0,1,3,7,1,4,8,10],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caaf0272d8528a147b8084c7a7d6d69b2a":[7,0,0,0,1,3,7,1,4,8,14],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cac0f9e5964a0246a1e0401ada311ac54a":[7,0,0,0,1,3,7,1,4,8,13],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad0cf2e4cb01aa491b9c126c8324ecdbc":[7,0,0,0,1,3,7,1,4,8,0],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad37a8f1111ab88a25c6222a817839f2d":[7,0,0,0,1,3,7,1,4,8,4],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad80cddb5c773432a1c1e568c56fd784e":[7,0,0,0,1,3,7,1,4,8,5],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cadc1698100d98eeecb36b674a45bb6882":[7,0,0,0,1,3,7,1,4,8,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX362 =
 "de/da3/ModuleMgr_8h.html":[7,0,0,0,1,2,29,1],
 "de/da3/ModuleMgr_8h.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[7,0,0,0,1,2,29,1,0],
 "de/da3/ModuleMgr_8h.html#ac16569c9333f642e54fa7a4ec6a948e3":[7,0,0,0,1,2,29,1,1],
-"de/da4/classspell__putricide__mutated__plague__aura.html":[6,0,3539],
-"de/da4/classspell__putricide__mutated__plague__aura.html#a109dc4f189a64ac3b5949191d6abd2be":[6,0,3539,0],
-"de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[6,0,3539,1],
-"de/da4/classspell__putricide__mutated__plague__aura.html#ab36a001ea8cd87703e2694e0765635c0":[6,0,3539,3],
-"de/da4/classspell__putricide__mutated__plague__aura.html#af9ce7433b620fdf1dea570561c514b3b":[6,0,3539,2],
-"de/da5/CharacterDatabase_8h.html":[7,0,0,0,1,1,0,0,1],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7":[7,0,0,0,1,1,0,0,1,1]
+"de/da4/classspell__putricide__mutated__plague__aura.html":[6,0,3539]
 };

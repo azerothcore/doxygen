@@ -1,5 +1,11 @@
 var NAVTREEINDEX352 =
 {
+"de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22],
+"de/d2d/namespaceObjectAccessor.html#ade254f98439319c444ce701c75d4f93a":[5,0,23,20],
+"de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
+"de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
+"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3795],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3795,1],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3795,0],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3795,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX352 =
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a6dac91ba03d68eaf8fadc25648d3546a":[7,0,0,0,1,2,41,9,60,15],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a94a1aa9ac3cd331d95f2d0c421f35f59":[7,0,0,0,1,2,41,9,60,24],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a970bdf3e5f6192a44f1047c0a9c01310":[7,0,0,0,1,2,41,9,60,2],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46aa0c2a4e7377d6217e94cc8fc7c77b5b2":[7,0,0,0,1,2,41,9,60,1],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab68139e4e6c4de1ec554ce13cc339d6d":[7,0,0,0,1,2,41,9,60,9],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab6bcbd6b1f2b6e6f5ad36b83930db9d8":[7,0,0,0,1,2,41,9,60,3],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab92a05b298c10d1c2b9c3a2af4fe819b":[7,0,0,0,1,2,41,9,60,25],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46abaa632530ec78fe5964cb1591b91e3b9":[7,0,0,0,1,2,41,9,60,19],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46abe491f8f623ecee03ca01610fa2b16cf":[7,0,0,0,1,2,41,9,60,4],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a":[7,0,0,0,1,2,41,9,60,12]
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46aa0c2a4e7377d6217e94cc8fc7c77b5b2":[7,0,0,0,1,2,41,9,60,1]
 };

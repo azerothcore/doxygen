@@ -1,5 +1,10 @@
 var NAVTREEINDEX309 =
 {
+"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[6,0,626,3],
+"dc/db8/structboss__mother__shahraz.html#a821d91439c60a60ffcff07b6bdbbc070":[6,0,626,5],
+"dc/db8/structboss__mother__shahraz.html#ab69d81acde4e6e2a3f6adb032090b958":[6,0,626,1],
+"dc/db8/structboss__mother__shahraz.html#ab9e4162ac92e786b84b6497c37251386":[6,0,626,4],
+"dc/db8/structboss__mother__shahraz.html#adba94363f74975301472d79f24894df8":[6,0,626,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html":[6,0,73],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,73,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,73,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX309 =
 "dc/dc9/structBattlegroundEYScore.html#a8a915f38f28ee3929c7922b9fa8f38d6":[6,0,322,1],
 "dc/dc9/structBattlegroundEYScore.html#a91c17f1ff1924439b05840cd11ede36f":[6,0,322,0],
 "dc/dc9/structBattlegroundEYScore.html#afad034f453c54587b86532a37335ab18":[6,0,322,3],
-"dc/dca/classspell__item__recall.html":[6,0,3248],
-"dc/dca/classspell__item__recall.html#a59641895cead08de4a4503262505ee73":[6,0,3248,2],
-"dc/dca/classspell__item__recall.html#a6bc9791d0f08440e19b89daa9b65892c":[6,0,3248,1],
-"dc/dca/classspell__item__recall.html#a738e105a48f6c603f3d9a690f44b8745":[6,0,3248,0],
-"dc/dcb/classnpc__jungle__punch__target.html":[6,0,1898],
-"dc/dcb/classnpc__jungle__punch__target.html#a69220634d9d6b84e464cdc4e0cba91a7":[6,0,1898,1]
+"dc/dca/classspell__item__recall.html":[6,0,3248]
 };

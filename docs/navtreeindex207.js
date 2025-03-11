@@ -1,5 +1,9 @@
 var NAVTREEINDEX207 =
 {
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[6,0,0,4,0,2,0],
+"d7/dfd/Argon2_8cpp.html":[7,0,0,0,0,3,5],
+"d7/dfe/World_8cpp.html":[4,2,4],
 "d7/dfe/classLootValidatorRef.html":[6,0,1451],
 "d7/dfe/classLootValidatorRef.html#a8833022cf1acf786c06f1580fbe11c24":[6,0,1451,1],
 "d7/dfe/classLootValidatorRef.html#a93baac45dcb801215c28ac0dba097eba":[6,0,1451,2],
@@ -99,8 +103,8 @@ var NAVTREEINDEX207 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a1a4268b745e63992f4d0fc2028b717aa":[6,0,1811,0,0],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a6fa27328cf47bef81c3465b8a3e2ace1":[6,0,1811,0,3],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[6,0,1811,0,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX207 =
 "d8/d0c/AllSpellScript_8cpp.html#a6fb50c7d667ae3d14a6d307b0862e957":[7,0,0,0,1,2,38,0,19,0],
 "d8/d0d/classboss__general__zarithrian.html":[6,0,494],
 "d8/d0d/classboss__general__zarithrian.html#a030c53b6ef1d75027ddfd298d49ab330":[6,0,494,1],
-"d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[6,0,494,2],
-"d8/d0d/classboss__yoggsaron__sara.html":[6,0,800],
-"d8/d0d/classboss__yoggsaron__sara.html#aaf5bd5440122f6c97315b0e3b9d47586":[6,0,800,1],
-"d8/d0d/classboss__yoggsaron__sara.html#abc83e0f3a7d12a84ea283e5b2a69826d":[6,0,800,2],
-"d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0]
+"d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[6,0,494,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX226 =
 {
+"d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[6,0,644,2],
+"d8/dea/structboss__ormorok.html#a29cc8c3db5ba3d528ea873d66be619cd":[6,0,644,7],
+"d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[6,0,644,4],
+"d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[6,0,644,5],
+"d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[6,0,644,0],
 "d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[6,0,644,3],
 "d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[6,0,644,1],
 "d8/deb/SpellAuraEffects_8h.html":[7,0,0,0,1,2,41,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX226 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#ad380838dbb6c2a3488fa57f2999e137c":[6,0,445,0,4],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0],
 "d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
-"d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
-"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,120],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,120,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,120,0]
+"d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0]
 };

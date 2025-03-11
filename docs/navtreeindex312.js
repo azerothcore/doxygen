@@ -1,5 +1,10 @@
 var NAVTREEINDEX312 =
 {
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a57581aa65d3e7ddc3cf53b81c9cf6da0":[7,0,0,0,1,3,3,1,37,1],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a708862ad6ea39c18e76cfd2767e0d3f6":[7,0,0,0,1,3,3,1,37,5],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a86c92dd979c36cd76fd7a16b6776866c":[7,0,0,0,1,3,3,1,37,7],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4ab76eef903f89cb3da333d64dd4f9ce90":[7,0,0,0,1,3,3,1,37,2],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4af1faeb7f45a958be04b8e98454512450":[7,0,0,0,1,3,3,1,37,0],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8e":[7,0,0,0,1,3,3,1,44],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea09de7ce3b856ca5205416e36f8572cd8":[7,0,0,0,1,3,3,1,44,4],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea390ab2cfc30916ec5b00ae56f5502e68":[7,0,0,0,1,3,3,1,44,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX312 =
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa85a709d6db4db1d7de162bab489085dc":[7,0,0,0,1,3,2,6,0,28,4],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa898e8cbf090c425fe74c7287c4065e69":[7,0,0,0,1,3,2,6,0,28,5],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa91ff1ade03dea0a4b340dd88044ba329":[7,0,0,0,1,3,2,6,0,28,10],
-"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fab9740d6cb9f40bbc1a138b7acd9a7eac":[7,0,0,0,1,3,2,6,0,28,2],
-"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fabc9c40dc0af7f41d9c7faee582d29b6c":[7,0,0,0,1,3,2,6,0,28,3],
-"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faf7869e3c172821b608232b96cfd85de2":[7,0,0,0,1,3,2,6,0,28,11],
-"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faffa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,2,6,0,28,6],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea":[7,0,0,0,1,3,2,6,0,32],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de":[7,0,0,0,1,3,2,6,0,32,13]
+"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fab9740d6cb9f40bbc1a138b7acd9a7eac":[7,0,0,0,1,3,2,6,0,28,2]
 };

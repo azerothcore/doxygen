@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ae1e7cad436566533b7673438884e6210":[6,0,1350,0,18],
 "d1/d1c/classspell__gen__cannibalize.html":[6,0,2897],
 "d1/d1c/classspell__gen__cannibalize.html#a22f4c5321769384b2b708f19edea1a66":[6,0,2897,3],
 "d1/d1c/classspell__gen__cannibalize.html#a855fdba79c4fa087253505ed419b9966":[6,0,2897,4],
@@ -240,14 +241,13 @@ var NAVTREEINDEX27 =
 "d1/d2d/SpellScriptLoader_8h.html#aeffc3c8d08a35d5969c33508488e9051":[7,0,0,0,1,2,38,0,79,3],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[6,0,0,8],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[5,0,1,20],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[6,0,0,8,1],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[5,0,1,20,1],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[6,0,0,8,1],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[5,0,1,20,6],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[6,0,0,8,6],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[6,0,0,8,0],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[5,0,1,20,0],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[6,0,0,8,0],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[6,0,0,8,2],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[5,0,1,20,2],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[6,0,0,8,5],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[5,0,1,20,5]
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[6,0,0,8,5]
 };

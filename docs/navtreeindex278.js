@@ -1,5 +1,10 @@
 var NAVTREEINDEX278 =
 {
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a35866e3cad208bb70bbc5a146301c28d":[6,0,1588,0,0],
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a6d484f8d3f54bb7c7ad572027501f2ab":[6,0,1588,0,3],
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a85f60e0733ac4ccd8f7941e8df0f88d9":[6,0,1588,0,4],
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#aaeda7e00410766857ee4bd73a8e15b89":[6,0,1588,0,5],
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#ac11795153811d2465b106bc1fdea508a":[6,0,1588,0,1],
 "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#ad4a2111d4301f0b928fbd01b6783fb6c":[6,0,1588,0,6],
 "db/d81/classspell__item__brewfest__mount__transformation.html":[6,0,3177],
 "db/d81/classspell__item__brewfest__mount__transformation.html#a2081334e6b7a4191801bc0556e26198c":[6,0,3177,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX278 =
 "db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,370,2],
 "db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,370,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[6,0,3187],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3187,1],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[6,0,3187,0],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a8ae826705bd1a1f1da3160be73926d7b":[6,0,3187,2],
-"db/d89/classspell__item__dimensional__ripper__area52.html#abda715e38cf19fa7276ec4f4a12d3b63":[6,0,3187,3],
-"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6],
-"db/d8b/ItemTemplate_8h.html#a02411d2e55d8ffa000a775af803d54b8":[7,0,0,0,1,2,16,4,6,26]
+"db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3187,1]
 };

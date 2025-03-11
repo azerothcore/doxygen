@@ -1,5 +1,10 @@
 var NAVTREEINDEX267 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a4c2d17bd45e71eaab3ddbf60c378754b":[7,0,0,0,1,3,5,2,1,7,6,47],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0":[7,0,0,0,1,3,5,2,1,7,6,8],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a518bd5eb0d32adbff6da21d82071f2fa":[7,0,0,0,1,3,5,2,1,7,6,32],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0":[7,0,0,0,1,3,5,2,1,7,6,14],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a618f48798929cb137d5a22ff73defc40":[7,0,0,0,1,3,5,2,1,7,6,36],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad":[7,0,0,0,1,3,5,2,1,7,6,10],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a668084cc1f8c66aad210107b4ab94bdb":[7,0,0,0,1,3,5,2,1,7,6,59],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[7,0,0,0,1,3,5,2,1,7,6,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX267 =
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca511bf5a0d2736e59816a8fdc5975dd9a":[7,0,0,0,1,3,2,1,1,2,5,3],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[7,0,0,0,1,3,2,1,1,2,5,2],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298caa72ede58fa3714726fab8d4b7252f5fa":[7,0,0,0,1,3,2,1,1,2,5,4],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cad65dc3cbe848ba056623736805b0589e":[7,0,0,0,1,3,2,1,1,2,5,7],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cafe1d05bb1cb31d670f894f0b7c04c6b4":[7,0,0,0,1,3,2,1,1,2,5,1],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,2,3],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,2,1,1,2,3,2],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23d93f48d54ba45b0e91f20df0298e10":[7,0,0,0,1,3,2,1,1,2,3,4],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3]
+"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cad65dc3cbe848ba056623736805b0589e":[7,0,0,0,1,3,2,1,1,2,5,7]
 };

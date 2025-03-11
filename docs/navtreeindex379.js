@@ -1,5 +1,11 @@
 var NAVTREEINDEX379 =
 {
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a3c7bc5f9aa04f155debbdacafed6163d":[6,0,380,0,3],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a61e4d85ecd592142ba07588512505990":[6,0,380,0,7],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a75796eb8dc83729f2f726ff51317bd66":[6,0,380,0,0],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a8947cbd1c2856334a0d6529bc664f71b":[6,0,380,0,6],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a951d68d4e645860cdb5c5e348bf1fff4":[6,0,380,0,10],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#aa3c37a38b95c6b3bec4e3b787d2155df":[6,0,380,0,9],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#aaac2018e16b80997f884745732605559":[6,0,380,0,8],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html":[6,0,1562,0],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a021b82aa6bd2e118fe810f18349fda42":[6,0,1562,0,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX379 =
 "df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137db":[7,0,0,0,1,3,2,1,0,0,18],
 "df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a":[7,0,0,0,1,3,2,1,0,0,18,0],
 "df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4":[7,0,0,0,1,3,2,1,0,0,20],
-"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125":[7,0,0,0,1,3,2,1,0,0,20,0],
-"df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec":[7,0,0,0,1,3,2,1,0,0,22],
-"df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174":[7,0,0,0,1,3,2,1,0,0,16],
-"df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7":[7,0,0,0,1,3,2,1,0,0,16,0],
-"df/d57/classnpc__lake__frog.html":[6,0,1914],
-"df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1914,2],
-"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1914,1]
+"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125":[7,0,0,0,1,3,2,1,0,0,20,0]
 };

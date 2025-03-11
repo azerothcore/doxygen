@@ -1,5 +1,10 @@
 var NAVTREEINDEX248 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[7,0,0,0,1,2,41,0,0,6,25],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c684b941fc93d5488ff49a976973596":[7,0,0,0,1,2,41,0,0,6,27],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6ce8ab254d7a5e7caa05e4c53549a117":[7,0,0,0,1,2,41,0,0,6,72],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6d1575d5094063c40f7efb7816adabe2":[7,0,0,0,1,2,41,0,0,6,158],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4650df4228c83bc7c1bdcb059fcf81":[7,0,0,0,1,2,41,0,0,6,254],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4ce86c39fc491ab2a65efda7566c9f":[7,0,0,0,1,2,41,0,0,6,109],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a71228de916b6c96108c7689f11d6303c":[7,0,0,0,1,2,41,0,0,6,81],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[7,0,0,0,1,2,41,0,0,6,287],
@@ -244,10 +249,5 @@ var NAVTREEINDEX248 =
 "da/d32/classBattlegroundRL.html#adb2ec6770c2b25b94f8f7dff7486d5cf":[6,0,331,6],
 "da/d32/classBattlegroundRL.html#ae2e0ccf2badc174b7f5c909f805fe669":[6,0,331,0],
 "da/d32/classspell__blood__siphon__aura.html":[6,0,2655],
-"da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[6,0,2655,2],
-"da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[6,0,2655,0],
-"da/d32/classspell__blood__siphon__aura.html#abd1254c53c04f72f848d8641affc729d":[6,0,2655,3],
-"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2655,1],
-"da/d32/classspell__item__branns__communicator.html":[6,0,3176],
-"da/d32/classspell__item__branns__communicator.html#a7fe416070962ba582d59ddff70c13590":[6,0,3176,1]
+"da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[6,0,2655,2]
 };

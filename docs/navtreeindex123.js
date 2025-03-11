@@ -1,5 +1,7 @@
 var NAVTREEINDEX123 =
 {
+"d4/d4a/classspell__dru__dash.html#a50d1284f1113bfdd0b39690efabe6b9b":[6,0,2792,2],
+"d4/d4a/classspell__dru__dash.html#a583e19667a83ada4cd793fbf391f9e93":[6,0,2792,0],
 "d4/d4a/classspell__dru__dash.html#ac6adda0dbe544cf2457060647c01de0f":[6,0,2792,1],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html":[6,0,1728,0],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html#ac0fdbfe2f324785569fa742e0b244b83":[6,0,1728,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca72bd94008804cfa1d9403df738802194":[7,0,0,0,1,3,2,15,2,8,30],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e28f841d0084a9316fd1ced2b95d4be":[7,0,0,0,1,3,2,15,2,8,8],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7ed9fdb9b70668eb01c9b8080e2a96b5":[7,0,0,0,1,3,2,15,2,8,21],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c":[7,0,0,0,1,3,2,15,2,8,1],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8681e957519ffa860cefaf0a99ea84b6":[7,0,0,0,1,3,2,15,2,8,31],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b283e2526f4cc3a247a244848c646de":[7,0,0,0,1,3,2,15,2,8,27]
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c":[7,0,0,0,1,3,2,15,2,8,1]
 };

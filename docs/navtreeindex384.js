@@ -1,5 +1,11 @@
 var NAVTREEINDEX384 =
 {
+"df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[6,0,4045,25],
+"df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590":[6,0,4045,63],
+"df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f":[6,0,4045,22],
+"df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d":[6,0,4045,51],
+"df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f":[6,0,4045,34],
+"df/d92/classSpellScript.html#a1a0656c9f2b3ff11078f5cbf5168b3e6":[6,0,4045,24],
 "df/d92/classSpellScript.html#a256e6f9b002c24080d76850bd2828b01":[6,0,4045,52],
 "df/d92/classSpellScript.html#a2d165b957bc84bb5bb6988113dc41f3b":[6,0,4045,16],
 "df/d92/classSpellScript.html#a300f05abb43660c340ada74538345101":[6,0,4045,42],
@@ -243,11 +249,5 @@ var NAVTREEINDEX384 =
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99":[7,0,0,0,1,3,6,8,10,4],
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506":[7,0,0,0,1,3,6,8,10,23],
 "df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f":[7,0,0,0,1,3,6,8,10,16],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a":[7,0,0,0,1,3,6,8,10,12],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf":[7,0,0,0,1,3,6,8,10,17],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47":[7,0,0,0,1,3,6,8,10,7],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060":[7,0,0,0,1,3,6,8,10,0],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393":[7,0,0,0,1,3,6,8,10,27],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6":[7,0,0,0,1,3,6,8,10,21],
-"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15":[7,0,0,0,1,3,6,8,10,14]
+"df/d9a/OutdoorPvPNA_8h.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a":[7,0,0,0,1,3,6,8,10,12]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX223 =
 {
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a20761aa41e0f70836c4525f17faf064f":[6,0,1316,0,1],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a2a28e42ec49fce2ef47288c1ad4b6e61":[6,0,1316,0,4],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a5d109b5acfa2e21e3c50e35dcdf119dd":[6,0,1316,0,2],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a96211e4e0e033e16d4de57b6e40f2023":[6,0,1316,0,6],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96":[6,0,1316,0,5],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#ad0b65a3cfccdf07d017757751f4e15fa":[6,0,1316,0,8],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#aea148b562a4f2cd752ac73240f902993":[6,0,1316,0,7],
 "d8/dd2/boss__warp__splinter_8cpp.html":[7,0,0,0,1,3,7,5,1,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f6464e2d3e2f02315585fa60240dab":[7,0,0,0,1,3,5,24,24,3],
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca12db893b9c1e40ca601b4ceb827be911":[7,0,0,0,1,3,5,24,24,5],
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca25f0939a58153efb89660eb738f72373":[7,0,0,0,1,3,5,24,24,4],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca572766e19d930d61b3443282f2ec1ae7":[7,0,0,0,1,3,5,24,24,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca5da4714fbae445a4e8ade7cffaa595d5":[7,0,0,0,1,3,5,24,24,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca715f3128a1e8a76706c702c97999b823":[7,0,0,0,1,3,5,24,24,0],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca79291516712df696b4ba985c97eef9ba":[7,0,0,0,1,3,5,24,24,7],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ec9f5652fbb28187fe042b8afa57fff":[7,0,0,0,1,3,5,24,24,8],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298cae004b15f21992923ce3aa4df17acd770":[7,0,0,0,1,3,5,24,24,2]
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca572766e19d930d61b3443282f2ec1ae7":[7,0,0,0,1,3,5,24,24,6]
 };
