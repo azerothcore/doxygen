@@ -1,5 +1,7 @@
 var NAVTREEINDEX229 =
 {
+"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a11dd073b70e5126f580ec5122dce7bbd":[6,0,1785,0,5],
+"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a4c9418b5474eb572a76168d4a460159a":[6,0,1785,0,1],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a5df6604055c5f3936a95f8d0ca5be8c1":[6,0,1785,0,7],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6273b024ebde2fb36ed79eb122f7ac68":[6,0,1785,0,4],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6308aadc8ebf41cf045b04ac58e2244b":[6,0,1785,0,6],
@@ -204,8 +206,8 @@ var NAVTREEINDEX229 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3210,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,30,9,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,30,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a83c5e32659d38a513790322e46dcc283":[6,0,2085,0,0],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a8ee22a276535a3a9c2f12a62e984d55b":[6,0,2085,0,6],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#aa470197f0949a413c421bda8c7c09279":[6,0,2085,0,1],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2085,0,3],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ac37287a77e37785b606c742ff8d6eeeb":[6,0,2085,0,4],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#add19812d92d62b602f96ffc5fb513d6c":[6,0,2085,0,2]
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2085,0,3]
 };

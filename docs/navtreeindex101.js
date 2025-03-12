@@ -1,6 +1,8 @@
 var NAVTREEINDEX101 =
 {
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html":[6,0,1813],
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html#a1a834bda866033a3cca4fc4ece447313":[6,0,1813,2],
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html#a4514796784d974ba6de09b5a5d4e5f3b":[6,0,1813,1],
-"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html":[6,0,427,0],
-"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a02ffab01744c0dbb8b5a60794e82bdb0":[6,0,427,0,2],
-"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a09f7c704579bdb8dad951ce63b5a54c9":[6,0,427,0,1]
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html":[6,0,427,0]
 };

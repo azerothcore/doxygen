@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d96/structnpc__frozen__core.html#a3a5efec3279644ef713722e1556a3c84":[6,0,1792,5],
+"d7/d96/structnpc__frozen__core.html#a476e086b0379e0cef3a44d250b020d6a":[6,0,1792,3],
 "d7/d96/structnpc__frozen__core.html#a7b2c684f0c4e88720fb0d921815026ab":[6,0,1792,1],
 "d7/d96/structnpc__frozen__core.html#a7e5824e31f600d10c3177e00ae443c7f":[6,0,1792,2],
 "d7/d96/structnpc__frozen__core.html#a80fa517cc7dffd4bf15f3393d1f4af14":[6,0,1792,6],
@@ -224,10 +226,10 @@ var NAVTREEINDEX193 =
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,29,1,3],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[6,0,10,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,29,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,29,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[6,0,10,1,0],
-"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,29,1,2],
+"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,29,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[6,0,10,1,2],
+"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,29,1,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html":[6,0,397,0],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a65f7fd4f73c727eeb5988d7ec77b94ce":[6,0,397,0,3],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a96e27eaba5c9e422981d78123ed9c83d":[6,0,397,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa011fb8e72b4f1289ef3716b21bceb3e2":[7,0,0,0,1,2,28,2,0,207],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa012cb9ca2063fe13199f511675130927":[7,0,0,0,1,2,28,2,0,167],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f":[7,0,0,0,1,2,28,2,0,862],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0173d3992dd5ada2112da34dd3269613":[7,0,0,0,1,2,28,2,0,762],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01beea14b6896b96475c883c7d6bc61a":[7,0,0,0,1,2,28,2,0,1081],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01f4c97796480184bed4a1ef9f9339e6":[7,0,0,0,1,2,28,2,0,378]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0173d3992dd5ada2112da34dd3269613":[7,0,0,0,1,2,28,2,0,762]
 };

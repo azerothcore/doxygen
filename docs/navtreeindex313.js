@@ -1,5 +1,7 @@
 var NAVTREEINDEX313 =
 {
+"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa91ff1ade03dea0a4b340dd88044ba329":[7,0,0,0,1,3,2,6,0,28,10],
+"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fab9740d6cb9f40bbc1a138b7acd9a7eac":[7,0,0,0,1,3,2,6,0,28,2],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fabc9c40dc0af7f41d9c7faee582d29b6c":[7,0,0,0,1,3,2,6,0,28,3],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faf7869e3c172821b608232b96cfd85de2":[7,0,0,0,1,3,2,6,0,28,11],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faffa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,2,6,0,28,6],
@@ -149,8 +151,8 @@ var NAVTREEINDEX313 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,3969,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX313 =
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#af4d933b56431d2f2755d87fb05922458":[6,0,1240,0,4],
 "dc/dfd/classspell__gen__throw__shield.html":[6,0,2995],
 "dc/dfd/classspell__gen__throw__shield.html#a1d7e2beafb55464f928ea5904441d698":[6,0,2995,1],
-"dc/dfd/classspell__gen__throw__shield.html#a422a77760004d6d6fac6bacdb1d436ff":[6,0,2995,0],
-"dc/dfd/classspell__gen__throw__shield.html#aeaa8321255f377b85884df25a455554f":[6,0,2995,2],
-"dc/dfe/classQuestMenu.html":[6,0,2451]
+"dc/dfd/classspell__gen__throw__shield.html#a422a77760004d6d6fac6bacdb1d436ff":[6,0,2995,0]
 };

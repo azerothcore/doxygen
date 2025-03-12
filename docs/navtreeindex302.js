@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"dc/d49/boss__sapphiron_8cpp.html#a870aa227d58b1011e55005faae584065":[7,0,0,0,1,3,5,7,13,7],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,13,3],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[7,0,0,0,1,3,5,7,13,3,2],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a24042a9ec5330bd014bada105a8a2afe":[7,0,0,0,1,3,5,7,13,3,8],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a444abf4004297df94ed200e223ab5155":[7,0,0,0,1,3,5,7,13,3,13],
@@ -241,13 +243,11 @@ var NAVTREEINDEX302 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,30,5,44,5],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[5,0,30,5,44,1],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[6,0,11,5,44,1],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[6,0,11,5,44,0],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[5,0,30,5,44,0],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[6,0,11,5,44,0],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[6,0,11,5,44,12],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[5,0,30,5,44,12],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[6,0,11,5,44,3],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[5,0,30,5,44,3],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[6,0,11,5,44,7],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[5,0,30,5,44,7],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[5,0,30,5,44,10]
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[6,0,11,5,44,7]
 };

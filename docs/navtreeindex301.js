@@ -1,5 +1,7 @@
 var NAVTREEINDEX301 =
 {
+"dc/d36/structboss__amanitar.html#ae2bace7f649626c68560d4a6d5aa4ea3":[6,0,369,4],
+"dc/d36/structboss__amanitar.html#afc5b4942931f6020b2894b901650fc35":[6,0,369,8],
 "dc/d36/structinstance__drak__tharon__keep_1_1instance__drak__tharon__keep__InstanceScript.html":[6,0,1292,0],
 "dc/d36/structinstance__drak__tharon__keep_1_1instance__drak__tharon__keep__InstanceScript.html#a15f13e67c33a7d5cfb4793b6b641842c":[6,0,1292,0,0],
 "dc/d36/structinstance__drak__tharon__keep_1_1instance__drak__tharon__keep__InstanceScript.html#ab727f29fc768c00ab48bfd7e7717a29a":[6,0,1292,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,13,5,8],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf1bce68d7f9217b4d5c96b6b7850e3f8":[7,0,0,0,1,3,5,7,13,5,4],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf8e17f55745f1a3b78a47a8ee1264ad2":[7,0,0,0,1,3,5,7,13,5,6],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cafc1e420bbd6ed8b8cb100622bb12d474":[7,0,0,0,1,3,5,7,13,5,7],
-"dc/d49/boss__sapphiron_8cpp.html#a870aa227d58b1011e55005faae584065":[7,0,0,0,1,3,5,7,13,7],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,13,3]
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cafc1e420bbd6ed8b8cb100622bb12d474":[7,0,0,0,1,3,5,7,13,5,7]
 };

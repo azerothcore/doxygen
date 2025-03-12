@@ -1,5 +1,8 @@
 var NAVTREEINDEX350 =
 {
+"de/d1c/classGameObject.html#a1e2791d4af79d571a88a24eda227839c":[6,0,1071,21],
+"de/d1c/classGameObject.html#a1e5c1c1ca698387b5a24f400888d9b62":[6,0,1071,27],
+"de/d1c/classGameObject.html#a1f52f9f33bda7b8e6015548e94c2767b":[6,0,1071,15],
 "de/d1c/classGameObject.html#a20c822c26c33c0e2328e899d25a3ab6c":[6,0,1071,9],
 "de/d1c/classGameObject.html#a23d07cf4bd0d68e9f30112bb34bcc504":[6,0,1071,133],
 "de/d1c/classGameObject.html#a2591bcee950c708fe556a71062cfcf64":[6,0,1071,70],
@@ -189,18 +192,18 @@ var NAVTREEINDEX350 =
 "de/d1e/classMailSender.html#a9ddda06cf5ecc55efdc4525353471c5b":[6,0,1466,3],
 "de/d20/classVMAP_1_1MapRayCallback.html":[5,0,27,11],
 "de/d20/classVMAP_1_1MapRayCallback.html":[6,0,9,11],
-"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[5,0,27,11,2],
-"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,27,11,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,27,11,5],
-"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
-"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,859],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX350 =
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,7,26,21],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68":[7,0,0,0,1,3,9,7,26,11],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740d":[7,0,0,0,1,3,9,7,25],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,25,0],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,25,1],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,25,2],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2217,0]
+"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,25,0]
 };

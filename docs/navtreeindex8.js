@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b":[6,0,1215,4],
 "d0/d69/classnpc__halion__controller.html":[6,0,1823],
 "d0/d69/classnpc__halion__controller.html#a3c5ea3f0597c070005744ea788a05383":[6,0,1823,2],
 "d0/d69/classnpc__halion__controller.html#ac88ff15ce4d89d737eb6dd6b649e1218":[6,0,1823,1],
@@ -141,16 +142,16 @@ var NAVTREEINDEX8 =
 "d0/d71/structnpc__pet__pri__lightwell.html":[6,0,2018],
 "d0/d71/structnpc__pet__pri__lightwell.html#a5244bcfab27ccad603f80c6f2b2fcd3a":[6,0,2018,1],
 "d0/d71/structnpc__pet__pri__lightwell.html#aebeb192e66c7d5b4201cbaa81d46703c":[6,0,2018,0],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[6,0,11,7,6],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[5,0,30,7,6],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[6,0,11,7,6],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[5,0,30,7,6,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,11,7,6,3],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,11,7,6,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,30,7,6,0],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,11,7,6,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,30,7,6,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[6,0,11,7,6,1],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,11,7,6,2],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,30,7,6,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,11,7,6,2],
 "d0/d72/classspell__felmyst__fog__of__corruption.html":[6,0,2844],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a043d135ea2c37f6e4352aa2fba2bb21c":[6,0,2844,3],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a5ee63545a338e00bfcb8dcc2f3f67db3":[6,0,2844,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "d0/d76/classBattlefieldWG.html#a7ef5a828ca28b98eb8c2a9ef7a6810f0":[6,0,309,3],
 "d0/d76/classBattlefieldWG.html#a7f6940850c0398367f71a683dda04620":[6,0,309,37],
 "d0/d76/classBattlefieldWG.html#a8ee9f67f4703a57b4c82c1fcaa4e4b89":[6,0,309,31],
-"d0/d76/classBattlefieldWG.html#a92fdfc90858de253d8df3cc10ee24ce5":[6,0,309,35],
-"d0/d76/classBattlefieldWG.html#a977fd7c320679b925828e446608dd3ee":[6,0,309,28]
+"d0/d76/classBattlefieldWG.html#a92fdfc90858de253d8df3cc10ee24ce5":[6,0,309,35]
 };

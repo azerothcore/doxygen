@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d8/d74/classWorldSession.html#afe0db97dd7befa770b8ec4c26fa8736a":[4,1,19,543],
+"d8/d74/classWorldSession.html#afe75ec08fed48073822a0f1856759558":[4,1,19,106],
 "d8/d74/classWorldSession.html#afe93d84982d386ff9bf14cb620136a43":[4,1,19,575],
 "d8/d74/classWorldSession.html#aff5884362c950f601d708041d249240b":[4,1,19,425],
 "d8/d74/classWorldSession.html#aff6182ddab2cafee47ec9619cc070e81":[4,1,19,231],
@@ -70,8 +72,8 @@ var NAVTREEINDEX217 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,957,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,957,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,957,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,30,5,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,5,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,30,5,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,5,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,30,5,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,30,5,31,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa0217d8a93a7104be8fe4dbf972c7393f":[7,0,0,0,1,3,2,1,2,0,7,2],
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa2ab992d07fdd3a99a150abb72fdb074b":[7,0,0,0,1,3,2,1,2,0,7,1],
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa407ab878051e2e3b810c6216f78bf876":[7,0,0,0,1,3,2,1,2,0,7,5],
-"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa5b266dce7529da7022dd16216bf22e4d":[7,0,0,0,1,3,2,1,2,0,7,6],
-"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa94173a98d77a9d0054977805b4e8d62d":[7,0,0,0,1,3,2,1,2,0,7,4],
-"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa9d9f0f0070821d807bb6488ba9cdf689":[7,0,0,0,1,3,2,1,2,0,7,3]
+"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa5b266dce7529da7022dd16216bf22e4d":[7,0,0,0,1,3,2,1,2,0,7,6]
 };

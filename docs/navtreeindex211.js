@@ -1,5 +1,7 @@
 var NAVTREEINDEX211 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbafe38a012d9b99cd1261190afd3eafbc0":[7,0,0,0,1,1,0,0,3,1,89],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbafea3022f0c3639aae2d113fb1ad2a9dd":[7,0,0,0,1,1,0,0,3,1,34],
 "d8/d37/classGuild_1_1RankInfo.html":[6,0,1244,9],
 "d8/d37/classGuild_1_1RankInfo.html#a02c7283862334b5133f5971cee5da927":[6,0,1244,9,1],
 "d8/d37/classGuild_1_1RankInfo.html#a058febd98eb3d116acbe1bc0d04a983c":[6,0,1244,9,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d4b/classObject.html#aa22e252dd3a2c8cc41be7d70f0c97f75":[6,0,2305,32],
 "d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961":[6,0,2305,33],
 "d8/d4b/classObject.html#aa837a338065017a1b39f1aa2f310587d":[6,0,2305,44],
-"d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961":[6,0,2305,55],
-"d8/d4b/classObject.html#aad61e90207805a7ad4464969408c0f8a":[6,0,2305,64],
-"d8/d4b/classObject.html#aaf0d667c6bd0ce6c0ed11dd855cd24ff":[6,0,2305,109]
+"d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961":[6,0,2305,55]
 };

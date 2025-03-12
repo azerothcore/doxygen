@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#a531651fa5a2b0fd7d20dd0f1b5f6809d":[6,0,1222,133],
 "d0/db7/classGroup.html#a53ca8211873b0e3a2301224cde0ee2c4":[6,0,1222,66],
 "d0/db7/classGroup.html#a55ab25977269e05689093eb986bddb4c":[6,0,1222,119],
 "d0/db7/classGroup.html#a5afa15c119d0d102dade2ee94947b48f":[6,0,1222,135],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dbb/structWGWorkshopData.html":[6,0,4215],
 "d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4215,3],
 "d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4215,2],
-"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4215,1],
-"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4215,0]
+"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4215,1]
 };

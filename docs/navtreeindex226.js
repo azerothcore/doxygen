@@ -1,5 +1,7 @@
 var NAVTREEINDEX226 =
 {
+"d8/dea/structboss__ormorok.html":[6,0,644],
+"d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[6,0,644,6],
 "d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[6,0,644,2],
 "d8/dea/structboss__ormorok.html#a29cc8c3db5ba3d528ea873d66be619cd":[6,0,644,7],
 "d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[6,0,644,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX226 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa346cbaded883bbb3806acf9cb32579a":[6,0,445,0,2],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa68ece744a21ed2ef8d3e7c4b4081d8e":[6,0,445,0,10],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#ad380838dbb6c2a3488fa57f2999e137c":[6,0,445,0,4],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0],
-"d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
-"d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0]
+"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0]
 };

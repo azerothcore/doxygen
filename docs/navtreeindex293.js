@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#ae71cafa0f60ce0ca6792524b5680d110":[6,0,664,0,9],
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72":[6,0,664,0,15],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1ce50fa9f251bf1d5270caca23d7dc1":[6,0,664,0,13],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1f3bf328a3729e0c667bbbe9188b104":[6,0,664,0,22],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af5d86d91401c2543128866524ff4a44f":[6,0,664,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "db/dfb/spell__quest_8cpp.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c":[7,0,0,0,1,3,9,8,118],
 "db/dfb/spell__quest_8cpp.html#aec43b4c5f9e0916e6647d63a9dd32f53":[7,0,0,0,1,3,9,8,116],
 "db/dfb/spell__quest_8cpp.html#aec43b4c5f9e0916e6647d63a9dd32f53a34904c06893e3f6723f157b9e081c5a4":[7,0,0,0,1,3,9,8,116,0],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620":[7,0,0,0,1,3,9,8,107],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620a7689a8e53a38b12f9e8c58de3dbffdf9":[7,0,0,0,1,3,9,8,107,0],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef":[7,0,0,0,1,3,9,8,107,1]
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620":[7,0,0,0,1,3,9,8,107]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX225 =
 {
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05a8d68047dd688b8de25d14fc1f9627a62":[7,0,0,0,1,2,8,1,19,13,18],
+"d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05aa2d9f3e52292c47dc5d6a213d3c726a1":[7,0,0,0,1,2,8,1,19,13,16],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ac3c337edd46197e6f6dde9c6c17c468b":[7,0,0,0,1,2,8,1,19,13,22],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05acb1a7d48845bc043616f4f769430130b":[7,0,0,0,1,2,8,1,19,13,8],
 "d8/de0/BattlegroundSA_8h.html#a3c1202b6f7c78ee8ee3475fe5d61bc05ad441ad0e49313ecdcb5fe921cdc78bf4":[7,0,0,0,1,2,8,1,19,13,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dea/classspell__archavon__rock__shards.html#a3c2e7eb24506b43730f2e971fab81c75":[6,0,2600,2],
 "d8/dea/classspell__archavon__rock__shards.html#a47b991c20c523d151893fefd9d487714":[6,0,2600,0],
 "d8/dea/classspell__archavon__rock__shards.html#a89d601f6036fe38238767281f3427e54":[6,0,2600,3],
-"d8/dea/classspell__archavon__rock__shards.html#ab2db47d0a2694c0734db600e810e190d":[6,0,2600,1],
-"d8/dea/structboss__ormorok.html":[6,0,644],
-"d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[6,0,644,6]
+"d8/dea/classspell__archavon__rock__shards.html#ab2db47d0a2694c0734db600e810e190d":[6,0,2600,1]
 };

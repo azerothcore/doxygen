@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/db4/classPreparedStatementBase.html#a4c1bf9847756076bf3bba7b1178f0f99":[6,0,2428,17],
+"de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0":[6,0,2428,11],
+"de/db4/classPreparedStatementBase.html#a96323eed4643ae8016b32215d6a902d4":[6,0,2428,1],
 "de/db4/classPreparedStatementBase.html#a9af41817061c82bc5498c463b2f0fdf0":[6,0,2428,18],
 "de/db4/classPreparedStatementBase.html#a9dcba27137454af96729a7e3e897f86c":[6,0,2428,15],
 "de/db4/classPreparedStatementBase.html#aa450d6784414246752c84556f6960fc9":[6,0,2428,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "de/dc3/structTrainerSpellData.html#ab58a8a4ca9d8b609131e7f8b3ec507c9":[6,0,4116,0],
 "de/dc3/structTrainerSpellData.html#acee027787f06b4186b781bbd0d7db781":[6,0,4116,2],
 "de/dc4/CircularBuffer_8h.html":[7,0,0,0,0,15,3],
-"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html":[6,0,1618,0],
-"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a13d25bf1612086cc4bb5bc2078105f18":[6,0,1618,0,1],
-"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a15b1acc73108c6802dbf3ac2ed0734c9":[6,0,1618,0,0],
-"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a2e3439976a6e84a60be765cb0b929798":[6,0,1618,0,4]
+"de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html":[6,0,1618,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d48/structFactionState.html#a946b8f7244fd22c4afcb26373ee61a13":[6,0,1026,1],
 "d2/d48/structFactionState.html#aae888b1bf10f654ee212f3d687c111e9":[6,0,1026,2],
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1026,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1026,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d4b/classPlayer.html#a2f04d845c8e4fdf7ba51c5536d390fed":[6,0,2388,1082],
 "d2/d4b/classPlayer.html#a2f201c79fbb0bb4b7d93609df8a57965":[6,0,2388,1175],
 "d2/d4b/classPlayer.html#a2f511f4e2692c6fe8970b991763ad7c9":[6,0,2388,217],
-"d2/d4b/classPlayer.html#a2f780cf8d581075515965d1de74cf789":[6,0,2388,404],
-"d2/d4b/classPlayer.html#a2f876e332a71e68aa8fd08863ad3623c":[6,0,2388,790]
+"d2/d4b/classPlayer.html#a2f780cf8d581075515965d1de74cf789":[6,0,2388,404]
 };

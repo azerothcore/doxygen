@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a8d3fef09af22aa21c8caff464c22fff4":[7,0,0,0,1,3,5,1,1,5,2,4],
+"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a94e91c225cd5c537c8683e0000f050d0":[7,0,0,0,1,3,5,1,1,5,2,18],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ac45a218d766deae2e0c0721c26038758":[7,0,0,0,1,3,5,1,1,5,2,2],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2acb940cb7a249b2537334b2469d742ed1":[7,0,0,0,1,3,5,1,1,5,2,3],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ad65bffa8c2e8ec9043068b1aff2af372":[7,0,0,0,1,3,5,1,1,5,2,11],
@@ -147,8 +149,8 @@ var NAVTREEINDEX290 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,30,5,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,30,5,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,30,5,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4051],
 "db/ddd/structSpellThreatEntry.html#a0d66e48d986f246e6aea08dd00837158":[6,0,4051,1],
 "db/ddd/structSpellThreatEntry.html#a35f5f8f7a3ac33768299913fecc1cf8d":[6,0,4051,0],
@@ -223,12 +225,12 @@ var NAVTREEINDEX290 =
 "db/dde/boss__shade__of__aran_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,2,4,9,12],
 "db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,9,5],
 "db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99aa80ba99dcffa62244d61ae4cdfeae4f89":[7,0,0,0,1,3,2,4,9,5,0],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[5,0,30,5,27],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[6,0,11,5,27],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[5,0,30,5,27,2],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[5,0,30,5,27],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[6,0,11,5,27,2],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,30,5,27,1],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[5,0,30,5,27,2],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[6,0,11,5,27,1],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,30,5,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[6,0,11,5,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[5,0,30,5,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[6,0,11,5,27,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/ddf/structnpc__ulduar__hodir__priest_1_1npc__ulduar__hodir__priestAI.html#af2b162485414ea0cdda3b19d15c2686f":[6,0,2218,0,8],
 "db/ddf/structnpc__ulduar__hodir__priest_1_1npc__ulduar__hodir__priestAI.html#af6afbd5b0560fc4665ecb0d00010ecbc":[6,0,2218,0,7],
 "db/ddf/structnpc__ulduar__hodir__priest_1_1npc__ulduar__hodir__priestAI.html#afdc842e08125223760d1eac105aef65b":[6,0,2218,0,9],
-"db/de1/structTempSummonData.html":[6,0,4094],
-"db/de1/structTempSummonData.html#a40927a435b557e4c1e5c5eedbb5d5e5b":[6,0,4094,3],
-"db/de1/structTempSummonData.html#a8a38eed04cdb2efb89e98f869e0d800d":[6,0,4094,2]
+"db/de1/structTempSummonData.html":[6,0,4094]
 };

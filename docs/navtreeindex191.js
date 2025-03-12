@@ -1,14 +1,16 @@
 var NAVTREEINDEX191 =
 {
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#aab87f0308fc4546718bcb5209f69764d":[6,0,737,0,12],
+"d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,37],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,30,2,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,30,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,30,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,30,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,30,2,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3596],
@@ -247,7 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42":[7,0,0,0,1,3,2,20,2],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277":[7,0,0,0,1,3,2,20,2,1],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb":[7,0,0,0,1,3,2,20,2,3],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44":[7,0,0,0,1,3,2,20,2,5],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733":[7,0,0,0,1,3,2,20,2,9],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f":[7,0,0,0,1,3,2,20,2,4]
+"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44":[7,0,0,0,1,3,2,20,2,5]
 };

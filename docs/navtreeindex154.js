@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc7/structSpellEntry.html#a382974971b96d44c7344da5d2bfaad63":[6,0,4022,71],
+"d5/dc7/structSpellEntry.html#a3e2f808bb03673d53085473d1a7013b7":[6,0,4022,12],
 "d5/dc7/structSpellEntry.html#a41f24a61783934032d45bc51b4ec670a":[6,0,4022,81],
 "d5/dc7/structSpellEntry.html#a43b825d0ab18a266e5ba77aa377f2abf":[6,0,4022,13],
 "d5/dc7/structSpellEntry.html#a49eb4616c736244efc402a95e9d81e80":[6,0,4022,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dce/outland__script__loader_8cpp.html#ada1a60765162a3d503bec2ceb23a6c87":[7,0,0,0,1,3,7,8,37],
 "d5/dce/outland__script__loader_8cpp.html#adad310e84d622e1ea0240e0958bf5826":[7,0,0,0,1,3,7,8,64],
 "d5/dce/outland__script__loader_8cpp.html#adb2eb2d091d5cc04f803066829d697bb":[7,0,0,0,1,3,7,8,7],
-"d5/dce/outland__script__loader_8cpp.html#adf1eddb3a193457f724d3a795b1686a0":[7,0,0,0,1,3,7,8,19],
-"d5/dce/outland__script__loader_8cpp.html#ae4050b59006e0148e61d9c82d76f5647":[7,0,0,0,1,3,7,8,72],
-"d5/dce/outland__script__loader_8cpp.html#ae450311c68322300a0e6fb8091cd8936":[7,0,0,0,1,3,7,8,74]
+"d5/dce/outland__script__loader_8cpp.html#adf1eddb3a193457f724d3a795b1686a0":[7,0,0,0,1,3,7,8,19]
 };

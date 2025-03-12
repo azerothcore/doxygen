@@ -1,5 +1,7 @@
 var NAVTREEINDEX141 =
 {
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc":[7,0,0,0,1,2,16,7,4,3,25],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6":[7,0,0,0,1,2,16,7,4,3,3],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deacb51a14db555ce9a87615b0aad13ea9c":[7,0,0,0,1,2,16,7,4,3,15],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deace4621701b17986236789bb2b7076e17":[7,0,0,0,1,2,16,7,4,3,29],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dead045598a678f05d5a6e48657a2ff5454":[7,0,0,0,1,2,16,7,4,3,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX141 =
 "d5/d26/classspell__ignis__grab__initial.html#a6128956f1037b62fff2e6f10ec22d956":[6,0,3136,1],
 "d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1":[6,0,3136,0],
 "d5/d26/classspell__ignis__grab__initial.html#ae445c98f5543df2f45b77b6cd54d58e7":[6,0,3136,2],
-"d5/d26/structnpc__obsidian__eradicator.html":[6,0,1981],
-"d5/d26/structnpc__obsidian__eradicator.html#a1697d83e89559f047d5bab652007bb61":[6,0,1981,3],
-"d5/d26/structnpc__obsidian__eradicator.html#a7c76c7d3a69e464c0dcb6a96226baa61":[6,0,1981,2]
+"d5/d26/structnpc__obsidian__eradicator.html":[6,0,1981]
 };

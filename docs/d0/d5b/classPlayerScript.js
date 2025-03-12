@@ -162,6 +162,7 @@ var classPlayerScript =
     [ "OnPlayerRewardKillRewarder", "d0/d5b/classPlayerScript.html#af395a893e54efeb4493f80c945be512e", null ],
     [ "OnPlayerSave", "d0/d5b/classPlayerScript.html#adf5e7994101d601bc3da89b7a7b65789", null ],
     [ "OnPlayerSendInitialPacketsBeforeAddToMap", "d0/d5b/classPlayerScript.html#adf7e18448a0b2bd7bf665f758ddd9dea", null ],
+    [ "OnPlayerSendListInventory", "d0/d5b/classPlayerScript.html#a61bcb10650fcf0be3625d5ba7a71eb1e", null ],
     [ "OnPlayerSetMaxLevel", "d0/d5b/classPlayerScript.html#aa8049d8f999c983d032c4a83f44d384d", null ],
     [ "OnPlayerSetServerSideVisibility", "d0/d5b/classPlayerScript.html#a426e85a617ff5bde90d46918e5fd5b4f", null ],
     [ "OnPlayerSetServerSideVisibilityDetect", "d0/d5b/classPlayerScript.html#afc51f607a2a09dfbebf941afb6d78848", null ],

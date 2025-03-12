@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dd/db3/classReputationMgr.html#a25df865d507f9048ea68a39b8f30ad95":[6,0,2481,4],
+"dd/db3/classReputationMgr.html#a280ebed9e395766fdc239e3c3472b221":[6,0,2481,49],
 "dd/db3/classReputationMgr.html#a2a28399275abe81081862944af7fef3a":[6,0,2481,30],
 "dd/db3/classReputationMgr.html#a2b1c09394ed5cde4fb877a7274037a6a":[6,0,2481,8],
 "dd/db3/classReputationMgr.html#a413cd64f75d2a3bf8fecd896d8ff8b59":[6,0,2481,33],
@@ -119,8 +121,8 @@ var NAVTREEINDEX329 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,624,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,624,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,624,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dc6/structWaveCreature.html":[6,0,4196],
 "dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[6,0,4196,0],
 "dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[6,0,4196,1],
-"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[6,0,2099,0],
-"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[6,0,2099,0,1],
-"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a3fbae63669c8382097b0bcb936301945":[6,0,2099,0,7]
+"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[6,0,2099,0]
 };

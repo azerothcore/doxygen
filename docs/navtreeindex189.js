@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#aaeb3e9b1bd25464cec4a1b0adf88afbe":[6,0,390,0,3],
+"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ab178ccb3ee8bfa2649f03bfc18f1e424":[6,0,390,0,5],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ab22f46e2514c10ce0e8141b3f69f069d":[6,0,390,0,1],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#abe2e7188e33e70d52ab1985f821fa9c5":[6,0,390,0,9],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ac188db2a727e2fb3c411f8616f8a2f41":[6,0,390,0,2],
@@ -124,8 +126,8 @@ var NAVTREEINDEX189 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1028,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,11,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,30,1,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,30,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,11,1,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,30,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,30,1,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,11,1,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,23],
@@ -194,14 +196,14 @@ var NAVTREEINDEX189 =
 "d7/d64/classachievement__respect__your__elders.html":[6,0,83],
 "d7/d64/classachievement__respect__your__elders.html#a2fd66ada0ff7482c00b2cb417a12e88e":[6,0,83,0],
 "d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[6,0,83,1],
-"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5],
 "d7/d64/structMMAP_1_1MMapData.html":[5,0,20,5],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[6,0,6,5,1],
+"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5],
 "d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[5,0,20,5,1],
+"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[6,0,6,5,1],
 "d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[6,0,6,5,3],
 "d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[5,0,20,5,3],
-"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[5,0,20,5,0],
 "d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[6,0,6,5,0],
+"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[5,0,20,5,0],
 "d7/d64/structMMAP_1_1MMapData.html#abb7a9f9131b3657eff54ed17fc329b43":[5,0,20,5,4],
 "d7/d64/structMMAP_1_1MMapData.html#abb7a9f9131b3657eff54ed17fc329b43":[6,0,6,5,4],
 "d7/d64/structMMAP_1_1MMapData.html#afa8799db33459dd5e36b7a43eae7d16b":[6,0,6,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d66/structboss__shade__of__aran.html#a03def93f3e3f33d4f760e9f7c7c85d86":[6,0,692,8],
 "d7/d66/structboss__shade__of__aran.html#a11a9b1a8a24b9bc9965d655a6f856ef0":[6,0,692,5],
 "d7/d66/structboss__shade__of__aran.html#a140ec9e0f968c42f9f003d9a52693884":[6,0,692,1],
-"d7/d66/structboss__shade__of__aran.html#a3ac487d431bc444cd8c39bb813260737":[6,0,692,7],
-"d7/d66/structboss__shade__of__aran.html#a4384769fb6eb868c612ed34cbb6b2409":[6,0,692,12],
-"d7/d66/structboss__shade__of__aran.html#a47e88dcf0027bd197350df7f80bc42d3":[6,0,692,14]
+"d7/d66/structboss__shade__of__aran.html#a3ac487d431bc444cd8c39bb813260737":[6,0,692,7]
 };

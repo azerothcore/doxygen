@@ -1,5 +1,7 @@
 var NAVTREEINDEX260 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a94af56a7ae4437fec24f8fe79b6cc54e":[7,0,0,0,1,3,7,13,43,1],
+"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0aff0e297296a4075024da992fd5b774c8":[7,0,0,0,1,3,7,13,43,2],
 "da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846":[7,0,0,0,1,3,7,13,39],
 "da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a08ffe87232f0c55b72bd5e43b9570800":[7,0,0,0,1,3,7,13,39,5],
 "da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a193b32ae3e767cdd2899238b38950ddf":[7,0,0,0,1,3,7,13,39,6],
@@ -236,18 +238,16 @@ var NAVTREEINDEX260 =
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,3,0,3,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,3,0,3,3],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,3,0,3,0],
-"da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
 "da/db5/structlfg_1_1LfgProposal.html":[6,0,5,10],
-"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[6,0,5,10,7],
+"da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
 "da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[5,0,18,10,7],
+"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[6,0,5,10,7],
 "da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[5,0,18,10,10],
 "da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[6,0,5,10,10],
 "da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[6,0,5,10,2],
 "da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[5,0,18,10,2],
 "da/db5/structlfg_1_1LfgProposal.html#a580dfb67b8040a6267cbd20938cb8667":[6,0,5,10,5],
 "da/db5/structlfg_1_1LfgProposal.html#a580dfb67b8040a6267cbd20938cb8667":[5,0,18,10,5],
-"da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[5,0,18,10,3],
 "da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[6,0,5,10,3],
-"da/db5/structlfg_1_1LfgProposal.html#a7d0a8fabf7aaa632df03f8838fd2a3b4":[5,0,18,10,9],
-"da/db5/structlfg_1_1LfgProposal.html#a7d0a8fabf7aaa632df03f8838fd2a3b4":[6,0,5,10,9]
+"da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[5,0,18,10,3]
 };

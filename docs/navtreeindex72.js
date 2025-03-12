@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d2/da8/classZRangeBoundary.html#af1410b3eeb9e7096b1cc53caa7edd68f":[6,0,4260,1],
+"d2/da8/classboss__gal__darah.html":[6,0,484],
 "d2/da8/classboss__gal__darah.html#a687bb98f9de9cd838c57511dc6b3d086":[6,0,484,1],
 "d2/da8/classboss__gal__darah.html#a8f709568f5a06265056571061ff3a26b":[6,0,484,2],
 "d2/dab/classFrostwingVrykulSearcher.html":[6,0,1062],
@@ -39,8 +41,8 @@ var NAVTREEINDEX72 =
 "d2/daf/classspell__gen__mod__radius__by__caster__scale.html#ae6556b58f0a4e6d3762bc3dc4c1643b3":[6,0,2947,1],
 "d2/daf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string__view_00_01void_01_4.html":[6,0,0,5,0,11],
 "d2/daf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string__view_00_01void_01_4.html":[5,0,1,8,0,11],
-"d2/daf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string__view_00_01void_01_4.html#a2b70efed48ab12a8924e4a815c7dbee6":[5,0,1,8,0,11,0],
 "d2/daf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string__view_00_01void_01_4.html#a2b70efed48ab12a8924e4a815c7dbee6":[6,0,0,5,0,11,0],
+"d2/daf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string__view_00_01void_01_4.html#a2b70efed48ab12a8924e4a815c7dbee6":[5,0,1,8,0,11,0],
 "d2/db0/structPvPInfo.html":[6,0,2437],
 "d2/db0/structPvPInfo.html#a22a1c8f0e8c51f4a27cb8ab362028d61":[6,0,2437,3],
 "d2/db0/structPvPInfo.html#a6858b8db9a441bf950f7d9fdca1587b5":[6,0,2437,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa22db1467f89cd73625eb1236cb8f22d":[7,0,0,0,1,3,5,10,0,0,9,3],
 "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aab9311675e9a9798e30e353dd07801fb":[7,0,0,0,1,3,5,10,0,0,9,15],
 "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ab90b354899bdb0d290882909b02f993b":[7,0,0,0,1,3,5,10,0,0,9,12],
-"d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aea47768bd5ebe7fd7c33b26dc735e83a":[7,0,0,0,1,3,5,10,0,0,9,14],
-"d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af41b4860eab8a9bf3f353b17a9dcb83a":[7,0,0,0,1,3,5,10,0,0,9,13],
-"d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ae765020272823251654ec47ea2876c2d":[7,0,0,0,1,3,5,10,0,0,11]
+"d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aea47768bd5ebe7fd7c33b26dc735e83a":[7,0,0,0,1,3,5,10,0,0,9,14]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX286 =
 {
+"db/db9/classspell__kaelthas__remote__toy.html#a2b809a60626119f6bcf595bd3581c2be":[6,0,3295,1],
+"db/db9/classspell__kaelthas__remote__toy.html#aec3f36e2c5fedddd84478b9e3a59e6f4":[6,0,3295,0],
 "db/dba/structboss__thorim__sif__blizzard_1_1boss__thorim__sif__blizzardAI.html":[6,0,739,0],
 "db/dba/structboss__thorim__sif__blizzard_1_1boss__thorim__sif__blizzardAI.html#a193ba575c4f3f16d850e56f12f190c77":[6,0,739,0,5],
 "db/dba/structboss__thorim__sif__blizzard_1_1boss__thorim__sif__blizzardAI.html#a1e0a384081750bdf38cc8e0065070ec8":[6,0,739,0,2],
@@ -109,13 +111,13 @@ var NAVTREEINDEX286 =
 "db/dc6/classMPQArchive.html#a2026335b9ede29197acfaac8513456d5":[6,0,1526,8],
 "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1526,2],
 "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1526,0],
-"db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1526,1],
 "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1526,3],
+"db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1526,1],
 "db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a":[6,0,1526,9],
-"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1526,6],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1526,7],
-"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1526,4],
+"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1526,6],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1526,5],
+"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1526,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3420],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3420,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3420,1],
@@ -245,9 +247,7 @@ var NAVTREEINDEX286 =
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
-"db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3619],
-"db/dcc/classspell__q12634__despawn__fruit__tosser.html#a125f7550ce826f74ac14902bc82d5021":[6,0,3619,1],
-"db/dcc/classspell__q12634__despawn__fruit__tosser.html#a35e9132e2414383caafbde699de6061d":[6,0,3619,2]
+"db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
+"db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3619]
 };

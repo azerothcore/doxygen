@@ -1,5 +1,7 @@
 var NAVTREEINDEX256 =
 {
+"da/d7e/classMapGrid.html#a2a52c01e848d76687e321da2ad5ad540":[6,0,1480,12],
+"da/d7e/classMapGrid.html#a2be024de8ecf1f6482e8f5f6002ddb33":[6,0,1480,24],
 "da/d7e/classMapGrid.html#a2d28459da60ba0133892d0ef7639c969":[6,0,1480,16],
 "da/d7e/classMapGrid.html#a315e5ebf9f272fde3854ab9a5f92bd5e":[6,0,1480,17],
 "da/d7e/classMapGrid.html#a513ac4155c169eb2671d9974ef1e290a":[6,0,1480,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX256 =
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a2e73fd55dd7e6e658bc6c6623b650732":[6,0,3558,0],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a9aabae3a6c57be9b17394d4a39fe24ec":[6,0,3558,1],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#ac02217c103db141d75377e233e1e4242":[6,0,3558,2],
-"da/d85/boss__kurinnaxx_8cpp.html":[7,0,0,0,1,3,4,8,2],
-"da/d85/boss__kurinnaxx_8cpp.html#a419fef4715b099ba7b3b6713938f47c0":[7,0,0,0,1,3,4,8,2,4],
-"da/d85/boss__kurinnaxx_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,8,2,2]
+"da/d85/boss__kurinnaxx_8cpp.html":[7,0,0,0,1,3,4,8,2]
 };

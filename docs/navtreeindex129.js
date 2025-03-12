@@ -1,5 +1,7 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ff":[7,0,0,0,1,3,5,2,1,1,62],
+"d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa1df5528670cb103391cd23efcd3e95ba":[7,0,0,0,1,3,5,2,1,1,62,2],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa49b64ec43e205ab38891e35d2785209e":[7,0,0,0,1,3,5,2,1,1,62,4],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa94a07599c92029e9d06849ec6ad45d0b":[7,0,0,0,1,3,5,2,1,1,62,8],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,2,1,1,62,6],
@@ -231,10 +233,10 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2966,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,848],
@@ -247,7 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8b/classCharacterCache.html#a2a5a7283818f46ed2ae6fff133f632ca":[6,0,848,3],
 "d4/d8b/classCharacterCache.html#a32f75f25d684f979275dc6cf9d0760c2":[6,0,848,22],
 "d4/d8b/classCharacterCache.html#a345884534d93291e97a9338427ab8277":[6,0,848,4],
-"d4/d8b/classCharacterCache.html#a35c040ce87b2cfd92cd05de0452354d0":[6,0,848,17],
-"d4/d8b/classCharacterCache.html#a44f03f22b247d76f83294260e5df1976":[6,0,848,10],
-"d4/d8b/classCharacterCache.html#a4d7b41878ea4085e99b1445f27c0cdf3":[6,0,848,19]
+"d4/d8b/classCharacterCache.html#a35c040ce87b2cfd92cd05de0452354d0":[6,0,848,17]
 };

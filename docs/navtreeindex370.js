@@ -1,5 +1,8 @@
 var NAVTREEINDEX370 =
 {
+"de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1696,4],
+"de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[6,0,1696,0],
+"de/dea/structnpc__corrupted__totem.html#a953cf5af625b9b5a4ab6704d5b1b664c":[6,0,1696,6],
 "de/dea/structnpc__corrupted__totem.html#aa3c6b1a3df61c9e98c62efadff637578":[6,0,1696,2],
 "de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[6,0,1696,5],
 "de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[6,0,1696,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX370 =
 "de/df5/structAreaTableEntry.html#a3b4f9e187629db5ced9a06c601fc7f78":[6,0,162,10],
 "de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25":[6,0,162,5],
 "de/df5/structAreaTableEntry.html#a78cf3009cd0fe49dc7870c7f65c79251":[6,0,162,4],
-"de/df5/structAreaTableEntry.html#a87653e6b7f7368a59af7adaf77a49e10":[6,0,162,3],
-"de/df5/structAreaTableEntry.html#abe743a4b542c4356aab9d41f3fae7457":[6,0,162,7],
-"de/df5/structAreaTableEntry.html#ad02bb9fce21f464e38223581074a9e21":[6,0,162,6],
-"de/df5/structAreaTableEntry.html#ad239b4e381b6af858a181e9c361d6cbb":[6,0,162,1]
+"de/df5/structAreaTableEntry.html#a87653e6b7f7368a59af7adaf77a49e10":[6,0,162,3]
 };

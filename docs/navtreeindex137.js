@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1874,0,4],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1874,0,7],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1874,0,0],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1874,0,6],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68":[6,0,1874,0,5],
@@ -214,10 +216,10 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1041,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1041,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1041,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,30,15],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,30,15,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1885,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1885,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1885,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a52db5743c09088e2e9f1aff1513960f2":[6,0,514,0,6],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a6ca87d663714ddecfe562f0c705fa6f8":[6,0,514,0,3],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a8a70e82f6c72760143148d9c9f8095cc":[6,0,514,0,2],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf":[6,0,514,0,1],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae023eb68fc066ba5713baaf3b0595f0c":[6,0,514,0,5],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[6,0,514,0,0]
+"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf":[6,0,514,0,1]
 };

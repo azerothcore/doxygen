@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/dcc/classspell__q12634__despawn__fruit__tosser.html#a125f7550ce826f74ac14902bc82d5021":[6,0,3619,1],
+"db/dcc/classspell__q12634__despawn__fruit__tosser.html#a35e9132e2414383caafbde699de6061d":[6,0,3619,2],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html#a530489a10287a6dd281d518683b1a3f3":[6,0,3619,3],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html#ad2367c1fd551187b6f19f795abb15ea6":[6,0,3619,0],
 "db/dce/classAura.html":[6,0,277],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a4e992fe0f8f5ecfc6476edb1e36a7ef2":[7,0,0,0,1,3,5,6,12,85,4],
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a512460e57383a38b656e3a291a4209f5":[7,0,0,0,1,3,5,6,12,85,27],
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a53368c30b3fa0936118557e0f8c61094":[7,0,0,0,1,3,5,6,12,85,42],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a57d58744e249758dd29076e406dd346b":[7,0,0,0,1,3,5,6,12,85,19],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a5984aecc11ae6c2ab4eba20c6e97d949":[7,0,0,0,1,3,5,6,12,85,18],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a5b4ffe1eb6ed05b57d662d0bbc51cbea":[7,0,0,0,1,3,5,6,12,85,49]
+"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a57d58744e249758dd29076e406dd346b":[7,0,0,0,1,3,5,6,12,85,19]
 };

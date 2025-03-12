@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7e/structRealm.html#a64533e919d8c3a37bd5668af77d09166":[6,0,2467,2],
 "d0/d7e/structRealm.html#a703504aaf54f1ecf934b9184e9737367":[6,0,2467,3],
 "d0/d7e/structRealm.html#a9381717fdc924158ecd61a8f00488fc0":[6,0,2467,8],
 "d0/d7e/structRealm.html#ab0ccda7e7a58eee0965261767f3ee2ee":[6,0,2467,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[6,0,3439,2],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a51064b3a11f453724ae0879c80eaf8df":[6,0,3439,0],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a7110d4136337d44aa0300ec82e5a6511":[6,0,3439,3],
-"d0/d84/classspell__novos__despawn__crystal__handler.html#aac26002ff107e609fb7258306b430f1b":[6,0,3439,1],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html":[6,0,2120,0]
+"d0/d84/classspell__novos__despawn__crystal__handler.html#aac26002ff107e609fb7258306b430f1b":[6,0,3439,1]
 };

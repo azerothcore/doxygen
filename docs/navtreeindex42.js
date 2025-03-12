@@ -1,5 +1,6 @@
 var NAVTREEINDEX42 =
 {
+"d1/dbd/bosses__opera_8cpp.html#a9931154ef167189090827144138a3a7c":[7,0,0,0,1,3,2,4,11,20],
 "d1/dbd/bosses__opera_8cpp.html#aa8cebd270abd10c02dc688cd9f531214":[7,0,0,0,1,3,2,4,11,24],
 "d1/dbd/bosses__opera_8cpp.html#ab4a683c880d9ff7f892a9c9cb56ace4e":[7,0,0,0,1,3,2,4,11,21],
 "d1/dbd/bosses__opera_8cpp.html#abbf3ab9ae43f2f4ddbfdbfcba5df73d8":[7,0,0,0,1,3,2,4,11,22],
@@ -33,18 +34,18 @@ var NAVTREEINDEX42 =
 "d1/dc0/classspell__q12620__the__lifewarden__wrath.html#af698a946e07235c18c8b785a1f775ec9":[6,0,3618,1],
 "d1/dc0/classspell__q12620__the__lifewarden__wrath.html#afd34935d8ab7d66589ca3c99ba0bfe48":[6,0,3618,0],
 "d1/dc1/DatabaseLoader_8cpp.html":[7,0,0,0,1,1,0,6],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[6,0,0,79],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,1,91],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,79,3],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[6,0,0,79],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,91,3],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,79,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[6,0,0,79,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,1,91,1],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[6,0,0,79,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,1,91,2],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[6,0,0,79,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[6,0,0,79,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[5,0,1,91,0],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[5,0,1,91,4],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[6,0,0,79,4],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[5,0,1,91,4],
 "d1/dc1/classnpc__anachronos__the__ancient.html":[6,0,1582],
 "d1/dc1/classnpc__anachronos__the__ancient.html#a345c801231907d98f2ab2425b1d35cbc":[6,0,1582,2],
 "d1/dc1/classnpc__anachronos__the__ancient.html#a720884359886e6f881190471005f4cfc":[6,0,1582,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX42 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca6471dacd672b5646fad8e1493574c243":[7,0,0,0,1,2,3,2,5,18,82],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca6587d27e5f23c953d2f77d0c75c366aa":[7,0,0,0,1,2,3,2,5,18,24],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca67bbbff4359bfe57ec4f5afcbc8f4b6d":[7,0,0,0,1,2,3,2,5,18,6],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca67f274c14332d4e08d6ff298a8f432d6":[7,0,0,0,1,2,3,2,5,18,92],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca6977f8c0d7f5bf4179176b18f07043c9":[7,0,0,0,1,2,3,2,5,18,109]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca67f274c14332d4e08d6ff298a8f432d6":[7,0,0,0,1,2,3,2,5,18,92]
 };

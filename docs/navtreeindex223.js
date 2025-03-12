@@ -1,5 +1,7 @@
 var NAVTREEINDEX223 =
 {
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64":[6,0,1316,0,0],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a1e99600992673d165382d99236e0c59f":[6,0,1316,0,3],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a20761aa41e0f70836c4525f17faf064f":[6,0,1316,0,1],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a2a28e42ec49fce2ef47288c1ad4b6e61":[6,0,1316,0,4],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a5d109b5acfa2e21e3c50e35dcdf119dd":[6,0,1316,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a0b39861952afe6495d6d3a53c2c96ffe":[7,0,0,0,1,3,5,24,27],
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,24,24],
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f6464e2d3e2f02315585fa60240dab":[7,0,0,0,1,3,5,24,24,3],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca12db893b9c1e40ca601b4ceb827be911":[7,0,0,0,1,3,5,24,24,5],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca25f0939a58153efb89660eb738f72373":[7,0,0,0,1,3,5,24,24,4],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca572766e19d930d61b3443282f2ec1ae7":[7,0,0,0,1,3,5,24,24,6]
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca12db893b9c1e40ca601b4ceb827be911":[7,0,0,0,1,3,5,24,24,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4215,0],
 "d0/dbc/boss__kormok_8cpp.html":[7,0,0,0,1,3,2,8,2],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,8,2,4],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1a851e17b984a969719e51b8a39136c6f0":[7,0,0,0,1,3,2,8,2,4,3],
@@ -26,12 +27,12 @@ var NAVTREEINDEX18 =
 "d0/dbc/boss__kormok_8cpp.html#af7d03eb78c1077802718200368e8028e":[7,0,0,0,1,3,2,8,2,7],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[5,0,1,2,2],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[6,0,0,1,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[5,0,1,2,2,2],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[6,0,0,1,2,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[5,0,1,2,2,0],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[5,0,1,2,2,2],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[6,0,0,1,2,0],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[5,0,1,2,2,0],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[5,0,1,2,2,1],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[5,0,1,2,2,3],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[6,0,0,1,2,3],
 "d0/dbd/structCharacterFactionChangeInfo.html":[4,1,17],
@@ -45,8 +46,8 @@ var NAVTREEINDEX18 =
 "d0/dbe/classAcore_1_1RandomCheck.html#a9886987fa2b675ab404102ebe828c9f3":[6,0,0,101,1],
 "d0/dbe/classAcore_1_1RandomCheck.html#aad026a0ad4539dd5336c3a6b820e351d":[5,0,1,113,2],
 "d0/dbe/classAcore_1_1RandomCheck.html#aad026a0ad4539dd5336c3a6b820e351d":[6,0,0,101,2],
-"d0/dbe/classAcore_1_1RandomCheck.html#aca7a234c6eef8876abb02af723e9485d":[6,0,0,101,0],
 "d0/dbe/classAcore_1_1RandomCheck.html#aca7a234c6eef8876abb02af723e9485d":[5,0,1,113,0],
+"d0/dbe/classAcore_1_1RandomCheck.html#aca7a234c6eef8876abb02af723e9485d":[6,0,0,101,0],
 "d0/dc1/Containers_8h.html":[7,0,0,0,0,15,4],
 "d0/dc1/Containers_8h.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86":[7,0,0,0,0,15,4,10],
 "d0/dc1/Containers_8h.html#a220cb6c43559036273f478f15d047eb9":[7,0,0,0,0,15,4,12],
@@ -83,10 +84,10 @@ var NAVTREEINDEX18 =
 "d0/dc2/Timer_8cpp.html#ac9bde42940b2570f3865385200b56af8":[7,0,0,0,0,15,32,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[5,0,30,7,11],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[6,0,11,7,11],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[6,0,11,7,11,0],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,7,11,1],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[6,0,11,7,11,2],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[5,0,30,7,11,2],
 "d0/dc2/classgo__hive__pod.html":[6,0,1144],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dcf/classEnumUtils_1_1Iterator.html#a986873876a57897cdd23595e0b82aebc":[6,0,1015,0,22],
 "d0/dcf/classEnumUtils_1_1Iterator.html#a988e170d51564d1092aa6da6752e45d7":[6,0,1015,0,1],
 "d0/dcf/classEnumUtils_1_1Iterator.html#a994f84c3ab6170344a7a835bc32cdd55":[6,0,1015,0,17],
-"d0/dcf/classEnumUtils_1_1Iterator.html#a99ebc9aca08c4664a8d64165f0c093d9":[6,0,1015,0,13],
-"d0/dcf/classEnumUtils_1_1Iterator.html#aaf3ff151367f05252d3adad90cf46a06":[6,0,1015,0,9]
+"d0/dcf/classEnumUtils_1_1Iterator.html#a99ebc9aca08c4664a8d64165f0c093d9":[6,0,1015,0,13]
 };

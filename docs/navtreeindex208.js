@@ -1,5 +1,7 @@
 var NAVTREEINDEX208 =
 {
+"d8/d0d/classboss__general__zarithrian.html#a030c53b6ef1d75027ddfd298d49ab330":[6,0,494,1],
+"d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[6,0,494,2],
 "d8/d0d/classboss__yoggsaron__sara.html":[6,0,800],
 "d8/d0d/classboss__yoggsaron__sara.html#aaf5bd5440122f6c97315b0e3b9d47586":[6,0,800,1],
 "d8/d0d/classboss__yoggsaron__sara.html#abc83e0f3a7d12a84ea283e5b2a69826d":[6,0,800,2],
@@ -7,10 +9,10 @@ var NAVTREEINDEX208 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,27,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,27,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,27,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,27,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,27,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,27,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1920,0],
@@ -113,8 +115,8 @@ var NAVTREEINDEX208 =
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[6,0,847,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,11,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,30,17],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,30,17,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,11,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,30,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,11,17,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX208 =
 "d8/d18/classinstance__shadowfang__keep.html#aa6817df7270fbf9397c6b66b28d0f6f8":[6,0,1328,1],
 "d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html":[6,0,3541],
 "d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a5b9f23b815b1c85ecf2e56c626ce5077":[6,0,3541,0],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a9207d9f59026e1beb7c266ee3a1ef884":[6,0,3541,1],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc":[6,0,3541,2],
-"d8/d18/classspell__warl__glyph__of__voidwalker.html":[6,0,3923]
+"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a9207d9f59026e1beb7c266ee3a1ef884":[6,0,3541,1]
 };

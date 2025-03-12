@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d4/dd0/classWorldObject.html#a257d2143e8684b101e6198e21199e7b6":[6,0,4240,62],
+"d4/dd0/classWorldObject.html#a266350f5eebd01138f89f659d1eb7505":[6,0,4240,105],
 "d4/dd0/classWorldObject.html#a2679ef750921cbf1ea29ea9abc742a2a":[6,0,4240,172],
 "d4/dd0/classWorldObject.html#a27c957e578d0395d62148fe5e7bee988":[6,0,4240,188],
 "d4/dd0/classWorldObject.html#a2873004479c4aed33cd57044a47aea59":[6,0,4240,114],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1874,0],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1874,0,2],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1874,0,3],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1874,0,1],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1874,0,4],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1874,0,7]
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1874,0,1]
 };
