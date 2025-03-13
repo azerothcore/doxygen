@@ -6,7 +6,6 @@ var structnpc__forest__frog =
     [ "MovementInform", "dd/d00/structnpc__forest__frog.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
     [ "SpellHit", "dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32", null ],
     [ "UpdateAI", "dd/d00/structnpc__forest__frog.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "events", "dd/d00/structnpc__forest__frog.html#a8ef7e1eb3d7196c070cc3b6618291dc0", null ],
     [ "eventTimer", "dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
     [ "instance", "dd/d00/structnpc__forest__frog.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
     [ "PlayerGUID", "dd/d00/structnpc__forest__frog.html#a3544a83bb22e12d247e562ef32e378c0", null ]

@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  243</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_zulaman_hostage&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  250</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_zulaman_hostage&quot;</span>) { }</div>
 <div class="ttc" id="aclassCreatureScript_html"><div class="ttname"><a href="../../df/dc9/classCreatureScript.html">CreatureScript</a></div><div class="ttdef"><b>Definition</b> CreatureScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -239,9 +239,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  271</span>    {</div>
-<div class="line"><span class="lineno">  272</span>        <span class="keywordflow">return</span> GetZulAmanAI&lt;npc_zulaman_hostageAI&gt;(creature);</div>
-<div class="line"><span class="lineno">  273</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  278</span>    {</div>
+<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> GetZulAmanAI&lt;npc_zulaman_hostageAI&gt;(creature);</div>
+<div class="line"><span class="lineno">  280</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -280,11 +280,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  276</span>    {</div>
-<div class="line"><span class="lineno">  277</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, <a class="code hl_enumvalue" href="../../d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea1a460e97e269ca0a62d06279484d4428">GOSSIP_ICON_CHAT</a>, <a class="code hl_define" href="../../da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388">GOSSIP_HOSTAGE1</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1);</div>
-<div class="line"><span class="lineno">  278</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a>(player, player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ae22a64659346d2a5017d4b47e796146c">GetGossipTextId</a>(creature), creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  280</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  283</span>    {</div>
+<div class="line"><span class="lineno">  284</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, <a class="code hl_enumvalue" href="../../d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea1a460e97e269ca0a62d06279484d4428">GOSSIP_ICON_CHAT</a>, <a class="code hl_define" href="../../da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388">GOSSIP_HOSTAGE1</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1);</div>
+<div class="line"><span class="lineno">  285</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a>(player, player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ae22a64659346d2a5017d4b47e796146c">GetGossipTextId</a>(creature), creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  287</span>    }</div>
 <div class="ttc" id="aGossipDef_8h_html_a31ddf0cc0674d4ee32d9c78aa90b097ea1a460e97e269ca0a62d06279484d4428"><div class="ttname"><a href="../../d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea1a460e97e269ca0a62d06279484d4428">GOSSIP_ICON_CHAT</a></div><div class="ttdeci">@ GOSSIP_ICON_CHAT</div><div class="ttdef"><b>Definition</b> GossipDef.h:61</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_a18599cfc6649557de0d505ed4d4a0210"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a></div><div class="ttdeci">void SendGossipMenuFor(Player *player, uint32 npcTextID, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:45</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a></div><div class="ttdeci">void AddGossipItemFor(Player *player, uint32 icon, std::string const &amp;text, uint32 sender, uint32 action)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:28</div></div>
@@ -292,9 +292,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aScriptedGossip_8h_html_ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8"><div class="ttname"><a href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a></div><div class="ttdeci">@ GOSSIP_ACTION_INFO_DEF</div><div class="ttdef"><b>Definition</b> ScriptedGossip.h:68</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:112</div></div>
 <div class="ttc" id="aclassPlayer_html_ae22a64659346d2a5017d4b47e796146c"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ae22a64659346d2a5017d4b47e796146c">Player::GetGossipTextId</a></div><div class="ttdeci">uint32 GetGossipTextId(uint32 menuId, WorldObject *source)</div><div class="ttdef"><b>Definition</b> PlayerGossip.cpp:404</div></div>
-<div class="ttc" id="azulaman_8cpp_html_a7e5907213ed023454f786158e3b1f388"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388">GOSSIP_HOSTAGE1</a></div><div class="ttdeci">#define GOSSIP_HOSTAGE1</div><div class="ttdef"><b>Definition</b> zulaman.cpp:235</div></div>
+<div class="ttc" id="azulaman_8cpp_html_a7e5907213ed023454f786158e3b1f388"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388">GOSSIP_HOSTAGE1</a></div><div class="ttdeci">#define GOSSIP_HOSTAGE1</div><div class="ttdef"><b>Definition</b> zulaman.cpp:242</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00028">AddGossipItemFor()</a>, <a class="el" href="../../#l00404">Player::GetGossipTextId()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00068">GOSSIP_ACTION_INFO_DEF</a>, <a class="el" href="../../#l00235">GOSSIP_HOSTAGE1</a>, <a class="el" href="../../#l00061">GOSSIP_ICON_CHAT</a>, <a class="el" href="../../#l00070">GOSSIP_SENDER_MAIN</a>, and <a class="el" href="../../#l00045">SendGossipMenuFor()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00028">AddGossipItemFor()</a>, <a class="el" href="../../#l00404">Player::GetGossipTextId()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00068">GOSSIP_ACTION_INFO_DEF</a>, <a class="el" href="../../#l00242">GOSSIP_HOSTAGE1</a>, <a class="el" href="../../#l00061">GOSSIP_ICON_CHAT</a>, <a class="el" href="../../#l00070">GOSSIP_SENDER_MAIN</a>, and <a class="el" href="../../#l00045">SendGossipMenuFor()</a>.</p>
 
 </div>
 </div>
@@ -345,34 +345,34 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  283</span>    {</div>
-<div class="line"><span class="lineno">  284</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a>(player);</div>
-<div class="line"><span class="lineno">  285</span> </div>
-<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1)</div>
-<div class="line"><span class="lineno">  287</span>            <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a>(player);</div>
-<div class="line"><span class="lineno">  288</span> </div>
-<div class="line"><span class="lineno">  289</span>        <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa259415c642bf3a9c625bee6ae0a62e9">HasNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>))</div>
-<div class="line"><span class="lineno">  290</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  291</span> </div>
-<div class="line"><span class="lineno">  292</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>);</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>        creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7">DATA_CHEST_LOOTED</a>, 0);</div>
+<div class="fragment"><div class="line"><span class="lineno">  290</span>    {</div>
+<div class="line"><span class="lineno">  291</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a>(player);</div>
+<div class="line"><span class="lineno">  292</span> </div>
+<div class="line"><span class="lineno">  293</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1)</div>
+<div class="line"><span class="lineno">  294</span>            <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a>(player);</div>
 <div class="line"><span class="lineno">  295</span> </div>
-<div class="line"><span class="lineno">  296</span>        <span class="keywordtype">float</span> x, y, z;</div>
-<div class="line"><span class="lineno">  297</span>        creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
-<div class="line"><span class="lineno">  298</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
-<div class="line"><span class="lineno">  299</span>        {</div>
-<div class="line"><span class="lineno">  300</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/dea/zulaman_8cpp.html#aa970a6566d7b3e62eeb8be3f5d647b33">HostageEntry</a>[i] == creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno">  301</span>            {</div>
-<div class="line"><span class="lineno">  302</span>                <a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* obj = creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c">SummonGameObject</a>(<a class="code hl_variable" href="../../da/dea/zulaman_8cpp.html#aedf2afdf0b3812acadf8a94a8cda5c85">ChestEntry</a>[i], x - 2, y, z, 0, 0, 0, 0, 0, 0);</div>
-<div class="line"><span class="lineno">  303</span>                <span class="keywordflow">if</span> (obj)</div>
-<div class="line"><span class="lineno">  304</span>                    obj-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a7e764fbd4b7eca84f80e36e900bca7d3">RemoveFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66">GAMEOBJECT_FLAGS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a>);</div>
-<div class="line"><span class="lineno">  305</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  306</span>            }</div>
-<div class="line"><span class="lineno">  307</span>        }</div>
-<div class="line"><span class="lineno">  308</span> </div>
-<div class="line"><span class="lineno">  309</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  310</span>    }</div>
+<div class="line"><span class="lineno">  296</span>        <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa259415c642bf3a9c625bee6ae0a62e9">HasNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>))</div>
+<div class="line"><span class="lineno">  297</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  298</span> </div>
+<div class="line"><span class="lineno">  299</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>);</div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>        creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7">DATA_CHEST_LOOTED</a>, 0);</div>
+<div class="line"><span class="lineno">  302</span> </div>
+<div class="line"><span class="lineno">  303</span>        <span class="keywordtype">float</span> x, y, z;</div>
+<div class="line"><span class="lineno">  304</span>        creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  305</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
+<div class="line"><span class="lineno">  306</span>        {</div>
+<div class="line"><span class="lineno">  307</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/dea/zulaman_8cpp.html#aa970a6566d7b3e62eeb8be3f5d647b33">HostageEntry</a>[i] == creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno">  308</span>            {</div>
+<div class="line"><span class="lineno">  309</span>                <a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* obj = creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c">SummonGameObject</a>(<a class="code hl_variable" href="../../da/dea/zulaman_8cpp.html#aedf2afdf0b3812acadf8a94a8cda5c85">ChestEntry</a>[i], x - 2, y, z, 0, 0, 0, 0, 0, 0);</div>
+<div class="line"><span class="lineno">  310</span>                <span class="keywordflow">if</span> (obj)</div>
+<div class="line"><span class="lineno">  311</span>                    obj-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a7e764fbd4b7eca84f80e36e900bca7d3">RemoveFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66">GAMEOBJECT_FLAGS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a>);</div>
+<div class="line"><span class="lineno">  312</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  313</span>            }</div>
+<div class="line"><span class="lineno">  314</span>        }</div>
+<div class="line"><span class="lineno">  315</span> </div>
+<div class="line"><span class="lineno">  316</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  317</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af077a82741577a63a075c7d40b3b3dc5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a></div><div class="ttdeci">void ClearGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:22</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af8f7e54dac5ecc86e92d780c3918cb09"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a></div><div class="ttdeci">void CloseGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:56</div></div>
@@ -388,11 +388,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_ae5570989260234d213323c44ab5fb44c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c">WorldObject::SummonGameObject</a></div><div class="ttdeci">GameObject * SummonGameObject(uint32 entry, float x, float y, float z, float ang, float rotation0, float rotation1, float rotation2, float rotation3, uint32 respawnTime, bool checkTransport=true, GOSummonType summonType=GO_SUMMON_TIMED_OR_CORPSE_DESPAWN)</div><div class="ttdef"><b>Definition</b> Object.cpp:2382</div></div>
 <div class="ttc" id="aclassZoneScript_html_a949e67ea24c7e4b70a20806952735576"><div class="ttname"><a href="../../dc/d7d/classZoneScript.html#a949e67ea24c7e4b70a20806952735576">ZoneScript::SetData</a></div><div class="ttdeci">virtual void SetData(uint32, uint32)</div><div class="ttdef"><b>Definition</b> ZoneScript.h:52</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
-<div class="ttc" id="azulaman_8cpp_html_aa970a6566d7b3e62eeb8be3f5d647b33"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#aa970a6566d7b3e62eeb8be3f5d647b33">HostageEntry</a></div><div class="ttdeci">static uint32 HostageEntry[]</div><div class="ttdef"><b>Definition</b> zulaman.cpp:237</div></div>
-<div class="ttc" id="azulaman_8cpp_html_aedf2afdf0b3812acadf8a94a8cda5c85"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#aedf2afdf0b3812acadf8a94a8cda5c85">ChestEntry</a></div><div class="ttdeci">static uint32 ChestEntry[]</div><div class="ttdef"><b>Definition</b> zulaman.cpp:238</div></div>
+<div class="ttc" id="azulaman_8cpp_html_aa970a6566d7b3e62eeb8be3f5d647b33"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#aa970a6566d7b3e62eeb8be3f5d647b33">HostageEntry</a></div><div class="ttdeci">static uint32 HostageEntry[]</div><div class="ttdef"><b>Definition</b> zulaman.cpp:244</div></div>
+<div class="ttc" id="azulaman_8cpp_html_aedf2afdf0b3812acadf8a94a8cda5c85"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#aedf2afdf0b3812acadf8a94a8cda5c85">ChestEntry</a></div><div class="ttdeci">static uint32 ChestEntry[]</div><div class="ttdef"><b>Definition</b> zulaman.cpp:245</div></div>
 <div class="ttc" id="azulaman_8h_html_afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7"><div class="ttname"><a href="../../d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7">DATA_CHEST_LOOTED</a></div><div class="ttdeci">@ DATA_CHEST_LOOTED</div><div class="ttdef"><b>Definition</b> zulaman.h:45</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00238">ChestEntry</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00056">CloseGossipMenuFor()</a>, <a class="el" href="../../#l00045">DATA_CHEST_LOOTED</a>, <a class="el" href="../../#l00399">GAMEOBJECT_FLAGS</a>, <a class="el" href="../../#l00115">Object::GetEntry()</a>, <a class="el" href="../../#l01203">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l01604">GO_FLAG_LOCKED</a>, <a class="el" href="../../#l00068">GOSSIP_ACTION_INFO_DEF</a>, <a class="el" href="../../#l00734">Unit::HasNpcFlag()</a>, <a class="el" href="../../#l00237">HostageEntry</a>, <a class="el" href="../../#l00860">Object::RemoveFlag()</a>, <a class="el" href="../../#l00736">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l02382">WorldObject::SummonGameObject()</a>, and <a class="el" href="../../#l00315">UNIT_NPC_FLAG_GOSSIP</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00245">ChestEntry</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00056">CloseGossipMenuFor()</a>, <a class="el" href="../../#l00045">DATA_CHEST_LOOTED</a>, <a class="el" href="../../#l00399">GAMEOBJECT_FLAGS</a>, <a class="el" href="../../#l00115">Object::GetEntry()</a>, <a class="el" href="../../#l01203">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l01604">GO_FLAG_LOCKED</a>, <a class="el" href="../../#l00068">GOSSIP_ACTION_INFO_DEF</a>, <a class="el" href="../../#l00734">Unit::HasNpcFlag()</a>, <a class="el" href="../../#l00244">HostageEntry</a>, <a class="el" href="../../#l00860">Object::RemoveFlag()</a>, <a class="el" href="../../#l00736">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l02382">WorldObject::SummonGameObject()</a>, and <a class="el" href="../../#l00315">UNIT_NPC_FLAG_GOSSIP</a>.</p>
 
 </div>
 </div>
@@ -405,7 +405,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dec/classnpc__zulaman__hostage.html">npc_zulaman_hostage</a></li>
-    <li class="footer">Generated on Wed Mar 12 2025 06:22:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 13 2025 06:21:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dd/db3/classReputationMgr.html#a25df865d507f9048ea68a39b8f30ad95":[6,0,2481,4],
 "dd/db3/classReputationMgr.html#a280ebed9e395766fdc239e3c3472b221":[6,0,2481,49],
 "dd/db3/classReputationMgr.html#a2a28399275abe81081862944af7fef3a":[6,0,2481,30],
 "dd/db3/classReputationMgr.html#a2b1c09394ed5cde4fb877a7274037a6a":[6,0,2481,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX329 =
 "dd/dc6/structWaveCreature.html":[6,0,4196],
 "dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[6,0,4196,0],
 "dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[6,0,4196,1],
-"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[6,0,2099,0]
+"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[6,0,2099,0],
+"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[6,0,2099,0,1]
 };
