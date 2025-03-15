@@ -943,7 +943,7 @@ var searchData=
   ['geterrormessage_940',['GetErrorMessage',['../db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#abb0aa9f55f86ab7d54b7b3a894dcd237',1,'Acore::Impl::ChatCommands::ChatCommandResult']]],
   ['geteruptionsection_941',['GetEruptionSection',['../d3/d5d/classinstance__naxxramas.html#a7f64ed1cc3b5461318913919e712d648',1,'instance_naxxramas']]],
   ['getescalatedstatus_942',['GetEscalatedStatus',['../d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7',1,'GmTicket']]],
-  ['getevent_943',['GetEvent',['../d8/da3/classCalendarMgr.html#a38712ccce81263ea5abb86fcf1973383',1,'CalendarMgr']]],
+  ['getevent_943',['GetEvent',['../d8/da3/classCalendarMgr.html#add110dbd7c842e2e2a972811d5cece58',1,'CalendarMgr']]],
   ['geteventid_944',['geteventid',['../d8/de1/structCalendarInvite.html#ae05cd257558e98112528a997e1faba02',1,'CalendarInvite::GetEventId()'],['../d8/dff/structCalendarEvent.html#a712890e4823f1e456493c386389839a0',1,'CalendarEvent::GetEventId()']]],
   ['geteventidforquest_945',['GetEventIdForQuest',['../d1/d4f/classQuest.html#a0c6ec21639c30c5fad76225ec9dbca43',1,'Quest']]],
   ['geteventinvites_946',['GetEventInvites',['../d8/da3/classCalendarMgr.html#ac2e62d04a04f9f3d0786233e705016e8',1,'CalendarMgr']]],
