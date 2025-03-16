@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#a4f817cf022dabb4edba4f83eaa5edd1c":[6,0,1222,91],
 "d0/db7/classGroup.html#a531651fa5a2b0fd7d20dd0f1b5f6809d":[6,0,1222,133],
 "d0/db7/classGroup.html#a53ca8211873b0e3a2301224cde0ee2c4":[6,0,1222,66],
 "d0/db7/classGroup.html#a55ab25977269e05689093eb986bddb4c":[6,0,1222,119],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#afa494098126ce3291e234cfc2b36336f":[6,0,1782,0,1],
 "d0/dbb/structWGWorkshopData.html":[6,0,4215],
 "d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4215,3],
-"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4215,2],
-"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4215,1]
+"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4215,2]
 };

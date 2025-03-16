@@ -1,5 +1,7 @@
 var NAVTREEINDEX100 =
 {
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,1,0,3],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,1,0,3,6],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a29c2b61293d3766594d41ea0fdc804b7":[7,0,0,0,1,3,7,5,1,0,3,3],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,1,0,3,0],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a75447a07419a84c3382ae5f76095c848":[7,0,0,0,1,3,7,5,1,0,3,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX100 =
 "d3/d7d/structNonTankTargetSelector.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce":[6,0,1556,0],
 "d3/d7f/namespaceadvstd.html":[5,0,4],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0]
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4]
 };

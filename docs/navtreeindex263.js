@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a4ce27fd088caf2063c85464cace1dd4d":[7,0,0,0,1,2,16,7,5,90,0],
+"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a8b2e56a615bc771de8c15d9d17d2867d":[7,0,0,0,1,2,16,7,5,90,3],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167ab287d75d988f8f669f28195600800d13":[7,0,0,0,1,2,16,7,5,90,1],
 "da/dbf/Player_8h.html#a8db93a42b48c6f627796a8ef38bbd2f2":[7,0,0,0,1,2,16,7,5,88],
 "da/dbf/Player_8h.html#a8db93a42b48c6f627796a8ef38bbd2f2aa69f68ed66e52b3fb5f86cb25dee7546":[7,0,0,0,1,2,16,7,5,88,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX263 =
 "da/dc0/classnpc__ioc__gunship__captain.html#a6463d7bc12d5fe4fc8921ba5916ec906":[6,0,1891,1],
 "da/dc1/classspell__karazhan__overload__aura.html":[6,0,3307],
 "da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[6,0,3307,0],
-"da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[6,0,3307,2],
-"da/dc1/classspell__karazhan__overload__aura.html#a9a5f11a3024a14911b478cdf59a7abb9":[6,0,3307,3],
-"da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[6,0,3307,1]
+"da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[6,0,3307,2]
 };

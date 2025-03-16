@@ -1,5 +1,7 @@
 var NAVTREEINDEX297 =
 {
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a598ba7930900aa211bb7e7dc12f366c0":[6,0,2242,0,1],
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a92cc0c2aaa6add0c6c641719d6846bb3":[6,0,2242,0,3],
 "dc/d16/boss__hydromancer__thespia_8cpp.html":[7,0,0,0,1,3,7,2,2,0],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130d":[7,0,0,0,1,3,7,2,2,0,1],
@@ -166,12 +168,12 @@ var NAVTREEINDEX297 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3615,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3615,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3615,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2074],
@@ -247,7 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d23/classVehicle.html#ab37daaf199009e8d9bd5eacee76b5932":[6,0,4167,37],
 "dc/d23/classVehicle.html#abda487ca98b12c033e7ec07f043c49f3":[6,0,4167,2],
 "dc/d23/classVehicle.html#ad62a34478fb6e6d23e2c156a05ea83c7":[6,0,4167,14],
-"dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4167,36],
-"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4167,22],
-"dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4167,5]
+"dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4167,36]
 };

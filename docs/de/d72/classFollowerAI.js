@@ -15,7 +15,7 @@ var classFollowerAI =
     [ "RemoveFollowState", "de/d72/classFollowerAI.html#a792d64dca1699f77f9e1f5ad81db7aab", null ],
     [ "SetFollowComplete", "de/d72/classFollowerAI.html#aa23547887bf44a222987bcde93fc8b32", null ],
     [ "SetFollowPaused", "de/d72/classFollowerAI.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00", null ],
-    [ "StartFollow", "de/d72/classFollowerAI.html#a550cfb9b8d6a9ea178a43e3c88d3e778", null ],
+    [ "StartFollow", "de/d72/classFollowerAI.html#a5c53c55664d45b39c13d644af3003155", null ],
     [ "UpdateAI", "de/d72/classFollowerAI.html#ac46e0e5b06f2c02d8f3119e60b20d106", null ],
     [ "UpdateFollowerAI", "de/d72/classFollowerAI.html#a6381f756645b8c4a9dc4c30b8c431694", null ],
     [ "m_pQuestForFollow", "de/d72/classFollowerAI.html#a4aeb51a87a2ea025fa743243c587d6b2", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d88/structboss__gatewatcher__gyrokill.html#a82335081dd79f7a0aa1dc0c26bd878fb":[6,0,489,0],
+"d2/d88/structboss__gatewatcher__gyrokill.html#a95d3ae80f87be9d972ecb056e0b85412":[6,0,489,2],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html":[6,0,1983,0],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a151e59f7b6032d5ed62f9f0ed2923f40":[6,0,1983,0,1],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a214d9b77a5653f1a5f60106081eaf683":[6,0,1983,0,0],
@@ -53,10 +55,10 @@ var NAVTREEINDEX70 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,52],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,64,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,52,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,52,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,64,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,64,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,52,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,52,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,64,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,64,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,52,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,64,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classGuild_1_1Member.html#a2e30d7a341a7817b4b1e64f77b489035":[6,0,1244,6,19],
 "d2/d93/classGuild_1_1Member.html#a32fece03d281f7c800a458492d07357b":[6,0,1244,6,34],
 "d2/d93/classGuild_1_1Member.html#a358debd5881d7c513f7dd51f19eaa401":[6,0,1244,6,29],
-"d2/d93/classGuild_1_1Member.html#a38920a6026acaef4b85163b96d07be9e":[6,0,1244,6,37],
-"d2/d93/classGuild_1_1Member.html#a3928d5341bfa0154a3ea0f695a73c090":[6,0,1244,6,2],
-"d2/d93/classGuild_1_1Member.html#a4069ca28ef3b5cf38eba7f14d6ae50ca":[6,0,1244,6,7]
+"d2/d93/classGuild_1_1Member.html#a38920a6026acaef4b85163b96d07be9e":[6,0,1244,6,37]
 };

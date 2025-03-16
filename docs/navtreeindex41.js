@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113a7e08bbd5183ab9db7b82183b0e522ced":[7,0,0,0,1,3,4,18,10,4],
+"d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113a82376446e39e8a31814c9a9bdbb072cd":[7,0,0,0,1,3,4,18,10,2],
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60":[7,0,0,0,1,3,4,18,10,6],
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973":[7,0,0,0,1,3,4,18,10,5],
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29":[7,0,0,0,1,3,4,18,10,1],
@@ -99,10 +101,10 @@ var NAVTREEINDEX41 =
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,54,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,42,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,1,54,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,54,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,42,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,54,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,54,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "d1/dbd/bosses__opera_8cpp.html#a777debe795c6eff33272755245c81831adfb598878d8addd0a742206d1754ae77":[7,0,0,0,1,3,2,4,11,17,5],
 "d1/dbd/bosses__opera_8cpp.html#a777debe795c6eff33272755245c81831af15f37067efb299ffe2299b8bf991eec":[7,0,0,0,1,3,2,4,11,17,9],
 "d1/dbd/bosses__opera_8cpp.html#a8d5a6d174722836e6e3780a3720b3ce3":[7,0,0,0,1,3,2,4,11,14],
-"d1/dbd/bosses__opera_8cpp.html#a8d5a6d174722836e6e3780a3720b3ce3a5619e3cac0fffa50502531b533a99bb9":[7,0,0,0,1,3,2,4,11,14,1],
-"d1/dbd/bosses__opera_8cpp.html#a8d5a6d174722836e6e3780a3720b3ce3ad9aa3debcb4eb1e16357ac44b635c2ce":[7,0,0,0,1,3,2,4,11,14,0],
-"d1/dbd/bosses__opera_8cpp.html#a8d5a6d174722836e6e3780a3720b3ce3ae980d225d28236902781a52bc9ceda8d":[7,0,0,0,1,3,2,4,11,14,2]
+"d1/dbd/bosses__opera_8cpp.html#a8d5a6d174722836e6e3780a3720b3ce3a5619e3cac0fffa50502531b533a99bb9":[7,0,0,0,1,3,2,4,11,14,1]
 };

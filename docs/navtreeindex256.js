@@ -1,5 +1,7 @@
 var NAVTREEINDEX256 =
 {
+"da/d7e/classMapGrid.html#a221418a7ed724420c3fc0b865cc9ae40":[6,0,1480,11],
+"da/d7e/classMapGrid.html#a27806bd0f5ddc636c0479bbb3b9595e8":[6,0,1480,2],
 "da/d7e/classMapGrid.html#a2a52c01e848d76687e321da2ad5ad540":[6,0,1480,12],
 "da/d7e/classMapGrid.html#a2be024de8ecf1f6482e8f5f6002ddb33":[6,0,1480,24],
 "da/d7e/classMapGrid.html#a2d28459da60ba0133892d0ef7639c969":[6,0,1480,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX256 =
 "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43aff927c339f3ef3b4e63a06dc94c49748":[7,0,0,0,1,3,7,4,2,2,4,6],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html":[6,0,3558],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a2e73fd55dd7e6e658bc6c6623b650732":[6,0,3558,0],
-"da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a9aabae3a6c57be9b17394d4a39fe24ec":[6,0,3558,1],
-"da/d84/classspell__q10190__battery__recharging__blaster__aura.html#ac02217c103db141d75377e233e1e4242":[6,0,3558,2],
-"da/d85/boss__kurinnaxx_8cpp.html":[7,0,0,0,1,3,4,8,2]
+"da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a9aabae3a6c57be9b17394d4a39fe24ec":[6,0,3558,1]
 };

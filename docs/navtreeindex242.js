@@ -1,5 +1,7 @@
 var NAVTREEINDEX242 =
 {
+"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[6,0,3814,4],
+"d9/dd0/QueryHolder_8h.html":[7,0,0,0,1,1,0,27],
 "d9/dd0/classspell__sha__bloodlust.html":[6,0,3724],
 "d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[6,0,3724,3],
 "d9/dd0/classspell__sha__bloodlust.html#aa37525d089348f58e3d871830caa3417":[6,0,3724,1],
@@ -157,18 +159,18 @@ var NAVTREEINDEX242 =
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208":[7,0,0,0,1,3,4,29,11,8],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21":[7,0,0,0,1,3,4,29,11,4],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217":[7,0,0,0,1,3,4,29,11,0],
-"d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,65],
 "d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,77],
+"d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,65],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,77,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,65,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,65,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,77,3],
-"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
-"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
+"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,65,2],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,284,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dea/classEntryCheckPredicate.html#a23365e4591c0906f5d04db7dc6599fbf":[6,0,1011,0],
 "d9/dea/classEntryCheckPredicate.html#aa83f4537369e740de2d689252409d269":[6,0,1011,2],
 "d9/dea/classEntryCheckPredicate.html#ab384b205f8a719e1b5b0d0ab00575313":[6,0,1011,1],
-"d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,78],
-"d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,78,1],
-"d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,78,0]
+"d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,78]
 };

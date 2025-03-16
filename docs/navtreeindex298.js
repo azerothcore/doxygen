@@ -1,5 +1,7 @@
 var NAVTREEINDEX298 =
 {
+"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4167,22],
+"dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4167,5],
 "dc/d25/classCorruptTriggers.html":[6,0,905],
 "dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,905,2],
 "dc/d25/classCorruptTriggers.html#a5ec60254ee2ac299ce99164189087a1c":[6,0,905,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d29/classspell__gen__clone__weapon__aura.html#ad4c0402ae71e663534ed8fd137a9afd2":[6,0,2903,6],
 "dc/d29/classspell__gen__clone__weapon__aura.html#aeaf16594f569af671d221234a4aa2c8b":[6,0,2903,5],
 "dc/d2a/black__temple_8h.html":[7,0,0,0,1,3,7,1,0],
-"dc/d2a/black__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,1,0,1],
-"dc/d2a/black__temple_8h.html#a0b64fe674ad16039fc11cab49bc4ef87":[7,0,0,0,1,3,7,1,0,6],
-"dc/d2a/black__temple_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a26065bd01d357d8b271b2929682a967f":[7,0,0,0,1,3,7,1,0,6,6]
+"dc/d2a/black__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,1,0,1]
 };

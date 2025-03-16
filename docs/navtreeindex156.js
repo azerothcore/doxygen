@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd6/classspell__apothecary__throw__cologne.html#acbff60b24bd0239880378b48cb97b6a4":[6,0,2593,0],
+"d5/dd6/classspell__sha__fire__elemental__scaling.html":[6,0,3732],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a2db04d2d4af16e34cb69b71dbcd0c066":[6,0,3732,1],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a4ecc412bb7d5e89a886c9ad4cc562187":[6,0,3732,2],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a5b35686a2ddd761343d811a8472c1c3b":[6,0,3732,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de6/classaura__class__call__siphon__blessing.html#ab77b8a7dca3dc9bbd20cdb498d1d317e":[6,0,278,3],
 "d5/de6/classaura__class__call__siphon__blessing.html#ac2196cc9de34e286581d44d147fe9d04":[6,0,278,0],
 "d5/de6/structAreaBoundary_1_1DoublePosition.html":[6,0,158,0],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a01fc3985229b6bd03e6d1da95f871c17":[6,0,158,0,6],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a19af503e9623ccaeb032bfe9f0a0ed63":[6,0,158,0,10],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a201096c85022d54b1d9dbe9264df901f":[6,0,158,0,5]
+"d5/de6/structAreaBoundary_1_1DoublePosition.html#a01fc3985229b6bd03e6d1da95f871c17":[6,0,158,0,6]
 };

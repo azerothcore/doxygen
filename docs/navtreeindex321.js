@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2708],
+"dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2708,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2708,1],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#ac18d1d1a1d19b0dfa5cb1565377ba273":[6,0,2708,3],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#ac42fe3248fadf0ecca95893e06c490ee":[6,0,2708,4],
@@ -245,9 +247,7 @@ var NAVTREEINDEX321 =
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[5,0,27,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[5,0,27,2,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[6,0,9,2,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,27,2,0],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[6,0,9,2,0],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[6,0,9,2,1],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[5,0,27,2,1],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#adb24cb7deeafd42035efb29ad2529b14":[6,0,9,2,3]
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,27,2,0],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[5,0,27,2,1]
 };

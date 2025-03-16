@@ -1,5 +1,7 @@
 var NAVTREEINDEX296 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca7f4416eab6cfa8f8bf63ff3b31e8d876":[7,0,0,0,1,3,5,4,1,2,36,14],
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca88f0df00efaa4d36aa53bee423ff51b8":[7,0,0,0,1,3,5,4,1,2,36,4],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caa4b8db0abc842d692eceb879c9c21e48":[7,0,0,0,1,3,5,4,1,2,36,9],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caac611d00fa11a623b29f39fdaead807f":[7,0,0,0,1,3,5,4,1,2,36,2],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caace50dad2ffee3b41203adffc0373728":[7,0,0,0,1,3,5,4,1,2,36,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d13/classachievement__freya__getting__back__to__nature.html#aa4078b573a9335fc52c9b9609590b12f":[6,0,54,0],
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html":[6,0,2242,0],
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a18c1b9d2b149fbc34a17c9e87a8c70b6":[6,0,2242,0,0],
-"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a457f2725e6580d7e6f3bb0445ba796a8":[6,0,2242,0,2],
-"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a598ba7930900aa211bb7e7dc12f366c0":[6,0,2242,0,1],
-"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a92cc0c2aaa6add0c6c641719d6846bb3":[6,0,2242,0,3]
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a457f2725e6580d7e6f3bb0445ba796a8":[6,0,2242,0,2]
 };

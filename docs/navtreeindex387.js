@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/da7/classBattleground.html#a7aa3e9f8429f44f24cc413dc57469e33":[6,0,310,91],
+"df/da7/classBattleground.html#a7b203e7f42f2235b993ea3a1f0b24cd7":[6,0,310,100],
 "df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,310,244],
 "df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,310,215],
 "df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[6,0,310,172],
@@ -121,10 +123,10 @@ var NAVTREEINDEX387 =
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,310,251],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,30,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,30,1,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,30,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,30,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2900],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[6,0,3493,6],
 "df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[6,0,3493,2],
 "df/db1/structGraveyardData.html":[6,0,1210],
-"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1210,2],
-"df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1210,1],
-"df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[6,0,1210,0]
+"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1210,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX372 =
 {
+"df/d09/TerrainBuilder_8cpp.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[7,0,0,0,3,2,6,3],
+"df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html":[6,0,1280,0],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[6,0,1280,0,0],
 "df/d0a/ObjectPosSelector_8h.html":[7,0,0,0,1,2,16,5,7],
 "df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[7,0,0,0,1,2,16,5,7,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX372 =
 "df/d14/classPet.html#a9a66612d754660f0ff25ac0b1236372e":[6,0,2374,76],
 "df/d14/classPet.html#a9d623f0127c82864f885e09a9ddd2eb8":[6,0,2374,45],
 "df/d14/classPet.html#aa112fc828c2fc64dd592c81932b71481":[6,0,2374,1],
-"df/d14/classPet.html#aaac68db137c1dd9b03527cfd84b9b8b1":[6,0,2374,82],
-"df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb":[6,0,2374,56],
-"df/d14/classPet.html#aaccd1b242377432d3b3c79909a2d8ef4":[6,0,2374,66]
+"df/d14/classPet.html#aaac68db137c1dd9b03527cfd84b9b8b1":[6,0,2374,82]
 };

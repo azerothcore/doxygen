@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"d1/d57/structboss__fankriss.html":[6,0,456],
 "d1/d57/structboss__fankriss.html#a4f9722f1c6aa27be798d4bacbdb5fac6":[6,0,456,5],
 "d1/d57/structboss__fankriss.html#a91420e51be346e1b9cfa4efbdec00d76":[6,0,456,3],
 "d1/d57/structboss__fankriss.html#a9eaae719a271a95f64ac8076fe807c13":[6,0,456,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2097076ffb06a32b1322317de7ae66d7":[6,0,731,0,18],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2702ed6dd323b882551754384f3696c9":[6,0,731,0,7],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4550f101e072c3efe1bf38e301204625":[6,0,731,0,5],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4c7f4416b5b3c5f71836aba551c78bd0":[6,0,731,0,3],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a5688581fba4a49027bf6a77a1c71d1b7":[6,0,731,0,17]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4c7f4416b5b3c5f71836aba551c78bd0":[6,0,731,0,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137db":[7,0,0,0,1,3,2,1,0,0,18],
+"df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a":[7,0,0,0,1,3,2,1,0,0,18,0],
 "df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4":[7,0,0,0,1,3,2,1,0,0,20],
 "df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125":[7,0,0,0,1,3,2,1,0,0,20,0],
 "df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec":[7,0,0,0,1,3,2,1,0,0,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[6,0,502,0,8],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,502,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,502,0,16],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,502,0,3],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49":[6,0,502,0,12],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[6,0,502,0,6]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,502,0,3]
 };

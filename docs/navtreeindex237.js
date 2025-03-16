@@ -1,5 +1,7 @@
 var NAVTREEINDEX237 =
 {
+"d9/d83/AES_8h.html":[7,0,0,0,0,3,2],
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html":[6,0,1803,0],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a20d1087e59daae9189d78f04ea2b2d05":[6,0,1803,0,3],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a79f6703107eed52a3aeae30393507c0f":[6,0,1803,0,1],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a8567f936dd15933300497d5abe80a272":[6,0,1803,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d8b/classMapGridManager.html#a60c3abc9dbb707cee6d2c2ed02217c23":[6,0,1481,5],
 "d9/d8b/classMapGridManager.html#a6976d52c3af458e4d5885d2523cfafab":[6,0,1481,14],
 "d9/d8b/classMapGridManager.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a":[6,0,1481,7],
-"d9/d8b/classMapGridManager.html#a7994a71cea924e66996161b049eb1d44":[6,0,1481,4],
-"d9/d8b/classMapGridManager.html#a7d7957242615d753383e05a0ee5a1f82":[6,0,1481,11],
-"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[6,0,1481,6]
+"d9/d8b/classMapGridManager.html#a7994a71cea924e66996161b049eb1d44":[6,0,1481,4]
 };

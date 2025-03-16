@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1b/classspell__pal__seal__of__vengeance.html#af269a7085412b5a889dfb802d1dc7fbe":[6,0,3489,3],
+"d6/d1b/classspell__pal__seal__of__vengeance.html#af52663b01774372d3e6f695d2f395cb5":[6,0,3489,1],
 "d6/d1c/classboss__drakkari__elemental.html":[6,0,426],
 "d6/d1c/classboss__drakkari__elemental.html#a143dd5d52ea7bb3c3c1d96da45af81ee":[6,0,426,1],
 "d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,426,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d26/classGuild_1_1LogEntry.html#a75754f42f8a202a9a319c86515a3f0dd":[6,0,1244,4,6],
 "d6/d26/classGuild_1_1LogEntry.html#a7af4eac577f8da07540f81e185b2ad49":[6,0,1244,4,3],
 "d6/d26/classGuild_1_1LogEntry.html#a89e0192732a43dc44aff3730bc5ad445":[6,0,1244,4,7],
-"d6/d26/classGuild_1_1LogEntry.html#aba3f6f501c59e356166abe71082c421b":[6,0,1244,4,1],
-"d6/d26/classGuild_1_1LogEntry.html#ad19e7364e1beba61c9b7a4383b6d42c6":[6,0,1244,4,8],
-"d6/d26/classGuild_1_1LogEntry.html#af61604a7dc0cc4da315a09fa5b207f37":[6,0,1244,4,0]
+"d6/d26/classGuild_1_1LogEntry.html#aba3f6f501c59e356166abe71082c421b":[6,0,1244,4,1]
 };

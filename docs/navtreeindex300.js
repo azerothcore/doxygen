@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648":[7,0,0,0,1,3,5,9,2,6,36],
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a04c3d4dafb59b9f08115ce405896ddcd":[7,0,0,0,1,3,5,9,2,6,36,11],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a22bf3c326eb768b3ea8d3f16495f1992":[7,0,0,0,1,3,5,9,2,6,36,5],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741":[7,0,0,0,1,3,5,9,2,6,36,4],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a4dc4e373cf25e10db7b0dd8776bcf3d2":[7,0,0,0,1,3,5,9,2,6,36,13],
@@ -79,8 +81,8 @@ var NAVTREEINDEX300 =
 "dc/d31/classOutdoorPvP__terokkar__forest.html":[6,0,2339],
 "dc/d31/classOutdoorPvP__terokkar__forest.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8":[6,0,2339,0],
 "dc/d31/classOutdoorPvP__terokkar__forest.html#acf268293812d7a1a233e7f1fcba1e733":[6,0,2339,1],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[5,0,1,8,2,3],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[6,0,0,5,2,3],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[5,0,1,8,2,3],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[5,0,1,8,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
@@ -135,16 +137,16 @@ var NAVTREEINDEX300 =
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,21],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,33],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,33,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,21,0],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,21,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,33,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,33,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,21,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,33,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,21,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,33,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,21,4],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,21,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,33,2],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,21,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[6,0,0,21,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,1,33,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[6,0,0,21,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d36/structboss__amanitar.html#a4ba2415d6134cdc435114cd3af235b6d":[6,0,369,9],
 "dc/d36/structboss__amanitar.html#a540fb447d261ccfcc77ac15888e8bb50":[6,0,369,2],
 "dc/d36/structboss__amanitar.html#a57b207eaa8a4347bfb5cb51d46eead27":[6,0,369,10],
-"dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[6,0,369,0],
-"dc/d36/structboss__amanitar.html#a6b3cf0ea01ce34b4281116ca8387732d":[6,0,369,1],
-"dc/d36/structboss__amanitar.html#aab3faca4526947a72d8ca049a605f5be":[6,0,369,6]
+"dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[6,0,369,0]
 };

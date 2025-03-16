@@ -1,5 +1,7 @@
 var NAVTREEINDEX56 =
 {
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html":[6,0,1342,0],
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a18f5e55387e7262ff5a8a02b77744c62":[6,0,1342,0,23],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a19e634103111cd6a1270ad71dbd40cf4":[6,0,1342,0,31],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a1c5747b57b9906f94a230f1084614fb1":[6,0,1342,0,6],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a22904d71fb2663089127c5f078e31aab":[6,0,1342,0,49],
@@ -247,7 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[6,0,3169,2],
 "d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[6,0,3169,0],
 "d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[6,0,3169,1],
-"d2/d48/structFactionState.html":[6,0,1026],
-"d2/d48/structFactionState.html#a052caeeae1ecdca831097591e0fddaf6":[6,0,1026,4],
-"d2/d48/structFactionState.html#a287fe9e8ec5da58ae3f5096045eebf31":[6,0,1026,5]
+"d2/d48/structFactionState.html":[6,0,1026]
 };

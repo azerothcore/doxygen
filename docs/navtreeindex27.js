@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ad5eed417fb2a38a1b02bc6275e9f229a":[6,0,1350,0,2],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ad6c1123183e28dd91f78a993a79bf3e8":[6,0,1350,0,3],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#ae1e7cad436566533b7673438884e6210":[6,0,1350,0,18],
 "d1/d1c/classspell__gen__cannibalize.html":[6,0,2897],
@@ -244,10 +245,9 @@ var NAVTREEINDEX27 =
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[6,0,0,8],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[6,0,0,8,1],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[5,0,1,20,1],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[5,0,1,20,6],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[6,0,0,8,6],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[5,0,1,20,6],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[6,0,0,8,0],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[5,0,1,20,0],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[5,0,1,20,2],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[6,0,0,8,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d5/d35/structnpc__apothecary__baxter.html":[6,0,1595],
+"d5/d35/structnpc__apothecary__baxter.html#a4a41816ff4f857a15a4665b8da1aec99":[6,0,1595,0],
 "d5/d35/structnpc__apothecary__baxter.html#a6d813041e055f3c2b28be7cba3acde13":[6,0,1595,4],
 "d5/d35/structnpc__apothecary__baxter.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9":[6,0,1595,1],
 "d5/d35/structnpc__apothecary__baxter.html#ad06090f599d0fda3a88f3182c990a49f":[6,0,1595,3],
@@ -99,8 +101,8 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,130],
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,130,1],
 "d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,130,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d4b/classspell__warl__demonic__pact__aura.html#a5d33fbbc36417bd229fb9b1576f4f42b":[6,0,3915,2],
 "d5/d4b/classspell__warl__demonic__pact__aura.html#ac24bde081e118b347a3cad6832cd96da":[6,0,3915,1],
 "d5/d4b/classspell__warl__demonic__pact__aura.html#ac60630c5d36b1e9cc4fc809ecde1fe20":[6,0,3915,3],
-"d5/d4b/classspell__warl__demonic__pact__aura.html#acfdce5bcda30fc7c498d4f7aba37933f":[6,0,3915,0],
-"d5/d4b/classspell__warl__demonic__pact__aura.html#aecc372443f71834aaeab97ba77757e2a":[6,0,3915,4],
-"d5/d4b/structnpc__frenzied__worgen_1_1npc__frenzied__worgenAI.html":[6,0,1784,0]
+"d5/d4b/classspell__warl__demonic__pact__aura.html#acfdce5bcda30fc7c498d4f7aba37933f":[6,0,3915,0]
 };

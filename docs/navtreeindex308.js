@@ -1,5 +1,7 @@
 var NAVTREEINDEX308 =
 {
+"dc/db1/classspell__gen__mount.html#accef27fc13ff34af52860ad6ac62e7f3":[6,0,2950,4],
+"dc/db2/SpellScript_8h.html":[7,0,0,0,1,2,41,11],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236":[7,0,0,0,1,2,41,11,70],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a01bccb65044d0e5ccab470539e8a71a3":[7,0,0,0,1,2,41,11,70,7],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a12c382920aa6890efbc36805fc32e25a":[7,0,0,0,1,2,41,11,70,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX308 =
 "dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[6,0,2348,4],
 "dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[6,0,2348,6],
 "dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[6,0,2348,7],
-"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[6,0,2348,11],
-"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[6,0,2348,12],
-"dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[6,0,2348,5]
+"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[6,0,2348,11]
 };

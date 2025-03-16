@@ -1,5 +1,7 @@
 var NAVTREEINDEX267 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a2c139e8d3c67b7017dba6ebcb93e795e":[7,0,0,0,1,3,5,2,1,7,6,16],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a338fc762306c483ef967381135095289":[7,0,0,0,1,3,5,2,1,7,6,39],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a3e583253707d71d78ec38469344d8d98":[7,0,0,0,1,3,5,2,1,7,6,46],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a44abc30a51a8f26d46d9face60a54aa3":[7,0,0,0,1,3,5,2,1,7,6,12],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a4c2d17bd45e71eaab3ddbf60c378754b":[7,0,0,0,1,3,5,2,1,7,6,47],
@@ -247,7 +249,5 @@ var NAVTREEINDEX267 =
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca0d64afd8c28995996975c9f1c47e75f7":[7,0,0,0,1,3,2,1,1,2,5,0],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f605c07889bc9b86bcd55356fb2f40c":[7,0,0,0,1,3,2,1,1,2,5,8],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca1859540c81c56dd501aebf93a402999d":[7,0,0,0,1,3,2,1,1,2,5,6],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca2210e67625c641864acc1b34158ac996":[7,0,0,0,1,3,2,1,1,2,5,5],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca511bf5a0d2736e59816a8fdc5975dd9a":[7,0,0,0,1,3,2,1,1,2,5,3],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[7,0,0,0,1,3,2,1,1,2,5,2]
+"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca2210e67625c641864acc1b34158ac996":[7,0,0,0,1,3,2,1,1,2,5,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11ad19ab7a1b76e0f0a2bafc076d84187cd":[7,0,0,0,1,3,5,6,13,4,16],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aea4c8a02be72cff77c1f60d75bdf39e3":[7,0,0,0,1,3,5,6,13,4,12],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aea5f7e7c51a63ce22aefc4ca1703bca4":[7,0,0,0,1,3,5,6,13,4,14],
 "d9/d6a/icecrown__citadel_8h.html#a309e95f01280442ae5ddfc07bf81c24c":[7,0,0,0,1,3,5,6,13,12],
 "d9/d6a/icecrown__citadel_8h.html#a309e95f01280442ae5ddfc07bf81c24ca0370cd81f51367e92178768f1faac14b":[7,0,0,0,1,3,5,6,13,12,0],
@@ -240,14 +242,12 @@ var NAVTREEINDEX235 =
 "d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[6,0,2557,4],
 "d9/d6e/classSmartWaypointMgr.html#ac3ea00baf665a3a201c911c875600010":[6,0,2557,2],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[6,0,2557,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[6,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,18,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0]
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5]
 };

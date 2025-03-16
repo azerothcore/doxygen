@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d7/d46/classAuraEffect.html#af7d61f76c6791e1a34f20b87efb425bc":[6,0,281,57],
+"d7/d46/classAuraEffect.html#af7eff5d08a22189f99f66695367ae250":[6,0,281,225],
 "d7/d46/classAuraEffect.html#af8500c42594d040d396c20997cbffc69":[6,0,281,34],
 "d7/d46/classAuraEffect.html#af91c6e2c16b5038cadfed381022dad10":[6,0,281,50],
 "d7/d46/classAuraEffect.html#af93cf68cd8854d93010663353043e4a2":[6,0,281,206],
@@ -147,8 +149,8 @@ var NAVTREEINDEX188 =
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,47,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#aea2815d79da4fa006ea150f052255b9d":[6,0,1902,0,1],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html":[6,0,390,0],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a463209610cbc8e34d9839abeaf6df0e6":[6,0,390,0,10],
-"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a4b670f4d89f9ed9ffeebf9d9426d79dc":[6,0,390,0,4],
-"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a68e503ddac7be2f4e08d68e64aa2e725":[6,0,390,0,8],
-"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a7947c96290ea2cbe1b7ed6b6a8db65fe":[6,0,390,0,6]
+"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a4b670f4d89f9ed9ffeebf9d9426d79dc":[6,0,390,0,4]
 };

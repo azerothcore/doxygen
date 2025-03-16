@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/dff/classUpdateMask.html#ae0cefda1282f8c29a6557e1c25e007de":[6,0,4158,3],
 "d0/dff/classUpdateMask.html#af15db8c732b94437fd1323a911eab5ce":[6,0,4158,10],
 "d0/dff/classUpdateMask.html#af3390cfa31c39629968a871be2c763fc":[6,0,4158,14],
 "d0/dff/classUpdateMask.html#afe89109ca16f687072062408e311f793":[6,0,4158,5],
@@ -205,8 +206,8 @@ var NAVTREEINDEX23 =
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,30,11,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[6,0,11,11,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,30,11,1,1],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[5,0,30,11,1,3],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[6,0,11,11,1,3],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[5,0,30,11,1,3],
 "d1/d02/classspell__dru__berserk.html":[6,0,2790],
 "d1/d02/classspell__dru__berserk.html#a39572ebbeee6fe39bc4454088c622bcd":[6,0,2790,0],
 "d1/d02/classspell__dru__berserk.html#a602d7c920aa73a9c3c69222854093036":[6,0,2790,1],
@@ -237,8 +238,8 @@ var NAVTREEINDEX23 =
 "d1/d05/classnpc__lakota__windsong.html#af2f27ed2c4bd7298a9478495d2d7ca65":[6,0,1915,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html":[5,0,1,126],
 "d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,114],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,114,5],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,126,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,114,5],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[5,0,1,126,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,114,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6954721b71a55874c7f708bf822613bd":[5,0,1,126,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,114,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,126,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[5,0,1,126,3],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,114,3],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,114,1]
+"d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,114,3]
 };

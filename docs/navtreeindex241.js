@@ -1,5 +1,7 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2c24bb7b52e6809de051c2a74d1ae0c0":[7,0,0,0,1,3,5,9,0,3,11,1],
+"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,0,3,11,0],
 "d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[7,0,0,0,1,3,5,9,0,3,11,2],
 "d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,0,3,11,3],
 "d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad8c34d014ab219079cf4e3e391391cd8":[7,0,0,0,1,3,5,9,0,3,11,6],
@@ -85,10 +87,10 @@ var NAVTREEINDEX241 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dcf/classspell__thaddius__polarity__shift.html#a3009faa525c22779a0b2534b96821cfd":[6,0,3814,1],
 "d9/dcf/classspell__thaddius__polarity__shift.html#aa87e57dabec6e83029f4dd84913f22ca":[6,0,3814,3],
 "d9/dcf/classspell__thaddius__polarity__shift.html#ac816f81a668ac3018be8f5dc4698039b":[6,0,3814,0],
-"d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[6,0,3814,2],
-"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[6,0,3814,4],
-"d9/dd0/QueryHolder_8h.html":[7,0,0,0,1,1,0,27]
+"d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[6,0,3814,2]
 };

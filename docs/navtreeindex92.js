@@ -1,5 +1,7 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a1e32811c8b718211a4bc078ce8a395e7":[7,0,0,0,1,3,5,15,45,8],
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a3b0b33e2e94be1336b9c2a1caa73d8dd":[7,0,0,0,1,3,5,15,45,2],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a5ab453d06d1693e52516bb430d100707":[7,0,0,0,1,3,5,15,45,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a7a673d1413e43d759bfab3c2bc842cb2":[7,0,0,0,1,3,5,15,45,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a8a2fa8e27afc12d115154acd4668fbd5":[7,0,0,0,1,3,5,15,45,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#a34e3d17b89010569bf7e9cb28361c2af":[6,0,1669,0,0],
 "d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#ad6411d2a87d2552bea2051f80ca16e14":[6,0,1669,0,1],
 "d3/d12/classban__commandscript.html":[6,0,298],
-"d3/d12/classban__commandscript.html#a2685e26ced4dda5bfbbefaec02d59a5e":[6,0,298,5],
-"d3/d12/classban__commandscript.html#a2cc5ebe2fda5d9fe217fd8f4c62c644e":[6,0,298,18],
-"d3/d12/classban__commandscript.html#a3079102518edbfd0e16576083e053a19":[6,0,298,1]
+"d3/d12/classban__commandscript.html#a2685e26ced4dda5bfbbefaec02d59a5e":[6,0,298,5]
 };

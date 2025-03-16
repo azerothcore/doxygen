@@ -1,5 +1,7 @@
 var NAVTREEINDEX226 =
 {
+"d8/dea/classspell__archavon__rock__shards.html#a89d601f6036fe38238767281f3427e54":[6,0,2600,3],
+"d8/dea/classspell__archavon__rock__shards.html#ab2db47d0a2694c0734db600e810e190d":[6,0,2600,1],
 "d8/dea/structboss__ormorok.html":[6,0,644],
 "d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[6,0,644,6],
 "d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[6,0,644,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX226 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a5905809cba20d426c4d222b1e91055bc":[6,0,445,0,6],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a8d4445b6d35f534061818f7708f39f7e":[6,0,445,0,9],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa346cbaded883bbb3806acf9cb32579a":[6,0,445,0,2],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa68ece744a21ed2ef8d3e7c4b4081d8e":[6,0,445,0,10],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#ad380838dbb6c2a3488fa57f2999e137c":[6,0,445,0,4],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0]
+"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa68ece744a21ed2ef8d3e7c4b4081d8e":[6,0,445,0,10]
 };

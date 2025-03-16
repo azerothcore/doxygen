@@ -1,5 +1,7 @@
 var NAVTREEINDEX284 =
 {
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#abdad09a6ec7395e43f60de4a6ed7fcc9":[6,0,0,5,0,17,8],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[6,0,0,5,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[5,0,1,8,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[5,0,1,8,0,17,13],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[6,0,0,5,0,17,13],
@@ -7,8 +9,8 @@ var NAVTREEINDEX284 =
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[5,0,1,8,0,17,1],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[5,0,1,8,0,17,20],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[6,0,0,5,0,17,20],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classspell__sindragosa__unchained__magic.html":[6,0,3779],
 "db/da6/classspell__sindragosa__unchained__magic.html#aa7e731de9e5ab1078b8ff7022393c9a7":[6,0,3779,0],
 "db/da6/classspell__sindragosa__unchained__magic.html#ae6ab0b56688bfc07262cc83e84102ccb":[6,0,3779,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX284 =
 "db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207":[7,0,0,0,1,3,10,14,50],
 "db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205":[7,0,0,0,1,3,10,14,50,0],
 "db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5":[7,0,0,0,1,3,10,14,50,1],
-"db/dae/npcs__special_8cpp.html#a6c96dbebb9d167df0c52c1a3e2d8611e":[7,0,0,0,1,3,10,14,79],
-"db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344":[7,0,0,0,1,3,10,14,45],
-"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70":[7,0,0,0,1,3,10,14,54]
+"db/dae/npcs__special_8cpp.html#a6c96dbebb9d167df0c52c1a3e2d8611e":[7,0,0,0,1,3,10,14,79]
 };

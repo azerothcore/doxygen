@@ -1,5 +1,7 @@
 var NAVTREEINDEX243 =
 {
+"d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,78,1],
+"d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,78,0],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2606],
 "d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2606,0],
 "d9/dee/classspell__aura__of__despair__aura.html#a3b98409fa1ed8d4e53e526686bc25987":[6,0,2606,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX243 =
 "d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61":[6,0,886,9],
 "d9/df7/classConditionMgr.html#aedbbcc49f4cfcbcdb6fbb6574079af27":[6,0,886,20],
 "d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e":[6,0,886,8],
-"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,886,14],
-"d9/df7/classConditionMgr.html#afef825ca94a043d238af8cd4ae2acda4":[6,0,886,23],
-"d9/df7/classDBCFileLoader_1_1Record.html":[6,0,950,0]
+"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,886,14]
 };

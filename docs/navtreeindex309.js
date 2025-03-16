@@ -1,5 +1,7 @@
 var NAVTREEINDEX309 =
 {
+"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[6,0,2348,12],
+"dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[6,0,2348,5],
 "dc/db8/structboss__mother__shahraz.html":[6,0,626],
 "dc/db8/structboss__mother__shahraz.html#a021c702e7eff266308fee8a4220a6ec7":[6,0,626,2],
 "dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[6,0,626,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX309 =
 "dc/dc9/structBattlegroundEYScore.html":[6,0,322],
 "dc/dc9/structBattlegroundEYScore.html#a057a335c7491c1031666e6d10cf314b2":[6,0,322,5],
 "dc/dc9/structBattlegroundEYScore.html#a43d4b01a1f3c8325795d90f2a97c230c":[6,0,322,2],
-"dc/dc9/structBattlegroundEYScore.html#a5d809f1fdf1bb7a29d7504e432e10b8f":[6,0,322,4],
-"dc/dc9/structBattlegroundEYScore.html#a8a915f38f28ee3929c7922b9fa8f38d6":[6,0,322,1],
-"dc/dc9/structBattlegroundEYScore.html#a91c17f1ff1924439b05840cd11ede36f":[6,0,322,0]
+"dc/dc9/structBattlegroundEYScore.html#a5d809f1fdf1bb7a29d7504e432e10b8f":[6,0,322,4]
 };

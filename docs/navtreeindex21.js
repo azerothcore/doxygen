@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/deb/structQuestPOI.html#a1af6ed9fdb9ff429e18fb5d98a42ce45":[6,0,2454,3],
 "d0/deb/structQuestPOI.html#a1f1d8fa843c856b54ec1ca85b08d78e1":[6,0,2454,8],
 "d0/deb/structQuestPOI.html#a4cf252fabc68cf11df5d44f192955a0b":[6,0,2454,1],
 "d0/deb/structQuestPOI.html#a851f8e6e62373d2592173534754d757b":[6,0,2454,5],
@@ -16,14 +17,14 @@ var NAVTREEINDEX21 =
 "d0/dec/Spline_8cpp.html#aff10e913762216c0735a8a3530ee25d2":[7,0,0,0,1,2,31,1,10,3],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html":[6,0,0,9],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html":[5,0,1,21],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[6,0,0,9,1],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[5,0,1,21,2],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[6,0,0,9,2],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[6,0,0,9,4],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[5,0,1,21,4],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#ab19dba99802231bc1ba7b3ae3cb4bdb3":[6,0,0,9,0],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[6,0,0,9,4],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab19dba99802231bc1ba7b3ae3cb4bdb3":[5,0,1,21,0],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#ab19dba99802231bc1ba7b3ae3cb4bdb3":[6,0,0,9,0],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab1dd814e4d94ed2989bb07012a24d40e":[5,0,1,21,3],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab1dd814e4d94ed2989bb07012a24d40e":[6,0,0,9,3],
 "d0/dee/classspell__q10769__dissension__amongst__the__ranks.html":[6,0,3565],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aa66bac9b36e85aace3f8fc4a2a52301d9":[7,0,0,0,1,2,8,1,9,8,2],
 "d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aa99f1a7e832b72d6b5bd06bf4f594f3d0":[7,0,0,0,1,2,8,1,9,8,9],
 "d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aa9ba01c3f70bd2dd32245c7a7b4dd3990":[7,0,0,0,1,2,8,1,9,8,7],
-"d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aad0a9028a6c563a4d4a7c42d0690e6455":[7,0,0,0,1,2,8,1,9,8,3],
-"d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aaf2d1cf62ff2fe374a1f609d0a5fd74e0":[7,0,0,0,1,2,8,1,9,8,10]
+"d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aad0a9028a6c563a4d4a7c42d0690e6455":[7,0,0,0,1,2,8,1,9,8,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX163 =
 {
+"d6/d14/structGameObjectDisplayInfoEntry.html#a7168f5b3229bd27edde78e88bf7dc20a":[6,0,1077,6],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da":[6,0,1077,5],
 "d6/d14/structGameObjectDisplayInfoEntry.html#ac88aefc2530212b9dff10e018c4e9305":[6,0,1077,7],
 "d6/d14/structGameObjectDisplayInfoEntry.html#acb74e32790b2c60cca5faef1caa225e4":[6,0,1077,4],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html":[6,0,2876],
@@ -20,10 +22,10 @@ var NAVTREEINDEX163 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3054,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1339,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1339,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,5,42,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1b/boss__grand__champions_8cpp.html#aebc2b7d18c6e0d98cc3f952e1e41d516":[7,0,0,0,1,3,5,2,0,2,9],
 "d6/d1b/classspell__pal__seal__of__vengeance.html":[6,0,3489],
 "d6/d1b/classspell__pal__seal__of__vengeance.html#a8c7ede10a8f7d0c1ea04c21166807995":[6,0,3489,0],
-"d6/d1b/classspell__pal__seal__of__vengeance.html#abcefab06ff481fad88be4d7ad9289808":[6,0,3489,2],
-"d6/d1b/classspell__pal__seal__of__vengeance.html#af269a7085412b5a889dfb802d1dc7fbe":[6,0,3489,3],
-"d6/d1b/classspell__pal__seal__of__vengeance.html#af52663b01774372d3e6f695d2f395cb5":[6,0,3489,1]
+"d6/d1b/classspell__pal__seal__of__vengeance.html#abcefab06ff481fad88be4d7ad9289808":[6,0,3489,2]
 };

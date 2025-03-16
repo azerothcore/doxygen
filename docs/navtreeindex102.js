@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d3/d86/classnpc__grizzlemaw__cw__trigger.html#a4514796784d974ba6de09b5a5d4e5f3b":[6,0,1813,1],
+"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html":[6,0,427,0],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a02ffab01744c0dbb8b5a60794e82bdb0":[6,0,427,0,2],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a09f7c704579bdb8dad951ce63b5a54c9":[6,0,427,0,1],
 "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html#a6a74b74e4e4b45aec86f70a5211ddd28":[6,0,427,0,3],
@@ -39,12 +41,12 @@ var NAVTREEINDEX102 =
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,30,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,7,3,4],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3892],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a1ecb6e617976cdfbeb534849db41d57a":[6,0,3892,1],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a2c2ca2c0425ab3b815d246b1caebf588":[6,0,3892,3],
@@ -123,9 +125,9 @@ var NAVTREEINDEX102 =
 "d3/d8e/structnpc__demonic__vapor__trail.html#a21e2223f58156da2fbe1803554623ecd":[6,0,1735,3],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d":[6,0,1735,1],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a5bd024ea050372e982a183da59b45904":[6,0,1735,0],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af":[6,0,1735,5],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a90810fcfc4f27a457917cb79f4320fe3":[6,0,1735,4],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a9da762ab640abfaf5092034f284239af":[6,0,1735,2],
-"d3/d8e/structnpc__demonic__vapor__trail.html#ac73d55019f44f702843e22a442c2e432":[6,0,1735,5],
 "d3/d8f/classgo__pumpkin__shrine.html":[6,0,1162],
 "d3/d8f/classgo__pumpkin__shrine.html#a35763a67d39c1d68974a9602ce26b699":[6,0,1162,1],
 "d3/d8f/classgo__pumpkin__shrine.html#ab9b05caa7ef7d740a0c46171c2160a19":[6,0,1162,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/classGameEventMgr.html#abcca9c3b00e259e90108f6f202773dd5":[6,0,1068,78],
 "d3/d92/classGameEventMgr.html#abd6517d99e2187dce7a8db423c8c8886":[6,0,1068,32],
 "d3/d92/classGameEventMgr.html#abe394de4b5f3dae32df1f76a270968e5":[6,0,1068,4],
-"d3/d92/classGameEventMgr.html#abea15d93ca89ee6937355bb353ca62db":[6,0,1068,45],
-"d3/d92/classGameEventMgr.html#ac3e988ebf19cce9f7ee23f4b71fe5c94":[6,0,1068,22],
-"d3/d92/classGameEventMgr.html#ac5d012e43a00b43d9073273de1984fa7":[6,0,1068,53]
+"d3/d92/classGameEventMgr.html#abea15d93ca89ee6937355bb353ca62db":[6,0,1068,45]
 };

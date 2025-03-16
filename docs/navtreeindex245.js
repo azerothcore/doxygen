@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/dfb/structboss__temporus.html#a9186e51d240aff2ffaab99e3b423ded9":[6,0,719,1],
+"d9/dfb/structboss__temporus.html#a99356589a048debbc308b8431259da5c":[6,0,719,5],
 "d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,719,0],
 "d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,719,2],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2650],
@@ -34,16 +36,16 @@ var NAVTREEINDEX245 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1704,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1704,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1704,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,30,5,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
 "da/d02/classachievement__not__even__a__scratch.html":[6,0,75],
 "da/d02/classachievement__not__even__a__scratch.html#a0d025c09d35c3640016ab42e11dd96eb":[6,0,75,0],
 "da/d02/classachievement__not__even__a__scratch.html#a81f6c9bd36e5a3eea3fe0af24c9f1649":[6,0,75,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "da/d0f/instance__utgarde__pinnacle_8cpp.html":[7,0,0,0,1,3,5,10,1,4],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html#a3469cdfafe3d81dca68950e7a6a6370d":[7,0,0,0,1,3,5,10,1,4,2],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html":[6,0,658,0],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a06a216b9f75f50bf0e738398da37082c":[6,0,658,0,2],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a1a686457e3000211f966f4d22370552d":[6,0,658,0,19],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a251205825e07fb27a20b5995b94ea6f4":[6,0,658,0,8]
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a06a216b9f75f50bf0e738398da37082c":[6,0,658,0,2]
 };

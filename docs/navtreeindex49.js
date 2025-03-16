@@ -1,13 +1,15 @@
 var NAVTREEINDEX49 =
 {
-"d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[6,0,0,89,2],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[6,0,0,89,3],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a283b656ac784e64b98929eca83326027":[5,0,1,101,3],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[5,0,1,101,2],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a2ca08c1a3f3f23111bffbd423ca47b1c":[6,0,0,89,2],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a4f1acae57c44d33449a8f040b02fa5e4":[6,0,0,89,5],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a4f1acae57c44d33449a8f040b02fa5e4":[5,0,1,101,5],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a7dc639f90a38e6156a436ef6ff1204ec":[5,0,1,101,1],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a7dc639f90a38e6156a436ef6ff1204ec":[6,0,0,89,1],
-"d1/dff/structAcore_1_1ObjectUpdater.html#a8f3e4ed206f6793edf9bf358d1bdf2c2":[6,0,0,89,4],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a7dc639f90a38e6156a436ef6ff1204ec":[5,0,1,101,1],
 "d1/dff/structAcore_1_1ObjectUpdater.html#a8f3e4ed206f6793edf9bf358d1bdf2c2":[5,0,1,101,4],
+"d1/dff/structAcore_1_1ObjectUpdater.html#a8f3e4ed206f6793edf9bf358d1bdf2c2":[6,0,0,89,4],
 "d1/dff/structAcore_1_1ObjectUpdater.html#ad907a266bcf4c059a49195eae4758541":[5,0,1,101,0],
 "d1/dff/structAcore_1_1ObjectUpdater.html#ad907a266bcf4c059a49195eae4758541":[6,0,0,89,0],
 "d2/d00/structPetDefaultSpellsEntry.html":[6,0,2378],
@@ -247,7 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d0e/Errors_8h.html#af222a0bd205c0bcecd8a7b6554137e33":[7,0,0,0,0,5,1,17],
 "d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3":[7,0,0,0,0,5,1,1],
 "d2/d0e/Errors_8h.html#af4a5b364827068eb978fa1a1fff5770f":[7,0,0,0,0,5,1,19],
-"d2/d0e/Errors_8h.html#af8c8ba5d8126e10ea9f5d86e8a9e742b":[7,0,0,0,0,5,1,12],
-"d2/d0e/Errors_8h.html#afbbc90bf1881f7811a1022e7af350b47":[7,0,0,0,0,5,1,10],
-"d2/d0e/classachievement__sa__defense__of__the__ancients.html":[6,0,84]
+"d2/d0e/Errors_8h.html#af8c8ba5d8126e10ea9f5d86e8a9e742b":[7,0,0,0,0,5,1,12]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX239 =
 {
+"d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a93ba73dd62afe072c5298db34d3a1631":[7,0,0,0,1,3,2,15,8,4,3],
+"d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a98fcc8e0d9c0a98613711c746848a9d7":[7,0,0,0,1,3,2,15,8,4,17],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a994824137762f657e71e2cf01f5753d9":[7,0,0,0,1,3,2,15,8,4,9],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ac9a7e429aa546919840b39674b9692cf":[7,0,0,0,1,3,2,15,8,4,15],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ae44ed29085b14444414b73bbd223d58e":[7,0,0,0,1,3,2,15,8,4,12],
@@ -13,12 +15,12 @@ var NAVTREEINDEX239 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[6,0,2889,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,1,8,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[6,0,0,5,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,1,8,1,0,0],
 "d9/d9b/classHostileReference.html":[6,0,1264],
@@ -63,12 +65,12 @@ var NAVTREEINDEX239 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[7,0,0,0,1,3,2,32,5],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,30,5,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[6,0,11,5,46],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,30,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,11,5,46,2],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,30,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,11,5,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,30,5,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,30,5,46,0],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,30,5,46,3],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[6,0,11,5,46,3],
 "d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX239 =
 "d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a341ba870c59c0be090055eb22143f77a":[7,0,0,0,1,3,2,1,1,10,3,20],
 "d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3443bfd60f421b061da5ee3446889a87":[7,0,0,0,1,3,2,1,1,10,3,0],
 "d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a43ec305739ef7998c27ca71d668b1d78":[7,0,0,0,1,3,2,1,1,10,3,22],
-"d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4c660e6760b3a1b4cd1d4082ceeeb572":[7,0,0,0,1,3,2,1,1,10,3,16],
-"d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e49fde4fe8ce8fa992cf9a3a4584afc":[7,0,0,0,1,3,2,1,1,10,3,24],
-"d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5c0f399c68c00ca4e98f5ece28bc4337":[7,0,0,0,1,3,2,1,1,10,3,4]
+"d9/da9/boss__rend__blackhand_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4c660e6760b3a1b4cd1d4082ceeeb572":[7,0,0,0,1,3,2,1,1,10,3,16]
 };

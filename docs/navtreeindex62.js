@@ -1,5 +1,7 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#aefb9265fd46e8070afd4993eabc04e5e":[6,0,2388,1189],
+"d2/d4b/classPlayer.html#aefca3e04a72cb2041f037c9593fa708f":[6,0,2388,363],
 "d2/d4b/classPlayer.html#aeff675ced9b46758eb9afc4f1b1802b7":[6,0,2388,291],
 "d2/d4b/classPlayer.html#aefffbcbaf3eca218f130f5a268ca9563":[6,0,2388,208],
 "d2/d4b/classPlayer.html#af00445582994be1f2887b049c1e23ca6":[6,0,2388,96],
@@ -247,7 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d56/classnpc__core__rager.html#ada4acfa2a1934d1609a8f9c78da6377d":[6,0,1691,1],
 "d2/d57/classspell__rotface__large__ooze__combine.html":[6,0,3699],
 "d2/d57/classspell__rotface__large__ooze__combine.html#a730fded490df68f501010f952ceea40b":[6,0,3699,2],
-"d2/d57/classspell__rotface__large__ooze__combine.html#a802f667b20bccd3395c233482aa2485b":[6,0,3699,0],
-"d2/d57/classspell__rotface__large__ooze__combine.html#a8ec4a10d4d3c348029256fec28a19ed6":[6,0,3699,3],
-"d2/d57/classspell__rotface__large__ooze__combine.html#ad371e6387d5df422eaa05acc9efe2f46":[6,0,3699,1]
+"d2/d57/classspell__rotface__large__ooze__combine.html#a802f667b20bccd3395c233482aa2485b":[6,0,3699,0]
 };

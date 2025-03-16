@@ -1,5 +1,7 @@
 var NAVTREEINDEX65 =
 {
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#adde5d9c1a18f8dfe836925d9cb8391be":[6,0,754,0,10],
+"d2/d6e/TemporarySummon_8h.html":[7,0,0,0,1,2,16,1,9],
 "d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188":[7,0,0,0,1,2,16,1,9,6],
 "d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270":[7,0,0,0,1,2,16,1,9,6,2],
 "d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a":[7,0,0,0,1,2,16,1,9,6,0],
@@ -14,12 +16,12 @@ var NAVTREEINDEX65 =
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,27,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,9,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,27,1,2],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,9,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,27,1,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,27,1,5],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,9,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[6,0,9,1,5],
-"d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[6,0,9,1,3],
+"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,27,1,5],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[5,0,27,1,3],
+"d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[6,0,9,1,3],
 "d2/d6f/classgo__seer__of__zebhalak.html":[6,0,1169],
 "d2/d6f/classgo__seer__of__zebhalak.html#a423f16e878d67f7dc6ec3860afabacf4":[6,0,1169,0],
 "d2/d6f/classgo__seer__of__zebhalak.html#a84009789ce8e8d0d7c42996fde161135":[6,0,1169,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a529e392b264963022a4295477dace9bf":[6,0,2507,292],
 "d2/d73/classScriptMgr.html#a52e545af621f2c4f53d92b409d9979f8":[6,0,2507,317],
 "d2/d73/classScriptMgr.html#a53043a83576dce198090f87fb48772c0":[6,0,2507,371],
-"d2/d73/classScriptMgr.html#a535d88be237ccd599675a8b9c52d009d":[6,0,2507,93],
-"d2/d73/classScriptMgr.html#a541408efd51058df1f3db20bc97021b6":[6,0,2507,355],
-"d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927":[6,0,2507,476]
+"d2/d73/classScriptMgr.html#a535d88be237ccd599675a8b9c52d009d":[6,0,2507,93]
 };

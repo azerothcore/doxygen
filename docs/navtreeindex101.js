@@ -1,12 +1,14 @@
 var NAVTREEINDEX101 =
 {
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,53,0],
 "d3/d81/classAbominationDespawner.html":[6,0,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d86/classnpc__belnistrasz.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb":[6,0,1632,1],
 "d3/d86/classnpc__belnistrasz.html#aac9d4389ec1c88be9afb6b9a828da511":[6,0,1632,2],
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html":[6,0,1813],
-"d3/d86/classnpc__grizzlemaw__cw__trigger.html#a1a834bda866033a3cca4fc4ece447313":[6,0,1813,2],
-"d3/d86/classnpc__grizzlemaw__cw__trigger.html#a4514796784d974ba6de09b5a5d4e5f3b":[6,0,1813,1],
-"d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html":[6,0,427,0]
+"d3/d86/classnpc__grizzlemaw__cw__trigger.html#a1a834bda866033a3cca4fc4ece447313":[6,0,1813,2]
 };

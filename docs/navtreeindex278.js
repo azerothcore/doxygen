@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"db/d80/classspell__icc__dark__reckoning__aura.html#a87260a1cd06190f5412f3cab0f448a01":[6,0,3103,1],
+"db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html":[6,0,1588,0],
 "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a02d3b78427bc247cde28620470c43331":[6,0,1588,0,2],
 "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a3136ecd40bf228fade0e40d3c5d22e5d":[6,0,1588,0,7],
 "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html#a35866e3cad208bb70bbc5a146301c28d":[6,0,1588,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517":[7,0,0,0,1,3,5,10,0,4,3,5],
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1cca":[7,0,0,0,1,3,5,10,0,4,4],
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b":[7,0,0,0,1,3,5,10,0,4,4,0],
-"db/d89/classboss__ambassador__flamelash.html":[6,0,370],
-"db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,370,2],
-"db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,370,1]
+"db/d89/classboss__ambassador__flamelash.html":[6,0,370]
 };

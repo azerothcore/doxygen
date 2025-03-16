@@ -1,10 +1,12 @@
 var NAVTREEINDEX170 =
 {
+"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,1,19,1],
-"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
+"d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,19],
+"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,31],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,19],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,19,0],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,31,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2653],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a826ecad9e9a06050a3ebc0861bf52c1e":[6,0,2191,0,6],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a991868074e39e2a4d06c37afc642a756":[6,0,2191,0,10],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#aa7944f80bb6718a65a07128be830ed94":[6,0,2191,0,4],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ab69f481e3871e5ce803ab1f389a2385c":[6,0,2191,0,1],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#abf3fc3538e82fceaa916d4e217d6f9fd":[6,0,2191,0,3],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ad135529fe083af2ce3e79823213d2735":[6,0,2191,0,9]
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ab69f481e3871e5ce803ab1f389a2385c":[6,0,2191,0,1]
 };

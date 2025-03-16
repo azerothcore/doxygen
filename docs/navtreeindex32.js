@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d1/d4c/classat__frozen__throne__teleport.html#a8065b9f9b55b267be1757775f84de349":[6,0,216,0],
 "d1/d4c/classat__frozen__throne__teleport.html#ae1f9476b7f47320f545e702e9317bd03":[6,0,216,1],
 "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html":[6,0,2134,0],
 "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html#a19b493e994d246128f63d9109e87737a":[6,0,2134,0,7],
@@ -192,16 +193,16 @@ var NAVTREEINDEX32 =
 "d1/d50/classspell__gen__seaforium__blast.html#af0bb22c618af5dca7f534bea32e7ee7f":[6,0,2980,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,116],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,1,128],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,116,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,1,128,1],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,116,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[6,0,0,116,4],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[5,0,1,128,4],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,1,128,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[6,0,0,116,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,1,128,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[6,0,0,116,3],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[6,0,0,116,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,1,128,5],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[6,0,0,116,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,1,128,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[6,0,0,116,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,116,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d1/d57/classnpc__lokhtos__darkbargainer.html":[6,0,1927],
 "d1/d57/classnpc__lokhtos__darkbargainer.html#a39547487ef7db8a3942556665099893f":[6,0,1927,1],
 "d1/d57/classnpc__lokhtos__darkbargainer.html#a5a4640678a5669c75b1fa5d787999c02":[6,0,1927,2],
-"d1/d57/classnpc__lokhtos__darkbargainer.html#af91685ecf0f63313968b3d82373668d2":[6,0,1927,0],
-"d1/d57/structboss__fankriss.html":[6,0,456]
+"d1/d57/classnpc__lokhtos__darkbargainer.html#af91685ecf0f63313968b3d82373668d2":[6,0,1927,0]
 };

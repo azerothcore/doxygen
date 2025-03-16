@@ -590,7 +590,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  206</span>        {</div>
 <div class="line"><span class="lineno">  207</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* vorpil = summon-&gt;GetSummonerUnit())</div>
 <div class="line"><span class="lineno">  208</span>            {</div>
-<div class="line"><span class="lineno">  209</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a46ca73c3acc43c9f0aaef6e847eb79fa">MoveFollow</a>(vorpil, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  209</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MoveFollow</a>(vorpil, 0.0f, 0.0f);</div>
 <div class="line"><span class="lineno">  210</span>            }</div>
 <div class="line"><span class="lineno">  211</span>        }</div>
 <div class="line"><span class="lineno">  212</span> </div>
@@ -631,7 +631,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  247</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:548</div></div>
 <div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:95</div></div>
-<div class="ttc" id="aclassMotionMaster_html_a46ca73c3acc43c9f0aaef6e847eb79fa"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a46ca73c3acc43c9f0aaef6e847eb79fa">MotionMaster::MoveFollow</a></div><div class="ttdeci">void MoveFollow(Unit *target, float dist, float angle, MovementSlot slot=MOTION_SLOT_ACTIVE, bool inheritWalkState=true)</div><div class="ttdoc">The unit will follow this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:409</div></div>
+<div class="ttc" id="aclassMotionMaster_html_ae59d20f5f912abfb83be3bfc263af04f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MotionMaster::MoveFollow</a></div><div class="ttdeci">void MoveFollow(Unit *target, float dist, float angle, MovementSlot slot=MOTION_SLOT_ACTIVE, bool inheritWalkState=true, bool inheritSpeed=true)</div><div class="ttdoc">The unit will follow this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:409</div></div>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aclassTempSummon_html"><div class="ttname"><a href="../../dc/d88/classTempSummon.html">TempSummon</a></div><div class="ttdef"><b>Definition</b> TemporarySummon.h:40</div></div>
@@ -713,7 +713,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/dbb/structnpc__voidtraveler.html">npc_voidtraveler</a></li>
-    <li class="footer">Generated on Sat Mar 15 2025 06:20:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Mar 16 2025 06:19:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX22 =
 {
+"d0/df3/BattlegroundEY_8h.html#a56a673384477d9182aa49cce3517438aaf2d1cf62ff2fe374a1f609d0a5fd74e0":[7,0,0,0,1,2,8,1,9,8,10],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917e":[7,0,0,0,1,2,8,1,9,12],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea0b0e294985c48f1445e9b89ef440558c":[7,0,0,0,1,2,8,1,9,12,10],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea60adccd4aad27c72c65f56bfc14ae8a7":[7,0,0,0,1,2,8,1,9,12,8],
@@ -145,8 +146,8 @@ var NAVTREEINDEX22 =
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,30,1,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[6,0,11,1,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,30,1,6,1],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,30,1,6,0],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[6,0,11,1,6,0],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,30,1,6,0],
 "d0/df6/classspell__allergies.html":[6,0,2585],
 "d0/df6/classspell__allergies.html#a290913502dfe3dfb42b44a964468b97c":[6,0,2585,1],
 "d0/df6/classspell__allergies.html#ab3bdb3a14c6d130d295553e635acb47c":[6,0,2585,3],
@@ -207,14 +208,14 @@ var NAVTREEINDEX22 =
 "d0/dfc/structNPCStaveQuestAI.html#af7100039ab5cf60a27ead73cc928da32":[6,0,2300,8],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,1,59],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,47],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,47,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,59,1],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,47,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,59,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[6,0,0,47,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[6,0,0,47,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,59,4],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,47,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,1,59,5],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,47,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[5,0,1,59,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[6,0,0,47,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,1,59,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX22 =
 "d0/dff/classUpdateMask.html#aaac0596975c08d04736996c608eff29f":[6,0,4158,16],
 "d0/dff/classUpdateMask.html#ab34e66bf840ac230da0cfa35ef332145":[6,0,4158,17],
 "d0/dff/classUpdateMask.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b":[6,0,4158,18],
-"d0/dff/classUpdateMask.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35":[6,0,4158,15],
-"d0/dff/classUpdateMask.html#ae0cefda1282f8c29a6557e1c25e007de":[6,0,4158,3]
+"d0/dff/classUpdateMask.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35":[6,0,4158,15]
 };

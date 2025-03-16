@@ -1,5 +1,7 @@
 var NAVTREEINDEX152 =
 {
+"d5/db3/CreatureGroups_8h.html":[7,0,0,0,1,2,16,1,4],
+"d5/db3/CreatureGroups_8h.html#a2c3447bf21f430bff136da6811d93a61":[7,0,0,0,1,2,16,1,4,4],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869c":[7,0,0,0,1,2,16,1,4,5],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e":[7,0,0,0,1,2,16,1,4,5,5],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e":[7,0,0,0,1,2,16,1,4,5,1],
@@ -135,12 +137,12 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[6,0,4216,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[6,0,4216,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4216,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,30,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,30,5,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,30,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,30,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,30,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,30,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,5,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,30,5,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[6,0,1731],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2afe114cd3e68b6ce846c5aeb4f82fd5f8":[7,0,0,0,1,3,5,2,0,0,21,9],
 "d5/dbb/boss__argent__challenge_8cpp.html#a38659208ff4b701577643b9dd20a2921":[7,0,0,0,1,3,5,2,0,0,16],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8":[7,0,0,0,1,3,5,2,0,0,20],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a48ae731c4d7333ee118f10b650eafa6a":[7,0,0,0,1,3,5,2,0,0,20,5],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a4c0d7db67ab1ccb401c4fd354d67968b":[7,0,0,0,1,3,5,2,0,0,20,8],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a692f5a65959d73e4e70a6be60c044783":[7,0,0,0,1,3,5,2,0,0,20,4]
+"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a48ae731c4d7333ee118f10b650eafa6a":[7,0,0,0,1,3,5,2,0,0,20,5]
 };
