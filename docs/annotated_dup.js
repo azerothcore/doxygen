@@ -2362,6 +2362,7 @@ var annotated_dup =
     [ "npc_isle_of_conquest_turret", "d6/d6d/classnpc__isle__of__conquest__turret.html", "d6/d6d/classnpc__isle__of__conquest__turret" ],
     [ "npc_jaina_proudmoore_bfu", "df/dde/classnpc__jaina__proudmoore__bfu.html", "df/dde/classnpc__jaina__proudmoore__bfu" ],
     [ "npc_janalai_hatcher", "dc/d39/structnpc__janalai__hatcher.html", "dc/d39/structnpc__janalai__hatcher" ],
+    [ "npc_jenny", "dc/dcb/structnpc__jenny.html", "dc/dcb/structnpc__jenny" ],
     [ "npc_jungle_punch_target", "dc/dcb/classnpc__jungle__punch__target.html", "dc/dcb/classnpc__jungle__punch__target" ],
     [ "npc_kalecgos_kj", "dc/de8/structnpc__kalecgos__kj.html", "dc/de8/structnpc__kalecgos__kj" ],
     [ "npc_karynaku", "de/d66/classnpc__karynaku.html", "de/d66/classnpc__karynaku" ],

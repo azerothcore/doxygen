@@ -5033,6 +5033,7 @@ var hierarchy =
           ] ],
           [ "FollowerAI", "de/d72/classFollowerAI.html", [
             [ "npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI", "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html", null ],
+            [ "npc_jenny", "dc/dcb/structnpc__jenny.html", null ],
             [ "npc_kerlonian::npc_kerlonianAI", "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html", null ],
             [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html", null ],
             [ "npc_ringo::npc_ringoAI", "d7/dec/structnpc__ringo_1_1npc__ringoAI.html", null ],

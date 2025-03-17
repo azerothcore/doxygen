@@ -10,6 +10,7 @@ var zone__borean__tundra_8cpp =
     [ "npc_nerubar_victim::npc_nerubar_victimAI", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI" ],
     [ "npc_lurgglbr", "d3/daa/classnpc__lurgglbr.html", "d3/daa/classnpc__lurgglbr" ],
     [ "npc_lurgglbr::npc_lurgglbrAI", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI.html", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI" ],
+    [ "npc_jenny", "dc/dcb/structnpc__jenny.html", "dc/dcb/structnpc__jenny" ],
     [ "npc_beryl_sorcerer", "de/d3c/classnpc__beryl__sorcerer.html", "de/d3c/classnpc__beryl__sorcerer" ],
     [ "npc_beryl_sorcerer::npc_beryl_sorcererAI", "d2/d18/structnpc__beryl__sorcerer_1_1npc__beryl__sorcererAI.html", "d2/d18/structnpc__beryl__sorcerer_1_1npc__beryl__sorcererAI" ],
     [ "npc_captured_beryl_sorcerer", "d4/d08/classnpc__captured__beryl__sorcerer.html", "d4/d08/classnpc__captured__beryl__sorcerer" ],
@@ -110,6 +111,15 @@ var zone__borean__tundra_8cpp =
       [ "NPC_TEXT_THIS_YOUNG_TUSKARR", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2ad3ddb886288e845bf2f5a2eb8ae0eb57", null ],
       [ "QUEST_SPIRITS_WATCH_OVER_US", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a040eb64d494253cbfc4c3827a7dc5335", null ],
       [ "SPELL_CREATE_TOTEM_OF_ISSLIRUK", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a881a49b3b13e7eae34180a2a08dd674d", null ]
+    ] ],
+    [ "Jenny", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753ea", [
+      [ "EVENT_JENNY_START_FOLLOW", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa4024ad02fa31b228201d11fbec9c6d21", null ],
+      [ "EVENT_JENNY_MOVE_TO_FEZZIX", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaab0ff1d42340a3323d3b025ac6c22404f", null ],
+      [ "EVENT_JENNY_DESPAWN", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaae6bdc12da8e88058f468f069ca7f263a", null ],
+      [ "SPELL_CRATES_CARRIED", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaabb8c2fd739e45ae208f80ef33ec0a5d8", null ],
+      [ "SPELL_DROP_CRATE", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaaae46fbdb48cbc6ec3a220effb7ada8d4", null ],
+      [ "SPELL_GIVE_JENNY_CREDIT", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa5681cf83031a2d10efdb337c6284b03a", null ],
+      [ "NPC_FEZZIX_GEARTWIST", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa11d28e938d92955f4e096347075ac6e0", null ]
     ] ],
     [ "Khunok", "d3/d09/zone__borean__tundra_8cpp.html#a3c4fddc9e17ba9560e22ab30a70a1d89", [
       [ "NPC_ORPHANED_MAMMOTH_CALF", "d3/d09/zone__borean__tundra_8cpp.html#a3c4fddc9e17ba9560e22ab30a70a1d89a3d688ee26e65da6f4b2c4043b113cc5b", null ],

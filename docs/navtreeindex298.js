@@ -1,7 +1,15 @@
 var NAVTREEINDEX298 =
 {
-"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4167,22],
-"dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4167,5],
+"dc/d23/classVehicle.html#a9cf07492fbc0a7a2532ebaea9bc13c5d":[6,0,4168,15],
+"dc/d23/classVehicle.html#aa08c4d4d91b9b773d7675a03ae7695fa":[6,0,4168,20],
+"dc/d23/classVehicle.html#aad793a2337e5cba70ade6638f8550614":[6,0,4168,24],
+"dc/d23/classVehicle.html#ab24082d564a2645571b275ad37befe5b":[6,0,4168,21],
+"dc/d23/classVehicle.html#ab37daaf199009e8d9bd5eacee76b5932":[6,0,4168,37],
+"dc/d23/classVehicle.html#abda487ca98b12c033e7ec07f043c49f3":[6,0,4168,2],
+"dc/d23/classVehicle.html#ad62a34478fb6e6d23e2c156a05ea83c7":[6,0,4168,14],
+"dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4168,36],
+"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4168,22],
+"dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4168,5],
 "dc/d25/classCorruptTriggers.html":[6,0,905],
 "dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,905,2],
 "dc/d25/classCorruptTriggers.html#a5ec60254ee2ac299ce99164189087a1c":[6,0,905,0],
@@ -240,14 +248,6 @@ var NAVTREEINDEX298 =
 "dc/d29/boss__mimiron_8cpp.html#ab0dca2575c382d513c0da2b0dd92d576":[7,0,0,0,1,3,5,9,2,9,40],
 "dc/d29/boss__mimiron_8cpp.html#acb8328e170a92d1db4eabfe0852921c0":[7,0,0,0,1,3,5,9,2,9,34],
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[7,0,0,0,1,3,5,9,2,9,32],
-"dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,2903],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[6,0,2903,3],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[6,0,2903,0],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a1fe8240f5c553ba56ce9c2ff9338f75b":[6,0,2903,1],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a29834c598d6ef8299d54e48a3461e603":[6,0,2903,2],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a5174f07fde3469c2314a3c1fbba5f432":[6,0,2903,4],
-"dc/d29/classspell__gen__clone__weapon__aura.html#ad4c0402ae71e663534ed8fd137a9afd2":[6,0,2903,6],
-"dc/d29/classspell__gen__clone__weapon__aura.html#aeaf16594f569af671d221234a4aa2c8b":[6,0,2903,5],
-"dc/d2a/black__temple_8h.html":[7,0,0,0,1,3,7,1,0],
-"dc/d2a/black__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,1,0,1]
+"dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,2904],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[6,0,2904,3]
 };
