@@ -25,8 +25,13 @@ var spell__warrior_8cpp =
     [ "spell_warr_glyph_of_sunder_armor", "d7/dcd/classspell__warr__glyph__of__sunder__armor.html", "d7/dcd/classspell__warr__glyph__of__sunder__armor" ],
     [ "spell_warr_t3_prot_8p_bonus", "d2/dc9/classspell__warr__t3__prot__8p__bonus.html", "d2/dc9/classspell__warr__t3__prot__8p__bonus" ],
     [ "spell_warr_retaliation", "db/d23/classspell__warr__retaliation.html", "db/d23/classspell__warr__retaliation" ],
+    [ "spell_warr_heroic_strike", "de/daf/classspell__warr__heroic__strike.html", "de/daf/classspell__warr__heroic__strike" ],
     [ "CheatDeath", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376", [
       [ "SPELL_CHEAT_DEATH_TRIGGER", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376ab102180ca5b128f6a6454fc6c45f59d9", null ]
+    ] ],
+    [ "DazeSpells", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0", [
+      [ "ICON_GENERIC_DAZE", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9", null ],
+      [ "SPELL_GENERIC_AFTERMATH", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88", null ]
     ] ],
     [ "MiscSpells", "d8/d08/spell__warrior_8cpp.html#a3525a442f39985394d99136a32ab3f1a", [
       [ "SPELL_PALADIN_BLESSING_OF_SANCTUARY", "d8/d08/spell__warrior_8cpp.html#a3525a442f39985394d99136a32ab3f1aa57f38921251ada6e44d1660c752409f3", null ],

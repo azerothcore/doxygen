@@ -16,6 +16,7 @@ var zone__zuldrak_8cpp =
     [ "go_scourge_enclosure", "d3/d31/classgo__scourge__enclosure.html", "d3/d31/classgo__scourge__enclosure" ],
     [ "npc_storm_cloud", "da/da9/classnpc__storm__cloud.html", "da/da9/classnpc__storm__cloud" ],
     [ "npc_storm_cloud::npc_storm_cloudAI", "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html", "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI" ],
+    [ "spell_scourge_disguise_instability", "d1/d5b/classspell__scourge__disguise__instability.html", "d1/d5b/classspell__scourge__disguise__instability" ],
     [ "AlchemistItemRequirements", "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08", [
       [ "QUEST_ALCHEMIST_APPRENTICE", "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
       [ "NPC_FINKLESTEIN", "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08a5cf7fdaa2ca28bb570bd1dd8edab09e6", null ]
@@ -43,6 +44,7 @@ var zone__zuldrak_8cpp =
       [ "SPELL_THROW_BRIGHT_CRYSTAL", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487aa94c1a28195c93cadf5477e2cb65522f", null ],
       [ "SPELL_TELEPORT_EFFECT", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a6dfb4874a898790c86691547bd4a093c", null ],
       [ "SPELL_SCOURGE_DISGUISE", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a8a59e7b442ce8dbd378d912ed59a4e79", null ],
+      [ "SPELL_SCOURGE_DISGUISE_INSTANT_CAST", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487af4b8c747a57701c734e9bd267b927ee3", null ],
       [ "SPELL_BLIGHT_FOG", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a6e4f243799c8977dcf2c8d31f1f58614", null ],
       [ "SPELL_THROW_PORTAL_CRYSTAL", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a8146d2494e7cb04d6d9350645714161b", null ],
       [ "SPELL_ARTHAS_PORTAL", "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a2f29709d20708b595b8d34d0dcecaba7", null ],
@@ -89,6 +91,11 @@ var zone__zuldrak_8cpp =
       [ "SPELL_KNEEL", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370", null ],
       [ "SAY_RAGECLAW", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a7a8a42222a1947cf47ee480ab22d0c4f", null ]
     ] ],
+    [ "ScourgeDisguiseInstability", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69", [
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_1", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709", null ],
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_2", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69ad69f168a22a9214e61b161bde38a62fe", null ],
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_3", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a8ca03a4ea8749adc0994543e38e6ff74", null ]
+    ] ],
     [ "ScourgeEnclosure", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4b", [
       [ "QUEST_OUR_ONLY_HOPE", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4ba240de8c75d2a585337e19b42ece990e2", null ],
       [ "NPC_GYMER_DUMMY", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4baf3164c424edbb9f3ac7d0fc0c097c7cf", null ],
@@ -104,5 +111,6 @@ var zone__zuldrak_8cpp =
     [ "AddSC_zuldrak", "d7/d1f/zone__zuldrak_8cpp.html#a595341879dbea9e321816938e73a4d7b", null ],
     [ "AA_AURA_ID", "d7/d1f/zone__zuldrak_8cpp.html#a4408cfc9a2f0da1e41850de7868c7b8a", null ],
     [ "AA_ITEM_ENTRY", "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d", null ],
-    [ "AA_ITEM_NAME", "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ]
+    [ "AA_ITEM_NAME", "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ],
+    [ "scourgeDisguiseTextIDs", "d7/d1f/zone__zuldrak_8cpp.html#a6be38154dc707bc5a8c5306ad197cb35", null ]
 ];

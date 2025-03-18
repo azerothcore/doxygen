@@ -1,5 +1,11 @@
 var NAVTREEINDEX101 =
 {
+"d3/d7d/classMovementGenerator.html#aef4cf800aa06dddac4efd36e3c058d2b":[6,0,1520,1],
+"d3/d7d/classspell__putricide__grow__stacker__aura.html":[6,0,3539],
+"d3/d7d/classspell__putricide__grow__stacker__aura.html#a6ef56d3d18bab2f81c810160ecf3ae96":[6,0,3539,3],
+"d3/d7d/classspell__putricide__grow__stacker__aura.html#a7d7f1731c453e5d0b70e6093aeedea87":[6,0,3539,0],
+"d3/d7d/classspell__putricide__grow__stacker__aura.html#aa50c6066115d7b60704eff48e77d10bd":[6,0,3539,2],
+"d3/d7d/classspell__putricide__grow__stacker__aura.html#afff0c81696ddcb427ce105d510ef93b1":[6,0,3539,1],
 "d3/d7d/structNonTankTargetSelector.html":[6,0,1556],
 "d3/d7d/structNonTankTargetSelector.html#a314c5cb35708814844a5c8f72d91511f":[6,0,1556,3],
 "d3/d7d/structNonTankTargetSelector.html#a3a4cf85033650b1d31e9f93ec8e74b22":[6,0,1556,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d83/structboss__hungarfen.html#a1765bd54c04a3479e837b3d0e241300e":[6,0,536,3],
 "d3/d83/structboss__hungarfen.html#a3612bb373ecdba4245587fd94257ba62":[6,0,536,1],
 "d3/d83/structboss__hungarfen.html#a4b310eff8af9a33c50ae8f2035ba76ad":[6,0,536,2],
-"d3/d83/structboss__hungarfen.html#a702185681abb6cfc4add7078ff5bbb52":[6,0,536,4],
-"d3/d84/LFGScripts_8cpp.html":[7,0,0,0,1,2,15,10],
-"d3/d84/LFGScripts_8cpp.html#a9624b9328e26a9f420a4a3f07e253763":[7,0,0,0,1,2,15,10,0],
-"d3/d84/PoolMgr_8h.html":[7,0,0,0,1,2,34,1],
-"d3/d84/PoolMgr_8h.html#a54dd98ebecf13a92dd29f7d3789d5b56":[7,0,0,0,1,2,34,1,11],
-"d3/d84/PoolMgr_8h.html#a6fd2b29871e3f63cf9cc493968a0ab74":[7,0,0,0,1,2,34,1,7],
-"d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85":[7,0,0,0,1,2,34,1,6]
+"d3/d83/structboss__hungarfen.html#a702185681abb6cfc4add7078ff5bbb52":[6,0,536,4]
 };

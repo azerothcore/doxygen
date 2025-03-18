@@ -1,5 +1,11 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1ba62624203ab6be95ae8c4f924e9ae685b":[7,0,0,0,1,3,2,4,0,7,1],
+"d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1ba7e5b57a30ed4e17419134053fd123866":[7,0,0,0,1,3,2,4,0,7,2],
+"d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1bac2b767c4ef16336216404d645a4cf321":[7,0,0,0,1,3,2,4,0,7,0],
+"d2/d22/boss__chess__event_8cpp.html#a2165168ff8b2e0eb34f60d2a911a2f43":[7,0,0,0,1,3,2,4,0,17],
+"d2/d22/boss__chess__event_8cpp.html#a402b72f8be30cf4ebdbe49113ad0347f":[7,0,0,0,1,3,2,4,0,16],
+"d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7e":[7,0,0,0,1,3,2,4,0,9],
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea1b143867def82033bba19ae4dca7a628":[7,0,0,0,1,3,2,4,0,9,6],
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea3d4da4d4284ea30c63f16bf9d8e727ff":[7,0,0,0,1,3,2,4,0,9,3],
 "d2/d22/boss__chess__event_8cpp.html#a776f00400884bd1d84aefbb93a4b4b7ea5ba4627583e29f7ea8ba97cd92289fff":[7,0,0,0,1,3,2,4,0,9,7],
@@ -131,11 +137,11 @@ var NAVTREEINDEX52 =
 "d2/d23/classnpc__mcmanus.html#a5e8c37ebcfa737ee3066ab8df3e453f8":[6,0,1950,2],
 "d2/d23/classnpc__mcmanus.html#acb8f8b9c10387c0bb45b7d68f7f9821f":[6,0,1950,1],
 "d2/d23/namespaceboost_1_1system.html":[5,0,8,3],
-"d2/d23/structWMODoodadData.html":[6,0,4227],
-"d2/d23/structWMODoodadData.html#a07f0d7daa9cd934768b8a603dc52bea3":[6,0,4227,1],
-"d2/d23/structWMODoodadData.html#a43774f8dd70e85e16aa8d49b5c6a25b6":[6,0,4227,2],
-"d2/d23/structWMODoodadData.html#a51f24c059516683f0744b81819186c0e":[6,0,4227,3],
-"d2/d23/structWMODoodadData.html#aff167c694a55441bcf5504f5d1933f41":[6,0,4227,0],
+"d2/d23/structWMODoodadData.html":[6,0,4229],
+"d2/d23/structWMODoodadData.html#a07f0d7daa9cd934768b8a603dc52bea3":[6,0,4229,1],
+"d2/d23/structWMODoodadData.html#a43774f8dd70e85e16aa8d49b5c6a25b6":[6,0,4229,2],
+"d2/d23/structWMODoodadData.html#a51f24c059516683f0744b81819186c0e":[6,0,4229,3],
+"d2/d23/structWMODoodadData.html#aff167c694a55441bcf5504f5d1933f41":[6,0,4229,0],
 "d2/d25/arcatraz_8h.html":[7,0,0,0,1,3,7,5,0,1],
 "d2/d25/arcatraz_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,5,0,1,1],
 "d2/d25/arcatraz_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,7,5,0,1,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6cad0b9e3d049c7df9b0ca9c2d0d461a25d":[7,0,0,0,1,2,36,2,17,4],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caeb1be76328219029c8b20345c76e9dd7":[7,0,0,0,1,2,36,2,17,7],
 "d2/d27/QuestDef_8h.html#a7dab6182ee1bbabf205ed30f9c2d6c8b":[7,0,0,0,1,2,36,2,9],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47c":[7,0,0,0,1,2,36,2,16],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca00e51fd29f4182b118050cb8863b02bb":[7,0,0,0,1,2,36,2,16,11],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca05e7e7ed2a08121777ed61d1f76b7015":[7,0,0,0,1,2,36,2,16,2],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca16e6bbf1bd0e4cc59521b0e5e4ed670e":[7,0,0,0,1,2,36,2,16,14],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca181224ba9ec349046a6854d434d2dee6":[7,0,0,0,1,2,36,2,16,13],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca20e759d47e01a7f13e5cdd8a64e8ee37":[7,0,0,0,1,2,36,2,16,0],
-"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca283d922550379b7e32399ccdde439869":[7,0,0,0,1,2,36,2,16,6]
+"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47c":[7,0,0,0,1,2,36,2,16]
 };

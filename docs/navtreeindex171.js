@@ -1,5 +1,11 @@
 var NAVTREEINDEX171 =
 {
+"d6/d68/classspell__gen__bg__preparation.html#a0732bf60822bbb547be014566d0e092c":[6,0,2891,5],
+"d6/d68/classspell__gen__bg__preparation.html#aa463442b994b6275b2e12fe06ae7805c":[6,0,2891,2],
+"d6/d68/classspell__gen__bg__preparation.html#accf6cc89fed8dbf7c3cee201f1e9e806":[6,0,2891,0],
+"d6/d68/classspell__gen__bg__preparation.html#ad96a6059cb2f4bdf8e2b341d0a6e294f":[6,0,2891,4],
+"d6/d68/classspell__gen__bg__preparation.html#aff726eef4dbd10dd71f1614ab6755ea1":[6,0,2891,3],
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html":[6,0,2192,0],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a0caf2b2d48c78b2eb032ff73168e2556":[6,0,2192,0,12],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a0eb0c24aff4cdab76d234ba17dbc4b5b":[6,0,2192,0,13],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a2485ad15002946c0c5b2ebce65221629":[6,0,2192,0,8],
@@ -192,10 +198,10 @@ var NAVTREEINDEX171 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3362,2],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
 "d6/d75/boss__varos_8cpp.html#a075a51f16e112a721f01da6beedbbb6f":[7,0,0,0,1,3,5,8,2,3,2],
 "d6/d75/boss__varos_8cpp.html#a088f90a94bfd48bdd631e135332dee31":[7,0,0,0,1,3,5,8,2,3,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[6,0,284,11,1],
 "d6/d75/classboss__emperor__dagran__thaurissan.html":[6,0,439],
 "d6/d75/classboss__emperor__dagran__thaurissan.html#a8332d74b5aa1528d5687084932419ad1":[6,0,439,1],
-"d6/d75/classboss__emperor__dagran__thaurissan.html#aca2c4ca4e32ce75d95b42ddd88c4dc99":[6,0,439,2],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html":[6,0,1580,0],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a0a073e4c216985607aa51099044ff6c5":[6,0,1580,0,4],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a0bda0f95bd97b9e755a745a8ea41ba49":[6,0,1580,0,3],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a44b06a6a977d20b03ed663f1090ed43c":[6,0,1580,0,5],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a9b77f94f112477509c3163945ceb8201":[6,0,1580,0,1],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#ab09c72c4ea50313c23a53d3862aeddea":[6,0,1580,0,2]
+"d6/d75/classboss__emperor__dagran__thaurissan.html#aca2c4ca4e32ce75d95b42ddd88c4dc99":[6,0,439,2]
 };

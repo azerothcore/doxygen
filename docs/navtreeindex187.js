@@ -1,5 +1,17 @@
 var NAVTREEINDEX187 =
 {
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ad20a9730af3088d93ac56d89b6f66b12":[5,0,30,4,0,4],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ad20a9730af3088d93ac56d89b6f66b12":[6,0,11,4,0,4],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#af7d49b8d57100cf2c3048d5415a4edc7":[5,0,30,4,0,1],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#af7d49b8d57100cf2c3048d5415a4edc7":[6,0,11,4,0,1],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html":[5,0,30,5,34],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html":[6,0,11,5,34],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a1a0acf334d88751e94257ff76c9e3fd8":[6,0,11,5,34,2],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a1a0acf334d88751e94257ff76c9e3fd8":[5,0,30,5,34,2],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[6,0,11,5,34,4],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[5,0,30,5,34,4],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[6,0,11,5,34,0],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[5,0,30,5,34,0],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[6,0,11,5,34,1],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[5,0,30,5,34,1],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[6,0,11,5,34,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d46/classAuraEffect.html#adc38a016285e442a485c9b9bc17a6105":[6,0,281,200],
 "d7/d46/classAuraEffect.html#add3e6484132f5de2d6bfe76c0f2b21ae":[6,0,281,110],
 "d7/d46/classAuraEffect.html#adf85e6ba3ad0ec021f53683452002782":[6,0,281,85],
-"d7/d46/classAuraEffect.html#ae0e6dfd8b1d19f6f3ab0d60f65e4427a":[6,0,281,195],
-"d7/d46/classAuraEffect.html#ae1672988a44e4d7f5d73c561892a9c72":[6,0,281,99],
-"d7/d46/classAuraEffect.html#ae2accb6290e6f7ee84c9588d641898d4":[6,0,281,150],
-"d7/d46/classAuraEffect.html#ae3645d469d5dfd1240fb9f9af3a83920":[6,0,281,77],
-"d7/d46/classAuraEffect.html#ae4ae88f1abefd9f50e42dce8e928b1c9":[6,0,281,181],
-"d7/d46/classAuraEffect.html#ae5aa79360f973fbe4026586ef2eeda03":[6,0,281,137],
-"d7/d46/classAuraEffect.html#ae5ad5d0e3406e96a0f5e5f58d2c133ce":[6,0,281,102],
-"d7/d46/classAuraEffect.html#ae72fd00fd9b6b1f1d19e8f5e3d62c6ee":[6,0,281,159],
-"d7/d46/classAuraEffect.html#ae7c56dc7da49ce169af1d32d111b2a57":[6,0,281,48],
-"d7/d46/classAuraEffect.html#aea3300db680ab47876dbc7ae45c08d18":[6,0,281,226],
-"d7/d46/classAuraEffect.html#aea6f4b8bd401df6979e6df65f3fd841e":[6,0,281,0],
-"d7/d46/classAuraEffect.html#aeeed00e5103faf76fec0eb8f88b8d071":[6,0,281,112],
-"d7/d46/classAuraEffect.html#af27fe9a06b1ec4e7feb0249926d69dba":[6,0,281,69]
+"d7/d46/classAuraEffect.html#ae0e6dfd8b1d19f6f3ab0d60f65e4427a":[6,0,281,195]
 };
