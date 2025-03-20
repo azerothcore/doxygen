@@ -1,5 +1,10 @@
 var NAVTREEINDEX388 =
 {
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2037,0,3],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2037,0,7],
+"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html":[6,0,1830,0],
+"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a1fe70428102a0319031179c97f02cbab":[6,0,1830,0,7],
+"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a527628708354414caea85b6bec3d0f1d":[6,0,1830,0,8],
 "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a765ef78cf5c30b1c46da303f4bbeb4d9":[6,0,1830,0,6],
 "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a833adc603d6d0b2eb03ea34b925f88b0":[6,0,1830,0,3],
 "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a9cf989be7062743685b2357309889585":[6,0,1830,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX388 =
 "df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,819,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1941,0],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1941,0,6],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1941,0,4],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1941,0,5],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1941,0,2],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1941,0,3],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1941,0,7],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1941,0,0]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1941,0,4]
 };

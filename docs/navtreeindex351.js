@@ -1,5 +1,10 @@
 var NAVTREEINDEX351 =
 {
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,24],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,24,2],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,24,1],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,24,5],
+"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa98c7454ab11639256776039df0d734ed":[7,0,0,0,1,3,9,7,24,3],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa9bfaa0e89cf08c8ab24187cae961c97c":[7,0,0,0,1,3,9,7,24,0],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fad6392938a0dad3deb3aa4baf51a0f6a4":[7,0,0,0,1,3,9,7,24,4],
 "de/d21/spell__priest_8cpp.html#a76dafc0c87fe43a1d174f254d1822859":[7,0,0,0,1,3,9,7,28],
@@ -244,10 +249,5 @@ var NAVTREEINDEX351 =
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3201,0],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1994],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1994,2],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1994,1],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2225,0],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2225,0,1],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d":[6,0,2225,0,4],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a585437dff0c49ac1a6bf7929ab266ff5":[6,0,2225,0,0],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ab9113a021844aa7ea8ac46df9c50b205":[6,0,2225,0,2]
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1994,1]
 };

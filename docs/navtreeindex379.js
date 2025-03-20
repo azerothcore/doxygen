@@ -1,5 +1,10 @@
 var NAVTREEINDEX379 =
 {
+"df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[6,0,316,2],
+"df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,316,0],
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[6,0,815],
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a01ceb11072dfedbd099c2461f817c895":[6,0,815,0],
+"df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html":[6,0,479,0],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#a7021d13dceb9af343f0e820cf086046e":[6,0,479,0,3],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#a972bd7d390d444e0ea2bc513d5d3816a":[6,0,479,0,1],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#ae421aa209690e4a2908995b6b7d322cd":[6,0,479,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX379 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ad02faa4408614d29ad5a5815f9c5af16":[5,0,27,22,25],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[5,0,27,22,31],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[6,0,9,22,31],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,27,22,10],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[6,0,9,22,10],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[6,0,9,22,24],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[5,0,27,22,24],
-"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,27,22,28],
-"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,9,22,28]
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,27,22,10]
 };

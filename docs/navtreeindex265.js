@@ -1,5 +1,9 @@
 var NAVTREEINDEX265 =
 {
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#accc43068aa0a7f62d6fabfb85acb1498":[6,0,2071,0,2],
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#ae78dc64f858573b234210ca175e5bdd9":[6,0,2071,0,6],
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#aef3a1631b4bb8d28d4056036981b0192":[6,0,2071,0,3],
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#aff6e86057086db1319bb680e52e41634":[6,0,2071,0,4],
 "da/ddc/classSmartAI.html":[6,0,2550],
 "da/ddc/classSmartAI.html#a0703303e75e72db47a04204e8c5f1710":[6,0,2550,0],
 "da/ddc/classSmartAI.html#a07852e36657f8d0f66063825c825812a":[6,0,2550,90],
@@ -240,14 +244,10 @@ var NAVTREEINDEX265 =
 "da/de4/classlfg_1_1Lfg5Guids.html":[5,0,18,0],
 "da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[5,0,18,0,10],
 "da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[6,0,5,0,10],
-"da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,18,0,5],
 "da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[6,0,5,0,5],
-"da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[5,0,18,0,7],
+"da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,18,0,5],
 "da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[6,0,5,0,7],
+"da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[5,0,18,0,7],
 "da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[6,0,5,0,17],
-"da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[5,0,18,0,17],
-"da/de4/classlfg_1_1Lfg5Guids.html#a254e125e26aa95f51bf8f226507e71c6":[5,0,18,0,19],
-"da/de4/classlfg_1_1Lfg5Guids.html#a254e125e26aa95f51bf8f226507e71c6":[6,0,5,0,19],
-"da/de4/classlfg_1_1Lfg5Guids.html#a34c689c4c3e7f3754fa5d30cc95f524b":[6,0,5,0,18],
-"da/de4/classlfg_1_1Lfg5Guids.html#a34c689c4c3e7f3754fa5d30cc95f524b":[5,0,18,0,18]
+"da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[5,0,18,0,17]
 };

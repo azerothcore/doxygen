@@ -1,5 +1,9 @@
 var NAVTREEINDEX205 =
 {
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html":[6,0,2336],
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html#a8ef74076d03225c889c6f027fbbfe25d":[6,0,2336,0],
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html#aee93a8191457d7a264053809a5c082e8":[6,0,2336,1],
+"d7/dec/classspell__q11322__q11317__the__cleansing.html":[6,0,3588],
 "d7/dec/classspell__q11322__q11317__the__cleansing.html#accfab0bada4faf21178e3f67a79c6dfe":[6,0,3588,3],
 "d7/dec/classspell__q11322__q11317__the__cleansing.html#ad61e8c804e59ca0623748acde69aeddb":[6,0,3588,1],
 "d7/dec/classspell__q11322__q11317__the__cleansing.html#aefedb14e99d2e60abfd58f7778deb39b":[6,0,3588,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX205 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2acf8ee0729f52b2faf0dbdb070b0d80d5":[7,0,0,0,1,2,16,10,6,5,14],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ad78130becc220b0cbf9036e1a74fa960":[7,0,0,0,1,2,16,10,6,5,6],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae122f3cacfbbd7b91297fd427fdfa602":[7,0,0,0,1,2,16,10,6,5,7],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae1bb7b9e3ed002517b2a8756d473f2e6":[7,0,0,0,1,2,16,10,6,5,13],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aee8ff901aca85eef5e74e278c4e7c083":[7,0,0,0,1,2,16,10,6,5,5],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aef868440d7c3da43fe9cde0cea10385f":[7,0,0,0,1,2,16,10,6,5,19],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2af5789ff5df78d3483e816ce1933ea4e3":[7,0,0,0,1,2,16,10,6,5,16],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2af7e06b8b4d7b6d6bb16accfa1c48409d":[7,0,0,0,1,2,16,10,6,5,15]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae1bb7b9e3ed002517b2a8756d473f2e6":[7,0,0,0,1,2,16,10,6,5,13]
 };

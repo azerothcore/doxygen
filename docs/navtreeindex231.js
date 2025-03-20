@@ -1,5 +1,9 @@
 var NAVTREEINDEX231 =
 {
+"d9/d3a/classVec2D.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4":[6,0,4168,8],
+"d9/d3a/classVec2D.html#a9fcc28ff8ce75133e2df1977e484752d":[6,0,4168,1],
+"d9/d3a/classVec2D.html#aa93a7bd272380f3ab14ace62a90bb628":[6,0,4168,3],
+"d9/d3a/classVec2D.html#acd5750b1090398a34acda59a60aaf1cc":[6,0,4168,9],
 "d9/d3a/classVec2D.html#ad11003cd2e77b3fb8842c6d08a9015a6":[6,0,4168,13],
 "d9/d3a/classVec2D.html#ad66db7fcc2684dedb47d020c84320673":[6,0,4168,11],
 "d9/d3a/classVec2D.html#aef1e5692cc26e743df07eea6f52ad769":[6,0,4168,18],
@@ -245,9 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a81a1382493091a99cae1c2bb580a7f32":[6,0,1699,0,6],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b":[6,0,1699,0,2],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee":[6,0,1699,0,9],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b":[6,0,1699,0,8],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa8b9a05d3c7d89aa054af919672a69ec":[6,0,1699,0,5],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e":[6,0,1699,0,10],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ab7a8f6423e12ca0ea9bcb085594013a2":[6,0,1699,0,3],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ae92384763b3cfe4a4bc4180d1c404456":[6,0,1699,0,7]
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b":[6,0,1699,0,8]
 };

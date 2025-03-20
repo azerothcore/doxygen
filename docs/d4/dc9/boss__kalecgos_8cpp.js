@@ -28,6 +28,10 @@ var boss__kalecgos_8cpp =
       [ "SPELL_CORRUPTION_STRIKE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca687a302170a67d79baee3f00c477675f", null ],
       [ "SPELL_CURSE_OF_BOUNDLESS_AGONY", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298cae78ecaf717328c161471dfdaaced89f2", null ],
       [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_PLR", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caa862c8513866200a59b644da6348f5d3", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_REMOVE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca380c23af92f98cc5c8ad02607a323958", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_DUMMY_1", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298caba9a655f979f455affe19a930c33d653", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_DUMMY_2", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ce64933c43c12ab60e893e7a8a32437", null ],
+      [ "SPELL_CURSE_OF_BOUNDLESS_AGONY_DUMMY_3", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d50e7a7f88e9373d57bc59b4a0d8849", null ],
       [ "SPELL_SHADOW_BOLT", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
       [ "SPELL_HEROIC_STRIKE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca9fe775d82acd6008689a7d2a3b35c422", null ],
       [ "SPELL_REVITALIZE", "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e5dc2355b4c7f5dd45b4bfcc98cf7df", null ]

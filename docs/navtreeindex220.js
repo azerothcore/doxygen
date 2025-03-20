@@ -1,5 +1,9 @@
 var NAVTREEINDEX220 =
 {
+"d8/d9f/structboss__festergut_1_1boss__festergutAI.html":[6,0,463,0],
+"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a001e00435bb01b464573dbff8338c64a":[6,0,463,0,1],
+"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a0c6684365e711d48f4f4ffc4a2b4e524":[6,0,463,0,10],
+"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a3af6cacb219928c3c89f7ce3d980ae88":[6,0,463,0,6],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a5807cd013ebe935f69bc1824386afd72":[6,0,463,0,7],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a742b6ab0990d54e011ac36fde2c2cca2":[6,0,463,0,12],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a7649f45cfc8bf05bf46b4e50319b4fb3":[6,0,463,0,0],
@@ -219,8 +223,8 @@ var NAVTREEINDEX220 =
 "d8/db1/classnpc__counselor__talbot.html#a9223380bb78afeda617482bea0a3110c":[6,0,1702,1],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,24],
-"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[6,0,0,5,0,24,0],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[5,0,1,8,0,24,0],
+"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[6,0,0,5,0,24,0],
 "d8/db2/classspell__gen__mine__sweeper.html":[6,0,2947],
 "d8/db2/classspell__gen__mine__sweeper.html#a06f9cf29387b49f3e5950661173c77eb":[6,0,2947,1],
 "d8/db2/classspell__gen__mine__sweeper.html#a20a7b3a25711a90ab5f0e14991112ea0":[6,0,2947,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX220 =
 "d8/db3/ScriptLoader_8h.html#abb65cb085124c346fd32ac4b92f0baa9":[7,0,0,0,1,3,11,0],
 "d8/db3/classSystemMgr.html":[6,0,4080],
 "d8/db3/classSystemMgr.html#a3603d019adf647df9f314a7ca61a25dd":[6,0,4080,7],
-"d8/db3/classSystemMgr.html#a4c90cb038afeb09c107979348bd3ca01":[6,0,4080,6],
-"d8/db3/classSystemMgr.html#a71b78a44a3656802d55211d68fb19e12":[6,0,4080,4],
-"d8/db3/classSystemMgr.html#a777e97ebcf367638578d1c189480ad99":[6,0,4080,0],
-"d8/db3/classSystemMgr.html#ab192b30aa7ff1edd27bb23e87a7ac4c5":[6,0,4080,2],
-"d8/db3/classSystemMgr.html#ac7fd54676b46afcbc520e4c58fcdce75":[6,0,4080,1]
+"d8/db3/classSystemMgr.html#a4c90cb038afeb09c107979348bd3ca01":[6,0,4080,6]
 };

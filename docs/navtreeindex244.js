@@ -1,5 +1,9 @@
 var NAVTREEINDEX244 =
 {
+"d9/df7/classConditionMgr.html#a211b7abd42fadc98fecabf9535a44503":[6,0,886,6],
+"d9/df7/classConditionMgr.html#a29cb4c27dc6d7ee0c1c2bc6476322144":[6,0,886,5],
+"d9/df7/classConditionMgr.html#a38b84732f57e94a52643332744b1e29b":[6,0,886,21],
+"d9/df7/classConditionMgr.html#a45c35988ebac603c3832989ae9ab430e":[6,0,886,16],
 "d9/df7/classConditionMgr.html#a4ab5a6492af8ab2f49df6af18064e565":[6,0,886,3],
 "d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5":[6,0,886,28],
 "d9/df7/classConditionMgr.html#a5380d2398f825f5c6997b0f3d3a412f7":[6,0,886,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabb1b0edc1965fbd31cd4e7b5f4ea7f7e":[7,0,0,0,1,3,5,9,2,16,4,11],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfad5ac6ac2a79ce0063f16652a975d0f48":[7,0,0,0,1,3,5,9,2,16,4,13],
 "d9/df8/classboss__flame__leviathan__seat.html":[6,0,470],
-"d9/df8/classboss__flame__leviathan__seat.html#a0e17225aeb93e0a5f5442c4ac2362af8":[6,0,470,2],
-"d9/df8/classboss__flame__leviathan__seat.html#a0fc90640a5142d889f1c043270582a16":[6,0,470,1],
-"d9/df9/classinstance__hellfire__ramparts.html":[6,0,1301],
-"d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1301,2],
-"d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1301,1]
+"d9/df8/classboss__flame__leviathan__seat.html#a0e17225aeb93e0a5f5442c4ac2362af8":[6,0,470,2]
 };

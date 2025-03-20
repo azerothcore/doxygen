@@ -1,5 +1,9 @@
 var NAVTREEINDEX237 =
 {
+"d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311":[6,0,943,10],
+"d9/d7e/classDatabaseLoader.html#af0cd17307aa123f7e390aa67cab3d0d3":[6,0,943,5],
+"d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb":[6,0,943,7],
+"d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI.html":[6,0,2089,0],
 "d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI.html#a084e80b43b5b30b5e1794feff305e9b3":[6,0,2089,0,4],
 "d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI.html#a3539847efa7014a8e31a78ace83b6bc5":[6,0,2089,0,2],
 "d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI.html#a4256e3bc9f6678dc85a3b702e1c531f8":[6,0,2089,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ace47f30304fac10a2ca4b5b84b41d940":[7,0,0,0,1,3,5,9,2,1,26,13],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ad4b548d07dd6c22c83c4e35e9120d884":[7,0,0,0,1,3,5,9,2,1,26,0],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ae487e118e49537a7652f19dd68af9247":[7,0,0,0,1,3,5,9,2,1,26,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[7,0,0,0,1,3,5,9,2,1,26,5],
-"d9/d88/structCreatureTypeEntry.html":[6,0,933],
-"d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[6,0,933,0],
-"d9/d89/classspellIdImmunityPredicate.html":[6,0,4028],
-"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[6,0,4028,0]
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[7,0,0,0,1,3,5,9,2,1,26,5]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX153 =
 {
+"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a0c69c7058795a1f1d53bae31c1c9585c":[7,0,0,0,1,3,5,2,0,0,21,10],
+"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,2,0,0,21,13],
+"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a370d5ef400850e366f326e0f688ee21e":[7,0,0,0,1,3,5,2,0,0,21,2],
+"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a39db0276458ae6d51f3693a9deb4d91f":[7,0,0,0,1,3,5,2,0,0,21,8],
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a509b7bd1a5ffcdb898fa79b077235eb5":[7,0,0,0,1,3,5,2,0,0,21,12],
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,5,2,0,0,21,1],
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a5a77fcbded560651d13c7b9d6468e0d9":[7,0,0,0,1,3,5,2,0,0,21,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX153 =
 "d5/dc7/instance__zulgurub_8cpp.html#a808ff75d7f4ab6555cdc154544ef727f":[7,0,0,0,1,3,2,16,13,5],
 "d5/dc7/structSpellEntry.html":[6,0,4025],
 "d5/dc7/structSpellEntry.html#a00a5387370626b3d3226aad2d6cbd1e7":[6,0,4025,58],
-"d5/dc7/structSpellEntry.html#a01ae6a511d376108e881b7edec05a176":[6,0,4025,10],
-"d5/dc7/structSpellEntry.html#a02efa758843fe61875423b7fcb7f6853":[6,0,4025,34],
-"d5/dc7/structSpellEntry.html#a04f28f2ea6566ac47831c7b7489b80f9":[6,0,4025,1],
-"d5/dc7/structSpellEntry.html#a0950ec765d6abb0b737183efbeb3453b":[6,0,4025,39],
-"d5/dc7/structSpellEntry.html#a0a13acd00c60f49be0ccbfccc1fcfbba":[6,0,4025,19]
+"d5/dc7/structSpellEntry.html#a01ae6a511d376108e881b7edec05a176":[6,0,4025,10]
 };

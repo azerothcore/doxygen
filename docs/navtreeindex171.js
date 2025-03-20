@@ -1,5 +1,9 @@
 var NAVTREEINDEX171 =
 {
+"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aba8a7ffa7c59b363812d39c2f84cfb06":[7,0,0,0,1,3,4,0,0,2,0],
+"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63abcae9a686a3fb104589eda4fc2962bdd":[7,0,0,0,1,3,4,0,0,2,5],
+"d6/d68/classspell__gen__bg__preparation.html":[6,0,2891],
+"d6/d68/classspell__gen__bg__preparation.html#a04efbc64bfa0312bc1f372e403803c32":[6,0,2891,1],
 "d6/d68/classspell__gen__bg__preparation.html#a0732bf60822bbb547be014566d0e092c":[6,0,2891,5],
 "d6/d68/classspell__gen__bg__preparation.html#aa463442b994b6275b2e12fe06ae7805c":[6,0,2891,2],
 "d6/d68/classspell__gen__bg__preparation.html#accf6cc89fed8dbf7c3cee201f1e9e806":[6,0,2891,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006addc188f99f0b762351bb96375b425168":[7,0,0,0,1,3,5,8,2,3,8,2],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[6,0,284,11],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b":[6,0,284,11,2],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[6,0,284,11,0],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[6,0,284,11,1],
-"d6/d75/classboss__emperor__dagran__thaurissan.html":[6,0,439],
-"d6/d75/classboss__emperor__dagran__thaurissan.html#a8332d74b5aa1528d5687084932419ad1":[6,0,439,1],
-"d6/d75/classboss__emperor__dagran__thaurissan.html#aca2c4ca4e32ce75d95b42ddd88c4dc99":[6,0,439,2]
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[6,0,284,11,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX270 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a6d45699d2efacdc0aca88dba3f67d20a":[6,0,681,0,3],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,681,0,15],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,681,0,8],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aadd3b8f29b49b67685d67036c5f2775f":[6,0,681,0,13],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,681,0,9],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab9c3a5d19c966e547328ce2a28674069":[6,0,681,0,19],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac0a2915976f7dfb21786c161d5e43d3f":[6,0,681,0,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX270 =
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a258f55153ad857fbf35545cfb87c3d3a":[6,0,1729,0,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a517f7412208de83604d0d6806fbc0b34":[6,0,1729,0,4],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a686314ffe4a588a1ba8722a6cab56fc7":[6,0,1729,0,10],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a92a6cbe0515752440284d18bae0adf66":[6,0,1729,0,3],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ab4fb75f1b84c2722f936387a6942028b":[6,0,1729,0,5],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1729,0,7],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#acf362c9e3eb844db9f66cc8c969cd22e":[6,0,1729,0,8],
-"db/d1b/SkillExtraItems_8cpp.html":[7,0,0,0,1,2,40,2]
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a92a6cbe0515752440284d18bae0adf66":[6,0,1729,0,3]
 };

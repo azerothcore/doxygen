@@ -1,5 +1,9 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,134,1],
 "d9/dc5/classboss__prince__valanar__icc.html":[6,0,658],
 "d9/dc5/classboss__prince__valanar__icc.html#a2f7f58d57f5ed107d1f972d061105fd4":[6,0,658,2],
 "d9/dc5/classboss__prince__valanar__icc.html#a7bfa4e13fa5cc19313c7ce9877d1c631":[6,0,658,1],
@@ -110,10 +114,10 @@ var NAVTREEINDEX241 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dca/cs__event_8cpp.html":[7,0,0,0,1,3,0,13],
 "d9/dca/cs__event_8cpp.html#a4f3834f706dcb17ca67ce6513f6aecad":[7,0,0,0,1,3,0,13,2],
 "d9/dca/cs__event_8cpp.html#accd9dac141ffd4618bb7d3f69e8eb716":[7,0,0,0,1,3,0,13,1],
-"d9/dca/firework__show_8cpp.html":[7,0,0,0,1,3,3,0,0],
-"d9/dca/firework__show_8cpp.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e":[7,0,0,0,1,3,3,0,0,2],
-"d9/dca/firework__show_8cpp.html#af7a6296c13b6615a14e0823fe7e5b577":[7,0,0,0,1,3,3,0,0,1],
-"d9/dcc/classnpc__swarm__scarab.html":[6,0,2142],
-"d9/dcc/classnpc__swarm__scarab.html#a1d0969526e57ca50c9a499c83f978fd2":[6,0,2142,1]
+"d9/dca/firework__show_8cpp.html":[7,0,0,0,1,3,3,0,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX360 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#ad067bb1f295e778d4c08b5bbc8630965":[6,0,6,1,7],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad067bb1f295e778d4c08b5bbc8630965":[5,0,20,1,7],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[6,0,6,1,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,20,1,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[6,0,6,1,5],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[5,0,20,1,5],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[5,0,20,1,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[6,0,6,1,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX360 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[7,0,0,0,1,3,2,4,5,4],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[7,0,0,0,1,3,2,4,5,4,1],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[7,0,0,0,1,3,2,4,5,4,0],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
-"de/d87/classWaypointMovementGenerator.html":[6,0,4205],
-"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
-"de/d87/structSpawnAssociation.html":[6,0,2565],
-"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2565,1],
-"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[6,0,2565,0]
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2]
 };

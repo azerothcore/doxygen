@@ -1,5 +1,9 @@
 var NAVTREEINDEX242 =
 {
+"d9/dca/firework__show_8cpp.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e":[7,0,0,0,1,3,3,0,0,2],
+"d9/dca/firework__show_8cpp.html#af7a6296c13b6615a14e0823fe7e5b577":[7,0,0,0,1,3,3,0,0,1],
+"d9/dcc/classnpc__swarm__scarab.html":[6,0,2142],
+"d9/dcc/classnpc__swarm__scarab.html#a1d0969526e57ca50c9a499c83f978fd2":[6,0,2142,1],
 "d9/dcc/classnpc__swarm__scarab.html#ae12fe8a7c6ee09fc16bd152f59c2d936":[6,0,2142,2],
 "d9/dcc/classnpc__torturer__lecraft.html":[6,0,2194],
 "d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[6,0,2194,1],
@@ -188,14 +192,14 @@ var NAVTREEINDEX242 =
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,65,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,77,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,65,3],
-"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,65,5],
+"d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,77,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,77,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,65,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,65,0],
-"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,77,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,65,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,77,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,284,10],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a15c0b24641cb04f31bb3d651dae59448":[6,0,284,10,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a5ca2a9c329a7dbbb7e835849ca4479aa":[6,0,284,10,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX242 =
 "d9/de5/classspell__hun__cower.html#a83bf0327aade6f6a33293a442ad10911":[6,0,3078,0],
 "d9/de5/classspell__hun__cower.html#aa964f4eb7391dab54ff744fc94306de1":[6,0,3078,1],
 "d9/de6/CharacterHandler_8cpp.html":[7,0,0,0,1,2,22,9],
-"d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,170],
-"d9/de7/classAreaTrigger__at__nats__landing.html#a67434f74300fa3463e679afb7d344467":[6,0,170,1],
-"d9/de7/classAreaTrigger__at__nats__landing.html#ac366e5b1db489b4f8bb8a1d07caa83c2":[6,0,170,0],
-"d9/de7/classFrostwyrmLandEvent.html":[6,0,1063],
-"d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[6,0,1063,1]
+"d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,170]
 };

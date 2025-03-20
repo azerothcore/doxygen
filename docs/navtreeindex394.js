@@ -1,5 +1,10 @@
 var NAVTREEINDEX394 =
 {
+"df/dd9/classUnit.html#ae78759acca81e2a89a82f79a4ef6e70c":[6,0,4151,250],
+"df/dd9/classUnit.html#ae7f942c448b14628617639978bf6bd00":[6,0,4151,696],
+"df/dd9/classUnit.html#ae86065c1dbcbc5f52a76189ae57c8377":[6,0,4151,111],
+"df/dd9/classUnit.html#ae87b8ae0a14aa04cc311850322fe45b7":[6,0,4151,738],
+"df/dd9/classUnit.html#ae8858c524be551c72bf88127c354c990":[6,0,4151,16],
 "df/dd9/classUnit.html#ae8d06a5f17712b7bea48648cf08e1dfb":[6,0,4151,846],
 "df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6":[6,0,4151,526],
 "df/dd9/classUnit.html#ae980a6032828084b57b6223722254b81":[6,0,4151,392],
@@ -244,10 +249,5 @@ var NAVTREEINDEX394 =
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6e219b6ec1095c361bd6384205f3ab5a":[7,0,0,0,1,3,5,6,4,57,21],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a751a177e9753634ff67369c6dc315d9c":[7,0,0,0,1,3,5,6,4,57,24],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a78bbe08e6007188499933e592adf84cb":[7,0,0,0,1,3,5,6,4,57,0],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7bab4447dbe477353931faa9fef2a7f6":[7,0,0,0,1,3,5,6,4,57,1],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a89ff9f4f5aeda6e19ccf307d0539d1c8":[7,0,0,0,1,3,5,6,4,57,13],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8b7b42f22b7e61865c189cadfc3f62a9":[7,0,0,0,1,3,5,6,4,57,12],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a94918dcd5642e40f5e5cbb0f747bf283":[7,0,0,0,1,3,5,6,4,57,23],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a968c472e15619221d6355e667e9e7c0d":[7,0,0,0,1,3,5,6,4,57,9],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a994639ba60ae479a74ee6dfe98c3103c":[7,0,0,0,1,3,5,6,4,57,20]
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7bab4447dbe477353931faa9fef2a7f6":[7,0,0,0,1,3,5,6,4,57,1]
 };

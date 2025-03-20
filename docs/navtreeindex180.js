@@ -1,5 +1,9 @@
 var NAVTREEINDEX180 =
 {
+"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html":[6,0,1615,0],
+"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a1c0049100cde1c62daf80779d1135156":[6,0,1615,0,7],
+"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a460c6912063587214ba0f2e01878d827":[6,0,1615,0,3],
+"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a49b8e01897cd5347bbd06cac254163f4":[6,0,1615,0,8],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6":[6,0,1615,0,2],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a56d7211a3565c19b499f7de2eda6c862":[6,0,1615,0,6],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a56d99bcf5038c372399f16a07a2e5d31":[6,0,1615,0,4],
@@ -163,18 +167,18 @@ var NAVTREEINDEX180 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,106],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,94,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,106,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,94,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,106,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,94,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,94,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,106,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,106,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,94,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,94,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,106,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,94,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,106,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,94,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,94,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,106,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,94,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,7,4,3,0,5],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,7,4,3,0,5,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX180 =
 "d6/dee/classInstanceSaveMgr.html#a8eb7c3c963cbcd83d050c7d496174703":[6,0,1357,33],
 "d6/dee/classInstanceSaveMgr.html#a94170c2bdf782058e97a279b83bf4fd5":[6,0,1357,25],
 "d6/dee/classInstanceSaveMgr.html#a96510ffa488a99adb9805c0d3306ed4c":[6,0,1357,44],
-"d6/dee/classInstanceSaveMgr.html#a98d82f31b5853af7a2cb7fd819275f1c":[6,0,1357,11],
-"d6/dee/classInstanceSaveMgr.html#aa12deafec74272ccd9b1b6448cd58971":[6,0,1357,39],
-"d6/dee/classInstanceSaveMgr.html#aaf54d9e150ad04fc1a633a9141925d54":[6,0,1357,24],
-"d6/dee/classInstanceSaveMgr.html#ab027b48d1fa4556662e23e49ac32c529":[6,0,1357,4],
-"d6/dee/classInstanceSaveMgr.html#ab4371feb80c0a0ddeb7ff035c28e4b27":[6,0,1357,42]
+"d6/dee/classInstanceSaveMgr.html#a98d82f31b5853af7a2cb7fd819275f1c":[6,0,1357,11]
 };

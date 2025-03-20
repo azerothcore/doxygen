@@ -1,5 +1,9 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cad1dddd99751faef9e908cf6c011b854d":[7,0,0,0,1,3,7,1,5,17,5],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafa170c538a2b96defdebd227451262fc":[7,0,0,0,1,3,7,1,5,17,11],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafb8dced78bd1feb6ddef65f694130abf":[7,0,0,0,1,3,7,1,5,17,20],
+"d4/dd3/classboss__mandokir.html":[6,0,609],
 "d4/dd3/classboss__mandokir.html#a215842d5ab23824ec20db64e2fa4407e":[6,0,609,2],
 "d4/dd3/classboss__mandokir.html#aad13c8302cef7fb4981f0d2178630def":[6,0,609,1],
 "d4/dd3/classspell__hun__volley__trigger.html":[6,0,3099],
@@ -232,8 +236,8 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1041,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1041,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1041,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,30,15],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,15],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,30,15,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,15,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1885,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX137 =
 "d4/ddb/structHashTrait_3_01GameObjectModel_01_4.html":[6,0,1252],
 "d4/ddb/structHashTrait_3_01GameObjectModel_01_4.html#aa8996d8155ce20464f9eea4dd4c13d57":[6,0,1252,0],
 "d4/ddc/classnpc__oculus__unstable__sphere.html":[6,0,1986],
-"d4/ddc/classnpc__oculus__unstable__sphere.html#a5167370a6d3fd32a5673bbeb95ed3f3c":[6,0,1986,1],
-"d4/ddc/classnpc__oculus__unstable__sphere.html#adda2a9e7eab03444742e85729673ab2f":[6,0,1986,2],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html":[6,0,2698],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5":[6,0,2698,0],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a616d1758aa257140f4941fe12ef21e87":[6,0,2698,3]
+"d4/ddc/classnpc__oculus__unstable__sphere.html#a5167370a6d3fd32a5673bbeb95ed3f3c":[6,0,1986,1]
 };

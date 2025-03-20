@@ -1,5 +1,9 @@
 var NAVTREEINDEX169 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a5b0075a0b2eeb94fdcbe6b82c965eaa3":[7,0,0,0,1,2,7,0,1,18,3],
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a6f21b9607c2701363c769f1964fdeb6a":[7,0,0,0,1,2,7,0,1,18,2],
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a80f9ca9982968bc7ffcf03e15a629144":[7,0,0,0,1,2,7,0,1,18,5],
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a9cadd06d9220ea562a99e2db01d41d9f":[7,0,0,0,1,2,7,0,1,18,1],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6af5476383b969c2e41d0e4a7342ceaf2b":[7,0,0,0,1,2,7,0,1,18,6],
 "d6/d4f/BattlefieldWG_8h.html#ab7eea0557edfd694ed73a174aae28398":[7,0,0,0,1,2,7,0,1,12],
 "d6/d4f/BattlefieldWG_8h.html#ab8b01796ef389ba8574e1b3fa8efe834":[7,0,0,0,1,2,7,0,1,35],
@@ -245,9 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a6dfd2849f525333510ae4febbbc3ae1f":[7,0,0,0,1,3,6,0,5],
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#ac97adfc1efbcf82840cffa915a55fecb":[7,0,0,0,1,3,6,0,1],
 "d6/d5a/structboss__doomwalker.html":[6,0,423],
-"d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[6,0,423,7],
-"d6/d5a/structboss__doomwalker.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f":[6,0,423,2],
-"d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[6,0,423,3],
-"d6/d5a/structboss__doomwalker.html#a3105c50e512c6f709985cece619b131f":[6,0,423,6],
-"d6/d5a/structboss__doomwalker.html#a47811086ff98b1a09af5300af94b6c0e":[6,0,423,0]
+"d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[6,0,423,7]
 };

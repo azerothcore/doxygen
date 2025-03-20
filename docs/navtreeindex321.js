@@ -1,5 +1,10 @@
 var NAVTREEINDEX321 =
 {
+"dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bc15075d9e9a913783da482a7a167c7":[6,0,428,0,2],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a4bd3e45b45660311d7510f58a1850648":[6,0,428,0,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afcbb113387345361baf0351a19e6eb1d":[6,0,1892,0,6],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afce7cebdb4a49d9e5618ac211b235c6b":[6,0,1892,0,3],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[6,0,2129,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2129,0,5],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2129,0,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[6,0,2129,0,1],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#ac66e3398598576fdc889a7b56646eecf":[6,0,2129,0,3],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#af6e04824ea1682c529e8579a306d34ca":[6,0,2129,0,4],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#afd1cd4fc387ff7cdad58c9db60841c7a":[6,0,2129,0,2]
+"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2129,0,5]
 };

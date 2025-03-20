@@ -1,5 +1,9 @@
 var NAVTREEINDEX272 =
 {
+"db/d2b/classnpc__captain__arnath.html":[6,0,1669],
+"db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1669,2],
+"db/d2b/classnpc__captain__arnath.html#ab96afce64a7714ea84bab932f80c9302":[6,0,1669,1],
+"db/d2b/classspell__gen__consume.html":[6,0,2905],
 "db/d2b/classspell__gen__consume.html#a043362a08bcf9cfe253dd23c722a60bc":[6,0,2905,4],
 "db/d2b/classspell__gen__consume.html#a43860e5dcb2d2cb49e52c280d4f3c7e9":[6,0,2905,3],
 "db/d2b/classspell__gen__consume.html#a839f5e891cfbd0f83937f06c7fd049d4":[6,0,2905,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX272 =
 "db/d3e/structnpc__cameron.html":[6,0,1667],
 "db/d3e/structnpc__cameron.html#a0bf53f40eeb4fe3ed7d62988bee0a912":[6,0,1667,2],
 "db/d3e/structnpc__cameron.html#a2ad97aaac0bd759921e0b75cfc88d07d":[6,0,1667,4],
-"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1667,5],
-"db/d3e/structnpc__cameron.html#a45e47ec5c9dadc6f0899e83ac2e19cff":[6,0,1667,0],
-"db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0":[6,0,1667,1],
-"db/d3e/structnpc__cameron.html#a985d0590eedde340a3923e299d4dffd8":[6,0,1667,8],
-"db/d3e/structnpc__cameron.html#ab22841871cfcdc926b28296a5b4e440c":[6,0,1667,3]
+"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1667,5]
 };

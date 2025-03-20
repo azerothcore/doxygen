@@ -1,5 +1,9 @@
 var NAVTREEINDEX226 =
 {
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#ab599d5f62638d622c560f5b63e645b50":[6,0,394,0,0],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#abd4d058fad17b56bc29a165d74062dd0":[6,0,394,0,11],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#ac2bca5cebc4847af71272de0ffa3d91a":[6,0,394,0,4],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#ad3cbbdc77909515e1573a2fb49cc1e30":[6,0,394,0,3],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#adcad5667168768d8f3c8235735f357b1":[6,0,394,0,1],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#af6dbef6bb9565b5ee1738e188b08748f":[6,0,394,0,10],
 "d8/de9/classnpc__azure__captain.html":[6,0,1618],
@@ -245,9 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df8/classAuthSession.html#ad7fa3ea3aee1d1ffa324a293c2ca0b08":[6,0,292,7],
 "d8/df8/classAuthSession.html#adb41530c1ae128b88b873e77c6d6d653":[6,0,292,24],
 "d8/df8/classAuthSession.html#ae4d2a496f4709fd0f6f2fe6a5928e130":[6,0,292,21],
-"d8/df8/classAuthSession.html#ae577d9cc22534d7fb7843758dedb7c8c":[6,0,292,19],
-"d8/df8/structABNodeInfo.html":[6,0,19],
-"d8/df8/structABNodeInfo.html#a00cea010cfe6fb9702e5cb00003e5bef":[6,0,19,7],
-"d8/df8/structABNodeInfo.html#a039c468fa0b6110809f0617496c0146c":[6,0,19,0],
-"d8/df8/structABNodeInfo.html#a0671602a29f33e353a8a339540beae18":[6,0,19,2]
+"d8/df8/classAuthSession.html#ae577d9cc22534d7fb7843758dedb7c8c":[6,0,292,19]
 };

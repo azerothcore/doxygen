@@ -1,5 +1,9 @@
 var NAVTREEINDEX161 =
 {
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html":[6,0,3608],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a0f6e6c6892d56a6fceb927f68c734bde":[6,0,3608,3],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b":[6,0,3608,1],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79":[6,0,3608,0],
 "d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3608,2],
 "d6/d06/temple__of__ahnqiraj_8h.html":[7,0,0,0,1,3,4,9,12],
 "d6/d06/temple__of__ahnqiraj_8h.html#a0300fcd1fbf91f18e02645a86327c515":[7,0,0,0,1,3,4,9,12,7],
@@ -72,8 +76,8 @@ var NAVTREEINDEX161 =
 "d6/d07/Tuples_8h.html#a4104f84ad757b701a6ffbd51f5d10b9f":[7,0,0,0,0,15,36,6],
 "d6/d07/Tuples_8h.html#aa4e7bc2a96e641dd1642a3c61cfc96b0":[7,0,0,0,0,15,36,5],
 "d6/d07/Tuples_8h.html#aac12e702d41e9aa126f7d39f0f295252":[7,0,0,0,0,15,36,3],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,1,8,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[6,0,0,5,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,1,8,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[5,0,1,8,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[6,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[6,0,0,5,6,0],
@@ -82,14 +86,14 @@ var NAVTREEINDEX161 =
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[6,0,0,5,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,1,8,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,1,8,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,1,8,6,1],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[6,0,1980],
 "d6/d07/structnpc__nightbane__helper__target.html#a688ebb85baad72e523be0dceb70a75fc":[6,0,1980,0],
 "d6/d08/FollowerRefMgr_8h.html":[7,0,0,0,1,2,31,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65aa4ac36d48d7de8beedbe7ef572f7a059":[7,0,0,0,1,3,10,5,79,0],
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65ae8df816977c3e15f5cf16bdd2ec62f35":[7,0,0,0,1,3,10,5,79,1],
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65af65b29400a83ec355eb6c8e5a5e2c0fa":[7,0,0,0,1,3,10,5,79,2],
-"d6/d0c/go__scripts_8cpp.html#a6365b842c73f0ec2257c6e8933ee63e0":[7,0,0,0,1,3,10,5,103],
-"d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5":[7,0,0,0,1,3,10,5,87],
-"d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5ae97b97c692a7052f64061415302ca04b":[7,0,0,0,1,3,10,5,87,0],
-"d6/d0c/go__scripts_8cpp.html#a697c0075930ebe1517fa49abf16f83eb":[7,0,0,0,1,3,10,5,96],
-"d6/d0c/go__scripts_8cpp.html#a697c0075930ebe1517fa49abf16f83eba296cf0a698aea241a26d22c3191ef8a0":[7,0,0,0,1,3,10,5,96,0]
+"d6/d0c/go__scripts_8cpp.html#a6365b842c73f0ec2257c6e8933ee63e0":[7,0,0,0,1,3,10,5,103]
 };

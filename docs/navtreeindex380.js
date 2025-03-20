@@ -1,5 +1,10 @@
 var NAVTREEINDEX380 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[6,0,9,22,10],
+"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[6,0,9,22,24],
+"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[5,0,27,22,24],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,27,22,28],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,9,22,28],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[6,0,9,22,11],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[5,0,27,22,11],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[5,0,27,22,26],
@@ -244,10 +249,5 @@ var NAVTREEINDEX380 =
 "df/d6b/classspell__illidan__shadow__prison__aura.html":[6,0,3152],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[6,0,3152,0],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3152,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3152,1],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3152,3],
-"df/d6c/classnpc__cult__adherent.html":[6,0,1712],
-"df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1712,2],
-"df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[6,0,1712,1],
-"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html":[6,0,3501]
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3152,1]
 };

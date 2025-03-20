@@ -1,5 +1,10 @@
 var NAVTREEINDEX349 =
 {
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a653a9dadab0c249ed232ecda87dd833f":[7,0,0,0,1,4,7,104,29],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a78992c0cb395380959dea6189150d8bb":[7,0,0,0,1,4,7,104,13],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a7aa444d8946c25ff75ba8c7420315225":[7,0,0,0,1,4,7,104,25],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a7e3a5efaeb82064d20232846d5e4437d":[7,0,0,0,1,4,7,104,5],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a7ea369607f298491e245c075982440eb":[7,0,0,0,1,4,7,104,22],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a81acecee85f9b768dd5d6da90aa935dd":[7,0,0,0,1,4,7,104,3],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a89c47b997db1487f04ddec73c3951255":[7,0,0,0,1,4,7,104,4],
 "de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094a8ce57e6dd82f1e8cf4e7dfbaaefe0267":[7,0,0,0,1,4,7,104,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX349 =
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[5,0,20,21,1],
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[5,0,20,21,3],
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[5,0,20,21,0],
-"de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1":[5,0,20,16],
-"de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
-"de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html":[6,0,3014],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,3014,0],
-"de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,3014,3]
+"de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1":[5,0,20,16]
 };

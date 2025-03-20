@@ -1,5 +1,10 @@
 var NAVTREEINDEX302 =
 {
+"dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1747,4],
+"dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1747,2],
+"dc/d48/structnpc__drakonid__spawner.html#a6e0f0d2f6c265f9e5206f441dead8b2f":[6,0,1747,5],
+"dc/d48/structnpc__drakonid__spawner.html#ab013cff0430c09fe1045fdc735e45182":[6,0,1747,1],
+"dc/d49/boss__sapphiron_8cpp.html":[7,0,0,0,1,3,5,7,13],
 "dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,13,4],
 "dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,7,13,4,2],
 "dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a41aed87dcb29c9f3fd8f7a9f49754f5b":[7,0,0,0,1,3,5,7,13,4,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#abded7dc13c226ccad53c151d75ced243":[6,0,1337,0,11],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ada64ef9f71d61ea19144cec596ba06e2":[6,0,1337,0,12],
 "dc/d5a/ModelIgnoreFlags_8h.html":[7,0,0,0,0,1,2,2],
-"dc/d5a/ModelIgnoreFlags_8h.html#a3c25bdb4d30c345cd6760935e2c456f4":[7,0,0,0,0,1,2,2,1],
-"dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28":[7,0,0,0,0,1,2,2,0],
-"dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9":[7,0,0,0,0,1,2,2,0,1],
-"dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5":[7,0,0,0,0,1,2,2,0,0],
-"dc/d5a/classEncryptableAndCompressiblePacket.html":[6,0,1010],
-"dc/d5a/classEncryptableAndCompressiblePacket.html#a113d89a8f2832c5db01611ff71d2bc73":[6,0,1010,1]
+"dc/d5a/ModelIgnoreFlags_8h.html#a3c25bdb4d30c345cd6760935e2c456f4":[7,0,0,0,0,1,2,2,1]
 };

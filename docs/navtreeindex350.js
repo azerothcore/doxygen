@@ -1,5 +1,10 @@
 var NAVTREEINDEX350 =
 {
+"de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
+"de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
+"de/d1b/classspell__gothik__shadow__bolt__volley.html":[6,0,3014],
+"de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,3014,0],
+"de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,3014,3],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a9494bea35088161c9a520395d714fde1":[6,0,3014,2],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#aa14623bb948ff457e52979facf74ffab":[6,0,3014,1],
 "de/d1b/classspell__item__trigger__spell.html":[6,0,3279],
@@ -244,10 +249,5 @@ var NAVTREEINDEX350 =
 "de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1007,0],
 "de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1007,1],
 "de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7],
-"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,24],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,24,2],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,24,1],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf":[7,0,0,0,1,3,9,7,24,5],
-"de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa98c7454ab11639256776039df0d734ed":[7,0,0,0,1,3,9,7,24,3]
+"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27]
 };

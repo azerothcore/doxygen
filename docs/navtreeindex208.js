@@ -1,5 +1,9 @@
 var NAVTREEINDEX208 =
 {
+"d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376":[7,0,0,0,1,3,9,12,26],
+"d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376ab102180ca5b128f6a6454fc6c45f59d9":[7,0,0,0,1,3,9,12,26,0],
+"d8/d09/classFormulaScript.html":[6,0,1057],
+"d8/d09/classFormulaScript.html#a0c850c1a09bc78a4ceee5f27615d50d7":[6,0,1057,0],
 "d8/d09/classFormulaScript.html#a1098d29595b4f9206cccf3c3c1dad5f3":[6,0,1057,7],
 "d8/d09/classFormulaScript.html#a2208a5684c95b936aa9ca1ae863d9682":[6,0,1057,3],
 "d8/d09/classFormulaScript.html#a54a5e523ad5a9d3eb2dd061ced2d209f":[6,0,1057,8],
@@ -34,12 +38,12 @@ var NAVTREEINDEX208 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,27,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,27,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,27,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,27,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,27,0,1,2],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1921,0],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[6,0,1921,0,1],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1921,0,2],
@@ -138,8 +142,8 @@ var NAVTREEINDEX208 =
 "d8/d12/classCharacterActionIpLogger.html#a48844efac9d9af9c6415ad49d2473688":[6,0,847,2],
 "d8/d12/classCharacterActionIpLogger.html#a753ed387ea50eaf4c56846eab33cdfc0":[6,0,847,3],
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[6,0,847,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,11,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,30,17],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,11,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,30,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,11,17,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX208 =
 "d8/d17/ObjectAccessor_8h.html#abe7c8995443541417f52b00973dbde6f":[7,0,0,0,1,2,18,1,9],
 "d8/d17/ObjectAccessor_8h.html#ad72db398e2ff25a82a93e89fb67c56ff":[7,0,0,0,1,2,18,1,23],
 "d8/d17/ObjectAccessor_8h.html#ade254f98439319c444ce701c75d4f93a":[7,0,0,0,1,2,18,1,21],
-"d8/d17/ObjectAccessor_8h.html#ae42e503fe79bbeaea1aaa665418c43f8":[7,0,0,0,1,2,18,1,8],
-"d8/d17/ObjectAccessor_8h.html#aeb3657e7ad09335b9a9ffa50473aa216":[7,0,0,0,1,2,18,1,14],
-"d8/d17/ObjectAccessor_8h.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[7,0,0,0,1,2,18,1,6],
-"d8/d17/classspell__gen__create__lance.html":[6,0,2909],
-"d8/d17/classspell__gen__create__lance.html#a30cc03ed0c19074dc1fde4951a061815":[6,0,2909,3]
+"d8/d17/ObjectAccessor_8h.html#ae42e503fe79bbeaea1aaa665418c43f8":[7,0,0,0,1,2,18,1,8]
 };

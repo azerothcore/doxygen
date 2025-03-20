@@ -1,5 +1,9 @@
 var NAVTREEINDEX253 =
 {
+"da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d7af5cf992be03b889476445364182c":[7,0,0,0,1,3,5,0,0,3,6,3],
+"da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a38f8713ecf5f33c0d9a5bd3d3933200e":[7,0,0,0,1,3,5,0,0,3,6,6],
+"da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3dbb3f60756ea9f7473491be3d0ff4cd":[7,0,0,0,1,3,5,0,0,3,6,1],
+"da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,0,0,3,6,0],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a57ce953f4604345ec5bb4fa07f4c0536":[7,0,0,0,1,3,5,0,0,3,6,4],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6c987198f03965a772e4b26745ed8976":[7,0,0,0,1,3,5,0,0,3,6,8],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6d19a3fe8caae81d1f12db8cba6404ca":[7,0,0,0,1,3,5,0,0,3,6,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX253 =
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a2c0bd5a88b5fc6411c9c9276acf583bb":[7,0,0,0,1,3,2,4,14,7,41],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a360b0073905245e35e58a83d8870a9b2":[7,0,0,0,1,3,2,4,14,7,24],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a36b2b47828ccb3fab0975be8f6d10360":[7,0,0,0,1,3,2,4,14,7,15],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a37e1e4d1479c387af3dd62fa3450c9e8":[7,0,0,0,1,3,2,4,14,7,14],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a382261bd162fbd017ec2bbfad41ebfdb":[7,0,0,0,1,3,2,4,14,7,17],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a3ea17a5aceb7b2f21d207b749c34e392":[7,0,0,0,1,3,2,4,14,7,3],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a3f86b8625840b0158654fec79f00b915":[7,0,0,0,1,3,2,4,14,7,9],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a4401cf6736ade4eefb8efe1242d0c714":[7,0,0,0,1,3,2,4,14,7,4]
+"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a37e1e4d1479c387af3dd62fa3450c9e8":[7,0,0,0,1,3,2,4,14,7,14]
 };

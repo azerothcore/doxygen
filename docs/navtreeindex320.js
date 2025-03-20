@@ -1,5 +1,10 @@
 var NAVTREEINDEX320 =
 {
+"dd/d3b/structGameObjectTemplate.html#a7685abf51a65578d19c80ef70530fe74":[6,0,1084,163],
+"dd/d3b/structGameObjectTemplate.html#a76bd513dbb4e218d18a79f8c041f1e37":[6,0,1084,183],
+"dd/d3b/structGameObjectTemplate.html#a76de4fc0f064242c41920702d35cc637":[6,0,1084,109],
+"dd/d3b/structGameObjectTemplate.html#a7a2b60ae16e3397bf1bb899ce4448b0b":[6,0,1084,49],
+"dd/d3b/structGameObjectTemplate.html#a7c5724594df57db3bdb71b1daea87df3":[6,0,1084,1],
 "dd/d3b/structGameObjectTemplate.html#a7d0a8d9364a53e1db6d63ecadb0eb6b9":[6,0,1084,118],
 "dd/d3b/structGameObjectTemplate.html#a7d70afd5dcb16f45c13982af271c5522":[6,0,1084,139],
 "dd/d3b/structGameObjectTemplate.html#a7d997ec86b6bb1d30eced3018305f0b5":[6,0,1084,38],
@@ -133,14 +138,14 @@ var NAVTREEINDEX320 =
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,455,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,455,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,455,0,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d46/PetPackets_8h.html":[7,0,0,0,1,2,39,0,20],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[6,0,90],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
-"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
-"dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
-"dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3]
+"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0]
 };

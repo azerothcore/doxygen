@@ -1,5 +1,10 @@
 var NAVTREEINDEX329 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d":[7,0,0,0,1,3,5,23,23,1],
+"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709ac25cc7b06441c788ebfe392822513ac3":[7,0,0,0,1,3,5,23,23,4],
+"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709ad081a8077df8f055143aed59eea51ed9":[7,0,0,0,1,3,5,23,23,3],
+"dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085":[7,0,0,0,1,3,5,23,24],
+"dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd":[7,0,0,0,1,3,5,23,24,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01":[7,0,0,0,1,3,5,23,25],
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628":[7,0,0,0,1,3,5,23,25,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687a":[7,0,0,0,1,3,5,23,31],
@@ -152,10 +157,10 @@ var NAVTREEINDEX329 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,624,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,624,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,624,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2157],
@@ -244,10 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dc5/structnpc__doomfire__spirit.html#a0600718fad91723eba74b903583c5942":[6,0,1742,1],
 "dd/dc5/structnpc__doomfire__spirit.html#a3d16e8437c2e90ad1ab5de609f4fcff0":[6,0,1742,0],
 "dd/dc5/structnpc__doomfire__spirit.html#a7fc48df636df66a006a8179fd63e2a65":[6,0,1742,2],
-"dd/dc5/structnpc__doomfire__spirit.html#aa0d953c28f25e2838f3b24364b51f10b":[6,0,1742,3],
-"dd/dc5/structnpc__doomfire__spirit.html#afeab7c791c31457d86e98a0064fa6ad8":[6,0,1742,4],
-"dd/dc6/advstd_8h.html":[7,0,0,0,0,15,0],
-"dd/dc6/classspell__q10929__fumping__aura.html":[6,0,3573],
-"dd/dc6/classspell__q10929__fumping__aura.html#a13fdde1557249328306a57e159d821a7":[6,0,3573,2],
-"dd/dc6/classspell__q10929__fumping__aura.html#a317c238b165ad331beb447ea5d0de7e1":[6,0,3573,0]
+"dd/dc5/structnpc__doomfire__spirit.html#aa0d953c28f25e2838f3b24364b51f10b":[6,0,1742,3]
 };

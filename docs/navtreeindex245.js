@@ -1,5 +1,9 @@
 var NAVTREEINDEX245 =
 {
+"d9/df8/classboss__flame__leviathan__seat.html#a0fc90640a5142d889f1c043270582a16":[6,0,470,1],
+"d9/df9/classinstance__hellfire__ramparts.html":[6,0,1301],
+"d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1301,2],
+"d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1301,1],
 "d9/df9/classspell__dk__pestilence.html":[6,0,2755],
 "d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2755,1],
 "d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2755,2],
@@ -59,8 +63,8 @@ var NAVTREEINDEX245 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1704,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1704,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1704,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX245 =
 "da/d0d/classachievement__yogg__saron__darkness.html#a809902fca87abaeb4334132763624ed6":[6,0,104,1],
 "da/d0d/classnpc__stone__watcher__of__norgannon.html":[6,0,2131],
 "da/d0d/classnpc__stone__watcher__of__norgannon.html#a00f526b1b17b68f31a86e892e0997856":[6,0,2131,1],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#a5b79ebae097266ec4e1a0e3dfaa87da5":[6,0,2131,2],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#aa838e060c8ef6d7d85981c718328d9ef":[6,0,2131,0],
-"da/d0d/structnpc__the__etymidian.html":[6,0,2159],
-"da/d0d/structnpc__the__etymidian.html#a1f3cfddae43e443c5cd4a8a0f9f87a89":[6,0,2159,3],
-"da/d0d/structnpc__the__etymidian.html#a7086e9a8a8a7287cf90688270e9933a7":[6,0,2159,5]
+"da/d0d/classnpc__stone__watcher__of__norgannon.html#a5b79ebae097266ec4e1a0e3dfaa87da5":[6,0,2131,2]
 };

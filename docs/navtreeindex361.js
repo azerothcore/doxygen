@@ -1,5 +1,10 @@
 var NAVTREEINDEX361 =
 {
+"de/d87/classWaypointMovementGenerator.html":[6,0,4205],
+"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
+"de/d87/structSpawnAssociation.html":[6,0,2565],
+"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2565,1],
+"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[6,0,2565,0],
 "de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[6,0,2565,2],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html":[6,0,3759],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a036291aee8b08212ecead4afce01adf4":[6,0,3759,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX361 =
 "de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4107,19],
 "de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[6,0,4107,11],
 "de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4107,26],
-"de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4107,5],
-"de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4107,12],
-"de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4107,10],
-"de/d95/classTicketMgr.html#ab89b490da7ddfd888b36f4ec0beced36":[6,0,4107,13],
-"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[6,0,4107,6],
-"de/d95/classTicketMgr.html#ace173a347497eb6601a8c4654bdf0347":[6,0,4107,9]
+"de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4107,5]
 };

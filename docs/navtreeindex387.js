@@ -1,5 +1,10 @@
 var NAVTREEINDEX387 =
 {
+"df/da7/classBattleground.html#a576a3a84512ae8afa468f7d31f556e9a":[6,0,310,36],
+"df/da7/classBattleground.html#a577dcbd8ed354790c88257ba2e0a9179":[6,0,310,231],
+"df/da7/classBattleground.html#a57f23a55d9f4ebdad0202c7df1e40337":[6,0,310,117],
+"df/da7/classBattleground.html#a58076b25f840f62b2cafef67a9b97401":[6,0,310,137],
+"df/da7/classBattleground.html#a59ae47729c5694a6598ea20128583ed0":[6,0,310,90],
 "df/da7/classBattleground.html#a5a33a0e427e12bbd78b08e6986efee76":[6,0,310,147],
 "df/da7/classBattleground.html#a5b9b5c1e6b69071a781b7528c367525c":[6,0,310,151],
 "df/da7/classBattleground.html#a5e7f15b4edbc433ca648f9fec39f7523":[6,0,310,214],
@@ -244,10 +249,5 @@ var NAVTREEINDEX387 =
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a32f4c5c48f1a63ded0ac9b8ee763090b":[6,0,2037,0,2],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a452c096475581c12bf2f4ccb12448026":[6,0,2037,0,5],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a640aea9ce4a47dd13d417748e533fc33":[6,0,2037,0,4],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2037,0,1],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2037,0,3],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2037,0,7],
-"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html":[6,0,1830,0],
-"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a1fe70428102a0319031179c97f02cbab":[6,0,1830,0,7],
-"df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html#a527628708354414caea85b6bec3d0f1d":[6,0,1830,0,8]
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2037,0,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX232 =
 {
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa8b9a05d3c7d89aa054af919672a69ec":[6,0,1699,0,5],
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e":[6,0,1699,0,10],
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ab7a8f6423e12ca0ea9bcb085594013a2":[6,0,1699,0,3],
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ae92384763b3cfe4a4bc4180d1c404456":[6,0,1699,0,7],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#af9d6fa1dfa83a75194797e99ee80ae0e":[6,0,1699,0,1],
 "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html":[6,0,2115,0],
 "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a42466b7c6af30727b8872bd2ddfddb6f":[6,0,2115,0,2],
@@ -178,8 +182,8 @@ var NAVTREEINDEX232 =
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[6,0,0,112,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,112,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,112,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88":[7,0,0,0,1,3,7,4,3,2,6,0],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,7,4,3,2,6,2],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[7,0,0,0,1,3,7,4,3,2,6,4],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[7,0,0,0,1,3,7,4,3,2,6,3],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663f":[7,0,0,0,1,3,7,4,3,2,2],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad":[7,0,0,0,1,3,7,4,3,2,2,0],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663fadf5050dd7eab9cf1759d0070273ba382":[7,0,0,0,1,3,7,4,3,2,2,1],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6e8b4bed45ea001c5156d1071d0fbf99":[7,0,0,0,1,3,7,4,3,2,7]
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[7,0,0,0,1,3,7,4,3,2,6,3]
 };

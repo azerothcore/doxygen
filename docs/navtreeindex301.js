@@ -1,5 +1,10 @@
 var NAVTREEINDEX301 =
 {
+"dc/d35/classadt__MHDR.html#aa89f72d475714b226ed737b43eb8f6fc":[6,0,138,15],
+"dc/d35/classadt__MHDR.html#ab1c6fc91e4ac6954f959cb26502b88ce":[6,0,138,14],
+"dc/d35/classadt__MHDR.html#abb5f6d7851880d74c6a645fe797cb355":[6,0,138,21],
+"dc/d35/classadt__MHDR.html#ac5bf3376c3e870ee129acc562588e4d5":[6,0,138,8],
+"dc/d35/classadt__MHDR.html#ad80da67bf16b98bba014d487da757492":[6,0,138,13],
 "dc/d35/classadt__MHDR.html#adc0706b41b60a36a26fea083d0eec379":[6,0,138,16],
 "dc/d35/classadt__MHDR.html#aeae95bb7dbb0d46e68db52fb2e212a80":[6,0,138,3],
 "dc/d35/classadt__MHDR.html#aeb0dacd46404505504aa4c9cd868838a":[6,0,138,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2708,5],
 "dc/d48/structnpc__drakonid__spawner.html":[6,0,1747],
 "dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1747,0],
-"dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1747,3],
-"dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1747,4],
-"dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1747,2],
-"dc/d48/structnpc__drakonid__spawner.html#a6e0f0d2f6c265f9e5206f441dead8b2f":[6,0,1747,5],
-"dc/d48/structnpc__drakonid__spawner.html#ab013cff0430c09fe1045fdc735e45182":[6,0,1747,1],
-"dc/d49/boss__sapphiron_8cpp.html":[7,0,0,0,1,3,5,7,13]
+"dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1747,3]
 };

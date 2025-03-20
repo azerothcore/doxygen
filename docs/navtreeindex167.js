@@ -1,5 +1,9 @@
 var NAVTREEINDEX167 =
 {
+"d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4":[4,2,11,3],
+"d6/d39/classWorld.html#a2a7e783f9c0931334567118e5dedd8b4":[4,2,11,27],
+"d6/d39/classWorld.html#a2b2279cff4455dfd3f7bd718f12b0edc":[4,2,11,86],
+"d6/d39/classWorld.html#a2b4be30416a27846bfe10943efffd876":[4,2,11,69],
 "d6/d39/classWorld.html#a30997d041da2229ddebe936d30af2e82":[4,2,11,92],
 "d6/d39/classWorld.html#a309e14e8ec343ec3039f8020d55a4929":[4,2,11,26],
 "d6/d39/classWorld.html#a3153b7fa5ea82ad6f23454de5741068f":[4,2,11,103],
@@ -204,8 +208,8 @@ var NAVTREEINDEX167 =
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[6,0,3,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,14,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[6,0,3,0,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[6,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,14,0,1],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[6,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,14,0,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[6,0,3,0,2],
 "d6/d46/classspell__sha__heroism.html":[6,0,3739],
@@ -245,9 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae409ddd2759f8eea883cefa21d045a40":[6,0,1315,0,12],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae5f9223af1488f1edd99f35f7b1c7207":[6,0,1315,0,6],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af":[6,0,1315,0,14],
-"d6/d48/PlayerSettings_8h.html":[7,0,0,0,1,2,16,7,10],
-"d6/d48/PlayerSettings_8h.html#a03676554928fdf5649c8c7f77a128d04":[7,0,0,0,1,2,16,7,10,1],
-"d6/d48/PlayerSettings_8h.html#a32dfba2d10d91879403874fc75b928fd":[7,0,0,0,1,2,16,7,10,3],
-"d6/d48/PlayerSettings_8h.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e":[7,0,0,0,1,2,16,7,10,3,2],
-"d6/d48/PlayerSettings_8h.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704":[7,0,0,0,1,2,16,7,10,3,1]
+"d6/d48/PlayerSettings_8h.html":[7,0,0,0,1,2,16,7,10]
 };

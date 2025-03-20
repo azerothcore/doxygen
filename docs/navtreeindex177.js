@@ -1,5 +1,9 @@
 var NAVTREEINDEX177 =
 {
+"d6/db6/classspell__halion__damage__aoe__summon.html#a497a74eca703470964157639a6f372e2":[6,0,3030,5],
+"d6/db6/classspell__halion__damage__aoe__summon.html#a6152e7a0515076af2c7c2155506257b0":[6,0,3030,0],
+"d6/db6/classspell__halion__damage__aoe__summon.html#aa1f9239a2910d53c85539abba6333893":[6,0,3030,3],
+"d6/db6/classspell__halion__damage__aoe__summon.html#acb359257b29354b5962d9865e06137e7":[6,0,3030,4],
 "d6/db6/classspell__halion__damage__aoe__summon.html#ad1ad3a6f143bc84bad61070755752b2f":[6,0,3030,6],
 "d6/db6/classspell__halion__damage__aoe__summon.html#ae05be3eca26724f57f3f4b37b723aa63":[6,0,3030,2],
 "d6/db7/classnpc__icc__blood__beast.html":[6,0,1858],
@@ -212,10 +216,10 @@ var NAVTREEINDEX177 =
 "d6/dc2/classFileLoader.html":[6,0,1036],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,3],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,1],
-"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,10],
-"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,9],
+"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,11],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,8],
+"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,9],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1036,15],
 "d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee":[6,0,1036,16],
 "d6/dc2/classFileLoader.html#a498a33d80768843b4ab1ff2d5ffe68d9":[6,0,1036,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX177 =
 "d6/dc5/classspell__magtheridon__debris__target__selector.html#ae7f4f54446d5a1ebb20d49ab9deaed81":[6,0,3381,3],
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html":[6,0,4002],
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html#a1bced7e9364a1abb7b718b6786eada9f":[6,0,4002,1],
-"d6/dc5/classspell__yogg__saron__sanity__reduce.html#a97265071f226fbd17c37d432cf9e2350":[6,0,4002,2],
-"d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93":[6,0,4002,0],
-"d6/dc5/classspell__yogg__saron__sanity__reduce.html#aeec0bdd2e39db2da657247376ddcd195":[6,0,4002,3],
-"d6/dc6/classValithriaDespawner.html":[6,0,4166],
-"d6/dc6/classValithriaDespawner.html#a05bae39d642f294f2ef98151d66ba382":[6,0,4166,2]
+"d6/dc5/classspell__yogg__saron__sanity__reduce.html#a97265071f226fbd17c37d432cf9e2350":[6,0,4002,2]
 };
