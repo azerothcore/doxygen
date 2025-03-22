@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a996a7d8739931434fbfae01a8db36a3a":[7,0,0,0,1,3,2,1,1,10,5,4],
 "d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1abff3eb7ac7da0348c59f874c55ee404a":[7,0,0,0,1,3,2,1,1,10,5,1],
 "d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1ae2738e5af4db8937f3713b04d605e401":[7,0,0,0,1,3,2,1,1,10,5,11],
 "d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1aebbb024ddd9877294bc0d732bcd086b1":[7,0,0,0,1,3,2,1,1,10,5,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1197,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1197,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1197,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122]
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d9/d3a/classVec2D.html#a94b617ea521632c36048445b5ed835ed":[6,0,4168,5],
 "d9/d3a/classVec2D.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4":[6,0,4168,8],
 "d9/d3a/classVec2D.html#a9fcc28ff8ce75133e2df1977e484752d":[6,0,4168,1],
 "d9/d3a/classVec2D.html#aa93a7bd272380f3ab14ace62a90bb628":[6,0,4168,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a591aaf16ef5befada12378acfbef9465":[6,0,1699,0,0],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a81a1382493091a99cae1c2bb580a7f32":[6,0,1699,0,6],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b":[6,0,1699,0,2],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee":[6,0,1699,0,9],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b":[6,0,1699,0,8]
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee":[6,0,1699,0,9]
 };

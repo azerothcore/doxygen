@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea":[6,0,943,13],
 "d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311":[6,0,943,10],
 "d9/d7e/classDatabaseLoader.html#af0cd17307aa123f7e390aa67cab3d0d3":[6,0,943,5],
 "d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb":[6,0,943,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ac53723233f464d1467e5b9b9a66dc668":[7,0,0,0,1,3,5,9,2,1,26,2],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ace47f30304fac10a2ca4b5b84b41d940":[7,0,0,0,1,3,5,9,2,1,26,13],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ad4b548d07dd6c22c83c4e35e9120d884":[7,0,0,0,1,3,5,9,2,1,26,0],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ae487e118e49537a7652f19dd68af9247":[7,0,0,0,1,3,5,9,2,1,26,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[7,0,0,0,1,3,5,9,2,1,26,5]
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ae487e118e49537a7652f19dd68af9247":[7,0,0,0,1,3,5,9,2,1,26,1]
 };

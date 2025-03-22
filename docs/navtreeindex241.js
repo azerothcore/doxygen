@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#afac9e217c294e72ff5f2526422e6321e":[6,0,1140,0,1],
 "d9/dca/cs__event_8cpp.html":[7,0,0,0,1,3,0,13],
 "d9/dca/cs__event_8cpp.html#a4f3834f706dcb17ca67ce6513f6aecad":[7,0,0,0,1,3,0,13,2],
-"d9/dca/cs__event_8cpp.html#accd9dac141ffd4618bb7d3f69e8eb716":[7,0,0,0,1,3,0,13,1],
-"d9/dca/firework__show_8cpp.html":[7,0,0,0,1,3,3,0,0]
+"d9/dca/cs__event_8cpp.html#accd9dac141ffd4618bb7d3f69e8eb716":[7,0,0,0,1,3,0,13,1]
 };

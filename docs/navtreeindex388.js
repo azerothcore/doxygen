@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2037,0,1],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2037,0,3],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2037,0,7],
 "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html":[6,0,1830,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,819,1],
 "df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,819,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1941,0],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1941,0,6],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1941,0,4]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1941,0,6]
 };

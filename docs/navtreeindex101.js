@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d7d/classMovementGenerator.html#ae3014d8c6e728799c86134ef64737ed5":[6,0,1520,10],
 "d3/d7d/classMovementGenerator.html#aef4cf800aa06dddac4efd36e3c058d2b":[6,0,1520,1],
 "d3/d7d/classspell__putricide__grow__stacker__aura.html":[6,0,3539],
 "d3/d7d/classspell__putricide__grow__stacker__aura.html#a6ef56d3d18bab2f81c810160ecf3ae96":[6,0,3539,3],
@@ -15,12 +16,12 @@ var NAVTREEINDEX101 =
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d83/structboss__hungarfen.html#a009b8d34731d2310a53195024b434935":[6,0,536,0],
 "d3/d83/structboss__hungarfen.html#a1765bd54c04a3479e837b3d0e241300e":[6,0,536,3],
 "d3/d83/structboss__hungarfen.html#a3612bb373ecdba4245587fd94257ba62":[6,0,536,1],
-"d3/d83/structboss__hungarfen.html#a4b310eff8af9a33c50ae8f2035ba76ad":[6,0,536,2],
-"d3/d83/structboss__hungarfen.html#a702185681abb6cfc4add7078ff5bbb52":[6,0,536,4]
+"d3/d83/structboss__hungarfen.html#a4b310eff8af9a33c50ae8f2035ba76ad":[6,0,536,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/df4/classachievement__killed__exp__or__honor__target.html#ace8fc68ebb73e39626797be4caa45a3c":[6,0,65,1],
 "dd/df4/classgo__amberpine__outhouse.html":[6,0,1108],
 "dd/df4/classgo__amberpine__outhouse.html#a7cbfc3a091ad2332fd46140a24ac4e37":[6,0,1108,1],
 "dd/df4/classgo__amberpine__outhouse.html#a953ea72b3954c89b6c391de5aca3b6ce":[6,0,1108,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57":[7,0,0,0,1,2,11,0,1,5],
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa":[7,0,0,0,1,2,11,0,1,5,7],
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd":[7,0,0,0,1,2,11,0,1,5,0],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17":[7,0,0,0,1,2,11,0,1,5,2],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e":[7,0,0,0,1,2,11,0,1,5,3]
+"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17":[7,0,0,0,1,2,11,0,1,5,2]
 };

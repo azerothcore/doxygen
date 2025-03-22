@@ -1,5 +1,6 @@
 var NAVTREEINDEX366 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,47,21],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,47,29],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,47,20],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,47,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX366 =
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a473a8fb4905e5d1333196797d7d0f371":[6,0,1723,0],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a50e0657f33f15bf2ffe83ca4041eb483":[6,0,1723,2],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a8686845ebef564c9fcaa115866c99749":[6,0,1723,6],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[6,0,1723,1],
-"de/db2/classspell__black__template__free__friend.html":[6,0,2626]
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[6,0,1723,1]
 };

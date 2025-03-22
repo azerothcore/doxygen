@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[6,0,316,1],
 "df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[6,0,316,2],
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,316,0],
 "df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[6,0,815],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ad02faa4408614d29ad5a5815f9c5af16":[6,0,9,22,25],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad02faa4408614d29ad5a5815f9c5af16":[5,0,27,22,25],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[5,0,27,22,31],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[6,0,9,22,31],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,27,22,10]
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[6,0,9,22,31]
 };

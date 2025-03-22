@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca225b728c3038468a40a4b60a95519854":[7,0,0,0,1,3,2,12,4,18,8],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c":[7,0,0,0,1,3,2,12,4,18,9],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca576e68d0de957e30742c6f165ce5f200":[7,0,0,0,1,3,2,12,4,18,11],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca6201158364c53f407964ed05dcbe6085":[7,0,0,0,1,3,2,12,4,18,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "da/d82/structboss__loken_1_1boss__lokenAI.html#afd9634d8665b946991ccd777072cf70a":[6,0,593,0,2],
 "da/d83/magtheridons__lair_8h.html":[7,0,0,0,1,3,7,4,2,2],
 "da/d83/magtheridons__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,2,2,0],
-"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[7,0,0,0,1,3,7,4,2,2,5],
-"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a06b5aeac270c86765bd3713844233f5f":[7,0,0,0,1,3,7,4,2,2,5,0]
+"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[7,0,0,0,1,3,7,4,2,2,5]
 };

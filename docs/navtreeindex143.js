@@ -1,13 +1,14 @@
 var NAVTREEINDEX143 =
 {
+"d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1099,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,100],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,88,2],
 "d5/d34/structMovieEntry.html":[6,0,1525],
@@ -117,8 +118,8 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,130],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a6cfebecaaf673e40f97a46a09947a1f0":[6,0,699,0,1],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a772d279407d724477560898559710433":[6,0,699,0,2],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[6,0,699,0,0],
-"d5/d4a/structzm__beacon.html":[6,0,4260],
-"d5/d4a/structzm__beacon.html#a0107bfd3b1df99568e02d6ca80042c86":[6,0,4260,8]
+"d5/d4a/structzm__beacon.html":[6,0,4260]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d24/classnpc__toc__enh__shaman.html#ac328b63a988d2cd8640237b250c338a8":[6,0,2178,1],
 "d3/d24/structBattlegroundABScore.html":[6,0,312],
 "d3/d24/structBattlegroundABScore.html#a25643abf67d1ae2f8498951c11833994":[6,0,312,6],
 "d3/d24/structBattlegroundABScore.html#a43aaefd97c8880cbf70381282d81f7cf":[6,0,312,4],
@@ -64,14 +65,14 @@ var NAVTREEINDEX95 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[6,0,3751,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[6,0,3751,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3751,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1744],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1744,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1744,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab0ed2e0eb88c8091019dc7bf22e1cb2f":[7,0,0,0,1,3,5,9,2,13,60,9],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec":[7,0,0,0,1,3,5,9,2,13,60,22],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab47703ed48eaa5237cacf25632bfac19":[7,0,0,0,1,3,5,9,2,13,60,0],
-"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6509e4f86f13cda155504bd57675f04":[7,0,0,0,1,3,5,9,2,13,60,8],
-"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aca24480554e98d3a46f8901b5de1b49b":[7,0,0,0,1,3,5,9,2,13,60,24]
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6509e4f86f13cda155504bd57675f04":[7,0,0,0,1,3,5,9,2,13,60,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dca/firework__show_8cpp.html":[7,0,0,0,1,3,3,0,0],
 "d9/dca/firework__show_8cpp.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e":[7,0,0,0,1,3,3,0,0,2],
 "d9/dca/firework__show_8cpp.html#af7a6296c13b6615a14e0823fe7e5b577":[7,0,0,0,1,3,3,0,0,1],
 "d9/dcc/classnpc__swarm__scarab.html":[6,0,2142],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/de5/classspell__hun__cower.html#a37d29d87bec2fe2908b7d3e47f5e1caa":[6,0,3078,2],
 "d9/de5/classspell__hun__cower.html#a83bf0327aade6f6a33293a442ad10911":[6,0,3078,0],
 "d9/de5/classspell__hun__cower.html#aa964f4eb7391dab54ff744fc94306de1":[6,0,3078,1],
-"d9/de6/CharacterHandler_8cpp.html":[7,0,0,0,1,2,22,9],
-"d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,170]
+"d9/de6/CharacterHandler_8cpp.html":[7,0,0,0,1,2,22,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1941,0,4],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1941,0,5],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1941,0,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1941,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd4/MMapMgr_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[7,0,0,0,0,1,0,4,0],
 "df/dd4/MMapMgr_8cpp.html#a27e34ce3b8808f2aa889e5c4e623059a":[7,0,0,0,0,1,0,4,1],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html":[6,0,3361],
-"df/dd4/classspell__mage__fingers__of__frost__proc.html#a2640f58f3e7442c37615b61ecf938a6f":[6,0,3361,1],
-"df/dd4/classspell__mage__fingers__of__frost__proc.html#a55be2362ac226caa615e07a2a3b5ea38":[6,0,3361,2]
+"df/dd4/classspell__mage__fingers__of__frost__proc.html#a2640f58f3e7442c37615b61ecf938a6f":[6,0,3361,1]
 };

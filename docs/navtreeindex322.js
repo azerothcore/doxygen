@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2129,0,5],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2129,0,0],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[6,0,2129,0,1],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#ac66e3398598576fdc889a7b56646eecf":[6,0,2129,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d6b/LFGPackets_8h.html":[7,0,0,0,1,2,39,0,14],
 "dd/d6c/classVehicleDespawnEvent.html":[6,0,4174],
 "dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573":[6,0,4174,3],
-"dd/d6c/classVehicleDespawnEvent.html#a39284ca2343e54cec915ac3ecf51f4a8":[6,0,4174,1],
-"dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0":[6,0,4174,2]
+"dd/d6c/classVehicleDespawnEvent.html#a39284ca2343e54cec915ac3ecf51f4a8":[6,0,4174,1]
 };

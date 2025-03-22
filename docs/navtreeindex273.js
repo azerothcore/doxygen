@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1667,5],
 "db/d3e/structnpc__cameron.html#a45e47ec5c9dadc6f0899e83ac2e19cff":[6,0,1667,0],
 "db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0":[6,0,1667,1],
 "db/d3e/structnpc__cameron.html#a985d0590eedde340a3923e299d4dffd8":[6,0,1667,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d50/classspell__halion__twilight__phasing__aura.html#a781994b0be4588f4df29399fc900ec69":[6,0,3042,1],
 "db/d50/classspell__halion__twilight__phasing__aura.html#aee648b80e7352edffb20fd60697e1d88":[6,0,3042,2],
 "db/d50/structVehicleAccessory.html":[6,0,4171],
-"db/d50/structVehicleAccessory.html#a13a024b3ceacf38ce4907b079d732420":[6,0,4171,5],
-"db/d50/structVehicleAccessory.html#a6e3cd6b20680974235c146d34b16295a":[6,0,4171,1]
+"db/d50/structVehicleAccessory.html#a13a024b3ceacf38ce4907b079d732420":[6,0,4171,5]
 };

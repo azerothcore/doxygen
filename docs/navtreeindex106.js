@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/daf/classspell__igb__rocket__artillery.html#aae77f6693a3e5d01e3d05cb990fd1fe5":[6,0,3131,3],
 "d3/daf/classspell__igb__rocket__artillery.html#ab69926839f72ee76eba2b225aba9690c":[6,0,3131,1],
 "d3/daf/classspell__igb__rocket__artillery.html#ae3e8d811d3ad6561768dfff3a16ec9bd":[6,0,3131,0],
 "d3/daf/zone__feralas_8cpp.html":[7,0,0,0,1,3,4,23],
@@ -91,8 +92,8 @@ var NAVTREEINDEX106 =
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,21],
 "d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,21,1],
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
-"d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
+"d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a0957dbfd6c085575fa862f38c87b6b3d":[6,0,772,0],
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a1397317259589ea69f77f52f60852043":[6,0,772,9],
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a325da34f78d202708a58c1a543ecb8ca":[6,0,772,10],
-"d3/dbe/structboss__warchief__kargath__bladefist.html#a436b90336c90f6662f3ce704a62f0d90":[6,0,772,3],
-"d3/dbe/structboss__warchief__kargath__bladefist.html#a50fa7a5aed8d3f4916f0449c4fb075ac":[6,0,772,8]
+"d3/dbe/structboss__warchief__kargath__bladefist.html#a436b90336c90f6662f3ce704a62f0d90":[6,0,772,3]
 };

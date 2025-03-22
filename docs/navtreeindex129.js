@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4a2ef49125cbf2c3261a8f962c712845c4":[7,0,0,0,1,3,5,2,1,1,37,5],
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4a6ac442a1e8a292467e972e8ecb46da3a":[7,0,0,0,1,3,5,2,1,1,37,2],
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4a77fe0257581854d6ade661a14f6bda5d":[7,0,0,0,1,3,5,2,1,1,37,3],
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4a9a6d5858587723b4297b813e721b2992":[7,0,0,0,1,3,5,2,1,1,37,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,2967,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2967,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2]
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8]
 };

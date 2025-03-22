@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d56/classPlayerSocial.html#af913d007399dede4ddf59c2811fc3b8a":[6,0,2408,11],
 "d2/d56/classnpc__core__rager.html":[6,0,1691],
 "d2/d56/classnpc__core__rager.html#a0ace94ecc1ebfb0e880c50d9b68087db":[6,0,1691,2],
 "d2/d56/classnpc__core__rager.html#ada4acfa2a1934d1609a8f9c78da6377d":[6,0,1691,1],
@@ -70,8 +71,8 @@ var NAVTREEINDEX63 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3849,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,30,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,30,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,30,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,30,0,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093":[7,0,0,0,1,3,2,29,7,5],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b":[7,0,0,0,1,3,2,29,7,6],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4":[7,0,0,0,1,3,2,29,7,10],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566":[7,0,0,0,1,3,2,29,7,12],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7":[7,0,0,0,1,3,2,29,7,0]
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566":[7,0,0,0,1,3,2,29,7,12]
 };

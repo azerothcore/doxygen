@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[7,0,0,0,1,3,7,13,38,24],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129":[7,0,0,0,1,3,7,13,38,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6":[7,0,0,0,1,3,7,13,38,23],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582":[7,0,0,0,1,3,7,13,38,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1453,3],
 "da/db4/classat__commander__dawnforge.html":[6,0,212],
 "da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[6,0,212,0],
-"da/db4/classat__commander__dawnforge.html#acc78f4f2f9d892c02d62548e93f7f83b":[6,0,212,1],
-"da/db5/boss__ambassador__hellmaw_8cpp.html":[7,0,0,0,1,3,7,0,3,0]
+"da/db4/classat__commander__dawnforge.html#acc78f4f2f9d892c02d62548e93f7f83b":[6,0,212,1]
 };

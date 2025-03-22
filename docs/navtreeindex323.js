@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d6c/classVehicleDespawnEvent.html#a3e9c695929c24728b2091940e511d5f0":[6,0,4174,2],
 "dd/d6c/classVehicleDespawnEvent.html#ab6f88e60f1068ab79049c158314a87ab":[6,0,4174,0],
 "dd/d6d/Random_8h.html":[7,0,0,0,0,15,20],
 "dd/d6d/Random_8h.html#a0a5e53ee066789ecb565abc05fe36dbc":[7,0,0,0,0,15,20,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97":[7,0,0,0,1,3,3,2,12,14],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebabec129b310b63190274ed89412ae2f62":[7,0,0,0,1,3,3,2,12,6],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebac87af34a154de01ca09a6c1c7a98ffb6":[7,0,0,0,1,3,3,2,12,11],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebae79956374201f80e62918bbd248a6e8f":[7,0,0,0,1,3,3,2,12,4],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaebe347b189e409542b67ed453f873b96":[7,0,0,0,1,3,3,2,12,13]
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebae79956374201f80e62918bbd248a6e8f":[7,0,0,0,1,3,3,2,12,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
 "de/d87/classWaypointMovementGenerator.html":[6,0,4205],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
 "de/d87/structSpawnAssociation.html":[6,0,2565],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[6,0,4107,7],
 "de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4107,19],
 "de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[6,0,4107,11],
-"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4107,26],
-"de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4107,5]
+"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4107,26]
 };

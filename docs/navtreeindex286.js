@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[6,0,11,5,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[5,0,30,5,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[6,0,11,5,9,2],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[5,0,30,5,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be":[6,0,462,4],
 "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356":[6,0,462,9],
 "db/dca/structboss__felmyst.html#a2269784b565f6a9d18bd9124cf4b8472":[6,0,462,2],
-"db/dca/structboss__felmyst.html#a2d77aab0f9c403e130f0513a0b3013ce":[6,0,462,7],
-"db/dca/structboss__felmyst.html#a55e6defd1bc7f8f1dfd2376cb4589356":[6,0,462,8]
+"db/dca/structboss__felmyst.html#a2d77aab0f9c403e130f0513a0b3013ce":[6,0,462,7]
 };

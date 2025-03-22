@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47c":[7,0,0,0,1,2,36,2,16],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca00e51fd29f4182b118050cb8863b02bb":[7,0,0,0,1,2,36,2,16,11],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca05e7e7ed2a08121777ed61d1f76b7015":[7,0,0,0,1,2,36,2,16,2],
 "d2/d27/QuestDef_8h.html#a881ebe30fbf0f088d54bfa959cefe47ca16e6bbf1bd0e4cc59521b0e5e4ed670e":[7,0,0,0,1,2,36,2,16,14],
@@ -111,14 +112,14 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3047,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3047,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3047,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,119,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,119,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,119,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,131,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,119,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,892],
 "d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[6,0,892,13],
 "d2/d2b/classConfusedMovementGenerator.html#a212665e4306ca335181c255573d30a06":[6,0,892,2],
@@ -134,12 +135,12 @@ var NAVTREEINDEX53 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,892,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,892,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,892,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,30,7,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,7,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,30,7,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,7,1,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,30,7,1,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,7,1,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebd":[7,0,0,0,1,2,16,11,2,8],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f":[7,0,0,0,1,2,16,11,2,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d31/structCharTitlesEntry.html#ad0380caf2526715faaddc9330062d90a":[6,0,860,2],
 "d2/d31/structboss__servant__quarters.html":[6,0,690],
 "d2/d31/structboss__servant__quarters.html#a00d31d9421903b6a92c03a3bd0382328":[6,0,690,3],
-"d2/d31/structboss__servant__quarters.html#a273a09b1242968a5dd45ab9866fbe481":[6,0,690,4],
-"d2/d31/structboss__servant__quarters.html#a3b9df7ab573f22a9e15761cb662db404":[6,0,690,1]
+"d2/d31/structboss__servant__quarters.html#a273a09b1242968a5dd45ab9866fbe481":[6,0,690,4]
 };

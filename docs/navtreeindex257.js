@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a06b5aeac270c86765bd3713844233f5f":[7,0,0,0,1,3,7,4,2,2,5,0],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a15d066f41e2f2f523352a34d0fdf20de":[7,0,0,0,1,3,7,4,2,2,5,3],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a55a878fee5cade44ec65d8743ecd7aa2":[7,0,0,0,1,3,7,4,2,2,5,1],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a713bb6ae18f1cedc9590fd3918a641a3":[7,0,0,0,1,3,7,4,2,2,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/d90/classSpellMgr.html#ad3ba910260b662307aecc92b0e696930":[6,0,4036,42],
 "da/d90/classSpellMgr.html#ad453a0dfca614de29d7015dda91b0ce1":[6,0,4036,72],
 "da/d90/classSpellMgr.html#adb5ead246a7c2e98e9e1e09004b00c6f":[6,0,4036,61],
-"da/d90/classSpellMgr.html#addc82985cf1f7562dea166dc1102a18e":[6,0,4036,55],
-"da/d90/classSpellMgr.html#ae1b22f6a0392194bcaf234148f693237":[6,0,4036,13]
+"da/d90/classSpellMgr.html#addc82985cf1f7562dea166dc1102a18e":[6,0,4036,55]
 };

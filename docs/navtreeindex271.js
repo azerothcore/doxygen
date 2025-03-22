@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a92a6cbe0515752440284d18bae0adf66":[6,0,1729,0,3],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ab4fb75f1b84c2722f936387a6942028b":[6,0,1729,0,5],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1729,0,7],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#acf362c9e3eb844db9f66cc8c969cd22e":[6,0,1729,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[6,0,705,0,2],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a8759163de40d04d53c5e5ed8d8192aa7":[6,0,705,0,6],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a9eeb3281456779edd9570119ba8a2105":[6,0,705,0,8],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,705,0,3],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ad85e2fd51d67739026a96bc757bc7801":[6,0,705,0,0]
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,705,0,3]
 };

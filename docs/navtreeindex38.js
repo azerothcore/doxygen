@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d1/d95/classnpc__bone__spike.html":[6,0,1648],
 "d1/d95/classnpc__bone__spike.html#a887a9156f550ca55047fa501e1709d95":[6,0,1648,2],
 "d1/d95/classnpc__bone__spike.html#ac93d7a45eaeae8d7adf2a3b313825aed":[6,0,1648,1],
 "d1/d96/structnpc__salvaged__siege__engine.html":[6,0,2081],
@@ -63,12 +64,12 @@ var NAVTREEINDEX38 =
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[6,0,11,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[6,0,11,0,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[5,0,30,0,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[5,0,30,0,0,2],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[6,0,11,0,0,2],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[6,0,11,0,0,1],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[5,0,30,0,0,2],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[5,0,30,0,0,1],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[6,0,11,0,0,3],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[6,0,11,0,0,1],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[5,0,30,0,0,3],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[6,0,11,0,0,3],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html":[6,0,2140,0],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a1443e8311b6e2d61d6f9abd2e5f40793":[6,0,2140,0,3],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a35ec340b2d02a14707fc353428b1298d":[6,0,2140,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea6497a890096599c52269313b8a8605b7":[7,0,0,0,1,3,5,2,1,2,11,8],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea7217192e0677e014f01747f589e4510f":[7,0,0,0,1,3,5,2,1,2,11,2],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eaadb464bdc16c06288cb11d9fbd32232f":[7,0,0,0,1,3,5,2,1,2,11,5],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db":[7,0,0,0,1,3,5,2,1,2,11,7],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ead8ce3f4de5ecaa5762ee8b55570503a4":[7,0,0,0,1,3,5,2,1,2,11,9]
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db":[7,0,0,0,1,3,5,2,1,2,11,7]
 };

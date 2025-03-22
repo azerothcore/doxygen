@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dd/d0b/classPetScript.html#a3012323c5c1424512b611b6956a32554":[6,0,2385,7],
 "dd/d0b/classPetScript.html#a65a33c4f374f2e9739680ad172118c26":[6,0,2385,6],
 "dd/d0b/classPetScript.html#a84cba94813ffa26e1a245b814feb0349":[6,0,2385,3],
 "dd/d0b/classPetScript.html#ab4e5e0b19285573753ef6e9b7e8fd535":[6,0,2385,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d19/OutdoorPvP_8h.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6":[7,0,0,0,1,2,32,1,6,0],
 "dd/d19/OutdoorPvP_8h.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b":[7,0,0,0,1,2,32,1,6,5],
 "dd/d19/classEoEDrakeEnterVehicleEvent.html":[6,0,1016],
-"dd/d19/classEoEDrakeEnterVehicleEvent.html#a368a613ba7861f7903b80e6f7f0dd64f":[6,0,1016,1],
-"dd/d19/classEoEDrakeEnterVehicleEvent.html#ab48302fdff800afddfeec2c0d756873c":[6,0,1016,2]
+"dd/d19/classEoEDrakeEnterVehicleEvent.html#a368a613ba7861f7903b80e6f7f0dd64f":[6,0,1016,1]
 };

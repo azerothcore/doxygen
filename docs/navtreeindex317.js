@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[6,0,2327,6],
 "dd/d27/classOPvPCapturePointTF.html#a3f6cbfddd3322e3d948a1330cfa0e4d8":[6,0,2327,8],
 "dd/d27/classOPvPCapturePointTF.html#a74e1c07d3186fb6ba54b65efa9700989":[6,0,2327,9],
 "dd/d27/classOPvPCapturePointTF.html#a7ad637f6a4005da3166601dafda52d1b":[6,0,2327,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dd/d27/structSmartAction.html#acfecd88a57f366350452dba7ccc11455":[6,0,2549,12],
 "dd/d27/structSmartAction.html#acff32c26bdfa92b6b99526b93624c376":[6,0,2549,71],
 "dd/d27/structSmartAction.html#ad03d88052bcb0053febb348db5f9df37":[6,0,2549,298],
-"dd/d27/structSmartAction.html#ad0cf599f47b8ec4d74fc1a09e6aac41b":[6,0,2549,176],
-"dd/d27/structSmartAction.html#ad1e4934937d7cb1f10d8d9a2a35b276f":[6,0,2549,52]
+"dd/d27/structSmartAction.html#ad0cf599f47b8ec4d74fc1a09e6aac41b":[6,0,2549,176]
 };

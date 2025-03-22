@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[6,0,423,7],
 "d6/d5a/structboss__doomwalker.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f":[6,0,423,2],
 "d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[6,0,423,3],
 "d6/d5a/structboss__doomwalker.html#a3105c50e512c6f709985cece619b131f":[6,0,423,6],
@@ -15,18 +16,18 @@ var NAVTREEINDEX170 =
 "d6/d5c/classAcore_1_1ACLogSink.html":[6,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,1,19,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[6,0,0,7,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,1,19,4],
-"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
+"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[6,0,0,7,0],
+"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,1,19,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
-"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
+"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,31],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,19],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,19,0],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,31,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,19,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2654],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[6,0,2654,5],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[6,0,2654,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4f42b03438989f88459efb5c4a84e4d5":[7,0,0,0,1,3,4,0,0,2,4],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,4,0,0,2,7],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9e9de62e02991ecca224def0cbdc12b6":[7,0,0,0,1,3,4,0,0,2,2],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5":[7,0,0,0,1,3,4,0,0,2,3],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab51c33641138640c72e3196ce6fb27fe":[7,0,0,0,1,3,4,0,0,2,1]
+"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5":[7,0,0,0,1,3,4,0,0,2,3]
 };

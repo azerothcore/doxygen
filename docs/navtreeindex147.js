@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d77/GameObjectModel_8cpp.html":[7,0,0,0,0,1,2,0],
 "d5/d77/GameObjectModel_8cpp.html#a2f908ce58f8fea2d0606bfe603d719d1":[7,0,0,0,0,1,2,0,1],
 "d5/d77/GameObjectModel_8cpp.html#a5a80774080fc05f90c7d92213fda6788":[7,0,0,0,0,1,2,0,2],
 "d5/d77/GameObjectModel_8cpp.html#aa0a0fd13eaa3eba090a3085d41303f12":[7,0,0,0,0,1,2,0,3],
@@ -121,20 +122,20 @@ var NAVTREEINDEX147 =
 "d5/d79/structnpc__telonicus.html":[6,0,2151],
 "d5/d79/structnpc__telonicus.html#a49501a607aeb901aa99e94d9dd0e161b":[6,0,2151,1],
 "d5/d79/structnpc__telonicus.html#af8ba6be2d39463725bbbaf7770319a93":[6,0,2151,0],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,52],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html":[6,0,0,40],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,52],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[6,0,0,40,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[5,0,1,52,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[6,0,0,40,3],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[5,0,1,52,3],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[6,0,0,40,0],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[5,0,1,52,0],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[5,0,1,52,5],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[6,0,0,40,5],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[5,0,1,52,5],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[6,0,0,40,4],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[5,0,1,52,4],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[6,0,0,40,1],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[5,0,1,52,1],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[6,0,0,40,1],
 "d5/d7b/boss__ormorok_8cpp.html":[7,0,0,0,1,3,5,8,1,4],
 "d5/d7b/boss__ormorok_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,8,1,4,2],
 "d5/d7b/boss__ormorok_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a0652a18b78225e381788c96ee85b3a9b":[7,0,0,0,1,3,5,8,1,4,2,4],
@@ -172,8 +173,8 @@ var NAVTREEINDEX147 =
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[6,0,11,21,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,30,21,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[6,0,11,21,3],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,30,21,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[6,0,11,21,5],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,30,21,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,30,21,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[6,0,11,21,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,30,21,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d7d/boss__xt002_8cpp.html#a6986ec7b2d3274669934af9795f26d5cafea171714fd7b21b3993078f4102c89b":[7,0,0,0,1,3,5,9,2,12,27,3],
 "d5/d7d/boss__xt002_8cpp.html#aa27e689919ad2c0f8cc0df170e806782":[7,0,0,0,1,3,5,9,2,12,23],
 "d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,12,28],
-"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,2,12,28,6],
-"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a19f268df860576d1324976b313e627b6":[7,0,0,0,1,3,5,9,2,12,28,1]
+"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,2,12,28,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d3/d83/structboss__hungarfen.html#a702185681abb6cfc4add7078ff5bbb52":[6,0,536,4],
 "d3/d84/LFGScripts_8cpp.html":[7,0,0,0,1,2,15,10],
 "d3/d84/LFGScripts_8cpp.html#a9624b9328e26a9f420a4a3f07e253763":[7,0,0,0,1,2,15,10,0],
 "d3/d84/PoolMgr_8h.html":[7,0,0,0,1,2,34,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/classGameEventMgr.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf":[6,0,1068,0],
 "d3/d92/classGameEventMgr.html#a9dbe666ef37cb14173ad3c9b6e80d6b6":[6,0,1068,76],
 "d3/d92/classGameEventMgr.html#a9f439ec957e840ea49725af8818ae784":[6,0,1068,14],
-"d3/d92/classGameEventMgr.html#aa3fc438e41a455a600381c2d4f0bdb11":[6,0,1068,84],
-"d3/d92/classGameEventMgr.html#aa97c8db31a982225081577077303582c":[6,0,1068,17]
+"d3/d92/classGameEventMgr.html#aa3fc438e41a455a600381c2d4f0bdb11":[6,0,1068,84]
 };

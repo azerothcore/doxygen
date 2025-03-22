@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d7/d79/CompilerDefs_8h.html#ad92d7f8e69537bfc6f28bfce27856c1f":[7,0,0,0,0,20,0],
 "d7/d79/namespaceboost_1_1posix__time.html":[5,0,8,2],
 "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI.html":[6,0,2064,0],
 "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI.html#a0da1f59a6fc9cdf39c9cced1eb52acba":[6,0,2064,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a060a25159570525af2d624f3f153eadf":[6,0,2075,0,4],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a1962eac2fa0403b965e5534d09bfc8a5":[6,0,2075,0,15],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a28482e22f80316de1b2e4ebd54875f13":[6,0,2075,0,14],
-"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a2bb7b9a55427023156175bd2305a77fe":[6,0,2075,0,7],
-"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a300700dc91eb4b49ec7cbf42c998feb4":[6,0,2075,0,10]
+"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a2bb7b9a55427023156175bd2305a77fe":[6,0,2075,0,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/dbf/Player_8h.html#afd821be77e7efb1d6b6515cacc42b993":[7,0,0,0,1,2,16,7,5,67],
 "da/dbf/TypeContainerFunctionsPtr_8h.html":[7,0,0,0,0,6,6],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#a19feef3708a949a3dcdf70f3fe86ff0e":[7,0,0,0,0,6,6,3],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#a2cb738cb02deb5f4d7d30a7d860a45ff":[7,0,0,0,0,6,6,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a063a28cd36dbc709699e6d1d4e4ca9e3":[6,0,2071,0,1],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a1b4e12b199bf3ada517c895c5f387c4a":[6,0,2071,0,8],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a4dd62e51fc75fc5e4a44859437549f29":[6,0,2071,0,0],
-"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a522d30cb60cf6af2cd8cc943a7e2f5e3":[6,0,2071,0,5],
-"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a6dff9ff5332c0bc337840882689f47ed":[6,0,2071,0,7]
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a522d30cb60cf6af2cd8cc943a7e2f5e3":[6,0,2071,0,5]
 };

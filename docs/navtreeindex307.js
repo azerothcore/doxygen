@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/da0/classboss__razuvious__minion.html#afab8dccbc0b098a1fa058ef8479ba865":[6,0,669,2],
 "dc/da0/item__scripts_8cpp.html":[7,0,0,0,1,3,10,7],
 "dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046cca":[7,0,0,0,1,3,10,7,7],
 "dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f":[7,0,0,0,1,3,10,7,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a3a6aa2cc867de4842b10632ea761fb1e":[6,0,1322,0,8],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a4a9acbb13d81d88674b62aa49ac8a2e3":[6,0,1322,0,9],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a52168c9369fe1e691378577ea700115c":[6,0,1322,0,11],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a8a2c4b3677d8da475d1e5ea035becf15":[6,0,1322,0,3],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#aa92f25482c7c6d2bf7944a080beb858c":[6,0,1322,0,19]
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a8a2c4b3677d8da475d1e5ea035becf15":[6,0,1322,0,3]
 };

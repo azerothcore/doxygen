@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ad85e2fd51d67739026a96bc757bc7801":[6,0,705,0,0],
 "db/d2b/classnpc__captain__arnath.html":[6,0,1669],
 "db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1669,2],
 "db/d2b/classnpc__captain__arnath.html#ab96afce64a7714ea84bab932f80c9302":[6,0,1669,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1":[6,0,2440,0],
 "db/d3e/structnpc__cameron.html":[6,0,1667],
 "db/d3e/structnpc__cameron.html#a0bf53f40eeb4fe3ed7d62988bee0a912":[6,0,1667,2],
-"db/d3e/structnpc__cameron.html#a2ad97aaac0bd759921e0b75cfc88d07d":[6,0,1667,4],
-"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1667,5]
+"db/d3e/structnpc__cameron.html#a2ad97aaac0bd759921e0b75cfc88d07d":[6,0,1667,4]
 };

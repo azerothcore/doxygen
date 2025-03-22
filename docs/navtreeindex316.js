@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dd/d19/classEoEDrakeEnterVehicleEvent.html#ab48302fdff800afddfeec2c0d756873c":[6,0,1016,2],
 "dd/d19/classEoEDrakeEnterVehicleEvent.html#add56bff0695453e01f300e0434a39ec8":[6,0,1016,3],
 "dd/d19/classEoEDrakeEnterVehicleEvent.html#afc529efe07da017e529dc6d5ebc6e7dc":[6,0,1016,0],
 "dd/d19/classspell__uldaman__stoned__aura.html":[6,0,3874],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,1,0,3,0],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
 "dd/d27/classOPvPCapturePointTF.html":[6,0,2327],
-"dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[6,0,2327,7],
-"dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[6,0,2327,6]
+"dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[6,0,2327,7]
 };

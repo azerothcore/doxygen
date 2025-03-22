@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d3f/classSQLQueryHolderCallback.html#a09b018fb4d8e0e67249b1117c657ecc2":[6,0,4064,7],
 "d2/d3f/classSQLQueryHolderCallback.html#a40f0a73f4b92bc0f7ad8659f748c7c17":[6,0,4064,2],
 "d2/d3f/classSQLQueryHolderCallback.html#a7dc3e5e72d47135660a29a0418e17c44":[6,0,4064,6],
 "d2/d3f/classSQLQueryHolderCallback.html#a7e540699d496834c0a36782fb7da03f1":[6,0,4064,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d48/classspell__fungal__decay.html#acfa6b5217a0e0e2654b7fa9c4092abd5":[6,0,2864,2],
 "d2/d48/classspell__fungal__decay.html#adddddd0689f4686a40b1db142b5d6ce2":[6,0,2864,3],
 "d2/d48/classspell__illidan__shadow__prison.html":[6,0,3151],
-"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[6,0,3151,2],
-"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[6,0,3151,0]
+"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[6,0,3151,2]
 };

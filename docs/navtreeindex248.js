@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5a6e68377120c8a73c5256c24d95890b":[7,0,0,0,1,2,41,0,0,6,138],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ac7186261b11b30b5a0dd58ff23a418":[7,0,0,0,1,2,41,0,0,6,165],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5b09d71c8d286bff5c7cfd7ccec9a5f3":[7,0,0,0,1,2,41,0,0,6,176],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5bab152ed590ff92beb4b2424605e51a":[7,0,0,0,1,2,41,0,0,6,121],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a0b1df96674584554d53688e993c2a310":[6,0,2841,5],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a4908c5c3e6afdf0305dfb4729cfba503":[6,0,2841,3],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a8d863af82300eacc1456a08f8461d5a7":[6,0,2841,1],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa41bba6ce2889eb2a58409b611f53e49":[6,0,2841,0],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa873d0475c70db5c5ba9cea802dc3569":[6,0,2841,6]
+"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa41bba6ce2889eb2a58409b611f53e49":[6,0,2841,0]
 };

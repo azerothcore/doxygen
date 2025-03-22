@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba22f9afd7d3f47ad0de0d10534e0275b1":[7,0,0,0,1,2,16,6,2,7,2],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba2e0f5a56669ad0bd1e738d94090e06cc":[7,0,0,0,1,2,16,6,2,7,1],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba398819a3c83d6ad80812d1dca2039d64":[7,0,0,0,1,2,16,6,2,7,0],
 "d6/d9a/PetDefines_8h.html#a83e96c6d024ceb5d1189baac7b823d5d":[7,0,0,0,1,2,16,6,2,3],
@@ -177,8 +178,8 @@ var NAVTREEINDEX176 =
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,30,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,30,5,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,30,5,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1883],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1883,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1883,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#acbfa384508002ba9505d280c448f1f0e":[6,0,485,0,7],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#adb5a2609f1f065fe7a737b8da2d4aef4":[6,0,485,0,10],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#ae2f943d7e08b5ca508518cd19c675be9":[6,0,485,0,5],
-"d6/db6/classspell__halion__damage__aoe__summon.html":[6,0,3030],
-"d6/db6/classspell__halion__damage__aoe__summon.html#a47a810b94c515b7e48c9cc5f99c6bc23":[6,0,3030,1]
+"d6/db6/classspell__halion__damage__aoe__summon.html":[6,0,3030]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/d8a/classspell__gen__fixate.html":[6,0,2927],
 "dd/d8a/classspell__gen__fixate.html#a1ace281bf2fd53722f8328a79369b5df":[6,0,2927,0],
 "dd/d8a/classspell__gen__fixate.html#a821a6b11a177bf7586ab666081ab222a":[6,0,2927,2],
 "dd/d8a/classspell__gen__fixate.html#ac9a0019091f291b1b3a770ec57bd83e8":[6,0,2927,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f":[7,0,0,0,1,3,5,2,1,5,2],
 "dd/d8e/classspell__gen__despawn__self.html":[6,0,2914],
 "dd/d8e/classspell__gen__despawn__self.html#a738318535196b3d55e8f1b3da4f76c95":[6,0,2914,1],
-"dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[6,0,2914,0],
-"dd/d8e/classspell__gen__despawn__self.html#a941a097124ed9b4917faa18ff23fc366":[6,0,2914,2]
+"dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[6,0,2914,0]
 };

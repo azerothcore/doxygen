@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d5a/ModelIgnoreFlags_8h.html#a3c25bdb4d30c345cd6760935e2c456f4":[7,0,0,0,0,1,2,2,1],
 "dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28":[7,0,0,0,0,1,2,2,0],
 "dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9":[7,0,0,0,0,1,2,2,0,1],
 "dc/d5a/ModelIgnoreFlags_8h.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5":[7,0,0,0,0,1,2,2,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1126,0],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html":[6,0,2737],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a21000167be45c4a5503813e5a508b8fd":[6,0,2737,1],
-"dc/d6d/classspell__dk__dancing__rune__weapon.html#a6b62e970a78ae8187989f566e6d47317":[6,0,2737,0],
-"dc/d6d/classspell__dk__dancing__rune__weapon.html#a7f8fea0f52ed4c98120195f205d6c0d7":[6,0,2737,2]
+"dc/d6d/classspell__dk__dancing__rune__weapon.html#a6b62e970a78ae8187989f566e6d47317":[6,0,2737,0]
 };

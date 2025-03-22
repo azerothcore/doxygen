@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[6,0,91,0],
 "db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[6,0,91,1],
 "db/dd6/instance__naxxramas_8cpp.html":[7,0,0,0,1,3,5,7,15],
 "db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,5,7,15,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab3cd6d8263738d9533b730581a3c44c8":[7,0,0,0,1,3,2,4,9,9,7],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac0397b420457a32d95de3577c6b602f6":[7,0,0,0,1,3,2,4,9,9,2],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31acf34e42b07d16b78c190ae56697ad68b":[7,0,0,0,1,3,2,4,9,9,9],
-"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1d515f4710cd72eeb0772c278c9a4c9":[7,0,0,0,1,3,2,4,9,9,4],
-"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afd47647585e59de3d6cbd16de23e1520":[7,0,0,0,1,3,2,4,9,9,3]
+"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1d515f4710cd72eeb0772c278c9a4c9":[7,0,0,0,1,3,2,4,9,9,4]
 };

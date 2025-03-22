@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa873d0475c70db5c5ba9cea802dc3569":[6,0,2841,6],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#ae60a5c2918105785805dc45b3942ee4a":[6,0,2841,7],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aebeee23df951737b99e7a4ab026cbb1b":[6,0,2841,4],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#af04b38478379a10c5d94a7e4216ad9fa":[6,0,2841,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "da/d40/classTotem.html#a7e31af10f1ff0e854941e3a44254d139":[6,0,4114,20],
 "da/d40/classTotem.html#a8a18cacf85203a6918dcdbe19fcde850":[6,0,4114,13],
 "da/d40/classTotem.html#a9c417b6be9a58cda23250067f6cadbcc":[6,0,4114,18],
-"da/d40/classTotem.html#aa1c94dfcaee2deaef2786e2f4f63b837":[6,0,4114,4],
-"da/d40/classTotem.html#aa44d1386a44ade821cc6dfe5caee9b90":[6,0,4114,10]
+"da/d40/classTotem.html#aa1c94dfcaee2deaef2786e2f4f63b837":[6,0,4114,4]
 };

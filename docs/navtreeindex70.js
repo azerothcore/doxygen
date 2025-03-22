@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d2/d87/tools_2mmaps__generator_2PathGenerator_8cpp.html#a32e7545f3a98690aeb284a4eb66f272d":[7,0,0,0,3,2,5,1],
 "d2/d87/tools_2mmaps__generator_2PathGenerator_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[7,0,0,0,3,2,5,3],
 "d2/d87/tools_2mmaps__generator_2PathGenerator_8cpp.html#a9da584ba5e81bed140f90563dd648d38":[7,0,0,0,3,2,5,2],
 "d2/d87/tools_2mmaps__generator_2PathGenerator_8cpp.html#ab24803c49e5019c665aa545cfd2d32dc":[7,0,0,0,3,2,5,0],
@@ -20,10 +21,10 @@ var NAVTREEINDEX70 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[6,0,1984,0,4],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[7,0,0,0,1,2,38,0,80,0],
 "d2/d8a/classat__dragonspire__hall.html":[6,0,215],
@@ -59,14 +60,14 @@ var NAVTREEINDEX70 =
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,52],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,64],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,64,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,52,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,64,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,64,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,52,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,52,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,64,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,52,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,52,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,64,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,52,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,64,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,52,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2090],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classGuild_1_1Member.html#a0fbd4ef00371f0fbce152a16e662da77":[6,0,1244,6,23],
 "d2/d93/classGuild_1_1Member.html#a1293b721c1fc8408156405c7c7453211":[6,0,1244,6,42],
 "d2/d93/classGuild_1_1Member.html#a14f60bb7c1ee48893a4b0499c9365d27":[6,0,1244,6,36],
-"d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0":[6,0,1244,6,43],
-"d2/d93/classGuild_1_1Member.html#a1a44f0685f55cfcec2ea2246d546968a":[6,0,1244,6,20]
+"d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0":[6,0,1244,6,43]
 };

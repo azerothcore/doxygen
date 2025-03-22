@@ -1,5 +1,6 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3b87ad9f032b834b9f8b8edc53fe3a31":[7,0,0,0,1,3,5,1,1,0,11,10],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6e893ec8c0b4107222da5e593f4a9ad7":[7,0,0,0,1,3,5,1,1,0,11,5],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f4588c58a38c4477c9ce9d67e293d1d":[7,0,0,0,1,3,5,1,1,0,11,0],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a779f46d47ff37d1caaf31625c220def0":[7,0,0,0,1,3,5,1,1,0,11,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a0b681d6cc1566e6193f7eb143ab2bd5e":[6,0,2171,0,7],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a38959c7a5b502b5716a5c09b0f6ae8a4":[6,0,2171,0,0],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a41f24de5f824d84edb69c6b2bdca6d4e":[6,0,2171,0,5],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a495e0762614020ef6d7b741447099326":[6,0,2171,0,1],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e":[6,0,2171,0,9]
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a495e0762614020ef6d7b741447099326":[6,0,2171,0,1]
 };

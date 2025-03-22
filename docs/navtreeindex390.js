@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/dd4/classspell__mage__fingers__of__frost__proc.html#a55be2362ac226caa615e07a2a3b5ea38":[6,0,3361,2],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html#a5b8ee53249a19954e4d46b17422207d5":[6,0,3361,0],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3628],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3628,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd9/classUnit.html#a21fb6c99b3caf8f2044a57934636c2f7":[6,0,4151,868],
 "df/dd9/classUnit.html#a224388533d024aef22839deaec5a2f68":[6,0,4151,502],
 "df/dd9/classUnit.html#a241cc09ac15182e02551cc727b8e1a9e":[6,0,4151,564],
-"df/dd9/classUnit.html#a247d8839a6b76306c1f96dd5be62fbb1":[6,0,4151,753],
-"df/dd9/classUnit.html#a24806334c9d27cd7449ebea72c952a21":[6,0,4151,46]
+"df/dd9/classUnit.html#a247d8839a6b76306c1f96dd5be62fbb1":[6,0,4151,753]
 };

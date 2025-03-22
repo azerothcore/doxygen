@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d6/d26/classBattlefield.html#ae33dfd26f97902c925ffed5985bdff8f":[6,0,307,90],
 "d6/d26/classBattlefield.html#aead14e89d3e2927af74295ff218cc4ff":[6,0,307,32],
 "d6/d26/classBattlefield.html#aec2da8a188c4644ddeb9debf6d1abcb0":[6,0,307,47],
 "d6/d26/classBattlefield.html#aee7e2f5a3c28facecae318575f54fca0":[6,0,307,41],
@@ -152,8 +153,8 @@ var NAVTREEINDEX165 =
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,8,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,30,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,8,0,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,11,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2421,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[6,0,2421,1,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2421,1,0],
@@ -247,7 +248,6 @@ var NAVTREEINDEX165 =
 "d6/d33/classAuraScript_1_1EffectBase.html#ab6f5b2a7ec1183206110eac9a21a7de5":[6,0,284,7,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,5,0,4],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,8,0,4],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[5,0,1,8,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[6,0,0,5,0,4,3],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[6,0,0,5,0,4,0]
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[5,0,1,8,0,4,3]
 };

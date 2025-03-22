@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#ae927434b72c1017f1dedced244d7021a":[6,0,0,5,0,18,13],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#ae927434b72c1017f1dedced244d7021a":[5,0,1,8,0,18,13],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#af89a617e842edaf1a4ee1cff95d2c4e3":[6,0,0,5,0,18,11],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#af89a617e842edaf1a4ee1cff95d2c4e3":[5,0,1,8,0,18,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d":[7,0,0,0,1,3,5,8,0,1,7,3],
 "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f":[7,0,0,0,1,3,5,8,0,1,7,0],
 "db/d96/firework__show__Exodar_8h.html":[7,0,0,0,1,3,3,0,3],
-"db/d96/firework__show__Exodar_8h.html#a44290c427b72dfa245ba73b6fa1ea317":[7,0,0,0,1,3,3,0,3,2],
-"db/d96/firework__show__Exodar_8h.html#a5b7a7ca2308d23103ee3d053d6301e5c":[7,0,0,0,1,3,3,0,3,1]
+"db/d96/firework__show__Exodar_8h.html#a44290c427b72dfa245ba73b6fa1ea317":[7,0,0,0,1,3,3,0,3,2]
 };

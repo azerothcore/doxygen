@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d8e/classspell__gen__despawn__self.html#a941a097124ed9b4917faa18ff23fc366":[6,0,2914,2],
 "dd/d8e/classspell__gen__despawn__self.html#aaf9d269e7d052515f31b463999e92cf4":[6,0,2914,3],
 "dd/d8f/classnpc__living__poison.html":[6,0,1923],
 "dd/d8f/classnpc__living__poison.html#a277440068846eac71c795880a16475dd":[6,0,1923,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c":[6,0,5,12,5],
 "dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c":[5,0,18,12,5],
 "dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a":[5,0,18,12,20],
-"dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a":[6,0,5,12,20],
-"dd/da2/classlfg_1_1LFGQueue.html#a7ad4bd068cfbc953ae792f74f250a616":[6,0,5,12,10]
+"dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a":[6,0,5,12,20]
 };

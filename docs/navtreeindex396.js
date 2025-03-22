@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca4005312cc9fcbd7a183df7391696d8b3":[7,0,0,0,1,3,7,2,0,3,10,11],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,7,2,0,3,10,0],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,7,2,0,3,10,2],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,7,2,0,3,10,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3301,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3301,4],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3301,0],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3301,3],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3301,1]
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3301,3]
 };

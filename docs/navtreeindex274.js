@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d50/structVehicleAccessory.html#a6e3cd6b20680974235c146d34b16295a":[6,0,4171,1],
 "db/d50/structVehicleAccessory.html#a70576b3cfa29bb6a31fdc61588b6d3c4":[6,0,4171,0],
 "db/d50/structVehicleAccessory.html#a73b54fbbfe8e18f7129acc65dadec447":[6,0,4171,3],
 "db/d50/structVehicleAccessory.html#ace3fd27311370e4db4103f2c3ac70410":[6,0,4171,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99":[7,0,0,0,1,2,3,0,9,1,2],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1":[7,0,0,0,1,2,3,0,9,1,13],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406":[7,0,0,0,1,2,3,0,9,1,4],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5":[7,0,0,0,1,2,3,0,9,1,8],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a":[7,0,0,0,1,2,3,0,9,1,9]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5":[7,0,0,0,1,2,3,0,9,1,8]
 };

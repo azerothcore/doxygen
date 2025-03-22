@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a1acfbead42b66dd8f70a85efc8ce2e6f":[6,0,1925,0,3],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd":[6,0,1925,0,0],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a8b15079251b6855679d738a342126006":[6,0,1925,0,4],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#adf153fab1c8639b2b5790ed418afb85d":[6,0,1925,0,2],
@@ -15,10 +16,10 @@ var NAVTREEINDEX94 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,48,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,48,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,36,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,48,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,36,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,36,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,48,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,48,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,36,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,48,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,36,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2846],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d24/classBossAI.html#ace268b3d2d922496c8508ddb263c1fb1":[6,0,807,8],
 "d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5":[6,0,807,9],
 "d3/d24/classnpc__toc__enh__shaman.html":[6,0,2178],
-"d3/d24/classnpc__toc__enh__shaman.html#a4501c9289a06750d8f153f89565b12f3":[6,0,2178,2],
-"d3/d24/classnpc__toc__enh__shaman.html#ac328b63a988d2cd8640237b250c338a8":[6,0,2178,1]
+"d3/d24/classnpc__toc__enh__shaman.html#a4501c9289a06750d8f153f89565b12f3":[6,0,2178,2]
 };

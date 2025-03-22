@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/dfb/classUpdateTime.html#acee0682ebe0d6c2097209262ebee6f80":[6,0,4164,21],
 "dc/dfb/classUpdateTime.html#ad44ab22d8f9cdbad920887109e52609a":[6,0,4164,14],
 "dc/dfb/classUpdateTime.html#ae013fcb0d7df86c35d9caf355a6968ff":[6,0,4164,15],
 "dc/dfb/classspell__gruul__ground__slam.html":[6,0,3017],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dd/d0a/structGtOCTRegenHPEntry.html#ac22c096d41c6fb7ebdc824fc1ca8601b":[6,0,1237,0],
 "dd/d0b/classPetScript.html":[6,0,2385],
 "dd/d0b/classPetScript.html#a1263b06233902fbede9fc5df80cc8ad4":[6,0,2385,5],
-"dd/d0b/classPetScript.html#a16fae7cdf068c6e3d9e46882548d4c20":[6,0,2385,4],
-"dd/d0b/classPetScript.html#a3012323c5c1424512b611b6956a32554":[6,0,2385,7]
+"dd/d0b/classPetScript.html#a16fae7cdf068c6e3d9e46882548d4c20":[6,0,2385,4]
 };

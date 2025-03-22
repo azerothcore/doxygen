@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,0,2,1,2,3],
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,2,1,2,1],
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,2,1,2,2],
 "d4/df4/boss__darkweaver__syth_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,2,1,2,0],
@@ -129,12 +130,12 @@ var NAVTREEINDEX139 =
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,1,45],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[6,0,0,33,0],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,1,45,0],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[5,0,1,45,6],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[6,0,0,33,6],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[5,0,1,45,6],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[6,0,0,33,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[5,0,1,45,4],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[6,0,0,33,1],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[5,0,1,45,1],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[6,0,0,33,1],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[6,0,0,33,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[5,0,1,45,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[6,0,0,33,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "d5/d05/classSmartGameObjectAI.html#a2f734116e0725bb9e56b146dd1571078":[6,0,2553,18],
 "d5/d05/classSmartGameObjectAI.html#a319ac690004b4d0328e3a70696bb6c83":[6,0,2553,5],
 "d5/d05/classSmartGameObjectAI.html#a3234fa3fc75125edca47ef0360f3029d":[6,0,2553,8],
-"d5/d05/classSmartGameObjectAI.html#a343888265676cb96eaa331d15a2611fe":[6,0,2553,10],
-"d5/d05/classSmartGameObjectAI.html#a36fa0a078ecd806ba4f7730396122a09":[6,0,2553,23]
+"d5/d05/classSmartGameObjectAI.html#a343888265676cb96eaa331d15a2611fe":[6,0,2553,10]
 };

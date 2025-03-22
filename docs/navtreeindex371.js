@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[6,0,4149,1],
 "de/df4/classUnboundPlagueTargetSelector.html#aedde7e013418bf6ff54cf3d3b8a70206":[6,0,4149,0],
 "de/df4/cs__cache_8cpp.html":[7,0,0,0,1,3,0,6],
 "de/df4/cs__cache_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[7,0,0,0,1,3,0,6,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9d":[7,0,0,0,1,3,2,1,0,12,5],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9da332f1bb7b8077ebb87199295c6cd670b":[7,0,0,0,1,3,2,1,0,12,5,3],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9da9e237907ab7952c8ef3b015e08abdb23":[7,0,0,0,1,3,2,1,0,12,5,1],
-"df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9daadfb7e9d82b141469099cf1a1960277c":[7,0,0,0,1,3,2,1,0,12,5,0],
-"df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9dad517b85965220b4cb8d25c85d223b237":[7,0,0,0,1,3,2,1,0,12,5,4]
+"df/d07/boss__moira__bronzebeard_8cpp.html#a149311e299d9b1db15e42734fae3ea9daadfb7e9d82b141469099cf1a1960277c":[7,0,0,0,1,3,2,1,0,12,5,0]
 };

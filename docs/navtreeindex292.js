@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/dec/classboss__sister__svalna.html#a5eb89badd75104dfe1dc3e03d372adc0":[6,0,696,2],
 "db/dec/classspell__midsummer__ribbon__pole__firework.html":[6,0,3408],
 "db/dec/classspell__midsummer__ribbon__pole__firework.html#a03f7ac8d5968970f769191c7df7f5899":[6,0,3408,1],
 "db/dec/classspell__midsummer__ribbon__pole__firework.html#af219083d127afe24b2541a95bfd449ff":[6,0,3408,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/df4/classspell__hodir__biting__cold__player__aura.html#a3e7343f124b66a55d9a6cbf0ab085309":[6,0,3057,5],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#a3f6653b4ca202d9b0971189930e8b463":[6,0,3057,4],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#a9dd8f32c8ec709a14be15b46745b692b":[6,0,3057,6],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#aa62be73e00d9cb512806787eaf1c4144":[6,0,3057,0],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ab31989a4abd6b5cb08818b0e082c7d9f":[6,0,3057,1]
+"db/df4/classspell__hodir__biting__cold__player__aura.html#aa62be73e00d9cb512806787eaf1c4144":[6,0,3057,0]
 };

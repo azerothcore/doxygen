@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a5ed942da2e53ecc63ec15fa8cf8c3325":[6,0,681,0,4],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a6d45699d2efacdc0aca88dba3f67d20a":[6,0,681,0,3],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,681,0,15],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,681,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a220e111467cfb6f02e996f012123e09b":[6,0,1729,0,6],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a258f55153ad857fbf35545cfb87c3d3a":[6,0,1729,0,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a517f7412208de83604d0d6806fbc0b34":[6,0,1729,0,4],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a686314ffe4a588a1ba8722a6cab56fc7":[6,0,1729,0,10],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a92a6cbe0515752440284d18bae0adf66":[6,0,1729,0,3]
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a686314ffe4a588a1ba8722a6cab56fc7":[6,0,1729,0,10]
 };

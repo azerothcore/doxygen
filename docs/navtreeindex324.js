@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaebe347b189e409542b67ed453f873b96":[7,0,0,0,1,3,3,2,12,13],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaede323c4cbe9bb0af7bdc35ad654a6c2":[7,0,0,0,1,3,3,2,12,1],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaff9346d1bd1ae48c8264c82c85b68e9a":[7,0,0,0,1,3,3,2,12,5],
 "dd/d7d/childrens__week_8cpp.html#a832536a026ab4dad8df7bb48ad0493fc":[7,0,0,0,1,3,3,2,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d89/structMCBossObject.html":[6,0,1491],
 "dd/d89/structMCBossObject.html#a898f2ce24d96fb7d6a118e9772344c43":[6,0,1491,0],
 "dd/d89/structMCBossObject.html#aa7ac7e2d5729aa906e00ca9c2648581d":[6,0,1491,2],
-"dd/d89/structMCBossObject.html#aaa379e61fda2f7225ab4089757df5d24":[6,0,1491,1],
-"dd/d8a/classspell__gen__fixate.html":[6,0,2927]
+"dd/d89/structMCBossObject.html#aaa379e61fda2f7225ab4089757df5d24":[6,0,1491,1]
 };

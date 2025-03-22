@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aca24480554e98d3a46f8901b5de1b49b":[7,0,0,0,1,3,5,9,2,13,60,24],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ada5cbd34a3cd65b1de125d2fe6f8e0d9":[7,0,0,0,1,3,5,9,2,13,60,6],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973":[7,0,0,0,1,3,5,9,2,13,60,14],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aee9ff777cc20759c7665ee35c5ec5acf":[7,0,0,0,1,3,5,9,2,13,60,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#a63d63a0b981c278fcfadfdda1feb5a12":[6,0,790,0,0],
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#a8329bc78fc037655d48cb9bf0abd8447":[6,0,790,0,4],
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#abcc42381f37256e5c5ab2a42f8ef2c29":[6,0,790,0,2],
-"d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#ac2458922b2530929ee1adbcc0da834a0":[6,0,790,0,1],
-"d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#af33db4e2ce1bb85e38437db6ca7982f7":[6,0,790,0,3]
+"d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#ac2458922b2530929ee1adbcc0da834a0":[6,0,790,0,1]
 };

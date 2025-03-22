@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[6,0,284,11,0],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[6,0,284,11,1],
 "d6/d75/classboss__emperor__dagran__thaurissan.html":[6,0,439],
 "d6/d75/classboss__emperor__dagran__thaurissan.html#a8332d74b5aa1528d5687084932419ad1":[6,0,439,1],
@@ -160,10 +161,10 @@ var NAVTREEINDEX172 =
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,17,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,1,29,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,17,2],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,29,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[6,0,0,17,4],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,1,29,3],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,29,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,17,3],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,1,29,3],
 "d6/d7d/classDynamicMapTree.html":[6,0,991],
 "d6/d7d/classDynamicMapTree.html#a06e7f683147b9487dad5ca70f28e5aa6":[6,0,991,7],
 "d6/d7d/classDynamicMapTree.html#a0d1cb7c5e805b637b392afe95ce0286a":[6,0,991,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[6,0,4160,20],
 "d6/d7f/classspell__egg__event.html":[6,0,2828],
 "d6/d7f/classspell__egg__event.html#a53bed6f1af71fd309a04bc004d07be80":[6,0,2828,2],
-"d6/d7f/classspell__egg__event.html#a804097903354ab3a730f0fe3eb5ec863":[6,0,2828,0],
-"d6/d7f/classspell__egg__event.html#aea221ad6fb1a30bec6fee0c3a67d01b0":[6,0,2828,1]
+"d6/d7f/classspell__egg__event.html#a804097903354ab3a730f0fe3eb5ec863":[6,0,2828,0]
 };

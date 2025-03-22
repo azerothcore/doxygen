@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df8/classboss__flame__leviathan__seat.html#a0e17225aeb93e0a5f5442c4ac2362af8":[6,0,470,2],
 "d9/df8/classboss__flame__leviathan__seat.html#a0fc90640a5142d889f1c043270582a16":[6,0,470,1],
 "d9/df9/classinstance__hellfire__ramparts.html":[6,0,1301],
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1301,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "da/d0d/classachievement__yogg__saron__darkness.html#a765ec4606bb489760ed1e15db10de1dc":[6,0,104,2],
 "da/d0d/classachievement__yogg__saron__darkness.html#a809902fca87abaeb4334132763624ed6":[6,0,104,1],
 "da/d0d/classnpc__stone__watcher__of__norgannon.html":[6,0,2131],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#a00f526b1b17b68f31a86e892e0997856":[6,0,2131,1],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#a5b79ebae097266ec4e1a0e3dfaa87da5":[6,0,2131,2]
+"da/d0d/classnpc__stone__watcher__of__norgannon.html#a00f526b1b17b68f31a86e892e0997856":[6,0,2131,1]
 };

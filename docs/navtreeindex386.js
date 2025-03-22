@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/da0/classspell__item__fetch__ball.html#a3153b6c6814922cd7220e19b06f2a602":[6,0,3204,2],
 "df/da0/classspell__item__fetch__ball.html#a72e57e8a4bdb9a4fcd73e3519b6025ea":[6,0,3204,0],
 "df/da0/classspell__item__fetch__ball.html#aac4d3c8ecde3652c65c05abad5c8eaeb":[6,0,3204,1],
 "df/da1/boss__black__knight_8cpp.html":[7,0,0,0,1,3,5,2,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/da7/classBattleground.html#a50d5eb3fe1e847aedc5584ea8a441bd8":[6,0,310,136],
 "df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af":[6,0,310,134],
 "df/da7/classBattleground.html#a55305a8fcb4f4eaa7cbb20a74a75fa2a":[6,0,310,205],
-"df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[6,0,310,50],
-"df/da7/classBattleground.html#a5746983283edbcf45f6a980b61b6cf05":[6,0,310,111]
+"df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[6,0,310,50]
 };

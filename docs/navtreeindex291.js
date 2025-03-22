@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afd47647585e59de3d6cbd16de23e1520":[7,0,0,0,1,3,2,4,9,9,3],
 "db/dde/boss__shade__of__aran_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,2,4,9,12],
 "db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,9,5],
 "db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99aa80ba99dcffa62244d61ae4cdfeae4f89":[7,0,0,0,1,3,2,4,9,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a98b2ff2f0e152a41106eaace5273aa69":[6,0,1674,0,1],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#ac96af1fd018e88950d1c58562dffdb83":[6,0,1674,0,3],
 "db/dec/classboss__sister__svalna.html":[6,0,696],
-"db/dec/classboss__sister__svalna.html#a233a9606db61f6ab945350e98a0929ff":[6,0,696,1],
-"db/dec/classboss__sister__svalna.html#a5eb89badd75104dfe1dc3e03d372adc0":[6,0,696,2]
+"db/dec/classboss__sister__svalna.html#a233a9606db61f6ab945350e98a0929ff":[6,0,696,1]
 };

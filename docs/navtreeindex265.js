@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a6dff9ff5332c0bc337840882689f47ed":[6,0,2071,0,7],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#accc43068aa0a7f62d6fabfb85acb1498":[6,0,2071,0,2],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#ae78dc64f858573b234210ca175e5bdd9":[6,0,2071,0,6],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#aef3a1631b4bb8d28d4056036981b0192":[6,0,2071,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,18,0,5],
 "da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[6,0,5,0,7],
 "da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[5,0,18,0,7],
-"da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[6,0,5,0,17],
-"da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[5,0,18,0,17]
+"da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[6,0,5,0,17]
 };

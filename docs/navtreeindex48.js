@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2a15275eeb937b91c9a899f75605c50f37":[7,0,0,0,1,3,9,2,181,2],
 "d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2a708e907276d7e1362ed4397f69c2b4e2":[7,0,0,0,1,3,9,2,181,1],
 "d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2ae0cc70b96f7fdb7ee4ea3ca16af8ccb0":[7,0,0,0,1,3,9,2,181,0],
 "d1/de4/spell__generic_8cpp.html#aef6fef4cb2f6d2a9535ef29e04d0b56d":[7,0,0,0,1,3,9,2,172],
@@ -209,14 +210,14 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[6,0,2977,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[6,0,2977,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,2977,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,70],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,58],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,70],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,70,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,58,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,70,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,58,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,70,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,58,0],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,70,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,70,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,58,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[6,0,0,58,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4150,0],
 "d1/dfb/classUnchainedMagicTargetSelector.html#af28ce8f46154ae6152e9025775a7f84f":[6,0,4150,1],
 "d1/dfc/classnpc__anubarak__spike.html":[6,0,1589],
-"d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1589,1],
-"d1/dfc/classnpc__anubarak__spike.html#a7d55b321eb7e595fe5886dc382134947":[6,0,1589,2]
+"d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1589,1]
 };

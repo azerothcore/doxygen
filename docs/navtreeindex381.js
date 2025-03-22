@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3152,1],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3152,3],
 "df/d6c/classnpc__cult__adherent.html":[6,0,1712],
 "df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1712,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[6,0,755,0,9],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a76ab9327e04b82b534a9b3ea59b377d1":[6,0,755,0,1],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a9ba6e2620a25728bf30d4d813a82b781":[6,0,755,0,2],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[6,0,755,0,5],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#abde00baf4099361b8c26e6e0cf6c1517":[6,0,755,0,3]
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[6,0,755,0,5]
 };

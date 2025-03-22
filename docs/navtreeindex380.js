@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,27,22,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[6,0,9,22,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[6,0,9,22,24],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[5,0,27,22,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[6,0,3034,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html":[6,0,3152],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[6,0,3152,0],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3152,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3152,1]
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3152,2]
 };

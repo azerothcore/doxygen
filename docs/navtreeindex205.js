@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#af96597cf06d2ed71f85c7b4055793dcf":[6,0,802,0,3],
 "d7/dec/classOutdoorPvP__hellfire__peninsula.html":[6,0,2336],
 "d7/dec/classOutdoorPvP__hellfire__peninsula.html#a8ef74076d03225c889c6f027fbbfe25d":[6,0,2336,0],
 "d7/dec/classOutdoorPvP__hellfire__peninsula.html#aee93a8191457d7a264053809a5c082e8":[6,0,2336,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2acbb1c65d42b14ed4fe750fe86e1ff46c":[7,0,0,0,1,2,16,10,6,5,26],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2acf8ee0729f52b2faf0dbdb070b0d80d5":[7,0,0,0,1,2,16,10,6,5,14],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ad78130becc220b0cbf9036e1a74fa960":[7,0,0,0,1,2,16,10,6,5,6],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae122f3cacfbbd7b91297fd427fdfa602":[7,0,0,0,1,2,16,10,6,5,7],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae1bb7b9e3ed002517b2a8756d473f2e6":[7,0,0,0,1,2,16,10,6,5,13]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae122f3cacfbbd7b91297fd427fdfa602":[7,0,0,0,1,2,16,10,6,5,7]
 };

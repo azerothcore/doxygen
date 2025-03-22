@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[7,0,0,0,1,3,5,9,2,1,26,5],
 "d9/d88/structCreatureTypeEntry.html":[6,0,933],
 "d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[6,0,933,0],
 "d9/d89/classspellIdImmunityPredicate.html":[6,0,4028],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eae6689904a252475374cedac39faf24c5":[7,0,0,0,1,3,2,15,8,3,11],
 "d9/d98/zulaman_8h.html#aa38a92afffebaf4b33726515956b256b":[7,0,0,0,1,3,2,15,8,8],
 "d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64":[7,0,0,0,1,3,2,15,8,1],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,15,8,5],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a153c48431c2bf66e37650df7a410ad55":[7,0,0,0,1,3,2,15,8,5,14]
+"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,15,8,5]
 };

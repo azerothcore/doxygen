@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/db5/boss__ambassador__hellmaw_8cpp.html":[7,0,0,0,1,3,7,0,3,0],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,3,0,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ea25df5d0311ff5aa6cb5889f791d1c":[7,0,0,0,1,3,7,0,3,0,1,2],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a90a7b66caec18784ce990f805001ecf6":[7,0,0,0,1,3,7,0,3,0,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a17d14550482d174e0671936d35b7173c":[6,0,800,0,11],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a1b18ae728ca1593a9865f39f0b008386":[6,0,800,0,16],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a1cf01e5963fd0628300926739b708326":[6,0,800,0,7],
-"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a22b9fc38894f7f61c408b2569ed5f583":[6,0,800,0,2],
-"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a274dc0665bbf26f670be31250d3bd140":[6,0,800,0,4]
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a22b9fc38894f7f61c408b2569ed5f583":[6,0,800,0,2]
 };

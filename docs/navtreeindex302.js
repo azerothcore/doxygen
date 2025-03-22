@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1747,3],
 "dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1747,4],
 "dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1747,2],
 "dc/d48/structnpc__drakonid__spawner.html#a6e0f0d2f6c265f9e5206f441dead8b2f":[6,0,1747,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ab2ca710f119fbfc1a7b57a88462d145b":[6,0,1337,0,7],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#abded7dc13c226ccad53c151d75ced243":[6,0,1337,0,11],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ada64ef9f71d61ea19144cec596ba06e2":[6,0,1337,0,12],
-"dc/d5a/ModelIgnoreFlags_8h.html":[7,0,0,0,0,1,2,2],
-"dc/d5a/ModelIgnoreFlags_8h.html#a3c25bdb4d30c345cd6760935e2c456f4":[7,0,0,0,0,1,2,2,1]
+"dc/d5a/ModelIgnoreFlags_8h.html":[7,0,0,0,0,1,2,2]
 };

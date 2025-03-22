@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d6/d39/classWorld.html#a281c168df41130831d0fff25d9de1f31":[4,2,11,21],
 "d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4":[4,2,11,3],
 "d6/d39/classWorld.html#a2a7e783f9c0931334567118e5dedd8b4":[4,2,11,27],
 "d6/d39/classWorld.html#a2b2279cff4455dfd3f7bd718f12b0edc":[4,2,11,86],
@@ -204,14 +205,14 @@ var NAVTREEINDEX167 =
 "d6/d41/structboss__veknilash.html#a454027d829b962ee0feebb6fd5687714":[6,0,760,1],
 "d6/d41/structboss__veknilash.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f":[6,0,760,0],
 "d6/d41/structboss__veknilash.html#ace8de3d9a397d0571da1f5bdd2ba84d5":[6,0,760,2],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,14,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[6,0,3,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,14,0,0],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,14,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[6,0,3,0,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,14,0,1],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,14,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[6,0,3,0,1],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,14,0,2],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,14,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[6,0,3,0,2],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,14,0,2],
 "d6/d46/classspell__sha__heroism.html":[6,0,3739],
 "d6/d46/classspell__sha__heroism.html#a1374c764b20b95febbca44c593bde218":[6,0,3739,3],
 "d6/d46/classspell__sha__heroism.html#a2eb14ea281b41b08acd4514c01aa938f":[6,0,3739,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#add8e04fa930e970ab0e88258c10f9c5d":[6,0,1315,0,21],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae409ddd2759f8eea883cefa21d045a40":[6,0,1315,0,12],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae5f9223af1488f1edd99f35f7b1c7207":[6,0,1315,0,6],
-"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af":[6,0,1315,0,14],
-"d6/d48/PlayerSettings_8h.html":[7,0,0,0,1,2,16,7,10]
+"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af":[6,0,1315,0,14]
 };

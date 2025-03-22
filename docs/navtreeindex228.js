@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f19c046070a900c5c42918efc4bb321":[7,0,0,0,1,3,7,1,2,24,1],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3e85cbbbaeff961d581e7b82cd95f0d9":[7,0,0,0,1,3,7,1,2,24,30],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4b89c60b5c3c0bc665ba94de27929102":[7,0,0,0,1,3,7,1,2,24,27],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4ca86829fc52c48373f86bd6c3af6d7e":[7,0,0,0,1,3,7,1,2,24,21],
@@ -189,12 +190,12 @@ var NAVTREEINDEX228 =
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[6,0,0,4,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,1,7,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[6,0,0,4,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,1,7,0,1,3],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[6,0,0,4,0,1,3],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,1,7,0,1,3],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[6,0,0,1,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[5,0,1,2,6],
-"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[6,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[5,0,1,2,6,0],
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[6,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[6,0,0,1,6,1],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[5,0,1,2,6,1],
 "d9/d0c/SessionKeyGenerator_8h.html":[7,0,0,0,0,3,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "d9/d13/classAppender.html#a57fad2f7bd4da733633051f47efd6555":[6,0,153,3],
 "d9/d13/classAppender.html#a643046505390b3988572c53051d7d4c1":[6,0,153,4],
 "d9/d13/classAppender.html#a7194b4ff5130399352c356852023004d":[6,0,153,1],
-"d9/d13/classAppender.html#a8414d7de4187a3deb55024278734836f":[6,0,153,7],
-"d9/d13/classAppender.html#aa0ec99ab59463bfe249b64e5f9a7645d":[6,0,153,6]
+"d9/d13/classAppender.html#a8414d7de4187a3deb55024278734836f":[6,0,153,7]
 };

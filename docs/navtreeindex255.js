@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298caddaff74a2cad5abd4815f2321da49fbb":[7,0,0,0,1,3,5,6,10,82,1],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cadfde794bb53d6a4a9b83e5c5447b8be3":[7,0,0,0,1,3,5,6,10,82,43],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cae9b52f3d3357db692eeb358fc786dd59":[7,0,0,0,1,3,5,6,10,82,77],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298caf287197b4df83103a1c238c24fc07bf2":[7,0,0,0,1,3,5,6,10,82,49],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "da/d7e/boss__kiljaeden_8cpp.html#a3b18c43788883844618f4debe7ce9440":[7,0,0,0,1,3,2,12,4,20],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,12,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca007a510b4c589ff1fb1249b9a9e12db0":[7,0,0,0,1,3,2,12,4,18,20],
-"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca100c3eddf87c777b1667bb8fa8d5af89":[7,0,0,0,1,3,2,12,4,18,4],
-"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca225b728c3038468a40a4b60a95519854":[7,0,0,0,1,3,2,12,4,18,8]
+"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca100c3eddf87c777b1667bb8fa8d5af89":[7,0,0,0,1,3,2,12,4,18,4]
 };

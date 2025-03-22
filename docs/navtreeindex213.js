@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d8/d58/classMapMgr.html#a26c76c9bce47be62be66ae14fee721c9":[6,0,1483,32],
 "d8/d58/classMapMgr.html#a27ae0e4bff1d12c2fe78c2a059b3cde7":[6,0,1483,26],
 "d8/d58/classMapMgr.html#a3319fbf99613f8e454db482277692cdb":[6,0,1483,25],
 "d8/d58/classMapMgr.html#a425f004fdaa337420087218db69d5fbf":[6,0,1483,0],
@@ -105,12 +106,12 @@ var NAVTREEINDEX213 =
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,30,7,5,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,30,7,5,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,11,7,5,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,30,7,5,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,11,7,5,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,30,7,5,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,30,7,5,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,11,7,5,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,30,7,5,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,30,7,5,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,11,7,5,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,30,7,5,0],
 "d8/d60/classboss__sartharion__shadron.html":[6,0,683],
 "d8/d60/classboss__sartharion__shadron.html#a95c7184ee7589f01920adc57a7df963b":[6,0,683,2],
 "d8/d60/classboss__sartharion__shadron.html#ac297719abff8c795af10973492fc6fbe":[6,0,683,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,30,9,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,540],
 "d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,540,2],
-"d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,540,1],
-"d8/d6c/classspell__kiljaeden__darkness__aura.html":[6,0,3315]
+"d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,540,1]
 };

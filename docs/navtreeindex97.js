@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#af33db4e2ce1bb85e38437db6ca7982f7":[6,0,790,0,3],
 "d3/d45/classgo__beacon.html":[6,0,1113],
 "d3/d45/classgo__beacon.html#abd168f0c1ac9a64cece280758f3120d4":[6,0,1113,2],
 "d3/d45/classgo__beacon.html#ad4224cabdc7210d9a0a46fb1eed1a23b":[6,0,1113,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a152416e33edf5117ecb11946bae31059":[6,0,1812,0,2],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a2e68549ad81f51bf596a7727a32c6e03":[6,0,1812,0,11],
 "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a31f7ff1c08dd33abdae1414f385e5d9e":[6,0,1812,0,10],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a48a153973c4a5d8b911a5f89d3c968eb":[6,0,1812,0,12],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a6cf74375a89074ebfdaef1f189f58f57":[6,0,1812,0,6]
+"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#a48a153973c4a5d8b911a5f89d3c968eb":[6,0,1812,0,12]
 };

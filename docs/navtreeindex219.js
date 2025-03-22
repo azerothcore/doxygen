@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7":[7,0,0,0,1,2,17,1,9,2],
 "d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0":[7,0,0,0,1,2,17,1,9,3],
 "d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136":[7,0,0,0,1,2,17,1,9,1],
 "d8/d92/classgo__vh__activation__crystal.html":[6,0,1195],
@@ -202,10 +203,10 @@ var NAVTREEINDEX219 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1651,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,30,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2485],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d9f/classUnitAura.html#af4d453cee6758e633bdcae0049581898":[6,0,4154,2],
 "d8/d9f/classnpc__ringo.html":[6,0,2069],
 "d8/d9f/classnpc__ringo.html#aabccd10a446986487bbb09fc2d33cfd9":[6,0,2069,1],
-"d8/d9f/classnpc__ringo.html#abdf4e5e1b26c1b1a288047e24188ad10":[6,0,2069,3],
-"d8/d9f/classnpc__ringo.html#aee6c9988f0c038c74b0deb3d44617ef1":[6,0,2069,2]
+"d8/d9f/classnpc__ringo.html#abdf4e5e1b26c1b1a288047e24188ad10":[6,0,2069,3]
 };

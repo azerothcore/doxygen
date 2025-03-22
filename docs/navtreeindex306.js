@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d8c/structnpc__amanishi__scout.html#afd9a1a57c413d5857331ac90665cc1e0":[6,0,1576,5],
 "dc/d8c/structnpc__ulduar__aerial__command__unit_1_1npc__ulduar__aerial__command__unitAI.html":[6,0,2204,0],
 "dc/d8c/structnpc__ulduar__aerial__command__unit_1_1npc__ulduar__aerial__command__unitAI.html#a04cffd153f3298595cd1b7da706d14bb":[6,0,2204,0,13],
 "dc/d8c/structnpc__ulduar__aerial__command__unit_1_1npc__ulduar__aerial__command__unitAI.html#a1625ea42db1aebe26d7d52a3e1ac3e04":[6,0,2204,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/da0/classDataMap_1_1Base.html":[6,0,947,0],
 "dc/da0/classDataMap_1_1Base.html#a124eb44dd53aa6e964e691b12bcb8d57":[6,0,947,0,0],
 "dc/da0/classboss__razuvious__minion.html":[6,0,669],
-"dc/da0/classboss__razuvious__minion.html#ae23d51c9ebfe31f624a749578d27252c":[6,0,669,1],
-"dc/da0/classboss__razuvious__minion.html#afab8dccbc0b098a1fa058ef8479ba865":[6,0,669,2]
+"dc/da0/classboss__razuvious__minion.html#ae23d51c9ebfe31f624a749578d27252c":[6,0,669,1]
 };

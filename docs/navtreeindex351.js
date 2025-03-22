@@ -1,5 +1,6 @@
 var NAVTREEINDEX351 =
 {
+"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,24],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,24,2],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8":[7,0,0,0,1,3,9,7,24,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX351 =
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3201,3],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3201,0],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1994],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1994,2],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1994,1]
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1994,2]
 };

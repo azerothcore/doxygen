@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b":[6,0,1699,0,8],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa8b9a05d3c7d89aa054af919672a69ec":[6,0,1699,0,5],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e":[6,0,1699,0,10],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ab7a8f6423e12ca0ea9bcb085594013a2":[6,0,1699,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,7,4,3,2,6,1],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88":[7,0,0,0,1,3,7,4,3,2,6,0],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,7,4,3,2,6,2],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[7,0,0,0,1,3,7,4,3,2,6,4],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[7,0,0,0,1,3,7,4,3,2,6,3]
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[7,0,0,0,1,3,7,4,3,2,6,4]
 };

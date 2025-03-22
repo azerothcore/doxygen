@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d7d/classnpc__pet__dk__ghoul.html#ac8af6ae753151a08e80d434a04ef58db":[6,0,2004,1],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html":[6,0,3475],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a125ce6c8dfdc6419b4409c72f74fcf85":[6,0,3475,2],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a5992d94317d3da7400d5a9ab115e621e":[6,0,3475,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d8c/structnpc__amanishi__scout.html#a5969fadd871094e993c4d3fe0b08054c":[6,0,1576,1],
 "dc/d8c/structnpc__amanishi__scout.html#a74bed56c21c184e661f62c30ce6d9140":[6,0,1576,0],
 "dc/d8c/structnpc__amanishi__scout.html#ac527a3a656888f7ac3d13636a0de7aad":[6,0,1576,2],
-"dc/d8c/structnpc__amanishi__scout.html#acb736dc42c5f9afbd92c97bfa8293606":[6,0,1576,3],
-"dc/d8c/structnpc__amanishi__scout.html#afd9a1a57c413d5857331ac90665cc1e0":[6,0,1576,5]
+"dc/d8c/structnpc__amanishi__scout.html#acb736dc42c5f9afbd92c97bfa8293606":[6,0,1576,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae6f22329aa112227847e53a1c83fb0cc":[7,0,0,0,1,3,5,6,13,6,48],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae70c2fba3da38542de5b09b692ee5251":[7,0,0,0,1,3,5,6,13,6,178],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae7602060d95905d39d735be974c99c5f":[7,0,0,0,1,3,5,6,13,6,100],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aea9e467005afeec5b2005a062777a782":[7,0,0,0,1,3,5,6,13,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d6a/structQueryResultFieldMetadata.html#af8b9f87733157401cff6b0846a545fa4":[6,0,2443,2],
 "d9/d6b/classspell__dtk__summon__random__drakkari.html":[6,0,2826],
 "d9/d6b/classspell__dtk__summon__random__drakkari.html#a0ab270193a95f9043afd40c9ffd2a46b":[6,0,2826,3],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a667e50b01f431dba025f692484f6e7ba":[6,0,2826,0],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a7ffa6eb498e9ec06d5cb4f81cff44389":[6,0,2826,2]
+"d9/d6b/classspell__dtk__summon__random__drakkari.html#a667e50b01f431dba025f692484f6e7ba":[6,0,2826,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d9f/classnpc__ringo.html#aee6c9988f0c038c74b0deb3d44617ef1":[6,0,2069,2],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html":[6,0,463,0],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a001e00435bb01b464573dbff8338c64a":[6,0,463,0,1],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a0c6684365e711d48f4f4ffc4a2b4e524":[6,0,463,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/db3/ScriptLoader_8h.html":[7,0,0,0,1,3,11],
 "d8/db3/ScriptLoader_8h.html#abb65cb085124c346fd32ac4b92f0baa9":[7,0,0,0,1,3,11,0],
 "d8/db3/classSystemMgr.html":[6,0,4080],
-"d8/db3/classSystemMgr.html#a3603d019adf647df9f314a7ca61a25dd":[6,0,4080,7],
-"d8/db3/classSystemMgr.html#a4c90cb038afeb09c107979348bd3ca01":[6,0,4080,6]
+"d8/db3/classSystemMgr.html#a3603d019adf647df9f314a7ca61a25dd":[6,0,4080,7]
 };

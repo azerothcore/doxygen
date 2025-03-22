@@ -1,5 +1,6 @@
 var NAVTREEINDEX352 =
 {
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1994,1],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2225,0],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2225,0,1],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d":[6,0,2225,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX352 =
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddaa3391be8356e56c204b6a35987068fb0":[7,0,0,0,1,2,41,9,69,2],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddabf7f951ff4fe93548225f358bbd4fb9e":[7,0,0,0,1,2,41,9,69,3],
 "de/d30/SpellMgr_8h.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,9,71],
-"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64a":[7,0,0,0,1,2,41,9,64],
-"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa0a8c2fa5acc9cdc85f8748a3996282ac":[7,0,0,0,1,2,41,9,64,4]
+"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64a":[7,0,0,0,1,2,41,9,64]
 };

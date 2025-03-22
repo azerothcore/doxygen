@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,71,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3021],
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3021,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3021,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "db/d88/classspell__mc__play__dead__aura.html":[6,0,3403],
 "db/d88/classspell__mc__play__dead__aura.html#a201bafab6c483b08a6ae27054392dea9":[6,0,3403,4],
 "db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[6,0,3403,2],
-"db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[6,0,3403,1],
-"db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[6,0,3403,5]
+"db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[6,0,3403,1]
 };

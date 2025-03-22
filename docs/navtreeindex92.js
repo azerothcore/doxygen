@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a593edc6836aced49ac3587952f3517a7":[7,0,0,0,1,3,5,15,59],
 "d3/d09/zone__borean__tundra_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,15,55],
 "d3/d09/zone__borean__tundra_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,15,55,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dd":[7,0,0,0,1,3,5,15,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a7fa550f683fcf16f5bd70a307bffcb2b":[6,0,794,0,4],
 "d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a84a3ffe43a4ce49cd543f770594cd683":[6,0,794,0,0],
 "d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a8c382c37aaa3d20cfc0fe604af52bef4":[6,0,794,0,6],
-"d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#aec157bcf0628a7301bcb91dd62bcc484":[6,0,794,0,1],
-"d3/d10/classspell__algalon__phase__punch__aura.html":[6,0,2582]
+"d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#aec157bcf0628a7301bcb91dd62bcc484":[6,0,794,0,1]
 };

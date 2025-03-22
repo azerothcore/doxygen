@@ -1,5 +1,6 @@
 var NAVTREEINDEX236 =
 {
+"d9/d6b/classspell__dtk__summon__random__drakkari.html#a7ffa6eb498e9ec06d5cb4f81cff44389":[6,0,2826,2],
 "d9/d6b/classspell__dtk__summon__random__drakkari.html#a9a5ffd28102a519c06f3715d7f2b1039":[6,0,2826,1],
 "d9/d6b/structCharacterRenameInfo.html":[4,1,15],
 "d9/d6b/structCharacterRenameInfo.html#a46a89b6904e59f39f4e1460a9bb45765":[4,1,15,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56":[6,0,943,15],
 "d9/d7e/classDatabaseLoader.html#ab0ffcdb400e9e5d80598f89dddb3bea8":[6,0,943,6],
 "d9/d7e/classDatabaseLoader.html#ab1d02ab7bac2f577a2472a931bfc81b8":[6,0,943,1],
-"d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78":[6,0,943,16],
-"d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea":[6,0,943,13]
+"d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78":[6,0,943,16]
 };

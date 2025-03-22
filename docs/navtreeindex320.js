@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d3b/structGameObjectTemplate.html#a73b7a8c69a477574d1b7beeea56ff160":[6,0,1084,105],
 "dd/d3b/structGameObjectTemplate.html#a7685abf51a65578d19c80ef70530fe74":[6,0,1084,163],
 "dd/d3b/structGameObjectTemplate.html#a76bd513dbb4e218d18a79f8c041f1e37":[6,0,1084,183],
 "dd/d3b/structGameObjectTemplate.html#a76de4fc0f064242c41920702d35cc637":[6,0,1084,109],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#aeff0f7526f12f0e09e53c0e43a423799":[6,0,1841,0,8],
 "dd/d46/PetPackets_8h.html":[7,0,0,0,1,2,39,0,20],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[6,0,90],
-"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
-"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0]
+"dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1]
 };

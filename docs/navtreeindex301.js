@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d35/classadt__MHDR.html#a91801010d9fd98048e02a6dca36eefed":[6,0,138,18],
 "dc/d35/classadt__MHDR.html#aa89f72d475714b226ed737b43eb8f6fc":[6,0,138,15],
 "dc/d35/classadt__MHDR.html#ab1c6fc91e4ac6954f959cb26502b88ce":[6,0,138,14],
 "dc/d35/classadt__MHDR.html#abb5f6d7851880d74c6a645fe797cb355":[6,0,138,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2708,2],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2708,5],
 "dc/d48/structnpc__drakonid__spawner.html":[6,0,1747],
-"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1747,0],
-"dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1747,3]
+"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1747,0]
 };

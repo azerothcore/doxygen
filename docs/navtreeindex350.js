@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1":[5,0,20,16],
 "de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
 "de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html":[6,0,3014],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "de/d20/structEmotesTextEntry.html":[6,0,1007],
 "de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1007,0],
 "de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1007,1],
-"de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7],
-"de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27]
+"de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7]
 };

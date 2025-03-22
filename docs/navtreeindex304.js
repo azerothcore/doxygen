@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"dc/d6d/classspell__dk__dancing__rune__weapon.html#a7f8fea0f52ed4c98120195f205d6c0d7":[6,0,2737,2],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a8d97a7638c682b99e466155bd819df53":[6,0,2737,3],
 "dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html":[6,0,1992,0],
 "dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#a06fa50580efeab8d847a05f20956d175":[6,0,1992,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d7d/classachievement__quick__shave.html#a151c479da3d4cec05999ad8a249b100c":[6,0,81,1],
 "dc/d7d/classachievement__quick__shave.html#a6c2f1e60d2311922abbaf7e22e1e9e4b":[6,0,81,0],
 "dc/d7d/classnpc__pet__dk__ghoul.html":[6,0,2004],
-"dc/d7d/classnpc__pet__dk__ghoul.html#a74b068bdccf5d9b25b4ef3bff0a193ef":[6,0,2004,2],
-"dc/d7d/classnpc__pet__dk__ghoul.html#ac8af6ae753151a08e80d434a04ef58db":[6,0,2004,1]
+"dc/d7d/classnpc__pet__dk__ghoul.html#a74b068bdccf5d9b25b4ef3bff0a193ef":[6,0,2004,2]
 };
