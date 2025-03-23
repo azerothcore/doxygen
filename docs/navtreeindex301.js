@@ -1,5 +1,13 @@
 var NAVTREEINDEX301 =
 {
+"dc/d35/classadt__MHDR.html#a4936a7d0e5ad64f4f75f6550418f80e6":[6,0,138,6],
+"dc/d35/classadt__MHDR.html#a5014297529c070757b1a3672f679b83f":[6,0,138,0],
+"dc/d35/classadt__MHDR.html#a5d1b23b9a55361516d4dedbef5886d52":[6,0,138,9],
+"dc/d35/classadt__MHDR.html#a62270e73c2fd69dcfd38a4073de20fbc":[6,0,138,12],
+"dc/d35/classadt__MHDR.html#a6672516f9b82b4dc33e28a5b9fda7000":[6,0,138,2],
+"dc/d35/classadt__MHDR.html#a677d2fc59ea16c6be991d2f1a9365de6":[6,0,138,17],
+"dc/d35/classadt__MHDR.html#a6842806c1317e9be2a2cb5cbeeb0580d":[6,0,138,7],
+"dc/d35/classadt__MHDR.html#a73087fbf3b4ff49036f3d3091c6125bc":[6,0,138,10],
 "dc/d35/classadt__MHDR.html#a91801010d9fd98048e02a6dca36eefed":[6,0,138,18],
 "dc/d35/classadt__MHDR.html#aa89f72d475714b226ed737b43eb8f6fc":[6,0,138,15],
 "dc/d35/classadt__MHDR.html#ab1c6fc91e4ac6954f959cb26502b88ce":[6,0,138,14],
@@ -241,13 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d48/classWardenCheckMgr.html#aba9de1e123070338dc0049db8d8f0663":[6,0,4189,7],
 "dc/d48/classWardenCheckMgr.html#ac1d20dec3028cdff0f475c4aff8af928":[6,0,4189,10],
 "dc/d48/classWardenCheckMgr.html#ad02847547a06d98c582d09992dce9d11":[6,0,4189,8],
-"dc/d48/classspell__deathbringer__blood__link__aura.html":[6,0,2708],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a13426f7a45e9434f980b42f174b22da8":[6,0,2708,0],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2708,4],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[6,0,2708,3],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[6,0,2708,1],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2708,2],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2708,5],
-"dc/d48/structnpc__drakonid__spawner.html":[6,0,1747],
-"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1747,0]
+"dc/d48/classspell__deathbringer__blood__link__aura.html":[6,0,2708]
 };

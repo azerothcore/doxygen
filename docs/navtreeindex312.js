@@ -1,5 +1,14 @@
 var NAVTREEINDEX312 =
 {
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a2a1e824d2d9c51bad877f5fb83878dee":[7,0,0,0,1,3,3,1,36,6],
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a3269e8cecce222ec626b0dd9538e1ad3":[7,0,0,0,1,3,3,1,36,4],
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a33886550fcce093bd39450d188489113":[7,0,0,0,1,3,3,1,36,1],
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92ad59301158e6d930fd6318326d74e141c":[7,0,0,0,1,3,3,1,36,2],
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92af83258e7e8426f53cf743dbd27957aa5":[7,0,0,0,1,3,3,1,36,3],
+"dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9ca":[7,0,0,0,1,3,3,1,31],
+"dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9caa3296b396df4d795d678648eaa432eb6a":[7,0,0,0,1,3,3,1,31,0],
+"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486":[7,0,0,0,1,3,3,1,43],
+"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a0220cc3b03f1da529e7b1fe0ba0b682f":[7,0,0,0,1,3,3,1,43,5],
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a122677f40c388416fc6533f1e95ee560":[7,0,0,0,1,3,3,1,43,2],
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a13406c6b7df92db99d8d2f4ae956ab3b":[7,0,0,0,1,3,3,1,43,7],
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a1b594e8564f9eb50f05f6105f5655627":[7,0,0,0,1,3,3,1,43,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX312 =
 "dc/de9/classnpc__azure__raider.html":[6,0,1621],
 "dc/de9/classnpc__azure__raider.html#a249abee0df263e183341193b828a310c":[6,0,1621,1],
 "dc/de9/classnpc__azure__raider.html#a88a45e3b117c5105f7541d640dda8470":[6,0,1621,2],
-"dc/dea/namespaceEnumTraits.html":[5,0,13],
-"dc/dea/namespaceEnumTraits.html#a7294b75cb336d554d5ce2b75b05c37d6":[5,0,13,0],
-"dc/dec/chapter1_8cpp.html":[7,0,0,0,1,3,2,6,0],
-"dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691":[7,0,0,0,1,3,2,6,0,30],
-"dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691a791a1bbc1293066fe9178912253684a5":[7,0,0,0,1,3,2,6,0,30,1],
-"dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691af449fa9cb4e213463a3e832e8e6d67be":[7,0,0,0,1,3,2,6,0,30,0],
-"dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41":[7,0,0,0,1,3,2,6,0,29],
-"dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5":[7,0,0,0,1,3,2,6,0,29,9],
-"dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb":[7,0,0,0,1,3,2,6,0,29,8],
-"dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a384b7a45547dd7ea79d9a5a31a1ff603":[7,0,0,0,1,3,2,6,0,29,6]
+"dc/dea/namespaceEnumTraits.html":[5,0,13]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX379 =
 {
+"df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[5,0,24,1],
+"df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3":[5,0,24,0],
+"df/d43/structMapDifficultyEntry.html":[6,0,1478],
+"df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1478,0],
+"df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1478,3],
+"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1478,4],
+"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1478,2],
+"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1478,1],
+"df/d44/structBattlegroundData.html":[6,0,316],
 "df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[6,0,316,1],
 "df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[6,0,316,2],
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,316,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX379 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ab7d19479a52a1e829f4e0c93b4222f60":[6,0,9,22,14],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,27,22,2],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,9,22,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[6,0,9,22,19],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[5,0,27,22,19],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac298aeb50ad8c1215b639f7d1dd8fc05":[5,0,27,22,27],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac298aeb50ad8c1215b639f7d1dd8fc05":[6,0,9,22,27],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac655ba28f1de1d6f16a56bbcd17da66c":[5,0,27,22,17],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac655ba28f1de1d6f16a56bbcd17da66c":[6,0,9,22,17],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad02faa4408614d29ad5a5815f9c5af16":[6,0,9,22,25],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad02faa4408614d29ad5a5815f9c5af16":[5,0,27,22,25],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[5,0,27,22,31],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2196771f1e862e5bd8aff841d370156":[6,0,9,22,31]
+"df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[6,0,9,22,19]
 };

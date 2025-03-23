@@ -1,5 +1,12 @@
 var NAVTREEINDEX225 =
 {
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb":[7,0,0,0,1,2,8,1,19,9,4],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23":[7,0,0,0,1,2,8,1,19,9,0],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675abdd8e367597aaf2a5d12d211f80c2569":[7,0,0,0,1,2,8,1,19,9,5],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675ac3820dbff51304ae6b49225c5e548f38":[7,0,0,0,1,2,8,1,19,9,3],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675ae55d488f431dee5f1dce8bf7564d591d":[7,0,0,0,1,2,8,1,19,9,2],
+"d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fff":[7,0,0,0,1,2,8,1,19,8],
+"d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffa02705aa2b9465e7e046a0e5db3119046":[7,0,0,0,1,2,8,1,19,8,2],
 "d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffab78884f340f9c3c49e77e6543bb820ec":[7,0,0,0,1,2,8,1,19,8,0],
 "d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffacd2da24d75a595742cb53197a68f25c2":[7,0,0,0,1,2,8,1,19,8,1],
 "d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7":[7,0,0,0,1,2,8,1,19,12],
@@ -242,12 +249,5 @@ var NAVTREEINDEX225 =
 "d8/de7/structDungeonEncounter.html#a3e48a996a47ddcc1b18aaac339457f3d":[6,0,986,0],
 "d8/de7/structDungeonEncounter.html#a66a077e193f099bb7aef363dc75672d6":[6,0,986,2],
 "d8/de7/structDungeonEncounter.html#a67e29b891887e339dbb40515d082e781":[6,0,986,4],
-"d8/de7/structDungeonEncounter.html#a700a0792973678339f33ab85e7396918":[6,0,986,1],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html":[6,0,394,0],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a02bd445d2c969ea186a48f68585e640c":[6,0,394,0,12],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a138d14f9666b03dda50f6adeea609046":[6,0,394,0,5],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a2e99538fdc107bc7e91c23898c178047":[6,0,394,0,2],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a31e1bceb7b944b3db9d7e881be4246bf":[6,0,394,0,8],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a5314bce83c4c7e80ecea99a8d5559fd8":[6,0,394,0,9],
-"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a70791697fde5c6194226fd42c893385a":[6,0,394,0,6]
+"d8/de7/structDungeonEncounter.html#a700a0792973678339f33ab85e7396918":[6,0,986,1]
 };

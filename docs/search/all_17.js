@@ -375,7 +375,7 @@ var searchData=
   ['wintergrasptowercannondata_372',['WintergraspTowerCannonData',['../d0/d25/structWintergraspTowerCannonData.html',1,'']]],
   ['wintergrasptowerdata_373',['WintergraspTowerData',['../d7/d4d/structWintergraspTowerData.html',1,'']]],
   ['wintergraspworkshopids_374',['WintergraspWorkshopIds',['../d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59',1,'BattlefieldWG.h']]],
-  ['wintergraspworldstates_375',['wintergraspworldstates',['../d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1',1,'WintergraspWorldStates:&#160;BattlefieldWG.h'],['../d6/d4f/BattlefieldWG_8h.html#a7653408543d938494276cb3de768d7b6',1,'WintergraspWorldstates:&#160;BattlefieldWG.h']]],
+  ['wintergraspworldstates_375',['wintergraspworldstates',['../d6/d4f/BattlefieldWG_8h.html#a7653408543d938494276cb3de768d7b6',1,'WintergraspWorldstates:&#160;BattlefieldWG.h'],['../d6/d4f/BattlefieldWG_8h.html#afca19a122d04a5d4913c90496058fca1',1,'WintergraspWorldStates:&#160;BattlefieldWG.h']]],
   ['winterwondervolttrap_376',['winterWondervoltTrap',['../d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5',1,'winter_veil.cpp']]],
   ['wisp_5foffset_377',['WISP_OFFSET',['../dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84',1,'boss_archimonde.cpp']]],
   ['wispertimer_378',['WisperTimer',['../d7/d53/structboss__cthun.html#abad23f1df9c6989e7a6d3d62143adb05',1,'boss_cthun']]],

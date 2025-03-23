@@ -1,5 +1,14 @@
 var NAVTREEINDEX390 =
 {
+"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[6,0,1004,8],
+"df/dd3/classachievement__shadowdodger.html":[6,0,86],
+"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,86,1],
+"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,86,0],
+"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,4],
+"df/dd4/MMapMgr_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[7,0,0,0,0,1,0,4,0],
+"df/dd4/MMapMgr_8cpp.html#a27e34ce3b8808f2aa889e5c4e623059a":[7,0,0,0,0,1,0,4,1],
+"df/dd4/classspell__mage__fingers__of__frost__proc.html":[6,0,3361],
+"df/dd4/classspell__mage__fingers__of__frost__proc.html#a2640f58f3e7442c37615b61ecf938a6f":[6,0,3361,1],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html#a55be2362ac226caa615e07a2a3b5ea38":[6,0,3361,2],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html#a5b8ee53249a19954e4d46b17422207d5":[6,0,3361,0],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3628],
@@ -240,14 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[6,0,4151,146],
 "df/dd9/classUnit.html#a1da6b0550230616c9dd52234bbcb1cf3":[6,0,4151,898],
 "df/dd9/classUnit.html#a1e69fbab577551800dadbd0611998572":[6,0,4151,551],
-"df/dd9/classUnit.html#a1ea5dd018a829cf7aae73fc7e72a6507":[6,0,4151,789],
-"df/dd9/classUnit.html#a1ed7bebb7769f200cc2625ae2a1988b0":[6,0,4151,159],
-"df/dd9/classUnit.html#a1ed9a17a4f9c74be7f57474434aa528b":[6,0,4151,927],
-"df/dd9/classUnit.html#a1f133c042285f311c455f73e7cdff3fb":[6,0,4151,457],
-"df/dd9/classUnit.html#a1f1c9408465967c12bfb01e7c4752956":[6,0,4151,584],
-"df/dd9/classUnit.html#a21dd624e5eb4ea03af2b0fe4fa5e563b":[6,0,4151,833],
-"df/dd9/classUnit.html#a21fb6c99b3caf8f2044a57934636c2f7":[6,0,4151,868],
-"df/dd9/classUnit.html#a224388533d024aef22839deaec5a2f68":[6,0,4151,502],
-"df/dd9/classUnit.html#a241cc09ac15182e02551cc727b8e1a9e":[6,0,4151,564],
-"df/dd9/classUnit.html#a247d8839a6b76306c1f96dd5be62fbb1":[6,0,4151,753]
+"df/dd9/classUnit.html#a1ea5dd018a829cf7aae73fc7e72a6507":[6,0,4151,789]
 };

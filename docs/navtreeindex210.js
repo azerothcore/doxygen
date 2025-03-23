@@ -1,5 +1,12 @@
 var NAVTREEINDEX210 =
 {
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb":[5,0,27,9,1],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb":[6,0,9,9,1],
+"d8/d28/classnpc__fos__leader__second.html":[6,0,1780],
+"d8/d28/classnpc__fos__leader__second.html#a0e24659ef6e834da5a3adc8d79f0db4e":[6,0,1780,1],
+"d8/d28/classnpc__fos__leader__second.html#a96082888ccbb1c81be8327e5e0d84e03":[6,0,1780,2],
+"d8/d28/classnpc__vh__void__sentry.html":[6,0,2256],
+"d8/d28/classnpc__vh__void__sentry.html#a6d4995d112a3fe6b59c3c3c417d98c45":[6,0,2256,1],
 "d8/d28/classnpc__vh__void__sentry.html#ab3bcb8f8e9084e2ab588f80929a5d5ce":[6,0,2256,2],
 "d8/d28/classspell__hun__viper__attack__speed.html":[6,0,3098],
 "d8/d28/classspell__hun__viper__attack__speed.html#a38399457b6cb8ebf4c5e457e0590cb1a":[6,0,3098,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba8feb23c45c28481995d003c9928a010a":[7,0,0,0,1,1,0,0,3,1,43],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba94a10b92012f8bf9cdb1517ddb795a6f":[7,0,0,0,1,1,0,0,3,1,12],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba98ad2ada674335773cdc3a4a1b6807f1":[7,0,0,0,1,1,0,0,3,1,37],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d":[7,0,0,0,1,1,0,0,3,1,68],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9a7cf024b0e5c28895f91c09000ac1af":[7,0,0,0,1,1,0,0,3,1,33],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c6bf80dfd213b44e55395bc10e8ab0d":[7,0,0,0,1,1,0,0,3,1,45],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c73f070fb33a0ff785f2e7193b0387f":[7,0,0,0,1,1,0,0,3,1,54],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9e0cd899030e505d106466c297cd8fd1":[7,0,0,0,1,1,0,0,3,1,67],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaa0d93a7c5e669e06eaa240d94c97c53a":[7,0,0,0,1,1,0,0,3,1,75],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaa4369346f0fccec127854f52ee24e38e":[7,0,0,0,1,1,0,0,3,1,16],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaa4cc64163fd79735d084d42bad730fbc":[7,0,0,0,1,1,0,0,3,1,35]
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d":[7,0,0,0,1,1,0,0,3,1,68]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX231 =
 {
+"d9/d3a/classVec2D.html#a3048ebc1d70a8aa8a63665a5f64bfc72":[6,0,4168,6],
+"d9/d3a/classVec2D.html#a3a5d427abf67511628766f215542a691":[6,0,4168,2],
+"d9/d3a/classVec2D.html#a4c343ad5d1c11513956aba01ba7568c3":[6,0,4168,16],
+"d9/d3a/classVec2D.html#a660f31d3628356cb7d2aeb45e90da03b":[6,0,4168,15],
+"d9/d3a/classVec2D.html#a6c8e104846f04f9fb59a9e0a478ccc65":[6,0,4168,14],
+"d9/d3a/classVec2D.html#a75ed774d1e92660f66c759be950f6320":[6,0,4168,4],
+"d9/d3a/classVec2D.html#a81c39278742b274ddb77c5e1366eb686":[6,0,4168,17],
 "d9/d3a/classVec2D.html#a94b617ea521632c36048445b5ed835ed":[6,0,4168,5],
 "d9/d3a/classVec2D.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4":[6,0,4168,8],
 "d9/d3a/classVec2D.html#a9fcc28ff8ce75133e2df1977e484752d":[6,0,4168,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa7503618dd09e0aebac44394595f4715":[6,0,576,0,3],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa84e6e9a302172e134163cd07ca57864":[6,0,576,0,1],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa944aad2eb68adc917cba743d1e530c7":[6,0,576,0,5],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#abc8b9a8759b0e3e95d66c16615f621f5":[6,0,576,0,6],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#ad4b766094f28e940b0b7971d6dadc277":[6,0,576,0,8],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html":[6,0,1699,0],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a0dbb5f295aa9061fa3457c9590ea9b10":[6,0,1699,0,4],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a591aaf16ef5befada12378acfbef9465":[6,0,1699,0,0],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a81a1382493091a99cae1c2bb580a7f32":[6,0,1699,0,6],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b":[6,0,1699,0,2],
-"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee":[6,0,1699,0,9]
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#abc8b9a8759b0e3e95d66c16615f621f5":[6,0,576,0,6]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX226 =
 {
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html":[6,0,394,0],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a02bd445d2c969ea186a48f68585e640c":[6,0,394,0,12],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a138d14f9666b03dda50f6adeea609046":[6,0,394,0,5],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a2e99538fdc107bc7e91c23898c178047":[6,0,394,0,2],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a31e1bceb7b944b3db9d7e881be4246bf":[6,0,394,0,8],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a5314bce83c4c7e80ecea99a8d5559fd8":[6,0,394,0,9],
+"d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a70791697fde5c6194226fd42c893385a":[6,0,394,0,6],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a9db8e85b47e8ebb4760f99ec04a36fcb":[6,0,394,0,7],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#ab599d5f62638d622c560f5b63e645b50":[6,0,394,0,0],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#abd4d058fad17b56bc29a165d74062dd0":[6,0,394,0,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df8/classAuthSession.html#aa5ed4bd2d1037814782fbb345b59163b":[6,0,292,23],
 "d8/df8/classAuthSession.html#ab2d0efe156b204bd57db317d5dd1469a":[6,0,292,13],
 "d8/df8/classAuthSession.html#ab5bfe50f5cc0bbf745eb38c337c73d77":[6,0,292,9],
-"d8/df8/classAuthSession.html#ac2f108dc8c11bdc8f4d7853d8e463422":[6,0,292,18],
-"d8/df8/classAuthSession.html#ac48aab93700877bf5761593b13477ce0":[6,0,292,28],
-"d8/df8/classAuthSession.html#ac4bba75c55795ec711ac99fb373980ce":[6,0,292,38],
-"d8/df8/classAuthSession.html#ac83f750802866266a63bdf30289e4d36":[6,0,292,2],
-"d8/df8/classAuthSession.html#aca8d471477596aaaacc036b8c6c9566e":[6,0,292,15],
-"d8/df8/classAuthSession.html#ad7fa3ea3aee1d1ffa324a293c2ca0b08":[6,0,292,7],
-"d8/df8/classAuthSession.html#adb41530c1ae128b88b873e77c6d6d653":[6,0,292,24],
-"d8/df8/classAuthSession.html#ae4d2a496f4709fd0f6f2fe6a5928e130":[6,0,292,21]
+"d8/df8/classAuthSession.html#ac2f108dc8c11bdc8f4d7853d8e463422":[6,0,292,18]
 };

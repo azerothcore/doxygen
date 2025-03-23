@@ -1,5 +1,14 @@
 var NAVTREEINDEX389 =
 {
+"df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,10,2],
+"df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[7,0,0,0,1,2,3,10,1],
+"df/dbe/HostileRefMgr_8h.html":[7,0,0,0,1,2,12,1],
+"df/dbe/structBuildValuesCachedBuffer.html":[6,0,819],
+"df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[6,0,819,0],
+"df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,819,1],
+"df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,819,2],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1941,0],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1941,0,6],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1941,0,4],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1941,0,5],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1941,0,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[6,0,1004,11],
 "df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[6,0,1004,7],
 "df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[6,0,1004,2],
-"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1004,12],
-"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[6,0,1004,8],
-"df/dd3/classachievement__shadowdodger.html":[6,0,86],
-"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,86,1],
-"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,86,0],
-"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,4],
-"df/dd4/MMapMgr_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[7,0,0,0,0,1,0,4,0],
-"df/dd4/MMapMgr_8cpp.html#a27e34ce3b8808f2aa889e5c4e623059a":[7,0,0,0,0,1,0,4,1],
-"df/dd4/classspell__mage__fingers__of__frost__proc.html":[6,0,3361],
-"df/dd4/classspell__mage__fingers__of__frost__proc.html#a2640f58f3e7442c37615b61ecf938a6f":[6,0,3361,1]
+"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1004,12]
 };

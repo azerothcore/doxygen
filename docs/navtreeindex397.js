@@ -1,5 +1,14 @@
 var NAVTREEINDEX397 =
 {
+"df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,838,4],
+"df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,838,25],
+"df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18],
+"df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,838,22],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3301],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3301,2],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3301,4],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3301,0],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3301,3],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3301,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
@@ -240,14 +249,5 @@ var NAVTREEINDEX397 =
 "dir_2b33e2640b4790028fefa7ce3e766c20.html":[7,0,0,0,1,2,16,8],
 "dir_2cf920b86eaa90086c9e49d169beb484.html":[7,0,0,0,1,3,5,4,2],
 "dir_2d6e14335221653bd0e1ab947f5581bf.html":[7,0,0,0,0,7],
-"dir_2e841367dc54c4bfb9664988ca9a6769.html":[7,0,0,0,1,3,2,15],
-"dir_2ed3c669151de9056318ddb9d5154bad.html":[7,0,0,0,1,3,7,1],
-"dir_30c9e1c4d37d57a0d16649fdbaa5324a.html":[7,0,0,0,1,2,23],
-"dir_315286625446b425c001eecd2b17ef1a.html":[7,0,0,0,1,2,39],
-"dir_337bdd013191c9d548b6f28390c35d04.html":[7,0,0,0,2,2],
-"dir_34825b659a55315b272dfcc55a7a0f6a.html":[7,0,0,0,0,1],
-"dir_355661791026b33f9301c754e4db8b50.html":[7,0,0,0,1,2],
-"dir_3906e801b468713a6f5b1f193c7ea10d.html":[7,0,0,0,1,1],
-"dir_3adc8ed69e0e90d16469d218b57e0fdd.html":[7,0,0,0,2,2,0,0,0],
-"dir_3c4f1d0049890b6fe47974d55db5d117.html":[7,0,0,0,1,3,5,11]
+"dir_2e841367dc54c4bfb9664988ca9a6769.html":[7,0,0,0,1,3,2,15]
 };

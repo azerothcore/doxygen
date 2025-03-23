@@ -1,5 +1,12 @@
 var NAVTREEINDEX243 =
 {
+"d9/de5/classspell__gen__remove__impairing__auras.html#a78a131bdf6a1406604edd130c28d664b":[6,0,2978,0],
+"d9/de5/classspell__gen__remove__impairing__auras.html#a8a70913369aa733160366f37ff1c3470":[6,0,2978,2],
+"d9/de5/classspell__hun__cower.html":[6,0,3078],
+"d9/de5/classspell__hun__cower.html#a37d29d87bec2fe2908b7d3e47f5e1caa":[6,0,3078,2],
+"d9/de5/classspell__hun__cower.html#a83bf0327aade6f6a33293a442ad10911":[6,0,3078,0],
+"d9/de5/classspell__hun__cower.html#aa964f4eb7391dab54ff744fc94306de1":[6,0,3078,1],
+"d9/de6/CharacterHandler_8cpp.html":[7,0,0,0,1,2,22,9],
 "d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,170],
 "d9/de7/classAreaTrigger__at__nats__landing.html#a67434f74300fa3463e679afb7d344467":[6,0,170,1],
 "d9/de7/classAreaTrigger__at__nats__landing.html#ac366e5b1db489b4f8bb8a1d07caa83c2":[6,0,170,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX243 =
 "d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,242,0],
 "d9/df6/classat__thaddius__entrance.html#af8635a58d4da0421b72b4451c1ebafc5":[6,0,242,1],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2781],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2781,2],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2781,0],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a4ff0ab22db0bbd4483ddb379de069c48":[6,0,2781,1],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a909819dde9d5154f3d2cf04b04fa33f7":[6,0,2781,3],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#aebebb858f2ae41f2260d6843b3da8052":[6,0,2781,4],
-"d9/df7/classConditionMgr.html":[6,0,886],
-"d9/df7/classConditionMgr.html#a05cc8e9cca500281f74000c030099c4e":[6,0,886,15],
-"d9/df7/classConditionMgr.html#a17315b068442b1f0b0a39064932fd43c":[6,0,886,18]
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2781,2]
 };

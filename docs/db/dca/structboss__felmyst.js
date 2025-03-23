@@ -8,6 +8,7 @@ var structboss__felmyst =
     [ "MovementInform", "db/dca/structboss__felmyst.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
     [ "Reset", "db/dca/structboss__felmyst.html#ae5181c789809a859edb40488e206c0d3", null ],
     [ "ScheduleGroundAbilities", "db/dca/structboss__felmyst.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "db/dca/structboss__felmyst.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
     [ "StartIntro", "db/dca/structboss__felmyst.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
     [ "UpdateAI", "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356", null ],
     [ "_currentLane", "db/dca/structboss__felmyst.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],

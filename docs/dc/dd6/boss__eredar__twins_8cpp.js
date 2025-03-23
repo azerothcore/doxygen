@@ -31,6 +31,7 @@ var boss__eredar__twins_8cpp =
       [ "SPELL_ENRAGE", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
       [ "SPELL_EMPOWER", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca065350aa4e80d0bffa69f2b478f5f40e", null ],
       [ "SPELL_DARK_FLAME", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282", null ],
+      [ "SPELL_FIREBLAST", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca250533bd2923a3390fcb7c2492b6c05b", null ],
       [ "SPELL_SHADOWFORM", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e62d64501defa8b93c0ef622cefce09", null ],
       [ "SPELL_DARK_TOUCHED", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d", null ],
       [ "SPELL_SHADOW_BLADES", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca2115afd00060d184a405d3332fcf26db", null ],

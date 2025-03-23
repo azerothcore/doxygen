@@ -1,5 +1,14 @@
 var NAVTREEINDEX355 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c":[7,0,0,0,1,2,20,1,13,0],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db":[7,0,0,0,1,2,20,1,13,9],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd":[7,0,0,0,1,2,20,1,13,13],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e":[7,0,0,0,1,2,20,1,13,12],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af":[7,0,0,0,1,2,20,1,13,19],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e":[7,0,0,0,1,2,20,1,13,10],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721":[7,0,0,0,1,2,20,1,13,7],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65":[7,0,0,0,1,2,20,1,13,21],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81":[7,0,0,0,1,2,20,1,13,11],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[7,0,0,0,1,2,20,1,13,15],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[7,0,0,0,1,2,20,1,13,5],
 "de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
@@ -240,14 +249,5 @@ var NAVTREEINDEX355 =
 "de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4241,2],
 "de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4241,1],
 "de/d4a/classspell__brewfest__toss__mug.html":[6,0,2670],
-"de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2670,0],
-"de/d4a/classspell__brewfest__toss__mug.html#a3567c72e999ad6ca9db15b4d6ddadafb":[6,0,2670,2],
-"de/d4a/classspell__brewfest__toss__mug.html#a47d6a6c1fcb2b04782e54d3797c1f42c":[6,0,2670,3],
-"de/d4a/classspell__brewfest__toss__mug.html#a73e6c9c91dccb309207fa3aeb6bd9d6f":[6,0,2670,5],
-"de/d4a/classspell__brewfest__toss__mug.html#a9638048b4107db116474abf8e18d7760":[6,0,2670,1],
-"de/d4a/classspell__brewfest__toss__mug.html#aab9211291bd9dab8255d94e4eb07bf8e":[6,0,2670,4],
-"de/d4a/structboss__fathomguard__tidalvess.html":[6,0,459],
-"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,459,7],
-"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,459,10],
-"de/d4a/structboss__fathomguard__tidalvess.html#a1b4ace7575946c585cc63057e81a1529":[6,0,459,15]
+"de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2670,0]
 };

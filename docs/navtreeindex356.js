@@ -1,5 +1,14 @@
 var NAVTREEINDEX356 =
 {
+"de/d4a/classspell__brewfest__toss__mug.html#a3567c72e999ad6ca9db15b4d6ddadafb":[6,0,2670,2],
+"de/d4a/classspell__brewfest__toss__mug.html#a47d6a6c1fcb2b04782e54d3797c1f42c":[6,0,2670,3],
+"de/d4a/classspell__brewfest__toss__mug.html#a73e6c9c91dccb309207fa3aeb6bd9d6f":[6,0,2670,5],
+"de/d4a/classspell__brewfest__toss__mug.html#a9638048b4107db116474abf8e18d7760":[6,0,2670,1],
+"de/d4a/classspell__brewfest__toss__mug.html#aab9211291bd9dab8255d94e4eb07bf8e":[6,0,2670,4],
+"de/d4a/structboss__fathomguard__tidalvess.html":[6,0,459],
+"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,459,7],
+"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,459,10],
+"de/d4a/structboss__fathomguard__tidalvess.html#a1b4ace7575946c585cc63057e81a1529":[6,0,459,15],
 "de/d4a/structboss__fathomguard__tidalvess.html#a1dc16180610c742e98a93f87653e93e9":[6,0,459,5],
 "de/d4a/structboss__fathomguard__tidalvess.html#a7f79a16e0c186e97aeb7f16f3b7d45ea":[6,0,459,3],
 "de/d4a/structboss__fathomguard__tidalvess.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33":[6,0,459,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX356 =
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,12,6],
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1dfce93d1900d47f51096f021cdb030b":[7,0,0,0,1,3,5,7,12,6,0],
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a743cea9ae85ac7de3fccdb77b7744589":[7,0,0,0,1,3,5,7,12,6,1],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,12,9],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f59134b19776a777bda031d371c938":[7,0,0,0,1,3,5,7,12,9,4],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca235a0027b0c4aea5f9516f8cf998327f":[7,0,0,0,1,3,5,7,12,9,3],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,5,7,12,9,0],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,5,7,12,9,5],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298cac6af27f7cbb0f5f223d65ff55a9a86fb":[7,0,0,0,1,3,5,7,12,9,2],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298caca3c536cf7ada4b3f780dcdb28d4d3b2":[7,0,0,0,1,3,5,7,12,9,1],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,7,12,7],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba":[7,0,0,0,1,3,5,7,12,7,1],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa7e8eb68e5742a1cd819e9998a6b08bd":[7,0,0,0,1,3,5,7,12,7,0]
+"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,12,9]
 };

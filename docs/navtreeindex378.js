@@ -1,5 +1,14 @@
 var NAVTREEINDEX378 =
 {
+"df/d38/structnpc__ahnqiraji__critter.html#a60e2dc1c52579a410d3435126bf39684":[6,0,1564,0],
+"df/d38/structnpc__ahnqiraji__critter.html#a645e16e9da29f6579320394201d0ada7":[6,0,1564,3],
+"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[6,0,1564,4],
+"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[6,0,1564,1],
+"df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[6,0,1564,2],
+"df/d39/boss__ouro_8cpp.html":[7,0,0,0,1,3,4,9,4],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35abb62aff4efebc4fcd4f4da02ca764":[7,0,0,0,1,3,4,9,4,3,3],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a43a5db19698d40a2bcdb442f73be7fcb":[7,0,0,0,1,3,4,9,4,3,4],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a453ab624683f0e02a1fae1a6cfcec1db":[7,0,0,0,1,3,4,9,4,3,1],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9bb6afd65bd209bced613fbcf1964cb6":[7,0,0,0,1,3,4,9,4,3,2],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6762b2873125ac73a850d2e103ec31a":[7,0,0,0,1,3,4,9,4,3,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX378 =
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7":[7,0,0,0,1,3,4,14,2,19],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a":[7,0,0,0,1,3,4,14,2,3],
 "df/d42/zone__ashenvale_8cpp.html#ab15d952fc1bf94911661206ead25b5b1":[7,0,0,0,1,3,4,14,6],
-"df/d43/namespaceOpenSSLCrypto.html":[5,0,24],
-"df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[5,0,24,1],
-"df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3":[5,0,24,0],
-"df/d43/structMapDifficultyEntry.html":[6,0,1478],
-"df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1478,0],
-"df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1478,3],
-"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1478,4],
-"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1478,2],
-"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1478,1],
-"df/d44/structBattlegroundData.html":[6,0,316]
+"df/d43/namespaceOpenSSLCrypto.html":[5,0,24]
 };

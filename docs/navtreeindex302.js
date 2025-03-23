@@ -1,5 +1,13 @@
 var NAVTREEINDEX302 =
 {
+"dc/d48/classspell__deathbringer__blood__link__aura.html#a13426f7a45e9434f980b42f174b22da8":[6,0,2708,0],
+"dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2708,4],
+"dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[6,0,2708,3],
+"dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[6,0,2708,1],
+"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2708,2],
+"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2708,5],
+"dc/d48/structnpc__drakonid__spawner.html":[6,0,1747],
+"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1747,0],
 "dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1747,3],
 "dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1747,4],
 "dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1747,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a25ba703325800d2976eff860437f3d57":[6,0,1337,0,8],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a2a5323d92963da3b4b99ef1f7debaa4d":[6,0,1337,0,4],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a547528fbfe31974759b0e6fbdf12df31":[6,0,1337,0,9],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a56c6933c2c231c228ca147107fbfc930":[6,0,1337,0,3],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a5794e1c326ad2eb4fee2bdfab8261257":[6,0,1337,0,10],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a882432d126cc9e90322eaa16f5ef15c8":[6,0,1337,0,1],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a8a89f56945022e34cc5d9ead06a58b63":[6,0,1337,0,2],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#aa8e267617231a7816a43e9957c745c58":[6,0,1337,0,6],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ab2ca710f119fbfc1a7b57a88462d145b":[6,0,1337,0,7],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#abded7dc13c226ccad53c151d75ced243":[6,0,1337,0,11],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ada64ef9f71d61ea19144cec596ba06e2":[6,0,1337,0,12],
-"dc/d5a/ModelIgnoreFlags_8h.html":[7,0,0,0,0,1,2,2]
+"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a56c6933c2c231c228ca147107fbfc930":[6,0,1337,0,3]
 };

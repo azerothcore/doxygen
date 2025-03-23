@@ -1,5 +1,14 @@
 var NAVTREEINDEX396 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[6,0,2666,3],
+"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[6,0,2666,5],
+"df/de3/boss__leotheras__the__blind_8cpp.html":[7,0,0,0,1,3,7,2,0,3],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,2,0,3,9],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdce7ad61e391f64294777e90a00175":[7,0,0,0,1,3,7,2,0,3,9,0],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de3bbd791800c0cc1336f4d61904765":[7,0,0,0,1,3,7,2,0,3,9,2],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a81010c7b22ac0dd95b2f5b9188f505be":[7,0,0,0,1,3,7,2,0,3,9,1],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,3,10],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca137aabdca55efcd6250ae056f4dc5b97":[7,0,0,0,1,3,7,2,0,3,10,9],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca4005312cc9fcbd7a183df7391696d8b3":[7,0,0,0,1,3,7,2,0,3,10,11],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,7,2,0,3,10,0],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,7,2,0,3,10,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX396 =
 "df/df1/structCell.html#abd95fd440e9f8dab059a8c518c58eca2":[6,0,838,17],
 "df/df1/structCell.html#abe34b4a97c468b8db563092dda60340a":[6,0,838,3],
 "df/df1/structCell.html#abf5f46566b03eefa5509e8d4f5ad5003":[6,0,838,6],
-"df/df1/structCell.html#ac7eebe2036bdbeaa342abf428c0dae6c":[6,0,838,8],
-"df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,838,4],
-"df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,838,25],
-"df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18],
-"df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,838,22],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3301],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3301,2],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3301,4],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3301,0],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3301,3]
+"df/df1/structCell.html#ac7eebe2036bdbeaa342abf428c0dae6c":[6,0,838,8]
 };

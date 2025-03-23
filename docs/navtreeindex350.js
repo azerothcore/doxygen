@@ -1,5 +1,14 @@
 var NAVTREEINDEX350 =
 {
+"de/d19/namespaceMMAP.html#a89710e07eb1c881e22b1b2bb7c8f671c":[5,0,20,15],
+"de/d19/namespaceMMAP.html#a8c5ddef856ef804076860bb176c6d9e1":[5,0,20,28],
+"de/d19/namespaceMMAP.html#a94a0ee7c4f225dfc488737a7ba825bae":[5,0,20,35],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165":[5,0,20,21],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12":[5,0,20,21,4],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b":[5,0,20,21,2],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[5,0,20,21,1],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[5,0,20,21,3],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[5,0,20,21,0],
 "de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1":[5,0,20,16],
 "de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
 "de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
@@ -240,14 +249,5 @@ var NAVTREEINDEX350 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
-"de/d20/structCharStartOutfitEntry.html":[6,0,859],
-"de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
-"de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
-"de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,859,0],
-"de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,859,3],
-"de/d20/structEmotesTextEntry.html":[6,0,1007],
-"de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1007,0],
-"de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1007,1],
-"de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7]
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1]
 };

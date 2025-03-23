@@ -1,5 +1,14 @@
 var NAVTREEINDEX370 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,6,9,37,2],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,6,9,37,13],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,6,9,37,5],
+"de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
+"de/de5/classnpc__tesla.html":[6,0,2153],
+"de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2153,2],
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2153,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2684],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2684,1],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2684,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2684,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html":[6,0,770,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX370 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a77b40bcbada8ea43accae23ceb642628":[6,0,1260,11],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a7ac3be92303b77b640c7199ec65184dd":[6,0,1260,2],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a97f3cd9b1c5919ffe9ab979d8ad4e747":[6,0,1260,9],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a9d889b5112f6c93a0707227fc65dd902":[6,0,1260,1],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa203c37c8259c8b54ad5ec70db484f1":[6,0,1260,7],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa6f7b1aa064be00a726539830d6c30e":[6,0,1260,4],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1260,10],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1260,3],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ac5078f624899e574a7b56b72e2824b9a":[6,0,1260,8],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1260,5],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1260,0],
-"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4149],
-"de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[6,0,4149,2]
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a9d889b5112f6c93a0707227fc65dd902":[6,0,1260,1]
 };

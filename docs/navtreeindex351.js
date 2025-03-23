@@ -1,5 +1,14 @@
 var NAVTREEINDEX351 =
 {
+"de/d20/structCharStartOutfitEntry.html":[6,0,859],
+"de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
+"de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
+"de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,859,0],
+"de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,859,3],
+"de/d20/structEmotesTextEntry.html":[6,0,1007],
+"de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1007,0],
+"de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1007,1],
+"de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7],
 "de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,24],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b":[7,0,0,0,1,3,9,7,24,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX351 =
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1158,0,1],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9c983aa02285dbebc545b4056191200c":[6,0,1158,0,3],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1158,0,4],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1158,0,5],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1158,0,2],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[6,0,1158,0,0],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3201],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3201,1],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3201,2],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3201,3],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3201,0],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1994],
-"de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1994,2]
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1158,0,5]
 };

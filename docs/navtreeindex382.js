@@ -1,5 +1,14 @@
 var NAVTREEINDEX382 =
 {
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html":[6,0,755,0],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a1c2fdf4351a43047f02bec1d46423cb8":[6,0,755,0,4],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3":[6,0,755,0,11],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a3bed38b10a87baf50e9c9a57229bd464":[6,0,755,0,7],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a681a103b6cf937dad3fb15e5be358c26":[6,0,755,0,10],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[6,0,755,0,9],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a76ab9327e04b82b534a9b3ea59b377d1":[6,0,755,0,1],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a9ba6e2620a25728bf30d4d813a82b781":[6,0,755,0,2],
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[6,0,755,0,5],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#abde00baf4099361b8c26e6e0cf6c1517":[6,0,755,0,3],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ac5994c76a9d84cf303021a9298673d68":[6,0,755,0,6],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ada061b4363340602fd1f4744433d9cf9":[6,0,755,0,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX382 =
 "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184da7004892e9e50d8f45f76a3ecfcf41d90":[7,0,0,0,1,3,5,9,2,4,41,4],
 "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184da7c2d429773211035bb10a8d5babbae89":[7,0,0,0,1,3,5,9,2,4,41,9],
 "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184da8a25b8eb8142013431492bf641099c6f":[7,0,0,0,1,3,5,9,2,4,41,0],
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daabce5aa0f5f0138cbdeaedaafb74cbea":[7,0,0,0,1,3,5,9,2,4,41,3],
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dacf784c8ccd699892a823f1ced8b97f3d":[7,0,0,0,1,3,5,9,2,4,41,1],
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dacff0588861959fee53d2943e6e80772c":[7,0,0,0,1,3,5,9,2,4,41,8],
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dad93515bc74f74c4963e0e7c599daeeee":[7,0,0,0,1,3,5,9,2,4,41,7],
-"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daf617a786729f5d97a5fcd03f895d0c8f":[7,0,0,0,1,3,5,9,2,4,41,6],
-"df/d87/boss__freya_8cpp.html#aa6d193a6cde253af8005284b30ea5484":[7,0,0,0,1,3,5,9,2,4,38],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,4,44],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,2,4,44,6],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a076407c159ee539e0c00bd1226bac627":[7,0,0,0,1,3,5,9,2,4,44,8],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20bb696b3ec369136955621a71e9fad5":[7,0,0,0,1,3,5,9,2,4,44,4]
+"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daabce5aa0f5f0138cbdeaedaafb74cbea":[7,0,0,0,1,3,5,9,2,4,41,3]
 };

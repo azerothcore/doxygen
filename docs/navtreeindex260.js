@@ -1,5 +1,12 @@
 var NAVTREEINDEX260 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d":[7,0,0,0,1,3,7,13,38,17],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693":[7,0,0,0,1,3,7,13,38,27],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[7,0,0,0,1,3,7,13,38,28],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686":[7,0,0,0,1,3,7,13,38,20],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[7,0,0,0,1,3,7,13,38,13],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[7,0,0,0,1,3,7,13,38,24],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129":[7,0,0,0,1,3,7,13,38,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6":[7,0,0,0,1,3,7,13,38,23],
@@ -242,12 +249,5 @@ var NAVTREEINDEX260 =
 "da/db3/classspell__dk__wandering__plague__aura.html#a911b81552e7193dbf1cfc11037b44d84":[6,0,2770,1],
 "da/db3/classspell__dk__wandering__plague__aura.html#abd74252153fc4fc9a4e561005ea58b3f":[6,0,2770,0],
 "da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2770,2],
-"da/db3/structLootView.html":[6,0,1453],
-"da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1453,2],
-"da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1453,0],
-"da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1453,1],
-"da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1453,3],
-"da/db4/classat__commander__dawnforge.html":[6,0,212],
-"da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[6,0,212,0],
-"da/db4/classat__commander__dawnforge.html#acc78f4f2f9d892c02d62548e93f7f83b":[6,0,212,1]
+"da/db3/structLootView.html":[6,0,1453]
 };

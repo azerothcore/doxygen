@@ -1,5 +1,14 @@
 var NAVTREEINDEX377 =
 {
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea68f4800ee218a41c1afa12eeb2cb8cce":[7,0,0,0,1,3,5,8,2,6,2,2],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eaadbc758e3c1b7e6a6595c6a8178b4737":[7,0,0,0,1,3,5,8,2,6,2,4],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eacfd97bd3fb1ccc16d2a7bf6a147600b7":[7,0,0,0,1,3,5,8,2,6,2,6],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ead41fae04f49e4f13f7a0cdd8231a5c23":[7,0,0,0,1,3,5,8,2,6,2,0],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eadfdde38b50c8ebe99daea31afb11415d":[7,0,0,0,1,3,5,8,2,6,2,5],
+"df/d29/oculus_8h.html#a43a1dd34b31d53516e253abdd0fb4ea5":[7,0,0,0,1,3,5,8,2,6,6],
+"df/d29/oculus_8h.html#a43a1dd34b31d53516e253abdd0fb4ea5abd041da1251b7871ca94f63c74114a76":[7,0,0,0,1,3,5,8,2,6,6,0],
+"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,8,2,6,7],
+"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58":[7,0,0,0,1,3,5,8,2,6,7,0],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ca72db3e8475eeba86052fae23a2505":[7,0,0,0,1,3,5,8,2,6,7,10],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ce72b4c6c6a26113697fa23efa44b48":[7,0,0,0,1,3,5,8,2,6,7,6],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca359710ec72bcbf796e2b6a78e30b725c":[7,0,0,0,1,3,5,8,2,6,7,4],
@@ -240,14 +249,5 @@ var NAVTREEINDEX377 =
 "df/d37/classHyperlinkDataTokenizer.html#a42e18263129c27149bf9a91b3dc42418":[6,0,1266,2],
 "df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[6,0,1266,1],
 "df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[6,0,1266,3],
-"df/d38/structnpc__ahnqiraji__critter.html":[6,0,1564],
-"df/d38/structnpc__ahnqiraji__critter.html#a60e2dc1c52579a410d3435126bf39684":[6,0,1564,0],
-"df/d38/structnpc__ahnqiraji__critter.html#a645e16e9da29f6579320394201d0ada7":[6,0,1564,3],
-"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[6,0,1564,4],
-"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[6,0,1564,1],
-"df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[6,0,1564,2],
-"df/d39/boss__ouro_8cpp.html":[7,0,0,0,1,3,4,9,4],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35abb62aff4efebc4fcd4f4da02ca764":[7,0,0,0,1,3,4,9,4,3,3],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a43a5db19698d40a2bcdb442f73be7fcb":[7,0,0,0,1,3,4,9,4,3,4]
+"df/d38/structnpc__ahnqiraji__critter.html":[6,0,1564]
 };
