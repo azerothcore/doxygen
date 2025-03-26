@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b":[6,0,1140,0,4],
 "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c":[6,0,1140,0,5],
 "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a72d2dd8f7ecdf173e5a3847c94255786":[6,0,1140,0,2],
 "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#aaacf408b0f42b593a8a2897cb27886fb":[6,0,1140,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html#a8fad089d1edc09edbaf215f07722e9e6":[6,0,1774,0,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html#ae17b4abbbb2088799cec188457677d44":[6,0,1774,0,2],
 "d9/de5/WorldSocketMgr_8cpp.html":[7,0,0,0,1,2,39,11],
-"d9/de5/classspell__gen__remove__impairing__auras.html":[6,0,2978],
-"d9/de5/classspell__gen__remove__impairing__auras.html#a3b2d739227e57667a284ae4600ec1bb6":[6,0,2978,1]
+"d9/de5/classspell__gen__remove__impairing__auras.html":[6,0,2978]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d95/classPoolMgr.html#a8500f26e6908110bb69e3220153701a8":[6,0,2418,22],
 "d7/d95/classPoolMgr.html#a9e7689acd27b3b82d3f3173b29747d00":[6,0,2418,24],
 "d7/d95/classPoolMgr.html#aa54c24fbccbbf25f61d656e9d0cf9a30":[6,0,2418,9],
 "d7/d95/classPoolMgr.html#aa9ab94887739eaf9a31be081fc27b6b9":[6,0,2418,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ad159a5a46ab35f151177b59f32dea649":[6,0,817,0,24],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ade40ddc2750f52942911de204b74bbea":[6,0,817,0,9],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[6,0,817,0,28],
-"d7/d9e/classboss__drakkari__colossus.html":[6,0,425],
-"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[6,0,425,2]
+"d7/d9e/classboss__drakkari__colossus.html":[6,0,425]
 };

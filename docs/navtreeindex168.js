@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af":[6,0,1315,0,14],
 "d6/d48/PlayerSettings_8h.html":[7,0,0,0,1,2,16,7,10],
 "d6/d48/PlayerSettings_8h.html#a03676554928fdf5649c8c7f77a128d04":[7,0,0,0,1,2,16,7,10,1],
 "d6/d48/PlayerSettings_8h.html#a32dfba2d10d91879403874fc75b928fd":[7,0,0,0,1,2,16,7,10,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad5e71a439ac8c7d779b13298d7a53601":[7,0,0,0,1,2,7,0,1,17,20],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daea82d06a107d2ac3668a6b11607d4c51":[7,0,0,0,1,2,7,0,1,17,2],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6":[7,0,0,0,1,2,7,0,1,18],
-"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a0243f21dc6caad6680943fe25b83dd37":[7,0,0,0,1,2,7,0,1,18,0],
-"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a165e2b52b845d43034704f0bce8c963b":[7,0,0,0,1,2,7,0,1,18,4]
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a0243f21dc6caad6680943fe25b83dd37":[7,0,0,0,1,2,7,0,1,18,0]
 };

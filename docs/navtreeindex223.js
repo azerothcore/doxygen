@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dcc/structPlayerSetting.html#aba5227bee5d5e928e0fa171730f57385":[6,0,2407,1],
 "d8/dcd/classPassiveAI.html":[6,0,2368],
 "d8/dcd/classPassiveAI.html#a2960223799a5b3baedbdd7e664604865":[6,0,2368,3],
 "d8/dcd/classPassiveAI.html#a3a54c7d7268b8c2f4e081a99b4b0cd11":[6,0,2368,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd8/ObjectMgr_8cpp.html#a46371802334fe0589dc4f2b065b590e5":[7,0,0,0,1,2,18,2,9],
 "d8/dd8/ObjectMgr_8cpp.html#a4f5a667f6078863c869b5c92387532fa":[7,0,0,0,1,2,18,2,13],
 "d8/dd8/ObjectMgr_8cpp.html#a4fb11f3d6b7a6d3bd9bf49578906fc10":[7,0,0,0,1,2,18,2,1],
-"d8/dd8/ObjectMgr_8cpp.html#a5e723b66ad85198f3b0625903f5edac6":[7,0,0,0,1,2,18,2,7],
-"d8/dd8/ObjectMgr_8cpp.html#a99fc90e0f89dbe2684b6563324d8c23b":[7,0,0,0,1,2,18,2,16]
+"d8/dd8/ObjectMgr_8cpp.html#a5e723b66ad85198f3b0625903f5edac6":[7,0,0,0,1,2,18,2,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a1a78f58ff71eedf3c6ab08e93805495d":[7,0,0,0,1,2,8,1,19,9,1],
 "d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb":[7,0,0,0,1,2,8,1,19,9,4],
 "d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23":[7,0,0,0,1,2,8,1,19,9,0],
 "d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675abdd8e367597aaf2a5d12d211f80c2569":[7,0,0,0,1,2,8,1,19,9,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/de7/structDungeonEncounter.html#a262bdd0ba443739456fc14bcad83ecda":[6,0,986,3],
 "d8/de7/structDungeonEncounter.html#a3e48a996a47ddcc1b18aaac339457f3d":[6,0,986,0],
 "d8/de7/structDungeonEncounter.html#a66a077e193f099bb7aef363dc75672d6":[6,0,986,2],
-"d8/de7/structDungeonEncounter.html#a67e29b891887e339dbb40515d082e781":[6,0,986,4],
-"d8/de7/structDungeonEncounter.html#a700a0792973678339f33ab85e7396918":[6,0,986,1]
+"d8/de7/structDungeonEncounter.html#a67e29b891887e339dbb40515d082e781":[6,0,986,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"d6/dfc/classnpc__mindless__ghoul.html":[6,0,1962],
 "d6/dfc/classnpc__mindless__ghoul.html#ac5a087aa742827dc8eb0f3dc195920ec":[6,0,1962,2],
 "d6/dfc/classnpc__mindless__ghoul.html#ac5bf71e719c0df04687f426a022fd65e":[6,0,1962,1],
 "d6/dfc/structFarthestTargetSelector.html":[6,0,1031],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#a2087e4de62f7aabb72315e92c28c7bd6":[6,0,3783,0],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ab71db011b1cc1f3a2e85cd6b6f115242":[6,0,3783,1],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ad8a16d599a11fa4409d132f66e37e04e":[6,0,3783,2],
-"d7/d0c/classspell__sladran__grip__of__sladran__aura.html#afe821a7eb4eaf959d803c7c846f3bdf0":[6,0,3783,3],
-"d7/d0c/classspell__warl__haunt.html":[6,0,3926]
+"d7/d0c/classspell__sladran__grip__of__sladran__aura.html#afe821a7eb4eaf959d803c7c846f3bdf0":[6,0,3783,3]
 };

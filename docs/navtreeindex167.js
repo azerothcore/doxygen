@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d6/d39/classWorld.html#a242dcc345eab12c7d950a93dabac1773":[4,2,11,88],
 "d6/d39/classWorld.html#a281c168df41130831d0fff25d9de1f31":[4,2,11,21],
 "d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4":[4,2,11,3],
 "d6/d39/classWorld.html#a2a7e783f9c0931334567118e5dedd8b4":[4,2,11,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ada3dcc37cba14ae8361989f1b842b462":[6,0,1315,0,20],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#add8e04fa930e970ab0e88258c10f9c5d":[6,0,1315,0,21],
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae409ddd2759f8eea883cefa21d045a40":[6,0,1315,0,12],
-"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae5f9223af1488f1edd99f35f7b1c7207":[6,0,1315,0,6],
-"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af":[6,0,1315,0,14]
+"d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#ae5f9223af1488f1edd99f35f7b1c7207":[6,0,1315,0,6]
 };

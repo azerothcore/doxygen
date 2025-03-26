@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#af4cc6489905f9702999cc23fd6a920c2":[6,0,437,0,11],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html":[6,0,1197,0],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a3f790a651d5f0c67c5d528828a6bb398":[6,0,1197,0,2],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a8d8197cbfa6ab36d269f18020acbc565":[6,0,1197,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dc9/structVehicleSeatAddon.html#add1ea5a9e605a49d0ddbcea0f804bd3b":[6,0,4178,6],
 "d9/dc9/structVehicleSeatAddon.html#afbb8de193522f1182efff50064e5f83d":[6,0,4178,2],
 "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html":[6,0,1140,0],
-"d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a0965f0a6f3f1c75e85f184319a1f9cef":[6,0,1140,0,3],
-"d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b":[6,0,1140,0,4]
+"d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a0965f0a6f3f1c75e85f184319a1f9cef":[6,0,1140,0,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/dfa/structTeamContributionPointsEntry.html#a30d3b489f743df8aa828b6e5bb847ea2":[6,0,4093,0],
 "da/dfd/ahnkahet_8h.html":[7,0,0,0,1,3,5,0,0,0],
 "da/dfd/ahnkahet_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,0,0,0,1],
 "da/dfd/ahnkahet_8h.html#a04c8c0beb3d5fd05b695be78e77cfe8d":[7,0,0,0,1,3,5,0,0,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[6,0,4010,1],
 "db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[6,0,4010,0],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html":[6,0,681,0],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a0f16f9865159338c46e140c01650a728":[6,0,681,0,1],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a14384c3853570d0f7580d72d0008b986":[6,0,681,0,11]
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a0f16f9865159338c46e140c01650a728":[6,0,681,0,1]
 };

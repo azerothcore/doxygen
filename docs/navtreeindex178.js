@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/dc5/classspell__yogg__saron__sanity__reduce.html#a1bced7e9364a1abb7b718b6786eada9f":[6,0,4002,1],
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html#a97265071f226fbd17c37d432cf9e2350":[6,0,4002,2],
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93":[6,0,4002,0],
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html#aeec0bdd2e39db2da657247376ddcd195":[6,0,4002,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3ccbb371cea13ad106083c17f9c40f90":[7,0,0,0,1,3,5,5,3,6,3],
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa":[7,0,0,0,1,3,5,5,3,6,0],
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b56d1f01458c135d046a1cb12a0ac8b":[7,0,0,0,1,3,5,5,3,6,5],
-"d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3f23eb74244e1ad1b4311b6dc0c1891":[7,0,0,0,1,3,5,5,3,6,2],
-"d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a":[7,0,0,0,1,3,5,5,3,6,1]
+"d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3f23eb74244e1ad1b4311b6dc0c1891":[7,0,0,0,1,3,5,5,3,6,2]
 };

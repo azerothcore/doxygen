@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d7/d79/CompilerDefs_8h.html#a15c00b0ab8f2f092270745de87d6bd8f":[7,0,0,0,0,20,8],
 "d7/d79/CompilerDefs_8h.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba":[7,0,0,0,0,20,6],
 "d7/d79/CompilerDefs_8h.html#a490dd7a4e0c23e207dd9285027ae8b33":[7,0,0,0,0,20,4],
 "d7/d79/CompilerDefs_8h.html#a4f72821a90afaf788ba291d1f6fb11b8":[7,0,0,0,0,20,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d89/structmap__id.html#aaf844f570afdf7439ae7fbe0bbdc39e7":[6,0,1475,1],
 "d7/d89/structmap__id.html#ae5d1244981224aed1b7477caedd70175":[6,0,1475,2],
 "d7/d8b/classspell__item__venomhide__feed.html":[6,0,3285],
-"d7/d8b/classspell__item__venomhide__feed.html#a4e808b026c89d080e309a0ca8b4f57d1":[6,0,3285,2],
-"d7/d8b/classspell__item__venomhide__feed.html#a7099b8d28128cfea49288792ea02606c":[6,0,3285,0]
+"d7/d8b/classspell__item__venomhide__feed.html#a4e808b026c89d080e309a0ca8b4f57d1":[6,0,3285,2]
 };

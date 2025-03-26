@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/dbe/classAuctionHouseMgr.html#aedd4944743f8a1734b99d32eb847ea6a":[6,0,258,21],
 "d8/dbe/classAuctionHouseMgr.html#aeef11ff6ea7ca5986429329c76041b96":[6,0,258,12],
 "d8/dbe/classAuctionHouseMgr.html#af286935d4668b00678e9851471a2b90c":[6,0,258,20],
 "d8/dbe/classAuctionHouseMgr.html#afbc20e682c8fcee1db078fa93f6cd075":[6,0,258,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dcc/structPlayerSetting.html#a115b220747f7b2d687ec81716dbad69f":[6,0,2407,2],
 "d8/dcc/structPlayerSetting.html#a1e81343732cd86cdf9974a1d96b73ba7":[6,0,2407,0],
 "d8/dcc/structPlayerSetting.html#a4ca3645233a466345d6be217d7a0df2b":[6,0,2407,3],
-"d8/dcc/structPlayerSetting.html#a74592e45f8ae4c5f411a982227f809f3":[6,0,2407,4],
-"d8/dcc/structPlayerSetting.html#aba5227bee5d5e928e0fa171730f57385":[6,0,2407,1]
+"d8/dcc/structPlayerSetting.html#a74592e45f8ae4c5f411a982227f809f3":[6,0,2407,4]
 };

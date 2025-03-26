@@ -1,5 +1,6 @@
 var NAVTREEINDEX194 =
 {
+"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[6,0,425,2],
 "d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[6,0,425,1],
 "d7/d9e/classboss__moira__bronzebeard.html":[6,0,619],
 "d7/d9e/classboss__moira__bronzebeard.html#abb9a87023b8afa242e60f9694dea1c39":[6,0,619,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX194 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa34bfc7a7ca4dbe5160271dc5d88145ee":[7,0,0,0,1,2,28,2,0,225],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa34d7cafcc2bc0106eeaa45e52743aaba":[7,0,0,0,1,2,28,2,0,418],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa35182ab2885dff8c03e5c2b24d9dfedd":[7,0,0,0,1,2,28,2,0,99],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa35406dab0ba473ef8dba2f72ba72f4fa":[7,0,0,0,1,2,28,2,0,830],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa35866e5b79acd5c60dfac667b18cb795":[7,0,0,0,1,2,28,2,0,76]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa35406dab0ba473ef8dba2f72ba72f4fa":[7,0,0,0,1,2,28,2,0,830]
 };

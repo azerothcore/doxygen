@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4180,3],
 "df/d05/structWebTargetSelector.html":[6,0,4215],
 "df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[6,0,4215,1],
 "df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[6,0,4215,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "df/d14/classPet.html#a0f1272e143553fa21884ebad628d31c8":[6,0,2375,36],
 "df/d14/classPet.html#a10d8a224dc5726395aa872a6caaf9429":[6,0,2375,54],
 "df/d14/classPet.html#a1223cf843907fc54e5428e12b3f85de6":[6,0,2375,78],
-"df/d14/classPet.html#a13ab01f117d87d02badb7f4f4e98710b":[6,0,2375,13],
-"df/d14/classPet.html#a16d96ee5a28389b29128ede8702096ee":[6,0,2375,32]
+"df/d14/classPet.html#a13ab01f117d87d02badb7f4f4e98710b":[6,0,2375,13]
 };

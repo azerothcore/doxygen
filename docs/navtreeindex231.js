@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d9/d3a/classVec2D.html#a282fda3b9eb8d0dca4a781160ca9ab7c":[6,0,4168,10],
 "d9/d3a/classVec2D.html#a3048ebc1d70a8aa8a63665a5f64bfc72":[6,0,4168,6],
 "d9/d3a/classVec2D.html#a3a5d427abf67511628766f215542a691":[6,0,4168,2],
 "d9/d3a/classVec2D.html#a4c343ad5d1c11513956aba01ba7568c3":[6,0,4168,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a4bdea1a9d7e46d4ef71cd43ce969e59c":[6,0,576,0,7],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa7503618dd09e0aebac44394595f4715":[6,0,576,0,3],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa84e6e9a302172e134163cd07ca57864":[6,0,576,0,1],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa944aad2eb68adc917cba743d1e530c7":[6,0,576,0,5],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#abc8b9a8759b0e3e95d66c16615f621f5":[6,0,576,0,6]
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa944aad2eb68adc917cba743d1e530c7":[6,0,576,0,5]
 };

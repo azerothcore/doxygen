@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba0db37d09c602d7d587905ed4aa71f7b7":[7,0,0,0,1,3,3,2,12,9],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba420c31da23089399832d6e0e451ab290":[7,0,0,0,1,3,3,2,12,0],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba51685353084b593adaf0f84b25ab71bb":[7,0,0,0,1,3,3,2,12,8],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba834574fed20fd18467e66663074a9aa4":[7,0,0,0,1,3,3,2,12,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d88/classspell__illidari__council__deadly__strike__aura.html#a5cba6aaa06f8ec6e083ee0c5064414e4":[6,0,3156,0],
 "dd/d88/classspell__illidari__council__deadly__strike__aura.html#a75d0cf142e299783b06903ea03287e28":[6,0,3156,1],
 "dd/d88/classspell__illidari__council__deadly__strike__aura.html#ac027b02ed0ba70d65621a6af157c98f6":[6,0,3156,2],
-"dd/d88/classspell__pal__righteous__defense.html":[6,0,3484],
-"dd/d88/classspell__pal__righteous__defense.html#a4fc8f6a7ecd041dcfca4fd51d71e725c":[6,0,3484,5]
+"dd/d88/classspell__pal__righteous__defense.html":[6,0,3484]
 };

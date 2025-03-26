@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a56c6933c2c231c228ca147107fbfc930":[6,0,1337,0,3],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a5794e1c326ad2eb4fee2bdfab8261257":[6,0,1337,0,10],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a882432d126cc9e90322eaa16f5ef15c8":[6,0,1337,0,1],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a8a89f56945022e34cc5d9ead06a58b63":[6,0,1337,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,30,13,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,11,13,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,30,13,1],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,11,13,0],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,30,13,0]
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,11,13,0]
 };

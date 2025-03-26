@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050":[7,0,0,0,1,3,2,33,2,7],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e":[7,0,0,0,1,3,2,33,2,0],
 "dc/d8b/zone__westfall_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[7,0,0,0,1,3,2,33,3],
 "dc/d8c/structnpc__amanishi__scout.html":[6,0,1576],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d9f/classserver__commandscript.html#aa10d866fcb8567fbc625d2a297a116a6":[6,0,2520,8],
 "dc/d9f/classserver__commandscript.html#aa431504b2755304c4263121a7a437ce4":[6,0,2520,6],
 "dc/d9f/classserver__commandscript.html#ab894b36baa95de647fb329fce6eed8fb":[6,0,2520,4],
-"dc/d9f/classserver__commandscript.html#ac78145cb5c0888449756e4dbb36c005f":[6,0,2520,3],
-"dc/d9f/classserver__commandscript.html#ae18a92337d6cf8e62eafdf5f39d7b5a8":[6,0,2520,5]
+"dc/d9f/classserver__commandscript.html#ac78145cb5c0888449756e4dbb36c005f":[6,0,2520,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d43/namespaceOpenSSLCrypto.html":[5,0,24],
 "df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[5,0,24,1],
 "df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3":[5,0,24,0],
 "df/d43/structMapDifficultyEntry.html":[6,0,1478],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ab7d19479a52a1e829f4e0c93b4222f60":[5,0,27,22,14],
 "df/d56/classVMAP_1_1VMapMgr2.html#ab7d19479a52a1e829f4e0c93b4222f60":[6,0,9,22,14],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,27,22,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,9,22,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[6,0,9,22,19]
+"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,9,22,2]
 };

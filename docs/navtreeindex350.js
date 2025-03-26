@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"de/d19/namespaceMMAP.html#a7eb8c24e8759cfd1ebd37b1efc72618b":[5,0,20,37],
 "de/d19/namespaceMMAP.html#a89710e07eb1c881e22b1b2bb7c8f671c":[5,0,20,15],
 "de/d19/namespaceMMAP.html#a8c5ddef856ef804076860bb176c6d9e1":[5,0,20,28],
 "de/d19/namespaceMMAP.html#a94a0ee7c4f225dfc488737a7ba825bae":[5,0,20,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1]
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1]
 };

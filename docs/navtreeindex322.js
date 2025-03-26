@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1892,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[6,0,1892,0,4],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1892,0,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[6,0,1892,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#ae5c189401dd04823449e7a16c197e65f":[6,0,788,0,5],
 "dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html":[6,0,2173,0],
 "dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a06ff16fe0076de4e34ba20e0bbc49009":[6,0,2173,0,0],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a080916d385f4157afbe4c455033b88ba":[6,0,2173,0,7],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a1b405c2acd53a4e5f1179f52c8c2261b":[6,0,2173,0,5]
+"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a080916d385f4157afbe4c455033b88ba":[6,0,2173,0,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a14384c3853570d0f7580d72d0008b986":[6,0,681,0,11],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a15c50a40ae2a6caa873993c6e330600c":[6,0,681,0,6],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4":[6,0,681,0,14],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a1d6e306084fb64742d28beb1f65ef338":[6,0,681,0,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3605,1],
 "db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3605,2],
 "db/d1a/classspell__q12227__outhouse__groans.html#a8f6332b2d4e7ac7ba6a68331b1d4512f":[6,0,3605,3],
-"db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3605,0],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1729,0]
+"db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3605,0]
 };

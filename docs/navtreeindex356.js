@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2670,0],
 "de/d4a/classspell__brewfest__toss__mug.html#a3567c72e999ad6ca9db15b4d6ddadafb":[6,0,2670,2],
 "de/d4a/classspell__brewfest__toss__mug.html#a47d6a6c1fcb2b04782e54d3797c1f42c":[6,0,2670,3],
 "de/d4a/classspell__brewfest__toss__mug.html#a73e6c9c91dccb309207fa3aeb6bd9d6f":[6,0,2670,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccfae52e734f84a20910f9015362a49ffdfa":[7,0,0,0,1,3,5,7,12,4,0],
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,12,6],
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1dfce93d1900d47f51096f021cdb030b":[7,0,0,0,1,3,5,7,12,6,0],
-"de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a743cea9ae85ac7de3fccdb77b7744589":[7,0,0,0,1,3,5,7,12,6,1],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,12,9]
+"de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a743cea9ae85ac7de3fccdb77b7744589":[7,0,0,0,1,3,5,7,12,6,1]
 };

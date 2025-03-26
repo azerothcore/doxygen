@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b":[6,0,284,11,2],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[6,0,284,11,0],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[6,0,284,11,1],
 "d6/d75/classboss__emperor__dagran__thaurissan.html":[6,0,439],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d7f/classUpdateFetcher.html#aea00e99b87bd24fd182676bf79e68c95":[6,0,4160,29],
 "d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[6,0,4160,20],
 "d6/d7f/classspell__egg__event.html":[6,0,2828],
-"d6/d7f/classspell__egg__event.html#a53bed6f1af71fd309a04bc004d07be80":[6,0,2828,2],
-"d6/d7f/classspell__egg__event.html#a804097903354ab3a730f0fe3eb5ec863":[6,0,2828,0]
+"d6/d7f/classspell__egg__event.html#a53bed6f1af71fd309a04bc004d07be80":[6,0,2828,2]
 };

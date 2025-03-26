@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d9/d13/classAppender.html#a0efa3e131b7c130a9ece375135682ea4":[6,0,153,8],
 "d9/d13/classAppender.html#a2cf4849307b65727645d3caf4205064f":[6,0,153,13],
 "d9/d13/classAppender.html#a2dd9209b754c6676ef86f1a6f7f2295f":[6,0,153,14],
 "d9/d13/classAppender.html#a33d9f53e1853633d15c78f4edc33e5d3":[6,0,153,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca27bdd95528c81703a7768a704a29e5d3":[7,0,0,0,1,3,2,4,2,1,0],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca43af3f88ddf88aa8bfed99ccf363097f":[7,0,0,0,1,3,2,4,2,1,3]
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca27bdd95528c81703a7768a704a29e5d3":[7,0,0,0,1,3,2,4,2,1,0]
 };

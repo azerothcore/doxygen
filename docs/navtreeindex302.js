@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d48/classspell__deathbringer__blood__link__aura.html":[6,0,2708],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a13426f7a45e9434f980b42f174b22da8":[6,0,2708,0],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2708,4],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[6,0,2708,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a1fa987352d6c4c5f11d5415d4b886aaa":[6,0,1337,0,5],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a25ba703325800d2976eff860437f3d57":[6,0,1337,0,8],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a2a5323d92963da3b4b99ef1f7debaa4d":[6,0,1337,0,4],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a547528fbfe31974759b0e6fbdf12df31":[6,0,1337,0,9],
-"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a56c6933c2c231c228ca147107fbfc930":[6,0,1337,0,3]
+"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a547528fbfe31974759b0e6fbdf12df31":[6,0,1337,0,9]
 };

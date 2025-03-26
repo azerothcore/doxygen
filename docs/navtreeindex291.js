@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d5160432b20a5b6507647bd3f6bbe07":[7,0,0,0,1,3,2,4,9,9,10],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,9,9,0],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,2,4,9,9,6],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8eadef2b50e03c873c9774037c91cb9e":[7,0,0,0,1,3,2,4,9,9,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a246c20ab26d1490fe38afd558a7ae406":[6,0,3341,2],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a3893fffea480b47d06c4903deb051aa9":[6,0,3341,0],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a8f120ed0d8cbce6dd0640f02ea488669":[6,0,3341,1],
-"db/deb/classspell__leotheras__insidious__whisper__aura.html#aea639a3ae0f003c6213143427f3b1d23":[6,0,3341,3],
-"db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html":[6,0,1674,0]
+"db/deb/classspell__leotheras__insidious__whisper__aura.html#aea639a3ae0f003c6213143427f3b1d23":[6,0,3341,3]
 };

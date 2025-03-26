@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/dc1/classadt__MCNK.html#a96f300a2eec32665f371d98da59450cd":[6,0,134,8],
 "de/dc1/classadt__MCNK.html#a9ccf5d31fb5474104fa579954a4aa35c":[6,0,134,28],
 "de/dc1/classadt__MCNK.html#aa263bf7d7e0b8be16761a20fc7aff92c":[6,0,134,7],
 "de/dc1/classadt__MCNK.html#aa842f25b9fbbea3fde01552f1c680031":[6,0,134,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ab18870c29224fc3fa5e7b76c1aa981f4":[6,0,1627,0,5],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ac2d36bc12bb86c329721a2af224d037f":[6,0,1627,0,2],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ac589db56562987de5bbed27a2bead49f":[6,0,1627,0,3],
-"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#af5d8717572176409eca01ae214910c7f":[6,0,1627,0,9],
-"de/dd8/classInstanceMap.html":[6,0,1353]
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#af5d8717572176409eca01ae214910c7f":[6,0,1627,0,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,4,3,2,4],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a77fae4547b31b2151744843f113d3e9e":[7,0,0,0,1,3,7,4,3,2,4,0],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab0d93d43e027536e9d27c0ff1e1a4bb2":[7,0,0,0,1,3,7,4,3,2,4,1],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,4,3,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d67/classVMAP_1_1StaticMapTree.html#a467c7998bbaade4044955f95fe5bf451":[6,0,9,18,18],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a4dea40a355b2232f31eb8822fddb7fb1":[6,0,9,18,11],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a4dea40a355b2232f31eb8822fddb7fb1":[5,0,27,18,11],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a4eb6ec2ecf1977bc4fd63bbb5835f975":[5,0,27,18,22],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a4eb6ec2ecf1977bc4fd63bbb5835f975":[6,0,9,18,22]
+"d9/d67/classVMAP_1_1StaticMapTree.html#a4eb6ec2ecf1977bc4fd63bbb5835f975":[5,0,27,18,22]
 };

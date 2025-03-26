@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"dc/d0f/structboss__teron__gorefiend.html":[6,0,721],
 "dc/d0f/structboss__teron__gorefiend.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1":[6,0,721,7],
 "dc/d0f/structboss__teron__gorefiend.html#a139c351471a3f19c7e59cf8e40913820":[6,0,721,6],
 "dc/d0f/structboss__teron__gorefiend.html#a70dbf2b2a08cf915866afd51f8a74018":[6,0,721,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d23/classVehicle.html":[6,0,4170],
 "dc/d23/classVehicle.html#a0201fddbb6ce34d9314f5105d847aa37":[6,0,4170,35],
 "dc/d23/classVehicle.html#a06211ca71a5a6a44f7430d7c6c430c51":[6,0,4170,23],
-"dc/d23/classVehicle.html#a09bd00382a9c2917e78e1527a65c3a0e":[6,0,4170,8],
-"dc/d23/classVehicle.html#a0a29ec0368b2f2680f1301cea1649b56":[6,0,4170,28]
+"dc/d23/classVehicle.html#a09bd00382a9c2917e78e1527a65c3a0e":[6,0,4170,8]
 };

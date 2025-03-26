@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,705,0,9],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,705,0,7],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,705,0,5],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[6,0,705,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1872,2],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html":[6,0,3677],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3677,2],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3677,0],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3677,1]
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3677,0]
 };

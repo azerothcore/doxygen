@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca43af3f88ddf88aa8bfed99ccf363097f":[7,0,0,0,1,3,2,4,2,1,3],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b":[7,0,0,0,1,3,2,4,2,1,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,4,2,1,4],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[7,0,0,0,1,3,2,4,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d39/classspell__warl__demonic__circle__teleport.html#adabf22bd591a10662ffbf0354a18a936":[6,0,3914,3],
 "d9/d3a/classVec2D.html":[6,0,4168],
 "d9/d3a/classVec2D.html#a033bc75d6ed5790220ecb73391670c69":[6,0,4168,0],
-"d9/d3a/classVec2D.html#a065c92a2f2b2b03c6a3dbc4ce136d82d":[6,0,4168,12],
-"d9/d3a/classVec2D.html#a282fda3b9eb8d0dca4a781160ca9ab7c":[6,0,4168,10]
+"d9/d3a/classVec2D.html#a065c92a2f2b2b03c6a3dbc4ce136d82d":[6,0,4168,12]
 };

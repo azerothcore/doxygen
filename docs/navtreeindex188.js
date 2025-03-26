@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"d7/d46/classAuraEffect.html#ad2a3d61e37b7ed3cee1fd37d41d6ba59":[6,0,281,53],
 "d7/d46/classAuraEffect.html#ad2a6d0a6fcbf6f5d53633e0d1ab10dd3":[6,0,281,184],
 "d7/d46/classAuraEffect.html#ad507745acb9935a3a3cb2c6f35788ef6":[6,0,281,21],
 "d7/d46/classAuraEffect.html#ad6931b2764b92bc6c2a20b092c011f0a":[6,0,281,229],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d55/classboss__yoggsaron__cloud.html":[6,0,787],
 "d7/d55/classboss__yoggsaron__cloud.html#a2005f062eb9d78c7b09b045eba570b98":[6,0,787,2],
 "d7/d55/classboss__yoggsaron__cloud.html#ab52cc1fa8b45b70dde340b9f463ef2f1":[6,0,787,1],
-"d7/d55/structQuestPOIPoint.html":[6,0,2456],
-"d7/d55/structQuestPOIPoint.html#a2e80e5a83ab336a8b019f38297862efa":[6,0,2456,1]
+"d7/d55/structQuestPOIPoint.html":[6,0,2456]
 };

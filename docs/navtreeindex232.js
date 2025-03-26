@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#abc8b9a8759b0e3e95d66c16615f621f5":[6,0,576,0,6],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#ad4b766094f28e940b0b7971d6dadc277":[6,0,576,0,8],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html":[6,0,1699,0],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a0dbb5f295aa9061fa3457c9590ea9b10":[6,0,1699,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d5f/structNamesProfanityEntry.html":[6,0,1548],
 "d9/d5f/structNamesProfanityEntry.html#abcd404cd99f0a41b266db09ddae4da68":[6,0,1548,0],
 "d9/d60/DBCDatabaseLoader_8h.html":[7,0,0,0,1,4,0,1],
-"d9/d60/boss__warbringer__omrogg_8cpp.html":[7,0,0,0,1,3,7,4,3,2],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,4,3,2,4]
+"d9/d60/boss__warbringer__omrogg_8cpp.html":[7,0,0,0,1,3,7,4,3,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/de1/classinstance__dire__maul.html":[6,0,1291],
 "d6/de1/classinstance__dire__maul.html#a54ac2c7095a99481c7efbe4237533fac":[6,0,1291,1],
 "d6/de1/classinstance__dire__maul.html#a7fc2511e0c9475512286006f0bbaed0b":[6,0,1291,2],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html":[6,0,1615,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/dee/classInstanceSaveMgr.html#a6c5c26f34be5a6af2276615a54a3e844":[6,0,1357,18],
 "d6/dee/classInstanceSaveMgr.html#a6f4a7a9395da5cbf14fc28ce6f77b98e":[6,0,1357,8],
 "d6/dee/classInstanceSaveMgr.html#a7073bf62e379bfc7cc58f47e7ea015f9":[6,0,1357,20],
-"d6/dee/classInstanceSaveMgr.html#a73e5aa4531008dead88cb7e19293acd5":[6,0,1357,12],
-"d6/dee/classInstanceSaveMgr.html#a7ed1423a53bc0a466323ed6f18fde5c8":[6,0,1357,31]
+"d6/dee/classInstanceSaveMgr.html#a73e5aa4531008dead88cb7e19293acd5":[6,0,1357,12]
 };

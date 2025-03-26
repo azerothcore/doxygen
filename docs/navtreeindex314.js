@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/dfb/classUpdateTime.html#a61337ef6e640cd4ce48019ba6cd4fafd":[6,0,4164,12],
 "dc/dfb/classUpdateTime.html#a65ff51e1503e11ac8f218876afb7afce":[6,0,4164,13],
 "dc/dfb/classUpdateTime.html#a6cf15deccacbceff85216c7ceecd98b3":[6,0,4164,17],
 "dc/dfb/classUpdateTime.html#a8736328e4f88bad027298a6d0bbf416c":[6,0,4164,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html#aea4d151ce75bf2cdf6d6910c369daf17":[6,0,506,0,0],
 "dd/d09/BanMgr_8cpp.html":[7,0,0,0,1,2,27,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html":[6,0,2048,0],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a1c62cd07da5f0da91ef572bb00619d26":[6,0,2048,0,4],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a7be58c6ecc4e5ba23ec35cc1864f19e6":[6,0,2048,0,5]
+"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a1c62cd07da5f0da91ef572bb00619d26":[6,0,2048,0,4]
 };

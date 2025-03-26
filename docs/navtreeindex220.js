@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d9f/classUnitAura.html#a920549cf55c8def37149b00ae971127d":[6,0,4154,1],
 "d8/d9f/classUnitAura.html#ada4033955271dfb21d16a95b316087f5":[6,0,4154,0],
 "d8/d9f/classUnitAura.html#add5ce04446338e078c5986420abfd16e":[6,0,4154,3],
 "d8/d9f/classUnitAura.html#ae2c0fdfb409846fec5e861de60797112":[6,0,4154,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd":[7,0,0,0,1,1,0,13,4,9],
 "d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539":[7,0,0,0,1,1,0,13,4,1],
 "d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3":[7,0,0,0,1,1,0,13,4,7],
-"d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94":[7,0,0,0,1,1,0,13,4,0],
-"d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31":[7,0,0,0,1,1,0,13,4,3]
+"d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94":[7,0,0,0,1,1,0,13,4,0]
 };

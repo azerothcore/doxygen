@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a9d889b5112f6c93a0707227fc65dd902":[6,0,1260,1],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa203c37c8259c8b54ad5ec70db484f1":[6,0,1260,7],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa6f7b1aa064be00a726539830d6c30e":[6,0,1260,4],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1260,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4180,1],
 "df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4180,4],
 "df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4180,5],
-"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4180,0],
-"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4180,3]
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4180,0]
 };

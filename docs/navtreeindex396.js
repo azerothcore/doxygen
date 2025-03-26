@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2666,4],
 "df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[6,0,2666,3],
 "df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[6,0,2666,5],
 "df/de3/boss__leotheras__the__blind_8cpp.html":[7,0,0,0,1,3,7,2,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/df1/structCell.html#abc5ed731630ec862efb15d699d4e5213":[6,0,838,5],
 "df/df1/structCell.html#abd95fd440e9f8dab059a8c518c58eca2":[6,0,838,17],
 "df/df1/structCell.html#abe34b4a97c468b8db563092dda60340a":[6,0,838,3],
-"df/df1/structCell.html#abf5f46566b03eefa5509e8d4f5ad5003":[6,0,838,6],
-"df/df1/structCell.html#ac7eebe2036bdbeaa342abf428c0dae6c":[6,0,838,8]
+"df/df1/structCell.html#abf5f46566b03eefa5509e8d4f5ad5003":[6,0,838,6]
 };

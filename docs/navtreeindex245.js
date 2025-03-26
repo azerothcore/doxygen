@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,9,2,16,4,0],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa8d31cfc9d5381157df7f630a404f726f":[7,0,0,0,1,3,5,9,2,16,4,8],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa94a5223afc91397ed7b50393d0fe65f2":[7,0,0,0,1,3,5,9,2,16,4,16],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfaa636d8c8af1e2a2e413b915847408dc8":[7,0,0,0,1,3,5,9,2,16,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#aba224727b86a2bfc39a47b70b424ccef":[6,0,1757,0,1],
 "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#ade3f7f526dd8973c155aafb939db3778":[6,0,1757,0,2],
 "da/d0c/classspell__q10985__light__of__the__naaru.html":[6,0,3577],
-"da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3577,1],
-"da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3577,2]
+"da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3577,1]
 };

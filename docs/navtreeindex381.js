@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1773,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1773,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3034],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3034,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d78/classspell__hate__to__zero.html":[6,0,3053],
 "df/d78/classspell__hate__to__zero.html#a4998015873f0e0ca768c20b0f95fda90":[6,0,3053,3],
 "df/d78/classspell__hate__to__zero.html#a87777dce0e2bf1deba600b3ae7ce6b9c":[6,0,3053,0],
-"df/d78/classspell__hate__to__zero.html#a9fb8d980381264a2ef645f2e620abd21":[6,0,3053,2],
-"df/d78/classspell__hate__to__zero.html#ab61b4076aab18c0a6593c234209a2c1d":[6,0,3053,1]
+"df/d78/classspell__hate__to__zero.html#a9fb8d980381264a2ef645f2e620abd21":[6,0,3053,2]
 };

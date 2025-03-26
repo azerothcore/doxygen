@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d6/d5a/structboss__doomwalker.html":[6,0,423],
 "d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[6,0,423,7],
 "d6/d5a/structboss__doomwalker.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f":[6,0,423,2],
 "d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[6,0,423,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4842090ac3ea8e0e3f79e41bd8540a80":[7,0,0,0,1,3,4,0,0,2,6],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4f42b03438989f88459efb5c4a84e4d5":[7,0,0,0,1,3,4,0,0,2,4],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,4,0,0,2,7],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9e9de62e02991ecca224def0cbdc12b6":[7,0,0,0,1,3,4,0,0,2,2],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5":[7,0,0,0,1,3,4,0,0,2,3]
+"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9e9de62e02991ecca224def0cbdc12b6":[7,0,0,0,1,3,4,0,0,2,2]
 };

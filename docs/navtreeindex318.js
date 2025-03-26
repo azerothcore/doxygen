@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dd/d27/structSmartAction.html#acb0d94f4c525efba979f578a08257dd4":[6,0,2549,281],
 "dd/d27/structSmartAction.html#acb376c3753c76b793fcad88e701562e0":[6,0,2549,253],
 "dd/d27/structSmartAction.html#acc9eb53e012606ff390c7fa4dbcd22ff":[6,0,2549,234],
 "dd/d27/structSmartAction.html#ace91c6cbae89b21951ad9c6de2ee7452":[6,0,2549,213],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d31/DBUpdater_8cpp.html#ace05c45d1df6cb7f16487ef1aa8bc9f7":[7,0,0,0,1,1,3,0,2],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html":[6,0,0,1,4],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html":[5,0,1,2,4],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a0ef4ac60e1dcbc03bfe08d78b05de48d":[6,0,0,1,4,13],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a0ef4ac60e1dcbc03bfe08d78b05de48d":[5,0,1,2,4,13]
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a0ef4ac60e1dcbc03bfe08d78b05de48d":[6,0,0,1,4,13]
 };

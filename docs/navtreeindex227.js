@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/df8/classAuthSession.html#ac2f108dc8c11bdc8f4d7853d8e463422":[6,0,292,18],
 "d8/df8/classAuthSession.html#ac48aab93700877bf5761593b13477ce0":[6,0,292,28],
 "d8/df8/classAuthSession.html#ac4bba75c55795ec711ac99fb373980ce":[6,0,292,38],
 "d8/df8/classAuthSession.html#ac83f750802866266a63bdf30289e4d36":[6,0,292,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d9/d02/boss__illidan_8cpp.html#a16774215bba3b38580ea51987d64cff1afcbe3fa071793d58be03c027ba2a7f25":[7,0,0,0,1,3,7,1,2,25,5],
 "d9/d02/boss__illidan_8cpp.html#a16774215bba3b38580ea51987d64cff1afd9a0162f6e6a87aecedf385c82d97b2":[7,0,0,0,1,3,7,1,2,25,6],
 "d9/d02/boss__illidan_8cpp.html#a1692080ffd5d5dc107e7462809a3bf47":[7,0,0,0,1,3,7,1,2,40],
-"d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,2,24],
-"d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00a78fa6710daf60099ea8e0a4a189f1":[7,0,0,0,1,3,7,1,2,24,26]
+"d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,2,24]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a049b817b97866c98c37a187579f4e788":[7,0,0,0,1,3,2,1,0,1,4,22],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a091389b9b18b7203a8c2893778058e61":[7,0,0,0,1,3,2,1,0,1,4,32],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a0dc5ebdada9aea4b10a9898cc7b8dd1b":[7,0,0,0,1,3,2,1,0,1,4,7],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a1c9f95dc82dd6ef7017753b231810d01":[7,0,0,0,1,3,2,1,0,1,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#a00604bed2c13a7b470d950059122f018":[6,0,439,0,2],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#a04eaea53b78d490373f9bb911cc92596":[6,0,439,0,5],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#a2ecd55ed9e7e48829cb85862e965b7d8":[6,0,439,0,0],
-"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#a7a7d4737c4825cfabc1012f9cce0e38a":[6,0,439,0,1],
-"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aaa43aa340f946f3b8361f2bb7b29ef40":[6,0,439,0,4]
+"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#a7a7d4737c4825cfabc1012f9cce0e38a":[6,0,439,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5":[7,0,0,0,1,3,4,0,0,2,3],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab51c33641138640c72e3196ce6fb27fe":[7,0,0,0,1,3,4,0,0,2,1],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aba8a7ffa7c59b363812d39c2f84cfb06":[7,0,0,0,1,3,4,0,0,2,0],
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63abcae9a686a3fb104589eda4fc2962bdd":[7,0,0,0,1,3,4,0,0,2,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006a50b1f51e04f71142aff9fca977ef4771":[7,0,0,0,1,3,5,8,2,3,8,0],
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006a881ba623b2d01d44962ddc174d393488":[7,0,0,0,1,3,5,8,2,3,8,1],
 "d6/d75/boss__varos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006addc188f99f0b762351bb96375b425168":[7,0,0,0,1,3,5,8,2,3,8,2],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[6,0,284,11],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b":[6,0,284,11,2]
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[6,0,284,11]
 };

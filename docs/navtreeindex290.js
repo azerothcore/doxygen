@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[6,0,1644,0,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[6,0,1644,0,5],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[6,0,1644,0,7],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[6,0,1644,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298caf8f86645660d2627c607d89cf9f79cc1":[7,0,0,0,1,3,2,4,9,7,17],
 "db/dde/boss__shade__of__aran_8cpp.html#a9a1d7d4b22cef8ea676767f0f32c22cb":[7,0,0,0,1,3,2,4,9,11],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,4,9,9],
-"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,9,9,8],
-"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d5160432b20a5b6507647bd3f6bbe07":[7,0,0,0,1,3,2,4,9,9,10]
+"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,9,9,8]
 };

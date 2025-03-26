@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a495e0762614020ef6d7b741447099326":[6,0,2171,0,1],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e":[6,0,2171,0,9],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a891b31661705ed4df634059e6165d499":[6,0,2171,0,2],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#ac62ec499aba734d36249f8c00b36e2d4":[6,0,2171,0,3],
@@ -185,10 +186,10 @@ var NAVTREEINDEX157 =
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,30,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,30,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,11,5,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,30,5,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,30,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,30,5,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,968],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[6,0,968,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[6,0,968,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a57eb1560196465e09c95b7307caa4336":[7,0,0,0,1,3,7,5,0,0,8,2],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a590bc00e9bbd5afdaee6bd387a3867ec":[7,0,0,0,1,3,7,5,0,0,8,13],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a597403bf179d3048eb5648cfcb15a6ae":[7,0,0,0,1,3,7,5,0,0,8,20],
-"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a65b3c5ab4bbaf5d0234300c3b6cd3ce4":[7,0,0,0,1,3,7,5,0,0,8,27],
-"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a679cbf594904cd759c2a688442c92cd5":[7,0,0,0,1,3,7,5,0,0,8,12]
+"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a65b3c5ab4bbaf5d0234300c3b6cd3ce4":[7,0,0,0,1,3,7,5,0,0,8,27]
 };

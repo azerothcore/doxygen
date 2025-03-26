@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,0,3,5,2],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[5,0,30,4,0],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[6,0,11,4,0],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[5,0,30,4,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d46/classAuraEffect.html#ad0ade8db29e053f3dd175102766ec745":[6,0,281,156],
 "d7/d46/classAuraEffect.html#ad16e337a78c3bd2df90a006745bb0ccb":[6,0,281,157],
 "d7/d46/classAuraEffect.html#ad281398afbdfcf17b271deccfda26b01":[6,0,281,153],
-"d7/d46/classAuraEffect.html#ad2a24adc63d2e5dfd848f22ddd490525":[6,0,281,1],
-"d7/d46/classAuraEffect.html#ad2a3d61e37b7ed3cee1fd37d41d6ba59":[6,0,281,53]
+"d7/d46/classAuraEffect.html#ad2a24adc63d2e5dfd848f22ddd490525":[6,0,281,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acd12bd072399798382456e0611f5630a":[7,0,0,0,1,3,2,12,4,19,5],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae0f385793d6d2376f072470b579bd139":[7,0,0,0,1,3,2,12,4,19,19],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af4efd650c22f8b39cca220444fe6c264":[7,0,0,0,1,3,2,12,4,19,1],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af6452adf1604b7ac781fdc7cb2603fa8":[7,0,0,0,1,3,2,12,4,19,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "da/d82/structboss__loken_1_1boss__lokenAI.html#a8f20ce4cddf7eae09ddc659b9bf75919":[6,0,593,0,11],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#aba89a46dae1d4d195c8be10d89fb72ab":[6,0,593,0,12],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#abdadd98c337f97f6a1daf1657f2f3ab2":[6,0,593,0,0],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#ac3b98aeba2741ee49d262b33d30f8b2a":[6,0,593,0,8],
-"da/d82/structboss__loken_1_1boss__lokenAI.html#acc5b453efca847a6cada43606b8a08ed":[6,0,593,0,7]
+"da/d82/structboss__loken_1_1boss__lokenAI.html#ac3b98aeba2741ee49d262b33d30f8b2a":[6,0,593,0,8]
 };

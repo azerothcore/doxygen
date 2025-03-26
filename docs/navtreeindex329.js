@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea83d89284f483b36bed64cd61c597a289":[7,0,0,0,1,3,5,23,28,3],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea9903134f04818fffd11af3c69aca7053":[7,0,0,0,1,3,5,23,28,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeaa5091a81264f90c13fc30c56c0152994":[7,0,0,0,1,3,5,23,28,6],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeab724d61a4559b27c4512cd8168d6db1e":[7,0,0,0,1,3,5,23,28,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a651b11c4cc5f92881b4dd5b7f22c9d85":[6,0,441,0,6],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a780aa5bc86c80aaeeffad441b2873121":[6,0,441,0,1],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a98cf5d8aded78694117af64ccdb6cd83":[6,0,441,0,4],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#ab87dfcf635a65b02be29186d2990fef3":[6,0,441,0,5],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#ae742dceac5979faebb58a133e9bd91f0":[6,0,441,0,2]
+"dd/dc4/structboss__epoch_1_1boss__epochAI.html#ab87dfcf635a65b02be29186d2990fef3":[6,0,441,0,5]
 };

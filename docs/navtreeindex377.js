@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea4b91d5faa0d876e04c64b0eb99134744":[7,0,0,0,1,3,5,8,2,6,2,1],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ea68f4800ee218a41c1afa12eeb2cb8cce":[7,0,0,0,1,3,5,8,2,6,2,2],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eaadbc758e3c1b7e6a6595c6a8178b4737":[7,0,0,0,1,3,5,8,2,6,2,4],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eacfd97bd3fb1ccc16d2a7bf6a147600b7":[7,0,0,0,1,3,5,8,2,6,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d37/classHyperlinkDataTokenizer.html#a1fb14152c61205ce31fcf2bfeaeceeaf":[6,0,1266,0],
 "df/d37/classHyperlinkDataTokenizer.html#a42e18263129c27149bf9a91b3dc42418":[6,0,1266,2],
 "df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[6,0,1266,1],
-"df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[6,0,1266,3],
-"df/d38/structnpc__ahnqiraji__critter.html":[6,0,1564]
+"df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[6,0,1266,3]
 };

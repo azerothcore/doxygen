@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a":[7,0,0,0,1,3,5,5,3,6,1],
 "d6/dcf/boss__moorabi_8cpp.html#afdf2728763fb0b3eb1dd510bb2b6bbce":[7,0,0,0,1,3,5,5,3,7],
 "d6/dd0/pet__shaman_8cpp.html":[7,0,0,0,1,3,8,5],
 "d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124c":[7,0,0,0,1,3,8,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/de0/structnpc__lakota__windsong_1_1npc__lakota__windsongAI.html#a6435c8b1521206789131889e5fa527a6":[6,0,1916,0,3],
 "d6/de0/structnpc__lakota__windsong_1_1npc__lakota__windsongAI.html#a922172a38ca75adef66a2653eda7fa98":[6,0,1916,0,0],
 "d6/de0/structnpc__lakota__windsong_1_1npc__lakota__windsongAI.html#aa63601ac87b674cb5d0594213d1e7ea9":[6,0,1916,0,1],
-"d6/de0/structnpc__lakota__windsong_1_1npc__lakota__windsongAI.html#aee7a86275f93021e0e5db249b636bcd4":[6,0,1916,0,2],
-"d6/de1/classinstance__dire__maul.html":[6,0,1291]
+"d6/de0/structnpc__lakota__windsong_1_1npc__lakota__windsongAI.html#aee7a86275f93021e0e5db249b636bcd4":[6,0,1916,0,2]
 };

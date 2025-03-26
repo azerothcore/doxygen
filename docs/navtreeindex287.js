@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/dca/classMapScript.html#a9cef8253d591e729b4119312ec0b670a":[6,0,1486,6],
 "db/dca/classMapScript.html#aa2da3eeec627cb67719d774d35f03488":[6,0,1486,2],
 "db/dca/classMapScript.html#abf3fbb90119e1ac5d13455217ac95a2f":[6,0,1486,1],
 "db/dca/structboss__felmyst.html":[6,0,462],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca901e60dd92a92f9b0f3e1d709857498f":[7,0,0,0,1,3,5,6,12,89,27],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca91c49c266db0edc29dbd1b212330cc09":[7,0,0,0,1,3,5,6,12,89,24],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca99eaf912c120c7fa6d85748ebf96aebb":[7,0,0,0,1,3,5,6,12,89,32],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e3ea09eb5611432864d2b5a4f753b41":[7,0,0,0,1,3,5,6,12,89,17],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298caa300a52c710d0d21a777b9b71f2e550a":[7,0,0,0,1,3,5,6,12,89,25]
+"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e3ea09eb5611432864d2b5a4f753b41":[7,0,0,0,1,3,5,6,12,89,17]
 };

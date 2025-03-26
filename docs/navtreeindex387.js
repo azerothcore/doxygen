@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/da7/classBattleground.html#a49ddcc93f9d450bd0f81bb831f264aa1":[6,0,310,197],
 "df/da7/classBattleground.html#a4aec80e93d36c9d22033e764d0e426a9":[6,0,310,79],
 "df/da7/classBattleground.html#a4cfd483f662820fcd1ffaa0169719c5e":[6,0,310,152],
 "df/da7/classBattleground.html#a4e05c7ef0328f590519c14fa70d02cfa":[6,0,310,218],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html":[6,0,2002],
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html#aaa0881509c2842d6c0442884d0947e28":[6,0,2002,1],
 "df/dad/classnpc__pet__dk__dancing__rune__weapon.html#aae11c76fbcf729f44136c53b2b3e0982":[6,0,2002,2],
-"df/dae/classspell__drakkari__colossus__emerge.html":[6,0,2775],
-"df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[6,0,2775,1]
+"df/dae/classspell__drakkari__colossus__emerge.html":[6,0,2775]
 };

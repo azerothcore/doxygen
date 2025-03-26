@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d9f/classserver__commandscript.html#ae18a92337d6cf8e62eafdf5f39d7b5a8":[6,0,2520,5],
 "dc/d9f/classserver__commandscript.html#ae64357518538c1ce4d03a8d9968b4035":[6,0,2520,13],
 "dc/d9f/structTSpellSummary.html":[6,0,4139],
 "dc/d9f/structTSpellSummary.html#a390ced58f1c1981c05cc2aec32a4d579":[6,0,4139,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22acc5f3c1f985f39faef5b26b393862a0f":[7,0,0,0,1,3,7,3,2,4,4],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22accf4ac52aca57b15bc50cf47c8a3e5fc":[7,0,0,0,1,3,7,3,2,4,1],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ae405fe3c160f2ad583b0cfe2a99be93a":[7,0,0,0,1,3,7,3,2,4,0],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html":[6,0,1322,0],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a010079e135c41de850419149ec2857f3":[6,0,1322,0,18]
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html":[6,0,1322,0]
 };

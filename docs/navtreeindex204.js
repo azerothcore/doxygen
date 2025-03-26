@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba666020ca779618394caa87eab7d82c3c":[7,0,0,0,1,3,5,1,0,2,2,0],
 "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba6b2de4b70298d53d1e8c042da94b7c87":[7,0,0,0,1,3,5,1,0,2,2,14],
 "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba72509ccde0f82c1f684baf715e8983ac":[7,0,0,0,1,3,5,1,0,2,2,9],
 "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba752fbe50413af455094f0578f791476b":[7,0,0,0,1,3,5,1,0,2,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/deb/classspell__rog__deadly__poison.html#a7ca0fe15f6679c73aa77818ef3d94eed":[6,0,3685,1],
 "d7/deb/structEnumText.html":[6,0,1014],
 "d7/deb/structEnumText.html#a020a7ebf3b1ee476d5f7ee605f43525d":[6,0,1014,1],
-"d7/deb/structEnumText.html#a7326575ea4083e28ac62556526a092a4":[6,0,1014,3],
-"d7/deb/structEnumText.html#a8eaf5ce52dcc9fd44476f9add1140e0d":[6,0,1014,0]
+"d7/deb/structEnumText.html#a7326575ea4083e28ac62556526a092a4":[6,0,1014,3]
 };

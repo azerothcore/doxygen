@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d82/structboss__loken_1_1boss__lokenAI.html#acc5b453efca847a6cada43606b8a08ed":[6,0,593,0,7],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#ad9f9e369ce64bab66f29899659440b62":[6,0,593,0,9],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#ae92b9ff0abd8580baf7a2fca56e0df23":[6,0,593,0,10],
 "da/d82/structboss__loken_1_1boss__lokenAI.html#af6f6ebfffa9e2719c3a18bd53d704018":[6,0,593,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/d90/classSpellMgr.html#ac0075b5d8cabc7ff2cea2537a1c31ead":[6,0,4036,69],
 "da/d90/classSpellMgr.html#ac325f4a1c1164352f4a4f1adf1be9ce0":[6,0,4036,80],
 "da/d90/classSpellMgr.html#ac68d8e843d1a7a14d16c397e4595ce17":[6,0,4036,90],
-"da/d90/classSpellMgr.html#ac898d28aeb3a83564da1d172972d0029":[6,0,4036,60],
-"da/d90/classSpellMgr.html#aca8a0eccca0aa32dc2cc9802597c0256":[6,0,4036,34]
+"da/d90/classSpellMgr.html#ac898d28aeb3a83564da1d172972d0029":[6,0,4036,60]
 };

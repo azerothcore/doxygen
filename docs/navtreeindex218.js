@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca24e66f411718b4ee2fa55feb2ce3aa96":[7,0,0,0,1,3,2,4,6,9,9],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,2,4,6,9,4],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca57a171af34cb07d5bccf6145ba7231f8":[7,0,0,0,1,3,2,4,6,9,7],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca702c4b7d54386bae354b64334d590b1e":[7,0,0,0,1,3,2,4,6,9,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[6,0,0,5,0,22,6],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,1,8,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[7,0,0,0,1,2,17,1],
-"d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[7,0,0,0,1,2,17,1,7],
-"d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[7,0,0,0,1,2,17,1,11]
+"d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[7,0,0,0,1,2,17,1,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d8b/classspell__item__venomhide__feed.html#a7099b8d28128cfea49288792ea02606c":[6,0,3285,0],
 "d7/d8b/classspell__item__venomhide__feed.html#a7622be3b736678ebeb3982a8d6a5b601":[6,0,3285,1],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html":[6,0,2075,0],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a044f7c15ed58b67d02d6e1f6b76ad573":[6,0,2075,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d95/classPoolMgr.html#a6cc2ca0252a1feaf2e997da3bed8472d":[6,0,2418,1],
 "d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98":[6,0,2418,32],
 "d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47":[6,0,2418,38],
-"d7/d95/classPoolMgr.html#a7aabf1a576b9856e20c9a093f3f2e5a7":[6,0,2418,29],
-"d7/d95/classPoolMgr.html#a8500f26e6908110bb69e3220153701a8":[6,0,2418,22]
+"d7/d95/classPoolMgr.html#a7aabf1a576b9856e20c9a093f3f2e5a7":[6,0,2418,29]
 };

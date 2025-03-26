@@ -1,5 +1,6 @@
 var NAVTREEINDEX283 =
 {
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae29303bf5d53088ba9071fd25e2fa696":[5,0,21,7,24],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae29303bf5d53088ba9071fd25e2fa696":[6,0,7,7,24],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae3e2fce2a5bc4e22e55de02d0748162b":[6,0,7,7,40],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae3e2fce2a5bc4e22e55de02d0748162b":[5,0,21,7,40],
@@ -248,6 +249,5 @@ var NAVTREEINDEX283 =
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0":[7,0,0,0,1,3,4,15,4,12],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c":[7,0,0,0,1,3,4,15,4,2],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7":[7,0,0,0,1,3,4,15,4,11],
-"db/da5/zone__azshara_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce":[7,0,0,0,1,3,4,15,5],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17]
+"db/da5/zone__azshara_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce":[7,0,0,0,1,3,4,15,5]
 };

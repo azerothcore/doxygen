@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[7,0,0,0,1,2,17,1,11],
 "d8/d92/GameEventMgr_8h.html#ac4262be385ac879bb433e00533d835c0":[7,0,0,0,1,2,17,1,8],
 "d8/d92/GameEventMgr_8h.html#ad54f33b2e05154d9c2a384ff579b9208":[7,0,0,0,1,2,17,1,10],
 "d8/d92/GameEventMgr_8h.html#adaa73d920934a951856f7ce003ce2342":[7,0,0,0,1,2,17,1,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d9f/classUnitAura.html#a28f714404942bb5c614ac844cf937546":[6,0,4154,5],
 "d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124":[6,0,4154,8],
 "d8/d9f/classUnitAura.html#a6d858a153c5d3046574f3387ab852050":[6,0,4154,6],
-"d8/d9f/classUnitAura.html#a8ebf7b01e7f324938f68ad4ce74d56b5":[6,0,4154,4],
-"d8/d9f/classUnitAura.html#a920549cf55c8def37149b00ae971127d":[6,0,4154,1]
+"d8/d9f/classUnitAura.html#a8ebf7b01e7f324938f68ad4ce74d56b5":[6,0,4154,4]
 };

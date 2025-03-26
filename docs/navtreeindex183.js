@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d7/d0c/classspell__warl__haunt.html":[6,0,3926],
 "d7/d0c/classspell__warl__haunt.html#a177bcf10d6b8fa586ff0cac3834367f9":[6,0,3926,0],
 "d7/d0c/classspell__warl__haunt.html#a46fe3d7ebd663d1cb27aa473a56e81eb":[6,0,3926,2],
 "d7/d0c/classspell__warl__haunt.html#ac16ef2ff92440deab6c69f4824bdd619":[6,0,3926,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a5752d325d7474aef059be90deecb85b9":[7,0,0,0,1,3,5,25,21,34],
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a5b9b639aff1062c69af1d04b2a7d0a24":[7,0,0,0,1,3,5,25,21,29],
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a5c2abf3f2e5114c90d9b4d7e956bff0b":[7,0,0,0,1,3,5,25,21,32],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a6250d326730c4094733ded9cec0a3cce":[7,0,0,0,1,3,5,25,21,27],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a65aa041b83cddf2531042963ff4c1ced":[7,0,0,0,1,3,5,25,21,24]
+"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a6250d326730c4094733ded9cec0a3cce":[7,0,0,0,1,3,5,25,21,27]
 };

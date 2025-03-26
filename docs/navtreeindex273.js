@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3677,1],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3677,3],
 "db/d3e/structQEmote.html":[6,0,2440],
 "db/d3e/structQEmote.html#a701c902af6f7f472511727bcc88ceeef":[6,0,2440,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d4f/classMageSpellModPred.html#a09ba840692b7fd50f7f6a537de1b240e":[6,0,1459,1],
 "db/d4f/classMageSpellModPred.html#af97aacdd47bd4427bb7dc1093ea1f63c":[6,0,1459,0],
 "db/d4f/structMinionInfo.html":[6,0,1501],
-"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[6,0,1501,1],
-"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[6,0,1501,0]
+"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[6,0,1501,1]
 };

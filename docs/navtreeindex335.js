@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/df1/structboss__buru.html#aa395967af50f2a422bf1e81a087efc43":[6,0,405,10],
 "dd/df1/structboss__buru.html#aa534cca1e46299e8db917cc8aa5d5b51":[6,0,405,3],
 "dd/df1/structboss__buru.html#ac3bc641c6bb67e585541c4e5d93dd7fa":[6,0,405,8],
 "dd/df1/structboss__buru.html#af65d0026b2ea78edb6d48e3c48b6b37b":[6,0,405,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a8f6b1618223d4660cce33d34d215f323":[6,0,1707,0,13],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a900611179c3c9d4ceffd86261f62151b":[6,0,1707,0,9],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a91be80fbce6f6f0ae6a249128ba319c9":[6,0,1707,0,17],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#aaf9b034a97510ce7d58aa2d9ecfc0c14":[6,0,1707,0,3],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#acf6f70f93dbca7f5139af17ec411b971":[6,0,1707,0,14]
+"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#aaf9b034a97510ce7d58aa2d9ecfc0c14":[6,0,1707,0,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/deb/structEnumText.html#a8eaf5ce52dcc9fd44476f9add1140e0d":[6,0,1014,0],
 "d7/deb/structEnumText.html#ab08504e4ec70c5495f5a45856f2e6976":[6,0,1014,2],
 "d7/deb/structboss__ysondre_1_1boss__ysondreAI.html":[6,0,802,0],
 "d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#a5c96faa6b5e6cc350e9c53f34fe17eb1":[6,0,802,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a8934e8d4b86f03e5d578b153eeb63758":[7,0,0,0,1,2,16,10,6,5,21],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a96718491f9fa88e0a6cb75b9580a69e5":[7,0,0,0,1,2,16,10,6,5,10],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d":[7,0,0,0,1,2,16,10,6,5,2],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[7,0,0,0,1,2,16,10,6,5,17],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e":[7,0,0,0,1,2,16,10,6,5,25]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[7,0,0,0,1,2,16,10,6,5,17]
 };

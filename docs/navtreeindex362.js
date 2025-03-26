@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[6,0,4107,1],
 "de/d95/classTicketMgr.html#a5ea5f45b9ac52b3bbbceccbc69d894f3":[6,0,4107,21],
 "de/d95/classTicketMgr.html#a6a5b603d107d4e14a7aff5c019f0b3d1":[6,0,4107,29],
 "de/d95/classTicketMgr.html#a711629e4c21f66401248b9f8d8e7c511":[6,0,4107,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/da1/instance__magisters__terrace_8cpp.html#acefca1a118e299acbb631fc6166a1526":[7,0,0,0,1,3,2,5,4,7],
 "de/da1/structObjectPosSelector.html":[6,0,2314],
 "de/da1/structObjectPosSelector.html#a092252be70aef7ba47a2e81d183d68ab":[6,0,2314,9],
-"de/da1/structObjectPosSelector.html#a1d792bc79d1646eae7651705bc0afdd5":[6,0,2314,11],
-"de/da1/structObjectPosSelector.html#a25ec0d7656c52f0a9c4b24ea81e37771":[6,0,2314,17]
+"de/da1/structObjectPosSelector.html#a1d792bc79d1646eae7651705bc0afdd5":[6,0,2314,11]
 };

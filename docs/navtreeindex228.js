@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00a78fa6710daf60099ea8e0a4a189f1":[7,0,0,0,1,3,7,1,2,24,26],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a07c43b61572c54e12a32bc916cfe66ba":[7,0,0,0,1,3,7,1,2,24,28],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0851783da8553cd2f334a5cc26e5ff6f":[7,0,0,0,1,3,7,1,2,24,10],
 "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08d51829ad652b31d24c65df42ea7d74":[7,0,0,0,1,3,7,1,2,24,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "d9/d13/classAppender.html":[6,0,153],
 "d9/d13/classAppender.html#a0013fabdf34579153a2d145fdbd8009b":[6,0,153,5],
 "d9/d13/classAppender.html#a04e6bf8aca909a3fbadcd053dda85b83":[6,0,153,2],
-"d9/d13/classAppender.html#a0d47660ee41c8816342001825f626a8b":[6,0,153,15],
-"d9/d13/classAppender.html#a0efa3e131b7c130a9ece375135682ea4":[6,0,153,8]
+"d9/d13/classAppender.html#a0d47660ee41c8816342001825f626a8b":[6,0,153,15]
 };

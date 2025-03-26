@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994":[6,0,2313,224],
 "d5/dfb/classObjectMgr.html#aac3485ec682fc1830ed9dcce7b194b4c":[6,0,2313,116],
 "d5/dfb/classObjectMgr.html#aac6f64e0e0cdc9ba5be5a8ebc838cf8c":[6,0,2313,246],
 "d5/dfb/classObjectMgr.html#aacc77cb8f7b33f634f26e6e8ea13c6a6":[6,0,2313,285],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html":[6,0,2183,0],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a05a150e01f519675ac7b69d3c2a97ed4":[6,0,2183,0,3],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a0f4128d5fd7a855f1fb2870465bc1ce7":[6,0,2183,0,0],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2183,0,1],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a81607ebd90d8f511bb18b03ff497d9eb":[6,0,2183,0,2]
+"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2183,0,1]
 };

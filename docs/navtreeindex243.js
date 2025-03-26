@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/de5/classspell__gen__remove__impairing__auras.html#a3b2d739227e57667a284ae4600ec1bb6":[6,0,2978,1],
 "d9/de5/classspell__gen__remove__impairing__auras.html#a78a131bdf6a1406604edd130c28d664b":[6,0,2978,0],
 "d9/de5/classspell__gen__remove__impairing__auras.html#a8a70913369aa733160366f37ff1c3470":[6,0,2978,2],
 "d9/de5/classspell__hun__cower.html":[6,0,3078],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/df6/classat__thaddius__entrance.html":[6,0,242],
 "d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,242,0],
 "d9/df6/classat__thaddius__entrance.html#af8635a58d4da0421b72b4451c1ebafc5":[6,0,242,1],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2781],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2781,2]
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2781]
 };

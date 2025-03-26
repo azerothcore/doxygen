@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"functions_q.html":[6,3,0,17],
 "functions_r.html":[6,3,0,18],
 "functions_rela.html":[6,3,6],
 "functions_s.html":[6,3,0,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "globals_y.html":[7,1,0,25],
 "globals_z.html":[7,1,0,26],
 "hierarchy.html":[6,2],
-"index.html":[],
-"index.html":[0]
+"index.html":[]
 };

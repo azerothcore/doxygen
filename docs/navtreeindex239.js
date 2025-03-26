@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eab01f5bc950f6905a93de503a844970ca":[7,0,0,0,1,3,2,15,8,3,0],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eabd14c73f5d349595c72549cf2846c046":[7,0,0,0,1,3,2,15,8,3,12],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac80a4551e436304fcb1156d19f0db096":[7,0,0,0,1,3,2,15,8,3,17],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac84820d025b516898e6afcbd23db2254":[7,0,0,0,1,3,2,15,8,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/da9/boss__rend__blackhand_8cpp.html":[7,0,0,0,1,3,2,1,1,10],
 "d9/da9/boss__rend__blackhand_8cpp.html#a058df54a433526e66607173d46ad47af":[7,0,0,0,1,3,2,1,1,10,7],
 "d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,1,1,10,5],
-"d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a02e21f0b46f57ca5294362459ecd852e":[7,0,0,0,1,3,2,1,1,10,5,2],
-"d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a2ae91a4d4fc6b9c566e98eaf6ed30f21":[7,0,0,0,1,3,2,1,1,10,5,3]
+"d9/da9/boss__rend__blackhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a02e21f0b46f57ca5294362459ecd852e":[7,0,0,0,1,3,2,1,1,10,5,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a7be58c6ecc4e5ba23ec35cc1864f19e6":[6,0,2048,0,5],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a8864031e3c7a32cde57ca6efbf785d53":[6,0,2048,0,1],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a92af4732575008c1a4f061cef0f23902":[6,0,2048,0,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#ad4a4bd9af581abe832933da69b18d76f":[6,0,2048,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125":[7,0,0,0,1,2,32,1,7,5],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811":[7,0,0,0,1,2,32,1,7,1],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780":[7,0,0,0,1,2,32,1,7,0],
-"dd/d19/OutdoorPvP_8h.html#a61d2d26058751cc92ed3744e7216a061":[7,0,0,0,1,2,32,1,4],
-"dd/d19/OutdoorPvP_8h.html#a7908847b61cb33598912d94a2c0d153a":[7,0,0,0,1,2,32,1,6]
+"dd/d19/OutdoorPvP_8h.html#a61d2d26058751cc92ed3744e7216a061":[7,0,0,0,1,2,32,1,4]
 };

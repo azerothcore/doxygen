@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4262,7],
 "dc/d7d/classZoneScript.html#af4aa4d8f6b48d7d63fb6daa85d50c756":[6,0,4262,1],
 "dc/d7d/classZoneScript.html#afa02089edff085ecd4eb7178b94ffe26":[6,0,4262,10],
 "dc/d7d/classZoneScript.html#afaf1aecaaaac82508b8f1c50712b8204":[6,0,4262,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75":[7,0,0,0,1,3,2,33,2,2],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3":[7,0,0,0,1,3,2,33,2,8],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8":[7,0,0,0,1,3,2,33,2,4],
-"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46":[7,0,0,0,1,3,2,33,2,1],
-"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050":[7,0,0,0,1,3,2,33,2,7]
+"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46":[7,0,0,0,1,3,2,33,2,1]
 };

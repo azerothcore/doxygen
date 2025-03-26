@@ -1,5 +1,6 @@
 var NAVTREEINDEX351 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,859],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX351 =
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html":[6,0,1158,0],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1158,0,1],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9c983aa02285dbebc545b4056191200c":[6,0,1158,0,3],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1158,0,4],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1158,0,5]
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1158,0,4]
 };

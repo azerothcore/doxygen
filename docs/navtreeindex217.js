@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d8/d74/classWorldSession.html#aee220c902412cb694cd9b4664f5be749":[4,1,19,125],
 "d8/d74/classWorldSession.html#aee2ab633a91c875511b31b97499778ad":[4,1,19,408],
 "d8/d74/classWorldSession.html#aeec4396af4a93559f89dd422decc7357":[4,1,19,123],
 "d8/d74/classWorldSession.html#aef6f44be1a1518170e30c3b8944539af":[4,1,19,613],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,6,9],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca07aac9203da2e7e5fb62608eca69e0c9":[7,0,0,0,1,3,2,4,6,9,2],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca083fa132f1e3c6345b4118082e976b95":[7,0,0,0,1,3,2,4,6,9,3],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,4,6,9,0],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca24e66f411718b4ee2fa55feb2ce3aa96":[7,0,0,0,1,3,2,4,6,9,9]
+"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,4,6,9,0]
 };

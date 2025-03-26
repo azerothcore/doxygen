@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7960db784552c9c9e6844cdd45abe658":[7,0,0,0,1,3,7,13,38,5],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d":[7,0,0,0,1,3,7,13,38,17],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693":[7,0,0,0,1,3,7,13,38,27],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/db3/classspell__dk__wandering__plague__aura.html#a72d89db31c1fbd5c3b49b4c05a2d90f4":[6,0,2770,3],
 "da/db3/classspell__dk__wandering__plague__aura.html#a911b81552e7193dbf1cfc11037b44d84":[6,0,2770,1],
 "da/db3/classspell__dk__wandering__plague__aura.html#abd74252153fc4fc9a4e561005ea58b3f":[6,0,2770,0],
-"da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2770,2],
-"da/db3/structLootView.html":[6,0,1453]
+"da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2770,2]
 };

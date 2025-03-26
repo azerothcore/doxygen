@@ -1,5 +1,6 @@
 var NAVTREEINDEX175 =
 {
+"d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#add36192941eaabf7f3d1d41c572783bd":[6,0,546,0,0],
 "d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html":[6,0,1877,0],
 "d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html#a288bd5f8b4eaed7b1a960ed738330ae4":[6,0,1877,0,2],
 "d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html#a2c834dc151493957fc116865699ae7f5":[6,0,1877,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31a20411938f7cc7a5140e3b7006d54d851":[7,0,0,0,1,2,16,6,2,8,3],
 "d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae32b2ad103ad490f5f16a85f9a173dd1":[7,0,0,0,1,2,16,6,2,8,0],
 "d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd":[7,0,0,0,1,2,16,6,2,8,4],
-"d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31afd6db825b6f344f6f64ae53dc19cf503":[7,0,0,0,1,2,16,6,2,8,1],
-"d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6b":[7,0,0,0,1,2,16,6,2,7]
+"d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31afd6db825b6f344f6f64ae53dc19cf503":[7,0,0,0,1,2,16,6,2,8,1]
 };

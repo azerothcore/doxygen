@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642ac8f893fe88ae505423660703e3318e13":[7,0,0,0,1,2,16,7,5,120,24],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642ad653cf13e5231e6680afd99120e42045":[7,0,0,0,1,2,16,7,5,120,15],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642ad8de78aba076eeddad90ddfb1904acb4":[7,0,0,0,1,2,16,7,5,120,11],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642ad90294e95f05bb57c51a6d1475887a4d":[7,0,0,0,1,2,16,7,5,120,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/dd9/classspell__gen__proc__on__self.html#a148f3fe7ee4bdc8e148fe71100779e56":[6,0,2968,2],
 "da/dd9/classspell__gen__proc__on__self.html#a6e164a8e3482b566b776c5ffeeb1b6ac":[6,0,2968,1],
 "da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77":[6,0,2968,0],
-"da/dd9/classspell__gen__proc__on__victim.html":[6,0,2969],
-"da/dd9/classspell__gen__proc__on__victim.html#a15b05d352f94d2aabeb75a6bfd996fc6":[6,0,2969,2]
+"da/dd9/classspell__gen__proc__on__victim.html":[6,0,2969]
 };

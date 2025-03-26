@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dee/classInstanceSaveMgr.html#a7ed1423a53bc0a466323ed6f18fde5c8":[6,0,1357,31],
 "d6/dee/classInstanceSaveMgr.html#a7eddbd4d8e66b05f5febf47ecf26f0a3":[6,0,1357,21],
 "d6/dee/classInstanceSaveMgr.html#a83e637f26c5992e4e578f6bc62de71e8":[6,0,1357,36],
 "d6/dee/classInstanceSaveMgr.html#a870dae0b7c35d0915b036e892a766dcd":[6,0,1357,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,12,2],
 "d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f":[7,0,0,0,1,3,2,16,12,2,1],
 "d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa482cf639262e991028f367a08410abf":[7,0,0,0,1,3,2,16,12,2,0],
-"d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab6658649bf3ce20580c9b58afaa7e3ca":[7,0,0,0,1,3,2,16,12,2,2],
-"d6/dfc/classnpc__mindless__ghoul.html":[6,0,1962]
+"d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab6658649bf3ce20580c9b58afaa7e3ca":[7,0,0,0,1,3,2,16,12,2,2]
 };

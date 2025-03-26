@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec":[7,0,0,0,1,2,20,1,13,8],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c":[7,0,0,0,1,2,20,1,13,0],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db":[7,0,0,0,1,2,20,1,13,9],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd":[7,0,0,0,1,2,20,1,13,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4241,0],
 "de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4241,2],
 "de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4241,1],
-"de/d4a/classspell__brewfest__toss__mug.html":[6,0,2670],
-"de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2670,0]
+"de/d4a/classspell__brewfest__toss__mug.html":[6,0,2670]
 };

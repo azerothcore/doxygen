@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6b":[7,0,0,0,1,2,16,6,2,7],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba22f9afd7d3f47ad0de0d10534e0275b1":[7,0,0,0,1,2,16,6,2,7,2],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba2e0f5a56669ad0bd1e738d94090e06cc":[7,0,0,0,1,2,16,6,2,7,1],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba398819a3c83d6ad80812d1dca2039d64":[7,0,0,0,1,2,16,6,2,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#ac1898cea6887fcfa182aa8a7a535c462":[6,0,485,0,1],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#acbfa384508002ba9505d280c448f1f0e":[6,0,485,0,7],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#adb5a2609f1f065fe7a737b8da2d4aef4":[6,0,485,0,10],
-"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#ae2f943d7e08b5ca508518cd19c675be9":[6,0,485,0,5],
-"d6/db6/classspell__halion__damage__aoe__summon.html":[6,0,3030]
+"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#ae2f943d7e08b5ca508518cd19c675be9":[6,0,485,0,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/db3/structLootView.html":[6,0,1453],
 "da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1453,2],
 "da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1453,0],
 "da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1453,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/dbe/structAcore_1_1UnitListSearcher.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d":[5,0,1,123,1],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a92f9b0407e609b6c61f10d93aa49912f":[6,0,0,111,2],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a92f9b0407e609b6c61f10d93aa49912f":[5,0,1,123,2],
-"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html":[6,0,800,0],
-"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a02474ca7c012bbc51b07d96634bab6a3":[6,0,800,0,12]
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html":[6,0,800,0]
 };

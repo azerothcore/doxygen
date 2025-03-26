@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[6,0,2246,4],
 "da/d2e/classnpc__varian__wrynn.html#a95f6ff3f2a7db807b278d019e187ddec":[6,0,2246,3],
 "da/d2e/classnpc__varian__wrynn.html#aa5aa46f24a128e84ac2a837c012b2e02":[6,0,2246,2],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html":[6,0,2841],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "da/d40/classTotem.html#a0bff976b49617405869ac7f2416e0ca1":[6,0,4114,19],
 "da/d40/classTotem.html#a1454ef318166d69bee1eddcaec73604a":[6,0,4114,2],
 "da/d40/classTotem.html#a25d245ac788196851f748d84b529bd98":[6,0,4114,7],
-"da/d40/classTotem.html#a4661c91b5123862fc44e7a290cf70d1f":[6,0,4114,5],
-"da/d40/classTotem.html#a515d54b852bbedf597f9f69cb7c0982b":[6,0,4114,11]
+"da/d40/classTotem.html#a4661c91b5123862fc44e7a290cf70d1f":[6,0,4114,5]
 };

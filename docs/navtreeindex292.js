@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html":[6,0,1674,0],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42":[6,0,1674,0,5],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a1bbefa59abce0c7b3d7b343ddc467c98":[6,0,1674,0,4],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a3c3f47022aee418f228803a2504470a3":[6,0,1674,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527":[7,0,0,0,1,2,8,15,1,4],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80":[7,0,0,0,1,2,8,15,1,16],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e":[7,0,0,0,1,2,8,15,1,15],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408":[7,0,0,0,1,2,8,15,1,9],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2":[7,0,0,0,1,2,8,15,1,5]
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408":[7,0,0,0,1,2,8,15,1,9]
 };

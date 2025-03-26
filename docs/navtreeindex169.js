@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a165e2b52b845d43034704f0bce8c963b":[7,0,0,0,1,2,7,0,1,18,4],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a529ccde50f8f128ba00734682142816e":[7,0,0,0,1,2,7,0,1,18,7],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a5b0075a0b2eeb94fdcbe6b82c965eaa3":[7,0,0,0,1,2,7,0,1,18,3],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a6f21b9607c2701363c769f1964fdeb6a":[7,0,0,0,1,2,7,0,1,18,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a69303ad6f661d8c009ee493dc4fd486c":[7,0,0,0,1,3,6,0,3],
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a6df553c8dd6e9b81e83110e7beab3646":[7,0,0,0,1,3,6,0,6],
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a6dfd2849f525333510ae4febbbc3ae1f":[7,0,0,0,1,3,6,0,5],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#ac97adfc1efbcf82840cffa915a55fecb":[7,0,0,0,1,3,6,0,1],
-"d6/d5a/structboss__doomwalker.html":[6,0,423]
+"d6/d5a/outdoorpvp__script__loader_8cpp.html#ac97adfc1efbcf82840cffa915a55fecb":[7,0,0,0,1,3,6,0,1]
 };

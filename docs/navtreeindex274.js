@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[6,0,1501,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html":[6,0,3042],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a2e4fa91ed7b3270a1addb8e5b3a85d74":[6,0,3042,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a53c56711e31500f827123c08f44072cb":[6,0,3042,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#af7426e99a49f8618fc38242ded7132f1":[6,0,2581,0],
 "db/d5d/classspell__pri__mind__sear.html":[6,0,3519],
 "db/d5d/classspell__pri__mind__sear.html#a23c7b977f7e213322b3702367d6a28c7":[6,0,3519,0],
-"db/d5d/classspell__pri__mind__sear.html#a7000b2fd940c914933c486e847932b62":[6,0,3519,1],
-"db/d5d/classspell__pri__mind__sear.html#a870ee08d0341f6640710a87c97a6b98b":[6,0,3519,2]
+"db/d5d/classspell__pri__mind__sear.html#a7000b2fd940c914933c486e847932b62":[6,0,3519,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[6,0,0,5,0,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a7e3a3fa1b3c6468d54529d32693aac9a":[7,0,0,0,1,3,10,14,58,4],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a8f834ee600905d5d8e7455e2ebb31fc8":[7,0,0,0,1,3,10,14,58,8],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a94d796b160d0e231d2a8c54939c41c73":[7,0,0,0,1,3,10,14,58,22],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9aa1d41d5cb5a3cab4993afe8fbd2baa":[7,0,0,0,1,3,10,14,58,44],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9bc30739ec6b327255e5fdc1f3c34ed6":[7,0,0,0,1,3,10,14,58,37]
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9aa1d41d5cb5a3cab4993afe8fbd2baa":[7,0,0,0,1,3,10,14,58,44]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3577,2],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3577,0],
 "da/d0d/classachievement__yogg__saron__darkness.html":[6,0,104],
 "da/d0d/classachievement__yogg__saron__darkness.html#a536c7156305d47c41a062d3c1a1b16eb":[6,0,104,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724":[7,0,0,0,1,2,16,10,1,14],
 "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9":[7,0,0,0,1,2,16,10,1,14,1],
 "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9":[7,0,0,0,1,2,16,10,1,14,2],
-"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264":[7,0,0,0,1,2,16,10,1,14,3],
-"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09":[7,0,0,0,1,2,16,10,1,14,0]
+"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264":[7,0,0,0,1,2,16,10,1,14,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"d8/de7/structDungeonEncounter.html#a700a0792973678339f33ab85e7396918":[6,0,986,1],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html":[6,0,394,0],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a02bd445d2c969ea186a48f68585e640c":[6,0,394,0,12],
 "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html#a138d14f9666b03dda50f6adeea609046":[6,0,394,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df8/classAuthSession.html#aa061e860e787ef6982b35b3cacdb4856":[6,0,292,1],
 "d8/df8/classAuthSession.html#aa5ed4bd2d1037814782fbb345b59163b":[6,0,292,23],
 "d8/df8/classAuthSession.html#ab2d0efe156b204bd57db317d5dd1469a":[6,0,292,13],
-"d8/df8/classAuthSession.html#ab5bfe50f5cc0bbf745eb38c337c73d77":[6,0,292,9],
-"d8/df8/classAuthSession.html#ac2f108dc8c11bdc8f4d7853d8e463422":[6,0,292,18]
+"d8/df8/classAuthSession.html#ab5bfe50f5cc0bbf745eb38c337c73d77":[6,0,292,9]
 };

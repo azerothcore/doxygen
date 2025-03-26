@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/db6/classspell__halion__damage__aoe__summon.html":[6,0,3030],
 "d6/db6/classspell__halion__damage__aoe__summon.html#a47a810b94c515b7e48c9cc5f99c6bc23":[6,0,3030,1],
 "d6/db6/classspell__halion__damage__aoe__summon.html#a497a74eca703470964157639a6f372e2":[6,0,3030,5],
 "d6/db6/classspell__halion__damage__aoe__summon.html#a6152e7a0515076af2c7c2155506257b0":[6,0,3030,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/dc5/classspell__magtheridon__debris__target__selector.html#a921450a09e51585beb9dd2ce9b00bac9":[6,0,3381,0],
 "d6/dc5/classspell__magtheridon__debris__target__selector.html#adb30857a5a320bb24b8cc0bcb9d60040":[6,0,3381,1],
 "d6/dc5/classspell__magtheridon__debris__target__selector.html#ae7f4f54446d5a1ebb20d49ab9deaed81":[6,0,3381,3],
-"d6/dc5/classspell__yogg__saron__sanity__reduce.html":[6,0,4002],
-"d6/dc5/classspell__yogg__saron__sanity__reduce.html#a1bced7e9364a1abb7b718b6786eada9f":[6,0,4002,1]
+"d6/dc5/classspell__yogg__saron__sanity__reduce.html":[6,0,4002]
 };

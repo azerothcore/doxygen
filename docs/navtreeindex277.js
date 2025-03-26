@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fa846055c995374082714483a6b39bc963":[7,0,0,0,1,3,9,4,183,3],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fac0997e72929070d8e30cc0f49cc4539d":[7,0,0,0,1,3,9,4,183,4],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226facf98b779c795324d47e44b043eeacf92":[7,0,0,0,1,3,9,4,183,5],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,9,4,183,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#ae47c09144b18e42aa48499de3e3fe276":[6,0,11,5,16,0],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[6,0,0,71],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[5,0,1,83],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[6,0,0,71,1],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[5,0,1,83,1]
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[6,0,0,71,1]
 };

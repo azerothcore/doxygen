@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[6,0,9,22,19],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[5,0,27,22,19],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac298aeb50ad8c1215b639f7d1dd8fc05":[5,0,27,22,27],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac298aeb50ad8c1215b639f7d1dd8fc05":[6,0,9,22,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a71fea2fdf5079fbc1d8baa72e7e4ae82":[6,0,1773,0,7],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[6,0,1773,0,9],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[6,0,1773,0,1],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[6,0,1773,0,6],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1773,0,5]
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[6,0,1773,0,6]
 };

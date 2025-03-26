@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a9bffd93216f5c083e9a9a0b1da81ee35":[7,0,0,0,1,3,5,7,16,3,7],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa58f196be58d36ffbae2f739c0cb328c":[7,0,0,0,1,3,5,7,16,3,6],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa6137f14ffb1790d7ca6ab6fd6e4872a":[7,0,0,0,1,3,5,7,16,3,8],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa93ed50b9118a48c1349e294cba51e9e":[7,0,0,0,1,3,5,7,16,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#a6d2f445bf0819ac644d7de14d3b7034d":[6,0,546,0,2],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#a8ff0a9731ad7bc118a1014bdbb0e1daf":[6,0,546,0,1],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#aa5de5f986f8a6d3ba5f3aad84422eab6":[6,0,546,0,9],
-"d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#aaa0a45066ab7ad7d5a7543822d399947":[6,0,546,0,6],
-"d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#add36192941eaabf7f3d1d41c572783bd":[6,0,546,0,0]
+"d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#aaa0a45066ab7ad7d5a7543822d399947":[6,0,546,0,6]
 };

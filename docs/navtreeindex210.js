@@ -1,5 +1,6 @@
 var NAVTREEINDEX210 =
 {
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[5,0,27,9,2],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb":[5,0,27,9,1],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb":[6,0,9,9,1],
 "d8/d28/classnpc__fos__leader__second.html":[6,0,1780],
@@ -248,6 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba8b27690680e6fdcd34e8544e0d7334bc":[7,0,0,0,1,1,0,0,3,1,41],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba8feb23c45c28481995d003c9928a010a":[7,0,0,0,1,1,0,0,3,1,43],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba94a10b92012f8bf9cdb1517ddb795a6f":[7,0,0,0,1,1,0,0,3,1,12],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba98ad2ada674335773cdc3a4a1b6807f1":[7,0,0,0,1,1,0,0,3,1,37],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d":[7,0,0,0,1,1,0,0,3,1,68]
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba98ad2ada674335773cdc3a4a1b6807f1":[7,0,0,0,1,1,0,0,3,1,37]
 };
