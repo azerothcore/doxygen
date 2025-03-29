@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  319</span> </div>
 <div class="line"><span class="lineno">  320</span>        <span class="comment">// Xinef: include AOE damage reducing auras</span></div>
 <div class="line"><span class="lineno">  321</span>        <span class="keywordflow">if</span> (target)</div>
-<div class="line"><span class="lineno">  322</span>            damage = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4f7bacd5659d1e3ca130dc7cf7df7bee">CalculateAOEDamageReduction</a>(damage, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;SchoolMask, caster);</div>
+<div class="line"><span class="lineno">  322</span>            damage = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4dd34623b1b3416bef75e3acb4a9e2c2">CalculateAOEDamageReduction</a>(damage, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;SchoolMask, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  323</span> </div>
 <div class="line"><span class="lineno">  324</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(damage);</div>
 <div class="line"><span class="lineno">  325</span>    }</div>
@@ -367,7 +367,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassSpellScript_html_aff69d3a9a6f02ae0afa8f8bbaa543493"><div class="ttname"><a href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">SpellScript::GetHitDamage</a></div><div class="ttdeci">int32 GetHitDamage()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:514</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:636</div></div>
-<div class="ttc" id="aclassUnit_html_a4f7bacd5659d1e3ca130dc7cf7df7bee"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4f7bacd5659d1e3ca130dc7cf7df7bee">Unit::CalculateAOEDamageReduction</a></div><div class="ttdeci">int32 CalculateAOEDamageReduction(int32 damage, uint32 schoolMask, Unit *caster) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:20446</div></div>
+<div class="ttc" id="aclassUnit_html_a4dd34623b1b3416bef75e3acb4a9e2c2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4dd34623b1b3416bef75e3acb4a9e2c2">Unit::CalculateAOEDamageReduction</a></div><div class="ttdeci">int32 CalculateAOEDamageReduction(int32 damage, uint32 schoolMask, bool npcCaster) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:20446</div></div>
 <div class="ttc" id="aclassUnit_html_a520e229dc1a93ea4a53d0ba81e586d11"><div class="ttname"><a href="../../df/dd9/classUnit.html#a520e229dc1a93ea4a53d0ba81e586d11">Unit::GetAuraEffect</a></div><div class="ttdeci">AuraEffect * GetAuraEffect(uint32 spellId, uint8 effIndex, ObjectGuid casterGUID=ObjectGuid::Empty) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5526</div></div>
 <div class="ttc" id="aclassUnit_html_a73f40bd61fe24bcead25d6ab3b9efc25"><div class="ttname"><a href="../../df/dd9/classUnit.html#a73f40bd61fe24bcead25d6ab3b9efc25">Unit::GetAuraEffectDummy</a></div><div class="ttdeci">AuraEffect * GetAuraEffectDummy(uint32 spellid) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5582</div></div>
 </div><!-- fragment -->
@@ -424,7 +424,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/de3/classspell__dk__death__and__decay.html">spell_dk_death_and_decay</a></li>
-    <li class="footer">Generated on Fri Mar 28 2025 06:22:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Mar 29 2025 06:20:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
