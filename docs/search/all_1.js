@@ -3336,7 +3336,7 @@ var searchData=
   ['attackstop_3333',['AttackStop',['../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee',1,'Unit']]],
   ['attacktext_3334',['attackText',['../d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af',1,'WGWorkshopData']]],
   ['attacktimer_3335',['attacktimer',['../dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68',1,'npc_llod_generic::npc_llod_genericAI::attackTimer'],['../df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ac0657362e8e4c70af6976ec771612642',1,'npc_wild_wyrm::npc_wild_wyrmAI::attackTimer']]],
-  ['attacktowers_3336',['AttackTowers',['../d6/d4f/BattlefieldWG_8h.html#a86375957560bbfd111e5f58d88e40667',1,'BattlefieldWG.h']]],
+  ['attacktowers_3336',['AttackTowers',['../d6/d4f/BattlefieldWG_8h.html#a1a9362fc649e780f8a7e22202fa12f9c',1,'BattlefieldWG.h']]],
   ['attacktype_3337',['attacktype',['../d9/d74/structCleanDamage.html#ad9b56ae5faabe67a8fdec8cd5a7988b1',1,'CleanDamage::attackType'],['../d9/de2/structCalcDamageInfo.html#afd18e43bd78a9144c02ba0493921c506',1,'CalcDamageInfo::attackType']]],
   ['attemptload_3338',['AttemptLoad',['../dc/d49/classSecretMgr.html#a65c2fd304c0f851f81cd80037deac8fb',1,'SecretMgr']]],
   ['attemptsleft_3339',['AttemptsLeft',['../d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aa6c638452f20eaa2c96b6ec531aa41d2',1,'instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript']]],

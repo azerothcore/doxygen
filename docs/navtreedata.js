@@ -241,7 +241,7 @@ var NAVTREEINDEX =
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245",
 "d6/d39/classWorld.html#a242dcc345eab12c7d950a93dabac1773",
 "d6/d47/structinstance__old__hillsbrad_1_1instance__old__hillsbrad__InstanceMapScript.html#aeb5828d54f327c5d2a30004afa86c4af",
-"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a165e2b52b845d43034704f0bce8c963b",
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a5b0075a0b2eeb94fdcbe6b82c965eaa3",
 "d6/d5a/structboss__doomwalker.html",
 "d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5",
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b",

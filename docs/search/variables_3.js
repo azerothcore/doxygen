@@ -153,7 +153,7 @@ var searchData=
   ['clientm_150',['clientM',['../d0/d41/structAUTH__LOGON__PROOF__C.html#a65b25700c577d338e902dc47b4712433',1,'AUTH_LOGON_PROOF_C']]],
   ['clintar_5fspirit_5fwp_151',['Clintar_spirit_WP',['../d5/d05/zone__moonglade_8cpp.html#adcc622dc5710ac246cbdd4f072ad52fe',1,'zone_moonglade.cpp']]],
   ['clockwise_152',['ClockWise',['../d5/d67/structboss__eye__of__cthun.html#a701a24f3a06657467b8665d2e4216710',1,'boss_eye_of_cthun']]],
-  ['clockworldstate_153',['ClockWorldState',['../d6/d4f/BattlefieldWG_8h.html#ae67365f7ac6527a20f535b033490c390',1,'BattlefieldWG.h']]],
+  ['clockworldstate_153',['ClockWorldState',['../d6/d4f/BattlefieldWG_8h.html#aee94e9d33d9baab82c1bce12a3e9ba03',1,'BattlefieldWG.h']]],
   ['closefortressdoorstimer_154',['closeFortressDoorsTimer',['../dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f',1,'BattlegroundIC']]],
   ['closestattackable_155',['closestAttackable',['../df/d8d/structSmartTarget.html#ad270d6c70763616eca497500a4f81d63',1,'SmartTarget']]],
   ['closestentity_156',['closestEntity',['../d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841',1,'VMAP::IntersectionCallBack']]],

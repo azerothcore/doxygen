@@ -1846,7 +1846,7 @@ var searchData=
   ['maxtime_1843',['maxTime',['../dd/d3b/structGameObjectTemplate.html#a912d251efbe00674ea9497f3b5e7f537',1,'GameObjectTemplate']]],
   ['maxtolerance_1844',['MaxTolerance',['../dd/d92/structChaseRange.html#a7909b18028d43c84eca5feee3e41469c',1,'ChaseRange']]],
   ['maxvalue_1845',['maxvalue',['../d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c',1,'Acore::Hyperlinks::TradeskillLinkData::MaxValue'],['../dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#a3f26c682d547be40d2800eff2189348d',1,'WorldPackets::Misc::StartMirrorTimer::MaxValue'],['../d9/d26/structSpellLearnSkillNode.html#a1dd2289b0d3505cb50e8613595ad8c8e',1,'SpellLearnSkillNode::maxvalue']]],
-  ['maxvehnumworldstate_1846',['MaxVehNumWorldState',['../d6/d4f/BattlefieldWG_8h.html#a519c7fd514e53f3bb4399f9cba62ed2c',1,'BattlefieldWG.h']]],
+  ['maxvehnumworldstate_1846',['MaxVehNumWorldState',['../d6/d4f/BattlefieldWG_8h.html#a5aafb12f33e8c781f7386149a8a9128f',1,'BattlefieldWG.h']]],
   ['maxworldstate_1847',['MaxWorldState',['../d7/da0/structGameEventFinishCondition.html#a8c144531f876b6def613c0011e0efe47',1,'GameEventFinishCondition']]],
   ['maxx_1848',['maxX',['../d6/d14/structGameObjectDisplayInfoEntry.html#a10563ae885d34e516825a18db95b40e7',1,'GameObjectDisplayInfoEntry']]],
   ['maxxamillion_1849',['MaxxAMillion',['../dd/dd3/zone__netherstorm_8cpp.html#a58daffec60949e9530b1008476648a78',1,'zone_netherstorm.cpp']]],

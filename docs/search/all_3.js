@@ -1831,7 +1831,7 @@ var searchData=
   ['clithread_1828',['CliThread',['../d7/d48/group__Acored.html#ga2a2e263e5224262317a4728b5a4c18ac',1,'CliRunnable.cpp']]],
   ['clock_5ft_1829',['clock_t',['../df/ddc/classTaskScheduler.html#ad4e483358ee6c87334b40c9d3a8ca974',1,'TaskScheduler']]],
   ['clockwise_1830',['ClockWise',['../d5/d67/structboss__eye__of__cthun.html#a701a24f3a06657467b8665d2e4216710',1,'boss_eye_of_cthun']]],
-  ['clockworldstate_1831',['ClockWorldState',['../d6/d4f/BattlefieldWG_8h.html#ae67365f7ac6527a20f535b033490c390',1,'BattlefieldWG.h']]],
+  ['clockworldstate_1831',['ClockWorldState',['../d6/d4f/BattlefieldWG_8h.html#aee94e9d33d9baab82c1bce12a3e9ba03',1,'BattlefieldWG.h']]],
   ['cloneitem_1832',['cloneitem',['../d0/dae/classItem.html#a39a8a22a675450493c7798786ed456ae',1,'Item::CloneItem()'],['../db/de2/classGuild_1_1MoveItemData.html#ad4c8450b5230d3758358d05b35c633ac',1,'Guild::MoveItemData::CloneItem()']]],
   ['clonestringtopool_1833',['CloneStringToPool',['../de/d44/structDBCDatabaseLoader.html#a68e5ae50c980aa81b051d0622575bb2d',1,'DBCDatabaseLoader']]],
   ['cloneweaponspells_1834',['CloneWeaponSpells',['../d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8',1,'spell_generic.cpp']]],
