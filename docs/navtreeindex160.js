@@ -1,5 +1,17 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#aa5427f05b4b3506d3fe327a968a84b33":[6,0,2313,187],
+"d5/dfb/classObjectMgr.html#aa5d59bb526ab6378650ef656ecf3f4aa":[6,0,2313,38],
+"d5/dfb/classObjectMgr.html#aa612aa8373f2c4f37ea62498f31f30fc":[6,0,2313,177],
+"d5/dfb/classObjectMgr.html#aa7a855ec14472960883d4f399f8758bf":[6,0,2313,394],
+"d5/dfb/classObjectMgr.html#aa7e6865d591c3a2eebcf0d9944a9c137":[6,0,2313,160],
+"d5/dfb/classObjectMgr.html#aa82e1da9905987a33a74e41223bacc3d":[6,0,2313,156],
+"d5/dfb/classObjectMgr.html#aa8b0010e059e95b5749136a2cb785709":[6,0,2313,294],
+"d5/dfb/classObjectMgr.html#aa93f8a8b1d152d202ce17142944b1fe3":[6,0,2313,19],
+"d5/dfb/classObjectMgr.html#aa973ea9999959366f30d8332f29963ac":[6,0,2313,188],
+"d5/dfb/classObjectMgr.html#aab6975205b653960bf9292c73f990660":[6,0,2313,336],
+"d5/dfb/classObjectMgr.html#aab82294f44bdb372efcd4cf5e36efdb0":[6,0,2313,300],
+"d5/dfb/classObjectMgr.html#aab83fc8b78fde5481cc9dec477845f99":[6,0,2313,259],
 "d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994":[6,0,2313,224],
 "d5/dfb/classObjectMgr.html#aac3485ec682fc1830ed9dcce7b194b4c":[6,0,2313,116],
 "d5/dfb/classObjectMgr.html#aac6f64e0e0cdc9ba5be5a8ebc838cf8c":[6,0,2313,246],
@@ -237,17 +249,5 @@ var NAVTREEINDEX160 =
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a07f1af63bc54d1b4c8d8e1cd87a787a1":[6,0,501,0,3],
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a52bc5f76baff626b8834aa604fdd8e6a":[6,0,501,0,1],
 "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#aa17e26419a8e3f7cd99c5e9b44be8ed8":[6,0,501,0,2],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#adac003c51a2d1d0a8daa6ba552114c25":[6,0,501,0,0],
-"d6/d03/classinstance__utgarde__keep.html":[6,0,1345],
-"d6/d03/classinstance__utgarde__keep.html#a9a42e0dde1c7598eb2ef665f11e25e92":[6,0,1345,2],
-"d6/d03/classinstance__utgarde__keep.html#abe013e4f086f63722a6398b2b7928c80":[6,0,1345,1],
-"d6/d03/classnpc__riggle__bassbait.html":[6,0,2067],
-"d6/d03/classnpc__riggle__bassbait.html#aa3ef2b3ebd7542a4836983872c397e66":[6,0,2067,4],
-"d6/d03/classnpc__riggle__bassbait.html#ad5e3230dae9ac23aa83883e53b37234e":[6,0,2067,2],
-"d6/d03/classnpc__riggle__bassbait.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe":[6,0,2067,3],
-"d6/d03/classnpc__riggle__bassbait.html#afc4280099cda3c28c4634d649e636839":[6,0,2067,1],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html":[6,0,2183,0],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a05a150e01f519675ac7b69d3c2a97ed4":[6,0,2183,0,3],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a0f4128d5fd7a855f1fb2870465bc1ce7":[6,0,2183,0,0],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2183,0,1]
+"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#adac003c51a2d1d0a8daa6ba552114c25":[6,0,501,0,0]
 };

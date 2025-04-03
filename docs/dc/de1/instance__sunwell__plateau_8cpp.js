@@ -4,6 +4,7 @@ var instance__sunwell__plateau_8cpp =
     [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html", "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript" ],
     [ "spell_cataclysm_breath", "d8/d92/classspell__cataclysm__breath.html", "d8/d92/classspell__cataclysm__breath" ],
     [ "npc_sunblade_scout", "d6/d6b/structnpc__sunblade__scout.html", "d6/d6b/structnpc__sunblade__scout" ],
+    [ "spell_sunwell_teleport", "d4/d6e/classspell__sunwell__teleport.html", "d4/d6e/classspell__sunwell__teleport" ],
     [ "cataclysmBreath", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
@@ -21,6 +22,11 @@ var instance__sunwell__plateau_8cpp =
       [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
       [ "SPELL_FELBLOOD_CHANNEL", "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
       [ "SPELL_SINISTER_STRIKE", "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
+    ] ],
+    [ "SunwellTeleportSpells", "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216", [
+      [ "SPELL_TELEPORT_TO_APEX_POINT", "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b", null ],
+      [ "SPELL_TELEPORT_TO_WITCHS_SANCTUM", "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368", null ],
+      [ "SPELL_TELEPORT_TO_SUNWELL_PLATEAU", "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e", null ]
     ] ],
     [ "AddSC_instance_sunwell_plateau", "dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
     [ "creatureData", "dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],

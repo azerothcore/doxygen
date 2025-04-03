@@ -11,6 +11,7 @@ var zulaman_8cpp =
     [ "npc_amanishi_scout", "dc/d8c/structnpc__amanishi__scout.html", "dc/d8c/structnpc__amanishi__scout" ],
     [ "spell_alert_drums", "d1/d16/classspell__alert__drums.html", "d1/d16/classspell__alert__drums" ],
     [ "spell_summon_amanishi_sentries", "dc/d93/classspell__summon__amanishi__sentries.html", "dc/d93/classspell__summon__amanishi__sentries" ],
+    [ "spell_call_of_the_beast", "d1/d77/classspell__call__of__the__beast.html", "d1/d77/classspell__call__of__the__beast" ],
     [ "GOSSIP_HOSTAGE1", "da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_COMPLETE_GONG_RITUAL", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccfa0fd6958fdb6b383ab8afdd359422f564", null ]
@@ -54,6 +55,7 @@ var zulaman_8cpp =
       [ "SPELL_SUMMON_AMANI_CHARM_CHEST_2", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a631775c8dd3327051ea7d89d2b2a67fa", null ],
       [ "SPELL_SUMMON_MONEY_BAG", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a089fd45bc47312645425a56689683442", null ],
       [ "SPELL_STEALTH_", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a6579939f51235c0b1d9ea37f1a409913", null ],
+      [ "SPELL_FIXATE", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a44f4824332b38afd80be72edc038f53e", null ],
       [ "NPC_FOREST_FROG", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a1bf16a34974e6d764429e9eea7e21da6", null ],
       [ "NPC_MANNUTH", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aa53347f2023d48a6b6bf9d22d06aac08", null ],
       [ "NPC_DEEZ", "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4a8bed6ed658e7c38dc5c507cc34674014", null ],

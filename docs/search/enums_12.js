@@ -234,7 +234,7 @@ var searchData=
   ['summonphases_231',['SummonPhases',['../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5',1,'boss_sjonnir.cpp']]],
   ['summonpropflags_232',['SummonPropFlags',['../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2af',1,'DBCEnums.h']]],
   ['summonpropgroup_233',['SummonPropGroup',['../d3/dd1/DBCEnums_8h.html#a24fca3b9586dfe1d08bbea5f78626640',1,'DBCEnums.h']]],
-  ['summons_234',['summons',['../d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623e',1,'Summons:&#160;boss_razorgore.cpp'],['../dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e',1,'Summons:&#160;boss_archimonde.cpp']]],
+  ['summons_234',['summons',['../dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e',1,'Summons:&#160;boss_archimonde.cpp'],['../d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623e',1,'Summons:&#160;boss_razorgore.cpp']]],
   ['summontype_235',['SummonType',['../de/d0a/SharedDefines_8h.html#a839e74faedbcc472cd6a757aab737113',1,'SharedDefines.h']]],
   ['sunbladescout_236',['SunbladeScout',['../dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bc',1,'instance_sunwell_plateau.cpp']]],
   ['sunsreachcounters_237',['SunsReachCounters',['../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c',1,'WorldState.h']]],
@@ -242,11 +242,12 @@ var searchData=
   ['sunsreachsubphases_239',['SunsReachSubPhases',['../d7/d9a/WorldState_8h.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8',1,'WorldState.h']]],
   ['sunwellgatecounters_240',['SunwellGateCounters',['../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34f',1,'WorldState.h']]],
   ['sunwellgates_241',['SunwellGates',['../d7/d9a/WorldState_8h.html#a30222a7d596ba08b5141b96da67ec7eb',1,'WorldState.h']]],
-  ['superspell_242',['SuperSpell',['../db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dd',1,'boss_shade_of_aran.cpp']]],
-  ['supervisorraelen_243',['SupervisorRaelen',['../d7/d61/zone__elwynn__forest_8cpp.html#a3bd40a8e75f5b073b6027152c2acd047',1,'zone_elwynn_forest.cpp']]],
-  ['supplysentrysay_244',['SupplySentrySay',['../db/d67/love__in__air_8cpp.html#aeb8e3d0c03c141a665db8837acb2e62a',1,'love_in_air.cpp']]],
-  ['supremus_245',['Supremus',['../da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1ab',1,'boss_supremus.cpp']]],
-  ['swpactions_246',['SWPActions',['../d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704',1,'boss_kalecgos.cpp']]],
-  ['sylvanas_247',['Sylvanas',['../d1/d2d/zone__undercity_8cpp.html#a1fcd46fb8f6bb3117d428650ea02d843',1,'zone_undercity.cpp']]],
-  ['symboloflife_248',['symboloflife',['../db/dfb/spell__quest_8cpp.html#a17a44adb4d9f4933b3f9a9009f2c6a9b',1,'spell_quest.cpp']]]
+  ['sunwellteleportspells_242',['SunwellTeleportSpells',['../dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216',1,'instance_sunwell_plateau.cpp']]],
+  ['superspell_243',['SuperSpell',['../db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dd',1,'boss_shade_of_aran.cpp']]],
+  ['supervisorraelen_244',['SupervisorRaelen',['../d7/d61/zone__elwynn__forest_8cpp.html#a3bd40a8e75f5b073b6027152c2acd047',1,'zone_elwynn_forest.cpp']]],
+  ['supplysentrysay_245',['SupplySentrySay',['../db/d67/love__in__air_8cpp.html#aeb8e3d0c03c141a665db8837acb2e62a',1,'love_in_air.cpp']]],
+  ['supremus_246',['Supremus',['../da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1ab',1,'boss_supremus.cpp']]],
+  ['swpactions_247',['SWPActions',['../d4/dc9/boss__kalecgos_8cpp.html#af91fe7e625e1e47289d5f5629720e704',1,'boss_kalecgos.cpp']]],
+  ['sylvanas_248',['Sylvanas',['../d1/d2d/zone__undercity_8cpp.html#a1fcd46fb8f6bb3117d428650ea02d843',1,'zone_undercity.cpp']]],
+  ['symboloflife_249',['symboloflife',['../db/dfb/spell__quest_8cpp.html#a17a44adb4d9f4933b3f9a9009f2c6a9b',1,'spell_quest.cpp']]]
 ];
