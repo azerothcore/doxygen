@@ -3896,6 +3896,7 @@ var annotated_dup =
     [ "spell_mt_phoenix_burn", "df/dea/classspell__mt__phoenix__burn.html", "df/dea/classspell__mt__phoenix__burn" ],
     [ "spell_murmur_sonic_boom_effect", "db/d8b/classspell__murmur__sonic__boom__effect.html", "db/d8b/classspell__murmur__sonic__boom__effect" ],
     [ "spell_murmur_thundering_storm", "d0/d8f/classspell__murmur__thundering__storm.html", "d0/d8f/classspell__murmur__thundering__storm" ],
+    [ "spell_muru_blackhole", "dd/d32/classspell__muru__blackhole.html", "dd/d32/classspell__muru__blackhole" ],
     [ "spell_muru_darkness_aura", "db/d40/classspell__muru__darkness__aura.html", "db/d40/classspell__muru__darkness__aura" ],
     [ "spell_muru_summon_blood_elves_periodic_aura", "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html", "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura" ],
     [ "spell_mutate_explode_bug", "db/de3/classspell__mutate__explode__bug.html", "db/de3/classspell__mutate__explode__bug" ],

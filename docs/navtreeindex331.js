@@ -1,5 +1,10 @@
 var NAVTREEINDEX331 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a11aebc4f224e4251071f135009e25b97":[7,0,0,0,1,2,38,0,75,1,177],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a120d939113cec3067e54f4ecbe3d08cf":[7,0,0,0,1,2,38,0,75,1,95],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a142c0f1770623585749dc2ba07abf8be":[7,0,0,0,1,2,38,0,75,1,85],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a19818dd9e1299a10f4ed734610583ceb":[7,0,0,0,1,2,38,0,75,1,142],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a19afa7b760fabff04425d40c21f03cb9":[7,0,0,0,1,2,38,0,75,1,175],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1b36817a5e26fff9ef72585c4682bf09":[7,0,0,0,1,2,38,0,75,1,27],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1cd44b42c86b09f221025742a6262c1c":[7,0,0,0,1,2,38,0,75,1,179],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1d40ccbc41cb1494f9c370f38157fd75":[7,0,0,0,1,2,38,0,75,1,149],
@@ -243,11 +248,6 @@ var NAVTREEINDEX331 =
 "dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[6,0,916,5],
 "dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[6,0,916,8],
 "dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[6,0,916,2],
-"dd/dcd/structSpellImmune.html":[6,0,4031],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4031,1],
-"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4031,2],
-"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4031,0],
-"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4031,3],
-"dd/dcd/structboss__moira__bronzebeardAI.html":[6,0,620],
-"dd/dcd/structboss__moira__bronzebeardAI.html#a11265b6aad76574c2c76253128c79165":[6,0,620,0]
+"dd/dcd/structSpellImmune.html":[6,0,4032],
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4032,1]
 };

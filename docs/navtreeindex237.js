@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[6,0,943,9],
 "d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed":[6,0,943,14],
 "d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6":[6,0,943,12],
 "d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5":[6,0,943,2],
@@ -43,11 +44,11 @@ var NAVTREEINDEX237 =
 "d9/d82/classspell__dru__survival__instincts.html#a605e7b8849186c3c2df731cac743a208":[6,0,2817,1],
 "d9/d82/classspell__dru__survival__instincts.html#a62533bff915db8323b53352f17c4825f":[6,0,2817,2],
 "d9/d82/classspell__dru__survival__instincts.html#aefa91f15300520de7cffad4f4ca82ccf":[6,0,2817,0],
-"d9/d82/classspell__ruby__sanctum__rallying__shout.html":[6,0,3708],
-"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a0178e7c4f5509a4bb2c6ed3811fc9685":[6,0,3708,3],
-"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a207c1fd89fd726054a881e342391d2a0":[6,0,3708,0],
-"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a47574795b2a262625c65ab23a4179684":[6,0,3708,2],
-"d9/d82/classspell__ruby__sanctum__rallying__shout.html#ae1e230ad204a280a261ebe0f21c7f8a5":[6,0,3708,1],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html":[6,0,3709],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a0178e7c4f5509a4bb2c6ed3811fc9685":[6,0,3709,3],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a207c1fd89fd726054a881e342391d2a0":[6,0,3709,0],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a47574795b2a262625c65ab23a4179684":[6,0,3709,2],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html#ae1e230ad204a280a261ebe0f21c7f8a5":[6,0,3709,1],
 "d9/d83/AES_8h.html":[7,0,0,0,0,3,2],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html":[6,0,1803,0],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a20d1087e59daae9189d78f04ea2b2d05":[6,0,1803,0,3],
@@ -169,10 +170,10 @@ var NAVTREEINDEX237 =
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#a7997a3d398db82c205e3a8af77ac1684":[6,0,1995,0,1],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#a92a229f76de3bc46ae14910439db0004":[6,0,1995,0,0],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html#acae0427957aba04a54e6001823bc7eb4":[6,0,1995,0,2],
-"d9/d86/classspell__winter__veil__racer__slam__hit.html":[6,0,3977],
-"d9/d86/classspell__winter__veil__racer__slam__hit.html#a0ecf5662d9cc1296ebdac82233f1fe7c":[6,0,3977,1],
-"d9/d86/classspell__winter__veil__racer__slam__hit.html#a3d22cc828a2aa59d45e5d648161926fd":[6,0,3977,0],
-"d9/d86/classspell__winter__veil__racer__slam__hit.html#aee5d9189b6df318b57e919511a185a99":[6,0,3977,2],
+"d9/d86/classspell__winter__veil__racer__slam__hit.html":[6,0,3978],
+"d9/d86/classspell__winter__veil__racer__slam__hit.html#a0ecf5662d9cc1296ebdac82233f1fe7c":[6,0,3978,1],
+"d9/d86/classspell__winter__veil__racer__slam__hit.html#a3d22cc828a2aa59d45e5d648161926fd":[6,0,3978,0],
+"d9/d86/classspell__winter__veil__racer__slam__hit.html#aee5d9189b6df318b57e919511a185a99":[6,0,3978,2],
 "d9/d86/namespaceAuthHelper.html":[5,0,7],
 "d9/d86/namespaceAuthHelper.html#a50a906b5a3fdca3508aee0997881a717":[5,0,7,0],
 "d9/d86/namespaceAuthHelper.html#a96896fc9dad2c304f681a24776f6726b":[5,0,7,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a71c363a6bd8f78db60380665c82bb7b3":[7,0,0,0,1,3,5,9,2,1,20],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[7,0,0,0,1,3,5,9,2,1,29],
 "d9/d88/boss__assembly__of__iron_8cpp.html#ac6dcbc3204d6356024f7247b7825a8e4":[7,0,0,0,1,3,5,9,2,1,15],
-"d9/d88/boss__assembly__of__iron_8cpp.html#ae1aeb1c74dfca85ee834ecc647206e9d":[7,0,0,0,1,3,5,9,2,1,18],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6":[7,0,0,0,1,3,5,9,2,1,26]
+"d9/d88/boss__assembly__of__iron_8cpp.html#ae1aeb1c74dfca85ee834ecc647206e9d":[7,0,0,0,1,3,5,9,2,1,18]
 };

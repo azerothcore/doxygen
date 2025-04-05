@@ -1,9 +1,10 @@
 var NAVTREEINDEX141 =
 {
-"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#a82ad88c757eed35f7e0f2af38ceb2273":[6,0,3939,1],
-"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#a89f46334c78fc190afd7b03706fa2513":[6,0,3939,0],
-"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#abbc5c9d069e716d9356ec366713abb84":[6,0,3939,4],
-"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#ac1574e943840e5f15a808ed4d338cd5f":[6,0,3939,3],
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#a7268602da6dc74d7c501fb90c8167226":[6,0,3940,2],
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#a82ad88c757eed35f7e0f2af38ceb2273":[6,0,3940,1],
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#a89f46334c78fc190afd7b03706fa2513":[6,0,3940,0],
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#abbc5c9d069e716d9356ec366713abb84":[6,0,3940,4],
+"d5/d0f/classspell__warl__seed__of__corruption__generic__aura.html#ac1574e943840e5f15a808ed4d338cd5f":[6,0,3940,3],
 "d5/d11/Player_8cpp.html":[7,0,0,0,1,2,16,7,4],
 "d5/d11/Player_8cpp.html#a3a8c2696b2e9a6bf9d90ce80438aa578":[7,0,0,0,1,2,16,7,4,2],
 "d5/d11/Player_8cpp.html#a3a8c2696b2e9a6bf9d90ce80438aa578a02cee8912e6f3e69aff23e8f2603dbd5":[7,0,0,0,1,2,16,7,4,2,3],
@@ -120,11 +121,11 @@ var NAVTREEINDEX141 =
 "d5/d18/classnpc__grimstone.html":[6,0,1812],
 "d5/d18/classnpc__grimstone.html#a24cf0aa69ac28c13ac3c44e14c35406c":[6,0,1812,2],
 "d5/d18/classnpc__grimstone.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb":[6,0,1812,1],
-"d5/d19/classspell__shockwave__knockback.html":[6,0,3767],
-"d5/d19/classspell__shockwave__knockback.html#a162f60784fdec6b748151e5c2a7ed257":[6,0,3767,3],
-"d5/d19/classspell__shockwave__knockback.html#a1cc140d2b5487e9dbbf107025e09e51d":[6,0,3767,2],
-"d5/d19/classspell__shockwave__knockback.html#a5eee46784bfbeaad3a9af069ca7f69a7":[6,0,3767,0],
-"d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[6,0,3767,1],
+"d5/d19/classspell__shockwave__knockback.html":[6,0,3768],
+"d5/d19/classspell__shockwave__knockback.html#a162f60784fdec6b748151e5c2a7ed257":[6,0,3768,3],
+"d5/d19/classspell__shockwave__knockback.html#a1cc140d2b5487e9dbbf107025e09e51d":[6,0,3768,2],
+"d5/d19/classspell__shockwave__knockback.html#a5eee46784bfbeaad3a9af069ca7f69a7":[6,0,3768,0],
+"d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[6,0,3768,1],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html":[6,0,3091],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html#a3f36968d10bde12c7e2eda8db4145252":[6,0,3091,2],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html#a51b075f95211025b2a7719a3ee70a6be":[6,0,3091,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d5/d22/structCinematicSequencesEntry.html#a87e5f6de255dc0c75423eace2768a1dc":[6,0,872,0],
 "d5/d22/structCinematicSequencesEntry.html#a9c3dc0e60728c1c76594385d6860f265":[6,0,872,1],
 "d5/d23/classScriptRegistry.html":[6,0,2511],
-"d5/d23/classScriptRegistry.html#a0f8009ac0cd91574f0bf4ac92ef90ce0":[6,0,2511,2],
-"d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05":[6,0,2511,9]
+"d5/d23/classScriptRegistry.html#a0f8009ac0cd91574f0bf4ac92ef90ce0":[6,0,2511,2]
 };

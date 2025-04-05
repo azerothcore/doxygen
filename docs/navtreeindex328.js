@@ -1,5 +1,10 @@
 var NAVTREEINDEX328 =
 {
+"dd/dac/pit__of__saron_8h.html#a505be0103a4e544ca19c34681cddf3c1":[7,0,0,0,1,3,5,4,2,5,23],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999f":[7,0,0,0,1,3,5,4,2,5,14],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999fa660f6d34f391c8eb910f369e10b312a3":[7,0,0,0,1,3,5,4,2,5,14,1],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999fa7115657725baec380cd1ee54a0294355":[7,0,0,0,1,3,5,4,2,5,14,0],
+"dd/dac/pit__of__saron_8h.html#a5b147002f69b5d36cb158fc59ebeade1":[7,0,0,0,1,3,5,4,2,5,18],
 "dd/dac/pit__of__saron_8h.html#a5e53249f20085a0a3fa19bdb577ee3c0":[7,0,0,0,1,3,5,4,2,5,4],
 "dd/dac/pit__of__saron_8h.html#a64983714f2dc027a157ff627ced8a480":[7,0,0,0,1,3,5,4,2,5,10],
 "dd/dac/pit__of__saron_8h.html#a64983714f2dc027a157ff627ced8a480a326cb0cd6a1ad8b8efb549ad7f9462bc":[7,0,0,0,1,3,5,4,2,5,10,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX328 =
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[6,0,1091,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[6,0,1091,1],
 "dd/db2/structGtRegenMPPerSptEntry.html":[6,0,1239],
-"dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[6,0,1239,0],
-"dd/db2/zone__storm__peaks_8cpp.html":[7,0,0,0,1,3,5,23],
-"dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaff":[7,0,0,0,1,3,5,23,32],
-"dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe":[7,0,0,0,1,3,5,23,32,0],
-"dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6":[7,0,0,0,1,3,5,23,32,1],
-"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26":[7,0,0,0,1,3,5,23,30]
+"dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[6,0,1239,0]
 };

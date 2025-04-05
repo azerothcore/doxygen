@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/dd5/classCreature.html#a2f3d475d58b8aabce8e6eafd66c7d820":[6,0,907,110],
 "db/dd5/classCreature.html#a30edd6003ed7a94d2d40c5b0be9d3fce":[6,0,907,304],
 "db/dd5/classCreature.html#a311d114dbf2ff185f20a636d3e4c61d0":[6,0,907,133],
 "db/dd5/classCreature.html#a31e933737562cf862b2e0cd92af252a1":[6,0,907,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[6,0,907,234],
 "db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[6,0,907,289],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html":[6,0,2752],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2752,1],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2752,2]
+"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2752,1]
 };

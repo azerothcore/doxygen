@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_0',['n',['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N']]],
+  ['n_0',['n',['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n']]],
   ['n_5fthadell_1',['N_THADELL',['../dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e',1,'zone_netherstorm.cpp']]],
   ['n_5ftrainer_5farmor1_2',['N_TRAINER_ARMOR1',['../d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a651d766296878207717573cbf3b2982b',1,'npc_professions.cpp']]],
   ['n_5ftrainer_5farmor2_3',['N_TRAINER_ARMOR2',['../d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a9db6fe91599ef0f5bd95330e2fd22ae0',1,'npc_professions.cpp']]],

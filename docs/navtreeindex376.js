@@ -1,5 +1,10 @@
 var NAVTREEINDEX376 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab48a88902ec00e979f1adafa0176d8c":[7,0,0,0,1,2,16,5,0,4,6,269],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac0cc1812ae806f2e6a59d09c5531d1d":[7,0,0,0,1,2,16,5,0,4,6,292],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac106d3d2c3214466d98817e4d282d4d":[7,0,0,0,1,2,16,5,0,4,6,148],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aacc16e0dae2a94d7f3f3a136bd421c02":[7,0,0,0,1,2,16,5,0,4,6,243],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aad27c730802e67c9e9cace991d64bdbb":[7,0,0,0,1,2,16,5,0,4,6,214],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aadb8466a0770ef91d4e31e50b1d5bf1e":[7,0,0,0,1,2,16,5,0,4,6,245],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaf5220c031538f14e62edb39923a0ccf":[7,0,0,0,1,2,16,5,0,4,6,54],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01bcc653653a26eb6e713848d62bc34":[7,0,0,0,1,2,16,5,0,4,6,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX376 =
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9e1a027515f7c90900acacc7d102a267":[6,0,2275,0,10],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9e6d01f8034382b318f008229be8e25f":[6,0,2275,0,18],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9ed22adf4f9f5fad611dfbfe60cbe75d":[6,0,2275,0,2],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#aa8c1d051996c4093ac71a60a08be2775":[6,0,2275,0,6],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ac0657362e8e4c70af6976ec771612642":[6,0,2275,0,13],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ad321e939986dec9506b85f30e93cb54a":[6,0,2275,0,15],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#add4d5e7c089831a63bf7b4d44b7110f9":[6,0,2275,0,7],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ae3229b737fba56e69fe75d92cc188ebe":[6,0,2275,0,9],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ae9794e6d7720813df191180ee9ff8b82":[6,0,2275,0,3]
+"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#aa8c1d051996c4093ac71a60a08be2775":[6,0,2275,0,6]
 };

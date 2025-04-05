@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca231e630effc53f4f3b052aa9b9b248a2":[7,0,0,0,1,3,7,1,5,17,15],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca2335e5557e964354f83ec86a6fe3eb52":[7,0,0,0,1,3,7,1,5,17,10],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca251f124346c0b3fea500cd7ce987302c":[7,0,0,0,1,3,7,1,5,17,17],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca30cddfb6172c433efcbbd20dd820d020":[7,0,0,0,1,3,7,1,5,17,7],
@@ -44,17 +45,17 @@ var NAVTREEINDEX137 =
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a768dec18bc0e879c457a64135ec27ad9":[6,0,3312,3],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#aa3053519be0101f55450d76b1291f0f7":[6,0,3312,1],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#ada596a7f19115c7178fd07fb9e956f58":[6,0,3312,2],
-"d4/dd6/classspell__warr__vigilance.html":[6,0,3971],
-"d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13":[6,0,3971,8],
-"d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0":[6,0,3971,4],
-"d4/dd6/classspell__warr__vigilance.html#a624d09c6f1a177912a1c7cab30d89c7b":[6,0,3971,7],
-"d4/dd6/classspell__warr__vigilance.html#a644aaf343b41f049f34ff7387c613bf1":[6,0,3971,5],
-"d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e":[6,0,3971,3],
-"d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b":[6,0,3971,2],
-"d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6":[6,0,3971,0],
-"d4/dd6/classspell__warr__vigilance.html#ac3c12801bde3bd259b573eeca6dc4d5b":[6,0,3971,1],
-"d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[6,0,3971,9],
-"d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[6,0,3971,6],
+"d4/dd6/classspell__warr__vigilance.html":[6,0,3972],
+"d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13":[6,0,3972,8],
+"d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0":[6,0,3972,4],
+"d4/dd6/classspell__warr__vigilance.html#a624d09c6f1a177912a1c7cab30d89c7b":[6,0,3972,7],
+"d4/dd6/classspell__warr__vigilance.html#a644aaf343b41f049f34ff7387c613bf1":[6,0,3972,5],
+"d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e":[6,0,3972,3],
+"d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b":[6,0,3972,2],
+"d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6":[6,0,3972,0],
+"d4/dd6/classspell__warr__vigilance.html#ac3c12801bde3bd259b573eeca6dc4d5b":[6,0,3972,1],
+"d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[6,0,3972,9],
+"d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[6,0,3972,6],
 "d4/dd8/GridObjectLoader_8h.html":[7,0,0,0,1,2,19,5],
 "d4/dd8/classinstance__mana__tombs.html":[6,0,1307],
 "d4/dd8/classinstance__mana__tombs.html#a26e4dad0957df886bc446396ab48ceda":[6,0,1307,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dda/classFixOrientation.html":[6,0,1041],
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1041,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1041,1],
-"d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1041,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,30,15]
+"d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1041,0]
 };

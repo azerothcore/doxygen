@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daa42166efb2ff21463441d6fe05c74c74":[7,0,0,0,1,3,5,2,1,7,4,34],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab6e13abbd83f3734d973eeec4c09b96c":[7,0,0,0,1,3,5,2,1,7,4,33],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab824ac7cc4db0c4e726f6310c879264a":[7,0,0,0,1,3,5,2,1,7,4,2],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab91bb2f7abdc4ef0f6969346ece7701a":[7,0,0,0,1,3,5,2,1,7,4,23],
@@ -238,16 +239,15 @@ var NAVTREEINDEX267 =
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[6,0,1379,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[6,0,1379,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[6,0,1379,6],
-"da/def/structSpellCooldown.html":[6,0,4020],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,4020,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,4020,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,4020,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,4020,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,4020,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,4020,0],
+"da/def/structSpellCooldown.html":[6,0,4021],
+"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,4021,2],
+"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,4021,5],
+"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,4021,4],
+"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,4021,1],
+"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,4021,3],
+"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,4021,0],
 "da/df1/classMetric.html":[6,0,1495],
 "da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[6,0,1495,28],
 "da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[6,0,1495,26],
-"da/df1/classMetric.html#a124025419c5b48f64d67e0a77d9c17f0":[6,0,1495,19],
-"da/df1/classMetric.html#a1474d1913f1db34a25d318b46e21a2b2":[6,0,1495,7]
+"da/df1/classMetric.html#a124025419c5b48f64d67e0a77d9c17f0":[6,0,1495,19]
 };

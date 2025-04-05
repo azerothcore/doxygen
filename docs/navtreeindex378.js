@@ -1,5 +1,10 @@
 var NAVTREEINDEX378 =
 {
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a396869cd37f7f66c38424d70fb87bb01":[6,0,709,0,6],
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a483ea3ae6c95ab18cc5fa2f41b613690":[6,0,709,0,10],
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a4e1d09a210b4991e2b97e04f7be8a2bf":[6,0,709,0,7],
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a5592b2f9e4ce9149fb77cdc5dcc27539":[6,0,709,0,9],
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a678cd6ce097dab459bbf162553ddd56b":[6,0,709,0,15],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a6f018f955bf546a47c119328b33ef010":[6,0,709,0,11],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a72b285d89d1bf55d85436718cf25c287":[6,0,709,0,1],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a8aa9383b97b23d71d598ae1e650d0195":[6,0,709,0,2],
@@ -216,10 +221,10 @@ var NAVTREEINDEX378 =
 "df/d40/classnpc__scarlet__cannon.html":[6,0,2085],
 "df/d40/classnpc__scarlet__cannon.html#a10bb35cbbdae3508a2300ba3dacc1ea3":[6,0,2085,1],
 "df/d40/classnpc__scarlet__cannon.html#ae2b74a4dab4b34f026fd17d5ed381c99":[6,0,2085,2],
-"df/d40/classspell__optic__link__aura.html":[6,0,3462],
-"df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[6,0,3462,2],
-"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[6,0,3462,1],
-"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[6,0,3462,0],
+"df/d40/classspell__optic__link__aura.html":[6,0,3463],
+"df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[6,0,3463,2],
+"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[6,0,3463,1],
+"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[6,0,3463,0],
 "df/d41/classSocketMgr.html":[6,0,2562],
 "df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[6,0,2562,12],
 "df/d41/classSocketMgr.html#a6d8519103f85522d3bc0bfac5a0955c9":[6,0,2562,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX378 =
 "df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[7,0,0,0,1,3,4,14,5],
 "df/d42/zone__ashenvale_8cpp.html#a44aaebd71b577ea90de1a8b853f557ed":[7,0,0,0,1,3,4,14,4],
 "df/d42/zone__ashenvale_8cpp.html#a5bc25863ec332eb1c8498f84556810c2":[7,0,0,0,1,3,4,14,3],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057":[7,0,0,0,1,3,4,14,2],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab":[7,0,0,0,1,3,4,14,2,11],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494":[7,0,0,0,1,3,4,14,2,17],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff":[7,0,0,0,1,3,4,14,2,13],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d":[7,0,0,0,1,3,4,14,2,9],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9":[7,0,0,0,1,3,4,14,2,20]
+"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057":[7,0,0,0,1,3,4,14,2]
 };

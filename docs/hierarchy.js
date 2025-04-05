@@ -1108,6 +1108,7 @@ var hierarchy =
         [ "spell_mt_phoenix_burn", "df/dea/classspell__mt__phoenix__burn.html", null ],
         [ "spell_murmur_sonic_boom_effect", "db/d8b/classspell__murmur__sonic__boom__effect.html", null ],
         [ "spell_murmur_thundering_storm", "d0/d8f/classspell__murmur__thundering__storm.html", null ],
+        [ "spell_muru_blackhole", "dd/d32/classspell__muru__blackhole.html", null ],
         [ "spell_mutate_explode_bug", "db/de3/classspell__mutate__explode__bug.html", null ],
         [ "spell_najentus_hurl_spine", "d8/dbc/classspell__najentus__hurl__spine.html", null ],
         [ "spell_najentus_needle_spine", "da/dd7/classspell__najentus__needle__spine.html", null ],

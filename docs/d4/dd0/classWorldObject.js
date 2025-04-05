@@ -58,6 +58,7 @@ var classWorldObject =
     [ "GetMap", "d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb", null ],
     [ "GetMapHeight", "d4/dd0/classWorldObject.html#a41cc408a2870e2f50321f5573e462e82", null ],
     [ "GetMapWaterOrGroundLevel", "d4/dd0/classWorldObject.html#a4941b1936ef66a2d1b3e74a7766cf0b4", null ],
+    [ "GetMapWaterOrGroundLevel", "d4/dd0/classWorldObject.html#ac6c188d445c62a56714e2ba8dd2ab684", null ],
     [ "GetMinHeightInWater", "d4/dd0/classWorldObject.html#a89a478800326e154af1bb567d0b275e9", null ],
     [ "GetName", "d4/dd0/classWorldObject.html#a7e67658eb5aa058bc7f46bf6b11a797c", null ],
     [ "GetNameForLocaleIdx", "d4/dd0/classWorldObject.html#a8debfe26d218358a75ac85ea0bf079ad", null ],

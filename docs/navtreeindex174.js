@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5ceedbaa9620f41b4b31f7baaa5132c9":[7,0,0,0,1,3,5,7,16,3,21],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5d8f8664d420c0e11097b3869bb467e4":[7,0,0,0,1,3,5,7,16,3,43],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a63188dbf596f82f012c996377a53de90":[7,0,0,0,1,3,5,7,16,3,14],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a68309c44964eb71412655820c016018a":[7,0,0,0,1,3,5,7,16,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[6,0,0,44,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[6,0,0,44,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[5,0,1,56,3],
-"d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[6,0,0,44,4],
-"d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[5,0,1,56,4]
+"d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[6,0,0,44,4]
 };

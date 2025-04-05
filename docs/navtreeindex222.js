@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/dbe/classAuctionHouseMgr.html#a6666f48b3add141878209f70379dd176":[6,0,258,26],
 "d8/dbe/classAuctionHouseMgr.html#a669389f13941410f8d3eaf9956559e54":[6,0,258,18],
 "d8/dbe/classAuctionHouseMgr.html#a6b28b77dfc2819bf53147ca916de5184":[6,0,258,10],
 "d8/dbe/classAuctionHouseMgr.html#a7076326c9a902d8191a11032608c7eaa":[6,0,258,14],
@@ -160,14 +161,14 @@ var NAVTREEINDEX222 =
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,1,88,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[6,0,0,76,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,1,88,3],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[6,0,0,76,5],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,1,88,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,1,88,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[6,0,0,76,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,1,88,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[6,0,0,76,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,1,88,4],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[6,0,0,76,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,1,88,4],
 "d8/dc2/classinstance__ulduar.html":[6,0,1344],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[6,0,1344,1],
 "d8/dc2/classinstance__ulduar.html#ad15f003a90e656910fc32d661ca9baba":[6,0,1344,2],
@@ -218,10 +219,10 @@ var NAVTREEINDEX222 =
 "d8/dc6/classcheat__commandscript.html#ae406c5d444b10ba65b79f8ff9d949c24":[6,0,867,7],
 "d8/dc9/BattlegroundSpamProtect_8h.html":[7,0,0,0,1,2,8,17],
 "d8/dc9/BattlegroundSpamProtect_8h.html#ae37d7994736d43484a627d5de2af5fc1":[7,0,0,0,1,2,8,17,1],
-"d8/dca/classspell__nether__portal__perseverence.html":[6,0,3438],
-"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3438,2],
-"d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3438,0],
-"d8/dca/classspell__nether__portal__perseverence.html#ae908ad87781553cc3bed05ea510a4447":[6,0,3438,1],
+"d8/dca/classspell__nether__portal__perseverence.html":[6,0,3439],
+"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3439,2],
+"d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3439,0],
+"d8/dca/classspell__nether__portal__perseverence.html#ae908ad87781553cc3bed05ea510a4447":[6,0,3439,1],
 "d8/dcb/classBGQueueInviteEvent.html":[6,0,351],
 "d8/dcb/classBGQueueInviteEvent.html#a07f5520ab61cdfd4eadc5d0815067135":[6,0,351,2],
 "d8/dcb/classBGQueueInviteEvent.html#a09f9f27ecbc273b25e5941966a4fa925":[6,0,351,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dcb/halls__of__lightning_8h.html#aba51f7e18d1bf5bcc9ac3cce40574989":[7,0,0,0,1,3,5,9,0,4,1],
 "d8/dcb/halls__of__lightning_8h.html#ae17388a1ba919f74b2068aafe1637537":[7,0,0,0,1,3,5,9,0,4,5],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3d":[7,0,0,0,1,3,5,9,0,4,2],
-"d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da59c88d60acb5b3ce493a62ec2c6b39a8":[7,0,0,0,1,3,5,9,0,4,2,1],
-"d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da608e0501ee5efb86eaa345e411780421":[7,0,0,0,1,3,5,9,0,4,2,0]
+"d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da59c88d60acb5b3ce493a62ec2c6b39a8":[7,0,0,0,1,3,5,9,0,4,2,1]
 };

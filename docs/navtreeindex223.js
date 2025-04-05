@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da608e0501ee5efb86eaa345e411780421":[7,0,0,0,1,3,5,9,0,4,2,0],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,9,0,4,2,5],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da7e42579182aec175c25270808bec35b0":[7,0,0,0,1,3,5,9,0,4,2,7],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3daa53ad80b7b459e535100197347853cd0":[7,0,0,0,1,3,5,9,0,4,2,6],
@@ -19,12 +20,12 @@ var NAVTREEINDEX223 =
 "d8/dcd/classPassiveAI.html#ac2aeba8cb148659de1ef97733fbb0651":[6,0,2368,1],
 "d8/dcd/classPassiveAI.html#ad1ae1c9e8a101dabd89aeed5c71eb453":[6,0,2368,0],
 "d8/dcd/classPassiveAI.html#ae8aa0cf612d23e5b9438e3f2b443f3d9":[6,0,2368,4],
-"d8/dcd/classspell__rog__shiv.html":[6,0,3695],
-"d8/dcd/classspell__rog__shiv.html#a3635089640297e059a183322c7e8f7b9":[6,0,3695,4],
-"d8/dcd/classspell__rog__shiv.html#a6eb80b68a00c91d92a2963adb753ed23":[6,0,3695,1],
-"d8/dcd/classspell__rog__shiv.html#a92eb201b3ae3ab167cc338174a355b00":[6,0,3695,3],
-"d8/dcd/classspell__rog__shiv.html#ab653cf0414411c17ccc674395b08af7a":[6,0,3695,0],
-"d8/dcd/classspell__rog__shiv.html#ae6c5ba4ed1918125594b31368c3bcf2f":[6,0,3695,2],
+"d8/dcd/classspell__rog__shiv.html":[6,0,3696],
+"d8/dcd/classspell__rog__shiv.html#a3635089640297e059a183322c7e8f7b9":[6,0,3696,4],
+"d8/dcd/classspell__rog__shiv.html#a6eb80b68a00c91d92a2963adb753ed23":[6,0,3696,1],
+"d8/dcd/classspell__rog__shiv.html#a92eb201b3ae3ab167cc338174a355b00":[6,0,3696,3],
+"d8/dcd/classspell__rog__shiv.html#ab653cf0414411c17ccc674395b08af7a":[6,0,3696,0],
+"d8/dcd/classspell__rog__shiv.html#ae6c5ba4ed1918125594b31368c3bcf2f":[6,0,3696,2],
 "d8/dcf/structItemSetNameEntry.html":[6,0,1388],
 "d8/dcf/structItemSetNameEntry.html#a5d2733f6b8e3fda906f18fb45330d437":[6,0,1388,0],
 "d8/dcf/structItemSetNameEntry.html#a67245cff18aad700717b7b7af9f07458":[6,0,1388,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1490,0],
 "d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2898],
 "d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2898,0],
-"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2898,2],
-"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2898,1]
+"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2898,2]
 };

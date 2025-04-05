@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1670,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1670,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3104],
 "dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3104,1],
@@ -185,10 +186,10 @@ var NAVTREEINDEX296 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,853,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,853,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,853,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3872],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3872,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3872,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3872,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3873],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3873,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3873,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3873,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1647,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1647,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1647,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2822,1],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[6,0,2822,0],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2822,2],
-"dc/d0d/cs__disable_8cpp.html":[7,0,0,0,1,3,0,12],
-"dc/d0d/cs__disable_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[7,0,0,0,1,3,0,12,1]
+"dc/d0d/cs__disable_8cpp.html":[7,0,0,0,1,3,0,12]
 };

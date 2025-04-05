@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/dd8/structnpc__venomhide__hatchling_1_1npc__venomhide__hatchlingAI.html#ac6c255438dc2f6c750ee47b61fbc20a3":[6,0,2252,0,2],
 "da/dd9/ChatCommand_8cpp.html":[7,0,0,0,1,2,11,1,0],
 "da/dd9/ChatCommand_8cpp.html#a306b7e46fd4791f088a8919720238f3d":[7,0,0,0,1,2,11,1,0,1],
 "da/dd9/ChatCommand_8cpp.html#a569e79432c3876f4ac0b961e8a783003":[7,0,0,0,1,2,11,1,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,5,2,5],
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,5,2,5,7],
 "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,5,2,5,3],
-"da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be":[7,0,0,0,1,3,5,5,2,5,0],
-"da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a905a7756eb363d7bd116031a675850a0":[7,0,0,0,1,3,5,5,2,5,1]
+"da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be":[7,0,0,0,1,3,5,5,2,5,0]
 };

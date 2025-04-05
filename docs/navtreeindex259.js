@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/d9a/kalimdor__script__loader_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,13,7],
 "da/d9a/kalimdor__script__loader_8cpp.html#a1a20c8f74ba83389df1c63d7f1d57cf5":[7,0,0,0,1,3,4,13,46],
 "da/d9a/kalimdor__script__loader_8cpp.html#a1bb5c78626c896c277b322137237181a":[7,0,0,0,1,3,4,13,12],
 "da/d9a/kalimdor__script__loader_8cpp.html#a1c081ae69dc68589ab11764025bb0312":[7,0,0,0,1,3,4,13,37],
@@ -101,11 +102,11 @@ var NAVTREEINDEX259 =
 "da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[6,0,2551,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[6,0,2551,0],
 "da/d9e/classSmartAIMgr.html#af74d3b1999c3774350e87d70a08c8210":[6,0,2551,19],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3824],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3824,2],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3824,0],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3824,1],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3824,3],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3825],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3825,2],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3825,0],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3825,1],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3825,3],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html":[6,0,942,0],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#a7ddfb8afac3ff28a84b26255628fab50":[6,0,942,0,1],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#aa7d8d1d075eeb03952b47cc16846a3db":[6,0,942,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fafd0798cb85b5cc6c8065a7bd9efdb7d4":[7,0,0,0,1,3,7,13,37,17],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a787e8b63075b328932e0fa7237d4f3c5":[7,0,0,0,1,3,7,13,49],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a7c2e0b764b580aefde5c593f077642a0":[7,0,0,0,1,3,7,13,52],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450":[7,0,0,0,1,3,7,13,41],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f":[7,0,0,0,1,3,7,13,41,0]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450":[7,0,0,0,1,3,7,13,41]
 };

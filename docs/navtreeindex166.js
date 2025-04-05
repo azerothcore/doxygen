@@ -1,10 +1,11 @@
 var NAVTREEINDEX166 =
 {
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3597],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a36563a197b7377660b7c3f9e85d478bd":[6,0,3597,3],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3597,1],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#abaef73201d2e0bd1d6789309442019e0":[6,0,3597,0],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#add5c1ecaa5a75af6e91a0df5d63bbc42":[6,0,3597,2],
+"d6/d32/classArena.html#ae24fe304d35c0c09379203135e936450":[6,0,177,1],
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3598],
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a36563a197b7377660b7c3f9e85d478bd":[6,0,3598,3],
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3598,1],
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#abaef73201d2e0bd1d6789309442019e0":[6,0,3598,0],
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#add5c1ecaa5a75af6e91a0df5d63bbc42":[6,0,3598,2],
 "d6/d33/classAuraScript_1_1EffectBase.html":[6,0,284,7],
 "d6/d33/classAuraScript_1_1EffectBase.html#a8c300ca68c3ff6f74b230835c566fd60":[6,0,284,7,1],
 "d6/d33/classAuraScript_1_1EffectBase.html#ab02f9f344e2f32ad59b35993d5c8f819":[6,0,284,7,0],
@@ -102,11 +103,11 @@ var NAVTREEINDEX166 =
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#ad3d7333e624c70c9c635073a1909c67d":[6,0,766,0,9],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#ad7e3b70d671080294811e9fb191e880a":[6,0,766,0,13],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#af9dbc9026fe7baa41c6cf41b59ed81dc":[6,0,766,0,8],
-"d6/d36/structWardenModuleUse.html":[6,0,4197],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4197,0],
-"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[6,0,4197,3],
-"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[6,0,4197,1],
-"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[6,0,4197,2],
+"d6/d36/structWardenModuleUse.html":[6,0,4198],
+"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4198,0],
+"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[6,0,4198,3],
+"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[6,0,4198,1],
+"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[6,0,4198,2],
 "d6/d38/classAchievementGlobalMgr.html":[6,0,114],
 "d6/d38/classAchievementGlobalMgr.html#a01ce43650f0e13322d74da5da695d870":[6,0,114,26],
 "d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[6,0,114,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d39/classWorld.html#a0ccb15cd950cba69ab123f92ac03b117":[4,2,11,43],
 "d6/d39/classWorld.html#a0e4ac5f6fc42a6cf71d8d3b229646c92":[4,2,11,17],
 "d6/d39/classWorld.html#a0f12a53ebf7cd170fba7e19dbebe1ccc":[4,2,11,81],
-"d6/d39/classWorld.html#a111207dc1b734f3b68e2d544bd39e2f5":[4,2,11,25],
-"d6/d39/classWorld.html#a14ecf1cc37847138eeeb101406b05f1a":[4,2,11,0]
+"d6/d39/classWorld.html#a111207dc1b734f3b68e2d544bd39e2f5":[4,2,11,25]
 };
