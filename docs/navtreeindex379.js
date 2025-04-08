@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057":[7,0,0,0,1,3,4,14,2],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab":[7,0,0,0,1,3,4,14,2,11],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494":[7,0,0,0,1,3,4,14,2,17],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff":[7,0,0,0,1,3,4,14,2,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a493990dfcac9a521570da139b4345825":[6,0,9,22,8],
 "df/d56/classVMAP_1_1VMapMgr2.html#a57a794e7337e0fe2948f35526f6293a3":[5,0,27,22,4],
 "df/d56/classVMAP_1_1VMapMgr2.html#a57a794e7337e0fe2948f35526f6293a3":[6,0,9,22,4],
-"df/d56/classVMAP_1_1VMapMgr2.html#a59f93ba11956448bd29a03b9259b7c57":[6,0,9,22,12],
-"df/d56/classVMAP_1_1VMapMgr2.html#a59f93ba11956448bd29a03b9259b7c57":[5,0,27,22,12]
+"df/d56/classVMAP_1_1VMapMgr2.html#a59f93ba11956448bd29a03b9259b7c57":[6,0,9,22,12]
 };

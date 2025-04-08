@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#af8600ff24856d079df7e9c59f49850b2":[6,0,395,0,9],
 "de/dc1/classadt__MCNK.html":[6,0,134],
 "de/dc1/classadt__MCNK.html#a0457648c852fd05b24919d95f896116e":[6,0,134,15],
 "de/dc1/classadt__MCNK.html#a0a6a3d2ff51cbba529ca2ffb2e7cacf0":[6,0,134,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/dd5/classMiscScript.html#a2160ea9f05168a3018ab34ebddee18cc":[6,0,1503,13],
 "de/dd5/classMiscScript.html#a25d97a2c91563263da76e5d67358edce":[6,0,1503,4],
 "de/dd5/classMiscScript.html#a2c2b480dd47c6e8a2ebd4e19ead442fc":[6,0,1503,12],
-"de/dd5/classMiscScript.html#a3241973d4f8ff5d9e4eed8a0cc95e74d":[6,0,1503,2],
-"de/dd5/classMiscScript.html#a3a45534d56665943fbcfd82e15a17753":[6,0,1503,19]
+"de/dd5/classMiscScript.html#a3241973d4f8ff5d9e4eed8a0cc95e74d":[6,0,1503,2]
 };

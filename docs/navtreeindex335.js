@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/def/classspell__q11065__wrangle__some__aether__rays.html#ada9b1c9e159956cb2a79610dbdb3eaf9":[6,0,3587,0],
 "dd/df0/classnpc__attracted__reef__bull.html":[6,0,1611],
 "dd/df0/classnpc__attracted__reef__bull.html#acd0ade9e7ce5492c11be0b3f2696418e":[6,0,1611,1],
 "dd/df0/classnpc__attracted__reef__bull.html#af705e2768cd41c955af7f944c670ac85":[6,0,1611,2],
@@ -79,8 +80,8 @@ var NAVTREEINDEX335 =
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,38,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,1,50,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,38,0,2],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,38,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,50,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,38,0,0],
 "dd/df8/SRP6_8h.html":[7,0,0,0,0,3,0,4],
 "dd/df9/classnpc__ulduar__expedition__engineer.html":[6,0,2212],
 "dd/df9/classnpc__ulduar__expedition__engineer.html#a1ff99e62b9c2222d8c08e71bfda600ea":[6,0,2212,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "de/d00/structboss__roar.html#a9a2778a803d6d41b256759b29452cc51":[6,0,673,1],
 "de/d00/structboss__roar.html#aaaa0d33697fe1abc0df5bf9ecb249ffc":[6,0,673,6],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html":[6,0,2167,0],
-"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a0fc7ca1313a21c5f74539ce2dbd7465d":[6,0,2167,0,1],
-"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a628772971a9c2a190ffe2fae6b0b6865":[6,0,2167,0,0]
+"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a0fc7ca1313a21c5f74539ce2dbd7465d":[6,0,2167,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX295 =
 {
+"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadab2715358fe90033a042ef9a27770fc4d":[7,0,0,0,1,3,2,6,3,5,21],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadab4f36ad46aef96128cfe126121795deb":[7,0,0,0,1,3,2,6,3,5,32],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadab5d2832f690c3c6c81103cff7f5f190c":[7,0,0,0,1,3,2,6,3,5,15],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadabb9def8fc5e7c75c52f463c05865a43b":[7,0,0,0,1,3,2,6,3,5,86],
@@ -248,6 +249,5 @@ var NAVTREEINDEX295 =
 "dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[6,0,1354,1],
 "dc/d07/classInstanceMapScript.html#a350d328f82cc5e7ea43f3c8779d25a67":[6,0,1354,0],
 "dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[6,0,1354,2],
-"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1354,3],
-"dc/d07/classnpc__captain__brandon.html":[6,0,1670]
+"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1354,3]
 };

@@ -60,7 +60,8 @@ var boss__felmyst_8cpp =
       [ "EMOTE_BREATH", "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162", null ]
     ] ],
     [ "AddSC_boss_felmyst", "d6/de9/boss__felmyst_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f", null ],
-    [ "LandingPos", "d6/de9/boss__felmyst_8cpp.html#a573c8806b9a68f2af1be0242c8b4271e", null ],
+    [ "LandingLeftPos", "d6/de9/boss__felmyst_8cpp.html#abba618411490f7da82fd008a3d652f7d", null ],
+    [ "LandingRightPos", "d6/de9/boss__felmyst_8cpp.html#a7ecb97000d95af1956f3c3dfd6229395", null ],
     [ "LeftSide", "d6/de9/boss__felmyst_8cpp.html#a7ace75e83b69bcf1c98d2e8fa8a9e983", null ],
     [ "LeftSideLanes", "d6/de9/boss__felmyst_8cpp.html#a4e49dd316fb0b3871e52ae3697488110", null ],
     [ "RightSide", "d6/de9/boss__felmyst_8cpp.html#ad94a5faef2df17e5f5196918c5037ed4", null ],

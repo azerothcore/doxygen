@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a101518193c0fb6bbd6892362a6f09b9c":[6,0,381,0,0],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[6,0,381,0,2],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a5abb4c2b4149172d2e7bf0d539237323":[6,0,381,0,5],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a7d101626f39947dd54b574491a5e6d72":[6,0,381,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[6,0,838,1],
 "df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[6,0,838,10],
 "df/df1/structCell.html#a15c6d9e68123ebceaf3520a383f5b7e8":[6,0,838,11],
-"df/df1/structCell.html#a394510643e8664cf12b5efaf5cb99f71":[6,0,838,0],
-"df/df1/structCell.html#a3aa212635749a4fa5ca9dd7fab1ae884":[6,0,838,24]
+"df/df1/structCell.html#a394510643e8664cf12b5efaf5cb99f71":[6,0,838,0]
 };

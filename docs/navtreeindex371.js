@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a":[7,0,0,0,1,3,9,9,19,10],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419":[7,0,0,0,1,3,9,9,19,6],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220":[7,0,0,0,1,3,9,9,19,2],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d":[7,0,0,0,1,3,9,9,19,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#abbbfe21337c9f222da3a21bae43e541a":[5,0,1,8,9,8],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#abbbfe21337c9f222da3a21bae43e541a":[6,0,0,5,9,8],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ac693bf817c41351bbf4c1c4c625940fd":[5,0,1,8,9,13],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ac693bf817c41351bbf4c1c4c625940fd":[6,0,0,5,9,13],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ae96a0500880d30109c61efd6450453de":[6,0,0,5,9,17]
+"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ac693bf817c41351bbf4c1c4c625940fd":[6,0,0,5,9,13]
 };

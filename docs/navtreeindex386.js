@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a9f2d1ca124ea572b3ea9dc6accd181ff":[7,0,0,0,1,3,2,27,15,3],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,2,27,15,0],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4ae2eb383aa2f9668d3abd6d4478191d3a":[7,0,0,0,1,3,2,27,15,10],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4af04f0a924c14831e0ab9a393e5ec6661":[7,0,0,0,1,3,2,27,15,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/da7/classBattleground.html#a39548195d203781af0e04927e7c1ba46":[6,0,310,194],
 "df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[6,0,310,196],
 "df/da7/classBattleground.html#a3a7570a487820ade935e0870f8cda0e7":[6,0,310,128],
-"df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[6,0,310,198],
-"df/da7/classBattleground.html#a3bd710cf2081404fde874444ea2f1981":[6,0,310,15]
+"df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[6,0,310,198]
 };

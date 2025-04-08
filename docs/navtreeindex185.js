@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08af384d6f5e893e1d7a4da267d02fd0399":[7,0,0,0,1,3,2,1,0,1,3,9],
 "d7/d26/blackrock__depths_8h.html#a2f2e8b4a6f1b51adcbf0e07e2cc282dd":[7,0,0,0,1,3,2,1,0,1,5],
 "d7/d26/blackrock__depths_8h.html#a2f2e8b4a6f1b51adcbf0e07e2cc282dda11cf3e7ffffe2a762179fe32e3f03766":[7,0,0,0,1,3,2,1,0,1,5,0],
 "d7/d26/blackrock__depths_8h.html#a2f2e8b4a6f1b51adcbf0e07e2cc282dda456d218c4e29980af41c866d42a7da27":[7,0,0,0,1,3,2,1,0,1,5,2],
@@ -54,12 +55,12 @@ var NAVTREEINDEX185 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,30,5,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,30,5,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,11,5,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,30,5,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,5,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,30,5,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,11,5,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,30,5,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,11,5,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,30,5,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,11,5,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,30,5,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,11,5,47,6],
@@ -172,14 +173,14 @@ var NAVTREEINDEX185 =
 "d7/d2b/classVMAP_1_1ManagedModel.html":[6,0,9,10],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[5,0,27,10,2],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[6,0,9,10,2],
-"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,27,10,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[6,0,9,10,1],
-"d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[5,0,27,10,4],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,27,10,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[6,0,9,10,4],
-"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[5,0,27,10,4],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[5,0,27,10,3],
-"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,27,10,0],
+"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
+"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,27,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,27,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3734],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d32/classBIH_1_1BuildStats.html#a1a3087af9d859d25cd9d475ad8987ca3":[6,0,355,1,3],
 "d7/d32/classBIH_1_1BuildStats.html#a208e3c10fbd61fa6d4cc6736140ddfb1":[6,0,355,1,11],
 "d7/d32/classBIH_1_1BuildStats.html#a37d64390b3f004f36588c1467a446cd0":[6,0,355,1,9],
-"d7/d32/classBIH_1_1BuildStats.html#a6546dd9cc0de2cba9159f6ab2477b81f":[6,0,355,1,10],
-"d7/d32/classBIH_1_1BuildStats.html#a77e7b7ff44c0f16fc2b5d4370c18751b":[6,0,355,1,1]
+"d7/d32/classBIH_1_1BuildStats.html#a6546dd9cc0de2cba9159f6ab2477b81f":[6,0,355,1,10]
 };

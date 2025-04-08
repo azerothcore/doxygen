@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a5796a96626937e1026cc1fec0eba4e0b":[6,0,2193,0,4],
 "d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a65dc1d2ba5769aed1a0b2487322ff2b1":[6,0,2193,0,0],
 "d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a958f27c1f917dc1ae0a9f84549481f93":[6,0,2193,0,8],
 "d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50":[6,0,2193,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d67/classVMAP_1_1StaticMapTree.html#a05bc1ec03ddd82516a45d2ff82274fe9":[5,0,27,18,4],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a0ecb0de74782f9d5f9f877529c698f20":[5,0,27,18,2],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a0ecb0de74782f9d5f9f877529c698f20":[6,0,9,18,2],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[5,0,27,18,26],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[6,0,9,18,26]
+"d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[5,0,27,18,26]
 };

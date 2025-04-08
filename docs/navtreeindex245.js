@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#ad3805439b87317fde3f002c977899982":[7,0,0,0,1,3,5,9,2,16,2],
 "d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f":[7,0,0,0,1,3,5,9,2,16,10],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbf":[7,0,0,0,1,3,5,9,2,16,4],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa0bfbc3fb930e3614494c23eed66e8141":[7,0,0,0,1,3,5,9,2,16,4,2],
@@ -85,16 +86,16 @@ var NAVTREEINDEX245 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1704,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1704,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1704,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,30,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
 "da/d02/classachievement__not__even__a__scratch.html":[6,0,75],
 "da/d02/classachievement__not__even__a__scratch.html#a0d025c09d35c3640016ab42e11dd96eb":[6,0,75,0],
 "da/d02/classachievement__not__even__a__scratch.html#a81f6c9bd36e5a3eea3fe0af24c9f1649":[6,0,75,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,3,0,5],
 "da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1657ad56db1046e9ccbdcfcb6e20d844":[7,0,0,0,1,3,2,1,3,0,5,0],
 "da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2211798be62b95fa9bdde736f3cacdd1":[7,0,0,0,1,3,2,1,3,0,5,1],
-"da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa214943ff0c852409ba9986b13d8390e":[7,0,0,0,1,3,2,1,3,0,5,2],
-"da/d0a/classnpc__thrall__old__hillsbrad.html":[6,0,2164]
+"da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa214943ff0c852409ba9986b13d8390e":[7,0,0,0,1,3,2,1,3,0,5,2]
 };

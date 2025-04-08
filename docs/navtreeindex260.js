@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450":[7,0,0,0,1,3,7,13,41],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f":[7,0,0,0,1,3,7,13,41,0],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8":[7,0,0,0,1,3,7,13,41,1],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89":[7,0,0,0,1,3,7,13,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298cae9282aaeafc340c652b2621364d6f807":[7,0,0,0,1,3,5,7,14,12,6],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298caedfb1b6f217ec62151423ee18aa4e640":[7,0,0,0,1,3,5,7,14,12,14],
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,14,9],
-"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a14515fc304f95aa76f9d6c47c32b3458":[7,0,0,0,1,3,5,7,14,9,5],
-"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3050e0e335651ccc1f155e42eae2f3eb":[7,0,0,0,1,3,5,7,14,9,1]
+"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a14515fc304f95aa76f9d6c47c32b3458":[7,0,0,0,1,3,5,7,14,9,5]
 };

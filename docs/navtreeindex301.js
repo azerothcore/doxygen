@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#af11a0cddced13c34a012c8df964ab68a":[6,0,370,0,13],
 "dc/d34/structboss__murmur.html":[6,0,628],
 "dc/d34/structboss__murmur.html#a1f40ead1b2269b97c69bd4db808d6bae":[6,0,628,5],
 "dc/d34/structboss__murmur.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d":[6,0,628,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d46/classspell__dru__moonkin__form__passive.html#a1bdab939c229c466ce6b71a7e00dedf9":[6,0,2804,3],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85":[6,0,2804,1],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a47bd5ef93255a2d926874d6d70861374":[6,0,2804,4],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff":[6,0,2804,0],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a79e3012cb5c78851809d9f4c4d6c4487":[6,0,2804,2]
+"dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff":[6,0,2804,0]
 };

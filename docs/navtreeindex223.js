@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da59c88d60acb5b3ce493a62ec2c6b39a8":[7,0,0,0,1,3,5,9,0,4,2,1],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da608e0501ee5efb86eaa345e411780421":[7,0,0,0,1,3,5,9,0,4,2,0],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,9,0,4,2,5],
 "d8/dcb/halls__of__lightning_8h.html#aefe92b165daab54a3444c2b628b30e3da7e42579182aec175c25270808bec35b0":[7,0,0,0,1,3,5,9,0,4,2,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[6,0,1490,1],
 "d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1490,0],
 "d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2898],
-"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2898,0],
-"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2898,2]
+"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2898,0]
 };

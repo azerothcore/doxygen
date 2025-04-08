@@ -1,10 +1,11 @@
 var NAVTREEINDEX191 =
 {
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,67,2],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[6,0,0,55,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,55,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,67,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,55,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,67,5],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,55,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[6,0,0,55,0],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,1,67,0],
 "d7/d78/classnpc__plucky.html":[6,0,2029],
@@ -51,8 +52,8 @@ var NAVTREEINDEX191 =
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#aab87f0308fc4546718bcb5209f69764d":[6,0,737,0,12],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,37],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,30,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,30,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,30,2,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d89/classnpc__arthas.html":[6,0,1604],
 "d7/d89/classnpc__arthas.html#a4a613dd76cde27f7df834b9bb837ab6c":[6,0,1604,2],
 "d7/d89/classnpc__arthas.html#a4bd3d5dd8eebe48b525e2bd162787172":[6,0,1604,3],
-"d7/d89/classnpc__arthas.html#a87c280ff9861187b0a713f795e657266":[6,0,1604,1],
-"d7/d89/classnpc__arthas.html#aeca2f4baa3c943281c676c6498393165":[6,0,1604,4]
+"d7/d89/classnpc__arthas.html#a87c280ff9861187b0a713f795e657266":[6,0,1604,1]
 };

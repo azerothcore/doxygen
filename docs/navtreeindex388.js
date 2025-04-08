@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[7,0,0,0,1,3,5,9,1,0,5,9],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a26505da4b98faf987b3d3c7eba819327":[7,0,0,0,1,3,5,9,1,0,5,3],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a4c273147e33928fee125a61eaaca7eb0":[7,0,0,0,1,3,5,9,1,0,5,0],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a605977f6afa488fa2bd864f4c8daf451":[7,0,0,0,1,3,5,9,1,0,5,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/dbc/structMalleableGooSelector.html#a6cd991b360895b4b3405f0cd9e63879f":[6,0,1469,2],
 "df/dbc/structMalleableGooSelector.html#adf73957539fdcc604f849944473e0015":[6,0,1469,1],
 "df/dbc/structSpellDifficultyEntry.html":[6,0,4024],
-"df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[6,0,4024,0],
-"df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[6,0,4024,1]
+"df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[6,0,4024,0]
 };

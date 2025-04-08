@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/da6/classspell__q12589__shoot__rjr.html#a08d9ffb7dcbe786071979166e0489336":[6,0,3617,2],
 "d9/da6/classspell__q12589__shoot__rjr.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b":[6,0,3617,3],
 "d9/da6/classspell__q12589__shoot__rjr.html#a82d931b4a15f6a60c27d932e8188ef78":[6,0,3617,4],
 "d9/da6/classspell__q12589__shoot__rjr.html#ab1584c391ac81b8338387acc6187001f":[6,0,3617,0],
@@ -87,12 +88,12 @@ var NAVTREEINDEX240 =
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[7,0,0,0,1,2,3,1,1,12],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
 "d9/dac/classnpc__nether__drake.html":[6,0,1977],
 "d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[6,0,1977,1],
 "d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[6,0,1977,2],
@@ -220,12 +221,12 @@ var NAVTREEINDEX240 =
 "d9/dba/classspell__mark__of__malice.html#a6b764182501a1d192f90dc20bbd6549e":[6,0,3394,2],
 "d9/dba/classspell__mark__of__malice.html#a94b6499dc2e1fa95a50bd9c3c491e858":[6,0,3394,1],
 "d9/dba/classspell__mark__of__malice.html#ad89123425cca5bd02a18526a11595a1a":[6,0,3394,3],
-"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html":[5,0,1,8,2,2],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html":[6,0,0,5,2,2],
-"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[5,0,1,8,2,2,1],
+"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html":[5,0,1,8,2,2],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[6,0,0,5,2,2,1],
-"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[6,0,0,5,2,2,2],
+"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a465a6f446d3482578b583d54f0109516":[5,0,1,8,2,2,1],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[5,0,1,8,2,2,2],
+"d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a8e3130708d0068bd82f9c2861b130303":[6,0,0,5,2,2,2],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a9d10adc7fc7e9ba967ce0704ff369019":[5,0,1,8,2,2,0],
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a9d10adc7fc7e9ba967ce0704ff369019":[6,0,0,5,2,2,0],
 "d9/dbc/structMySQLType_3_01uint8_01_4.html":[6,0,1546],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dc0/classspell__chain__burn.html#a0a1cbde8aff10303d91a791276a865f4":[6,0,2689,1],
 "d9/dc0/classspell__chain__burn.html#a9f7d21ab52f581ad154a242ce84d8a5d":[6,0,2689,2],
 "d9/dc0/classspell__chain__burn.html#ac29f6792f36f1b5ef4a463754c725a2e":[6,0,2689,0],
-"d9/dc0/structGameObjectArtKitEntry.html":[6,0,1075],
-"d9/dc0/structGameObjectArtKitEntry.html#a7d31bf2a11559873fc410d4cb32c5f54":[6,0,1075,0]
+"d9/dc0/structGameObjectArtKitEntry.html":[6,0,1075]
 };

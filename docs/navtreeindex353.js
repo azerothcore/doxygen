@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"de/d30/SpellMgr_8h.html#a4d797e41da5b1af2e9d3554edb509bea":[7,0,0,0,1,2,41,9,31],
 "de/d30/SpellMgr_8h.html#a4edcdc3e020b29d06505e8048874c414":[7,0,0,0,1,2,41,9,32],
 "de/d30/SpellMgr_8h.html#a4fe5e2a01f1b4ea090aa00a5c6146490":[7,0,0,0,1,2,41,9,37],
 "de/d30/SpellMgr_8h.html#a548a7734b72d00c646549629de190faf":[7,0,0,0,1,2,41,9,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ae97d05afd1cb4b8d665ad3361a517781":[6,0,1289,0,1],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#af768b50e85b799d35844b173d94e578d":[6,0,1289,0,22],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aff8e5df41dd304df32a6ad3ac185b672":[6,0,1289,0,14],
-"de/d33/structnpc__healing__ward.html":[6,0,1827],
-"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1827,5]
+"de/d33/structnpc__healing__ward.html":[6,0,1827]
 };

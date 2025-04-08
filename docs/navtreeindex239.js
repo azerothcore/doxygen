@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea0bdd8c8ef1d879df7c14109e4980b096":[7,0,0,0,1,3,2,15,8,3,16],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea29795414aee71ecb6224cfa47db08477":[7,0,0,0,1,3,2,15,8,3,14],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea3005615e39c8aad246875d1a93773a34":[7,0,0,0,1,3,2,15,8,3,1],
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ffa8fa2bed01ab7bf2d149c1def595f":[7,0,0,0,1,3,2,15,8,3,5],
@@ -62,14 +63,14 @@ var NAVTREEINDEX239 =
 "d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[6,0,2891,3],
 "d9/d99/classspell__gen__basic__campfire.html#a7b0446133750fce7eda19dbde5abb3b1":[6,0,2891,2],
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[6,0,2891,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,1,8,1,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,1,8,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[6,0,0,5,1,0,0],
 "d9/d9b/classHostileReference.html":[6,0,1264],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/da5/classboss__flame__leviathan__overload__device.html":[6,0,468],
 "d9/da5/classboss__flame__leviathan__overload__device.html#a73988d2b1cfe61d0356ec1f317d90162":[6,0,468,2],
 "d9/da5/classboss__flame__leviathan__overload__device.html#ad00f601170c1af833aadb17eab5d19a8":[6,0,468,1],
-"d9/da6/classspell__q12589__shoot__rjr.html":[6,0,3617],
-"d9/da6/classspell__q12589__shoot__rjr.html#a08d9ffb7dcbe786071979166e0489336":[6,0,3617,2]
+"d9/da6/classspell__q12589__shoot__rjr.html":[6,0,3617]
 };

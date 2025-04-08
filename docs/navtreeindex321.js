@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d44/structboss__akilzon.html#a691625a18583d58b1be4d2caeb21b1e0":[6,0,364,1],
 "dd/d44/structboss__akilzon.html#a69302e4ac8f349e884f0745fe66edce2":[6,0,364,6],
 "dd/d44/structboss__akilzon.html#a8c56c6920488ac507e24db384782e2ab":[6,0,364,0],
 "dd/d44/structboss__akilzon.html#a93b34ed1f80dc138e54f77eb4f64b1bc":[6,0,364,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca67f7affe994a9050a466280a07b64954":[7,0,0,0,1,3,4,9,7,9,3],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca717f0f96796c5ba79a4cb9067e5abf9a":[7,0,0,0,1,3,4,9,7,9,13],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956":[7,0,0,0,1,3,4,9,7,9,5],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,4,9,7,9,4],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca93d7e60cfcfaf823d896f6d2af4b4160":[7,0,0,0,1,3,4,9,7,9,7]
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,4,9,7,9,4]
 };

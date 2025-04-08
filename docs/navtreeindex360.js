@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d79/classGuild.html#ae0ae8ead712acb0a209b42d08197daae":[6,0,1244,103],
 "de/d79/classGuild.html#ae3b50f9118a606289a169f5d2addd894":[6,0,1244,32],
 "de/d79/classGuild.html#ae3ece52e40aa4cc373116b7c32fbb761":[6,0,1244,132],
 "de/d79/classGuild.html#ae41626bce98dacc91e0969f7868ad51c":[6,0,1244,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d85/classspell__item__linken__boomerang.html#a12ef13dbc3e9cd95fb1d57bf393735e3":[6,0,3225,5],
 "de/d85/classspell__item__linken__boomerang.html#a2bbcf5ee2d41362c80a4649a4cf7e260":[6,0,3225,2],
 "de/d85/classspell__item__linken__boomerang.html#a5a5253b6d152b1af78de663c09451536":[6,0,3225,1],
-"de/d85/classspell__item__linken__boomerang.html#ac3d5052bf045082fb8bc02c72a0dba39":[6,0,3225,3],
-"de/d85/classspell__item__linken__boomerang.html#ae8ce5a315886ede30eda7d3682e4ef06":[6,0,3225,0]
+"de/d85/classspell__item__linken__boomerang.html#ac3d5052bf045082fb8bc02c72a0dba39":[6,0,3225,3]
 };

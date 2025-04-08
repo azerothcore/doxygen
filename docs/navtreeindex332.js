@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4032,1],
 "dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4032,2],
 "dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4032,0],
 "dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4032,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca05b562744c323c5a1d01d0c1d643a6f4":[7,0,0,0,1,3,5,1,1,2,32,42],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca0cb011b07174cdf6f93317bef8431710":[7,0,0,0,1,3,5,1,1,2,32,35],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,1,1,2,32,1],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca1684707f0fdaa6deb45bae5d36c35719":[7,0,0,0,1,3,5,1,1,2,32,25],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca16e875b834fdae55c5634d0ad60350b7":[7,0,0,0,1,3,5,1,1,2,32,9]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca1684707f0fdaa6deb45bae5d36c35719":[7,0,0,0,1,3,5,1,1,2,32,25]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d46/classspell__dru__moonkin__form__passive.html#a79e3012cb5c78851809d9f4c4d6c4487":[6,0,2804,2],
 "dc/d48/classWardenCheckMgr.html":[6,0,4192],
 "dc/d48/classWardenCheckMgr.html#a08e083224760d2bca1996da9cd9cb014":[6,0,4192,0],
 "dc/d48/classWardenCheckMgr.html#a0a82e118a8f8236fecf1b00de0e2071c":[6,0,4192,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963ea0847dac76ef6047d1aeca475c7194c29":[7,0,0,0,1,3,7,5,1,6,3,4],
 "dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963ea1fb775b518a73e7414085dc9d6e8dd7d":[7,0,0,0,1,3,7,5,1,6,3,5],
 "dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963ea25a9a5e0745902ce6f06e2923b9f75f4":[7,0,0,0,1,3,7,5,1,6,3,3],
-"dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963ea972b9afdc362e035b19a8c06303b4622":[7,0,0,0,1,3,7,5,1,6,3,0],
-"dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963eabbe4a4f3f4a1a960e58ceb98907f22dd":[7,0,0,0,1,3,7,5,1,6,3,1]
+"dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963ea972b9afdc362e035b19a8c06303b4622":[7,0,0,0,1,3,7,5,1,6,3,0]
 };

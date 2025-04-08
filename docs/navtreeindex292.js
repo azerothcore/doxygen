@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/dea/classLinkedListHead.html#af28714c2195a3609871f42fa7a9dc74b":[6,0,1411,10],
 "db/dea/structSavedAddon.html":[6,0,2501],
 "db/dea/structSavedAddon.html#a075de88ce6e643cffb7c5bb55f7b1095":[6,0,2501,2],
 "db/dea/structSavedAddon.html#a6252c2ac491d0ebd9e84556f26cfa8cd":[6,0,2501,0],
@@ -144,12 +145,12 @@ var NAVTREEINDEX292 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1518,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,30,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,30,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,30,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,30,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,30,5,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,30,5,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3136],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/df3/classPossessedAI.html#a8e6d316c08dd6fba53c8ed2edab9ea34":[6,0,2424,4],
 "db/df3/classPossessedAI.html#aae94a4a6d6e67d05d18573845ecebfd7":[6,0,2424,3],
 "db/df3/classPossessedAI.html#aafc2d20dff60c6e5401eaa579844430d":[6,0,2424,6],
-"db/df3/classPossessedAI.html#ad99b9c297289b819157be56d8049320e":[6,0,2424,2],
-"db/df4/BattlegroundScore_8h.html":[7,0,0,0,1,2,8,15]
+"db/df3/classPossessedAI.html#ad99b9c297289b819157be56d8049320e":[6,0,2424,2]
 };

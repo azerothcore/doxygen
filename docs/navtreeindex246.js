@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"da/d0a/classnpc__thrall__old__hillsbrad.html":[6,0,2164],
 "da/d0a/classnpc__thrall__old__hillsbrad.html#a17fcb00850503903f430506654e035c0":[6,0,2164,4],
 "da/d0a/classnpc__thrall__old__hillsbrad.html#a3e6fa750b095af3beac806a619e18328":[6,0,2164,1],
 "da/d0a/classnpc__thrall__old__hillsbrad.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c":[6,0,2164,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "da/d1d/zone__durotar_8cpp.html#adfe70de7994d247de3e691c8ccd67273ace334f57e2e29dbf51ba8b0b4544015a":[7,0,0,0,1,3,4,20,15,0],
 "da/d1d/zone__durotar_8cpp.html#adfe70de7994d247de3e691c8ccd67273ad65b9c0ef2d3040eea1b67817fcc6322":[7,0,0,0,1,3,4,20,15,3],
 "da/d1d/zone__durotar_8cpp.html#adfe70de7994d247de3e691c8ccd67273aec85cc617ef32ec7ad6edfa8a467f200":[7,0,0,0,1,3,4,20,15,5],
-"da/d1d/zone__durotar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,20,11],
-"da/d1d/zone__durotar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d73cce34d5947c5d2d66705d1b04d06":[7,0,0,0,1,3,4,20,11,2]
+"da/d1d/zone__durotar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,20,11]
 };

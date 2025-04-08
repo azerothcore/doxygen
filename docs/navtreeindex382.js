@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2279,0],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2279,0,3],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2279,0,0],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2279,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a3305ced5e8edcf6f636cdbf1f2ef862f":[7,0,0,0,1,3,5,9,2,4,40,2],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a433c3a28a5d051f56a8a8565c089e13b":[7,0,0,0,1,3,5,9,2,4,40,4],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a43c2b43d7aa194507dc7912f3f1c1560":[7,0,0,0,1,3,5,9,2,4,40,3],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[7,0,0,0,1,3,5,9,2,4,40,11],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a473c4bd4351fca7d4c76dc7e1d60dca0":[7,0,0,0,1,3,5,9,2,4,40,5]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[7,0,0,0,1,3,5,9,2,4,40,11]
 };

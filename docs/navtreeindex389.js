@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[6,0,4024,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,75],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,1,87],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,1,87,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/dd2/structGameObjectData.html#ac0918795bd3c37534ad7b7ac64256b16":[6,0,1076,8],
 "df/dd2/structGameObjectData.html#adfb0111d7183eefd893e0cce7691a08e":[6,0,1076,10],
 "df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[6,0,1076,5],
-"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[6,0,1076,4],
-"df/dd2/structGameObjectData.html#aef60d19e3edd35f2ddc82ab4684dbb2f":[6,0,1076,13]
+"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[6,0,1076,4]
 };

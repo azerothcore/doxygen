@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/dc0/structGameObjectArtKitEntry.html#a7d31bf2a11559873fc410d4cb32c5f54":[6,0,1075,0],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html":[6,0,437,0],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a1b6ccd418114e57a0c843cc980a56243":[6,0,437,0,12],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a25a18c4d110b407c5fcf09c14444e8b0":[6,0,437,0,8],
@@ -24,8 +25,8 @@ var NAVTREEINDEX241 =
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,134,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
 "d9/dc5/classboss__prince__valanar__icc.html":[6,0,658],
 "d9/dc5/classboss__prince__valanar__icc.html#a2f7f58d57f5ed107d1f972d061105fd4":[6,0,658,2],
 "d9/dc5/classboss__prince__valanar__icc.html#a7bfa4e13fa5cc19313c7ce9877d1c631":[6,0,658,1],
@@ -134,8 +135,8 @@ var NAVTREEINDEX241 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dc9/classspell__batrider__bomb.html#abb26c89a617bc27f8c2a1cfbb0935234":[6,0,2623,2],
 "d9/dc9/classspell__batrider__bomb.html#ace68732d578fbaeb2b209bfded88853a":[6,0,2623,0],
 "d9/dc9/classspell__halion__twilight__division.html":[6,0,3040],
-"d9/dc9/classspell__halion__twilight__division.html#a70a36683a235dec6044a8a32f20c606c":[6,0,3040,2],
-"d9/dc9/classspell__halion__twilight__division.html#a96b430cb0546fb599da22cd675660187":[6,0,3040,0]
+"d9/dc9/classspell__halion__twilight__division.html#a70a36683a235dec6044a8a32f20c606c":[6,0,3040,2]
 };

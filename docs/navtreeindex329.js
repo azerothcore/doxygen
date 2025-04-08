@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[6,0,1239,0],
 "dd/db2/zone__storm__peaks_8cpp.html":[7,0,0,0,1,3,5,23],
 "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaff":[7,0,0,0,1,3,5,23,32],
 "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe":[7,0,0,0,1,3,5,23,32,0],
@@ -190,12 +191,12 @@ var NAVTREEINDEX329 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,624,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,624,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,624,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2157],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2157,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2157,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[6,0,3419,1],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[6,0,3419,2],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html":[6,0,1960,0],
-"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a032cc1ad7a07ead4ced3afe99601d94f":[6,0,1960,0,1],
-"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a30ed336d552596211b3bfc316d223968":[6,0,1960,0,2]
+"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a032cc1ad7a07ead4ced3afe99601d94f":[6,0,1960,0,1]
 };

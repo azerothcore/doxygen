@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/dda/classspell__pal__judgement__of__command.html#a98a5ad12cdb54f48d6014fda3915fd70":[6,0,3484,2],
 "dc/dda/classspell__pal__judgement__of__command.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0":[6,0,3484,1],
 "dc/dda/structboss__janalai.html":[6,0,551],
 "dc/dda/structboss__janalai.html#a0fc79fcdfdd27baa047d22b86135a653":[6,0,551,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ac8b56add24989032c805e09b8adb71d9":[7,0,0,0,1,3,3,1,34,26],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ad4f0054d3e790654adb539e4abf8e186":[7,0,0,0,1,3,3,1,34,13],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ae1fe9c1b5acba6996a127e6db1258bf2":[7,0,0,0,1,3,3,1,34,4],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ae63f338250f29c4f56556abc076784f8":[7,0,0,0,1,3,3,1,34,35],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973aea09b2fd8d846296ff9ce22fe37a8167":[7,0,0,0,1,3,3,1,34,2]
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ae63f338250f29c4f56556abc076784f8":[7,0,0,0,1,3,3,1,34,35]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107":[7,0,0,0,1,2,16,5,5,17,2],
 "dc/dc9/ObjectGuid_8h.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,5,21],
 "dc/dc9/ObjectGuid_8h.html#a393d9824dfb17afe3b82652e89eccc68":[7,0,0,0,1,2,16,5,5,11],
 "dc/dc9/ObjectGuid_8h.html#a407d39fdbc20e1e06960539245ee6a25":[7,0,0,0,1,2,16,5,5,14],
@@ -106,10 +107,10 @@ var NAVTREEINDEX310 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,79,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,67,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,79,2],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,67,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,79,1],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,67,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,79,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,67,5],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,79,5],
 "dc/dd2/classboss__hadronox.html":[6,0,513],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/dd9/structDuelInfo.html#ae1a6667f934c88ad8f0b160e6a8b1190":[6,0,984,1],
 "dc/dd9/structDuelInfo.html#ae8492a9857d819fcec56a10cfd5051e2":[6,0,984,6],
 "dc/dda/classspell__pal__judgement__of__command.html":[6,0,3484],
-"dc/dda/classspell__pal__judgement__of__command.html#a1e9ecf50304f5ccd8578befea898bf81":[6,0,3484,0],
-"dc/dda/classspell__pal__judgement__of__command.html#a98a5ad12cdb54f48d6014fda3915fd70":[6,0,3484,2]
+"dc/dda/classspell__pal__judgement__of__command.html#a1e9ecf50304f5ccd8578befea898bf81":[6,0,3484,0]
 };

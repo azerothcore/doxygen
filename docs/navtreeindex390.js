@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/dd2/structGameObjectData.html#aef60d19e3edd35f2ddc82ab4684dbb2f":[6,0,1076,13],
 "df/dd3/DetourExtended_8h.html":[7,0,0,0,0,11,1],
 "df/dd3/MovementTypedefs_8h.html":[7,0,0,0,1,2,31,1,2],
 "df/dd3/MovementTypedefs_8h.html#a15b376933a666c7f7c4600e62d7afe91":[7,0,0,0,1,2,31,1,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1":[6,0,4154,152],
 "df/dd9/classUnit.html#a18e058a9566a211e4dc1c41229cf2197":[6,0,4154,208],
 "df/dd9/classUnit.html#a18f77484ed2acc7be7fa29d1df7a0c12":[6,0,4154,141],
-"df/dd9/classUnit.html#a1914cb06489a11617ad9f8c9e343876b":[6,0,4154,662],
-"df/dd9/classUnit.html#a19b843f2c35e489dbaf84213288e1bbe":[6,0,4154,840]
+"df/dd9/classUnit.html#a1914cb06489a11617ad9f8c9e343876b":[6,0,4154,662]
 };

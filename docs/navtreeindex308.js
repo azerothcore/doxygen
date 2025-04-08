@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/dae/gruuls__lair_8h.html#a6cc1f699014ee48a56647e53e9d1440a":[7,0,0,0,1,3,7,3,2,1],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,3,2,3],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea61f2ef319d5203666bd8a86b5b9a2603":[7,0,0,0,1,3,7,3,2,3,0],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea7e440984b10a7a2300c1caab77949a74":[7,0,0,0,1,3,7,3,2,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3553,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,930],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,930,0],
-"dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html":[7,0,0,0,1,3,7,5,3,1]
+"dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12]
 };

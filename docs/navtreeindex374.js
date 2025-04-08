@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abab5eb75439f5e692fce74a91cec2c5692":[4,2,15,30],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abac109484ffee5df2c967a65b4104d22e5":[4,2,15,16],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaccb2f60b67efa38a5d8454df249db838":[4,2,15,21],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abacd29849c85298b0eae1a1b38a9a80c51":[4,2,15,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "df/d20/areatrigger__scripts_8cpp.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2":[7,0,0,0,1,3,10,2,11,0],
 "df/d20/classnpc__commander__dawnforge.html":[6,0,1685],
 "df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[6,0,1685,2],
-"df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[6,0,1685,1],
-"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3348]
+"df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[6,0,1685,1]
 };

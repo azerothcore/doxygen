@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d85/classspell__item__linken__boomerang.html#ae8ce5a315886ede30eda7d3682e4ef06":[6,0,3225,0],
 "de/d86/structAuctionHouseEntry.html":[6,0,257],
 "de/d86/structAuctionHouseEntry.html#a1bf77c1b14731def0e3de44143df2eed":[6,0,257,3],
 "de/d86/structAuctionHouseEntry.html#a4b857e3c4c333b2a86f7f5d08bcc883d":[6,0,257,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d92/classLootTemplate_1_1LootGroup.html#a6724f160613257f2d48c0e675a372c48":[6,0,1450,0,3],
 "de/d92/classLootTemplate_1_1LootGroup.html#a77483c54ae8cb9747726bfa0e7d7225f":[6,0,1450,0,14],
 "de/d92/classLootTemplate_1_1LootGroup.html#a7ca1a5e58a5e78430209e1207b732265":[6,0,1450,0,11],
-"de/d92/classLootTemplate_1_1LootGroup.html#a8e99105a3db65b4f8afcf032ce3bb33f":[6,0,1450,0,1],
-"de/d92/classLootTemplate_1_1LootGroup.html#ab306f81dc00d214e0ec8ac3903eff42e":[6,0,1450,0,15]
+"de/d92/classLootTemplate_1_1LootGroup.html#a8e99105a3db65b4f8afcf032ce3bb33f":[6,0,1450,0,1]
 };

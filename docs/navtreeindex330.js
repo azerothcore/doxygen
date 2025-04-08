@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a30ed336d552596211b3bfc316d223968":[6,0,1960,0,2],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a5e643192572f29f954a31b7b949f6525":[6,0,1960,0,5],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a74076048ea382816fa9c98a0d759af46":[6,0,1960,0,7],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a7dad659c4ba1db0460c23a3dc573eff2":[6,0,1960,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0ddbe2362733e0bbb3fa8a22937a3bbb":[7,0,0,0,1,2,38,0,75,1,161],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0f9525fba1f627a99e7f8e7c19688050":[7,0,0,0,1,2,38,0,75,1,26],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1011ead5bf6c9473f1bc7f7a25dfdacd":[7,0,0,0,1,2,38,0,75,1,36],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a11323422d2dacd542888d0ccf7182715":[7,0,0,0,1,2,38,0,75,1,171],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1184eb92844d9bddbb254f0b3ce02db2":[7,0,0,0,1,2,38,0,75,1,178]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a11323422d2dacd542888d0ccf7182715":[7,0,0,0,1,2,38,0,75,1,171]
 };

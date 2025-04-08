@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d8d/structSmartTarget.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d":[6,0,2556,43],
 "df/d8d/structSmartTarget.html#aba129a5ced35898c1832f0a02498aac8":[6,0,2556,31],
 "df/d8d/structSmartTarget.html#ac73ba4a6792fef5f02dc5af2b2303f97":[6,0,2556,18],
 "df/d8d/structSmartTarget.html#acb52eb278431dc7a11e460c6c53c8f8e":[6,0,2556,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d99/structnpc__dark__iron__attack__generator.html":[6,0,1722],
 "df/d99/structnpc__dark__iron__attack__generator.html#a1038fdc5453c78ebaef26b305be23963":[6,0,1722,10],
 "df/d99/structnpc__dark__iron__attack__generator.html#a1a5cc21ee54e3d8d7acb1e3235d4e427":[6,0,1722,12],
-"df/d99/structnpc__dark__iron__attack__generator.html#a3282d8a556e6e3b84a9597c317722d8e":[6,0,1722,13],
-"df/d99/structnpc__dark__iron__attack__generator.html#a4371fcc13d221b843275d1d0e7f896fb":[6,0,1722,7]
+"df/d99/structnpc__dark__iron__attack__generator.html#a3282d8a556e6e3b84a9597c317722d8e":[6,0,1722,13]
 };

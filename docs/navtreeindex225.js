@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a211387ae4f89d54a22a4f8515239d1c3":[6,0,524,0,6],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a3aee27fdbb0ce9c60f2115b878112ea8":[6,0,524,0,1],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a4a7389a2f81677fa5c0e871bc996fe26":[6,0,524,0,2],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a515a86419bdd1f755943a371b3601795":[6,0,524,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfc218d02de5494f973d94ea42630bc8":[7,0,0,0,1,3,2,1,1,14,3,0],
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,14,3,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[7,0,0,0,1,3,2,1,1,14,3,3],
-"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d":[7,0,0,0,1,3,2,1,1,14,3,6],
-"d8/de7/classnpc__announcer__toc10.html":[6,0,1586]
+"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d":[7,0,0,0,1,3,2,1,1,14,3,6]
 };

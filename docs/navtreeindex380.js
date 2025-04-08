@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#a59f93ba11956448bd29a03b9259b7c57":[5,0,27,22,12],
 "df/d56/classVMAP_1_1VMapMgr2.html#a648b69d40c22e5d2351ff7b73b66ffcf":[6,0,9,22,9],
 "df/d56/classVMAP_1_1VMapMgr2.html#a648b69d40c22e5d2351ff7b73b66ffcf":[5,0,27,22,9],
 "df/d56/classVMAP_1_1VMapMgr2.html#a699396b98d011390dc85fe2da9b1a8fe":[5,0,27,22,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,9,6],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca076daa7ca407e32a85aaf56d1f22100a":[7,0,0,0,1,3,7,1,9,6,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dc7878b2fbd4648a8a46443f095bfd4":[7,0,0,0,1,3,7,1,9,6,4],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca755ded2fc6ebfb3993d61559acda3d86":[7,0,0,0,1,3,7,1,9,6,0],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca88fe3729150756d166312aee689665cc":[7,0,0,0,1,3,7,1,9,6,7]
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca755ded2fc6ebfb3993d61559acda3d86":[7,0,0,0,1,3,7,1,9,6,0]
 };

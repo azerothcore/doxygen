@@ -246,8 +246,8 @@ var NAVTREEINDEX145 =
 "d5/d65/classspell__warl__eye__of__kilrogg.html#a9029865b5e06c4a9aa7f155f371c9125":[6,0,3923,1],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#ae15d5175671c60a55e4a77848bc9fe1b":[6,0,3923,3],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2":[6,0,3923,0],
-"d5/d65/structlfg_1_1RBInternalInfo.html":[6,0,5,20],
 "d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,18,20],
+"d5/d65/structlfg_1_1RBInternalInfo.html":[6,0,5,20],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[6,0,5,20,37],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[5,0,18,20,37]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d0c/classspell__gen__spirit__of__competition__winner.html#a12f4c4a85f19ceb55d274428cf2b25a4":[6,0,2990,0],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a437a018fd6917bee51bdbba7cf29e53d":[6,0,2990,3],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a5a2c59463a0546b6f5cd375b3671b86b":[6,0,2990,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#acf1173670c35c84ae7aba29be00d31cf":[6,0,2990,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2659,4],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2659,5],
 "db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,3992],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,3992,2],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,3992,3]
+"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,3992,2]
 };

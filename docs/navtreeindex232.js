@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#ac3c8dc2e5bf6e0c3f380f395a785ad49":[6,0,1836,0,3],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#acd16d6200b08df23576aa9ccbb060d31":[6,0,1836,0,8],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#acf9a436edcbfe3fcf47f56c5cf90cfb2":[6,0,1836,0,7],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#afbe85d7002e34cfcb9414f2beda4e0a2":[6,0,1836,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d5e/structnpc__stolen__soul.html#abcfed6b9b46ce48a15b31d062a1618f4":[6,0,2130,1],
 "d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html":[6,0,2193,0],
 "d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a04f9c7056e063d436df66f079127d1a7":[6,0,2193,0,6],
-"d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a194a615eef3651cdc97d4e4ad57bf017":[6,0,2193,0,7],
-"d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a5796a96626937e1026cc1fec0eba4e0b":[6,0,2193,0,4]
+"d9/d5e/structnpc__tortured__rifleman_1_1npc__tortured__riflemanAI.html#a194a615eef3651cdc97d4e4ad57bf017":[6,0,2193,0,7]
 };

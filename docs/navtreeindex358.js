@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"de/d62/structboss__void__reaver.html#adc234fc43308771a42d99049876cad1b":[6,0,768,3],
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html":[6,0,1173,0],
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html#a3df147478af8930d9b6108a183e9478f":[6,0,1173,0,1],
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html#af8c28f9d3ddf5fa3591433268d14fc98":[6,0,1173,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d72/namespacelfg.html#a64b5a722b95a52923e0ddaae1402b8de":[5,0,18,21],
 "de/d72/namespacelfg.html#a65f1d8636d10579769f79b63216ff29d":[5,0,18,37],
 "de/d72/namespacelfg.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d":[5,0,18,55],
-"de/d72/namespacelfg.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e":[5,0,18,55,1],
-"de/d72/namespacelfg.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c":[5,0,18,55,0]
+"de/d72/namespacelfg.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e":[5,0,18,55,1]
 };

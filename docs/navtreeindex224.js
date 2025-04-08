@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2898,2],
 "d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2898,1],
 "d8/dd8/ObjectMgr_8cpp.html":[7,0,0,0,1,2,18,2],
 "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,2,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2117,1],
 "d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2117,2],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html":[6,0,524,0],
-"d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8":[6,0,524,0,11],
-"d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a211387ae4f89d54a22a4f8515239d1c3":[6,0,524,0,6]
+"d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8":[6,0,524,0,11]
 };

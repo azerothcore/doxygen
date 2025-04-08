@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d95/classPoolMgr.html#a3ddc8dd692447fe23a7c8a0a4f552a71":[6,0,2418,23],
 "d7/d95/classPoolMgr.html#a4086f3b6424d7b68be68cb330b1bca76":[6,0,2418,0],
 "d7/d95/classPoolMgr.html#a473736f3ce675869c426352a3878fff4":[6,0,2418,10],
 "d7/d95/classPoolMgr.html#a489f044a4c6b68ee48657d9d17b13719":[6,0,2418,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a814f7f6018e2553eba3f1201c2450d57":[6,0,817,0,14],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a88f94d8492724325c4f74b195caf806e":[6,0,817,0,26],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a891ad98b38be5eb90bb66bb59f0dc6e5":[6,0,817,0,17],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a908d4f4c44a9ae580ff1ce423edc8827":[6,0,817,0,4],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a93ab00bd475f7544450c53236f46f172":[6,0,817,0,23]
+"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a908d4f4c44a9ae580ff1ce423edc8827":[6,0,817,0,4]
 };

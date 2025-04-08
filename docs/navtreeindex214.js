@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d8/d6a/structnpc__bessy_1_1npc__bessyAI.html#a4197fb122299fd152e5da335bb832ae5":[6,0,1634,0,2],
 "d8/d6a/structnpc__bessy_1_1npc__bessyAI.html#a4611a8f41f66a1a846fb42ba1d4062c8":[6,0,1634,0,4],
 "d8/d6a/structnpc__bessy_1_1npc__bessyAI.html#ad1300a563888b34689bedf97c387707c":[6,0,1634,0,0],
 "d8/d6a/structnpc__bessy_1_1npc__bessyAI.html#aed64386629e52c3b65abadde54a63cc4":[6,0,1634,0,3],
@@ -14,8 +15,8 @@ var NAVTREEINDEX214 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2575,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2575,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2575,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,9,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,30,9,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,9,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,30,9,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,9,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,540],
@@ -248,6 +249,5 @@ var NAVTREEINDEX214 =
 "d8/d74/classWorldSession.html#a1ae7f4cb2cfd4a4daabb7cc2eb508a90":[4,1,19,44],
 "d8/d74/classWorldSession.html#a1b35c9cc44f1bec257a2c20140c11646":[4,1,19,578],
 "d8/d74/classWorldSession.html#a1b3b482720e4ec41a642139c9857062f":[4,1,19,328],
-"d8/d74/classWorldSession.html#a1b5912bbe8bf3615a21e98e7d0fbaa40":[4,1,19,277],
-"d8/d74/classWorldSession.html#a1ba673c5eec7773d4ef5c5863a7f5db2":[4,1,19,47]
+"d8/d74/classWorldSession.html#a1b5912bbe8bf3615a21e98e7d0fbaa40":[4,1,19,277]
 };

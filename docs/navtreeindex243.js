@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/de2/structCalcDamageInfo.html#af2976fa1245b3e3177dcbac464345829":[6,0,828,14],
 "d9/de2/structCalcDamageInfo.html#afd18e43bd78a9144c02ba0493921c506":[6,0,828,2],
 "d9/de3/classnpc__pos__collapsing__icicle.html":[6,0,2032],
 "d9/de3/classnpc__pos__collapsing__icicle.html#a42b29fe5d4e106c1e5e5b866a0074664":[6,0,2032,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/df5/structboss__sartharion__dragonAI.html#a9c664ff661a3e83b98e1a28c81d662b0":[6,0,682,4],
 "d9/df5/structboss__sartharion__dragonAI.html#a9e1fb29994441dd2d41aeb2c04205d7b":[6,0,682,1],
 "d9/df5/structboss__sartharion__dragonAI.html#aeb49e63300a317f0e969159266fd8ea1":[6,0,682,2],
-"d9/df5/structboss__sartharion__dragonAI.html#afffee05f402a1960232c7920beb9beb9":[6,0,682,0],
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html":[6,0,1319,0]
+"d9/df5/structboss__sartharion__dragonAI.html#afffee05f402a1960232c7920beb9beb9":[6,0,682,0]
 };

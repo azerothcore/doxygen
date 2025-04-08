@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"dc/d07/classnpc__captain__brandon.html":[6,0,1670],
 "dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1670,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1670,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3104],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2822],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2822,1],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[6,0,2822,0],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2822,2],
-"dc/d0d/cs__disable_8cpp.html":[7,0,0,0,1,3,0,12]
+"dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2822,2]
 };

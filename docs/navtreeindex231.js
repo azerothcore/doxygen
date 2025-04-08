@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a70db3eeeb55784250a13032728220005":[6,0,1338,0,0],
 "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a77e77209e779b774608f739b258ae419":[6,0,1338,0,1],
 "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a8ad4dab281db87bb2d14b925b450f09c":[6,0,1338,0,5],
 "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a9de605ffd8092f83af8df5c1725c5d2b":[6,0,1338,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a80051b1b2a663997304b1754a3f9ff25":[6,0,1836,0,1],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8852f9196a6609f317b6113ac2eee9ee":[6,0,1836,0,0],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8d8d6f1b8dc65b28a8117426e3767762":[6,0,1836,0,6],
-"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8e8ae990a6e70a70ce6de3a13300261c":[6,0,1836,0,4],
-"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#ac3c8dc2e5bf6e0c3f380f395a785ad49":[6,0,1836,0,3]
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8e8ae990a6e70a70ce6de3a13300261c":[6,0,1836,0,4]
 };

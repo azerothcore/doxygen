@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3348],
 "df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3348,1],
 "df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[6,0,3348,3],
 "df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3348,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa9a2f26b2dfa7410ebb0f092b520d1eb":[7,0,0,0,1,2,16,5,0,4,6,177],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaa2f0aab5c0e38d5a931ab7bd0b8ed21":[7,0,0,0,1,2,16,5,0,4,6,99],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaac5b3011fec8d6c674a9fadd0ba7619":[7,0,0,0,1,2,16,5,0,4,6,221],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaafe6f7e67a4d50b1d26e0a8f8a6d1df":[7,0,0,0,1,2,16,5,0,4,6,191],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab4868b631f1cfaf30faee627f7c9dbf":[7,0,0,0,1,2,16,5,0,4,6,31]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaafe6f7e67a4d50b1d26e0a8f8a6d1df":[7,0,0,0,1,2,16,5,0,4,6,191]
 };

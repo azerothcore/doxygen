@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d92/classLootTemplate_1_1LootGroup.html#ab306f81dc00d214e0ec8ac3903eff42e":[6,0,1450,0,15],
 "de/d92/classLootTemplate_1_1LootGroup.html#ac7690d157243edebe340baf2e274546f":[6,0,1450,0,4],
 "de/d92/classLootTemplate_1_1LootGroup.html#adee692736847d987093655aac3f23be8":[6,0,1450,0,9],
 "de/d92/classspell__frost__tomb__aura.html":[6,0,2861],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[6,0,4165,2],
 "de/da0/structLoadedHeightData.html":[6,0,1426],
 "de/da0/structLoadedHeightData.html#a1f989ab0921de350dc2410129028201f":[6,0,1426,5],
-"de/da0/structLoadedHeightData.html#a60a4a267b4164347e9f3ead6b5abfe14":[6,0,1426,8],
-"de/da0/structLoadedHeightData.html#aa04f68f079e1f488cf69acd24dcd7899":[6,0,1426,6]
+"de/da0/structLoadedHeightData.html#a60a4a267b4164347e9f3ead6b5abfe14":[6,0,1426,8]
 };
