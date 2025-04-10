@@ -40,7 +40,7 @@ var boss__mother__shahraz_8cpp =
       [ "SPELL_SABER_LASH_IMMUNITY", "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b196a6efe17ff73f768f2fd461fd026", null ]
     ] ],
     [ "AddSC_boss_mother_shahraz", "de/d97/boss__mother__shahraz_8cpp.html#a4f923bbee6110ea8127e4b559dd67661", null ],
-    [ "maxTeleportDist", "de/d97/boss__mother__shahraz_8cpp.html#a5d740091a0121c8267004a1b68b1f9a2", null ],
-    [ "minTeleportDist", "de/d97/boss__mother__shahraz_8cpp.html#a9ecd6e369833e9526c83f625dfd308b0", null ],
-    [ "validTeleportStairsPos", "de/d97/boss__mother__shahraz_8cpp.html#ab3b792167cb8c9fb6cb599df466aa45e", null ]
+    [ "maxTeleportDistSq", "de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d", null ],
+    [ "minTeleportDistSq", "de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7", null ],
+    [ "teleportPositions", "de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a", null ]
 ];

@@ -210,12 +210,12 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:ab3b792167cb8c9fb6cb599df466aa45e" id="r_ab3b792167cb8c9fb6cb599df466aa45e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d0/df4/structPosition.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#ab3b792167cb8c9fb6cb599df466aa45e">validTeleportStairsPos</a> [9]</td></tr>
-<tr class="separator:ab3b792167cb8c9fb6cb599df466aa45e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ecd6e369833e9526c83f625dfd308b0" id="r_a9ecd6e369833e9526c83f625dfd308b0"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#a9ecd6e369833e9526c83f625dfd308b0">minTeleportDist</a> = 30.f</td></tr>
-<tr class="separator:a9ecd6e369833e9526c83f625dfd308b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d740091a0121c8267004a1b68b1f9a2" id="r_a5d740091a0121c8267004a1b68b1f9a2"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#a5d740091a0121c8267004a1b68b1f9a2">maxTeleportDist</a> = 50.f</td></tr>
-<tr class="separator:a5d740091a0121c8267004a1b68b1f9a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2f32f15b6262419a3ae65c1e03571b7" id="r_aa2f32f15b6262419a3ae65c1e03571b7"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7">minTeleportDistSq</a> = 30.f * 30.f</td></tr>
+<tr class="separator:aa2f32f15b6262419a3ae65c1e03571b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f6047bf081000d04bc3e62773bb940d" id="r_a8f6047bf081000d04bc3e62773bb940d"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d">maxTeleportDistSq</a> = 50.f * 50.f</td></tr>
+<tr class="separator:a8f6047bf081000d04bc3e62773bb940d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affb3b1d0a5e58e190441a75a04fd086a" id="r_affb3b1d0a5e58e190441a75a04fd086a"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d0/df4/structPosition.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a">teleportPositions</a> [79]</td></tr>
+<tr class="separator:affb3b1d0a5e58e190441a75a04fd086a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
 <a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6"></a>
@@ -368,21 +368,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  329</span>{</div>
-<div class="line"><span class="lineno">  330</span>    <a class="code hl_define" href="../../dc/d2a/black__temple_8h.html#ab6382fded356896b4f184b37a938565f">RegisterBlackTempleCreatureAI</a>(<a class="code hl_struct" href="../../dc/db8/structboss__mother__shahraz.html">boss_mother_shahraz</a>);</div>
-<div class="line"><span class="lineno">  331</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d65/classspell__mother__shahraz__random__periodic__aura.html">spell_mother_shahraz_random_periodic_aura</a>);</div>
-<div class="line"><span class="lineno">  332</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d07/classspell__mother__shahraz__beam__periodic__aura.html">spell_mother_shahraz_beam_periodic_aura</a>);</div>
-<div class="line"><span class="lineno">  333</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/de1/classspell__mother__shahraz__saber__lash__aura.html">spell_mother_shahraz_saber_lash_aura</a>);</div>
-<div class="line"><span class="lineno">  334</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/dc5/classspell__mother__shahraz__fatal__attraction.html">spell_mother_shahraz_fatal_attraction</a>);</div>
-<div class="line"><span class="lineno">  335</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html">spell_mother_shahraz_fatal_attraction_dummy</a>);</div>
-<div class="line"><span class="lineno">  336</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  375</span>{</div>
+<div class="line"><span class="lineno">  376</span>    <a class="code hl_define" href="../../dc/d2a/black__temple_8h.html#ab6382fded356896b4f184b37a938565f">RegisterBlackTempleCreatureAI</a>(<a class="code hl_struct" href="../../dc/db8/structboss__mother__shahraz.html">boss_mother_shahraz</a>);</div>
+<div class="line"><span class="lineno">  377</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d65/classspell__mother__shahraz__random__periodic__aura.html">spell_mother_shahraz_random_periodic_aura</a>);</div>
+<div class="line"><span class="lineno">  378</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d07/classspell__mother__shahraz__beam__periodic__aura.html">spell_mother_shahraz_beam_periodic_aura</a>);</div>
+<div class="line"><span class="lineno">  379</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/de1/classspell__mother__shahraz__saber__lash__aura.html">spell_mother_shahraz_saber_lash_aura</a>);</div>
+<div class="line"><span class="lineno">  380</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/dc5/classspell__mother__shahraz__fatal__attraction.html">spell_mother_shahraz_fatal_attraction</a>);</div>
+<div class="line"><span class="lineno">  381</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html">spell_mother_shahraz_fatal_attraction_dummy</a>);</div>
+<div class="line"><span class="lineno">  382</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
 <div class="ttc" id="ablack__temple_8h_html_ab6382fded356896b4f184b37a938565f"><div class="ttname"><a href="../../dc/d2a/black__temple_8h.html#ab6382fded356896b4f184b37a938565f">RegisterBlackTempleCreatureAI</a></div><div class="ttdeci">#define RegisterBlackTempleCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> black_temple.h:130</div></div>
-<div class="ttc" id="aclassspell__mother__shahraz__beam__periodic__aura_html"><div class="ttname"><a href="../../df/d07/classspell__mother__shahraz__beam__periodic__aura.html">spell_mother_shahraz_beam_periodic_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:161</div></div>
-<div class="ttc" id="aclassspell__mother__shahraz__fatal__attraction__dummy_html"><div class="ttname"><a href="../../df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html">spell_mother_shahraz_fatal_attraction_dummy</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:292</div></div>
-<div class="ttc" id="aclassspell__mother__shahraz__fatal__attraction_html"><div class="ttname"><a href="../../da/dc5/classspell__mother__shahraz__fatal__attraction.html">spell_mother_shahraz_fatal_attraction</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:222</div></div>
-<div class="ttc" id="aclassspell__mother__shahraz__random__periodic__aura_html"><div class="ttname"><a href="../../d2/d65/classspell__mother__shahraz__random__periodic__aura.html">spell_mother_shahraz_random_periodic_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:139</div></div>
-<div class="ttc" id="aclassspell__mother__shahraz__saber__lash__aura_html"><div class="ttname"><a href="../../df/de1/classspell__mother__shahraz__saber__lash__aura.html">spell_mother_shahraz_saber_lash_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:178</div></div>
+<div class="ttc" id="aclassspell__mother__shahraz__beam__periodic__aura_html"><div class="ttname"><a href="../../df/d07/classspell__mother__shahraz__beam__periodic__aura.html">spell_mother_shahraz_beam_periodic_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:165</div></div>
+<div class="ttc" id="aclassspell__mother__shahraz__fatal__attraction__dummy_html"><div class="ttname"><a href="../../df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html">spell_mother_shahraz_fatal_attraction_dummy</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:338</div></div>
+<div class="ttc" id="aclassspell__mother__shahraz__fatal__attraction_html"><div class="ttname"><a href="../../da/dc5/classspell__mother__shahraz__fatal__attraction.html">spell_mother_shahraz_fatal_attraction</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:291</div></div>
+<div class="ttc" id="aclassspell__mother__shahraz__random__periodic__aura_html"><div class="ttname"><a href="../../d2/d65/classspell__mother__shahraz__random__periodic__aura.html">spell_mother_shahraz_random_periodic_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:143</div></div>
+<div class="ttc" id="aclassspell__mother__shahraz__saber__lash__aura_html"><div class="ttname"><a href="../../df/de1/classspell__mother__shahraz__saber__lash__aura.html">spell_mother_shahraz_saber_lash_aura</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:182</div></div>
 <div class="ttc" id="astructboss__mother__shahraz_html"><div class="ttname"><a href="../../dc/db8/structboss__mother__shahraz.html">boss_mother_shahraz</a></div><div class="ttdef"><b>Definition</b> boss_mother_shahraz.cpp:66</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00130">RegisterBlackTempleCreatureAI</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
@@ -392,8 +392,8 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a5d740091a0121c8267004a1b68b1f9a2" name="a5d740091a0121c8267004a1b68b1f9a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5d740091a0121c8267004a1b68b1f9a2">&#9670;&#160;</a></span>maxTeleportDist</h2>
+<a id="a8f6047bf081000d04bc3e62773bb940d" name="a8f6047bf081000d04bc3e62773bb940d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f6047bf081000d04bc3e62773bb940d">&#9670;&#160;</a></span>maxTeleportDistSq</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -402,7 +402,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr float maxTeleportDist = 50.f</td>
+          <td class="memname">constexpr float maxTeleportDistSq = 50.f * 50.f</td>
         </tr>
       </table>
   </td>
@@ -412,12 +412,12 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00304">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
 
 </div>
 </div>
-<a id="a9ecd6e369833e9526c83f625dfd308b0" name="a9ecd6e369833e9526c83f625dfd308b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ecd6e369833e9526c83f625dfd308b0">&#9670;&#160;</a></span>minTeleportDist</h2>
+<a id="aa2f32f15b6262419a3ae65c1e03571b7" name="aa2f32f15b6262419a3ae65c1e03571b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2f32f15b6262419a3ae65c1e03571b7">&#9670;&#160;</a></span>minTeleportDistSq</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -426,7 +426,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr float minTeleportDist = 30.f</td>
+          <td class="memname">constexpr float minTeleportDistSq = 30.f * 30.f</td>
         </tr>
       </table>
   </td>
@@ -436,56 +436,104 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00304">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
 
 </div>
 </div>
-<a id="ab3b792167cb8c9fb6cb599df466aa45e" name="ab3b792167cb8c9fb6cb599df466aa45e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3b792167cb8c9fb6cb599df466aa45e">&#9670;&#160;</a></span>validTeleportStairsPos</h2>
+<a id="affb3b1d0a5e58e190441a75a04fd086a" name="affb3b1d0a5e58e190441a75a04fd086a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affb3b1d0a5e58e190441a75a04fd086a">&#9670;&#160;</a></span>teleportPositions</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d0/df4/structPosition.html">Position</a> validTeleportStairsPos[9]</td>
+          <td class="memname">const <a class="el" href="../../d0/df4/structPosition.html">Position</a> teleportPositions[79]</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    </div>
-<div class="line"> </div>
-<div class="line">    {945.00f, 149.17f, 197.07483},</div>
-<div class="line">    {956.92f, 153.20f, 197.07483},</div>
-<div class="line">    {933.69f, 154.15f, 197.07483},</div>
-<div class="line"> </div>
-<div class="line">    </div>
-<div class="line"> </div>
-<div class="line">    {966.87f, 184.45f, 192.84f},</div>
-<div class="line">    {927.22f, 187.04f, 192.84f},</div>
-<div class="line">    {922.54f, 110.09f, 192.84f},</div>
-<div class="line">    {958.01f, 110.47f, 192.84f},</div>
-<div class="line">    {939.95f, 108.29f, 192.84f},</div>
-<div class="line">    {945.68f, 205.74f, 192.84f}</div>
-<div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  201</span>{</div>
-<div class="line"><span class="lineno">  202</span>    <span class="comment">//Platform teleports</span></div>
-<div class="line"><span class="lineno">  203</span> </div>
-<div class="line"><span class="lineno">  204</span>    {945.00f, 149.17f, 197.07483},</div>
-<div class="line"><span class="lineno">  205</span>    {956.92f, 153.20f, 197.07483},</div>
-<div class="line"><span class="lineno">  206</span>    {933.69f, 154.15f, 197.07483},</div>
-<div class="line"><span class="lineno">  207</span> </div>
-<div class="line"><span class="lineno">  208</span>    <span class="comment">//Floor teleports</span></div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    {966.87f, 184.45f, 192.84f},</div>
-<div class="line"><span class="lineno">  211</span>    {927.22f, 187.04f, 192.84f},</div>
-<div class="line"><span class="lineno">  212</span>    {922.54f, 110.09f, 192.84f},</div>
-<div class="line"><span class="lineno">  213</span>    {958.01f, 110.47f, 192.84f},</div>
-<div class="line"><span class="lineno">  214</span>    {939.95f, 108.29f, 192.84f},</div>
-<div class="line"><span class="lineno">  215</span>    {945.68f, 205.74f, 192.84f}</div>
-<div class="line"><span class="lineno">  216</span>};</div>
+<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
+<div class="line"><span class="lineno">  209</span>    {918.581, 110.065, 192.849},</div>
+<div class="line"><span class="lineno">  210</span>    {943.493, 108.279, 192.847},</div>
+<div class="line"><span class="lineno">  211</span>    {964.335, 109.774, 192.836},</div>
+<div class="line"><span class="lineno">  212</span>    {971.987, 148.678, 192.820},</div>
+<div class="line"><span class="lineno">  213</span>    {956.107, 146.804, 197.075},</div>
+<div class="line"><span class="lineno">  214</span>    {934.990, 144.492, 197.075},</div>
+<div class="line"><span class="lineno">  215</span>    {916.477, 143.932, 192.829},</div>
+<div class="line"><span class="lineno">  216</span>    {921.147, 167.942, 192.827},</div>
+<div class="line"><span class="lineno">  217</span>    {925.678, 184.302, 192.838},</div>
+<div class="line"><span class="lineno">  218</span>    {940.993, 181.637, 192.463},</div>
+<div class="line"><span class="lineno">  219</span>    {948.525, 193.635, 191.906},</div>
+<div class="line"><span class="lineno">  220</span>    {965.403, 179.717, 192.832},</div>
+<div class="line"><span class="lineno">  221</span>    {966.440, 197.428, 192.840},</div>
+<div class="line"><span class="lineno">  222</span>    {959.519, 218.769, 192.846},</div>
+<div class="line"><span class="lineno">  223</span>    {943.849, 208.796, 191.209},</div>
+<div class="line"><span class="lineno">  224</span>    {931.741, 199.204, 192.846},</div>
+<div class="line"><span class="lineno">  225</span>    {931.808, 220.284, 192.845},</div>
+<div class="line"><span class="lineno">  226</span>    {945.203, 232.269, 191.208},</div>
+<div class="line"><span class="lineno">  227</span>    {966.960, 236.315, 192.842},</div>
+<div class="line"><span class="lineno">  228</span>    {966.079, 258.634, 192.822},</div>
+<div class="line"><span class="lineno">  229</span>    {945.193, 252.556, 191.208},</div>
+<div class="line"><span class="lineno">  230</span>    {924.433, 235.585, 192.842},</div>
+<div class="line"><span class="lineno">  231</span>    {919.422, 250.186, 192.820},</div>
+<div class="line"><span class="lineno">  232</span>    {923.024, 271.408, 192.368},</div>
+<div class="line"><span class="lineno">  233</span>    {928.982, 283.581, 192.368},</div>
+<div class="line"><span class="lineno">  234</span>    {923.807, 302.435, 192.854},</div>
+<div class="line"><span class="lineno">  235</span>    {925.547, 316.368, 192.830},</div>
+<div class="line"><span class="lineno">  236</span>    {922.124, 330.724, 192.842},</div>
+<div class="line"><span class="lineno">  237</span>    {926.061, 343.538, 192.848},</div>
+<div class="line"><span class="lineno">  238</span>    {947.211, 351.582, 191.208},</div>
+<div class="line"><span class="lineno">  239</span>    {965.287, 351.110, 192.850},</div>
+<div class="line"><span class="lineno">  240</span>    {964.311, 340.715, 192.850},</div>
+<div class="line"><span class="lineno">  241</span>    {971.435, 328.932, 192.850},</div>
+<div class="line"><span class="lineno">  242</span>    {979.385, 318.413, 192.843},</div>
+<div class="line"><span class="lineno">  243</span>    {962.361, 304.283, 192.839},</div>
+<div class="line"><span class="lineno">  244</span>    {964.359, 287.723, 192.835},</div>
+<div class="line"><span class="lineno">  245</span>    {961.600, 270.791, 192.829},</div>
+<div class="line"><span class="lineno">  246</span>    {945.802, 267.542, 191.208},</div>
+<div class="line"><span class="lineno">  247</span>    {948.130, 284.002, 191.208},</div>
+<div class="line"><span class="lineno">  248</span>    {940.823, 299.090, 191.208},</div>
+<div class="line"><span class="lineno">  249</span>    {949.039, 314.410, 191.208},</div>
+<div class="line"><span class="lineno">  250</span>    {941.133, 334.733, 191.208},</div>
+<div class="line"><span class="lineno">  251</span>    {956.045, 329.034, 192.834},</div>
+<div class="line"><span class="lineno">  252</span>    {956.605, 247.336, 192.828},</div>
+<div class="line"><span class="lineno">  253</span>    {931.937, 244.108, 192.819},</div>
+<div class="line"><span class="lineno">  254</span>    {938.510, 158.778, 197.075},</div>
+<div class="line"><span class="lineno">  255</span>    {928.364, 208.923, 192.847},</div>
+<div class="line"><span class="lineno">  256</span>    {962.436, 205.330, 192.847},</div>
+<div class="line"><span class="lineno">  257</span>    {955.670, 346.279, 192.849},</div>
+<div class="line"><span class="lineno">  258</span>    {931.286, 324.910, 192.819},</div>
+<div class="line"><span class="lineno">  259</span>    {962.375, 317.202, 192.838},</div>
+<div class="line"><span class="lineno">  260</span>    {956.159, 292.589, 192.834},</div>
+<div class="line"><span class="lineno">  261</span>    {934.550, 274.786, 192.368},</div>
+<div class="line"><span class="lineno">  262</span>    {921.056, 287.731, 192.368},</div>
+<div class="line"><span class="lineno">  263</span>    {956.248, 262.074, 192.829},</div>
+<div class="line"><span class="lineno">  264</span>    {955.738, 231.656, 192.836},</div>
+<div class="line"><span class="lineno">  265</span>    {934.566, 231.991, 192.838},</div>
+<div class="line"><span class="lineno">  266</span>    {956.050, 198.811, 192.841},</div>
+<div class="line"><span class="lineno">  267</span>    {939.707, 193.020, 191.923},</div>
+<div class="line"><span class="lineno">  268</span>    {940.500, 259.348, 191.208},</div>
+<div class="line"><span class="lineno">  269</span>    {948.237, 304.773, 191.208},</div>
+<div class="line"><span class="lineno">  270</span>    {923.764, 176.246, 192.832},</div>
+<div class="line"><span class="lineno">  271</span>    {960.474, 187.324, 192.833},</div>
+<div class="line"><span class="lineno">  272</span>    {968.408, 168.684, 192.825},</div>
+<div class="line"><span class="lineno">  273</span>    {967.788, 126.891, 192.822},</div>
+<div class="line"><span class="lineno">  274</span>    {930.301, 118.605, 192.847},</div>
+<div class="line"><span class="lineno">  275</span>    {952.902, 159.420, 197.075},</div>
+<div class="line"><span class="lineno">  276</span>    {931.728, 291.711, 192.368},</div>
+<div class="line"><span class="lineno">  277</span>    {950.031, 276.024, 191.208},</div>
+<div class="line"><span class="lineno">  278</span>    {943.486, 243.084, 191.208},</div>
+<div class="line"><span class="lineno">  279</span>    {950.499, 223.192, 191.208},</div>
+<div class="line"><span class="lineno">  280</span>    {940.605, 218.999, 191.208},</div>
+<div class="line"><span class="lineno">  281</span>    {949.264, 183.562, 192.380},</div>
+<div class="line"><span class="lineno">  282</span>    {950.100, 207.404, 191.241},</div>
+<div class="line"><span class="lineno">  283</span>    {969.982, 187.897, 192.837},</div>
+<div class="line"><span class="lineno">  284</span>    {931.661, 185.178, 192.831},</div>
+<div class="line"><span class="lineno">  285</span>    {924.498, 193.739, 192.847},</div>
+<div class="line"><span class="lineno">  286</span>    {966.774, 226.680, 192.847},</div>
+<div class="line"><span class="lineno">  287</span>    {953.118, 121.170, 192.822},</div>
+<div class="line"><span class="lineno">  288</span> };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00235">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00304">spell_mother_shahraz_fatal_attraction::SetDest()</a>.</p>
 
 </div>
 </div>
@@ -495,7 +543,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_2ed3c669151de9056318ddb9d5154bad.html">BlackTemple</a></li><li class="navelem"><a class="el" href="../../de/d97/boss__mother__shahraz_8cpp.html">boss_mother_shahraz.cpp</a></li>
-    <li class="footer">Generated on Wed Apr 9 2025 06:22:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Apr 10 2025 06:22:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
