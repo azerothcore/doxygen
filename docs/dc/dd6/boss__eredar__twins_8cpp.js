@@ -7,10 +7,6 @@ var boss__eredar__twins_8cpp =
     [ "spell_eredar_twins_blaze", "d6/d40/classspell__eredar__twins__blaze.html", "d6/d40/classspell__eredar__twins__blaze" ],
     [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", "da/d2e/classspell__eredar__twins__handle__touch__periodic" ],
     [ "at_sunwell_eredar_twins", "d2/d59/classat__sunwell__eredar__twins.html", "d2/d59/classat__sunwell__eredar__twins" ],
-    [ "Misc", "dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACTION_SISTER_DIED", "dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91bbcc3808c94e9f9f27c03c1cb93002", null ],
-      [ "GROUP_SPECIAL_ABILITY", "dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29a371143c4e7f8140404f7d8f9a29ee", null ]
-    ] ],
     [ "Quotes", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c", [
       [ "YELL_INTRO_SAC", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e", null ],
       [ "YELL_SAC_DEAD", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca80e1007c0c857be3a47cce7979fa8056", null ],
@@ -44,6 +40,12 @@ var boss__eredar__twins_8cpp =
       [ "SPELL_FLAME_SEAR", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35", null ],
       [ "SPELL_BLAZE", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872", null ],
       [ "SPELL_BLAZE_SUMMON", "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882", null ]
+    ] ],
+    [ "TwinPhases", "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7ec", [
+      [ "ACTION_SISTER_DIED", "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca91bbcc3808c94e9f9f27c03c1cb93002", null ],
+      [ "GROUP_SPECIAL_ABILITY", "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca29a371143c4e7f8140404f7d8f9a29ee", null ],
+      [ "GROUP_PYROGENICS", "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca1fc81e84c9fd36562ef930b498151954", null ],
+      [ "GROUP_FLAME_SEAR", "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca9c18ef85f72e2f6f200c311478e6f5e8", null ]
     ] ],
     [ "AddSC_boss_eredar_twins", "dc/dd6/boss__eredar__twins_8cpp.html#a4238aa2876674ff2a30a35f891057d84", null ]
 ];

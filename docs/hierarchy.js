@@ -5685,6 +5685,7 @@ var hierarchy =
           [ "npc_stolen_soul", "d9/d5e/structnpc__stolen__soul.html", null ],
           [ "npc_storm_cloud::npc_storm_cloudAI", "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html", null ],
           [ "npc_stormforged_lieutenant::npc_stormforged_lieutenantAI", "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html", null ],
+          [ "npc_sunblade_arch_mage", "d8/df4/structnpc__sunblade__arch__mage.html", null ],
           [ "npc_sunblade_scout", "d6/d6b/structnpc__sunblade__scout.html", null ],
           [ "npc_supervisor_raelen", "db/d3d/structnpc__supervisor__raelen.html", null ],
           [ "npc_suppresser::npc_suppresserAI", "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html", null ],

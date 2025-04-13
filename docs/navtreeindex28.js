@@ -1,12 +1,12 @@
 var NAVTREEINDEX28 =
 {
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[5,0,1,20,2],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[5,0,1,20,5],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[6,0,0,8,5],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[5,0,1,20,4],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[5,0,1,20,5],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[6,0,0,8,4],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#adbabf871f33692b0ecddc8cc0fb75586":[5,0,1,20,3],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[5,0,1,20,4],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#adbabf871f33692b0ecddc8cc0fb75586":[6,0,0,8,3],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#adbabf871f33692b0ecddc8cc0fb75586":[5,0,1,20,3],
 "d1/d2d/classnpc__icc__severed__essence.html":[6,0,1865],
 "d1/d2d/classnpc__icc__severed__essence.html#a74b8dbb95f3dc31b514a2d7ac1f18190":[6,0,1865,2],
 "d1/d2d/classnpc__icc__severed__essence.html#ace5b55755ef1dff3bd08a67fe2f64f94":[6,0,1865,1],

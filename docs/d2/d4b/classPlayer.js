@@ -1112,7 +1112,7 @@ var classPlayer =
     [ "UpdateVisibilityOf", "d2/d4b/classPlayer.html#a97f139b9451ce823fc7a6e4cf23648f9", null ],
     [ "UpdateVisibilityOf", "d2/d4b/classPlayer.html#a561292db1465ce3928026072248c66b2", null ],
     [ "UpdateWeaponSkill", "d2/d4b/classPlayer.html#af4fced5dcb84897847aea9065a9b7893", null ],
-    [ "UpdateZone", "d2/d4b/classPlayer.html#a4be52721d9d46fb2e23681652f868f03", null ],
+    [ "UpdateZone", "d2/d4b/classPlayer.html#a6fd5c54594f0f9addc0d0eda27aaa3e6", null ],
     [ "UpdateZoneDependentAuras", "d2/d4b/classPlayer.html#ab3a73c835c52cd903ab0112a5bc4e7f0", null ],
     [ "VehicleSpellInitialize", "d2/d4b/classPlayer.html#ad46f720cf4699c8a2a9f4e0b2fad33b5", null ],
     [ "VisualizeItem", "d2/d4b/classPlayer.html#ada6b54fb29b73da44cb2e816989eab1d", null ],

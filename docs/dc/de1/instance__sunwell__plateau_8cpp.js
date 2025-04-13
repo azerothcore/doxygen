@@ -5,6 +5,7 @@ var instance__sunwell__plateau_8cpp =
     [ "spell_cataclysm_breath", "d8/d92/classspell__cataclysm__breath.html", "d8/d92/classspell__cataclysm__breath" ],
     [ "npc_sunblade_scout", "d6/d6b/structnpc__sunblade__scout.html", "d6/d6b/structnpc__sunblade__scout" ],
     [ "spell_sunwell_teleport", "d4/d6e/classspell__sunwell__teleport.html", "d4/d6e/classspell__sunwell__teleport" ],
+    [ "npc_sunblade_arch_mage", "d8/df4/structnpc__sunblade__arch__mage.html", "d8/df4/structnpc__sunblade__arch__mage" ],
     [ "cataclysmBreath", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
@@ -14,6 +15,11 @@ var instance__sunwell__plateau_8cpp =
       [ "SPELL_SHRINK", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
       [ "SPELL_WAVERING_WILL", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
       [ "SPELL_WITHERED_TOUCH", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
+    ] ],
+    [ "SunbladeArchMageSpells", "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8", [
+      [ "SPELL_ARCANE_EXPLOSION", "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_BLINK", "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a", null ],
+      [ "SPELL_FROST_NOVA", "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03", null ]
     ] ],
     [ "SunbladeScout", "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bc", [
       [ "NPC_SUNBLADE_PROTECTOR", "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],

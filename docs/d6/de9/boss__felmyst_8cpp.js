@@ -22,6 +22,7 @@ var boss__felmyst_8cpp =
       [ "POINT_KALECGOS", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae28afffba3897232433dfda687d84c90", null ],
       [ "GROUP_START_INTRO", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587", null ],
       [ "GROUP_BREATH", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1", null ],
+      [ "GROUP_TAKEOFF", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abbedbfba7b17057e4023a239034e5a2d", null ],
       [ "NPC_FOG_TRIGGER", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af", null ],
       [ "NPC_KALECGOS_FELMYST", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1e303b4d4bf9ea5161f503fcfdb062e", null ],
       [ "NPC_WORLD_TRIGGER_RIGHT", "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a350b4672450d7269211c926ef5605dc9", null ]

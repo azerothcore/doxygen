@@ -186,7 +186,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  427</span>: <a class="code hl_class" href="../../d7/d4b/classOnlyOnceAreaTriggerScript.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_sunwell_eredar_twins&quot;</span>) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">  440</span>: <a class="code hl_class" href="../../d7/d4b/classOnlyOnceAreaTriggerScript.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_sunwell_eredar_twins&quot;</span>) {}</div>
 <div class="ttc" id="aclassOnlyOnceAreaTriggerScript_html"><div class="ttname"><a href="../../d7/d4b/classOnlyOnceAreaTriggerScript.html">OnlyOnceAreaTriggerScript</a></div><div class="ttdef"><b>Definition</b> AreaTriggerScript.h:36</div></div>
 </div><!-- fragment -->
 </div>
@@ -227,17 +227,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d4b/classOnlyOnceAreaTriggerScript.html#a6da93a21c84345bd77e467377810e756">OnlyOnceAreaTriggerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  430</span>    {</div>
-<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  432</span>        {</div>
-<div class="line"><span class="lineno">  433</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aa86c2b3ac5b210b93944b79a6179c22c">DATA_SACROLASH</a>))</div>
-<div class="line"><span class="lineno">  434</span>                creature-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e">YELL_INTRO_SAC</a>);</div>
-<div class="line"><span class="lineno">  435</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a8246e6f09af146dd70ba1348c33736a9">DATA_ALYTHESS</a>))</div>
-<div class="line"><span class="lineno">  436</span>                creature-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca59b21838a37237aec009c9e25096091f">YELL_INTRO_ALY</a>);</div>
-<div class="line"><span class="lineno">  437</span>        }</div>
-<div class="line"><span class="lineno">  438</span> </div>
-<div class="line"><span class="lineno">  439</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  440</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  443</span>    {</div>
+<div class="line"><span class="lineno">  444</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  445</span>        {</div>
+<div class="line"><span class="lineno">  446</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aa86c2b3ac5b210b93944b79a6179c22c">DATA_SACROLASH</a>))</div>
+<div class="line"><span class="lineno">  447</span>                creature-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e">YELL_INTRO_SAC</a>);</div>
+<div class="line"><span class="lineno">  448</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a8246e6f09af146dd70ba1348c33736a9">DATA_ALYTHESS</a>))</div>
+<div class="line"><span class="lineno">  449</span>                creature-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca59b21838a37237aec009c9e25096091f">YELL_INTRO_ALY</a>);</div>
+<div class="line"><span class="lineno">  450</span>        }</div>
+<div class="line"><span class="lineno">  451</span> </div>
+<div class="line"><span class="lineno">  452</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  453</span>    }</div>
 <div class="ttc" id="aboss__eredar__twins_8cpp_html_a3f2ffdc8d4bc224b9ab0264dab54463ca59b21838a37237aec009c9e25096091f"><div class="ttname"><a href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca59b21838a37237aec009c9e25096091f">YELL_INTRO_ALY</a></div><div class="ttdeci">@ YELL_INTRO_ALY</div><div class="ttdef"><b>Definition</b> boss_eredar_twins.cpp:38</div></div>
 <div class="ttc" id="aboss__eredar__twins_8cpp_html_a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e"><div class="ttname"><a href="../../dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e">YELL_INTRO_SAC</a></div><div class="ttdeci">@ YELL_INTRO_SAC</div><div class="ttdef"><b>Definition</b> boss_eredar_twins.cpp:30</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
@@ -259,7 +259,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d59/classat__sunwell__eredar__twins.html">at_sunwell_eredar_twins</a></li>
-    <li class="footer">Generated on Sat Apr 12 2025 06:19:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 13 2025 06:20:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

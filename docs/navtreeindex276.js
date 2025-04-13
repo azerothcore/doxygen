@@ -1,5 +1,12 @@
 var NAVTREEINDEX276 =
 {
+"db/d6a/classnpc__marzon__silent__blade.html#a8fa1c0e11555df45005f37fd9de7f3a8":[6,0,1945,1],
+"db/d6a/classnpc__marzon__silent__blade.html#aadde9b84b46c594e41ae8ca3ae0265a1":[6,0,1945,2],
+"db/d6a/classspell__spawn__drakonid.html":[6,0,3789],
+"db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[6,0,3789,0],
+"db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[6,0,3789,1],
+"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[6,0,3789,2],
+"db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[6,0,3789,3],
 "db/d6d/classnpc__argent__soldier.html":[6,0,1603],
 "db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[6,0,1603,1],
 "db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1603,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX276 =
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29":[7,0,0,0,1,3,9,4,133],
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e":[7,0,0,0,1,3,9,4,133,2],
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6":[7,0,0,0,1,3,9,4,133,3],
-"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926":[7,0,0,0,1,3,9,4,133,1],
-"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a":[7,0,0,0,1,3,9,4,133,0],
-"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167":[7,0,0,0,1,3,9,4,133,4],
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfa":[7,0,0,0,1,3,9,4,177],
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa81919b9e4b86cb71f414dd9f4a26b828":[7,0,0,0,1,3,9,4,177,1],
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa878a8110f37d65985990578925b51e8b":[7,0,0,0,1,3,9,4,177,0],
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa9435c1a867755c85d7441044de224455":[7,0,0,0,1,3,9,4,177,3],
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaabe82f02066d4e94d02c9b27f63cd6b16":[7,0,0,0,1,3,9,4,177,2]
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926":[7,0,0,0,1,3,9,4,133,1]
 };

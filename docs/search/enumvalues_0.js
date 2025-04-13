@@ -546,7 +546,7 @@ var searchData=
   ['action_5fsimon_5fcorrect_5ffull_5fsequence_543',['ACTION_SIMON_CORRECT_FULL_SEQUENCE',['../d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643ab7015613e99976dfb4eadf9b9a874fc6',1,'zone_blades_edge_mountains.cpp']]],
   ['action_5fsimon_5fround_5ffinished_544',['ACTION_SIMON_ROUND_FINISHED',['../d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a3848528b496b9b76a2c4f86864179b2c',1,'zone_blades_edge_mountains.cpp']]],
   ['action_5fsimon_5fwrong_5fsequence_545',['ACTION_SIMON_WRONG_SEQUENCE',['../d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a98a877a8aaf4751df02483f3d84afa68',1,'zone_blades_edge_mountains.cpp']]],
-  ['action_5fsister_5fdied_546',['ACTION_SISTER_DIED',['../dc/dd6/boss__eredar__twins_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91bbcc3808c94e9f9f27c03c1cb93002',1,'boss_eredar_twins.cpp']]],
+  ['action_5fsister_5fdied_546',['ACTION_SISTER_DIED',['../dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca91bbcc3808c94e9f9f27c03c1cb93002',1,'boss_eredar_twins.cpp']]],
   ['action_5fsjonnir_5fdead_547',['ACTION_SJONNIR_DEAD',['../d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235aeed311e3fce51bb88993720c4b33a2b4',1,'halls_of_stone.h']]],
   ['action_5fsjonnir_5fwipe_5fstart_548',['ACTION_SJONNIR_WIPE_START',['../d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a9d70ae3336d33b6843b8bb6f763e8ce8',1,'halls_of_stone.h']]],
   ['action_5fskip_5fintro_549',['ACTION_SKIP_INTRO',['../d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cae74ebce3c74174fa436fba349a06089f',1,'halls_of_reflection.h']]],
