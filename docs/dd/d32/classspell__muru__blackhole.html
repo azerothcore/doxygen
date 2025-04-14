@@ -319,7 +319,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  372</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  373</span> </div>
 <div class="line"><span class="lineno">  374</span>        <a class="code hl_class" href="../../de/df5/classWorldLocation.html">WorldLocation</a> summonPos = *<a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>();</div>
-<div class="line"><span class="lineno">  375</span>        <span class="keywordtype">float</span> destZ = summonPos.<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() - <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac6c188d445c62a56714e2ba8dd2ab684">GetMapWaterOrGroundLevel</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPosition());</div>
+<div class="line"><span class="lineno">  375</span>        <span class="keywordtype">float</span> destZ = summonPos.<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() - <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac6c188d445c62a56714e2ba8dd2ab684">GetMapWaterOrGroundLevel</a>(summonPos);</div>
 <div class="line"><span class="lineno">  376</span>        <a class="code hl_struct" href="../../d0/df4/structPosition.html">Position</a> offset = { 0.0f, 0.0f, -destZ, 0.0f};</div>
 <div class="line"><span class="lineno">  377</span>        summonPos.<a class="code hl_function" href="../../d0/df4/structPosition.html#a1ee5670db2621e59adf12c225e726cd7">RelocateOffset</a>(offset);</div>
 <div class="line"><span class="lineno">  378</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a256e6f9b002c24080d76850bd2828b01">SetExplTargetDest</a>(summonPos);</div>
@@ -413,7 +413,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d32/classspell__muru__blackhole.html">spell_muru_blackhole</a></li>
-    <li class="footer">Generated on Sun Apr 13 2025 06:21:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 14 2025 06:24:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
