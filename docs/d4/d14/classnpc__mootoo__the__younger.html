@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  902</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_mootoo_the_younger&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  909</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_mootoo_the_younger&quot;</span>) { }</div>
 <div class="ttc" id="aclassCreatureScript_html"><div class="ttname"><a href="../../df/dc9/classCreatureScript.html">CreatureScript</a></div><div class="ttdef"><b>Definition</b> CreatureScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -239,9 +239,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  963</span>    {</div>
-<div class="line"><span class="lineno">  964</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_mootoo_the_youngerAI(creature);</div>
-<div class="line"><span class="lineno">  965</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  970</span>    {</div>
+<div class="line"><span class="lineno">  971</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_mootoo_the_youngerAI(creature);</div>
+<div class="line"><span class="lineno">  972</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -286,16 +286,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  905</span>    {</div>
-<div class="line"><span class="lineno">  906</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>)</div>
-<div class="line"><span class="lineno">  907</span>        {</div>
-<div class="line"><span class="lineno">  908</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ab3ab97955295a89493b78e6ebcb80c43">FACTION_ESCORTEE_A_PASSIVE</a> : <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a719a8616c2bc862a0a67691b0cf0fc7f">FACTION_ESCORTEE_H_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  909</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
-<div class="line"><span class="lineno">  910</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab">SAY_1</a>, player);</div>
-<div class="line"><span class="lineno">  911</span>            <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()))-&gt;Start(<span class="keyword">true</span>, <span class="keyword">false</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  912</span>        }</div>
-<div class="line"><span class="lineno">  913</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  914</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  912</span>    {</div>
+<div class="line"><span class="lineno">  913</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>)</div>
+<div class="line"><span class="lineno">  914</span>        {</div>
+<div class="line"><span class="lineno">  915</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ab3ab97955295a89493b78e6ebcb80c43">FACTION_ESCORTEE_A_PASSIVE</a> : <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a719a8616c2bc862a0a67691b0cf0fc7f">FACTION_ESCORTEE_H_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  916</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
+<div class="line"><span class="lineno">  917</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab">SAY_1</a>, player);</div>
+<div class="line"><span class="lineno">  918</span>            <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()))-&gt;Start(<span class="keyword">true</span>, <span class="keyword">false</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  919</span>        }</div>
+<div class="line"><span class="lineno">  920</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  921</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:760</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac5c8e776fe109c83a63abe41eb5e80f2a719a8616c2bc862a0a67691b0cf0fc7f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a719a8616c2bc862a0a67691b0cf0fc7f">FACTION_ESCORTEE_H_PASSIVE</a></div><div class="ttdeci">@ FACTION_ESCORTEE_H_PASSIVE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:224</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac5c8e776fe109c83a63abe41eb5e80f2ab3ab97955295a89493b78e6ebcb80c43"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ab3ab97955295a89493b78e6ebcb80c43">FACTION_ESCORTEE_A_PASSIVE</a></div><div class="ttdeci">@ FACTION_ESCORTEE_A_PASSIVE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:223</div></div>
@@ -308,10 +308,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10097</div></div>
 <div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16778</div></div>
 <div class="ttc" id="astructnpc__escortAI_html"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a></div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:53</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a></div><div class="ttdeci">@ QUEST_ESCAPING_THE_MIST</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:896</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab">SAY_1</a></div><div class="ttdeci">@ SAY_1</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:889</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a></div><div class="ttdeci">@ QUEST_ESCAPING_THE_MIST</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:903</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab">SAY_1</a></div><div class="ttdeci">@ SAY_1</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:896</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00223">FACTION_ESCORTEE_A_PASSIVE</a>, <a class="el" href="../../#l00224">FACTION_ESCORTEE_H_PASSIVE</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00896">QUEST_ESCAPING_THE_MIST</a>, <a class="el" href="../../#l00889">SAY_1</a>, <a class="el" href="../../#l10097">Unit::SetFaction()</a>, <a class="el" href="../../#l16778">Unit::SetStandState()</a>, <a class="el" href="../../#l00050">CreatureAI::Talk()</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00223">FACTION_ESCORTEE_A_PASSIVE</a>, <a class="el" href="../../#l00224">FACTION_ESCORTEE_H_PASSIVE</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00903">QUEST_ESCAPING_THE_MIST</a>, <a class="el" href="../../#l00896">SAY_1</a>, <a class="el" href="../../#l10097">Unit::SetFaction()</a>, <a class="el" href="../../#l16778">Unit::SetStandState()</a>, <a class="el" href="../../#l00050">CreatureAI::Talk()</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
 
 </div>
 </div>
@@ -324,7 +324,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d14/classnpc__mootoo__the__younger.html">npc_mootoo_the_younger</a></li>
-    <li class="footer">Generated on Mon Apr 14 2025 06:23:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Apr 15 2025 06:22:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -5363,6 +5363,7 @@ var hierarchy =
           [ "npc_dalaran_warrior::npc_dalaran_warriorAI", "d3/d64/structnpc__dalaran__warrior_1_1npc__dalaran__warriorAI.html", null ],
           [ "npc_dancing_flames::npc_dancing_flamesAI", "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html", null ],
           [ "npc_daranelle::npc_daranelleAI", "d0/d35/structnpc__daranelle_1_1npc__daranelleAI.html", null ],
+          [ "npc_dark_fiend", "d8/d5d/structnpc__dark__fiend.html", null ],
           [ "npc_dark_iron_attack_generator", "df/d99/structnpc__dark__iron__attack__generator.html", null ],
           [ "npc_dark_iron_attack_mole_machine", "de/db1/structnpc__dark__iron__attack__mole__machine.html", null ],
           [ "npc_dark_iron_guzzler", "dc/db3/structnpc__dark__iron__guzzler.html", null ],

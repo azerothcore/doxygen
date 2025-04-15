@@ -1,7 +1,7 @@
 var searchData=
 [
   ['bag_0',['Bag',['../d6/dcc/classBag.html#ae0593c22c7dd8b32cab469af92fb200c',1,'Bag']]],
-  ['balance_1',['balance',['../de/d3a/classBIHWrap.html#a7a191f8c9d3b20807ef1db9be654ccd1',1,'BIHWrap::balance()'],['../da/d8d/structDynTreeImpl.html#a589f4028f0a9dca9901ad77fd71b44db',1,'DynTreeImpl::balance()'],['../d6/d7d/classDynamicMapTree.html#a1af866551a1ea151551ebb856797528d',1,'DynamicMapTree::balance()'],['../db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539',1,'RegularGrid2D::balance()'],['../d7/db0/classMap.html#aa1dddc6cf8d835c384f24136890a5e14',1,'Map::Balance()']]],
+  ['balance_1',['balance',['../d7/db0/classMap.html#aa1dddc6cf8d835c384f24136890a5e14',1,'Map::Balance()'],['../de/d3a/classBIHWrap.html#a7a191f8c9d3b20807ef1db9be654ccd1',1,'BIHWrap::balance()'],['../da/d8d/structDynTreeImpl.html#a589f4028f0a9dca9901ad77fd71b44db',1,'DynTreeImpl::balance()'],['../d6/d7d/classDynamicMapTree.html#a1af866551a1ea151551ebb856797528d',1,'DynamicMapTree::balance()'],['../db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539',1,'RegularGrid2D::balance()']]],
   ['ban_2',['Ban',['../d2/d48/classChannel.html#a58931be15d72ce5ca755d9c953cdab45',1,'Channel']]],
   ['ban_5fcommandscript_3',['ban_commandscript',['../d3/d12/classban__commandscript.html#aaece480aacb3cae7d0919a277d46eb31',1,'ban_commandscript']]],
   ['banaccount_4',['BanAccount',['../d1/dba/classBanMgr.html#af85ceffee2ae6a143df5e36f6a004f07',1,'BanMgr']]],

@@ -324,11 +324,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  272</span>    {</div>
-<div class="line"><span class="lineno">  273</span>        <span class="keywordflow">if</span> (aurEff-&gt;GetTickNumber() == 3)</div>
-<div class="line"><span class="lineno">  274</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 8; ++i)</div>
-<div class="line"><span class="lineno">  275</span>                <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106">SPELL_SUMMON_DARK_FIEND</a> + i, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  276</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  360</span>    {</div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (aurEff-&gt;GetTickNumber() == 2)</div>
+<div class="line"><span class="lineno">  362</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 8; ++i)</div>
+<div class="line"><span class="lineno">  363</span>                <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106">SPELL_SUMMON_DARK_FIEND</a> + i, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  364</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106">SPELL_SUMMON_DARK_FIEND</a></div><div class="ttdeci">@ SPELL_SUMMON_DARK_FIEND</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:38</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
@@ -336,7 +336,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00038">SPELL_SUMMON_DARK_FIEND</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00278">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00366">Register()</a>.</p>
 
 </div>
 </div>
@@ -390,16 +390,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  279</span>    {</div>
-<div class="line"><span class="lineno">  280</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d">spell_muru_darkness_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno">  281</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  367</span>    {</div>
+<div class="line"><span class="lineno">  368</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d">spell_muru_darkness_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno">  369</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__muru__darkness__aura_html_a25e7a59384f262a36c74696a1befa01d"><div class="ttname"><a href="../../db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d">spell_muru_darkness_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:271</div></div>
+<div class="ttc" id="aclassspell__muru__darkness__aura_html_a25e7a59384f262a36c74696a1befa01d"><div class="ttname"><a href="../../db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d">spell_muru_darkness_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:359</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00271">OnPeriodic()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00359">OnPeriodic()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -428,9 +428,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  267</span>    {</div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106">SPELL_SUMMON_DARK_FIEND</a> });</div>
-<div class="line"><span class="lineno">  269</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  355</span>    {</div>
+<div class="line"><span class="lineno">  356</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106">SPELL_SUMMON_DARK_FIEND</a> });</div>
+<div class="line"><span class="lineno">  357</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00038">SPELL_SUMMON_DARK_FIEND</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -446,7 +446,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d40/classspell__muru__darkness__aura.html">spell_muru_darkness_aura</a></li>
-    <li class="footer">Generated on Mon Apr 14 2025 06:24:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Apr 15 2025 06:23:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

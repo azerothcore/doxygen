@@ -2186,6 +2186,7 @@ var annotated_dup =
     [ "npc_dancing_flames", "d5/daf/classnpc__dancing__flames.html", "d5/daf/classnpc__dancing__flames" ],
     [ "npc_daphne_stilwell", "df/d24/classnpc__daphne__stilwell.html", "df/d24/classnpc__daphne__stilwell" ],
     [ "npc_daranelle", "d1/da8/classnpc__daranelle.html", "d1/da8/classnpc__daranelle" ],
+    [ "npc_dark_fiend", "d8/d5d/structnpc__dark__fiend.html", "d8/d5d/structnpc__dark__fiend" ],
     [ "npc_dark_iron_attack_generator", "df/d99/structnpc__dark__iron__attack__generator.html", "df/d99/structnpc__dark__iron__attack__generator" ],
     [ "npc_dark_iron_attack_mole_machine", "de/db1/structnpc__dark__iron__attack__mole__machine.html", "de/db1/structnpc__dark__iron__attack__mole__machine" ],
     [ "npc_dark_iron_guzzler", "dc/db3/structnpc__dark__iron__guzzler.html", "dc/db3/structnpc__dark__iron__guzzler" ],

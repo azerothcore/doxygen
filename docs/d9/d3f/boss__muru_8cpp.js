@@ -2,6 +2,7 @@ var boss__muru_8cpp =
 [
     [ "boss_muru", "dc/d2a/structboss__muru.html", "dc/d2a/structboss__muru" ],
     [ "boss_entropius", "dc/d2e/structboss__entropius.html", "dc/d2e/structboss__entropius" ],
+    [ "npc_dark_fiend", "d8/d5d/structnpc__dark__fiend.html", "d8/d5d/structnpc__dark__fiend" ],
     [ "npc_singularity", "d2/d28/structnpc__singularity.html", "d2/d28/structnpc__singularity" ],
     [ "spell_muru_summon_blood_elves_periodic_aura", "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html", "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura" ],
     [ "spell_muru_darkness_aura", "db/d40/classspell__muru__darkness__aura.html", "db/d40/classspell__muru__darkness__aura" ],
@@ -31,7 +32,10 @@ var boss__muru_8cpp =
       [ "SPELL_BLACK_HOLE_SUMMON_VISUAL2", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96", null ],
       [ "SPELL_BLACK_HOLE_VISUAL2", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
-      [ "SPELL_BLACK_HOLE_EFFECT", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ]
+      [ "SPELL_BLACK_HOLE_EFFECT", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ]
     ] ],
     [ "AddSC_boss_muru", "d9/d3f/boss__muru_8cpp.html#abb36992caf0a693d29fb5bf8ceacb8b0", null ]
 ];
