@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/dbf/Player_8h.html#af59383be59ca1d77ff918e40494cc38ba6f014774c7004f9e99c4457446df0ff1":[7,0,0,0,1,2,16,7,5,123,2],
 "da/dbf/Player_8h.html#af59383be59ca1d77ff918e40494cc38baba6e6d37f461ac68b007f7cbb77513ec":[7,0,0,0,1,2,16,7,5,123,0],
 "da/dbf/Player_8h.html#af59383be59ca1d77ff918e40494cc38bac237277423fec6615d1e7edae681f63b":[7,0,0,0,1,2,16,7,5,123,1],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642":[7,0,0,0,1,2,16,7,5,120],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[6,0,5,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,18,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,18,8,3],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1]
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3]
 };

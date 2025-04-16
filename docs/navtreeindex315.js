@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298cabfc812b7a18eed1bc7756098d387e618":[7,0,0,0,1,3,7,1,3,16,24],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9efd3c20d926022e44fab28656b29c":[7,0,0,0,1,3,7,1,3,16,16],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,1,3,16,4],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298cad951e9de18ab6c914bae879295b8db6c":[7,0,0,0,1,3,7,1,3,16,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d17/classboss__doomlord__kazzak.html":[6,0,421],
 "dd/d17/classboss__doomlord__kazzak.html#a460a32ce37aae852b48f1990406da9a4":[6,0,421,2],
 "dd/d17/classboss__doomlord__kazzak.html#ae4e4844d584ba71ebd3d8a341ba91462":[6,0,421,1],
-"dd/d17/pet__hunter_8cpp.html":[7,0,0,0,1,3,8,2],
-"dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e":[7,0,0,0,1,3,8,2,1]
+"dd/d17/pet__hunter_8cpp.html":[7,0,0,0,1,3,8,2]
 };

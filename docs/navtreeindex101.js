@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d7d/classMovementGenerator.html#a37530e5cd743faecabd21eba08dce939":[6,0,1520,6],
 "d3/d7d/classMovementGenerator.html#a51988a8b0a45459242467e38ca46303c":[6,0,1520,8],
 "d3/d7d/classMovementGenerator.html#a60ac9e99f41d1f5c320441cf78b4b46a":[6,0,1520,3],
 "d3/d7d/classMovementGenerator.html#a60bac341b438ea7258986f234a952324":[6,0,1520,2],
@@ -21,14 +22,14 @@ var NAVTREEINDEX101 =
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,53,0],
 "d3/d81/classAbominationDespawner.html":[6,0,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d83/classspell__algalon__remove__phase__aura.html":[6,0,2585],
 "d3/d83/classspell__algalon__remove__phase__aura.html#a14fd25f78c9e2bfbdaeb07f3233628b6":[6,0,2585,0],
 "d3/d83/classspell__algalon__remove__phase__aura.html#ac9ae9be546964752869163896c4045dd":[6,0,2585,2],
-"d3/d83/classspell__algalon__remove__phase__aura.html#ad78b06733a8609dd39e885db2f23edba":[6,0,2585,1],
-"d3/d83/classspell__algalon__remove__phase__aura.html#afcca84d03b29ef7569c03f973a6c191b":[6,0,2585,3]
+"d3/d83/classspell__algalon__remove__phase__aura.html#ad78b06733a8609dd39e885db2f23edba":[6,0,2585,1]
 };

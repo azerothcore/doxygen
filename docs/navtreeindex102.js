@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d3/d83/classspell__algalon__remove__phase__aura.html#afcca84d03b29ef7569c03f973a6c191b":[6,0,2585,3],
 "d3/d83/structboss__hungarfen.html":[6,0,536],
 "d3/d83/structboss__hungarfen.html#a009b8d34731d2310a53195024b434935":[6,0,536,0],
 "d3/d83/structboss__hungarfen.html#a1765bd54c04a3479e837b3d0e241300e":[6,0,536,3],
@@ -61,12 +62,12 @@ var NAVTREEINDEX102 =
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,7,3,4],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3899],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a1ecb6e617976cdfbeb534849db41d57a":[6,0,3899,1],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a2c2ca2c0425ab3b815d246b1caebf588":[6,0,3899,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d92/classGameEventMgr.html#a8abbde1478b937d22693c90bbb16903e":[6,0,1068,56],
 "d3/d92/classGameEventMgr.html#a8e112f75a7cd24dfe6207d0f7b7fee15":[6,0,1068,34],
 "d3/d92/classGameEventMgr.html#a9286a5c6c3b1e2c22ae0f4253267220b":[6,0,1068,60],
-"d3/d92/classGameEventMgr.html#a93650ba8971fd82f0ac189e6b897017a":[6,0,1068,81],
-"d3/d92/classGameEventMgr.html#a95b7a4e78f4da9bf58cac7bba5554dcc":[6,0,1068,67]
+"d3/d92/classGameEventMgr.html#a93650ba8971fd82f0ac189e6b897017a":[6,0,1068,81]
 };

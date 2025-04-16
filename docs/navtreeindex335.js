@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/ded/structboss__twin__valkyrAI.html#a8a488e8d0acab2737c0503ce89fd3d2a":[6,0,748,9],
 "dd/ded/structboss__twin__valkyrAI.html#a8ca507c7a288a5cb9a8160129820e4e0":[6,0,748,16],
 "dd/ded/structboss__twin__valkyrAI.html#aa66ac25aa73c505df972cf95dca85a71":[6,0,748,14],
 "dd/ded/structboss__twin__valkyrAI.html#ad3ac59a0c0477a0819fd799b3bc305f6":[6,0,748,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dfe/classspell__dred__grievious__bite__aura.html#a6094dc303c034e49fb4e543874db080b":[6,0,2790,2],
 "dd/dfe/classspell__dred__grievious__bite__aura.html#a6f2e191d76f894517aed395866b7e508":[6,0,2790,0],
 "dd/dfe/classspell__item__nigh__invulnerability.html":[6,0,3242],
-"dd/dfe/classspell__item__nigh__invulnerability.html#a08838d940e413d83f4c48854260c3e1b":[6,0,3242,3],
-"dd/dfe/classspell__item__nigh__invulnerability.html#a155fa844714aadadd0a6c31dc86748f3":[6,0,3242,1]
+"dd/dfe/classspell__item__nigh__invulnerability.html#a08838d940e413d83f4c48854260c3e1b":[6,0,3242,3]
 };

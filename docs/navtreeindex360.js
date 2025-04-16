@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d79/classGuild.html#aaf78aa36da22b99c10df4a971d538b3d":[6,0,1244,31],
 "de/d79/classGuild.html#ab3284a1160d2e339cbdccc8bc5c659eb":[6,0,1244,95],
 "de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649":[6,0,1244,48],
 "de/d79/classGuild.html#ab8ca3dad15779135af492a0b26597868":[6,0,1244,135],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a288c53998aa7b744f6e3eaeba68fe6d8":[5,0,1,133,5],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[6,0,0,121,2],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[5,0,1,133,2],
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd":[6,0,0,121,0],
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd":[5,0,1,133,0]
+"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd":[6,0,0,121,0]
 };

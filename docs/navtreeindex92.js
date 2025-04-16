@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2":[7,0,0,0,1,3,5,15,47],
 "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a040eb64d494253cbfc4c3827a7dc5335":[7,0,0,0,1,3,5,15,47,3],
 "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a449324578bf5e9b268f1a06b37a95c44":[7,0,0,0,1,3,5,15,47,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a881a49b3b13e7eae34180a2a08dd674d":[7,0,0,0,1,3,5,15,47,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d0e/classitem__captured__frog.html#a1156467ca046a077ea494f92c488bf54":[6,0,1368,1],
 "d3/d0e/classitem__captured__frog.html#ad41b743c98c9534453eca8cf1f367366":[6,0,1368,0],
 "d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html":[6,0,794,0],
-"d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a4ed360380707195e10753436020b67eb":[6,0,794,0,5],
-"d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a60721961f2eb5e91c15890252166b872":[6,0,794,0,3]
+"d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a4ed360380707195e10753436020b67eb":[6,0,794,0,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d5/d49/classnpc__toc__shaman.html":[6,0,2190],
 "d5/d49/classnpc__toc__shaman.html#a26e3a539d8d918057e9f81b9ee83f17d":[6,0,2190,1],
 "d5/d49/classnpc__toc__shaman.html#a7102a3aec6c229a04b617c562512bf29":[6,0,2190,2],
 "d5/d4a/classnpc__kinetic__bomb.html":[6,0,1909],
@@ -213,8 +214,8 @@ var NAVTREEINDEX144 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[6,0,1833,0,5],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[6,0,3834],
 "d5/d52/classspell__the__lich__king__defile.html#a017ade08eca93f326d2e5115c4d88c33":[6,0,3834,0],
 "d5/d52/classspell__the__lich__king__defile.html#a3e1d1764add95728428cbf25f9b66dc4":[6,0,3834,2],
@@ -223,14 +224,14 @@ var NAVTREEINDEX144 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3834,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,30,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,30,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,30,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,30,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,30,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,30,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,30,5,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,30,5,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3327],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3327,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3327,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a51c2b16c767ce2922564dc9e4048e089":[6,0,1946,0,4],
 "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#a9f29c3b56e26421dabc2c95b8cd0407e":[6,0,1946,0,0],
 "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html#aa6686399b41d32429d530dcc2ec41185":[6,0,1946,0,5],
-"d5/d56/classspell__gen__nightmare__vine.html":[6,0,2957],
-"d5/d56/classspell__gen__nightmare__vine.html#a108e58cb90719b572f3578f0d44d0627":[6,0,2957,3]
+"d5/d56/classspell__gen__nightmare__vine.html":[6,0,2957]
 };

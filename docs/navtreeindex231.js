@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d9/d36/structboss__zuramat_1_1boss__zuramatAI.html#adb79f8c244f57b88848dd44b592faf41":[6,0,806,0,5],
 "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html":[6,0,3993],
 "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2":[6,0,3993,1],
 "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#a492bd9e9c82937e00897e19362b40901":[6,0,3993,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d4d/classmisc__commandscript.html#acb839c6d840c7a8f9b0c01435420b0ad":[6,0,1502,22],
 "d9/d4d/classmisc__commandscript.html#ad19d4ed2e392cfe265c8ad6496188433":[6,0,1502,9],
 "d9/d4d/classmisc__commandscript.html#ad46d14681df626a56a2d800f86c0e2c0":[6,0,1502,50],
-"d9/d4d/classmisc__commandscript.html#ad5a53bcb8840bff1fb080e15715b1f6a":[6,0,1502,0],
-"d9/d4d/classmisc__commandscript.html#ad7a445556e92c64ab769cb2e3631a993":[6,0,1502,20]
+"d9/d4d/classmisc__commandscript.html#ad5a53bcb8840bff1fb080e15715b1f6a":[6,0,1502,0]
 };

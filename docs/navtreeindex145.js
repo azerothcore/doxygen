@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d56/classspell__gen__nightmare__vine.html#a108e58cb90719b572f3578f0d44d0627":[6,0,2957,3],
 "d5/d56/classspell__gen__nightmare__vine.html#a3560275f387f7b0de34f9d1c255241fe":[6,0,2957,2],
 "d5/d56/classspell__gen__nightmare__vine.html#a5e4618514d33bbc18fcc26c83279e430":[6,0,2957,1],
 "d5/d56/classspell__gen__nightmare__vine.html#af386e49e9020328f123c4da7d82d4b0c":[6,0,2957,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d65/classspell__warl__eye__of__kilrogg.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2":[6,0,3925,0],
 "d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,18,20],
 "d5/d65/structlfg_1_1RBInternalInfo.html":[6,0,5,20],
-"d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[6,0,5,20,37],
-"d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[5,0,18,20,37]
+"d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[6,0,5,20,37]
 };

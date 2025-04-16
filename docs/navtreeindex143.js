@@ -1,5 +1,6 @@
 var NAVTREEINDEX143 =
 {
+"d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a256fd25f172fa42871e6171e67568f28":[7,0,0,0,1,3,5,6,0,28,1],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a280f961ec63cf909f925ffbc4535b9aa":[7,0,0,0,1,3,5,6,0,28,7],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a33886550fcce093bd39450d188489113":[7,0,0,0,1,3,5,6,0,28,2],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3566c7454d006431ef3959a39611eb58":[7,0,0,0,1,3,5,6,0,28,3],
@@ -16,10 +17,10 @@ var NAVTREEINDEX143 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1099,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,100],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
@@ -131,8 +132,8 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,130],
@@ -168,8 +169,8 @@ var NAVTREEINDEX143 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[6,0,3048,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[6,0,3048,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3048,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1794],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d49/classnpc__drake__dealer__hurlunk.html":[6,0,1747],
 "d5/d49/classnpc__drake__dealer__hurlunk.html#aa23833dcdefb909899120c25d5376111":[6,0,1747,2],
 "d5/d49/classnpc__drake__dealer__hurlunk.html#ad04b7f906f029d9935e29c585b0de421":[6,0,1747,1],
-"d5/d49/classnpc__drake__dealer__hurlunk.html#ae6d095365d23c30d5b772b047b459ddb":[6,0,1747,0],
-"d5/d49/classnpc__toc__shaman.html":[6,0,2190]
+"d5/d49/classnpc__drake__dealer__hurlunk.html#ae6d095365d23c30d5b772b047b459ddb":[6,0,1747,0]
 };

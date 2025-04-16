@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/de2/classspell__cannibalize__heal.html#a383479896e6deb96e50b827370ccfd4d":[6,0,2685,2],
 "d9/de2/classspell__cannibalize__heal.html#a70503fc6042001a860d361f2597b7153":[6,0,2685,1],
 "d9/de2/classspell__cannibalize__heal.html#a953536a9a393af9472bdd89018449df0":[6,0,2685,0],
 "d9/de2/structCalcDamageInfo.html":[6,0,828],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/df5/classspell__gen__elune__candle.html":[6,0,2926],
 "d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2926,3],
 "d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2926,0],
-"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2926,2],
-"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2926,1]
+"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2926,2]
 };

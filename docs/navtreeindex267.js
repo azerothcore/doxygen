@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da306df49c55068b03715a1f13052ae925":[7,0,0,0,1,3,5,2,1,7,4,37],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da524b272e7771538d6e79321c819d45ef":[7,0,0,0,1,3,5,2,1,7,4,40],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da5355c251ce8e79e32af16eee32a9b630":[7,0,0,0,1,3,5,2,1,7,4,39],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da53772d1cb4dafd3dbdc45c9eed86ea24":[7,0,0,0,1,3,5,2,1,7,4,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/dee/classboss__rend__blackhand.html#afd12818c33de25332bf207f30c8490a1":[6,0,672,1],
 "da/def/classat__the__beast__room.html":[6,0,243],
 "da/def/classat__the__beast__room.html#a366c5e35c4030f998404886f1526ae37":[6,0,243,1],
-"da/def/classat__the__beast__room.html#aed5c4aae45ee2b256eb078875c5a2c47":[6,0,243,0],
-"da/def/structItemExtendedCostEntry.html":[6,0,1379]
+"da/def/classat__the__beast__room.html#aed5c4aae45ee2b256eb078875c5a2c47":[6,0,243,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[6,0,158,4],
 "df/d56/classAreaBoundary.html#a6050e91b3d485e75186a2df9a56e8d38":[6,0,158,1],
 "df/d56/classAreaBoundary.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1":[6,0,158,3],
 "df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[6,0,158,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d66/classspell__black__temple__dementia__aura.html#ad64b9ba13ef7d77cd778afb8e412ad04":[6,0,2635,0],
 "df/d66/classspell__pilgrims__bounty__food__aura.html":[6,0,3502],
 "df/d66/classspell__pilgrims__bounty__food__aura.html#a80660b1417ab33edaf2c4cd517e10e30":[6,0,3502,0],
-"df/d66/classspell__pilgrims__bounty__food__aura.html#ab7f0aa924dfe8043e44cd794f72e4555":[6,0,3502,2],
-"df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[6,0,3502,1]
+"df/d66/classspell__pilgrims__bounty__food__aura.html#ab7f0aa924dfe8043e44cd794f72e4555":[6,0,3502,2]
 };

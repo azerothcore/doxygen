@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d6/d26/classBattlefield.html#ac9ecc2bed7f0f6cae3138e98d2d58d51":[6,0,307,29],
 "d6/d26/classBattlefield.html#acc7bfa8cbaf792a936e703ea8cb9e19b":[6,0,307,91],
 "d6/d26/classBattlefield.html#ad03120a119fbcb5cb1291b6d2f793094":[6,0,307,16],
 "d6/d26/classBattlefield.html#ad1133bcfa1f2198933035ad014d2aecc":[6,0,307,88],
@@ -161,14 +162,14 @@ var NAVTREEINDEX165 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[6,0,2890,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[6,0,2890,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2890,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,11,8,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,30,8,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,11,8,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,30,8,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,8,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,30,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,8,0,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,30,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,11,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2423,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[6,0,2423,1,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2423,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d32/classArena.html#a74f105bc709d4728fb07f1984abfd345":[6,0,177,0],
 "d6/d32/classArena.html#a886b586f7ab6fc89d76e86cb811989b8":[6,0,177,2],
 "d6/d32/classArena.html#ab5348b8bd4bfd58c01cdf61f16f72db1":[6,0,177,6],
-"d6/d32/classArena.html#acae21233e11b21b612e5c051bfa7720e":[6,0,177,7],
-"d6/d32/classArena.html#ae0a56f524bfc9eec6753874ce35d0466":[6,0,177,5]
+"d6/d32/classArena.html#acae21233e11b21b612e5c051bfa7720e":[6,0,177,7]
 };

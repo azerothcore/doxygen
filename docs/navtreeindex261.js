@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298ca528807bdc70f6354672e25e327dc140e":[7,0,0,0,1,3,5,7,14,12,12],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a9a27cb1d8e638a75cdd4a13e3c4ad7":[7,0,0,0,1,3,5,7,14,12,4],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298ca731209a58f9ef1d15ba64215464fe237":[7,0,0,0,1,3,5,7,14,12,5],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298ca777589147e8b6b4cc548de80e1861cd0":[7,0,0,0,1,3,5,7,14,12,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/dbe/classPointMovementGenerator.html#a26496f8fcfeb2097d7c4c35bfdbdb357":[6,0,2415,9],
 "da/dbe/classPointMovementGenerator.html#a3f4cda22e2e09a96ace64290e2508238":[6,0,2415,0],
 "da/dbe/classPointMovementGenerator.html#a4444b62b04d24b8b77cac0ef70bed4fc":[6,0,2415,16],
-"da/dbe/classPointMovementGenerator.html#a4d1db29c07ae319f6f76d06cc4eca525":[6,0,2415,4],
-"da/dbe/classPointMovementGenerator.html#a5247656bbf2460cd4b60c207022581ec":[6,0,2415,13]
+"da/dbe/classPointMovementGenerator.html#a4d1db29c07ae319f6f76d06cc4eca525":[6,0,2415,4]
 };

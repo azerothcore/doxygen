@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3038,2],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3038,1],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3038,0],
 "dc/d44/classspell__sha__flurry__proc.html":[6,0,3741],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1753,6],
 "dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[6,0,1753,0],
 "dc/d56/structnpc__eastvale__peasent.html#a7eb6cf174a46fd31c8c5241649fcebdc":[6,0,1753,3],
-"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1753,5],
-"dc/d56/structnpc__eastvale__peasent.html#a8b73aa30b0b4a984d8644e6d9541461d":[6,0,1753,1]
+"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1753,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,30,6,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,30,6,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,11,6,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,11,6,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[6,0,465,2],
 "dc/db4/structboss__gruul.html":[6,0,510],
 "dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,510,5],
-"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,510,7],
-"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,510,6]
+"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,510,7]
 };

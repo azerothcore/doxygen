@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d7/d0b/classspell__ulduar__energy__sap__aura.html#a74052d7da1523b3c4010465510e5fe04":[6,0,3882,2],
 "d7/d0b/classspell__ulduar__energy__sap__aura.html#a7dca0398e78278c78dd80e9e6ca874e1":[6,0,3882,1],
 "d7/d0c/classnpc__ulduar__saronite__animus.html":[6,0,2231],
 "d7/d0c/classnpc__ulduar__saronite__animus.html#a1fdd851e9d6e399f8f57d063a7dbd6d9":[6,0,2231,2],
@@ -232,8 +233,8 @@ var NAVTREEINDEX183 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[7,0,0,0,1,3,5,25,22],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370":[7,0,0,0,1,3,5,25,22,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487":[7,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a0fa332a2992d7af7b70d89f65ddcd773":[7,0,0,0,1,3,5,25,21,10],
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a1228953a004d3d7f52b4e16d9ef9b94f":[7,0,0,0,1,3,5,25,21,18],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a13df29416c41f85b22a892c1a2224df0":[7,0,0,0,1,3,5,25,21,21],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a197e856655820b6740476d6a5ad2058e":[7,0,0,0,1,3,5,25,21,22]
+"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a13df29416c41f85b22a892c1a2224df0":[7,0,0,0,1,3,5,25,21,21]
 };

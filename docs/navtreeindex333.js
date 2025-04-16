@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[6,0,616,1],
 "dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[6,0,616,10],
 "dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[6,0,616,5],
 "dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2766],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/ddf/structboss__fathomguard__caribdis.html#a08b01e9735e421d8d5bbc2b552217762":[6,0,457,8],
 "dd/ddf/structboss__fathomguard__caribdis.html#a0d2a3403d5934e86a897b3417ed2214a":[6,0,457,5],
 "dd/ddf/structboss__fathomguard__caribdis.html#a39ca45ec0de50b7d7a5ec866c4017a8a":[6,0,457,4],
-"dd/ddf/structboss__fathomguard__caribdis.html#a5503519998f51f475420ada2210f32f0":[6,0,457,3],
-"dd/ddf/structboss__fathomguard__caribdis.html#a73f567f2269aeca1435af82e1c6880e9":[6,0,457,7]
+"dd/ddf/structboss__fathomguard__caribdis.html#a5503519998f51f475420ada2210f32f0":[6,0,457,3]
 };

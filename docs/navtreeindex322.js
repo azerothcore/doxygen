@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[6,0,4065,1],
 "dd/d58/boss__twinemperors_8cpp.html":[7,0,0,0,1,3,4,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,9,7,5],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d66/classGenericGameObjectScript.html":[6,0,1092],
 "dd/d66/classGenericGameObjectScript.html#a7d1d46c8d325619637aef9b9dc5419f7":[6,0,1092,0],
 "dd/d66/classGenericGameObjectScript.html#a7e3ba0f4a88489de522ae714d628c9ab":[6,0,1092,1],
-"dd/d66/classspell__anti__air__rocket__bomber.html":[6,0,2591],
-"dd/d66/classspell__anti__air__rocket__bomber.html#a05a38c1b8e3b674f3c6e79c59c7caddd":[6,0,2591,0]
+"dd/d66/classspell__anti__air__rocket__bomber.html":[6,0,2591]
 };

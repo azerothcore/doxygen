@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a9dd84d8712737f5cf17048c4475c3c42":[7,0,0,0,1,3,2,29,7,11],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117aa0a34bb710b174abf06aa875f3a3e82e":[7,0,0,0,1,3,2,29,7,13],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093":[7,0,0,0,1,3,2,29,7,5],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b":[7,0,0,0,1,3,2,29,7,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a13843cdca5d222073894827db9402035":[6,0,754,0,4],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a154123dc3f5463ace6d1b96a9b20576e":[6,0,754,0,8],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a180eb28e16672082503fa91f37dd720a":[6,0,754,0,1],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[6,0,754,0,13],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a20aa23a4492739b4f171b1361a2ba53b":[6,0,754,0,3]
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[6,0,754,0,13]
 };

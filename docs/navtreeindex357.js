@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e":[7,0,0,0,1,2,15,1,9,2],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084":[7,0,0,0,1,2,15,1,9,0],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461":[7,0,0,0,1,2,15,1,9,1],
 "de/d59/LFG_8h.html#a64b5a722b95a52923e0ddaae1402b8de":[7,0,0,0,1,2,15,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d5f/classnpc__ulduar__leviathan__mkii.html":[6,0,2226],
 "de/d5f/classnpc__ulduar__leviathan__mkii.html#a9e4671adcb2409a7c83460d28d29f579":[6,0,2226,1],
 "de/d5f/classnpc__ulduar__leviathan__mkii.html#afe438e97b6989a8899850619c87cd7e6":[6,0,2226,2],
-"de/d5f/structboss__chrono__lord__deja.html":[6,0,408],
-"de/d5f/structboss__chrono__lord__deja.html#a02c279fb1cfccd38dc60ba7c610cf859":[6,0,408,3]
+"de/d5f/structboss__chrono__lord__deja.html":[6,0,408]
 };

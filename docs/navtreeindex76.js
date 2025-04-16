@@ -1,5 +1,6 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddc/structnpc__escortAI.html#a309aca3d1194ceee1557142ea1992f44":[6,0,1766,46],
 "d2/ddc/structnpc__escortAI.html#a32b202fd53af5a26d1e5d0a1a9a593e2":[6,0,1766,51],
 "d2/ddc/structnpc__escortAI.html#a33b033d518dd312f8127b4e9b1e66164":[6,0,1766,45],
 "d2/ddc/structnpc__escortAI.html#a351437b5097fb6f577026bc096c5994f":[6,0,1766,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a483ee97240f74363e5e132a6a6c92af3":[6,0,4036,104],
 "d2/de9/classSpellInfo.html#a492c1698b1b9fdfff3037515575d6f86":[6,0,4036,163],
 "d2/de9/classSpellInfo.html#a49b3ca759c4a7aaa0f97c01c9273e39b":[6,0,4036,71],
-"d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382":[6,0,4036,153],
-"d2/de9/classSpellInfo.html#a49c70ec610efb184d46fb39737bd4a1a":[6,0,4036,42]
+"d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382":[6,0,4036,153]
 };

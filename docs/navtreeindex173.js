@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d7f/classUpdateFetcher.html#ab062338b0cbf4f1cd2ce67ac3d14fba2":[6,0,4165,16],
 "d6/d7f/classUpdateFetcher.html#aba8b6a3e4101d39c2ce7ddd6856c7ad1":[6,0,4165,4],
 "d6/d7f/classUpdateFetcher.html#abd11bb24a80148b6df4d0d35c9c88c51":[6,0,4165,13],
 "d6/d7f/classUpdateFetcher.html#acd434dd3fa7a7b5dc0af64926d07dfcd":[6,0,4165,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a44c18c5bb7d91fcc4a63405e64803980":[7,0,0,0,1,3,5,7,16,3,47],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5057e82919bcf77dbf93f23725e97a37":[7,0,0,0,1,3,5,7,16,3,27],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a589bd45cb38b494d630564742084e4fc":[7,0,0,0,1,3,5,7,16,3,25],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5ace59ad6ac164cbdd9f0f471f8b9205":[7,0,0,0,1,3,5,7,16,3,29],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5b431d9134be78095de92487c788752c":[7,0,0,0,1,3,5,7,16,3,42]
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5ace59ad6ac164cbdd9f0f471f8b9205":[7,0,0,0,1,3,5,7,16,3,29]
 };

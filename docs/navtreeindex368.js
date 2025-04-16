@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[6,0,337,2],
 "de/dc0/structBattlegroundTemplate.html#a324a4e557ce66089ec1111a9dae6e1de":[6,0,337,4],
 "de/dc0/structBattlegroundTemplate.html#a49fdf96a08376830a06956fd501cfa78":[6,0,337,6],
 "de/dc0/structBattlegroundTemplate.html#a51ce3b9fdb2f51f439fee7c8b48e3918":[6,0,337,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/dd4/classnpc__ulduar__icicle.html#a71dd83d544307b11bcde58f9aeea097c":[6,0,2223,2],
 "de/dd4/classspell__saronite__vapors__damage.html":[6,0,3713],
 "de/dd4/classspell__saronite__vapors__damage.html#a55c604f072fd0bbdcb886635fb53eaa8":[6,0,3713,1],
-"de/dd4/classspell__saronite__vapors__damage.html#a75953cbb3a288fd373e602ed07d84441":[6,0,3713,0],
-"de/dd4/classspell__saronite__vapors__damage.html#aea2b951dd2353800958f654df58d8fd8":[6,0,3713,3]
+"de/dd4/classspell__saronite__vapors__damage.html#a75953cbb3a288fd373e602ed07d84441":[6,0,3713,0]
 };

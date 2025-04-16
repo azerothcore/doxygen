@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"da/d90/classSpellMgr.html#a7381cd829bd62cd16c242e61dd7d1c18":[6,0,4041,11],
 "da/d90/classSpellMgr.html#a7a1fa3679f9c375b88603ec4775769fd":[6,0,4041,96],
 "da/d90/classSpellMgr.html#a8527d75d2203fba05133d32f2cf0fa55":[6,0,4041,75],
 "da/d90/classSpellMgr.html#a88999f0d29a0aba73ec20deef99297a8":[6,0,4041,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d99/structGameEventData.html#a3be91b7e00641ca6cb853104190845dc":[6,0,1066,13],
 "da/d99/structGameEventData.html#a44c52795eed59abdff72cdebdccc50ca":[6,0,1066,8],
 "da/d99/structGameEventData.html#a4bae1cf480ee64f190e2f09640e8a8cd":[6,0,1066,5],
-"da/d99/structGameEventData.html#a5ab9afbc209e319839fd68de0cbc2207":[6,0,1066,4],
-"da/d99/structGameEventData.html#a6288a7c28aba2927c3e91f5d2f517a60":[6,0,1066,14]
+"da/d99/structGameEventData.html#a5ab9afbc209e319839fd68de0cbc2207":[6,0,1066,4]
 };

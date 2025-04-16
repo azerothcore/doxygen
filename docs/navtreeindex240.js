@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/da5/Util_8cpp.html#a856c0e32aef56abc9d36e7be0364e636":[7,0,0,0,0,15,38,2],
 "d9/da5/Util_8cpp.html#a8a91185d89f31e26170db63a868642cd":[7,0,0,0,0,15,38,12],
 "d9/da5/Util_8cpp.html#a8eaff2d3f9402bfbde369f66eb7a8ebb":[7,0,0,0,0,15,38,1],
 "d9/da5/Util_8cpp.html#aa44a42a249be6823b5c7d313d9e019db":[7,0,0,0,0,15,38,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dba/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__fda511df45ce9c319e437400c53f1033f.html#a9d10adc7fc7e9ba967ce0704ff369019":[5,0,1,8,2,2,0],
 "d9/dbc/structMySQLType_3_01uint8_01_4.html":[6,0,1546],
 "d9/dbd/classspell__item__scroll__of__recall.html":[6,0,3259],
-"d9/dbd/classspell__item__scroll__of__recall.html#a5b35bbac405dc2b03f195cb29786d5a6":[6,0,3259,0],
-"d9/dbd/classspell__item__scroll__of__recall.html#a61f1a4514e9900e4e14fded3c0b05593":[6,0,3259,1]
+"d9/dbd/classspell__item__scroll__of__recall.html#a5b35bbac405dc2b03f195cb29786d5a6":[6,0,3259,0]
 };

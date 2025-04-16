@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,4,3,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,4,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,699,2],
 "dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,699,1],
 "dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3038],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3038,3],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3038,2]
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3038,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a34e9c3367d9c88e322343519433c06ce":[7,0,0,0,1,2,48,0,2,89],
 "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a3966d4e49f90a1c0aee8f0dafa79e243":[7,0,0,0,1,2,48,0,2,12],
 "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a3abf2ff4272c8c74da449def1d014330":[7,0,0,0,1,2,48,0,2,49],
 "d2/d78/IWorld_8h.html#a7ba5c3e6b385572c3bd751b6c9da9a20a3d09928beaa005ae83fcc43a01a948d6":[7,0,0,0,1,2,48,0,2,66],
@@ -172,8 +173,8 @@ var NAVTREEINDEX69 =
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html":[7,0,0,0,1,3,7,0,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a0a0bb294821c88853f49c728b9a5fdb2":[7,0,0,0,1,3,7,0,1,1,8],
 "d2/d7e/boss__pandemonius_8cpp.html#a18d62d8f86b7d4023e10d17dce27919f":[7,0,0,0,1,3,7,0,1,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d87/classspell__black__temple__curse__of__vitality__aura.html#a40a98b79b445d3cebe3f195cb9c03a80":[6,0,2634,1],
 "d2/d87/classspell__black__temple__curse__of__vitality__aura.html#a44c261ff549ddf0b1dad5ae6d0ff2432":[6,0,2634,2],
 "d2/d87/classspell__black__temple__curse__of__vitality__aura.html#aef6afe014ce90711cd7628563aada2a4":[6,0,2634,0],
-"d2/d87/classspell__class__call__polymorph.html":[6,0,2698],
-"d2/d87/classspell__class__call__polymorph.html#a03acb7fb2734d9c8e8e623600bc16859":[6,0,2698,0]
+"d2/d87/classspell__class__call__polymorph.html":[6,0,2698]
 };

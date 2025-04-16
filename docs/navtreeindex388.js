@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[6,0,2197,0,7],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[6,0,2197,0,3],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[6,0,2197,0,6],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a98c18794124922e6946a82a324410837":[6,0,2197,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#afe55f91acd8c47a758b8d08bd07d763f":[6,0,1940,0,3],
 "df/dba/classnpc__ulduar__hodir__mage.html":[6,0,2220],
 "df/dba/classnpc__ulduar__hodir__mage.html#abcbe0337b2a83b6eb0a64f7465d7f79a":[6,0,2220,2],
-"df/dba/classnpc__ulduar__hodir__mage.html#afebdd0f99f0c7eaaf0a2d5731335105d":[6,0,2220,1],
-"df/dba/instance__ahnkahet_8cpp.html":[7,0,0,0,1,3,5,0,0,6]
+"df/dba/classnpc__ulduar__hodir__mage.html#afebdd0f99f0c7eaaf0a2d5731335105d":[6,0,2220,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d4e/boss__ossirian_8cpp.html#a87e735e672f96071229bf49e7939637b":[7,0,0,0,1,3,4,8,4,13],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,8,4,11],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,8,4,11,4],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,8,4,11,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d5c/classWarden.html#a3e786c9bb08fcd9a1349f2ec47cc3eeb":[6,0,4192,6],
 "db/d5c/classWarden.html#a4bb614b2dcabf334bee33142dd99ead3":[6,0,4192,31],
 "db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928":[6,0,4192,34],
-"db/d5c/classWarden.html#a571d17d7740745ea297081080be79b8a":[6,0,4192,16],
-"db/d5c/classWarden.html#a5949bd3821517bff75d1915ffdfd3e82":[6,0,4192,30]
+"db/d5c/classWarden.html#a571d17d7740745ea297081080be79b8a":[6,0,4192,16]
 };

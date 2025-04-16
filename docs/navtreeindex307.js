@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d9a/classspell__pal__divine__storm__dummy.html#a85a60a3ada7ea2b8c995bc156be36fe2":[6,0,3476,0],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#a9180a01674a1f56c287d40bfbdf6d841":[6,0,3476,3],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#aa9a0fb36eafd8535fcd2bddda56d7107":[6,0,3476,5],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#adfb7e3fbb52aa349573b95c457823900":[6,0,3476,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[6,0,11,6,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,30,6,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[6,0,11,6,0,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,11,6,0,2],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,30,6,0,2]
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,11,6,0,2]
 };

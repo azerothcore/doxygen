@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[6,0,3502,1],
 "df/d68/classinstance__blood__furnace.html":[6,0,1287],
 "df/d68/classinstance__blood__furnace.html#a885ba94e1777dfd6586daca304622d3d":[6,0,1287,2],
 "df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[6,0,1287,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d73/classboss__ionar.html":[6,0,548],
 "df/d73/classboss__ionar.html#a0c0f28f832458df7326842f04413af5d":[6,0,548,2],
 "df/d73/classboss__ionar.html#a284da7d86f0b386e352587e0321bf465":[6,0,548,1],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,2929],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[6,0,2929,3]
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,2929]
 };

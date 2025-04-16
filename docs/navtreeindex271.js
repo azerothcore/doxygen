@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,14,0],
 "db/d17/classCharacterCreateInfo.html#aa4b2800384a89a5c30c2edb7ff567865":[4,1,14,8],
 "db/d17/classCharacterCreateInfo.html#aad61b8ca0caf09d6b62ee9fffd78cceb":[4,1,14,2],
 "db/d17/classCharacterCreateInfo.html#aba49d87691e9d2b10d430450c3f66493":[4,1,14,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d24/classspell__image__of__drakuru__reagent__check.html#ad5421ca3dd5bf802952f98e6d1170003":[6,0,3164,0],
 "db/d24/structnpc__hyjal__ground__trash.html":[6,0,1854],
 "db/d24/structnpc__hyjal__ground__trash.html#a035610284a56e690200f978b0fd496ab":[6,0,1854,5],
-"db/d24/structnpc__hyjal__ground__trash.html#a06b590bf9ef983b1ef2b94058144fc7d":[6,0,1854,0],
-"db/d24/structnpc__hyjal__ground__trash.html#a0ab86d651644dcc579585176c2b5c07e":[6,0,1854,1]
+"db/d24/structnpc__hyjal__ground__trash.html#a06b590bf9ef983b1ef2b94058144fc7d":[6,0,1854,0]
 };

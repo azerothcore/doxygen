@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d68/classboss__yoggsaron__lich__king.html#a1655d608683e90ccafd350204eed2d31":[6,0,797,1],
 "db/d68/classboss__yoggsaron__lich__king.html#aa65cd9c9eafba12ae065903868ee5319":[6,0,797,2],
 "db/d68/classnpc__guardian.html":[6,0,1815],
 "db/d68/classnpc__guardian.html#a3e65ccc70be9d25b2d8563c23146ef4f":[6,0,1815,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba9d18fa6c92fb53a57c8f5d6a19949d52":[7,0,0,0,1,3,9,4,182,0],
 "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83bad3ea089eae4c6aca8509bd7b81854bfb":[7,0,0,0,1,3,9,4,182,2],
 "db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58f":[7,0,0,0,1,3,9,4,179],
-"db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58fa2dcb810eef768874c1739f20a4d34ad0":[7,0,0,0,1,3,9,4,179,0],
-"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7ae":[7,0,0,0,1,3,9,4,170]
+"db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58fa2dcb810eef768874c1739f20a4d34ad0":[7,0,0,0,1,3,9,4,179,0]
 };

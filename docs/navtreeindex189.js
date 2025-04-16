@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d7/d53/structboss__cthun.html#abad23f1df9c6989e7a6d3d62143adb05":[6,0,412,9],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html":[6,0,4000],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a1b8782a4f22522cfe224073515abdf45":[6,0,4000,0],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a8e9b7613131ef7ea05b853df337faa4e":[6,0,4000,2],
@@ -174,12 +175,12 @@ var NAVTREEINDEX189 =
 "d7/d61/classFactoryCreatureScript.html":[6,0,1028],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1028,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1028,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,11,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,30,1,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,11,1,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,11,1,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,30,1,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,11,1,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,30,1,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,11,1,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,23],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,23,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,23,6,4],
@@ -246,8 +247,7 @@ var NAVTREEINDEX189 =
 "d7/d64/classachievement__respect__your__elders.html":[6,0,83],
 "d7/d64/classachievement__respect__your__elders.html#a2fd66ada0ff7482c00b2cb417a12e88e":[6,0,83,0],
 "d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[6,0,83,1],
-"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5],
 "d7/d64/structMMAP_1_1MMapData.html":[5,0,20,5],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[5,0,20,5,1],
+"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5],
 "d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[6,0,6,5,1]
 };

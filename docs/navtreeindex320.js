@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1c7b9dcd793986593ef5cac164b65994":[6,0,1084,124],
 "dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036":[6,0,1084,107],
 "dd/d3b/structGameObjectTemplate.html#a1d650ba932c6a46239a9dbafc22b40fd":[6,0,1084,57],
 "dd/d3b/structGameObjectTemplate.html#a1d957cb99d9b0a92a1d4ea1bb4e77aa9":[6,0,1084,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d40/instance__molten__core_8cpp.html#aa908fb56c2f024e5bfcb38bc98b849ab":[7,0,0,0,1,3,2,1,3,10,3],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html":[6,0,1927,0],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1927,0,1],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1927,0,3],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1927,0,2]
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1927,0,3]
 };

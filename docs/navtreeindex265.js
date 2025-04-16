@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,5,2,7,2],
 "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a3fa3e6247a7ef49c729610d122b78944":[7,0,0,0,1,3,5,5,2,7,3],
 "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,5,2,7,0],
-"da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9461affdc878fcf8439f29327db5cb82":[7,0,0,0,1,3,5,5,2,7,4],
-"da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,5,2,7,1]
+"da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9461affdc878fcf8439f29327db5cb82":[7,0,0,0,1,3,5,5,2,7,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"db/d8b/classgo__the__pearl__of__the__depths.html":[6,0,1183],
 "db/d8b/classgo__the__pearl__of__the__depths.html#a0e09ddcde0eef050400d90e9a268823a":[6,0,1183,0],
 "db/d8b/classgo__the__pearl__of__the__depths.html#a745ea14136a78759a3afd7714c6d784a":[6,0,1183,1],
 "db/d8b/classspell__deathbringer__blood__power__aura.html":[6,0,2715],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca6297faec78a0f1b1f32c8b54c0700fc3":[7,0,0,0,1,3,5,8,0,1,10,3],
 "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca87d9c957ef45c0e90fcbef07c94c4c2e":[7,0,0,0,1,3,5,8,0,1,10,8],
 "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca8ad05c18f75770b596b6a87987d4ecdd":[7,0,0,0,1,3,5,8,0,1,10,2],
-"db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca9c327c4592f7711c26c51c3fc03d2b54":[7,0,0,0,1,3,5,8,0,1,10,7],
-"db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5caafd1991378a04f5821ff2099b100a1e4":[7,0,0,0,1,3,5,8,0,1,10,4]
+"db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca9c327c4592f7711c26c51c3fc03d2b54":[7,0,0,0,1,3,5,8,0,1,10,7]
 };

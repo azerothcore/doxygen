@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,9,7],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b33e390228cb1d719203989d0810230":[7,0,0,0,1,3,2,4,9,7,3],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca14d7769fc60a7bb1b489145b8494f966":[7,0,0,0,1,3,2,4,9,7,16],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[7,0,0,0,1,3,2,4,9,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/de9/classboss__thorim__pillar.html#a7a2cbafc1d359d7b33bb735342cdfe2d":[6,0,736,1],
 "db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,736,2],
 "db/de9/classspell__pursue.html":[6,0,3537],
-"db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3537,0],
-"db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3537,2]
+"db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3537,0]
 };

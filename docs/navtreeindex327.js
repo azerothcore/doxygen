@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d9f/structAreas.html#aebdb021c0b9c40d624d5115b24616a12":[6,0,161,3],
 "dd/d9f/structnpc__argent__captainAI.html":[6,0,1602],
 "dd/d9f/structnpc__argent__captainAI.html#a059c34261439fc80b0bff9d62b537489":[6,0,1602,10],
 "dd/d9f/structnpc__argent__captainAI.html#a0709350a6841b6008935c050a1db7784":[6,0,1602,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a":[7,0,0,0,1,3,5,9,1,2,10,2],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e":[7,0,0,0,1,3,5,9,1,2,10,0],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280":[7,0,0,0,1,3,5,9,1,2,10,4],
-"dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5":[7,0,0,0,1,3,5,9,1,2,12],
-"dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039":[7,0,0,0,1,3,5,9,1,2,12,0]
+"dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5":[7,0,0,0,1,3,5,9,1,2,12]
 };

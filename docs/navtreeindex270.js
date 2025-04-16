@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e099987cb2efa91f8834dabdf704cc4":[7,0,0,0,1,3,2,16,1,4,0],
 "db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298ca7460cd0689ffc4b009eb78d8096e1af1":[7,0,0,0,1,3,2,16,1,4,2],
 "db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,16,1,4,3],
 "db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298caba24a318a569395f4cd8708baf8537c9":[7,0,0,0,1,3,2,16,1,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d17/classCharacterCreateInfo.html#a41e354593f59bc8546688a37c2a5e504":[4,1,14,3],
 "db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9],
 "db/d17/classCharacterCreateInfo.html#a5a88b2c2556dd1239c417ea4fcc55287":[4,1,14,5],
-"db/d17/classCharacterCreateInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,14,1],
-"db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,14,0]
+"db/d17/classCharacterCreateInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,14,1]
 };

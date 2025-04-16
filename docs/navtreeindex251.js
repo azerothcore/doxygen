@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ad0f5788e477d3ad967430ade5a078278":[7,0,0,0,1,3,5,12,9,5,16],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae092e4fa982331f6b3c2feda0fa11cff":[7,0,0,0,1,3,5,12,9,5,15],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae3a118d7269afc21b3398e745a6eaad2":[7,0,0,0,1,3,5,12,9,5,0],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae574f06e115eeb0ad9aadd7f9e7ffc6f":[7,0,0,0,1,3,5,12,9,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,3990,1],
 "da/d58/classVMAP_1_1IVMapMgr.html":[5,0,27,7],
 "da/d58/classVMAP_1_1IVMapMgr.html":[6,0,9,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,27,7,9],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[6,0,9,7,9]
+"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,27,7,9]
 };

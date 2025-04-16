@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d7b/structTempSummonGroupKey.html#a1a90f3bf90363f88828cc217dd7ceda6":[6,0,4103,4],
 "dc/d7b/structTempSummonGroupKey.html#ac6bf8fb36092134f63409f3cddc5f810":[6,0,4103,3],
 "dc/d7b/structTempSummonGroupKey.html#ae1bd752c8fc7d037d6942b32859ce1ad":[6,0,4103,0],
 "dc/d7b/structTempSummonGroupKey.html#ae92c7712bd58b9b773ddaac3d2b8a345":[6,0,4103,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a32ef5d26a8c16690889eed2e3e230de1":[6,0,5,1,15],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a42dd178512ebfbba612889f3ff5384bb":[6,0,5,1,11],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a42dd178512ebfbba612889f3ff5384bb":[5,0,18,1,11],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[5,0,18,1,9],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[6,0,5,1,9]
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[5,0,18,1,9]
 };

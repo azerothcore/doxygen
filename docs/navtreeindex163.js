@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d6/d13/zone__dalaran_8cpp.html#ad4c7224769892a2894943c69e87677b4ae751570c7195ee2cb9fb1ec88ce3d0c6":[7,0,0,0,1,3,5,17,18,16],
 "d6/d13/zone__dalaran_8cpp.html#ad4c7224769892a2894943c69e87677b4afcf05eff17f7d5e5bde6b645bd415aa2":[7,0,0,0,1,3,5,17,18,8],
 "d6/d13/zone__dalaran_8cpp.html#aeb3f048836e1d1f9403c58631e6b4fb4":[7,0,0,0,1,3,5,17,16],
 "d6/d13/zone__dalaran_8cpp.html#aeb3f048836e1d1f9403c58631e6b4fb4a020594390e9028bc85fea354560a8a0d":[7,0,0,0,1,3,5,17,16,1],
@@ -55,10 +56,10 @@ var NAVTREEINDEX163 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3058,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1339,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1339,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,5,42,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fabd8c9dcd300b2e1d7c4040bd3cc90fbb":[7,0,0,0,1,3,5,2,0,2,16,2],
 "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fadaef397a4d7d6588586194217bedc21c":[7,0,0,0,1,3,5,2,0,2,16,4],
 "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fadb917769a1a85b40b7f04026e44e8981":[7,0,0,0,1,3,5,2,0,2,16,1],
-"d6/d1b/boss__grand__champions_8cpp.html#ab6470c830646a342eff147b8977bbcc7":[7,0,0,0,1,3,5,2,0,2,11],
-"d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235ca":[7,0,0,0,1,3,5,2,0,2,15]
+"d6/d1b/boss__grand__champions_8cpp.html#ab6470c830646a342eff147b8977bbcc7":[7,0,0,0,1,3,5,2,0,2,11]
 };

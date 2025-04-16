@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,27,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,723,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,723,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a16771a7a854f85dcc26e3510d31454af":[6,0,723,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1845,0,8],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1845,0,4],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1845,0,6],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1845,0,11],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1845,0,9]
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1845,0,11]
 };

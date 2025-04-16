@@ -1,9 +1,10 @@
 var NAVTREEINDEX94 =
 {
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,99,0,0],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,87,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[6,0,0,87,0,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,1,99,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,99,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[6,0,0,87,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,1,99,0,1],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html":[6,0,1926,0],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a1acfbead42b66dd8f70a85efc8ce2e6f":[6,0,1926,0,3],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd":[6,0,1926,0,0],
@@ -25,8 +26,8 @@ var NAVTREEINDEX94 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,48,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,48,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,36,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,48,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,36,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,48,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2849],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2849,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2849,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d24/classBossAI.html#aab20c7bf9fd41e651496c529bcc5ad94":[6,0,807,18],
 "d3/d24/classBossAI.html#ab25b7944e0c00d7dca2226fad00d9fa7":[6,0,807,19],
 "d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7":[6,0,807,15],
-"d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae":[6,0,807,3],
-"d3/d24/classBossAI.html#accee8f999f68b7e739db5ba89228c679":[6,0,807,16]
+"d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae":[6,0,807,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d":[6,0,5,1,9],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a6eef80ccf8defe89696cec1675033ea2":[6,0,5,1,10],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a6eef80ccf8defe89696cec1675033ea2":[5,0,18,1,10],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956":[5,0,18,1,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d9a/classspell__hatch__eggs.html#aa7695bddd766d5adefb04710d41894f6":[6,0,3055,0],
 "dc/d9a/classspell__hatch__eggs.html#adbc2f1c4ec64b95ec72c82f36f12d928":[6,0,3055,2],
 "dc/d9a/classspell__pal__divine__storm__dummy.html":[6,0,3476],
-"dc/d9a/classspell__pal__divine__storm__dummy.html#a5dd09977efde2d3433aff4d35687d5e8":[6,0,3476,4],
-"dc/d9a/classspell__pal__divine__storm__dummy.html#a85a60a3ada7ea2b8c995bc156be36fe2":[6,0,3476,0]
+"dc/d9a/classspell__pal__divine__storm__dummy.html#a5dd09977efde2d3433aff4d35687d5e8":[6,0,3476,4]
 };

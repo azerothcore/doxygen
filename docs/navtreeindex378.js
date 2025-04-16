@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"df/d32/classspell__item__gnomish__death__ray.html#abd09f5df3f31af619f24214f90791a53":[6,0,3211,2],
 "df/d32/classspell__item__gnomish__death__ray.html#ae2d2de36cceb037006eb4126f8e1778c":[6,0,3211,1],
 "df/d32/classspell__midsummer__juggling__torch.html":[6,0,3409],
 "df/d32/classspell__midsummer__juggling__torch.html#a1ffdc199a04bd6ead1a09bc977ae964c":[6,0,3409,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "df/d40/classnpc__scarlet__cannon.html#ae2b74a4dab4b34f026fd17d5ed381c99":[6,0,2086,2],
 "df/d40/classspell__optic__link__aura.html":[6,0,3465],
 "df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[6,0,3465,2],
-"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[6,0,3465,1],
-"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[6,0,3465,0]
+"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[6,0,3465,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,11,7,7,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,11,7,7,5],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,30,7,7,5],
 "dd/d26/structtf__tower__world__state.html":[6,0,4104],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dd/d27/structSmartAction.html#aa7bd614939c6716a0e467853f814a711":[6,0,2551,23],
 "dd/d27/structSmartAction.html#aa8ceda35f9e5696f54e5ddfe132867c9":[6,0,2551,153],
 "dd/d27/structSmartAction.html#aa90fd84fa34526af47c351b51959b470":[6,0,2551,286],
-"dd/d27/structSmartAction.html#aa97d744e6a76dbb1e9d108bb82e266dc":[6,0,2551,239],
-"dd/d27/structSmartAction.html#aaac11b3eeab7ac3a5c2835c2e26b6881":[6,0,2551,61]
+"dd/d27/structSmartAction.html#aa97d744e6a76dbb1e9d108bb82e266dc":[6,0,2551,239]
 };

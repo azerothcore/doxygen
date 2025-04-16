@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea4450f25b134ecf8de8ff18632caf6b4e":[7,0,0,0,1,3,7,4,3,5,2,13],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea468f0aea97332fed71283ff1f48e9600":[7,0,0,0,1,3,7,4,3,5,2,8],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea63b6a39aa642f2e0d8c55829cf8e7205":[7,0,0,0,1,3,7,4,3,5,2,10],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea980c7943a6b8da340ba5250e5b0d0bc6":[7,0,0,0,1,3,7,4,3,5,2,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a0515a72abd37df13606876021659b995":[6,0,2638,1],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a99f96034b5976615c38e13e5e55c61b6":[6,0,2638,0],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#ad7c8338ae3f3e6680405652c3e5f7f06":[6,0,2638,2],
-"de/dc0/structBattlegroundTemplate.html":[6,0,337],
-"de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[6,0,337,2]
+"de/dc0/structBattlegroundTemplate.html":[6,0,337]
 };

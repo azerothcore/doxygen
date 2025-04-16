@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d8d/structSmartTarget.html#a5d5c979cd4cfd87f978d065ff7c03d01":[6,0,2558,37],
 "df/d8d/structSmartTarget.html#a5d72ed7a43cb807080d7d5461fffaecd":[6,0,2558,7],
 "df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d":[6,0,2558,47],
 "df/d8d/structSmartTarget.html#a62e3ea34a7cbe34515bd075373a8b947":[6,0,2558,60],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a3ae6edef4812fd3161c3b8ad5aa5cac2":[6,0,2078,0,5],
 "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a4328c25f12f562cfdf41740e908cb3bd":[6,0,2078,0,7],
 "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a4d855a23c638e835de6f1c4644350166":[6,0,2078,0,2],
-"df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a4daa5104eabb6d38c22274b48a8514be":[6,0,2078,0,0],
-"df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a6f380ad58cf55fe2ea9fc1f56118b454":[6,0,2078,0,6]
+"df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a4daa5104eabb6d38c22274b48a8514be":[6,0,2078,0,0]
 };

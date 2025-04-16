@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3537,2],
 "db/de9/classspell__pursue.html#aef8bfe18b42bcc9ad70378c0d78354e7":[6,0,3537,1],
 "db/de9/classspell__pursue.html#afabe09f8d9a9a10855d6469e8a3db30f":[6,0,3537,3],
 "db/dea/classLinkedListHead.html":[6,0,1411],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1204,2],
 "db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1204,12],
 "db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[6,0,1204,0],
-"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1204,3],
-"db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[6,0,1204,7]
+"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1204,3]
 };

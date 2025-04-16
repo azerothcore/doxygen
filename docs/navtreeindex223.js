@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dcb/halls__of__lightning_8h.html#a32c56077197ba30bb4a0f7c7ed0e30ba":[7,0,0,0,1,3,5,9,0,4,3],
 "d8/dcb/halls__of__lightning_8h.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a":[7,0,0,0,1,3,5,9,0,4,3,4],
 "d8/dcb/halls__of__lightning_8h.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc":[7,0,0,0,1,3,5,9,0,4,3,1],
 "d8/dcb/halls__of__lightning_8h.html#a32c56077197ba30bb4a0f7c7ed0e30baa8eab9585e6640e1543ecee2cfc2753c7":[7,0,0,0,1,3,5,9,0,4,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dd6/classnpc__hidden__cultist.html#a4897006d9416f1177b0bc0e41df60293":[6,0,1830,2],
 "d8/dd6/classnpc__hidden__cultist.html#ab455b35fea966360e01fb8975adad989":[6,0,1830,1],
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html":[6,0,2084,0],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a2ed920f949c4d8dbc6d6ff5b9149e749":[6,0,2084,0,3],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a45201c4a5b94fad948efe1d08e63e262":[6,0,2084,0,1]
+"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a2ed920f949c4d8dbc6d6ff5b9149e749":[6,0,2084,0,3]
 };

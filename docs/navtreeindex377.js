@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#a1074059162f818088808795119f081be":[6,0,1859,0,3],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#a5de6e46fd21fd073fde2f0aaa5dc947a":[6,0,1859,0,1],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#ac9da073c33dd33097f03ca35d36ea15e":[6,0,1859,0,2],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#af52eff9f66451444c5acba6930c1bff6":[6,0,1859,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#afe20873a4b4181a895cb2578e19ec5f9":[6,0,1351,0,7],
 "df/d32/classspell__item__gnomish__death__ray.html":[6,0,3211],
 "df/d32/classspell__item__gnomish__death__ray.html#a7a8016e1403caa0432242c5c3240f107":[6,0,3211,0],
-"df/d32/classspell__item__gnomish__death__ray.html#ab14aedfdb61d54334f60e57968fcf081":[6,0,3211,3],
-"df/d32/classspell__item__gnomish__death__ray.html#abd09f5df3f31af619f24214f90791a53":[6,0,3211,2]
+"df/d32/classspell__item__gnomish__death__ray.html#ab14aedfdb61d54334f60e57968fcf081":[6,0,3211,3]
 };

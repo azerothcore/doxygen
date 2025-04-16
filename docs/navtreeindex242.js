@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc8/classDialogueHelper.html#a3566655e8781bf5f9dff514fcd659421":[6,0,972,0],
 "d9/dc8/classDialogueHelper.html#a489b8cd1c75ced0ec8e34b8051899dd7":[6,0,972,8],
 "d9/dc8/classDialogueHelper.html#a50e652ca2cff035d8c79517fdbcfc67a":[6,0,972,3],
 "d9/dc8/classDialogueHelper.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af":[6,0,972,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#aad63d9f5960111e34b0a3005e2c51d0f":[6,0,814,0],
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#adcedbb1fa73310dff07fb945793fb23e":[6,0,814,1],
 "d9/ddf/FollowerReference_8h.html":[7,0,0,0,1,2,31,4],
-"d9/de2/classspell__cannibalize__heal.html":[6,0,2685],
-"d9/de2/classspell__cannibalize__heal.html#a383479896e6deb96e50b827370ccfd4d":[6,0,2685,2]
+"d9/de2/classspell__cannibalize__heal.html":[6,0,2685]
 };

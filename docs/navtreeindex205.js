@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/dea/classboss__koralon.html":[6,0,576],
 "d7/dea/classboss__koralon.html#a43b9fb1224abeba44080fb02062451b0":[6,0,576,1],
 "d7/dea/classboss__koralon.html#a7afd462b2c43ee088c09fcb7ddcb141d":[6,0,576,2],
 "d7/dea/classnpc__training__dummy.html":[6,0,2199],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442acc2bcdb3b9b4ac3acc7c0de83d023c38":[7,0,0,0,1,2,16,10,6,12,1],
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442ad06ca3366efc97cb6e96b76a0aab2991":[7,0,0,0,1,2,16,10,6,12,0],
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442afb9ad4eb10498c4a1e8cad3425d65d0f":[7,0,0,0,1,2,16,10,6,12,2],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2":[7,0,0,0,1,2,16,10,6,5],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1a30e0bc88915dbd96e58ef959cbb8b3":[7,0,0,0,1,2,16,10,6,5,9]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2":[7,0,0,0,1,2,16,10,6,5]
 };

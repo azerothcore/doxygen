@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/dba/instance__ahnkahet_8cpp.html":[7,0,0,0,1,3,5,0,0,6],
 "df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3],
 "df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,4],
 "df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,0,0,6,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[6,0,1603,0,7],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#afb48cc1c2e254c292c33eade74b6fad7":[6,0,1603,0,1],
 "df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html":[6,0,1823,0],
-"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a4b4e2839e426bdb752beea09394f13dc":[6,0,1823,0,1],
-"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a7dd7f3625b177a96bcfdc5e46d944562":[6,0,1823,0,2]
+"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a4b4e2839e426bdb752beea09394f13dc":[6,0,1823,0,1]
 };

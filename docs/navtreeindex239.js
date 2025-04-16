@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e":[6,0,601,12],
 "d9/d98/structboss__magtheridon.html#a93fb4d888ebd6273bca0a128c8303996":[6,0,601,3],
 "d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4":[6,0,601,11],
 "d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a":[6,0,601,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/da5/Util_8cpp.html#a6afbc7b52fa1fe844f66ffcf8230ff93":[7,0,0,0,0,15,38,14],
 "d9/da5/Util_8cpp.html#a7c87560ed2ed33c60d9744beb97d1b33":[7,0,0,0,0,15,38,6],
 "d9/da5/Util_8cpp.html#a800adaea88b1924cade604107d41f82a":[7,0,0,0,0,15,38,9],
-"d9/da5/Util_8cpp.html#a8391493892d35ff6816f9457caee3e77":[7,0,0,0,0,15,38,17],
-"d9/da5/Util_8cpp.html#a856c0e32aef56abc9d36e7be0364e636":[7,0,0,0,0,15,38,2]
+"d9/da5/Util_8cpp.html#a8391493892d35ff6816f9457caee3e77":[7,0,0,0,0,15,38,17]
 };

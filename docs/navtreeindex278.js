@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,5,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,5,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,30,5,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,5,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ade11725b0d20c9db50bad03e1aa2510d":[7,0,0,0,1,3,5,8,0,0,28,4],
 "db/d86/boss__malygos_8cpp.html#ac7fb08307734367ba9b7f205c3cc94b7":[7,0,0,0,1,3,5,8,0,0,20],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cc":[7,0,0,0,1,3,5,8,0,0,26],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca0d596f17046558d54d8682b419504d33":[7,0,0,0,1,3,5,8,0,0,26,28],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca0d6a87830adddb7a1ae14d8d447ad2bc":[7,0,0,0,1,3,5,8,0,0,26,32]
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca0d596f17046558d54d8682b419504d33":[7,0,0,0,1,3,5,8,0,0,26,28]
 };

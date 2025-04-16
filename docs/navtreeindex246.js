@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"da/d08/classnpc__ulduar__storm__tempered__keeper.html":[6,0,2234],
 "da/d08/classnpc__ulduar__storm__tempered__keeper.html#aa0860236d2abedba1e521ee1610c89e8":[6,0,2234,2],
 "da/d08/classnpc__ulduar__storm__tempered__keeper.html#aaf2ef154cad4f2ba5796e410dabf02fc":[6,0,2234,1],
 "da/d09/VoiceChatHandler_8cpp.html":[7,0,0,0,1,2,22,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c89a941ed29e7a1f846c59f5dfe2812":[7,0,0,0,1,3,4,20,13,7],
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9600ba054090842fb496f7bd44915360":[7,0,0,0,1,3,4,20,13,16],
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cab22bb917cff7d6a67cefe2712a66299b":[7,0,0,0,1,3,4,20,13,11],
-"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cac193f276d7e62e6e3c96ff51c07e809d":[7,0,0,0,1,3,4,20,13,1],
-"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cae93c311cfc0096515b205b48c8d56654":[7,0,0,0,1,3,4,20,13,13]
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298cac193f276d7e62e6e3c96ff51c07e809d":[7,0,0,0,1,3,4,20,13,1]
 };

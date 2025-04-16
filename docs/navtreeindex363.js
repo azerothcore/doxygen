@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"de/d9d/classspell__hadronox__summon__periodic__aura.html#a09efdcddaed4af2833139ca20ef94376":[6,0,3028,4],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a191d7eec948e0753835bd41eef66f1ec":[6,0,3028,6],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a20827683249c17625242e205bb51f9e8":[6,0,3028,5],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4205560054e5baed86aecba3b98fc202":[6,0,3028,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a52c1b6b547d3d35e27c7747e06f5a225":[7,0,0,0,1,1,0,0,1,1,81],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a52f3be772f43e8bc5948a1d739601518":[7,0,0,0,1,1,0,0,1,1,266],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a52fbd980d632daf742a71c0e55ffa41a":[7,0,0,0,1,1,0,0,1,1,125],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a531b5df7daa738e8fc58da86591ce20b":[7,0,0,0,1,1,0,0,1,1,13],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a55e60327b6787abc20b4f576f0121a9f":[7,0,0,0,1,1,0,0,1,1,197]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a531b5df7daa738e8fc58da86591ce20b":[7,0,0,0,1,1,0,0,1,1,13]
 };

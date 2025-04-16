@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115eaa40c81252e354a16d6f036827c872e12":[7,0,0,0,1,2,41,0,0,5,3],
 "da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288":[7,0,0,0,1,2,41,0,0,3],
 "da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a1ad8c6affd2f65e52f1a377b7ebf3d4f":[7,0,0,0,1,2,41,0,0,3,5],
 "da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a2b4b8f92986980a3905f0c2d299beaae":[7,0,0,0,1,2,41,0,0,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "da/d40/AreaTriggerScript_8h.html":[7,0,0,0,1,2,38,0,22],
 "da/d40/boss__rajaxx_8cpp.html":[7,0,0,0,1,3,4,8,5],
 "da/d40/boss__rajaxx_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,8,5,6],
-"da/d40/boss__rajaxx_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,8,5,6,0],
-"da/d40/boss__rajaxx_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a57c90c1fd721d2a66069a73058c9f359":[7,0,0,0,1,3,4,8,5,6,2]
+"da/d40/boss__rajaxx_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,8,5,6,0]
 };

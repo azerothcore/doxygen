@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2926,1],
 "d9/df5/structboss__sartharion__dragonAI.html":[6,0,682],
 "d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[6,0,682,13],
 "d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[6,0,682,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a85dcc3a2ce6389642f2250f252eda66a":[7,0,0,0,1,3,5,9,2,16,7,35],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a8f140f99da69cf3004e3aa05ec231a0c":[7,0,0,0,1,3,5,9,2,16,7,31],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a9d657ed327303ff90db4e02bf677308e":[7,0,0,0,1,3,5,9,2,16,7,19],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2aa4f84d981a3f1a34176ca85e9feaca3d":[7,0,0,0,1,3,5,9,2,16,7,34],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2aa56fb72c07a6eaf8c98ea5b3685e5f3b":[7,0,0,0,1,3,5,9,2,16,7,23]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2aa4f84d981a3f1a34176ca85e9feaca3d":[7,0,0,0,1,3,5,9,2,16,7,34]
 };

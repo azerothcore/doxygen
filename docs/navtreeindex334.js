@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dd/ddf/structboss__fathomguard__caribdis.html#a73f567f2269aeca1435af82e1c6880e9":[6,0,457,7],
 "dd/ddf/structboss__fathomguard__caribdis.html#a9172b9717e5137ddde7df38bb237478c":[6,0,457,0],
 "dd/ddf/structboss__fathomguard__caribdis.html#aa666a491a776b12a042ee140aedc95eb":[6,0,457,1],
 "dd/ddf/structboss__fathomguard__caribdis.html#ab821365b35a48f70a11c6033fe2ca714":[6,0,457,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dd/ded/structboss__twin__valkyrAI.html#a624969393687e10c2f8fca72d9394265":[6,0,748,2],
 "dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a":[6,0,748,15],
 "dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,748,7],
-"dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,748,8],
-"dd/ded/structboss__twin__valkyrAI.html#a8a488e8d0acab2737c0503ce89fd3d2a":[6,0,748,9]
+"dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,748,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"dc/d66/classWMOGroup.html#af906d56c7da01d8afe8fcc1304f1a420":[6,0,4235,5],
 "dc/d66/classnpc__hor__leader__second.html":[6,0,1844],
 "dc/d66/classnpc__hor__leader__second.html#a8355f7f2f8e7655c7ebc7145a847ab87":[6,0,1844,3],
 "dc/d66/classnpc__hor__leader__second.html#a9fa1f38ab8a0b5d2207857b75e272ee0":[6,0,1844,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d7b/classspell__q10525__vision__guide.html#a9d696dc7e58692216fa1cf6cc7c011a9":[6,0,3564,2],
 "dc/d7b/classspell__q10525__vision__guide.html#ab291f6c6f269ec7004df39a043f49efd":[6,0,3564,3],
 "dc/d7b/structTempSummonGroupKey.html":[6,0,4103],
-"dc/d7b/structTempSummonGroupKey.html#a0ecac0e82ce63c9e64f2e17d941df447":[6,0,4103,2],
-"dc/d7b/structTempSummonGroupKey.html#a1a90f3bf90363f88828cc217dd7ceda6":[6,0,4103,4]
+"dc/d7b/structTempSummonGroupKey.html#a0ecac0e82ce63c9e64f2e17d941df447":[6,0,4103,2]
 };

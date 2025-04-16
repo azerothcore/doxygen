@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d44/structBoneStormMoveTargetSelector.html#acd13e67fbbc29137ca2b77aaf9dc0e77":[6,0,359,0],
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html":[6,0,790,0],
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#a63d63a0b981c278fcfadfdda1feb5a12":[6,0,790,0,0],
 "d3/d44/structboss__yoggsaron__crusher__tentacle_1_1boss__yoggsaron__crusher__tentacleAI.html#a8329bc78fc037655d48cb9bf0abd8447":[6,0,790,0,4],
@@ -201,10 +202,10 @@ var NAVTREEINDEX97 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1030,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,30,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,6,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3412],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3412,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3412,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html#a696d62fed28de9c67827dad111cf320b":[6,0,4140,0,0],
 "d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html#a6e9dd149ce11dcc1c2adf039c73e8023":[6,0,4140,0,2],
 "d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html#ac434f6a60065ae3b1adcb11d58af4299":[6,0,4140,0,4],
-"d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html#aed31d60765eff7dd11790714e28e729e":[6,0,4140,0,1],
-"d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html":[6,0,1813,0]
+"d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html#aed31d60765eff7dd11790714e28e729e":[6,0,4140,0,1]
 };

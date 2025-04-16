@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#afdeb7ea381853078d515d8a0f157533b":[6,0,11,5,4,2],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html":[5,0,30,5,49],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html":[6,0,11,5,49],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html#a55cfd6f4797e61ca01ee7aa5c65d9a69":[6,0,11,5,49,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html":[6,0,1867,0],
 "dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a18330d49e510f83af7ee0120df14e633":[6,0,1867,0,0],
 "dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a1c8a527d217f9b810f87da0fc020528a":[6,0,1867,0,5],
-"dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a2291e4a6bbf917a810b31776dee9dd24":[6,0,1867,0,3],
-"dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a971fa0e468d9d58ffdda7c7b8aa53485":[6,0,1867,0,4]
+"dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a2291e4a6bbf917a810b31776dee9dd24":[6,0,1867,0,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d7/d32/classBIH_1_1BuildStats.html#a37d64390b3f004f36588c1467a446cd0":[6,0,355,1,9],
 "d7/d32/classBIH_1_1BuildStats.html#a6546dd9cc0de2cba9159f6ab2477b81f":[6,0,355,1,10],
 "d7/d32/classBIH_1_1BuildStats.html#a77e7b7ff44c0f16fc2b5d4370c18751b":[6,0,355,1,1],
 "d7/d32/classBIH_1_1BuildStats.html#a84aa8066e8e19902aecec45607d7a93d":[6,0,355,1,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a1a28c61fa7784fd68f360c2c5f40b7ea":[7,0,0,0,1,3,5,4,0,3,4,5],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a34fc0c7d782672f9ff826bfb6eaf58b1":[7,0,0,0,1,3,5,4,0,3,4,6],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a4e949a1824d25f0029cde2a51776c792":[7,0,0,0,1,3,5,4,0,3,4,9],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a5cb735e4a8f08c6ccf45bd8ccd1516ef":[7,0,0,0,1,3,5,4,0,3,4,10],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a6b34045602bdf002ce1b3d30d7fcdac4":[7,0,0,0,1,3,5,4,0,3,4,14]
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a5cb735e4a8f08c6ccf45bd8ccd1516ef":[7,0,0,0,1,3,5,4,0,3,4,10]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,125,12],
 "d2/d3f/classActivePoolData.html#ae4e61f0da2ed8848c3afced7af36e761":[6,0,125,19],
 "d2/d3f/classActivePoolData.html#ae5973d0bb86a4477a3471579c5697d51":[6,0,125,6],
 "d2/d3f/classActivePoolData.html#ae6cf482063504094ce47271cf8097001":[6,0,125,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d48/classGameEventScript.html#a4813f26f03e5ba79a740bf30558e604c":[6,0,1070,3],
 "d2/d48/classGameEventScript.html#aadab9593da561e9b19202d09b53cba36":[6,0,1070,1],
 "d2/d48/classGameEventScript.html#ac43a9c70638ad56b69b5841ee8410374":[6,0,1070,0],
-"d2/d48/classspell__fungal__decay.html":[6,0,2867],
-"d2/d48/classspell__fungal__decay.html#a1c79b1016361eabb5cef57a893bccfcf":[6,0,2867,1]
+"d2/d48/classspell__fungal__decay.html":[6,0,2867]
 };

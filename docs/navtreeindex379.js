@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[6,0,3465,0],
 "df/d41/classSocketMgr.html":[6,0,2564],
 "df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[6,0,2564,12],
 "df/d41/classSocketMgr.html#a6d8519103f85522d3bc0bfac5a0955c9":[6,0,2564,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[6,0,3779,1],
 "df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[6,0,3779,2],
 "df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[6,0,3779,0],
-"df/d56/classAreaBoundary.html":[6,0,158],
-"df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[6,0,158,4]
+"df/d56/classAreaBoundary.html":[6,0,158]
 };

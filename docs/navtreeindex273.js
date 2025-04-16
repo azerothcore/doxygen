@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d39/structnpc__midsummer__ribbon__pole__target.html#af37e104b67dcf9a2c181c142d56cc708":[6,0,1958,4],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#af4e76d832c3fd47eb88c1a69d0cdf9ff":[6,0,1958,2],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#affeb3025627dd5697f0c4dccab66d3b6":[6,0,1958,10],
 "db/d3a/classnpc__conversing__with__the__depths__trigger.html":[6,0,1690],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298caa7157fd92da429322cb3953148dd8439":[7,0,0,0,1,3,4,8,4,10,7],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[7,0,0,0,1,3,4,8,4,10,2],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298cacf98b779c795324d47e44b043eeacf92":[7,0,0,0,1,3,4,8,4,10,1],
-"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298cae51b0b3c8bfd3451015dfa76dc9bc18b":[7,0,0,0,1,3,4,8,4,10,8],
-"db/d4e/boss__ossirian_8cpp.html#a87e735e672f96071229bf49e7939637b":[7,0,0,0,1,3,4,8,4,13]
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298cae51b0b3c8bfd3451015dfa76dc9bc18b":[7,0,0,0,1,3,4,8,4,10,8]
 };

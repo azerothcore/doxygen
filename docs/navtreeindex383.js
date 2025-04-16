@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2506c434b212867f6a797b2f6dbc44bc":[7,0,0,0,1,3,5,9,2,4,43,3],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f3a4c4f65a02db119e97acdb0de3c70":[7,0,0,0,1,3,5,9,2,4,43,4],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a653cb7ac35e95f513bd33aeaf209825f":[7,0,0,0,1,3,5,9,2,4,43,0],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ce227d3cc740f5d52c5d46259892d35":[7,0,0,0,1,3,5,9,2,4,43,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "df/d8d/structSmartTarget.html#a574fa96928ef9dbca12649c55b7ea596":[6,0,2558,42],
 "df/d8d/structSmartTarget.html#a59e03101305ccf733a6bdb0e80fe1cce":[6,0,2558,59],
 "df/d8d/structSmartTarget.html#a5aaa94e956b2653c8b7da95b1885c1a1":[6,0,2558,19],
-"df/d8d/structSmartTarget.html#a5cb2f6adcedfb1e83c816e7acab7844d":[6,0,2558,14],
-"df/d8d/structSmartTarget.html#a5d5c979cd4cfd87f978d065ff7c03d01":[6,0,2558,37]
+"df/d8d/structSmartTarget.html#a5cb2f6adcedfb1e83c816e7acab7844d":[6,0,2558,14]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f":[7,0,0,0,1,2,20,1,15,0],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa1b7e37d6dc247df81321e83d0ffe008a":[7,0,0,0,1,2,20,1,15,4],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a":[7,0,0,0,1,2,20,1,15,1],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa7f1ec5eb59564ae05005b9260e1d974e":[7,0,0,0,1,2,20,1,15,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,9,2,2],
 "de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,9,2,0],
 "de/d44/structDBCDatabaseLoader.html":[6,0,948],
-"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,948,3],
-"de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[6,0,948,0]
+"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,948,3]
 };

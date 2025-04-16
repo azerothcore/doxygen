@@ -130,6 +130,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4ed61ec65ed94d8d5e42ae7ff9ecd41d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae81c2e5865beb00df8683fa0fb6e7872" id="r_ae81c2e5865beb00df8683fa0fb6e7872"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d28/structnpc__singularity.html#ae81c2e5865beb00df8683fa0fb6e7872">Reset</a> () override</td></tr>
 <tr class="separator:ae81c2e5865beb00df8683fa0fb6e7872"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76c21129756dec05f6f2d88cebe948c5" id="r_a76c21129756dec05f6f2d88cebe948c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5">FindAndFollowTarget</a> ()</td></tr>
+<tr class="separator:a76c21129756dec05f6f2d88cebe948c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad019d234ca9ee719612d59e5bb0b53ea" id="r_ad019d234ca9ee719612d59e5bb0b53ea"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d28/structnpc__singularity.html#ad019d234ca9ee719612d59e5bb0b53ea">UpdateAI</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
 <tr class="memdesc:ad019d234ca9ee719612d59e5bb0b53ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged.">JustEngagedWith()</a>  <br /></td></tr>
 <tr class="separator:ad019d234ca9ee719612d59e5bb0b53ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -448,6 +450,84 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a76c21129756dec05f6f2d88cebe948c5" name="a76c21129756dec05f6f2d88cebe948c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76c21129756dec05f6f2d88cebe948c5">&#9670;&#160;</a></span>FindAndFollowTarget()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_singularity::FindAndFollowTarget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  299</span>    {</div>
+<div class="line"><span class="lineno">  300</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  301</span>        {</div>
+<div class="line"><span class="lineno">  302</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>            <span class="keyword">auto</span> <span class="keyword">const</span>&amp; playerList = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793">GetPlayers</a>();</div>
+<div class="line"><span class="lineno">  305</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; playerRef : playerList)</div>
+<div class="line"><span class="lineno">  306</span>            {</div>
+<div class="line"><span class="lineno">  307</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = playerRef.GetSource())</div>
+<div class="line"><span class="lineno">  308</span>                {</div>
+<div class="line"><span class="lineno">  309</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(player) &amp;&amp; player-&gt;IsAlive() &amp;&amp; !player-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f">SPELL_BLACK_HOLE_EFFECT</a>))</div>
+<div class="line"><span class="lineno">  310</span>                    {</div>
+<div class="line"><span class="lineno">  311</span>                        target = player;</div>
+<div class="line"><span class="lineno">  312</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  313</span>                    }</div>
+<div class="line"><span class="lineno">  314</span>                }</div>
+<div class="line"><span class="lineno">  315</span>            }</div>
+<div class="line"><span class="lineno">  316</span> </div>
+<div class="line"><span class="lineno">  317</span>            <span class="keywordflow">if</span> (target)</div>
+<div class="line"><span class="lineno">  318</span>            {</div>
+<div class="line"><span class="lineno">  319</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>();</div>
+<div class="line"><span class="lineno">  320</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MoveFollow</a>(target, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  321</span> </div>
+<div class="line"><span class="lineno">  322</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(6s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a>)</div>
+<div class="line"><span class="lineno">  323</span>                {</div>
+<div class="line"><span class="lineno">  324</span>                    <a class="code hl_function" href="../../d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5">FindAndFollowTarget</a>();</div>
+<div class="line"><span class="lineno">  325</span>                });</div>
+<div class="line"><span class="lineno">  326</span>            }</div>
+<div class="line"><span class="lineno">  327</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  328</span>            {</div>
+<div class="line"><span class="lineno">  329</span>                <span class="comment">// No valid target found, check again soon</span></div>
+<div class="line"><span class="lineno">  330</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(1s);</div>
+<div class="line"><span class="lineno">  331</span>            }</div>
+<div class="line"><span class="lineno">  332</span>        });</div>
+<div class="line"><span class="lineno">  333</span>    }</div>
+<div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f">SPELL_BLACK_HOLE_EFFECT</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_EFFECT</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:54</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:75</div></div>
+<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
+<div class="ttc" id="aclassMotionMaster_html_ae59d20f5f912abfb83be3bfc263af04f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MotionMaster::MoveFollow</a></div><div class="ttdeci">void MoveFollow(Unit *target, float dist, float angle, MovementSlot slot=MOTION_SLOT_ACTIVE, bool inheritWalkState=true, bool inheritSpeed=true)</div><div class="ttdoc">The unit will follow this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:409</div></div>
+<div class="ttc" id="aclassMotionMaster_html_afa6ffa9c5d6897f3aad3ac524c7bb35a"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">MotionMaster::Clear</a></div><div class="ttdeci">void Clear(bool reset=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:167</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
+<div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
+<div class="ttc" id="aclassTaskContext_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:493</div></div>
+<div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:232</div></div>
+<div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1673</div></div>
+<div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:536</div></div>
+<div class="ttc" id="aclassWorldObject_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1358</div></div>
+<div class="ttc" id="anamespaceObjectAccessor_html_a868ecab21b3e6e3ac68beed32f4ea793"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793">ObjectAccessor::GetPlayers</a></div><div class="ttdeci">HashMapHolder&lt; Player &gt;::MapType const &amp; GetPlayers()</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:75</div></div>
+<div class="ttc" id="astructnpc__singularity_html_a76c21129756dec05f6f2d88cebe948c5"><div class="ttname"><a href="../../d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5">npc_singularity::FindAndFollowTarget</a></div><div class="ttdeci">void FindAndFollowTarget()</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:298</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00167">MotionMaster::Clear()</a>, <a class="el" href="../../#l00298">FindAndFollowTarget()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01358">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00409">MotionMaster::MoveFollow()</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00054">SPELL_BLACK_HOLE_EFFECT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00298">FindAndFollowTarget()</a>, and <a class="el" href="../../#l00269">Reset()</a>.</p>
+
+</div>
+</div>
 <a id="ae81c2e5865beb00df8683fa0fb6e7872" name="ae81c2e5865beb00df8683fa0fb6e7872"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae81c2e5865beb00df8683fa0fb6e7872">&#9670;&#160;</a></span>Reset()</h2>
 
@@ -490,52 +570,26 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([&amp;] {</div>
 <div class="line"><span class="lineno">  286</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd">SPELL_BLACK_HOLE_VISUAL2</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  287</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085">SPELL_BLACK_HOLE_PASSIVE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  288</span>        }, 8s);</div>
-<div class="line"><span class="lineno">  289</span> </div>
-<div class="line"><span class="lineno">  290</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([&amp;] {</div>
-<div class="line"><span class="lineno">  291</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ada48afda515b2bf5acc45c5872972114">KillSelf</a>();</div>
-<div class="line"><span class="lineno">  292</span>        }, 17s);</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(8s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  295</span>        {</div>
-<div class="line"><span class="lineno">  296</span>            <span class="keyword">auto</span> <span class="keyword">const</span>&amp; playerList = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
-<div class="line"><span class="lineno">  297</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; playerRef : playerList)</div>
-<div class="line"><span class="lineno">  298</span>            {</div>
-<div class="line"><span class="lineno">  299</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = playerRef.GetSource())</div>
-<div class="line"><span class="lineno">  300</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(player) &amp;&amp; player-&gt;IsAlive() &amp;&amp; !player-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f">SPELL_BLACK_HOLE_EFFECT</a>))</div>
-<div class="line"><span class="lineno">  301</span>                    {</div>
-<div class="line"><span class="lineno">  302</span>                        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, player-&gt;GetPositionX(), player-&gt;GetPositionY(), player-&gt;GetPositionZ(), <span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  303</span>                        context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
-<div class="line"><span class="lineno">  304</span>                        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  305</span>                    }</div>
-<div class="line"><span class="lineno">  306</span>            }</div>
-<div class="line"><span class="lineno">  307</span> </div>
-<div class="line"><span class="lineno">  308</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(1s);</div>
-<div class="line"><span class="lineno">  309</span>        });</div>
-<div class="line"><span class="lineno">  310</span>    }</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>            <span class="comment">// Start following players after visuals are complete</span></div>
+<div class="line"><span class="lineno">  290</span>            <a class="code hl_function" href="../../d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5">FindAndFollowTarget</a>();</div>
+<div class="line"><span class="lineno">  291</span>        }, 8s);</div>
+<div class="line"><span class="lineno">  292</span> </div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([&amp;] {</div>
+<div class="line"><span class="lineno">  294</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ada48afda515b2bf5acc45c5872972114">KillSelf</a>();</div>
+<div class="line"><span class="lineno">  295</span>        }, 17s);</div>
+<div class="line"><span class="lineno">  296</span>    }</div>
 <div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd">SPELL_BLACK_HOLE_VISUAL2</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_VISUAL2</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:52</div></div>
 <div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298ca23774b52390332d7deb748a26be41544"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca23774b52390332d7deb748a26be41544">SPELL_BLACK_HOLE_SUMMON_VISUAL</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_SUMMON_VISUAL</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:50</div></div>
 <div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96">SPELL_BLACK_HOLE_SUMMON_VISUAL2</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_SUMMON_VISUAL2</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:51</div></div>
-<div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f">SPELL_BLACK_HOLE_EFFECT</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_EFFECT</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:54</div></div>
 <div class="ttc" id="aboss__muru_8cpp_html_a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085"><div class="ttname"><a href="../../d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085">SPELL_BLACK_HOLE_PASSIVE</a></div><div class="ttdeci">@ SPELL_BLACK_HOLE_PASSIVE</div><div class="ttdef"><b>Definition</b> boss_muru.cpp:53</div></div>
-<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:75</div></div>
-<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2183</div></div>
 <div class="ttc" id="aclassEventProcessor_html_ac4cfbe963d7e9335f6404666a6b95bad"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">EventProcessor::AddEventAtOffset</a></div><div class="ttdeci">void AddEventAtOffset(BasicEvent *event, Milliseconds offset)</div><div class="ttdef"><b>Definition</b> EventProcessor.h:107</div></div>
-<div class="ttc" id="aclassMap_html_ae37764185b1adf2c6438025e4fa9091a"><div class="ttname"><a href="../../d7/db0/classMap.html#ae37764185b1adf2c6438025e4fa9091a">Map::GetPlayers</a></div><div class="ttdeci">PlayerList const &amp; GetPlayers() const</div><div class="ttdef"><b>Definition</b> Map.h:333</div></div>
-<div class="ttc" id="aclassMotionMaster_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:213</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1081</div></div>
-<div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
-<div class="ttc" id="aclassTaskContext_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:493</div></div>
-<div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:392</div></div>
-<div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1673</div></div>
 <div class="ttc" id="aclassUnit_html_ada48afda515b2bf5acc45c5872972114"><div class="ttname"><a href="../../df/dd9/classUnit.html#ada48afda515b2bf5acc45c5872972114">Unit::KillSelf</a></div><div class="ttdeci">void KillSelf(bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.h:1168</div></div>
-<div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:536</div></div>
-<div class="ttc" id="aclassWorldObject_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1358</div></div>
 <div class="ttc" id="aclassWorldObject_html_ab963446488123d34f39a32587d9720a6"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">WorldObject::m_Events</a></div><div class="ttdeci">EventProcessor m_Events</div><div class="ttdef"><b>Definition</b> Object.h:639</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l02183">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00333">Map::GetPlayers()</a>, <a class="el" href="../../#l01358">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../#l01168">Unit::KillSelf()</a>, <a class="el" href="../../#l00639">WorldObject::m_Events</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00054">SPELL_BLACK_HOLE_EFFECT</a>, <a class="el" href="../../#l00053">SPELL_BLACK_HOLE_PASSIVE</a>, <a class="el" href="../../#l00050">SPELL_BLACK_HOLE_SUMMON_VISUAL</a>, <a class="el" href="../../#l00051">SPELL_BLACK_HOLE_SUMMON_VISUAL2</a>, and <a class="el" href="../../#l00052">SPELL_BLACK_HOLE_VISUAL2</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l02183">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00298">FindAndFollowTarget()</a>, <a class="el" href="../../#l01168">Unit::KillSelf()</a>, <a class="el" href="../../#l00639">WorldObject::m_Events</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00053">SPELL_BLACK_HOLE_PASSIVE</a>, <a class="el" href="../../#l00050">SPELL_BLACK_HOLE_SUMMON_VISUAL</a>, <a class="el" href="../../#l00051">SPELL_BLACK_HOLE_SUMMON_VISUAL2</a>, and <a class="el" href="../../#l00052">SPELL_BLACK_HOLE_VISUAL2</a>.</p>
 
 </div>
 </div>
@@ -566,9 +620,9 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  313</span>    {</div>
-<div class="line"><span class="lineno">  314</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  315</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  336</span>    {</div>
+<div class="line"><span class="lineno">  337</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  338</span>    }</div>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
@@ -584,7 +638,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d28/structnpc__singularity.html">npc_singularity</a></li>
-    <li class="footer">Generated on Tue Apr 15 2025 06:22:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Apr 16 2025 06:23:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

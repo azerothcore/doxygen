@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1797,0,2],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1797,0,4],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[6,0,1797,0,9],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[6,0,1797,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2076,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2076,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#ae445545476b4046db305117fa635e7f5":[6,0,2076,2],
-"dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[7,0,0,0,1,3,2,1,0,4]
+"dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6]
 };

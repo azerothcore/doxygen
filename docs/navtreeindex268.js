@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/def/structItemExtendedCostEntry.html":[6,0,1379],
 "da/def/structItemExtendedCostEntry.html#a5d45007a832d6120e29c7821c07646de":[6,0,1379,1],
 "da/def/structItemExtendedCostEntry.html#a615c5fe0966b5054303ebe1290adc9b6":[6,0,1379,5],
 "da/def/structItemExtendedCostEntry.html#a906c42770a619884f08b67e2870bff93":[6,0,1379,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/df9/boss__auriaya_8cpp.html#a7b693a30ab60571833b6462f10feee14":[7,0,0,0,1,3,5,9,2,2,13],
 "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eac":[7,0,0,0,1,3,5,9,2,2,15],
 "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca1b3f76a6c47994411b4f2c801eca13aa":[7,0,0,0,1,3,5,9,2,2,15,4],
-"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,9,2,2,15,7],
-"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca528436f7d54449edeb50415a0870968a":[7,0,0,0,1,3,5,9,2,2,15,2]
+"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,9,2,2,15,7]
 };

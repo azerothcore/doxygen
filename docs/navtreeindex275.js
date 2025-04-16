@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d5c/classWarden.html#a5949bd3821517bff75d1915ffdfd3e82":[6,0,4192,30],
 "db/d5c/classWarden.html#a5df981bbab9e8d8bb4bd57830b9f0ecb":[6,0,4192,35],
 "db/d5c/classWarden.html#a6331604c865f2719c9d6e3960ce5c112":[6,0,4192,36],
 "db/d5c/classWarden.html#a64c5aff3e071b8190fcf5aa3f4e61d0c":[6,0,4192,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d68/classPlayerTextBuilder.html#ac97cf187d079c5162e47bebb7024faa5":[6,0,2414,7],
 "db/d68/classPlayerTextBuilder.html#aece205d3d523dcf6fefbdd9914943723":[6,0,2414,2],
 "db/d68/classPlayerTextBuilder.html#af546f2788870b8b10b3405695ef81171":[6,0,2414,4],
-"db/d68/classboss__yoggsaron__lich__king.html":[6,0,797],
-"db/d68/classboss__yoggsaron__lich__king.html#a1655d608683e90ccafd350204eed2d31":[6,0,797,1]
+"db/d68/classboss__yoggsaron__lich__king.html":[6,0,797]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/dc8/classspell__pri__guardian__spirit.html":[6,0,3515],
 "dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[6,0,3515,6],
 "dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[6,0,3515,3],
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[6,0,3515,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/dd9/classSACDeactivateEvent.html#acc87b2f689bf2e6a3f19440dceb6ea6d":[6,0,2501,2],
 "dc/dd9/classnpc__icc__valkyr__herald.html":[6,0,1872],
 "dc/dd9/classnpc__icc__valkyr__herald.html#a7537269841d0380d2dc9e4641705acf9":[6,0,1872,2],
-"dc/dd9/classnpc__icc__valkyr__herald.html#a9d06e0dec8cb960d34c2089c1c0d8ccb":[6,0,1872,1],
-"dc/dd9/classspell__igb__rocket__pack__useable__aura.html":[6,0,3137]
+"dc/dd9/classnpc__icc__valkyr__herald.html#a9d06e0dec8cb960d34c2089c1c0d8ccb":[6,0,1872,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d24/structnpc__hyjal__ground__trash.html#a0ab86d651644dcc579585176c2b5c07e":[6,0,1854,1],
 "db/d24/structnpc__hyjal__ground__trash.html#a576b909d65ae862af5dcc6500d2ff7e1":[6,0,1854,4],
 "db/d24/structnpc__hyjal__ground__trash.html#a91b3ee049bf199271618afd3ad0c5f77":[6,0,1854,7],
 "db/d24/structnpc__hyjal__ground__trash.html#aa38b45f63841c049a2add0a9832268ef":[6,0,1854,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#ab732995946655894611eb1c12ce4e8a8":[6,0,1958,9],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#ac09222eff300a11e03e8a3a1c9a3fd5f":[6,0,1958,0],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#ae91d1899212fa391f6ae4ec3a1de6e85":[6,0,1958,8],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#aeea38608ae98cd5597c104ea04e32523":[6,0,1958,13],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#af37e104b67dcf9a2c181c142d56cc708":[6,0,1958,4]
+"db/d39/structnpc__midsummer__ribbon__pole__target.html#aeea38608ae98cd5597c104ea04e32523":[6,0,1958,13]
 };

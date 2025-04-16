@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/dbd/classspell__item__scroll__of__recall.html#a61f1a4514e9900e4e14fded3c0b05593":[6,0,3259,1],
 "d9/dbd/classspell__item__scroll__of__recall.html#a62b9c194106e261245496441176c8d53":[6,0,3259,3],
 "d9/dbd/classspell__item__scroll__of__recall.html#abfac1629b7724a3b17b94480c31867af":[6,0,3259,2],
 "d9/dbf/classGhoulTargetCheck.html":[6,0,1097],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dc8/GuildPackets_8cpp.html#abd3549ec2eebc439058205da8ae53eb3":[7,0,0,0,1,2,39,0,11,1],
 "d9/dc8/GuildPackets_8cpp.html#ae8a45300d819957eb5ed8c659180c750":[7,0,0,0,1,2,39,0,11,0],
 "d9/dc8/classDialogueHelper.html":[6,0,972],
-"d9/dc8/classDialogueHelper.html#a33b8551c136bcbc896b29d935c155a75":[6,0,972,6],
-"d9/dc8/classDialogueHelper.html#a3566655e8781bf5f9dff514fcd659421":[6,0,972,0]
+"d9/dc8/classDialogueHelper.html#a33b8551c136bcbc896b29d935c155a75":[6,0,972,6]
 };

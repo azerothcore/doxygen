@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/db4/model_8cpp.html":[7,0,0,0,3,4,6],
 "d6/db4/model_8cpp.html#a8d0afbab5641bb7d88196fbad79e4cf1":[7,0,0,0,3,4,6,0],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html":[6,0,485,0],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5":[6,0,485,0,9],
@@ -33,8 +34,8 @@ var NAVTREEINDEX177 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -233,8 +234,8 @@ var NAVTREEINDEX177 =
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,1],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,10],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,11],
-"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,8],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,9],
+"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,8],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1036,15],
 "d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee":[6,0,1036,16],
 "d6/dc2/classFileLoader.html#a498a33d80768843b4ab1ff2d5ffe68d9":[6,0,1036,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/dc2/classFileLoader.html#aff1880ac2038f17f4d1f63bc9f7d9afd":[6,0,1036,14],
 "d6/dc2/classnpc__tiger__matriarch.html":[6,0,2168],
 "d6/dc2/classnpc__tiger__matriarch.html#a05a08bfa64c428213a4b534a982afb71":[6,0,2168,1],
-"d6/dc2/classnpc__tiger__matriarch.html#a6d5664ca125a775c2d71f322f5a57655":[6,0,2168,2],
-"d6/dc2/classspell__item__gnomish__shrink__ray.html":[6,0,3212]
+"d6/dc2/classnpc__tiger__matriarch.html#a6d5664ca125a775c2d71f322f5a57655":[6,0,2168,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d66/classspell__anti__air__rocket__bomber.html#a05a38c1b8e3b674f3c6e79c59c7caddd":[6,0,2591,0],
 "dd/d66/classspell__anti__air__rocket__bomber.html#a0bfebaf099ef573b51bec0a511ceeb39":[6,0,2591,1],
 "dd/d66/classspell__anti__air__rocket__bomber.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1":[6,0,2591,2],
 "dd/d66/classspell__flame__warder__meteor__fists__aura.html":[6,0,2856],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a967628850b85038d917be69dc71e6a0e":[5,0,30,5,4,0],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#aa1d4274b057cc4ecec6b078ac4925a94":[5,0,30,5,4,1],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#aa1d4274b057cc4ecec6b078ac4925a94":[6,0,11,5,4,1],
-"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#afdeb7ea381853078d515d8a0f157533b":[5,0,30,5,4,2],
-"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#afdeb7ea381853078d515d8a0f157533b":[6,0,11,5,4,2]
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#afdeb7ea381853078d515d8a0f157533b":[5,0,30,5,4,2]
 };

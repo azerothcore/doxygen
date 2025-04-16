@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html":[6,0,1559,0],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#a35f4db17e0301ceaaab49727d1ca8289":[6,0,1559,0,1],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#a683cdbd0ef9d0562842aace5b440594f":[6,0,1559,0,7],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#a8572ec4b4fdcaab93666f581edf1c852":[6,0,1559,0,4],
@@ -8,12 +9,12 @@ var NAVTREEINDEX213 =
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#acf062337317d98e491e40cf6ae9bb3ea":[6,0,1559,0,0],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#ae1ff67fb743b4125b015c1ecce4bc9db":[6,0,1559,0,5],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#af0b183b951f1eba8114da1f7a1284d09":[6,0,1559,0,2],
-"d8/d58/classAcore_1_1RaidCheck.html":[6,0,0,100],
 "d8/d58/classAcore_1_1RaidCheck.html":[5,0,1,112],
+"d8/d58/classAcore_1_1RaidCheck.html":[6,0,0,100],
 "d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[5,0,1,112,1],
 "d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[6,0,0,100,1],
-"d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[6,0,0,100,2],
 "d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[5,0,1,112,2],
+"d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[6,0,0,100,2],
 "d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[5,0,1,112,3],
 "d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[6,0,0,100,3],
 "d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[5,0,1,112,0],
@@ -115,8 +116,8 @@ var NAVTREEINDEX213 =
 "d8/d5e/classspell__sha__chain__heal.html#ae28f1b0c23511153eafc037cae067bc0":[6,0,3731,3],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html":[6,0,0,41],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html":[5,0,1,53],
-"d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[5,0,1,53,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[6,0,0,41,4],
+"d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[5,0,1,53,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[5,0,1,53,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[6,0,0,41,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[6,0,0,41,0],
@@ -138,8 +139,8 @@ var NAVTREEINDEX213 =
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,11,7,5,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,30,7,5,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,11,7,5,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,30,7,5,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,11,7,5,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,30,7,5,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,30,7,5,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,11,7,5,0],
 "d8/d60/classboss__sartharion__shadron.html":[6,0,683],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d68/classIdleMovementGenerator.html#aa1eb3228e14c5b145f7074e97ccdab5f":[6,0,1274,1],
 "d8/d68/classIdleMovementGenerator.html#abf4c6547449605e703b424d8aa7f46b5":[6,0,1274,0],
 "d8/d69/classspell__q12014__steady__as__a__rock.html":[6,0,3604],
-"d8/d69/classspell__q12014__steady__as__a__rock.html#a36bf50cdb7be7ba03eafd4848c6ceced":[6,0,3604,2],
-"d8/d69/classspell__q12014__steady__as__a__rock.html#a53263ce51581f36c2df80b49c93fa9d3":[6,0,3604,0]
+"d8/d69/classspell__q12014__steady__as__a__rock.html#a36bf50cdb7be7ba03eafd4848c6ceced":[6,0,3604,2]
 };

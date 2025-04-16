@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d9/d0e/structemerald__dragonAI.html#aff24939b53a7d74b41ac9170a8a71e9c":[6,0,1005,4],
 "d9/d10/classgo__bells.html":[6,0,1115],
 "d9/d10/classgo__bells.html#a4f1272fb8856310d7924f8e7be1e39f8":[6,0,1115,2],
 "d9/d10/classgo__bells.html#a9f40a13aa1aaee28ebd1254d428c0519":[6,0,1115,1],
@@ -49,12 +50,12 @@ var NAVTREEINDEX229 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,30,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,30,7,2,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,30,7,2,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,30,7,2,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[6,0,11,7,2,1],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,30,7,2,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[6,0,2592],
 "d9/d13/classspell__anubisath__mortal__strike.html#a3c5a192302ec6d531037f8b5da1565f2":[6,0,2592,2],
 "d9/d13/classspell__anubisath__mortal__strike.html#a5945e24db52c6bacae7221b085dc877b":[6,0,2592,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d27/PlayerDump_8h.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323":[7,0,0,0,1,2,45,3,4,0],
 "d9/d27/classboss__krick.html":[6,0,579],
 "d9/d27/classboss__krick.html#a8921ff79c0af7db7f7910634239bcd0c":[6,0,579,1],
-"d9/d27/classboss__krick.html#a9aa994da7c667b20c00b1bd1e994fed1":[6,0,579,2],
-"d9/d27/classspell__demolisher__ride__vehicle.html":[6,0,2721]
+"d9/d27/classboss__krick.html#a9aa994da7c667b20c00b1bd1e994fed1":[6,0,579,2]
 };

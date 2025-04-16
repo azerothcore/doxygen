@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc7/classnpc__cairne__bloodhoof.html#a3519d94c5fcdc3d55e31c49c7773e56c":[6,0,1666,1],
 "d5/dc7/instance__zulgurub_8cpp.html":[7,0,0,0,1,3,2,16,13],
 "d5/dc7/instance__zulgurub_8cpp.html#a224e147b1990c0996e0ac61a1865e34c":[7,0,0,0,1,3,2,16,13,4],
 "d5/dc7/instance__zulgurub_8cpp.html#a352683729da59da9923d0f67d510f73c":[7,0,0,0,1,3,2,16,13,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dce/outland__script__loader_8cpp.html#a7fe9d40d77386d5b19d4917d0e05d540":[7,0,0,0,1,3,7,8,47],
 "d5/dce/outland__script__loader_8cpp.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4":[7,0,0,0,1,3,7,8,75],
 "d5/dce/outland__script__loader_8cpp.html#a8231e3ec35a484f109599a4507751f6f":[7,0,0,0,1,3,7,8,66],
-"d5/dce/outland__script__loader_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[7,0,0,0,1,3,7,8,26],
-"d5/dce/outland__script__loader_8cpp.html#a8c9725cac978bfa0eb0405faa6588549":[7,0,0,0,1,3,7,8,99]
+"d5/dce/outland__script__loader_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[7,0,0,0,1,3,7,8,26]
 };

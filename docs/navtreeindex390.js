@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a7dd7f3625b177a96bcfdc5e46d944562":[6,0,1823,0,2],
 "df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#aa9e722f32cd95fff8c72db5a41d0e84c":[6,0,1823,0,0],
 "df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#af73d71750f116fb90be1c2acba75ca70":[6,0,1823,0,3],
 "df/dcf/classspell__love__is__in__the__air__romantic__picnic.html":[6,0,3351],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd":[6,0,4156,365],
 "df/dd9/classUnit.html#a128c18fa7afd36c512a3454381025df1":[6,0,4156,891],
 "df/dd9/classUnit.html#a12c149bd110864b202731ea63cbd0d4c":[6,0,4156,375],
-"df/dd9/classUnit.html#a12cf2a2cf4e6cd46c28c95108e7eaf6d":[6,0,4156,407],
-"df/dd9/classUnit.html#a12d4fd7f1f11ef43dcfb4cd66354f3e6":[6,0,4156,525]
+"df/dd9/classUnit.html#a12cf2a2cf4e6cd46c28c95108e7eaf6d":[6,0,4156,407]
 };

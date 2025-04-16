@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974acadc4575bbe6b596d20f2940a7834e60":[7,0,0,0,1,3,7,5,2,2,23,19],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ace6fba39aa495fb9a57797e005f3500b":[7,0,0,0,1,3,7,5,2,2,23,39],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ad859bdd8d9429bb868938d9533f91e7b":[7,0,0,0,1,3,7,5,2,2,23,3],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ad9ce43fbd144a01ebf498637ab6b4f98":[7,0,0,0,1,3,7,5,2,2,23,24],
@@ -58,14 +59,14 @@ var NAVTREEINDEX126 =
 "d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
-"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
+"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1196],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201":[7,0,0,0,1,3,5,6,14,3,2],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c":[7,0,0,0,1,3,5,6,14,3,3],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2":[7,0,0,0,1,3,5,6,14,3,4],
-"d4/d6f/icecrown__citadel__teleport_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[7,0,0,0,1,3,5,6,14,4],
-"d4/d6f/structCoordPair.html":[6,0,902]
+"d4/d6f/icecrown__citadel__teleport_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[7,0,0,0,1,3,5,6,14,4]
 };

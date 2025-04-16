@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1845,0,9],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a689fd445286595780c3d842976a5913f":[6,0,1845,0,0],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a69da5432ed2b4ef9944fbd19c97d404d":[6,0,1845,0,12],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a904a57d99527b6ff47d4f9ab8751a4a5":[6,0,1845,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[6,0,1831,1],
 "df/dff/classinstance__old__hillsbrad.html":[6,0,1315],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1315,2],
-"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[6,0,1315,1],
-"dir_0357f93aab1892c02aa89cc280efb408.html":[7,0,0,0,1,3,7,2,3]
+"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[6,0,1315,1]
 };

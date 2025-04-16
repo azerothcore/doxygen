@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aa0d89f971b6e210d8550e89839e28f44":[6,0,1694,0,1],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aace73f2e878ebaf30634431f9f1068ab":[6,0,1694,0,22],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab34fe1b0bac1a694c6e76d3cebf67172":[6,0,1694,0,7],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab639db8fe4637a2068d94bb5e99d88ea":[6,0,1694,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[6,0,2045,2],
 "de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[6,0,2045,6],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html":[6,0,3028],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#a048695baf71d307e5aaa00e54586c9f7":[6,0,3028,1],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#a09efdcddaed4af2833139ca20ef94376":[6,0,3028,4]
+"de/d9d/classspell__hadronox__summon__periodic__aura.html#a048695baf71d307e5aaa00e54586c9f7":[6,0,3028,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX370 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a9d436986474fe6c18924870bd5e72966":[7,0,0,0,1,3,5,6,9,45],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,6,9,42],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,6,9,42,10],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[7,0,0,0,1,3,5,6,9,42,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX370 =
 "de/df0/structArenaSeasonReward.html#ac4c8cff64cf2eb7f34d28080a2a5528b":[6,0,183,3],
 "de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[6,0,183,0],
 "de/df1/DatabaseScript_8cpp.html":[7,0,0,0,1,2,38,0,39],
-"de/df1/DatabaseScript_8cpp.html#aea9c85b8c04ac043bf7c7cb880a57d95":[7,0,0,0,1,2,38,0,39,0],
-"de/df1/zone__duskwood_8cpp.html":[7,0,0,0,1,3,2,21]
+"de/df1/DatabaseScript_8cpp.html#aea9c85b8c04ac043bf7c7cb880a57d95":[7,0,0,0,1,2,38,0,39,0]
 };

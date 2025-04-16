@@ -1,5 +1,6 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73dc781d4c23102953ac7a25e40d9ce1":[7,0,0,0,1,3,5,1,1,0,13,13],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7e3b9f2b39a966a6213fb43c59f2028e":[7,0,0,0,1,3,5,1,1,0,13,3],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7ed0b7bde9634116efa6580b7e7093b0":[7,0,0,0,1,3,5,1,1,0,13,10],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,0,13,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[6,0,3040,2],
 "d5/de4/Bag_8cpp.html":[7,0,0,0,1,2,16,4,0,0],
 "d5/de4/classitem__petrov__cluster__bombs.html":[6,0,1375],
-"d5/de4/classitem__petrov__cluster__bombs.html#a14e8a00a532b5aebc8469ff538848f53":[6,0,1375,1],
-"d5/de4/classitem__petrov__cluster__bombs.html#a1a76760f7c4617a40d96b9833e7466df":[6,0,1375,0]
+"d5/de4/classitem__petrov__cluster__bombs.html#a14e8a00a532b5aebc8469ff538848f53":[6,0,1375,1]
 };

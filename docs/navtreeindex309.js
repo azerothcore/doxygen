@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,510,6],
 "dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,510,1],
 "dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,510,0],
 "dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,510,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[6,0,1997,4],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[6,0,1997,3],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[6,0,1997,2],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[6,0,1997,1],
-"dc/dc8/classspell__pri__guardian__spirit.html":[6,0,3515]
+"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[6,0,1997,1]
 };
