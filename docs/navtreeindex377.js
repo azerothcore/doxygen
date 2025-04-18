@@ -1,5 +1,7 @@
 var NAVTREEINDEX377 =
 {
+"df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html#afbc971fc03584b87229318309d51a2f5":[6,0,1671,0,0],
+"df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html":[6,0,1859,0],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#a1074059162f818088808795119f081be":[6,0,1859,0,3],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#a5de6e46fd21fd073fde2f0aaa5dc947a":[6,0,1859,0,1],
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#ac9da073c33dd33097f03ca35d36ea15e":[6,0,1859,0,2],
@@ -201,15 +203,15 @@ var NAVTREEINDEX377 =
 "df/d31/classboss__yoggsaron__guardian__of__ys.html":[6,0,793],
 "df/d31/classboss__yoggsaron__guardian__of__ys.html#a299b346a4e9ac5190d554702dcf00faf":[6,0,793,1],
 "df/d31/classboss__yoggsaron__guardian__of__ys.html#a86380b3ad87e0070541d22d3fb74058f":[6,0,793,2],
-"df/d31/classspell__hun__generic__scaling.html":[6,0,3083],
-"df/d31/classspell__hun__generic__scaling.html#a136c8cedca7630543b8937e77571ead1":[6,0,3083,5],
-"df/d31/classspell__hun__generic__scaling.html#a255ed8f5158e715313e44b13f30b099f":[6,0,3083,3],
-"df/d31/classspell__hun__generic__scaling.html#a51828f07b0e099c5931161f7aeebaab7":[6,0,3083,2],
-"df/d31/classspell__hun__generic__scaling.html#a55605257006d8218250932357f325bb8":[6,0,3083,7],
-"df/d31/classspell__hun__generic__scaling.html#a638a2544d9216bec90c433100c0663a0":[6,0,3083,6],
-"df/d31/classspell__hun__generic__scaling.html#ab5feede17fa79c9d02fa459586eaca41":[6,0,3083,0],
-"df/d31/classspell__hun__generic__scaling.html#ade1b7256d19b526a7f4b1520f6b2f663":[6,0,3083,4],
-"df/d31/classspell__hun__generic__scaling.html#af2b1da799f1b3c0373dc6782dabbf89c":[6,0,3083,1],
+"df/d31/classspell__hun__generic__scaling.html":[6,0,3084],
+"df/d31/classspell__hun__generic__scaling.html#a136c8cedca7630543b8937e77571ead1":[6,0,3084,5],
+"df/d31/classspell__hun__generic__scaling.html#a255ed8f5158e715313e44b13f30b099f":[6,0,3084,3],
+"df/d31/classspell__hun__generic__scaling.html#a51828f07b0e099c5931161f7aeebaab7":[6,0,3084,2],
+"df/d31/classspell__hun__generic__scaling.html#a55605257006d8218250932357f325bb8":[6,0,3084,7],
+"df/d31/classspell__hun__generic__scaling.html#a638a2544d9216bec90c433100c0663a0":[6,0,3084,6],
+"df/d31/classspell__hun__generic__scaling.html#ab5feede17fa79c9d02fa459586eaca41":[6,0,3084,0],
+"df/d31/classspell__hun__generic__scaling.html#ade1b7256d19b526a7f4b1520f6b2f663":[6,0,3084,4],
+"df/d31/classspell__hun__generic__scaling.html#af2b1da799f1b3c0373dc6782dabbf89c":[6,0,3084,1],
 "df/d31/structWaveDataCreature.html":[6,0,4206],
 "df/d31/structWaveDataCreature.html#a127341c70f8785ceb556b1c11b23f477":[6,0,4206,0],
 "df/d31/structWaveDataCreature.html#a2d5f42a6b1a309c8db74febcedf457eb":[6,0,4206,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX377 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aec9e5820c6f66282b29a13aa6444981f":[6,0,1351,0,3],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aed26fc5231e27dc9ff947a42c22200bd":[6,0,1351,0,9],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#afe20873a4b4181a895cb2578e19ec5f9":[6,0,1351,0,7],
-"df/d32/classspell__item__gnomish__death__ray.html":[6,0,3211],
-"df/d32/classspell__item__gnomish__death__ray.html#a7a8016e1403caa0432242c5c3240f107":[6,0,3211,0],
-"df/d32/classspell__item__gnomish__death__ray.html#ab14aedfdb61d54334f60e57968fcf081":[6,0,3211,3]
+"df/d32/classspell__item__gnomish__death__ray.html":[6,0,3212]
 };

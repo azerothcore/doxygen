@@ -1,8 +1,14 @@
 var NAVTREEINDEX302 =
 {
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3038,2],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3038,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3038,0],
+"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4],
+"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,699],
+"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,699,2],
+"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,699,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3039],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3039,3],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3039,2],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3039,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3039,0],
 "dc/d44/classspell__sha__flurry__proc.html":[6,0,3741],
 "dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3741,2],
 "dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[6,0,3741,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d56/structadvisor__baseAI.html#a8da09edce761f1f1e1b7eb96ec7a529b":[6,0,140,2],
 "dc/d56/structadvisor__baseAI.html#aa89d3479b2e0bd8dd18572135aa45235":[6,0,140,7],
 "dc/d56/structadvisor__baseAI.html#ab6c4a3f241fa5417f0a1d450ddb811ca":[6,0,140,9],
-"dc/d56/structadvisor__baseAI.html#ae1c2011ba993c8d589bf6fe45602ac41":[6,0,140,8],
-"dc/d56/structnpc__eastvale__peasent.html":[6,0,1753],
-"dc/d56/structnpc__eastvale__peasent.html#a002ec21e0715b020aa19cd0839408033":[6,0,1753,2],
-"dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1753,6],
-"dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[6,0,1753,0],
-"dc/d56/structnpc__eastvale__peasent.html#a7eb6cf174a46fd31c8c5241649fcebdc":[6,0,1753,3],
-"dc/d56/structnpc__eastvale__peasent.html#a868eb38757bf7bc02d5b3ffa66feb375":[6,0,1753,5]
+"dc/d56/structadvisor__baseAI.html#ae1c2011ba993c8d589bf6fe45602ac41":[6,0,140,8]
 };

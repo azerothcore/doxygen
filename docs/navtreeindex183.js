@@ -1,5 +1,7 @@
 var NAVTREEINDEX183 =
 {
+"d7/d0b/classspell__ulduar__energy__sap__aura.html#a2b9426d0a2ce9251632acebb30d0e2b5":[6,0,3882,0],
+"d7/d0b/classspell__ulduar__energy__sap__aura.html#a587a469c649877f80e8fe80062e8b5d4":[6,0,3882,3],
 "d7/d0b/classspell__ulduar__energy__sap__aura.html#a74052d7da1523b3c4010465510e5fe04":[6,0,3882,2],
 "d7/d0b/classspell__ulduar__energy__sap__aura.html#a7dca0398e78278c78dd80e9e6ca874e1":[6,0,3882,1],
 "d7/d0c/classnpc__ulduar__saronite__animus.html":[6,0,2231],
@@ -231,8 +233,8 @@ var NAVTREEINDEX183 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2266,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
@@ -247,7 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558ab22bb917cff7d6a67cefe2712a66299b":[7,0,0,0,1,3,5,25,18,0],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558aeb26c6f49263481aa6a615f4abc155b8":[7,0,0,0,1,3,5,25,18,1],
 "d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487":[7,0,0,0,1,3,5,25,21],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a0fa332a2992d7af7b70d89f65ddcd773":[7,0,0,0,1,3,5,25,21,10],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a1228953a004d3d7f52b4e16d9ef9b94f":[7,0,0,0,1,3,5,25,21,18],
-"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a13df29416c41f85b22a892c1a2224df0":[7,0,0,0,1,3,5,25,21,21]
+"d7/d1f/zone__zuldrak_8cpp.html#a42b0bda1e9a4c753058b169a54d61487a0fa332a2992d7af7b70d89f65ddcd773":[7,0,0,0,1,3,5,25,21,10]
 };

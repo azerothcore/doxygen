@@ -1,5 +1,11 @@
 var NAVTREEINDEX251 =
 {
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a986d0b33665e5b760f9007f28dc3d382":[7,0,0,0,1,3,5,12,9,5,7],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a9fa07bf0069a05b4fd6dec3d83681b42":[7,0,0,0,1,3,5,12,9,5,18],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aa75252b46a683eccfaaad37f1a843781":[7,0,0,0,1,3,5,12,9,5,19],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aae2978e3479a298d86d8c5c57b0c734c":[7,0,0,0,1,3,5,12,9,5,28],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acdf52ce130a3859a52c6aab654d7290f":[7,0,0,0,1,3,5,12,9,5,27],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acf739e85d59c06eec4902f13bc565fe1":[7,0,0,0,1,3,5,12,9,5,25],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ad0f5788e477d3ad967430ade5a078278":[7,0,0,0,1,3,5,12,9,5,16],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae092e4fa982331f6b3c2feda0fa11cff":[7,0,0,0,1,3,5,12,9,5,15],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae3a118d7269afc21b3398e745a6eaad2":[7,0,0,0,1,3,5,12,9,5,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX251 =
 "da/d57/classnpc__ulduar__saronite__vapors.html#a567c3aca8c381167ca278c2c3562e6f6":[6,0,2232,1],
 "da/d57/classspell__xt002__gravity__bomb__aura.html":[6,0,3990],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#a004ba2e0e83a14bef3cae208a45f222b":[6,0,3990,3],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#a63b654cf540e331e4d2b4f4ece5c1fcc":[6,0,3990,2],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#aa49d1186ca6f5cdd628728a8a30c06a0":[6,0,3990,0],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#aa56622a1e57c157260940023a6c70a35":[6,0,3990,4],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,3990,1],
-"da/d58/classVMAP_1_1IVMapMgr.html":[5,0,27,7],
-"da/d58/classVMAP_1_1IVMapMgr.html":[6,0,9,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,27,7,9]
+"da/d57/classspell__xt002__gravity__bomb__aura.html#a63b654cf540e331e4d2b4f4ece5c1fcc":[6,0,3990,2]
 };

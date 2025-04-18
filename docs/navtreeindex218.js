@@ -1,5 +1,7 @@
 var NAVTREEINDEX218 =
 {
+"d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1a75447a07419a84c3382ae5f76095c848":[7,0,0,0,1,3,2,4,6,8,0],
+"d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,4,6,8,1],
 "d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1af654d74aaf96e68e9b671831913bb136":[7,0,0,0,1,3,2,4,6,8,3],
 "d8/d82/boss__nightbane_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,4,6,4],
 "d8/d82/boss__nightbane_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,2,4,6,4,0],
@@ -162,10 +164,10 @@ var NAVTREEINDEX218 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4172,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,30,5,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,30,5,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,30,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,30,5,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,567],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,567,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,567,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d91/namespaceAcore_1_1XP.html#a9c310a4423fd5ada14fac549e4b1a6fd":[5,0,1,17,3],
 "d8/d91/namespaceAcore_1_1XP.html#ab923dd9a0df7d75127965b40539d4a10":[5,0,1,17,1],
 "d8/d91/namespaceAcore_1_1XP.html#ada8e56c81ab672d85f2ff274d109e477":[5,0,1,17,0],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[6,0,0,5,0,22],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[6,0,0,5,0,22,8]
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22]
 };

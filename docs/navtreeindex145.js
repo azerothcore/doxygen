@@ -107,11 +107,11 @@ var NAVTREEINDEX145 =
 "d5/d5f/classOutdoorPvPHP.html#ae6d3a1561b94d92539a5dd8b5ac56689":[6,0,2347,2],
 "d5/d5f/classOutdoorPvPHP.html#aee60f1d1da4d6eecd0e66cf975272979":[6,0,2347,10],
 "d5/d5f/classOutdoorPvPHP.html#aeec44f41e6d6fe7c768bb738a3eafb47":[6,0,2347,11],
-"d5/d60/classspell__mage__burning__determination.html":[6,0,3359],
-"d5/d60/classspell__mage__burning__determination.html#a30f6dd531d4316b4bbb3297af2c17e2e":[6,0,3359,2],
-"d5/d60/classspell__mage__burning__determination.html#a325336c96dad74ec221c07817222fee1":[6,0,3359,0],
-"d5/d60/classspell__mage__burning__determination.html#a35a1ce56b84b2d8017dbaba626660d70":[6,0,3359,1],
-"d5/d60/classspell__mage__burning__determination.html#a6c86a4cf273d90086c4ebdbcaa6b6632":[6,0,3359,3],
+"d5/d60/classspell__mage__burning__determination.html":[6,0,3360],
+"d5/d60/classspell__mage__burning__determination.html#a30f6dd531d4316b4bbb3297af2c17e2e":[6,0,3360,2],
+"d5/d60/classspell__mage__burning__determination.html#a325336c96dad74ec221c07817222fee1":[6,0,3360,0],
+"d5/d60/classspell__mage__burning__determination.html#a35a1ce56b84b2d8017dbaba626660d70":[6,0,3360,1],
+"d5/d60/classspell__mage__burning__determination.html#a6c86a4cf273d90086c4ebdbcaa6b6632":[6,0,3360,3],
 "d5/d61/classGridTerrainLoader.html":[6,0,1220],
 "d5/d61/classGridTerrainLoader.html#a097556a8a778efa22ab9d50cbda2649a":[6,0,1220,5],
 "d5/d61/classGridTerrainLoader.html#a17bdde445c48738ade280bd1cdda0619":[6,0,1220,2],
@@ -247,7 +247,7 @@ var NAVTREEINDEX145 =
 "d5/d65/classspell__warl__eye__of__kilrogg.html#a9029865b5e06c4a9aa7f155f371c9125":[6,0,3925,1],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#ae15d5175671c60a55e4a77848bc9fe1b":[6,0,3925,3],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2":[6,0,3925,0],
-"d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,18,20],
 "d5/d65/structlfg_1_1RBInternalInfo.html":[6,0,5,20],
-"d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[6,0,5,20,37]
+"d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,18,20],
+"d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[5,0,18,20,37]
 };

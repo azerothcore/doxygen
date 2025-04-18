@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280":[7,0,0,0,1,3,5,9,1,2,10,4],
+"dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5":[7,0,0,0,1,3,5,9,1,2,12],
 "dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039":[7,0,0,0,1,3,5,9,1,2,12,0],
 "dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f":[7,0,0,0,1,3,5,9,1,2,12,2],
 "dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146":[7,0,0,0,1,3,5,9,1,2,12,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a14c5cee1c3032b8df4ad902eb273e9b0":[6,0,2098,0,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1c0236b52d4cd87634659991e0dfc728":[6,0,2098,0,3],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193":[6,0,2098,0,7],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2098,0,6],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2098,0,1],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2098,0,8]
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2098,0,6]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX233 =
 {
+"d9/d5c/classspell__item__nitro__boots.html#a9ecd5d24b96d1cde3ad07e76992f5e1f":[6,0,3244,1],
+"d9/d5c/classspell__item__nitro__boots.html#ad4605cd07b702a660556a8150b44c621":[6,0,3244,2],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html":[6,0,1426,0],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a385ac15640b76e43eda077c451dcd745":[6,0,1426,0,0],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a55d7b001e047c31686b110cc4b1aa295":[6,0,1426,0,2],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a9b7daa2ba0e72e137243ac061efaa2a5":[6,0,1426,0,1],
 "d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#ab4f6ec9aefc2721bd216582d7a882aa3":[6,0,1426,0,3],
 "d9/d5d/structboss__najentus.html":[6,0,630],
 "d9/d5d/structboss__najentus.html#a25ac29a79cdcfb4ebc48de13d677f1d4":[6,0,630,5],
@@ -242,12 +248,6 @@ var NAVTREEINDEX233 =
 "d9/d64/classinstance__hyjal.html":[6,0,1302],
 "d9/d64/classinstance__hyjal.html#ade946c0fcaa4bad790bfcb4b6ffb6420":[6,0,1302,1],
 "d9/d64/classinstance__hyjal.html#ae6e39933d7cfd6563f6d37636f1c6f68":[6,0,1302,2],
-"d9/d64/classspell__icc__yh__volley__aura.html":[6,0,3117],
-"d9/d64/classspell__icc__yh__volley__aura.html#a57615f1d8b891ab5a5c01de1543235cb":[6,0,3117,0],
-"d9/d64/classspell__icc__yh__volley__aura.html#ab11b84522134ee4d13504df3c19f69b8":[6,0,3117,2],
-"d9/d64/classspell__icc__yh__volley__aura.html#ae040da0db1147652266e1f373838df37":[6,0,3117,1],
-"d9/d64/classspell__icc__yh__volley__aura.html#af3c3c90256913ffe188c11a21fc2dcc8":[6,0,3117,3],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html":[6,0,1628],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html#a7ed0731a015709ecd3c0c26fafb795ff":[6,0,1628,1],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html#a87b50fbc3a67345f375b41c3cb2ba754":[6,0,1628,2]
+"d9/d64/classspell__icc__yh__volley__aura.html":[6,0,3118],
+"d9/d64/classspell__icc__yh__volley__aura.html#a57615f1d8b891ab5a5c01de1543235cb":[6,0,3118,0]
 };

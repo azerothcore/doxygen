@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html":[6,0,3940],
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html#a0649826ce0d66c9f21be8d47c76f4941":[6,0,3940,6],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a3b5812649b67830d8dc6d10b5dd1c937":[6,0,3940,2],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a5067cef0afc99d487f995f8d6edea21f":[6,0,3940,3],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a9e0e28d871f9d3c89cf2dc862971321d":[6,0,3940,0],
@@ -19,10 +21,10 @@ var NAVTREEINDEX330 =
 "dd/dc1/MovementUtil_8cpp.html#a98cc74e5667e1057f334f02a28abcb01":[7,0,0,0,1,2,31,1,3,11],
 "dd/dc1/MovementUtil_8cpp.html#aa6a1b38cb6e1507d88f0f45a4820990b":[7,0,0,0,1,2,31,1,3,5],
 "dd/dc1/MovementUtil_8cpp.html#aa927e4ada20ca56ce951239357407270":[7,0,0,0,1,2,31,1,3,6],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html":[6,0,3421],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[6,0,3421,0],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[6,0,3421,1],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[6,0,3421,2],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html":[6,0,3422],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[6,0,3422,0],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[6,0,3422,1],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[6,0,3422,2],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html":[6,0,1961,0],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a032cc1ad7a07ead4ced3afe99601d94f":[6,0,1961,0,1],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a30ed336d552596211b3bfc316d223968":[6,0,1961,0,2],
@@ -37,10 +39,10 @@ var NAVTREEINDEX330 =
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#ac86df4d5887c4c1b719ce47f00b32995":[6,0,1961,0,0],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#af0ce341df018dafdce89f75fcb9f0063":[6,0,1961,0,9],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#aff28c68ed9575440f5732df855ab4372":[6,0,1961,0,12],
-"dd/dc4/classspell__item__spell__reflectors.html":[6,0,3272],
-"dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed":[6,0,3272,0],
-"dd/dc4/classspell__item__spell__reflectors.html#aa9ddc9f2a0ded66e81be51cec24a0e4b":[6,0,3272,1],
-"dd/dc4/classspell__item__spell__reflectors.html#acf737f74e3cb9340f3449b491e923b7f":[6,0,3272,2],
+"dd/dc4/classspell__item__spell__reflectors.html":[6,0,3273],
+"dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed":[6,0,3273,0],
+"dd/dc4/classspell__item__spell__reflectors.html#aa9ddc9f2a0ded66e81be51cec24a0e4b":[6,0,3273,1],
+"dd/dc4/classspell__item__spell__reflectors.html#acf737f74e3cb9340f3449b491e923b7f":[6,0,3273,2],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html":[6,0,441,0],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a2986db39b7db92b1fa9d64cef5f8c08b":[6,0,441,0,0],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a478113af1ce565c729604c6039f55551":[6,0,441,0,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX330 =
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4ae0ddd9fd68c022468604dbcc44fa5c":[7,0,0,0,1,3,5,9,2,10,28,9],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4b8f79ded529e854ee92c7d49a6af2d2":[7,0,0,0,1,3,5,9,2,10,28,8],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,5,9,2,10,28,1],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5ea4e521bba41459b27dc29831dc1b3a":[7,0,0,0,1,3,5,9,2,10,28,7],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,9,2,10,28,2],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4e2a2237c699c048aed272ed67283e3":[7,0,0,0,1,3,5,9,2,10,28,5]
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5ea4e521bba41459b27dc29831dc1b3a":[7,0,0,0,1,3,5,9,2,10,28,7]
 };

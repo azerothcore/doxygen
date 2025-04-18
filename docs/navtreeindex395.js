@@ -1,5 +1,7 @@
 var NAVTREEINDEX395 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,6,4,56,18],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1cdf36550b109445b0813f5ee912a07b":[7,0,0,0,1,3,5,6,4,56,40],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dfb9cc691798218302a100ab206aff5":[7,0,0,0,1,3,5,6,4,56,36],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc29b75f9a69dd6e04ae8a4a7f1d12e":[7,0,0,0,1,3,5,6,4,56,22],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2243c6b1837c6b5f5f275258fcaf9040":[7,0,0,0,1,3,5,6,4,56,23],
@@ -130,14 +132,14 @@ var NAVTREEINDEX395 =
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dac3fda35eea490cfca5a624be6816a93b":[7,0,0,0,1,3,5,6,4,55,3],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dad6302f8ffe09fd98e570bf4426163b94":[7,0,0,0,1,3,5,6,4,55,16],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5daf0cc69d7cd65918e3ba90b32016f9341":[7,0,0,0,1,3,5,6,4,55,12],
-"df/dda/classspell__mage__focus__magic.html":[6,0,3367],
-"df/dda/classspell__mage__focus__magic.html#a5b791c7cb8dae574fef801ce42dc6aa1":[6,0,3367,1],
-"df/dda/classspell__mage__focus__magic.html#a787008462dce35eb27deda41301b146d":[6,0,3367,0],
-"df/dda/classspell__mage__focus__magic.html#a9383231fc71c6239507fdf8765d63f3d":[6,0,3367,6],
-"df/dda/classspell__mage__focus__magic.html#a9760351c28f5f9948f0b64ae2ca91c24":[6,0,3367,2],
-"df/dda/classspell__mage__focus__magic.html#aa4ef731870355dc386fcd07c5f19d090":[6,0,3367,4],
-"df/dda/classspell__mage__focus__magic.html#ab3d5e71597c67ec0aed70f7e5d2319ac":[6,0,3367,3],
-"df/dda/classspell__mage__focus__magic.html#ad04864f0710262364cf40e071446d87c":[6,0,3367,5],
+"df/dda/classspell__mage__focus__magic.html":[6,0,3368],
+"df/dda/classspell__mage__focus__magic.html#a5b791c7cb8dae574fef801ce42dc6aa1":[6,0,3368,1],
+"df/dda/classspell__mage__focus__magic.html#a787008462dce35eb27deda41301b146d":[6,0,3368,0],
+"df/dda/classspell__mage__focus__magic.html#a9383231fc71c6239507fdf8765d63f3d":[6,0,3368,6],
+"df/dda/classspell__mage__focus__magic.html#a9760351c28f5f9948f0b64ae2ca91c24":[6,0,3368,2],
+"df/dda/classspell__mage__focus__magic.html#aa4ef731870355dc386fcd07c5f19d090":[6,0,3368,4],
+"df/dda/classspell__mage__focus__magic.html#ab3d5e71597c67ec0aed70f7e5d2319ac":[6,0,3368,3],
+"df/dda/classspell__mage__focus__magic.html#ad04864f0710262364cf40e071446d87c":[6,0,3368,5],
 "df/dda/structnpc__crystalline__frayer.html":[6,0,1711],
 "df/dda/structnpc__crystalline__frayer.html#a2580575a58353e8cb94561bafd74f502":[6,0,1711,1],
 "df/dda/structnpc__crystalline__frayer.html#a5ab2990b41f485417af6272194035fc3":[6,0,1711,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX395 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,27,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,27,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0]
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,27,24,3]
 };

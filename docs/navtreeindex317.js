@@ -1,6 +1,12 @@
 var NAVTREEINDEX317 =
 {
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,30,7,7,4],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,7,7,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,30,7,7,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,30,7,7,0],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[6,0,11,7,7,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,11,7,7,3],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,30,7,7,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,11,7,7,5],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,30,7,7,5],
 "dd/d26/structtf__tower__world__state.html":[6,0,4104],
@@ -243,11 +249,5 @@ var NAVTREEINDEX317 =
 "dd/d27/structSmartAction.html#aa57990af8febf9541bdef4332bfafafc":[6,0,2551,297],
 "dd/d27/structSmartAction.html#aa589f8a89c13cbca377b34232248adb9":[6,0,2551,9],
 "dd/d27/structSmartAction.html#aa6552e1be1fa4d0355a39f8404ee7d5a":[6,0,2551,194],
-"dd/d27/structSmartAction.html#aa702dd935ba66b095c2772472247fa13":[6,0,2551,77],
-"dd/d27/structSmartAction.html#aa767fda5d8627c772ff02705d008dc87":[6,0,2551,137],
-"dd/d27/structSmartAction.html#aa76cd98461b26f6969ba2bf682b87872":[6,0,2551,266],
-"dd/d27/structSmartAction.html#aa7bd614939c6716a0e467853f814a711":[6,0,2551,23],
-"dd/d27/structSmartAction.html#aa8ceda35f9e5696f54e5ddfe132867c9":[6,0,2551,153],
-"dd/d27/structSmartAction.html#aa90fd84fa34526af47c351b51959b470":[6,0,2551,286],
-"dd/d27/structSmartAction.html#aa97d744e6a76dbb1e9d108bb82e266dc":[6,0,2551,239]
+"dd/d27/structSmartAction.html#aa702dd935ba66b095c2772472247fa13":[6,0,2551,77]
 };

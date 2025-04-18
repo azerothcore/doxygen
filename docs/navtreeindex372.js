@@ -1,5 +1,7 @@
 var NAVTREEINDEX372 =
 {
+"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#a86c8c6b7d776042053e7ba5ae95b7be5":[6,0,0,5,9,19],
+"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#a8793a29e20d9ad3a8214dfd83d0c60fd":[6,0,0,5,9,16],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#a8793a29e20d9ad3a8214dfd83d0c60fd":[5,0,1,8,9,16],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#a8a261b6c1f1c131674ad93d606abe321":[6,0,0,5,9,7],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#a8a261b6c1f1c131674ad93d606abe321":[5,0,1,8,9,7],
@@ -68,10 +70,10 @@ var NAVTREEINDEX372 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298caaf085a0eea027f75c291005b97cb46bd":[7,0,0,0,1,3,2,1,0,12,4,1],
 "df/d07/boss__moira__bronzebeard_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,1,0,12,6],
 "df/d07/boss__moira__bronzebeard_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[7,0,0,0,1,3,2,1,0,12,7],
-"df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[6,0,3425],
-"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#aa9f5924b3f12c666c53ddc2b9b80aeea":[6,0,3425,2],
-"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[6,0,3425,0],
-"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5":[6,0,3425,1],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[6,0,3426],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#aa9f5924b3f12c666c53ddc2b9b80aeea":[6,0,3426,2],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[6,0,3426,0],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5":[6,0,3426,1],
 "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html":[6,0,1781,0],
 "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a25df0b8760e9eb7d330779e10e3ac548":[6,0,1781,0,0],
 "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a9cc0b500f1289dc8b764b3755468e639":[6,0,1781,0,1],
@@ -117,11 +119,11 @@ var NAVTREEINDEX372 =
 "df/d0e/classnpc__toc__pet__warlock.html":[6,0,2185],
 "df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[6,0,2185,1],
 "df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[6,0,2185,2],
-"df/d0e/classspell__igb__burning__pitch__selector.html":[6,0,3124],
-"df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[6,0,3124,1],
-"df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[6,0,3124,3],
-"df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[6,0,3124,0],
-"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[6,0,3124,2],
+"df/d0e/classspell__igb__burning__pitch__selector.html":[6,0,3125],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[6,0,3125,1],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[6,0,3125,3],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[6,0,3125,0],
+"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[6,0,3125,2],
 "df/d10/structMailLevelReward.html":[6,0,1463],
 "df/d10/structMailLevelReward.html#a2b678ac953209691b38d583cffab55b5":[6,0,1463,4],
 "df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[6,0,1463,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX372 =
 "df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3470,4],
 "df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3470,1],
 "df/d14/ObjectDefines_8h.html":[7,0,0,0,1,2,16,5,3],
-"df/d14/ObjectDefines_8h.html#a076c4dc8a346115fe776c593c413ef2c":[7,0,0,0,1,2,16,5,3,0],
-"df/d14/ObjectDefines_8h.html#a07b26e77b0b1266a3addb26d71a74344":[7,0,0,0,1,2,16,5,3,33],
-"df/d14/ObjectDefines_8h.html#a16746aa380554e93891c528f8edf0df1":[7,0,0,0,1,2,16,5,3,29]
+"df/d14/ObjectDefines_8h.html#a076c4dc8a346115fe776c593c413ef2c":[7,0,0,0,1,2,16,5,3,0]
 };

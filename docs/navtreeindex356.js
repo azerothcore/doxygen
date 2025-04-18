@@ -1,5 +1,7 @@
 var NAVTREEINDEX356 =
 {
+"de/d44/structDBCDatabaseLoader.html":[6,0,948],
+"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,948,3],
 "de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[6,0,948,0],
 "de/d44/structDBCDatabaseLoader.html#a46f7d5670840892f7a8714ce0b6cde13":[6,0,948,4],
 "de/d44/structDBCDatabaseLoader.html#a52b5b86f0efb8ad0716bc0171a3aa740":[6,0,948,9],
@@ -34,10 +36,10 @@ var NAVTREEINDEX356 =
 "de/d48/classnpc__algalon__worm__hole.html":[6,0,1574],
 "de/d48/classnpc__algalon__worm__hole.html#a72516a4824fa61a331caff46d2784c64":[6,0,1574,1],
 "de/d48/classnpc__algalon__worm__hole.html#aac6ff3a41f08f5a11baa78c0526a3556":[6,0,1574,2],
-"de/d48/classspell__halion__twilight__mending.html":[6,0,3043],
-"de/d48/classspell__halion__twilight__mending.html#a3016c31c072d6417bbe47c2891059718":[6,0,3043,2],
-"de/d48/classspell__halion__twilight__mending.html#ad13b3924815ac3da7902c8292a760943":[6,0,3043,0],
-"de/d48/classspell__halion__twilight__mending.html#aeea718bce7dd5aa4ac33bbd1a95a65c0":[6,0,3043,1],
+"de/d48/classspell__halion__twilight__mending.html":[6,0,3044],
+"de/d48/classspell__halion__twilight__mending.html#a3016c31c072d6417bbe47c2891059718":[6,0,3044,2],
+"de/d48/classspell__halion__twilight__mending.html#ad13b3924815ac3da7902c8292a760943":[6,0,3044,0],
+"de/d48/classspell__halion__twilight__mending.html#aeea718bce7dd5aa4ac33bbd1a95a65c0":[6,0,3044,1],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html":[6,0,3850],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[6,0,3850,2],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,3850,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX356 =
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a59394c8e82825594d5cc7be68e652480":[7,0,0,0,1,2,15,1,14,7],
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b":[7,0,0,0,1,2,15,1,14,1],
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a80ab24f22dc7eeaedf170d219ec3e015":[7,0,0,0,1,2,15,1,14,12],
-"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a843a0a69e134eb584c8e42713b094f6d":[7,0,0,0,1,2,15,1,14,5],
-"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500ab209eda24134308ca2745d9e5cc53e9b":[7,0,0,0,1,2,15,1,14,2],
-"de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5":[7,0,0,0,1,2,15,1,9]
+"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a843a0a69e134eb584c8e42713b094f6d":[7,0,0,0,1,2,15,1,14,5]
 };

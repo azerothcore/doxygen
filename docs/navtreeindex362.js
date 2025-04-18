@@ -1,5 +1,7 @@
 var NAVTREEINDEX362 =
 {
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106":[6,0,1694,0,20],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a9af9323b3bf6df4a85445d9859609c78":[6,0,1694,0,23],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aa0d89f971b6e210d8550e89839e28f44":[6,0,1694,0,1],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aace73f2e878ebaf30634431f9f1068ab":[6,0,1694,0,22],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab34fe1b0bac1a694c6e76d3cebf67172":[6,0,1694,0,7],
@@ -115,11 +117,11 @@ var NAVTREEINDEX362 =
 "de/d97/classboss__tyrannus.html":[6,0,750],
 "de/d97/classboss__tyrannus.html#a81373192ffea8817cb72b80f4629da43":[6,0,750,1],
 "de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[6,0,750,2],
-"de/d98/classspell__gen__teleporting.html":[6,0,2996],
-"de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[6,0,2996,1],
-"de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,2996,2],
-"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,2996,0],
-"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[6,0,2996,3],
+"de/d98/classspell__gen__teleporting.html":[6,0,2997],
+"de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[6,0,2997,1],
+"de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,2997,2],
+"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,2997,0],
+"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[6,0,2997,3],
 "de/d98/zone__shattrath__city_8cpp.html":[7,0,0,0,1,3,7,14],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b":[7,0,0,0,1,3,7,14,5],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba00f3861bb3a25b5cacacc8a9c6deccd7":[7,0,0,0,1,3,7,14,5,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX362 =
 "de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[6,0,2045,5],
 "de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[6,0,2045,1],
 "de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[6,0,2045,2],
-"de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[6,0,2045,6],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html":[6,0,3028],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#a048695baf71d307e5aaa00e54586c9f7":[6,0,3028,1]
+"de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[6,0,2045,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX396 =
 {
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,27,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,723,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,723,0,3],
@@ -39,11 +41,11 @@ var NAVTREEINDEX396 =
 "df/de1/classnpc__spark__of__ionar.html":[6,0,2116],
 "df/de1/classnpc__spark__of__ionar.html#a63578a0d77331849b7a48272870af04d":[6,0,2116,1],
 "df/de1/classnpc__spark__of__ionar.html#aa1e524327b76ddc11a32e7a094e39dd1":[6,0,2116,2],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html":[6,0,3429],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[6,0,3429,2],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[6,0,3429,0],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[6,0,3429,1],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[6,0,3429,3],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html":[6,0,3430],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[6,0,3430,2],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[6,0,3430,0],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[6,0,3430,1],
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[6,0,3430,3],
 "df/de2/classspell__brewfest__main__ram__buff.html":[6,0,2668],
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[6,0,2668,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[6,0,2668,2],
@@ -170,10 +172,10 @@ var NAVTREEINDEX396 =
 "df/de9/classspell__pri__power__word__shield.html#a2edd0bcaa3b026cc70f9f6b58f53f486":[6,0,3526,0],
 "df/de9/classspell__pri__power__word__shield.html#a32aaab12105c9b1c09edfa8a444ced9c":[6,0,3526,2],
 "df/de9/classspell__pri__power__word__shield.html#aaf1e16dbc8d33aadcbf74dc4cebe715b":[6,0,3526,1],
-"df/dea/classspell__mt__phoenix__burn.html":[6,0,3431],
-"df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[6,0,3431,2],
-"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[6,0,3431,0],
-"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[6,0,3431,1],
+"df/dea/classspell__mt__phoenix__burn.html":[6,0,3432],
+"df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[6,0,3432,2],
+"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[6,0,3432,0],
+"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[6,0,3432,1],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[6,0,2080,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[6,0,2080,0,1],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[6,0,2080,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX396 =
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a06550732cba84da4cbd708d03a7bd6bb":[6,0,1845,0,10],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a127cc66ea4804da51eb9069037b9ba33":[6,0,1845,0,7],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1845,0,8],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1845,0,4],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1845,0,6],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1845,0,11]
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1845,0,4]
 };

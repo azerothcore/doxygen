@@ -1,5 +1,7 @@
 var NAVTREEINDEX360 =
 {
+"de/d79/classGuild.html#aac7bfd950eec4b375833956962d0ae57":[6,0,1244,43],
+"de/d79/classGuild.html#aaf69ed8372cb3ba9e26856d1930008ae":[6,0,1244,37],
 "de/d79/classGuild.html#aaf78aa36da22b99c10df4a971d538b3d":[6,0,1244,31],
 "de/d79/classGuild.html#ab3284a1160d2e339cbdccc8bc5c659eb":[6,0,1244,95],
 "de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649":[6,0,1244,48],
@@ -77,10 +79,10 @@ var NAVTREEINDEX360 =
 "de/d79/structMMAP_1_1IntermediateValues.html#af7101125c69b6eaa405f1c31f33c033f":[6,0,6,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,1,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html":[6,0,3368],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3368,2],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3368,1],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[6,0,3368,0],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html":[6,0,3369],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3369,2],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3369,1],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[6,0,3369,0],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html":[6,0,3651],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[6,0,3651,1],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#aa490168c69f9ba5c12db3171516dd8ac":[6,0,3651,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX360 =
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a1d519b04f171d230b21da3cc637497cf":[6,0,0,121,1],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a288c53998aa7b744f6e3eaeba68fe6d8":[6,0,0,121,5],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a288c53998aa7b744f6e3eaeba68fe6d8":[5,0,1,133,5],
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[6,0,0,121,2],
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[5,0,1,133,2],
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd":[6,0,0,121,0]
+"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[6,0,0,121,2]
 };

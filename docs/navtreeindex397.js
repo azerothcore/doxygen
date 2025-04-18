@@ -1,5 +1,7 @@
 var NAVTREEINDEX397 =
 {
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1845,0,6],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1845,0,11],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1845,0,9],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a689fd445286595780c3d842976a5913f":[6,0,1845,0,0],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a69da5432ed2b4ef9944fbd19c97d404d":[6,0,1845,0,12],
@@ -53,12 +55,12 @@ var NAVTREEINDEX397 =
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,838,25],
 "df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18],
 "df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,838,22],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3304],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3304,2],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3304,4],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3304,0],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3304,3],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3304,1],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3305],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3305,2],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3305,4],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3305,0],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3305,3],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3305,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,1,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX397 =
 "df/dfe/classnpc__high__inquisitor__valroth.html":[6,0,1831],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[6,0,1831,2],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[6,0,1831,1],
-"df/dff/classinstance__old__hillsbrad.html":[6,0,1315],
-"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1315,2],
-"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[6,0,1315,1]
+"df/dff/classinstance__old__hillsbrad.html":[6,0,1315]
 };

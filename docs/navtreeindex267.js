@@ -1,5 +1,11 @@
 var NAVTREEINDEX267 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da1b79d7c2a19f872381cf0a189a79aefa":[7,0,0,0,1,3,5,2,1,7,4,4],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da1f71a00e7e9fc892bec7429906e5063f":[7,0,0,0,1,3,5,2,1,7,4,26],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da2b28d5c5e6ee6776ee3360c7c58b0d9b":[7,0,0,0,1,3,5,2,1,7,4,1],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da2c1819458d9493c2eaf2aa77111e32fe":[7,0,0,0,1,3,5,2,1,7,4,0],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da300f3e70100b40585ad2e2794be9514e":[7,0,0,0,1,3,5,2,1,7,4,15],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da303d66d118ba7fd2892b9d5888658c2b":[7,0,0,0,1,3,5,2,1,7,4,18],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da306df49c55068b03715a1f13052ae925":[7,0,0,0,1,3,5,2,1,7,4,37],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da524b272e7771538d6e79321c819d45ef":[7,0,0,0,1,3,5,2,1,7,4,40],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da5355c251ce8e79e32af16eee32a9b630":[7,0,0,0,1,3,5,2,1,7,4,39],
@@ -142,12 +148,12 @@ var NAVTREEINDEX267 =
 "da/de9/classspell__dru__treant__scaling.html#ae4f96de2c558a4b0fd7659442aa3d92b":[6,0,2825,3],
 "da/de9/classspell__dru__treant__scaling.html#aeebb14424a6ae336edd4b66d824d648a":[6,0,2825,4],
 "da/de9/classspell__dru__treant__scaling.html#af1d4558f6132d3c2abc71ec1dabee2e8":[6,0,2825,0],
-"da/de9/classspell__item__noggenfogger__elixir.html":[6,0,3244],
-"da/de9/classspell__item__noggenfogger__elixir.html#a0385a22f908ac62ab987fe9f84cad330":[6,0,3244,2],
-"da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3244,3],
-"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3244,4],
-"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3244,0],
-"da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3244,1],
+"da/de9/classspell__item__noggenfogger__elixir.html":[6,0,3245],
+"da/de9/classspell__item__noggenfogger__elixir.html#a0385a22f908ac62ab987fe9f84cad330":[6,0,3245,2],
+"da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3245,3],
+"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3245,4],
+"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3245,0],
+"da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3245,1],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[7,0,0,0,3,4,0,0,10],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a7cde0074dfd288f2d70c0e035dacb28a":[7,0,0,0,3,4,0,0,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX267 =
 "da/dea/zulaman_8cpp.html#af02b9a47aa1eab23836131c06942f3a4aed5c8b06c2f4f9325e8689540eeb3e5f":[7,0,0,0,1,3,2,15,7,20,13],
 "da/dec/classnpc__garr__firesworn.html":[6,0,1798],
 "da/dec/classnpc__garr__firesworn.html#a07e47767a44d3613f8cba2c3dfb1d14e":[6,0,1798,2],
-"da/dec/classnpc__garr__firesworn.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf":[6,0,1798,1],
-"da/dee/classboss__rend__blackhand.html":[6,0,672],
-"da/dee/classboss__rend__blackhand.html#aed65d31a5a841af8aed015555bf811cb":[6,0,672,2],
-"da/dee/classboss__rend__blackhand.html#afd12818c33de25332bf207f30c8490a1":[6,0,672,1],
-"da/def/classat__the__beast__room.html":[6,0,243],
-"da/def/classat__the__beast__room.html#a366c5e35c4030f998404886f1526ae37":[6,0,243,1],
-"da/def/classat__the__beast__room.html#aed5c4aae45ee2b256eb078875c5a2c47":[6,0,243,0]
+"da/dec/classnpc__garr__firesworn.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf":[6,0,1798,1]
 };

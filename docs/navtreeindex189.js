@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d7/d53/structboss__cthun.html#a5a0514e56217bb3b30b22b2681542adb":[6,0,412,5],
+"d7/d53/structboss__cthun.html#a7d2685597f1eec2459fe509e5b97681f":[6,0,412,7],
 "d7/d53/structboss__cthun.html#abad23f1df9c6989e7a6d3d62143adb05":[6,0,412,9],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html":[6,0,4000],
 "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html#a1b8782a4f22522cfe224073515abdf45":[6,0,4000,0],
@@ -34,9 +36,9 @@ var NAVTREEINDEX189 =
 "d7/d56/classspell__brutallus__burn.html#a17d53f598be9fe9e9790bb96dfcb4891":[6,0,2679,3],
 "d7/d56/classspell__brutallus__burn.html#a703ac8467126f5c2aee393fcf2400ffc":[6,0,2679,0],
 "d7/d56/classspell__brutallus__burn.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16":[6,0,2679,2],
-"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html":[6,0,3372],
-"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#a6c38df91dbe0cf277d1d50a40edd4589":[6,0,3372,1],
-"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#aa16aba75a066e83cb56660a0e29e7453":[6,0,3372,0],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html":[6,0,3373],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#a6c38df91dbe0cf277d1d50a40edd4589":[6,0,3373,1],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#aa16aba75a066e83cb56660a0e29e7453":[6,0,3373,0],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html":[6,0,1904,0],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0e1e6beaa98090d8bf8a17d28a9ee733":[6,0,1904,0,4],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0f7a4566ca93a174c92fe10e904af480":[6,0,1904,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d64/classachievement__respect__your__elders.html":[6,0,83],
 "d7/d64/classachievement__respect__your__elders.html#a2fd66ada0ff7482c00b2cb417a12e88e":[6,0,83,0],
 "d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[6,0,83,1],
-"d7/d64/structMMAP_1_1MMapData.html":[5,0,20,5],
-"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[6,0,6,5,1]
+"d7/d64/structMMAP_1_1MMapData.html":[6,0,6,5]
 };

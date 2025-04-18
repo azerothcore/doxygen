@@ -487,7 +487,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  188</span>        <span class="comment">// Retrieve player&#39;s locale</span></div>
 <div class="line"><span class="lineno">  189</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;GetSessionDbLocaleIndex();</div>
 <div class="line"><span class="lineno">  190</span> </div>
-<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.count(textId))</div>
+<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.contains(textId))</div>
 <div class="line"><span class="lineno">  192</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  193</span> </div>
 <div class="line"><span class="lineno">  194</span>        <span class="comment">// Get localized message</span></div>
@@ -549,7 +549,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  167</span>        <span class="comment">// Get player&#39;s locale</span></div>
 <div class="line"><span class="lineno">  168</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;GetSessionDbLocaleIndex();</div>
 <div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.empty())</div>
+<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.contains(textId))</div>
 <div class="line"><span class="lineno">  171</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  172</span> </div>
 <div class="line"><span class="lineno">  173</span>        std::string_view localizedMessage = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], locale);</div>
@@ -654,7 +654,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d59/classAutobroadcastMgr.html">AutobroadcastMgr</a></li>
-    <li class="footer">Generated on Thu Apr 17 2025 06:22:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Apr 18 2025 06:21:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d7/d46/classAuraEffect.html#ac14e9e6906344f04904ed7ee866f4475":[6,0,281,24],
+"d7/d46/classAuraEffect.html#ac313992b1527bbeddf09365da0d28ebc":[6,0,281,12],
 "d7/d46/classAuraEffect.html#ac3cf8ea3adbe4a9b6756c1759d515528":[6,0,281,192],
 "d7/d46/classAuraEffect.html#ac3da622f21fc4e175e6948db55b60511":[6,0,281,126],
 "d7/d46/classAuraEffect.html#ac47f45d58ef676d9e242852a80c96b01":[6,0,281,196],
@@ -200,8 +202,8 @@ var NAVTREEINDEX188 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1047,0],
@@ -235,11 +237,11 @@ var NAVTREEINDEX188 =
 "d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,4031,0],
 "d7/d52/classSpellEvent.html#ac21656467ae71def45fd78b9d1fa1c30":[6,0,4031,2],
 "d7/d52/classSpellEvent.html#ac8158bfbe916ff6207b2f6608308ae24":[6,0,4031,3],
-"d7/d53/classspell__kaelthas__flame__strike.html":[6,0,3294],
-"d7/d53/classspell__kaelthas__flame__strike.html#a17e8be131f01b2434b18740b20a08d6e":[6,0,3294,3],
-"d7/d53/classspell__kaelthas__flame__strike.html#aba7e1a0b87607386649bb842b5058c3e":[6,0,3294,0],
-"d7/d53/classspell__kaelthas__flame__strike.html#ac2f7a4532f62fb49f54c60b79aceb2e8":[6,0,3294,1],
-"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3294,2],
+"d7/d53/classspell__kaelthas__flame__strike.html":[6,0,3295],
+"d7/d53/classspell__kaelthas__flame__strike.html#a17e8be131f01b2434b18740b20a08d6e":[6,0,3295,3],
+"d7/d53/classspell__kaelthas__flame__strike.html#aba7e1a0b87607386649bb842b5058c3e":[6,0,3295,0],
+"d7/d53/classspell__kaelthas__flame__strike.html#ac2f7a4532f62fb49f54c60b79aceb2e8":[6,0,3295,1],
+"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3295,2],
 "d7/d53/structboss__cthun.html":[6,0,412],
 "d7/d53/structboss__cthun.html#a04ae38b67d358f1d34820b855aab3869":[6,0,412,1],
 "d7/d53/structboss__cthun.html#a05bab8427cd4b4bfa50aee450e423f98":[6,0,412,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d53/structboss__cthun.html#a287ee7b65708971e4fdfa7b814486935":[6,0,412,0],
 "d7/d53/structboss__cthun.html#a3c6478e7de0e5a6f20f693a788bf8c86":[6,0,412,2],
 "d7/d53/structboss__cthun.html#a49d76bb4cf30ee66fae6114313394961":[6,0,412,6],
-"d7/d53/structboss__cthun.html#a56fe3347ac41b67fb6912f372a5879ba":[6,0,412,3],
-"d7/d53/structboss__cthun.html#a5a0514e56217bb3b30b22b2681542adb":[6,0,412,5],
-"d7/d53/structboss__cthun.html#a7d2685597f1eec2459fe509e5b97681f":[6,0,412,7]
+"d7/d53/structboss__cthun.html#a56fe3347ac41b67fb6912f372a5879ba":[6,0,412,3]
 };

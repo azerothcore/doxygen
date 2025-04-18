@@ -1,5 +1,7 @@
 var NAVTREEINDEX353 =
 {
+"de/d30/SpellMgr_8h.html#a38a52b76af6f14f7d3ad3282be428da8":[7,0,0,0,1,2,41,9,14],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620":[7,0,0,0,1,2,41,9,65],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0cbc9ff250313715ea194c4fe1df791e":[7,0,0,0,1,2,41,9,65,16],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0fab403afacd213d4cfd78fd61420455":[7,0,0,0,1,2,41,9,65,1],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a1272d6059a779c53157d1dd19f942ee1":[7,0,0,0,1,2,41,9,65,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX353 =
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2847,1],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2847,2],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2847,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2847,3],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html":[6,0,1289,0],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a02fc56dddc6b300f06c7cc5f8fb3ded7":[6,0,1289,0,12]
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2847,3]
 };

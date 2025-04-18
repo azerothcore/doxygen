@@ -1,5 +1,11 @@
 var NAVTREEINDEX312 =
 {
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a0eabeeae0a975034ece1e8c0f113949d":[7,0,0,0,1,3,3,1,34,6],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a18ceb4b834e4055eafff7c87cc3982b3":[7,0,0,0,1,3,3,1,34,24],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a20801a420279ee89ae3b528c04aed13b":[7,0,0,0,1,3,3,1,34,28],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a28d0aa8ef3be216bdd5b49951aa0b84a":[7,0,0,0,1,3,3,1,34,25],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a2f3e155a7c252d8c8ecbda4b25da7914":[7,0,0,0,1,3,3,1,34,20],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a41c019acf116d746bd18ecaa05a63bfb":[7,0,0,0,1,3,3,1,34,21],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a44e4038a93ffbb5d0f0c2d0bd9c54900":[7,0,0,0,1,3,3,1,34,9],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a45325eacecaa4fdb4c25e9e356338c73":[7,0,0,0,1,3,3,1,34,34],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a4b7406bd8a96f5d467ea06e30b4da07b":[7,0,0,0,1,3,3,1,34,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX312 =
 "dc/de8/classBattlegroundIC.html#a187acc6a446edb836448937616c9f197":[6,0,323,24],
 "dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e":[6,0,323,11],
 "dc/de8/classBattlegroundIC.html#a2329a98ce3beede2e9c52b058ffc7267":[6,0,323,22],
-"dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[6,0,323,37],
-"dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30":[6,0,323,12],
-"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[6,0,323,18],
-"dc/de8/classBattlegroundIC.html#a40e3f213ab179fed03eaf522671b8ed4":[6,0,323,28],
-"dc/de8/classBattlegroundIC.html#a498d3e2919acc4c8e8ae117dbbf4a1e0":[6,0,323,6],
-"dc/de8/classBattlegroundIC.html#a4a5ee6dea0efcf02039934e1fc721b31":[6,0,323,8],
-"dc/de8/classBattlegroundIC.html#a4bb4895ace9d7004913da10ac62ad509":[6,0,323,34]
+"dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[6,0,323,37]
 };

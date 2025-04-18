@@ -1,5 +1,7 @@
 var NAVTREEINDEX379 =
 {
+"df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[6,0,3465,2],
+"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[6,0,3465,1],
 "df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[6,0,3465,0],
 "df/d41/classSocketMgr.html":[6,0,2564],
 "df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[6,0,2564,12],
@@ -239,15 +241,13 @@ var NAVTREEINDEX379 =
 "df/d55/classlfg_1_1LFGPlayerScript.html#aeb3fd4e39ed8ba345cf3c76a232f241d":[5,0,18,9,1],
 "df/d55/classlfg_1_1LFGPlayerScript.html#afd530a2823a7187b49645c9d0625c8ba":[5,0,18,9,2],
 "df/d55/classlfg_1_1LFGPlayerScript.html#afd530a2823a7187b49645c9d0625c8ba":[6,0,5,9,2],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html":[6,0,3427],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#a0ee5b216f8e713a5c632d0f456fd2b72":[6,0,3427,0],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#a486387d707b7ad66ecb443ab2bb60778":[6,0,3427,3],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#aa8578390d7d9379328c02ceb209e94ed":[6,0,3427,2],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ab89ab441f022ee017548ba49d128b92e":[6,0,3427,1],
-"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ad5d695978794d796eb7139fce1530d57":[6,0,3427,4],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html":[6,0,3428],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#a0ee5b216f8e713a5c632d0f456fd2b72":[6,0,3428,0],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#a486387d707b7ad66ecb443ab2bb60778":[6,0,3428,3],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#aa8578390d7d9379328c02ceb209e94ed":[6,0,3428,2],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ab89ab441f022ee017548ba49d128b92e":[6,0,3428,1],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ad5d695978794d796eb7139fce1530d57":[6,0,3428,4],
 "df/d55/classspell__sindragosa__icy__grip__jump.html":[6,0,3779],
 "df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[6,0,3779,1],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[6,0,3779,2],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[6,0,3779,0],
-"df/d56/classAreaBoundary.html":[6,0,158]
+"df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[6,0,3779,2]
 };

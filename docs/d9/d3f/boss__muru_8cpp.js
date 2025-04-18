@@ -9,7 +9,7 @@ var boss__muru_8cpp =
     [ "spell_entropius_void_zone_visual_aura", "d7/d45/classspell__entropius__void__zone__visual__aura.html", "d7/d45/classspell__entropius__void__zone__visual__aura" ],
     [ "spell_entropius_black_hole_effect", "de/ddd/classspell__entropius__black__hole__effect.html", "de/ddd/classspell__entropius__black__hole__effect" ],
     [ "spell_entropius_negative_energy_periodic", "d7/d5c/classspell__entropius__negative__energy__periodic.html", "d7/d5c/classspell__entropius__negative__energy__periodic" ],
-    [ "spell_muru_blackhole", "dd/d32/classspell__muru__blackhole.html", "dd/d32/classspell__muru__blackhole" ],
+    [ "spell_gen_summon_target_floor", "d8/ddc/classspell__gen__summon__target__floor.html", "d8/ddc/classspell__gen__summon__target__floor" ],
     [ "Spells", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_ENRAGE", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
       [ "SPELL_NEGATIVE_ENERGY", "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca927da7f75d1a92d2811a34dc3ba5ecb2", null ],

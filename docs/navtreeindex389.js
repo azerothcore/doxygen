@@ -1,5 +1,7 @@
 var NAVTREEINDEX389 =
 {
+"df/dba/classnpc__ulduar__hodir__mage.html#abcbe0337b2a83b6eb0a64f7465d7f79a":[6,0,2220,2],
+"df/dba/classnpc__ulduar__hodir__mage.html#afebdd0f99f0c7eaaf0a2d5731335105d":[6,0,2220,1],
 "df/dba/instance__ahnkahet_8cpp.html":[7,0,0,0,1,3,5,0,0,6],
 "df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3],
 "df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,4],
@@ -71,11 +73,11 @@ var NAVTREEINDEX389 =
 "df/dbf/classpet__commandscript.html#a84595dcb908398e80deee0b0aa47e335":[6,0,2378,0],
 "df/dbf/classpet__commandscript.html#a993d06169aa0b0c4bbda38e124b6eea9":[6,0,2378,2],
 "df/dbf/classpet__commandscript.html#ae6d785cdde773b107ba5e619b039f7b8":[6,0,2378,4],
-"df/dbf/classspell__item__mingos__fortune__generator.html":[6,0,3236],
-"df/dbf/classspell__item__mingos__fortune__generator.html#a2a414ce6309b0bbbdb3fb4612215ca03":[6,0,3236,3],
-"df/dbf/classspell__item__mingos__fortune__generator.html#a527f606fd6e583eab56146a689f73e69":[6,0,3236,1],
-"df/dbf/classspell__item__mingos__fortune__generator.html#ac34b3d95ea2888a164deaa3db6671e8b":[6,0,3236,2],
-"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[6,0,3236,0],
+"df/dbf/classspell__item__mingos__fortune__generator.html":[6,0,3237],
+"df/dbf/classspell__item__mingos__fortune__generator.html#a2a414ce6309b0bbbdb3fb4612215ca03":[6,0,3237,3],
+"df/dbf/classspell__item__mingos__fortune__generator.html#a527f606fd6e583eab56146a689f73e69":[6,0,3237,1],
+"df/dbf/classspell__item__mingos__fortune__generator.html#ac34b3d95ea2888a164deaa3db6671e8b":[6,0,3237,2],
+"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[6,0,3237,0],
 "df/dc0/structHodirHelperData.html":[6,0,1257],
 "df/dc0/structHodirHelperData.html#aaf4fd9f1d5b020e102c0fec3863f7020":[6,0,1257,2],
 "df/dc0/structHodirHelperData.html#accc6fc59e13a0897ae168fae33ee4c7d":[6,0,1257,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX389 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1603,0,2],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1603,0,8],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[6,0,1603,0,7],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#afb48cc1c2e254c292c33eade74b6fad7":[6,0,1603,0,1],
-"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html":[6,0,1823,0],
-"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a4b4e2839e426bdb752beea09394f13dc":[6,0,1823,0,1]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#afb48cc1c2e254c292c33eade74b6fad7":[6,0,1603,0,1]
 };

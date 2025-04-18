@@ -1,5 +1,11 @@
 var NAVTREEINDEX285 =
 {
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5732d1eaea6917e07d4f7b5407042469":[7,0,0,0,1,3,10,14,60,7],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5ecfda4bcc8fa4e70e5b37438f6878d9":[7,0,0,0,1,3,10,14,60,9],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a6b51d9bddae864a23de2b1e42ec55ce1":[7,0,0,0,1,3,10,14,60,11],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a726854a6ac484db50f2f2beafc10f930":[7,0,0,0,1,3,10,14,60,5],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a773eb442220f586b840e02d6e0026125":[7,0,0,0,1,3,10,14,60,1],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a8be77a82a338bb45d912b34df244a028":[7,0,0,0,1,3,10,14,60,4],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038aa40f1875a834eb2c596968854936a49e":[7,0,0,0,1,3,10,14,60,8],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ab86f26324aef233637b1392709d211a6":[7,0,0,0,1,3,10,14,60,10],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ac552be3f5be69e2ffe52b569556c9a8d":[7,0,0,0,1,3,10,14,60,0],
@@ -226,12 +232,12 @@ var NAVTREEINDEX285 =
 "db/db5/structboss__hydross__the__unstable.html#ad05fa00eade9614ed54b03a9a4d5d348":[6,0,538,1],
 "db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[6,0,538,9],
 "db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,538,8],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[6,0,3325],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[6,0,3325,1],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3325,0],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3325,2],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[6,0,3325,4],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3325,3],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[6,0,3326],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[6,0,3326,1],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3326,0],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3326,2],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[6,0,3326,4],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3326,3],
 "db/db7/instance__hyjal_8cpp.html":[7,0,0,0,1,3,4,1,0,7],
 "db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[7,0,0,0,1,3,4,1,0,7,6],
 "db/db7/instance__hyjal_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,1,0,7,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX285 =
 "db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[7,0,0,0,1,3,5,2,0,3,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a70438d12d4153aa7d510c89551abf7c9":[7,0,0,0,1,3,5,2,0,3,4],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a736c9181af440341040d67d6b54e5700":[7,0,0,0,1,3,5,2,0,3,2],
-"db/db7/namespaceMovement.html":[5,0,21],
-"db/db7/namespaceMovement.html#a0f9e26b66bd86bb9701c366e4f9529c3":[5,0,21,20],
-"db/db7/namespaceMovement.html#a15b376933a666c7f7c4600e62d7afe91":[5,0,21,36],
-"db/db7/namespaceMovement.html#a189485de5eba32c5b18dbb5c579b60d9":[5,0,21,26],
-"db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f":[5,0,21,30],
-"db/db7/namespaceMovement.html#a2982e1b6388bf8b29797b16969b64173":[5,0,21,34],
-"db/db7/namespaceMovement.html#a2fc34c9abcc5822e12037c23c2ecbfe0":[5,0,21,40]
+"db/db7/namespaceMovement.html":[5,0,21]
 };

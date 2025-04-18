@@ -244,6 +244,8 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a5bb5345754505cca5f9c840dc5bb9dfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaa577b07d61ddc6e7af175c76ce63b11" id="r_aaa577b07d61ddc6e7af175c76ce63b11"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11">HandleAfterEffectProc</a> (<a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> const *, <a class="el" href="../../d0/dde/classProcEventInfo.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
 <tr class="separator:aaa577b07d61ddc6e7af175c76ce63b11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f7371edfa971c56e15cef94d6fb0117" id="r_a9f7371edfa971c56e15cef94d6fb0117"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9f7371edfa971c56e15cef94d6fb0117">ResetProcState</a> ()</td></tr>
+<tr class="separator:a9f7371edfa971c56e15cef94d6fb0117"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ba0584da94cf51b8cd8fe7da50fc1b0" id="r_a9ba0584da94cf51b8cd8fe7da50fc1b0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9ba0584da94cf51b8cd8fe7da50fc1b0">Register</a> ()</td></tr>
 <tr class="separator:a9ba0584da94cf51b8cd8fe7da50fc1b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -251,6 +253,8 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ab644c981163424fbaa05650dc6505ae1" id="r_ab644c981163424fbaa05650dc6505ae1"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 0.f</td></tr>
 <tr class="separator:ab644c981163424fbaa05650dc6505ae1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0477619c024d2f2f505e7617fb057691" id="r_a0477619c024d2f2f505e7617fb057691"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">_procSpellDelayMoment</a> = std::nullopt</td></tr>
+<tr class="separator:a0477619c024d2f2f505e7617fb057691"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07a855a4806bac873eb40505f805c39f" id="r_a07a855a4806bac873eb40505f805c39f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d16/classSpell.html">Spell</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> = nullptr</td></tr>
 <tr class="separator:a07a855a4806bac873eb40505f805c39f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -368,7 +372,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00243">PROC_SPELL_PHASE_CAST</a>, and <a class="el" href="../../#l00457">ProcEventInfo::ResetProcChance()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01013">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01016">Register()</a>.</p>
 
 </div>
 </div>
@@ -404,11 +408,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  963</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  964</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_aaf9caf203e03be22c4dc0f8737806ea2"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#aaf9caf203e03be22c4dc0f8737806ea2">ProcEventInfo::SetProcChance</a></div><div class="ttdeci">void SetProcChance(float chance)</div><div class="ttdef"><b>Definition</b> Unit.h:456</div></div>
-<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_ab644c981163424fbaa05650dc6505ae1"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">spell_mage_fingers_of_frost_proc_aura::_chance</a></div><div class="ttdeci">float _chance</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1025</div></div>
+<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_ab644c981163424fbaa05650dc6505ae1"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">spell_mage_fingers_of_frost_proc_aura::_chance</a></div><div class="ttdeci">float _chance</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1030</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01025">_chance</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00243">PROC_SPELL_PHASE_CAST</a>, and <a class="el" href="../../#l00456">ProcEventInfo::SetProcChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01030">_chance</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00243">PROC_SPELL_PHASE_CAST</a>, and <a class="el" href="../../#l00456">ProcEventInfo::SetProcChance()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01013">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01016">Register()</a>.</p>
 
 </div>
 </div>
@@ -434,10 +438,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1022</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>; }</div>
-<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_a07a855a4806bac873eb40505f805c39f"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">spell_mage_fingers_of_frost_proc_aura::_spell</a></div><div class="ttdeci">Spell const  * _spell</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1026</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1027</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>; }</div>
+<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_a07a855a4806bac873eb40505f805c39f"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">spell_mage_fingers_of_frost_proc_aura::_spell</a></div><div class="ttdeci">Spell const  * _spell</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1034</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01026">_spell</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01034">_spell</a>.</p>
 
 </div>
 </div>
@@ -474,23 +478,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1001</span>    {</div>
-<div class="line"><span class="lineno"> 1002</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() == <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
-<div class="line"><span class="lineno"> 1003</span>        {</div>
-<div class="line"><span class="lineno"> 1004</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 100.f;</div>
-<div class="line"><span class="lineno"> 1005</span>        }</div>
-<div class="line"><span class="lineno"> 1006</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() == <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
-<div class="line"><span class="lineno"> 1007</span>        {</div>
-<div class="line"><span class="lineno"> 1008</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 0.f;</div>
-<div class="line"><span class="lineno"> 1009</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1010</span>        }</div>
-<div class="line"><span class="lineno"> 1011</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1000</span>    {</div>
+<div class="line"><span class="lineno"> 1001</span>        <span class="keywordflow">switch</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>())</div>
+<div class="line"><span class="lineno"> 1002</span>        {</div>
+<div class="line"><span class="lineno"> 1003</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>:    <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 100.f; <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1004</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>: <a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9f7371edfa971c56e15cef94d6fb0117">ResetProcState</a>(); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1005</span>            <span class="keywordflow">default</span>: <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1006</span>        }</div>
+<div class="line"><span class="lineno"> 1007</span>    }</div>
 <div class="ttc" id="aSpellMgr_8h_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition</b> SpellMgr.h:245</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition</b> SpellMgr.h:244</div></div>
+<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_a9f7371edfa971c56e15cef94d6fb0117"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9f7371edfa971c56e15cef94d6fb0117">spell_mage_fingers_of_frost_proc_aura::ResetProcState</a></div><div class="ttdeci">void ResetProcState()</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1009</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01025">_chance</a>, <a class="el" href="../../#l01026">_spell</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_FINISH</a>, and <a class="el" href="../../#l00244">PROC_SPELL_PHASE_HIT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01030">_chance</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00244">PROC_SPELL_PHASE_HIT</a>, and <a class="el" href="../../#l01009">ResetProcState()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01013">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01016">Register()</a>.</p>
 
 </div>
 </div>
@@ -532,31 +534,31 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  979</span>        {</div>
 <div class="line"><span class="lineno">  980</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 100.f;</div>
 <div class="line"><span class="lineno">  981</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">GetProcSpell</a>();</div>
-<div class="line"><span class="lineno">  982</span> </div>
-<div class="line"><span class="lineno">  983</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> || <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>() &lt;= 0)</div>
-<div class="line"><span class="lineno">  984</span>            {</div>
+<div class="line"><span class="lineno">  982</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">_procSpellDelayMoment</a> = std::nullopt;</div>
+<div class="line"><span class="lineno">  983</span> </div>
+<div class="line"><span class="lineno">  984</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> || <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>() &lt;= 0)</div>
 <div class="line"><span class="lineno">  985</span>                <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  986</span>            }</div>
-<div class="line"><span class="lineno">  987</span>        }</div>
-<div class="line"><span class="lineno">  988</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  989</span>        {</div>
-<div class="line"><span class="lineno">  990</span>            <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() == <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a> || ((<a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> &amp;&amp; <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>() &gt; 0) || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()))</div>
-<div class="line"><span class="lineno">  991</span>            {</div>
-<div class="line"><span class="lineno">  992</span>                <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  993</span>            }</div>
+<div class="line"><span class="lineno">  986</span> </div>
+<div class="line"><span class="lineno">  987</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>)</div>
+<div class="line"><span class="lineno">  988</span>                <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">_procSpellDelayMoment</a> = <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>();</div>
+<div class="line"><span class="lineno">  989</span>        }</div>
+<div class="line"><span class="lineno">  990</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  991</span>        {</div>
+<div class="line"><span class="lineno">  992</span>            <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() == <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a> || (<a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">_procSpellDelayMoment</a>.value_or(0) &gt; 0 || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()))</div>
+<div class="line"><span class="lineno">  993</span>                <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
 <div class="line"><span class="lineno">  994</span> </div>
-<div class="line"><span class="lineno">  995</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 0.f;</div>
-<div class="line"><span class="lineno">  996</span>            <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  997</span>        }</div>
-<div class="line"><span class="lineno">  998</span>    }</div>
+<div class="line"><span class="lineno">  995</span>            <a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9f7371edfa971c56e15cef94d6fb0117">ResetProcState</a>();</div>
+<div class="line"><span class="lineno">  996</span>        }</div>
+<div class="line"><span class="lineno">  997</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_a4fc02fb30c7c964a4fa804e69c47c9a2"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">ProcEventInfo::GetProcSpell</a></div><div class="ttdeci">Spell const * GetProcSpell() const</div><div class="ttdef"><b>Definition</b> Unit.h:448</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:449</div></div>
 <div class="ttc" id="aclassSpell_html_ad39149ba8f34185ed6c52c5782881250"><div class="ttname"><a href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">Spell::GetDelayMoment</a></div><div class="ttdeci">uint64 GetDelayMoment() const</div><div class="ttdef"><b>Definition</b> Spell.h:568</div></div>
+<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_a0477619c024d2f2f505e7617fb057691"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">spell_mage_fingers_of_frost_proc_aura::_procSpellDelayMoment</a></div><div class="ttdeci">std::optional&lt; uint64 &gt; _procSpellDelayMoment</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1031</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01025">_chance</a>, <a class="el" href="../../#l01026">_spell</a>, <a class="el" href="../../#l00449">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00568">Spell::GetDelayMoment()</a>, <a class="el" href="../../#l00448">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00243">PROC_SPELL_PHASE_CAST</a>, and <a class="el" href="../../#l00245">PROC_SPELL_PHASE_FINISH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01030">_chance</a>, <a class="el" href="../../#l01031">_procSpellDelayMoment</a>, <a class="el" href="../../#l01034">_spell</a>, <a class="el" href="../../#l00449">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00568">Spell::GetDelayMoment()</a>, <a class="el" href="../../#l00448">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l00444">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00243">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_FINISH</a>, and <a class="el" href="../../#l01009">ResetProcState()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01013">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01016">Register()</a>.</p>
 
 </div>
 </div>
@@ -614,12 +616,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1014</span>    {</div>
-<div class="line"><span class="lineno"> 1015</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aa533054a5cd434ef3e02767a0a87db62">spell_mage_fingers_of_frost_proc_aura::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1016</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ae6ac733a614be543c04b57379b84aaca">spell_mage_fingers_of_frost_proc_aura::AfterCheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1017</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a5bb5345754505cca5f9c840dc5bb9dfb">spell_mage_fingers_of_frost_proc_aura::HandleOnEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 1018</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a537a64e3d248f230b6e3aab384261918">AfterEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11">spell_mage_fingers_of_frost_proc_aura::HandleAfterEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 1019</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1017</span>    {</div>
+<div class="line"><span class="lineno"> 1018</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aa533054a5cd434ef3e02767a0a87db62">spell_mage_fingers_of_frost_proc_aura::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1019</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ae6ac733a614be543c04b57379b84aaca">spell_mage_fingers_of_frost_proc_aura::AfterCheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1020</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a5bb5345754505cca5f9c840dc5bb9dfb">spell_mage_fingers_of_frost_proc_aura::HandleOnEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 1021</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a537a64e3d248f230b6e3aab384261918">AfterEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11">spell_mage_fingers_of_frost_proc_aura::HandleAfterEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 1022</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
@@ -631,10 +633,44 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
 <div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_a5bb5345754505cca5f9c840dc5bb9dfb"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a5bb5345754505cca5f9c840dc5bb9dfb">spell_mage_fingers_of_frost_proc_aura::HandleOnEffectProc</a></div><div class="ttdeci">void HandleOnEffectProc(AuraEffect const *, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:976</div></div>
 <div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_aa533054a5cd434ef3e02767a0a87db62"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aa533054a5cd434ef3e02767a0a87db62">spell_mage_fingers_of_frost_proc_aura::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:956</div></div>
-<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_aaa577b07d61ddc6e7af175c76ce63b11"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11">spell_mage_fingers_of_frost_proc_aura::HandleAfterEffectProc</a></div><div class="ttdeci">void HandleAfterEffectProc(AuraEffect const *, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1000</div></div>
+<div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_aaa577b07d61ddc6e7af175c76ce63b11"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11">spell_mage_fingers_of_frost_proc_aura::HandleAfterEffectProc</a></div><div class="ttdeci">void HandleAfterEffectProc(AuraEffect const *, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:999</div></div>
 <div class="ttc" id="aclassspell__mage__fingers__of__frost__proc__aura_html_ae6ac733a614be543c04b57379b84aaca"><div class="ttname"><a href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ae6ac733a614be543c04b57379b84aaca">spell_mage_fingers_of_frost_proc_aura::AfterCheckProc</a></div><div class="ttdeci">bool AfterCheckProc(ProcEventInfo &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:966</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00966">AfterCheckProc()</a>, <a class="el" href="../../#l00846">AuraScript::AfterEffectProc</a>, <a class="el" href="../../#l00823">AuraAfterCheckProcFn</a>, <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00956">CheckProc()</a>, <a class="el" href="../../#l00822">AuraScript::DoAfterCheckProc</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01000">HandleAfterEffectProc()</a>, <a class="el" href="../../#l00976">HandleOnEffectProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00966">AfterCheckProc()</a>, <a class="el" href="../../#l00846">AuraScript::AfterEffectProc</a>, <a class="el" href="../../#l00823">AuraAfterCheckProcFn</a>, <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00956">CheckProc()</a>, <a class="el" href="../../#l00822">AuraScript::DoAfterCheckProc</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00999">HandleAfterEffectProc()</a>, <a class="el" href="../../#l00976">HandleOnEffectProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+
+</div>
+</div>
+<a id="a9f7371edfa971c56e15cef94d6fb0117" name="a9f7371edfa971c56e15cef94d6fb0117"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f7371edfa971c56e15cef94d6fb0117">&#9670;&#160;</a></span>ResetProcState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void spell_mage_fingers_of_frost_proc_aura::ResetProcState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1010</span>    {</div>
+<div class="line"><span class="lineno"> 1011</span>        <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1">_chance</a> = 0.f;</div>
+<div class="line"><span class="lineno"> 1012</span>        <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f">_spell</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1013</span>        <a class="code hl_variable" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691">_procSpellDelayMoment</a> = std::nullopt;</div>
+<div class="line"><span class="lineno"> 1014</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01030">_chance</a>, <a class="el" href="../../#l01031">_procSpellDelayMoment</a>, and <a class="el" href="../../#l01034">_spell</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00999">HandleAfterEffectProc()</a>, and <a class="el" href="../../#l00976">HandleOnEffectProc()</a>.</p>
 
 </div>
 </div>
@@ -659,7 +695,31 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00956">CheckProc()</a>, <a class="el" href="../../#l01000">HandleAfterEffectProc()</a>, and <a class="el" href="../../#l00976">HandleOnEffectProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00956">CheckProc()</a>, <a class="el" href="../../#l00999">HandleAfterEffectProc()</a>, <a class="el" href="../../#l00976">HandleOnEffectProc()</a>, and <a class="el" href="../../#l01009">ResetProcState()</a>.</p>
+
+</div>
+</div>
+<a id="a0477619c024d2f2f505e7617fb057691" name="a0477619c024d2f2f505e7617fb057691"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0477619c024d2f2f505e7617fb057691">&#9670;&#160;</a></span>_procSpellDelayMoment</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;<a class="el" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt; spell_mage_fingers_of_frost_proc_aura::_procSpellDelayMoment = std::nullopt</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00976">HandleOnEffectProc()</a>, and <a class="el" href="../../#l01009">ResetProcState()</a>.</p>
 
 </div>
 </div>
@@ -683,7 +743,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01022">GetProcSpell()</a>, <a class="el" href="../../#l01000">HandleAfterEffectProc()</a>, and <a class="el" href="../../#l00976">HandleOnEffectProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01027">GetProcSpell()</a>, <a class="el" href="../../#l00976">HandleOnEffectProc()</a>, and <a class="el" href="../../#l01009">ResetProcState()</a>.</p>
 
 </div>
 </div>
@@ -696,7 +756,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d72/classspell__mage__fingers__of__frost__proc__aura.html">spell_mage_fingers_of_frost_proc_aura</a></li>
-    <li class="footer">Generated on Thu Apr 17 2025 06:23:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Apr 18 2025 06:22:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

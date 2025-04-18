@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1927,0,1],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1927,0,3],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1927,0,2],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1927,0,0],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1927,0,4],
@@ -60,8 +62,8 @@ var NAVTREEINDEX321 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
@@ -227,11 +229,11 @@ var NAVTREEINDEX321 =
 "dd/d52/structCreatureData.html#ad82bedfdb0ea59c9de4fd26887ae322a":[6,0,913,19],
 "dd/d52/structCreatureData.html#aee7aae90ca299d8ac163bb068fed3f6a":[6,0,913,18],
 "dd/d52/structCreatureData.html#af2a1092af24c3766e10554729061e2ff":[6,0,913,8],
-"dd/d54/classspell__kaelthas__mind__control.html":[6,0,3297],
-"dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[6,0,3297,1],
-"dd/d54/classspell__kaelthas__mind__control.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc":[6,0,3297,0],
-"dd/d54/classspell__kaelthas__mind__control.html#ac36f3d88a0ef8ccaee5bac17bffcaf49":[6,0,3297,3],
-"dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[6,0,3297,2],
+"dd/d54/classspell__kaelthas__mind__control.html":[6,0,3298],
+"dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[6,0,3298,1],
+"dd/d54/classspell__kaelthas__mind__control.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc":[6,0,3298,0],
+"dd/d54/classspell__kaelthas__mind__control.html#ac36f3d88a0ef8ccaee5bac17bffcaf49":[6,0,3298,3],
+"dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[6,0,3298,2],
 "dd/d55/classnpc__flamewaker__priest.html":[6,0,1777],
 "dd/d55/classnpc__flamewaker__priest.html#a2ae4d75192f8ddc60d092b9a129e636e":[6,0,1777,1],
 "dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1777,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94":[7,0,0,0,1,0,0,2,1,3,5],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4":[7,0,0,0,1,0,0,2,1,3,0],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[7,0,0,0,1,0,0,2,1,3,1],
-"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[7,0,0,0,1,0,0,2,1,3,3],
-"dd/d57/structSQLElementData.html":[6,0,4065],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4065,0]
+"dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[7,0,0,0,1,0,0,2,1,3,3]
 };

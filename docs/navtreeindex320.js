@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1c3ee1358cfe29d08587a6d014d97845":[6,0,1084,111],
+"dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330":[6,0,1084,185],
 "dd/d3b/structGameObjectTemplate.html#a1c7b9dcd793986593ef5cac164b65994":[6,0,1084,124],
 "dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036":[6,0,1084,107],
 "dd/d3b/structGameObjectTemplate.html#a1d650ba932c6a46239a9dbafc22b40fd":[6,0,1084,57],
@@ -201,10 +203,10 @@ var NAVTREEINDEX320 =
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,455,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,455,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,455,0,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d40/instance__molten__core_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,2,1,3,10,6],
 "dd/d40/instance__molten__core_8cpp.html#a69ab269a27b57bb4b00d3eee95db589e":[7,0,0,0,1,3,2,1,3,10,4],
 "dd/d40/instance__molten__core_8cpp.html#aa908fb56c2f024e5bfcb38bc98b849ab":[7,0,0,0,1,3,2,1,3,10,3],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html":[6,0,1927,0],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1927,0,1],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1927,0,3]
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html":[6,0,1927,0]
 };

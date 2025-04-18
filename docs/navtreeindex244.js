@@ -1,5 +1,11 @@
 var NAVTREEINDEX244 =
 {
+"d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[6,0,1104,12],
+"d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[6,0,1104,33],
+"d9/df5/classspell__gen__elune__candle.html":[6,0,2926],
+"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2926,3],
+"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2926,0],
+"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2926,2],
 "d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2926,1],
 "d9/df5/structboss__sartharion__dragonAI.html":[6,0,682],
 "d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[6,0,682,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a603074b32b7eeace4817e6b236dea72c":[7,0,0,0,1,3,5,9,2,16,7,17],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a603590e66f7f5697688ecd09185ba8cc":[7,0,0,0,1,3,5,9,2,16,7,3],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a6622acf2ffc78ef6ea9c28a1a1c838a2":[7,0,0,0,1,3,5,9,2,16,7,18],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7552fec4b076bba248d73303e456c451":[7,0,0,0,1,3,5,9,2,16,7,10],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7ce3063fbab6057a1d566d0903e6d434":[7,0,0,0,1,3,5,9,2,16,7,24],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08":[7,0,0,0,1,3,5,9,2,16,7,33],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a85dcc3a2ce6389642f2250f252eda66a":[7,0,0,0,1,3,5,9,2,16,7,35],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a8f140f99da69cf3004e3aa05ec231a0c":[7,0,0,0,1,3,5,9,2,16,7,31],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a9d657ed327303ff90db4e02bf677308e":[7,0,0,0,1,3,5,9,2,16,7,19],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2aa4f84d981a3f1a34176ca85e9feaca3d":[7,0,0,0,1,3,5,9,2,16,7,34]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7552fec4b076bba248d73303e456c451":[7,0,0,0,1,3,5,9,2,16,7,10]
 };

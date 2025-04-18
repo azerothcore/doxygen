@@ -7,6 +7,8 @@ var classspell__mage__fingers__of__frost__proc__aura =
     [ "HandleOnEffectProc", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
     [ "PrepareAuraScript", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a111821352b6d26f51878ce81b173ef6d", null ],
     [ "Register", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
+    [ "ResetProcState", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a9f7371edfa971c56e15cef94d6fb0117", null ],
     [ "_chance", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1", null ],
+    [ "_procSpellDelayMoment", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a0477619c024d2f2f505e7617fb057691", null ],
     [ "_spell", "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#a07a855a4806bac873eb40505f805c39f", null ]
 ];

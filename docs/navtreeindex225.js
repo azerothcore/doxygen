@@ -1,5 +1,11 @@
 var NAVTREEINDEX225 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e97a915c54f14a86081923c39b0a611":[7,0,0,0,1,3,5,6,7,31,2],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6a7c32f40092b7c4ab818019e9fa5cf3":[7,0,0,0,1,3,5,6,7,31,4],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6ffcbb9b84ac49cadfa72b20facf6e41":[7,0,0,0,1,3,5,6,7,31,7],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d14cd405643bdd172edc63df39c37cf":[7,0,0,0,1,3,5,6,7,31,5],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d919ce00a25fff0e0e89d044b47101a":[7,0,0,0,1,3,5,6,7,31,8],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,6,7,31,0],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,6,7,31,1],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaccbe25a95fcd8c56847451954286c3a":[7,0,0,0,1,3,5,6,7,31,9],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae48ed16e3d81e698b26347019dff68be":[7,0,0,0,1,3,5,6,7,31,6],
@@ -189,11 +195,11 @@ var NAVTREEINDEX225 =
 "d8/de1/structnpc__zealot__zath.html#a845840d0a45dd6c4b6368ee4ecf6917b":[6,0,2294,0],
 "d8/de1/structnpc__zealot__zath.html#abc4e40afd644f2c89444f3fe475817c0":[6,0,2294,3],
 "d8/de1/structnpc__zealot__zath.html#ae56e2e89a6ba623200e9ee36977cee13":[6,0,2294,1],
-"d8/de2/classspell__hodir__storm__power__aura.html":[6,0,3067],
-"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[6,0,3067,1],
-"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[6,0,3067,3],
-"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[6,0,3067,2],
-"d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[6,0,3067,0],
+"d8/de2/classspell__hodir__storm__power__aura.html":[6,0,3068],
+"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[6,0,3068,1],
+"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[6,0,3068,3],
+"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[6,0,3068,2],
+"d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[6,0,3068,0],
 "d8/de3/Warden_8cpp.html":[7,0,0,0,1,2,46,2],
 "d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc":[7,0,0,0,1,2,46,2,1],
 "d8/de3/classnpc__murkdeep.html":[6,0,1973],
@@ -243,11 +249,5 @@ var NAVTREEINDEX225 =
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0116639bee243d92b61fb03a198321e7":[7,0,0,0,1,3,2,1,1,14,5,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,1,14,5,2],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[7,0,0,0,1,3,2,1,1,14,5,4],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,2,1,1,14,5,5],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,1,1,14,5,0],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298cab0e989f0b2dc3581edd2550b8213e294":[7,0,0,0,1,3,2,1,1,14,5,6],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caec5ad6f4170f697acf9499e4e06bb065":[7,0,0,0,1,3,2,1,1,14,5,3],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,1,1,14,4],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a3591fbaf18a6ded8e48a289f43296fcd":[7,0,0,0,1,3,2,1,1,14,4,2],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a9f02921b76a46538e6b275b74b405525":[7,0,0,0,1,3,2,1,1,14,4,1]
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,2,1,1,14,5,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX354 =
 {
+"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html":[6,0,1289,0],
+"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a02fc56dddc6b300f06c7cc5f8fb3ded7":[6,0,1289,0,12],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a09088000395dbd2b1255c02b4867898d":[6,0,1289,0,10],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a0a5afd0104654aea57479fa3f4d1e36a":[6,0,1289,0,17],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a1047f207de079d1cad0fc6976ab2d3f9":[6,0,1289,0,15],
@@ -31,10 +33,10 @@ var NAVTREEINDEX354 =
 "de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1828,4],
 "de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1828,2],
 "de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1828,3],
-"de/d34/classspell__gordunni__trap.html":[6,0,3016],
-"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3016,2],
-"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3016,1],
-"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3016,0],
+"de/d34/classspell__gordunni__trap.html":[6,0,3017],
+"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3017,2],
+"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3017,1],
+"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3017,0],
 "de/d34/instance__halls__of__lightning_8cpp.html":[7,0,0,0,1,3,5,9,0,5],
 "de/d34/instance__halls__of__lightning_8cpp.html#acb5e7d848388449d05e307ed07fbcfc6":[7,0,0,0,1,3,5,9,0,5,2],
 "de/d34/structBroadcastText.html":[6,0,818],
@@ -247,7 +249,5 @@ var NAVTREEINDEX354 =
 "de/d3c/structnpc__maiev__illidan.html#aa4d6626d6130a88519f86cfe70d9fb95":[6,0,1943,6],
 "de/d3c/structnpc__maiev__illidan.html#ad1728d7d8b1b5f9db8db4d811c2ba630":[6,0,1943,4],
 "de/d3c/structnpc__maiev__illidan.html#ad41b6deb9406232629ad60ba66cfac6b":[6,0,1943,8],
-"de/d3d/Group_8h.html":[7,0,0,0,1,2,20,1],
-"de/d3d/Group_8h.html#a0b29644629b2e396bfc5582dd979a657":[7,0,0,0,1,2,20,1,7],
-"de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5f":[7,0,0,0,1,2,20,1,15]
+"de/d3d/Group_8h.html":[7,0,0,0,1,2,20,1]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX301 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca07e091ecb8a2612b504b5d38e97179cc":[7,0,0,0,1,3,4,1,0,4,2,3],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,1,0,4,2,4],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d343d8659aac6c2c356387e867baf5f":[7,0,0,0,1,3,4,1,0,4,2,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,4,1,0,4,2,0],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298cab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,4,1,0,4,2,2],
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,4,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,4,3,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1],
@@ -54,12 +60,12 @@ var NAVTREEINDEX301 =
 "dc/d35/classadt__MHDR.html#aeb0dacd46404505504aa4c9cd868838a":[6,0,138,4],
 "dc/d35/classadt__MHDR.html#af3204f96aaab52969f97c56fc8207e1f":[6,0,138,20],
 "dc/d36/ChannelHandler_8cpp.html":[7,0,0,0,1,2,22,8],
-"dc/d36/classspell__item__underbelly__elixir.html":[6,0,3283],
-"dc/d36/classspell__item__underbelly__elixir.html#a249a857b1cf5b0c3be6018cb233c75d1":[6,0,3283,3],
-"dc/d36/classspell__item__underbelly__elixir.html#a3db6982f1162ac6b03771a0e7e432e6d":[6,0,3283,0],
-"dc/d36/classspell__item__underbelly__elixir.html#a9671be7920dfd3bde2033f0ae43259b0":[6,0,3283,1],
-"dc/d36/classspell__item__underbelly__elixir.html#ac209048bd5688417c391c2c9b8a72d8b":[6,0,3283,4],
-"dc/d36/classspell__item__underbelly__elixir.html#ad50c9141d40b7089fd24a8657d496a8d":[6,0,3283,2],
+"dc/d36/classspell__item__underbelly__elixir.html":[6,0,3284],
+"dc/d36/classspell__item__underbelly__elixir.html#a249a857b1cf5b0c3be6018cb233c75d1":[6,0,3284,3],
+"dc/d36/classspell__item__underbelly__elixir.html#a3db6982f1162ac6b03771a0e7e432e6d":[6,0,3284,0],
+"dc/d36/classspell__item__underbelly__elixir.html#a9671be7920dfd3bde2033f0ae43259b0":[6,0,3284,1],
+"dc/d36/classspell__item__underbelly__elixir.html#ac209048bd5688417c391c2c9b8a72d8b":[6,0,3284,4],
+"dc/d36/classspell__item__underbelly__elixir.html#ad50c9141d40b7089fd24a8657d496a8d":[6,0,3284,2],
 "dc/d36/instance__drak__tharon__keep_8cpp.html":[7,0,0,0,1,3,5,3,5],
 "dc/d36/instance__drak__tharon__keep_8cpp.html#a5644ddec1299c3c3988ffb003d0c3367":[7,0,0,0,1,3,5,3,5,4],
 "dc/d36/instance__drak__tharon__keep_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,3,5,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1290,0,2],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1290,0,5],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1290,0,0],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1290,0,3],
-"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,699],
-"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,699,2],
-"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,699,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3038],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3038,3]
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1290,0,3]
 };

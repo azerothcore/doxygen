@@ -1,5 +1,7 @@
 var NAVTREEINDEX352 =
 {
+"de/d25/ObjectMgr_8h.html#ad3bd41d0f54f2baa59f94e7fb1b426d1":[7,0,0,0,1,2,18,3,102],
+"de/d25/ObjectMgr_8h.html#ad432b0af08f147d309c03a036cd55380":[7,0,0,0,1,2,18,3,31],
 "de/d25/ObjectMgr_8h.html#ade636c996e1ed5d559a29d117c73c75f":[7,0,0,0,1,2,18,3,79],
 "de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bd":[7,0,0,0,1,2,18,3,90],
 "de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bda00844b0c2b1d7ad346a98bb2e1c4d980":[7,0,0,0,1,2,18,3,90,3],
@@ -51,11 +53,11 @@ var NAVTREEINDEX352 =
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1158,0,5],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1158,0,2],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[6,0,1158,0,0],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3204],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3204,1],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3204,2],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3204,3],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3204,0],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3205],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3205,1],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3205,2],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3205,3],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3205,0],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,1995],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,1995,2],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,1995,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX352 =
 "de/d30/SpellMgr_8h.html#a3384f828e7f362dbdaecb22673641c88adf0c38d0364b5e9c36aa3bf4f68da680":[7,0,0,0,1,2,41,9,68,4],
 "de/d30/SpellMgr_8h.html#a3384f828e7f362dbdaecb22673641c88ae78c94e5be26a7c2c8f4dcd4d22c9036":[7,0,0,0,1,2,41,9,68,5],
 "de/d30/SpellMgr_8h.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,9,70],
-"de/d30/SpellMgr_8h.html#a387f031811a92887df5962b41c7b2532":[7,0,0,0,1,2,41,9,51],
-"de/d30/SpellMgr_8h.html#a38a52b76af6f14f7d3ad3282be428da8":[7,0,0,0,1,2,41,9,14],
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620":[7,0,0,0,1,2,41,9,65]
+"de/d30/SpellMgr_8h.html#a387f031811a92887df5962b41c7b2532":[7,0,0,0,1,2,41,9,51]
 };

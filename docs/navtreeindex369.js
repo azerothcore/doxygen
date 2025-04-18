@@ -1,5 +1,7 @@
 var NAVTREEINDEX369 =
 {
+"de/dd4/classspell__saronite__vapors__damage.html#a55c604f072fd0bbdcb886635fb53eaa8":[6,0,3713,1],
+"de/dd4/classspell__saronite__vapors__damage.html#a75953cbb3a288fd373e602ed07d84441":[6,0,3713,0],
 "de/dd4/classspell__saronite__vapors__damage.html#aea2b951dd2353800958f654df58d8fd8":[6,0,3713,3],
 "de/dd4/classspell__saronite__vapors__damage.html#af963f0dcdf2a1bc040a597c06983f0a7":[6,0,3713,2],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html":[6,0,1948,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX369 =
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a4a31ac9e94cf15cdb51d30c3318b86f5":[7,0,0,0,1,3,5,6,9,39,0],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a73f3cc3fd2bb6150d47689986df1bfd1":[7,0,0,0,1,3,5,6,9,39,2],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,5,6,9,39,4],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a9c239808144c052e62a74c886940c5cf":[7,0,0,0,1,3,5,6,9,39,6],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5aaea73c4632244cbfac967715128d3a9a":[7,0,0,0,1,3,5,6,9,39,7],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5ace38a09cc1f837573e30f48a568ff0d3":[7,0,0,0,1,3,5,6,9,39,5]
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a9c239808144c052e62a74c886940c5cf":[7,0,0,0,1,3,5,6,9,39,6]
 };
