@@ -195,8 +195,8 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>            : <a class="code hl_variable" href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(std::move(callback)) { }</div>
-<div class="ttc" id="aclassAcore_1_1ACLogSink_html_a360b91b740efaa05309725f6678eb22a"><div class="ttname"><a href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">Acore::ACLogSink::callback_</a></div><div class="ttdeci">T callback_</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:36</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>            : <a class="code hl_variable" href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(std::move(callback)) { }</div>
+<div class="ttc" id="aclassAcore_1_1ACLogSink_html_a360b91b740efaa05309725f6678eb22a"><div class="ttname"><a href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">Acore::ACLogSink::callback_</a></div><div class="ttdeci">T callback_</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:47</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -236,16 +236,16 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>        {</div>
-<div class="line"><span class="lineno">   48</span>            std::string consoleStr(str, size);</div>
-<div class="line"><span class="lineno">   49</span>            std::string utf8;</div>
-<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0da0f18a290f7efb94e632d8ffa819d1">consoleToUtf8</a>(consoleStr, utf8))</div>
-<div class="line"><span class="lineno">   51</span>                <a class="code hl_variable" href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(utf8);</div>
-<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">return</span> size;</div>
-<div class="line"><span class="lineno">   53</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>        {</div>
+<div class="line"><span class="lineno">   59</span>            std::string consoleStr(str, size);</div>
+<div class="line"><span class="lineno">   60</span>            std::string utf8;</div>
+<div class="line"><span class="lineno">   61</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0da0f18a290f7efb94e632d8ffa819d1">consoleToUtf8</a>(consoleStr, utf8))</div>
+<div class="line"><span class="lineno">   62</span>                <a class="code hl_variable" href="../../d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(utf8);</div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">return</span> size;</div>
+<div class="line"><span class="lineno">   64</span>        }</div>
 <div class="ttc" id="aUtil_8cpp_html_a0da0f18a290f7efb94e632d8ffa819d1"><div class="ttname"><a href="../../d9/da5/Util_8cpp.html#a0da0f18a290f7efb94e632d8ffa819d1">consoleToUtf8</a></div><div class="ttdeci">bool consoleToUtf8(std::string_view conStr, std::string &amp;utf8str)</div><div class="ttdef"><b>Definition</b> Util.cpp:466</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">Acore::ACLogSink&lt; T &gt;::callback_</a>, and <a class="el" href="../../#l00466">consoleToUtf8()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00047">Acore::ACLogSink&lt; T &gt;::callback_</a>, and <a class="el" href="../../#l00466">consoleToUtf8()</a>.</p>
 
 </div>
 </div>
@@ -272,7 +272,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00046">Acore::ACLogSink&lt; T &gt;::write()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00057">Acore::ACLogSink&lt; T &gt;::write()</a>.</p>
 
 </div>
 </div>
@@ -285,7 +285,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/d5c/classAcore_1_1ACLogSink.html">ACLogSink</a></li>
-    <li class="footer">Generated on Sat Apr 19 2025 06:21:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 20 2025 06:21:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

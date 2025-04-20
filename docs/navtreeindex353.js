@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"de/d30/SpellMgr_8h.html#a387f031811a92887df5962b41c7b2532":[7,0,0,0,1,2,41,9,51],
 "de/d30/SpellMgr_8h.html#a38a52b76af6f14f7d3ad3282be428da8":[7,0,0,0,1,2,41,9,14],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620":[7,0,0,0,1,2,41,9,65],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0cbc9ff250313715ea194c4fe1df791e":[7,0,0,0,1,2,41,9,65,16],
@@ -243,11 +244,10 @@ var NAVTREEINDEX353 =
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[7,0,0,0,1,2,16,7,18,1,1],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[7,0,0,0,1,2,16,7,18,1,3],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[7,0,0,0,1,2,16,7,18,1,2],
-"de/d33/classHordeChannelMgr.html":[6,0,1263],
-"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1263,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2847],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2847,1],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2847,2],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2847,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2847,3]
+"de/d33/classHordeChannelMgr.html":[6,0,1262],
+"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1262,0],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2846],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2846,1],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2846,2],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2846,0]
 };

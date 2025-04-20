@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5ea4e521bba41459b27dc29831dc1b3a":[7,0,0,0,1,3,5,9,2,10,28,7],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,9,2,10,28,2],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4e2a2237c699c048aed272ed67283e3":[7,0,0,0,1,3,5,9,2,10,28,5],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af935b0f6967dcbbc84f9d510f35b6f32":[7,0,0,0,1,3,5,9,2,10,28,6],
@@ -8,9 +9,9 @@ var NAVTREEINDEX331 =
 "dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
 "dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18],
 "dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0":[7,0,0,0,1,3,5,9,2,10,19],
-"dd/dca/classnpc__spiritual__insight.html":[6,0,2122],
-"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2122,2],
-"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2122,1],
+"dd/dca/classnpc__spiritual__insight.html":[6,0,2121],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2121,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2121,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
 "dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297":[7,0,0,0,1,3,4,11,2,2,6],
 "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4":[7,0,0,0,1,3,4,11,2,2,9],
 "dd/dcb/zulfarrak_8h.html#a8c843043d60c28e6ccd7efb1a75ec86e":[7,0,0,0,1,3,4,11,2,1],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81":[7,0,0,0,1,3,4,11,2,3],
-"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178":[7,0,0,0,1,3,4,11,2,3,10]
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81":[7,0,0,0,1,3,4,11,2,3]
 };

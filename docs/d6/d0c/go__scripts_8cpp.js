@@ -1,6 +1,5 @@
 var go__scripts_8cpp =
 [
-    [ "go_noblegarden_colored_egg", "d4/d8f/classgo__noblegarden__colored__egg.html", "d4/d8f/classgo__noblegarden__colored__egg" ],
     [ "go_seer_of_zebhalak", "d2/d6f/classgo__seer__of__zebhalak.html", "d2/d6f/classgo__seer__of__zebhalak" ],
     [ "go_mistwhisper_treasure", "d9/dcd/classgo__mistwhisper__treasure.html", "d9/dcd/classgo__mistwhisper__treasure" ],
     [ "go_witherbark_totem_bundle", "d6/d41/classgo__witherbark__totem__bundle.html", "d6/d41/classgo__witherbark__totem__bundle" ],
