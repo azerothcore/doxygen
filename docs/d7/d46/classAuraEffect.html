@@ -1235,7 +1235,7 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000111">Todo:</a></b></dt><dd>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000112">Todo:</a></b></dt><dd>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked. </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno">  599</span>{</div>
 <div class="line"><span class="lineno">  600</span>    <a class="code hl_variable" href="../../d7/d46/classAuraEffect.html#a9b7657d41ca8a463e12dca94fffdddbc">m_amplitude</a> = <a class="code hl_variable" href="../../d7/d46/classAuraEffect.html#ac4df84854746b8de74f64e2abfec76c1">m_spellInfo</a>-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_variable" href="../../d7/d46/classAuraEffect.html#a355d61580194626ea54b22ff9a3ac96a">m_effIndex</a>].Amplitude;</div>
 <div class="line"><span class="lineno">  601</span> </div>
@@ -1604,7 +1604,7 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000112">Todo:</a></b></dt><dd>: is there a spell flag, which can solve this in a more sophisticated way? </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000113">Todo:</a></b></dt><dd>: is there a spell flag, which can solve this in a more sophisticated way? </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno"> 1205</span>{</div>
 <div class="line"><span class="lineno"> 1206</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tSpellId = <a class="code hl_variable" href="../../d7/d46/classAuraEffect.html#ac4df84854746b8de74f64e2abfec76c1">m_spellInfo</a>-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#ab8c4811ced24cbd9b4afff1c22fbb1b0">GetEffIndex</a>()].TriggerSpell;</div>
 <div class="line"><span class="lineno"> 1207</span>    <span class="keywordflow">if</span> (!tSpellId)</div>
@@ -5819,7 +5819,7 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000114">Todo:</a></b></dt><dd>: optimalize this cycle - use RemoveAurasWithInterruptFlags call or something else </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000115">Todo:</a></b></dt><dd>: optimalize this cycle - use RemoveAurasWithInterruptFlags call or something else </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno"> 4233</span>{</div>
 <div class="line"><span class="lineno"> 4234</span>    <span class="keywordflow">if</span> (!(mode &amp; <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>))</div>
 <div class="line"><span class="lineno"> 4235</span>        <span class="keywordflow">return</span>;</div>
@@ -13099,7 +13099,7 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000115">Todo:</a></b></dt><dd>: effect trigger spell may be independant on spell targets, and executed in spell finish phase </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000116">Todo:</a></b></dt><dd>: effect trigger spell may be independant on spell targets, and executed in spell finish phase </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno"> 6293</span>{</div>
 <div class="line"><span class="lineno"> 6294</span>    <span class="comment">// generic casting code with custom spells and target/caster customs</span></div>
 <div class="line"><span class="lineno"> 6295</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggerSpellId = <a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a1004d58d71df9a9b603d217ebca51321">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#ab8c4811ced24cbd9b4afff1c22fbb1b0">GetEffIndex</a>()].TriggerSpell;</div>
@@ -13589,7 +13589,7 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000113">Todo:</a></b></dt><dd>: find a way to cancel fleeing for assistance. Currently this will only stop creatures fleeing due to low health that could not find nearby allies to flee towards. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000114">Todo:</a></b></dt><dd>: find a way to cancel fleeing for assistance. Currently this will only stop creatures fleeing due to low health that could not find nearby allies to flee towards. </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno"> 3528</span>{</div>
 <div class="line"><span class="lineno"> 3529</span>    <span class="keywordflow">if</span> (!(mode &amp; <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>))</div>
 <div class="line"><span class="lineno"> 3530</span>        <span class="keywordflow">return</span>;</div>
@@ -16019,7 +16019,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a></li>
-    <li class="footer">Generated on Mon Apr 21 2025 06:22:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Apr 22 2025 06:22:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
