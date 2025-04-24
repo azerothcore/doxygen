@@ -1,5 +1,6 @@
 var NAVTREEINDEX370 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a7db4b8be8a011d5120e62e41b9760c3d":[7,0,0,0,1,3,5,6,9,50],
 "de/de5/boss__sindragosa_8cpp.html#a88ac26498cd10ae88b17043588ad3b92":[7,0,0,0,1,3,5,6,9,51],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5":[7,0,0,0,1,3,5,6,9,39],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a0930e81ee0cdfdd929154ab1493abb60":[7,0,0,0,1,3,5,6,9,39,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX370 =
 "de/def/classboss__highlord__omokk.html":[6,0,533],
 "de/def/classboss__highlord__omokk.html#af5174587ed3cd1c46f604183a75de99e":[6,0,533,1],
 "de/def/classboss__highlord__omokk.html#afb8efb012791c6a2fc18975a1ec7f984":[6,0,533,2],
-"de/df0/SpellInfoCorrections_8cpp.html":[7,0,0,0,1,2,41,7],
-"de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[7,0,0,0,1,2,41,7,0]
+"de/df0/SpellInfoCorrections_8cpp.html":[7,0,0,0,1,2,41,7]
 };

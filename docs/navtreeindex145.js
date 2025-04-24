@@ -248,6 +248,6 @@ var NAVTREEINDEX145 =
 "d5/d65/structlfg_1_1RBInternalInfo.html":[6,0,5,20],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[6,0,5,20,37],
 "d5/d65/structlfg_1_1RBInternalInfo.html#a043a7f93451c0bdf269568d11e0fad31":[5,0,18,20,37],
-"d5/d65/structlfg_1_1RBInternalInfo.html#a0b66f69f20d62d6ebbfad7687e899831":[6,0,5,20,22],
-"d5/d65/structlfg_1_1RBInternalInfo.html#a0b66f69f20d62d6ebbfad7687e899831":[5,0,18,20,22]
+"d5/d65/structlfg_1_1RBInternalInfo.html#a0b66f69f20d62d6ebbfad7687e899831":[5,0,18,20,22],
+"d5/d65/structlfg_1_1RBInternalInfo.html#a0b66f69f20d62d6ebbfad7687e899831":[6,0,5,20,22]
 };

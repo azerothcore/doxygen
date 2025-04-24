@@ -89,12 +89,12 @@ var NAVTREEINDEX316 =
 "dd/d1a/classnpc__vortex__ride.html":[6,0,2263],
 "dd/d1a/classnpc__vortex__ride.html#a23ef53feb432127db2620810a55d02ff":[6,0,2263,2],
 "dd/d1a/classnpc__vortex__ride.html#ad794cda407c9dfc35dd9bc2724f5014a":[6,0,2263,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,65],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,53],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,65],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,65,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,53,0],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,53,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,65,3],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,53,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,65,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,53,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,65,1],
@@ -246,8 +246,8 @@ var NAVTREEINDEX316 =
 "dd/d25/classGuildScript.html#ad0733568cee8ded5c89d8404166201bb":[6,0,1247,7],
 "dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,30,7,7],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,7,7],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,30,7,7,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,11,7,7,2]
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,30,7,7],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,11,7,7,2],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,30,7,7,2]
 };

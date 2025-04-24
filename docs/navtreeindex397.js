@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dee/classspell__stinky__precious__decimate.html":[6,0,3791],
 "df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3791,0],
 "df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3791,1],
 "df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3791,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a74abf893a37874eb98aa5ba9883e8d62":[6,0,688,0,3],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ab4fa6a2cc57c9d110bfd3cf16a016942":[6,0,688,0,0],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,688,0,4],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,688,0,5],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,688,0,7]
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,688,0,5]
 };

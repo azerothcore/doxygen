@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1248,8],
 "df/d72/structgunship__npc__AI.html#a7c2da25bb962c32fa350ee1f12f86ca4":[6,0,1248,1],
 "df/d72/structgunship__npc__AI.html#ab5276a099bcf56c5a25b3a52be516b5c":[6,0,1248,7],
 "df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[6,0,1248,4],
@@ -47,8 +48,8 @@ var NAVTREEINDEX382 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2778,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2778,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2778,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,117],
 "df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,117],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2749],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2749,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2749,1],
@@ -213,14 +214,14 @@ var NAVTREEINDEX382 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,424,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,424,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,424,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,30,5,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,30,5,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,30,5,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,595,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,595,0,8],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,595,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[6,0,746,7],
 "df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[6,0,746,5],
 "df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[6,0,746,6],
-"df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[6,0,746,4],
-"df/d86/structboss__twilight__corrupter.html#a6c49eee2be24199418096cc48c50d384":[6,0,746,8]
+"df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[6,0,746,4]
 };

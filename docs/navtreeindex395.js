@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af5c31ea9a88c67dcda1c7746fb8e1ce4":[7,0,0,0,1,3,5,6,4,52,1],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af6aa344e6136036cd42f46df6d8cdf5e":[7,0,0,0,1,3,5,6,4,52,2],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,4,56],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ac6f98c2ff3ee507ab1d9d93b0dd33d":[7,0,0,0,1,3,5,6,4,56,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1896],
 "df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1896,2],
 "df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1896,1],
-"df/dde/classnpc__rinji.html":[6,0,2070],
-"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2070,2]
+"df/dde/classnpc__rinji.html":[6,0,2070]
 };

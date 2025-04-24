@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d66/Creature_8h.html":[7,0,0,0,1,2,16,1,1],
 "df/d66/Creature_8h.html#a44c3a813b92331e325ba5aae11ed72a3":[7,0,0,0,1,2,16,1,1,5],
 "df/d66/Creature_8h.html#a91a03a879f1b4df44968ae2f9f22fb0d":[7,0,0,0,1,2,16,1,1,4],
 "df/d66/classspell__black__temple__dementia__aura.html":[6,0,2634],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d72/structPeonRoleplay.html#acc63d01d5095adef28b9746c520be973":[6,0,2373,0],
 "df/d72/structgunship__npc__AI.html":[6,0,1248],
 "df/d72/structgunship__npc__AI.html#a30c13cb755638fcf05d1ad9a476210d3":[6,0,1248,0],
-"df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[6,0,1248,3],
-"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1248,8]
+"df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[6,0,1248,3]
 };

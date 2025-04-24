@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,688,0,7],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3839],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3839,2],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3839,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "dir_f0a1abf8767dec3b65a65862f1558cd7.html":[7,0,0,0,3,3],
 "dir_f14d503eb20eb3c7d3fc8afc057e3bad.html":[7,0,0,0,1,2,0],
 "dir_f49ad253a5d89b6cfd4cfde27040fa87.html":[7,0,0,0,1,2,45],
-"dir_f6031702e2b504d935bb677a6d4d89df.html":[7,0,0,0,1,3,5,3],
-"dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html":[7,0,0,0,0,14]
+"dir_f6031702e2b504d935bb677a6d4d89df.html":[7,0,0,0,1,3,5,3]
 };

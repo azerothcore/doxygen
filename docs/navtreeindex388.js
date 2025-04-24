@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[6,0,2042,0,7],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[6,0,2042,0,0],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[6,0,2042,0,4],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[6,0,2042,0,8],
@@ -141,12 +142,12 @@ var NAVTREEINDEX388 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,30,7,4],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,30,7,4,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,7,4,2],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,7,4,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,30,7,4,3],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,7,4,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,30,7,4,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,11,7,4,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,4,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,30,7,4,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,4,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
@@ -230,14 +231,14 @@ var NAVTREEINDEX388 =
 "df/db8/structnpc__tito.html#a96c47ca2e66bb984dfd2cfefa6bde643":[6,0,2173,3],
 "df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[6,0,2173,4],
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2173,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,30,5,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,30,5,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,30,5,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,30,5,50,0],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,11,5,50,0],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,30,5,50,0],
 "df/db9/structAddonInfo.html":[6,0,128],
 "df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[6,0,128,3],
 "df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[6,0,128,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html":[6,0,1939,0],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[6,0,1939,0,6],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[6,0,1939,0,2],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[6,0,1939,0,9],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[6,0,1939,0,10]
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[6,0,1939,0,9]
 };

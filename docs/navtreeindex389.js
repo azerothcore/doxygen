@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[6,0,1939,0,10],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#aa00a6978074f62d3d8ddead64d3240cf":[6,0,1939,0,8],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7":[6,0,1939,0,5],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abab2cfe84f4bb83fea3b35202a957bb5":[6,0,1939,0,0],
@@ -36,16 +37,16 @@ var NAVTREEINDEX389 =
 "df/dbc/structSpellDifficultyEntry.html":[6,0,4026],
 "df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[6,0,4026,0],
 "df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[6,0,4026,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,75],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,1,87],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,75],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,1,87,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[6,0,0,75,5],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,87,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[6,0,0,75,2],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,1,87,4],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,87,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,75,4],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,75,3],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,1,87,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,87,3],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,75,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,87,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,75,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,87,0],
@@ -166,10 +167,10 @@ var NAVTREEINDEX389 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2324,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2324,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2324,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,30,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,30,1,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[6,0,1602,0],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[6,0,1602,0,3],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[6,0,1602,0,4],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[6,0,1602,0,5],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[6,0,1602,0,11]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[6,0,1602,0,5]
 };

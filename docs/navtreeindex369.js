@@ -142,7 +142,8 @@ var NAVTREEINDEX369 =
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#af217acbeab5032b8a16180f4ff021e0a":[6,0,708,0,9],
 "de/ddd/classspell__entropius__black__hole__effect.html":[6,0,2835],
 "de/ddd/classspell__entropius__black__hole__effect.html#a5a43bb53d3c534054498f8366d617e5a":[6,0,2835,0],
-"de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2835,2],
+"de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2835,3],
+"de/ddd/classspell__entropius__black__hole__effect.html#ad6dfdf70e9ffd43510c4791f804ce340":[6,0,2835,2],
 "de/ddd/classspell__entropius__black__hole__effect.html#aec00f82a35c8154e7d4c1f47c52d486f":[6,0,2835,1],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html":[6,0,900],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#a7d3b640a8d68089436c3792b3db088f1":[6,0,900,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea66581d4ea55e602e76d213e362896511":[7,0,0,0,1,3,5,6,9,38,0],
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea6de4ea7db4f93aad14cdeb58758f121c":[7,0,0,0,1,3,5,6,9,38,2],
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea8a524298496082994a3675c6ccf47bdd":[7,0,0,0,1,3,5,6,9,38,1],
-"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1":[7,0,0,0,1,3,5,6,9,38,4],
-"de/de5/boss__sindragosa_8cpp.html#a7db4b8be8a011d5120e62e41b9760c3d":[7,0,0,0,1,3,5,6,9,50]
+"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1":[7,0,0,0,1,3,5,6,9,38,4]
 };

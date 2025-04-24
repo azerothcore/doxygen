@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"df/d86/structboss__twilight__corrupter.html#a6c49eee2be24199418096cc48c50d384":[6,0,746,8],
 "df/d86/structboss__twilight__corrupter.html#a84803153e7e7d5d7efe0106139214b1f":[6,0,746,2],
 "df/d86/structboss__twilight__corrupter.html#aa18d2fc90e1ccd322ec9d3128ba206d2":[6,0,746,3],
 "df/d86/structboss__twilight__corrupter.html#afe06461e9f3e1549da6631d2f89406c4":[6,0,746,1],
@@ -182,20 +183,20 @@ var NAVTREEINDEX383 =
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,54],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,66],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,66,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,54,0],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,66,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,66,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,54,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,66,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[6,0,0,54,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,66,2],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[6,0,0,54,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,66,5],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[6,0,0,54,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,66,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,54,1],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,66,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,54,3],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,66,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,66,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,54,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,66,4],
 "df/d88/classspell__hallows__end__trick.html":[6,0,3052],
 "df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[6,0,3052,2],
 "df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[6,0,3052,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "df/d8d/structSmartTarget.html#a28a91da4b59f75cd41df0e712337b291":[6,0,2557,29],
 "df/d8d/structSmartTarget.html#a2ed93baf995e552b1bf290ca7a3c21d9":[6,0,2557,49],
 "df/d8d/structSmartTarget.html#a33c77c8756fc559467ba621dbd4f7f0e":[6,0,2557,16],
-"df/d8d/structSmartTarget.html#a399e0238ac835db29942cd21d3453c61":[6,0,2557,13],
-"df/d8d/structSmartTarget.html#a3be697bd5161ea28f96e855ec6dd5d06":[6,0,2557,26]
+"df/d8d/structSmartTarget.html#a399e0238ac835db29942cd21d3453c61":[6,0,2557,13]
 };

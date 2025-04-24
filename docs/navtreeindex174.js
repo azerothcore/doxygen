@@ -212,10 +212,10 @@ var NAVTREEINDEX174 =
 "d6/d84/structboss__jeklik.html#a826bdba66fee3bb82b64ca6174b66c44":[6,0,555,0],
 "d6/d84/structboss__jeklik.html#ae648ba9ff49f4970612a8c3351789b66":[6,0,555,2],
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[6,0,555,3],
-"d6/d85/classVMAP_1_1VMapFactory.html":[5,0,27,21],
 "d6/d85/classVMAP_1_1VMapFactory.html":[6,0,9,21],
-"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,27,21,0],
+"d6/d85/classVMAP_1_1VMapFactory.html":[5,0,27,21],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[6,0,9,21,0],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,27,21,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[6,0,9,21,1],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[5,0,27,21,1],
 "d6/d85/classlookup__commandscript.html":[6,0,1441],
@@ -249,5 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d85/structAcore_1_1CreatureWorker.html":[5,0,1,56],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,1,56,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[6,0,0,44,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[6,0,0,44,2]
+"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,1,56,2]
 };

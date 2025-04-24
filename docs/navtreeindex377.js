@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,97,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3133],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a64cf56299c8ab5292dbc9cddcee5f841":[6,0,3133,2],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a9962029ce4a5223d7aa05068e8d83326":[6,0,3133,1],
@@ -104,8 +105,8 @@ var NAVTREEINDEX377 =
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1":[7,0,0,0,1,3,5,8,2,6,3,9],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa5927bac3b5dbcbb4d84d36552c1f6c1":[7,0,0,0,1,3,5,8,2,6,3,2],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a":[7,0,0,0,1,3,5,8,2,6,3,5],
-"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23],
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[6,0,2068,0],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a00872042199924a14089c1057c479ff7":[6,0,2068,0,9],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a47ed52a4a0511d7b1e3eb4bd5da409ca":[6,0,2068,0,6],
@@ -128,14 +129,14 @@ var NAVTREEINDEX377 =
 "df/d2a/classboss__sjonnir__dwarf.html#a945d8e753e1a54dc348848b9c2dd6cce":[6,0,698,2],
 "df/d2a/instance__pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,3],
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,30,5,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,5,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,5,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,30,5,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,30,5,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,30,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,5,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,30,5,40,5],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,30,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,30,5,40,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7ace228cf9b3f723077e57a9b3caf174":[6,0,1350,0,21],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7b15def2fab40bf559f2aa6de6865b92":[6,0,1350,0,17],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a8f3c71a2c0625ba3c99b1e7ee6beffd6":[6,0,1350,0,19],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[6,0,1350,0,2],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a9fc52ebdc0786dd73bdd7ef9ab4f14f5":[6,0,1350,0,16]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[6,0,1350,0,2]
 };

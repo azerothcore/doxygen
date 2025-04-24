@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d98/classspell__moroes__vanish.html#a3e14dd6a6f26a163282846f714e2ffb5":[6,0,3422,1],
 "df/d98/classspell__moroes__vanish.html#a7be884a657889e1b18d1499c8a053c18":[6,0,3422,2],
 "df/d98/classspell__moroes__vanish.html#a9551867737eea27a9acf2d3d475e9b3c":[6,0,3422,0],
 "df/d98/instance__halls__of__stone_8cpp.html":[7,0,0,0,1,3,5,9,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a16efc95ecfb8f279dc55f048fe7ab3ed":[7,0,0,0,1,3,2,27,13,10],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a171a26261058c6138d6acc350c3fd2d9":[7,0,0,0,1,3,2,27,13,5],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a18fdf10f61e4a27533be8f21d1ae9b6a":[7,0,0,0,1,3,2,27,13,16],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c28745aea8562e2f30166e0ceec0ea":[7,0,0,0,1,3,2,27,13,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c3614363fa241f02fede94adfb3ae6":[7,0,0,0,1,3,2,27,13,21]
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c28745aea8562e2f30166e0ceec0ea":[7,0,0,0,1,3,2,27,13,7]
 };

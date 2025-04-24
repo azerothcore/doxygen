@@ -248,6 +248,6 @@ var NAVTREEINDEX307 =
 "dc/daa/classNullGameObjectAI.html#a01b2b14306c75fafe58295a30e5d01e0":[6,0,2306,2],
 "dc/daa/classNullGameObjectAI.html#a54f6ae6e03fbe423d895ec306fe091db":[6,0,2306,0],
 "dc/daa/classNullGameObjectAI.html#a850b58bfcc5e613f31fc95e556ed7f91":[6,0,2306,1],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,30,6,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,11,6,0]
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,11,6,0],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,30,6,0]
 };
