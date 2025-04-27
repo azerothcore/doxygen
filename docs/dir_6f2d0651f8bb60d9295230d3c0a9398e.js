@@ -4,5 +4,6 @@ var dir_6f2d0651f8bb60d9295230d3c0a9398e =
     [ "World.cpp", "d7/dfe/World_8cpp.html", "d7/dfe/World_8cpp" ],
     [ "World.h", "dd/d5b/World_8h.html", "dd/d5b/World_8h" ],
     [ "WorldState.cpp", "db/d68/WorldState_8cpp.html", "db/d68/WorldState_8cpp" ],
-    [ "WorldState.h", "d7/d9a/WorldState_8h.html", "d7/d9a/WorldState_8h" ]
+    [ "WorldState.h", "d7/d9a/WorldState_8h.html", "d7/d9a/WorldState_8h" ],
+    [ "WorldStateDefines.h", "d3/d46/WorldStateDefines_8h.html", "d3/d46/WorldStateDefines_8h" ]
 ];

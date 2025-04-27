@@ -126,10 +126,6 @@ var halls__of__reflection_8h =
       [ "SPELL_ACHIEVEMENT_CHECK", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca297ac684cd3fa815d7021b0943a36fae", null ],
       [ "SPELL_SUMMON_EVIL_QUEL", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca40322f0978b2a6c9e9147293b3dc014e", null ]
     ] ],
-    [ "HorWorldStates", "d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6a", [
-      [ "WORLD_STATE_HOR_COUNTER", "d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6aa1afcee1b424925d99c5a918c9367828b", null ],
-      [ "WORLD_STATE_HOR_WAVE_COUNT", "d4/d1e/halls__of__reflection_8h.html#a7377e038084c8745e3f5d85478ab7c6aa7d0ea77278f7909d42f73d96c0364e62", null ]
-    ] ],
     [ "hYells", "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99", [
       [ "SAY_JAINA_INTRO_1", "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a6b281ebb353154d1e4c6b39eb83d65f4", null ],
       [ "SAY_JAINA_INTRO_2", "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a662b1bc3fd806908e129efc9e189f049", null ],

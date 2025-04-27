@@ -273,26 +273,6 @@ var zone__undercity_8cpp =
       [ "SPELL_LEGION_PORTAL", "d1/d2d/zone__undercity_8cpp.html#aa97976682327dd70ee613d41b06a0af2acd12cf602eca30ed0f3b1885d5792d97", null ],
       [ "SPELL_OPENING_LEGION_PORTALS", "d1/d2d/zone__undercity_8cpp.html#aa97976682327dd70ee613d41b06a0af2a8026a29e596a11ed976535ced4657ebb", null ]
     ] ],
-    [ "Worldstates", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423", [
-      [ "WORLD_STATE_MANHUNT_COUNTDOWN_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423abb1ed7be3d90304a11e997d6f9992137", null ],
-      [ "WORLD_STATE_MANHUNT_STARTS_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ac89c6f0ee8522a5551078b5b700cca58", null ],
-      [ "WORLD_STATE_SEWERS_FIGHT_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a191934e9325d34506795c7731f458a36", null ],
-      [ "WORLD_STATE_SEWERS_DONE_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a87ff1bc8e58ec633dcfc63bdb33daa25", null ],
-      [ "WORLD_STATE_APOTHECARIUM_FIGHT_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ae8402119a9f4b798d60b81785ddaaf00", null ],
-      [ "WORLD_STATE_APOTHECARIUM_DONE_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a86216ae6a8ea47906195ee5eddd6db6c", null ],
-      [ "WORLD_STATE_FAIL_A", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a8e9a0778e5930c1c043ae940fcffc9b5", null ],
-      [ "WORLD_STATE_BATTLE_COUNTDOWN_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423aebf22b67185084062ca3be1eda61e082", null ],
-      [ "WORLD_STATE_BATTLE_START_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ae033483a9a5e9f15314629a45abd20e3", null ],
-      [ "WORLD_STATE_COURTYARD_FIGHT_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a7eac203c628c0a92be02e7e3c416fb18", null ],
-      [ "WORLD_STATE_COURTYARD_DONE_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a5094c3fab169932c1073ef223d198ce8", null ],
-      [ "WORLD_STATE_INNER_SANKTUM_FIGHT_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a557be7586e0df7e35ff1a08b28404cab", null ],
-      [ "WORLD_STATE_INNER_SANKTUM_DONE_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ace3e8e57454b8a86ec7d193b59c97e38", null ],
-      [ "WORLD_STATE_APOTHECARIUM_FIGHT_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a83412c90501a2a53a0c4db1ce1fca9a4", null ],
-      [ "WORLD_STATE_APOTHECARIUM_DONE_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ab680713358771efd60ea13796bedf146", null ],
-      [ "WORLD_STATE_ROYAL_QUARTER_FIGHT_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a7b95416a7ee1a171391be23d5d25911c", null ],
-      [ "WORLD_STATE_ROYAL_QUARTER_DONE_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423ac29654612633b3ad070fca139c62fe77", null ],
-      [ "WORLD_STATE_FAIL_H", "d1/d2d/zone__undercity_8cpp.html#aa8039d27b477868fe6dc5cb2240c0423a972363d2967ffa942efe9a07d0c4aa4a", null ]
-    ] ],
     [ "WrynnMisc", "d1/d2d/zone__undercity_8cpp.html#a1005cf4f760665654f78f1748c5fb00d", [
       [ "NPC_WRYNN", "d1/d2d/zone__undercity_8cpp.html#a1005cf4f760665654f78f1748c5fb00da5fee4e1b395a2f452dcc610ea1736809", null ],
       [ "WRYNN_SAY_PREP_1", "d1/d2d/zone__undercity_8cpp.html#a1005cf4f760665654f78f1748c5fb00da5845f30611f7d78a5d94501515519a4b", null ],

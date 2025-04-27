@@ -140,8 +140,6 @@ var ulduar_8h =
       [ "ACTION_TOWER_OF_FROST_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ad5c27996801d50d6be6f4f24bb371a85", null ],
       [ "ACTION_TOWER_OF_FLAMES_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3c4bed24d8f7617825f8cebba0060bb2", null ],
       [ "ACTION_TOWER_OF_LIFE_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7fd813e06cda4b3511b0a4f9ee916660", null ],
-      [ "WORLD_STATE_ALGALON_DESPAWN_TIMER", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a26d0e329c0e3599ce79c60cf315c03e3", null ],
-      [ "WORLD_STATE_ALGALON_TIMER_ENABLED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a654d812605aef16a492577e407c6e516", null ],
       [ "EVENT_UPDATE_ALGALON_TIMER", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a80d3db86bfdf52a53c9a23d5855d6268", null ],
       [ "ACTION_FEEDS_ON_TEARS_FAILED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3c9e6cea739bb1eb05cea7e425b56c13", null ],
       [ "ACTION_INIT_ALGALON", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7ad35fe0801baa670dc016f0a05e166f", null ],

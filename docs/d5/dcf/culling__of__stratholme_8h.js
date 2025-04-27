@@ -98,13 +98,6 @@ var culling__of__stratholme_8h =
       [ "GO_SUSPICIOUS_CRATE", "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086", null ],
       [ "GO_PLAGUED_CRATE", "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a", null ]
     ] ],
-    [ "WorldStatesCoT", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9", [
-      [ "WORLDSTATE_SHOW_CRATES", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a3508f129ff017eee5aabbe4a1726fe9d", null ],
-      [ "WORLDSTATE_CRATES_REVEALED", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a964a05e74d5ad31ee80e8f1b0a39ad42", null ],
-      [ "WORLDSTATE_WAVE_COUNT", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9a6e696ff2642f5b086c42c6ae0583788a", null ],
-      [ "WORLDSTATE_TIME_GUARDIAN", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9adc8bc5d7ba8047ab3660f3be2808520e", null ],
-      [ "WORLDSTATE_TIME_GUARDIAN_SHOW", "d5/dcf/culling__of__stratholme_8h.html#a90c1263c01b121ad7838845bc2bee8f9af62dd1a45f99fe29a0c31c0fabeda7f1", null ]
-    ] ],
     [ "GetCullingOfStratholmeAI", "d5/dcf/culling__of__stratholme_8h.html#a2f89b58779b98ea99b1be682f0140c02", null ],
     [ "EventPos", "d5/dcf/culling__of__stratholme_8h.html#aeb788a08b826425864f6351c1ee73195", null ],
     [ "LeaderIntroPos1", "d5/dcf/culling__of__stratholme_8h.html#ae95ec2075b0cd445924c75361901273a", null ],

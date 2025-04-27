@@ -86,19 +86,6 @@ var WorldState_8h =
       [ "SPELL_NAZGRELS_FAVOR", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60", null ],
       [ "SPELL_KIRU_SONG_OF_VICTORY", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3", null ]
     ] ],
-    [ "WorldStateWorldStates", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277", [
-      [ "WORLD_STATE_QUEL_DANAS_MUSIC", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277abfd28954ae4ce2ce10150f5a5805dd96", null ],
-      [ "WORLD_STATE_QUEL_DANAS_HARBOR", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a361d27a4d3da5cefbc7c7d25aecd8e3a", null ],
-      [ "WORLD_STATE_QUEL_DANAS_ALCHEMY_LAB", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277ab8a463c68e0636e8bf99d7743fda6509", null ],
-      [ "WORLD_STATE_QUEL_DANAS_ARMORY", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277ac9442ece4a8caafbd2e8d76a6186bc64", null ],
-      [ "WORLD_STATE_QUEL_DANAS_SANCTUM", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277ac513079d0c4766e09dc256367b5c1065", null ],
-      [ "WORLD_STATE_QUEL_DANAS_PORTAL", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277aca9a0055f57978d36052050d211dbb84", null ],
-      [ "WORLD_STATE_QUEL_DANAS_ANVIL", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a66acdf83ce5e091e8360e71286fcd689", null ],
-      [ "WORLD_STATE_QUEL_DANAS_MONUMENT", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a23c2e83b7fe4dcae33037b9f798878c1", null ],
-      [ "WORLD_STATE_AGAMATH_THE_FIRST_GATE_HEALTH", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a40a108e6271fbcc562fa9a3fd9666ccd", null ],
-      [ "WORLD_STATE_ROHENDOR_THE_SECOND_GATE_HEALTH", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a36d5d95623fc1a018030767748115b69", null ],
-      [ "WORLD_STATE_ARCHONISUS_THE_FINAL_GATE_HEALTH", "d7/d9a/WorldState_8h.html#a13c931dabe52340590c1ce4836004277a3ceb411ef60cd97089a937682d8964ed", null ]
-    ] ],
     [ "WorldStateZoneId", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ad", [
       [ "ZONEID_SHATTRATH", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada01e9f07a5ed524b5d62ee36a3fbc66b8", null ],
       [ "ZONEID_BOTANICA", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada4c0e9b67db472610b0e508b4074d56c3", null ],

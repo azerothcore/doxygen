@@ -115,6 +115,7 @@ $(document).ready(function(){initNavTree('d6/dfa/OutdoorPvPTF_8h.html','../../')
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -149,33 +150,6 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a7a4347e10a530d56e3c3ae66a5eae999"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4134a455195e5cc1be9288227500b258" id="r_a4134a455195e5cc1be9288227500b258"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258">TFWorldStates</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336">TF_UI_TOWER_SLIDER_POS</a> = 0xa41
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd">TF_UI_TOWER_SLIDER_N</a> = 0xa40
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b">TF_UI_TOWER_SLIDER_DISPLAY</a> = 0xa3f
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc">TF_UI_TOWER_COUNT_H</a> = 0xa3e
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30">TF_UI_TOWER_COUNT_A</a> = 0xa3d
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219">TF_UI_TOWERS_CONTROLLED_DISPLAY</a> = 0xa3c
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3">TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT</a> = 0x9d0
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381">TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT</a> = 0x9ce
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b">TF_UI_LOCKED_TIME_HOURS</a> = 0x9cd
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d">TF_UI_LOCKED_DISPLAY_NEUTRAL</a> = 0x9cc
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2">TF_UI_LOCKED_DISPLAY_HORDE</a> = 0xad0
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0">TF_UI_LOCKED_DISPLAY_ALLIANCE</a> = 0xacf
-<br />
- }</td></tr>
-<tr class="separator:a4134a455195e5cc1be9288227500b258"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5815248809b8fd06bd664886846a7126" id="r_a5815248809b8fd06bd664886846a7126"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126">TFTowerStates</a> { <br />
 &#160;&#160;<a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f">TF_TOWERSTATE_N</a> = 1
 , <br />
@@ -240,20 +214,20 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0" name="a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0"></a>TF_TOWER_S&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3" name="a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3"></a>TF_TOWER_NUM&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16">TF_TOWER_NW</a> = 0,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b">TF_TOWER_N</a>,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97">TF_TOWER_NE</a>,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65">TF_TOWER_SE</a>,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0">TF_TOWER_S</a>,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3">TF_TOWER_NUM</a></div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65">TF_TOWER_SE</a></div><div class="ttdeci">@ TF_TOWER_SE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:51</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b">TF_TOWER_N</a></div><div class="ttdeci">@ TF_TOWER_N</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:49</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97">TF_TOWER_NE</a></div><div class="ttdeci">@ TF_TOWER_NE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:50</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16">TF_TOWER_NW</a></div><div class="ttdeci">@ TF_TOWER_NW</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:48</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3">TF_TOWER_NUM</a></div><div class="ttdeci">@ TF_TOWER_NUM</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:53</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0">TF_TOWER_S</a></div><div class="ttdeci">@ TF_TOWER_S</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16">TF_TOWER_NW</a> = 0,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b">TF_TOWER_N</a>,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97">TF_TOWER_NE</a>,</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65">TF_TOWER_SE</a>,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0">TF_TOWER_S</a>,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3">TF_TOWER_NUM</a></div>
+<div class="line"><span class="lineno">   55</span>};</div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65">TF_TOWER_SE</a></div><div class="ttdeci">@ TF_TOWER_SE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:52</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b">TF_TOWER_N</a></div><div class="ttdeci">@ TF_TOWER_N</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:50</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97">TF_TOWER_NE</a></div><div class="ttdeci">@ TF_TOWER_NE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:51</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16">TF_TOWER_NW</a></div><div class="ttdeci">@ TF_TOWER_NW</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:49</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3">TF_TOWER_NUM</a></div><div class="ttdeci">@ TF_TOWER_NUM</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:54</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0">TF_TOWER_S</a></div><div class="ttdeci">@ TF_TOWER_S</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -273,70 +247,14 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1" name="a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1"></a>TF_TOWERSTATE_H&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d" name="a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d"></a>TF_TOWERSTATE_A&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
-<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f">TF_TOWERSTATE_N</a> = 1,</div>
-<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1">TF_TOWERSTATE_H</a> = 2,</div>
-<div class="line"><span class="lineno">  121</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d">TF_TOWERSTATE_A</a> = 4</div>
-<div class="line"><span class="lineno">  122</span>};</div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1">TF_TOWERSTATE_H</a></div><div class="ttdeci">@ TF_TOWERSTATE_H</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:120</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f">TF_TOWERSTATE_N</a></div><div class="ttdeci">@ TF_TOWERSTATE_N</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:119</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d">TF_TOWERSTATE_A</a></div><div class="ttdeci">@ TF_TOWERSTATE_A</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:121</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4134a455195e5cc1be9288227500b258" name="a4134a455195e5cc1be9288227500b258"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4134a455195e5cc1be9288227500b258">&#9670;&#160;</a></span>TFWorldStates</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258">TFWorldStates</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336" name="a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336"></a>TF_UI_TOWER_SLIDER_POS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd" name="a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd"></a>TF_UI_TOWER_SLIDER_N&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b" name="a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b"></a>TF_UI_TOWER_SLIDER_DISPLAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc" name="a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc"></a>TF_UI_TOWER_COUNT_H&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30" name="a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30"></a>TF_UI_TOWER_COUNT_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219" name="a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219"></a>TF_UI_TOWERS_CONTROLLED_DISPLAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3" name="a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3"></a>TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381" name="a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381"></a>TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b" name="a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b"></a>TF_UI_LOCKED_TIME_HOURS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d" name="a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d"></a>TF_UI_LOCKED_DISPLAY_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2" name="a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2"></a>TF_UI_LOCKED_DISPLAY_HORDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0" name="a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0"></a>TF_UI_LOCKED_DISPLAY_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
-<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336">TF_UI_TOWER_SLIDER_POS</a> = 0xa41,</div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd">TF_UI_TOWER_SLIDER_N</a> = 0xa40,</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b">TF_UI_TOWER_SLIDER_DISPLAY</a> = 0xa3f,</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc">TF_UI_TOWER_COUNT_H</a> = 0xa3e,</div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30">TF_UI_TOWER_COUNT_A</a> = 0xa3d,</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219">TF_UI_TOWERS_CONTROLLED_DISPLAY</a> = 0xa3c,</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3">TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT</a> = 0x9d0,</div>
-<div class="line"><span class="lineno">  110</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381">TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT</a> = 0x9ce,</div>
-<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b">TF_UI_LOCKED_TIME_HOURS</a> = 0x9cd,</div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d">TF_UI_LOCKED_DISPLAY_NEUTRAL</a> = 0x9cc,</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2">TF_UI_LOCKED_DISPLAY_HORDE</a> = 0xad0,</div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0">TF_UI_LOCKED_DISPLAY_ALLIANCE</a> = 0xacf</div>
-<div class="line"><span class="lineno">  115</span>};</div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b">TF_UI_TOWER_SLIDER_DISPLAY</a></div><div class="ttdeci">@ TF_UI_TOWER_SLIDER_DISPLAY</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:103</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336">TF_UI_TOWER_SLIDER_POS</a></div><div class="ttdeci">@ TF_UI_TOWER_SLIDER_POS</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:101</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3">TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT</a></div><div class="ttdeci">@ TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:109</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0">TF_UI_LOCKED_DISPLAY_ALLIANCE</a></div><div class="ttdeci">@ TF_UI_LOCKED_DISPLAY_ALLIANCE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:114</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381">TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT</a></div><div class="ttdeci">@ TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:110</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d">TF_UI_LOCKED_DISPLAY_NEUTRAL</a></div><div class="ttdeci">@ TF_UI_LOCKED_DISPLAY_NEUTRAL</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:112</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd">TF_UI_TOWER_SLIDER_N</a></div><div class="ttdeci">@ TF_UI_TOWER_SLIDER_N</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:102</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2">TF_UI_LOCKED_DISPLAY_HORDE</a></div><div class="ttdeci">@ TF_UI_LOCKED_DISPLAY_HORDE</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:113</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc">TF_UI_TOWER_COUNT_H</a></div><div class="ttdeci">@ TF_UI_TOWER_COUNT_H</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:105</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219">TF_UI_TOWERS_CONTROLLED_DISPLAY</a></div><div class="ttdeci">@ TF_UI_TOWERS_CONTROLLED_DISPLAY</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:107</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30">TF_UI_TOWER_COUNT_A</a></div><div class="ttdeci">@ TF_UI_TOWER_COUNT_A</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:106</div></div>
-<div class="ttc" id="aOutdoorPvPTF_8h_html_a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b">TF_UI_LOCKED_TIME_HOURS</a></div><div class="ttdeci">@ TF_UI_LOCKED_TIME_HOURS</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:111</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f">TF_TOWERSTATE_N</a> = 1,</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1">TF_TOWERSTATE_H</a> = 2,</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d">TF_TOWERSTATE_A</a> = 4</div>
+<div class="line"><span class="lineno">  105</span>};</div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1">TF_TOWERSTATE_H</a></div><div class="ttdeci">@ TF_TOWERSTATE_H</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:103</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f">TF_TOWERSTATE_N</a></div><div class="ttdeci">@ TF_TOWERSTATE_N</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:102</div></div>
+<div class="ttc" id="aOutdoorPvPTF_8h_html_a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d"><div class="ttname"><a href="../../d6/dfa/OutdoorPvPTF_8h.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d">TF_TOWERSTATE_A</a></div><div class="ttdeci">@ TF_TOWERSTATE_A</div><div class="ttdef"><b>Definition</b> OutdoorPvPTF.h:104</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -360,13 +278,13 @@ Variables</h2></td></tr>
 <div class="line">    3792 ,</div>
 <div class="line">    3790 </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    3519 <span class="comment">/*Terokkar Forest*/</span>,</div>
-<div class="line"><span class="lineno">   28</span>    3791 <span class="comment">/*Sethekk Halls*/</span>,</div>
-<div class="line"><span class="lineno">   29</span>    3789 <span class="comment">/*Shadow Labyrinth*/</span>,</div>
-<div class="line"><span class="lineno">   30</span>    3792 <span class="comment">/*Mana-Tombs*/</span>,</div>
-<div class="line"><span class="lineno">   31</span>    3790 <span class="comment">/*Auchenai Crypts*/</span></div>
-<div class="line"><span class="lineno">   32</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    3519 <span class="comment">/*Terokkar Forest*/</span>,</div>
+<div class="line"><span class="lineno">   29</span>    3791 <span class="comment">/*Sethekk Halls*/</span>,</div>
+<div class="line"><span class="lineno">   30</span>    3789 <span class="comment">/*Shadow Labyrinth*/</span>,</div>
+<div class="line"><span class="lineno">   31</span>    3792 <span class="comment">/*Mana-Tombs*/</span>,</div>
+<div class="line"><span class="lineno">   32</span>    3790 <span class="comment">/*Auchenai Crypts*/</span></div>
+<div class="line"><span class="lineno">   33</span>};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00395">OPvPCapturePointTF::ChangeState()</a>, and <a class="el" href="../../#l00333">OutdoorPvPTF::SetupOutdoorPvP()</a>.</p>
 
@@ -471,13 +389,13 @@ Variables</h2></td></tr>
 <div class="line">    {183413, 530, -3603.31f, 4529.15f, 20.9077f, 0.994838f, 0.0f, 0.0f, 0.477159f, 0.878817f},</div>
 <div class="line">    {183414, 530, -3812.37f, 4899.3f, 17.7249f, 0.087266f, 0.0f, 0.0f, 0.043619f, 0.999048f}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
-<div class="line"><span class="lineno">   58</span>    {183104, 530, -3081.65f, 5335.03f, 17.1853f, -2.14675f, 0.0f, 0.0f, 0.878817f, -0.477159f},</div>
-<div class="line"><span class="lineno">   59</span>    {183411, 530, -2939.9f, 4788.73f, 18.987f, 2.77507f, 0.0f, 0.0f, 0.983255f, 0.182236f},</div>
-<div class="line"><span class="lineno">   60</span>    {183412, 530, -3174.94f, 4440.97f, 16.2281f, 1.86750f, 0.0f, 0.0f, 0.803857f, 0.594823f},</div>
-<div class="line"><span class="lineno">   61</span>    {183413, 530, -3603.31f, 4529.15f, 20.9077f, 0.994838f, 0.0f, 0.0f, 0.477159f, 0.878817f},</div>
-<div class="line"><span class="lineno">   62</span>    {183414, 530, -3812.37f, 4899.3f, 17.7249f, 0.087266f, 0.0f, 0.0f, 0.043619f, 0.999048f}</div>
-<div class="line"><span class="lineno">   63</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    {183104, 530, -3081.65f, 5335.03f, 17.1853f, -2.14675f, 0.0f, 0.0f, 0.878817f, -0.477159f},</div>
+<div class="line"><span class="lineno">   60</span>    {183411, 530, -2939.9f, 4788.73f, 18.987f, 2.77507f, 0.0f, 0.0f, 0.983255f, 0.182236f},</div>
+<div class="line"><span class="lineno">   61</span>    {183412, 530, -3174.94f, 4440.97f, 16.2281f, 1.86750f, 0.0f, 0.0f, 0.803857f, 0.594823f},</div>
+<div class="line"><span class="lineno">   62</span>    {183413, 530, -3603.31f, 4529.15f, 20.9077f, 0.994838f, 0.0f, 0.0f, 0.477159f, 0.878817f},</div>
+<div class="line"><span class="lineno">   63</span>    {183414, 530, -3812.37f, 4899.3f, 17.7249f, 0.087266f, 0.0f, 0.0f, 0.043619f, 0.999048f}</div>
+<div class="line"><span class="lineno">   64</span>};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00049">OPvPCapturePointTF::OPvPCapturePointTF()</a>.</p>
 
@@ -496,19 +414,34 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    {0xa79, 0xa7a, 0xa7b},</div>
-<div class="line">    {0xa7e, 0xa7d, 0xa7c},</div>
-<div class="line">    {0xa82, 0xa81, 0xa80},</div>
-<div class="line">    {0xa88, 0xa87, 0xa86},</div>
-<div class="line">    {0xa85, 0xa84, 0xa83}</div>
+<div class="line">    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3f43c90c6fb157f528ffc599bbca015f">WORLD_STATE_OPVP_TF_TOWER_NUM_00</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaa608be1e619e8ad3d1cac93450714db">WORLD_STATE_OPVP_TF_TOWER_NUM_01</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3">WORLD_STATE_OPVP_TF_TOWER_NUM_02</a>},</div>
+<div class="line">    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba2accc724575b9a9a9913b1071ea5dc14">WORLD_STATE_OPVP_TF_TOWER_NUM_05</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd">WORLD_STATE_OPVP_TF_TOWER_NUM_04</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9aac8196c87e411946ae41d34faba2c6">WORLD_STATE_OPVP_TF_TOWER_NUM_03</a>},</div>
+<div class="line">    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8690ffbdfb0155d6d37c8d98f4b52ac8">WORLD_STATE_OPVP_TF_TOWER_NUM_08</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8">WORLD_STATE_OPVP_TF_TOWER_NUM_07</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8799c965f8c5cd2477eee3a75f77968c">WORLD_STATE_OPVP_TF_TOWER_NUM_06</a>},</div>
+<div class="line">    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babd4c5c6069701247e87926d8b0c71247">WORLD_STATE_OPVP_TF_TOWER_NUM_14</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17">WORLD_STATE_OPVP_TF_TOWER_NUM_13</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d6b4ee069f09e8a66de2a7e4e026e8f">WORLD_STATE_OPVP_TF_TOWER_NUM_12</a>},</div>
+<div class="line">    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2">WORLD_STATE_OPVP_TF_TOWER_NUM_11</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba25291e2d77314e278a6827b2539cf6b3">WORLD_STATE_OPVP_TF_TOWER_NUM_10</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4">WORLD_STATE_OPVP_TF_TOWER_NUM_09</a>}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    {0xa79, 0xa7a, 0xa7b},</div>
-<div class="line"><span class="lineno">   75</span>    {0xa7e, 0xa7d, 0xa7c},</div>
-<div class="line"><span class="lineno">   76</span>    {0xa82, 0xa81, 0xa80},</div>
-<div class="line"><span class="lineno">   77</span>    {0xa88, 0xa87, 0xa86},</div>
-<div class="line"><span class="lineno">   78</span>    {0xa85, 0xa84, 0xa83}</div>
-<div class="line"><span class="lineno">   79</span>};</div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba25291e2d77314e278a6827b2539cf6b3"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba25291e2d77314e278a6827b2539cf6b3">WORLD_STATE_OPVP_TF_TOWER_NUM_10</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_10</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:465</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba2accc724575b9a9a9913b1071ea5dc14"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba2accc724575b9a9a9913b1071ea5dc14">WORLD_STATE_OPVP_TF_TOWER_NUM_05</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_05</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:459</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd">WORLD_STATE_OPVP_TF_TOWER_NUM_04</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_04</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:458</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba3d6b4ee069f09e8a66de2a7e4e026e8f"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d6b4ee069f09e8a66de2a7e4e026e8f">WORLD_STATE_OPVP_TF_TOWER_NUM_12</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_12</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:467</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba3f43c90c6fb157f528ffc599bbca015f"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3f43c90c6fb157f528ffc599bbca015f">WORLD_STATE_OPVP_TF_TOWER_NUM_00</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_00</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:454</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2">WORLD_STATE_OPVP_TF_TOWER_NUM_11</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_11</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:466</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4">WORLD_STATE_OPVP_TF_TOWER_NUM_09</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_09</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:464</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17">WORLD_STATE_OPVP_TF_TOWER_NUM_13</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_13</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:468</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba8690ffbdfb0155d6d37c8d98f4b52ac8"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8690ffbdfb0155d6d37c8d98f4b52ac8">WORLD_STATE_OPVP_TF_TOWER_NUM_08</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_08</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:463</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba8799c965f8c5cd2477eee3a75f77968c"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8799c965f8c5cd2477eee3a75f77968c">WORLD_STATE_OPVP_TF_TOWER_NUM_06</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_06</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:461</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21ba9aac8196c87e411946ae41d34faba2c6"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9aac8196c87e411946ae41d34faba2c6">WORLD_STATE_OPVP_TF_TOWER_NUM_03</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_03</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:457</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21baaa608be1e619e8ad3d1cac93450714db"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaa608be1e619e8ad3d1cac93450714db">WORLD_STATE_OPVP_TF_TOWER_NUM_01</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_01</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:455</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8">WORLD_STATE_OPVP_TF_TOWER_NUM_07</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_07</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:462</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21babd4c5c6069701247e87926d8b0c71247"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babd4c5c6069701247e87926d8b0c71247">WORLD_STATE_OPVP_TF_TOWER_NUM_14</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_14</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:469</div></div>
+<div class="ttc" id="aWorldStateDefines_8h_html_ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3"><div class="ttname"><a href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3">WORLD_STATE_OPVP_TF_TOWER_NUM_02</a></div><div class="ttdeci">@ WORLD_STATE_OPVP_TF_TOWER_NUM_02</div><div class="ttdef"><b>Definition</b> WorldStateDefines.h:456</div></div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
+<div class="line"><span class="lineno">   75</span>    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3f43c90c6fb157f528ffc599bbca015f">WORLD_STATE_OPVP_TF_TOWER_NUM_00</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaa608be1e619e8ad3d1cac93450714db">WORLD_STATE_OPVP_TF_TOWER_NUM_01</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3">WORLD_STATE_OPVP_TF_TOWER_NUM_02</a>},</div>
+<div class="line"><span class="lineno">   76</span>    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba2accc724575b9a9a9913b1071ea5dc14">WORLD_STATE_OPVP_TF_TOWER_NUM_05</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd">WORLD_STATE_OPVP_TF_TOWER_NUM_04</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9aac8196c87e411946ae41d34faba2c6">WORLD_STATE_OPVP_TF_TOWER_NUM_03</a>},</div>
+<div class="line"><span class="lineno">   77</span>    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8690ffbdfb0155d6d37c8d98f4b52ac8">WORLD_STATE_OPVP_TF_TOWER_NUM_08</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8">WORLD_STATE_OPVP_TF_TOWER_NUM_07</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8799c965f8c5cd2477eee3a75f77968c">WORLD_STATE_OPVP_TF_TOWER_NUM_06</a>},</div>
+<div class="line"><span class="lineno">   78</span>    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babd4c5c6069701247e87926d8b0c71247">WORLD_STATE_OPVP_TF_TOWER_NUM_14</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17">WORLD_STATE_OPVP_TF_TOWER_NUM_13</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d6b4ee069f09e8a66de2a7e4e026e8f">WORLD_STATE_OPVP_TF_TOWER_NUM_12</a>},</div>
+<div class="line"><span class="lineno">   79</span>    {<a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2">WORLD_STATE_OPVP_TF_TOWER_NUM_11</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba25291e2d77314e278a6827b2539cf6b3">WORLD_STATE_OPVP_TF_TOWER_NUM_10</a>, <a class="code hl_enumvalue" href="../../d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4">WORLD_STATE_OPVP_TF_TOWER_NUM_09</a>}</div>
+<div class="line"><span class="lineno">   80</span>};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00055">OPvPCapturePointTF::FillInitialWorldStates()</a>, <a class="el" href="../../#l00086">OutdoorPvPTF::SendRemoveWorldStates()</a>, and <a class="el" href="../../#l00177">OPvPCapturePointTF::UpdateTowerState()</a>.</p>
 
@@ -520,7 +453,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d6/dfa/OutdoorPvPTF_8h.html">OutdoorPvPTF.h</a></li>
-    <li class="footer">Generated on Sat Apr 26 2025 06:20:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 27 2025 06:20:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

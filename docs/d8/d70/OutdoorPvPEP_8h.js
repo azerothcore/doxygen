@@ -5,40 +5,12 @@ var OutdoorPvPEP_8h =
     [ "OPvPCapturePointEP_CGT", "df/db0/classOPvPCapturePointEP__CGT.html", "df/db0/classOPvPCapturePointEP__CGT" ],
     [ "OPvPCapturePointEP_PWT", "df/dc7/classOPvPCapturePointEP__PWT.html", "df/dc7/classOPvPCapturePointEP__PWT" ],
     [ "OutdoorPvPEP", "d6/d1a/classOutdoorPvPEP.html", "d6/d1a/classOutdoorPvPEP" ],
-    [ "EP_CrownGuardTowerWorldStates", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9", [
-      [ "EP_CGT_N_A", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9abc9c069eb162f17c873d780f5d210c5a", null ],
-      [ "EP_CGT_N_H", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aa3935e441b830c6a57a25b41f956a472", null ],
-      [ "EP_CGT_A", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aba70f403d1ce18bde45c549e4f2df087", null ],
-      [ "EP_CGT_H", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a8fd531fb30b66fb2b93c59bb25572143", null ],
-      [ "EP_CGT_N", "d8/d70/OutdoorPvPEP_8h.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a194ef7849d171faa0d1f64345e7a8e5e", null ]
-    ] ],
-    [ "EP_EastwallTowerWorldStates", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64e", [
-      [ "EP_EWT_A", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64eaafe6f9fd08b8b153499ba391bdf45447", null ],
-      [ "EP_EWT_H", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64ea153c3185b2c18152800d711c4368f100", null ],
-      [ "EP_EWT_N_A", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64eadbdca9611007c5a815c8424ca295319d", null ],
-      [ "EP_EWT_N_H", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64eab8fccc84fc3677305fc391cc17050911", null ],
-      [ "EP_EWT_N", "d8/d70/OutdoorPvPEP_8h.html#a5e0819402f80ecac656b1d03a6cba64ea18665ac4882c5886abd84bf468f82c39", null ]
-    ] ],
     [ "EP_GoSummons", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871da", [
       [ "EP_NPT_BUFF", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
       [ "EP_NPT_FLAGS", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],
       [ "EP_EWT_FLAGS", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0", null ],
       [ "EP_CGT_FLAGS", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc", null ],
       [ "EP_PWT_FLAGS", "d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d", null ]
-    ] ],
-    [ "EP_NorthpassTowerWorldStates", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666", [
-      [ "EP_NPT_N", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666a1348541386a66bba2e65f9318a3c95aa", null ],
-      [ "EP_NPT_N_A", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666af59c3c47454c37313252182b26956899", null ],
-      [ "EP_NPT_N_H", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666a4a73101a7ebcb8fe106c5b1bd878c56c", null ],
-      [ "EP_NPT_A", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666a0053a834db527e7efe134aab2378a9d6", null ],
-      [ "EP_NPT_H", "d8/d70/OutdoorPvPEP_8h.html#adde51f181d43ad54089d191770838666ae32e90509be59dc88f0021ae38cf93ff", null ]
-    ] ],
-    [ "EP_PlagewoodTowerWorldStates", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7", [
-      [ "EP_PWT_N_A", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7a1c66dedaebfaf500beee917930710089", null ],
-      [ "EP_PWT_N_H", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7ae7e66bc569e3fd17b746b55627687140", null ],
-      [ "EP_PWT_A", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7a6c89da6ce571bef1174b391a9739c003", null ],
-      [ "EP_PWT_H", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7aa47b39a956e872b099572b2c78d2d430", null ],
-      [ "EP_PWT_N", "d8/d70/OutdoorPvPEP_8h.html#a53b11a363bf4c3409e46d601866a68a7aa750f7cf7fe63939c96cec113e314cca", null ]
     ] ],
     [ "EP_Summons", "d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847", [
       [ "EP_EWT_COMMANDER", "d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c", null ],
@@ -63,13 +35,6 @@ var OutdoorPvPEP_8h =
       [ "EP_TS_H_P", "d8/d70/OutdoorPvPEP_8h.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866", null ],
       [ "EP_TS_A", "d8/d70/OutdoorPvPEP_8h.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0", null ],
       [ "EP_TS_H", "d8/d70/OutdoorPvPEP_8h.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b", null ]
-    ] ],
-    [ "EP_WorldStates", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403a", [
-      [ "EP_UI_TOWER_SLIDER_DISPLAY", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403aa2cef2ed3e40740db528809285d629f12", null ],
-      [ "EP_UI_TOWER_SLIDER_POS", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403aad3ef398efd356aa22097745ab49d1987", null ],
-      [ "EP_UI_TOWER_SLIDER_N", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403aafee34b4367cfba811e1a3ff6cd2d98d5", null ],
-      [ "EP_UI_TOWER_COUNT_A", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403aad205f1a816fa5d304ff3f4d9058e34bd", null ],
-      [ "EP_UI_TOWER_COUNT_H", "d8/d70/OutdoorPvPEP_8h.html#a17123e2aae6fe27e30e952be34e0403aa325f173bb15bebc36f8ac0ce6d956d23", null ]
     ] ],
     [ "EP_AllianceBuffs", "d8/d70/OutdoorPvPEP_8h.html#a39190e48b2170e2d0d0628b06d6da8f1", null ],
     [ "EP_CGT_CM", "d8/d70/OutdoorPvPEP_8h.html#a4eb66c50d410c58b22546406eda37e5f", null ],

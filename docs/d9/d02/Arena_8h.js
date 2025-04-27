@@ -13,9 +13,5 @@ var Arena_8h =
       [ "SPELL_HORDE_GOLD_FLAG", "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
       [ "SPELL_HORDE_GREEN_FLAG", "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
       [ "SPELL_LAST_MAN_STANDING", "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ],
-    [ "ArenaWorldStates", "d9/d02/Arena_8h.html#a4e26c0d0a6eb60865e57376951c14960", [
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GREEN", "d9/d02/Arena_8h.html#a4e26c0d0a6eb60865e57376951c14960aea2da1b05ab1767fc34bf78021858c3a", null ],
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GOLD", "d9/d02/Arena_8h.html#a4e26c0d0a6eb60865e57376951c14960afa467140e9e2c255b8d46937c40833a1", null ]
     ] ]
 ];

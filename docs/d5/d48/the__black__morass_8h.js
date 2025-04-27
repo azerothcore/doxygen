@@ -70,11 +70,6 @@ var the__black__morass_8h =
       [ "QUEST_OPENING_PORTAL", "d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47af6a4dfb179ce196d4182612884d11479", null ],
       [ "QUEST_MASTER_TOUCH", "d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47ae1f1c6d537d731e921ed0e71f832a9d0", null ]
     ] ],
-    [ "WorldStateIds", "d5/d48/the__black__morass_8h.html#a08a0076ecdd2fda9479edaf39dc2e758", [
-      [ "WORLD_STATE_BM", "d5/d48/the__black__morass_8h.html#a08a0076ecdd2fda9479edaf39dc2e758a5e83f6e25b19f47ea8f7922c5b2545b9", null ],
-      [ "WORLD_STATE_BM_SHIELD", "d5/d48/the__black__morass_8h.html#a08a0076ecdd2fda9479edaf39dc2e758a00f93fe2dc6dabf014f8f880575bb9f2", null ],
-      [ "WORLD_STATE_BM_RIFT", "d5/d48/the__black__morass_8h.html#a08a0076ecdd2fda9479edaf39dc2e758a31c03adad29f4c694bbfdab4c0d59a98", null ]
-    ] ],
     [ "GetTheBlackMorassAI", "d5/d48/the__black__morass_8h.html#a80d1b03d151c460c13b7a74f3969e462", null ],
     [ "EncounterCount", "d5/d48/the__black__morass_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

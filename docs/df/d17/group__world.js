@@ -226,16 +226,6 @@ var group__world =
       [ "WEATHER_STATE_BLACKRAIN", "df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
       [ "WEATHER_STATE_BLACKSNOW", "df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
     ] ],
-    [ "WorldStates", "df/d17/group__world.html#ga0deead4ad87fa303c91e30781af1cd93", [
-      [ "WS_ARENA_DISTRIBUTION_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93a583c7e9ae718d5aebb9db1e682fc02bc", null ],
-      [ "WS_WEEKLY_QUEST_RESET_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93a4bfd0eaff24d1c7f1247d9fc761b4e8a", null ],
-      [ "WS_BG_DAILY_RESET_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93a789d14f11911d399c3e2e2d123a98289", null ],
-      [ "WS_CLEANING_FLAGS", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93a01d08199cc10ac795168b08a3bd9f1c4", null ],
-      [ "WS_DAILY_QUEST_RESET_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93ae9cb78cf537999744d260627dc4d98cf", null ],
-      [ "WS_GUILD_DAILY_RESET_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93a1e2bf09f0a410ad45952c8eb7efbea6f", null ],
-      [ "WS_MONTHLY_QUEST_RESET_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93ac975616eb2d458be13ff30130dab0b99", null ],
-      [ "WS_DAILY_CALENDAR_DELETION_OLD_EVENTS_TIME", "df/d17/group__world.html#gga0deead4ad87fa303c91e30781af1cd93acd2bc0620e575fa7094a43d45a7cc708", null ]
-    ] ],
     [ "WorldTimers", "df/d17/group__world.html#ga4dcd824b4592ac27595e16471efe0520", [
       [ "WUPDATE_WEATHERS", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520abb4b6bdb4b5ae3799d4f0ca456733cce", null ],
       [ "WUPDATE_UPTIME", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c", null ],

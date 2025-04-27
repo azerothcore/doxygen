@@ -7,11 +7,6 @@ var OutdoorPvPSI_8h =
       [ "SI_TRACES_OF_SILITHYST", "d0/d00/OutdoorPvPSI_8h.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
       [ "SI_CENARION_FAVOR", "d0/d00/OutdoorPvPSI_8h.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "SI_WorldStates", "d0/d00/OutdoorPvPSI_8h.html#acd596d6544f4ea939ed381e28a4bea8e", [
-      [ "SI_GATHERED_A", "d0/d00/OutdoorPvPSI_8h.html#acd596d6544f4ea939ed381e28a4bea8ea93e8d5fa657d73d11f310f8d25f50eb7", null ],
-      [ "SI_GATHERED_H", "d0/d00/OutdoorPvPSI_8h.html#acd596d6544f4ea939ed381e28a4bea8ea6aaa9a15233b5c148eb2742487727734", null ],
-      [ "SI_SILITHYST_MAX", "d0/d00/OutdoorPvPSI_8h.html#acd596d6544f4ea939ed381e28a4bea8ea7ecead5dc8f4f2a091dcabd2f3c96b45", null ]
-    ] ],
     [ "OutdoorPvPSIBuffZones", "d0/d00/OutdoorPvPSI_8h.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
     [ "OutdoorPvPSIBuffZonesNum", "d0/d00/OutdoorPvPSI_8h.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
     [ "SI_AREATRIGGER_A", "d0/d00/OutdoorPvPSI_8h.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],

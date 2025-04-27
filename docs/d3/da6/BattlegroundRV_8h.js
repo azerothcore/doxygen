@@ -4,10 +4,7 @@ var BattlegroundRV_8h =
     [ "BattlegroundRVData", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34c", [
       [ "BG_RV_STATE_OPEN_FENCES", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5", null ],
       [ "BG_RV_STATE_SWITCH_PILLARS", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15", null ],
-      [ "BG_RV_STATE_CLOSE_FIRE", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733", null ],
-      [ "BG_RV_WORLD_STATE_A", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabf6ade699db48814ec5e2d1af2c894a0", null ],
-      [ "BG_RV_WORLD_STATE_H", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca5fc95407a4f093466bd83133b1b185fd", null ],
-      [ "BG_RV_WORLD_STATE", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cac36c50ef6b045de14f4ac901aa9cb539", null ]
+      [ "BG_RV_STATE_CLOSE_FIRE", "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733", null ]
     ] ],
     [ "BattlegroundRVGameObjects", "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2", [
       [ "BG_RV_OBJECT_TYPE_BUFF_1", "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a5865634853f43c8785d0594b724e6249", null ],

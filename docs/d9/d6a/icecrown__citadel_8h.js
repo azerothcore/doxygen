@@ -413,13 +413,6 @@ var icecrown__citadel_8h =
       [ "QUEST_RESPITE_FOR_A_TORMENTED_SOUL_10", "d9/d6a/icecrown__citadel_8h.html#afc89150c122eafc86ad5be0eedabbf5aaee1895bb8641ffe53926d27ca9574d0a", null ],
       [ "QUEST_RESPITE_FOR_A_TORMENTED_SOUL_25", "d9/d6a/icecrown__citadel_8h.html#afc89150c122eafc86ad5be0eedabbf5aa63a41ce30ea618a2c2fccc332f5acc83", null ]
     ] ],
-    [ "WorldStatesICC", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6b", [
-      [ "WORLDSTATE_SHOW_TIMER", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6bad9983a17d117d785671b552859fb22ec", null ],
-      [ "WORLDSTATE_EXECUTION_TIME", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6ba656d38443e2cd5e719549fc359a59f06", null ],
-      [ "WORLDSTATE_SHOW_ATTEMPTS", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6ba28079d794a6e7c093c7b445c7a87cf73", null ],
-      [ "WORLDSTATE_ATTEMPTS_REMAINING", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6ba34f69c1cdc7e9437aa2e7c6062d0a9b0", null ],
-      [ "WORLDSTATE_ATTEMPTS_MAX", "d9/d6a/icecrown__citadel_8h.html#aebc10ee27bf9fee7a0e1b0f952581a6ba5fd7bac4c04e0336baad0c0e1d5fa066", null ]
-    ] ],
     [ "GetIcecrownCitadelAI", "d9/d6a/icecrown__citadel_8h.html#ae0f2faf614aebac327abe2a2393cde51", null ],
     [ "MaxHeroicAttempts", "d9/d6a/icecrown__citadel_8h.html#a0ce99e5b1455ff2dca8dde94727b840a", null ],
     [ "SindragosaSpawnPos", "d9/d6a/icecrown__citadel_8h.html#aeb1ee63bb2369e3d4813dbbb5648f36a", null ],

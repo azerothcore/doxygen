@@ -556,52 +556,52 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  507</span>                                                 : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno">  508</span>        {</div>
-<div class="line"><span class="lineno">  509</span>            <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  510</span>            <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  511</span> </div>
-<div class="line"><span class="lineno">  512</span>            <span class="comment">// find the correct spawnhandling</span></div>
-<div class="line"><span class="lineno">  513</span>            <span class="keyword">static</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entryCount = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>) / <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../de/d87/structSpawnAssociation.html">SpawnAssociation</a>);</div>
-<div class="line"><span class="lineno">  514</span> </div>
-<div class="line"><span class="lineno">  515</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; entryCount; ++i)</div>
-<div class="line"><span class="lineno">  516</span>            {</div>
-<div class="line"><span class="lineno">  517</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>[i].thisCreatureEntry == creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno">  518</span>                {</div>
-<div class="line"><span class="lineno">  519</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = &amp;<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>[i];</div>
-<div class="line"><span class="lineno">  520</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  521</span>                }</div>
-<div class="line"><span class="lineno">  522</span>            }</div>
-<div class="line"><span class="lineno">  523</span> </div>
-<div class="line"><span class="lineno">  524</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>)</div>
-<div class="line"><span class="lineno">  525</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: Creature template entry {} has ScriptName npc_air_force_bots, but it&#39;s not handled by that script&quot;</span>, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
-<div class="line"><span class="lineno">  526</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  527</span>            {</div>
-<div class="line"><span class="lineno">  528</span>                <a class="code hl_struct" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> <span class="keyword">const</span>* spawnedTemplate = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
-<div class="line"><span class="lineno">  529</span> </div>
-<div class="line"><span class="lineno">  530</span>                <span class="keywordflow">if</span> (!spawnedTemplate)</div>
-<div class="line"><span class="lineno">  531</span>                {</div>
-<div class="line"><span class="lineno">  532</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: Creature template entry {} does not exist in DB, which is required by npc_air_force_bots&quot;</span>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
-<div class="line"><span class="lineno">  533</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  534</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  535</span>                }</div>
-<div class="line"><span class="lineno">  536</span>            }</div>
-<div class="line"><span class="lineno">  537</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  497</span>                                                 : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  498</span>        {</div>
+<div class="line"><span class="lineno">  499</span>            <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  500</span>            <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  501</span> </div>
+<div class="line"><span class="lineno">  502</span>            <span class="comment">// find the correct spawnhandling</span></div>
+<div class="line"><span class="lineno">  503</span>            <span class="keyword">static</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entryCount = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>) / <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../de/d87/structSpawnAssociation.html">SpawnAssociation</a>);</div>
+<div class="line"><span class="lineno">  504</span> </div>
+<div class="line"><span class="lineno">  505</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; entryCount; ++i)</div>
+<div class="line"><span class="lineno">  506</span>            {</div>
+<div class="line"><span class="lineno">  507</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>[i].thisCreatureEntry == creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno">  508</span>                {</div>
+<div class="line"><span class="lineno">  509</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = &amp;<a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a>[i];</div>
+<div class="line"><span class="lineno">  510</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  511</span>                }</div>
+<div class="line"><span class="lineno">  512</span>            }</div>
+<div class="line"><span class="lineno">  513</span> </div>
+<div class="line"><span class="lineno">  514</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>)</div>
+<div class="line"><span class="lineno">  515</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: Creature template entry {} has ScriptName npc_air_force_bots, but it&#39;s not handled by that script&quot;</span>, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno">  516</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  517</span>            {</div>
+<div class="line"><span class="lineno">  518</span>                <a class="code hl_struct" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> <span class="keyword">const</span>* spawnedTemplate = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
+<div class="line"><span class="lineno">  519</span> </div>
+<div class="line"><span class="lineno">  520</span>                <span class="keywordflow">if</span> (!spawnedTemplate)</div>
+<div class="line"><span class="lineno">  521</span>                {</div>
+<div class="line"><span class="lineno">  522</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: Creature template entry {} does not exist in DB, which is required by npc_air_force_bots&quot;</span>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
+<div class="line"><span class="lineno">  523</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  524</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  525</span>                }</div>
+<div class="line"><span class="lineno">  526</span>            }</div>
+<div class="line"><span class="lineno">  527</span>        }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1636</div></div>
 <div class="ttc" id="aclassObjectGuid_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:138</div></div>
 <div class="ttc" id="aclassObject_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition</b> Object.h:115</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_abb0394a982786b5bdf274cb49a729acd"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a></div><div class="ttdeci">SpawnAssociation spawnAssociations[]</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:469</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_abb0394a982786b5bdf274cb49a729acd"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd">spawnAssociations</a></div><div class="ttdeci">SpawnAssociation spawnAssociations[]</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:459</div></div>
 <div class="ttc" id="astructCreatureTemplate_html"><div class="ttname"><a href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:186</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
-<div class="ttc" id="astructSpawnAssociation_html"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html">SpawnAssociation</a></div><div class="ttdef"><b>Definition</b> npcs_special.cpp:454</div></div>
-<div class="ttc" id="astructSpawnAssociation_html_a32b390dfff99d5fd3c49359779718af4"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">SpawnAssociation::spawnedCreatureEntry</a></div><div class="ttdeci">uint32 spawnedCreatureEntry</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:456</div></div>
-<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a3c8ae595a3b4a436c2f94aa84cb9ee56"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">npc_air_force_bots::npc_air_force_botsAI::SpawnedGUID</a></div><div class="ttdeci">ObjectGuid SpawnedGUID</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:540</div></div>
-<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a6f2f7ffd24dd32780c441fd6ce29dfbf"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">npc_air_force_bots::npc_air_force_botsAI::SpawnAssoc</a></div><div class="ttdeci">SpawnAssociation * SpawnAssoc</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:539</div></div>
+<div class="ttc" id="astructSpawnAssociation_html"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html">SpawnAssociation</a></div><div class="ttdef"><b>Definition</b> npcs_special.cpp:444</div></div>
+<div class="ttc" id="astructSpawnAssociation_html_a32b390dfff99d5fd3c49359779718af4"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">SpawnAssociation::spawnedCreatureEntry</a></div><div class="ttdeci">uint32 spawnedCreatureEntry</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:446</div></div>
+<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a3c8ae595a3b4a436c2f94aa84cb9ee56"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">npc_air_force_bots::npc_air_force_botsAI::SpawnedGUID</a></div><div class="ttdeci">ObjectGuid SpawnedGUID</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:530</div></div>
+<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a6f2f7ffd24dd32780c441fd6ce29dfbf"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">npc_air_force_bots::npc_air_force_botsAI::SpawnAssoc</a></div><div class="ttdeci">SpawnAssociation * SpawnAssoc</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:529</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00115">Object::GetEntry()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l01636">sObjectMgr</a>, <a class="el" href="../../#l00539">SpawnAssoc</a>, <a class="el" href="../../#l00469">spawnAssociations</a>, <a class="el" href="../../#l00456">SpawnAssociation::spawnedCreatureEntry</a>, and <a class="el" href="../../#l00540">SpawnedGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00115">Object::GetEntry()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l01636">sObjectMgr</a>, <a class="el" href="../../#l00529">SpawnAssoc</a>, <a class="el" href="../../#l00459">spawnAssociations</a>, <a class="el" href="../../#l00446">SpawnAssociation::spawnedCreatureEntry</a>, and <a class="el" href="../../#l00530">SpawnedGUID</a>.</p>
 
 </div>
 </div>
@@ -628,22 +628,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  560</span>        {</div>
-<div class="line"><span class="lineno">  561</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>);</div>
-<div class="line"><span class="lineno">  562</span> </div>
-<div class="line"><span class="lineno">  563</span>            <span class="keywordflow">if</span> (creature &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  564</span>                <span class="keywordflow">return</span> creature;</div>
-<div class="line"><span class="lineno">  565</span> </div>
-<div class="line"><span class="lineno">  566</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  567</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  550</span>        {</div>
+<div class="line"><span class="lineno">  551</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>);</div>
+<div class="line"><span class="lineno">  552</span> </div>
+<div class="line"><span class="lineno">  553</span>            <span class="keywordflow">if</span> (creature &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  554</span>                <span class="keywordflow">return</span> creature;</div>
+<div class="line"><span class="lineno">  555</span> </div>
+<div class="line"><span class="lineno">  556</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  557</span>        }</div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1707</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00540">SpawnedGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00530">SpawnedGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00569">MoveInLineOfSight()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00559">MoveInLineOfSight()</a>.</p>
 
 </div>
 </div>
@@ -672,83 +672,83 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  571</span>        {</div>
-<div class="line"><span class="lineno">  572</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>)</div>
-<div class="line"><span class="lineno">  573</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  574</span> </div>
-<div class="line"><span class="lineno">  575</span>            <span class="comment">// check if they&#39;re hostile</span></div>
-<div class="line"><span class="lineno">  576</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(who) || who-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>)))</div>
-<div class="line"><span class="lineno">  577</span>                <span class="keywordflow">return</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  561</span>        {</div>
+<div class="line"><span class="lineno">  562</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>)</div>
+<div class="line"><span class="lineno">  563</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  564</span> </div>
+<div class="line"><span class="lineno">  565</span>            <span class="comment">// check if they&#39;re hostile</span></div>
+<div class="line"><span class="lineno">  566</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(who) || who-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>)))</div>
+<div class="line"><span class="lineno">  567</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  568</span> </div>
+<div class="line"><span class="lineno">  569</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(who))</div>
+<div class="line"><span class="lineno">  570</span>            {</div>
+<div class="line"><span class="lineno">  571</span>                <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* playerTarget = who-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno">  572</span> </div>
+<div class="line"><span class="lineno">  573</span>                <span class="comment">// airforce guards only spawn for players</span></div>
+<div class="line"><span class="lineno">  574</span>                <span class="keywordflow">if</span> (!playerTarget)</div>
+<div class="line"><span class="lineno">  575</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  576</span> </div>
+<div class="line"><span class="lineno">  577</span>                <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* lastSpawnedGuard = !<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a> ? nullptr : <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05">GetSummonedGuard</a>();</div>
 <div class="line"><span class="lineno">  578</span> </div>
-<div class="line"><span class="lineno">  579</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(who))</div>
-<div class="line"><span class="lineno">  580</span>            {</div>
-<div class="line"><span class="lineno">  581</span>                <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* playerTarget = who-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno">  579</span>                <span class="comment">// prevent calling ObjectAccessor::GetUnit at next MoveInLineOfSight call - speedup</span></div>
+<div class="line"><span class="lineno">  580</span>                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  581</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
 <div class="line"><span class="lineno">  582</span> </div>
-<div class="line"><span class="lineno">  583</span>                <span class="comment">// airforce guards only spawn for players</span></div>
-<div class="line"><span class="lineno">  584</span>                <span class="keywordflow">if</span> (!playerTarget)</div>
-<div class="line"><span class="lineno">  585</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  586</span> </div>
-<div class="line"><span class="lineno">  587</span>                <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* lastSpawnedGuard = !<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a> ? nullptr : <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05">GetSummonedGuard</a>();</div>
-<div class="line"><span class="lineno">  588</span> </div>
-<div class="line"><span class="lineno">  589</span>                <span class="comment">// prevent calling ObjectAccessor::GetUnit at next MoveInLineOfSight call - speedup</span></div>
-<div class="line"><span class="lineno">  590</span>                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  591</span>                    <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  592</span> </div>
-<div class="line"><span class="lineno">  593</span>                <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772">spawnType</a>)</div>
-<div class="line"><span class="lineno">  594</span>                {</div>
-<div class="line"><span class="lineno">  595</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1">SPAWNTYPE_ALARMBOT</a>:</div>
-<div class="line"><span class="lineno">  596</span>                        {</div>
-<div class="line"><span class="lineno">  597</span>                            <span class="keywordflow">if</span> (!who-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#a1a9b49c92afce478448095e22a81f3e3">RANGE_GUARDS_MARK</a>))</div>
-<div class="line"><span class="lineno">  598</span>                                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  599</span> </div>
-<div class="line"><span class="lineno">  600</span>                            <a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* markAura = who-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a>);</div>
-<div class="line"><span class="lineno">  601</span>                            <span class="keywordflow">if</span> (markAura)</div>
-<div class="line"><span class="lineno">  602</span>                            {</div>
-<div class="line"><span class="lineno">  603</span>                                <span class="comment">// the target wasn&#39;t able to move out of our range within 25 seconds</span></div>
-<div class="line"><span class="lineno">  604</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  605</span>                                {</div>
-<div class="line"><span class="lineno">  606</span>                                    lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
-<div class="line"><span class="lineno">  607</span> </div>
-<div class="line"><span class="lineno">  608</span>                                    <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  609</span>                                        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  610</span>                                }</div>
-<div class="line"><span class="lineno">  611</span> </div>
-<div class="line"><span class="lineno">  612</span>                                <span class="keywordflow">if</span> (markAura-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">GetDuration</a>() &lt; <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5">AURA_DURATION_TIME_LEFT</a>)</div>
-<div class="line"><span class="lineno">  613</span>                                    <span class="keywordflow">if</span> (!lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  614</span>                                        lastSpawnedGuard-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  583</span>                <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772">spawnType</a>)</div>
+<div class="line"><span class="lineno">  584</span>                {</div>
+<div class="line"><span class="lineno">  585</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1">SPAWNTYPE_ALARMBOT</a>:</div>
+<div class="line"><span class="lineno">  586</span>                        {</div>
+<div class="line"><span class="lineno">  587</span>                            <span class="keywordflow">if</span> (!who-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#a1a9b49c92afce478448095e22a81f3e3">RANGE_GUARDS_MARK</a>))</div>
+<div class="line"><span class="lineno">  588</span>                                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  589</span> </div>
+<div class="line"><span class="lineno">  590</span>                            <a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* markAura = who-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a>);</div>
+<div class="line"><span class="lineno">  591</span>                            <span class="keywordflow">if</span> (markAura)</div>
+<div class="line"><span class="lineno">  592</span>                            {</div>
+<div class="line"><span class="lineno">  593</span>                                <span class="comment">// the target wasn&#39;t able to move out of our range within 25 seconds</span></div>
+<div class="line"><span class="lineno">  594</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  595</span>                                {</div>
+<div class="line"><span class="lineno">  596</span>                                    lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
+<div class="line"><span class="lineno">  597</span> </div>
+<div class="line"><span class="lineno">  598</span>                                    <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  599</span>                                        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  600</span>                                }</div>
+<div class="line"><span class="lineno">  601</span> </div>
+<div class="line"><span class="lineno">  602</span>                                <span class="keywordflow">if</span> (markAura-&gt;<a class="code hl_function" href="../../db/dce/classAura.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">GetDuration</a>() &lt; <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5">AURA_DURATION_TIME_LEFT</a>)</div>
+<div class="line"><span class="lineno">  603</span>                                    <span class="keywordflow">if</span> (!lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  604</span>                                        lastSpawnedGuard-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  605</span>                            }</div>
+<div class="line"><span class="lineno">  606</span>                            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  607</span>                            {</div>
+<div class="line"><span class="lineno">  608</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  609</span>                                    lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
+<div class="line"><span class="lineno">  610</span> </div>
+<div class="line"><span class="lineno">  611</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  612</span>                                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  613</span> </div>
+<div class="line"><span class="lineno">  614</span>                                lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(who, <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  615</span>                            }</div>
-<div class="line"><span class="lineno">  616</span>                            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  617</span>                            {</div>
-<div class="line"><span class="lineno">  618</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  619</span>                                    lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
-<div class="line"><span class="lineno">  620</span> </div>
-<div class="line"><span class="lineno">  621</span>                                <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  622</span>                                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  623</span> </div>
-<div class="line"><span class="lineno">  624</span>                                lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(who, <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  625</span>                            }</div>
-<div class="line"><span class="lineno">  626</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  627</span>                        }</div>
-<div class="line"><span class="lineno">  628</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9">SPAWNTYPE_TRIPWIRE_ROOFTOP</a>:</div>
-<div class="line"><span class="lineno">  629</span>                        {</div>
-<div class="line"><span class="lineno">  630</span>                            <span class="keywordflow">if</span> (!who-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#a82e1b72d10221583944ac0247287ab60">RANGE_TRIPWIRE</a>))</div>
-<div class="line"><span class="lineno">  631</span>                                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  616</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  617</span>                        }</div>
+<div class="line"><span class="lineno">  618</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9">SPAWNTYPE_TRIPWIRE_ROOFTOP</a>:</div>
+<div class="line"><span class="lineno">  619</span>                        {</div>
+<div class="line"><span class="lineno">  620</span>                            <span class="keywordflow">if</span> (!who-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../db/dae/npcs__special_8cpp.html#a82e1b72d10221583944ac0247287ab60">RANGE_TRIPWIRE</a>))</div>
+<div class="line"><span class="lineno">  621</span>                                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  622</span> </div>
+<div class="line"><span class="lineno">  623</span>                            <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  624</span>                                lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
+<div class="line"><span class="lineno">  625</span> </div>
+<div class="line"><span class="lineno">  626</span>                            <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
+<div class="line"><span class="lineno">  627</span>                                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  628</span> </div>
+<div class="line"><span class="lineno">  629</span>                            <span class="comment">// ROOFTOP only triggers if the player is on the ground</span></div>
+<div class="line"><span class="lineno">  630</span>                            <span class="keywordflow">if</span> (!playerTarget-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adc0164308eef5eb552c017d663039aa2">IsFlying</a>() &amp;&amp; !lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  631</span>                                lastSpawnedGuard-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(who);</div>
 <div class="line"><span class="lineno">  632</span> </div>
-<div class="line"><span class="lineno">  633</span>                            <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  634</span>                                lastSpawnedGuard = <a class="code hl_function" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">SummonGuard</a>();</div>
-<div class="line"><span class="lineno">  635</span> </div>
-<div class="line"><span class="lineno">  636</span>                            <span class="keywordflow">if</span> (!lastSpawnedGuard)</div>
-<div class="line"><span class="lineno">  637</span>                                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  638</span> </div>
-<div class="line"><span class="lineno">  639</span>                            <span class="comment">// ROOFTOP only triggers if the player is on the ground</span></div>
-<div class="line"><span class="lineno">  640</span>                            <span class="keywordflow">if</span> (!playerTarget-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adc0164308eef5eb552c017d663039aa2">IsFlying</a>() &amp;&amp; !lastSpawnedGuard-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  641</span>                                lastSpawnedGuard-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(who);</div>
-<div class="line"><span class="lineno">  642</span> </div>
-<div class="line"><span class="lineno">  643</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  644</span>                        }</div>
-<div class="line"><span class="lineno">  645</span>                }</div>
-<div class="line"><span class="lineno">  646</span>            }</div>
-<div class="line"><span class="lineno">  647</span>        }</div>
+<div class="line"><span class="lineno">  633</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  634</span>                        }</div>
+<div class="line"><span class="lineno">  635</span>                }</div>
+<div class="line"><span class="lineno">  636</span>            }</div>
+<div class="line"><span class="lineno">  637</span>        }</div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aclassAura_html_a5e79eaa33b5f9ae5aaa44a62d096d6fe"><div class="ttname"><a href="../../db/dce/classAura.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">Aura::GetDuration</a></div><div class="ttdeci">int32 GetDuration() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:133</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
@@ -762,17 +762,17 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:13923</div></div>
 <div class="ttc" id="aclassUnit_html_ae8d112bd8c9cc28d1186e773945291b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae8d112bd8c9cc28d1186e773945291b6">Unit::IsHostileTo</a></div><div class="ttdeci">bool IsHostileTo(Unit const *unit) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10277</div></div>
 <div class="ttc" id="aclassWorldObject_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1332</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a1a9b49c92afce478448095e22a81f3e3"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a1a9b49c92afce478448095e22a81f3e3">RANGE_GUARDS_MARK</a></div><div class="ttdeci">float const RANGE_GUARDS_MARK</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:467</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9">SPAWNTYPE_TRIPWIRE_ROOFTOP</a></div><div class="ttdeci">@ SPAWNTYPE_TRIPWIRE_ROOFTOP</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:449</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1">SPAWNTYPE_ALARMBOT</a></div><div class="ttdeci">@ SPAWNTYPE_ALARMBOT</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:450</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a></div><div class="ttdeci">@ SPELL_GUARDS_MARK</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:462</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5">AURA_DURATION_TIME_LEFT</a></div><div class="ttdeci">@ AURA_DURATION_TIME_LEFT</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:463</div></div>
-<div class="ttc" id="anpcs__special_8cpp_html_a82e1b72d10221583944ac0247287ab60"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a82e1b72d10221583944ac0247287ab60">RANGE_TRIPWIRE</a></div><div class="ttdeci">float const RANGE_TRIPWIRE</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:466</div></div>
-<div class="ttc" id="astructSpawnAssociation_html_a056dabf4092da4ef3155a661607ca772"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772">SpawnAssociation::spawnType</a></div><div class="ttdeci">SpawnType spawnType</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:457</div></div>
-<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a8da57471dfa875f55f52c3d2b068a0f3"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">npc_air_force_bots::npc_air_force_botsAI::SummonGuard</a></div><div class="ttdeci">Creature * SummonGuard()</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:544</div></div>
-<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_ac4f39049ba15caf314939f12b82ccd05"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05">npc_air_force_bots::npc_air_force_botsAI::GetSummonedGuard</a></div><div class="ttdeci">Creature * GetSummonedGuard()</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:559</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a1a9b49c92afce478448095e22a81f3e3"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a1a9b49c92afce478448095e22a81f3e3">RANGE_GUARDS_MARK</a></div><div class="ttdeci">float const RANGE_GUARDS_MARK</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:457</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9">SPAWNTYPE_TRIPWIRE_ROOFTOP</a></div><div class="ttdeci">@ SPAWNTYPE_TRIPWIRE_ROOFTOP</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:439</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1">SPAWNTYPE_ALARMBOT</a></div><div class="ttdeci">@ SPAWNTYPE_ALARMBOT</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:440</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205">SPELL_GUARDS_MARK</a></div><div class="ttdeci">@ SPELL_GUARDS_MARK</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:452</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5">AURA_DURATION_TIME_LEFT</a></div><div class="ttdeci">@ AURA_DURATION_TIME_LEFT</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:453</div></div>
+<div class="ttc" id="anpcs__special_8cpp_html_a82e1b72d10221583944ac0247287ab60"><div class="ttname"><a href="../../db/dae/npcs__special_8cpp.html#a82e1b72d10221583944ac0247287ab60">RANGE_TRIPWIRE</a></div><div class="ttdeci">float const RANGE_TRIPWIRE</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:456</div></div>
+<div class="ttc" id="astructSpawnAssociation_html_a056dabf4092da4ef3155a661607ca772"><div class="ttname"><a href="../../de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772">SpawnAssociation::spawnType</a></div><div class="ttdeci">SpawnType spawnType</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:447</div></div>
+<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_a8da57471dfa875f55f52c3d2b068a0f3"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3">npc_air_force_bots::npc_air_force_botsAI::SummonGuard</a></div><div class="ttdeci">Creature * SummonGuard()</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:534</div></div>
+<div class="ttc" id="astructnpc__air__force__bots_1_1npc__air__force__botsAI_html_ac4f39049ba15caf314939f12b82ccd05"><div class="ttname"><a href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05">npc_air_force_bots::npc_air_force_botsAI::GetSummonedGuard</a></div><div class="ttdeci">Creature * GetSummonedGuard()</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:549</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00463">AURA_DURATION_TIME_LEFT</a>, <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l05613">Unit::GetAura()</a>, <a class="el" href="../../#l00133">Aura::GetDuration()</a>, <a class="el" href="../../#l00559">GetSummonedGuard()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l01633">Unit::IsFlying()</a>, <a class="el" href="../../#l10277">Unit::IsHostileTo()</a>, <a class="el" href="../../#l13923">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l01332">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00467">RANGE_GUARDS_MARK</a>, <a class="el" href="../../#l00466">RANGE_TRIPWIRE</a>, <a class="el" href="../../#l00539">SpawnAssoc</a>, <a class="el" href="../../#l00540">SpawnedGUID</a>, <a class="el" href="../../#l00457">SpawnAssociation::spawnType</a>, <a class="el" href="../../#l00450">SPAWNTYPE_ALARMBOT</a>, <a class="el" href="../../#l00449">SPAWNTYPE_TRIPWIRE_ROOFTOP</a>, <a class="el" href="../../#l00462">SPELL_GUARDS_MARK</a>, <a class="el" href="../../#l00544">SummonGuard()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00453">AURA_DURATION_TIME_LEFT</a>, <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l05613">Unit::GetAura()</a>, <a class="el" href="../../#l00133">Aura::GetDuration()</a>, <a class="el" href="../../#l00549">GetSummonedGuard()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l01633">Unit::IsFlying()</a>, <a class="el" href="../../#l10277">Unit::IsHostileTo()</a>, <a class="el" href="../../#l13923">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l01332">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00457">RANGE_GUARDS_MARK</a>, <a class="el" href="../../#l00456">RANGE_TRIPWIRE</a>, <a class="el" href="../../#l00529">SpawnAssoc</a>, <a class="el" href="../../#l00530">SpawnedGUID</a>, <a class="el" href="../../#l00447">SpawnAssociation::spawnType</a>, <a class="el" href="../../#l00440">SPAWNTYPE_ALARMBOT</a>, <a class="el" href="../../#l00439">SPAWNTYPE_TRIPWIRE_ROOFTOP</a>, <a class="el" href="../../#l00452">SPELL_GUARDS_MARK</a>, <a class="el" href="../../#l00534">SummonGuard()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
 </div>
 </div>
@@ -800,7 +800,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  542</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  532</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -826,26 +826,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  545</span>        {</div>
-<div class="line"><span class="lineno">  546</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>, 0.0f, 0.0f, 0.0f, 0.0f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 300000);</div>
-<div class="line"><span class="lineno">  547</span> </div>
-<div class="line"><span class="lineno">  548</span>            <span class="keywordflow">if</span> (summoned)</div>
-<div class="line"><span class="lineno">  549</span>                <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a> = summoned-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  550</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  551</span>            {</div>
-<div class="line"><span class="lineno">  552</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: npc_air_force_bots: wasn&#39;t able to spawn Creature {}&quot;</span>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
-<div class="line"><span class="lineno">  553</span>                <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  554</span>            }</div>
-<div class="line"><span class="lineno">  555</span> </div>
-<div class="line"><span class="lineno">  556</span>            <span class="keywordflow">return</span> summoned;</div>
-<div class="line"><span class="lineno">  557</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  535</span>        {</div>
+<div class="line"><span class="lineno">  536</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>, 0.0f, 0.0f, 0.0f, 0.0f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 300000);</div>
+<div class="line"><span class="lineno">  537</span> </div>
+<div class="line"><span class="lineno">  538</span>            <span class="keywordflow">if</span> (summoned)</div>
+<div class="line"><span class="lineno">  539</span>                <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56">SpawnedGUID</a> = summoned-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  540</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  541</span>            {</div>
+<div class="line"><span class="lineno">  542</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;TCSR: npc_air_force_bots: wasn&#39;t able to spawn Creature {}&quot;</span>, <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a>-&gt;<a class="code hl_variable" href="../../de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4">spawnedCreatureEntry</a>);</div>
+<div class="line"><span class="lineno">  543</span>                <a class="code hl_variable" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf">SpawnAssoc</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  544</span>            }</div>
+<div class="line"><span class="lineno">  545</span> </div>
+<div class="line"><span class="lineno">  546</span>            <span class="keywordflow">return</span> summoned;</div>
+<div class="line"><span class="lineno">  547</span>        }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</div><div class="ttdef"><b>Definition</b> Object.h:49</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:112</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2368</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00539">SpawnAssoc</a>, <a class="el" href="../../#l00456">SpawnAssociation::spawnedCreatureEntry</a>, <a class="el" href="../../#l00540">SpawnedGUID</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00049">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00529">SpawnAssoc</a>, <a class="el" href="../../#l00446">SpawnAssociation::spawnedCreatureEntry</a>, <a class="el" href="../../#l00530">SpawnedGUID</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00049">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00569">MoveInLineOfSight()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00559">MoveInLineOfSight()</a>.</p>
 
 </div>
 </div>
@@ -862,7 +862,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00569">MoveInLineOfSight()</a>, <a class="el" href="../../#l00507">npc_air_force_botsAI()</a>, and <a class="el" href="../../#l00544">SummonGuard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00559">MoveInLineOfSight()</a>, <a class="el" href="../../#l00497">npc_air_force_botsAI()</a>, and <a class="el" href="../../#l00534">SummonGuard()</a>.</p>
 
 </div>
 </div>
@@ -878,7 +878,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00559">GetSummonedGuard()</a>, <a class="el" href="../../#l00569">MoveInLineOfSight()</a>, <a class="el" href="../../#l00507">npc_air_force_botsAI()</a>, and <a class="el" href="../../#l00544">SummonGuard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00549">GetSummonedGuard()</a>, <a class="el" href="../../#l00559">MoveInLineOfSight()</a>, <a class="el" href="../../#l00497">npc_air_force_botsAI()</a>, and <a class="el" href="../../#l00534">SummonGuard()</a>.</p>
 
 </div>
 </div>
@@ -891,7 +891,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/de4/classnpc__air__force__bots.html">npc_air_force_bots</a></li><li class="navelem"><a class="el" href="../../dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html">npc_air_force_botsAI</a></li>
-    <li class="footer">Generated on Sat Apr 26 2025 06:20:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 27 2025 06:21:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

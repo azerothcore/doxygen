@@ -143,12 +143,6 @@ var npcs__special_8cpp =
       [ "ANIM_GO_LAUNCH_FIREWORK", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f", null ],
       [ "ZONE_MOONGLADE", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a318787e8f300367dbcbbb4303736ea61", null ]
     ] ],
-    [ "FishingExtravaganzaWorldStates", "db/dae/npcs__special_8cpp.html#ab0b32ec328fe3a23323cb7cfe8d84608", [
-      [ "STV_FISHING_PREV_WIN_TIME", "db/dae/npcs__special_8cpp.html#ab0b32ec328fe3a23323cb7cfe8d84608a04a87107f3cba3eb48ebf9c113549b1f", null ],
-      [ "STV_FISHING_HAS_WINNER", "db/dae/npcs__special_8cpp.html#ab0b32ec328fe3a23323cb7cfe8d84608a37d3fa247f6c005921c3038ecdc2a049", null ],
-      [ "STV_FISHING_ANNOUNCE_EVENT_BEGIN", "db/dae/npcs__special_8cpp.html#ab0b32ec328fe3a23323cb7cfe8d84608ae3649f079c78b961bf811e090ff62705", null ],
-      [ "STV_FISHING_ANNOUNCE_POOLS_DESPAN", "db/dae/npcs__special_8cpp.html#ab0b32ec328fe3a23323cb7cfe8d84608ac670c151feec94f364927b0e9efaa63b", null ]
-    ] ],
     [ "Garments", "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038", [
       [ "SPELL_LESSER_HEAL_R2", "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ac552be3f5be69e2ffe52b569556c9a8d", null ],
       [ "SPELL_FORTITUDE_R1", "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a773eb442220f586b840e02d6e0026125", null ],

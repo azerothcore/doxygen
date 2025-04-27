@@ -58,10 +58,5 @@ var ruby__sanctum_8h =
     [ "SharedActions", "db/dd6/ruby__sanctum_8h.html#a46b9ee4e863cf031f094f63fa573b0a1", [
       [ "ACTION_INTRO_HALION", "db/dd6/ruby__sanctum_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a40d4efef3e3da2ab5234793d138c6f2c", null ]
     ] ],
-    [ "WorldStatesRS", "db/dd6/ruby__sanctum_8h.html#a618a421ebfd552987eb44022288614c3", [
-      [ "WORLDSTATE_CORPOREALITY_MATERIAL", "db/dd6/ruby__sanctum_8h.html#a618a421ebfd552987eb44022288614c3aac4105a456df1f410645551bc9c3dfa5", null ],
-      [ "WORLDSTATE_CORPOREALITY_TWILIGHT", "db/dd6/ruby__sanctum_8h.html#a618a421ebfd552987eb44022288614c3af9378a2b7164406758be474767de4738", null ],
-      [ "WORLDSTATE_CORPOREALITY_TOGGLE", "db/dd6/ruby__sanctum_8h.html#a618a421ebfd552987eb44022288614c3a23dd1616f54585531226b65fd4bd84cc", null ]
-    ] ],
     [ "GetRubySanctumAI", "db/dd6/ruby__sanctum_8h.html#af0897a2e045ddbc3043561bf0cf885f2", null ]
 ];

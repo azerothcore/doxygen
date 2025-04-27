@@ -121,14 +121,5 @@ var BattlegroundWS_8h =
       [ "BG_WS_TRIGGER_HORDE_ELIXIR_REGEN_SPAWN", "d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3a8bc4e07db5aeeb0e5cb7b391be15b292", null ],
       [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_BERSERK_SPAWN", "d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3aedcf50e072c7fbdbf39f7421e29c09fe", null ],
       [ "BG_WS_TRIGGER_HORDE_ELIXIR_BERSERK_SPAWN", "d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3aea7c50de78560ae6831d5b51cf33034e", null ]
-    ] ],
-    [ "BG_WS_WorldStates", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6", [
-      [ "BG_WS_FLAG_CAPTURES_ALLIANCE", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6ae883ddf71516900be2d33631bdd92ad2", null ],
-      [ "BG_WS_FLAG_CAPTURES_HORDE", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6a9f7b1b3d5f9c877c281639e2ce27b0a8", null ],
-      [ "BG_WS_FLAG_CAPTURES_MAX", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6a53e88b178ab76de3a608b254901a9052", null ],
-      [ "BG_WS_FLAG_STATE_HORDE", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6a77055024580df28d74d7ccc5296dcb2e", null ],
-      [ "BG_WS_FLAG_STATE_ALLIANCE", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6a7956b3f40570a592d3d2fb921efa1d27", null ],
-      [ "BG_WS_STATE_TIMER", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6a05932be9f40700e6536a6245396630b2", null ],
-      [ "BG_WS_STATE_TIMER_ACTIVE", "d5/db2/BattlegroundWS_8h.html#af4cae60fa452f9a1504325480cf4d6b6aa3b2a597b7252f6de8ca7374ced53c31", null ]
     ] ]
 ];

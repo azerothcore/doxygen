@@ -21,7 +21,6 @@ var old__hillsbrad_8h =
       [ "GO_PRISON_DOOR", "d3/dfb/old__hillsbrad_8h.html#a7019ec354c76c56add579640c3bcbcf7a0448d36e34facb64a114ab39de039a12", null ]
     ] ],
     [ "MiscIds", "d3/dfb/old__hillsbrad_8h.html#a0b64fe674ad16039fc11cab49bc4ef87", [
-      [ "WORLD_STATE_BARRELS_PLANTED", "d3/dfb/old__hillsbrad_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a31197dbd24ac768a1d3ceb4611b36db8", null ],
       [ "SKARLOC_MOUNT_MODEL", "d3/dfb/old__hillsbrad_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ac91467bd960d98d02e4bf47d21f7f1ff", null ],
       [ "ENCOUNTER_PROGRESS_NONE", "d3/dfb/old__hillsbrad_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ade88480096ad384223e01ca56fcdeca6", null ],
       [ "ENCOUNTER_PROGRESS_BARRELS", "d3/dfb/old__hillsbrad_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a40233f8929344a680e69e063189b8c54", null ],

@@ -54,10 +54,6 @@ var oculus_8h =
       [ "NPC_CENTRIFUGE_CONSTRUCT", "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ca72db3e8475eeba86052fae23a2505", null ],
       [ "NPC_IMAGE_OF_BELGARISTRASZ", "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5cac277a5cd1ca909a6071bbf5772aa4285", null ]
     ] ],
-    [ "OculusWorldStates", "df/d29/oculus_8h.html#a7002d594b5e2e99facc4d247af72e898", [
-      [ "WORLD_STATE_CENTRIFUGE_CONSTRUCT_SHOW", "df/d29/oculus_8h.html#a7002d594b5e2e99facc4d247af72e898acf45b968157fcc12135e44db11f6b271", null ],
-      [ "WORLD_STATE_CENTRIFUGE_CONSTRUCT_AMOUNT", "df/d29/oculus_8h.html#a7002d594b5e2e99facc4d247af72e898a91a81fa6b19d26b04314a3a6e60bb1b4", null ]
-    ] ],
     [ "Talks", "df/d29/oculus_8h.html#acb9ca3a790c820be5cc99570142bda22", [
       [ "SAY_BELGARISTRASZ", "df/d29/oculus_8h.html#acb9ca3a790c820be5cc99570142bda22a44828bc65efdb599d5574c7e02b6582f", null ]
     ] ],

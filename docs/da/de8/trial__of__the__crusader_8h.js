@@ -84,10 +84,6 @@ var trial__of__the__crusader_8h =
       [ "SAY_STAGE_4_06", "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da524b272e7771538d6e79321c819d45ef", null ],
       [ "SAY_STAGE_4_07", "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da0d20da2da4a19b18dab3e22f1a9c3cf3", null ]
     ] ],
-    [ "euiWorldStates", "da/de8/trial__of__the__crusader_8h.html#a4251155c1d8b18d099f92d4c188e0e58", [
-      [ "UPDATE_STATE_UI_SHOW", "da/de8/trial__of__the__crusader_8h.html#a4251155c1d8b18d099f92d4c188e0e58a61e7612a07cd2908af75af067f639873", null ],
-      [ "UPDATE_STATE_UI_COUNT", "da/de8/trial__of__the__crusader_8h.html#a4251155c1d8b18d099f92d4c188e0e58a261b22c18cad2bd18a19a579914806fd", null ]
-    ] ],
     [ "Events", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHECK_PLAYERS", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_OPEN_GATE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a803bbe8e3afab4a8ae6f07c85d1474d5", null ],

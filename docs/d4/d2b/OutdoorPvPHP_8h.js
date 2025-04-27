@@ -15,15 +15,6 @@ var OutdoorPvPHP_8h =
       [ "HP_TOWER_STADIUM", "d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
       [ "HP_TOWER_NUM", "d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
     ] ],
-    [ "OutdoorPvPHPWorldStates", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95", [
-      [ "HP_UI_TOWER_DISPLAY_A", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95a453dfb3c3e42144d64cecb1f6a27d1f5", null ],
-      [ "HP_UI_TOWER_DISPLAY_H", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95a7dd2012ec1a9bbfba46f2e82a13a3224", null ],
-      [ "HP_UI_TOWER_COUNT_H", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95a8d555f2c06225cc60f96cad000f2bccd", null ],
-      [ "HP_UI_TOWER_COUNT_A", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95a2982f04ca468870858ef1aec903ed720", null ],
-      [ "HP_UI_TOWER_SLIDER_N", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95abba2cb325ca58cc38eff6bff404bd9cc", null ],
-      [ "HP_UI_TOWER_SLIDER_POS", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95a451729b3b84d31e6455fd4c754719e50", null ],
-      [ "HP_UI_TOWER_SLIDER_DISPLAY", "d4/d2b/OutdoorPvPHP_8h.html#a38b09ba25777a9f24adfea3db52e9e95ae6c66ce15e068cdfcda41d75a3a243ad", null ]
-    ] ],
     [ "HP_CREDITMARKER", "d4/d2b/OutdoorPvPHP_8h.html#a3be5b978c2160f84a013071d76c121aa", null ],
     [ "HP_MAP_A", "d4/d2b/OutdoorPvPHP_8h.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
     [ "HP_MAP_H", "d4/d2b/OutdoorPvPHP_8h.html#ab15c51d80dc177784041dedc55e39c56", null ],

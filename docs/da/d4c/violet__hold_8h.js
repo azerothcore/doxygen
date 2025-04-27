@@ -109,11 +109,6 @@ var violet__hold_8h =
       [ "SPELL_CYANIGOSA_TRANSFORM", "da/d4c/violet__hold_8h.html#a5bd342133be8c2137b831460acc9298caef6c1ad4826a0502ebf28acc6f6caf46", null ],
       [ "SPELL_CYANIGOSA_BLUE_AURA", "da/d4c/violet__hold_8h.html#a5bd342133be8c2137b831460acc9298ca12526c90ac8de37b7735c409f2712960", null ]
     ] ],
-    [ "VHWorldStates", "da/d4c/violet__hold_8h.html#a6103e13f2f401a147b23ff4f93f62eae", [
-      [ "WORLD_STATE_VH_SHOW", "da/d4c/violet__hold_8h.html#a6103e13f2f401a147b23ff4f93f62eaeae3100c98bea8640c201fb83d3b7a78bf", null ],
-      [ "WORLD_STATE_VH_PRISON_STATE", "da/d4c/violet__hold_8h.html#a6103e13f2f401a147b23ff4f93f62eaea5a97a9ace5bbf1465014a557511b0e95", null ],
-      [ "WORLD_STATE_VH_WAVE_COUNT", "da/d4c/violet__hold_8h.html#a6103e13f2f401a147b23ff4f93f62eaea3e96b79dbb4d132bc13f3217d5fcfc08", null ]
-    ] ],
     [ "GetVioletHoldAI", "da/d4c/violet__hold_8h.html#a584f552f8fb04cc894388a7c32771830", null ],
     [ "BossStartMove1", "da/d4c/violet__hold_8h.html#aa9d2ed11fe7f59bd238c5cf47a20ab4a", null ],
     [ "BossStartMove2", "da/d4c/violet__hold_8h.html#a69b132c1bacbcc1591f080036583f6ef", null ],

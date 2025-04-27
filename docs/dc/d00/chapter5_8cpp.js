@@ -97,12 +97,6 @@ var chapter5_8cpp =
       [ "ENCOUNTER_START_TIME", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadafcf1b25e550546b12f799cdb9d674fd4", null ],
       [ "ENCOUNTER_TOTAL_DEFENDERS", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaeda98e29c3cba85ba350773017ee26c9", null ],
       [ "ENCOUNTER_TOTAL_SCOURGE", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada8ab3c4c2717b178d21dd138c3620b3e8", null ],
-      [ "WORLD_STATE_DEFENDERS_COUNT", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadac1ceb6629c34dd6c5efdc8198dac1872", null ],
-      [ "WORLD_STATE_SCOURGE_COUNT", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadac09d7db33789a93672d9493bd0fdb918", null ],
-      [ "WORLD_STATE_SOLDIERS_ENABLE", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae5ebc7897b056fadbc2ac08ac861b9f6", null ],
-      [ "WORLD_STATE_COUNTDOWN_ENABLE", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadabc29602c1e1050944e42cf585daf02f7", null ],
-      [ "WORLD_STATE_COUNTDOWN_TIME", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada22b9ac0663c663f7f06631f1a2c68450", null ],
-      [ "WORLD_STATE_EVENT_BEGIN_ENABLE", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae656ccdb3e9fed62cf0eb5904a0b61bf", null ],
       [ "ENCOUNTER_STATE_NONE", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaadd8f6b3dfe5169c57633172407f3595", null ],
       [ "ENCOUNTER_STATE_FIGHT", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada00cc5284ba1107951f133a90541f15c8", null ],
       [ "ENCOUNTER_STATE_OUTRO", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada0cb5cbaf228185bfc622ca9914898442", null ]

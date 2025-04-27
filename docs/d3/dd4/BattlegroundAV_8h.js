@@ -519,13 +519,6 @@ var BattlegroundAV_8h =
       [ "POINT_DESTROYED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972a28d4c4c48370e9edebe1157f7c74b33a", null ],
       [ "POINT_CONTROLED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972ac4d90c0deaf6f8bd6e2ba186ca783a72", null ]
     ] ],
-    [ "BG_AV_WorldStates", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699", [
-      [ "AV_Alliance_Score", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699ad28d15445c231de1ae3973050518c247", null ],
-      [ "AV_Horde_Score", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699a967049c2795fea6df3488031bb618be6", null ],
-      [ "AV_SHOW_H_SCORE", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699aed68f09d5867289f6e2213034a575907", null ],
-      [ "AV_SHOW_A_SCORE", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699a1acd2ed1ba9f51219cecbdc342ac96f7", null ],
-      [ "AV_SNOWFALL_N", "d3/dd4/BattlegroundAV_8h.html#ae0d24529fc381447f408c8a66a120699a0ebbb6e809569dfc46add59574a989d6", null ]
-    ] ],
     [ "operator++", "d3/dd4/BattlegroundAV_8h.html#ab5c9c507ee29145635eab1eebe05643f", null ],
     [ "BG_AV_CreatureInfo", "d3/dd4/BattlegroundAV_8h.html#aca858a4b6c9af5391a8b2b422974ce25", null ],
     [ "BG_AV_CreaturePos", "d3/dd4/BattlegroundAV_8h.html#a483216d9a59634d6667e5d0097af4ce8", null ],

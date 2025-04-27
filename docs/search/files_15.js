@@ -62,6 +62,7 @@ var searchData=
   ['worldsocketmgr_2eh_59',['WorldSocketMgr.h',['../d9/d74/WorldSocketMgr_8h.html',1,'']]],
   ['worldstate_2ecpp_60',['WorldState.cpp',['../db/d68/WorldState_8cpp.html',1,'']]],
   ['worldstate_2eh_61',['WorldState.h',['../d7/d9a/WorldState_8h.html',1,'']]],
-  ['worldstatepackets_2ecpp_62',['WorldStatePackets.cpp',['../d0/db5/WorldStatePackets_8cpp.html',1,'']]],
-  ['worldstatepackets_2eh_63',['WorldStatePackets.h',['../d6/d9b/WorldStatePackets_8h.html',1,'']]]
+  ['worldstatedefines_2eh_62',['WorldStateDefines.h',['../d3/d46/WorldStateDefines_8h.html',1,'']]],
+  ['worldstatepackets_2ecpp_63',['WorldStatePackets.cpp',['../d0/db5/WorldStatePackets_8cpp.html',1,'']]],
+  ['worldstatepackets_2eh_64',['WorldStatePackets.h',['../d6/d9b/WorldStatePackets_8h.html',1,'']]]
 ];

@@ -126,11 +126,6 @@ var hyjal_8h =
       [ "FROST_WYRM_FORTRESS_PATROL", "d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aaafdf496cfee9a8a5db9396aeb1705e33d", null ],
       [ "HORDE_BOSS_PATH", "d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aaa497572c71239210206a0f0e2b4238b7f", null ]
     ] ],
-    [ "HyjalWorldStateIds", "d0/dff/hyjal_8h.html#af5d0e61cd4b0275eab33e881b8234092", [
-      [ "WORLD_STATE_WAVES", "d0/dff/hyjal_8h.html#af5d0e61cd4b0275eab33e881b8234092a0097f6b183d350ca15d7fb32e0db9340", null ],
-      [ "WORLD_STATE_ENEMY", "d0/dff/hyjal_8h.html#af5d0e61cd4b0275eab33e881b8234092ab0e60e8d7660720986daec2eba163633", null ],
-      [ "WORLD_STATE_ENEMYCOUNT", "d0/dff/hyjal_8h.html#af5d0e61cd4b0275eab33e881b8234092ac21e97267147e701669d069f8cb0bf13", null ]
-    ] ],
     [ "GetHyjalAI", "d0/dff/hyjal_8h.html#a004a578f0bf37c2bc2536d9e1f9fb882", null ],
     [ "EncounterCount", "d0/dff/hyjal_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

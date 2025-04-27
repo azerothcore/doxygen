@@ -4,9 +4,7 @@ var instance__zulaman_8cpp =
     [ "instance_zulaman", "d2/d4a/classinstance__zulaman.html", "d2/d4a/classinstance__zulaman" ],
     [ "instance_zulaman::instance_zulaman_InstanceMapScript", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html", "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript" ],
     [ "Misc", "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "RAND_VENDOR", "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac1150c56f4c1aa81c823e2f9892ff818", null ],
-      [ "WORLDSTATE_SHOW_TIMER", "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9983a17d117d785671b552859fb22ec", null ],
-      [ "WORLDSTATE_TIME_TO_SACRIFICE", "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1100b4a579735cf56bd5e943bbfbd1bf", null ]
+      [ "RAND_VENDOR", "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac1150c56f4c1aa81c823e2f9892ff818", null ]
     ] ],
     [ "AddSC_instance_zulaman", "da/d20/instance__zulaman_8cpp.html#a25158005199d5378837927c0299a6f72", null ],
     [ "boundaries", "da/d20/instance__zulaman_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
