@@ -698,6 +698,7 @@ var classUnit =
     [ "ReplaceAllUnitFlags2", "df/dd9/classUnit.html#acac59d316acd489b822df5ed45df5b61", null ],
     [ "resetAttackTimer", "df/dd9/classUnit.html#ae7f942c448b14628617639978bf6bd00", null ],
     [ "ResetRedirectThreat", "df/dd9/classUnit.html#ac38c8c45821b1d343775a397793d184e", null ],
+    [ "RespondsToCallForHelp", "df/dd9/classUnit.html#a038c33d98f2e26e760ad1849ac6b0195", null ],
     [ "RestoreDisplayId", "df/dd9/classUnit.html#acb800095887418d08fdfa8ade11f0074", null ],
     [ "RestoreFaction", "df/dd9/classUnit.html#a25e4ba3fa47df09bb0492dd70c17c841", null ],
     [ "ResumeMovement", "df/dd9/classUnit.html#a5192880e4f6c630da6f5e937a135c312", null ],

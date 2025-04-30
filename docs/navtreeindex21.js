@@ -48,9 +48,9 @@ var NAVTREEINDEX21 =
 "d0/df1/classboss__volkhan.html":[6,0,770],
 "d0/df1/classboss__volkhan.html#a9dcb6026fbf3116df9abf5acaf1bfcc2":[6,0,770,1],
 "d0/df1/classboss__volkhan.html#aa0f76b387f9f74e0eb6dedd1b44ce34a":[6,0,770,2],
-"d0/df2/classnpc__vh__teleportation__portal.html":[6,0,2256],
-"d0/df2/classnpc__vh__teleportation__portal.html#a0721c64c01ae69bd78dfc15637c97f49":[6,0,2256,2],
-"d0/df2/classnpc__vh__teleportation__portal.html#a9a554058f594f992a17dbb3887117a6f":[6,0,2256,1],
+"d0/df2/classnpc__vh__teleportation__portal.html":[6,0,2255],
+"d0/df2/classnpc__vh__teleportation__portal.html#a0721c64c01ae69bd78dfc15637c97f49":[6,0,2255,2],
+"d0/df2/classnpc__vh__teleportation__portal.html#a9a554058f594f992a17dbb3887117a6f":[6,0,2255,1],
 "d0/df2/instance__wailing__caverns_8cpp.html":[7,0,0,0,1,3,4,10,0],
 "d0/df2/instance__wailing__caverns_8cpp.html#a67427453c8ec357648c276eaed523225":[7,0,0,0,1,3,4,10,0,2],
 "d0/df2/structSummonPropertiesEntry.html":[6,0,4081],
@@ -246,8 +246,8 @@ var NAVTREEINDEX21 =
 "d0/df3/classspell__item__feast.html#af89783564da25769be15e22291717f6a":[6,0,3205,1],
 "d0/df3/instance__auchenai__crypts_8cpp.html":[7,0,0,0,1,3,7,0,0,3],
 "d0/df3/instance__auchenai__crypts_8cpp.html#a3a9866226f3a0e32fdb3501e506ab0b5":[7,0,0,0,1,3,7,0,0,3,2],
-"d0/df4/structPosition.html":[6,0,2422],
-"d0/df4/structPosition.html#a07305d8c2285d85b1a7db9609ad78c85":[6,0,2422,53],
-"d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27":[6,0,2422,37],
-"d0/df4/structPosition.html#a0d2305604dd27c15fd2d969f18c15b3e":[6,0,2422,66]
+"d0/df4/structPosition.html":[6,0,2421],
+"d0/df4/structPosition.html#a07305d8c2285d85b1a7db9609ad78c85":[6,0,2421,53],
+"d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27":[6,0,2421,37],
+"d0/df4/structPosition.html#a0d2305604dd27c15fd2d969f18c15b3e":[6,0,2421,66]
 };

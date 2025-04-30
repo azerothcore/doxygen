@@ -4,6 +4,7 @@ var boss__eredar__twins_8cpp =
     [ "boss_alythess", "d5/de1/structboss__alythess.html", "d5/de1/structboss__alythess" ],
     [ "spell_eredar_twins_apply_touch", "d7/dee/classspell__eredar__twins__apply__touch.html", "d7/dee/classspell__eredar__twins__apply__touch" ],
     [ "spell_eredar_twins_handle_touch", "dd/d4a/classspell__eredar__twins__handle__touch.html", "dd/d4a/classspell__eredar__twins__handle__touch" ],
+    [ "spell_eredar_twins_flame_sear", "d9/daf/classspell__eredar__twins__flame__sear.html", "d9/daf/classspell__eredar__twins__flame__sear" ],
     [ "spell_eredar_twins_blaze", "d6/d40/classspell__eredar__twins__blaze.html", "d6/d40/classspell__eredar__twins__blaze" ],
     [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", "da/d2e/classspell__eredar__twins__handle__touch__periodic" ],
     [ "at_sunwell_eredar_twins", "d2/d59/classat__sunwell__eredar__twins.html", "d2/d59/classat__sunwell__eredar__twins" ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2e/classspell__igb__below__zero.html#aff4f05a5a4742a408646000b7cece38c":[6,0,3122,1],
 "d3/d2f/classspell__sindragosa__frost__breath.html":[6,0,3773],
 "d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[6,0,3773,3],
 "d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66":[6,0,3773,0],
@@ -8,12 +9,12 @@ var NAVTREEINDEX95 =
 "d3/d2f/struct__Socket.html":[6,0,14],
 "d3/d2f/struct__Socket.html#a5437849d9b7f229c4466e174d619d057":[6,0,14,1],
 "d3/d2f/struct__Socket.html#ad6232c851b72ce04d2dcfa00596fc1df":[6,0,14,0],
-"d3/d30/classnpc__finklestein.html":[6,0,1773],
-"d3/d30/classnpc__finklestein.html#a1f0d91d2a50aca9d0496b6bd03986c8e":[6,0,1773,2],
-"d3/d30/classnpc__finklestein.html#a7a744207e8f43672f0e6bf2354186ec4":[6,0,1773,4],
-"d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[6,0,1773,5],
-"d3/d30/classnpc__finklestein.html#aa719b4bb95012c22ef8123e255e32edd":[6,0,1773,1],
-"d3/d30/classnpc__finklestein.html#ac82d5e5dc2e0539c90dfcfe17430548c":[6,0,1773,3],
+"d3/d30/classnpc__finklestein.html":[6,0,1772],
+"d3/d30/classnpc__finklestein.html#a1f0d91d2a50aca9d0496b6bd03986c8e":[6,0,1772,2],
+"d3/d30/classnpc__finklestein.html#a7a744207e8f43672f0e6bf2354186ec4":[6,0,1772,4],
+"d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[6,0,1772,5],
+"d3/d30/classnpc__finklestein.html#aa719b4bb95012c22ef8123e255e32edd":[6,0,1772,1],
+"d3/d30/classnpc__finklestein.html#ac82d5e5dc2e0539c90dfcfe17430548c":[6,0,1772,3],
 "d3/d31/classgo__scourge__enclosure.html":[6,0,1167],
 "d3/d31/classgo__scourge__enclosure.html#a3611232cb735f336087d4d3c90f66b8d":[6,0,1167,0],
 "d3/d31/classgo__scourge__enclosure.html#af505dd0a5d9224cd7586878d1fbd3351":[6,0,1167,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7":[7,0,0,0,1,3,5,9,2,13,62,0],
 "d3/d32/structboss__azgalor.html":[6,0,387],
 "d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,387,4],
-"d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,387,1],
-"d3/d32/structboss__azgalor.html#a49cc8abf458f82ad7d46c9c1563f0e98":[6,0,387,2]
+"d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,387,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2":[6,0,4248,33],
 "d4/dd0/classWorldObject.html#aa9e6a240121ff389ca82992905d3c306":[6,0,4248,184],
 "d4/dd0/classWorldObject.html#aaa0fc48da0d101c0dd1040b5cb192123":[6,0,4248,28],
 "d4/dd0/classWorldObject.html#aaa784ac9d35babc83d65aaf60bf175d4":[6,0,4248,50],
@@ -137,16 +138,16 @@ var NAVTREEINDEX138 =
 "d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[7,0,0,0,1,3,3,0,11,0],
 "d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[7,0,0,0,1,3,3,0,11,1],
 "d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[7,0,0,0,1,3,3,0,11,2],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1874,0],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1874,0,2],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1874,0,3],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1874,0,1],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1874,0,4],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1874,0,7],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1874,0,0],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1874,0,6],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68":[6,0,1874,0,5],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb":[6,0,1874,0,8],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1873,0],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1873,0,2],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1873,0,3],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1873,0,1],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1873,0,4],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1873,0,7],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1873,0,0],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1873,0,6],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68":[6,0,1873,0,5],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb":[6,0,1873,0,8],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[6,0,3314],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a66db3976fe6ec7ee8712c5788ce5f3ec":[6,0,3314,0],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a768dec18bc0e879c457a64135ec27ad9":[6,0,3314,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "d4/dd9/structAchievementCriteriaEntry.html#a351e3a8f34365cf3aabd4f368eb2ee68":[6,0,111,113],
 "d4/dd9/structAchievementCriteriaEntry.html#a3542dcb007c69b7225f091847acc41ab":[6,0,111,94],
 "d4/dd9/structAchievementCriteriaEntry.html#a37420533e2cbeba7f9a8f83c4316b518":[6,0,111,126],
-"d4/dd9/structAchievementCriteriaEntry.html#a387eb4a669fcd4838921e07b2e8f7df9":[6,0,111,74],
-"d4/dd9/structAchievementCriteriaEntry.html#a3b1f2df6e3b50b9cbdbbc1c41605bfd7":[6,0,111,101]
+"d4/dd9/structAchievementCriteriaEntry.html#a387eb4a669fcd4838921e07b2e8f7df9":[6,0,111,74]
 };

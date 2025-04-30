@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab47d5f6ee562f1bf86004ad5bdd12973":[7,0,0,0,1,2,48,5,0,77],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8":[7,0,0,0,1,2,48,5,0,392],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab570ffe87e73a45b7f284d21caaab61a":[7,0,0,0,1,2,48,5,0,508],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab60deaa76fed2e9ceae02ee00562473d":[7,0,0,0,1,2,48,5,0,234],
@@ -225,11 +226,11 @@ var NAVTREEINDEX98 =
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,4,4,0,3,22],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefaf7eb173124f0544f46b73f8f3283c":[7,0,0,0,1,3,4,4,0,3,12],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af147d22ea700cc3c2dbe3b535ddc83e2":[7,0,0,0,1,3,4,4,0,3,19],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html":[6,0,2636],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a1e62c60bfc2b72811950b627ce1202c3":[6,0,2636,1],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a30ec063aa1ddbc3a32066e1f868bf742":[6,0,2636,0],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a3f98767367564734c9877d1870aac31b":[6,0,2636,2],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a450460769e0e54e06f1b64b3c63ba0de":[6,0,2636,3],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html":[6,0,2635],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a1e62c60bfc2b72811950b627ce1202c3":[6,0,2635,1],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a30ec063aa1ddbc3a32066e1f868bf742":[6,0,2635,0],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a3f98767367564734c9877d1870aac31b":[6,0,2635,2],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a450460769e0e54e06f1b64b3c63ba0de":[6,0,2635,3],
 "d3/d4b/classboss__eregos.html":[6,0,444],
 "d3/d4b/classboss__eregos.html#a105820f29aa1391d77a56e024c4b5637":[6,0,444,1],
 "d3/d4b/classboss__eregos.html#aee43f0dfee70ab9618c560a27504cb02":[6,0,444,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d4b/structboss__archimonde.html#aa2ec2fcd92ed81f76fb238af9dbad53e":[6,0,382,14],
 "d3/d4b/structboss__archimonde.html#aac09090d17c336e9935cfce7ff1c8d60":[6,0,382,3],
 "d3/d4b/structboss__archimonde.html#aba420f926ccdfc6feeb16a0e6d67267f":[6,0,382,1],
-"d3/d4b/structboss__archimonde.html#ad967688caad8a6c7530bfd4709aecb06":[6,0,382,13],
-"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html":[6,0,1731,0]
+"d3/d4b/structboss__archimonde.html#ad967688caad8a6c7530bfd4709aecb06":[6,0,382,13]
 };

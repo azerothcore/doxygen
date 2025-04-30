@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dd5/classCreature.html#a36b671a228efe99b408725ff67485be8":[6,0,907,280],
 "db/dd5/classCreature.html#a377db81f5f6922aae4a4c3fcac603be2":[6,0,907,209],
 "db/dd5/classCreature.html#a38727e1fc7443d11afa6e37598e932ea":[6,0,907,298],
 "db/dd5/classCreature.html#a387cceb07a0dae6ad447de68f2bb67c6":[6,0,907,204],
@@ -237,17 +238,16 @@ var NAVTREEINDEX290 =
 "db/dd5/classCreature.html#afc3f5dc6dafd08d43819ac6759438495":[6,0,907,264],
 "db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[6,0,907,234],
 "db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[6,0,907,289],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html":[6,0,2753],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2753,1],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2753,2],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2753,0],
+"db/dd5/classspell__dk__improved__blood__presence__proc.html":[6,0,2752],
+"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2752,1],
+"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2752,2],
+"db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2752,0],
 "db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3355],
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3355,2],
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3355,0],
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3355,1],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1643,0],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1643,0,10],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1643,0,1],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[6,0,1643,0,11],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[6,0,1643,0,4]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1642,0],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1642,0,10],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1642,0,1],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[6,0,1642,0,11]
 };

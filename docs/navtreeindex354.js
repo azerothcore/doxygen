@@ -1,5 +1,7 @@
 var NAVTREEINDEX354 =
 {
+"de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[7,0,0,0,1,2,41,9,45],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[7,0,0,0,1,2,41,9,57],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[7,0,0,0,1,2,41,9,57,1],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[7,0,0,0,1,2,41,9,57,0],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[7,0,0,0,1,2,41,9,57,2],
@@ -230,13 +232,13 @@ var NAVTREEINDEX354 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ae97d05afd1cb4b8d665ad3361a517781":[6,0,1288,0,1],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#af768b50e85b799d35844b173d94e578d":[6,0,1288,0,22],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aff8e5df41dd304df32a6ad3ac185b672":[6,0,1288,0,14],
-"de/d33/structnpc__healing__ward.html":[6,0,1827],
-"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1827,5],
-"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[6,0,1827,0],
-"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[6,0,1827,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1827,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1827,2],
-"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1827,3],
+"de/d33/structnpc__healing__ward.html":[6,0,1826],
+"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1826,5],
+"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[6,0,1826,0],
+"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[6,0,1826,1],
+"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1826,4],
+"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1826,2],
+"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1826,3],
 "de/d34/classspell__gordunni__trap.html":[6,0,3016],
 "de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3016,2],
 "de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3016,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX354 =
 "de/d34/structBroadcastText.html#a101f8fcc99c6badc2a7b05a9f18aa0f5":[6,0,818,3],
 "de/d34/structBroadcastText.html#a12594a2bbd643a1968726db708a35b79":[6,0,818,11],
 "de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59":[6,0,818,9],
-"de/d34/structBroadcastText.html#a2c7c03c32d8fe589507b575fc5c2138f":[6,0,818,8],
-"de/d34/structBroadcastText.html#a35ea9cc4ebd2680988e610f344086c86":[6,0,818,12],
-"de/d34/structBroadcastText.html#a5002c01e04536db717167eb7d0f4c5ec":[6,0,818,1]
+"de/d34/structBroadcastText.html#a2c7c03c32d8fe589507b575fc5c2138f":[6,0,818,8]
 };

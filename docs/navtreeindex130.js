@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fa683accf87c129387583d52f8982865ad":[7,0,0,0,1,3,5,2,1,1,50,3],
 "d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fa7fc45240417f51b439e123473323bc15":[7,0,0,0,1,3,5,2,1,1,50,5],
 "d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97faba0214eb6f3db8ed5021b7ae68263acf":[7,0,0,0,1,3,5,2,1,1,50,1],
 "d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fac677d8a501fc0336f2b1692c9aebb036":[7,0,0,0,1,3,5,2,1,1,50,0],
@@ -245,9 +246,8 @@ var NAVTREEINDEX130 =
 "d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4133,1],
 "d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4133,2],
 "d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[6,0,4133,0],
-"d4/d82/classspell__blight__worm__ingest.html":[6,0,2643],
-"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2643,1],
-"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2643,3],
-"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2643,2],
-"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2643,0]
+"d4/d82/classspell__blight__worm__ingest.html":[6,0,2642],
+"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2642,1],
+"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2642,3],
+"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2642,2]
 };
