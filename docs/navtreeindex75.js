@@ -1,12 +1,13 @@
 var NAVTREEINDEX75 =
 {
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,30,1,8],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,11,1,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[6,0,11,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,30,1,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,11,1,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,30,1,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,11,1,8,1],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,30,1,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,11,1,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[7,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,8,1,5,5],
 "d2/dd2/instance__nexus_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[7,0,0,0,1,3,5,8,1,5,4],
@@ -91,10 +92,10 @@ var NAVTREEINDEX75 =
 "d2/dd7/RegularGrid_8h.html":[7,0,0,0,0,1,8],
 "d2/dd7/RegularGrid_8h.html#a7a4127f14f16563da90eb3c836bc404f":[7,0,0,0,0,1,8,4],
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,50],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,38],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,50,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,50],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,38,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,50,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,38,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,50,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,38,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX75 =
 "d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974":[7,0,0,0,1,2,16,3,1,9,17],
 "d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076":[7,0,0,0,1,2,16,3,1,9,11],
 "d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0":[7,0,0,0,1,2,16,3,1,9,15],
-"d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372":[7,0,0,0,1,2,16,3,1,9,14],
-"d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754":[7,0,0,0,1,2,16,3,1,9,0]
+"d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372":[7,0,0,0,1,2,16,3,1,9,14]
 };

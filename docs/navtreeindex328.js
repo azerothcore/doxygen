@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/da2/classlfg_1_1LFGQueue.html#a369daddc51cd545a3d7a5724c09a0224":[5,0,18,12,12],
 "dd/da2/classlfg_1_1LFGQueue.html#a369daddc51cd545a3d7a5724c09a0224":[6,0,5,12,12],
 "dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c":[5,0,18,12,14],
 "dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c":[6,0,5,12,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/dac/pit__of__saron_8h.html#a71ae9cf4380565baa549e47a501a4f4b":[7,0,0,0,1,3,5,4,2,5,26],
 "dd/dac/pit__of__saron_8h.html#a8455901229c7a72f03bbadded76841ea":[7,0,0,0,1,3,5,4,2,5,32],
 "dd/dac/pit__of__saron_8h.html#a874c849e233a7b4e8b9e78e60ce9da77":[7,0,0,0,1,3,5,4,2,5,36],
-"dd/dac/pit__of__saron_8h.html#a8e28b51154212c3d04782d1640155301":[7,0,0,0,1,3,5,4,2,5,9],
-"dd/dac/pit__of__saron_8h.html#a8e28b51154212c3d04782d1640155301a1417358a359f3199a37e9f5456ef338a":[7,0,0,0,1,3,5,4,2,5,9,9]
+"dd/dac/pit__of__saron_8h.html#a8e28b51154212c3d04782d1640155301":[7,0,0,0,1,3,5,4,2,5,9]
 };

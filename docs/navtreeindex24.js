@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d1/d0a/boss__chromaggus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8190376feb5066c8bc45bbdcf3dd776f":[7,0,0,0,1,3,2,1,2,2,10,1],
 "d1/d0a/boss__chromaggus_8cpp.html#a5bd342133be8c2137b831460acc9298ca94e1cbffc5a57086d216c9dcc013e838":[7,0,0,0,1,3,2,1,2,2,10,2],
 "d1/d0a/boss__chromaggus_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,1,2,2,10,12],
 "d1/d0a/boss__chromaggus_8cpp.html#a5bd342133be8c2137b831460acc9298cab9e868a1f2c55647649b7b5b42d96e15":[7,0,0,0,1,3,2,1,2,2,10,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a6fd38e6d6bebfe6c33cfa0b1e2b8c0e6":[6,0,2569,99],
 "d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a":[6,0,2569,209],
 "d1/d16/classSpell.html#a70b015d3289a781f9f7097e6581cadf5":[6,0,2569,331],
-"d1/d16/classSpell.html#a70bd2bfb188b44f6a301409233e4cea5":[6,0,2569,91],
-"d1/d16/classSpell.html#a70bdee08b185f3228e0ee3e5fa2640bf":[6,0,2569,109]
+"d1/d16/classSpell.html#a70bd2bfb188b44f6a301409233e4cea5":[6,0,2569,91]
 };

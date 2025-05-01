@@ -1,5 +1,6 @@
 var NAVTREEINDEX127 =
 {
+"d4/d66/classspell__auriaya__sentinel__blast.html":[6,0,2608],
 "d4/d66/classspell__auriaya__sentinel__blast.html#a38c693dd3d8fb7e04fc1e26359f12399":[6,0,2608,0],
 "d4/d66/classspell__auriaya__sentinel__blast.html#a4e803984a3eded2736825f631786c204":[6,0,2608,2],
 "d4/d66/classspell__auriaya__sentinel__blast.html#a86c4bb91547d8ea7eebb8e4d7bfd592e":[6,0,2608,1],
@@ -167,18 +168,18 @@ var NAVTREEINDEX127 =
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
 "d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
+"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
-"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
+"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1195],
 "d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[6,0,1195,1],
 "d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[6,0,1195,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d69/structItemTemplate.html#a9df7d3bc7b80983da50428cc29a9415a":[6,0,1389,36],
 "d4/d69/structItemTemplate.html#a9f7db681c7f74725a86979ee6fc35477":[6,0,1389,19],
 "d4/d69/structItemTemplate.html#aa0a4bb79f268223589c6f9a47d17a10f":[6,0,1389,74],
-"d4/d69/structItemTemplate.html#aa1ae3db197ca23fdd00f2f056bea12f7":[6,0,1389,6],
-"d4/d69/structItemTemplate.html#aa45a4f915e4ecdd88d1646b259e13f13":[6,0,1389,30]
+"d4/d69/structItemTemplate.html#aa1ae3db197ca23fdd00f2f056bea12f7":[6,0,1389,6]
 };

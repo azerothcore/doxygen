@@ -1,5 +1,6 @@
 var NAVTREEINDEX215 =
 {
+"d8/d62/structLoot.html#ad2018513176aca0f87694c36ed47551c":[6,0,1442,16],
 "d8/d62/structLoot.html#ad6d73c9192e736f43618dbccb520e52d":[6,0,1442,40],
 "d8/d62/structLoot.html#adbad90a0f99352a0e7bbade60ffe8f57":[6,0,1442,5],
 "d8/d62/structLoot.html#ae54068e648f02a15fb56a75a882f6762":[6,0,1442,23],
@@ -72,8 +73,8 @@ var NAVTREEINDEX215 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2575,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2575,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2575,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,30,9,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,9,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,30,9,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,30,9,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,9,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,540],
@@ -248,6 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d74/classWorldSession.html#a0da185578daf661b4c1f986f7d89caf5":[4,1,19,16],
 "d8/d74/classWorldSession.html#a0db1aebe0674e458799ca993b896745b":[4,1,19,274],
 "d8/d74/classWorldSession.html#a0fa06565358c96d8f68e0f71617d07b2":[4,1,19,512],
-"d8/d74/classWorldSession.html#a0fb624285b8586c08119413dba3c5178":[4,1,19,87],
-"d8/d74/classWorldSession.html#a1019fcb665f3a3df095ad549293642f1":[4,1,19,384]
+"d8/d74/classWorldSession.html#a0fb624285b8586c08119413dba3c5178":[4,1,19,87]
 };

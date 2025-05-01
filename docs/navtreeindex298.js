@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"dc/d0f/structboss__teron__gorefiend.html#a81845f22aa383cdc57912ee9655b7bf9":[6,0,721,0],
 "dc/d0f/structboss__teron__gorefiend.html#a99c62157084373e8eddd4497360cc047":[6,0,721,8],
 "dc/d0f/structboss__teron__gorefiend.html#a9f658d42cf27a54c62a71e28b5dfadee":[6,0,721,2],
 "dc/d0f/structboss__teron__gorefiend.html#aa080c8d17bc51142c1cecadf7a0376a2":[6,0,721,1],
@@ -198,14 +199,14 @@ var NAVTREEINDEX298 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3619,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3619,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3619,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2074],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2074,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2074,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d23/classVehicle.html#a10bd5f2825fb974863a6bf67cb8e82a9":[6,0,4175,1],
 "dc/d23/classVehicle.html#a16e47819393af4335642a1e667b9582b":[6,0,4175,12],
 "dc/d23/classVehicle.html#a1b4a880c866af98a9eccc944786e3393":[6,0,4175,9],
-"dc/d23/classVehicle.html#a1c71112b0bc3488d27ec06d9bb63ea88":[6,0,4175,10],
-"dc/d23/classVehicle.html#a24de52021b3b9b6c8fd98e20fcca7607":[6,0,4175,7]
+"dc/d23/classVehicle.html#a1c71112b0bc3488d27ec06d9bb63ea88":[6,0,4175,10]
 };

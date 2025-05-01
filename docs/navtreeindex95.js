@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2":[6,0,3122,2],
 "d3/d2e/classspell__igb__below__zero.html#aff4f05a5a4742a408646000b7cece38c":[6,0,3122,1],
 "d3/d2f/classspell__sindragosa__frost__breath.html":[6,0,3773],
 "d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[6,0,3773,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78":[7,0,0,0,1,3,5,9,2,13,62,2],
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7":[7,0,0,0,1,3,5,9,2,13,62,0],
 "d3/d32/structboss__azgalor.html":[6,0,387],
-"d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,387,4],
-"d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,387,1]
+"d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,387,4]
 };

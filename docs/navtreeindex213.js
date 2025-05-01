@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d8/d45/classnpc__adventurous__dwarf.html#ab69e3e249f7075d5344ad79bf9c79b79":[6,0,1558,3],
 "d8/d45/classnpc__adventurous__dwarf.html#ac3f124fab8520a16ccd73e058a0383b1":[6,0,1558,2],
 "d8/d45/classnpc__adventurous__dwarf.html#aebb2cd209f71d8ab56a29e5bfd668def":[6,0,1558,4],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html":[6,0,592,0],
@@ -245,9 +246,8 @@ var NAVTREEINDEX213 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[6,0,1929,0,5],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1929,0,3],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1929,0,6],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,62],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,74],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,62],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,62,2],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,74,2],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,74,1]
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,74,2]
 };

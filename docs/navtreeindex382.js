@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d6c/structB64Impl.html":[6,0,296],
 "df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,296,4],
 "df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,296,2],
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,296,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab":[7,0,0,0,1,2,26,3,13,4],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d":[7,0,0,0,1,2,26,3,13,0],
 "df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870d":[7,0,0,0,1,2,26,3,14],
-"df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2":[7,0,0,0,1,2,26,3,14,0],
-"df/d79/Map_8h.html#aa1d1667bce2cfb0f4337b52f9754cb73":[7,0,0,0,1,2,26,3,10]
+"df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2":[7,0,0,0,1,2,26,3,14,0]
 };

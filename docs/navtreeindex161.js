@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/classObjectMgr.html#a64dd8e2afdd1e1ebf0f7902f94ad04e6":[6,0,2313,109],
 "d5/dfb/classObjectMgr.html#a6555d4ee6bb86a8686ba789492e2840f":[6,0,2313,60],
 "d5/dfb/classObjectMgr.html#a6743d8ef4f2df6332c64a56146ba7f33":[6,0,2313,47],
 "d5/dfb/classObjectMgr.html#a675551bd7ee7d70f578f19725135189a":[6,0,2313,327],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[6,0,2664,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[6,0,2664,3],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[6,0,1718,0],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[6,0,1718,0,7],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a1035eb0a1696730d8304593b5fb079e4":[6,0,1718,0,6]
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[6,0,1718,0,7]
 };

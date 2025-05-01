@@ -1,5 +1,6 @@
 var NAVTREEINDEX41 =
 {
+"d1/dba/classspell__rog__nerves__of__steel.html#a22b175a7a07f950b5be1aad60e096e4f":[6,0,3691,0],
 "d1/dba/classspell__rog__nerves__of__steel.html#a31d7ca52ace4e22652403292969baf55":[6,0,3691,5],
 "d1/dba/classspell__rog__nerves__of__steel.html#a656f4770b0f7099f5926a8063f7d740c":[6,0,3691,4],
 "d1/dba/classspell__rog__nerves__of__steel.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6":[6,0,3691,1],
@@ -7,14 +8,14 @@ var NAVTREEINDEX41 =
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3691,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,54],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,42],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,54,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,42,3],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,54,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,1,54,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,42,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,42,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,54,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,54,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,42,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -198,8 +199,8 @@ var NAVTREEINDEX41 =
 "d1/dc1/DatabaseLoader_8cpp.html":[7,0,0,0,1,1,0,6],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,1,91],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[6,0,0,79],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,91,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,79,3],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,91,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[6,0,0,79,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,1,91,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,1,91,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX41 =
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca3ee970cd2f6c68abc35087df5f149c95":[7,0,0,0,1,2,3,2,5,30,4],
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca4dc35037d5ceb06a2064114b2bc7d732":[7,0,0,0,1,2,3,2,5,30,1],
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca52fae1e14e21012585d4e21b0cc30918":[7,0,0,0,1,2,3,2,5,30,2],
-"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca6ca0f69a045f86fcdcb32e0c7e6422da":[7,0,0,0,1,2,3,2,5,30,6],
-"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca768e0bcea4a3fa6727381e1188d82341":[7,0,0,0,1,2,3,2,5,30,7]
+"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca6ca0f69a045f86fcdcb32e0c7e6422da":[7,0,0,0,1,2,3,2,5,30,6]
 };

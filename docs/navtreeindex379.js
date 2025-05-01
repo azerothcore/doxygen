@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae5a7e9823730ded6d1aac3452b43cecf":[7,0,0,0,1,3,4,9,4,4,9],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caed9fc0fbefab4b80af22e388eee0df4e":[7,0,0,0,1,3,4,9,4,4,12],
 "df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9":[7,0,0,0,1,3,4,9,4,5],
 "df/d3a/VMapFactory_8h.html":[7,0,0,0,0,1,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d48/classspell__shield__generator__aura.html#a16c2e931950102fc0ae5c88ef14587c1":[6,0,3766,0],
 "df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[6,0,3766,4],
 "df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[6,0,3766,1],
-"df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[6,0,3766,3],
-"df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[6,0,3766,2]
+"df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[6,0,3766,3]
 };

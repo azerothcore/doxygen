@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d9f/classboss__magmadar.html#a650d28d798042a2356dffaa357516504":[6,0,599,2],
 "d0/da0/IPLocation_8h.html":[7,0,0,0,0,8,1],
 "d0/da0/IPLocation_8h.html#a85e62bd98f395189fea9c9514d44fc31":[7,0,0,0,0,8,1,2],
 "d0/da0/classspell__item__worn__troll__dice.html":[6,0,3290],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/dae/classItem.html#a345485448a4b18c8ef2e8805f16ce458":[6,0,1366,45],
 "d0/dae/classItem.html#a35aa999159bbf5ff38875af23904db7c":[6,0,1366,35],
 "d0/dae/classItem.html#a38ffe8af23428d5b80f7aa8103197efb":[6,0,1366,36],
-"d0/dae/classItem.html#a39966f26aa490ad8957aad727105885e":[6,0,1366,79],
-"d0/dae/classItem.html#a39a8a22a675450493c7798786ed456ae":[6,0,1366,9]
+"d0/dae/classItem.html#a39966f26aa490ad8957aad727105885e":[6,0,1366,79]
 };

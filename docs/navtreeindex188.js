@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#acb7b45fbe3a736ad65b0a2556ead40ae":[6,0,580,0,8],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#adcca5f21a596ffae3c50f102c4698c4e":[6,0,580,0,1],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ae37227df78ad9ffb9722caa0c16ffa5f":[6,0,580,0,9],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#afff556f4bc00b87b3d2a37ffbf54c919":[6,0,580,0,4],
@@ -81,10 +82,10 @@ var NAVTREEINDEX188 =
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[6,0,11,4,0],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[6,0,11,4,0,6],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[5,0,30,4,0,6],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[6,0,11,4,0,3],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[5,0,30,4,0,3],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[6,0,11,4,0,2],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[6,0,11,4,0,3],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[5,0,30,4,0,2],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[6,0,11,4,0,2],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a51df177d9ce6a8459bc8fa41f80cdb7a":[5,0,30,4,0,5],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a51df177d9ce6a8459bc8fa41f80cdb7a":[6,0,11,4,0,5],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#ab4311f6516d9b7491abf5cb2ba9a0ee0":[6,0,11,4,0,0],
@@ -101,10 +102,10 @@ var NAVTREEINDEX188 =
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a21b42f1654aa10f7872d87635fea66ac":[5,0,30,5,34,4],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[6,0,11,5,34,0],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a256cb81ad2e08050be99c9e1061c2009":[5,0,30,5,34,0],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[6,0,11,5,34,1],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[5,0,30,5,34,1],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[6,0,11,5,34,5],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a3222d0018c9593400d3d01258b82371e":[6,0,11,5,34,1],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[5,0,30,5,34,5],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[6,0,11,5,34,5],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#ad8efc926197e955ed0cf8df6a74b41e8":[5,0,30,5,34,3],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#ad8efc926197e955ed0cf8df6a74b41e8":[6,0,11,5,34,3],
 "d7/d42/classnpc__ulduar__hodir__druid.html":[6,0,2217],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d46/classAuraEffect.html#a7778b120e414f28e95e71ce96660149e":[6,0,281,2],
 "d7/d46/classAuraEffect.html#a7d45367044e196745676c63d61fbd89d":[6,0,281,198],
 "d7/d46/classAuraEffect.html#a7e98eced29d22a033eda88c17bc75ac5":[6,0,281,158],
-"d7/d46/classAuraEffect.html#a7f01908f09b465b6770f18c13e459f17":[6,0,281,216],
-"d7/d46/classAuraEffect.html#a80ab74fb057cffbba01f0b5bd038ccf2":[6,0,281,214]
+"d7/d46/classAuraEffect.html#a7f01908f09b465b6770f18c13e459f17":[6,0,281,216]
 };

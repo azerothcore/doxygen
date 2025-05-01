@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6daa8b0a394b51c518baed10676a2c932e3":[7,0,0,0,1,3,5,10,1,1,7,1],
 "d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6dac254831385f10a22ed7b3cc98e8ac925":[7,0,0,0,1,3,5,10,1,1,7,4],
 "d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6dacdfd220f36379c80b4caa3d4a1b4ba0f":[7,0,0,0,1,3,5,10,1,1,7,3],
 "d6/dd9/boss__skadi_8cpp.html#a9a5ca50ec0b8e6ff74c191f798afbcaa":[7,0,0,0,1,3,5,10,1,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/deb/structnpc__blade__of__azzinoth.html":[6,0,1640],
 "d6/deb/structnpc__blade__of__azzinoth.html#a501e2d1ae9af813fd9c30395e7774983":[6,0,1640,3],
 "d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[6,0,1640,0],
-"d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[6,0,1640,1],
-"d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1640,2]
+"d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[6,0,1640,1]
 };

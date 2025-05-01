@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/dc4/structboss__epoch_1_1boss__epochAI.html#a2986db39b7db92b1fa9d64cef5f8c08b":[6,0,441,0,0],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a478113af1ce565c729604c6039f55551":[6,0,441,0,8],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a651b11c4cc5f92881b4dd5b7f22c9d85":[6,0,441,0,6],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a780aa5bc86c80aaeeffad441b2873121":[6,0,441,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2379d1f49e5653b186c8c56a5942bc81":[7,0,0,0,1,2,38,0,75,1,168],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a24141bf360bf13fe839b1c248670b885":[7,0,0,0,1,2,38,0,75,1,82],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a244367339ab9b82bc0f25464125b6dc4":[7,0,0,0,1,2,38,0,75,1,74],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[7,0,0,0,1,2,38,0,75,1,39],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a27f71468300c58dc100ab0150ff2a743":[7,0,0,0,1,2,38,0,75,1,92]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[7,0,0,0,1,2,38,0,75,1,39]
 };

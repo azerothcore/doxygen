@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dd5/classCreature.html#a35ac9da6ab2ade67fbcfab3f325e84e8":[6,0,907,219],
 "db/dd5/classCreature.html#a36b671a228efe99b408725ff67485be8":[6,0,907,280],
 "db/dd5/classCreature.html#a377db81f5f6922aae4a4c3fcac603be2":[6,0,907,209],
 "db/dd5/classCreature.html#a38727e1fc7443d11afa6e37598e932ea":[6,0,907,298],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3355,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1642,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1642,0,10],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1642,0,1],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[6,0,1642,0,11]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1642,0,1]
 };

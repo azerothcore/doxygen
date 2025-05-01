@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a254a550649a8f806f98d6eb90f593b54":[6,0,1321,0,16],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a3a6aa2cc867de4842b10632ea761fb1e":[6,0,1321,0,8],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a4a9acbb13d81d88674b62aa49ac8a2e3":[6,0,1321,0,9],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a52168c9369fe1e691378577ea700115c":[6,0,1321,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0":[7,0,0,0,1,3,5,1,1,3,5,2],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7910555249cc48782b7fe6acc4d0a6c4":[7,0,0,0,1,3,5,1,1,3,5,3],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,5,1,1,3,5,1],
-"dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afd0c1c48651ed449fee15e3fd1d45cc8":[7,0,0,0,1,3,5,1,1,3,5,0],
-"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,1,3,6]
+"dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afd0c1c48651ed449fee15e3fd1d45cc8":[7,0,0,0,1,3,5,1,1,3,5,0]
 };

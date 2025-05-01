@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d35/BattlegroundAB_8h.html#a57b60dbaa9b05ef4b896e2b8ffebf130ae8f3a516a978e5c6f67b40db96ccb8ce":[7,0,0,0,1,2,8,1,1,8,3],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435f":[7,0,0,0,1,2,8,1,1,6],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa05ab1d3dfa7aca56f38869c7add7d8c6":[7,0,0,0,1,2,8,1,1,6,4],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa2e4e8add94027de8044faddefb510479":[7,0,0,0,1,2,8,1,1,6,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d3b/classspell__pal__divine__storm.html#a33b4d26c34903e45b7274e369f096ce1":[6,0,3474,5],
 "d2/d3b/classspell__pal__divine__storm.html#a5f53a97e97f7959c51e1b5947f7c4418":[6,0,3474,4],
 "d2/d3b/classspell__pal__divine__storm.html#a7a082f577937bf9f794bfb21bbc416f1":[6,0,3474,1],
-"d2/d3b/classspell__pal__divine__storm.html#a7b8f209bff9c2f1dff96f3d90c66cad4":[6,0,3474,2],
-"d2/d3b/classspell__pal__divine__storm.html#acad9295c5c6b46bd969a4fb528a8ec25":[6,0,3474,3]
+"d2/d3b/classspell__pal__divine__storm.html#a7b8f209bff9c2f1dff96f3d90c66cad4":[6,0,3474,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520":[7,0,0,0,1,3,6,8,4,2],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad":[7,0,0,0,1,3,6,8,4,0],
 "df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80b":[7,0,0,0,1,3,6,8,5],
 "df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f":[7,0,0,0,1,3,6,8,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/da1/boss__black__knight_8cpp.html#a88192aa851220cbd1965ba7901914c7e":[7,0,0,0,1,3,5,2,0,1,15],
 "df/da1/boss__black__knight_8cpp.html#ac4c4dfdfde724ad8fc96ffa6df45604e":[7,0,0,0,1,3,5,2,0,1,9],
 "df/da1/boss__black__knight_8cpp.html#acf825a1f1838dfd9b5f1315f8196d795":[7,0,0,0,1,3,5,2,0,1,12],
-"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f":[7,0,0,0,1,3,5,2,0,1,17],
-"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa4c711c46840b6af1875c063444a25d2e":[7,0,0,0,1,3,5,2,0,1,17,0]
+"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f":[7,0,0,0,1,3,5,2,0,1,17]
 };

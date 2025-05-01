@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a86b709bc23467f0c802ee5bc7f768173ac6b6d9e58e442d430c4e5c8453cb7348":[7,0,0,0,1,3,10,3,29,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a9e63deeb51ce482c5073c4c0d8200bfe":[7,0,0,0,1,3,10,3,27],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a9e63deeb51ce482c5073c4c0d8200bfea1fe8262d3c21ef3dcb5706648434c58c":[7,0,0,0,1,3,10,3,27,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa4158e1173562b8114a7b7b34ee3e6eb":[7,0,0,0,1,3,10,3,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d9a/classnpc__gothik__trigger.html":[6,0,1805],
 "d2/d9a/classnpc__gothik__trigger.html#a6975122d49b0d76fb2b33b310a7ccb71":[6,0,1805,1],
 "d2/d9a/classnpc__gothik__trigger.html#a9b3b47e95d2c41c109a9ccd3915b89ff":[6,0,1805,2],
-"d2/d9a/structboss__fathomguard__sharkkis.html":[6,0,458],
-"d2/d9a/structboss__fathomguard__sharkkis.html#a1a4fdf91f6d8d0e3e0672e174152a59d":[6,0,458,2]
+"d2/d9a/structboss__fathomguard__sharkkis.html":[6,0,458]
 };

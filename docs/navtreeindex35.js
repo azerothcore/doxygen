@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html#a47f8a133b6f8c0de11a66b712bb8e266":[6,0,706,0,4],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html#a7a8a5d3c453e29ec746422e1ba8e4d34":[6,0,706,0,2],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html#aa1fca22d30b15ee93cc02084ebab0c2c":[6,0,706,0,1],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html#ac5f908584251455c720ce3f25ed07dae":[6,0,706,0,6],
@@ -226,10 +227,10 @@ var NAVTREEINDEX35 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[6,0,1358,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[6,0,1358,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1358,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,35],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[6,0,35,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[6,0,35,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d81/classboss__yoggsaron__neltharion.html#abce5f59c35f7af3e1d5b30cc55ff48e6":[6,0,799,2],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html":[6,0,1975,0],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#a4491965d9c08ed1d888cad6f7b06352d":[6,0,1975,0,3],
-"d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#a64fa2c8276f7418542190e833dd72c51":[6,0,1975,0,4],
-"d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#a7673709e7b16a6573d9c7392ba556313":[6,0,1975,0,0]
+"d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#a64fa2c8276f7418542190e833dd72c51":[6,0,1975,0,4]
 };

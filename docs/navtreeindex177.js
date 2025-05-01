@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7":[7,0,0,0,1,2,16,6,2,9],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a07349db70c3ae7222953ed7d5a4cef6e":[7,0,0,0,1,2,16,6,2,9,7],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a0745806e3e5415455fa3afa861d8bba3":[7,0,0,0,1,2,16,6,2,9,40],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a0a80e1e5e59ea98d4f2479a9c77abc38":[7,0,0,0,1,2,16,6,2,9,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/dac/classspell__gruul__shatter.html#a534bf39998813f06c48bc920e4666692":[6,0,3022,0],
 "d6/dac/classspell__gruul__shatter.html#a5892f20a0704596cb70a995a73846368":[6,0,3022,1],
 "d6/dac/classspell__gruul__shatter.html#af618314a13013eaf9f36b30047de0878":[6,0,3022,3],
-"d6/dac/structM2SplineKey.html":[6,0,1456],
-"d6/dac/structM2SplineKey.html#a40d46738768d6c2037e5978ce32a9fb8":[6,0,1456,2]
+"d6/dac/structM2SplineKey.html":[6,0,1456]
 };

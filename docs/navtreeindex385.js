@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,20,7,6],
 "df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,7,6],
 "df/d8e/classspell__mage__burnout__trigger.html":[6,0,3361],
 "df/d8e/classspell__mage__burnout__trigger.html#a1f83fae2fb3dc0904ed56101e1254f5f":[6,0,3361,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f":[7,0,0,0,1,3,6,8,4,10],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf":[7,0,0,0,1,3,6,8,4,9],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c":[7,0,0,0,1,3,6,8,4,3],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7":[7,0,0,0,1,3,6,8,4,12],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520":[7,0,0,0,1,3,6,8,4,2]
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7":[7,0,0,0,1,3,6,8,4,12]
 };

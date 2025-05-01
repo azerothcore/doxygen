@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27ab39ff7e0d62e002306b72add24774201":[7,0,0,0,1,2,16,10,5,51,3],
 "d1/daf/Unit_8h.html#abd60910b52e9fd2a0b8f4b030183f02c":[7,0,0,0,1,2,16,10,5,53],
 "d1/daf/Unit_8h.html#abd60910b52e9fd2a0b8f4b030183f02ca9f0b169d4598df6b4325177393e01b9c":[7,0,0,0,1,2,16,10,5,53,0],
 "d1/daf/Unit_8h.html#abd60910b52e9fd2a0b8f4b030183f02cae0760d67b3b4ae87e8f3f00540ed5fc5":[7,0,0,0,1,2,16,10,5,53,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dba/classspell__ragin__flames__inferno.html#a0838d4449351f46a1f9f485abaf35c2b":[6,0,3665,0],
 "d1/dba/classspell__ragin__flames__inferno.html#a438425f3002028a0978e0dbab580ca03":[6,0,3665,1],
 "d1/dba/classspell__ragin__flames__inferno.html#af4b26607e8838b7bbbe8777f57601341":[6,0,3665,2],
-"d1/dba/classspell__rog__nerves__of__steel.html":[6,0,3691],
-"d1/dba/classspell__rog__nerves__of__steel.html#a22b175a7a07f950b5be1aad60e096e4f":[6,0,3691,0]
+"d1/dba/classspell__rog__nerves__of__steel.html":[6,0,3691]
 };

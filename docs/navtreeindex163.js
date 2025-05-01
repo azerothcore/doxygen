@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a6f0453babfa84764467970369894eb97":[6,0,597,0,8],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a78385da6845ce8e3075616c24696d0cc":[6,0,597,0,7],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a7ea3de40dfd638db7e34c523a0461335":[6,0,597,0,10],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a957bd38232c020611fc24dd8a6e55640":[6,0,597,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d11/magisters__terrace_8h.html#a772413d8818d681e2261c99f58e1268c":[7,0,0,0,1,3,2,5,5,1],
 "d6/d11/magisters__terrace_8h.html#a98b0f0ed8e23c5a3936ff695705d37e9":[7,0,0,0,1,3,2,5,5,3],
 "d6/d11/magisters__terrace_8h.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940":[7,0,0,0,1,3,2,5,5,3,0],
-"d6/d11/magisters__terrace_8h.html#ab51342a4a8f5976e51b0074f9a5746f8":[7,0,0,0,1,3,2,5,5,4],
-"d6/d11/magisters__terrace_8h.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283":[7,0,0,0,1,3,2,5,5,4,0]
+"d6/d11/magisters__terrace_8h.html#ab51342a4a8f5976e51b0074f9a5746f8":[7,0,0,0,1,3,2,5,5,4]
 };

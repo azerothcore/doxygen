@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[6,0,0,26,6],
 "d8/dbd/structnpc__netherspite__infernal.html":[6,0,1977],
 "d8/dbd/structnpc__netherspite__infernal.html#a49c37fbebed2951c493962c1a3bd0339":[6,0,1977,3],
 "d8/dbd/structnpc__netherspite__infernal.html#a575040456c0eb4d343e7c0c5f75159b4":[6,0,1977,6],
@@ -183,8 +184,8 @@ var NAVTREEINDEX223 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[7,0,0,0,1,3,2,15,1,4,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,1,88],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[6,0,0,76],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[6,0,0,76,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,1,88,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[6,0,0,76,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,1,88,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,76,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,1,88,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dc9/BattlegroundSpamProtect_8h.html":[7,0,0,0,1,2,8,17],
 "d8/dc9/BattlegroundSpamProtect_8h.html#ae37d7994736d43484a627d5de2af5fc1":[7,0,0,0,1,2,8,17,1],
 "d8/dca/classspell__nether__portal__perseverence.html":[6,0,3440],
-"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3440,2],
-"d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3440,0]
+"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3440,2]
 };

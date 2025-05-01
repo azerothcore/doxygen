@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d1/da0/classnpc__pos__freed__slave.html":[6,0,2033],
 "d1/da0/classnpc__pos__freed__slave.html#a19fd79279646cb1c49c04056636615fc":[6,0,2033,1],
 "d1/da0/classnpc__pos__freed__slave.html#ac798c2584d48892162cc2bc779701e16":[6,0,2033,2],
 "d1/da1/Field_8cpp.html":[7,0,0,0,1,1,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/dac/structboss__lord__marrowgar.html#aa19fdc486c0c9cca1033e0747d631a7e":[6,0,594,11],
 "d1/dac/structboss__lord__marrowgar.html#aaf8ca2baf4c68ea64d4c163ede7813c8":[6,0,594,14],
 "d1/dac/structboss__lord__marrowgar.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a":[6,0,594,7],
-"d1/dac/structboss__lord__marrowgar.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab":[6,0,594,0],
-"d1/dac/structboss__lord__marrowgar.html#abba7e15c065a80677fc88a6dafa8ecfd":[6,0,594,8]
+"d1/dac/structboss__lord__marrowgar.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab":[6,0,594,0]
 };

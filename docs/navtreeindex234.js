@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d9/d5d/structboss__najentus.html#ad55e1de3aa7a636b3d30b0d61a17dab9":[6,0,630,3],
 "d9/d5d/structboss__najentus.html#afee32dd32033c7a45068ce12e961797c":[6,0,630,1],
 "d9/d5e/structnpc__stolen__soul.html":[6,0,2129],
 "d9/d5e/structnpc__stolen__soul.html#a7bf369dd943ee36600a364d56b85db5a":[6,0,2129,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d65/structnpc__vilebranch__speaker.html#a248195a137cb91f10a882ec12974c7c5":[6,0,2258,3],
 "d9/d65/structnpc__vilebranch__speaker.html#a75f263fa9241319b58bf77cbf1b75088":[6,0,2258,4],
 "d9/d65/structnpc__vilebranch__speaker.html#a88fb28d2c39f0da967ab6706872e68b2":[6,0,2258,6],
-"d9/d65/structnpc__vilebranch__speaker.html#aa7708f176879db3acd50399b74e4a90c":[6,0,2258,1],
-"d9/d65/structnpc__vilebranch__speaker.html#abd52bbd2ce88b011176d93ae92b851d0":[6,0,2258,5]
+"d9/d65/structnpc__vilebranch__speaker.html#aa7708f176879db3acd50399b74e4a90c":[6,0,2258,1]
 };

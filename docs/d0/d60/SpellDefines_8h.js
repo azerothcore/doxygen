@@ -51,7 +51,8 @@ var SpellDefines_8h =
       [ "SPELL_INTERRUPT_FLAG_PUSH_BACK", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a47493934a746ad920a660629b612a4d6", null ],
       [ "SPELL_INTERRUPT_FLAG_UNK3", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a", null ],
       [ "SPELL_INTERRUPT_FLAG_INTERRUPT", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb", null ],
-      [ "SPELL_INTERRUPT_FLAG_ABORT_ON_DMG", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914", null ]
+      [ "SPELL_INTERRUPT_FLAG_ABORT_ON_DMG", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914", null ],
+      [ "SPELL_INTERRUPT_UNK", "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7", null ]
     ] ],
     [ "SpellModOp", "d0/d60/SpellDefines_8h.html#a39b60e1f12cca9b6873cb817e7717351", [
       [ "SPELLMOD_DAMAGE", "d0/d60/SpellDefines_8h.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3", null ],

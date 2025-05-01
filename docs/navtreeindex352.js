@@ -1,5 +1,6 @@
 var NAVTREEINDEX352 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,27,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX352 =
 "de/d28/classboss__thorim__gauntlet__npcs.html#a2a71153ed2a9091de6668ab0b6f7674f":[6,0,734,2],
 "de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,734,1],
 "de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3509],
-"de/d28/classspell__pos__slave__trigger__closest.html#a7594952f23cba22b886c2c3b10f363d4":[6,0,3509,2],
-"de/d28/classspell__pos__slave__trigger__closest.html#ab79a160e0d5b0c6e0ecfa842a4da2819":[6,0,3509,1]
+"de/d28/classspell__pos__slave__trigger__closest.html#a7594952f23cba22b886c2c3b10f363d4":[6,0,3509,2]
 };

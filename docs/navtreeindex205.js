@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/dcf/structboss__vazruden.html":[6,0,757],
 "d7/dcf/structboss__vazruden.html#a11b5091dafe2f0de9afd81de7b6fde90":[6,0,757,6],
 "d7/dcf/structboss__vazruden.html#a44b1e4d43bbf0d7faec7f4ee277db811":[6,0,757,1],
 "d7/dcf/structboss__vazruden.html#a44d53934c743e9beb539681719997852":[6,0,757,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/de7/classTriggerWickedSpirit.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d":[6,0,4143,1],
 "d7/de7/classTriggerWickedSpirit.html#ab460675158bfedd7f17a4b8e1cc06b3c":[6,0,4143,3],
 "d7/de7/classTriggerWickedSpirit.html#ace62bc037a2bd8ca9c9c56202eb811e7":[6,0,4143,0],
-"d7/de7/classspell__warr__last__stand.html":[6,0,3964],
-"d7/de7/classspell__warr__last__stand.html#a0eae8fe2faee05bad7a34e84dddd3317":[6,0,3964,0]
+"d7/de7/classspell__warr__last__stand.html":[6,0,3964]
 };

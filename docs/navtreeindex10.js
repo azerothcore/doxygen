@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7e/structRealm.html#ab0ccda7e7a58eee0965261767f3ee2ee":[6,0,2468,5],
 "d0/d7e/structRealm.html#af77452a4cf7f632d692079615af4737c":[6,0,2468,12],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html":[6,0,702,0],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#a11c732dff2d71bce71c0077e1bda57cf":[6,0,702,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d84/classspell__novos__despawn__crystal__handler.html#aac26002ff107e609fb7258306b430f1b":[6,0,3443,1],
 "d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html":[6,0,2120,0],
 "d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab173cd8b623fcf8c36406155c91bc4db":[6,0,2120,0,0],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab6b39190d1195915ea0b4b191d864da6":[6,0,2120,0,2],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ad2dd22651470f47e7a7ba6f687ba54e9":[6,0,2120,0,1]
+"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab6b39190d1195915ea0b4b191d864da6":[6,0,2120,0,2]
 };

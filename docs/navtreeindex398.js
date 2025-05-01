@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac1d12eb9e0fb26e5c743901404bb24a2":[7,0,0,0,1,3,5,6,1,20,6],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac915f0a08ee700a9f4755dc82d6dcbcf":[7,0,0,0,1,3,5,6,1,20,4],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad036e5be3774c27480a351d13f0ce472":[7,0,0,0,1,3,5,6,1,20,2],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,6,1,20,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "dir_5ee14a0f6ab8ad29bd27b6821baacc69.html":[7,0,0,0,1,3,4],
 "dir_5fdc2693698a18fac3a7c6f976e80e80.html":[7,0,0,0,1,3,5,2,1],
 "dir_5febca738accb9adac72053a7a9a3335.html":[7,0,0,0,1,3,7,2,0],
-"dir_60ed2afa8a19128e40edbea865b237a1.html":[7,0,0,0,1,3,4,11],
-"dir_6113d9d9930adc0ab9dd36cb7d5aa748.html":[7,0,0,0,1,3,5,1,0]
+"dir_60ed2afa8a19128e40edbea865b237a1.html":[7,0,0,0,1,3,4,11]
 };

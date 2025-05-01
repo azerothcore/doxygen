@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d81/VMapMgr2_8cpp.html":[7,0,0,0,0,1,0,8],
 "d8/d81/classspell__q12987__read__pronouncement.html":[6,0,3642],
 "d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[6,0,3642,0],
 "d8/d81/classspell__q12987__read__pronouncement.html#a8c09775f642335252c6e548900dc9d3a":[6,0,3642,2],
@@ -180,10 +181,10 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4172,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,5,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,30,5,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,30,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,5,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,30,5,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,30,5,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,5,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,567],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,567,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,567,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d8d/structboss__lady__malande.html#ad5cf6e7b0000c7f96d8606088fb13d31":[6,0,585,1],
 "d8/d8d/structboss__lady__malande.html#af4b5f376e387851e15517de03636acde":[6,0,585,2],
 "d8/d8e/classHookList.html":[6,0,1261],
-"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[6,0,1261,5],
-"d8/d8e/classHookList.html#a2d6f26f422402c3dcc0e026587201f9e":[6,0,1261,0]
+"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[6,0,1261,5]
 };

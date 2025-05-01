@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"da/df9/classDynamicVisibilityMgr.html#a35ebd0fcbdec8a3287f714cbe9becbcc":[6,0,997,4],
 "da/df9/classDynamicVisibilityMgr.html#a58687646bbf83723e8ad2925ee50452c":[6,0,997,1],
 "da/df9/classDynamicVisibilityMgr.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6":[6,0,997,0],
 "da/df9/classDynamicVisibilityMgr.html#aa95443d7050249a44cad2f16fa0026e5":[6,0,997,3],
@@ -96,14 +97,14 @@ var NAVTREEINDEX270 =
 "db/d02/zone__felwood_8cpp.html#aed16a0d3c0f5042443d68996e30f15bd":[7,0,0,0,1,3,4,22,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,90],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,102],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,90,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,102,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,90,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,102,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,90,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,90,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,102,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,102,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,90,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,102,3],
 "db/d03/classboss__sartharion.html":[6,0,681],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,681,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,681,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d0c/classspell__blood__council__shadow__prison__damage.html#affe1d9a5e9c4776d1651fdb95283caf4":[6,0,2644,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html":[6,0,2991],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a12f4c4a85f19ceb55d274428cf2b25a4":[6,0,2991,0],
-"db/d0c/classspell__gen__spirit__of__competition__winner.html#a437a018fd6917bee51bdbba7cf29e53d":[6,0,2991,3],
-"db/d0c/classspell__gen__spirit__of__competition__winner.html#a5a2c59463a0546b6f5cd375b3671b86b":[6,0,2991,2]
+"db/d0c/classspell__gen__spirit__of__competition__winner.html#a437a018fd6917bee51bdbba7cf29e53d":[6,0,2991,3]
 };

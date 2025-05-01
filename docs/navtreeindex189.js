@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d7/d46/classAuraEffect.html#a80ab74fb057cffbba01f0b5bd038ccf2":[6,0,281,214],
 "d7/d46/classAuraEffect.html#a81665a31d5e4a49027abd82be607a736":[6,0,281,31],
 "d7/d46/classAuraEffect.html#a81f9974032b40d56489fabe89641f81d":[6,0,281,47],
 "d7/d46/classAuraEffect.html#a8229a29c8125b2558b1a875ae3deace8":[6,0,281,40],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html#ad0f99362f7ab506b322b6d75890881c1":[6,0,2132,0,1],
 "d7/d4c/structnpc__underbat.html":[6,0,2235],
 "d7/d4c/structnpc__underbat.html#a710a010d3425b7171ee45d8465fd6b2b":[6,0,2235,0],
-"d7/d4c/structnpc__underbat.html#a7644a73c2a5bcbbe0a3db5c782169752":[6,0,2235,4],
-"d7/d4c/structnpc__underbat.html#aae771ad526e8f72a90fe70ebbd91b472":[6,0,2235,2]
+"d7/d4c/structnpc__underbat.html#a7644a73c2a5bcbbe0a3db5c782169752":[6,0,2235,4]
 };

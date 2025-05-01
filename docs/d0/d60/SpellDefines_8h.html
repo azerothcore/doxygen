@@ -150,6 +150,8 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb">SPELL_INTERRUPT_FLAG_INTERRUPT</a> = 0x08
 , <br />
 &#160;&#160;<a class="el" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914">SPELL_INTERRUPT_FLAG_ABORT_ON_DMG</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7">SPELL_INTERRUPT_UNK</a> = 0x20
 <br />
  }</td></tr>
 <tr class="separator:abadf2f982fd866917c372d16ab99c109"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -599,6 +601,7 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a" name="abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a"></a>SPELL_INTERRUPT_FLAG_UNK3&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb" name="abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb"></a>SPELL_INTERRUPT_FLAG_INTERRUPT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914" name="abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914"></a>SPELL_INTERRUPT_FLAG_ABORT_ON_DMG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7" name="abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7"></a>SPELL_INTERRUPT_UNK&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
 <div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a986dc87f6033e6ccfb4510dfdb0f41fd">SPELL_INTERRUPT_FLAG_MOVEMENT</a>     = 0x01, <span class="comment">// why need this for instant?</span></div>
@@ -606,12 +609,13 @@ Enumerations</h2></td></tr>
 <div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a">SPELL_INTERRUPT_FLAG_UNK3</a>         = 0x04, <span class="comment">// any info?</span></div>
 <div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb">SPELL_INTERRUPT_FLAG_INTERRUPT</a>    = 0x08, <span class="comment">// interrupt</span></div>
 <div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914">SPELL_INTERRUPT_FLAG_ABORT_ON_DMG</a> = 0x10,               <span class="comment">// _complete_ interrupt on direct damage</span></div>
-<div class="line"><span class="lineno">   31</span>    <span class="comment">//SPELL_INTERRUPT_UNK             = 0x20                // unk, 564 of 727 spells having this spell start with &quot;Glyph&quot;</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7">SPELL_INTERRUPT_UNK</a>               = 0x20                <span class="comment">// unk, 564 of 727 spells having this spell start with &quot;Glyph&quot;</span></div>
 <div class="line"><span class="lineno">   32</span>};</div>
 <div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a">SPELL_INTERRUPT_FLAG_UNK3</a></div><div class="ttdeci">@ SPELL_INTERRUPT_FLAG_UNK3</div><div class="ttdef"><b>Definition</b> SpellDefines.h:28</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914">SPELL_INTERRUPT_FLAG_ABORT_ON_DMG</a></div><div class="ttdeci">@ SPELL_INTERRUPT_FLAG_ABORT_ON_DMG</div><div class="ttdef"><b>Definition</b> SpellDefines.h:30</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a47493934a746ad920a660629b612a4d6"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a47493934a746ad920a660629b612a4d6">SPELL_INTERRUPT_FLAG_PUSH_BACK</a></div><div class="ttdeci">@ SPELL_INTERRUPT_FLAG_PUSH_BACK</div><div class="ttdef"><b>Definition</b> SpellDefines.h:27</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb">SPELL_INTERRUPT_FLAG_INTERRUPT</a></div><div class="ttdeci">@ SPELL_INTERRUPT_FLAG_INTERRUPT</div><div class="ttdef"><b>Definition</b> SpellDefines.h:29</div></div>
+<div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7">SPELL_INTERRUPT_UNK</a></div><div class="ttdeci">@ SPELL_INTERRUPT_UNK</div><div class="ttdef"><b>Definition</b> SpellDefines.h:31</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_abadf2f982fd866917c372d16ab99c109a986dc87f6033e6ccfb4510dfdb0f41fd"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a986dc87f6033e6ccfb4510dfdb0f41fd">SPELL_INTERRUPT_FLAG_MOVEMENT</a></div><div class="ttdeci">@ SPELL_INTERRUPT_FLAG_MOVEMENT</div><div class="ttdef"><b>Definition</b> SpellDefines.h:26</div></div>
 </div><!-- fragment -->
 </div>
@@ -887,7 +891,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d0/d60/SpellDefines_8h.html">SpellDefines.h</a></li>
-    <li class="footer">Generated on Wed Apr 30 2025 06:22:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu May 1 2025 06:22:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

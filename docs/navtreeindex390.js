@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[6,0,3453,2],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[6,0,3453,1],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[6,0,3453,3],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3453,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2":[7,0,0,0,1,3,9,10,32,27],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2":[7,0,0,0,1,3,9,10,32,14],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7":[7,0,0,0,1,3,9,10,32,24],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b":[7,0,0,0,1,3,9,10,32,20],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4":[7,0,0,0,1,3,9,10,32,21]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b":[7,0,0,0,1,3,9,10,32,20]
 };

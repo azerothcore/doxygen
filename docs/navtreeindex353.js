@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"de/d28/classspell__pos__slave__trigger__closest.html#ab79a160e0d5b0c6e0ecfa842a4da2819":[6,0,3509,1],
 "de/d28/classspell__pos__slave__trigger__closest.html#aef592aafe931351186edf98f7aba7e22":[6,0,3509,0],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html":[6,0,1157,0],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1157,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "de/d30/SpellMgr_8h.html#a83a1058767f1f4fd343208f7b9d74645":[7,0,0,0,1,2,41,9,53],
 "de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444":[7,0,0,0,1,2,41,9,49],
 "de/d30/SpellMgr_8h.html#a8b9971539c2ac4298634905ed5a1e514":[7,0,0,0,1,2,41,9,66],
-"de/d30/SpellMgr_8h.html#a8b9971539c2ac4298634905ed5a1e514ac8dd361c76510e5af45a5cbd53928635":[7,0,0,0,1,2,41,9,66,0],
-"de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[7,0,0,0,1,2,41,9,23]
+"de/d30/SpellMgr_8h.html#a8b9971539c2ac4298634905ed5a1e514ac8dd361c76510e5af45a5cbd53928635":[7,0,0,0,1,2,41,9,66,0]
 };

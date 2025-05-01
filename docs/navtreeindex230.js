@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d10/structDiminishingReturn.html#acd4828637710636d0164fced285c854d":[6,0,973,0],
 "d9/d10/structDiminishingReturn.html#add3ab95d65e283a326e1922129941ae4":[6,0,973,1],
 "d9/d10/structDiminishingReturn.html#ae3f5eecc2bc88fe236fe4c7c297b68c5":[6,0,973,3],
 "d9/d10/structDiminishingReturn.html#aeb40601df7e6507c7fd83e3152541ba5":[6,0,973,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d27/classspell__demolisher__ride__vehicle.html#a240989af43e5ad6eb81d600a2f1d4769":[6,0,2719,2],
 "d9/d27/classspell__demolisher__ride__vehicle.html#a866fd47d51b5fc4c07c3733739d07c02":[6,0,2719,0],
 "d9/d28/classnpc__azure__mage__slayer.html":[6,0,1618],
-"d9/d28/classnpc__azure__mage__slayer.html#a9b795915100f47b11a65abdfdcbf39f4":[6,0,1618,2],
-"d9/d28/classnpc__azure__mage__slayer.html#ad5e5453235c224f4fac40244516dd1ad":[6,0,1618,1]
+"d9/d28/classnpc__azure__mage__slayer.html#a9b795915100f47b11a65abdfdcbf39f4":[6,0,1618,2]
 };

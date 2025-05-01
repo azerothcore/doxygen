@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"db/d0c/classspell__gen__spirit__of__competition__winner.html#a5a2c59463a0546b6f5cd375b3671b86b":[6,0,2991,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#acf1173670c35c84ae7aba29be00d31cf":[6,0,2991,1],
 "db/d0d/classspell__gen__disabled__above__63.html":[6,0,2917],
 "db/d0d/classspell__gen__disabled__above__63.html#a51f9c0f92100c02e1fe7d127fecd902f":[6,0,2917,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,3994],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,3994,2],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,3994,3],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,3994,1],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[6,0,3994,0]
+"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,3994,1]
 };

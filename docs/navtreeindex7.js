@@ -93,6 +93,7 @@ var NAVTREEINDEX7 =
 "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914":[7,0,0,0,1,2,41,3,9,4],
 "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a47493934a746ad920a660629b612a4d6":[7,0,0,0,1,2,41,3,9,1],
 "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb":[7,0,0,0,1,2,41,3,9,3],
+"d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7":[7,0,0,0,1,2,41,3,9,5],
 "d0/d60/SpellDefines_8h.html#abadf2f982fd866917c372d16ab99c109a986dc87f6033e6ccfb4510dfdb0f41fd":[7,0,0,0,1,2,41,3,9,0],
 "d0/d60/SpellDefines_8h.html#ac8791ee2f758e00e9621a849273a8549":[7,0,0,0,1,2,41,3,7],
 "d0/d60/SpellDefines_8h.html#ac8791ee2f758e00e9621a849273a8549ac8e8981ed6a7cb479ac7a0911f51ff6c":[7,0,0,0,1,2,41,3,7,0],
@@ -108,10 +109,10 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,3849,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,3849,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3849,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,30,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,30,1,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,30,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,30,1,2,0],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2313,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d69/classGridObjectLoader.html#abe551354634514fa3998eccb10fcbefe":[6,0,1214,5],
 "d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b":[6,0,1214,4],
 "d0/d69/classnpc__halion__controller.html":[6,0,1822],
-"d0/d69/classnpc__halion__controller.html#a3c5ea3f0597c070005744ea788a05383":[6,0,1822,2],
-"d0/d69/classnpc__halion__controller.html#ac88ff15ce4d89d737eb6dd6b649e1218":[6,0,1822,1]
+"d0/d69/classnpc__halion__controller.html#a3c5ea3f0597c070005744ea788a05383":[6,0,1822,2]
 };

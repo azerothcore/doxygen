@@ -1,5 +1,6 @@
 var NAVTREEINDEX45 =
 {
+"d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a06dd2f7eb3f9b77db85549c3bf61c909":[7,0,0,0,1,2,16,4,3,13,2],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0f16ec84abff9137314f13fb1207175a":[7,0,0,0,1,2,16,4,3,13,4],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0fcd82c460a863e447c1bf184e4dbb70":[7,0,0,0,1,2,16,4,3,13,8],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a226a7168e97cf54a3e9f2118439280c0":[7,0,0,0,1,2,16,4,3,13,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX45 =
 "d1/ddf/structFinder.html#a89d852a64429ad8ad78872ad32173a14":[6,0,1037,3],
 "d1/ddf/structFinder.html#a8f8d606fdd53a2af6d20cf30d1660686":[6,0,1037,2],
 "d1/de0/WeatherMgr_8cpp.html":[4,2,2],
-"d1/de0/classLootStore.html":[6,0,1447],
-"d1/de0/classLootStore.html#a131a846a8bce5b792a06a130bb1d1599":[6,0,1447,13]
+"d1/de0/classLootStore.html":[6,0,1447]
 };

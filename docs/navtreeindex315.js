@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dfb/classUpdateTime.html#a28ab3fb6bd445bf1b36f7cb3b73acff2":[6,0,4169,4],
 "dc/dfb/classUpdateTime.html#a29b8d4c5394820b71aaf8864ba4b8327":[6,0,4169,8],
 "dc/dfb/classUpdateTime.html#a38ae34827b0de71df0eeb31c1af9e07e":[6,0,4169,0],
 "dc/dfb/classUpdateTime.html#a451d39365491ae8d38816783865d2a75":[6,0,4169,10],
@@ -237,10 +238,10 @@ var NAVTREEINDEX315 =
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,18,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,18,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,18,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2831],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2831,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2831,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[6,0,2831,1],
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html":[6,0,506,0],
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html#a19438103c9a582a7d36d805c80131e8c":[6,0,506,0,3],
-"dd/d08/structboss__grilek_1_1boss__grilekAI.html#a76d2cddd8ebfc4df400ef43f8c5aa936":[6,0,506,0,1],
-"dd/d08/structboss__grilek_1_1boss__grilekAI.html#acd8ce07ab3ef576580df16c0176fcaf3":[6,0,506,0,2]
+"dd/d08/structboss__grilek_1_1boss__grilekAI.html#a76d2cddd8ebfc4df400ef43f8c5aa936":[6,0,506,0,1]
 };

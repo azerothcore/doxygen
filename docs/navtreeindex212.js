@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d8/d36/classspell__dk__death__strike.html#a42fbc381d7ae89f1ac265fb15ebd864f":[6,0,2746,3],
 "d8/d36/classspell__dk__death__strike.html#a54f7f56a9122b623855eb9d11e34dfca":[6,0,2746,0],
 "d8/d36/classspell__dk__death__strike.html#a762c2320ab8d48e1284d81962a4b078f":[6,0,2746,2],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html":[6,0,2095,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a40b7d4b51ba0849a77a41abc76407e39":[6,0,894,0],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a8762b1028a8b81762e9b08fd45d13269":[6,0,894,1],
 "d8/d45/classnpc__adventurous__dwarf.html":[6,0,1558],
-"d8/d45/classnpc__adventurous__dwarf.html#a15c39e217907189db9be7799e696f310":[6,0,1558,1],
-"d8/d45/classnpc__adventurous__dwarf.html#ab69e3e249f7075d5344ad79bf9c79b79":[6,0,1558,3]
+"d8/d45/classnpc__adventurous__dwarf.html#a15c39e217907189db9be7799e696f310":[6,0,1558,1]
 };

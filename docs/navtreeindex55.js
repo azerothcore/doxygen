@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d3b/classspell__pal__divine__storm.html#acad9295c5c6b46bd969a4fb528a8ec25":[6,0,3474,3],
 "d2/d3b/classspell__pal__divine__storm.html#ae8329a18e94b3830e19bcbcbdf055dd2":[6,0,3474,0],
 "d2/d3c/classboss__rotface.html":[6,0,676],
 "d2/d3c/classboss__rotface.html#a8896f5ed16c728d72a123b2e92a174fb":[6,0,676,1],
@@ -101,8 +102,8 @@ var NAVTREEINDEX55 =
 "d2/d3f/classActivePoolData.html":[6,0,125],
 "d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[6,0,125,17],
 "d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[6,0,125,9],
-"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,125,0],
 "d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,125,1],
+"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,125,0],
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[6,0,125,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[6,0,125,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[6,0,125,5],
@@ -115,8 +116,8 @@ var NAVTREEINDEX55 =
 "d2/d3f/classActivePoolData.html#ab64e67ec373ca97edab12662190e36c5":[6,0,125,20],
 "d2/d3f/classActivePoolData.html#ac06d473e60ddb91e027dabbd64d64961":[6,0,125,4],
 "d2/d3f/classActivePoolData.html#ac23fc621fc12c77718d5a1b9b9d928c4":[6,0,125,2],
-"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,125,12],
 "d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,125,13],
+"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,125,12],
 "d2/d3f/classActivePoolData.html#ae4e61f0da2ed8848c3afced7af36e761":[6,0,125,19],
 "d2/d3f/classActivePoolData.html#ae5973d0bb86a4477a3471579c5697d51":[6,0,125,6],
 "d2/d3f/classActivePoolData.html#ae6cf482063504094ce47271cf8097001":[6,0,125,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d48/PreparedStatement_8h.html#a6d4fe40146df0d52c6917d8cc920ac84":[7,0,0,0,1,1,0,23,4],
 "d2/d48/PreparedStatement_8h.html#ae544e1b7f5a34959b1b48592f67dd4e7":[7,0,0,0,1,1,0,23,5],
 "d2/d48/classChannel.html":[6,0,842],
-"d2/d48/classChannel.html#a019ca37867664ed06185f12e632a76ae":[6,0,842,112],
-"d2/d48/classChannel.html#a062b01af76e2a3befa303947dd9080e9":[6,0,842,62]
+"d2/d48/classChannel.html#a019ca37867664ed06185f12e632a76ae":[6,0,842,112]
 };

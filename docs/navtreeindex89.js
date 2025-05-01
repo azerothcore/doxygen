@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b01bb6d3fb8443b07a687c16d86009d":[7,0,0,0,1,3,7,5,2,0,8,4],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2474f7d0a349f54ecfaeaf5a387d509d":[7,0,0,0,1,3,7,5,2,0,8,12],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,7,5,2,0,8,9],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca501423372a047a0b1766a736cf773724":[7,0,0,0,1,3,7,5,2,0,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2884,0],
 "d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2884,2],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0]
+"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d8d/DBCStores_8cpp.html#af00952046ad30fb52804f21bcf62d8c9":[7,0,0,0,1,2,14,0,13],
 "dd/d8d/DBCStores_8cpp.html#af1e332a2f034094201c5bac37a9e4d1e":[7,0,0,0,1,2,14,0,64],
 "dd/d8d/DBCStores_8cpp.html#af2f5ba318bc05ae239ae3b162a9f4062":[7,0,0,0,1,2,14,0,76],
 "dd/d8d/DBCStores_8cpp.html#af3003bf91bbf3cd78c669cbc9e8a18cf":[7,0,0,0,1,2,14,0,98],
@@ -35,12 +36,12 @@ var NAVTREEINDEX327 =
 "dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[6,0,1760,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[6,0,0,11],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,1,23],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[5,0,1,23,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,11,0],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[5,0,1,23,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[6,0,0,11,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,1,23,1],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,23,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,11,3],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,23,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,23,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,11,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,23,4],
@@ -86,13 +87,13 @@ var NAVTREEINDEX327 =
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#abc630a0c8274f5f85901b2505ff2ae04":[6,0,3593,0],
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#af79cd7c2f6ed47a93dbbe17aaca6834f":[6,0,3593,1],
 "dd/d96/classDBCFile_1_1Exception.html":[6,0,949,0],
-"dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,949,0,3],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,949,0,1],
+"dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,949,0,3],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,949,0,2],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,949,0,0],
 "dd/d96/classDBCFile_1_1Exception.html#aeb732542a0ba63cde3d9b3bff93f4eda":[6,0,949,0,6],
-"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,949,0,5],
 "dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,949,0,4],
+"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,949,0,5],
 "dd/d96/classOutdoorPvP__nagrand.html":[6,0,2338],
 "dd/d96/classOutdoorPvP__nagrand.html#ac6e0f41eafb915604bd1b1d84e915f87":[6,0,2338,0],
 "dd/d96/classOutdoorPvP__nagrand.html#ae8ce0bf210e2be8229b9ac4d8615b058":[6,0,2338,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/da2/classlfg_1_1LFGQueue.html#a1d071707287cd394f286557f11a25dec":[6,0,5,12,21],
 "dd/da2/classlfg_1_1LFGQueue.html#a1d071707287cd394f286557f11a25dec":[5,0,18,12,21],
 "dd/da2/classlfg_1_1LFGQueue.html#a238312c3f7d40c80b2cbb208ebee0937":[6,0,5,12,1],
-"dd/da2/classlfg_1_1LFGQueue.html#a238312c3f7d40c80b2cbb208ebee0937":[5,0,18,12,1],
-"dd/da2/classlfg_1_1LFGQueue.html#a369daddc51cd545a3d7a5724c09a0224":[5,0,18,12,12]
+"dd/da2/classlfg_1_1LFGQueue.html#a238312c3f7d40c80b2cbb208ebee0937":[5,0,18,12,1]
 };
