@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"da/d82/classreload__commandscript.html#afc944862bddcd73b2f97d524597aec1e":[6,0,2479,45],
 "da/d82/classreload__commandscript.html#aff5856545fa4c3af1529eb45823ef2fc":[6,0,2479,57],
 "da/d82/structDestructibleModelDataEntry.html":[6,0,969],
 "da/d82/structDestructibleModelDataEntry.html#a1a06c3e04bc2bb7d5bc29592d40b9239":[6,0,969,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d90/classSpellMgr.html#a978271947a41f2e9429d3862c7ff7539":[6,0,4041,6],
 "da/d90/classSpellMgr.html#a9d4a69f77e7dc8ec225bede9d730ab71":[6,0,4041,48],
 "da/d90/classSpellMgr.html#a9f6998b4fee8fba87ad8d372abd8693d":[6,0,4041,104],
-"da/d90/classSpellMgr.html#aa03760f8043a0c684d18527d7ed934d3":[6,0,4041,106],
-"da/d90/classSpellMgr.html#aa246091a96d42f80b5beb68091264b29":[6,0,4041,63]
+"da/d90/classSpellMgr.html#aa03760f8043a0c684d18527d7ed934d3":[6,0,4041,106]
 };

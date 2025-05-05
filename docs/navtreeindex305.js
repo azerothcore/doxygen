@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d6d/classgo__crystalline__tear.html":[6,0,1126],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1126,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1126,0],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html":[6,0,2738],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4267,9],
 "dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4267,7],
 "dc/d7d/classZoneScript.html#af4aa4d8f6b48d7d63fb6daa85d50c756":[6,0,4267,1],
-"dc/d7d/classZoneScript.html#afa02089edff085ecd4eb7178b94ffe26":[6,0,4267,10],
-"dc/d7d/classZoneScript.html#afaf1aecaaaac82508b8f1c50712b8204":[6,0,4267,12]
+"dc/d7d/classZoneScript.html#afa02089edff085ecd4eb7178b94ffe26":[6,0,4267,10]
 };

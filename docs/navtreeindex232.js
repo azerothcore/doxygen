@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d38/classnpc__ulduar__rocket__strike__trigger.html":[6,0,2228],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html#a41cc84b04124bb47c24b39a48c9023b1":[6,0,2228,1],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html#a7715ce6646efa3728c28c4e11b25c2ed":[6,0,2228,2],
 "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html":[6,0,1337,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d4d/classmisc__commandscript.html#adc0ef6940602615062c716204c333f98":[6,0,1500,29],
 "d9/d4d/classmisc__commandscript.html#adc6779a70c7a79a7bd08a419d62edb88":[6,0,1500,18],
 "d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882":[6,0,1500,19],
-"d9/d4d/classmisc__commandscript.html#af11cc1d015103bed5d1d2391f46d1df1":[6,0,1500,32],
-"d9/d4d/classmisc__commandscript.html#af18039cb343286cf2f510b5d75ed500e":[6,0,1500,52]
+"d9/d4d/classmisc__commandscript.html#af11cc1d015103bed5d1d2391f46d1df1":[6,0,1500,32]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcad7b1f8fd5ade1cf300bb226f05d8dbba":[7,0,0,0,1,3,9,4,140,0],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcaf4a20369e2d64f239386ddfac38c9dde":[7,0,0,0,1,3,9,4,140,2],
 "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079":[7,0,0,0,1,3,9,4,126],
 "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079ae9db0efd6f0086e7aab260f4ec8c502f":[7,0,0,0,1,3,9,4,126,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#aebec433e806d4f63f5593db0301612b4":[6,0,2206,0,3],
 "db/d7c/classnpc__nelson.html":[6,0,1973],
 "db/d7c/classnpc__nelson.html#a75fea281fb49249345c48236bf44b1c8":[6,0,1973,2],
-"db/d7c/classnpc__nelson.html#aa693b365a15d4617f214f9c3c229bf89":[6,0,1973,3],
-"db/d7c/classnpc__nelson.html#ada597926a6db1aa7823ddabc19945b11":[6,0,1973,1]
+"db/d7c/classnpc__nelson.html#aa693b365a15d4617f214f9c3c229bf89":[6,0,1973,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"de/d30/SpellMgr_8h.html#a8b9971539c2ac4298634905ed5a1e514ac8dd361c76510e5af45a5cbd53928635":[7,0,0,0,1,2,41,9,66,0],
 "de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[7,0,0,0,1,2,41,9,23],
 "de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[7,0,0,0,1,2,41,9,45],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[7,0,0,0,1,2,41,9,57],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "de/d34/instance__halls__of__lightning_8cpp.html#acb5e7d848388449d05e307ed07fbcfc6":[7,0,0,0,1,3,5,9,0,5,2],
 "de/d34/structBroadcastText.html":[6,0,818],
 "de/d34/structBroadcastText.html#a101f8fcc99c6badc2a7b05a9f18aa0f5":[6,0,818,3],
-"de/d34/structBroadcastText.html#a12594a2bbd643a1968726db708a35b79":[6,0,818,11],
-"de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59":[6,0,818,9]
+"de/d34/structBroadcastText.html#a12594a2bbd643a1968726db708a35b79":[6,0,818,11]
 };

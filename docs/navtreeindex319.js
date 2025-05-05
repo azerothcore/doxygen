@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dd/d27/structSmartAction.html#ac3fda8d1c507b511b18cf5526b9332f8":[6,0,2549,126],
 "dd/d27/structSmartAction.html#ac410826fa81170fdf8471c5721fed133":[6,0,2549,138],
 "dd/d27/structSmartAction.html#ac5e5b226552e6413b537da9221afc246":[6,0,2549,115],
 "dd/d27/structSmartAction.html#ac6204f6a775428d46ee9a7dbd9bc240f":[6,0,2549,196],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d30/structnpc__infernal__attacker_1_1npc__infernal__attackerAI.html#a926e6cd6772784872a905de7245007ac":[6,0,1881,0,1],
 "dd/d30/structnpc__infernal__attacker_1_1npc__infernal__attackerAI.html#a956f3fb1e341519817599df08afc2589":[6,0,1881,0,4],
 "dd/d30/structnpc__infernal__attacker_1_1npc__infernal__attackerAI.html#ab2e791cc0a67012bc56c3b07e3f327e9":[6,0,1881,0,6],
-"dd/d30/structnpc__infernal__attacker_1_1npc__infernal__attackerAI.html#ae04c4e026f22bd650bb33940b923df9a":[6,0,1881,0,0],
-"dd/d31/DBUpdater_8cpp.html":[7,0,0,0,1,1,3,0]
+"dd/d30/structnpc__infernal__attacker_1_1npc__infernal__attackerAI.html#ae04c4e026f22bd650bb33940b923df9a":[6,0,1881,0,0]
 };

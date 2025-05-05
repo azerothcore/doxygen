@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[5,0,1,82,1],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[6,0,0,70,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,1,82,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[6,0,0,70,2],
@@ -44,8 +45,8 @@ var NAVTREEINDEX160 =
 "d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[6,0,2330,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[6,0,0,5,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,1,8,0,3],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[6,0,0,5,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
 "d5/df7/classObjectGuidVector.html":[6,0,2312],
 "d5/df7/classObjectGuidVector.html#a07fe3304a0edffa1f17a0ce5f97d01e6":[6,0,2312,1],
 "d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26":[6,0,2312,5],
@@ -76,18 +77,18 @@ var NAVTREEINDEX160 =
 "d5/df8/classspell__mage__combustion__proc.html#a9fbaec43bae2f4d6f4b94b18da0144fe":[6,0,3363,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html":[6,0,5,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html":[5,0,18,3],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,18,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[6,0,5,3,5],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,18,3,4],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,18,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[6,0,5,3,4],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,18,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[6,0,5,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,18,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,18,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[6,0,5,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,18,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[6,0,5,3,3],
-"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[6,0,5,3,0],
 "d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[5,0,18,3,0],
+"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[6,0,5,3,0],
 "d5/dfb/classObjectMgr.html":[6,0,2313],
 "d5/dfb/classObjectMgr.html#a006557a1c8479b65f0aca42440e3f474":[6,0,2313,97],
 "d5/dfb/classObjectMgr.html#a00bc4936f190efc42a8baf64e7ebbe99":[6,0,2313,124],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d5/dfb/classObjectMgr.html#a617429495c17a52dabbba18f88ea69c8":[6,0,2313,226],
 "d5/dfb/classObjectMgr.html#a61e8b9181ea345419c35161e2b3d4f87":[6,0,2313,147],
 "d5/dfb/classObjectMgr.html#a63e2e1664a66e29d3ab9054921124bbb":[6,0,2313,348],
-"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2313,263],
-"d5/dfb/classObjectMgr.html#a6453ba99550ee894a8857b7cd52aa4b2":[6,0,2313,162]
+"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2313,263]
 };

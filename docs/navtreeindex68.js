@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a21826a5b3d8968db75dc26321e7dc67d":[7,0,0,0,1,2,48,0,4,26],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2270e96a0d3edc3ab4c540985a788d4e":[7,0,0,0,1,2,48,0,4,74],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2653821ed44b9dc89776232c136253bd":[7,0,0,0,1,2,48,0,4,37],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76":[7,0,0,0,1,2,48,0,4,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,4,10,1,1,5],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22aa445c99c57fb39a2b21b185a4e4ad552":[7,0,0,0,1,3,4,10,1,1,6],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22aa54d88737333ea9a7d205dbcb5b4911f":[7,0,0,0,1,3,4,10,1,1,7],
-"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22abeb79b00f5fc2e9f9092248b97b40830":[7,0,0,0,1,3,4,10,1,1,1],
-"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ac694bbdb12357598e4ecbc3c73701559":[7,0,0,0,1,3,4,10,1,1,8]
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22abeb79b00f5fc2e9f9092248b97b40830":[7,0,0,0,1,3,4,10,1,1,1]
 };

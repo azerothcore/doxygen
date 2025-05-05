@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d31/DBUpdater_8cpp.html":[7,0,0,0,1,1,3,0],
 "dd/d31/DBUpdater_8cpp.html#a16a33693c8570aff221401b100547fb7":[7,0,0,0,1,1,3,0,1],
 "dd/d31/DBUpdater_8cpp.html#a753e207671f7af3815a056247f2de3ce":[7,0,0,0,1,1,3,0,0],
 "dd/d31/DBUpdater_8cpp.html#ace05c45d1df6cb7f16487ef1aa8bc9f7":[7,0,0,0,1,1,3,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d3b/structGameObjectTemplate.html#a5587c22b77f01036cad9d0a0b2e9a61c":[6,0,1084,74],
 "dd/d3b/structGameObjectTemplate.html#a55d418dd6dca52e88000c43ae9674a7c":[6,0,1084,182],
 "dd/d3b/structGameObjectTemplate.html#a55f6f8b28415d0bdee5ff0dda4d07051":[6,0,1084,188],
-"dd/d3b/structGameObjectTemplate.html#a576a078041814e8ec79c6ed313833a69":[6,0,1084,89],
-"dd/d3b/structGameObjectTemplate.html#a5987f0a0f158e4836a237f76d48b36b0":[6,0,1084,166]
+"dd/d3b/structGameObjectTemplate.html#a576a078041814e8ec79c6ed313833a69":[6,0,1084,89]
 };

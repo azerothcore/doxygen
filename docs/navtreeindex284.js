@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/d9d/classMovement_1_1MoveSplineFlag.html#aa5c3be263595a86d150c629fd8d8295f":[5,0,21,7,2],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#aa83b966b593d3df0ef88fe3811f4a757":[6,0,7,7,11],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#aa83b966b593d3df0ef88fe3811f4a757":[5,0,21,7,11],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#abccea4ee84cfc2f4b6bc918bb7019061":[6,0,7,7,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3":[7,0,0,0,1,3,4,15,4],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168":[7,0,0,0,1,3,4,15,4,7],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75":[7,0,0,0,1,3,4,15,4,3],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3":[7,0,0,0,1,3,4,15,4,10],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1":[7,0,0,0,1,3,4,15,4,4]
+"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3":[7,0,0,0,1,3,4,15,4,10]
 };

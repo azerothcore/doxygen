@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d83/structboss__nexusprince__shaffar.html#af28242e0c0f2dcbfb2fb16514d912200":[6,0,636,2],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html":[6,0,447,0],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a02f6dec07038297c15c264fb501b01ab":[6,0,447,0,0],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a07509843bd658e3fc0b02cb817da37e9":[6,0,447,0,4],
@@ -246,8 +247,7 @@ var NAVTREEINDEX193 =
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3613,2],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3613,0],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3613,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3]
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3]
 };

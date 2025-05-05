@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a33eb1620bc4b3b289706357d786fa56e":[6,0,503,0,9],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a4c6a17931fbfbab3609d70da53662676":[6,0,503,0,13],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a6240088bec30b62a8ae223e0236959c7":[6,0,503,0,12],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a786bfc8397062beb22412b0873dcb1f0":[6,0,503,0,14],
@@ -127,10 +128,10 @@ var NAVTREEINDEX144 =
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,88,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/structMovieEntry.html":[6,0,1523],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,130,1],
 "d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,130,0],
 "d5/d44/structboss__warlord__kalithresh.html":[6,0,773],
-"d5/d44/structboss__warlord__kalithresh.html#a06855288497f5335a236867ef681d3f8":[6,0,773,3],
-"d5/d44/structboss__warlord__kalithresh.html#a1947562aa9dafea371e2f2da824a3f65":[6,0,773,1]
+"d5/d44/structboss__warlord__kalithresh.html#a06855288497f5335a236867ef681d3f8":[6,0,773,3]
 };

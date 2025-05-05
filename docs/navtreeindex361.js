@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d79/classGuild.html#aea25fad25add2347279b0ccc298e905e":[6,0,1243,17],
 "de/d79/classGuild.html#aeb5fdb4b19981409ded323470c120170":[6,0,1243,98],
 "de/d79/classGuild.html#aec337b417dc733be4ca87d3f670b4224":[6,0,1243,86],
 "de/d79/classGuild.html#aed9d9581db0de4d6c73aa8858024e7a1":[6,0,1243,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80":[6,0,257,0],
 "de/d86/structAuctionHouseEntry.html#af7bb868f1a1e8d570ce7b6cb10ad87d9":[6,0,257,1],
 "de/d87/boss__netherspite_8cpp.html":[7,0,0,0,1,3,2,4,5],
-"de/d87/boss__netherspite_8cpp.html#a073d997a481bab87bcd582038244a4c9":[7,0,0,0,1,3,2,4,5,11],
-"de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,4,5,2]
+"de/d87/boss__netherspite_8cpp.html#a073d997a481bab87bcd582038244a4c9":[7,0,0,0,1,3,2,4,5,11]
 };

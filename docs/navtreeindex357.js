@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,3850,3],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[6,0,3850,0],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,3850,1],
 "de/d4a/classWorldMapScript.html":[6,0,4246],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
-"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,12,8,3],
-"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a1a67be461f59a69ebedf21ac42895f28":[7,0,0,0,1,3,5,7,12,8,6]
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,12,8,3]
 };

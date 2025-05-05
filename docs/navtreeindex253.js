@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"da/d58/classVMAP_1_1IVMapMgr.html#a6fb9bd31760b72279499e5e884d12a04":[5,0,27,7,5],
 "da/d58/classVMAP_1_1IVMapMgr.html#a6fb9bd31760b72279499e5e884d12a04":[6,0,9,7,5],
 "da/d58/classVMAP_1_1IVMapMgr.html#a7984e19b44c6f8ce16ecea8e823a4b14":[6,0,9,7,16],
 "da/d58/classVMAP_1_1IVMapMgr.html#a7984e19b44c6f8ce16ecea8e823a4b14":[5,0,27,7,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "da/d66/boss__herald__volazj_8cpp.html":[7,0,0,0,1,3,5,0,0,3],
 "da/d66/boss__herald__volazj_8cpp.html#a2972716154b70d529741fe54021269d6":[7,0,0,0,1,3,5,0,0,3,7],
 "da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,0,0,3,4],
-"da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a15e2c595fdcb683265e35485a434b7d1":[7,0,0,0,1,3,5,0,0,3,4,1],
-"da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d944d4484db90881a64833f7373b28b":[7,0,0,0,1,3,5,0,0,3,4,0]
+"da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a15e2c595fdcb683265e35485a434b7d1":[7,0,0,0,1,3,5,0,0,3,4,1]
 };

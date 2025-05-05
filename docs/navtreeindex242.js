@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1757],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a4d7125cf0333d4e5ebc299019c8feb1a":[6,0,1757,3],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a8a35f1c09a9df609561e76f4ed578647":[6,0,1757,1],
 "d9/dbf/classnpc__engineering__tele__trinket.html#ab891a8378a7b1b63151d05801b8b2fd1":[6,0,1757,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dc8/classDialogueHelper.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af":[6,0,972,2],
 "d9/dc8/classDialogueHelper.html#a79e80634f1780895669f5c810958fd4f":[6,0,972,4],
 "d9/dc8/classDialogueHelper.html#a89ca5e8d25372bd8ab32322a0a9999f2":[6,0,972,7],
-"d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,972,1],
-"d9/dc8/classDialogueHelper.html#ac16b8b9b50e8b35980d21f161bf33340":[6,0,972,5]
+"d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,972,1]
 };

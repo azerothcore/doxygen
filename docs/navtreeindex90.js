@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0],
 "d2/df9/classLichKingMovieEvent.html":[6,0,1407],
 "d2/df9/classLichKingMovieEvent.html#a22d6181fd2651d62dcb6cdbabe0561fe":[6,0,1407,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d08/structSpellModifier.html#a1aaf71299c2dd27b58a049d252efdee8":[6,0,4042,1],
 "d3/d08/structSpellModifier.html#a21d017f0c8d3108a0eb5f48798103356":[6,0,4042,3],
 "d3/d08/structSpellModifier.html#a22f64b9c021f5a87f30f01ef117ebb0b":[6,0,4042,7],
-"d3/d08/structSpellModifier.html#a31742662ba8112c9e9b972897a928e57":[6,0,4042,8],
-"d3/d08/structSpellModifier.html#a465803efab27b2ba0a49c6571b65b908":[6,0,4042,6]
+"d3/d08/structSpellModifier.html#a31742662ba8112c9e9b972897a928e57":[6,0,4042,8]
 };

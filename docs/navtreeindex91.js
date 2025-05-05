@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d08/structSpellModifier.html#a465803efab27b2ba0a49c6571b65b908":[6,0,4042,6],
 "d3/d08/structSpellModifier.html#a5e180553fb4739eb7f947da70fbe7ef8":[6,0,4042,4],
 "d3/d08/structSpellModifier.html#aba1b01bf3486d61cc1876b03078a35ee":[6,0,4042,2],
 "d3/d08/structSpellModifier.html#adba5fad6b904d09a43be7302e7eb62bd":[6,0,4042,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0a/structnpc__the__scourge__cauldron_1_1npc__the__scourge__cauldronAI.html#a9f720a27db2943a66b11ad6355690bf5":[6,0,2161,0,1],
 "d3/d0a/structnpc__the__scourge__cauldron_1_1npc__the__scourge__cauldronAI.html#aa8b221cfe49b09efbfe5943489c844b8":[6,0,2161,0,0],
 "d3/d0a/structnpc__the__scourge__cauldron_1_1npc__the__scourge__cauldronAI.html#ab18bb2eb344f45827685786c665b1750":[6,0,2161,0,4],
-"d3/d0b/namespaceAcore.html":[5,0,1],
-"d3/d0b/namespaceAcore.html#a021f51138f5726e712f00bdddf9be729":[5,0,1,206]
+"d3/d0b/namespaceAcore.html":[5,0,1]
 };

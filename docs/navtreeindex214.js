@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,74,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[6,0,0,62,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,74,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[6,0,0,62,3],
@@ -64,10 +65,10 @@ var NAVTREEINDEX214 =
 "d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[6,0,0,100,1],
 "d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[5,0,1,112,2],
 "d8/d58/classAcore_1_1RaidCheck.html#a5fffdd5901fb03c5e9a9adfb58e3d759":[6,0,0,100,2],
-"d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[5,0,1,112,3],
 "d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[6,0,0,100,3],
-"d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[6,0,0,100,0],
+"d8/d58/classAcore_1_1RaidCheck.html#a7d253c94403bd50012722a9a9b113c3a":[5,0,1,112,3],
 "d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[5,0,1,112,0],
+"d8/d58/classAcore_1_1RaidCheck.html#ad8c3717b9a645c7806c8c027a8d90ef5":[6,0,0,100,0],
 "d8/d58/classMapMgr.html":[6,0,1481],
 "d8/d58/classMapMgr.html#a0b915578514b6a3a2f7fb43a00ac0716":[6,0,1481,40],
 "d8/d58/classMapMgr.html#a0cd95dfb6e741c91a21b0429af08deac":[6,0,1481,36],
@@ -188,8 +189,8 @@ var NAVTREEINDEX214 =
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,30,7,5,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,11,7,5,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,30,7,5,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,11,7,5,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,30,7,5,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,11,7,5,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,30,7,5,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,11,7,5,0],
 "d8/d60/classboss__sartharion__shadron.html":[6,0,683],
@@ -248,6 +249,5 @@ var NAVTREEINDEX214 =
 "d8/d62/structLoot.html#abd4cc7342992c427dcb39ac07f4dee79":[6,0,1442,26],
 "d8/d62/structLoot.html#ac1fd68f855cfa84d822a5942d1288b92":[6,0,1442,9],
 "d8/d62/structLoot.html#ac60d37c9b93ff3c1efa307366477fc49":[6,0,1442,15],
-"d8/d62/structLoot.html#acae1055ea6bb51939e5d636c8e8865be":[6,0,1442,8],
-"d8/d62/structLoot.html#ad07a24c25eb246c921374f60c8174777":[6,0,1442,10]
+"d8/d62/structLoot.html#acae1055ea6bb51939e5d636c8e8865be":[6,0,1442,8]
 };

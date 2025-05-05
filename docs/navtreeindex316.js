@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dd/d08/structboss__grilek_1_1boss__grilekAI.html#a76d2cddd8ebfc4df400ef43f8c5aa936":[6,0,506,0,1],
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html#acd8ce07ab3ef576580df16c0176fcaf3":[6,0,506,0,2],
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html#ad20779cdb8d82ae8a54c12a8d4b0bada":[6,0,506,0,4],
 "dd/d08/structboss__grilek_1_1boss__grilekAI.html#aea4d151ce75bf2cdf6d6910c369daf17":[6,0,506,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dd/d19/OutdoorPvP_8h.html":[7,0,0,0,1,2,32,1],
 "dd/d19/OutdoorPvP_8h.html#a080aeb08f4e15904e94076846a03e927":[7,0,0,0,1,2,32,1,5],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adee":[7,0,0,0,1,2,32,1,7],
-"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e":[7,0,0,0,1,2,32,1,7,4],
-"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab":[7,0,0,0,1,2,32,1,7,2]
+"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e":[7,0,0,0,1,2,32,1,7,4]
 };

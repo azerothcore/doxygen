@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d8c/structnpc__amanishi__scout.html":[6,0,1574],
 "dc/d8c/structnpc__amanishi__scout.html#a3740a4fde31e1e81edb34dde61403acc":[6,0,1574,4],
 "dc/d8c/structnpc__amanishi__scout.html#a5969fadd871094e993c4d3fe0b08054c":[6,0,1574,1],
 "dc/d8c/structnpc__amanishi__scout.html#a74bed56c21c184e661f62c30ce6d9140":[6,0,1574,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d9f/classserver__commandscript.html#ac78145cb5c0888449756e4dbb36c005f":[6,0,2520,3],
 "dc/d9f/classserver__commandscript.html#ae18a92337d6cf8e62eafdf5f39d7b5a8":[6,0,2520,5],
 "dc/d9f/classserver__commandscript.html#ae64357518538c1ce4d03a8d9968b4035":[6,0,2520,13],
-"dc/d9f/structTSpellSummary.html":[6,0,4144],
-"dc/d9f/structTSpellSummary.html#a390ced58f1c1981c05cc2aec32a4d579":[6,0,4144,1]
+"dc/d9f/structTSpellSummary.html":[6,0,4144]
 };

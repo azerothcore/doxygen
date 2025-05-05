@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[6,0,3247,2],
 "d8/d81/VMapMgr2_8cpp.html":[7,0,0,0,0,1,0,8],
 "d8/d81/classspell__q12987__read__pronouncement.html":[6,0,3642],
 "d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[6,0,3642,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d8d/structboss__lady__malande.html#a8cb693d203463dcba809e7ffc23c6868":[6,0,585,0],
 "d8/d8d/structboss__lady__malande.html#ad5cf6e7b0000c7f96d8606088fb13d31":[6,0,585,1],
 "d8/d8d/structboss__lady__malande.html#af4b5f376e387851e15517de03636acde":[6,0,585,2],
-"d8/d8e/classHookList.html":[6,0,1261],
-"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[6,0,1261,5]
+"d8/d8e/classHookList.html":[6,0,1261]
 };

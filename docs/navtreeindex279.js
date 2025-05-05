@@ -1,5 +1,6 @@
 var NAVTREEINDEX279 =
 {
+"db/d7c/classnpc__nelson.html#ada597926a6db1aa7823ddabc19945b11":[6,0,1973,1],
 "db/d7c/classnpc__nelson.html#aff8e412cfcabd7b653cd30d29878be6a":[6,0,1973,4],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[5,0,30,5,16],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[6,0,11,5,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca89a5ee5c3ee9b35afe75c6ddc982d979":[7,0,0,0,1,3,5,8,0,0,26,23],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca8b05053b818bba333faa273791797499":[7,0,0,0,1,3,5,8,0,0,26,7],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca8efeef351fe57e275eb6278534daada5":[7,0,0,0,1,3,5,8,0,0,26,6],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca931d82665d3f57a7104b095f63fe01e6":[7,0,0,0,1,3,5,8,0,0,26,13],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,8,0,0,26,3]
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca931d82665d3f57a7104b095f63fe01e6":[7,0,0,0,1,3,5,8,0,0,26,13]
 };

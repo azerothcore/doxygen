@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d0b/namespaceAcore.html#a021f51138f5726e712f00bdddf9be729":[5,0,1,206],
 "d3/d0b/namespaceAcore.html#a07aa40e12479c740872d1ad7f55acbbc":[5,0,1,158],
 "d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274":[5,0,1,192],
 "d3/d0b/namespaceAcore.html#a17df66939c936195b601d2eecf30eaa0":[5,0,1,147],
@@ -182,22 +183,22 @@ var NAVTREEINDEX92 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f":[5,0,11,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[5,0,11,5],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa":[5,0,11,1],
-"d3/d13/structADT_1_1MODF.html":[6,0,1,1],
 "d3/d13/structADT_1_1MODF.html":[5,0,3,1],
-"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[6,0,1,1,2],
+"d3/d13/structADT_1_1MODF.html":[6,0,1,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,3,1,2],
+"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[6,0,1,1,2],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[6,0,1,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,3,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[6,0,1,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,3,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,3,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[6,0,1,1,6],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,3,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[6,0,1,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,3,1,4],
-"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,3,1,8],
-"d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,3,1,5],
+"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[6,0,1,1,5],
+"d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,3,1,5],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[5,0,3,1,3],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[6,0,1,1,3],
 "d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d14/structboss__priestess__delrissa.html#a40c9852f9a1ea24b61edf0f7c00193a6":[6,0,654,4],
 "d3/d14/structboss__priestess__delrissa.html#a60e39157aa3043284b2e1e032c0d9241":[6,0,654,7],
 "d3/d14/structboss__priestess__delrissa.html#a82d8c198f38c2aa881386e739dea6a08":[6,0,654,3],
-"d3/d14/structboss__priestess__delrissa.html#a9bde16a69ed9e950ce0dfb91805280cc":[6,0,654,10],
-"d3/d14/structboss__priestess__delrissa.html#ac0a2c4346c6222380d7bda9a274f78e0":[6,0,654,5]
+"d3/d14/structboss__priestess__delrissa.html#a9bde16a69ed9e950ce0dfb91805280cc":[6,0,654,10]
 };

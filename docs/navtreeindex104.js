@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"d3/d8d/classspell__mage__master__of__elements.html#acd807de02a83a97a78572d672fb16027":[6,0,3375,3],
 "d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0":[6,0,3375,6],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html":[6,0,1762,0],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a079be6dd45e96184d66e95f031dc9c5f":[6,0,1762,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d96/structnpc__eye__tentacle.html#a715439dfa31b4cf9df7ddd678d912108":[6,0,1768,3],
 "d3/d96/structnpc__eye__tentacle.html#aac965d97034f4f623172297e4f82647e":[6,0,1768,1],
 "d3/d96/structnpc__eye__tentacle.html#aeaa4ec0553480b9490d5e52820c2b77f":[6,0,1768,5],
-"d3/d98/structDynamicTreeLocationInfoCallback.html":[6,0,996],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#a3c9be93de73520942a8d52b78fe72438":[6,0,996,5]
+"d3/d98/structDynamicTreeLocationInfoCallback.html":[6,0,996]
 };

@@ -1059,6 +1059,7 @@ var classPlayer =
     [ "UpdateDuelFlag", "d2/d4b/classPlayer.html#a3459940c7ff9e2c6719bbfdc4336389d", null ],
     [ "UpdateEnchantmentDurations", "d2/d4b/classPlayer.html#a3da8d4e0c670358daab84cb6d8757ffc", null ],
     [ "UpdateEnchantTime", "d2/d4b/classPlayer.html#a166e763b3ee514c7bf1ba4303acfef6b", null ],
+    [ "UpdateEnergyRegen", "d2/d4b/classPlayer.html#ae3c63430d7c9754be7a6c30f4f65119d", null ],
     [ "UpdateEquipSpellsAtFormChange", "d2/d4b/classPlayer.html#a51e48f4c7ba4d8b283f92675592f2b39", null ],
     [ "UpdateExpertise", "d2/d4b/classPlayer.html#a6efacc1a5cdce1d2466dba3fc39cdf17", null ],
     [ "UpdateFallInformationIfNeed", "d2/d4b/classPlayer.html#a7d385eaf35dcb52f12ba70b9e004726a", null ],

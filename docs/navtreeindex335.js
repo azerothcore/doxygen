@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a3efc661e39b23d4900a6d76175934ea4":[7,0,0,0,1,3,5,19,34,2],
 "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a56fdaf664b4594fcb8f6c1b634d1c80f":[7,0,0,0,1,3,5,19,34,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a60f8d241ef458c2a3a90c493bf65e66d":[7,0,0,0,1,3,5,19,34,3],
 "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a79483ed902914f899ef143e7bd1a4c6c":[7,0,0,0,1,3,5,19,34,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/df1/namespaceAcore_1_1Net.html#abb8b9761e1df323f5c258c0a12da7bd4":[5,0,1,10,0],
 "dd/df1/namespaceAcore_1_1Net.html#af108d05a57113d16ab9c8f3b26870be2":[5,0,1,10,2],
 "dd/df1/namespaceAcore_1_1Net.html#af75b2c10ca445dc89c53b7ed8d17eae0":[5,0,1,10,1],
-"dd/df1/structboss__buru.html":[6,0,405],
-"dd/df1/structboss__buru.html#a177ec0ac9dcfbd9de51088bf50c5785c":[6,0,405,1]
+"dd/df1/structboss__buru.html":[6,0,405]
 };

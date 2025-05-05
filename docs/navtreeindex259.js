@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/d90/classSpellMgr.html#aa246091a96d42f80b5beb68091264b29":[6,0,4041,63],
 "da/d90/classSpellMgr.html#aa36449309e445b361a05bf77e4bd5698":[6,0,4041,107],
 "da/d90/classSpellMgr.html#aa42cd474dcb20407ec1253f05e74895e":[6,0,4041,26],
 "da/d90/classSpellMgr.html#aa5fc4532b216d557e88841f5ffc00865":[6,0,4041,38],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/d9a/kalimdor__script__loader_8cpp.html#a01dd3a78f0b663896c149c395a890753":[7,0,0,0,1,3,4,13,71],
 "da/d9a/kalimdor__script__loader_8cpp.html#a029f13fc388645daedf110882b97ab2b":[7,0,0,0,1,3,4,13,68],
 "da/d9a/kalimdor__script__loader_8cpp.html#a03ce4e023977d336dbdcbbe287c3eacc":[7,0,0,0,1,3,4,13,15],
-"da/d9a/kalimdor__script__loader_8cpp.html#a05fe21b6a553baae55b3b2523efaa9c3":[7,0,0,0,1,3,4,13,53],
-"da/d9a/kalimdor__script__loader_8cpp.html#a06e54e3edc2df068be660ac788b402e3":[7,0,0,0,1,3,4,13,45]
+"da/d9a/kalimdor__script__loader_8cpp.html#a05fe21b6a553baae55b3b2523efaa9c3":[7,0,0,0,1,3,4,13,53]
 };

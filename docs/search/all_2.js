@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['b32impl_1',['B32Impl',['../d7/d0a/structB32Impl.html',1,'']]],
   ['b64impl_2',['B64Impl',['../df/d6c/structB64Impl.html',1,'']]],
   ['bachiev_3',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],

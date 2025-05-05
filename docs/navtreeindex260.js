@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/d9a/kalimdor__script__loader_8cpp.html#a06e54e3edc2df068be660ac788b402e3":[7,0,0,0,1,3,4,13,45],
 "da/d9a/kalimdor__script__loader_8cpp.html#a08b7ebca65afaa4f5e7ee58ca36985a9":[7,0,0,0,1,3,4,13,35],
 "da/d9a/kalimdor__script__loader_8cpp.html#a0db4d34b8ea594cf2808b93c362a49c4":[7,0,0,0,1,3,4,13,55],
 "da/d9a/kalimdor__script__loader_8cpp.html#a14d205149c8d0d9429e98695e31d105d":[7,0,0,0,1,3,4,13,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fadb31645c53b38fe1d8ca06b54eeecbed":[7,0,0,0,1,3,7,13,37,19],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fadd9a22561edeeb3b281a292f356d3208":[7,0,0,0,1,3,7,13,37,12],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fae8604471332b15783e947502873b1dd8":[7,0,0,0,1,3,7,13,37,2],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2faeb9112acc0070483b465dee50f2f801b":[7,0,0,0,1,3,7,13,37,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fafd0798cb85b5cc6c8065a7bd9efdb7d4":[7,0,0,0,1,3,7,13,37,17]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2faeb9112acc0070483b465dee50f2f801b":[7,0,0,0,1,3,7,13,37,6]
 };

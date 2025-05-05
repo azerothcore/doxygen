@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a790a1438780f896b6d539d00ab593e69":[7,0,0,0,1,3,5,8,2,6,5,2],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a7adb52a4bf9c6c4d6d521dcefa0c2bc4":[7,0,0,0,1,3,5,8,2,6,5,0],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a997deec1589f9f518220a4ccf55700b0":[7,0,0,0,1,3,5,8,2,6,5,1],
 "df/d29/oculus_8h.html#a94bf697c818d14cdd636f8b753fcfe41":[7,0,0,0,1,3,5,8,2,6,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caae4d22aece6a0216306160b1d1cdc659":[7,0,0,0,1,3,4,9,4,4,6],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[7,0,0,0,1,3,4,9,4,4,2],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[7,0,0,0,1,3,4,9,4,4,5],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,4,4,3],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae0fa18919fc13ab1b07552ae49e88183":[7,0,0,0,1,3,4,9,4,4,14]
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,4,4,3]
 };

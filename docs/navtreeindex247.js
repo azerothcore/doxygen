@@ -1,5 +1,6 @@
 var NAVTREEINDEX247 =
 {
+"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ba35a20d685bfead078cebfceb73ab1":[7,0,0,0,1,3,2,1,3,0,6,3],
 "da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9f3eaef76d90f9f4efa2721af5b500ca":[7,0,0,0,1,3,2,1,3,0,6,2],
 "da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298cacf12b86f196313d1d9954fcc2cbc1259":[7,0,0,0,1,3,2,1,3,0,6,1],
 "da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298caef3e4861ce90f1b77eab500dddb31880":[7,0,0,0,1,3,2,1,3,0,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX247 =
 "da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2cc6b7c8c317c6d750bed34cd9d45b76":[7,0,0,0,1,3,4,20,14,0],
 "da/d1d/zone__durotar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac2d168c47cfbd629daf4548c637648a5":[7,0,0,0,1,3,4,20,14,2],
 "da/d1d/zone__durotar_8cpp.html#ad438ca426e03cfa85f551fab12e1a1a6":[7,0,0,0,1,3,4,20,9],
-"da/d1d/zone__durotar_8cpp.html#ad65e95bd98edfed3fed682911d8737a3":[7,0,0,0,1,3,4,20,17],
-"da/d1d/zone__durotar_8cpp.html#adfe70de7994d247de3e691c8ccd67273":[7,0,0,0,1,3,4,20,15]
+"da/d1d/zone__durotar_8cpp.html#ad65e95bd98edfed3fed682911d8737a3":[7,0,0,0,1,3,4,20,17]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/da5/Util_8cpp.html#aeaeb4d14bd6ff6536728bbf053805146":[7,0,0,0,0,15,38,25],
 "d9/da5/Util_8cpp.html#afa0874a9f505fbf81cd242c9ea33b379":[7,0,0,0,0,15,38,13],
 "d9/da5/Util_8cpp.html#afaf5870352b090b2acd19614a00f5478":[7,0,0,0,0,15,38,23],
 "d9/da5/classboss__flame__leviathan__overload__device.html":[6,0,468],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/dbf/classGhoulTargetCheck.html":[6,0,1097],
 "d9/dbf/classGhoulTargetCheck.html#a6722cfe5a1ceecccf2c07924b2975f46":[6,0,1097,1],
 "d9/dbf/classGhoulTargetCheck.html#ab44092ca1cd6d7c17d7c63e0a8333453":[6,0,1097,2],
-"d9/dbf/classGhoulTargetCheck.html#acd743b2b1407c5171fbf410a02ff07bf":[6,0,1097,0],
-"d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1757]
+"d9/dbf/classGhoulTargetCheck.html#acd743b2b1407c5171fbf410a02ff07bf":[6,0,1097,0]
 };

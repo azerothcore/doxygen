@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d9f/structTSpellSummary.html#a390ced58f1c1981c05cc2aec32a4d579":[6,0,4144,1],
 "dc/d9f/structTSpellSummary.html#a7ae062fbfacc6d848f5570a3bae3230f":[6,0,4144,0],
 "dc/da0/classDataMap_1_1Base.html":[6,0,947,0],
 "dc/da0/classDataMap_1_1Base.html#a124eb44dd53aa6e964e691b12bcb8d57":[6,0,947,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html":[6,0,1321,0],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a010079e135c41de850419149ec2857f3":[6,0,1321,0,18],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a1025fdcd1b84e5d2c4eaa79d918ecd78":[6,0,1321,0,15],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a12de9882d8e71f68e7b52e4b3972dca4":[6,0,1321,0,1],
-"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2":[6,0,1321,0,0]
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a12de9882d8e71f68e7b52e4b3972dca4":[6,0,1321,0,1]
 };

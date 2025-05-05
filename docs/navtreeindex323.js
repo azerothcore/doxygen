@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d58/classnpc__toc__rogue.html":[6,0,2186],
 "dd/d58/classnpc__toc__rogue.html#a6f0246b284ffd800e3870d70e9c52aac":[6,0,2186,2],
 "dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[6,0,2186,1],
 "dd/d58/classspell__gen__knock__away.html":[6,0,2944],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html":[6,0,788,0],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a00c137429f2b565bf195dab4e9902a7c":[6,0,788,0,4],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a01d889af8d8fe5712cde73cdc2bf3c95":[6,0,788,0,6],
-"dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a174be8d1673e332f9dceb10d2917bb4a":[6,0,788,0,3],
-"dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a351df0050661628e3ab0be2f636f9c4e":[6,0,788,0,0]
+"dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a174be8d1673e332f9dceb10d2917bb4a":[6,0,788,0,3]
 };

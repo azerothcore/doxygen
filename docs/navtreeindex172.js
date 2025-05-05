@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d61/instance__blackrock__depths_8cpp.html#adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58":[7,0,0,0,1,3,2,1,0,15,6,1],
 "d6/d61/structnpc__ulduar__dark__rune__watcher_1_1npc__ulduar__dark__rune__watcherAI.html":[6,0,2209,0],
 "d6/d61/structnpc__ulduar__dark__rune__watcher_1_1npc__ulduar__dark__rune__watcherAI.html#a2239253c2c4760b130ace4a07ef1e8c4":[6,0,2209,0,0],
 "d6/d61/structnpc__ulduar__dark__rune__watcher_1_1npc__ulduar__dark__rune__watcherAI.html#a58c5f53f74055b89c11ed27ffe908732":[6,0,2209,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956":[7,0,0,0,1,3,4,1,0,5,10,4],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca83845c23086b63641681a08b49a5e651":[7,0,0,0,1,3,4,1,0,5,10,16],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,4,1,0,5,10,20],
-"d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e6b5cae11127a111a2db3c12d7db95a":[7,0,0,0,1,3,4,1,0,5,10,11],
-"d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca9775855e36226912c9ef506f47193802":[7,0,0,0,1,3,4,1,0,5,10,3]
+"d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e6b5cae11127a111a2db3c12d7db95a":[7,0,0,0,1,3,4,1,0,5,10,11]
 };

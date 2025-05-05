@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d3b/structGameObjectTemplate.html#a5987f0a0f158e4836a237f76d48b36b0":[6,0,1084,166],
 "dd/d3b/structGameObjectTemplate.html#a5a79fd18410af167d569932762dd819c":[6,0,1084,48],
 "dd/d3b/structGameObjectTemplate.html#a5af91d8a2831997058a936469bd4a2bc":[6,0,1084,134],
 "dd/d3b/structGameObjectTemplate.html#a5e133a0706b8932938dbd7c2d086f593":[6,0,1084,98],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6":[6,0,2048,0,4],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#ac145a4a4a24be227c31fcc5aefd922eb":[6,0,2048,0,3],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#adf388d36c17b69f881e3cb92d9b78b9b":[6,0,2048,0,1],
-"dd/d45/structItemRandomSuffixEntry.html":[6,0,1383],
-"dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[6,0,1383,3]
+"dd/d45/structItemRandomSuffixEntry.html":[6,0,1383]
 };

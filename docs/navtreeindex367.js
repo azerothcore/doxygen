@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,47,20],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,47,13],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,47,14],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a723f43bebeb9fb471451eab79c9b2f8b":[7,0,0,0,1,3,5,18,47,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a8686845ebef564c9fcaa115866c99749":[6,0,1722,6],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[6,0,1722,1],
 "de/db2/classspell__black__template__free__friend.html":[6,0,2626],
-"de/db2/classspell__black__template__free__friend.html#a0810dd4ad4d324c1a53e192fc99d1d35":[6,0,2626,0],
-"de/db2/classspell__black__template__free__friend.html#a0ece61d7bed3e19ee6f6175a55c0733d":[6,0,2626,1]
+"de/db2/classspell__black__template__free__friend.html#a0810dd4ad4d324c1a53e192fc99d1d35":[6,0,2626,0]
 };

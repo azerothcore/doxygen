@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d3/d4b/structboss__archimonde.html#aba420f926ccdfc6feeb16a0e6d67267f":[6,0,382,1],
 "d3/d4b/structboss__archimonde.html#ad967688caad8a6c7530bfd4709aecb06":[6,0,382,13],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html":[6,0,1730,0],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#a3def0a0dd57ed732242a09d6390ab1f0":[6,0,1730,0,2],
@@ -84,8 +85,8 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1030,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,6,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,30,6,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,30,6,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,6,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,30,6,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,6,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3412],
@@ -187,18 +188,18 @@ var NAVTREEINDEX99 =
 "d3/d5d/structVMAP_1_1MapSpawns.html":[6,0,9,12],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[6,0,9,12,1],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[5,0,27,12,1],
-"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,27,12,0],
 "d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[6,0,9,12,0],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[5,0,1,41],
+"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,27,12,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[6,0,0,29],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[5,0,1,41],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[6,0,0,29,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[5,0,1,41,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[6,0,0,29,2],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[5,0,1,41,2],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[5,0,1,41,1],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[6,0,0,29,1],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[6,0,0,29,3],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[5,0,1,41,1],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[5,0,1,41,3],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[6,0,0,29,3],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[5,0,1,41,4],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[6,0,0,29,4],
 "d3/d5f/classAuraScript_1_1EffectCalcPeriodicHandler.html":[6,0,284,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#a9d60a0d24a4f3e32f4ac402f54c9890f":[6,0,765,0,10],
 "d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#ab46dcf410536a917953a007786c9d140":[6,0,765,0,11],
 "d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#acfefbc890c56c7078a8b2c349bc53258":[6,0,765,0,14],
-"d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#adbeae34409a18a1297a93ac6dbd20650":[6,0,765,0,5],
-"d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#af12ff3efe4ddaf1ad421755e8a6f3265":[6,0,765,0,2]
+"d3/d5f/structboss__vezax_1_1boss__vezaxAI.html#adbeae34409a18a1297a93ac6dbd20650":[6,0,765,0,5]
 };

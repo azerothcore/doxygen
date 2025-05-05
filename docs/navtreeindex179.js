@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/dbf/classTaskScheduler_1_1Task.html#a0bbb86f1ed4357c9af9813e551fc41d7":[6,0,4094,1,4],
 "d6/dbf/classTaskScheduler_1_1Task.html#a0d846eeae80d54906771ba41281fbdc0":[6,0,4094,1,16],
 "d6/dbf/classTaskScheduler_1_1Task.html#a15fd2d39bf79bd4d8ea432b5543f5efc":[6,0,4094,1,0],
 "d6/dbf/classTaskScheduler_1_1Task.html#a45990c164939b2c5a4fafc541103f70f":[6,0,4094,1,9],
@@ -58,13 +59,13 @@ var NAVTREEINDEX179 =
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,3],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1036,10],
-"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,8],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,9],
+"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1036,8],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1036,15],
 "d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee":[6,0,1036,16],
 "d6/dc2/classFileLoader.html#a498a33d80768843b4ab1ff2d5ffe68d9":[6,0,1036,13],
-"d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1036,0],
 "d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1036,2],
+"d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1036,0],
 "d6/dc2/classFileLoader.html#a738aeb2ebe751c9fc75013dbce30dcc4":[6,0,1036,4],
 "d6/dc2/classFileLoader.html#ab66347098d7c9ac470339c232f9b7588":[6,0,1036,12],
 "d6/dc2/classFileLoader.html#aed85cdbd6a4e52096292c6ed8578f7bd":[6,0,1036,6],
@@ -106,10 +107,10 @@ var NAVTREEINDEX179 =
 "d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[5,0,1,71,1],
 "d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[6,0,0,59,4],
 "d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[5,0,1,71,4],
-"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[6,0,0,59,3],
 "d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[5,0,1,71,3],
-"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[5,0,1,71,0],
+"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[6,0,0,59,3],
 "d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[6,0,0,59,0],
+"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[5,0,1,71,0],
 "d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[6,0,0,59,2],
 "d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[5,0,1,71,2],
 "d6/dc7/classCreatureGroup.html":[6,0,917],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0":[6,0,2395,1],
 "d6/dcb/structPlayerClassLevelInfo.html#a60153094e3179bfc6c028d2b76775805":[6,0,2395,0],
 "d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22":[6,0,2395,2],
-"d6/dcc/SocketMgr_8h.html":[7,0,0,0,1,4,1,3],
-"d6/dcc/classBag.html":[6,0,297]
+"d6/dcc/SocketMgr_8h.html":[7,0,0,0,1,4,1,3]
 };

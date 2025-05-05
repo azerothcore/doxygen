@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a351df0050661628e3ab0be2f636f9c4e":[6,0,788,0,0],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a832d1b1154b158c348f9d5883ad0fbd7":[6,0,788,0,2],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#ad84c2b479a2d7df7aec40f17287a2438":[6,0,788,0,1],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#ae5c189401dd04823449e7a16c197e65f":[6,0,788,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22af4748c234294349093e95007ce71dad6":[7,0,0,0,1,3,3,2,15,17],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22af64eb53a45f0a7f0ba668c8bd587599c":[7,0,0,0,1,3,3,2,15,4],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22afd234bd6046b1d01bb79792ab58e8ab4":[7,0,0,0,1,3,3,2,15,10],
-"dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,3,2,13],
-"dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61d9a2a9228ba23c39e7451235bd37fa":[7,0,0,0,1,3,3,2,13,0]
+"dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,3,2,13]
 };

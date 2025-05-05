@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d10/structDiminishingReturn.html#a94b1fdc8e8d51b1c6f5e723e697ed323":[6,0,973,2],
 "d9/d10/structDiminishingReturn.html#acd4828637710636d0164fced285c854d":[6,0,973,0],
 "d9/d10/structDiminishingReturn.html#add3ab95d65e283a326e1922129941ae4":[6,0,973,1],
 "d9/d10/structDiminishingReturn.html#ae3f5eecc2bc88fe236fe4c7c297b68c5":[6,0,973,3],
@@ -40,14 +41,14 @@ var NAVTREEINDEX230 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,30,7,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[6,0,11,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,30,7,2,3],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,30,7,2,5],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,30,7,2,4],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,30,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,30,7,2,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,30,7,2,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[6,0,11,7,2,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,30,7,2,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[6,0,2590],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d27/classspell__demolisher__ride__vehicle.html#a09cbe962ae1f18811db8c1d32b856c0d":[6,0,2719,1],
 "d9/d27/classspell__demolisher__ride__vehicle.html#a240989af43e5ad6eb81d600a2f1d4769":[6,0,2719,2],
 "d9/d27/classspell__demolisher__ride__vehicle.html#a866fd47d51b5fc4c07c3733739d07c02":[6,0,2719,0],
-"d9/d28/classnpc__azure__mage__slayer.html":[6,0,1618],
-"d9/d28/classnpc__azure__mage__slayer.html#a9b795915100f47b11a65abdfdcbf39f4":[6,0,1618,2]
+"d9/d28/classnpc__azure__mage__slayer.html":[6,0,1618]
 };

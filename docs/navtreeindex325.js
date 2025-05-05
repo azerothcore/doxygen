@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61d9a2a9228ba23c39e7451235bd37fa":[7,0,0,0,1,3,3,2,13,0],
 "dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c0e016fee5614edc92c1a631b768df9":[7,0,0,0,1,3,3,2,13,2],
 "dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad8f8708c02ec0359a50408a940485630":[7,0,0,0,1,3,3,2,13,1],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eb":[7,0,0,0,1,3,3,2,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d87/classnpc__wg__quest__giver.html#ad08debc749cbaea6fad9b7bcfb5548e0":[6,0,2271,2],
 "dd/d87/classspell__kalecgos__spectral__realm__aura.html":[6,0,3305],
 "dd/d87/classspell__kalecgos__spectral__realm__aura.html#a2438d8c85ff2a446572286b0d058ecf1":[6,0,3305,0],
-"dd/d87/classspell__kalecgos__spectral__realm__aura.html#ade353aafb960cabdb615718f41f485e8":[6,0,3305,1],
-"dd/d87/classspell__kalecgos__spectral__realm__aura.html#af1c312778a13f7fe8d174247f69258ac":[6,0,3305,2]
+"dd/d87/classspell__kalecgos__spectral__realm__aura.html#ade353aafb960cabdb615718f41f485e8":[6,0,3305,1]
 };

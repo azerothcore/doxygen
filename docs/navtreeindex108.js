@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"d3/db4/structboss__julianne.html#a985c9c1f77b2769461bf42ddaab302d3":[6,0,558,2],
 "d3/db4/structboss__julianne.html#aae4be9b1035626ecc9ad2f3e5b918cbe":[6,0,558,12],
 "d3/db4/structboss__julianne.html#ab0939f8fe0fc34cafbe2dab4ef449895":[6,0,558,9],
 "d3/db4/structboss__julianne.html#abdfaf6fa147c6b35bed28bb2e3ed3c14":[6,0,558,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d3/dc8/classat__zulgurub__bloodfire__pit__speech.html":[6,0,249],
 "d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a880058a08d7da3b8d3062a8bc17367a4":[6,0,249,0],
 "d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a8f1e477942ba9a5f653077632a98930f":[6,0,249,1],
-"d3/dc8/classboss__okthor.html":[6,0,640],
-"d3/dc8/classboss__okthor.html#a15d13a6c879ae260c0676fd4a4aff645":[6,0,640,2]
+"d3/dc8/classboss__okthor.html":[6,0,640]
 };

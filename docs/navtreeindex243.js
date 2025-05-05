@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/dc8/classDialogueHelper.html#ac16b8b9b50e8b35980d21f161bf33340":[6,0,972,5],
 "d9/dc8/classboss__deathbringer__saurfang.html":[6,0,419],
 "d9/dc8/classboss__deathbringer__saurfang.html#a6bc1ef44b3ea9e860d62bf78cfa38c92":[6,0,419,2],
 "d9/dc8/classboss__deathbringer__saurfang.html#ad19893be7dc3b4290d9b1ed3bb992e08":[6,0,419,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/de2/structCalcDamageInfo.html":[6,0,828],
 "d9/de2/structCalcDamageInfo.html#a01f1cc6661ef5f4e7d657ba59d06108f":[6,0,828,7],
 "d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,828,3],
-"d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115":[6,0,828,9],
-"d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f":[6,0,828,10]
+"d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115":[6,0,828,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"da/df9/classDynamicVisibilityMgr.html":[6,0,997],
 "da/df9/classDynamicVisibilityMgr.html#a35ebd0fcbdec8a3287f714cbe9becbcc":[6,0,997,4],
 "da/df9/classDynamicVisibilityMgr.html#a58687646bbf83723e8ad2925ee50452c":[6,0,997,1],
 "da/df9/classDynamicVisibilityMgr.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6":[6,0,997,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX270 =
 "db/d0c/classspell__blood__council__shadow__prison__damage.html#adeedfdd7555dfd009c99db6f002f7488":[6,0,2644,0],
 "db/d0c/classspell__blood__council__shadow__prison__damage.html#affe1d9a5e9c4776d1651fdb95283caf4":[6,0,2644,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html":[6,0,2991],
-"db/d0c/classspell__gen__spirit__of__competition__winner.html#a12f4c4a85f19ceb55d274428cf2b25a4":[6,0,2991,0],
-"db/d0c/classspell__gen__spirit__of__competition__winner.html#a437a018fd6917bee51bdbba7cf29e53d":[6,0,2991,3]
+"db/d0c/classspell__gen__spirit__of__competition__winner.html#a12f4c4a85f19ceb55d274428cf2b25a4":[6,0,2991,0]
 };

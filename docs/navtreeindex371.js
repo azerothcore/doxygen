@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2685,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html":[6,0,770,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a14c65e87caf2f0e815955946357aebf2":[6,0,770,0,14],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a3305529d3a25a929c4c6c5128773a4b6":[6,0,770,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1259,0],
 "de/df4/classUnboundPlagueTargetSelector.html":[6,0,4154],
 "de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[6,0,4154,2],
-"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[6,0,4154,1],
-"de/df4/classUnboundPlagueTargetSelector.html#aedde7e013418bf6ff54cf3d3b8a70206":[6,0,4154,0]
+"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[6,0,4154,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d5c/classWarden.html#af79f135bbac6904b2f80485ae838f570":[6,0,4192,13],
 "db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4192,32],
 "db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[6,0,4192,10],
 "db/d5c/classWarden.html#affe98268403db8e661541e7cc2b4714c":[6,0,4192,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d6d/classnpc__argent__soldier.html":[6,0,1601],
 "db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[6,0,1601,1],
 "db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1601,2],
-"db/d6d/structAntiDosOpcodePolicy.html":[6,0,152],
-"db/d6d/structAntiDosOpcodePolicy.html#a8b2bbd3d9f52166c1235b0d306042609":[6,0,152,1]
+"db/d6d/structAntiDosOpcodePolicy.html":[6,0,152]
 };

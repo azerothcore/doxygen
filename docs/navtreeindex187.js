@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d7/d2c/classspell__sha__earthliving__weapon.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb":[6,0,3735,2],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a7c5d82eba0bba896294cffc94843414c":[6,0,3735,3],
 "d7/d2c/structnpc__taldaram__flamesphere.html":[6,0,2143],
 "d7/d2c/structnpc__taldaram__flamesphere.html#a163341c0ff0f56986e2486e06e21b4b2":[6,0,2143,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a8f706239d33861105a37476eecb977ec":[6,0,580,0,11],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a92a2b2089c890901cd438c8d8ea432c7":[6,0,580,0,0],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aa99c241641fc7e94412d08bebed07475":[6,0,580,0,3],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d":[6,0,580,0,5],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ab4a576f9746f7ade8f6b8f8c08795433":[6,0,580,0,2]
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d":[6,0,580,0,5]
 };

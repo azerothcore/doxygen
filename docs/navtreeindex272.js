@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,3994,1],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[6,0,3994,0],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,251],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a725de49be12116f2f7e77edd31a096ae":[6,0,251,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[6,0,321,1],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[6,0,321,2],
 "db/d29/structWardenCheck.html":[6,0,4193],
-"db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[6,0,4193,0],
-"db/d29/structWardenCheck.html#a15ecbc1a6582666a14423fa157d2fb84":[6,0,4193,5]
+"db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[6,0,4193,0]
 };

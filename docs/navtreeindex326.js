@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d87/classspell__kalecgos__spectral__realm__aura.html#af1c312778a13f7fe8d174247f69258ac":[6,0,3305,2],
 "dd/d87/classspell__kalecgos__spectral__realm__aura.html#afd75cdeb9430833fa6a59d7913c86a97":[6,0,3305,3],
 "dd/d88/classspell__illidari__council__deadly__strike__aura.html":[6,0,3159],
 "dd/d88/classspell__illidari__council__deadly__strike__aura.html#a5cba6aaa06f8ec6e083ee0c5064414e4":[6,0,3159,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d8d/DBCStores_8cpp.html#aedcdbef7c215330459e17b2f224ff0e3":[7,0,0,0,1,2,14,0,39],
 "dd/d8d/DBCStores_8cpp.html#aedd41232de632a297dc5d445263ed005":[7,0,0,0,1,2,14,0,29],
 "dd/d8d/DBCStores_8cpp.html#aeeb4aed00cc65a59d882997d8ed991bd":[7,0,0,0,1,2,14,0,120],
-"dd/d8d/DBCStores_8cpp.html#aefc3df82cbf332a6af4aeca1fbefb4e1":[7,0,0,0,1,2,14,0,48],
-"dd/d8d/DBCStores_8cpp.html#aefeec9f1e85a7d39f6b75e5d148391b6":[7,0,0,0,1,2,14,0,58]
+"dd/d8d/DBCStores_8cpp.html#aefc3df82cbf332a6af4aeca1fbefb4e1":[7,0,0,0,1,2,14,0,48]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[6,0,1261,5],
 "d8/d8e/classHookList.html#a2d6f26f422402c3dcc0e026587201f9e":[6,0,1261,0],
 "d8/d8e/classHookList.html#a3a4a52377c59e360b9aa164940b06285":[6,0,1261,3],
 "d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[6,0,1261,6],
@@ -20,22 +21,22 @@ var NAVTREEINDEX220 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[6,0,0,5,0,22,8],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[5,0,1,8,0,22,8],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[6,0,0,5,0,22,7],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[5,0,1,8,0,22,7],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[6,0,0,5,0,22,7],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[6,0,0,5,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[5,0,1,8,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[6,0,0,5,0,22,4],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[5,0,1,8,0,22,4],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[6,0,0,5,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[5,0,1,8,0,22,3],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[6,0,0,5,0,22,2],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,1,8,0,22,2],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[5,0,1,8,0,22,9],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[6,0,0,5,0,22,2],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[6,0,0,5,0,22,9],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[5,0,1,8,0,22,9],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[5,0,1,8,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[6,0,0,5,0,22,0],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,1,8,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[6,0,0,5,0,22,1],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,1,8,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[6,0,0,5,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,1,8,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,1,8,0,22,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#a6a09440d623dcee51b7e0d4ed77d624e":[6,0,1649,0,4],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#a752b6eab9cf1b016962c6f535586b59d":[6,0,1649,0,2],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#a7d305be5e3d66c1317fa91e588223da0":[6,0,1649,0,1],
-"d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1649,0,0],
-"d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1649,0,3]
+"d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1649,0,0]
 };

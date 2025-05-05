@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html#aaba8ef0b33b9bb9acf74223ef0e9aaad":[6,0,1948,0,3],
 "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html#aaf2b0ac9b723bb16bfaf8481165e6b4f":[6,0,1948,0,1],
 "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html#ab47451dfeff84c8467be2b76554df897":[6,0,1948,0,4],
 "d4/d3e/classBattlegroundSA.html":[6,0,333],
@@ -119,14 +120,14 @@ var NAVTREEINDEX124 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[6,0,586,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[6,0,586,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,586,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,30,5,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,11,5,8],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,30,5,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,11,5,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,30,5,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,11,5,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,30,5,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,5,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,30,5,8,0],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,5,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,30,5,8,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,11,5,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1342],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d50/classKillRewarder.html#add8e75716e21dce485272729397d88cd":[6,0,1395,8],
 "d4/d50/classKillRewarder.html#ae6ed6662efcd1cdefa3ec0a85323f49c":[6,0,1395,1],
 "d4/d50/classKillRewarder.html#aecbd865ac64dfafc4a14e73888da9520":[6,0,1395,17],
-"d4/d50/classKillRewarder.html#af202d546982b087711ee740f4cd561b7":[6,0,1395,18],
-"d4/d50/classKillRewarder.html#af65907016d7068967ab1dc436b2d595a":[6,0,1395,0]
+"d4/d50/classKillRewarder.html#af202d546982b087711ee740f4cd561b7":[6,0,1395,18]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ac277619c4e822572249f2b938a18fad7":[7,0,0,0,1,2,7,0,1,24,42],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ac53e4ed355ae3d797d271f80baf4dde8":[7,0,0,0,1,2,7,0,1,24,4],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ac5cda0d0d9ef0601db7be3227aeb8aea":[7,0,0,0,1,2,7,0,1,24,2],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16acb10d402a2f0a96d7814ce8a67be7ffa":[7,0,0,0,1,2,7,0,1,24,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d51/spell__dk_8cpp.html#aa5737a1fd2e9bbe161e8f4445546676f":[7,0,0,0,1,3,9,0,50],
 "d6/d51/spell__dk_8cpp.html#aa5737a1fd2e9bbe161e8f4445546676fa31a875d1255ca631732a3394f4ad7910":[7,0,0,0,1,3,9,0,50,0],
 "d6/d51/spell__dk_8cpp.html#adcd4982e9aa1bb7ee8b4b39976cb7273":[7,0,0,0,1,3,9,0,53],
-"d6/d51/structboss__krick_1_1boss__krickAI.html":[6,0,579,0],
-"d6/d51/structboss__krick_1_1boss__krickAI.html#a75349e2fc35832e7944fa4f772380baa":[6,0,579,0,3]
+"d6/d51/structboss__krick_1_1boss__krickAI.html":[6,0,579,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX125 =
 {
+"d4/d50/classKillRewarder.html#af65907016d7068967ab1dc436b2d595a":[6,0,1395,0],
 "d4/d50/classKillRewarder.html#af716eba4bb8b15dd3fc005324fc3ac13":[6,0,1395,11],
 "d4/d50/classKillRewarder.html#afb2f1669e698f0597bb67eae7af6de76":[6,0,1395,5],
 "d4/d52/SpellScript_8cpp.html":[7,0,0,0,1,2,41,10],
@@ -185,8 +186,8 @@ var NAVTREEINDEX125 =
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[6,0,0,5,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[6,0,0,5,0,15,4],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,1,8,0,15,2],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[6,0,0,5,0,15,3],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,1,8,0,15,3],
 "d4/d59/classat__scarshield__infiltrator.html":[6,0,237],
@@ -248,6 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d5a/unionMovement_1_1FacingInfo.html#add6411db27c1d313d2f133adf0c35755":[6,0,7,2,2],
 "d4/d5b/MathUtil_8h.html":[7,0,0,0,0,15,15],
 "d4/d5b/MathUtil_8h.html#a4840fd449eb626bea901860e4c1be22a":[7,0,0,0,0,15,15,1],
-"d4/d5b/MathUtil_8h.html#a60ce9c7718ec2901f037e2368f93026d":[7,0,0,0,0,15,15,2],
-"d4/d5b/MathUtil_8h.html#a64ba279a3d3edca415239118167c0206":[7,0,0,0,0,15,15,0]
+"d4/d5b/MathUtil_8h.html#a60ce9c7718ec2901f037e2368f93026d":[7,0,0,0,0,15,15,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3440,2],
 "d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3440,0],
 "d8/dca/classspell__nether__portal__perseverence.html#ae908ad87781553cc3bed05ea510a4447":[6,0,3440,1],
 "d8/dcb/classBGQueueInviteEvent.html":[6,0,351],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dd6/DBCfmt_8h.html#aed60e2a3c0115adf6045668d3f95d606":[7,0,0,0,1,4,0,3,67],
 "d8/dd6/DBCfmt_8h.html#af2d540261ada7bc910967d9767c2c899":[7,0,0,0,1,4,0,3,3],
 "d8/dd6/DBCfmt_8h.html#af531c8e1a2656dc426f2008860b5538f":[7,0,0,0,1,4,0,3,38],
-"d8/dd6/DBCfmt_8h.html#af73da2060c3b94bf7a13eafa85ea79c6":[7,0,0,0,1,4,0,3,100],
-"d8/dd6/DBCfmt_8h.html#af7faa3abc538f6296a44a89e90846b7c":[7,0,0,0,1,4,0,3,77]
+"d8/dd6/DBCfmt_8h.html#af73da2060c3b94bf7a13eafa85ea79c6":[7,0,0,0,1,4,0,3,100]
 };

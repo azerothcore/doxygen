@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d5/d09/classspell__ooze__zap__channel__end.html#ad7a53cc6a24197c050ed8577f6c6cc12":[6,0,3463,2],
 "d5/d0a/classRoll.html":[6,0,2493],
 "d5/d0a/classRoll.html#a2dc422a05158521f857caf7dce005f72":[6,0,2493,5],
 "d5/d0a/classRoll.html#a34869ee15d87708859cd51262ad160fc":[6,0,2493,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d1c/cs__script__loader_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[7,0,0,0,1,3,0,39,13],
 "d5/d1c/cs__script__loader_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[7,0,0,0,1,3,0,39,7],
 "d5/d1c/cs__script__loader_8cpp.html#a2ff66ad19f50180b9878cf95696fd09b":[7,0,0,0,1,3,0,39,46],
-"d5/d1c/cs__script__loader_8cpp.html#a366685affd5565d164c65f8cd4a20b61":[7,0,0,0,1,3,0,39,36],
-"d5/d1c/cs__script__loader_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516":[7,0,0,0,1,3,0,39,35]
+"d5/d1c/cs__script__loader_8cpp.html#a366685affd5565d164c65f8cd4a20b61":[7,0,0,0,1,3,0,39,36]
 };

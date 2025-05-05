@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d3d/structnpc__supervisor__raelen.html#a0b8d661a86ec334adeb502d6936135ee":[6,0,2139,1],
 "db/d3d/structnpc__supervisor__raelen.html#a1ed36b07ff83a6a8a202f4a451d90190":[6,0,2139,5],
 "db/d3d/structnpc__supervisor__raelen.html#a2059d41f6df3a44406ab69a0dca501a4":[6,0,2139,0],
 "db/d3d/structnpc__supervisor__raelen.html#a623a95d4f3ca483d1bf3dff5e06c1958":[6,0,2139,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a9852a46c953e171195a8863b0248a328":[7,0,0,0,1,3,4,8,4,7,0],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9abc33b11540726249fc549e501d963cc4":[7,0,0,0,1,3,4,8,4,7,1],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9ac7fe4a075b9a9af0d891907d2f36a97b":[7,0,0,0,1,3,4,8,4,7,7],
-"db/d4e/boss__ossirian_8cpp.html#ac86b3e59390c49f2b3127e68221c46d3":[7,0,0,0,1,3,4,8,4,16],
-"db/d4e/boss__ossirian_8cpp.html#aceda6ac940b3babb849fdf8352e59413":[7,0,0,0,1,3,4,8,4,14]
+"db/d4e/boss__ossirian_8cpp.html#ac86b3e59390c49f2b3127e68221c46d3":[7,0,0,0,1,3,4,8,4,16]
 };

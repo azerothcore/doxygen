@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a8a89f56945022e34cc5d9ead06a58b63":[6,0,1336,0,2],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#aa8e267617231a7816a43e9957c745c58":[6,0,1336,0,6],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#ab2ca710f119fbfc1a7b57a88462d145b":[6,0,1336,0,7],
 "dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#abded7dc13c226ccad53c151d75ced243":[6,0,1336,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,30,13,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,11,13,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,11,13,2],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,30,13,2],
-"dc/d6d/classgo__crystalline__tear.html":[6,0,1126]
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,30,13,2]
 };

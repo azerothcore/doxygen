@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d7d/classZoneScript.html#afaf1aecaaaac82508b8f1c50712b8204":[6,0,4267,12],
 "dc/d7d/classachievement__quick__shave.html":[6,0,81],
 "dc/d7d/classachievement__quick__shave.html#a151c479da3d4cec05999ad8a249b100c":[6,0,81,1],
 "dc/d7d/classachievement__quick__shave.html#a6c2f1e60d2311922abbaf7e22e1e9e4b":[6,0,81,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46":[7,0,0,0,1,3,2,33,2,1],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050":[7,0,0,0,1,3,2,33,2,7],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e":[7,0,0,0,1,3,2,33,2,0],
-"dc/d8b/zone__westfall_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[7,0,0,0,1,3,2,33,3],
-"dc/d8c/structnpc__amanishi__scout.html":[6,0,1574]
+"dc/d8b/zone__westfall_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[7,0,0,0,1,3,2,33,3]
 };

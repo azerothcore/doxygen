@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,4,9,9],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,9,9,8],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d5160432b20a5b6507647bd3f6bbe07":[7,0,0,0,1,3,2,4,9,9,10],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,9,9,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/deb/classspell__bronjahm__soulstorm__channel__ooc__aura.html#ae9602bc623422c124dfc37a18c0dbfec":[6,0,2674,2],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html":[6,0,3344],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a246c20ab26d1490fe38afd558a7ae406":[6,0,3344,2],
-"db/deb/classspell__leotheras__insidious__whisper__aura.html#a3893fffea480b47d06c4903deb051aa9":[6,0,3344,0],
-"db/deb/classspell__leotheras__insidious__whisper__aura.html#a8f120ed0d8cbce6dd0640f02ea488669":[6,0,3344,1]
+"db/deb/classspell__leotheras__insidious__whisper__aura.html#a3893fffea480b47d06c4903deb051aa9":[6,0,3344,0]
 };
