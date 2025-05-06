@@ -1,5 +1,7 @@
 var NAVTREEINDEX305 =
 {
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,11,13,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,30,13,2],
 "dc/d6d/classgo__crystalline__tear.html":[6,0,1126],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1126,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1126,0],
@@ -35,10 +37,10 @@ var NAVTREEINDEX305 =
 "dc/d6f/action__ip__logger_8cpp.html#a530be5efb251d5ca58e97804e48ad953":[7,0,0,0,1,3,10,1,4],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[6,0,0,15],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[5,0,1,27],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,15,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,1,27,1],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,15,0],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,15,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,1,27,0],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,15,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,15,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d7d/classZoneScript.html#ab7aecf55fb84288840465dd69eacc8eb":[6,0,4267,4],
 "dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4":[6,0,4267,16],
 "dc/d7d/classZoneScript.html#adf80a1b08c7ab4451cd6967138727b56":[6,0,4267,9],
-"dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4267,7],
-"dc/d7d/classZoneScript.html#af4aa4d8f6b48d7d63fb6daa85d50c756":[6,0,4267,1],
-"dc/d7d/classZoneScript.html#afa02089edff085ecd4eb7178b94ffe26":[6,0,4267,10]
+"dc/d7d/classZoneScript.html#ae61020e57e9ca8ae0d42a51e39b1fee0":[6,0,4267,7]
 };

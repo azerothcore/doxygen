@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#adf388d36c17b69f881e3cb92d9b78b9b":[6,0,2048,0,1],
+"dd/d45/structItemRandomSuffixEntry.html":[6,0,1383],
 "dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[6,0,1383,3],
 "dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1383,0],
 "dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1383,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,4,9,7,7,1],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,4,9,7,7,3],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,4,9,7,7,5],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,4,9,7,7,0],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739":[7,0,0,0,1,3,4,9,7,7,6],
-"dd/d58/boss__twinemperors_8cpp.html#ac7ebb1d823f77b23775c912303b2dac5":[7,0,0,0,1,3,4,9,7,10]
+"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,4,9,7,7,0]
 };

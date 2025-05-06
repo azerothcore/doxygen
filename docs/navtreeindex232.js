@@ -1,5 +1,7 @@
 var NAVTREEINDEX232 =
 {
+"d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#a492bd9e9c82937e00897e19362b40901":[6,0,3993,0],
+"d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#adfcaf82ff48225ea0e0314d421795644":[6,0,3993,2],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html":[6,0,2228],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html#a41cc84b04124bb47c24b39a48c9023b1":[6,0,2228,1],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html#a7715ce6646efa3728c28c4e11b25c2ed":[6,0,2228,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d4d/classmisc__commandscript.html#ad5a53bcb8840bff1fb080e15715b1f6a":[6,0,1500,0],
 "d9/d4d/classmisc__commandscript.html#ad7a445556e92c64ab769cb2e3631a993":[6,0,1500,20],
 "d9/d4d/classmisc__commandscript.html#adc0ef6940602615062c716204c333f98":[6,0,1500,29],
-"d9/d4d/classmisc__commandscript.html#adc6779a70c7a79a7bd08a419d62edb88":[6,0,1500,18],
-"d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882":[6,0,1500,19],
-"d9/d4d/classmisc__commandscript.html#af11cc1d015103bed5d1d2391f46d1df1":[6,0,1500,32]
+"d9/d4d/classmisc__commandscript.html#adc6779a70c7a79a7bd08a419d62edb88":[6,0,1500,18]
 };

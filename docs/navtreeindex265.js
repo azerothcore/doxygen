@@ -1,5 +1,7 @@
 var NAVTREEINDEX265 =
 {
+"da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a34f9aed951f7174bf746f968e21d8feb":[7,0,0,0,1,2,16,7,5,120,10],
+"da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a3c0dc471156066e1f93eef09038734c7":[7,0,0,0,1,2,16,7,5,120,7],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a416209be4f7877016f0779661e614843":[7,0,0,0,1,2,16,7,5,120,21],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a5ab3dc5780ed38c378f22bdd33fac71f":[7,0,0,0,1,2,16,7,5,120,20],
 "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a5ec11a18bcb6ace53b4797101bbde00c":[7,0,0,0,1,2,16,7,5,120,9],
@@ -200,12 +202,12 @@ var NAVTREEINDEX265 =
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,1,46,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,1,46,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[6,0,0,34,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,34,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,1,46,1],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,34,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,34,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,1,46,5],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,34,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,1,46,2],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,34,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,1,46,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,34,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[6,0,0,34,4],
@@ -228,14 +230,14 @@ var NAVTREEINDEX265 =
 "da/dd7/classspell__najentus__needle__spine.html#a85cbe85873c5f04c8fb94ad52e94afda":[6,0,3438,0],
 "da/dd7/classspell__najentus__needle__spine.html#a972574075c86c32593982add71dc893f":[6,0,3438,2],
 "da/dd7/classspell__najentus__needle__spine.html#ae483ea2ecc541f52f37456f6e9d4b380":[6,0,3438,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,18,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[6,0,5,8],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,18,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,18,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,18,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,18,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX265 =
 "da/dd8/classHashMapHolder.html#a8fa5f0aca9316901f42b2df8251c5a5d":[6,0,1250,0],
 "da/dd8/classHashMapHolder.html#ad10240097462af2a8a76c9429bd7cbca":[6,0,1250,1],
 "da/dd8/classHashMapHolder.html#ad9dfe5d223496a379a4aec0fc12c42d9":[6,0,1250,3],
-"da/dd8/classHashMapHolder.html#af5c618228c141e28ffa11468cfffb21a":[6,0,1250,5],
-"da/dd8/structnpc__venomhide__hatchling_1_1npc__venomhide__hatchlingAI.html":[6,0,2252,0],
-"da/dd8/structnpc__venomhide__hatchling_1_1npc__venomhide__hatchlingAI.html#a6e1b76f43217f1eb855b50d58a069518":[6,0,2252,0,1]
+"da/dd8/classHashMapHolder.html#af5c618228c141e28ffa11468cfffb21a":[6,0,1250,5]
 };

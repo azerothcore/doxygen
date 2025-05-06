@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"df/d48/classspell__shield__generator__aura.html#a16c2e931950102fc0ae5c88ef14587c1":[6,0,3766,0],
+"df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[6,0,3766,4],
+"df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[6,0,3766,1],
 "df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[6,0,3766,3],
 "df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[6,0,3766,2],
 "df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[6,0,3766,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[6,0,9,22,26],
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,27,22,15],
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[6,0,9,22,15],
-"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3],
-"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,27,22,3],
-"df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,12]
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3]
 };

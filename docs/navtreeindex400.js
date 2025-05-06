@@ -1,5 +1,8 @@
 var NAVTREEINDEX400 =
 {
+"functions_vars_r.html":[6,3,2,18],
+"functions_vars_s.html":[6,3,2,19],
+"functions_vars_t.html":[6,3,2,20],
 "functions_vars_u.html":[6,3,2,21],
 "functions_vars_v.html":[6,3,2,22],
 "functions_vars_w.html":[6,3,2,23],
@@ -246,8 +249,5 @@ var NAVTREEINDEX400 =
 "namespacemembers_vars.html":[5,1,2],
 "namespacemembers_w.html":[5,1,0,19],
 "namespacemembers_x.html":[5,1,0,20],
-"namespaces.html":[5,0],
-"pages.html":[],
-"topics.html":[4],
-"":[7,0,0,0,1,2,16,4,4]
+"namespaces.html":[5,0]
 };

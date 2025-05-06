@@ -738,7 +738,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   92</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s);</div>
 <div class="line"><span class="lineno">   93</span>        }).Schedule(30s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
 <div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298cafa63300aa4ebffd0e035a8a25610ce1b">SPELL_DOMINATION</a>, 1, 30.0f) == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
+<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298cafa63300aa4ebffd0e035a8a25610ce1b">SPELL_DOMINATION</a>, 0, 30.0f, <span class="keyword">true</span>, <span class="keyword">false</span>, <span class="keyword">false</span>) == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
 <div class="line"><span class="lineno">   96</span>            {</div>
 <div class="line"><span class="lineno">   97</span>                <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1acaa917d6cd587c3d5b14eb63105f3921">SAY_MIND</a>);</div>
 <div class="line"><span class="lineno">   98</span>            }</div>
@@ -907,9 +907,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__harbinger__skyriss_8cpp_html_a5bd342133be8c2137b831460acc9298ca7cc181e262a5de2003fff21e281fcb86"><div class="ttname"><a href="../../d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cc181e262a5de2003fff21e281fcb86">SPELL_33_ILLUSION</a></div><div class="ttdeci">@ SPELL_33_ILLUSION</div><div class="ttdef"><b>Definition</b> boss_harbinger_skyriss.cpp:40</div></div>
 <div class="ttc" id="aclassBossAI_html_aab20c7bf9fd41e651496c529bcc5ad94"><div class="ttname"><a href="../../d3/d24/classBossAI.html#aab20c7bf9fd41e651496c529bcc5ad94">BossAI::ScheduleHealthCheckEvent</a></div><div class="ttdeci">void ScheduleHealthCheckEvent(uint32 healthPct, std::function&lt; void()&gt; exec)</div><div class="ttdoc">Executes a function once the creature reaches the defined health point percent.</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:775</div></div>
 <div class="ttc" id="aclassBossAI_html_acdc89a1df0e62952becf83d9e1bd6299"><div class="ttname"><a href="../../d3/d24/classBossAI.html#acdc89a1df0e62952becf83d9e1bd6299">BossAI::_Reset</a></div><div class="ttdeci">void _Reset()</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:624</div></div>
-<div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:392</div></div>
+<div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:390</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00624">BossAI::_Reset()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00029">SAY_IMAGE</a>, <a class="el" href="../../#l00775">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00040">SPELL_33_ILLUSION</a>, and <a class="el" href="../../#l00039">SPELL_66_ILLUSION</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00624">BossAI::_Reset()</a>, <a class="el" href="../../#l00390">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00029">SAY_IMAGE</a>, <a class="el" href="../../#l00775">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00040">SPELL_33_ILLUSION</a>, and <a class="el" href="../../#l00039">SPELL_66_ILLUSION</a>.</p>
 
 </div>
 </div>
@@ -922,7 +922,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dad/structboss__harbinger__skyriss.html">boss_harbinger_skyriss</a></li>
-    <li class="footer">Generated on Mon May 5 2025 06:23:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue May 6 2025 06:22:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

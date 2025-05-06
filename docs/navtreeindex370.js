@@ -1,5 +1,8 @@
 var NAVTREEINDEX370 =
 {
+"de/dd8/classInstanceMap.html#a6d912f1d70072b29d1d8b20a8fe2d088":[6,0,1352,13],
+"de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da":[6,0,1352,11],
+"de/dd8/classInstanceMap.html#a73b2c530197b4061e3989d600be854d7":[6,0,1352,3],
 "de/dd8/classInstanceMap.html#a789efee0e05598f2eafe8a89461d51d0":[6,0,1352,15],
 "de/dd8/classInstanceMap.html#a7995cf4ab6a86f01be96a59ec56d28c1":[6,0,1352,14],
 "de/dd8/classInstanceMap.html#a840632baf9432e7d29a03c3c73a54d01":[6,0,1352,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX370 =
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[6,0,2153],
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2153,2],
-"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2153,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2685],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2685,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2685,2]
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2153,1]
 };

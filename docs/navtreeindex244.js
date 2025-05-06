@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148":[6,0,828,3],
+"d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115":[6,0,828,9],
 "d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f":[6,0,828,10],
 "d9/de2/structCalcDamageInfo.html#a236b06649e715fab9dbddb074ef2f075":[6,0,828,12],
 "d9/de2/structCalcDamageInfo.html#a452ac9be1f6e9c10616a62a128573358":[6,0,828,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df5/structboss__sartharion__dragonAI.html":[6,0,682],
 "d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[6,0,682,13],
 "d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[6,0,682,7],
-"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[6,0,682,12],
-"d9/df5/structboss__sartharion__dragonAI.html#a16582179f25ddc130f97bb70fe80316f":[6,0,682,6],
-"d9/df5/structboss__sartharion__dragonAI.html#a26aff742f99b04bfaf56fa46158ce306":[6,0,682,10]
+"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[6,0,682,12]
 };

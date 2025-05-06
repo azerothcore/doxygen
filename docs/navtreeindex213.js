@@ -249,5 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1929,0,6],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,74],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,62],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,62,2]
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,74,2]
 };

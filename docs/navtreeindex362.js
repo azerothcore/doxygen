@@ -1,5 +1,8 @@
 var NAVTREEINDEX362 =
 {
+"de/d86/structAuctionHouseEntry.html#af7bb868f1a1e8d570ce7b6cb10ad87d9":[6,0,257,1],
+"de/d87/boss__netherspite_8cpp.html":[7,0,0,0,1,3,2,4,5],
+"de/d87/boss__netherspite_8cpp.html#a073d997a481bab87bcd582038244a4c9":[7,0,0,0,1,3,2,4,5,11],
 "de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,4,5,2],
 "de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaa4f9cbb8e1c3cfce68ed7682b4a74fd6":[7,0,0,0,1,3,2,4,5,2,0],
 "de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf68adafa8f4b00b73e1aa794a689e45c":[7,0,0,0,1,3,2,4,5,2,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX362 =
 "de/d95/classTicketMgr.html#a84182a16a815a9bdcd54118bc62a93c4":[6,0,4112,23],
 "de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[6,0,4112,7],
 "de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[6,0,4112,19],
-"de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[6,0,4112,11],
-"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4112,26],
-"de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4112,5],
-"de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4112,12]
+"de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[6,0,4112,11]
 };

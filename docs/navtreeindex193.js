@@ -247,7 +247,7 @@ var NAVTREEINDEX193 =
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3613,2],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3613,0],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3613,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3]
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3]
 };

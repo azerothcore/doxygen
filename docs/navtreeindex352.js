@@ -1,5 +1,8 @@
 var NAVTREEINDEX352 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[5,0,27,11,2],
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,27,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,27,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX352 =
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a8ddd21047a857facc767a9edc0ec5408":[6,0,2273,0,2],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#aaeca9e73520701ce28f2cc9d1483cc6b":[6,0,2273,0,0],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2273,0,3],
-"de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,734],
-"de/d28/classboss__thorim__gauntlet__npcs.html#a2a71153ed2a9091de6668ab0b6f7674f":[6,0,734,2],
-"de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,734,1],
-"de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3509]
+"de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,734]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX382 =
 {
+"df/d6c/classspell__sartharion__lava__strike.html#a8372b7d176c94689b1b7fe99add7812e":[6,0,3714,1],
+"df/d6c/classspell__sartharion__lava__strike.html#aa657a9869f04a1d1d2ce71f6d8464b17":[6,0,3714,6],
+"df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[6,0,3714,2],
 "df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[6,0,3714,0],
 "df/d6c/structB64Impl.html":[6,0,296],
 "df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,296,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX382 =
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,3,13],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,3,13,3],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d":[7,0,0,0,1,2,26,3,13,1],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c":[7,0,0,0,1,2,26,3,13,2],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab":[7,0,0,0,1,2,26,3,13,4],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d":[7,0,0,0,1,2,26,3,13,0],
-"df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870d":[7,0,0,0,1,2,26,3,14]
+"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c":[7,0,0,0,1,2,26,3,13,2]
 };

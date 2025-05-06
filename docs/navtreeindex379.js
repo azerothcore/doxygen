@@ -1,5 +1,8 @@
 var NAVTREEINDEX379 =
 {
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[7,0,0,0,1,3,4,9,4,4,2],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[7,0,0,0,1,3,4,9,4,4,5],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,4,4,3],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae0fa18919fc13ab1b07552ae49e88183":[7,0,0,0,1,3,4,9,4,4,14],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae5a7e9823730ded6d1aac3452b43cecf":[7,0,0,0,1,3,4,9,4,4,9],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caed9fc0fbefab4b80af22e388eee0df4e":[7,0,0,0,1,3,4,9,4,4,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX379 =
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#afb06c217c1012d6463e44689359eada9":[6,0,479,0,2],
 "df/d48/OutdoorPvPZM_8cpp.html":[7,0,0,0,1,3,6,13],
 "df/d48/OutdoorPvPZM_8cpp.html#a3077d08865fa83f84cf956c392a9091c":[7,0,0,0,1,3,6,13,1],
-"df/d48/classspell__shield__generator__aura.html":[6,0,3766],
-"df/d48/classspell__shield__generator__aura.html#a16c2e931950102fc0ae5c88ef14587c1":[6,0,3766,0],
-"df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[6,0,3766,4],
-"df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[6,0,3766,1]
+"df/d48/classspell__shield__generator__aura.html":[6,0,3766]
 };

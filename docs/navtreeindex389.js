@@ -1,5 +1,8 @@
 var NAVTREEINDEX389 =
 {
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,508,0],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b":[6,0,508,0,4],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,508,0,12],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242":[6,0,508,0,2],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6":[6,0,508,0,10],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,508,0,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX389 =
 "df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2725],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[6,0,2725,1],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a49277dbcc2d7cc79f29226e9b242120b":[6,0,2725,2],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a58c03a57bdfcba203159ae38683fdf14":[6,0,2725,5],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a730528baddf2087fb1c0898ac7ad76c5":[6,0,2725,4],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[6,0,2725,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[6,0,2725,0]
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a58c03a57bdfcba203159ae38683fdf14":[6,0,2725,5]
 };

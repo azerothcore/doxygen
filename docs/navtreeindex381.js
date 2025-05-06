@@ -1,5 +1,8 @@
 var NAVTREEINDEX381 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,27,22,3],
+"df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,12],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[7,0,0,0,1,3,2,1,0,0,12,3],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9":[7,0,0,0,1,3,2,1,0,0,12,2],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803":[7,0,0,0,1,3,2,1,0,0,12,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX381 =
 "df/d6c/classspell__sartharion__lava__strike.html":[6,0,3714],
 "df/d6c/classspell__sartharion__lava__strike.html#a3fd71e2a93f99f19443640a2147b1663":[6,0,3714,3],
 "df/d6c/classspell__sartharion__lava__strike.html#a414b1e1396910b87a671305ce9dcab09":[6,0,3714,5],
-"df/d6c/classspell__sartharion__lava__strike.html#a8278d362a4354ccf81665ce0067c9a06":[6,0,3714,4],
-"df/d6c/classspell__sartharion__lava__strike.html#a8372b7d176c94689b1b7fe99add7812e":[6,0,3714,1],
-"df/d6c/classspell__sartharion__lava__strike.html#aa657a9869f04a1d1d2ce71f6d8464b17":[6,0,3714,6],
-"df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[6,0,3714,2]
+"df/d6c/classspell__sartharion__lava__strike.html#a8278d362a4354ccf81665ce0067c9a06":[6,0,3714,4]
 };

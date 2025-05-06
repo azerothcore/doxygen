@@ -1,5 +1,8 @@
 var NAVTREEINDEX371 =
 {
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2685],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2685,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2685,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2685,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html":[6,0,770,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a14c65e87caf2f0e815955946357aebf2":[6,0,770,0,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX371 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1259,3],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ac5078f624899e574a7b56b72e2824b9a":[6,0,1259,8],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1259,5],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1259,0],
-"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4154],
-"de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[6,0,4154,2],
-"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[6,0,4154,1]
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1259,0]
 };

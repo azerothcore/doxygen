@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d9/d5d/structboss__najentus.html#a46e3aab64c21b24ac6457acd598679ec":[6,0,630,2],
+"d9/d5d/structboss__najentus.html#ab7e0bdb8954722c9080146a88a3c5aa2":[6,0,630,4],
 "d9/d5d/structboss__najentus.html#ac5d3d54a49524892fe844925d483c244":[6,0,630,0],
 "d9/d5d/structboss__najentus.html#ad55e1de3aa7a636b3d30b0d61a17dab9":[6,0,630,3],
 "d9/d5d/structboss__najentus.html#afee32dd32033c7a45068ce12e961797c":[6,0,630,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d65/classnpc__baltharus__the__warborn__clone.html#a87b50fbc3a67345f375b41c3cb2ba754":[6,0,1626,2],
 "d9/d65/structnpc__vilebranch__speaker.html":[6,0,2258],
 "d9/d65/structnpc__vilebranch__speaker.html#a236afb8512c2d941479f8a7c18f688a6":[6,0,2258,2],
-"d9/d65/structnpc__vilebranch__speaker.html#a248195a137cb91f10a882ec12974c7c5":[6,0,2258,3],
-"d9/d65/structnpc__vilebranch__speaker.html#a75f263fa9241319b58bf77cbf1b75088":[6,0,2258,4],
-"d9/d65/structnpc__vilebranch__speaker.html#a88fb28d2c39f0da967ab6706872e68b2":[6,0,2258,6]
+"d9/d65/structnpc__vilebranch__speaker.html#a248195a137cb91f10a882ec12974c7c5":[6,0,2258,3]
 };

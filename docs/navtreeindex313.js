@@ -1,5 +1,7 @@
 var NAVTREEINDEX313 =
 {
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a1696f23ce1666381858aa20ce59c4879":[7,0,0,0,1,3,3,1,36,5],
+"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a256fd25f172fa42871e6171e67568f28":[7,0,0,0,1,3,3,1,36,0],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a2a1e824d2d9c51bad877f5fb83878dee":[7,0,0,0,1,3,3,1,36,6],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a3269e8cecce222ec626b0dd9538e1ad3":[7,0,0,0,1,3,3,1,36,4],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a33886550fcce093bd39450d188489113":[7,0,0,0,1,3,3,1,36,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX313 =
 "dc/de8/structnpc__kalecgos__kj.html#a6b2743b9b6bfb4d687e54412fe66c17f":[6,0,1899,1],
 "dc/de8/structnpc__kalecgos__kj.html#a8a029eb2cf7fd96ed324d93f4d66a30d":[6,0,1899,4],
 "dc/de8/structnpc__kalecgos__kj.html#aae30bdf82ff333ef02a1981717c54ea4":[6,0,1899,0],
-"dc/de8/structnpc__kalecgos__kj.html#ab3cd4229999bddc16fe8152acb187111":[6,0,1899,3],
-"dc/de8/structnpc__kalecgos__kj.html#ab5cc58e293e20172558e15fa28670633":[6,0,1899,5],
-"dc/de8/structnpc__kalecgos__kj.html#acf92559a2b06b8c9cce5c4887dd1316b":[6,0,1899,2]
+"dc/de8/structnpc__kalecgos__kj.html#ab3cd4229999bddc16fe8152acb187111":[6,0,1899,3]
 };

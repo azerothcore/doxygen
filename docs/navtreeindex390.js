@@ -1,5 +1,8 @@
 var NAVTREEINDEX390 =
 {
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a730528baddf2087fb1c0898ac7ad76c5":[6,0,2725,4],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[6,0,2725,3],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[6,0,2725,0],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html":[6,0,3453],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[6,0,3453,2],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[6,0,3453,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX390 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019":[7,0,0,0,1,3,9,10,32],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a04c3dfea37fa8eeb0af97d7cd6e499a2":[7,0,0,0,1,3,9,10,32,23],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3":[7,0,0,0,1,3,9,10,32,11],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69":[7,0,0,0,1,3,9,10,32,2],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2":[7,0,0,0,1,3,9,10,32,27],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2":[7,0,0,0,1,3,9,10,32,14],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7":[7,0,0,0,1,3,9,10,32,24]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69":[7,0,0,0,1,3,9,10,32,2]
 };

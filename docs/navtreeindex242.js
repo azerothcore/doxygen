@@ -1,5 +1,7 @@
 var NAVTREEINDEX242 =
 {
+"d9/dbf/classGhoulTargetCheck.html#ab44092ca1cd6d7c17d7c63e0a8333453":[6,0,1097,2],
+"d9/dbf/classGhoulTargetCheck.html#acd743b2b1407c5171fbf410a02ff07bf":[6,0,1097,0],
 "d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1757],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a4d7125cf0333d4e5ebc299019c8feb1a":[6,0,1757,3],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a8a35f1c09a9df609561e76f4ed578647":[6,0,1757,1],
@@ -32,10 +34,10 @@ var NAVTREEINDEX242 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1196,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1196,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1196,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,122],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,134],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,134,0],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,122,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,122,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,134,1],
 "d9/dc5/classboss__prince__valanar__icc.html":[6,0,658],
@@ -247,7 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dc8/classDialogueHelper.html#a489b8cd1c75ced0ec8e34b8051899dd7":[6,0,972,8],
 "d9/dc8/classDialogueHelper.html#a50e652ca2cff035d8c79517fdbcfc67a":[6,0,972,3],
 "d9/dc8/classDialogueHelper.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af":[6,0,972,2],
-"d9/dc8/classDialogueHelper.html#a79e80634f1780895669f5c810958fd4f":[6,0,972,4],
-"d9/dc8/classDialogueHelper.html#a89ca5e8d25372bd8ab32322a0a9999f2":[6,0,972,7],
-"d9/dc8/classDialogueHelper.html#aaac3463d91a0cdbe2622b4fd85b34ed0":[6,0,972,1]
+"d9/dc8/classDialogueHelper.html#a79e80634f1780895669f5c810958fd4f":[6,0,972,4]
 };

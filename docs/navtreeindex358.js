@@ -1,5 +1,8 @@
 var NAVTREEINDEX358 =
 {
+"de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
+"de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,12,8,3],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a1a67be461f59a69ebedf21ac42895f28":[7,0,0,0,1,3,5,7,12,8,6],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a2dea77fe571fe21a15b88e0d7b86a563":[7,0,0,0,1,3,5,7,12,8,4],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,7,12,8,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX358 =
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html":[6,0,1172,0],
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html#a3df147478af8930d9b6108a183e9478f":[6,0,1172,0,1],
 "de/d62/structgo__soulwell_1_1go__soulwellAI.html#af8c28f9d3ddf5fa3591433268d14fc98":[6,0,1172,0,0],
-"de/d62/zone__ghostlands_8cpp.html":[7,0,0,0,1,3,2,25],
-"de/d62/zone__ghostlands_8cpp.html#a0b373714eadff6852c9ed5560abd70e5":[7,0,0,0,1,3,2,25,4],
-"de/d62/zone__ghostlands_8cpp.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d":[7,0,0,0,1,3,2,25,4,2],
-"de/d62/zone__ghostlands_8cpp.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea":[7,0,0,0,1,3,2,25,4,4]
+"de/d62/zone__ghostlands_8cpp.html":[7,0,0,0,1,3,2,25]
 };

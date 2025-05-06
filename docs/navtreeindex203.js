@@ -249,5 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,0,3,2,1],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ab9bde135f246a5737742ca1feb30f6":[7,0,0,0,1,3,2,0,3,2,3],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298cabda9eea4872acb462aa80a0002731e96":[7,0,0,0,1,3,2,0,3,2,2],
-"d7/dc6/classlfg_1_1LfgPlayerData.html":[6,0,5,7]
+"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,18,7]
 };

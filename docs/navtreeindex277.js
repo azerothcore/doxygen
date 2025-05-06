@@ -1,5 +1,7 @@
 var NAVTREEINDEX277 =
 {
+"db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1601,2],
+"db/d6d/structAntiDosOpcodePolicy.html":[6,0,152],
 "db/d6d/structAntiDosOpcodePolicy.html#a8b2bbd3d9f52166c1235b0d306042609":[6,0,152,1],
 "db/d6d/structAntiDosOpcodePolicy.html#afb0dcc50d8e9aa85fe2904050d646042":[6,0,152,0],
 "db/d6e/spell__item_8cpp.html":[7,0,0,0,1,3,9,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX277 =
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa9435c1a867755c85d7441044de224455":[7,0,0,0,1,3,9,4,177,3],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaabe82f02066d4e94d02c9b27f63cd6b16":[7,0,0,0,1,3,9,4,177,2],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbc":[7,0,0,0,1,3,9,4,140],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca3c7d967aa1e91ffcb560ef89bdfa3a16":[7,0,0,0,1,3,9,4,140,1],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca687144bbd8cf840094e4823cd87b9d8f":[7,0,0,0,1,3,9,4,140,4],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca7f116bd9a93fc8656d10814e0dc40e4d":[7,0,0,0,1,3,9,4,140,3]
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca3c7d967aa1e91ffcb560ef89bdfa3a16":[7,0,0,0,1,3,9,4,140,1]
 };
