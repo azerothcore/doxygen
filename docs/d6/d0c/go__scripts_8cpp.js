@@ -98,20 +98,6 @@ var go__scripts_8cpp =
       [ "BELLTOLLKHARAZHAN", "d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbea931fe46d052fd8a6e36aa1c9931a7c89", null ],
       [ "LIGHTHOUSEFOGHORN", "d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbea1793a7d1a1a3da24135c59906166779b", null ]
     ] ],
-    [ "BellHourlySoundZones", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8c", [
-      [ "TIRISFAL_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca361a87b5a3ff3ad36d9b72f394763477", null ],
-      [ "UNDERCITY_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8caefc946d7d8a11667ad2ecbead522f3e1", null ],
-      [ "DUN_MOROGH_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8cad775e9f4bc4af75550c23d1d367bc62f", null ],
-      [ "IRONFORGE_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8caa35be24efbe1327bf71f2d60eeda53ec", null ],
-      [ "TELDRASSIL_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca80c216ca132e8bcdb039fe0ab7bab07a", null ],
-      [ "DARNASSUS_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8cabec6f0885583abeca8de103de4a46548", null ],
-      [ "ASHENVALE_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca4cd90a294a2507e756e96b77d19af12f", null ],
-      [ "HILLSBRAD_FOOTHILLS_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca35d91fa7b24f28afd792162b49505c87", null ],
-      [ "DUSKWOOD_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca6db703ca146eb7d710109737432b9f48", null ],
-      [ "WESTFALL_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8caa9bac8caf512d3a1eca3f8dc38e93b9f", null ],
-      [ "DUSTWALLOW_MARSH_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8ca014ddfda0150f1f95eddd39434809e8d", null ],
-      [ "SHATTRATH_ZONE", "d6/d0c/go__scripts_8cpp.html#ac7ff520f75f80e7ac4cb29de01f2bf8cac8b463170ddba3be86b194f53aef0229", null ]
-    ] ],
     [ "BrewfestMusic", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564", [
       [ "EVENT_BREWFESTDWARF01", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a88789829db8a93162b1d05164419cab8", null ],
       [ "EVENT_BREWFESTDWARF02", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a3f83ee9e66dd1cafe729ace62e3fe750", null ],
@@ -119,19 +105,6 @@ var go__scripts_8cpp =
       [ "EVENT_BREWFESTGOBLIN01", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564ade41a4f3dd7199b8ba227476db8b5c67", null ],
       [ "EVENT_BREWFESTGOBLIN02", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564ac454101fa9ed0642363b53f00be63f01", null ],
       [ "EVENT_BREWFESTGOBLIN03", "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a057297ac9ac83c5484599c5216940bbe", null ]
-    ] ],
-    [ "BrewfestMusicAreas", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5", [
-      [ "SILVERMOON", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a9439f6d4952acfb52348e3e432cdebff", null ],
-      [ "UNDERCITY", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a0ae68b7c2bf1662ba296153e8494b542", null ],
-      [ "ORGRIMMAR_1", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5ace04ec2c8ffec23c315cce1ae8a40564", null ],
-      [ "ORGRIMMAR_2", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a536f9888432fc8fdf7f40518ed0e66cf", null ],
-      [ "THUNDERBLUFF", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a8895d3846f0aa19a91500e757d4fbb01", null ],
-      [ "IRONFORGE_1", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a45e51fdbcc59518beb9d451e1c3bdfe9", null ],
-      [ "IRONFORGE_2", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a6be0c23aebcb87b08923ed64e853bd69", null ],
-      [ "STORMWIND", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a9f470890b81718e9e224dc7b71edb21f", null ],
-      [ "EXODAR", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5abc56d266f2d7a4876f1ecb2a0934f9cd", null ],
-      [ "DARNASSUS", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a92e1d74a4f1f288981b8d283ee563cb1", null ],
-      [ "SHATTRATH", "d6/d0c/go__scripts_8cpp.html#aa1786a8ad9f99ba2835d81685f91f8e5a64dc6b712d1da1d8b7d0462854339005", null ]
     ] ],
     [ "BrewfestMusicEvents", "d6/d0c/go__scripts_8cpp.html#a293cc7f2c3a00fda78cf9095ed587754", [
       [ "EVENT_BM_SELECT_MUSIC", "d6/d0c/go__scripts_8cpp.html#a293cc7f2c3a00fda78cf9095ed587754a9872f5e337c0487193d65486f5aa1230", null ],
@@ -206,10 +179,6 @@ var go__scripts_8cpp =
     ] ],
     [ "L70ETCMusicEvents", "d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5", [
       [ "EVENT_ETC_START_MUSIC", "d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5ae97b97c692a7052f64061415302ca04b", null ]
-    ] ],
-    [ "LightHouseAreas", "d6/d0c/go__scripts_8cpp.html#ad11982c4102bd658cfbabc532912e7be", [
-      [ "AREA_ALCAZ_ISLAND", "d6/d0c/go__scripts_8cpp.html#ad11982c4102bd658cfbabc532912e7bea39f1f908c275ba3e434a3135c03c2f78", null ],
-      [ "AREA_WESTFALL_LIGHTHOUSE", "d6/d0c/go__scripts_8cpp.html#ad11982c4102bd658cfbabc532912e7bea9e3264aa792a0224a8e2a2d18f02a6f8", null ]
     ] ],
     [ "MidsummerMusic", "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fc", [
       [ "EVENTMIDSUMMERFIREFESTIVAL_A", "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b", null ],

@@ -1,15 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a4f17232632ed59b245fd6d4d3f810e4c":[7,0,0,0,1,3,10,10,54,51],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a4fa2eeb196217174139fb8b868b480a6":[7,0,0,0,1,3,10,10,54,41],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5344af7d8ad129221742a1efe34067a4":[7,0,0,0,1,3,10,10,54,26],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5630ded3f61c561b8acc6d43f4b35ad1":[7,0,0,0,1,3,10,10,54,10],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5b8dbc13b3c92c08dbaaabdc2bcf89b0":[7,0,0,0,1,3,10,10,54,22],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5df838fc03f1338db5873b67568ad82b":[7,0,0,0,1,3,10,10,54,36],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a630dbfd037bd41c58cbe97a0a93d7048":[7,0,0,0,1,3,10,10,54,43],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a64dc1baada02c2b1b22685246f38f55a":[7,0,0,0,1,3,10,10,54,52],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a675070578aeff5617fe8a87a03671398":[7,0,0,0,1,3,10,10,54,45],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6752ed36642e53558e3e1e2f75ce91f6":[7,0,0,0,1,3,10,10,54,6],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6f534af865db4bea6cde552b8aa7f406":[7,0,0,0,1,3,10,10,54,50],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a7007742dd64ae8fc19276136a79fc0c0":[7,0,0,0,1,3,10,10,54,30],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a725b66f7e48fde5bab7df4bc687c8a65":[7,0,0,0,1,3,10,10,54,2],
@@ -227,8 +217,8 @@ var NAVTREEINDEX106 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,2960,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,2960,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,2960,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,196],
@@ -249,5 +239,15 @@ var NAVTREEINDEX106 =
 "d3/da8/classArenaTeamMgr.html#a84f22067c492863d215955b26d40c295":[6,0,196,10],
 "d3/da8/classArenaTeamMgr.html#a8716557895c17d3de97334849654e7b6":[6,0,196,3],
 "d3/da8/classArenaTeamMgr.html#a8d8a727af5b394897f0f16c2f55e598d":[6,0,196,13],
-"d3/da8/classArenaTeamMgr.html#a91209bc798f3e90b06a4d9fc2b2cbf2d":[6,0,196,11]
+"d3/da8/classArenaTeamMgr.html#a91209bc798f3e90b06a4d9fc2b2cbf2d":[6,0,196,11],
+"d3/da8/classArenaTeamMgr.html#a91b270f21f36dc9272d04a53652a0735":[6,0,196,22],
+"d3/da8/classArenaTeamMgr.html#aab81eef5786283d423d7e35a75517831":[6,0,196,25],
+"d3/da8/classArenaTeamMgr.html#ac05c55a9d51acaeea1784637849aa58e":[6,0,196,19],
+"d3/da8/classArenaTeamMgr.html#ac7213a41de4e09ca079fe266496d4b51":[6,0,196,14],
+"d3/da8/classArenaTeamMgr.html#ac76e895599b64e0824e923faf9c08560":[6,0,196,0],
+"d3/da8/classArenaTeamMgr.html#acbb4d0e050ed3e1ad3081fe11e25b200":[6,0,196,17],
+"d3/da8/classArenaTeamMgr.html#af23ad2886a67eb69dfda7a5e1a9d30ac":[6,0,196,23],
+"d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e":[6,0,196,2],
+"d3/da8/classspell__transitus__shield__beam__aura.html":[6,0,3871],
+"d3/da8/classspell__transitus__shield__beam__aura.html#a3a24a25c9b9b118d20ca2b14fbfc5869":[6,0,3871,4]
 };

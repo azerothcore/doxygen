@@ -65,7 +65,6 @@ var zone__storm__peaks_8cpp =
     ] ],
     [ "FreedProtoDrake", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4", [
       [ "NPC_DRAKE", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a", null ],
-      [ "AREA_VALLEY_OF_ANCIENT_WINTERS", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a6d6a91ed1a5bcb5c280ffb406261e164", null ],
       [ "TEXT_EMOTE", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a77d76bfa1c6234b9866a0162468137a6", null ],
       [ "SPELL_KILL_CREDIT_PRISONER", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32", null ],
       [ "SPELL_SUMMON_LIBERATED", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a84e4b95b5297798ba7bf31a801cda331", null ],

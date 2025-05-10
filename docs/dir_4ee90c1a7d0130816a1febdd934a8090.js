@@ -2,6 +2,7 @@ var dir_4ee90c1a7d0130816a1febdd934a8090 =
 [
     [ "AreaBoundary.cpp", "d8/d08/AreaBoundary_8cpp.html", null ],
     [ "AreaBoundary.h", "d8/df6/AreaBoundary_8h.html", "d8/df6/AreaBoundary_8h" ],
+    [ "AreaDefines.h", "dc/d4b/AreaDefines_8h.html", "dc/d4b/AreaDefines_8h" ],
     [ "Map.cpp", "d3/d92/Map_8cpp.html", "d3/d92/Map_8cpp" ],
     [ "Map.h", "df/d79/Map_8h.html", "df/d79/Map_8h" ],
     [ "MapInstanced.cpp", "d9/dd2/MapInstanced_8cpp.html", null ],

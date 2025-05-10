@@ -1,6 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[6,0,182,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[6,0,182,12],
 "d1/d17/classArenaSeasonMgr.html#a168a36d3ae1818f22acfb168e932c10c":[6,0,182,14],
 "d1/d17/classArenaSeasonMgr.html#a3bef72c5136e9920f8b4e0438f3f1628":[6,0,182,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX26 =
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#ae3de1c75a7914218e505b3ac428b8743":[6,0,1283,0,50],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#aea09781889fb19dfd0ca0cf38473dd72":[6,0,1283,0,37],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#af288053ea1244031e5f6e8ebe45be9b8":[6,0,1283,0,29],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#afcf9579a9eed23ac805e1687514a0cd5":[6,0,1283,0,3]
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#afcf9579a9eed23ac805e1687514a0cd5":[6,0,1283,0,3],
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#afdb5d8d427206a8a14dcd3639ace3d46":[6,0,1283,0,42]
 };

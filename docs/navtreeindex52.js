@@ -1,7 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1316,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX52 =
 "d2/d27/structboss__viscidus.html#adb41e6f64c1fe61cf623539353b0c959":[6,0,767,2],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html":[6,0,3612],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[6,0,3612,2],
-"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[6,0,3612,1]
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[6,0,3612,1],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[6,0,3612,0],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[6,0,1277,0]
 };

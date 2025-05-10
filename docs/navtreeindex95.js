@@ -1,15 +1,5 @@
 var NAVTREEINDEX95 =
 {
-"d3/d2e/classspell__igb__below__zero.html#a2a8da9d150804f979f2313f623ad7760":[6,0,3122,3],
-"d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2":[6,0,3122,2],
-"d3/d2e/classspell__igb__below__zero.html#aff4f05a5a4742a408646000b7cece38c":[6,0,3122,1],
-"d3/d2f/classspell__sindragosa__frost__breath.html":[6,0,3773],
-"d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[6,0,3773,3],
-"d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66":[6,0,3773,0],
-"d3/d2f/classspell__sindragosa__frost__breath.html#ad759f6215e722f799156b4bdddcb7af1":[6,0,3773,2],
-"d3/d2f/classspell__sindragosa__frost__breath.html#ae0a272902b0a9f74058c1dbe62974358":[6,0,3773,1],
-"d3/d2f/struct__Socket.html":[6,0,14],
-"d3/d2f/struct__Socket.html#a5437849d9b7f229c4466e174d619d057":[6,0,14,1],
 "d3/d2f/struct__Socket.html#ad6232c851b72ce04d2dcfa00596fc1df":[6,0,14,0],
 "d3/d30/classnpc__finklestein.html":[6,0,1772],
 "d3/d30/classnpc__finklestein.html#a1f0d91d2a50aca9d0496b6bd03986c8e":[6,0,1772,2],
@@ -249,5 +239,15 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb":[7,0,0,0,1,3,5,9,2,13,62,1],
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78":[7,0,0,0,1,3,5,9,2,13,62,2],
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7":[7,0,0,0,1,3,5,9,2,13,62,0],
-"d3/d32/structboss__azgalor.html":[6,0,387]
+"d3/d32/structboss__azgalor.html":[6,0,387],
+"d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,387,4],
+"d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,387,1],
+"d3/d32/structboss__azgalor.html#a49cc8abf458f82ad7d46c9c1563f0e98":[6,0,387,2],
+"d3/d32/structboss__azgalor.html#a4b067c3bccbd5f9c96c50d009250d3d0":[6,0,387,3],
+"d3/d32/structboss__azgalor.html#abea34396ddde0aa02a073b2f3119fec9":[6,0,387,5],
+"d3/d32/structboss__azgalor.html#ac794e0eacc2d543fa62e4b521089f080":[6,0,387,0],
+"d3/d34/structboss__yauj.html":[6,0,782],
+"d3/d34/structboss__yauj.html#a15ab7b6b35d29fb1552b11586163320e":[6,0,782,0],
+"d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[6,0,782,1],
+"d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html":[6,0,2256,0]
 };

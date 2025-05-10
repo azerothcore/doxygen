@@ -1,15 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab3db36db5e2b8f18301c5cb4ae869f07":[7,0,0,0,1,2,48,5,0,383],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4547bd12af34303624ed8a230418e3c":[7,0,0,0,1,2,48,5,0,379],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab47d5f6ee562f1bf86004ad5bdd12973":[7,0,0,0,1,2,48,5,0,77],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4854b28fa8b1557a7231a6e356646f8":[7,0,0,0,1,2,48,5,0,392],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab570ffe87e73a45b7f284d21caaab61a":[7,0,0,0,1,2,48,5,0,508],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab60deaa76fed2e9ceae02ee00562473d":[7,0,0,0,1,2,48,5,0,234],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab6abf6c1bf213f520c837e0b501faad7":[7,0,0,0,1,2,48,5,0,103],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab6e77a0e4919ff64649247bfedcab145":[7,0,0,0,1,2,48,5,0,104],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7ec9ef8be8be0130547bbe88b9eeee8":[7,0,0,0,1,2,48,5,0,478],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7ee4addc916efb7b36228abc1010246":[7,0,0,0,1,2,48,5,0,248],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7f5ebf2155446743d02f4725af1453d":[7,0,0,0,1,2,48,5,0,491],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab81a5089e8feb6024b446afbcef5c9ef":[7,0,0,0,1,2,48,5,0,11],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab872faa431f9104927e5b911c6ac6736":[7,0,0,0,1,2,48,5,0,203],
@@ -249,5 +239,15 @@ var NAVTREEINDEX98 =
 "d3/d4b/structboss__archimonde.html#a905918f9fc654c4c1fa1aa99980d39e6":[6,0,382,7],
 "d3/d4b/structboss__archimonde.html#a93f93fe116c75a24dc15bb521b038a27":[6,0,382,9],
 "d3/d4b/structboss__archimonde.html#aa2ec2fcd92ed81f76fb238af9dbad53e":[6,0,382,14],
-"d3/d4b/structboss__archimonde.html#aac09090d17c336e9935cfce7ff1c8d60":[6,0,382,3]
+"d3/d4b/structboss__archimonde.html#aac09090d17c336e9935cfce7ff1c8d60":[6,0,382,3],
+"d3/d4b/structboss__archimonde.html#aba420f926ccdfc6feeb16a0e6d67267f":[6,0,382,1],
+"d3/d4b/structboss__archimonde.html#ad967688caad8a6c7530bfd4709aecb06":[6,0,382,13],
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html":[6,0,1730,0],
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#a3def0a0dd57ed732242a09d6390ab1f0":[6,0,1730,0,2],
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#aa3c6822db09bc40dc87d556f6b3cc880":[6,0,1730,0,0],
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#ae4789c26cbb00b4ac04d646617a48a40":[6,0,1730,0,1],
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#af200e269d3f4b51bb5cfd08e9bf7ecc5":[6,0,1730,0,3],
+"d3/d4b/structnpc__violet__hold__defense__system.html":[6,0,2259],
+"d3/d4b/structnpc__violet__hold__defense__system.html#a77925ae6097f7a52d446ee20bbb3de62":[6,0,2259,1],
+"d3/d4b/structnpc__violet__hold__defense__system.html#ab39bc3da2d7ce33be1e27cd48fc16e89":[6,0,2259,2]
 };

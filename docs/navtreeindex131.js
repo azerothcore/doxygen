@@ -1,17 +1,5 @@
 var NAVTREEINDEX131 =
 {
-"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2642,3],
-"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2642,2],
-"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2642,0],
-"d4/d82/structboss__ambassador__hellmaw.html":[6,0,371],
-"d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[6,0,371,2],
-"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,371,3],
-"d4/d82/structboss__ambassador__hellmaw.html#a44dae5d6517e22dd2be399d08fa67a71":[6,0,371,12],
-"d4/d82/structboss__ambassador__hellmaw.html#a46b9b96ec5e4c121d994560e85266dfe":[6,0,371,10],
-"d4/d82/structboss__ambassador__hellmaw.html#a4805244997c42f5791400c5b1f5e6204":[6,0,371,13],
-"d4/d82/structboss__ambassador__hellmaw.html#a4881f868ac11eb66f3d15b44c94938bf":[6,0,371,11],
-"d4/d82/structboss__ambassador__hellmaw.html#a5f7564ef25a36395cddf4e2c2dbc2dfc":[6,0,371,8],
-"d4/d82/structboss__ambassador__hellmaw.html#a8dd75d368f0f567561db45e1c53ad785":[6,0,371,4],
 "d4/d82/structboss__ambassador__hellmaw.html#a9b0170a49751def614126265240bb87c":[6,0,371,5],
 "d4/d82/structboss__ambassador__hellmaw.html#a9ea9d60b8fa90a228951a38fc2f59325":[6,0,371,7],
 "d4/d82/structboss__ambassador__hellmaw.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04":[6,0,371,1],
@@ -249,5 +237,17 @@ var NAVTREEINDEX131 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1a93e3f262a737b13e135460a00fbe0246":[7,0,0,0,1,3,7,1,6,9,5],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1a99fc2ff738fb6e03af9d7990f59297d0":[7,0,0,0,1,3,7,1,6,9,0],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aa18876c50b4e379d7ae395007fd0d915":[7,0,0,0,1,3,7,1,6,9,1],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aecd476d2379264974ffe4fd995e527b8":[7,0,0,0,1,3,7,1,6,9,2]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aecd476d2379264974ffe4fd995e527b8":[7,0,0,0,1,3,7,1,6,9,2],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,7,1,6,7],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a1cb37dd656baede293654d3027937fdb":[7,0,0,0,1,3,7,1,6,7,2],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a22fc8deed004c63aed44c67b1067682f":[7,0,0,0,1,3,7,1,6,7,0],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a45e5b0cd0ff002b4e0155b49d8ca1e6e":[7,0,0,0,1,3,7,1,6,7,5],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ab75097109c8d542c7da83f321f0f2b91":[7,0,0,0,1,3,7,1,6,7,3],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abdeb14d630a2ce2681144c82178f9e88":[7,0,0,0,1,3,7,1,6,7,1],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ada349f994875f7ea5bfabf3d4f58d561":[7,0,0,0,1,3,7,1,6,7,4],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,6,8],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3fa4e40901d7d070f0ff2069fe0df9e8":[7,0,0,0,1,3,7,1,6,8,9],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4032f36f5a5ff61e18a33faf486f1ca2":[7,0,0,0,1,3,7,1,6,8,4],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a40ca429eba25ac624d53368c08e1b799":[7,0,0,0,1,3,7,1,6,8,1],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4bfd4e19a7de379222abb0f4d973cd44":[7,0,0,0,1,3,7,1,6,8,8]
 };

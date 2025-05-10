@@ -405,7 +405,6 @@ var spell__generic_8cpp =
       [ "SPELL_SUMMON_EARTH_ELEMENTAL", "d1/de4/spell__generic_8cpp.html#a7d57178436c5a83facfc6e894d956811a494745f5977dfc28db35d9496de5e65c", null ]
     ] ],
     [ "Teleporting", "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751", [
-      [ "AREA_VIOLET_CITADEL_SPIRE", "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751aeb5a65a68c28a306090868b16cf63814", null ],
       [ "SPELL_TELEPORT_SPIRE_DOWN", "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a3e065e34b0631e5a8f30c7346d805739", null ],
       [ "SPELL_TELEPORT_SPIRE_UP", "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a1a948f78596a7fdbbd550a390cf10d0b", null ]
     ] ],

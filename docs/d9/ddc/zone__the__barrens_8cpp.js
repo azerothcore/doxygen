@@ -17,8 +17,7 @@ var zone__the__barrens_8cpp =
       [ "SAY_GIL_ALMOST", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
       [ "SAY_GIL_SWEET", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
       [ "SAY_GIL_FREED", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
-      [ "QUEST_FREE_FROM_HOLD", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ],
-      [ "AREA_MERCHANT_COAST", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716ac33cd2802c9cc2abf8e1359985861f5b", null ]
+      [ "QUEST_FREE_FROM_HOLD", "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
     [ "TaskmasterFizzule", "d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0", [
       [ "FACTION_FRIENDLY_F", "d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],

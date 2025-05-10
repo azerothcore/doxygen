@@ -1,6 +1,5 @@
 var NAVTREEINDEX39 =
 {
-"d1/dac/structboss__lord__marrowgar.html#abba7e15c065a80677fc88a6dafa8ecfd":[6,0,594,8],
 "d1/dac/structboss__lord__marrowgar.html#ac59e0e13d5226fcdb4af08a1f9eff089":[6,0,594,5],
 "d1/dac/structboss__lord__marrowgar.html#acfe53ec83fa2056b37269608182fb25b":[6,0,594,6],
 "d1/dac/structboss__lord__marrowgar.html#adf886210abbd492f897b39145748f78a":[6,0,594,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a372ac35e29d0eff3dc05db1f84e68a3a":[7,0,0,0,1,2,16,10,5,51,4],
 "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a479797b6c51b5dd66ee9f8bb378d918e":[7,0,0,0,1,2,16,10,5,51,2],
 "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a59bfb38c451db3d03f0e5b8b13745da0":[7,0,0,0,1,2,16,10,5,51,0],
-"d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a635ab1007034f32bd4494025160cd38f":[7,0,0,0,1,2,16,10,5,51,1]
+"d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a635ab1007034f32bd4494025160cd38f":[7,0,0,0,1,2,16,10,5,51,1],
+"d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27ab39ff7e0d62e002306b72add24774201":[7,0,0,0,1,2,16,10,5,51,3]
 };

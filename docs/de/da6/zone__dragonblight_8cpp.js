@@ -245,8 +245,7 @@ var zone__dragonblight_8cpp =
       [ "POINT_LAND", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a858ba1dc5b34b3ff5f41a194feea519f", null ],
       [ "POINT_TAKE_OFF", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a5d2a7910d1b37d273b0cf215d624b394", null ],
       [ "QUEST_FLIGHT_OF_THE_WINTERGARDE_DEFENDER", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a9bc8455a64a2fd6832d8b6c74e6b2a50", null ],
-      [ "GO_TEMP_GRYPHON_STATION", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a85aaaec73dd134ba6ee41b30a4c2e013", null ],
-      [ "AREA_WINTERGARDE_KEEP", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a039436e4e28ff7cefc5cd5fbc5fb74b2", null ]
+      [ "GO_TEMP_GRYPHON_STATION", "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a85aaaec73dd134ba6ee41b30a4c2e013", null ]
     ] ],
     [ "AddSC_dragonblight", "de/da6/zone__dragonblight_8cpp.html#a38e919623fe3ebbad2d835976d70b1e2", null ],
     [ "AudienceMobs", "de/da6/zone__dragonblight_8cpp.html#aa0bde757544a3b1dcc305bff0e6ca9bb", null ],

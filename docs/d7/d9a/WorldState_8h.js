@@ -85,20 +85,5 @@ var WorldState_8h =
       [ "SPELL_TROLLBANES_COMMAND", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d", null ],
       [ "SPELL_NAZGRELS_FAVOR", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60", null ],
       [ "SPELL_KIRU_SONG_OF_VICTORY", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3", null ]
-    ] ],
-    [ "WorldStateZoneId", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ad", [
-      [ "ZONEID_SHATTRATH", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada01e9f07a5ed524b5d62ee36a3fbc66b8", null ],
-      [ "ZONEID_BOTANICA", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada4c0e9b67db472610b0e508b4074d56c3", null ],
-      [ "ZONEID_ARCATRAZ", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adae2ad7ebb4dd29458b1d88da599722d21", null ],
-      [ "ZONEID_MECHANAR", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab7c50fd72d746d6cd4c512c503677de7", null ],
-      [ "ZONEID_HELLFIRE_PENINSULA", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada4e9c94b3e7923f0c38a58de29b1a0b26", null ],
-      [ "ZONEID_HELLFIRE_RAMPARTS", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada33650e228e22c29316b54577070e7c9f", null ],
-      [ "ZONEID_HELLFIRE_CITADEL", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab978fffc00c9d4a7284fe22aa3891158", null ],
-      [ "ZONEID_BLOOD_FURNACE", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada6a46bd27a0d4bdb0f6c26535835d3eb4", null ],
-      [ "ZONEID_SHATTERED_HALLS", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada9b930d2c1fc821a6829d2ed0490dd3c8", null ],
-      [ "ZONEID_MAGTHERIDON_LAIR", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71ada5262fcfc9a86c14b3f0bdb672e73fc19", null ],
-      [ "ZONEID_ISLE_OF_QUEL_DANAS", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adab0f57f0cd727527ae2740910621a686b", null ],
-      [ "ZONEID_MAGISTERS_TERRACE", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adaf56c1ebbcf2c442b80c7e719d0f8e893", null ],
-      [ "ZONEID_SUNWELL_PLATEAU", "d7/d9a/WorldState_8h.html#a197cd5cc51b3b82a9de8c48b47bf71adac5a0c2e4bcc1f61eff160099fde2a98b", null ]
     ] ]
 ];

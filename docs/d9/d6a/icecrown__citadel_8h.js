@@ -24,10 +24,6 @@ var icecrown__citadel_8h =
       [ "CRITERIA_KILL_LANA_THEL_10M", "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11ad19ab7a1b76e0f0a2bafc076d84187cd", null ],
       [ "CRITERIA_KILL_LANA_THEL_25M", "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aa1d71a22ddc613993aa899a40ac33612", null ]
     ] ],
-    [ "AreaIds", "d9/d6a/icecrown__citadel_8h.html#af5d9729702ab9f6cbada3720c3cc0147", [
-      [ "AREA_ICECROWN_CITADEL", "d9/d6a/icecrown__citadel_8h.html#af5d9729702ab9f6cbada3720c3cc0147aab333cb6ea201ed046e30151a5133e5c", null ],
-      [ "AREA_THE_FROZEN_THRONE", "d9/d6a/icecrown__citadel_8h.html#af5d9729702ab9f6cbada3720c3cc0147a7081e9fbce528474f7530670818b8d4b", null ]
-    ] ],
     [ "CreaturesIds", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2", [
       [ "NPC_HIGHLORD_TIRION_FORDRING_LH", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aea9e467005afeec5b2005a062777a782", null ],
       [ "NPC_THE_LICH_KING_LH", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ad6b513dad54f2b50fb4626d8ff545288", null ],

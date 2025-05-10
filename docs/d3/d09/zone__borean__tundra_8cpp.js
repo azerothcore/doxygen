@@ -68,7 +68,6 @@ var zone__borean__tundra_8cpp =
       [ "EVENT_FOLLOW_PLAYER", "d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7dba4646f646b8db0c36454e08ce37c53ee0", null ]
     ] ],
     [ "CounselorTalbot", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fff", [
-      [ "AREA_LAST_RITES", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffae0289b6709043bf43b5027a27c618092", null ],
       [ "SPELL_DEFLECTION", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffa55b4537ee6c885346242b9915d70efaf", null ],
       [ "SPELL_SOUL_BLAST", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffaf3ea19c798b6e865604188d43c15b725", null ],
       [ "SPELL_VAMPIRIC_BOLT", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffa2841adda608a202814ab9ecf8113749a", null ],

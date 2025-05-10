@@ -1,14 +1,5 @@
 var NAVTREEINDEX61 =
 {
-"d2/d4b/classPlayer.html#ad32f3a3ec1be51826e04097db7a69620":[6,0,2389,960],
-"d2/d4b/classPlayer.html#ad372accc95ab6fb468c784bad6acee86":[6,0,2389,553],
-"d2/d4b/classPlayer.html#ad3cbdc8c965eeef0057eb8694efe7cac":[6,0,2389,55],
-"d2/d4b/classPlayer.html#ad3fcc680af684928a1ed6d1aef06cb68":[6,0,2389,74],
-"d2/d4b/classPlayer.html#ad40910f7f96150752e67fdab5ad20d6f":[6,0,2389,610],
-"d2/d4b/classPlayer.html#ad41e651c11fdeb4f1d2a84101a02f865":[6,0,2389,615],
-"d2/d4b/classPlayer.html#ad41ec715f6adfcb5cfc70e3d5925ae85":[6,0,2389,623],
-"d2/d4b/classPlayer.html#ad44127ae589c9be2a053996a1eddb26a":[6,0,2389,1177],
-"d2/d4b/classPlayer.html#ad46f720cf4699c8a2a9f4e0b2fad33b5":[6,0,2389,1115],
 "d2/d4b/classPlayer.html#ad4765f5f31e484e3fd7c8a39ede36499":[6,0,2389,652],
 "d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d":[6,0,2389,713],
 "d2/d4b/classPlayer.html#ad56f27531abb9267f144b2b22d61a5bf":[6,0,2389,9],
@@ -249,5 +240,14 @@ var NAVTREEINDEX61 =
 "d2/d50/tools_2dbimport_2Main_8cpp.html":[7,0,0,0,3,0,0],
 "d2/d50/tools_2dbimport_2Main_8cpp.html#a1551df43a48f1dbf64dbec1e47b07eea":[7,0,0,0,3,0,0,3],
 "d2/d50/tools_2dbimport_2Main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[7,0,0,0,3,0,0,2],
-"d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b":[7,0,0,0,3,0,0,1]
+"d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b":[7,0,0,0,3,0,0,1],
+"d2/d50/tools_2dbimport_2Main_8cpp.html#a927af1587546ee7503a3b9a18f6439c0":[7,0,0,0,3,0,0,4],
+"d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f":[7,0,0,0,3,0,0,0],
+"d2/d52/classboss__hedrum.html":[6,0,523],
+"d2/d52/classboss__hedrum.html#a655d348dec9ce9b585ea12f3629b0aa7":[6,0,523,1],
+"d2/d52/classboss__hedrum.html#a7033d315852aa4905784e957679ee261":[6,0,523,2],
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html":[6,0,1312,0],
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a01da8216f57e19b5bf8697700089118c":[6,0,1312,0,3],
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a166db22fd409d0387085053852e5ad30":[6,0,1312,0,5],
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a17b8e9a050eb6302258119c3b4f5f1bf":[6,0,1312,0,6]
 };

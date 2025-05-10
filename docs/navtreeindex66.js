@@ -1,14 +1,5 @@
 var NAVTREEINDEX66 =
 {
-"d2/d73/classScriptMgr.html#a914da0d1879c615a1575f6a664990e92":[6,0,2508,313],
-"d2/d73/classScriptMgr.html#a91fa6e296a075ee3af6c56c986f4239e":[6,0,2508,197],
-"d2/d73/classScriptMgr.html#a9316537c6cab6966f41d47ca64b949c9":[6,0,2508,465],
-"d2/d73/classScriptMgr.html#a9352357ee8bbc2df90f30802fb1bc4f8":[6,0,2508,238],
-"d2/d73/classScriptMgr.html#a95d3db7f00314823f62554149579f62c":[6,0,2508,400],
-"d2/d73/classScriptMgr.html#a96582ea19a468cf71f429ed7696575cb":[6,0,2508,462],
-"d2/d73/classScriptMgr.html#a969c908e9da43e1ecab71b11ea65db89":[6,0,2508,82],
-"d2/d73/classScriptMgr.html#a9805a3c87159220ef579a198a94c4d00":[6,0,2508,81],
-"d2/d73/classScriptMgr.html#a993a71e1914f0e103c2d1ced0cbe89c5":[6,0,2508,441],
 "d2/d73/classScriptMgr.html#a9a43c5ff75e0bcf3f166f1604dddb881":[6,0,2508,380],
 "d2/d73/classScriptMgr.html#a9abdd9e5d6e19c81c1b6f7f48ab1d485":[6,0,2508,189],
 "d2/d73/classScriptMgr.html#a9b5b517888400cf6b8a8dbe63e14a9d5":[6,0,2508,311],
@@ -249,5 +240,14 @@ var NAVTREEINDEX66 =
 "d2/d77/classspell__scholomance__fixate__aura.html#a9092818bdb15a12163aae633049cb7f6":[6,0,3718,3],
 "d2/d77/classspell__scholomance__fixate__aura.html#ab1d5eb39b503f7e08a404cf172b8de96":[6,0,3718,2],
 "d2/d77/structDBCPosition3D.html":[6,0,951],
-"d2/d77/structDBCPosition3D.html#a0bf22799258050a9b12ddc14bb2b4b11":[6,0,951,1]
+"d2/d77/structDBCPosition3D.html#a0bf22799258050a9b12ddc14bb2b4b11":[6,0,951,1],
+"d2/d77/structDBCPosition3D.html#a55bda49b2eb919415afaf780ca1977de":[6,0,951,0],
+"d2/d77/structDBCPosition3D.html#a7f0ceece775146d825d19a3cd22e5da3":[6,0,951,2],
+"d2/d78/IWorld_8h.html":[7,0,0,0,1,2,48,0],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798f":[7,0,0,0,1,2,48,0,3],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c":[7,0,0,0,1,2,48,0,3,0],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517":[7,0,0,0,1,2,48,0,3,2],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b":[7,0,0,0,1,2,48,0,3,3],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131":[7,0,0,0,1,2,48,0,3,4],
+"d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68":[7,0,0,0,1,2,48,0,3,1]
 };

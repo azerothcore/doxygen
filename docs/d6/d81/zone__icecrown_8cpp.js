@@ -113,8 +113,6 @@ var zone__icecrown_8cpp =
     ] ],
     [ "GuardianPavilion", "d6/d81/zone__icecrown_8cpp.html#a143d766d87c79405abbbab7dfdd8fadf", [
       [ "SPELL_TRESPASSER_H", "d6/d81/zone__icecrown_8cpp.html#a143d766d87c79405abbbab7dfdd8fadfa90e4351e35988c5a11a32d28821b08b1", null ],
-      [ "AREA_SUNREAVER_PAVILION", "d6/d81/zone__icecrown_8cpp.html#a143d766d87c79405abbbab7dfdd8fadfac50fe652cf1c1ad54d596123199063ae", null ],
-      [ "AREA_SILVER_COVENANT_PAVILION", "d6/d81/zone__icecrown_8cpp.html#a143d766d87c79405abbbab7dfdd8fadfa4300310bf87aeb726746c717828ffff1", null ],
       [ "SPELL_TRESPASSER_A", "d6/d81/zone__icecrown_8cpp.html#a143d766d87c79405abbbab7dfdd8fadfab55543b13eee5e5d41f2ee6a1e53b45d", null ]
     ] ],
     [ "infraGreenBomberQuests", "d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6d", [

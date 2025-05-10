@@ -140,8 +140,7 @@ var npcs__special_8cpp =
       [ "SPELL_ROCKET_BIG_WHITE", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9aa1d41d5cb5a3cab4993afe8fbd2baa", null ],
       [ "SPELL_ROCKET_BIG_YELLOW", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2ab720eab7897be2e5bb80adec57158a9d", null ],
       [ "SPELL_LUNAR_FORTUNE", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9e95b4d8f5b4ced4158fb28df9a55724", null ],
-      [ "ANIM_GO_LAUNCH_FIREWORK", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f", null ],
-      [ "ZONE_MOONGLADE", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a318787e8f300367dbcbbb4303736ea61", null ]
+      [ "ANIM_GO_LAUNCH_FIREWORK", "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f", null ]
     ] ],
     [ "Garments", "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038", [
       [ "SPELL_LESSER_HEAL_R2", "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ac552be3f5be69e2ffe52b569556c9a8d", null ],

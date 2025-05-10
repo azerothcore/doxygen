@@ -229,7 +229,6 @@ var naxxramas_8h =
     [ "AbominationKillCountReq", "d6/d84/naxxramas_8h.html#ac12b914059be83c167dda778ccfae7af", null ],
     [ "HeiganEruptSectionCount", "d6/d84/naxxramas_8h.html#ae3af60ac78e1e3880e76c9ed235ae897", null ],
     [ "HorsemanCount", "d6/d84/naxxramas_8h.html#ad95f54c0a227c67f4b8d5d346ffb7ec0", null ],
-    [ "NaxxramasMapId", "d6/d84/naxxramas_8h.html#a155766f138b29847e69145a28088d180", null ],
     [ "TheDedicatedFew10PlayerReq", "d6/d84/naxxramas_8h.html#aced76bbc8ecc3fdfd591db0277b13d41", null ],
     [ "TheDedicatedFew25PlayerReq", "d6/d84/naxxramas_8h.html#a1fb2078e71177630d6719e8620e5ec87", null ]
 ];

@@ -1,14 +1,5 @@
 var NAVTREEINDEX59 =
 {
-"d2/d4b/classPlayer.html#a73449c7eadffc4d2b0c6eb4a12affc25":[6,0,2389,362],
-"d2/d4b/classPlayer.html#a73575d44de3e67386f37ec29a2e3a791":[6,0,2389,991],
-"d2/d4b/classPlayer.html#a73666fc2dd6eab0f34626a0811925fab":[6,0,2389,778],
-"d2/d4b/classPlayer.html#a738787cc25568c4d55365150153440dd":[6,0,2389,1088],
-"d2/d4b/classPlayer.html#a73cc4b18b125067de7c279d13884ef14":[6,0,2389,45],
-"d2/d4b/classPlayer.html#a74135dbbdf68a4ea1d5eb72bd6c89162":[6,0,2389,728],
-"d2/d4b/classPlayer.html#a743bfca834aded4409212d6fb43d8f4f":[6,0,2389,179],
-"d2/d4b/classPlayer.html#a74cac1333dd541620f249c0aaece525c":[6,0,2389,1184],
-"d2/d4b/classPlayer.html#a74da25b352dea6c0c56387848a9a389b":[6,0,2389,702],
 "d2/d4b/classPlayer.html#a74dd2484cabaee64685d1205ead6ab63":[6,0,2389,1272],
 "d2/d4b/classPlayer.html#a74dd98c3dc355150f108915b146817d0":[6,0,2389,1277],
 "d2/d4b/classPlayer.html#a753f2c352e6055cd8d30e46f379f74e9":[6,0,2389,528],
@@ -249,5 +240,14 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#aa2fc810b7207c939bf12b1246fb2bb2d":[6,0,2389,859],
 "d2/d4b/classPlayer.html#aa3185f9b343a9563129439db86c38d86":[6,0,2389,323],
 "d2/d4b/classPlayer.html#aa352798726d935f9e76f97137e47ee33":[6,0,2389,664],
-"d2/d4b/classPlayer.html#aa353117ee116132b3eecb927f6fdd48f":[6,0,2389,904]
+"d2/d4b/classPlayer.html#aa353117ee116132b3eecb927f6fdd48f":[6,0,2389,904],
+"d2/d4b/classPlayer.html#aa38a4c06bbe59bdfdf1749982aac5659":[6,0,2389,945],
+"d2/d4b/classPlayer.html#aa46276b4a60d10d7e38a2269aef6d55f":[6,0,2389,135],
+"d2/d4b/classPlayer.html#aa48157ba1336b572c14028fbae202e74":[6,0,2389,796],
+"d2/d4b/classPlayer.html#aa4a31e21f267b78a58a6c2031b04c487":[6,0,2389,1079],
+"d2/d4b/classPlayer.html#aa4e6f6baf38be1395ed22a4e694a22f6":[6,0,2389,802],
+"d2/d4b/classPlayer.html#aa50a0d0656ecd86b0ebcc040a49ce15e":[6,0,2389,1203],
+"d2/d4b/classPlayer.html#aa5330c83cf8abe59375e5aeac758362f":[6,0,2389,23],
+"d2/d4b/classPlayer.html#aa5393bf276b4b3429e7d12263408a90b":[6,0,2389,95],
+"d2/d4b/classPlayer.html#aa54c231ef84c1e324f81c67fa1f55ac2":[6,0,2389,647]
 };

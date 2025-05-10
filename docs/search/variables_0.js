@@ -1293,7 +1293,7 @@ var searchData=
   ['_5fprotectorguid_1290',['_protectorGUID',['../d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833',1,'npc_sunblade_scout']]],
   ['_5fproxyheaderreadingenabled_1291',['_proxyHeaderReadingEnabled',['../d5/d87/classNetworkThread.html#aac8fdbb8b3ec4f0edac5a1b0aa929fa4',1,'NetworkThread']]],
   ['_5fproxyheaderreadingstate_1292',['_proxyHeaderReadingState',['../d4/d33/classSocket.html#a90e0ed7fcf294898d3d866e0c2293127',1,'Socket']]],
-  ['_5fptr_1293',['_ptr',['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr'],['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr']]],
+  ['_5fptr_1293',['_ptr',['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr'],['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr']]],
   ['_5fpummelercount_1294',['_pummelerCount',['../d3/d15/structnpc__xt002__heart_1_1npc__xt002__heartAI.html#a8179da94f961897085289568468d2bba',1,'npc_xt002_heart::npc_xt002_heartAI']]],
   ['_5fpursuittargetguid_1295',['_pursuitTargetGUID',['../dd/d08/structboss__grilek_1_1boss__grilekAI.html#ad20779cdb8d82ae8a54c12a8d4b0bada',1,'boss_grilek::boss_grilekAI']]],
   ['_5fpvp_1296',['_pvp',['../d6/d79/classOPvPCapturePoint.html#ab3219f9a9866fa4643f3fa66f7bc70c8',1,'OPvPCapturePoint']]],
@@ -1802,7 +1802,7 @@ var searchData=
   ['_5fworldpacket_1799',['_worldPacket',['../de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a',1,'WorldPackets::Packet']]],
   ['_5fworldsession_1800',['_worldSession',['../d2/d1b/classWorldSocket.html#a7f66197c2456497e6c010853881a9695',1,'WorldSocket']]],
   ['_5fworldsessionlock_1801',['_worldSessionLock',['../d2/d1b/classWorldSocket.html#adc472d4cbd4e523fec08693480e88904',1,'WorldSocket']]],
-  ['_5fworldstates_1802',['_worldstates',['../d6/d39/classWorld.html#a463e562ffd290b2cd13fb2f42f8c86dc',1,'World']]],
+  ['_5fworldstates_1802',['_worldstates',['../d3/da9/classWorldState.html#a9692b273469befd8d81da34a2318d7e0',1,'WorldState']]],
   ['_5fwpos_1803',['_wpos',['../df/d9d/classMessageBuffer.html#a3eff504d5c954e7d5fcaa386bdbf2bb9',1,'MessageBuffer::_wpos'],['../da/d07/classByteBuffer.html#a79e88867d79f25c13947bd6c419cd470',1,'ByteBuffer::_wpos']]],
   ['_5fwrapper_1804',['_wrapper',['../d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a1605d492889200f2d18d6759882913aa',1,'Acore::Impl::ChatCommands::CommandInvoker']]],
   ['_5fwritebuffer_1805',['_writeBuffer',['../d7/dc0/classRASession.html#a82ccb9ab8abf1403fd5d2384beac99b7',1,'RASession']]],
@@ -1822,6 +1822,6 @@ var searchData=
   ['_5fzigguratstate2_1819',['_zigguratState2',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzigguratstate3_1820',['_zigguratState3',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzonedynamicinfo_1821',['_zoneDynamicInfo',['../d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f',1,'Map']]],
-  ['_5fzoneid_1822',['_zoneid',['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId'],['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid']]],
+  ['_5fzoneid_1822',['_zoneid',['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid'],['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId']]],
   ['_5fzoneplayercountmap_1823',['_zonePlayerCountMap',['../d7/db0/classMap.html#a06d635a105d849d2122492c0e2236c6b',1,'Map']]]
 ];

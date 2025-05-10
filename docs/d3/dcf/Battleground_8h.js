@@ -43,14 +43,6 @@ var Battleground_8h =
       [ "ARENA_DESERTION_TYPE_NO_ENTER_BUTTON", "d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a38ec325982627287d9f0a401e966203b", null ],
       [ "ARENA_DESERTION_TYPE_INVITE_LOGOUT", "d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a3f3569e03106d65753e185b055c1dcf8", null ]
     ] ],
-    [ "BattlegroundMaps", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1", [
-      [ "MAP_BG_ALTERAC_VALLEY", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1a6e3b2391f5faed26db3a63ec5480f40b", null ],
-      [ "MAP_BG_WARSONG_GULCH", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1adf8ace84e24d135fb5c8cafa36801377", null ],
-      [ "MAP_BG_ARATHI_BASIN", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1a2236618d8a081b52b9914a58422e3f73", null ],
-      [ "MAP_BG_EYE_OF_THE_STORM", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1a897683b6f6450bb9b86e1c1c0becb245", null ],
-      [ "MAP_BG_STRAND_OF_THE_ANCIENTS", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1adfc0f8eb1496e411af67b69bb791945c", null ],
-      [ "MAP_BG_ISLE_OF_CONQUEST", "d3/dcf/Battleground_8h.html#a080c7394307ac5726c23aff4654528f1a590b72d7c226b8af19a1bbe4f764ceca", null ]
-    ] ],
     [ "BattlegroundMarks", "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71ab", [
       [ "SPELL_WS_MARK_LOSER", "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba67b086aaed57b992cfe349c7f860ea7f", null ],
       [ "SPELL_WS_MARK_WINNER", "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba15a3454d09d2be99f0b5eeca08370803", null ],

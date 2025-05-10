@@ -342,16 +342,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>    {</div>
-<div class="line"><span class="lineno">  207</span>        isPeriodic = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  208</span>        amplitude = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 40 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  209</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  207</span>    {</div>
+<div class="line"><span class="lineno">  208</span>        isPeriodic = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  209</span>        amplitude = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 40 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  210</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">Register()</a>.</p>
 
 </div>
 </div>
@@ -405,20 +405,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  220</span>    {</div>
-<div class="line"><span class="lineno">  221</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429">spell_item_goblin_gumbo_kettle::CalcPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno">  222</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966">spell_item_goblin_gumbo_kettle::Update</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno">  223</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  221</span>    {</div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429">spell_item_goblin_gumbo_kettle::CalcPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno">  223</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966">spell_item_goblin_gumbo_kettle::Update</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno">  224</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a715640892166108a23f30ed68346d395"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a></div><div class="ttdeci">#define AuraEffectUpdatePeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ab8d87844aaddbc3842b2cd99266fbd6f"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a></div><div class="ttdeci">#define AuraEffectCalcPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:778</div></div>
 <div class="ttc" id="aclassAuraScript_html_a266a051650b446c525aa6c16a256e464"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">AuraScript::DoEffectCalcPeriodic</a></div><div class="ttdeci">HookList&lt; EffectCalcPeriodicHandler &gt; DoEffectCalcPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:777</div></div>
 <div class="ttc" id="aclassAuraScript_html_a6baf2932d6e9170f5dc3aa969e6f0396"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">AuraScript::OnEffectUpdatePeriodic</a></div><div class="ttdeci">HookList&lt; EffectUpdatePeriodicHandler &gt; OnEffectUpdatePeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
-<div class="ttc" id="aclassspell__item__goblin__gumbo__kettle_html_a3ab2716cbccc1311992de44e6591d966"><div class="ttname"><a href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966">spell_item_goblin_gumbo_kettle::Update</a></div><div class="ttdeci">void Update(AuraEffect *effect)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:211</div></div>
-<div class="ttc" id="aclassspell__item__goblin__gumbo__kettle_html_a5847ba4daad49dca2527513055fa4429"><div class="ttname"><a href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429">spell_item_goblin_gumbo_kettle::CalcPeriodic</a></div><div class="ttdeci">void CalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:205</div></div>
+<div class="ttc" id="aclassspell__item__goblin__gumbo__kettle_html_a3ab2716cbccc1311992de44e6591d966"><div class="ttname"><a href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966">spell_item_goblin_gumbo_kettle::Update</a></div><div class="ttdeci">void Update(AuraEffect *effect)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:212</div></div>
+<div class="ttc" id="aclassspell__item__goblin__gumbo__kettle_html_a5847ba4daad49dca2527513055fa4429"><div class="ttname"><a href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429">spell_item_goblin_gumbo_kettle::CalcPeriodic</a></div><div class="ttdeci">void CalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:206</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00766">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00205">CalcPeriodic()</a>, <a class="el" href="../../#l00777">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00765">AuraScript::OnEffectUpdatePeriodic</a>, <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>, and <a class="el" href="../../#l00211">Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00778">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00766">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00206">CalcPeriodic()</a>, <a class="el" href="../../#l00777">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00765">AuraScript::OnEffectUpdatePeriodic</a>, <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>, and <a class="el" href="../../#l00212">Update()</a>.</p>
 
 </div>
 </div>
@@ -445,12 +445,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  212</span>    {</div>
-<div class="line"><span class="lineno">  213</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  214</span>        effect-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#abc3f0fbe56a3974699db0056eed45664">SetPeriodicTimer</a>(<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 40 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>));</div>
-<div class="line"><span class="lineno">  215</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>())</div>
-<div class="line"><span class="lineno">  216</span>            owner-&gt;CastSpell(owner, 42755 <span class="comment">/*Goblin Gumbo Trigger*/</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  217</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  213</span>    {</div>
+<div class="line"><span class="lineno">  214</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  215</span>        effect-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#abc3f0fbe56a3974699db0056eed45664">SetPeriodicTimer</a>(<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 40 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>));</div>
+<div class="line"><span class="lineno">  216</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>())</div>
+<div class="line"><span class="lineno">  217</span>            owner-&gt;CastSpell(owner, 42755 <span class="comment">/*Goblin Gumbo Trigger*/</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  218</span>    }</div>
 <div class="ttc" id="aclassAuraEffect_html_abc3f0fbe56a3974699db0056eed45664"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#abc3f0fbe56a3974699db0056eed45664">AuraEffect::SetPeriodicTimer</a></div><div class="ttdeci">void SetPeriodicTimer(int32 periodicTimer)</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:69</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
@@ -458,7 +458,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00069">AuraEffect::SetPeriodicTimer()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">Register()</a>.</p>
 
 </div>
 </div>
@@ -471,7 +471,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d5f/classspell__item__goblin__gumbo__kettle.html">spell_item_goblin_gumbo_kettle</a></li>
-    <li class="footer">Generated on Fri May 9 2025 06:23:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 10 2025 06:20:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

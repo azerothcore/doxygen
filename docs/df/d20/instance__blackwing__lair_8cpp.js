@@ -5,8 +5,7 @@ var instance__blackwing__lair_8cpp =
     [ "spell_bwl_shadowflame", "dc/d17/classspell__bwl__shadowflame.html", "dc/d17/classspell__bwl__shadowflame" ],
     [ "at_orb_of_command", "da/dac/classat__orb__of__command.html", "da/dac/classat__orb__of__command" ],
     [ "orb_of_command_misc", "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ],
-      [ "MAP_BWL", "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1b688e63ec4ff55cd01b4df30948cbc", null ]
+      [ "QUEST_BLACKHANDS_COMMAND", "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
     ] ],
     [ "ShadowFlame", "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa", [
       [ "SPELL_ONYXIA_SCALE_CLOAK", "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],

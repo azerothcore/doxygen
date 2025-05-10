@@ -75,7 +75,6 @@ var zone__dalaran_8cpp =
       [ "GOSSIP_AQUANOS_HORDE", "d6/d13/zone__dalaran_8cpp.html#ace46e4161059a534857121dd8459c4eaa101f0db9380a5b9206fa5fada3755b83", null ]
     ] ],
     [ "MinigobData", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99", [
-      [ "ZONE_DALARAN", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a2e806e1b6b933f5d2a14d95f14cc1b4a", null ],
       [ "SPELL_MANABONKED", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a25c6cc4c12bba446acfc09c929baaa4f", null ],
       [ "SPELL_TELEPORT_VISUAL", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
       [ "SPELL_IMPROVED_BLINK", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99ac97b44dfbd8fafc9bb3fadbe6204caff", null ],

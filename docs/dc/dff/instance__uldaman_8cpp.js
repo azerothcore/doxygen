@@ -12,8 +12,5 @@ var instance__uldaman_8cpp =
       [ "SPELL_ARCHAEDAS_AWAKEN", "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ]
     ] ],
-    [ "UldamanStonedEnum", "dc/dff/instance__uldaman_8cpp.html#a66d92c60f732b1d4d9e366b9f2529bc5", [
-      [ "MAP_ULDAMAN", "dc/dff/instance__uldaman_8cpp.html#a66d92c60f732b1d4d9e366b9f2529bc5a161f4bd3f328ad58f737ed33468387ea", null ]
-    ] ],
     [ "AddSC_instance_uldaman", "dc/dff/instance__uldaman_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e", null ]
 ];

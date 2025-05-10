@@ -1,6 +1,5 @@
 var classWorld =
 [
-    [ "WorldStatesMap", "d6/d39/classWorld.html#a14ecf1cc37847138eeeb101406b05f1a", null ],
     [ "World", "d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8", null ],
     [ "~World", "d6/d39/classWorld.html#adf5e8724afb4d083e566ee4e48905bf2", null ],
     [ "_UpdateGameTime", "d6/d39/classWorld.html#a283774abc7254563416653fbf43c0fe4", null ],
@@ -32,7 +31,6 @@ var classWorld =
     [ "getRate", "d6/d39/classWorld.html#a20c906e7008d7bed619c28e232c26e70", null ],
     [ "GetRealmName", "d6/d39/classWorld.html#a9ef018075eb1940b88c40d6c5294c8a4", null ],
     [ "GetShutDownTimeLeft", "d6/d39/classWorld.html#adce37741453050be9959f231113856df", null ],
-    [ "getWorldState", "d6/d39/classWorld.html#ac32e1dce658579a75ee5aacd51da7a19", null ],
     [ "InitCalendarOldEventsDeletionTime", "d6/d39/classWorld.html#a621ff9ef21c6377095c4a06a7acfc122", null ],
     [ "InitDailyQuestResetTime", "d6/d39/classWorld.html#a68f4a1f27f3da7ed9d675b01013ea018", null ],
     [ "InitGuildResetTime", "d6/d39/classWorld.html#a82f7d820397d31b277d54349d1df4b73", null ],
@@ -48,7 +46,6 @@ var classWorld =
     [ "LoadConfigSettings", "d6/d39/classWorld.html#a3ac6d12f20e9d3e914b21fc5cc27938d", null ],
     [ "LoadDBAllowedSecurityLevel", "d6/d39/classWorld.html#a74a69622ac41136efc3b6a6b967bbb65", null ],
     [ "LoadDBVersion", "d6/d39/classWorld.html#a1d20ca4bca7abc40e865e6013e55ac9d", null ],
-    [ "LoadWorldStates", "d6/d39/classWorld.html#a3b01757a860b151599bba75fcb33248e", null ],
     [ "ProcessCliCommands", "d6/d39/classWorld.html#a22ba72387cf729585d0a3dff5b68a0b5", null ],
     [ "ProcessQueryCallbacks", "d6/d39/classWorld.html#aae7024335255ec3d29bddd52ca535327", null ],
     [ "QueueCliCommand", "d6/d39/classWorld.html#a681852aa66dfa02932f81f7ddeec6445", null ],
@@ -70,7 +67,6 @@ var classWorld =
     [ "SetPlayerSecurityLimit", "d6/d39/classWorld.html#af27489b9c412e1b060ac4b20ec652e50", null ],
     [ "setRate", "d6/d39/classWorld.html#a97cc9bccbe95762ff4d283a6f3ed5baa", null ],
     [ "SetRealmName", "d6/d39/classWorld.html#a2b4be30416a27846bfe10943efffd876", null ],
-    [ "setWorldState", "d6/d39/classWorld.html#af82da1e0a07b4b84a186fd6f2f378ddb", null ],
     [ "ShutdownCancel", "d6/d39/classWorld.html#a0227f68a7e8917c775d0386f83e0ad4d", null ],
     [ "ShutdownMsg", "d6/d39/classWorld.html#aaffca059ddb1b47034d9338eb8e516cc", null ],
     [ "ShutdownServ", "d6/d39/classWorld.html#a4fdff6bac07b46aaa58e34ab7eb258d8", null ],
@@ -110,6 +106,5 @@ var classWorld =
     [ "_shutdownTimer", "d6/d39/classWorld.html#a74baa2bb1744320512f9f29538512573", null ],
     [ "_stopEvent", "d6/d39/classWorld.html#adb852fcd9fbb861b1bbd3d5c17c728fc", null ],
     [ "_timers", "d6/d39/classWorld.html#a42e8e0b8ee52aa72e78e44de16253915", null ],
-    [ "_worldstates", "d6/d39/classWorld.html#a463e562ffd290b2cd13fb2f42f8c86dc", null ],
     [ "m_worldLoopCounter", "d6/d39/classWorld.html#aa63a63e8985fe0382c4df93b80eb661c", null ]
 ];

@@ -94,7 +94,6 @@ var hyjal_8h =
       [ "START_WAVE_HORDE_RETREAT", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498ea8f569f5072a49d9b4271247d760ba072", null ],
       [ "START_WAVE_NIGHT_ELF", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498ea38e1c4beb65b79bae686a4bc3f1f9157", null ],
       [ "CONTEXT_GROUP_WAVES", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498eac4cdd51691e061e219e9befc6c3d4057", null ],
-      [ "AREA_NORDRASSIL", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498ea43212ff5df35c5e033a1cc9064e8764e", null ],
       [ "SPELL_ETERNAL_SILENCE", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498ea1eeaf87fe83bd33f2043ea6b75e1f9f8", null ],
       [ "GUID_GAIN_SOUL_CHARGE_PLAYER", "d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498ea3a1e37120e8fbb57dea22d9d30df2f5f", null ]
     ] ],

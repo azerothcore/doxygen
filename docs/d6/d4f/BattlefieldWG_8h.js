@@ -66,17 +66,6 @@ var BattlefieldWG_8h =
       [ "BATTLEFIELD_WG_GY_ALLIANCE", "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6af5476383b969c2e41d0e4a7342ceaf2b", null ],
       [ "BATTLEFIELD_WG_GRAVEYARD_MAX", "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a529ccde50f8f128ba00734682142816e", null ]
     ] ],
-    [ "WintergraspAreaIds", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734d", [
-      [ "BATTLEFIELD_WG_ZONEID", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734dabc95672685175e4502b00c259d967672", null ],
-      [ "BATTLEFIELD_WG_MAPID", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da1d42500b191b0b27c493da37d7eb015c", null ],
-      [ "AREA_WINTERGRASP_FORTRESS", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da7f27fe55a854d9050a7a648a7da6365b", null ],
-      [ "AREA_THE_SUNKEN_RING", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da2dc05848dae9c1e9ddb3ba49785ebbfa", null ],
-      [ "AREA_THE_BROKEN_TEMPLE", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734daa148a0f5bb7acda5135843138caa3b9a", null ],
-      [ "AREA_WESTPARK_WORKSHOP", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734dabe526b880e13a0bc653b9d9290a47539", null ],
-      [ "AREA_EASTPARK_WORKSHOP", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734da927c14278b13c4ef4cfa2047ca7ad46e", null ],
-      [ "AREA_WINTERGRASP", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734dabdf56f1ad39ae8443da1a38dbcace720", null ],
-      [ "AREA_THE_CHILLED_QUAGMIRE", "d6/d4f/BattlefieldWG_8h.html#a4e495144ecce829a2aef18f40486734dae02bc91742e647d77d1ddf5056b874e6", null ]
-    ] ],
     [ "WintergraspData", "d6/d4f/BattlefieldWG_8h.html#af04419dd4a56b38933efe04940c180e1", [
       [ "BATTLEFIELD_WG_DATA_INTACT_TOWER_ATT", "d6/d4f/BattlefieldWG_8h.html#af04419dd4a56b38933efe04940c180e1a2342bbf83084d59a8ce63783c1643fe9", null ],
       [ "BATTLEFIELD_WG_DATA_DAMAGED_TOWER_ATT", "d6/d4f/BattlefieldWG_8h.html#af04419dd4a56b38933efe04940c180e1aa2042f185f4d478da0f50a9565cb6736", null ],

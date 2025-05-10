@@ -336,18 +336,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1416</span>    {</div>
-<div class="line"><span class="lineno"> 1417</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno"> 1418</span>        {</div>
-<div class="line"><span class="lineno"> 1419</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>* pet = player-&gt;GetPet())</div>
-<div class="line"><span class="lineno"> 1420</span>            {</div>
-<div class="line"><span class="lineno"> 1421</span>                <span class="keywordflow">if</span> (pet-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6">NPC_VOIDWALKER</a>)</div>
-<div class="line"><span class="lineno"> 1422</span>                {</div>
-<div class="line"><span class="lineno"> 1423</span>                    pet-&gt;HandleStatModifier(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173">UNIT_MOD_STAT_STAMINA</a>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d">TOTAL_PCT</a>, aurEff-&gt;GetAmount(), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1424</span>                }</div>
-<div class="line"><span class="lineno"> 1425</span>            }</div>
-<div class="line"><span class="lineno"> 1426</span>        }</div>
-<div class="line"><span class="lineno"> 1427</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1417</span>    {</div>
+<div class="line"><span class="lineno"> 1418</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno"> 1419</span>        {</div>
+<div class="line"><span class="lineno"> 1420</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>* pet = player-&gt;GetPet())</div>
+<div class="line"><span class="lineno"> 1421</span>            {</div>
+<div class="line"><span class="lineno"> 1422</span>                <span class="keywordflow">if</span> (pet-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6">NPC_VOIDWALKER</a>)</div>
+<div class="line"><span class="lineno"> 1423</span>                {</div>
+<div class="line"><span class="lineno"> 1424</span>                    pet-&gt;HandleStatModifier(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173">UNIT_MOD_STAT_STAMINA</a>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d">TOTAL_PCT</a>, aurEff-&gt;GetAmount(), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1425</span>                }</div>
+<div class="line"><span class="lineno"> 1426</span>            }</div>
+<div class="line"><span class="lineno"> 1427</span>        }</div>
+<div class="line"><span class="lineno"> 1428</span>    }</div>
 <div class="ttc" id="aPetDefines_8h_html_a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6"><div class="ttname"><a href="../../d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6">NPC_VOIDWALKER</a></div><div class="ttdeci">@ NPC_VOIDWALKER</div><div class="ttdef"><b>Definition</b> PetDefines.h:97</div></div>
 <div class="ttc" id="aUnit_8h_html_a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173">UNIT_MOD_STAT_STAMINA</a></div><div class="ttdeci">@ UNIT_MOD_STAT_STAMINA</div><div class="ttdef"><b>Definition</b> Unit.h:145</div></div>
 <div class="ttc" id="aUnit_8h_html_aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d">TOTAL_PCT</a></div><div class="ttdeci">@ TOTAL_PCT</div><div class="ttdef"><b>Definition</b> Unit.h:129</div></div>
@@ -357,7 +357,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00097">NPC_VOIDWALKER</a>, <a class="el" href="../../#l00129">TOTAL_PCT</a>, and <a class="el" href="../../#l00145">UNIT_MOD_STAT_STAMINA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01443">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01444">Register()</a>.</p>
 
 </div>
 </div>
@@ -394,22 +394,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1430</span>    {</div>
-<div class="line"><span class="lineno"> 1431</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno"> 1432</span>        {</div>
-<div class="line"><span class="lineno"> 1433</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>* pet = player-&gt;GetPet())</div>
-<div class="line"><span class="lineno"> 1434</span>            {</div>
-<div class="line"><span class="lineno"> 1435</span>                <span class="keywordflow">if</span> (pet-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6">NPC_VOIDWALKER</a>)</div>
-<div class="line"><span class="lineno"> 1436</span>                {</div>
-<div class="line"><span class="lineno"> 1437</span>                    pet-&gt;HandleStatModifier(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173">UNIT_MOD_STAT_STAMINA</a>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d">TOTAL_PCT</a>, aurEff-&gt;GetAmount(), <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1438</span>                }</div>
-<div class="line"><span class="lineno"> 1439</span>            }</div>
-<div class="line"><span class="lineno"> 1440</span>        }</div>
-<div class="line"><span class="lineno"> 1441</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1431</span>    {</div>
+<div class="line"><span class="lineno"> 1432</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno"> 1433</span>        {</div>
+<div class="line"><span class="lineno"> 1434</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>* pet = player-&gt;GetPet())</div>
+<div class="line"><span class="lineno"> 1435</span>            {</div>
+<div class="line"><span class="lineno"> 1436</span>                <span class="keywordflow">if</span> (pet-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6">NPC_VOIDWALKER</a>)</div>
+<div class="line"><span class="lineno"> 1437</span>                {</div>
+<div class="line"><span class="lineno"> 1438</span>                    pet-&gt;HandleStatModifier(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173">UNIT_MOD_STAT_STAMINA</a>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d">TOTAL_PCT</a>, aurEff-&gt;GetAmount(), <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1439</span>                }</div>
+<div class="line"><span class="lineno"> 1440</span>            }</div>
+<div class="line"><span class="lineno"> 1441</span>        }</div>
+<div class="line"><span class="lineno"> 1442</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00097">NPC_VOIDWALKER</a>, <a class="el" href="../../#l00129">TOTAL_PCT</a>, and <a class="el" href="../../#l00145">UNIT_MOD_STAT_STAMINA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01443">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01444">Register()</a>.</p>
 
 </div>
 </div>
@@ -463,10 +463,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1444</span>    {</div>
-<div class="line"><span class="lineno"> 1445</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72">spell_warl_glyph_of_voidwalker::HandleApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1446</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40">spell_warl_glyph_of_voidwalker::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1447</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1445</span>    {</div>
+<div class="line"><span class="lineno"> 1446</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72">spell_warl_glyph_of_voidwalker::HandleApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1447</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40">spell_warl_glyph_of_voidwalker::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1448</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -474,10 +474,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:749</div></div>
 <div class="ttc" id="aclassAuraScript_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:738</div></div>
-<div class="ttc" id="aclassspell__warl__glyph__of__voidwalker_html_a60b6e438ff67d9db41d160020b54da40"><div class="ttname"><a href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40">spell_warl_glyph_of_voidwalker::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1429</div></div>
-<div class="ttc" id="aclassspell__warl__glyph__of__voidwalker_html_aa35fa107aee605a8583150901a75ad72"><div class="ttname"><a href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72">spell_warl_glyph_of_voidwalker::HandleApply</a></div><div class="ttdeci">void HandleApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1415</div></div>
+<div class="ttc" id="aclassspell__warl__glyph__of__voidwalker_html_a60b6e438ff67d9db41d160020b54da40"><div class="ttname"><a href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#a60b6e438ff67d9db41d160020b54da40">spell_warl_glyph_of_voidwalker::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1430</div></div>
+<div class="ttc" id="aclassspell__warl__glyph__of__voidwalker_html_aa35fa107aee605a8583150901a75ad72"><div class="ttname"><a href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html#aa35fa107aee605a8583150901a75ad72">spell_warl_glyph_of_voidwalker::HandleApply</a></div><div class="ttdeci">void HandleApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1416</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01415">HandleApply()</a>, <a class="el" href="../../#l01429">HandleRemove()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01416">HandleApply()</a>, <a class="el" href="../../#l01430">HandleRemove()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -490,7 +490,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d18/classspell__warl__glyph__of__voidwalker.html">spell_warl_glyph_of_voidwalker</a></li>
-    <li class="footer">Generated on Fri May 9 2025 06:24:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 10 2025 06:21:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

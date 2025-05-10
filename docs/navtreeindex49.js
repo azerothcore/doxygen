@@ -1,7 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d2/d04/classspell__capacitus__polarity__charge.html#add7e78111217d00bfa3dfa5b3eb490f9":[6,0,2684,0],
-"d2/d05/CreatureAI_8h.html":[7,0,0,0,1,2,3,4],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621":[7,0,0,0,1,2,3,4,7],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3":[7,0,0,0,1,2,3,4,7,7],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38":[7,0,0,0,1,2,3,4,7,6],
@@ -127,10 +125,10 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,98,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,86,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,98,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,86,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,98,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,98,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,86,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,98,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2161],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2161,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2161,2],
@@ -177,8 +175,8 @@ var NAVTREEINDEX49 =
 "d2/d0f/classRestoreFight.html":[6,0,2489],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2489,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2489,0],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2489,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2489,2],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2489,3],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[6,0,2489,4],
 "d2/d0f/classboss__freya__summons.html":[6,0,481],
 "d2/d0f/classboss__freya__summons.html#a3445ed89967cc9a610472f18e862ecd4":[6,0,481,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX49 =
 "d2/d13/classgo__table__theka.html#ab04480f032ce074daacdc0dcfa37ee12":[6,0,1176,1],
 "d2/d14/classnpcs__riverbreeze__and__silversky.html":[6,0,2300],
 "d2/d14/classnpcs__riverbreeze__and__silversky.html#a7de032322a37f929c316aadfdadda768":[6,0,2300,1],
-"d2/d14/classnpcs__riverbreeze__and__silversky.html#a93c7b159dda733da5030de747bad30b5":[6,0,2300,2]
+"d2/d14/classnpcs__riverbreeze__and__silversky.html#a93c7b159dda733da5030de747bad30b5":[6,0,2300,2],
+"d2/d14/classnpcs__riverbreeze__and__silversky.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2":[6,0,2300,0],
+"d2/d14/structboss__felblood__kaelthas.html":[6,0,461]
 };

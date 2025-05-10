@@ -15,9 +15,7 @@ var item__scripts_8cpp =
       [ "SPELL_ARCANE_CHARGES", "dc/da0/item__scripts_8cpp.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
     ] ],
     [ "PetrovClusterBombs", "dc/da0/item__scripts_8cpp.html#a5481d2bf1b9efa370833eed302f6f94c", [
-      [ "SPELL_PETROV_BOMB", "dc/da0/item__scripts_8cpp.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ],
-      [ "AREA_ID_SHATTERED_STRAITS", "dc/da0/item__scripts_8cpp.html#a5481d2bf1b9efa370833eed302f6f94ca61d3b5bb03fb6b0be836957c1d977e42", null ],
-      [ "ZONE_ID_HOWLING", "dc/da0/item__scripts_8cpp.html#a5481d2bf1b9efa370833eed302f6f94ca24b25ae9cc97c3cf213b6b0711d511b9", null ]
+      [ "SPELL_PETROV_BOMB", "dc/da0/item__scripts_8cpp.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
     ] ],
     [ "AddSC_item_scripts", "dc/da0/item__scripts_8cpp.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

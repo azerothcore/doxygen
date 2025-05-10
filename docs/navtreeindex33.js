@@ -1,6 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d5e/structDynamicTreeAreaInfoCallback.html#ad3f3d57e011439d9900afffa8d9c6ed7":[6,0,994,0],
 "d1/d5e/structDynamicTreeAreaInfoCallback.html#adf7f147bb4b4f3a5252ac15ffd1b80ea":[6,0,994,2],
 "d1/d5e/structnpc__ancient__wisp.html":[6,0,1582],
 "d1/d5e/structnpc__ancient__wisp.html#a1c33cc47d7f60b2b3eb60852f1c36820":[6,0,1582,3],
@@ -217,8 +216,8 @@ var NAVTREEINDEX33 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,86,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,74,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,86,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,74,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,86,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,74,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3651],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[6,0,3651,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[6,0,3651,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX33 =
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a416215463270fd229ffa0fd78ad38055":[7,0,0,0,1,3,4,1,2,4,9,26],
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a4185c916fb096a82eafc703d7e58806a":[7,0,0,0,1,3,4,1,2,4,9,0],
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a47a7ec6df9bce9e0dd80f6af5c8b0881":[7,0,0,0,1,3,4,1,2,4,9,14],
-"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a4978689d059a114052786ed47eed8225":[7,0,0,0,1,3,4,1,2,4,9,17]
+"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a4978689d059a114052786ed47eed8225":[7,0,0,0,1,3,4,1,2,4,9,17],
+"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a4bbfa87fa0b44ab8d5b56a98c3638b3b":[7,0,0,0,1,3,4,1,2,4,9,31]
 };

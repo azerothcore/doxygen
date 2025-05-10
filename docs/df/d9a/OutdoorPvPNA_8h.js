@@ -64,7 +64,6 @@ var OutdoorPvPNA_8h =
     [ "NA_HALAA_BOMB", "df/d9a/OutdoorPvPNA_8h.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
     [ "NA_HALAA_GRAVEYARD", "df/d9a/OutdoorPvPNA_8h.html#a23eddcc072a261674acb3acb48f637cb", null ],
     [ "NA_HALAA_GRAVEYARD_ZONE", "df/d9a/OutdoorPvPNA_8h.html#a74f493038b14c5e7e5a00c661339278e", null ],
-    [ "NA_HALAA_ZONE_ID", "df/d9a/OutdoorPvPNA_8h.html#adca7c435af0a29cf2e0ed3525ec6a7df", null ],
     [ "NA_RESPAWN_TIME", "df/d9a/OutdoorPvPNA_8h.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
     [ "PatrolCreatureEntry", "df/d9a/OutdoorPvPNA_8h.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
 ];

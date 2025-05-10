@@ -1,14 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,2,0,8],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b01bb6d3fb8443b07a687c16d86009d":[7,0,0,0,1,3,7,5,2,0,8,4],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2474f7d0a349f54ecfaeaf5a387d509d":[7,0,0,0,1,3,7,5,2,0,8,12],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,7,5,2,0,8,9],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca501423372a047a0b1766a736cf773724":[7,0,0,0,1,3,7,5,2,0,8,2],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b15c1654fb178c62d8c139819ca2078":[7,0,0,0,1,3,7,5,2,0,8,13],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca93350f55f20d7c85474448054888a70b":[7,0,0,0,1,3,7,5,2,0,8,1],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298cabbc094860772889c1980cfc63b2e25f1":[7,0,0,0,1,3,7,5,2,0,8,7],
-"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,5,2,0,8,0],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298cadcd9da2493f3e90a2ec792d4961d9e0a":[7,0,0,0,1,3,7,5,2,0,8,11],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298cae05d012a1007261a11240cf2d9202e23":[7,0,0,0,1,3,7,5,2,0,8,8],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298cae5fdb91a93ab5890c4110cc97c3b7acc":[7,0,0,0,1,3,7,5,2,0,8,5],
@@ -249,5 +240,14 @@ var NAVTREEINDEX89 =
 "d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2884,1],
 "d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2884,0],
 "d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2884,2],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0]
+"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0],
+"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
+"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0],
+"d2/df9/classLichKingMovieEvent.html":[6,0,1407],
+"d2/df9/classLichKingMovieEvent.html#a22d6181fd2651d62dcb6cdbabe0561fe":[6,0,1407,1],
+"d2/df9/classLichKingMovieEvent.html#a3e48e13dc5166c73a9f379045988f86a":[6,0,1407,0],
+"d2/df9/classLichKingMovieEvent.html#a7ed68f442a644d6bb7a036812351d89e":[6,0,1407,2],
+"d2/df9/classspell__boss__salramm__steal__flesh__aura.html":[6,0,2660],
+"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#a2feb8adaad212ee29d9ec6d9957575a4":[6,0,2660,2],
+"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#a73421b82f483e73314dbb862fb0a11c7":[6,0,2660,3]
 };

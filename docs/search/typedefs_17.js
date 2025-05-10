@@ -13,7 +13,7 @@ var searchData=
   ['worlddatabasequeryholder_10',['WorldDatabaseQueryHolder',['../d0/d5e/DatabaseEnvFwd_8h.html#a671c534314a7e095bb2bf72e2cc0fcbb',1,'DatabaseEnvFwd.h']]],
   ['worlddatabasetransaction_11',['WorldDatabaseTransaction',['../d0/d5e/DatabaseEnvFwd_8h.html#a858dac975c33053feb33400380cec907',1,'DatabaseEnvFwd.h']]],
   ['worldpacketlist_12',['worldpacketlist',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac02e770af167d14f978954cf5ac74487',1,'Acore::WorldWorldTextBuilder::WorldPacketList'],['../dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c',1,'Acore::LocalizedPacketListDo::WorldPacketList']]],
-  ['worldstatesmap_13',['WorldStatesMap',['../d6/d39/classWorld.html#a14ecf1cc37847138eeeb101406b05f1a',1,'World']]],
+  ['worldstatesmap_13',['WorldStatesMap',['../d3/da9/classWorldState.html#a66228290309a4c9dc76994e6f0ab1e2c',1,'WorldState']]],
   ['worldtypemapcontainer_14',['WorldTypeMapContainer',['../d7/d34/GridDefines_8h.html#a5bb8ca8e4f69040bd100138c05a96c0c',1,'GridDefines.h']]],
   ['wppath_15',['WPPath',['../d1/dc3/SmartScriptMgr_8h.html#abc98143d1084e552d293ab743fd5a56b',1,'SmartScriptMgr.h']]],
   ['wrapper_5ffunc_16',['wrapper_func',['../d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461',1,'Acore::Impl::ChatCommands::CommandInvoker']]]
