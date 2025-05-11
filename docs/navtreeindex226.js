@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"d8/de0/BattlegroundSA_8h.html#aaf470646067725fcbaa2cd2244813cef":[7,0,0,0,1,2,8,1,19,3],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701":[7,0,0,0,1,2,8,1,19,11],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0515122e96d117a4a59ddb1feebb22bc":[7,0,0,0,1,2,8,1,19,11,14],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0a1c0e8ac3731de8d878b6d04493c594":[7,0,0,0,1,2,8,1,19,11,26],
@@ -181,11 +182,11 @@ var NAVTREEINDEX226 =
 "d8/de7/classnpc__announcer__toc10.html#a9a2bf1d3a215332744ca473041cc0520":[6,0,1584,2],
 "d8/de7/classnpc__announcer__toc10.html#ae495b19328c6a743dfd8f1cbf37a0bd6":[6,0,1584,0],
 "d8/de7/classnpc__announcer__toc10.html#afcc5262e7c49b7456af146de14805a06":[6,0,1584,1],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html":[6,0,3731],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[6,0,3731,2],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3731,1],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3731,3],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3731,0],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html":[6,0,3732],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[6,0,3732,2],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3732,1],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3732,3],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3732,0],
 "d8/de7/structDungeonEncounter.html":[6,0,986],
 "d8/de7/structDungeonEncounter.html#a262bdd0ba443739456fc14bcad83ecda":[6,0,986,3],
 "d8/de7/structDungeonEncounter.html#a3e48a996a47ddcc1b18aaac339457f3d":[6,0,986,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "d8/deb/classnpc__essence__of__twin.html#a019de64e5e01e611acfda5db4c279b19":[6,0,1765,0],
 "d8/deb/classnpc__essence__of__twin.html#a6f37b7f1152098b41b07ddbae3613c63":[6,0,1765,1],
 "d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html":[6,0,475,0],
-"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#a4a7350a2bf7c813b1b18fe32566e4d56":[6,0,475,0,0],
-"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#a711cd2788bff7fbc648c039921297eac":[6,0,475,0,5]
+"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#a4a7350a2bf7c813b1b18fe32566e4d56":[6,0,475,0,0]
 };

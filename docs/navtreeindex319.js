@@ -1,5 +1,10 @@
 var NAVTREEINDEX319 =
 {
+"dd/d27/structSmartAction.html#a3a9b33685d26bf9ba39469d411989851":[6,0,2549,57],
+"dd/d27/structSmartAction.html#a3bcbaf44bfb40f48f3a202765e41871e":[6,0,2549,181],
+"dd/d27/structSmartAction.html#a3c1ab76a3dc81fec21f28327dcf674ff":[6,0,2549,118],
+"dd/d27/structSmartAction.html#a3cace81063f401104ffbe3a120ff126b":[6,0,2549,288],
+"dd/d27/structSmartAction.html#a3e5b7fd7611d92071448e7355cbeba7c":[6,0,2549,291],
 "dd/d27/structSmartAction.html#a3e71e2a234985c7056b009edfeddc343":[6,0,2549,231],
 "dd/d27/structSmartAction.html#a3f42f2d1b59b3167632e17bad1f49db1":[6,0,2549,248],
 "dd/d27/structSmartAction.html#a3fb37b223722eb1a63edfbd8140b3804":[6,0,2549,51],
@@ -242,12 +247,7 @@ var NAVTREEINDEX319 =
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a92e3137bb92545876ca67028bcc86a4f":[6,0,3179,1],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a94d4155e98a4ac5764d8bfd705b05602":[6,0,3179,3],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a9b440dd8bf21b70d068021d05832a3fc":[6,0,3179,4],
-"dd/d2c/classTransactionTask.html":[6,0,4128],
-"dd/d2c/classTransactionTask.html#a13573f827891ad172847dc0e466b0b9e":[6,0,4128,0],
-"dd/d2c/classTransactionTask.html#a242f0cb47bc6b456b6bea9aa372df4b6":[6,0,4128,9],
-"dd/d2c/classTransactionTask.html#a28c9ca1d9d3fdc6a722dcec68e46a38f":[6,0,4128,4],
-"dd/d2c/classTransactionTask.html#a5d89109a06fa4fca3057b99bbfa84e58":[6,0,4128,6],
-"dd/d2c/classTransactionTask.html#a68bc982f025d40bbc3a7323cd8c96786":[6,0,4128,1],
-"dd/d2c/classTransactionTask.html#a84b48dbb670dd884e9b44ea53c8b0008":[6,0,4128,8],
-"dd/d2c/classTransactionTask.html#aa1c1df059d15fe2077ceea5cfb51ba22":[6,0,4128,3]
+"dd/d2c/classTransactionTask.html":[6,0,4129],
+"dd/d2c/classTransactionTask.html#a13573f827891ad172847dc0e466b0b9e":[6,0,4129,0],
+"dd/d2c/classTransactionTask.html#a242f0cb47bc6b456b6bea9aa372df4b6":[6,0,4129,9]
 };

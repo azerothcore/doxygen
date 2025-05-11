@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dd0/classspell__marrowgar__bone__storm.html#abfb7c002577a59864fb2aa069b713c0a":[6,0,3403,1],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html":[6,0,1315,0],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64":[6,0,1315,0,0],
 "d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#a1e99600992673d165382d99236e0c59f":[6,0,1315,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dd9/classat__twilight__grove.html#a8ee7239b8429df38a237926a7252322b":[6,0,245,1],
 "d8/dd9/zone__wintergrasp_8cpp.html":[7,0,0,0,1,3,5,24],
 "d8/dd9/zone__wintergrasp_8cpp.html#a0b39861952afe6495d6d3a53c2c96ffe":[7,0,0,0,1,3,5,24,27],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,24,24],
-"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f6464e2d3e2f02315585fa60240dab":[7,0,0,0,1,3,5,24,24,3]
+"d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,24,24]
 };

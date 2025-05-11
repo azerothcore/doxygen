@@ -26,6 +26,7 @@ var spell__paladin_8cpp =
     [ "spell_pal_righteous_defense", "dd/d88/classspell__pal__righteous__defense.html", "dd/d88/classspell__pal__righteous__defense" ],
     [ "spell_pal_seal_of_righteousness", "d0/d96/classspell__pal__seal__of__righteousness.html", "d0/d96/classspell__pal__seal__of__righteousness" ],
     [ "spell_pal_seal_of_vengeance", "d6/d1b/classspell__pal__seal__of__vengeance.html", "d6/d1b/classspell__pal__seal__of__vengeance" ],
+    [ "spell_pal_hand_of_protection", "da/d57/classspell__pal__hand__of__protection.html", "da/d57/classspell__pal__hand__of__protection" ],
     [ "PaladinSpellIcons", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75", [
       [ "PALADIN_ICON_ID_RETRIBUTION_AURA", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7", null ]
     ] ],

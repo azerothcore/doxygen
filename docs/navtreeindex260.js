@@ -1,5 +1,10 @@
 var NAVTREEINDEX260 =
 {
+"da/d9e/classSmartAIMgr.html":[6,0,2551],
+"da/d9e/classSmartAIMgr.html#a058fc520249afed73a0800f881feabd5":[6,0,2551,25],
+"da/d9e/classSmartAIMgr.html#a242aa1dec322743082410e77130b8a64":[6,0,2551,7],
+"da/d9e/classSmartAIMgr.html#a264913afc64ff37c3fb45dd64855fa04":[6,0,2551,21],
+"da/d9e/classSmartAIMgr.html#a2c560363e15bafb702256b053143e635":[6,0,2551,20],
 "da/d9e/classSmartAIMgr.html#a2faf54e12bcca4f2b293927f83519ceb":[6,0,2551,24],
 "da/d9e/classSmartAIMgr.html#a5060a757f6617a6fe2638b9c15f2c2a6":[6,0,2551,18],
 "da/d9e/classSmartAIMgr.html#a58e82f8670d6827bd914e98bf4edb3aa":[6,0,2551,12],
@@ -22,11 +27,11 @@ var NAVTREEINDEX260 =
 "da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[6,0,2551,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[6,0,2551,0],
 "da/d9e/classSmartAIMgr.html#af74d3b1999c3774350e87d70a08c8210":[6,0,2551,19],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3827],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3827,2],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3827,0],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3827,1],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3827,3],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3828],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3828,2],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3828,0],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3828,1],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3828,3],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html":[6,0,942,0],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#a7ddfb8afac3ff28a84b26255628fab50":[6,0,942,0,1],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#aa7d8d1d075eeb03952b47cc16846a3db":[6,0,942,0,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX260 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aa370ba4e92a593f2bb65c2198b275380":[7,0,0,0,1,3,7,13,36,11],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aa8873414cf1cfe9b65c801881b4229ab":[7,0,0,0,1,3,7,13,36,6],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aab5234463aa64c76c909cd2b30631be7":[7,0,0,0,1,3,7,13,36,5],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103ad9223a935bb2b9781e91f78f175d41c2":[7,0,0,0,1,3,7,13,36,13],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103af263a112c1204e3125fcc7b0209ef285":[7,0,0,0,1,3,7,13,36,4],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981":[7,0,0,0,1,3,7,13,42],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a04a6cbcda450d7a68236e4f4df039e36":[7,0,0,0,1,3,7,13,42,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a116fbb11cfd55f4f743ab6e6b1e169c4":[7,0,0,0,1,3,7,13,42,2],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a490991c939197eb08d5889b53ef448be":[7,0,0,0,1,3,7,13,42,3]
+"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103ad9223a935bb2b9781e91f78f175d41c2":[7,0,0,0,1,3,7,13,36,13]
 };

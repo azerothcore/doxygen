@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"da/d21/structnpc__giant__claw__tentacle.html#aaaed0a9fb39d30f5c9c7381e923a3d1e":[6,0,1800,2],
 "da/d21/structnpc__giant__claw__tentacle.html#ac4fedda976b2de295350363e9fef86ec":[6,0,1800,6],
 "da/d21/structnpc__giant__claw__tentacle.html#ad4dceaafa3bb12b2e5cb7d9530c59d31":[6,0,1800,3],
 "da/d21/structnpc__giant__claw__tentacle.html#ad5fd7a9246c9c7aba0fa71d331e1f512":[6,0,1800,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79269de8dea27ac7f7622e49e14a687a":[7,0,0,0,1,2,41,0,0,6,118],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79405eecbad1b57e309d03b99afc8be1":[7,0,0,0,1,2,41,0,0,6,134],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4":[7,0,0,0,1,2,41,0,0,6,79],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b0f1bb00bc1bcf04f26b3d4154146e4":[7,0,0,0,1,2,41,0,0,6,265],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b48a8e2e90779303af620c79bf8bfec":[7,0,0,0,1,2,41,0,0,6,95]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b0f1bb00bc1bcf04f26b3d4154146e4":[7,0,0,0,1,2,41,0,0,6,265]
 };

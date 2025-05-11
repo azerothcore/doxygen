@@ -175,7 +175,8 @@ var go__scripts_8cpp =
       [ "SPELL_SUMMON_BLADE_KNIGHT_TROLL", "d6/d0c/go__scripts_8cpp.html#a0ff7af590f3037be7611d256e9099e7bad0b17cb3e545d3ecef964b3e92c0bcfa", null ]
     ] ],
     [ "L70ETCMusic", "d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948", [
-      [ "MUSIC_L70_ETC_MUSIC", "d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948ad3219dcc896897dbe1e4e2411ac068a6", null ]
+      [ "MUSIC_L70_ETC_MUSIC", "d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948ad3219dcc896897dbe1e4e2411ac068a6", null ],
+      [ "MUSIC_L70_ETC_MUSIC_LOUD", "d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948acbf8bf280ef0469e9944c8d5b1ce8352", null ]
     ] ],
     [ "L70ETCMusicEvents", "d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5", [
       [ "EVENT_ETC_START_MUSIC", "d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5ae97b97c692a7052f64061415302ca04b", null ]

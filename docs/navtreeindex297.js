@@ -1,5 +1,10 @@
 var NAVTREEINDEX297 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4ceefb45d881136c06b26cdf76e3508c":[7,0,0,0,1,3,5,4,1,2,33,61],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e9e4be20845dfb475e41f7fa6bf4f1d":[7,0,0,0,1,3,5,4,1,2,33,71],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5466bad073ef1e4699dbb4ad3c20998e":[7,0,0,0,1,3,5,4,1,2,33,68],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a547bda13149dc6dd27c92a333b05cd36":[7,0,0,0,1,3,5,4,1,2,33,20],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5874352e6476428d7bb11b57ddcb3a83":[7,0,0,0,1,3,5,4,1,2,33,12],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58fecb20ab66ced624ee47bb00d6c01f":[7,0,0,0,1,3,5,4,1,2,33,17],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5b1b7e9a1b08b63ab28aa883b0914fd8":[7,0,0,0,1,3,5,4,1,2,33,6],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63a5e35e69f77604c8ff31c38b3560dd":[7,0,0,0,1,3,5,4,1,2,33,29],
@@ -83,10 +88,10 @@ var NAVTREEINDEX297 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,853,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,853,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,853,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3875],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3875,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3875,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3875,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3876],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3876,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3876,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3876,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1645,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1645,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1645,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3":[7,0,0,0,1,2,10,1,7,26],
 "dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e":[7,0,0,0,1,2,10,1,7,21],
 "dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203":[7,0,0,0,1,2,10,1,7,18],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8":[7,0,0,0,1,2,10,1,7,7],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40":[7,0,0,0,1,2,10,1,7,19],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4":[7,0,0,0,1,2,10,1,7,23],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4":[7,0,0,0,1,2,10,1,7,4],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf":[7,0,0,0,1,2,10,1,7,3],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276":[7,0,0,0,1,2,10,1,7,12]
+"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8":[7,0,0,0,1,2,10,1,7,7]
 };

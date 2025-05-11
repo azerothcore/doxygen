@@ -1,5 +1,6 @@
 var NAVTREEINDEX215 =
 {
+"d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,540,2],
 "d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,540,1],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[6,0,3318],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[6,0,3318,0],
@@ -71,16 +72,16 @@ var NAVTREEINDEX215 =
 "d8/d71/classspell__item__brittle__armor.html#a74dc9d9a57ed410b3c0d690418bfb4eb":[6,0,3182,1],
 "d8/d71/classspell__item__brittle__armor.html#a8769cbce815d1f1c457979743e10535c":[6,0,3182,2],
 "d8/d71/classspell__item__brittle__armor.html#a9309c0e435240bc656b3bfde2d923a9a":[6,0,3182,0],
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html":[6,0,3513],
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a2da64a27cfa5a68464f8f3a885e09751":[6,0,3513,2],
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[6,0,3513,0],
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[6,0,3513,3],
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[6,0,3513,1],
-"d8/d71/classspell__sindragosa__icy__grip.html":[6,0,3777],
-"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,3777,2],
-"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,3777,0],
-"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,3777,1],
-"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[6,0,3777,3],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html":[6,0,3514],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a2da64a27cfa5a68464f8f3a885e09751":[6,0,3514,2],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[6,0,3514,0],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[6,0,3514,3],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[6,0,3514,1],
+"d8/d71/classspell__sindragosa__icy__grip.html":[6,0,3778],
+"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,3778,2],
+"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,3778,0],
+"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,3778,1],
+"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[6,0,3778,3],
 "d8/d72/classBattlegroundQueue.html":[6,0,330],
 "d8/d72/classBattlegroundQueue.html#a0c13aac123c7e10764784a314684aee3":[6,0,330,23],
 "d8/d72/classBattlegroundQueue.html#a1c0726698cae6065abc2e180d0d755fb":[6,0,330,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d74/classWorldSession.html#a2d5f8c67cffee6d40fbb37f8e2063820":[4,1,19,436],
 "d8/d74/classWorldSession.html#a2d68715e6deff62bd5ac7332204937de":[4,1,19,581],
 "d8/d74/classWorldSession.html#a2de46d820d366a14c89f6d6da910e616":[4,1,19,587],
-"d8/d74/classWorldSession.html#a2e114eefda540260da138191ebcff45c":[4,1,19,266],
-"d8/d74/classWorldSession.html#a2f6f8217cc88555da15b0338405eb6aa":[4,1,19,614]
+"d8/d74/classWorldSession.html#a2e114eefda540260da138191ebcff45c":[4,1,19,266]
 };

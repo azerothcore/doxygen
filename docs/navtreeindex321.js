@@ -1,5 +1,10 @@
 var NAVTREEINDEX321 =
 {
+"dd/d34/namespaceVMAP.html#a3fb33e0008bbbabc087f99a45e512784":[5,0,27,43],
+"dd/d34/namespaceVMAP.html#a4fa75e5ca5211394c63abc7ff28eb741":[5,0,27,39],
+"dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28":[5,0,27,37],
+"dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9":[5,0,27,37,1],
+"dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5":[5,0,27,37,0],
 "dd/d34/namespaceVMAP.html#a6efa1bd5795cb2fcc8688e7500a8570f":[5,0,27,31],
 "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18":[5,0,27,38],
 "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[5,0,27,38,0],
@@ -45,8 +50,8 @@ var NAVTREEINDEX321 =
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
 "dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,12,6],
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d3b/structGameObjectTemplate.html#acb03ad16762d93b6f2bb9acbb8ea37fa":[6,0,1084,120],
 "dd/d3b/structGameObjectTemplate.html#acbbf0a662b50b26932d61a9dc355b833":[6,0,1084,53],
 "dd/d3b/structGameObjectTemplate.html#acc45c2d2adcf95fd3b2d9a094028a232":[6,0,1084,64],
-"dd/d3b/structGameObjectTemplate.html#acc736f26f307ea052b33e1399299355a":[6,0,1084,95],
-"dd/d3b/structGameObjectTemplate.html#acca9c17182927e4917d22b484422e74a":[6,0,1084,144],
-"dd/d3b/structGameObjectTemplate.html#acefddf641896b0e7d371a6b1acee8ee8":[6,0,1084,82],
-"dd/d3b/structGameObjectTemplate.html#ad174b2f7723e2d650a48123989eebc2a":[6,0,1084,41],
-"dd/d3b/structGameObjectTemplate.html#ad3c1fbfb1bdab597200a07b7b2868012":[6,0,1084,108],
-"dd/d3b/structGameObjectTemplate.html#ad4036e370fb66b8db5a62d7c12741221":[6,0,1084,78]
+"dd/d3b/structGameObjectTemplate.html#acc736f26f307ea052b33e1399299355a":[6,0,1084,95]
 };

@@ -1132,6 +1132,7 @@ var hierarchy =
         [ "spell_pal_divine_storm_dummy", "dc/d9a/classspell__pal__divine__storm__dummy.html", null ],
         [ "spell_pal_glyph_of_holy_light", "dc/d7d/classspell__pal__glyph__of__holy__light.html", null ],
         [ "spell_pal_guarded_by_the_light", "d3/de0/classspell__pal__guarded__by__the__light.html", null ],
+        [ "spell_pal_hand_of_protection", "da/d57/classspell__pal__hand__of__protection.html", null ],
         [ "spell_pal_hand_of_sacrifice", "d1/d45/classspell__pal__hand__of__sacrifice.html", null ],
         [ "spell_pal_holy_shock", "d7/d3a/classspell__pal__holy__shock.html", null ],
         [ "spell_pal_judgement", "d9/dff/classspell__pal__judgement.html", null ],

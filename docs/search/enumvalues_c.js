@@ -649,6 +649,7 @@ var searchData=
   ['music_5ffrozen_5fthrone_646',['MUSIC_FROZEN_THRONE',['../da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba661c65ae92e776ae2fabf52e13241bd4',1,'boss_the_lich_king.cpp']]],
   ['music_5ffury_5fof_5ffrostmourne_647',['MUSIC_FURY_OF_FROSTMOURNE',['../da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9',1,'boss_the_lich_king.cpp']]],
   ['music_5fl70_5fetc_5fmusic_648',['MUSIC_L70_ETC_MUSIC',['../d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948ad3219dcc896897dbe1e4e2411ac068a6',1,'go_scripts.cpp']]],
-  ['music_5fpirate_5fday_5fmusic_649',['MUSIC_PIRATE_DAY_MUSIC',['../d6/d0c/go__scripts_8cpp.html#a389c53b4909666608f9054330b601fd1a02835584af75215c801e4bf424b70557',1,'go_scripts.cpp']]],
-  ['music_5fspecial_650',['MUSIC_SPECIAL',['../da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8badeac43464c411908539cf214921cf1f3',1,'boss_the_lich_king.cpp']]]
+  ['music_5fl70_5fetc_5fmusic_5floud_649',['MUSIC_L70_ETC_MUSIC_LOUD',['../d6/d0c/go__scripts_8cpp.html#a59d13d14f2f300cebbf6190096553948acbf8bf280ef0469e9944c8d5b1ce8352',1,'go_scripts.cpp']]],
+  ['music_5fpirate_5fday_5fmusic_650',['MUSIC_PIRATE_DAY_MUSIC',['../d6/d0c/go__scripts_8cpp.html#a389c53b4909666608f9054330b601fd1a02835584af75215c801e4bf424b70557',1,'go_scripts.cpp']]],
+  ['music_5fspecial_651',['MUSIC_SPECIAL',['../da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8badeac43464c411908539cf214921cf1f3',1,'boss_the_lich_king.cpp']]]
 ];
