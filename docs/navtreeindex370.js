@@ -1,5 +1,9 @@
 var NAVTREEINDEX370 =
 {
+"de/dcc/classspell__dk__blood__boil.html#ae1b4b01bd1a6903bcd594d2191e2770b":[6,0,2730,0],
+"de/dcc/classspell__dk__blood__boil.html#ae9eeb78d006bc01dd05fdd726dea9b90":[6,0,2730,3],
+"de/dcc/classspell__dk__blood__boil.html#afdbb71f81aacc9ac1a5119707952ec52":[6,0,2730,4],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html":[6,0,3034],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a0ff7bbd0dea458b15231ecf419b1c49c":[6,0,3034,3],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[6,0,3034,0],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3034,1],
@@ -52,13 +56,13 @@ var NAVTREEINDEX370 =
 "de/dcf/classFormationMgr.html#ade1aa22473c112aed65d537929b07908":[6,0,1056,0],
 "de/dcf/classFormationMgr.html#aef758bdbc8f93c8981aedd51d7e10a07":[6,0,1056,2],
 "de/dcf/classFormationMgr.html#af0ecde62fc5c4a3a2b3be16c58f51fde":[6,0,1056,4],
-"de/dcf/classTransportBase.html":[6,0,4135],
-"de/dcf/classTransportBase.html#a328fbc464c56eca89138380182a0108c":[6,0,4135,5],
-"de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70":[6,0,4135,0],
-"de/dcf/classTransportBase.html#a7cb7586a6935ca4e08aa3e658982abec":[6,0,4135,4],
-"de/dcf/classTransportBase.html#a81dca3435a1a1666a90acd8e154e3287":[6,0,4135,1],
-"de/dcf/classTransportBase.html#aa4d00f15dc0e6c53b4a175b0ca53021b":[6,0,4135,3],
-"de/dcf/classTransportBase.html#ae8c9eb64027f8e7c781f0af192e3f6c1":[6,0,4135,2],
+"de/dcf/classTransportBase.html":[6,0,4136],
+"de/dcf/classTransportBase.html#a328fbc464c56eca89138380182a0108c":[6,0,4136,5],
+"de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70":[6,0,4136,0],
+"de/dcf/classTransportBase.html#a7cb7586a6935ca4e08aa3e658982abec":[6,0,4136,4],
+"de/dcf/classTransportBase.html#a81dca3435a1a1666a90acd8e154e3287":[6,0,4136,1],
+"de/dcf/classTransportBase.html#aa4d00f15dc0e6c53b4a175b0ca53021b":[6,0,4136,3],
+"de/dcf/classTransportBase.html#ae8c9eb64027f8e7c781f0af192e3f6c1":[6,0,4136,2],
 "de/dd0/classboss__lord__valthalak.html":[6,0,595],
 "de/dd0/classboss__lord__valthalak.html#a180ecb2e2b11ee79c80de18124de3dbc":[6,0,595,1],
 "de/dd0/classboss__lord__valthalak.html#a771bd8ff3918d71007b5e4b05baf3df3":[6,0,595,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX370 =
 "de/dde/structClassCallSelector.html#a5347a24609a21ae0a342682104b1dc14":[6,0,875,2],
 "de/dde/structClassCallSelector.html#a7ce861956ec8d216d2f8cba82c69ea50":[6,0,875,3],
 "de/dde/structClassCallSelector.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e":[6,0,875,1],
-"de/ddf/classgo__flames.html":[6,0,1139],
-"de/ddf/classgo__flames.html#a75d49202eaf2078b8276e59944d1ec89":[6,0,1139,1],
-"de/ddf/classgo__flames.html#aea11412e7d17b744b4e70ec754a1e6cc":[6,0,1139,2],
-"de/de0/classspell__gen__steal__weapon.html":[6,0,2992],
-"de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[6,0,2992,4]
+"de/ddf/classgo__flames.html":[6,0,1139]
 };

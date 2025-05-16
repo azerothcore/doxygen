@@ -4255,6 +4255,7 @@ var annotated_dup =
     [ "spell_slippery_floor_periodic", "da/da9/classspell__slippery__floor__periodic.html", "da/da9/classspell__slippery__floor__periodic" ],
     [ "spell_spawn_blood_pool", "d7/d0e/classspell__spawn__blood__pool.html", "d7/d0e/classspell__spawn__blood__pool" ],
     [ "spell_spawn_drakonid", "db/d6a/classspell__spawn__drakonid.html", "db/d6a/classspell__spawn__drakonid" ],
+    [ "spell_spell_fury_aura", "da/d2f/classspell__spell__fury__aura.html", "da/d2f/classspell__spell__fury__aura" ],
     [ "spell_spore_cloud", "dc/d5f/classspell__spore__cloud.html", "dc/d5f/classspell__spore__cloud" ],
     [ "spell_stinky_precious_decimate", "df/dee/classspell__stinky__precious__decimate.html", "df/dee/classspell__stinky__precious__decimate" ],
     [ "spell_summon_all_players_dummy", "da/db8/classspell__summon__all__players__dummy.html", "da/db8/classspell__summon__all__players__dummy" ],

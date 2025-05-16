@@ -1,5 +1,9 @@
 var NAVTREEINDEX287 =
 {
+"db/dbf/Object_8h.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a":[7,0,0,0,1,2,16,5,2,12,2],
+"db/dbf/Object_8h.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58":[7,0,0,0,1,2,16,5,2,12,1],
+"db/dbf/Object_8h.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1":[7,0,0,0,1,2,16,5,2,12,0],
+"db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148":[7,0,0,0,1,2,16,5,2,15],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7":[7,0,0,0,1,2,16,5,2,15,9],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493":[7,0,0,0,1,2,16,5,2,15,6],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a":[7,0,0,0,1,2,16,5,2,15,7],
@@ -53,10 +57,10 @@ var NAVTREEINDEX287 =
 "db/dc4/classspell__gen__on__tournament__mount.html#a46782a9dfb8ee2100be00afb6aa8b9a7":[6,0,2959,5],
 "db/dc4/classspell__gen__on__tournament__mount.html#adf6fd3d2a36e1ff115b5c5109d37b7a4":[6,0,2959,2],
 "db/dc4/classspell__gen__on__tournament__mount.html#afc83ecf02a1702d48fb39d60419bdbf1":[6,0,2959,3],
-"db/dc4/classspell__svala__ritual__strike.html":[6,0,3802],
-"db/dc4/classspell__svala__ritual__strike.html#a07376c95cb2ec41d86a24be59094d207":[6,0,3802,1],
-"db/dc4/classspell__svala__ritual__strike.html#a25bc99811aa2c7bf4bfbf8ad628a2771":[6,0,3802,0],
-"db/dc4/classspell__svala__ritual__strike.html#aaa02dab30b29e6f646db52468fc35eb2":[6,0,3802,2],
+"db/dc4/classspell__svala__ritual__strike.html":[6,0,3803],
+"db/dc4/classspell__svala__ritual__strike.html#a07376c95cb2ec41d86a24be59094d207":[6,0,3803,1],
+"db/dc4/classspell__svala__ritual__strike.html#a25bc99811aa2c7bf4bfbf8ad628a2771":[6,0,3803,0],
+"db/dc4/classspell__svala__ritual__strike.html#aaa02dab30b29e6f646db52468fc35eb2":[6,0,3803,2],
 "db/dc4/instance__shadowfang__keep_8cpp.html":[7,0,0,0,1,3,2,9,1],
 "db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66":[7,0,0,0,1,3,2,9,1,4],
 "db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb":[7,0,0,0,1,3,2,9,1,4,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX287 =
 "db/dce/classAura.html#a323b5e9af786e15e7e1bdac6a47ea359":[6,0,277,45],
 "db/dce/classAura.html#a32cda9926aa3e5d7def42ebf85f23bc8":[6,0,277,111],
 "db/dce/classAura.html#a34626ddba98ab48275cfa6be44ed8390":[6,0,277,64],
-"db/dce/classAura.html#a357ceeec6595c847d01b5ed4713ffd2f":[6,0,277,112],
-"db/dce/classAura.html#a3666518caf5cf301c27857b2e909cf16":[6,0,277,25],
-"db/dce/classAura.html#a37a192c8e0119a8bc304c1711b15376e":[6,0,277,38],
-"db/dce/classAura.html#a38c31b87dea32024c55f15d37faa93da":[6,0,277,32],
-"db/dce/classAura.html#a39432e85258e75a84161c672a68d8f5f":[6,0,277,7]
+"db/dce/classAura.html#a357ceeec6595c847d01b5ed4713ffd2f":[6,0,277,112]
 };

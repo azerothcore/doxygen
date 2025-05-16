@@ -1,5 +1,9 @@
 var NAVTREEINDEX398 =
 {
+"df/dec/classspell__algalon__supermassive__fail.html#aac131aa2d2e5342cf0303b918a077b45":[6,0,2584,2],
+"df/dec/classspell__algalon__supermassive__fail.html#af280f3880e2e567188ba8ca3e45c00c0":[6,0,2584,0],
+"df/ded/classnpc__tortured__rifleman.html":[6,0,2193],
+"df/ded/classnpc__tortured__rifleman.html#a32e4164864c3873b3684ad531a2e924a":[6,0,2193,1],
 "df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2193,2],
 "df/ded/classnpc__venomhide__hatchling.html":[6,0,2252],
 "df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2252,3],
@@ -45,10 +49,10 @@ var NAVTREEINDEX398 =
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,357,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,357,1],
 "df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,357,0],
-"df/dee/classspell__stinky__precious__decimate.html":[6,0,3792],
-"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3792,0],
-"df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3792,1],
-"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3792,2],
+"df/dee/classspell__stinky__precious__decimate.html":[6,0,3793],
+"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3793,0],
+"df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3793,1],
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3793,2],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html":[6,0,1843,0],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a06550732cba84da4cbd708d03a7bd6bb":[6,0,1843,0,10],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a127cc66ea4804da51eb9069037b9ba33":[6,0,1843,0,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX398 =
 "df/df6/MMapFactory_8cpp.html#a7ca17c8e81612c16a92e901cac65113e":[7,0,0,0,0,1,0,2,0],
 "df/df6/classspell__putricide__mutated__transformation.html":[6,0,3545],
 "df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[6,0,3545,2],
-"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[6,0,3545,1],
-"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[6,0,3545,3],
-"df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3545,0],
-"df/df6/structHealthCheckEventData.html":[6,0,1253],
-"df/df6/structHealthCheckEventData.html#a06d4eb08cc3e6bd20ddcab20e59ed525":[6,0,1253,0]
+"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[6,0,3545,1]
 };

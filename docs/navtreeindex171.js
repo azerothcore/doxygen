@@ -1,9 +1,9 @@
 var NAVTREEINDEX171 =
 {
-"d6/d58/classspell__vazruden__fireball.html":[6,0,3899],
-"d6/d58/classspell__vazruden__fireball.html#a0d1ff479da3b8f50ed698da9f9029589":[6,0,3899,1],
-"d6/d58/classspell__vazruden__fireball.html#adf350bccc5862252f6928faa4ae3a001":[6,0,3899,0],
-"d6/d58/classspell__vazruden__fireball.html#afaf23967ede6e120caa7758ff2d3c974":[6,0,3899,2],
+"d6/d58/classspell__vazruden__fireball.html":[6,0,3900],
+"d6/d58/classspell__vazruden__fireball.html#a0d1ff479da3b8f50ed698da9f9029589":[6,0,3900,1],
+"d6/d58/classspell__vazruden__fireball.html#adf350bccc5862252f6928faa4ae3a001":[6,0,3900,0],
+"d6/d58/classspell__vazruden__fireball.html#afaf23967ede6e120caa7758ff2d3c974":[6,0,3900,2],
 "d6/d59/classAutobroadcastMgr.html":[6,0,294],
 "d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d":[6,0,294,9],
 "d6/d59/classAutobroadcastMgr.html#a105fa2c33da0662785551027430d40c6":[6,0,294,4],
@@ -48,8 +48,8 @@ var NAVTREEINDEX171 =
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[6,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,1,19,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
-"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
+"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,31],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,19],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,31,0],
@@ -247,7 +247,7 @@ var NAVTREEINDEX171 =
 "d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[6,0,1073,15],
 "d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5":[6,0,1073,5],
 "d6/d66/classGameObjectAI.html#afc78344df8960b50913bc434fd01351f":[6,0,1073,2],
-"d6/d66/classspell__vehicle__warhead__fuse.html":[6,0,3903],
-"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[6,0,3903,2],
-"d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[6,0,3903,3]
+"d6/d66/classspell__vehicle__warhead__fuse.html":[6,0,3904],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[6,0,3904,2],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[6,0,3904,3]
 };

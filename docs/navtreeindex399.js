@@ -1,5 +1,9 @@
 var NAVTREEINDEX399 =
 {
+"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[6,0,3545,3],
+"df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3545,0],
+"df/df6/structHealthCheckEventData.html":[6,0,1253],
+"df/df6/structHealthCheckEventData.html#a06d4eb08cc3e6bd20ddcab20e59ed525":[6,0,1253,0],
 "df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1253,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1253,2],
 "df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1253,1],
@@ -46,10 +50,10 @@ var NAVTREEINDEX399 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,688,0,4],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,688,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,688,0,7],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3840],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3840,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3840,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3840,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3841],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3841,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3841,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3841,0],
 "df/dfe/classnpc__high__inquisitor__valroth.html":[6,0,1829],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[6,0,1829,2],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[6,0,1829,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX399 =
 "dir_c6a050c7db8efacb27792da37f17de7b.html":[7,0,0,0,1,2,16,9],
 "dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[7,0,0,0,1,2,22],
 "dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[7,0,0,0,1,3,5,10,1],
-"dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0],
-"dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
-"dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0]
+"dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0]
 };

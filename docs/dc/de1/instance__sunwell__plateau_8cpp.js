@@ -6,6 +6,7 @@ var instance__sunwell__plateau_8cpp =
     [ "npc_sunblade_scout", "d6/d6b/structnpc__sunblade__scout.html", "d6/d6b/structnpc__sunblade__scout" ],
     [ "spell_sunwell_teleport", "d4/d6e/classspell__sunwell__teleport.html", "d4/d6e/classspell__sunwell__teleport" ],
     [ "npc_sunblade_arch_mage", "d8/df4/structnpc__sunblade__arch__mage.html", "d8/df4/structnpc__sunblade__arch__mage" ],
+    [ "spell_spell_fury_aura", "da/d2f/classspell__spell__fury__aura.html", "da/d2f/classspell__spell__fury__aura" ],
     [ "cataclysmBreath", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX355 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1295a3ab74d597709dccdf1265e59d8a":[7,0,0,0,1,2,41,9,55,52],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a12ae63600ccfe4296e546ef44d3ef3e9":[7,0,0,0,1,2,41,9,55,23],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a133ef040c5e5af695f03137d2aeba054":[7,0,0,0,1,2,41,9,55,10],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a13899f0b883bdae8051450ea98f98f55":[7,0,0,0,1,2,41,9,55,29],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a14ee51627f5c63cbd8d13141aae1c942":[7,0,0,0,1,2,41,9,55,5],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a15a0722a5c6a89022fcaf697df0f927c":[7,0,0,0,1,2,41,9,55,49],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1725d88f09298fec66cbe49832d4587e":[7,0,0,0,1,2,41,9,55,24],
@@ -174,9 +178,9 @@ var NAVTREEINDEX355 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[6,0,818,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[6,0,818,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,818,10],
-"de/d34/structSpellDurationEntry.html":[6,0,4028],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4028,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4028,0],
+"de/d34/structSpellDurationEntry.html":[6,0,4029],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4029,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4029,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[6,0,711,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[6,0,711,0,2],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,711,0,0],
@@ -227,10 +231,10 @@ var NAVTREEINDEX355 =
 "de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[6,0,835,5],
 "de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,835,3],
 "de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,835,0],
-"de/d3a/classspell__warlords__rage.html":[6,0,3950],
-"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,3950,0],
-"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,3950,2],
-"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,3950,1],
+"de/d3a/classspell__warlords__rage.html":[6,0,3951],
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,3951,0],
+"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,3951,2],
+"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,3951,1],
 "de/d3b/MapBuilder_8h.html":[7,0,0,0,3,2,3],
 "de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[7,0,0,0,3,2,3,6],
 "de/d3b/classMotionMaster.html":[6,0,1514],
@@ -245,9 +249,5 @@ var NAVTREEINDEX355 =
 "de/d3b/classMotionMaster.html#a18d407b55cfb990e2bb51f4efb63c6bd":[6,0,1514,55],
 "de/d3b/classMotionMaster.html#a268d9c27d95519cf698f451bf6d9c2bf":[6,0,1514,11],
 "de/d3b/classMotionMaster.html#a27936a997b09d916396ebb3930b61b21":[6,0,1514,34],
-"de/d3b/classMotionMaster.html#a2b43b0a132dfcf6e391cc23a71634ba6":[6,0,1514,9],
-"de/d3b/classMotionMaster.html#a2c05900f121b3da721e5edcd84e4102f":[6,0,1514,25],
-"de/d3b/classMotionMaster.html#a2fe0d12d6d09b55fdecc59012b979ebe":[6,0,1514,68],
-"de/d3b/classMotionMaster.html#a3653f35f87e68975efc1a5ad340507f5":[6,0,1514,19],
-"de/d3b/classMotionMaster.html#a365cdbf1389a8ceb8ff25e52cfdc03af":[6,0,1514,63]
+"de/d3b/classMotionMaster.html#a2b43b0a132dfcf6e391cc23a71634ba6":[6,0,1514,9]
 };

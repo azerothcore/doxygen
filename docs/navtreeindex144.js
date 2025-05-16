@@ -110,8 +110,8 @@ var NAVTREEINDEX144 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1099,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,100],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
@@ -246,8 +246,8 @@ var NAVTREEINDEX144 =
 "d5/d44/structnpc__ouro__spawner.html#a83c0972db4435ccf1af069574e4056f4":[6,0,1992,2],
 "d5/d44/structnpc__ouro__spawner.html#ac1591f1c172bfdda25b020e00cd0835e":[6,0,1992,3],
 "d5/d44/structnpc__ouro__spawner.html#acb18739e5a1734312ffdda35321e5f34":[6,0,1992,0],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,3942],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[6,0,3942,0],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#a51d7035477ba4e3994ef3161edc4cc69":[6,0,3942,1],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[6,0,3942,2]
+"d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,3943],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[6,0,3943,0],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#a51d7035477ba4e3994ef3161edc4cc69":[6,0,3943,1],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[6,0,3943,2]
 };

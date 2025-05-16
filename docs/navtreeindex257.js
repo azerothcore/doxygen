@@ -1,5 +1,9 @@
 var NAVTREEINDEX257 =
 {
+"da/d7e/classspell__gnomeregan__radiation__bolt.html":[6,0,3015],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[6,0,3015,1],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a5f30f2af73eae022b9596939b2f88c0b":[6,0,3015,0],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a7e9c140aecea892ee6971bc97d385640":[6,0,3015,2],
 "da/d7e/classspell__pri__penance.html":[6,0,3525],
 "da/d7e/classspell__pri__penance.html#a0c73457e44a3d64bdccee78d28893672":[6,0,3525,2],
 "da/d7e/classspell__pri__penance.html#a4826d7b257ee05bfe0d6db3d30a924e9":[6,0,3525,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX257 =
 "da/d85/structboss__morogrim__tidewalker.html#a2db94919e6d6f3d4eda4addc4248976e":[6,0,625,4],
 "da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[6,0,625,2],
 "da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,625,6],
-"da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,625,5],
-"da/d86/classspell__toc5__light__rain.html":[6,0,3870],
-"da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[6,0,3870,2],
-"da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3":[6,0,3870,0],
-"da/d86/classspell__toc5__light__rain.html#a697a52cbc50eafd2b0377621afb01557":[6,0,3870,1]
+"da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,625,5]
 };

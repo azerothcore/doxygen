@@ -1,5 +1,9 @@
 var NAVTREEINDEX386 =
 {
+"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4055,29],
+"df/d92/classnpc__frostwing__vrykul.html":[6,0,1790],
+"df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[6,0,1790,2],
+"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1790,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html":[6,0,1867,0],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[6,0,1867,0,5],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1867,0,2],
@@ -18,8 +22,8 @@ var NAVTREEINDEX386 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2191,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2191,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,949,1],
-"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,949,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,949,1,11],
+"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,949,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,949,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,949,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,949,1,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX386 =
 "df/d9d/classMessageBuffer.html#a1b6f18821fdf7688de020adfef80760b":[6,0,1492,15],
 "df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b":[6,0,1492,18],
 "df/d9d/classMessageBuffer.html#a3cfe272533d018af34b8e83cf7a05138":[6,0,1492,10],
-"df/d9d/classMessageBuffer.html#a3eff504d5c954e7d5fcaa386bdbf2bb9":[6,0,1492,23],
-"df/d9d/classMessageBuffer.html#a466f6fde17f5a239307cec5ec1fffb6d":[6,0,1492,4],
-"df/d9d/classMessageBuffer.html#a4e1d57cb13b6e270e336a36e21959c94":[6,0,1492,16],
-"df/d9d/classMessageBuffer.html#a5287bc1c7f82e3abcf3ee0d8daf8798b":[6,0,1492,20],
-"df/d9d/classMessageBuffer.html#a5e5827a47181f545590df32ec86100b8":[6,0,1492,2]
+"df/d9d/classMessageBuffer.html#a3eff504d5c954e7d5fcaa386bdbf2bb9":[6,0,1492,23]
 };

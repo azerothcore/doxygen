@@ -527,6 +527,7 @@ var hierarchy =
         [ "spell_sindragosa_permeating_chill_aura", "d4/d70/classspell__sindragosa__permeating__chill__aura.html", null ],
         [ "spell_sindragosa_soul_preservation_aura", "d8/df2/classspell__sindragosa__soul__preservation__aura.html", null ],
         [ "spell_sladran_grip_of_sladran_aura", "d7/d0c/classspell__sladran__grip__of__sladran__aura.html", null ],
+        [ "spell_spell_fury_aura", "da/d2f/classspell__spell__fury__aura.html", null ],
         [ "spell_spore_cloud", "dc/d5f/classspell__spore__cloud.html", null ],
         [ "spell_summon_ice_spear_delayer", "d9/d5b/classspell__summon__ice__spear__delayer.html", null ],
         [ "spell_summoning_rhyme_aura", "d6/df0/classspell__summoning__rhyme__aura.html", null ],

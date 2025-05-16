@@ -1,5 +1,9 @@
 var NAVTREEINDEX313 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8c45aaff0bee880d1bac07d32d1747f1":[7,0,0,0,1,3,2,17,4],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8cf2165dba1d5e845d5e20fbc1ce33d6":[7,0,0,0,1,3,2,17,103],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[7,0,0,0,1,3,2,17,52],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a934b2523d92c5bd9efd2add4089877cb":[7,0,0,0,1,3,2,17,76],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a942a9ad3e1b872492dfc7d62615df103":[7,0,0,0,1,3,2,17,112],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a950a19cf6fbad1b9beea2d3b2cfe8a7f":[7,0,0,0,1,3,2,17,74],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[7,0,0,0,1,3,2,17,140],
@@ -245,9 +249,5 @@ var NAVTREEINDEX313 =
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8f4df5b3207fedb818a208651ce87de9":[7,0,0,0,1,3,3,1,32,4],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a95f5bd27925c7cac826ae1065091f3f3":[7,0,0,0,1,3,3,1,32,8],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ab009f6e52ebbe43a5f354ac86cba2540":[7,0,0,0,1,3,3,1,32,1],
-"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ae5f91b4756b7b36ad49c0ea4a70a29cc":[7,0,0,0,1,3,3,1,32,9],
-"dc/ddf/structinstance__the__botanica_1_1instance__the__botanica__InstanceMapScript.html":[6,0,1335,0],
-"dc/ddf/structinstance__the__botanica_1_1instance__the__botanica__InstanceMapScript.html#a86c5e55fe8f7e40d041abbcdb2d23797":[6,0,1335,0,0],
-"dc/de1/SkillDiscovery_8h.html":[7,0,0,0,1,2,40,1],
-"dc/de1/SkillDiscovery_8h.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[7,0,0,0,1,2,40,1,0]
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ae5f91b4756b7b36ad49c0ea4a70a29cc":[7,0,0,0,1,3,3,1,32,9]
 };
