@@ -62,6 +62,7 @@ var classCreature =
     [ "GetHomePosition", "db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b", null ],
     [ "GetLastLeashExtensionTime", "db/dd5/classCreature.html#add280de31c13efc3496f18d83468b3ff", null ],
     [ "GetLastLeashExtensionTimePtr", "db/dd5/classCreature.html#aa4ab3aec6cfebf9c742d6d6d14464b70", null ],
+    [ "GetLeashTimer", "db/dd5/classCreature.html#aef3a06b9e6b6a626262247079afe8f54", null ],
     [ "getLevelForTarget", "db/dd5/classCreature.html#afb49a62b1afbd2af7e648de979aa34ce", null ],
     [ "GetLootMode", "db/dd5/classCreature.html#a31e933737562cf862b2e0cd92af252a1", null ],
     [ "GetLootRecipient", "db/dd5/classCreature.html#a8e15449c79eb42d558351e07291ae719", null ],

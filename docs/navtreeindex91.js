@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a4de89cf4a18918d577be4ac5cc55ba5a":[6,0,1753,0,0],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a64abe15565c7e97a3a0ef195d436fedc":[6,0,1753,0,7],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc":[6,0,1753,0,6],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#ac46b0f66be3074f73f5a69cffee6d354":[6,0,1753,0,1],
@@ -8,11 +9,11 @@ var NAVTREEINDEX91 =
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html":[6,0,1913],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a77e98bc345f7d27f145d4b29c4deb58e":[6,0,1913,1],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a94fdd0778818fcc6a8b818d38dde6f75":[6,0,1913,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3650],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3650,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3650,0],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[6,0,3650,3],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3650,1],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3651],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3651,2],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3651,0],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[6,0,3651,3],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3651,1],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[6,0,1815,0],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[6,0,1815,0,2],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[6,0,1815,0,10],
@@ -214,9 +215,9 @@ var NAVTREEINDEX91 =
 "d3/d0a/classnpc__augustus__the__touched.html#a81e0d4f2aaa685cd5231ea430c86e7b4":[6,0,1610,1],
 "d3/d0a/classnpc__augustus__the__touched.html#a992da9b22693c1fac1148b4ba545b819":[6,0,1610,2],
 "d3/d0a/classnpc__augustus__the__touched.html#abc84c884345f44cf780410569cdee10c":[6,0,1610,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,3009],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,3009,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,3009,1],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,3010],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,3010,0],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,3010,1],
 "d3/d0a/structboss__ossirian.html":[6,0,645],
 "d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[6,0,645,9],
 "d3/d0a/structboss__ossirian.html#a16aa4ac59c1c8f6f844c311745b6e969":[6,0,645,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0b/namespaceAcore.html#a1990519ae97867f1a629699d00874fb2":[5,0,1,146],
 "d3/d0b/namespaceAcore.html#a19feef3708a949a3dcdf70f3fe86ff0e":[5,0,1,163],
 "d3/d0b/namespaceAcore.html#a257b055b35d21943eb2a144cccd26429":[5,0,1,140],
-"d3/d0b/namespaceAcore.html#a2858d11acb15c35a59d35c9bb163d7c6":[5,0,1,200],
-"d3/d0b/namespaceAcore.html#a2cb738cb02deb5f4d7d30a7d860a45ff":[5,0,1,175]
+"d3/d0b/namespaceAcore.html#a2858d11acb15c35a59d35c9bb163d7c6":[5,0,1,200]
 };

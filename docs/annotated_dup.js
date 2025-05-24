@@ -3168,6 +3168,7 @@ var annotated_dup =
     [ "spell_contagion_of_rot", "da/daf/classspell__contagion__of__rot.html", "da/daf/classspell__contagion__of__rot" ],
     [ "spell_control_piece", "dc/d54/classspell__control__piece.html", "dc/d54/classspell__control__piece" ],
     [ "spell_corrupted_totems", "d4/dca/classspell__corrupted__totems.html", "d4/dca/classspell__corrupted__totems" ],
+    [ "spell_crashing_wave", "d5/db4/classspell__crashing__wave.html", "d5/db4/classspell__crashing__wave" ],
     [ "spell_crystal_weakness", "d4/d33/classspell__crystal__weakness.html", "d4/d33/classspell__crystal__weakness" ],
     [ "spell_cthun_dark_glare", "d7/d24/classspell__cthun__dark__glare.html", "d7/d24/classspell__cthun__dark__glare" ],
     [ "spell_cthun_digestive_acid", "d6/de6/classspell__cthun__digestive__acid.html", "d6/de6/classspell__cthun__digestive__acid" ],

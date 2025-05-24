@@ -1,5 +1,9 @@
 var NAVTREEINDEX332 =
 {
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364":[7,0,0,0,1,3,4,6,1,4,14],
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52":[7,0,0,0,1,3,4,6,1,4,21],
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4":[7,0,0,0,1,3,4,6,1,4,17],
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963":[7,0,0,0,1,3,4,6,1,4,18],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e":[7,0,0,0,1,3,4,6,1,4,20],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635":[7,0,0,0,1,3,4,6,1,4,2],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405":[7,0,0,0,1,3,4,6,1,4,16],
@@ -10,12 +14,12 @@ var NAVTREEINDEX332 =
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,4,6,1,4,19],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc":[7,0,0,0,1,3,4,6,1,4,5],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a":[7,0,0,0,1,3,4,6,1,4,7],
-"dd/dc8/classspell__warl__demonic__knowledge.html":[6,0,3923],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[6,0,3923,4],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a42770d7f7e5bd41cd3f0a283c544c642":[6,0,3923,0],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[6,0,3923,2],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,3923,1],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,3923,3],
+"dd/dc8/classspell__warl__demonic__knowledge.html":[6,0,3924],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[6,0,3924,4],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a42770d7f7e5bd41cd3f0a283c544c642":[6,0,3924,0],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[6,0,3924,2],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,3924,1],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,3924,3],
 "dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
 "dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
 "dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX332 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a818744700dd0245069d741a8e71d6a66":[7,0,0,0,1,2,38,0,75,1,103],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a8248fbbd94d0a0031f5ed3647422284c":[7,0,0,0,1,2,38,0,75,1,101],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a88081b906ca62d86b36f51fadc04b583":[7,0,0,0,1,2,38,0,75,1,159],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a884042914564b750b19935073dc0d9cb":[7,0,0,0,1,2,38,0,75,1,37],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a8b1d8b9e6a52cf26ad8ff21389f3ca3d":[7,0,0,0,1,2,38,0,75,1,180],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a90cb132158e02748cd0c1b97a349bf96":[7,0,0,0,1,2,38,0,75,1,133],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a91be4dd1534b50c0d121c2872fa98af3":[7,0,0,0,1,2,38,0,75,1,139],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a91ddcd2bb22bb88e2b9140a9beb2d36e":[7,0,0,0,1,2,38,0,75,1,148]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a884042914564b750b19935073dc0d9cb":[7,0,0,0,1,2,38,0,75,1,37]
 };

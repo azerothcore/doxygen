@@ -699,6 +699,7 @@ var hierarchy =
         [ "spell_class_call_polymorph", "d2/d87/classspell__class__call__polymorph.html", null ],
         [ "spell_commander_sarannis_summon_reinforcements", "d4/d1c/classspell__commander__sarannis__summon__reinforcements.html", null ],
         [ "spell_corrupted_totems", "d4/dca/classspell__corrupted__totems.html", null ],
+        [ "spell_crashing_wave", "d5/db4/classspell__crashing__wave.html", null ],
         [ "spell_crystal_weakness", "d4/d33/classspell__crystal__weakness.html", null ],
         [ "spell_cthun_dark_glare", "d7/d24/classspell__cthun__dark__glare.html", null ],
         [ "spell_death_knight_initiate_visual", "d8/d95/classspell__death__knight__initiate__visual.html", null ],

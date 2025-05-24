@@ -1,5 +1,8 @@
 var NAVTREEINDEX256 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a794f94800739651445e92853de375524":[7,0,0,0,1,3,5,6,10,83,6],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7da93a4e2fbb6f3762ca146eb33cdeea":[7,0,0,0,1,3,5,6,10,83,9],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8139f09a125bcff861939fd6fb4d054f":[7,0,0,0,1,3,5,6,10,83,0],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a83d8ff631b83cf7438514e61d8a9c5a6":[7,0,0,0,1,3,5,6,10,83,2],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9d8c8977e3c03e8ca2edc816e4261268":[7,0,0,0,1,3,5,6,10,83,27],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e4ece37bc636b2ce41d7ba262e9643c":[7,0,0,0,1,3,5,6,10,83,19],
@@ -98,14 +101,14 @@ var NAVTREEINDEX256 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae473b3ffeef20cbb9d61a70f66598c9f":[7,0,0,0,1,3,5,6,10,78,19],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff6d1325e3e2cd0077e376988d8cd859":[7,0,0,0,1,3,5,6,10,78,70],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff7ee4bd2a3d0493e491afac2e180aec":[7,0,0,0,1,3,5,6,10,78,30],
-"da/d79/classspell__threatening__gaze__charge.html":[6,0,3868],
-"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[6,0,3868,0],
-"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[6,0,3868,2],
-"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3868,1],
+"da/d79/classspell__threatening__gaze__charge.html":[6,0,3869],
+"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[6,0,3869,0],
+"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[6,0,3869,2],
+"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3869,1],
 "da/d7b/MapMgr_8h.html":[7,0,0,0,1,2,26,8],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,8,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,26,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX256 =
 "da/d7e/classMapGrid.html#aadcf9383aa82236c588fa5be708d76c4":[6,0,1478,19],
 "da/d7e/classMapGrid.html#aae929781b8123fa87446706ef5f7c72f":[6,0,1478,8],
 "da/d7e/classMapGrid.html#ad8c7856335c6380e137b7e73a9c04ba8":[6,0,1478,13],
-"da/d7e/classMapGrid.html#ada043de13411124375a22bfa113b38ae":[6,0,1478,18],
-"da/d7e/classMapGrid.html#adcb77d6cf91b9337ff077af309e1944e":[6,0,1478,20],
-"da/d7e/classMapGrid.html#ae202b546e959d360e7ab552307b9a094":[6,0,1478,9],
-"da/d7e/classMapGrid.html#aeb963bbfbe4044863bde6793b0405e5a":[6,0,1478,6]
+"da/d7e/classMapGrid.html#ada043de13411124375a22bfa113b38ae":[6,0,1478,18]
 };

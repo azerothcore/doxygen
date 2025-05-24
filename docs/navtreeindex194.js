@@ -1,5 +1,8 @@
 var NAVTREEINDEX194 =
 {
+"d7/d95/classPoolMgr.html#a386ce51b39f64942ccda8a3599cead5d":[6,0,2418,13],
+"d7/d95/classPoolMgr.html#a3bd87a76e3167d829c8e4eb06a499b9c":[6,0,2418,14],
+"d7/d95/classPoolMgr.html#a3ddc8dd692447fe23a7c8a0a4f552a71":[6,0,2418,23],
 "d7/d95/classPoolMgr.html#a4086f3b6424d7b68be68cb330b1bca76":[6,0,2418,0],
 "d7/d95/classPoolMgr.html#a473736f3ce675869c426352a3878fff4":[6,0,2418,10],
 "d7/d95/classPoolMgr.html#a489f044a4c6b68ee48657d9d17b13719":[6,0,2418,4],
@@ -73,13 +76,13 @@ var NAVTREEINDEX194 =
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html":[6,0,2208],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#a3884f50f894770ff94ad6977f62c45f3":[6,0,2208,2],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#ac59aa042fd188eaf1eb6a04eb7d545a9":[6,0,2208,1],
-"d7/d99/classspell__dru__savage__defense.html":[6,0,2812],
-"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2812,3],
-"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2812,2],
-"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2812,5],
-"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2812,4],
-"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2812,0],
-"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2812,1],
+"d7/d99/classspell__dru__savage__defense.html":[6,0,2813],
+"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2813,3],
+"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2813,2],
+"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2813,5],
+"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2813,4],
+"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2813,0],
+"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2813,1],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html":[7,0,0,0,3,4,10],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#a8d76af4bfff910da40b4f93a1c465744":[7,0,0,0,3,4,10,2],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,4,10,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX194 =
 "d7/d9e/structWMO_1_1MODS.html":[5,0,29,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[6,0,10,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,29,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[6,0,10,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,29,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,29,1,0],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[6,0,10,1,0]
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[6,0,10,1,1]
 };

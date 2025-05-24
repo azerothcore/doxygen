@@ -29,6 +29,7 @@ var zone__icecrown_8cpp =
     [ "npc_blessed_banner::npc_blessed_bannerAI", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI" ],
     [ "npc_frostbrood_skytalon", "d8/d21/classnpc__frostbrood__skytalon.html", "d8/d21/classnpc__frostbrood__skytalon" ],
     [ "npc_frostbrood_skytalon::npc_frostbrood_skytalonAI", "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html", "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI" ],
+    [ "spell_crashing_wave", "d5/db4/classspell__crashing__wave.html", "d5/db4/classspell__crashing__wave" ],
     [ "BlessedBanner", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832", [
       [ "SPELL_BLESSING_OF_THE_CRUSADE", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1ebc63cb3206d070bf31d20eaa47b071", null ],
       [ "SPELL_THREAT_PULSE", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a46c467599f797bb6282c4d94bc07aa73", null ],
@@ -207,6 +208,9 @@ var zone__icecrown_8cpp =
       [ "NPC_CARNAGE", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1eae6a197afccce1e96b511d3a672ced3d1", null ],
       [ "NPC_THANE", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea9dce1184624140e5d28098f907312fe7", null ],
       [ "NPC_PRINCE", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea47ce9884fad4760305f17f65a75f3520", null ]
+    ] ],
+    [ "WaterTerror", "d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081", [
+      [ "SPELL_WATER_TERROR_FROST_NOVA", "d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911", null ]
     ] ],
     [ "AddSC_icecrown", "d6/d81/zone__icecrown_8cpp.html#a147460f9b9b578257acd1ced1ab12cd9", null ],
     [ "DalforsPos", "d6/d81/zone__icecrown_8cpp.html#af42a2987092516b5b9065dc72477075d", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d2f/struct__Socket.html#a5437849d9b7f229c4466e174d619d057":[6,0,14,1],
 "d3/d2f/struct__Socket.html#ad6232c851b72ce04d2dcfa00596fc1df":[6,0,14,0],
 "d3/d30/classnpc__finklestein.html":[6,0,1772],
 "d3/d30/classnpc__finklestein.html#a1f0d91d2a50aca9d0496b6bd03986c8e":[6,0,1772,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/structboss__azgalor.html#ac794e0eacc2d543fa62e4b521089f080":[6,0,387,0],
 "d3/d34/structboss__yauj.html":[6,0,782],
 "d3/d34/structboss__yauj.html#a15ab7b6b35d29fb1552b11586163320e":[6,0,782,0],
-"d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[6,0,782,1],
-"d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html":[6,0,2256,0]
+"d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[6,0,782,1]
 };

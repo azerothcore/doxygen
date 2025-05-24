@@ -1,5 +1,9 @@
 var NAVTREEINDEX310 =
 {
+"dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2":[7,0,0,0,1,2,41,11,66],
+"dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29":[7,0,0,0,1,2,41,11,42],
+"dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395":[7,0,0,0,1,2,41,11,46],
+"dc/db2/SpellScript_8h.html#a74c28613619bc48006209c76f168f833":[7,0,0,0,1,2,41,11,54],
 "dc/db2/SpellScript_8h.html#a9bb1763d44f533712264a39e14b1b11a":[7,0,0,0,1,2,41,11,53],
 "dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654":[7,0,0,0,1,2,41,11,61],
 "dc/db2/SpellScript_8h.html#aa25d575ee7dc16898562e3906eb3ca1b":[7,0,0,0,1,2,41,11,63],
@@ -142,10 +146,10 @@ var NAVTREEINDEX310 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2207],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2207,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2207,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3555],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3555,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3555,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3555,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3556],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3556,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3556,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3556,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,930],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,930,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX310 =
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f05c94c6cfda24c63f116f4e6fca6c":[7,0,0,0,1,3,2,16,7,14,10],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,16,7,14,5],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cabd8110f8d36f579f159e45afc797b229":[7,0,0,0,1,3,2,16,7,14,6],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[7,0,0,0,1,3,2,16,7,14,7],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,2,16,7,14,3],
-"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caf04a0d2d38c099e14707be551b34799f":[7,0,0,0,1,3,2,16,7,14,8],
-"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55a":[7,0,0,0,1,3,2,16,7,12],
-"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,16,7,12,1]
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[7,0,0,0,1,3,2,16,7,14,7]
 };
