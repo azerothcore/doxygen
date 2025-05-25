@@ -1,5 +1,9 @@
 var NAVTREEINDEX104 =
 {
+"d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#ab2c55e384f624b0f671e42e381aa3a37":[6,0,1762,0,4],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html":[6,0,1579,0],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a2c459e96b3599cda8560582a4fb4253a":[6,0,1579,0,11],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a4e516705efff20a62124514ba14c8161":[6,0,1579,0,6],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a5294c9cd61713bc209a1b65f3b0a252e":[6,0,1579,0,13],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a60af9e06e872adfab6e7dbac73dfbece":[6,0,1579,0,9],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a7772c5b4f80b75ffe7b0641321029059":[6,0,1579,0,7],
@@ -221,14 +225,14 @@ var NAVTREEINDEX104 =
 "d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[6,0,2369,13],
 "d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[6,0,2369,45],
 "d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[6,0,2369,8],
-"d3/d96/classspell__rotface__mutated__infection.html":[6,0,3707],
-"d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[6,0,3707,3],
-"d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[6,0,3707,6],
-"d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[6,0,3707,5],
-"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[6,0,3707,2],
-"d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[6,0,3707,4],
-"d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[6,0,3707,0],
-"d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[6,0,3707,1],
+"d3/d96/classspell__rotface__mutated__infection.html":[6,0,3709],
+"d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[6,0,3709,3],
+"d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[6,0,3709,6],
+"d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[6,0,3709,5],
+"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[6,0,3709,2],
+"d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[6,0,3709,4],
+"d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[6,0,3709,0],
+"d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[6,0,3709,1],
 "d3/d96/structnpc__eye__tentacle.html":[6,0,1768],
 "d3/d96/structnpc__eye__tentacle.html#a106deeb95d74597377d32e81695dc3c9":[6,0,1768,0],
 "d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[6,0,1768,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d98/structDynamicTreeLocationInfoCallback.html#adef79d7627daa66d88c7146704984622":[6,0,996,4],
 "d3/d98/structDynamicTreeLocationInfoCallback.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e":[6,0,996,6],
 "d3/d98/structLocation.html":[6,0,1428],
-"d3/d98/structLocation.html#a10fbad67977d8dd3911eb629c1797684":[6,0,1428,2],
-"d3/d98/structLocation.html#a3785e9b55ea3a7140086ce1f86232109":[6,0,1428,0],
-"d3/d98/structLocation.html#a69fc2438e52f6c0de3af13900ff38166":[6,0,1428,3],
-"d3/d98/structLocation.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7":[6,0,1428,1],
-"d3/d9a/classspell__dk__corpse__explosion.html":[6,0,2738]
+"d3/d98/structLocation.html#a10fbad67977d8dd3911eb629c1797684":[6,0,1428,2]
 };

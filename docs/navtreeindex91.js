@@ -1,5 +1,9 @@
 var NAVTREEINDEX91 =
 {
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html":[6,0,1753,0],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a01545211dec4338ac44304ebc7f18a97":[6,0,1753,0,8],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a077c02bf06b16439225a5cf8d83babf2":[6,0,1753,0,2],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a267fec22dc3d7272cae74267d0567618":[6,0,1753,0,4],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a4de89cf4a18918d577be4ac5cc55ba5a":[6,0,1753,0,0],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a64abe15565c7e97a3a0ef195d436fedc":[6,0,1753,0,7],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc":[6,0,1753,0,6],
@@ -9,11 +13,11 @@ var NAVTREEINDEX91 =
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html":[6,0,1913],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a77e98bc345f7d27f145d4b29c4deb58e":[6,0,1913,1],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a94fdd0778818fcc6a8b818d38dde6f75":[6,0,1913,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3651],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3651,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3651,0],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[6,0,3651,3],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3651,1],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3653],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3653,2],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3653,0],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[6,0,3653,3],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3653,1],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[6,0,1815,0],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[6,0,1815,0,2],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[6,0,1815,0,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0b/namespaceAcore.html#a07aa40e12479c740872d1ad7f55acbbc":[5,0,1,158],
 "d3/d0b/namespaceAcore.html#a081c4b764dd94224c4a046465c5c6274":[5,0,1,192],
 "d3/d0b/namespaceAcore.html#a17df66939c936195b601d2eecf30eaa0":[5,0,1,147],
-"d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033":[5,0,1,156],
-"d3/d0b/namespaceAcore.html#a1990519ae97867f1a629699d00874fb2":[5,0,1,146],
-"d3/d0b/namespaceAcore.html#a19feef3708a949a3dcdf70f3fe86ff0e":[5,0,1,163],
-"d3/d0b/namespaceAcore.html#a257b055b35d21943eb2a144cccd26429":[5,0,1,140],
-"d3/d0b/namespaceAcore.html#a2858d11acb15c35a59d35c9bb163d7c6":[5,0,1,200]
+"d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033":[5,0,1,156]
 };

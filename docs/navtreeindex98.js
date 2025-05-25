@@ -1,5 +1,9 @@
 var NAVTREEINDEX98 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab6e77a0e4919ff64649247bfedcab145":[7,0,0,0,1,2,48,5,0,104],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7ec9ef8be8be0130547bbe88b9eeee8":[7,0,0,0,1,2,48,5,0,478],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7ee4addc916efb7b36228abc1010246":[7,0,0,0,1,2,48,5,0,248],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7f5ebf2155446743d02f4725af1453d":[7,0,0,0,1,2,48,5,0,491],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab81a5089e8feb6024b446afbcef5c9ef":[7,0,0,0,1,2,48,5,0,11],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab872faa431f9104927e5b911c6ac6736":[7,0,0,0,1,2,48,5,0,203],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab8a463c68e0636e8bf99d7743fda6509":[7,0,0,0,1,2,48,5,0,19],
@@ -130,11 +134,11 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,5,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,5,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,5,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3377],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3377,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3377,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3377,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3377,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3378],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3378,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3378,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3378,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3378,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#ae4789c26cbb00b4ac04d646617a48a40":[6,0,1730,0,1],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#af200e269d3f4b51bb5cfd08e9bf7ecc5":[6,0,1730,0,3],
 "d3/d4b/structnpc__violet__hold__defense__system.html":[6,0,2259],
-"d3/d4b/structnpc__violet__hold__defense__system.html#a77925ae6097f7a52d446ee20bbb3de62":[6,0,2259,1],
-"d3/d4b/structnpc__violet__hold__defense__system.html#ab39bc3da2d7ce33be1e27cd48fc16e89":[6,0,2259,2],
-"d3/d4b/structnpc__violet__hold__defense__system.html#abb5eb275e803201aad3010ad77aa4b41":[6,0,2259,0],
-"d3/d4d/GameEventMgr_8cpp.html":[7,0,0,0,1,2,17,0],
-"d3/d4d/GameEventMgr_8cpp.html#a429db26781d2673aa2f031fc1327ffaf":[7,0,0,0,1,2,17,0,2]
+"d3/d4b/structnpc__violet__hold__defense__system.html#a77925ae6097f7a52d446ee20bbb3de62":[6,0,2259,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a29dade96defe28bfe03bf60912b8b861":[7,0,0,0,1,2,48,0,4,117],
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2a5aafdff81b0fa6b5492a7b9b1c7735":[7,0,0,0,1,2,48,0,4,115],
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2ccbc81fa1b948fefd464148856da95a":[7,0,0,0,1,2,48,0,4,102],
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2da2ed1cdeab6b9d8b9ba79721526602":[7,0,0,0,1,2,48,0,4,65],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2e4d803c657e87a4701242dac020cdac":[7,0,0,0,1,2,48,0,4,114],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a3043224d683ce2e85246774d01e1628b":[7,0,0,0,1,2,48,0,4,12],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a32a0ca8413f65d1bd036e62933903384":[7,0,0,0,1,2,48,0,4,22],
@@ -245,9 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ac694bbdb12357598e4ecbc3c73701559":[7,0,0,0,1,3,4,10,1,1,8],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae00882057d559f1decbe5d4c3b1fb041":[7,0,0,0,1,3,4,10,1,1,4],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae688ed1c8bf1558a6ce589efc30b1abf":[7,0,0,0,1,3,4,10,1,1,9],
-"d2/d7b/classspell__dk__hungering__cold.html":[6,0,2750],
-"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[6,0,2750,2],
-"d2/d7b/classspell__dk__hungering__cold.html#a2f42e70482f71a4c275f70897b90ed72":[6,0,2750,1],
-"d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e":[6,0,2750,0],
-"d2/d7c/ServerPktHeader_8h.html":[7,0,0,0,1,2,39,1,4]
+"d2/d7b/classspell__dk__hungering__cold.html":[6,0,2750]
 };
