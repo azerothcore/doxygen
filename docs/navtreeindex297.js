@@ -1,5 +1,10 @@
 var NAVTREEINDEX297 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a56a221743c77b0a5d40b0c4f2f55192c":[7,0,0,0,1,3,5,4,1,2,37,12],
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a66b34c784f5c554315aae9ceb74bea60":[7,0,0,0,1,3,5,4,1,2,37,16],
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a6a85fdc4277258720d0e6879999b90ff":[7,0,0,0,1,3,5,4,1,2,37,8],
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,5,4,1,2,37,0],
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a72998a4d83035498eb434a926b3c605c":[7,0,0,0,1,3,5,4,1,2,37,19],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a7bab3687df461595e7b41f97a156bbca":[7,0,0,0,1,3,5,4,1,2,37,11],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,4,1,2,37,4],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a916619c05caad9432a590a1837803b54":[7,0,0,0,1,3,5,4,1,2,37,13],
@@ -109,10 +114,10 @@ var NAVTREEINDEX297 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,853,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,853,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,853,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3880],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3880,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3880,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3880,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3881],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3881,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3881,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3881,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1645,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1645,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1645,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d17/classspell__bwl__shadowflame.html#aeda056b568b4956ba35b32a3f20c053e":[6,0,2679,2],
 "dc/d17/structQuestOfferRewardLocale.html":[6,0,2454],
 "dc/d17/structQuestOfferRewardLocale.html#afa9f5200ef634323d719794e1d1aa4d2":[6,0,2454,0],
-"dc/d17/zone__redridge__mountains_8cpp.html":[7,0,0,0,1,3,2,28],
-"dc/d17/zone__redridge__mountains_8cpp.html#a0e7af4a9a0f1dcec20ae3d284f9721c5":[7,0,0,0,1,3,2,28,3],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45":[7,0,0,0,1,3,2,28,2],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4":[7,0,0,0,1,3,2,28,2,7],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f":[7,0,0,0,1,3,2,28,2,2],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e":[7,0,0,0,1,3,2,28,2,6]
+"dc/d17/zone__redridge__mountains_8cpp.html":[7,0,0,0,1,3,2,28]
 };

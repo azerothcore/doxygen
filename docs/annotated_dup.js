@@ -4092,6 +4092,7 @@ var annotated_dup =
     [ "spell_q12620_the_lifewarden_wrath", "d1/dc0/classspell__q12620__the__lifewarden__wrath.html", "d1/dc0/classspell__q12620__the__lifewarden__wrath" ],
     [ "spell_q12634_despawn_fruit_tosser", "db/dcc/classspell__q12634__despawn__fruit__tosser.html", "db/dcc/classspell__q12634__despawn__fruit__tosser" ],
     [ "spell_q12641_death_comes_from_on_high", "d8/df7/classspell__q12641__death__comes__from__on__high.html", "d8/df7/classspell__q12641__death__comes__from__on__high" ],
+    [ "spell_q12641_death_comes_from_on_high_recall_eye", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye.html", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye" ],
     [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls" ],
     [ "spell_q12659_ahunaes_knife", "d2/d3c/classspell__q12659__ahunaes__knife.html", "d2/d3c/classspell__q12659__ahunaes__knife" ],
     [ "spell_q12661_q12669_q12676_q12677_q12713_summon_stefan", "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html", "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan" ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX45 =
 {
+"d1/dd4/Item_8h.html#a733cdbba8ff15fedfe83704f3cc04838a5b420d76b945360794ff7d1c815707dd":[7,0,0,0,1,2,16,4,3,9,0],
+"d1/dd4/Item_8h.html#a733cdbba8ff15fedfe83704f3cc04838ac3dd1fbb67e8cd8e6c9acd6b730c2091":[7,0,0,0,1,2,16,4,3,9,3],
+"d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04":[7,0,0,0,1,2,16,4,3,12],
+"d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04a20da1bef68b2abe402a3c2b96e8287af":[7,0,0,0,1,2,16,4,3,12,1],
+"d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04a487f6f91e9dcb63762b244a63abf2750":[7,0,0,0,1,2,16,4,3,12,3],
 "d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04a6ea900210f326657f7565454c52c0bb0":[7,0,0,0,1,2,16,4,3,12,2],
 "d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04aa18942b26c4c175b16401bd70306389c":[7,0,0,0,1,2,16,4,3,12,0],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467":[7,0,0,0,1,2,16,4,3,13],
@@ -215,11 +220,11 @@ var NAVTREEINDEX45 =
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a9dbc4cc1830703c393fbeb9c0385b709":[6,0,647,0,3],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#ade379755d256c4c290e6dc8bbd862261":[6,0,647,0,1],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#af7780f467df92c9218700773d1257a8c":[6,0,647,0,2],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3821],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3821,0],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3821,1],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3821,3],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3821,2],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3822],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3822,0],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3822,1],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3822,3],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3822,2],
 "d1/dde/pets__script__loader_8cpp.html":[7,0,0,0,1,3,8,6],
 "d1/dde/pets__script__loader_8cpp.html#a689a4efb7777f4164aee994745a0e2d2":[7,0,0,0,1,3,8,6,4],
 "d1/dde/pets__script__loader_8cpp.html#a9852812a043673e45884dca938eff157":[7,0,0,0,1,3,8,6,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX45 =
 "d1/ddf/OutdoorPvP_8cpp.html":[7,0,0,0,1,2,32,0],
 "d1/ddf/structBIH_1_1StackNode.html":[6,0,355,2],
 "d1/ddf/structBIH_1_1StackNode.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491":[6,0,355,2,0],
-"d1/ddf/structBIH_1_1StackNode.html#a938ca2ace2aa498abdda93ee824b6f09":[6,0,355,2,2],
-"d1/ddf/structBIH_1_1StackNode.html#ad53b746617dd5a46930dae493d7488d9":[6,0,355,2,1],
-"d1/ddf/structFinder.html":[6,0,1037],
-"d1/ddf/structFinder.html#a0c5997e97a65f9a59b9e9f7be8eb84c9":[6,0,1037,1],
-"d1/ddf/structFinder.html#a22ed3a876495c05e8db99b7cd752d898":[6,0,1037,0],
-"d1/ddf/structFinder.html#a89d852a64429ad8ad78872ad32173a14":[6,0,1037,3]
+"d1/ddf/structBIH_1_1StackNode.html#a938ca2ace2aa498abdda93ee824b6f09":[6,0,355,2,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX260 =
 {
+"da/d9a/kalimdor__script__loader_8cpp.html#ab062b2fefc0d2afe08a2a66fce9880a5":[7,0,0,0,1,3,4,13,16],
+"da/d9a/kalimdor__script__loader_8cpp.html#ac7ebb1d823f77b23775c912303b2dac5":[7,0,0,0,1,3,4,13,36],
+"da/d9a/kalimdor__script__loader_8cpp.html#ac993a5b634e1a264a02069c814692130":[7,0,0,0,1,3,4,13,13],
+"da/d9a/kalimdor__script__loader_8cpp.html#acad5e0dd4cfb1429a9bb606ef9da254f":[7,0,0,0,1,3,4,13,67],
+"da/d9a/kalimdor__script__loader_8cpp.html#accb894d274ef2ad335966f8efb2265ae":[7,0,0,0,1,3,4,13,70],
 "da/d9a/kalimdor__script__loader_8cpp.html#ace0e54ffe3a81b932d5ce1977698f5ac":[7,0,0,0,1,3,4,13,54],
 "da/d9a/kalimdor__script__loader_8cpp.html#ace30a63c79022e9c238e630fae8333ba":[7,0,0,0,1,3,4,13,0],
 "da/d9a/kalimdor__script__loader_8cpp.html#ad2db27e6c9cca073dd3485a6d0b0cd21":[7,0,0,0,1,3,4,13,27],
@@ -47,11 +52,11 @@ var NAVTREEINDEX260 =
 "da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[6,0,2551,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[6,0,2551,0],
 "da/d9e/classSmartAIMgr.html#af74d3b1999c3774350e87d70a08c8210":[6,0,2551,19],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3832],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3832,2],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3832,0],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3832,1],
-"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3832,3],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3833],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,3833,2],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,3833,0],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3833,1],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3833,3],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html":[6,0,942,0],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#a7ddfb8afac3ff28a84b26255628fab50":[6,0,942,0,1],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#aa7d8d1d075eeb03952b47cc16846a3db":[6,0,942,0,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX260 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422ecad453298ccc9b6b3ab0523dfafb9f548f":[7,0,0,0,1,3,7,13,46,0],
 "da/da4/zone__shadowmoon__valley_8cpp.html#acdf75daa27951ff92fc1ee8b171d064a":[7,0,0,0,1,3,7,13,53],
 "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0":[7,0,0,0,1,3,7,13,43],
-"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40":[7,0,0,0,1,3,7,13,43,0],
-"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a94af56a7ae4437fec24f8fe79b6cc54e":[7,0,0,0,1,3,7,13,43,1],
-"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0aff0e297296a4075024da992fd5b774c8":[7,0,0,0,1,3,7,13,43,2],
-"da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846":[7,0,0,0,1,3,7,13,39],
-"da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a08ffe87232f0c55b72bd5e43b9570800":[7,0,0,0,1,3,7,13,39,5],
-"da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a193b32ae3e767cdd2899238b38950ddf":[7,0,0,0,1,3,7,13,39,6]
+"da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40":[7,0,0,0,1,3,7,13,43,0]
 };

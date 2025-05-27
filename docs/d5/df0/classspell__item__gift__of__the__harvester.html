@@ -313,29 +313,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  413</span>    {</div>
-<div class="line"><span class="lineno">  414</span>        std::list&lt;Creature*&gt; ghouls;</div>
-<div class="line"><span class="lineno">  415</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aef8b7aabcb71578e9ee2274ab1146c16">GetAllMinionsByEntry</a>(ghouls, <a class="code hl_enumvalue" href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4">NPC_GHOUL</a>);</div>
-<div class="line"><span class="lineno">  416</span>        <span class="keywordflow">if</span> (ghouls.size() &gt;= <a class="code hl_enumvalue" href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d">MAX_GHOULS</a>)</div>
-<div class="line"><span class="lineno">  417</span>        {</div>
-<div class="line"><span class="lineno">  418</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#a94442322faef9f04890b18a421067150">SetCustomCastResultMessage</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa09184d06e8315fc93732945cebd6be56">SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</a>);</div>
-<div class="line"><span class="lineno">  419</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
-<div class="line"><span class="lineno">  420</span>        }</div>
-<div class="line"><span class="lineno">  421</span> </div>
-<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno">  423</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  442</span>    {</div>
+<div class="line"><span class="lineno">  443</span>        std::list&lt;Creature*&gt; ghouls;</div>
+<div class="line"><span class="lineno">  444</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aef8b7aabcb71578e9ee2274ab1146c16">GetAllMinionsByEntry</a>(ghouls, <a class="code hl_enumvalue" href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4">NPC_GHOUL</a>);</div>
+<div class="line"><span class="lineno">  445</span>        <span class="keywordflow">if</span> (ghouls.size() &gt;= <a class="code hl_enumvalue" href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d">MAX_GHOULS</a>)</div>
+<div class="line"><span class="lineno">  446</span>        {</div>
+<div class="line"><span class="lineno">  447</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#a94442322faef9f04890b18a421067150">SetCustomCastResultMessage</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa09184d06e8315fc93732945cebd6be56">SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</a>);</div>
+<div class="line"><span class="lineno">  448</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
+<div class="line"><span class="lineno">  449</span>        }</div>
+<div class="line"><span class="lineno">  450</span> </div>
+<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno">  452</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a9c096b84b85e3654d920bcf353d0946fa09184d06e8315fc93732945cebd6be56"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa09184d06e8315fc93732945cebd6be56">SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</a></div><div class="ttdeci">@ SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1173</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a></div><div class="ttdeci">@ SPELL_FAILED_CUSTOM_ERROR</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1121</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1138</div></div>
-<div class="ttc" id="achapter1_8cpp_html_a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4"><div class="ttname"><a href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4">NPC_GHOUL</a></div><div class="ttdeci">@ NPC_GHOUL</div><div class="ttdef"><b>Definition</b> chapter1.cpp:393</div></div>
-<div class="ttc" id="achapter1_8cpp_html_a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d"><div class="ttname"><a href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d">MAX_GHOULS</a></div><div class="ttdeci">@ MAX_GHOULS</div><div class="ttdef"><b>Definition</b> chapter1.cpp:394</div></div>
+<div class="ttc" id="achapter1_8cpp_html_a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4"><div class="ttname"><a href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4">NPC_GHOUL</a></div><div class="ttdeci">@ NPC_GHOUL</div><div class="ttdef"><b>Definition</b> chapter1.cpp:422</div></div>
+<div class="ttc" id="achapter1_8cpp_html_a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d"><div class="ttname"><a href="../../dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d">MAX_GHOULS</a></div><div class="ttdeci">@ MAX_GHOULS</div><div class="ttdef"><b>Definition</b> chapter1.cpp:423</div></div>
 <div class="ttc" id="aclassSpellScript_html_a94442322faef9f04890b18a421067150"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a94442322faef9f04890b18a421067150">SpellScript::SetCustomCastResultMessage</a></div><div class="ttdeci">void SetCustomCastResultMessage(SpellCustomErrors result)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:646</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html_aef8b7aabcb71578e9ee2274ab1146c16"><div class="ttname"><a href="../../df/dd9/classUnit.html#aef8b7aabcb71578e9ee2274ab1146c16">Unit::GetAllMinionsByEntry</a></div><div class="ttdeci">void GetAllMinionsByEntry(std::list&lt; Creature * &gt; &amp;Minions, uint32 entry)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10895</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10895">Unit::GetAllMinionsByEntry()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00394">MAX_GHOULS</a>, <a class="el" href="../../#l00393">NPC_GHOUL</a>, <a class="el" href="../../#l00646">SpellScript::SetCustomCastResultMessage()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l01173">SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</a>, and <a class="el" href="../../#l01121">SPELL_FAILED_CUSTOM_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10895">Unit::GetAllMinionsByEntry()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00423">MAX_GHOULS</a>, <a class="el" href="../../#l00422">NPC_GHOUL</a>, <a class="el" href="../../#l00646">SpellScript::SetCustomCastResultMessage()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l01173">SPELL_CUSTOM_ERROR_TOO_MANY_GHOULS</a>, and <a class="el" href="../../#l01121">SPELL_FAILED_CUSTOM_ERROR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00425">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00454">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,14 +389,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  426</span>    {</div>
-<div class="line"><span class="lineno">  427</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da">spell_item_gift_of_the_harvester::CheckRequirement</a>);</div>
-<div class="line"><span class="lineno">  428</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  455</span>    {</div>
+<div class="line"><span class="lineno">  456</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da">spell_item_gift_of_the_harvester::CheckRequirement</a>);</div>
+<div class="line"><span class="lineno">  457</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aclassspell__item__gift__of__the__harvester_html_a31d69034f463d552afa4063bf89271da"><div class="ttname"><a href="../../d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da">spell_item_gift_of_the_harvester::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> chapter1.cpp:412</div></div>
+<div class="ttc" id="aclassspell__item__gift__of__the__harvester_html_a31d69034f463d552afa4063bf89271da"><div class="ttname"><a href="../../d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da">spell_item_gift_of_the_harvester::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> chapter1.cpp:441</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00412">CheckRequirement()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00441">CheckRequirement()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -409,7 +409,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/df0/classspell__item__gift__of__the__harvester.html">spell_item_gift_of_the_harvester</a></li>
-    <li class="footer">Generated on Mon May 26 2025 06:25:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue May 27 2025 06:24:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

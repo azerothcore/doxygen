@@ -1,5 +1,10 @@
 var NAVTREEINDEX399 =
 {
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ac617b5511beacd7b98d0e9ae8773e7dc":[6,0,399,0,17],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aca37d322e154ae01ceb4e96b3b42d5d0":[6,0,399,0,21],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#acb939a02a912d1db13947a939f4c554c":[6,0,399,0,5],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aebb53f7599dd3a55953946b7cc9e76d6":[6,0,399,0,8],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#af808b2b543ea9b27b4b03d0e561fb90e":[6,0,399,0,20],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#afb02799e3fad05e2e0d48ea5b3be7526":[6,0,399,0,4],
 "df/df5/BattlefieldMgr_8cpp.html":[7,0,0,0,1,2,7,4],
 "df/df5/structboss__nefarian.html":[6,0,633],
@@ -68,10 +73,10 @@ var NAVTREEINDEX399 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,688,0,4],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,688,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,688,0,7],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3844],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3844,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3844,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3844,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3845],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3845,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3845,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3845,0],
 "df/dfe/classnpc__high__inquisitor__valroth.html":[6,0,1829],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6374b80425da8bc41d9d076e6e7d7bef":[6,0,1829,2],
 "df/dfe/classnpc__high__inquisitor__valroth.html#a6e244a411249667a84f0d34ca1b1f17b":[6,0,1829,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX399 =
 "dir_ac632e0cb7d565e729369f2b018d776c.html":[7,0,0,0,1,1,3],
 "dir_ac8643af82ea53313fd6af4324ac5b57.html":[7,0,0,0,1,2,16,10],
 "dir_ad2e777a6187183a8e6ee76e3ed26133.html":[7,0,0,0,1,2,16,6],
-"dir_ad428c5db30caa68b61b40c59271b2a9.html":[7,0,0,0,0,6,0],
-"dir_adf5e23d7fbd2f278fda5650b14114ac.html":[7,0,0,0,1,2,47],
-"dir_ae768b8f8ff3a94207cd3cc19c295cc8.html":[7,0,0,0,1,3,2,12],
-"dir_af235a4b351ba024ca5221c13e9eaafb.html":[7,0,0,0,1,3,4,2],
-"dir_b604cd515113e1b9d14f26b265d784ac.html":[7,0,0,0,3,4],
-"dir_b7024d25a4cd9a4b12fa2461cb1ed1ce.html":[7,0,0,0,1,0,1,3]
+"dir_ad428c5db30caa68b61b40c59271b2a9.html":[7,0,0,0,0,6,0]
 };

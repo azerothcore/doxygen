@@ -1,5 +1,10 @@
 var NAVTREEINDEX199 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadea9671685151de8b60b073ecfe50f63":[7,0,0,0,1,2,28,2,0,4],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadee00b2c07ce9f18942080ca028f075f":[7,0,0,0,1,2,28,2,0,1110],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadeed8ac69fbb0c314e2dc8aeee4b73c7":[7,0,0,0,1,2,28,2,0,1089],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadf2c1878a614ff53bd58e412f5b27a3b":[7,0,0,0,1,2,28,2,0,96],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadf2ec7fb2fd0e929105411f5d349bf1c":[7,0,0,0,1,2,28,2,0,906],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadf9a30c76714132e4c1dbc097251ca7d":[7,0,0,0,1,2,28,2,0,542],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadfb506251f4cbcfd3bb8185e63585674":[7,0,0,0,1,2,28,2,0,136],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadffc58b4020f98fcecfb5d7920141194":[7,0,0,0,1,2,28,2,0,810],
@@ -206,9 +211,9 @@ var NAVTREEINDEX199 =
 "d7/da0/structGameEventFinishCondition.html#a8c144531f876b6def613c0011e0efe47":[6,0,1067,2],
 "d7/da0/structGameEventFinishCondition.html#abc88850d392fb4b62e778d09445de0be":[6,0,1067,0],
 "d7/da0/structGameEventFinishCondition.html#ae1d182aef449388993e4965de447d971":[6,0,1067,3],
-"d7/da1/structSpellCastTimesEntry.html":[6,0,4024],
-"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4024,1],
-"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4024,0],
+"d7/da1/structSpellCastTimesEntry.html":[6,0,4025],
+"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4025,1],
+"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4025,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html":[6,0,590,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a0e53d139f64d104557e157a91176a47a":[6,0,590,0,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a1a3acb1e8cbceb16854aafcf51a0f99d":[6,0,590,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX199 =
 "d7/da4/classDBCFileLoader.html#ae624604ad0cdae8d3eb7212630a33613":[6,0,950,9],
 "d7/da4/classDBCFileLoader.html#aeedb51dd9b316063a58a989b175d0bc5":[6,0,950,8],
 "d7/da4/classDBCFileLoader.html#af322bc9e92472463998ca8082c5da3d6":[6,0,950,11],
-"d7/da4/classDBCFileLoader.html#af8810dd9cef9ed82036bbebb4c938521":[6,0,950,4],
-"d7/da5/classat__karazhan__atiesh__aran.html":[6,0,227],
-"d7/da5/classat__karazhan__atiesh__aran.html#a5a6646c573b6e0bab0cbc288e594979e":[6,0,227,1],
-"d7/da5/classat__karazhan__atiesh__aran.html#ac84f5848b8a26cbfdd2544108567a6cc":[6,0,227,0],
-"d7/da7/boss__marli_8cpp.html":[7,0,0,0,1,3,2,16,8],
-"d7/da7/boss__marli_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,8,7]
+"d7/da4/classDBCFileLoader.html#af8810dd9cef9ed82036bbebb4c938521":[6,0,950,4]
 };

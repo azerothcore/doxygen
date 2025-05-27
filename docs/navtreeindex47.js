@@ -1,5 +1,10 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181af899f65d80cb3286ddf41e27504230fd":[7,0,0,0,1,3,9,2,183,1],
+"d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181afd2a4f8f068e9ce48924b51ec1f4d2a6":[7,0,0,0,1,3,9,2,183,0],
+"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5d":[7,0,0,0,1,3,9,2,162],
+"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5daa132777a84f945951c8f51520238810d":[7,0,0,0,1,3,9,2,162,0],
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84b":[7,0,0,0,1,3,9,2,182],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1dfbef9fcdf8fac682fd148f48b1d73f":[7,0,0,0,1,3,9,2,182,5],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[7,0,0,0,1,3,9,2,182,6],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[7,0,0,0,1,3,9,2,182,2],
@@ -211,10 +216,10 @@ var NAVTREEINDEX47 =
 "d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[6,0,2871,2],
 "d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[6,0,2871,3],
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[6,0,2871,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html":[6,0,3942],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[6,0,3942,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[6,0,3942,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[6,0,3942,2],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[6,0,3943],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[6,0,3943,1],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[6,0,3943,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[6,0,3943,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[6,0,2038,0],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[6,0,2038,0,4],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[6,0,2038,0,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dec/classnpc__zulaman__hostage.html#a0ae144dc154dd028b409c9d2393f890c":[6,0,2294,2],
 "d1/dec/classnpc__zulaman__hostage.html#a114f6fbfab90944fd49babcba4b48a11":[6,0,2294,4],
 "d1/dec/classnpc__zulaman__hostage.html#a12f9ad1889cacb60103c1e921c2fa0e9":[6,0,2294,1],
-"d1/dec/classnpc__zulaman__hostage.html#a89d68a976f916a4de2196b57ec0026b0":[6,0,2294,3],
-"d1/ded/classspell__item__ashbringer.html":[6,0,3177],
-"d1/ded/classspell__item__ashbringer.html#a5b2175a933df10d775bc3381f515aa96":[6,0,3177,2],
-"d1/ded/classspell__item__ashbringer.html#a6e41bf15401c540887dd321e4b2cc7d3":[6,0,3177,3],
-"d1/ded/classspell__item__ashbringer.html#a8be944ae201f4f8406948aff78f982d9":[6,0,3177,0],
-"d1/ded/classspell__item__ashbringer.html#adcb707400963e549a295e115d6f3583b":[6,0,3177,1]
+"d1/dec/classnpc__zulaman__hostage.html#a89d68a976f916a4de2196b57ec0026b0":[6,0,2294,3]
 };

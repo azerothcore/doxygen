@@ -1,5 +1,10 @@
 var NAVTREEINDEX355 =
 {
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a":[7,0,0,0,1,2,41,9,60,12],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ac197ffb2b4f21667b0e62369ec02f0d9":[7,0,0,0,1,2,41,9,60,14],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46acff4812164f58422db79307db4bbe715":[7,0,0,0,1,2,41,9,60,18],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad01a7209b4b575624baa5781038d973e":[7,0,0,0,1,2,41,9,60,22],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad0f376666fe646253e445dedfae7753f":[7,0,0,0,1,2,41,9,60,11],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46add860fda4804b0ef5944fa5d5d54c508":[7,0,0,0,1,2,41,9,60,13],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466":[7,0,0,0,1,2,41,9,60,6],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ae5dd4dda6fda38b1dab641fb971694fc":[7,0,0,0,1,2,41,9,60,26],
@@ -195,9 +200,9 @@ var NAVTREEINDEX355 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[6,0,818,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[6,0,818,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,818,10],
-"de/d34/structSpellDurationEntry.html":[6,0,4032],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4032,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4032,0],
+"de/d34/structSpellDurationEntry.html":[6,0,4033],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4033,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4033,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[6,0,711,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[6,0,711,0,2],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,711,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX355 =
 "de/d3a/classCasterAI.html":[6,0,835],
 "de/d3a/classCasterAI.html#a0fa50ac9bd99ff0c2c7e78f03a737090":[6,0,835,4],
 "de/d3a/classCasterAI.html#a28386fd1a275c002445e5eaf90314a3d":[6,0,835,1],
-"de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[6,0,835,2],
-"de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[6,0,835,5],
-"de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,835,3],
-"de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,835,0],
-"de/d3a/classspell__warlords__rage.html":[6,0,3954],
-"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,3954,0]
+"de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[6,0,835,2]
 };

@@ -2,6 +2,7 @@ var chapter1_8cpp =
 [
     [ "npc_eye_of_acherus", "d0/d7a/structnpc__eye__of__acherus.html", "d0/d7a/structnpc__eye__of__acherus" ],
     [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls" ],
+    [ "spell_q12641_death_comes_from_on_high_recall_eye", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye.html", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye" ],
     [ "npc_death_knight_initiate", "d8/d74/classnpc__death__knight__initiate.html", "d8/d74/classnpc__death__knight__initiate" ],
     [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI" ],
     [ "spell_item_gift_of_the_harvester", "d5/df0/classspell__item__gift__of__the__harvester.html", "d5/df0/classspell__item__gift__of__the__harvester" ],
@@ -27,7 +28,7 @@ var chapter1_8cpp =
     [ "spell_lich_king_whisper", "d0/d70/classspell__lich__king__whisper.html", "d0/d70/classspell__lich__king__whisper" ],
     [ "GCD_CAST", "dc/dec/chapter1_8cpp.html#a4e0920d64510440a7850bf1c1ef76f54", null ],
     [ "DeathComesFromOnHigh", "dc/dec/chapter1_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
-      [ "SUMMON_GHOULS_ON_SCARLET_CRUSADE", "dc/dec/chapter1_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa70132ee24d76302e2a1f650bbe1cb72f", null ]
+      [ "SPELL_CALL_OF_THE_DEAD", "dc/dec/chapter1_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ]
     ] ],
     [ "deathsChallenge", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63", [
       [ "SPELL_DUEL", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63aa4a531ba862d340d8569255af4c59069", null ],

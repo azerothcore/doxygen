@@ -1,5 +1,10 @@
 var NAVTREEINDEX156 =
 {
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac6880ae70ee2c10f6c5b75fa6b4f0096":[6,0,1284,0,31],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac84ecb84dd88f87d748241bd309bf8ea":[6,0,1284,0,16],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac9e7d5d0a420985fb5b72da1a725f7af":[6,0,1284,0,1],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ad0a93114ab4de803888ebde738e6a67e":[6,0,1284,0,0],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ada9e7ef96b4519b3a61a37e8562a7628":[6,0,1284,0,29],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae067b6a41e79d533942265581022379e":[6,0,1284,0,26],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae297cebc14c949ff0dfd38678ecbc9bb":[6,0,1284,0,20],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aec751168cfe4eb6e73dcab9c1711e60a":[6,0,1284,0,21],
@@ -244,10 +249,5 @@ var NAVTREEINDEX156 =
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a2072f9facbc476bb97f1a3ca9c24fcb7":[6,0,1841,0,0],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a40749d0294400e15bc28f6e728c6cb3c":[6,0,1841,0,2],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a610700732a6cc197a40106adef654a62":[6,0,1841,0,1],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee":[6,0,1841,0,7],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a8dd77a92b151acad640f1272acf0b65f":[6,0,1841,0,6],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a94128223bddd84b8a678e49f3189cb75":[6,0,1841,0,4],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#acb29a6ddb6d06616e79f7431b66f167a":[6,0,1841,0,3],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#add878d336fa7e20bee4d05ac0383dd0a":[6,0,1841,0,5],
-"d5/dd1/boss__trollgore_8cpp.html":[7,0,0,0,1,3,5,3,3]
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee":[6,0,1841,0,7]
 };

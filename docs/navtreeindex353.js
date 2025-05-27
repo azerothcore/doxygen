@@ -1,5 +1,10 @@
 var NAVTREEINDEX353 =
 {
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a7927f399ef1c89b3eb83804fde9b2700":[6,0,2218,0,6],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aa814a46a45ce5eb9696c8f6c6de8c521":[6,0,2218,0,7],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aaf35c04462b1698e85df64190f4e2c8a":[6,0,2218,0,5],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#ac4677898f5612c01d98ab242c7628e8f":[6,0,2218,0,10],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#acbbe6667360e5bb7576c1ea741c2e2f1":[6,0,2218,0,8],
 "de/d23/structnpc__winterfin__playmate.html":[6,0,2276],
 "de/d23/structnpc__winterfin__playmate.html#a0a1051dc971ef393843bd1ba655a2e1b":[6,0,2276,5],
 "de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2276,6],
@@ -17,16 +22,16 @@ var NAVTREEINDEX353 =
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,1],
 "de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,29,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,29,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
-"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,29,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,29,0,3],
+"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,29,0,1],
-"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,29,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,10,0,4],
-"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,10,0,2],
+"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,29,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,29,0,2],
+"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,10,0,2],
 "de/d24/structnpc__demon__chain.html":[6,0,1732],
 "de/d24/structnpc__demon__chain.html#a27007fdff0d685b0a38a0b98820b95fb":[6,0,1732,2],
 "de/d24/structnpc__demon__chain.html#a35d1b7de8612f11cdf61b9d663990686":[6,0,1732,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX353 =
 "de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
 "de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3807],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3807,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3807,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3807,2],
-"de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
-"de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,30]
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3808]
 };

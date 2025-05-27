@@ -1,5 +1,10 @@
 var NAVTREEINDEX226 =
 {
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3":[7,0,0,0,1,2,8,1,19,6,2],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea605c6cd721a5eb37b5cf987a29a23370":[7,0,0,0,1,2,8,1,19,6,1],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076":[7,0,0,0,1,2,8,1,19,6,0],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deead4839dd8ea380fcc8ee3ea2590c5c1f5":[7,0,0,0,1,2,8,1,19,6,3],
+"d8/de0/BattlegroundSA_8h.html#a53220f7ce5fdbb409918270e4f8158fd":[7,0,0,0,1,2,8,1,19,15],
 "d8/de0/BattlegroundSA_8h.html#a618d60620199e19e1cf637471ac184d4":[7,0,0,0,1,2,8,1,19,4],
 "d8/de0/BattlegroundSA_8h.html#a6dced036258c6cf42426f1cf0cd838f9":[7,0,0,0,1,2,8,1,19,19],
 "d8/de0/BattlegroundSA_8h.html#a9309f689c2af9fc781a64e1665344a7a":[7,0,0,0,1,2,8,1,19,16],
@@ -191,11 +196,11 @@ var NAVTREEINDEX226 =
 "d8/de7/classnpc__announcer__toc10.html#a9a2bf1d3a215332744ca473041cc0520":[6,0,1584,2],
 "d8/de7/classnpc__announcer__toc10.html#ae495b19328c6a743dfd8f1cbf37a0bd6":[6,0,1584,0],
 "d8/de7/classnpc__announcer__toc10.html#afcc5262e7c49b7456af146de14805a06":[6,0,1584,1],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html":[6,0,3735],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[6,0,3735,2],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3735,1],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3735,3],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3735,0],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html":[6,0,3736],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[6,0,3736,2],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3736,1],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3736,3],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3736,0],
 "d8/de7/structDungeonEncounter.html":[6,0,986],
 "d8/de7/structDungeonEncounter.html#a262bdd0ba443739456fc14bcad83ecda":[6,0,986,3],
 "d8/de7/structDungeonEncounter.html#a3e48a996a47ddcc1b18aaac339457f3d":[6,0,986,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX226 =
 "d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[6,0,644,2],
 "d8/dea/structboss__ormorok.html#a29cc8c3db5ba3d528ea873d66be619cd":[6,0,644,7],
 "d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[6,0,644,4],
-"d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[6,0,644,5],
-"d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[6,0,644,0],
-"d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[6,0,644,3],
-"d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[6,0,644,1],
-"d8/deb/SpellAuraEffects_8h.html":[7,0,0,0,1,2,41,0,2],
-"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354":[7,0,0,0,1,2,41,0,2,3]
+"d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[6,0,644,5]
 };

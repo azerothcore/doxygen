@@ -1,5 +1,10 @@
 var NAVTREEINDEX89 =
 {
+"d2/df4/boss__alar_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afca96088cd9fbbe9b4980c867bc1d54f":[7,0,0,0,1,3,7,5,2,0,6,6],
+"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,2,0,8],
+"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b01bb6d3fb8443b07a687c16d86009d":[7,0,0,0,1,3,7,5,2,0,8,4],
+"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2474f7d0a349f54ecfaeaf5a387d509d":[7,0,0,0,1,3,7,5,2,0,8,12],
+"d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,7,5,2,0,8,9],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca501423372a047a0b1766a736cf773724":[7,0,0,0,1,3,7,5,2,0,8,2],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b15c1654fb178c62d8c139819ca2078":[7,0,0,0,1,3,7,5,2,0,8,13],
 "d2/df4/boss__alar_8cpp.html#a5bd342133be8c2137b831460acc9298ca93350f55f20d7c85474448054888a70b":[7,0,0,0,1,3,7,5,2,0,8,1],
@@ -56,11 +61,11 @@ var NAVTREEINDEX89 =
 "d2/df5/classspell__hos__dark__matter.html#abe52dbfdbd42c860e0a79873dd19e22d":[6,0,3073,2],
 "d2/df5/classspell__hos__dark__matter.html#ad8035b1b676751fcc299e4ad8df62ed8":[6,0,3073,1],
 "d2/df5/classspell__hos__dark__matter.html#af61220cb739baef9b33aecddb1cfe5ea":[6,0,3073,0],
-"d2/df5/classspell__vehicle__grab__pyrite.html":[6,0,3905],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a8fc8712a76939dea6831a9eb5b95f946":[6,0,3905,3],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a924ae640d448da777ce3ecb059c1c9b6":[6,0,3905,1],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a9580f04e1543262026818f0944bb96c3":[6,0,3905,0],
-"d2/df5/classspell__vehicle__grab__pyrite.html#ac05e58e9b5618b1f079bd1c4924a0f9f":[6,0,3905,2],
+"d2/df5/classspell__vehicle__grab__pyrite.html":[6,0,3906],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a8fc8712a76939dea6831a9eb5b95f946":[6,0,3906,3],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a924ae640d448da777ce3ecb059c1c9b6":[6,0,3906,1],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a9580f04e1543262026818f0944bb96c3":[6,0,3906,0],
+"d2/df5/classspell__vehicle__grab__pyrite.html#ac05e58e9b5618b1f079bd1c4924a0f9f":[6,0,3906,2],
 "d2/df6/DBCStores_8h.html":[7,0,0,0,1,2,14,1],
 "d2/df6/DBCStores_8h.html#a00fc8b9059a4c808fe769f8e800c2919":[7,0,0,0,1,2,14,1,69],
 "d2/df6/DBCStores_8h.html#a01782477d22431b146db05c572f522da":[7,0,0,0,1,2,14,1,120],
@@ -244,10 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df8/classspell__gen__area__aura__select__players.html":[6,0,2885],
 "d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2885,1],
 "d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2885,0],
-"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2885,2],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0],
-"d2/df9/classLichKingMovieEvent.html":[6,0,1407],
-"d2/df9/classLichKingMovieEvent.html#a22d6181fd2651d62dcb6cdbabe0561fe":[6,0,1407,1]
+"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2885,2]
 };

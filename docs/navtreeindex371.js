@@ -1,5 +1,10 @@
 var NAVTREEINDEX371 =
 {
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac4adabf023663df7b4c1fdc8c027b52d":[6,0,708,0,8],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac5bc8a9512c2e6e5169366cc5bbc79c2":[6,0,708,0,1],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac99cd9678f209b0cf2e8e8e3457d0f55":[6,0,708,0,12],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ae71145ec4a82d1f024892181daebace9":[6,0,708,0,10],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#aeec79a009137be8b6290366d8d6bcfa3":[6,0,708,0,0],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#af217acbeab5032b8a16180f4ff021e0a":[6,0,708,0,9],
 "de/ddd/classspell__entropius__black__hole__effect.html":[6,0,2835],
 "de/ddd/classspell__entropius__black__hole__effect.html#a5a43bb53d3c534054498f8366d617e5a":[6,0,2835,0],
@@ -25,11 +30,11 @@ var NAVTREEINDEX371 =
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,2993,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,2993,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,2993,2],
-"de/de0/structSpellClickInfo.html":[6,0,4027],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4027,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4027,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4027,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4027,3],
+"de/de0/structSpellClickInfo.html":[6,0,4028],
+"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4028,1],
+"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4028,2],
+"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4028,0],
+"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4028,3],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[6,0,779,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[6,0,779,0,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[6,0,779,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX371 =
 "de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781":[7,0,0,0,0,9,10,2],
 "de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d":[7,0,0,0,0,9,10,2,7],
 "de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96":[7,0,0,0,0,9,10,2,8],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177":[7,0,0,0,0,9,10,2,5],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f":[7,0,0,0,0,9,10,2,2],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5":[7,0,0,0,0,9,10,2,1],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d":[7,0,0,0,0,9,10,2,6],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4":[7,0,0,0,0,9,10,2,3],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61":[7,0,0,0,0,9,10,2,0]
+"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177":[7,0,0,0,0,9,10,2,5]
 };

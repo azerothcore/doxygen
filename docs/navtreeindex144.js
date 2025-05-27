@@ -1,5 +1,10 @@
 var NAVTREEINDEX144 =
 {
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#ab834a151bd87f60b3b3e15e4d96e033d":[6,0,503,0,0],
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#af09ee00c4d023c61b6801daa44ae9f1c":[6,0,503,0,4],
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#afdb1642dbeb250e897e2f9954e0fc810":[6,0,503,0,2],
+"d5/d31/structgo__ahune__ice__spear.html":[6,0,1106],
+"d5/d31/structgo__ahune__ice__spear.html#a22922e47b819bc60e331cffbc7c353b3":[6,0,1106,0],
 "d5/d31/structgo__ahune__ice__spear.html#a7e1dab03b33b0114cc0a40fc02e2306e":[6,0,1106,3],
 "d5/d31/structgo__ahune__ice__spear.html#abd11525a84d3ab06a39d1eb7e7c09fbc":[6,0,1106,1],
 "d5/d31/structgo__ahune__ice__spear.html#ae498fc1f71906af2f20e95dea4df4a2b":[6,0,1106,2],
@@ -110,14 +115,14 @@ var NAVTREEINDEX144 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[6,0,1099,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[6,0,1099,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1099,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,100],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,88],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,88,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,100,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,100,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,88,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,100,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,88,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,100,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,88,2],
 "d5/d34/structMovieEntry.html":[6,0,1523],
@@ -244,10 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d44/structboss__warlord__kalithresh.html#afcf2288fbea2d5010c41344ce0247559":[6,0,773,0],
 "d5/d44/structnpc__ouro__spawner.html":[6,0,1992],
 "d5/d44/structnpc__ouro__spawner.html#a6ac376861c1206cc1551d9fa86c0fc97":[6,0,1992,4],
-"d5/d44/structnpc__ouro__spawner.html#a722dada5bf97c730462a0de2b082d5ff":[6,0,1992,1],
-"d5/d44/structnpc__ouro__spawner.html#a83c0972db4435ccf1af069574e4056f4":[6,0,1992,2],
-"d5/d44/structnpc__ouro__spawner.html#ac1591f1c172bfdda25b020e00cd0835e":[6,0,1992,3],
-"d5/d44/structnpc__ouro__spawner.html#acb18739e5a1734312ffdda35321e5f34":[6,0,1992,0],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,3946],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[6,0,3946,0]
+"d5/d44/structnpc__ouro__spawner.html#a722dada5bf97c730462a0de2b082d5ff":[6,0,1992,1]
 };

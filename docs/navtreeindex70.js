@@ -1,5 +1,10 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a86b709bc23467f0c802ee5bc7f768173":[7,0,0,0,1,3,10,3,29],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a86b709bc23467f0c802ee5bc7f768173a90e16a275eea36cef0e874c59eff43d8":[7,0,0,0,1,3,10,3,29,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a86b709bc23467f0c802ee5bc7f768173ac6b6d9e58e442d430c4e5c8453cb7348":[7,0,0,0,1,3,10,3,29,0],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a9e63deeb51ce482c5073c4c0d8200bfe":[7,0,0,0,1,3,10,3,27],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a9e63deeb51ce482c5073c4c0d8200bfea1fe8262d3c21ef3dcb5706648434c58c":[7,0,0,0,1,3,10,3,27,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa4158e1173562b8114a7b7b34ee3e6eb":[7,0,0,0,1,3,10,3,22],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa4158e1173562b8114a7b7b34ee3e6eba92a31a1303079c80280c7641b915737d":[7,0,0,0,1,3,10,3,22,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa6c0736588f97a738088b88b77427c11":[7,0,0,0,1,3,10,3,20],
@@ -177,10 +182,10 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2730,5],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2730,4],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2730,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,3987],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,3987,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,3987,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,3987,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,3988],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,3988,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,3988,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,3988,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6":[7,0,0,0,1,2,38,0,48,1,0],
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395":[7,0,0,0,1,2,38,0,48,1,3],
 "d2/d9a/classnpc__gothik__trigger.html":[6,0,1805],
-"d2/d9a/classnpc__gothik__trigger.html#a6975122d49b0d76fb2b33b310a7ccb71":[6,0,1805,1],
-"d2/d9a/classnpc__gothik__trigger.html#a9b3b47e95d2c41c109a9ccd3915b89ff":[6,0,1805,2],
-"d2/d9a/structboss__fathomguard__sharkkis.html":[6,0,458],
-"d2/d9a/structboss__fathomguard__sharkkis.html#a1a4fdf91f6d8d0e3e0672e174152a59d":[6,0,458,2],
-"d2/d9a/structboss__fathomguard__sharkkis.html#a31098d1e91412b797663fe677114af20":[6,0,458,4],
-"d2/d9a/structboss__fathomguard__sharkkis.html#a344072e382566575168cdcf57d0f6481":[6,0,458,1]
+"d2/d9a/classnpc__gothik__trigger.html#a6975122d49b0d76fb2b33b310a7ccb71":[6,0,1805,1]
 };

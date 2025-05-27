@@ -1,5 +1,10 @@
 var NAVTREEINDEX61 =
 {
+"d2/d4b/classPlayer.html#ad32f3a3ec1be51826e04097db7a69620":[6,0,2389,960],
+"d2/d4b/classPlayer.html#ad372accc95ab6fb468c784bad6acee86":[6,0,2389,553],
+"d2/d4b/classPlayer.html#ad3cbdc8c965eeef0057eb8694efe7cac":[6,0,2389,55],
+"d2/d4b/classPlayer.html#ad3fcc680af684928a1ed6d1aef06cb68":[6,0,2389,74],
+"d2/d4b/classPlayer.html#ad40910f7f96150752e67fdab5ad20d6f":[6,0,2389,610],
 "d2/d4b/classPlayer.html#ad41e651c11fdeb4f1d2a84101a02f865":[6,0,2389,615],
 "d2/d4b/classPlayer.html#ad41ec715f6adfcb5cfc70e3d5925ae85":[6,0,2389,623],
 "d2/d4b/classPlayer.html#ad44127ae589c9be2a053996a1eddb26a":[6,0,2389,1177],
@@ -216,11 +221,11 @@ var NAVTREEINDEX61 =
 "d2/d4b/classPlayer.html#affc0664ca9876d363ee641e2ce98bba0":[6,0,2389,1005],
 "d2/d4b/classPlayer.html#affc4b060ef3294d9bcdf34623ccd5ecb":[6,0,2389,437],
 "d2/d4b/classPlayer.html#affdbd69b2c33a4a6123e764703b6bd57":[6,0,2389,1036],
-"d2/d4b/classSuckBackEvent.html":[6,0,4084],
-"d2/d4b/classSuckBackEvent.html#a4d8bc09803f7786022c1836457ded488":[6,0,4084,3],
-"d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[6,0,4084,0],
-"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[6,0,4084,1],
-"d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[6,0,4084,2],
+"d2/d4b/classSuckBackEvent.html":[6,0,4085],
+"d2/d4b/classSuckBackEvent.html#a4d8bc09803f7786022c1836457ded488":[6,0,4085,3],
+"d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[6,0,4085,0],
+"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[6,0,4085,1],
+"d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[6,0,4085,2],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3256],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3256,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3256,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX61 =
 "d2/d50/tools_2dbimport_2Main_8cpp.html":[7,0,0,0,3,0,0],
 "d2/d50/tools_2dbimport_2Main_8cpp.html#a1551df43a48f1dbf64dbec1e47b07eea":[7,0,0,0,3,0,0,3],
 "d2/d50/tools_2dbimport_2Main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[7,0,0,0,3,0,0,2],
-"d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b":[7,0,0,0,3,0,0,1],
-"d2/d50/tools_2dbimport_2Main_8cpp.html#a927af1587546ee7503a3b9a18f6439c0":[7,0,0,0,3,0,0,4],
-"d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f":[7,0,0,0,3,0,0,0],
-"d2/d52/classboss__hedrum.html":[6,0,523],
-"d2/d52/classboss__hedrum.html#a655d348dec9ce9b585ea12f3629b0aa7":[6,0,523,1],
-"d2/d52/classboss__hedrum.html#a7033d315852aa4905784e957679ee261":[6,0,523,2]
+"d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b":[7,0,0,0,3,0,0,1]
 };

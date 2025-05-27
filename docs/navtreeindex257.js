@@ -1,5 +1,10 @@
 var NAVTREEINDEX257 =
 {
+"da/d7e/classMapGrid.html#a2a52c01e848d76687e321da2ad5ad540":[6,0,1478,12],
+"da/d7e/classMapGrid.html#a2be024de8ecf1f6482e8f5f6002ddb33":[6,0,1478,24],
+"da/d7e/classMapGrid.html#a2d28459da60ba0133892d0ef7639c969":[6,0,1478,16],
+"da/d7e/classMapGrid.html#a315e5ebf9f272fde3854ab9a5f92bd5e":[6,0,1478,17],
+"da/d7e/classMapGrid.html#a513ac4155c169eb2671d9974ef1e290a":[6,0,1478,3],
 "da/d7e/classMapGrid.html#a521501abfc11a97c8d398b5c9b348367":[6,0,1478,26],
 "da/d7e/classMapGrid.html#a5944ddf2484ddf11e128c945bdf7ee6f":[6,0,1478,15],
 "da/d7e/classMapGrid.html#a68b8ce55737ea585816a84f719133bca":[6,0,1478,4],
@@ -74,10 +79,10 @@ var NAVTREEINDEX257 =
 "da/d80/structboss__zereketh__the__unbound.html#abb2fc5cbe7514142160818016fda1936":[6,0,804,0],
 "da/d80/structboss__zereketh__the__unbound.html#ac5d96da9a33a536f2002cce11453ded3":[6,0,804,1],
 "da/d80/structboss__zereketh__the__unbound.html#ad0305f3eeb578d6dcd2db835331eb10f":[6,0,804,2],
-"da/d81/classspell__random__lightning__visual__effect.html":[6,0,3675],
-"da/d81/classspell__random__lightning__visual__effect.html#a62b0ce71caeff96705b15aa240ddd09f":[6,0,3675,2],
-"da/d81/classspell__random__lightning__visual__effect.html#a8bda9327c4244af41c513528ad5c818c":[6,0,3675,0],
-"da/d81/classspell__random__lightning__visual__effect.html#aba5a03c94fa5d87c46a91369875c0ab2":[6,0,3675,1],
+"da/d81/classspell__random__lightning__visual__effect.html":[6,0,3676],
+"da/d81/classspell__random__lightning__visual__effect.html#a62b0ce71caeff96705b15aa240ddd09f":[6,0,3676,2],
+"da/d81/classspell__random__lightning__visual__effect.html#a8bda9327c4244af41c513528ad5c818c":[6,0,3676,0],
+"da/d81/classspell__random__lightning__visual__effect.html#aba5a03c94fa5d87c46a91369875c0ab2":[6,0,3676,1],
 "da/d82/classreload__commandscript.html":[6,0,2479],
 "da/d82/classreload__commandscript.html#a00cf8720f1766bbc6633b19983348a8f":[6,0,2479,2],
 "da/d82/classreload__commandscript.html#a02258ba1e2dbd951a80de2a989e9c462":[6,0,2479,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX257 =
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a2e73fd55dd7e6e658bc6c6623b650732":[6,0,3565,0],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a9aabae3a6c57be9b17394d4a39fe24ec":[6,0,3565,1],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#ac02217c103db141d75377e233e1e4242":[6,0,3565,2],
-"da/d85/boss__kurinnaxx_8cpp.html":[7,0,0,0,1,3,4,8,2],
-"da/d85/boss__kurinnaxx_8cpp.html#a419fef4715b099ba7b3b6713938f47c0":[7,0,0,0,1,3,4,8,2,4],
-"da/d85/boss__kurinnaxx_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,8,2,2],
-"da/d85/boss__kurinnaxx_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,8,2,2,2],
-"da/d85/boss__kurinnaxx_8cpp.html#a5bd342133be8c2137b831460acc9298ca397012fccbcf2bdcf5ce7bd83c3c29b7":[7,0,0,0,1,3,4,8,2,2,3],
-"da/d85/boss__kurinnaxx_8cpp.html#a5bd342133be8c2137b831460acc9298ca534f224859df40ae579b9f93995e5c27":[7,0,0,0,1,3,4,8,2,2,4]
+"da/d85/boss__kurinnaxx_8cpp.html":[7,0,0,0,1,3,4,8,2]
 };

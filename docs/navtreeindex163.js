@@ -1,5 +1,10 @@
 var NAVTREEINDEX163 =
 {
+"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,791,0],
+"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#a6e87b98e89748585a9f28c6f0e3a85e9":[6,0,791,0,0],
+"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#aebc8edef5f84219e1c50f2394d129443":[6,0,791,0,2],
+"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#afde5311434966ff0459dca8ce0d6b8b0":[6,0,791,0,1],
+"d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html":[6,0,1785,0],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#a8dbe0fc5c84f49363254562166c8c0a7":[6,0,1785,0,1],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#a95c64fbbc97f55e4d0cd0b239939fdc6":[6,0,1785,0,0],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#ae0abd3d7fcb51ac02f8d325efa93b2f2":[6,0,1785,0,3],
@@ -185,10 +190,10 @@ var NAVTREEINDEX163 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[6,0,2728,3],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[6,0,2728,0],
 "d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[6,0,2728,6],
-"d6/d0f/classspell__warr__rend.html":[6,0,3972],
-"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,3972,1],
-"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,3972,0],
-"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,3972,2],
+"d6/d0f/classspell__warr__rend.html":[6,0,3973],
+"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,3973,1],
+"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,3973,0],
+"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,3973,2],
 "d6/d0f/structContainerUnorderedMap.html":[6,0,899],
 "d6/d0f/structContainerUnorderedMap.html#ab18c6fa467deee7af0db888ab94d0ba7":[6,0,899,0],
 "d6/d11/magisters__terrace_8h.html":[7,0,0,0,1,3,2,5,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[7,0,0,0,1,3,5,17,24],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62a26852ea5db6655cbfc7033e4de72b535":[7,0,0,0,1,3,5,17,24,0],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62ad3f0ab909e9486b235f8fc23c15de68e":[7,0,0,0,1,3,5,17,24,1],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3da":[7,0,0,0,1,3,5,17,17],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa0d58f2c3153219911b257703fa08cac3":[7,0,0,0,1,3,5,17,17,3],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa1148084d58e9bb6c6d61d7043e5b13be":[7,0,0,0,1,3,5,17,17,5],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa13104a6019dae8b314e3d0bec3c9bad2":[7,0,0,0,1,3,5,17,17,11],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa2faed7074665fa969751c0182305fb63":[7,0,0,0,1,3,5,17,17,1],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa593e7932c30f1ecb427e6ee6caaaab36":[7,0,0,0,1,3,5,17,17,6]
+"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3da":[7,0,0,0,1,3,5,17,17]
 };

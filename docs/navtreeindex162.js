@@ -1,5 +1,10 @@
 var NAVTREEINDEX162 =
 {
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae56554d30e9de7644efab891555c57e0":[6,0,1718,0,2],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae6f0b271478aecf7fd1f3e1c733d77f0":[6,0,1718,0,3],
+"d5/dfc/classSOAPCommand.html":[6,0,2559],
+"d5/dfc/classSOAPCommand.html#a116d4a9d85c536ca3866bf340b64b9d9":[6,0,2559,2],
+"d5/dfc/classSOAPCommand.html#a18310d831429b084dc5cbf6310195001":[6,0,2559,3],
 "d5/dfc/classSOAPCommand.html#a251a0999a4b74ca8db7bbaa634f1d361":[6,0,2559,4],
 "d5/dfc/classSOAPCommand.html#a56d5e1a4b0e3abb0284c668e175a8d4b":[6,0,2559,0],
 "d5/dfc/classSOAPCommand.html#a69a3287df41392488dbcb1be2f0349f3":[6,0,2559,5],
@@ -29,8 +34,8 @@ var NAVTREEINDEX162 =
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[7,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,2,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a7ea3de40dfd638db7e34c523a0461335":[6,0,597,0,10],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a957bd38232c020611fc24dd8a6e55640":[6,0,597,0,2],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a9974fc771b3663878964aeb20914fe43":[6,0,597,0,4],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,597,0,5],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,791,0],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#a6e87b98e89748585a9f28c6f0e3a85e9":[6,0,791,0,0],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#aebc8edef5f84219e1c50f2394d129443":[6,0,791,0,2],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#afde5311434966ff0459dca8ce0d6b8b0":[6,0,791,0,1],
-"d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html":[6,0,1785,0]
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,597,0,5]
 };
