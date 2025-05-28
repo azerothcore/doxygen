@@ -1,11 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d7/d46/classAuraEffect.html#ab48ade74cc824d2ae0e326948c867ece":[6,0,281,44],
-"d7/d46/classAuraEffect.html#ab4c3dba7effbc5735869a7a49ca39005":[6,0,281,120],
-"d7/d46/classAuraEffect.html#ab8c4811ced24cbd9b4afff1c22fbb1b0":[6,0,281,25],
-"d7/d46/classAuraEffect.html#ab8c7fb50eac3482a162cbbacd64f1625":[6,0,281,235],
-"d7/d46/classAuraEffect.html#aba194c9071a1b0551768b397abc9ebeb":[6,0,281,221],
-"d7/d46/classAuraEffect.html#abc3f0fbe56a3974699db0056eed45664":[6,0,281,211],
 "d7/d46/classAuraEffect.html#abd6a595444acecc12c84820cc3f86865":[6,0,281,78],
 "d7/d46/classAuraEffect.html#abf1a9e6c5d480b4a72634fd4d489c81f":[6,0,281,185],
 "d7/d46/classAuraEffect.html#abfe708f78779cd14750387b72c516b33":[6,0,281,154],
@@ -209,10 +203,10 @@ var NAVTREEINDEX189 =
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,47,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1047,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX189 =
 "d7/d53/classspell__kaelthas__flame__strike.html":[6,0,3296],
 "d7/d53/classspell__kaelthas__flame__strike.html#a17e8be131f01b2434b18740b20a08d6e":[6,0,3296,3],
 "d7/d53/classspell__kaelthas__flame__strike.html#aba7e1a0b87607386649bb842b5058c3e":[6,0,3296,0],
-"d7/d53/classspell__kaelthas__flame__strike.html#ac2f7a4532f62fb49f54c60b79aceb2e8":[6,0,3296,1]
+"d7/d53/classspell__kaelthas__flame__strike.html#ac2f7a4532f62fb49f54c60b79aceb2e8":[6,0,3296,1],
+"d7/d53/classspell__kaelthas__flame__strike.html#ac62b18eedbadb0b3581d772909175e96":[6,0,3296,2],
+"d7/d53/structboss__cthun.html":[6,0,412],
+"d7/d53/structboss__cthun.html#a04ae38b67d358f1d34820b855aab3869":[6,0,412,1],
+"d7/d53/structboss__cthun.html#a05bab8427cd4b4bfa50aee450e423f98":[6,0,412,4],
+"d7/d53/structboss__cthun.html#a139de83ae488c40d40a4587509cd197d":[6,0,412,8],
+"d7/d53/structboss__cthun.html#a287ee7b65708971e4fdfa7b814486935":[6,0,412,0]
 };

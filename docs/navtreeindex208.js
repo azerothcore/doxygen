@@ -1,11 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,0,5,4,0],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4f776a9f44c506399528b3edc1023f9c":[7,0,0,0,1,3,7,2,0,5,4,7],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,0,5,4,3],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,2,0,5,4,1],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad4f880193951a82c89d969ea1378dada":[7,0,0,0,1,3,7,2,0,5,4,2],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af50336d23753ad292a83d9eef01d1638":[7,0,0,0,1,3,7,2,0,5,4,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,5,3],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca030b841724ccf07ccbdcc86568a6c763":[7,0,0,0,1,3,7,2,0,5,3,10],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca28494a79e9aeab976661d13564d078cd":[7,0,0,0,1,3,7,2,0,5,3,5],
@@ -143,10 +137,10 @@ var NAVTREEINDEX208 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[6,0,1810,0,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX208 =
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ac8d54331ac60e252b09c9ca9d10e5d2b":[7,0,0,0,1,3,9,12,31,4],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad275532dfb8b01a04af39f8f333125f4":[7,0,0,0,1,3,9,12,31,24],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad5de1a56b0253c8fe37933a4a816616d":[7,0,0,0,1,3,9,12,31,18],
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ae04cc461efc31f2bd955feb06e5cb2b9":[7,0,0,0,1,3,9,12,31,19]
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ae04cc461efc31f2bd955feb06e5cb2b9":[7,0,0,0,1,3,9,12,31,19],
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af0eb8067f814fe86f0cb1418cdce7571":[7,0,0,0,1,3,9,12,31,21],
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af8b1d4445a94577776bf6fc435c834e8":[7,0,0,0,1,3,9,12,31,14],
+"d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0":[7,0,0,0,1,3,9,12,27],
+"d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9":[7,0,0,0,1,3,9,12,27,0],
+"d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88":[7,0,0,0,1,3,9,12,27,1],
+"d8/d08/spell__warrior_8cpp.html#a9c003dba1ff10c2e27f5ee3d4109549f":[7,0,0,0,1,3,9,12,32]
 };

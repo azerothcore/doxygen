@@ -1,11 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[6,0,644,0],
-"d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[6,0,644,3],
-"d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[6,0,644,1],
-"d8/deb/SpellAuraEffects_8h.html":[7,0,0,0,1,2,41,0,2],
-"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354":[7,0,0,0,1,2,41,0,2,3],
-"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf":[7,0,0,0,1,2,41,0,2,3,2],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa":[7,0,0,0,1,2,41,0,2,3,1],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5":[7,0,0,0,1,2,41,0,2,3,0],
 "d8/deb/SpellAuraEffects_8h.html#a9e98d9a1c1cc41922f386b184fd7ce67":[7,0,0,0,1,2,41,0,2,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX227 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa346cbaded883bbb3806acf9cb32579a":[6,0,445,0,2],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aa68ece744a21ed2ef8d3e7c4b4081d8e":[6,0,445,0,10],
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#ad380838dbb6c2a3488fa57f2999e137c":[6,0,445,0,4],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0]
+"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,445,0,0],
+"d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
+"d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
+"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,120],
+"d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,120,1]
 };

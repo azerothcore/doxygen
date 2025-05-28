@@ -1,17 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a21826a5b3d8968db75dc26321e7dc67d":[7,0,0,0,1,2,48,0,4,26],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2270e96a0d3edc3ab4c540985a788d4e":[7,0,0,0,1,2,48,0,4,74],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2653821ed44b9dc89776232c136253bd":[7,0,0,0,1,2,48,0,4,37],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76":[7,0,0,0,1,2,48,0,4,14],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a290ab8e560e2bcdd3bdf64396ef4c823":[7,0,0,0,1,2,48,0,4,70],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a29dade96defe28bfe03bf60912b8b861":[7,0,0,0,1,2,48,0,4,117],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2a5aafdff81b0fa6b5492a7b9b1c7735":[7,0,0,0,1,2,48,0,4,115],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2ccbc81fa1b948fefd464148856da95a":[7,0,0,0,1,2,48,0,4,102],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2da2ed1cdeab6b9d8b9ba79721526602":[7,0,0,0,1,2,48,0,4,65],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a2e4d803c657e87a4701242dac020cdac":[7,0,0,0,1,2,48,0,4,114],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a3043224d683ce2e85246774d01e1628b":[7,0,0,0,1,2,48,0,4,12],
-"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a32a0ca8413f65d1bd036e62933903384":[7,0,0,0,1,2,48,0,4,22],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a348eba054e85517a5fcb009355d7556f":[7,0,0,0,1,2,48,0,4,42],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a38b76dc59ad1adbdab47e57d47ed67f2":[7,0,0,0,1,2,48,0,4,84],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a39d6640f61b766a8445258414acbc95c":[7,0,0,0,1,2,48,0,4,91],
@@ -249,5 +237,17 @@ var NAVTREEINDEX68 =
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22a7ebec96c9df65f983e061125cf05b233":[7,0,0,0,1,3,4,10,1,1,0],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,4,10,1,1,5],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22aa445c99c57fb39a2b21b185a4e4ad552":[7,0,0,0,1,3,4,10,1,1,6],
-"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22aa54d88737333ea9a7d205dbcb5b4911f":[7,0,0,0,1,3,4,10,1,1,7]
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22aa54d88737333ea9a7d205dbcb5b4911f":[7,0,0,0,1,3,4,10,1,1,7],
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22abeb79b00f5fc2e9f9092248b97b40830":[7,0,0,0,1,3,4,10,1,1,1],
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ac694bbdb12357598e4ecbc3c73701559":[7,0,0,0,1,3,4,10,1,1,8],
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae00882057d559f1decbe5d4c3b1fb041":[7,0,0,0,1,3,4,10,1,1,4],
+"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae688ed1c8bf1558a6ce589efc30b1abf":[7,0,0,0,1,3,4,10,1,1,9],
+"d2/d7b/classspell__dk__hungering__cold.html":[6,0,2750],
+"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[6,0,2750,2],
+"d2/d7b/classspell__dk__hungering__cold.html#a2f42e70482f71a4c275f70897b90ed72":[6,0,2750,1],
+"d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e":[6,0,2750,0],
+"d2/d7c/ServerPktHeader_8h.html":[7,0,0,0,1,2,39,1,4],
+"d2/d7c/classboss__jaraxxus.html":[6,0,552],
+"d2/d7c/classboss__jaraxxus.html#a518f7af9f86ab995e5195175b5a34bc6":[6,0,552,2],
+"d2/d7c/classboss__jaraxxus.html#a82cf0601aa16893d88d9b669a6d1fc72":[6,0,552,1]
 };

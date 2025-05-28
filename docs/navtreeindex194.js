@@ -1,15 +1,9 @@
 var NAVTREEINDEX194 =
 {
-"d7/d94/structmap__liquidHeader.html#abc57f9e6c2f9fae58f575d8e1309f420":[6,0,1474,7],
-"d7/d94/structmap__liquidHeader.html#ae4f34f9b8139b18416862bcd413f4aaa":[6,0,1474,4],
-"d7/d95/Resolver_8h.html":[7,0,0,0,0,0,4],
-"d7/d95/classPoolMgr.html":[6,0,2418],
-"d7/d95/classPoolMgr.html#a0507f5d6e02d54d69672158046d58889":[6,0,2418,3],
-"d7/d95/classPoolMgr.html#a050879176e76af42d4655703216399ba":[6,0,2418,6],
 "d7/d95/classPoolMgr.html#a1d50c2070261d0a92b9db89d99805d57":[6,0,2418,5],
 "d7/d95/classPoolMgr.html#a25cfdfbe1e55e13bc54db6793f74637d":[6,0,2418,11],
-"d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2418,15],
 "d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2418,16],
+"d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2418,15],
 "d7/d95/classPoolMgr.html#a2ad8dead6e22788d2837e7c924d1105b":[6,0,2418,28],
 "d7/d95/classPoolMgr.html#a386ce51b39f64942ccda8a3599cead5d":[6,0,2418,13],
 "d7/d95/classPoolMgr.html#a3bd87a76e3167d829c8e4eb06a499b9c":[6,0,2418,14],
@@ -33,8 +27,8 @@ var NAVTREEINDEX194 =
 "d7/d95/classPoolMgr.html#aa9ab94887739eaf9a31be081fc27b6b9":[6,0,2418,19],
 "d7/d95/classPoolMgr.html#aae408a8e1d5e62711f32969047024999":[6,0,2418,27],
 "d7/d95/classPoolMgr.html#ab663ca46d1d21386611d941b92e44982":[6,0,2418,30],
-"d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[6,0,2418,26],
 "d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[6,0,2418,25],
+"d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[6,0,2418,26],
 "d7/d95/classPoolMgr.html#abb7cd094775d8c3a5a43d297758932b3":[6,0,2418,2],
 "d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69":[6,0,2418,37],
 "d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f":[6,0,2418,34],
@@ -249,5 +243,11 @@ var NAVTREEINDEX194 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#acbcecd90533986c2a6185e7a7b5387f0":[6,0,817,0,15],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ad159a5a46ab35f151177b59f32dea649":[6,0,817,0,24],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ade40ddc2750f52942911de204b74bbea":[6,0,817,0,9],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[6,0,817,0,28]
+"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[6,0,817,0,28],
+"d7/d9e/classboss__drakkari__colossus.html":[6,0,425],
+"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[6,0,425,2],
+"d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[6,0,425,1],
+"d7/d9e/classboss__moira__bronzebeard.html":[6,0,619],
+"d7/d9e/classboss__moira__bronzebeard.html#abb9a87023b8afa242e60f9694dea1c39":[6,0,619,0],
+"d7/d9e/classboss__moira__bronzebeard.html#ad99554aac80c79933b78ab4b6d42cc4f":[6,0,619,1]
 };

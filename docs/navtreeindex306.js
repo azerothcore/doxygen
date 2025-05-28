@@ -1,11 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cadc0d5ba0846ff260b96105cd2803742a":[7,0,0,0,1,3,5,7,5,9,6],
-"dc/d70/boss__grobbulus_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[7,0,0,0,1,3,5,7,5,10],
-"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,5,7],
-"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[7,0,0,0,1,3,5,7,5,7,1],
-"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,7,5,7,2],
-"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,5,7,0],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[7,0,0,0,1,3,5,7,5,7,3],
 "dc/d70/classnpc__toc5__grand__champion__minion.html":[6,0,2173],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[6,0,2173,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX306 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a89e506868e3191362545e34d21528b8f":[6,0,1986,0,1],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547":[6,0,1986,0,4],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a":[6,0,1986,0,6],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,1986,0,8]
+"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,1986,0,8],
+"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,1986,0,9],
+"dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,77],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,89],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,77,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,89,2]
 };

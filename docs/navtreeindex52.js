@@ -1,17 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d22/classspell__midsummer__torch__catch.html#a51207fcd4f272e120fe1af2ac78c1f80":[6,0,3416,2],
-"d2/d22/classspell__midsummer__torch__catch.html#a5fc6dae87ffb634cc0de389196751b22":[6,0,3416,3],
-"d2/d22/classspell__midsummer__torch__catch.html#afb79a2cf5359e7ec69746cd89d8cd727":[6,0,3416,1],
-"d2/d22/classspell__pri__mana__burn.html":[6,0,3522],
-"d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[6,0,3522,2],
-"d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[6,0,3522,0],
-"d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3522,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1316,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1316,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1316,0,7],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a07e1ce507a75d11793c1c0ef1e2a344d":[6,0,1316,0,5],
@@ -249,5 +237,17 @@ var NAVTREEINDEX52 =
 "d2/d27/structboss__viscidus.html#a41dd3ce982a180a2ad415b559508f0ff":[6,0,767,0],
 "d2/d27/structboss__viscidus.html#a43df1ee33d5a9b4794b246ce680a6318":[6,0,767,7],
 "d2/d27/structboss__viscidus.html#a528a368eceb55cc7d41d615c6c1ebf15":[6,0,767,1],
-"d2/d27/structboss__viscidus.html#a6a52391b49ba3501a1bb5e8c55f07683":[6,0,767,8]
+"d2/d27/structboss__viscidus.html#a6a52391b49ba3501a1bb5e8c55f07683":[6,0,767,8],
+"d2/d27/structboss__viscidus.html#a7dfb0ba7d90697d3deac263249cfa977":[6,0,767,4],
+"d2/d27/structboss__viscidus.html#ac9153bd98e4c39b63547c3a9a8798d80":[6,0,767,5],
+"d2/d27/structboss__viscidus.html#ad2b4c6835ff113e4a538024f02ff968e":[6,0,767,6],
+"d2/d27/structboss__viscidus.html#adb41e6f64c1fe61cf623539353b0c959":[6,0,767,2],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html":[6,0,3615],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[6,0,3615,2],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[6,0,3615,1],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[6,0,3615,0],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[6,0,1277,0],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a048a2b16ae9917c7edc9bf7023986ac3":[6,0,1277,0,1],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a840ce69595c384be321c1167513d151e":[6,0,1277,0,4],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a8986038a2f25b16b9ab8ba4d41b5221a":[6,0,1277,0,3]
 };

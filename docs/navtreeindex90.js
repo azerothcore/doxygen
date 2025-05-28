@@ -1,17 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
-"d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0],
-"d2/df9/classLichKingMovieEvent.html":[6,0,1407],
-"d2/df9/classLichKingMovieEvent.html#a22d6181fd2651d62dcb6cdbabe0561fe":[6,0,1407,1],
-"d2/df9/classLichKingMovieEvent.html#a3e48e13dc5166c73a9f379045988f86a":[6,0,1407,0],
-"d2/df9/classLichKingMovieEvent.html#a7ed68f442a644d6bb7a036812351d89e":[6,0,1407,2],
-"d2/df9/classspell__boss__salramm__steal__flesh__aura.html":[6,0,2660],
-"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#a2feb8adaad212ee29d9ec6d9957575a4":[6,0,2660,2],
-"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#a73421b82f483e73314dbb862fb0a11c7":[6,0,2660,3],
-"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#a98bf88bd917b441d2ad81716dcd38ec1":[6,0,2660,0],
-"d2/df9/classspell__boss__salramm__steal__flesh__aura.html#ab082adc51983f124d0467cbff63cffb7":[6,0,2660,1],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html":[6,0,1602,0],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a17eb5452fed26a8c4f64dd41b018fe74":[6,0,1602,0,8],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a22ff78f354f7bfcc4bda3eba934a1953":[6,0,1602,0,3],
@@ -249,5 +237,17 @@ var NAVTREEINDEX90 =
 "d3/d08/structSpellModifier.html#a163a81b49cfdeb73236ee930d6f24673":[6,0,4048,5],
 "d3/d08/structSpellModifier.html#a1aaf71299c2dd27b58a049d252efdee8":[6,0,4048,1],
 "d3/d08/structSpellModifier.html#a21d017f0c8d3108a0eb5f48798103356":[6,0,4048,3],
-"d3/d08/structSpellModifier.html#a22f64b9c021f5a87f30f01ef117ebb0b":[6,0,4048,7]
+"d3/d08/structSpellModifier.html#a22f64b9c021f5a87f30f01ef117ebb0b":[6,0,4048,7],
+"d3/d08/structSpellModifier.html#a31742662ba8112c9e9b972897a928e57":[6,0,4048,8],
+"d3/d08/structSpellModifier.html#a465803efab27b2ba0a49c6571b65b908":[6,0,4048,6],
+"d3/d08/structSpellModifier.html#a5e180553fb4739eb7f947da70fbe7ef8":[6,0,4048,4],
+"d3/d08/structSpellModifier.html#aba1b01bf3486d61cc1876b03078a35ee":[6,0,4048,2],
+"d3/d08/structSpellModifier.html#adba5fad6b904d09a43be7302e7eb62bd":[6,0,4048,0],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html":[6,0,1753,0],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a01545211dec4338ac44304ebc7f18a97":[6,0,1753,0,8],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a077c02bf06b16439225a5cf8d83babf2":[6,0,1753,0,2],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a267fec22dc3d7272cae74267d0567618":[6,0,1753,0,4],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a4de89cf4a18918d577be4ac5cc55ba5a":[6,0,1753,0,0],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a64abe15565c7e97a3a0ef195d436fedc":[6,0,1753,0,7],
+"d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc":[6,0,1753,0,6]
 };

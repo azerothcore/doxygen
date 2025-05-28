@@ -1,11 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6273b024ebde2fb36ed79eb122f7ac68":[6,0,1784,0,4],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6308aadc8ebf41cf045b04ac58e2244b":[6,0,1784,0,6],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a65d304edd3b00b4a45c58bf36b926900":[6,0,1784,0,3],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a82932e9f2d570fa6d8394bfd3954c41e":[6,0,1784,0,8],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a9075d763014ca50b4e0d2c815e1c23b7":[6,0,1784,0,2],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#afbc2f3d88173e240b87915cf0520b3cf":[6,0,1784,0,0],
 "d9/d16/ArenaSpectator_8cpp.html":[7,0,0,0,1,2,4,0],
 "d9/d16/structMetricData.html":[6,0,1494],
 "d9/d16/structMetricData.html#a09832a09e989c3851e72f4ec198f0e20":[6,0,1494,6],
@@ -205,10 +199,10 @@ var NAVTREEINDEX230 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3216,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3216,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3216,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,30,9,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,30,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX230 =
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a2f920922f8c6f1a878d0e4978e081257":[6,0,2085,0,5],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a83c5e32659d38a513790322e46dcc283":[6,0,2085,0,0],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a8ee22a276535a3a9c2f12a62e984d55b":[6,0,2085,0,6],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#aa470197f0949a413c421bda8c7c09279":[6,0,2085,0,1]
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#aa470197f0949a413c421bda8c7c09279":[6,0,2085,0,1],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2085,0,3],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ac37287a77e37785b606c742ff8d6eeeb":[6,0,2085,0,4],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#add19812d92d62b602f96ffc5fb513d6c":[6,0,2085,0,2],
+"d9/d2d/zone__desolace_8cpp.html":[7,0,0,0,1,3,4,19],
+"d9/d2d/zone__desolace_8cpp.html#a626ec1db47701aabca9f7bda1c8b7c7a":[7,0,0,0,1,3,4,19,6],
+"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728":[7,0,0,0,1,3,4,19,4]
 };

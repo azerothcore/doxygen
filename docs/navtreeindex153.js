@@ -1,17 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[6,0,9,27,8],
-"d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[5,0,27,27,8],
-"d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[5,0,27,27,10],
-"d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[6,0,9,27,10],
-"d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[6,0,9,27,1],
-"d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,27,27,1],
-"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,9,27,9],
-"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,27,27,9],
-"d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1955],
-"d5/db0/structnpc__midsummer__bonfire__despawner.html#aacb82b08ec0fef0f53d7e251e010abd8":[6,0,1955,0],
-"d5/db2/BattlegroundWS_8h.html":[7,0,0,0,1,2,8,1,21],
-"d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0":[7,0,0,0,1,2,8,1,21,5],
 "d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0a02eaf89f2607dfe9d7b222d7a142642d":[7,0,0,0,1,2,8,1,21,5,2],
 "d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0a894046e91503d915c4d7f722ed988e6a":[7,0,0,0,1,2,8,1,21,5,1],
 "d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0afa30eb723a0561b597261f3fd8a12ade":[7,0,0,0,1,2,8,1,21,5,0],
@@ -249,5 +237,17 @@ var NAVTREEINDEX153 =
 "d5/db6/classWheatyExceptionReport.html#ab19d2eafd05c3853bd884a909ff12039":[6,0,4230,36],
 "d5/db6/classWheatyExceptionReport.html#ab215dff57975ebae623e27d690969deb":[6,0,4230,30],
 "d5/db6/classWheatyExceptionReport.html#ab5e938fa100c4c7288b808f511ede6cf":[6,0,4230,4],
-"d5/db6/classWheatyExceptionReport.html#ab9372612f9fea89a99cea5eefd6c1b45":[6,0,4230,26]
+"d5/db6/classWheatyExceptionReport.html#ab9372612f9fea89a99cea5eefd6c1b45":[6,0,4230,26],
+"d5/db6/classWheatyExceptionReport.html#ab9413a8b0c79259c0a857050a61618b8":[6,0,4230,21],
+"d5/db6/classWheatyExceptionReport.html#ab9866626b0f638ed7a0ed86cfd11106b":[6,0,4230,0],
+"d5/db6/classWheatyExceptionReport.html#abd65e937dfadd082d69c9fbbe0e13d83":[6,0,4230,17],
+"d5/db6/classWheatyExceptionReport.html#ac8e24040657d06faa610f8648365b432":[6,0,4230,23],
+"d5/db6/classWheatyExceptionReport.html#ac920ff7c86e02672414a10120d49c58b":[6,0,4230,1],
+"d5/db6/classWheatyExceptionReport.html#aca75a37502aa7a75f775913ba12025a9":[6,0,4230,13],
+"d5/db6/classWheatyExceptionReport.html#ad6bfb8f5159fa3b9da8503d7bf852874":[6,0,4230,11],
+"d5/db6/classWheatyExceptionReport.html#ad6dea599b1937f0e004bcb7c41eab08a":[6,0,4230,7],
+"d5/db6/classWheatyExceptionReport.html#ae08f5026ea58433283c8154c357ed020":[6,0,4230,20],
+"d5/db6/classWheatyExceptionReport.html#ae95bcebc09b9e81a5c75c39a1fe3f646":[6,0,4230,38],
+"d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[6,0,4230,25],
+"d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[6,0,4230,24]
 };

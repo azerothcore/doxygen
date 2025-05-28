@@ -1,11 +1,5 @@
 var NAVTREEINDEX294 =
 {
-"db/df7/structnpc__twilight__volunteer.html#ad58453e078520fa23238a96115e5f38f":[6,0,2201,8],
-"db/df7/structnpc__twilight__volunteer.html#ad8cc52c1462d7adbfbe566c55c0ed244":[6,0,2201,6],
-"db/df7/structnpc__twilight__volunteer.html#ae95bcb02ee4f0ead76e249de0cba2d88":[6,0,2201,2],
-"db/df8/AuctionHouseSearcher_8cpp.html":[7,0,0,0,1,2,5,2],
-"db/df8/classAuraRemoveEvent.html":[6,0,283],
-"db/df8/classAuraRemoveEvent.html#a094b9437c7cadb465738daf5684c9725":[6,0,283,0],
 "db/df8/classAuraRemoveEvent.html#a14ac906a0fcff86f61983c570b0bd6ad":[6,0,283,1],
 "db/df8/classAuraRemoveEvent.html#a6fad41839e07e9545859be7c3afcfc36":[6,0,283,2],
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[6,0,283,3],
@@ -249,5 +243,11 @@ var NAVTREEINDEX294 =
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dade1a3bebfdcf08232b4fbf12b11de8a1":[7,0,0,0,1,3,9,8,97,0],
 "db/dfb/structnpc__ashtongue__sorcerer.html":[6,0,1607],
 "db/dfb/structnpc__ashtongue__sorcerer.html#a0045af5cfbfcd2f26bcde2e2dffd04a6":[6,0,1607,0],
-"db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[6,0,1607,1]
+"db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[6,0,1607,1],
+"db/dfb/structnpc__wounded__skirmisher.html":[6,0,2281],
+"db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[6,0,2281,0],
+"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[6,0,2281,5],
+"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[6,0,2281,2],
+"db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[6,0,2281,4],
+"db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[6,0,2281,3]
 };

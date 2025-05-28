@@ -1,11 +1,5 @@
 var NAVTREEINDEX218 =
 {
-"d8/d74/classWorldSession.html#af780fe6265d6efe063e51344fe1b88ee":[4,1,19,599],
-"d8/d74/classWorldSession.html#af7c7d0838a7eb230a865d0fa7c2eb7b5":[4,1,19,285],
-"d8/d74/classWorldSession.html#af8220799f0f3f2de469fd70c18da9233":[4,1,19,447],
-"d8/d74/classWorldSession.html#af860fb1677cec634ba36493adf4d888b":[4,1,19,58],
-"d8/d74/classWorldSession.html#af8ff6a72abdc7c81443fe6b5b131b100":[4,1,19,113],
-"d8/d74/classWorldSession.html#af976d45789b79a2108373aa1fede3bde":[4,1,19,353],
 "d8/d74/classWorldSession.html#af995a3e38e41ed0b6f0b39d3c37501cf":[4,1,19,238],
 "d8/d74/classWorldSession.html#afadd4de0c271375408e4d5d5da9d65d1":[4,1,19,56],
 "d8/d74/classWorldSession.html#afb28c4e8ad1b6e391834774ff26da23d":[4,1,19,109],
@@ -92,8 +86,8 @@ var NAVTREEINDEX218 =
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,30,5,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,5,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,30,5,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,30,5,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,5,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,30,5,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1568],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1568,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1568,7],
@@ -249,5 +243,11 @@ var NAVTREEINDEX218 =
 "d8/d82/boss__nightbane_8cpp.html#aab072245ab577ff0e12efe20a536b99aadafe9cfa7e56c42fc1db09814712d7a7":[7,0,0,0,1,3,2,4,6,5,0],
 "d8/d82/boss__nightbane_8cpp.html#aab072245ab577ff0e12efe20a536b99aae24a94bb64f545d667eefe35a36a1c0f":[7,0,0,0,1,3,2,4,6,5,2],
 "d8/d82/boss__nightbane_8cpp.html#ab2b60a98a586a89ef7f3da6cc38c1062":[7,0,0,0,1,3,2,4,6,11],
-"d8/d82/boss__nightbane_8cpp.html#ae52f8e37684a206199a3b8d7dd49e883":[7,0,0,0,1,3,2,4,6,13]
+"d8/d82/boss__nightbane_8cpp.html#ae52f8e37684a206199a3b8d7dd49e883":[7,0,0,0,1,3,2,4,6,13],
+"d8/d82/boss__nightbane_8cpp.html#aed5e8ee114671437d9ddbd2f2a67dbb0":[7,0,0,0,1,3,2,4,6,17],
+"d8/d82/boss__nightbane_8cpp.html#affecebd0decee1f5a80083c6841866f3":[7,0,0,0,1,3,2,4,6,18],
+"d8/d82/structAchievementCategoryEntry.html":[6,0,108],
+"d8/d82/structAchievementCategoryEntry.html#a4a79da5825cf01d38d6ab9d98e033964":[6,0,108,0],
+"d8/d82/structAchievementCategoryEntry.html#a705e301dff461a8d7aefdc6fb29d39cc":[6,0,108,1],
+"d8/d83/blackwing__lair_8h.html":[7,0,0,0,1,3,2,1,2,0]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea812240450bf07c5c29c219d953665fa5":[7,0,0,0,1,3,3,1,44,8],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea82564c43d592033e9e8bfc6181450928":[7,0,0,0,1,3,3,1,44,0],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8eadddc942268210bdb243ecdb59e76fb74":[7,0,0,0,1,3,3,1,44,3],
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1f":[7,0,0,0,1,3,3,1,42],
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa4010b39236a9ad1f180684eac57e2b1e":[7,0,0,0,1,3,3,1,42,2],
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9":[7,0,0,0,1,3,3,1,42,1],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1faeeed8e128d71d3a9cbd05ac752f558c6":[7,0,0,0,1,3,3,1,42,0],
 "dc/ddf/brewfest_8cpp.html#ae08d67fac7772287f656a8ac94adbfb1":[7,0,0,0,1,3,3,1,46],
 "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5":[7,0,0,0,1,3,3,1,33],
@@ -249,5 +243,11 @@ var NAVTREEINDEX314 =
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fabc9c40dc0af7f41d9c7faee582d29b6c":[7,0,0,0,1,3,2,6,0,29,3],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faf7869e3c172821b608232b96cfd85de2":[7,0,0,0,1,3,2,6,0,29,11],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faffa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,2,6,0,29,6],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea":[7,0,0,0,1,3,2,6,0,33]
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea":[7,0,0,0,1,3,2,6,0,33],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de":[7,0,0,0,1,3,2,6,0,33,13],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa30d92ed248e378855ae8f010ec5ba4d2":[7,0,0,0,1,3,2,6,0,33,5],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa4f54632ae3be4eb64f3f3ece0c7bdedf":[7,0,0,0,1,3,2,6,0,33,10],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa6cf3418a81513654d1e6841caceceddf":[7,0,0,0,1,3,2,6,0,33,3],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa81a25ea53d44491eb4e7208865f692fe":[7,0,0,0,1,3,2,6,0,33,2],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa863a5889a853d731d7f72f374f27ef70":[7,0,0,0,1,3,2,6,0,33,12]
 };

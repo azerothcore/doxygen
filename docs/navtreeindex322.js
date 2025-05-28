@@ -1,11 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dd/d3b/structGameObjectTemplate.html#ab721121a5a2c21ce004cbc5b07e4a100":[6,0,1084,119],
-"dd/d3b/structGameObjectTemplate.html#ab7a8873515fa4faa04b439cc799b31b4":[6,0,1084,42],
-"dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0":[6,0,1084,148],
-"dd/d3b/structGameObjectTemplate.html#ab8cf64793c6d29fbaa50b490b7e68945":[6,0,1084,70],
-"dd/d3b/structGameObjectTemplate.html#ab9dc75f7bed6b6451c8f0eba231dbf31":[6,0,1084,58],
-"dd/d3b/structGameObjectTemplate.html#aba1538c08713a616500b51650896cd5b":[6,0,1084,91],
 "dd/d3b/structGameObjectTemplate.html#abaa8305304efc7c2b2c4e34e193b7f49":[6,0,1084,116],
 "dd/d3b/structGameObjectTemplate.html#abaca379bf55b3a1d2843b24dc193ddf3":[6,0,1084,52],
 "dd/d3b/structGameObjectTemplate.html#abc044a33c919fe62357529acaa86db8a":[6,0,1084,123],
@@ -89,8 +83,8 @@ var NAVTREEINDEX322 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
@@ -206,8 +200,8 @@ var NAVTREEINDEX322 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
@@ -249,5 +243,11 @@ var NAVTREEINDEX322 =
 "dd/d4a/classspell__eredar__twins__handle__touch.html":[6,0,2843],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a07973000e8a4b0ff66d4f4d1fd9f327e":[6,0,2843,1],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[6,0,2843,0],
-"dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2843,2]
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2843,2],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[6,0,2843,3],
+"dd/d4c/TemporarySummon_8cpp.html":[7,0,0,0,1,2,16,1,8],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html":[6,0,3741],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a35d58947074659d2692877dfcf13e4bd":[6,0,3741,0],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a527213b389be9b1953f423ae84eb16ee":[6,0,3741,3],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[6,0,3741,7]
 };

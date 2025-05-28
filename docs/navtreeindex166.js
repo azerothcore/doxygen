@@ -1,11 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"d6/d26/classBattlefield.html#a4afc0154d583a0d185deef8b779c3c04":[6,0,307,15],
-"d6/d26/classBattlefield.html#a4b6a3141fb9fc3c69a362653eff77a29":[6,0,307,81],
-"d6/d26/classBattlefield.html#a4f205795863fa9d6cb1b53d685621b6c":[6,0,307,70],
-"d6/d26/classBattlefield.html#a4f41bb2af633b95615c0b55a31a528f1":[6,0,307,36],
-"d6/d26/classBattlefield.html#a505d37f7c94cc081d9d3b8db1d362220":[6,0,307,68],
-"d6/d26/classBattlefield.html#a536403dc8cb245f3ef82ccf53f056fed":[6,0,307,59],
 "d6/d26/classBattlefield.html#a539790945164e07d034e02f554a060b6":[6,0,307,105],
 "d6/d26/classBattlefield.html#a56bee2606646b2cf306f35ef3b515494":[6,0,307,92],
 "d6/d26/classBattlefield.html#a58c82a0d241228d076c5cb3e1362d2db":[6,0,307,13],
@@ -226,10 +220,10 @@ var NAVTREEINDEX166 =
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,30,8,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,8,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,30,8,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,30,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,8,0,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,30,8,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,11,8,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,30,8,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2421,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[6,0,2421,1,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2421,1,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX166 =
 "d6/d2f/classachievement__hadronox__denied.html#a0ee9c8fb90a43bc011c75026d6bcc2e5":[6,0,57,1],
 "d6/d2f/classachievement__hadronox__denied.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0":[6,0,57,0],
 "d6/d30/classspell__q9874__liquid__fire.html":[6,0,3668],
-"d6/d30/classspell__q9874__liquid__fire.html#a1abe1e04be6b6c410e0ff273d8aa15c9":[6,0,3668,0]
+"d6/d30/classspell__q9874__liquid__fire.html#a1abe1e04be6b6c410e0ff273d8aa15c9":[6,0,3668,0],
+"d6/d30/classspell__q9874__liquid__fire.html#a1de981482ebb05b8507b308dba7a426b":[6,0,3668,3],
+"d6/d30/classspell__q9874__liquid__fire.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c":[6,0,3668,1],
+"d6/d30/classspell__q9874__liquid__fire.html#aeffcc8db6125a35227545911fa03a850":[6,0,3668,2],
+"d6/d30/classspell__ulduar__stone__grip__aura.html":[6,0,3890],
+"d6/d30/classspell__ulduar__stone__grip__aura.html#a0be1d9a7dcba0bff75d59aed926efe55":[6,0,3890,1],
+"d6/d30/classspell__ulduar__stone__grip__aura.html#a3166cfcd2acdcd4460217503d4008367":[6,0,3890,2]
 };

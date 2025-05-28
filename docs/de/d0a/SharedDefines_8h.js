@@ -16,6 +16,7 @@ var SharedDefines_8h =
     [ "MAX_CHAT_MSG_TYPE", "de/d0a/SharedDefines_8h.html#a5ee700eeb3fcc1390f2699f3c36d9607", null ],
     [ "MAX_CLASSES", "de/d0a/SharedDefines_8h.html#aa322a61b17e1d56852d53d5ef6a728c6", null ],
     [ "MAX_GAMEOBJECT_DATA", "de/d0a/SharedDefines_8h.html#a962c26ac4675eea425204ea81777d451", null ],
+    [ "MAX_GAMEOBJECT_SLOT", "de/d0a/SharedDefines_8h.html#ade53bea144a3ee3d7b4029608476cea8", null ],
     [ "MAX_GAMEOBJECT_TYPE", "de/d0a/SharedDefines_8h.html#a6eae8e849308352a3006cfcdc0773fb9", null ],
     [ "MAX_GLYPH_SLOT_INDEX", "de/d0a/SharedDefines_8h.html#a81bad32063c8fa96f892b95fbcb156ca", null ],
     [ "MAX_ITEM_QUALITY", "de/d0a/SharedDefines_8h.html#a8b7f3e9bd0473c61e8fd7bb42b24faaa", null ],
@@ -28,6 +29,7 @@ var SharedDefines_8h =
     [ "MAX_SPILLOVER_FACTIONS", "de/d0a/SharedDefines_8h.html#afac307c17fe23879738ebb77d43ad4b7", null ],
     [ "MAX_STATS", "de/d0a/SharedDefines_8h.html#a0f8923f02eb7dfba43a426b8320354da", null ],
     [ "MAX_TALENT_SPECS", "de/d0a/SharedDefines_8h.html#a20121875e2e4c97a19ccd838f420aa63", null ],
+    [ "MAX_TOTEM_SLOT", "de/d0a/SharedDefines_8h.html#aa1b5c5e153101987fcbf9000907e2a81", null ],
     [ "MAX_TRAINER_TYPE", "de/d0a/SharedDefines_8h.html#ae4c3ac2deaad5a75f25ea1fc34dc3e0f", null ],
     [ "MAX_WEATHER_TYPE", "de/d0a/SharedDefines_8h.html#a998b287aec78d72633142b2331baf958", null ],
     [ "MIN_REPUTATION_RANK", "de/d0a/SharedDefines_8h.html#a37ec5c9991b7291bce7ffa92f82534e1", null ],
@@ -2731,6 +2733,16 @@ var SharedDefines_8h =
       [ "SUMMON_CATEGORY_PUPPET", "de/d0a/SharedDefines_8h.html#aec2f46e883369a535607f981c323c094aa76a66dce2872abc044d17e200c999e5", null ],
       [ "SUMMON_CATEGORY_VEHICLE", "de/d0a/SharedDefines_8h.html#aec2f46e883369a535607f981c323c094a89efca298467764d2790d5351728a385", null ],
       [ "SUMMON_CATEGORY_UNK", "de/d0a/SharedDefines_8h.html#aec2f46e883369a535607f981c323c094ad94d1ee8d5022c638a2b9a4390e5cd2d", null ]
+    ] ],
+    [ "SummonSlot", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05", [
+      [ "SUMMON_SLOT_PET", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05ada56735093705f1e54e644e42a7e390a", null ],
+      [ "SUMMON_SLOT_TOTEM_FIRE", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05aa68d8d607115122518ca8c7ea65b4be5", null ],
+      [ "SUMMON_SLOT_TOTEM_EARTH", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05a5e23fcd1a326eaff445af6466add16d4", null ],
+      [ "SUMMON_SLOT_TOTEM_WATER", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05aefb19bbda54fc10557a8f26d52b64d6c", null ],
+      [ "SUMMON_SLOT_TOTEM_AIR", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05a5e942004a69d22ef23f59e253b73e614", null ],
+      [ "SUMMON_SLOT_MINIPET", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05a6b9919c86544788b529ff67d56bc259e", null ],
+      [ "SUMMON_SLOT_QUEST", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05a18d8be25d58a24bbe7793dd24513651c", null ],
+      [ "MAX_SUMMON_SLOT", "de/d0a/SharedDefines_8h.html#ab26772dd73e49bb39f90dbc541536d05a5d9696a8d3aec6953801a3c3a53eb712", null ]
     ] ],
     [ "SummonType", "de/d0a/SharedDefines_8h.html#a839e74faedbcc472cd6a757aab737113", [
       [ "SUMMON_TYPE_NONE", "de/d0a/SharedDefines_8h.html#a839e74faedbcc472cd6a757aab737113a9a724f4b102cb7664cdc69e5ffa3f2e1", null ],

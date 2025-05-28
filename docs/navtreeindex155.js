@@ -1,17 +1,5 @@
 var NAVTREEINDEX155 =
 {
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a26648cba8fe7c1497b619e4fdbd78cc9":[6,0,534,0,27],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a2bb2c2c760aa5f0af3599ee1e67750b8":[6,0,534,0,29],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a2ee21c3600bc0bfb63645a30aebf37be":[6,0,534,0,28],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a362678772d3aa431bda2922489bd076e":[6,0,534,0,12],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a4386e6779b48e13bad5b8113c697fcb2":[6,0,534,0,14],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a5b561e535be05073196a2fcb274d78ed":[6,0,534,0,10],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a611c6b674d990aef090ffc4d046f4e22":[6,0,534,0,18],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a716aa7417356b89a17191330344dee29":[6,0,534,0,3],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a732794d8e9a9654bee92a65091727644":[6,0,534,0,4],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a73285128a5a7bb75f66686d31c0738b0":[6,0,534,0,0],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a82dfa91c49f2b63c2cb841444bffe149":[6,0,534,0,6],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a883a09552c5dffb5c00b3d0fa490ab29":[6,0,534,0,23],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a8cec2ddd8296048271a7c9819e25ac45":[6,0,534,0,15],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a8e291636e61f2c26af1d2b2658355498":[6,0,534,0,7],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a921b19042a09987b8fd78ee5999e5ce4":[6,0,534,0,24],
@@ -249,5 +237,17 @@ var NAVTREEINDEX155 =
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab222376cabd0c738353fa1647276f2b5":[6,0,1284,0,19],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab4dc12b546c573bf5eafd3f26339c265":[6,0,1284,0,11],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aba78c72c1ea64ed7ea5c93fd469568cf":[6,0,1284,0,38],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#abf7e6d5d12f2e2fbc4d88956868055b4":[6,0,1284,0,13]
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#abf7e6d5d12f2e2fbc4d88956868055b4":[6,0,1284,0,13],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac6880ae70ee2c10f6c5b75fa6b4f0096":[6,0,1284,0,31],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac84ecb84dd88f87d748241bd309bf8ea":[6,0,1284,0,16],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac9e7d5d0a420985fb5b72da1a725f7af":[6,0,1284,0,1],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ad0a93114ab4de803888ebde738e6a67e":[6,0,1284,0,0],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ada9e7ef96b4519b3a61a37e8562a7628":[6,0,1284,0,29],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae067b6a41e79d533942265581022379e":[6,0,1284,0,26],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae297cebc14c949ff0dfd38678ecbc9bb":[6,0,1284,0,20],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aec751168cfe4eb6e73dcab9c1711e60a":[6,0,1284,0,21],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af11ea775901923751d9b4bc8fd3c5a6b":[6,0,1284,0,6],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af5aebfd62d13d91e9cea725ac29c4d5e":[6,0,1284,0,42],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af62d430b0a9d08f5a369769c68e107c2":[6,0,1284,0,27],
+"d5/dca/classspell__claw__rage__aura.html":[6,0,2697]
 };

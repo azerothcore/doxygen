@@ -1,11 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/db2/Hyperlinks_8h.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a":[7,0,0,0,1,2,11,5,19],
-"d6/db2/Hyperlinks_8h.html#a7083d48423b83ff39095030678b29877":[7,0,0,0,1,2,11,5,24],
-"d6/db2/Hyperlinks_8h.html#a73cc3b14b22adefd27d34c736cafa480":[7,0,0,0,1,2,11,5,17],
-"d6/db2/Hyperlinks_8h.html#a9990339040b491e108594df755f03a6c":[7,0,0,0,1,2,11,5,27],
-"d6/db2/Hyperlinks_8h.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[7,0,0,0,1,2,11,5,28],
-"d6/db2/Hyperlinks_8h.html#aa0ca4a111a856da9091a377934f8de93":[7,0,0,0,1,2,11,5,26],
 "d6/db2/Hyperlinks_8h.html#aa8156f2996632fd42a2e39b974426995":[7,0,0,0,1,2,11,5,21],
 "d6/db2/Hyperlinks_8h.html#aae3a6cd0fbf426755d93a387882ff767":[7,0,0,0,1,2,11,5,25],
 "d6/db2/Hyperlinks_8h.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[7,0,0,0,1,2,11,5,31],
@@ -56,10 +50,10 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -249,5 +243,11 @@ var NAVTREEINDEX178 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a63dd0623022e2a892930e2db9415f3d7":[7,0,0,0,1,3,7,0,2,2,4],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,7,0,2,2,3],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,0,2,2,3,3],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,2,2,3,1]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,2,2,3,1],
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba6b64138da0b1c3fe73e449c84adb7055":[7,0,0,0,1,3,7,0,2,2,3,4],
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,2,2,3,2],
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,2,2,3,0],
+"d6/dc2/classFileLoader.html":[6,0,1036],
+"d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,3],
+"d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1036,1]
 };

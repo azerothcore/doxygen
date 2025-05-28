@@ -1,11 +1,5 @@
 var NAVTREEINDEX315 =
 {
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de":[7,0,0,0,1,3,2,6,0,33,13],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa30d92ed248e378855ae8f010ec5ba4d2":[7,0,0,0,1,3,2,6,0,33,5],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa4f54632ae3be4eb64f3f3ece0c7bdedf":[7,0,0,0,1,3,2,6,0,33,10],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa6cf3418a81513654d1e6841caceceddf":[7,0,0,0,1,3,2,6,0,33,3],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa81a25ea53d44491eb4e7208865f692fe":[7,0,0,0,1,3,2,6,0,33,2],
-"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa863a5889a853d731d7f72f374f27ef70":[7,0,0,0,1,3,2,6,0,33,12],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa86efefaa2ade6c15b715cedd2dbc2a77":[7,0,0,0,1,3,2,6,0,33,6],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a":[7,0,0,0,1,3,2,6,0,33,1],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546":[7,0,0,0,1,3,2,6,0,33,4],
@@ -147,10 +141,10 @@ var NAVTREEINDEX315 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,758],
@@ -249,5 +243,11 @@ var NAVTREEINDEX315 =
 "dc/dfe/classQuestMenu.html#a08240a8d18dce0cb96db19f54c67dd2c":[6,0,2452,5],
 "dc/dfe/classQuestMenu.html#a14df9b6699c327853121ae032704db8d":[6,0,2452,1],
 "dc/dfe/classQuestMenu.html#a1a850cb70956f299ea91cb0d732ad202":[6,0,2452,4],
-"dc/dfe/classQuestMenu.html#a2338a6fb88c32bfb66fe524a8ffaa0d7":[6,0,2452,6]
+"dc/dfe/classQuestMenu.html#a2338a6fb88c32bfb66fe524a8ffaa0d7":[6,0,2452,6],
+"dc/dfe/classQuestMenu.html#a49279a3943009f2d1475d792c2c3d21a":[6,0,2452,8],
+"dc/dfe/classQuestMenu.html#a60ba5b35499c6a9ed510300d3300421e":[6,0,2452,0],
+"dc/dfe/classQuestMenu.html#a7fe36e4a4acfc66a00f08034c470b5e3":[6,0,2452,7],
+"dc/dfe/classQuestMenu.html#ab3d3881aabe000694acab37a3774507e":[6,0,2452,3],
+"dc/dfe/classQuestMenu.html#ac8735756bbf9f2fa799c505bd740e070":[6,0,2452,2],
+"dc/dfe/classspell__rog__prey__on__the__weak.html":[6,0,3699]
 };

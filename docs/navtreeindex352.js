@@ -1,5 +1,10 @@
 var NAVTREEINDEX352 =
 {
+"de/d1c/classGameObject.html#a23d07cf4bd0d68e9f30112bb34bcc504":[6,0,1071,133],
+"de/d1c/classGameObject.html#a2591bcee950c708fe556a71062cfcf64":[6,0,1071,70],
+"de/d1c/classGameObject.html#a2752ae6f85664f15645915ba05511795":[6,0,1071,117],
+"de/d1c/classGameObject.html#a2792204491eef30e65f29432b8601648":[6,0,1071,80],
+"de/d1c/classGameObject.html#a27c07f578dbb723ccc0a0985bb77e29a":[6,0,1071,64],
 "de/d1c/classGameObject.html#a289833acf259f1eb262ab9be701a3e86":[6,0,1071,163],
 "de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead":[6,0,1071,48],
 "de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[6,0,1071,60],
@@ -187,14 +192,14 @@ var NAVTREEINDEX352 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,27,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
-"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,27,11,5],
-"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
+"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
-"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,859],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX352 =
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,25,1],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,25,2],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2218,0],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2218,0,4],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a118059c877151a9f6b2b15a4070e2704":[6,0,2218,0,0],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a3217617eb3312c1da34dc7dce590fe0d":[6,0,2218,0,1],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a556453c557df0be6a57255e400d98a87":[6,0,2218,0,9],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a66ea56e856fcc706e4f938512def1590":[6,0,2218,0,2],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2218,0,3]
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2218,0,4]
 };

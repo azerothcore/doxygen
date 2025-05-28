@@ -69,6 +69,8 @@ var ObjectMgr_8h =
     [ "NpcTextLocaleContainer", "de/d25/ObjectMgr_8h.html#a692ffe2a45110a63b66e0293f1d2aca0", null ],
     [ "PageTextContainer", "de/d25/ObjectMgr_8h.html#ab3055c02eeecb1fcb62628c2cf95d4e4", null ],
     [ "PageTextLocaleContainer", "de/d25/ObjectMgr_8h.html#a67c5dcf85a804223c359aec2c1f64b50", null ],
+    [ "PlayerShapeshiftModelMap", "de/d25/ObjectMgr_8h.html#abfc56e2be00e9210d104a69dad5251bf", null ],
+    [ "PlayerTotemModelMap", "de/d25/ObjectMgr_8h.html#a3948798e8d6f8bf8943831da638720ff", null ],
     [ "PointOfInterestLocaleContainer", "de/d25/ObjectMgr_8h.html#aa360b5aed8b6e219debc8073e97f712f", null ],
     [ "QuestGreetingContainer", "de/d25/ObjectMgr_8h.html#a1f440c1d3e6bc78eb3a79264459aac65", null ],
     [ "QuestLocaleContainer", "de/d25/ObjectMgr_8h.html#a2ad132fddd19ad8df26de7ecc08f925f", null ],

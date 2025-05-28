@@ -1,11 +1,5 @@
 var NAVTREEINDEX187 =
 {
-"d7/d30/structnpc__ulduar__flames__spread_1_1npc__ulduar__flames__spreadAI.html":[6,0,2214,0],
-"d7/d30/structnpc__ulduar__flames__spread_1_1npc__ulduar__flames__spreadAI.html#a607ee542f7c6d84f4072557e44a80905":[6,0,2214,0,0],
-"d7/d30/structnpc__ulduar__flames__spread_1_1npc__ulduar__flames__spreadAI.html#abe69df9873fc125306a4ed757665e448":[6,0,2214,0,1],
-"d7/d31/classachievement__yogg__saron__kiss__and__make__up.html":[6,0,107],
-"d7/d31/classachievement__yogg__saron__kiss__and__make__up.html#a8ce7df713b804d5bdd5f6f47d77fc1b8":[6,0,107,1],
-"d7/d31/classachievement__yogg__saron__kiss__and__make__up.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376":[6,0,107,0],
 "d7/d32/classBIH_1_1BuildStats.html":[6,0,355,1],
 "d7/d32/classBIH_1_1BuildStats.html#a0d3d26a62ae4aeb18fdff7d07a4b7873":[6,0,355,1,8],
 "d7/d32/classBIH_1_1BuildStats.html#a11cf172a3108b68efc5974b614187550":[6,0,355,1,13],
@@ -249,5 +243,11 @@ var NAVTREEINDEX187 =
 "d7/d40/classspell__warl__create__healthstone.html#a10e9691aa15869c82fba79072a314d7e":[6,0,3921,1],
 "d7/d40/classspell__warl__create__healthstone.html#a441927e0d8d7304030440c19458eb34d":[6,0,3921,0],
 "d7/d40/classspell__warl__create__healthstone.html#a90b8ae945aeb85ad6e8a120501288979":[6,0,3921,2],
-"d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[6,0,3921,3]
+"d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[6,0,3921,3],
+"d7/d40/classspell__warl__create__healthstone.html#ae852b9df34612c074eab23b025c86870":[6,0,3921,5],
+"d7/d40/forge__of__souls_8h.html":[7,0,0,0,1,3,5,4,0,3],
+"d7/d40/forge__of__souls_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,0,3,1],
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,5,4,0,3,4],
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a015de55b22fad643111f67b59a73fbc2":[7,0,0,0,1,3,5,4,0,3,4,4],
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0":[7,0,0,0,1,3,5,4,0,3,4,1]
 };

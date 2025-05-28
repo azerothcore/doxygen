@@ -1,11 +1,5 @@
 var NAVTREEINDEX173 =
 {
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,2,3,6],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,3,6,3],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,3,6,0],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[7,0,0,0,1,3,5,8,2,3,6,1],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac54151b5c8f69a89047282c61104080e":[7,0,0,0,1,3,5,8,2,3,6,2],
-"d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,8,2,3,9],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,3,7],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0782d4659617eca753d8e86bd0eacf3f":[7,0,0,0,1,3,5,8,2,3,7,15],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca09e67414e8632cfc0e65ee505502aa81":[7,0,0,0,1,3,5,8,2,3,7,1],
@@ -195,14 +189,14 @@ var NAVTREEINDEX173 =
 "d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,1,29],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,17],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,17,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,1,29,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,17,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,17,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,1,29,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,17,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,1,29,2],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,29,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[6,0,0,17,4],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,29,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,17,3],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,1,29,3],
 "d6/d7d/classDynamicMapTree.html":[6,0,991],
@@ -249,5 +243,11 @@ var NAVTREEINDEX173 =
 "d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,3,5,2],
 "d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,3,5,0],
 "d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac0cfa7807ddb019c2598d7966aebeb8d":[7,0,0,0,1,3,4,1,0,3,5,1],
-"d6/d7f/MapRefMgr_8h.html":[7,0,0,0,1,2,26,10]
+"d6/d7f/MapRefMgr_8h.html":[7,0,0,0,1,2,26,10],
+"d6/d7f/classUpdateFetcher.html":[6,0,4171],
+"d6/d7f/classUpdateFetcher.html#a0f766525f7f9757a0cf14059952825f0":[6,0,4171,30],
+"d6/d7f/classUpdateFetcher.html#a24699e8cc9d32551c24be563904bfdec":[6,0,4171,14],
+"d6/d7f/classUpdateFetcher.html#a286570b46c2ddd612b97de8e4ef4bd49":[6,0,4171,25],
+"d6/d7f/classUpdateFetcher.html#a2c9442584093618696273003dd090c18":[6,0,4171,27],
+"d6/d7f/classUpdateFetcher.html#a35150c2d5a93caeee6f61369fc1372b8":[6,0,4171,3]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX232 =
 {
-"d9/d3c/classspell__oculus__dream__funnel__aura.html#afa50ce616d36dd59c7195209074d6182":[6,0,3453,0],
-"d9/d3c/classspell__suppression__aura.html":[6,0,3806],
-"d9/d3c/classspell__suppression__aura.html#a5f4986bfad79573e65d56ff276c49914":[6,0,3806,1],
-"d9/d3c/classspell__suppression__aura.html#aa1f5838d43871fd7908ea3b914666000":[6,0,3806,2],
-"d9/d3c/classspell__suppression__aura.html#ac630fb5f068e4d26adb078b118994c45":[6,0,3806,0],
-"d9/d3d/classWorldPacket.html":[6,0,4257],
 "d9/d3d/classWorldPacket.html#a121222c627cfce905891be1611705a1a":[6,0,4257,1],
 "d9/d3d/classWorldPacket.html#a224a2ad18da5d8dd7a7bcbb887870243":[6,0,4257,5],
 "d9/d3d/classWorldPacket.html#a251580581b403cc113aa743c0196ceea":[6,0,4257,4],
@@ -249,5 +243,11 @@ var NAVTREEINDEX232 =
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f":[7,0,0,0,1,2,38,0,20,2,16],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058":[7,0,0,0,1,2,38,0,20,2,15],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca35846f96589617d3c47cd0b206b9868c":[7,0,0,0,1,2,38,0,20,2,1],
-"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1":[7,0,0,0,1,2,38,0,20,2,12]
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1":[7,0,0,0,1,2,38,0,20,2,12],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1":[7,0,0,0,1,2,38,0,20,2,7],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca78f4ae4d1496fbba040a026763cc8909":[7,0,0,0,1,2,38,0,20,2,2],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b":[7,0,0,0,1,2,38,0,20,2,13],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808":[7,0,0,0,1,2,38,0,20,2,9],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354":[7,0,0,0,1,2,38,0,20,2,4],
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f":[7,0,0,0,1,2,38,0,20,2,10]
 };

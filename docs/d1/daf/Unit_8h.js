@@ -24,16 +24,9 @@ var Unit_8h =
     [ "MAX_AGGRO_RADIUS", "d1/daf/Unit_8h.html#a664c114bdaa48d227bce3c91eb5eb5ad", null ],
     [ "MAX_COMBAT_RATING", "d1/daf/Unit_8h.html#a89a822f82e3d3eafe03f7ae0d1310300", null ],
     [ "MAX_DECLINED_NAME_CASES", "d1/daf/Unit_8h.html#a8c9f2cb96962bbba77bd38e8bd014659", null ],
-    [ "MAX_GAMEOBJECT_SLOT", "d1/daf/Unit_8h.html#ade53bea144a3ee3d7b4029608476cea8", null ],
     [ "MAX_PLAYER_STEALTH_DETECT_RANGE", "d1/daf/Unit_8h.html#a1b237c948e52a86fe31e61cc089a2200", null ],
-    [ "MAX_SUMMON_SLOT", "d1/daf/Unit_8h.html#a84d5ef852d273a70ee061287683d4bc1", null ],
-    [ "MAX_TOTEM_SLOT", "d1/daf/Unit_8h.html#aa1b5c5e153101987fcbf9000907e2a81", null ],
     [ "MOD_END", "d1/daf/Unit_8h.html#a1dc9cc1719eb57a6058fc9bc2d7b4024", null ],
     [ "REACTIVE_TIMER_START", "d1/daf/Unit_8h.html#abd0c4747d54e7c5f4485fcbdd6735f4a", null ],
-    [ "SUMMON_SLOT_MINIPET", "d1/daf/Unit_8h.html#a3b8121504f201b0a4c6cdb2b4f7b2c9b", null ],
-    [ "SUMMON_SLOT_PET", "d1/daf/Unit_8h.html#ad7cf2b7d253515b23c68d30fbba01f06", null ],
-    [ "SUMMON_SLOT_QUEST", "d1/daf/Unit_8h.html#a641046fcb5855403ea79c516d1b677ca", null ],
-    [ "SUMMON_SLOT_TOTEM", "d1/daf/Unit_8h.html#a58df31a1e63ab707acd796aaccac7f8b", null ],
     [ "WORLD_TRIGGER", "d1/daf/Unit_8h.html#a14e3dcee1542d1f8fe5bdcbb2a66142e", null ],
     [ "DispelChargesList", "d1/daf/Unit_8h.html#ac60ae645aa0b9216de7dac56c3ed8c37", null ],
     [ "PacketCooldowns", "d1/daf/Unit_8h.html#acd1c012e0d368edde1e17c9ed84836f2", null ],
@@ -154,12 +147,6 @@ var Unit_8h =
       [ "MELEE_HIT_CRIT", "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a484bae12abe1c864433abe4450a3ddba", null ],
       [ "MELEE_HIT_CRUSHING", "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a3e8075fe0b9a2c88400951a56adc9bc7", null ],
       [ "MELEE_HIT_NORMAL", "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a9c5d76fbca1fce33b08a1655b9017272", null ]
-    ] ],
-    [ "PlayerTotemType", "d1/daf/Unit_8h.html#aee48251547824a79afd95e6c56f75ab5", [
-      [ "SUMMON_TYPE_TOTEM_FIRE", "d1/daf/Unit_8h.html#aee48251547824a79afd95e6c56f75ab5ae1552790937ec125eeec1357d5753ec1", null ],
-      [ "SUMMON_TYPE_TOTEM_EARTH", "d1/daf/Unit_8h.html#aee48251547824a79afd95e6c56f75ab5a6482a2ffc02ad92eb744e5b87b06fe10", null ],
-      [ "SUMMON_TYPE_TOTEM_WATER", "d1/daf/Unit_8h.html#aee48251547824a79afd95e6c56f75ab5aab3efb298ae8d9e73da9eb3f01e5936c", null ],
-      [ "SUMMON_TYPE_TOTEM_AIR", "d1/daf/Unit_8h.html#aee48251547824a79afd95e6c56f75ab5aec5c8636813869fab7ca58d9f16d8e20", null ]
     ] ],
     [ "ReactiveType", "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27", [
       [ "REACTIVE_DEFENSE", "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a59bfb38c451db3d03f0e5b8b13745da0", null ],

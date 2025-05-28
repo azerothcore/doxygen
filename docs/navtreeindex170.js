@@ -1,11 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d4f/BattlefieldWG_8h.html#a977506d6d03f0f9f7761a41d5f9671fd":[7,0,0,0,1,2,7,0,1,34],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2":[7,0,0,0,1,2,7,0,1,20],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a082cb0513652d9bd0bf5f5e5cf209a67":[7,0,0,0,1,2,7,0,1,20,3],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a273cf33f21ba3a22cb65cc363a78e8b1":[7,0,0,0,1,2,7,0,1,20,7],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a352f5b902327c72db93c158e5ff2b007":[7,0,0,0,1,2,7,0,1,20,6],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a42823fb25b0144e0bac55ae8051ef446":[7,0,0,0,1,2,7,0,1,20,11],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a4b72d56e9002410bf969c51f8b110de0":[7,0,0,0,1,2,7,0,1,20,8],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aa366ebf9514e0a031133af4f7d94b975":[7,0,0,0,1,2,7,0,1,20,9],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aa4c49f0228d151124695afa79a6c3f6e":[7,0,0,0,1,2,7,0,1,20,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX170 =
 "d6/d56/classspell__dru__owlkin__frenzy.html#a60d451e6b359501b138564085c87a99f":[6,0,2809,0],
 "d6/d56/classspell__dru__owlkin__frenzy.html#ab33586608d444404c07edc4ffbb717ee":[6,0,2809,2],
 "d6/d58/classspell__item__unusual__compass.html":[6,0,3287],
-"d6/d58/classspell__item__unusual__compass.html#a9530db7f75987879285d224fb8381c2b":[6,0,3287,0]
+"d6/d58/classspell__item__unusual__compass.html#a9530db7f75987879285d224fb8381c2b":[6,0,3287,0],
+"d6/d58/classspell__item__unusual__compass.html#ad1c1bdb577739f769802127960aaf9e5":[6,0,3287,1],
+"d6/d58/classspell__item__unusual__compass.html#ae3a340132caf3f8839631c92015d47a0":[6,0,3287,2],
+"d6/d58/classspell__load__into__catapult__aura.html":[6,0,3350],
+"d6/d58/classspell__load__into__catapult__aura.html#a3f2ef4882bcd52e091a0bcfabfc352cd":[6,0,3350,0],
+"d6/d58/classspell__load__into__catapult__aura.html#a63a3e30704b282a430dcdbb9073a66df":[6,0,3350,3],
+"d6/d58/classspell__load__into__catapult__aura.html#a6ccb698445ce30c5224dcacc3dc8136b":[6,0,3350,4]
 };
