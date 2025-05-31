@@ -7,6 +7,7 @@ var classdebug__commandscript =
     [ "HandleDebugAreaTriggersCommand", "d1/dae/classdebug__commandscript.html#a2f8faf09951065b47d84902923978f82", null ],
     [ "HandleDebugArenaCommand", "d1/dae/classdebug__commandscript.html#acea93d7d4753edb3b86f4582eb60c7c4", null ],
     [ "HandleDebugBattlegroundCommand", "d1/dae/classdebug__commandscript.html#a82ddebcec96c3405cb2483d10fa05bed", null ],
+    [ "HandleDebugBoundaryCommand", "d1/dae/classdebug__commandscript.html#a894722c678446a1ffd3b13171710f7a4", null ],
     [ "HandleDebugCooldownCommand", "d1/dae/classdebug__commandscript.html#a7a39bcbbab0361a3948a1313e4c40e78", null ],
     [ "HandleDebugDummyCommand", "d1/dae/classdebug__commandscript.html#a6d51b8e296ce80728d69085f01a01c87", null ],
     [ "HandleDebugDungeonFinderCommand", "d1/dae/classdebug__commandscript.html#a6662473a4ccde4a1ac9bdd780e077054", null ],

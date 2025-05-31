@@ -10,5 +10,6 @@ var structboss__varos_1_1boss__varosAI =
     [ "UpdateAI", "d0/d79/structboss__varos_1_1boss__varosAI.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
     [ "events", "d0/d79/structboss__varos_1_1boss__varosAI.html#a36746118770c936e7606962365e102d8", null ],
     [ "pInstance", "d0/d79/structboss__varos_1_1boss__varosAI.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "d0/d79/structboss__varos_1_1boss__varosAI.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
     [ "ZapAngle", "d0/d79/structboss__varos_1_1boss__varosAI.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

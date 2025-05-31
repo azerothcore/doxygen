@@ -64,6 +64,7 @@ var classCreatureAI =
     [ "TriggerAlert", "d5/d79/classCreatureAI.html#a3a8fee035f2cd3ed05f46f6ab042cd50", null ],
     [ "UpdateVictim", "d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39", null ],
     [ "UpdateVictimWithGaze", "d5/d79/classCreatureAI.html#a9249068ab66d6be483bd5a610b616eae", null ],
+    [ "VisualizeBoundary", "d5/d79/classCreatureAI.html#af032facb2f4d2a5953b8193a69a11c47", null ],
     [ "_boundary", "d5/d79/classCreatureAI.html#a3e4f2f89c0db37331135074c50285b47", null ],
     [ "_negateBoundary", "d5/d79/classCreatureAI.html#a7f2ae661d30adaded885764ad0f1df22", null ],
     [ "events", "d5/d79/classCreatureAI.html#a7066c4909aefe3f44ad24f910003aa59", null ],

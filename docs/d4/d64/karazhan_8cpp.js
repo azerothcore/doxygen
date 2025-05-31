@@ -7,6 +7,8 @@ var karazhan_8cpp =
     [ "npc_image_of_medivh::npc_image_of_medivhAI", "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html", "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI" ],
     [ "at_karazhan_side_entrance", "dd/ded/classat__karazhan__side__entrance.html", "dd/ded/classat__karazhan__side__entrance" ],
     [ "spell_karazhan_temptation", "d1/d55/classspell__karazhan__temptation.html", "d1/d55/classspell__karazhan__temptation" ],
+    [ "spell_karazhan_wrath_titans_stacker", "da/da1/classspell__karazhan__wrath__titans__stacker.html", "da/da1/classspell__karazhan__wrath__titans__stacker" ],
+    [ "spell_karazhan_wrath_titans_aura", "d2/d5c/classspell__karazhan__wrath__titans__aura.html", "d2/d5c/classspell__karazhan__wrath__titans__aura" ],
     [ "OZ_GM_GOSSIP1", "d4/d64/karazhan_8cpp.html#afa41a00475ad60c62a9d84218b49bf95", null ],
     [ "OZ_GM_GOSSIP2", "d4/d64/karazhan_8cpp.html#a0b4823e93d8b170552e61eb307b5d073", null ],
     [ "OZ_GM_GOSSIP3", "d4/d64/karazhan_8cpp.html#ab22c9b13e4d4e9b959b728c9c9825671", null ],
@@ -47,7 +49,13 @@ var karazhan_8cpp =
       [ "SPELL_FIRE_BALL", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1", null ],
       [ "SPELL_UBER_FIREBALL", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673", null ],
       [ "SPELL_CONFLAGRATION_BLAST", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9", null ],
-      [ "SPELL_MANA_SHIELD", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee", null ]
+      [ "SPELL_MANA_SHIELD", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee", null ],
+      [ "SPELL_WRATH_OF_THE_TITANS", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a", null ],
+      [ "SPELL_WRATH_PROC_BLAST", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900", null ],
+      [ "SPELL_WRATH_PROC_BOLT", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014", null ],
+      [ "SPELL_WRATH_PROC_FLAME", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472", null ],
+      [ "SPELL_WRATH_PROC_SPITE", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078", null ],
+      [ "SPELL_WRATH_PROC_CHILL", "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5", null ]
     ] ],
     [ "AddSC_karazhan", "d4/d64/karazhan_8cpp.html#afbbdf0fa76ce4311c7976b843d92b03a", null ],
     [ "ArcanagosPos", "d4/d64/karazhan_8cpp.html#a06865d985920b2402ef84f039a2e70c3", null ],

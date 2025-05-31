@@ -94,11 +94,11 @@ var violet__hold_8cpp =
       [ "EVENT_CHECK_DEATHS", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96", null ]
     ] ],
     [ "Texts", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
-      [ "GOSSIP_MENU_START_EVENT", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3ae08f4e9cad20fcf865a92e71030759", null ],
-      [ "GOSSIP_MENU_ITEM", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a26bcda274aabd2a1ffb5611cc0115fab", null ],
+      [ "GOSSIP_MENU_START_1", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a83bd642e6c2dedeeafbca644269a4210", null ],
+      [ "GOSSIP_MENU_START_2", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4fcb437e117f369cbe28ea394d68ec9e", null ],
       [ "GOSSIP_MENU_LATE_JOIN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20da3630df21a8f4a9c71a03e19c7e00", null ],
       [ "NPC_TEXT_SINCLARI_IN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af8db7bb923ce369bbe25951c07031f85", null ],
-      [ "NPC_TEXT_SINCLARI_ITEM", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa03fdd9f4da1b41ccfb052ebe1ddeafc", null ],
+      [ "NPC_TEXT_SINCLARI_START", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e1a7fcbb09e28085ad3476b6a1f390b", null ],
       [ "NPC_TEXT_SINCLARI_DONE", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac5fd8cbccadc817d35683bb72b36df61", null ],
       [ "NPC_TEXT_SINCLARI_LATE_JOIN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3fce9f72975cbf4670608759f1c559f7", null ]
     ] ],

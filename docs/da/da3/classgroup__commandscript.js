@@ -6,5 +6,6 @@ var classgroup__commandscript =
     [ "HandleGroupJoinCommand", "da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37", null ],
     [ "HandleGroupLeaderCommand", "da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00", null ],
     [ "HandleGroupListCommand", "da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ]
+    [ "HandleGroupRemoveCommand", "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

@@ -144,6 +144,10 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d55/classspell__karazhan__temptation.html">spell_karazhan_temptation</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da1/classspell__karazhan__wrath__titans__stacker.html">spell_karazhan_wrath_titans_stacker</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5c/classspell__karazhan__wrath__titans__aura.html">spell_karazhan_wrath_titans_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
@@ -176,6 +180,18 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9">SPELL_CONFLAGRATION_BLAST</a> = 30977
 , <br />
 &#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee">SPELL_MANA_SHIELD</a> = 31635
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a">SPELL_WRATH_OF_THE_TITANS</a> = 30554
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900">SPELL_WRATH_PROC_BLAST</a> = 30605
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014">SPELL_WRATH_PROC_BOLT</a> = 30606
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472">SPELL_WRATH_PROC_FLAME</a> = 30607
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078">SPELL_WRATH_PROC_SPITE</a> = 30608
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5">SPELL_WRATH_PROC_CHILL</a> = 30609
 <br />
  }</td></tr>
 <tr class="separator:a5bd342133be8c2137b831460acc9298c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -349,12 +365,12 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe" name="a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe"></a>NPC_ARCANAGOS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac" name="a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac"></a>NPC_SPOTLIGHT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe">NPC_ARCANAGOS</a>               = 17652,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac">NPC_SPOTLIGHT</a>               = 19525</div>
-<div class="line"><span class="lineno">   61</span>};</div>
-<div class="ttc" id="akarazhan_8cpp_html_a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe">NPC_ARCANAGOS</a></div><div class="ttdeci">@ NPC_ARCANAGOS</div><div class="ttdef"><b>Definition</b> karazhan.cpp:59</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac">NPC_SPOTLIGHT</a></div><div class="ttdeci">@ NPC_SPOTLIGHT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:60</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe">NPC_ARCANAGOS</a>               = 17652,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac">NPC_SPOTLIGHT</a>               = 19525</div>
+<div class="line"><span class="lineno">   59</span>};</div>
+<div class="ttc" id="akarazhan_8cpp_html_a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a490c3b6b1ca9532aca62faa3ef2ebabe">NPC_ARCANAGOS</a></div><div class="ttdeci">@ NPC_ARCANAGOS</div><div class="ttdef"><b>Definition</b> karazhan.cpp:57</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a25a619e6b66096a4f05d048e4a96df08acded8211c601c5b237d60a58f65b56ac">NPC_SPOTLIGHT</a></div><div class="ttdeci">@ NPC_SPOTLIGHT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:58</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -380,26 +396,26 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e" name="a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e"></a>SAY_DIALOG_ARCANAGOS_8&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde" name="a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde"></a>SAY_DIALOG_MEDIVH_9&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  382</span>{</div>
-<div class="line"><span class="lineno">  383</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412">SAY_DIALOG_MEDIVH_1</a>    = 0,</div>
-<div class="line"><span class="lineno">  384</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1">SAY_DIALOG_ARCANAGOS_2</a> = 0,</div>
-<div class="line"><span class="lineno">  385</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1">SAY_DIALOG_MEDIVH_3</a>    = 1,</div>
-<div class="line"><span class="lineno">  386</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381">SAY_DIALOG_ARCANAGOS_4</a> = 1,</div>
-<div class="line"><span class="lineno">  387</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b">SAY_DIALOG_MEDIVH_5</a>    = 2,</div>
-<div class="line"><span class="lineno">  388</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8">SAY_DIALOG_ARCANAGOS_6</a> = 2,</div>
-<div class="line"><span class="lineno">  389</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2">EMOTE_DIALOG_MEDIVH_7</a>  = 3,</div>
-<div class="line"><span class="lineno">  390</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e">SAY_DIALOG_ARCANAGOS_8</a> = 3,</div>
-<div class="line"><span class="lineno">  391</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde">SAY_DIALOG_MEDIVH_9</a>    = 4</div>
-<div class="line"><span class="lineno">  392</span>};</div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412">SAY_DIALOG_MEDIVH_1</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_1</div><div class="ttdef"><b>Definition</b> karazhan.cpp:383</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e">SAY_DIALOG_ARCANAGOS_8</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_8</div><div class="ttdef"><b>Definition</b> karazhan.cpp:390</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde">SAY_DIALOG_MEDIVH_9</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_9</div><div class="ttdef"><b>Definition</b> karazhan.cpp:391</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381">SAY_DIALOG_ARCANAGOS_4</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_4</div><div class="ttdef"><b>Definition</b> karazhan.cpp:386</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1">SAY_DIALOG_ARCANAGOS_2</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_2</div><div class="ttdef"><b>Definition</b> karazhan.cpp:384</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b">SAY_DIALOG_MEDIVH_5</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_5</div><div class="ttdef"><b>Definition</b> karazhan.cpp:387</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8">SAY_DIALOG_ARCANAGOS_6</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_6</div><div class="ttdef"><b>Definition</b> karazhan.cpp:388</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1">SAY_DIALOG_MEDIVH_3</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_3</div><div class="ttdef"><b>Definition</b> karazhan.cpp:385</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2">EMOTE_DIALOG_MEDIVH_7</a></div><div class="ttdeci">@ EMOTE_DIALOG_MEDIVH_7</div><div class="ttdef"><b>Definition</b> karazhan.cpp:389</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  380</span>{</div>
+<div class="line"><span class="lineno">  381</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412">SAY_DIALOG_MEDIVH_1</a>    = 0,</div>
+<div class="line"><span class="lineno">  382</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1">SAY_DIALOG_ARCANAGOS_2</a> = 0,</div>
+<div class="line"><span class="lineno">  383</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1">SAY_DIALOG_MEDIVH_3</a>    = 1,</div>
+<div class="line"><span class="lineno">  384</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381">SAY_DIALOG_ARCANAGOS_4</a> = 1,</div>
+<div class="line"><span class="lineno">  385</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b">SAY_DIALOG_MEDIVH_5</a>    = 2,</div>
+<div class="line"><span class="lineno">  386</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8">SAY_DIALOG_ARCANAGOS_6</a> = 2,</div>
+<div class="line"><span class="lineno">  387</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2">EMOTE_DIALOG_MEDIVH_7</a>  = 3,</div>
+<div class="line"><span class="lineno">  388</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e">SAY_DIALOG_ARCANAGOS_8</a> = 3,</div>
+<div class="line"><span class="lineno">  389</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde">SAY_DIALOG_MEDIVH_9</a>    = 4</div>
+<div class="line"><span class="lineno">  390</span>};</div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a11dcaeb417ca9e2c8673aa032cf5e412">SAY_DIALOG_MEDIVH_1</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_1</div><div class="ttdef"><b>Definition</b> karazhan.cpp:381</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a2abc895455b4fc3f9bd2c51f3176805e">SAY_DIALOG_ARCANAGOS_8</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_8</div><div class="ttdef"><b>Definition</b> karazhan.cpp:388</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a34fb5bbafcab468ee5eafb54406b9cde">SAY_DIALOG_MEDIVH_9</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_9</div><div class="ttdef"><b>Definition</b> karazhan.cpp:389</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a59abe03a1d5868a07e0c5d433c3d0381">SAY_DIALOG_ARCANAGOS_4</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_4</div><div class="ttdef"><b>Definition</b> karazhan.cpp:384</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0a9c84aa743f031e50320a4cebecc900c1">SAY_DIALOG_ARCANAGOS_2</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_2</div><div class="ttdef"><b>Definition</b> karazhan.cpp:382</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0aad33d000bfa1c78f477e3dd849dec17b">SAY_DIALOG_MEDIVH_5</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_5</div><div class="ttdef"><b>Definition</b> karazhan.cpp:385</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acdee26a19e400f7cb8bddac90c6603c8">SAY_DIALOG_ARCANAGOS_6</a></div><div class="ttdeci">@ SAY_DIALOG_ARCANAGOS_6</div><div class="ttdef"><b>Definition</b> karazhan.cpp:386</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0acef8a51517735f6a209835c58d60aee1">SAY_DIALOG_MEDIVH_3</a></div><div class="ttdeci">@ SAY_DIALOG_MEDIVH_3</div><div class="ttdef"><b>Definition</b> karazhan.cpp:383</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a7bac5eeded47a33be6ab2a05d145eff0ad8399080fd6d79554902a575cb9d67c2">EMOTE_DIALOG_MEDIVH_7</a></div><div class="ttdeci">@ EMOTE_DIALOG_MEDIVH_7</div><div class="ttdef"><b>Definition</b> karazhan.cpp:387</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -420,16 +436,16 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325"></a>OZ_GOSSIP2_MID&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3"></a>OZ_GOSSIP2_OID&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d">OZ_GOSSIP1_MID</a> = 7421, <span class="comment">// I&#39;m not an actor.</span></div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942">OZ_GOSSIP1_OID</a> = 0,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325">OZ_GOSSIP2_MID</a> = 7422, <span class="comment">// Ok, I&#39;ll give it a try, then.</span></div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3">OZ_GOSSIP2_OID</a> = 0,</div>
-<div class="line"><span class="lineno">   73</span>};</div>
-<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325">OZ_GOSSIP2_MID</a></div><div class="ttdeci">@ OZ_GOSSIP2_MID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:71</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942">OZ_GOSSIP1_OID</a></div><div class="ttdeci">@ OZ_GOSSIP1_OID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:70</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3">OZ_GOSSIP2_OID</a></div><div class="ttdeci">@ OZ_GOSSIP2_OID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:72</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d">OZ_GOSSIP1_MID</a></div><div class="ttdeci">@ OZ_GOSSIP1_MID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d">OZ_GOSSIP1_MID</a> = 7421, <span class="comment">// I&#39;m not an actor.</span></div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942">OZ_GOSSIP1_OID</a> = 0,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325">OZ_GOSSIP2_MID</a> = 7422, <span class="comment">// Ok, I&#39;ll give it a try, then.</span></div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3">OZ_GOSSIP2_OID</a> = 0,</div>
+<div class="line"><span class="lineno">   71</span>};</div>
+<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a108257120a0d7a2accbbc3dc461d1325">OZ_GOSSIP2_MID</a></div><div class="ttdeci">@ OZ_GOSSIP2_MID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:69</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a60a2641984770151c1ddd3b8ed361942">OZ_GOSSIP1_OID</a></div><div class="ttdeci">@ OZ_GOSSIP1_OID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:68</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7aed30c4caf6cd4d376c6b4669c951a3">OZ_GOSSIP2_OID</a></div><div class="ttdeci">@ OZ_GOSSIP2_OID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:70</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a942ab35c89649cf29746c3d52c37203d">OZ_GOSSIP1_MID</a></div><div class="ttdeci">@ OZ_GOSSIP1_MID</div><div class="ttdef"><b>Definition</b> karazhan.cpp:67</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -450,16 +466,16 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181" name="a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181"></a>BARNES_TEXT_IS_READY2&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa" name="a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa"></a>BARNES_TEXT_WIPED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea">BARNES_TEXT_NOT_READY</a>   = 8969,</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f">BARNES_TEXT_IS_READY</a>    = 8970,</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181">BARNES_TEXT_IS_READY2</a>   = 8971,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa">BARNES_TEXT_WIPED</a>       = 8975</div>
-<div class="line"><span class="lineno">   81</span>};</div>
-<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa">BARNES_TEXT_WIPED</a></div><div class="ttdeci">@ BARNES_TEXT_WIPED</div><div class="ttdef"><b>Definition</b> karazhan.cpp:80</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f">BARNES_TEXT_IS_READY</a></div><div class="ttdeci">@ BARNES_TEXT_IS_READY</div><div class="ttdef"><b>Definition</b> karazhan.cpp:78</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea">BARNES_TEXT_NOT_READY</a></div><div class="ttdeci">@ BARNES_TEXT_NOT_READY</div><div class="ttdef"><b>Definition</b> karazhan.cpp:77</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181">BARNES_TEXT_IS_READY2</a></div><div class="ttdeci">@ BARNES_TEXT_IS_READY2</div><div class="ttdef"><b>Definition</b> karazhan.cpp:79</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea">BARNES_TEXT_NOT_READY</a>   = 8969,</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f">BARNES_TEXT_IS_READY</a>    = 8970,</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181">BARNES_TEXT_IS_READY2</a>   = 8971,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa">BARNES_TEXT_WIPED</a>       = 8975</div>
+<div class="line"><span class="lineno">   79</span>};</div>
+<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a1f4e06dfcff734fa8f875b06ef5a24fa">BARNES_TEXT_WIPED</a></div><div class="ttdeci">@ BARNES_TEXT_WIPED</div><div class="ttdef"><b>Definition</b> karazhan.cpp:78</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a4876b178cbc6b0ec15c193f9ed2d827f">BARNES_TEXT_IS_READY</a></div><div class="ttdeci">@ BARNES_TEXT_IS_READY</div><div class="ttdef"><b>Definition</b> karazhan.cpp:76</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a50357a1cc22398410fa3515b7c10a9ea">BARNES_TEXT_NOT_READY</a></div><div class="ttdeci">@ BARNES_TEXT_NOT_READY</div><div class="ttdef"><b>Definition</b> karazhan.cpp:75</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1a9bd532e6c680e19d05153cbaeadfe181">BARNES_TEXT_IS_READY2</a></div><div class="ttdeci">@ BARNES_TEXT_IS_READY2</div><div class="ttdef"><b>Definition</b> karazhan.cpp:77</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -482,28 +498,50 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673" name="a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673"></a>SPELL_UBER_FIREBALL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9" name="a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9"></a>SPELL_CONFLAGRATION_BLAST&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee" name="a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee"></a>SPELL_MANA_SHIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a" name="a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a"></a>SPELL_WRATH_OF_THE_TITANS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900" name="a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900"></a>SPELL_WRATH_PROC_BLAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014" name="a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014"></a>SPELL_WRATH_PROC_BOLT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472" name="a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472"></a>SPELL_WRATH_PROC_FLAME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078" name="a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078"></a>SPELL_WRATH_PROC_SPITE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5" name="a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5"></a>SPELL_WRATH_PROC_CHILL&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="comment">// Barnes</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16">SPELL_SPOTLIGHT</a>             = 25824,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50">SPELL_TUXEDO</a>                = 32616,</div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <span class="comment">// Barnes</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16">SPELL_SPOTLIGHT</a>             = 25824,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50">SPELL_TUXEDO</a>                = 32616,</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <span class="comment">// Berthold</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a>              = 39567,</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <span class="comment">// Image of Medivh</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1">SPELL_FIRE_BALL</a>             = 30967,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673">SPELL_UBER_FIREBALL</a>         = 30971,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9">SPELL_CONFLAGRATION_BLAST</a>   = 30977,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee">SPELL_MANA_SHIELD</a>           = 31635,</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="comment">// Wrath of the Titans</span></div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a">SPELL_WRATH_OF_THE_TITANS</a>   = 30554,</div>
 <div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>    <span class="comment">// Berthold</span></div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a>              = 39567,</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// Image of Medivh</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1">SPELL_FIRE_BALL</a>             = 30967,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673">SPELL_UBER_FIREBALL</a>         = 30971,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9">SPELL_CONFLAGRATION_BLAST</a>   = 30977,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee">SPELL_MANA_SHIELD</a>           = 31635</div>
-<div class="line"><span class="lineno">   55</span>};</div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50">SPELL_TUXEDO</a></div><div class="ttdeci">@ SPELL_TUXEDO</div><div class="ttdef"><b>Definition</b> karazhan.cpp:45</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1">SPELL_FIRE_BALL</a></div><div class="ttdeci">@ SPELL_FIRE_BALL</div><div class="ttdef"><b>Definition</b> karazhan.cpp:51</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9">SPELL_CONFLAGRATION_BLAST</a></div><div class="ttdeci">@ SPELL_CONFLAGRATION_BLAST</div><div class="ttdef"><b>Definition</b> karazhan.cpp:53</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee">SPELL_MANA_SHIELD</a></div><div class="ttdeci">@ SPELL_MANA_SHIELD</div><div class="ttdef"><b>Definition</b> karazhan.cpp:54</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a></div><div class="ttdeci">@ SPELL_TELEPORT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:48</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16">SPELL_SPOTLIGHT</a></div><div class="ttdeci">@ SPELL_SPOTLIGHT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:44</div></div>
-<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673">SPELL_UBER_FIREBALL</a></div><div class="ttdeci">@ SPELL_UBER_FIREBALL</div><div class="ttdef"><b>Definition</b> karazhan.cpp:52</div></div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900">SPELL_WRATH_PROC_BLAST</a>      = 30605,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014">SPELL_WRATH_PROC_BOLT</a>       = 30606,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472">SPELL_WRATH_PROC_FLAME</a>      = 30607,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078">SPELL_WRATH_PROC_SPITE</a>      = 30608,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5">SPELL_WRATH_PROC_CHILL</a>      = 30609,</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>};</div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fa9f1440c3ad820a93a20ce63fa5a50">SPELL_TUXEDO</a></div><div class="ttdeci">@ SPELL_TUXEDO</div><div class="ttdef"><b>Definition</b> karazhan.cpp:33</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f6d7efd53d5c84288c3ad131ee89dc1">SPELL_FIRE_BALL</a></div><div class="ttdeci">@ SPELL_FIRE_BALL</div><div class="ttdef"><b>Definition</b> karazhan.cpp:39</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca291f1f33c3b720213483d98386c8b900">SPELL_WRATH_PROC_BLAST</a></div><div class="ttdeci">@ SPELL_WRATH_PROC_BLAST</div><div class="ttdef"><b>Definition</b> karazhan.cpp:47</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4afa0bd76a87a47bbab3396f4249d8b9">SPELL_CONFLAGRATION_BLAST</a></div><div class="ttdeci">@ SPELL_CONFLAGRATION_BLAST</div><div class="ttdef"><b>Definition</b> karazhan.cpp:41</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca4fd81347286267493c7efcebdc6c2078">SPELL_WRATH_PROC_SPITE</a></div><div class="ttdeci">@ SPELL_WRATH_PROC_SPITE</div><div class="ttdef"><b>Definition</b> karazhan.cpp:50</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee">SPELL_MANA_SHIELD</a></div><div class="ttdeci">@ SPELL_MANA_SHIELD</div><div class="ttdef"><b>Definition</b> karazhan.cpp:42</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a></div><div class="ttdeci">@ SPELL_TELEPORT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:36</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca80b991743913150852e63f7bbe215472">SPELL_WRATH_PROC_FLAME</a></div><div class="ttdeci">@ SPELL_WRATH_PROC_FLAME</div><div class="ttdef"><b>Definition</b> karazhan.cpp:49</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca83119b26f1eb04da713f0177cbe52d9a">SPELL_WRATH_OF_THE_TITANS</a></div><div class="ttdeci">@ SPELL_WRATH_OF_THE_TITANS</div><div class="ttdef"><b>Definition</b> karazhan.cpp:45</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298caadb8d54c5870c414d1b9cff5656a4e16">SPELL_SPOTLIGHT</a></div><div class="ttdeci">@ SPELL_SPOTLIGHT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:32</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673">SPELL_UBER_FIREBALL</a></div><div class="ttdeci">@ SPELL_UBER_FIREBALL</div><div class="ttdef"><b>Definition</b> karazhan.cpp:40</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014">SPELL_WRATH_PROC_BOLT</a></div><div class="ttdeci">@ SPELL_WRATH_PROC_BOLT</div><div class="ttdef"><b>Definition</b> karazhan.cpp:48</div></div>
+<div class="ttc" id="akarazhan_8cpp_html_a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5"><div class="ttname"><a href="../../d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5">SPELL_WRATH_PROC_CHILL</a></div><div class="ttdeci">@ SPELL_WRATH_PROC_CHILL</div><div class="ttdef"><b>Definition</b> karazhan.cpp:51</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -522,17 +560,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  612</span>{</div>
-<div class="line"><span class="lineno">  613</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/dfa/classnpc__barnes.html">npc_barnes</a>();</div>
-<div class="line"><span class="lineno">  614</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d09/classnpc__image__of__medivh.html">npc_image_of_medivh</a>();</div>
-<div class="line"><span class="lineno">  615</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/ded/classat__karazhan__side__entrance.html">at_karazhan_side_entrance</a>();</div>
-<div class="line"><span class="lineno">  616</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d55/classspell__karazhan__temptation.html">spell_karazhan_temptation</a>);</div>
-<div class="line"><span class="lineno">  617</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  704</span>{</div>
+<div class="line"><span class="lineno">  705</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/dfa/classnpc__barnes.html">npc_barnes</a>();</div>
+<div class="line"><span class="lineno">  706</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d09/classnpc__image__of__medivh.html">npc_image_of_medivh</a>();</div>
+<div class="line"><span class="lineno">  707</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/ded/classat__karazhan__side__entrance.html">at_karazhan_side_entrance</a>();</div>
+<div class="line"><span class="lineno">  708</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d55/classspell__karazhan__temptation.html">spell_karazhan_temptation</a>);</div>
+<div class="line"><span class="lineno">  709</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/da1/classspell__karazhan__wrath__titans__stacker.html">spell_karazhan_wrath_titans_stacker</a>);</div>
+<div class="line"><span class="lineno">  710</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d5c/classspell__karazhan__wrath__titans__aura.html">spell_karazhan_wrath_titans_aura</a>);</div>
+<div class="line"><span class="lineno">  711</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassat__karazhan__side__entrance_html"><div class="ttname"><a href="../../dd/ded/classat__karazhan__side__entrance.html">at_karazhan_side_entrance</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:569</div></div>
-<div class="ttc" id="aclassnpc__barnes_html"><div class="ttname"><a href="../../db/dfa/classnpc__barnes.html">npc_barnes</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:133</div></div>
-<div class="ttc" id="aclassnpc__image__of__medivh_html"><div class="ttname"><a href="../../d4/d09/classnpc__image__of__medivh.html">npc_image_of_medivh</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:398</div></div>
-<div class="ttc" id="aclassspell__karazhan__temptation_html"><div class="ttname"><a href="../../d1/d55/classspell__karazhan__temptation.html">spell_karazhan_temptation</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:592</div></div>
+<div class="ttc" id="aclassat__karazhan__side__entrance_html"><div class="ttname"><a href="../../dd/ded/classat__karazhan__side__entrance.html">at_karazhan_side_entrance</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:567</div></div>
+<div class="ttc" id="aclassnpc__barnes_html"><div class="ttname"><a href="../../db/dfa/classnpc__barnes.html">npc_barnes</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:131</div></div>
+<div class="ttc" id="aclassnpc__image__of__medivh_html"><div class="ttname"><a href="../../d4/d09/classnpc__image__of__medivh.html">npc_image_of_medivh</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:396</div></div>
+<div class="ttc" id="aclassspell__karazhan__temptation_html"><div class="ttname"><a href="../../d1/d55/classspell__karazhan__temptation.html">spell_karazhan_temptation</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:590</div></div>
+<div class="ttc" id="aclassspell__karazhan__wrath__titans__aura_html"><div class="ttname"><a href="../../d2/d5c/classspell__karazhan__wrath__titans__aura.html">spell_karazhan_wrath_titans_aura</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:639</div></div>
+<div class="ttc" id="aclassspell__karazhan__wrath__titans__stacker_html"><div class="ttname"><a href="../../da/da1/classspell__karazhan__wrath__titans__stacker.html">spell_karazhan_wrath_titans_stacker</a></div><div class="ttdef"><b>Definition</b> karazhan.cpp:611</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -560,9 +602,9 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>{-11169.75f, -1881.48f, 107.39f, 4.83f};</div>
+<div class="fragment"><div class="line"><span class="lineno">  393</span>{-11169.75f, -1881.48f, 107.39f, 4.83f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00427">npc_image_of_medivh::npc_image_of_medivhAI::Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00425">npc_image_of_medivh::npc_image_of_medivhAI::Reset()</a>.</p>
 
 </div>
 </div>
@@ -592,14 +634,14 @@ Variables</h2></td></tr>
 <div class="line">    {6, 14000},</div>
 <div class="line">    {7, 15000}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    {4, 6000},</div>
-<div class="line"><span class="lineno">  104</span>    {5, 10000},</div>
-<div class="line"><span class="lineno">  105</span>    {6, 14000},</div>
-<div class="line"><span class="lineno">  106</span>    {7, 15000}</div>
-<div class="line"><span class="lineno">  107</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
+<div class="line"><span class="lineno">  101</span>    {4, 6000},</div>
+<div class="line"><span class="lineno">  102</span>    {5, 10000},</div>
+<div class="line"><span class="lineno">  103</span>    {6, 14000},</div>
+<div class="line"><span class="lineno">  104</span>    {7, 15000}</div>
+<div class="line"><span class="lineno">  105</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00215">npc_barnes::npc_barnesAI::Talk()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00213">npc_barnes::npc_barnesAI::Talk()</a>.</p>
 
 </div>
 </div>
@@ -629,14 +671,14 @@ Variables</h2></td></tr>
 <div class="line">    {2, 9000},</div>
 <div class="line">    {3, 15000}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    {0, 6000},</div>
-<div class="line"><span class="lineno">   96</span>    {1, 18000},</div>
-<div class="line"><span class="lineno">   97</span>    {2, 9000},</div>
-<div class="line"><span class="lineno">   98</span>    {3, 15000}</div>
-<div class="line"><span class="lineno">   99</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    {0, 6000},</div>
+<div class="line"><span class="lineno">   94</span>    {1, 18000},</div>
+<div class="line"><span class="lineno">   95</span>    {2, 9000},</div>
+<div class="line"><span class="lineno">   96</span>    {3, 15000}</div>
+<div class="line"><span class="lineno">   97</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00215">npc_barnes::npc_barnesAI::Talk()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00213">npc_barnes::npc_barnesAI::Talk()</a>.</p>
 
 </div>
 </div>
@@ -666,14 +708,14 @@ Variables</h2></td></tr>
 <div class="line">    {10, 14000},</div>
 <div class="line">    {11, 14000}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
-<div class="line"><span class="lineno">  111</span>    {8, 5000},</div>
-<div class="line"><span class="lineno">  112</span>    {9, 7000},</div>
-<div class="line"><span class="lineno">  113</span>    {10, 14000},</div>
-<div class="line"><span class="lineno">  114</span>    {11, 14000}</div>
-<div class="line"><span class="lineno">  115</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    {8, 5000},</div>
+<div class="line"><span class="lineno">  110</span>    {9, 7000},</div>
+<div class="line"><span class="lineno">  111</span>    {10, 14000},</div>
+<div class="line"><span class="lineno">  112</span>    {11, 14000}</div>
+<div class="line"><span class="lineno">  113</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00215">npc_barnes::npc_barnesAI::Talk()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00213">npc_barnes::npc_barnesAI::Talk()</a>.</p>
 
 </div>
 </div>
@@ -697,16 +739,16 @@ Variables</h2></td></tr>
 <div class="line">    {17603, -10892},                                        </div>
 <div class="line">    {17534, -10900},                                        </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
-<div class="line"><span class="lineno">  120</span>    {17535, -10896},                                        <span class="comment">// Dorothee</span></div>
-<div class="line"><span class="lineno">  121</span>    {17546, -10891},                                        <span class="comment">// Roar</span></div>
-<div class="line"><span class="lineno">  122</span>    {17547, -10884},                                        <span class="comment">// Tinhead</span></div>
-<div class="line"><span class="lineno">  123</span>    {17543, -10902},                                        <span class="comment">// Strawman</span></div>
-<div class="line"><span class="lineno">  124</span>    {17603, -10892},                                        <span class="comment">// Grandmother</span></div>
-<div class="line"><span class="lineno">  125</span>    {17534, -10900},                                        <span class="comment">// Julianne</span></div>
-<div class="line"><span class="lineno">  126</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span>    {17535, -10896},                                        <span class="comment">// Dorothee</span></div>
+<div class="line"><span class="lineno">  119</span>    {17546, -10891},                                        <span class="comment">// Roar</span></div>
+<div class="line"><span class="lineno">  120</span>    {17547, -10884},                                        <span class="comment">// Tinhead</span></div>
+<div class="line"><span class="lineno">  121</span>    {17543, -10902},                                        <span class="comment">// Strawman</span></div>
+<div class="line"><span class="lineno">  122</span>    {17603, -10892},                                        <span class="comment">// Grandmother</span></div>
+<div class="line"><span class="lineno">  123</span>    {17534, -10900},                                        <span class="comment">// Julianne</span></div>
+<div class="line"><span class="lineno">  124</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00247">npc_barnes::npc_barnesAI::PrepareEncounter()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00245">npc_barnes::npc_barnesAI::PrepareEncounter()</a>.</p>
 
 </div>
 </div>
@@ -716,7 +758,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_4741540d90fc7603479c20e4d5a7e517.html">Karazhan</a></li><li class="navelem"><a class="el" href="../../d4/d64/karazhan_8cpp.html">karazhan.cpp</a></li>
-    <li class="footer">Generated on Fri May 30 2025 06:22:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 31 2025 06:20:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

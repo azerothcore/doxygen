@@ -8,6 +8,7 @@ var boss__eredar__twins_8cpp =
     [ "spell_eredar_twins_blaze", "d6/d40/classspell__eredar__twins__blaze.html", "d6/d40/classspell__eredar__twins__blaze" ],
     [ "spell_eredar_twins_handle_touch_periodic", "da/d2e/classspell__eredar__twins__handle__touch__periodic.html", "da/d2e/classspell__eredar__twins__handle__touch__periodic" ],
     [ "at_sunwell_eredar_twins", "d2/d59/classat__sunwell__eredar__twins.html", "d2/d59/classat__sunwell__eredar__twins" ],
+    [ "go_eredar_twins_blaze", "d6/dc9/structgo__eredar__twins__blaze.html", "d6/dc9/structgo__eredar__twins__blaze" ],
     [ "Quotes", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c", [
       [ "YELL_INTRO_SAC", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e", null ],
       [ "YELL_SAC_DEAD", "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca80e1007c0c857be3a47cce7979fa8056", null ],
