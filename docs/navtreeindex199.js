@@ -1,12 +1,5 @@
 var NAVTREEINDEX199 =
 {
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadb8e10c1f6a828f064fcd9c7e4f958e9":[7,0,0,0,1,2,28,2,0,408],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadb93edc0e42a23f35357731c7455632e":[7,0,0,0,1,2,28,2,0,220],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadbd34d533b08e325efcbb8334b387ca3":[7,0,0,0,1,2,28,2,0,613],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadc23508aab13ac58e0ad29d22188b333":[7,0,0,0,1,2,28,2,0,425],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadc3b54b7b3fcd0b85b228c67b99ad639":[7,0,0,0,1,2,28,2,0,710],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadc707504790d3d1dcff7aa903f332eb0":[7,0,0,0,1,2,28,2,0,953],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadcccf523689eadea8d8dce0211f494c6":[7,0,0,0,1,2,28,2,0,979],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadd51d46763b9078cb3cfe1509abab400":[7,0,0,0,1,2,28,2,0,887],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadd65776a07abff1a4b12c17feac9f2cd":[7,0,0,0,1,2,28,2,0,680],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaddc483a2ed409aced83e49d3720688b0":[7,0,0,0,1,2,28,2,0,843],
@@ -224,9 +217,9 @@ var NAVTREEINDEX199 =
 "d7/da0/structGameEventFinishCondition.html#a8c144531f876b6def613c0011e0efe47":[6,0,1067,2],
 "d7/da0/structGameEventFinishCondition.html#abc88850d392fb4b62e778d09445de0be":[6,0,1067,0],
 "d7/da0/structGameEventFinishCondition.html#ae1d182aef449388993e4965de447d971":[6,0,1067,3],
-"d7/da1/structSpellCastTimesEntry.html":[6,0,4029],
-"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4029,1],
-"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4029,0],
+"d7/da1/structSpellCastTimesEntry.html":[6,0,4028],
+"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4028,1],
+"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4028,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html":[6,0,590,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a0e53d139f64d104557e157a91176a47a":[6,0,590,0,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a1a3acb1e8cbceb16854aafcf51a0f99d":[6,0,590,0,2],
@@ -249,5 +242,12 @@ var NAVTREEINDEX199 =
 "d7/da4/classDBCFileLoader.html#a28bf265dafc284e9edb55fc1ed261694":[6,0,950,12],
 "d7/da4/classDBCFileLoader.html#a2e75536e8df1449449b4b6fe5585074d":[6,0,950,3],
 "d7/da4/classDBCFileLoader.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd":[6,0,950,2],
-"d7/da4/classDBCFileLoader.html#a32c6a04567395f66270858c5feb57f5f":[6,0,950,13]
+"d7/da4/classDBCFileLoader.html#a32c6a04567395f66270858c5feb57f5f":[6,0,950,13],
+"d7/da4/classDBCFileLoader.html#a3c536a9333a06213a37c95087eaaf8e3":[6,0,950,6],
+"d7/da4/classDBCFileLoader.html#a5961bf01316cc14a075c1b874000e8a2":[6,0,950,21],
+"d7/da4/classDBCFileLoader.html#a7aa68d259f6295df3029456bde143862":[6,0,950,17],
+"d7/da4/classDBCFileLoader.html#a920472d71232fa759bce768fdca9a1c4":[6,0,950,16],
+"d7/da4/classDBCFileLoader.html#a990308cf88d2772db090c37a66e9f9e5":[6,0,950,7],
+"d7/da4/classDBCFileLoader.html#a99ba418c63c49cf9a028626b8e282a01":[6,0,950,1],
+"d7/da4/classDBCFileLoader.html#ab4f28de7c57a6e25c715bb009ed5f701":[6,0,950,19]
 };

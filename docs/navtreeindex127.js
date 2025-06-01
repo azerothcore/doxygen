@@ -1,12 +1,5 @@
 var NAVTREEINDEX127 =
 {
-"d4/d66/classspell__auriaya__sentinel__blast.html#a86c4bb91547d8ea7eebb8e4d7bfd592e":[6,0,2609,1],
-"d4/d66/classspell__warr__bloodthirst.html":[6,0,3960],
-"d4/d66/classspell__warr__bloodthirst.html#a051f68946f3c246b410bbaa2ac14e4b1":[6,0,3960,1],
-"d4/d66/classspell__warr__bloodthirst.html#a180ab99bc257b841e0bbbfc0ddb83814":[6,0,3960,4],
-"d4/d66/classspell__warr__bloodthirst.html#a371d3112e619453b7c92933a145bf4d2":[6,0,3960,0],
-"d4/d66/classspell__warr__bloodthirst.html#a41d69ed3f8372c4e157aefbec6ad525c":[6,0,3960,2],
-"d4/d66/classspell__warr__bloodthirst.html#aaa1e53f38a2ba835c12fa726c030ab08":[6,0,3960,3],
 "d4/d66/structnpc__coren__direbrew__sisters.html":[6,0,1692],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a34e0b6af032240c152c463c221d99335":[6,0,1692,2],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a415ea0ebd044236f5f4c4d6c28896e00":[6,0,1692,0],
@@ -180,10 +173,10 @@ var NAVTREEINDEX127 =
 "d4/d67/classgo__warmaul__prison.html":[6,0,1196],
 "d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[6,0,1196,1],
 "d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[6,0,1196,0],
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html":[6,0,2030,0],
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a4ea55aa08123f724268238e0def5b595":[6,0,2030,0,1],
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2030,0,0],
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#acb63166b396c079d5b4bb9db67a1448a":[6,0,2030,0,2],
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html":[6,0,2029,0],
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a4ea55aa08123f724268238e0def5b595":[6,0,2029,0,1],
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2029,0,0],
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#acb63166b396c079d5b4bb9db67a1448a":[6,0,2029,0,2],
 "d4/d69/classboss__flame__leviathan__defense__turret.html":[6,0,467],
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a1c3726e2b753cda18bd11d8f4ff154db":[6,0,467,2],
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a939c66ff6c1eb6dfdb3d93b3d0292e40":[6,0,467,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX127 =
 "d4/d69/structItemTemplate.html#aa1ae3db197ca23fdd00f2f056bea12f7":[6,0,1390,6],
 "d4/d69/structItemTemplate.html#aa45a4f915e4ecdd88d1646b259e13f13":[6,0,1390,30],
 "d4/d69/structItemTemplate.html#aa47e7b641d0d6a81505d16633d66a152":[6,0,1390,50],
-"d4/d69/structItemTemplate.html#aa8b9e8be2fc06dd592ed6a3886e3866b":[6,0,1390,12]
+"d4/d69/structItemTemplate.html#aa8b9e8be2fc06dd592ed6a3886e3866b":[6,0,1390,12],
+"d4/d69/structItemTemplate.html#aaadbf60f4944861d9b2e062149ebfa94":[6,0,1390,64],
+"d4/d69/structItemTemplate.html#ab10a365f3a6dbfd4ee19757a31c58895":[6,0,1390,10],
+"d4/d69/structItemTemplate.html#ab3a9a2be01022682611fed219b88ed0a":[6,0,1390,39],
+"d4/d69/structItemTemplate.html#ab516c1edeb315380e60dd44128e3f474":[6,0,1390,79],
+"d4/d69/structItemTemplate.html#ab56ffe2dbecf8a94b1ad7bd675f8219a":[6,0,1390,62],
+"d4/d69/structItemTemplate.html#ab73dfd39670de423d4db16353e5d7e76":[6,0,1390,52],
+"d4/d69/structItemTemplate.html#abe9809a4251fb3ce02c102fde307b10e":[6,0,1390,11]
 };

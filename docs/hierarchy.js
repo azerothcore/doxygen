@@ -5485,7 +5485,6 @@ var hierarchy =
               [ "npc_azure_stalker::npc_azure_stalkerAI", "d1/d28/structnpc__azure__stalker_1_1npc__azure__stalkerAI.html", null ]
             ] ]
           ] ],
-          [ "npc_eye_of_acherus", "d0/d7a/structnpc__eye__of__acherus.html", null ],
           [ "npc_eye_tentacle", "d3/d96/structnpc__eye__tentacle.html", null ],
           [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html", null ],
           [ "npc_fel_infernal::npc_fel_infernalAI", "da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html", null ],

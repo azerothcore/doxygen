@@ -124,7 +124,7 @@ var searchData=
   ['activatetowers_121',['ActivateTowers',['../d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html#a926ea9f650ebe657db9f1f222b3033a2',1,'boss_flame_leviathan::boss_flame_leviathanAI']]],
   ['activatevalimathrasportal_122',['ActivateValimathrasPortal',['../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a2a58331b6282602891e98d84921ed600',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
   ['activatewingportal_123',['activatewingportal',['../d3/d5d/classinstance__naxxramas.html#ae53c14014ec9ee4db5e06acb04ede9d2',1,'instance_naxxramas::ActivateWingPortal(uint32 wingPortal)'],['../d3/d5d/classinstance__naxxramas.html#a10a92da6d62e3d5f147b5bb40109ec3c',1,'instance_naxxramas::ActivateWingPortal(GameObject *go, EncounterState state)']]],
-  ['add_124',['add',['../d4/df7/structAchievementCriteriaDataSet.html#a297f02665679b19961998fb529d064e4',1,'AchievementCriteriaDataSet::Add()'],['../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8',1,'LockedQueue::add()']]],
+  ['add_124',['add',['../d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8',1,'LockedQueue::add()'],['../d4/df7/structAchievementCriteriaDataSet.html#a297f02665679b19961998fb529d064e4',1,'AchievementCriteriaDataSet::Add()']]],
   ['addactionbutton_125',['addActionButton',['../d2/d4b/classPlayer.html#a049bd22c99d6eb6c6ef66a779e373355',1,'Player']]],
   ['addactiveevent_126',['AddActiveEvent',['../d3/d92/classGameEventMgr.html#ac3e988ebf19cce9f7ee23f4b71fe5c94',1,'GameEventMgr']]],
   ['addaitem_127',['AddAItem',['../d8/dbe/classAuctionHouseMgr.html#a126138c1ec4c43653b83feb4e68b44cf',1,'AuctionHouseMgr']]],

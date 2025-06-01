@@ -1,6 +1,5 @@
 var chapter1_8cpp =
 [
-    [ "npc_eye_of_acherus", "d0/d7a/structnpc__eye__of__acherus.html", "d0/d7a/structnpc__eye__of__acherus" ],
     [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls" ],
     [ "spell_q12641_death_comes_from_on_high_recall_eye", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye.html", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye" ],
     [ "npc_death_knight_initiate", "d8/d74/classnpc__death__knight__initiate.html", "d8/d74/classnpc__death__knight__initiate" ],
@@ -41,22 +40,7 @@ var chapter1_8cpp =
       [ "EVENT_DUEL_LOST", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63aba893dd076928fa851701f5b25107cc8", null ]
     ] ],
     [ "EyeOfAcherusMisc", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6f", [
-      [ "SPELL_THE_EYE_OF_ACHERUS", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ],
-      [ "SPELL_EYE_OF_ACHERUS_VISUAL", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa0d0f57065d4c3b00c9fac4775d307823", null ],
-      [ "SPELL_EYE_OF_ACHERUS_FLIGHT_BOOST", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fab9740d6cb9f40bbc1a138b7acd9a7eac", null ],
-      [ "SPELL_EYE_OF_ACHERUS_FLIGHT", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fabc9c40dc0af7f41d9c7faee582d29b6c", null ],
-      [ "SPELL_ROOT_SELF", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa85a709d6db4db1d7de162bab489085dc", null ],
-      [ "EVENT_ANNOUNCE_LAUNCH_TO_DESTINATION", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa898e8cbf090c425fe74c7287c4065e69", null ],
-      [ "EVENT_UNROOT", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faffa73594765dfffd558f6cb2acac4ab9", null ],
-      [ "EVENT_LAUNCH_TOWARDS_DESTINATION", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa46630248479cb8af1ffc6660b769306a", null ],
-      [ "EVENT_GRANT_CONTROL", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa2e26316c4d9167f35210ca895976cbff", null ],
-      [ "SAY_LAUNCH_TOWARDS_DESTINATION", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa25df64a9c12dfe989c85087663e7ae33", null ],
-      [ "SAY_EYE_UNDER_CONTROL", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa91ff1ade03dea0a4b340dd88044ba329", null ],
-      [ "POINT_NEW_AVALON", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6faf7869e3c172821b608232b96cfd85de2", null ],
-      [ "EYE_POINT_DESTINATION_0", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa1357058dde311c2963e231db5951d72e", null ],
-      [ "EYE_POINT_DESTINATION_1", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa7f0845e66e7a2d8881c49d7d2c3b4588", null ],
-      [ "EYE_POINT_DESTINATION_2", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa0549a625ce39e4d6e40761b94788929b", null ],
-      [ "EYE_POINT_DESTINATION_3", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa12fe7893ba446921b485c7f94a152f6a", null ]
+      [ "SPELL_THE_EYE_OF_ACHERUS", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ]
     ] ],
     [ "GiftOfTheHarvester", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41", [
       [ "NPC_GHOUL", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4", null ],
