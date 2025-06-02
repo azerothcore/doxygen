@@ -1,13 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabda2c3f1a11403bb5fa35dfec441a1bc":[7,0,0,0,1,3,5,9,2,4,42,4],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac2ee3a88fa9f4928bfe012f3113f6ee6":[7,0,0,0,1,3,5,9,2,4,42,39],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac565bfbde4cd8bf5f38c76981c61dc33":[7,0,0,0,1,3,5,9,2,4,42,37],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac94d8a6a667e828cc2d8fab0f1545e33":[7,0,0,0,1,3,5,9,2,4,42,60],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faca0ade24bff1c71b49e211cafc73cc13":[7,0,0,0,1,3,5,9,2,4,42,42],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644facda7b1d376aa194b2afe6abf76356696":[7,0,0,0,1,3,5,9,2,4,42,26],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad42335dd1de4a8136f426353e6691a3e":[7,0,0,0,1,3,5,9,2,4,42,50],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,9,2,4,42,15],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad94dae44bdea2337a68a6e45da1cf0ed":[7,0,0,0,1,3,5,9,2,4,42,11],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fadc9927c73a7fbe0966b54dda578a4f7b":[7,0,0,0,1,3,5,9,2,4,42,56],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fae22bf7841f491d3f73aacc8c85097b87":[7,0,0,0,1,3,5,9,2,4,42,3],
@@ -249,5 +241,13 @@ var NAVTREEINDEX385 =
 "df/d92/classSpellScript.html#a4cb7be85b447f9b8a1329808e76dec27":[6,0,4062,46],
 "df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9":[6,0,4062,65],
 "df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f":[6,0,4062,47],
-"df/d92/classSpellScript.html#a631c606f892a78a649d2dbaa7356a144":[6,0,4062,43]
+"df/d92/classSpellScript.html#a631c606f892a78a649d2dbaa7356a144":[6,0,4062,43],
+"df/d92/classSpellScript.html#a66d39d9b940e70f21e53ad254b7ab1e2":[6,0,4062,60],
+"df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf":[6,0,4062,20],
+"df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30":[6,0,4062,21],
+"df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3":[6,0,4062,66],
+"df/d92/classSpellScript.html#a7766a6cfd39473509b29c35a79a6d12d":[6,0,4062,48],
+"df/d92/classSpellScript.html#a7a71facae73e117fd41ec362729eccca":[6,0,4062,49],
+"df/d92/classSpellScript.html#a7ed2ae7fcbd576aff87d34eb57290af4":[6,0,4062,71],
+"df/d92/classSpellScript.html#a7effb149f3d70abf83a46673d6e7705d":[6,0,4062,62]
 };

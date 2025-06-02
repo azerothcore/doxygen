@@ -1,13 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aa7bbbb942592651857f933503da0e808":[6,0,1352,0,8],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aacbb3bb0d212ffafae475c74790d9c63":[6,0,1352,0,0],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aaf5d69e4993591e0f936e2109df1fb07":[6,0,1352,0,6],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1":[6,0,1352,0,1],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aeca34a55f3c378311ae1b46313cf22de":[6,0,1352,0,11],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#af0e854382a2316363c50d60f03095097":[6,0,1352,0,9],
-"de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html":[6,0,1333,0],
-"de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html#a5398f0aa153f7c4eaea390e33c400b02":[6,0,1333,0,1],
 "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html#aae99b35ff990fd7486d5b70693b6729a":[6,0,1333,0,0],
 "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html#ab45827eaa92aea4746378b3c11fda219":[6,0,1333,0,2],
 "de/d5e/ObjectAccessor_8cpp.html":[7,0,0,0,1,2,18,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX359 =
 "de/d66/classnpc__karynaku.html":[6,0,1900],
 "de/d66/classnpc__karynaku.html#a4cae1950fe3b7b4ae6f2e6691800ec47":[6,0,1900,1],
 "de/d66/classnpc__karynaku.html#aa6a3cb409cdbc990f1eee4137c7519d2":[6,0,1900,0],
-"de/d69/DisableMgr_8cpp.html":[7,0,0,0,1,2,13,2]
+"de/d69/DisableMgr_8cpp.html":[7,0,0,0,1,2,13,2],
+"de/d69/classgo__skull__pile.html":[6,0,1172],
+"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[6,0,1172,3],
+"de/d69/classgo__skull__pile.html#a9cf8dfef432c4967c60f66e645585770":[6,0,1172,0],
+"de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[6,0,1172,1],
+"de/d69/classgo__skull__pile.html#af74fcd75404c0886128401d661067394":[6,0,1172,4],
+"de/d69/classgo__skull__pile.html#afb8e8db2705355e975fa48c98e09f20b":[6,0,1172,2],
+"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html":[6,0,1894,0],
+"de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#a0a0f24af22e4c72e843970c0d5c1ff87":[6,0,1894,0,0]
 };

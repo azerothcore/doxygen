@@ -1,13 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3373,1],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[6,0,3373,0],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html":[6,0,3658],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[6,0,3658,1],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa490168c69f9ba5c12db3171516dd8ac":[6,0,3658,2],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[6,0,3658,0],
-"de/d7c/structboss__the__black__stalker.html":[6,0,726],
-"de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[6,0,726,4],
 "de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[6,0,726,2],
 "de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[6,0,726,0],
 "de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[6,0,726,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX362 =
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a2d78117a6c2a29f52f1905595425964a":[6,0,2051,0,2],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a68f48d92cc5559025e635d599c2882e3":[6,0,2051,0,4],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a6a86b56508a86bf32ab5fb2bd46248c9":[6,0,2051,0,0],
-"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a79cc34760b58ad4b29c6a0a496971f0a":[6,0,2051,0,3]
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a79cc34760b58ad4b29c6a0a496971f0a":[6,0,2051,0,3],
+"de/d89/boss__grilek_8cpp.html":[7,0,0,0,1,3,2,16,2],
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,2,3],
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca28574d4484fa9dddb63e423dc7194e35":[7,0,0,0,1,3,2,16,2,3,0],
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca366705ee88fada6cb8aa2dab3dcd3cee":[7,0,0,0,1,3,2,16,2,3,2],
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298caae4192525f239485e95830c6137c5c47":[7,0,0,0,1,3,2,16,2,3,1],
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298cac74b05f0e56f3e57978e9333f609d793":[7,0,0,0,1,3,2,16,2,3,3],
+"de/d89/boss__grilek_8cpp.html#aa903bbca1cf3f36df966a87d32b80409":[7,0,0,0,1,3,2,16,2,4],
+"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,2,2]
 };

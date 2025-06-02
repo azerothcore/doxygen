@@ -1,13 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[6,0,2375,73],
-"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2375,77],
-"df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[6,0,2375,23],
-"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[6,0,2375,80],
-"df/d14/classPet.html#adc0d7b4c353cf003020f9682e47b86b9":[6,0,2375,34],
-"df/d14/classPet.html#ae2e012cf32db4cb54424dd7a227beef7":[6,0,2375,87],
-"df/d14/classPet.html#ae3c907fb96ae318cb5766374090b8d5d":[6,0,2375,58],
-"df/d14/classPet.html#ae7e405a70abc5d4a687e06f087760c16":[6,0,2375,44],
 "df/d14/classPet.html#ae8456efad9fd499fceed997fbcb72cb8":[6,0,2375,83],
 "df/d14/classPet.html#ae8d049acb26724ea002a56b0a9c99094":[6,0,2375,29],
 "df/d14/classPet.html#ae9f6f4b4936dc8c0470bfb5af8625632":[6,0,2375,18],
@@ -249,5 +241,13 @@ var NAVTREEINDEX375 =
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a346fd998d41451d7d1e605afdb13b65c":[6,0,2242,0,2],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a5835d5ba19e1480016e585c1e49489c9":[6,0,2242,0,1],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a5b550d0154f302cecc509fbd868a53bb":[6,0,2242,0,0],
-"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a6908f5731915bf7d15bb4921c960aa30":[6,0,2242,0,5]
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a6908f5731915bf7d15bb4921c960aa30":[6,0,2242,0,5],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a8d4c8d082f12b96b2b77447d0b942c2c":[6,0,2242,0,3],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#abca34d7285ef23c062006df8f8ae6d53":[6,0,2242,0,4],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#afc5c9299d7f1f73c087a19dcfb19e096":[6,0,2242,0,6],
+"df/d1a/CliRunnable_8cpp.html":[4,0,0],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2290,0],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6378748a168e4e668f696bd9c6dfbc31":[6,0,2290,0,1],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6540d8f5787ce1da211123721ef659f3":[6,0,2290,0,0],
+"df/d1b/zone__stormwind__city_8cpp.html":[7,0,0,0,1,3,2,30]
 };

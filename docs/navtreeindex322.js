@@ -1,13 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dd/d3b/structGameObjectTemplate.html#ab2c7c4ea986d200b68addf7c63e005a0":[6,0,1084,161],
-"dd/d3b/structGameObjectTemplate.html#ab4f1cd91223e4cdbcc695cff01c5967c":[6,0,1084,18],
-"dd/d3b/structGameObjectTemplate.html#ab5c64efdea0f0aafcc80fccc209f670d":[6,0,1084,24],
-"dd/d3b/structGameObjectTemplate.html#ab62e41478910df05790ca9eca57b2ae1":[6,0,1084,26],
-"dd/d3b/structGameObjectTemplate.html#ab721121a5a2c21ce004cbc5b07e4a100":[6,0,1084,119],
-"dd/d3b/structGameObjectTemplate.html#ab7a8873515fa4faa04b439cc799b31b4":[6,0,1084,42],
-"dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0":[6,0,1084,148],
-"dd/d3b/structGameObjectTemplate.html#ab8cf64793c6d29fbaa50b490b7e68945":[6,0,1084,70],
 "dd/d3b/structGameObjectTemplate.html#ab9dc75f7bed6b6451c8f0eba231dbf31":[6,0,1084,58],
 "dd/d3b/structGameObjectTemplate.html#aba1538c08713a616500b51650896cd5b":[6,0,1084,91],
 "dd/d3b/structGameObjectTemplate.html#abaa8305304efc7c2b2c4e34e193b7f49":[6,0,1084,116],
@@ -210,8 +202,8 @@ var NAVTREEINDEX322 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX322 =
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2711,1],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#ac18d1d1a1d19b0dfa5cb1565377ba273":[6,0,2711,3],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#ac42fe3248fadf0ecca95893e06c490ee":[6,0,2711,4],
-"dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#afe04f0cb6539238412253b63dd3c82b9":[6,0,2711,2]
+"dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#afe04f0cb6539238412253b63dd3c82b9":[6,0,2711,2],
+"dd/d4a/classspell__eredar__twins__handle__touch.html":[6,0,2843],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a07973000e8a4b0ff66d4f4d1fd9f327e":[6,0,2843,1],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[6,0,2843,0],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2843,2],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[6,0,2843,3],
+"dd/d4c/TemporarySummon_8cpp.html":[7,0,0,0,1,2,16,1,8],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html":[6,0,3744],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a35d58947074659d2692877dfcf13e4bd":[6,0,3744,0]
 };

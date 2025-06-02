@@ -1,13 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,27,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,15,3],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,27,3],
-"dc/d70/boss__grobbulus_8cpp.html":[7,0,0,0,1,3,5,7,5],
-"dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,5,6],
-"dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,6,0],
-"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,5,8],
-"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aabc6c3d94a26fb54873e0b776c36bfe3":[7,0,0,0,1,3,5,7,5,8,2],
 "dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abdefdaaa767f3271b85dae75d4a3f920":[7,0,0,0,1,3,5,7,5,8,0],
 "dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aec51ad24c8152f7f821576aa2fbaa5ad":[7,0,0,0,1,3,5,7,5,8,1],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,5,9],
@@ -249,5 +241,13 @@ var NAVTREEINDEX306 =
 "dc/d81/classCreatureTextMgr.html#a8b9dc67f09242b5ade7405663ca52fda":[6,0,932,11],
 "dc/d81/classCreatureTextMgr.html#a92acbdab30a8942859e01526144b9989":[6,0,932,6],
 "dc/d81/classCreatureTextMgr.html#a93c7fa546a0f41e7d59c6782aecee070":[6,0,932,9],
-"dc/d81/classCreatureTextMgr.html#aa36b6dd5010eea049973122bec4fceb1":[6,0,932,13]
+"dc/d81/classCreatureTextMgr.html#aa36b6dd5010eea049973122bec4fceb1":[6,0,932,13],
+"dc/d81/classCreatureTextMgr.html#aa92d99a93a387193a10eb7a30c59b86e":[6,0,932,15],
+"dc/d81/classCreatureTextMgr.html#aaa36b5a9223c7521e1b2a222fce77d79":[6,0,932,4],
+"dc/d81/classCreatureTextMgr.html#ad25faab453d0f5d6270797eeeb5e2e40":[6,0,932,17],
+"dc/d81/classCreatureTextMgr.html#aeddebd7d3fcf604ee4d11b77ff87fd53":[6,0,932,3],
+"dc/d82/cs__modify_8cpp.html":[7,0,0,0,1,3,0,31],
+"dc/d82/cs__modify_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[7,0,0,0,1,3,0,31,1],
+"dc/d82/structChampionPosition.html":[6,0,841],
+"dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602":[6,0,841,0]
 };

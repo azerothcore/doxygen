@@ -8,12 +8,6 @@ var boss__amanitar_8cpp =
       [ "NPC_POISONOUS_MUSHROOM", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ae5abbd9e7d682c77a56749f83994e4ff", null ]
     ] ],
     [ "Events", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_RESPAWN", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb479b353fa088bba14a35c37aba7de1", null ],
-      [ "EVENT_ROOTS", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abdd5440f64384f58b205a095ef160963", null ],
-      [ "EVENT_BASH", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a82d7da69ad13cfd9a9328e2f19ee7acf", null ],
-      [ "EVENT_BOLT", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f7efb6e33f00716d2d9984858b062b3", null ],
-      [ "EVENT_REMOVE_MUSHROOM_POWER", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aad0fcac27d984fdcf40aa1797355abb1", null ],
-      [ "EVENT_MINI", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5443c68daa476d44b5767232a6993d50", null ],
       [ "EVENT_GROW", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d496e642d19084da7c7828473dd4b5a", null ],
       [ "EVENT_CHECK_PLAYER", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
       [ "EVENT_KILLSELF", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d90815012178143e2e037f2a643af17", null ]

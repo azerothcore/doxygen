@@ -1,13 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f":[5,0,18,48,7],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04":[5,0,18,48,8],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd":[5,0,18,48,10],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776":[5,0,18,48,16],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004":[5,0,18,48,3],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8":[5,0,18,48,6],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba820334a9820da285d1e46da7a8d7b37e":[5,0,18,48,5],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba8e634ce1df5dbacebbad5ae4761ed0df":[5,0,18,48,11],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba919251996a338f39e8b8995f87fec708":[5,0,18,48,13],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277":[5,0,18,48,2],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[5,0,18,48,9],
@@ -249,5 +241,13 @@ var NAVTREEINDEX361 =
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,1,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html":[6,0,3373],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3373,2]
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3373,2],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3373,1],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[6,0,3373,0],
+"de/d7c/classspell__q13369__fate__up__against__your__will.html":[6,0,3658],
+"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[6,0,3658,1],
+"de/d7c/classspell__q13369__fate__up__against__your__will.html#aa490168c69f9ba5c12db3171516dd8ac":[6,0,3658,2],
+"de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[6,0,3658,0],
+"de/d7c/structboss__the__black__stalker.html":[6,0,726],
+"de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[6,0,726,4]
 };

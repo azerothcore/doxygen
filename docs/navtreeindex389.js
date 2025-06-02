@@ -1,13 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/da7/classBattleground.html#ab626085602960980a3e93ac2b93123a3":[6,0,310,12],
-"df/da7/classBattleground.html#ab6281ffeb2a59dcbfb3b0aa90e1c7547":[6,0,310,2],
-"df/da7/classBattleground.html#ab71e98cff0b7f12564de0d8a7793d4ff":[6,0,310,74],
-"df/da7/classBattleground.html#ab7fc4d042bf6fe96674ed5b0a85f3b39":[6,0,310,78],
-"df/da7/classBattleground.html#abab9f0ab1b01d817c0a6002c317c41a6":[6,0,310,177],
-"df/da7/classBattleground.html#abb5be27eaceb660279ced11ee70e35ad":[6,0,310,141],
-"df/da7/classBattleground.html#abbb0c845ac0e2fdbfd37f94fc64c1998":[6,0,310,200],
-"df/da7/classBattleground.html#abc79e32b9a174a873ab93da3ae871cc0":[6,0,310,51],
 "df/da7/classBattleground.html#abcc29b747682ed68180678bde318f1e3":[6,0,310,112],
 "df/da7/classBattleground.html#abd39e8c90785dbb6e5067f21cd982a9a":[6,0,310,239],
 "df/da7/classBattleground.html#abdc79af5823ab0fa1437b0e5eb9b8a4c":[6,0,310,63],
@@ -249,5 +241,13 @@ var NAVTREEINDEX389 =
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cac026a6bcccca19503220edadf9eaacbd":[7,0,0,0,1,3,4,1,1,3,3,1],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cac964f06db15d805c88842deec5f2c0a0":[7,0,0,0,1,3,4,1,1,3,3,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,1,3,2],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[7,0,0,0,1,3,4,1,1,3,2,2]
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[7,0,0,0,1,3,4,1,1,3,2,2],
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[7,0,0,0,1,3,4,1,1,3,2,0],
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[7,0,0,0,1,3,4,1,1,3,2,1],
+"df/db6/classspell__dtk__raise__dead__aura.html":[6,0,2827],
+"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[6,0,2827,3],
+"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[6,0,2827,1],
+"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[6,0,2827,2],
+"df/db6/classspell__dtk__raise__dead__aura.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3":[6,0,2827,0],
+"df/db6/classspell__gen__vehicle__scaling.html":[6,0,3008]
 };

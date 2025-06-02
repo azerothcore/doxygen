@@ -1,13 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[6,0,2109,0,5],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[6,0,2109,0,0],
-"df/d4e/structBfWGCoordGY.html":[6,0,345],
-"df/d4e/structBfWGCoordGY.html#a405e8098772e77250683985f957ce5f3":[6,0,345,6],
-"df/d4e/structBfWGCoordGY.html#a742fcc91d2daf1a9331f02a90496328c":[6,0,345,0],
-"df/d4e/structBfWGCoordGY.html#a844e4c9c9b1a9a22a817025ccda7f08d":[6,0,345,7],
-"df/d4e/structBfWGCoordGY.html#a87d80377ad632b9d667eecf11ae8faae":[6,0,345,3],
-"df/d4e/structBfWGCoordGY.html#a8b0aed9e6973ce6efc5d89a0d10a4139":[6,0,345,2],
 "df/d4e/structBfWGCoordGY.html#a9c761e77b7194ab1bb80d28f2b1e1f6d":[6,0,345,1],
 "df/d4e/structBfWGCoordGY.html#ad69833b4e2a27999dcd13e5ac5bda892":[6,0,345,5],
 "df/d4e/structBfWGCoordGY.html#ae1a4b69ea4edabe51f1378c6cb066cad":[6,0,345,4],
@@ -249,5 +241,13 @@ var NAVTREEINDEX381 =
 "df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[6,0,2959,0],
 "df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[6,0,2959,1],
 "df/d58/classspell__gen__obsidian__armor.html#ab6e36f24dea949c8cedaaed0d5fa9517":[6,0,2959,4],
-"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,2959,3]
+"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,2959,3],
+"df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[6,0,2959,2],
+"df/d59/structWeatherData.html":[4,2,8],
+"df/d5a/MySQLHacks_8h.html":[7,0,0,0,1,1,0,16],
+"df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[7,0,0,0,1,1,0,16,5],
+"df/d5b/classinstance__stratholme.html":[6,0,1331],
+"df/d5b/classinstance__stratholme.html#a3d3d2e773029dd1c4bc1a59a94c4e015":[6,0,1331,2],
+"df/d5b/classinstance__stratholme.html#a42ac504b2790af8c37a44e87fbd9c6c1":[6,0,1331,1],
+"df/d5b/structQuestVisitor.html":[6,0,2460]
 };

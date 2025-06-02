@@ -1,13 +1,5 @@
 var NAVTREEINDEX302 =
 {
-"dc/d37/classGlobalScript.html":[6,0,1100],
-"dc/d37/classGlobalScript.html#a0140624a479c0d2c0a96050bb6a96bf7":[6,0,1100,16],
-"dc/d37/classGlobalScript.html#a08783ec228e8e3025641a5a2f7474071":[6,0,1100,17],
-"dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7":[6,0,1100,6],
-"dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[6,0,1100,0],
-"dc/d37/classGlobalScript.html#a42cbfd8f6c10feb1012b7e5dad67ef84":[6,0,1100,11],
-"dc/d37/classGlobalScript.html#a43efa65b032111032e290371a0df0a60":[6,0,1100,2],
-"dc/d37/classGlobalScript.html#a782994a96188e1540e03b9481f4ee93d":[6,0,1100,18],
 "dc/d37/classGlobalScript.html#a92ebe4fc11cd0d2e0bd87dcd047c4523":[6,0,1100,12],
 "dc/d37/classGlobalScript.html#aa71f55a96e0d580fde44291656084356":[6,0,1100,10],
 "dc/d37/classGlobalScript.html#aaf3fcef66636071ca9def455ff356868":[6,0,1100,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX302 =
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cace9ccdb83b868b64c6d32698148b04b9":[7,0,0,0,1,3,5,7,13,5,11],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,13,5,8],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf1bce68d7f9217b4d5c96b6b7850e3f8":[7,0,0,0,1,3,5,7,13,5,4],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf8e17f55745f1a3b78a47a8ee1264ad2":[7,0,0,0,1,3,5,7,13,5,6]
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf8e17f55745f1a3b78a47a8ee1264ad2":[7,0,0,0,1,3,5,7,13,5,6],
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cafc1e420bbd6ed8b8cb100622bb12d474":[7,0,0,0,1,3,5,7,13,5,7],
+"dc/d49/boss__sapphiron_8cpp.html#a870aa227d58b1011e55005faae584065":[7,0,0,0,1,3,5,7,13,7],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,13,3],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[7,0,0,0,1,3,5,7,13,3,2],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a24042a9ec5330bd014bada105a8a2afe":[7,0,0,0,1,3,5,7,13,3,8],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a444abf4004297df94ed200e223ab5155":[7,0,0,0,1,3,5,7,13,3,13],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63f66cb197f5cc43c231cd4758fcc228":[7,0,0,0,1,3,5,7,13,3,12],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94c2a8317a1737e1281190629eeb6855":[7,0,0,0,1,3,5,7,13,3,3]
 };

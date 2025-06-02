@@ -1,13 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"de/dc8/classAuthCrypt.html#a8c5239631bd6cf700059af31f04126a3":[6,0,290,0],
-"de/dc8/classAuthCrypt.html#a911330ec40c0ca881af2f0c6fd6b0fef":[6,0,290,4],
-"de/dc8/classAuthCrypt.html#a99de2f8dd625cef94d70eeddefc9ac5c":[6,0,290,6],
-"de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,290,3],
-"de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[6,0,290,5],
-"de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,290,7],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,1,2,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX370 =
 "de/dd9/AccountMgr_8h.html#a8280510b2564ec6ea76727218c1687b3":[7,0,0,0,1,2,0,1,13],
 "de/dd9/AccountMgr_8h.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,0,0,1,2,0,1,11],
 "de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[7,0,0,0,1,2,0,1,1],
-"de/dd9/AccountMgr_8h.html#adb1b210137b09011677c74011addeefa":[7,0,0,0,1,2,0,1,15]
+"de/dd9/AccountMgr_8h.html#adb1b210137b09011677c74011addeefa":[7,0,0,0,1,2,0,1,15],
+"de/dd9/AccountMgr_8h.html#af911e3860ec519c541d6df35468ee41b":[7,0,0,0,1,2,0,1,12],
+"de/dd9/classspell__dk__chains__of__ice__aura.html":[6,0,2737],
+"de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[6,0,2737,2],
+"de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[6,0,2737,1],
+"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[6,0,2737,0],
+"de/ddc/classIgbExplosionCheck.html":[6,0,1276],
+"de/ddc/classIgbExplosionCheck.html#a28ce6685366e99db2aa1e4022012f943":[6,0,1276,1],
+"de/ddc/classIgbExplosionCheck.html#a413ee8f2218621d274d118aea967dc9b":[6,0,1276,2]
 };

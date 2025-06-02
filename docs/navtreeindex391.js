@@ -1,13 +1,5 @@
 var NAVTREEINDEX391 =
 {
-"df/dc7/classOPvPCapturePointEP__PWT.html#ab5faf124f53394a4a54a86a7bf5d0626":[6,0,2323,2],
-"df/dc7/classOPvPCapturePointEP__PWT.html#ab9bf289c0814e60fd75902b4e87d1e46":[6,0,2323,3],
-"df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2323,5],
-"df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2323,7],
-"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2323,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,30,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,30,1,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX391 =
 "df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,420,2],
 "df/dd7/classboss__devourer__of__souls.html#a95b3a33be3b85a4c7ecfb4370a9ddc60":[6,0,420,1],
 "df/dd8/classDBCStorage.html":[6,0,952],
-"df/dd8/classDBCStorage.html#a00d89ccb706cdf73c3cd3840333504cc":[6,0,952,6]
+"df/dd8/classDBCStorage.html#a00d89ccb706cdf73c3cd3840333504cc":[6,0,952,6],
+"df/dd8/classDBCStorage.html#a1aac83146adf1d72b98f641acf133353":[6,0,952,1],
+"df/dd8/classDBCStorage.html#a2002a0adee55fa79ec5a0cceab48b607":[6,0,952,16],
+"df/dd8/classDBCStorage.html#a2193a31f1a96f04c113191e0e200af57":[6,0,952,4],
+"df/dd8/classDBCStorage.html#a26882ab09ad59a8d6db222068f55c6c5":[6,0,952,14],
+"df/dd8/classDBCStorage.html#a26fd44b61cf6352b99122abb23768a97":[6,0,952,10],
+"df/dd8/classDBCStorage.html#a2e738aadf73e51ee4787a45d8b4908d3":[6,0,952,13],
+"df/dd8/classDBCStorage.html#a3900db604c7fa373d55c161006f8752a":[6,0,952,9],
+"df/dd8/classDBCStorage.html#a43338cbd450480a91ed25228611dfe89":[6,0,952,5]
 };

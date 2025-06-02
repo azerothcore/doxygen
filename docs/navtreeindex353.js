@@ -1,13 +1,5 @@
 var NAVTREEINDEX353 =
 {
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87":[7,0,0,0,1,3,9,7,26,15],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af":[7,0,0,0,1,3,9,7,26,23],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,7,26,21],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68":[7,0,0,0,1,3,9,7,26,11],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740d":[7,0,0,0,1,3,9,7,25],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,25,0],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,25,1],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,25,2],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2218,0],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2218,0,4],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a118059c877151a9f6b2b15a4070e2704":[6,0,2218,0,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX353 =
 "de/d2d/namespaceObjectAccessor.html#a2ddde0dc109d262af644c232a315afd7":[5,0,23,18],
 "de/d2d/namespaceObjectAccessor.html#a2f3be0f1bc71493623f991ad879c8be4":[5,0,23,1],
 "de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0":[5,0,23,2],
-"de/d2d/namespaceObjectAccessor.html#a424a63829a446dac6f97a464cc64ed48":[5,0,23,10]
+"de/d2d/namespaceObjectAccessor.html#a424a63829a446dac6f97a464cc64ed48":[5,0,23,10],
+"de/d2d/namespaceObjectAccessor.html#a43f4538cfa587672688705f6f7a60edc":[5,0,23,21],
+"de/d2d/namespaceObjectAccessor.html#a4cebdea9476a004a8a1bd57c40d1f3ae":[5,0,23,16],
+"de/d2d/namespaceObjectAccessor.html#a6639665d2704cbd06727004567caac15":[5,0,23,17],
+"de/d2d/namespaceObjectAccessor.html#a76097a1f20df3f0e83516b1175a17397":[5,0,23,9],
+"de/d2d/namespaceObjectAccessor.html#a76e4ca902836751980d6157a3eed7967":[5,0,23,12],
+"de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793":[5,0,23,15],
+"de/d2d/namespaceObjectAccessor.html#a8a088e6967b9972662d788beffba14d4":[5,0,23,24],
+"de/d2d/namespaceObjectAccessor.html#a9031db6958a68a6fda60e3c0f37d639f":[5,0,23,6]
 };

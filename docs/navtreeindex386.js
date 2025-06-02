@@ -1,13 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"df/d92/classSpellScript.html#a66d39d9b940e70f21e53ad254b7ab1e2":[6,0,4062,60],
-"df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf":[6,0,4062,20],
-"df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30":[6,0,4062,21],
-"df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3":[6,0,4062,66],
-"df/d92/classSpellScript.html#a7766a6cfd39473509b29c35a79a6d12d":[6,0,4062,48],
-"df/d92/classSpellScript.html#a7a71facae73e117fd41ec362729eccca":[6,0,4062,49],
-"df/d92/classSpellScript.html#a7ed2ae7fcbd576aff87d34eb57290af4":[6,0,4062,71],
-"df/d92/classSpellScript.html#a7effb149f3d70abf83a46673d6e7705d":[6,0,4062,62],
 "df/d92/classSpellScript.html#a7f3fd0137862305299f6c65d43f2abae":[6,0,4062,15],
 "df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860":[6,0,4062,35],
 "df/d92/classSpellScript.html#a85b9373e02f5abbec6c6cde8c9784e0a":[6,0,4062,30],
@@ -249,5 +241,13 @@ var NAVTREEINDEX386 =
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ad1b32b1cb6f4f2623ab24da8eb0e090f":[7,0,0,0,1,3,4,9,5,2,5],
 "df/d9b/structboss__jarien.html":[6,0,553],
 "df/d9b/structboss__jarien.html#a06b02c7f7dff885a86609e0116f2fd96":[6,0,553,9],
-"df/d9b/structboss__jarien.html#a19e07a3da93e487b5984a8de0c7f26c9":[6,0,553,0]
+"df/d9b/structboss__jarien.html#a19e07a3da93e487b5984a8de0c7f26c9":[6,0,553,0],
+"df/d9b/structboss__jarien.html#a2e54c5ae404be944eeff3a57c96aa8ca":[6,0,553,2],
+"df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,553,3],
+"df/d9b/structboss__jarien.html#a8b9f1f2e7e45adf8df436b5c71555272":[6,0,553,1],
+"df/d9b/structboss__jarien.html#aa88435f313dc2b7880bca8f4cdb7a537":[6,0,553,7],
+"df/d9b/structboss__jarien.html#ab6590cf6626a12e804520b2cde84a93e":[6,0,553,4],
+"df/d9b/structboss__jarien.html#abce9540798dbae1026d1c74bfeb111a6":[6,0,553,8],
+"df/d9b/structboss__jarien.html#ac85ca96b42aa5115500bd24454f84209":[6,0,553,5],
+"df/d9b/structboss__jarien.html#acf7157ec7af7356beddc8a2429177b95":[6,0,553,6]
 };

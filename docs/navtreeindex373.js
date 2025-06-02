@@ -1,13 +1,5 @@
 var NAVTREEINDEX373 =
 {
-"de/df7/classWorldPackets_1_1Packet.html":[6,0,11,19],
-"de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,30,19,2],
-"de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[6,0,11,19,2],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[5,0,30,19,4],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[6,0,11,19,4],
-"de/df7/classWorldPackets_1_1Packet.html#a2ca1e6377bb2fb10bf042311e72eb5d4":[5,0,30,19,1],
-"de/df7/classWorldPackets_1_1Packet.html#a2ca1e6377bb2fb10bf042311e72eb5d4":[6,0,11,19,1],
-"de/df7/classWorldPackets_1_1Packet.html#a316af2b7ce1ac7189fb1e57f534bad11":[5,0,30,19,0],
 "de/df7/classWorldPackets_1_1Packet.html#a316af2b7ce1ac7189fb1e57f534bad11":[6,0,11,19,0],
 "de/df7/classWorldPackets_1_1Packet.html#a6d2afd0d4b0d7daff11868854b7c4715":[5,0,30,19,5],
 "de/df7/classWorldPackets_1_1Packet.html#a6d2afd0d4b0d7daff11868854b7c4715":[6,0,11,19,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX373 =
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[7,0,0,0,1,2,16,5,7,2,1],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[6,0,3585],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[6,0,3585,0],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3585,2]
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3585,2],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#ac1aacfbd71224d80eaed0b9a76ff673f":[6,0,3585,1],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#aded9f2e46cc3bf46f5699ce6fdf154ba":[6,0,3585,3],
+"df/d0c/classnpc__hor__lumbering__abomination.html":[6,0,1844],
+"df/d0c/classnpc__hor__lumbering__abomination.html#a0601ac0af85e545617013846c48de29a":[6,0,1844,2],
+"df/d0c/classnpc__hor__lumbering__abomination.html#a0d394d1ba52a05a6db0ae983daea7123":[6,0,1844,1],
+"df/d0e/classnpc__toc__pet__warlock.html":[6,0,2183],
+"df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[6,0,2183,1],
+"df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[6,0,2183,2]
 };

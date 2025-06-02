@@ -1,13 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/db8/structboss__mother__shahraz.html#adba94363f74975301472d79f24894df8":[6,0,626,0],
-"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html":[6,0,73],
-"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,73,0],
-"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,73,1],
-"dc/dbb/namespaceWMO.html":[5,0,29],
-"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
-"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18],
-"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,7,13],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a166f226fccae20bae418e894a1786e67":[7,0,0,0,1,3,2,16,7,13,5],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a17b3f7ce0f4341cf08035090bd0ca78d":[7,0,0,0,1,3,2,16,7,13,3],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a1e6ef792a2053eb1a67a79c9f9e284e5":[7,0,0,0,1,3,2,16,7,13,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX311 =
 "dc/dca/classspell__item__recall.html#a59641895cead08de4a4503262505ee73":[6,0,3255,2],
 "dc/dca/classspell__item__recall.html#a6bc9791d0f08440e19b89daa9b65892c":[6,0,3255,1],
 "dc/dca/classspell__item__recall.html#a738e105a48f6c603f3d9a690f44b8745":[6,0,3255,0],
-"dc/dcb/classnpc__jungle__punch__target.html":[6,0,1898]
+"dc/dcb/classnpc__jungle__punch__target.html":[6,0,1898],
+"dc/dcb/classnpc__jungle__punch__target.html#a69220634d9d6b84e464cdc4e0cba91a7":[6,0,1898,1],
+"dc/dcb/classnpc__jungle__punch__target.html#abb38ccb55abfe0f48f360469031c6902":[6,0,1898,2],
+"dc/dcb/structnpc__jenny.html":[6,0,1897],
+"dc/dcb/structnpc__jenny.html#a8700091c82bfff473f3d5563deb69e0b":[6,0,1897,1],
+"dc/dcb/structnpc__jenny.html#aa98caf8b706551470c943b4b722a85ae":[6,0,1897,5],
+"dc/dcb/structnpc__jenny.html#aab8c540ebb90ebbaef961b1feb3013a3":[6,0,1897,2],
+"dc/dcb/structnpc__jenny.html#ab845ba4551900a03c5a995d348a1be55":[6,0,1897,0],
+"dc/dcb/structnpc__jenny.html#ac2115c122c2eac2d5a36d1795d1e6bf0":[6,0,1897,6]
 };

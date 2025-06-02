@@ -1,13 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46":[7,0,0,0,1,2,41,9,60],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a07b2f1753e6047dcfef05d8ec0de5b87":[7,0,0,0,1,2,41,9,60,0],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a":[7,0,0,0,1,2,41,9,60,5],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a117311409fa1e6f10bbd1c95d834ea29":[7,0,0,0,1,2,41,9,60,10],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a1f27638c60972862d26b4e06571644d6":[7,0,0,0,1,2,41,9,60,20],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a3ab6ef392a42ff92930e029af8070983":[7,0,0,0,1,2,41,9,60,7],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a4392934e10d89ec0b192e675ac6c081b":[7,0,0,0,1,2,41,9,60,21],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a65e067ba38cebd257f27cee9ea8af6d4":[7,0,0,0,1,2,41,9,60,23],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a6dac91ba03d68eaf8fadc25648d3546a":[7,0,0,0,1,2,41,9,60,15],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a94a1aa9ac3cd331d95f2d0c421f35f59":[7,0,0,0,1,2,41,9,60,24],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a970bdf3e5f6192a44f1047c0a9c01310":[7,0,0,0,1,2,41,9,60,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX355 =
 "de/d38/classspell__gen__select__target__count.html#a65507c155a8746ff49c58c051b7868e4":[6,0,2985,0],
 "de/d38/classspell__gen__select__target__count.html#a94f86992275123e2e3989655cf077efd":[6,0,2985,3],
 "de/d38/classspell__gen__select__target__count.html#a9c54508790062277c8275d2466e93fb3":[6,0,2985,5],
-"de/d38/classspell__gen__select__target__count.html#acdf5daa848ae185b859c45a1271df68c":[6,0,2985,4]
+"de/d38/classspell__gen__select__target__count.html#acdf5daa848ae185b859c45a1271df68c":[6,0,2985,4],
+"de/d3a/classBIHWrap.html":[6,0,356],
+"de/d3a/classBIHWrap.html#a04248b957bc22dbae570a3d96a03adcd":[6,0,356,8],
+"de/d3a/classBIHWrap.html#a13a40cee1097ab0435eb2d50518a41bf":[6,0,356,11],
+"de/d3a/classBIHWrap.html#a19e64f06ddaf36271df3c1192908042b":[6,0,356,1],
+"de/d3a/classBIHWrap.html#a1e3b7eb01db291f5dd7febe7c7198ea3":[6,0,356,9],
+"de/d3a/classBIHWrap.html#a6dcddc2503a0acabc0f29ddb5eace803":[6,0,356,6],
+"de/d3a/classBIHWrap.html#a7a191f8c9d3b20807ef1db9be654ccd1":[6,0,356,3],
+"de/d3a/classBIHWrap.html#a8572b541e513074132ba0834e081ec05":[6,0,356,2]
 };

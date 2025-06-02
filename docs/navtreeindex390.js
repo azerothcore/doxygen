@@ -1,13 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[7,0,0,0,1,3,4,1,1,3,2,0],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[7,0,0,0,1,3,4,1,1,3,2,1],
-"df/db6/classspell__dtk__raise__dead__aura.html":[6,0,2827],
-"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[6,0,2827,3],
-"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[6,0,2827,1],
-"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[6,0,2827,2],
-"df/db6/classspell__dtk__raise__dead__aura.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3":[6,0,2827,0],
-"df/db6/classspell__gen__vehicle__scaling.html":[6,0,3008],
 "df/db6/classspell__gen__vehicle__scaling.html#a6feb7c77ba258688a83bdb86e9ee53f8":[6,0,3008,2],
 "df/db6/classspell__gen__vehicle__scaling.html#aaa9a6f31ec57542dcd657874c4eb52aa":[6,0,3008,1],
 "df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c":[6,0,3008,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX390 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#a1e26a3ed8d700533df0a51d8db510a4f":[6,0,2323,1],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a5772e54263c613eee365856def5e74e6":[6,0,2323,4],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a914dcbb37baf457750cfe9829d95d88c":[6,0,2323,9],
-"df/dc7/classOPvPCapturePointEP__PWT.html#ab3808f8d756cc5f0b48db9375ae2fa1c":[6,0,2323,6]
+"df/dc7/classOPvPCapturePointEP__PWT.html#ab3808f8d756cc5f0b48db9375ae2fa1c":[6,0,2323,6],
+"df/dc7/classOPvPCapturePointEP__PWT.html#ab5faf124f53394a4a54a86a7bf5d0626":[6,0,2323,2],
+"df/dc7/classOPvPCapturePointEP__PWT.html#ab9bf289c0814e60fd75902b4e87d1e46":[6,0,2323,3],
+"df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2323,5],
+"df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2323,7],
+"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2323,8],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,30,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1]
 };

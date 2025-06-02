@@ -247,7 +247,7 @@ var NAVTREEINDEX40 =
 "d1/dba/classspell__rog__nerves__of__steel.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6":[6,0,3699,1],
 "d1/dba/classspell__rog__nerves__of__steel.html#ac273b669dc396561d9ec8b523659363f":[6,0,3699,3],
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3699,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,42],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,54],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,42,3]
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,42],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,54,3]
 };

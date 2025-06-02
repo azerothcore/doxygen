@@ -1,13 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a4d66d60d0e129b3a873d0c91c03e02f4":[6,0,727,0,10],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a5b289363b4ac0b2be62a8df7deae8ed7":[6,0,727,0,5],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a787f4d84930767b71b4af9e5092734c4":[6,0,727,0,2],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a80cfbecffa68f9fc42028ebdac0975c4":[6,0,727,0,6],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a94896994f59ab4c38479a5c97742128a":[6,0,727,0,23],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a94f291e9cf428fe2912c666fa49360d8":[6,0,727,0,24],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a9b94bb5efd74560dd8d653e0abfdbcf0":[6,0,727,0,20],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ab8b78326fe92f51a9fe21943a3bb980c":[6,0,727,0,0],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ac756adaba702219440fee3bfc2548f3c":[6,0,727,0,13],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#acb8e6c03bbace5d66166c98c13a98290":[6,0,727,0,9],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ad6653183f1dda6bfe3659a94993772ab":[6,0,727,0,11],
@@ -249,5 +241,13 @@ var NAVTREEINDEX358 =
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a48ec95fa51ddf50aa0249a3798bbc898":[6,0,1352,0,12],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a7649a9bcdfafd3c8d7001555e60910af":[6,0,1352,0,4],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a92d30a8e0691e5bc6a58ff26cc06df36":[6,0,1352,0,7],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a951c6f5e1dc460cd820fba49add52898":[6,0,1352,0,3]
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a951c6f5e1dc460cd820fba49add52898":[6,0,1352,0,3],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aa7bbbb942592651857f933503da0e808":[6,0,1352,0,8],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aacbb3bb0d212ffafae475c74790d9c63":[6,0,1352,0,0],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aaf5d69e4993591e0f936e2109df1fb07":[6,0,1352,0,6],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1":[6,0,1352,0,1],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aeca34a55f3c378311ae1b46313cf22de":[6,0,1352,0,11],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#af0e854382a2316363c50d60f03095097":[6,0,1352,0,9],
+"de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html":[6,0,1333,0],
+"de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html#a5398f0aa153f7c4eaea390e33c400b02":[6,0,1333,0,1]
 };

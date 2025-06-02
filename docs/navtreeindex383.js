@@ -1,13 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[7,0,0,0,1,3,5,1,0,0,17,1],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a1062c7a6d406daee37f5167ad66ccb7a":[7,0,0,0,1,3,5,1,0,0,17,8],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a37191cdc843aa3fe0d584b06596a4d97":[7,0,0,0,1,3,5,1,0,0,17,19],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a3979f1af96a127667325c6bf26b9ef91":[7,0,0,0,1,3,5,1,0,0,17,9],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a39b1481f7ab3e86f658ff3c8dc0963da":[7,0,0,0,1,3,5,1,0,0,17,0],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a428948971829548edfb4c152174eeafe":[7,0,0,0,1,3,5,1,0,0,17,4],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a448c0f983380f6c49af3ee7f68c76cc0":[7,0,0,0,1,3,5,1,0,0,17,6],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a4fa2bcbe95f70ba2a555c2560e4fce27":[7,0,0,0,1,3,5,1,0,0,17,29],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a5610bf80c0db9f1397f2c4c8158a6034":[7,0,0,0,1,3,5,1,0,0,17,28],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a587f790fb5010bdfd04d89cf0c562f7e":[7,0,0,0,1,3,5,1,0,0,17,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX383 =
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,3900],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,3900,0],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[6,0,3900,2],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,3900,1]
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,3900,1],
+"df/d7c/structboss__taldaram.html":[6,0,716],
+"df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc":[6,0,716,15],
+"df/d7c/structboss__taldaram.html#a07e1cb5b53906f92a1f485340aa004e5":[6,0,716,5],
+"df/d7c/structboss__taldaram.html#a0f228ea10a538a9ecf70b9f54d399150":[6,0,716,11],
+"df/d7c/structboss__taldaram.html#a17ca98f742a06b1496b2216e984811d8":[6,0,716,8],
+"df/d7c/structboss__taldaram.html#a211707b3e9476a22be011567882f018a":[6,0,716,14],
+"df/d7c/structboss__taldaram.html#a247e5357fcdf8da8e00bef09f3568ca3":[6,0,716,10],
+"df/d7c/structboss__taldaram.html#a3d5b4628d6fb2db91ed073b042eefdc4":[6,0,716,3]
 };

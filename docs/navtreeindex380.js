@@ -1,13 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[6,0,342,4],
-"df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f":[6,0,342,6],
-"df/d3d/classBfCapturePoint.html#a1963ac8eea7452b1bb89923a2e32b0f6":[6,0,342,7],
-"df/d3d/classBfCapturePoint.html#a1a4ed58f9874900d822305dd406b1c67":[6,0,342,8],
-"df/d3d/classBfCapturePoint.html#a1eac786bb758ef6f3295e2241045dc32":[6,0,342,0],
-"df/d3d/classBfCapturePoint.html#a1f857e79dde01c3d966f7c7981e5f190":[6,0,342,17],
-"df/d3d/classBfCapturePoint.html#a2d8624843a640445f04a6b17be63ae3d":[6,0,342,22],
-"df/d3d/classBfCapturePoint.html#a309a0c2b2f3c5696aef46bb7bdf4dade":[6,0,342,1],
 "df/d3d/classBfCapturePoint.html#a309d340d11c1712f5525438f31779671":[6,0,342,14],
 "df/d3d/classBfCapturePoint.html#a3620c3873aca6e90594a4ddc8345102d":[6,0,342,15],
 "df/d3d/classBfCapturePoint.html#a371349b157af4b8ecbacc8814f0bb2ec":[6,0,342,16],
@@ -249,5 +241,13 @@ var NAVTREEINDEX380 =
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[6,0,2109,0,1],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a75611004a543bece9d3f51914547f2fe":[6,0,2109,0,3],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a95eaf518fb18b67820d6195cd525b017":[6,0,2109,0,2],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[6,0,2109,0,6]
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[6,0,2109,0,6],
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[6,0,2109,0,5],
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[6,0,2109,0,0],
+"df/d4e/structBfWGCoordGY.html":[6,0,345],
+"df/d4e/structBfWGCoordGY.html#a405e8098772e77250683985f957ce5f3":[6,0,345,6],
+"df/d4e/structBfWGCoordGY.html#a742fcc91d2daf1a9331f02a90496328c":[6,0,345,0],
+"df/d4e/structBfWGCoordGY.html#a844e4c9c9b1a9a22a817025ccda7f08d":[6,0,345,7],
+"df/d4e/structBfWGCoordGY.html#a87d80377ad632b9d667eecf11ae8faae":[6,0,345,3],
+"df/d4e/structBfWGCoordGY.html#a8b0aed9e6973ce6efc5d89a0d10a4139":[6,0,345,2]
 };
