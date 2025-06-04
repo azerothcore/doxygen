@@ -1581,7 +1581,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (creature-&gt;HasUnitTypeMask(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a1b023722ae04fdce479c20dd23fa2f5a">UNIT_MASK_CONTROLABLE_GUARDIAN</a>))</div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (creature-&gt;HasUnitTypeMask(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a88e63142314cd6348dc5d18aa3cccf69">UNIT_MASK_CONTROLLABLE_GUARDIAN</a>))</div>
 <div class="line"><span class="lineno">   35</span>    {</div>
 <div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (<span class="keyword">reinterpret_cast&lt;</span><a class="code hl_class" href="../../db/d90/classGuardian.html">Guardian</a> const*<span class="keyword">&gt;</span>(creature)-&gt;GetOwner()-&gt;IsPlayer())</div>
 <div class="line"><span class="lineno">   37</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c">PERMIT_BASE_PROACTIVE</a>;</div>
@@ -1593,10 +1593,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aCreatureAI_8h_html_adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c"><div class="ttname"><a href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c">PERMIT_BASE_PROACTIVE</a></div><div class="ttdeci">@ PERMIT_BASE_PROACTIVE</div><div class="ttdef"><b>Definition</b> CreatureAI.h:247</div></div>
 <div class="ttc" id="aCreatureAI_8h_html_adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0"><div class="ttname"><a href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a></div><div class="ttdeci">@ PERMIT_BASE_NO</div><div class="ttdef"><b>Definition</b> CreatureAI.h:244</div></div>
 <div class="ttc" id="aCreatureAI_8h_html_adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58"><div class="ttname"><a href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58">PERMIT_BASE_REACTIVE</a></div><div class="ttdeci">@ PERMIT_BASE_REACTIVE</div><div class="ttdef"><b>Definition</b> CreatureAI.h:246</div></div>
-<div class="ttc" id="aUnitDefines_8h_html_a111db1c9ed7ec701bc06841238cd7b04a1b023722ae04fdce479c20dd23fa2f5a"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a1b023722ae04fdce479c20dd23fa2f5a">UNIT_MASK_CONTROLABLE_GUARDIAN</a></div><div class="ttdeci">@ UNIT_MASK_CONTROLABLE_GUARDIAN</div><div class="ttdef"><b>Definition</b> UnitDefines.h:164</div></div>
+<div class="ttc" id="aUnitDefines_8h_html_a111db1c9ed7ec701bc06841238cd7b04a88e63142314cd6348dc5d18aa3cccf69"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a88e63142314cd6348dc5d18aa3cccf69">UNIT_MASK_CONTROLLABLE_GUARDIAN</a></div><div class="ttdeci">@ UNIT_MASK_CONTROLLABLE_GUARDIAN</div><div class="ttdef"><b>Definition</b> UnitDefines.h:164</div></div>
 <div class="ttc" id="aclassGuardian_html"><div class="ttname"><a href="../../db/d90/classGuardian.html">Guardian</a></div><div class="ttdef"><b>Definition</b> TemporarySummon.h:96</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00696">Unit::HasUnitTypeMask()</a>, <a class="el" href="../../#l00244">PERMIT_BASE_NO</a>, <a class="el" href="../../#l00247">PERMIT_BASE_PROACTIVE</a>, <a class="el" href="../../#l00246">PERMIT_BASE_REACTIVE</a>, and <a class="el" href="../../#l00164">UNIT_MASK_CONTROLABLE_GUARDIAN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00696">Unit::HasUnitTypeMask()</a>, <a class="el" href="../../#l00244">PERMIT_BASE_NO</a>, <a class="el" href="../../#l00247">PERMIT_BASE_PROACTIVE</a>, <a class="el" href="../../#l00246">PERMIT_BASE_REACTIVE</a>, and <a class="el" href="../../#l00164">UNIT_MASK_CONTROLLABLE_GUARDIAN</a>.</p>
 
 </div>
 </div>
@@ -2315,7 +2315,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/da4/classPetAI.html">PetAI</a></li>
-    <li class="footer">Generated on Tue Jun 3 2025 06:24:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jun 4 2025 06:25:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

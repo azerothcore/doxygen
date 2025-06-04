@@ -332,7 +332,7 @@ var searchData=
   ['unit_5fflags_329',['unit_flags',['../dd/d52/structCreatureData.html#a6dc0af68922ece07d5a0d86e361ce51e',1,'CreatureData::unit_flags'],['../d1/d61/structCreatureTemplate.html#a064487f363998c4ead85721187ac38fb',1,'CreatureTemplate::unit_flags']]],
   ['unit_5fflags2_330',['unit_flags2',['../d1/d61/structCreatureTemplate.html#ab2096a032a742c27a0ab23d8f2aee4dc',1,'CreatureTemplate']]],
   ['unit_5fmask_5faccessory_331',['UNIT_MASK_ACCESSORY',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a40e8e1f31413463bc68516889d79c05e',1,'UnitDefines.h']]],
-  ['unit_5fmask_5fcontrolable_5fguardian_332',['UNIT_MASK_CONTROLABLE_GUARDIAN',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a1b023722ae04fdce479c20dd23fa2f5a',1,'UnitDefines.h']]],
+  ['unit_5fmask_5fcontrollable_5fguardian_332',['UNIT_MASK_CONTROLLABLE_GUARDIAN',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a88e63142314cd6348dc5d18aa3cccf69',1,'UnitDefines.h']]],
   ['unit_5fmask_5fguardian_333',['UNIT_MASK_GUARDIAN',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04aa78ce57a101818bbf80cfab56efc6df0',1,'UnitDefines.h']]],
   ['unit_5fmask_5fhunter_5fpet_334',['UNIT_MASK_HUNTER_PET',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a29c6df8bccabc7835f9f89fd1d425d89',1,'UnitDefines.h']]],
   ['unit_5fmask_5fminion_335',['UNIT_MASK_MINION',['../d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04ad9417209eeafc0af3ac6810ae3721ef1',1,'UnitDefines.h']]],

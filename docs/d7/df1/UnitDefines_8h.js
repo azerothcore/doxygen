@@ -376,7 +376,7 @@ var UnitDefines_8h =
       [ "UNIT_MASK_VEHICLE", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a48f393f3882c8c6909a796574d0597d0", null ],
       [ "UNIT_MASK_PUPPET", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a0a83baf1dc26d88294abcc47268333bf", null ],
       [ "UNIT_MASK_HUNTER_PET", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a29c6df8bccabc7835f9f89fd1d425d89", null ],
-      [ "UNIT_MASK_CONTROLABLE_GUARDIAN", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a1b023722ae04fdce479c20dd23fa2f5a", null ],
+      [ "UNIT_MASK_CONTROLLABLE_GUARDIAN", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a88e63142314cd6348dc5d18aa3cccf69", null ],
       [ "UNIT_MASK_ACCESSORY", "d7/df1/UnitDefines_8h.html#a111db1c9ed7ec701bc06841238cd7b04a40e8e1f31413463bc68516889d79c05e", null ]
     ] ],
     [ "DEFINE_ENUM_FLAG", "d7/df1/UnitDefines_8h.html#addedc5583589395e3a654c9efaba27ce", null ],
