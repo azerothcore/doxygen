@@ -568,7 +568,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1218</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1188</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -599,21 +599,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1233</span>        {</div>
-<div class="line"><span class="lineno"> 1234</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a6f6a5dc263a9c68e7712b01da2065dd9">RemoveCorpse</a>();</div>
-<div class="line"><span class="lineno"> 1235</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* LordIllidan = (<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">LordIllidanGUID</a>)))</div>
-<div class="line"><span class="lineno"> 1236</span>                <span class="keywordflow">if</span> (LordIllidan)</div>
-<div class="line"><span class="lineno"> 1237</span>                    <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, LordIllidan-&gt;AI())-&gt;LiveCounter();</div>
-<div class="line"><span class="lineno"> 1238</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1203</span>        {</div>
+<div class="line"><span class="lineno"> 1204</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a6f6a5dc263a9c68e7712b01da2065dd9">RemoveCorpse</a>();</div>
+<div class="line"><span class="lineno"> 1205</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* LordIllidan = (<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">LordIllidanGUID</a>)))</div>
+<div class="line"><span class="lineno"> 1206</span>                <span class="keywordflow">if</span> (LordIllidan)</div>
+<div class="line"><span class="lineno"> 1207</span>                    <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a>, LordIllidan-&gt;AI())-&gt;LiveCounter();</div>
+<div class="line"><span class="lineno"> 1208</span>        }</div>
 <div class="ttc" id="aUnitAI_8h_html_a0476b18cfebeb691aabb4344ec4f8af3"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a></div><div class="ttdeci">#define CAST_AI(a, b)</div><div class="ttdef"><b>Definition</b> UnitAI.h:26</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassCreature_html_a6f6a5dc263a9c68e7712b01da2065dd9"><div class="ttname"><a href="../../db/dd5/classCreature.html#a6f6a5dc263a9c68e7712b01da2065dd9">Creature::RemoveCorpse</a></div><div class="ttdeci">void RemoveCorpse(bool setSpawnTime=true, bool skipVisibility=false)</div><div class="ttdef"><b>Definition</b> Creature.cpp:403</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a11b411dd0b5a32a7bdd0c44242a42372"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">npc_illidari_spawn::npc_illidari_spawnAI::LordIllidanGUID</a></div><div class="ttdeci">ObjectGuid LordIllidanGUID</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1220</div></div>
-<div class="ttc" id="astructnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI_html"><div class="ttname"><a href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a></div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1072</div></div>
+<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a11b411dd0b5a32a7bdd0c44242a42372"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">npc_illidari_spawn::npc_illidari_spawnAI::LordIllidanGUID</a></div><div class="ttdeci">ObjectGuid LordIllidanGUID</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1190</div></div>
+<div class="ttc" id="astructnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI_html"><div class="ttname"><a href="../../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html">npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI</a></div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1042</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01220">LordIllidanGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00403">Creature::RemoveCorpse()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01190">LordIllidanGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00403">Creature::RemoveCorpse()</a>.</p>
 
 </div>
 </div>
@@ -644,7 +644,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1230</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1200</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -672,14 +672,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1225</span>        {</div>
-<div class="line"><span class="lineno"> 1226</span>            <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">LordIllidanGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno"> 1227</span>            <a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1228</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1195</span>        {</div>
+<div class="line"><span class="lineno"> 1196</span>            <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372">LordIllidanGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno"> 1197</span>            <a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1198</span>        }</div>
 <div class="ttc" id="aboss__anubshiah_8cpp_html_ab4d1592137d12427d186be538badd18b"><div class="ttname"><a href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a></div><div class="ttdeci">Timers</div><div class="ttdef"><b>Definition</b> boss_anubshiah.cpp:32</div></div>
 <div class="ttc" id="aclassObjectGuid_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, and <a class="el" href="../../#l01220">LordIllidanGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, and <a class="el" href="../../#l01190">LordIllidanGUID</a>.</p>
 
 </div>
 </div>
@@ -710,90 +710,90 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#add4ea6366614e9fb86e85613bfb910ba" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1241</span>        {</div>
-<div class="line"><span class="lineno"> 1242</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno"> 1243</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1244</span> </div>
-<div class="line"><span class="lineno"> 1245</span>            <span class="keywordflow">if</span> (!<a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a>)</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1211</span>        {</div>
+<div class="line"><span class="lineno"> 1212</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno"> 1213</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1214</span> </div>
+<div class="line"><span class="lineno"> 1215</span>            <span class="keywordflow">if</span> (!<a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a>)</div>
+<div class="line"><span class="lineno"> 1216</span>            {</div>
+<div class="line"><span class="lineno"> 1217</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22075)<span class="comment">//Illidari Soldier</span></div>
+<div class="line"><span class="lineno"> 1218</span>                {</div>
+<div class="line"><span class="lineno"> 1219</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
+<div class="line"><span class="lineno"> 1220</span>                }</div>
+<div class="line"><span class="lineno"> 1221</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22074)<span class="comment">//Illidari Mind Breaker</span></div>
+<div class="line"><span class="lineno"> 1222</span>                {</div>
+<div class="line"><span class="lineno"> 1223</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 10 * 1000);</div>
+<div class="line"><span class="lineno"> 1224</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
+<div class="line"><span class="lineno"> 1225</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
+<div class="line"><span class="lineno"> 1226</span>                }</div>
+<div class="line"><span class="lineno"> 1227</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 19797)<span class="comment">// Illidari Highlord</span></div>
+<div class="line"><span class="lineno"> 1228</span>                {</div>
+<div class="line"><span class="lineno"> 1229</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
+<div class="line"><span class="lineno"> 1230</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
+<div class="line"><span class="lineno"> 1231</span>                }</div>
+<div class="line"><span class="lineno"> 1232</span>                <a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1233</span>            }</div>
+<div class="line"><span class="lineno"> 1234</span>            <span class="comment">//Illidari Soldier</span></div>
+<div class="line"><span class="lineno"> 1235</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22075)</div>
+<div class="line"><span class="lineno"> 1236</span>            {</div>
+<div class="line"><span class="lineno"> 1237</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1238</span>                {</div>
+<div class="line"><span class="lineno"> 1239</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].SpellId);<span class="comment">//Spellbreaker</span></div>
+<div class="line"><span class="lineno"> 1240</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 5 * 1000);</div>
+<div class="line"><span class="lineno"> 1241</span>                }</div>
+<div class="line"><span class="lineno"> 1242</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1243</span>            }</div>
+<div class="line"><span class="lineno"> 1244</span>            <span class="comment">//Illidari Mind Breaker</span></div>
+<div class="line"><span class="lineno"> 1245</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22074)</div>
 <div class="line"><span class="lineno"> 1246</span>            {</div>
-<div class="line"><span class="lineno"> 1247</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22075)<span class="comment">//Illidari Soldier</span></div>
+<div class="line"><span class="lineno"> 1247</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
 <div class="line"><span class="lineno"> 1248</span>                {</div>
-<div class="line"><span class="lineno"> 1249</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
-<div class="line"><span class="lineno"> 1250</span>                }</div>
-<div class="line"><span class="lineno"> 1251</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22074)<span class="comment">//Illidari Mind Breaker</span></div>
-<div class="line"><span class="lineno"> 1252</span>                {</div>
-<div class="line"><span class="lineno"> 1253</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 10 * 1000);</div>
-<div class="line"><span class="lineno"> 1254</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
-<div class="line"><span class="lineno"> 1255</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
-<div class="line"><span class="lineno"> 1256</span>                }</div>
-<div class="line"><span class="lineno"> 1257</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 19797)<span class="comment">// Illidari Highlord</span></div>
-<div class="line"><span class="lineno"> 1258</span>                {</div>
-<div class="line"><span class="lineno"> 1259</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
-<div class="line"><span class="lineno"> 1260</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">Timer1</a> + (rand() % 4 * 1000);</div>
-<div class="line"><span class="lineno"> 1261</span>                }</div>
-<div class="line"><span class="lineno"> 1262</span>                <a class="code hl_enumeration" href="../../d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b">Timers</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1263</span>            }</div>
-<div class="line"><span class="lineno"> 1264</span>            <span class="comment">//Illidari Soldier</span></div>
-<div class="line"><span class="lineno"> 1265</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22075)</div>
-<div class="line"><span class="lineno"> 1266</span>            {</div>
-<div class="line"><span class="lineno"> 1267</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1268</span>                {</div>
-<div class="line"><span class="lineno"> 1269</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].SpellId);<span class="comment">//Spellbreaker</span></div>
-<div class="line"><span class="lineno"> 1270</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[0].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 5 * 1000);</div>
-<div class="line"><span class="lineno"> 1271</span>                }</div>
-<div class="line"><span class="lineno"> 1272</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1273</span>            }</div>
-<div class="line"><span class="lineno"> 1274</span>            <span class="comment">//Illidari Mind Breaker</span></div>
-<div class="line"><span class="lineno"> 1275</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 22074)</div>
-<div class="line"><span class="lineno"> 1276</span>            {</div>
-<div class="line"><span class="lineno"> 1277</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1278</span>                {</div>
-<div class="line"><span class="lineno"> 1279</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a>, 0))</div>
-<div class="line"><span class="lineno"> 1280</span>                    {</div>
-<div class="line"><span class="lineno"> 1281</span>                        <span class="keywordflow">if</span> (target-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno"> 1282</span>                        {</div>
-<div class="line"><span class="lineno"> 1283</span>                            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].SpellId); <span class="comment">//Focused Bursts</span></div>
-<div class="line"><span class="lineno"> 1284</span>                            <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 5 * 1000);</div>
-<div class="line"><span class="lineno"> 1285</span>                        }</div>
-<div class="line"><span class="lineno"> 1286</span>                        <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = 2000;</div>
-<div class="line"><span class="lineno"> 1287</span>                    }</div>
-<div class="line"><span class="lineno"> 1288</span>                }</div>
-<div class="line"><span class="lineno"> 1289</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1290</span> </div>
-<div class="line"><span class="lineno"> 1291</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1292</span>                {</div>
-<div class="line"><span class="lineno"> 1293</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].SpellId);<span class="comment">//Psychic Scream</span></div>
-<div class="line"><span class="lineno"> 1294</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 13 * 1000);</div>
-<div class="line"><span class="lineno"> 1295</span>                }</div>
-<div class="line"><span class="lineno"> 1296</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1297</span> </div>
-<div class="line"><span class="lineno"> 1298</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1299</span>                {</div>
-<div class="line"><span class="lineno"> 1300</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].SpellId);<span class="comment">//Mind Blast</span></div>
-<div class="line"><span class="lineno"> 1301</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 8 * 1000);</div>
-<div class="line"><span class="lineno"> 1302</span>                }</div>
-<div class="line"><span class="lineno"> 1303</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1304</span>            }</div>
-<div class="line"><span class="lineno"> 1305</span>            <span class="comment">//Illidari Highlord</span></div>
-<div class="line"><span class="lineno"> 1306</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 19797)</div>
-<div class="line"><span class="lineno"> 1307</span>            {</div>
-<div class="line"><span class="lineno"> 1308</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1309</span>                {</div>
-<div class="line"><span class="lineno"> 1310</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].SpellId);<span class="comment">//Curse Of Flames</span></div>
-<div class="line"><span class="lineno"> 1311</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 10 * 1000);</div>
-<div class="line"><span class="lineno"> 1312</span>                }</div>
-<div class="line"><span class="lineno"> 1313</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1314</span> </div>
-<div class="line"><span class="lineno"> 1315</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1316</span>                {</div>
-<div class="line"><span class="lineno"> 1317</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].SpellId);<span class="comment">//Flamestrike</span></div>
-<div class="line"><span class="lineno"> 1318</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 7 * 13000);</div>
-<div class="line"><span class="lineno"> 1319</span>                }</div>
-<div class="line"><span class="lineno"> 1320</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1321</span>            }</div>
-<div class="line"><span class="lineno"> 1322</span> </div>
-<div class="line"><span class="lineno"> 1323</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno"> 1324</span>        }</div>
+<div class="line"><span class="lineno"> 1249</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a>, 0))</div>
+<div class="line"><span class="lineno"> 1250</span>                    {</div>
+<div class="line"><span class="lineno"> 1251</span>                        <span class="keywordflow">if</span> (target-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno"> 1252</span>                        {</div>
+<div class="line"><span class="lineno"> 1253</span>                            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].SpellId); <span class="comment">//Focused Bursts</span></div>
+<div class="line"><span class="lineno"> 1254</span>                            <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[1].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 5 * 1000);</div>
+<div class="line"><span class="lineno"> 1255</span>                        }</div>
+<div class="line"><span class="lineno"> 1256</span>                        <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = 2000;</div>
+<div class="line"><span class="lineno"> 1257</span>                    }</div>
+<div class="line"><span class="lineno"> 1258</span>                }</div>
+<div class="line"><span class="lineno"> 1259</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1260</span> </div>
+<div class="line"><span class="lineno"> 1261</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1262</span>                {</div>
+<div class="line"><span class="lineno"> 1263</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].SpellId);<span class="comment">//Psychic Scream</span></div>
+<div class="line"><span class="lineno"> 1264</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[2].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 13 * 1000);</div>
+<div class="line"><span class="lineno"> 1265</span>                }</div>
+<div class="line"><span class="lineno"> 1266</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1267</span> </div>
+<div class="line"><span class="lineno"> 1268</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1269</span>                {</div>
+<div class="line"><span class="lineno"> 1270</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].SpellId);<span class="comment">//Mind Blast</span></div>
+<div class="line"><span class="lineno"> 1271</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[3].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 8 * 1000);</div>
+<div class="line"><span class="lineno"> 1272</span>                }</div>
+<div class="line"><span class="lineno"> 1273</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">SpellTimer3</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1274</span>            }</div>
+<div class="line"><span class="lineno"> 1275</span>            <span class="comment">//Illidari Highlord</span></div>
+<div class="line"><span class="lineno"> 1276</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == 19797)</div>
+<div class="line"><span class="lineno"> 1277</span>            {</div>
+<div class="line"><span class="lineno"> 1278</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1279</span>                {</div>
+<div class="line"><span class="lineno"> 1280</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].SpellId);<span class="comment">//Curse Of Flames</span></div>
+<div class="line"><span class="lineno"> 1281</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[4].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 10 * 1000);</div>
+<div class="line"><span class="lineno"> 1282</span>                }</div>
+<div class="line"><span class="lineno"> 1283</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">SpellTimer1</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1284</span> </div>
+<div class="line"><span class="lineno"> 1285</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1286</span>                {</div>
+<div class="line"><span class="lineno"> 1287</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].SpellId);<span class="comment">//Flamestrike</span></div>
+<div class="line"><span class="lineno"> 1288</span>                    <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> = <a class="code hl_variable" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a>[5].<a class="code hl_variable" href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">Timer2</a> + (rand() % 7 * 13000);</div>
+<div class="line"><span class="lineno"> 1289</span>                }</div>
+<div class="line"><span class="lineno"> 1290</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">SpellTimer2</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1291</span>            }</div>
+<div class="line"><span class="lineno"> 1292</span> </div>
+<div class="line"><span class="lineno"> 1293</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno"> 1294</span>        }</div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a></div><div class="ttdeci">@ Random</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:282</div></div>
 <div class="ttc" id="aclassObject_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition</b> Object.h:116</div></div>
@@ -802,14 +802,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnitAI_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:110</div></div>
 <div class="ttc" id="aclassUnitAI_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
-<div class="ttc" id="astructSpawnSpells_html_a108dee679b1f5d9fb8351f7b4b4f3a56"><div class="ttname"><a href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">SpawnSpells::Timer2</a></div><div class="ttdeci">uint32 Timer2</div><div class="ttdef"><b>Definition</b> zone_silithus.cpp:286</div></div>
-<div class="ttc" id="astructSpawnSpells_html_a9a35c148286e88f48b174be8b74fc5d0"><div class="ttname"><a href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">SpawnSpells::Timer1</a></div><div class="ttdeci">uint32 Timer1</div><div class="ttdef"><b>Definition</b> zone_silithus.cpp:286</div></div>
-<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a644616bab96e1bd9bbe2500bf1b14988"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer2</a></div><div class="ttdeci">uint32 SpellTimer2</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1221</div></div>
-<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a9889f9673292613dc46387862f3e8849"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer3</a></div><div class="ttdeci">uint32 SpellTimer3</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1221</div></div>
-<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_afbf1b352275c0fd16fdf252eac9e0c4a"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer1</a></div><div class="ttdeci">uint32 SpellTimer1</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1221</div></div>
-<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a1d25fd6452855fb4166558c34940caff"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a></div><div class="ttdeci">static SpawnSpells SpawnCast[]</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:884</div></div>
+<div class="ttc" id="astructSpawnSpells_html_a108dee679b1f5d9fb8351f7b4b4f3a56"><div class="ttname"><a href="../../da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56">SpawnSpells::Timer2</a></div><div class="ttdeci">uint32 Timer2</div><div class="ttdef"><b>Definition</b> zone_silithus.cpp:264</div></div>
+<div class="ttc" id="astructSpawnSpells_html_a9a35c148286e88f48b174be8b74fc5d0"><div class="ttname"><a href="../../da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0">SpawnSpells::Timer1</a></div><div class="ttdeci">uint32 Timer1</div><div class="ttdef"><b>Definition</b> zone_silithus.cpp:264</div></div>
+<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a644616bab96e1bd9bbe2500bf1b14988"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer2</a></div><div class="ttdeci">uint32 SpellTimer2</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1191</div></div>
+<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_a9889f9673292613dc46387862f3e8849"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a9889f9673292613dc46387862f3e8849">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer3</a></div><div class="ttdeci">uint32 SpellTimer3</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1191</div></div>
+<div class="ttc" id="astructnpc__illidari__spawn_1_1npc__illidari__spawnAI_html_afbf1b352275c0fd16fdf252eac9e0c4a"><div class="ttname"><a href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#afbf1b352275c0fd16fdf252eac9e0c4a">npc_illidari_spawn::npc_illidari_spawnAI::SpellTimer1</a></div><div class="ttdeci">uint32 SpellTimer1</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:1191</div></div>
+<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a1d25fd6452855fb4166558c34940caff"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff">SpawnCast</a></div><div class="ttdeci">static SpawnSpells SpawnCast[]</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:854</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00240">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00884">SpawnCast</a>, <a class="el" href="../../#l01221">SpellTimer1</a>, <a class="el" href="../../#l01221">SpellTimer2</a>, <a class="el" href="../../#l01221">SpellTimer3</a>, <a class="el" href="../../#l00286">SpawnSpells::Timer1</a>, <a class="el" href="../../#l00286">SpawnSpells::Timer2</a>, and <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00240">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00854">SpawnCast</a>, <a class="el" href="../../#l01191">SpellTimer1</a>, <a class="el" href="../../#l01191">SpellTimer2</a>, <a class="el" href="../../#l01191">SpellTimer3</a>, <a class="el" href="../../#l00264">SpawnSpells::Timer1</a>, <a class="el" href="../../#l00264">SpawnSpells::Timer2</a>, and <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -826,7 +826,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01232">JustDied()</a>, and <a class="el" href="../../#l01224">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01202">JustDied()</a>, and <a class="el" href="../../#l01194">Reset()</a>.</p>
 
 </div>
 </div>
@@ -842,7 +842,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01240">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01210">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -858,7 +858,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01240">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01210">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -874,7 +874,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01240">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01210">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -901,7 +901,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d18/classnpc__illidari__spawn.html">npc_illidari_spawn</a></li><li class="navelem"><a class="el" href="../../dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html">npc_illidari_spawnAI</a></li>
-    <li class="footer">Generated on Thu Jun 5 2025 06:24:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jun 6 2025 06:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

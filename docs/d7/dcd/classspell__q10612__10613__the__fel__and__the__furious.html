@@ -314,33 +314,33 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>    {</div>
-<div class="line"><span class="lineno">   64</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* charmer = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683">GetCharmerOrOwnerPlayerOrPlayerItself</a>();</div>
-<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">if</span> (!charmer)</div>
-<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>        std::list&lt;GameObject*&gt; gList;</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a3abc3a0e7301fe3285ac566edba3eb2c">GetGameObjectListWithEntryInGrid</a>(gList, 184979, 30.0f);</div>
-<div class="line"><span class="lineno">   70</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> counter = 0;</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">for</span> (std::list&lt;GameObject*&gt;::const_iterator itr = gList.begin(); itr != gList.end(); ++itr, ++counter)</div>
-<div class="line"><span class="lineno">   72</span>        {</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">if</span> (counter &gt;= 10)</div>
-<div class="line"><span class="lineno">   74</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   75</span>            <a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* go = *itr;</div>
-<div class="line"><span class="lineno">   76</span>            <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>())</div>
-<div class="line"><span class="lineno">   77</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   78</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr2 = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce">SummonTrigger</a>(go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() + 2.0f, 0.0f, 100);</div>
-<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">if</span> (cr2)</div>
-<div class="line"><span class="lineno">   80</span>            {</div>
-<div class="line"><span class="lineno">   81</span>                cr2-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
-<div class="line"><span class="lineno">   82</span>                cr2-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a49593df9652f3474f6de436e6f82e51e">ReplaceAllUnitFlags</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a62a8d5eb007ebec4e8dae0d8a6e076a5">UNIT_FLAG_NONE</a>);</div>
-<div class="line"><span class="lineno">   83</span>                <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(cr2, <a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   84</span>            }</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>);</div>
-<div class="line"><span class="lineno">   87</span>            charmer-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a">KilledMonsterCredit</a>(21959);</div>
-<div class="line"><span class="lineno">   88</span>        }</div>
-<div class="line"><span class="lineno">   89</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* charmer = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683">GetCharmerOrOwnerPlayerOrPlayerItself</a>();</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">if</span> (!charmer)</div>
+<div class="line"><span class="lineno">   45</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>        std::list&lt;GameObject*&gt; gList;</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a3abc3a0e7301fe3285ac566edba3eb2c">GetGameObjectListWithEntryInGrid</a>(gList, 184979, 30.0f);</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> counter = 0;</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">for</span> (std::list&lt;GameObject*&gt;::const_iterator itr = gList.begin(); itr != gList.end(); ++itr, ++counter)</div>
+<div class="line"><span class="lineno">   51</span>        {</div>
+<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">if</span> (counter &gt;= 10)</div>
+<div class="line"><span class="lineno">   53</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   54</span>            <a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* go = *itr;</div>
+<div class="line"><span class="lineno">   55</span>            <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>())</div>
+<div class="line"><span class="lineno">   56</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   57</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr2 = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce">SummonTrigger</a>(go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() + 2.0f, 0.0f, 100);</div>
+<div class="line"><span class="lineno">   58</span>            <span class="keywordflow">if</span> (cr2)</div>
+<div class="line"><span class="lineno">   59</span>            {</div>
+<div class="line"><span class="lineno">   60</span>                cr2-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
+<div class="line"><span class="lineno">   61</span>                cr2-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a49593df9652f3474f6de436e6f82e51e">ReplaceAllUnitFlags</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a62a8d5eb007ebec4e8dae0d8a6e076a5">UNIT_FLAG_NONE</a>);</div>
+<div class="line"><span class="lineno">   62</span>                <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(cr2, <a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   63</span>            }</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>);</div>
+<div class="line"><span class="lineno">   66</span>            charmer-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a">KilledMonsterCredit</a>(21959);</div>
+<div class="line"><span class="lineno">   67</span>        }</div>
+<div class="line"><span class="lineno">   68</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a></div><div class="ttdeci">@ GO_JUST_DEACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:113</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a></div><div class="ttdeci">@ FACTION_MONSTER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:195</div></div>
@@ -361,11 +361,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructPosition_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition</b> Position.h:123</div></div>
 <div class="ttc" id="astructPosition_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition</b> Position.h:121</div></div>
 <div class="ttc" id="astructPosition_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition</b> Position.h:122</div></div>
-<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a></div><div class="ttdeci">@ SPELL_ROCKET_LAUNCHER</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:50</div></div>
+<div class="ttc" id="azone__shadowmoon__valley_8cpp_html_a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e"><div class="ttname"><a href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a></div><div class="ttdeci">@ SPELL_ROCKET_LAUNCHER</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:29</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01179">Unit::CastSpell()</a>, <a class="el" href="../../#l00195">FACTION_MONSTER</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l10660">Unit::GetCharmerOrOwnerPlayerOrPlayerItself()</a>, <a class="el" href="../../#l02506">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00189">GameObject::isSpawned()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l00705">Unit::ReplaceAllUnitFlags()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l02427">GameObject::SetLootState()</a>, <a class="el" href="../../#l00050">SPELL_ROCKET_LAUNCHER</a>, <a class="el" href="../../#l02417">WorldObject::SummonTrigger()</a>, and <a class="el" href="../../#l00249">UNIT_FLAG_NONE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01179">Unit::CastSpell()</a>, <a class="el" href="../../#l00195">FACTION_MONSTER</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l10660">Unit::GetCharmerOrOwnerPlayerOrPlayerItself()</a>, <a class="el" href="../../#l02506">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00189">GameObject::isSpawned()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l00705">Unit::ReplaceAllUnitFlags()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l02427">GameObject::SetLootState()</a>, <a class="el" href="../../#l00029">SPELL_ROCKET_LAUNCHER</a>, <a class="el" href="../../#l02417">WorldObject::SummonTrigger()</a>, and <a class="el" href="../../#l00249">UNIT_FLAG_NONE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00091">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00070">Register()</a>.</p>
 
 </div>
 </div>
@@ -419,16 +419,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   92</span>    {</div>
-<div class="line"><span class="lineno">   93</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5">spell_q10612_10613_the_fel_and_the_furious::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5">spell_q10612_10613_the_fel_and_the_furious::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:855</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__q10612__10613__the__fel__and__the__furious_html_ad018d907a85ee31d3194823a4c02a1a5"><div class="ttname"><a href="../../d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5">spell_q10612_10613_the_fel_and_the_furious::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:62</div></div>
+<div class="ttc" id="aclassspell__q10612__10613__the__fel__and__the__furious_html_ad018d907a85ee31d3194823a4c02a1a5"><div class="ttname"><a href="../../d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5">spell_q10612_10613_the_fel_and_the_furious::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_shadowmoon_valley.cpp:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00062">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00855">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00041">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00855">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -457,12 +457,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a> });</div>
-<div class="line"><span class="lineno">   60</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e">SPELL_ROCKET_LAUNCHER</a> });</div>
+<div class="line"><span class="lineno">   39</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">SPELL_ROCKET_LAUNCHER</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00029">SPELL_ROCKET_LAUNCHER</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -475,7 +475,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html">spell_q10612_10613_the_fel_and_the_furious</a></li>
-    <li class="footer">Generated on Thu Jun 5 2025 06:24:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jun 6 2025 06:25:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

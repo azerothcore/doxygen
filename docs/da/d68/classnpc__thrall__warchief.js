@@ -5,5 +5,5 @@ var classnpc__thrall__warchief =
     [ "GetAI", "da/d68/classnpc__thrall__warchief.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
     [ "OnGossipHello", "da/d68/classnpc__thrall__warchief.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
     [ "OnGossipSelect", "da/d68/classnpc__thrall__warchief.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "da/d68/classnpc__thrall__warchief.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "OnQuestReward", "da/d68/classnpc__thrall__warchief.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

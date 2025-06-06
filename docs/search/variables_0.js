@@ -1296,7 +1296,7 @@ var searchData=
   ['_5fprotectorguid_1293',['_protectorGUID',['../d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833',1,'npc_sunblade_scout']]],
   ['_5fproxyheaderreadingenabled_1294',['_proxyHeaderReadingEnabled',['../d5/d87/classNetworkThread.html#aac8fdbb8b3ec4f0edac5a1b0aa929fa4',1,'NetworkThread']]],
   ['_5fproxyheaderreadingstate_1295',['_proxyHeaderReadingState',['../d4/d33/classSocket.html#a90e0ed7fcf294898d3d866e0c2293127',1,'Socket']]],
-  ['_5fptr_1296',['_ptr',['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr'],['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr']]],
+  ['_5fptr_1296',['_ptr',['../d0/d45/classLinkedListHead_1_1Iterator.html#a782629b43ea96169aab42f895e79c473',1,'LinkedListHead::Iterator::_Ptr'],['../dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e',1,'ResultIterator::_ptr']]],
   ['_5fpummelercount_1297',['_pummelerCount',['../d3/d15/structnpc__xt002__heart_1_1npc__xt002__heartAI.html#a8179da94f961897085289568468d2bba',1,'npc_xt002_heart::npc_xt002_heartAI']]],
   ['_5fpursuittargetguid_1298',['_pursuitTargetGUID',['../dd/d08/structboss__grilek_1_1boss__grilekAI.html#ad20779cdb8d82ae8a54c12a8d4b0bada',1,'boss_grilek::boss_grilekAI']]],
   ['_5fpvp_1299',['_pvp',['../d6/d79/classOPvPCapturePoint.html#ab3219f9a9866fa4643f3fa66f7bc70c8',1,'OPvPCapturePoint']]],

@@ -2372,6 +2372,7 @@ var annotated_dup =
     [ "npc_kiljaeden_controller", "d3/d0c/structnpc__kiljaeden__controller.html", "d3/d0c/structnpc__kiljaeden__controller" ],
     [ "npc_kilrek", "dd/d01/structnpc__kilrek.html", "dd/d01/structnpc__kilrek" ],
     [ "npc_kinetic_bomb", "d5/d4a/classnpc__kinetic__bomb.html", "d5/d4a/classnpc__kinetic__bomb" ],
+    [ "npc_king_varian_wrynn", "d0/d56/classnpc__king__varian__wrynn.html", "d0/d56/classnpc__king__varian__wrynn" ],
     [ "npc_koltira_deathweaver", "dd/dda/classnpc__koltira__deathweaver.html", "dd/dda/classnpc__koltira__deathweaver" ],
     [ "npc_korkron_or_wildhammer", "d4/dc6/classnpc__korkron__or__wildhammer.html", "d4/dc6/classnpc__korkron__or__wildhammer" ],
     [ "npc_kservant", "d7/d56/classnpc__kservant.html", "d7/d56/classnpc__kservant" ],

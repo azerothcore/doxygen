@@ -1,5 +1,10 @@
 var NAVTREEINDEX277 =
 {
+"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a0e5872a54b0ef1b9d7196ca9acf8fa46":[7,0,0,0,1,3,9,4,162,0],
+"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a1e9a8b1d9f09bf438a6a64718f3943f8":[7,0,0,0,1,3,9,4,162,3],
+"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a6373afc1895024a22c89e4ab4e7321c3":[7,0,0,0,1,3,9,4,162,2],
+"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a6bcf0e67bcae795187d3e21cf1ffe873":[7,0,0,0,1,3,9,4,162,5],
+"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a93a2e841ed79bb7e3ea61fa2c8ecaf8b":[7,0,0,0,1,3,9,4,162,1],
 "db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35aa6c7486caa56fc4810cf9240b8b9a3c6":[7,0,0,0,1,3,9,4,162,4],
 "db/d6e/spell__item_8cpp.html#a2724ab7ae7b58cb4027d63b37f2d23c3":[7,0,0,0,1,3,9,4,135],
 "db/d6e/spell__item_8cpp.html#a2724ab7ae7b58cb4027d63b37f2d23c3a9470479026b258bba6b1535d6829f2e6":[7,0,0,0,1,3,9,4,135,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX277 =
 "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4":[7,0,0,0,1,3,9,4,185,1],
 "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9":[7,0,0,0,1,3,9,4,185,0],
 "db/d6e/spell__item_8cpp.html#aebeab6810ce34d1a4abf52cdec763a65":[7,0,0,0,1,3,9,4,195],
-"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923":[7,0,0,0,1,3,9,4,142],
-"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923a63b15fd509bec30938bc419f84dfde0a":[7,0,0,0,1,3,9,4,142,3],
-"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923aa3c3045a9fe95dae08ef3a8f16453c98":[7,0,0,0,1,3,9,4,142,0],
-"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923ab60620f9ee854a1b11f7a659d166da38":[7,0,0,0,1,3,9,4,142,1],
-"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923afc6cdc6aa58e5609f93e57d1465799e0":[7,0,0,0,1,3,9,4,142,2],
-"db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513":[7,0,0,0,1,3,9,4,125]
+"db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923":[7,0,0,0,1,3,9,4,142]
 };

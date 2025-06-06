@@ -344,46 +344,46 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  791</span>    {</div>
-<div class="line"><span class="lineno">  792</span>        <span class="keywordflow">if</span> (!isTriggeredAtSpellProcEvent || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>())</div>
-<div class="line"><span class="lineno">  793</span>        {</div>
-<div class="line"><span class="lineno">  794</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  795</span>        }</div>
-<div class="line"><span class="lineno">  796</span> </div>
-<div class="line"><span class="lineno">  797</span>        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a> = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno">  798</span> </div>
-<div class="line"><span class="lineno">  799</span>        <span class="keywordtype">bool</span> selectCaster = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  800</span>        <span class="comment">// Triggered spells cost no mana so we need triggering spellInfo</span></div>
-<div class="line"><span class="lineno">  801</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* triggeredByAuraSpellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a18426bb408d5f0f35ce52e438653c5e0">GetTriggerAuraSpell</a>())</div>
-<div class="line"><span class="lineno">  802</span>        {</div>
-<div class="line"><span class="lineno">  803</span>            <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a> = triggeredByAuraSpellInfo;</div>
-<div class="line"><span class="lineno">  804</span>            selectCaster = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  805</span>        }</div>
-<div class="line"><span class="lineno">  806</span> </div>
-<div class="line"><span class="lineno">  807</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>)</div>
-<div class="line"><span class="lineno">  808</span>        {</div>
-<div class="line"><span class="lineno">  809</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  810</span>        }</div>
-<div class="line"><span class="lineno">  811</span> </div>
-<div class="line"><span class="lineno">  812</span>        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a> = 1;</div>
-<div class="line"><span class="lineno">  813</span> </div>
-<div class="line"><span class="lineno">  814</span>        <span class="comment">// If spell is periodic, mana amount is divided by tick number</span></div>
-<div class="line"><span class="lineno">  815</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a7cc7021be95c9c5cd8fb666f599e7ac4">GetTriggerAuraEffectIndex</a>() &gt;= <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>)</div>
-<div class="line"><span class="lineno">  816</span>        {</div>
-<div class="line"><span class="lineno">  817</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  818</span>            {</div>
-<div class="line"><span class="lineno">  819</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = (selectCaster ? eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() : eventInfo.GetActionTarget()))</div>
-<div class="line"><span class="lineno">  820</span>                {</div>
-<div class="line"><span class="lineno">  821</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = target-&gt;GetAuraEffect(<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a>, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a7cc7021be95c9c5cd8fb666f599e7ac4">GetTriggerAuraEffectIndex</a>(), caster-&gt;GetGUID()))</div>
-<div class="line"><span class="lineno">  822</span>                    {</div>
-<div class="line"><span class="lineno">  823</span>                        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a> = std::max(1, aurEff-&gt;GetTotalTicks());</div>
-<div class="line"><span class="lineno">  824</span>                    }</div>
-<div class="line"><span class="lineno">  825</span>                }</div>
-<div class="line"><span class="lineno">  826</span>            }</div>
-<div class="line"><span class="lineno">  827</span>        }</div>
-<div class="line"><span class="lineno">  828</span> </div>
-<div class="line"><span class="lineno">  829</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  830</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  788</span>    {</div>
+<div class="line"><span class="lineno">  789</span>        <span class="keywordflow">if</span> (!isTriggeredAtSpellProcEvent || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>())</div>
+<div class="line"><span class="lineno">  790</span>        {</div>
+<div class="line"><span class="lineno">  791</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  792</span>        }</div>
+<div class="line"><span class="lineno">  793</span> </div>
+<div class="line"><span class="lineno">  794</span>        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a> = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno">  795</span> </div>
+<div class="line"><span class="lineno">  796</span>        <span class="keywordtype">bool</span> selectCaster = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  797</span>        <span class="comment">// Triggered spells cost no mana so we need triggering spellInfo</span></div>
+<div class="line"><span class="lineno">  798</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* triggeredByAuraSpellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a18426bb408d5f0f35ce52e438653c5e0">GetTriggerAuraSpell</a>())</div>
+<div class="line"><span class="lineno">  799</span>        {</div>
+<div class="line"><span class="lineno">  800</span>            <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a> = triggeredByAuraSpellInfo;</div>
+<div class="line"><span class="lineno">  801</span>            selectCaster = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  802</span>        }</div>
+<div class="line"><span class="lineno">  803</span> </div>
+<div class="line"><span class="lineno">  804</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>)</div>
+<div class="line"><span class="lineno">  805</span>        {</div>
+<div class="line"><span class="lineno">  806</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  807</span>        }</div>
+<div class="line"><span class="lineno">  808</span> </div>
+<div class="line"><span class="lineno">  809</span>        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a> = 1;</div>
+<div class="line"><span class="lineno">  810</span> </div>
+<div class="line"><span class="lineno">  811</span>        <span class="comment">// If spell is periodic, mana amount is divided by tick number</span></div>
+<div class="line"><span class="lineno">  812</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a7cc7021be95c9c5cd8fb666f599e7ac4">GetTriggerAuraEffectIndex</a>() &gt;= <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>)</div>
+<div class="line"><span class="lineno">  813</span>        {</div>
+<div class="line"><span class="lineno">  814</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  815</span>            {</div>
+<div class="line"><span class="lineno">  816</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = (selectCaster ? eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() : eventInfo.GetActionTarget()))</div>
+<div class="line"><span class="lineno">  817</span>                {</div>
+<div class="line"><span class="lineno">  818</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = target-&gt;GetAuraEffect(<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a>, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a7cc7021be95c9c5cd8fb666f599e7ac4">GetTriggerAuraEffectIndex</a>(), caster-&gt;GetGUID()))</div>
+<div class="line"><span class="lineno">  819</span>                    {</div>
+<div class="line"><span class="lineno">  820</span>                        <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a> = std::max(1, aurEff-&gt;GetTotalTicks());</div>
+<div class="line"><span class="lineno">  821</span>                    }</div>
+<div class="line"><span class="lineno">  822</span>                }</div>
+<div class="line"><span class="lineno">  823</span>            }</div>
+<div class="line"><span class="lineno">  824</span>        }</div>
+<div class="line"><span class="lineno">  825</span> </div>
+<div class="line"><span class="lineno">  826</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  827</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
@@ -395,12 +395,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:316</div></div>
 <div class="ttc" id="aclassSpellInfo_html_a49bc14059c2bd3785231c52e0d54d382"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">SpellInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition</b> SpellInfo.h:320</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
-<div class="ttc" id="aclassspell__mage__master__of__elements_html_a66a5eb4caa7b43c34b2830d9a3d2f994"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">spell_mage_master_of_elements::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:858</div></div>
-<div class="ttc" id="aclassspell__mage__master__of__elements_html_ae23b54499fff879a096bd459e264c4f0"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">spell_mage_master_of_elements::_ticksModifier</a></div><div class="ttdeci">uint8 _ticksModifier</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:859</div></div>
+<div class="ttc" id="aclassspell__mage__master__of__elements_html_a66a5eb4caa7b43c34b2830d9a3d2f994"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">spell_mage_master_of_elements::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:855</div></div>
+<div class="ttc" id="aclassspell__mage__master__of__elements_html_ae23b54499fff879a096bd459e264c4f0"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">spell_mage_master_of_elements::_ticksModifier</a></div><div class="ttdeci">uint8 _ticksModifier</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:856</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00858">_spellInfo</a>, <a class="el" href="../../#l00859">_ticksModifier</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00441">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00440">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00185">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l00453">ProcEventInfo::GetTriggerAuraEffectIndex()</a>, <a class="el" href="../../#l00452">ProcEventInfo::GetTriggerAuraSpell()</a>, and <a class="el" href="../../#l00320">SpellInfo::Id</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00855">_spellInfo</a>, <a class="el" href="../../#l00856">_ticksModifier</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00441">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00440">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00185">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l00453">ProcEventInfo::GetTriggerAuraEffectIndex()</a>, <a class="el" href="../../#l00452">ProcEventInfo::GetTriggerAuraSpell()</a>, and <a class="el" href="../../#l00320">SpellInfo::Id</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00851">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00848">Register()</a>.</p>
 
 </div>
 </div>
@@ -437,23 +437,23 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  833</span>    {</div>
-<div class="line"><span class="lineno">  834</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">  830</span>    {</div>
+<div class="line"><span class="lineno">  831</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  832</span> </div>
+<div class="line"><span class="lineno">  833</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>)</div>
+<div class="line"><span class="lineno">  834</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  835</span> </div>
-<div class="line"><span class="lineno">  836</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>)</div>
-<div class="line"><span class="lineno">  837</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  838</span> </div>
-<div class="line"><span class="lineno">  839</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno">  840</span>        {</div>
-<div class="line"><span class="lineno">  841</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> mana = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795">CalcPowerCost</a>(target, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a175351e318f9066e28a8d106e9c9e1f9">GetSchoolMask</a>()) / <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a>);</div>
-<div class="line"><span class="lineno">  842</span>            mana = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(mana, aurEff-&gt;GetAmount());</div>
-<div class="line"><span class="lineno">  843</span> </div>
-<div class="line"><span class="lineno">  844</span>            <span class="keywordflow">if</span> (mana &gt; 0)</div>
-<div class="line"><span class="lineno">  845</span>            {</div>
-<div class="line"><span class="lineno">  846</span>                target-&gt;CastCustomSpell(<a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, mana, target, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno">  847</span>            }</div>
-<div class="line"><span class="lineno">  848</span>        }</div>
-<div class="line"><span class="lineno">  849</span>    }</div>
+<div class="line"><span class="lineno">  836</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
+<div class="line"><span class="lineno">  837</span>        {</div>
+<div class="line"><span class="lineno">  838</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> mana = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795">CalcPowerCost</a>(target, eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a175351e318f9066e28a8d106e9c9e1f9">GetSchoolMask</a>()) / <a class="code hl_variable" href="../../d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0">_ticksModifier</a>);</div>
+<div class="line"><span class="lineno">  839</span>            mana = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(mana, aurEff-&gt;GetAmount());</div>
+<div class="line"><span class="lineno">  840</span> </div>
+<div class="line"><span class="lineno">  841</span>            <span class="keywordflow">if</span> (mana &gt; 0)</div>
+<div class="line"><span class="lineno">  842</span>            {</div>
+<div class="line"><span class="lineno">  843</span>                target-&gt;CastCustomSpell(<a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, mana, target, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno">  844</span>            }</div>
+<div class="line"><span class="lineno">  845</span>        }</div>
+<div class="line"><span class="lineno">  846</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition</b> SpellDefines.h:113</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:61</div></div>
@@ -461,11 +461,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_a175351e318f9066e28a8d106e9c9e1f9"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a175351e318f9066e28a8d106e9c9e1f9">ProcEventInfo::GetSchoolMask</a></div><div class="ttdeci">SpellSchoolMask GetSchoolMask() const</div><div class="ttdef"><b>Definition</b> Unit.h:448</div></div>
 <div class="ttc" id="aclassSpellInfo_html_ad0c4a259fce678a7e551e18d90b0c795"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795">SpellInfo::CalcPowerCost</a></div><div class="ttdeci">int32 CalcPowerCost(Unit const *caster, SpellSchoolMask schoolMask, Spell *spell=nullptr) const</div><div class="ttdef"><b>Definition</b> SpellInfo.cpp:2401</div></div>
-<div class="ttc" id="aspell__mage_8cpp_html_ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8"><div class="ttname"><a href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a></div><div class="ttdeci">@ SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:47</div></div>
+<div class="ttc" id="aspell__mage_8cpp_html_ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8"><div class="ttname"><a href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a></div><div class="ttdeci">@ SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:44</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00858">_spellInfo</a>, <a class="el" href="../../#l00859">_ticksModifier</a>, <a class="el" href="../../#l02401">SpellInfo::CalcPowerCost()</a>, <a class="el" href="../../#l00061">CalculatePct()</a>, <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l00448">ProcEventInfo::GetSchoolMask()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00047">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00855">_spellInfo</a>, <a class="el" href="../../#l00856">_ticksModifier</a>, <a class="el" href="../../#l02401">SpellInfo::CalcPowerCost()</a>, <a class="el" href="../../#l00061">CalculatePct()</a>, <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l00448">ProcEventInfo::GetSchoolMask()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00044">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00851">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00848">Register()</a>.</p>
 
 </div>
 </div>
@@ -519,19 +519,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  852</span>    {</div>
-<div class="line"><span class="lineno">  853</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb">spell_mage_master_of_elements::AfterCheckProc</a>);</div>
-<div class="line"><span class="lineno">  854</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6">spell_mage_master_of_elements::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
-<div class="line"><span class="lineno">  855</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  849</span>    {</div>
+<div class="line"><span class="lineno">  850</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb">spell_mage_master_of_elements::AfterCheckProc</a>);</div>
+<div class="line"><span class="lineno">  851</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6">spell_mage_master_of_elements::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
+<div class="line"><span class="lineno">  852</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ae0687be1e7030c249fe64a34fac8fe6d"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a></div><div class="ttdeci">#define AuraAfterCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:823</div></div>
 <div class="ttc" id="aclassAuraScript_html_a863736f1713d88c9bcf0eb552c2aebd4"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">AuraScript::DoAfterCheckProc</a></div><div class="ttdeci">HookList&lt; AfterCheckProcHandler &gt; DoAfterCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:822</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__mage__master__of__elements_html_a613182c741769d0983206bdfa89242f6"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6">spell_mage_master_of_elements::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:832</div></div>
-<div class="ttc" id="aclassspell__mage__master__of__elements_html_aa6f32a97ece5fc68c0b0a2cfa36e33eb"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb">spell_mage_master_of_elements::AfterCheckProc</a></div><div class="ttdeci">bool AfterCheckProc(ProcEventInfo &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:790</div></div>
+<div class="ttc" id="aclassspell__mage__master__of__elements_html_a613182c741769d0983206bdfa89242f6"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6">spell_mage_master_of_elements::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:829</div></div>
+<div class="ttc" id="aclassspell__mage__master__of__elements_html_aa6f32a97ece5fc68c0b0a2cfa36e33eb"><div class="ttname"><a href="../../d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb">spell_mage_master_of_elements::AfterCheckProc</a></div><div class="ttdeci">bool AfterCheckProc(ProcEventInfo &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:787</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00790">AfterCheckProc()</a>, <a class="el" href="../../#l00823">AuraAfterCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00822">AuraScript::DoAfterCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00832">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00787">AfterCheckProc()</a>, <a class="el" href="../../#l00823">AuraAfterCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00822">AuraScript::DoAfterCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00829">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -560,12 +560,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  786</span>    {</div>
-<div class="line"><span class="lineno">  787</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a> });</div>
-<div class="line"><span class="lineno">  788</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  783</span>    {</div>
+<div class="line"><span class="lineno">  784</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a> });</div>
+<div class="line"><span class="lineno">  785</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -590,7 +590,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00790">AfterCheckProc()</a>, and <a class="el" href="../../#l00832">HandleProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00787">AfterCheckProc()</a>, and <a class="el" href="../../#l00829">HandleProc()</a>.</p>
 
 </div>
 </div>
@@ -614,7 +614,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00790">AfterCheckProc()</a>, and <a class="el" href="../../#l00832">HandleProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00787">AfterCheckProc()</a>, and <a class="el" href="../../#l00829">HandleProc()</a>.</p>
 
 </div>
 </div>
@@ -627,7 +627,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d8d/classspell__mage__master__of__elements.html">spell_mage_master_of_elements</a></li>
-    <li class="footer">Generated on Thu Jun 5 2025 06:24:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jun 6 2025 06:25:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

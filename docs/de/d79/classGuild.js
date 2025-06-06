@@ -91,7 +91,7 @@ var classGuild =
     [ "HandleSetEmblem", "de/d79/classGuild.html#ae80fe1e6c8c5aa4eddb2e9a55802dd9c", null ],
     [ "HandleSetInfo", "de/d79/classGuild.html#a01bedc65f1be1b4f56583cdc9810d321", null ],
     [ "HandleSetLeader", "de/d79/classGuild.html#a0145f8793b5a59d72e6409a68fa2de6f", null ],
-    [ "HandleSetMemberNote", "de/d79/classGuild.html#ac97c74c59d3b92c3867f987edaa18292", null ],
+    [ "HandleSetMemberNote", "de/d79/classGuild.html#abc9e9a957d651237b6b78ea685c44f2d", null ],
     [ "HandleSetMOTD", "de/d79/classGuild.html#a1cf2f6743e8ca60a2ea0a384e5efbb72", null ],
     [ "HandleSetRankInfo", "de/d79/classGuild.html#a4e136ed59e07705a4ebbded2b792eb4e", null ],
     [ "HandleUpdateMemberRank", "de/d79/classGuild.html#a7a36dcb109e06049519062cc505cbdef", null ],

@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_emily&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_emily&quot;</span>) { }</div>
 <div class="ttc" id="aclassCreatureScript_html"><div class="ttname"><a href="../../df/dc9/classCreatureScript.html">CreatureScript</a></div><div class="ttdef"><b>Definition</b> CreatureScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -239,9 +239,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  218</span>    {</div>
-<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_emilyAI(creature);</div>
-<div class="line"><span class="lineno">  220</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  216</span>    {</div>
+<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_emilyAI(creature);</div>
+<div class="line"><span class="lineno">  218</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -286,18 +286,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  204</span>    {</div>
-<div class="line"><span class="lineno">  205</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995">QUEST_PERILOUS_ADVENTURE</a>)</div>
-<div class="line"><span class="lineno">  206</span>        {</div>
-<div class="line"><span class="lineno">  207</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469">SAY_QUEST_ACCEPT</a>);</div>
-<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* Mrfloppy = <a class="code hl_function" href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a>(creature, <a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539">NPC_MRFLOPPY</a>, 180.0f))</div>
-<div class="line"><span class="lineno">  209</span>                Mrfloppy-&gt;GetMotionMaster()-&gt;MoveFollow(creature, <a class="code hl_define" href="../../d6/d9a/PetDefines_8h.html#a83e96c6d024ceb5d1189baac7b823d5d">PET_FOLLOW_DIST</a>, <a class="code hl_define" href="../../d6/d9a/PetDefines_8h.html#a346068e848cb7777695f170d2c7958de">PET_FOLLOW_ANGLE</a>);</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>* pEscortAI = <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d0/d3e/structnpc__emily_1_1npc__emilyAI.html">npc_emily::npc_emilyAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())))</div>
-<div class="line"><span class="lineno">  212</span>                pEscortAI-&gt;Start(<span class="keyword">true</span>, <span class="keyword">false</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  213</span>        }</div>
-<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  215</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  202</span>    {</div>
+<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995">QUEST_PERILOUS_ADVENTURE</a>)</div>
+<div class="line"><span class="lineno">  204</span>        {</div>
+<div class="line"><span class="lineno">  205</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469">SAY_QUEST_ACCEPT</a>);</div>
+<div class="line"><span class="lineno">  206</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* Mrfloppy = <a class="code hl_function" href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a>(creature, <a class="code hl_enumvalue" href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539">NPC_MRFLOPPY</a>, 180.0f))</div>
+<div class="line"><span class="lineno">  207</span>                Mrfloppy-&gt;GetMotionMaster()-&gt;MoveFollow(creature, <a class="code hl_define" href="../../d6/d9a/PetDefines_8h.html#a83e96c6d024ceb5d1189baac7b823d5d">PET_FOLLOW_DIST</a>, <a class="code hl_define" href="../../d6/d9a/PetDefines_8h.html#a346068e848cb7777695f170d2c7958de">PET_FOLLOW_ANGLE</a>);</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>* pEscortAI = <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d0/d3e/structnpc__emily_1_1npc__emilyAI.html">npc_emily::npc_emilyAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())))</div>
+<div class="line"><span class="lineno">  210</span>                pEscortAI-&gt;Start(<span class="keyword">true</span>, <span class="keyword">false</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  211</span>        }</div>
+<div class="line"><span class="lineno">  212</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  213</span>    }</div>
 <div class="ttc" id="aPetDefines_8h_html_a346068e848cb7777695f170d2c7958de"><div class="ttname"><a href="../../d6/d9a/PetDefines_8h.html#a346068e848cb7777695f170d2c7958de">PET_FOLLOW_ANGLE</a></div><div class="ttdeci">#define PET_FOLLOW_ANGLE</div><div class="ttdef"><b>Definition</b> PetDefines.h:203</div></div>
 <div class="ttc" id="aPetDefines_8h_html_a83e96c6d024ceb5d1189baac7b823d5d"><div class="ttname"><a href="../../d6/d9a/PetDefines_8h.html#a83e96c6d024ceb5d1189baac7b823d5d">PET_FOLLOW_DIST</a></div><div class="ttdeci">#define PET_FOLLOW_DIST</div><div class="ttdef"><b>Definition</b> PetDefines.h:202</div></div>
 <div class="ttc" id="aScriptedCreature_8cpp_html_a136c0c059281a05f9cb91237ce55be7b"><div class="ttname"><a href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a></div><div class="ttdeci">Creature * GetClosestCreatureWithEntry(WorldObject *source, uint32 entry, float maxSearchRange, bool alive)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:865</div></div>
@@ -306,13 +306,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
-<div class="ttc" id="astructnpc__emily_1_1npc__emilyAI_html"><div class="ttname"><a href="../../d0/d3e/structnpc__emily_1_1npc__emilyAI.html">npc_emily::npc_emilyAI</a></div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:69</div></div>
+<div class="ttc" id="astructnpc__emily_1_1npc__emilyAI_html"><div class="ttname"><a href="../../d0/d3e/structnpc__emily_1_1npc__emilyAI.html">npc_emily::npc_emilyAI</a></div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:67</div></div>
 <div class="ttc" id="astructnpc__escortAI_html"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a></div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:53</div></div>
-<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995">QUEST_PERILOUS_ADVENTURE</a></div><div class="ttdeci">@ QUEST_PERILOUS_ADVENTURE</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:43</div></div>
-<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469">SAY_QUEST_ACCEPT</a></div><div class="ttdeci">@ SAY_QUEST_ACCEPT</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:58</div></div>
-<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539">NPC_MRFLOPPY</a></div><div class="ttdeci">@ NPC_MRFLOPPY</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:38</div></div>
+<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995">QUEST_PERILOUS_ADVENTURE</a></div><div class="ttdeci">@ QUEST_PERILOUS_ADVENTURE</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:41</div></div>
+<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469">SAY_QUEST_ACCEPT</a></div><div class="ttdeci">@ SAY_QUEST_ACCEPT</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:56</div></div>
+<div class="ttc" id="azone__grizzly__hills_8cpp_html_ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539"><div class="ttname"><a href="../../dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539">NPC_MRFLOPPY</a></div><div class="ttdeci">@ NPC_MRFLOPPY</div><div class="ttdef"><b>Definition</b> zone_grizzly_hills.cpp:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00865">GetClosestCreatureWithEntry()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00038">NPC_MRFLOPPY</a>, <a class="el" href="../../#l00203">PET_FOLLOW_ANGLE</a>, <a class="el" href="../../#l00202">PET_FOLLOW_DIST</a>, <a class="el" href="../../#l00043">QUEST_PERILOUS_ADVENTURE</a>, <a class="el" href="../../#l00058">SAY_QUEST_ACCEPT</a>, and <a class="el" href="../../#l00052">CreatureAI::Talk()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00865">GetClosestCreatureWithEntry()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00036">NPC_MRFLOPPY</a>, <a class="el" href="../../#l00203">PET_FOLLOW_ANGLE</a>, <a class="el" href="../../#l00202">PET_FOLLOW_DIST</a>, <a class="el" href="../../#l00041">QUEST_PERILOUS_ADVENTURE</a>, <a class="el" href="../../#l00056">SAY_QUEST_ACCEPT</a>, and <a class="el" href="../../#l00052">CreatureAI::Talk()</a>.</p>
 
 </div>
 </div>
@@ -325,7 +325,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d88/classnpc__emily.html">npc_emily</a></li>
-    <li class="footer">Generated on Thu Jun 5 2025 06:24:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jun 6 2025 06:24:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

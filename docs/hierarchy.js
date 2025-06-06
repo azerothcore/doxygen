@@ -3839,6 +3839,7 @@ var hierarchy =
         [ "npc_kernobee", "d2/dc4/classnpc__kernobee.html", null ],
         [ "npc_khunok_the_behemoth", "dc/d95/classnpc__khunok__the__behemoth.html", null ],
         [ "npc_kinetic_bomb", "d5/d4a/classnpc__kinetic__bomb.html", null ],
+        [ "npc_king_varian_wrynn", "d0/d56/classnpc__king__varian__wrynn.html", null ],
         [ "npc_koltira_deathweaver", "dd/dda/classnpc__koltira__deathweaver.html", null ],
         [ "npc_kservant", "d7/d56/classnpc__kservant.html", null ],
         [ "npc_kurenai_captive", "d6/d56/classnpc__kurenai__captive.html", null ],

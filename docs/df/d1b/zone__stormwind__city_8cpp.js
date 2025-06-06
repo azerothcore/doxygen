@@ -7,6 +7,10 @@ var zone__stormwind__city_8cpp =
     [ "npc_tyrion_spybot", "d8/d2e/classnpc__tyrion__spybot.html", "d8/d2e/classnpc__tyrion__spybot" ],
     [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html", "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI" ],
     [ "npc_tyrion", "d9/d85/classnpc__tyrion.html", "d9/d85/classnpc__tyrion" ],
+    [ "npc_king_varian_wrynn", "d0/d56/classnpc__king__varian__wrynn.html", "d0/d56/classnpc__king__varian__wrynn" ],
+    [ "KingVarianWrynn", "df/d1b/zone__stormwind__city_8cpp.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
+      [ "QUEST_WHERE_KINGS_WALK", "df/d1b/zone__stormwind__city_8cpp.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
+    ] ],
     [ "LordGregorLescovar", "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7", [
       [ "SAY_GUARD_2", "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
       [ "SAY_LESCOVAR_2", "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],

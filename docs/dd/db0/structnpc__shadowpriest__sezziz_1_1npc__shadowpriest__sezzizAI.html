@@ -567,7 +567,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  612</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  600</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -598,9 +598,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  625</span>        {</div>
-<div class="line"><span class="lineno">  626</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b">ScriptedAI::AttackStartCaster</a>(victim, 40.f);</div>
-<div class="line"><span class="lineno">  627</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  613</span>        {</div>
+<div class="line"><span class="lineno">  614</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b">ScriptedAI::AttackStartCaster</a>(victim, 40.f);</div>
+<div class="line"><span class="lineno">  615</span>        }</div>
 <div class="ttc" id="aclassUnitAI_html_a187fc41350aa8d540512695ef2cbf73b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a187fc41350aa8d540512695ef2cbf73b">UnitAI::AttackStartCaster</a></div><div class="ttdeci">void AttackStartCaster(Unit *victim, float dist)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:33</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00033">UnitAI::AttackStartCaster()</a>.</p>
@@ -631,24 +631,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  615</span>        {</div>
-<div class="line"><span class="lineno">  616</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  617</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(1 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 16 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  618</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  619</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(7 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  620</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> = 12 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
-<div class="line"><span class="lineno">  621</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> = 0;</div>
-<div class="line"><span class="lineno">  622</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  603</span>        {</div>
+<div class="line"><span class="lineno">  604</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  605</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(1 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 16 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  606</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  607</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(7 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  608</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> = 12 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
+<div class="line"><span class="lineno">  609</span>            <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> = 0;</div>
+<div class="line"><span class="lineno">  610</span>        }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a1171f0cd40bd3d7198bab15b12edc131"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_missingHPForHealTimer</a></div><div class="ttdeci">uint32 _missingHPForHealTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:724</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a34a18991ff2c0aafac15694ed9667193"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_shadowBoltTimer</a></div><div class="ttdeci">uint32 _shadowBoltTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:721</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a43de246b93f3380d5b79ffba6434aa5a"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_physicScreemTimer</a></div><div class="ttdeci">uint32 _physicScreemTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:722</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a8ce2b172757d1f7d188152ecc0fe30f5"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_summmonAddsCount</a></div><div class="ttdeci">uint8 _summmonAddsCount</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:726</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a8df4e1046348599cd5d1e31e3dc4eb0c"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_missingHPForRenewTimer</a></div><div class="ttdeci">uint32 _missingHPForRenewTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:723</div></div>
-<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_aff413ce6f4106d212f35fb7abbfa047e"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_summonAddsTimer</a></div><div class="ttdeci">uint32 _summonAddsTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:725</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a1171f0cd40bd3d7198bab15b12edc131"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_missingHPForHealTimer</a></div><div class="ttdeci">uint32 _missingHPForHealTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:712</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a34a18991ff2c0aafac15694ed9667193"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_shadowBoltTimer</a></div><div class="ttdeci">uint32 _shadowBoltTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:709</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a43de246b93f3380d5b79ffba6434aa5a"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_physicScreemTimer</a></div><div class="ttdeci">uint32 _physicScreemTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:710</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a8ce2b172757d1f7d188152ecc0fe30f5"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_summmonAddsCount</a></div><div class="ttdeci">uint8 _summmonAddsCount</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:714</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_a8df4e1046348599cd5d1e31e3dc4eb0c"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_missingHPForRenewTimer</a></div><div class="ttdeci">uint32 _missingHPForRenewTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:711</div></div>
+<div class="ttc" id="astructnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI_html_aff413ce6f4106d212f35fb7abbfa047e"><div class="ttname"><a href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::_summonAddsTimer</a></div><div class="ttdeci">uint32 _summonAddsTimer</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:713</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00724">_missingHPForHealTimer</a>, <a class="el" href="../../#l00723">_missingHPForRenewTimer</a>, <a class="el" href="../../#l00722">_physicScreemTimer</a>, <a class="el" href="../../#l00721">_shadowBoltTimer</a>, <a class="el" href="../../#l00726">_summmonAddsCount</a>, <a class="el" href="../../#l00725">_summonAddsTimer</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00712">_missingHPForHealTimer</a>, <a class="el" href="../../#l00711">_missingHPForRenewTimer</a>, <a class="el" href="../../#l00710">_physicScreemTimer</a>, <a class="el" href="../../#l00709">_shadowBoltTimer</a>, <a class="el" href="../../#l00714">_summmonAddsCount</a>, <a class="el" href="../../#l00713">_summonAddsTimer</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -679,95 +679,95 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  630</span>        {</div>
-<div class="line"><span class="lineno">  631</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  632</span>            {</div>
-<div class="line"><span class="lineno">  633</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  634</span>            }</div>
-<div class="line"><span class="lineno">  635</span> </div>
-<div class="line"><span class="lineno">  636</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno">  637</span>            {</div>
-<div class="line"><span class="lineno">  638</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  639</span>            }</div>
-<div class="line"><span class="lineno">  640</span> </div>
-<div class="line"><span class="lineno">  641</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  642</span>            {</div>
-<div class="line"><span class="lineno">  643</span>                <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : <a class="code hl_variable" href="../../d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7">shadowpriestSezzizAdds</a>[<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a>])</div>
-<div class="line"><span class="lineno">  644</span>                {</div>
-<div class="line"><span class="lineno">  645</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* add = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(itr.first, itr.second, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>))</div>
-<div class="line"><span class="lineno">  646</span>                    {</div>
-<div class="line"><span class="lineno">  647</span>                        add-&gt;AI()-&gt;AttackStart(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>());</div>
-<div class="line"><span class="lineno">  648</span>                    }</div>
-<div class="line"><span class="lineno">  649</span>                }</div>
+<div class="fragment"><div class="line"><span class="lineno">  618</span>        {</div>
+<div class="line"><span class="lineno">  619</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  620</span>            {</div>
+<div class="line"><span class="lineno">  621</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  622</span>            }</div>
+<div class="line"><span class="lineno">  623</span> </div>
+<div class="line"><span class="lineno">  624</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno">  625</span>            {</div>
+<div class="line"><span class="lineno">  626</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  627</span>            }</div>
+<div class="line"><span class="lineno">  628</span> </div>
+<div class="line"><span class="lineno">  629</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  630</span>            {</div>
+<div class="line"><span class="lineno">  631</span>                <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : <a class="code hl_variable" href="../../d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7">shadowpriestSezzizAdds</a>[<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a>])</div>
+<div class="line"><span class="lineno">  632</span>                {</div>
+<div class="line"><span class="lineno">  633</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* add = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(itr.first, itr.second, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>))</div>
+<div class="line"><span class="lineno">  634</span>                    {</div>
+<div class="line"><span class="lineno">  635</span>                        add-&gt;AI()-&gt;AttackStart(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>());</div>
+<div class="line"><span class="lineno">  636</span>                    }</div>
+<div class="line"><span class="lineno">  637</span>                }</div>
+<div class="line"><span class="lineno">  638</span> </div>
+<div class="line"><span class="lineno">  639</span>                <span class="keywordflow">if</span> (++<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> &gt;= 4)</div>
+<div class="line"><span class="lineno">  640</span>                {</div>
+<div class="line"><span class="lineno">  641</span>                    <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> = 0;</div>
+<div class="line"><span class="lineno">  642</span>                }</div>
+<div class="line"><span class="lineno">  643</span> </div>
+<div class="line"><span class="lineno">  644</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 14 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  645</span>            }</div>
+<div class="line"><span class="lineno">  646</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  647</span>            {</div>
+<div class="line"><span class="lineno">  648</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  649</span>            }</div>
 <div class="line"><span class="lineno">  650</span> </div>
-<div class="line"><span class="lineno">  651</span>                <span class="keywordflow">if</span> (++<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> &gt;= 4)</div>
-<div class="line"><span class="lineno">  652</span>                {</div>
-<div class="line"><span class="lineno">  653</span>                    <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5">_summmonAddsCount</a> = 0;</div>
-<div class="line"><span class="lineno">  654</span>                }</div>
-<div class="line"><span class="lineno">  655</span> </div>
-<div class="line"><span class="lineno">  656</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 14 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  657</span>            }</div>
-<div class="line"><span class="lineno">  658</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  659</span>            {</div>
-<div class="line"><span class="lineno">  660</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e">_summonAddsTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  661</span>            }</div>
-<div class="line"><span class="lineno">  662</span> </div>
-<div class="line"><span class="lineno">  663</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  664</span>            {</div>
-<div class="line"><span class="lineno">  665</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  666</span>                <a class="code hl_class" href="../../db/d7d/classAcore_1_1MostHPMissingInRange.html">Acore::MostHPMissingInRange</a> u_check(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 40.f, 1500);</div>
-<div class="line"><span class="lineno">  667</span>                <a class="code hl_struct" href="../../d0/de9/structAcore_1_1UnitLastSearcher.html">Acore::UnitLastSearcher&lt;Acore::MostHPMissingInRange&gt;</a> searcher(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, unit, u_check);</div>
-<div class="line"><span class="lineno">  668</span>                <a class="code hl_function" href="../../df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 40.f);</div>
-<div class="line"><span class="lineno">  669</span>                <span class="keywordflow">if</span> (unit)</div>
-<div class="line"><span class="lineno">  670</span>                {</div>
-<div class="line"><span class="lineno">  671</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(unit, <a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7">SPELL_HEAL</a>);</div>
-<div class="line"><span class="lineno">  672</span>                }</div>
-<div class="line"><span class="lineno">  673</span> </div>
-<div class="line"><span class="lineno">  674</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(7 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  675</span>            }</div>
-<div class="line"><span class="lineno">  676</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  677</span>            {</div>
-<div class="line"><span class="lineno">  678</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  679</span>            }</div>
-<div class="line"><span class="lineno">  680</span> </div>
-<div class="line"><span class="lineno">  681</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  682</span>            {</div>
-<div class="line"><span class="lineno">  683</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  684</span>                <a class="code hl_class" href="../../db/d7d/classAcore_1_1MostHPMissingInRange.html">Acore::MostHPMissingInRange</a> u_check(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 40.f, 700);</div>
-<div class="line"><span class="lineno">  685</span>                <a class="code hl_struct" href="../../d0/de9/structAcore_1_1UnitLastSearcher.html">Acore::UnitLastSearcher&lt;Acore::MostHPMissingInRange&gt;</a> searcher(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, unit, u_check);</div>
-<div class="line"><span class="lineno">  686</span>                <a class="code hl_function" href="../../df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 40.f);</div>
-<div class="line"><span class="lineno">  687</span>                <span class="keywordflow">if</span> (unit)</div>
-<div class="line"><span class="lineno">  688</span>                {</div>
-<div class="line"><span class="lineno">  689</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(unit, <a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a>);</div>
-<div class="line"><span class="lineno">  690</span>                }</div>
-<div class="line"><span class="lineno">  691</span> </div>
-<div class="line"><span class="lineno">  692</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  693</span>            }</div>
-<div class="line"><span class="lineno">  694</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  695</span>            {</div>
-<div class="line"><span class="lineno">  696</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  697</span>            }</div>
-<div class="line"><span class="lineno">  698</span> </div>
-<div class="line"><span class="lineno">  699</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  700</span>            {</div>
-<div class="line"><span class="lineno">  701</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa">SPELL_PSYCHIC_SCREEM</a>);</div>
-<div class="line"><span class="lineno">  702</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(22 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 30 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  703</span>            }</div>
-<div class="line"><span class="lineno">  704</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  705</span>            {</div>
-<div class="line"><span class="lineno">  706</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  707</span>            }</div>
-<div class="line"><span class="lineno">  708</span> </div>
-<div class="line"><span class="lineno">  709</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  710</span>            {</div>
-<div class="line"><span class="lineno">  711</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413">SPELL_SHADOW_BOLT</a>);</div>
-<div class="line"><span class="lineno">  712</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(3 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 4 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno">  713</span>            }</div>
-<div class="line"><span class="lineno">  714</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  715</span>            {</div>
-<div class="line"><span class="lineno">  716</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  717</span>            }</div>
-<div class="line"><span class="lineno">  718</span>        }</div>
+<div class="line"><span class="lineno">  651</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  652</span>            {</div>
+<div class="line"><span class="lineno">  653</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  654</span>                <a class="code hl_class" href="../../db/d7d/classAcore_1_1MostHPMissingInRange.html">Acore::MostHPMissingInRange</a> u_check(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 40.f, 1500);</div>
+<div class="line"><span class="lineno">  655</span>                <a class="code hl_struct" href="../../d0/de9/structAcore_1_1UnitLastSearcher.html">Acore::UnitLastSearcher&lt;Acore::MostHPMissingInRange&gt;</a> searcher(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, unit, u_check);</div>
+<div class="line"><span class="lineno">  656</span>                <a class="code hl_function" href="../../df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 40.f);</div>
+<div class="line"><span class="lineno">  657</span>                <span class="keywordflow">if</span> (unit)</div>
+<div class="line"><span class="lineno">  658</span>                {</div>
+<div class="line"><span class="lineno">  659</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(unit, <a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7">SPELL_HEAL</a>);</div>
+<div class="line"><span class="lineno">  660</span>                }</div>
+<div class="line"><span class="lineno">  661</span> </div>
+<div class="line"><span class="lineno">  662</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(7 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  663</span>            }</div>
+<div class="line"><span class="lineno">  664</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  665</span>            {</div>
+<div class="line"><span class="lineno">  666</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131">_missingHPForHealTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  667</span>            }</div>
+<div class="line"><span class="lineno">  668</span> </div>
+<div class="line"><span class="lineno">  669</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  670</span>            {</div>
+<div class="line"><span class="lineno">  671</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  672</span>                <a class="code hl_class" href="../../db/d7d/classAcore_1_1MostHPMissingInRange.html">Acore::MostHPMissingInRange</a> u_check(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 40.f, 700);</div>
+<div class="line"><span class="lineno">  673</span>                <a class="code hl_struct" href="../../d0/de9/structAcore_1_1UnitLastSearcher.html">Acore::UnitLastSearcher&lt;Acore::MostHPMissingInRange&gt;</a> searcher(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, unit, u_check);</div>
+<div class="line"><span class="lineno">  674</span>                <a class="code hl_function" href="../../df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, searcher, 40.f);</div>
+<div class="line"><span class="lineno">  675</span>                <span class="keywordflow">if</span> (unit)</div>
+<div class="line"><span class="lineno">  676</span>                {</div>
+<div class="line"><span class="lineno">  677</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(unit, <a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a>);</div>
+<div class="line"><span class="lineno">  678</span>                }</div>
+<div class="line"><span class="lineno">  679</span> </div>
+<div class="line"><span class="lineno">  680</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(10 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  681</span>            }</div>
+<div class="line"><span class="lineno">  682</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  683</span>            {</div>
+<div class="line"><span class="lineno">  684</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c">_missingHPForRenewTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  685</span>            }</div>
+<div class="line"><span class="lineno">  686</span> </div>
+<div class="line"><span class="lineno">  687</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  688</span>            {</div>
+<div class="line"><span class="lineno">  689</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa">SPELL_PSYCHIC_SCREEM</a>);</div>
+<div class="line"><span class="lineno">  690</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(22 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 30 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  691</span>            }</div>
+<div class="line"><span class="lineno">  692</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  693</span>            {</div>
+<div class="line"><span class="lineno">  694</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a">_physicScreemTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  695</span>            }</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  698</span>            {</div>
+<div class="line"><span class="lineno">  699</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413">SPELL_SHADOW_BOLT</a>);</div>
+<div class="line"><span class="lineno">  700</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(3 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, 4 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno">  701</span>            }</div>
+<div class="line"><span class="lineno">  702</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  703</span>            {</div>
+<div class="line"><span class="lineno">  704</span>                <a class="code hl_variable" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193">_shadowBoltTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  705</span>            }</div>
+<div class="line"><span class="lineno">  706</span>        }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_DEAD_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:53</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:185</div></div>
 <div class="ttc" id="aclassAcore_1_1MostHPMissingInRange_html"><div class="ttname"><a href="../../db/d7d/classAcore_1_1MostHPMissingInRange.html">Acore::MostHPMissingInRange</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:775</div></div>
@@ -782,13 +782,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructAcore_1_1UnitLastSearcher_html"><div class="ttname"><a href="../../d0/de9/structAcore_1_1UnitLastSearcher.html">Acore::UnitLastSearcher</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:406</div></div>
 <div class="ttc" id="astructCell_html_afa2ed05ed338c6d8d1cbcc84a61d3c53"><div class="ttname"><a href="../../df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a></div><div class="ttdeci">static void VisitGridObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:165</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7">SPELL_HEAL</a></div><div class="ttdeci">@ SPELL_HEAL</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:594</div></div>
-<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa">SPELL_PSYCHIC_SCREEM</a></div><div class="ttdeci">@ SPELL_PSYCHIC_SCREEM</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:592</div></div>
-<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413">SPELL_SHADOW_BOLT</a></div><div class="ttdeci">@ SPELL_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:591</div></div>
-<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a></div><div class="ttdeci">@ SPELL_RENEW</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:593</div></div>
-<div class="ttc" id="azulfarrak_8cpp_html_ab3c6a2de23edecc492c7ca4de5c860c7"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7">shadowpriestSezzizAdds</a></div><div class="ttdeci">std::array&lt; std::vector&lt; std::pair&lt; uint32, Position &gt; &gt;, 4 &gt; shadowpriestSezzizAdds</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:597</div></div>
+<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7">SPELL_HEAL</a></div><div class="ttdeci">@ SPELL_HEAL</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:582</div></div>
+<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa">SPELL_PSYCHIC_SCREEM</a></div><div class="ttdeci">@ SPELL_PSYCHIC_SCREEM</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:580</div></div>
+<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413">SPELL_SHADOW_BOLT</a></div><div class="ttdeci">@ SPELL_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:579</div></div>
+<div class="ttc" id="azulfarrak_8cpp_html_a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a></div><div class="ttdeci">@ SPELL_RENEW</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:581</div></div>
+<div class="ttc" id="azulfarrak_8cpp_html_ab3c6a2de23edecc492c7ca4de5c860c7"><div class="ttname"><a href="../../d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7">shadowpriestSezzizAdds</a></div><div class="ttdeci">std::array&lt; std::vector&lt; std::pair&lt; uint32, Position &gt; &gt;, 4 &gt; shadowpriestSezzizAdds</div><div class="ttdef"><b>Definition</b> zulfarrak.cpp:585</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00724">_missingHPForHealTimer</a>, <a class="el" href="../../#l00723">_missingHPForRenewTimer</a>, <a class="el" href="../../#l00722">_physicScreemTimer</a>, <a class="el" href="../../#l00721">_shadowBoltTimer</a>, <a class="el" href="../../#l00726">_summmonAddsCount</a>, <a class="el" href="../../#l00725">_summonAddsTimer</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00240">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00846">Unit::GetVictim()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00597">shadowpriestSezzizAdds</a>, <a class="el" href="../../#l00594">SPELL_HEAL</a>, <a class="el" href="../../#l00592">SPELL_PSYCHIC_SCREEM</a>, <a class="el" href="../../#l00593">SPELL_RENEW</a>, <a class="el" href="../../#l00591">SPELL_SHADOW_BOLT</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00053">TEMPSUMMON_DEAD_DESPAWN</a>, <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>, <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>, <a class="el" href="../../#l00044">urand()</a>, and <a class="el" href="../../#l00165">Cell::VisitGridObjects()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00712">_missingHPForHealTimer</a>, <a class="el" href="../../#l00711">_missingHPForRenewTimer</a>, <a class="el" href="../../#l00710">_physicScreemTimer</a>, <a class="el" href="../../#l00709">_shadowBoltTimer</a>, <a class="el" href="../../#l00714">_summmonAddsCount</a>, <a class="el" href="../../#l00713">_summonAddsTimer</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00240">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00846">Unit::GetVictim()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00585">shadowpriestSezzizAdds</a>, <a class="el" href="../../#l00582">SPELL_HEAL</a>, <a class="el" href="../../#l00580">SPELL_PSYCHIC_SCREEM</a>, <a class="el" href="../../#l00581">SPELL_RENEW</a>, <a class="el" href="../../#l00579">SPELL_SHADOW_BOLT</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00053">TEMPSUMMON_DEAD_DESPAWN</a>, <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>, <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>, <a class="el" href="../../#l00044">urand()</a>, and <a class="el" href="../../#l00165">Cell::VisitGridObjects()</a>.</p>
 
 </div>
 </div>
@@ -813,7 +813,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -837,7 +837,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -861,7 +861,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -885,7 +885,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -909,7 +909,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -933,7 +933,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00614">Reset()</a>, and <a class="el" href="../../#l00629">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -946,7 +946,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d4b/classnpc__shadowpriest__sezziz.html">npc_shadowpriest_sezziz</a></li><li class="navelem"><a class="el" href="../../dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html">npc_shadowpriest_sezzizAI</a></li>
-    <li class="footer">Generated on Thu Jun 5 2025 06:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jun 6 2025 06:24:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
