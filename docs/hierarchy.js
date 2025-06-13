@@ -3617,7 +3617,6 @@ var hierarchy =
         [ "npc_arthas", "d7/d89/classnpc__arthas.html", null ],
         [ "npc_arthas_teleport_visual", "d9/d74/classnpc__arthas__teleport__visual.html", null ],
         [ "npc_artorius", "d3/d36/classnpc__artorius.html", null ],
-        [ "npc_artruis_the_hearthless", "d1/dac/classnpc__artruis__the__hearthless.html", null ],
         [ "npc_assembly_lightning", "d2/dec/classnpc__assembly__lightning.html", null ],
         [ "npc_attracted_reef_bull", "dd/df0/classnpc__attracted__reef__bull.html", null ],
         [ "npc_augustus_the_touched", "d3/d0a/classnpc__augustus__the__touched.html", null ],
@@ -5312,7 +5311,6 @@ var hierarchy =
             [ "npc_captain_grondel::npc_captain_grondelAI", "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html", null ],
             [ "npc_captain_rupert::npc_captain_rupertAI", "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html", null ]
           ] ],
-          [ "npc_artruis_the_hearthless::npc_artruis_the_hearthlessAI", "d1/d21/structnpc__artruis__the__hearthless_1_1npc__artruis__the__hearthlessAI.html", null ],
           [ "npc_assembly_lightning::npc_assembly_lightningAI", "d0/d24/structnpc__assembly__lightning_1_1npc__assembly__lightningAI.html", null ],
           [ "npc_auriaya_feral_defender::npc_auriaya_feral_defenderAI", "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html", null ],
           [ "npc_auriaya_sanctum_sentry::npc_auriaya_sanctum_sentryAI", "d5/dc4/structnpc__auriaya__sanctum__sentry_1_1npc__auriaya__sanctum__sentryAI.html", null ],

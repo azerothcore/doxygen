@@ -2070,7 +2070,6 @@ var annotated_dup =
     [ "npc_arthas", "d7/d89/classnpc__arthas.html", "d7/d89/classnpc__arthas" ],
     [ "npc_arthas_teleport_visual", "d9/d74/classnpc__arthas__teleport__visual.html", "d9/d74/classnpc__arthas__teleport__visual" ],
     [ "npc_artorius", "d3/d36/classnpc__artorius.html", "d3/d36/classnpc__artorius" ],
-    [ "npc_artruis_the_hearthless", "d1/dac/classnpc__artruis__the__hearthless.html", "d1/dac/classnpc__artruis__the__hearthless" ],
     [ "npc_ashtongue_channeler", "d6/d5f/structnpc__ashtongue__channeler.html", "d6/d5f/structnpc__ashtongue__channeler" ],
     [ "npc_ashtongue_sorcerer", "db/dfb/structnpc__ashtongue__sorcerer.html", "db/dfb/structnpc__ashtongue__sorcerer" ],
     [ "npc_assembly_lightning", "d2/dec/classnpc__assembly__lightning.html", "d2/dec/classnpc__assembly__lightning" ],
