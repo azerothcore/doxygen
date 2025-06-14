@@ -1,7 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[6,0,1470,86],
-"d7/db0/classMap.html#a97f29654e5c2219b6f68f98b566e534e":[6,0,1470,37],
 "d7/db0/classMap.html#a9832c61d408be32fcf47b4606a623c1c":[6,0,1470,40],
 "d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a":[6,0,1470,150],
 "d7/db0/classMap.html#a98ef9f7412045ae5124bd5cb7b65868a":[6,0,1470,161],
@@ -242,12 +240,14 @@ var NAVTREEINDEX201 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[6,0,0,60],
 "d7/db4/structAcore_1_1has__type.html":[5,0,1,72],
+"d7/db4/structAcore_1_1has__type.html":[6,0,0,60],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3634],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3634,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3634,1],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab87932c73a2e53647bda584aeb58f789":[6,0,3634,2],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html":[6,0,1803,0],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a33ef03a9f005ff187493275a9c2683a7":[6,0,1803,0,4]
+"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a33ef03a9f005ff187493275a9c2683a7":[6,0,1803,0,4],
+"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a45588181429a74ac024e0390c76fa57a":[6,0,1803,0,3],
+"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a49ff3db7845167b9e98feab2a01b1ed1":[6,0,1803,0,2]
 };

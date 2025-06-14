@@ -1,8 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4":[7,0,0,0,1,2,8,14,5,0],
-"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239":[7,0,0,0,1,2,8,14,5,4],
-"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[7,0,0,0,1,2,8,14,5,5],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[7,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,66],
@@ -249,5 +246,8 @@ var NAVTREEINDEX385 =
 "df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4062,29],
 "df/d92/classnpc__frostwing__vrykul.html":[6,0,1789],
 "df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[6,0,1789,2],
-"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1789,1]
+"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1789,1],
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html":[6,0,1866,0],
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[6,0,1866,0,5],
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1866,0,2]
 };

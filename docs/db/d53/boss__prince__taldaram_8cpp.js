@@ -55,6 +55,5 @@ var boss__prince__taldaram_8cpp =
       [ "SAY_VANISH", "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaf94214f1df0c82c0a7f57728c66b9f3", null ]
     ] ],
     [ "AddSC_boss_taldaram", "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9", null ],
-    [ "DATA_GROUND_POSITION_Z", "db/d53/boss__prince__taldaram_8cpp.html#a98125dd20a6c964eb3f0276f144de5cf", null ],
     [ "DATA_SPHERE_DISTANCE", "db/d53/boss__prince__taldaram_8cpp.html#a3d2ecebf5f62756e3571412754a3455c", null ]
 ];

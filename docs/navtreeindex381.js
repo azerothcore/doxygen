@@ -1,8 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a3240b42a9122e61b57ea91486cb3c97b":[6,0,3826,1],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3826,2],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3826,0],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3541],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3541,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3541,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX381 =
 "df/d5c/classnpc__commandscript.html#ab722d7c262e1d4e4785c7de599a6d051":[6,0,1685,6],
 "df/d5c/classnpc__commandscript.html#ab7a2211498c0f1f3bf9799aaab507fd9":[6,0,1685,8],
 "df/d5c/classnpc__commandscript.html#ab89d9ed18a38ace2b2dfd1d447f6f57c":[6,0,1685,21],
-"df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1685,23]
+"df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1685,23],
+"df/d5c/classnpc__commandscript.html#ad789c3fb6523abddf4d07d38952e04a8":[6,0,1685,1],
+"df/d5c/classnpc__commandscript.html#ae33bcd34c61d305dc3d98d9c8d3bd379":[6,0,1685,19],
+"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1685,18]
 };

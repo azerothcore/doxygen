@@ -1,7 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"db/d01/structnpc__ahnkahar__nerubian.html#ae18cdf09bae50751e266e95caf165f8e":[6,0,1562,0],
-"db/d02/structMySQLType_3_01int32_01_4.html":[6,0,1539],
 "db/d02/zone__felwood_8cpp.html":[7,0,0,0,1,3,4,22],
 "db/d02/zone__felwood_8cpp.html#a63ae28c9f250057b35a18fb585c6a2cf":[7,0,0,0,1,3,4,22,5],
 "db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427":[7,0,0,0,1,3,4,22,4],
@@ -21,12 +19,12 @@ var NAVTREEINDEX270 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,102],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,102,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,90,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,102,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,90,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,102,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,90,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,102,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,90,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,102,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,90,3],
 "db/d03/classboss__sartharion.html":[6,0,681],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,681,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,681,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX270 =
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e":[7,0,0,0,1,2,31,7,6,10],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b":[7,0,0,0,1,2,31,7,6,19],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611":[7,0,0,0,1,2,31,7,6,5],
-"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426":[7,0,0,0,1,2,31,7,6,7]
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426":[7,0,0,0,1,2,31,7,6,7],
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467":[7,0,0,0,1,2,31,7,6,9],
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4":[7,0,0,0,1,2,31,7,6,8]
 };

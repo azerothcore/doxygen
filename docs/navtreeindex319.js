@@ -1,8 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[6,0,2549,117],
-"dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[6,0,2549,107],
-"dd/d27/structSmartAction.html#a4adacb044619cfa2b4c37c072a865628":[6,0,2549,251],
 "dd/d27/structSmartAction.html#a4b0169783ff0fed5b2a6f2a67d224d03":[6,0,2549,31],
 "dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[6,0,2549,168],
 "dd/d27/structSmartAction.html#a4b7fdd15e89c87f7218727f6cc552a34":[6,0,2549,199],
@@ -249,5 +246,8 @@ var NAVTREEINDEX319 =
 "dd/d2c/classspell__icc__sprit__alarm.html#a96c6a479141f765b9c0f96b5f148a428":[6,0,3114,2],
 "dd/d2c/classspell__icc__sprit__alarm.html#aa86d2cea5cb41b1e0a86248d95b5bfdb":[6,0,3114,3],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html":[6,0,3754],
-"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a47d844a9700cd8add793e3f3088d1b82":[6,0,3754,1]
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a47d844a9700cd8add793e3f3088d1b82":[6,0,3754,1],
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a7f2ddbf54a4932277ad91eb0036915ab":[6,0,3754,0],
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a97f5239399e7135b02000722eaf837ad":[6,0,3754,3],
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[6,0,3754,2]
 };

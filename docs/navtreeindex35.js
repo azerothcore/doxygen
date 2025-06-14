@@ -249,5 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab45e8c6dd9ea3552fed4b926136f80e6":[6,0,1975,0,6],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab5182ad65187c472b306e2177530d7b6":[6,0,1975,0,2],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[6,0,1975,0,5],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,22]
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[6,0,0,10]
 };

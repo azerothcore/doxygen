@@ -1,8 +1,5 @@
 var NAVTREEINDEX369 =
 {
-"de/db7/classQueryCallback.html#a88ad1ca3946b0db8db4f7befca1d1b9e":[6,0,2442,9],
-"de/db7/classQueryCallback.html#a9c098ed933e0fcd1f639c23dae546f8a":[6,0,2442,12],
-"de/db7/classQueryCallback.html#aac0ba6a0017441eb25c4b294fde99186":[6,0,2442,15],
 "de/db7/classQueryCallback.html#ab96af2084492fb64756ab1d751da2283":[6,0,2442,11],
 "de/db7/classQueryCallback.html#ac3ff3ce98767a2df178586b28f753b1e":[6,0,2442,2],
 "de/db7/classQueryCallback.html#aecac362ce15206aef0f544e9485a5bcd":[6,0,2442,8],
@@ -249,5 +246,8 @@ var NAVTREEINDEX369 =
 "de/dcc/classspell__dk__blood__boil.html#afdbb71f81aacc9ac1a5119707952ec52":[6,0,2731,4],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html":[6,0,3036],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a0ff7bbd0dea458b15231ecf419b1c49c":[6,0,3036,3],
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[6,0,3036,0]
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[6,0,3036,0],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3036,1],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[6,0,3036,2],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[6,0,3036,4]
 };

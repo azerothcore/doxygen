@@ -1,7 +1,5 @@
 var NAVTREEINDEX238 =
 {
-"d9/d84/LootMgr_8h.html#a3dc44988fdd6d697ac3b459b0276e098":[7,0,0,0,1,2,24,3,13],
-"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a":[7,0,0,0,1,2,24,3,24],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa24bcdb3d971392027fe44810f01679b0":[7,0,0,0,1,2,24,3,24,4],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa38fed431ec0ae02ffdd70ed6014f03a5":[7,0,0,0,1,2,24,3,24,0],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa537ec62994db268ea075329b2a8506fa":[7,0,0,0,1,2,24,3,24,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX238 =
 "d9/d8d/classspell__illidari__council__circle__of__healing.html":[6,0,3160],
 "d9/d8d/classspell__illidari__council__circle__of__healing.html#a31f2d90059e62da77a719a192d62328b":[6,0,3160,2],
 "d9/d8d/classspell__illidari__council__circle__of__healing.html#a94b783490dafae872b65e0bbfed156b9":[6,0,3160,0],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#af59695af3afcc51a3c29fcc4053bbfee":[6,0,3160,1]
+"d9/d8d/classspell__illidari__council__circle__of__healing.html#af59695af3afcc51a3c29fcc4053bbfee":[6,0,3160,1],
+"d9/d8f/dire__maul_8h.html":[7,0,0,0,1,3,4,2,1],
+"d9/d8f/dire__maul_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,2,1,0]
 };

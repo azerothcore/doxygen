@@ -1,8 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"db/d62/classOutdoorPvPMgr.html#ad07d15d5bbdf9d2e67a576d61e942b40":[6,0,2346,21],
-"db/d62/classOutdoorPvPMgr.html#ad39bacd781ddb165c680758643a54c56":[6,0,2346,13],
-"db/d62/classRegularGrid2D.html":[6,0,2478],
 "db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106":[6,0,2478,7],
 "db/d62/classRegularGrid2D.html#a03a3daaf4be4e818315eb1051bed786f":[6,0,2478,5],
 "db/d62/classRegularGrid2D.html#a17d16d7813e95d09000563cd1f059414":[6,0,2478,6],
@@ -20,8 +17,8 @@ var NAVTREEINDEX276 =
 "db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539":[6,0,2478,4],
 "db/d62/classRegularGrid2D.html#af105482aa4349d2f7f937fb95ec7f2a8":[6,0,2478,3],
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,7],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX276 =
 "db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7":[7,0,0,0,1,3,9,4,139],
 "db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7a1337df0ce25cbdb345096229f481f633":[7,0,0,0,1,3,9,4,139,0],
 "db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348":[7,0,0,0,1,3,9,4,131],
-"db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348a19979f7466bb4379e208a22fc4106bdb":[7,0,0,0,1,3,9,4,131,1]
+"db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348a19979f7466bb4379e208a22fc4106bdb":[7,0,0,0,1,3,9,4,131,1],
+"db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348a2d83937850b96efc509aa5a7903784d5":[7,0,0,0,1,3,9,4,131,0],
+"db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5":[7,0,0,0,1,3,9,4,129],
+"db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5a95e8e0605c8f22e4a8f9f2e9a5b3aa7a":[7,0,0,0,1,3,9,4,129,1]
 };

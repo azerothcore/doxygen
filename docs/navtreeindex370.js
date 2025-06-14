@@ -1,8 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3036,1],
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[6,0,3036,2],
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[6,0,3036,4],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2278,0],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2278,0,5],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2278,0,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX370 =
 "de/de0/classspell__gen__steal__weapon.html":[6,0,2993],
 "de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[6,0,2993,4],
 "de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[6,0,2993,1],
-"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,2993,3]
+"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,2993,3],
+"de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,2993,0],
+"de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,2993,2],
+"de/de0/structSpellClickInfo.html":[6,0,4031]
 };

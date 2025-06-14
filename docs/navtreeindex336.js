@@ -1,8 +1,5 @@
 var NAVTREEINDEX336 =
 {
-"dd/de4/structnpc__memory_1_1npc__memoryAI.html#a985c51bbfa2cceeb7601432491253aaf":[6,0,1953,0,2],
-"dd/de4/structnpc__memory_1_1npc__memoryAI.html#ad927d377d60b44f43808469042f5feb9":[6,0,1953,0,0],
-"dd/de5/classspell__item__skyguard__blasting__charges.html":[6,0,3271],
 "dd/de5/classspell__item__skyguard__blasting__charges.html#a365df14504a54e95e7d68d22a284e441":[6,0,3271,1],
 "dd/de5/classspell__item__skyguard__blasting__charges.html#a479e313031a2e71473238d8f645bf2d4":[6,0,3271,3],
 "dd/de5/classspell__item__skyguard__blasting__charges.html#a69467afd49dc2429b8ba9640c8af5dfa":[6,0,3271,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX336 =
 "dd/dfa/structboss__nightbane.html#a867c09a5802d402db3a4dca7584b6d85":[6,0,637,7],
 "dd/dfa/structboss__nightbane.html#a96d7a6c7fd756c78cb528b738e2f15e6":[6,0,637,11],
 "dd/dfa/structboss__nightbane.html#a9a42862b459b6447a0a3b59828515337":[6,0,637,15],
-"dd/dfa/structboss__nightbane.html#aa27b56f7248f504d9a79de0f5f104961":[6,0,637,3]
+"dd/dfa/structboss__nightbane.html#aa27b56f7248f504d9a79de0f5f104961":[6,0,637,3],
+"dd/dfa/structboss__nightbane.html#aab88cfbfbf9bdb347683b6c49ee455ee":[6,0,637,14],
+"dd/dfa/structboss__nightbane.html#add269fc76dc2094109261d654e0cb75b":[6,0,637,6],
+"dd/dfa/structboss__nightbane.html#ae15a984403ef5ef27b58400dbc92777d":[6,0,637,19]
 };

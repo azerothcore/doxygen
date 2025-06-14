@@ -1,8 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca5976a464e37823e47ac33d9a5726ee38":[7,0,0,0,1,3,5,7,3,6,4],
-"df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca59a6d5b3f17b8c79eda3b37bc8c86ec7":[7,0,0,0,1,3,5,7,3,6,8],
-"df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca63a52cc43d9578dea34c8081de8c6958":[7,0,0,0,1,3,5,7,3,6,2],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca763aeb638c49b0625e5bf37db6ae88d5":[7,0,0,0,1,3,5,7,3,6,3],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,3,6,6],
 "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c":[7,0,0,0,1,3,5,7,3,6,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX379 =
 "df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[6,0,5,2,12],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[5,0,18,2,12],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[5,0,18,2,4],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[6,0,5,2,4]
+"df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[6,0,5,2,4],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[6,0,5,2,20],
+"df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[5,0,18,2,20],
+"df/d3e/classlfg_1_1LfgGroupData.html#a39d4b9904d783f85b861f18e08a94526":[5,0,18,2,11]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX277 =
 {
-"db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348a2d83937850b96efc509aa5a7903784d5":[7,0,0,0,1,3,9,4,131,0],
-"db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5":[7,0,0,0,1,3,9,4,129],
-"db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5a95e8e0605c8f22e4a8f9f2e9a5b3aa7a":[7,0,0,0,1,3,9,4,129,1],
 "db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5ab5dd9a2ad56a47e4f68e692db29a5fef":[7,0,0,0,1,3,9,4,129,0],
 "db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40c":[7,0,0,0,1,3,9,4,144],
 "db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca1a9a0635902f32201df670bae3f8382d":[7,0,0,0,1,3,9,4,144,0],
@@ -228,8 +225,8 @@ var NAVTREEINDEX277 =
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1946,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,105,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,117,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,105,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,117,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,105,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,105,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,117,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,105,0,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX277 =
 "db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928":[6,0,1445,18],
 "db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777":[6,0,1445,16],
 "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2":[6,0,1445,1],
-"db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5":[6,0,1445,7]
+"db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5":[6,0,1445,7],
+"db/d72/structLootItem.html#a9021fa353f7538706349702498a4e778":[6,0,1445,13],
+"db/d72/structLootItem.html#ab84a909c705155c4e9aa1b59fd38ae52":[6,0,1445,4],
+"db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f":[6,0,1445,6]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a93e7b80ca65c61286e8dcecae63d530f":[7,0,0,0,1,2,8,1,19,11,15],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a95308567d5588fc80028306730cf9935":[7,0,0,0,1,2,8,1,19,11,20],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701aa677dd9786ce46653d34a6530475b6ed":[7,0,0,0,1,2,8,1,19,11,2],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abbfe6fdb0124b85b630a16bce9aac795":[7,0,0,0,1,2,8,1,19,11,24],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5":[7,0,0,0,1,2,8,1,19,11,8],
@@ -249,5 +247,7 @@ var NAVTREEINDEX226 =
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f":[6,0,1648,0,1],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a9bf17d7ec59d800955c131dbe14a31d8":[6,0,1648,0,3],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#adfd43a6a804a35e235262e55f0155ffe":[6,0,1648,0,0],
-"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html":[6,0,1990,0]
+"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html":[6,0,1990,0],
+"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a2011c247d2157f5f2a06db6e149743e0":[6,0,1990,0,0],
+"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a501d0bdb9d77be1229dadf60d5f8af8c":[6,0,1990,0,1]
 };

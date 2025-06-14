@@ -1,8 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dd/d3b/structGameObjectTemplate.html#ae46ba3987b7d815dc673bbb65540d60f":[6,0,1084,63],
-"dd/d3b/structGameObjectTemplate.html#ae4ea13cb7263f80aba211608b39ee919":[6,0,1084,122],
-"dd/d3b/structGameObjectTemplate.html#ae69d6166c21142870ea98506b7d3b5bf":[6,0,1084,147],
 "dd/d3b/structGameObjectTemplate.html#ae83eb30ca0fea0a5d59ed2dd1da57b66":[6,0,1084,186],
 "dd/d3b/structGameObjectTemplate.html#ae88ed422c4efbf35f9369305233e938b":[6,0,1084,155],
 "dd/d3b/structGameObjectTemplate.html#aeb61da8fc4cae667e5a80dbd984b9869":[6,0,1084,55],
@@ -48,10 +45,10 @@ var NAVTREEINDEX322 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX322 =
 "dd/d4f/classnpc__tiger__matriarch__credit.html#a9d76e8e808c828da501551025eecd8ea":[6,0,2167,1],
 "dd/d4f/classnpc__tiger__matriarch__credit.html#ac4966a8ae43688204f97f9a1a7b4542d":[6,0,2167,2],
 "dd/d4f/classspell__sha__earth__shield.html":[6,0,3740],
-"dd/d4f/classspell__sha__earth__shield.html#a06a3c11618cbdf15427bbaa6ac8a4273":[6,0,3740,4]
+"dd/d4f/classspell__sha__earth__shield.html#a06a3c11618cbdf15427bbaa6ac8a4273":[6,0,3740,4],
+"dd/d4f/classspell__sha__earth__shield.html#a55d778b049e26c28bfa9d2e08d7920a8":[6,0,3740,0],
+"dd/d4f/classspell__sha__earth__shield.html#a741570ba77f70d90b437198f63e565f3":[6,0,3740,2],
+"dd/d4f/classspell__sha__earth__shield.html#a939d6815bcaee9b9d2b062313aac912a":[6,0,3740,5]
 };

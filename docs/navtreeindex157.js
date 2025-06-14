@@ -1,6 +1,6 @@
 var NAVTREEINDEX157 =
 {
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,94,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,82,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2106,0],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0bc792b39b9d17a71c86756d2c7b9af0":[6,0,2106,0,1],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f":[6,0,2106,0,2],

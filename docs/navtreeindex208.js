@@ -1,14 +1,12 @@
 var NAVTREEINDEX208 =
 {
-"d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a6308129d11989dadf0a5948c4a268e4b":[6,0,2228,0,0],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,1,7,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[6,0,0,4,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[6,0,0,4,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[7,0,0,0,0,3,5],
 "d7/dfe/World_8cpp.html":[4,2,4],
 "d7/dfe/classLootValidatorRef.html":[6,0,1451],
@@ -110,12 +108,12 @@ var NAVTREEINDEX208 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a1a4268b745e63992f4d0fc2028b717aa":[6,0,1809,0,0],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a6fa27328cf47bef81c3465b8a3e2ace1":[6,0,1809,0,3],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[6,0,1809,0,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX208 =
 "d8/d0a/classnpc__scarlet__ghoul.html#a88d2639b1a4f087d3e1b95475a094d21":[6,0,2086,2],
 "d8/d0a/classnpc__scarlet__ghoul.html#aa58b0d1c3fb411cac184bc1fc50f4fb3":[6,0,2086,1],
 "d8/d0b/boss__quagmirran_8cpp.html":[7,0,0,0,1,3,7,2,1,2],
-"d8/d0b/boss__quagmirran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,2,1]
+"d8/d0b/boss__quagmirran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,2,1],
+"d8/d0b/boss__quagmirran_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,7,2,1,2,1,1],
+"d8/d0b/boss__quagmirran_8cpp.html#a5bd342133be8c2137b831460acc9298caeaa3796b4c9ed2cbe971eb624e8c638a":[7,0,0,0,1,3,7,2,1,2,1,0]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX302 =
 {
-"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#a6e5a944ffbf325aa1bc591ef288c593f":[6,0,420,0,4],
-"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#a78204e146c22a80df48d8a6840e70790":[6,0,420,0,13],
-"dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f":[6,0,420,0,3],
 "dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#aa54d512a3bcf22ba64872bf60ed89ca3":[6,0,420,0,0],
 "dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#aba4ed91e1f61ddd1db29509700a4e0c8":[6,0,420,0,7],
 "dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ac0467332ad699f9c60cc9dc257d9e1df":[6,0,420,0,12],
@@ -249,5 +246,8 @@ var NAVTREEINDEX302 =
 "dc/d4a/classAuctionHouseWorkerThread.html#ac008f885bf78e4bfe1e847bcb9b39f04":[6,0,265,0],
 "dc/d4a/classAuctionHouseWorkerThread.html#ac42f800d004e90bc728df43d3c9c7244":[6,0,265,11],
 "dc/d4a/classAuctionHouseWorkerThread.html#ae5e76c712f46e8801c2b63e335a246ff":[6,0,265,13],
-"dc/d4a/classAuctionHouseWorkerThread.html#aecd36ccabd34131c42ec1d7964b8840a":[6,0,265,14]
+"dc/d4a/classAuctionHouseWorkerThread.html#aecd36ccabd34131c42ec1d7964b8840a":[6,0,265,14],
+"dc/d4a/classAuctionHouseWorkerThread.html#af23c367773406ed52439f21d4b288264":[6,0,265,7],
+"dc/d4a/classAuctionHouseWorkerThread.html#af4d4c4672e67953c7c909174652b99d1":[6,0,265,18],
+"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,265,1]
 };

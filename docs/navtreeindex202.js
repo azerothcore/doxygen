@@ -1,7 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a45588181429a74ac024e0390c76fa57a":[6,0,1803,0,3],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a49ff3db7845167b9e98feab2a01b1ed1":[6,0,1803,0,2],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a4a841c7d2565f4797bc893a9c1ee7acd":[6,0,1803,0,5],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a8b9b632e2e26ef8d0e8c122d28530e81":[6,0,1803,0,0],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#abc0dd71bbaf85786f34367acc3a849e9":[6,0,1803,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX202 =
 "d7/dc3/classspell__hun__improved__mend__pet.html#a43f7bb634cb165fab5e2187256f50c3f":[6,0,3087,3],
 "d7/dc3/classspell__hun__improved__mend__pet.html#a7762ce25775b98dba14b4ac465cad711":[6,0,3087,4],
 "d7/dc3/classspell__hun__improved__mend__pet.html#ac1aebc16e7944ac3f8305d9ff27bc998":[6,0,3087,1],
-"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html":[6,0,1827,0]
+"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html":[6,0,1827,0],
+"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#a0bba4d10439d47d44ff856c7fec18595":[6,0,1827,0,6],
+"d7/dc3/structnpc__hidden__cultist_1_1npc__hidden__cultistAI.html#a55e3b02d05f35d134fc605a13efe9018":[6,0,1827,0,1]
 };

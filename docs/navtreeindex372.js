@@ -1,8 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"de/deb/structM2Header.html#a5da9c2eacefd73041ef61b6e9d59d4a0":[6,0,1456,31],
-"de/deb/structM2Header.html#a5dd5a1175c8231f1c10233067ef8d4d7":[6,0,1456,1],
-"de/deb/structM2Header.html#a5deb85781f5800c783c95ee7048841f5":[6,0,1456,52],
 "de/deb/structM2Header.html#a5ff3d3bbf18c30d7c647c3211ef95585":[6,0,1456,36],
 "de/deb/structM2Header.html#a64f93f8362a9d229250cab728e66f8de":[6,0,1456,7],
 "de/deb/structM2Header.html#a65999bfae38d96013222370f9828c960":[6,0,1456,61],
@@ -249,5 +246,8 @@ var NAVTREEINDEX372 =
 "de/dfa/classLogOperation.html#a19e5e4731bd71697876110348f86d737":[6,0,1441,0],
 "de/dfa/classLogOperation.html#a665effc48367f396f3e714f5d3d56d75":[6,0,1441,4],
 "de/dfa/classLogOperation.html#a966a4bfb45430860fa5be56fe8b48f79":[6,0,1441,2],
-"de/dfa/classLogOperation.html#aae305e293044badac1a628edd501ed35":[6,0,1441,1]
+"de/dfa/classLogOperation.html#aae305e293044badac1a628edd501ed35":[6,0,1441,1],
+"de/dfa/classLogOperation.html#af1d8611d116a3575e59a99e8cba5fc84":[6,0,1441,3],
+"de/dfa/classspell__chapter5__rebuke.html":[6,0,2692],
+"de/dfa/classspell__chapter5__rebuke.html#a0f0b30da1c094281375230a6cf411c5e":[6,0,2692,0]
 };

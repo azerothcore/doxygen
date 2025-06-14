@@ -1,8 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9":[7,0,0,0,1,2,16,8,1,3],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c":[7,0,0,0,1,2,16,8,1,3,3],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649":[7,0,0,0,1,2,16,8,1,3,1],
 "df/d15/Totem_8h.html#a65151889ab4b03cf02268cc7a7ff0ba3":[7,0,0,0,1,2,16,8,1,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX375 =
 "df/d1d/classWorldDatabaseConnection.html#adaf49f7cb45d90cb041f979b1821e4a1":[6,0,4250,0],
 "df/d1d/structAuctionHousePlayerInfo.html":[6,0,260],
 "df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[6,0,260,4],
-"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,260,2]
+"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,260,2],
+"df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[6,0,260,3],
+"df/d1d/structAuctionHousePlayerInfo.html#ac88c2c37d92c9e4a8502a870a580fa01":[6,0,260,1],
+"df/d1d/structAuctionHousePlayerInfo.html#acb80e9b49dda9771679b871cf862d876":[6,0,260,0]
 };

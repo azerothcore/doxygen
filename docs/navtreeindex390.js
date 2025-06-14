@@ -1,8 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"df/db8/structboss__alar.html#a87eb5de70e5cc72f68f11be07fc3b8b3":[6,0,365,13],
-"df/db8/structboss__alar.html#a9216a80c34fddef60d5c8756e2b5b102":[6,0,365,4],
-"df/db8/structboss__alar.html#aa2e0377eb03bb5bdcc773ea6639625b6":[6,0,365,16],
 "df/db8/structboss__alar.html#aa53951ef1e41fc7009c5bc53470095de":[6,0,365,11],
 "df/db8/structboss__alar.html#aa6d22f66e285a61fb4f1f945674aef53":[6,0,365,18],
 "df/db8/structboss__alar.html#aa769636777d2fbaef9b0ffdc057fa3d4":[6,0,365,15],
@@ -249,5 +246,8 @@ var NAVTREEINDEX390 =
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[6,0,4062,3],
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[6,0,4062,3,1],
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[6,0,4062,3,2],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[6,0,4062,3,0]
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[6,0,4062,3,0],
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html":[6,0,1155,0],
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[6,0,1155,0,2],
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[6,0,1155,0,0]
 };

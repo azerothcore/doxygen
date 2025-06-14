@@ -1,7 +1,5 @@
 var NAVTREEINDEX207 =
 {
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa1fa851e463bf75f379d7b6a668c0cff":[7,0,0,0,1,2,16,10,6,7,15],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809":[7,0,0,0,1,2,16,10,6,7,1],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa2a3be49d483fe70fcffab38a9787557":[7,0,0,0,1,2,16,10,6,7,27],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa9b049ea762f29c2dfb7de1ec17fb4ec":[7,0,0,0,1,2,16,10,6,7,21],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cab77bbfbe52ce8a4876d6c762735cfbc9":[7,0,0,0,1,2,16,10,6,7,16],
@@ -212,8 +210,8 @@ var NAVTREEINDEX207 =
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[6,0,0,43,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,1,55,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,43,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,55,4],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[6,0,0,43,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,55,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html":[7,0,0,0,1,3,7,2,0,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[7,0,0,0,1,3,7,2,0,5,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,2,0,5,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX207 =
 "d7/dfb/classspell__gen__flurry__of__claws.html#a3c3044795e183eef2c801781100b11c7":[6,0,2932,1],
 "d7/dfb/classspell__gen__flurry__of__claws.html#a5fdf44f34765d0386d5c5490620c944a":[6,0,2932,0],
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html":[6,0,2228,0],
-"d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a3c254e16f62e7d2414d81062c91c2468":[6,0,2228,0,1]
+"d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a3c254e16f62e7d2414d81062c91c2468":[6,0,2228,0,1],
+"d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a6308129d11989dadf0a5948c4a268e4b":[6,0,2228,0,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,1,7,0,2]
 };

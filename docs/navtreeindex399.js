@@ -1,8 +1,5 @@
 var NAVTREEINDEX399 =
 {
-"df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1254,3],
-"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1254,2],
-"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1254,1],
 "df/df7/boss__drakos_8cpp.html":[7,0,0,0,1,3,5,8,2,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,0,8],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,0,8,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX399 =
 "dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
 "dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
 "dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0]
+"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0],
+"dir_ca38c8f641e293b4dda7eec68c8e9454.html":[7,0,0,0,1,3,7,4,0],
+"dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html":[7,0,0,0,1,3,4,4],
+"dir_cba61ad2b7214e5ed281a3632d359d7b.html":[7,0,0,0,1,0,1,2]
 };
