@@ -3645,6 +3645,7 @@ var annotated_dup =
     [ "spell_item_blade_ward_enchant", "dc/da5/classspell__item__blade__ward__enchant.html", "dc/da5/classspell__item__blade__ward__enchant" ],
     [ "spell_item_blessing_of_ancient_kings", "d8/da9/classspell__item__blessing__of__ancient__kings.html", "d8/da9/classspell__item__blessing__of__ancient__kings" ],
     [ "spell_item_blood_draining_enchant", "dd/db1/classspell__item__blood__draining__enchant.html", "dd/db1/classspell__item__blood__draining__enchant" ],
+    [ "spell_item_bloodsail_admiral_hat", "d9/d39/classspell__item__bloodsail__admiral__hat.html", "d9/d39/classspell__item__bloodsail__admiral__hat" ],
     [ "spell_item_book_of_glyph_mastery", "dd/d2a/classspell__item__book__of__glyph__mastery.html", "dd/d2a/classspell__item__book__of__glyph__mastery" ],
     [ "spell_item_branns_communicator", "da/d32/classspell__item__branns__communicator.html", "da/d32/classspell__item__branns__communicator" ],
     [ "spell_item_brewfest_mount_transformation", "db/d81/classspell__item__brewfest__mount__transformation.html", "db/d81/classspell__item__brewfest__mount__transformation" ],

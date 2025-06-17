@@ -294,6 +294,7 @@ var hierarchy =
         [ "spell_item_blade_ward_enchant", "dc/da5/classspell__item__blade__ward__enchant.html", null ],
         [ "spell_item_blessing_of_ancient_kings", "d8/da9/classspell__item__blessing__of__ancient__kings.html", null ],
         [ "spell_item_blood_draining_enchant", "dd/db1/classspell__item__blood__draining__enchant.html", null ],
+        [ "spell_item_bloodsail_admiral_hat", "d9/d39/classspell__item__bloodsail__admiral__hat.html", null ],
         [ "spell_item_desperate_defense", "d2/d1e/classspell__item__desperate__defense.html", null ],
         [ "spell_item_direbrew_remote_aura", "da/d8a/classspell__item__direbrew__remote__aura.html", null ],
         [ "spell_item_enchanted_broom_periodic", "d5/d71/classspell__item__enchanted__broom__periodic.html", null ],

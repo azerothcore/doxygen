@@ -120,6 +120,7 @@ var spell__item_8cpp =
     [ "spell_item_luffa", "d9/d50/classspell__item__luffa.html", "d9/d50/classspell__item__luffa" ],
     [ "spell_item_spell_reflectors", "dd/dc4/classspell__item__spell__reflectors.html", "dd/dc4/classspell__item__spell__reflectors" ],
     [ "spell_item_multiphase_goggles", "d1/db0/classspell__item__multiphase__goggles.html", "d1/db0/classspell__item__multiphase__goggles" ],
+    [ "spell_item_bloodsail_admiral_hat", "d9/d39/classspell__item__bloodsail__admiral__hat.html", "d9/d39/classspell__item__bloodsail__admiral__hat" ],
     [ "AegisOfPreservation", "db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3a", [
       [ "SPELL_AEGIS_HEAL", "db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3aa7c5949ded6d7e5ad08374ebef35e90d8", null ]
     ] ],
@@ -146,6 +147,9 @@ var spell__item_8cpp =
     ] ],
     [ "BlessingOfAncientKings", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575", [
       [ "SPELL_PROTECTION_OF_ANCIENT_KINGS", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575a798b299fcd9ee6fc32e487f44569fecc", null ]
+    ] ],
+    [ "BloodsailAdmiralHat", "db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66e", [
+      [ "NPC_ADMIRAL_HAT_PARROT", "db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66ea4e1954a9154f8fdb8d0367d1dd0422c7", null ]
     ] ],
     [ "BrannsCommunicator", "db/d6e/spell__item_8cpp.html#a84043aa1e52cded1eb8c330267c2f575", [
       [ "NPC_BRANN_BRONZEBEARD", "db/d6e/spell__item_8cpp.html#a84043aa1e52cded1eb8c330267c2f575ab0ab0a7df25d64eb9d621eed865a94d1", null ],

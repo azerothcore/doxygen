@@ -1,9 +1,15 @@
 var NAVTREEINDEX371 =
 {
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4031,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4031,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4031,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4031,3],
+"de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[6,0,2993,4],
+"de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[6,0,2993,1],
+"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,2993,3],
+"de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,2993,0],
+"de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,2993,2],
+"de/de0/structSpellClickInfo.html":[6,0,4032],
+"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4032,1],
+"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4032,2],
+"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4032,0],
+"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4032,3],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[6,0,779,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[6,0,779,0,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[6,0,779,0,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX371 =
 "de/deb/structM2Header.html#a47633a8903dc435e12e8a93a47439b2e":[6,0,1456,37],
 "de/deb/structM2Header.html#a48b9246b8b9c39a1ac9214476450e048":[6,0,1456,25],
 "de/deb/structM2Header.html#a4f26ce431a058e3b86dddaf991f02ec5":[6,0,1456,4],
-"de/deb/structM2Header.html#a5041eac47c6d39024240f89926d6c69b":[6,0,1456,56],
-"de/deb/structM2Header.html#a5244e177129c2e94a71043d6a7ba701d":[6,0,1456,32],
-"de/deb/structM2Header.html#a565f5e213e9dbeb4a839ccebb7a2f8f7":[6,0,1456,44],
-"de/deb/structM2Header.html#a5cf345846aa1556441df3150c91113e3":[6,0,1456,43],
-"de/deb/structM2Header.html#a5da9c2eacefd73041ef61b6e9d59d4a0":[6,0,1456,31],
-"de/deb/structM2Header.html#a5dd5a1175c8231f1c10233067ef8d4d7":[6,0,1456,1],
-"de/deb/structM2Header.html#a5deb85781f5800c783c95ee7048841f5":[6,0,1456,52]
+"de/deb/structM2Header.html#a5041eac47c6d39024240f89926d6c69b":[6,0,1456,56]
 };

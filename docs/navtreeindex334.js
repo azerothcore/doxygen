@@ -1,5 +1,11 @@
 var NAVTREEINDEX334 =
 {
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#aff8ed7cbb1e374ebde41a06a6b8a7544":[6,0,666,0,14],
+"dd/dd3/zone__netherstorm_8cpp.html":[7,0,0,0,1,3,7,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[7,0,0,0,1,3,7,12,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[7,0,0,0,1,3,7,12,12,0],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[7,0,0,0,1,3,7,12,12,3],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f":[7,0,0,0,1,3,7,12,12,4],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e":[7,0,0,0,1,3,7,12,12,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081":[7,0,0,0,1,3,7,12,12,7],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2":[7,0,0,0,1,3,7,12,12,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dd6/classcharacter__commandscript.html#acf117a67ef10b7894190ff2c0cd881fd":[6,0,846,14],
 "dd/dd6/classcharacter__commandscript.html#acff2e413b4e7c2a0ac5310e2887b7cd7":[6,0,846,27],
 "dd/dd6/classcharacter__commandscript.html#ae7f4e09d8529a78cbd50dac49c3ffc2d":[6,0,846,22],
-"dd/dd6/classcharacter__commandscript.html#ae882a00d8679c0e0d8b4fe889b326f51":[6,0,846,18],
-"dd/dd6/classcharacter__commandscript.html#aea7016450c371ef4e3305b9e7e1c0639":[6,0,846,8],
-"dd/dd6/classcharacter__commandscript.html#aec5804fe5d1be47c0b4102e4333bab60":[6,0,846,6],
-"dd/dd6/classcharacter__commandscript.html#af60a32bae9f99f48eb8665966ea42fd7":[6,0,846,16],
-"dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42":[6,0,846,1],
-"dd/dd6/classnpc__aeranas.html":[6,0,1560],
-"dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1560,1]
+"dd/dd6/classcharacter__commandscript.html#ae882a00d8679c0e0d8b4fe889b326f51":[6,0,846,18]
 };
