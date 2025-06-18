@@ -1,5 +1,11 @@
 var NAVTREEINDEX297 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d5fc60f87e43c743ad06d2e755ae9e8":[7,0,0,0,1,3,5,4,1,2,33,27],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2da73ef32ca262e412fc00fadb425a1a":[7,0,0,0,1,3,5,4,1,2,33,45],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a31289dd41f10233e26980390cc4759dd":[7,0,0,0,1,3,5,4,1,2,33,52],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3b2819953b716da4251656e3adf425c4":[7,0,0,0,1,3,5,4,1,2,33,65],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d2ddddfc5436f418584d74cac4a0679":[7,0,0,0,1,3,5,4,1,2,33,57],
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3e11bd420077c22c3b1b851a06b1fbeb":[7,0,0,0,1,3,5,4,1,2,33,1],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a41c3ec2cc42c98379fbba836a74f1680":[7,0,0,0,1,3,5,4,1,2,33,55],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a42d8e6440c8a9a53a8f6c49e9adab64a":[7,0,0,0,1,3,5,4,1,2,33,51],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a4a645c89c9f2f9d8c22e77ec1e2c08":[7,0,0,0,1,3,5,4,1,2,33,21],
@@ -92,10 +98,10 @@ var NAVTREEINDEX297 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,853,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,853,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,853,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3885],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3885,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3885,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3885,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3886],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3886,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3886,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3886,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1645,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1645,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1645,0,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d18/structGameEventQuestToEventConditionNum.html#a7cf6141e00b1a33063409c9828773b94":[6,0,1069,2],
 "dc/d18/structGameEventQuestToEventConditionNum.html#aa5d7e88828c9f44b5913d4593496894f":[6,0,1069,1],
 "dc/d19/classnpc__blistering__zombie.html":[6,0,1643],
-"dc/d19/classnpc__blistering__zombie.html#a08ef7c13b1755ac665507cd8397a2f93":[6,0,1643,2],
-"dc/d19/classnpc__blistering__zombie.html#aade4afec51e5ee77df8a39cff83e1f44":[6,0,1643,1],
-"dc/d1a/CalendarMgr_8h.html":[7,0,0,0,1,2,10,1],
-"dc/d1a/CalendarMgr_8h.html#a19ac4cd787f75380716d027d20c06b7a":[7,0,0,0,1,2,10,1,3],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5":[7,0,0,0,1,2,10,1,7],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825":[7,0,0,0,1,2,10,1,7,8],
-"dc/d1a/CalendarMgr_8h.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2":[7,0,0,0,1,2,10,1,7,30]
+"dc/d19/classnpc__blistering__zombie.html#a08ef7c13b1755ac665507cd8397a2f93":[6,0,1643,2]
 };

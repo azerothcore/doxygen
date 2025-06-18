@@ -1,5 +1,11 @@
 var NAVTREEINDEX156 =
 {
+"d5/dce/classspell__item__shadowmourne.html#a3e549b8764c0f8efc5d110543c9944c7":[6,0,3266,3],
+"d5/dce/classspell__item__shadowmourne.html#a67db21e0293f336a31bf518c0fac85d1":[6,0,3266,1],
+"d5/dce/classspell__item__shadowmourne.html#abc4b88f104253b2b141ab0e3e22ee338":[6,0,3266,4],
+"d5/dce/outland__script__loader_8cpp.html":[7,0,0,0,1,3,7,8],
+"d5/dce/outland__script__loader_8cpp.html#a0122e83c59c7c2b6aaab619f8772e9c7":[7,0,0,0,1,3,7,8,1],
+"d5/dce/outland__script__loader_8cpp.html#a05d8f51b48412fcf45ffacc3e257ff6f":[7,0,0,0,1,3,7,8,59],
 "d5/dce/outland__script__loader_8cpp.html#a06eb16b2a9cfacc1641cf49759c7615e":[7,0,0,0,1,3,7,8,97],
 "d5/dce/outland__script__loader_8cpp.html#a087a0bf698d1b09fd21edaa988fa66b2":[7,0,0,0,1,3,7,8,70],
 "d5/dce/outland__script__loader_8cpp.html#a0882a32bfa1f067701d921a72b7c79b5":[7,0,0,0,1,3,7,8,73],
@@ -243,11 +249,5 @@ var NAVTREEINDEX156 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,1,94],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,94,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,82,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,94,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,82,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,94,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,82,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,82,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,94,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,82,2]
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,94,4]
 };

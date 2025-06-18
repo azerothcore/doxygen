@@ -4,6 +4,7 @@ var boss__ionar_8cpp =
     [ "boss_ionar::boss_ionarAI", "df/d16/structboss__ionar_1_1boss__ionarAI.html", "df/d16/structboss__ionar_1_1boss__ionarAI" ],
     [ "npc_spark_of_ionar", "df/de1/classnpc__spark__of__ionar.html", "df/de1/classnpc__spark__of__ionar" ],
     [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html", "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI" ],
+    [ "spell_ionar_static_overload", "d4/d68/classspell__ionar__static__overload.html", "d4/d68/classspell__ionar__static__overload" ],
     [ "IonarEvents", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
@@ -21,6 +22,7 @@ var boss__ionar_8cpp =
       [ "SPELL_BALL_LIGHTNING_H", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3af2d28468851fe3c0e7d1a6df0a10495b", null ],
       [ "SPELL_STATIC_OVERLOAD_N", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a7fa88501769e9abc9a35d7adb3f1561f", null ],
       [ "SPELL_STATIC_OVERLOAD_H", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3aff67fb2f3aa6c3236ccb43015c0d4c7c", null ],
+      [ "SPELL_STATIC_OVERLOAD_KNOCK", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a7377a456730e145b98c742bbca47da29", null ],
       [ "SPELL_DISPERSE", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3acbe24a984f278f1c76119e8c3fbbe6a3", null ],
       [ "SPELL_SUMMON_SPARK", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a12c06129c4f7d93c09671196ad95a854", null ],
       [ "SPELL_SPARK_DESPAWN", "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a24659e9a7d70d9ade4cd1e63cdc76615", null ],

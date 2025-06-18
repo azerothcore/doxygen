@@ -289,6 +289,7 @@ var hierarchy =
         [ "spell_inoculate_nestlewood_owlkin", "d4/d0f/classspell__inoculate__nestlewood__owlkin.html", null ],
         [ "spell_ioc_parachute_ic_aura", "dd/db8/classspell__ioc__parachute__ic__aura.html", null ],
         [ "spell_ioc_repair_turret_aura", "d1/dc1/classspell__ioc__repair__turret__aura.html", null ],
+        [ "spell_ionar_static_overload", "d4/d68/classspell__ionar__static__overload.html", null ],
         [ "spell_item_aegis_of_preservation", "d1/d67/classspell__item__aegis__of__preservation.html", null ],
         [ "spell_item_arcane_shroud", "d4/d74/classspell__item__arcane__shroud.html", null ],
         [ "spell_item_blade_ward_enchant", "dc/da5/classspell__item__blade__ward__enchant.html", null ],

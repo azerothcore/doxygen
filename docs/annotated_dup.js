@@ -3638,6 +3638,7 @@ var annotated_dup =
     [ "spell_ioc_launch", "d3/d26/classspell__ioc__launch.html", "d3/d26/classspell__ioc__launch" ],
     [ "spell_ioc_parachute_ic_aura", "dd/db8/classspell__ioc__parachute__ic__aura.html", "dd/db8/classspell__ioc__parachute__ic__aura" ],
     [ "spell_ioc_repair_turret_aura", "d1/dc1/classspell__ioc__repair__turret__aura.html", "d1/dc1/classspell__ioc__repair__turret__aura" ],
+    [ "spell_ionar_static_overload", "d4/d68/classspell__ionar__static__overload.html", "d4/d68/classspell__ionar__static__overload" ],
     [ "spell_item_aegis_of_preservation", "d1/d67/classspell__item__aegis__of__preservation.html", "d1/d67/classspell__item__aegis__of__preservation" ],
     [ "spell_item_anti_venom", "d2/d48/classspell__item__anti__venom.html", "d2/d48/classspell__item__anti__venom" ],
     [ "spell_item_arcane_shroud", "d4/d74/classspell__item__arcane__shroud.html", "d4/d74/classspell__item__arcane__shroud" ],

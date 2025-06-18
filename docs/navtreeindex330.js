@@ -1,5 +1,11 @@
 var NAVTREEINDEX330 =
 {
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a813411a81bd17e28f2c0a4f8ff962566":[7,0,0,0,1,3,5,4,2,5,13,3],
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a8167bcf69aeeab2b3dcb4e099c47d243":[7,0,0,0,1,3,5,4,2,5,13,11],
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2ab8328640cdf4b1de2ff2a20e3a33fee6":[7,0,0,0,1,3,5,4,2,5,13,0],
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2abe7e6f995b7cddbe5e89a7365d1adf90":[7,0,0,0,1,3,5,4,2,5,13,5],
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2ac1f9ad5a78c8ab10b280c0974261af86":[7,0,0,0,1,3,5,4,2,5,13,9],
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2ac6466d019378afaf60850ee3b7b3d057":[7,0,0,0,1,3,5,4,2,5,13,2],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,4,2,5,12],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4785a3d1902206d0108662239309dc96":[7,0,0,0,1,3,5,4,2,5,12,1],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a65d5a8c5c6c824ee4c7cfe32dfdac042":[7,0,0,0,1,3,5,4,2,5,12,2],
@@ -126,10 +132,10 @@ var NAVTREEINDEX330 =
 "dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,2982,2],
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,2982,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[6,0,2982,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3180],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3180,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3180,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3180,1],
+"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3181],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3181,0],
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3181,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3181,1],
 "dd/db2/classGenericCreatureScript.html":[6,0,1091],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[6,0,1091,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[6,0,1091,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX330 =
 "dd/db3/classReputationMgr.html#af106529b131c31217c96afa3f982cb19":[6,0,2482,38],
 "dd/db3/classReputationMgr.html#af333657754a88e02bcd0a5a0ca5059c1":[6,0,2482,46],
 "dd/db3/classReputationMgr.html#af55470808f2d957a1f618090bfe2fdc6":[6,0,2482,6],
-"dd/db3/classReputationMgr.html#af58f6b951d02393dfe64fdc528425a39":[6,0,2482,17],
-"dd/db3/classReputationMgr.html#af617ab394cc9995ad7cf7e1dc6c4415b":[6,0,2482,21],
-"dd/db3/classReputationMgr.html#af636fd98488c7661eba8bee677e139a7":[6,0,2482,7],
-"dd/db3/classReputationMgr.html#af67314d7007c3b81130dd1e47c479d7d":[6,0,2482,34],
-"dd/db3/classReputationMgr.html#af7c9b1b5eb2fdb2681b21bf729a55fb0":[6,0,2482,25],
-"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2482,39],
-"dd/db4/classnpc__future__you.html":[6,0,1793]
+"dd/db3/classReputationMgr.html#af58f6b951d02393dfe64fdc528425a39":[6,0,2482,17]
 };
