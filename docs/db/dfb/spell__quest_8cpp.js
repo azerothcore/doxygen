@@ -265,7 +265,9 @@ var spell__quest_8cpp =
     ] ],
     [ "Quest_The_Storm_King", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620", [
       [ "SPELL_RIDE_GYMER", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620a7689a8e53a38b12f9e8c58de3dbffdf9", null ],
-      [ "SPELL_GRABBED", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef", null ]
+      [ "SPELL_GRABBED", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef", null ],
+      [ "SPELL_HEALING_WINDS", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab6d0e73a3ec7ce610df1d6b620eee7ed", null ],
+      [ "NPC_STORM_CLOUD", "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab456f524958d9715467ad49b7c8c1a4c", null ]
     ] ],
     [ "Quest_The_Storm_King_Throw", "db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690", [
       [ "SPELL_VARGUL_EXPLOSION", "db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8", null ]

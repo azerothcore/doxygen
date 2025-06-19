@@ -1310,7 +1310,7 @@ var searchData=
   ['group_5fassign_5fmaintank_1307',['GROUP_ASSIGN_MAINTANK',['../de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192',1,'Group.h']]],
   ['group_5fbeam_5fphase_1308',['GROUP_BEAM_PHASE',['../da/d47/boss__cthun_8cpp.html#aaff9bf4a1193d28032a46428a879f03da2e7a5a16d1b02b8f007bb10455f4cab6',1,'boss_cthun.cpp']]],
   ['group_5fbear_1309',['GROUP_BEAR',['../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a4c2ca66b4c18d644a0fd3cab7a10e86f',1,'boss_nalorakk.cpp']]],
-  ['group_5fberserk_1310',['group_berserk',['../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b',1,'GROUP_BERSERK:&#160;boss_nalorakk.cpp'],['../d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f781c602614908c693b03cbb66b2f5b',1,'GROUP_BERSERK:&#160;boss_illidan.cpp']]],
+  ['group_5fberserk_1310',['group_berserk',['../d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f781c602614908c693b03cbb66b2f5b',1,'GROUP_BERSERK:&#160;boss_illidan.cpp'],['../d1/d79/boss__nalorakk_8cpp.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b',1,'GROUP_BERSERK:&#160;boss_nalorakk.cpp']]],
   ['group_5fbite_1311',['GROUP_BITE',['../dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac025c81ee539177e76f15b9738640420',1,'boss_shirrak_the_dead_watcher.cpp']]],
   ['group_5fbrawler_1312',['GROUP_BRAWLER',['../d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3',1,'boss_warmaster_voone.cpp']]],
   ['group_5fbreath_1313',['GROUP_BREATH',['../d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1',1,'boss_felmyst.cpp']]],
@@ -1328,7 +1328,7 @@ var searchData=
   ['group_5felectrical_5fstorm_1325',['GROUP_ELECTRICAL_STORM',['../d4/d29/boss__akilzon_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1f1ab8ecc79a8547e170fd84b06c0643',1,'boss_akilzon.cpp']]],
   ['group_5femerged_1326',['GROUP_EMERGED',['../df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6762b2873125ac73a850d2e103ec31a',1,'boss_ouro.cpp']]],
   ['group_5fenfeeble_1327',['GROUP_ENFEEBLE',['../de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d',1,'boss_prince_malchezaar.cpp']]],
-  ['group_5fenrage_1328',['group_enrage',['../de/d97/boss__mother__shahraz_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780',1,'GROUP_ENRAGE:&#160;boss_mother_shahraz.cpp'],['../d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780',1,'GROUP_ENRAGE:&#160;boss_janalai.cpp']]],
+  ['group_5fenrage_1328',['group_enrage',['../d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780',1,'GROUP_ENRAGE:&#160;boss_janalai.cpp'],['../de/d97/boss__mother__shahraz_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780',1,'GROUP_ENRAGE:&#160;boss_mother_shahraz.cpp']]],
   ['group_5ffear_1329',['GROUP_FEAR',['../dc/db3/boss__archimonde_8cpp.html#a730f9ef8300d0ee2ac28768a01f83dc6ad319a022d8e840e4c98b47a1b0916d91',1,'boss_archimonde.cpp']]],
   ['group_5fflame_5fbuffet_1330',['GROUP_FLAME_BUFFET',['../d2/df4/boss__alar_8cpp.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53',1,'boss_alar.cpp']]],
   ['group_5fflame_5fsear_1331',['GROUP_FLAME_SEAR',['../dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca9c18ef85f72e2f6f200c311478e6f5e8',1,'boss_eredar_twins.cpp']]],
@@ -1506,6 +1506,5 @@ var searchData=
   ['guildmember_5fstatus_5fmobile_1503',['GUILDMEMBER_STATUS_MOBILE',['../d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a4e3f982adda8cb981e3780ea68a7ba37',1,'Guild.h']]],
   ['guildmember_5fstatus_5fnone_1504',['GUILDMEMBER_STATUS_NONE',['../d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a27eb32373627b4d85388957c19e139e9',1,'Guild.h']]],
   ['guildmember_5fstatus_5fonline_1505',['GUILDMEMBER_STATUS_ONLINE',['../d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a82ef49b228d254523c3585bb42547d66',1,'Guild.h']]],
-  ['gymers_5fgrab_1506',['GYMERS_GRAB',['../d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43a6bdcde6d40a4328431c02b01179c3f6a',1,'zone_zuldrak.cpp']]],
-  ['gyth_5fpath_5f1_1507',['GYTH_PATH_1',['../da/df2/boss__gyth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4a7854e4bbe7818defb3d6b60de0928d',1,'boss_gyth.cpp']]]
+  ['gyth_5fpath_5f1_1506',['GYTH_PATH_1',['../da/df2/boss__gyth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4a7854e4bbe7818defb3d6b60de0928d',1,'boss_gyth.cpp']]]
 ];

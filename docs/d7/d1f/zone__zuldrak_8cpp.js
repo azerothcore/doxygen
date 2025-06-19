@@ -14,8 +14,6 @@ var zone__zuldrak_8cpp =
     [ "npc_crusade_recruit", "d1/dce/classnpc__crusade__recruit.html", "d1/dce/classnpc__crusade__recruit" ],
     [ "npc_crusade_recruit::npc_crusade_recruitAI", "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html", "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI" ],
     [ "go_scourge_enclosure", "d3/d31/classgo__scourge__enclosure.html", "d3/d31/classgo__scourge__enclosure" ],
-    [ "npc_storm_cloud", "da/da9/classnpc__storm__cloud.html", "da/da9/classnpc__storm__cloud" ],
-    [ "npc_storm_cloud::npc_storm_cloudAI", "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI.html", "d7/d4c/structnpc__storm__cloud_1_1npc__storm__cloudAI" ],
     [ "spell_scourge_disguise_instability", "d1/d5b/classspell__scourge__disguise__instability.html", "d1/d5b/classspell__scourge__disguise__instability" ],
     [ "AlchemistItemRequirements", "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08", [
       [ "QUEST_ALCHEMIST_APPRENTICE", "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
@@ -100,13 +98,6 @@ var zone__zuldrak_8cpp =
       [ "QUEST_OUR_ONLY_HOPE", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4ba240de8c75d2a585337e19b42ece990e2", null ],
       [ "NPC_GYMER_DUMMY", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4baf3164c424edbb9f3ac7d0fc0c097c7cf", null ],
       [ "SPELL_GYMER_LOCK_EXPLOSION", "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4ba3ccf1c0c116ac325b0b2c98066ae3ed5", null ]
-    ] ],
-    [ "StormCloud", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43", [
-      [ "STORM_COULD", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43ad594ba4fa830715f356f7a3ccbccceaf", null ],
-      [ "HEALING_WINDS", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43ae1788846d886a388a9d11b29d6a027cf", null ],
-      [ "STORM_VISUAL", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43a2041004b6cb8392d10b011d695e9055e", null ],
-      [ "GYMERS_GRAB", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43a6bdcde6d40a4328431c02b01179c3f6a", null ],
-      [ "RIDE_VEHICLE", "d7/d1f/zone__zuldrak_8cpp.html#a67e9eba3eec1d38c3e664441375fbf43a9184d69502a07fd550275bf3ef795ced", null ]
     ] ],
     [ "AddSC_zuldrak", "d7/d1f/zone__zuldrak_8cpp.html#a595341879dbea9e321816938e73a4d7b", null ],
     [ "AA_AURA_ID", "d7/d1f/zone__zuldrak_8cpp.html#a4408cfc9a2f0da1e41850de7868c7b8a", null ],

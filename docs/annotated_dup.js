@@ -2596,7 +2596,6 @@ var annotated_dup =
     [ "npc_stolen_soul", "d9/d5e/structnpc__stolen__soul.html", "d9/d5e/structnpc__stolen__soul" ],
     [ "npc_stone_watcher_of_norgannon", "da/d0d/classnpc__stone__watcher__of__norgannon.html", "da/d0d/classnpc__stone__watcher__of__norgannon" ],
     [ "npc_storm_beacon_spawn", "d7/df5/classnpc__storm__beacon__spawn.html", "d7/df5/classnpc__storm__beacon__spawn" ],
-    [ "npc_storm_cloud", "da/da9/classnpc__storm__cloud.html", "da/da9/classnpc__storm__cloud" ],
     [ "npc_stormforged_lieutenant", "d4/d02/classnpc__stormforged__lieutenant.html", "d4/d02/classnpc__stormforged__lieutenant" ],
     [ "npc_strangulate_vehicle", "d4/d85/classnpc__strangulate__vehicle.html", "d4/d85/classnpc__strangulate__vehicle" ],
     [ "npc_sunblade_arch_mage", "d8/df4/structnpc__sunblade__arch__mage.html", "d8/df4/structnpc__sunblade__arch__mage" ],
