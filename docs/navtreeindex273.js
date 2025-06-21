@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[6,0,537,3],
 "db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[6,0,537,2],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[6,0,747,0],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[6,0,747,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d41/structnpc__sentinel__leader.html#ada65bdf153ae9b3262b0f55fb540be17":[6,0,2092,5],
 "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html":[6,0,3868],
 "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a2ae927358c2480aecd18c1f3c2e6c1c7":[6,0,3868,1],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a44f558248f944464c773105728cffbca":[6,0,3868,0],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#aeda833ca8483d337311086b9d0a14081":[6,0,3868,2]
+"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a44f558248f944464c773105728cffbca":[6,0,3868,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/ddf/structgo__type.html#a389d430f290dbb66d46ccb81daac6f0d":[6,0,1189,9],
 "d6/ddf/structgo__type.html#a60460fc3030b24eef0246dae28af2282":[6,0,1189,6],
 "d6/ddf/structgo__type.html#a8b808a7545a7efaf0bf352ec663ca9ba":[6,0,1189,3],
 "d6/ddf/structgo__type.html#a9aa433644fc5bedbb3749eacfd9a57fd":[6,0,1189,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/dee/classInstanceSaveMgr.html#a022f391346e6e2fcb71326f5a7c04aa1":[6,0,1357,41],
 "d6/dee/classInstanceSaveMgr.html#a22b56c7b035c7948ee19a6b65fb41ec4":[6,0,1357,2],
 "d6/dee/classInstanceSaveMgr.html#a28d8c36532d7d7275592bbe44b3983ee":[6,0,1357,22],
-"d6/dee/classInstanceSaveMgr.html#a2ba37d9c7e8c92cb74001d900b9e240a":[6,0,1357,5],
-"d6/dee/classInstanceSaveMgr.html#a312a8a18d5b882a439fb8563a8e890b6":[6,0,1357,9]
+"d6/dee/classInstanceSaveMgr.html#a2ba37d9c7e8c92cb74001d900b9e240a":[6,0,1357,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d62/classRegularGrid2D.html#a1e06727cad432d3f3ce9ca6f08c2ac76":[6,0,2477,12],
 "db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d":[6,0,2477,16],
 "db/d62/classRegularGrid2D.html#a2343374187eaf1b4a4dcf6d5cf4611d1":[6,0,2477,15],
 "db/d62/classRegularGrid2D.html#a3eb8cf138465b05159a8411d5f723bcb":[6,0,2477,9],
@@ -13,8 +14,8 @@ var NAVTREEINDEX276 =
 "db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539":[6,0,2477,4],
 "db/d62/classRegularGrid2D.html#af105482aa4349d2f7f937fb95ec7f2a8":[6,0,2477,3],
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,7],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5a95e8e0605c8f22e4a8f9f2e9a5b3aa7a":[7,0,0,0,1,3,9,4,131,1],
 "db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5ab5dd9a2ad56a47e4f68e692db29a5fef":[7,0,0,0,1,3,9,4,131,0],
 "db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40c":[7,0,0,0,1,3,9,4,146],
-"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca1a9a0635902f32201df670bae3f8382d":[7,0,0,0,1,3,9,4,146,0],
-"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca1c827d3a5d26942f0414b9261076611d":[7,0,0,0,1,3,9,4,146,2]
+"db/d6e/spell__item_8cpp.html#a44cfd667d3cbb152c29dfc732506a40ca1a9a0635902f32201df670bae3f8382d":[7,0,0,0,1,3,9,4,146,0]
 };

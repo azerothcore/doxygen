@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc4/classEffectMovementGenerator.html#a9627573a7206e12ff469e8e6e076862b":[6,0,1001,4],
 "d5/dc4/classEffectMovementGenerator.html#adff45ee4ce3cc72b6cc88e626c3bd0a5":[6,0,1001,5],
 "d5/dc4/classspell__dru__predatory__strikes.html":[6,0,2809],
 "d5/dc4/classspell__dru__predatory__strikes.html#a31bde31b6db4f71ce65c6e1a862df771":[6,0,2809,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcd/classspell__bh__cleanse__quel__delar.html#a64ef9effcdeaf13b58aeef889d777f22":[6,0,2623,2],
 "d5/dce/classspell__item__shadowmourne.html":[6,0,3265],
 "d5/dce/classspell__item__shadowmourne.html#a0b5b97081b7c897d451ef70c810bd7f1":[6,0,3265,5],
-"d5/dce/classspell__item__shadowmourne.html#a185159a5c83e8c65ef5b82f49a89dd8a":[6,0,3265,0],
-"d5/dce/classspell__item__shadowmourne.html#a1b51483738d5d3b73f50a78ef9fc1c57":[6,0,3265,2]
+"d5/dce/classspell__item__shadowmourne.html#a185159a5c83e8c65ef5b82f49a89dd8a":[6,0,3265,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX359 =
 {
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[6,0,1804,0,6],
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a35be0135b77a3e62ac8d421910cf0674":[6,0,1804,0,4],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a388a20d6d720f5f44a67073fc40e98b6":[6,0,1804,0,8],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aae212c3aecdf82f509ed0bf841f16e59":[6,0,1804,0,2],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ab5403383f1fcd539cacf975dffbe2817":[6,0,1804,0,3],
@@ -227,14 +229,14 @@ var NAVTREEINDEX359 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1967,0,5],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX359 =
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,287,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#aa8e111f748d165f854b2deff5a81577f":[6,0,287,0],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#ad05c428ccd8fbdce40dc4f337de19fb8":[6,0,287,5],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#adb807963195c0abbb840aca64499f630":[6,0,287,3],
-"de/d6e/structBG__AV__NodeInfo.html":[6,0,347],
-"de/d6e/structBG__AV__NodeInfo.html#a222db96ad937e31986c0c39a5a371dd7":[6,0,347,6]
+"de/d6e/structAUTH__LOGON__PROOF__S.html#adb807963195c0abbb840aca64499f630":[6,0,287,3]
 };

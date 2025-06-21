@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"d5/db2/BattlegroundWS_8h.html#a29059eb2d46fa5c2398a2ee393c1ad0aad1c8b1dbff96860bbb739fd1f72ac849":[7,0,0,0,1,2,8,1,21,9,2],
 "d5/db2/BattlegroundWS_8h.html#a29059eb2d46fa5c2398a2ee393c1ad0aade5a2c8385638165501d495eacd74843":[7,0,0,0,1,2,8,1,21,9,17],
 "d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4b":[7,0,0,0,1,2,8,1,21,11],
 "d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4ba30d91497534a00b1cf56f40bbc5ca40d":[7,0,0,0,1,2,8,1,21,11,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "d5/db7/classboss__grobbulus__poison__cloud.html#a2bb8ebec0ae79f20602e551f654e0761":[6,0,509,1],
 "d5/db7/classboss__grobbulus__poison__cloud.html#a34c68dd3e58b83c52f270eb1b194f2ed":[6,0,509,2],
 "d5/db8/classLootItemStorage.html":[6,0,1446],
-"d5/db8/classLootItemStorage.html#a36faeed6ef556fd13118c4ad34e38548":[6,0,1446,1],
-"d5/db8/classLootItemStorage.html#a377c75f9d06eb246072b29d19baf2b62":[6,0,1446,4]
+"d5/db8/classLootItemStorage.html#a36faeed6ef556fd13118c4ad34e38548":[6,0,1446,1]
 };

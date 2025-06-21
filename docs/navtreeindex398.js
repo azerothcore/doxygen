@@ -1,5 +1,7 @@
 var NAVTREEINDEX398 =
 {
+"df/ded/classnpc__venomhide__hatchling.html":[6,0,2251],
+"df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2251,3],
 "df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[6,0,2251,1],
 "df/ded/classnpc__venomhide__hatchling.html#a96110b752965d751ab7b466c4f67e333":[6,0,2251,2],
 "df/ded/mechanar_8h.html":[7,0,0,0,1,3,7,5,3,6],
@@ -36,8 +38,8 @@ var NAVTREEINDEX398 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,11,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,357],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,357,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,357,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX398 =
 "df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3551,0],
 "df/df6/structHealthCheckEventData.html":[6,0,1254],
 "df/df6/structHealthCheckEventData.html#a06d4eb08cc3e6bd20ddcab20e59ed525":[6,0,1254,0],
-"df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1254,3],
-"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1254,2],
-"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1254,1]
+"df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1254,3]
 };

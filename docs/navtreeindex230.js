@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d16/the__slave__pens_8cpp.html":[7,0,0,0,1,3,7,2,1,5],
 "d9/d16/the__slave__pens_8cpp.html#acc273464c0a5ce338fdb03fdd7877dd9":[7,0,0,0,1,3,7,2,1,5,1],
 "d9/d17/PetAI_8cpp.html":[7,0,0,0,1,2,3,0,8],
 "d9/d17/classboss__general__angerforge.html":[6,0,493],
@@ -167,8 +168,8 @@ var NAVTREEINDEX230 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3217,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3217,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3217,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,30,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,30,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,30,9,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f":[7,0,0,0,1,3,4,19,5,1],
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e":[7,0,0,0,1,3,4,19,5,2],
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce":[7,0,0,0,1,3,4,19,5,3],
-"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154":[7,0,0,0,1,3,4,19,5,4],
-"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5":[7,0,0,0,1,3,4,19,5,10]
+"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154":[7,0,0,0,1,3,4,19,5,4]
 };

@@ -7,6 +7,7 @@ var Random_8h =
     [ "rand_chance", "dd/d6d/Random_8h.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
     [ "rand_norm", "dd/d6d/Random_8h.html#ad552d8147f66d6ec0cd44271e8799599", null ],
     [ "randtime", "dd/d6d/Random_8h.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "dd/d6d/Random_8h.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
     [ "roll_chance_f", "dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94", null ],
     [ "roll_chance_i", "dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad", null ],
     [ "urand", "dd/d6d/Random_8h.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],

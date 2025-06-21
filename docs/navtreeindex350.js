@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2626a63dd78da4e08d53b1eea309e985":[7,0,0,0,1,4,7,99,12],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a267a208234f59ac73123708905a9f71b":[7,0,0,0,1,4,7,99,114],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a280fb10c02fa35828e3505dd1d0f5814":[7,0,0,0,1,4,7,99,123],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2dfc1b7d1798804b6d15589a2a0f8860":[7,0,0,0,1,4,7,99,11],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2e3e4e2fc6d9347842b7ab76d9d3e0d6":[7,0,0,0,1,4,7,99,86],
@@ -247,7 +249,5 @@ var NAVTREEINDEX350 =
 "de/d11/classnpc__millhouse__manastorm.html#aebc8efc48d207ad7f1105fa636b9c104":[6,0,1959,1],
 "de/d11/classnpc__released__offspring__harkoa.html":[6,0,2065],
 "de/d11/classnpc__released__offspring__harkoa.html#a10f583320e3b617cf2b327cfb6fed6f5":[6,0,2065,1],
-"de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[6,0,2065,2],
-"de/d11/structboss__novos_1_1boss__novosAI.html":[6,0,639,0],
-"de/d11/structboss__novos_1_1boss__novosAI.html#a00e5942a5c4c05dc168b80d60cb10d0f":[6,0,639,0,11]
+"de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[6,0,2065,2]
 };

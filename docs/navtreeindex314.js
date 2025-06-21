@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[7,0,0,0,1,2,40,1,3],
 "dc/de1/instance__sunwell__plateau_8cpp.html":[7,0,0,0,1,3,2,12,6],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,12,6,14],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216":[7,0,0,0,1,3,2,12,6,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8],
 "dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
 "dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a1c2a3145d36ac321b7f1f11a01a235f5":[7,0,0,0,1,2,41,8,8],
-"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3]
+"dc/dee/SpellMgr_8cpp.html#a1c2a3145d36ac321b7f1f11a01a235f5":[7,0,0,0,1,2,41,8,8]
 };

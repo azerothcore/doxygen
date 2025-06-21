@@ -1,5 +1,7 @@
 var NAVTREEINDEX396 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[6,0,11,12,1],
+"df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[5,0,30,12,1],
 "df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[5,0,30,12,5],
 "df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[6,0,11,12,5],
 "df/dd9/structboss__mimiron_1_1boss__mimironAI.html":[6,0,617,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX396 =
 "df/ddc/classTaskScheduler.html#a762836fbd5252c247acedbe4d740cf09":[6,0,4104,38],
 "df/ddc/classTaskScheduler.html#a7a4238b1a25be51166721ab89ecae50d":[6,0,4104,14],
 "df/ddc/classTaskScheduler.html#a8795b39f795f7d3ed13d21fcce3326c2":[6,0,4104,29],
-"df/ddc/classTaskScheduler.html#a91f6ef47e22b95b487999bbaaa303c82":[6,0,4104,24],
-"df/ddc/classTaskScheduler.html#a92d2acde727cf1db3eeed35281b75341":[6,0,4104,52],
-"df/ddc/classTaskScheduler.html#a998482c629b3a5783373a6d3ac30e1ed":[6,0,4104,6]
+"df/ddc/classTaskScheduler.html#a91f6ef47e22b95b487999bbaaa303c82":[6,0,4104,24]
 };

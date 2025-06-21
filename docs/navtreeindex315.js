@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
 "dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
 "dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
@@ -99,12 +100,12 @@ var NAVTREEINDEX315 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,3987,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,3987,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,3987,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dd/d00/structnpc__forest__frog.html#a8260157062b3e4ef48ad47b4f9bf66ac":[6,0,1775,3],
 "dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1775,4],
 "dd/d00/structnpc__forest__frog.html#aa22c4eb7eb3a84db94ce8eb38afd18f5":[6,0,1775,2],
-"dd/d00/structnpc__forest__frog.html#aac140826b8c4b7ce55925b5abeee936e":[6,0,1775,1],
-"dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7":[6,0,1775,6]
+"dd/d00/structnpc__forest__frog.html#aac140826b8c4b7ce55925b5abeee936e":[6,0,1775,1]
 };

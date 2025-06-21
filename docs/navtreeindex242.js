@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53":[7,0,0,0,1,3,5,9,0,3,9],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a1c755cdad7beeae1a2ef721eba24fa99":[7,0,0,0,1,3,5,9,0,3,9,4],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a1d1fc465151b3431ace03005b0061ee6":[7,0,0,0,1,3,5,9,0,3,9,5],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a5545d513600badfbae47148bc756ed64":[7,0,0,0,1,3,5,9,0,3,9,1],
@@ -51,12 +52,12 @@ var NAVTREEINDEX242 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#ae2c4de235fc727039a50f1b6ba729422":[6,0,3944,3],
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html":[6,0,1821,0],
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a13a9efcb11ed31725c45011508407287":[6,0,1821,0,10],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a3004aecb50815287d5f832f2a8a0d250":[6,0,1821,0,2],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a3ce9a62d3e44b3ccc279803d5ef87a47":[6,0,1821,0,3]
+"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a3004aecb50815287d5f832f2a8a0d250":[6,0,1821,0,2]
 };

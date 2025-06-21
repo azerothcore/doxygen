@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,4,0,0,1],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ea025abfc65584b2a279fc587c669a118a":[7,0,0,0,1,3,4,0,0,1,3],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ea6f59bef5aacd997ec3c2c234baf9896d":[7,0,0,0,1,3,4,0,0,1,2],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963eac83289e3699f1f6e12eb19c00d658571":[7,0,0,0,1,3,4,0,0,1,1],
@@ -217,8 +218,8 @@ var NAVTREEINDEX172 =
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
 "d6/d75/boss__varos_8cpp.html#a075a51f16e112a721f01da6beedbbb6f":[7,0,0,0,1,3,5,8,2,3,2],
 "d6/d75/boss__varos_8cpp.html#a088f90a94bfd48bdd631e135332dee31":[7,0,0,0,1,3,5,8,2,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caf404b370d73f6ca332091b067bfe2fce":[7,0,0,0,1,3,5,8,2,3,7,5],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caff2cc170f5568b498b06a7684e5637fd":[7,0,0,0,1,3,5,8,2,3,7,10],
 "d6/d75/boss__varos_8cpp.html#a7a180c3c0cf9bd0e27c047333fcb9459":[7,0,0,0,1,3,5,8,2,3,4],
-"d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,3,5],
-"d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a126e94acc81465e9dde0d5a794095992":[7,0,0,0,1,3,5,8,2,3,5,1]
+"d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,2,3,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX397 =
 {
+"df/ddc/classTaskScheduler.html#a92d2acde727cf1db3eeed35281b75341":[6,0,4104,52],
+"df/ddc/classTaskScheduler.html#a998482c629b3a5783373a6d3ac30e1ed":[6,0,4104,6],
 "df/ddc/classTaskScheduler.html#a9c6be5fc079684953f911548fb66cb21":[6,0,4104,5],
 "df/ddc/classTaskScheduler.html#a9d138ac49b394ad151661465e4180de6":[6,0,4104,32],
 "df/ddc/classTaskScheduler.html#aa4076cb693d644584f7475dd4f5f4b5d":[6,0,4104,19],
@@ -52,8 +54,8 @@ var NAVTREEINDEX397 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,27,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,27,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,27,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,723,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,723,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a16771a7a854f85dcc26e3510d31454af":[6,0,723,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX397 =
 "df/dec/classspell__algalon__supermassive__fail.html#af280f3880e2e567188ba8ca3e45c00c0":[6,0,2583,0],
 "df/ded/classnpc__tortured__rifleman.html":[6,0,2192],
 "df/ded/classnpc__tortured__rifleman.html#a32e4164864c3873b3684ad531a2e924a":[6,0,2192,1],
-"df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2192,2],
-"df/ded/classnpc__venomhide__hatchling.html":[6,0,2251],
-"df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2251,3]
+"df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2192,2]
 };

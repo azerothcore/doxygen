@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8a3b53f4bb8705a2abcdedcaa0c1c2c3db":[7,0,0,0,1,3,7,1,2,23,1],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8a44ef89f4ec69ad68936c1f58c085e169":[7,0,0,0,1,3,7,1,2,23,8],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8a59c36dcf9068b2448525ae40e89cc45a":[7,0,0,0,1,3,7,1,2,23,11],
 "d9/d02/boss__illidan_8cpp.html#a84fc1fb6294560caf4cb6d92101b33b8a73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,7,1,2,23,4],
@@ -115,14 +116,14 @@ var NAVTREEINDEX229 =
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,1,7,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[6,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,1,7,0,1,2],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,1,7,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[6,0,0,4,0,1,0],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,1,7,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,1,7,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[6,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,1,7,0,1,3],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[6,0,0,4,0,1,3],
-"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[5,0,1,2,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[6,0,0,1,6],
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[5,0,1,2,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[5,0,1,2,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[6,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[6,0,0,1,6,1],
@@ -190,12 +191,12 @@ var NAVTREEINDEX229 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,30,7,2,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,30,7,2,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,7,2,5],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,30,7,2,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,30,7,2,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,7,2,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,7,2,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,30,7,2,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,30,7,2,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,7,2,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,30,7,2,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[6,0,11,7,2,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[6,0,2589],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ad5a0e6fefabf2a996a952310faaa5e41":[6,0,1591,0,16],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ad89ae2e4c350eb5d494368c3144e4383":[6,0,1591,0,7],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ae5316690372ae94e0d31169b9eabd4f9":[6,0,1591,0,14],
-"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#afdd18c951d7f07921fdac7a5ab5c6ce6":[6,0,1591,0,19],
-"d9/d16/the__slave__pens_8cpp.html":[7,0,0,0,1,3,7,2,1,5]
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#afdd18c951d7f07921fdac7a5ab5c6ce6":[6,0,1591,0,19]
 };

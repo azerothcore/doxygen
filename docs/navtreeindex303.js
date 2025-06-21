@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,265,1],
 "dc/d4b/AreaDefines_8h.html":[7,0,0,0,1,2,26,2],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cb":[7,0,0,0,1,2,26,2,1],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba023a49455722ceb380f5cb4b34a5c1be":[7,0,0,0,1,2,26,2,1,75],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html":[6,0,188],
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee":[6,0,188,2],
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a57e1ffbe543a93799d6c26d880e128ad":[6,0,188,1],
-"dc/d4b/classArenaSeasonTeamRewarderImpl.html#a962da3fcdc2feb57ffd2a635d431939a":[6,0,188,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html":[6,0,1776,0]
+"dc/d4b/classArenaSeasonTeamRewarderImpl.html#a962da3fcdc2feb57ffd2a635d431939a":[6,0,188,0]
 };

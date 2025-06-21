@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a":[7,0,0,0,1,2,16,5,2,15,3],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39":[7,0,0,0,1,2,16,5,2,15,0],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882":[7,0,0,0,1,2,16,5,2,15,1],
 "db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687":[7,0,0,0,1,2,16,5,2,15,8],
@@ -67,15 +68,15 @@ var NAVTREEINDEX287 =
 "db/dc5/classspell__axe__flurry.html#aeaf1955aece958a8e7d7773a33177e5d":[6,0,2609,3],
 "db/dc6/classMPQArchive.html":[6,0,1525],
 "db/dc6/classMPQArchive.html#a2026335b9ede29197acfaac8513456d5":[6,0,1525,8],
-"db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1525,0],
 "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1525,2],
+"db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1525,0],
 "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1525,3],
 "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1525,1],
 "db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a":[6,0,1525,9],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1525,6],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1525,7],
-"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1525,5],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1525,4],
+"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1525,5],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3430],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3430,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3430,1],
@@ -200,8 +201,8 @@ var NAVTREEINDEX287 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2675,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/dce/classAura.html#a3b0854e2019338fd16c9ca46e3997931":[6,0,277,36],
 "db/dce/classAura.html#a3bac8c34612850e65cd2411f2c7b6baa":[6,0,277,24],
 "db/dce/classAura.html#a3bbcbc2c658a2d959b20837e1e2c31b7":[6,0,277,114],
-"db/dce/classAura.html#a3c01fd7df3476af276831667baa3a0ee":[6,0,277,138],
-"db/dce/classAura.html#a3c4dfe75dad16fbf2afaf23ce77e4262":[6,0,277,57]
+"db/dce/classAura.html#a3c01fd7df3476af276831667baa3a0ee":[6,0,277,138]
 };

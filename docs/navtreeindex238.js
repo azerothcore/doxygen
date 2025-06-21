@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa24bcdb3d971392027fe44810f01679b0":[7,0,0,0,1,2,24,3,24,4],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa38fed431ec0ae02ffdd70ed6014f03a5":[7,0,0,0,1,2,24,3,24,0],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa537ec62994db268ea075329b2a8506fa":[7,0,0,0,1,2,24,3,24,2],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa5ccd70d5799413c4175e4278fa6f8995":[7,0,0,0,1,2,24,3,24,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d8d/classspell__illidari__council__circle__of__healing.html#a94b783490dafae872b65e0bbfed156b9":[6,0,3159,0],
 "d9/d8d/classspell__illidari__council__circle__of__healing.html#af59695af3afcc51a3c29fcc4053bbfee":[6,0,3159,1],
 "d9/d8f/dire__maul_8h.html":[7,0,0,0,1,3,4,2,1],
-"d9/d8f/dire__maul_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,2,1,0],
-"d9/d8f/dire__maul_8h.html#a048f71c2ce75235af7457a044b2d4af7":[7,0,0,0,1,3,4,2,1,5]
+"d9/d8f/dire__maul_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,2,1,0]
 };

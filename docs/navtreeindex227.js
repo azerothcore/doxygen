@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/dee/classboss__taerar.html#ae6615da6ee14c4f7cb3087b4ee5d6246":[6,0,715,2],
 "d8/def/PlayerCommand_8h.html":[7,0,0,0,1,3,0,49],
 "d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,49,0],
 "d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,49,1],
@@ -216,8 +217,8 @@ var NAVTREEINDEX227 =
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
 "d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
 "d8/dfc/structAcore_1_1unary__function.html":[5,0,1,120],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,120,1],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,120,0],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[6,0,0,108,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[6,0,539,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca88cd9f67c5feb7f0ba6c853b8520a00b":[7,0,0,0,1,3,2,16,6,8,2],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[7,0,0,0,1,3,2,16,6,8,5],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298cadf1ad63daf979b5f4480e6b2dc8aa586":[7,0,0,0,1,3,2,16,6,8,7],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caefc5f218ab9a404b2aab3af0a7d7c29f":[7,0,0,0,1,3,2,16,6,8,9],
-"d8/dfd/boss__jindo_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[7,0,0,0,1,3,2,16,6,9]
+"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caefc5f218ab9a404b2aab3af0a7d7c29f":[7,0,0,0,1,3,2,16,6,8,9]
 };

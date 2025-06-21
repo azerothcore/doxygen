@@ -1,5 +1,7 @@
 var NAVTREEINDEX358 =
 {
+"de/d4d/events__script__loader_8cpp.html#acd28b6b284f9e0f8caa1194e2dc904f8":[7,0,0,0,1,3,3,3,5],
+"de/d4d/events__script__loader_8cpp.html#adc17dd3d30524a3c73b564d6eed54f1c":[7,0,0,0,1,3,3,3,6],
 "de/d4d/events__script__loader_8cpp.html#af7a6296c13b6615a14e0823fe7e5b577":[7,0,0,0,1,3,3,3,3],
 "de/d4f/Object_8cpp.html":[7,0,0,0,1,2,16,5,1],
 "de/d4f/Object_8cpp.html#a6165c6736a6e152a38f7dea1aa2c956b":[7,0,0,0,1,2,16,5,1,1],
@@ -62,12 +64,12 @@ var NAVTREEINDEX358 =
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1620,0,3],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb":[6,0,1620,0,4],
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,30,3,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,30,3,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,30,3,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,3,0,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,30,3,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,3,0,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,30,3,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1303],
@@ -148,8 +150,8 @@ var NAVTREEINDEX358 =
 "de/d59/classgo__simon__cluster.html":[6,0,1171],
 "de/d59/classgo__simon__cluster.html#a9fd9799604de44c91803511c45b67786":[6,0,1171,1],
 "de/d59/classgo__simon__cluster.html#adac53a8451abd6ace227a66afc7e61e8":[6,0,1171,0],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX358 =
 "de/d5e/classnpc__gilthares.html#a018cc6240a79216acb371241f63e3234":[6,0,1802,3],
 "de/d5e/classnpc__gilthares.html#a96293e28237a092c64f6a91d91bc7ff3":[6,0,1802,2],
 "de/d5e/classnpc__gilthares.html#af1e0746350b32b68825710e1c3ed91a5":[6,0,1802,1],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[6,0,1804,0],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[6,0,1804,0,6],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a35be0135b77a3e62ac8d421910cf0674":[6,0,1804,0,4]
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[6,0,1804,0]
 };

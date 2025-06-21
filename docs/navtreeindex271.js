@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4":[7,0,0,0,1,2,31,7,6,13],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac":[7,0,0,0,1,2,31,7,6,17],
 "db/d10/MotionMaster_8h.html#a6386d0a4b64b17a25a60627bb55b360c":[7,0,0,0,1,2,31,7,3],
 "db/d10/MotionMaster_8h.html#af0544189c7fc748059c3075861102b40":[7,0,0,0,1,2,31,7,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[7,0,0,0,1,3,5,12,3,3,0],
 "db/d1d/structboss__ouro.html":[6,0,646],
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[6,0,646,12],
-"db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,646,14],
-"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,646,7]
+"db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,646,14]
 };

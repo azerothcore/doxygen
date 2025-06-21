@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa0c3922027b6c91a7af5c7ce2a43165e8":[7,0,0,0,1,2,41,11,71,2],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa15a67f429a3e8c0311b578808ee2507a":[7,0,0,0,1,2,41,11,71,6],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa346f064c3b486b5c91a13159bb911e8b":[7,0,0,0,1,2,41,11,71,0],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa39c7d07c41533d0fff31020c6e90d435":[7,0,0,0,1,2,41,11,71,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502":[7,0,0,0,1,3,2,16,7,9,0],
 "dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265":[7,0,0,0,1,3,2,16,7,9,1],
 "dc/dbc/boss__mandokir_8cpp.html#a9396dd9ea823941d9a544a47bf39e453":[7,0,0,0,1,3,2,16,7,19],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,7,10],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a228f6168e5273bdb4cb9e26374a6d850":[7,0,0,0,1,3,2,16,7,10,3]
+"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,7,10]
 };

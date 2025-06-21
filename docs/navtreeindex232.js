@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bc8f6a5f6622d513af49b9f777d29d1":[7,0,0,0,1,3,2,12,5,10,12],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1de72799279888b931f82177d5e8b842":[7,0,0,0,1,3,2,12,5,10,15],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca23774b52390332d7deb748a26be41544":[7,0,0,0,1,3,2,12,5,10,17],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d":[7,0,0,0,1,3,2,12,5,10,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3146,3],
 "d9/d51/cs__mmaps_8cpp.html":[7,0,0,0,1,3,0,30],
 "d9/d51/cs__mmaps_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,30,1],
-"d9/d52/BattlegroundAB_8cpp.html":[7,0,0,0,1,2,8,1,0],
-"d9/d53/BattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,31]
+"d9/d52/BattlegroundAB_8cpp.html":[7,0,0,0,1,2,8,1,0]
 };

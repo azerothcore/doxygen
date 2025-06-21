@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dd5/classCreature.html#a868b09fcb142556e68af4a335930dadc":[6,0,907,263],
 "db/dd5/classCreature.html#a87b6d6ec4f245c550c48c57325fe44dd":[6,0,907,133],
 "db/dd5/classCreature.html#a88e69585fa6f15f2b98335cd8db20812":[6,0,907,140],
 "db/dd5/classCreature.html#a89efc955a7e5bd96aca5cbf3e2f40780":[6,0,907,295],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ac03c6e042f1462f78803dd3de9e3b7b0":[7,0,0,0,1,3,5,1,1,5,3,8],
 "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ae3739de22f2f6a162925d331b0ee2cda":[7,0,0,0,1,3,5,1,1,5,3,6],
 "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22aedb8581c8f2aa3050d286e10e402f862":[7,0,0,0,1,3,5,1,1,5,3,0],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html":[6,0,1304,0],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a02e5937e2ba26ea6d470edaf504494cb":[6,0,1304,0,4]
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html":[6,0,1304,0]
 };
