@@ -815,6 +815,7 @@ var classUnit =
     [ "SetStunned", "df/dd9/classUnit.html#a29f9e0c806f02fa8a0633081e891754d", null ],
     [ "SetSwim", "df/dd9/classUnit.html#a823ff368fce563273c6f01e9014d508b", null ],
     [ "SetTarget", "df/dd9/classUnit.html#af7ad96cc7ea46564f63c4ca42043487f", null ],
+    [ "SetTimedFacingToObject", "df/dd9/classUnit.html#ad8d75ee2911a8f052848459511fdfcc3", null ],
     [ "setTransForm", "df/dd9/classUnit.html#aa49c923da2e4cbd86e2215c75a4acda1", null ],
     [ "SetUInt32Value", "df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f", null ],
     [ "SetUnitFlag", "df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296", null ],

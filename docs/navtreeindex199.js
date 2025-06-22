@@ -1,5 +1,8 @@
 var NAVTREEINDEX199 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae7d232747cd86ea46acf528597827df6":[7,0,0,0,1,2,28,2,0,997],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae7e8a42df7e6112b8313e0e8f131d370":[7,0,0,0,1,2,28,2,0,1047],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae92f85f46bc12f8ed2be823c6813b969":[7,0,0,0,1,2,28,2,0,1044],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae9580872e3c802ec20be5de4c307f102":[7,0,0,0,1,2,28,2,0,874],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae9b312383709a1ac57640e66fc8e1be5":[7,0,0,0,1,2,28,2,0,235],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae9bd5379137ff7a9e570cc19c459c200":[7,0,0,0,1,2,28,2,0,159],
@@ -174,9 +177,9 @@ var NAVTREEINDEX199 =
 "d7/da0/structGameEventFinishCondition.html#a8c144531f876b6def613c0011e0efe47":[6,0,1067,2],
 "d7/da0/structGameEventFinishCondition.html#abc88850d392fb4b62e778d09445de0be":[6,0,1067,0],
 "d7/da0/structGameEventFinishCondition.html#ae1d182aef449388993e4965de447d971":[6,0,1067,3],
-"d7/da1/structSpellCastTimesEntry.html":[6,0,4029],
-"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4029,1],
-"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4029,0],
+"d7/da1/structSpellCastTimesEntry.html":[6,0,4030],
+"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4030,1],
+"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4030,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html":[6,0,590,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a0e53d139f64d104557e157a91176a47a":[6,0,590,0,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a1a3acb1e8cbceb16854aafcf51a0f99d":[6,0,590,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX199 =
 "d7/da7/boss__marli_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a1d754bc6c42398881b7da6c67cf1fe5c":[7,0,0,0,1,3,2,16,8,6,1],
 "d7/da7/boss__marli_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a33e32523ded2cdeccc948e877731ba75":[7,0,0,0,1,3,2,16,8,6,0],
 "d7/da7/boss__marli_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7":[7,0,0,0,1,3,2,16,8,9],
-"d7/da7/classWorldScript.html":[6,0,4262],
-"d7/da7/classWorldScript.html#a117234aac087ec653c83cfe01a6dce7a":[6,0,4262,12],
-"d7/da7/classWorldScript.html#a15bc203d07dd2fef96c2a6d13d3ddd44":[6,0,4262,2],
-"d7/da7/classWorldScript.html#a322bd84359ac77369d9aa84bc8bf9649":[6,0,4262,10]
+"d7/da7/classWorldScript.html":[6,0,4263]
 };

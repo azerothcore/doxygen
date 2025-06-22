@@ -6,11 +6,10 @@ var chapter2_8cpp =
     [ "npc_koltira_deathweaver::npc_koltira_deathweaverAI", "d4/dad/structnpc__koltira__deathweaver_1_1npc__koltira__deathweaverAI.html", "d4/dad/structnpc__koltira__deathweaver_1_1npc__koltira__deathweaverAI" ],
     [ "npc_scarlet_courier", "dc/d1d/classnpc__scarlet__courier.html", "dc/d1d/classnpc__scarlet__courier" ],
     [ "npc_scarlet_courier::npc_scarlet_courierAI", "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html", "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI" ],
-    [ "npc_high_inquisitor_valroth", "df/dfe/classnpc__high__inquisitor__valroth.html", "df/dfe/classnpc__high__inquisitor__valroth" ],
-    [ "npc_high_inquisitor_valroth::npc_high_inquisitor_valrothAI", "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI.html", "df/daf/structnpc__high__inquisitor__valroth_1_1npc__high__inquisitor__valrothAI" ],
     [ "npc_a_special_surprise", "d0/dae/classnpc__a__special__surprise.html", "d0/dae/classnpc__a__special__surprise" ],
     [ "npc_a_special_surprise::npc_a_special_surpriseAI", "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html", "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI" ],
     [ "Koltira", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
+      [ "SAY_BREAKOUT0", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
       [ "SAY_BREAKOUT1", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],
       [ "SAY_BREAKOUT2", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c", null ],
       [ "SAY_BREAKOUT3", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b", null ],
@@ -21,12 +20,22 @@ var chapter2_8cpp =
       [ "SAY_BREAKOUT8", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b", null ],
       [ "SAY_BREAKOUT9", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932", null ],
       [ "SAY_BREAKOUT10", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa", null ],
+      [ "EMOTE_KOLTIRA_COLLAPSES", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2", null ],
+      [ "SAY_VALROTH_WAVE3", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1", null ],
+      [ "SAY_VALROTH_AGGRO", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda", null ],
+      [ "SAY_VALROTH_WAVE1", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a", null ],
+      [ "SAY_VALROTH_WAVE2", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d", null ],
       [ "SPELL_KOLTIRA_TRANSFORM", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e", null ],
       [ "SPELL_ANTI_MAGIC_ZONE", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2", null ],
       [ "QUEST_BREAKOUT", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be", null ],
       [ "NPC_CRIMSON_ACOLYTE", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a", null ],
       [ "NPC_HIGH_INQUISITOR_VALROTH", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899", null ],
-      [ "MODEL_DEATH_KNIGHT_MOUNT", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790", null ]
+      [ "MODEL_DEATH_KNIGHT_MOUNT", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790", null ],
+      [ "POINT_STAND_UP", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b", null ],
+      [ "POINT_BOX", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518", null ],
+      [ "POINT_ANTI_MAGIC_ZONE", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d", null ],
+      [ "POINT_MOUNT", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12", null ],
+      [ "POINT_DESPAWN", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf", null ]
     ] ],
     [ "ScarletCourierEnum", "db/da5/chapter2_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4", [
       [ "SAY_TREE1", "db/da5/chapter2_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794", null ],
@@ -48,15 +57,6 @@ var chapter2_8cpp =
       [ "EMOTE_DIES", "db/da5/chapter2_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560", null ],
       [ "SAY_PLAGUEFIST", "db/da5/chapter2_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499", null ],
       [ "NPC_PLAGUEFIST", "db/da5/chapter2_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819", null ]
-    ] ],
-    [ "valroth", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2", [
-      [ "SAY_VALROTH_AGGRO", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2ab9162631c8867f6ae3417bb38654afda", null ],
-      [ "SAY_VALROTH_RAND", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2a55d6114fee222c18de4b4bbfd12c9aad", null ],
-      [ "SAY_VALROTH_DEATH", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2aef5578b325f9b4232e8fc06c5f4c6786", null ],
-      [ "SPELL_RENEW", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2aaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_INQUISITOR_PENANCE", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2a809318ac3705cba49de1f817d1a14332", null ],
-      [ "SPELL_VALROTH_SMITE", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2ad980db1758569c84988d95cf935bcf29", null ],
-      [ "SPELL_SUMMON_VALROTH_REMAINS", "db/da5/chapter2_8cpp.html#a778ec84bf21114103de9c15b1b04ecb2aefb8a39795f3c16c4ed04d75c695f52a", null ]
     ] ],
     [ "win_friends", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70b", [
       [ "SAY_AGGRO", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe", null ],
