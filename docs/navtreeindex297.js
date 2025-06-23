@@ -1,5 +1,7 @@
 var NAVTREEINDEX297 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a5271f3f4a620b339f0a420455bfb4173":[7,0,0,0,1,3,5,4,1,2,37,1],
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a56a221743c77b0a5d40b0c4f2f55192c":[7,0,0,0,1,3,5,4,1,2,37,12],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a66b34c784f5c554315aae9ceb74bea60":[7,0,0,0,1,3,5,4,1,2,37,16],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a6a85fdc4277258720d0e6879999b90ff":[7,0,0,0,1,3,5,4,1,2,37,8],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,5,4,1,2,37,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX297 =
 "dc/d17/classspell__bwl__shadowflame.html#aa8a4fdd0dc5c06a836ac05cec0dccd75":[6,0,2678,1],
 "dc/d17/classspell__bwl__shadowflame.html#aeda056b568b4956ba35b32a3f20c053e":[6,0,2678,2],
 "dc/d17/structQuestOfferRewardLocale.html":[6,0,2452],
-"dc/d17/structQuestOfferRewardLocale.html#afa9f5200ef634323d719794e1d1aa4d2":[6,0,2452,0],
-"dc/d17/zone__redridge__mountains_8cpp.html":[7,0,0,0,1,3,2,28],
-"dc/d17/zone__redridge__mountains_8cpp.html#a0e7af4a9a0f1dcec20ae3d284f9721c5":[7,0,0,0,1,3,2,28,3]
+"dc/d17/structQuestOfferRewardLocale.html#afa9f5200ef634323d719794e1d1aa4d2":[6,0,2452,0]
 };

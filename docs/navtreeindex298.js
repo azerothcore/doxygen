@@ -1,5 +1,7 @@
 var NAVTREEINDEX298 =
 {
+"dc/d17/zone__redridge__mountains_8cpp.html":[7,0,0,0,1,3,2,28],
+"dc/d17/zone__redridge__mountains_8cpp.html#a0e7af4a9a0f1dcec20ae3d284f9721c5":[7,0,0,0,1,3,2,28,3],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45":[7,0,0,0,1,3,2,28,2],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4":[7,0,0,0,1,3,2,28,2,7],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f":[7,0,0,0,1,3,2,28,2,2],
@@ -147,10 +149,10 @@ var NAVTREEINDEX298 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3627,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,12],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,24],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,12,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,24,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,24,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,12,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,24,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,12,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2073],
@@ -247,7 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[7,0,0,0,1,3,7,5,0,5,2,1],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb8f879d06dfb7dc0449c3be2c3e69f9":[7,0,0,0,1,3,7,5,0,5,2,3],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,7,5,0,5,1],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,5,1,3],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,0,5,1,0],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,0,5,1,1]
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,5,1,3]
 };

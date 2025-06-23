@@ -1,5 +1,7 @@
 var NAVTREEINDEX249 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a82981d879285ed538a097e2d197e3638":[7,0,0,0,1,2,41,0,0,6,280],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a832ce5d9dd4224e90b25c6aacef11e20":[7,0,0,0,1,2,41,0,0,6,170],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a833a8773139c4fdffb24499f28e98c63":[7,0,0,0,1,2,41,0,0,6,26],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a83abe4a799e08e4f819199ace471d503":[7,0,0,0,1,2,41,0,0,6,295],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a84041d7a6bbec31689ec88a7bf197780":[7,0,0,0,1,2,41,0,0,6,146],
@@ -247,7 +249,5 @@ var NAVTREEINDEX249 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html":[6,0,1866,0],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#a52b753e1f599eb02385d980a78cd3c78":[6,0,1866,0,1],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#a711d9571b4edb87f77eeebbd12e248b3":[6,0,1866,0,5],
-"da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#ae74a306850b328f536b55e5c24c040ab":[6,0,1866,0,0],
-"da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#aeb11687534fa7c1e76ea22cc07deb73d":[6,0,1866,0,3],
-"da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#af1726169fe63eb3ff1ed95eb0e10d2f0":[6,0,1866,0,4]
+"da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#ae74a306850b328f536b55e5c24c040ab":[6,0,1866,0,0]
 };

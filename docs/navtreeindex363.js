@@ -1,5 +1,7 @@
 var NAVTREEINDEX363 =
 {
+"de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3760,0],
+"de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3760,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3760,3],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
@@ -247,7 +249,5 @@ var NAVTREEINDEX363 =
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b":[7,0,0,0,1,3,7,14,5],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba00f3861bb3a25b5cacacc8a9c6deccd7":[7,0,0,0,1,3,7,14,5,21],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba03e770bf3dca79e16db0021dc8a3ef71":[7,0,0,0,1,3,7,14,5,6],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba125b4ea317d12715b14359c6236b4659":[7,0,0,0,1,3,7,14,5,9],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba259d6522a87397ef181b1e044655a03d":[7,0,0,0,1,3,7,14,5,19],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba54dd5f261513f2ff74ce1244ca6b1124":[7,0,0,0,1,3,7,14,5,18]
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba125b4ea317d12715b14359c6236b4659":[7,0,0,0,1,3,7,14,5,9]
 };

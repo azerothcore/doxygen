@@ -1,5 +1,7 @@
 var NAVTREEINDEX312 =
 {
+"dc/dd0/classWhoListCacheMgr.html#a1e8ce970e3213cd0361af303df98b387":[6,0,4236,5],
+"dc/dd0/classWhoListCacheMgr.html#a2190c113c3d38bd316b17a4400c113e6":[6,0,4236,0],
 "dc/dd0/classWhoListCacheMgr.html#a366e452317179d647042c24c56faafa1":[6,0,4236,2],
 "dc/dd0/classWhoListCacheMgr.html#a3db2ef832cf1413fb2e565ca0d922a80":[6,0,4236,8],
 "dc/dd0/classWhoListCacheMgr.html#a4dec6544342fdc5052b69dcc61148453":[6,0,4236,4],
@@ -20,16 +22,16 @@ var NAVTREEINDEX312 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[6,0,3586,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,79],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,67],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,67,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,79,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,67,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,67,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,79,4],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,67,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,67,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,79,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,67,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,79,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,67,1],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,79,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,67,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,67,5],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,79,5],
 "dc/dd2/classboss__hadronox.html":[6,0,513],
@@ -247,7 +249,5 @@ var NAVTREEINDEX312 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[7,0,0,0,1,3,2,17,31],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57604b634eb000dd3a77ed767652d105":[7,0,0,0,1,3,2,17,92],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57729392acbf8df56faae2a7865f65b4":[7,0,0,0,1,3,2,17,119],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5c92c13d577422c37a1de0e3b5b4a020":[7,0,0,0,1,3,2,17,113],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5ccf6dda552246620e7ef4626abaa82b":[7,0,0,0,1,3,2,17,28],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5e65b369faff6f7058465f02107c9d6e":[7,0,0,0,1,3,2,17,5]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5c92c13d577422c37a1de0e3b5b4a020":[7,0,0,0,1,3,2,17,113]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX275 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a97ada4373fc1406996f4f075d1b485f7":[7,0,0,0,1,3,5,0,0,5,7,3],
+"db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3ac75217cdc9211ecb0d7b12a746992a02":[7,0,0,0,1,3,5,0,0,5,7,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3ad749b943e406b706c1bece2a9df28302":[7,0,0,0,1,3,5,0,0,5,7,2],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,0,0,5,10],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca0191744df42ac27cb16895d2f704b93f":[7,0,0,0,1,3,5,0,0,5,10,6],
@@ -18,8 +20,8 @@ var NAVTREEINDEX275 =
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aba2148c075727cb24738046dd2f9e8ae":[7,0,0,0,1,3,5,0,0,5,5],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,30,5,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,5,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,30,5,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,30,5,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,5,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,5,24,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX275 =
 "db/d62/classOutdoorPvPMgr.html#aa041123e1030c23c9862b494b057d3b2":[6,0,2344,9],
 "db/d62/classOutdoorPvPMgr.html#aa1e8175a9964e3fdbd7f98ef33650217":[6,0,2344,8],
 "db/d62/classOutdoorPvPMgr.html#aa297448e0e861e9d033b2a3a5d5176bb":[6,0,2344,5],
-"db/d62/classOutdoorPvPMgr.html#aaae2ebe275de3da1282bd48b4dfc2ae9":[6,0,2344,14],
-"db/d62/classOutdoorPvPMgr.html#aae1d441ea9e1715154b8f630b4cd4b2c":[6,0,2344,18],
-"db/d62/classOutdoorPvPMgr.html#ab8f0f56d34805ccf6b7210e390b947f7":[6,0,2344,17]
+"db/d62/classOutdoorPvPMgr.html#aaae2ebe275de3da1282bd48b4dfc2ae9":[6,0,2344,14]
 };

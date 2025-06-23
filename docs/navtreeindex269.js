@@ -1,5 +1,7 @@
 var NAVTREEINDEX269 =
 {
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae":[7,0,0,0,1,0,0,0,1,2,14],
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342":[7,0,0,0,1,0,0,0,1,2,7],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309":[7,0,0,0,1,0,0,0,1,2,10],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b":[7,0,0,0,1,0,0,0,1,2,12],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56":[7,0,0,0,1,0,0,0,1,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX269 =
 "db/d00/classFactoryGameObjectScript.html":[6,0,1029],
 "db/d00/classFactoryGameObjectScript.html#a9a39e94f28729ea1fb4b6231d588b42c":[6,0,1029,1],
 "db/d00/classFactoryGameObjectScript.html#ac0981bdae743da11b99d7df1c967a703":[6,0,1029,0],
-"db/d01/ObjectRegistry_8h.html":[7,0,0,0,0,6,3],
-"db/d01/structnpc__ahnkahar__nerubian.html":[6,0,1562],
-"db/d01/structnpc__ahnkahar__nerubian.html#a27a6f57a6b145cc595896d1ad453064f":[6,0,1562,3]
+"db/d01/ObjectRegistry_8h.html":[7,0,0,0,0,6,3]
 };

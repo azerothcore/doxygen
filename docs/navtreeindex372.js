@@ -1,5 +1,7 @@
 var NAVTREEINDEX372 =
 {
+"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d":[7,0,0,0,0,9,10,2,6],
+"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4":[7,0,0,0,0,9,10,2,3],
 "de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61":[7,0,0,0,0,9,10,2,0],
 "de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4":[7,0,0,0,0,9,10,2,4],
 "de/deb/structM2Header.html":[6,0,1456],
@@ -247,7 +249,5 @@ var NAVTREEINDEX372 =
 "de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,11,19,8],
 "de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[5,0,30,19,8],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,11,19,7],
-"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,30,19,7],
-"de/df9/classnpc__lk__wicked__spirit.html":[6,0,1923],
-"de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1923,2]
+"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,30,19,7]
 };

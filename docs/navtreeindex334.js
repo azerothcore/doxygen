@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dd/dd2/classspell__azgalor__doom.html":[6,0,2613],
+"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[6,0,2613,2],
 "dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[6,0,2613,1],
 "dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[6,0,2613,0],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[6,0,2652],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html":[6,0,99],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[6,0,99,1],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[6,0,99,0],
-"dd/dd6/classcharacter__commandscript.html":[6,0,846],
-"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,846,5],
-"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,846,13]
+"dd/dd6/classcharacter__commandscript.html":[6,0,846]
 };

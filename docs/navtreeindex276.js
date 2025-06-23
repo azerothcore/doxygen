@@ -1,5 +1,7 @@
 var NAVTREEINDEX276 =
 {
+"db/d62/classOutdoorPvPMgr.html#aae1d441ea9e1715154b8f630b4cd4b2c":[6,0,2344,18],
+"db/d62/classOutdoorPvPMgr.html#ab8f0f56d34805ccf6b7210e390b947f7":[6,0,2344,17],
 "db/d62/classOutdoorPvPMgr.html#ac3c4b3b6df6ae7787ff7072f3f46521f":[6,0,2344,11],
 "db/d62/classOutdoorPvPMgr.html#ad07d15d5bbdf9d2e67a576d61e942b40":[6,0,2344,21],
 "db/d62/classOutdoorPvPMgr.html#ad39bacd781ddb165c680758643a54c56":[6,0,2344,13],
@@ -23,8 +25,8 @@ var NAVTREEINDEX276 =
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,7],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[5,0,1,8,5,0],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
 "db/d64/structnpc__capernian.html":[6,0,1666],
@@ -247,7 +249,5 @@ var NAVTREEINDEX276 =
 "db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69ae4d29be8f6561ecd034fac94950d655a":[7,0,0,0,1,3,9,4,153,1],
 "db/d6e/spell__item_8cpp.html#a37797059c29473227ab2108f28246161":[7,0,0,0,1,3,9,4,178],
 "db/d6e/spell__item_8cpp.html#a37797059c29473227ab2108f28246161a20a566973c383b3f0988bc496150cf7c":[7,0,0,0,1,3,9,4,178,0],
-"db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7":[7,0,0,0,1,3,9,4,141],
-"db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7a1337df0ce25cbdb345096229f481f633":[7,0,0,0,1,3,9,4,141,0],
-"db/d6e/spell__item_8cpp.html#a42d0aa8e2e6eafa2869bb6bcc224c348":[7,0,0,0,1,3,9,4,133]
+"db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7":[7,0,0,0,1,3,9,4,141]
 };

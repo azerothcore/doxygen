@@ -1,5 +1,7 @@
 var NAVTREEINDEX257 =
 {
+"da/d7e/classspell__pri__penance.html#a7f79495525687fba6229f48935b2558a":[6,0,3532,1],
+"da/d7e/classspell__pri__penance.html#a9b9d5f862e9910f1a12780ff54b067ca":[6,0,3532,5],
 "da/d7e/classspell__pri__penance.html#ab9f09394ab301350a2abaefde90632fe":[6,0,3532,4],
 "da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[6,0,3532,0],
 "da/d7e/structSpawnSpells.html":[6,0,2565],
@@ -247,7 +249,5 @@ var NAVTREEINDEX257 =
 "da/d86/classspell__toc5__light__rain.html#a697a52cbc50eafd2b0377621afb01557":[6,0,3880,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[5,0,1,4,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[6,0,0,2,1],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,1,4,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[6,0,0,2,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[6,0,0,2,1,2]
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,1,4,1,5]
 };

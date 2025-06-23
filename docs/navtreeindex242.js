@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a721f969ffc4f82103edfdd6ba2f1a306a9cc13235d85f8f8fb51f5cfaa0359451":[7,0,0,0,1,3,5,9,0,3,7,7],
 "d9/dc6/boss__volkhan_8cpp.html#a721f969ffc4f82103edfdd6ba2f1a306aa26b6020fb9b3716813370ea7fb5fe86":[7,0,0,0,1,3,5,9,0,3,7,9],
 "d9/dc6/boss__volkhan_8cpp.html#a721f969ffc4f82103edfdd6ba2f1a306ab1652f7d20e6d16563cefff05fa08615":[7,0,0,0,1,3,5,9,0,3,7,2],
 "d9/dc6/boss__volkhan_8cpp.html#a9af0523ebe9bbe9f299889c99a519d1c":[7,0,0,0,1,3,5,9,0,3,12],
@@ -55,12 +56,12 @@ var NAVTREEINDEX242 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a8c888218fde2176a3c3b5cb97fdce5de":[6,0,3945,2],
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a9241ab85d616f4f17c52b3730c5434e1":[6,0,3945,6],
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a9e1a5a07db18f6ff238276f9e1c44321":[6,0,3945,4],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html#abd23b7e24d9688dd4b9cbe70cdd45d75":[6,0,3945,0],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html#ae2c4de235fc727039a50f1b6ba729422":[6,0,3945,3]
+"d9/dd1/classspell__warl__improved__demonic__tactics.html#abd23b7e24d9688dd4b9cbe70cdd45d75":[6,0,3945,0]
 };

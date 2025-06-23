@@ -1,5 +1,7 @@
 var NAVTREEINDEX247 =
 {
+"da/d10/classWMORoot.html#a193043738049583257b8c26494c97573":[6,0,4249,6],
+"da/d10/classWMORoot.html#a2442113c758362dd5b8da9ceb8d355ae":[6,0,4249,13],
 "da/d10/classWMORoot.html#a25b1d2531c61ae7cf883642f5c5f2ee7":[6,0,4249,14],
 "da/d10/classWMORoot.html#a3c10106f8ded86f5e889c99c93dc385a":[6,0,4249,2],
 "da/d10/classWMORoot.html#a518adad011f480154a786503224aff0f":[6,0,4249,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX247 =
 "da/d21/structnpc__giant__claw__tentacle.html#ad5fd7a9246c9c7aba0fa71d331e1f512":[6,0,1799,1],
 "da/d21/structnpc__giant__claw__tentacle.html#af62d155ec2cf4f56c956869aed8fa1f9":[6,0,1799,5],
 "da/d22/IpAddress_8h.html":[7,0,0,0,0,0,2],
-"da/d22/IpAddress_8h.html#abb8b9761e1df323f5c258c0a12da7bd4":[7,0,0,0,0,0,2,0],
-"da/d22/structnpc__madrigosa.html":[6,0,1935],
-"da/d22/structnpc__madrigosa.html#a09525d3bb35d1da4246bd84bbadea304":[6,0,1935,4]
+"da/d22/IpAddress_8h.html#abb8b9761e1df323f5c258c0a12da7bd4":[7,0,0,0,0,0,2,0]
 };

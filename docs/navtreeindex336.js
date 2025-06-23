@@ -1,5 +1,7 @@
 var NAVTREEINDEX336 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caae126fd8a2a7ca0c45aec6d897d50c331":[7,0,0,0,1,3,5,19,33,1],
+"dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbe":[7,0,0,0,1,3,5,19,41],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea0d72f93652e342e1fe02b41e9bebab23":[7,0,0,0,1,3,5,19,41,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea0e716768b8b569aa1680571370c2109b":[7,0,0,0,1,3,5,19,41,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea1e12b7ffbc7fab0fa75976e942414587":[7,0,0,0,1,3,5,19,41,2],
@@ -82,8 +84,8 @@ var NAVTREEINDEX336 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,25,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,25,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,13,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,25,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,13,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,25,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,13,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,13,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dfa/classaura__class__call__wild__magic.html":[6,0,279],
 "dd/dfa/classaura__class__call__wild__magic.html#a72e043202c587e6c12d0b36d679cd071":[6,0,279,0],
 "dd/dfa/classaura__class__call__wild__magic.html#a7ca007283e34855ee825ae160653f4a3":[6,0,279,1],
-"dd/dfa/classaura__class__call__wild__magic.html#aaf87c4052fd5408f7e34e2e14500e813":[6,0,279,3],
-"dd/dfa/classaura__class__call__wild__magic.html#aebad39c65167042be8db3c3a1811a235":[6,0,279,2],
-"dd/dfa/classboss__skadi__grauf.html":[6,0,702]
+"dd/dfa/classaura__class__call__wild__magic.html#aaf87c4052fd5408f7e34e2e14500e813":[6,0,279,3]
 };

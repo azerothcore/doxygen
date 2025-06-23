@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202":[6,0,1445,3],
+"db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928":[6,0,1445,18],
 "db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777":[6,0,1445,16],
 "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2":[6,0,1445,1],
 "db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5":[6,0,1445,7],
@@ -162,8 +164,8 @@ var NAVTREEINDEX278 =
 "db/d7b/classgo__gilded__brazier.html#a778c753a8432131601371da8849ef004":[6,0,1141,1],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,1],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,1],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[6,0,0,5,0,1,0],
+"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0],
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html":[6,0,2204,0],
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a118d048557b0ed314180299c3cd2bcbc":[6,0,2204,0,5],
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a60e0706b9285cdf4b25b6f399cad18e9":[6,0,2204,0,0],
@@ -192,16 +194,16 @@ var NAVTREEINDEX278 =
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,83,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,71,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,83,4],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,71,0],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,83,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,71,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3026],
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3026,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3026,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3026,2],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1153],
 "db/d7f/classgo__manticron__cube.html#a87d9571aea57f16d38067ebd9e22200d":[6,0,1153,0],
 "db/d7f/classgo__manticron__cube.html#accab4a61f00f5e465fb795b4cbe672bf":[6,0,1153,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "db/d81/structnpc__costumed__orphan__matron.html#a962de50b13079f3337c4e41eb2d98b55":[6,0,1699,3],
 "db/d81/structnpc__costumed__orphan__matron.html#adac5d514261a210a701442da13ba1587":[6,0,1699,5],
 "db/d82/classFlightPathMovementGenerator.html":[6,0,1047],
-"db/d82/classFlightPathMovementGenerator.html#a0493824ba23608abcf98a156cf89bb5a":[6,0,1047,9],
-"db/d82/classFlightPathMovementGenerator.html#a080a68e435698a14288f62ea6576a730":[6,0,1047,16],
-"db/d82/classFlightPathMovementGenerator.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6":[6,0,1047,18]
+"db/d82/classFlightPathMovementGenerator.html#a0493824ba23608abcf98a156cf89bb5a":[6,0,1047,9]
 };

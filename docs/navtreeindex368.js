@@ -1,5 +1,7 @@
 var NAVTREEINDEX368 =
 {
+"de/da9/classMotionTransport.html#a2831e5743687893087592e5ff77612a1":[6,0,1516,25],
+"de/da9/classMotionTransport.html#a2c6e23c19707f876b71bdceeb7957064":[6,0,1516,20],
 "de/da9/classMotionTransport.html#a36771f9a57de37e6d0d31d1c8ca90c73":[6,0,1516,17],
 "de/da9/classMotionTransport.html#a3715caa515f3096c9c03a1b64bd8bebf":[6,0,1516,34],
 "de/da9/classMotionTransport.html#a3dddaf54796a55416bf6e76ef794674c":[6,0,1516,29],
@@ -247,7 +249,5 @@ var NAVTREEINDEX368 =
 "de/db5/classBattlegroundDS.html":[6,0,317],
 "de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[6,0,317,0],
 "de/db5/classBattlegroundDS.html#a0c7a45aa22e390d2760bf32720435d5e":[6,0,317,1],
-"de/db5/classBattlegroundDS.html#a32490dab9fd8ea9ae9afd8cf66feb087":[6,0,317,9],
-"de/db5/classBattlegroundDS.html#a57cfca32a361d43f19163dc6e7408e96":[6,0,317,4],
-"de/db5/classBattlegroundDS.html#a79112a1631ec6541cf19ecef712bb66f":[6,0,317,8]
+"de/db5/classBattlegroundDS.html#a32490dab9fd8ea9ae9afd8cf66feb087":[6,0,317,9]
 };

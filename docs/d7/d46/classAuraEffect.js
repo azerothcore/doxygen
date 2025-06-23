@@ -210,6 +210,7 @@ var classAuraEffect =
     [ "SetCritChance", "d7/d46/classAuraEffect.html#aa5fa45a022f85bfea33ae5faf843cd69", null ],
     [ "SetEnabled", "d7/d46/classAuraEffect.html#a063903240b281f490908845ef93ec68a", null ],
     [ "SetOldAmount", "d7/d46/classAuraEffect.html#a04d3cc9ebda15ebf8f10650864d0724a", null ],
+    [ "SetPctMods", "d7/d46/classAuraEffect.html#ab0e8a9e959b8f833a175e5ce409ca68a", null ],
     [ "SetPeriodic", "d7/d46/classAuraEffect.html#a8b39616fd9d0543194c9d6dbec186f55", null ],
     [ "SetPeriodicTimer", "d7/d46/classAuraEffect.html#abc3f0fbe56a3974699db0056eed45664", null ],
     [ "Update", "d7/d46/classAuraEffect.html#a1e57c07b017695d76137b0d81074df1e", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX353 =
 {
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#acbbe6667360e5bb7576c1ea741c2e2f1":[6,0,2216,0,8],
+"de/d23/structnpc__winterfin__playmate.html":[6,0,2274],
 "de/d23/structnpc__winterfin__playmate.html#a0a1051dc971ef393843bd1ba655a2e1b":[6,0,2274,5],
 "de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2274,6],
 "de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2274,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX353 =
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
 "de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3813],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3813,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3813,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3813,2],
-"de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2]
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3813,0]
 };

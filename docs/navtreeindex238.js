@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d84/LootMgr_8h.html#a31e68d51b0fcf3e28a4479991359a8b3":[7,0,0,0,1,2,24,3,44],
 "d9/d84/LootMgr_8h.html#a37571dff8ec8d0034df583b5dc062bf2":[7,0,0,0,1,2,24,3,17],
 "d9/d84/LootMgr_8h.html#a3dc44988fdd6d697ac3b459b0276e098":[7,0,0,0,1,2,24,3,13],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a":[7,0,0,0,1,2,24,3,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d8d/classachievement__algalon__herald__of__the__titans.html#a13c75b878f4669d212eeb09b55336384":[6,0,28,0],
 "d9/d8d/classachievement__algalon__herald__of__the__titans.html#a20811d7bb453b1758967c11545e630e9":[6,0,28,1],
 "d9/d8d/classspell__illidari__council__circle__of__healing.html":[6,0,3160],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#a31f2d90059e62da77a719a192d62328b":[6,0,3160,2],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#a94b783490dafae872b65e0bbfed156b9":[6,0,3160,0]
+"d9/d8d/classspell__illidari__council__circle__of__healing.html#a31f2d90059e62da77a719a192d62328b":[6,0,3160,2]
 };

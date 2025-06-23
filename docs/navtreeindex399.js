@@ -1,5 +1,7 @@
 var NAVTREEINDEX399 =
 {
+"df/df5/structboss__nefarian.html#a45ec4ab3cdf9b4de91a9ae682f3335e8":[6,0,633,5],
+"df/df5/structboss__nefarian.html#a4a0a4cf4ee63ce744ffb580747f992b9":[6,0,633,1],
 "df/df5/structboss__nefarian.html#a5710c721f3a24762b8cc3e79e6a14951":[6,0,633,8],
 "df/df5/structboss__nefarian.html#a5d687fce34b17e22c605c263395e823b":[6,0,633,6],
 "df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[6,0,633,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX399 =
 "dir_ba629fe3cce3d6c1ca366c03f65ff143.html":[7,0,0,0,1,3,5,9,1],
 "dir_bd6eb97edc7b31fb689fc59ea27199a0.html":[7,0,0,0,1,2,16,5,0],
 "dir_be7ddcf5a4570b7daa864eaef60ffbc7.html":[7,0,0,0,1,2,17],
-"dir_bee7e6ba6147fac4fb8de890af21a98e.html":[7,0,0,0,2,0,0],
-"dir_bff918c95c7a3c76f476f3d8679d579a.html":[7,0,0,0,0,12],
-"dir_c0da28c740234fa28d1fcf99be699b09.html":[7,0,0,0,1,2,13]
+"dir_bee7e6ba6147fac4fb8de890af21a98e.html":[7,0,0,0,2,0,0]
 };

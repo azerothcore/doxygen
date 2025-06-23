@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dd/d3b/structGameObjectTemplate.html#ac3d37219dab971cd5a9b891d8ce3042b":[6,0,1084,79],
+"dd/d3b/structGameObjectTemplate.html#ac5314d6e2c76eae67b79cd47806958f6":[6,0,1084,34],
 "dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[6,0,1084,67],
 "dd/d3b/structGameObjectTemplate.html#ac9504a9e96b449ee0935e5434b794e1a":[6,0,1084,102],
 "dd/d3b/structGameObjectTemplate.html#ac959710b366a821094ba7b897fada884":[6,0,1084,136],
@@ -76,14 +78,14 @@ var NAVTREEINDEX322 =
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,455,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,455,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,455,0,6],
@@ -189,8 +191,8 @@ var NAVTREEINDEX322 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[6,0,3746,6],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[6,0,550,0],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a38e308b66b0f35d3efe6916b03e4391c":[6,0,550,0,5],
-"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a6d60480e39fa89dbcc0facce9f0b69a3":[6,0,550,0,1],
-"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a7880ea86e7a03f5b14875065a83a206a":[6,0,550,0,0],
-"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a878635ef0673325943e6026ad76c2b06":[6,0,550,0,2]
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a6d60480e39fa89dbcc0facce9f0b69a3":[6,0,550,0,1]
 };

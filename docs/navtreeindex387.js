@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/d9c/classHostileRefMgr.html#a04a74a1a4cf017f6ead3334804d2d862":[6,0,1265,14],
+"df/d9c/classHostileRefMgr.html#a2c74a35806e10917a5d619dcf785f5a5":[6,0,1265,2],
 "df/d9c/classHostileRefMgr.html#a49753f69707cf223046784397c58d8c4":[6,0,1265,10],
 "df/d9c/classHostileRefMgr.html#a5e0cb3a2053af2a738ba3efc0f6e5d21":[6,0,1265,15],
 "df/d9c/classHostileRefMgr.html#a69c355d1c078cfba9927c8c752912b48":[6,0,1265,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/da2/classPoolGroup.html#aaabf1574d15a9459d713c7dbe674159e":[6,0,2415,3],
 "df/da2/classPoolGroup.html#aac4a0029762c1689d23d31d664e6a63b":[6,0,2415,2],
 "df/da2/classPoolGroup.html#abaa11e02fc751f2d130bf6413db7a6e3":[6,0,2415,4],
-"df/da2/classPoolGroup.html#abec7d6ab00f6e73ab46d3e143075d8f2":[6,0,2415,17],
-"df/da2/classPoolGroup.html#aca6870e8abc17dda45e0201d369531c7":[6,0,2415,0],
-"df/da2/classPoolGroup.html#ad71bfdaa3a64bea3a14a26e6c155c5c5":[6,0,2415,15]
+"df/da2/classPoolGroup.html#abec7d6ab00f6e73ab46d3e143075d8f2":[6,0,2415,17]
 };

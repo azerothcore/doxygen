@@ -1,5 +1,7 @@
 var NAVTREEINDEX375 =
 {
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,30,1,4],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,30,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX375 =
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91":[7,0,0,0,1,3,2,30,9,0],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171":[7,0,0,0,1,3,2,30,9,5],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a":[7,0,0,0,1,3,2,30,9,2],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb":[7,0,0,0,1,3,2,30,9,4],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db":[7,0,0,0,1,3,2,30,9,7],
-"df/d1b/zone__stormwind__city_8cpp.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd":[7,0,0,0,1,3,2,30,8]
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb":[7,0,0,0,1,3,2,30,9,4]
 };

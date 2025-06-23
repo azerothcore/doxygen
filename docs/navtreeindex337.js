@@ -1,5 +1,7 @@
 var NAVTREEINDEX337 =
 {
+"dd/dfa/classaura__class__call__wild__magic.html#aebad39c65167042be8db3c3a1811a235":[6,0,279,2],
+"dd/dfa/classboss__skadi__grauf.html":[6,0,702],
 "dd/dfa/classboss__skadi__grauf.html#a571db2d2ae21f38b7051319da0f042f6":[6,0,702,1],
 "dd/dfa/classboss__skadi__grauf.html#a9b637a93a572d21691b81b80ec45206d":[6,0,702,2],
 "dd/dfa/classspell__shadow__bolt__whirl.html":[6,0,3769],
@@ -247,7 +249,5 @@ var NAVTREEINDEX337 =
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0":[7,0,0,0,1,2,11,0,1,7,8],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392":[7,0,0,0,1,2,11,0,1,7,14],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913":[7,0,0,0,1,2,11,0,1,7,34],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18":[7,0,0,0,1,2,11,0,1,7,33],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d":[7,0,0,0,1,2,11,0,1,7,32],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b":[7,0,0,0,1,2,11,0,1,7,28]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18":[7,0,0,0,1,2,11,0,1,7,33]
 };

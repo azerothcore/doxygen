@@ -1,5 +1,6 @@
 var NAVTREEINDEX206 =
 {
+"d7/ded/classspell__gen__haunted.html#afbea54d2dad7a969d7e7558d43ecbc95":[6,0,2940,1],
 "d7/dee/classspell__eredar__twins__apply__touch.html":[6,0,2840],
 "d7/dee/classspell__eredar__twins__apply__touch.html#a1ffb6952cbbb79bb6a963ea57b8400aa":[6,0,2840,0],
 "d7/dee/classspell__eredar__twins__apply__touch.html#a200219828e22c35ef2f7c7a7fd61c973":[6,0,2840,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX206 =
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca956565a0800ab3f327d90d6a413f4482":[7,0,0,0,1,2,16,10,6,7,29],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa094ef89cc14332f71872d1864ec2543":[7,0,0,0,1,2,16,10,6,7,0],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa1fa851e463bf75f379d7b6a668c0cff":[7,0,0,0,1,2,16,10,6,7,15],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809":[7,0,0,0,1,2,16,10,6,7,1],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa2a3be49d483fe70fcffab38a9787557":[7,0,0,0,1,2,16,10,6,7,27]
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809":[7,0,0,0,1,2,16,10,6,7,1]
 };

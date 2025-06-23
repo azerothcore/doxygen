@@ -1,5 +1,7 @@
 var NAVTREEINDEX355 =
 {
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46acff4812164f58422db79307db4bbe715":[7,0,0,0,1,2,41,9,60,18],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad01a7209b4b575624baa5781038d973e":[7,0,0,0,1,2,41,9,60,22],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad0f376666fe646253e445dedfae7753f":[7,0,0,0,1,2,41,9,60,11],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46add860fda4804b0ef5944fa5d5d54c508":[7,0,0,0,1,2,41,9,60,13],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466":[7,0,0,0,1,2,41,9,60,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX355 =
 "de/d3a/classCasterAI.html#a28386fd1a275c002445e5eaf90314a3d":[6,0,835,1],
 "de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[6,0,835,2],
 "de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[6,0,835,5],
-"de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,835,3],
-"de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,835,0],
-"de/d3a/classspell__warlords__rage.html":[6,0,3960]
+"de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,835,3]
 };

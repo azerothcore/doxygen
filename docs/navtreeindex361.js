@@ -1,5 +1,7 @@
 var NAVTREEINDEX361 =
 {
+"de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2231],
+"de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2231,2],
 "de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2231,1],
 "de/d75/classDelayedSummonEvent.html":[6,0,965],
 "de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,965,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX361 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a2720994f88a2706a2f0b4fb361f81f2c":[6,0,2049,0,1],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a3e89e187c08f45a51fb69b647dcc766d":[6,0,2049,0,9],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a6049433795be30eb31e240a4939ad42f":[6,0,2049,0,2],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[6,0,2049,0,4],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a9dfbb607bb117d2d1fc8a4e61c42859f":[6,0,2049,0,5],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[6,0,2049,0,0]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[6,0,2049,0,4]
 };

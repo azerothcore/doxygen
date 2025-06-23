@@ -1,5 +1,7 @@
 var NAVTREEINDEX386 =
 {
+"df/d92/classSpellScript.html#a96ba2eed3fb3e3c62b3d68f3676a7062":[6,0,4064,31],
+"df/d92/classSpellScript.html#a9e6969d15b334394e0a2d4b63234fc01":[6,0,4064,17],
 "df/d92/classSpellScript.html#aacdfd8a471df948a147c97b916d2fa80":[6,0,4064,68],
 "df/d92/classSpellScript.html#ab3f17ad4c7e5d6955ca812c17f6fdb3a":[6,0,4064,23],
 "df/d92/classSpellScript.html#ab477a1d96d30165236840058af3d2f78":[6,0,4064,59],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#ace4028c8f4d0240b4e2939481312d0d2":[6,0,2198,0,4],
 "df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html#addb312c34c668b8189087de6cf89543b":[6,0,2198,0,3],
 "df/d9c/classHostileRefMgr.html":[6,0,1265],
-"df/d9c/classHostileRefMgr.html#a0327a7238535a3d0961da1cca2102b0e":[6,0,1265,5],
-"df/d9c/classHostileRefMgr.html#a04a74a1a4cf017f6ead3334804d2d862":[6,0,1265,14],
-"df/d9c/classHostileRefMgr.html#a2c74a35806e10917a5d619dcf785f5a5":[6,0,1265,2]
+"df/d9c/classHostileRefMgr.html#a0327a7238535a3d0961da1cca2102b0e":[6,0,1265,5]
 };

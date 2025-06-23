@@ -1,5 +1,7 @@
 var NAVTREEINDEX369 =
 {
+"de/db5/classBattlegroundDS.html#a57cfca32a361d43f19163dc6e7408e96":[6,0,317,4],
+"de/db5/classBattlegroundDS.html#a79112a1631ec6541cf19ecef712bb66f":[6,0,317,8],
 "de/db5/classBattlegroundDS.html#a91e0be32f0169b9ac8749003ae3cdae7":[6,0,317,2],
 "de/db5/classBattlegroundDS.html#a97ed6f531b1de3eaf93c585e205e7f54":[6,0,317,3],
 "de/db5/classBattlegroundDS.html#aaef0cac1f3283c56117efcc484a0abfc":[6,0,317,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX369 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,1,2,3,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6]
 };

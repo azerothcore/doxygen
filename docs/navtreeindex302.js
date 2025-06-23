@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"dc/d37/classGlobalScript.html#ae85fcbfdeb4ed098302a15bc7f53e9cb":[6,0,1100,14],
+"dc/d37/classGlobalScript.html#aed04144e009683fd3ced38905b244c39":[6,0,1100,7],
 "dc/d37/classGlobalScript.html#aeee1139d587e7be99617f15664d85b8e":[6,0,1100,20],
 "dc/d37/cs__lookup_8cpp.html":[7,0,0,0,1,3,0,27],
 "dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,27,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,7,13,3,1],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,7,13,3,11],
 "dc/d49/classSecretMgr.html":[6,0,2514],
-"dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2514,9],
-"dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[6,0,2514,8],
-"dc/d49/classSecretMgr.html#a28ee0858a14656d7fc464eb604b127b7":[6,0,2514,1]
+"dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2514,9]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX373 =
 {
+"de/df9/classnpc__lk__wicked__spirit.html":[6,0,1923],
+"de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1923,2],
 "de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[6,0,1923,1],
 "de/df9/classspell__warr__slam.html":[6,0,3981],
 "de/df9/classspell__warr__slam.html#a59a04dcfee911c70e13ea8d27b4a49c4":[6,0,3981,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX373 =
 "df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[6,0,1462,3],
 "df/d10/structMailLevelReward.html#a3e98aa5c30b0b5648784f9aaf5349a76":[6,0,1462,1],
 "df/d10/structMailLevelReward.html#accd52642cbbab457b69dba54a6ffa23b":[6,0,1462,0],
-"df/d10/structMailLevelReward.html#afdf6684bcd2751822bd00ba1509ef933":[6,0,1462,2],
-"df/d11/FactoryHolder_8h.html":[7,0,0,0,0,6,1],
-"df/d12/ScriptPCH_8h.html":[7,0,0,0,1,3,12]
+"df/d10/structMailLevelReward.html#afdf6684bcd2751822bd00ba1509ef933":[6,0,1462,2]
 };

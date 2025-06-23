@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11605ffe1e4fb33916f88522429e5466":[7,0,0,0,1,3,2,16,7,11,2],
+"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ecea0c9267d7c02bd089696692b1b85":[7,0,0,0,1,3,2,16,7,11,5],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7b22c70e864cf17a5bb4ddc5dd38097e":[7,0,0,0,1,3,2,16,7,11,1],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa307e63f4f3d83df14f0e97932079ae0":[7,0,0,0,1,3,2,16,7,11,3],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ade15fd8617e1a8945c9bdba0eae63efa":[7,0,0,0,1,3,2,16,7,11,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[6,0,4199,3],
 "dc/dcf/classVerasEnvenom.html#ac8c5f4fcb63ea5141a71b56324de0b1f":[6,0,4199,0],
 "dc/dcf/classVerasEnvenom.html#af9cf231119ab5592be9829784f20d2e0":[6,0,4199,2],
-"dc/dd0/classWhoListCacheMgr.html":[6,0,4236],
-"dc/dd0/classWhoListCacheMgr.html#a1e8ce970e3213cd0361af303df98b387":[6,0,4236,5],
-"dc/dd0/classWhoListCacheMgr.html#a2190c113c3d38bd316b17a4400c113e6":[6,0,4236,0]
+"dc/dd0/classWhoListCacheMgr.html":[6,0,4236]
 };

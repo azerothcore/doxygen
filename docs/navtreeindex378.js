@@ -1,5 +1,7 @@
 var NAVTREEINDEX378 =
 {
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98ae676dc41ea4f052d9e8f8e9f759bf600":[7,0,0,0,1,2,16,5,0,4,5,4],
+"df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfb":[7,0,0,0,1,2,16,5,0,4,4],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba01756cb48653301f602165e8293d59e9":[7,0,0,0,1,2,16,5,0,4,4,34],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba10a82be1bba2718d7db6145a7d7ae0f4":[7,0,0,0,1,2,16,5,0,4,4,37],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba115cd169ca68a4aaff4bf89b83d9a2ca":[7,0,0,0,1,2,16,5,0,4,4,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX378 =
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[6,0,94,1],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[6,0,94,0],
 "df/d2d/classgo__acherus__soul__prison.html":[6,0,1105],
-"df/d2d/classgo__acherus__soul__prison.html#a13c858f74080b8f7963fdacc4b554019":[6,0,1105,0],
-"df/d2d/classgo__acherus__soul__prison.html#a904059cbeac3ddb3acf07ec1afe78c37":[6,0,1105,1],
-"df/d2d/classspell__sindragosa__mystic__buffet.html":[6,0,3790]
+"df/d2d/classgo__acherus__soul__prison.html#a13c858f74080b8f7963fdacc4b554019":[6,0,1105,0]
 };

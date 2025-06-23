@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,4,17,5],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,5,7,4,17,1],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5c8dea166446ae7a3f0bcbd4b305ff35":[7,0,0,0,1,3,5,7,4,17,4],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,5,7,4,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dbf/classspell__hallows__end__base__fire.html#a4321da69ee59416bd50e621b804e5423":[6,0,3049,1],
 "d8/dbf/classspell__hallows__end__base__fire.html#a956136be8cb484efc9af2429d8779a03":[6,0,3049,3],
 "d8/dbf/classspell__hallows__end__base__fire.html#ae2ce9c161a25385c6de1f4b7607c9935":[6,0,3049,0],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,1,8,0,10],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[6,0,0,5,0,10]
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,1,8,0,10]
 };

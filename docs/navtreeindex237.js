@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d71/classat__baltharus__plateau.html":[6,0,208],
 "d9/d71/classat__baltharus__plateau.html#ac7acc8816b298446ac9bb8d6b82f27b6":[6,0,208,0],
 "d9/d71/classat__baltharus__plateau.html#aea08e30eb57d5d84b78b8891c4a45afb":[6,0,208,1],
 "d9/d71/structBIH_1_1buildData.html":[6,0,355,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72ae6236bdd834258840f22c2e32a08aa9d":[7,0,0,0,1,2,24,3,23,1],
 "d9/d84/LootMgr_8h.html#a2b487e26b2b104df71db0d0cdb218f70":[7,0,0,0,1,2,24,3,47],
 "d9/d84/LootMgr_8h.html#a2d34d3171cf6ee7b6e118d5b12be319e":[7,0,0,0,1,2,24,3,51],
-"d9/d84/LootMgr_8h.html#a2ffebb5466d0f97fdaa495088a046a51":[7,0,0,0,1,2,24,3,26],
-"d9/d84/LootMgr_8h.html#a31e68d51b0fcf3e28a4479991359a8b3":[7,0,0,0,1,2,24,3,44]
+"d9/d84/LootMgr_8h.html#a2ffebb5466d0f97fdaa495088a046a51":[7,0,0,0,1,2,24,3,26]
 };

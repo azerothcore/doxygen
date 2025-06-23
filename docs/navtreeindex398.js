@@ -1,5 +1,7 @@
 var NAVTREEINDEX398 =
 {
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[6,0,2077,0,3],
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ab061ea54c2b36f6f1c2ec7841202e684":[6,0,2077,0,4],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ae96994e7c02a1fb8df8ef9fe80d7bc41":[6,0,2077,0,2],
 "df/deb/structboss__grizzle_1_1boss__grizzleAI.html":[6,0,507,0],
 "df/deb/structboss__grizzle_1_1boss__grizzleAI.html#a2dc5c27cd4eaf2aa1484a370a68e3314":[6,0,507,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX398 =
 "df/df5/BattlefieldMgr_8cpp.html":[7,0,0,0,1,2,7,4],
 "df/df5/structboss__nefarian.html":[6,0,633],
 "df/df5/structboss__nefarian.html#a0eea749c0392a7713e372cc1f236cdcd":[6,0,633,4],
-"df/df5/structboss__nefarian.html#a205c9b1d4116fbd0a1ca972f39094abc":[6,0,633,7],
-"df/df5/structboss__nefarian.html#a45ec4ab3cdf9b4de91a9ae682f3335e8":[6,0,633,5],
-"df/df5/structboss__nefarian.html#a4a0a4cf4ee63ce744ffb580747f992b9":[6,0,633,1]
+"df/df5/structboss__nefarian.html#a205c9b1d4116fbd0a1ca972f39094abc":[6,0,633,7]
 };

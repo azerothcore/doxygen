@@ -1,5 +1,7 @@
 var NAVTREEINDEX248 =
 {
+"da/d22/structnpc__madrigosa.html":[6,0,1935],
+"da/d22/structnpc__madrigosa.html#a09525d3bb35d1da4246bd84bbadea304":[6,0,1935,4],
 "da/d22/structnpc__madrigosa.html#a3431d13ea4ebd97d3fc6e542f89e033d":[6,0,1935,2],
 "da/d22/structnpc__madrigosa.html#a5859e4c8454371eb71740616d4763c0e":[6,0,1935,3],
 "da/d22/structnpc__madrigosa.html#a7624e25e00c1e7505ba171d0be40beb3":[6,0,1935,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX248 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7dffb8e20e91a710ae9d4a2c804bcb6e":[7,0,0,0,1,2,41,0,0,6,187],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7e920736925cc01608542567a3d2107e":[7,0,0,0,1,2,41,0,0,6,175],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7eb8c04cf8d83170bef8810aefa11c1b":[7,0,0,0,1,2,41,0,0,6,104],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a80ad93ae28941c5274c5bbf707611b7d":[7,0,0,0,1,2,41,0,0,6,144],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a82981d879285ed538a097e2d197e3638":[7,0,0,0,1,2,41,0,0,6,280],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a832ce5d9dd4224e90b25c6aacef11e20":[7,0,0,0,1,2,41,0,0,6,170]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a80ad93ae28941c5274c5bbf707611b7d":[7,0,0,0,1,2,41,0,0,6,144]
 };

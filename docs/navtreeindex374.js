@@ -1,5 +1,7 @@
 var NAVTREEINDEX374 =
 {
+"df/d11/FactoryHolder_8h.html":[7,0,0,0,0,6,1],
+"df/d12/ScriptPCH_8h.html":[7,0,0,0,1,3,12],
 "df/d13/blackrock__spire_8h.html":[7,0,0,0,1,3,2,1,1,0],
 "df/d13/blackrock__spire_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,1,1,0,1],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2":[7,0,0,0,1,3,2,1,1,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX374 =
 "df/d14/classPet.html#af5c26f7c7d00be025abba6008d6438bf":[6,0,2373,21],
 "df/d14/classPet.html#af641ae2d7d873000862ac953f850d068":[6,0,2373,49],
 "df/d14/classPet.html#af98d9932f6260f70dee8e43526790ec2":[6,0,2373,84],
-"df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2373,41],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,30,1,4],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4]
+"df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2373,41]
 };

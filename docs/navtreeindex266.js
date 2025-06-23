@@ -1,5 +1,7 @@
 var NAVTREEINDEX266 =
 {
+"da/ddc/classSmartAI.html#a6fe0a1d7166d2dbff60339d7f89f02c1":[6,0,2549,38],
+"da/ddc/classSmartAI.html#a77b509bd7e69ed190bf8ca3c37fead8a":[6,0,2549,29],
 "da/ddc/classSmartAI.html#a79fe4b1434996b19949d3045bbea8196":[6,0,2549,79],
 "da/ddc/classSmartAI.html#a82c41ff9c666955d7ce9ed0d3aa8de85":[6,0,2549,74],
 "da/ddc/classSmartAI.html#a84470fef594196f8ab1cdf76b06a6436":[6,0,2549,111],
@@ -247,7 +249,5 @@ var NAVTREEINDEX266 =
 "da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a82430399e44001343f322b2c3b7769a5":[6,0,3786,2],
 "da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9c8e0ed8fde28588e11ebf5e8abd02dc":[6,0,3786,3],
 "da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9f427761fcca9029eb75d586e5876fcd":[6,0,3786,1],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#ae20873e93fbace6272a793993fb45349":[6,0,3786,5],
-"da/de7/sethekk__halls_8h.html":[7,0,0,0,1,3,7,0,2,4],
-"da/de7/sethekk__halls_8h.html#a31365a35c315c6cb485bcd31f5ba77fd":[7,0,0,0,1,3,7,0,2,4,5]
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#ae20873e93fbace6272a793993fb45349":[6,0,3786,5]
 };

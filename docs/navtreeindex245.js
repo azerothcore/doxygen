@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7b606af2fab76214cf1bb5840a2aec55":[7,0,0,0,1,3,5,9,2,16,6,6],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7fd813e06cda4b3511b0a4f9ee916660":[7,0,0,0,1,3,5,9,2,16,6,11],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a80d3db86bfdf52a53c9a23d5855d6268":[7,0,0,0,1,3,5,9,2,16,6,12],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a86bb473cdff2581c0b69cd1767657e06":[7,0,0,0,1,3,5,9,2,16,6,2],
@@ -195,6 +196,7 @@ var NAVTREEINDEX245 =
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1301,2],
 "d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1301,1],
 "d9/df9/classspell__dk__pestilence.html":[6,0,2757],
+"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[6,0,2757,3],
 "d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2757,1],
 "d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2757,2],
 "d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2757,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dff/structnpc__crashin__thrashin__robot.html":[6,0,1701],
 "d9/dff/structnpc__crashin__thrashin__robot.html#a0652cd455791461f613ab4ebf77d2c3c":[6,0,1701,1],
 "d9/dff/structnpc__crashin__thrashin__robot.html#a1d21cd2075f3aeba2c7f1e735a33dfec":[6,0,1701,2],
-"d9/dff/structnpc__crashin__thrashin__robot.html#a55778501d154d0a9e77f76054e926f85":[6,0,1701,3],
-"d9/dff/structnpc__crashin__thrashin__robot.html#ad21336d212498b1c9ef5d46979d147ab":[6,0,1701,0],
-"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html":[6,0,1702,0]
+"d9/dff/structnpc__crashin__thrashin__robot.html#a55778501d154d0a9e77f76054e926f85":[6,0,1701,3]
 };

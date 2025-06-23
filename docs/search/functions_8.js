@@ -1393,7 +1393,7 @@ var searchData=
   ['hasactivespell_1390',['HasActiveSpell',['../d2/d4b/classPlayer.html#a5832c15709e39ea6f54b3d243f6dcbd2',1,'Player']]],
   ['hasalchemyspell_1391',['HasAlchemySpell',['../de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0',1,'npc_prof_alchemy']]],
   ['hasallauras_1392',['HasAllAuras',['../df/dd9/classUnit.html#ae980a6032828084b57b6223722254b81',1,'Unit']]],
-  ['hasallflags_1393',['hasallflags',['../db/d9d/classMovement_1_1MoveSplineFlag.html#a1ae2e7842f361d4b2dd31b5a6d6df2f6',1,'Movement::MoveSplineFlag::hasAllFlags()'],['../d4/dcb/classEnumFlag.html#adb5b65ab4a3d827882634d94774a912b',1,'EnumFlag::HasAllFlags()']]],
+  ['hasallflags_1393',['hasallflags',['../d4/dcb/classEnumFlag.html#adb5b65ab4a3d827882634d94774a912b',1,'EnumFlag::HasAllFlags()'],['../db/d9d/classMovement_1_1MoveSplineFlag.html#a1ae2e7842f361d4b2dd31b5a6d6df2f6',1,'Movement::MoveSplineFlag::hasAllFlags()']]],
   ['hasallowedlooter_1394',['HasAllowedLooter',['../d4/dd0/classWorldObject.html#a38404ab529c99fb26e0df18eeed1417e',1,'WorldObject']]],
   ['hasallowonlyabilityaura_1395',['HasAllowOnlyAbilityAura',['../df/dd9/classUnit.html#ac4e01ba4e90bac17318be1e3bd81970e',1,'Unit']]],
   ['hasanimation_1396',['HasAnimation',['../d3/d68/classMovement_1_1MoveSpline.html#ae63db347ed61a9dec1d1931e84903b2a',1,'Movement::MoveSpline']]],

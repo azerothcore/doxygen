@@ -1,5 +1,7 @@
 var NAVTREEINDEX273 =
 {
+"db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[6,0,2435,0],
+"db/d30/classPlayerDumpReader.html":[6,0,2398],
 "db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2398,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2398,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2398,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX273 =
 "db/d41/structnpc__midsummer__bonfire.html#aaa2f2822cb5c104ec2d90c2a344b409d":[6,0,1953,7],
 "db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[6,0,1953,9],
 "db/d41/structnpc__sentinel__leader.html":[6,0,2091],
-"db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[6,0,2091,0],
-"db/d41/structnpc__sentinel__leader.html#a6d51ada16fac1f5eda8b09aede746a4b":[6,0,2091,2],
-"db/d41/structnpc__sentinel__leader.html#a803c324e790cd74e90ff6c2adde37ba3":[6,0,2091,6]
+"db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[6,0,2091,0]
 };

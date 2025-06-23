@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[6,0,3977,2],
+"db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,3977,1],
 "db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,3977,0],
 "db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,3977,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a44ca67ecee771d27b9c59be7b5e7d56b":[6,0,608,0,6],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a4f0ef49be1129d4289ca9682a145d3a8":[6,0,608,0,1],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a5ca565d9078c31b7ca6ceda0e262114d":[6,0,608,0,2],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#a6613931f6211979d8c627c9c5cd8dea2":[6,0,608,0,8],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#a6f8d8ec25b9d3acedd7c70f0a9f04a8a":[6,0,608,0,0],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#a9ec26485d72ccf8e97120756f14161c3":[6,0,608,0,18]
+"db/dfc/structboss__malygos_1_1boss__malygosAI.html#a6613931f6211979d8c627c9c5cd8dea2":[6,0,608,0,8]
 };

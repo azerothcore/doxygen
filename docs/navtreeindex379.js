@@ -1,5 +1,7 @@
 var NAVTREEINDEX379 =
 {
+"df/d2d/classgo__acherus__soul__prison.html#a904059cbeac3ddb3acf07ec1afe78c37":[6,0,1105,1],
+"df/d2d/classspell__sindragosa__mystic__buffet.html":[6,0,3790],
 "df/d2d/classspell__sindragosa__mystic__buffet.html#a24466e7a04722cc7559b086f89d2edc8":[6,0,3790,1],
 "df/d2d/classspell__sindragosa__mystic__buffet.html#a9ecea534f3dffdedf7d23b3b2461509d":[6,0,3790,2],
 "df/d2d/classspell__sindragosa__mystic__buffet.html#ad5a004ddfdc888c38e95c3a0b49ca73e":[6,0,3790,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX379 =
 "df/d3d/classBfCapturePoint.html#a429037910b1a3108cdb753ba91230bf7":[6,0,342,2],
 "df/d3d/classBfCapturePoint.html#a53e231eae6e505a88e616244092a8ee6":[6,0,342,20],
 "df/d3d/classBfCapturePoint.html#a5a375223e2be7103bf6d9b411bb95b2c":[6,0,342,10],
-"df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0":[6,0,342,5],
-"df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[6,0,342,3],
-"df/d3d/classBfCapturePoint.html#a7b3e3cb728347cd9783eea394245fcc0":[6,0,342,27]
+"df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0":[6,0,342,5]
 };

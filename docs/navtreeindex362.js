@@ -1,5 +1,7 @@
 var NAVTREEINDEX362 =
 {
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a9dfbb607bb117d2d1fc8a4e61c42859f":[6,0,2049,0,5],
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[6,0,2049,0,0],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[6,0,2049,0,10],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[6,0,2049,0,6],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[6,0,2049,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX362 =
 "de/d89/classGridObjectUnloader.html#a7624bb11d51edffdc49fc9a95df847ef":[6,0,1216,1],
 "de/d89/classGridObjectUnloader.html#ae01a3252ecf5083da0c5be5d4a845636":[6,0,1216,0],
 "de/d8c/classspell__sha__sentry__totem.html":[6,0,3760],
-"de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[6,0,3760,2],
-"de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3760,0],
-"de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3760,1]
+"de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[6,0,3760,2]
 };

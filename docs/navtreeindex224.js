@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca00b6c66776a6dde5a70cf1d0849302b1":[7,0,0,0,1,3,7,5,1,4,2,3],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3027bd3bcdc06e0ea4f687afdb22a8":[7,0,0,0,1,3,7,5,1,4,2,2],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca6e5929f7725cfd1dc8c5f093c75fc25a":[7,0,0,0,1,3,7,5,1,4,2,1],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca9245c7efff67ba5f7f5e13c68f6edee3":[7,0,0,0,1,3,7,5,1,4,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd":[7,0,0,0,1,3,5,24,21,5],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9":[7,0,0,0,1,3,5,24,21,6],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b":[7,0,0,0,1,3,5,24,21,4],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3":[7,0,0,0,1,3,5,24,21,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47":[7,0,0,0,1,3,5,24,23]
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3":[7,0,0,0,1,3,5,24,21,1]
 };

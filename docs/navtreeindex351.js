@@ -1,5 +1,7 @@
 var NAVTREEINDEX351 =
 {
+"de/d0c/classspell__mage__fire__frost__ward.html#a9378cde1cc6daab0dc111b94aef4f6c8":[6,0,3373,0],
+"de/d0c/classspell__mage__fire__frost__ward.html#aa6264e4dbff71b0d82e3403984c59c03":[6,0,3373,4],
 "de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[6,0,3373,2],
 "de/d0e/structnpc__vekniss__stinger.html":[6,0,2247],
 "de/d0e/structnpc__vekniss__stinger.html#a1ff479e8f45710f6aa36473933bb87e0":[6,0,2247,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX351 =
 "de/d1c/classGameObject.html#a289833acf259f1eb262ab9be701a3e86":[6,0,1071,163],
 "de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead":[6,0,1071,48],
 "de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[6,0,1071,60],
-"de/d1c/classGameObject.html#a2afa3260c75f1241110a9abcead5aefa":[6,0,1071,74],
-"de/d1c/classGameObject.html#a2b9359375ec398ba32d5611901536f20":[6,0,1071,34],
-"de/d1c/classGameObject.html#a2c692a866b2081f6321b2040a1e32b1f":[6,0,1071,175]
+"de/d1c/classGameObject.html#a2afa3260c75f1241110a9abcead5aefa":[6,0,1071,74]
 };

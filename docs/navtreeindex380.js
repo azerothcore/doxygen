@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[6,0,342,3],
+"df/d3d/classBfCapturePoint.html#a7b3e3cb728347cd9783eea394245fcc0":[6,0,342,27],
 "df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[6,0,342,11],
 "df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546":[6,0,342,13],
 "df/d3d/classBfCapturePoint.html#a89bf5ddb47f47bb1129ec2256221dcb8":[6,0,342,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "df/d4e/structnpc__apothecary__genericAI.html#a59074beefbd3d80104b64f8ecc2ef8e0":[6,0,1596,1],
 "df/d4e/structnpc__apothecary__genericAI.html#a63530bd7c3ebcd66521a268e11bf2f93":[6,0,1596,2],
 "df/d4e/structnpc__apothecary__genericAI.html#afb2b04b51e28d0795e7781effa68dffd":[6,0,1596,0],
-"df/d50/boss__keristrasza_8cpp.html":[7,0,0,0,1,3,5,8,1,2],
-"df/d50/boss__keristrasza_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,8,1,2,2],
-"df/d50/boss__keristrasza_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,8,1,2,2,3]
+"df/d50/boss__keristrasza_8cpp.html":[7,0,0,0,1,3,5,8,1,2]
 };

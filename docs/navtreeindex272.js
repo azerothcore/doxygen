@@ -1,5 +1,7 @@
 var NAVTREEINDEX272 =
 {
+"db/d1d/boss__lavanthor_8cpp.html#ab1875d815a310eaf6e5344aba515ad4d":[7,0,0,0,1,3,5,12,3,4],
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,3,3],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,5,12,3,3,2],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[7,0,0,0,1,3,5,12,3,3,1],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[7,0,0,0,1,3,5,12,3,3,3],
@@ -87,8 +89,8 @@ var NAVTREEINDEX272 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1876,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX272 =
 "db/d2f/structPvPDifficultyEntry.html#a4bcbc99d34ef8eaa7c15dbd33332c480":[6,0,2435,1],
 "db/d2f/structPvPDifficultyEntry.html#a58c251f56a928bedbc7b9e8c6cbdbc5d":[6,0,2435,4],
 "db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a":[6,0,2435,2],
-"db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[6,0,2435,6],
-"db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[6,0,2435,0],
-"db/d30/classPlayerDumpReader.html":[6,0,2398]
+"db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[6,0,2435,6]
 };

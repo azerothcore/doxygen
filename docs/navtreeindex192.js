@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d79/CompilerDefs_8h.html#a96b4a3022030f69221679448f34f1972":[7,0,0,0,0,20,7],
 "d7/d79/CompilerDefs_8h.html#ac8ee3c2752751f98265e16c95cbaea47":[7,0,0,0,0,20,3],
 "d7/d79/CompilerDefs_8h.html#ad92d7f8e69537bfc6f28bfce27856c1f":[7,0,0,0,0,20,0],
 "d7/d79/namespaceboost_1_1posix__time.html":[5,0,8,2],
@@ -33,12 +34,12 @@ var NAVTREEINDEX192 =
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,30,2,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,30,2,1,2],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,30,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,30,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,2,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,30,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3608],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html":[6,0,2073,0],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a044f7c15ed58b67d02d6e1f6b76ad573":[6,0,2073,0,13],
 "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a060a25159570525af2d624f3f153eadf":[6,0,2073,0,4],
-"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a1962eac2fa0403b965e5534d09bfc8a5":[6,0,2073,0,15],
-"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a28482e22f80316de1b2e4ebd54875f13":[6,0,2073,0,14]
+"d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html#a1962eac2fa0403b965e5534d09bfc8a5":[6,0,2073,0,15]
 };

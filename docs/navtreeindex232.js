@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d3f/boss__muru_8cpp.html":[7,0,0,0,1,3,2,12,5],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,12,5,10],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca0cba1d49af7a01564c622000700ea7ee":[7,0,0,0,1,3,2,12,5,10,3],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd":[7,0,0,0,1,3,2,12,5,10,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a22d6c338ea1f2af9be0eb02aceba42bd":[6,0,3147,4],
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3147,1],
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a4126d35669859963f10ed1425a054298":[6,0,3147,2],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3147,0],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3147,3]
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3147,0]
 };

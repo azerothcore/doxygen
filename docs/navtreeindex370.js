@@ -1,5 +1,7 @@
 var NAVTREEINDEX370 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,1,2,3,4],
 "de/dcb/classspell__gen__bonked.html":[6,0,2897],
 "de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2897,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX370 =
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a8085a615ff5d252452616ef69dfd3249":[6,0,708,0,11],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a9544ce38a210da1ac867d5cabf9ffbec":[6,0,708,0,6],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac4adabf023663df7b4c1fdc8c027b52d":[6,0,708,0,8],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac5bc8a9512c2e6e5169366cc5bbc79c2":[6,0,708,0,1],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac99cd9678f209b0cf2e8e8e3457d0f55":[6,0,708,0,12],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ae71145ec4a82d1f024892181daebace9":[6,0,708,0,10]
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac5bc8a9512c2e6e5169366cc5bbc79c2":[6,0,708,0,1]
 };

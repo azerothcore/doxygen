@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632":[7,0,0,0,1,3,2,26,3,3],
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c":[7,0,0,0,1,3,2,26,3,0],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb":[7,0,0,0,1,3,2,26,3,9],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5":[7,0,0,0,1,3,2,26,3,4],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5":[7,0,0,0,1,3,2,26,3,5],
@@ -57,16 +59,16 @@ var NAVTREEINDEX293 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1517,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1517,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1517,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,30,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,30,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,30,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,30,5,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,30,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,30,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3140],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3140,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3140,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "db/df9/classboss__grilek.html":[6,0,506],
 "db/df9/classboss__grilek.html#aa346fa8807069d8fc94bd4d81a014c76":[6,0,506,2],
 "db/df9/classboss__grilek.html#acffe0061db18c5725c8c290822c5fed7":[6,0,506,1],
-"db/df9/classspell__warr__overpower.html":[6,0,3977],
-"db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[6,0,3977,2],
-"db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,3977,1]
+"db/df9/classspell__warr__overpower.html":[6,0,3977]
 };

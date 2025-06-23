@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3147,3],
 "d9/d51/cs__mmaps_8cpp.html":[7,0,0,0,1,3,0,30],
 "d9/d51/cs__mmaps_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,30,1],
 "d9/d52/BattlegroundAB_8cpp.html":[7,0,0,0,1,2,8,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a465b69d7495e9424b5b950ba5f0da51a":[7,0,0,0,1,3,7,9,23,1],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a4f8d2acef77391d65861d0c946fe8729":[7,0,0,0,1,3,7,9,23,4],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a80da7854de32d5e5c993ba1be4c74422":[7,0,0,0,1,3,7,9,23,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a8b011f15bc7cc9c7412785e6298f171e":[7,0,0,0,1,3,7,9,23,3],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a98a877a8aaf4751df02483f3d84afa68":[7,0,0,0,1,3,7,9,23,8]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643a8b011f15bc7cc9c7412785e6298f171e":[7,0,0,0,1,3,7,9,23,3]
 };
