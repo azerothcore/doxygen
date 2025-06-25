@@ -1,11 +1,5 @@
 var NAVTREEINDEX299 =
 {
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,0,5,1,0],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,0,5,1,1],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93":[7,0,0,0,1,3,7,5,0,5,1,2],
-"dc/d28/BaseEncoding_8h.html":[7,0,0,0,0,7,4],
-"dc/d28/boss__amanitar_8cpp.html":[7,0,0,0,1,3,5,0,0,1],
-"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,5,0,0,1,3],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188":[7,0,0,0,1,3,5,0,0,1,3,0],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ae5abbd9e7d682c77a56749f83994e4ff":[7,0,0,0,1,3,5,0,0,1,3,1],
 "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,0,0,1,5],
@@ -249,5 +243,11 @@ var NAVTREEINDEX299 =
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faed80640b9f8e020c6113658cf627e0d2":[7,0,0,0,1,3,7,1,0,5,1],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faf2b61afbf91bac6c005eb31068291ca9":[7,0,0,0,1,3,7,1,0,5,12],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,1,0,3],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea0352ccde5ec007d91ab171794df14466":[7,0,0,0,1,3,7,1,0,3,6]
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea0352ccde5ec007d91ab171794df14466":[7,0,0,0,1,3,7,1,0,3,6],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea08807587a7078383c927360804964a62":[7,0,0,0,1,3,7,1,0,3,19],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea11904656221d11a3daf453267d8dcc2e":[7,0,0,0,1,3,7,1,0,3,20],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea122890e2893d03c630c9c0aa4f4c0a78":[7,0,0,0,1,3,7,1,0,3,7],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea35d7b6970eadf21494ab24b4053680c5":[7,0,0,0,1,3,7,1,0,3,15],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ba76fcb66b3b20da5ebde72fee4e419":[7,0,0,0,1,3,7,1,0,3,16],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea3bd64cc6d235f0cf12460381ec110071":[7,0,0,0,1,3,7,1,0,3,0]
 };

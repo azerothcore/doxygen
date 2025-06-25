@@ -4,7 +4,7 @@ var UnitAI_8h =
     [ "SpellTargetSelector", "d2/d5c/structSpellTargetSelector.html", "d2/d5c/structSpellTargetSelector" ],
     [ "NonTankTargetSelector", "d3/d7d/structNonTankTargetSelector.html", "d3/d7d/structNonTankTargetSelector" ],
     [ "PowerUsersSelector", "dd/d81/structPowerUsersSelector.html", "dd/d81/structPowerUsersSelector" ],
-    [ "FarthestTargetSelector", "d6/dfc/structFarthestTargetSelector.html", "d6/dfc/structFarthestTargetSelector" ],
+    [ "RangeSelector", "dc/d48/structRangeSelector.html", "dc/d48/structRangeSelector" ],
     [ "UnitAI", "d0/ddd/classUnitAI.html", "d0/ddd/classUnitAI" ],
     [ "PlayerAI", "d1/d40/classPlayerAI.html", "d1/d40/classPlayerAI" ],
     [ "SimpleCharmedAI", "da/db8/classSimpleCharmedAI.html", "da/db8/classSimpleCharmedAI" ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a09ba1fe5918663492ebfdee380abb78f":[7,0,0,0,1,4,7,84,0],
+"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a55f0508293e66c80cf0a5e04a0fe464a":[7,0,0,0,1,4,7,84,4],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a9561b292a8d7dc1ee6d11b0d5198caed":[7,0,0,0,1,4,7,84,2],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77ae5f352af54ef4389d7462f78e00a49f1":[7,0,0,0,1,4,7,84,1],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77aeb570056c8e2f64067ef37bc6783414f":[7,0,0,0,1,4,7,84,7],
@@ -240,14 +242,12 @@ var NAVTREEINDEX350 =
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349":[7,0,0,0,1,4,7,121,2],
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03":[7,0,0,0,1,4,7,121,3],
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce":[7,0,0,0,1,4,7,121,5],
-"de/d0a/unionkeyData.html":[6,0,1393],
-"de/d0a/unionkeyData.html#a0518eb4b0a91697500a5a370068425a8":[6,0,1393,3],
-"de/d0a/unionkeyData.html#a08efba5e78b64fef020453f689bcc5f0":[6,0,1393,4],
-"de/d0a/unionkeyData.html#a36edc530bfb803c2f122e6758d20193a":[6,0,1393,5],
-"de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319":[6,0,1393,0],
-"de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[6,0,1393,1],
-"de/d0a/unionkeyData.html#ad0213e5de805b0decb4730efa2d412e0":[6,0,1393,2],
-"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3373],
-"de/d0c/classspell__mage__fire__frost__ward.html#a20d5b4776ebeb859b0641af640e41d80":[6,0,3373,1],
-"de/d0c/classspell__mage__fire__frost__ward.html#a8c5399ba68554f4c2e842c5492ad715c":[6,0,3373,3]
+"de/d0a/unionkeyData.html":[6,0,1392],
+"de/d0a/unionkeyData.html#a0518eb4b0a91697500a5a370068425a8":[6,0,1392,3],
+"de/d0a/unionkeyData.html#a08efba5e78b64fef020453f689bcc5f0":[6,0,1392,4],
+"de/d0a/unionkeyData.html#a36edc530bfb803c2f122e6758d20193a":[6,0,1392,5],
+"de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319":[6,0,1392,0],
+"de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[6,0,1392,1],
+"de/d0a/unionkeyData.html#ad0213e5de805b0decb4730efa2d412e0":[6,0,1392,2],
+"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3373]
 };

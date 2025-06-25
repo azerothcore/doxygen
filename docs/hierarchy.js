@@ -4611,9 +4611,9 @@ var hierarchy =
     [ "Acore::unary_function< Unit *, bool >", "d8/dfc/structAcore_1_1unary__function.html", [
       [ "ClassCallSelector", "de/dde/structClassCallSelector.html", null ],
       [ "DefaultTargetSelector", "d2/d0e/structDefaultTargetSelector.html", null ],
-      [ "FarthestTargetSelector", "d6/dfc/structFarthestTargetSelector.html", null ],
       [ "NonTankTargetSelector", "d3/d7d/structNonTankTargetSelector.html", null ],
       [ "PowerUsersSelector", "dd/d81/structPowerUsersSelector.html", null ],
+      [ "RangeSelector", "dc/d48/structRangeSelector.html", null ],
       [ "SpellTargetSelector", "d2/d5c/structSpellTargetSelector.html", null ]
     ] ],
     [ "UnboundPlagueTargetSelector", "de/df4/classUnboundPlagueTargetSelector.html", null ],

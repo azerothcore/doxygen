@@ -1,5 +1,7 @@
 var NAVTREEINDEX338 =
 {
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913":[7,0,0,0,1,2,11,0,1,7,34],
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18":[7,0,0,0,1,2,11,0,1,7,33],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d":[7,0,0,0,1,2,11,0,1,7,32],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b":[7,0,0,0,1,2,11,0,1,7,28],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b":[7,0,0,0,1,2,11,0,1,7,3],
@@ -77,9 +79,9 @@ var NAVTREEINDEX338 =
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d":[7,0,0,0,1,3,7,4,0,0,3,1],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3":[7,0,0,0,1,3,7,4,0,0,3,2],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521add420385ff32f4362b994bc24207cde2":[7,0,0,0,1,3,7,4,0,0,3,9],
-"de/d07/classnpc__depth__charge.html":[6,0,1735],
-"de/d07/classnpc__depth__charge.html#a16de1a207304ea2ad7f47d5674deeec1":[6,0,1735,2],
-"de/d07/classnpc__depth__charge.html#ad16e3431b06fdd6797bfb51dda9005f5":[6,0,1735,1],
+"de/d07/classnpc__depth__charge.html":[6,0,1734],
+"de/d07/classnpc__depth__charge.html#a16de1a207304ea2ad7f47d5674deeec1":[6,0,1734,2],
+"de/d07/classnpc__depth__charge.html#ad16e3431b06fdd6797bfb51dda9005f5":[6,0,1734,1],
 "de/d09/classspell__apothecary__lingering__fumes.html":[6,0,2591],
 "de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[6,0,2591,3],
 "de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2591,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX338 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a8a589e75aed60416f143d57c82a40873":[7,0,0,0,1,4,7,60,9],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a8ee2bab93393673c4064816feb072fe2":[7,0,0,0,1,4,7,60,153],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a90a38e5f2d6a5a2e76506d63b591495f":[7,0,0,0,1,4,7,60,83],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a91c67178fe7318a3251727b00aad12d1":[7,0,0,0,1,4,7,60,21],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a93532395e75452796fc8cfdf586c6d38":[7,0,0,0,1,4,7,60,4],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a955defd38b38ca91fca88c0556681811":[7,0,0,0,1,4,7,60,54]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a91c67178fe7318a3251727b00aad12d1":[7,0,0,0,1,4,7,60,21]
 };
