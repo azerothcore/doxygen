@@ -1,5 +1,9 @@
 var NAVTREEINDEX380 =
 {
+"df/d3d/classBfCapturePoint.html#a37792e377ac59c30e711a56239598da4":[6,0,342,24],
+"df/d3d/classBfCapturePoint.html#a3bc808408161740eed6185c049e1414b":[6,0,342,18],
+"df/d3d/classBfCapturePoint.html#a429037910b1a3108cdb753ba91230bf7":[6,0,342,2],
+"df/d3d/classBfCapturePoint.html#a53e231eae6e505a88e616244092a8ee6":[6,0,342,20],
 "df/d3d/classBfCapturePoint.html#a5a375223e2be7103bf6d9b411bb95b2c":[6,0,342,10],
 "df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0":[6,0,342,5],
 "df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[6,0,342,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX380 =
 "df/d4e/structBfWGCoordGY.html#a8b0aed9e6973ce6efc5d89a0d10a4139":[6,0,345,2],
 "df/d4e/structBfWGCoordGY.html#a9c761e77b7194ab1bb80d28f2b1e1f6d":[6,0,345,1],
 "df/d4e/structBfWGCoordGY.html#ad69833b4e2a27999dcd13e5ac5bda892":[6,0,345,5],
-"df/d4e/structBfWGCoordGY.html#ae1a4b69ea4edabe51f1378c6cb066cad":[6,0,345,4],
-"df/d4e/structnpc__apothecary__genericAI.html":[6,0,1595],
-"df/d4e/structnpc__apothecary__genericAI.html#a53d10ab64df212b043cc21e054f6528c":[6,0,1595,3],
-"df/d4e/structnpc__apothecary__genericAI.html#a59074beefbd3d80104b64f8ecc2ef8e0":[6,0,1595,1],
-"df/d4e/structnpc__apothecary__genericAI.html#a63530bd7c3ebcd66521a268e11bf2f93":[6,0,1595,2]
+"df/d4e/structBfWGCoordGY.html#ae1a4b69ea4edabe51f1378c6cb066cad":[6,0,345,4]
 };

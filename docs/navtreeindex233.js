@@ -1,5 +1,8 @@
 var NAVTREEINDEX233 =
 {
+"d9/d53/BattlegroundScript_8cpp.html#a954046a61096ecb9db321b0a35da5f77":[7,0,0,0,1,2,38,0,31,0],
+"d9/d54/classnpc__tirions__gambit__tirion.html":[6,0,2168],
+"d9/d54/classnpc__tirions__gambit__tirion.html#a222c092c2e2136dbd7057a3f7ad7b5f4":[6,0,2168,2],
 "d9/d54/classnpc__tirions__gambit__tirion.html#a5af904a3394de9b3eedb52009bd6b0a9":[6,0,2168,3],
 "d9/d54/classnpc__tirions__gambit__tirion.html#ad52abd46ccdd3b4409671679434c193c":[6,0,2168,1],
 "d9/d54/common_2Configuration_2Config_8cpp.html":[7,0,0,0,0,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643ab7015613e99976dfb4eadf9b9a874fc6":[7,0,0,0,1,3,7,9,23,7],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9cbd5801add5efb731b06cafd2fd7643ac5c31b12f31b0f7e048cc42c4f3092b9":[7,0,0,0,1,3,7,9,23,6],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3f":[7,0,0,0,1,3,7,9,22],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fa25b25a813eefd4bf0f037c46958a027d":[7,0,0,0,1,3,7,9,22,2],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fa51277f6e1373729773ae194a8fb0fcb1":[7,0,0,0,1,3,7,9,22,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fac7d8ac87bd6ca15acf462b0d6e08e98f":[7,0,0,0,1,3,7,9,22,1],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3faccb8754885f33f1f372a36cf43b2c05a":[7,0,0,0,1,3,7,9,22,4]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fa25b25a813eefd4bf0f037c46958a027d":[7,0,0,0,1,3,7,9,22,2]
 };

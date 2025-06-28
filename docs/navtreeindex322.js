@@ -1,5 +1,9 @@
 var NAVTREEINDEX322 =
 {
+"dd/d3b/structGameObjectTemplate.html#abce6b163842d2c417ec037578cb30bc5":[6,0,1083,37],
+"dd/d3b/structGameObjectTemplate.html#abcf70152170d7b4cf2166eb7fff428c4":[6,0,1083,174],
+"dd/d3b/structGameObjectTemplate.html#abd9f8c1ac7634d5898057b84390f56bb":[6,0,1083,71],
+"dd/d3b/structGameObjectTemplate.html#abeca02391fbdf614e0ef029afbe2534d":[6,0,1083,40],
 "dd/d3b/structGameObjectTemplate.html#abf785d310ce10d3edab56e8c03f589c3":[6,0,1083,160],
 "dd/d3b/structGameObjectTemplate.html#ac3c82d47e96863c16c63d599ece119c4":[6,0,1083,168],
 "dd/d3b/structGameObjectTemplate.html#ac3d37219dab971cd5a9b891d8ce3042b":[6,0,1083,79],
@@ -82,12 +86,12 @@ var NAVTREEINDEX322 =
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,455,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,455,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,455,0,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[6,0,3746,7],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a82067899470366c2cbf21bba08061ce1":[6,0,3746,2],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a8aae94d6d6a9ec1fa7d47f88874cce4f":[6,0,3746,8],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#aa333430da4cf3303822d5f048cb9d5a4":[6,0,3746,5],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#ac72434a046c28a4887971cf83d574a6e":[6,0,3746,1],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#ad7185292820feb168565648133c9e2cc":[6,0,3746,4],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[6,0,3746,6],
-"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[6,0,550,0]
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#aa333430da4cf3303822d5f048cb9d5a4":[6,0,3746,5]
 };

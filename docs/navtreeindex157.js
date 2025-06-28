@@ -1,8 +1,10 @@
 var NAVTREEINDEX157 =
 {
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,82,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,94,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,82,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,94,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,82,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,94,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,94,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,82,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2104,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de0/classgo__ethereum__stasis.html#ac36da8dccbebcaee605a878df3904c60":[6,0,1133,1],
 "d5/de0/classspell__yogg__saron__brain__link.html":[6,0,4006],
 "d5/de0/classspell__yogg__saron__brain__link.html#a599f604e872d3a5a4ed2b155caefdc9f":[6,0,4006,1],
-"d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[6,0,4006,2],
-"d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[6,0,4006,0],
-"d5/de1/classnpc__lord__arete.html":[6,0,1926]
+"d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[6,0,4006,2]
 };

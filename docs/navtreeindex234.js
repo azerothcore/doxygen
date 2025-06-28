@@ -1,5 +1,8 @@
 var NAVTREEINDEX234 =
 {
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fa51277f6e1373729773ae194a8fb0fcb1":[7,0,0,0,1,3,7,9,22,0],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fac7d8ac87bd6ca15acf462b0d6e08e98f":[7,0,0,0,1,3,7,9,22,1],
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3faccb8754885f33f1f372a36cf43b2c05a":[7,0,0,0,1,3,7,9,22,4],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a9fa2fa98716f9425976685b01fc9bd3fad5ea14b56cd83e83017fa73dc63a6b18":[7,0,0,0,1,3,7,9,22,3],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aaf4b2b8d646290a9472318e4df197fb7":[7,0,0,0,1,3,7,9,18],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aaf4b2b8d646290a9472318e4df197fb7a244e9a71b5bd2d8d5c171001590c1ea9":[7,0,0,0,1,3,7,9,18,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a38c4586095aeaf404914369ae5414351":[6,0,680,0,3],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a3c7c9a032233d381c942bbb29a4a39e9":[6,0,680,0,12],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a62e6b1482b2fa791813b9a5520a234e4":[6,0,680,0,2],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a765c041f412c4d20023b0cc435d4bc4f":[6,0,680,0,16],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a7e4fd2ad6735419b34484c46ec2ef421":[6,0,680,0,8],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a82d135980280477372324da270e3e6a1":[6,0,680,0,13],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a8da157b4da551b96f534ad80fcf2f8e1":[6,0,680,0,11]
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a765c041f412c4d20023b0cc435d4bc4f":[6,0,680,0,16]
 };

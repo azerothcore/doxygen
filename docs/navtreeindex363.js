@@ -1,5 +1,9 @@
 var NAVTREEINDEX363 =
 {
+"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa798d6a1b21d8558d1088ff3a8b29af":[7,0,0,0,1,3,2,16,2,2,2],
+"de/d89/classGridObjectUnloader.html":[6,0,1215],
+"de/d89/classGridObjectUnloader.html#a7624bb11d51edffdc49fc9a95df847ef":[6,0,1215,1],
+"de/d89/classGridObjectUnloader.html#ae01a3252ecf5083da0c5be5d4a845636":[6,0,1215,0],
 "de/d8c/classspell__sha__sentry__totem.html":[6,0,3760],
 "de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[6,0,3760,2],
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3760,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX363 =
 "de/d98/classspell__gen__teleporting.html":[6,0,2997],
 "de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[6,0,2997,1],
 "de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,2997,2],
-"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,2997,0],
-"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[6,0,2997,3],
-"de/d98/zone__shattrath__city_8cpp.html":[7,0,0,0,1,3,7,14],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b":[7,0,0,0,1,3,7,14,5],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba00f3861bb3a25b5cacacc8a9c6deccd7":[7,0,0,0,1,3,7,14,5,21]
+"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,2997,0]
 };

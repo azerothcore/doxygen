@@ -1,5 +1,9 @@
 var NAVTREEINDEX379 =
 {
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,5,40,6],
+"df/d2d/classachievement__thorim__lose__your__illusion.html":[6,0,94],
+"df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[6,0,94,1],
+"df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[6,0,94,0],
 "df/d2d/classgo__acherus__soul__prison.html":[6,0,1104],
 "df/d2d/classgo__acherus__soul__prison.html#a13c858f74080b8f7963fdacc4b554019":[6,0,1104,0],
 "df/d2d/classgo__acherus__soul__prison.html#a904059cbeac3ddb3acf07ec1afe78c37":[6,0,1104,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX379 =
 "df/d3d/classBfCapturePoint.html#a309a0c2b2f3c5696aef46bb7bdf4dade":[6,0,342,1],
 "df/d3d/classBfCapturePoint.html#a309d340d11c1712f5525438f31779671":[6,0,342,14],
 "df/d3d/classBfCapturePoint.html#a3620c3873aca6e90594a4ddc8345102d":[6,0,342,15],
-"df/d3d/classBfCapturePoint.html#a371349b157af4b8ecbacc8814f0bb2ec":[6,0,342,16],
-"df/d3d/classBfCapturePoint.html#a37792e377ac59c30e711a56239598da4":[6,0,342,24],
-"df/d3d/classBfCapturePoint.html#a3bc808408161740eed6185c049e1414b":[6,0,342,18],
-"df/d3d/classBfCapturePoint.html#a429037910b1a3108cdb753ba91230bf7":[6,0,342,2],
-"df/d3d/classBfCapturePoint.html#a53e231eae6e505a88e616244092a8ee6":[6,0,342,20]
+"df/d3d/classBfCapturePoint.html#a371349b157af4b8ecbacc8814f0bb2ec":[6,0,342,16]
 };

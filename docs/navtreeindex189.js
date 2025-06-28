@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d7/d46/classAuraEffect.html#ada88a03111d74054c088f900f619adf1":[6,0,281,155],
+"d7/d46/classAuraEffect.html#adbf214d5d4e3a9926d7809234f979ca4":[6,0,281,84],
 "d7/d46/classAuraEffect.html#adc38a016285e442a485c9b9bc17a6105":[6,0,281,200],
 "d7/d46/classAuraEffect.html#add3e6484132f5de2d6bfe76c0f2b21ae":[6,0,281,110],
 "d7/d46/classAuraEffect.html#adf85e6ba3ad0ec021f53683452002782":[6,0,281,85],
@@ -166,10 +168,10 @@ var NAVTREEINDEX189 =
 "d7/d4d/classachievement__everything__counts.html":[6,0,47],
 "d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,47,1],
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,47,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6":[7,0,0,0,1,2,6,1,2,0],
 "d7/d56/AutobroadcastMgr_8h.html#a34abff2dadcb74370b0749fe9fda3878":[7,0,0,0,1,2,6,1,1],
 "d7/d56/classnpc__kservant.html":[6,0,1908],
-"d7/d56/classnpc__kservant.html#a3ae7327ec2ead5a2d3ffb043f18ccc09":[6,0,1908,2],
-"d7/d56/classnpc__kservant.html#af04c8a87516e41f7d35071664034af9d":[6,0,1908,1],
-"d7/d56/classspell__brutallus__burn.html":[6,0,2676]
+"d7/d56/classnpc__kservant.html#a3ae7327ec2ead5a2d3ffb043f18ccc09":[6,0,1908,2]
 };

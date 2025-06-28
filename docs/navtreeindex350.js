@@ -1,5 +1,9 @@
 var NAVTREEINDEX350 =
 {
+"de/d0a/SharedDefines_8h.html#af1c66bfbd0322ba300c7dcafe61e3b34afd8114a3b6213c79b882a55da9911d98":[7,0,0,0,1,4,7,92,1],
+"de/d0a/SharedDefines_8h.html#af1c66bfbd0322ba300c7dcafe61e3b34afffa194c1e1059d6b745e0045d1ef8c8":[7,0,0,0,1,4,7,92,2],
+"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77":[7,0,0,0,1,4,7,84],
+"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a08c425290451901ef738ea6eead87a34":[7,0,0,0,1,4,7,84,3],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a09ba1fe5918663492ebfdee380abb78f":[7,0,0,0,1,4,7,84,0],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a55f0508293e66c80cf0a5e04a0fe464a":[7,0,0,0,1,4,7,84,4],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a9561b292a8d7dc1ee6d11b0d5198caed":[7,0,0,0,1,4,7,84,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX350 =
 "de/d0a/unionkeyData.html":[6,0,1392],
 "de/d0a/unionkeyData.html#a0518eb4b0a91697500a5a370068425a8":[6,0,1392,3],
 "de/d0a/unionkeyData.html#a08efba5e78b64fef020453f689bcc5f0":[6,0,1392,4],
-"de/d0a/unionkeyData.html#a36edc530bfb803c2f122e6758d20193a":[6,0,1392,5],
-"de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319":[6,0,1392,0],
-"de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[6,0,1392,1],
-"de/d0a/unionkeyData.html#ad0213e5de805b0decb4730efa2d412e0":[6,0,1392,2],
-"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3373]
+"de/d0a/unionkeyData.html#a36edc530bfb803c2f122e6758d20193a":[6,0,1392,5]
 };

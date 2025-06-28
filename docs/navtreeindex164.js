@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d6/d13/zone__dalaran_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0ad18a3d323f68c8ee51b4061da22720":[7,0,0,0,1,3,5,17,22,1],
+"d6/d13/zone__dalaran_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5f3523e1dc1d06f1951752e40a4e6248":[7,0,0,0,1,3,5,17,22,6],
 "d6/d13/zone__dalaran_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a78dfd5674490567c844b4dc67e370aca":[7,0,0,0,1,3,5,17,22,3],
 "d6/d13/zone__dalaran_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8271bf723a74d49c9a4cf81f134cf956":[7,0,0,0,1,3,5,17,22,5],
 "d6/d13/zone__dalaran_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,5,17,22,7],
@@ -88,12 +90,12 @@ var NAVTREEINDEX164 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1338,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,30,5,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,11,5,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,5,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,30,5,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,5,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,30,5,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,30,5,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,5,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,30,5,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,30,5,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,11,5,42,1],
 "d6/d18/classModel.html":[6,0,1506],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a8bb40dbb1615c6916fb274903c4cf952":[7,0,0,0,1,3,5,2,0,2,14,6],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ab2d1a580d78c3aa60cdbe6ef0461eb4d":[7,0,0,0,1,3,5,2,0,2,14,13],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9acb7104c78bebbf26c8e32bcfb8e02580":[7,0,0,0,1,3,5,2,0,2,14,18],
-"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9addda73d265e7f09f934c6ffba855bf33":[7,0,0,0,1,3,5,2,0,2,14,17],
-"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ae21692826391ca3771b01e0bddcac39f":[7,0,0,0,1,3,5,2,0,2,14,12],
-"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9af8ddef8d32d3d246d988fd478be05700":[7,0,0,0,1,3,5,2,0,2,14,4]
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9addda73d265e7f09f934c6ffba855bf33":[7,0,0,0,1,3,5,2,0,2,14,17]
 };

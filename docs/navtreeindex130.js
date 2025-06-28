@@ -1,5 +1,7 @@
 var NAVTREEINDEX130 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a7a1fcc392203156fa5f0c7b50574bf44":[7,0,0,0,1,3,5,2,1,1,35,5],
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a89249acef2d72d2d2cefbd270ca8d5e6":[7,0,0,0,1,3,5,2,1,1,35,1],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a96d97a670ed17a7b9f6f00cba80d1f43":[7,0,0,0,1,3,5,2,1,1,35,7],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124ab55c0e246afb46a9c3feb1a24b9735db":[7,0,0,0,1,3,5,2,1,1,35,0],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124abcfceb9776fee2423d4c06cb12c6a157":[7,0,0,0,1,3,5,2,1,1,35,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2131,2],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html":[6,0,609,0],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a0dca07b45b3293a0f19401b299fbfb9c":[6,0,609,0,2],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a1037b770bb46400aef0ec034f86468fc":[6,0,609,0,12],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100":[6,0,609,0,15],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a2b2267e3d7be6d16ffab031d2cb4a1a6":[6,0,609,0,10]
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a1037b770bb46400aef0ec034f86468fc":[6,0,609,0,12]
 };

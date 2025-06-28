@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d9/d9b/classHostileReference.html#a8c708097d72791957ffc93f4d0fcb742":[6,0,1263,22],
+"d9/d9b/classHostileReference.html#a903ebdbbba9a065b38b264ef3c3ac2e9":[6,0,1263,1],
+"d9/d9b/classHostileReference.html#a948e59c8e80f03305ea6272e5e2eaf61":[6,0,1263,15],
 "d9/d9b/classHostileReference.html#aa30a4bca79e58f1bf6f9c64f5092dc89":[6,0,1263,17],
 "d9/d9b/classHostileReference.html#aabdc142e65df7b7dac22a0ac7afb62db":[6,0,1263,0],
 "d9/d9b/classHostileReference.html#ab559a9c9994a6ca830a0a76f5a6507e6":[6,0,1263,20],
@@ -19,16 +22,16 @@ var NAVTREEINDEX240 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8":[7,0,0,0,1,3,2,32,4],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798":[7,0,0,0,1,3,2,32,4,0],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[7,0,0,0,1,3,2,32,5],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[6,0,11,5,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,30,5,46],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[6,0,11,5,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,30,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,11,5,46,2],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,11,5,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,30,5,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,11,5,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,30,5,46,0],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[6,0,11,5,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,30,5,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[6,0,11,5,46,3],
 "d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[7,0,0,0,1,3,0,0,1],
 "d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2047],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0]
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1]
 };

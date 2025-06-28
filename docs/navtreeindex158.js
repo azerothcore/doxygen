@@ -1,5 +1,7 @@
 var NAVTREEINDEX158 =
 {
+"d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[6,0,4006,0],
+"d5/de1/classnpc__lord__arete.html":[6,0,1926],
 "d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[6,0,1926,2],
 "d5/de1/classnpc__lord__arete.html#a929e3f3346bf4dbaee127463eaf4ffcc":[6,0,1926,1],
 "d5/de1/structboss__alythess.html":[6,0,368],
@@ -247,7 +249,5 @@ var NAVTREEINDEX158 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ef4c05d92ca7ef9a466badf63c562b1":[7,0,0,0,1,3,5,5,4,5,3],
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298ca853f33ee04095aefe635912a3a1da67f":[7,0,0,0,1,3,5,5,4,5,2],
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298ca964bb915b1c413660ead827cc5804ac9":[7,0,0,0,1,3,5,5,4,5,1],
-"d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
-"d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
-"d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8]
+"d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX183 =
 {
+"d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa482cf639262e991028f367a08410abf":[7,0,0,0,1,3,2,16,12,2,0],
+"d6/dfc/boss__wushoolay_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab6658649bf3ce20580c9b58afaa7e3ca":[7,0,0,0,1,3,2,16,12,2,2],
 "d6/dfc/classnpc__mindless__ghoul.html":[6,0,1959],
 "d6/dfc/classnpc__mindless__ghoul.html#ac5a087aa742827dc8eb0f3dc195920ec":[6,0,1959,2],
 "d6/dfc/classnpc__mindless__ghoul.html#ac5bf71e719c0df04687f426a022fd65e":[6,0,1959,1],
@@ -147,16 +149,16 @@ var NAVTREEINDEX183 =
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,107],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,95],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,1,107,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,95,0],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,107,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,95,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,95,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,107,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,95,2],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[6,0,2284,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[6,0,2284,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[6,0,2284,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d0c/classspell__warl__haunt.html#a46fe3d7ebd663d1cb27aa473a56e81eb":[6,0,3942,2],
 "d7/d0c/classspell__warl__haunt.html#ac16ef2ff92440deab6c69f4824bdd619":[6,0,3942,1],
 "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html":[6,0,1587,0],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a1982ce33ce76e15d33bfcc222f5ad734":[6,0,1587,0,0],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a2f7cbaf81e159035476ee9576a0e3990":[6,0,1587,0,7],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a3b548e629d2c6217f21644136ca7ba4b":[6,0,1587,0,1]
+"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a1982ce33ce76e15d33bfcc222f5ad734":[6,0,1587,0,0]
 };

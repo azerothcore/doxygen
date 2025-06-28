@@ -16,7 +16,7 @@ var AccountMgr_8h =
     [ "ChangePassword", "de/dd9/AccountMgr_8h.html#a6a9cb892c15d78b5de65738005234ff6", null ],
     [ "ChangeUsername", "de/dd9/AccountMgr_8h.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
     [ "CheckPassword", "de/dd9/AccountMgr_8h.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
+    [ "CreateAccount", "de/dd9/AccountMgr_8h.html#a761f39260d15a979ce0214f212b936b7", null ],
     [ "DeleteAccount", "de/dd9/AccountMgr_8h.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
     [ "GetCharactersCount", "de/dd9/AccountMgr_8h.html#a4fb760897161c3d463f842b28bcf7c20", null ],
     [ "GetId", "de/dd9/AccountMgr_8h.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX246 =
 {
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX246 =
 "da/d10/classWMORoot.html#a2442113c758362dd5b8da9ceb8d355ae":[6,0,4249,13],
 "da/d10/classWMORoot.html#a25b1d2531c61ae7cf883642f5c5f2ee7":[6,0,4249,14],
 "da/d10/classWMORoot.html#a3c10106f8ded86f5e889c99c93dc385a":[6,0,4249,2],
-"da/d10/classWMORoot.html#a518adad011f480154a786503224aff0f":[6,0,4249,4],
-"da/d10/classWMORoot.html#a73a8d2c858db5e144f163ece74a9d295":[6,0,4249,12],
-"da/d10/classWMORoot.html#a787748c52305b52fb65776df51b4c017":[6,0,4249,17],
-"da/d10/classWMORoot.html#a8ef5c36dfab76a6baf633a0f6dbe5449":[6,0,4249,7]
+"da/d10/classWMORoot.html#a518adad011f480154a786503224aff0f":[6,0,4249,4]
 };

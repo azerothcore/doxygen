@@ -1,5 +1,7 @@
 var NAVTREEINDEX153 =
 {
+"d5/db2/BattlegroundWS_8h.html#a29059eb2d46fa5c2398a2ee393c1ad0aade5a2c8385638165501d495eacd74843":[7,0,0,0,1,2,8,1,21,9,17],
+"d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4b":[7,0,0,0,1,2,8,1,21,11],
 "d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4ba30d91497534a00b1cf56f40bbc5ca40d":[7,0,0,0,1,2,8,1,21,11,5],
 "d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4ba3ff5e866002dc9c96e76b65bd922c110":[7,0,0,0,1,2,8,1,21,11,0],
 "d5/db2/BattlegroundWS_8h.html#a3c368811f9c49f0276a9d115a8672d4ba4b20bb1716673783e705f88c13be66c3":[7,0,0,0,1,2,8,1,21,11,7],
@@ -229,8 +231,8 @@ var NAVTREEINDEX153 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4235,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,30,5,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,30,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,30,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,30,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,30,5,38,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX153 =
 "d5/db7/classboss__grobbulus__poison__cloud.html#a34c68dd3e58b83c52f270eb1b194f2ed":[6,0,509,2],
 "d5/db8/classLootItemStorage.html":[6,0,1445],
 "d5/db8/classLootItemStorage.html#a36faeed6ef556fd13118c4ad34e38548":[6,0,1445,1],
-"d5/db8/classLootItemStorage.html#a377c75f9d06eb246072b29d19baf2b62":[6,0,1445,4],
-"d5/db8/classLootItemStorage.html#a414dee93f9852a64f01f9d9bf8dc8b40":[6,0,1445,7],
-"d5/db8/classLootItemStorage.html#a4c463773b50ae1b312865fbf72dfed18":[6,0,1445,2]
+"d5/db8/classLootItemStorage.html#a377c75f9d06eb246072b29d19baf2b62":[6,0,1445,4]
 };

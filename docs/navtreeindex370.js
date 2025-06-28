@@ -1,5 +1,9 @@
 var NAVTREEINDEX370 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,1,2,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
@@ -227,7 +231,7 @@ var NAVTREEINDEX370 =
 "de/dd9/AccountMgr_8h.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,0,0,1,2,0,1,10],
 "de/dd9/AccountMgr_8h.html#a63751f144cb7acb57fc20f0caf5e7043":[7,0,0,0,1,2,0,1,17],
 "de/dd9/AccountMgr_8h.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,0,0,1,2,0,1,5],
-"de/dd9/AccountMgr_8h.html#a7a7668ab60ae56c7e71fce77780bb214":[7,0,0,0,1,2,0,1,8],
+"de/dd9/AccountMgr_8h.html#a761f39260d15a979ce0214f212b936b7":[7,0,0,0,1,2,0,1,8],
 "de/dd9/AccountMgr_8h.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,0,0,1,2,0,1,16],
 "de/dd9/AccountMgr_8h.html#a8280510b2564ec6ea76727218c1687b3":[7,0,0,0,1,2,0,1,13],
 "de/dd9/AccountMgr_8h.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,0,0,1,2,0,1,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX370 =
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html":[6,0,708,0],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a001f8b206f0d00fff77e964f49cbdb58":[6,0,708,0,2],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a0f207b2a274c7266f6882205e510f346":[6,0,708,0,3],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a21d891d8f8f6fa89b1f1883800d8d578":[6,0,708,0,7],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8":[6,0,708,0,4],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a5a0a92144412259bfa02abc04bdc4425":[6,0,708,0,5],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a8085a615ff5d252452616ef69dfd3249":[6,0,708,0,11],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a9544ce38a210da1ac867d5cabf9ffbec":[6,0,708,0,6]
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a21d891d8f8f6fa89b1f1883800d8d578":[6,0,708,0,7]
 };

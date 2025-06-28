@@ -1,5 +1,8 @@
 var NAVTREEINDEX272 =
 {
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[7,0,0,0,1,3,5,12,3,3,0],
+"db/d1d/structboss__ouro.html":[6,0,646],
+"db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[6,0,646,12],
 "db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,646,14],
 "db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,646,7],
 "db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,646,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX272 =
 "db/d30/classPlayerDumpReader.html":[6,0,2397],
 "db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2397,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2397,3],
-"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2397,0],
-"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2397,2],
-"db/d30/structboss__hydromancer__thespia.html":[6,0,537],
-"db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[6,0,537,0]
+"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2397,0]
 };

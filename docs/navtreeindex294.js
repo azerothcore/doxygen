@@ -1,5 +1,8 @@
 var NAVTREEINDEX294 =
 {
+"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,3977,3],
+"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a357c8a07f912c6efb55a13cc9bc089b9":[7,0,0,0,1,2,45,1,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX294 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a6613931f6211979d8c627c9c5cd8dea2":[6,0,608,0,8],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a6f8d8ec25b9d3acedd7c70f0a9f04a8a":[6,0,608,0,0],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a9ec26485d72ccf8e97120756f14161c3":[6,0,608,0,18],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#aa3f7fd4e97351335ba6b0d90f76659d5":[6,0,608,0,7],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab49276a5703a35d4271141368c9b6fcb":[6,0,608,0,14],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab959171061519d41998dc9a7e76f3a60":[6,0,608,0,4],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#acee6055640b8f2d51fe13d46f383ebc0":[6,0,608,0,10]
+"db/dfc/structboss__malygos_1_1boss__malygosAI.html#aa3f7fd4e97351335ba6b0d90f76659d5":[6,0,608,0,7]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX353 =
 {
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a66ea56e856fcc706e4f938512def1590":[6,0,2215,0,2],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2215,0,3],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a7927f399ef1c89b3eb83804fde9b2700":[6,0,2215,0,6],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aa814a46a45ce5eb9696c8f6c6de8c521":[6,0,2215,0,7],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aaf35c04462b1698e85df64190f4e2c8a":[6,0,2215,0,5],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#ac4677898f5612c01d98ab242c7628e8f":[6,0,2215,0,10],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#acbbe6667360e5bb7576c1ea741c2e2f1":[6,0,2215,0,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX353 =
 "de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee":[5,0,23,3],
 "de/d2d/namespaceObjectAccessor.html#abe7c8995443541417f52b00973dbde6f":[5,0,23,8],
 "de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22],
-"de/d2d/namespaceObjectAccessor.html#ade254f98439319c444ce701c75d4f93a":[5,0,23,20],
-"de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
-"de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
-"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3813]
+"de/d2d/namespaceObjectAccessor.html#ade254f98439319c444ce701c75d4f93a":[5,0,23,20]
 };

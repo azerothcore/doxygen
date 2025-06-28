@@ -1,5 +1,7 @@
 var NAVTREEINDEX178 =
 {
+"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a2e5c7511cce7dd0ff27e13cda9807928":[6,0,485,0,4],
+"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a34a0cacc52749bd1146fcb779d006b3b":[6,0,485,0,0],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a6f62f62ffa1c06baa2649901f02d13dc":[6,0,485,0,6],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a92139ad3720ba662f87c0b55ac77dbeb":[6,0,485,0,2],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a96e1a262f368ab0f6885e955133b7ae8":[6,0,485,0,3],
@@ -226,10 +228,10 @@ var NAVTREEINDEX178 =
 "d6/dc2/classFileLoader.html":[6,0,1035],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1035,3],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1035,1],
-"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1035,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1035,10],
-"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1035,9],
+"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1035,11],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1035,8],
+"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1035,9],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1035,15],
 "d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee":[6,0,1035,16],
 "d6/dc2/classFileLoader.html#a498a33d80768843b4ab1ff2d5ffe68d9":[6,0,1035,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dc2/classspell__item__gnomish__shrink__ray.html":[6,0,3216],
 "d6/dc2/classspell__item__gnomish__shrink__ray.html#a754fcf618f53b4b17c2bcae4740e561f":[6,0,3216,2],
 "d6/dc2/classspell__item__gnomish__shrink__ray.html#a7b56d07d46647a2790553d40e75da79d":[6,0,3216,0],
-"d6/dc2/classspell__item__gnomish__shrink__ray.html#aad36c108f4531c19ba552064ba0d3248":[6,0,3216,1],
-"d6/dc3/classspell__mana__burn__area.html":[6,0,3397],
-"d6/dc3/classspell__mana__burn__area.html#aa60cc00f33e329fe8d010c0e1c00989a":[6,0,3397,1]
+"d6/dc2/classspell__item__gnomish__shrink__ray.html#aad36c108f4531c19ba552064ba0d3248":[6,0,3216,1]
 };

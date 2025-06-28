@@ -1,5 +1,8 @@
 var NAVTREEINDEX201 =
 {
+"d7/db0/classMap.html#a9df5e6451530163b635614d5c8464e88":[6,0,1469,266],
+"d7/db0/classMap.html#aa1d73675f684b9d9fc97546dbab73572":[6,0,1469,171],
+"d7/db0/classMap.html#aa1dddc6cf8d835c384f24136890a5e14":[6,0,1469,41],
 "d7/db0/classMap.html#aa2e9f4255501666b3a8a081d0f09766c":[6,0,1469,10],
 "d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f":[6,0,1469,245],
 "d7/db0/classMap.html#aa3d558c784b397ed6d50e1b0524900d8":[6,0,1469,14],
@@ -232,8 +235,8 @@ var NAVTREEINDEX201 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[5,0,1,72],
 "d7/db4/structAcore_1_1has__type.html":[6,0,0,60],
+"d7/db4/structAcore_1_1has__type.html":[5,0,1,72],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3636],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3636,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3636,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX201 =
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a8b9b632e2e26ef8d0e8c122d28530e81":[6,0,1802,0,0],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#abc0dd71bbaf85786f34367acc3a849e9":[6,0,1802,0,1],
 "d7/db6/OpenSSLCrypto_8h.html":[7,0,0,0,0,3,16],
-"d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[7,0,0,0,0,3,16,1],
-"d7/db6/OpenSSLCrypto_8h.html#af868d9171650614810772c5675c47fd3":[7,0,0,0,0,3,16,0],
-"d7/db6/structAISpellInfoType.html":[6,0,142],
-"d7/db6/structAISpellInfoType.html#a3b6d2057522e7b79c87a16d4b9cced98":[6,0,142,0]
+"d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[7,0,0,0,0,3,16,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX293 =
 {
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5":[7,0,0,0,1,3,2,26,3,4],
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5":[7,0,0,0,1,3,2,26,3,5],
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2":[7,0,0,0,1,3,2,26,3,8],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8":[7,0,0,0,1,3,2,26,3,6],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e":[7,0,0,0,1,3,2,26,3,7],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0":[7,0,0,0,1,3,2,26,3,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX293 =
 "db/df9/classspell__warr__overpower.html":[6,0,3977],
 "db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[6,0,3977,2],
 "db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,3977,1],
-"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,3977,0],
-"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,3977,3],
-"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10]
+"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,3977,0]
 };

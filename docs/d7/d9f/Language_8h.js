@@ -277,6 +277,7 @@ var Language_8h =
       [ "LANG_COMMAND_WHISPERON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaa866a444ff20dddaf71075d5505dfdfb", null ],
       [ "LANG_COMMAND_WHISPEROFF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa41e745f29bf86f1078242e702499fbbc", null ],
       [ "LANG_COMMAND_CREATGUIDNOTFOUND", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab94042b2219d086fed66ffb032035356", null ],
+      [ "LANG_COMMAND_GONOTENOUGHSPAWNS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad5659d35db4586d345ad66b39fa47c37", null ],
       [ "LANG_COMMAND_WANDER_DISTANCE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab4a470d99949739693efc2a33cc6e85c", null ],
       [ "LANG_COMMAND_SPAWNTIME", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9cb2c3ba7db85eacfbade05648ee4b5a", null ],
       [ "LANG_COMMAND_MODIFY_HONOR", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6f76068be7db73e3a9bcb57b4192aa33", null ],

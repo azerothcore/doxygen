@@ -1,5 +1,9 @@
 var NAVTREEINDEX323 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ac72434a046c28a4887971cf83d574a6e":[6,0,3746,1],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ad7185292820feb168565648133c9e2cc":[6,0,3746,4],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[6,0,3746,6],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[6,0,550,0],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a38e308b66b0f35d3efe6916b03e4391c":[6,0,550,0,5],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a6d60480e39fa89dbcc0facce9f0b69a3":[6,0,550,0,1],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a7880ea86e7a03f5b14875065a83a206a":[6,0,550,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d5a/structBfWGGameObjectBuilding.html#aa0783e3ed8e86d3e1761d6a790211c7e":[6,0,346,7],
 "dd/d5a/structBfWGGameObjectBuilding.html#aa503519e630d9b12db5a2d42667dd757":[6,0,346,9],
 "dd/d5a/structBfWGGameObjectBuilding.html#ab2f22ba682800ff54f961b2343770907":[6,0,346,5],
-"dd/d5a/structBfWGGameObjectBuilding.html#aba34ec3fca7faafd5f6dbd51bd03daf5":[6,0,346,16],
-"dd/d5a/structBfWGGameObjectBuilding.html#ac66ae383f2029fe0b0190f1a6beb935c":[6,0,346,12],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae40fdca69431e761daad935cf8130df3":[6,0,346,6],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae48e5946636b67fea33a6313329b4725":[6,0,346,8],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae770e04de54fd1a425a78bb30f57d02e":[6,0,346,18]
+"dd/d5a/structBfWGGameObjectBuilding.html#aba34ec3fca7faafd5f6dbd51bd03daf5":[6,0,346,16]
 };

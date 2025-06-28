@@ -1,5 +1,8 @@
 var NAVTREEINDEX222 =
 {
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a844de7ae64876d1f9b3b4df6afe6794a":[7,0,0,0,1,3,5,7,4,17,7],
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9f2d1ca124ea572b3ea9dc6accd181ff":[7,0,0,0,1,3,5,7,4,17,2],
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad0b9cff696dae9b6e077a24890e6ff5d":[7,0,0,0,1,3,5,7,4,17,3],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae92944fb440117afcd021f6a88af9fec":[7,0,0,0,1,3,5,7,4,17,8],
 "d8/db8/boss__gothik_8cpp.html#a36dd2dcd82dce77b90fe66cd9862e5c9":[7,0,0,0,1,3,5,7,4,10],
 "d8/db8/boss__gothik_8cpp.html#a50ca23107e82069ed4f1ea9cd0fab890":[7,0,0,0,1,3,5,7,4,19],
@@ -246,8 +249,5 @@ var NAVTREEINDEX222 =
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,1,8,0,10,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[6,0,0,5,0,10,0],
 "d8/dbf/structLFGDungeonEntry.html":[6,0,1404],
-"d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[6,0,1404,8],
-"d8/dbf/structLFGDungeonEntry.html#a2e6456d16cce98666b0ac63cebf0eb82":[6,0,1404,10],
-"d8/dbf/structLFGDungeonEntry.html#a4e8689fabe6b3ef5c495bf84fa1945b7":[6,0,1404,0],
-"d8/dbf/structLFGDungeonEntry.html#a5bbacc248aa127b889d60b3a25b12b83":[6,0,1404,2]
+"d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[6,0,1404,8]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX227 =
 {
+"d8/def/PlayerCommand_8h.html":[7,0,0,0,1,3,0,49],
+"d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,49,0],
+"d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,49,1],
 "d8/df0/classat__lady__deathwhisper__entrance.html":[6,0,229],
 "d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[6,0,229,0],
 "d8/df0/classat__lady__deathwhisper__entrance.html#a769c838c94a88af5492057909d88f3de":[6,0,229,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX227 =
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[7,0,0,0,1,3,2,16,6,8,5],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298cadf1ad63daf979b5f4480e6b2dc8aa586":[7,0,0,0,1,3,2,16,6,8,7],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caefc5f218ab9a404b2aab3af0a7d7c29f":[7,0,0,0,1,3,2,16,6,8,9],
-"d8/dfd/boss__jindo_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[7,0,0,0,1,3,2,16,6,9],
-"d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,2,16,6,7],
-"d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,16,6,7,0],
-"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,6,6]
+"d8/dfd/boss__jindo_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[7,0,0,0,1,3,2,16,6,9]
 };

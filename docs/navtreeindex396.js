@@ -1,5 +1,9 @@
 var NAVTREEINDEX396 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#a8ac6afe40e5b86c27ac01fa8f872a832":[6,0,11,12,22],
+"df/dd9/classWorldPackets_1_1Array.html#a8ac6afe40e5b86c27ac01fa8f872a832":[5,0,30,12,22],
+"df/dd9/classWorldPackets_1_1Array.html#a8cf213a45cc881f9486a730dd18d0a92":[6,0,11,12,16],
+"df/dd9/classWorldPackets_1_1Array.html#a8cf213a45cc881f9486a730dd18d0a92":[5,0,30,12,16],
 "df/dd9/classWorldPackets_1_1Array.html#a974cea46868d70d22b04745d92a1860f":[5,0,30,12,20],
 "df/dd9/classWorldPackets_1_1Array.html#a974cea46868d70d22b04745d92a1860f":[6,0,11,12,20],
 "df/dd9/classWorldPackets_1_1Array.html#aa48bde3281324c7dc98f43f37ba96266":[5,0,30,12,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX396 =
 "df/ddb/structviolet__hold__trashAI.html#ae98d0cd977d59cbfe567fa6e294cde7e":[6,0,4201,7],
 "df/ddc/classTaskScheduler.html":[6,0,4105],
 "df/ddc/classTaskScheduler.html#a0254703c6e20f5214682fbad8f96dcb2":[6,0,4105,22],
-"df/ddc/classTaskScheduler.html#a05c6f74e1be5aa699988908b3151b901":[6,0,4105,35],
-"df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4":[6,0,4105,18],
-"df/ddc/classTaskScheduler.html#a0c6c7a95026322208866b6b829e0b598":[6,0,4105,11],
-"df/ddc/classTaskScheduler.html#a0d12cd444cf5319cc2a22fce53158cdc":[6,0,4105,33],
-"df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830":[6,0,4105,40]
+"df/ddc/classTaskScheduler.html#a05c6f74e1be5aa699988908b3151b901":[6,0,4105,35]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX369 =
 {
+"de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[6,0,1202,1],
+"de/db5/QueryHolder_8cpp.html":[7,0,0,0,1,1,0,26],
+"de/db5/classBattlegroundDS.html":[6,0,317],
+"de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[6,0,317,0],
 "de/db5/classBattlegroundDS.html#a0c7a45aa22e390d2760bf32720435d5e":[6,0,317,1],
 "de/db5/classBattlegroundDS.html#a32490dab9fd8ea9ae9afd8cf66feb087":[6,0,317,9],
 "de/db5/classBattlegroundDS.html#a57cfca32a361d43f19163dc6e7408e96":[6,0,317,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX369 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,1,2,3,5],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,1,2,3,5]
 };

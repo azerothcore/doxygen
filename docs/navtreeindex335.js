@@ -1,5 +1,9 @@
 var NAVTREEINDEX335 =
 {
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c":[7,0,0,0,1,3,5,1,1,2,30,9],
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe3f4e5024f3adf2886f39c3c72e465e":[7,0,0,0,1,3,5,1,1,2,30,3],
+"dd/dd6/classachievement__wg__didnt__stand__a__chance.html":[6,0,99],
+"dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[6,0,99,1],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[6,0,99,0],
 "dd/dd6/classcharacter__commandscript.html":[6,0,846],
 "dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,846,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX335 =
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa96638050468cdc99f580bad067c1d23e":[7,0,0,0,1,3,5,19,32,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aae8e535ff3425a55b5f81bab068fcfb3b":[7,0,0,0,1,3,5,19,32,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111":[7,0,0,0,1,3,5,19,40],
-"dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2":[7,0,0,0,1,3,5,19,40,0],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8ca":[7,0,0,0,1,3,5,19,33],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa082c55dac60e1f7decc47914ff323ecb":[7,0,0,0,1,3,5,19,33,3],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa87dd31147530587136b5ad9170479572":[7,0,0,0,1,3,5,19,33,4],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa9612c8f571f4554fb83167760aff32b1":[7,0,0,0,1,3,5,19,33,5]
+"dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2":[7,0,0,0,1,3,5,19,40,0]
 };

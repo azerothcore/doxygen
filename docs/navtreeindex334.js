@@ -1,5 +1,9 @@
 var NAVTREEINDEX334 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298caa6905d5514708837b348a7ed22d7a8c1":[7,0,0,0,1,3,5,0,1,1,6,8],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298cae718d7606fc2054f360525e4d0a79d28":[7,0,0,0,1,3,5,0,1,1,6,7],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298caea555c845f3f26ed8bc1ebe038183bc8":[7,0,0,0,1,3,5,0,1,1,6,1],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298caeee8384ab18b0de6b9c4ad5f644167f0":[7,0,0,0,1,3,5,0,1,1,6,3],
 "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298cafff07954e683aae247905bb323547607":[7,0,0,0,1,3,5,0,1,1,6,10],
 "dd/dd2/boss__anubarak_8cpp.html#a5d4091bcfbd7a0aa2b0ff0ef4c49466f":[7,0,0,0,1,3,5,0,1,1,8],
 "dd/dd2/classspell__azgalor__doom.html":[6,0,2613],
@@ -245,9 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acccc10750650899f49717b32461f8572":[7,0,0,0,1,3,5,1,1,2,30,10],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,1,1,2,30,1],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc65d63f8314014fe67d0ed998bf552e":[7,0,0,0,1,3,5,1,1,2,30,19],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8":[7,0,0,0,1,3,5,1,1,2,30,20],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c":[7,0,0,0,1,3,5,1,1,2,30,9],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe3f4e5024f3adf2886f39c3c72e465e":[7,0,0,0,1,3,5,1,1,2,30,3],
-"dd/dd6/classachievement__wg__didnt__stand__a__chance.html":[6,0,99],
-"dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[6,0,99,1]
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8":[7,0,0,0,1,3,5,1,1,2,30,20]
 };

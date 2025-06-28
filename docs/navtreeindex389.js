@@ -1,5 +1,9 @@
 var NAVTREEINDEX389 =
 {
+"df/da7/classBattleground.html#abe08bc432962f1a5f32e0948ae23104d":[6,0,310,105],
+"df/da7/classBattleground.html#abe4a32d5328b63c60b2363c57678d352":[6,0,310,96],
+"df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,310,157],
+"df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,310,226],
 "df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,310,16],
 "df/da7/classBattleground.html#ac3f9a4369413692efa8bfc5a4c73df47":[6,0,310,181],
 "df/da7/classBattleground.html#ac781c38088ff24a56723d4c8d60dca94":[6,0,310,108],
@@ -245,9 +249,5 @@ var NAVTREEINDEX389 =
 "df/db7/classspell__pal__exorcism__and__holy__wrath__damage.html#ae49a0ec525819981595c12839133a35b":[6,0,3483,2],
 "df/db7/the__underbog_8h.html":[7,0,0,0,1,3,7,2,3,5],
 "df/db7/the__underbog_8h.html#a09ffaab12963df9ee8d5a357e7a9bc3a":[7,0,0,0,1,3,7,2,3,5,4],
-"df/db7/the__underbog_8h.html#a24cc288d0c5acfb5a07d7ea975070ee3":[7,0,0,0,1,3,7,2,3,5,1],
-"df/db7/the__underbog_8h.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,7,2,3,5,3],
-"df/db7/the__underbog_8h.html#a6986ec7b2d3274669934af9795f26d5ca4c9741a2689d39ebbdbcdb4c62af6a51":[7,0,0,0,1,3,7,2,3,5,3,0],
-"df/db7/the__underbog_8h.html#a6986ec7b2d3274669934af9795f26d5cadbdc51501c67d1a7a538089511849597":[7,0,0,0,1,3,7,2,3,5,3,2],
-"df/db7/the__underbog_8h.html#a6986ec7b2d3274669934af9795f26d5cae2a004a214013d7bcbb198034ba1663c":[7,0,0,0,1,3,7,2,3,5,3,1]
+"df/db7/the__underbog_8h.html#a24cc288d0c5acfb5a07d7ea975070ee3":[7,0,0,0,1,3,7,2,3,5,1]
 };

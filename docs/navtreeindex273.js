@@ -1,5 +1,8 @@
 var NAVTREEINDEX273 =
 {
+"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2397,2],
+"db/d30/structboss__hydromancer__thespia.html":[6,0,537],
+"db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[6,0,537,0],
 "db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[6,0,537,1],
 "db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[6,0,537,3],
 "db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[6,0,537,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "db/d41/structnpc__sentinel__leader.html#a803c324e790cd74e90ff6c2adde37ba3":[6,0,2090,6],
 "db/d41/structnpc__sentinel__leader.html#a92c83a7fcc04df1db3be1d16f4a461d0":[6,0,2090,1],
 "db/d41/structnpc__sentinel__leader.html#aa689bb8189eb8cf842a0aa63bb9f1a73":[6,0,2090,4],
-"db/d41/structnpc__sentinel__leader.html#ad638ba6ce33753af6a0165c053a90d78":[6,0,2090,3],
-"db/d41/structnpc__sentinel__leader.html#ada65bdf153ae9b3262b0f55fb540be17":[6,0,2090,5],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html":[6,0,3869],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a2ae927358c2480aecd18c1f3c2e6c1c7":[6,0,3869,1]
+"db/d41/structnpc__sentinel__leader.html#ad638ba6ce33753af6a0165c053a90d78":[6,0,2090,3]
 };

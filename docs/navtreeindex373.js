@@ -1,5 +1,9 @@
 var NAVTREEINDEX373 =
 {
+"de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[5,0,30,19,3],
+"de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[6,0,11,19,3],
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,11,19,8],
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[5,0,30,19,8],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,11,19,7],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,30,19,7],
 "de/df9/classnpc__lk__wicked__spirit.html":[6,0,1922],
@@ -245,9 +249,5 @@ var NAVTREEINDEX373 =
 "df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[6,0,3126,1],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[6,0,3126,3],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[6,0,3126,0],
-"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[6,0,3126,2],
-"df/d10/structMailLevelReward.html":[6,0,1461],
-"df/d10/structMailLevelReward.html#a2b678ac953209691b38d583cffab55b5":[6,0,1461,4],
-"df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[6,0,1461,3],
-"df/d10/structMailLevelReward.html#a3e98aa5c30b0b5648784f9aaf5349a76":[6,0,1461,1]
+"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[6,0,3126,2]
 };

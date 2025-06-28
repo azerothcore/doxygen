@@ -1,5 +1,9 @@
 var NAVTREEINDEX398 =
 {
+"df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[6,0,3438,2],
+"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[6,0,3438,0],
+"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[6,0,3438,1],
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[6,0,2076,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[6,0,2076,0,1],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[6,0,2076,0,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[6,0,2076,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX398 =
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ac617b5511beacd7b98d0e9ae8773e7dc":[6,0,399,0,17],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aca37d322e154ae01ceb4e96b3b42d5d0":[6,0,399,0,21],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#acb939a02a912d1db13947a939f4c554c":[6,0,399,0,5],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aebb53f7599dd3a55953946b7cc9e76d6":[6,0,399,0,8],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#af808b2b543ea9b27b4b03d0e561fb90e":[6,0,399,0,20],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#afb02799e3fad05e2e0d48ea5b3be7526":[6,0,399,0,4],
-"df/df5/BattlefieldMgr_8cpp.html":[7,0,0,0,1,2,7,4],
-"df/df5/structboss__nefarian.html":[6,0,633]
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aebb53f7599dd3a55953946b7cc9e76d6":[6,0,399,0,8]
 };

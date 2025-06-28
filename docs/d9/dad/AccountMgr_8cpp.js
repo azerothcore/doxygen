@@ -4,7 +4,7 @@ var AccountMgr_8cpp =
     [ "ChangePassword", "d9/dad/AccountMgr_8cpp.html#a6a9cb892c15d78b5de65738005234ff6", null ],
     [ "ChangeUsername", "d9/dad/AccountMgr_8cpp.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
     [ "CheckPassword", "d9/dad/AccountMgr_8cpp.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d9/dad/AccountMgr_8cpp.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
+    [ "CreateAccount", "d9/dad/AccountMgr_8cpp.html#a761f39260d15a979ce0214f212b936b7", null ],
     [ "DeleteAccount", "d9/dad/AccountMgr_8cpp.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
     [ "GetCharactersCount", "d9/dad/AccountMgr_8cpp.html#a4fb760897161c3d463f842b28bcf7c20", null ],
     [ "GetId", "d9/dad/AccountMgr_8cpp.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],

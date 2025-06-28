@@ -1,5 +1,8 @@
 var NAVTREEINDEX249 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a84ac7a2a09424de06d24664922275bee":[7,0,0,0,1,2,41,0,0,6,232],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a88ddeddc39c960bdd00805a1ea8a8fc8":[7,0,0,0,1,2,41,0,0,6,140],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a89898fa75b35ddb26e6c27ed6c7d80ee":[7,0,0,0,1,2,41,0,0,6,299],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a8a9a0b3eaf1c5d2385513a070c2fb59a":[7,0,0,0,1,2,41,0,0,6,106],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a8ad5434dc0bc49fc1aac6d9e455e64e7":[7,0,0,0,1,2,41,0,0,6,122],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a8bebfff86f80b58fd3930dc14c5fe347":[7,0,0,0,1,2,41,0,0,6,39],
@@ -246,8 +249,5 @@ var NAVTREEINDEX249 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#af1726169fe63eb3ff1ed95eb0e10d2f0":[6,0,1865,0,4],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#afdb4215cd0578de7342b152783666ed6":[6,0,1865,0,2],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[6,0,11,5,33],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,30,5,33],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,30,5,33,3],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[6,0,11,5,33,3],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[6,0,11,5,33,5]
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,30,5,33]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX259 =
 {
+"da/d91/classspell__dru__starfall__dummy.html#a3ec1d43d3eb6ecca128ddda3c0f81efc":[6,0,2817,2],
+"da/d91/classspell__dru__starfall__dummy.html#ab8f8fec8c95f471a04d642fa0dcbe3e6":[6,0,2817,1],
+"da/d91/classspell__dru__starfall__dummy.html#ae662a050ce4cac47b6bd0d0b0c5b1e16":[6,0,2817,3],
 "da/d91/classspell__dru__starfall__dummy.html#af6daf7022fc4cd18909056089c249c8a":[6,0,2817,0],
 "da/d92/classspell__pri__lightwell__renew.html":[6,0,3526],
 "da/d92/classspell__pri__lightwell__renew.html#a2252719e6ea995b85b7b0c5ecb6a26d3":[6,0,3526,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX259 =
 "da/d9e/classSmartAIMgr.html#a2c560363e15bafb702256b053143e635":[6,0,2550,20],
 "da/d9e/classSmartAIMgr.html#a2faf54e12bcca4f2b293927f83519ceb":[6,0,2550,24],
 "da/d9e/classSmartAIMgr.html#a5060a757f6617a6fe2638b9c15f2c2a6":[6,0,2550,18],
-"da/d9e/classSmartAIMgr.html#a58e82f8670d6827bd914e98bf4edb3aa":[6,0,2550,12],
-"da/d9e/classSmartAIMgr.html#a5d1a87fe89c2db59bacf496766304f3c":[6,0,2550,2],
-"da/d9e/classSmartAIMgr.html#a6f01c4d9414b194e671141aa560b1f06":[6,0,2550,13],
-"da/d9e/classSmartAIMgr.html#a710c4df0ccbc1f1112bfe45d5f2e9c52":[6,0,2550,5]
+"da/d9e/classSmartAIMgr.html#a58e82f8670d6827bd914e98bf4edb3aa":[6,0,2550,12]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX399 =
 {
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#af808b2b543ea9b27b4b03d0e561fb90e":[6,0,399,0,20],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#afb02799e3fad05e2e0d48ea5b3be7526":[6,0,399,0,4],
+"df/df5/BattlefieldMgr_8cpp.html":[7,0,0,0,1,2,7,4],
+"df/df5/structboss__nefarian.html":[6,0,633],
 "df/df5/structboss__nefarian.html#a0eea749c0392a7713e372cc1f236cdcd":[6,0,633,4],
 "df/df5/structboss__nefarian.html#a205c9b1d4116fbd0a1ca972f39094abc":[6,0,633,7],
 "df/df5/structboss__nefarian.html#a45ec4ab3cdf9b4de91a9ae682f3335e8":[6,0,633,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX399 =
 "dir_b604cd515113e1b9d14f26b265d784ac.html":[7,0,0,0,3,4],
 "dir_b7024d25a4cd9a4b12fa2461cb1ed1ce.html":[7,0,0,0,1,0,1,3],
 "dir_b82ba46dd8181098d322eb7aa98764c9.html":[7,0,0,0,1,3,4,1,2],
-"dir_b9ce73ca8ddd879a6b939545d1713742.html":[7,0,0,0,1,3,4,0],
-"dir_b9fdea5361312dcaf0b39717af8c62fd.html":[7,0,0,0,1,3,5,4],
-"dir_ba107d36c988375e665ec3b4fdf4148d.html":[7,0,0,0,1,3,7,0,2],
-"dir_ba629fe3cce3d6c1ca366c03f65ff143.html":[7,0,0,0,1,3,5,9,1],
-"dir_bd6eb97edc7b31fb689fc59ea27199a0.html":[7,0,0,0,1,2,16,5,0]
+"dir_b9ce73ca8ddd879a6b939545d1713742.html":[7,0,0,0,1,3,4,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX131 =
 {
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100":[6,0,609,0,15],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a2b2267e3d7be6d16ffab031d2cb4a1a6":[6,0,609,0,10],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a305f064869874d8620d794a7d26f6358":[6,0,609,0,14],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a4ba4ac7fabd3e74dc10a00a3188252e9":[6,0,609,0,0],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a5040c31467e9d3c6edc30b9133ec6873":[6,0,609,0,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#afbf7c0ce84e2b0628f862b9de7d0336d":[7,0,0,0,1,3,7,1,6,13],
 "d4/d8f/classnpc__hor__leader.html":[6,0,1838],
 "d4/d8f/classnpc__hor__leader.html#a55e7357aa6dff1efdff08541e88413e9":[6,0,1838,2],
-"d4/d8f/classnpc__hor__leader.html#a5c8d6cce242d144755fb14879f7f17d3":[6,0,1838,1],
-"d4/d8f/classnpc__hor__leader.html#ab5d01ae2803bab43b2c701d0cb1d4280":[6,0,1838,4],
-"d4/d8f/classnpc__hor__leader.html#afb46ea0b6926ad5d9b87b1d6a5e04591":[6,0,1838,3]
+"d4/d8f/classnpc__hor__leader.html#a5c8d6cce242d144755fb14879f7f17d3":[6,0,1838,1]
 };

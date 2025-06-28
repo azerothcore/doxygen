@@ -1,5 +1,8 @@
 var NAVTREEINDEX217 =
 {
+"d8/d74/classWorldSession.html#a9c146b38b2de450854011e063d488e34":[4,1,19,63],
+"d8/d74/classWorldSession.html#a9ca8f4ca136f50031defba26f00c67a3":[4,1,19,23],
+"d8/d74/classWorldSession.html#a9d1e893be19cb76f68e6b999dd7c611e":[4,1,19,233],
 "d8/d74/classWorldSession.html#a9d216a6236995c94b90628445874c352":[4,1,19,42],
 "d8/d74/classWorldSession.html#a9d27f7f4643024f8a018f415022a77a1":[4,1,19,48],
 "d8/d74/classWorldSession.html#a9d53ccdc5fe50bd3a76d500ceb0e3c43":[4,1,19,552],
@@ -246,8 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1941,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1941,0,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71":[6,0,1941,0,2],
-"d8/d77/classAchievementMgr.html":[6,0,115],
-"d8/d77/classAchievementMgr.html#a006f7efdbda628c743cf97704a7216ce":[6,0,115,23],
-"d8/d77/classAchievementMgr.html#a04cee87ace60bf198d23e0bedca1b109":[6,0,115,12],
-"d8/d77/classAchievementMgr.html#a06a01a6fa36ea437a44c1f95fb5bcaf6":[6,0,115,11]
+"d8/d77/classAchievementMgr.html":[6,0,115]
 };

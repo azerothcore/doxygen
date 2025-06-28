@@ -1,5 +1,9 @@
 var NAVTREEINDEX375 =
 {
+"df/d14/classPet.html#af2290a3c05bee3e31937f3bcfe3de603":[6,0,2372,37],
+"df/d14/classPet.html#af2bc2f71a53f18d94c9a6892f42fc602":[6,0,2372,62],
+"df/d14/classPet.html#af5c26f7c7d00be025abba6008d6438bf":[6,0,2372,21],
+"df/d14/classPet.html#af641ae2d7d873000862ac953f850d068":[6,0,2372,49],
 "df/d14/classPet.html#af98d9932f6260f70dee8e43526790ec2":[6,0,2372,84],
 "df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2372,41],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,30,1,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX375 =
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68":[7,0,0,0,1,3,2,30,9,10],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd":[7,0,0,0,1,3,2,30,9,8],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76":[7,0,0,0,1,3,2,30,9,3],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603":[7,0,0,0,1,3,2,30,9,1],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db":[7,0,0,0,1,3,2,30,9,6],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696":[7,0,0,0,1,3,2,30,9,9],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91":[7,0,0,0,1,3,2,30,9,0],
-"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171":[7,0,0,0,1,3,2,30,9,5]
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603":[7,0,0,0,1,3,2,30,9,1]
 };

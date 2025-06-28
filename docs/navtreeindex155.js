@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc4/classEffectMovementGenerator.html#adff45ee4ce3cc72b6cc88e626c3bd0a5":[6,0,1001,5],
+"d5/dc4/classspell__dru__predatory__strikes.html":[6,0,2810],
 "d5/dc4/classspell__dru__predatory__strikes.html#a31bde31b6db4f71ce65c6e1a862df771":[6,0,2810,0],
 "d5/dc4/classspell__dru__predatory__strikes.html#a621e73a09438f3f9cbaa232125df3b87":[6,0,2810,2],
 "d5/dc4/classspell__dru__predatory__strikes.html#aebe64c4760d13d8afaebcf4a4b1196fa":[6,0,2810,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dce/classspell__item__shadowmourne.html":[6,0,3266],
 "d5/dce/classspell__item__shadowmourne.html#a0b5b97081b7c897d451ef70c810bd7f1":[6,0,3266,5],
 "d5/dce/classspell__item__shadowmourne.html#a185159a5c83e8c65ef5b82f49a89dd8a":[6,0,3266,0],
-"d5/dce/classspell__item__shadowmourne.html#a1b51483738d5d3b73f50a78ef9fc1c57":[6,0,3266,2],
-"d5/dce/classspell__item__shadowmourne.html#a3e549b8764c0f8efc5d110543c9944c7":[6,0,3266,3],
-"d5/dce/classspell__item__shadowmourne.html#a67db21e0293f336a31bf518c0fac85d1":[6,0,3266,1]
+"d5/dce/classspell__item__shadowmourne.html#a1b51483738d5d3b73f50a78ef9fc1c57":[6,0,3266,2]
 };

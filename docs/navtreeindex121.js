@@ -76,8 +76,8 @@ var NAVTREEINDEX121 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2642],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2642,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2642,2],
@@ -248,6 +248,6 @@ var NAVTREEINDEX121 =
 "d4/d2d/classHideNpcEvent.html#aecfbbbcac3fd98675913a6381c891a59":[6,0,1255,1],
 "d4/d2d/classMovement_1_1SplineBase.html":[6,0,7,12],
 "d4/d2d/classMovement_1_1SplineBase.html":[5,0,21,12],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,21,12,6],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6]
+"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6],
+"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,21,12,6]
 };

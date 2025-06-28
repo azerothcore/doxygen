@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e":[6,0,284,41],
+"d5/d0f/classAuraScript.html#a2b5a29909fe800f007606045de187409":[6,0,284,32],
 "d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf":[6,0,284,64],
 "d5/d0f/classAuraScript.html#a3429872992970c72980b9fb97eb3421a":[6,0,284,74],
 "d5/d0f/classAuraScript.html#a4458705c531aedf5865911395d184120":[6,0,284,50],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d1c/cs__script__loader_8cpp.html#afeb482a8cffe8416071764bc4e78bff2":[7,0,0,0,1,3,0,39,2],
 "d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html":[6,0,573,0],
 "d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html#a016c5497988d7ddd9f0744e83f7bf1d3":[6,0,573,0,9],
-"d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html#a105880e1f201db0d4130611f5b99d730":[6,0,573,0,6],
-"d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html#a1d39d05719d6e7730bd3d247ec1f56a7":[6,0,573,0,3],
-"d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html#a224f30aa4703f82e1ff9439b5247398a":[6,0,573,0,4]
+"d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html#a105880e1f201db0d4130611f5b99d730":[6,0,573,0,6]
 };

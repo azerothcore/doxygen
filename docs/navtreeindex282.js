@@ -1,5 +1,8 @@
 var NAVTREEINDEX282 =
 {
+"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438":[7,0,0,0,1,2,23,3,24],
+"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012":[7,0,0,0,1,2,23,3,24,1],
+"db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715":[7,0,0,0,1,2,23,3,24,2],
 "db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749":[7,0,0,0,1,2,23,3,24,3],
 "db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465":[7,0,0,0,1,2,23,3,24,4],
 "db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5":[7,0,0,0,1,2,23,3,24,0],
@@ -92,7 +95,7 @@ var NAVTREEINDEX282 =
 "db/d92/namespaceAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20":[5,0,0,6],
 "db/d92/namespaceAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043":[5,0,0,13],
 "db/d92/namespaceAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6":[5,0,0,1],
-"db/d92/namespaceAccountMgr.html#a7a7668ab60ae56c7e71fce77780bb214":[5,0,0,4],
+"db/d92/namespaceAccountMgr.html#a761f39260d15a979ce0214f212b936b7":[5,0,0,4],
 "db/d92/namespaceAccountMgr.html#a81bbc2af33211a3130c6aa215f5607b7":[5,0,0,12],
 "db/d92/namespaceAccountMgr.html#a8280510b2564ec6ea76727218c1687b3":[5,0,0,9],
 "db/d92/namespaceAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114":[5,0,0,7],
@@ -193,14 +196,14 @@ var NAVTREEINDEX282 =
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[6,0,0,80],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[5,0,1,92,4],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[6,0,0,80,4],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[6,0,0,80,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[5,0,1,92,0],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[6,0,0,80,1],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[6,0,0,80,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[5,0,1,92,1],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[6,0,0,80,1],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[6,0,0,80,5],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[5,0,1,92,5],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[6,0,0,80,2],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[5,0,1,92,2],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[6,0,0,80,2],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#aca71a09421fdf412489f7f54cf4bc379":[5,0,1,92,3],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#aca71a09421fdf412489f7f54cf4bc379":[6,0,0,80,3],
 "db/d97/classboss__flame__leviathan.html":[6,0,466],
@@ -246,8 +249,5 @@ var NAVTREEINDEX282 =
 "db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#a6025e98731e8eb3e4450eb6ea7747d5f":[6,0,1747,0,3],
 "db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#a881cbed8f1709071036b9f83cdbe1cad":[6,0,1747,0,5],
 "db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#a90deaf0fab9f0ed64c806c22c200ba08":[6,0,1747,0,6],
-"db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#aa223fc3eaa1096d0bad578a88b81ab7e":[6,0,1747,0,4],
-"db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#aa9ea076cdef0b1a0b21b18e42bf777c3":[6,0,1747,0,1],
-"db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#ac0606677b434b15dcbf17c9c4b2467a4":[6,0,1747,0,0],
-"db/d99/structnpc__malchezaar__axe.html":[6,0,1940]
+"db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#aa223fc3eaa1096d0bad578a88b81ab7e":[6,0,1747,0,4]
 };

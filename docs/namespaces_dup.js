@@ -5,7 +5,7 @@ var namespaces_dup =
       [ "ChangePassword", "db/d92/namespaceAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6", null ],
       [ "ChangeUsername", "db/d92/namespaceAccountMgr.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
       [ "CheckPassword", "db/d92/namespaceAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-      [ "CreateAccount", "db/d92/namespaceAccountMgr.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
+      [ "CreateAccount", "db/d92/namespaceAccountMgr.html#a761f39260d15a979ce0214f212b936b7", null ],
       [ "DeleteAccount", "db/d92/namespaceAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
       [ "GetCharactersCount", "db/d92/namespaceAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20", null ],
       [ "GetId", "db/d92/namespaceAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX358 =
 {
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae4ebbccc403bcc3621437a36f8678b93":[6,0,727,0,1],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af81105d937124f49bd722ca787d31d58":[6,0,727,0,15],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af867d86aa20366bfbbfaf8083fe35271":[6,0,727,0,18],
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,727,0,19],
 "de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,38,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX358 =
 "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html#ab45827eaa92aea4746378b3c11fda219":[6,0,1332,0,2],
 "de/d5e/ObjectAccessor_8cpp.html":[7,0,0,0,1,2,18,0],
 "de/d5e/ObjectAccessor_8cpp.html#a2a540ae6cb73c9914f0253464b155227":[7,0,0,0,1,2,18,0,0],
-"de/d5e/ObjectAccessor_8cpp.html#a3ba44f9ba2a1ff4fd122944f95ef06bd":[7,0,0,0,1,2,18,0,2],
-"de/d5e/ObjectAccessor_8cpp.html#a42d065468e6e62b7161ba0c17e1d75ea":[7,0,0,0,1,2,18,0,1],
-"de/d5e/ObjectAccessor_8cpp.html#a8f833a3f02f1e431170dd5d052b0f919":[7,0,0,0,1,2,18,0,3],
-"de/d5e/ObjectAccessor_8cpp.html#a9c5298580060e7a6078ffb5f4008c549":[7,0,0,0,1,2,18,0,4],
-"de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[7,0,0,0,1,2,18,0,5]
+"de/d5e/ObjectAccessor_8cpp.html#a3ba44f9ba2a1ff4fd122944f95ef06bd":[7,0,0,0,1,2,18,0,2]
 };

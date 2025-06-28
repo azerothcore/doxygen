@@ -1,5 +1,9 @@
 var NAVTREEINDEX381 =
 {
+"df/d4e/structnpc__apothecary__genericAI.html":[6,0,1595],
+"df/d4e/structnpc__apothecary__genericAI.html#a53d10ab64df212b043cc21e054f6528c":[6,0,1595,3],
+"df/d4e/structnpc__apothecary__genericAI.html#a59074beefbd3d80104b64f8ecc2ef8e0":[6,0,1595,1],
+"df/d4e/structnpc__apothecary__genericAI.html#a63530bd7c3ebcd66521a268e11bf2f93":[6,0,1595,2],
 "df/d4e/structnpc__apothecary__genericAI.html#afb2b04b51e28d0795e7781effa68dffd":[6,0,1595,0],
 "df/d50/boss__keristrasza_8cpp.html":[7,0,0,0,1,3,5,8,1,2],
 "df/d50/boss__keristrasza_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,8,1,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX381 =
 "df/d5b/structQuestVisitor.html":[6,0,2457],
 "df/d5b/structQuestVisitor.html#a4e13ed545328e052481a0379e7f027a5":[6,0,2457,2],
 "df/d5b/structQuestVisitor.html#a864f3c2f78b80dbc4b65dffb0d38ab55":[6,0,2457,1],
-"df/d5b/structQuestVisitor.html#aea5c629ecdcd9c2bfc1253ef8e775c3a":[6,0,2457,0],
-"df/d5c/classnpc__commandscript.html":[6,0,1684],
-"df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662":[6,0,1684,33],
-"df/d5c/classnpc__commandscript.html#a0b63867896d7979cd73016b499d2b0b4":[6,0,1684,3],
-"df/d5c/classnpc__commandscript.html#a0d2565ece36041bc6c07d1ccdbfdc7fa":[6,0,1684,5]
+"df/d5b/structQuestVisitor.html#aea5c629ecdcd9c2bfc1253ef8e775c3a":[6,0,2457,0]
 };
