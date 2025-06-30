@@ -1,5 +1,7 @@
 var NAVTREEINDEX76 =
 {
+"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a5700d7cc8b52ec0351e3d7bf851274b7":[6,0,3580,2],
+"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a58dc6668172d046cef3046649928c124":[6,0,3580,1],
 "d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#afa6d5fe15882f33ae1a1d137db9caf8c":[6,0,3580,3],
 "d2/de5/namespaceAcore_1_1Encoding.html":[5,0,1,5],
 "d2/de7/MovementPacketBuilder_8cpp.html":[7,0,0,0,1,2,31,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classboss__freya__elder__ironbranch.html":[6,0,475],
 "d2/de9/classboss__freya__elder__ironbranch.html#a066083e4d6fde6439f7dce80be209075":[6,0,475,1],
 "d2/de9/classboss__freya__elder__ironbranch.html#a67f483d12fe801c1d840dd0f74396564":[6,0,475,2],
-"d2/de9/classspell__apothecary__validate__area.html":[6,0,2595],
-"d2/de9/classspell__apothecary__validate__area.html#a1a510f9cf49df69c5904cb79c8cdc860":[6,0,2595,4],
-"d2/de9/classspell__apothecary__validate__area.html#a2832f131d99608923ade8070e17da86d":[6,0,2595,3]
+"d2/de9/classspell__apothecary__validate__area.html":[6,0,2595]
 };

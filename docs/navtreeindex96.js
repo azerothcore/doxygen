@@ -1,5 +1,8 @@
 var NAVTREEINDEX96 =
 {
+"d3/d35/classSendEncounterUnit.html":[6,0,2518],
+"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[6,0,2518,0],
+"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[6,0,2518,2],
 "d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[6,0,2518,1],
 "d3/d36/BattlegroundUtils_8cpp.html":[7,0,0,0,1,2,8,18],
 "d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[7,0,0,0,1,2,8,18,0],
@@ -83,12 +86,12 @@ var NAVTREEINDEX96 =
 "d3/d42/classspell__warl__everlasting__affliction.html#a3f8988017d088d08df08ba8b696b552b":[6,0,3935,0],
 "d3/d42/classspell__warl__everlasting__affliction.html#a4ebc3c83dd77134af2ee81a46b121d19":[6,0,3935,2],
 "d3/d42/classspell__warl__everlasting__affliction.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b":[6,0,3935,1],
-"d3/d43/classspell__gen__aura__service__uniform.html":[6,0,2887],
-"d3/d43/classspell__gen__aura__service__uniform.html#a64018d24a33565e615c6c2d3eb4810f8":[6,0,2887,1],
-"d3/d43/classspell__gen__aura__service__uniform.html#a77ed6196af0fcf75c6d1071e236f6210":[6,0,2887,4],
-"d3/d43/classspell__gen__aura__service__uniform.html#a9cd1e664cb6ccec5dc897b586203faf1":[6,0,2887,3],
-"d3/d43/classspell__gen__aura__service__uniform.html#aa38abcc9fa49fc2c397edbfff2c0ea0d":[6,0,2887,0],
-"d3/d43/classspell__gen__aura__service__uniform.html#acb57b284b9d9116b6b0c0a758e09a8d5":[6,0,2887,2],
+"d3/d43/classspell__gen__aura__service__uniform.html":[6,0,2886],
+"d3/d43/classspell__gen__aura__service__uniform.html#a64018d24a33565e615c6c2d3eb4810f8":[6,0,2886,1],
+"d3/d43/classspell__gen__aura__service__uniform.html#a77ed6196af0fcf75c6d1071e236f6210":[6,0,2886,4],
+"d3/d43/classspell__gen__aura__service__uniform.html#a9cd1e664cb6ccec5dc897b586203faf1":[6,0,2886,3],
+"d3/d43/classspell__gen__aura__service__uniform.html#aa38abcc9fa49fc2c397edbfff2c0ea0d":[6,0,2886,0],
+"d3/d43/classspell__gen__aura__service__uniform.html#acb57b284b9d9116b6b0c0a758e09a8d5":[6,0,2886,2],
 "d3/d43/classspell__pos__blight__aura.html":[6,0,3513],
 "d3/d43/classspell__pos__blight__aura.html#a008166d25e7a278507e953325f40ccd5":[6,0,3513,1],
 "d3/d43/classspell__pos__blight__aura.html#a3fc78060f881262c59151b6eb6a943f8":[6,0,3513,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3cd48212a9f112ce60e8b7ebd5d49192":[7,0,0,0,1,2,48,5,0,253],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3ceb411ef60cd97089a937682d8964ed":[7,0,0,0,1,2,48,5,0,27],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d6b4ee069f09e8a66de2a7e4e026e8f":[7,0,0,0,1,2,48,5,0,397],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d908fe1658eb8f1d98ce37fa347f61b":[7,0,0,0,1,2,48,5,0,53],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3e5228446d159365038a49e52d571ce7":[7,0,0,0,1,2,48,5,0,476],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3e7c1ba0b397d011e10ddf2ecbe144a1":[7,0,0,0,1,2,48,5,0,376],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3ef39848e789a8250406ed9a73ddb527":[7,0,0,0,1,2,48,5,0,433]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d908fe1658eb8f1d98ce37fa347f61b":[7,0,0,0,1,2,48,5,0,53]
 };

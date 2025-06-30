@@ -1,5 +1,14 @@
 var NAVTREEINDEX376 =
 {
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2287,0],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6378748a168e4e668f696bd9c6dfbc31":[6,0,2287,0,1],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6540d8f5787ce1da211123721ef659f3":[6,0,2287,0,0],
+"df/d1b/zone__stormwind__city_8cpp.html":[7,0,0,0,1,3,2,30],
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7":[7,0,0,0,1,3,2,30,9],
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68":[7,0,0,0,1,3,2,30,9,10],
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd":[7,0,0,0,1,3,2,30,9,8],
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76":[7,0,0,0,1,3,2,30,9,3],
+"df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603":[7,0,0,0,1,3,2,30,9,1],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db":[7,0,0,0,1,3,2,30,9,6],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696":[7,0,0,0,1,3,2,30,9,9],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91":[7,0,0,0,1,3,2,30,9,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX376 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28dc9bdb9b35a8f412be125174b9a17b":[7,0,0,0,1,2,16,5,0,4,6,2],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28ff79520b4b9b2f0775cf565443cdc3":[7,0,0,0,1,2,16,5,0,4,6,202],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a299f4063063d6b21fbb5622b354c06ff":[7,0,0,0,1,2,16,5,0,4,6,222],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2abbc1426caf4406282bc4c8e123df84":[7,0,0,0,1,2,16,5,0,4,6,235],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2ade5a94dc5b622bd2dfdad5eddaf273":[7,0,0,0,1,2,16,5,0,4,6,7],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2af9882d99e08f71bced67fb1781988f":[7,0,0,0,1,2,16,5,0,4,6,203],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2c00e8b1937ec712396b817d76a27876":[7,0,0,0,1,2,16,5,0,4,6,192],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2de1a670a9d3e1adf20d2cfbd109351e":[7,0,0,0,1,2,16,5,0,4,6,160],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a300999f838aefe1770a7bafe866ac834":[7,0,0,0,1,2,16,5,0,4,6,145],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3045aa7c990d23e628bf687fcf616a69":[7,0,0,0,1,2,16,5,0,4,6,174],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a308b14b4fc80c0e0407f41212c5fdb74":[7,0,0,0,1,2,16,5,0,4,6,61],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a31b25072f9e6a141ab855a1f7b9cf221":[7,0,0,0,1,2,16,5,0,4,6,227],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a31fb2c356e272cf2131c120d1b9e007f":[7,0,0,0,1,2,16,5,0,4,6,35]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2abbc1426caf4406282bc4c8e123df84":[7,0,0,0,1,2,16,5,0,4,6,235]
 };

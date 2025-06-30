@@ -1,5 +1,12 @@
 var NAVTREEINDEX187 =
 {
+"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#ab4b27bf33b58b44ac604ca6bf6b5e424":[6,0,439,0,7],
+"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#acec58686917d6e5aff9a51a96b023174":[6,0,439,0,3],
+"d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,439,0,6],
+"d7/d33/classnpc__ravenous__worg.html":[6,0,2061],
+"d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2061,2],
+"d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2061,1],
+"d7/d34/AddonMgr_8h.html":[7,0,0,0,1,2,2,1],
 "d7/d34/AddonMgr_8h.html#a084249e215f787f3163d5d06ad2d256f":[7,0,0,0,1,2,2,1,3],
 "d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[7,0,0,0,1,2,2,1,4],
 "d7/d34/AddonMgr_8h.html#a65cb6a88902972060e44c57d7d9ec738":[7,0,0,0,1,2,2,1,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,4,0,3,5],
 "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4b59c780af059481cef282a4a633787c":[7,0,0,0,1,3,5,4,0,3,5,0],
 "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a543a7f7aa73668312c27b6fab64449b9":[7,0,0,0,1,3,5,4,0,3,5,1],
-"d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,0,3,5,2],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[5,0,30,4,0],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html":[6,0,11,4,0],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[5,0,30,4,0,6],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[6,0,11,4,0,6],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[5,0,30,4,0,3],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[6,0,11,4,0,3],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[5,0,30,4,0,2]
+"d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,0,3,5,2]
 };

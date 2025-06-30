@@ -1,5 +1,17 @@
 var NAVTREEINDEX257 =
 {
+"da/d7e/classspell__gnomeregan__radiation__bolt.html":[6,0,3017],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[6,0,3017,1],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a5f30f2af73eae022b9596939b2f88c0b":[6,0,3017,0],
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a7e9c140aecea892ee6971bc97d385640":[6,0,3017,2],
+"da/d7e/classspell__pri__penance.html":[6,0,3532],
+"da/d7e/classspell__pri__penance.html#a0c73457e44a3d64bdccee78d28893672":[6,0,3532,2],
+"da/d7e/classspell__pri__penance.html#a4826d7b257ee05bfe0d6db3d30a924e9":[6,0,3532,3],
+"da/d7e/classspell__pri__penance.html#a7f79495525687fba6229f48935b2558a":[6,0,3532,1],
+"da/d7e/classspell__pri__penance.html#a9b9d5f862e9910f1a12780ff54b067ca":[6,0,3532,5],
+"da/d7e/classspell__pri__penance.html#ab9f09394ab301350a2abaefde90632fe":[6,0,3532,4],
+"da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[6,0,3532,0],
+"da/d7e/structSpawnSpells.html":[6,0,2565],
 "da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56":[6,0,2565,2],
 "da/d7e/structSpawnSpells.html#a2c430be201c1fd866ee96224f1803a20":[6,0,2565,0],
 "da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0":[6,0,2565,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX257 =
 "da/d85/structboss__morogrim__tidewalker.html#a2db94919e6d6f3d4eda4addc4248976e":[6,0,625,4],
 "da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[6,0,625,2],
 "da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,625,6],
-"da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,625,5],
-"da/d86/classspell__toc5__light__rain.html":[6,0,3880],
-"da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[6,0,3880,2],
-"da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3":[6,0,3880,0],
-"da/d86/classspell__toc5__light__rain.html#a697a52cbc50eafd2b0377621afb01557":[6,0,3880,1],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html":[6,0,0,2,1],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html":[5,0,1,4,1],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[6,0,0,2,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,1,4,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[6,0,0,2,1,2],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,1,4,1,2],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[6,0,0,2,1,7],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[5,0,1,4,1,7]
+"da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,625,5]
 };

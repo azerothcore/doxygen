@@ -1,5 +1,8 @@
 var NAVTREEINDEX101 =
 {
+"d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2ac32871f4645397950601fb611e69b51b":[7,0,0,0,1,3,5,22,33,0],
+"d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2ad09798d6ff9480dac9ab5c8b9f5fdcfd":[7,0,0,0,1,3,5,22,33,12],
+"d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2ae3da755b8b73daeaa43ee4515cd17bff":[7,0,0,0,1,3,5,22,33,4],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2ae6c6faaa68888e8015a00731b4d802e8":[7,0,0,0,1,3,5,22,33,10],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2ae97c320deac6deb962a3e2e3c49c0cab":[7,0,0,0,1,3,5,22,33,3],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a2690c4149b58629f9407da52b670ffc2af18bc61923d961d77eb7dd5b2e613c36":[7,0,0,0,1,3,5,22,33,5],
@@ -135,11 +138,11 @@ var NAVTREEINDEX101 =
 "d3/d74/classnpc__living__inferno.html":[6,0,1918],
 "d3/d74/classnpc__living__inferno.html#a53f0bbd0a502374664cfa54140f4b8c0":[6,0,1918,2],
 "d3/d74/classnpc__living__inferno.html#a7df2bb522e67b6f1864604c7b0182078":[6,0,1918,1],
-"d3/d77/classspell__dru__rip.html":[6,0,2812],
-"d3/d77/classspell__dru__rip.html#a2ed00d02a1685bc8b66e9cdfd430d1ad":[6,0,2812,0],
-"d3/d77/classspell__dru__rip.html#a6766b6ebbba04bc595373145e4eaaa7a":[6,0,2812,3],
-"d3/d77/classspell__dru__rip.html#a7ba8da2fdc3bf18cd9925b280e60affa":[6,0,2812,1],
-"d3/d77/classspell__dru__rip.html#a93df43072a344485c389160306b1fecd":[6,0,2812,2],
+"d3/d77/classspell__dru__rip.html":[6,0,2811],
+"d3/d77/classspell__dru__rip.html#a2ed00d02a1685bc8b66e9cdfd430d1ad":[6,0,2811,0],
+"d3/d77/classspell__dru__rip.html#a6766b6ebbba04bc595373145e4eaaa7a":[6,0,2811,3],
+"d3/d77/classspell__dru__rip.html#a7ba8da2fdc3bf18cd9925b280e60affa":[6,0,2811,1],
+"d3/d77/classspell__dru__rip.html#a93df43072a344485c389160306b1fecd":[6,0,2811,2],
 "d3/d77/structMovementInfo_1_1JumpInfo.html":[6,0,1522,0],
 "d3/d77/structMovementInfo_1_1JumpInfo.html#a28a5bd110553457c86d7f77e78041713":[6,0,1522,0,0],
 "d3/d77/structMovementInfo_1_1JumpInfo.html#a37f49fc816f37dff8c1947f4de7f04d5":[6,0,1522,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d7c/System_8cpp.html#a07a903b0a66b5e10f2d501fbec20394f":[7,0,0,0,3,1,8,49],
 "d3/d7c/System_8cpp.html#a0d03e78e2fbcd4d053c4dd3a440d430f":[7,0,0,0,3,1,8,70],
 "d3/d7c/System_8cpp.html#a0dcf3f519b36a50773d7262d29a738bb":[7,0,0,0,3,1,8,25],
-"d3/d7c/System_8cpp.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803":[7,0,0,0,3,1,8,55],
-"d3/d7c/System_8cpp.html#a0fc25db7841a9836359d1825ec78ca08":[7,0,0,0,3,1,8,11],
-"d3/d7c/System_8cpp.html#a103d56ca489b218396e6bc64659ae225":[7,0,0,0,3,1,8,7],
-"d3/d7c/System_8cpp.html#a12b189fd9ea8bdb222eb3703b68b3685":[7,0,0,0,3,1,8,44]
+"d3/d7c/System_8cpp.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803":[7,0,0,0,3,1,8,55]
 };

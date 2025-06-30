@@ -1,5 +1,17 @@
 var NAVTREEINDEX238 =
 {
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72a7ac6d295725fd0d403dfc8c7d78ff753":[7,0,0,0,1,2,24,3,23,5],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72aa2bdaaae31f6ff3bd7178a6c18efaf29":[7,0,0,0,1,2,24,3,23,2],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72ab29a6966aa6e97faceaa118deacf52f0":[7,0,0,0,1,2,24,3,23,0],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72ae6236bdd834258840f22c2e32a08aa9d":[7,0,0,0,1,2,24,3,23,1],
+"d9/d84/LootMgr_8h.html#a2b487e26b2b104df71db0d0cdb218f70":[7,0,0,0,1,2,24,3,47],
+"d9/d84/LootMgr_8h.html#a2d34d3171cf6ee7b6e118d5b12be319e":[7,0,0,0,1,2,24,3,51],
+"d9/d84/LootMgr_8h.html#a2ffebb5466d0f97fdaa495088a046a51":[7,0,0,0,1,2,24,3,26],
+"d9/d84/LootMgr_8h.html#a31e68d51b0fcf3e28a4479991359a8b3":[7,0,0,0,1,2,24,3,44],
+"d9/d84/LootMgr_8h.html#a37571dff8ec8d0034df583b5dc062bf2":[7,0,0,0,1,2,24,3,17],
+"d9/d84/LootMgr_8h.html#a3dc44988fdd6d697ac3b459b0276e098":[7,0,0,0,1,2,24,3,13],
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a":[7,0,0,0,1,2,24,3,24],
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa24bcdb3d971392027fe44810f01679b0":[7,0,0,0,1,2,24,3,24,4],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa38fed431ec0ae02ffdd70ed6014f03a5":[7,0,0,0,1,2,24,3,24,0],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa537ec62994db268ea075329b2a8506fa":[7,0,0,0,1,2,24,3,24,2],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa5ccd70d5799413c4175e4278fa6f8995":[7,0,0,0,1,2,24,3,24,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d8c/structnpc__rancid__mushroom.html#a13bfd343bdf54c829b3fcb0a775c0852":[6,0,2056,3],
 "d9/d8c/structnpc__rancid__mushroom.html#a15896957b94de57de9eda5a199a05d4c":[6,0,2056,1],
 "d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1":[6,0,2056,0],
-"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd":[6,0,2056,0,0],
-"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5":[6,0,2056,0,1],
-"d9/d8c/structnpc__rancid__mushroom.html#afff169ff9d7a8411cf6d21f4f9be2545":[6,0,2056,2],
-"d9/d8d/classachievement__algalon__herald__of__the__titans.html":[6,0,28],
-"d9/d8d/classachievement__algalon__herald__of__the__titans.html#a13c75b878f4669d212eeb09b55336384":[6,0,28,0],
-"d9/d8d/classachievement__algalon__herald__of__the__titans.html#a20811d7bb453b1758967c11545e630e9":[6,0,28,1],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html":[6,0,3160],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#a31f2d90059e62da77a719a192d62328b":[6,0,3160,2],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#a94b783490dafae872b65e0bbfed156b9":[6,0,3160,0],
-"d9/d8d/classspell__illidari__council__circle__of__healing.html#af59695af3afcc51a3c29fcc4053bbfee":[6,0,3160,1],
-"d9/d8f/dire__maul_8h.html":[7,0,0,0,1,3,4,2,1],
-"d9/d8f/dire__maul_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,2,1,0],
-"d9/d8f/dire__maul_8h.html#a048f71c2ce75235af7457a044b2d4af7":[7,0,0,0,1,3,4,2,1,5]
+"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd":[6,0,2056,0,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX151 =
 {
+"d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2":[7,0,0,0,1,3,5,12,8,41],
+"d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a1a3fe7b90ca5735313ae904ed018c230":[7,0,0,0,1,3,5,12,8,41,1],
+"d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a6a70f36e094cc42cc0757040b673ef04":[7,0,0,0,1,3,5,12,8,41,5],
 "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a7984680e27d9ef1ecabd3218ff0e9b7a":[7,0,0,0,1,3,5,12,8,41,0],
 "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c":[7,0,0,0,1,3,5,12,8,41,2],
 "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2adce41c91fcf7c926a0ed4280fadaaf71":[7,0,0,0,1,3,5,12,8,41,4],
@@ -119,14 +122,14 @@ var NAVTREEINDEX151 =
 "d5/d9e/halls__of__stone_8h.html#aa80bce1d0ea05213c0d6c327126caf31add928b1007bd73842f4ce098cda70e8f":[7,0,0,0,1,3,5,9,1,4,5,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[5,0,1,42],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[6,0,0,30],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,1,42,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[6,0,0,30,1],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,1,42,2],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,1,42,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[6,0,0,30,2],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,1,42,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,1,42,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[6,0,0,30,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,1,42,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[6,0,0,30,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,1,42,3],
 "d5/da0/TicketMgr_8h.html":[7,0,0,0,1,2,43,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[7,0,0,0,1,2,43,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[7,0,0,0,1,2,43,1,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX151 =
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab87c635c83596216636fa80e5fc2e066":[7,0,0,0,1,3,2,1,1,7,3,1],
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,7,3,2],
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#afe85dd46e905f955680082b127a758c0":[7,0,0,0,1,3,2,1,1,7,6],
-"d5/da5/structboss__anubrekhan_1_1boss__anubrekhanAI.html":[6,0,376,0],
-"d5/da5/structboss__anubrekhan_1_1boss__anubrekhanAI.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e":[6,0,376,0,2],
-"d5/da5/structboss__anubrekhan_1_1boss__anubrekhanAI.html#a1dbf747694350bdc835f19ed0b22741c":[6,0,376,0,7],
-"d5/da5/structboss__anubrekhan_1_1boss__anubrekhanAI.html#a4889de03a80cc4c3bc0fd41042d1d905":[6,0,376,0,8]
+"d5/da5/structboss__anubrekhan_1_1boss__anubrekhanAI.html":[6,0,376,0]
 };

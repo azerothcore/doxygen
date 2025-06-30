@@ -1,5 +1,7 @@
 var NAVTREEINDEX63 =
 {
+"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a98c0d58fbb87a7d49c19955c1df2909d":[7,0,0,0,1,3,4,1,1,5,13,48],
+"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a9a5738db350a6c43a74144f976a6321d":[7,0,0,0,1,3,4,1,1,5,13,51],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a9bd232612724e2e1e32c0b50539827d1":[7,0,0,0,1,3,4,1,1,5,13,14],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a9c7f78f77229901cc5832485107282ad":[7,0,0,0,1,3,4,1,1,5,13,37],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a9fb948ac463a19f0a2246b0c12052e20":[7,0,0,0,1,3,4,1,1,5,13,29],
@@ -158,11 +160,11 @@ var NAVTREEINDEX63 =
 "d2/d60/classnpc__lord__illidan__stormrage.html":[6,0,1928],
 "d2/d60/classnpc__lord__illidan__stormrage.html#a9aaedc4326b90621965dad522f4af897":[6,0,1928,2],
 "d2/d60/classnpc__lord__illidan__stormrage.html#ad2f213749e170ec4f9903396d132f5f3":[6,0,1928,1],
-"d2/d60/classspell__deathbringer__boiling__blood.html":[6,0,2715],
-"d2/d60/classspell__deathbringer__boiling__blood.html#a33342cc676adaabe5e3896fa559631b7":[6,0,2715,3],
-"d2/d60/classspell__deathbringer__boiling__blood.html#a38bf6d96c6a78e5105d0369eb993e58c":[6,0,2715,1],
-"d2/d60/classspell__deathbringer__boiling__blood.html#a815c99e9ef570287af5d45c32bdc5b8c":[6,0,2715,2],
-"d2/d60/classspell__deathbringer__boiling__blood.html#aeae290d20ade37eb839c1bf3c9ae59bf":[6,0,2715,0],
+"d2/d60/classspell__deathbringer__boiling__blood.html":[6,0,2714],
+"d2/d60/classspell__deathbringer__boiling__blood.html#a33342cc676adaabe5e3896fa559631b7":[6,0,2714,3],
+"d2/d60/classspell__deathbringer__boiling__blood.html#a38bf6d96c6a78e5105d0369eb993e58c":[6,0,2714,1],
+"d2/d60/classspell__deathbringer__boiling__blood.html#a815c99e9ef570287af5d45c32bdc5b8c":[6,0,2714,2],
+"d2/d60/classspell__deathbringer__boiling__blood.html#aeae290d20ade37eb839c1bf3c9ae59bf":[6,0,2714,0],
 "d2/d60/classspell__tharon__ja__curse__of__life__aura.html":[6,0,3835],
 "d2/d60/classspell__tharon__ja__curse__of__life__aura.html#a5b4bf1fe2987cdebedaa2e7d048742d6":[6,0,3835,1],
 "d2/d60/classspell__tharon__ja__curse__of__life__aura.html#a8b90810bfc5416cdfeac2f6a72c55d3e":[6,0,3835,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25a7c7bbd0022800380396fe663f59b0cac":[7,0,0,0,1,3,8,1,15,0],
 "d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25a87d163201c6a5c5c2844e2ccdfb6820d":[7,0,0,0,1,3,8,1,15,17],
 "d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25a95b8c0f443e980939026dade51ca7704":[7,0,0,0,1,3,8,1,15,13],
-"d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25a9d808ab60e22f4f80d4ef4422b36b4c2":[7,0,0,0,1,3,8,1,15,1],
-"d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25aa7c39387e050223e87be9617cd1675d9":[7,0,0,0,1,3,8,1,15,16],
-"d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25aac98b13b8f429a9315adadb57e7df51e":[7,0,0,0,1,3,8,1,15,8]
+"d2/d66/pet__generic_8cpp.html#afde75de2d7c41e82e7b05714b217ab25a9d808ab60e22f4f80d4ef4422b36b4c2":[7,0,0,0,1,3,8,1,15,1]
 };

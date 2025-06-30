@@ -1,5 +1,17 @@
 var NAVTREEINDEX260 =
 {
+"da/d9d/classachievement__cant__do__that__while__stunned.html":[6,0,42],
+"da/d9d/classachievement__cant__do__that__while__stunned.html#a0b108bdcab0bc412975e61247f226bf8":[6,0,42,1],
+"da/d9d/classachievement__cant__do__that__while__stunned.html#a4d474b36f61631688ea723d2e4033574":[6,0,42,0],
+"da/d9d/namespaceWorldPackets_1_1LFG.html":[5,0,30,6],
+"da/d9e/classSmartAIMgr.html":[6,0,2550],
+"da/d9e/classSmartAIMgr.html#a058fc520249afed73a0800f881feabd5":[6,0,2550,25],
+"da/d9e/classSmartAIMgr.html#a242aa1dec322743082410e77130b8a64":[6,0,2550,7],
+"da/d9e/classSmartAIMgr.html#a264913afc64ff37c3fb45dd64855fa04":[6,0,2550,21],
+"da/d9e/classSmartAIMgr.html#a2c560363e15bafb702256b053143e635":[6,0,2550,20],
+"da/d9e/classSmartAIMgr.html#a2faf54e12bcca4f2b293927f83519ceb":[6,0,2550,24],
+"da/d9e/classSmartAIMgr.html#a5060a757f6617a6fe2638b9c15f2c2a6":[6,0,2550,18],
+"da/d9e/classSmartAIMgr.html#a58e82f8670d6827bd914e98bf4edb3aa":[6,0,2550,12],
 "da/d9e/classSmartAIMgr.html#a5d1a87fe89c2db59bacf496766304f3c":[6,0,2550,2],
 "da/d9e/classSmartAIMgr.html#a6f01c4d9414b194e671141aa560b1f06":[6,0,2550,13],
 "da/d9e/classSmartAIMgr.html#a710c4df0ccbc1f1112bfe45d5f2e9c52":[6,0,2550,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX260 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a11bf80402c002fde8b32ece6a60dff2f":[7,0,0,0,1,3,7,13,36,8],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a1b5f3041ee91b4a664528018eed0166e":[7,0,0,0,1,3,7,13,36,1],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a307d891e05530d70a32ad2047cfe6dab":[7,0,0,0,1,3,7,13,36,0],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a4de29e3fa18189011f62fd209e6be3fc":[7,0,0,0,1,3,7,13,36,3],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a6ab0bda74bcf7baf41bcd485a9ce0edc":[7,0,0,0,1,3,7,13,36,2],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a70ce837fb348f11956c1228a3ef9c325":[7,0,0,0,1,3,7,13,36,9],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a76d74da4ee3587eb152886c89f67abc9":[7,0,0,0,1,3,7,13,36,12],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a774aeafbcc7fcca150af234e9f5ba8d3":[7,0,0,0,1,3,7,13,36,7],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a8d45870c3c95c1b297f0b27948d74e01":[7,0,0,0,1,3,7,13,36,10],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a9705e75b428b543df1304a85eee62ac1":[7,0,0,0,1,3,7,13,36,14],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aa370ba4e92a593f2bb65c2198b275380":[7,0,0,0,1,3,7,13,36,11],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aa8873414cf1cfe9b65c801881b4229ab":[7,0,0,0,1,3,7,13,36,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103aab5234463aa64c76c909cd2b30631be7":[7,0,0,0,1,3,7,13,36,5],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103ad9223a935bb2b9781e91f78f175d41c2":[7,0,0,0,1,3,7,13,36,13],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103af263a112c1204e3125fcc7b0209ef285":[7,0,0,0,1,3,7,13,36,4],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981":[7,0,0,0,1,3,7,13,42]
+"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a4de29e3fa18189011f62fd209e6be3fc":[7,0,0,0,1,3,7,13,36,3]
 };

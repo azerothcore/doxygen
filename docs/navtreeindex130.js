@@ -1,5 +1,8 @@
 var NAVTREEINDEX130 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa2384b0417b3ce06bf1d030a6072858aa":[7,0,0,0,1,3,5,2,1,1,64,0],
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124":[7,0,0,0,1,3,5,2,1,1,35],
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a4a3ca1a3b56932bdcbe95f057d161b25":[7,0,0,0,1,3,5,2,1,1,35,3],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a7a1fcc392203156fa5f0c7b50574bf44":[7,0,0,0,1,3,5,2,1,1,35,5],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a89249acef2d72d2d2cefbd270ca8d5e6":[7,0,0,0,1,3,5,2,1,1,35,1],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a96d97a670ed17a7b9f6f00cba80d1f43":[7,0,0,0,1,3,5,2,1,1,35,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523":[7,0,0,0,1,2,3,1,5,1,2],
 "d4/d85/classnpc__strangulate__vehicle.html":[6,0,2131],
 "d4/d85/classnpc__strangulate__vehicle.html#a04532bc5902af45b1e9c76cf1cec9add":[6,0,2131,1],
-"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2131,2],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html":[6,0,609,0],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a0dca07b45b3293a0f19401b299fbfb9c":[6,0,609,0,2],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a1037b770bb46400aef0ec034f86468fc":[6,0,609,0,12]
+"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2131,2]
 };

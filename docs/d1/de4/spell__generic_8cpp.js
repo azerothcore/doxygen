@@ -137,6 +137,7 @@ var spell__generic_8cpp =
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling" ],
     [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
     [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", "d1/d43/classspell__gen__translocate" ],
+    [ "spell_gen_cooldown_all", "d6/db4/classspell__gen__cooldown__all.html", "d6/db4/classspell__gen__cooldown__all" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],

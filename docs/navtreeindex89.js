@@ -1,5 +1,7 @@
 var NAVTREEINDEX89 =
 {
+"d2/df4/classboss__saviana__ragefire.html#a0a0073d8710af066d9711636f4d5b01e":[6,0,688,2],
+"d2/df4/classboss__saviana__ragefire.html#a5964bbc510355a8b1fd08bd5f9f5f8c0":[6,0,688,1],
 "d2/df5/PassiveAI_8h.html":[7,0,0,0,1,2,3,0,7],
 "d2/df5/UnitScript_8h.html":[7,0,0,0,1,2,38,0,85],
 "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26":[7,0,0,0,1,2,38,0,85,1],
@@ -225,10 +227,10 @@ var NAVTREEINDEX89 =
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#a866bfc106fc33433b4eb13fabd9c39c6":[6,0,1716,0,6],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#aa79036bed206327847bf5ad2e768e8f6":[6,0,1716,0,5],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#ae0d71d4f9074c05ea76951ede6c7702a":[6,0,1716,0,1],
-"d2/df8/classspell__gen__area__aura__select__players.html":[6,0,2885],
-"d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2885,1],
-"d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2885,0],
-"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2885,2],
+"d2/df8/classspell__gen__area__aura__select__players.html":[6,0,2884],
+"d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2884,1],
+"d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2884,0],
+"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2884,2],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1339,0],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1339,0,1],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1339,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a28044cc9374c63dd7cd853918eeab5bd":[6,0,1602,0,12],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a29e7be7b161f8add8e7f502dc29efcb2":[6,0,1602,0,11],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a2e582bfb89c21ec6bc1451b70d0664ea":[6,0,1602,0,5],
-"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a32c42420cad46b39db528611893ffc12":[6,0,1602,0,15],
-"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a37d5ead96159ee03d31a2ac3bcf955de":[6,0,1602,0,23],
-"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a4ca63fe136d8acacedb1a3770c36beab":[6,0,1602,0,17]
+"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a32c42420cad46b39db528611893ffc12":[6,0,1602,0,15]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX133 =
 {
+"d4/d9c/boss__northrend__beasts_8cpp.html":[7,0,0,0,1,3,5,2,1,3],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3e":[7,0,0,0,1,3,5,2,1,3,19],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea61c0a02a51a5381cb260f3f042ab2c2c":[7,0,0,0,1,3,5,2,1,3,19,1],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea6c8f0a4e9f01afe7b43428d6559851de":[7,0,0,0,1,3,5,2,1,3,19,0],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea9a58147a9de1e78d42454e2b387b6ca0":[7,0,0,0,1,3,5,2,1,3,19,3],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3eaf3488fb29f71cd0b53328871863a262a":[7,0,0,0,1,3,5,2,1,3,19,2],
@@ -179,12 +182,12 @@ var NAVTREEINDEX133 =
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,812,4],
 "d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2566],
@@ -246,8 +249,5 @@ var NAVTREEINDEX133 =
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a2aa8becec98ec73c418e321fed0949c8":[6,0,1302,0,63],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a2dd390b66901186bc5a672f20c0f634b":[6,0,1302,0,50],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a2e4e749586b22da6b6a508394c193d7f":[6,0,1302,0,0],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a30c7395a24df4f1c5fc014b2e614ebf9":[6,0,1302,0,33],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a31085291f77931b2495a99841fa9b1f4":[6,0,1302,0,94],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a3c0a7fe38df65d3e82ce92d2365df31f":[6,0,1302,0,11],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a40da60f24392e25e723c2065bd894572":[6,0,1302,0,19]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a30c7395a24df4f1c5fc014b2e614ebf9":[6,0,1302,0,33]
 };

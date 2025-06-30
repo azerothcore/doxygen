@@ -8,5 +8,6 @@ var classgm__commandscript =
     [ "HandleGMListIngameCommand", "d7/db8/classgm__commandscript.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
     [ "HandleGMOffCommand", "d7/db8/classgm__commandscript.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
     [ "HandleGMOnCommand", "d7/db8/classgm__commandscript.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d7/db8/classgm__commandscript.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
     [ "HandleGMVisibleCommand", "d7/db8/classgm__commandscript.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

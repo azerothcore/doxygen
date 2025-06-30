@@ -1,5 +1,8 @@
 var NAVTREEINDEX108 =
 {
+"d3/db8/classMapUpdater.html#ab874c53de215037c8fae77f9dac6601c":[6,0,1486,8],
+"d3/db8/classMapUpdater.html#acf5b180bd52ae9244e0eda41bcc7573a":[6,0,1486,12],
+"d3/db8/classMapUpdater.html#afba30ac2a8ce0540b73f034b73ce5956":[6,0,1486,14],
 "d3/db8/structICNodeInfo.html":[6,0,1269],
 "d3/db8/structICNodeInfo.html#a09d4904c622dd7810e154bc0f3bd7eaf":[6,0,1269,0],
 "d3/db8/structICNodeInfo.html#a20cb8eaefa0e45b45a57645c62409ba4":[6,0,1269,1],
@@ -143,11 +146,11 @@ var NAVTREEINDEX108 =
 "d3/dc2/classboss__emeriss.html":[6,0,438],
 "d3/dc2/classboss__emeriss.html#a2d373e5add3f007cf214ad9763039aa2":[6,0,438,1],
 "d3/dc2/classboss__emeriss.html#a88a0696a12f12e612cce53c14f6b1f92":[6,0,438,2],
-"d3/dc2/classspell__dru__brambles__treant.html":[6,0,2794],
-"d3/dc2/classspell__dru__brambles__treant.html#a2f80dcd9e5922af55dee096c95079062":[6,0,2794,1],
-"d3/dc2/classspell__dru__brambles__treant.html#ad6e4bd4390f6f88494984af792a11b90":[6,0,2794,3],
-"d3/dc2/classspell__dru__brambles__treant.html#af51a8e22ddfe0648f08a4190d730fbda":[6,0,2794,0],
-"d3/dc2/classspell__dru__brambles__treant.html#af54ef254d0897140255960146507e986":[6,0,2794,2],
+"d3/dc2/classspell__dru__brambles__treant.html":[6,0,2793],
+"d3/dc2/classspell__dru__brambles__treant.html#a2f80dcd9e5922af55dee096c95079062":[6,0,2793,1],
+"d3/dc2/classspell__dru__brambles__treant.html#ad6e4bd4390f6f88494984af792a11b90":[6,0,2793,3],
+"d3/dc2/classspell__dru__brambles__treant.html#af51a8e22ddfe0648f08a4190d730fbda":[6,0,2793,0],
+"d3/dc2/classspell__dru__brambles__treant.html#af54ef254d0897140255960146507e986":[6,0,2793,2],
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html":[6,0,2187,0],
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#a6eee7e4fc83ed56a0f775b6892dc8dcb":[6,0,2187,0,0],
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#aa787deda09d9bbf2c54d51e618eb2a82":[6,0,2187,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX108 =
 "d3/dcd/classnpc__heated__battle.html#af73fc1f330bf2fd224e53be39da1c9d3":[6,0,1825,2],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html":[6,0,0,93],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html":[5,0,1,105],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a5cec285c685fce6ac215ac0cde740168":[6,0,0,93,1],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a5cec285c685fce6ac215ac0cde740168":[5,0,1,105,1],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[6,0,0,93,0],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[5,0,1,105,0]
+"d3/dcd/structAcore_1_1PlayerListSearcher.html#a5cec285c685fce6ac215ac0cde740168":[5,0,1,105,1]
 };

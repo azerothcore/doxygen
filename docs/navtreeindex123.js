@@ -1,5 +1,8 @@
 var NAVTREEINDEX123 =
 {
+"d4/d39/QueryResult_8h.html":[7,0,0,0,1,1,0,29],
+"d4/d39/classFollowerReference.html":[6,0,1049],
+"d4/d39/classFollowerReference.html#a575a5bac090f5bc5b3f2a721aa64ef42":[6,0,1049,0],
 "d4/d39/classFollowerReference.html#a5cb0bab8be8116b9a489a4922c44c5c8":[6,0,1049,2],
 "d4/d39/classFollowerReference.html#abf8c86604c3ef4349567c736090402f6":[6,0,1049,1],
 "d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html":[6,0,1842,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d3e/classBattlegroundSA.html#ace272ab605489093b54d9754e0cf9cc4":[6,0,333,52],
 "d4/d3e/classBattlegroundSA.html#ad40c8278ad5be3439bb1a9b8480d6232":[6,0,333,33],
 "d4/d3e/classBattlegroundSA.html#ad5892774581d7222c51ef16586baafa8":[6,0,333,17],
-"d4/d3e/classBattlegroundSA.html#ad995b549bc809c64a309c83d66268f57":[6,0,333,13],
-"d4/d3e/classBattlegroundSA.html#ada0cb515fadd9383d0a6f595c971b306":[6,0,333,15],
-"d4/d3e/classBattlegroundSA.html#adf8aace66db055efed5e9f4b3e83487d":[6,0,333,23],
-"d4/d3e/classBattlegroundSA.html#aed699a776840e6b940108321ba544fee":[6,0,333,31]
+"d4/d3e/classBattlegroundSA.html#ad995b549bc809c64a309c83d66268f57":[6,0,333,13]
 };

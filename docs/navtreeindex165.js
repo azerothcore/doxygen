@@ -1,5 +1,8 @@
 var NAVTREEINDEX165 =
 {
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ab2d1a580d78c3aa60cdbe6ef0461eb4d":[7,0,0,0,1,3,5,2,0,2,14,13],
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9acb7104c78bebbf26c8e32bcfb8e02580":[7,0,0,0,1,3,5,2,0,2,14,18],
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9addda73d265e7f09f934c6ffba855bf33":[7,0,0,0,1,3,5,2,0,2,14,17],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ae21692826391ca3771b01e0bddcac39f":[7,0,0,0,1,3,5,2,0,2,14,12],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9af8ddef8d32d3d246d988fd478be05700":[7,0,0,0,1,3,5,2,0,2,14,4],
 "d6/d1b/boss__grand__champions_8cpp.html#a871af00129a1ccc20185701941bacedf":[7,0,0,0,1,3,5,2,0,2,13],
@@ -75,10 +78,10 @@ var NAVTREEINDEX165 =
 "d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2614,2],
 "d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2614,1],
 "d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2614,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2766],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2766,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2766,2],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2766,1],
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2765],
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2765,0],
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2765,2],
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2765,1],
 "d6/d1d/classArenaScript.html":[6,0,181],
 "d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[6,0,181,6],
 "d6/d1d/classArenaScript.html#a164257b5ed4a0808d709870cdf73ed3b":[6,0,181,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d26/classBattlefield.html#a6a36a765ec80193285bfff7ebd390a83":[6,0,307,53],
 "d6/d26/classBattlefield.html#a6efbeb418565424c9ef82bbdc9ee0852":[6,0,307,7],
 "d6/d26/classBattlefield.html#a709eb579668329424b44794df75bf85b":[6,0,307,62],
-"d6/d26/classBattlefield.html#a7252af448fe91704c953d0b213dfb153":[6,0,307,21],
-"d6/d26/classBattlefield.html#a740e22ee66149876955d9fe592a6e56a":[6,0,307,73],
-"d6/d26/classBattlefield.html#a74e0315500997c92b8cf8a1627a98035":[6,0,307,48],
-"d6/d26/classBattlefield.html#a75ece63c4c8ae98ace080bcce190a16d":[6,0,307,27]
+"d6/d26/classBattlefield.html#a7252af448fe91704c953d0b213dfb153":[6,0,307,21]
 };

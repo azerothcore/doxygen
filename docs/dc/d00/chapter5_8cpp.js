@@ -4,7 +4,6 @@ var chapter5_8cpp =
     [ "npc_highlord_darion_mograine", "db/d22/classnpc__highlord__darion__mograine.html", "db/d22/classnpc__highlord__darion__mograine" ],
     [ "npc_highlord_darion_mograine::npc_highlord_darion_mograineAI", "da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html", "da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI" ],
     [ "spell_chapter5_light_of_dawn_aura", "dd/d1b/classspell__chapter5__light__of__dawn__aura.html", "dd/d1b/classspell__chapter5__light__of__dawn__aura" ],
-    [ "spell_chapter5_rebuke", "de/dfa/classspell__chapter5__rebuke.html", "de/dfa/classspell__chapter5__rebuke" ],
     [ "spell_chapter5_return_to_capital", "d7/d28/classspell__chapter5__return__to__capital.html", "d7/d28/classspell__chapter5__return__to__capital" ],
     [ "LightOfDawnEncounter", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cad", [
       [ "EVENT_START_COUNTDOWN_1", "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae5fdda4bd97547b50b9d420139dd4be8", null ],

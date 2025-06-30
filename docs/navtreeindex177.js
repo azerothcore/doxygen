@@ -1,5 +1,8 @@
 var NAVTREEINDEX177 =
 {
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444aba3078844283f4675371b340bff7f388":[7,0,0,0,1,2,16,6,2,6,1],
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444acc019a6183e4f640b97a7a978ac06e77":[7,0,0,0,1,2,16,6,2,6,6],
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444accb660cc28729ef2eae9139f280e09b1":[7,0,0,0,1,2,16,6,2,6,23],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444ad3cadc6c088784fc95c22fd29d79d673":[7,0,0,0,1,2,16,6,2,6,9],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444ad900fe3d87a882f21dd089cb3dbe1b7f":[7,0,0,0,1,2,16,6,2,6,10],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6":[7,0,0,0,1,2,16,6,2,6,3],
@@ -185,10 +188,10 @@ var NAVTREEINDEX177 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2269,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,30,5,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,30,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,30,5,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,30,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,30,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,30,5,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1879],
@@ -246,8 +249,5 @@ var NAVTREEINDEX177 =
 "d6/db4/classnpc__icc__skybreaker__vicar.html":[6,0,1865],
 "d6/db4/classnpc__icc__skybreaker__vicar.html#a40451cc6fba0cae59e47fa38e4fb79d3":[6,0,1865,1],
 "d6/db4/classnpc__icc__skybreaker__vicar.html#a6884bb7e54b78abee0cc995c4fbb501d":[6,0,1865,2],
-"d6/db4/model_8cpp.html":[7,0,0,0,3,4,6],
-"d6/db4/model_8cpp.html#a8d0afbab5641bb7d88196fbad79e4cf1":[7,0,0,0,3,4,6,0],
-"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html":[6,0,485,0],
-"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5":[6,0,485,0,9]
+"d6/db4/classspell__gen__cooldown__all.html":[6,0,2909]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a3e9acd34a74d7c8d2293422261c70fe7":[7,0,0,0,1,2,48,0,4,23],
+"d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a3fd93db66808946f96cfd5e794e7ff71":[7,0,0,0,1,2,48,0,4,20],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a439a41f231547b3eb1fc00096528136e":[7,0,0,0,1,2,48,0,4,30],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a4463b22c0e6785166b85aae72b0d6b07":[7,0,0,0,1,2,48,0,4,66],
 "d2/d78/IWorld_8h.html#a1b4b88c03b7d0124998b4c22e957baf0a4793367ad26d781cd2e2a991a3035739":[7,0,0,0,1,2,48,0,4,110],
@@ -233,10 +235,10 @@ var NAVTREEINDEX68 =
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ac694bbdb12357598e4ecbc3c73701559":[7,0,0,0,1,3,4,10,1,1,8],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae00882057d559f1decbe5d4c3b1fb041":[7,0,0,0,1,3,4,10,1,1,4],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae688ed1c8bf1558a6ce589efc30b1abf":[7,0,0,0,1,3,4,10,1,1,9],
-"d2/d7b/classspell__dk__hungering__cold.html":[6,0,2750],
-"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[6,0,2750,2],
-"d2/d7b/classspell__dk__hungering__cold.html#a2f42e70482f71a4c275f70897b90ed72":[6,0,2750,1],
-"d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e":[6,0,2750,0],
+"d2/d7b/classspell__dk__hungering__cold.html":[6,0,2749],
+"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[6,0,2749,2],
+"d2/d7b/classspell__dk__hungering__cold.html#a2f42e70482f71a4c275f70897b90ed72":[6,0,2749,1],
+"d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e":[6,0,2749,0],
 "d2/d7c/ServerPktHeader_8h.html":[7,0,0,0,1,2,39,1,4],
 "d2/d7c/classboss__jaraxxus.html":[6,0,552],
 "d2/d7c/classboss__jaraxxus.html#a518f7af9f86ab995e5195175b5a34bc6":[6,0,552,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d7c/classspell__sha__flame__shock.html#ad29fdb4b99e9782cf8bace07384fa87c":[6,0,3749,3],
 "d2/d7c/classspell__sha__flame__shock.html#aeab02cfd37c20aaf57e70aca62c82d99":[6,0,3749,0],
 "d2/d7d/classGroupReference.html":[6,0,1225],
-"d2/d7d/classGroupReference.html#a303caf55ea463398237e6a825f30b143":[6,0,1225,5],
-"d2/d7d/classGroupReference.html#a458157654c27def9b36b68ae099ca7b3":[6,0,1225,6],
-"d2/d7d/classGroupReference.html#a4c15e8dbb9f990f9ab66c5e1466d0616":[6,0,1225,8]
+"d2/d7d/classGroupReference.html#a303caf55ea463398237e6a825f30b143":[6,0,1225,5]
 };

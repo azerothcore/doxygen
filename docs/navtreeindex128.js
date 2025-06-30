@@ -1,5 +1,8 @@
 var NAVTREEINDEX128 =
 {
+"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a195fe4d681580c17086a5390fd4f82ba":[6,0,2087,0,6],
+"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a1ee55a572462a1e832a5b89c8906bd87":[6,0,2087,0,5],
+"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4":[6,0,2087,0,7],
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#ab02edf780adb553b2314045d8effa277":[6,0,2087,0,4],
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#ac4bb0aa4009191a36dd4cebb45fd2ad5":[6,0,2087,0,2],
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#adde187b89a74a57aac823e4eb19bfeed":[6,0,2087,0,3],
@@ -210,8 +213,8 @@ var NAVTREEINDEX128 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691":[7,0,0,0,1,3,5,2,1,0,18],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4":[7,0,0,0,1,3,5,2,1,0,18,1],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[7,0,0,0,1,3,5,2,1,0,18,0],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,30,5,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[6,0,11,5,13],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,30,5,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,30,5,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,5,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,11,5,13,3],
@@ -240,14 +243,11 @@ var NAVTREEINDEX128 =
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,27,23],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a136cf475a8246611c52b3af41707fe83":[6,0,9,23,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a136cf475a8246611c52b3af41707fe83":[5,0,27,23,2],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[6,0,9,23,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[5,0,27,23,3],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[6,0,9,23,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[6,0,9,23,6],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[5,0,27,23,6],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[5,0,27,23,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[6,0,9,23,1],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[6,0,9,23,4],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[5,0,27,23,4],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[5,0,27,23,0],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[6,0,9,23,0]
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[5,0,27,23,1],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[5,0,27,23,4]
 };

@@ -315,30 +315,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1411</span>    {</div>
-<div class="line"><span class="lineno"> 1412</span>        <span class="comment">// Check if we have valid targets, otherwise skip spell casting here</span></div>
-<div class="line"><span class="lineno"> 1413</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno"> 1414</span>            <span class="keywordflow">for</span> (Unit::ControlSet::const_iterator itr = player-&gt;m_Controlled.begin(); itr != player-&gt;m_Controlled.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 1415</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* undeadPet = (*itr)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
-<div class="line"><span class="lineno"> 1416</span>                    <span class="keywordflow">if</span> (undeadPet-&gt;IsAlive() &amp;&amp;</div>
-<div class="line"><span class="lineno"> 1417</span>                            undeadPet-&gt;GetOwnerGUID() == player-&gt;GetGUID() &amp;&amp;</div>
-<div class="line"><span class="lineno"> 1418</span>                            undeadPet-&gt;GetCreatureType() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344">CREATURE_TYPE_UNDEAD</a> &amp;&amp;</div>
-<div class="line"><span class="lineno"> 1419</span>                            undeadPet-&gt;IsWithinDist(player, 100.0f, <span class="keyword">false</span>))</div>
-<div class="line"><span class="lineno"> 1420</span>                        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 1421</span> </div>
-<div class="line"><span class="lineno"> 1422</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaefb143fec77b4fcde0bc45deb3c38b7c">SPELL_FAILED_NO_PET</a>;</div>
-<div class="line"><span class="lineno"> 1423</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1421</span>    {</div>
+<div class="line"><span class="lineno"> 1422</span>        <span class="comment">// Check if we have valid targets, otherwise skip spell casting here</span></div>
+<div class="line"><span class="lineno"> 1423</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno"> 1424</span>            <span class="keywordflow">for</span> (Unit::ControlSet::const_iterator itr = player-&gt;m_Controlled.begin(); itr != player-&gt;m_Controlled.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1425</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* undeadPet = (*itr)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno"> 1426</span>                    <span class="keywordflow">if</span> (undeadPet-&gt;IsAlive() &amp;&amp;</div>
+<div class="line"><span class="lineno"> 1427</span>                            undeadPet-&gt;GetOwnerGUID() == player-&gt;GetGUID() &amp;&amp;</div>
+<div class="line"><span class="lineno"> 1428</span>                            undeadPet-&gt;GetCreatureType() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344">CREATURE_TYPE_UNDEAD</a> &amp;&amp;</div>
+<div class="line"><span class="lineno"> 1429</span>                            undeadPet-&gt;IsWithinDist(player, 100.0f, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno"> 1430</span>                        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 1431</span> </div>
+<div class="line"><span class="lineno"> 1432</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaefb143fec77b4fcde0bc45deb3c38b7c">SPELL_FAILED_NO_PET</a>;</div>
+<div class="line"><span class="lineno"> 1433</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344">CREATURE_TYPE_UNDEAD</a></div><div class="ttdeci">@ CREATURE_TYPE_UNDEAD</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2633</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1138</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daaefb143fec77b4fcde0bc45deb3c38b7c"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaefb143fec77b4fcde0bc45deb3c38b7c">SPELL_FAILED_NO_PET</a></div><div class="ttdeci">@ SPELL_FAILED_NO_PET</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1033</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassObject_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition</b> Object.h:206</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1082</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1083</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_UNDEAD</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l01033">SPELL_FAILED_NO_PET</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01447">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01457">Register()</a>.</p>
 
 </div>
 </div>
@@ -365,26 +365,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1426</span>    {</div>
-<div class="line"><span class="lineno"> 1427</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1428</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = targetList.begin(); itr != targetList.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 1429</span>        {</div>
-<div class="line"><span class="lineno"> 1430</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = (*itr)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
-<div class="line"><span class="lineno"> 1431</span>                <span class="keywordflow">if</span> (unit-&gt;GetOwnerGUID() == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() &amp;&amp; unit-&gt;GetCreatureType() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344">CREATURE_TYPE_UNDEAD</a>)</div>
-<div class="line"><span class="lineno"> 1432</span>                {</div>
-<div class="line"><span class="lineno"> 1433</span>                    target = unit;</div>
-<div class="line"><span class="lineno"> 1434</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1435</span>                }</div>
-<div class="line"><span class="lineno"> 1436</span>        }</div>
-<div class="line"><span class="lineno"> 1437</span> </div>
-<div class="line"><span class="lineno"> 1438</span>        targetList.clear();</div>
-<div class="line"><span class="lineno"> 1439</span>        <span class="keywordflow">if</span> (target)</div>
-<div class="line"><span class="lineno"> 1440</span>        {</div>
-<div class="line"><span class="lineno"> 1441</span>            <span class="comment">// xinef: remove all auras preventing effect execution</span></div>
-<div class="line"><span class="lineno"> 1442</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a64d9c322a416b811e28023613f40eaad">RemoveAllAurasOnDeath</a>();</div>
-<div class="line"><span class="lineno"> 1443</span>            targetList.push_back(target);</div>
-<div class="line"><span class="lineno"> 1444</span>        }</div>
-<div class="line"><span class="lineno"> 1445</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1436</span>    {</div>
+<div class="line"><span class="lineno"> 1437</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1438</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = targetList.begin(); itr != targetList.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1439</span>        {</div>
+<div class="line"><span class="lineno"> 1440</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* unit = (*itr)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
+<div class="line"><span class="lineno"> 1441</span>                <span class="keywordflow">if</span> (unit-&gt;GetOwnerGUID() == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() &amp;&amp; unit-&gt;GetCreatureType() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a5bc40f1116d89138cda8ebd1a04694dfa90dea51445e88ead6218aa0a5a5e4344">CREATURE_TYPE_UNDEAD</a>)</div>
+<div class="line"><span class="lineno"> 1442</span>                {</div>
+<div class="line"><span class="lineno"> 1443</span>                    target = unit;</div>
+<div class="line"><span class="lineno"> 1444</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1445</span>                }</div>
+<div class="line"><span class="lineno"> 1446</span>        }</div>
+<div class="line"><span class="lineno"> 1447</span> </div>
+<div class="line"><span class="lineno"> 1448</span>        targetList.clear();</div>
+<div class="line"><span class="lineno"> 1449</span>        <span class="keywordflow">if</span> (target)</div>
+<div class="line"><span class="lineno"> 1450</span>        {</div>
+<div class="line"><span class="lineno"> 1451</span>            <span class="comment">// xinef: remove all auras preventing effect execution</span></div>
+<div class="line"><span class="lineno"> 1452</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a64d9c322a416b811e28023613f40eaad">RemoveAllAurasOnDeath</a>();</div>
+<div class="line"><span class="lineno"> 1453</span>            targetList.push_back(target);</div>
+<div class="line"><span class="lineno"> 1454</span>        }</div>
+<div class="line"><span class="lineno"> 1455</span>    }</div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 <div class="ttc" id="aclassObject_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition</b> Object.h:210</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
@@ -392,7 +392,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_UNDEAD</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l05382">Unit::RemoveAllAurasOnDeath()</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01447">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01457">Register()</a>.</p>
 
 </div>
 </div>
@@ -446,20 +446,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1448</span>    {</div>
-<div class="line"><span class="lineno"> 1449</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966">spell_dk_death_pact::CheckCast</a>);</div>
-<div class="line"><span class="lineno"> 1450</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd">spell_dk_death_pact::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a>);</div>
-<div class="line"><span class="lineno"> 1451</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1458</span>    {</div>
+<div class="line"><span class="lineno"> 1459</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966">spell_dk_death_pact::CheckCast</a>);</div>
+<div class="line"><span class="lineno"> 1460</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd">spell_dk_death_pact::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a>);</div>
+<div class="line"><span class="lineno"> 1461</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a1a24c010eb0d4314412fee23c67a98b4">TARGET_UNIT_DEST_AREA_ALLY</a></div><div class="ttdeci">@ TARGET_UNIT_DEST_AREA_ALLY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1435</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__dk__death__pact_html_a6ee8387c7fed3fd3042852a2f542c5bd"><div class="ttname"><a href="../../de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd">spell_dk_death_pact::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targetList)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1425</div></div>
-<div class="ttc" id="aclassspell__dk__death__pact_html_ab215bbeea333d250ecbff0482f4f0966"><div class="ttname"><a href="../../de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966">spell_dk_death_pact::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1410</div></div>
+<div class="ttc" id="aclassspell__dk__death__pact_html_a6ee8387c7fed3fd3042852a2f542c5bd"><div class="ttname"><a href="../../de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd">spell_dk_death_pact::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targetList)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1435</div></div>
+<div class="ttc" id="aclassspell__dk__death__pact_html_ab215bbeea333d250ecbff0482f4f0966"><div class="ttname"><a href="../../de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966">spell_dk_death_pact::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1420</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01410">CheckCast()</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01425">FilterTargets()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00329">SpellCheckCastFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01435">TARGET_UNIT_DEST_AREA_ALLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01420">CheckCast()</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01435">FilterTargets()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00329">SpellCheckCastFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01435">TARGET_UNIT_DEST_AREA_ALLY</a>.</p>
 
 </div>
 </div>
@@ -472,7 +472,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d75/classspell__dk__death__pact.html">spell_dk_death_pact</a></li>
-    <li class="footer">Generated on Sun Jun 29 2025 06:23:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jun 30 2025 06:26:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

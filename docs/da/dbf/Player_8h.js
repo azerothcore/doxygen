@@ -297,7 +297,8 @@ var Player_8h =
       [ "PLAYER_EXTRA_HAS_310_FLYER", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0eca82331fcdf3f4cc99367b74b224153cdc", null ],
       [ "PLAYER_EXTRA_SPECTATOR_ON", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecac950ed5e60136d7150be960ae38420fd", null ],
       [ "PLAYER_EXTRA_PVP_DEATH", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0ecad9fc309580a3e8ac23871eab1c8ce586", null ],
-      [ "PLAYER_EXTRA_SHOW_DK_PET", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0eca883035687dbce2bb8cd1a4293c9df599", null ]
+      [ "PLAYER_EXTRA_SHOW_DK_PET", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0eca883035687dbce2bb8cd1a4293c9df599", null ],
+      [ "PLAYER_EXTRA_GM_SPECTATOR", "da/dbf/Player_8h.html#a3ab88b258808534e161f229800cfa0eca289e35f422e3e84106e0cc44327352bb", null ]
     ] ],
     [ "PlayerFieldByte2Flags", "da/dbf/Player_8h.html#a29b0496d910c02e5cc98d349c4427474", [
       [ "PLAYER_FIELD_BYTE2_NONE", "da/dbf/Player_8h.html#a29b0496d910c02e5cc98d349c4427474abe76b28df20592b4328b9d9ea04da780", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a37d5ead96159ee03d31a2ac3bcf955de":[6,0,1602,0,23],
+"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a4ca63fe136d8acacedb1a3770c36beab":[6,0,1602,0,17],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a4d839cda5bd7a6e20b2ee3052624f23a":[6,0,1602,0,7],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a552bf13e89cb6f5fe9a79c596a3d7b99":[6,0,1602,0,22],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a57aa8b51d0c55b196dbbcc6aa4e300c3":[6,0,1602,0,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html":[6,0,1911],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a77e98bc345f7d27f145d4b29c4deb58e":[6,0,1911,1],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a94fdd0778818fcc6a8b818d38dde6f75":[6,0,1911,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3659],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3659,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3659,0]
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3659]
 };

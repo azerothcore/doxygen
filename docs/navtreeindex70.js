@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#ac873b4b477bc5937fd78578bec85d518acb5c50f1c84e7a9d57df4cda1fe637e8":[7,0,0,0,1,3,10,3,23,3],
+"d2/d8e/boss__emerald__dragons_8cpp.html#ac873b4b477bc5937fd78578bec85d518acc0661fb211381d2582ee0d02806643e":[7,0,0,0,1,3,10,3,23,4],
 "d2/d8e/boss__emerald__dragons_8cpp.html#ac873b4b477bc5937fd78578bec85d518ae24c5c554c09ed7fa30f118629dd25e2":[7,0,0,0,1,3,10,3,23,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#ac873b4b477bc5937fd78578bec85d518af628c506e0df35f0b4d67626b020fb33":[7,0,0,0,1,3,10,3,23,10],
 "d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,10,3,21],
@@ -152,15 +154,15 @@ var NAVTREEINDEX70 =
 "d2/d93/classGuild_1_1Member.html#ae77d3b6c0880703bc3fa490648b74cb7":[6,0,1243,6,4],
 "d2/d93/classGuild_1_1Member.html#ae875e07f72a78934302eda4d16981c5b":[6,0,1243,6,12],
 "d2/d93/classGuild_1_1Member.html#afa43b716e30e66244db9b5be04a7bc95":[6,0,1243,6,30],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html":[6,0,2730],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a3226edbe6b24a827f2ef28ccfb815b7a":[6,0,2730,7],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a4f827a906ac279e143ba8545545090ad":[6,0,2730,2],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a5052689d815e0a0543693b39b7454deb":[6,0,2730,6],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d":[6,0,2730,0],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ab23f26c3470f629f0a20f28faf272a68":[6,0,2730,1],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2730,5],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2730,4],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2730,3],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html":[6,0,2729],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#a3226edbe6b24a827f2ef28ccfb815b7a":[6,0,2729,7],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#a4f827a906ac279e143ba8545545090ad":[6,0,2729,2],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#a5052689d815e0a0543693b39b7454deb":[6,0,2729,6],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d":[6,0,2729,0],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#ab23f26c3470f629f0a20f28faf272a68":[6,0,2729,1],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2729,5],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2729,4],
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2729,3],
 "d2/d93/classspell__winter__wondervolt__trap.html":[6,0,3993],
 "d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,3993,1],
 "d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,3993,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,2,2,3],
 "d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298ca0376e4f25472e1ca2be44753ac897399":[7,0,0,0,1,3,7,2,2,2,3,4],
 "d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298ca56fa3ac1114f5ae9edfffe8e19be1619":[7,0,0,0,1,3,7,2,2,2,3,3],
-"d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298cabff9db34c7a25c4bc9a8d72300266c46":[7,0,0,0,1,3,7,2,2,2,3,5],
-"d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298cadc7fa41bca93f3d02c9d7feb0ca828fc":[7,0,0,0,1,3,7,2,2,2,3,2],
-"d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298cae602bec58a86171496bbf327d7744cf6":[7,0,0,0,1,3,7,2,2,2,3,0]
+"d2/d9b/boss__warlord__kalithresh_8cpp.html#a5bd342133be8c2137b831460acc9298cabff9db34c7a25c4bc9a8d72300266c46":[7,0,0,0,1,3,7,2,2,2,3,5]
 };

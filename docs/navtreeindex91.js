@@ -1,5 +1,7 @@
 var NAVTREEINDEX91 =
 {
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3659,2],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3659,0],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[6,0,3659,3],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3659,1],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[6,0,1813,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0b/namespaceAcore.html#a339e193b2696d368e3fd5ba8ac348ba9":[5,0,1,171],
 "d3/d0b/namespaceAcore.html#a33dad9e8e49e78c8486f2a91b49c0984":[5,0,1,204],
 "d3/d0b/namespaceAcore.html#a355df1d62e245473475d330ef6c45bae":[5,0,1,189],
-"d3/d0b/namespaceAcore.html#a36e61ba9bc4e287e215444ea9314a656":[5,0,1,196],
-"d3/d0b/namespaceAcore.html#a3714737e66e682a43beb71292ccd564e":[5,0,1,193],
-"d3/d0b/namespaceAcore.html#a3bc394692e5fd3b096a149b1208e3675":[5,0,1,179]
+"d3/d0b/namespaceAcore.html#a36e61ba9bc4e287e215444ea9314a656":[5,0,1,196]
 };

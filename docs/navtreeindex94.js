@@ -1,5 +1,7 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32af08a725a8652cb4ea7c7f198b8a0e1c6":[7,0,0,0,1,1,0,0,5,1,76],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32af08d67b6b411243fc93da24e7fccfde2":[7,0,0,0,1,1,0,0,5,1,46],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32af16b6229d5c45d966ea14ec34d9ec32f":[7,0,0,0,1,1,0,0,5,1,61],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32af67e3b5d083991b1b0cf42097cdd4ea5":[7,0,0,0,1,1,0,0,5,1,16],
 "d3/d1f/classnpc__frost__freeze__trap.html":[6,0,1783],
@@ -160,10 +162,11 @@ var NAVTREEINDEX94 =
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html#a60738702870e2cacbcdf600e9e7073b5":[6,0,480,0,1],
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html#a714a582c6ec552b969624244d709d14d":[6,0,480,0,5],
 "d3/d28/structboss__freya__nature__bomb_1_1boss__freya__nature__bombAI.html#acbf4d330bb5bf4a032732895e8f7e35b":[6,0,480,0,0],
-"d3/d29/classspell__dk__bone__shield.html":[6,0,2735],
-"d3/d29/classspell__dk__bone__shield.html#a2840931b939b95e6a476c07f08ca66b5":[6,0,2735,1],
-"d3/d29/classspell__dk__bone__shield.html#ab00bbdd8580426a621abc11c4308bdc4":[6,0,2735,0],
-"d3/d29/classspell__dk__bone__shield.html#ae769fddc14aed4d1055d2f947d292fcf":[6,0,2735,2],
+"d3/d29/classspell__dk__bone__shield.html":[6,0,2734],
+"d3/d29/classspell__dk__bone__shield.html#a2840931b939b95e6a476c07f08ca66b5":[6,0,2734,1],
+"d3/d29/classspell__dk__bone__shield.html#a69e1d242b6d4bfc752e7e0921aa0f90c":[6,0,2734,3],
+"d3/d29/classspell__dk__bone__shield.html#ab00bbdd8580426a621abc11c4308bdc4":[6,0,2734,0],
+"d3/d29/classspell__dk__bone__shield.html#ae769fddc14aed4d1055d2f947d292fcf":[6,0,2734,2],
 "d3/d2a/classnpc__icc__lk__checktarget.html":[6,0,1858],
 "d3/d2a/classnpc__icc__lk__checktarget.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd":[6,0,1858,2],
 "d3/d2a/classnpc__icc__lk__checktarget.html#a3a2cc943e731e472694dcb13417090da":[6,0,1858,1],
@@ -177,8 +180,8 @@ var NAVTREEINDEX94 =
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1742],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1742,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1742,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[6,0,1770,5],
 "d3/d30/classnpc__finklestein.html#aa719b4bb95012c22ef8123e255e32edd":[6,0,1770,1],
 "d3/d30/classnpc__finklestein.html#ac82d5e5dc2e0539c90dfcfe17430548c":[6,0,1770,3],
-"d3/d31/classgo__scourge__enclosure.html":[6,0,1167],
-"d3/d31/classgo__scourge__enclosure.html#a3611232cb735f336087d4d3c90f66b8d":[6,0,1167,0],
-"d3/d31/classgo__scourge__enclosure.html#af505dd0a5d9224cd7586878d1fbd3351":[6,0,1167,1],
-"d3/d32/boss__yoggsaron_8cpp.html":[7,0,0,0,1,3,5,9,2,13]
+"d3/d31/classgo__scourge__enclosure.html":[6,0,1167]
 };

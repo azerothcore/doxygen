@@ -1,5 +1,8 @@
 var NAVTREEINDEX121 =
 {
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#aa5cd735c22d46e1b756f87f3952033a1":[6,0,454,0,4],
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#acee81492b9b751df587a3a2cdd691ab3":[6,0,454,0,5],
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#af2fbf866f87d568ee6028f0931d3b74e":[6,0,454,0,7],
 "d4/d24/boss__cyanigosa_8cpp.html":[7,0,0,0,1,3,5,12,0],
 "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,0,2],
 "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a254cc05b0bdd6851394b287ad5ebf19c":[7,0,0,0,1,3,5,12,0,2,4],
@@ -76,8 +79,8 @@ var NAVTREEINDEX121 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2642],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2642,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2642,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX121 =
 "d4/d2d/classHideNpcEvent.html#ab454295aab0f5d4586740140232e96eb":[6,0,1255,0],
 "d4/d2d/classHideNpcEvent.html#ac5481c94e180900f0a455dc1f1f9851c":[6,0,1255,2],
 "d4/d2d/classHideNpcEvent.html#aecfbbbcac3fd98675913a6381c891a59":[6,0,1255,1],
-"d4/d2d/classMovement_1_1SplineBase.html":[6,0,7,12],
-"d4/d2d/classMovement_1_1SplineBase.html":[5,0,21,12],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,21,12,6]
+"d4/d2d/classMovement_1_1SplineBase.html":[5,0,21,12]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX374 =
 {
+"df/d0c/classnpc__hor__lumbering__abomination.html#a0d394d1ba52a05a6db0ae983daea7123":[6,0,1841,1],
+"df/d0e/classnpc__toc__pet__warlock.html":[6,0,2180],
+"df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[6,0,2180,1],
+"df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[6,0,2180,2],
+"df/d0e/classspell__igb__burning__pitch__selector.html":[6,0,3126],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[6,0,3126,1],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[6,0,3126,3],
+"df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[6,0,3126,0],
+"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[6,0,3126,2],
 "df/d10/structMailLevelReward.html":[6,0,1461],
 "df/d10/structMailLevelReward.html#a2b678ac953209691b38d583cffab55b5":[6,0,1461,4],
 "df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[6,0,1461,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX374 =
 "df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[6,0,2372,73],
 "df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2372,77],
 "df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[6,0,2372,23],
-"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[6,0,2372,80],
-"df/d14/classPet.html#adc0d7b4c353cf003020f9682e47b86b9":[6,0,2372,34],
-"df/d14/classPet.html#ae2e012cf32db4cb54424dd7a227beef7":[6,0,2372,87],
-"df/d14/classPet.html#ae3c907fb96ae318cb5766374090b8d5d":[6,0,2372,58],
-"df/d14/classPet.html#ae7e405a70abc5d4a687e06f087760c16":[6,0,2372,44],
-"df/d14/classPet.html#ae8456efad9fd499fceed997fbcb72cb8":[6,0,2372,83],
-"df/d14/classPet.html#ae8d049acb26724ea002a56b0a9c99094":[6,0,2372,29],
-"df/d14/classPet.html#ae9f6f4b4936dc8c0470bfb5af8625632":[6,0,2372,18],
-"df/d14/classPet.html#aebb642ac95fcbf9442b2c0f8a2edbfba":[6,0,2372,3],
-"df/d14/classPet.html#af0bfeef6074cf6142e68d84447e28b13":[6,0,2372,52]
+"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[6,0,2372,80]
 };
