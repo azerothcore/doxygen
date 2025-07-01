@@ -1001,10 +1001,10 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p><code>#include &lt;<a class="el" href="../../dd/d5b/World_8h.html">azerothcore-wotlk/src/server/game/World/World.h</a>&gt;</code></p>
-<div class="fragment"><div class="line"><span class="lineno">  149</span>{</div>
-<div class="line"><span class="lineno">  150</span>    <span class="keyword">static</span> std::unique_ptr&lt;IWorld&gt; instance = std::make_unique&lt;World&gt;();</div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">return</span> instance;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keyword">static</span> std::unique_ptr&lt;IWorld&gt; instance = std::make_unique&lt;World&gt;();</div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">return</span> instance;</div>
+<div class="line"><span class="lineno">  148</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1138,7 +1138,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00040">WeatherData::data</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l03146">MAX_WEATHER_TYPE</a>, <a class="el" href="../../#l00033">WeatherSeasonChances::rainChance</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, <a class="el" href="../../#l00030">WEATHER_SEASONS</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01278">World::SetInitialWorldSettings()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
 
 </div>
 </div>
@@ -1517,7 +1517,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  163</span>        }</div>
 <div class="line"><span class="lineno">  164</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l02059">World::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01084">World::Update()</a>.</p>
 
 </div>
 </div>
@@ -1648,7 +1648,7 @@ Variables</h2></td></tr>
 <p>Create the <a class="el" href="../../d4/d44/classWeather.html" title="Weather for one zone.">Weather</a> object. </p>
 <div class="fragment"><div class="line"><span class="lineno">   32</span>    : <a class="code hl_variable" href="../../df/d17/group__world.html#ga1fd12588331e8f86399378b7bb12317b">m_zone</a>(zone), <a class="code hl_variable" href="../../df/d17/group__world.html#gaeb74bbd4568c726a2443318aea6313d0">m_weatherChances</a>(weatherChances)</div>
 <div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../df/d17/group__world.html#gadba1100bafe6db8a242bdad35663e909">m_timer</a>.<a class="code hl_function" href="../../d5/dab/structIntervalTimer.html#a28d95330f971d3a37aaf53e4f16aad4a">SetInterval</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a37ea211e8608a22ed7514e0f65d1051c">CONFIG_INTERVAL_CHANGEWEATHER</a>));</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../df/d17/group__world.html#gadba1100bafe6db8a242bdad35663e909">m_timer</a>.<a class="code hl_function" href="../../d5/dab/structIntervalTimer.html#a28d95330f971d3a37aaf53e4f16aad4a">SetInterval</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a37ea211e8608a22ed7514e0f65d1051c">CONFIG_INTERVAL_CHANGEWEATHER</a>));</div>
 <div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../df/d17/group__world.html#ga19d9ed53043ba2b9eb3bdc27921501eb">m_type</a> = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aae2a79ad426e847c0ddfd77d04ce2516aa1988ce2bf038a6a3c854556ba39ab4e">WEATHER_TYPE_FINE</a>;</div>
 <div class="line"><span class="lineno">   36</span>    <a class="code hl_variable" href="../../df/d17/group__world.html#ga5638d204d5986f64eed9d343d086895e">m_grade</a> = 0;</div>
 <div class="line"><span class="lineno">   37</span> </div>
@@ -1656,12 +1656,12 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   39</span>}</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aCommon_8h_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition</b> Common.h:47</div></div>
-<div class="ttc" id="aIWorld_8h_html_a17aac4c166ebe43e3b8fdccf9e012e41a37ea211e8608a22ed7514e0f65d1051c"><div class="ttname"><a href="../../d2/d78/IWorld_8h.html#a17aac4c166ebe43e3b8fdccf9e012e41a37ea211e8608a22ed7514e0f65d1051c">CONFIG_INTERVAL_CHANGEWEATHER</a></div><div class="ttdeci">@ CONFIG_INTERVAL_CHANGEWEATHER</div><div class="ttdef"><b>Definition</b> IWorld.h:212</div></div>
-<div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:357</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a37ea211e8608a22ed7514e0f65d1051c"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a37ea211e8608a22ed7514e0f65d1051c">CONFIG_INTERVAL_CHANGEWEATHER</a></div><div class="ttdeci">@ CONFIG_INTERVAL_CHANGEWEATHER</div><div class="ttdef"><b>Definition</b> WorldConfig.h:163</div></div>
+<div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:320</div></div>
 <div class="ttc" id="astructIntervalTimer_html_a28d95330f971d3a37aaf53e4f16aad4a"><div class="ttname"><a href="../../d5/dab/structIntervalTimer.html#a28d95330f971d3a37aaf53e4f16aad4a">IntervalTimer::SetInterval</a></div><div class="ttdeci">void SetInterval(time_t interval)</div><div class="ttdef"><b>Definition</b> Timer.h:179</div></div>
 <div class="ttc" id="astructIntervalTimer_html_a986bec1dcb7325088517f6721636abcc"><div class="ttname"><a href="../../d5/dab/structIntervalTimer.html#a986bec1dcb7325088517f6721636abcc">IntervalTimer::GetInterval</a></div><div class="ttdeci">time_t GetInterval() const</div><div class="ttdef"><b>Definition</b> Timer.h:184</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00212">CONFIG_INTERVAL_CHANGEWEATHER</a>, <a class="el" href="../../#l00184">IntervalTimer::GetInterval()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00084">Weather::m_grade</a>, <a class="el" href="../../#l00085">Weather::m_timer</a>, <a class="el" href="../../#l00083">Weather::m_type</a>, <a class="el" href="../../#l00082">Weather::m_zone</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00179">IntervalTimer::SetInterval()</a>, <a class="el" href="../../#l00357">sWorld</a>, and <a class="el" href="../../#l03138">WEATHER_TYPE_FINE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">CONFIG_INTERVAL_CHANGEWEATHER</a>, <a class="el" href="../../#l00184">IntervalTimer::GetInterval()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00084">Weather::m_grade</a>, <a class="el" href="../../#l00085">Weather::m_timer</a>, <a class="el" href="../../#l00083">Weather::m_type</a>, <a class="el" href="../../#l00082">Weather::m_zone</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00179">IntervalTimer::SetInterval()</a>, <a class="el" href="../../#l00320">sWorld</a>, and <a class="el" href="../../#l03138">WEATHER_TYPE_FINE</a>.</p>
 
 </div>
 </div>
@@ -1867,7 +1867,7 @@ Variables</h2></td></tr>
 
 <p><code>#include &lt;<a class="el" href="../../dd/d5b/World_8h.html">azerothcore-wotlk/src/server/game/World/World.h</a>&gt;</code></p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02507">World::_UpdateRealmCharCount()</a>, <a class="el" href="../../#l00484">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00726">account_commandscript::HandleAccountSetGmLevelCommand()</a>, <a class="el" href="../../#l00037">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l00527">WorldSocket::HandleAuthSession()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00158">gm_commandscript::HandleGMListFullCommand()</a>, <a class="el" href="../../#l00069">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00328">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l01930">misc_commandscript::HandlePInfoCommand()</a>, <a class="el" href="../../#l00795">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l00108">server_commandscript::HandleServerDebugCommand()</a>, <a class="el" href="../../#l00520">server_commandscript::HandleServerSetMotdCommand()</a>, <a class="el" href="../../#l00076">ChatHandler::HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00168">World::LoadConfigSettings()</a>, <a class="el" href="../../#l02610">World::LoadDBAllowedSecurityLevel()</a>, <a class="el" href="../../#l00658">LoadRealmInfo()</a>, <a class="el" href="../../#l00119">main()</a>, <a class="el" href="../../#l00738">AuthSession::RealmListCallback()</a>, <a class="el" href="../../#l01278">World::SetInitialWorldSettings()</a>, <a class="el" href="../../#l00421">StartDB()</a>, <a class="el" href="../../#l02059">World::Update()</a>, <a class="el" href="../../#l00094">RealmList::UpdateRealm()</a>, and <a class="el" href="../../#l00128">RealmList::UpdateRealms()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01584">World::_UpdateRealmCharCount()</a>, <a class="el" href="../../#l00484">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00726">account_commandscript::HandleAccountSetGmLevelCommand()</a>, <a class="el" href="../../#l00037">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l00527">WorldSocket::HandleAuthSession()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00158">gm_commandscript::HandleGMListFullCommand()</a>, <a class="el" href="../../#l00069">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00328">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l01930">misc_commandscript::HandlePInfoCommand()</a>, <a class="el" href="../../#l00795">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l00108">server_commandscript::HandleServerDebugCommand()</a>, <a class="el" href="../../#l00520">server_commandscript::HandleServerSetMotdCommand()</a>, <a class="el" href="../../#l00076">ChatHandler::HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00164">World::LoadConfigSettings()</a>, <a class="el" href="../../#l01687">World::LoadDBAllowedSecurityLevel()</a>, <a class="el" href="../../#l00658">LoadRealmInfo()</a>, <a class="el" href="../../#l00119">main()</a>, <a class="el" href="../../#l00738">AuthSession::RealmListCallback()</a>, <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>, <a class="el" href="../../#l00421">StartDB()</a>, <a class="el" href="../../#l01084">World::Update()</a>, <a class="el" href="../../#l00094">RealmList::UpdateRealm()</a>, and <a class="el" href="../../#l00128">RealmList::UpdateRealms()</a>.</p>
 
 </div>
 </div>
@@ -1924,7 +1924,7 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jun 30 2025 06:25:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 1 2025 06:24:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

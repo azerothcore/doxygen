@@ -1897,6 +1897,10 @@ var hierarchy =
     [ "ConditionMgr", "d9/df7/classConditionMgr.html", null ],
     [ "ConditionSourceInfo", "d9/d1e/structConditionSourceInfo.html", null ],
     [ "ConfigMgr", "d4/df7/classConfigMgr.html", null ],
+    [ "ConfigValueCache< ConfigEnum >", "d9/dc5/classConfigValueCache.html", null ],
+    [ "ConfigValueCache< ServerConfigs >", "d9/dc5/classConfigValueCache.html", [
+      [ "WorldConfig", "d5/d28/classWorldConfig.html", null ]
+    ] ],
     [ "Acore::Crypto::Constants", "d7/d4d/structAcore_1_1Crypto_1_1Constants.html", null ],
     [ "Acore::ContainerInserter< Type >", "da/d17/classAcore_1_1ContainerInserter.html", null ],
     [ "Acore::ContainerInserter< Creature * >", "da/d17/classAcore_1_1ContainerInserter.html", [
@@ -3904,11 +3908,6 @@ var hierarchy =
         [ "npc_overlord_drakuru_betrayal", "de/d2a/classnpc__overlord__drakuru__betrayal.html", null ],
         [ "npc_paoka_swiftmountain", "d6/db1/classnpc__paoka__swiftmountain.html", null ],
         [ "npc_parqual_fintallas", "db/d99/classnpc__parqual__fintallas.html", null ],
-        [ "npc_pet_dk_army_of_the_dead", "d3/d15/classnpc__pet__dk__army__of__the__dead.html", null ],
-        [ "npc_pet_dk_dancing_rune_weapon", "df/dad/classnpc__pet__dk__dancing__rune__weapon.html", null ],
-        [ "npc_pet_dk_ebon_gargoyle", "db/d74/classnpc__pet__dk__ebon__gargoyle.html", null ],
-        [ "npc_pet_dk_ghoul", "dc/d7d/classnpc__pet__dk__ghoul.html", null ],
-        [ "npc_pet_dk_risen_ally", "dd/d7a/classnpc__pet__dk__risen__ally.html", null ],
         [ "npc_pet_trainer", "d7/d7d/classnpc__pet__trainer.html", null ],
         [ "npc_phalanx", "dc/d97/classnpc__phalanx.html", null ],
         [ "npc_phantom_hallucination", "df/df7/classnpc__phantom__hallucination.html", null ],
@@ -4632,8 +4631,8 @@ var hierarchy =
           [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html", null ],
           [ "npc_heated_battle::npc_heated_battleAI", "d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html", null ],
           [ "npc_llod_generic::npc_llod_genericAI", "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html", null ],
-          [ "npc_pet_dk_army_of_the_dead::npc_pet_dk_army_of_the_deadAI", "d0/d6e/structnpc__pet__dk__army__of__the__dead_1_1npc__pet__dk__army__of__the__deadAI.html", null ],
-          [ "npc_pet_dk_ghoul::npc_pet_dk_ghoulAI", "d8/d9f/structnpc__pet__dk__ghoul_1_1npc__pet__dk__ghoulAI.html", null ],
+          [ "npc_pet_dk_army_of_the_dead", "d5/d61/structnpc__pet__dk__army__of__the__dead.html", null ],
+          [ "npc_pet_dk_ghoul", "de/d02/structnpc__pet__dk__ghoul.html", null ],
           [ "npc_ravenous_worg::npc_ravenous_worgAI", "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI.html", null ]
         ] ],
         [ "NullCreatureAI", "df/dc8/classNullCreatureAI.html", [
@@ -4713,7 +4712,7 @@ var hierarchy =
           [ "npc_nightbane_helper_target", "d6/d07/structnpc__nightbane__helper__target.html", null ],
           [ "npc_orb_carrier::npc_orb_carrierAI", "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html", null ],
           [ "npc_pet_darting_hatchling", "d7/d25/structnpc__pet__darting__hatchling.html", null ],
-          [ "npc_pet_dk_dancing_rune_weapon::npc_pet_dk_dancing_rune_weaponAI", "d3/dec/structnpc__pet__dk__dancing__rune__weapon_1_1npc__pet__dk__dancing__rune__weaponAI.html", null ],
+          [ "npc_pet_dk_dancing_rune_weapon", "d9/dad/structnpc__pet__dk__dancing__rune__weapon.html", null ],
           [ "npc_pet_gen_fetch_ball", "d4/da5/structnpc__pet__gen__fetch__ball.html", null ],
           [ "npc_pet_gen_imp_in_a_bottle", "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html", null ],
           [ "npc_pet_gen_moth", "d8/d40/structnpc__pet__gen__moth.html", null ],
@@ -4785,7 +4784,7 @@ var hierarchy =
         [ "PetAI", "db/da4/classPetAI.html", null ],
         [ "PossessedAI", "db/df3/classPossessedAI.html", [
           [ "npc_controller", "df/d65/structnpc__controller.html", null ],
-          [ "npc_pet_dk_risen_ally::npc_pet_dk_risen_allyAI", "d6/dd9/structnpc__pet__dk__risen__ally_1_1npc__pet__dk__risen__allyAI.html", null ]
+          [ "npc_pet_dk_risen_ally", "dc/dfe/structnpc__pet__dk__risen__ally.html", null ]
         ] ],
         [ "ReactorAI", "dc/dfb/classReactorAI.html", null ],
         [ "ScriptedAI", "db/dc8/structScriptedAI.html", [
@@ -5627,7 +5626,7 @@ var hierarchy =
           [ "npc_parasitic_shadowfiend", "dc/dc7/structnpc__parasitic__shadowfiend.html", null ],
           [ "npc_partygoer", "da/dc6/structnpc__partygoer.html", null ],
           [ "npc_partygoer_pather", "d3/df3/structnpc__partygoer__pather.html", null ],
-          [ "npc_pet_dk_ebon_gargoyle::npc_pet_dk_ebon_gargoyleAI", "dd/d7f/structnpc__pet__dk__ebon__gargoyle_1_1npc__pet__dk__ebon__gargoyleAI.html", null ],
+          [ "npc_pet_dk_ebon_gargoyle", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html", null ],
           [ "npc_pet_gen_argent_pony_bridle", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html", null ],
           [ "npc_pet_gen_gnomish_flame_turret", "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html", null ],
           [ "npc_pet_gen_soul_trader_beacon", "d9/d90/structnpc__pet__gen__soul__trader__beacon.html", null ],

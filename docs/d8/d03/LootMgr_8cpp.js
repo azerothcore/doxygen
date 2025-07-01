@@ -30,5 +30,5 @@ var LootMgr_8cpp =
     [ "LootTemplates_Reference", "d8/d03/LootMgr_8cpp.html#a556a2458977647462ba38f61da196218", null ],
     [ "LootTemplates_Skinning", "d8/d03/LootMgr_8cpp.html#a195e88b39c43d01cbf8b1871a7129a60", null ],
     [ "LootTemplates_Spell", "d8/d03/LootMgr_8cpp.html#a12b8cff5bc25ff6a80a044a72d037aaa", null ],
-    [ "qualityToRate", "d8/d03/LootMgr_8cpp.html#a6777c1d78d0dc1837339a3dcc257f25c", null ]
+    [ "qualityToRate", "d8/d03/LootMgr_8cpp.html#aaa3aa72e5700e28104b67a1f347c64c7", null ]
 ];

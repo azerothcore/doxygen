@@ -22,6 +22,8 @@ var ObjectMgr_8cpp =
     [ "isValidString", "d8/dd8/ObjectMgr_8cpp.html#a4f5a667f6078863c869b5c92387532fa", null ],
     [ "normalizePlayerName", "d8/dd8/ObjectMgr_8cpp.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
     [ "lang_description", "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "qualityToBuyValueConfig", "d8/dd8/ObjectMgr_8cpp.html#aa622a06edade2e3d18da67881d15918c", null ],
+    [ "qualityToSellValueConfig", "d8/dd8/ObjectMgr_8cpp.html#a774395755c07e6b3831e37e1f8448844", null ],
     [ "sEventScripts", "d8/dd8/ObjectMgr_8cpp.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
     [ "sSpellScripts", "d8/dd8/ObjectMgr_8cpp.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
     [ "sWaypointScripts", "d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
