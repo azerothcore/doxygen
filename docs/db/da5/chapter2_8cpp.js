@@ -8,6 +8,10 @@ var chapter2_8cpp =
     [ "npc_scarlet_courier::npc_scarlet_courierAI", "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html", "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI" ],
     [ "npc_a_special_surprise", "d0/dae/classnpc__a__special__surprise.html", "d0/dae/classnpc__a__special__surprise" ],
     [ "npc_a_special_surprise::npc_a_special_surpriseAI", "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html", "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI" ],
+    [ "npc_acherus_necromancer", "de/d1c/classnpc__acherus__necromancer.html", "de/d1c/classnpc__acherus__necromancer" ],
+    [ "npc_acherus_necromancer::npc_acherus_necromancerAI", "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html", "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI" ],
+    [ "npc_gothik_the_harvester", "d6/dd2/classnpc__gothik__the__harvester.html", "d6/dd2/classnpc__gothik__the__harvester" ],
+    [ "npc_gothik_the_harvester::npc_gothik_the_harvesterAI", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI" ],
     [ "Koltira", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
       [ "SAY_BREAKOUT0", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
       [ "SAY_BREAKOUT1", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],
@@ -36,6 +40,21 @@ var chapter2_8cpp =
       [ "POINT_ANTI_MAGIC_ZONE", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d", null ],
       [ "POINT_MOUNT", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12", null ],
       [ "POINT_DESPAWN", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf", null ]
+    ] ],
+    [ "NecroNPCs", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54b", [
+      [ "NPC_GLUTTONOUS_GEIST", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba946cf2ea381d689ffcef19f0a24a835f", null ],
+      [ "NPC_DEAD_SCARLET_MEDIC", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bacc6d33f1c0ebf1a434ff8d445570c028", null ],
+      [ "NPC_DEAD_SCARLET_INFANTRYMAN", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bafb3b3ff0c180c391669df10af2f84672", null ],
+      [ "NPC_DEAD_SCARLET_CAPTAIN", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bac2d30da7b378ca6e232c2578d3456ce6", null ],
+      [ "NPC_DEAD_SCARLET_PEASANT", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba4959d66cbbfa4b2580009941f0407508", null ],
+      [ "NPC_DEAD_SCARLET_MINER", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba4d9bc6861ef764baa7f475ebda2a133b", null ],
+      [ "NPC_DEAD_SCARLET_FLEET_DEFENDER", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bab9bf0eb9d1355ba598d6bcca86c3cc16", null ],
+      [ "NPC_DEAD_SCARLET_GRYPHON", "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba3105d94759897e91e1186ba4b93a2fe9", null ]
+    ] ],
+    [ "NecroSpells", "db/da5/chapter2_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610", [
+      [ "SPELL_SCARLET_GHOUL", "db/da5/chapter2_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a88f2efc8fafad847f157cf8924b28ea2", null ],
+      [ "SPELL_SCOURGE_GRYPHON", "db/da5/chapter2_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a40711f230e0a3b241f4d8c6f840df486", null ],
+      [ "SPELL_GHOULPLOSION", "db/da5/chapter2_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a9e2e8cb96d69b1ed0ed95be65a907ac8", null ]
     ] ],
     [ "ScarletCourierEnum", "db/da5/chapter2_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4", [
       [ "SAY_TREE1", "db/da5/chapter2_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794", null ],
