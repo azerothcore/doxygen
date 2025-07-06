@@ -1,5 +1,9 @@
 var NAVTREEINDEX353 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
+"de/d20/structCharStartOutfitEntry.html":[6,0,859],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
 "de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,859,0],
@@ -74,14 +78,14 @@ var NAVTREEINDEX353 =
 "de/d24/classnpc__hover__disk.html#af0ab534387a2af4e168915801ee855e5":[6,0,1849,1],
 "de/d24/cs__send_8cpp.html":[7,0,0,0,1,3,0,40],
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,1],
-"de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,29,0],
+"de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,29,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,29,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,29,0,1],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,29,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,10,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,29,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX353 =
 "de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3520],
 "de/d28/classspell__pos__slave__trigger__closest.html#a7594952f23cba22b886c2c3b10f363d4":[6,0,3520,2],
 "de/d28/classspell__pos__slave__trigger__closest.html#ab79a160e0d5b0c6e0ecfa842a4da2819":[6,0,3520,1],
-"de/d28/classspell__pos__slave__trigger__closest.html#aef592aafe931351186edf98f7aba7e22":[6,0,3520,0],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html":[6,0,1158,0],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1158,0,1],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9c983aa02285dbebc545b4056191200c":[6,0,1158,0,3],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1158,0,4]
+"de/d28/classspell__pos__slave__trigger__closest.html#aef592aafe931351186edf98f7aba7e22":[6,0,3520,0]
 };

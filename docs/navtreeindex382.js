@@ -1,5 +1,9 @@
 var NAVTREEINDEX382 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[6,0,9,22,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[6,0,9,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[5,0,27,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[6,0,9,22,15],
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,27,22,15],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,27,22,3],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX382 =
 "df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1711,2],
 "df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[6,0,1711,1],
 "df/d6c/classspell__pilgrims__bounty__turkey__tracker.html":[6,0,3515],
-"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a074f54a4b022adc6ea34b3716dec745f":[6,0,3515,0],
-"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a339df7ae9553fbae68ce791baef1df5e":[6,0,3515,2],
-"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a725d5bc1f76614778b140f3061aa2e03":[6,0,3515,1],
-"df/d6c/classspell__sartharion__lava__strike.html":[6,0,3727],
-"df/d6c/classspell__sartharion__lava__strike.html#a3fd71e2a93f99f19443640a2147b1663":[6,0,3727,3]
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a074f54a4b022adc6ea34b3716dec745f":[6,0,3515,0]
 };

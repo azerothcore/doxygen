@@ -1,5 +1,9 @@
 var NAVTREEINDEX271 =
 {
+"db/d0f/structnpc__ahune__bunny.html#aa8dff40dde7820b1ce4e06c8d27e4ecb":[6,0,1565,5],
+"db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1565,1],
+"db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1565,0],
+"db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1565,6],
 "db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX271 =
 "db/d1b/classspell__shadowblink.html":[6,0,3774],
 "db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[6,0,3774,0],
 "db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[6,0,3774,2],
-"db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3774,3],
-"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3774,1],
-"db/d1b/structboss__kazrogal.html":[6,0,563],
-"db/d1b/structboss__kazrogal.html#a0b54f8c935d09367d7e6b7dbf6c4ce61":[6,0,563,2],
-"db/d1b/structboss__kazrogal.html#a2b3cc0e99c478c55f907898fbec2b8b2":[6,0,563,0]
+"db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3774,3]
 };

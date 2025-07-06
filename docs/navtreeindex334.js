@@ -1,5 +1,9 @@
 var NAVTREEINDEX334 =
 {
+"dd/dcf/structCharacterCacheEntry.html#ae1921d1e949cec70ebbd52779b775df6":[6,0,849,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[6,0,2207,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#a4c1f53fbbc6189ca9ee0420bc4198684":[6,0,2207,0,2],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aa66f1aa48cf928ac12751cb3ca2358f3":[6,0,2207,0,4],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#ad21127654d5511b6b1d9b22cdd77bd08":[6,0,2207,0,3],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aedb43124c923621aadecb77511204fc6":[6,0,2207,0,0],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[6,0,2207,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf":[7,0,0,0,1,3,5,1,1,2,32,34],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cace14711262a8c537d9a9944063caa5c5":[7,0,0,0,1,3,5,1,1,2,32,36],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacf29e6a20e169dce5fcceb611b2c2ba0":[7,0,0,0,1,3,5,1,1,2,32,5],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacf7fd3c78dd2facda3f3d2bc9fa70056":[7,0,0,0,1,3,5,1,1,2,32,15],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae5aab5b5b47af5aff20b605afde84278":[7,0,0,0,1,3,5,1,1,2,32,23],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae7473d5bc22b110e233fcd4f0f744b90":[7,0,0,0,1,3,5,1,1,2,32,45],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caea22bf0ab4ea520a289186a942c6c2d1":[7,0,0,0,1,3,5,1,1,2,32,6],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caed947e02a8704c936d8cfa3c6a5b59c7":[7,0,0,0,1,3,5,1,1,2,32,18]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacf7fd3c78dd2facda3f3d2bc9fa70056":[7,0,0,0,1,3,5,1,1,2,32,15]
 };

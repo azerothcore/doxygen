@@ -1,5 +1,9 @@
 var NAVTREEINDEX371 =
 {
+"de/dd8/classInstanceMap.html#aa7191fa5eeb80404dde25802e64878cc":[6,0,1353,4],
+"de/dd8/classInstanceMap.html#aabae71377e431f1690fa3934b1bd2a5c":[6,0,1353,19],
+"de/dd8/classInstanceMap.html#aabfd4a995353adcd4ab0bd64b8e59b7e":[6,0,1353,18],
+"de/dd8/classInstanceMap.html#aac59e76c4c67bffa05b8c5994f004a18":[6,0,1353,1],
 "de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9":[6,0,1353,12],
 "de/dd8/classInstanceMap.html#aceb53450ca21e22bbf414f16d7923737":[6,0,1353,6],
 "de/dd8/classInstanceMap.html#ad60b7ef4ef14f36245394fd7c929aad2":[6,0,1353,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX371 =
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2687,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html":[6,0,770,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a14c65e87caf2f0e815955946357aebf2":[6,0,770,0,14],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a3305529d3a25a929c4c6c5128773a4b6":[6,0,770,0,13],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a3a3617b13a66c38695551a5814868f40":[6,0,770,0,21],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a4704b32d29a4465fcc2a3f638deb37a9":[6,0,770,0,11],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a5e92fd793b6eedc8d1102b89aabecc68":[6,0,770,0,9],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a5ee620ae4a5570bef0746eb3a57d96b7":[6,0,770,0,17]
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a3305529d3a25a929c4c6c5128773a4b6":[6,0,770,0,13]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX293 =
 {
+"db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a4f7edf7bc7480bf0c9f6aec113b2e058":[6,0,1673,0,2],
+"db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a98b2ff2f0e152a41106eaace5273aa69":[6,0,1673,0,1],
+"db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#ac96af1fd018e88950d1c58562dffdb83":[6,0,1673,0,3],
+"db/dec/classboss__sister__svalna.html":[6,0,696],
 "db/dec/classboss__sister__svalna.html#a233a9606db61f6ab945350e98a0929ff":[6,0,696,1],
 "db/dec/classboss__sister__svalna.html#a5eb89badd75104dfe1dc3e03d372adc0":[6,0,696,2],
 "db/dec/classspell__midsummer__ribbon__pole__firework.html":[6,0,3421],
@@ -128,8 +132,8 @@ var NAVTREEINDEX293 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,30,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,30,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,30,5,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,30,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3143],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3143,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3143,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX293 =
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2":[7,0,0,0,1,2,8,15,1,5],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a":[7,0,0,0,1,2,8,15,1,11],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7":[7,0,0,0,1,2,8,15,1,2],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a":[7,0,0,0,1,2,8,15,1,7],
-"db/df4/classspell__hodir__biting__cold__player__aura.html":[6,0,3065],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#a3e7343f124b66a55d9a6cbf0ab085309":[6,0,3065,5],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#a3f6653b4ca202d9b0971189930e8b463":[6,0,3065,4],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#a9dd8f32c8ec709a14be15b46745b692b":[6,0,3065,6]
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a":[7,0,0,0,1,2,8,15,1,7]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX337 =
 {
+"dd/df4/classspell__deathbringer__blood__power.html#a359453c6253beb6f729209c6d3d79af7":[6,0,2715,0],
+"dd/df4/classspell__deathbringer__blood__power.html#a4a387df07c88144288c4327ce86b730a":[6,0,2715,2],
+"dd/df4/classspell__deathbringer__blood__power.html#a4f916abef69782be10cc6be9ba0124f5":[6,0,2715,1],
+"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html":[6,0,3294],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#acac962ba1cb72615772fe8bc81d24f9d":[6,0,3294,0],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[6,0,3294,2],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[6,0,3294,1],
@@ -31,14 +35,14 @@ var NAVTREEINDEX337 =
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[6,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[6,0,0,38,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,1,50,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[6,0,0,38,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,1,50,0,3],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[6,0,0,38,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,1,50,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,38,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,1,50,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,38,0,2],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,50,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,38,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,50,0,0],
 "dd/df8/SRP6_8h.html":[7,0,0,0,0,3,0,4],
 "dd/df9/classnpc__ulduar__expedition__engineer.html":[6,0,2212],
 "dd/df9/classnpc__ulduar__expedition__engineer.html#a1ff99e62b9c2222d8c08e71bfda600ea":[6,0,2212,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX337 =
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17":[7,0,0,0,1,2,11,0,1,5,2],
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e":[7,0,0,0,1,2,11,0,1,5,3],
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d":[7,0,0,0,1,2,11,0,1,5,4],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17":[7,0,0,0,1,2,11,0,1,5,1],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77":[7,0,0,0,1,2,11,0,1,5,6],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c":[7,0,0,0,1,2,11,0,1,5,5],
-"de/d03/Channel_8h.html#a32e7211cd1262883c225f32863018c39":[7,0,0,0,1,2,11,0,1,6],
-"de/d03/Channel_8h.html#a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7":[7,0,0,0,1,2,11,0,1,6,4]
+"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17":[7,0,0,0,1,2,11,0,1,5,1]
 };

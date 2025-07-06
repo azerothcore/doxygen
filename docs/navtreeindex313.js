@@ -1,5 +1,9 @@
 var NAVTREEINDEX313 =
 {
+"dc/dda/structboss__janalai.html#a6a049cb60b475b6c496862205d91c39f":[6,0,551,0],
+"dc/dda/structboss__janalai.html#a7caee2554fe4f6211589e3346d1865fd":[6,0,551,5],
+"dc/dda/structboss__janalai.html#a881f564fe75051c1c10e645d3f0b243b":[6,0,551,14],
+"dc/dda/structboss__janalai.html#a8f42138403eb2ef6d1737539dd352e80":[6,0,551,9],
 "dc/dda/structboss__janalai.html#a902814fa472af7dde6096e6e1901bfd4":[6,0,551,1],
 "dc/dda/structboss__janalai.html#a9320a91d93f1fc82ec863ecf767c0a8a":[6,0,551,2],
 "dc/dda/structboss__janalai.html#a9a32cbc9bb1c1542a19aea32f9a9addf":[6,0,551,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX313 =
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af7ada19ef9f0a41cfbe3fa5f82d539b7":[7,0,0,0,1,3,3,1,34,1],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af919e7c5177f7362a608a27d96cefb5c":[7,0,0,0,1,3,3,1,34,14],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973afad8b82466cd7a695591579dbc20d0c7":[7,0,0,0,1,3,3,1,34,17],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973afc3e716c0747870baa0816576d4a16af":[7,0,0,0,1,3,3,1,34,22],
-"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88":[7,0,0,0,1,3,3,1,39],
-"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,3,1,39,2],
-"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a4759cf00b99e3a6f4a2f65af817bd203":[7,0,0,0,1,3,3,1,39,1],
-"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88a5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,3,1,39,0]
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973afc3e716c0747870baa0816576d4a16af":[7,0,0,0,1,3,3,1,34,22]
 };

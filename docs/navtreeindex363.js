@@ -1,5 +1,9 @@
 var NAVTREEINDEX363 =
 {
+"de/d87/boss__netherspite_8cpp.html#a56bc96a8aa9bd958a1424749416d8bd4":[7,0,0,0,1,3,2,4,5,8],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,5,5],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d6e490960801191a590241ba200b2c":[7,0,0,0,1,3,2,4,5,5,0],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2385e82e98a5ec79d206aae4580c8504":[7,0,0,0,1,3,2,4,5,5,6],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca26438c32a6e128c85fccb573bc869f4a":[7,0,0,0,1,3,2,4,5,5,4],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e7c9a294a6919b4b75ea034b46ae870":[7,0,0,0,1,3,2,4,5,5,2],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca966a9f6d39c25574ae624c5b3eff675b":[7,0,0,0,1,3,2,4,5,5,1],
@@ -63,8 +67,8 @@ var NAVTREEINDEX363 =
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3763,3],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,1,8,0,26,0],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0],
 "de/d8d/structArenaScore.html":[6,0,180],
 "de/d8d/structArenaScore.html#a3fe2ab34a9abc4d8c4ff863334cf2c84":[6,0,180,1],
 "de/d8d/structArenaScore.html#a486ee0e05ac5160f0fb174e2a1e061bb":[6,0,180,5],
@@ -78,12 +82,12 @@ var NAVTREEINDEX363 =
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[6,0,2979,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,1,8,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
 "de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
 "de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,2,1,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX363 =
 "de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4126,12],
 "de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4126,10],
 "de/d95/classTicketMgr.html#ab89b490da7ddfd888b36f4ec0beced36":[6,0,4126,13],
-"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[6,0,4126,6],
-"de/d95/classTicketMgr.html#ace173a347497eb6601a8c4654bdf0347":[6,0,4126,9],
-"de/d95/classTicketMgr.html#ad2bec18f0007fc2160b4899b86dcb9e9":[6,0,4126,14],
-"de/d95/classTicketMgr.html#ad9aafcc0c0211eea71ba7c69de9f9d8b":[6,0,4126,20],
-"de/d95/classTicketMgr.html#aecb8908d0ea10ab044cf969aea4d3b88":[6,0,4126,4]
+"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[6,0,4126,6]
 };

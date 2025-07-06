@@ -1,5 +1,9 @@
 var NAVTREEINDEX352 =
 {
+"de/d19/namespaceMMAP.html#a8c5ddef856ef804076860bb176c6d9e1":[5,0,20,28],
+"de/d19/namespaceMMAP.html#a94a0ee7c4f225dfc488737a7ba825bae":[5,0,20,35],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165":[5,0,20,21],
+"de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12":[5,0,20,21,4],
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b":[5,0,20,21,2],
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[5,0,20,21,1],
 "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[5,0,20,21,3],
@@ -237,17 +241,13 @@ var NAVTREEINDEX352 =
 "de/d1e/classMailSender.html#a9ddda06cf5ecc55efdc4525353471c5b":[6,0,1465,3],
 "de/d20/classVMAP_1_1MapRayCallback.html":[6,0,9,11],
 "de/d20/classVMAP_1_1MapRayCallback.html":[5,0,27,11],
-"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[5,0,27,11,2],
+"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,27,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,27,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,27,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
-"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
-"de/d20/structCharStartOutfitEntry.html":[6,0,859]
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3]
 };

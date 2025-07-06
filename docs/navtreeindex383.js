@@ -1,5 +1,9 @@
 var NAVTREEINDEX383 =
 {
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a339df7ae9553fbae68ce791baef1df5e":[6,0,3515,2],
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a725d5bc1f76614778b140f3061aa2e03":[6,0,3515,1],
+"df/d6c/classspell__sartharion__lava__strike.html":[6,0,3727],
+"df/d6c/classspell__sartharion__lava__strike.html#a3fd71e2a93f99f19443640a2147b1663":[6,0,3727,3],
 "df/d6c/classspell__sartharion__lava__strike.html#a414b1e1396910b87a671305ce9dcab09":[6,0,3727,5],
 "df/d6c/classspell__sartharion__lava__strike.html#a8278d362a4354ccf81665ce0067c9a06":[6,0,3727,4],
 "df/d6c/classspell__sartharion__lava__strike.html#a8372b7d176c94689b1b7fe99add7812e":[6,0,3727,1],
@@ -218,8 +222,8 @@ var NAVTREEINDEX383 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2780,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2780,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2780,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,117],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,105],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2751],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2751,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2751,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX383 =
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ae1c4e16cd9ad68e4700d68ed64baa8e2":[6,0,755,0,8],
 "df/d79/Map_8h.html":[7,0,0,0,1,2,26,4],
 "df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb":[7,0,0,0,1,2,26,4,8],
-"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[7,0,0,0,1,2,26,4,7],
-"df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318":[7,0,0,0,1,2,26,4,11],
-"df/d79/Map_8h.html#a37ba261cbc15afa0e5cb95e9d34fe115":[7,0,0,0,1,2,26,4,9],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,4,13],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,4,13,3]
+"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[7,0,0,0,1,2,26,4,7]
 };

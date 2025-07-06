@@ -1,5 +1,9 @@
 var NAVTREEINDEX323 =
 {
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html":[6,0,1840,0],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a03dd56d6801194333288a2edc7ae4eaa":[6,0,1840,0,4],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1840,0,6],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1840,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1840,0,2],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1840,0,0],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1840,0,1],
@@ -11,8 +15,8 @@ var NAVTREEINDEX323 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,428,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,428,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,428,0,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d58/classnpc__toc__rogue.html":[6,0,2186],
 "dd/d58/classnpc__toc__rogue.html#a6f0246b284ffd800e3870d70e9c52aac":[6,0,2186,2],
 "dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[6,0,2186,1],
-"dd/d58/classspell__gen__knock__away.html":[6,0,2948],
-"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[6,0,2948,0],
-"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2948,2],
-"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2948,1],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1891,0]
+"dd/d58/classspell__gen__knock__away.html":[6,0,2948]
 };

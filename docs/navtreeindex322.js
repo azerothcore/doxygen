@@ -1,5 +1,9 @@
 var NAVTREEINDEX322 =
 {
+"dd/d3b/structGameObjectTemplate.html#a63f6b5296456a06f2a0e461d73f6b3ea":[6,0,1084,12],
+"dd/d3b/structGameObjectTemplate.html#a658cbe9bd4886349fa90f271c61cfe3f":[6,0,1084,150],
+"dd/d3b/structGameObjectTemplate.html#a658fd26d2199672d1e3abf08163ba50d":[6,0,1084,125],
+"dd/d3b/structGameObjectTemplate.html#a65e33aac04896c9f9b68808ae6724056":[6,0,1084,39],
 "dd/d3b/structGameObjectTemplate.html#a6607724bec98dae5d9926ef95be96d83":[6,0,1084,143],
 "dd/d3b/structGameObjectTemplate.html#a66b21ad3e927e8f04e796f29ef836554":[6,0,1084,84],
 "dd/d3b/structGameObjectTemplate.html#a67aa14ccaea3181f5e9b359fb28d31ec":[6,0,1084,158],
@@ -150,10 +154,10 @@ var NAVTREEINDEX322 =
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,455,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[6,0,1384,3],
 "dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1384,0],
 "dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1384,1],
-"dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[6,0,1384,2],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html":[6,0,1840,0],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a03dd56d6801194333288a2edc7ae4eaa":[6,0,1840,0,4],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1840,0,6],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1840,0,7]
+"dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[6,0,1384,2]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX374 =
 {
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[6,0,3435,0],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5":[6,0,3435,1],
+"df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html":[6,0,1779,0],
+"df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a25df0b8760e9eb7d330779e10e3ac548":[6,0,1779,0,0],
 "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a9cc0b500f1289dc8b764b3755468e639":[6,0,1779,0,1],
 "df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html":[6,0,799,0],
 "df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#a03841acfd21e920bc6589203448709a0":[6,0,799,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX374 =
 "df/d14/classPet.html#a5318c4fc909c15b4ac3ed440f8ad5f2b":[6,0,2375,69],
 "df/d14/classPet.html#a53b8f73a1fa1618417bf791acc9815c8":[6,0,2375,75],
 "df/d14/classPet.html#a6152b833b94d8b470e83c6d4b1a18fa1":[6,0,2375,33],
-"df/d14/classPet.html#a62481470d2548378d2ca31c8f8af70d2":[6,0,2375,7],
-"df/d14/classPet.html#a641fba5945a2462c733fc98da6e4fee2":[6,0,2375,50],
-"df/d14/classPet.html#a65aeabc87692b03661afe4204672ec35":[6,0,2375,46],
-"df/d14/classPet.html#a6628391579f132dd36b5e8af5ea97f12":[6,0,2375,51],
-"df/d14/classPet.html#a684e52f54901ab9c2f02dfcee5312358":[6,0,2375,79]
+"df/d14/classPet.html#a62481470d2548378d2ca31c8f8af70d2":[6,0,2375,7]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX336 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba3752b368fc612cd40c80f4892f83b7d8":[7,0,0,0,1,3,5,19,37,11],
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba536196f84b83e4eaf3b3fe78c9df2cc8":[7,0,0,0,1,3,5,19,37,2],
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba555c0f944c1b69b930b96c21c2f0b3ff":[7,0,0,0,1,3,5,19,37,9],
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,19,37,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba9cf2faff07cd45e6ad2b3079df78c447":[7,0,0,0,1,3,5,19,37,7],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbac7b7264f3ed2f23ac1abe23f74fd84c2":[7,0,0,0,1,3,5,19,37,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbacf0e09ec5d3579ff8de698c1cd310978":[7,0,0,0,1,3,5,19,37,1],
@@ -196,8 +200,8 @@ var NAVTREEINDEX336 =
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,30,8,2,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,11,8,2,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,30,8,2,2],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,11,8,2,1],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,30,8,2,1],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,11,8,2,1],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html":[6,0,3156],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a08be3cb2bef2f4697b7e258b231bd35b":[6,0,3156,3],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a0d8d042e6e9bf8fd26b6f283f6da6194":[6,0,3156,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX336 =
 "dd/df4/classgo__amberpine__outhouse.html#a7cbfc3a091ad2332fd46140a24ac4e37":[6,0,1108,1],
 "dd/df4/classgo__amberpine__outhouse.html#a953ea72b3954c89b6c391de5aca3b6ce":[6,0,1108,0],
 "dd/df4/classgo__amberpine__outhouse.html#aa55fe049ba43dbd548ba55d982d89d51":[6,0,1108,2],
-"dd/df4/classspell__deathbringer__blood__power.html":[6,0,2715],
-"dd/df4/classspell__deathbringer__blood__power.html#a359453c6253beb6f729209c6d3d79af7":[6,0,2715,0],
-"dd/df4/classspell__deathbringer__blood__power.html#a4a387df07c88144288c4327ce86b730a":[6,0,2715,2],
-"dd/df4/classspell__deathbringer__blood__power.html#a4f916abef69782be10cc6be9ba0124f5":[6,0,2715,1],
-"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html":[6,0,3294]
+"dd/df4/classspell__deathbringer__blood__power.html":[6,0,2715]
 };

@@ -1,13 +1,17 @@
 var NAVTREEINDEX386 =
 {
+"df/d8e/classMMAP_1_1MMapMgr.html#aa97a8352cad200ea1243e968dc1629a6":[5,0,20,7,13],
+"df/d8e/classMMAP_1_1MMapMgr.html#aa97a8352cad200ea1243e968dc1629a6":[6,0,6,7,13],
+"df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[6,0,6,7,0],
+"df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[5,0,20,7,0],
 "df/d8e/classMMAP_1_1MMapMgr.html#ac677ea014721d0631195ba64b05c66a0":[6,0,6,7,9],
 "df/d8e/classMMAP_1_1MMapMgr.html#ac677ea014721d0631195ba64b05c66a0":[5,0,20,7,9],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[6,0,6,7,10],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,20,7,10],
 "df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[5,0,20,7,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[6,0,6,7,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,7,6],
 "df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,20,7,6],
+"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,7,6],
 "df/d8e/classspell__mage__burnout__trigger.html":[6,0,3371],
 "df/d8e/classspell__mage__burnout__trigger.html#a1f83fae2fb3dc0904ed56101e1254f5f":[6,0,3371,2],
 "df/d8e/classspell__mage__burnout__trigger.html#a4fde3142b38989cb37db76da6eada03c":[6,0,3371,0],
@@ -116,10 +120,10 @@ var NAVTREEINDEX386 =
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,950,1],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,950,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,950,1,11],
-"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,950,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,950,1,0],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,950,1,4],
+"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,950,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,950,1,5],
+"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,950,1,4],
 "df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,950,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,950,1,2],
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[6,0,950,1,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX386 =
 "df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304":[7,0,0,0,1,3,6,8,7,1],
 "df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0":[7,0,0,0,1,3,6,8,7,0],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19":[7,0,0,0,1,3,6,8,4],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623":[7,0,0,0,1,3,6,8,4,1],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870":[7,0,0,0,1,3,6,8,4,7],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099":[7,0,0,0,1,3,6,8,4,8],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8":[7,0,0,0,1,3,6,8,4,6],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb":[7,0,0,0,1,3,6,8,4,5]
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623":[7,0,0,0,1,3,6,8,4,1]
 };
