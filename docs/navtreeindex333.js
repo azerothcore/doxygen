@@ -1,16 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a44bb21dbceb7f3d834cf8896eb0bf204":[7,0,0,0,1,2,38,0,75,1,150],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a46b45eff4b16d8894f96a1d46d60d6a9":[7,0,0,0,1,2,38,0,75,1,15],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48ac1860f792469c42281167e11a5857":[7,0,0,0,1,2,38,0,75,1,64],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48e5f4b7118a2abbd36fe0495a47dc04":[7,0,0,0,1,2,38,0,75,1,40],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a493d7f3ef76f284ebdaed121a4807fc9":[7,0,0,0,1,2,38,0,75,1,35],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4beede9c6d328b0a3ed4e3de54d84d5d":[7,0,0,0,1,2,38,0,75,1,140],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4c83084594eb999fb812cd56f702b46b":[7,0,0,0,1,2,38,0,75,1,19],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4cc6de75cb5eecef61848ad137123ef6":[7,0,0,0,1,2,38,0,75,1,38],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4dc9fd4f15030fce0284d0234dc7e1da":[7,0,0,0,1,2,38,0,75,1,114],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4eaf717cb621c69d9a14f306e84c2bf4":[7,0,0,0,1,2,38,0,75,1,30],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4f8f32845d9731a818cb076a0b457588":[7,0,0,0,1,2,38,0,75,1,176],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e":[7,0,0,0,1,2,38,0,75,1,5],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9":[7,0,0,0,1,2,38,0,75,1,182],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a51d113782023b5ec1661e3d0de7ebb8b":[7,0,0,0,1,2,38,0,75,1,120],
@@ -249,5 +238,16 @@ var NAVTREEINDEX333 =
 "dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,849,7],
 "dd/dcf/structCharacterCacheEntry.html#a91c17eef26be0a18823a9834853c296a":[6,0,849,10],
 "dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[6,0,849,9],
-"dd/dcf/structCharacterCacheEntry.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532":[6,0,849,4]
+"dd/dcf/structCharacterCacheEntry.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532":[6,0,849,4],
+"dd/dcf/structCharacterCacheEntry.html#ae1921d1e949cec70ebbd52779b775df6":[6,0,849,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[6,0,2206,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#a4c1f53fbbc6189ca9ee0420bc4198684":[6,0,2206,0,2],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aa66f1aa48cf928ac12751cb3ca2358f3":[6,0,2206,0,4],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#ad21127654d5511b6b1d9b22cdd77bd08":[6,0,2206,0,3],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aedb43124c923621aadecb77511204fc6":[6,0,2206,0,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[6,0,2206,0,1],
+"dd/dd1/classboss__professor__putricide.html":[6,0,659],
+"dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,659,2],
+"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,659,1],
+"dd/dd1/classspell__target__fissures.html":[6,0,3827]
 };

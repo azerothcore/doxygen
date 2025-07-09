@@ -1,7 +1,5 @@
 var chapter2_8cpp =
 [
-    [ "npc_crusade_persuaded", "dc/d11/classnpc__crusade__persuaded.html", "dc/d11/classnpc__crusade__persuaded" ],
-    [ "npc_crusade_persuaded::npc_crusade_persuadedAI", "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html", "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI" ],
     [ "npc_koltira_deathweaver", "dd/dda/classnpc__koltira__deathweaver.html", "dd/dda/classnpc__koltira__deathweaver" ],
     [ "npc_koltira_deathweaver::npc_koltira_deathweaverAI", "d4/dad/structnpc__koltira__deathweaver_1_1npc__koltira__deathweaverAI.html", "d4/dad/structnpc__koltira__deathweaver_1_1npc__koltira__deathweaverAI" ],
     [ "npc_scarlet_courier", "dc/d1d/classnpc__scarlet__courier.html", "dc/d1d/classnpc__scarlet__courier" ],
@@ -12,6 +10,7 @@ var chapter2_8cpp =
     [ "npc_acherus_necromancer::npc_acherus_necromancerAI", "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html", "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI" ],
     [ "npc_gothik_the_harvester", "d6/dd2/classnpc__gothik__the__harvester.html", "d6/dd2/classnpc__gothik__the__harvester" ],
     [ "npc_gothik_the_harvester::npc_gothik_the_harvesterAI", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI" ],
+    [ "spell_chapter2_persuasive_strike", "da/d36/classspell__chapter2__persuasive__strike.html", "da/d36/classspell__chapter2__persuasive__strike" ],
     [ "Koltira", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
       [ "SAY_BREAKOUT0", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
       [ "SAY_BREAKOUT1", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],
@@ -78,7 +77,6 @@ var chapter2_8cpp =
       [ "NPC_PLAGUEFIST", "db/da5/chapter2_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819", null ]
     ] ],
     [ "win_friends", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70b", [
-      [ "SAY_AGGRO", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_CRUSADER", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967", null ],
       [ "SAY_PERSUADED1", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36", null ],
       [ "SAY_PERSUADED2", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57", null ],
@@ -87,9 +85,12 @@ var chapter2_8cpp =
       [ "SAY_PERSUADED5", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b", null ],
       [ "SAY_PERSUADED6", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928", null ],
       [ "SAY_PERSUADE_RAND", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b", null ],
-      [ "SPELL_PERSUASIVE_STRIKE", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf", null ],
-      [ "SPELL_THREAT_PULSE", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73", null ],
-      [ "QUEST_HOW_TO_WIN_FRIENDS", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951", null ]
+      [ "QUEST_HOW_TO_WIN_FRIENDS", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951", null ],
+      [ "NPC_SCARLET_PREACHER", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba9f0633aca56fa945774cfb8246af76b2", null ],
+      [ "NPC_SCARLET_COMMANDER", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba5a8bd5b658f954c330afb70ba47689ac", null ],
+      [ "NPC_SCARLET_CRUSADER", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70baad7a200fe2a7a01ebafe4572653385fa", null ],
+      [ "NPC_SCARLET_MARKSMAN", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70bae5d2e96966539a0458afae0e53cf752a", null ],
+      [ "NPC_SCARLET_LORD_MCCREE", "db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70ba03b5589ad37e3b3fd76b0cfcda7eeb5e", null ]
     ] ],
     [ "AddSC_the_scarlet_enclave_c2", "db/da5/chapter2_8cpp.html#aae283a7ae2c577c738ccad6a34533fec", null ]
 ];

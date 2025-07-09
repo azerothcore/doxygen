@@ -1,13 +1,5 @@
 var NAVTREEINDEX290 =
 {
-"db/dd5/classCreature.html#a3bc802b096ecae6d1eb8a90ec4c6a72d":[6,0,908,194],
-"db/dd5/classCreature.html#a3c429842fa3172217f9dc500922151e4":[6,0,908,270],
-"db/dd5/classCreature.html#a3e6c1326418dabc00f77e1efea7f4012":[6,0,908,185],
-"db/dd5/classCreature.html#a3fbb952be0b9ff2229d88931eac105b2":[6,0,908,20],
-"db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b":[6,0,908,59],
-"db/dd5/classCreature.html#a40c8771f7191916a94a1dd9345c3d949":[6,0,908,58],
-"db/dd5/classCreature.html#a42cd2388a23189619d6c0f8131040132":[6,0,908,18],
-"db/dd5/classCreature.html#a436b88db852badef5f6a10210886b7be":[6,0,908,98],
 "db/dd5/classCreature.html#a43a33dfc9f244228962a4a0416da81b2":[6,0,908,201],
 "db/dd5/classCreature.html#a44a915b84469dc47aa0af70c4abfd47d":[6,0,908,124],
 "db/dd5/classCreature.html#a44d11d16e2cbdb8316790cc8550df75c":[6,0,908,26],
@@ -249,5 +241,13 @@ var NAVTREEINDEX290 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[6,0,1643,0,4],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a354921ca9a3603c48885a38a507347c4":[6,0,1643,0,3],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[6,0,1643,0,8],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a38e98094f05c09ea19a4f44771194b2e":[6,0,1643,0,12]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a38e98094f05c09ea19a4f44771194b2e":[6,0,1643,0,12],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[6,0,1643,0,0],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[6,0,1643,0,5],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[6,0,1643,0,7],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[6,0,1643,0,6],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[6,0,1643,0,14],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[6,0,1643,0,13],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[6,0,1643,0,2],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[6,0,1643,0,9]
 };

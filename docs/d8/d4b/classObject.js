@@ -29,6 +29,7 @@ var classObject =
     [ "BuildValuesUpdateBlockForPlayer", "d8/d4b/classObject.html#a1938ffb46fe5a170588fa3ba7784b85c", null ],
     [ "ClearUpdateMask", "d8/d4b/classObject.html#a8a75ada284806c5ee19fd53a48ba6924", null ],
     [ "DestroyForPlayer", "d8/d4b/classObject.html#a422199162fa5bffe981292c46a725f81", null ],
+    [ "EntryEquals", "d8/d4b/classObject.html#abb49e26e6e16337c638defa49fc855c0", null ],
     [ "ForceValuesUpdateAtIndex", "d8/d4b/classObject.html#afe31cbf34c193dd79f1fa6136ddd5767", null ],
     [ "GetByteValue", "d8/d4b/classObject.html#a0958df7e77da48c2cfb6fad103a9ea44", null ],
     [ "GetDebugInfo", "d8/d4b/classObject.html#ab5a53b6804f45deaa3b5c000b2b7447c", null ],

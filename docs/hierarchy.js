@@ -699,6 +699,7 @@ var hierarchy =
         [ "spell_cataclysm_breath", "d8/d92/classspell__cataclysm__breath.html", null ],
         [ "spell_chain_burn", "d9/dc0/classspell__chain__burn.html", null ],
         [ "spell_challenge_veraku", "d7/d81/classspell__challenge__veraku.html", null ],
+        [ "spell_chapter2_persuasive_strike", "da/d36/classspell__chapter2__persuasive__strike.html", null ],
         [ "spell_chapter5_return_to_capital", "d7/d28/classspell__chapter5__return__to__capital.html", null ],
         [ "spell_charge_shield_bomber", "df/dd8/classspell__charge__shield__bomber.html", null ],
         [ "spell_class_call_handler", "d9/dd1/classspell__class__call__handler.html", null ],
@@ -3699,7 +3700,6 @@ var hierarchy =
         [ "npc_crate_helper", "d9/d80/classnpc__crate__helper.html", null ],
         [ "npc_creditmarker_visit_with_ancestors", "d1/d14/classnpc__creditmarker__visit__with__ancestors.html", null ],
         [ "npc_crok_scourgebane", "d0/ddf/classnpc__crok__scourgebane.html", null ],
-        [ "npc_crusade_persuaded", "dc/d11/classnpc__crusade__persuaded.html", null ],
         [ "npc_crusade_recruit", "d1/dce/classnpc__crusade__recruit.html", null ],
         [ "npc_cult_adherent", "df/d6c/classnpc__cult__adherent.html", null ],
         [ "npc_cult_fanatic", "d1/db9/classnpc__cult__fanatic.html", null ],
@@ -4629,7 +4629,6 @@ var hierarchy =
             [ "npc_pet_mage_mirror_image", "d2/de1/structnpc__pet__mage__mirror__image.html", null ]
           ] ],
           [ "npc_boss_gothik_minion::npc_boss_gothik_minionAI", "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html", null ],
-          [ "npc_crusade_persuaded::npc_crusade_persuadedAI", "d8/dc0/structnpc__crusade__persuaded_1_1npc__crusade__persuadedAI.html", null ],
           [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html", null ],
           [ "npc_heated_battle::npc_heated_battleAI", "d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html", null ],
           [ "npc_llod_generic::npc_llod_genericAI", "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html", null ],
