@@ -218,8 +218,8 @@ var NAVTREEINDEX35 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[6,0,1359,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[6,0,1359,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1359,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,35],
@@ -246,8 +246,8 @@ var NAVTREEINDEX35 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab45e8c6dd9ea3552fed4b926136f80e6":[6,0,1975,0,6],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab5182ad65187c472b306e2177530d7b6":[6,0,1975,0,2],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[6,0,1975,0,5],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,22],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[6,0,0,10],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,10,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,22,0]
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,22],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,22,0],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,10,0]
 };
