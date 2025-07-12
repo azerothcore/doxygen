@@ -121,19 +121,20 @@ Inheritance diagram for Minion:</div>
  <div class="center">
   <img src="../../d0/ddd/classMinion.png" usemap="#Minion_map" alt=""/>
   <map id="Minion_map" name="Minion_map">
-<area href="../../dc/d88/classTempSummon.html" alt="TempSummon" shape="rect" coords="235,280,382,304"/>
-<area href="../../db/dd5/classCreature.html" alt="Creature" shape="rect" coords="235,224,382,248"/>
+<area href="../../dc/d88/classTempSummon.html" alt="TempSummon" shape="rect" coords="314,280,461,304"/>
+<area href="../../db/dd5/classCreature.html" alt="Creature" shape="rect" coords="314,224,461,248"/>
 <area href="../../df/dd9/classUnit.html" alt="Unit" shape="rect" coords="78,168,225,192"/>
 <area href="../../d5/ddf/classGridObject.html" alt="GridObject&lt; Creature &gt;" shape="rect" coords="235,168,382,192"/>
 <area href="../../db/def/classMovableMapObject.html" alt="MovableMapObject" shape="rect" coords="392,168,539,192"/>
+<area href="../../d6/d5b/classUpdatableMapObject.html" alt="UpdatableMapObject" shape="rect" coords="549,168,696,192"/>
 <area href="../../d4/dd0/classWorldObject.html" alt="WorldObject" shape="rect" coords="78,112,225,136"/>
 <area href="../../d8/d4b/classObject.html" alt="Object" shape="rect" coords="0,56,147,80"/>
 <area href="../../de/df5/classWorldLocation.html" alt="WorldLocation" shape="rect" coords="157,56,304,80"/>
 <area href="../../d0/df4/structPosition.html" alt="Position" shape="rect" coords="157,0,304,24"/>
-<area href="../../db/d90/classGuardian.html" alt="Guardian" shape="rect" coords="78,392,225,416"/>
-<area href="../../d3/d06/classPuppet.html" alt="Puppet" shape="rect" coords="235,392,382,416"/>
-<area href="../../da/d40/classTotem.html" alt="Totem" shape="rect" coords="392,392,539,416"/>
-<area href="../../df/d14/classPet.html" alt="Pet" shape="rect" coords="78,448,225,472"/>
+<area href="../../db/d90/classGuardian.html" alt="Guardian" shape="rect" coords="157,392,304,416"/>
+<area href="../../d3/d06/classPuppet.html" alt="Puppet" shape="rect" coords="314,392,461,416"/>
+<area href="../../da/d40/classTotem.html" alt="Totem" shape="rect" coords="471,392,618,416"/>
+<area href="../../df/d14/classPet.html" alt="Pet" shape="rect" coords="157,448,304,472"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -671,6 +672,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6faf27886b0f5bd664cd52bc32dc983c inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a341fd26ee36ee1696b31e8ac7b343c19 inherit pub_methods_classCreature" id="r_a341fd26ee36ee1696b31e8ac7b343c19"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a341fd26ee36ee1696b31e8ac7b343c19">IsCombatMovementAllowed</a> () const</td></tr>
 <tr class="separator:a341fd26ee36ee1696b31e8ac7b343c19 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61a37a0a382345c7f35e49488149e5c0 inherit pub_methods_classCreature" id="r_a61a37a0a382345c7f35e49488149e5c0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a61a37a0a382345c7f35e49488149e5c0">IsUpdateNeeded</a> () override</td></tr>
+<tr class="separator:a61a37a0a382345c7f35e49488149e5c0 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classUnit"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classUnit')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/dd9/classUnit.html">Unit</a></td></tr>
 <tr class="memitem:a2d7e4f068f5efd9b97578bfe582eb885 inherit pub_methods_classUnit" id="r_a2d7e4f068f5efd9b97578bfe582eb885"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#a2d7e4f068f5efd9b97578bfe582eb885">~Unit</a> () override</td></tr>
 <tr class="separator:a2d7e4f068f5efd9b97578bfe582eb885 inherit pub_methods_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -2553,6 +2556,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad96f519ebde4fdba4ad02336c67234fb inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject" id="r_a780670221d578c6f70132aec3b0b3730"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a780670221d578c6f70132aec3b0b3730">RemoveAllowedLooter</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid)</td></tr>
 <tr class="separator:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject" id="r_a67c9fe1a567ad855dfd9be5cbebadca2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a67c9fe1a567ad855dfd9be5cbebadca2">CanBeAddedToMapUpdateList</a> ()</td></tr>
+<tr class="separator:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4a495dba05e29028f7967ccc08560870 inherit pub_methods_classWorldObject" id="r_a4a495dba05e29028f7967ccc08560870"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a4a495dba05e29028f7967ccc08560870">GetDebugInfo</a> () const override</td></tr>
 <tr class="separator:a4a495dba05e29028f7967ccc08560870 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d4b/classObject.html">Object</a></td></tr>
@@ -3139,6 +3144,16 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a6bbd36a660c01a3d5f3e28a6e8eb894c inherit pub_types_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3d8b1049423f34f047b87dfacf776287 inherit pub_types_classUnit" id="r_a3d8b1049423f34f047b87dfacf776287"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../d5/d09/classPetAura.html">PetAura</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#a3d8b1049423f34f047b87dfacf776287">PetAuraSet</a></td></tr>
 <tr class="separator:a3d8b1049423f34f047b87dfacf776287 inherit pub_types_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_types_classUpdatableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classUpdatableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d6/d5b/classUpdatableMapObject.html">UpdatableMapObject</a></td></tr>
+<tr class="memitem:aa4f58928ebfbd115280b12866d9b7d23 inherit pub_types_classUpdatableMapObject" id="r_aa4f58928ebfbd115280b12866d9b7d23"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23">UpdateState</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba">NotUpdating</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf">PendingAdd</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919">Updating</a>
+<br />
+ }</td></tr>
+<tr class="separator:aa4f58928ebfbd115280b12866d9b7d23 inherit pub_types_classUpdatableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_methods_classCreature"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_classCreature')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../db/dd5/classCreature.html">Creature</a></td></tr>
 <tr class="memitem:adfcb8bc5a745c30f0db20024bf397dab inherit pub_static_methods_classCreature" id="r_adfcb8bc5a745c30f0db20024bf397dab"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#adfcb8bc5a745c30f0db20024bf397dab">_GetDamageMod</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Rank)</td></tr>
 <tr class="separator:adfcb8bc5a745c30f0db20024bf397dab inherit pub_static_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -3390,6 +3405,11 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pro_methods_classMovableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classMovableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../db/def/classMovableMapObject.html">MovableMapObject</a></td></tr>
 <tr class="memitem:ad9f4cb74c55993cfdfc5895aefc33cfb inherit pro_methods_classMovableMapObject" id="r_ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a> ()=default</td></tr>
 <tr class="separator:ad9f4cb74c55993cfdfc5895aefc33cfb inherit pro_methods_classMovableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d7d87cff5f00f3b370584675caf7870 inherit pro_methods_classMovableMapObject" id="r_a6d7d87cff5f00f3b370584675caf7870"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df1/structCell.html">Cell</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/classMovableMapObject.html#a6d7d87cff5f00f3b370584675caf7870">GetCurrentCell</a> () const</td></tr>
+<tr class="separator:a6d7d87cff5f00f3b370584675caf7870 inherit pro_methods_classMovableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_classUpdatableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classUpdatableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d6/d5b/classUpdatableMapObject.html">UpdatableMapObject</a></td></tr>
+<tr class="memitem:a5602f3b21fe1299e300e71d645f3eaee inherit pro_methods_classUpdatableMapObject" id="r_a5602f3b21fe1299e300e71d645f3eaee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/classUpdatableMapObject.html#a5602f3b21fe1299e300e71d645f3eaee">UpdatableMapObject</a> ()</td></tr>
+<tr class="separator:a5602f3b21fe1299e300e71d645f3eaee inherit pro_methods_classUpdatableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_static_methods_classCreature"><td colspan="2" onclick="javascript:toggleInherit('pro_static_methods_classCreature')"><img src="../../closed.png" alt="-"/>&#160;Static Protected Member Functions inherited from <a class="el" href="../../db/dd5/classCreature.html">Creature</a></td></tr>
 <tr class="memitem:a8e79b5c25db2911cb945219bc460dfdc inherit pro_static_methods_classCreature" id="r_a8e79b5c25db2911cb945219bc460dfdc"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a8e79b5c25db2911cb945219bc460dfdc">_GetHealthMod</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Rank)</td></tr>
 <tr class="separator:a8e79b5c25db2911cb945219bc460dfdc inherit pro_static_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -3867,7 +3887,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/ddd/classMinion.html">Minion</a></li>
-    <li class="footer">Generated on Fri Jul 11 2025 06:25:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jul 12 2025 06:23:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

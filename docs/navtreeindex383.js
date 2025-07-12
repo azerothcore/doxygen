@@ -1,5 +1,17 @@
 var NAVTREEINDEX383 =
 {
+"df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a":[7,0,0,0,1,3,2,1,0,0,18,0],
+"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4":[7,0,0,0,1,3,2,1,0,0,20],
+"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125":[7,0,0,0,1,3,2,1,0,0,20,0],
+"df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec":[7,0,0,0,1,3,2,1,0,0,22],
+"df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174":[7,0,0,0,1,3,2,1,0,0,16],
+"df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7":[7,0,0,0,1,3,2,1,0,0,16,0],
+"df/d57/classnpc__lake__frog.html":[6,0,1914],
+"df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1914,2],
+"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1914,1],
+"df/d57/classnpc__prospector__remtravel.html":[6,0,2048],
+"df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2048,3],
+"df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[6,0,2048,1],
 "df/d57/classnpc__prospector__remtravel.html#aa8e1bb551036684b05c1b3bea4c66b1d":[6,0,2048,2],
 "df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html":[6,0,477,0],
 "df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html#a1f72bc2b113f3b909d44fd54fff87e31":[6,0,477,0,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX383 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,502,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,502,0,16],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,502,0,3],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49":[6,0,502,0,12],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[6,0,502,0,6],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9c4e6647c05785664cd23fce73d8ca87":[6,0,502,0,4],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa1786f68bc52722dead6d9a6c131d6cb":[6,0,502,0,15],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa2e622be4faa605aa7b13af333bd1a91":[6,0,502,0,5],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[6,0,502,0,10],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[6,0,502,0,13],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[6,0,502,0,11],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[6,0,502,0,7],
-"df/d6f/namespaceAcore_1_1Module.html":[5,0,1,9],
-"df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,1,9,0],
-"df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,1,9,1],
-"df/d6f/structboss__eydis_1_1boss__eydisAI.html":[6,0,451,0]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49":[6,0,502,0,12]
 };

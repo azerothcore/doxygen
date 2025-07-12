@@ -1,12 +1,5 @@
 var NAVTREEINDEX101 =
 {
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da562cdc276cdc5c077cd0649837fb4691":[7,0,0,0,1,3,5,2,0,5,7,21],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da660bd9794e0b900539603abfb24e5107":[7,0,0,0,1,3,5,2,0,5,7,33],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da66a1d227f48f62bb48d34ba365341b41":[7,0,0,0,1,3,5,2,0,5,7,25],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da684865127e616cda12a798df9633a943":[7,0,0,0,1,3,5,2,0,5,7,18],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da6ab1042a83bcdcd198fcad942b5ca876":[7,0,0,0,1,3,5,2,0,5,7,17],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da73880732916773581dfd3d83e3de8be3":[7,0,0,0,1,3,5,2,0,5,7,0],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da77b7131fdabfed3c900d4528f14d1583":[7,0,0,0,1,3,5,2,0,5,7,23],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da7e87ec84ef4d652d2cd6c4af47d14f47":[7,0,0,0,1,3,5,2,0,5,7,10],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da7f552a11e10e7928cc34296052cdf8e2":[7,0,0,0,1,3,5,2,0,5,7,24],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da82778027f483ebfc8b076dece58d9a54":[7,0,0,0,1,3,5,2,0,5,7,1],
@@ -182,10 +175,10 @@ var NAVTREEINDEX101 =
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,7,3,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,7,3,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,30,7,3,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[6,0,11,7,3,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,30,7,3,2],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html":[6,0,3913],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a1ecb6e617976cdfbeb534849db41d57a":[6,0,3913,1],
 "d3/d8b/classspell__vehicle__circuit__overload__aura.html#a2c2ca2c0425ab3b815d246b1caebf588":[6,0,3913,3],
@@ -249,5 +242,12 @@ var NAVTREEINDEX101 =
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a2c459e96b3599cda8560582a4fb4253a":[6,0,1581,0,11],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a4e516705efff20a62124514ba14c8161":[6,0,1581,0,6],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a5294c9cd61713bc209a1b65f3b0a252e":[6,0,1581,0,13],
-"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a60af9e06e872adfab6e7dbac73dfbece":[6,0,1581,0,9]
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a60af9e06e872adfab6e7dbac73dfbece":[6,0,1581,0,9],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a7772c5b4f80b75ffe7b0641321029059":[6,0,1581,0,7],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a9cb72ea49977b65c42c80f6e53cfa021":[6,0,1581,0,1],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#aa19310d516a578dcd2d13d4298da0f58":[6,0,1581,0,2],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ab69245d2f874bef9796c151e5a27aaf7":[6,0,1581,0,3],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ac3a32a11e5f99d081371c49363509deb":[6,0,1581,0,12],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ad70b899bedb2b338a306f45e2b4eafd4":[6,0,1581,0,8],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ae959e46865951c2783fe97e824180050":[6,0,1581,0,10]
 };

@@ -174,7 +174,6 @@ var namespaceAcore =
     [ "ObjectGUIDCheck", "d2/d0d/classAcore_1_1ObjectGUIDCheck.html", "d2/d0d/classAcore_1_1ObjectGUIDCheck" ],
     [ "ObjectLevelLockable", "d1/d8b/classAcore_1_1ObjectLevelLockable.html", "d1/d8b/classAcore_1_1ObjectLevelLockable" ],
     [ "ObjectTypeIdCheck", "d5/d34/classAcore_1_1ObjectTypeIdCheck.html", "d5/d34/classAcore_1_1ObjectTypeIdCheck" ],
-    [ "ObjectUpdater", "d1/dff/structAcore_1_1ObjectUpdater.html", "d1/dff/structAcore_1_1ObjectUpdater" ],
     [ "PlayerAtMinimumRangeAway", "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html", "db/d03/classAcore_1_1PlayerAtMinimumRangeAway" ],
     [ "PlayerDistWorker", "d8/d25/structAcore_1_1PlayerDistWorker.html", "d8/d25/structAcore_1_1PlayerDistWorker" ],
     [ "PlayerLastSearcher", "d5/dbf/structAcore_1_1PlayerLastSearcher.html", "d5/dbf/structAcore_1_1PlayerLastSearcher" ],

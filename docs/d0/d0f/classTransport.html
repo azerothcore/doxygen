@@ -122,16 +122,17 @@ Inheritance diagram for Transport:</div>
  <div class="center">
   <img src="../../d0/d0f/classTransport.png" usemap="#Transport_map" alt=""/>
   <map id="Transport_map" name="Transport_map">
-<area href="../../de/d1c/classGameObject.html" alt="GameObject" shape="rect" coords="264,168,430,192"/>
-<area href="../../de/dcf/classTransportBase.html" alt="TransportBase" shape="rect" coords="440,168,606,192"/>
+<area href="../../de/d1c/classGameObject.html" alt="GameObject" shape="rect" coords="352,168,518,192"/>
+<area href="../../de/dcf/classTransportBase.html" alt="TransportBase" shape="rect" coords="528,168,694,192"/>
 <area href="../../d4/dd0/classWorldObject.html" alt="WorldObject" shape="rect" coords="88,112,254,136"/>
 <area href="../../d5/ddf/classGridObject.html" alt="GridObject&lt; GameObject &gt;" shape="rect" coords="264,112,430,136"/>
 <area href="../../db/def/classMovableMapObject.html" alt="MovableMapObject" shape="rect" coords="440,112,606,136"/>
+<area href="../../d6/d5b/classUpdatableMapObject.html" alt="UpdatableMapObject" shape="rect" coords="616,112,782,136"/>
 <area href="../../d8/d4b/classObject.html" alt="Object" shape="rect" coords="0,56,166,80"/>
 <area href="../../de/df5/classWorldLocation.html" alt="WorldLocation" shape="rect" coords="176,56,342,80"/>
 <area href="../../d0/df4/structPosition.html" alt="Position" shape="rect" coords="176,0,342,24"/>
-<area href="../../de/da9/classMotionTransport.html" alt="MotionTransport" shape="rect" coords="264,280,430,304"/>
-<area href="../../d8/d57/classStaticTransport.html" alt="StaticTransport" shape="rect" coords="440,280,606,304"/>
+<area href="../../de/da9/classMotionTransport.html" alt="MotionTransport" shape="rect" coords="352,280,518,304"/>
+<area href="../../d8/d57/classStaticTransport.html" alt="StaticTransport" shape="rect" coords="528,280,694,304"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -139,6 +140,16 @@ Inheritance diagram for Transport:</div>
 Public Types</h2></td></tr>
 <tr class="memitem:aa6421ebd51e84c819604e18e93729d27" id="r_aa6421ebd51e84c819604e18e93729d27"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d0f/classTransport.html#aa6421ebd51e84c819604e18e93729d27">PassengerSet</a></td></tr>
 <tr class="separator:aa6421ebd51e84c819604e18e93729d27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_types_classUpdatableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classUpdatableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d6/d5b/classUpdatableMapObject.html">UpdatableMapObject</a></td></tr>
+<tr class="memitem:aa4f58928ebfbd115280b12866d9b7d23 inherit pub_types_classUpdatableMapObject" id="r_aa4f58928ebfbd115280b12866d9b7d23"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23">UpdateState</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba">NotUpdating</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf">PendingAdd</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919">Updating</a>
+<br />
+ }</td></tr>
+<tr class="separator:aa4f58928ebfbd115280b12866d9b7d23 inherit pub_types_classUpdatableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -443,6 +454,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5719e02e07ed707bcb3f69d2c321f70d inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e5c1c1ca698387b5a24f400888d9b62 inherit pub_methods_classGameObject" id="r_a1e5c1c1ca698387b5a24f400888d9b62"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a1e5c1c1ca698387b5a24f400888d9b62">GetDebugInfo</a> () const override</td></tr>
 <tr class="separator:a1e5c1c1ca698387b5a24f400888d9b62 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cd18a56501b9e6d9e89340108e93f58 inherit pub_methods_classGameObject" id="r_a1cd18a56501b9e6d9e89340108e93f58"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a1cd18a56501b9e6d9e89340108e93f58">IsUpdateNeeded</a> () override</td></tr>
+<tr class="separator:a1cd18a56501b9e6d9e89340108e93f58 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab73407bcdf13a30519a953d24773ed02 inherit pub_methods_classGameObject" id="r_ab73407bcdf13a30519a953d24773ed02"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</td></tr>
 <tr class="separator:ab73407bcdf13a30519a953d24773ed02 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classWorldObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classWorldObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a></td></tr>
@@ -733,6 +746,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad96f519ebde4fdba4ad02336c67234fb inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject" id="r_a780670221d578c6f70132aec3b0b3730"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a780670221d578c6f70132aec3b0b3730">RemoveAllowedLooter</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid)</td></tr>
 <tr class="separator:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject" id="r_a67c9fe1a567ad855dfd9be5cbebadca2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a67c9fe1a567ad855dfd9be5cbebadca2">CanBeAddedToMapUpdateList</a> ()</td></tr>
+<tr class="separator:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4a495dba05e29028f7967ccc08560870 inherit pub_methods_classWorldObject" id="r_a4a495dba05e29028f7967ccc08560870"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a4a495dba05e29028f7967ccc08560870">GetDebugInfo</a> () const override</td></tr>
 <tr class="separator:a4a495dba05e29028f7967ccc08560870 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d4b/classObject.html">Object</a></td></tr>
@@ -1274,6 +1289,11 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pro_methods_classMovableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classMovableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../db/def/classMovableMapObject.html">MovableMapObject</a></td></tr>
 <tr class="memitem:ad9f4cb74c55993cfdfc5895aefc33cfb inherit pro_methods_classMovableMapObject" id="r_ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a> ()=default</td></tr>
 <tr class="separator:ad9f4cb74c55993cfdfc5895aefc33cfb inherit pro_methods_classMovableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d7d87cff5f00f3b370584675caf7870 inherit pro_methods_classMovableMapObject" id="r_a6d7d87cff5f00f3b370584675caf7870"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df1/structCell.html">Cell</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/classMovableMapObject.html#a6d7d87cff5f00f3b370584675caf7870">GetCurrentCell</a> () const</td></tr>
+<tr class="separator:a6d7d87cff5f00f3b370584675caf7870 inherit pro_methods_classMovableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_classUpdatableMapObject"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classUpdatableMapObject')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d6/d5b/classUpdatableMapObject.html">UpdatableMapObject</a></td></tr>
+<tr class="memitem:a5602f3b21fe1299e300e71d645f3eaee inherit pro_methods_classUpdatableMapObject" id="r_a5602f3b21fe1299e300e71d645f3eaee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/classUpdatableMapObject.html#a5602f3b21fe1299e300e71d645f3eaee">UpdatableMapObject</a> ()</td></tr>
+<tr class="separator:a5602f3b21fe1299e300e71d645f3eaee inherit pro_methods_classUpdatableMapObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_classTransportBase"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_classTransportBase')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../de/dcf/classTransportBase.html">TransportBase</a></td></tr>
 <tr class="memitem:a6dba8e37217dae4e5da8f52780e63f70 inherit pro_methods_classTransportBase" id="r_a6dba8e37217dae4e5da8f52780e63f70"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70">TransportBase</a> ()=default</td></tr>
 <tr class="separator:a6dba8e37217dae4e5da8f52780e63f70 inherit pro_methods_classTransportBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1616,9 +1636,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   42</span>{ <a class="code hl_variable" href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">m_goValue</a>.<a class="code hl_variable" href="../../da/d37/unionGameObjectValue.html#a3fe65f8be0137e71908c037b0d279c27">Transport</a>.<a class="code hl_variable" href="../../da/d37/unionGameObjectValue.html#a9e07a147b2be08a78f052e0cdb817111">PathProgress</a> = val; }</div>
-<div class="ttc" id="aclassGameObject_html_a12cdfce40157894849d8aac95302b926"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">GameObject::m_goValue</a></div><div class="ttdeci">GameObjectValue m_goValue</div><div class="ttdef"><b>Definition</b> GameObject.h:391</div></div>
+<div class="ttc" id="aclassGameObject_html_a12cdfce40157894849d8aac95302b926"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">GameObject::m_goValue</a></div><div class="ttdeci">GameObjectValue m_goValue</div><div class="ttdef"><b>Definition</b> GameObject.h:393</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00391">GameObject::m_goValue</a>, <a class="el" href="../../#l00054">GameObjectValue::PathProgress</a>, and <a class="el" href="../../da/d37/unionGameObjectValue.html#a3fe65f8be0137e71908c037b0d279c27">GameObjectValue::Transport</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00393">GameObject::m_goValue</a>, <a class="el" href="../../#l00054">GameObjectValue::PathProgress</a>, and <a class="el" href="../../da/d37/unionGameObjectValue.html#a3fe65f8be0137e71908c037b0d279c27">GameObjectValue::Transport</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00693">StaticTransport::Create()</a>, <a class="el" href="../../#l00047">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00138">MotionTransport::Update()</a>, and <a class="el" href="../../#l00827">StaticTransport::Update()</a>.</p>
 
@@ -1658,7 +1678,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d0f/classTransport.html">Transport</a></li>
-    <li class="footer">Generated on Fri Jul 11 2025 06:25:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jul 12 2025 06:23:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

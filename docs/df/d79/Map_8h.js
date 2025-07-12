@@ -9,6 +9,7 @@ var Map_8h =
     [ "BattlegroundMap", "d4/d93/classBattlegroundMap.html", "d4/d93/classBattlegroundMap" ],
     [ "DEFAULT_HEIGHT_SEARCH", "df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],
     [ "MIN_UNLOAD_DELAY", "df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb", null ],
+    [ "UPDATABLE_OBJECT_LIST_RECHECK_TIMER", "df/d79/Map_8h.html#a1a089ded88651bc639ec064fe70adce1", null ],
     [ "CreatureGroupHolderType", "df/d79/Map_8h.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
     [ "TransportsContainer", "df/d79/Map_8h.html#aa1d1667bce2cfb0f4337b52f9754cb73", null ],
     [ "ZoneDynamicInfoMap", "df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318", null ],

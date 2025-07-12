@@ -1,15 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aad152a3b192280941692ec4f8cdcae7ab":[7,0,0,0,1,2,7,0,1,24,14],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aad9cfdfdc76f7dfd0419d9a39af23bb8e":[7,0,0,0,1,2,7,0,1,24,4],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aae6d9d9e14574e1e135502787467b9a16":[7,0,0,0,1,2,7,0,1,24,2],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aae8381dbfb151423a09770239365ecc4b":[7,0,0,0,1,2,7,0,1,24,15],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aaefc6f5ebe0a804fc6cabdd169a2bb477":[7,0,0,0,1,2,7,0,1,24,5],
-"d6/d4f/BattlefieldWG_8h.html#a7533da481a8b39b95fb93adf24cece9f":[7,0,0,0,1,2,7,0,1,42],
-"d6/d4f/BattlefieldWG_8h.html#a7fa7d493ce87815d03c10b32c6a5758e":[7,0,0,0,1,2,7,0,1,13],
-"d6/d4f/BattlefieldWG_8h.html#a84afa59c796c189bd3384964d40d3304":[7,0,0,0,1,2,7,0,1,31],
-"d6/d4f/BattlefieldWG_8h.html#a85c1e33a0ecee2863f4ccae3673ec75b":[7,0,0,0,1,2,7,0,1,44],
-"d6/d4f/BattlefieldWG_8h.html#a86b3d2d9b191f103258a41bbc5eb9a5f":[7,0,0,0,1,2,7,0,1,36],
 "d6/d4f/BattlefieldWG_8h.html#a977506d6d03f0f9f7761a41d5f9671fd":[7,0,0,0,1,2,7,0,1,34],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2":[7,0,0,0,1,2,7,0,1,20],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2a082cb0513652d9bd0bf5f5e5cf209a67":[7,0,0,0,1,2,7,0,1,20,3],
@@ -249,5 +239,15 @@ var NAVTREEINDEX168 =
 "d6/d54/structMajordomoAddData.html#ae3a0444e88158123f4d6359328e89a1d":[6,0,1467,2],
 "d6/d55/classnpc__tournament__training__dummy.html":[6,0,2194],
 "d6/d55/classnpc__tournament__training__dummy.html#a31257c155c3a49c69771156800cf6340":[6,0,2194,2],
-"d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[6,0,2194,1]
+"d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[6,0,2194,1],
+"d6/d56/classnpc__kurenai__captive.html":[6,0,1911],
+"d6/d56/classnpc__kurenai__captive.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a":[6,0,1911,3],
+"d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[6,0,1911,2],
+"d6/d56/classnpc__kurenai__captive.html#ae0e283bfc476f2d9e602158fa8720cdc":[6,0,1911,1],
+"d6/d56/classspell__dru__owlkin__frenzy.html":[6,0,2811],
+"d6/d56/classspell__dru__owlkin__frenzy.html#a22059b71bcfdfb9a3be59feaf8005d3f":[6,0,2811,1],
+"d6/d56/classspell__dru__owlkin__frenzy.html#a60d451e6b359501b138564085c87a99f":[6,0,2811,0],
+"d6/d56/classspell__dru__owlkin__frenzy.html#ab33586608d444404c07edc4ffbb717ee":[6,0,2811,2],
+"d6/d58/classspell__item__unusual__compass.html":[6,0,3293],
+"d6/d58/classspell__item__unusual__compass.html#a9530db7f75987879285d224fb8381c2b":[6,0,3293,0]
 };

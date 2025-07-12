@@ -1,5 +1,13 @@
 var NAVTREEINDEX224 =
 {
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb":[7,0,0,0,1,2,8,1,19,9,4],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23":[7,0,0,0,1,2,8,1,19,9,0],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675abdd8e367597aaf2a5d12d211f80c2569":[7,0,0,0,1,2,8,1,19,9,5],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675ac3820dbff51304ae6b49225c5e548f38":[7,0,0,0,1,2,8,1,19,9,3],
+"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675ae55d488f431dee5f1dce8bf7564d591d":[7,0,0,0,1,2,8,1,19,9,2],
+"d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fff":[7,0,0,0,1,2,8,1,19,8],
+"d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffa02705aa2b9465e7e046a0e5db3119046":[7,0,0,0,1,2,8,1,19,8,2],
+"d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffab78884f340f9c3c49e77e6543bb820ec":[7,0,0,0,1,2,8,1,19,8,0],
 "d8/de0/BattlegroundSA_8h.html#a1a5802e3e727d92fc12f7a76c13e1fffacd2da24d75a595742cb53197a68f25c2":[7,0,0,0,1,2,8,1,19,8,1],
 "d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7":[7,0,0,0,1,2,8,1,19,12],
 "d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7a1f0470f40a7cab98ed879e2e7c925011":[7,0,0,0,1,2,8,1,19,12,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,2,2],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f02be4390ec75af1bf63256f01b6536":[7,0,0,0,1,3,4,9,2,2,3],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a033bbc8d70ab488a51112be5178ecc":[7,0,0,0,1,3,4,9,2,2,1],
-"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a712e11117a952e2d16997380e14e7":[7,0,0,0,1,3,4,9,2,2,2],
-"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cab216c92590db1c7244215cb6fdbaa734":[7,0,0,0,1,3,4,9,2,2,5],
-"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade121f34c7266b47676bbf62b73c7bb7":[7,0,0,0,1,3,4,9,2,2,6],
-"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c":[7,0,0,0,1,3,4,9,2,2,0],
-"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298caef499934292b1d16edd2de5e85c68913":[7,0,0,0,1,3,4,9,2,2,4],
-"d8/dea/boss__fankriss_8cpp.html#ab70fa8c13a3b5a522080410d24239695":[7,0,0,0,1,3,4,9,2,4],
-"d8/dea/boss__fankriss_8cpp.html#ad5084792878eac0ddee89b141241831c":[7,0,0,0,1,3,4,9,2,3],
-"d8/dea/classspell__archavon__rock__shards.html":[6,0,2602],
-"d8/dea/classspell__archavon__rock__shards.html#a3c2e7eb24506b43730f2e971fab81c75":[6,0,2602,2]
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a712e11117a952e2d16997380e14e7":[7,0,0,0,1,3,4,9,2,2,2]
 };

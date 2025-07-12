@@ -1,5 +1,13 @@
 var NAVTREEINDEX234 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aed8a7b5ab8aeb10fd0acadfc3113cab1":[7,0,0,0,1,3,5,6,13,5,135],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af3618fbd043a6a73ac2224184ec94979":[7,0,0,0,1,3,5,6,13,5,104],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af4a20369e2d64f239386ddfac38c9dde":[7,0,0,0,1,3,5,6,13,5,132],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af50d11e4cc7b4a93a19943750fa682e0":[7,0,0,0,1,3,5,6,13,5,138],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afb5f2a5d6e7620645df070ef86301948":[7,0,0,0,1,3,5,6,13,5,164],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afbdd66447e7bc201168d3c2ea76c965b":[7,0,0,0,1,3,5,6,13,5,19],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afced814168fc11985b08779f48e6882b":[7,0,0,0,1,3,5,6,13,5,57],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11":[7,0,0,0,1,3,5,6,13,4],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a02d88d456fc820130ad8bd6803f289ae":[7,0,0,0,1,3,5,6,13,4,3],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a08bb47796001cc63db5d6f1d8b3af5d0":[7,0,0,0,1,3,5,6,13,4,0],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a0b5860c76ec8da2c5420f62673277098":[7,0,0,0,1,3,5,6,13,4,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX234 =
 "d9/d6c/classspell__item__unsated__craving.html#aaa14b34ac54b4caee76ff72d07dd5c2d":[6,0,3292,4],
 "d9/d6c/classspell__item__unsated__craving.html#ae034bd626880858c9701ed963de993c9":[6,0,3292,1],
 "d9/d6d/Strand_8h.html":[7,0,0,0,0,0,6],
-"d9/d6e/classSmartWaypointMgr.html":[6,0,2559],
-"d9/d6e/classSmartWaypointMgr.html#a300be22ad39e320833297c3f05cdcecc":[6,0,2559,1],
-"d9/d6e/classSmartWaypointMgr.html#a6acec90c526e47c3b16d1ba556f79c35":[6,0,2559,5],
-"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[6,0,2559,3],
-"d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[6,0,2559,4],
-"d9/d6e/classSmartWaypointMgr.html#ac3ea00baf665a3a201c911c875600010":[6,0,2559,2],
-"d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[6,0,2559,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16]
+"d9/d6e/classSmartWaypointMgr.html":[6,0,2559]
 };

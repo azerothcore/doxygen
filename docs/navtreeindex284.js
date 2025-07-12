@@ -1,5 +1,14 @@
 var NAVTREEINDEX284 =
 {
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[6,0,7,7,36],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[5,0,21,7,36],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[6,0,7,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,21,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[5,0,21,7,27],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[6,0,7,7,27],
+"db/d9d/classboss__galvangar.html":[6,0,485],
+"db/d9d/classboss__galvangar.html#a3949cfd3c987bdf52d313568de9379ba":[6,0,485,1],
+"db/d9d/classboss__galvangar.html#a9fd978eb38ae3e2d8d65cf4214e673e3":[6,0,485,2],
 "db/d9d/classnpc__boneguard__footman.html":[6,0,1648],
 "db/d9d/classnpc__boneguard__footman.html#ab0b28f61e26f701db17a0d19bbde4492":[6,0,1648,2],
 "db/d9d/classnpc__boneguard__footman.html#aba17f89b9546deff5401ad33224b2b3e":[6,0,1648,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX284 =
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100":[7,0,0,0,1,3,4,15,4,0],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac":[7,0,0,0,1,3,4,15,4,1],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201":[7,0,0,0,1,3,4,15,4,9],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe":[7,0,0,0,1,3,4,15,4,5],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0":[7,0,0,0,1,3,4,15,4,12],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c":[7,0,0,0,1,3,4,15,4,2],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7":[7,0,0,0,1,3,4,15,4,11],
-"db/da5/zone__azshara_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce":[7,0,0,0,1,3,4,15,5],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[6,0,0,5,0,17],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[5,0,1,8,0,17,12]
+"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe":[7,0,0,0,1,3,4,15,4,5]
 };

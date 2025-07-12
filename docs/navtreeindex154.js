@@ -1,15 +1,5 @@
 var NAVTREEINDEX154 =
 {
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aaa59fde6176577c0e319a106a4123dcf":[6,0,1285,0,39],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aaaa31ed508cae53ac1a4437f1b16f16f":[6,0,1285,0,18],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab1e2334ed48f82d62b3460fc0bd421aa":[6,0,1285,0,32],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab222376cabd0c738353fa1647276f2b5":[6,0,1285,0,19],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab4dc12b546c573bf5eafd3f26339c265":[6,0,1285,0,11],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aba78c72c1ea64ed7ea5c93fd469568cf":[6,0,1285,0,38],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#abf7e6d5d12f2e2fbc4d88956868055b4":[6,0,1285,0,13],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac6880ae70ee2c10f6c5b75fa6b4f0096":[6,0,1285,0,31],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac84ecb84dd88f87d748241bd309bf8ea":[6,0,1285,0,16],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac9e7d5d0a420985fb5b72da1a725f7af":[6,0,1285,0,1],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ad0a93114ab4de803888ebde738e6a67e":[6,0,1285,0,0],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ada9e7ef96b4519b3a61a37e8562a7628":[6,0,1285,0,29],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae067b6a41e79d533942265581022379e":[6,0,1285,0,26],
@@ -249,5 +239,15 @@ var NAVTREEINDEX154 =
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a23ee66c0bee61794c9d246533c855c10":[7,0,0,0,1,3,4,1,1,6,6,1],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2e80a277bcb0e797ac5e65a2e9ae26b1":[7,0,0,0,1,3,4,1,1,6,6,5],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d067c8498081a870a958ac9f552e509":[7,0,0,0,1,3,4,1,1,6,6,4],
-"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f":[7,0,0,0,1,3,4,1,1,6,6,3]
+"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f":[7,0,0,0,1,3,4,1,1,6,6,3],
+"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a94f8ba6b598eb764528d7e2559246c3a":[7,0,0,0,1,3,4,1,1,6,6,0],
+"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa9cf3fd29541b5b1abc71e7664cfef26":[7,0,0,0,1,3,4,1,1,6,6,2],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html":[6,0,1840,0],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a2072f9facbc476bb97f1a3ca9c24fcb7":[6,0,1840,0,0],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a40749d0294400e15bc28f6e728c6cb3c":[6,0,1840,0,2],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a610700732a6cc197a40106adef654a62":[6,0,1840,0,1],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee":[6,0,1840,0,7],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a8dd77a92b151acad640f1272acf0b65f":[6,0,1840,0,6],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a94128223bddd84b8a678e49f3189cb75":[6,0,1840,0,4],
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#acb29a6ddb6d06616e79f7431b66f167a":[6,0,1840,0,3]
 };

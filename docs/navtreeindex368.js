@@ -1,5 +1,17 @@
 var NAVTREEINDEX368 =
 {
+"de/da5/vmapexport_8cpp.html#a6fcdefd114e6ec71964d6539163fc055":[7,0,0,0,3,4,12,16],
+"de/da5/vmapexport_8cpp.html#a773984b4a48966b7ea95d0586db0210b":[7,0,0,0,3,4,12,15],
+"de/da5/vmapexport_8cpp.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154":[7,0,0,0,3,4,12,21],
+"de/da5/vmapexport_8cpp.html#a8ae40ebe73635e831bc65b70e7f97f3c":[7,0,0,0,3,4,12,13],
+"de/da5/vmapexport_8cpp.html#a8f05dfc74cc4db726161d81ab714bfe1":[7,0,0,0,3,4,12,10],
+"de/da5/vmapexport_8cpp.html#a995d89b97dfb31a6a8c1c4e1c96d47f4":[7,0,0,0,3,4,12,11],
+"de/da5/vmapexport_8cpp.html#aab524156a5705c5cd09f96106eaac92d":[7,0,0,0,3,4,12,4],
+"de/da5/vmapexport_8cpp.html#ac9e88429cc2168db83793cb7074bc69f":[7,0,0,0,3,4,12,12],
+"de/da5/vmapexport_8cpp.html#ae79cb6c3493a63f0e1058be3bd5ba328":[7,0,0,0,3,4,12,20],
+"de/da5/vmapexport_8cpp.html#aeb9ec80db9cddb3d9ab2303f2a825d0b":[7,0,0,0,3,4,12,18],
+"de/da5/vmapexport_8cpp.html#afc9839262206eb10094c1769141ae146":[7,0,0,0,3,4,12,3],
+"de/da6/boss__prince__malchezaar_8cpp.html":[7,0,0,0,1,3,2,4,7],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4":[7,0,0,0,1,3,2,4,7,5],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ab9ec1415fb27c06f233c0de1a05d3ab1":[7,0,0,0,1,3,2,4,7,5,1],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d":[7,0,0,0,1,3,2,4,7,5,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX368 =
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[7,0,0,0,1,3,5,18,49,3],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[7,0,0,0,1,3,5,18,49,4],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a87a8544d0aed9cd7282f6b18b8dd34dd":[7,0,0,0,1,3,5,18,49,2],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a98f9f2bac321e4c75e450f7a090e6a52":[7,0,0,0,1,3,5,18,49,0],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809acb7d3e659383a8bc3f3d4f4d89031b51":[7,0,0,0,1,3,5,18,49,1],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809ad72c1b6082b386167aefbcd06b866da8":[7,0,0,0,1,3,5,18,49,8],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809adc7ad0f9c316fc5f84c74d792511f47b":[7,0,0,0,1,3,5,18,49,9],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[6,0,0,1,1,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[5,0,1,2,1,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[6,0,0,1,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,1,2,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0]
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a98f9f2bac321e4c75e450f7a090e6a52":[7,0,0,0,1,3,5,18,49,0]
 };

@@ -1,12 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d48/classChannel.html#a5238e1b4133ac9d8a495fefeded33f50":[6,0,842,87],
-"d2/d48/classChannel.html#a5419778722a0c51b79263a2e06b33168":[6,0,842,82],
-"d2/d48/classChannel.html#a55d47bd560dabc6cb3f85a46c103ad19":[6,0,842,100],
-"d2/d48/classChannel.html#a5842a9563dab31098695ba83183ff503":[6,0,842,111],
-"d2/d48/classChannel.html#a58931be15d72ce5ca755d9c953cdab45":[6,0,842,9],
-"d2/d48/classChannel.html#a591082b95ce284fd51cd70ea640e737e":[6,0,842,52],
-"d2/d48/classChannel.html#a59382028b0cb2d0c73b8a04f6c6dde3c":[6,0,842,54],
 "d2/d48/classChannel.html#a5b735625aef75d0ad937f3c1b0387732":[6,0,842,39],
 "d2/d48/classChannel.html#a60ac5c0db621040bca03a44dfdb2d4fa":[6,0,842,30],
 "d2/d48/classChannel.html#a62ddfdef17c946e5646e3c77392d000d":[6,0,842,46],
@@ -106,8 +99,8 @@ var NAVTREEINDEX56 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1027,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1027,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[6,0,1027,6],
-"d2/d49/structAcore_1_1find__type__if.html":[6,0,0,48],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,1,60],
+"d2/d49/structAcore_1_1find__type__if.html":[6,0,0,48],
 "d2/d4a/classinstance__zulaman.html":[6,0,1350],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1350,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1350,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX56 =
 "d2/d4b/classPlayer.html#a1b8e999c74e225616c6a7bc69c441cdf":[6,0,2388,1057],
 "d2/d4b/classPlayer.html#a1bfb6e6768526acdbc2f6cf52cdc240b":[6,0,2388,506],
 "d2/d4b/classPlayer.html#a1c5cb5a926ee6132775021fb8e6b5b97":[6,0,2388,324],
-"d2/d4b/classPlayer.html#a1c891ee505470889964b07aa7b6c0e78":[6,0,2388,991]
+"d2/d4b/classPlayer.html#a1c891ee505470889964b07aa7b6c0e78":[6,0,2388,991],
+"d2/d4b/classPlayer.html#a1cc736161c9504c66bf0f34dbc096525":[6,0,2388,1215],
+"d2/d4b/classPlayer.html#a1ce4ce14173221b9e24d970013820b81":[6,0,2388,799],
+"d2/d4b/classPlayer.html#a1d11bec3e0b113e4d6423f455c2d978c":[6,0,2388,850],
+"d2/d4b/classPlayer.html#a1d5347f13c5b0b722edfa3aeefb1ca35":[6,0,2388,234],
+"d2/d4b/classPlayer.html#a1d5892a7a5dcf20a585fe3f80d2d60d9":[6,0,2388,35],
+"d2/d4b/classPlayer.html#a1d5a99a1bc3fe2cd6be06768c66e574a":[6,0,2388,813],
+"d2/d4b/classPlayer.html#a1dac000a52ea31f8d3fbd2cd3ca377ca":[6,0,2388,110]
 };

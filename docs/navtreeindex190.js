@@ -1,5 +1,8 @@
 var NAVTREEINDEX190 =
 {
+"d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a8e48660d5f0349572bb5d7a760e0afc0":[6,0,1672,0,2],
+"d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a92e8d7c84407a16d608a163cb8dadc6e":[6,0,1672,0,6],
+"d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#aae80afee1e69e188264e04ba12b00682":[6,0,1672,0,7],
 "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#abbe76c4dbe8292e3ec00cb0f396b7da8":[6,0,1672,0,5],
 "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#aca7fa593af007f1ca0c49156336c0fe3":[6,0,1672,0,1],
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html":[6,0,1710,0],
@@ -10,10 +13,10 @@ var NAVTREEINDEX190 =
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html#ab0d83d53a7f0d14cb15e133e426f2f02":[6,0,1710,0,3],
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html#ab97e0177fbc9fc7135dc7a7de0e6e31a":[6,0,1710,0,1],
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html#ad89638cf5859615ba2e3a0deb6701751":[6,0,1710,0,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,1,67],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[6,0,0,55],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[6,0,0,55,3],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,1,67],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,1,67,3],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[6,0,0,55,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,1,67,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[6,0,0,55,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,67,2],
@@ -70,12 +73,12 @@ var NAVTREEINDEX190 =
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,30,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,30,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,30,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,30,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,30,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,2,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,30,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3611],
@@ -246,8 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d86/TileAssembler_8h.html#a28dc2e567f8620fed1128b6c4cf5b749":[7,0,0,0,0,1,1,4,5],
 "d7/d86/TileAssembler_8h.html#a3424b44a092b5f3d8074649ae11ee481":[7,0,0,0,0,1,1,4,7],
 "d7/d86/TileAssembler_8h.html#abfe766a1b58bbf69ce3b17ff14d1c101":[7,0,0,0,0,1,1,4,6],
-"d7/d87/structnpc__snowfall__glade__playmate.html":[6,0,2112],
-"d7/d87/structnpc__snowfall__glade__playmate.html#a4ca4198fdbf3c98291255916ee53c637":[6,0,2112,6],
-"d7/d87/structnpc__snowfall__glade__playmate.html#a6dedc1cae1e568a792341842e8a922e8":[6,0,2112,3],
-"d7/d87/structnpc__snowfall__glade__playmate.html#a89040d9843852b01123e102b49509857":[6,0,2112,2]
+"d7/d87/structnpc__snowfall__glade__playmate.html":[6,0,2112]
 };

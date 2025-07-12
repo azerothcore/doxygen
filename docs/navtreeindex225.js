@@ -1,5 +1,13 @@
 var NAVTREEINDEX225 =
 {
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cab216c92590db1c7244215cb6fdbaa734":[7,0,0,0,1,3,4,9,2,2,5],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade121f34c7266b47676bbf62b73c7bb7":[7,0,0,0,1,3,4,9,2,2,6],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c":[7,0,0,0,1,3,4,9,2,2,0],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298caef499934292b1d16edd2de5e85c68913":[7,0,0,0,1,3,4,9,2,2,4],
+"d8/dea/boss__fankriss_8cpp.html#ab70fa8c13a3b5a522080410d24239695":[7,0,0,0,1,3,4,9,2,4],
+"d8/dea/boss__fankriss_8cpp.html#ad5084792878eac0ddee89b141241831c":[7,0,0,0,1,3,4,9,2,3],
+"d8/dea/classspell__archavon__rock__shards.html":[6,0,2602],
+"d8/dea/classspell__archavon__rock__shards.html#a3c2e7eb24506b43730f2e971fab81c75":[6,0,2602,2],
 "d8/dea/classspell__archavon__rock__shards.html#a47b991c20c523d151893fefd9d487714":[6,0,2602,0],
 "d8/dea/classspell__archavon__rock__shards.html#a89d601f6036fe38238767281f3427e54":[6,0,2602,3],
 "d8/dea/classspell__archavon__rock__shards.html#ab2db47d0a2694c0734db600e810e190d":[6,0,2602,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX225 =
 "d8/df8/structABNodeInfo.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250":[6,0,19,3],
 "d8/df8/structABNodeInfo.html#acddac09017717cf5b2893ab83e1d10c8":[6,0,19,6],
 "d8/dfa/classspell__warl__shadowflame.html":[6,0,3959],
-"d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[6,0,3959,1],
-"d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[6,0,3959,0],
-"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[6,0,3959,2],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html":[6,0,2333],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[6,0,2333,0],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[6,0,2333,1],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html":[6,0,445,0],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a120a2c9a6af821ce9a5e68dbab6e800d":[6,0,445,0,5],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a12e7fb5389977dcacb4e1eadda771467":[6,0,445,0,3]
+"d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[6,0,3959,1]
 };

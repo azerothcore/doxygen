@@ -1,15 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2312,267],
-"d5/dfb/classObjectMgr.html#a6453ba99550ee894a8857b7cd52aa4b2":[6,0,2312,164],
-"d5/dfb/classObjectMgr.html#a64dd8e2afdd1e1ebf0f7902f94ad04e6":[6,0,2312,109],
-"d5/dfb/classObjectMgr.html#a6555d4ee6bb86a8686ba789492e2840f":[6,0,2312,60],
-"d5/dfb/classObjectMgr.html#a6743d8ef4f2df6332c64a56146ba7f33":[6,0,2312,47],
-"d5/dfb/classObjectMgr.html#a675551bd7ee7d70f578f19725135189a":[6,0,2312,331],
-"d5/dfb/classObjectMgr.html#a684a044a3eca133eaa994b60c78881bd":[6,0,2312,61],
-"d5/dfb/classObjectMgr.html#a687fc0952088eac4da456d390d47f97e":[6,0,2312,342],
-"d5/dfb/classObjectMgr.html#a6a25cfd126c2d2718ccd1565c9e4cdcf":[6,0,2312,302],
-"d5/dfb/classObjectMgr.html#a6aded043e0c565f7e0e954d6bcc9958a":[6,0,2312,250],
 "d5/dfb/classObjectMgr.html#a6b8baedff74e5a80b968b78cc2137fdb":[6,0,2312,230],
 "d5/dfb/classObjectMgr.html#a6bbec6cee02773b7377c1b039d534e41":[6,0,2312,397],
 "d5/dfb/classObjectMgr.html#a6bd1e6b3fa54bbabaaee441a13955b8f":[6,0,2312,266],
@@ -249,5 +239,15 @@ var NAVTREEINDEX159 =
 "d5/dfb/classObjectMgr.html#afd5cf84c3ffee0c86e6f5bb0741fdbf4":[6,0,2312,165],
 "d5/dfb/classObjectMgr.html#aff5277d75699cc517ade341b4ac8c217":[6,0,2312,280],
 "d5/dfb/classObjectMgr.html#aff7a95599cbe0e0d5911a1a98781137d":[6,0,2312,294],
-"d5/dfb/classObjectMgr.html#aff8770b00f2f83eb459815fad61e1d6f":[6,0,2312,272]
+"d5/dfb/classObjectMgr.html#aff8770b00f2f83eb459815fad61e1d6f":[6,0,2312,272],
+"d5/dfb/classspell__brewfest__apple__trap.html":[6,0,2665],
+"d5/dfb/classspell__brewfest__apple__trap.html#a03f752d4d4762698e5777a4ae0e395cf":[6,0,2665,2],
+"d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[6,0,2665,0],
+"d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[6,0,2665,1],
+"d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[6,0,2665,3],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[6,0,1718,0],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[6,0,1718,0,7],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a1035eb0a1696730d8304593b5fb079e4":[6,0,1718,0,6],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a30056a45adb91a12cf7bcc4e9f0b2d54":[6,0,1718,0,1],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a4099d75c4a6bca1525781a5753ef9972":[6,0,1718,0,5]
 };

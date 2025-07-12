@@ -1,5 +1,14 @@
 var NAVTREEINDEX249 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[7,0,0,0,1,2,41,0,0,6,287],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7280def8bc657ec29c911bae511bf4e5":[7,0,0,0,1,2,41,0,0,6,29],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a732ca555f677b0f0f870e4ece0514dbe":[7,0,0,0,1,2,41,0,0,6,163],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a738d314a9ab9a70711cf0f1fdd5033c5":[7,0,0,0,1,2,41,0,0,6,304],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a73faec8e41f7d4d2d84dd85718788c0b":[7,0,0,0,1,2,41,0,0,6,135],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75169ca7c3027ee3dba8ea38041e7b44":[7,0,0,0,1,2,41,0,0,6,152],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a752c8a8288062a6e3a61cf987724134c":[7,0,0,0,1,2,41,0,0,6,293],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a756fd8181ac2e57898857f88d6626c65":[7,0,0,0,1,2,41,0,0,6,124],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75f3201ba5d36530f37a58c34d89d604":[7,0,0,0,1,2,41,0,0,6,283],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7758d81a4b1d1914bbc46b904e67c1f6":[7,0,0,0,1,2,41,0,0,6,286],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a779f080d1d23d2cbf0ea5fea6ce157b5":[7,0,0,0,1,2,41,0,0,6,245],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79269de8dea27ac7f7622e49e14a687a":[7,0,0,0,1,2,41,0,0,6,118],
@@ -240,14 +249,5 @@ var NAVTREEINDEX249 =
 "da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[6,0,2657,2],
 "da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[6,0,2657,0],
 "da/d32/classspell__blood__siphon__aura.html#abd1254c53c04f72f848d8641affc729d":[6,0,2657,3],
-"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2657,1],
-"da/d32/classspell__item__branns__communicator.html":[6,0,3187],
-"da/d32/classspell__item__branns__communicator.html#a7fe416070962ba582d59ddff70c13590":[6,0,3187,1],
-"da/d32/classspell__item__branns__communicator.html#acb39fd85035670fb98dcea66c29b2ff7":[6,0,3187,0],
-"da/d32/classspell__sindragosa__instability__aura.html":[6,0,3792],
-"da/d32/classspell__sindragosa__instability__aura.html#a1b7ef2c14db8543a9128aa335548fa00":[6,0,3792,3],
-"da/d32/classspell__sindragosa__instability__aura.html#a49ba4ed8ac0ee006c74a71e6779c1a3b":[6,0,3792,1],
-"da/d32/classspell__sindragosa__instability__aura.html#a6e9c95b06f3ec9dc0739beaabc016d5f":[6,0,3792,2],
-"da/d32/classspell__sindragosa__instability__aura.html#aa096174465120bde1994c85f72682be1":[6,0,3792,0],
-"da/d32/structboss__watchkeeper__gargolmar.html":[6,0,777]
+"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2657,1]
 };

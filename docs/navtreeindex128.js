@@ -1,17 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fae4056733c3ac81847baf38144c86e5ea":[7,0,0,0,1,3,5,2,1,1,50,6],
-"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97faff7b7175905076f5844de02e303cb12a":[7,0,0,0,1,3,5,2,1,1,50,4],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162":[7,0,0,0,1,3,5,2,1,1,59],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a2fbda2e8eaca516b13c34fc8162feaf3":[7,0,0,0,1,3,5,2,1,1,59,0],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a5fd7be997bc2cd3b4ca83129bf323c60":[7,0,0,0,1,3,5,2,1,1,59,6],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a75b13fc62a4d1499ac5db4508a22b31c":[7,0,0,0,1,3,5,2,1,1,59,5],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a7a5ef8b05e58145e1746ca681a2bfe1f":[7,0,0,0,1,3,5,2,1,1,59,4],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a80654da7e2a2da3aef013c54d2f4c438":[7,0,0,0,1,3,5,2,1,1,59,2],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162ac48e71b25b7b2ee323837e515f742c5c":[7,0,0,0,1,3,5,2,1,1,59,3],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162adff672aa5c4072f6674972213af6ed3b":[7,0,0,0,1,3,5,2,1,1,59,1],
-"d4/d81/boss__faction__champions_8cpp.html#a2c605e9c8b27e970c308e89491e4b541":[7,0,0,0,1,3,5,2,1,1,68],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22":[7,0,0,0,1,3,5,2,1,1,47],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a18c306cd8f1f271be21897316e0d493d":[7,0,0,0,1,3,5,2,1,1,47,5],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a469a2711e924e23b7faf66f26abc8a3a":[7,0,0,0,1,3,5,2,1,1,47,0],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a4de2dcd96ae59b3d20693ded8e1d92a4":[7,0,0,0,1,3,5,2,1,1,47,1],
@@ -249,5 +237,17 @@ var NAVTREEINDEX128 =
 "d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2643,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[6,0,371],
 "d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[6,0,371,2],
-"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,371,3]
+"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,371,3],
+"d4/d82/structboss__ambassador__hellmaw.html#a44dae5d6517e22dd2be399d08fa67a71":[6,0,371,12],
+"d4/d82/structboss__ambassador__hellmaw.html#a46b9b96ec5e4c121d994560e85266dfe":[6,0,371,10],
+"d4/d82/structboss__ambassador__hellmaw.html#a4805244997c42f5791400c5b1f5e6204":[6,0,371,13],
+"d4/d82/structboss__ambassador__hellmaw.html#a4881f868ac11eb66f3d15b44c94938bf":[6,0,371,11],
+"d4/d82/structboss__ambassador__hellmaw.html#a5f7564ef25a36395cddf4e2c2dbc2dfc":[6,0,371,8],
+"d4/d82/structboss__ambassador__hellmaw.html#a8dd75d368f0f567561db45e1c53ad785":[6,0,371,4],
+"d4/d82/structboss__ambassador__hellmaw.html#a9b0170a49751def614126265240bb87c":[6,0,371,5],
+"d4/d82/structboss__ambassador__hellmaw.html#a9ea9d60b8fa90a228951a38fc2f59325":[6,0,371,7],
+"d4/d82/structboss__ambassador__hellmaw.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04":[6,0,371,1],
+"d4/d82/structboss__ambassador__hellmaw.html#ae0e04500073a4c02c9656b4bcd63be9c":[6,0,371,6],
+"d4/d82/structboss__ambassador__hellmaw.html#ae774dfa4379b7321ff194a796c9eb842":[6,0,371,0],
+"d4/d82/structboss__ambassador__hellmaw.html#af3949b46f82863af699396729e88928b":[6,0,371,9]
 };

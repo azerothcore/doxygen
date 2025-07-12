@@ -2838,7 +2838,6 @@ var hierarchy =
     [ "ObjectPosSelector", "de/da1/structObjectPosSelector.html", null ],
     [ "ObjectRegistry< T, Key >", "d8/df1/classObjectRegistry.html", null ],
     [ "Acore::ObjectTypeIdCheck", "d5/d34/classAcore_1_1ObjectTypeIdCheck.html", null ],
-    [ "Acore::ObjectUpdater", "d1/dff/structAcore_1_1ObjectUpdater.html", null ],
     [ "OpcodeHandler", "da/d15/classOpcodeHandler.html", [
       [ "ClientOpcodeHandler", "d5/ddc/classClientOpcodeHandler.html", [
         [ "PacketHandler< PacketClass, HandlerFunction >", "d3/db9/classPacketHandler.html", null ],
@@ -5838,6 +5837,11 @@ var hierarchy =
     ] ],
     [ "Acore::UnitLastSearcher< Check >", "d0/de9/structAcore_1_1UnitLastSearcher.html", null ],
     [ "Acore::UnitSearcher< Check >", "d9/d5a/structAcore_1_1UnitSearcher.html", null ],
+    [ "UpdatableMapObject", "d6/d5b/classUpdatableMapObject.html", [
+      [ "Creature", "db/dd5/classCreature.html", null ],
+      [ "DynamicObject", "dc/d8e/classDynamicObject.html", null ],
+      [ "GameObject", "de/d1c/classGameObject.html", null ]
+    ] ],
     [ "UpdatableScript< TObject >", "df/d1e/classUpdatableScript.html", [
       [ "MapScript< BattlegroundMap >", "db/dca/classMapScript.html", [
         [ "BattlegroundMapScript", "da/d99/classBattlegroundMapScript.html", null ]

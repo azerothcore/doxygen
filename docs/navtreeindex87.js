@@ -1,12 +1,5 @@
 var NAVTREEINDEX87 =
 {
-"d2/df4/boss__alar_8cpp.html":[7,0,0,0,1,3,7,5,2,0],
-"d2/df4/boss__alar_8cpp.html#a0162785497fa85a1ecc2a13be4f2f094":[7,0,0,0,1,3,7,5,2,0,11],
-"d2/df4/boss__alar_8cpp.html#a0e5a72c0a75a1f36a61aca6b3ad578e0":[7,0,0,0,1,3,7,5,2,0,9],
-"d2/df4/boss__alar_8cpp.html#a20d43b5c2847f24cf3d78929f3dd571a":[7,0,0,0,1,3,7,5,2,0,10],
-"d2/df4/boss__alar_8cpp.html#a2c95972a6d4a8c05920a7936dc009f10":[7,0,0,0,1,3,7,5,2,0,7],
-"d2/df4/boss__alar_8cpp.html#a2c95972a6d4a8c05920a7936dc009f10ae3e104728bccd3b3dfdb3fa6ab3a8a47":[7,0,0,0,1,3,7,5,2,0,7,1],
-"d2/df4/boss__alar_8cpp.html#a2c95972a6d4a8c05920a7936dc009f10affc3472ffbc9ae5e6d425ce715a78977":[7,0,0,0,1,3,7,5,2,0,7,0],
 "d2/df4/boss__alar_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,5,2,0,6],
 "d2/df4/boss__alar_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25dfff833097bbc170f94d61346f4e79":[7,0,0,0,1,3,7,5,2,0,6,11],
 "d2/df4/boss__alar_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3316b46c78b997c2926f50123d71c7d9":[7,0,0,0,1,3,7,5,2,0,6,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX87 =
 "d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a7c04475d2de487a26aa3e7f58ad219e5":[6,0,1831,0,1],
 "d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f":[6,0,1831,0,5],
 "d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#a984e2f3d3cf2b254717e2b4d1418216d":[6,0,1831,0,13],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#aa98690c2c7002915c72e68f9136a9ace":[6,0,1831,0,6]
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#aa98690c2c7002915c72e68f9136a9ace":[6,0,1831,0,6],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#acf222bf3f1204215918e339d57e6ee37":[6,0,1831,0,4],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ad98e613c8d4625687f9ab16979d21707":[6,0,1831,0,10],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#adf12312ee9a037b7cdbf384137a8ceb4":[6,0,1831,0,9],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ae2715e5410ddf25734469594f72c7373":[6,0,1831,0,3],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ae3f9c7ef83cb3841f3081a5c8391ad85":[6,0,1831,0,7],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#aecb488fb2e2682c107072ea66d02ea8f":[6,0,1831,0,14],
+"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#af3f71dfd8888a9d7eccdaff50315bea1":[6,0,1831,0,8]
 };

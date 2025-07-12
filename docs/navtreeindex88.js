@@ -1,12 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#acf222bf3f1204215918e339d57e6ee37":[6,0,1831,0,4],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ad98e613c8d4625687f9ab16979d21707":[6,0,1831,0,10],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#adf12312ee9a037b7cdbf384137a8ceb4":[6,0,1831,0,9],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ae2715e5410ddf25734469594f72c7373":[6,0,1831,0,3],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#ae3f9c7ef83cb3841f3081a5c8391ad85":[6,0,1831,0,7],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#aecb488fb2e2682c107072ea66d02ea8f":[6,0,1831,0,14],
-"d2/df6/structnpc__high__overlord__saurfang__igb_1_1npc__high__overlord__saurfang__igbAI.html#af3f71dfd8888a9d7eccdaff50315bea1":[6,0,1831,0,8],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html":[6,0,1717,0],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#a13aae489e8b03121c8fbae12e83bdfaa":[6,0,1717,0,2],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#a3d597b2ee826c86b5a8feb3aa144a459":[6,0,1717,0,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX88 =
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a607c12e1d6dcbdb7f45ccf7f7a0ab515":[6,0,473,0,3],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a79e0526f188c612af25c4c4393ce4107":[6,0,473,0,24],
 "d3/d07/structboss__freya_1_1boss__freyaAI.html#a7ce317e14696250ef282e6d97645bbcf":[6,0,473,0,9],
-"d3/d07/structboss__freya_1_1boss__freyaAI.html#a896ac0c1392fb119f5a5dadf6a29a3aa":[6,0,473,0,17]
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#a896ac0c1392fb119f5a5dadf6a29a3aa":[6,0,473,0,17],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#a90b5d1d5fb31de96b8fbd3a7e373fb3b":[6,0,473,0,6],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#a9830104d9f0fbd4a25e9ce425e57df4e":[6,0,473,0,11],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#aa82d03099910ad78a52b34bf4e971002":[6,0,473,0,23],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#aa9686a1d02d9b33e6621a817a5a0a138":[6,0,473,0,18],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#acc2b964411ba9334e87940ac85acd106":[6,0,473,0,10],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#ace4bd3a529e3a9b2d0bcb7babdd78b7d":[6,0,473,0,4],
+"d3/d07/structboss__freya_1_1boss__freyaAI.html#add2c5875d831e1e1b69285228329c5d1":[6,0,473,0,8]
 };

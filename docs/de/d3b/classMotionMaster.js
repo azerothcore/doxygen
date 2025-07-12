@@ -19,6 +19,7 @@ var classMotionMaster =
     [ "GetDestination", "de/d3b/classMotionMaster.html#ab8dd6cc77c73d04fef110e14b0735023", null ],
     [ "GetMotionSlot", "de/d3b/classMotionMaster.html#a6467513eb801179256c4bf899268f33a", null ],
     [ "GetMotionSlotType", "de/d3b/classMotionMaster.html#a381fce2243c843d8a7ffef127d607c07", null ],
+    [ "HasMovementGeneratorType", "de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4", null ],
     [ "InitDefault", "de/d3b/classMotionMaster.html#a3653f35f87e68975efc1a5ad340507f5", null ],
     [ "Initialize", "de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820", null ],
     [ "InitTop", "de/d3b/classMotionMaster.html#a0cd0d4ba421847f9414ae3643fc46aa8", null ],

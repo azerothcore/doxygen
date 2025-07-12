@@ -7,7 +7,6 @@ var GridNotifiers_8h =
     [ "Acore::AIRelocationNotifier", "d0/dec/structAcore_1_1AIRelocationNotifier.html", "d0/dec/structAcore_1_1AIRelocationNotifier" ],
     [ "Acore::MessageDistDeliverer", "d2/dd0/structAcore_1_1MessageDistDeliverer.html", "d2/dd0/structAcore_1_1MessageDistDeliverer" ],
     [ "Acore::MessageDistDelivererToHostile", "db/d61/structAcore_1_1MessageDistDelivererToHostile.html", "db/d61/structAcore_1_1MessageDistDelivererToHostile" ],
-    [ "Acore::ObjectUpdater", "d1/dff/structAcore_1_1ObjectUpdater.html", "d1/dff/structAcore_1_1ObjectUpdater" ],
     [ "Acore::ContainerInserter< Type >", "da/d17/classAcore_1_1ContainerInserter.html", "da/d17/classAcore_1_1ContainerInserter" ],
     [ "Acore::WorldObjectSearcher< Check >", "d8/dfd/structAcore_1_1WorldObjectSearcher.html", "d8/dfd/structAcore_1_1WorldObjectSearcher" ],
     [ "Acore::WorldObjectLastSearcher< Check >", "de/dff/structAcore_1_1WorldObjectLastSearcher.html", "de/dff/structAcore_1_1WorldObjectLastSearcher" ],

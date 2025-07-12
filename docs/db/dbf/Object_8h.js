@@ -7,6 +7,7 @@ var Object_8h =
     [ "GridObject< T >", "d5/ddf/classGridObject.html", "d5/ddf/classGridObject" ],
     [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d4/d64/classFlaggedValuesArray32.html", "d4/d64/classFlaggedValuesArray32" ],
     [ "MovableMapObject", "db/def/classMovableMapObject.html", "db/def/classMovableMapObject" ],
+    [ "UpdatableMapObject", "d6/d5b/classUpdatableMapObject.html", "d6/d5b/classUpdatableMapObject" ],
     [ "WorldObject", "d4/dd0/classWorldObject.html", "d4/dd0/classWorldObject" ],
     [ "Acore::ObjectDistanceOrderPred", "df/d25/classAcore_1_1ObjectDistanceOrderPred.html", "df/d25/classAcore_1_1ObjectDistanceOrderPred" ],
     [ "UpdateDataMapType", "db/dbf/Object_8h.html#ac58dd2c514e262c6b68700fb72c69231", null ],

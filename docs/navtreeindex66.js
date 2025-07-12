@@ -1,12 +1,5 @@
 var NAVTREEINDEX66 =
 {
-"d2/d73/classScriptMgr.html#a9fe1e74e0124dccd4a4e8704c2a2319f":[6,0,2509,151],
-"d2/d73/classScriptMgr.html#aa027f879a449ada0533d716d6744b8c6":[6,0,2509,391],
-"d2/d73/classScriptMgr.html#aa12dcdb73e85b762994a599b92f3201e":[6,0,2509,434],
-"d2/d73/classScriptMgr.html#aa1c7c93123a2a878ebabf2feea974d6e":[6,0,2509,118],
-"d2/d73/classScriptMgr.html#aa286026b91c3aa541472d25f53eec010":[6,0,2509,96],
-"d2/d73/classScriptMgr.html#aa33f6226fc0f3ca313a184dbef71e91c":[6,0,2509,59],
-"d2/d73/classScriptMgr.html#aa3a70257a57f052403431a6fa76ba72c":[6,0,2509,206],
 "d2/d73/classScriptMgr.html#aa44972dbfd2357978332e5a90e7a86f7":[6,0,2509,364],
 "d2/d73/classScriptMgr.html#aa522b0dfed45c92f47c4d91fb9538f8d":[6,0,2509,9],
 "d2/d73/classScriptMgr.html#aa55b5ec49d14723dc5707ef4513fc067":[6,0,2509,122],
@@ -249,5 +242,12 @@ var NAVTREEINDEX66 =
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a8ef6c480846d08d8a6225a7124320cbf":[6,0,1984,0,5],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#adc86ecd4ed7b4b7b42968a0e09fa29a0":[6,0,1984,0,1],
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html":[6,0,2148,0],
-"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a21d0d70086f085b715a12d05fbe5d611":[6,0,2148,0,3]
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a21d0d70086f085b715a12d05fbe5d611":[6,0,2148,0,3],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc":[6,0,2148,0,10],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04":[6,0,2148,0,8],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a4c35104935a3a6264c853a657dc42244":[6,0,2148,0,5],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a95ccf9a84231d64c87b9d88d85b4ec2e":[6,0,2148,0,6],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#aacaeb3293bbb4b670cdc7031d22a50c2":[6,0,2148,0,1],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee":[6,0,2148,0,9],
+"d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc":[6,0,2148,0,7]
 };

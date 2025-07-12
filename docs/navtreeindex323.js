@@ -1,5 +1,15 @@
 var NAVTREEINDEX323 =
 {
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a03dd56d6801194333288a2edc7ae4eaa":[6,0,1839,0,4],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1839,0,6],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1839,0,7],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1839,0,2],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1839,0,0],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1839,0,1],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a7c911cf24b21c959ee5c62d664e1879a":[6,0,1839,0,5],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#ab37c5c22456c06f78b53505ae7973658":[6,0,1839,0,3],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#aeff0f7526f12f0e09e53c0e43a423799":[6,0,1839,0,8],
+"dd/d46/PetPackets_8h.html":[7,0,0,0,1,2,39,0,20],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[6,0,90],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,90,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,90,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d58/classnpc__toc__rogue.html#a6f0246b284ffd800e3870d70e9c52aac":[6,0,2185,2],
 "dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[6,0,2185,1],
 "dd/d58/classspell__gen__knock__away.html":[6,0,2948],
-"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[6,0,2948,0],
-"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2948,2],
-"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2948,1],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1890,0],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[6,0,1890,0,4],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1890,0,0],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[6,0,1890,0,2],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[6,0,1890,0,7],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#aaf329f0160efa778abdebf86b1cf230b":[6,0,1890,0,1],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#af5be6fc6d7d234cfd2ac78f636b0ad7c":[6,0,1890,0,5],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afcbb113387345361baf0351a19e6eb1d":[6,0,1890,0,6]
+"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[6,0,2948,0]
 };

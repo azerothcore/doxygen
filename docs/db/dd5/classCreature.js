@@ -144,6 +144,7 @@ var classCreature =
     [ "IsSpellProhibited", "db/dd5/classCreature.html#acc1b9708bc38b39a2c878dfa3ae503e7", null ],
     [ "isTappedBy", "db/dd5/classCreature.html#ab06dd065270cc119cb5b63037190e311", null ],
     [ "IsTrigger", "db/dd5/classCreature.html#a1264f98bce5d0365b1796401373425b7", null ],
+    [ "IsUpdateNeeded", "db/dd5/classCreature.html#a61a37a0a382345c7f35e49488149e5c0", null ],
     [ "IsValidTrainerForPlayer", "db/dd5/classCreature.html#a58029b1055899d05e1c440ddbad5d533", null ],
     [ "isVendorWithIconSpeak", "db/dd5/classCreature.html#aae0c26e553c775e9155cf7a4807f1ee4", null ],
     [ "isWorldBoss", "db/dd5/classCreature.html#a1e8e9b7c41b24a7d0b8b11f1f44a192d", null ],

@@ -1,12 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5ba594a0ee6dfa529f97dd6a4b7c39db189":[7,0,0,0,1,3,10,3,17,3],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5baae26a07dcb8adf60285a9dc1235868ce":[7,0,0,0,1,3,10,3,17,6],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5bab1fa9ba0204040c2ba65591b5a01e13b":[7,0,0,0,1,3,10,3,17,1],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5bad6a1b04cfb4384903006e0594e23599f":[7,0,0,0,1,3,10,3,17,2],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5baf5d003e615fedd9a9c581e7e7f819360":[7,0,0,0,1,3,10,3,17,0],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a64bbd191ff8adcd734165e2585f8b5aa":[7,0,0,0,1,3,10,3,31],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6":[7,0,0,0,1,3,10,3,28],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a3c94bdb6a74b968ac5d9625a9d7bc6b9":[7,0,0,0,1,3,10,3,28,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a529a83b6506bc0567da3876e73b811e6":[7,0,0,0,1,3,10,3,28,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762":[7,0,0,0,1,3,10,3,25],
@@ -249,5 +242,12 @@ var NAVTREEINDEX68 =
 "d2/d99/structboss__jormungarAI.html#a4be09bf0ae4c96d77edd5b1577b8aa28":[6,0,557,9],
 "d2/d99/structboss__jormungarAI.html#a4c341523dfc63b6c9b73f9e3a49ce854":[6,0,557,15],
 "d2/d99/structboss__jormungarAI.html#a5ce0f99d3889933633e1d88b4bacee88":[6,0,557,2],
-"d2/d99/structboss__jormungarAI.html#a604bcb56112044c4e437a9c447f0db51":[6,0,557,11]
+"d2/d99/structboss__jormungarAI.html#a604bcb56112044c4e437a9c447f0db51":[6,0,557,11],
+"d2/d99/structboss__jormungarAI.html#a6fd24ecd0be5692e9e389833a6134de5":[6,0,557,7],
+"d2/d99/structboss__jormungarAI.html#a981495f258c2fdeec9d0139ab02cf044":[6,0,557,18],
+"d2/d99/structboss__jormungarAI.html#aa3cd34a173b92dd2b54a28bb1b17fae7":[6,0,557,3],
+"d2/d99/structboss__jormungarAI.html#ab5291ccd06b4a0601e3426a89a86d99d":[6,0,557,0],
+"d2/d99/structboss__jormungarAI.html#ac73edc1b85cd78b045657279335a7564":[6,0,557,14],
+"d2/d99/structboss__jormungarAI.html#acabeffd2f9978b25a0b27abfbb3f5220":[6,0,557,1],
+"d2/d99/structboss__jormungarAI.html#ad8e5bf4176dfa37c3af476f6f71e699e":[6,0,557,8]
 };

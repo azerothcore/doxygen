@@ -90,6 +90,7 @@ var classGameObject =
     [ "isSpawnedByDefault", "de/d1c/classGameObject.html#a480c82a758a0654c31d5cda1ab8495e8", null ],
     [ "IsStaticTransport", "de/d1c/classGameObject.html#aa6182bf3056fce747774ad1b1608f773", null ],
     [ "IsTransport", "de/d1c/classGameObject.html#afdc3efbef6b35704f49a634e258d6299", null ],
+    [ "IsUpdateNeeded", "de/d1c/classGameObject.html#a1cd18a56501b9e6d9e89340108e93f58", null ],
     [ "IsWithinDistInMap", "de/d1c/classGameObject.html#a0e472403802c7a862e22c769ef4f8378", null ],
     [ "IsWithinDistInMap", "de/d1c/classGameObject.html#ab73407bcdf13a30519a953d24773ed02", null ],
     [ "LoadFromDB", "de/d1c/classGameObject.html#ade83e85cc1a0644ce566f76e7a467771", null ],

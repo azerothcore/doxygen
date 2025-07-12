@@ -171,9 +171,9 @@ template&lt;class Functor &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  368</span>            : <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(func), <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>(searcher-&gt;GetPhaseMask()) {}</div>
-<div class="ttc" id="astructAcore_1_1GameObjectWorker_html_abeaa251f909368e3ebeeff4dcefbda94"><div class="ttname"><a href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">Acore::GameObjectWorker::_func</a></div><div class="ttdeci">Functor &amp; _func</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:380</div></div>
-<div class="ttc" id="astructAcore_1_1GameObjectWorker_html_accfe66385f5bbfb461d0493c22fde20e"><div class="ttname"><a href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">Acore::GameObjectWorker::_phaseMask</a></div><div class="ttdeci">uint32 _phaseMask</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:381</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  358</span>            : <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(func), <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>(searcher-&gt;GetPhaseMask()) {}</div>
+<div class="ttc" id="astructAcore_1_1GameObjectWorker_html_abeaa251f909368e3ebeeff4dcefbda94"><div class="ttname"><a href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">Acore::GameObjectWorker::_func</a></div><div class="ttdeci">Functor &amp; _func</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:370</div></div>
+<div class="ttc" id="astructAcore_1_1GameObjectWorker_html_accfe66385f5bbfb461d0493c22fde20e"><div class="ttname"><a href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">Acore::GameObjectWorker::_phaseMask</a></div><div class="ttdeci">uint32 _phaseMask</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:371</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -203,16 +203,16 @@ template&lt;class Functor &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  371</span>        {</div>
-<div class="line"><span class="lineno">  372</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d45/classLinkedListHead_1_1Iterator.html">GameObjectMapType::iterator</a> itr = m.<a class="code hl_function" href="../../db/d9d/classGridRefMgr.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../db/d9d/classGridRefMgr.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  373</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  374</span>                    <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(itr-&gt;GetSource());</div>
-<div class="line"><span class="lineno">  375</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  361</span>        {</div>
+<div class="line"><span class="lineno">  362</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d45/classLinkedListHead_1_1Iterator.html">GameObjectMapType::iterator</a> itr = m.<a class="code hl_function" href="../../db/d9d/classGridRefMgr.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../db/d9d/classGridRefMgr.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  363</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  364</span>                    <a class="code hl_variable" href="../../d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  365</span>        }</div>
 <div class="ttc" id="aclassGridRefMgr_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../db/d9d/classGridRefMgr.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition</b> GridRefMgr.h:35</div></div>
 <div class="ttc" id="aclassGridRefMgr_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../db/d9d/classGridRefMgr.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition</b> GridRefMgr.h:36</div></div>
 <div class="ttc" id="aclassLinkedListHead_1_1Iterator_html"><div class="ttname"><a href="../../d0/d45/classLinkedListHead_1_1Iterator.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition</b> LinkedList.h:139</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00380">Acore::GameObjectWorker&lt; Functor &gt;::_func</a>, <a class="el" href="../../#l00381">Acore::GameObjectWorker&lt; Functor &gt;::_phaseMask</a>, <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::_func</a>, <a class="el" href="../../#l00371">Acore::GameObjectWorker&lt; Functor &gt;::_phaseMask</a>, <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
 
 </div>
 </div>
@@ -243,7 +243,7 @@ template&lt;class NOT_INTERESTED &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  377</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  367</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -270,7 +270,7 @@ template&lt;class Functor &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00360">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -296,7 +296,7 @@ template&lt;class Functor &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00360">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -309,7 +309,7 @@ template&lt;class Functor &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d1/df9/structAcore_1_1GameObjectWorker.html">GameObjectWorker</a></li>
-    <li class="footer">Generated on Fri Jul 11 2025 06:26:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jul 12 2025 06:23:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

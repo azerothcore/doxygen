@@ -11,11 +11,6 @@ var BattlegroundAV_8h =
     [ "BG_AV_KILL_SURVIVING_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#af29e7b7f2b10d32c078bd96a41d16aab", null ],
     [ "BG_AV_KILL_SURVIVING_TOWER", "d3/dd4/BattlegroundAV_8h.html#a3b35b9007a6386279550b41c6e747176", null ],
     [ "BG_AV_KILL_TOWER", "d3/dd4/BattlegroundAV_8h.html#af432427963c9c66f57cb40a1369fcff6", null ],
-    [ "BG_AV_REP_BOSS", "d3/dd4/BattlegroundAV_8h.html#a8f2ad3e2b494b3b249464ffcd494a575", null ],
-    [ "BG_AV_REP_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#affff6f0519b785bcf2bc14dbd4dd09bd", null ],
-    [ "BG_AV_REP_SURVIVING_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#a7e6abc731a3249f995144f2bba43c50f", null ],
-    [ "BG_AV_REP_SURVIVING_TOWER", "d3/dd4/BattlegroundAV_8h.html#ac3c146f05a8db10ab3a5077cea51995f", null ],
-    [ "BG_AV_REP_TOWER", "d3/dd4/BattlegroundAV_8h.html#a6c9afa60e620836abd17cfe9b19304a7", null ],
     [ "BG_AV_RES_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#a180a45308ce10b36210e60eb811de066", null ],
     [ "BG_AV_RES_TOWER", "d3/dd4/BattlegroundAV_8h.html#a282d6afe49da687717bc54fe3c0201cd", null ],
     [ "BG_AV_SCORE_INITIAL_POINTS", "d3/dd4/BattlegroundAV_8h.html#ad2dd28cccd54c1e6e1a1fb1b663faa1a", null ],
@@ -517,7 +512,7 @@ var BattlegroundAV_8h =
       [ "POINT_NEUTRAL", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972a69f4a87e39987661980b917e1bed8fa7", null ],
       [ "POINT_ASSAULTED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972ad0310d629f0b7389ae8c344d11763f87", null ],
       [ "POINT_DESTROYED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972a28d4c4c48370e9edebe1157f7c74b33a", null ],
-      [ "POINT_CONTROLED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972ac4d90c0deaf6f8bd6e2ba186ca783a72", null ]
+      [ "POINT_CONTROLLED", "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972a36ef9f87538e4f5cd8c35ca9e63dd5ca", null ]
     ] ],
     [ "operator++", "d3/dd4/BattlegroundAV_8h.html#ab5c9c507ee29145635eab1eebe05643f", null ],
     [ "BG_AV_CreatureInfo", "d3/dd4/BattlegroundAV_8h.html#aca858a4b6c9af5391a8b2b422974ce25", null ],

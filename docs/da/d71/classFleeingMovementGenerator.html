@@ -462,64 +462,64 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
-<div class="line"><span class="lineno">  172</span>    <span class="keywordtype">float</span> casterDistance = 0.f;</div>
-<div class="line"><span class="lineno">  173</span>    <span class="keywordtype">float</span> casterAngle = 0.f;</div>
-<div class="line"><span class="lineno">  174</span>    <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* fleeTarget = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a> &lt; 5)</div>
-<div class="line"><span class="lineno">  176</span>        fleeTarget = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(*owner, <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7">_fleeTargetGUID</a>);</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">if</span> (fleeTarget)</div>
-<div class="line"><span class="lineno">  179</span>    {</div>
-<div class="line"><span class="lineno">  180</span>        casterDistance = fleeTarget-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(owner);</div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (casterDistance &gt; 0.2f)</div>
-<div class="line"><span class="lineno">  182</span>        {</div>
-<div class="line"><span class="lineno">  183</span>            casterAngle = fleeTarget-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#aee80751b631ac7287aafe8f6df5891b4">GetAngle</a>(owner);</div>
-<div class="line"><span class="lineno">  184</span>        }</div>
-<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  186</span>        {</div>
-<div class="line"><span class="lineno">  187</span>            casterAngle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
-<div class="line"><span class="lineno">  188</span>        }</div>
-<div class="line"><span class="lineno">  189</span>    }</div>
-<div class="line"><span class="lineno">  190</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  191</span>    {</div>
-<div class="line"><span class="lineno">  192</span>        casterDistance = 0.0f;</div>
-<div class="line"><span class="lineno">  193</span>        casterAngle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
-<div class="line"><span class="lineno">  194</span>    }</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <span class="keywordtype">float</span> distance = 0.f;</div>
-<div class="line"><span class="lineno">  197</span>    <span class="keywordtype">float</span> angle = 0.f;</div>
-<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">if</span> (casterDistance &lt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>)</div>
-<div class="line"><span class="lineno">  199</span>    {</div>
-<div class="line"><span class="lineno">  200</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.4f, 1.3f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a> - casterDistance);</div>
-<div class="line"><span class="lineno">  201</span>        angle = casterAngle + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(-<span class="keywordtype">float</span>(M_PI) / 8.0f, <span class="keywordtype">float</span>(M_PI) / 8.0f);</div>
-<div class="line"><span class="lineno">  202</span>    }</div>
-<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (casterDistance &gt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a>)</div>
-<div class="line"><span class="lineno">  204</span>    {</div>
-<div class="line"><span class="lineno">  205</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.4f, 1.0f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a> - <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>);</div>
-<div class="line"><span class="lineno">  206</span>        angle = -casterAngle + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(-<span class="keywordtype">float</span>(M_PI) / 4.0f, <span class="keywordtype">float</span>(M_PI) / 4.0f);</div>
-<div class="line"><span class="lineno">  207</span>    }</div>
-<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">else</span>    <span class="comment">// we are inside quiet range</span></div>
-<div class="line"><span class="lineno">  209</span>    {</div>
-<div class="line"><span class="lineno">  210</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.6f, 1.2f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a> - <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>);</div>
-<div class="line"><span class="lineno">  211</span>        angle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
-<div class="line"><span class="lineno">  212</span>    }</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// In MovePositionToFirstCollision we have added owner&#39;s orientation</span></div>
-<div class="line"><span class="lineno">  215</span>    <span class="comment">// so now let&#39;s subtract it</span></div>
-<div class="line"><span class="lineno">  216</span>    angle -= owner-&gt;GetOrientation();</div>
-<div class="line"><span class="lineno">  217</span> </div>
-<div class="line"><span class="lineno">  218</span>    owner-&gt;MovePositionToFirstCollision(position, distance, angle);</div>
-<div class="line"><span class="lineno">  219</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordtype">float</span> casterDistance = 0.f;</div>
+<div class="line"><span class="lineno">  176</span>    <span class="keywordtype">float</span> casterAngle = 0.f;</div>
+<div class="line"><span class="lineno">  177</span>    <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* fleeTarget = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a> &lt; 5)</div>
+<div class="line"><span class="lineno">  179</span>        fleeTarget = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(*owner, <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7">_fleeTargetGUID</a>);</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">if</span> (fleeTarget)</div>
+<div class="line"><span class="lineno">  182</span>    {</div>
+<div class="line"><span class="lineno">  183</span>        casterDistance = fleeTarget-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(owner);</div>
+<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (casterDistance &gt; 0.2f)</div>
+<div class="line"><span class="lineno">  185</span>        {</div>
+<div class="line"><span class="lineno">  186</span>            casterAngle = fleeTarget-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#aee80751b631ac7287aafe8f6df5891b4">GetAngle</a>(owner);</div>
+<div class="line"><span class="lineno">  187</span>        }</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  189</span>        {</div>
+<div class="line"><span class="lineno">  190</span>            casterAngle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
+<div class="line"><span class="lineno">  191</span>        }</div>
+<div class="line"><span class="lineno">  192</span>    }</div>
+<div class="line"><span class="lineno">  193</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  194</span>    {</div>
+<div class="line"><span class="lineno">  195</span>        casterDistance = 0.0f;</div>
+<div class="line"><span class="lineno">  196</span>        casterAngle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
+<div class="line"><span class="lineno">  197</span>    }</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">float</span> distance = 0.f;</div>
+<div class="line"><span class="lineno">  200</span>    <span class="keywordtype">float</span> angle = 0.f;</div>
+<div class="line"><span class="lineno">  201</span>    <span class="keywordflow">if</span> (casterDistance &lt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>)</div>
+<div class="line"><span class="lineno">  202</span>    {</div>
+<div class="line"><span class="lineno">  203</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.4f, 1.3f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a> - casterDistance);</div>
+<div class="line"><span class="lineno">  204</span>        angle = casterAngle + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(-<span class="keywordtype">float</span>(M_PI) / 8.0f, <span class="keywordtype">float</span>(M_PI) / 8.0f);</div>
+<div class="line"><span class="lineno">  205</span>    }</div>
+<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (casterDistance &gt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a>)</div>
+<div class="line"><span class="lineno">  207</span>    {</div>
+<div class="line"><span class="lineno">  208</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.4f, 1.0f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a> - <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>);</div>
+<div class="line"><span class="lineno">  209</span>        angle = -casterAngle + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(-<span class="keywordtype">float</span>(M_PI) / 4.0f, <span class="keywordtype">float</span>(M_PI) / 4.0f);</div>
+<div class="line"><span class="lineno">  210</span>    }</div>
+<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">else</span>    <span class="comment">// we are inside quiet range</span></div>
+<div class="line"><span class="lineno">  212</span>    {</div>
+<div class="line"><span class="lineno">  213</span>        distance = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.6f, 1.2f) * (<a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a> - <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a>);</div>
+<div class="line"><span class="lineno">  214</span>        angle = <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a>(0.0f, 2.0f * <span class="keywordtype">float</span>(M_PI));</div>
+<div class="line"><span class="lineno">  215</span>    }</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>    <span class="comment">// In MovePositionToFirstCollision we have added owner&#39;s orientation</span></div>
+<div class="line"><span class="lineno">  218</span>    <span class="comment">// so now let&#39;s subtract it</span></div>
+<div class="line"><span class="lineno">  219</span>    angle -= owner-&gt;GetOrientation();</div>
+<div class="line"><span class="lineno">  220</span> </div>
+<div class="line"><span class="lineno">  221</span>    owner-&gt;MovePositionToFirstCollision(position, distance, angle);</div>
+<div class="line"><span class="lineno">  222</span>}</div>
 <div class="ttc" id="aFleeingMovementGenerator_8cpp_html_a9738c927d0a0b9da431824ab69a5988a"><div class="ttname"><a href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a">MAX_QUIET_DISTANCE</a></div><div class="ttdeci">#define MAX_QUIET_DISTANCE</div><div class="ttdef"><b>Definition</b> FleeingMovementGenerator.cpp:27</div></div>
 <div class="ttc" id="aFleeingMovementGenerator_8cpp_html_ad1ba65a06a9ac4ab2293efde8be35403"><div class="ttname"><a href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403">MIN_QUIET_DISTANCE</a></div><div class="ttdeci">#define MIN_QUIET_DISTANCE</div><div class="ttdef"><b>Definition</b> FleeingMovementGenerator.cpp:26</div></div>
 <div class="ttc" id="aRandom_8cpp_html_a19bd31014583536af788a65b398e4406"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406">frand</a></div><div class="ttdeci">float frand(float min, float max)</div><div class="ttdef"><b>Definition</b> Random.cpp:57</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
-<div class="ttc" id="aclassWorldObject_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1256</div></div>
+<div class="ttc" id="aclassWorldObject_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1257</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 <div class="ttc" id="astructPosition_html_aee80751b631ac7287aafe8f6df5891b4"><div class="ttname"><a href="../../d0/df4/structPosition.html#aee80751b631ac7287aafe8f6df5891b4">Position::GetAngle</a></div><div class="ttdeci">float GetAngle(const Position *pos) const</div><div class="ttdef"><b>Definition</b> Position.cpp:78</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">frand()</a>, <a class="el" href="../../#l00078">Position::GetAngle()</a>, <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00027">MAX_QUIET_DISTANCE</a>, and <a class="el" href="../../#l00026">MIN_QUIET_DISTANCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">frand()</a>, <a class="el" href="../../#l00078">Position::GetAngle()</a>, <a class="el" href="../../#l01257">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00027">MAX_QUIET_DISTANCE</a>, and <a class="el" href="../../#l00026">MIN_QUIET_DISTANCE</a>.</p>
 
 </div>
 </div>
@@ -583,43 +583,47 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  137</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;Clear();</div>
 <div class="line"><span class="lineno">  138</span>    }</div>
 <div class="line"><span class="lineno">  139</span> </div>
-<div class="line"><span class="lineno">  140</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;SetPathLengthLimit(30.0f);</div>
-<div class="line"><span class="lineno">  141</span>    <span class="keywordtype">bool</span> result = <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;CalculatePath(destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>());</div>
-<div class="line"><span class="lineno">  142</span>    <span class="keywordflow">if</span> (!result || (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;GetPathType() &amp; <a class="code hl_enumeration" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3">PathType</a>(<a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a> | <a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a> | <a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a>)))</div>
-<div class="line"><span class="lineno">  143</span>    {</div>
-<div class="line"><span class="lineno">  144</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(100);</div>
-<div class="line"><span class="lineno">  145</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  146</span>    }</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Same position - recheck</span></div>
-<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;getPathLength() &lt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#aa1f2b73706ddb69d07dbdc87257f010f">MIN_PATH_LENGTH</a>)</div>
-<div class="line"><span class="lineno">  150</span>    {</div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7">_fleeTargetGUID</a>)</div>
-<div class="line"><span class="lineno">  152</span>        {</div>
-<div class="line"><span class="lineno">  153</span>            ++<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a>;</div>
-<div class="line"><span class="lineno">  154</span>        }</div>
-<div class="line"><span class="lineno">  155</span> </div>
-<div class="line"><span class="lineno">  156</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(100);</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  158</span>    }</div>
-<div class="line"><span class="lineno">  159</span> </div>
-<div class="line"><span class="lineno">  160</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a> = 0;</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>    <a class="code hl_class" href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a> init(owner);</div>
-<div class="line"><span class="lineno">  163</span>    init.MovebyPath(<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;GetPath());</div>
-<div class="line"><span class="lineno">  164</span>    init.SetWalk(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  165</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> traveltime = init.Launch();</div>
-<div class="line"><span class="lineno">  166</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(traveltime + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(800, 1500));</div>
-<div class="line"><span class="lineno">  167</span>}</div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">if</span> (owner-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;SetSlopeCheck(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;SetPathLengthLimit(30.0f);</div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordtype">bool</span> result = <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;CalculatePath(destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), destination.<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>());</div>
+<div class="line"><span class="lineno">  145</span>    <span class="keywordflow">if</span> (!result || (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;GetPathType() &amp; <a class="code hl_enumeration" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3">PathType</a>(<a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a> | <a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a> | <a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a> | <a class="code hl_enumvalue" href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf">PATHFIND_NOT_USING_PATH</a>)))</div>
+<div class="line"><span class="lineno">  146</span>    {</div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(100);</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  149</span>    }</div>
+<div class="line"><span class="lineno">  150</span> </div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// Same position - recheck</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;getPathLength() &lt; <a class="code hl_define" href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#aa1f2b73706ddb69d07dbdc87257f010f">MIN_PATH_LENGTH</a>)</div>
+<div class="line"><span class="lineno">  153</span>    {</div>
+<div class="line"><span class="lineno">  154</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7">_fleeTargetGUID</a>)</div>
+<div class="line"><span class="lineno">  155</span>        {</div>
+<div class="line"><span class="lineno">  156</span>            ++<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a>;</div>
+<div class="line"><span class="lineno">  157</span>        }</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>        <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(100);</div>
+<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1">_shortPathsCount</a> = 0;</div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_class" href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a> init(owner);</div>
+<div class="line"><span class="lineno">  166</span>    init.MovebyPath(<a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16">_path</a>-&gt;GetPath());</div>
+<div class="line"><span class="lineno">  167</span>    init.SetWalk(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  168</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> traveltime = init.Launch();</div>
+<div class="line"><span class="lineno">  169</span>    <a class="code hl_variable" href="../../da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211">_timer</a>.<a class="code hl_function" href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(traveltime + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(800, 1500));</div>
+<div class="line"><span class="lineno">  170</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aFleeingMovementGenerator_8cpp_html_aa1f2b73706ddb69d07dbdc87257f010f"><div class="ttname"><a href="../../dc/d1b/FleeingMovementGenerator_8cpp.html#aa1f2b73706ddb69d07dbdc87257f010f">MIN_PATH_LENGTH</a></div><div class="ttdeci">#define MIN_PATH_LENGTH</div><div class="ttdef"><b>Definition</b> FleeingMovementGenerator.cpp:28</div></div>
 <div class="ttc" id="aPathGenerator_8h_html_ae093c9a96eda0463cdd2501ba83f10c3"><div class="ttname"><a href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3">PathType</a></div><div class="ttdeci">PathType</div><div class="ttdef"><b>Definition</b> PathGenerator.h:45</div></div>
+<div class="ttc" id="aPathGenerator_8h_html_ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf"><div class="ttname"><a href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf">PATHFIND_NOT_USING_PATH</a></div><div class="ttdeci">@ PATHFIND_NOT_USING_PATH</div><div class="ttdef"><b>Definition</b> PathGenerator.h:51</div></div>
 <div class="ttc" id="aPathGenerator_8h_html_ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"><div class="ttname"><a href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a></div><div class="ttdeci">@ PATHFIND_NOPATH</div><div class="ttdef"><b>Definition</b> PathGenerator.h:50</div></div>
 <div class="ttc" id="aPathGenerator_8h_html_ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c"><div class="ttname"><a href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a></div><div class="ttdeci">@ PATHFIND_FARFROMPOLY</div><div class="ttdef"><b>Definition</b> PathGenerator.h:55</div></div>
 <div class="ttc" id="aPathGenerator_8h_html_ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f"><div class="ttname"><a href="../../d8/dbf/PathGenerator_8h.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a></div><div class="ttdeci">@ PATHFIND_SHORTCUT</div><div class="ttdef"><b>Definition</b> PathGenerator.h:48</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a4217997c11a5daccaaf524f1ab049a40"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a4217997c11a5daccaaf524f1ab049a40">UNIT_STATE_FLEEING_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_FLEEING_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:194</div></div>
-<div class="ttc" id="aclassFleeingMovementGenerator_html_a77d3ae9533947a538220f9340ed7a907"><div class="ttname"><a href="../../da/d71/classFleeingMovementGenerator.html#a77d3ae9533947a538220f9340ed7a907">FleeingMovementGenerator::GetPoint</a></div><div class="ttdeci">void GetPoint(T *, Position &amp;position)</div><div class="ttdef"><b>Definition</b> FleeingMovementGenerator.cpp:170</div></div>
+<div class="ttc" id="aclassFleeingMovementGenerator_html_a77d3ae9533947a538220f9340ed7a907"><div class="ttname"><a href="../../da/d71/classFleeingMovementGenerator.html#a77d3ae9533947a538220f9340ed7a907">FleeingMovementGenerator::GetPoint</a></div><div class="ttdeci">void GetPoint(T *, Position &amp;position)</div><div class="ttdef"><b>Definition</b> FleeingMovementGenerator.cpp:173</div></div>
 <div class="ttc" id="aclassMovement_1_1MoveSplineInit_html"><div class="ttname"><a href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition</b> MoveSplineInit.h:71</div></div>
 <div class="ttc" id="astructPosition_html"><div class="ttname"><a href="../../d0/df4/structPosition.html">Position</a></div><div class="ttdef"><b>Definition</b> Position.h:27</div></div>
 <div class="ttc" id="astructPosition_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition</b> Position.h:123</div></div>
@@ -628,7 +632,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="astructPosition_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition</b> Position.h:122</div></div>
 <div class="ttc" id="astructTimeTracker_html_a798cf19378c4de243fac01d7d51a3572"><div class="ttname"><a href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">TimeTracker::Reset</a></div><div class="ttdeci">void Reset(time_t interval)</div><div class="ttdef"><b>Definition</b> Timer.h:217</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00058">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00028">MIN_PATH_LENGTH</a>, <a class="el" href="../../#l00175">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00055">PATHFIND_FARFROMPOLY</a>, <a class="el" href="../../#l00050">PATHFIND_NOPATH</a>, <a class="el" href="../../#l00048">PATHFIND_SHORTCUT</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00194">UNIT_STATE_FLEEING_MOVE</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00058">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00028">MIN_PATH_LENGTH</a>, <a class="el" href="../../#l00175">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00055">PATHFIND_FARFROMPOLY</a>, <a class="el" href="../../#l00050">PATHFIND_NOPATH</a>, <a class="el" href="../../#l00051">PATHFIND_NOT_USING_PATH</a>, <a class="el" href="../../#l00048">PATHFIND_SHORTCUT</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00194">UNIT_STATE_FLEEING_MOVE</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -763,7 +767,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d71/classFleeingMovementGenerator.html">FleeingMovementGenerator</a></li>
-    <li class="footer">Generated on Fri Jul 11 2025 06:25:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jul 12 2025 06:23:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

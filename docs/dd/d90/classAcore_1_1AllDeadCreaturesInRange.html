@@ -173,10 +173,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1530</span>: <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>(obj), <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>(range), <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">_reqAlive</a>(reqAlive) {}</div>
-<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_a431ada86a2b864d53773a85b05d8da4f"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">Acore::AllDeadCreaturesInRange::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1547</div></div>
-<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_a4ca7fcf9945e698a790d01d3fadae98e"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">Acore::AllDeadCreaturesInRange::_obj</a></div><div class="ttdeci">WorldObject const  * _obj</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1546</div></div>
-<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_aefd0d77b69b5df9b99c148e0254fda09"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">Acore::AllDeadCreaturesInRange::_reqAlive</a></div><div class="ttdeci">bool _reqAlive</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1548</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1520</span>: <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>(obj), <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>(range), <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">_reqAlive</a>(reqAlive) {}</div>
+<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_a431ada86a2b864d53773a85b05d8da4f"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">Acore::AllDeadCreaturesInRange::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1537</div></div>
+<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_a4ca7fcf9945e698a790d01d3fadae98e"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">Acore::AllDeadCreaturesInRange::_obj</a></div><div class="ttdeci">WorldObject const  * _obj</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1536</div></div>
+<div class="ttc" id="aclassAcore_1_1AllDeadCreaturesInRange_html_aefd0d77b69b5df9b99c148e0254fda09"><div class="ttname"><a href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">Acore::AllDeadCreaturesInRange::_reqAlive</a></div><div class="ttdeci">bool _reqAlive</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1538</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -204,21 +204,21 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1533</span>        {</div>
-<div class="line"><span class="lineno"> 1534</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">_reqAlive</a> &amp;&amp; unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno"> 1535</span>            {</div>
-<div class="line"><span class="lineno"> 1536</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1537</span>            }</div>
-<div class="line"><span class="lineno"> 1538</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(unit, <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>))</div>
-<div class="line"><span class="lineno"> 1539</span>            {</div>
-<div class="line"><span class="lineno"> 1540</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1541</span>            }</div>
-<div class="line"><span class="lineno"> 1542</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1543</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1523</span>        {</div>
+<div class="line"><span class="lineno"> 1524</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09">_reqAlive</a> &amp;&amp; unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno"> 1525</span>            {</div>
+<div class="line"><span class="lineno"> 1526</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1527</span>            }</div>
+<div class="line"><span class="lineno"> 1528</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(unit, <a class="code hl_variable" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>))</div>
+<div class="line"><span class="lineno"> 1529</span>            {</div>
+<div class="line"><span class="lineno"> 1530</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1531</span>            }</div>
+<div class="line"><span class="lineno"> 1532</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1533</span>        }</div>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1698</div></div>
-<div class="ttc" id="aclassWorldObject_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1332</div></div>
+<div class="ttc" id="aclassWorldObject_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1333</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01546">_obj</a>, <a class="el" href="../../#l01547">_range</a>, <a class="el" href="../../#l01548">_reqAlive</a>, <a class="el" href="../../#l01698">Unit::IsAlive()</a>, and <a class="el" href="../../#l01332">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01536">_obj</a>, <a class="el" href="../../#l01537">_range</a>, <a class="el" href="../../#l01538">_reqAlive</a>, <a class="el" href="../../#l01698">Unit::IsAlive()</a>, and <a class="el" href="../../#l01333">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -243,7 +243,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01532">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01522">operator()()</a>.</p>
 
 </div>
 </div>
@@ -267,7 +267,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01532">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01522">operator()()</a>.</p>
 
 </div>
 </div>
@@ -291,7 +291,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01532">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01522">operator()()</a>.</p>
 
 </div>
 </div>
@@ -304,7 +304,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d90/classAcore_1_1AllDeadCreaturesInRange.html">AllDeadCreaturesInRange</a></li>
-    <li class="footer">Generated on Fri Jul 11 2025 06:26:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jul 12 2025 06:23:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

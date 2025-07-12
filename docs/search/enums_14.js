@@ -36,7 +36,8 @@ var searchData=
   ['updatemaskcount_33',['UpdateMaskCount',['../d0/dff/classUpdateMask.html#a667c2f210ee4a2417a2a3ba486d1332f',1,'UpdateMask']]],
   ['updatemode_34',['UpdateMode',['../d6/d7f/classUpdateFetcher.html#a8da5fda372d28f07213d723c5a582d5c',1,'UpdateFetcher']]],
   ['updateresult_35',['UpdateResult',['../d3/d68/classMovement_1_1MoveSpline.html#a6fcd01e84f328619ce1a8dbbfa8143b0',1,'Movement::MoveSpline']]],
-  ['uromnpcs_36',['UromNPCs',['../d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8',1,'boss_urom.cpp']]],
-  ['usedpostype_37',['UsedPosType',['../df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397',1,'ObjectPosSelector.h']]],
-  ['utgardespells_38',['UtgardeSpells',['../d0/dce/utgarde__pinnacle_8cpp.html#ae8fa29243650c07aed99f9ee3cad321a',1,'utgarde_pinnacle.cpp']]]
+  ['updatestate_36',['UpdateState',['../d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23',1,'UpdatableMapObject']]],
+  ['uromnpcs_37',['UromNPCs',['../d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8',1,'boss_urom.cpp']]],
+  ['usedpostype_38',['UsedPosType',['../df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397',1,'ObjectPosSelector.h']]],
+  ['utgardespells_39',['UtgardeSpells',['../d0/dce/utgarde__pinnacle_8cpp.html#ae8fa29243650c07aed99f9ee3cad321a',1,'utgarde_pinnacle.cpp']]]
 ];

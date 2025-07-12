@@ -1,12 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"d3/d2c/structboss__huhuran.html#a5f3f17d0b239f95ed4eb0bfac85c4463":[6,0,535,5],
-"d3/d2c/structboss__huhuran.html#a64e0b20891992764c708cbb661c18196":[6,0,535,0],
-"d3/d2c/structboss__huhuran.html#adb47086f29b41f4168ad5d1b2728547d":[6,0,535,1],
-"d3/d2d/classServerMailReward.html":[6,0,2526],
-"d3/d2d/classServerMailReward.html#aba48b4c171e8e8a40fca2d3bed6b7f63":[6,0,2526,0],
-"d3/d2d/classServerMailReward.html#ada945e805278d54746b6fabaf48b4546":[6,0,2526,1],
-"d3/d2d/classspell__krick__explosive__barrage__aura.html":[6,0,3342],
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#a6de2140f17790b63314f653b7dd0ddd3":[6,0,3342,3],
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#ac8b3f1a826e3491d4315983a89d23d2e":[6,0,3342,0],
 "d3/d2d/classspell__krick__explosive__barrage__aura.html#ad54c3014195c5b848ab1f9cc978f72b3":[6,0,3342,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX93 =
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a7ddca760a92f4eb14842c22237967094":[7,0,0,0,1,3,5,9,2,13,61,19],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a93bd16e34fafb63aaf2baf5baa478799":[7,0,0,0,1,3,5,9,2,13,61,22],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aa260a1f5edc9dabe13993e70c6aa4b62":[7,0,0,0,1,3,5,9,2,13,61,5],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aab56e8def367d7b08fa4a2b67ce222d6":[7,0,0,0,1,3,5,9,2,13,61,21]
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aab56e8def367d7b08fa4a2b67ce222d6":[7,0,0,0,1,3,5,9,2,13,61,21],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab4c4dc666a5c4cd4e9c16f65cf3d5ecf":[7,0,0,0,1,3,5,9,2,13,61,24],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab5322ea77f92c7302d78eb2a9af502f3":[7,0,0,0,1,3,5,9,2,13,61,14],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959abd0575cd83ccbb6cfce2ed374c32de7a":[7,0,0,0,1,3,5,9,2,13,61,23],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ac95b534034df715b11fa93230ae12983":[7,0,0,0,1,3,5,9,2,13,61,25],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aca34c7e6de98bd1830d82c27f049cd01":[7,0,0,0,1,3,5,9,2,13,61,12],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959acb32fb6ef5552af61de27da686be3b2f":[7,0,0,0,1,3,5,9,2,13,61,4],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ad72106448b85c8e11fee7fd4dae735bf":[7,0,0,0,1,3,5,9,2,13,61,10]
 };

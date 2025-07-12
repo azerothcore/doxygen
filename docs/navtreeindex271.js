@@ -1,5 +1,14 @@
 var NAVTREEINDEX271 =
 {
+"db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1565,1],
+"db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1565,0],
+"db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1565,6],
+"db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4],
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2],
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673":[7,0,0,0,0,1,2,4,2,0],
+"db/d10/MotionMaster_8h.html":[7,0,0,0,1,2,31,7],
 "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,8],
 "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5":[7,0,0,0,1,2,31,7,8,1],
 "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a":[7,0,0,0,1,2,31,7,8,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX271 =
 "db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[6,0,3774,0],
 "db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[6,0,3774,2],
 "db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3774,3],
-"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3774,1],
-"db/d1b/structboss__kazrogal.html":[6,0,563],
-"db/d1b/structboss__kazrogal.html#a0b54f8c935d09367d7e6b7dbf6c4ce61":[6,0,563,2],
-"db/d1b/structboss__kazrogal.html#a2b3cc0e99c478c55f907898fbec2b8b2":[6,0,563,0],
-"db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990":[6,0,563,4],
-"db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a":[6,0,563,7],
-"db/d1b/structboss__kazrogal.html#a7721debceeefaeb69e71855b8e8742f8":[6,0,563,1],
-"db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa":[6,0,563,5],
-"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[6,0,563,3],
-"db/d1b/structboss__kazrogal.html#acb9f4ee5d97b43082bf6fc0c424685ab":[6,0,563,6]
+"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3774,1]
 };

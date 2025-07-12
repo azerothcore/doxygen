@@ -1,5 +1,13 @@
 var NAVTREEINDEX236 =
 {
+"d9/d81/classnpc__wg__demolisher__engineer.html":[6,0,2269],
+"d9/d81/classnpc__wg__demolisher__engineer.html#a3ecf69f45918bef0cb51023327ac9693":[6,0,2269,3],
+"d9/d81/classnpc__wg__demolisher__engineer.html#a5dd51b0d0a05ebfb648faab570e27881":[6,0,2269,1],
+"d9/d81/classnpc__wg__demolisher__engineer.html#a722ff6bac34730bfb5f36584d7a62ff8":[6,0,2269,0],
+"d9/d81/classnpc__wg__demolisher__engineer.html#ac3b0bbfd66bb94f29a6d733999b8c6ba":[6,0,2269,2],
+"d9/d82/classspell__dru__survival__instincts.html":[6,0,2820],
+"d9/d82/classspell__dru__survival__instincts.html#a605e7b8849186c3c2df731cac743a208":[6,0,2820,1],
+"d9/d82/classspell__dru__survival__instincts.html#a62533bff915db8323b53352f17c4825f":[6,0,2820,2],
 "d9/d82/classspell__dru__survival__instincts.html#aefa91f15300520de7cffad4f4ca82ccf":[6,0,2820,0],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html":[6,0,3723],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a0178e7c4f5509a4bb2c6ed3811fc9685":[6,0,3723,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#afce64ba75f8370cab6b8f1e561b10587":[6,0,3720,0],
 "d9/d8a/LogOperation_8h.html":[7,0,0,0,0,9,16],
 "d9/d8a/structQuestSortEntry.html":[6,0,2457],
-"d9/d8a/structQuestSortEntry.html#a61c817f16c280ee29e1c91bdb0c2fda8":[6,0,2457,0],
-"d9/d8a/structStableSlotPricesEntry.html":[6,0,4085],
-"d9/d8a/structStableSlotPricesEntry.html#a9cf01cf0d41d49613b4ceaf1eeb1716b":[6,0,4085,0],
-"d9/d8a/structStableSlotPricesEntry.html#aa53247914bda0ceca015b8b9ca117379":[6,0,4085,1],
-"d9/d8b/classMapGridManager.html":[6,0,1480],
-"d9/d8b/classMapGridManager.html#a16a35fb94355d6542a2ef634f5411243":[6,0,1480,17],
-"d9/d8b/classMapGridManager.html#a26255c8542bcfd6b706f73a401b4c5d2":[6,0,1480,3],
-"d9/d8b/classMapGridManager.html#a322e14ef979b97017a7547194de6c1f0":[6,0,1480,2],
-"d9/d8b/classMapGridManager.html#a479daebe69f976c11649c9c571eb18e0":[6,0,1480,9]
+"d9/d8a/structQuestSortEntry.html#a61c817f16c280ee29e1c91bdb0c2fda8":[6,0,2457,0]
 };

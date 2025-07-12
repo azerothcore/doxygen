@@ -1,5 +1,13 @@
 var NAVTREEINDEX218 =
 {
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5":[7,0,0,0,1,2,17,1,9],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921":[7,0,0,0,1,2,17,1,9,0],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81":[7,0,0,0,1,2,17,1,9,5],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf":[7,0,0,0,1,2,17,1,9,4],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7":[7,0,0,0,1,2,17,1,9,2],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0":[7,0,0,0,1,2,17,1,9,3],
+"d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136":[7,0,0,0,1,2,17,1,9,1],
+"d8/d92/classgo__vh__activation__crystal.html":[6,0,1195],
 "d8/d92/classgo__vh__activation__crystal.html#a47a61ba67086580135559332931e9c6e":[6,0,1195,1],
 "d8/d92/classgo__vh__activation__crystal.html#a4af485ac7ab6144282f3204a6d045cea":[6,0,1195,0],
 "d8/d92/classinstance__the__botanica.html":[6,0,1336],
@@ -197,8 +205,8 @@ var NAVTREEINDEX218 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1650,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1650,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1650,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d9f/classUnitAura.html#a920549cf55c8def37149b00ae971127d":[6,0,4173,1],
 "d8/d9f/classUnitAura.html#ada4033955271dfb21d16a95b316087f5":[6,0,4173,0],
 "d8/d9f/classUnitAura.html#add5ce04446338e078c5986420abfd16e":[6,0,4173,3],
-"d8/d9f/classUnitAura.html#ae2c0fdfb409846fec5e861de60797112":[6,0,4173,7],
-"d8/d9f/classUnitAura.html#af4d453cee6758e633bdcae0049581898":[6,0,4173,2],
-"d8/d9f/classnpc__ringo.html":[6,0,2068],
-"d8/d9f/classnpc__ringo.html#aabccd10a446986487bbb09fc2d33cfd9":[6,0,2068,1],
-"d8/d9f/classnpc__ringo.html#abdf4e5e1b26c1b1a288047e24188ad10":[6,0,2068,3],
-"d8/d9f/classnpc__ringo.html#aee6c9988f0c038c74b0deb3d44617ef1":[6,0,2068,2],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html":[6,0,463,0],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a001e00435bb01b464573dbff8338c64a":[6,0,463,0,1],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a0c6684365e711d48f4f4ffc4a2b4e524":[6,0,463,0,10]
+"d8/d9f/classUnitAura.html#ae2c0fdfb409846fec5e861de60797112":[6,0,4173,7]
 };
