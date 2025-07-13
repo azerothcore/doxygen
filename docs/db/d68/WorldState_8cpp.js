@@ -1,5 +1,11 @@
 var WorldState_8cpp =
 [
+    [ "PallidHorrorPaths", "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6c", [
+      [ "PATH_STORMWIND_KEEP", "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589", null ],
+      [ "PATH_STORMWIND_TRADE_DISTRICT", "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c", null ],
+      [ "PATH_UNDERCITY_TRADE_QUARTER", "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130", null ],
+      [ "PATH_UNDERCITY_ROYAL_QUARTER", "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b", null ]
+    ] ],
     [ "WorldStateSunsReachQuests", "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704", [
       [ "QUEST_ERRATIC_BEHAVIOR", "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
       [ "QUEST_SANCTUM_WARDS", "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],

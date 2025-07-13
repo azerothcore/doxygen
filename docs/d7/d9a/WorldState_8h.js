@@ -1,8 +1,62 @@
 var WorldState_8h =
 [
+    [ "ScourgeInvasionData", "dd/d8a/structScourgeInvasionData.html", "dd/d8a/structScourgeInvasionData" ],
+    [ "ScourgeInvasionData::InvasionZone", "db/d8a/structScourgeInvasionData_1_1InvasionZone.html", "db/d8a/structScourgeInvasionData_1_1InvasionZone" ],
+    [ "ScourgeInvasionData::CityAttack", "db/d70/structScourgeInvasionData_1_1CityAttack.html", "db/d70/structScourgeInvasionData_1_1CityAttack" ],
     [ "SunsReachReclamationData", "d3/db1/structSunsReachReclamationData.html", "d3/db1/structSunsReachReclamationData" ],
     [ "WorldState", "d3/da9/classWorldState.html", "d3/da9/classWorldState" ],
     [ "sWorldState", "d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f", null ],
+    [ "SICityTimers", "d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2a", [
+      [ "ZONE_ATTACK_TIMER_MIN", "d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa55c39bb2d19b6331e7e6bd0d68185646", null ],
+      [ "ZONE_ATTACK_TIMER_MAX", "d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa82607be8e58d081e58041f01b0f47018", null ],
+      [ "CITY_ATTACK_TIMER_MIN", "d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa7832721e7a62b7aca2d5ceb4359d1c8c", null ],
+      [ "CITY_ATTACK_TIMER_MAX", "d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa5f1ef8b4d92183372361d77f01f7ee29", null ]
+    ] ],
+    [ "SIMisc", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3", [
+      [ "EVENT_HERALD_OF_THE_LICH_KING_ZONE_START", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3af71cb6c51675592ad400b429e342792c", null ],
+      [ "EVENT_HERALD_OF_THE_LICH_KING_ZONE_STOP", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a72a2664917ac7e9b711866fdc6313e54", null ],
+      [ "NPC_PALLID_HORROR", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a1256128f8b85c97132416fbd057ac897", null ],
+      [ "NPC_PATCHWORK_TERROR", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a57a0f8d508d934e8f51ab1ee4a017912", null ],
+      [ "NPC_HERALD_OF_THE_LICH_KING", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3aafbec9fe50b47209831be55c8c8097e5", null ],
+      [ "ITEM_A_LETTER_FROM_THE_KEEPER_OF_THE_ROLLS", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a6108ee117d157992efff6b5f59265453", null ],
+      [ "NPC_ARGENT_EMISSARY", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3ae3129ded3c64bc0778910f4c39b6e7f6", null ],
+      [ "MAIL_TEMPLATE_ARGENT_DAWN_NEEDS_YOUR_HELP", "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a2974be3cfeb1ec4b4e539d565ef85cba", null ]
+    ] ],
+    [ "SIRemaining", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6ee", [
+      [ "SI_REMAINING_AZSHARA", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192", null ],
+      [ "SI_REMAINING_BLASTED_LANDS", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876", null ],
+      [ "SI_REMAINING_BURNING_STEPPES", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04", null ],
+      [ "SI_REMAINING_EASTERN_PLAGUELANDS", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66", null ],
+      [ "SI_REMAINING_TANARIS", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b", null ],
+      [ "SI_REMAINING_WINTERSPRING", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005", null ],
+      [ "SI_REMAINING_MAX", "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514", null ]
+    ] ],
+    [ "SIState", "d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690", [
+      [ "STATE_0_DISABLED", "d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39", null ],
+      [ "STATE_1_ENABLED", "d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a27acc7e6cdaaad5f13ed4df7be56defc", null ],
+      [ "SI_STATE_MAX", "d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3", null ]
+    ] ],
+    [ "SITimers", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99e", [
+      [ "SI_TIMER_AZSHARA", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea7e70bc925a4eb641a96cec8e9fcac7d8", null ],
+      [ "SI_TIMER_BLASTED_LANDS", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea532499014508a368d7047092f279707d", null ],
+      [ "SI_TIMER_BURNING_STEPPES", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea8e1db7192af80f8edb51db2a23f1a23a", null ],
+      [ "SI_TIMER_EASTERN_PLAGUELANDS", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea9e3c2bac63f9ec687deb109e579cdc81", null ],
+      [ "SI_TIMER_TANARIS", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea832c45419d88e7550c9c2be9e9f80a6d", null ],
+      [ "SI_TIMER_WINTERSPRING", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea9432f2ec7be5888384363ca926e965c6", null ],
+      [ "SI_TIMER_STORMWIND", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea62abd4548974545032422538cb50e7ac", null ],
+      [ "SI_TIMER_UNDERCITY", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea1ed9e8fd06f5592cbf0d6e1b11020188", null ],
+      [ "SI_TIMER_MAX", "d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8", null ]
+    ] ],
+    [ "SIZoneIds", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8", [
+      [ "SI_ZONE_AZSHARA", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8a77b28318e4ca21eb4cd36c1a9fb74f63", null ],
+      [ "SI_ZONE_BLASTED_LANDS", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8aac89922b39ff3f86ed8f4b023f15ac08", null ],
+      [ "SI_ZONE_BURNING_STEPPES", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8aad28d71d1cd42f38fed8288571607e19", null ],
+      [ "SI_ZONE_EASTERN_PLAGUELANDS", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8a0ebcab930583bf84159383b75e4162bb", null ],
+      [ "SI_ZONE_TANARIS", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8a9da39cfe20184768a9c7988ed17ab01d", null ],
+      [ "SI_ZONE_WINTERSPRING", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8a4957757eabc8da5ed9b89defc865b068", null ],
+      [ "SI_ZONE_STORMWIND", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8aff276d792e7dacdc26805e381d7b6006", null ],
+      [ "SI_ZONE_UNDERCITY", "d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8a4f8d0977575b2db09b15ef3df7deae11", null ]
+    ] ],
     [ "SunsReachCounters", "d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c", [
       [ "COUNTER_ERRATIC_BEHAVIOR", "d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641", null ],
       [ "COUNTER_SANCTUM_WARDS", "d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de", null ],
@@ -57,6 +111,23 @@ var WorldState_8h =
       [ "WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN", "d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b", null ]
     ] ],
     [ "WorldStateGameEvents", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780", [
+      [ "GAME_EVENT_SCOURGE_INVASION", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a35299752ef87a4482d58ec87ff9067ea", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_WINTERSPRING", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a42da395d5c683f22aec0cb0c1c8c7528", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_TANARIS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a585669bddff3e4d441379aa0060d8232", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_AZSHARA", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a28ebd1b230bb8a2e19b88347b605cf70", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BLASTED_LANDS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a10dfc746d32befa4fbef16852081c989", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_EASTERN_PLAGUELANDS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ab8c7b13c0aa2d6b6f796eaca2bf1f9c1", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BURNING_STEPPES", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a3f73a9acf9158358b1c8e8809881998a", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_50_INVASIONS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ad34d4ccb375f8684c1fa36005edbceb9", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_100_INVASIONS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780aebd21704d642e8c639d27c629e0f2cec", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_150_INVASIONS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a59cd78d1eaeb1a9230d809b097a6db91", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_INVASIONS_DONE", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a720302fea42989e522858f081bd3e81a", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_1", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a2320f504c627efe24ba658a63a567ddb", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_2", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a07163bee23085343e22bc320691f64ca", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_3", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a9d145b5961ef8d40ceb2a89a42efe737", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_4", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780abe3bc1461233c717b8bd0c621e02df82", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_5", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ad25ee48989ef11b8e677d7960a9e590a", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_6", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a36f67cbb26c2593bf92b629e2ef4f81c", null ],
       [ "GAME_EVENT_QUEL_DANAS_PHASE_1", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164", null ],
       [ "GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32", null ],
       [ "GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850", null ],
@@ -78,6 +149,7 @@ var WorldState_8h =
       [ "GAME_EVENT_SWP_GATES_PHASE_3", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8", null ]
     ] ],
     [ "WorldStateSaveIds", "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2ac", [
+      [ "SAVE_ID_SCOURGE_INVASION", "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2acad1cfed631a6d170354306de21a9c8e10", null ],
       [ "SAVE_ID_QUEL_DANAS", "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453", null ]
     ] ],
     [ "WorldStateSpells", "d7/d9a/WorldState_8h.html#a882a758e503627632aa1d2a878086d91", [

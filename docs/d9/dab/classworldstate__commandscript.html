@@ -156,6 +156,14 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a45b73e47c8e9b21063d02922a83e103b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a805ab7fa1900feeb3e3034263c3a0a4d" id="r_a805ab7fa1900feeb3e3034263c3a0a4d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a805ab7fa1900feeb3e3034263c3a0a4d">HandleSunwellGateCounterCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; index, <a class="el" href="../../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; value)</td></tr>
 <tr class="separator:a805ab7fa1900feeb3e3034263c3a0a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11aeedef82a93f8799fd788a8c492335" id="r_a11aeedef82a93f8799fd788a8c492335"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a11aeedef82a93f8799fd788a8c492335">HandleScourgeInvasionCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler)</td></tr>
+<tr class="separator:a11aeedef82a93f8799fd788a8c492335"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ba0b973087f921dbb764037c8b36134" id="r_a5ba0b973087f921dbb764037c8b36134"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a5ba0b973087f921dbb764037c8b36134">HandleScourgeInvasionStateCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)</td></tr>
+<tr class="separator:a5ba0b973087f921dbb764037c8b36134"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c2167ce554327d674161b7c4f63585c" id="r_a1c2167ce554327d674161b7c4f63585c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a1c2167ce554327d674161b7c4f63585c">HandleScourgeInvasionBattlesWonCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> value)</td></tr>
+<tr class="separator:a1c2167ce554327d674161b7c4f63585c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af242372bd32ed79d839af82f82423837" id="r_af242372bd32ed79d839af82f82423837"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#af242372bd32ed79d839af82f82423837">HandleScourgeInvasionStartZone</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)</td></tr>
+<tr class="separator:af242372bd32ed79d839af82f82423837"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -233,27 +241,228 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   39</span>            { <span class="stringliteral">&quot;gatecounter&quot;</span>, <a class="code hl_function" href="../../d9/dab/classworldstate__commandscript.html#a805ab7fa1900feeb3e3034263c3a0a4d">HandleSunwellGateCounterCommand</a>,           <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes },</div>
 <div class="line"><span class="lineno">   40</span>        };</div>
 <div class="line"><span class="lineno">   41</span> </div>
-<div class="line"><span class="lineno">   42</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> worldStateCommandTable =</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> scourgeInvasionCommandTable =</div>
 <div class="line"><span class="lineno">   43</span>        {</div>
-<div class="line"><span class="lineno">   44</span>            { <span class="stringliteral">&quot;sunsreach&quot;</span>, sunsreachCommandTable }</div>
-<div class="line"><span class="lineno">   45</span>        };</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
-<div class="line"><span class="lineno">   48</span>        {</div>
-<div class="line"><span class="lineno">   49</span>            { <span class="stringliteral">&quot;worldstate&quot;</span>, worldStateCommandTable }</div>
-<div class="line"><span class="lineno">   50</span>        };</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span> commandTable;</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
+<div class="line"><span class="lineno">   44</span>            { <span class="stringliteral">&quot;show&quot;</span>,       <a class="code hl_function" href="../../d9/dab/classworldstate__commandscript.html#a11aeedef82a93f8799fd788a8c492335">HandleScourgeInvasionCommand</a>,           <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes },</div>
+<div class="line"><span class="lineno">   45</span>            { <span class="stringliteral">&quot;state&quot;</span>,      <a class="code hl_function" href="../../d9/dab/classworldstate__commandscript.html#a5ba0b973087f921dbb764037c8b36134">HandleScourgeInvasionStateCommand</a>,      <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes },</div>
+<div class="line"><span class="lineno">   46</span>            { <span class="stringliteral">&quot;battleswon&quot;</span>, <a class="code hl_function" href="../../d9/dab/classworldstate__commandscript.html#a1c2167ce554327d674161b7c4f63585c">HandleScourgeInvasionBattlesWonCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes },</div>
+<div class="line"><span class="lineno">   47</span>            { <span class="stringliteral">&quot;startzone&quot;</span>,  <a class="code hl_function" href="../../d9/dab/classworldstate__commandscript.html#af242372bd32ed79d839af82f82423837">HandleScourgeInvasionStartZone</a>,         <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes },</div>
+<div class="line"><span class="lineno">   48</span>        };</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> worldStateCommandTable =</div>
+<div class="line"><span class="lineno">   51</span>        {</div>
+<div class="line"><span class="lineno">   52</span>            { <span class="stringliteral">&quot;sunsreach&quot;</span>, sunsreachCommandTable },</div>
+<div class="line"><span class="lineno">   53</span>            { <span class="stringliteral">&quot;scourgeinvasion&quot;</span>, scourgeInvasionCommandTable }</div>
+<div class="line"><span class="lineno">   54</span>        };</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
+<div class="line"><span class="lineno">   57</span>        {</div>
+<div class="line"><span class="lineno">   58</span>            { <span class="stringliteral">&quot;worldstate&quot;</span>, worldStateCommandTable }</div>
+<div class="line"><span class="lineno">   59</span>        };</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> commandTable;</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition</b> Common.h:60</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a1534e35532bc29b8d03594af30e4cdfa"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a1534e35532bc29b8d03594af30e4cdfa">worldstate_commandscript::HandleSunsReachReclamationStatusCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationStatusCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:54</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a2307687ae1d3cb3f6e5237af4d8f8595"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a2307687ae1d3cb3f6e5237af4d8f8595">worldstate_commandscript::HandleSunsReachReclamationSubPhaseCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationSubPhaseCommand(ChatHandler *handler, uint32 subphase)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:72</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a45b73e47c8e9b21063d02922a83e103b"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a45b73e47c8e9b21063d02922a83e103b">worldstate_commandscript::HandleSunwellGateCommand</a></div><div class="ttdeci">static bool HandleSunwellGateCommand(ChatHandler *handler, uint32 newGate)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:97</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a4b7049c1c9932b098441a3af4d7cd03c"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a4b7049c1c9932b098441a3af4d7cd03c">worldstate_commandscript::HandleSunsReachReclamationPhaseCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationPhaseCommand(ChatHandler *handler, uint32 phase)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:60</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a78ccd5fd1fe4562d93f69199112044d2"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a78ccd5fd1fe4562d93f69199112044d2">worldstate_commandscript::HandleSunsReachReclamationCounterCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationCounterCommand(ChatHandler *handler, Optional&lt; uint32 &gt; index, Optional&lt; uint32 &gt; value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:84</div></div>
-<div class="ttc" id="aclassworldstate__commandscript_html_a805ab7fa1900feeb3e3034263c3a0a4d"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a805ab7fa1900feeb3e3034263c3a0a4d">worldstate_commandscript::HandleSunwellGateCounterCommand</a></div><div class="ttdeci">static bool HandleSunwellGateCounterCommand(ChatHandler *handler, Optional&lt; uint32 &gt; index, Optional&lt; uint32 &gt; value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:109</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a11aeedef82a93f8799fd788a8c492335"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a11aeedef82a93f8799fd788a8c492335">worldstate_commandscript::HandleScourgeInvasionCommand</a></div><div class="ttdeci">static bool HandleScourgeInvasionCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:131</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a1534e35532bc29b8d03594af30e4cdfa"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a1534e35532bc29b8d03594af30e4cdfa">worldstate_commandscript::HandleSunsReachReclamationStatusCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationStatusCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:63</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a1c2167ce554327d674161b7c4f63585c"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a1c2167ce554327d674161b7c4f63585c">worldstate_commandscript::HandleScourgeInvasionBattlesWonCommand</a></div><div class="ttdeci">static bool HandleScourgeInvasionBattlesWonCommand(ChatHandler *, int32 value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:151</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a2307687ae1d3cb3f6e5237af4d8f8595"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a2307687ae1d3cb3f6e5237af4d8f8595">worldstate_commandscript::HandleSunsReachReclamationSubPhaseCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationSubPhaseCommand(ChatHandler *handler, uint32 subphase)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:81</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a45b73e47c8e9b21063d02922a83e103b"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a45b73e47c8e9b21063d02922a83e103b">worldstate_commandscript::HandleSunwellGateCommand</a></div><div class="ttdeci">static bool HandleSunwellGateCommand(ChatHandler *handler, uint32 newGate)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:106</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a4b7049c1c9932b098441a3af4d7cd03c"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a4b7049c1c9932b098441a3af4d7cd03c">worldstate_commandscript::HandleSunsReachReclamationPhaseCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationPhaseCommand(ChatHandler *handler, uint32 phase)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:69</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a5ba0b973087f921dbb764037c8b36134"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a5ba0b973087f921dbb764037c8b36134">worldstate_commandscript::HandleScourgeInvasionStateCommand</a></div><div class="ttdeci">static bool HandleScourgeInvasionStateCommand(ChatHandler *handler, uint32 value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:137</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a78ccd5fd1fe4562d93f69199112044d2"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a78ccd5fd1fe4562d93f69199112044d2">worldstate_commandscript::HandleSunsReachReclamationCounterCommand</a></div><div class="ttdeci">static bool HandleSunsReachReclamationCounterCommand(ChatHandler *handler, Optional&lt; uint32 &gt; index, Optional&lt; uint32 &gt; value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:93</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_a805ab7fa1900feeb3e3034263c3a0a4d"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#a805ab7fa1900feeb3e3034263c3a0a4d">worldstate_commandscript::HandleSunwellGateCounterCommand</a></div><div class="ttdeci">static bool HandleSunwellGateCounterCommand(ChatHandler *handler, Optional&lt; uint32 &gt; index, Optional&lt; uint32 &gt; value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:118</div></div>
+<div class="ttc" id="aclassworldstate__commandscript_html_af242372bd32ed79d839af82f82423837"><div class="ttname"><a href="../../d9/dab/classworldstate__commandscript.html#af242372bd32ed79d839af82f82423837">worldstate_commandscript::HandleScourgeInvasionStartZone</a></div><div class="ttdeci">static bool HandleScourgeInvasionStartZone(ChatHandler *handler, uint32 value)</div><div class="ttdef"><b>Definition</b> cs_worldstate.cpp:157</div></div>
 <div class="ttc" id="anamespaceAcore_1_1ChatCommands_html_a7aa1549a95f760a19b9b7ffd8e669626"><div class="ttname"><a href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">Acore::ChatCommands::ChatCommandTable</a></div><div class="ttdeci">std::vector&lt; ChatCommandBuilder &gt; ChatCommandTable</div><div class="ttdef"><b>Definition</b> ChatCommand.h:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00084">HandleSunsReachReclamationCounterCommand()</a>, <a class="el" href="../../#l00060">HandleSunsReachReclamationPhaseCommand()</a>, <a class="el" href="../../#l00054">HandleSunsReachReclamationStatusCommand()</a>, <a class="el" href="../../#l00072">HandleSunsReachReclamationSubPhaseCommand()</a>, <a class="el" href="../../#l00097">HandleSunwellGateCommand()</a>, <a class="el" href="../../#l00109">HandleSunwellGateCounterCommand()</a>, and <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00151">HandleScourgeInvasionBattlesWonCommand()</a>, <a class="el" href="../../#l00131">HandleScourgeInvasionCommand()</a>, <a class="el" href="../../#l00157">HandleScourgeInvasionStartZone()</a>, <a class="el" href="../../#l00137">HandleScourgeInvasionStateCommand()</a>, <a class="el" href="../../#l00093">HandleSunsReachReclamationCounterCommand()</a>, <a class="el" href="../../#l00069">HandleSunsReachReclamationPhaseCommand()</a>, <a class="el" href="../../#l00063">HandleSunsReachReclamationStatusCommand()</a>, <a class="el" href="../../#l00081">HandleSunsReachReclamationSubPhaseCommand()</a>, <a class="el" href="../../#l00106">HandleSunwellGateCommand()</a>, <a class="el" href="../../#l00118">HandleSunwellGateCounterCommand()</a>, and <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>.</p>
+
+</div>
+</div>
+<a id="a1c2167ce554327d674161b7c4f63585c" name="a1c2167ce554327d674161b7c4f63585c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c2167ce554327d674161b7c4f63585c">&#9670;&#160;</a></span>HandleScourgeInvasionBattlesWonCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool worldstate_commandscript::HandleScourgeInvasionBattlesWonCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;AddBattlesWon(value);</div>
+<div class="line"><span class="lineno">  154</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  155</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_a3a4f495a024c9f1774c913dd8ac4929f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a></div><div class="ttdeci">#define sWorldState</div><div class="ttdef"><b>Definition</b> WorldState.h:376</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00376">sWorldState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
+
+</div>
+</div>
+<a id="a11aeedef82a93f8799fd788a8c492335" name="a11aeedef82a93f8799fd788a8c492335"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11aeedef82a93f8799fd788a8c492335">&#9670;&#160;</a></span>HandleScourgeInvasionCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool worldstate_commandscript::HandleScourgeInvasionCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  132</span>    {</div>
+<div class="line"><span class="lineno">  133</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetScourgeInvasionPrintout());</div>
+<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  135</span>    }</div>
+<div class="ttc" id="aclassChatHandler_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:211</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
+
+</div>
+</div>
+<a id="af242372bd32ed79d839af82f82423837" name="af242372bd32ed79d839af82f82423837"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af242372bd32ed79d839af82f82423837">&#9670;&#160;</a></span>HandleScourgeInvasionStartZone()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool worldstate_commandscript::HandleScourgeInvasionStartZone </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  158</span>    {</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">if</span> (value &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a>)</div>
+<div class="line"><span class="lineno">  161</span>        {</div>
+<div class="line"><span class="lineno">  162</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate scourgeinvasion startzone &lt;value&gt;.\nvalid values: 0-7&quot;</span>);</div>
+<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  164</span>        }</div>
+<div class="line"><span class="lineno">  165</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;StartZoneEvent(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8">SIZoneIds</a>(value));</div>
+<div class="line"><span class="lineno">  166</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Scourge Invasion event started for zone {}.&quot;</span>, value);</div>
+<div class="line"><span class="lineno">  167</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetScourgeInvasionPrintout());</div>
+<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  169</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_a7073adb35dc267e2d6a3086ec5c607d8"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a7073adb35dc267e2d6a3086ec5c607d8">SIZoneIds</a></div><div class="ttdeci">SIZoneIds</div><div class="ttdef"><b>Definition</b> WorldState.h:130</div></div>
+<div class="ttc" id="aWorldState_8h_html_a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a></div><div class="ttdeci">@ SI_TIMER_MAX</div><div class="ttdef"><b>Definition</b> WorldState.h:151</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00151">SI_TIMER_MAX</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
+
+</div>
+</div>
+<a id="a5ba0b973087f921dbb764037c8b36134" name="a5ba0b973087f921dbb764037c8b36134"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ba0b973087f921dbb764037c8b36134">&#9670;&#160;</a></span>HandleScourgeInvasionStateCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool worldstate_commandscript::HandleScourgeInvasionStateCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  138</span>    {</div>
+<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">if</span> (value &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3">SI_STATE_MAX</a>)</div>
+<div class="line"><span class="lineno">  140</span>        {</div>
+<div class="line"><span class="lineno">  141</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate scourgeinvasion state &lt;value&gt;.&quot;</span>);</div>
+<div class="line"><span class="lineno">  142</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Valid values are: 0 (Disabled), 1 (Enabled).&quot;</span>);</div>
+<div class="line"><span class="lineno">  143</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  144</span>        }</div>
+<div class="line"><span class="lineno">  145</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetScourgeInvasionState(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690">SIState</a>(value));</div>
+<div class="line"><span class="lineno">  146</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Scourge Invasion state set to {}.&quot;</span>, value);</div>
+<div class="line"><span class="lineno">  147</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetScourgeInvasionPrintout());</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  149</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_aecf9527110a7255a02e5f9add33dd690"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690">SIState</a></div><div class="ttdeci">SIState</div><div class="ttdef"><b>Definition</b> WorldState.h:123</div></div>
+<div class="ttc" id="aWorldState_8h_html_aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3">SI_STATE_MAX</a></div><div class="ttdeci">@ SI_STATE_MAX</div><div class="ttdef"><b>Definition</b> WorldState.h:126</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00126">SI_STATE_MAX</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -296,23 +505,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>    {</div>
-<div class="line"><span class="lineno">   86</span>        <span class="keywordflow">if</span> (!index || !value || index.value() &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a>)</div>
-<div class="line"><span class="lineno">   87</span>        {</div>
-<div class="line"><span class="lineno">   88</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate sunsreach counter &lt;index&gt; &lt;value&gt;.&quot;</span>);</div>
-<div class="line"><span class="lineno">   89</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   91</span>        }</div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetSunsReachCounter(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a>(index.value()), value.value());</div>
-<div class="line"><span class="lineno">   93</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   95</span>    }</div>
-<div class="ttc" id="aWorldState_8h_html_a3a4f495a024c9f1774c913dd8ac4929f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a></div><div class="ttdeci">#define sWorldState</div><div class="ttdef"><b>Definition</b> WorldState.h:202</div></div>
-<div class="ttc" id="aWorldState_8h_html_aaf07f00f32588714a5bb8a6b3662211c"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a></div><div class="ttdeci">SunsReachCounters</div><div class="ttdef"><b>Definition</b> WorldState.h:105</div></div>
-<div class="ttc" id="aWorldState_8h_html_aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a></div><div class="ttdeci">@ COUNTERS_MAX</div><div class="ttdef"><b>Definition</b> WorldState.h:116</div></div>
-<div class="ttc" id="aclassChatHandler_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:211</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
+<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">if</span> (!index || !value || index.value() &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a>)</div>
+<div class="line"><span class="lineno">   96</span>        {</div>
+<div class="line"><span class="lineno">   97</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate sunsreach counter &lt;index&gt; &lt;value&gt;.&quot;</span>);</div>
+<div class="line"><span class="lineno">   98</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">   99</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  100</span>        }</div>
+<div class="line"><span class="lineno">  101</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetSunsReachCounter(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a>(index.value()), value.value());</div>
+<div class="line"><span class="lineno">  102</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  104</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_aaf07f00f32588714a5bb8a6b3662211c"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a></div><div class="ttdeci">SunsReachCounters</div><div class="ttdef"><b>Definition</b> WorldState.h:232</div></div>
+<div class="ttc" id="aWorldState_8h_html_aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a></div><div class="ttdeci">@ COUNTERS_MAX</div><div class="ttdef"><b>Definition</b> WorldState.h:243</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00116">COUNTERS_MAX</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00243">COUNTERS_MAX</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -351,20 +558,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>    {</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>)</div>
-<div class="line"><span class="lineno">   63</span>        {</div>
-<div class="line"><span class="lineno">   64</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid phase, see \&quot;.worldstate sunsreach phase\&quot; for usage&quot;</span>);</div>
-<div class="line"><span class="lineno">   65</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   66</span>        }</div>
-<div class="line"><span class="lineno">   67</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachPhaseTransition(<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
-<div class="line"><span class="lineno">   68</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="ttc" id="aWorldState_8h_html_aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_4_HARBOR</div><div class="ttdef"><b>Definition</b> WorldState.h:92</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
+<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>)</div>
+<div class="line"><span class="lineno">   72</span>        {</div>
+<div class="line"><span class="lineno">   73</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid phase, see \&quot;.worldstate sunsreach phase\&quot; for usage&quot;</span>);</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   75</span>        }</div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachPhaseTransition(<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
+<div class="line"><span class="lineno">   77</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   79</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_4_HARBOR</div><div class="ttdef"><b>Definition</b> WorldState.h:219</div></div>
 <div class="ttc" id="aboss__skadi_8cpp_html_a4432ad5c680b2372adf2f56998516c6d"><div class="ttname"><a href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a></div><div class="ttdeci">phase</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:103</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00092">SUNS_REACH_PHASE_4_HARBOR</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00219">SUNS_REACH_PHASE_4_HARBOR</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -393,12 +600,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>    {</div>
+<div class="line"><span class="lineno">   65</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   67</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -437,19 +644,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">if</span> (subphase &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a>)</div>
-<div class="line"><span class="lineno">   75</span>        {</div>
-<div class="line"><span class="lineno">   76</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid subphase, see \&quot;.worldstate sunsreach subphase\&quot; for usage&quot;</span>);</div>
-<div class="line"><span class="lineno">   77</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   78</span>        }</div>
-<div class="line"><span class="lineno">   79</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachSubPhaseTransition(subphase);</div>
-<div class="line"><span class="lineno">   80</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   82</span>    }</div>
-<div class="ttc" id="aWorldState_8h_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a></div><div class="ttdeci">@ SUBPHASE_ALL</div><div class="ttdef"><b>Definition</b> WorldState.h:101</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
+<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">if</span> (subphase &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a>)</div>
+<div class="line"><span class="lineno">   84</span>        {</div>
+<div class="line"><span class="lineno">   85</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid subphase, see \&quot;.worldstate sunsreach subphase\&quot; for usage&quot;</span>);</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   87</span>        }</div>
+<div class="line"><span class="lineno">   88</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachSubPhaseTransition(subphase);</div>
+<div class="line"><span class="lineno">   89</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   91</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a></div><div class="ttdeci">@ SUBPHASE_ALL</div><div class="ttdef"><b>Definition</b> WorldState.h:228</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00101">SUBPHASE_ALL</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00228">SUBPHASE_ALL</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -488,19 +695,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">if</span> (newGate &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a>)</div>
-<div class="line"><span class="lineno">  100</span>        {</div>
-<div class="line"><span class="lineno">  101</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid phase, see \&quot;.worldstate sunsreach gate\&quot; for usage&quot;</span>);</div>
-<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  103</span>        }</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunwellGateTransition(newGate);</div>
-<div class="line"><span class="lineno">  105</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="ttc" id="aWorldState_8h_html_a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a></div><div class="ttdeci">@ SUNWELL_ARCHONISUS_GATE3_OPEN</div><div class="ttdef"><b>Definition</b> WorldState.h:124</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>    {</div>
+<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">if</span> (newGate &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a>)</div>
+<div class="line"><span class="lineno">  109</span>        {</div>
+<div class="line"><span class="lineno">  110</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid phase, see \&quot;.worldstate sunsreach gate\&quot; for usage&quot;</span>);</div>
+<div class="line"><span class="lineno">  111</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  112</span>        }</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunwellGateTransition(newGate);</div>
+<div class="line"><span class="lineno">  114</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  116</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a></div><div class="ttdeci">@ SUNWELL_ARCHONISUS_GATE3_OPEN</div><div class="ttdef"><b>Definition</b> WorldState.h:251</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00124">SUNWELL_ARCHONISUS_GATE3_OPEN</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00251">SUNWELL_ARCHONISUS_GATE3_OPEN</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -545,21 +752,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">if</span> (!index || !value || index.value() &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a>)</div>
-<div class="line"><span class="lineno">  112</span>        {</div>
-<div class="line"><span class="lineno">  113</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate sunsreach gatecounter &lt;index&gt; &lt;value&gt;.&quot;</span>);</div>
-<div class="line"><span class="lineno">  114</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetSunwellGateCounter(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a>(index.value()), value.value());</div>
-<div class="line"><span class="lineno">  118</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  120</span>    }</div>
-<div class="ttc" id="aWorldState_8h_html_a4a3013381173d98f6b2e1b401f7bd34f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a></div><div class="ttdeci">SunwellGateCounters</div><div class="ttdef"><b>Definition</b> WorldState.h:127</div></div>
-<div class="ttc" id="aWorldState_8h_html_a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a></div><div class="ttdeci">@ COUNTERS_MAX_GATES</div><div class="ttdef"><b>Definition</b> WorldState.h:131</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">if</span> (!index || !value || index.value() &gt;= <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a>)</div>
+<div class="line"><span class="lineno">  121</span>        {</div>
+<div class="line"><span class="lineno">  122</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Syntax: .worldstate sunsreach gatecounter &lt;index&gt; &lt;value&gt;.&quot;</span>);</div>
+<div class="line"><span class="lineno">  123</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">  124</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  125</span>        }</div>
+<div class="line"><span class="lineno">  126</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetSunwellGateCounter(<a class="code hl_enumeration" href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a>(index.value()), value.value());</div>
+<div class="line"><span class="lineno">  127</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  129</span>    }</div>
+<div class="ttc" id="aWorldState_8h_html_a4a3013381173d98f6b2e1b401f7bd34f"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a></div><div class="ttdeci">SunwellGateCounters</div><div class="ttdef"><b>Definition</b> WorldState.h:254</div></div>
+<div class="ttc" id="aWorldState_8h_html_a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a></div><div class="ttdeci">@ COUNTERS_MAX_GATES</div><div class="ttdef"><b>Definition</b> WorldState.h:258</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">COUNTERS_MAX_GATES</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00202">sWorldState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00258">COUNTERS_MAX_GATES</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00376">sWorldState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -574,7 +781,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dab/classworldstate__commandscript.html">worldstate_commandscript</a></li>
-    <li class="footer">Generated on Sat Jul 12 2025 06:23:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jul 13 2025 06:24:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

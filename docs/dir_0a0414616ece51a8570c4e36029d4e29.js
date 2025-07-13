@@ -16,6 +16,8 @@ var dir_0a0414616ece51a8570c4e36029d4e29 =
     [ "npc_taxi.cpp", "d9/dc7/npc__taxi_8cpp.html", "d9/dc7/npc__taxi_8cpp" ],
     [ "npcs_special.cpp", "db/dae/npcs__special_8cpp.html", "db/dae/npcs__special_8cpp" ],
     [ "player_scripts.cpp", "d3/d3c/player__scripts_8cpp.html", "d3/d3c/player__scripts_8cpp" ],
+    [ "scourge_invasion.cpp", "dc/da7/scourge__invasion_8cpp.html", "dc/da7/scourge__invasion_8cpp" ],
+    [ "scourge_invasion.h", "d6/d36/scourge__invasion_8h.html", "d6/d36/scourge__invasion_8h" ],
     [ "server_mail.cpp", "d0/d45/server__mail_8cpp.html", "d0/d45/server__mail_8cpp" ],
     [ "suns_reach_reclamation.cpp", "d3/d91/suns__reach__reclamation_8cpp.html", "d3/d91/suns__reach__reclamation_8cpp" ],
     [ "transport_zeppelin.h", "df/d7d/transport__zeppelin_8h.html", "df/d7d/transport__zeppelin_8h" ],

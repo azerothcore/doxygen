@@ -11,6 +11,11 @@ var chapter2_8cpp =
     [ "npc_gothik_the_harvester", "d6/dd2/classnpc__gothik__the__harvester.html", "d6/dd2/classnpc__gothik__the__harvester" ],
     [ "npc_gothik_the_harvester::npc_gothik_the_harvesterAI", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html", "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI" ],
     [ "spell_chapter2_persuasive_strike", "da/d36/classspell__chapter2__persuasive__strike.html", "da/d36/classspell__chapter2__persuasive__strike" ],
+    [ "spell_portal_effect_acherus", "db/db7/classspell__portal__effect__acherus.html", "db/db7/classspell__portal__effect__acherus" ],
+    [ "AcherusPortal", "db/da5/chapter2_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8d", [
+      [ "SPELL_PORTAL_EFFECT_ACHERUS", "db/da5/chapter2_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8dab11e2d6ac4076040d0ce18f8be9ab8bc", null ],
+      [ "QUEST_SCARLET_ARMIES_APPROACH", "db/da5/chapter2_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8da622f41d2bbec25f8b56efa3e9c2f568a", null ]
+    ] ],
     [ "Koltira", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
       [ "SAY_BREAKOUT0", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
       [ "SAY_BREAKOUT1", "db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],

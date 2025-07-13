@@ -10,6 +10,7 @@ var AreaDefines_8h =
       [ "AREA_ELWYNN_FOREST", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af74cb4de9f1a6c40b5911083736bebee", null ],
       [ "AREA_DUROTAR", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ac818422f386147580d0efeea297f6b3b", null ],
       [ "AREA_DUSTWALLOW_MARSH", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aaec33771bd52355289d0f5923c28c666", null ],
+      [ "AREA_AZSHARA", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506", null ],
       [ "AREA_THE_BARRENS", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3adbef345ce9108d5b481949486bbf42f2", null ],
       [ "AREA_WESTERN_PLAGUELANDS", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7648b25c80ab6b38b3aab5449abdb89", null ],
       [ "AREA_STRANGLETHORN_VALE", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2", null ],

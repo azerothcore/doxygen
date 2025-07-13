@@ -15,6 +15,7 @@ var world__script__loader_8cpp =
     [ "AddSC_npc_taxi", "dc/d3a/world__script__loader_8cpp.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
     [ "AddSC_npcs_special", "dc/d3a/world__script__loader_8cpp.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
     [ "AddSC_player_scripts", "dc/d3a/world__script__loader_8cpp.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "dc/d3a/world__script__loader_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
     [ "AddSC_server_mail", "dc/d3a/world__script__loader_8cpp.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
     [ "AddSC_suns_reach_reclamation", "dc/d3a/world__script__loader_8cpp.html#ae3e186d64e39803c404f1afb2144557b", null ],
     [ "AddSC_transport_zeppelins", "dc/d3a/world__script__loader_8cpp.html#a29051596b0a3382db98c6b72f7ff3173", null ],
