@@ -1,5 +1,15 @@
 var NAVTREEINDEX392 =
 {
+"df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[6,0,310,172],
+"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[6,0,310,56],
+"df/da7/classBattleground.html#a84d07814b989beff0bd0d39c84776882":[6,0,310,127],
+"df/da7/classBattleground.html#a85ec5c36cbe6d2ab9788de1ce2d4ff20":[6,0,310,188],
+"df/da7/classBattleground.html#a85f8b79ff233149e0f83d33e5912ab76":[6,0,310,125],
+"df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[6,0,310,138],
+"df/da7/classBattleground.html#a88582ec11d22cae371ac6ffcc316877c":[6,0,310,232],
+"df/da7/classBattleground.html#a894561102fd36f3cad0e2861d0b8821d":[6,0,310,156],
+"df/da7/classBattleground.html#a899679fefc6ec036466c4abe2e71d25b":[6,0,310,164],
+"df/da7/classBattleground.html#a89ad7beedc7aca0506c87d983b74eee4":[6,0,310,1],
 "df/da7/classBattleground.html#a8a2f64b459fdd5c3fe6c556a44202a7f":[6,0,310,207],
 "df/da7/classBattleground.html#a8a507c4d4237c30326bcf1a0bf8f82b3":[6,0,310,25],
 "df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[6,0,310,104],
@@ -239,15 +249,5 @@ var NAVTREEINDEX392 =
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad9e7cd519e30eded06f76bcc69189117":[6,0,508,0,0],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ae939b029565ef9a075c0d9f0f94b76f3":[6,0,508,0,8],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#af266d40889fbecd50a118a579b711757":[6,0,508,0,3],
-"df/db2/MapScripts_8cpp.html":[7,0,0,0,1,2,38,1],
-"df/db2/structnpc__claw__tentacle.html":[6,0,1681],
-"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[6,0,1681,0],
-"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[6,0,1681,2],
-"df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[6,0,1681,1],
-"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[6,0,1681,3],
-"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[6,0,1681,5],
-"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[6,0,1681,4],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1706,0],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1706,0,3],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1706,0,1]
+"df/db2/MapScripts_8cpp.html":[7,0,0,0,1,2,38,1]
 };

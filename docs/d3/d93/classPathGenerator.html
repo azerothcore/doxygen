@@ -469,7 +469,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  556</span>    }</div>
 <div class="line"><span class="lineno">  557</span> </div>
 <div class="line"><span class="lineno">  558</span>    <span class="comment">// Special case with start and end positions very close to each other</span></div>
-<div class="line"><span class="lineno">  559</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d93/classPathGenerator.html#a6f20bf5c85560ca8272502b2dc9a848e">_polyLength</a> == 1 &amp;&amp; pointCount == 1)</div>
+<div class="line"><span class="lineno">  559</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d93/classPathGenerator.html#a6f20bf5c85560ca8272502b2dc9a848e">_polyLength</a> == 1 &amp;&amp; pointCount == 1 &amp;&amp; !(dtResult &amp; DT_SLOPE_TOO_STEEP))</div>
 <div class="line"><span class="lineno">  560</span>    {</div>
 <div class="line"><span class="lineno">  561</span>        <span class="comment">// First point is start position, append end position</span></div>
 <div class="line"><span class="lineno">  562</span>        dtVcopy(&amp;pathPoints[1 * <a class="code hl_define" href="../../d8/dbf/PathGenerator_8h.html#a14571eb5f0eee95bf614e04c59b0207a">VERTEX_SIZE</a>], endPoint);</div>
@@ -3596,7 +3596,7 @@ false if there's no water at the end OR at the start of the segment </dd></dl>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d93/classPathGenerator.html">PathGenerator</a></li>
-    <li class="footer">Generated on Mon Jul 14 2025 06:27:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 15 2025 06:26:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

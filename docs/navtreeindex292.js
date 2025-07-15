@@ -1,5 +1,15 @@
 var NAVTREEINDEX292 =
 {
+"db/dd5/classCreature.html#a47ae3ef814f373bec4341815e128c11e":[6,0,908,224],
+"db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c":[6,0,908,177],
+"db/dd5/classCreature.html#a4bbc89c54481bce5d60cbad257d2f487":[6,0,908,11],
+"db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f":[6,0,908,43],
+"db/dd5/classCreature.html#a4e88b22d5cee056c894f8c1bf9e39a2f":[6,0,908,263],
+"db/dd5/classCreature.html#a4ead2c9ef3934377b1347767094c018c":[6,0,908,198],
+"db/dd5/classCreature.html#a4f6d3cf41d5f547bbcc37034e16bfb94":[6,0,908,116],
+"db/dd5/classCreature.html#a50495d0b3416a6bd81be169c9c3ea094":[6,0,908,94],
+"db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b":[6,0,908,247],
+"db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380":[6,0,908,223],
 "db/dd5/classCreature.html#a50eddd7e74f6c37d89b760293d9a821c":[6,0,908,73],
 "db/dd5/classCreature.html#a511bd8030c9e98f8f96fa0cf2b3e59eb":[6,0,908,68],
 "db/dd5/classCreature.html#a518123152fbb46da36aee1c1ac6f02cd":[6,0,908,307],
@@ -239,15 +249,5 @@ var NAVTREEINDEX292 =
 "db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[6,0,91,1],
 "db/dd6/instance__naxxramas_8cpp.html":[7,0,0,0,1,3,5,7,15],
 "db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,5,7,15,9],
-"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[7,0,0,0,1,3,5,7,15,11],
-"db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,7,15,7],
-"db/dd6/instance__naxxramas_8cpp.html#a4b033537221c1c9063ff056950ac6fdb":[7,0,0,0,1,3,5,7,15,14],
-"db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,7,15,8],
-"db/dd6/instance__naxxramas_8cpp.html#a78f519adea6cb5310c9cf098d905aa7b":[7,0,0,0,1,3,5,7,15,12],
-"db/dd6/instance__naxxramas_8cpp.html#a7adc6b584916ee1544c8ff38ab6327a9":[7,0,0,0,1,3,5,7,15,13],
-"db/dd6/instance__naxxramas_8cpp.html#aba1e1afda4423e51a1849a33da49a334":[7,0,0,0,1,3,5,7,15,6],
-"db/dd6/instance__naxxramas_8cpp.html#afc813e25da4423b11b3f71a4c3434b43":[7,0,0,0,1,3,5,7,15,10],
-"db/dd6/ruby__sanctum_8h.html":[7,0,0,0,1,3,5,1,1,5],
-"db/dd6/ruby__sanctum_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,1,1,5,0],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2":[7,0,0,0,1,3,5,1,1,5,2]
+"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[7,0,0,0,1,3,5,7,15,11]
 };

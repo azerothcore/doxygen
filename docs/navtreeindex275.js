@@ -1,5 +1,15 @@
 var NAVTREEINDEX275 =
 {
+"db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[6,0,537,2],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[6,0,747,0],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[6,0,747,0,9],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[6,0,747,0,1],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[6,0,747,0,4],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[6,0,747,0,8],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[6,0,747,0,3],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[6,0,747,0,7],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a9c945841926d5b08f37c6a720dd25a14":[6,0,747,0,6],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#aab05bab963d603c3cb70edfd62a84b49":[6,0,747,0,0],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#ada770d51f63c841c500ffc3197a7a89f":[6,0,747,0,5],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#af7076251fc1fad1dc259d747934910e2":[6,0,747,0,2],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html":[6,0,2256,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX275 =
 "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html":[6,0,3889],
 "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a2ae927358c2480aecd18c1f3c2e6c1c7":[6,0,3889,1],
 "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#a44f558248f944464c773105728cffbca":[6,0,3889,0],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#aeda833ca8483d337311086b9d0a14081":[6,0,3889,2],
-"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#aee84751e352dbfc12472fc15924c48fa":[6,0,3889,3],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html":[6,0,2117,0],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a0809e6024759cb0ef204b524b35071f0":[6,0,2117,0,11],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a0b6aa4612a5c82e24f8edf787a163081":[6,0,2117,0,7],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a13aa3b345c2788c587131e07879380da":[6,0,2117,0,28],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1b6e6ac99d24bc8a426e53b50ca2b35d":[6,0,2117,0,23],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1e42fdd4ba0253469e1d8f66f57ee4e8":[6,0,2117,0,18],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a2bcd03543d26590d321d2d0dcd9c216b":[6,0,2117,0,25],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a43b12e37051fc9d527e15bf714053b5b":[6,0,2117,0,24],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a446560b55d0a67152e2fefe8d2c14006":[6,0,2117,0,21]
+"db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html#aeda833ca8483d337311086b9d0a14081":[6,0,3889,2]
 };

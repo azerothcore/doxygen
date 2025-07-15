@@ -1,5 +1,15 @@
 var NAVTREEINDEX354 =
 {
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ac83bf4647c4ce691b6e207712e286c98":[7,0,0,0,1,4,7,114,31],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094acc6d03032e9dce1803ad099a255229d1":[7,0,0,0,1,4,7,114,0],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ad3082b556b21e9f4f7393146baf89b93":[7,0,0,0,1,4,7,114,6],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094ae9c293aadafa9a86b515abb5005af8b2":[7,0,0,0,1,4,7,114,17],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094aee1f9613547746d1ed29bdd589d1f44d":[7,0,0,0,1,4,7,114,7],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094af579da93553a5df0f3688999e8fa5d6e":[7,0,0,0,1,4,7,114,19],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094afe55bfd618395e7678022d732549952a":[7,0,0,0,1,4,7,114,23],
+"de/d0a/SharedDefines_8h.html#afc0226d0611e178e6edb4d2776e03094aff2dcb3bb2fcd09aed7d37d26e9f9546":[7,0,0,0,1,4,7,114,11],
+"de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6":[7,0,0,0,1,4,7,46],
+"de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3":[7,0,0,0,1,4,7,46,0],
 "de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1":[7,0,0,0,1,4,7,46,2],
 "de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5":[7,0,0,0,1,4,7,46,4],
 "de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6aa738151de42627a77a0624732fe6ba71":[7,0,0,0,1,4,7,46,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX354 =
 "de/d1b/classspell__item__trigger__spell.html":[6,0,3305],
 "de/d1b/classspell__item__trigger__spell.html#a2f2df93e8f9d0e51273560665ea5c245":[6,0,3305,4],
 "de/d1b/classspell__item__trigger__spell.html#a49613255eea28e34cf5ff8a06798f89a":[6,0,3305,1],
-"de/d1b/classspell__item__trigger__spell.html#a610c5ac434fe788120ed101f7bf58f63":[6,0,3305,5],
-"de/d1b/classspell__item__trigger__spell.html#a619e9a5233e36157cbdaba70a3ba80da":[6,0,3305,0],
-"de/d1b/classspell__item__trigger__spell.html#a78903f92c30fb23ff7297f7fa16c4861":[6,0,3305,2],
-"de/d1b/classspell__item__trigger__spell.html#ab9abd9f01ce37c23d6502e6d86e3f998":[6,0,3305,3],
-"de/d1c/classGameObject.html":[6,0,1071],
-"de/d1c/classGameObject.html#a029bfbe8e0c98b99e556f977d53a1249":[6,0,1071,124],
-"de/d1c/classGameObject.html#a0348e3ee2e83d56eafca7a3547f432c4":[6,0,1071,1],
-"de/d1c/classGameObject.html#a0451e73a232d8bc61ee7339d48f03dca":[6,0,1071,54],
-"de/d1c/classGameObject.html#a0497a25973bb212d9e320d2ae732b715":[6,0,1071,53],
-"de/d1c/classGameObject.html#a076a61c5824ee381e456486af8ceb87d":[6,0,1071,120],
-"de/d1c/classGameObject.html#a08fe8b2e3a798c80f5ca914be099b75d":[6,0,1071,50]
+"de/d1b/classspell__item__trigger__spell.html#a610c5ac434fe788120ed101f7bf58f63":[6,0,3305,5]
 };

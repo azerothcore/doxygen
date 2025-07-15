@@ -1,5 +1,15 @@
 var NAVTREEINDEX273 =
 {
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a95e8039b174f6db267197e04b6bd2dd2":[6,0,2300,0,0],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af2c272de51aa15a41af9837f99256a62":[6,0,2300,0,8],
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af5a9e355c2a5a927d38ea22fe96d89f0":[6,0,2300,0,6],
+"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
+"db/d14/classLootTemplate.html":[6,0,1451],
+"db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1451,7],
+"db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1451,9],
+"db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1451,2],
+"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[6,0,1451,8],
+"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[6,0,1451,6],
 "db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[6,0,1451,4],
 "db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[6,0,1451,3],
 "db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[6,0,1451,13],
@@ -239,15 +249,5 @@ var NAVTREEINDEX273 =
 "db/d1d/structboss__ouro.html":[6,0,646],
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[6,0,646,12],
 "db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,646,14],
-"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,646,7],
-"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,646,2],
-"db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[6,0,646,9],
-"db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[6,0,646,0],
-"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[6,0,646,1],
-"db/d1d/structboss__ouro.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf":[6,0,646,8],
-"db/d1d/structboss__ouro.html#a9f9b4a53cf5c7e9d4e98d2d57e500172":[6,0,646,6],
-"db/d1d/structboss__ouro.html#aa39a371112f585da952331c200b8b5aa":[6,0,646,10],
-"db/d1d/structboss__ouro.html#aa571cee2fee8a79917f4c63b94a9a1b6":[6,0,646,3],
-"db/d1d/structboss__ouro.html#ab59237535be7a86cb4c0db4819a4d9d5":[6,0,646,11],
-"db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[6,0,646,4]
+"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,646,7]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX375 =
 {
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a927ab90fe3e1a4951052934d77094530":[6,0,770,0,12],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a94dd9afca122baa34b6ee5a63e8d6330":[6,0,770,0,1],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#aa227eecb791e12559015ee07a398d251":[6,0,770,0,7],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab128bbb66f0311b10e2589c5b00ba6bb":[6,0,770,0,15],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab333773a0f12ec5d4981669ef0e747b3":[6,0,770,0,2],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab5a5b9979882dd06a0fa1c0e86a768dc":[6,0,770,0,20],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#abe35a1a132a9f2ce22cedf1f10b503d8":[6,0,770,0,8],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#acfe0e8fabd539e3d3a9953db94824e51":[6,0,770,0,16],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ae6e1bf5e0d86b6999b0357d022e80154":[6,0,770,0,4],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#aea7d66919650969e6d1edfebd976eea6":[6,0,770,0,3],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#afbab5656887a3983b70bf21452c71f0e":[6,0,770,0,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#afc94fccc9d761714a4cc8e1b3fceaf13":[6,0,770,0,10],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[6,0,1324,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX375 =
 "de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[6,0,2358,1],
 "de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[6,0,2358,10],
 "de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[6,0,2358,2],
-"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[6,0,2358,3],
-"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[6,0,2358,0],
-"de/df5/classOutdoorPvPNA.html#ae7dd540746946513cd7bf8e29296c068":[6,0,2358,6],
-"de/df5/classOutdoorPvPNA.html#ae9a93ddac1ca439f0f269d7ac7597593":[6,0,2358,7],
-"de/df5/classWorldLocation.html":[6,0,4276],
-"de/df5/classWorldLocation.html#a04d7814f5d846259c5af562ce856f468":[6,0,4276,1],
-"de/df5/classWorldLocation.html#a0b3f13522d288dde484c70cbf8ef5fc5":[6,0,4276,2],
-"de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1":[6,0,4276,3],
-"de/df5/classWorldLocation.html#a424e67f5a820f3396ed6a02c3daa05fb":[6,0,4276,0],
-"de/df5/classWorldLocation.html#a48cad9058b04a5108c4b99c7fd4d0bfe":[6,0,4276,4],
-"de/df5/classWorldLocation.html#a75c59d33f5aac8da8eb9b8c5e2711acf":[6,0,4276,6]
+"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[6,0,2358,3]
 };

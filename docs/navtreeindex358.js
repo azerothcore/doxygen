@@ -1,5 +1,15 @@
 var NAVTREEINDEX358 =
 {
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eb":[7,0,0,0,1,2,41,9,67],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba1241df11023c863e2de7d3371c703d76":[7,0,0,0,1,2,41,9,67,9],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba1bc48e6ac848cb5c901d64b8e38f0927":[7,0,0,0,1,2,41,9,67,11],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba61cc76ba8b08b3b96969cd3623750724":[7,0,0,0,1,2,41,9,67,7],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba63c0705fb6979627890de8e601fa6828":[7,0,0,0,1,2,41,9,67,6],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba66d96f5ecf2dcc789fdcca90a7667774":[7,0,0,0,1,2,41,9,67,10],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba6acd812cb11a98c7bc9176e03bbd8f3f":[7,0,0,0,1,2,41,9,67,15],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba7544e286bc4aa39c6d31bea5b8765111":[7,0,0,0,1,2,41,9,67,4],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba7839f95fbf97ecde100bfe23ad17a6bf":[7,0,0,0,1,2,41,9,67,13],
+"de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba88058107a5eb1341d5edf23eefaade52":[7,0,0,0,1,2,41,9,67,5],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d457dfd48a2e7d09a51f74af799d15c":[7,0,0,0,1,2,41,9,67,8],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1eba9d98815351483be1e181c60534155a32":[7,0,0,0,1,2,41,9,67,14],
 "de/d30/SpellMgr_8h.html#ab9f8654c03ec40ac9bdc5214da99e1ebaa1865762e5eea260fb0e1ab62aa9f903":[7,0,0,0,1,2,41,9,67,12],
@@ -239,15 +249,5 @@ var NAVTREEINDEX358 =
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#ae038aa8140f5b4128c39c592966321f1":[6,0,711,0,1],
 "de/d36/classnpc__mrfloppy.html":[6,0,1972],
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[6,0,1972,1],
-"de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[6,0,1972,2],
-"de/d37/classadt__MFBO.html":[6,0,136],
-"de/d37/classadt__MFBO.html#a29dc30be1cb7f5439e023865ff5a4853":[6,0,136,1],
-"de/d37/classadt__MFBO.html#a8c64958fb4e18bc3bcfaf7dbfde9f178":[6,0,136,2],
-"de/d37/classadt__MFBO.html#ab768fb1ba27812060cf2edeb5f4b876c":[6,0,136,3],
-"de/d37/classadt__MFBO.html#ac3ebf1557841088ef8912b68fe6df908":[6,0,136,5],
-"de/d37/classadt__MFBO.html#af92420cfd862486c73c35ac8a9f9fdee":[6,0,136,6],
-"de/d37/classadt__MFBO.html#afadebfc1361985b6f5d45c27e22cb303":[6,0,136,4],
-"de/d37/classboss__freya__nature__bomb.html":[6,0,480],
-"de/d37/classboss__freya__nature__bomb.html#a18fa6ff862a1b367ac23eb1b7bda0ed4":[6,0,480,1],
-"de/d37/classboss__freya__nature__bomb.html#a73e24282c6bb29cf3f6a7da14a4de582":[6,0,480,2]
+"de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[6,0,1972,2]
 };

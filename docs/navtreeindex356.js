@@ -1,5 +1,15 @@
 var NAVTREEINDEX356 =
 {
+"de/d21/spell__priest_8cpp.html#a76dafc0c87fe43a1d174f254d1822859":[7,0,0,0,1,3,9,7,28],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110f":[7,0,0,0,1,3,9,7,26],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d":[7,0,0,0,1,3,9,7,26,3],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03":[7,0,0,0,1,3,9,7,26,16],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4":[7,0,0,0,1,3,9,7,26,12],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[7,0,0,0,1,3,9,7,26,13],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde":[7,0,0,0,1,3,9,7,26,19],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4":[7,0,0,0,1,3,9,7,26,5],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1":[7,0,0,0,1,3,9,7,26,0],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366":[7,0,0,0,1,3,9,7,26,8],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690":[7,0,0,0,1,3,9,7,26,22],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0":[7,0,0,0,1,3,9,7,26,20],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d":[7,0,0,0,1,3,9,7,26,10],
@@ -239,15 +249,5 @@ var NAVTREEINDEX356 =
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2236,0,1],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d":[6,0,2236,0,4],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a585437dff0c49ac1a6bf7929ab266ff5":[6,0,2236,0,0],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ab9113a021844aa7ea8ac46df9c50b205":[6,0,2236,0,2],
-"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe":[6,0,2236,0,3],
-"de/d2c/structItemPosCount.html":[6,0,1383],
-"de/d2c/structItemPosCount.html#a43458da1fc31d827b6de726754f7901e":[6,0,1383,0],
-"de/d2c/structItemPosCount.html#a4e09f94aa0808f76b2d5ff23691abb27":[6,0,1383,2],
-"de/d2c/structItemPosCount.html#a6977c544a2d39ca5872b75f27517974f":[6,0,1383,1],
-"de/d2c/structItemPosCount.html#ad8954f1a6323316510cfe0f332ee495f":[6,0,1383,3],
-"de/d2d/classboss__hodir.html":[6,0,534],
-"de/d2d/classboss__hodir.html#a5740f489f57380d2633a8ee5a18de339":[6,0,534,1],
-"de/d2d/classboss__hodir.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c":[6,0,534,2],
-"de/d2d/classboss__yoggsaron__constrictor__tentacle.html":[6,0,788]
+"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ab9113a021844aa7ea8ac46df9c50b205":[6,0,2236,0,2]
 };

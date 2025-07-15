@@ -1,5 +1,15 @@
 var NAVTREEINDEX378 =
 {
+"df/d14/classPet.html#a782a0dd61ab205062011b5caae00884d":[6,0,2386,24],
+"df/d14/classPet.html#a7dbdf9dc8076fb7046381ad581ecb6e2":[6,0,2386,22],
+"df/d14/classPet.html#a7dd5111c87bf37053ca258aad67dc258":[6,0,2386,19],
+"df/d14/classPet.html#a7eaf9514f937d81304c24d93ee9bd9e1":[6,0,2386,17],
+"df/d14/classPet.html#a7ff593ea0fabfdca308697622520a59c":[6,0,2386,16],
+"df/d14/classPet.html#a819d59da133655a138f7788e93b9348b":[6,0,2386,28],
+"df/d14/classPet.html#a89d2c84cbbf23bc368d9ab89c55d1972":[6,0,2386,25],
+"df/d14/classPet.html#a8b746e4d29e8c0b9f1ed2d7b3be2c0f7":[6,0,2386,55],
+"df/d14/classPet.html#a8c7308b81b808c23b878b99cb78d6598":[6,0,2386,61],
+"df/d14/classPet.html#a8ed323b81d6c9692ab2455d14e9e640e":[6,0,2386,15],
 "df/d14/classPet.html#a8f56752c756a9a41e647e03712b9466b":[6,0,2386,12],
 "df/d14/classPet.html#a92463c5ce83b9c8f0a74ccd685a86078":[6,0,2386,47],
 "df/d14/classPet.html#a92c2d9d4849f602c21b2fc166d699c1f":[6,0,2386,85],
@@ -239,15 +249,5 @@ var NAVTREEINDEX378 =
 "df/d17/group__world.html#ggac11f34aad352a3782f299b3978607d16a8cec6c9d7436da0c2f14369c954f1e5f":[4,2,14,3],
 "df/d17/group__world.html#ggac11f34aad352a3782f299b3978607d16ab5bf7f117aa8390fe1605e95192bbc6e":[4,2,14,4],
 "df/d17/structboss__headless__horseman__head.html":[6,0,521],
-"df/d17/structboss__headless__horseman__head.html#a0d73ba0831118d135137953f91e7c5d7":[6,0,521,5],
-"df/d17/structboss__headless__horseman__head.html#a12343a1bb6e30681b0c82ba649bd5b8a":[6,0,521,0],
-"df/d17/structboss__headless__horseman__head.html#a300dec039465535914bf6879423a0962":[6,0,521,6],
-"df/d17/structboss__headless__horseman__head.html#a367e8b82d6d3bb08e7106c71295610f9":[6,0,521,3],
-"df/d17/structboss__headless__horseman__head.html#a72c0d0c8c534fa8fdc1370203c30c3a3":[6,0,521,7],
-"df/d17/structboss__headless__horseman__head.html#a73e75350937736ad7cfe725b785b3768":[6,0,521,1],
-"df/d17/structboss__headless__horseman__head.html#a9752326bac7ecbcdfde5b12f55b20be2":[6,0,521,8],
-"df/d17/structboss__headless__horseman__head.html#ab72d1f1891401754ffe032ed0534882d":[6,0,521,2],
-"df/d17/structboss__headless__horseman__head.html#adcd9ce9755f8dbc1391b4d2b3f5e1669":[6,0,521,4],
-"df/d17/structboss__headless__horseman__head.html#ae7c669e65659459fd83f91b5e9ed1347":[6,0,521,9],
-"df/d18/classnpc__anachronos__quest__trigger.html":[6,0,1582]
+"df/d17/structboss__headless__horseman__head.html#a0d73ba0831118d135137953f91e7c5d7":[6,0,521,5]
 };

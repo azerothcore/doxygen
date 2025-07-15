@@ -1,5 +1,15 @@
 var NAVTREEINDEX361 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#a958c76b6ad9d9713625b10baa0d6d992":[6,0,459,12],
+"de/d4a/structboss__fathomguard__tidalvess.html#a9eaeaf02dbe143d38ca857e5ae478aca":[6,0,459,11],
+"de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,459,0],
+"de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,459,4],
+"de/d4a/structboss__fathomguard__tidalvess.html#abce5d58fced89ecaac1d1f34989f0d9e":[6,0,459,9],
+"de/d4a/structboss__fathomguard__tidalvess.html#adb4d877f50ba5653d699a0a123f5961c":[6,0,459,8],
+"de/d4a/structboss__fathomguard__tidalvess.html#ae1652d83938dc820255e383870b957a7":[6,0,459,13],
+"de/d4a/structboss__fathomguard__tidalvess.html#aea75646687854c08eaee75c55718376d":[6,0,459,14],
+"de/d4a/structboss__fathomguard__tidalvess.html#af218abccb0b61e483dcc6d7a3313d99d":[6,0,459,6],
+"de/d4a/structnpc__anzu__spirit.html":[6,0,1595],
 "de/d4a/structnpc__anzu__spirit.html#a26f0928593f75d242c8bbcc541f7b59b":[6,0,1595,1],
 "de/d4a/structnpc__anzu__spirit.html#a9866d91ffc04548a96cfcdc3a5c7496a":[6,0,1595,3],
 "de/d4a/structnpc__anzu__spirit.html#acef3f7093f93b6c227d145523cdc487a":[6,0,1595,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX361 =
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,5,7,12,9,0],
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,5,7,12,9,5],
 "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298cac6af27f7cbb0f5f223d65ff55a9a86fb":[7,0,0,0,1,3,5,7,12,9,2],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298caca3c536cf7ada4b3f780dcdb28d4d3b2":[7,0,0,0,1,3,5,7,12,9,1],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,7,12,7],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba":[7,0,0,0,1,3,5,7,12,7,1],
-"de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa7e8eb68e5742a1cd819e9998a6b08bd":[7,0,0,0,1,3,5,7,12,7,0],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,12,5],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a60154d304ccf236b597cc0f34480c058":[7,0,0,0,1,3,5,7,12,5,1],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a666261989d27e91bdd049a9b5566ef12":[7,0,0,0,1,3,5,7,12,5,2],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6f13ee3dc4b64db9586ad9592d094b":[7,0,0,0,1,3,5,7,12,5,0],
-"de/d5b/classChargeRifts.html":[6,0,856],
-"de/d5b/classChargeRifts.html#a3cbf5f7e26de337dadd9d96a43d728b0":[6,0,856,2],
-"de/d5b/classChargeRifts.html#a8d01bf861d37c25413dc14eee16a2939":[6,0,856,1]
+"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298caca3c536cf7ada4b3f780dcdb28d4d3b2":[7,0,0,0,1,3,5,7,12,9,1]
 };

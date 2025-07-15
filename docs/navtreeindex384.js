@@ -1,5 +1,15 @@
 var NAVTREEINDEX384 =
 {
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#aceae6d1588aec9035fb80678af32e96c":[6,0,1629,0,10],
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#acf165009e5b2164d8244e709043eba09":[6,0,1629,0,0],
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#afa7fd12da57b887f1254e24d444f43d1":[6,0,1629,0,13],
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html":[6,0,3846],
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a55460c6393c165e3096c967c81136032":[6,0,3846,0],
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a8458f77fde6eaddc273b3fe5f4e49ae0":[6,0,3846,2],
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#af580258d287f5db6103b89d3085669bc":[6,0,3846,3],
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#afd4e4483f704169e6d213ced134d4c62":[6,0,3846,1],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html":[6,0,380,0],
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a03fb543ba20f92d5528bf4667c457631":[6,0,380,0,2],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a1a9953c37286fd40c0aa0eebfec3eb86":[6,0,380,0,5],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a2af77fbe7f089b5da20d2ff693cfcedf":[6,0,380,0,1],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[6,0,380,0,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX384 =
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,27,22,15],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,27,22,3],
-"df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,12],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[7,0,0,0,1,3,2,1,0,0,12,3],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9":[7,0,0,0,1,3,2,1,0,0,12,2],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803":[7,0,0,0,1,3,2,1,0,0,12,5],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134":[7,0,0,0,1,3,2,1,0,0,12,1],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d":[7,0,0,0,1,3,2,1,0,0,12,4],
-"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f":[7,0,0,0,1,3,2,1,0,0,12,0],
-"df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0":[7,0,0,0,1,3,2,1,0,0,19],
-"df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22":[7,0,0,0,1,3,2,1,0,0,19,0],
-"df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22":[7,0,0,0,1,3,2,1,0,0,21]
+"df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0]
 };

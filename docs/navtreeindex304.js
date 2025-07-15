@@ -1,5 +1,15 @@
 var NAVTREEINDEX304 =
 {
+"dc/d35/classadt__MHDR.html#ad80da67bf16b98bba014d487da757492":[6,0,138,13],
+"dc/d35/classadt__MHDR.html#adc0706b41b60a36a26fea083d0eec379":[6,0,138,16],
+"dc/d35/classadt__MHDR.html#aeae95bb7dbb0d46e68db52fb2e212a80":[6,0,138,3],
+"dc/d35/classadt__MHDR.html#aeb0dacd46404505504aa4c9cd868838a":[6,0,138,4],
+"dc/d35/classadt__MHDR.html#af3204f96aaab52969f97c56fc8207e1f":[6,0,138,20],
+"dc/d36/ChannelHandler_8cpp.html":[7,0,0,0,1,2,22,8],
+"dc/d36/classspell__item__underbelly__elixir.html":[6,0,3306],
+"dc/d36/classspell__item__underbelly__elixir.html#a249a857b1cf5b0c3be6018cb233c75d1":[6,0,3306,3],
+"dc/d36/classspell__item__underbelly__elixir.html#a3db6982f1162ac6b03771a0e7e432e6d":[6,0,3306,0],
+"dc/d36/classspell__item__underbelly__elixir.html#a9671be7920dfd3bde2033f0ae43259b0":[6,0,3306,1],
 "dc/d36/classspell__item__underbelly__elixir.html#ac209048bd5688417c391c2c9b8a72d8b":[6,0,3306,4],
 "dc/d36/classspell__item__underbelly__elixir.html#ad50c9141d40b7089fd24a8657d496a8d":[6,0,3306,2],
 "dc/d36/instance__drak__tharon__keep_8cpp.html":[7,0,0,0,1,3,5,3,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d48/classWardenCheckMgr.html#ad02847547a06d98c582d09992dce9d11":[6,0,4226,8],
 "dc/d48/classspell__deathbringer__blood__link__aura.html":[6,0,2726],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a13426f7a45e9434f980b42f174b22da8":[6,0,2726,0],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2726,4],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[6,0,2726,3],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[6,0,2726,1],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2726,2],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2726,5],
-"dc/d48/structRangeSelector.html":[6,0,2477],
-"dc/d48/structRangeSelector.html#a4a87b90485180ede638e2c9bd2a7e9ed":[6,0,2477,0],
-"dc/d48/structRangeSelector.html#a72ad35c7de0b5d540be27d9a9d46a1d4":[6,0,2477,4],
-"dc/d48/structRangeSelector.html#a917f21b135f402210d21e6bb3f19b9fa":[6,0,2477,1],
-"dc/d48/structRangeSelector.html#a973ec93b54a839f853101ad5998c10b2":[6,0,2477,3],
-"dc/d48/structRangeSelector.html#a9dcf455d9db8d32aaebfc46eee36e1b5":[6,0,2477,2]
+"dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2726,4]
 };

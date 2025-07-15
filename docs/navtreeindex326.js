@@ -1,5 +1,15 @@
 var NAVTREEINDEX326 =
 {
+"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[6,0,2963,2],
+"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2963,1],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1894,0],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[6,0,1894,0,4],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1894,0,0],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[6,0,1894,0,2],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[6,0,1894,0,7],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#aaf329f0160efa778abdebf86b1cf230b":[6,0,1894,0,1],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#af5be6fc6d7d234cfd2ac78f636b0ad7c":[6,0,1894,0,5],
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afcbb113387345361baf0351a19e6eb1d":[6,0,1894,0,6],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afce7cebdb4a49d9e5618ac211b235c6b":[6,0,1894,0,3],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[6,0,2140,0],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2140,0,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#a832d1b1154b158c348f9d5883ad0fbd7":[6,0,788,0,2],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#ad84c2b479a2d7df7aec40f17287a2438":[6,0,788,0,1],
 "dd/d69/structboss__yoggsaron__constrictor__tentacle_1_1boss__yoggsaron__constrictor__tentacleAI.html#ae5c189401dd04823449e7a16c197e65f":[6,0,788,0,5],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html":[6,0,2184,0],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a06ff16fe0076de4e34ba20e0bbc49009":[6,0,2184,0,0],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a080916d385f4157afbe4c455033b88ba":[6,0,2184,0,7],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a1b405c2acd53a4e5f1179f52c8c2261b":[6,0,2184,0,5],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a23e5001255c6d49a6b217b9606aa53c5":[6,0,2184,0,1],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a2b9fdd3daa725921819ae2acee418d51":[6,0,2184,0,4],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a37a04ac2d6f30e415410f3806abaabb8":[6,0,2184,0,2],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a6edd3dc8070edd031143e7a750f4d7a8":[6,0,2184,0,6],
-"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#ad35a26c28485b1976c55d49fcd32fb19":[6,0,2184,0,3],
-"dd/d6b/LFGPackets_8h.html":[7,0,0,0,1,2,39,0,14],
-"dd/d6c/classVehicleDespawnEvent.html":[6,0,4211]
+"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html":[6,0,2184,0]
 };

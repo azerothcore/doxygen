@@ -1,8 +1,8 @@
 var NAVTREEINDEX246 =
 {
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,30,5,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
 "da/d02/WorldConfig_8h.html":[7,0,0,0,1,2,48,4],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0":[7,0,0,0,1,2,48,4,1],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a00c270cba7ea28db008d3449da2f326d":[7,0,0,0,1,2,48,4,1,284],

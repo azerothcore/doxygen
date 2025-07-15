@@ -1,5 +1,15 @@
 var NAVTREEINDEX372 =
 {
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[6,0,1282,0,0],
+"de/db3/classAccountActionIpLogger.html":[6,0,22],
+"de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[6,0,22,6],
+"de/db3/classAccountActionIpLogger.html#a2952adcd73d775b924671e5a69adaccb":[6,0,22,2],
+"de/db3/classAccountActionIpLogger.html#a4b71aa9c1790e6d4033d884a17ce0a2f":[6,0,22,7],
+"de/db3/classAccountActionIpLogger.html#a73cad77bd83243cb10c4a1b4d7081e0b":[6,0,22,0],
+"de/db3/classAccountActionIpLogger.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd":[6,0,22,4],
+"de/db3/classAccountActionIpLogger.html#a9c978dafb71e67b8b278806df507e34b":[6,0,22,1],
+"de/db3/classAccountActionIpLogger.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2":[6,0,22,5],
+"de/db3/classAccountActionIpLogger.html#aa15d0cc4e6ed3818fa18a927074f5f0c":[6,0,22,3],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html":[6,0,959,0],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#a3a6f946c40b1006164793dbaed2b3948":[6,0,959,0,4],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#a5d4d009b6685dd71703f96f9945a463e":[6,0,959,0,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX372 =
 "de/dc1/underbog_8cpp.html#a8c9725cac978bfa0eb0405faa6588549":[7,0,0,0,1,3,7,2,3,6,5],
 "de/dc1/underbog_8cpp.html#aba9ed07daed7ae7df6becb96f5194f52":[7,0,0,0,1,3,7,2,3,6,4],
 "de/dc1/underbog_8cpp.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a":[7,0,0,0,1,3,7,2,3,6,4,0],
-"de/dc2/boss__azgalor_8cpp.html":[7,0,0,0,1,3,4,1,0,2],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,2,3],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,1,0,2,3,3],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d":[7,0,0,0,1,3,4,1,0,2,3,0],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca78dd404ee86524d51bcd1ba5160da7be":[7,0,0,0,1,3,4,1,0,2,3,1],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca938ccdbb9c9416feed54c170293796d8":[7,0,0,0,1,3,4,1,0,2,3,2],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,1,0,2,3,4],
-"de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[7,0,0,0,1,3,4,1,0,2,5],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,2,4],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,2,4,3],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,2,4,1]
+"de/dc2/boss__azgalor_8cpp.html":[7,0,0,0,1,3,4,1,0,2]
 };

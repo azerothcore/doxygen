@@ -11,7 +11,7 @@ var classFleeingMovementGenerator =
     [ "SetTargetLocation", "da/d71/classFleeingMovementGenerator.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
     [ "_fleeTargetGUID", "da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7", null ],
     [ "_interrupt", "da/d71/classFleeingMovementGenerator.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
+    [ "_invalidPathsCount", "da/d71/classFleeingMovementGenerator.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
     [ "_path", "da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
-    [ "_shortPathsCount", "da/d71/classFleeingMovementGenerator.html#a7f928f338f11311423063732aaa495b1", null ],
     [ "_timer", "da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
 ];

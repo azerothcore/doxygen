@@ -1,5 +1,15 @@
 var NAVTREEINDEX388 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa014d73aaa5bebca5de090d458353e599":[7,0,0,0,1,3,5,9,2,4,42,52],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa01c22e6760a096c380d6f272ce39c291":[7,0,0,0,1,3,5,9,2,4,42,44],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa047a370d4b6d293714a90cbc8641972d":[7,0,0,0,1,3,5,9,2,4,42,30],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa0aeb2710173f7326e9888ee716c75129":[7,0,0,0,1,3,5,9,2,4,42,35],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa1699ce6ed5dea66eb7df7caa6dc3e4b6":[7,0,0,0,1,3,5,9,2,4,42,48],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa17a98c986509a6aa87a24d9282e599fb":[7,0,0,0,1,3,5,9,2,4,42,20],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa17d029f24f95d47b958bbd6eb9c7ff7b":[7,0,0,0,1,3,5,9,2,4,42,64],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa17f9eacff29b83884084aebc1e24ce23":[7,0,0,0,1,3,5,9,2,4,42,43],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa19f08d8f6b34dfa52248c000fa3e942a":[7,0,0,0,1,3,5,9,2,4,42,0],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa1a46469986549e9c9000594857365fbc":[7,0,0,0,1,3,5,9,2,4,42,12],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa1df5d1a949bb2acb86c16f35787a7fe5":[7,0,0,0,1,3,5,9,2,4,42,27],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa20ed224c159df73c24d41cdd7b567545":[7,0,0,0,1,3,5,9,2,4,42,69],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa252cee1a1ecfefabcbc032072ebdef75":[7,0,0,0,1,3,5,9,2,4,42,17],
@@ -239,15 +249,5 @@ var NAVTREEINDEX388 =
 "df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[6,0,6,7,0],
 "df/d8e/classMMAP_1_1MMapMgr.html#ac677ea014721d0631195ba64b05c66a0":[5,0,20,7,9],
 "df/d8e/classMMAP_1_1MMapMgr.html#ac677ea014721d0631195ba64b05c66a0":[6,0,6,7,9],
-"df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,20,7,10],
-"df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[6,0,6,7,10],
-"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[5,0,20,7,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[6,0,6,7,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,20,7,6],
-"df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,7,6],
-"df/d8e/classspell__mage__burnout__trigger.html":[6,0,3386],
-"df/d8e/classspell__mage__burnout__trigger.html#a1f83fae2fb3dc0904ed56101e1254f5f":[6,0,3386,2],
-"df/d8e/classspell__mage__burnout__trigger.html#a4fde3142b38989cb37db76da6eada03c":[6,0,3386,0],
-"df/d8e/classspell__mage__burnout__trigger.html#aa694a1a7cbbe0f20226d7e616e19cefb":[6,0,3386,1],
-"df/d8e/structiron__golem__custodian_1_1iron__golem__custodianAI.html":[6,0,1366,0]
+"df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,20,7,10]
 };

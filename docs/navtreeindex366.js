@@ -1,5 +1,15 @@
 var NAVTREEINDEX366 =
 {
+"de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99aa07e6dd48512e34c3e302df6979235f0c":[7,0,0,0,1,3,2,4,5,3,1],
+"de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829":[7,0,0,0,1,3,2,4,5,3,0],
+"de/d87/boss__netherspite_8cpp.html#ab64e93e65efb8d39759a156658505ad2":[7,0,0,0,1,3,2,4,5,9],
+"de/d87/boss__netherspite_8cpp.html#ab6b49b0e770e4a42d0d918eb0870a9c9":[7,0,0,0,1,3,2,4,5,12],
+"de/d87/boss__netherspite_8cpp.html#aed31b52543c556f43d7268340ea660fe":[7,0,0,0,1,3,2,4,5,6],
+"de/d87/boss__netherspite_8cpp.html#af50db85296b6cc3bcfbdbe8943087500":[7,0,0,0,1,3,2,4,5,13],
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[7,0,0,0,1,3,2,4,5,4],
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[7,0,0,0,1,3,2,4,5,4,1],
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[7,0,0,0,1,3,2,4,5,4,0],
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
 "de/d87/classWaypointMovementGenerator.html":[6,0,4242],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
 "de/d87/structSpawnAssociation.html":[6,0,2579],
@@ -239,15 +249,5 @@ var NAVTREEINDEX366 =
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a870f632b54e4638b1f5a4e93b6bd9e52":[6,0,264,4],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a8f5894a5729d4c8d26376bbe1a2ac29e":[6,0,264,0],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a96e56943da42f1a1258fc1d716259e1a":[6,0,264,5],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#ac83cc019ceb1752ce8d6b5a3aa3d350f":[6,0,264,7],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#aee11f4f45f83664483344e3bbfba7463":[6,0,264,2],
-"de/d97/boss__mother__shahraz_8cpp.html":[7,0,0,0,1,3,7,1,4],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,4,7],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,1,4,7,5],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,1,4,7,1],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,1,4,7,3],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[7,0,0,0,1,3,7,1,4,7,0],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac84afb14a2738b8f24beb0e2427300f6":[7,0,0,0,1,3,7,1,4,7,6],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,1,4,7,4],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ad25383e2c00eeae2e4b15e33298d79a2":[7,0,0,0,1,3,7,1,4,7,2]
+"de/d95/structAuctionHouseUsablePlayerInfo.html#ac83cc019ceb1752ce8d6b5a3aa3d350f":[6,0,264,7]
 };
