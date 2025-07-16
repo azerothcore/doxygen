@@ -334,13 +334,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  542</span>    {</div>
-<div class="line"><span class="lineno">  543</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d4d/GameEventMgr_8cpp.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba12e81c747c303ff1176b9169ee2e1a00">HOLIDAY_FIRE_FESTIVAL</a>))</div>
-<div class="line"><span class="lineno">  544</span>        {</div>
-<div class="line"><span class="lineno">  545</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno">  546</span>                target-&gt;RemoveAurasDueToSpell(<a class="code hl_enumvalue" href="../../d6/dba/midsummer_8cpp.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47addb53f7d8e475e6a696de82fb90e4394">SPELL_BONFIRES_BLESSING</a>);</div>
-<div class="line"><span class="lineno">  547</span>        }</div>
-<div class="line"><span class="lineno">  548</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  432</span>    {</div>
+<div class="line"><span class="lineno">  433</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d4d/GameEventMgr_8cpp.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba12e81c747c303ff1176b9169ee2e1a00">HOLIDAY_FIRE_FESTIVAL</a>))</div>
+<div class="line"><span class="lineno">  434</span>        {</div>
+<div class="line"><span class="lineno">  435</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
+<div class="line"><span class="lineno">  436</span>                target-&gt;RemoveAurasDueToSpell(<a class="code hl_enumvalue" href="../../d6/dba/midsummer_8cpp.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47addb53f7d8e475e6a696de82fb90e4394">SPELL_BONFIRES_BLESSING</a>);</div>
+<div class="line"><span class="lineno">  437</span>        }</div>
+<div class="line"><span class="lineno">  438</span>    }</div>
 <div class="ttc" id="aGameEventMgr_8cpp_html_a429db26781d2673aa2f031fc1327ffaf"><div class="ttname"><a href="../../d3/d4d/GameEventMgr_8cpp.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a></div><div class="ttdeci">bool IsHolidayActive(HolidayIds id)</div><div class="ttdef"><b>Definition</b> GameEventMgr.cpp:1950</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ad279224fea61f9754572051fc5ff1faba12e81c747c303ff1176b9169ee2e1a00"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba12e81c747c303ff1176b9169ee2e1a00">HOLIDAY_FIRE_FESTIVAL</a></div><div class="ttdeci">@ HOLIDAY_FIRE_FESTIVAL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2995</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
@@ -349,7 +349,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l02995">HOLIDAY_FIRE_FESTIVAL</a>, <a class="el" href="../../#l01950">IsHolidayActive()</a>, and <a class="el" href="../../#l00046">SPELL_BONFIRES_BLESSING</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00550">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00440">Register()</a>.</p>
 
 </div>
 </div>
@@ -376,9 +376,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  537</span>    {</div>
-<div class="line"><span class="lineno">  538</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d6/dba/midsummer_8cpp.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47addb53f7d8e475e6a696de82fb90e4394">SPELL_BONFIRES_BLESSING</a> });</div>
-<div class="line"><span class="lineno">  539</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  427</span>    {</div>
+<div class="line"><span class="lineno">  428</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d6/dba/midsummer_8cpp.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47addb53f7d8e475e6a696de82fb90e4394">SPELL_BONFIRES_BLESSING</a> });</div>
+<div class="line"><span class="lineno">  429</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00046">SPELL_BONFIRES_BLESSING</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -409,17 +409,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  551</span>    {</div>
-<div class="line"><span class="lineno">  552</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0">spell_bonfires_blessing::OnApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
-<div class="line"><span class="lineno">  553</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  441</span>    {</div>
+<div class="line"><span class="lineno">  442</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0">spell_bonfires_blessing::OnApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
+<div class="line"><span class="lineno">  443</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:51</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:743</div></div>
 <div class="ttc" id="aclassAuraScript_html_a509262d9721d83783e19142eee1645df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AuraScript::AfterEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:742</div></div>
-<div class="ttc" id="aclassspell__bonfires__blessing_html_a30d33268b58507c228a4628031bffca0"><div class="ttname"><a href="../../dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0">spell_bonfires_blessing::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> midsummer.cpp:541</div></div>
+<div class="ttc" id="aclassspell__bonfires__blessing_html_a30d33268b58507c228a4628031bffca0"><div class="ttname"><a href="../../dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0">spell_bonfires_blessing::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> midsummer.cpp:431</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00541">OnApply()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00431">OnApply()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -432,7 +432,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d94/classspell__bonfires__blessing.html">spell_bonfires_blessing</a></li>
-    <li class="footer">Generated on Tue Jul 15 2025 06:27:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 16 2025 06:26:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

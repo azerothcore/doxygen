@@ -1,5 +1,11 @@
 var NAVTREEINDEX292 =
 {
+"db/dd5/classCreature.html#a44a915b84469dc47aa0af70c4abfd47d":[6,0,908,124],
+"db/dd5/classCreature.html#a44d11d16e2cbdb8316790cc8550df75c":[6,0,908,26],
+"db/dd5/classCreature.html#a44f3a1de88c1b21cd831eccceeef3fe1":[6,0,908,150],
+"db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951":[6,0,908,105],
+"db/dd5/classCreature.html#a46f2520f25c51c18ee7ff7d4eed4c7dc":[6,0,908,10],
+"db/dd5/classCreature.html#a47a8fb84d400cbaf887915dee7160a18":[6,0,908,182],
 "db/dd5/classCreature.html#a47ae3ef814f373bec4341815e128c11e":[6,0,908,224],
 "db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c":[6,0,908,177],
 "db/dd5/classCreature.html#a4bbc89c54481bce5d60cbad257d2f487":[6,0,908,11],
@@ -224,10 +230,10 @@ var NAVTREEINDEX292 =
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2770,1],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2770,2],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2770,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3380],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3380,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3380,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3380,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3381],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3381,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3381,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3381,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1644,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1644,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1644,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX292 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[6,0,1644,0,14],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[6,0,1644,0,13],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[6,0,1644,0,2],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[6,0,1644,0,9],
-"db/dd6/classachievement__split__personality.html":[6,0,91],
-"db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[6,0,91,0],
-"db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[6,0,91,1],
-"db/dd6/instance__naxxramas_8cpp.html":[7,0,0,0,1,3,5,7,15],
-"db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,5,7,15,9],
-"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[7,0,0,0,1,3,5,7,15,11]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[6,0,1644,0,9]
 };

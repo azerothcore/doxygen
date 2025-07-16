@@ -3,7 +3,6 @@ var midsummer_8cpp =
     [ "MidsummerPlayerScript", "dc/db1/classMidsummerPlayerScript.html", "dc/db1/classMidsummerPlayerScript" ],
     [ "npc_midsummer_bonfire", "db/d41/structnpc__midsummer__bonfire.html", "db/d41/structnpc__midsummer__bonfire" ],
     [ "npc_midsummer_bonfire_despawner", "d5/db0/structnpc__midsummer__bonfire__despawner.html", "d5/db0/structnpc__midsummer__bonfire__despawner" ],
-    [ "npc_midsummer_torch_target", "dd/d2c/structnpc__midsummer__torch__target.html", "dd/d2c/structnpc__midsummer__torch__target" ],
     [ "spell_fire_festival_fortitude", "dd/da3/classspell__fire__festival__fortitude.html", "dd/da3/classspell__fire__festival__fortitude" ],
     [ "spell_bonfires_blessing", "dd/d94/classspell__bonfires__blessing.html", "dd/d94/classspell__bonfires__blessing" ],
     [ "spell_gen_crab_disguise", "d6/de9/classspell__gen__crab__disguise.html", "d6/de9/classspell__gen__crab__disguise" ],
@@ -11,7 +10,9 @@ var midsummer_8cpp =
     [ "spell_midsummer_ribbon_pole_firework", "db/dec/classspell__midsummer__ribbon__pole__firework.html", "db/dec/classspell__midsummer__ribbon__pole__firework" ],
     [ "spell_midsummer_ribbon_pole", "da/d80/classspell__midsummer__ribbon__pole.html", "da/d80/classspell__midsummer__ribbon__pole" ],
     [ "spell_midsummer_ribbon_pole_visual", "d3/d55/classspell__midsummer__ribbon__pole__visual.html", "d3/d55/classspell__midsummer__ribbon__pole__visual" ],
-    [ "spell_midsummer_torch_quest", "d3/deb/classspell__midsummer__torch__quest.html", "d3/deb/classspell__midsummer__torch__quest" ],
+    [ "spell_braziers_hit", "d4/df4/classspell__braziers__hit.html", "d4/df4/classspell__braziers__hit" ],
+    [ "spell_torch_target_picker", "d1/d96/classspell__torch__target__picker.html", "d1/d96/classspell__torch__target__picker" ],
+    [ "spell_torch_tossing_training", "da/d4a/classspell__torch__tossing__training.html", "da/d4a/classspell__torch__tossing__training" ],
     [ "spell_midsummer_fling_torch", "d5/ded/classspell__midsummer__fling__torch.html", "d5/ded/classspell__midsummer__fling__torch" ],
     [ "spell_midsummer_juggling_torch", "df/d32/classspell__midsummer__juggling__torch.html", "df/d32/classspell__midsummer__juggling__torch" ],
     [ "spell_midsummer_torch_catch", "d2/d22/classspell__midsummer__torch__catch.html", "d2/d22/classspell__midsummer__torch__catch" ],
@@ -97,14 +98,11 @@ var midsummer_8cpp =
       [ "MAX_COUNT_DANCING_FLAMES", "d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8a0742582fb100a048256a524bf04d7f41", null ]
     ] ],
     [ "torchToss", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503", [
-      [ "GO_TORCH_TARGET_BRAZIER", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a02fd32d7f5b8606459ebc14aaa47cdc3", null ],
-      [ "NPC_TORCH_TOSS_TARGET_BUNNY", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503aaba7748854831cfc2b7b36aa8ba09a5f", null ],
-      [ "SPELL_TARGET_INDICATOR_RANK_1", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a80af6d006ebda9a2f393ab7b40e34b16", null ],
-      [ "SPELL_TORCH_TOSS_LAND", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a0b6ab66f79a91e506ee726f082c73010", null ],
-      [ "SPELL_BRAZIERS_HIT_VISUAL", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a66421dc2ba4aad2ae967f0ea7e01eda0", null ],
-      [ "SPELL_TORCH_TOSS_SUCCESS_A", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a943f97d742dfd831fe988ca89b935a7a", null ],
-      [ "SPELL_TORCH_TOSS_SUCCESS_H", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503aa4992462634636849dc5588d0b1ef532", null ],
-      [ "SPELL_TORCH_TOSS_TRAINING", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a5bc660f5b3f7eba58ad5feb4cc97b863", null ]
+      [ "SPELL_TORCH_TOSSING_TRAINING_SUCCESS_A", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a7aad8d11a3be0b5a3eb37212a8e2c3a1", null ],
+      [ "SPELL_TORCH_TOSSING_TRAINING_SUCCESS_H", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a47623396578851d7e67587407b4721b4", null ],
+      [ "SPELL_TORCH_TOSSING_TRAINING", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a6d3953a63d1aba327ebd94eb09378d46", null ],
+      [ "SPELL_TORCH_TOSSING_PRACTICE", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503ab760b1cabd3f1be9752d9346929b67c0", null ],
+      [ "SPELL_REMOVE_TORCHES", "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a43263946ad087cbfa8b08e5783b90641", null ]
     ] ],
     [ "AddSC_event_midsummer_scripts", "d6/dba/midsummer_8cpp.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
     [ "BonfireStampedOutState", "d6/dba/midsummer_8cpp.html#a5d0b0c73af98ce322c8064d69bcbb6a9", null ],

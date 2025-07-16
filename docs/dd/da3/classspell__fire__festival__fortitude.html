@@ -312,15 +312,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  516</span>    {</div>
-<div class="line"><span class="lineno">  517</span>        targets.clear();</div>
-<div class="line"><span class="lineno">  518</span> </div>
-<div class="line"><span class="lineno">  519</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946">DoForAllPlayers</a>([&amp;](<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* p)</div>
-<div class="line"><span class="lineno">  520</span>            {</div>
-<div class="line"><span class="lineno">  521</span>                <span class="keywordflow">if</span> (p-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>() == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetZoneId())</div>
-<div class="line"><span class="lineno">  522</span>                    targets.push_back(p);</div>
-<div class="line"><span class="lineno">  523</span>            });</div>
-<div class="line"><span class="lineno">  524</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  406</span>    {</div>
+<div class="line"><span class="lineno">  407</span>        targets.clear();</div>
+<div class="line"><span class="lineno">  408</span> </div>
+<div class="line"><span class="lineno">  409</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946">DoForAllPlayers</a>([&amp;](<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* p)</div>
+<div class="line"><span class="lineno">  410</span>            {</div>
+<div class="line"><span class="lineno">  411</span>                <span class="keywordflow">if</span> (p-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>() == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetZoneId())</div>
+<div class="line"><span class="lineno">  412</span>                    targets.push_back(p);</div>
+<div class="line"><span class="lineno">  413</span>            });</div>
+<div class="line"><span class="lineno">  414</span>    }</div>
 <div class="ttc" id="aclassMap_html_aa5eada6f20e4dfecef62fe82e6668946"><div class="ttname"><a href="../../d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946">Map::DoForAllPlayers</a></div><div class="ttdeci">void DoForAllPlayers(std::function&lt; void(Player *)&gt; exec)</div><div class="ttdef"><b>Definition</b> Map.cpp:3011</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1083</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
@@ -355,9 +355,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  527</span>    {</div>
-<div class="line"><span class="lineno">  528</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(spell_fire_festival_fortitude::SelectTargets, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
-<div class="line"><span class="lineno">  529</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  417</span>    {</div>
+<div class="line"><span class="lineno">  418</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(spell_fire_festival_fortitude::SelectTargets, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
+<div class="line"><span class="lineno">  419</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ALLY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1434</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
@@ -376,7 +376,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/da3/classspell__fire__festival__fortitude.html">spell_fire_festival_fortitude</a></li>
-    <li class="footer">Generated on Tue Jul 15 2025 06:27:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 16 2025 06:26:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -314,36 +314,36 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1247</span>    {</div>
-<div class="line"><span class="lineno"> 1248</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1249</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId = caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
-<div class="line"><span class="lineno"> 1250</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcEntry = 0;</div>
-<div class="line"><span class="lineno"> 1251</span> </div>
-<div class="line"><span class="lineno"> 1252</span>        <span class="keywordflow">switch</span> (zoneId)</div>
-<div class="line"><span class="lineno"> 1253</span>        {</div>
-<div class="line"><span class="lineno"> 1254</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7">AREA_ASHENVALE</a>:</div>
-<div class="line"><span class="lineno"> 1255</span>            npcEntry = 26116; <span class="comment">// Frostwave Lieutenant</span></div>
-<div class="line"><span class="lineno"> 1256</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1257</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7cf78e784a266777786ddf3c465b20a6">AREA_DESOLACE</a>:</div>
-<div class="line"><span class="lineno"> 1258</span>            npcEntry = 26178; <span class="comment">// Hailstone Lieutenant</span></div>
-<div class="line"><span class="lineno"> 1259</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1260</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2">AREA_STRANGLETHORN_VALE</a>:</div>
-<div class="line"><span class="lineno"> 1261</span>            npcEntry = 26204; <span class="comment">// Chillwind Lieutenant</span></div>
-<div class="line"><span class="lineno"> 1262</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1263</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aee81dadad1ccb4a63ee0a8b0f85fefb6">AREA_SEARING_GORGE</a>:</div>
-<div class="line"><span class="lineno"> 1264</span>            npcEntry = 26214; <span class="comment">// Frigid Lieutenant</span></div>
-<div class="line"><span class="lineno"> 1265</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1266</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aa82bbf49e6a8840fd9af0723322299ce">AREA_SILITHUS</a>:</div>
-<div class="line"><span class="lineno"> 1267</span>            npcEntry = 26215; <span class="comment">// Glacial Lieutenant</span></div>
-<div class="line"><span class="lineno"> 1268</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1269</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49">AREA_HELLFIRE_PENINSULA</a>:</div>
-<div class="line"><span class="lineno"> 1270</span>            npcEntry = 26216; <span class="comment">// Glacial Templar</span></div>
-<div class="line"><span class="lineno"> 1271</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1272</span>        }</div>
-<div class="line"><span class="lineno"> 1273</span> </div>
-<div class="line"><span class="lineno"> 1274</span>        <span class="keywordflow">if</span> (npcEntry)</div>
-<div class="line"><span class="lineno"> 1275</span>            caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(npcEntry, caster-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(), <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>, <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno"> 1276</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1180</span>    {</div>
+<div class="line"><span class="lineno"> 1181</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1182</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId = caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
+<div class="line"><span class="lineno"> 1183</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcEntry = 0;</div>
+<div class="line"><span class="lineno"> 1184</span> </div>
+<div class="line"><span class="lineno"> 1185</span>        <span class="keywordflow">switch</span> (zoneId)</div>
+<div class="line"><span class="lineno"> 1186</span>        {</div>
+<div class="line"><span class="lineno"> 1187</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7">AREA_ASHENVALE</a>:</div>
+<div class="line"><span class="lineno"> 1188</span>            npcEntry = 26116; <span class="comment">// Frostwave Lieutenant</span></div>
+<div class="line"><span class="lineno"> 1189</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1190</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7cf78e784a266777786ddf3c465b20a6">AREA_DESOLACE</a>:</div>
+<div class="line"><span class="lineno"> 1191</span>            npcEntry = 26178; <span class="comment">// Hailstone Lieutenant</span></div>
+<div class="line"><span class="lineno"> 1192</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1193</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2">AREA_STRANGLETHORN_VALE</a>:</div>
+<div class="line"><span class="lineno"> 1194</span>            npcEntry = 26204; <span class="comment">// Chillwind Lieutenant</span></div>
+<div class="line"><span class="lineno"> 1195</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1196</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aee81dadad1ccb4a63ee0a8b0f85fefb6">AREA_SEARING_GORGE</a>:</div>
+<div class="line"><span class="lineno"> 1197</span>            npcEntry = 26214; <span class="comment">// Frigid Lieutenant</span></div>
+<div class="line"><span class="lineno"> 1198</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1199</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aa82bbf49e6a8840fd9af0723322299ce">AREA_SILITHUS</a>:</div>
+<div class="line"><span class="lineno"> 1200</span>            npcEntry = 26215; <span class="comment">// Glacial Lieutenant</span></div>
+<div class="line"><span class="lineno"> 1201</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1202</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49">AREA_HELLFIRE_PENINSULA</a>:</div>
+<div class="line"><span class="lineno"> 1203</span>            npcEntry = 26216; <span class="comment">// Glacial Templar</span></div>
+<div class="line"><span class="lineno"> 1204</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1205</span>        }</div>
+<div class="line"><span class="lineno"> 1206</span> </div>
+<div class="line"><span class="lineno"> 1207</span>        <span class="keywordflow">if</span> (npcEntry)</div>
+<div class="line"><span class="lineno"> 1208</span>            caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(npcEntry, caster-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(), <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>, <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno"> 1209</span>    }</div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2">AREA_STRANGLETHORN_VALE</a></div><div class="ttdeci">@ AREA_STRANGLETHORN_VALE</div><div class="ttdef"><b>Definition</b> AreaDefines.h:37</div></div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7">AREA_ASHENVALE</a></div><div class="ttdeci">@ AREA_ASHENVALE</div><div class="ttdef"><b>Definition</b> AreaDefines.h:63</div></div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3a7cf78e784a266777786ddf3c465b20a6"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7cf78e784a266777786ddf3c465b20a6">AREA_DESOLACE</a></div><div class="ttdeci">@ AREA_DESOLACE</div><div class="ttdef"><b>Definition</b> AreaDefines.h:71</div></div>
@@ -362,7 +362,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00063">AREA_ASHENVALE</a>, <a class="el" href="../../#l00071">AREA_DESOLACE</a>, <a class="el" href="../../#l00098">AREA_HELLFIRE_PENINSULA</a>, <a class="el" href="../../#l00044">AREA_SEARING_GORGE</a>, <a class="el" href="../../#l00079">AREA_SILITHUS</a>, <a class="el" href="../../#l00037">AREA_STRANGLETHORN_VALE</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l03163">WorldObject::GetZoneId()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l02369">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00047">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01278">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01211">Register()</a>.</p>
 
 </div>
 </div>
@@ -416,16 +416,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1279</span>    {</div>
-<div class="line"><span class="lineno"> 1280</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8">spell_midsummer_summon_ahune_lieutenant::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
-<div class="line"><span class="lineno"> 1281</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1212</span>    {</div>
+<div class="line"><span class="lineno"> 1213</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8">spell_midsummer_summon_ahune_lieutenant::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
+<div class="line"><span class="lineno"> 1214</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a></div><div class="ttdeci">@ SPELL_EFFECT_APPLY_AURA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:784</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a55b352390f66a1d2314566de232343f9"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">SpellScript::OnEffectHit</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:335</div></div>
-<div class="ttc" id="aclassspell__midsummer__summon__ahune__lieutenant_html_a5e0797e5af760b618b1498f405766de8"><div class="ttname"><a href="../../da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8">spell_midsummer_summon_ahune_lieutenant::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> midsummer.cpp:1246</div></div>
+<div class="ttc" id="aclassspell__midsummer__summon__ahune__lieutenant_html_a5e0797e5af760b618b1498f405766de8"><div class="ttname"><a href="../../da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8">spell_midsummer_summon_ahune_lieutenant::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> midsummer.cpp:1179</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01246">HandleDummy()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00784">SPELL_EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01179">HandleDummy()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00784">SPELL_EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -438,7 +438,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d03/classspell__midsummer__summon__ahune__lieutenant.html">spell_midsummer_summon_ahune_lieutenant</a></li>
-    <li class="footer">Generated on Tue Jul 15 2025 06:27:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 16 2025 06:26:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

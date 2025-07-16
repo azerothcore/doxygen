@@ -1,5 +1,11 @@
 var NAVTREEINDEX269 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a43d7936a2d07aedca534a674bc337cba":[7,0,0,0,1,3,5,2,1,7,7,11],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a5ebaf585ae3da6d909256800aebebbfc":[7,0,0,0,1,3,5,2,1,7,7,4],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a6ca6b9d0affccf4ebebb7360415c8c51":[7,0,0,0,1,3,5,2,1,7,7,16],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a7f5c7687e5e5a223c4e5c3dcd5c7b846":[7,0,0,0,1,3,5,2,1,7,7,6],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a82ea7723d6c63788813727c325d65f1b":[7,0,0,0,1,3,5,2,1,7,7,9],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a891d1dfbf7a861ae76e21b3a1239dfac":[7,0,0,0,1,3,5,2,1,7,7,10],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a8a57a3fcd514b7a621e04ae73c2647c9":[7,0,0,0,1,3,5,2,1,7,7,3],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5aa85e2c3e6a4a4a98656e35122d5f3dde":[7,0,0,0,1,3,5,2,1,7,7,7],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ab2cb4cc17e177e2789bcf9102844ef09":[7,0,0,0,1,3,5,2,1,7,7,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX269 =
 "da/de9/classnpc__azure__binder.html#a25b8b19b6ccdae92418c47fe68537c42":[6,0,1617,1],
 "da/de9/classnpc__azure__binder.html#aad091206a8bd06a1064b68b81510eb56":[6,0,1617,2],
 "da/de9/classspell__dru__treant__scaling.html":[6,0,2841],
-"da/de9/classspell__dru__treant__scaling.html#a40c96996d19b9f7eeed3fda4271b9f87":[6,0,2841,2],
-"da/de9/classspell__dru__treant__scaling.html#a5d6e7b92f4335176388a877e72c0e92c":[6,0,2841,1],
-"da/de9/classspell__dru__treant__scaling.html#a7e3dc351574f6d6ad3424eb7df7092df":[6,0,2841,5],
-"da/de9/classspell__dru__treant__scaling.html#ab5713a34ced4d2e2a67b43e98d7a55c0":[6,0,2841,6],
-"da/de9/classspell__dru__treant__scaling.html#ae4f96de2c558a4b0fd7659442aa3d92b":[6,0,2841,3],
-"da/de9/classspell__dru__treant__scaling.html#aeebb14424a6ae336edd4b66d824d648a":[6,0,2841,4],
-"da/de9/classspell__dru__treant__scaling.html#af1d4558f6132d3c2abc71ec1dabee2e8":[6,0,2841,0]
+"da/de9/classspell__dru__treant__scaling.html#a40c96996d19b9f7eeed3fda4271b9f87":[6,0,2841,2]
 };

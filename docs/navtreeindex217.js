@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[4,1,19,537],
+"d8/d74/classWorldSession.html#aaec211170af12b890ad586005a16661d":[4,1,19,215],
 "d8/d74/classWorldSession.html#aaeca041a436f4516a75eeba5d3361c20":[4,1,19,255],
 "d8/d74/classWorldSession.html#aaf12dbcad4c88c4e71d0af7ea1507474":[4,1,19,452],
 "d8/d74/classWorldSession.html#aaf1751384d52e30e18b46d451d6ddd72":[4,1,19,259],
@@ -190,9 +192,9 @@ var NAVTREEINDEX217 =
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1890,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1890,2],
 "d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1890,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2251],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2251,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2251,1],
+"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2250],
+"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2250,2],
+"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2250,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1947,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1947,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1947,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d78/classDeathEvent.html":[6,0,958],
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,958,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,958,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,958,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,5,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,30,5,31]
+"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,958,1]
 };

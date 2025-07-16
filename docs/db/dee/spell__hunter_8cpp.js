@@ -29,6 +29,7 @@ var spell__hunter_8cpp =
     [ "spell_hun_intimidation", "d3/dfe/classspell__hun__intimidation.html", "d3/dfe/classspell__hun__intimidation" ],
     [ "spell_hun_bestial_wrath", "d8/d37/classspell__hun__bestial__wrath.html", "d8/d37/classspell__hun__bestial__wrath" ],
     [ "spell_hun_target_self_and_pet", "d3/d56/classspell__hun__target__self__and__pet.html", "d3/d56/classspell__hun__target__self__and__pet" ],
+    [ "spell_hun_explosive_shot", "d1/dfc/classspell__hun__explosive__shot.html", "d1/dfc/classspell__hun__explosive__shot" ],
     [ "HunterSpells", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e", [
       [ "SPELL_HUNTER_WYVERN_STING_DOT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07", null ],
       [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00", null ],

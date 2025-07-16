@@ -1,5 +1,10 @@
 var NAVTREEINDEX169 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a71cc461fb6d55324dff72b6bb174bb7f":[7,0,0,0,1,2,7,0,1,23,21],
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a72f59b837efd39ebabd16774be934e25":[7,0,0,0,1,2,7,0,1,23,18],
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a75ab79b0e046e9e0fee0553e23d5c0ee":[7,0,0,0,1,2,7,0,1,23,28],
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a7ad3b5d48009ae2e3ffa63fca3babb21":[7,0,0,0,1,2,7,0,1,23,31],
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a7d9cc24bd044111d75bc988c544f8d7b":[7,0,0,0,1,2,7,0,1,23,22],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a7e93f17d0d938047ef7ec14e9fa31c0b":[7,0,0,0,1,2,7,0,1,23,39],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a817bb7431158be4f70a52c266684fcab":[7,0,0,0,1,2,7,0,1,23,24],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a84bc29fd2889fc7b00f4ec93f6d80b67":[7,0,0,0,1,2,7,0,1,23,20],
@@ -166,12 +171,12 @@ var NAVTREEINDEX169 =
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3093,0],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3093,1],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3093,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[6,0,2018],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[6,0,2018,1],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[6,0,2018,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[6,0,2018,0],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[6,0,2018,4],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[6,0,2018,3],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[6,0,2017],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[6,0,2017,1],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[6,0,2017,2],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a6e79c0ad6219d0beb23cfb086e6d3eaf":[6,0,2017,0],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[6,0,2017,4],
+"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[6,0,2017,3],
 "d6/d51/boss__apothecary__hummel_8cpp.html":[7,0,0,0,1,3,2,9,0],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cf":[7,0,0,0,1,3,2,9,0,11],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26":[7,0,0,0,1,3,2,9,0,11,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7a5abf8e47dd374a31021fec3d7ad5e4":[7,0,0,0,1,3,9,0,51,38],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7bb62a89c9a4b0ef9c462557e6bebf06":[7,0,0,0,1,3,9,0,51,3],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7befee8ae802023214e825bee24cee5e":[7,0,0,0,1,3,9,0,51,40],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a8015bc1ee88d84bf6af5ec8ad33dc9c5":[7,0,0,0,1,3,9,0,51,26],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a84d745577ef13f1e5882b93198f50a2e":[7,0,0,0,1,3,9,0,51,6],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a879242b06ba5365a7e418f83ebf71a5d":[7,0,0,0,1,3,9,0,51,21],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a92362da89735cabc4151ed2707cb71ba":[7,0,0,0,1,3,9,0,51,16],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499aa07ad5b01916a34a0f09c7fb75922470":[7,0,0,0,1,3,9,0,51,19],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499aa317dd781cd6aca5608aaa0b7c116909":[7,0,0,0,1,3,9,0,51,1]
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a8015bc1ee88d84bf6af5ec8ad33dc9c5":[7,0,0,0,1,3,9,0,51,26]
 };
