@@ -1,5 +1,8 @@
 var NAVTREEINDEX382 =
 {
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23],
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[6,0,2077,0],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a00872042199924a14089c1057c479ff7":[6,0,2077,0,9],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a47ed52a4a0511d7b1e3eb4bd5da409ca":[6,0,2077,0,6],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a79d34453b3ace5c1f80b12b862890e3c":[6,0,2077,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX382 =
 "df/d3a/hellfire__ramparts_8h.html#acd8b54d8672687df8df94cb3d9a2a744a3df24a649fb3ca366a43a593e3d26057":[7,0,0,0,1,3,7,4,1,3,5,1],
 "df/d3a/hellfire__ramparts_8h.html#acd8b54d8672687df8df94cb3d9a2a744ab158463adf96248480d6cc55011eab24":[7,0,0,0,1,3,7,4,1,3,5,0],
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,4,1,3,4],
-"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a20f7701e6174f8d1a1f99b79c14e688e":[7,0,0,0,1,3,7,4,1,3,4,0],
-"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a335aa1da5e1dd299f874d80861fcdd61":[7,0,0,0,1,3,7,4,1,3,4,1],
-"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,7,4,1,3,4,3],
-"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22ab4fb50b126f3e0d71927aeebafe66b5d":[7,0,0,0,1,3,7,4,1,3,4,2]
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a20f7701e6174f8d1a1f99b79c14e688e":[7,0,0,0,1,3,7,4,1,3,4,0]
 };

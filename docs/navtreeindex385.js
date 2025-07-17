@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d":[7,0,0,0,1,3,2,1,0,0,12,4],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f":[7,0,0,0,1,3,2,1,0,0,12,0],
+"df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0":[7,0,0,0,1,3,2,1,0,0,19],
 "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22":[7,0,0,0,1,3,2,1,0,0,19,0],
 "df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22":[7,0,0,0,1,3,2,1,0,0,21],
 "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779":[7,0,0,0,1,3,2,1,0,0,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[6,0,3743,0],
 "df/d6c/structB64Impl.html":[6,0,296],
 "df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,296,4],
-"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,296,2],
-"df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,296,3],
-"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,296,0],
-"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,296,1]
+"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,296,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX335 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38bd0023c59c4a5bc8761e35b54466c0":[7,0,0,0,1,2,38,0,75,1,3],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[7,0,0,0,1,2,38,0,75,1,135],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[7,0,0,0,1,2,38,0,75,1,58],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[7,0,0,0,1,2,38,0,75,1,165],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3fa08968eb2d0acc747af4886085bee4":[7,0,0,0,1,2,38,0,75,1,117],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a1e3ddb279ae0a6244979b5335abe2":[7,0,0,0,1,2,38,0,75,1,59],
@@ -246,8 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dce/structboss__gurtogg__bloodboil.html#af6abec4e4db5ce939e4c9593656d16fb":[6,0,511,0],
 "dd/dcf/namespaceWorldPackets_1_1Guild.html":[5,0,30,5],
 "dd/dcf/structCharacterCacheEntry.html":[6,0,849],
-"dd/dcf/structCharacterCacheEntry.html#a19dbbbdce9dbf9993d57edbebeeaf425":[6,0,849,2],
-"dd/dcf/structCharacterCacheEntry.html#a1d094e514af9970b0239cc8e27da06bc":[6,0,849,1],
-"dd/dcf/structCharacterCacheEntry.html#a41ea77c9e690336b709259bfccbd939f":[6,0,849,6],
-"dd/dcf/structCharacterCacheEntry.html#a4b6f5540de2e47959a053696698e8e05":[6,0,849,3]
+"dd/dcf/structCharacterCacheEntry.html#a19dbbbdce9dbf9993d57edbebeeaf425":[6,0,849,2]
 };

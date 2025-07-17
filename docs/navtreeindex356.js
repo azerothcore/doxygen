@@ -1,5 +1,8 @@
 var NAVTREEINDEX356 =
 {
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[7,0,0,0,1,3,9,7,26,13],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde":[7,0,0,0,1,3,9,7,26,19],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4":[7,0,0,0,1,3,9,7,26,5],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1":[7,0,0,0,1,3,9,7,26,0],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366":[7,0,0,0,1,3,9,7,26,8],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690":[7,0,0,0,1,3,9,7,26,22],
@@ -246,8 +249,5 @@ var NAVTREEINDEX356 =
 "de/d2c/structItemPosCount.html":[6,0,1383],
 "de/d2c/structItemPosCount.html#a43458da1fc31d827b6de726754f7901e":[6,0,1383,0],
 "de/d2c/structItemPosCount.html#a4e09f94aa0808f76b2d5ff23691abb27":[6,0,1383,2],
-"de/d2c/structItemPosCount.html#a6977c544a2d39ca5872b75f27517974f":[6,0,1383,1],
-"de/d2c/structItemPosCount.html#ad8954f1a6323316510cfe0f332ee495f":[6,0,1383,3],
-"de/d2d/classboss__hodir.html":[6,0,534],
-"de/d2d/classboss__hodir.html#a5740f489f57380d2633a8ee5a18de339":[6,0,534,1]
+"de/d2c/structItemPosCount.html#a6977c544a2d39ca5872b75f27517974f":[6,0,1383,1]
 };

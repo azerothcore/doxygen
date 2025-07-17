@@ -1,5 +1,8 @@
 var NAVTREEINDEX251 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab3987db9e154ae9a2086efb43e5af610":[7,0,0,0,1,2,41,0,0,6,33],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab4806cdcbd6a166499fc872737405c5c":[7,0,0,0,1,2,41,0,0,6,182],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab4e25ba6068fba0c5d7c5ac8adbbf8fa":[7,0,0,0,1,2,41,0,0,6,56],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab6c4d806c60e94fec189c27a7a205576":[7,0,0,0,1,2,41,0,0,6,227],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7aebcdfc938aad8e15f24f026994dbb":[7,0,0,0,1,2,41,0,0,6,298],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08":[7,0,0,0,1,2,41,0,0,6,69],
@@ -197,16 +200,16 @@ var NAVTREEINDEX251 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#aeb11687534fa7c1e76ea22cc07deb73d":[6,0,1871,0,3],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#af1726169fe63eb3ff1ed95eb0e10d2f0":[6,0,1871,0,4],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#afdb4215cd0578de7342b152783666ed6":[6,0,1871,0,2],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[6,0,11,5,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,30,5,33],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[6,0,11,5,33,3],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[6,0,11,5,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,30,5,33,3],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[6,0,11,5,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[6,0,11,5,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[5,0,30,5,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[6,0,11,5,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[5,0,30,5,33,4],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[6,0,11,5,33,0],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[5,0,30,5,33,0],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[6,0,11,5,33,0],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[5,0,30,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[6,0,11,5,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acd5105c31e0f56e680f3384e86186872":[6,0,11,5,33,2],
@@ -242,12 +245,9 @@ var NAVTREEINDEX251 =
 "da/d35/structlfg_1_1LfgWaitTime.html#a0d0ef1b3552e5298763a3f28714bc864":[5,0,18,18,2],
 "da/d35/structlfg_1_1LfgWaitTime.html#a1d80e0848c06c658a4c0587b686fe09d":[6,0,5,18,0],
 "da/d35/structlfg_1_1LfgWaitTime.html#a1d80e0848c06c658a4c0587b686fe09d":[5,0,18,18,0],
-"da/d35/structlfg_1_1LfgWaitTime.html#ae6bd7db37ac17752edbc8d336081b91e":[5,0,18,18,1],
 "da/d35/structlfg_1_1LfgWaitTime.html#ae6bd7db37ac17752edbc8d336081b91e":[6,0,5,18,1],
+"da/d35/structlfg_1_1LfgWaitTime.html#ae6bd7db37ac17752edbc8d336081b91e":[5,0,18,18,1],
 "da/d36/classboss__gluth.html":[6,0,498],
 "da/d36/classboss__gluth.html#a3b19c938aaecc897d6552715064be7f8":[6,0,498,2],
-"da/d36/classboss__gluth.html#a3ff6e361cd6799f41d00fa75784c4f76":[6,0,498,1],
-"da/d36/classspell__chapter2__persuasive__strike.html":[6,0,2705],
-"da/d36/classspell__chapter2__persuasive__strike.html#a90a11fb3309325c93e7c052e172a0d0b":[6,0,2705,2],
-"da/d36/classspell__chapter2__persuasive__strike.html#aa06c722fbd75f11fa3ba43c77e68f15f":[6,0,2705,0]
+"da/d36/classboss__gluth.html#a3ff6e361cd6799f41d00fa75784c4f76":[6,0,498,1]
 };

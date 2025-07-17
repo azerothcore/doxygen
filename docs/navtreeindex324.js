@@ -1,5 +1,8 @@
 var NAVTREEINDEX324 =
 {
+"dd/d3b/structGameObjectTemplate.html#a67aa14ccaea3181f5e9b359fb28d31ec":[6,0,1084,158],
+"dd/d3b/structGameObjectTemplate.html#a6855d22b6b51a65765c41be9a6f205dc":[6,0,1084,103],
+"dd/d3b/structGameObjectTemplate.html#a68cfbe7c338d158d08bd1ffab6856990":[6,0,1084,9],
 "dd/d3b/structGameObjectTemplate.html#a6bbc2b01f0c98b21ef59e8b81297d35c":[6,0,1084,22],
 "dd/d3b/structGameObjectTemplate.html#a6c88f4672ef3c4d2e44d7d486fab8776":[6,0,1084,25],
 "dd/d3b/structGameObjectTemplate.html#a6c9615541f4a5f94b7c05e86f945179e":[6,0,1084,145],
@@ -246,8 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1843,0,6],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1843,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1843,0,2],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1843,0,0],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1843,0,1],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a7c911cf24b21c959ee5c62d664e1879a":[6,0,1843,0,5],
-"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#ab37c5c22456c06f78b53505ae7973658":[6,0,1843,0,3]
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1843,0,0]
 };

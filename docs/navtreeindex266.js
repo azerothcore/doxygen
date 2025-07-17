@@ -1,5 +1,8 @@
 var NAVTREEINDEX266 =
 {
+"da/dbf/Player_8h.html#aa866532c4cfec14f0827341a31b3d8ae":[7,0,0,0,1,2,16,7,5,108],
+"da/dbf/Player_8h.html#aa866532c4cfec14f0827341a31b3d8aea66c67559ea4e01e2a8444b7ce1b2027c":[7,0,0,0,1,2,16,7,5,108,2],
+"da/dbf/Player_8h.html#aa866532c4cfec14f0827341a31b3d8aea789dbfba2b09af7744fe9be42895a480":[7,0,0,0,1,2,16,7,5,108,1],
 "da/dbf/Player_8h.html#aa866532c4cfec14f0827341a31b3d8aea9f816808a43452dd8de18a457f9ac7d4":[7,0,0,0,1,2,16,7,5,108,0],
 "da/dbf/Player_8h.html#aa866532c4cfec14f0827341a31b3d8aead1ba2b09e3074f6714d365602dd98ca0":[7,0,0,0,1,2,16,7,5,108,3],
 "da/dbf/Player_8h.html#aa8a947319a6f00895a3c443f5cb258ad":[7,0,0,0,1,2,16,7,5,143],
@@ -246,8 +249,5 @@ var NAVTREEINDEX266 =
 "da/dca/classDelayedTalk.html#a8a7ea9e6ddebd73996cfe8d9723276bc":[6,0,967,0],
 "da/dca/classDelayedTalk.html#a9d13769bb3fbaed32919fc919da35006":[6,0,967,2],
 "da/dca/classnpc__gluttonous__abomination.html":[6,0,1806],
-"da/dca/classnpc__gluttonous__abomination.html#a895d1afcfc62bcaac6cc0d20465f1e7a":[6,0,1806,1],
-"da/dca/classnpc__gluttonous__abomination.html#aedbd808da5e8ea0e2111e78be9d846ce":[6,0,1806,2],
-"da/dca/structBattlegroundSAScore.html":[6,0,334],
-"da/dca/structBattlegroundSAScore.html#a169a2a0a51edb6564e98c4b55f3e8a3b":[6,0,334,4]
+"da/dca/classnpc__gluttonous__abomination.html#a895d1afcfc62bcaac6cc0d20465f1e7a":[6,0,1806,1]
 };

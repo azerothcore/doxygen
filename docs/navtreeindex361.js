@@ -1,5 +1,8 @@
 var NAVTREEINDEX361 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#adb4d877f50ba5653d699a0a123f5961c":[6,0,459,8],
+"de/d4a/structboss__fathomguard__tidalvess.html#ae1652d83938dc820255e383870b957a7":[6,0,459,13],
+"de/d4a/structboss__fathomguard__tidalvess.html#aea75646687854c08eaee75c55718376d":[6,0,459,14],
 "de/d4a/structboss__fathomguard__tidalvess.html#af218abccb0b61e483dcc6d7a3313d99d":[6,0,459,6],
 "de/d4a/structnpc__anzu__spirit.html":[6,0,1595],
 "de/d4a/structnpc__anzu__spirit.html#a26f0928593f75d242c8bbcc541f7b59b":[6,0,1595,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX361 =
 "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba":[7,0,0,0,1,3,5,7,12,7,1],
 "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa7e8eb68e5742a1cd819e9998a6b08bd":[7,0,0,0,1,3,5,7,12,7,0],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,12,5],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a60154d304ccf236b597cc0f34480c058":[7,0,0,0,1,3,5,7,12,5,1],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a666261989d27e91bdd049a9b5566ef12":[7,0,0,0,1,3,5,7,12,5,2],
-"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6f13ee3dc4b64db9586ad9592d094b":[7,0,0,0,1,3,5,7,12,5,0],
-"de/d5b/classChargeRifts.html":[6,0,856]
+"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a60154d304ccf236b597cc0f34480c058":[7,0,0,0,1,3,5,7,12,5,1]
 };

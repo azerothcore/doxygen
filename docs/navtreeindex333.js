@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213":[7,0,0,0,1,3,5,23,28,0],
+"dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0":[7,0,0,0,1,3,5,23,28,5],
+"dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709":[7,0,0,0,1,3,5,23,23],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8":[7,0,0,0,1,3,5,23,23,2],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c":[7,0,0,0,1,3,5,23,23,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d":[7,0,0,0,1,3,5,23,23,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#af41946feab7b86d812f706bd7abbf1bd":[6,0,441,0,3],
 "dd/dc5/classgo__orb__of__domination.html":[6,0,1158],
 "dd/dc5/classgo__orb__of__domination.html#a1d4659e21344a12ec6084ef7ef5df7d0":[6,0,1158,0],
-"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1158,1],
-"dd/dc5/structnpc__doomfire__spirit.html":[6,0,1743],
-"dd/dc5/structnpc__doomfire__spirit.html#a0600718fad91723eba74b903583c5942":[6,0,1743,1],
-"dd/dc5/structnpc__doomfire__spirit.html#a3d16e8437c2e90ad1ab5de609f4fcff0":[6,0,1743,0]
+"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1158,1]
 };

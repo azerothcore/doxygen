@@ -1,5 +1,8 @@
 var NAVTREEINDEX318 =
 {
+"dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4203,19],
+"dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4203,2],
+"dc/dfb/classUpdateTime.html#a2073ed7e673a5db381432267861d64ec":[6,0,4203,3],
 "dc/dfb/classUpdateTime.html#a28ab3fb6bd445bf1b36f7cb3b73acff2":[6,0,4203,4],
 "dc/dfb/classUpdateTime.html#a29b8d4c5394820b71aaf8864ba4b8327":[6,0,4203,8],
 "dc/dfb/classUpdateTime.html#a38ae34827b0de71df0eeb31c1af9e07e":[6,0,4203,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d08/classspell__electrial__storm.html":[6,0,2849],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2849,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2849,0],
-"dd/d08/classspell__electrial__storm.html#ac2db8f8d9b778a0a36081c897f4149cb":[6,0,2849,3],
-"dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[6,0,2849,1],
-"dd/d08/structboss__grilek_1_1boss__grilekAI.html":[6,0,506,0],
-"dd/d08/structboss__grilek_1_1boss__grilekAI.html#a19438103c9a582a7d36d805c80131e8c":[6,0,506,0,3]
+"dd/d08/classspell__electrial__storm.html#ac2db8f8d9b778a0a36081c897f4149cb":[6,0,2849,3]
 };

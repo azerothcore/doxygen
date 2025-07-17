@@ -1,5 +1,8 @@
 var NAVTREEINDEX322 =
 {
+"dd/d27/structSmartAction.html#abfdea402d21fac447c759232ef400203":[6,0,2562,135],
+"dd/d27/structSmartAction.html#ac01ccb88e519826133c4e3dec9463087":[6,0,2562,32],
+"dd/d27/structSmartAction.html#ac289571666aa82e6efc54bec3e982e0a":[6,0,2562,39],
 "dd/d27/structSmartAction.html#ac37109569c985279e30fec2df29679aa":[6,0,2562,291],
 "dd/d27/structSmartAction.html#ac3fda8d1c507b511b18cf5526b9332f8":[6,0,2562,125],
 "dd/d27/structSmartAction.html#ac410826fa81170fdf8471c5721fed133":[6,0,2562,137],
@@ -246,8 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a0ef4ac60e1dcbc03bfe08d78b05de48d":[6,0,0,1,4,13],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a0ef4ac60e1dcbc03bfe08d78b05de48d":[5,0,1,2,4,13],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a266269d0f1aa9410cde271c97f09f807":[6,0,0,1,4,7],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a266269d0f1aa9410cde271c97f09f807":[5,0,1,2,4,7],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a2ffac2f5c4514a1a9c7d3b72ac95ca28":[5,0,1,2,4,0],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a2ffac2f5c4514a1a9c7d3b72ac95ca28":[6,0,0,1,4,0],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a378564a9a7e2b4a85381cc4e3c371451":[6,0,0,1,4,14]
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a266269d0f1aa9410cde271c97f09f807":[5,0,1,2,4,7]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX383 =
 {
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a335aa1da5e1dd299f874d80861fcdd61":[7,0,0,0,1,3,7,4,1,3,4,1],
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,7,4,1,3,4,3],
+"df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22ab4fb50b126f3e0d71927aeebafe66b5d":[7,0,0,0,1,3,7,4,1,3,4,2],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html":[6,0,1910,0],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a03dc3870b23105bb1d0d207adefe2541":[6,0,1910,0,2],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[6,0,1910,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX383 =
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#acf165009e5b2164d8244e709043eba09":[6,0,1629,0,0],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#afa7fd12da57b887f1254e24d444f43d1":[6,0,1629,0,13],
 "df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html":[6,0,3846],
-"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a55460c6393c165e3096c967c81136032":[6,0,3846,0],
-"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a8458f77fde6eaddc273b3fe5f4e49ae0":[6,0,3846,2],
-"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#af580258d287f5db6103b89d3085669bc":[6,0,3846,3],
-"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#afd4e4483f704169e6d213ced134d4c62":[6,0,3846,1]
+"df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html#a55460c6393c165e3096c967c81136032":[6,0,3846,0]
 };

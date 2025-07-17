@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/de8/classBattlegroundIC.html#ac3d7672be3cc735fe5fa945319a0898d":[6,0,323,9],
+"dc/de8/classBattlegroundIC.html#ad203c33c38957ade34c92e9cd5cd82b7":[6,0,323,13],
+"dc/de8/classBattlegroundIC.html#adfd90a35c05adc8e90d2b0436f20cf1e":[6,0,323,26],
 "dc/de8/classBattlegroundIC.html#ae204028276abbb1bb5078f8b6a7cd4c2":[6,0,323,31],
 "dc/de8/classBattlegroundIC.html#aeeb3658296da924c44c18894345a2677":[6,0,323,19],
 "dc/de8/classBattlegroundIC.html#aef6e20f484cd944aa2a6e4d64859fae3":[6,0,323,23],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/dfb/classReactorAI.html#a1b0845464b0d356be7bf38e65ab5eb19":[6,0,2478,2],
 "dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2478,1],
 "dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2478,0],
-"dc/dfb/classUpdateTime.html":[6,0,4203],
-"dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4203,19],
-"dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4203,2],
-"dc/dfb/classUpdateTime.html#a2073ed7e673a5db381432267861d64ec":[6,0,4203,3]
+"dc/dfb/classUpdateTime.html":[6,0,4203]
 };

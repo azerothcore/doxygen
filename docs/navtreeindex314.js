@@ -1,5 +1,8 @@
 var NAVTREEINDEX314 =
 {
+"dc/dc9/ObjectGuid_8h.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,5,21],
+"dc/dc9/ObjectGuid_8h.html#a393d9824dfb17afe3b82652e89eccc68":[7,0,0,0,1,2,16,5,5,11],
+"dc/dc9/ObjectGuid_8h.html#a407d39fdbc20e1e06960539245ee6a25":[7,0,0,0,1,2,16,5,5,14],
 "dc/dc9/ObjectGuid_8h.html#a4d3dbad84884c4977ba2be1ac82cc142":[7,0,0,0,1,2,16,5,5,7],
 "dc/dc9/ObjectGuid_8h.html#a5951d383f157ff0ed6d23ecef2213a4b":[7,0,0,0,1,2,16,5,5,12],
 "dc/dc9/ObjectGuid_8h.html#a62874da4f73709809fa3c7609d3e30af":[7,0,0,0,1,2,16,5,5,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dd9/structDuelInfo.html#ad80e3507a7bdfc8f7dbebd07697c464f":[6,0,985,2],
 "dc/dd9/structDuelInfo.html#ae1a6667f934c88ad8f0b160e6a8b1190":[6,0,985,1],
 "dc/dd9/structDuelInfo.html#ae8492a9857d819fcec56a10cfd5051e2":[6,0,985,6],
-"dc/dda/classspell__pal__judgement__of__command.html":[6,0,3511],
-"dc/dda/classspell__pal__judgement__of__command.html#a1e9ecf50304f5ccd8578befea898bf81":[6,0,3511,0],
-"dc/dda/classspell__pal__judgement__of__command.html#a98a5ad12cdb54f48d6014fda3915fd70":[6,0,3511,2],
-"dc/dda/classspell__pal__judgement__of__command.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0":[6,0,3511,1]
+"dc/dda/classspell__pal__judgement__of__command.html":[6,0,3511]
 };

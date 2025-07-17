@@ -1,5 +1,8 @@
 var NAVTREEINDEX376 =
 {
+"de/df5/classWorldLocation.html#a0b3f13522d288dde484c70cbf8ef5fc5":[6,0,4278,2],
+"de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1":[6,0,4278,3],
+"de/df5/classWorldLocation.html#a424e67f5a820f3396ed6a02c3daa05fb":[6,0,4278,0],
 "de/df5/classWorldLocation.html#a48cad9058b04a5108c4b99c7fd4d0bfe":[6,0,4278,4],
 "de/df5/classWorldLocation.html#a75c59d33f5aac8da8eb9b8c5e2711acf":[6,0,4278,6],
 "de/df5/classWorldLocation.html#a7f014ec2469e93ffca3ec7bbd03b1606":[6,0,4278,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX376 =
 "df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#a6b2f01ed2ffe8113cbddd4a033886059":[6,0,799,0,6],
 "df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#a7eef651198e09cf25c2f039bcb4a1876":[6,0,799,0,5],
 "df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#a80c174a8ffa15550627ed27ab0d8925d":[6,0,799,0,4],
-"df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#aacefe32de32513bdf46c0dd526768e25":[6,0,799,0,0],
-"df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#ae45f051ab64ce1f96f32e5b8d073356e":[6,0,799,0,3],
-"df/d09/TerrainBuilder_8cpp.html":[7,0,0,0,3,2,6],
-"df/d09/TerrainBuilder_8cpp.html#a14e2a0a2291347b0ef877bc9d70f7384":[7,0,0,0,3,2,6,9]
+"df/d08/structboss__yoggsaron__neltharion_1_1boss__yoggsaron__neltharionAI.html#aacefe32de32513bdf46c0dd526768e25":[6,0,799,0,0]
 };

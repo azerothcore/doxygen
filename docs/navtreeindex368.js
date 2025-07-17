@@ -1,5 +1,8 @@
 var NAVTREEINDEX368 =
 {
+"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,0,3],
+"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
+"de/da2/classachievement__resilient__victory.html":[6,0,82],
 "de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[6,0,82,1],
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[6,0,82,0],
 "de/da2/classnpc__maxx__a__million__escort.html":[6,0,1951],
@@ -246,8 +249,5 @@ var NAVTREEINDEX368 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a84236818ce5533e977f917c764050cf5":[7,0,0,0,1,1,0,0,1,1,166],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8497edff6c43f2fafe02867e7b97479b":[7,0,0,0,1,1,0,0,1,1,31],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a854d1f745aa18ff113e63698e14421e2":[7,0,0,0,1,1,0,0,1,1,230],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8":[7,0,0,0,1,1,0,0,1,1,139],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a85a3f4d307725f1ca10691ea34aafb78":[7,0,0,0,1,1,0,0,1,1,458],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8647e748ac88d8863f6df22cc2a4ccb3":[7,0,0,0,1,1,0,0,1,1,391],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a868f093ec4ce5d1b93010f0dbf7080e7":[7,0,0,0,1,1,0,0,1,1,370]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8":[7,0,0,0,1,1,0,0,1,1,139]
 };

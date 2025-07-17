@@ -1,5 +1,8 @@
 var NAVTREEINDEX258 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51a006d7a5839598f6cc905b79e70a11":[7,0,0,0,1,3,5,6,10,78,36],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a568f8c5f16c01d67bc7311e89b9c12d0":[7,0,0,0,1,3,5,6,10,78,29],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[7,0,0,0,1,3,5,6,10,78,62],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6273288116f824c35ae0343fd0161964":[7,0,0,0,1,3,5,6,10,78,46],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63b2e64ae8d59500575435e10ae42a48":[7,0,0,0,1,3,5,6,10,78,3],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a645255314065f3f783385d240e0bfef4":[7,0,0,0,1,3,5,6,10,78,4],
@@ -50,8 +53,8 @@ var NAVTREEINDEX258 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3897,1],
 "da/d7b/MapMgr_8h.html":[7,0,0,0,1,2,26,8],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,8,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,26,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX258 =
 "da/d80/structEscort__Waypoint.html#a272aeeba02403a21c4900e6b0844a328":[6,0,1020,0],
 "da/d80/structEscort__Waypoint.html#a467a869dba9243bd165e4c480e339705":[6,0,1020,2],
 "da/d80/structEscort__Waypoint.html#a4d751062b2ab46734049bf8939a30731":[6,0,1020,3],
-"da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[6,0,1020,1],
-"da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[6,0,1020,5],
-"da/d80/structEscort__Waypoint.html#a88648b1bd70afad73d402c40abcd68b5":[6,0,1020,4],
-"da/d80/structboss__zereketh__the__unbound.html":[6,0,804]
+"da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[6,0,1020,1]
 };

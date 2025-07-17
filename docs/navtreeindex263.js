@@ -1,5 +1,8 @@
 var NAVTREEINDEX263 =
 {
+"da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[6,0,1322,2],
+"da/da9/classspell__slippery__floor__periodic.html":[6,0,3817],
+"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,3817,3],
 "da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,3817,1],
 "da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[6,0,3817,2],
 "da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[6,0,3817,0],
@@ -168,10 +171,10 @@ var NAVTREEINDEX263 =
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,3,0,3,0],
 "da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
 "da/db5/structlfg_1_1LfgProposal.html":[6,0,5,10],
-"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[6,0,5,10,7],
 "da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[5,0,18,10,7],
-"da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[5,0,18,10,10],
+"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[6,0,5,10,7],
 "da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[6,0,5,10,10],
+"da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[5,0,18,10,10],
 "da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[6,0,5,10,2],
 "da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[5,0,18,10,2],
 "da/db5/structlfg_1_1LfgProposal.html#a580dfb67b8040a6267cbd20938cb8667":[6,0,5,10,5],
@@ -186,12 +189,12 @@ var NAVTREEINDEX263 =
 "da/db5/structlfg_1_1LfgProposal.html#a81989ce9df0046cfde2d805cc4edb59f":[6,0,5,10,6],
 "da/db5/structlfg_1_1LfgProposal.html#abd3f0fe86587f41c443735164924a3ae":[6,0,5,10,11],
 "da/db5/structlfg_1_1LfgProposal.html#abd3f0fe86587f41c443735164924a3ae":[5,0,18,10,11],
-"da/db5/structlfg_1_1LfgProposal.html#ac04263773858dfe70e7dd627a62113dc":[5,0,18,10,4],
 "da/db5/structlfg_1_1LfgProposal.html#ac04263773858dfe70e7dd627a62113dc":[6,0,5,10,4],
-"da/db5/structlfg_1_1LfgProposal.html#ad67e8b90ee53576adcab0ac41e523699":[5,0,18,10,0],
+"da/db5/structlfg_1_1LfgProposal.html#ac04263773858dfe70e7dd627a62113dc":[5,0,18,10,4],
 "da/db5/structlfg_1_1LfgProposal.html#ad67e8b90ee53576adcab0ac41e523699":[6,0,5,10,0],
-"da/db5/structlfg_1_1LfgProposal.html#ad702ce8bccc9fbb81457456f1133e2e0":[5,0,18,10,1],
+"da/db5/structlfg_1_1LfgProposal.html#ad67e8b90ee53576adcab0ac41e523699":[5,0,18,10,0],
 "da/db5/structlfg_1_1LfgProposal.html#ad702ce8bccc9fbb81457456f1133e2e0":[6,0,5,10,1],
+"da/db5/structlfg_1_1LfgProposal.html#ad702ce8bccc9fbb81457456f1133e2e0":[5,0,18,10,1],
 "da/db7/classspell__dragonblight__corrosive__spit.html":[6,0,2792],
 "da/db7/classspell__dragonblight__corrosive__spit.html#a2e86aa6efe6ab137926c1dfd1bd26a95":[6,0,2792,1],
 "da/db7/classspell__dragonblight__corrosive__spit.html#a57279552b867251e9d2ee6a4ff5d7914":[6,0,2792,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX263 =
 "da/db9/classSpellEffectInfo.html#a787d203f0022a383a4d07258e3bf662f":[6,0,4061,9],
 "da/db9/classSpellEffectInfo.html#a81a2e971a5e3c12b22a2ca12719ad89f":[6,0,4061,12],
 "da/db9/classSpellEffectInfo.html#a820aa8034945a62373114a07c95455a2":[6,0,4061,2],
-"da/db9/classSpellEffectInfo.html#a82756b2eddda518fab5057a20e14a617":[6,0,4061,36],
-"da/db9/classSpellEffectInfo.html#a8748383bc9aa4d596a4c7ff5b2588844":[6,0,4061,19],
-"da/db9/classSpellEffectInfo.html#a8fdc256219d8581c07b357317fdbf9de":[6,0,4061,16],
-"da/db9/classSpellEffectInfo.html#a9bf001b21c24364026f886f08b6b5190":[6,0,4061,20]
+"da/db9/classSpellEffectInfo.html#a82756b2eddda518fab5057a20e14a617":[6,0,4061,36]
 };

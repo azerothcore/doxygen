@@ -1,5 +1,8 @@
 var NAVTREEINDEX374 =
 {
+"de/dd8/classboss__majordomo.html#aceae0dc662e93bf68556073e8b324964":[6,0,605,2],
+"de/dd8/classspell__reliquary__of__souls__fixate.html":[6,0,3707],
+"de/dd8/classspell__reliquary__of__souls__fixate.html#a04973145ed594b88afe2acc0cacb10c6":[6,0,3707,0],
 "de/dd8/classspell__reliquary__of__souls__fixate.html#a7c8ca525cd6822d21551331ce37ce5dd":[6,0,3707,2],
 "de/dd8/classspell__reliquary__of__souls__fixate.html#a90c0513a6dba2f2e6619dd8c77544991":[6,0,3707,1],
 "de/dd9/AccountMgr_8h.html":[7,0,0,0,1,2,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX374 =
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a94dd9afca122baa34b6ee5a63e8d6330":[6,0,770,0,1],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#aa227eecb791e12559015ee07a398d251":[6,0,770,0,7],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab128bbb66f0311b10e2589c5b00ba6bb":[6,0,770,0,15],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab333773a0f12ec5d4981669ef0e747b3":[6,0,770,0,2],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab5a5b9979882dd06a0fa1c0e86a768dc":[6,0,770,0,20],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#abe35a1a132a9f2ce22cedf1f10b503d8":[6,0,770,0,8],
-"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#acfe0e8fabd539e3d3a9953db94824e51":[6,0,770,0,16]
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab333773a0f12ec5d4981669ef0e747b3":[6,0,770,0,2]
 };

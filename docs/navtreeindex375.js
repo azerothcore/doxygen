@@ -1,5 +1,8 @@
 var NAVTREEINDEX375 =
 {
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ab5a5b9979882dd06a0fa1c0e86a768dc":[6,0,770,0,20],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#abe35a1a132a9f2ce22cedf1f10b503d8":[6,0,770,0,8],
+"de/de7/structboss__volkhan_1_1boss__volkhanAI.html#acfe0e8fabd539e3d3a9953db94824e51":[6,0,770,0,16],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#ae6e1bf5e0d86b6999b0357d022e80154":[6,0,770,0,4],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#aea7d66919650969e6d1edfebd976eea6":[6,0,770,0,3],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#afbab5656887a3983b70bf21452c71f0e":[6,0,770,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX375 =
 "de/df5/classOutdoorPvPNA.html#ae7dd540746946513cd7bf8e29296c068":[6,0,2357,6],
 "de/df5/classOutdoorPvPNA.html#ae9a93ddac1ca439f0f269d7ac7597593":[6,0,2357,7],
 "de/df5/classWorldLocation.html":[6,0,4278],
-"de/df5/classWorldLocation.html#a04d7814f5d846259c5af562ce856f468":[6,0,4278,1],
-"de/df5/classWorldLocation.html#a0b3f13522d288dde484c70cbf8ef5fc5":[6,0,4278,2],
-"de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1":[6,0,4278,3],
-"de/df5/classWorldLocation.html#a424e67f5a820f3396ed6a02c3daa05fb":[6,0,4278,0]
+"de/df5/classWorldLocation.html#a04d7814f5d846259c5af562ce856f468":[6,0,4278,1]
 };

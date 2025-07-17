@@ -1,5 +1,8 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380":[7,0,0,0,1,3,5,9,2,16,6,5],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab3b8ae70d7bc7f2ce141858d02c28097":[7,0,0,0,1,3,5,9,2,16,6,22],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab6e7c93923c4c56d867e5e968ea34c94":[7,0,0,0,1,3,5,9,2,16,6,24],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ad5c27996801d50d6be6f4f24bb371a85":[7,0,0,0,1,3,5,9,2,16,6,9],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ae039e5d4811a447446b8e6ede2e87b3a":[7,0,0,0,1,3,5,9,2,16,6,16],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78af940e143a749cc46af18f08274f1235e":[7,0,0,0,1,3,5,9,2,16,6,4],
@@ -245,9 +248,6 @@ var NAVTREEINDEX245 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1704,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1704,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1704,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1]
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3]
 };

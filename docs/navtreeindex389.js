@@ -1,5 +1,8 @@
 var NAVTREEINDEX389 =
 {
+"df/d8e/classspell__mage__burnout__trigger.html":[6,0,3387],
+"df/d8e/classspell__mage__burnout__trigger.html#a1f83fae2fb3dc0904ed56101e1254f5f":[6,0,3387,2],
+"df/d8e/classspell__mage__burnout__trigger.html#a4fde3142b38989cb37db76da6eada03c":[6,0,3387,0],
 "df/d8e/classspell__mage__burnout__trigger.html#aa694a1a7cbbe0f20226d7e616e19cefb":[6,0,3387,1],
 "df/d8e/structiron__golem__custodian_1_1iron__golem__custodianAI.html":[6,0,1366,0],
 "df/d8e/structiron__golem__custodian_1_1iron__golem__custodianAI.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42":[6,0,1366,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX389 =
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c":[7,0,0,0,1,3,6,8,4,3],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7":[7,0,0,0,1,3,6,8,4,12],
 "df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520":[7,0,0,0,1,3,6,8,4,2],
-"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad":[7,0,0,0,1,3,6,8,4,0],
-"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80b":[7,0,0,0,1,3,6,8,5],
-"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f":[7,0,0,0,1,3,6,8,5,0],
-"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2":[7,0,0,0,1,3,6,8,5,1]
+"df/d9a/OutdoorPvPNA_8h.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad":[7,0,0,0,1,3,6,8,4,0]
 };

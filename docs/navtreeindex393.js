@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[6,0,1681,5],
+"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[6,0,1681,4],
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1706,0],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1706,0,3],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1706,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1706,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[6,0,3478,2],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[6,0,3478,1],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[6,0,3478,3],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3478,0],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html":[7,0,0,0,1,3,2,1,2,1],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,1,2,1,5],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f":[7,0,0,0,1,3,2,1,2,1,5,0]
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3478,0]
 };

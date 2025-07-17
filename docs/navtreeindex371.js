@@ -1,5 +1,8 @@
 var NAVTREEINDEX371 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7affe8bab68da2718d92ea5c6823920d59":[7,0,0,0,1,3,5,18,47,25],
+"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8":[7,0,0,0,1,3,5,18,42],
+"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a":[7,0,0,0,1,3,5,18,42,1],
 "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a87aa2131266fab5fcd2341454c85291a":[7,0,0,0,1,3,5,18,42,0],
 "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4":[7,0,0,0,1,3,5,18,46],
 "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4a16f3963a1a993de00353e49a08605fef":[7,0,0,0,1,3,5,18,46,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX371 =
 "de/db3/classAccountActionIpLogger.html":[6,0,22],
 "de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[6,0,22,6],
 "de/db3/classAccountActionIpLogger.html#a2952adcd73d775b924671e5a69adaccb":[6,0,22,2],
-"de/db3/classAccountActionIpLogger.html#a4b71aa9c1790e6d4033d884a17ce0a2f":[6,0,22,7],
-"de/db3/classAccountActionIpLogger.html#a73cad77bd83243cb10c4a1b4d7081e0b":[6,0,22,0],
-"de/db3/classAccountActionIpLogger.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd":[6,0,22,4],
-"de/db3/classAccountActionIpLogger.html#a9c978dafb71e67b8b278806df507e34b":[6,0,22,1]
+"de/db3/classAccountActionIpLogger.html#a4b71aa9c1790e6d4033d884a17ce0a2f":[6,0,22,7]
 };

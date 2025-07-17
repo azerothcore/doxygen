@@ -1,5 +1,8 @@
 var NAVTREEINDEX329 =
 {
+"dd/d8a/structScourgeInvasionData.html#a06375cf97a023be4f3fff94cc43405a9":[6,0,2517,15],
+"dd/d8a/structScourgeInvasionData.html#a0ae2fc830e4f85fb619c38fdcad794ae":[6,0,2517,4],
+"dd/d8a/structScourgeInvasionData.html#a2a2f610d9c398bc82f4e39eea4fbadfc":[6,0,2517,11],
 "dd/d8a/structScourgeInvasionData.html#a38ead6b33009083055538fd4f0b7de35":[6,0,2517,9],
 "dd/d8a/structScourgeInvasionData.html#a40749458bbad64d1d277cd7cd9dac939":[6,0,2517,2],
 "dd/d8a/structScourgeInvasionData.html#a70127135568b3a439f040697f1dc525c":[6,0,2517,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX329 =
 "dd/d8d/DBCStores_8cpp.html#afc09b0f1883b13e6251568b320502f3a":[7,0,0,0,1,2,14,0,24],
 "dd/d8d/DBCStores_8cpp.html#afd3ac2a4a1fc0256a5214accee907107":[7,0,0,0,1,2,14,0,139],
 "dd/d8d/DBCStores_8cpp.html#afe2f32533dfea85424d5de2eed71211e":[7,0,0,0,1,2,14,0,157],
-"dd/d8d/instance__trial__of__the__crusader_8cpp.html":[7,0,0,0,1,3,5,2,1,5],
-"dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad29a01125872f689fb9953e9b3beb8e8":[7,0,0,0,1,3,5,2,1,5,3],
-"dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f":[7,0,0,0,1,3,5,2,1,5,2],
-"dd/d8e/classspell__gen__despawn__self.html":[6,0,2935]
+"dd/d8d/instance__trial__of__the__crusader_8cpp.html":[7,0,0,0,1,3,5,2,1,5]
 };

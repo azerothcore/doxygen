@@ -1,5 +1,8 @@
 var NAVTREEINDEX248 =
 {
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#adc3d04d66f2b4de7a970f2cd5e476a2b":[6,0,1760,0,4],
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#afa6825696b0622849f877b392df4b326":[6,0,1760,0,5],
+"da/d07/classByteBuffer.html":[6,0,822],
 "da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[6,0,822,20],
 "da/d07/classByteBuffer.html#a00ca375ab87d05aee2a7444265664623":[6,0,822,9],
 "da/d07/classByteBuffer.html#a0736aaa59564526e948667e4c5178d66":[6,0,822,56],
@@ -52,8 +55,8 @@ var NAVTREEINDEX248 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[6,0,822,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[6,0,822,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[6,0,822,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,822,59],
 "da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,822,58],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,822,59],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[6,0,822,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[6,0,822,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[6,0,822,69],
@@ -246,8 +249,5 @@ var NAVTREEINDEX248 =
 "da/d16/WorldConfig_8cpp.html":[7,0,0,0,1,2,48,3],
 "da/d16/classspell__q10714__on__spirits__wings.html":[6,0,3594],
 "da/d16/classspell__q10714__on__spirits__wings.html#a2b4811bf7e60361e13bc382e62173cee":[6,0,3594,1],
-"da/d16/classspell__q10714__on__spirits__wings.html#a73358b2272ad12faef006b1ef633cac0":[6,0,3594,4],
-"da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[6,0,3594,3],
-"da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[6,0,3594,2],
-"da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[6,0,3594,0]
+"da/d16/classspell__q10714__on__spirits__wings.html#a73358b2272ad12faef006b1ef633cac0":[6,0,3594,4]
 };

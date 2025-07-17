@@ -1,5 +1,8 @@
 var NAVTREEINDEX392 =
 {
+"df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[6,0,310,138],
+"df/da7/classBattleground.html#a88582ec11d22cae371ac6ffcc316877c":[6,0,310,232],
+"df/da7/classBattleground.html#a894561102fd36f3cad0e2861d0b8821d":[6,0,310,156],
 "df/da7/classBattleground.html#a899679fefc6ec036466c4abe2e71d25b":[6,0,310,164],
 "df/da7/classBattleground.html#a89ad7beedc7aca0506c87d983b74eee4":[6,0,310,1],
 "df/da7/classBattleground.html#a8a2f64b459fdd5c3fe6c556a44202a7f":[6,0,310,207],
@@ -246,8 +249,5 @@ var NAVTREEINDEX392 =
 "df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[6,0,1681,0],
 "df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[6,0,1681,2],
 "df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[6,0,1681,1],
-"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[6,0,1681,3],
-"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[6,0,1681,5],
-"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[6,0,1681,4],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1706,0]
+"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[6,0,1681,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX290 =
 {
+"db/dca/structboss__felmyst.html#a6fc19cd8b8c7891a912a50fcd673d96f":[6,0,462,3],
+"db/dca/structboss__felmyst.html#a7b4230a28ad7d8136ae16ada9d471a39":[6,0,462,11],
+"db/dca/structboss__felmyst.html#a96aa8f038e3f93aa7628ce3f28ef39ff":[6,0,462,0],
 "db/dca/structboss__felmyst.html#a9b603cd704126cc6a6bbd65e2bb702e5":[6,0,462,8],
 "db/dca/structboss__felmyst.html#adc58c6e8aef0debe6689e42cebff5aa2":[6,0,462,12],
 "db/dca/structboss__felmyst.html#adf8cd17c20be6acbe381777e8c0efdba":[6,0,462,5],
@@ -19,10 +22,10 @@ var NAVTREEINDEX290 =
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3650],
@@ -246,8 +249,5 @@ var NAVTREEINDEX290 =
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cabe756b5d07f57fde75e9f48c89b1e0c4":[7,0,0,0,1,3,5,6,12,89,39],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac1fe7428f588c6a1cd6cf964f9a8476b":[7,0,0,0,1,3,5,6,12,89,40],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac328bd5f517220391177df9f3a9706ef":[7,0,0,0,1,3,5,6,12,89,5],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac5aa07db44fa4869073c53096da122f7":[7,0,0,0,1,3,5,6,12,89,9],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac5bf5d4145cfe3d24a5ff12dbcae4a7d":[7,0,0,0,1,3,5,6,12,89,14],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cad5bdd2899696e7ad3be9ec7fc86e1783":[7,0,0,0,1,3,5,6,12,89,1],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cadb9100b938e94ba6c6eff80c256a149e":[7,0,0,0,1,3,5,6,12,89,35]
+"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac5aa07db44fa4869073c53096da122f7":[7,0,0,0,1,3,5,6,12,89,9]
 };

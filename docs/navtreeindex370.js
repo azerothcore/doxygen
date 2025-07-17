@@ -1,5 +1,8 @@
 var NAVTREEINDEX370 =
 {
+"de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[6,0,700,1],
+"de/da5/classinstance__ragefire__chasm.html":[6,0,1319],
+"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[6,0,1319,2],
 "de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[6,0,1319,1],
 "de/da5/vmapexport_8cpp.html":[7,0,0,0,3,4,12],
 "de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[7,0,0,0,3,4,12,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX370 =
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ae5e5801f9384f7b840baa9520c517e9f":[7,0,0,0,1,3,5,18,47,15],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af30a3997bcce6e167066588753227865":[7,0,0,0,1,3,5,18,47,6],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af7887c8bad4249d2fe89473db657ff56":[7,0,0,0,1,3,5,18,47,23],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af793de494eac5a1e5c7539c968c33656":[7,0,0,0,1,3,5,18,47,9],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7affe8bab68da2718d92ea5c6823920d59":[7,0,0,0,1,3,5,18,47,25],
-"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8":[7,0,0,0,1,3,5,18,42],
-"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a":[7,0,0,0,1,3,5,18,42,1]
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af793de494eac5a1e5c7539c968c33656":[7,0,0,0,1,3,5,18,47,9]
 };

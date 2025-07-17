@@ -1,5 +1,8 @@
 var NAVTREEINDEX328 =
 {
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa51c253238b3d595a7ee2ce267a8c3ef":[7,0,0,0,1,3,3,2,12,10],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97":[7,0,0,0,1,3,3,2,12,14],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebabec129b310b63190274ed89412ae2f62":[7,0,0,0,1,3,3,2,12,6],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebac87af34a154de01ca09a6c1c7a98ffb6":[7,0,0,0,1,3,3,2,12,11],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebae79956374201f80e62918bbd248a6e8f":[7,0,0,0,1,3,3,2,12,4],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaebe347b189e409542b67ed453f873b96":[7,0,0,0,1,3,3,2,12,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX328 =
 "dd/d8a/classspell__putricide__slime__puddle.html#a9bcc80bd2a8df20ac7fc8f2256f519d9":[6,0,3579,3],
 "dd/d8a/classspell__putricide__slime__puddle.html#ac9d4842632431e52932f66d09042ea70":[6,0,3579,2],
 "dd/d8a/classspell__putricide__slime__puddle.html#afc76149cb44a4d2aab48350fb4392036":[6,0,3579,0],
-"dd/d8a/structScourgeInvasionData.html":[6,0,2517],
-"dd/d8a/structScourgeInvasionData.html#a06375cf97a023be4f3fff94cc43405a9":[6,0,2517,15],
-"dd/d8a/structScourgeInvasionData.html#a0ae2fc830e4f85fb619c38fdcad794ae":[6,0,2517,4],
-"dd/d8a/structScourgeInvasionData.html#a2a2f610d9c398bc82f4e39eea4fbadfc":[6,0,2517,11]
+"dd/d8a/structScourgeInvasionData.html":[6,0,2517]
 };

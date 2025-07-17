@@ -1,5 +1,8 @@
 var NAVTREEINDEX339 =
 {
+"dd/df2/classat__icc__start__blood__quickening.html#a814670e127b1eace6068a553b23d00f7":[6,0,225,1],
+"dd/df4/classachievement__killed__exp__or__honor__target.html":[6,0,65],
+"dd/df4/classachievement__killed__exp__or__honor__target.html#aad432878c97af698dd1cc4019d716281":[6,0,65,0],
 "dd/df4/classachievement__killed__exp__or__honor__target.html#ace8fc68ebb73e39626797be4caa45a3c":[6,0,65,1],
 "dd/df4/classgo__amberpine__outhouse.html":[6,0,1108],
 "dd/df4/classgo__amberpine__outhouse.html#a7cbfc3a091ad2332fd46140a24ac4e37":[6,0,1108,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX339 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04":[6,0,1707,0,7],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[6,0,1707,0,2],
 "de/d02/structnpc__pet__dk__ghoul.html":[6,0,2013],
-"de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2013,1],
-"de/d02/structnpc__pet__dk__ghoul.html#aff3b8dc660a7e263c6e30960819b4ffa":[6,0,2013,0],
-"de/d03/Channel_8h.html":[7,0,0,0,1,2,11,0,1],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57":[7,0,0,0,1,2,11,0,1,5]
+"de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2013,1]
 };

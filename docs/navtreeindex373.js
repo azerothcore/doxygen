@@ -1,5 +1,8 @@
 var NAVTREEINDEX373 =
 {
+"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,1,0,2,3,4],
+"de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[7,0,0,0,1,3,4,1,0,2,5],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,2,4],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,2,4,3],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,2,4,1],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,2,4,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX373 =
 "de/dd8/classboss__majordomo.html":[6,0,605],
 "de/dd8/classboss__majordomo.html#a69c2c5fc557b02c9a0b26bdb7b57443c":[6,0,605,4],
 "de/dd8/classboss__majordomo.html#a77a1ff3d2c7aafecad9f78fcd87536b1":[6,0,605,1],
-"de/dd8/classboss__majordomo.html#a8d1b625df61b27fef0bfe6f635a3b7ae":[6,0,605,3],
-"de/dd8/classboss__majordomo.html#aceae0dc662e93bf68556073e8b324964":[6,0,605,2],
-"de/dd8/classspell__reliquary__of__souls__fixate.html":[6,0,3707],
-"de/dd8/classspell__reliquary__of__souls__fixate.html#a04973145ed594b88afe2acc0cacb10c6":[6,0,3707,0]
+"de/dd8/classboss__majordomo.html#a8d1b625df61b27fef0bfe6f635a3b7ae":[6,0,605,3]
 };

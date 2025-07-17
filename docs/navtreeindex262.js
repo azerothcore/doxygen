@@ -1,5 +1,8 @@
 var NAVTREEINDEX262 =
 {
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,2,22,5,8],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2":[7,0,0,0,1,3,2,22,5,3],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8":[7,0,0,0,1,3,2,22,5,6],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937":[7,0,0,0,1,3,2,22,5,5],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814":[7,0,0,0,1,3,2,22,5,4],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7":[7,0,0,0,1,3,2,22,5,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX262 =
 "da/da8/structboss__xevozz_1_1boss__xevozzAI.html#ab6e7bb57110831079ede943a74641bd4":[6,0,780,0,8],
 "da/da8/structboss__xevozz_1_1boss__xevozzAI.html#ad47008e9044815cc4475adbaf3ece543":[6,0,780,0,5],
 "da/da9/classinstance__ruby__sanctum.html":[6,0,1322],
-"da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[6,0,1322,1],
-"da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[6,0,1322,2],
-"da/da9/classspell__slippery__floor__periodic.html":[6,0,3817],
-"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,3817,3]
+"da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[6,0,1322,1]
 };

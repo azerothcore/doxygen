@@ -1,5 +1,8 @@
 var NAVTREEINDEX325 =
 {
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a6db6528cf3d53bc6de9caf55fb18a28b":[6,0,1843,0,1],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a7c911cf24b21c959ee5c62d664e1879a":[6,0,1843,0,5],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#ab37c5c22456c06f78b53505ae7973658":[6,0,1843,0,3],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#aeff0f7526f12f0e09e53c0e43a423799":[6,0,1843,0,8],
 "dd/d46/PetPackets_8h.html":[7,0,0,0,1,2,39,0,20],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[6,0,90],
@@ -246,8 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[6,0,2963,1],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[6,0,1894,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[6,0,1894,0,4],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1894,0,0],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a878f26cd41ccb9d777f9db00e2e30568":[6,0,1894,0,2],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30":[6,0,1894,0,7],
-"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#aaf329f0160efa778abdebf86b1cf230b":[6,0,1894,0,1]
+"dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[6,0,1894,0,0]
 };

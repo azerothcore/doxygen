@@ -1,5 +1,8 @@
 var NAVTREEINDEX275 =
 {
+"db/d30/classPlayerDumpReader.html":[6,0,2410],
+"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2410,1],
+"db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2410,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2410,0],
 "db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2410,2],
 "db/d30/structboss__hydromancer__thespia.html":[6,0,537],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[6,0,1958,9],
 "db/d41/structnpc__sentinel__leader.html":[6,0,2102],
 "db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[6,0,2102,0],
-"db/d41/structnpc__sentinel__leader.html#a6d51ada16fac1f5eda8b09aede746a4b":[6,0,2102,2],
-"db/d41/structnpc__sentinel__leader.html#a803c324e790cd74e90ff6c2adde37ba3":[6,0,2102,6],
-"db/d41/structnpc__sentinel__leader.html#a92c83a7fcc04df1db3be1d16f4a461d0":[6,0,2102,1],
-"db/d41/structnpc__sentinel__leader.html#aa689bb8189eb8cf842a0aa63bb9f1a73":[6,0,2102,4]
+"db/d41/structnpc__sentinel__leader.html#a6d51ada16fac1f5eda8b09aede746a4b":[6,0,2102,2]
 };

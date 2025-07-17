@@ -1,5 +1,8 @@
 var NAVTREEINDEX327 =
 {
+"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a37a04ac2d6f30e415410f3806abaabb8":[6,0,2183,0,2],
+"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#a6edd3dc8070edd031143e7a750f4d7a8":[6,0,2183,0,6],
+"dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html#ad35a26c28485b1976c55d49fcd32fb19":[6,0,2183,0,3],
 "dd/d6b/LFGPackets_8h.html":[7,0,0,0,1,2,39,0,14],
 "dd/d6c/classVehicleDespawnEvent.html":[6,0,4213],
 "dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573":[6,0,4213,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba420c31da23089399832d6e0e451ab290":[7,0,0,0,1,3,3,2,12,0],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba51685353084b593adaf0f84b25ab71bb":[7,0,0,0,1,3,3,2,12,8],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba834574fed20fd18467e66663074a9aa4":[7,0,0,0,1,3,3,2,12,12],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba9737bb7a7b903e68e31a18aa1aa331df":[7,0,0,0,1,3,3,2,12,2],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa51c253238b3d595a7ee2ce267a8c3ef":[7,0,0,0,1,3,3,2,12,10],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97":[7,0,0,0,1,3,3,2,12,14],
-"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebabec129b310b63190274ed89412ae2f62":[7,0,0,0,1,3,3,2,12,6]
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba9737bb7a7b903e68e31a18aa1aa331df":[7,0,0,0,1,3,3,2,12,2]
 };
