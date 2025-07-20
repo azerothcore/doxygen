@@ -1,5 +1,17 @@
 var NAVTREEINDEX217 =
 {
+"d8/d74/classWorldSession.html#aa80c54788709121f97341e939c1241a7":[4,1,19,469],
+"d8/d74/classWorldSession.html#aa8420fcbcfb81b1e76d2e70e8dc399da":[4,1,19,550],
+"d8/d74/classWorldSession.html#aa85ccd0495e716e1c16206f1537afe84":[4,1,19,511],
+"d8/d74/classWorldSession.html#aa9329d3f6247866e4487f3d70b0210d2":[4,1,19,54],
+"d8/d74/classWorldSession.html#aa9a93e7e9225ac1972872ae207b5bce8":[4,1,19,538],
+"d8/d74/classWorldSession.html#aa9fa6163391e03108b723196ab3d2474":[4,1,19,131],
+"d8/d74/classWorldSession.html#aaa1c32324631882129fb6b00c262947b":[4,1,19,388],
+"d8/d74/classWorldSession.html#aaaa2363b99d5a167cc35d223a01a2781":[4,1,19,580],
+"d8/d74/classWorldSession.html#aabdaa78e03698a725f93daddaadd3a87":[4,1,19,98],
+"d8/d74/classWorldSession.html#aac6a62ef3b8d4d5f54aea3daadaea095":[4,1,19,149],
+"d8/d74/classWorldSession.html#aad2b19923819aecda41a4f108ad510a4":[4,1,19,211],
+"d8/d74/classWorldSession.html#aad5917abd421f7b0f1a1774bd952f29b":[4,1,19,365],
 "d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[4,1,19,537],
 "d8/d74/classWorldSession.html#aaec211170af12b890ad586005a16661d":[4,1,19,215],
 "d8/d74/classWorldSession.html#aaeca041a436f4516a75eeba5d3361c20":[4,1,19,255],
@@ -237,17 +249,5 @@ var NAVTREEINDEX217 =
 "d8/d77/classAchievementMgr.html#aaa529c5d2eab398a6e2acaaf838f3d25":[6,0,115,37],
 "d8/d77/classAchievementMgr.html#ab0b79ee6326682753e8956d4b3681e7e":[6,0,115,36],
 "d8/d77/classAchievementMgr.html#ac76475c91a9869fdf4b78b06e5316a42":[6,0,115,27],
-"d8/d77/classAchievementMgr.html#acfda21b0f7b1174f8c890b926cbd1c09":[6,0,115,2],
-"d8/d77/classAchievementMgr.html#ad333f0b41c7b42059e64acd42bacb631":[6,0,115,9],
-"d8/d77/classAchievementMgr.html#ad46f33eeab1bd906f34ef3196ef78e47":[6,0,115,24],
-"d8/d77/classAchievementMgr.html#ada3b186b9b3b44c40c5f5c9c22ac33de":[6,0,115,20],
-"d8/d77/classAchievementMgr.html#aebe4155ad5883865d85abf6a8ec48643":[6,0,115,30],
-"d8/d77/classAchievementMgr.html#af7d09a44aa2a1e4021d0ebfe928d3c3e":[6,0,115,35],
-"d8/d77/classachievement__save__the__day.html":[6,0,85],
-"d8/d77/classachievement__save__the__day.html#a193e4060b6634a87b499b7c8a5e287a1":[6,0,85,0],
-"d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[6,0,85,1],
-"d8/d78/classDeathEvent.html":[6,0,958],
-"d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,958,2],
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,958,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,958,1]
+"d8/d77/classAchievementMgr.html#acfda21b0f7b1174f8c890b926cbd1c09":[6,0,115,2]
 };

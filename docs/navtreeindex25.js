@@ -1,5 +1,13 @@
 var NAVTREEINDEX25 =
 {
+"d1/d16/classSpell.html#a6634a11a4bb1806304a33e3bc10b7c28":[6,0,2582,304],
+"d1/d16/classSpell.html#a66c11a144d72113d243e8552c7455d15":[6,0,2582,12],
+"d1/d16/classSpell.html#a66c7bea2221cf2f2ffecdcdd89173ed3":[6,0,2582,291],
+"d1/d16/classSpell.html#a684a3106987a62ce93040b5b5cf76771":[6,0,2582,69],
+"d1/d16/classSpell.html#a68b7071f7708ddf46cb20e2e76e414ad":[6,0,2582,217],
+"d1/d16/classSpell.html#a68f9348b9f781dab56d7d8a194822b3e":[6,0,2582,124],
+"d1/d16/classSpell.html#a69206f5984e77ba464a4f4a135592a94":[6,0,2582,253],
+"d1/d16/classSpell.html#a6997d5f606e25d2380de24ef96825257":[6,0,2582,311],
 "d1/d16/classSpell.html#a69d7714c4cbd81d3dbe8e16cc8cb74a3":[6,0,2582,321],
 "d1/d16/classSpell.html#a6aa6a909f19a729eed135e2108083038":[6,0,2582,70],
 "d1/d16/classSpell.html#a6ad76e29c8c7a1f9242f9b59744d647c":[6,0,2582,31],
@@ -241,13 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#a40078609a67aa029f71df7971449b056":[6,0,741,0,2],
 "d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#aaab278dc6557a49624099b0064b8d6f3":[6,0,741,0,0],
 "d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ab0715e75a475409ffb6c623bf363a65d":[6,0,741,0,1],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ad3ed8edb4d06e5b98a5afc82170f3233":[6,0,741,0,3],
-"d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
-"d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
-"d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,122],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,110],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,122,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2]
+"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ad3ed8edb4d06e5b98a5afc82170f3233":[6,0,741,0,3]
 };

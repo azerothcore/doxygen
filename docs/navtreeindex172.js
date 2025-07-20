@@ -1,5 +1,14 @@
 var NAVTREEINDEX172 =
 {
+"d6/d6e/structboss__malchezaar.html":[6,0,607],
+"d6/d6e/structboss__malchezaar.html#a0d91be1d9ad3a0876bec8b694edd44be":[6,0,607,6],
+"d6/d6e/structboss__malchezaar.html#a1b48e2c117ac4c60f11310e43d34264b":[6,0,607,3],
+"d6/d6e/structboss__malchezaar.html#a25ef9558fcccee430ef92703af903d91":[6,0,607,7],
+"d6/d6e/structboss__malchezaar.html#a2c825f7f116891601ef2c3809c7db15c":[6,0,607,8],
+"d6/d6e/structboss__malchezaar.html#a354e07cb1f9ae86d96d07cb80f911474":[6,0,607,1],
+"d6/d6e/structboss__malchezaar.html#a55b8c2dd25af193e078fdb0315863783":[6,0,607,14],
+"d6/d6e/structboss__malchezaar.html#a58d1823940988f6f55aec8a5da44fd54":[6,0,607,10],
+"d6/d6e/structboss__malchezaar.html#a5cfd1284c572f72ecde9d9ad94922d2b":[6,0,607,5],
 "d6/d6e/structboss__malchezaar.html#a68adb0f05177316f9e39a48669f60829":[6,0,607,0],
 "d6/d6e/structboss__malchezaar.html#a72b54fd786c064114df3b8a09835e841":[6,0,607,9],
 "d6/d6e/structboss__malchezaar.html#a7695c12779ada381cb04085dcf8dbb2c":[6,0,607,15],
@@ -83,8 +92,8 @@ var NAVTREEINDEX172 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3391,2],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d79/classOPvPCapturePoint.html#a379095aef155e6cdd69938eab30d7c65":[6,0,2329,25],
 "d6/d79/classOPvPCapturePoint.html#a3d557c7685baef8778126330c9dcf373":[6,0,2329,35],
 "d6/d79/classOPvPCapturePoint.html#a44bf910f32248541761a26e2e071f823":[6,0,2329,38],
-"d6/d79/classOPvPCapturePoint.html#a53df9b5e7d63e012afc8b124e3823a46":[6,0,2329,27],
-"d6/d79/classOPvPCapturePoint.html#a5f3c23c3ccfaeb376d6c4efe77ce72b6":[6,0,2329,30],
-"d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6":[6,0,2329,14],
-"d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3":[6,0,2329,11],
-"d6/d79/classOPvPCapturePoint.html#a7c9283a6f080f7164d9506510e95e383":[6,0,2329,13],
-"d6/d79/classOPvPCapturePoint.html#a7d0292f1d050b6474599041de0653dad":[6,0,2329,6],
-"d6/d79/classOPvPCapturePoint.html#a7eddfb7e0da2e639b06fe7ed8315a598":[6,0,2329,2],
-"d6/d79/classOPvPCapturePoint.html#a8cb769bf871ad8cc83cbf7918e05271c":[6,0,2329,24],
-"d6/d79/classOPvPCapturePoint.html#a8ddce56a5ea26767577156a14ee07a65":[6,0,2329,20],
-"d6/d79/classOPvPCapturePoint.html#a904c7e55026845730633727e7af129a9":[6,0,2329,33]
+"d6/d79/classOPvPCapturePoint.html#a53df9b5e7d63e012afc8b124e3823a46":[6,0,2329,27]
 };

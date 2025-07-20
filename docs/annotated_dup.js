@@ -3989,6 +3989,7 @@ var annotated_dup =
     [ "spell_pet_dk_gargoyle_strike", "d1/d21/classspell__pet__dk__gargoyle__strike.html", "d1/d21/classspell__pet__dk__gargoyle__strike" ],
     [ "spell_pet_gen_valkyr_guardian_smite", "d0/dca/classspell__pet__gen__valkyr__guardian__smite.html", "d0/dca/classspell__pet__gen__valkyr__guardian__smite" ],
     [ "spell_pet_hit_expertise_scalling", "df/db1/classspell__pet__hit__expertise__scalling.html", "df/db1/classspell__pet__hit__expertise__scalling" ],
+    [ "spell_pet_intellect_spirit_resilience_scaling", "d0/d3f/classspell__pet__intellect__spirit__resilience__scaling.html", "d0/d3f/classspell__pet__intellect__spirit__resilience__scaling" ],
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling" ],
     [ "spell_pilgrims_bounty_feast_on_generic", "db/d22/classspell__pilgrims__bounty__feast__on__generic.html", "db/d22/classspell__pilgrims__bounty__feast__on__generic" ],
     [ "spell_pilgrims_bounty_food", "dc/dd9/classspell__pilgrims__bounty__food.html", "dc/dd9/classspell__pilgrims__bounty__food" ],

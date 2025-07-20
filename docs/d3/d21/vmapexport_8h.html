@@ -342,10 +342,10 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   55</span> </div>
 <div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> mdl.ConvertToVMAPModel(output.c_str());</div>
 <div class="line"><span class="lineno">   57</span>}</div>
-<div class="ttc" id="aSystem_8cpp_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../d3/d7c/System_8cpp.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition</b> System.cpp:143</div></div>
+<div class="ttc" id="aSystem_8cpp_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../d3/d7c/System_8cpp.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition</b> System.cpp:144</div></div>
 <div class="ttc" id="aclassModel_html"><div class="ttname"><a href="../../d6/d18/classModel.html">Model</a></div><div class="ttdef"><b>Definition</b> model.h:32</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00143">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00032">Model::open()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00144">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00032">Model::open()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WMORoot::open()</a>.</p>
 
@@ -495,21 +495,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
-<div class="line"><span class="lineno">  145</span>    <span class="keywordtype">int</span> fp = _open(FileName, <a class="code hl_define" href="../../d3/d7c/System_8cpp.html#a57327627637248986aec56f3345e38b1">OPEN_FLAGS</a>);</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">if</span> (fp != -1)</div>
-<div class="line"><span class="lineno">  147</span>    {</div>
-<div class="line"><span class="lineno">  148</span>        _close(fp);</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  150</span>    }</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  153</span>}</div>
-<div class="ttc" id="aSystem_8cpp_html_a57327627637248986aec56f3345e38b1"><div class="ttname"><a href="../../d3/d7c/System_8cpp.html#a57327627637248986aec56f3345e38b1">OPEN_FLAGS</a></div><div class="ttdeci">#define OPEN_FLAGS</div><div class="ttdef"><b>Definition</b> System.cpp:56</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordtype">int</span> fp = _open(FileName, <a class="code hl_define" href="../../d3/d7c/System_8cpp.html#a57327627637248986aec56f3345e38b1">OPEN_FLAGS</a>);</div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> (fp != -1)</div>
+<div class="line"><span class="lineno">  148</span>    {</div>
+<div class="line"><span class="lineno">  149</span>        _close(fp);</div>
+<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  151</span>    }</div>
+<div class="line"><span class="lineno">  152</span> </div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+<div class="ttc" id="aSystem_8cpp_html_a57327627637248986aec56f3345e38b1"><div class="ttname"><a href="../../d3/d7c/System_8cpp.html#a57327627637248986aec56f3345e38b1">OPEN_FLAGS</a></div><div class="ttdeci">#define OPEN_FLAGS</div><div class="ttdef"><b>Definition</b> System.cpp:57</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">OPEN_FLAGS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">OPEN_FLAGS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01034">ExtractDBCFiles()</a>, <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l01159">LoadCommonMPQFiles()</a>, <a class="el" href="../../#l01140">LoadLocaleMPQFiles()</a>, and <a class="el" href="../../#l01177">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01038">ExtractDBCFiles()</a>, <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l01163">LoadCommonMPQFiles()</a>, <a class="el" href="../../#l01144">LoadLocaleMPQFiles()</a>, and <a class="el" href="../../#l01181">main()</a>.</p>
 
 </div>
 </div>
@@ -629,7 +629,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d3/d21/vmapexport_8h.html">vmapexport.h</a></li>
-    <li class="footer">Generated on Sat Jul 19 2025 06:23:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jul 20 2025 06:23:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

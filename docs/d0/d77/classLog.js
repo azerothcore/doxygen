@@ -33,7 +33,7 @@ var classLog =
     [ "ShouldLog", "d0/d77/classLog.html#a28f2b0881d40f20481dc38cda915f84b", null ],
     [ "write", "d0/d77/classLog.html#a9a5fc1e92a616d33130ef832cbbd3918", null ],
     [ "_ioContext", "d0/d77/classLog.html#adec17b0dcf06807dd40a91f0eca4b8a4", null ],
-    [ "_strand", "d0/d77/classLog.html#a401eaffaa55995636f992269d4ca3ae6", null ],
+    [ "_strand", "d0/d77/classLog.html#ad8eddd3d71d1a145d05c2fd45316d795", null ],
     [ "appenderFactory", "d0/d77/classLog.html#aea6024bb1b054aef15a7851238721d24", null ],
     [ "AppenderId", "d0/d77/classLog.html#a90022da6d95dcba62a2b1a57c351939b", null ],
     [ "appenders", "d0/d77/classLog.html#a589c40e90cd9ed521b525fd42010d33d", null ],

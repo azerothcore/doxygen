@@ -422,6 +422,7 @@ var hierarchy =
         [ "spell_pal_seal_of_light", "da/dbb/classspell__pal__seal__of__light.html", null ],
         [ "spell_pal_seal_of_righteousness", "d0/d96/classspell__pal__seal__of__righteousness.html", null ],
         [ "spell_pet_hit_expertise_scalling", "df/db1/classspell__pet__hit__expertise__scalling.html", null ],
+        [ "spell_pet_intellect_spirit_resilience_scaling", "d0/d3f/classspell__pet__intellect__spirit__resilience__scaling.html", null ],
         [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", null ],
         [ "spell_pilgrims_bounty_food_aura", "df/d66/classspell__pilgrims__bounty__food__aura.html", null ],
         [ "spell_pilgrims_bounty_serve_generic", "d9/d31/classspell__pilgrims__bounty__serve__generic.html", null ],

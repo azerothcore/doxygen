@@ -1,5 +1,13 @@
 var NAVTREEINDEX35 =
 {
+"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[6,0,1,0,3],
+"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,3,0,3],
+"d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[6,0,1,0,4],
+"d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[5,0,3,0,4],
+"d1/d71/structnpc__frost__tomb.html":[6,0,1789],
+"d1/d71/structnpc__frost__tomb.html#a40a14647eaf9f2c5bd11c094f0aadb79":[6,0,1789,1],
+"d1/d71/structnpc__frost__tomb.html#a456fcd5dd3f504954a74fc068f253dc2":[6,0,1789,3],
+"d1/d71/structnpc__frost__tomb.html#a9c7abe1dc25b807d34f1ed818ab639ef":[6,0,1789,0],
 "d1/d71/structnpc__frost__tomb.html#af2122e9c8cb206151f631659c7d167da":[6,0,1789,2],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html":[6,0,706,0],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html#a25ae2943a7ce9a1f459cfd1313c84c49":[6,0,706,0,5],
@@ -232,8 +240,8 @@ var NAVTREEINDEX35 =
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1360,2],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,35],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[6,0,35,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[6,0,35,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d80/classnpc__thrall__bfu.html#a28b4030d189e4d967a1b16f3464c14ba":[6,0,2173,2],
 "d1/d80/classnpc__thrall__bfu.html#a43eb37b9a0cf06be0e2cb6180730b09f":[6,0,2173,1],
 "d1/d80/classnpc__thrall__bfu.html#a71a7108464de9245879c8a1c08932e2a":[6,0,2173,3],
-"d1/d80/classnpc__thrall__bfu.html#aea62ed8489bea23772a52ddefbf9c60e":[6,0,2173,4],
-"d1/d80/classnpc__thrall__bfu.html#aee56e54615e2696dcd0e7299e4f416b5":[6,0,2173,5],
-"d1/d81/ScriptObject_8cpp.html":[7,0,0,0,1,2,38,5],
-"d1/d81/ScriptObject_8cpp.html#a37068ff91511f7df359c3cf9be0e8d72":[7,0,0,0,1,2,38,5,0],
-"d1/d81/ScriptObject_8cpp.html#aacb4fdedfc86aea6c855e3be41e0c6e1":[7,0,0,0,1,2,38,5,2],
-"d1/d81/ScriptObject_8cpp.html#aad36f2a434a53db1767a65fa0a1dffdc":[7,0,0,0,1,2,38,5,1],
-"d1/d81/classboss__yoggsaron__neltharion.html":[6,0,799],
-"d1/d81/classboss__yoggsaron__neltharion.html#a9910e0d6043e7738cba0fe9ae7e92898":[6,0,799,1],
-"d1/d81/classboss__yoggsaron__neltharion.html#abce5f59c35f7af3e1d5b30cc55ff48e6":[6,0,799,2]
+"d1/d80/classnpc__thrall__bfu.html#aea62ed8489bea23772a52ddefbf9c60e":[6,0,2173,4]
 };

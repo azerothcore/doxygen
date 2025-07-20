@@ -134,6 +134,7 @@ var spell__generic_8cpp =
     [ "spell_gen_sober_up", "d0/dfe/classspell__gen__sober__up.html", "d0/dfe/classspell__gen__sober__up" ],
     [ "spell_gen_steal_weapon", "de/de0/classspell__gen__steal__weapon.html", "de/de0/classspell__gen__steal__weapon" ],
     [ "spell_gen_set_health", "dd/dfd/classspell__gen__set__health.html", "dd/dfd/classspell__gen__set__health" ],
+    [ "spell_pet_intellect_spirit_resilience_scaling", "d0/d3f/classspell__pet__intellect__spirit__resilience__scaling.html", "d0/d3f/classspell__pet__intellect__spirit__resilience__scaling" ],
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html", "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling" ],
     [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
     [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", "d1/d43/classspell__gen__translocate" ],

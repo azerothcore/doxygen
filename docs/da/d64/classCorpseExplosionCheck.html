@@ -163,9 +163,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1098</span>: <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">_casterGUID</a>(casterGUID), <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">_allowGhoul</a>(allowGhoul) { }</div>
-<div class="ttc" id="aclassCorpseExplosionCheck_html_a497df87745f452716c652e9b1be6d46f"><div class="ttname"><a href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">CorpseExplosionCheck::_casterGUID</a></div><div class="ttdeci">ObjectGuid _casterGUID</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1114</div></div>
-<div class="ttc" id="aclassCorpseExplosionCheck_html_abd42a0731af969ceccdfceae722ba276"><div class="ttname"><a href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">CorpseExplosionCheck::_allowGhoul</a></div><div class="ttdeci">bool _allowGhoul</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1115</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1101</span>: <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">_casterGUID</a>(casterGUID), <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">_allowGhoul</a>(allowGhoul) { }</div>
+<div class="ttc" id="aclassCorpseExplosionCheck_html_a497df87745f452716c652e9b1be6d46f"><div class="ttname"><a href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">CorpseExplosionCheck::_casterGUID</a></div><div class="ttdeci">ObjectGuid _casterGUID</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1117</div></div>
+<div class="ttc" id="aclassCorpseExplosionCheck_html_abd42a0731af969ceccdfceae722ba276"><div class="ttname"><a href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">CorpseExplosionCheck::_allowGhoul</a></div><div class="ttdeci">bool _allowGhoul</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1118</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -193,23 +193,23 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1101</span>    {</div>
-<div class="line"><span class="lineno"> 1102</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = obj-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
-<div class="line"><span class="lineno"> 1103</span>        {</div>
-<div class="line"><span class="lineno"> 1104</span>            <span class="keywordflow">if</span> ((target-&gt;isDead() || (<a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">_allowGhoul</a> &amp;&amp; target-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afaba2ba84c4b5d02f3948821fd5850b3">NPC_DK_GHOUL</a> &amp;&amp; target-&gt;GetOwnerGUID() == <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">_casterGUID</a>))</div>
-<div class="line"><span class="lineno"> 1105</span>                    &amp;&amp; !(target-&gt;GetCreatureTypeMask() &amp; <a class="code hl_variable" href="../../de/d0a/SharedDefines_8h.html#a6aeea8e1947484ee2c5735a7404004af">CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</a>)</div>
-<div class="line"><span class="lineno"> 1106</span>                    &amp;&amp; target-&gt;GetDisplayId() == target-&gt;GetNativeDisplayId())</div>
-<div class="line"><span class="lineno"> 1107</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1108</span>        }</div>
-<div class="line"><span class="lineno"> 1109</span> </div>
-<div class="line"><span class="lineno"> 1110</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1111</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1104</span>    {</div>
+<div class="line"><span class="lineno"> 1105</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = obj-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
+<div class="line"><span class="lineno"> 1106</span>        {</div>
+<div class="line"><span class="lineno"> 1107</span>            <span class="keywordflow">if</span> ((target-&gt;isDead() || (<a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#abd42a0731af969ceccdfceae722ba276">_allowGhoul</a> &amp;&amp; target-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afaba2ba84c4b5d02f3948821fd5850b3">NPC_DK_GHOUL</a> &amp;&amp; target-&gt;GetOwnerGUID() == <a class="code hl_variable" href="../../da/d64/classCorpseExplosionCheck.html#a497df87745f452716c652e9b1be6d46f">_casterGUID</a>))</div>
+<div class="line"><span class="lineno"> 1108</span>                    &amp;&amp; !(target-&gt;GetCreatureTypeMask() &amp; <a class="code hl_variable" href="../../de/d0a/SharedDefines_8h.html#a6aeea8e1947484ee2c5735a7404004af">CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</a>)</div>
+<div class="line"><span class="lineno"> 1109</span>                    &amp;&amp; target-&gt;GetDisplayId() == target-&gt;GetNativeDisplayId())</div>
+<div class="line"><span class="lineno"> 1110</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1111</span>        }</div>
+<div class="line"><span class="lineno"> 1112</span> </div>
+<div class="line"><span class="lineno"> 1113</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1114</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a6aeea8e1947484ee2c5735a7404004af"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a6aeea8e1947484ee2c5735a7404004af">CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</a></div><div class="ttdeci">uint32 const CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2645</div></div>
 <div class="ttc" id="aclassObject_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition</b> Object.h:210</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
 <div class="ttc" id="aspell__dk_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6afaba2ba84c4b5d02f3948821fd5850b3"><div class="ttname"><a href="../../d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afaba2ba84c4b5d02f3948821fd5850b3">NPC_DK_GHOUL</a></div><div class="ttdeci">@ NPC_DK_GHOUL</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01115">_allowGhoul</a>, <a class="el" href="../../#l01114">_casterGUID</a>, <a class="el" href="../../#l02645">CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</a>, <a class="el" href="../../#l00090">NPC_DK_GHOUL</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01118">_allowGhoul</a>, <a class="el" href="../../#l01117">_casterGUID</a>, <a class="el" href="../../#l02645">CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL</a>, <a class="el" href="../../#l00090">NPC_DK_GHOUL</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
 
 </div>
 </div>
@@ -234,7 +234,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01100">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01103">operator()()</a>.</p>
 
 </div>
 </div>
@@ -258,7 +258,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01100">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01103">operator()()</a>.</p>
 
 </div>
 </div>
@@ -271,7 +271,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d64/classCorpseExplosionCheck.html">CorpseExplosionCheck</a></li>
-    <li class="footer">Generated on Sat Jul 19 2025 06:23:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jul 20 2025 06:23:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
