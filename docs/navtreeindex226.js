@@ -1,5 +1,8 @@
 var NAVTREEINDEX226 =
 {
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf0a9b38513b9ca778af048e0b919fb12":[7,0,0,0,1,2,8,1,19,10,5],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf0c8b126cd1d3de511197a7c1115797c":[7,0,0,0,1,2,8,1,19,10,22],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf25fb3cee9a63e26fac69e0cafbc3c01":[7,0,0,0,1,2,8,1,19,10,10],
 "d8/de0/BattlegroundSA_8h.html#af09df121eaf84723331cafc46f9eeedb":[7,0,0,0,1,2,8,1,19,17],
 "d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9":[7,0,0,0,1,2,8,1,19,7],
 "d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9a28297a624897a74ff7bfcedea5ee2284":[7,0,0,0,1,2,8,1,19,7,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0e8e8685ce8c1eea2b60e8bf6aeed782":[6,0,3814,2],
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#a879b657d94c1faf6225fe64f907cdf82":[6,0,3814,3],
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#afcadfbdd84608e827b89c64bf03c8501":[6,0,3814,1],
-"d8/df2/cs__player_8cpp.html":[7,0,0,0,1,3,0,34],
-"d8/df2/cs__player_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516":[7,0,0,0,1,3,0,34,1],
-"d8/df3/CreatureAIImpl_8h.html":[7,0,0,0,1,2,3,6],
-"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805":[7,0,0,0,1,2,3,6,3]
+"d8/df2/cs__player_8cpp.html":[7,0,0,0,1,3,0,34]
 };

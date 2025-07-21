@@ -1,5 +1,8 @@
 var NAVTREEINDEX143 =
 {
+"d5/d40/classspell__item__refocus.html":[6,0,3277],
+"d5/d40/classspell__item__refocus.html#a251e93768ff684d1586286ce040a611b":[6,0,3277,1],
+"d5/d40/classspell__item__refocus.html#ad1d4fa3d7bda8f4354325cc4df623b65":[6,0,3277,2],
 "d5/d40/classspell__item__refocus.html#aeda7eba9ab0b80b549976a4db6e9712c":[6,0,3277,0],
 "d5/d41/boss__gruul_8cpp.html":[7,0,0,0,1,3,7,3,0],
 "d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,3,0,8],
@@ -51,10 +54,10 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,130],
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,130,1],
 "d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,130,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ae1a121435466004734f56085e9e46925":[7,0,0,0,1,3,5,8,2,5,19,6],
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58aebdd6b2cdac7983c247a1a42e78771cc":[7,0,0,0,1,3,5,8,2,5,19,5],
 "d5/d4d/classIWorld.html":[6,0,1393],
-"d5/d4d/classIWorld.html#a034bf9dc24db0c667f9aaeb4e3862eae":[6,0,1393,3],
-"d5/d4d/classIWorld.html#a08e6163c632e0025a596469bf7e1e1ca":[6,0,1393,17],
-"d5/d4d/classIWorld.html#a0ac63e3f37963ccdc41f794a84367175":[6,0,1393,35],
-"d5/d4d/classIWorld.html#a0c9bd3a70458fe655bfc9492b4169118":[6,0,1393,44]
+"d5/d4d/classIWorld.html#a034bf9dc24db0c667f9aaeb4e3862eae":[6,0,1393,3]
 };

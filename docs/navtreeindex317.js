@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/de8/classBattlegroundIC.html#a5a508ac96dc9358b488b15b8b799b660":[6,0,323,2],
+"dc/de8/classBattlegroundIC.html#a5bb25b5e577817c39a3466bb42a53db8":[6,0,323,17],
+"dc/de8/classBattlegroundIC.html#a6208616b3ab5d3e47366ff43568d5975":[6,0,323,10],
 "dc/de8/classBattlegroundIC.html#a693a16afd724e8fc335770cf0cf1a614":[6,0,323,30],
 "dc/de8/classBattlegroundIC.html#a6bcb3662cde4d34b017280100d313f14":[6,0,323,14],
 "dc/de8/classBattlegroundIC.html#a81be9659f738913b6bcdd1ceab6581f7":[6,0,323,5],
@@ -226,10 +229,10 @@ var NAVTREEINDEX317 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,758],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,758,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[6,0,758,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/df9/classspell__burning__maul.html#ab32413873bec92540f9e85e8013b7ea2":[6,0,2692,2],
 "dc/df9/classspell__burning__maul.html#aed5f87523c58d94c8f98b76c06abb140":[6,0,2692,1],
 "dc/dfa/ElunaScript_8h.html":[7,0,0,0,1,2,38,0,44],
-"dc/dfa/structboss__twinemperorsAI.html":[6,0,749],
-"dc/dfa/structboss__twinemperorsAI.html#a118151851f36de9dfc22971a965cb047":[6,0,749,1],
-"dc/dfa/structboss__twinemperorsAI.html#a1b4689b0c403f7246ae100e4f716b138":[6,0,749,10],
-"dc/dfa/structboss__twinemperorsAI.html#a2b5e585749b7a59663813c7a9d56c223":[6,0,749,2]
+"dc/dfa/structboss__twinemperorsAI.html":[6,0,749]
 };

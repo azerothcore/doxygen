@@ -1,5 +1,7 @@
 var NAVTREEINDEX15 =
 {
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html#a06d50e8c0f7bfd1b055d8a3f5c14d357":[6,0,2702,0],
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html#a2b39daf6fe325cfa909b964da62c2571":[6,0,2702,2],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html#a5f8abd33848c554f9a530ad23c86a7a0":[6,0,2702,1],
 "d0/d9e/structboss__nazan.html":[6,0,632],
 "d0/d9e/structboss__nazan.html#a17942f19444ad324058d7b8c8a9aa9de":[6,0,632,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX15 =
 "d0/dae/classItem.html#a15c567d306251f609ec3ac287fd97082":[6,0,1368,10],
 "d0/dae/classItem.html#a1835a0d8efcb30778b0fc7c3a4531aba":[6,0,1368,99],
 "d0/dae/classItem.html#a19f4d2b1e490b97a0ae7a484d8e58ab0":[6,0,1368,101],
-"d0/dae/classItem.html#a1cff18f16e42238b2d161716ee98cefd":[6,0,1368,77],
-"d0/dae/classItem.html#a1e873e5c049fd4477499caa01572022c":[6,0,1368,104],
-"d0/dae/classItem.html#a1eba1689f9ddd48d21394c4206aff398":[6,0,1368,11]
+"d0/dae/classItem.html#a1cff18f16e42238b2d161716ee98cefd":[6,0,1368,77]
 };

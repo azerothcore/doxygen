@@ -1,13 +1,16 @@
 var NAVTREEINDEX385 =
 {
-"df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[5,0,27,22,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[6,0,9,22,24],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,27,22,28],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,9,22,28],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[6,0,9,22,11],
-"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[6,0,9,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[5,0,27,22,11],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[5,0,27,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[6,0,9,22,26],
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[6,0,9,22,15],
 "df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,27,22,15],
-"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,27,22,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,9,22,3],
 "df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,12],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[7,0,0,0,1,3,2,1,0,0,12,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3176,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3176,1],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3176,3],
-"df/d6c/classnpc__cult__adherent.html":[6,0,1711],
-"df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1711,2],
-"df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[6,0,1711,1],
-"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html":[6,0,3531]
+"df/d6c/classnpc__cult__adherent.html":[6,0,1711]
 };

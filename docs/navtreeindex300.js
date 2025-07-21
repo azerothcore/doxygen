@@ -1,5 +1,8 @@
 var NAVTREEINDEX300 =
 {
+"dc/d0c/AllPackets_8h.html":[7,0,0,0,1,2,39,0,0],
+"dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2840],
+"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2840,1],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[6,0,2840,0],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2840,2],
 "dc/d0d/cs__disable_8cpp.html":[7,0,0,0,1,3,0,12],
@@ -220,12 +223,12 @@ var NAVTREEINDEX300 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3647,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2084],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2084,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2084,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d20/classboss__novos.html#aaf28e2a23a8139197dccc92ae29a8be4":[6,0,639,2],
 "dc/d20/structSHostageInfo.html":[6,0,2548],
 "dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[6,0,2548,1],
-"dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[6,0,2548,2],
-"dc/d20/structSHostageInfo.html#ac14168f8c25efe7fa22ec802259b3a11":[6,0,2548,0],
-"dc/d21/structResultIterator.html":[6,0,2502],
-"dc/d21/structResultIterator.html#a0a7d6ac1eee62492330353b15edb4fd0":[6,0,2502,5]
+"dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[6,0,2548,2]
 };

@@ -83,7 +83,10 @@ var boss__thorim_8cpp =
       [ "EVENT_THORIM_CHARGE_ORB", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369ac1afbad672fb5b29a5664c8a94d3b6ab", null ],
       [ "EVENT_THORIM_LIGHTNING_ORB", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a16c44f780486035a9f1e38addba45448", null ],
       [ "EVENT_THORIM_NOT_REACH_IN_TIME", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a05f234a4472cbfef36598455ef538803", null ],
-      [ "EVENT_THORIM_FILL_ARENA", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a185d2b742814e2ec96c398520ce26a7e", null ],
+      [ "EVENT_THORIM_ARENA_SPAWN_WARBRINGER", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a5635a875cafbdb120b48d5aa8e7ae6b7", null ],
+      [ "EVENT_THORIM_ARENA_SPAWN_EVOKER", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a55e127bd5202dd339f3999ace04b1f1c", null ],
+      [ "EVENT_THORIM_ARENA_SPAWN_COMMONER", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369abc4b7d48d8e0b83b748fbe5b706bb0cb", null ],
+      [ "EVENT_THORIM_ARENA_SPAWN_CHAMPION", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369ae0126c7d297268340f8cedb4042c15fa", null ],
       [ "EVENT_THORIM_UNBALANCING_STRIKE", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a494ba580beb9b7d90bf4b985102dc0fb", null ],
       [ "EVENT_THORIM_LIGHTNING_CHARGE", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18", null ],
       [ "EVENT_THORIM_CHAIN_LIGHTNING", "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369aaa08ad7f8023432aee064fe50518e6fa", null ],
@@ -233,6 +236,5 @@ var boss__thorim_8cpp =
     ] ],
     [ "AddSC_boss_thorim", "d0/d89/boss__thorim_8cpp.html#a8a8dca95effdef5c526abbf25caebaa3", null ],
     [ "ArenaNPCs", "d0/d89/boss__thorim_8cpp.html#ab3577f502ae3fde7557eafe5ae8369b4", null ],
-    [ "Middle", "d0/d89/boss__thorim_8cpp.html#a40748663b5ac87efa1a03300b56a5f2f", null ],
-    [ "RollTable", "d0/d89/boss__thorim_8cpp.html#af7ecbf9a5549aed25bcd3e3935821ea3", null ]
+    [ "Middle", "d0/d89/boss__thorim_8cpp.html#a40748663b5ac87efa1a03300b56a5f2f", null ]
 ];

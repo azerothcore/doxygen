@@ -1,5 +1,8 @@
 var NAVTREEINDEX278 =
 {
+"db/d62/classOutdoorPvPMgr.html#a0927b39028f4060b0125bb63fe73a53a":[6,0,2356,19],
+"db/d62/classOutdoorPvPMgr.html#a0a92945f30266985e289742c29b13ed2":[6,0,2356,15],
+"db/d62/classOutdoorPvPMgr.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa":[6,0,2356,6],
 "db/d62/classOutdoorPvPMgr.html#a2f71683200a6f780ea1365ec2934b875":[6,0,2356,2],
 "db/d62/classOutdoorPvPMgr.html#a37c292b98c44830833c15eba1d74e24d":[6,0,2356,12],
 "db/d62/classOutdoorPvPMgr.html#a47a54de2e5f8d2d95691be9f6707d1d8":[6,0,2356,1],
@@ -36,8 +39,8 @@ var NAVTREEINDEX278 =
 "db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539":[6,0,2489,4],
 "db/d62/classRegularGrid2D.html#af105482aa4349d2f7f937fb95ec7f2a8":[6,0,2489,3],
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,7],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[5,0,1,8,5,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX278 =
 "db/d6e/spell__item_8cpp.html#a205fd186c57331c4cc54fb414647d6b1a7ae317c8f9594d706a87b560d77af1fd":[7,0,0,0,1,3,9,4,174,1],
 "db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bda":[7,0,0,0,1,3,9,4,148],
 "db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaa6f0b6d6831c6843ac64fcc36af126137":[7,0,0,0,1,3,9,4,148,0],
-"db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaa85f51682985841d7846c5ee72aebf180":[7,0,0,0,1,3,9,4,148,2],
-"db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaabbae6561d21d28e0438f373179c3a4ad":[7,0,0,0,1,3,9,4,148,1],
-"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35":[7,0,0,0,1,3,9,4,164],
-"db/d6e/spell__item_8cpp.html#a26894cf88d7bad41a6bb5f3af42ebf35a0e5872a54b0ef1b9d7196ca9acf8fa46":[7,0,0,0,1,3,9,4,164,0]
+"db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaa85f51682985841d7846c5ee72aebf180":[7,0,0,0,1,3,9,4,148,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1dfbef9fcdf8fac682fd148f48b1d73f":[7,0,0,0,1,3,9,2,184,5],
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[7,0,0,0,1,3,9,2,184,6],
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[7,0,0,0,1,3,9,2,184,2],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba7018d987be1cd92380fee03ccf20428c":[7,0,0,0,1,3,9,2,184,0],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84baa02a3889b1f1c7a5045478e571b31975":[7,0,0,0,1,3,9,2,184,3],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84baf6d01394df9fa9d615c29a16bd2bcc1a":[7,0,0,0,1,3,9,2,184,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX47 =
 "d1/ded/classspell__item__ashbringer.html#a5b2175a933df10d775bc3381f515aa96":[6,0,3197,2],
 "d1/ded/classspell__item__ashbringer.html#a6e41bf15401c540887dd321e4b2cc7d3":[6,0,3197,3],
 "d1/ded/classspell__item__ashbringer.html#a8be944ae201f4f8406948aff78f982d9":[6,0,3197,0],
-"d1/ded/classspell__item__ashbringer.html#adcb707400963e549a295e115d6f3583b":[6,0,3197,1],
-"d1/def/classboss__moragg.html":[6,0,623],
-"d1/def/classboss__moragg.html#a5ea2f210038b3e44bf2cb9c402e1b761":[6,0,623,2],
-"d1/def/classboss__moragg.html#aeb43f9cc4c41f049fd0a13e79cadfcd1":[6,0,623,1]
+"d1/ded/classspell__item__ashbringer.html#adcb707400963e549a295e115d6f3583b":[6,0,3197,1]
 };

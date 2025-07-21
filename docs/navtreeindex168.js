@@ -1,5 +1,8 @@
 var NAVTREEINDEX168 =
 {
+"d6/d3a/structBaseTable.html":[6,0,303],
+"d6/d3a/structBaseTable.html#a0f308af88812c110c490c94368bda482":[6,0,303,3],
+"d6/d3a/structBaseTable.html#a629a600c48376d04293c225390f747ff":[6,0,303,0],
 "d6/d3a/structBaseTable.html#a7c1ef4d19fb49e5813868ff2ccfe12fc":[6,0,303,1],
 "d6/d3a/structBaseTable.html#a9bea7cf549813010b55c23417d65edc6":[6,0,303,2],
 "d6/d3b/classCliHandler.html":[6,0,881],
@@ -175,14 +178,14 @@ var NAVTREEINDEX168 =
 "d6/d4b/classspell__electrical__storm__proc.html#aebe9055301495dd3a21736b9a2a35f31":[6,0,2850,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[5,0,1,8,0,8],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[6,0,0,5,0,8],
-"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,1,8,0,8,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[6,0,0,5,0,8,0],
+"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,1,8,0,8,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,27,26],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[6,0,9,26],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,27,26,1],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[6,0,9,26,1],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[5,0,27,26,5],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,27,26,1],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[6,0,9,26,5],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[5,0,27,26,5],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[6,0,9,26,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[5,0,27,26,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3":[6,0,9,26,3],
@@ -191,8 +194,8 @@ var NAVTREEINDEX168 =
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d":[6,0,9,26,4],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[6,0,9,26,7],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[5,0,27,26,7],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[5,0,27,26,2],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[6,0,9,26,2],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[5,0,27,26,2],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[6,0,9,26,6],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[5,0,27,26,6],
 "d6/d4c/structboss__pathaleon__the__calculator.html":[6,0,652],
@@ -246,8 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#a55cd49d98c0d3ad04b7a48df8fa35768ae8d5ad6d39eba74650a417ae4436488f":[7,0,0,0,1,2,7,0,1,16,7],
 "d6/d4f/BattlefieldWG_8h.html#a5a8780e2a1b7770f0aa82e875e340095":[7,0,0,0,1,2,7,0,1,37],
 "d6/d4f/BattlefieldWG_8h.html#a5aafb12f33e8c781f7386149a8a9128f":[7,0,0,0,1,2,7,0,1,28],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16":[7,0,0,0,1,2,7,0,1,23],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a0b80d5e9615e85fb53155bc5c62918d0":[7,0,0,0,1,2,7,0,1,23,13],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a18338d13f3788d7ff1436ed4a5356233":[7,0,0,0,1,2,7,0,1,23,44],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16a27b5184c553607af52e9b54031dcd422":[7,0,0,0,1,2,7,0,1,23,30]
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16":[7,0,0,0,1,2,7,0,1,23]
 };

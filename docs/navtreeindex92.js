@@ -1,5 +1,8 @@
 var NAVTREEINDEX92 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4bea2ddbac89587f89839fa64ef7373b":[7,0,0,0,1,1,0,0,5,1,8],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dadde7df4c0d545ef06c92d5fcd4ffa":[7,0,0,0,1,1,0,0,5,1,58],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dc6d4105ca603ac701174501c3f439e":[7,0,0,0,1,1,0,0,5,1,24],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a50184b271468f8fa3314e5dfcaa50fd7":[7,0,0,0,1,1,0,0,5,1,49],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a51abd6d78888450534ec50786c9f4322":[7,0,0,0,1,1,0,0,5,1,14],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53647962d71478bb5071ec4c379184f4":[7,0,0,0,1,1,0,0,5,1,83],
@@ -232,8 +235,8 @@ var NAVTREEINDEX92 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[6,0,3785,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[6,0,3785,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3785,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a3dfb76bb5cb13624e0709f1b25414360":[6,0,1745,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a642c0fb5a5010c48403b8c3dc8bc14eb":[6,0,1745,0],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#aa057cb5ae681b4b802031151ea1a3529":[6,0,1745,6],
-"d3/d2b/structnpc__dragonflayer__forge__master.html#aa107e88bbc5b55a6ece5124c4081706e":[6,0,1745,1],
-"d3/d2b/structnpc__dragonflayer__forge__master.html#af2c844c926b94456df796b4252e899c2":[6,0,1745,3],
-"d3/d2c/classspell__gen__tournament__duel.html":[6,0,3019],
-"d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,3019,0]
+"d3/d2b/structnpc__dragonflayer__forge__master.html#aa107e88bbc5b55a6ece5124c4081706e":[6,0,1745,1]
 };

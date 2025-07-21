@@ -1,5 +1,8 @@
 var NAVTREEINDEX48 =
 {
+"d1/def/classboss__moragg.html":[6,0,623],
+"d1/def/classboss__moragg.html#a5ea2f210038b3e44bf2cb9c402e1b761":[6,0,623,2],
+"d1/def/classboss__moragg.html#aeb43f9cc4c41f049fd0a13e79cadfcd1":[6,0,623,1],
 "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html":[6,0,377,0],
 "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html#a3acd88f97e2f1e3386c9b5dfa4f15d15":[6,0,377,0,2],
 "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html#ae5bdb5509aad0d386bf73e5aad728744":[6,0,377,0,0],
@@ -117,8 +120,8 @@ var NAVTREEINDEX48 =
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX48 =
 "d2/d04/classspell__capacitus__polarity__charge.html#a46b62a09ea23cb102b0e5cf075c727d4":[6,0,2698,2],
 "d2/d04/classspell__capacitus__polarity__charge.html#a8873614ae22c908cb2cf49129fc53be2":[6,0,2698,3],
 "d2/d04/classspell__capacitus__polarity__charge.html#ac9e455d4ef5cc7b7ce424b70b4387c78":[6,0,2698,1],
-"d2/d04/classspell__capacitus__polarity__charge.html#add7e78111217d00bfa3dfa5b3eb490f9":[6,0,2698,0],
-"d2/d05/CreatureAI_8h.html":[7,0,0,0,1,2,3,4],
-"d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621":[7,0,0,0,1,2,3,4,7],
-"d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3":[7,0,0,0,1,2,3,4,7,7]
+"d2/d04/classspell__capacitus__polarity__charge.html#add7e78111217d00bfa3dfa5b3eb490f9":[6,0,2698,0]
 };

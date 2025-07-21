@@ -246,8 +246,8 @@ var NAVTREEINDEX3 =
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[6,0,11,5,20,1],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[5,0,30,5,20,2],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[6,0,11,5,20,2],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[5,0,30,5,20,0],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[6,0,11,5,20,0],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[5,0,30,5,20,0],
 "d0/d38/classnpc__ichor__globule.html":[6,0,1877],
 "d0/d38/classnpc__ichor__globule.html#a4dbd3b057e319ba83e0e1c94b99cd2ab":[6,0,1877,1]
 };

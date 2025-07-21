@@ -1,5 +1,8 @@
 var NAVTREEINDEX299 =
 {
+"dc/d07/classInstanceMapScript.html":[6,0,1355],
+"dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[6,0,1355,1],
+"dc/d07/classInstanceMapScript.html#a350d328f82cc5e7ea43f3c8779d25a67":[6,0,1355,0],
 "dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[6,0,1355,2],
 "dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1355,3],
 "dc/d07/classnpc__captain__brandon.html":[6,0,1670],
@@ -246,8 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[6,0,1568,0,2],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[6,0,1568,0,5],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3":[6,0,1568,0,4],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05":[6,0,1568,0,1],
-"dc/d0c/AllPackets_8h.html":[7,0,0,0,1,2,39,0,0],
-"dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2840],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2840,1]
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05":[6,0,1568,0,1]
 };

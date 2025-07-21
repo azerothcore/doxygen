@@ -1,5 +1,8 @@
 var NAVTREEINDEX102 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caca142bc77721a1b4dac1c9c7d6ae6426":[7,0,0,0,1,3,7,1,8,10,6],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,1,8,10,13],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caea3ed8b979b3a59b5f1cfa805e42a176":[7,0,0,0,1,3,7,1,8,10,8],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cafe4e4e1fb7bb1e9df3e6c6b5fd0b1606":[7,0,0,0,1,3,7,1,8,10,0],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,1,8,11],
 "d3/d8d/classspell__mage__master__of__elements.html":[6,0,3401],
@@ -246,8 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[6,0,3735,3],
 "d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[6,0,3735,6],
 "d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[6,0,3735,5],
-"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[6,0,3735,2],
-"d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[6,0,3735,4],
-"d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[6,0,3735,0],
-"d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[6,0,3735,1]
+"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[6,0,3735,2]
 };

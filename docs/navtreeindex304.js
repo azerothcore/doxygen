@@ -1,5 +1,8 @@
 var NAVTREEINDEX304 =
 {
+"dc/d34/structboss__murmur.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d":[6,0,628,4],
+"dc/d34/structboss__murmur.html#a6b89c95747c0a37c0b37527cd360e524":[6,0,628,1],
+"dc/d34/structboss__murmur.html#a88e18fd646a807ee92f1b24b43d500a6":[6,0,628,6],
 "dc/d34/structboss__murmur.html#aa0f549c83a92302ece2323c75dd29acc":[6,0,628,3],
 "dc/d34/structboss__murmur.html#aab66339a7436c3c483297b25f6859558":[6,0,628,2],
 "dc/d34/structboss__murmur.html#ad89ea433764c3017a3d33b37eb9e5602":[6,0,628,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42],
 "dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[7,0,0,0,1,3,0,42,1],
 "dc/d44/structWardenHashRequest.html":[6,0,4231],
-"dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[6,0,4231,1],
-"dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[6,0,4231,0],
-"dc/d45/LFGGroupData_8h.html":[7,0,0,0,1,2,15,3],
-"dc/d46/classspell__dru__moonkin__form__passive.html":[6,0,2822]
+"dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[6,0,4231,1]
 };

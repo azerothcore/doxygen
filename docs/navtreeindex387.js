@@ -1,5 +1,8 @@
 var NAVTREEINDEX387 =
 {
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ae1c4e16cd9ad68e4700d68ed64baa8e2":[6,0,755,0,8],
+"df/d79/Map_8h.html":[7,0,0,0,1,2,26,4],
+"df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb":[7,0,0,0,1,2,26,4,8],
 "df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[7,0,0,0,1,2,26,4,7],
 "df/d79/Map_8h.html#a1a089ded88651bc639ec064fe70adce1":[7,0,0,0,1,2,26,4,9],
 "df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318":[7,0,0,0,1,2,26,4,12],
@@ -140,10 +143,10 @@ var NAVTREEINDEX387 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,424,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,424,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,424,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,30,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,30,5,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,30,5,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,30,5,36,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX387 =
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a076407c159ee539e0c00bd1226bac627":[7,0,0,0,1,3,5,9,2,4,44,8],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20bb696b3ec369136955621a71e9fad5":[7,0,0,0,1,3,5,9,2,4,44,4],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a21cb5e37cb8dcdcd693670b7114905ac":[7,0,0,0,1,3,5,9,2,4,44,0],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663":[7,0,0,0,1,3,5,9,2,4,44,14],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a45242c376918bfc1a16c6899d16d12a5":[7,0,0,0,1,3,5,9,2,4,44,2],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,2,4,44,3],
-"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4a9f7a8a0bd50f0a3a92a36528a4ae49":[7,0,0,0,1,3,5,9,2,4,44,9]
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663":[7,0,0,0,1,3,5,9,2,4,44,14]
 };

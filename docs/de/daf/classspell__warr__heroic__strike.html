@@ -313,52 +313,52 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  917</span>    {</div>
-<div class="line"><span class="lineno">  918</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
-<div class="line"><span class="lineno">  919</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  920</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  921</span>        std::list&lt;AuraEffect*&gt; AuraEffectList = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8">GetAuraEffectsByType</a>(<a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab3987db9e154ae9a2086efb43e5af610">SPELL_AURA_MOD_DECREASE_SPEED</a>);</div>
-<div class="line"><span class="lineno">  922</span>        <span class="keywordtype">bool</span> bonusDamage = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  923</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* eff : AuraEffectList)</div>
-<div class="line"><span class="lineno">  924</span>        {</div>
-<div class="line"><span class="lineno">  925</span>            <span class="keyword">const</span> <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a>* spellInfo = eff-&gt;GetSpellInfo();</div>
-<div class="line"><span class="lineno">  926</span>            <span class="keywordflow">if</span> (!spellInfo)</div>
-<div class="line"><span class="lineno">  927</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  928</span> </div>
-<div class="line"><span class="lineno">  929</span>            <span class="comment">// Warrior Spells: Piercing Howl or Dazed (29703)</span></div>
-<div class="line"><span class="lineno">  930</span>            <span class="keywordflow">if</span> (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba52acbcf14a96b5ed01b8a43052a26a11">SPELLFAMILY_WARRIOR</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; (0x20 | 0x200000)))</div>
-<div class="line"><span class="lineno">  931</span>            {</div>
-<div class="line"><span class="lineno">  932</span>                bonusDamage = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  933</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  934</span>            }</div>
-<div class="line"><span class="lineno">  935</span> </div>
-<div class="line"><span class="lineno">  936</span>            <span class="comment">// Generic Daze: icon 15 with mechanic daze or snare</span></div>
-<div class="line"><span class="lineno">  937</span>            <span class="keywordflow">if</span> ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9">ICON_GENERIC_DAZE</a>)</div>
-<div class="line"><span class="lineno">  938</span>                &amp;&amp; ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a492c1698b1b9fdfff3037515575d6f86">Mechanic</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2">MECHANIC_DAZE</a> || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ae495ac815d0ccf4bdaa8b1a0f917230d">HasEffectMechanic</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2">MECHANIC_DAZE</a>))</div>
-<div class="line"><span class="lineno">  939</span>                    || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a492c1698b1b9fdfff3037515575d6f86">Mechanic</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5">MECHANIC_SNARE</a> || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ae495ac815d0ccf4bdaa8b1a0f917230d">HasEffectMechanic</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5">MECHANIC_SNARE</a>))</div>
-<div class="line"><span class="lineno">  940</span>                    )</div>
-<div class="line"><span class="lineno">  941</span>            )</div>
-<div class="line"><span class="lineno">  942</span>            {</div>
-<div class="line"><span class="lineno">  943</span>                bonusDamage = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  944</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  945</span>            }</div>
-<div class="line"><span class="lineno">  946</span> </div>
-<div class="line"><span class="lineno">  947</span>            <span class="keywordflow">if</span> ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88">SPELL_GENERIC_AFTERMATH</a>)</div>
-<div class="line"><span class="lineno">  948</span>                || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; 0x40)) <span class="comment">// Blast Wave</span></div>
-<div class="line"><span class="lineno">  949</span>                || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba573f9ad8924e7632156291378448e742">SPELLFAMILY_PALADIN</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[2] &amp; 0x4000)) <span class="comment">// Avenger&#39;s Shield</span></div>
-<div class="line"><span class="lineno">  950</span>            )</div>
-<div class="line"><span class="lineno">  951</span>            {</div>
-<div class="line"><span class="lineno">  952</span>                bonusDamage = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  953</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  954</span>            }</div>
-<div class="line"><span class="lineno">  955</span>        }</div>
-<div class="line"><span class="lineno">  956</span>        <span class="keywordflow">if</span> (bonusDamage)</div>
-<div class="line"><span class="lineno">  957</span>        {</div>
-<div class="line"><span class="lineno">  958</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = <a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>();</div>
-<div class="line"><span class="lineno">  959</span>            <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(damage, 35); <span class="comment">// &quot;Causes ${0.35*$m1} additional damage against Dazed targets.&quot;</span></div>
-<div class="line"><span class="lineno">  960</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(damage);</div>
-<div class="line"><span class="lineno">  961</span>        }</div>
-<div class="line"><span class="lineno">  962</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  909</span>    {</div>
+<div class="line"><span class="lineno">  910</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
+<div class="line"><span class="lineno">  911</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  912</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  913</span>        std::list&lt;AuraEffect*&gt; AuraEffectList = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8">GetAuraEffectsByType</a>(<a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab3987db9e154ae9a2086efb43e5af610">SPELL_AURA_MOD_DECREASE_SPEED</a>);</div>
+<div class="line"><span class="lineno">  914</span>        <span class="keywordtype">bool</span> bonusDamage = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  915</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* eff : AuraEffectList)</div>
+<div class="line"><span class="lineno">  916</span>        {</div>
+<div class="line"><span class="lineno">  917</span>            <span class="keyword">const</span> <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a>* spellInfo = eff-&gt;GetSpellInfo();</div>
+<div class="line"><span class="lineno">  918</span>            <span class="keywordflow">if</span> (!spellInfo)</div>
+<div class="line"><span class="lineno">  919</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  920</span> </div>
+<div class="line"><span class="lineno">  921</span>            <span class="comment">// Warrior Spells: Piercing Howl or Dazed (29703)</span></div>
+<div class="line"><span class="lineno">  922</span>            <span class="keywordflow">if</span> (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba52acbcf14a96b5ed01b8a43052a26a11">SPELLFAMILY_WARRIOR</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; (0x20 | 0x200000)))</div>
+<div class="line"><span class="lineno">  923</span>            {</div>
+<div class="line"><span class="lineno">  924</span>                bonusDamage = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  925</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  926</span>            }</div>
+<div class="line"><span class="lineno">  927</span> </div>
+<div class="line"><span class="lineno">  928</span>            <span class="comment">// Generic Daze: icon 15 with mechanic daze or snare</span></div>
+<div class="line"><span class="lineno">  929</span>            <span class="keywordflow">if</span> ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9">ICON_GENERIC_DAZE</a>)</div>
+<div class="line"><span class="lineno">  930</span>                &amp;&amp; ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a492c1698b1b9fdfff3037515575d6f86">Mechanic</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2">MECHANIC_DAZE</a> || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ae495ac815d0ccf4bdaa8b1a0f917230d">HasEffectMechanic</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2">MECHANIC_DAZE</a>))</div>
+<div class="line"><span class="lineno">  931</span>                    || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a492c1698b1b9fdfff3037515575d6f86">Mechanic</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5">MECHANIC_SNARE</a> || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#ae495ac815d0ccf4bdaa8b1a0f917230d">HasEffectMechanic</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5">MECHANIC_SNARE</a>))</div>
+<div class="line"><span class="lineno">  932</span>                    )</div>
+<div class="line"><span class="lineno">  933</span>            )</div>
+<div class="line"><span class="lineno">  934</span>            {</div>
+<div class="line"><span class="lineno">  935</span>                bonusDamage = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  936</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  937</span>            }</div>
+<div class="line"><span class="lineno">  938</span> </div>
+<div class="line"><span class="lineno">  939</span>            <span class="keywordflow">if</span> ((spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88">SPELL_GENERIC_AFTERMATH</a>)</div>
+<div class="line"><span class="lineno">  940</span>                || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; 0x40)) <span class="comment">// Blast Wave</span></div>
+<div class="line"><span class="lineno">  941</span>                || (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba573f9ad8924e7632156291378448e742">SPELLFAMILY_PALADIN</a> &amp;&amp; (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[2] &amp; 0x4000)) <span class="comment">// Avenger&#39;s Shield</span></div>
+<div class="line"><span class="lineno">  942</span>            )</div>
+<div class="line"><span class="lineno">  943</span>            {</div>
+<div class="line"><span class="lineno">  944</span>                bonusDamage = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  945</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  946</span>            }</div>
+<div class="line"><span class="lineno">  947</span>        }</div>
+<div class="line"><span class="lineno">  948</span>        <span class="keywordflow">if</span> (bonusDamage)</div>
+<div class="line"><span class="lineno">  949</span>        {</div>
+<div class="line"><span class="lineno">  950</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = <a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>();</div>
+<div class="line"><span class="lineno">  951</span>            <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(damage, 35); <span class="comment">// &quot;Causes ${0.35*$m1} additional damage against Dazed targets.&quot;</span></div>
+<div class="line"><span class="lineno">  952</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(damage);</div>
+<div class="line"><span class="lineno">  953</span>        }</div>
+<div class="line"><span class="lineno">  954</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab01f0d1cee33a302eff7530e77385ee2">MECHANIC_DAZE</a></div><div class="ttdeci">@ MECHANIC_DAZE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1352</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac33e72cd9c395583cd6db721014056b5">MECHANIC_SNARE</a></div><div class="ttdeci">@ MECHANIC_SNARE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1336</div></div>
@@ -380,12 +380,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_aff69d3a9a6f02ae0afa8f8bbaa543493"><div class="ttname"><a href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">SpellScript::GetHitDamage</a></div><div class="ttdeci">int32 GetHitDamage()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:514</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
 <div class="ttc" id="aclassUnit_html_a0b6417e1489c3f2e1ced1e0384d48ff8"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8">Unit::GetAuraEffectsByType</a></div><div class="ttdeci">AuraEffectList const &amp; GetAuraEffectsByType(AuraType type) const</div><div class="ttdef"><b>Definition</b> Unit.h:1349</div></div>
-<div class="ttc" id="aspell__warrior_8cpp_html_a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9"><div class="ttname"><a href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9">ICON_GENERIC_DAZE</a></div><div class="ttdeci">@ ICON_GENERIC_DAZE</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:908</div></div>
-<div class="ttc" id="aspell__warrior_8cpp_html_a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88"><div class="ttname"><a href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88">SPELL_GENERIC_AFTERMATH</a></div><div class="ttdeci">@ SPELL_GENERIC_AFTERMATH</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:909</div></div>
+<div class="ttc" id="aspell__warrior_8cpp_html_a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9"><div class="ttname"><a href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9">ICON_GENERIC_DAZE</a></div><div class="ttdeci">@ ICON_GENERIC_DAZE</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:900</div></div>
+<div class="ttc" id="aspell__warrior_8cpp_html_a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88"><div class="ttname"><a href="../../d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88">SPELL_GENERIC_AFTERMATH</a></div><div class="ttdeci">@ SPELL_GENERIC_AFTERMATH</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:901</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">AddPct()</a>, <a class="el" href="../../#l01349">Unit::GetAuraEffectsByType()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00884">SpellInfo::HasEffectMechanic()</a>, <a class="el" href="../../#l00908">ICON_GENERIC_DAZE</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00323">SpellInfo::Mechanic</a>, <a class="el" href="../../#l01352">MECHANIC_DAZE</a>, <a class="el" href="../../#l01336">MECHANIC_SNARE</a>, <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>, <a class="el" href="../../#l00096">SPELL_AURA_MOD_DECREASE_SPEED</a>, <a class="el" href="../../#l00909">SPELL_GENERIC_AFTERMATH</a>, <a class="el" href="../../#l03786">SPELLFAMILY_MAGE</a>, <a class="el" href="../../#l03793">SPELLFAMILY_PALADIN</a>, <a class="el" href="../../#l03787">SPELLFAMILY_WARRIOR</a>, <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>, <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>, and <a class="el" href="../../#l00380">SpellInfo::SpellIconID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00067">AddPct()</a>, <a class="el" href="../../#l01349">Unit::GetAuraEffectsByType()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00884">SpellInfo::HasEffectMechanic()</a>, <a class="el" href="../../#l00900">ICON_GENERIC_DAZE</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00323">SpellInfo::Mechanic</a>, <a class="el" href="../../#l01352">MECHANIC_DAZE</a>, <a class="el" href="../../#l01336">MECHANIC_SNARE</a>, <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>, <a class="el" href="../../#l00096">SPELL_AURA_MOD_DECREASE_SPEED</a>, <a class="el" href="../../#l00901">SPELL_GENERIC_AFTERMATH</a>, <a class="el" href="../../#l03786">SPELLFAMILY_MAGE</a>, <a class="el" href="../../#l03793">SPELLFAMILY_PALADIN</a>, <a class="el" href="../../#l03787">SPELLFAMILY_WARRIOR</a>, <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>, <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>, and <a class="el" href="../../#l00380">SpellInfo::SpellIconID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00964">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00956">Register()</a>.</p>
 
 </div>
 </div>
@@ -439,14 +439,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  965</span>    {</div>
-<div class="line"><span class="lineno">  966</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141">spell_warr_heroic_strike::HandleOnHit</a>);</div>
-<div class="line"><span class="lineno">  967</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  957</span>    {</div>
+<div class="line"><span class="lineno">  958</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141">spell_warr_heroic_strike::HandleOnHit</a>);</div>
+<div class="line"><span class="lineno">  959</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
-<div class="ttc" id="aclassspell__warr__heroic__strike_html_a32a6f464057fbfb3bbffe0e10d1d4141"><div class="ttname"><a href="../../de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141">spell_warr_heroic_strike::HandleOnHit</a></div><div class="ttdeci">void HandleOnHit()</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:916</div></div>
+<div class="ttc" id="aclassspell__warr__heroic__strike_html_a32a6f464057fbfb3bbffe0e10d1d4141"><div class="ttname"><a href="../../de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141">spell_warr_heroic_strike::HandleOnHit</a></div><div class="ttdeci">void HandleOnHit()</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:908</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00916">HandleOnHit()</a>, <a class="el" href="../../#l00345">SpellScript::OnHit</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00908">HandleOnHit()</a>, <a class="el" href="../../#l00345">SpellScript::OnHit</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -459,7 +459,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/daf/classspell__warr__heroic__strike.html">spell_warr_heroic_strike</a></li>
-    <li class="footer">Generated on Sun Jul 20 2025 06:24:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jul 21 2025 06:27:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

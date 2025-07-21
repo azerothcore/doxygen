@@ -1,5 +1,8 @@
 var NAVTREEINDEX54 =
 {
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa4acaff786c323505722687b6fa76006f":[7,0,0,0,1,2,8,1,1,6,2],
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa61e7c3afc033e53d7b81427b15be6599":[7,0,0,0,1,2,8,1,1,6,8],
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa8be4179231a4470cc8dcc40e489398e2":[7,0,0,0,1,2,8,1,1,6,11],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faa0dbd19f5177a6ba9962e8ece5267e2b":[7,0,0,0,1,2,8,1,1,6,7],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fac8d82aeaabdf25e5accfb734b861d09e":[7,0,0,0,1,2,8,1,1,6,5],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faf6081991f59a4655ecd5bd229467e81e":[7,0,0,0,1,2,8,1,1,6,6],
@@ -216,8 +219,8 @@ var NAVTREEINDEX54 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[6,0,2199,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[6,0,2199,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[6,0,950,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,950,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,950,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,950,2,0],
 "d2/d39/classboss__varos.html":[6,0,756],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[6,0,756,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[6,0,756,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d3c/classboss__rotface.html#a8a3ff9ef99da7d72ce2f7827bfc2564b":[6,0,676,2],
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html":[6,0,2906],
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa2b338da6aa545e588be3d3a72b1a747":[6,0,2906,2],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa64e3d5a98804e2a05d3af1fdc5b2d30":[6,0,2906,3],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#acd0dffad436cb414deb546b192957783":[6,0,2906,1],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad179773bdfe73f7926d41d30726f0ac9":[6,0,2906,5],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad910e172ef6866f102fa3407f676169a":[6,0,2906,0]
+"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa64e3d5a98804e2a05d3af1fdc5b2d30":[6,0,2906,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5adfca95e2a5ad725b7f8f416c4c347545":[7,0,0,0,1,2,16,10,5,42,1],
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5aea9a35065734e8e991b794313a00642d":[7,0,0,0,1,2,16,10,5,42,4],
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5af67172afb249fa44bdeadefeb4258ff9":[7,0,0,0,1,2,16,10,5,42,5],
 "d1/daf/Unit_8h.html#abbe331960980fa852a0be15ccebef947":[7,0,0,0,1,2,16,10,5,31],
 "d1/daf/Unit_8h.html#abd0c4747d54e7c5f4485fcbdd6735f4a":[7,0,0,0,1,2,16,10,5,26],
 "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27":[7,0,0,0,1,2,16,10,5,43],
@@ -246,8 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233":[6,0,1289,3],
 "d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b":[6,0,1289,5],
 "d1/dba/classspell__ragin__flames__inferno.html":[6,0,3695],
-"d1/dba/classspell__ragin__flames__inferno.html#a0838d4449351f46a1f9f485abaf35c2b":[6,0,3695,0],
-"d1/dba/classspell__ragin__flames__inferno.html#a438425f3002028a0978e0dbab580ca03":[6,0,3695,1],
-"d1/dba/classspell__ragin__flames__inferno.html#af4b26607e8838b7bbbe8777f57601341":[6,0,3695,2],
-"d1/dba/classspell__rog__nerves__of__steel.html":[6,0,3721]
+"d1/dba/classspell__ragin__flames__inferno.html#a0838d4449351f46a1f9f485abaf35c2b":[6,0,3695,0]
 };

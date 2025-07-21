@@ -1,5 +1,8 @@
 var NAVTREEINDEX262 =
 {
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,3859,1],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,3859,3],
+"da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html":[6,0,943,0],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#a7ddfb8afac3ff28a84b26255628fab50":[6,0,943,0,1],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#aa7d8d1d075eeb03952b47cc16846a3db":[6,0,943,0,4],
 "da/da0/structdark__rune__stormcaller_1_1dark__rune__stormcallerAI.html#ad889fb0c50e879c958c9b8bb681e4bf7":[6,0,943,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX262 =
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ac12adec2cb751e2e41008954bbe20248":[6,0,1728,0,9],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ac3216c0cf7284fd7a8d5ece153467b41":[6,0,1728,0,2],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ac83f7d28886eaf5fb44c3c6ce44a7acd":[6,0,1728,0,1],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ad152856d614c8f4c900f77749ac55dd9":[6,0,1728,0,3],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ad22e8bc9e0d22a5ba164a60e438d98a7":[6,0,1728,0,10],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html":[6,0,780,0],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a04787f7600a817fd63132676590505a8":[6,0,780,0,4]
+"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#ad152856d614c8f4c900f77749ac55dd9":[6,0,1728,0,3]
 };

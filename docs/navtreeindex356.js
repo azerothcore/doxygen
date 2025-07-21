@@ -1,5 +1,8 @@
 var NAVTREEINDEX356 =
 {
+"de/d20/structEmotesTextEntry.html":[6,0,1008],
+"de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1008,0],
+"de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1008,1],
 "de/d21/spell__priest_8cpp.html":[7,0,0,0,1,3,9,7],
 "de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4":[7,0,0,0,1,3,9,7,27],
 "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f":[7,0,0,0,1,3,9,7,24],
@@ -67,8 +70,8 @@ var NAVTREEINDEX356 =
 "de/d24/classnpc__hover__disk.html#af0ab534387a2af4e168915801ee855e5":[6,0,1852,1],
 "de/d24/cs__send_8cpp.html":[7,0,0,0,1,3,0,40],
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,1],
-"de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,29,0],
+"de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,29,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX356 =
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1159,0,5],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1159,0,2],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[6,0,1159,0,0],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3227],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3227,1],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3227,2],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3227,3]
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3227]
 };

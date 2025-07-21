@@ -1,5 +1,8 @@
 var NAVTREEINDEX132 =
 {
+"d4/da0/classboss__apothecary__hummel.html#a87a01f4d6eaac7c5e1795133e8aa1ccd":[6,0,380,2],
+"d4/da0/classboss__apothecary__hummel.html#af1672c0b7f67d9013e3769a7009c2ee9":[6,0,380,1],
+"d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html":[6,0,1925,0],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a139df1207438dbd3793a2fbc58c2396c":[6,0,1925,0,4],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a418d7eee72f0a8506357eee3f1fbaf6c":[6,0,1925,0,5],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html#a7981568666269e25580ae839f1f97f09":[6,0,1925,0,3],
@@ -13,10 +16,10 @@ var NAVTREEINDEX132 =
 "d4/da1/classBoundaryUnionBoundary.html#a8dc91861fa6641008236e5a83030e0d1":[6,0,812,2],
 "d4/da1/classBoundaryUnionBoundary.html#a96450fc020bfad7b9f1f7be64490ad46":[6,0,812,1],
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,812,4],
-"d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da9/classBattlegroundScript.html#a35b571d570c85a861af6f949b51453cb":[6,0,336,2],
 "d4/da9/classBattlegroundScript.html#a782c6e81f4ed9a63f9276dcc4f0f9116":[6,0,336,1],
 "d4/da9/classspell__item__skull__of__impeding__doom.html":[6,0,3291],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe":[6,0,3291,0],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#a63d24d3ca4b2de1aa7f67376ded7bc59":[6,0,3291,2],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb":[6,0,3291,1],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#aa6e74e89930fd3cc564c3cba86e3687e":[6,0,3291,3]
+"d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe":[6,0,3291,0]
 };

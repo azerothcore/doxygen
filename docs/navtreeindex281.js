@@ -1,5 +1,8 @@
 var NAVTREEINDEX281 =
 {
+"db/d7f/classnpc__little__ooze.html":[6,0,1922],
+"db/d7f/classnpc__little__ooze.html#a3e56c6dbad6239485897655a4bfbbe07":[6,0,1922,2],
+"db/d7f/classnpc__little__ooze.html#a9b0849057c1d3dd9f6507b9c80e67a66":[6,0,1922,1],
 "db/d7f/structboss__veras__darkshadow.html":[6,0,763],
 "db/d7f/structboss__veras__darkshadow.html#a21f23998e3c3ecb79cbfa3c0d778f2d5":[6,0,763,3],
 "db/d7f/structboss__veras__darkshadow.html#a5eec3e70a7950073eced60d680ff6298":[6,0,763,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX281 =
 "db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[6,0,4149,1],
 "db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[6,0,4149,5],
 "db/d88/utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,4],
-"db/d88/utgarde__keep_8cpp.html#a0a556a898032cb18eabb6df4a3f482e1":[7,0,0,0,1,3,5,10,0,4,6],
-"db/d88/utgarde__keep_8cpp.html#a3252f1bf2be160c6d8960f41e595db47":[7,0,0,0,1,3,5,10,0,4,5],
-"db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278":[7,0,0,0,1,3,5,10,0,4,3],
-"db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,5,10,0,4,3,4]
+"db/d88/utgarde__keep_8cpp.html#a0a556a898032cb18eabb6df4a3f482e1":[7,0,0,0,1,3,5,10,0,4,6]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX305 =
 {
+"dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[6,0,4231,0],
+"dc/d45/LFGGroupData_8h.html":[7,0,0,0,1,2,15,3],
+"dc/d46/classspell__dru__moonkin__form__passive.html":[6,0,2822],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb":[6,0,2822,5],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a1bdab939c229c466ce6b71a7e00dedf9":[6,0,2822,3],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85":[6,0,2822,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8":[7,0,0,0,1,2,26,2,0,95],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44d6afdbd4e7450f0d169619ecb67e80":[7,0,0,0,1,2,26,2,0,97],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46d43d1cc08b0023eff6e30ce3337f8c":[7,0,0,0,1,2,26,2,0,74],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46f8a77d9f63ed92f690b4eddc643c2d":[7,0,0,0,1,2,26,2,0,22],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a48e3a5ae6108c0bf1e8bf41f87609699":[7,0,0,0,1,2,26,2,0,138],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4c9ffb086cb3f3078f269d28b4ac3431":[7,0,0,0,1,2,26,2,0,76],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4d6c8932bda9ade445520146ebf5f49c":[7,0,0,0,1,2,26,2,0,83]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46f8a77d9f63ed92f690b4eddc643c2d":[7,0,0,0,1,2,26,2,0,22]
 };

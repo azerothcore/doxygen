@@ -1,7 +1,9 @@
 var NAVTREEINDEX18 =
 {
-"d0/dbe/classAcore_1_1RandomCheck.html":[5,0,1,114],
+"d0/dbd/structCharacterFactionChangeInfo.html#a98d5fd43205a0c9e2d3be75d384ce00c":[4,1,17,3],
+"d0/dbd/structCharacterFactionChangeInfo.html#adff657ead29df26ead5e20a8ecf44e87":[4,1,17,2],
 "d0/dbe/classAcore_1_1RandomCheck.html":[6,0,0,102],
+"d0/dbe/classAcore_1_1RandomCheck.html":[5,0,1,114],
 "d0/dbe/classAcore_1_1RandomCheck.html#a9886987fa2b675ab404102ebe828c9f3":[5,0,1,114,1],
 "d0/dbe/classAcore_1_1RandomCheck.html#a9886987fa2b675ab404102ebe828c9f3":[6,0,0,102,1],
 "d0/dbe/classAcore_1_1RandomCheck.html#aad026a0ad4539dd5336c3a6b820e351d":[6,0,0,102,2],
@@ -42,8 +44,8 @@ var NAVTREEINDEX18 =
 "d0/dc2/Timer_8cpp.html#a5fb1c8d14d370751c6202fc87b27bf96":[7,0,0,0,0,15,32,5],
 "d0/dc2/Timer_8cpp.html#abbd89694b6a3e24a701ce6971b2cd37d":[7,0,0,0,0,15,32,4],
 "d0/dc2/Timer_8cpp.html#ac9bde42940b2570f3865385200b56af8":[7,0,0,0,0,15,32,1],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[5,0,30,7,11],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[6,0,11,7,11],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[5,0,30,7,11],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[6,0,11,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dd0/ArenaSpectator_8h.html#adf210ab6f5a013e4f37def30f79b2a2c":[7,0,0,0,1,2,4,1,2],
 "d0/dd0/ArenaSpectator_8h.html#ae3d7b03163a946f567eb34e902d0b424":[7,0,0,0,1,2,4,1,1],
 "d0/dd0/ArenaSpectator_8h.html#ae611c9f6783ca983d1ff667f36dd7c7d":[7,0,0,0,1,2,4,1,10],
-"d0/dd0/ArenaSpectator_8h.html#ae899637e3543ca40ec63e98bf0426f58":[7,0,0,0,1,2,4,1,17],
-"d0/dd0/ArenaSpectator_8h.html#af537ad9da6345b285d2d726b640a0340":[7,0,0,0,1,2,4,1,14],
-"d0/dd0/OutdoorPvPTF_8cpp.html":[7,0,0,0,1,3,6,11]
+"d0/dd0/ArenaSpectator_8h.html#ae899637e3543ca40ec63e98bf0426f58":[7,0,0,0,1,2,4,1,17]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX181 =
 {
+"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a16e9cc7703fe1fd664375ca8578cb3fc":[7,0,0,0,1,3,2,12,2,10,2],
+"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,2,12,2,10,6],
+"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaa268af7149a8c484dcf655ef0ea1b5e":[7,0,0,0,1,3,2,12,2,10,3],
 "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaff7201ebe3a2de7322accea1f9266f6":[7,0,0,0,1,3,2,12,2,10,1],
 "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab0554bb474effa5a810d32f250d0c1e5":[7,0,0,0,1,3,2,12,2,10,5],
 "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab2f747037153944199e358bc39a12d25":[7,0,0,0,1,3,2,12,2,10,4],
@@ -76,10 +79,10 @@ var NAVTREEINDEX181 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,107,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,107,5],
@@ -187,12 +190,12 @@ var NAVTREEINDEX181 =
 "d6/dee/namespaceArenaSpectator.html#ae611c9f6783ca983d1ff667f36dd7c7d":[5,0,6,3],
 "d6/dee/namespaceArenaSpectator.html#ae899637e3543ca40ec63e98bf0426f58":[5,0,6,10],
 "d6/dee/namespaceArenaSpectator.html#af537ad9da6345b285d2d726b640a0340":[5,0,6,7],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,1,2,8],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,1,2,8,1],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/df0/classspell__summoning__rhyme__aura.html":[6,0,3830],
 "d6/df0/classspell__summoning__rhyme__aura.html#a49db8ade3bc3a3da9e043e8b9ad1759d":[6,0,3830,1],
 "d6/df0/classspell__summoning__rhyme__aura.html#a789d2d4d2bc75e412abe80a33102fa06":[6,0,3830,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX181 =
 "d6/df3/classspell__gen__curse__of__pain.html#ad0c688255e340c428624de7071b5df56":[6,0,2931,2],
 "d6/df3/classspell__sha__mana__tide__totem.html":[6,0,3780],
 "d6/df3/classspell__sha__mana__tide__totem.html#a731503d3769718695d109ad71160e67a":[6,0,3780,3],
-"d6/df3/classspell__sha__mana__tide__totem.html#a99deca1c5c8631342be400cb863eefb2":[6,0,3780,1],
-"d6/df3/classspell__sha__mana__tide__totem.html#aa5ecc51b030fe7280e824ade641216d3":[6,0,3780,2],
-"d6/df3/classspell__sha__mana__tide__totem.html#abd35c974f5ebec4c8845c05ab4f6d309":[6,0,3780,0],
-"d6/df3/namespaceAcore_1_1Impl_1_1StringConvertImpl.html":[5,0,1,8,2]
+"d6/df3/classspell__sha__mana__tide__totem.html#a99deca1c5c8631342be400cb863eefb2":[6,0,3780,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX270 =
 {
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a07aab14b97658eba7b4d96cf0737ad05":[7,0,0,0,1,3,5,2,1,7,2,1],
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a0c79d38a1fed28b5910f30a1b94b418b":[7,0,0,0,1,3,5,2,1,7,2,6],
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a14e37a1a13bab56bee4263ceb45c69bc":[7,0,0,0,1,3,5,2,1,7,2,2],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2a98fd53128e0c2438aed5eab57b6df9":[7,0,0,0,1,3,5,2,1,7,2,8],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2e12d1ea765aace9512a67956586acb7":[7,0,0,0,1,3,5,2,1,7,2,9],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a35c5db18527a5210c35afdda639e5b7d":[7,0,0,0,1,3,5,2,1,7,2,15],
@@ -246,8 +249,5 @@ var NAVTREEINDEX270 =
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8":[7,0,0,0,1,0,0,0,1,2,8],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3":[7,0,0,0,1,0,0,0,1,2,11],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860":[7,0,0,0,1,0,0,0,1,2,15],
-"da/df4/AuthCodes_8h.html#a50a906b5a3fdca3508aee0997881a717":[7,0,0,0,1,0,0,0,1,3],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fce":[7,0,0,0,1,0,0,0,1,0],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688":[7,0,0,0,1,0,0,0,1,0,0],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3":[7,0,0,0,1,0,0,0,1,0,14]
+"da/df4/AuthCodes_8h.html#a50a906b5a3fdca3508aee0997881a717":[7,0,0,0,1,0,0,0,1,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#aa2ec4f56aa58efd3984b740b9ae20263":[6,0,1223,40],
+"d0/db7/classGroup.html#aa32c9c240d705c57efe1fd53a1a380bf":[6,0,1223,82],
 "d0/db7/classGroup.html#aa5a53220ae8ea750adf5b91e78c47e60":[6,0,1223,99],
 "d0/db7/classGroup.html#aa6163faf0a3269bdb2a55b8a5afe438f":[6,0,1223,114],
 "d0/db7/classGroup.html#aa685ebbfcefc8a8f2f4bee73bc832e3f":[6,0,1223,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[6,0,0,1,2,3],
 "d0/dbd/structCharacterFactionChangeInfo.html":[4,1,17],
 "d0/dbd/structCharacterFactionChangeInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,17,1],
-"d0/dbd/structCharacterFactionChangeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,17,0],
-"d0/dbd/structCharacterFactionChangeInfo.html#a98d5fd43205a0c9e2d3be75d384ce00c":[4,1,17,3],
-"d0/dbd/structCharacterFactionChangeInfo.html#adff657ead29df26ead5e20a8ecf44e87":[4,1,17,2]
+"d0/dbd/structCharacterFactionChangeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,17,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX394 =
 {
+"df/dc3/classspell__apothecary__throw__perfume.html":[6,0,2608],
+"df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[6,0,2608,1],
+"df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[6,0,2608,0],
 "df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[6,0,2608,2],
 "df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[6,0,2608,3],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html":[6,0,2743],
@@ -246,8 +249,5 @@ var NAVTREEINDEX394 =
 "df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,335,14],
 "df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[6,0,335,19],
 "df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[6,0,335,23],
-"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,335,20],
-"df/dd5/spell__shaman_8cpp.html":[7,0,0,0,1,3,9,10],
-"df/dd5/spell__shaman_8cpp.html#a3082f46075e4e453c37bc429c9d57a1a":[7,0,0,0,1,3,9,10,33],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186f":[7,0,0,0,1,3,9,10,31]
+"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,335,20]
 };

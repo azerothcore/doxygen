@@ -1,5 +1,8 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad3334f5105a2cd0b9e4d176bf087c4e9":[7,0,0,0,1,2,3,1,7,2,32],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad6d50dc8dc6de123eee0d2e67f12a40f":[7,0,0,0,1,2,3,1,7,2,11],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daeb88157fb28855d72a3a04a83d9d0380":[7,0,0,0,1,2,3,1,7,2,16],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8":[7,0,0,0,1,2,3,1,7,2,34],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dafb71aeff9ec1a18f1ea4975287e8c512":[7,0,0,0,1,2,3,1,7,2,38],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dafc9d96c9e0b2a2aa34752431211d108d":[7,0,0,0,1,2,3,1,7,2,37],
@@ -246,8 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d28/structSpellProcEventEntry.html#af253ef32b9de49fe85d0fe6f06855a60":[6,0,4082,4],
 "d6/d29/classnpc__battle__at__valhalas.html":[6,0,1631],
 "d6/d29/classnpc__battle__at__valhalas.html#a3660ba847b3b40c2d358d63c63517a5e":[6,0,1631,2],
-"d6/d29/classnpc__battle__at__valhalas.html#aacec717b5b91ae55307c9642779c15ec":[6,0,1631,1],
-"d6/d29/classnpc__battle__at__valhalas.html#addd76fd9f4b4f8ce706693614b80966b":[6,0,1631,3],
-"d6/d2a/MapDefines_8h.html":[7,0,0,0,0,1,1,0],
-"d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe":[7,0,0,0,0,1,1,0,1]
+"d6/d29/classnpc__battle__at__valhalas.html#aacec717b5b91ae55307c9642779c15ec":[6,0,1631,1]
 };

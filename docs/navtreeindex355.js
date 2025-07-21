@@ -1,5 +1,8 @@
 var NAVTREEINDEX355 =
 {
+"de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b":[5,0,20,27],
+"de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04":[5,0,20,32],
+"de/d1b/ConfigValueCache_8h.html":[7,0,0,0,0,2,4],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html":[6,0,3037],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a56ff062a6014099623466145a66284cc":[6,0,3037,0],
 "de/d1b/classspell__gothik__shadow__bolt__volley.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4":[6,0,3037,3],
@@ -228,8 +231,8 @@ var NAVTREEINDEX355 =
 "de/d1e/classMailSender.html#a735cfef6950357644d6965978dde0309":[6,0,1466,1],
 "de/d1e/classMailSender.html#a7d5a5e40aa20de720f310b739f159225":[6,0,1466,4],
 "de/d1e/classMailSender.html#a9ddda06cf5ecc55efdc4525353471c5b":[6,0,1466,3],
-"de/d20/classVMAP_1_1MapRayCallback.html":[5,0,27,11],
 "de/d20/classVMAP_1_1MapRayCallback.html":[6,0,9,11],
+"de/d20/classVMAP_1_1MapRayCallback.html":[5,0,27,11],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[5,0,27,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[6,0,9,11,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,27,11,0],
@@ -240,14 +243,11 @@ var NAVTREEINDEX355 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,27,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,27,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,859],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,859,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,859,1],
 "de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,859,0],
-"de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,859,3],
-"de/d20/structEmotesTextEntry.html":[6,0,1008],
-"de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1008,0],
-"de/d20/structEmotesTextEntry.html#a7e50690fa335b759dba5ac265c9a0dd0":[6,0,1008,1]
+"de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,859,3]
 };

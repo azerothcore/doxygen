@@ -1,5 +1,8 @@
 var NAVTREEINDEX144 =
 {
+"d5/d4d/classIWorld.html#a08e6163c632e0025a596469bf7e1e1ca":[6,0,1393,17],
+"d5/d4d/classIWorld.html#a0ac63e3f37963ccdc41f794a84367175":[6,0,1393,35],
+"d5/d4d/classIWorld.html#a0c9bd3a70458fe655bfc9492b4169118":[6,0,1393,44],
 "d5/d4d/classIWorld.html#a0d272fbf5de8cfbbedd45726c190baf6":[6,0,1393,30],
 "d5/d4d/classIWorld.html#a1784b2a89b77dc3078582b78cd957968":[6,0,1393,39],
 "d5/d4d/classIWorld.html#a1c88b825902f5caa4ec0f80e8f464463":[6,0,1393,41],
@@ -134,14 +137,14 @@ var NAVTREEINDEX144 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[6,0,3866,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[6,0,3866,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3866,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,30,5,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,30,5,52,2],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,30,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,5,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,30,5,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,30,5,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3353],
@@ -246,8 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,3,8,3],
 "d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a1bacca4a652d58adaa186c72b16c4d":[7,0,0,0,1,3,2,1,3,8,3,3],
 "d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5":[7,0,0,0,1,3,2,1,3,8,3,0],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa190a1a901ad052af84001e8cafb1972":[7,0,0,0,1,3,2,1,3,8,3,4],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab13564888e52fad8973a6c5cd9034fc3":[7,0,0,0,1,3,2,1,3,8,3,1],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac30f8c8354deee6931f7b67cdfc1394a":[7,0,0,0,1,3,2,1,3,8,3,2],
-"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html":[6,0,2251,0]
+"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa190a1a901ad052af84001e8cafb1972":[7,0,0,0,1,3,2,1,3,8,3,4]
 };

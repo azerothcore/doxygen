@@ -1,5 +1,8 @@
 var NAVTREEINDEX188 =
 {
+"d7/d46/classAuraEffect.html#a3e9174d203a34abc924e9a58efb2473c":[6,0,281,79],
+"d7/d46/classAuraEffect.html#a3ea63ccc256382991e0802842f69e44f":[6,0,281,15],
+"d7/d46/classAuraEffect.html#a3ee0e71dbbb4e685b4e8db327e3b639b":[6,0,281,129],
 "d7/d46/classAuraEffect.html#a3f9c2c6496be1ffad249825f86074def":[6,0,281,224],
 "d7/d46/classAuraEffect.html#a40615fe10569d7caed175b71339ae1cf":[6,0,281,54],
 "d7/d46/classAuraEffect.html#a40c4c923ea3038d2285ab82992e87dc8":[6,0,281,193],
@@ -246,8 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d49/classnpc__naxxramas__trigger.html#a1ab25fd0b40f373d30b0f60462dd276b":[6,0,1976,3],
 "d7/d49/classnpc__naxxramas__trigger.html#a5bf85ab6027ca5101df32cda6df29b28":[6,0,1976,1],
 "d7/d49/classnpc__naxxramas__trigger.html#a62fd64468daf378fbe2e8f18b1f002f8":[6,0,1976,0],
-"d7/d49/classnpc__naxxramas__trigger.html#acd051dd7790aa37cd2375479433509cb":[6,0,1976,2],
-"d7/d4a/drak__tharon__keep_8h.html":[7,0,0,0,1,3,5,3,4],
-"d7/d4a/drak__tharon__keep_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,3,4,0],
-"d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,5,3,4,5]
+"d7/d49/classnpc__naxxramas__trigger.html#acd051dd7790aa37cd2375479433509cb":[6,0,1976,2]
 };

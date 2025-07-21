@@ -1,5 +1,8 @@
 var NAVTREEINDEX247 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7916efc9ce6ee42850d9245ab02fcd24":[7,0,0,0,1,2,48,4,1,383],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7a8e52c82c967945144ffe3ef4801903":[7,0,0,0,1,2,48,4,1,4],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7b1c5e14be4f4227814f75a66ba1aa12":[7,0,0,0,1,2,48,4,1,297],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7b312d4eba4685b9f09e02a5bf1bca5c":[7,0,0,0,1,2,48,4,1,83],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7b5c9e080fe5618024eeedb1775d4f90":[7,0,0,0,1,2,48,4,1,266],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7bbac6f1e7c05710935efebf9d5a5e02":[7,0,0,0,1,2,48,4,1,300],
@@ -246,8 +249,5 @@ var NAVTREEINDEX247 =
 "da/d02/namespaceAcore_1_1Time.html#abb2429e5a8226c49ea8909ad21d2a36b":[5,0,1,14,11],
 "da/d02/namespaceAcore_1_1Time.html#adcb393a66882383e4038b040ea9fa983":[5,0,1,14,4],
 "da/d02/namespaceAcore_1_1Time.html#af415b3b5ef693e8bd9a8b7f5088ab704":[5,0,1,14,8],
-"da/d02/namespaceAcore_1_1Time.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[5,0,1,14,17],
-"da/d02/namespaceAcore_1_1Time.html#afe6fb6cf9a0829f40c9ba45356eec815":[5,0,1,14,7],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[6,0,3439],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[6,0,3439,2]
+"da/d02/namespaceAcore_1_1Time.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[5,0,1,14,17]
 };

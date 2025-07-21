@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242":[6,0,508,0,2],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6":[6,0,508,0,10],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,508,0,6],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a810a91ffbcc3caa7c31e17afbd615392":[6,0,508,0,11],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a996175b70b9a69175988350fc09edd79":[6,0,508,0,7],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aa717d51aa10c139473031072065064ce":[6,0,508,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ac4e2ed28ba7863630cd54c8f6c11455f":[6,0,744,0,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ad501bb34a0014be0abc965aae5383e21":[6,0,744,0,2],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[6,0,744,0,7],
-"df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[6,0,744,0,3],
-"df/dc3/classspell__apothecary__throw__perfume.html":[6,0,2608],
-"df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[6,0,2608,1],
-"df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[6,0,2608,0]
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[6,0,744,0,3]
 };

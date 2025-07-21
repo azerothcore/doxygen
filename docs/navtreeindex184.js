@@ -1,5 +1,8 @@
 var NAVTREEINDEX184 =
 {
+"d7/d15/classspell__gen__replenishment__aura.html#a335e1629b98bfacf6e4e565b94d4991e":[6,0,3001,3],
+"d7/d15/classspell__gen__replenishment__aura.html#a777803a61286e0eba31246d4771630df":[6,0,3001,1],
+"d7/d15/classspell__gen__replenishment__aura.html#ab76bc3927d3ce31ae061fe8577ca25f0":[6,0,3001,2],
 "d7/d16/classspell__call__wintergarde__gryphon.html":[6,0,2695],
 "d7/d16/classspell__call__wintergarde__gryphon.html#a41beb2c890137328734d6adb14e08302":[6,0,2695,0],
 "d7/d16/classspell__call__wintergarde__gryphon.html#a431a556ab73f91ed63f5983e537834a5":[6,0,2695,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[6,0,602,2],
 "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[6,0,602,7],
 "d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[6,0,602,6],
-"d7/d23/structboss__magus__telestra.html#a91b4569027b3414814bf1f2e86441fc6":[6,0,602,4],
-"d7/d23/structboss__magus__telestra.html#a9ef67f8a53c5dceaf74bc156e0c6edad":[6,0,602,1],
-"d7/d23/structboss__magus__telestra.html#ac48bb325de6641a1f2f980f15b8e3eb4":[6,0,602,8],
-"d7/d23/structboss__magus__telestra.html#ac69759755637749a58f712b86d3bf9ac":[6,0,602,3]
+"d7/d23/structboss__magus__telestra.html#a91b4569027b3414814bf1f2e86441fc6":[6,0,602,4]
 };

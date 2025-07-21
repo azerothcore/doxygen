@@ -1,5 +1,8 @@
 var NAVTREEINDEX167 =
 {
+"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[7,0,0,0,1,3,10,17,5,2],
+"d6/d36/structWardenModuleUse.html":[6,0,4235],
+"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4235,0],
 "d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[6,0,4235,3],
 "d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[6,0,4235,1],
 "d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[6,0,4235,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d39/classspell__karathress__power__of__caribdis.html#ac9231c238adf7e733d55bc6098daddc0":[6,0,3331,1],
 "d6/d3a/cs__bag_8cpp.html":[7,0,0,0,1,3,0,3],
 "d6/d3a/cs__bag_8cpp.html#a8fa1e803122341d611168b2b62fde4e5":[7,0,0,0,1,3,0,3,1],
-"d6/d3a/cs__bag_8cpp.html#af266597924b9d3f439ffc9908001d2cb":[7,0,0,0,1,3,0,3,2],
-"d6/d3a/structBaseTable.html":[6,0,303],
-"d6/d3a/structBaseTable.html#a0f308af88812c110c490c94368bda482":[6,0,303,3],
-"d6/d3a/structBaseTable.html#a629a600c48376d04293c225390f747ff":[6,0,303,0]
+"d6/d3a/cs__bag_8cpp.html#af266597924b9d3f439ffc9908001d2cb":[7,0,0,0,1,3,0,3,2]
 };
