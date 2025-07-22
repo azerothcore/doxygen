@@ -1516,7 +1516,7 @@ var searchData=
   ['haslowersecurity_1513',['HasLowerSecurity',['../d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c',1,'ChatHandler']]],
   ['haslowersecurityaccount_1514',['HasLowerSecurityAccount',['../d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4',1,'ChatHandler']]],
   ['hasmainhandweapon_1515',['HasMainhandWeapon',['../df/dd9/classUnit.html#af8454dc2cdff77f66954f13f0e4c6c6c',1,'Unit']]],
-  ['hasmainhandweaponforattack_1516',['hasmainhandweaponforattack',['../df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83',1,'Unit::HasMainhandWeaponForAttack() const'],['../df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13',1,'Unit::hasMainhandWeaponForAttack() const']]],
+  ['hasmainhandweaponforattack_1516',['hasmainhandweaponforattack',['../df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13',1,'Unit::hasMainhandWeaponForAttack() const'],['../df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83',1,'Unit::HasMainhandWeaponForAttack() const']]],
   ['hasmechanictemplateimmunity_1517',['HasMechanicTemplateImmunity',['../db/dd5/classCreature.html#a5ac302b3e937ddf1c2c5198d99226369',1,'Creature']]],
   ['hasmeleespec_1518',['HasMeleeSpec',['../d2/d4b/classPlayer.html#a336633d1a73d1ccb1a546e5b0c38ae79',1,'Player']]],
   ['hasminion_1519',['HasMinion',['../db/d14/structnpc__necrotic__shard.html#a1180dc1fa894886b492508afbc692667',1,'npc_necrotic_shard']]],

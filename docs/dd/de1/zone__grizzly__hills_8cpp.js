@@ -20,8 +20,6 @@ var zone__grizzly__hills_8cpp =
     [ "npc_lake_frog::npc_lake_frogAI", "d0/d5a/structnpc__lake__frog_1_1npc__lake__frogAI.html", "d0/d5a/structnpc__lake__frog_1_1npc__lake__frogAI" ],
     [ "spell_shredder_delivery", "dd/d55/classspell__shredder__delivery.html", "dd/d55/classspell__shredder__delivery" ],
     [ "spell_infected_worgen_bite_aura", "d8/daa/classspell__infected__worgen__bite__aura.html", "d8/daa/classspell__infected__worgen__bite__aura" ],
-    [ "npc_rocket_propelled_warhead", "d1/dfa/classnpc__rocket__propelled__warhead.html", "d1/dfa/classnpc__rocket__propelled__warhead" ],
-    [ "npc_rocket_propelled_warhead::npc_rocket_propelled_warheadAI", "df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI.html", "df/de8/structnpc__rocket__propelled__warhead_1_1npc__rocket__propelled__warheadAI" ],
     [ "spell_vehicle_warhead_fuse", "d6/d66/classspell__vehicle__warhead__fuse.html", "d6/d66/classspell__vehicle__warhead__fuse" ],
     [ "spell_warhead_detonate", "d4/dc6/classspell__warhead__detonate.html", "d4/dc6/classspell__warhead__detonate" ],
     [ "spell_z_check_aura", "d3/d0c/classspell__z__check__aura.html", "d3/d0c/classspell__z__check__aura" ],
@@ -88,14 +86,6 @@ var zone__grizzly__hills_8cpp =
       [ "ITEM_ANDERHOLS_SLIDER_CIDER", "dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa87dd31147530587136b5ad9170479572", null ],
       [ "NPC_OUTHOUSE_BUNNY_GRIZZLY", "dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa9612c8f571f4554fb83167760aff32b1", null ]
     ] ],
-    [ "RedRocket", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3", [
-      [ "SPELL_VEHICLE_WARHEAD_FUSE", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a79483ed902914f899ef143e7bd1a4c6c", null ],
-      [ "SPELL_ALLIANCE_KILL_CREDIT_TORPEDO", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a56fdaf664b4594fcb8f6c1b634d1c80f", null ],
-      [ "SPELL_HORDE_KILL_CREDIT_TORPEDO", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a3efc661e39b23d4900a6d76175934ea4", null ],
-      [ "NPC_HORDE_LUMBERBOAT", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a60f8d241ef458c2a3a90c493bf65e66d", null ],
-      [ "NPC_ALLIANCE_LUMBERBOAT", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3ae54f1f7988d3d9d1b0421a2c8364d4f3", null ],
-      [ "SPELL_DETONATE", "dd/de1/zone__grizzly__hills_8cpp.html#a81d7daf10166354a83e33fdfe66b4ce3a099e1b0a1c67eedbc029402cc5b43653", null ]
-    ] ],
     [ "renewskirmisher", "dd/de1/zone__grizzly__hills_8cpp.html#a61340ebbe92b0d68f329d315640b1b8b", [
       [ "NPC_WOUNDED_SKIRMISHER", "dd/de1/zone__grizzly__hills_8cpp.html#a61340ebbe92b0d68f329d315640b1b8ba3a5bea5a9e88625c715ee7a262041564", null ]
     ] ],
@@ -142,6 +132,7 @@ var zone__grizzly__hills_8cpp =
       [ "NPC_ALLIANCE_LUMBERBOAT_EXPLOSIONS", "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea1e12b7ffbc7fab0fa75976e942414587", null ]
     ] ],
     [ "WarheadSpells", "dd/de1/zone__grizzly__hills_8cpp.html#a2242654c68923d8e477579bbcec70ec7", [
+      [ "SPELL_DETONATE", "dd/de1/zone__grizzly__hills_8cpp.html#a2242654c68923d8e477579bbcec70ec7a099e1b0a1c67eedbc029402cc5b43653", null ],
       [ "SPELL_WARHEAD_Z_CHECK", "dd/de1/zone__grizzly__hills_8cpp.html#a2242654c68923d8e477579bbcec70ec7a40ed354c4be481c91623f3471bcc9ac1", null ],
       [ "SPELL_WARHEAD_SEEKING_LUMBERSHIP", "dd/de1/zone__grizzly__hills_8cpp.html#a2242654c68923d8e477579bbcec70ec7a0ea81fb1a346aeb6e14f9085ccce37f1", null ],
       [ "SPELL_WARHEAD_FUSE", "dd/de1/zone__grizzly__hills_8cpp.html#a2242654c68923d8e477579bbcec70ec7aea27e2759fcc77c9f25163592fe32f6d", null ]

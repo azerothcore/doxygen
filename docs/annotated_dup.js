@@ -2550,7 +2550,6 @@ var annotated_dup =
     [ "npc_ritual_channeler", "d3/dbf/classnpc__ritual__channeler.html", "d3/dbf/classnpc__ritual__channeler" ],
     [ "npc_rivern_frostwind", "d5/dae/classnpc__rivern__frostwind.html", "d5/dae/classnpc__rivern__frostwind" ],
     [ "npc_rizzle_sprysprocket", "dc/d1f/classnpc__rizzle__sprysprocket.html", "dc/d1f/classnpc__rizzle__sprysprocket" ],
-    [ "npc_rocket_propelled_warhead", "d1/dfa/classnpc__rocket__propelled__warhead.html", "d1/dfa/classnpc__rocket__propelled__warhead" ],
     [ "npc_rocknot", "d8/df3/classnpc__rocknot.html", "d8/df3/classnpc__rocknot" ],
     [ "npc_rookery_hatcher", "dd/df0/classnpc__rookery__hatcher.html", "dd/df0/classnpc__rookery__hatcher" ],
     [ "npc_rotting_frost_giant", "dd/d14/classnpc__rotting__frost__giant.html", "dd/d14/classnpc__rotting__frost__giant" ],
