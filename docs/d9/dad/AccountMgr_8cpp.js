@@ -11,7 +11,11 @@ var AccountMgr_8cpp =
     [ "GetName", "d9/dad/AccountMgr_8cpp.html#af911e3860ec519c541d6df35468ee41b", null ],
     [ "GetSecurity", "d9/dad/AccountMgr_8cpp.html#a8280510b2564ec6ea76727218c1687b3", null ],
     [ "GetSecurity", "d9/dad/AccountMgr_8cpp.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "HasAccountFlag", "d9/dad/AccountMgr_8cpp.html#adfd9573faa0ef869b4a65e1bce005af9", null ],
     [ "IsAdminAccount", "d9/dad/AccountMgr_8cpp.html#adb1b210137b09011677c74011addeefa", null ],
     [ "IsConsoleAccount", "d9/dad/AccountMgr_8cpp.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d9/dad/AccountMgr_8cpp.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "IsGMAccount", "d9/dad/AccountMgr_8cpp.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+    [ "IsPlayerAccount", "d9/dad/AccountMgr_8cpp.html#a63751f144cb7acb57fc20f0caf5e7043", null ],
+    [ "UpdateAccountFlag", "d9/dad/AccountMgr_8cpp.html#ae178623ae65957d0cac424029015687b", null ],
+    [ "ValidateAccountFlags", "d9/dad/AccountMgr_8cpp.html#ad3520b35f87b1aab0402a608c45bc844", null ]
 ];

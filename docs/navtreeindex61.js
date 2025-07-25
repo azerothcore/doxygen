@@ -1,5 +1,6 @@
 var NAVTREEINDEX61 =
 {
+"d2/d4b/classPlayer.html#ad44127ae589c9be2a053996a1eddb26a":[6,0,2398,1180],
 "d2/d4b/classPlayer.html#ad46f720cf4699c8a2a9f4e0b2fad33b5":[6,0,2398,1118],
 "d2/d4b/classPlayer.html#ad4765f5f31e484e3fd7c8a39ede36499":[6,0,2398,654],
 "d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d":[6,0,2398,715],
@@ -248,6 +249,5 @@ var NAVTREEINDEX61 =
 "d2/d52/classboss__hedrum.html#a655d348dec9ce9b585ea12f3629b0aa7":[6,0,523,1],
 "d2/d52/classboss__hedrum.html#a7033d315852aa4905784e957679ee261":[6,0,523,2],
 "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html":[6,0,1314,0],
-"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a01da8216f57e19b5bf8697700089118c":[6,0,1314,0,3],
-"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a166db22fd409d0387085053852e5ad30":[6,0,1314,0,5]
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a01da8216f57e19b5bf8697700089118c":[6,0,1314,0,3]
 };

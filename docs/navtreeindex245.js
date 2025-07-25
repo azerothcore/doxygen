@@ -1,5 +1,13 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a084b9c81c7882feecb5bace81983bede":[7,0,0,0,1,3,5,9,2,16,6,27],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d":[7,0,0,0,1,3,5,9,2,16,6,20],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a1c4aa0e2fdf9f6fad7a373bcae622fae":[7,0,0,0,1,3,5,9,2,16,6,28],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a2c2e5ea2f9823a249c2d8e44bb4966aa":[7,0,0,0,1,3,5,9,2,16,6,15],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a2e057773a5165017ccb2e13942702784":[7,0,0,0,1,3,5,9,2,16,6,26],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a37586ea5113dbdf35f7d5f1ac8939a6e":[7,0,0,0,1,3,5,9,2,16,6,1],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3ba8009dda0238e2c90d217191be586e":[7,0,0,0,1,3,5,9,2,16,6,7],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3c4bed24d8f7617825f8cebba0060bb2":[7,0,0,0,1,3,5,9,2,16,6,10],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3c9e6cea739bb1eb05cea7e425b56c13":[7,0,0,0,1,3,5,9,2,16,6,13],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a42abfabf7bacde3b765407a9956babf6":[7,0,0,0,1,3,5,9,2,16,6,8],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a475b7ccdb57cc5c481a20d404ac71134":[7,0,0,0,1,3,5,9,2,16,6,25],
@@ -241,13 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dff/classCreatureTextLocalizer.html":[6,0,932],
 "d9/dff/classCreatureTextLocalizer.html#a1a03d45dfd3c6c5f6f4995d5efe238a5":[6,0,932,1],
 "d9/dff/classCreatureTextLocalizer.html#a1d8d97d3e423810d044a8155b182899d":[6,0,932,3],
-"d9/dff/classCreatureTextLocalizer.html#a660b352a1c1855f4b10a8aebef88133f":[6,0,932,5],
-"d9/dff/classCreatureTextLocalizer.html#a799f1007b9977224d71da1451c3454e1":[6,0,932,0],
-"d9/dff/classCreatureTextLocalizer.html#ab2c364aa9d45ca2267db2641b26821f7":[6,0,932,2],
-"d9/dff/classCreatureTextLocalizer.html#adf9260955b0141e85ff47c66350244e2":[6,0,932,4],
-"d9/dff/classspell__pal__judgement.html":[6,0,3509],
-"d9/dff/classspell__pal__judgement.html#a0bb55f122d560c70f416e448d03d2184":[6,0,3509,4],
-"d9/dff/classspell__pal__judgement.html#a2cffed69c16a1a6189048ed52af35152":[6,0,3509,2],
-"d9/dff/classspell__pal__judgement.html#a3971c195a279338253771675131b4802":[6,0,3509,5],
-"d9/dff/classspell__pal__judgement.html#a497aed8c1d8c6a2af22e9e8daae96e14":[6,0,3509,0]
+"d9/dff/classCreatureTextLocalizer.html#a660b352a1c1855f4b10a8aebef88133f":[6,0,932,5]
 };

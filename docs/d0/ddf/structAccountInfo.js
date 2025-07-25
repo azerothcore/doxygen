@@ -4,6 +4,7 @@ var structAccountInfo =
     [ "LoadResult", "d0/ddf/structAccountInfo.html#a9082681008dee65a0d5d2f758e88729c", null ],
     [ "Expansion", "d0/ddf/structAccountInfo.html#acb4c44664aff165a48d262f81849caf4", null ],
     [ "FailedLogins", "d0/ddf/structAccountInfo.html#a252a0300cb2288b4715cb864f93a25e5", null ],
+    [ "Flags", "d0/ddf/structAccountInfo.html#a95eeb7d5ac99719aa16f467717b815e3", null ],
     [ "Id", "d0/ddf/structAccountInfo.html#a8927a7332aba609a90e35555a62c2013", null ],
     [ "IsBanned", "d0/ddf/structAccountInfo.html#a9e199ded02bf60c9f05408955af21d84", null ],
     [ "IsLockedToIP", "d0/ddf/structAccountInfo.html#aa4f52d33739d0d0adc3fa88a09ae7465", null ],

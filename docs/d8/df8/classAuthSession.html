@@ -570,7 +570,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  531</span>                proof.M2 = M2;</div>
 <div class="line"><span class="lineno">  532</span>                proof.cmd = AUTH_LOGON_PROOF;</div>
 <div class="line"><span class="lineno">  533</span>                proof.error = 0;</div>
-<div class="line"><span class="lineno">  534</span>                proof.AccountFlags = 0x00800000;    <span class="comment">// 0x01 = GM, 0x08 = Trial, 0x00800000 = Pro pass (arena tournament)</span></div>
+<div class="line"><span class="lineno">  534</span>                proof.AccountFlags = ACCOUNT_FLAG_PROPASS_LOCK;    <span class="comment">// enum AccountFlag</span></div>
 <div class="line"><span class="lineno">  535</span>                proof.SurveyId = 0;</div>
 <div class="line"><span class="lineno">  536</span>                proof.LoginFlags = 0;               <span class="comment">// 0x1 = has account message</span></div>
 <div class="line"><span class="lineno">  537</span> </div>
@@ -668,7 +668,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:166</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fba061bb35856031b8a67e661ed9758ee12"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba061bb35856031b8a67e661ed9758ee12">LOGIN_INS_ACCOUNT_AUTO_BANNED</a></div><div class="ttdeci">@ LOGIN_INS_ACCOUNT_AUTO_BANNED</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:40</div></div>
-<div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fba89d3adacbac67fe36297b4605cd4e9f1"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba89d3adacbac67fe36297b4605cd4e9f1">LOGIN_INS_FALP_IP_LOGGING</a></div><div class="ttdeci">@ LOGIN_INS_FALP_IP_LOGGING</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:110</div></div>
+<div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fba89d3adacbac67fe36297b4605cd4e9f1"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba89d3adacbac67fe36297b4605cd4e9f1">LOGIN_INS_FALP_IP_LOGGING</a></div><div class="ttdeci">@ LOGIN_INS_FALP_IP_LOGGING</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:113</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fba94a10b92012f8bf9cdb1517ddb795a6f"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba94a10b92012f8bf9cdb1517ddb795a6f">LOGIN_UPD_LOGONPROOF</a></div><div class="ttdeci">@ LOGIN_UPD_LOGONPROOF</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:43</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fbac27495ead42e46aaa2fcee3e7228cfd0"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbac27495ead42e46aaa2fcee3e7228cfd0">LOGIN_UPD_FAILEDLOGINS</a></div><div class="ttdeci">@ LOGIN_UPD_FAILEDLOGINS</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:46</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fbacd79a97592b3729c819a887b45ba28b7"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbacd79a97592b3729c819a887b45ba28b7">LOGIN_INS_IP_AUTO_BANNED</a></div><div class="ttdeci">@ LOGIN_INS_IP_AUTO_BANNED</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:36</div></div>
@@ -2079,7 +2079,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/df8/classAuthSession.html">AuthSession</a></li>
-    <li class="footer">Generated on Thu Jul 24 2025 06:25:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jul 25 2025 06:26:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3":[7,0,0,0,1,2,3,4,7,7],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38":[7,0,0,0,1,2,3,4,7,6],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508":[7,0,0,0,1,2,3,4,7,4],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb":[7,0,0,0,1,2,3,4,7,5],
@@ -117,16 +118,16 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,17,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[7,0,0,0,1,2,38,0,17,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[7,0,0,0,1,2,38,0,17,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2170],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2170,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2170,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d14/classnpcs__riverbreeze__and__silversky.html#a93c7b159dda733da5030de747bad30b5":[6,0,2309,2],
 "d2/d14/classnpcs__riverbreeze__and__silversky.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2":[6,0,2309,0],
 "d2/d14/structboss__felblood__kaelthas.html":[6,0,461],
-"d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218":[6,0,461,5],
-"d2/d14/structboss__felblood__kaelthas.html#a85abfb330ccc1fed5b9dc851d780f386":[6,0,461,0]
+"d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218":[6,0,461,5]
 };

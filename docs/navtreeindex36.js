@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d1/d80/classnpc__thrall__bfu.html#a28b4030d189e4d967a1b16f3464c14ba":[6,0,2172,2],
 "d1/d80/classnpc__thrall__bfu.html#a43eb37b9a0cf06be0e2cb6180730b09f":[6,0,2172,1],
 "d1/d80/classnpc__thrall__bfu.html#a71a7108464de9245879c8a1c08932e2a":[6,0,2172,3],
 "d1/d80/classnpc__thrall__bfu.html#aea62ed8489bea23772a52ddefbf9c60e":[6,0,2172,4],
@@ -21,16 +22,16 @@ var NAVTREEINDEX36 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[6,0,1984,0,5],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[6,0,0,11],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,23],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,11,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,23,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[6,0,0,11,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,11,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[6,0,0,11,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,1,23,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[6,0,0,11,4],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[6,0,0,11,3],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[7,0,0,0,1,3,7,5,1,1],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,1,1,2],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,1,1,2,4],
@@ -193,8 +194,8 @@ var NAVTREEINDEX36 =
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a":[7,0,0,0,1,3,5,9,2,3,46,9],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[5,0,30,5,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[6,0,11,5,18],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[6,0,11,5,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[5,0,30,5,18,0],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[6,0,11,5,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[6,0,11,5,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[5,0,30,5,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,30,5,18,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d8b/boss__skeram_8cpp.html#a5bd342133be8c2137b831460acc9298ca99a67d0b1f1661fbf9d0dd096f94f6d5":[7,0,0,0,1,3,4,9,6,3,3],
 "d1/d8b/boss__skeram_8cpp.html#a5bd342133be8c2137b831460acc9298cae95913d87ac89138e5fe9a669e796aaa":[7,0,0,0,1,3,4,9,6,3,1],
 "d1/d8b/boss__skeram_8cpp.html#a7f937d2c75f2ba29c59fd8e8a941196e":[7,0,0,0,1,3,4,9,6,5],
-"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,9,6,2],
-"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07172004263a6b92b72d245a194dbf7c":[7,0,0,0,1,3,4,9,6,2,2]
+"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,9,6,2]
 };

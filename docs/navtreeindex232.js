@@ -1,5 +1,9 @@
 var NAVTREEINDEX232 =
 {
+"d9/d42/classboss__yoggsaron__immortal__guardian.html#ac532ca090d93ce6d11a0332329111f2b":[6,0,794,2],
+"d9/d44/classspell__xt002__gravity__bomb.html":[6,0,4022],
+"d9/d44/classspell__xt002__gravity__bomb.html#a1c55fabe15cdccb073e109e1d0f6e6ad":[6,0,4022,2],
+"d9/d44/classspell__xt002__gravity__bomb.html#a525025d429743f9d606289ca1a660796":[6,0,4022,0],
 "d9/d44/classspell__xt002__gravity__bomb.html#a66f565c07d495f27aaba393fdcce9d24":[6,0,4022,1],
 "d9/d44/structboss__ignis_1_1boss__ignisAI.html":[6,0,542,0],
 "d9/d44/structboss__ignis_1_1boss__ignisAI.html#a0301c4e7ef8b0789548a7a5a738ab69b":[6,0,542,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d55/structCreatureAIFactory.html#ae5e76ee1d1f8949214dd5421bf7e4deb":[6,0,912,2],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html":[6,0,533,0],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[6,0,533,0,2],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a38e6008d616131d2876ae5a085a083ff":[6,0,533,0,4],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a627390013798de7a53a95817624417e3":[6,0,533,0,3],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#ac7e125b4350880d3d195b915c8be9de0":[6,0,533,0,1],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#ae6906b2f86eb2d8efe51de92376be0da":[6,0,533,0,0],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html":[6,0,1342,0]
+"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a38e6008d616131d2876ae5a085a083ff":[6,0,533,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3424,1],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#ae1c6062123fb62a48f542e43b34c7bcd":[6,0,3424,0],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#af7a5a98b5cf784d2de8b57a183c19142":[6,0,3424,2],
 "d1/dac/structboss__lord__marrowgar.html":[6,0,594],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a44706058a14300e6eecd11d66db8c1da":[7,0,0,0,1,2,16,10,5,42,3],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a484bae12abe1c864433abe4450a3ddba":[7,0,0,0,1,2,16,10,5,42,6],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a9c5d76fbca1fce33b08a1655b9017272":[7,0,0,0,1,2,16,10,5,42,8],
-"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5ac796a4cfbee69fa86fc62baf8a4e0917":[7,0,0,0,1,2,16,10,5,42,0],
-"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5adc228cbe63eb5f62db81d5e44784ea35":[7,0,0,0,1,2,16,10,5,42,2]
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5ac796a4cfbee69fa86fc62baf8a4e0917":[7,0,0,0,1,2,16,10,5,42,0]
 };

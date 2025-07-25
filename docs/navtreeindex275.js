@@ -1,5 +1,13 @@
 var NAVTREEINDEX275 =
 {
+"db/d2d/boss__hazzarah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0b49bbd252c742e5e12547b6cd047e6":[7,0,0,0,1,3,2,16,4,2,0],
+"db/d2d/enuminfo__CreatureAI_8cpp.html":[7,0,0,0,1,2,3,11],
+"db/d2d/structLastPhaseIceTombTargetSelector.html":[6,0,1402],
+"db/d2d/structLastPhaseIceTombTargetSelector.html#a92a846ff557334b1f30d8e062a2c64e9":[6,0,1402,1],
+"db/d2d/structLastPhaseIceTombTargetSelector.html#ab10d10dd0de7717078d31ac026d4c933":[6,0,1402,2],
+"db/d2d/structLastPhaseIceTombTargetSelector.html#ac01f20b199bb0ee63b9c8f8206321057":[6,0,1402,0],
+"db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html":[6,0,1665,0],
+"db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a0cf480b75aa45a9f3572c4a65df2daee":[6,0,1665,0,0],
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a18db5870e62378ff49472f7a5881861c":[6,0,1665,0,1],
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#aadc3384626d728942897fe93750f0c02":[6,0,1665,0,2],
 "db/d2e/classnpc__iron__watcher.html":[6,0,1894],
@@ -241,13 +249,5 @@ var NAVTREEINDEX275 =
 "db/d3f/boss__murmur_8cpp.html#ac4b0a537cfe1e2e72571857069862bae":[7,0,0,0,1,3,7,0,3,3,7],
 "db/d40/classspell__muru__darkness__aura.html":[6,0,3458],
 "db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d":[6,0,3458,0],
-"db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[6,0,3458,2],
-"db/d40/classspell__muru__darkness__aura.html#a6843deda5be8b684c06a86920714f255":[6,0,3458,3],
-"db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[6,0,3458,1],
-"db/d41/classspell__brewfest__fill__keg.html":[6,0,2678],
-"db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[6,0,2678,1],
-"db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[6,0,2678,2],
-"db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[6,0,2678,0],
-"db/d41/structnpc__midsummer__bonfire.html":[6,0,1958],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[6,0,1958,0]
+"db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[6,0,3458,2]
 };

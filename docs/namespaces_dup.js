@@ -12,9 +12,13 @@ var namespaces_dup =
       [ "GetName", "db/d92/namespaceAccountMgr.html#af911e3860ec519c541d6df35468ee41b", null ],
       [ "GetSecurity", "db/d92/namespaceAccountMgr.html#a8280510b2564ec6ea76727218c1687b3", null ],
       [ "GetSecurity", "db/d92/namespaceAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+      [ "HasAccountFlag", "db/d92/namespaceAccountMgr.html#adfd9573faa0ef869b4a65e1bce005af9", null ],
       [ "IsAdminAccount", "db/d92/namespaceAccountMgr.html#adb1b210137b09011677c74011addeefa", null ],
       [ "IsConsoleAccount", "db/d92/namespaceAccountMgr.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-      [ "IsPlayerAccount", "db/d92/namespaceAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+      [ "IsGMAccount", "db/d92/namespaceAccountMgr.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+      [ "IsPlayerAccount", "db/d92/namespaceAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043", null ],
+      [ "UpdateAccountFlag", "db/d92/namespaceAccountMgr.html#ae178623ae65957d0cac424029015687b", null ],
+      [ "ValidateAccountFlags", "db/d92/namespaceAccountMgr.html#ad3520b35f87b1aab0402a608c45bc844", null ]
     ] ],
     [ "Acore", "d3/d0b/namespaceAcore.html", "d3/d0b/namespaceAcore" ],
     [ "AddonMgr", "de/dfb/namespaceAddonMgr.html", [

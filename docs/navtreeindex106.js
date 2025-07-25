@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/db1/classOPvPCapturePointZM__Beacon.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55":[6,0,2337,5],
 "d3/db1/classOPvPCapturePointZM__Beacon.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312":[6,0,2337,7],
 "d3/db1/classOPvPCapturePointZM__Beacon.html#a481e79d61fcdd011632f8f0d37f940bc":[6,0,2337,8],
 "d3/db1/classOPvPCapturePointZM__Beacon.html#a5bbe87c18c814358596a9648fd92b129":[6,0,2337,1],
@@ -36,8 +37,8 @@ var NAVTREEINDEX106 =
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,27,20,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,27,20,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2306],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[6,0,2306,1],
 "d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2306,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dc2/classspell__dru__brambles__treant.html#ad6e4bd4390f6f88494984af792a11b90":[6,0,2810,3],
 "d3/dc2/classspell__dru__brambles__treant.html#af51a8e22ddfe0648f08a4190d730fbda":[6,0,2810,0],
 "d3/dc2/classspell__dru__brambles__treant.html#af54ef254d0897140255960146507e986":[6,0,2810,2],
-"d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html":[6,0,2199,0],
-"d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#a6eee7e4fc83ed56a0f775b6892dc8dcb":[6,0,2199,0,0]
+"d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html":[6,0,2199,0]
 };

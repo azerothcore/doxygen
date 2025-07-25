@@ -1,5 +1,6 @@
 var NAVTREEINDEX41 =
 {
+"d1/dba/classspell__ragin__flames__inferno.html#a0838d4449351f46a1f9f485abaf35c2b":[6,0,3694,0],
 "d1/dba/classspell__ragin__flames__inferno.html#a438425f3002028a0978e0dbab580ca03":[6,0,3694,1],
 "d1/dba/classspell__ragin__flames__inferno.html#af4b26607e8838b7bbbe8777f57601341":[6,0,3694,2],
 "d1/dba/classspell__rog__nerves__of__steel.html":[6,0,3720],
@@ -9,16 +10,16 @@ var NAVTREEINDEX41 =
 "d1/dba/classspell__rog__nerves__of__steel.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6":[6,0,3720,1],
 "d1/dba/classspell__rog__nerves__of__steel.html#ac273b669dc396561d9ec8b523659363f":[6,0,3720,3],
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3720,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,56],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[6,0,0,44],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,56],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,1,56,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,44,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,44,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,1,56,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,56,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,44,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,44,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,56,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,44,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -202,8 +203,8 @@ var NAVTREEINDEX41 =
 "d1/dc1/DatabaseLoader_8cpp.html":[7,0,0,0,1,1,0,6],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[6,0,0,81],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,1,93],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,81,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,93,3],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,81,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[6,0,0,81,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,1,93,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,1,93,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX41 =
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca06fff67fc2fc1082d72b2a66a0f0818c":[7,0,0,0,1,2,3,2,5,30,9],
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca0bbbd592684e9fc65203de662e7fbaac":[7,0,0,0,1,2,3,2,5,30,10],
 "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca18f62669c9a42a9dcaaa757f3de7be15":[7,0,0,0,1,2,3,2,5,30,8],
-"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8":[7,0,0,0,1,2,3,2,5,30,0],
-"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca3ee970cd2f6c68abc35087df5f149c95":[7,0,0,0,1,2,3,2,5,30,4]
+"d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8":[7,0,0,0,1,2,3,2,5,30,0]
 };

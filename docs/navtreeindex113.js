@@ -1,5 +1,6 @@
 var NAVTREEINDEX113 =
 {
+"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca468d208d1b61e8de091908d8395b3544":[7,0,0,0,1,3,5,9,2,8,32,18],
 "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca494510a16bbe88ccfd717639d25d8fac":[7,0,0,0,1,3,5,9,2,8,32,8],
 "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca4d2de8a1fced4ed44848c747aef72796":[7,0,0,0,1,3,5,9,2,8,32,23],
 "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca63bd4290ae7a31673c94c27dc2bc562e":[7,0,0,0,1,3,5,9,2,8,32,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX113 =
 "d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900":[7,0,0,0,1,3,7,0,3,5,2,5],
 "d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f":[7,0,0,0,1,3,7,0,3,5,2,1],
 "d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26":[7,0,0,0,1,3,7,0,3,5,2,2],
-"d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f":[7,0,0,0,1,3,7,0,3,5,2,6],
-"d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,0,3,5,2,7]
+"d3/dec/shadow__labyrinth_8h.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f":[7,0,0,0,1,3,7,0,3,5,2,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a183360b99ecbd784b4dabbf5158f59d1":[6,0,1708,0,1],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a32060a04ba73fbf9ae2df8417e826ce9":[6,0,1708,0,4],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a6e260a6e085962d54b765bff4cb17963":[6,0,1708,0,5],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#aa5d5e8cc4fe612fda84d971d9cee987f":[6,0,1708,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4183,2],
 "d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4183,1],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html":[6,0,3424],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3424,3],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3424,1]
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3424,3]
 };

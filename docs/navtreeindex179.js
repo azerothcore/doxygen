@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d":[7,0,0,0,1,3,3,8,12,15],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20":[7,0,0,0,1,3,3,8,12,11],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f":[7,0,0,0,1,3,3,8,12,38],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53":[7,0,0,0,1,3,3,8,12,46],
@@ -99,10 +100,10 @@ var NAVTREEINDEX179 =
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#ad75c8c6279e606d6a557a61d97ee8f42":[6,0,2612,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,30,5,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[6,0,11,5,28],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,30,5,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,11,5,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,11,5,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,30,5,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,30,5,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,11,5,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,30,5,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,11,5,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,30,5,28,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/dd7/classspell__mount__check__aura.html#ac3c158fdddd007d1d7986470032bfc25":[6,0,3454,2],
 "d6/dd7/classspell__mount__check__aura.html#ac47c157dbd193bc131d281666ae2097f":[6,0,3454,0],
 "d6/dd7/classspell__mount__check__aura.html#ac650ece6e2d9e9e7ff9b863d77f84975":[6,0,3454,1],
-"d6/dd7/classspell__q11587__arcane__prisoner__rescue.html":[6,0,3624],
-"d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#a256c152beadbfce6bf245779295b8758":[6,0,3624,2]
+"d6/dd7/classspell__q11587__arcane__prisoner__rescue.html":[6,0,3624]
 };

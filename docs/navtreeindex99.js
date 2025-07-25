@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d3/d6a/classnpc__isla__starmane.html#af30b3658d8f19be0dc07cb35eeb04668":[6,0,1896,1],
 "d3/d6a/classnpc__isla__starmane.html#afeda3da3761e96e2901ea06c5a26fa3a":[6,0,1896,3],
 "d3/d6a/classnpc__ulduar__flash__freeze.html":[6,0,2224],
 "d3/d6a/classnpc__ulduar__flash__freeze.html#a0301ed1231d3b0d113e9fc9389e8f160":[6,0,2224,1],
@@ -9,16 +10,16 @@ var NAVTREEINDEX99 =
 "d3/d6c/classboss__gothik.html#aea7aec86c4132521fb7b9b6e87baf289":[6,0,502,2],
 "d3/d6d/classAcore_1_1RespawnDo.html":[6,0,0,103],
 "d3/d6d/classAcore_1_1RespawnDo.html":[5,0,1,115],
-"d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,1,115,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[6,0,0,103,2],
-"d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[6,0,0,103,4],
+"d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,1,115,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[5,0,1,115,4],
+"d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[6,0,0,103,4],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[6,0,0,103,3],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[5,0,1,115,3],
 "d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[6,0,0,103,0],
 "d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[5,0,1,115,0],
-"d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[5,0,1,115,1],
 "d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[6,0,0,103,1],
+"d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[5,0,1,115,1],
 "d3/d6d/classnpc__bessy.html":[6,0,1634],
 "d3/d6d/classnpc__bessy.html#a08278c1524445054ca158433044a0824":[6,0,1634,1],
 "d3/d6d/classnpc__bessy.html#a98b8e816195b81bab12cc9906df79807":[6,0,1634,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#a20e95e9d752a6952f8388301cd386103":[7,0,0,0,1,3,5,6,15,21],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,6,15,11],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,15,7],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09":[7,0,0,0,1,3,5,6,15,7,6],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca747c93f2cea8d2889bd57453f2cb2cbe":[7,0,0,0,1,3,5,6,15,7,1]
+"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09":[7,0,0,0,1,3,5,6,15,7,6]
 };

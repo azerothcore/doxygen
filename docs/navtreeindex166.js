@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1":[7,0,0,0,1,3,10,17,0],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0030a2af758cc78fa7c100254aebd325":[7,0,0,0,1,3,10,17,0,16],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a01ed3b3989bd126c945912cffc34576b":[7,0,0,0,1,3,10,17,0,52],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a05c1fac7a407c954114c290304f43a77":[7,0,0,0,1,3,10,17,0,46],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[7,0,0,0,1,3,10,17,5,0],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[7,0,0,0,1,3,10,17,5,1],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[7,0,0,0,1,3,10,17,5,2],
-"d6/d36/structWardenModuleUse.html":[6,0,4234],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4234,0]
+"d6/d36/structWardenModuleUse.html":[6,0,4234]
 };

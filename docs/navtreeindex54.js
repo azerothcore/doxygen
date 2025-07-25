@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa8be4179231a4470cc8dcc40e489398e2":[7,0,0,0,1,2,8,1,1,6,11],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faa0dbd19f5177a6ba9962e8ece5267e2b":[7,0,0,0,1,2,8,1,1,6,7],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fac8d82aeaabdf25e5accfb734b861d09e":[7,0,0,0,1,2,8,1,1,6,5],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faf6081991f59a4655ecd5bd229467e81e":[7,0,0,0,1,2,8,1,1,6,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa2b338da6aa545e588be3d3a72b1a747":[6,0,2905,2],
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa64e3d5a98804e2a05d3af1fdc5b2d30":[6,0,2905,3],
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#acd0dffad436cb414deb546b192957783":[6,0,2905,1],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad179773bdfe73f7926d41d30726f0ac9":[6,0,2905,5],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad910e172ef6866f102fa3407f676169a":[6,0,2905,0]
+"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad179773bdfe73f7926d41d30726f0ac9":[6,0,2905,5]
 };

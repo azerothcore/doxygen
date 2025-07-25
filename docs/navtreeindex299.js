@@ -1,5 +1,17 @@
 var NAVTREEINDEX299 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8":[7,0,0,0,1,3,7,4,2,0,11,9],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cab61a4963be73929db365ddabad71eef7":[7,0,0,0,1,3,7,4,2,0,11,17],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cacd0b5cac8c9deb10c2f18f8191c662ee":[7,0,0,0,1,3,7,4,2,0,11,1],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad75c10b32acd0fb75783ba32fe07697e":[7,0,0,0,1,3,7,4,2,0,11,8],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,4,2,0,11,5],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[7,0,0,0,1,3,7,4,2,0,11,3],
+"dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,7,4,2,0,10],
+"dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99aa96283caf31f749500082e1812dcefef3":[7,0,0,0,1,3,7,4,2,0,10,0],
+"dc/d07/boss__magtheridon_8cpp.html#ada1a60765162a3d503bec2ceb23a6c87":[7,0,0,0,1,3,7,4,2,0,13],
+"dc/d07/classInstanceMapScript.html":[6,0,1355],
+"dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[6,0,1355,1],
+"dc/d07/classInstanceMapScript.html#a350d328f82cc5e7ea43f3c8779d25a67":[6,0,1355,0],
 "dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[6,0,1355,2],
 "dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1355,3],
 "dc/d07/classnpc__captain__brandon.html":[6,0,1670],
@@ -237,17 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1797,0,2],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1797,0,4],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[6,0,1797,0,9],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[6,0,1797,0,3],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[6,0,1797,0,7],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[6,0,1568,0],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[6,0,1568,0,3],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a062eb272826d52ffd9b72054f970b761":[6,0,1568,0,0],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56":[6,0,1568,0,6],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[6,0,1568,0,2],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[6,0,1568,0,5],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3":[6,0,1568,0,4],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05":[6,0,1568,0,1],
-"dc/d0c/AllPackets_8h.html":[7,0,0,0,1,2,39,0,0],
-"dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2839],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2839,1]
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[6,0,1797,0,3]
 };

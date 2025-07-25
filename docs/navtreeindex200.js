@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[6,0,744,1],
 "d7/dab/classnpc__tirion__fordring__tft.html":[6,0,2179],
 "d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2179,1],
 "d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[6,0,2179,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1471,227],
 "d7/db0/classMap.html#ac07f125a1ad7ad6f22cd18dbe20208f3":[6,0,1471,31],
 "d7/db0/classMap.html#ac128082bd657db6000ab05ad5a6b0f95":[6,0,1471,196],
-"d7/db0/classMap.html#ac19caeb67f9223cf89c8764037cbde7d":[6,0,1471,38],
-"d7/db0/classMap.html#ac1c96f4061f210aad8d8cb1c7de0aa0f":[6,0,1471,203]
+"d7/db0/classMap.html#ac19caeb67f9223cf89c8764037cbde7d":[6,0,1471,38]
 };

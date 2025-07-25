@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2189</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_ulduar_do_not_push_this_button&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2175</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_ulduar_do_not_push_this_button&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,24 +247,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2192</span>    {</div>
-<div class="line"><span class="lineno"> 2193</span>        <span class="keywordflow">if</span> (!player || !go)</div>
-<div class="line"><span class="lineno"> 2194</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2195</span> </div>
-<div class="line"><span class="lineno"> 2196</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2197</span>        {</div>
-<div class="line"><span class="lineno"> 2198</span>            <span class="keywordflow">if</span> (instance-&gt;GetData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabaa0701eeefc87c0610f0ca40f07982e">TYPE_MIMIRON</a>) != <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a>)</div>
-<div class="line"><span class="lineno"> 2199</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2200</span> </div>
-<div class="line"><span class="lineno"> 2201</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*go, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabaa0701eeefc87c0610f0ca40f07982e">TYPE_MIMIRON</a>)))</div>
-<div class="line"><span class="lineno"> 2202</span>            {</div>
-<div class="line"><span class="lineno"> 2203</span>                c-&gt;AI()-&gt;SetData(0, 7);</div>
-<div class="line"><span class="lineno"> 2204</span>                c-&gt;AI()-&gt;AttackStart(player);</div>
-<div class="line"><span class="lineno"> 2205</span>            }</div>
-<div class="line"><span class="lineno"> 2206</span>        }</div>
-<div class="line"><span class="lineno"> 2207</span> </div>
-<div class="line"><span class="lineno"> 2208</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2209</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2178</span>    {</div>
+<div class="line"><span class="lineno"> 2179</span>        <span class="keywordflow">if</span> (!player || !go)</div>
+<div class="line"><span class="lineno"> 2180</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2181</span> </div>
+<div class="line"><span class="lineno"> 2182</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2183</span>        {</div>
+<div class="line"><span class="lineno"> 2184</span>            <span class="keywordflow">if</span> (instance-&gt;GetData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabaa0701eeefc87c0610f0ca40f07982e">TYPE_MIMIRON</a>) != <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a>)</div>
+<div class="line"><span class="lineno"> 2185</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2186</span> </div>
+<div class="line"><span class="lineno"> 2187</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*go, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabaa0701eeefc87c0610f0ca40f07982e">TYPE_MIMIRON</a>)))</div>
+<div class="line"><span class="lineno"> 2188</span>            {</div>
+<div class="line"><span class="lineno"> 2189</span>                c-&gt;AI()-&gt;SetData(0, 7);</div>
+<div class="line"><span class="lineno"> 2190</span>                c-&gt;AI()-&gt;AttackStart(player);</div>
+<div class="line"><span class="lineno"> 2191</span>            }</div>
+<div class="line"><span class="lineno"> 2192</span>        }</div>
+<div class="line"><span class="lineno"> 2193</span> </div>
+<div class="line"><span class="lineno"> 2194</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2195</span>    }</div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a></div><div class="ttdeci">@ NOT_STARTED</div><div class="ttdef"><b>Definition</b> InstanceScript.h:58</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassInstanceScript_html"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html">InstanceScript</a></div><div class="ttdef"><b>Definition</b> InstanceScript.h:143</div></div>
@@ -285,7 +285,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/de6/classgo__ulduar__do__not__push__this__button.html">go_ulduar_do_not_push_this_button</a></li>
-    <li class="footer">Generated on Thu Jul 24 2025 06:26:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jul 25 2025 06:26:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

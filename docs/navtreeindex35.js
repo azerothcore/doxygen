@@ -1,12 +1,13 @@
 var NAVTREEINDEX35 =
 {
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[5,0,3,0,1],
+"d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[6,0,1,0,1],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[5,0,3,0,2],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[6,0,1,0,2],
-"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[6,0,1,0,3],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,3,0,3],
-"d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[6,0,1,0,4],
+"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[6,0,1,0,3],
 "d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[5,0,3,0,4],
+"d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[6,0,1,0,4],
 "d1/d71/structnpc__frost__tomb.html":[6,0,1789],
 "d1/d71/structnpc__frost__tomb.html#a40a14647eaf9f2c5bd11c094f0aadb79":[6,0,1789,1],
 "d1/d71/structnpc__frost__tomb.html#a456fcd5dd3f504954a74fc068f253dc2":[6,0,1789,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d80/classachievement__better__off__dred.html":[6,0,35],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[6,0,35,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[6,0,35,1],
-"d1/d80/classnpc__thrall__bfu.html":[6,0,2172],
-"d1/d80/classnpc__thrall__bfu.html#a28b4030d189e4d967a1b16f3464c14ba":[6,0,2172,2]
+"d1/d80/classnpc__thrall__bfu.html":[6,0,2172]
 };

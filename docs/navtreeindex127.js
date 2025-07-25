@@ -1,5 +1,6 @@
 var NAVTREEINDEX127 =
 {
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9de5053a209b6640e69d2f9414d88943":[7,0,0,0,1,3,5,2,1,0,16,15],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9f20ed0dd0f8ce69aa2f4c5b771cef0f":[7,0,0,0,1,3,5,2,1,0,16,4],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac4438d8b4cf07d9e5eadf88b04b7cb99":[7,0,0,0,1,3,5,2,1,0,16,5],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac66c09471de9a8c7308d5d36e4a64791":[7,0,0,0,1,3,5,2,1,0,16,6],
@@ -48,12 +49,12 @@ var NAVTREEINDEX127 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[7,0,0,0,1,3,5,2,1,0,18,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,30,5,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[6,0,11,5,13],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,5,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,30,5,13,1],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,5,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,11,5,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,30,5,13,3],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[6,0,11,5,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,30,5,13,0],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[6,0,11,5,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,30,5,13,2],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[6,0,11,5,13,2],
 "d4/d78/structadt__MCIN_1_1adt__CELLS.html":[6,0,132,0],
@@ -80,12 +81,12 @@ var NAVTREEINDEX127 =
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a169a35e4d1b33b28014ad753993a1c27":[5,0,27,23,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[5,0,27,23,6],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a423995c8ce4c4846da978cc49aeee2b9":[6,0,9,23,6],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[6,0,9,23,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[5,0,27,23,1],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a4c0bb86ba4d8238e8f7740c4699dfa0f":[6,0,9,23,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[6,0,9,23,4],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[5,0,27,23,4],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[6,0,9,23,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[5,0,27,23,0],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[6,0,9,23,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ade19ec7931454c375bf8564f05556c8e":[6,0,9,23,5],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ade19ec7931454c375bf8564f05556c8e":[5,0,27,23,5],
 "d4/d7b/boss__nefarian_8cpp.html":[7,0,0,0,1,3,2,1,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a265855d2972e534e927bfa609fbf2cf5":[6,0,621,0,3],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a60a03c3840a3743719996929d2ca9e59":[6,0,621,0,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a6d866bf54dc06e4f20eb4d62ea97928a":[6,0,621,0,1],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9daf89ed0f4e5795cafc63a6a81e5d1d":[6,0,621,0,4],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9f9956aaaa60d5d0005a55a87d0424eb":[6,0,621,0,6]
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9daf89ed0f4e5795cafc63a6a81e5d1d":[6,0,621,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#aaab278dc6557a49624099b0064b8d6f3":[6,0,741,0,0],
 "d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ab0715e75a475409ffb6c623bf363a65d":[6,0,741,0,1],
 "d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ad3ed8edb4d06e5b98a5afc82170f3233":[6,0,741,0,3],
 "d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
@@ -11,14 +12,14 @@ var NAVTREEINDEX26 =
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,122,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,122,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,110,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,122,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,122,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,110,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,110,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,122,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,1,122,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
 "d1/d17/classArenaSeasonMgr.html":[6,0,182],
 "d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[6,0,182,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[6,0,182,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a9a4f9e29880bd7972165f94aa368f387":[6,0,1285,0,8],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a9f295fcf4837bd0cc0a231fdad97339d":[6,0,1285,0,45],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a9fce98e8b77e8a665a957303dc2aed61":[6,0,1285,0,20],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#aa1d30ee5df1a0c071c0cecb6982705b3":[6,0,1285,0,24],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#aa1e3851f434afe7b91a583385b4837b6":[6,0,1285,0,56]
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#aa1d30ee5df1a0c071c0cecb6982705b3":[6,0,1285,0,24]
 };

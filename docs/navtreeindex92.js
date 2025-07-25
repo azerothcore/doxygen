@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dc6d4105ca603ac701174501c3f439e":[7,0,0,0,1,1,0,0,5,1,24],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a50184b271468f8fa3314e5dfcaa50fd7":[7,0,0,0,1,1,0,0,5,1,49],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a51abd6d78888450534ec50786c9f4322":[7,0,0,0,1,1,0,0,5,1,14],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53647962d71478bb5071ec4c379184f4":[7,0,0,0,1,1,0,0,5,1,83],
@@ -238,8 +239,8 @@ var NAVTREEINDEX92 =
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1745],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1745,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1745,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d2b/structnpc__dragonflayer__forge__master.html#aa057cb5ae681b4b802031151ea1a3529":[6,0,1745,6],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#aa107e88bbc5b55a6ece5124c4081706e":[6,0,1745,1],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#af2c844c926b94456df796b4252e899c2":[6,0,1745,3],
-"d3/d2c/classspell__gen__tournament__duel.html":[6,0,3018],
-"d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,3018,0]
+"d3/d2c/classspell__gen__tournament__duel.html":[6,0,3018]
 };

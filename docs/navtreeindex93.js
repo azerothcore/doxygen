@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,3018,0],
 "d3/d2c/classspell__gen__tournament__duel.html#a51ebef5e7fff9dfaab553ecae7be732f":[6,0,3018,3],
 "d3/d2c/classspell__gen__tournament__duel.html#ab9360c3a883dd5a7df9836306d9762ec":[6,0,3018,2],
 "d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,3018,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50a3bd4848422c18cdef6ad955b0938f622":[7,0,0,0,1,3,5,9,2,13,59,1],
 "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50a4de8da62ae7657d21e259e9bc1658259":[7,0,0,0,1,3,5,9,2,13,59,0],
 "d3/d32/boss__yoggsaron_8cpp.html#ab783489f2e16264b22a8959d4fd576fd":[7,0,0,0,1,3,5,9,2,13,73],
-"d3/d32/boss__yoggsaron_8cpp.html#ac0e97be236e763481f6e4352c2c0946b":[7,0,0,0,1,3,5,9,2,13,58],
-"d3/d32/boss__yoggsaron_8cpp.html#acab252ff6c4b3c3b94a9f08c22856114":[7,0,0,0,1,3,5,9,2,13,57]
+"d3/d32/boss__yoggsaron_8cpp.html#ac0e97be236e763481f6e4352c2c0946b":[7,0,0,0,1,3,5,9,2,13,58]
 };

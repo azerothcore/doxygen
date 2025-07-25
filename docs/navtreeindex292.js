@@ -1,5 +1,17 @@
 var NAVTREEINDEX292 =
 {
+"db/dd5/classCreature.html#a2b75c6edd7d02bec354b1603936ad6c4":[6,0,908,214],
+"db/dd5/classCreature.html#a2c3985c2db1f44cede06a74ca0f9ffba":[6,0,908,5],
+"db/dd5/classCreature.html#a2dd6a96597e20e549718f460d8d8848b":[6,0,908,304],
+"db/dd5/classCreature.html#a2f3d475d58b8aabce8e6eafd66c7d820":[6,0,908,111],
+"db/dd5/classCreature.html#a30edd6003ed7a94d2d40c5b0be9d3fce":[6,0,908,308],
+"db/dd5/classCreature.html#a311d114dbf2ff185f20a636d3e4c61d0":[6,0,908,134],
+"db/dd5/classCreature.html#a31e933737562cf862b2e0cd92af252a1":[6,0,908,64],
+"db/dd5/classCreature.html#a32635b706d7ca7c3a97ef09f62635a52":[6,0,908,119],
+"db/dd5/classCreature.html#a32884903752c03c7e0aa3a76b73db727":[6,0,908,34],
+"db/dd5/classCreature.html#a32f799b78d9291805996869dc9af85af":[6,0,908,106],
+"db/dd5/classCreature.html#a341fd26ee36ee1696b31e8ac7b343c19":[6,0,908,120],
+"db/dd5/classCreature.html#a346ffcd0f9efd3e5a0a40c362fe4456a":[6,0,908,52],
 "db/dd5/classCreature.html#a35ac9da6ab2ade67fbcfab3f325e84e8":[6,0,908,221],
 "db/dd5/classCreature.html#a36b671a228efe99b408725ff67485be8":[6,0,908,284],
 "db/dd5/classCreature.html#a377db81f5f6922aae4a4c3fcac603be2":[6,0,908,211],
@@ -237,17 +249,5 @@ var NAVTREEINDEX292 =
 "db/dd5/classCreature.html#af777855d68adaa1cb8dfa543a8e00263":[6,0,908,152],
 "db/dd5/classCreature.html#af8713b3fa1674b62e3580ef8b3eda23b":[6,0,908,254],
 "db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23":[6,0,908,135],
-"db/dd5/classCreature.html#af95cc423ba67495e63efcfbcbd9ff978":[6,0,908,212],
-"db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002":[6,0,908,38],
-"db/dd5/classCreature.html#afb49a62b1afbd2af7e648de979aa34ce":[6,0,908,63],
-"db/dd5/classCreature.html#afc3f5dc6dafd08d43819ac6759438495":[6,0,908,267],
-"db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[6,0,908,236],
-"db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[6,0,908,293],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html":[6,0,2769],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2769,1],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2769,2],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2769,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3380],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3380,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3380,0]
+"db/dd5/classCreature.html#af95cc423ba67495e63efcfbcbd9ff978":[6,0,908,212]
 };

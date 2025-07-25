@@ -1,5 +1,13 @@
 var NAVTREEINDEX244 =
 {
+"d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#ad29c7659590933b0749e8e1c2c2e4c46":[6,0,1877,0,2],
+"d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#af8ef8296512d57d934a171f1a5060e73":[6,0,1877,0,3],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html":[6,0,3173],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a09124a4351930a35e33359e95ca88580":[6,0,3173,0],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc":[6,0,3173,3],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33":[6,0,3173,1],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a8b59d3d74816b41a65f9c5bd07226c4e":[6,0,3173,2],
+"d9/df0/classboss__thorim__sif.html":[6,0,738],
 "d9/df0/classboss__thorim__sif.html#a71ef8a92f648cbea6553ed1cc657f13d":[6,0,738,1],
 "d9/df0/classboss__thorim__sif.html#ae4eadf2bf83c41a8f05b853267b5fcf9":[6,0,738,2],
 "d9/df1/boss__janalai_8cpp.html":[7,0,0,0,1,3,2,15,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/ulduar_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,9,2,16,0],
 "d9/df7/ulduar_8h.html#a0429d4d2f640868770605570b7d2ac30":[7,0,0,0,1,3,5,9,2,16,9],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78":[7,0,0,0,1,3,5,9,2,16,6],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a084b9c81c7882feecb5bace81983bede":[7,0,0,0,1,3,5,9,2,16,6,27],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d":[7,0,0,0,1,3,5,9,2,16,6,20],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a1c4aa0e2fdf9f6fad7a373bcae622fae":[7,0,0,0,1,3,5,9,2,16,6,28],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a2c2e5ea2f9823a249c2d8e44bb4966aa":[7,0,0,0,1,3,5,9,2,16,6,15],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a2e057773a5165017ccb2e13942702784":[7,0,0,0,1,3,5,9,2,16,6,26],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a37586ea5113dbdf35f7d5f1ac8939a6e":[7,0,0,0,1,3,5,9,2,16,6,1],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3ba8009dda0238e2c90d217191be586e":[7,0,0,0,1,3,5,9,2,16,6,7],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3c4bed24d8f7617825f8cebba0060bb2":[7,0,0,0,1,3,5,9,2,16,6,10]
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21]
 };

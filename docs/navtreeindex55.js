@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ad910e172ef6866f102fa3407f676169a":[6,0,2905,0],
 "d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8":[6,0,2905,4],
 "d2/d3c/classspell__karathress__power__of__tidalvess.html":[6,0,3331],
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#a076e4b548de5cad64b7d81ddd8c5194f":[6,0,3331,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d48/classChannel.html#a1046accb63d4594c80d154e4591d238f":[6,0,842,33],
 "d2/d48/classChannel.html#a113836e91cd4c2e8f121c1b79af69602":[6,0,842,76],
 "d2/d48/classChannel.html#a12cdbead7d6224377be81a11307a2255":[6,0,842,104],
-"d2/d48/classChannel.html#a172b04356400bf92570d19cc0998c0ee":[6,0,842,99],
-"d2/d48/classChannel.html#a1762ce6425d268b8d99707138d094ded":[6,0,842,37]
+"d2/d48/classChannel.html#a172b04356400bf92570d19cc0998c0ee":[6,0,842,99]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX230 =
 {
+"d9/d1c/structAreaTrigger.html#a40fcdb1274bc2587e8870b39a64289e1":[6,0,163,1],
+"d9/d1c/structAreaTrigger.html#a423077ceaf75c367831a6d9f55427a6f":[6,0,163,7],
+"d9/d1c/structAreaTrigger.html#a55ab832828addcef1b2f570bda81f2ce":[6,0,163,8],
+"d9/d1c/structAreaTrigger.html#a5db58eaf63aceeaeb93bf6f4d5961a97":[6,0,163,4],
 "d9/d1c/structAreaTrigger.html#a8e1ac424a973e546aa7c35e387e32a23":[6,0,163,2],
 "d9/d1c/structAreaTrigger.html#a9b4a88edefbc1e4b08a8ee03dfd90274":[6,0,163,0],
 "d9/d1c/structAreaTrigger.html#a9ecb58fde45a318ba0d6306c603aba4b":[6,0,163,3],
@@ -240,14 +244,10 @@ var NAVTREEINDEX230 =
 "d9/d32/CombatAI_8cpp.html":[7,0,0,0,1,2,3,0,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[6,0,11,5,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,30,5,25],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,30,5,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,5,25,1],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,30,5,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[6,0,11,5,25,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,30,5,25,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html":[6,0,1917,0],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a2c5e519bd2a1699b74811c92bb217d20":[6,0,1917,0,4],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a66fcb4b5130ff03f1926eec3b4d9ff6a":[6,0,1917,0,2],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a7078f4c552f741afdc8ecbd1746e31c4":[6,0,1917,0,6],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a70b83dd31e8a8214b5d09f9a4ca7347a":[6,0,1917,0,3],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#ae1e9308f730ac948f96d4fceba914cdb":[6,0,1917,0,5]
+"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a2c5e519bd2a1699b74811c92bb217d20":[6,0,1917,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84b":[7,0,0,0,1,3,9,2,184],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1dfbef9fcdf8fac682fd148f48b1d73f":[7,0,0,0,1,3,9,2,184,5],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[7,0,0,0,1,3,9,2,184,6],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[7,0,0,0,1,3,9,2,184,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/ded/classspell__item__ashbringer.html":[6,0,3196],
 "d1/ded/classspell__item__ashbringer.html#a5b2175a933df10d775bc3381f515aa96":[6,0,3196,2],
 "d1/ded/classspell__item__ashbringer.html#a6e41bf15401c540887dd321e4b2cc7d3":[6,0,3196,3],
-"d1/ded/classspell__item__ashbringer.html#a8be944ae201f4f8406948aff78f982d9":[6,0,3196,0],
-"d1/ded/classspell__item__ashbringer.html#adcb707400963e549a295e115d6f3583b":[6,0,3196,1]
+"d1/ded/classspell__item__ashbringer.html#a8be944ae201f4f8406948aff78f982d9":[6,0,3196,0]
 };

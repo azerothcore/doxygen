@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d93/classspell__item__map__of__the__geyser__fields.html#a6694fbf58b776b74df0a54cd96141688":[6,0,3254,2],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html":[6,0,2232,0],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a03011d04761926d67e43c0bea5a0901f":[6,0,2232,0,1],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a18f22ca155646a6f40e0627f9d6dc337":[6,0,2232,0,3],
@@ -16,12 +17,12 @@ var NAVTREEINDEX176 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1101,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,950,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,950,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,950,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,950,3,7],
-"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,950,3,3],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,950,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,950,3,4],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,950,3,1],
+"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,950,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,950,3,0],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,950,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,950,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,950,3,12],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,950,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/da0/structBoardCell.html#a7697506ccc800d38968e457c44bfa019":[6,0,358,5],
 "d6/da0/structBoardCell.html#a9cafdea50739b014a97e60611adcd3f1":[6,0,358,8],
 "d6/da0/structBoardCell.html#ac919854a2e9d5fc2d1b68960e16cf79d":[6,0,358,3],
-"d6/da0/structPacketCounter.html":[4,1,18],
-"d6/da0/structPacketCounter.html#ae0f3f2a90a24b48d239e3df3525f8fdc":[4,1,18,1]
+"d6/da0/structPacketCounter.html":[4,1,18]
 };

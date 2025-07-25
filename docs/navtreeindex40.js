@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5adc228cbe63eb5f62db81d5e44784ea35":[7,0,0,0,1,2,16,10,5,42,2],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5adfca95e2a5ad725b7f8f416c4c347545":[7,0,0,0,1,2,16,10,5,42,1],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5aea9a35065734e8e991b794313a00642d":[7,0,0,0,1,2,16,10,5,42,4],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5af67172afb249fa44bdeadefeb4258ff9":[7,0,0,0,1,2,16,10,5,42,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44":[6,0,1289,6],
 "d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233":[6,0,1289,3],
 "d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b":[6,0,1289,5],
-"d1/dba/classspell__ragin__flames__inferno.html":[6,0,3694],
-"d1/dba/classspell__ragin__flames__inferno.html#a0838d4449351f46a1f9f485abaf35c2b":[6,0,3694,0]
+"d1/dba/classspell__ragin__flames__inferno.html":[6,0,3694]
 };

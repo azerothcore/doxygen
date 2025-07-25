@@ -441,7 +441,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2443</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(pCreature) {}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2429</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(pCreature) {}</div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -482,19 +482,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2446</span>        {</div>
-<div class="line"><span class="lineno"> 2447</span>            <span class="keywordflow">if</span> (!target || !spell)</div>
-<div class="line"><span class="lineno"> 2448</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2449</span>            <span class="keywordflow">if</span> (spell-&gt;Id == 63041)</div>
-<div class="line"><span class="lineno"> 2450</span>            {</div>
-<div class="line"><span class="lineno"> 2451</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a>)</div>
-<div class="line"><span class="lineno"> 2452</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, 65040, <span class="keyword">true</span>); <span class="comment">// achievement Not-So-Friendly Fire</span></div>
-<div class="line"><span class="lineno"> 2453</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno"> 2454</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* pInstance = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2455</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a>())</div>
-<div class="line"><span class="lineno"> 2456</span>                            c-&gt;AI()-&gt;SetData(0, 13);</div>
-<div class="line"><span class="lineno"> 2457</span>            }</div>
-<div class="line"><span class="lineno"> 2458</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2432</span>        {</div>
+<div class="line"><span class="lineno"> 2433</span>            <span class="keywordflow">if</span> (!target || !spell)</div>
+<div class="line"><span class="lineno"> 2434</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2435</span>            <span class="keywordflow">if</span> (spell-&gt;Id == 63041)</div>
+<div class="line"><span class="lineno"> 2436</span>            {</div>
+<div class="line"><span class="lineno"> 2437</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a>)</div>
+<div class="line"><span class="lineno"> 2438</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, 65040, <span class="keyword">true</span>); <span class="comment">// achievement Not-So-Friendly Fire</span></div>
+<div class="line"><span class="lineno"> 2439</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno"> 2440</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* pInstance = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2441</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a>())</div>
+<div class="line"><span class="lineno"> 2442</span>                            c-&gt;AI()-&gt;SetData(0, 13);</div>
+<div class="line"><span class="lineno"> 2443</span>            }</div>
+<div class="line"><span class="lineno"> 2444</span>        }</div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a2630dd6d5e18380948268eaf946745be"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a></div><div class="ttdeci">#define GetMimiron()</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:268</div></div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a></div><div class="ttdeci">@ NPC_ASSAULT_BOT</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:103</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
@@ -518,7 +518,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d38/classnpc__ulduar__rocket__strike__trigger.html">npc_ulduar_rocket_strike_trigger</a></li><li class="navelem"><a class="el" href="../../d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html">npc_ulduar_rocket_strike_triggerAI</a></li>
-    <li class="footer">Generated on Thu Jul 24 2025 06:26:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jul 25 2025 06:26:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
