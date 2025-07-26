@@ -14,7 +14,8 @@ var pet__dk_8cpp =
       [ "SPELL_DK_NIGHT_OF_THE_DEAD", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a887c6b33ed54be59ad7e0e8bf32563d9", null ],
       [ "SPELL_DK_PET_SCALING", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499adf62a57ca43f8aef7fbaf0746a5a735b", null ],
       [ "SPELL_DK_RAISE_ALLY", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7befee8ae802023214e825bee24cee5e", null ],
-      [ "SPELL_GHOUL_FRENZY", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b", null ]
+      [ "SPELL_GHOUL_FRENZY", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b", null ],
+      [ "SPELL_GARGOYLE_STRIKE", "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a74639ec42972cefdd2205530da747e4b", null ]
     ] ],
     [ "AddSC_deathknight_pet_scripts", "d7/d9c/pet__dk_8cpp.html#ac6a5b089240cd6b996928b3e7f9137b3", null ]
 ];

@@ -237,6 +237,7 @@ var classBattleground =
     [ "m_ResurrectQueue", "df/da7/classBattleground.html#a044dbd789bb5be6528fb768866f9ecbe", null ],
     [ "m_ReviveQueue", "df/da7/classBattleground.html#a66239adad3428b84def34776bc8a257a", null ],
     [ "m_SetDeleteThis", "df/da7/classBattleground.html#a07105385f71c07160418f66e71e0b53e", null ],
+    [ "m_SetupCompleted", "df/da7/classBattleground.html#af103a9c8201c16555018d6328ab4e064", null ],
     [ "m_Spectators", "df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6", null ],
     [ "m_StartDelayTime", "df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f", null ],
     [ "m_StartMaxDist", "df/da7/classBattleground.html#abd39e8c90785dbb6e5067f21cd982a9a", null ],

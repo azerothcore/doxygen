@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/d92/classLootTemplate_1_1LootGroup.html#a8e99105a3db65b4f8afcf032ce3bb33f":[6,0,1451,0,1],
+"de/d92/classLootTemplate_1_1LootGroup.html#ab306f81dc00d214e0ec8ac3903eff42e":[6,0,1451,0,15],
+"de/d92/classLootTemplate_1_1LootGroup.html#ac7690d157243edebe340baf2e274546f":[6,0,1451,0,4],
 "de/d92/classLootTemplate_1_1LootGroup.html#adee692736847d987093655aac3f23be8":[6,0,1451,0,9],
 "de/d92/classspell__frost__tomb__aura.html":[6,0,2879],
 "de/d92/classspell__frost__tomb__aura.html#a3c24d37ab4a6e16a577983c3f6bc2722":[6,0,2879,2],
@@ -186,8 +189,8 @@ var NAVTREEINDEX367 =
 "de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2752,2],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,11,5,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,30,5,43],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,5,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,30,5,43,0],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,5,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,11,5,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,30,5,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,11,5,43,5],
@@ -196,8 +199,8 @@ var NAVTREEINDEX367 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,30,5,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,30,5,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,11,5,43,3],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,30,5,43,2],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[6,0,11,5,43,2],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,30,5,43,2],
 "de/d9b/classgo__suppression__device.html":[6,0,1177],
 "de/d9b/classgo__suppression__device.html#a684546c3ce0c0785d52a87eb011ef313":[6,0,1177,3],
 "de/d9b/classgo__suppression__device.html#a900713d6b029015f8868a96e5e1b9018":[6,0,1177,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[6,0,4201,1],
 "de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[6,0,4201,2],
 "de/da0/structLoadedHeightData.html":[6,0,1427],
-"de/da0/structLoadedHeightData.html#a1f989ab0921de350dc2410129028201f":[6,0,1427,5],
-"de/da0/structLoadedHeightData.html#a60a4a267b4164347e9f3ead6b5abfe14":[6,0,1427,8],
-"de/da0/structLoadedHeightData.html#aa04f68f079e1f488cf69acd24dcd7899":[6,0,1427,6],
-"de/da0/structLoadedHeightData.html#ab64c3cfcd01805f43ec4ef41fb3bc48d":[6,0,1427,3]
+"de/da0/structLoadedHeightData.html#a1f989ab0921de350dc2410129028201f":[6,0,1427,5]
 };

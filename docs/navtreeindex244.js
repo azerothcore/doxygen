@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a":[6,0,1877,0,1],
 "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#ad29c7659590933b0749e8e1c2c2e4c46":[6,0,1877,0,2],
 "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#af8ef8296512d57d934a171f1a5060e73":[6,0,1877,0,3],
 "d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html":[6,0,3173],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/ulduar_8h.html":[7,0,0,0,1,3,5,9,2,16],
 "d9/df7/ulduar_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,9,2,16,0],
 "d9/df7/ulduar_8h.html#a0429d4d2f640868770605570b7d2ac30":[7,0,0,0,1,3,5,9,2,16,9],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78":[7,0,0,0,1,3,5,9,2,16,6],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21]
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78":[7,0,0,0,1,3,5,9,2,16,6]
 };

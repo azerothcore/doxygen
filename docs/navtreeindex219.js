@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4facad205bfdb0fd369b2d7a9f52c2f798e":[7,0,0,0,1,3,2,1,2,0,3,7],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4facc468babd2acaa327041d46766e9dec4":[7,0,0,0,1,3,2,1,2,0,3,9],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fadb647171558f3c58dccef9bcd0108d6f":[7,0,0,0,1,3,2,1,2,0,3,13],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4faded1574d362c780f846690d7306ab987":[7,0,0,0,1,3,2,1,2,0,3,21],
@@ -140,20 +141,20 @@ var NAVTREEINDEX219 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[6,0,0,5,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[5,0,1,8,0,22,4],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[6,0,0,5,0,22,4],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[6,0,0,5,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[5,0,1,8,0,22,3],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[6,0,0,5,0,22,2],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[6,0,0,5,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,1,8,0,22,2],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[6,0,0,5,0,22,2],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[6,0,0,5,0,22,9],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[5,0,1,8,0,22,9],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[6,0,0,5,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[5,0,1,8,0,22,0],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[6,0,0,5,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,1,8,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[6,0,0,5,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[6,0,0,5,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,1,8,0,22,10],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,1,8,0,22,6],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[6,0,0,5,0,22,6],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,1,8,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[7,0,0,0,1,2,17,1],
 "d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[7,0,0,0,1,2,17,1,7],
 "d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[7,0,0,0,1,2,17,1,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d94/PacketLog_8h.html#a14b702138c7f0a62a900dfc8eecc1f6f":[7,0,0,0,1,2,39,1,3,1],
 "d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aa":[7,0,0,0,1,2,39,1,3,2],
 "d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3":[7,0,0,0,1,2,39,1,3,2,1],
-"d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476":[7,0,0,0,1,2,39,1,3,2,0],
-"d8/d94/classTradeData.html":[6,0,4155]
+"d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476":[7,0,0,0,1,2,39,1,3,2,0]
 };

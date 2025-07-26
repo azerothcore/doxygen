@@ -1,5 +1,10 @@
 var NAVTREEINDEX402 =
 {
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3327],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3327,2],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3327,4],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3327,0],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3327,3],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3327,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
@@ -244,10 +249,5 @@ var NAVTREEINDEX402 =
 "dir_337bdd013191c9d548b6f28390c35d04.html":[7,0,0,0,2,2],
 "dir_34825b659a55315b272dfcc55a7a0f6a.html":[7,0,0,0,0,1],
 "dir_355661791026b33f9301c754e4db8b50.html":[7,0,0,0,1,2],
-"dir_3906e801b468713a6f5b1f193c7ea10d.html":[7,0,0,0,1,1],
-"dir_3adc8ed69e0e90d16469d218b57e0fdd.html":[7,0,0,0,2,2,0,0,0],
-"dir_3c4f1d0049890b6fe47974d55db5d117.html":[7,0,0,0,1,3,5,11],
-"dir_3c5bad3427979d3a913ef3b527a38b4f.html":[7,0,0,0,1,3,5,2,0],
-"dir_40fdcae811a89cab23fa8a548fe8a1a0.html":[7,0,0,0,1,2,28],
-"dir_4135abd5956581eb408665f16b5c495d.html":[7,0,0,0,1,1,0]
+"dir_3906e801b468713a6f5b1f193c7ea10d.html":[7,0,0,0,1,1]
 };

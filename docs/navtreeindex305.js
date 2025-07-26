@@ -1,5 +1,8 @@
 var NAVTREEINDEX305 =
 {
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9":[7,0,0,0,1,3,5,11,0,3],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907":[7,0,0,0,1,3,5,11,0,3,0],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a25860979d716fd920a8bbe83c6b47e50":[7,0,0,0,1,3,5,11,0,3,5],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a34c99ceca40c117ebce9f0fe4167334c":[7,0,0,0,1,3,5,11,0,3,8],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a43081076ec7d1db8340e265562ade445":[7,0,0,0,1,3,5,11,0,3,6],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a55fb04232a8d205929af47e45598694b":[7,0,0,0,1,3,5,11,0,3,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae3631ecfc1ab6ce423f274722be16158":[7,0,0,0,1,2,26,2,1,33],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[7,0,0,0,1,2,26,2,1,50],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaec8ed9235928b91e5b601505d58dace0":[7,0,0,0,1,2,26,2,1,72],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[7,0,0,0,1,2,26,2,1,11],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf578bcbfa373b10d63c5d2f9638daf34":[7,0,0,0,1,2,26,2,1,14],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf5d07a264accc4376d12233736d19343":[7,0,0,0,1,2,26,2,1,81],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3":[7,0,0,0,1,2,26,2,0]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[7,0,0,0,1,2,26,2,1,11]
 };

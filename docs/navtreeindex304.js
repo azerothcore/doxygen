@@ -1,5 +1,8 @@
 var NAVTREEINDEX304 =
 {
+"dc/d33/structPendingSpellCastRequest.html#a726b6e423b23f8c12c65e07809462ad1":[6,0,2380,1],
+"dc/d33/structPendingSpellCastRequest.html#a9e50a954b3da1f3b39894f1d3d7a932f":[6,0,2380,3],
+"dc/d33/structPendingSpellCastRequest.html#aa09e9b9fcaec6d10dff4916bec15ab04":[6,0,2380,0],
 "dc/d33/structTaxiNodesEntry.html":[6,0,4128],
 "dc/d33/structTaxiNodesEntry.html#a090069d13cbbcc5762ecca600c506492":[6,0,4128,0],
 "dc/d33/structTaxiNodesEntry.html#a2e6ce98f7c96ba1469fca8ff3946404a":[6,0,4128,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d3f/Item_8cpp.html#a02944420353f8ba883b80737f8e63137":[7,0,0,0,1,2,16,4,2,0],
 "dc/d3f/Item_8cpp.html#a0c91640134a5241ec34f91bdec13c8ec":[7,0,0,0,1,2,16,4,2,1],
 "dc/d3f/Item_8cpp.html#a402c3dd64769702b750f96adff4b3a14":[7,0,0,0,1,2,16,4,2,2],
-"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9":[7,0,0,0,1,3,5,11,0,3],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907":[7,0,0,0,1,3,5,11,0,3,0],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a25860979d716fd920a8bbe83c6b47e50":[7,0,0,0,1,3,5,11,0,3,5]
+"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0]
 };

@@ -9,6 +9,7 @@ var structnpc__pet__dk__ebon__gargoyle =
     [ "RemoveTargetAura", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
     [ "Reset", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#aa719acf874e7588ed6b73c437fb6765b", null ],
     [ "UpdateAI", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
     [ "_despawning", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abca2ddc0628899b0c5bd35210e303d00", null ],
     [ "_despawnTimer", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a8135321f4e5c01dc71e13f719e43d056", null ],
     [ "_initialCastTimer", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],

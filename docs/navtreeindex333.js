@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#acb187a58b0ba256b4e003655ac36db34":[6,0,1882,0,2],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#ae8fbc36a15324b210a24a0e98357adc3":[6,0,1882,0,0],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html":[6,0,2106,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131":[6,0,2106,0,4],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a14c5cee1c3032b8df4ad902eb273e9b0":[6,0,2106,0,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1c0236b52d4cd87634659991e0dfc728":[6,0,2106,0,3],
@@ -226,8 +229,8 @@ var NAVTREEINDEX333 =
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2166],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2166,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2166,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[6,0,1790,0,3],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a2c5729ee3371e562869878ff3a7b84bd":[6,0,1790,0,1],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a8575d258d63e28626cffd7fc2160bee6":[6,0,1790,0,5],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#ae763333503176eb7e8ce407868243958":[6,0,1790,0,2],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#afc14c60466f9f0f1b20062758f18c00d":[6,0,1790,0,0],
-"dd/dbf/classboss__frostsworn__general.html":[6,0,482],
-"dd/dbf/classboss__frostsworn__general.html#a33023712cf056eedfed1cb38e18af5dd":[6,0,482,1]
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#ae763333503176eb7e8ce407868243958":[6,0,1790,0,2]
 };

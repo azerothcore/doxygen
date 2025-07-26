@@ -1,5 +1,8 @@
 var NAVTREEINDEX253 =
 {
+"da/d48/adtfile_8h.html#abdc56edc46e0804c456749761cff8daf":[7,0,0,0,3,4,2,4],
+"da/d48/adtfile_8h.html#ac0029be4572a61d00eb1435db5526a74":[7,0,0,0,3,4,2,3],
+"da/d48/adtfile_8h.html#ac3f75fc482c41471364c2c3e8bd1dd96":[7,0,0,0,3,4,2,5],
 "da/d48/classnpc__spinestalker.html":[6,0,2127],
 "da/d48/classnpc__spinestalker.html#a477f951c79045d553901b1e6b6ad2d4f":[6,0,2127,1],
 "da/d48/classnpc__spinestalker.html#a725f1b1db90d700772bfb76e0f85f1f3":[6,0,2127,2],
@@ -44,8 +47,8 @@ var NAVTREEINDEX253 =
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[6,0,0,105,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[6,0,0,105,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,1,117,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,105,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,1,117,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,105,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[6,0,0,105,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,117,0],
 "da/d4b/classCastArmageddon.html":[6,0,834],
@@ -246,8 +249,5 @@ var NAVTREEINDEX253 =
 "da/d4f/Mail_8h.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c":[7,0,0,0,1,2,25,1,12,6],
 "da/d4f/Mail_8h.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68":[7,0,0,0,1,2,25,1,12,1],
 "da/d4f/Mail_8h.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5":[7,0,0,0,1,2,25,1,12,4],
-"da/d4f/Mail_8h.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd":[7,0,0,0,1,2,25,1,12,3],
-"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302ed":[7,0,0,0,1,2,25,1,9],
-"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330":[7,0,0,0,1,2,25,1,9,1],
-"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d":[7,0,0,0,1,2,25,1,9,3]
+"da/d4f/Mail_8h.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd":[7,0,0,0,1,2,25,1,12,3]
 };

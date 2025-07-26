@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a084b9c81c7882feecb5bace81983bede":[7,0,0,0,1,3,5,9,2,16,6,27],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d":[7,0,0,0,1,3,5,9,2,16,6,20],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a1c4aa0e2fdf9f6fad7a373bcae622fae":[7,0,0,0,1,3,5,9,2,16,6,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dfc/classspell__item__wraith__scythe__drain__life.html#ace682a64f3ca32e4f4151034ad936ea6":[6,0,3314,1],
 "d9/dff/classCreatureTextLocalizer.html":[6,0,932],
 "d9/dff/classCreatureTextLocalizer.html#a1a03d45dfd3c6c5f6f4995d5efe238a5":[6,0,932,1],
-"d9/dff/classCreatureTextLocalizer.html#a1d8d97d3e423810d044a8155b182899d":[6,0,932,3],
-"d9/dff/classCreatureTextLocalizer.html#a660b352a1c1855f4b10a8aebef88133f":[6,0,932,5]
+"d9/dff/classCreatureTextLocalizer.html#a1d8d97d3e423810d044a8155b182899d":[6,0,932,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dd5/classnpc__bushwhacker.html#ab3190b66069e820abf3637bb877066a0":[6,0,1665,2],
 "d8/dd5/classnpc__bushwhacker.html#ad87a9fdec3d5dbaef429c88905a5f6e8":[6,0,1665,1],
 "d8/dd5/instance__gundrak_8cpp.html":[7,0,0,0,1,3,5,5,6],
 "d8/dd5/instance__gundrak_8cpp.html#a232822e6236513eb23c90943d98fd6dc":[7,0,0,0,1,3,5,5,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea903fb1c0c0c1e0d05da3ad65312d3a4a":[7,0,0,0,1,3,5,24,20,3],
 "d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963eadc17cbed34c9319ab20132469e91ad53":[7,0,0,0,1,3,5,24,20,1],
 "d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132c":[7,0,0,0,1,3,5,24,22],
-"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca00196fac05608ead9789c51d9dff96e4":[7,0,0,0,1,3,5,24,22,2]
+"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132c":[7,0,0,0,1,3,5,24,22]
 };

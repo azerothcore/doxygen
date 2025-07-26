@@ -1,5 +1,8 @@
 var NAVTREEINDEX361 =
 {
+"de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69":[7,0,0,0,1,2,38,0,46,1],
+"de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf":[7,0,0,0,1,2,38,0,46,1,6],
+"de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419":[7,0,0,0,1,2,38,0,46,1,0],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f":[7,0,0,0,1,2,38,0,46,1,9],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f":[7,0,0,0,1,2,38,0,46,1,3],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52":[7,0,0,0,1,2,38,0,46,1,5],
@@ -93,16 +96,16 @@ var NAVTREEINDEX361 =
 "de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,38,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,68,2],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html":[6,0,3826],
@@ -183,8 +186,8 @@ var NAVTREEINDEX361 =
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1622,0,3],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb":[6,0,1622,0,4],
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,30,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,30,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,30,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,3,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX361 =
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5":[7,0,0,0,1,2,15,1,9],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e":[7,0,0,0,1,2,15,1,9,2],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084":[7,0,0,0,1,2,15,1,9,0],
-"de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461":[7,0,0,0,1,2,15,1,9,1],
-"de/d59/LFG_8h.html#a64b5a722b95a52923e0ddaae1402b8de":[7,0,0,0,1,2,15,1,1],
-"de/d59/LFG_8h.html#a7ad66b24daa968c5b9615224ddc10659":[7,0,0,0,1,2,15,1,6],
-"de/d59/LFG_8h.html#a7f47ec56c1412d2da0ff629b760e7f5f":[7,0,0,0,1,2,15,1,2]
+"de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461":[7,0,0,0,1,2,15,1,9,1]
 };

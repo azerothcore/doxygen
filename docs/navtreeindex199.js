@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf28f1745093faf4348b5dc1929b9e0e1":[7,0,0,0,1,2,28,2,0,1059],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf2baeb661f9d607319185c14705bde1c":[7,0,0,0,1,2,28,2,0,231],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf2f6953e216e77feaf4c6fc77c32b63e":[7,0,0,0,1,2,28,2,0,852],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf326063f068c9e67927b59f362ba3f66":[7,0,0,0,1,2,28,2,0,1095],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "d7/daa/LFG_8cpp.html#a9d097d73fe8f096de2098ac74022b643":[7,0,0,0,1,2,15,0,2],
 "d7/daa/LFG_8cpp.html#adc336ffd636b51b0052448739671d46b":[7,0,0,0,1,2,15,0,1],
 "d7/daa/LFG_8cpp.html#aeaebe53b818ad905c96d2cc56c18b7ca":[7,0,0,0,1,2,15,0,0],
-"d7/dab/classboss__toravon.html":[6,0,744],
-"d7/dab/classboss__toravon.html#a6db140b1d232312300e20155830cb249":[6,0,744,2]
+"d7/dab/classboss__toravon.html":[6,0,744]
 };

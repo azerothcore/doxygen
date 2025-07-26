@@ -1,5 +1,8 @@
 var NAVTREEINDEX334 =
 {
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#afc14c60466f9f0f1b20062758f18c00d":[6,0,1790,0,0],
+"dd/dbf/classboss__frostsworn__general.html":[6,0,482],
+"dd/dbf/classboss__frostsworn__general.html#a33023712cf056eedfed1cb38e18af5dd":[6,0,482,1],
 "dd/dbf/classboss__frostsworn__general.html#a8e958e13999f23a81a7230fa9ece276b":[6,0,482,2],
 "dd/dc0/classnpc__mimirons__inferno.html":[6,0,1963],
 "dd/dc0/classnpc__mimirons__inferno.html#a69294c5e8f50727e5f1a6586a8a3682b":[6,0,1963,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dca/boss__razorscale_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabcc1bd6811f676ac672a8fe35cfe78f5":[7,0,0,0,1,3,5,9,2,10,26,2],
 "dd/dca/boss__razorscale_8cpp.html#a6986ec7b2d3274669934af9795f26d5cad3403a415697cbc370b4555696c94485":[7,0,0,0,1,3,5,9,2,10,26,3],
 "dd/dca/boss__razorscale_8cpp.html#a901ac46cad718194cb6b1db084c04935":[7,0,0,0,1,3,5,9,2,10,20],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,10,28],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a042ff325dc452a3dad645efc9ac6936b":[7,0,0,0,1,3,5,9,2,10,28,0],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0776c8f8765ae3ab5c26852dcb04ccc5":[7,0,0,0,1,3,5,9,2,10,28,3],
-"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2303554806651ada7e0c826ce34d7e10":[7,0,0,0,1,3,5,9,2,10,28,4]
+"dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,10,28]
 };

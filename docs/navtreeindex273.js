@@ -1,5 +1,8 @@
 var NAVTREEINDEX273 =
 {
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf":[7,0,0,0,1,2,31,7,6,18],
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9":[7,0,0,0,1,2,31,7,6,2],
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e":[7,0,0,0,1,2,31,7,6,10],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b":[7,0,0,0,1,2,31,7,6,19],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611":[7,0,0,0,1,2,31,7,6,5],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426":[7,0,0,0,1,2,31,7,6,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a":[6,0,563,7],
 "db/d1b/structboss__kazrogal.html#a7721debceeefaeb69e71855b8e8742f8":[6,0,563,1],
 "db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa":[6,0,563,5],
-"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[6,0,563,3],
-"db/d1b/structboss__kazrogal.html#acb9f4ee5d97b43082bf6fc0c424685ab":[6,0,563,6],
-"db/d1b/structboss__kazrogal.html#ad7401abae1b25d58ed93cc800d75bc26":[6,0,563,8],
-"db/d1b/structboss__pandemonius.html":[6,0,650]
+"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[6,0,563,3]
 };

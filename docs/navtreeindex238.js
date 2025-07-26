@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d84/LootMgr_8h.html#aade507039245a0e20adcdbf548a7d690":[7,0,0,0,1,2,24,3,30],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628b":[7,0,0,0,1,2,24,3,19],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba5d87501f88aede6518f687729359edb2":[7,0,0,0,1,2,24,3,19,4],
 "d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba73564f8582e2a666fb3c4f4b4bc96bff":[7,0,0,0,1,2,24,3,19,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d8f/dire__maul_8h.html#aff286ae066e6cc855674e730f4adba43a362658bec21a69bc802ee8e57ac3183d":[7,0,0,0,1,3,4,2,1,3,1],
 "d9/d8f/dire__maul_8h.html#aff286ae066e6cc855674e730f4adba43a5fc822621871e564a2dd9df3568e42b4":[7,0,0,0,1,3,4,2,1,3,0],
 "d9/d90/InstanceScript_8cpp.html":[7,0,0,0,1,2,23,2],
-"d9/d90/InstanceScript_8cpp.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,23,2,0],
-"d9/d90/classspell__item__defibrillate.html":[6,0,3209]
+"d9/d90/InstanceScript_8cpp.html#aad76768c8aee9ce3ac24657437adb0de":[7,0,0,0,1,2,23,2,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#accf640519e925eccf0230ca4a5dee3bb":[6,0,1315,0,21],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace":[6,0,1315,0,14],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ae5a87cc8bfc153aee0f96978f39a1932":[6,0,1315,0,15],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#af4cca13b9039d7c88e7fad1e8f23eb3a":[6,0,1315,0,18],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1686],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[6,0,1686,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22a6fb6dafeb13f966a4be293589e809949":[7,0,0,0,1,3,2,16,15,4,11],
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22aa94ad957c2b090d166d4d7a0ffe64501":[7,0,0,0,1,3,2,16,15,4,0],
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22ac6e5ff2f658de784d1625d0a84df3bf4":[7,0,0,0,1,3,2,16,15,4,1],
-"dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22ae4072758c98fd5be337cae3de98a56bb":[7,0,0,0,1,3,2,16,15,4,9],
-"dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22aecc1ca7d1f179eb4e378aae5121750bd":[7,0,0,0,1,3,2,16,15,4,12],
-"dc/df3/WorldMapScript_8cpp.html":[7,0,0,0,1,2,38,0,90],
-"dc/df3/WorldMapScript_8cpp.html#a729e333e6d0c4e5e353dd22c9612f446":[7,0,0,0,1,2,38,0,90,0]
+"dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22ae4072758c98fd5be337cae3de98a56bb":[7,0,0,0,1,3,2,16,15,4,9]
 };

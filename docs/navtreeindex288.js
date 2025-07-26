@@ -1,5 +1,8 @@
 var NAVTREEINDEX288 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a4687238d6a8dc1c5c509b413260c74bf":[7,0,0,0,1,3,10,14,58,30],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a4cfe791d03f0d2d2cd358e59097e61e0":[7,0,0,0,1,3,10,14,58,32],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a510f1c1f1d188b273c413a3abc41f656":[7,0,0,0,1,3,10,14,58,18],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a51752a1da77b22812e8972d1a7e11d5f":[7,0,0,0,1,3,10,14,58,28],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a549abccc70e0ad0506b7f8cb5499a9b4":[7,0,0,0,1,3,10,14,58,27],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a58a447b847f98fdf065f6c2177921195":[7,0,0,0,1,3,10,14,58,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX288 =
 "db/db7/namespaceMovement.html#a86528b2e04ddf38b80888e45d6b9c37d":[5,0,21,14],
 "db/db7/namespaceMovement.html#a87260372150c8322b45e75bfaa445f14":[5,0,21,21],
 "db/db7/namespaceMovement.html#a92efeab3fe080f348fa91cb9bc5a1b05":[5,0,21,32],
-"db/db7/namespaceMovement.html#a98cc74e5667e1057f334f02a28abcb01":[5,0,21,43],
-"db/db7/namespaceMovement.html#aa6a1b38cb6e1507d88f0f45a4820990b":[5,0,21,35],
-"db/db7/namespaceMovement.html#aa927e4ada20ca56ce951239357407270":[5,0,21,38],
-"db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fb":[5,0,21,16]
+"db/db7/namespaceMovement.html#a98cc74e5667e1057f334f02a28abcb01":[5,0,21,43]
 };

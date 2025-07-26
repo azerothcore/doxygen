@@ -1,5 +1,8 @@
 var NAVTREEINDEX332 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca":[7,0,0,0,1,3,5,9,1,2,11,9],
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cafe8199715e95e53ddba734463b0d5180":[7,0,0,0,1,3,5,9,1,2,11,2],
+"dd/dab/boss__sjonnir_8cpp.html#a751d0854890cab158f40e51e23feec32":[7,0,0,0,1,3,5,9,1,2,15],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,5,9,1,2,10],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7":[7,0,0,0,1,3,5,9,1,2,10,1],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591":[7,0,0,0,1,3,5,9,1,2,10,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX332 =
 "dd/db0/classnpc__freed__protodrake.html#a9680bf65cb97327396f58c297df1c8f5":[6,0,1784,2],
 "dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html":[6,0,1882,0],
 "dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a264874b9f6f0609792d4b3a325e54f59":[6,0,1882,0,3],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a43fa8bf8f22f0635261decd8b15ed6f5":[6,0,1882,0,1],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#acb187a58b0ba256b4e003655ac36db34":[6,0,1882,0,2],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#ae8fbc36a15324b210a24a0e98357adc3":[6,0,1882,0,0],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html":[6,0,2106,0]
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a43fa8bf8f22f0635261decd8b15ed6f5":[6,0,1882,0,1]
 };

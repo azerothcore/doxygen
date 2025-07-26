@@ -1,5 +1,8 @@
 var NAVTREEINDEX262 =
 {
+"da/d9e/classSmartAIMgr.html#ada782861c6465b53febcb835c201b46b":[6,0,2563,3],
+"da/d9e/classSmartAIMgr.html#adb011836ffb01660a069ced11c24aa81":[6,0,2563,14],
+"da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[6,0,2563,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[6,0,2563,0],
 "da/d9e/classSmartAIMgr.html#af74d3b1999c3774350e87d70a08c8210":[6,0,2563,19],
 "da/d9f/classspell__the__black__stalker__levitation__pulse.html":[6,0,3858],
@@ -246,8 +249,5 @@ var NAVTREEINDEX262 =
 "da/da7/structboss__rokmar__the__crackler.html#aed9cf4a866d5e70647125a08885fb809":[6,0,674,2],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html":[6,0,1728,0],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a308f2f29ec7f9277d102564ff6d39e32":[6,0,1728,0,4],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a32dd4a91841f2e75c8bca109015fc56a":[6,0,1728,0,6],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a3fdcf062b22c08b1dd616dad591a1021":[6,0,1728,0,7],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a6e67cda0b83578818a5e3b34ed9517cf":[6,0,1728,0,5],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#aa03a128068072b85bf0926cdececaaf2":[6,0,1728,0,0]
+"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a32dd4a91841f2e75c8bca109015fc56a":[6,0,1728,0,6]
 };

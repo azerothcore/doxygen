@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d42/classboss__yoggsaron__immortal__guardian.html#a4009759d284b54cb958ee0bb80c45f14":[6,0,794,1],
 "d9/d42/classboss__yoggsaron__immortal__guardian.html#ac532ca090d93ce6d11a0332329111f2b":[6,0,794,2],
 "d9/d44/classspell__xt002__gravity__bomb.html":[6,0,4022],
 "d9/d44/classspell__xt002__gravity__bomb.html#a1c55fabe15cdccb073e109e1d0f6e6ad":[6,0,4022,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d55/structCreatureAIFactory.html#ab5f691811cc23c5079a7a0a7f3503638":[6,0,912,1],
 "d9/d55/structCreatureAIFactory.html#ae5e76ee1d1f8949214dd5421bf7e4deb":[6,0,912,2],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html":[6,0,533,0],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[6,0,533,0,2],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a38e6008d616131d2876ae5a085a083ff":[6,0,533,0,4]
+"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[6,0,533,0,2]
 };

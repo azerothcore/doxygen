@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d94/classTradeData.html":[6,0,4155],
 "d8/d94/classTradeData.html#a011acd6730c58aa75d3c27e793748afc":[6,0,4155,4],
 "d8/d94/classTradeData.html#a0dc996fdc9acab409833caff4e6b489b":[6,0,4155,15],
 "d8/d94/classTradeData.html#a1e585dd9ed486381a55e108a709e4db3":[6,0,4155,19],
@@ -115,8 +116,8 @@ var NAVTREEINDEX220 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1651,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1651,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1651,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/da3/structCreatureMovementData.html#a04966dc48fffcd65574314f238ba9be2":[6,0,923,15],
 "d8/da3/structCreatureMovementData.html#a0820b5840321870dafa9119d404ad0d9":[6,0,923,5],
 "d8/da3/structCreatureMovementData.html#a0ca3905bb168b81853091a7d56796c1f":[6,0,923,14],
-"d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[6,0,923,13],
-"d8/da3/structCreatureMovementData.html#a3ed4b7f140537f9d066344c50a79b0b1":[6,0,923,7]
+"d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[6,0,923,13]
 };

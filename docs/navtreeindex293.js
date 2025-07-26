@@ -1,5 +1,8 @@
 var NAVTREEINDEX293 =
 {
+"db/dd5/classCreature.html#af8713b3fa1674b62e3580ef8b3eda23b":[6,0,908,254],
+"db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23":[6,0,908,135],
+"db/dd5/classCreature.html#af95cc423ba67495e63efcfbcbd9ff978":[6,0,908,212],
 "db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002":[6,0,908,38],
 "db/dd5/classCreature.html#afb49a62b1afbd2af7e648de979aa34ce":[6,0,908,63],
 "db/dd5/classCreature.html#afc3f5dc6dafd08d43819ac6759438495":[6,0,908,267],
@@ -144,8 +147,8 @@ var NAVTREEINDEX293 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[6,0,2764,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[6,0,2764,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[6,0,2764,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,890],
@@ -200,10 +203,10 @@ var NAVTREEINDEX293 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1646,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,30,5,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,30,5,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,30,5,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,30,5,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4092],
@@ -246,8 +249,5 @@ var NAVTREEINDEX293 =
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca81edadcf7f7f8e2f17a8081ca9d53aa8":[7,0,0,0,1,3,2,4,9,7,25],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca82d03a2cc5f42fd2a63d18c931417c7c":[7,0,0,0,1,3,2,4,9,7,6],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,2,4,9,7,1],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca86f344cd2f62afe7cef31611949f4c45":[7,0,0,0,1,3,2,4,9,7,26],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca90bedaa3fd9cef63cc6782461f3c8101":[7,0,0,0,1,3,2,4,9,7,19],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca9138d99bbf0dad56fa1e2acc8c420e60":[7,0,0,0,1,3,2,4,9,7,5],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca93a4a738c6ba910ef15abf8f6b177e23":[7,0,0,0,1,3,2,4,9,7,8]
+"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca86f344cd2f62afe7cef31611949f4c45":[7,0,0,0,1,3,2,4,9,7,26]
 };

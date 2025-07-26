@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf236c056526e7d334d0f4923020c11d":[7,0,0,0,1,3,5,9,0,3,8,2],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf4e44beedee8c8707805224fa72dade":[7,0,0,0,1,3,5,9,0,3,8,9],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dad938a16355e71dde7dcb1dba7ca3332c":[7,0,0,0,1,3,5,9,0,3,8,10],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dafb60338c8bf2cdf173bbec1399302590":[7,0,0,0,1,3,5,9,0,3,8,4],
@@ -73,10 +74,10 @@ var NAVTREEINDEX242 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dd1/classspell__class__call__handler.html#a0f6146c64a86e953c042f8404bbfe683":[6,0,2709,4],
 "d9/dd1/classspell__class__call__handler.html#a4792a25aa6fe6126a94900784798dbee":[6,0,2709,3],
 "d9/dd1/classspell__class__call__handler.html#a57cd6d2c45a9a73bb284272db21d1fce":[6,0,2709,1],
-"d9/dd1/classspell__class__call__handler.html#a76f9e5e11a6f2e25868dba567d798002":[6,0,2709,2],
-"d9/dd1/classspell__class__call__handler.html#ae1029dd58a48c099e8bbd071898f1b12":[6,0,2709,0]
+"d9/dd1/classspell__class__call__handler.html#a76f9e5e11a6f2e25868dba567d798002":[6,0,2709,2]
 };
