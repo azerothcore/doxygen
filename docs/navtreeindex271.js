@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc":[7,0,0,0,1,0,0,0,1,2,5],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb":[7,0,0,0,1,0,0,0,1,2,0],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005":[7,0,0,0,1,0,0,0,1,2,3],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0":[7,0,0,0,1,0,0,0,1,2,1],
@@ -79,14 +80,14 @@ var NAVTREEINDEX271 =
 "da/df5/classAcore_1_1AsyncProcessResult.html":[6,0,0,33],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[6,0,0,33,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,1,45,0],
-"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[6,0,0,33,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
-"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
+"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[6,0,0,33,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,30,8,6],
+"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[6,0,11,8,6],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[6,0,11,8,6,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,30,8,6],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,30,8,6,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[6,0,11,8,6,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,30,8,6,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[6,0,11,8,6,0],
 "da/df6/classspell__warr__mocking__blow.html":[6,0,3998],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "db/d01/structnpc__ahnkahar__nerubian.html#a9a773127e4f94bcdf142718355eae0e8":[6,0,1564,2],
 "db/d01/structnpc__ahnkahar__nerubian.html#ae18cdf09bae50751e266e95caf165f8e":[6,0,1564,0],
 "db/d02/structMySQLType_3_01int32_01_4.html":[6,0,1540],
-"db/d02/zone__felwood_8cpp.html":[7,0,0,0,1,3,4,22],
-"db/d02/zone__felwood_8cpp.html#a63ae28c9f250057b35a18fb585c6a2cf":[7,0,0,0,1,3,4,22,4]
+"db/d02/zone__felwood_8cpp.html":[7,0,0,0,1,3,4,22]
 };

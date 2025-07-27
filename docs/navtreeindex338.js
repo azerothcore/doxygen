@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/ddc/structboss__illidari__council.html#a8b30df956aa4ce1727756f1d19e151be":[6,0,544,6],
 "dd/ddc/structboss__illidari__council.html#af8e88c307efaba392cc2a1d2f3862078":[6,0,544,2],
 "dd/dde/classHomeMovementGenerator.html":[6,0,1260],
 "dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/ded/structboss__twin__valkyrAI.html#a2c0015cadfcc90e1c730d8f9c02151e8":[6,0,748,5],
 "dd/ded/structboss__twin__valkyrAI.html#a3a10c07715e5ef03c28f132df18e80bd":[6,0,748,0],
 "dd/ded/structboss__twin__valkyrAI.html#a4101d2174de103be7154875beaafa65d":[6,0,748,12],
-"dd/ded/structboss__twin__valkyrAI.html#a624969393687e10c2f8fca72d9394265":[6,0,748,2],
-"dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a":[6,0,748,15]
+"dd/ded/structboss__twin__valkyrAI.html#a624969393687e10c2f8fca72d9394265":[6,0,748,2]
 };

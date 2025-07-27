@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ae3229b737fba56e69fe75d92cc188ebe":[6,0,2284,0,9],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ae9794e6d7720813df191180ee9ff8b82":[6,0,2284,0,3],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#aeeb7705770ed09ed97baf4d61d697ffc":[6,0,2284,0,11],
 "df/d28/classTransaction.html":[6,0,4158],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a4e1d09a210b4991e2b97e04f7be8a2bf":[6,0,709,0,7],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a5592b2f9e4ce9149fb77cdc5dcc27539":[6,0,709,0,9],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a678cd6ce097dab459bbf162553ddd56b":[6,0,709,0,15],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a6f018f955bf546a47c119328b33ef010":[6,0,709,0,11],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a72b285d89d1bf55d85436718cf25c287":[6,0,709,0,1]
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a6f018f955bf546a47c119328b33ef010":[6,0,709,0,11]
 };

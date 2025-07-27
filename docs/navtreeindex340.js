@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/dfe/classspell__dred__grievious__bite__aura.html#a6f2e191d76f894517aed395866b7e508":[6,0,2805,0],
 "dd/dfe/classspell__item__nigh__invulnerability.html":[6,0,3264],
 "dd/dfe/classspell__item__nigh__invulnerability.html#a08838d940e413d83f4c48854260c3e1b":[6,0,3264,3],
 "dd/dfe/classspell__item__nigh__invulnerability.html#a155fa844714aadadd0a6c31dc86748f3":[6,0,3264,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc":[7,0,0,0,1,4,7,75,25],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa":[7,0,0,0,1,4,7,75,35],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6865f083fae719674ecddb2c31d825ee":[7,0,0,0,1,4,7,75,26],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1":[7,0,0,0,1,4,7,75,2],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a649048b169e4df0f050f6f04284eca":[7,0,0,0,1,4,7,75,19]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1":[7,0,0,0,1,4,7,75,2]
 };

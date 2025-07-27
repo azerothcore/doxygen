@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[6,0,395,0,13],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a77d1dc632828691fa07a543544bd266c":[6,0,395,0,3],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a8a9b3f248f3d889b1804c387396d3054":[6,0,395,0,1],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ac25e3299bc9787d5bbad22263ebab235":[6,0,395,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/dd5/classMiscScript.html":[6,0,1503],
 "de/dd5/classMiscScript.html#a044e0a8f789c9cb8e19cfc82c87ab745":[6,0,1503,7],
 "de/dd5/classMiscScript.html#a100f72c7b930788c5d3a4a0d2dd2d9d9":[6,0,1503,14],
-"de/dd5/classMiscScript.html#a1434e3a2638144a9ddd4e2834a4983be":[6,0,1503,15],
-"de/dd5/classMiscScript.html#a14cf20bad86e743a0ddc225d780ed13c":[6,0,1503,10]
+"de/dd5/classMiscScript.html#a1434e3a2638144a9ddd4e2834a4983be":[6,0,1503,15]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[5,0,20,4,5],
 "df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[6,0,6,4,7],
 "df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[5,0,20,4,7],
 "df/d9e/structMMAP_1_1MeshData.html#a915387c2cfa7111de4a957646a2aace4":[6,0,6,4,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/da7/classBattleground.html#a4477b9b46a8133a2bb3f992cf8be6124":[6,0,310,247],
 "df/da7/classBattleground.html#a447ecd1d9bc9efd8efac2bf4900dc665":[6,0,310,71],
 "df/da7/classBattleground.html#a44bf60cb7a2d83f6b83dcc5fececb528":[6,0,310,22],
-"df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[6,0,310,87],
-"df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[6,0,310,58]
+"df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[6,0,310,87]
 };

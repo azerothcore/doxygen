@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea79cdebc2f1cd492d80831a1538eec9e9":[7,0,0,0,1,3,4,1,0,1,8,4],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea906920afb87b1d09cadbd93eefc1c0a8":[7,0,0,0,1,3,4,1,0,1,8,2],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ead5b3e1b17cb1a42c914158702338f49b":[7,0,0,0,1,3,4,1,0,1,8,0],
 "dc/db3/boss__archimonde_8cpp.html#ae72869d214b7d3a071fb6094ed4948d5":[7,0,0,0,1,3,4,1,0,1,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa":[7,0,0,0,1,3,7,2,3,0,2,4],
 "dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,7,2,3,0,2,2],
 "dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c":[7,0,0,0,1,3,7,2,3,0,2,0],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806":[7,0,0,0,1,3,7,2,3,0,2,1],
-"dc/dc3/classspell__dru__dash__aura.html":[6,0,2812]
+"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806":[7,0,0,0,1,3,7,2,3,0,2,1]
 };

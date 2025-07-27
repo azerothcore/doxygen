@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d1d/classiron__golem__custodian.html#a272e0c9fe475a665aa80a95f1e1d8629":[6,0,1366,2],
 "de/d1d/classiron__golem__custodian.html#adc11b755e193adbad757c21e5b15e063":[6,0,1366,1],
 "de/d1e/WardenWin_8cpp.html":[7,0,0,0,1,2,46,10],
 "de/d1e/WardenWin_8cpp.html#a259abc7d98e16cefc14404b5886cbc09":[7,0,0,0,1,2,46,10,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d25/ObjectMgr_8h.html#ae93b697a9b22d427db8d45f79d10aa34":[7,0,0,0,1,2,18,3,80],
 "de/d25/ObjectMgr_8h.html#aebea323597e23bf0f45fd9c0c6bd78f5":[7,0,0,0,1,2,18,3,47],
 "de/d25/ObjectMgr_8h.html#aed2a1b306d2ad9a35f14bc8aed764462":[7,0,0,0,1,2,18,3,34],
-"de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7":[7,0,0,0,1,2,18,3,38],
-"de/d25/ObjectMgr_8h.html#aeeb734ff80b8099b0f2243dea5aa006a":[7,0,0,0,1,2,18,3,58]
+"de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7":[7,0,0,0,1,2,18,3,38]
 };

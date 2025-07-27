@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d99/classspell__q12096__q12092__dummy.html#ad13fdade1fb7455485bfd68687de53c5":[6,0,3633,3],
 "df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce":[6,0,3633,0],
 "df/d99/structboss__kalec.html":[6,0,561],
 "df/d99/structboss__kalec.html#a46f35b35c1d17abc2ffaf909c53a4039":[6,0,561,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[6,0,6,4,4],
 "df/d9e/structMMAP_1_1MeshData.html#a58350c36d5b88fe255880f6c217d4ef9":[5,0,20,4,3],
 "df/d9e/structMMAP_1_1MeshData.html#a58350c36d5b88fe255880f6c217d4ef9":[6,0,6,4,3],
-"df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[6,0,6,4,5],
-"df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[5,0,20,4,5]
+"df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[6,0,6,4,5]
 };

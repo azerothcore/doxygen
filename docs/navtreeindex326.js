@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3800,2],
 "dd/d55/classspell__shredder__delivery.html#a95de3ae27cfd764380ab1648b49af38d":[6,0,3800,0],
 "dd/d55/classspell__shredder__delivery.html#af9d8f764a6a02737f8b559f067156df6":[6,0,3800,3],
 "dd/d57/AuthSession_8h.html":[7,0,0,0,1,0,0,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a5b2d80b38623174b7913ed4d893f03c9":[6,0,649,0,11],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a6064594bc0e9bd008b76d498f4cdc36c":[6,0,649,0,13],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a6f8c8d20fbfff32d34cd30f9c3a757a6":[6,0,649,0,9],
-"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a82df372b8216703b8377ff334aa64684":[6,0,649,0,4],
-"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a9ef97ec685e516e80b792fa1d7e891c1":[6,0,649,0,12]
+"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a82df372b8216703b8377ff334aa64684":[6,0,649,0,4]
 };

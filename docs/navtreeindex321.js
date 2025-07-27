@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d24/structArcherAI.html#ac5b3d144b0d71a5e527d53f33c3d31cc":[6,0,157,2],
 "dd/d24/structArcherAI.html#adc79f7ead63ecaf8fed9ea4f81d27f76":[6,0,157,1],
 "dd/d25/classGuildScript.html":[6,0,1249],
 "dd/d25/classGuildScript.html#a0231be74a2625a91fc617980dfc41ca3":[6,0,1249,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d27/structSmartAction.html#a8d3cd9587daf834ac5e1fbe19a12ebd8":[6,0,2561,215],
 "dd/d27/structSmartAction.html#a8db2f740e31bf831c325dfedeaaaf8df":[6,0,2561,213],
 "dd/d27/structSmartAction.html#a8dc623be4eb11ecd6d196d238dcf4ef4":[6,0,2561,94],
-"dd/d27/structSmartAction.html#a8e160fc16c33582117abccc65469a1c1":[6,0,2561,126],
-"dd/d27/structSmartAction.html#a8f3c671db741400ca5a58339cba3202f":[6,0,2561,134]
+"dd/d27/structSmartAction.html#a8e160fc16c33582117abccc65469a1c1":[6,0,2561,126]
 };

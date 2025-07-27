@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/d7a/structGtCombatRatingsEntry.html":[6,0,1235],
 "dd/d7a/structGtCombatRatingsEntry.html#abd6f48f1ad2826ae1c3c782337bac618":[6,0,1235,0],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html":[5,0,30,5,4],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html":[6,0,11,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#a9838b3edb758f6f8d0bcbb242862d5da":[6,0,1868,0,1],
 "dd/d80/structnpc__icc__skybreaker__hierophant_1_1npc__icc__skybreaker__hierophantAI.html#adddd56260b41738d69fcdfe31b677c51":[6,0,1868,0,2],
 "dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html":[6,0,2295,0],
-"dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a2942c05c93036c2e02b9a72c784441b1":[6,0,2295,0,0],
-"dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec":[6,0,2295,0,5]
+"dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a2942c05c93036c2e02b9a72c784441b1":[6,0,2295,0,0]
 };

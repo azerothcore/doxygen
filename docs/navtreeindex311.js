@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,1,87,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,1,87,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298caf6cc8585af50f22cf19744d8eccb8882":[7,0,0,0,1,3,4,9,8,11,12],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,4,9,8,10],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5c62cc125907a273eb107e2a0ea9f1ee":[7,0,0,0,1,3,4,9,8,10,2],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219aa1e61c1060b8bd09030ca6eb82320fbf":[7,0,0,0,1,3,4,9,8,10,1],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[7,0,0,0,1,3,4,9,8,10,0]
+"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219aa1e61c1060b8bd09030ca6eb82320fbf":[7,0,0,0,1,3,4,9,8,10,1]
 };

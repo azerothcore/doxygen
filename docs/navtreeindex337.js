@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dd/dd4/classBattlegroundEY.html#af433aaf1b91cecd69b734dde6886190b":[6,0,318,7],
 "dd/dd4/structboss__midnight.html":[6,0,616],
 "dd/dd4/structboss__midnight.html#a14dcbec9dc43cc12a124b6f140e0e8e6":[6,0,616,7],
 "dd/dd4/structboss__midnight.html#a17c86571df6263fe1cc3657ca596e3ae":[6,0,616,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dd/ddc/structboss__illidari__council.html#a19ed88ab049e1323f529e0880af0a9dd":[6,0,544,5],
 "dd/ddc/structboss__illidari__council.html#a260b15ec58164f17543aa044a89875a8":[6,0,544,1],
 "dd/ddc/structboss__illidari__council.html#a6c3c57523ed2775ba553af1171b46463":[6,0,544,3],
-"dd/ddc/structboss__illidari__council.html#a7dd21784b8f9a0eac17d56215c24028e":[6,0,544,4],
-"dd/ddc/structboss__illidari__council.html#a8b30df956aa4ce1727756f1d19e151be":[6,0,544,6]
+"dd/ddc/structboss__illidari__council.html#a7dd21784b8f9a0eac17d56215c24028e":[6,0,544,4]
 };

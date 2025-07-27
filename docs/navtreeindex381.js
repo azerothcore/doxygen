@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aacc16e0dae2a94d7f3f3a136bd421c02":[7,0,0,0,1,2,16,5,0,4,6,243],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aad27c730802e67c9e9cace991d64bdbb":[7,0,0,0,1,2,16,5,0,4,6,214],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aadb8466a0770ef91d4e31e50b1d5bf1e":[7,0,0,0,1,2,16,5,0,4,6,245],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaf5220c031538f14e62edb39923a0ccf":[7,0,0,0,1,2,16,5,0,4,6,54],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#aa8c1d051996c4093ac71a60a08be2775":[6,0,2284,0,6],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ac0657362e8e4c70af6976ec771612642":[6,0,2284,0,13],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ad321e939986dec9506b85f30e93cb54a":[6,0,2284,0,15],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#add4d5e7c089831a63bf7b4d44b7110f9":[6,0,2284,0,7],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#ae3229b737fba56e69fe75d92cc188ebe":[6,0,2284,0,9]
+"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#add4d5e7c089831a63bf7b4d44b7110f9":[6,0,2284,0,7]
 };

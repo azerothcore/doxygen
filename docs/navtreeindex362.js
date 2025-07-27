@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461":[7,0,0,0,1,2,15,1,9,1],
 "de/d59/LFG_8h.html#a64b5a722b95a52923e0ddaae1402b8de":[7,0,0,0,1,2,15,1,1],
 "de/d59/LFG_8h.html#a7ad66b24daa968c5b9615224ddc10659":[7,0,0,0,1,2,15,1,6],
 "de/d59/LFG_8h.html#a7f47ec56c1412d2da0ff629b760e7f5f":[7,0,0,0,1,2,15,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d5f/classnpc__ulduar__leviathan__mkii.html#afe438e97b6989a8899850619c87cd7e6":[6,0,2233,2],
 "de/d5f/structboss__chrono__lord__deja.html":[6,0,408],
 "de/d5f/structboss__chrono__lord__deja.html#a02c279fb1cfccd38dc60ba7c610cf859":[6,0,408,3],
-"de/d5f/structboss__chrono__lord__deja.html#a535c0c157c60804188ad8c4413c277dd":[6,0,408,4],
-"de/d5f/structboss__chrono__lord__deja.html#a68eb4941364f9fac121aa3d610d45f48":[6,0,408,1]
+"de/d5f/structboss__chrono__lord__deja.html#a535c0c157c60804188ad8c4413c277dd":[6,0,408,4]
 };

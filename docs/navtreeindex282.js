@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"db/d88/structTimeTracker.html":[6,0,4148],
 "db/d88/structTimeTracker.html#a2009e98647f04c20cb3064e1e9e9a611":[6,0,4148,4],
 "db/d88/structTimeTracker.html#a2b9f585de223c1051136b10b03a27684":[6,0,4148,0],
 "db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[6,0,4148,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX282 =
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afe360730c5206ed27eb3957ba20a8a66":[7,0,0,0,1,2,16,4,6,42,14],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5e":[7,0,0,0,1,2,16,4,6,45],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea0e08332b1f5becf2ccc7aea02ee13908":[7,0,0,0,1,2,16,4,6,45,21],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea1912c2a19d4aaf55d69815cf1fcaf054":[7,0,0,0,1,2,16,4,6,45,11],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea24e283371b56dce8fdd229acc7e86328":[7,0,0,0,1,2,16,4,6,45,17]
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea1912c2a19d4aaf55d69815cf1fcaf054":[7,0,0,0,1,2,16,4,6,45,11]
 };

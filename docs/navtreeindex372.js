@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092":[7,0,0,0,1,3,7,4,3,5,4,1],
 "de/dae/shattered__halls_8h.html#ae6b8d459f26fe1836c08c664e0d73426":[7,0,0,0,1,3,7,4,3,5,0],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,4,3,5,3],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a040e4b2e1bdad27be5dcca9a39a4e3cc":[7,0,0,0,1,3,7,4,3,5,3,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a3bb0698d0d66e4a26e25569f97ea720d":[6,0,395,0,4],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a46c906dfeb367134885dc5248b50dbd0":[6,0,395,0,0],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a58c32a4802a93755d7c8129c01901cdf":[6,0,395,0,5],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a718a51ec39cb9a10225a7bc76a069a3b":[6,0,395,0,8],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[6,0,395,0,13]
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a718a51ec39cb9a10225a7bc76a069a3b":[6,0,395,0,8]
 };

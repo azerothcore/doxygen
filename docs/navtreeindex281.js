@@ -1,8 +1,9 @@
 var NAVTREEINDEX281 =
 {
+"db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3043,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3043,2],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1153],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[6,0,3431,1],
 "db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[6,0,3431,5],
 "db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[6,0,3431,0],
-"db/d88/classspell__mc__play__dead__aura.html#abec6d69d331e9952c129dc4cc24f0f13":[6,0,3431,3],
-"db/d88/structTimeTracker.html":[6,0,4148]
+"db/d88/classspell__mc__play__dead__aura.html#abec6d69d331e9952c129dc4cc24f0f13":[6,0,3431,3]
 };

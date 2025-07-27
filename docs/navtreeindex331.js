@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/d9f/classspell__voodoo.html":[6,0,3943],
 "dd/d9f/classspell__voodoo.html#a2f297ab67d5e2e990658706f7c508bd4":[6,0,3943,2],
 "dd/d9f/classspell__voodoo.html#a38dafff805471b19ca3cca4ff5273a87":[6,0,3943,0],
 "dd/d9f/classspell__voodoo.html#a40db5a46491aa22b5347f99b0251f1b8":[6,0,3943,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07":[7,0,0,0,1,3,5,9,1,2,11,3],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34":[7,0,0,0,1,3,5,9,1,2,11,11],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,5,9,1,2,11,5],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad234971f8c4b4339c900cf9b259dd9f2":[7,0,0,0,1,3,5,9,1,2,11,12],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cadba0411154960febe2bc15e6aeb3c46d":[7,0,0,0,1,3,5,9,1,2,11,14]
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad234971f8c4b4339c900cf9b259dd9f2":[7,0,0,0,1,3,5,9,1,2,11,12]
 };

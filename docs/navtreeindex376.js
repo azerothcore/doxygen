@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/df2/spell__rogue_8cpp.html#a3113dcef6ca918382eb15e4803d7bb42":[7,0,0,0,1,3,9,9,17],
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52":[7,0,0,0,1,3,9,9,20],
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37":[7,0,0,0,1,3,9,9,20,3],
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58":[7,0,0,0,1,3,9,9,20,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ab26cb7c7dfaf765aee2c91c629d528db":[6,0,0,5,9,10],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ab26cb7c7dfaf765aee2c91c629d528db":[5,0,1,8,9,10],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ab443d5ecc1c5ce6c3cafae724e7d2d3e":[5,0,1,8,9,3],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ab443d5ecc1c5ce6c3cafae724e7d2d3e":[6,0,0,5,9,3],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#abbbfe21337c9f222da3a21bae43e541a":[6,0,0,5,9,8]
+"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ab443d5ecc1c5ce6c3cafae724e7d2d3e":[6,0,0,5,9,3]
 };

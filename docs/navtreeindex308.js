@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[5,0,30,5,23,1],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html":[6,0,3177],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html#a0d2e97463f268892965e307628aaa931":[6,0,3177,2],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html#a5cf70fe73d01e08e78a2d00e5bc95e8e":[6,0,3177,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d78/classboss__infinite__corruptor.html#a78a939073ab44b818cefdb25419f92be":[6,0,546,1],
 "dc/d78/classboss__infinite__corruptor.html#ab6eaf2f9d1928817e45b092a3a87bda4":[6,0,546,2],
 "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html":[6,0,2231,0],
-"dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a10a5444576af84ae50ad8af930ed5970":[6,0,2231,0,6],
-"dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a12416ffe731f96a1ca2949d995eb909c":[6,0,2231,0,3]
+"dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a10a5444576af84ae50ad8af930ed5970":[6,0,2231,0,6]
 };

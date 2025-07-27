@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a9ef97ec685e516e80b792fa1d7e891c1":[6,0,649,0,12],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#ab8e8485765502d39cb4311d92ac98441":[6,0,649,0,3],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#ae9daef57101d1ab25e9c6fb6980b05ff":[6,0,649,0,8],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#af216c7ce539b5e8ce80223270f202603":[6,0,649,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d7a/classspell__hun__misdirection__proc.html":[6,0,3112],
 "dd/d7a/classspell__hun__misdirection__proc.html#ab1e3a55a35dbbb4bd781ac8c51608e6a":[6,0,3112,1],
 "dd/d7a/classspell__hun__misdirection__proc.html#ac3a6d7bdc95605e3c73f8115b4a68da0":[6,0,3112,0],
-"dd/d7a/classspell__hun__misdirection__proc.html#aecd068248e174c4b676ff9f43dd0856f":[6,0,3112,2],
-"dd/d7a/structGtCombatRatingsEntry.html":[6,0,1235]
+"dd/d7a/classspell__hun__misdirection__proc.html#aecd068248e174c4b676ff9f43dd0856f":[6,0,3112,2]
 };

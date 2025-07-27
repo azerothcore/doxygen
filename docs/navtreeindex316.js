@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca48d446990e90d957ef0ee5d0da098c8f":[7,0,0,0,1,3,7,0,0,2,3,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca1de3d76595bb0c4e35568eaa92ec":[7,0,0,0,1,3,7,0,0,2,3,3],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dff932661b864d3df21370e3cdee19f":[7,0,0,0,1,3,7,0,0,2,3,1],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e3377c92da71e4bb87a6621c82e94fd":[7,0,0,0,1,3,7,0,0,2,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a9dfa8834bfea20a8f4a39c958e38bcbd":[6,0,1315,0,12],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#aa5f838155be454aec552b99c42edfe99":[6,0,1315,0,9],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#aad60cffd6c483bf4610884c3b99ad39c":[6,0,1315,0,17],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ab4a87ca38d203deacc377579e66e5bfb":[6,0,1315,0,22],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac969f1faf18633ad54354015fb66f4f8":[6,0,1315,0,3]
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ab4a87ca38d203deacc377579e66e5bfb":[6,0,1315,0,22]
 };

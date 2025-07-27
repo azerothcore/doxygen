@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#afafb4c0c0e79b58094ea09068ebdf724":[6,0,1348,0,1],
 "dd/d40/classboss__loatheb.html":[6,0,592],
 "dd/d40/classboss__loatheb.html#a93bf8055a9ed900c880ef8b81b87bafd":[6,0,592,1],
 "dd/d40/classboss__loatheb.html#aca9b3a2515777f81b354c01a9727276e":[6,0,592,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d55/classnpc__flamewaker__priest.html#a2ae4d75192f8ddc60d092b9a129e636e":[6,0,1777,1],
 "dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1777,2],
 "dd/d55/classspell__shredder__delivery.html":[6,0,3800],
-"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3800,1],
-"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3800,2]
+"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3800,1]
 };

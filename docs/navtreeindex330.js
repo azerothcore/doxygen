@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dd/d8d/DBCStores_8cpp.html#a9aedefee47136bbaac9d7589b49ff653":[7,0,0,0,1,2,14,0,160],
 "dd/d8d/DBCStores_8cpp.html#a9ba67e5170b776dea42f38ce97577946":[7,0,0,0,1,2,14,0,136],
 "dd/d8d/DBCStores_8cpp.html#a9cf2c87025a4b9c51408098f1792bef1":[7,0,0,0,1,2,14,0,75],
 "dd/d8d/DBCStores_8cpp.html#a9f0b9f6bd02f71337f6e5b399ff123ad":[7,0,0,0,1,2,14,0,52],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dd/d9f/classspell__reliquary__of__souls__fixate__aura.html":[6,0,3708],
 "dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#a2e2668f0b5bf369ec859627e0bd8d980":[6,0,3708,1],
 "dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#acd7e22159d262a9888c744eecb978c09":[6,0,3708,2],
-"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#ae9baf688d8ac42c4ccbbf13f3b79e831":[6,0,3708,0],
-"dd/d9f/classspell__voodoo.html":[6,0,3943]
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#ae9baf688d8ac42c4ccbbf13f3b79e831":[6,0,3708,0]
 };

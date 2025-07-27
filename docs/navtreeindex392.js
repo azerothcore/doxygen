@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[6,0,310,58],
 "df/da7/classBattleground.html#a476285ec168eec279bf3d1a4bb99603d":[6,0,310,4],
 "df/da7/classBattleground.html#a47766d59a63f48306cedc29d0a2e4598":[6,0,310,114],
 "df/da7/classBattleground.html#a484f56188cd64eebe033d80091cdbfcf":[6,0,310,174],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a715b039dea752d6c6c517cb12c503e5e":[7,0,0,0,1,3,5,9,1,0,4,3],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,9,1,0,4,0],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a990d801452a3350349a1834c5905a761":[7,0,0,0,1,3,5,9,1,0,4,4],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,9,1,0,4,2],
-"df/dab/boss__krystallus_8cpp.html#af4edae984bfe1d62b750eec0e9b7c015":[7,0,0,0,1,3,5,9,1,0,7]
+"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,9,1,0,4,2]
 };

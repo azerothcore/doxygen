@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,20,23],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
 "de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c":[5,0,20,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "de/d1c/classnpc__acherus__necromancer.html":[6,0,1560],
 "de/d1c/classnpc__acherus__necromancer.html#a14ca04a1656a6bb0c842ecb709aba1a7":[6,0,1560,1],
 "de/d1c/classnpc__acherus__necromancer.html#af43b1908b1d99868ea5a3899fe8ebd02":[6,0,1560,2],
-"de/d1d/classiron__golem__custodian.html":[6,0,1366],
-"de/d1d/classiron__golem__custodian.html#a272e0c9fe475a665aa80a95f1e1d8629":[6,0,1366,2]
+"de/d1d/classiron__golem__custodian.html":[6,0,1366]
 };

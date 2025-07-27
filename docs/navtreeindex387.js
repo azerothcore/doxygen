@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[6,0,4132,6],
 "df/d76/UpdateFetcher_8h.html":[7,0,0,0,1,1,3,3],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html":[6,0,2174,0],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[6,0,2174,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,45],
 "df/d87/boss__freya_8cpp.html#a47ccfc1e011291655bceb28851d1cf39":[7,0,0,0,1,3,5,9,2,4,37],
 "df/d87/boss__freya_8cpp.html#a7329b0d6f437aa30cc93353076f35f19":[7,0,0,0,1,3,5,9,2,4,20],
-"df/d87/boss__freya_8cpp.html#a87f0fe97c300b0d99cfc8ca94c8630e1":[7,0,0,0,1,3,5,9,2,4,22],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289":[7,0,0,0,1,3,5,9,2,4,40]
+"df/d87/boss__freya_8cpp.html#a87f0fe97c300b0d99cfc8ca94c8630e1":[7,0,0,0,1,3,5,9,2,4,22]
 };

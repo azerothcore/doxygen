@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[7,0,0,0,1,2,26,2,1,11],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf578bcbfa373b10d63c5d2f9638daf34":[7,0,0,0,1,2,26,2,1,14],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf5d07a264accc4376d12233736d19343":[7,0,0,0,1,2,26,2,1,81],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3":[7,0,0,0,1,2,26,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d52/classTimedFleeingMovementGenerator.html#a2858047459ff675383e7b86805702369":[6,0,4147,4],
 "dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[6,0,4147,3],
 "dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[6,0,4147,0],
-"dc/d54/classnpc__mageguard__dalaran.html":[6,0,1941],
-"dc/d54/classnpc__mageguard__dalaran.html#a0cec4f232b665325c421cecb5839885f":[6,0,1941,1]
+"dc/d54/classnpc__mageguard__dalaran.html":[6,0,1941]
 };

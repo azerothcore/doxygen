@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d2d/classMMAP_1_1TileBuilder.html#a4c881a6e6ec66b315f72f84da5c534c2":[6,0,6,10,9],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a4e03cb818b108400737e3a54df24945d":[5,0,20,10,13],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a4e03cb818b108400737e3a54df24945d":[6,0,6,10,13],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a5b5313e24c00e58940067d53be93a3de":[6,0,6,10,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d3b/structGameObjectTemplate.html#a0cd6cc2d313bbc24c02f53d69632536d":[6,0,1084,131],
 "dd/d3b/structGameObjectTemplate.html#a0e9e8c301e193381266990b20ebeeb46":[6,0,1084,142],
 "dd/d3b/structGameObjectTemplate.html#a0f7e6e25ff34fa90e3f513d1860d5cde":[6,0,1084,31],
-"dd/d3b/structGameObjectTemplate.html#a1068d0f68db876b537c8eebfae0d00d6":[6,0,1084,162],
-"dd/d3b/structGameObjectTemplate.html#a10c76c617aa20fece8764a5ccaf691f9":[6,0,1084,137]
+"dd/d3b/structGameObjectTemplate.html#a1068d0f68db876b537c8eebfae0d00d6":[6,0,1084,162]
 };

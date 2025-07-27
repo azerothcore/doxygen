@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a":[6,0,748,15],
 "dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,748,7],
 "dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,748,8],
 "dd/ded/structboss__twin__valkyrAI.html#a8a488e8d0acab2737c0503ce89fd3d2a":[6,0,748,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dfd/structnpc__adventurous__dwarf_1_1npc__adventurous__dwarfAI.html#af953c5fef2ea8abbf7835b0bc5cf1b23":[6,0,1561,0,0],
 "dd/dfe/classspell__dred__grievious__bite__aura.html":[6,0,2805],
 "dd/dfe/classspell__dred__grievious__bite__aura.html#a571ee1c735b6095408973bfe5f91bcf7":[6,0,2805,1],
-"dd/dfe/classspell__dred__grievious__bite__aura.html#a6094dc303c034e49fb4e543874db080b":[6,0,2805,2],
-"dd/dfe/classspell__dred__grievious__bite__aura.html#a6f2e191d76f894517aed395866b7e508":[6,0,2805,0]
+"dd/dfe/classspell__dred__grievious__bite__aura.html#a6094dc303c034e49fb4e543874db080b":[6,0,2805,2]
 };

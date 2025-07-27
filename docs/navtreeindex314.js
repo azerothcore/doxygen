@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/dc3/classspell__dru__dash__aura.html":[6,0,2812],
 "dc/dc3/classspell__dru__dash__aura.html#a4090baaee0e4330d3776b5774c5c923a":[6,0,2812,1],
 "dc/dc3/classspell__dru__dash__aura.html#a4db48f3a549a04caf746a9459b1c5640":[6,0,2812,2],
 "dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e":[6,0,2812,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,12,1,10,0],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca2ddd0e9b6203b5b67bb56547e61d1006":[7,0,0,0,1,3,2,12,1,10,9],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6":[7,0,0,0,1,3,2,12,1,10,12],
-"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e8889002f3fbf20cb08421e739ab49d":[7,0,0,0,1,3,2,12,1,10,11],
-"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[7,0,0,0,1,3,2,12,1,10,15]
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e8889002f3fbf20cb08421e739ab49d":[7,0,0,0,1,3,2,12,1,10,11]
 };

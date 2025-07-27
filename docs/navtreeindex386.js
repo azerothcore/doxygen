@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,1,9,7,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1c0ae6a58d21e6e6480db8b35c19d58f":[7,0,0,0,1,3,7,1,9,7,1],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,1,9,7,0],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,7,1,9,7,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4132,3],
 "df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4132,4],
 "df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[6,0,4132,5],
-"df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4132,1],
-"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[6,0,4132,6]
+"df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4132,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[6,0,3453,3],
 "df/de2/classspell__brewfest__main__ram__buff.html":[6,0,2679],
 "df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[6,0,2679,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[6,0,2679,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/df1/structCell.html#ac7eebe2036bdbeaa342abf428c0dae6c":[6,0,838,8],
 "df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,838,4],
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,838,25],
-"df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18],
-"df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,838,22]
+"df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,838,18]
 };

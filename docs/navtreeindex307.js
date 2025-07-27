@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d54/classnpc__mageguard__dalaran.html#a0cec4f232b665325c421cecb5839885f":[6,0,1941,1],
 "dc/d54/classnpc__mageguard__dalaran.html#a10cbddceb53a2d432da2224128c59b28":[6,0,1941,2],
 "dc/d54/classspell__control__piece.html":[6,0,2717],
 "dc/d54/classspell__control__piece.html#aae5dc71af1a0fade2da9ee88875896a5":[6,0,2717,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[5,0,30,5,23],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[6,0,11,5,23,0],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[5,0,30,5,23,0],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[6,0,11,5,23,1],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[5,0,30,5,23,1]
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[6,0,11,5,23,1]
 };

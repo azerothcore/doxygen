@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[7,0,0,0,1,3,4,9,8,10,0],
 "dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[7,0,0,0,1,3,4,9,8,9],
 "dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[7,0,0,0,1,3,4,9,8,9,0],
 "dc/da8/boss__viscidus_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,4,9,8,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,4,1,0,1,9,4],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e":[7,0,0,0,1,3,4,1,0,1,8],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea49c2d8931d73c2b1606341de80521473":[7,0,0,0,1,3,4,1,0,1,8,1],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea69cf4a059a235fe0947981b3f63ce0e5":[7,0,0,0,1,3,4,1,0,1,8,3],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea79cdebc2f1cd492d80831a1538eec9e9":[7,0,0,0,1,3,4,1,0,1,8,4]
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea69cf4a059a235fe0947981b3f63ce0e5":[7,0,0,0,1,3,4,1,0,1,8,3]
 };

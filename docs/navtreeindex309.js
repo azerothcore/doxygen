@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a12416ffe731f96a1ca2949d995eb909c":[6,0,2231,0,3],
 "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a12b228a1edb9460ddcb2b8232bb8209e":[6,0,2231,0,4],
 "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a5235538b755dd83615d80a1f7d0ec1b9":[6,0,2231,0,1],
 "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html#a5b8e1c38257fc13c59bcaf8cb251fee2":[6,0,2231,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d89/classAsyncAcceptor.html#a91c22b6aba05bc493cfaf28a9203ce84":[6,0,205,4],
 "dc/d89/classAsyncAcceptor.html#a9820441474b6ced25625185cbbcda5bc":[6,0,205,6],
 "dc/d89/classAsyncAcceptor.html#adcdbdbb26b47f71e74aeccbc0d96a6c4":[6,0,205,1],
-"dc/d89/classAsyncAcceptor.html#ae2443c046b245262497e407c9a5b7b3f":[6,0,205,3],
-"dc/d89/classAsyncAcceptor.html#aef188268de7b2f7447a97aa73ac19ff3":[6,0,205,11]
+"dc/d89/classAsyncAcceptor.html#ae2443c046b245262497e407c9a5b7b3f":[6,0,205,3]
 };

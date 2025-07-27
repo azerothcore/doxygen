@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a43fa8bf8f22f0635261decd8b15ed6f5":[6,0,1882,0,1],
 "dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#acb187a58b0ba256b4e003655ac36db34":[6,0,1882,0,2],
 "dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#ae8fbc36a15324b210a24a0e98357adc3":[6,0,1882,0,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html":[6,0,2106,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[6,0,1790,0,4],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[6,0,1790,0,3],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a2c5729ee3371e562869878ff3a7b84bd":[6,0,1790,0,1],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a8575d258d63e28626cffd7fc2160bee6":[6,0,1790,0,5],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#ae763333503176eb7e8ce407868243958":[6,0,1790,0,2]
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a8575d258d63e28626cffd7fc2160bee6":[6,0,1790,0,5]
 };

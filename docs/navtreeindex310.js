@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/d89/classAsyncAcceptor.html#aef188268de7b2f7447a97aa73ac19ff3":[6,0,205,11],
 "dc/d89/classAsyncAcceptor.html#af3d5ae4979b29b4fc72e78fc9de34b8e":[6,0,205,8],
 "dc/d89/classnpc__gunship.html":[6,0,1818],
 "dc/d89/classnpc__gunship.html#a86b3ba622bd6e606cd21f7c7d8dddd1b":[6,0,1818,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2]
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4]
 };
