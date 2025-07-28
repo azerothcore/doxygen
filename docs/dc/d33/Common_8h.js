@@ -2,6 +2,7 @@ var Common_8h =
 [
     [ "Acore::unary_function< ArgumentType, ResultType >", "d8/dfc/structAcore_1_1unary__function.html", "d8/dfc/structAcore_1_1unary__function" ],
     [ "DEFAULT_LOCALE", "dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd", null ],
+    [ "MAX_ACCOUNT_FLAG", "dc/d33/Common_8h.html#a1ff1011aab9a1d06f6526efcd7c334e7", null ],
     [ "MAX_ACCOUNT_TUTORIAL_VALUES", "dc/d33/Common_8h.html#aeb4958d609f89151a2aed8c6e375ed40", null ],
     [ "MAX_LOCALES", "dc/d33/Common_8h.html#aa0ae9c82be025ecc48dd4a5f19b641be", null ],
     [ "MAX_NETCLIENT_PACKET_SIZE", "dc/d33/Common_8h.html#a7485324c284eb57b36d226c49ba3ecc6", null ],
@@ -39,8 +40,7 @@ var Common_8h =
       [ "ACCOUNT_FLAG_DEMOS", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a3fd13c14bede7c3a5bab9b1500f66610", null ],
       [ "ACCOUNT_FLAG_DEATH_KNIGHT_OK", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a849fab6972c96c3ec046deaccaadcd43", null ],
       [ "ACCOUNT_FLAG_S2_REQUIRE_IGR", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a5d94f5a606fe421bf27330659438a42b", null ],
-      [ "ACCOUNT_FLAG_S2_TRIAL", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a0a1b040c9bc59f59c3ab38e7668700b6", null ],
-      [ "ACCOUNT_FLAG_S2_RESTRICTED", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a18781a2907a8b736eb031f75ee710c7f", null ]
+      [ "ACCOUNT_FLAG_S2_TRIAL", "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a0a1b040c9bc59f59c3ab38e7668700b6", null ]
     ] ],
     [ "AccountTypes", "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7", [
       [ "SEC_PLAYER", "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0", null ],

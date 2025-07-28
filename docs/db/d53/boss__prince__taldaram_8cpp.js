@@ -10,17 +10,11 @@ var boss__prince__taldaram_8cpp =
       [ "ACTION_REMOVE_PRISON_AT_RESET", "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfa8fa0da219654d2d5e581fe241d5150dc", null ],
       [ "ACTION_SPHERE", "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfac042d64bdbb8eb52c03e686a845b265e", null ]
     ] ],
-    [ "Event", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3", [
-      [ "EVENT_PRINCE_FLAME_SPHERES", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3ac75217cdc9211ecb0d7b12a746992a02", null ],
-      [ "EVENT_PRINCE_VANISH", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a5f8f1abc7fd87278ac373b38b7ca5088", null ],
-      [ "EVENT_PRINCE_BLOODTHIRST", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3ad749b943e406b706c1bece2a9df28302", null ],
-      [ "EVENT_PRINCE_VANISH_RUN", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a97ada4373fc1406996f4f075d1b485f7", null ],
-      [ "EVENT_PRINCE_RESCHEDULE", "db/d53/boss__prince__taldaram_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a5dbad4adbe31b510c5d366e8653e88f3", null ]
-    ] ],
     [ "Misc", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "MAX_EMBRACE_DMG", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
-      [ "SUMMON_GROUP_TRIGGERS", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ]
+      [ "SUMMON_GROUP_TRIGGERS", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ]
     ] ],
     [ "Points", "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463e", [
       [ "POINT_LAND", "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f", null ],

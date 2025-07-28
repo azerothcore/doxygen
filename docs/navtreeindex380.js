@@ -1,8 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[6,0,3375,2],
-"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[6,0,3375,0],
-"df/d20/instance__blackwing__lair_8cpp.html":[7,0,0,0,1,3,2,1,2,9],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[7,0,0,0,1,3,2,1,2,9,5],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[7,0,0,0,1,3,2,1,2,9,5,0],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e":[7,0,0,0,1,3,2,1,2,9,5,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX380 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab4868b631f1cfaf30faee627f7c9dbf":[7,0,0,0,1,2,16,5,0,4,6,31],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab48a88902ec00e979f1adafa0176d8c":[7,0,0,0,1,2,16,5,0,4,6,269],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac0cc1812ae806f2e6a59d09c5531d1d":[7,0,0,0,1,2,16,5,0,4,6,292],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac106d3d2c3214466d98817e4d282d4d":[7,0,0,0,1,2,16,5,0,4,6,148]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac106d3d2c3214466d98817e4d282d4d":[7,0,0,0,1,2,16,5,0,4,6,148],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aacc16e0dae2a94d7f3f3a136bd421c02":[7,0,0,0,1,2,16,5,0,4,6,243],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aad27c730802e67c9e9cace991d64bdbb":[7,0,0,0,1,2,16,5,0,4,6,214],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aadb8466a0770ef91d4e31e50b1d5bf1e":[7,0,0,0,1,2,16,5,0,4,6,245]
 };

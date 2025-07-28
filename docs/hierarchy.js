@@ -1484,6 +1484,7 @@ var hierarchy =
     [ "AbominationDespawner", "d3/d81/classAbominationDespawner.html", null ],
     [ "Acore::AbsorbAuraOrderPred", "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html", null ],
     [ "AccountData", "da/dac/structAccountData.html", null ],
+    [ "AccountFlagText", "db/dda/structAccountFlagText.html", null ],
     [ "AccountInfo", "d0/ddf/structAccountInfo.html", null ],
     [ "Acore::Hyperlinks::LinkTags::achievement", "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html", null ],
     [ "AchievementCategoryEntry", "d8/d82/structAchievementCategoryEntry.html", null ],

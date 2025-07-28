@@ -489,6 +489,7 @@ var annotated_dup =
     [ "account_commandscript", "d5/dfc/classaccount__commandscript.html", "d5/dfc/classaccount__commandscript" ],
     [ "AccountActionIpLogger", "de/db3/classAccountActionIpLogger.html", "de/db3/classAccountActionIpLogger" ],
     [ "AccountData", "da/dac/structAccountData.html", "da/dac/structAccountData" ],
+    [ "AccountFlagText", "db/dda/structAccountFlagText.html", "db/dda/structAccountFlagText" ],
     [ "AccountInfo", "d0/ddf/structAccountInfo.html", "d0/ddf/structAccountInfo" ],
     [ "AccountInfoQueryHolderPerRealm", "d1/dcd/classAccountInfoQueryHolderPerRealm.html", "d1/dcd/classAccountInfoQueryHolderPerRealm" ],
     [ "AccountScript", "df/d30/classAccountScript.html", "df/d30/classAccountScript" ],
