@@ -1,8 +1,9 @@
 var NAVTREEINDEX39 =
 {
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3425,1],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#ae1c6062123fb62a48f542e43b34c7bcd":[6,0,3425,0],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#af7a5a98b5cf784d2de8b57a183c19142":[6,0,3425,2],
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3426,3],
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3426,1],
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#ae1c6062123fb62a48f542e43b34c7bcd":[6,0,3426,0],
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#af7a5a98b5cf784d2de8b57a183c19142":[6,0,3426,2],
 "d1/dac/structboss__lord__marrowgar.html":[6,0,595],
 "d1/dac/structboss__lord__marrowgar.html#a019816e930781889f39c561577eaecc0":[6,0,595,1],
 "d1/dac/structboss__lord__marrowgar.html#a0f3d27442ce651574ab66c2f94d27c88":[6,0,595,2],
@@ -19,10 +20,10 @@ var NAVTREEINDEX39 =
 "d1/dac/structboss__lord__marrowgar.html#ac59e0e13d5226fcdb4af08a1f9eff089":[6,0,595,5],
 "d1/dac/structboss__lord__marrowgar.html#acfe53ec83fa2056b37269608182fb25b":[6,0,595,6],
 "d1/dac/structboss__lord__marrowgar.html#adf886210abbd492f897b39145748f78a":[6,0,595,10],
-"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html":[6,0,3612],
-"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a4411e4317053450a0ac5217d546952b2":[6,0,3612,1],
-"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a86ec9b4606ae92b070edd4ca863fe93e":[6,0,3612,0],
-"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a9eea8631e0723555a9c328bdfc1e30b7":[6,0,3612,2],
+"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html":[6,0,3613],
+"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a4411e4317053450a0ac5217d546952b2":[6,0,3613,1],
+"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a86ec9b4606ae92b070edd4ca863fe93e":[6,0,3613,0],
+"d1/dad/classspell__q11010__q11102__q11023__choose__loc.html#a9eea8631e0723555a9c328bdfc1e30b7":[6,0,3613,2],
 "d1/dae/classdebug__commandscript.html":[6,0,960],
 "d1/dae/classdebug__commandscript.html#a0268526fe2a2c91e36311d08eb0469c8":[6,0,960,39],
 "d1/dae/classdebug__commandscript.html#a0404f4e0bb89ed1d22d92cfea1671db2":[6,0,960,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a3e8075fe0b9a2c88400951a56adc9bc7":[7,0,0,0,1,2,16,10,5,42,7],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a44706058a14300e6eecd11d66db8c1da":[7,0,0,0,1,2,16,10,5,42,3],
 "d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a484bae12abe1c864433abe4450a3ddba":[7,0,0,0,1,2,16,10,5,42,6],
-"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a9c5d76fbca1fce33b08a1655b9017272":[7,0,0,0,1,2,16,10,5,42,8],
-"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5ac796a4cfbee69fa86fc62baf8a4e0917":[7,0,0,0,1,2,16,10,5,42,0]
+"d1/daf/Unit_8h.html#aba4a9525e87c7e76c6c005bc3c3f53a5a9c5d76fbca1fce33b08a1655b9017272":[7,0,0,0,1,2,16,10,5,42,8]
 };

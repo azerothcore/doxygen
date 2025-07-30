@@ -8,5 +8,5 @@ var SpellMgr_8cpp =
     [ "IsDiminishingReturnsGroupDurationLimited", "dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
     [ "IsPartOfSkillLine", "dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b", null ],
     [ "IsPrimaryProfessionSkill", "dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "dc/dee/SpellMgr_8cpp.html#a1c2a3145d36ac321b7f1f11a01a235f5", null ]
+    [ "LoadPetDefaultSpells_helper", "dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1", null ]
 ];

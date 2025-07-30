@@ -6,6 +6,7 @@ var classMapUpdater =
     [ "activated", "d3/db8/classMapUpdater.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
     [ "deactivate", "d3/db8/classMapUpdater.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
     [ "schedule_lfg_update", "d3/db8/classMapUpdater.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
+    [ "schedule_map_preload", "d3/db8/classMapUpdater.html#a6caf6c7858d2f3ea6985605b64ea1242", null ],
     [ "schedule_task", "d3/db8/classMapUpdater.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
     [ "schedule_update", "d3/db8/classMapUpdater.html#aafda5775622dcce2e4869cf5d015fefc", null ],
     [ "update_finished", "d3/db8/classMapUpdater.html#ab874c53de215037c8fae77f9dac6601c", null ],

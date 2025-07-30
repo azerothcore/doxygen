@@ -340,19 +340,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  419</span>    {</div>
-<div class="line"><span class="lineno">  420</span>        <span class="comment">// do not set speed if not in cat form</span></div>
-<div class="line"><span class="lineno">  421</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetShapeshiftForm() != <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809">FORM_CAT</a>)</div>
-<div class="line"><span class="lineno">  422</span>        {</div>
-<div class="line"><span class="lineno">  423</span>            amount = 0;</div>
-<div class="line"><span class="lineno">  424</span>        }</div>
-<div class="line"><span class="lineno">  425</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  420</span>    {</div>
+<div class="line"><span class="lineno">  421</span>        <span class="comment">// do not set speed if not in cat form</span></div>
+<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetShapeshiftForm() != <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809">FORM_CAT</a>)</div>
+<div class="line"><span class="lineno">  423</span>        {</div>
+<div class="line"><span class="lineno">  424</span>            amount = 0;</div>
+<div class="line"><span class="lineno">  425</span>        }</div>
+<div class="line"><span class="lineno">  426</span>    }</div>
 <div class="ttc" id="aUnitDefines_8h_html_ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809">FORM_CAT</a></div><div class="ttdeci">@ FORM_CAT</div><div class="ttdef"><b>Definition</b> UnitDefines.h:70</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00070">FORM_CAT</a>, and <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00427">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00428">Register()</a>.</p>
 
 </div>
 </div>
@@ -406,16 +406,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  428</span>    {</div>
-<div class="line"><span class="lineno">  429</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e">spell_dru_dash_aura::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30e12137ab8f3aa72ef04ef6092ffb9b">SPELL_AURA_MOD_INCREASE_SPEED</a>);</div>
-<div class="line"><span class="lineno">  430</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  429</span>    {</div>
+<div class="line"><span class="lineno">  430</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e">spell_dru_dash_aura::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30e12137ab8f3aa72ef04ef6092ffb9b">SPELL_AURA_MOD_INCREASE_SPEED</a>);</div>
+<div class="line"><span class="lineno">  431</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a30e12137ab8f3aa72ef04ef6092ffb9b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a30e12137ab8f3aa72ef04ef6092ffb9b">SPELL_AURA_MOD_INCREASE_SPEED</a></div><div class="ttdeci">@ SPELL_AURA_MOD_INCREASE_SPEED</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:94</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:772</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
-<div class="ttc" id="aclassspell__dru__dash__aura_html_a8deb31d3b6244f4d8de6050c99b3192e"><div class="ttname"><a href="../../dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e">spell_dru_dash_aura::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:418</div></div>
+<div class="ttc" id="aclassspell__dru__dash__aura_html_a8deb31d3b6244f4d8de6050c99b3192e"><div class="ttname"><a href="../../dc/dc3/classspell__dru__dash__aura.html#a8deb31d3b6244f4d8de6050c99b3192e">spell_dru_dash_aura::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:419</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00418">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00094">SPELL_AURA_MOD_INCREASE_SPEED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00419">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00094">SPELL_AURA_MOD_INCREASE_SPEED</a>.</p>
 
 </div>
 </div>
@@ -428,7 +428,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/dc3/classspell__dru__dash__aura.html">spell_dru_dash_aura</a></li>
-    <li class="footer">Generated on Tue Jul 29 2025 06:27:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 30 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

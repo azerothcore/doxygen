@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61e900515aec51ba22cfdd63c1082fc7":[7,0,0,0,1,3,2,1,3,6,7,9],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a785a3b31c57721023e7c4c22191e24a0":[7,0,0,0,1,3,2,1,3,6,7,2],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7f12f8c75420a3eb590d9a5a5e07558e":[7,0,0,0,1,3,2,1,3,6,7,0],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa149845214279680b1cde7ab022b8033":[7,0,0,0,1,3,2,1,3,6,7,4],
@@ -71,13 +72,13 @@ var NAVTREEINDEX21 =
 "d0/df2/classnpc__vh__teleportation__portal.html#a9a554058f594f992a17dbb3887117a6f":[6,0,2265,1],
 "d0/df2/instance__wailing__caverns_8cpp.html":[7,0,0,0,1,3,4,10,0],
 "d0/df2/instance__wailing__caverns_8cpp.html#a67427453c8ec357648c276eaed523225":[7,0,0,0,1,3,4,10,0,2],
-"d0/df2/structSummonPropertiesEntry.html":[6,0,4115],
-"d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115":[6,0,4115,4],
-"d0/df2/structSummonPropertiesEntry.html#a4876df0f9a92e10634b7bc0b389ade00":[6,0,4115,1],
-"d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e":[6,0,4115,2],
-"d0/df2/structSummonPropertiesEntry.html#aa1cbad19aaa973e21fdbd74cec5119f6":[6,0,4115,5],
-"d0/df2/structSummonPropertiesEntry.html#acd933f251a1faa1f705420307136681d":[6,0,4115,0],
-"d0/df2/structSummonPropertiesEntry.html#ae0b89d5ae5f82b4f807a2f8dbbec351a":[6,0,4115,3],
+"d0/df2/structSummonPropertiesEntry.html":[6,0,4116],
+"d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115":[6,0,4116,4],
+"d0/df2/structSummonPropertiesEntry.html#a4876df0f9a92e10634b7bc0b389ade00":[6,0,4116,1],
+"d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e":[6,0,4116,2],
+"d0/df2/structSummonPropertiesEntry.html#aa1cbad19aaa973e21fdbd74cec5119f6":[6,0,4116,5],
+"d0/df2/structSummonPropertiesEntry.html#acd933f251a1faa1f705420307136681d":[6,0,4116,0],
+"d0/df2/structSummonPropertiesEntry.html#ae0b89d5ae5f82b4f807a2f8dbbec351a":[6,0,4116,3],
 "d0/df3/BattlegroundEY_8h.html":[7,0,0,0,1,2,8,1,9],
 "d0/df3/BattlegroundEY_8h.html#a0249cc17563cf762e09fd2bb8edfe050":[7,0,0,0,1,2,8,1,9,6],
 "d0/df3/BattlegroundEY_8h.html#a0249cc17563cf762e09fd2bb8edfe050a0b0cce464621636a1dc97261dd901ca5":[7,0,0,0,1,2,8,1,9,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/df3/BattlegroundEY_8h.html#ae37ded7cd06de0f3d2bcb5f541df7e84ad52fd2dd8e1ef854e9530fab92f1088b":[7,0,0,0,1,2,8,1,9,17,4],
 "d0/df3/BattlegroundEY_8h.html#ae37ded7cd06de0f3d2bcb5f541df7e84ad7594becf0547ce38e4fcd2f89afb3ce":[7,0,0,0,1,2,8,1,9,17,3],
 "d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4e":[7,0,0,0,1,2,8,1,9,18],
-"d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4ea5030a66c793e5cdc9348af7e0463e0ed":[7,0,0,0,1,2,8,1,9,18,0],
-"d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4eaa6910b3b490e6f975842867a43d0b7a8":[7,0,0,0,1,2,8,1,9,18,1]
+"d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4ea5030a66c793e5cdc9348af7e0463e0ed":[7,0,0,0,1,2,8,1,9,18,0]
 };

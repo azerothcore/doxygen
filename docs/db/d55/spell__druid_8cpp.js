@@ -36,6 +36,7 @@ var spell__druid_8cpp =
     [ "spell_dru_wild_growth", "d1/d1a/classspell__dru__wild__growth.html", "d1/d1a/classspell__dru__wild__growth" ],
     [ "spell_dru_berserk", "d1/d02/classspell__dru__berserk.html", "d1/d02/classspell__dru__berserk" ],
     [ "spell_dru_moonkin_form_passive_proc", "d6/d8d/classspell__dru__moonkin__form__passive__proc.html", "d6/d8d/classspell__dru__moonkin__form__passive__proc" ],
+    [ "spell_dru_rejuvenation_moonglade_2_set", "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html", "dd/df2/classspell__dru__rejuvenation__moonglade__2__set" ],
     [ "DruidIcons", "db/d55/spell__druid_8cpp.html#a2f101649b277b64d4fef3e463e8a78cf", [
       [ "SPELL_ICON_REVITALIZE", "db/d55/spell__druid_8cpp.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20", null ]
     ] ],
@@ -68,7 +69,8 @@ var spell__druid_8cpp =
       [ "SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3", null ],
       [ "SPELL_DRUID_ENRAGE", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89", null ],
       [ "SPELL_DRUID_ENRAGED_DEFENSE", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a", null ],
-      [ "SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea", null ]
+      [ "SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea", null ],
+      [ "SPELL_DRUID_MOONGLADE_2P_BONUS", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa7d9c0d298c99190246a2d0b430a0c542", null ]
     ] ],
     [ "AddSC_druid_spell_scripts", "db/d55/spell__druid_8cpp.html#a27c286499ee0c44de84c8f14e5c82d50", null ]
 ];

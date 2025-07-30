@@ -1,7 +1,6 @@
 var boss__amanitar_8cpp =
 [
     [ "boss_amanitar", "dc/d36/structboss__amanitar.html", "dc/d36/structboss__amanitar" ],
-    [ "npc_amanitar_mushrooms", "db/d8d/structnpc__amanitar__mushrooms.html", "db/d8d/structnpc__amanitar__mushrooms" ],
     [ "spell_amanitar_remove_mushroom_power", "d6/d23/classspell__amanitar__remove__mushroom__power.html", "d6/d23/classspell__amanitar__remove__mushroom__power" ],
     [ "Creatures", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_HEALTHY_MUSHROOM", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188", null ],
@@ -18,14 +17,7 @@ var boss__amanitar_8cpp =
       [ "SPELL_MINI", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b2c82ecf4d0a6c6ebdf5cc6a20cb93f", null ],
       [ "SPELL_VENOM_BOLT_VOLLEY", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2db10fb946533519d7010ed5ec527b71", null ],
       [ "SPELL_REMOVE_MUSHROOM_POWER", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9223156ca767b90509d90856d8990151", null ],
-      [ "SPELL_HEALTHY_MUSHROOM_POTENT_FUNGUS", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298cacfee1df99a268084a03b22bec413c6e6", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_POISON_CLOUD", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca991c0f90f376592d022da308adb16b2c", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AURA", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298cae53c042534f08c572487ad84acd05873", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AREA", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298caa35a4616c5286bb58af7df12a4f53704", null ],
-      [ "SPELL_HEALTHY_MUSHROOM_VISUAL_AURA", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca1483bf48a78dd7102f1a12ceeeec1844", null ],
-      [ "SPELL_PUTRID_MUSHROOM", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298cafc68134944ca511ff138e50e24055f2d", null ],
-      [ "SPELL_GROW", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298caec85cc617ef32ec7ad6edfa8a467f200", null ],
-      [ "SPELL_SHRINK", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca049e0d56c3f30d8991dde2beae302c4f", null ]
+      [ "SPELL_HEALTHY_MUSHROOM_POTENT_FUNGUS", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298cacfee1df99a268084a03b22bec413c6e6", null ]
     ] ],
     [ "AddSC_boss_amanitar", "dc/d28/boss__amanitar_8cpp.html#ac8caa6d77de55fe299b1ea3d11657dbb", null ],
     [ "MAX_MUSHROOMS_COUNT", "dc/d28/boss__amanitar_8cpp.html#a6285c9887291e4010f746609c561455c", null ],

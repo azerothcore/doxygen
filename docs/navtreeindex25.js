@@ -1,5 +1,6 @@
 var NAVTREEINDEX25 =
 {
+"d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708":[6,0,2582,246],
 "d1/d16/classSpell.html#a630cf490e573e7f6ec36cfe2e2e47272":[6,0,2582,326],
 "d1/d16/classSpell.html#a63232c6963a69e17139f0084a8167496":[6,0,2582,188],
 "d1/d16/classSpell.html#a646d78d67936422cff9ab9d36e9e2503":[6,0,2582,125],
@@ -248,6 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d16/structadt__liquid__instance.html#abb92a54ddecdd06c1031bafd41e642dc":[6,0,132,4],
 "d1/d16/structadt__liquid__instance.html#abfe19bd9c6d9d1d41433abe6fae3baea":[6,0,132,10],
 "d1/d16/structadt__liquid__instance.html#aecd2f6f40509d9b65f9f254e59298e8c":[6,0,132,2],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html":[6,0,742,0],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#a40078609a67aa029f71df7971449b056":[6,0,742,0,2]
+"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html":[6,0,742,0]
 };

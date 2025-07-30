@@ -128,6 +128,7 @@ var hierarchy =
         [ "spell_dru_owlkin_frenzy", "d6/d56/classspell__dru__owlkin__frenzy.html", null ],
         [ "spell_dru_predatory_strikes", "d5/dc4/classspell__dru__predatory__strikes.html", null ],
         [ "spell_dru_primal_tenacity", "d8/d88/classspell__dru__primal__tenacity.html", null ],
+        [ "spell_dru_rejuvenation_moonglade_2_set", "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html", null ],
         [ "spell_dru_rip", "d3/d77/classspell__dru__rip.html", null ],
         [ "spell_dru_savage_defense", "d7/d99/classspell__dru__savage__defense.html", null ],
         [ "spell_dru_savage_roar_aura", "d8/d4d/classspell__dru__savage__roar__aura.html", null ],
@@ -5304,7 +5305,6 @@ var hierarchy =
           [ "npc_alexstraza_the_lifebinder", "dd/dd7/structnpc__alexstraza__the__lifebinder.html", null ],
           [ "npc_amanishi_scout", "dc/d8c/structnpc__amanishi__scout.html", null ],
           [ "npc_amanishi_tempest", "d5/db3/structnpc__amanishi__tempest.html", null ],
-          [ "npc_amanitar_mushrooms", "db/d8d/structnpc__amanitar__mushrooms.html", null ],
           [ "npc_amberpine_woodsman::npc_amberpine_woodsmanAI", "db/d23/structnpc__amberpine__woodsman_1_1npc__amberpine__woodsmanAI.html", null ],
           [ "npc_anachronos_quest_trigger::npc_anachronos_quest_triggerAI", "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html", null ],
           [ "npc_anachronos_the_ancient::npc_anachronos_the_ancientAI", "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html", null ],
@@ -5903,6 +5903,7 @@ var hierarchy =
     [ "UpdateMask", "d0/dff/classUpdateMask.html", null ],
     [ "UpdateRequest", "de/da0/classUpdateRequest.html", [
       [ "LFGUpdateRequest", "d0/d76/classLFGUpdateRequest.html", null ],
+      [ "MapPreloadRequest", "d9/d08/classMapPreloadRequest.html", null ],
       [ "MapUpdateRequest", "d1/d24/classMapUpdateRequest.html", null ]
     ] ],
     [ "UpdateResult", "d0/d0e/structUpdateResult.html", null ],

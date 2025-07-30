@@ -339,12 +339,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  515</span>    {</div>
-<div class="line"><span class="lineno">  516</span>        std::list&lt;TargetInfo&gt;* targetsInfo = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">GetUniqueTargetInfo</a>();</div>
-<div class="line"><span class="lineno">  517</span>        <span class="keywordflow">for</span> (std::list&lt;TargetInfo&gt;::iterator ihit = targetsInfo-&gt;begin(); ihit != targetsInfo-&gt;end(); ++ihit)</div>
-<div class="line"><span class="lineno">  518</span>            <span class="keywordflow">if</span> (ihit-&gt;targetGUID == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
-<div class="line"><span class="lineno">  519</span>                ihit-&gt;crit = <a class="code hl_function" href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">GetFloatValue</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a11d4d82f5bbf094bcee03dfefdc7b27d">PLAYER_CRIT_PERCENTAGE</a>));</div>
-<div class="line"><span class="lineno">  520</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  518</span>    {</div>
+<div class="line"><span class="lineno">  519</span>        std::list&lt;TargetInfo&gt;* targetsInfo = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">GetUniqueTargetInfo</a>();</div>
+<div class="line"><span class="lineno">  520</span>        <span class="keywordflow">for</span> (std::list&lt;TargetInfo&gt;::iterator ihit = targetsInfo-&gt;begin(); ihit != targetsInfo-&gt;end(); ++ihit)</div>
+<div class="line"><span class="lineno">  521</span>            <span class="keywordflow">if</span> (ihit-&gt;targetGUID == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
+<div class="line"><span class="lineno">  522</span>                ihit-&gt;crit = <a class="code hl_function" href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">GetFloatValue</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a11d4d82f5bbf094bcee03dfefdc7b27d">PLAYER_CRIT_PERCENTAGE</a>));</div>
+<div class="line"><span class="lineno">  523</span>    }</div>
 <div class="ttc" id="aRandom_8h_html_a4b15099bc81731469c5078a778673c94"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a></div><div class="ttdeci">bool roll_chance_f(float chance)</div><div class="ttdef"><b>Definition</b> Random.h:57</div></div>
 <div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881a11d4d82f5bbf094bcee03dfefdc7b27d"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a11d4d82f5bbf094bcee03dfefdc7b27d">PLAYER_CRIT_PERCENTAGE</a></div><div class="ttdeci">@ PLAYER_CRIT_PERCENTAGE</div><div class="ttdef"><b>Definition</b> UpdateFields.h:351</div></div>
 <div class="ttc" id="aclassObject_html_a8797257c31223076c1b76b4b1a6f8007"><div class="ttname"><a href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">Object::GetFloatValue</a></div><div class="ttdeci">float GetFloatValue(uint16 index) const</div><div class="ttdef"><b>Definition</b> Object.cpp:317</div></div>
@@ -355,7 +355,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00317">Object::GetFloatValue()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00442">SpellScript::GetSpell()</a>, <a class="el" href="../../#l00591">Spell::GetUniqueTargetInfo()</a>, <a class="el" href="../../#l00351">PLAYER_CRIT_PERCENTAGE</a>, and <a class="el" href="../../#l00057">roll_chance_f()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00522">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00525">Register()</a>.</p>
 
 </div>
 </div>
@@ -383,14 +383,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  523</span>    {</div>
-<div class="line"><span class="lineno">  524</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514">spell_dk_rune_of_the_fallen_crusader::RecalculateDamage</a>);</div>
-<div class="line"><span class="lineno">  525</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  526</span>    {</div>
+<div class="line"><span class="lineno">  527</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514">spell_dk_rune_of_the_fallen_crusader::RecalculateDamage</a>);</div>
+<div class="line"><span class="lineno">  528</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
-<div class="ttc" id="aclassspell__dk__rune__of__the__fallen__crusader_html_ab6a781160532d7cbb3bb3304eb412514"><div class="ttname"><a href="../../db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514">spell_dk_rune_of_the_fallen_crusader::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:514</div></div>
+<div class="ttc" id="aclassspell__dk__rune__of__the__fallen__crusader_html_ab6a781160532d7cbb3bb3304eb412514"><div class="ttname"><a href="../../db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514">spell_dk_rune_of_the_fallen_crusader::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:517</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l00514">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l00517">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -403,7 +403,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/dbe/classspell__dk__rune__of__the__fallen__crusader.html">spell_dk_rune_of_the_fallen_crusader</a></li>
-    <li class="footer">Generated on Tue Jul 29 2025 06:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 30 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

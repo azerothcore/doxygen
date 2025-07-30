@@ -10,6 +10,8 @@ var ObjectDefines_8h =
     [ "DEFAULT_WORLD_OBJECT_SIZE", "df/d14/ObjectDefines_8h.html#a913c166f7a4cd692f382db2df507a059", null ],
     [ "INSPECT_DISTANCE", "df/d14/ObjectDefines_8h.html#a627bc4be23b34b8b8be439d4010f5669", null ],
     [ "INTERACTION_DISTANCE", "df/d14/ObjectDefines_8h.html#a54eb9ac4fb3942c956544c22e84743d4", null ],
+    [ "LEEWAY_BONUS_RANGE", "df/d14/ObjectDefines_8h.html#a1ac531f6495ceebb8104afc87ec62b39", null ],
+    [ "LEEWAY_MIN_MOVE_SPEED", "df/d14/ObjectDefines_8h.html#a826d5509d2b008fbc7dea309a92f4a2a", null ],
     [ "MAX_SEARCHER_DISTANCE", "df/d14/ObjectDefines_8h.html#a4e53fec710ac40ebac949ac16ed5376c", null ],
     [ "MAX_VISIBILITY_DISTANCE", "df/d14/ObjectDefines_8h.html#a195874db808f155d535260d5e4080059", null ],
     [ "MELEE_RANGE", "df/d14/ObjectDefines_8h.html#a96e2044bb0ae3b931a0f9f096e883595", null ],

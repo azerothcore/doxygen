@@ -42,7 +42,7 @@ var searchData=
   ['auraapplicationmap_39',['AuraApplicationMap',['../df/dd9/classUnit.html#a32f102f941cf4a53fe17e7f7e957150a',1,'Unit']]],
   ['auraapplicationmapbounds_40',['AuraApplicationMapBounds',['../df/dd9/classUnit.html#a61fb41b9dd83f23d22a18b410329339a',1,'Unit']]],
   ['auraapplicationmapboundsnonconst_41',['AuraApplicationMapBoundsNonConst',['../df/dd9/classUnit.html#a04a66c0ec19dafbd2c85574bc2e75100',1,'Unit']]],
-  ['auraeffectlist_42',['AuraEffectList',['../df/dd9/classUnit.html#adcdd87d0c137619dfc869536c1315dd7',1,'Unit']]],
+  ['auraeffectlist_42',['AuraEffectList',['../df/dd9/classUnit.html#a11a2ba8f1d241167acab52b186c3fe43',1,'Unit']]],
   ['auralist_43',['AuraList',['../df/dd9/classUnit.html#a2b5b1c6d16de917e5356d9f1708178b4',1,'Unit']]],
   ['auramap_44',['AuraMap',['../df/dd9/classUnit.html#a9bbf7c4cb9a7394b4ebe3088b8d71f37',1,'Unit']]],
   ['auramapbounds_45',['AuraMapBounds',['../df/dd9/classUnit.html#a58b520d84538402110299024c363df4a',1,'Unit']]],

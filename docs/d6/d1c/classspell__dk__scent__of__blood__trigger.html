@@ -324,9 +324,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  727</span>    {</div>
-<div class="line"><span class="lineno">  728</span>        <span class="keywordflow">return</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a0129f2b5cfdebb9f3618331e297a0db1">GetHitMask</a>() &amp; (<a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a">PROC_EX_DODGE</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466">PROC_EX_PARRY</a>)) || (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
-<div class="line"><span class="lineno">  729</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  730</span>    {</div>
+<div class="line"><span class="lineno">  731</span>        <span class="keywordflow">return</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a0129f2b5cfdebb9f3618331e297a0db1">GetHitMask</a>() &amp; (<a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a">PROC_EX_DODGE</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466">PROC_EX_PARRY</a>)) || (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
+<div class="line"><span class="lineno">  732</span>    }</div>
 <div class="ttc" id="aSpellMgr_8h_html_ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a">PROC_EX_DODGE</a></div><div class="ttdeci">@ PROC_EX_DODGE</div><div class="ttdef"><b>Definition</b> SpellMgr.h:198</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466">PROC_EX_PARRY</a></div><div class="ttdeci">@ PROC_EX_PARRY</div><div class="ttdef"><b>Definition</b> SpellMgr.h:199</div></div>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:365</div></div>
@@ -335,7 +335,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00365">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00450">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00446">ProcEventInfo::GetHitMask()</a>, <a class="el" href="../../#l00198">PROC_EX_DODGE</a>, and <a class="el" href="../../#l00199">PROC_EX_PARRY</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00731">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00734">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,14 +389,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  732</span>    {</div>
-<div class="line"><span class="lineno">  733</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d">spell_dk_scent_of_blood_trigger::CheckProc</a>);</div>
-<div class="line"><span class="lineno">  734</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  735</span>    {</div>
+<div class="line"><span class="lineno">  736</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d">spell_dk_scent_of_blood_trigger::CheckProc</a>);</div>
+<div class="line"><span class="lineno">  737</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:818</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:817</div></div>
-<div class="ttc" id="aclassspell__dk__scent__of__blood__trigger_html_ace3662e092d02de975929741c470230d"><div class="ttname"><a href="../../d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d">spell_dk_scent_of_blood_trigger::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:726</div></div>
+<div class="ttc" id="aclassspell__dk__scent__of__blood__trigger_html_ace3662e092d02de975929741c470230d"><div class="ttname"><a href="../../d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d">spell_dk_scent_of_blood_trigger::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:729</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00726">CheckProc()</a>, and <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00729">CheckProc()</a>, and <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -409,7 +409,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d1c/classspell__dk__scent__of__blood__trigger.html">spell_dk_scent_of_blood_trigger</a></li>
-    <li class="footer">Generated on Tue Jul 29 2025 06:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 30 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

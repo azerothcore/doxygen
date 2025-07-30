@@ -332,17 +332,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1068</span>    {</div>
-<div class="line"><span class="lineno"> 1069</span>        <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">GetOwner</a>();</div>
-<div class="line"><span class="lineno"> 1070</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a>;</div>
-<div class="line"><span class="lineno"> 1071</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1071</span>    {</div>
+<div class="line"><span class="lineno"> 1072</span>        <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">GetOwner</a>();</div>
+<div class="line"><span class="lineno"> 1073</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a>;</div>
+<div class="line"><span class="lineno"> 1074</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
-<div class="ttc" id="aclassUnit_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10643</div></div>
-<div class="ttc" id="aclassspell__dk__blood__gorged_html_a0c3ba33c7117195dac4c1df3a6e8529a"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">spell_dk_blood_gorged::_procTarget</a></div><div class="ttdeci">Unit * _procTarget</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1095</div></div>
+<div class="ttc" id="aclassUnit_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10686</div></div>
+<div class="ttc" id="aclassspell__dk__blood__gorged_html_a0c3ba33c7117195dac4c1df3a6e8529a"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">spell_dk_blood_gorged::_procTarget</a></div><div class="ttdeci">Unit * _procTarget</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1098</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01095">_procTarget</a>, <a class="el" href="../../#l10643">Unit::GetOwner()</a>, and <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01098">_procTarget</a>, <a class="el" href="../../#l10686">Unit::GetOwner()</a>, and <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01088">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01091">Register()</a>.</p>
 
 </div>
 </div>
@@ -379,31 +379,31 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1074</span>    {</div>
-<div class="line"><span class="lineno"> 1075</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 1076</span> </div>
-<div class="line"><span class="lineno"> 1077</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
-<div class="line"><span class="lineno"> 1078</span> </div>
-<div class="line"><span class="lineno"> 1079</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
-<div class="line"><span class="lineno"> 1080</span>        {</div>
-<div class="line"><span class="lineno"> 1081</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1082</span>        }</div>
-<div class="line"><span class="lineno"> 1083</span> </div>
-<div class="line"><span class="lineno"> 1084</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bp = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() * 1.5f);</div>
-<div class="line"><span class="lineno"> 1085</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef">SPELL_DK_BLOOD_GORGED_HEAL</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, bp, <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 1086</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1077</span>    {</div>
+<div class="line"><span class="lineno"> 1078</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 1079</span> </div>
+<div class="line"><span class="lineno"> 1080</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
+<div class="line"><span class="lineno"> 1081</span> </div>
+<div class="line"><span class="lineno"> 1082</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
+<div class="line"><span class="lineno"> 1083</span>        {</div>
+<div class="line"><span class="lineno"> 1084</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1085</span>        }</div>
+<div class="line"><span class="lineno"> 1086</span> </div>
+<div class="line"><span class="lineno"> 1087</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> bp = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() * 1.5f);</div>
+<div class="line"><span class="lineno"> 1088</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef">SPELL_DK_BLOOD_GORGED_HEAL</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, bp, <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 1089</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition</b> SpellDefines.h:113</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassDamageInfo_html"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html">DamageInfo</a></div><div class="ttdef"><b>Definition</b> Unit.h:331</div></div>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:365</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:450</div></div>
-<div class="ttc" id="aclassUnit_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1237</div></div>
+<div class="ttc" id="aclassUnit_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1250</div></div>
 <div class="ttc" id="aspell__dk_8cpp_html_a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef"><div class="ttname"><a href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef">SPELL_DK_BLOOD_GORGED_HEAL</a></div><div class="ttdeci">@ SPELL_DK_BLOOD_GORGED_HEAL</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01095">_procTarget</a>, <a class="el" href="../../#l01237">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00365">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00450">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00047">SPELL_DK_BLOOD_GORGED_HEAL</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01098">_procTarget</a>, <a class="el" href="../../#l01250">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00365">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00450">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00047">SPELL_DK_BLOOD_GORGED_HEAL</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01088">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01091">Register()</a>.</p>
 
 </div>
 </div>
@@ -431,12 +431,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1062</span>    {</div>
-<div class="line"><span class="lineno"> 1063</span>        <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1064</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1065</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1065</span>    {</div>
+<div class="line"><span class="lineno"> 1066</span>        <a class="code hl_variable" href="../../dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a">_procTarget</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1067</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1068</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01095">_procTarget</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01098">_procTarget</a>.</p>
 
 </div>
 </div>
@@ -490,20 +490,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1089</span>    {</div>
-<div class="line"><span class="lineno"> 1090</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../dd/d0f/classspell__dk__blood__gorged.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02">spell_dk_blood_gorged::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1091</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d0f/classspell__dk__blood__gorged.html#ac90b54e946baa80589cab2f66aca1f5f">spell_dk_blood_gorged::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1092</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1092</span>    {</div>
+<div class="line"><span class="lineno"> 1093</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../dd/d0f/classspell__dk__blood__gorged.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02">spell_dk_blood_gorged::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1094</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d0f/classspell__dk__blood__gorged.html#ac90b54e946baa80589cab2f66aca1f5f">spell_dk_blood_gorged::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1095</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:818</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:817</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__dk__blood__gorged_html_a7bab1f02db05ce2c7b52ad9a2f5f6f02"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02">spell_dk_blood_gorged::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1067</div></div>
-<div class="ttc" id="aclassspell__dk__blood__gorged_html_ac90b54e946baa80589cab2f66aca1f5f"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#ac90b54e946baa80589cab2f66aca1f5f">spell_dk_blood_gorged::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1073</div></div>
+<div class="ttc" id="aclassspell__dk__blood__gorged_html_a7bab1f02db05ce2c7b52ad9a2f5f6f02"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02">spell_dk_blood_gorged::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1070</div></div>
+<div class="ttc" id="aclassspell__dk__blood__gorged_html_ac90b54e946baa80589cab2f66aca1f5f"><div class="ttname"><a href="../../dd/d0f/classspell__dk__blood__gorged.html#ac90b54e946baa80589cab2f66aca1f5f">spell_dk_blood_gorged::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:1076</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l01067">CheckProc()</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01073">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l01070">CheckProc()</a>, <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01076">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -532,9 +532,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1057</span>    {</div>
-<div class="line"><span class="lineno"> 1058</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef">SPELL_DK_BLOOD_GORGED_HEAL</a> });</div>
-<div class="line"><span class="lineno"> 1059</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1060</span>    {</div>
+<div class="line"><span class="lineno"> 1061</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef">SPELL_DK_BLOOD_GORGED_HEAL</a> });</div>
+<div class="line"><span class="lineno"> 1062</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00047">SPELL_DK_BLOOD_GORGED_HEAL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -562,7 +562,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01067">CheckProc()</a>, <a class="el" href="../../#l01073">HandleProc()</a>, and <a class="el" href="../../#l01061">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01070">CheckProc()</a>, <a class="el" href="../../#l01076">HandleProc()</a>, and <a class="el" href="../../#l01064">Load()</a>.</p>
 
 </div>
 </div>
@@ -575,7 +575,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d0f/classspell__dk__blood__gorged.html">spell_dk_blood_gorged</a></li>
-    <li class="footer">Generated on Tue Jul 29 2025 06:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 30 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/dd3/UpdateFieldFlags_8h.html#aefe3be44e608ab4935e11ea44f8e0ce6":[7,0,0,0,1,2,16,5,0,3,2],
-"d8/dd4/structnpc__necropolis.html":[6,0,1978],
 "d8/dd4/structnpc__necropolis.html#a6535d6dbdc5a6b3c715ca9ec470fb258":[6,0,1978,0],
 "d8/dd4/structnpc__necropolis.html#ae068da7f6b1de5d06568b672d9f46f18":[6,0,1978,1],
 "d8/dd5/LootHandler_8cpp.html":[7,0,0,0,1,2,22,17],
@@ -146,13 +144,13 @@ var NAVTREEINDEX224 =
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a793d72078bd68b34fcdb7cd6587295dd":[6,0,2092,0,4],
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a7f012a54ebce5307940eb7957f028d52":[6,0,2092,0,2],
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a8436a87576c92ecc0b45106683d20e93":[6,0,2092,0,0],
-"d8/dd7/classMarkOfNatureTargetSelector.html":[6,0,1491],
-"d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[6,0,1491,1],
-"d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1491,0],
-"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2917],
-"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2917,0],
-"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2917,2],
-"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2917,1],
+"d8/dd7/classMarkOfNatureTargetSelector.html":[6,0,1492],
+"d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[6,0,1492,1],
+"d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1492,0],
+"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2918],
+"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2918,0],
+"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2918,2],
+"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2918,1],
 "d8/dd8/ObjectMgr_8cpp.html":[7,0,0,0,1,2,18,2],
 "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,2,15],
 "d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[7,0,0,0,1,2,18,2,8],
@@ -249,5 +247,7 @@ var NAVTREEINDEX224 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47abef0a318317e03a14149b773227fc508":[7,0,0,0,1,3,5,24,23,0],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47ac28c20e9aeb0c7b886b683ef5132e046":[7,0,0,0,1,3,5,24,23,16],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47ae3638f156e628effc8df7d3266225d31":[7,0,0,0,1,3,5,24,23,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,5,24,20]
+"d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,5,24,20],
+"d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea340e5a35a1388859d8464f669f3690a8":[7,0,0,0,1,3,5,24,20,0],
+"d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea7619d743dc30a4fc6ae14328af5d8f4a":[7,0,0,0,1,3,5,24,20,2]
 };

@@ -324,11 +324,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  562</span>    {</div>
-<div class="line"><span class="lineno">  563</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  564</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() &gt; 0 &amp;&amp; (!eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>() || eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a642e1537c76965d64f443c2891eb3d4b">Dispel</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1ab405d3980e9d710dba5ba362c277cef4">DISPEL_DISEASE</a>))</div>
-<div class="line"><span class="lineno">  565</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(0);</div>
-<div class="line"><span class="lineno">  566</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  565</span>    {</div>
+<div class="line"><span class="lineno">  566</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  567</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>()-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() &gt; 0 &amp;&amp; (!eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>() || eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a642e1537c76965d64f443c2891eb3d4b">Dispel</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1ab405d3980e9d710dba5ba362c277cef4">DISPEL_DISEASE</a>))</div>
+<div class="line"><span class="lineno">  568</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(0);</div>
+<div class="line"><span class="lineno">  569</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ada2b5e66b650d7a63f70c06a746070d1ab405d3980e9d710dba5ba362c277cef4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1ab405d3980e9d710dba5ba362c277cef4">DISPEL_DISEASE</a></div><div class="ttdeci">@ DISPEL_DISEASE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1375</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassAuraScript_html_a7087cacdb741a109d53fb82c06ff1cef"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">AuraScript::SetDuration</a></div><div class="ttdeci">void SetDuration(int32 duration, bool withMods=false)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1060</div></div>
@@ -339,7 +339,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00322">SpellInfo::Dispel</a>, <a class="el" href="../../#l01375">DISPEL_DISEASE</a>, <a class="el" href="../../#l00365">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00450">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00185">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l01060">AuraScript::SetDuration()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00568">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00571">Register()</a>.</p>
 
 </div>
 </div>
@@ -393,14 +393,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  569</span>    {</div>
-<div class="line"><span class="lineno">  570</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e">spell_dk_hungering_cold::HandleProc</a>);</div>
-<div class="line"><span class="lineno">  571</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  572</span>    {</div>
+<div class="line"><span class="lineno">  573</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e">spell_dk_hungering_cold::HandleProc</a>);</div>
+<div class="line"><span class="lineno">  574</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:837</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:832</div></div>
-<div class="ttc" id="aclassspell__dk__hungering__cold_html_a8fb0e7e5e50fcb201e8e55ee9621034e"><div class="ttname"><a href="../../d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e">spell_dk_hungering_cold::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:561</div></div>
+<div class="ttc" id="aclassspell__dk__hungering__cold_html_a8fb0e7e5e50fcb201e8e55ee9621034e"><div class="ttname"><a href="../../d2/d7b/classspell__dk__hungering__cold.html#a8fb0e7e5e50fcb201e8e55ee9621034e">spell_dk_hungering_cold::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:564</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00837">AuraProcFn</a>, <a class="el" href="../../#l00561">HandleProc()</a>, and <a class="el" href="../../#l00832">AuraScript::OnProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00837">AuraProcFn</a>, <a class="el" href="../../#l00564">HandleProc()</a>, and <a class="el" href="../../#l00832">AuraScript::OnProc</a>.</p>
 
 </div>
 </div>
@@ -413,7 +413,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d7b/classspell__dk__hungering__cold.html">spell_dk_hungering_cold</a></li>
-    <li class="footer">Generated on Tue Jul 29 2025 06:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 30 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

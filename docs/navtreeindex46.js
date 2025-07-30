@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/ddf/structFinder.html#a22ed3a876495c05e8db99b7cd752d898":[6,0,1038,0],
 "d1/ddf/structFinder.html#a89d852a64429ad8ad78872ad32173a14":[6,0,1038,3],
 "d1/ddf/structFinder.html#a8f8d606fdd53a2af6d20cf30d1660686":[6,0,1038,2],
 "d1/de0/WeatherMgr_8cpp.html":[4,2,2],
@@ -28,14 +29,14 @@ var NAVTREEINDEX46 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[6,0,1450,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[6,0,1450,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[6,0,1450,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,11,5,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,30,5,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,11,5,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,30,5,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,11,5,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,30,5,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,11,5,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,30,5,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,11,5,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,30,5,26,1],
 "d1/de0/classnpc__stable__master.html":[6,0,2133],
 "d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[6,0,2133,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[6,0,2133,1],
@@ -63,10 +64,10 @@ var NAVTREEINDEX46 =
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cae759958cda5fba0a9771859e71a447a5":[7,0,0,0,1,3,7,5,3,3,4,9],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caef3e4861ce90f1b77eab500dddb31880":[7,0,0,0,1,3,7,5,3,3,4,8],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[7,0,0,0,1,3,7,5,3,3,4,3],
-"d1/de2/classspell__magtheridon__blaze.html":[6,0,3409],
-"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[6,0,3409,1],
-"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[6,0,3409,2],
-"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[6,0,3409,0],
+"d1/de2/classspell__magtheridon__blaze.html":[6,0,3410],
+"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[6,0,3410,1],
+"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[6,0,3410,2],
+"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[6,0,3410,0],
 "d1/de2/structSelectableAI.html":[6,0,2529],
 "d1/de2/structSelectableAI.html#af34ed4ae0c831a3dd41585704488528f":[6,0,2529,0],
 "d1/de2/structboss__razorscale_1_1boss__razorscaleAI.html":[6,0,668,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181a77e5136a326ac7c59e3ba8cc0ede9b35":[7,0,0,0,1,3,9,2,185,2],
 "d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181af899f65d80cb3286ddf41e27504230fd":[7,0,0,0,1,3,9,2,185,1],
 "d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181afd2a4f8f068e9ce48924b51ec1f4d2a6":[7,0,0,0,1,3,9,2,185,0],
-"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5d":[7,0,0,0,1,3,9,2,164],
-"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5daa132777a84f945951c8f51520238810d":[7,0,0,0,1,3,9,2,164,0]
+"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5d":[7,0,0,0,1,3,9,2,164]
 };
