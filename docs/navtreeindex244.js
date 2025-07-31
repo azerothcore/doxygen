@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/dee/classspell__aura__of__despair__aura.html#a7b4f44d86df652df78a10466bf64a2cf":[6,0,2620,3],
 "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html":[6,0,1878,0],
 "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#a1396538a446545408e3c304f3e56400f":[6,0,1878,0,4],
 "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html#a4d581f89c8385276fd407c000af9e569":[6,0,1878,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/classDBCFileLoader_1_1Record.html#a146dc23a5f24a0d8a1a34f29375b9bcd":[6,0,952,0,6],
 "d9/df7/classDBCFileLoader_1_1Record.html#a1647694079553a20a7c6621aa6d4ecf6":[6,0,952,0,1],
 "d9/df7/classDBCFileLoader_1_1Record.html#a3303a6b7ba364777e368158052dbe1db":[6,0,952,0,0],
-"d9/df7/classDBCFileLoader_1_1Record.html#a6f22775adc36b8955009f3f0bd51f355":[6,0,952,0,3],
-"d9/df7/classDBCFileLoader_1_1Record.html#a833c7017749b6b3109ebdee2ff0d3517":[6,0,952,0,2]
+"d9/df7/classDBCFileLoader_1_1Record.html#a6f22775adc36b8955009f3f0bd51f355":[6,0,952,0,3]
 };

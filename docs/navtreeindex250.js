@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"da/d25/structnpc__obsidian__destroyer.html#adc54ac02383f5e5bf6af980f5ba301e8":[6,0,1990,1],
 "da/d26/TotemAI_8cpp.html":[7,0,0,0,1,2,3,0,12],
 "da/d26/structProcTriggeredData.html":[6,0,2443],
 "da/d26/structProcTriggeredData.html#a1c2bfb3e0016ba823e12b3defe373790":[6,0,2443,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a92d89cbc45113015bd5256590e466e80":[7,0,0,0,1,2,41,0,0,6,73],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a9357fb759d2046a3ff76aab126823c7b":[7,0,0,0,1,2,41,0,0,6,77],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a942eee6d0494cbba325b8c370c756ba1":[7,0,0,0,1,2,41,0,0,6,185],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a95180a948bcd5966b1b0413077aba0a0":[7,0,0,0,1,2,41,0,0,6,90],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a959f6e6fd4f2d0e16e73c43fba15277a":[7,0,0,0,1,2,41,0,0,6,205]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a95180a948bcd5966b1b0413077aba0a0":[7,0,0,0,1,2,41,0,0,6,90]
 };

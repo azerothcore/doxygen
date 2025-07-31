@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72d":[7,0,0,0,1,3,5,9,0,3,8],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0":[7,0,0,0,1,3,5,9,0,3,8,5],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48":[7,0,0,0,1,3,5,9,0,3,8,1],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802":[7,0,0,0,1,3,5,9,0,3,8,0],
@@ -82,8 +83,8 @@ var NAVTREEINDEX242 =
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,1,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dd0/classspell__sha__bloodlust.html":[6,0,3761],
 "d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[6,0,3761,3],
 "d9/dd0/classspell__sha__bloodlust.html#aa37525d089348f58e3d871830caa3417":[6,0,3761,1],
-"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3761,0],
-"d9/dd0/classspell__sha__bloodlust.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9":[6,0,3761,2]
+"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3761,0]
 };

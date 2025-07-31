@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d8/d38/classspell__sapphiron__frost__explosion.html#a883e383928a9b0ad0aeccf7afee4f15e":[6,0,3742,2],
 "d8/d38/structadt__MFBO_1_1plane.html":[6,0,137,0],
 "d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,137,0,0],
 "d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,3913],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d8/d4b/classObject.html#ade938856f818c4a7e722b2c4509655c2":[6,0,2316,119],
 "d8/d4b/classObject.html#ae1019ecea5f6682ad417080e12ec9008":[6,0,2316,47],
 "d8/d4b/classObject.html#ae4c76bc345c6067c152aaf0fb9f91957":[6,0,2316,57],
-"d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67":[6,0,2316,36],
-"d8/d4b/classObject.html#ae6d7d519332f6d82f25286070ed351b1":[6,0,2316,101]
+"d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67":[6,0,2316,36]
 };

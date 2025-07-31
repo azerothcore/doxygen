@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad75c10b32acd0fb75783ba32fe07697e":[7,0,0,0,1,3,7,4,2,0,11,8],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,4,2,0,11,5],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[7,0,0,0,1,3,7,4,2,0,11,3],
 "dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,7,4,2,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[6,0,1798,0,3],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[6,0,1798,0,7],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[6,0,1570,0],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[6,0,1570,0,3],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a062eb272826d52ffd9b72054f970b761":[6,0,1570,0,0]
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[6,0,1570,0,3]
 };

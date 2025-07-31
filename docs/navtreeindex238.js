@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
 "d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,3,36],
 "d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[7,0,0,0,1,2,24,3,35],
 "d9/d84/LootMgr_8h.html#a8c148c99c4a202233809e690e3759993":[7,0,0,0,1,2,24,3,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d8f/dire__maul_8h.html#ab31c22d489d9ffd55cd90501db1fa98a":[7,0,0,0,1,3,4,2,1,6],
 "d9/d8f/dire__maul_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,4,2,1,2],
 "d9/d8f/dire__maul_8h.html#afb6eb4f28419b652027fad41104a6d22a1c70fe6153b6ea9272c18d373e8f109d":[7,0,0,0,1,3,4,2,1,2,2],
-"d9/d8f/dire__maul_8h.html#afb6eb4f28419b652027fad41104a6d22a269dd69844f7305f5f8dbb770730cefb":[7,0,0,0,1,3,4,2,1,2,6],
-"d9/d8f/dire__maul_8h.html#afb6eb4f28419b652027fad41104a6d22a3374a9e350aebcae3f5b6914e65a6e40":[7,0,0,0,1,3,4,2,1,2,3]
+"d9/d8f/dire__maul_8h.html#afb6eb4f28419b652027fad41104a6d22a269dd69844f7305f5f8dbb770730cefb":[7,0,0,0,1,3,4,2,1,2,6]
 };

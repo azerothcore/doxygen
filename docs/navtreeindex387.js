@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[6,0,2175,0,3],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a994a9030e2d8c5afaa66c21897e54f82":[6,0,2175,0,2],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[6,0,2175,0,6],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2175,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1242bda27cc3b925c6b9f90e4d7b5570":[7,0,0,0,1,3,5,9,2,4,40,24],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612":[7,0,0,0,1,3,5,9,2,4,40,1],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2600bfa81747443eee71fb0f0626b9a9":[7,0,0,0,1,3,5,9,2,4,40,9],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89":[7,0,0,0,1,3,5,9,2,4,40,0],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a31f296b7dc55c430e7e5ed7d05f8f9da":[7,0,0,0,1,3,5,9,2,4,40,20]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89":[7,0,0,0,1,3,5,9,2,4,40,0]
 };

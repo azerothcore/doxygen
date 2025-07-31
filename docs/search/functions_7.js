@@ -466,7 +466,7 @@ var searchData=
   ['getcorpsedelay_463',['GetCorpseDelay',['../db/dd5/classCreature.html#ab3f28ac02133420e537305b38948388a',1,'Creature']]],
   ['getcorpselocation_464',['GetCorpseLocation',['../d2/d4b/classPlayer.html#a8781749b991fca6a265f2f8cb2ef417d',1,'Player']]],
   ['getcorpsereclaimdelay_465',['GetCorpseReclaimDelay',['../d2/d4b/classPlayer.html#aab3926a768080958e06bfbc1b0225977',1,'Player']]],
-  ['getcorpsesincell_466',['GetCorpsesInCell',['../d7/db0/classMap.html#a147dcd51c348f0835dcd5cb5f2b11302',1,'Map']]],
+  ['getcorpsesingrid_466',['GetCorpsesInGrid',['../d7/db0/classMap.html#a0e0cb4d0933e9a30a7d0acbf67cb3df0',1,'Map']]],
   ['getcorpsetarget_467',['GetCorpseTarget',['../d4/d3a/classSpellCastTargets.html#a45733946a66145931de6b6bcacdf6c16',1,'SpellCastTargets']]],
   ['getcorpsetargetguid_468',['GetCorpseTargetGUID',['../d4/d3a/classSpellCastTargets.html#a90c80e4f09facac8e4b3a5a79bc2296d',1,'SpellCastTargets']]],
   ['getcorrectedmysqlexecutable_469',['GetCorrectedMySQLExecutable',['../d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9',1,'DBUpdaterUtil']]],

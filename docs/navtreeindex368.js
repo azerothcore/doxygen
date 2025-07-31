@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html":[6,0,2840],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a2d72f5771d6563260a6e81122e4a2be5":[6,0,2840,3],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a4e98fbf669c030263ed2e5759a5bd6e8":[6,0,2840,2],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a812e4e461c0ebed6f7c4cc36e88a3367":[6,0,2840,1],
@@ -47,8 +48,8 @@ var NAVTREEINDEX368 =
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,0,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,0,4],
-"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,0,2],
+"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,0,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,0,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a65dc0aae25bf5551ca7b92ad4c829afc":[7,0,0,0,1,1,0,0,1,1,377],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2":[7,0,0,0,1,1,0,0,1,1,134],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa":[7,0,0,0,1,1,0,0,1,1,114],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a69d30ae3c21b711e2035d179ae700958":[7,0,0,0,1,1,0,0,1,1,374],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6a9cc50d77e84a029a93f4c16482e0aa":[7,0,0,0,1,1,0,0,1,1,438]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a69d30ae3c21b711e2035d179ae700958":[7,0,0,0,1,1,0,0,1,1,374]
 };

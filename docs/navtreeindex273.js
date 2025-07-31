@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9":[7,0,0,0,1,2,31,7,6],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc":[7,0,0,0,1,2,31,7,6,14],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b":[7,0,0,0,1,2,31,7,6,3],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c":[7,0,0,0,1,2,31,7,6,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[6,0,3793,0],
 "db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[6,0,3793,2],
 "db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3793,3],
-"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3793,1],
-"db/d1b/structboss__kazrogal.html":[6,0,564]
+"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3793,1]
 };

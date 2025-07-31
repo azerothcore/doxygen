@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d9e/classSmartAIMgr.html#aa0415cf9d0fbff47974243ec9dc02a5f":[6,0,2564,10],
 "da/d9e/classSmartAIMgr.html#aa81e548346b1192c7db1d5ebf8a91ce3":[6,0,2564,9],
 "da/d9e/classSmartAIMgr.html#ab17b5915ed93c9238e1db244af053313":[6,0,2564,22],
 "da/d9e/classSmartAIMgr.html#abfe39315c88150e426ce1e421a739a14":[6,0,2564,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a490991c939197eb08d5889b53ef448be":[7,0,0,0,1,3,7,13,42,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a899ef19a4cdbde17f4b142ab87f22a2c":[7,0,0,0,1,3,7,13,42,0],
 "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981ad8a8f951d8f106aa11eed28742d7a6c8":[7,0,0,0,1,3,7,13,42,5],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981ade42ab46d5d7f906d8fb7bd16cdcc241":[7,0,0,0,1,3,7,13,42,4],
-"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981afbefec58dbc4796010d20c4461668228":[7,0,0,0,1,3,7,13,42,1]
+"da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981ade42ab46d5d7f906d8fb7bd16cdcc241":[7,0,0,0,1,3,7,13,42,4]
 };

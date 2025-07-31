@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,1,9,7,4],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,9,6],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca076daa7ca407e32a85aaf56d1f22100a":[7,0,0,0,1,3,7,1,9,6,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dc7878b2fbd4648a8a46443f095bfd4":[7,0,0,0,1,3,7,1,9,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d76/UpdateFetcher_8h.html":[7,0,0,0,1,1,3,3],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html":[6,0,2175,0],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[6,0,2175,0,1],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a537ed9f2d0a638d01e877d9ca1e7fdf0":[6,0,2175,0,4],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[6,0,2175,0,3]
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a537ed9f2d0a638d01e877d9ca1e7fdf0":[6,0,2175,0,4]
 };

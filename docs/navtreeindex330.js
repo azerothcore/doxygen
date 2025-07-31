@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dd/d8d/DBCStores_8cpp.html#ab171dd219220e27b6c09ecb36e8e9eab":[7,0,0,0,1,2,14,0,37],
 "dd/d8d/DBCStores_8cpp.html#ab186aaf86f47c3d401ff156d44951914":[7,0,0,0,1,2,14,0,115],
 "dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7":[7,0,0,0,1,2,14,0,121],
 "dd/d8d/DBCStores_8cpp.html#ab8fc0f1eab613ede3226e9ee68cb8508":[7,0,0,0,1,2,14,0,54],
@@ -82,8 +83,8 @@ var NAVTREEINDEX330 =
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,12,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,24,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,12,2],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,24,4],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
 "dd/d91/classat__shattered__halls__execution.html":[6,0,239],
 "dd/d91/classat__shattered__halls__execution.html#a73f1d1f03960acd070b7996257f7a526":[6,0,239,0],
 "dd/d91/classat__shattered__halls__execution.html#ad35f9736371b091dc0780e5bf0caf9f5":[6,0,239,1],
@@ -125,13 +126,13 @@ var NAVTREEINDEX330 =
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#abc630a0c8274f5f85901b2505ff2ae04":[6,0,3622,0],
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#af79cd7c2f6ed47a93dbbe17aaca6834f":[6,0,3622,1],
 "dd/d96/classDBCFile_1_1Exception.html":[6,0,951,0],
-"dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,951,0,1],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,951,0,3],
-"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,951,0,0],
+"dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,951,0,1],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,951,0,2],
+"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,951,0,0],
 "dd/d96/classDBCFile_1_1Exception.html#aeb732542a0ba63cde3d9b3bff93f4eda":[6,0,951,0,6],
-"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,951,0,4],
 "dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,951,0,5],
+"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[6,0,951,0,4],
 "dd/d96/classOutdoorPvP__nagrand.html":[6,0,2348],
 "dd/d96/classOutdoorPvP__nagrand.html#ac6e0f41eafb915604bd1b1d84e915f87":[6,0,2348,0],
 "dd/d96/classOutdoorPvP__nagrand.html#ae8ce0bf210e2be8229b9ac4d8615b058":[6,0,2348,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dd/d9f/structAreas.html#ac6244004ed093c1a3d83749cbc20bfe9":[6,0,162,0],
 "dd/d9f/structAreas.html#aebdb021c0b9c40d624d5115b24616a12":[6,0,162,3],
 "dd/d9f/structnpc__argent__captainAI.html":[6,0,1604],
-"dd/d9f/structnpc__argent__captainAI.html#a059c34261439fc80b0bff9d62b537489":[6,0,1604,10],
-"dd/d9f/structnpc__argent__captainAI.html#a0709350a6841b6008935c050a1db7784":[6,0,1604,7]
+"dd/d9f/structnpc__argent__captainAI.html#a059c34261439fc80b0bff9d62b537489":[6,0,1604,10]
 };

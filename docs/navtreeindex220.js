@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d94/PacketLog_8h.html":[7,0,0,0,1,2,39,1,3],
 "d8/d94/PacketLog_8h.html#a14b702138c7f0a62a900dfc8eecc1f6f":[7,0,0,0,1,2,39,1,3,1],
 "d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aa":[7,0,0,0,1,2,39,1,3,2],
 "d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3":[7,0,0,0,1,2,39,1,3,2,1],
@@ -120,12 +121,12 @@ var NAVTREEINDEX220 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1652,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1652,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1652,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,30,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,30,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,30,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,30,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2496],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/da3/classCalendarMgr.html#af4b378a6789efa5fa40970185ce0b91d":[6,0,832,1],
 "d8/da3/classgo__crystal__prison.html":[6,0,1126],
 "d8/da3/classgo__crystal__prison.html#a0faca8b76f9650ee5cc7825b90463365":[6,0,1126,0],
-"d8/da3/classgo__crystal__prison.html#ad19d8bdf8361d5d7fca2917a6bf0977a":[6,0,1126,1],
-"d8/da3/structCreatureMovementData.html":[6,0,924]
+"d8/da3/classgo__crystal__prison.html#ad19d8bdf8361d5d7fca2917a6bf0977a":[6,0,1126,1]
 };

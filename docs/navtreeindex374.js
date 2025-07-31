@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/dd5/classMiscScript.html#a2c2b480dd47c6e8a2ebd4e19ead442fc":[6,0,1505,12],
 "de/dd5/classMiscScript.html#a3241973d4f8ff5d9e4eed8a0cc95e74d":[6,0,1505,2],
 "de/dd5/classMiscScript.html#a3a45534d56665943fbcfd82e15a17753":[6,0,1505,19],
 "de/dd5/classMiscScript.html#a40356d17f149920064ea1005920c4e45":[6,0,1505,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[7,0,0,0,1,3,5,6,9,40,3],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[7,0,0,0,1,3,5,6,9,40,2],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[7,0,0,0,1,3,5,6,9,40,1],
-"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[7,0,0,0,1,3,5,6,9,44],
-"de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[7,0,0,0,1,3,5,6,9,47]
+"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[7,0,0,0,1,3,5,6,9,44]
 };

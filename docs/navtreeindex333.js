@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,16,0],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,16,0,0],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,16,0,2],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,16,0,1],
@@ -213,8 +214,8 @@ var NAVTREEINDEX333 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,625,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2167],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a3b5812649b67830d8dc6d10b5dd1c937":[6,0,3975,2],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a5067cef0afc99d487f995f8d6edea21f":[6,0,3975,3],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#a9e0e28d871f9d3c89cf2dc862971321d":[6,0,3975,0],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html#abc23ebb3761e3505486ac578bdeaeeed":[6,0,3975,4],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html#acc4819698e175889a0491d7f7cc680fd":[6,0,3975,5]
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html#abc23ebb3761e3505486ac578bdeaeeed":[6,0,3975,4]
 };

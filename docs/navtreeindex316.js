@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[6,0,1095,3],
 "dc/ddf/brewfest_8cpp.html":[7,0,0,0,1,3,3,1],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784c":[7,0,0,0,1,3,3,1,40],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[7,0,0,0,1,3,3,1,40,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/de6/classnpc__your__inner__turmoil.html#a72856ef469bb8f6ff4a89a16159479af":[6,0,2299,1],
 "dc/de6/structboss__skarvald__the__constructor.html":[6,0,704],
 "dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,704,7],
-"dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,704,0],
-"dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[6,0,704,3]
+"dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,704,0]
 };

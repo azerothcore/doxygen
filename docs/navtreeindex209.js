@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[7,0,0,0,1,3,2,12,0,8],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca0ec13a75093f46a55544f192e307c7df":[7,0,0,0,1,3,2,12,0,8,0],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca1a97163364826a65825f8e71976362c8":[7,0,0,0,1,3,2,12,0,8,1],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,12,0,8,5],
@@ -77,14 +78,14 @@ var NAVTREEINDEX209 =
 "d8/d12/classCharacterActionIpLogger.html#a48844efac9d9af9c6415ad49d2473688":[6,0,848,2],
 "d8/d12/classCharacterActionIpLogger.html#a753ed387ea50eaf4c56846eab33cdfc0":[6,0,848,3],
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[6,0,848,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,30,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,11,17],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,30,17],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,30,17,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,11,17,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,11,17,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,30,17,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,11,17,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,30,17,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,11,17,2],
 "d8/d12/structboss__ayamiss.html":[6,0,387],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[6,0,387,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[6,0,387,0],
@@ -122,10 +123,10 @@ var NAVTREEINDEX209 =
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,741,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,149],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,149,0],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,30,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,18],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,30,18,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,30,18],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,18,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,30,18,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[7,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,4,3,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdab1074563852eb0de868ad858b218823c":[7,0,0,0,1,3,10,12,1,2],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf1e382929ce37d0beeb97fd31eaed5e2":[7,0,0,0,1,3,10,12,1,6],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936":[7,0,0,0,1,3,10,12,1,0],
-"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee":[7,0,0,0,1,3,10,12,1,9],
-"d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5a":[7,0,0,0,1,3,10,12,5]
+"d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee":[7,0,0,0,1,3,10,12,1,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#a72673f5054cf269cc8da511441f7bd66":[6,0,3646,2],
 "d9/d6a/classspell__q12478__frostmourne__cavern.html#a8b8276833404f3f69c3b7f97d95b6982":[6,0,3646,0],
 "d9/d6a/classspell__q12478__frostmourne__cavern.html#aa632d381ac415feaf226f55fc2cd8520":[6,0,3646,1],
 "d9/d6a/icecrown__citadel_8h.html":[7,0,0,0,1,3,5,6,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d6a/icecrown__citadel_8h.html#ad946c964b96b8b1ffa7c95abefe65353a1a2616300bcd960929e24f84f18a93af":[7,0,0,0,1,3,5,6,13,9,1],
 "d9/d6a/icecrown__citadel_8h.html#ae0f2faf614aebac327abe2a2393cde51":[7,0,0,0,1,3,5,6,13,16],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09":[7,0,0,0,1,3,5,6,13,13],
-"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a0686f06ed6fc95878968b9d3ea89aeb8":[7,0,0,0,1,3,5,6,13,13,4],
-"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f":[7,0,0,0,1,3,5,6,13,13,7]
+"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a0686f06ed6fc95878968b9d3ea89aeb8":[7,0,0,0,1,3,5,6,13,13,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/classDBCFileLoader_1_1Record.html#a833c7017749b6b3109ebdee2ff0d3517":[6,0,952,0,2],
 "d9/df7/classDBCFileLoader_1_1Record.html#aa9814b507b472e781e08c803e025cc72":[6,0,952,0,5],
 "d9/df7/classDBCFileLoader_1_1Record.html#af6a95de37b34f0204f57323d9a39d110":[6,0,952,0,4],
 "d9/df7/ulduar_8h.html":[7,0,0,0,1,3,5,9,2,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2664],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[6,0,2664,1],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[6,0,2664,2],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[6,0,2664,0],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html":[6,0,3316]
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[6,0,2664,0]
 };

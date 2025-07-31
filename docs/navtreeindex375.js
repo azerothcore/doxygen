@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[7,0,0,0,1,3,5,6,9,47],
 "de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[7,0,0,0,1,3,5,6,9,49],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,6,9,37],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a032399a8694d3b2b1da724a5a08794e8":[7,0,0,0,1,3,5,6,9,37,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58":[7,0,0,0,1,3,9,9,20,2],
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576":[7,0,0,0,1,3,9,9,20,0],
 "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01":[7,0,0,0,1,3,9,9,20,1],
-"de/df2/spell__rogue_8cpp.html#a540405afe3345e19487d2db693272b2a":[7,0,0,0,1,3,9,9,21],
-"de/df2/spell__rogue_8cpp.html#a68df6411a1d33b37aed8e2cb7d35de0f":[7,0,0,0,1,3,9,9,18]
+"de/df2/spell__rogue_8cpp.html#a540405afe3345e19487d2db693272b2a":[7,0,0,0,1,3,9,9,21]
 };

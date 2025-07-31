@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"df/da7/classBattleground.html#a4cfd483f662820fcd1ffaa0169719c5e":[6,0,311,152],
 "df/da7/classBattleground.html#a4e05c7ef0328f590519c14fa70d02cfa":[6,0,311,218],
 "df/da7/classBattleground.html#a500cd81f3701a8f7715f3c692cc2c4cf":[6,0,311,106],
 "df/da7/classBattleground.html#a502c46b68ba64405f9eb6d6090af42d2":[6,0,311,161],
@@ -169,8 +170,8 @@ var NAVTREEINDEX392 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,311,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,311,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,311,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,30,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,30,1,9,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[6,0,2794,1],
 "df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[6,0,2794,2],
 "df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[6,0,2794,0],
-"df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[6,0,2794,3],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[6,0,2047,0]
+"df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[6,0,2794,3]
 };

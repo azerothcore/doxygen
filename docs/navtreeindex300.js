@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a062eb272826d52ffd9b72054f970b761":[6,0,1570,0,0],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56":[6,0,1570,0,6],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[6,0,1570,0,2],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[6,0,1570,0,5],
@@ -228,12 +229,12 @@ var NAVTREEINDEX300 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3648,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2085],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2085,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2085,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,4,3],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[7,0,0,0,1,3,2,1,0,4,3,1],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[7,0,0,0,1,3,2,1,0,4,3,0],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[7,0,0,0,1,3,2,1,0,4,2],
-"dc/d20/classboss__novos.html":[6,0,640]
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[7,0,0,0,1,3,2,1,0,4,2]
 };

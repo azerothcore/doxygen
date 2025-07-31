@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4160,1],
 "df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4160,2],
 "df/d29/oculus_8h.html":[7,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,2,6,0],
@@ -82,18 +83,18 @@ var NAVTREEINDEX382 =
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,30,5,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,5,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,30,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,5,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,30,5,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,30,5,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,30,5,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,30,5,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,30,5,40,1],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,30,5,40,4],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,5,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,30,5,40,6],
 "df/d2d/classachievement__thorim__lose__your__illusion.html":[6,0,95],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a8aa9383b97b23d71d598ae1e650d0195":[6,0,710,0,2],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#a9f2c58c1ebf4ce1809d454c4bba8f758":[6,0,710,0,3],
 "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#ab528df844696fec44595e0878966e0c2":[6,0,710,0,17],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#adc28dd5beed1a6e48c79d7cdcceec084":[6,0,710,0,0],
-"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#af26795d89f26a9d907e81ef16ab10762":[6,0,710,0,5]
+"df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html#adc28dd5beed1a6e48c79d7cdcceec084":[6,0,710,0,0]
 };

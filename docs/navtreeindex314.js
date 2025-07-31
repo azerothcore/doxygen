@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a4ef85c0178120f14f2a7b29efb7a9abf":[6,0,415,0,3],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a5e69b631ab6844160b1e53fd1d731bae":[6,0,415,0,4],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a7b0fdaa4f2603db8fd2d0c1ee6975817":[6,0,415,0,6],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a805117db567dd3d529a1c862bc24179c":[6,0,415,0,2],
@@ -149,8 +150,8 @@ var NAVTREEINDEX314 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[6,0,3607,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,81],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,81,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca9c18ef85f72e2f6f200c311478e6f5e8":[7,0,0,0,1,3,2,12,1,11,3],
 "dc/dd6/classRespawnEvent.html":[6,0,2499],
 "dc/dd6/classRespawnEvent.html#a2e58f4e472fb72cf5401f11be6e5e136":[6,0,2499,1],
-"dc/dd6/classRespawnEvent.html#accc0d5638ff7a493fa116ac2e8f2e58b":[6,0,2499,0],
-"dc/dd6/classRespawnEvent.html#adb0835b4a2e7a2795bb81f0a1e3c911a":[6,0,2499,2]
+"dc/dd6/classRespawnEvent.html#accc0d5638ff7a493fa116ac2e8f2e58b":[6,0,2499,0]
 };

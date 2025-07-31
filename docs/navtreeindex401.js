@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[6,0,2680,0],
 "df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[6,0,2680,2],
 "df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[6,0,2680,1],
 "df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2680,4],
@@ -174,8 +175,8 @@ var NAVTREEINDEX401 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,11,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,30,11,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,30,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,11,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,30,11,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,30,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,11,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,30,11,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,839,25],
 "df/df1/structCell.html#ae29386fdebf58e2d319fc8ef34cf7816":[6,0,839,18],
 "df/df1/structCell.html#afa2ed05ed338c6d8d1cbcc84a61d3c53":[6,0,839,22],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3329],
-"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3329,2]
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3329]
 };

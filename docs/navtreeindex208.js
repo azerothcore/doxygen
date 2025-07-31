@@ -1,5 +1,6 @@
 var NAVTREEINDEX208 =
 {
+"d8/d02/Realm_8h.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b":[7,0,0,0,1,4,3,1,2,7],
 "d8/d02/Realm_8h.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68":[7,0,0,0,1,4,3,1,2,2],
 "d8/d02/Realm_8h.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304":[7,0,0,0,1,4,3,1,2,4],
 "d8/d02/Realm_8h.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2":[7,0,0,0,1,4,3,1,2,0],
@@ -66,14 +67,14 @@ var NAVTREEINDEX208 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a1a4268b745e63992f4d0fc2028b717aa":[6,0,1814,0,0],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a6fa27328cf47bef81c3465b8a3e2ace1":[6,0,1814,0,3],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[6,0,1814,0,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,467,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX208 =
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9":[7,0,0,0,1,3,2,12,0,7,4],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa7db7bc5a06f37175c7a56bde51ba4d6":[7,0,0,0,1,3,2,12,0,7,0],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac98fdfb490fa896cecb40ae427f4ea75":[7,0,0,0,1,3,2,12,0,7,3],
-"d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0a5ce28f9a4f81727db1b5e521ca9f8":[7,0,0,0,1,3,2,12,0,7,2],
-"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[7,0,0,0,1,3,2,12,0,8]
+"d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0a5ce28f9a4f81727db1b5e521ca9f8":[7,0,0,0,1,3,2,12,0,7,2]
 };

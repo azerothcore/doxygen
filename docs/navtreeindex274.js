@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d1b/structboss__kazrogal.html":[6,0,564],
 "db/d1b/structboss__kazrogal.html#a0b54f8c935d09367d7e6b7dbf6c4ce61":[6,0,564,2],
 "db/d1b/structboss__kazrogal.html#a2b3cc0e99c478c55f907898fbec2b8b2":[6,0,564,0],
 "db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990":[6,0,564,4],
@@ -120,10 +121,10 @@ var NAVTREEINDEX274 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1882,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1882,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1882,0,9],
@@ -139,8 +140,8 @@ var NAVTREEINDEX274 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1882,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,30,5,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,30,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d2c/structVisibilitySettingData.html#ad566fd5eff102929247b75cf5092a60b":[6,0,4227,2],
 "db/d2c/structVisibilitySettingData.html#af70453021c5ded85c73a4d5559dca2ea":[6,0,4227,0],
 "db/d2d/boss__hazzarah_8cpp.html":[7,0,0,0,1,3,2,16,4],
-"db/d2d/boss__hazzarah_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,4,3],
-"db/d2d/boss__hazzarah_8cpp.html#a5bd342133be8c2137b831460acc9298ca0708061a607b394f20cada5ddbf77b07":[7,0,0,0,1,3,2,16,4,3,5]
+"db/d2d/boss__hazzarah_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,4,3]
 };
