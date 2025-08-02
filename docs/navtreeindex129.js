@@ -1,5 +1,11 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5abc542daa55be8c65656cab5672d1cdf5":[7,0,0,0,1,3,5,2,1,1,67,0],
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5adf350c6db442c32362b5e39aa06ad747":[7,0,0,0,1,3,5,2,1,1,67,1],
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5afa4e2a4c2a24bc29010bc0903e35ee22":[7,0,0,0,1,3,5,2,1,1,67,4],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647":[7,0,0,0,1,3,5,2,1,1,53],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a305a5a2f53f51a3c0d615dfe5a729345":[7,0,0,0,1,3,5,2,1,1,53,7],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a52eccf197e7de9d8189a69f600e573d2":[7,0,0,0,1,3,5,2,1,1,53,1],
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a68539f6036ceda13698123e680943acf":[7,0,0,0,1,3,5,2,1,1,53,4],
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a7597dc945c62e936bb8eb202738df58c":[7,0,0,0,1,3,5,2,1,1,53,5],
 "d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a8cbb40f272229c789703021570aa46a8":[7,0,0,0,1,3,5,2,1,1,53,2],
@@ -172,14 +178,14 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,2989,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,2989,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2989,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,849],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[6,0,849,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[6,0,849,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a859dfb0687496ae486e397d304d0265f":[7,0,0,0,1,3,5,8,2,2,6,0],
 "d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8b82d953cad09db0f54951ed2eab952a":[7,0,0,0,1,3,5,8,2,2,6,1],
 "d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa1d1e252200b8c4f314268418bd8a340":[7,0,0,0,1,3,5,8,2,2,6,5],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,2,4],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d846dc8ac7aa3574892271c7146e122":[7,0,0,0,1,3,5,8,2,2,4,8],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca60a6915f83245a3885c966413a19c82a":[7,0,0,0,1,3,5,8,2,2,4,9],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7":[7,0,0,0,1,3,5,8,2,2,4,4],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fe12e1edaa827d1177dd760e0579a6":[7,0,0,0,1,3,5,8,2,2,4,2],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca861c7baf210d92fc2d4b54ac6c2d8836":[7,0,0,0,1,3,5,8,2,2,4,3],
-"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca8934d7c1a86aa663dd516e759a774822":[7,0,0,0,1,3,5,8,2,2,4,0]
+"d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,2,4]
 };

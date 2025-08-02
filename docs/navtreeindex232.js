@@ -1,5 +1,11 @@
 var NAVTREEINDEX232 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e595cb4e0ae09f8965cc0671aa82732":[7,0,0,0,1,3,2,12,5,10,14],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca927da7f75d1a92d2811a34dc3ba5ecb2":[7,0,0,0,1,3,2,12,5,10,1],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca978c7f8c995666d5cbbb9aeb0ad32796":[7,0,0,0,1,3,2,12,5,10,7],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0":[7,0,0,0,1,3,2,12,5,10,22],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caaa3043663a6fe9f892108aa1d041afb9":[7,0,0,0,1,3,2,12,5,10,6],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caae47fdf4149ba16bbce9b9d71b6f0820":[7,0,0,0,1,3,2,12,5,10,5],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cade5d3fed872daab3cced8a6c73ff9c76":[7,0,0,0,1,3,2,12,5,10,16],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106":[7,0,0,0,1,3,2,12,5,10,9],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085":[7,0,0,0,1,3,2,12,5,10,20],
@@ -243,11 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d54/structnpc__necropolis__relay.html":[6,0,1981],
 "d9/d54/structnpc__necropolis__relay.html#a044958acd1449d664532aeea7d0cb2fd":[6,0,1981,0],
 "d9/d54/structnpc__necropolis__relay.html#a1968d3537de2bdb9d4786cc96d2c346c":[6,0,1981,2],
-"d9/d54/structnpc__necropolis__relay.html#a45fdef0f86f18b87b90d2b4f9c0df9cb":[6,0,1981,1],
-"d9/d55/UnitAI_8h.html":[7,0,0,0,1,2,3,0,15],
-"d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3":[7,0,0,0,1,2,3,0,15,8],
-"d9/d55/UnitAI_8h.html#a1c66b73f1d3e1e8031c25ae739f094e6":[7,0,0,0,1,2,3,0,15,11],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3d":[7,0,0,0,1,2,3,0,15,10],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4":[7,0,0,0,1,2,3,0,15,10,2],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611":[7,0,0,0,1,2,3,0,15,10,3]
+"d9/d54/structnpc__necropolis__relay.html#a45fdef0f86f18b87b90d2b4f9c0df9cb":[6,0,1981,1]
 };

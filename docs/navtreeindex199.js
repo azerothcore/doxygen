@@ -1,5 +1,11 @@
 var NAVTREEINDEX199 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf00d3d17d6572edafc66ad70be15e130":[7,0,0,0,1,2,28,2,0,750],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf01875f7f3990bbe09f64c207bebc4d5":[7,0,0,0,1,2,28,2,0,352],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf023a12e156e82f0e5cce5a2c42f094a":[7,0,0,0,1,2,28,2,0,575],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf08dee071577e6c6547b3eafbb053249":[7,0,0,0,1,2,28,2,0,966],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf09f7f60e6a42afbde160e3f1f022383":[7,0,0,0,1,2,28,2,0,566],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf0bd94ebf5ac49704f17d7d029ffdba3":[7,0,0,0,1,2,28,2,0,999],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf11e6adfdc2f09d7539bf1bfecc785d9":[7,0,0,0,1,2,28,2,0,642],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf143f46dd289d3cc77e399c8d4157a01":[7,0,0,0,1,2,28,2,0,218],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf18491001faac5b67e1001cf632f6daf":[7,0,0,0,1,2,28,2,0,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX199 =
 "d7/da9/IntermediateValues_8cpp.html#a4ebf72895c1d62f0bc7d45804db4bc91":[7,0,0,0,3,2,0,0],
 "d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html":[6,0,483,0],
 "d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a01cc3db24e03600501b9980aa966ad7d":[6,0,483,0,7],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a4e5c714486cdba1fc4a6db609d8b6a97":[6,0,483,0,6],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a4f45facb49cb5c1a8b0565e87dccf50e":[6,0,483,0,1],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a64f2b0426491f1471c8cf653e94a2fa2":[6,0,483,0,3],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a8333b3f2637f029de4182ca16e2fb634":[6,0,483,0,4],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#ac2653a5664c87045df16f2fdcf850edf":[6,0,483,0,2],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#aea65a8fab859db4396690d846d10f5a1":[6,0,483,0,5],
-"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#afd3e486cd9a0ac18d10675f40f7f6314":[6,0,483,0,0]
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a4e5c714486cdba1fc4a6db609d8b6a97":[6,0,483,0,6]
 };

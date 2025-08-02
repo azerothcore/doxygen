@@ -1,5 +1,11 @@
 var NAVTREEINDEX108 =
 {
+"d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64aa47c877b272b448142d39abb0aba1190":[7,0,0,0,1,2,8,10,21,9],
+"d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64ab44bb90b638e610dc57a59bf02e57081":[7,0,0,0,1,2,8,10,21,5],
+"d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64acdfe075701f942217479abeb938240d9":[7,0,0,0,1,2,8,10,21,3],
+"d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882":[7,0,0,0,1,2,8,10,21,0],
+"d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64af44a998190bb49b9c4ebd822aa7f6e0f":[7,0,0,0,1,2,8,10,21,10],
+"d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0":[7,0,0,0,1,2,8,10,24],
 "d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0a1a9f76694150c65766212202838b32f5":[7,0,0,0,1,2,8,10,24,1],
 "d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0a4b0e68b854470699044ef4dc8c015eca":[7,0,0,0,1,2,8,10,24,2],
 "d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0a88e4c641454b004ff912233b61ae1e7e":[7,0,0,0,1,2,8,10,24,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX108 =
 "d3/dd1/DBCEnums_8h.html#a5af614298393d3986bae9de58785ba60":[7,0,0,0,1,4,0,2,10],
 "d3/dd1/DBCEnums_8h.html#a5af614298393d3986bae9de58785ba60a0cb643327856846e92c03a1689489559":[7,0,0,0,1,4,0,2,10,0],
 "d3/dd1/DBCEnums_8h.html#a5af614298393d3986bae9de58785ba60a15510a00af2cfb684d30c98f0018018f":[7,0,0,0,1,4,0,2,10,1],
-"d3/dd1/DBCEnums_8h.html#a5bb4257ca9fa4bfcf9391b7895b97761":[7,0,0,0,1,4,0,2,6],
-"d3/dd1/DBCEnums_8h.html#a66e32385da83224c2a05fd9e1fcb1d1a":[7,0,0,0,1,4,0,2,5],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164c":[7,0,0,0,1,4,0,2,22],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca130d2ccab5717b7d75fc58e6267e047f":[7,0,0,0,1,4,0,2,22,6],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca25a9227a2852b61f8f6977458a8901e9":[7,0,0,0,1,4,0,2,22,5],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca6c06b920a3bf968aa5ad6974c7d32f34":[7,0,0,0,1,4,0,2,22,4],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca9c232bf8f0a7262392568f28b30b1266":[7,0,0,0,1,4,0,2,22,3]
+"d3/dd1/DBCEnums_8h.html#a5bb4257ca9fa4bfcf9391b7895b97761":[7,0,0,0,1,4,0,2,6]
 };

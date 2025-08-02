@@ -1,5 +1,11 @@
 var NAVTREEINDEX374 =
 {
+"de/dd5/classMiscScript.html#a100f72c7b930788c5d3a4a0d2dd2d9d9":[6,0,1505,14],
+"de/dd5/classMiscScript.html#a1434e3a2638144a9ddd4e2834a4983be":[6,0,1505,15],
+"de/dd5/classMiscScript.html#a14cf20bad86e743a0ddc225d780ed13c":[6,0,1505,10],
+"de/dd5/classMiscScript.html#a19700d3ee246e42852d3b9993157d2e8":[6,0,1505,17],
+"de/dd5/classMiscScript.html#a2160ea9f05168a3018ab34ebddee18cc":[6,0,1505,13],
+"de/dd5/classMiscScript.html#a25d97a2c91563263da76e5d67358edce":[6,0,1505,4],
 "de/dd5/classMiscScript.html#a2c2b480dd47c6e8a2ebd4e19ead442fc":[6,0,1505,12],
 "de/dd5/classMiscScript.html#a3241973d4f8ff5d9e4eed8a0cc95e74d":[6,0,1505,2],
 "de/dd5/classMiscScript.html#a3a45534d56665943fbcfd82e15a17753":[6,0,1505,19],
@@ -243,11 +249,5 @@ var NAVTREEINDEX374 =
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8824e48ce7b43d1d17c4059e3e04b4e4":[7,0,0,0,1,3,5,6,9,42,3],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa7c535c2bdebb4fae44045ee7ee5e403":[7,0,0,0,1,3,5,6,9,42,5],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,6,9,42,9],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af419b383d681d359cf16b9ec1488ade9":[7,0,0,0,1,3,5,6,9,42,4],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[7,0,0,0,1,3,5,6,9,40],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34":[7,0,0,0,1,3,5,6,9,40,0],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[7,0,0,0,1,3,5,6,9,40,3],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[7,0,0,0,1,3,5,6,9,40,2],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[7,0,0,0,1,3,5,6,9,40,1],
-"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[7,0,0,0,1,3,5,6,9,44]
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af419b383d681d359cf16b9ec1488ade9":[7,0,0,0,1,3,5,6,9,42,4]
 };

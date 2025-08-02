@@ -1,5 +1,11 @@
 var NAVTREEINDEX189 =
 {
+"d7/d48/structboss__vexallus.html#aa9d37e8132c715552e2ce0102ac9a59b":[6,0,765,2],
+"d7/d49/SpellScriptLoader_8cpp.html":[7,0,0,0,1,2,38,0,78],
+"d7/d49/SpellScriptLoader_8cpp.html#aae80ff7a03e35c91f47550f388c3f3bb":[7,0,0,0,1,2,38,0,78,0],
+"d7/d49/classnpc__naxxramas__trigger.html":[6,0,1977],
+"d7/d49/classnpc__naxxramas__trigger.html#a1ab25fd0b40f373d30b0f60462dd276b":[6,0,1977,3],
+"d7/d49/classnpc__naxxramas__trigger.html#a5bf85ab6027ca5101df32cda6df29b28":[6,0,1977,1],
 "d7/d49/classnpc__naxxramas__trigger.html#a62fd64468daf378fbe2e8f18b1f002f8":[6,0,1977,0],
 "d7/d49/classnpc__naxxramas__trigger.html#acd051dd7790aa37cd2375479433509cb":[6,0,1977,2],
 "d7/d4a/drak__tharon__keep_8h.html":[7,0,0,0,1,3,5,3,4],
@@ -61,8 +67,8 @@ var NAVTREEINDEX189 =
 "d7/d4d/classachievement__everything__counts.html":[6,0,48],
 "d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,48,1],
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,48,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d5c/classspell__entropius__negative__energy__periodic.html#acb31ba162452a30ff0c208829560f9fd":[6,0,2854,3],
 "d7/d5c/classspell__entropius__negative__energy__periodic.html#acca46d585d06d461f735cddb6075b3b1":[6,0,2854,0],
 "d7/d5c/namespaceWorldPackets_1_1Character.html":[5,0,30,1],
-"d7/d5c/namespaceWorldPackets_1_1Totem.html":[5,0,30,10],
-"d7/d5c/structWorldMapOverlayEntry.html":[6,0,4282],
-"d7/d5c/structWorldMapOverlayEntry.html#a991f3242c87939be42d107d6908f441d":[6,0,4282,0],
-"d7/d5c/structWorldMapOverlayEntry.html#ac57c444da58dea7227bd26e0f6b7bbff":[6,0,4282,1],
-"d7/d5e/classboss__halion.html":[6,0,517],
-"d7/d5e/classboss__halion.html#a142314efb4f45ec146ab0225271d29b1":[6,0,517,2],
-"d7/d5e/classboss__halion.html#a94b35248cedbf08b0a1f219c4c28c269":[6,0,517,1]
+"d7/d5c/namespaceWorldPackets_1_1Totem.html":[5,0,30,10]
 };

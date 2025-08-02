@@ -1,5 +1,11 @@
 var NAVTREEINDEX363 =
 {
+"de/d5f/structboss__chrono__lord__deja.html#a68eb4941364f9fac121aa3d610d45f48":[6,0,409,1],
+"de/d5f/structboss__chrono__lord__deja.html#a85f82d4bde99b7e1d05fba82177916e6":[6,0,409,0],
+"de/d5f/structboss__chrono__lord__deja.html#ab5324b2993f2fd1ec3290eb962ef6065":[6,0,409,2],
+"de/d5f/structboss__chrono__lord__deja.html#acdef53bd447c30d87bd15af3bf4200bc":[6,0,409,5],
+"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html":[6,0,2046,0],
+"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a03bfcd0ea38073ff8481188d1b570553":[6,0,2046,0,2],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a1507ab4bdade501cf92f843cec20842d":[6,0,2046,0,7],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a1ba3692738d6bd474d54fe8910a7f316":[6,0,2046,0,10],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a21973bccde394785f8619df7cae5270b":[6,0,2046,0,0],
@@ -62,8 +68,8 @@ var NAVTREEINDEX363 =
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[6,0,11,5,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[6,0,11,5,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[5,0,30,5,30,1],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[6,0,11,5,30,0],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[5,0,30,5,30,0],
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[6,0,11,5,30,0],
 "de/d64/cs__lfg_8cpp.html":[7,0,0,0,1,3,0,25],
 "de/d64/cs__lfg_8cpp.html#a1d2591add059e8c4daf04b9f706da765":[7,0,0,0,1,3,0,25,2],
 "de/d64/cs__lfg_8cpp.html#a484938015a7f5ffa8f5b1d0e259d355b":[7,0,0,0,1,3,0,25,1],
@@ -96,10 +102,10 @@ var NAVTREEINDEX363 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1972,0,5],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX363 =
 "de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7aba41ddadf92eb865b0e08867c249cdf209":[5,0,18,58,3],
 "de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7aba56bdd76db5a1388446f620fb0f6f15a1":[5,0,18,58,5],
 "de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7aba7c07908381b5c9e14dc9f9e5fecd3a8d":[5,0,18,58,2],
-"de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227":[5,0,18,58,1],
-"de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7ababb809a2241eb417131fced2fab9b042d":[5,0,18,58,4],
-"de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5":[5,0,18,44],
-"de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e":[5,0,18,44,2],
-"de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084":[5,0,18,44,0],
-"de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461":[5,0,18,44,1],
-"de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6":[5,0,18,45]
+"de/d72/namespacelfg.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227":[5,0,18,58,1]
 };

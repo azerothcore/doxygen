@@ -1,5 +1,11 @@
 var NAVTREEINDEX202 =
 {
+"d7/db8/structboss__balinda.html#a83df5856391f0ba62dcb0538b7f44e2d":[6,0,390,8],
+"d7/db8/structboss__balinda.html#aa0b78302a92bf39ffee51ce3a71fb534":[6,0,390,3],
+"d7/db8/structboss__balinda.html#aeb10053198b9b4c43e963d23957ba9ba":[6,0,390,2],
+"d7/db8/structboss__balinda.html#af3506dd75baef12fd0328aed21636978":[6,0,390,6],
+"d7/dba/boss__hydross__the__unstable_8cpp.html":[7,0,0,0,1,3,7,2,0,1],
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,2,0,1,4],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0a029a0a7069770d043bef7102c72d27":[7,0,0,0,1,3,7,2,0,1,4,3],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a323bafdfab86f2b54325c5bd1ce5e860":[7,0,0,0,1,3,7,2,0,1,4,2],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a558ece05ea4bf602ff92fe4fc873ccef":[7,0,0,0,1,3,7,2,0,1,4,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39":[7,0,0,0,1,2,1,1,21,9],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448":[7,0,0,0,1,2,1,1,21,1],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3":[7,0,0,0,1,2,1,1,21,3],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18":[7,0,0,0,1,2,1,1,21,14],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c":[7,0,0,0,1,2,1,1,21,18],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6":[7,0,0,0,1,2,1,1,21,4],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943":[7,0,0,0,1,2,1,1,21,0],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735":[7,0,0,0,1,2,1,1,21,25],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a":[7,0,0,0,1,2,1,1,21,24],
-"d7/dc5/AchievementMgr_8h.html#a7a5f365d092f508da6ae8d510f0e3117":[7,0,0,0,1,2,1,1,12]
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18":[7,0,0,0,1,2,1,1,21,14]
 };

@@ -223,7 +223,7 @@ var searchData=
   ['equipmentset_220',['EquipmentSet',['../d8/db8/structEquipmentSet.html#acd3085c12c795daceae86e94448109e2',1,'EquipmentSet']]],
   ['equipnewitem_221',['EquipNewItem',['../d2/d4b/classPlayer.html#a564781803e58ff345637b0c236fcb27f',1,'Player']]],
   ['equippedok_222',['EquippedOk',['../d3/da1/npc__professions_8cpp.html#a83b511800a09185fd7b8fb1c1b132b34',1,'npc_professions.cpp']]],
-  ['erase_223',['erase',['../d6/df5/classSummonList.html#a1a260f35364d52e5b99684c8b7392a4c',1,'SummonList::erase()'],['../d3/dcf/classDataMap.html#a2c7b450c8781824135765e5d82b0272e',1,'DataMap::Erase()']]],
+  ['erase_223',['erase',['../d3/dcf/classDataMap.html#a2c7b450c8781824135765e5d82b0272e',1,'DataMap::Erase()'],['../d6/df5/classSummonList.html#a1a260f35364d52e5b99684c8b7392a4c',1,'SummonList::erase()']]],
   ['eraseif_224',['EraseIf',['../d0/d65/namespaceAcore_1_1Containers.html#a7821713bb3723db62da8a4d0e3711407',1,'Acore::Containers']]],
   ['error_225',['Error',['../d3/d0b/namespaceAcore.html#af222a0bd205c0bcecd8a7b6554137e33',1,'Acore']]],
   ['errormessage_226',['ErrorMessage',['../d7/d3f/WheatyExceptionReport_8cpp.html#a75b4eb6a99991d301f7d44683ce13c9e',1,'WheatyExceptionReport.cpp']]],

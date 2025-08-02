@@ -1,5 +1,11 @@
 var NAVTREEINDEX230 =
 {
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,3901,3],
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#a66dcb98f38ed6b040928543015f59c9b":[6,0,3901,1],
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[6,0,3901,2],
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#ae5749a43f37f0eb3f049d8804845f61e":[6,0,3901,0],
+"d9/d17/structBattlegroundObjectInfo.html":[6,0,330],
+"d9/d17/structBattlegroundObjectInfo.html#a6722b83d6969c1a34b4846f19865075a":[6,0,330,1],
 "d9/d17/structBattlegroundObjectInfo.html#a7eaf1fbe40f3a7918965da8d5ac81a50":[6,0,330,3],
 "d9/d17/structBattlegroundObjectInfo.html#a848f2b15f47ceeb91c40e916d5659486":[6,0,330,0],
 "d9/d17/structBattlegroundObjectInfo.html#ae0233a1078bc735e40855ea7608f5f11":[6,0,330,2],
@@ -148,10 +154,10 @@ var NAVTREEINDEX230 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3238,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3238,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3238,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,30,9,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,9,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,30,9,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,9,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3473,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3473,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3473,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,1,8,0,5,0],
-"d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3531],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3531,1]
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a47883c03fca4df9c2a3612ef9dd0d6cb":[6,0,110,11],
+"d4/dd8/structAchievementCriteriaData.html#a544dfbd51369b7ccc7187f8a5e993843":[6,0,110,9],
+"d4/dd8/structAchievementCriteriaData.html#a55c9583e535d66c4647c4dd03401956a":[6,0,110,48],
+"d4/dd8/structAchievementCriteriaData.html#a56f5213c63183a8da51cf796dc91d590":[6,0,110,35],
+"d4/dd8/structAchievementCriteriaData.html#a5b3aa64489e928ee6ac255f7ba48f410":[6,0,110,46],
+"d4/dd8/structAchievementCriteriaData.html#a6092cfae39ce474f8ec18acc700e6cd2":[6,0,110,4],
 "d4/dd8/structAchievementCriteriaData.html#a6529a2b93d322766027dac87ed89486b":[6,0,110,12],
 "d4/dd8/structAchievementCriteriaData.html#a671d0f9717f9cdc33301ce75b440ea6f":[6,0,110,23],
 "d4/dd8/structAchievementCriteriaData.html#a6b5c24c5863888ea49ad9803dbbee076":[6,0,110,50],
@@ -243,11 +249,5 @@ var NAVTREEINDEX137 =
 "d4/ddf/structArenaTeamMember.html#aaa6de888c3f85ef8cbe9baa2f997aba1":[6,0,196,0],
 "d4/ddf/structArenaTeamMember.html#ac0dc6765247a0f36b3d3ff527a678010":[6,0,196,3],
 "d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da":[6,0,196,4],
-"d4/ddf/structArenaTeamMember.html#ae3724b7268c161d5553b8cc1fae2cf75":[6,0,196,8],
-"d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088":[6,0,196,5],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html":[6,0,1637,0],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a2372053a84715990fc7fce3d8e269265":[6,0,1637,0,4],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a2e1f52ca84363703d95da99ca93d3503":[6,0,1637,0,5],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a3564ffec1ac0ac2c7e29b3c7a6b60958":[6,0,1637,0,0],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a54f3baa4767f8336ff4699de426aae61":[6,0,1637,0,6]
+"d4/ddf/structArenaTeamMember.html#ae3724b7268c161d5553b8cc1fae2cf75":[6,0,196,8]
 };

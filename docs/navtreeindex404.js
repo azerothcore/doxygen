@@ -1,5 +1,11 @@
 var NAVTREEINDEX404 =
 {
+"functions_s.html":[6,3,0,19],
+"functions_t.html":[6,3,0,20],
+"functions_type.html":[6,3,3],
+"functions_type.html":[6,3,3,0],
+"functions_type_a.html":[6,3,3,1],
+"functions_type_b.html":[6,3,3,2],
 "functions_type_c.html":[6,3,3,3],
 "functions_type_d.html":[6,3,3,4],
 "functions_type_e.html":[6,3,3,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX404 =
 "index.html":[],
 "index.html":[0],
 "index.html#autotoc_md1":[0,0],
-"index.html#autotoc_md2":[0,1],
-"namespacemembers.html":[5,1,0,0],
-"namespacemembers.html":[5,1,0],
-"namespacemembers_b.html":[5,1,0,1],
-"namespacemembers_c.html":[5,1,0,2],
-"namespacemembers_d.html":[5,1,0,3],
-"namespacemembers_e.html":[5,1,0,4]
+"index.html#autotoc_md2":[0,1]
 };

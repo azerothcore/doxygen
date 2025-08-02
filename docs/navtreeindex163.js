@@ -1,5 +1,11 @@
 var NAVTREEINDEX163 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca36f313c0558ba9a243a36a63f078c10c":[7,0,0,0,1,3,5,6,11,39,7],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca37353c980e3df3a448b3822919a09fe1":[7,0,0,0,1,3,5,6,11,39,15],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c7701ff6a6482b1f99527394ff832ab":[7,0,0,0,1,3,5,6,11,39,2],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c7fa37c76c0fe94e8b68d28a7977246":[7,0,0,0,1,3,5,6,11,39,20],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca47d98a90fc92bda3ee1072e96871824b":[7,0,0,0,1,3,5,6,11,39,14],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f694005ef99cdd7c3790560c38a4354":[7,0,0,0,1,3,5,6,11,39,13],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d68feb336809f83b6bcb14458f55c0b":[7,0,0,0,1,3,5,6,11,39,22],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713":[7,0,0,0,1,3,5,6,11,39,0],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea":[7,0,0,0,1,3,5,6,11,39,31],
@@ -243,11 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daa654aa5772147c5c6c188647fddc6c93":[7,0,0,0,1,2,3,1,7,2,33],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab1f3c262e02c455f78c2406cfeab3366":[7,0,0,0,1,2,3,1,7,2,20],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab31d1186fd7ded851c9f1dee7489a698":[7,0,0,0,1,2,3,1,7,2,15],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab3561e17018ebfb293c600b647cdb413":[7,0,0,0,1,2,3,1,7,2,2],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab64daef30e35b637b27050fbc3a5b6dd":[7,0,0,0,1,2,3,1,7,2,23],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac76c8a1af68ff8d6f33c3be3fef900e3":[7,0,0,0,1,2,3,1,7,2,6],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac87393e700307eb79dd0cad567eba0dd":[7,0,0,0,1,2,3,1,7,2,3],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac95576395bb99cc16cd14c471ba25091":[7,0,0,0,1,2,3,1,7,2,42],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac98e22b65d418e957b04a382fbe1b12f":[7,0,0,0,1,2,3,1,7,2,8],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad3334f5105a2cd0b9e4d176bf087c4e9":[7,0,0,0,1,2,3,1,7,2,32]
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab3561e17018ebfb293c600b647cdb413":[7,0,0,0,1,2,3,1,7,2,2]
 };

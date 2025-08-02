@@ -1,5 +1,11 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab64daef30e35b637b27050fbc3a5b6dd":[7,0,0,0,1,2,3,1,7,2,23],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac76c8a1af68ff8d6f33c3be3fef900e3":[7,0,0,0,1,2,3,1,7,2,6],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac87393e700307eb79dd0cad567eba0dd":[7,0,0,0,1,2,3,1,7,2,3],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac95576395bb99cc16cd14c471ba25091":[7,0,0,0,1,2,3,1,7,2,42],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac98e22b65d418e957b04a382fbe1b12f":[7,0,0,0,1,2,3,1,7,2,8],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad3334f5105a2cd0b9e4d176bf087c4e9":[7,0,0,0,1,2,3,1,7,2,32],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad6d50dc8dc6de123eee0d2e67f12a40f":[7,0,0,0,1,2,3,1,7,2,11],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daeb88157fb28855d72a3a04a83d9d0380":[7,0,0,0,1,2,3,1,7,2,16],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8":[7,0,0,0,1,2,3,1,7,2,34],
@@ -243,11 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d28/structSpellProcEventEntry.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a":[6,0,4083,8],
 "d6/d28/structSpellProcEventEntry.html#a911770f28fe36243593b12fe92d6fbec":[6,0,4083,3],
 "d6/d28/structSpellProcEventEntry.html#a931b2df4a187482e32ef252c3320080a":[6,0,4083,2],
-"d6/d28/structSpellProcEventEntry.html#a9a6d38ee4e4a35066780ef924c63f92f":[6,0,4083,6],
-"d6/d28/structSpellProcEventEntry.html#adf6742b70f0b00abddf1da6f45da3d16":[6,0,4083,1],
-"d6/d28/structSpellProcEventEntry.html#af253ef32b9de49fe85d0fe6f06855a60":[6,0,4083,4],
-"d6/d29/classnpc__battle__at__valhalas.html":[6,0,1632],
-"d6/d29/classnpc__battle__at__valhalas.html#a3660ba847b3b40c2d358d63c63517a5e":[6,0,1632,2],
-"d6/d29/classnpc__battle__at__valhalas.html#aacec717b5b91ae55307c9642779c15ec":[6,0,1632,1],
-"d6/d29/classnpc__battle__at__valhalas.html#addd76fd9f4b4f8ce706693614b80966b":[6,0,1632,3]
+"d6/d28/structSpellProcEventEntry.html#a9a6d38ee4e4a35066780ef924c63f92f":[6,0,4083,6]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX211 =
 {
+"d8/d2e/classboss__razorgore.html#a4683a5deefdb9d3219638189e9a99c2a":[6,0,667,2],
+"d8/d2e/classboss__razorgore.html#aee534a04797c5938e6da00f2ab119943":[6,0,667,1],
+"d8/d2e/classnpc__tyrion__spybot.html":[6,0,2213],
+"d8/d2e/classnpc__tyrion__spybot.html#a7e0eed1b51ffe1df2d8ae2ad37f26528":[6,0,2213,1],
+"d8/d2e/classnpc__tyrion__spybot.html#af81b70437703edc8d99fe24249891dd6":[6,0,2213,2],
+"d8/d2f/structnpc__pet__gen__wind__rider__cub.html":[6,0,2026],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a17e1f3155b9a9864459e48d1cd11c6a6":[6,0,2026,0],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a39fcfc5f5d9a630180713512db778b32":[6,0,2026,2],
 "d8/d2f/structnpc__pet__gen__wind__rider__cub.html#a534d122522d553e106e6c7729d6c55db":[6,0,2026,1],
@@ -97,8 +103,8 @@ var NAVTREEINDEX211 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61a4b504cc66a63b1f0150ac6d129222":[7,0,0,0,1,3,5,7,10,2,1],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aece2248203af84f6d210f9983dd0fa28":[7,0,0,0,1,3,5,7,10,2,3],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[6,0,1246,9,10],
 "d8/d37/classGuild_1_1RankInfo.html#aeb209d1e53f55b5b48bcd00979014eb8":[6,0,1246,9,17],
 "d8/d37/classspell__hun__bestial__wrath.html":[6,0,3099],
-"d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[6,0,3099,1],
-"d8/d37/classspell__hun__bestial__wrath.html#a4b34bd5ce9d3e948d6c712d71ed71b2d":[6,0,3099,2],
-"d8/d37/classspell__hun__bestial__wrath.html#ac1bc3f881c31c5ab90785a62a5f5b5ae":[6,0,3099,0],
-"d8/d38/LogOperation_8cpp.html":[7,0,0,0,0,9,15],
-"d8/d38/classspell__sapphiron__frost__explosion.html":[6,0,3742],
-"d8/d38/classspell__sapphiron__frost__explosion.html#a452937a4e95b40366f915213ec475a84":[6,0,3742,1],
-"d8/d38/classspell__sapphiron__frost__explosion.html#a4d5340e7b2e3326ff36b4d61d1faeaa9":[6,0,3742,0]
+"d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[6,0,3099,1]
 };

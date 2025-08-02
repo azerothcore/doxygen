@@ -1,5 +1,11 @@
 var NAVTREEINDEX279 =
 {
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193ca3a7ef21529b2f8f971425096975fb693":[7,0,0,0,1,3,9,4,180,2],
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193ca4c76316aec76ce55fc8516d2ccdb1f23":[7,0,0,0,1,3,9,4,180,3],
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193ca90e25a45dc95124995173c46b65ccd05":[7,0,0,0,1,3,9,4,180,4],
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193cab0aea49d421f53891c8facc418720cca":[7,0,0,0,1,3,9,4,180,0],
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193caba9744b337252a60437cdae1469afef9":[7,0,0,0,1,3,9,4,180,1],
+"db/d6e/spell__item_8cpp.html#a11200fac05193d09f917abbac827193cacce5b2ae1dbfa78b4a964b06bbc6657b":[7,0,0,0,1,3,9,4,180,5],
 "db/d6e/spell__item_8cpp.html#a17b847ba798c29b9e9f5240172b0f7ac":[7,0,0,0,1,3,9,4,192],
 "db/d6e/spell__item_8cpp.html#a17b847ba798c29b9e9f5240172b0f7aca40507b8524aaa93147a7d1f7649a46d6":[7,0,0,0,1,3,9,4,192,1],
 "db/d6e/spell__item_8cpp.html#a17b847ba798c29b9e9f5240172b0f7aca8066d7a1e09b6d8d4664bc2b48f66ea2":[7,0,0,0,1,3,9,4,192,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX279 =
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226facf98b779c795324d47e44b043eeacf92":[7,0,0,0,1,3,9,4,185,5],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,9,4,185,1],
 "db/d6e/spell__item_8cpp.html#adbcef29bbcbac3ddbf79e3a141771865":[7,0,0,0,1,3,9,4,175],
-"db/d6e/spell__item_8cpp.html#adbcef29bbcbac3ddbf79e3a141771865a5ea5b185f8ab9de0e712b44f672806e6":[7,0,0,0,1,3,9,4,175,0],
-"db/d6e/spell__item_8cpp.html#adf705bab0ed398c1490b5f1cf79c5a48":[7,0,0,0,1,3,9,4,173],
-"db/d6e/spell__item_8cpp.html#adf705bab0ed398c1490b5f1cf79c5a48a852a97251bc788e26ace69f03a1f00b6":[7,0,0,0,1,3,9,4,173,1],
-"db/d6e/spell__item_8cpp.html#adf705bab0ed398c1490b5f1cf79c5a48abb70c7b57382ad328311ae7170f05438":[7,0,0,0,1,3,9,4,173,0],
-"db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3a":[7,0,0,0,1,3,9,4,121],
-"db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3aa7c5949ded6d7e5ad08374ebef35e90d8":[7,0,0,0,1,3,9,4,121,0],
-"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963ef":[7,0,0,0,1,3,9,4,188]
+"db/d6e/spell__item_8cpp.html#adbcef29bbcbac3ddbf79e3a141771865a5ea5b185f8ab9de0e712b44f672806e6":[7,0,0,0,1,3,9,4,175,0]
 };

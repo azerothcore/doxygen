@@ -1,5 +1,11 @@
 var NAVTREEINDEX176 =
 {
+"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#aac5b72ede6e1496f80c4c2520e886efd":[6,0,1696,0,0],
+"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375":[6,0,1696,0,7],
+"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#ae79dcfdb10738d673e8c1aebc6abdee6":[6,0,1696,0,6],
+"d6/d92/GroupMgr_8cpp.html":[7,0,0,0,1,2,20,2],
+"d6/d93/classinstance__deadmines.html":[6,0,1292],
+"d6/d93/classinstance__deadmines.html#a91ec4b9d2c4dcb3b8a2822431259bc08":[6,0,1292,1],
 "d6/d93/classinstance__deadmines.html#ac5cb65972d52324cedf662cc44dca626":[6,0,1292,2],
 "d6/d93/classspell__item__map__of__the__geyser__fields.html":[6,0,3256],
 "d6/d93/classspell__item__map__of__the__geyser__fields.html#a0cd1fc05ee319b04299fcebe3a405bb4":[6,0,3256,1],
@@ -25,8 +31,8 @@ var NAVTREEINDEX176 =
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,951,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,951,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,951,3,4],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,951,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,951,3,0],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,951,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,951,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,951,3,12],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,951,3,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX176 =
 "d6/da0/classboss__algalon__the__observer.html":[6,0,367],
 "d6/da0/classboss__algalon__the__observer.html#a0691b47a116401da58b246203ecba2cb":[6,0,367,1],
 "d6/da0/classboss__algalon__the__observer.html#a4c30c6ddf8dcbc7c478250846f27a261":[6,0,367,2],
-"d6/da0/structBoardCell.html":[6,0,359],
-"d6/da0/structBoardCell.html#a0e57e888290cbe15b5dafa9788c3f86b":[6,0,359,2],
-"d6/da0/structBoardCell.html#a195c187e134be546f224cbb0eef8c844":[6,0,359,7],
-"d6/da0/structBoardCell.html#a1ecd0d14c1b4896f70caaee83e1c864d":[6,0,359,0],
-"d6/da0/structBoardCell.html#a22a71e9bd4a4dd9601aa0fffe978009c":[6,0,359,1],
-"d6/da0/structBoardCell.html#a49707efa5b356ad0dc6f6ff16a652430":[6,0,359,4],
-"d6/da0/structBoardCell.html#a74f494e406c56d4c61d79539acea684c":[6,0,359,6]
+"d6/da0/structBoardCell.html":[6,0,359]
 };

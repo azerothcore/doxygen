@@ -1,5 +1,11 @@
 var NAVTREEINDEX87 =
 {
+"d2/df0/classspell__illidan__demon__transform2__aura.html":[6,0,3168],
+"d2/df0/classspell__illidan__demon__transform2__aura.html#a038301fbb547469574efff88455be663":[6,0,3168,0],
+"d2/df0/classspell__illidan__demon__transform2__aura.html#a1b7b9bff5b3d906fa491846a4d5c6743":[6,0,3168,3],
+"d2/df0/classspell__illidan__demon__transform2__aura.html#a386df1300e6a99b02efd13ef4968e99a":[6,0,3168,2],
+"d2/df0/classspell__illidan__demon__transform2__aura.html#a8df384cc329cf20ddc5ac0d7bed0345f":[6,0,3168,1],
+"d2/df0/classspell__illidan__demon__transform2__aura.html#ad64a3fc1a66b9e8914099e501992f2aa":[6,0,3168,4],
 "d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html":[6,0,1646,0],
 "d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905":[6,0,1646,0,3],
 "d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a":[6,0,1646,0,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX87 =
 "d2/df6/DBCStores_8h.html#ae1befbcddb5f7115c1d06a15e379aafa":[7,0,0,0,1,2,14,1,85],
 "d2/df6/DBCStores_8h.html#ae1da802bd48a4bf2cce40a8b9e4c1cb9":[7,0,0,0,1,2,14,1,83],
 "d2/df6/DBCStores_8h.html#ae33f72acc556851465786fd8cfd961d6":[7,0,0,0,1,2,14,1,92],
-"d2/df6/DBCStores_8h.html#aec9dabc566bcb274ecd98daf1e07d13a":[7,0,0,0,1,2,14,1,29],
-"d2/df6/DBCStores_8h.html#aed8e397af9e1fd664bfdba10bea966c6":[7,0,0,0,1,2,14,1,76],
-"d2/df6/DBCStores_8h.html#aedd41232de632a297dc5d445263ed005":[7,0,0,0,1,2,14,1,26],
-"d2/df6/DBCStores_8h.html#af00952046ad30fb52804f21bcf62d8c9":[7,0,0,0,1,2,14,1,12],
-"d2/df6/DBCStores_8h.html#af01c29c525d4cac9994861f2233d3f78":[7,0,0,0,1,2,14,1,88],
-"d2/df6/DBCStores_8h.html#af0a6d713c423c9007d822c1a913228b4":[7,0,0,0,1,2,14,1,59],
-"d2/df6/DBCStores_8h.html#af595b9c42699d6d324b070d0f03f7c56":[7,0,0,0,1,2,14,1,82]
+"d2/df6/DBCStores_8h.html#aec9dabc566bcb274ecd98daf1e07d13a":[7,0,0,0,1,2,14,1,29]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX166 =
 {
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a88f7040db2bf60fb165a406571471fbb":[6,0,767,0,14],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a8ca86c4fee920d07cfafad3227e2203a":[6,0,767,0,6],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#ac30157884fa02dce34051d2f76f94d0a":[6,0,767,0,2],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#ad3d7333e624c70c9c635073a1909c67d":[6,0,767,0,9],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#ad7e3b70d671080294811e9fb191e880a":[6,0,767,0,13],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#af9dbc9026fe7baa41c6cf41b59ed81dc":[6,0,767,0,8],
 "d6/d36/scourge__invasion_8h.html":[7,0,0,0,1,3,10,17],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1":[7,0,0,0,1,3,10,17,0],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0030a2af758cc78fa7c100254aebd325":[7,0,0,0,1,3,10,17,0,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952adae79a1dd4151e202435bb74e7fe8574":[7,0,0,0,1,3,10,17,4,15],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae5f83282e51f1f5d8162ea510d746cc7":[7,0,0,0,1,3,10,17,4,14],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae9ad948fbac84f4ef83e5ced847db8f2":[7,0,0,0,1,3,10,17,4,0],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae9da601952efc0672b30fc0d8480ca27":[7,0,0,0,1,3,10,17,4,12],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aea1180af3e6171f36db3ab50ed8a0a0a":[7,0,0,0,1,3,10,17,4,8],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aea478c58dbafb71c57c3c45b4e32b138":[7,0,0,0,1,3,10,17,4,9],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4":[7,0,0,0,1,3,10,17,5],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[7,0,0,0,1,3,10,17,5,0],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[7,0,0,0,1,3,10,17,5,1],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[7,0,0,0,1,3,10,17,5,2]
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae9da601952efc0672b30fc0d8480ca27":[7,0,0,0,1,3,10,17,4,12]
 };

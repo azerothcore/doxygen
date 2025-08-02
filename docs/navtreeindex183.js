@@ -1,5 +1,11 @@
 var NAVTREEINDEX183 =
 {
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#a79095e25f1d9dac927f63cef67db60ec":[6,0,583,0,6],
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aaba17094bfe43c9ad63076f84d10a83a":[6,0,583,0,2],
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#acf9101c5b776820039fd80e5d6e0c138":[6,0,583,0,3],
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#adfa2ab8498279937bf497292d6e7cba5":[6,0,583,0,0],
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae163fbd682f09f2a49fa71309284ed3b":[6,0,583,0,5],
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae8bdb2bca7c01c564adab93f1dd67720":[6,0,583,0,4],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aec9cf7053476298f72dccf3bd1579c63":[6,0,583,0,8],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#afcd06280f8c7640ff9a56223f5bf3555":[6,0,583,0,7],
 "d7/d06/IoContext_8h.html":[7,0,0,0,0,0,1],
@@ -31,8 +37,8 @@ var NAVTREEINDEX183 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[6,0,3884,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,12],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,12,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20":[7,0,0,0,3,4,17,7,2],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192":[7,0,0,0,3,4,17,7,3],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b":[7,0,0,0,3,4,17,7,0],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc":[7,0,0,0,3,4,17,7,5],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a":[7,0,0,0,3,4,17,7,6],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885":[7,0,0,0,3,4,17,7,7],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6":[7,0,0,0,3,4,17,7,1],
-"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2":[7,0,0,0,3,4,17,7,4],
-"d7/d14/wmo_8h.html#a9148b3ef5b412564a285737b0bd104dd":[7,0,0,0,3,4,17,8],
-"d7/d14/wmo_8h.html#ab265837fe64577975f97318431c69e9c":[7,0,0,0,3,4,17,9]
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc":[7,0,0,0,3,4,17,7,5]
 };

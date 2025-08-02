@@ -1,5 +1,11 @@
 var NAVTREEINDEX170 =
 {
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a234b494cc45b5d3addb18fa3dfb73e5c":[7,0,0,0,1,3,9,0,51,2],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2aed45563fba2244820b2c42126a6d6a":[7,0,0,0,1,3,9,0,51,9],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b":[7,0,0,0,1,3,9,0,51,45],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a35625e507d77607cfa3bc73a9b74f9d7":[7,0,0,0,1,3,9,0,51,7],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a3873928a8407dc24bbdd276ea264f742":[7,0,0,0,1,3,9,0,51,31],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a464c9c78f561013a356d08c807f6676c":[7,0,0,0,1,3,9,0,51,13],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a4744b5fbb6fd56f982239a106098436e":[7,0,0,0,1,3,9,0,51,35],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a53ca9de3684293c553401665d84aa9ef":[7,0,0,0,1,3,9,0,51,10],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a6047c7e5c696dcb64565d5963b656ea6":[7,0,0,0,1,3,9,0,51,30],
@@ -161,10 +167,10 @@ var NAVTREEINDEX170 =
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,33],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,21,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,33,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,21,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2667],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[6,0,2667,5],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[6,0,2667,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec483c5dc4dd347726124f4364c7fffd":[7,0,0,0,1,3,2,1,1,8,4,6],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af100daf144a67fd9bd07604a8e75d395":[7,0,0,0,1,3,2,1,1,8,4,9],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af157e05094349065a07b2a4d620511cc":[7,0,0,0,1,3,2,1,1,8,4,3],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff9ec4d21319a9a6d64c4ccac6bda35f":[7,0,0,0,1,3,2,1,1,8,4,4],
-"d6/d5f/structnpc__ashtongue__channeler.html":[6,0,1609],
-"d6/d5f/structnpc__ashtongue__channeler.html#a4f58bbd2c44f7a3f9835fd55408ffaf4":[6,0,1609,3],
-"d6/d5f/structnpc__ashtongue__channeler.html#ab935559c19b18f9c94dd36c85be5b3b2":[6,0,1609,1],
-"d6/d5f/structnpc__ashtongue__channeler.html#af7217d00f87e56e5cdb411fcad161b51":[6,0,1609,0],
-"d6/d5f/structnpc__ashtongue__channeler.html#af855dfa521404c4e6127a9bf12a75604":[6,0,1609,2],
-"d6/d60/BattlegroundRL_8cpp.html":[7,0,0,0,1,2,8,1,14]
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff9ec4d21319a9a6d64c4ccac6bda35f":[7,0,0,0,1,3,2,1,1,8,4,4]
 };

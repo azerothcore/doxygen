@@ -1,5 +1,11 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a05ae9e64d040435671610db1d197e3e6":[7,0,0,0,1,2,8,1,3,19,62],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a072d7efbbd6bec05b8f48920615a78f4":[7,0,0,0,1,2,8,1,3,19,8],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a15d3d1da68a2cd450c16b38c774a87a9":[7,0,0,0,1,2,8,1,3,19,45],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a1bc0891ec82bb0d1866f80a90f1b6118":[7,0,0,0,1,2,8,1,3,19,40],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a1e86c53fe451bdfb299f72bc381963fc":[7,0,0,0,1,2,8,1,3,19,5],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a1eb32ed3306a3aa6218b1edc15fbaf13":[7,0,0,0,1,2,8,1,3,19,56],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a1ef7b789d372420ad2aeaab2797e2cee":[7,0,0,0,1,2,8,1,3,19,51],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a2239897183197291fbc9ccbef4ade42e":[7,0,0,0,1,2,8,1,3,19,32],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a23c01cdbd8ce485aa4d64fd8e5530158":[7,0,0,0,1,2,8,1,3,19,20],
@@ -243,11 +249,5 @@ var NAVTREEINDEX112 =
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ead6f9c53b48a8d46542d8aa31fe55b354":[7,0,0,0,1,3,5,9,2,8,29,4],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16eaf2b14c16553c0474381877b5d5e06271":[7,0,0,0,1,3,5,9,2,8,29,6],
 "d3/de1/boss__kologarn_8cpp.html#a5474b327fd67598f91eecb517c52b28f":[7,0,0,0,1,3,5,9,2,8,19],
-"d3/de1/boss__kologarn_8cpp.html#a5d2cb8976ffc2108e4ba108d0d85f927":[7,0,0,0,1,3,5,9,2,8,18],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89c":[7,0,0,0,1,3,5,9,2,8,32],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca06a62567695dff07c5277735c32f26de":[7,0,0,0,1,3,5,9,2,8,32,1],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca0d806ac1515dc8ba2fc29c152e07211d":[7,0,0,0,1,3,5,9,2,8,32,7],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca0fb66509e4ad93a706ace81bcd096bd7":[7,0,0,0,1,3,5,9,2,8,32,9],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca25ab67a25b9da6c5b0a7ed259c13e626":[7,0,0,0,1,3,5,9,2,8,32,6],
-"d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca26eae83af5d80ff77049cdc3e62a1ac5":[7,0,0,0,1,3,5,9,2,8,32,26]
+"d3/de1/boss__kologarn_8cpp.html#a5d2cb8976ffc2108e4ba108d0d85f927":[7,0,0,0,1,3,5,9,2,8,18]
 };

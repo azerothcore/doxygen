@@ -1,5 +1,11 @@
 var NAVTREEINDEX226 =
 {
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea465d29324f41dc0286952d883faa2103":[7,0,0,0,1,2,8,1,19,10,11],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259":[7,0,0,0,1,2,8,1,19,10,21],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea50dd1c58107cfd9c7e0728536abd952e":[7,0,0,0,1,2,8,1,19,10,13],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea839059eca54ba38023aa55cf145a7b8b":[7,0,0,0,1,2,8,1,19,10,19],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5":[7,0,0,0,1,2,8,1,19,10,25],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18":[7,0,0,0,1,2,8,1,19,10,24],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff":[7,0,0,0,1,2,8,1,19,10,16],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64":[7,0,0,0,1,2,8,1,19,10,23],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beab5b28e7ffb35f76df37b53d2c3a01a86":[7,0,0,0,1,2,8,1,19,10,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df1/classObjectRegistry.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2":[6,0,2325,0],
 "d8/df1/classObjectRegistry.html#aba4a4fcc7ee59afbb4dea6df7410dc02":[6,0,2325,3],
 "d8/df2/ArenaTeamFilterTest_8cpp.html":[7,0,0,0,2,2,0,0,0,1],
-"d8/df2/ArenaTeamFilterTest_8cpp.html#a03a46ff29d075ef3207bb12d9a539b5b":[7,0,0,0,2,2,0,0,0,1,5],
-"d8/df2/ArenaTeamFilterTest_8cpp.html#a0f9cf98a51ec8c4db75724bf81ef8c7c":[7,0,0,0,2,2,0,0,0,1,4],
-"d8/df2/ArenaTeamFilterTest_8cpp.html#a37c0d226ff50c702fc70274ea77f1f09":[7,0,0,0,2,2,0,0,0,1,3],
-"d8/df2/ArenaTeamFilterTest_8cpp.html#a9ce4d88bf97ee463db69de183769f18e":[7,0,0,0,2,2,0,0,0,1,2],
-"d8/df2/classspell__oculus__touch__the__nightmare.html":[6,0,3486],
-"d8/df2/classspell__oculus__touch__the__nightmare.html#a231f29ea69a354ddb2963cb4ef9a3f4e":[6,0,3486,2],
-"d8/df2/classspell__oculus__touch__the__nightmare.html#a71b88fbad5acbba47028dd1ff82b4836":[6,0,3486,0]
+"d8/df2/ArenaTeamFilterTest_8cpp.html#a03a46ff29d075ef3207bb12d9a539b5b":[7,0,0,0,2,2,0,0,0,1,5]
 };

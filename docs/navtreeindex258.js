@@ -1,5 +1,11 @@
 var NAVTREEINDEX258 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4b3181f5f44b6e76a758be6b51bc2f1":[7,0,0,0,1,3,5,6,10,83,21],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adc2b6e77f55d6d76aaedf3f893b5dbcd":[7,0,0,0,1,3,5,6,10,83,20],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae71303047bb2e125eb7e59b55686c7b9":[7,0,0,0,1,3,5,6,10,83,24],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aff1eb0cc2288bc3b19ffa162f126106f":[7,0,0,0,1,3,5,6,10,83,26],
+"da/d78/boss__the__lich__king_8cpp.html#aaf81d742c67304a0f6cbe7b87be35ae6":[7,0,0,0,1,3,5,6,10,72],
+"da/d78/boss__the__lich__king_8cpp.html#ab2cb971d4187e38d192355bc444cd305":[7,0,0,0,1,3,5,6,10,69],
 "da/d78/boss__the__lich__king_8cpp.html#ab32a5cf7794687cee9aeb034d04f50ea":[7,0,0,0,1,3,5,6,10,75],
 "da/d78/boss__the__lich__king_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3":[7,0,0,0,1,3,5,6,10,84],
 "da/d78/boss__the__lich__king_8cpp.html#ad4e69e3de965779321acd45af7b7c71b":[7,0,0,0,1,3,5,6,10,71],
@@ -243,11 +249,5 @@ var NAVTREEINDEX258 =
 "da/d7e/classspell__pri__penance.html#a9b9d5f862e9910f1a12780ff54b067ca":[6,0,3553,5],
 "da/d7e/classspell__pri__penance.html#ab9f09394ab301350a2abaefde90632fe":[6,0,3553,4],
 "da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[6,0,3553,0],
-"da/d7e/structSpawnSpells.html":[6,0,2579],
-"da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56":[6,0,2579,2],
-"da/d7e/structSpawnSpells.html#a2c430be201c1fd866ee96224f1803a20":[6,0,2579,0],
-"da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0":[6,0,2579,1],
-"da/d7f/structPosition_1_1PositionXYStreamer.html":[6,0,2431,0],
-"da/d7f/structPosition_1_1PositionXYStreamer.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b":[6,0,2431,0,0],
-"da/d7f/structPosition_1_1PositionXYStreamer.html#afb17e60540233b8861b6e967d0e44e07":[6,0,2431,0,1]
+"da/d7e/structSpawnSpells.html":[6,0,2579]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX106 =
 {
+"d3/db0/cs__misc_8cpp.html":[7,0,0,0,1,3,0,29],
+"d3/db0/cs__misc_8cpp.html#a1706df7feb0ef4f693c388033ace5fb7":[7,0,0,0,1,3,0,29,6],
+"d3/db0/cs__misc_8cpp.html#a181bdc61e4eb1d21db975ca0227cb086":[7,0,0,0,1,3,0,29,5],
+"d3/db0/cs__misc_8cpp.html#a704344ab0c20d3674c76d1dcf177ec9a":[7,0,0,0,1,3,0,29,4],
+"d3/db0/cs__misc_8cpp.html#aaedbdfd3cae227b11684151f41e3b977":[7,0,0,0,1,3,0,29,3],
+"d3/db0/cs__misc_8cpp.html#ac722d20c86b9502b7c4c8ae711cc3917":[7,0,0,0,1,3,0,29,2],
 "d3/db1/AllItemScript_8h.html":[7,0,0,0,1,2,38,0,15],
 "d3/db1/classOPvPCapturePointZM__Beacon.html":[6,0,2338],
 "d3/db1/classOPvPCapturePointZM__Beacon.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55":[6,0,2338,5],
@@ -35,8 +41,8 @@ var NAVTREEINDEX106 =
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,27,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,27,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,27,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX106 =
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#ad1da47485b8f17ea550a1b6bc943eb9a":[6,0,785,0,2],
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#ae1d69402520e1cf4d3a17c0ca9af35bd":[6,0,785,0,4],
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#aed0cc8f034454db0046a5adce7f9d8a0":[6,0,785,0,3],
-"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#af2d8d9a2ec7ec5876c99ae909d3befd2":[6,0,785,0,11],
-"d3/dc2/classboss__emeriss.html":[6,0,439],
-"d3/dc2/classboss__emeriss.html#a2d373e5add3f007cf214ad9763039aa2":[6,0,439,1],
-"d3/dc2/classboss__emeriss.html#a88a0696a12f12e612cce53c14f6b1f92":[6,0,439,2],
-"d3/dc2/classspell__dru__brambles__treant.html":[6,0,2811],
-"d3/dc2/classspell__dru__brambles__treant.html#a2f80dcd9e5922af55dee096c95079062":[6,0,2811,1],
-"d3/dc2/classspell__dru__brambles__treant.html#ad6e4bd4390f6f88494984af792a11b90":[6,0,2811,3]
+"d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#af2d8d9a2ec7ec5876c99ae909d3befd2":[6,0,785,0,11]
 };

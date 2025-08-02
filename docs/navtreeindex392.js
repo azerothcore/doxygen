@@ -1,5 +1,11 @@
 var NAVTREEINDEX392 =
 {
+"df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[6,0,311,58],
+"df/da7/classBattleground.html#a476285ec168eec279bf3d1a4bb99603d":[6,0,311,4],
+"df/da7/classBattleground.html#a47766d59a63f48306cedc29d0a2e4598":[6,0,311,114],
+"df/da7/classBattleground.html#a484f56188cd64eebe033d80091cdbfcf":[6,0,311,174],
+"df/da7/classBattleground.html#a49ddcc93f9d450bd0f81bb831f264aa1":[6,0,311,197],
+"df/da7/classBattleground.html#a4aec80e93d36c9d22033e764d0e426a9":[6,0,311,79],
 "df/da7/classBattleground.html#a4cfd483f662820fcd1ffaa0169719c5e":[6,0,311,152],
 "df/da7/classBattleground.html#a4e05c7ef0328f590519c14fa70d02cfa":[6,0,311,218],
 "df/da7/classBattleground.html#a500cd81f3701a8f7715f3c692cc2c4cf":[6,0,311,106],
@@ -174,10 +180,10 @@ var NAVTREEINDEX392 =
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,30,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,30,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,30,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,30,1,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,30,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,30,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2922],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2922,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2922,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX392 =
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a715b039dea752d6c6c517cb12c503e5e":[7,0,0,0,1,3,5,9,1,0,4,3],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,9,1,0,4,0],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a990d801452a3350349a1834c5905a761":[7,0,0,0,1,3,5,9,1,0,4,4],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,9,1,0,4,2],
-"df/dab/boss__krystallus_8cpp.html#af4edae984bfe1d62b750eec0e9b7c015":[7,0,0,0,1,3,5,9,1,0,7],
-"df/dae/classspell__drakkari__colossus__emerge.html":[6,0,2794],
-"df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[6,0,2794,1],
-"df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[6,0,2794,2],
-"df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[6,0,2794,0],
-"df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[6,0,2794,3]
+"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,9,1,0,4,2]
 };

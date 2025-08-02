@@ -1,5 +1,11 @@
 var NAVTREEINDEX304 =
 {
+"dc/d33/structTaxiNodesEntry.html#a685931e2a361f9e0fc81c004c7467d19":[6,0,4130,1],
+"dc/d33/structTaxiNodesEntry.html#a7cbd40848094fa367862d653b0f7170d":[6,0,4130,4],
+"dc/d33/structTaxiNodesEntry.html#a9380befd45cab3104003b2487464bd71":[6,0,4130,5],
+"dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[6,0,4130,2],
+"dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[6,0,4130,3],
+"dc/d34/boss__rage__winterchill_8cpp.html":[7,0,0,0,1,3,4,1,0,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[7,0,0,0,1,3,4,1,0,4,1,0],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a51038fe2b69e5fa3518ac526719344b6":[7,0,0,0,1,3,4,1,0,4,1,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a34c99ceca40c117ebce9f0fe4167334c":[7,0,0,0,1,3,5,11,0,3,8],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a43081076ec7d1db8340e265562ade445":[7,0,0,0,1,3,5,11,0,3,6],
 "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a55fb04232a8d205929af47e45598694b":[7,0,0,0,1,3,5,11,0,3,2],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a86e22653a6b84c4dcfc1df2dfd52133a":[7,0,0,0,1,3,5,11,0,3,3],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9aba75bf71c6edb08e61e849a79033bc04":[7,0,0,0,1,3,5,11,0,3,9],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac565bfbde4cd8bf5f38c76981c61dc33":[7,0,0,0,1,3,5,11,0,3,10],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7":[7,0,0,0,1,3,5,11,0,3,1],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,11,0,3,11],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af1861518bf62b7830a159108cf310f07":[7,0,0,0,1,3,5,11,0,3,4],
-"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af8cd99d54ceae1b1a250c4ad585ab79d":[7,0,0,0,1,3,5,11,0,3,7]
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a86e22653a6b84c4dcfc1df2dfd52133a":[7,0,0,0,1,3,5,11,0,3,3]
 };

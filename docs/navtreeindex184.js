@@ -1,5 +1,11 @@
 var NAVTREEINDEX184 =
 {
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a":[7,0,0,0,3,4,17,7,6],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885":[7,0,0,0,3,4,17,7,7],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6":[7,0,0,0,3,4,17,7,1],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2":[7,0,0,0,3,4,17,7,4],
+"d7/d14/wmo_8h.html#a9148b3ef5b412564a285737b0bd104dd":[7,0,0,0,3,4,17,8],
+"d7/d14/wmo_8h.html#ab265837fe64577975f97318431c69e9c":[7,0,0,0,3,4,17,9],
 "d7/d15/classspell__gen__replenishment__aura.html":[6,0,3002],
 "d7/d15/classspell__gen__replenishment__aura.html#a074a7de6cd4d930c1f23f6398c738bad":[6,0,3002,0],
 "d7/d15/classspell__gen__replenishment__aura.html#a335e1629b98bfacf6e4e565b94d4991e":[6,0,3002,3],
@@ -93,8 +99,8 @@ var NAVTREEINDEX184 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2274,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2274,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2274,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d22/classachievement__flame__leviathan__towers.html#ad6e9dee3f05afaca0a355b714bf75ea6":[6,0,51,1],
 "d7/d22/classinstance__blackwing__lair.html":[6,0,1288],
 "d7/d22/classinstance__blackwing__lair.html#a70aff4e1bb406f232d0b4961037ed0a1":[6,0,1288,2],
-"d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1288,1],
-"d7/d23/structboss__magus__telestra.html":[6,0,603],
-"d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[6,0,603,10],
-"d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[6,0,603,5],
-"d7/d23/structboss__magus__telestra.html#a5738bf62869f9958448213b28c1bf771":[6,0,603,11],
-"d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[6,0,603,2],
-"d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[6,0,603,7]
+"d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1288,1]
 };

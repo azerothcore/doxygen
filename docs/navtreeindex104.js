@@ -1,5 +1,11 @@
 var NAVTREEINDEX104 =
 {
+"d3/da1/npc__professions_8cpp.html#a1f66fb239b5988d38308cd212cb24b5f":[7,0,0,0,1,3,10,10,48],
+"d3/da1/npc__professions_8cpp.html#a23419094e5207009961e69b5da37264e":[7,0,0,0,1,3,10,10,23],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262":[7,0,0,0,1,3,10,10,54],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a06176eb78877602cf07494f18376eca4":[7,0,0,0,1,3,10,10,54,5],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a0f56c937222227916f6c823dde9b2810":[7,0,0,0,1,3,10,10,54,32],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a1a24c19a60fc46aed47ce3d90a9a8cdb":[7,0,0,0,1,3,10,10,54,25],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a1d1c5e1cc3bdd5f236c84791017d9061":[7,0,0,0,1,3,10,10,54,34],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a23b42dd6ce90e5fa3c178f5527de6499":[7,0,0,0,1,3,10,10,54,33],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a24cd23cc5e5088e7641d8765df5f929b":[7,0,0,0,1,3,10,10,54,3],
@@ -237,17 +243,11 @@ var NAVTREEINDEX104 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,2980,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,2980,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,2980,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,197],
 "d3/da8/classArenaTeamMgr.html#a01ce085cf6d7c90b6ffb40a531dfc2a1":[6,0,197,18],
-"d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[6,0,197,16],
-"d3/da8/classArenaTeamMgr.html#a0b0428d66b7523b4c0674c260642685c":[6,0,197,21],
-"d3/da8/classArenaTeamMgr.html#a15b74f88c2715c9bd8baa3059284f715":[6,0,197,5],
-"d3/da8/classArenaTeamMgr.html#a1a51bca59808fd66784e6f1dd4342bff":[6,0,197,20],
-"d3/da8/classArenaTeamMgr.html#a289b2d6681e4dbf483f9e6bb8d4d4f97":[6,0,197,9],
-"d3/da8/classArenaTeamMgr.html#a37ceab8c1edeb0c8915c37886dc4e7c2":[6,0,197,7],
-"d3/da8/classArenaTeamMgr.html#a4e697b78b35e1f320a094389ec39885e":[6,0,197,12]
+"d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[6,0,197,16]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX200 =
 {
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a4f45facb49cb5c1a8b0565e87dccf50e":[6,0,483,0,1],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a64f2b0426491f1471c8cf653e94a2fa2":[6,0,483,0,3],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#a8333b3f2637f029de4182ca16e2fb634":[6,0,483,0,4],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#ac2653a5664c87045df16f2fdcf850edf":[6,0,483,0,2],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#aea65a8fab859db4396690d846d10f5a1":[6,0,483,0,5],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#afd3e486cd9a0ac18d10675f40f7f6314":[6,0,483,0,0],
 "d7/daa/LFG_8cpp.html":[7,0,0,0,1,2,15,0],
 "d7/daa/LFG_8cpp.html#a9d097d73fe8f096de2098ac74022b643":[7,0,0,0,1,2,15,0,2],
 "d7/daa/LFG_8cpp.html#adc336ffd636b51b0052448739671d46b":[7,0,0,0,1,2,15,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX200 =
 "d7/db0/classMap.html#ab9855e187255da4c4bdb41c5debadcb0":[6,0,1472,237],
 "d7/db0/classMap.html#abd2e3763ea880bfd74f4b1288ca16e89":[6,0,1472,241],
 "d7/db0/classMap.html#abd3105b1a9479ade772f6a4c47d4c83b":[6,0,1472,37],
-"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1472,162],
-"d7/db0/classMap.html#abdac644dc3c8b30989d16efe624c8894":[6,0,1472,115],
-"d7/db0/classMap.html#abdb1b9067ac6ad5b27ec537c654a2e1a":[6,0,1472,142],
-"d7/db0/classMap.html#abe71c918251dd915dc490c0c2e78ea97":[6,0,1472,59],
-"d7/db0/classMap.html#abea8ed605071226978969647a0246e86":[6,0,1472,99],
-"d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1472,224],
-"d7/db0/classMap.html#ac07f125a1ad7ad6f22cd18dbe20208f3":[6,0,1472,31]
+"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1472,162]
 };
