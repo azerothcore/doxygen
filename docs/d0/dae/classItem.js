@@ -3,7 +3,7 @@ var classItem =
     [ "Item", "d0/dae/classItem.html#a297720c02984eab37332ae795d22189d", null ],
     [ "AddToObjectUpdate", "d0/dae/classItem.html#a018d8a31e396b72d1c89f82a105b82c4", null ],
     [ "AddToUpdateQueueOf", "d0/dae/classItem.html#a2ed8c205c8eaad39cd76b5e306626c5d", null ],
-    [ "BuildUpdate", "d0/dae/classItem.html#a9fa0718dad055e6f36f852d2aec8b7c5", null ],
+    [ "BuildUpdate", "d0/dae/classItem.html#ac2d91300d3c3debda7ba06285333fb6b", null ],
     [ "CanBeMergedPartlyWith", "d0/dae/classItem.html#ac17f50a1f832e912fcab28ce6ae417f0", null ],
     [ "CanBeTraded", "d0/dae/classItem.html#a40a343721d15fca2bbaa4e980e676fa7", null ],
     [ "CheckSoulboundTradeExpire", "d0/dae/classItem.html#ad2918b21a6875d079aab36358df8660a", null ],

@@ -8,6 +8,8 @@ var dir_7cceb56be83a77325820340cc4b7f0cb =
     [ "ObjectGuid.h", "dc/dc9/ObjectGuid_8h.html", "dc/dc9/ObjectGuid_8h" ],
     [ "ObjectPosSelector.cpp", "db/d27/ObjectPosSelector_8cpp.html", null ],
     [ "ObjectPosSelector.h", "df/d0a/ObjectPosSelector_8h.html", "df/d0a/ObjectPosSelector_8h" ],
+    [ "ObjectVisibilityContainer.cpp", "dd/d11/ObjectVisibilityContainer_8cpp.html", null ],
+    [ "ObjectVisibilityContainer.h", "d9/ddb/ObjectVisibilityContainer_8h.html", "d9/ddb/ObjectVisibilityContainer_8h" ],
     [ "Position.cpp", "d4/df6/Position_8cpp.html", "d4/df6/Position_8cpp" ],
     [ "Position.h", "de/dff/Position_8h.html", "de/dff/Position_8h" ]
 ];

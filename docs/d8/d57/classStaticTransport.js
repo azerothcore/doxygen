@@ -3,7 +3,7 @@ var classStaticTransport =
     [ "StaticTransport", "d8/d57/classStaticTransport.html#a85d28733791b54ab76af97338c83d293", null ],
     [ "~StaticTransport", "d8/d57/classStaticTransport.html#ade4493306f4ae366de36318ecb135c18", null ],
     [ "AddPassenger", "d8/d57/classStaticTransport.html#a2139a5fe8d531e332d6e12678fb3167b", null ],
-    [ "BuildUpdate", "d8/d57/classStaticTransport.html#a0062abb9d323f52361b7a0faa72bbf4f", null ],
+    [ "BuildUpdate", "d8/d57/classStaticTransport.html#a79bfe2856ccc526b03b308158db9e8fc", null ],
     [ "CleanupsBeforeDelete", "d8/d57/classStaticTransport.html#aec75e819a3de528d282e0a1b72c3d460", null ],
     [ "Create", "d8/d57/classStaticTransport.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
     [ "GetPauseTime", "d8/d57/classStaticTransport.html#a6be1d21626f3749b695413d9a6703823", null ],

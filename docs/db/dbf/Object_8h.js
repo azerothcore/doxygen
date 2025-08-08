@@ -11,7 +11,6 @@ var Object_8h =
     [ "WorldObject", "d4/dd0/classWorldObject.html", "d4/dd0/classWorldObject" ],
     [ "Acore::ObjectDistanceOrderPred", "df/d25/classAcore_1_1ObjectDistanceOrderPred.html", "df/d25/classAcore_1_1ObjectDistanceOrderPred" ],
     [ "UpdateDataMapType", "db/dbf/Object_8h.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "UpdatePlayerSet", "db/dbf/Object_8h.html#abc4c822bd43dd0c1ea669b791c856405", null ],
     [ "GOSummonType", "db/dbf/Object_8h.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
       [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "db/dbf/Object_8h.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
       [ "GO_SUMMON_TIMED_DESPAWN", "db/dbf/Object_8h.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]

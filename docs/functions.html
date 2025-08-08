@@ -1420,6 +1420,7 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <li>_objectStateMap&#160;:&#160;<a class="el" href="d2/d1e/classInstanceScript.html#aa551f0a05c1251d331e33e83b3887bce">InstanceScript</a></li>
 <li>_objectTypes&#160;:&#160;<a class="el" href="d6/d79/classOPvPCapturePoint.html#a1126a3446be336ec8518b9738147d69e">OPvPCapturePoint</a></li>
 <li>_objectVector&#160;:&#160;<a class="el" href="d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26">ObjectGuidVector</a></li>
+<li>_objectVisibilityContainer&#160;:&#160;<a class="el" href="d4/dd0/classWorldObject.html#aef94cc85f8e582661e63e1538f4abb2e">WorldObject</a></li>
 <li>_offlineSessions&#160;:&#160;<a class="el" href="d0/d5e/classWorldSessionMgr.html#a385de87355e09051dff5aed1350d63ac">WorldSessionMgr</a></li>
 <li>_offlineTime&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a1b35c9cc44f1bec257a2c20140c11646">WorldSession</a></li>
 <li>_offlineUpdatesDelayTimer&#160;:&#160;<a class="el" href="d8/d77/classAchievementMgr.html#af7d09a44aa2a1e4021d0ebfe928d3c3e">AchievementMgr</a></li>
@@ -1782,6 +1783,7 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <li>_seed&#160;:&#160;<a class="el" href="db/d5c/classWarden.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">Warden</a></li>
 <li>_selectionTimer&#160;:&#160;<a class="el" href="df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ad004ccbe33b4eacff3ac5b5b28709df0">npc_pet_dk_ebon_gargoyle</a></li>
 <li>_self&#160;:&#160;<a class="el" href="d0/d48/classKillMagnetEvent.html#a0fe06efbc00b38f98f2e077d7dfb1941">KillMagnetEvent</a>, <a class="el" href="df/d36/classRedirectSpellEvent.html#aecfa190843c1493b47652ccdac7ae9c3">RedirectSpellEvent</a>, <a class="el" href="da/dc6/classResetToHomeOrientation.html#a5233190cd777c3d65f2e1c4ce1d6efb2">ResetToHomeOrientation</a>, <a class="el" href="dd/d6c/classVehicleDespawnEvent.html#a0d472ea9a1a7b615f01c73d20cfc6573">VehicleDespawnEvent</a></li>
+<li>_selfObject&#160;:&#160;<a class="el" href="d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">ObjectVisibilityContainer</a></li>
 <li>_SendBankContent()&#160;:&#160;<a class="el" href="de/d79/classGuild.html#aa35aaff8114e214a4900b2b39a02c08b">Guild</a></li>
 <li>_SendBankContentUpdate()&#160;:&#160;<a class="el" href="de/d79/classGuild.html#ad245500a81dcb14490d5e272a4617003">Guild</a></li>
 <li>_SendBankList()&#160;:&#160;<a class="el" href="de/d79/classGuild.html#a2f5789fbad9d569864fe4c13f5774c7f">Guild</a></li>
@@ -2155,6 +2157,8 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <li>_visible&#160;:&#160;<a class="el" href="d9/d20/classWhoListPlayerInfo.html#a5e574ae52509f19b32c94d2dd9afca3f">WhoListPlayerInfo</a></li>
 <li>_visibleBySummonerOnly&#160;:&#160;<a class="el" href="dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25">TempSummon</a></li>
 <li>_visibleFactionCount&#160;:&#160;<a class="el" href="dd/db3/classReputationMgr.html#a280ebed9e395766fdc239e3c3472b221">ReputationMgr</a></li>
+<li>_visiblePlayersMap&#160;:&#160;<a class="el" href="d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">ObjectVisibilityContainer</a></li>
+<li>_visibleWorldObjectsMap&#160;:&#160;<a class="el" href="d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">ObjectVisibilityContainer</a></li>
 <li>_visualTimer&#160;:&#160;<a class="el" href="d3/d0e/structboss__yoggsaron__immortal__guardian_1_1boss__yoggsaron__immortal__guardianAI.html#a8c382c37aaa3d20cfc0fe604af52bef4">boss_yoggsaron_immortal_guardian::boss_yoggsaron_immortal_guardianAI</a></li>
 <li>_voiceEluneGUID&#160;:&#160;<a class="el" href="df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642">npc_ranshalla::npc_ranshallaAI</a></li>
 <li>_walk&#160;:&#160;<a class="el" href="de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a97f3cd9b1c5919ffe9ab979d8ad4e747">HomeMovementGenerator&lt; Creature &gt;</a></li>
@@ -2219,7 +2223,7 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Aug 7 2025 06:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Aug 8 2025 06:29:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

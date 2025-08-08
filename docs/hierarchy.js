@@ -2854,6 +2854,7 @@ var hierarchy =
     [ "ObjectPosSelector", "de/da1/structObjectPosSelector.html", null ],
     [ "ObjectRegistry< T, Key >", "d8/df1/classObjectRegistry.html", null ],
     [ "Acore::ObjectTypeIdCheck", "d5/d34/classAcore_1_1ObjectTypeIdCheck.html", null ],
+    [ "ObjectVisibilityContainer", "d3/d9f/classObjectVisibilityContainer.html", null ],
     [ "OpcodeHandler", "da/d15/classOpcodeHandler.html", [
       [ "ClientOpcodeHandler", "d5/ddc/classClientOpcodeHandler.html", [
         [ "PacketHandler< PacketClass, HandlerFunction >", "d3/db9/classPacketHandler.html", null ],
@@ -5989,7 +5990,6 @@ var hierarchy =
     [ "WorldMapOverlayEntry", "d7/d5c/structWorldMapOverlayEntry.html", null ],
     [ "VMAP::WorldModel", "d5/db0/classVMAP_1_1WorldModel.html", null ],
     [ "VMAP::WorldModel_Raw", "d1/dd3/structVMAP_1_1WorldModel__Raw.html", null ],
-    [ "WorldObjectChangeAccumulator", "d0/d09/structWorldObjectChangeAccumulator.html", null ],
     [ "Acore::WorldObjectLastSearcher< Check >", "de/dff/structAcore_1_1WorldObjectLastSearcher.html", null ],
     [ "Acore::WorldObjectSearcher< Check >", "d8/dfd/structAcore_1_1WorldObjectSearcher.html", null ],
     [ "Acore::WorldObjectSpellTargetCheck", "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html", [

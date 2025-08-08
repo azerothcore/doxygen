@@ -9,7 +9,6 @@ var searchData=
   ['unitlist_6',['UnitList',['../d1/daf/Unit_8h.html#abbe331960980fa852a0be15ccebef947',1,'Unit.h']]],
   ['updatableobjectlist_7',['UpdatableObjectList',['../d7/db0/classMap.html#aa42c0d09457694f91dc5f29d61ac394c',1,'Map']]],
   ['updatedatamaptype_8',['UpdateDataMapType',['../db/dbf/Object_8h.html#ac58dd2c514e262c6b68700fb72c69231',1,'Object.h']]],
-  ['updateplayerset_9',['UpdatePlayerSet',['../db/dbf/Object_8h.html#abc4c822bd43dd0c1ea669b791c856405',1,'Object.h']]],
-  ['usedposlist_10',['UsedPosList',['../de/da1/structObjectPosSelector.html#a76a3553e006171560baf7aa7cc2bc163',1,'ObjectPosSelector']]],
-  ['usedspellmods_11',['UsedSpellMods',['../d1/d16/classSpell.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2',1,'Spell']]]
+  ['usedposlist_9',['UsedPosList',['../de/da1/structObjectPosSelector.html#a76a3553e006171560baf7aa7cc2bc163',1,'ObjectPosSelector']]],
+  ['usedspellmods_10',['UsedSpellMods',['../d1/d16/classSpell.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2',1,'Spell']]]
 ];

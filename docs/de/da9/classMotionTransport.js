@@ -3,7 +3,7 @@ var classMotionTransport =
     [ "MotionTransport", "de/da9/classMotionTransport.html#a24a24b50b93abe1ca2a205844fced677", null ],
     [ "~MotionTransport", "de/da9/classMotionTransport.html#a8cfae4b0a718455dd2f4b0949db0b4fb", null ],
     [ "AddPassenger", "de/da9/classMotionTransport.html#a6f7fac08a333c9dc11f49ad62aad4850", null ],
-    [ "BuildUpdate", "de/da9/classMotionTransport.html#a73149bfcbcdaf935d6bd678a3850c3c8", null ],
+    [ "BuildUpdate", "de/da9/classMotionTransport.html#a8c3fe66b27e154a97226d420beae007e", null ],
     [ "CalculateSegmentPos", "de/da9/classMotionTransport.html#a50ceb5a1c496ba4ad862e172fb0554e6", null ],
     [ "CleanupsBeforeDelete", "de/da9/classMotionTransport.html#a1b4fa58c553296aa45dc077f19feb47e", null ],
     [ "CreateGOPassenger", "de/da9/classMotionTransport.html#a47548b40dcb724188f94bb0bbf3475a2", null ],

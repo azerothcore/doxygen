@@ -24,7 +24,7 @@ var classObject =
     [ "BuildMovementUpdate", "d8/d4b/classObject.html#a746a9cdc3aac47c535b8e015fffab93a", null ],
     [ "BuildMovementUpdateBlock", "d8/d4b/classObject.html#a190839bf696f5032a67219787ba2e772", null ],
     [ "BuildOutOfRangeUpdateBlock", "d8/d4b/classObject.html#ad591516e39981b3684a9274ce6152f3d", null ],
-    [ "BuildUpdate", "d8/d4b/classObject.html#a6d75290f4874c7f1542e4601e0c17f83", null ],
+    [ "BuildUpdate", "d8/d4b/classObject.html#abc1112c1f83179c708fa5fd3fa8e3845", null ],
     [ "BuildValuesUpdate", "d8/d4b/classObject.html#a1ff0a1e26222445cfe693d7ce0f8742b", null ],
     [ "BuildValuesUpdateBlockForPlayer", "d8/d4b/classObject.html#a1938ffb46fe5a170588fa3ba7784b85c", null ],
     [ "ClearUpdateMask", "d8/d4b/classObject.html#a8a75ada284806c5ee19fd53a48ba6924", null ],
