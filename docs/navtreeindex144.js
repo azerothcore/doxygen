@@ -1,7 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a9ec1abead0774fc9b03a5fdfd3b94c62":[7,0,0,0,1,3,5,8,2,5,20,9],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528adfbf98e4377ddf5ada53b9d204099c5d":[7,0,0,0,1,3,5,8,2,5,20,8],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528af541b20e84bf5f579d9e482d7aa8a8be":[7,0,0,0,1,3,5,8,2,5,20,0],
 "d5/d4c/oculus_8cpp.html#aa8f1a8c35b82599cd1ebfc60ae15931c":[7,0,0,0,1,3,5,8,2,5,21],
 "d5/d4c/oculus_8cpp.html#aad8883e78e9afef9daca7491aa162c8c":[7,0,0,0,1,3,5,8,2,5,18],
@@ -144,8 +142,8 @@ var NAVTREEINDEX144 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[6,0,1835,0,4],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[6,0,1835,0,2],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[6,0,1835,0,5],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[6,0,3868],
@@ -154,16 +152,16 @@ var NAVTREEINDEX144 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[6,0,3868,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[6,0,3868,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3868,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,30,5,52],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,30,5,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,30,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,30,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,30,5,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,30,5,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,30,5,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3355],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3355,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3355,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX144 =
 "d5/d5b/classspell__q10930__big__bone__worm.html#ac57aee08a131bcf7db11bc105f32242c":[6,0,3607,1],
 "d5/d5b/structContainerMapList.html":[6,0,898],
 "d5/d5b/structContainerMapList.html#a9130a796cd6534c1da2c82f02568348c":[6,0,898,0],
-"d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI.html":[6,0,1128,0]
+"d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI.html":[6,0,1128,0],
+"d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI.html#a2ee13dd1260c1ad5b810c25665c9ec87":[6,0,1128,0,0],
+"d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI.html#a9a4c983f11c4d912f31eaaf351afc016":[6,0,1128,0,3]
 };

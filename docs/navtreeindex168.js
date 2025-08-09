@@ -1,7 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d39/classWorld.html#aed78fef424de1212a0f25f5e40067b77":[4,2,11,78],
-"d6/d39/classWorld.html#aefc904a17c8288178dfaeb17cc46d066":[4,2,11,74],
 "d6/d39/classWorld.html#aeff3f8a7fdef7caaa925014a540ba040":[4,2,11,61],
 "d6/d39/classWorld.html#af0e397fef43d8165502535de9d48da4d":[4,2,11,13],
 "d6/d39/classWorld.html#af27489b9c412e1b060ac4b20ec652e50":[4,2,11,63],
@@ -130,8 +128,8 @@ var NAVTREEINDEX168 =
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,14,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[6,0,3,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,14,0,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[6,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,14,0,1],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[6,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[6,0,3,0,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,14,0,2],
 "d6/d46/classspell__sha__heroism.html":[6,0,3775],
@@ -201,18 +199,18 @@ var NAVTREEINDEX168 =
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,27,26],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[6,0,9,26,1],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,27,26,1],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[6,0,9,26,5],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[5,0,27,26,5],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[6,0,9,26,0],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[6,0,9,26,5],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[5,0,27,26,0],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[6,0,9,26,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3":[5,0,27,26,3],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3":[6,0,9,26,3],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d":[5,0,27,26,4],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d":[6,0,9,26,4],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[5,0,27,26,7],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[6,0,9,26,7],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[6,0,9,26,2],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[5,0,27,26,2],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[6,0,9,26,2],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[5,0,27,26,6],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[6,0,9,26,6],
 "d6/d4c/structboss__pathaleon__the__calculator.html":[6,0,653],
@@ -249,5 +247,7 @@ var NAVTREEINDEX168 =
 "d6/d4f/BattlefieldWG_8h.html#a429fdb51497ac03b7447f5492148fb7b":[7,0,0,0,1,2,7,0,1,32],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cc":[7,0,0,0,1,2,7,0,1,21],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca77400c19a9af26681f70c2e55941a791":[7,0,0,0,1,2,7,0,1,21,0],
-"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca84847bfa42e5c1b7a81f11ba4b230893":[7,0,0,0,1,2,7,0,1,21,5]
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca84847bfa42e5c1b7a81f11ba4b230893":[7,0,0,0,1,2,7,0,1,21,5],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca9ab26738a95567e4fe7d6feacb698627":[7,0,0,0,1,2,7,0,1,21,4],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccaaa05846cad8ebb99baf4ee49e09c7ac6":[7,0,0,0,1,2,7,0,1,21,2]
 };

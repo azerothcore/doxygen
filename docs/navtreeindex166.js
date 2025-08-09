@@ -1,7 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b":[6,0,1260,2],
-"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[6,0,1260,5],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html":[6,0,767,0],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a2b6132a6a89ed8f9fc215b1342642fed":[6,0,767,0,12],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4104a8f6b91f568d537447cf9a9339b5":[6,0,767,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX166 =
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a04da99be9c6585d81c2686b15ca993b2":[7,0,0,0,1,3,10,17,4,2],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a0cb5f91a20a22cd46707322f6a2d16b8":[7,0,0,0,1,3,10,17,4,6],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a1b7353b2c16ae02af552aefecd6836d8":[7,0,0,0,1,3,10,17,4,13],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a40009f23eef75f5fadd0de04f7e45476":[7,0,0,0,1,3,10,17,4,7]
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a40009f23eef75f5fadd0de04f7e45476":[7,0,0,0,1,3,10,17,4,7],
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a403d6ff5fa2ee8e66e0e55047569217b":[7,0,0,0,1,3,10,17,4,1],
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a4cc970f934087d149f6cca0688744647":[7,0,0,0,1,3,10,17,4,10]
 };

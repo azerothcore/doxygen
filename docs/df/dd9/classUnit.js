@@ -22,7 +22,7 @@ var classUnit =
     [ "ValuesUpdateCache", "df/dd9/classUnit.html#a119e11ced40afde3ed38a7234a5e8415", null ],
     [ "VisibleAuraMap", "df/dd9/classUnit.html#a6bbd36a660c01a3d5f3e28a6e8eb894c", null ],
     [ "~Unit", "df/dd9/classUnit.html#a2d7e4f068f5efd9b97578bfe582eb885", null ],
-    [ "Unit", "df/dd9/classUnit.html#abb9fa878de36602afb4330946ed38223", null ],
+    [ "Unit", "df/dd9/classUnit.html#a8e46f663a95736c8002d85ab271a7581", null ],
     [ "_addAttacker", "df/dd9/classUnit.html#a4b3236aa929e3dbfc33e6357bfc643d0", null ],
     [ "_AddAura", "df/dd9/classUnit.html#a95169cc622a982afdbb1e5d865148c9d", null ],
     [ "_ApplyAllAuraStatMods", "df/dd9/classUnit.html#a7e9df05116e5e769625caa5f47bf407e", null ],

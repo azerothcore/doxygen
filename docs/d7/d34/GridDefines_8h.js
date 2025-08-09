@@ -17,13 +17,12 @@ var GridDefines_8h =
     [ "CreatureMapType", "d7/d34/GridDefines_8h.html#ac60ef2e7adf9bc71b50d675b4b74980b", null ],
     [ "DynamicObjectMapType", "d7/d34/GridDefines_8h.html#a5957bb381cc7067b3da243bb5999e870", null ],
     [ "GameObjectMapType", "d7/d34/GridDefines_8h.html#aad35d1efe9e8a57f45c0740a89bf9fbf", null ],
-    [ "GridCellType", "d7/d34/GridDefines_8h.html#a679a3f15bd5a978e7d9dedab94f5baf6", null ],
+    [ "GridCellType", "d7/d34/GridDefines_8h.html#ae1868802d6bb4578019077d06ee38a17", null ],
     [ "GridCoord", "d7/d34/GridDefines_8h.html#a56cc9baa50cd4031aeac2999eb38ea37", null ],
-    [ "GridTypeMapContainer", "d7/d34/GridDefines_8h.html#a6c68e56dd36484469799a782d29c9c0e", null ],
-    [ "MapGridType", "d7/d34/GridDefines_8h.html#ae98d6a027a620a037e8c699d935537bf", null ],
+    [ "GridTypeMapContainer", "d7/d34/GridDefines_8h.html#a9bb9afe2207e6266d412c3b73369f10d", null ],
+    [ "MapGridType", "d7/d34/GridDefines_8h.html#a52e1800fe4fafdd7f4fb34e2b68e6f56", null ],
     [ "MapStoredObjectTypesContainer", "d7/d34/GridDefines_8h.html#ad13d154e097273b41f91b7a7e6cccac0", null ],
     [ "PlayerMapType", "d7/d34/GridDefines_8h.html#ae35a7f6754cf9950d0027369ada820e7", null ],
-    [ "WorldTypeMapContainer", "d7/d34/GridDefines_8h.html#a5bb8ca8e4f69040bd100138c05a96c0c", null ],
     [ "GridMapTypeMask", "d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1", [
       [ "GRID_MAP_TYPE_MASK_CORPSE", "d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1acfb3c6070b685ab5b76dd056f220e84f", null ],
       [ "GRID_MAP_TYPE_MASK_CREATURE", "d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1a5619b6974a16694495987197827dd1f7", null ],
@@ -43,7 +42,6 @@ var GridDefines_8h =
     [ "NormalizeMapCoord", "d7/d34/GridDefines_8h.html#a081c4b764dd94224c4a046465c5c6274", null ],
     [ "operator!=", "d7/d34/GridDefines_8h.html#af248e8cd4ecc7161bfb1e6aa879f3cd5", null ],
     [ "operator==", "d7/d34/GridDefines_8h.html#aa7265bcec280e27580381098105c0cae", null ],
-    [ "TYPELIST_4", "d7/d34/GridDefines_8h.html#a5ebde15d217643470aa78ab8c0802fa3", null ],
-    [ "TYPELIST_4", "d7/d34/GridDefines_8h.html#a0df586df2bb0b2975a2c25641f590234", null ],
-    [ "TYPELIST_5", "d7/d34/GridDefines_8h.html#a0461f7fcad6a1a978cffb6845cf9b4ed", null ]
+    [ "TYPELIST_4", "d7/d34/GridDefines_8h.html#a4a59f608393c8212378abeeab7ab1e34", null ],
+    [ "TYPELIST_5", "d7/d34/GridDefines_8h.html#a39b4829445d6f736c035f7c3ebfbbdda", null ]
 ];

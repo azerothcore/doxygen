@@ -1,6 +1,6 @@
 var classWorldObject =
 [
-    [ "WorldObject", "d4/dd0/classWorldObject.html#a9565cd7dca5fa819f28f334e45bee2bc", null ],
+    [ "WorldObject", "d4/dd0/classWorldObject.html#a632d2e78acdcbc0aef09951134340d4e", null ],
     [ "~WorldObject", "d4/dd0/classWorldObject.html#aeabb8ef7d4741b002bc4c57199b2d3a5", null ],
     [ "_Create", "d4/dd0/classWorldObject.html#a37401ba6edd4b7f1da216a9e5145970d", null ],
     [ "_IsWithinDist", "d4/dd0/classWorldObject.html#af6cb8a7e049199c45805f2d1297e9900", null ],
@@ -127,7 +127,6 @@ var classWorldObject =
     [ "IsWithinDistInMap", "d4/dd0/classWorldObject.html#ab73407bcdf13a30519a953d24773ed02", null ],
     [ "IsWithinLOS", "d4/dd0/classWorldObject.html#a9ddb6dae0ed9e02166b45ea3c0a9d92d", null ],
     [ "IsWithinLOSInMap", "d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2", null ],
-    [ "IsWorldObject", "d4/dd0/classWorldObject.html#a1ec3a87ba5545d1111e166c9faef9865", null ],
     [ "MovePosition", "d4/dd0/classWorldObject.html#af1a07406645d5615e49109837b613e11", null ],
     [ "MovePositionToFirstCollision", "d4/dd0/classWorldObject.html#a51ee0969c43fed32eacf1a56e24393eb", null ],
     [ "NotifyExecuted", "d4/dd0/classWorldObject.html#a01ba49d253cef5ec2604ee539163efdd", null ],
@@ -193,7 +192,6 @@ var classWorldObject =
     [ "m_invisibilityDetect", "d4/dd0/classWorldObject.html#a535383de383eb9b9b20d988bdcbb3291", null ],
     [ "m_isActive", "d4/dd0/classWorldObject.html#aa9e6a240121ff389ca82992905d3c306", null ],
     [ "m_isFarVisible", "d4/dd0/classWorldObject.html#ae07bb3addb792ecc23dda103392db652", null ],
-    [ "m_isWorldObject", "d4/dd0/classWorldObject.html#aafc53bb464c7461e03731121c4849ec9", null ],
     [ "m_movementInfo", "d4/dd0/classWorldObject.html#ad7f9a1627d3568f34c381027145f39ee", null ],
     [ "m_name", "d4/dd0/classWorldObject.html#a185b15e6aa5be8ab5f914f8a27cfea06", null ],
     [ "m_notifyflags", "d4/dd0/classWorldObject.html#a27c957e578d0395d62148fe5e7bee988", null ],

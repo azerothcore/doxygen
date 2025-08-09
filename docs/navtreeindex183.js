@@ -1,7 +1,5 @@
 var NAVTREEINDEX183 =
 {
-"d7/d05/boss__gorosh__the__dervish_8cpp.html#ab4d1592137d12427d186be538badd18b":[7,0,0,0,1,3,2,1,0,7,3],
-"d7/d05/boss__gorosh__the__dervish_8cpp.html#ab4d1592137d12427d186be538badd18ba098f499c63f20826ee2fea0dbf6cb095":[7,0,0,0,1,3,2,1,0,7,3,0],
 "d7/d05/boss__gorosh__the__dervish_8cpp.html#ab4d1592137d12427d186be538badd18ba7e10d3f3e2f9bcdbb60f5267e054aa41":[7,0,0,0,1,3,2,1,0,7,3,2],
 "d7/d05/boss__gorosh__the__dervish_8cpp.html#ab4d1592137d12427d186be538badd18bab3a547541dd680c330a5c661cd77545f":[7,0,0,0,1,3,2,1,0,7,3,1],
 "d7/d05/classgo__ossirian__crystal.html":[6,0,1160],
@@ -53,16 +51,16 @@ var NAVTREEINDEX183 =
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,96,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[5,0,1,108,0],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#a01cbecc2a9727d822b94a90b0c3035aa":[6,0,0,96,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[6,0,2297,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[6,0,2297,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[6,0,2297,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX183 =
 "d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#a55f76a830084d7aaa3df0d6bf0630121":[6,0,2234,0,6],
 "d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#a63174d9dcdf5a0d433f9694bda6d7086":[6,0,2234,0,7],
 "d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#a6f12f0d68459399cf85ce030cb633d4f":[6,0,2234,0,12],
-"d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#a773f86b23d373bae4e57d4d67b270b6d":[6,0,2234,0,1]
+"d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#a773f86b23d373bae4e57d4d67b270b6d":[6,0,2234,0,1],
+"d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#aa991c7f1cf64ca7e0963323222ffc1dd":[6,0,2234,0,14],
+"d7/d14/structnpc__ulduar__leviathan__mkii_1_1npc__ulduar__leviathan__mkiiAI.html#ab6d02d90b4fe5f6bda0eed4f8f05c001":[6,0,2234,0,2]
 };

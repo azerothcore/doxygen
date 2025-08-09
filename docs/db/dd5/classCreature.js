@@ -1,6 +1,6 @@
 var classCreature =
 [
-    [ "Creature", "db/dd5/classCreature.html#ab1103383b0a2ae2fdeea656692239236", null ],
+    [ "Creature", "db/dd5/classCreature.html#a597cc3b08ee17de46c3e7ec3cf0d9b58", null ],
     [ "~Creature", "db/dd5/classCreature.html#a1255ca80112e0b022f718bbf5b44ef2c", null ],
     [ "_AddCreatureSpellCooldown", "db/dd5/classCreature.html#a0d4ce3e5d3527c875aeff6e0e8bb3c41", null ],
     [ "_GetDamageMod", "db/dd5/classCreature.html#adfcb8bc5a745c30f0db20024bf397dab", null ],

@@ -1,6 +1,6 @@
 var classMinion =
 [
-    [ "Minion", "d0/ddd/classMinion.html#a4a560a702e9f655615797ee4dcd7fbb4", null ],
+    [ "Minion", "d0/ddd/classMinion.html#a3979ae40c594699ac2a276184543b2c5", null ],
     [ "GetDebugInfo", "d0/ddd/classMinion.html#a1f9800abdfa2126e593a6ae169f20024", null ],
     [ "GetFollowAngle", "d0/ddd/classMinion.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
     [ "GetOwner", "d0/ddd/classMinion.html#a4610f459936e40b530dae8429f139cfe", null ],

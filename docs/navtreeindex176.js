@@ -1,7 +1,5 @@
 var NAVTREEINDEX176 =
 {
-"d6/d90/classAddonHandler.html":[6,0,128],
-"d6/d90/classAddonHandler.html#a2925b829b803dd07e96685086357ef85":[6,0,128,3],
 "d6/d90/classAddonHandler.html#a3e52b0fc5ca99a3f5d83ee6d34e16520":[6,0,128,0],
 "d6/d90/classAddonHandler.html#a8e4fc7c1cae505850a907e70a9febbf0":[6,0,128,1],
 "d6/d90/classAddonHandler.html#aca92dc80033c299daf8e3b42dd24ffea":[6,0,128,2],
@@ -51,8 +49,8 @@ var NAVTREEINDEX176 =
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,951,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,951,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,951,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,951,3,9],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,951,3,10],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,951,3,9],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[6,0,951,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[6,0,951,3,16],
 "d6/d97/structboss__magmadar_1_1boss__magmadarAI.html":[6,0,600,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX176 =
 "d6/d9f/structCondition.html#a6cf9b18c5622d719b2e722ec4323e451":[6,0,886,10],
 "d6/d9f/structCondition.html#a94a118e00e3382f7ae0a781114bce56d":[6,0,886,15],
 "d6/d9f/structCondition.html#a99bae41bd3ce64822749a592a392c38d":[6,0,886,13],
-"d6/d9f/structCondition.html#ab4c925a102a90ee305769fa52ad47b5f":[6,0,886,19]
+"d6/d9f/structCondition.html#ab4c925a102a90ee305769fa52ad47b5f":[6,0,886,19],
+"d6/d9f/structCondition.html#ac8288eb1430da0afdbc9d793cb4a383c":[6,0,886,8],
+"d6/d9f/structCondition.html#acc2ca922eab77cb933e377a4d38f7500":[6,0,886,5]
 };

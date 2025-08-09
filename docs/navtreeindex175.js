@@ -1,7 +1,5 @@
 var NAVTREEINDEX175 =
 {
-"d6/d84/naxxramas_8h.html#a79526cbffc209e48db8e97aac00a9226a7042c217be53271750c042fbe1f35cda":[7,0,0,0,1,3,5,7,16,8,17],
-"d6/d84/naxxramas_8h.html#a79526cbffc209e48db8e97aac00a9226a70551ccbd409f7cfc3990268f7980409":[7,0,0,0,1,3,5,7,16,8,33],
 "d6/d84/naxxramas_8h.html#a79526cbffc209e48db8e97aac00a9226a70ad1bdf3ffbeaeb0357a3ca702a31ca":[7,0,0,0,1,3,5,7,16,8,22],
 "d6/d84/naxxramas_8h.html#a79526cbffc209e48db8e97aac00a9226a7519adb280d017a6614a963272c11803":[7,0,0,0,1,3,5,7,16,8,2],
 "d6/d84/naxxramas_8h.html#a79526cbffc209e48db8e97aac00a9226a75226fb2215b44a832f8d64ee8496c7d":[7,0,0,0,1,3,5,7,16,8,28],
@@ -107,10 +105,10 @@ var NAVTREEINDEX175 =
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[6,0,556,3],
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,27,21],
 "d6/d85/classVMAP_1_1VMapFactory.html":[6,0,9,21],
-"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,27,21,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[6,0,9,21,0],
-"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[6,0,9,21,1],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,27,21,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[5,0,27,21,1],
+"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[6,0,9,21,1],
 "d6/d85/classlookup__commandscript.html":[6,0,1444],
 "d6/d85/classlookup__commandscript.html#a18786c0065ea14eacaa7f8e8082b2be4":[6,0,1444,17],
 "d6/d85/classlookup__commandscript.html#a1d29ab8746669b45885fea32815d09a4":[6,0,1444,12],
@@ -142,8 +140,8 @@ var NAVTREEINDEX175 =
 "d6/d85/structAcore_1_1CreatureWorker.html":[6,0,0,46],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[6,0,0,46,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,1,58,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[6,0,0,46,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,1,58,2],
+"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[6,0,0,46,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[6,0,0,46,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[5,0,1,58,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[6,0,0,46,4],
@@ -187,8 +185,8 @@ var NAVTREEINDEX175 =
 "d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[6,0,7,13,1],
 "d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[5,0,21,13,0],
 "d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[6,0,7,13,0],
-"d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[5,0,21,13,3],
 "d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[6,0,7,13,3],
+"d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[5,0,21,13,3],
 "d6/d89/CreatureAISelector_8cpp.html":[7,0,0,0,1,2,3,9],
 "d6/d89/CreatureAISelector_8cpp.html#a10fef1ff3335f4642179ee423b1ff0d6":[7,0,0,0,1,2,3,9,2],
 "d6/d89/CreatureAISelector_8cpp.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,9,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX175 =
 "d6/d8e/classgo__celestial__planetarium__access.html#a4fc9ac64f7dceefbdda02297f7dfc42b":[6,0,1123,2],
 "d6/d8e/structgo__transport__the__iron__eagle.html":[6,0,1187],
 "d6/d8e/structgo__transport__the__iron__eagle.html#aba17edc2e3ac8e1b9996116c6f9bdc6f":[6,0,1187,0],
-"d6/d8e/structgo__transport__the__iron__eagle.html#af1970d07730ab0e5f688200289f48b69":[6,0,1187,1]
+"d6/d8e/structgo__transport__the__iron__eagle.html#af1970d07730ab0e5f688200289f48b69":[6,0,1187,1],
+"d6/d90/classAddonHandler.html":[6,0,128],
+"d6/d90/classAddonHandler.html#a2925b829b803dd07e96685086357ef85":[6,0,128,3]
 };

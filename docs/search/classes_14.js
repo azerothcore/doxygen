@@ -94,7 +94,6 @@ var searchData=
   ['typelist_91',['TypeList',['../db/d0b/structTypeList.html',1,'']]],
   ['typemapcontainer_92',['TypeMapContainer',['../d1/dac/classTypeMapContainer.html',1,'']]],
   ['typemapcontainer_3c_20grid_5fobject_5ftypes_20_3e_93',['TypeMapContainer&lt; GRID_OBJECT_TYPES &gt;',['../d1/dac/classTypeMapContainer.html',1,'']]],
-  ['typemapcontainer_3c_20world_5fobject_5ftypes_20_3e_94',['TypeMapContainer&lt; WORLD_OBJECT_TYPES &gt;',['../d1/dac/classTypeMapContainer.html',1,'']]],
-  ['typeunorderedmapcontainer_95',['TypeUnorderedMapContainer',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
-  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_96',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]]
+  ['typeunorderedmapcontainer_94',['TypeUnorderedMapContainer',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
+  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_95',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]]
 ];

@@ -1,6 +1,6 @@
 var classGuardian =
 [
-    [ "Guardian", "db/d90/classGuardian.html#a731dfcf7d834a97ba253ad36e4006745", null ],
+    [ "Guardian", "db/d90/classGuardian.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
     [ "GetDebugInfo", "db/d90/classGuardian.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
     [ "InitStats", "db/d90/classGuardian.html#a698ac009e39a2e8461b40135b75609ef", null ],
     [ "InitStatsForLevel", "db/d90/classGuardian.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],

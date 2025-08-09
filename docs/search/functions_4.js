@@ -353,7 +353,7 @@ var searchData=
   ['durabilityrepairall_350',['DurabilityRepairAll',['../d2/d4b/classPlayer.html#a823d524e755871b8e642e6eb205af7ec',1,'Player']]],
   ['duration_351',['Duration',['../d3/d68/classMovement_1_1MoveSpline.html#a9dd5370cafdd0a3d743ae5f5cceafff6',1,'Movement::MoveSpline']]],
   ['dynamicmaptree_352',['DynamicMapTree',['../d6/d7d/classDynamicMapTree.html#ae1abe2e5e0464f2cfc6b87338698983d',1,'DynamicMapTree']]],
-  ['dynamicobject_353',['DynamicObject',['../dc/d8e/classDynamicObject.html#a47b4f5072cf01ca271234ea82492cf87',1,'DynamicObject']]],
+  ['dynamicobject_353',['DynamicObject',['../dc/d8e/classDynamicObject.html#a50a7adf3d7d1f411ed2aa9a663bfe275',1,'DynamicObject']]],
   ['dynamicobjectrelocation_354',['DynamicObjectRelocation',['../d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328',1,'Map']]],
   ['dynamicobjectscript_355',['DynamicObjectScript',['../d7/db2/classDynamicObjectScript.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f',1,'DynamicObjectScript']]],
   ['dynamictreeareainfocallback_356',['DynamicTreeAreaInfoCallback',['../d1/d5e/structDynamicTreeAreaInfoCallback.html#ad3f3d57e011439d9900afffa8d9c6ed7',1,'DynamicTreeAreaInfoCallback']]],

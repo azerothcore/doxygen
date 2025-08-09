@@ -1,7 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/dd8/structAchievementCriteriaData.html#a10abf16cc22c72aac4cadb6910457207":[6,0,110,17],
-"d4/dd8/structAchievementCriteriaData.html#a180c58322031bb3f00e6cf034fb29a1d":[6,0,110,45],
 "d4/dd8/structAchievementCriteriaData.html#a1aea048080854abb69165056688e9637":[6,0,110,25],
 "d4/dd8/structAchievementCriteriaData.html#a1bda3570b1adb636a60d8d94995adbcf":[6,0,110,26],
 "d4/dd8/structAchievementCriteriaData.html#a23373b6f321d0e144e30658cc335def9":[6,0,110,49],
@@ -249,5 +247,7 @@ var NAVTREEINDEX137 =
 "d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ad2796a924fbe36dc9cd1c9de60eb9b16":[6,0,3785,2],
 "d4/dde/structLinkValidator.html":[6,0,1414],
 "d4/dde/structLinkValidator.html#a1c9a027ff1f355b16fe629b7c4af7b98":[6,0,1414,1],
-"d4/dde/structLinkValidator.html#a5b13574c40a78f28d15e6b11bc7bd5bc":[6,0,1414,0]
+"d4/dde/structLinkValidator.html#a5b13574c40a78f28d15e6b11bc7bd5bc":[6,0,1414,0],
+"d4/ddf/structArenaTeamMember.html":[6,0,196],
+"d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854":[6,0,196,7]
 };

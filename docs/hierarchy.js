@@ -1943,7 +1943,6 @@ var hierarchy =
     [ "ContainerMapList< T >", "d5/d5b/structContainerMapList.html", null ],
     [ "ContainerMapList< TypeList< H, T > >", "d6/db2/structContainerMapList_3_01TypeList_3_01H_00_01T_01_4_01_4.html", null ],
     [ "ContainerMapList< TypeNull >", "df/d7f/structContainerMapList_3_01TypeNull_01_4.html", null ],
-    [ "ContainerMapList< WORLD_OBJECT_TYPES >", "d5/d5b/structContainerMapList.html", null ],
     [ "Acore::Impl::ChatCommands::ContainerTag", "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html", [
       [ "Acore::ChatCommands::AccountIdentifier", "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html", null ],
       [ "Acore::ChatCommands::ExactSequence< chars >", "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html", null ],
@@ -2285,7 +2284,7 @@ var hierarchy =
     [ "Graveyard", "d0/deb/classGraveyard.html", null ],
     [ "GraveyardData", "df/db1/structGraveyardData.html", null ],
     [ "GraveyardStruct", "db/d35/structGraveyardStruct.html", null ],
-    [ "GridCell< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "dd/dfd/classGridCell.html", null ],
+    [ "GridCell< GRID_OBJECT_TYPES >", "dd/dfd/classGridCell.html", null ],
     [ "GridObject< T >", "d5/ddf/classGridObject.html", null ],
     [ "GridObject< Corpse >", "d5/ddf/classGridObject.html", [
       [ "Corpse", "d3/dc4/classCorpse.html", null ]
@@ -2513,7 +2512,7 @@ var hierarchy =
       ] ],
       [ "Reference< GridRefMgr< Player >, Player >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< T >, T >", "d4/d52/classReference.html", null ],
-      [ "Reference< GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
+      [ "Reference< GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
       [ "Reference< TO, FROM >", "d4/d52/classReference.html", [
         [ "GridReference< Corpse >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Creature >", "d4/db8/classGridReference.html", null ],
@@ -2521,7 +2520,7 @@ var hierarchy =
         [ "GridReference< GameObject >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Player >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< T >", "d4/db8/classGridReference.html", null ],
-        [ "GridReference< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
+        [ "GridReference< MapGrid< GRID_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
       ] ]
     ] ],
     [ "LinkedListHead", "db/dea/classLinkedListHead.html", [
@@ -2552,8 +2551,7 @@ var hierarchy =
       [ "RefMgr< GridRefMgr< T >, T >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< H >, H >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< GRID_OBJECT_TYPES >, GRID_OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< GridRefMgr< WORLD_OBJECT_TYPES >, WORLD_OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >, MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
+      [ "RefMgr< GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< OBJECT_TYPES >, OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< TO, FROM >", "d4/d73/classRefMgr.html", [
         [ "GridRefMgr< Corpse >", "db/d9d/classGridRefMgr.html", null ],
@@ -2571,8 +2569,7 @@ var hierarchy =
         [ "GridRefMgr< T >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< H >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< GRID_OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ],
-        [ "GridRefMgr< WORLD_OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ],
-        [ "GridRefMgr< MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
+        [ "GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ]
       ] ]
     ] ],
@@ -2656,7 +2653,7 @@ var hierarchy =
     [ "MapDifficulty", "dd/d59/structMapDifficulty.html", null ],
     [ "MapDifficultyEntry", "df/d43/structMapDifficultyEntry.html", null ],
     [ "MapEntry", "d2/d1d/structMapEntry.html", null ],
-    [ "MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "da/d7e/classMapGrid.html", null ],
+    [ "MapGrid< GRID_OBJECT_TYPES >", "da/d7e/classMapGrid.html", null ],
     [ "MapGridManager", "d9/d8b/classMapGridManager.html", null ],
     [ "MapMgr", "d8/d58/classMapMgr.html", null ],
     [ "VMAP::MapRayCallback", "de/d20/classVMAP_1_1MapRayCallback.html", null ],
@@ -4614,7 +4611,6 @@ var hierarchy =
     [ "TypeList< HEAD, TAIL >", "db/d0b/structTypeList.html", null ],
     [ "TypeMapContainer< OBJECT_TYPES >", "d1/dac/classTypeMapContainer.html", null ],
     [ "TypeMapContainer< GRID_OBJECT_TYPES >", "d1/dac/classTypeMapContainer.html", null ],
-    [ "TypeMapContainer< WORLD_OBJECT_TYPES >", "d1/dac/classTypeMapContainer.html", null ],
     [ "TypeUnorderedMapContainer< OBJECT_TYPES, KEY_TYPE >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
     [ "TypeUnorderedMapContainer< AllMapStoredObjectTypes, ObjectGuid >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
     [ "u_map_fcc", "dd/d66/unionu__map__fcc.html", null ],

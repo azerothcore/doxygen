@@ -313,14 +313,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2460</span>    {</div>
-<div class="line"><span class="lineno"> 2461</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* veh = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVehicle())</div>
-<div class="line"><span class="lineno"> 2462</span>            <span class="keywordflow">if</span> (<span class="keyword">const</span> <a class="code hl_struct" href="../../d5/ddf/structVehicleSeatEntry.html">VehicleSeatEntry</a>* seatEntry = veh-&gt;GetSeatForPassenger(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()))</div>
-<div class="line"><span class="lineno"> 2463</span>                <span class="keywordflow">if</span> (seatEntry-&gt;m_flags &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>)</div>
-<div class="line"><span class="lineno"> 2464</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 2465</span> </div>
-<div class="line"><span class="lineno"> 2466</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno"> 2467</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2456</span>    {</div>
+<div class="line"><span class="lineno"> 2457</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* veh = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVehicle())</div>
+<div class="line"><span class="lineno"> 2458</span>            <span class="keywordflow">if</span> (<span class="keyword">const</span> <a class="code hl_struct" href="../../d5/ddf/structVehicleSeatEntry.html">VehicleSeatEntry</a>* seatEntry = veh-&gt;GetSeatForPassenger(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()))</div>
+<div class="line"><span class="lineno"> 2459</span>                <span class="keywordflow">if</span> (seatEntry-&gt;m_flags &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>)</div>
+<div class="line"><span class="lineno"> 2460</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 2461</span> </div>
+<div class="line"><span class="lineno"> 2462</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno"> 2463</span>    }</div>
 <div class="ttc" id="aDBCEnums_8h_html_a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_CAN_CONTROL</div><div class="ttdef"><b>Definition</b> DBCEnums.h:455</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a></div><div class="ttdeci">@ SPELL_FAILED_DONT_REPORT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:976</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1138</div></div>
@@ -330,7 +330,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l00976">SPELL_FAILED_DONT_REPORT</a>, and <a class="el" href="../../#l00455">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02469">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02465">Register()</a>.</p>
 
 </div>
 </div>
@@ -384,14 +384,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2470</span>    {</div>
-<div class="line"><span class="lineno"> 2471</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c">spell_gen_vehicle_scaling::CheckSeat</a>);</div>
-<div class="line"><span class="lineno"> 2472</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2466</span>    {</div>
+<div class="line"><span class="lineno"> 2467</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c">spell_gen_vehicle_scaling::CheckSeat</a>);</div>
+<div class="line"><span class="lineno"> 2468</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aclassspell__gen__vehicle__scaling_html_ab4e2376e084bc2cf0e30a91e3e5a270c"><div class="ttname"><a href="../../df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c">spell_gen_vehicle_scaling::CheckSeat</a></div><div class="ttdeci">SpellCastResult CheckSeat()</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:2459</div></div>
+<div class="ttc" id="aclassspell__gen__vehicle__scaling_html_ab4e2376e084bc2cf0e30a91e3e5a270c"><div class="ttname"><a href="../../df/db6/classspell__gen__vehicle__scaling.html#ab4e2376e084bc2cf0e30a91e3e5a270c">spell_gen_vehicle_scaling::CheckSeat</a></div><div class="ttdeci">SpellCastResult CheckSeat()</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:2455</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02459">CheckSeat()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02455">CheckSeat()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -404,7 +404,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/db6/classspell__gen__vehicle__scaling.html">spell_gen_vehicle_scaling</a></li>
-    <li class="footer">Generated on Fri Aug 8 2025 06:28:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Aug 9 2025 06:24:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
