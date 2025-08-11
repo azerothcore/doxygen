@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3e":[7,0,0,0,1,3,2,1,0,2,4],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9":[7,0,0,0,1,3,2,1,0,2,4,0],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3ea8f2637b5df85ed094463ae0367132c78":[7,0,0,0,1,3,2,1,0,2,4,3],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3ead73498fbe1c096cdcb15c0fc31bcf62c":[7,0,0,0,1,3,2,1,0,2,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/dac/structboss__lord__marrowgar.html#a2692d00185ef27f50af01d125e39d549":[6,0,595,9],
 "d1/dac/structboss__lord__marrowgar.html#a3fa8b012f5e3ae94cecb537aa1952b63":[6,0,595,4],
 "d1/dac/structboss__lord__marrowgar.html#a50478639cd1f13732646fcc2349c5474":[6,0,595,12],
-"d1/dac/structboss__lord__marrowgar.html#a87f5036e8ba62e54ed7c502469cffe10":[6,0,595,13],
-"d1/dac/structboss__lord__marrowgar.html#a8f1143de6695cf3fc2e54d5dc29ae9f2":[6,0,595,3]
+"d1/dac/structboss__lord__marrowgar.html#a87f5036e8ba62e54ed7c502469cffe10":[6,0,595,13]
 };

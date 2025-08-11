@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417aa534a4a555ff64bbb4ad7a140348b7d3":[7,0,0,0,1,2,8,1,11,15,18],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417aa9fadf95c5a318b34bdcf4e793cc6f7b":[7,0,0,0,1,2,8,1,11,15,12],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417aaa5d8dc67191ae489d7c20d8a471ce85":[7,0,0,0,1,2,8,1,11,15,80],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ab06a38efcf8434ed3e7ad622564cce1a":[7,0,0,0,1,2,8,1,11,15,4],
@@ -218,10 +219,10 @@ var NAVTREEINDEX14 =
 "d0/d9b/structboss__dalronn__the__controller.html#ad11e43d40a61f093b5e51482437467b8":[6,0,417,1],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[5,0,1,98],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[6,0,0,86],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[6,0,0,86,2],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[5,0,1,98,2],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[6,0,0,86,1],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[6,0,0,86,2],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[5,0,1,98,1],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[6,0,0,86,1],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[6,0,0,86,0],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[5,0,1,98,0],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[6,0,0,86,3],
@@ -230,16 +231,16 @@ var NAVTREEINDEX14 =
 "d0/d9d/SpellAuraEffects_8cpp.html#a2817e7c4c5917ae8deba00b38850e8db":[7,0,0,0,1,2,41,0,1,0],
 "d0/d9d/structMMAP_1_1TileInfo.html":[5,0,20,12],
 "d0/d9d/structMMAP_1_1TileInfo.html":[6,0,6,12],
-"d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[6,0,6,12,1],
 "d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[5,0,20,12,1],
+"d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[6,0,6,12,1],
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[5,0,20,12,3],
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[6,0,6,12,3],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[5,0,20,12,2],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[6,0,6,12,2],
-"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,20,12,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,12,4],
-"d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,12,0],
+"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,20,12,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[5,0,20,12,0],
+"d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,12,0],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html":[6,0,2703],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html#a06d50e8c0f7bfd1b055d8a3f5c14d357":[6,0,2703,0],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html#a2b39daf6fe325cfa909b964da62c2571":[6,0,2703,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d9e/structboss__nazan.html#a17942f19444ad324058d7b8c8a9aa9de":[6,0,633,7],
 "d0/d9e/structboss__nazan.html#a4390d3e181c4db46e364df3302612763":[6,0,633,0],
 "d0/d9e/structboss__nazan.html#a4d44b759530f32207a46a608fb7d6209":[6,0,633,4],
-"d0/d9e/structboss__nazan.html#a5c10e932075130399a9127869f45ce1d":[6,0,633,6],
-"d0/d9e/structboss__nazan.html#a7acea69f908e7a004c2a78c103528975":[6,0,633,1]
+"d0/d9e/structboss__nazan.html#a5c10e932075130399a9127869f45ce1d":[6,0,633,6]
 };

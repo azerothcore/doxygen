@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"d2/de1/structnpc__pet__mage__mirror__image.html":[6,0,2028],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a074611355768dc2072da69ed9d72242b":[6,0,2028,7],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a2761cc9bf3a8bb7908d3db6d929721ba":[6,0,2028,0],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a49d57ba93cd88816f68c16d56d3b8cd2":[6,0,2028,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#ab2a598820f94464fba55f9706449ce25":[6,0,4072,37],
 "d2/de9/classSpellInfo.html#ab55f4d105d110657b75bd1c59309d27c":[6,0,4072,120],
 "d2/de9/classSpellInfo.html#ab73b77d529118f211a4e3b1731652d1d":[6,0,4072,33],
-"d2/de9/classSpellInfo.html#ab7c086456cefda0527d570c1754e21d1":[6,0,4072,78],
-"d2/de9/classSpellInfo.html#ab9d1fe21e95fb5bb4525e2de76c96ca2":[6,0,4072,152]
+"d2/de9/classSpellInfo.html#ab7c086456cefda0527d570c1754e21d1":[6,0,4072,78]
 };

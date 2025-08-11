@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d60/SpellDefines_8h.html":[7,0,0,0,1,2,41,3],
 "d0/d60/SpellDefines_8h.html#a00ff26f13c7773d3ea8ef8d2c8bf8fc9":[7,0,0,0,1,2,41,3,6],
 "d0/d60/SpellDefines_8h.html#a00ff26f13c7773d3ea8ef8d2c8bf8fc9ad24d374a1397fcd424535d75aa8e5012":[7,0,0,0,1,2,41,3,6,1],
 "d0/d60/SpellDefines_8h.html#a00ff26f13c7773d3ea8ef8d2c8bf8fc9afb8d0a3c6b4ae3b93751a458e36e7986":[7,0,0,0,1,2,41,3,6,0],
@@ -125,10 +126,10 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3883,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,30,1,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,30,1,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,30,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2323,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2323,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2323,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d67/Guild_8cpp.html#a6e37f394008ea3eb20a46c84e03512a5":[7,0,0,0,1,2,21,0,0],
 "d0/d67/Guild_8cpp.html#a8e9e4c2d24b387f386cf2d9c02996b59":[7,0,0,0,1,2,21,0,3],
 "d0/d67/classboss__maexxna__webwrap.html":[6,0,599],
-"d0/d67/classboss__maexxna__webwrap.html#a6d86d58a86b831a219ecc598044be4f3":[6,0,599,2],
-"d0/d67/classboss__maexxna__webwrap.html#afebd8c00234fe6cdd93af8ae443bb637":[6,0,599,1]
+"d0/d67/classboss__maexxna__webwrap.html#a6d86d58a86b831a219ecc598044be4f3":[6,0,599,2]
 };

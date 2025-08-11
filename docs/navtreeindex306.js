@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1348d8d2f2cbd3c64da924fcaf5b659e":[7,0,0,0,1,2,26,2,0,35],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a15abbb0707ca7a1ad0404000922879c5":[7,0,0,0,1,2,26,2,0,30],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506":[7,0,0,0,1,2,26,2,0,9],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b5d78f04f1f0d7d3b5bb5d7611adfba":[7,0,0,0,1,2,26,2,0,126],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b7c08f3769b14c85ccd9b592323252e":[7,0,0,0,1,2,26,2,0,42],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1c45a09bb36f6d74685c180cb859a623":[7,0,0,0,1,2,26,2,0,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d56/structStoredLootItem.html":[6,0,4112],
 "dc/d56/structStoredLootItem.html#a076564a43a586c6b6d17cd64fca8e9fb":[6,0,4112,9],
 "dc/d56/structStoredLootItem.html#a12e1cb9403cc4f6ceb770c8cf50a1d17":[6,0,4112,11],
-"dc/d56/structStoredLootItem.html#a2588c810dcd51a5c0c6558b99493602b":[6,0,4112,12],
-"dc/d56/structStoredLootItem.html#a25c63cc5a94ecc3bf803e83be5aabc39":[6,0,4112,2],
-"dc/d56/structStoredLootItem.html#a32da4030f3e58b7fae5001511c6caa40":[6,0,4112,0],
-"dc/d56/structStoredLootItem.html#a41a3c4caf90fc8c42d2e0e5192201d19":[6,0,4112,4]
+"dc/d56/structStoredLootItem.html#a2588c810dcd51a5c0c6558b99493602b":[6,0,4112,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d5b/classPlayerScript.html#a34ed7754ea926ab69321a5e8680d4bb7":[6,0,2417,29],
 "d0/d5b/classPlayerScript.html#a35b897e38cfd156c332d3258acdbc26a":[6,0,2417,80],
 "d0/d5b/classPlayerScript.html#a367b7bae5fdebefa38c9ecde79ed647d":[6,0,2417,105],
 "d0/d5b/classPlayerScript.html#a380a6f92932c8c594299771944ea424d":[6,0,2417,169],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#a823df6bb8b36ab38aa059e6d1313f2c0":[6,0,2118,0,5],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#aa2199507fdabe850b6af9a5ae0283fdc":[6,0,2118,0,10],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#ab789c21e742fe261f9f8aa63509a7d45":[6,0,2118,0,8],
-"d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#ac2853246532bd913211fc743f4723ce0":[6,0,2118,0,9],
-"d0/d60/SpellDefines_8h.html":[7,0,0,0,1,2,41,3]
+"d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#ac2853246532bd913211fc743f4723ce0":[6,0,2118,0,9]
 };

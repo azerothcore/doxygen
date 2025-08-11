@@ -243,8 +243,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   59</span> </div>
 <div class="line"><span class="lineno">   60</span>    <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.clear();</div>
 <div class="line"><span class="lineno">   61</span>}</div>
-<div class="ttc" id="aclassObjectVisibilityContainer_html_a7d497bf0dcc4c9342fabd4cbb6e93d25"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">ObjectVisibilityContainer::DirectRemoveVisiblePlayerReference</a></div><div class="ttdeci">void DirectRemoveVisiblePlayerReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:111</div></div>
-<div class="ttc" id="aclassObjectVisibilityContainer_html_ac37e5bbcb2bcfe399bf59e782ef1e7b9"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">ObjectVisibilityContainer::DirectRemoveVisibilityReference</a></div><div class="ttdeci">void DirectRemoveVisibilityReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:100</div></div>
+<div class="ttc" id="aclassObjectVisibilityContainer_html_a7d497bf0dcc4c9342fabd4cbb6e93d25"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">ObjectVisibilityContainer::DirectRemoveVisiblePlayerReference</a></div><div class="ttdeci">void DirectRemoveVisiblePlayerReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:115</div></div>
+<div class="ttc" id="aclassObjectVisibilityContainer_html_ac37e5bbcb2bcfe399bf59e782ef1e7b9"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">ObjectVisibilityContainer::DirectRemoveVisibilityReference</a></div><div class="ttdeci">void DirectRemoveVisibilityReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:104</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, and <a class="el" href="../../#l00113">Object::GetGUID()</a>.</p>
 
@@ -275,9 +275,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
-<div class="line"><span class="lineno">  108</span>    <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.insert(std::make_pair(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), player));</div>
-<div class="line"><span class="lineno">  109</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.insert(std::make_pair(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), player));</div>
+<div class="line"><span class="lineno">  113</span>}</div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>, and <a class="el" href="../../#l00113">Object::GetGUID()</a>.</p>
@@ -309,14 +309,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>);</div>
-<div class="line"><span class="lineno">  103</span>    (*_visibleWorldObjectsMap).erase(guid);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>);</div>
+<div class="line"><span class="lineno">  107</span>    (*_visibleWorldObjectsMap).erase(guid);</div>
+<div class="line"><span class="lineno">  108</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00094">UnlinkVisibilityFromWorldObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>.</p>
 
 </div>
 </div>
@@ -343,13 +343,13 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  112</span>{</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(guid);</div>
-<div class="line"><span class="lineno">  114</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
+<div class="line"><span class="lineno">  117</span>    <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(guid);</div>
+<div class="line"><span class="lineno">  118</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00087">UnlinkVisibilityFromPlayer()</a>, and <a class="el" href="../../#l00077">UnlinkWorldObjectVisibility()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, and <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>.</p>
 
 </div>
 </div>
@@ -523,20 +523,27 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (worldObject == <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>)</div>
 <div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    <span class="comment">// Only players can link visibility</span></div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
+<div class="line"><span class="lineno">   69</span>    <span class="comment">// Transports are special and should not be added to our visibility map</span></div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>() &amp;&amp; worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>()-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afdc3efbef6b35704f49a634e258d6299">IsTransport</a>())</div>
 <div class="line"><span class="lineno">   71</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    (*_visibleWorldObjectsMap).insert(std::make_pair(worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), worldObject));</div>
-<div class="line"><span class="lineno">   74</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610">DirectInsertVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>());</div>
-<div class="line"><span class="lineno">   75</span>}</div>
-<div class="ttc" id="aclassObjectVisibilityContainer_html_ab719a4d7551d0166419d6ea2f036e610"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610">ObjectVisibilityContainer::DirectInsertVisiblePlayerReference</a></div><div class="ttdeci">void DirectInsertVisiblePlayerReference(Player *player)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:106</div></div>
+<div class="line"><span class="lineno">   73</span>    <span class="comment">// Only players can link visibility</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    (*_visibleWorldObjectsMap).insert(std::make_pair(worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), worldObject));</div>
+<div class="line"><span class="lineno">   78</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610">DirectInsertVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>());</div>
+<div class="line"><span class="lineno">   79</span>}</div>
+<div class="ttc" id="aclassGameObject_html_afdc3efbef6b35704f49a634e258d6299"><div class="ttname"><a href="../../de/d1c/classGameObject.html#afdc3efbef6b35704f49a634e258d6299">GameObject::IsTransport</a></div><div class="ttdeci">bool IsTransport() const</div><div class="ttdef"><b>Definition</b> GameObject.cpp:1211</div></div>
+<div class="ttc" id="aclassObjectVisibilityContainer_html_ab719a4d7551d0166419d6ea2f036e610"><div class="ttname"><a href="../../d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610">ObjectVisibilityContainer::DirectInsertVisiblePlayerReference</a></div><div class="ttdeci">void DirectInsertVisiblePlayerReference(Player *player)</div><div class="ttdef"><b>Definition</b> ObjectVisibilityContainer.cpp:110</div></div>
 <div class="ttc" id="aclassObject_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition</b> Object.h:202</div></div>
+<div class="ttc" id="aclassObject_html_a85475682d62e51bfaf2133b51d41a619"><div class="ttname"><a href="../../d8/d4b/classObject.html#a85475682d62e51bfaf2133b51d41a619">Object::IsGameObject</a></div><div class="ttdeci">bool IsGameObject() const</div><div class="ttdef"><b>Definition</b> Object.h:213</div></div>
+<div class="ttc" id="aclassObject_html_a96b380b13acdb406d552053cf775180f"><div class="ttname"><a href="../../d8/d4b/classObject.html#a96b380b13acdb406d552053cf775180f">Object::ToGameObject</a></div><div class="ttdeci">GameObject * ToGameObject()</div><div class="ttdef"><b>Definition</b> Object.h:214</div></div>
 <div class="ttc" id="aclassWorldObject_html_ac290821bbb0362b1fe15ba5857c727e7"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">WorldObject::GetObjectVisibilityContainer</a></div><div class="ttdeci">ObjectVisibilityContainer &amp; GetObjectVisibilityContainer()</div><div class="ttdef"><b>Definition</b> Object.h:712</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00106">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00110">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>, <a class="el" href="../../#l00213">Object::IsGameObject()</a>, <a class="el" href="../../#l01211">GameObject::IsTransport()</a>, <a class="el" href="../../#l00214">Object::ToGameObject()</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01719">Player::UpdateVisibilityOf()</a>, <a class="el" href="../../#l01655">UpdateVisibilityOf_helper()</a>, <a class="el" href="../../#l01645">UpdateVisibilityOf_helper()</a>, <a class="el" href="../../#l01663">UpdateVisibilityOf_helper()</a>, and <a class="el" href="../../#l01638">UpdateVisibilityOf_helper()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>, <a class="el" href="../../#l01652">UpdateVisibilityOf_helper()</a>, <a class="el" href="../../#l01645">UpdateVisibilityOf_helper()</a>, <a class="el" href="../../#l01660">UpdateVisibilityOf_helper()</a>, and <a class="el" href="../../#l01638">UpdateVisibilityOf_helper()</a>.</p>
 
 </div>
 </div>
@@ -565,13 +572,13 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>); <span class="comment">// Ensure we aren&#39;t for some reason calling this as a non-player object</span></div>
-<div class="line"><span class="lineno">   90</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">return</span> (*_visibleWorldObjectsMap).erase(itr);</div>
-<div class="line"><span class="lineno">   92</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>); <span class="comment">// Ensure we aren&#39;t for some reason calling this as a non-player object</span></div>
+<div class="line"><span class="lineno">   94</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">return</span> (*_visibleWorldObjectsMap).erase(itr);</div>
+<div class="line"><span class="lineno">   96</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00111">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00039">Acore::VisibleNotifier::SendToSelf()</a>.</p>
 
@@ -602,12 +609,12 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">DirectRemoveVisibilityReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">   98</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">DirectRemoveVisibilityReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(itr);</div>
+<div class="line"><span class="lineno">  102</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00100">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00104">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02905">WorldObject::DestroyForVisiblePlayers()</a>.</p>
 
@@ -628,18 +635,18 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
-<div class="line"><span class="lineno">   79</span>    <span class="comment">// Only players can unlink visibility</span></div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   84</span>    (*_visibleWorldObjectsMap).erase(worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   85</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    <span class="comment">// Only players can unlink visibility</span></div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    worldObject-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">   88</span>    (*_visibleWorldObjectsMap).erase(worldObject-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">   89</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00111">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01683">Player::UpdateVisibilityOf()</a>, and <a class="el" href="../../#l01719">Player::UpdateVisibilityOf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01680">Player::UpdateVisibilityOf()</a>, and <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>.</p>
 
 </div>
 </div>
@@ -664,7 +671,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00087">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00094">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00077">UnlinkWorldObjectVisibility()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>.</p>
 
 </div>
 </div>
@@ -688,7 +695,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00106">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00111">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00054">GetVisiblePlayersMap()</a>, <a class="el" href="../../#l00055">GetVisiblePlayersMap()</a>, <a class="el" href="../../#l00094">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00110">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00054">GetVisiblePlayersMap()</a>, <a class="el" href="../../#l00055">GetVisiblePlayersMap()</a>, <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
 
 </div>
 </div>
@@ -712,7 +719,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00100">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00059">GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00067">GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00042">InitForPlayer()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00087">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00077">UnlinkWorldObjectVisibility()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00104">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00059">GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00067">GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00042">InitForPlayer()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
 
 </div>
 </div>
@@ -726,7 +733,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d9f/classObjectVisibilityContainer.html">ObjectVisibilityContainer</a></li>
-    <li class="footer">Generated on Sun Aug 10 2025 06:24:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Aug 11 2025 06:28:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

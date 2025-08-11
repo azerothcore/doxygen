@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/IpNetwork_8h.html":[7,0,0,0,0,0,3],
 "d2/df6/IpNetwork_8h.html#a2617cb1c747a45e5af4e2c32cc29d5de":[7,0,0,0,0,0,3,2],
 "d2/df6/IpNetwork_8h.html#af108d05a57113d16ab9c8f3b26870be2":[7,0,0,0,0,0,3,1],
 "d2/df6/IpNetwork_8h.html#af75b2c10ca445dc89c53b7ed8d17eae0":[7,0,0,0,0,0,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d3/d06/classspell__mimiron__rapid__burst__aura.html#a0fc0cf6cd635249a10aefd284d9ae789":[6,0,3444,0],
 "d3/d06/classspell__mimiron__rapid__burst__aura.html#a41c3846c03ce1e37fc6858a676f61c48":[6,0,3444,2],
 "d3/d06/classspell__mimiron__rapid__burst__aura.html#ac8e9521a6b8ab9a4642361085dbe517d":[6,0,3444,3],
-"d3/d06/classspell__mimiron__rapid__burst__aura.html#af432e810a46e35f95bb0b3b2eaada132":[6,0,3444,1],
-"d3/d06/namespaceAcore_1_1Impl.html":[5,0,1,8]
+"d3/d06/classspell__mimiron__rapid__burst__aura.html#af432e810a46e35f95bb0b3b2eaada132":[6,0,3444,1]
 };

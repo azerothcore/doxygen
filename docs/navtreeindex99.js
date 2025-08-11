@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d3/d6a/classnpc__ulduar__flash__freeze.html#a933f99c8d38ab98c8454919b6373bb41":[6,0,2225,2],
 "d3/d6c/classboss__gothik.html":[6,0,503],
 "d3/d6c/classboss__gothik.html#a0c3ee990a1caf020e9a4be000f0b77e0":[6,0,503,1],
 "d3/d6c/classboss__gothik.html#aea7aec86c4132521fb7b9b6e87baf289":[6,0,503,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca747c93f2cea8d2889bd57453f2cb2cbe":[7,0,0,0,1,3,5,6,15,7,1],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42":[7,0,0,0,1,3,5,6,15,7,3],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca928dc3a2f23f4796c151995c1f82007f":[7,0,0,0,1,3,5,6,15,7,0],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b71736307754ed938440c558820b9aa":[7,0,0,0,1,3,5,6,15,7,2],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cacb658ca309c42891a8c8014561e1c6fc":[7,0,0,0,1,3,5,6,15,7,4]
+"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b71736307754ed938440c558820b9aa":[7,0,0,0,1,3,5,6,15,7,2]
 };

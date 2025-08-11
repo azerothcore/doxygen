@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,704,0],
+"dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[6,0,704,3],
+"dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[6,0,704,1],
 "dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[6,0,704,2],
 "dc/de6/structboss__skarvald__the__constructor.html#a9c1f74c20a5a9f47f9430450742938a2":[6,0,704,6],
 "dc/de6/structboss__skarvald__the__constructor.html#a9d65e24161dd1f7bac9fe991624c5c80":[6,0,704,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/df6/classspell__q12919__gymers__throw.html#a2dc2628984358628afe7d9b62ced7794":[6,0,3671,2],
 "dc/df6/classspell__q12919__gymers__throw.html#ac1237e0af7f88f75ebc551af52fc301c":[6,0,3671,1],
 "dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291":[6,0,3671,0],
-"dc/df7/classspell__alar__ember__blast.html":[6,0,2590],
-"dc/df7/classspell__alar__ember__blast.html#a09d4af96e2d5a69b1b61a6055bcb04d4":[6,0,2590,2],
-"dc/df7/classspell__alar__ember__blast.html#a6590aab70049aa5e94ed48aeb99ab1d0":[6,0,2590,1],
-"dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[6,0,2590,0]
+"dc/df7/classspell__alar__ember__blast.html":[6,0,2590]
 };

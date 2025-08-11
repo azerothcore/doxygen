@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/df1/boss__majordomo__executus_8cpp.html#a4ec2269bdb7fdf4d7103f1163f5bbc1c":[7,0,0,0,1,3,2,1,3,6,14],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5469eeae4a6e1b44cc2f9fd5219c0206":[7,0,0,0,1,3,2,1,3,6,11],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,6,8],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298ca14c2f56b8440f5f5fb81fe6be2aeb5d3":[7,0,0,0,1,3,2,1,3,6,8,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/df3/BattlegroundEY_8h.html#afe12e9c84415caf455b17f632d6aeba3a32661f0f356194241e2cc27357c5f249":[7,0,0,0,1,2,8,1,9,9,3],
 "d0/df3/BattlegroundEY_8h.html#afe12e9c84415caf455b17f632d6aeba3ae89c96248599408451ba22818a779a72":[7,0,0,0,1,2,8,1,9,9,0],
 "d0/df3/WeatherMgr_8h.html":[4,2,3],
-"d0/df3/classspell__item__feast.html":[6,0,3230],
-"d0/df3/classspell__item__feast.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7":[6,0,3230,2]
+"d0/df3/classspell__item__feast.html":[6,0,3230]
 };

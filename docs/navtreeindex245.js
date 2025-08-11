@@ -1,5 +1,8 @@
 var NAVTREEINDEX245 =
 {
+"d9/df7/classDBCFileLoader_1_1Record.html#a1647694079553a20a7c6621aa6d4ecf6":[6,0,952,0,1],
+"d9/df7/classDBCFileLoader_1_1Record.html#a3303a6b7ba364777e368158052dbe1db":[6,0,952,0,0],
+"d9/df7/classDBCFileLoader_1_1Record.html#a6f22775adc36b8955009f3f0bd51f355":[6,0,952,0,3],
 "d9/df7/classDBCFileLoader_1_1Record.html#a833c7017749b6b3109ebdee2ff0d3517":[6,0,952,0,2],
 "d9/df7/classDBCFileLoader_1_1Record.html#aa9814b507b472e781e08c803e025cc72":[6,0,952,0,5],
 "d9/df7/classDBCFileLoader_1_1Record.html#af6a95de37b34f0204f57323d9a39d110":[6,0,952,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dfb/structboss__temporus.html#a99356589a048debbc308b8431259da5c":[6,0,720,5],
 "d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,720,0],
 "d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,720,2],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2665],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[6,0,2665,1],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[6,0,2665,2],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[6,0,2665,0]
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2665]
 };

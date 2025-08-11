@@ -1,5 +1,9 @@
 var NAVTREEINDEX388 =
 {
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89":[7,0,0,0,1,3,5,9,2,4,40,0],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a31f296b7dc55c430e7e5ed7d05f8f9da":[7,0,0,0,1,3,5,9,2,4,40,20],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a3305ced5e8edcf6f636cdbf1f2ef862f":[7,0,0,0,1,3,5,9,2,4,40,2],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a433c3a28a5d051f56a8a8565c089e13b":[7,0,0,0,1,3,5,9,2,4,40,4],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a43c2b43d7aa194507dc7912f3f1c1560":[7,0,0,0,1,3,5,9,2,4,40,3],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[7,0,0,0,1,3,5,9,2,4,40,11],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a473c4bd4351fca7d4c76dc7e1d60dca0":[7,0,0,0,1,3,5,9,2,4,40,5],
@@ -147,12 +151,12 @@ var NAVTREEINDEX388 =
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[7,0,0,0,1,2,8,14,5,5],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[7,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,68],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,68,0],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,56,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,68,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,56,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,68,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[6,0,0,56,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,68,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX388 =
 "df/d8d/structSmartTarget.html#a855c817ec8a69aae1d0e145667f7490b":[6,0,2570,41],
 "df/d8d/structSmartTarget.html#a8772407f3c557a577055190db8e6345f":[6,0,2570,1],
 "df/d8d/structSmartTarget.html#a8839cff7ecc867c727857681aab9aa4a":[6,0,2570,12],
-"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[6,0,2570,34],
-"df/d8d/structSmartTarget.html#a9095fe57f1ed331e56303cb8e610c2bf":[6,0,2570,4],
-"df/d8d/structSmartTarget.html#a9a28c2b28ca936d582068ea129fc3e6a":[6,0,2570,58],
-"df/d8d/structSmartTarget.html#aa5ce6aa37d064ecad0bf31bee77fe4bc":[6,0,2570,39],
-"df/d8d/structSmartTarget.html#aaa06940768e7b9e08e549af80ab40650":[6,0,2570,62]
+"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[6,0,2570,34]
 };

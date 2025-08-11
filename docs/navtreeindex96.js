@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa31788e916a39dbab22dad68dead3a24":[7,0,0,0,1,2,48,7,0,406],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa34ea668878d896928b8fbd7643317f3":[7,0,0,0,1,2,48,7,0,99],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa3b15f55ea5afbf5897c1873a049be82":[7,0,0,0,1,2,48,7,0,493],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa40a6c132c609c110024c51da0d81edf":[7,0,0,0,1,2,48,7,0,191],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a465e0fbadd20f58713d3a03aa1224eeb":[7,0,0,0,1,3,4,4,0,3,6],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a565b34c34aee406865e39c2ad40888dd":[7,0,0,0,1,3,4,4,0,3,8],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f5616d4fab09b01ecd27365f9cf6955":[7,0,0,0,1,3,4,4,0,3,7],
-"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a85155314c1a931c26279834d66e88fbb":[7,0,0,0,1,3,4,4,0,3,21],
-"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8ba97aeedf0b7bc307a224d7cbbd34b3":[7,0,0,0,1,3,4,4,0,3,18]
+"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a85155314c1a931c26279834d66e88fbb":[7,0,0,0,1,3,4,4,0,3,21]
 };

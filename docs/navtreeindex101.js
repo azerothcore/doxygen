@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19aa65ac0ac68c78f1c2ea895c7db9bf159":[7,0,0,0,1,3,5,2,0,5,2,14],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab71272c0048c67a869f3b2c54eb4a1fb":[7,0,0,0,1,3,5,2,0,5,2,8],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19abb5ea8659950cd843a5e047c37fe0d8e":[7,0,0,0,1,3,5,2,0,5,2,10],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae327d558268132cc78f48afde7813c1c":[7,0,0,0,1,3,5,2,0,5,2,6],
@@ -193,10 +194,10 @@ var NAVTREEINDEX101 =
 "d3/d8b/Geometry_8h.html#a61d2d33d44f335480a833a04436620ba":[7,0,0,0,0,15,13,4],
 "d3/d8b/Geometry_8h.html#a62641094ea3c1b9506faefa7a35ba456":[7,0,0,0,0,15,13,2],
 "d3/d8b/Geometry_8h.html#a95ce6760beb476a4c24ff46d3069103f":[7,0,0,0,0,15,13,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,30,7,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,30,7,3,0],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,7,3,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,30,7,3,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,30,7,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caea3ed8b979b3a59b5f1cfa805e42a176":[7,0,0,0,1,3,7,1,8,10,8],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cafe4e4e1fb7bb1e9df3e6c6b5fd0b1606":[7,0,0,0,1,3,7,1,8,10,0],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,1,8,11],
-"d3/d8d/classspell__mage__master__of__elements.html":[6,0,3403],
-"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[6,0,3403,4]
+"d3/d8d/classspell__mage__master__of__elements.html":[6,0,3403]
 };

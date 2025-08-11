@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaedeecd0c92b04d69d6805edc965ccaff":[7,0,0,0,1,2,28,2,0,463],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaee284332b2a2e8f34945453834532574":[7,0,0,0,1,2,28,2,0,874],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaee980c28d0c1f3032f7b68c40067a200":[7,0,0,0,1,2,28,2,0,62],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaeeb6196b10b3ef554ef0fdd7725b73f6":[7,0,0,0,1,2,28,2,0,699],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a8c5e43b4b4e0583db7dcc93694202bd8":[6,0,392,0,3],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#aaf47fc993e672877f51b5095f682906c":[6,0,392,0,4],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#ad339cb7149b50cf5accc24b5a2d0bf82":[6,0,392,0,1],
-"d7/da8/classspell__dru__glyph__of__starfire.html":[6,0,2817],
-"d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[6,0,2817,0]
+"d7/da8/classspell__dru__glyph__of__starfire.html":[6,0,2817]
 };

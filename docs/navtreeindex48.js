@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d1/df0/classMapReference.html#a352ef695a8968a17e921861b7d6242c1":[6,0,1486,2],
 "d1/df0/classMapReference.html#a6cfff18295cf049ff554b0f140680890":[6,0,1486,4],
 "d1/df0/classMapReference.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604":[6,0,1486,8],
 "d1/df0/classMapReference.html#abfbeb2ab5831f1f2a52bcb506318d85e":[6,0,1486,0],
@@ -106,16 +107,16 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[6,0,3000,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[6,0,3000,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3000,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,72,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[6,0,0,60,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,1,72,4],
 "d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a":[7,0,0,0,1,2,3,4,7,1],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4":[7,0,0,0,1,2,3,4,7,3],
 "d2/d05/CreatureAI_8h.html#a5548091cca58d569e4226b6915ec8cb2":[7,0,0,0,1,2,3,4,2],
-"d2/d05/CreatureAI_8h.html#a7994a32cb10f6de9d90e32ef2d6c1f37":[7,0,0,0,1,2,3,4,3],
-"d2/d05/CreatureAI_8h.html#a8561d766fce1bb059293efa6256c9717":[7,0,0,0,1,2,3,4,5]
+"d2/d05/CreatureAI_8h.html#a7994a32cb10f6de9d90e32ef2d6c1f37":[7,0,0,0,1,2,3,4,3]
 };

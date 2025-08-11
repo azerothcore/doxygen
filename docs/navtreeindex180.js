@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/dd6/structLogMessage.html#a77105c721645df5654e3c48ce00c2b5a":[6,0,1442,12],
 "d6/dd6/structLogMessage.html#aaeca452ae2fe32e7412f4abc30642da2":[6,0,1442,3],
 "d6/dd6/structLogMessage.html#ad2947063f8263da27acc82ce0bba6bc2":[6,0,1442,6],
 "d6/dd6/structLogMessage.html#af35b8fc183cb1848e965117497f50ab4":[6,0,1442,5],
@@ -26,12 +27,12 @@ var NAVTREEINDEX180 =
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#ae1dfa086c89a4180d42d231064d88602":[6,0,3627,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,11,11,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,30,11,0],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,11,11,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,30,11,0,5],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,11,11,0,4],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,11,11,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,30,11,0,4],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,11,11,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,11,11,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,30,11,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,11,11,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[6,0,11,11,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,30,11,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,11,11,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/de7/classspell__pri__mana__leech.html#ab8f483be4d01aa2460c90b043d7a441b":[6,0,3550,3],
 "d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[6,0,3550,2],
 "d6/de7/classspell__pri__mana__leech.html#adce0da60782bcdadbb42ec1c73fddec1":[6,0,3550,0],
-"d6/de9/boss__felmyst_8cpp.html":[7,0,0,0,1,3,2,12,2],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,12,2,8]
+"d6/de9/boss__felmyst_8cpp.html":[7,0,0,0,1,3,2,12,2]
 };

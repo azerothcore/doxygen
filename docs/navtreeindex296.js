@@ -1,5 +1,8 @@
 var NAVTREEINDEX296 =
 {
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18":[7,0,0,0,1,2,8,15,1],
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1":[7,0,0,0,1,2,8,15,1,8],
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b":[7,0,0,0,1,2,8,15,1,10],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046":[7,0,0,0,1,2,8,15,1,0],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a":[7,0,0,0,1,2,8,15,1,13],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f":[7,0,0,0,1,2,8,15,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX296 =
 "db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8d":[7,0,0,0,1,3,9,8,81],
 "db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8da5cf478d8e065569afd882f42012dac02":[7,0,0,0,1,3,9,8,81,1],
 "db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8da97980b335416ab1a012800e18a1cd176":[7,0,0,0,1,3,9,8,81,0],
-"db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8dabf7c777a3258a5c3e5446e600dd5764f":[7,0,0,0,1,3,9,8,81,2],
-"db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8dad0eb945ca0b4be8812691e5294ef23f3":[7,0,0,0,1,3,9,8,81,3],
-"db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2f":[7,0,0,0,1,3,9,8,75],
-"db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2fa26915bf073b10f3775e4982e8420446b":[7,0,0,0,1,3,9,8,75,3]
+"db/dfb/spell__quest_8cpp.html#abda6ef9e8ebff6213b9c15d6afcfdb8dabf7c777a3258a5c3e5446e600dd5764f":[7,0,0,0,1,3,9,8,81,2]
 };

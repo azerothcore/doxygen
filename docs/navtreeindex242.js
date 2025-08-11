@@ -1,5 +1,8 @@
 var NAVTREEINDEX242 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72d":[7,0,0,0,1,3,5,9,0,3,8],
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0":[7,0,0,0,1,3,5,9,0,3,8,5],
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48":[7,0,0,0,1,3,5,9,0,3,8,1],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802":[7,0,0,0,1,3,5,9,0,3,8,0],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da70309c041527816c73053b7d9b387f88":[7,0,0,0,1,3,5,9,0,3,8,6],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da7f56b593c8a5036f3bbf31b42c0ae10a":[7,0,0,0,1,3,5,9,0,3,8,7],
@@ -76,8 +79,8 @@ var NAVTREEINDEX242 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,1,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,30,1,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,30,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,1,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,30,1,7,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX242 =
 "d9/dd0/classspell__sha__bloodlust.html":[6,0,3762],
 "d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[6,0,3762,3],
 "d9/dd0/classspell__sha__bloodlust.html#aa37525d089348f58e3d871830caa3417":[6,0,3762,1],
-"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3762,0],
-"d9/dd0/classspell__sha__bloodlust.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9":[6,0,3762,2],
-"d9/dd0/classspell__sha__bloodlust.html#ac69d777fdf7a2d3c527621dee256690c":[6,0,3762,4],
-"d9/dd1/classspell__class__call__handler.html":[6,0,2711]
+"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3762,0]
 };

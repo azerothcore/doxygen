@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27a635ab1007034f32bd4494025160cd38f":[7,0,0,0,1,2,16,10,5,43,1],
 "d1/daf/Unit_8h.html#abd1700cb7205e6e64d9f8ca35795ff27ab39ff7e0d62e002306b72add24774201":[7,0,0,0,1,2,16,10,5,43,3],
 "d1/daf/Unit_8h.html#abd60910b52e9fd2a0b8f4b030183f02c":[7,0,0,0,1,2,16,10,5,45],
 "d1/daf/Unit_8h.html#abd60910b52e9fd2a0b8f4b030183f02ca9f0b169d4598df6b4325177393e01b9c":[7,0,0,0,1,2,16,10,5,45,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dba/classspell__rog__nerves__of__steel.html#a656f4770b0f7099f5926a8063f7d740c":[6,0,3723,4],
 "d1/dba/classspell__rog__nerves__of__steel.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6":[6,0,3723,1],
 "d1/dba/classspell__rog__nerves__of__steel.html#ac273b669dc396561d9ec8b523659363f":[6,0,3723,3],
-"d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3723,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,1,56]
+"d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[6,0,3723,2]
 };

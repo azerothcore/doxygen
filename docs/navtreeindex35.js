@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d71/structnpc__frost__tomb.html#a456fcd5dd3f504954a74fc068f253dc2":[6,0,1790,3],
 "d1/d71/structnpc__frost__tomb.html#a9c7abe1dc25b807d34f1ed818ab639ef":[6,0,1790,0],
 "d1/d71/structnpc__frost__tomb.html#af2122e9c8cb206151f631659c7d167da":[6,0,1790,2],
 "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html":[6,0,707,0],
@@ -231,8 +232,8 @@ var NAVTREEINDEX35 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[6,0,1361,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[6,0,1361,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1361,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,27,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,27,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d81/ScriptObject_8cpp.html#a37068ff91511f7df359c3cf9be0e8d72":[7,0,0,0,1,2,38,5,0],
 "d1/d81/ScriptObject_8cpp.html#aacb4fdedfc86aea6c855e3be41e0c6e1":[7,0,0,0,1,2,38,5,2],
 "d1/d81/ScriptObject_8cpp.html#aad36f2a434a53db1767a65fa0a1dffdc":[7,0,0,0,1,2,38,5,1],
-"d1/d81/classboss__yoggsaron__neltharion.html":[6,0,800],
-"d1/d81/classboss__yoggsaron__neltharion.html#a9910e0d6043e7738cba0fe9ae7e92898":[6,0,800,1]
+"d1/d81/classboss__yoggsaron__neltharion.html":[6,0,800]
 };

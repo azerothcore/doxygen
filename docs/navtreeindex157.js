@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a22ba7cb52076decbbbd73cb7898d88eb":[6,0,1333,0,11],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a2acc3af0079f83ac5a28eb0debf496fd":[6,0,1333,0,29],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a306e5ae198bed3fdfea03659b547a034":[6,0,1333,0,3],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a36a37b0bf6f2be53d562c198019b9fc6":[6,0,1333,0,30],
@@ -132,8 +133,8 @@ var NAVTREEINDEX157 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,30,5,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,11,5,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,30,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,11,5,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,11,5,29,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aa8cab75c2d4bc603a956094f60d53c45d":[7,0,0,0,1,3,7,5,0,0,11,2],
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aaa030ac4f9a55e525dfe9941cc72029fd":[7,0,0,0,1,3,7,5,0,0,11,6],
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aabb1a6b84a9832a1986051c85b21d551e":[7,0,0,0,1,3,7,5,0,0,11,3],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457":[7,0,0,0,1,3,7,5,0,0,6],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,0,6,10]
+"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457":[7,0,0,0,1,3,7,5,0,0,6]
 };

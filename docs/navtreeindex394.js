@@ -1,5 +1,9 @@
 var NAVTREEINDEX394 =
 {
+"df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,10,2],
+"df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[7,0,0,0,1,2,3,10,1],
+"df/dbe/HostileRefMgr_8h.html":[7,0,0,0,1,2,12,1],
+"df/dbe/structBuildValuesCachedBuffer.html":[6,0,820],
 "df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[6,0,820,0],
 "df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,820,1],
 "df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,820,2],
@@ -103,12 +107,12 @@ var NAVTREEINDEX394 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2334,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2334,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2334,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,30,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,30,1,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,30,1,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
 "df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
 "df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX394 =
 "df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[6,0,1006,11],
 "df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[6,0,1006,7],
 "df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[6,0,1006,2],
-"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1006,12],
-"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[6,0,1006,8],
-"df/dd3/classachievement__shadowdodger.html":[6,0,87],
-"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,87,1],
-"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,87,0]
+"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1006,12]
 };

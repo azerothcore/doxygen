@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca1a97163364826a65825f8e71976362c8":[7,0,0,0,1,3,2,12,0,8,1],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,12,0,8,5],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6":[7,0,0,0,1,3,2,12,0,8,6],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463cab0554bb474effa5a810d32f250d0c1e5":[7,0,0,0,1,3,2,12,0,8,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936":[7,0,0,0,1,3,10,12,1,0],
 "d8/d19/npc__stave__of__ancients_8h.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee":[7,0,0,0,1,3,10,12,1,9],
 "d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5a":[7,0,0,0,1,3,10,12,5],
-"d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5aa01a00ad67f65745c45300c65fb85a329":[7,0,0,0,1,3,10,12,5,0],
-"d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5aa537440d3949e818014bd5962f1faab81":[7,0,0,0,1,3,10,12,5,1]
+"d8/d19/npc__stave__of__ancients_8h.html#aa5ed2f1543f33f7119a73d663739cb5aa01a00ad67f65745c45300c65fb85a329":[7,0,0,0,1,3,10,12,5,0]
 };

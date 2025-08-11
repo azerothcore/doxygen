@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d68/classspell__ionar__static__overload.html#adf6b3d56199ad5a4545ce3874d1223db":[6,0,3195,0],
 "d4/d69/classboss__flame__leviathan__defense__turret.html":[6,0,468],
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a1c3726e2b753cda18bd11d8f4ff154db":[6,0,468,2],
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a939c66ff6c1eb6dfdb3d93b3d0292e40":[6,0,468,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb":[6,0,3874,2],
 "d4/d77/classspell__the__lich__king__life__siphon.html#a6545fe9f40c0aed036192008a2d6e28e":[6,0,3874,3],
 "d4/d77/worldserver_2resource_8h.html":[7,0,0,0,1,0,1,5],
-"d4/d78/boss__anubarak__trial_8cpp.html":[7,0,0,0,1,3,5,2,1,0],
-"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0":[7,0,0,0,1,3,5,2,1,0,16]
+"d4/d78/boss__anubarak__trial_8cpp.html":[7,0,0,0,1,3,5,2,1,0]
 };

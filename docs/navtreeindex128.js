@@ -1,5 +1,6 @@
 var NAVTREEINDEX128 =
 {
+"d4/d7f/classboss__thorim__trap.html#afd4ee85d73354b790c0d55abbfad75fd":[6,0,742,2],
 "d4/d7f/structPointOfInterestLocale.html":[6,0,2426],
 "d4/d7f/structPointOfInterestLocale.html#a624a1c1204cbc15acfc810a7720b8ea0":[6,0,2426,0],
 "d4/d80/structWMOAreaTableEntry.html":[6,0,4270],
@@ -248,6 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a80a6756ea06179389f8a2b253562baff":[7,0,0,0,1,3,5,2,1,1,54,4],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a901e60dd92a92f9b0f3e1d709857498f":[7,0,0,0,1,3,5,2,1,1,54,2],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ac61cb65d7d9b3ba66dc98fa8fdc9e602":[7,0,0,0,1,3,5,2,1,1,54,3],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ade68cd811c4f056f8e57baddec5c91d2":[7,0,0,0,1,3,5,2,1,1,54,5],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9aea705293d77171b26b0268e94a0816eb":[7,0,0,0,1,3,5,2,1,1,54,8]
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ade68cd811c4f056f8e57baddec5c91d2":[7,0,0,0,1,3,5,2,1,1,54,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1a75557ad5764031e53651c67e192b0b09":[7,0,0,0,1,3,4,1,0,6,5,47],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1a8462bf33d57837a18305d183a17224f8":[7,0,0,0,1,3,4,1,0,6,5,3],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1a85c7a4723ee1b79f6451de474066d7f7":[7,0,0,0,1,3,4,1,0,6,5,16],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1a9104f7f7e3451e240021322d93607c57":[7,0,0,0,1,3,4,1,0,6,5,24],
@@ -128,8 +129,8 @@ var NAVTREEINDEX23 =
 "d1/d01/structWMOLiquidVert.html#a6c08b6fa33e12a9900218d0d0b8b78d5":[6,0,4274,1],
 "d1/d01/structWMOLiquidVert.html#a7638f586a055c48a46e36471543ff72f":[6,0,4274,0],
 "d1/d02/BattlefieldWG_8cpp.html":[7,0,0,0,1,2,7,0,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[6,0,11,11,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,30,11,1],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[6,0,11,11,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,11,11,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[5,0,30,11,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,30,11,1,2],
@@ -166,18 +167,18 @@ var NAVTREEINDEX23 =
 "d1/d05/classnpc__lakota__windsong.html#a08a585ac36189ec23354c7acb26d223d":[6,0,1920,1],
 "d1/d05/classnpc__lakota__windsong.html#a47ccf0b8bef84724f7aa7e2ad564dfe6":[6,0,1920,3],
 "d1/d05/classnpc__lakota__windsong.html#af2f27ed2c4bd7298a9478495d2d7ca65":[6,0,1920,2],
-"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,115],
 "d1/d05/structAcore_1_1VisibleNotifier.html":[5,0,1,127],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,127,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,115],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,115,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,127,5],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[5,0,1,127,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,115,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6954721b71a55874c7f708bf822613bd":[5,0,1,127,6],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6954721b71a55874c7f708bf822613bd":[6,0,0,115,6],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[5,0,1,127,4],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,4],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[5,0,1,127,4],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,127,2],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,115,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[5,0,1,127,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,115,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#aef83dfb3c6c737af77b63b650fdf5749":[6,0,1766,0,14],
 "d1/d0a/boss__chromaggus_8cpp.html":[7,0,0,0,1,3,2,1,2,2],
 "d1/d0a/boss__chromaggus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,1,2,2,7],
-"d1/d0a/boss__chromaggus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,2,1,2,2,7,0],
-"d1/d0a/boss__chromaggus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e":[7,0,0,0,1,3,2,1,2,2,7,1]
+"d1/d0a/boss__chromaggus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,2,1,2,2,7,0]
 };

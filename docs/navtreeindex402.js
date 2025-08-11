@@ -1,5 +1,9 @@
 var NAVTREEINDEX402 =
 {
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3330,3],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3330,1],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,1,17],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[7,0,0,0,1,3,5,6,1,17,2],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,6,1,17,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX402 =
 "dir_3adc8ed69e0e90d16469d218b57e0fdd.html":[7,0,0,0,2,2,0,0,0],
 "dir_3c4f1d0049890b6fe47974d55db5d117.html":[7,0,0,0,1,3,5,11],
 "dir_3c5bad3427979d3a913ef3b527a38b4f.html":[7,0,0,0,1,3,5,2,0],
-"dir_40fdcae811a89cab23fa8a548fe8a1a0.html":[7,0,0,0,1,2,28],
-"dir_4135abd5956581eb408665f16b5c495d.html":[7,0,0,0,1,1,0],
-"dir_41607be5ca2b4d0d6df157e10dd34336.html":[7,0,0,0,1,3,2,13],
-"dir_42e184c577509afec1669ce36706e568.html":[7,0,0,0,1,2,29],
-"dir_432bda28dad7986d3a1dc3010dcbb57c.html":[7,0,0,0,2,2,0]
+"dir_40fdcae811a89cab23fa8a548fe8a1a0.html":[7,0,0,0,1,2,28]
 };

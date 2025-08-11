@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d7/d2a/instance__the__underbog_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,3,4,3],
 "d7/d2a/instance__the__underbog_8cpp.html#acc5edb97f1bda7cd30a38061e4676698":[7,0,0,0,1,3,7,2,3,4,2],
 "d7/d2b/boss__rotface_8cpp.html":[7,0,0,0,1,3,5,6,8],
 "d7/d2b/boss__rotface_8cpp.html#a3440b8f90693bcd2729d81618dc9410b":[7,0,0,0,1,3,5,6,8,22],
@@ -53,18 +54,18 @@ var NAVTREEINDEX186 =
 "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,6,8,18,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html":[6,0,9,10],
 "d7/d2b/classVMAP_1_1ManagedModel.html":[5,0,27,10],
-"d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[6,0,9,10,2],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[5,0,27,10,2],
-"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,27,10,1],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[6,0,9,10,2],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[6,0,9,10,1],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,27,10,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[6,0,9,10,4],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[5,0,27,10,4],
-"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[5,0,27,10,3],
+"d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,27,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
-"d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,27,10,5],
+"d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3768],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a241b65bdcb6aefa4e37b61c5007149f6":[6,0,3768,1],
 "d7/d2c/classspell__sha__earthliving__weapon.html#a4efa486733390dea566e1169902db915":[6,0,3768,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d37/the__slave__pens_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,2,1,6,0],
 "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611c":[7,0,0,0,1,3,7,2,1,6,5],
 "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611ca9b75ef7e173cd15b3202777fce52a66e":[7,0,0,0,1,3,7,2,1,6,5,0],
-"d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611cab111ea8e2dbb3555a27b1a933059f1e0":[7,0,0,0,1,3,7,2,1,6,5,1],
-"d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9":[7,0,0,0,1,3,7,2,1,6,3]
+"d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611cab111ea8e2dbb3555a27b1a933059f1e0":[7,0,0,0,1,3,7,2,1,6,5,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59":[7,0,0,0,1,3,9,2,139],
 "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a28c8fb2ced35033a0f9ca7175860e067":[7,0,0,0,1,3,9,2,139,4],
 "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0":[7,0,0,0,1,3,9,2,139,0],
 "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4":[7,0,0,0,1,3,9,2,139,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html#ae5bdb5509aad0d386bf73e5aad728744":[6,0,378,0,0],
 "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html#ae83c1def323828814b5db6b032002438":[6,0,378,0,1],
 "d1/df0/classMapReference.html":[6,0,1486],
-"d1/df0/classMapReference.html#a1e93b44871737991140718322fd1cd69":[6,0,1486,1],
-"d1/df0/classMapReference.html#a352ef695a8968a17e921861b7d6242c1":[6,0,1486,2]
+"d1/df0/classMapReference.html#a1e93b44871737991140718322fd1cd69":[6,0,1486,1]
 };

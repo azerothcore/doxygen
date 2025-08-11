@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a3d93f3f437c7f4d9db67aa079db31eac":[6,0,1319,0,30],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a3dd464a7fc67f94ad0ff58037993ce6b":[6,0,1319,0,1],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a436a085f60295a2b5c8547820dc4e42a":[6,0,1319,0,21],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a453c29fec7527c3756f34d447ab63c27":[6,0,1319,0,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5":[6,0,2119,1],
 "d2/d28/structnpc__singularity.html#ad019d234ca9ee719612d59e5bb0b53ea":[6,0,2119,3],
 "d2/d28/structnpc__singularity.html#ae81c2e5865beb00df8683fa0fb6e7872":[6,0,2119,2],
-"d2/d29/classspell__hallows__end__candy__pirate__costume.html":[6,0,3072],
-"d2/d29/classspell__hallows__end__candy__pirate__costume.html#a22f3143b10155635194abe22994a397c":[6,0,3072,0]
+"d2/d29/classspell__hallows__end__candy__pirate__costume.html":[6,0,3072]
 };

@@ -8,6 +8,8 @@ var classStaticTransport =
     [ "Create", "d8/d57/classStaticTransport.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
     [ "GetPauseTime", "d8/d57/classStaticTransport.html#a6be1d21626f3749b695413d9a6703823", null ],
     [ "GetPeriod", "d8/d57/classStaticTransport.html#aedf0413dbd588acf5c8646390f003060", null ],
+    [ "LoadFromDB", "d8/d57/classStaticTransport.html#a6d0f5b6c6d445132cb37082d12320afd", null ],
+    [ "LoadGameObjectFromDB", "d8/d57/classStaticTransport.html#a50b6b6bca35e44e246bde1c1b02b3d69", null ],
     [ "RelocateToProgress", "d8/d57/classStaticTransport.html#acf98efbbabb71e4e9f7cf0a152b33e2b", null ],
     [ "RemovePassenger", "d8/d57/classStaticTransport.html#ad4362ce7937c48ce0e5eb68ae97f789f", null ],
     [ "SetPauseTime", "d8/d57/classStaticTransport.html#aaa57cb09072c6a7f22af38055f83b3b1", null ],

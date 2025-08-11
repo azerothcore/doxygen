@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9aea705293d77171b26b0268e94a0816eb":[7,0,0,0,1,3,5,2,1,1,54,8],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5":[7,0,0,0,1,3,5,2,1,1,67],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,2,1,1,67,3],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a448752b7905acc2f95a5197a10b3562b":[7,0,0,0,1,3,5,2,1,1,67,7],
@@ -185,12 +186,12 @@ var NAVTREEINDEX129 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,2990,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,2990,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,2990,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,849],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#aa5c80b5759656e3865d6721161f9f005":[6,0,1639,0,1],
 "d4/d8d/boss__urom_8cpp.html":[7,0,0,0,1,3,5,8,2,2],
 "d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,2,6],
-"d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,2,6,6],
-"d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1d5160432b20a5b6507647bd3f6bbe07":[7,0,0,0,1,3,5,8,2,2,6,4]
+"d4/d8d/boss__urom_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,2,6,6]
 };

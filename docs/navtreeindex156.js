@@ -1,5 +1,6 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[7,0,0,0,1,3,2,1,2,5,3,0],
 "d5/dd8/structCreatureAddon.html":[6,0,911],
 "d5/dd8/structCreatureAddon.html#a20695ff7997e1ebd6fe898a8b41aeddb":[6,0,911,0],
 "d5/dd8/structCreatureAddon.html#a4d84276a45de1b62e507ac5c763dce3a":[6,0,911,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1333,0,23],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[6,0,1333,0,32],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1333,0,10],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a1deb1d344704fa07ab78ad29f21814e4":[6,0,1333,0,21],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a22ba7cb52076decbbbd73cb7898d88eb":[6,0,1333,0,11]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a1deb1d344704fa07ab78ad29f21814e4":[6,0,1333,0,21]
 };

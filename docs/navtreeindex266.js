@@ -1,5 +1,8 @@
 var NAVTREEINDEX266 =
 {
+"da/dbf/Player_8h.html#a95dadd52b33da56e706760fd70e83681":[7,0,0,0,1,2,16,7,5,44],
+"da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29":[7,0,0,0,1,2,16,7,5,125],
+"da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29a1409f730f8ce0935d0987666ec35724b":[7,0,0,0,1,2,16,7,5,125,4],
 "da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29a204b03b1b48f61ad7570fd091374ff39":[7,0,0,0,1,2,16,7,5,125,0],
 "da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29a25f92c2b2ab3c1d261f1c79eb54be9b0":[7,0,0,0,1,2,16,7,5,125,3],
 "da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29a6f0108f107fd1e87a1e4dfd13b5208b1":[7,0,0,0,1,2,16,7,5,125,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX266 =
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html#a6036577cd7b4fbbc55e90e9ab067f13a":[6,0,3453,3],
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html#a814083360970284a325621f45e109b5b":[6,0,3453,5],
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html#aa8f0401dd004e816b8071381289116fa":[6,0,3453,0],
-"da/dc6/classResetToHomeOrientation.html":[6,0,2499],
-"da/dc6/classResetToHomeOrientation.html#a1009ddced98cc6fae6108aa36dfba671":[6,0,2499,0],
-"da/dc6/classResetToHomeOrientation.html#a5233190cd777c3d65f2e1c4ce1d6efb2":[6,0,2499,2],
-"da/dc6/classResetToHomeOrientation.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa":[6,0,2499,1]
+"da/dc6/classResetToHomeOrientation.html":[6,0,2499]
 };

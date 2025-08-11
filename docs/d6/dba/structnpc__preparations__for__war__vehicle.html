@@ -621,7 +621,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   85</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dba/structnpc__preparations__for__war__vehicle.html#a49f8a43891d61460b1d6cdde610a2e88">searchForShipTimer</a> &gt;= 3000)</div>
 <div class="line"><span class="lineno">   86</span>            {</div>
 <div class="line"><span class="lineno">   87</span>                <a class="code hl_variable" href="../../d6/dba/structnpc__preparations__for__war__vehicle.html#a49f8a43891d61460b1d6cdde610a2e88">searchForShipTimer</a> = 1;</div>
-<div class="line"><span class="lineno">   88</span>                <a class="code hl_typedef" href="../../df/d79/Map_8h.html#aa1d1667bce2cfb0f4337b52f9754cb73">TransportsContainer</a> <span class="keyword">const</span>&amp; transports = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a7f81bb1122ae428b4a765ff62edf495a">GetAllTransports</a>();</div>
+<div class="line"><span class="lineno">   88</span>                <a class="code hl_typedef" href="../../df/d79/Map_8h.html#a6ca566ddeb275c5d65ead48048181bff">TransportsContainer</a> <span class="keyword">const</span>&amp; transports = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a7f81bb1122ae428b4a765ff62edf495a">GetAllTransports</a>();</div>
 <div class="line"><span class="lineno">   89</span>                <span class="keywordflow">for</span> (TransportsContainer::const_iterator itr = transports.begin(); itr != transports.end(); ++itr)</div>
 <div class="line"><span class="lineno">   90</span>                {</div>
 <div class="line"><span class="lineno">   91</span>                    <span class="keywordflow">if</span> ((*itr)-&gt;GetEntry() == <a class="code hl_variable" href="../../d6/dba/structnpc__preparations__for__war__vehicle.html#aa0083566387cd42750aaa56b1fa23fed">transportEntry</a>)</div>
@@ -660,7 +660,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  124</span>            }</div>
 <div class="line"><span class="lineno">  125</span>        }</div>
 <div class="line"><span class="lineno">  126</span>    }</div>
-<div class="ttc" id="aMap_8h_html_aa1d1667bce2cfb0f4337b52f9754cb73"><div class="ttname"><a href="../../df/d79/Map_8h.html#aa1d1667bce2cfb0f4337b52f9754cb73">TransportsContainer</a></div><div class="ttdeci">std::set&lt; MotionTransport * &gt; TransportsContainer</div><div class="ttdef"><b>Definition</b> Map.h:149</div></div>
+<div class="ttc" id="aMap_8h_html_a6ca566ddeb275c5d65ead48048181bff"><div class="ttname"><a href="../../df/d79/Map_8h.html#a6ca566ddeb275c5d65ead48048181bff">TransportsContainer</a></div><div class="ttdeci">std::unordered_set&lt; Transport * &gt; TransportsContainer</div><div class="ttdef"><b>Definition</b> Map.h:149</div></div>
 <div class="ttc" id="aVehicleDefines_8h_html_a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae"><div class="ttname"><a href="../../d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a></div><div class="ttdeci">@ VEHICLE_SPELL_PARACHUTE</div><div class="ttdef"><b>Definition</b> VehicleDefines.h:53</div></div>
 <div class="ttc" id="aclassMap_html_a7f81bb1122ae428b4a765ff62edf495a"><div class="ttname"><a href="../../d7/db0/classMap.html#a7f81bb1122ae428b4a765ff62edf495a">Map::GetAllTransports</a></div><div class="ttdeci">TransportsContainer const &amp; GetAllTransports() const</div><div class="ttdef"><b>Definition</b> Map.h:461</div></div>
 <div class="ttc" id="aclassMotionMaster_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:213</div></div>
@@ -732,7 +732,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dba/structnpc__preparations__for__war__vehicle.html">npc_preparations_for_war_vehicle</a></li>
-    <li class="footer">Generated on Sun Aug 10 2025 06:24:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Aug 11 2025 06:28:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

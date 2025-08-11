@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI.html#a56c157928c24daae6edacd5a126ef171":[6,0,2290,0,4],
 "d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI.html#a5affcb00e28a582f8926ab2226001cd0":[6,0,2290,0,5],
 "d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI.html#a8e6be35a3079998f3bab829f5d963c71":[6,0,2290,0,3],
 "d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI.html#aa97f5294981c44b530efca1411458a97":[6,0,2290,0,2],
@@ -110,16 +111,16 @@ var NAVTREEINDEX2 =
 "d0/d23/ArenaSeasonRewardsDistributor_8cpp.html#a4d7ce2e01ab25ea6833099b2821b6b5b":[7,0,0,0,1,2,8,0,2,0],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html":[6,0,0,125],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html":[5,0,1,137],
-"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211":[6,0,0,125,3],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211":[5,0,1,137,3],
+"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211":[6,0,0,125,3],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ab246baa9a8ce259d8190ac1c8318c75d":[6,0,0,125,6],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ab246baa9a8ce259d8190ac1c8318c75d":[5,0,1,137,6],
-"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac02e770af167d14f978954cf5ac74487":[6,0,0,125,0],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac02e770af167d14f978954cf5ac74487":[5,0,1,137,0],
+"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac02e770af167d14f978954cf5ac74487":[6,0,0,125,0],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac2ae2ce8dc49ce7469142383e6e097d4":[6,0,0,125,5],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ac2ae2ce8dc49ce7469142383e6e097d4":[5,0,1,137,5],
-"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ad5e85ced19572dcd5ae75caa7e50cbf6":[5,0,1,137,1],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ad5e85ced19572dcd5ae75caa7e50cbf6":[6,0,0,125,1],
+"d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ad5e85ced19572dcd5ae75caa7e50cbf6":[5,0,1,137,1],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ae08f4d73e048b351ae4326cc63278ae6":[5,0,1,137,4],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ae08f4d73e048b351ae4326cc63278ae6":[6,0,0,125,4],
 "d0/d23/classAcore_1_1WorldWorldTextBuilder.html#ae8b58ec72a6c87aee46e9fe693deab32":[5,0,1,137,2],
@@ -200,8 +201,8 @@ var NAVTREEINDEX2 =
 "d0/d27/Vehicle_8cpp.html":[7,0,0,0,1,2,16,11,0],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html":[6,0,0,74],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html":[5,0,1,86],
-"d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a021acff6bdb6aef9ab24c19d8798884f":[5,0,1,86,6],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a021acff6bdb6aef9ab24c19d8798884f":[6,0,0,74,6],
+"d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a021acff6bdb6aef9ab24c19d8798884f":[5,0,1,86,6],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a11c197d3eea1a8ded0b20f707e6ed5d0":[5,0,1,86,4],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a11c197d3eea1a8ded0b20f707e6ed5d0":[6,0,0,74,4],
 "d0/d28/classAcore_1_1MostHPPercentMissingInRange.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d":[5,0,1,86,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a52b76fb6142b7bf985de68cd44627071":[7,0,0,0,1,3,5,0,0,4,12,2],
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8effd702b694d745eecd06caf2d8bcde":[7,0,0,0,1,3,5,0,0,4,12,1],
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,0,0,4,12,3],
-"d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ace41cf0f4529e2e379510755e86f0484":[7,0,0,0,1,3,5,0,0,4,12,6],
-"d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a478ab8fa49ee82fd1260096de7ab6b0d":[7,0,0,0,1,3,5,0,0,4,14]
+"d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ace41cf0f4529e2e379510755e86f0484":[7,0,0,0,1,3,5,0,0,4,12,6]
 };

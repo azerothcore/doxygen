@@ -1,5 +1,8 @@
 var NAVTREEINDEX309 =
 {
+"dc/d79/classSocialMgr.html#a2f8a276598ad01d350aa245fcef82a7a":[6,0,2574,10],
+"dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2574,1],
+"dc/d79/classSocialMgr.html#a55b35ea17ebfea4ff31710186b87865f":[6,0,2574,3],
 "dc/d79/classSocialMgr.html#a6b4968dc0a09a48c2b58e40d47da665d":[6,0,2574,8],
 "dc/d79/classSocialMgr.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9":[6,0,2574,6],
 "dc/d79/classSocialMgr.html#a8824263f601c107ef84e487ca1b71bff":[6,0,2574,9],
@@ -126,14 +129,14 @@ var NAVTREEINDEX309 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,1996,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,1996,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a496bce28eb0bf0ac4b5e1c54c19193b7":[5,0,1,8,0,36],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a61f1a636e46a7d78161298ae28844703":[5,0,1,8,0,33],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a7dd784bc8e3d7db1d11c46886088ad76":[5,0,1,8,0,34],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aae4c9556d5cc172144fa280ca820226d":[5,0,1,8,0,39],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#ab72843264c39ce4d9aa3d4d8fbd83fc4":[5,0,1,8,0,38],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b":[5,0,1,8,0,32],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,1,8,0,40]
+"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aae4c9556d5cc172144fa280ca820226d":[5,0,1,8,0,39]
 };

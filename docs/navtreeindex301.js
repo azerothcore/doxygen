@@ -1,5 +1,8 @@
 var NAVTREEINDEX301 =
 {
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[7,0,0,0,1,3,2,1,0,4,2],
+"dc/d20/classboss__novos.html":[6,0,640],
+"dc/d20/classboss__novos.html#a898a5ee1de69df17fde66c84dd065ac1":[6,0,640,1],
 "dc/d20/classboss__novos.html#aaf28e2a23a8139197dccc92ae29a8be4":[6,0,640,2],
 "dc/d20/structSHostageInfo.html":[6,0,2549],
 "dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[6,0,2549,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36af897726cb25def2d897ae48f89a5900b":[7,0,0,0,1,3,5,9,2,9,47,25],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36af9dca408229783e1dba170c8b6b64825":[7,0,0,0,1,3,5,9,2,9,47,29],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36afdff5f149cc464b4640576000513360c":[7,0,0,0,1,3,5,9,2,9,47,36],
-"dc/d29/boss__mimiron_8cpp.html#a8f347a703a3c4366b84f3a8742f4f5b8":[7,0,0,0,1,3,5,9,2,9,37],
-"dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4b":[7,0,0,0,1,3,5,9,2,9,46],
-"dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba7f1c72490ff348ff0dd195c2b0b8235e":[7,0,0,0,1,3,5,9,2,9,46,0],
-"dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba802980b99ea6642c3488b4c41c7f5e43":[7,0,0,0,1,3,5,9,2,9,46,1]
+"dc/d29/boss__mimiron_8cpp.html#a8f347a703a3c4366b84f3a8742f4f5b8":[7,0,0,0,1,3,5,9,2,9,37]
 };

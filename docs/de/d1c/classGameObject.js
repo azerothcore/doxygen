@@ -93,7 +93,7 @@ var classGameObject =
     [ "IsUpdateNeeded", "de/d1c/classGameObject.html#a1cd18a56501b9e6d9e89340108e93f58", null ],
     [ "IsWithinDistInMap", "de/d1c/classGameObject.html#a0e472403802c7a862e22c769ef4f8378", null ],
     [ "IsWithinDistInMap", "de/d1c/classGameObject.html#ab73407bcdf13a30519a953d24773ed02", null ],
-    [ "LoadFromDB", "de/d1c/classGameObject.html#ade83e85cc1a0644ce566f76e7a467771", null ],
+    [ "LoadFromDB", "de/d1c/classGameObject.html#ab9d712cb86e4080d5a658ee85e634bd8", null ],
     [ "LoadGameObjectFromDB", "de/d1c/classGameObject.html#acfb1d37bab02bb7a8e87a94fa9eeab8d", null ],
     [ "LookupFishingHoleAround", "de/d1c/classGameObject.html#aae8d316d80d6b543466cd97addadc239", null ],
     [ "ModifyHealth", "de/d1c/classGameObject.html#af7301d48623a8b169565a540ae42fdf5", null ],

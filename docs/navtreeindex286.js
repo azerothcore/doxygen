@@ -1,12 +1,15 @@
 var NAVTREEINDEX286 =
 {
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[6,0,7,7,51],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[5,0,21,7,51],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5":[6,0,7,7,54],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[5,0,21,7,28],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5":[5,0,21,7,54],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[6,0,7,7,28],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[6,0,7,7,36],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[5,0,21,7,28],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[5,0,21,7,36],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,21,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[6,0,7,7,36],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[6,0,7,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,21,7,4],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[5,0,21,7,27],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[6,0,7,7,27],
 "db/d9d/classboss__galvangar.html":[6,0,486],
@@ -246,8 +249,5 @@ var NAVTREEINDEX286 =
 "db/da5/zone__azshara_8cpp.html":[7,0,0,0,1,3,4,15],
 "db/da5/zone__azshara_8cpp.html#a6963f0357cacc0d2bcf7d514cad45e73":[7,0,0,0,1,3,4,15,6],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3":[7,0,0,0,1,3,4,15,4],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168":[7,0,0,0,1,3,4,15,4,7],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75":[7,0,0,0,1,3,4,15,4,3],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3":[7,0,0,0,1,3,4,15,4,10],
-"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1":[7,0,0,0,1,3,4,15,4,4]
+"db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168":[7,0,0,0,1,3,4,15,4,7]
 };

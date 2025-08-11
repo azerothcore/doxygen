@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"d0/dbe/classAcore_1_1RandomCheck.html#aca7a234c6eef8876abb02af723e9485d":[5,0,1,114,0],
 "d0/dbe/classAcore_1_1RandomCheck.html#aca7a234c6eef8876abb02af723e9485d":[6,0,0,102,0],
 "d0/dc1/Containers_8h.html":[7,0,0,0,0,15,4],
 "d0/dc1/Containers_8h.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86":[7,0,0,0,0,15,4,10],
@@ -37,10 +38,10 @@ var NAVTREEINDEX18 =
 "d0/dc2/Timer_8cpp.html#ac9bde42940b2570f3865385200b56af8":[7,0,0,0,0,15,32,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[5,0,30,7,11],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[6,0,11,7,11],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[6,0,11,7,11,0],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,30,7,11,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,7,11,1],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,30,7,11,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[6,0,11,7,11,2],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[5,0,30,7,11,2],
 "d0/dc2/classgo__hive__pod.html":[6,0,1146],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,6,3],
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,7,6,3,1],
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,6,3,6],
-"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f1cc8ad84f2a0719f1d5feca33fa391":[7,0,0,0,1,3,7,6,3,5],
-"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca420a54d1ee34c79e38322734f29b4e98":[7,0,0,0,1,3,7,6,3,8]
+"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f1cc8ad84f2a0719f1d5feca33fa391":[7,0,0,0,1,3,7,6,3,5]
 };

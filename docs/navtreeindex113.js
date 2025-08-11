@@ -1,5 +1,6 @@
 var NAVTREEINDEX113 =
 {
+"d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea247d6e679b32e33ec8f838cd2bfc173b":[7,0,0,0,1,3,5,9,2,8,29,5],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea71effeeab3cb3642600c1db69ff1a56e":[7,0,0,0,1,3,5,9,2,8,29,2],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea9132c055d0e149d7ec45d675fca620b4":[7,0,0,0,1,3,5,9,2,8,29,0],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16eab430526cc106989bdaba06239fb259bb":[7,0,0,0,1,3,5,9,2,8,29,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX113 =
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a37510dfb31d7b124c3fd91b35e4dc7e3":[7,0,0,0,1,3,3,4,21,3],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a77fc1fdb393106bbae1d8ed4f2764ddb":[7,0,0,0,1,3,3,4,21,9],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0aa357adfbb00f5bf5d8147f08988fe5e5":[7,0,0,0,1,3,3,4,21,0],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0aba6422b4e6060342495d3c10beea2fcf":[7,0,0,0,1,3,3,4,21,1],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0ad2ac985af67e998f0a9aa3daab4d1afc":[7,0,0,0,1,3,3,4,21,5]
+"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0aba6422b4e6060342495d3c10beea2fcf":[7,0,0,0,1,3,3,4,21,1]
 };

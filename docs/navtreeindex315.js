@@ -1,5 +1,8 @@
 var NAVTREEINDEX315 =
 {
+"dc/dd6/classRespawnEvent.html#accc0d5638ff7a493fa116ac2e8f2e58b":[6,0,2500,0],
+"dc/dd6/classRespawnEvent.html#adb0835b4a2e7a2795bb81f0a1e3c911a":[6,0,2500,2],
+"dc/dd7/classboss__wushoolay.html":[6,0,780],
 "dc/dd7/classboss__wushoolay.html#a68359ee086bb4e86c3c16c4a03e54893":[6,0,780,1],
 "dc/dd7/classboss__wushoolay.html#a70b476358956fd05d6effb75517e2b3d":[6,0,780,2],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[6,0,3886],
@@ -246,8 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1095,4],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[6,0,1095,2],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a7b2a19d6c7c75c0df22eae17b0c8e90a":[6,0,1095,1],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1095,5],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#aad6527f64ede0d896880ffa90d05a378":[6,0,1095,6],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[6,0,1095,3],
-"dc/ddf/brewfest_8cpp.html":[7,0,0,0,1,3,3,1]
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1095,5]
 };

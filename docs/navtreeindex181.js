@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,12,2,8],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a06e40e13c3be8d3efb6a355b7b975287":[7,0,0,0,1,3,2,12,2,8,5],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71":[7,0,0,0,1,3,2,12,2,8,1],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b9cbb64cba3bb8333ecb8b0caddf83b":[7,0,0,0,1,3,2,12,2,8,6],
@@ -93,14 +94,14 @@ var NAVTREEINDEX181 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,95,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,107,1],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,107,5],
@@ -212,8 +213,8 @@ var NAVTREEINDEX181 =
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,1,2,8,1],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/df0/classspell__summoning__rhyme__aura.html":[6,0,3832],
 "d6/df0/classspell__summoning__rhyme__aura.html#a49db8ade3bc3a3da9e043e8b9ad1759d":[6,0,3832,1],
 "d6/df0/classspell__summoning__rhyme__aura.html#a789d2d4d2bc75e412abe80a33102fa06":[6,0,3832,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a0d07a28b09e8fc484a6a41fbf0d78608":[7,0,0,0,1,3,2,8,4,4,2],
 "d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a0f64b96c473322676357878636941856":[7,0,0,0,1,3,2,8,4,4,1],
 "d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a69b8554babb1d401be555e315f9f78b0":[7,0,0,0,1,3,2,8,4,4,9],
-"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a7f2c4d232a3542685690632b2bf93222":[7,0,0,0,1,3,2,8,4,4,3],
-"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744aae0ef28451714da3e81283091ec54f6d":[7,0,0,0,1,3,2,8,4,4,5]
+"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a7f2c4d232a3542685690632b2bf93222":[7,0,0,0,1,3,2,8,4,4,3]
 };

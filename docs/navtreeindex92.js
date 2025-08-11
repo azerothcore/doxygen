@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53675be7448c87a1dca8233ed997ff49":[7,0,0,0,1,1,0,0,5,1,59],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5aa20fb8fc05bc95e6161174a17b5aed":[7,0,0,0,1,1,0,0,5,1,62],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5ba96cd2c709a4cf1c90e6278ef4fef3":[7,0,0,0,1,1,0,0,5,1,67],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5cd1c18f111a4310ec52bdf2734eccc3":[7,0,0,0,1,1,0,0,5,1,5],
@@ -228,12 +229,12 @@ var NAVTREEINDEX92 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[6,0,3787,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[6,0,3787,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3787,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1746],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,3021,0],
 "d3/d2c/classspell__gen__tournament__duel.html#a51ebef5e7fff9dfaab553ecae7be732f":[6,0,3021,3],
 "d3/d2c/classspell__gen__tournament__duel.html#ab9360c3a883dd5a7df9836306d9762ec":[6,0,3021,2],
-"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,3021,1],
-"d3/d2c/namespaceGitRevision.html":[5,0,17]
+"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,3021,1]
 };

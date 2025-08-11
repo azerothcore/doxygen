@@ -1,5 +1,8 @@
 var NAVTREEINDEX334 =
 {
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html#a9e0e28d871f9d3c89cf2dc862971321d":[6,0,3976,0],
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html#abc23ebb3761e3505486ac578bdeaeeed":[6,0,3976,4],
+"dd/dc0/classspell__warl__seed__of__corruption__aura.html#acc4819698e175889a0491d7f7cc680fd":[6,0,3976,5],
 "dd/dc0/classspell__warl__seed__of__corruption__aura.html#adc622aae157984546dfe3d8373c0c413":[6,0,3976,1],
 "dd/dc1/MovementUtil_8cpp.html":[7,0,0,0,1,2,31,1,3],
 "dd/dc1/MovementUtil_8cpp.html#a189485de5eba32c5b18dbb5c579b60d9":[7,0,0,0,1,2,31,1,3,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,9,2,10,28,2],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4e2a2237c699c048aed272ed67283e3":[7,0,0,0,1,3,5,9,2,10,28,5],
 "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af935b0f6967dcbbc84f9d510f35b6f32":[7,0,0,0,1,3,5,9,2,10,28,6],
-"dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[7,0,0,0,1,3,5,9,2,10,29],
-"dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82":[7,0,0,0,1,3,5,9,2,10,17],
-"dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
-"dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18]
+"dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[7,0,0,0,1,3,5,9,2,10,29]
 };

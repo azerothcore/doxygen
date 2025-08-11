@@ -1,5 +1,8 @@
 var NAVTREEINDEX271 =
 {
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3":[7,0,0,0,1,0,0,0,1,2,4],
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae":[7,0,0,0,1,0,0,0,1,2,14],
+"da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342":[7,0,0,0,1,0,0,0,1,2,7],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309":[7,0,0,0,1,0,0,0,1,2,10],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b":[7,0,0,0,1,0,0,0,1,2,12],
 "da/df4/AuthCodes_8h.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56":[7,0,0,0,1,0,0,0,1,2,2],
@@ -81,18 +84,18 @@ var NAVTREEINDEX271 =
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5":[7,0,0,0,1,2,38,0,7,2,7],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953":[7,0,0,0,1,2,38,0,7,2,15],
 "da/df5/AllBattlegroundScript_8h.html#ae9cb670a445a9cb3089a66cdcc822d0e":[7,0,0,0,1,2,38,0,7,1],
-"da/df5/classAcore_1_1AsyncProcessResult.html":[5,0,1,45],
 "da/df5/classAcore_1_1AsyncProcessResult.html":[6,0,0,33],
+"da/df5/classAcore_1_1AsyncProcessResult.html":[5,0,1,45],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[6,0,0,33,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,1,45,0],
-"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[6,0,0,33,1],
-"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
+"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
+"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,30,8,6],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[6,0,11,8,6],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,30,8,6,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[6,0,11,8,6,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,30,8,6,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,30,8,6,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[6,0,11,8,6,0],
 "da/df6/classspell__warr__mocking__blow.html":[6,0,4001],
@@ -246,8 +249,5 @@ var NAVTREEINDEX271 =
 "db/d00/AsyncCallbackProcessor_8h.html":[7,0,0,0,0,15,1],
 "db/d00/classFactoryGameObjectScript.html":[6,0,1031],
 "db/d00/classFactoryGameObjectScript.html#a9a39e94f28729ea1fb4b6231d588b42c":[6,0,1031,1],
-"db/d00/classFactoryGameObjectScript.html#ac0981bdae743da11b99d7df1c967a703":[6,0,1031,0],
-"db/d01/ObjectRegistry_8h.html":[7,0,0,0,0,6,3],
-"db/d01/structnpc__ahnkahar__nerubian.html":[6,0,1566],
-"db/d01/structnpc__ahnkahar__nerubian.html#a27a6f57a6b145cc595896d1ad453064f":[6,0,1566,3]
+"db/d00/classFactoryGameObjectScript.html#ac0981bdae743da11b99d7df1c967a703":[6,0,1031,0]
 };

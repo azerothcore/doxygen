@@ -1,5 +1,8 @@
 var NAVTREEINDEX280 =
 {
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963ef":[7,0,0,0,1,3,9,4,188],
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa2cd7fef6255b76360c3a485cb29672b9":[7,0,0,0,1,3,9,4,188,1],
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa31c3de5986dcae1b85b99444aa7756a6":[7,0,0,0,1,3,9,4,188,0],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4":[7,0,0,0,1,3,9,4,166],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4a3c9fd423e0274d3c61f5eac377baaeb3":[7,0,0,0,1,3,9,4,166,1],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4a5c5c0b79b9c40a4b66b2585bc5b9bf32":[7,0,0,0,1,3,9,4,166,0],
@@ -41,8 +44,8 @@ var NAVTREEINDEX280 =
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
 "db/d72/structLootItem.html":[6,0,1447],
@@ -208,10 +211,10 @@ var NAVTREEINDEX280 =
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1387,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,5,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,30,5,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,5,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,30,5,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,5,0,0],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,5,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,30,5,0,0],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,5,0,0],
 "db/d7b/classgo__gilded__brazier.html":[6,0,1142],
 "db/d7b/classgo__gilded__brazier.html#a2c8ced3e29c05c9d55745c4f10c9202d":[6,0,1142,2],
 "db/d7b/classgo__gilded__brazier.html#a778c753a8432131601371da8849ef004":[6,0,1142,1],
@@ -233,8 +236,8 @@ var NAVTREEINDEX280 =
 "db/d7c/classnpc__nelson.html#aff8e412cfcabd7b653cd30d29878be6a":[6,0,1983,4],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[6,0,11,5,16],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[5,0,30,5,16],
-"db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#a19c79529bbfe25701c9f8253f3e0f9d8":[6,0,11,5,16,1],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#a19c79529bbfe25701c9f8253f3e0f9d8":[5,0,30,5,16,1],
+"db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#a19c79529bbfe25701c9f8253f3e0f9d8":[6,0,11,5,16,1],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#ae47c09144b18e42aa48499de3e3fe276":[6,0,11,5,16,0],
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#ae47c09144b18e42aa48499de3e3fe276":[5,0,30,5,16,0],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[6,0,0,73],
@@ -246,8 +249,5 @@ var NAVTREEINDEX280 =
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,73,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,73,0],
-"db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3046]
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4]
 };

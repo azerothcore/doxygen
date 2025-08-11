@@ -1,5 +1,8 @@
 var NAVTREEINDEX336 =
 {
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031":[7,0,0,0,1,3,4,11,2,3,6],
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8":[7,0,0,0,1,3,4,11,2,3,2],
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b":[7,0,0,0,1,3,4,11,2,3,9],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a":[7,0,0,0,1,3,4,11,2,3,11],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d":[7,0,0,0,1,3,4,11,2,3,4],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[7,0,0,0,1,3,4,11,2,3,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dd4/structboss__midnight.html#a7ef9e935ac932f5a9e4fd435b8180783":[6,0,617,4],
 "dd/dd4/structboss__midnight.html#aacf45b21a30d671d5e9720a30336f72c":[6,0,617,0],
 "dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[6,0,617,1],
-"dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[6,0,617,10],
-"dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[6,0,617,5],
-"dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2783],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2783,3]
+"dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[6,0,617,10]
 };

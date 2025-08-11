@@ -1,5 +1,8 @@
 var NAVTREEINDEX230 =
 {
+"d9/d17/structBattlegroundObjectInfo.html#a7eaf1fbe40f3a7918965da8d5ac81a50":[6,0,330,3],
+"d9/d17/structBattlegroundObjectInfo.html#a848f2b15f47ceeb91c40e916d5659486":[6,0,330,0],
+"d9/d17/structBattlegroundObjectInfo.html#ae0233a1078bc735e40855ea7608f5f11":[6,0,330,2],
 "d9/d18/MySQLThreading_8cpp.html":[7,0,0,0,1,1,0,19],
 "d9/d18/Vehicle_8h.html":[7,0,0,0,1,2,16,11,1],
 "d9/d1c/pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
 "d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
 "d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3532],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3532,1],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a7381cbea873fb57485e4539aa478d236":[6,0,3532,2],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#ad16e8b64999771154360afad71454c07":[6,0,3532,0],
-"d9/d32/CombatAI_8cpp.html":[7,0,0,0,1,2,3,0,0]
+"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3532,1]
 };

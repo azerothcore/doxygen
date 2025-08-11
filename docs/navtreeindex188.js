@@ -1,5 +1,6 @@
 var NAVTREEINDEX188 =
 {
+"d7/d46/classAuraEffect.html#a2d687bfbacc779c97d18c866a5544bfe":[6,0,282,105],
 "d7/d46/classAuraEffect.html#a2d9b475cbf04d8597953802e1accc938":[6,0,282,233],
 "d7/d46/classAuraEffect.html#a306e4d031a37294a17fb999303b71efe":[6,0,282,30],
 "d7/d46/classAuraEffect.html#a3286f89b5415bd21a4831285dab7362f":[6,0,282,71],
@@ -248,6 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d48/group__Acored.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb":[4,0,10],
 "d7/d48/group__Acored.html#gad82d96de9a84a7d0325afcd3121344a4":[4,0,15],
 "d7/d48/group__Acored.html#gae4bea4699ff716ee22295d12bc9f1b9b":[4,0,8],
-"d7/d48/group__Acored.html#gaf86bc63df807e80b7a14688e48340fea":[4,0,7],
-"d7/d48/structboss__vexallus.html":[6,0,765]
+"d7/d48/group__Acored.html#gaf86bc63df807e80b7a14688e48340fea":[4,0,7]
 };

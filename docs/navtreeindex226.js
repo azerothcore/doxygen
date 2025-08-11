@@ -1,5 +1,8 @@
 var NAVTREEINDEX226 =
 {
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff":[7,0,0,0,1,2,8,1,19,10,16],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64":[7,0,0,0,1,2,8,1,19,10,23],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beab5b28e7ffb35f76df37b53d2c3a01a86":[7,0,0,0,1,2,8,1,19,10,6],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beac4146576abce67a75c7bd9ac83626024":[7,0,0,0,1,2,8,1,19,10,0],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beac83ade9e45d805fb4aa9e95400bb5b98":[7,0,0,0,1,2,8,1,19,10,7],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bead91e87158b2006ef8b30c3a5e464e68b":[7,0,0,0,1,2,8,1,19,10,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX226 =
 "d8/df2/ArenaTeamFilterTest_8cpp.html#a9ce4d88bf97ee463db69de183769f18e":[7,0,0,0,2,2,0,0,0,1,2],
 "d8/df2/classspell__oculus__touch__the__nightmare.html":[6,0,3487],
 "d8/df2/classspell__oculus__touch__the__nightmare.html#a231f29ea69a354ddb2963cb4ef9a3f4e":[6,0,3487,2],
-"d8/df2/classspell__oculus__touch__the__nightmare.html#a71b88fbad5acbba47028dd1ff82b4836":[6,0,3487,0],
-"d8/df2/classspell__oculus__touch__the__nightmare.html#a754da297cd5801616e24bf2d802d0b38":[6,0,3487,1],
-"d8/df2/classspell__sindragosa__soul__preservation__aura.html":[6,0,3816],
-"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4":[6,0,3816,0]
+"d8/df2/classspell__oculus__touch__the__nightmare.html#a71b88fbad5acbba47028dd1ff82b4836":[6,0,3487,0]
 };

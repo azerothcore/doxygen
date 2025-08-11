@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d13/structboss__maiden__of__grief_1_1boss__maiden__of__griefAI.html#abd3977cca1cbbf4b64c278a641514fc8":[6,0,604,0,1],
 "d3/d13/structboss__maiden__of__grief_1_1boss__maiden__of__griefAI.html#acf30049b09bbaf3e30f2dcb77bf1b4e0":[6,0,604,0,2],
 "d3/d14/boss__anetheron_8cpp.html":[7,0,0,0,1,3,4,1,0,0],
 "d3/d14/boss__anetheron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,0,2],
@@ -153,12 +154,12 @@ var NAVTREEINDEX91 =
 "d3/d19/structArenaTeamScore.html#ab99de3b9213f3ccab1791858df6aa3e8":[6,0,198,10],
 "d3/d19/structArenaTeamScore.html#ade081f31c498ee03a80f73fe70a56cc7":[6,0,198,1],
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[6,0,198,3],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,101,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,89,0],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,101,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,101,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[6,0,0,89,0,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[6,0,0,89,0,1],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,1,101,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[6,0,0,89,0,1],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html":[6,0,1929,0],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a1acfbead42b66dd8f70a85efc8ce2e6f":[6,0,1929,0,3],
 "d3/d1a/structnpc__lk__wicked__spirit_1_1npc__lk__wicked__spiritAI.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd":[6,0,1929,0,0],
@@ -172,12 +173,12 @@ var NAVTREEINDEX91 =
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[6,0,2056,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[6,0,2004,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[6,0,2004,0,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,38],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,1,50],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[6,0,0,38,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,38],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[6,0,0,38,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,50,0],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4dc6d4105ca603ac701174501c3f439e":[7,0,0,0,1,1,0,0,5,1,24],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a50184b271468f8fa3314e5dfcaa50fd7":[7,0,0,0,1,1,0,0,5,1,49],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a51abd6d78888450534ec50786c9f4322":[7,0,0,0,1,1,0,0,5,1,14],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53647962d71478bb5071ec4c379184f4":[7,0,0,0,1,1,0,0,5,1,83],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53675be7448c87a1dca8233ed997ff49":[7,0,0,0,1,1,0,0,5,1,59]
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a53647962d71478bb5071ec4c379184f4":[7,0,0,0,1,1,0,0,5,1,83]
 };

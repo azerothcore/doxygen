@@ -1,5 +1,8 @@
 var NAVTREEINDEX340 =
 {
+"dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#a0ba286f037c07032488d6763daeaf130":[6,0,597,0,1],
+"dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#ab93792bd7798b9ee9cf869fa20190554":[6,0,597,0,0],
+"dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#aba3256ec99e56e3051045391fceedc7f":[6,0,597,0,2],
 "de/d00/classspell__voljin__war__drums.html":[6,0,3945],
 "de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,3945,3],
 "de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3945,0],
@@ -47,7 +50,8 @@ var NAVTREEINDEX340 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04":[6,0,1708,0,7],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[6,0,1708,0,2],
 "de/d02/structnpc__pet__dk__ghoul.html":[6,0,2014],
-"de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2014,1],
+"de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2014,2],
+"de/d02/structnpc__pet__dk__ghoul.html#ae6ea5ad522229289a16d5be1e52181f6":[6,0,2014,1],
 "de/d02/structnpc__pet__dk__ghoul.html#aff3b8dc660a7e263c6e30960819b4ffa":[6,0,2014,0],
 "de/d03/Channel_8h.html":[7,0,0,0,1,2,11,0,1],
 "de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57":[7,0,0,0,1,2,11,0,1,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX340 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a7b152ee9aac0d007da2d01e195bf5bc4":[7,0,0,0,1,4,7,75,24],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a863a1d3b66417728baaa803037dc3b46":[7,0,0,0,1,4,7,75,7],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a86febeda306e11f359c9a107ed17f665":[7,0,0,0,1,4,7,75,9],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9749beff7617718a640f0de6b583caad":[7,0,0,0,1,4,7,75,31],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9ff9c7bbe3ffac8995e20c73ac930967":[7,0,0,0,1,4,7,75,12],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a":[7,0,0,0,1,4,7,75,10],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac5d8ae424ffe5e41e0076bcae9b70d34":[7,0,0,0,1,4,7,75,17],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ada2da0b184a1c1cb0ab4cd7de4e0b12d":[7,0,0,0,1,4,7,75,32]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9749beff7617718a640f0de6b583caad":[7,0,0,0,1,4,7,75,31]
 };

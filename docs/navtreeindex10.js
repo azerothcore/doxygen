@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7e/structRealm.html#a52a4b2704e7f76d8ea296148cefb9482":[6,0,2480,7],
 "d0/d7e/structRealm.html#a61f429ddc92895e66dff2808e17cc322":[6,0,2480,6],
 "d0/d7e/structRealm.html#a63cdbd47c50f368974b43c3db2f32cee":[6,0,2480,9],
 "d0/d7e/structRealm.html#a64533e919d8c3a37bd5668af77d09166":[6,0,2480,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[6,0,3026,0],
 "d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[6,0,3026,1],
 "d0/d84/classspell__novos__despawn__crystal__handler.html":[6,0,3470],
-"d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[6,0,3470,2],
-"d0/d84/classspell__novos__despawn__crystal__handler.html#a51064b3a11f453724ae0879c80eaf8df":[6,0,3470,0]
+"d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[6,0,3470,2]
 };

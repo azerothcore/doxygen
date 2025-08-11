@@ -1,5 +1,6 @@
 var NAVTREEINDEX61 =
 {
+"d2/d4b/classPlayer.html#ad5ec7c5de2fe1181fef8896edd8db868":[6,0,2400,913],
 "d2/d4b/classPlayer.html#ad66dac2cae297693fd901eb8a782d98e":[6,0,2400,914],
 "d2/d4b/classPlayer.html#ad690d7b9d784eea922facc19bb3f5a12":[6,0,2400,813],
 "d2/d4b/classPlayer.html#ad71c6bf45aba55f18b85720865755237":[6,0,2400,944],
@@ -248,6 +249,5 @@ var NAVTREEINDEX61 =
 "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a17e64475b7433b3dc0d87028c11c9c7f":[6,0,1315,0,0],
 "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a5c6a46069a87340f9e8d5e4830b8a2ed":[6,0,1315,0,7],
 "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a62a5603b9063b4cbb773eb177aa2d0bc":[6,0,1315,0,1],
-"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a7408fc1c0d61c7db01bdd4f517080139":[6,0,1315,0,9],
-"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#aa0fd6fae9a274e483765c0b5c1ff7ba3":[6,0,1315,0,4]
+"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a7408fc1c0d61c7db01bdd4f517080139":[6,0,1315,0,9]
 };

@@ -1,14 +1,15 @@
 var NAVTREEINDEX26 =
 {
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,122,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,110,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,122,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,110,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,122,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,1,122,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
 "d1/d17/classArenaSeasonMgr.html":[6,0,183],
 "d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[6,0,183,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[6,0,183,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#ab4376e12281bbd33b7b9d2694b4bc19b":[6,0,1286,0,25],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#ab4f54a75c1e834c859fe9dfe0b2676a7":[6,0,1286,0,35],
 "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#ac68d50de736afa9bff9fa746f37424f8":[6,0,1286,0,40],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#acc0588d4117b6591f34648d190df0f3f":[6,0,1286,0,59],
-"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#acdcf3bb1fd14f5e1424913589022efe2":[6,0,1286,0,63]
+"d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#acc0588d4117b6591f34648d190df0f3f":[6,0,1286,0,59]
 };

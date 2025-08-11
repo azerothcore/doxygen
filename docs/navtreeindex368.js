@@ -1,5 +1,9 @@
 var NAVTREEINDEX368 =
 {
+"de/da0/structLoadedHeightData.html#aec022a29ba14a18fdd33e8f65e1cd977":[6,0,1428,7],
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html":[6,0,2841],
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a2d72f5771d6563260a6e81122e4a2be5":[6,0,2841,3],
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a4e98fbf669c030263ed2e5759a5bd6e8":[6,0,2841,2],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a812e4e461c0ebed6f7c4cc36e88a3367":[6,0,2841,1],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a9abf4baaba572636dba3980e5ae777c5":[6,0,2841,0],
 "de/da1/classspell__mage__summon__water__elemental.html":[6,0,3408],
@@ -41,16 +45,16 @@ var NAVTREEINDEX368 =
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2324,25],
 "de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,0],
 "de/da2/classMMAP_1_1IMMapMgr.html":[5,0,20,0],
-"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,0,0],
+"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,0,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,0,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,0,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,0,1],
-"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
 "de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,0,3],
+"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
 "de/da2/classachievement__resilient__victory.html":[6,0,83],
 "de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[6,0,83,1],
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[6,0,83,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX368 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a65b4f4a4a3c03b3da3ef1b8f2504534b":[7,0,0,0,1,1,0,0,1,1,23],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a65dc0aae25bf5551ca7b92ad4c829afc":[7,0,0,0,1,1,0,0,1,1,377],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2":[7,0,0,0,1,1,0,0,1,1,134],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa":[7,0,0,0,1,1,0,0,1,1,114],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a69d30ae3c21b711e2035d179ae700958":[7,0,0,0,1,1,0,0,1,1,374],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6a9cc50d77e84a029a93f4c16482e0aa":[7,0,0,0,1,1,0,0,1,1,438],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6b5bcfbdef364717bca711758d77f01f":[7,0,0,0,1,1,0,0,1,1,206],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6bfe4419a38c3daf7a304ed62fccfbfb":[7,0,0,0,1,1,0,0,1,1,159]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa":[7,0,0,0,1,1,0,0,1,1,114]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d0/d3a/ChatCommandHelpers_8h.html#a068db55731856ca7770e1b09a4225aa2":[7,0,0,0,1,2,11,1,5,13],
 "d0/d3a/ChatCommandHelpers_8h.html#a1106e69269315156c6019b7812547ce9":[7,0,0,0,1,2,11,1,5,10],
 "d0/d3a/ChatCommandHelpers_8h.html#a496bce28eb0bf0ac4b5e1c54c19193b7":[7,0,0,0,1,2,11,1,5,9],
 "d0/d3a/ChatCommandHelpers_8h.html#a61f1a636e46a7d78161298ae28844703":[7,0,0,0,1,2,11,1,5,8],
@@ -43,8 +44,8 @@ var NAVTREEINDEX4 =
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[6,0,0,20,1],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[6,0,0,20,3],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[5,0,1,32,3],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[5,0,1,32,0],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[6,0,0,20,0],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[5,0,1,32,0],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[6,0,0,20,2],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[5,0,1,32,2],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aff91ead572f2ed0d1912dbd0180196d5":[5,0,1,32,4],
@@ -134,16 +135,16 @@ var NAVTREEINDEX4 =
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#a982ec923536c2c33353a3673aa425b6a":[6,0,2019,3],
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#a9fde3fd30d48068a3ad1a19f65c61bf2":[6,0,2019,1],
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#aa32b7770c2719d77d46fcf6d22989284":[6,0,2019,0],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[5,0,30,0,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[6,0,11,0,1],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[5,0,30,0,1,2],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[5,0,30,0,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[6,0,11,0,1,2],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[5,0,30,0,1,0],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[5,0,30,0,1,2],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[6,0,11,0,1,0],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[5,0,30,0,1,0],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[5,0,30,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[6,0,11,0,1,1],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[6,0,11,0,1,3],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[5,0,30,0,1,3],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[6,0,11,0,1,3],
 "d0/d41/classspell__magic__eater__food.html":[6,0,3409],
 "d0/d41/classspell__magic__eater__food.html#a2c9f565aec4c42900037dd387549df18":[6,0,3409,0],
 "d0/d41/classspell__magic__eater__food.html#a5864bbba50001cdb84b0015d08134c56":[6,0,3409,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "d0/d49/BattlegroundDS_8h.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4":[7,0,0,0,1,2,8,1,7,4,3],
 "d0/d49/BattlegroundDS_8h.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d":[7,0,0,0,1,2,8,1,7,4,2],
 "d0/d49/BattlegroundDS_8h.html#a41065fade7598429191146de35f52e86":[7,0,0,0,1,2,8,1,7,7],
-"d0/d49/BattlegroundDS_8h.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817":[7,0,0,0,1,2,8,1,7,7,1],
-"d0/d49/BattlegroundDS_8h.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50":[7,0,0,0,1,2,8,1,7,7,0]
+"d0/d49/BattlegroundDS_8h.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817":[7,0,0,0,1,2,8,1,7,7,1]
 };

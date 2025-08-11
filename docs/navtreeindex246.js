@@ -1,5 +1,8 @@
 var NAVTREEINDEX246 =
 {
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[6,0,2665,1],
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[6,0,2665,2],
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[6,0,2665,0],
 "d9/dfc/classspell__item__wraith__scythe__drain__life.html":[6,0,3317],
 "d9/dfc/classspell__item__wraith__scythe__drain__life.html#a05c6a249b32f41d8d33b40d07bd3c44d":[6,0,3317,0],
 "d9/dfc/classspell__item__wraith__scythe__drain__life.html#a6dc3beb1f857c2c2a719bd882cc3568d":[6,0,3317,2],
@@ -28,16 +31,16 @@ var NAVTREEINDEX246 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1705,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1705,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1705,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,30,5,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,5,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,30,5,3,2],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,30,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,30,5,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,30,5,3,0],
 "da/d02/WorldConfig_8h.html":[7,0,0,0,1,2,48,4],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0":[7,0,0,0,1,2,48,4,1],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a00c270cba7ea28db008d3449da2f326d":[7,0,0,0,1,2,48,4,1,286],
@@ -246,8 +249,5 @@ var NAVTREEINDEX246 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6ccc6f4d405b375519c6a64c5b49d747":[7,0,0,0,1,2,48,4,1,386],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6d2c4cc301b01dd9562645e94aa0817c":[7,0,0,0,1,2,48,4,1,450],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6dffc0b6c07505beae3babc13b035804":[7,0,0,0,1,2,48,4,1,341],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6e7601157007aff9ddd809f15bfef191":[7,0,0,0,1,2,48,4,1,297],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6e8499800ae7e813288f71cea47f9cdd":[7,0,0,0,1,2,48,4,1,13],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6e9a66b32890b7dc0524a511509b5a77":[7,0,0,0,1,2,48,4,1,45],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6f3eac3af48c50eec4108da9f1b3a9a5":[7,0,0,0,1,2,48,4,1,366]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6e7601157007aff9ddd809f15bfef191":[7,0,0,0,1,2,48,4,1,297]
 };

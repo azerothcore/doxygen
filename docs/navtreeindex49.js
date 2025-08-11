@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d2/d05/CreatureAI_8h.html#a8561d766fce1bb059293efa6256c9717":[7,0,0,0,1,2,3,4,5],
 "d2/d05/CreatureAI_8h.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c":[7,0,0,0,1,2,3,4,5,1],
 "d2/d05/CreatureAI_8h.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2":[7,0,0,0,1,2,3,4,5,0],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869":[7,0,0,0,1,2,3,4,6],
@@ -107,16 +108,16 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,17,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[7,0,0,0,1,2,38,0,17,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[7,0,0,0,1,2,38,0,17,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2171],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2171,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2171,2],
@@ -161,8 +162,8 @@ var NAVTREEINDEX49 =
 "d2/d0e/structDefaultTargetSelector.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e":[6,0,962,2],
 "d2/d0f/Weather_8cpp.html":[4,2,0],
 "d2/d0f/classRestoreFight.html":[6,0,2502],
-"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2502,0],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2502,1],
+"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2502,0],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2502,2],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2502,3],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[6,0,2502,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d14/structboss__felblood__kaelthas.html#ae29fb38a2f7dcf778b4443bc56f10e84":[6,0,462,1],
 "d2/d14/structboss__felblood__kaelthas.html#affea155d0eb2b4dda1b9dc8847fc2444":[6,0,462,4],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html":[6,0,2176,0],
-"d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#a44632ddc3c4e57bee1791cda4027bc93":[6,0,2176,0,6],
-"d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#a8b02683be93944a65b38658bba0af4d8":[6,0,2176,0,2]
+"d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#a44632ddc3c4e57bee1791cda4027bc93":[6,0,2176,0,6]
 };

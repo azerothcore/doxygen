@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"d0/d67/classboss__maexxna__webwrap.html#afebd8c00234fe6cdd93af8ae443bb637":[6,0,599,1],
 "d0/d68/instance__the__black__morass_8cpp.html":[7,0,0,0,1,3,4,1,3,3],
 "d0/d68/instance__the__black__morass_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,1,3,3,3],
 "d0/d68/instance__the__black__morass_8cpp.html#a665f808519def7182fa25d9c0a4525f6":[7,0,0,0,1,3,4,1,3,3,2],
@@ -152,14 +153,14 @@ var NAVTREEINDEX8 =
 "d0/d71/structnpc__pet__pri__lightwell.html#aebeb192e66c7d5b4201cbaa81d46703c":[6,0,2029,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[5,0,30,7,6],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[6,0,11,7,6],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,11,7,6,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[5,0,30,7,6,3],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,11,7,6,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,11,7,6,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,30,7,6,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[6,0,11,7,6,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,30,7,6,1],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,11,7,6,2],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,30,7,6,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,11,7,6,2],
 "d0/d72/classspell__felmyst__fog__of__corruption.html":[6,0,2867],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a043d135ea2c37f6e4352aa2fba2bb21c":[6,0,2867,3],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a5ee63545a338e00bfcb8dcc2f3f67db3":[6,0,2867,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "d0/d76/classBattlefieldWG.html#a468c1c4f6697439951001a0ef1c9934d":[6,0,310,0],
 "d0/d76/classBattlefieldWG.html#a4961d7cf7eeed25b1c74dc33c65d1aa2":[6,0,310,33],
 "d0/d76/classBattlefieldWG.html#a575c3c315ace0a0bb258b27b08931068":[6,0,310,7],
-"d0/d76/classBattlefieldWG.html#a62a5440a0566defcd8b7871f3c38a6ce":[6,0,310,34],
-"d0/d76/classBattlefieldWG.html#a6f9d095d16b499609f8d14c8d0353acb":[6,0,310,42]
+"d0/d76/classBattlefieldWG.html#a62a5440a0566defcd8b7871f3c38a6ce":[6,0,310,34]
 };

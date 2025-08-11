@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aad6b00d7e3774333dae3a1f9b05443c8":[7,0,0,0,1,3,9,0,52,1],
 "d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afaba2ba84c4b5d02f3948821fd5850b3":[7,0,0,0,1,3,9,0,52,0],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499":[7,0,0,0,1,3,9,0,51],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0a8b8ce97037da5c1dfc1bf319297806":[7,0,0,0,1,3,9,0,51,20],
@@ -165,12 +166,12 @@ var NAVTREEINDEX170 =
 "d6/d5b/classspell__renew__skirmisher.html#ab0b03fd2d1a0ed6720acc45221a582f6":[6,0,3713,2],
 "d6/d5b/classspell__renew__skirmisher.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32":[6,0,3713,0],
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[6,0,3713,1],
-"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,1,19],
 "d6/d5c/classAcore_1_1ACLogSink.html":[6,0,0,7],
-"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[6,0,0,7,2],
+"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,1,19],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,1,19,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,1,19,4],
+"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[6,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
+"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,1,19,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[6,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba1cf4a5ff843af27788946b55052caa67":[7,0,0,0,1,3,2,1,1,8,7,3],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba39ae9387058b0d69113c328b8b347ae7":[7,0,0,0,1,3,2,1,1,8,7,2],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba3b65c21636aeef3e8871f725c9a48013":[7,0,0,0,1,3,2,1,1,8,7,1],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbab3588c1e566b7b7ee5bbc826a70185e5":[7,0,0,0,1,3,2,1,1,8,7,0],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,8,4]
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbab3588c1e566b7b7ee5bbc826a70185e5":[7,0,0,0,1,3,2,1,1,8,7,0]
 };
