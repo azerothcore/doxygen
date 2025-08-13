@@ -1,5 +1,9 @@
 var NAVTREEINDEX338 =
 {
+"dd/ddf/structboss__fathomguard__caribdis.html#a5503519998f51f475420ada2210f32f0":[6,0,458,3],
+"dd/ddf/structboss__fathomguard__caribdis.html#a73f567f2269aeca1435af82e1c6880e9":[6,0,458,7],
+"dd/ddf/structboss__fathomguard__caribdis.html#a9172b9717e5137ddde7df38bb237478c":[6,0,458,0],
+"dd/ddf/structboss__fathomguard__caribdis.html#aa666a491a776b12a042ee140aedc95eb":[6,0,458,1],
 "dd/ddf/structboss__fathomguard__caribdis.html#ab821365b35a48f70a11c6033fe2ca714":[6,0,458,2],
 "dd/ddf/structboss__fathomguard__caribdis.html#ac8b53cb81547a2423a13c997badb77e3":[6,0,458,9],
 "dd/ddf/structboss__fathomguard__caribdis.html#af4a544f37d178de21d84f2544f24431e":[6,0,458,6],
@@ -190,12 +194,12 @@ var NAVTREEINDEX338 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2963,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX338 =
 "dd/ded/structboss__twin__valkyrAI.html#a8ca507c7a288a5cb9a8160129820e4e0":[6,0,749,16],
 "dd/ded/structboss__twin__valkyrAI.html#aa66ac25aa73c505df972cf95dca85a71":[6,0,749,14],
 "dd/ded/structboss__twin__valkyrAI.html#ad3ac59a0c0477a0819fd799b3bc305f6":[6,0,749,4],
-"dd/ded/structboss__twin__valkyrAI.html#adeb3d3d3eb868ed1a9c211450404b659":[6,0,749,17],
-"dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20":[6,0,749,10],
-"dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f":[6,0,749,11],
-"dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[6,0,749,6],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,11,8,2]
+"dd/ded/structboss__twin__valkyrAI.html#adeb3d3d3eb868ed1a9c211450404b659":[6,0,749,17]
 };

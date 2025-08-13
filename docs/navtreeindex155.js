@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daaf66d45886060a3bc3f14352b01a3b11":[7,0,0,0,1,3,4,1,1,6,9,2],
 "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dace15bdc03be9e612ce85131f54d9f8a3":[7,0,0,0,1,3,4,1,1,6,9,3],
 "d5/dcf/culling__of__stratholme_8h.html#a2189fd9205722664b55f0f4b8504050c":[7,0,0,0,1,3,4,1,1,6,18],
 "d5/dcf/culling__of__stratholme_8h.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,1,1,6,2],
@@ -136,8 +137,8 @@ var NAVTREEINDEX155 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2117,0],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0bc792b39b9d17a71c86756d2c7b9af0":[6,0,2117,0,1],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f":[6,0,2117,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375":[7,0,0,0,1,3,2,1,2,5,4,1],
 "d5/dd8/boss__flamegor_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,1,2,5,5],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,5,3],
-"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80":[7,0,0,0,1,3,2,1,2,5,3,1],
-"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfbd0b3d8c5edf866b4b7b17adf6ade3":[7,0,0,0,1,3,2,1,2,5,3,2]
+"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80":[7,0,0,0,1,3,2,1,2,5,3,1]
 };

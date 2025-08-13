@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2621,0],
 "d9/dee/classspell__aura__of__despair__aura.html#a3b98409fa1ed8d4e53e526686bc25987":[6,0,2621,4],
 "d9/dee/classspell__aura__of__despair__aura.html#a4709f570f9014eb36bc8c65269470373":[6,0,2621,1],
 "d9/dee/classspell__aura__of__despair__aura.html#a6ac96ce73f9983915a05686eb5d411e7":[6,0,2621,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,887,14],
 "d9/df7/classConditionMgr.html#afef825ca94a043d238af8cd4ae2acda4":[6,0,887,23],
 "d9/df7/classDBCFileLoader_1_1Record.html":[6,0,952,0],
-"d9/df7/classDBCFileLoader_1_1Record.html#a06e2c90771be91d9ca948840a07125e8":[6,0,952,0,7],
-"d9/df7/classDBCFileLoader_1_1Record.html#a146dc23a5f24a0d8a1a34f29375b9bcd":[6,0,952,0,6]
+"d9/df7/classDBCFileLoader_1_1Record.html#a06e2c90771be91d9ca948840a07125e8":[6,0,952,0,7]
 };

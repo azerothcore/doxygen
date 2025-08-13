@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[6,0,1006,11],
+"df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[6,0,1006,7],
+"df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[6,0,1006,2],
+"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1006,12],
 "df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[6,0,1006,8],
 "df/dd3/classachievement__shadowdodger.html":[6,0,87],
 "df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,87,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1":[6,0,4192,188],
 "df/dd9/classUnit.html#a1bbfd6ed9dbd8e094278548724b129e4":[6,0,4192,438],
 "df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399":[6,0,4192,653],
-"df/dd9/classUnit.html#a1c6661bf4dada1a879e5727b1a8b2362":[6,0,4192,57],
-"df/dd9/classUnit.html#a1c67ab14bc96bf669a9dd57d04a5edc0":[6,0,4192,465],
-"df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063":[6,0,4192,832],
-"df/dd9/classUnit.html#a1d52e887c40e087252647958a47e933c":[6,0,4192,776],
-"df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[6,0,4192,146]
+"df/dd9/classUnit.html#a1c6661bf4dada1a879e5727b1a8b2362":[6,0,4192,57]
 };

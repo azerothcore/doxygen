@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d9/d17/structBattlegroundObjectInfo.html#a6722b83d6969c1a34b4846f19865075a":[6,0,330,1],
 "d9/d17/structBattlegroundObjectInfo.html#a7eaf1fbe40f3a7918965da8d5ac81a50":[6,0,330,3],
 "d9/d17/structBattlegroundObjectInfo.html#a848f2b15f47ceeb91c40e916d5659486":[6,0,330,0],
 "d9/d17/structBattlegroundObjectInfo.html#ae0233a1078bc735e40855ea7608f5f11":[6,0,330,2],
@@ -243,11 +244,10 @@ var NAVTREEINDEX230 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3474,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3474,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3474,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,1,8,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,1,8,0,5,0],
 "d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3532],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3532,1]
+"d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3532]
 };

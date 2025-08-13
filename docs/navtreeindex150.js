@@ -1,9 +1,10 @@
 var NAVTREEINDEX150 =
 {
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[6,0,0,32,0],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[6,0,0,32,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,1,44,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,1,44,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[6,0,0,32,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[6,0,0,32,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,1,44,3],
 "d5/da0/TicketMgr_8h.html":[7,0,0,0,1,2,43,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[7,0,0,0,1,2,43,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[7,0,0,0,1,2,43,1,10],
@@ -218,10 +219,10 @@ var NAVTREEINDEX150 =
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,30,8,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,8,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,30,8,3,2],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,8,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,30,8,3,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,30,8,3,4],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,8,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,8,3,4],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,30,8,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,30,8,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,8,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,8,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "d5/dab/boss__faerlina_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,5,7,1,2],
 "d5/dab/boss__faerlina_8cpp.html#aab072245ab577ff0e12efe20a536b99aa5a49dee524450f24c68e860b88e86120":[7,0,0,0,1,3,5,7,1,2,0],
 "d5/dab/structAABound.html":[6,0,17],
-"d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9":[6,0,17,0],
-"d5/dab/structAABound.html#aaf79653331f78979c84dfee2da118fdd":[6,0,17,1]
+"d5/dab/structAABound.html#aa227ae5593ba3111598033f570d97cb9":[6,0,17,0]
 };

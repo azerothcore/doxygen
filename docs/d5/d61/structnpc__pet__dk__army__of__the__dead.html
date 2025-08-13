@@ -130,6 +130,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a835f24d7b1b0b70d6345f66a8960e9cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:add16c667f3e614f9d6ceebbe17cf0515" id="r_add16c667f3e614f9d6ceebbe17cf0515"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d61/structnpc__pet__dk__army__of__the__dead.html#add16c667f3e614f9d6ceebbe17cf0515">InitializeAI</a> () override</td></tr>
 <tr class="separator:add16c667f3e614f9d6ceebbe17cf0515"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f1acbbccd68c83a7c3ea14b26a56305" id="r_a4f1acbbccd68c83a7c3ea14b26a56305"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d61/structnpc__pet__dk__army__of__the__dead.html#a4f1acbbccd68c83a7c3ea14b26a56305">IsSummonedBy</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *summoner) override</td></tr>
+<tr class="separator:a4f1acbbccd68c83a7c3ea14b26a56305"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classCombatAI"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classCombatAI')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/dfa/classCombatAI.html">CombatAI</a></td></tr>
 <tr class="memitem:a32e63efb85155ac3deeb818a9a1ba18a inherit pub_methods_classCombatAI" id="r_a32e63efb85155ac3deeb818a9a1ba18a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dfa/classCombatAI.html#a32e63efb85155ac3deeb818a9a1ba18a">CombatAI</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *c)</td></tr>
 <tr class="separator:a32e63efb85155ac3deeb818a9a1ba18a inherit pub_methods_classCombatAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -173,8 +175,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab9ec4de552a9f0b08b8494bb782eed58 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3a55253d96d72f1df305b2ccfa7284ca inherit pub_methods_classCreatureAI" id="r_a3a55253d96d72f1df305b2ccfa7284ca"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">JustSummoned</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:a3a55253d96d72f1df305b2ccfa7284ca inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae994802040dee85cb8b020d8629b9f94 inherit pub_methods_classCreatureAI" id="r_ae994802040dee85cb8b020d8629b9f94"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94">IsSummonedBy</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *)</td></tr>
-<tr class="separator:ae994802040dee85cb8b020d8629b9f94 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0850b634c283a045bd4448e93f99efe inherit pub_methods_classCreatureAI" id="r_ad0850b634c283a045bd4448e93f99efe"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#ad0850b634c283a045bd4448e93f99efe">SummonedCreatureDespawn</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:ad0850b634c283a045bd4448e93f99efe inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa84f573bdb0e556cf911d0a00f6ed5fb inherit pub_methods_classCreatureAI" id="r_aa84f573bdb0e556cf911d0a00f6ed5fb"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#aa84f573bdb0e556cf911d0a00f6ed5fb">SummonedCreatureDies</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
@@ -489,6 +489,62 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a4f1acbbccd68c83a7c3ea14b26a56305" name="a4f1acbbccd68c83a7c3ea14b26a56305"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f1acbbccd68c83a7c3ea14b26a56305">&#9670;&#160;</a></span>IsSummonedBy()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_pet_dk_army_of_the_dead::IsSummonedBy </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>summoner</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94">CreatureAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  297</span>    {</div>
+<div class="line"><span class="lineno">  298</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
+<div class="line"><span class="lineno">  299</span>        {</div>
+<div class="line"><span class="lineno">  300</span>            <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = owner-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
+<div class="line"><span class="lineno">  301</span> </div>
+<div class="line"><span class="lineno">  302</span>            <span class="keywordflow">if</span> (victim &amp;&amp; <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(victim))</div>
+<div class="line"><span class="lineno">  303</span>            {</div>
+<div class="line"><span class="lineno">  304</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(victim);</div>
+<div class="line"><span class="lineno">  305</span>            }</div>
+<div class="line"><span class="lineno">  306</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  307</span>            {</div>
+<div class="line"><span class="lineno">  308</span>                <span class="comment">// If there is no valid target, attack the nearest enemy within 30m</span></div>
+<div class="line"><span class="lineno">  309</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* nearest = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a37a962c6e3cf6106d547d733290740e1">SelectNearbyTarget</a>(<span class="keyword">nullptr</span>, 30.0f))</div>
+<div class="line"><span class="lineno">  310</span>                {</div>
+<div class="line"><span class="lineno">  311</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(nearest))</div>
+<div class="line"><span class="lineno">  312</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(nearest);</div>
+<div class="line"><span class="lineno">  313</span>                }</div>
+<div class="line"><span class="lineno">  314</span>            }</div>
+<div class="line"><span class="lineno">  315</span>        }</div>
+<div class="line"><span class="lineno">  316</span>    }</div>
+<div class="ttc" id="aclassObject_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition</b> Object.h:210</div></div>
+<div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
+<div class="ttc" id="aclassUnit_html_a37a962c6e3cf6106d547d733290740e1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a37a962c6e3cf6106d547d733290740e1">Unit::SelectNearbyTarget</a></div><div class="ttdeci">Unit * SelectNearbyTarget(Unit *exclude=nullptr, float dist=NOMINAL_MELEE_RANGE) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:17068</div></div>
+<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:848</div></div>
+<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:13973</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00848">Unit::GetVictim()</a>, <a class="el" href="../../#l13973">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l17068">Unit::SelectNearbyTarget()</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
+
+</div>
+</div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
 <li>azerothcore-wotlk/src/server/scripts/Pet/<a class="el" href="../../">pet_dk.cpp</a></li>
 </ul>
@@ -498,7 +554,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d61/structnpc__pet__dk__army__of__the__dead.html">npc_pet_dk_army_of_the_dead</a></li>
-    <li class="footer">Generated on Tue Aug 12 2025 06:26:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Aug 13 2025 06:26:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

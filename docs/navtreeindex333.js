@@ -1,5 +1,9 @@
 var NAVTREEINDEX333 =
 {
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2107,0,6],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2107,0,1],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2107,0,8],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c":[6,0,2107,0,5],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2107,0,2],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2107,0,9],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,16,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dbf/classboss__frostsworn__general.html#a8e958e13999f23a81a7230fa9ece276b":[6,0,483,2],
 "dd/dc0/classnpc__mimirons__inferno.html":[6,0,1964],
 "dd/dc0/classnpc__mimirons__inferno.html#a69294c5e8f50727e5f1a6586a8a3682b":[6,0,1964,2],
-"dd/dc0/classnpc__mimirons__inferno.html#a7a531a65a179b5d56c888c055b72d269":[6,0,1964,1],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html":[6,0,3976],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html#a0649826ce0d66c9f21be8d47c76f4941":[6,0,3976,6],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html#a3b5812649b67830d8dc6d10b5dd1c937":[6,0,3976,2],
-"dd/dc0/classspell__warl__seed__of__corruption__aura.html#a5067cef0afc99d487f995f8d6edea21f":[6,0,3976,3]
+"dd/dc0/classnpc__mimirons__inferno.html#a7a531a65a179b5d56c888c055b72d269":[6,0,1964,1]
 };

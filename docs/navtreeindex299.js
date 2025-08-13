@@ -1,5 +1,9 @@
 var NAVTREEINDEX299 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca99dfcda224e38c33771d6bf70abb5b66":[7,0,0,0,1,3,7,4,2,0,11,13],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8":[7,0,0,0,1,3,7,4,2,0,11,9],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cab61a4963be73929db365ddabad71eef7":[7,0,0,0,1,3,7,4,2,0,11,17],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cacd0b5cac8c9deb10c2f18f8191c662ee":[7,0,0,0,1,3,7,4,2,0,11,1],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad75c10b32acd0fb75783ba32fe07697e":[7,0,0,0,1,3,7,4,2,0,11,8],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,4,2,0,11,5],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[7,0,0,0,1,3,7,4,2,0,11,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[6,0,1798,0,1],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1798,0,2],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1798,0,4],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[6,0,1798,0,9],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[6,0,1798,0,3],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[6,0,1798,0,7],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[6,0,1570,0],
-"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[6,0,1570,0,3]
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[6,0,1798,0,9]
 };

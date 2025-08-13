@@ -1,5 +1,9 @@
 var NAVTREEINDEX274 =
 {
+"db/d1b/classspell__shadowblink.html":[6,0,3794],
+"db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[6,0,3794,0],
+"db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[6,0,3794,2],
+"db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3794,3],
 "db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[6,0,3794,1],
 "db/d1b/structboss__kazrogal.html":[6,0,564],
 "db/d1b/structboss__kazrogal.html#a0b54f8c935d09367d7e6b7dbf6c4ce61":[6,0,564,2],
@@ -124,8 +128,8 @@ var NAVTREEINDEX274 =
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1882,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1882,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1882,0,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX274 =
 "db/d2b/classspell__gen__consume.html#af69251aa0415a2148162f32dd9113917":[6,0,2927,2],
 "db/d2c/custom__script__loader_8cpp.html":[7,0,0,0,1,3,1,0],
 "db/d2c/custom__script__loader_8cpp.html#a068af514420f658f0c087bbb77628173":[7,0,0,0,1,3,1,0,0],
-"db/d2c/structVisibilitySettingData.html":[6,0,4228],
-"db/d2c/structVisibilitySettingData.html#aaa4faa0170181e409940b5441eb2f586":[6,0,4228,1],
-"db/d2c/structVisibilitySettingData.html#ad566fd5eff102929247b75cf5092a60b":[6,0,4228,2],
-"db/d2c/structVisibilitySettingData.html#af70453021c5ded85c73a4d5559dca2ea":[6,0,4228,0],
-"db/d2d/boss__hazzarah_8cpp.html":[7,0,0,0,1,3,2,16,4]
+"db/d2c/structVisibilitySettingData.html":[6,0,4228]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca9ab26738a95567e4fe7d6feacb698627":[7,0,0,0,1,2,7,0,1,21,4],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccaaa05846cad8ebb99baf4ee49e09c7ac6":[7,0,0,0,1,2,7,0,1,21,2],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccac37577a6cdd4b8d5f971ba284bf60860":[7,0,0,0,1,2,7,0,1,21,3],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccad995b3fe8c989b8635731a628c26463a":[7,0,0,0,1,2,7,0,1,21,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f":[7,0,0,0,1,3,2,9,0,12,5],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a8ff29d1fe0be700e07d22e86b6593b69":[7,0,0,0,1,3,2,9,0,15],
 "d6/d51/boss__apothecary__hummel_8cpp.html#aae2a7d6c56f8a7f3dff6f6146ec59a73":[7,0,0,0,1,3,2,9,0,14],
-"d6/d51/spell__dk_8cpp.html":[7,0,0,0,1,3,9,0],
-"d6/d51/spell__dk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,9,0,52]
+"d6/d51/spell__dk_8cpp.html":[7,0,0,0,1,3,9,0]
 };

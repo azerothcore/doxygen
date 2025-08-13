@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/da8/classspell__dru__glyph__of__starfire.html":[6,0,2817],
 "d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[6,0,2817,0],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae29c4f69a34e71011192df12509e2935":[6,0,2817,1],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae37da44bde25f6bdb5b4a382ab66b7be":[6,0,2817,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/db0/classMap.html#ab9855e187255da4c4bdb41c5debadcb0":[6,0,1472,223],
 "d7/db0/classMap.html#abd2e3763ea880bfd74f4b1288ca16e89":[6,0,1472,227],
 "d7/db0/classMap.html#abd3105b1a9479ade772f6a4c47d4c83b":[6,0,1472,30],
-"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1472,154],
-"d7/db0/classMap.html#abdac644dc3c8b30989d16efe624c8894":[6,0,1472,106]
+"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1472,154]
 };

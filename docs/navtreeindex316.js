@@ -1,5 +1,9 @@
 var NAVTREEINDEX316 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1095,4],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[6,0,1095,2],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a7b2a19d6c7c75c0df22eae17b0c8e90a":[6,0,1095,1],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1095,5],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#aad6527f64ede0d896880ffa90d05a378":[6,0,1095,6],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[6,0,1095,3],
 "dc/ddf/brewfest_8cpp.html":[7,0,0,0,1,3,3,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX316 =
 "dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1687],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[6,0,1687,1],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d":[6,0,1687,2],
-"dc/de6/classnpc__your__inner__turmoil.html":[6,0,2299],
-"dc/de6/classnpc__your__inner__turmoil.html#a29c8f76b072e891face1225770688ca6":[6,0,2299,2],
-"dc/de6/classnpc__your__inner__turmoil.html#a72856ef469bb8f6ff4a89a16159479af":[6,0,2299,1],
-"dc/de6/structboss__skarvald__the__constructor.html":[6,0,704],
-"dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,704,7]
+"dc/de6/classnpc__your__inner__turmoil.html":[6,0,2299]
 };

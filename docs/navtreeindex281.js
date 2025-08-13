@@ -1,15 +1,19 @@
 var NAVTREEINDEX281 =
 {
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,73,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,73,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3046],
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3046,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3046,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3046,2],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1154],
 "db/d7f/classgo__manticron__cube.html#a87d9571aea57f16d38067ebd9e22200d":[6,0,1154,0],
 "db/d7f/classgo__manticron__cube.html#accab4a61f00f5e465fb795b4cbe672bf":[6,0,1154,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX281 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae6b4c4922a00d82fba3baa8762d92a4a":[7,0,0,0,1,3,5,8,0,0,26,30],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae9865db1c8e4d39c5d7a7678130880da":[7,0,0,0,1,3,5,8,0,0,26,20],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccafac9211b03f6843b5c3c37b990af5546":[7,0,0,0,1,3,5,8,0,0,26,5],
-"db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc":[7,0,0,0,1,3,5,8,0,0,19],
-"db/d86/boss__malygos_8cpp.html#aeb028081562dd8d3df703b75a9001dd6":[7,0,0,0,1,3,5,8,0,0,23],
-"db/d88/classspell__mc__play__dead__aura.html":[6,0,3434],
-"db/d88/classspell__mc__play__dead__aura.html#a201bafab6c483b08a6ae27054392dea9":[6,0,3434,4],
-"db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[6,0,3434,2]
+"db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc":[7,0,0,0,1,3,5,8,0,0,19]
 };

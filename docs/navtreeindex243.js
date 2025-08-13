@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[6,0,3762,0],
 "d9/dd0/classspell__sha__bloodlust.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9":[6,0,3762,2],
 "d9/dd0/classspell__sha__bloodlust.html#ac69d777fdf7a2d3c527621dee256690c":[6,0,3762,4],
 "d9/dd1/classspell__class__call__handler.html":[6,0,2711],
@@ -159,16 +160,16 @@ var NAVTREEINDEX243 =
 "d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,67,1],
-"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
+"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,67,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,79,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,79,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,67,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,79,0],
-"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,67,2],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,79,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,67,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,285,10],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a15c0b24641cb04f31bb3d651dae59448":[6,0,285,10,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a5ca2a9c329a7dbbb7e835849ca4479aa":[6,0,285,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,79],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,79,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,79,0],
-"d9/dee/classspell__aura__of__despair__aura.html":[6,0,2621],
-"d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2621,0]
+"d9/dee/classspell__aura__of__despair__aura.html":[6,0,2621]
 };

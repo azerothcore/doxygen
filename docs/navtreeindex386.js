@@ -1,5 +1,9 @@
 var NAVTREEINDEX386 =
 {
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,1,9,7,5],
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1c0ae6a58d21e6e6480db8b35c19d58f":[7,0,0,0,1,3,7,1,9,7,1],
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,1,9,7,0],
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,7,1,9,7,3],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,1,9,7,2],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,1,9,7,4],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,9,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX386 =
 "df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4135,3],
 "df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4135,4],
 "df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[6,0,4135,5],
-"df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4135,1],
-"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[6,0,4135,6],
-"df/d76/UpdateFetcher_8h.html":[7,0,0,0,1,1,3,3],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html":[6,0,2175,0],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[6,0,2175,0,1]
+"df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4135,1]
 };

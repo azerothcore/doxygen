@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbab3588c1e566b7b7ee5bbc826a70185e5":[7,0,0,0,1,3,2,1,1,8,7,0],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,8,4],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ac964d297dafb8b20155d46e633771d":[7,0,0,0,1,3,2,1,1,8,4,7],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a2530481456b71f0499b7d6ca8832a0":[7,0,0,0,1,3,2,1,1,8,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d6d/structDoorInfo.html#a26f4849a1d68df466e6db0ccbb8d001b":[6,0,982,0],
 "d6/d6d/structDoorInfo.html#ad77a91752ea10a11c8e73655e63dd5c1":[6,0,982,2],
 "d6/d6e/EnumFlag_8h.html":[7,0,0,0,0,15,7],
-"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[7,0,0,0,0,15,7,5],
-"d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[7,0,0,0,0,15,7,4]
+"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[7,0,0,0,0,15,7,5]
 };

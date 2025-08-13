@@ -1,5 +1,9 @@
 var NAVTREEINDEX324 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1afef42c4fe1160ddb6cdf94f41e4d39":[6,0,1085,20],
+"dd/d3b/structGameObjectTemplate.html#a1bc816bf3e90d0cc0487e7a2d4a79f87":[6,0,1085,62],
+"dd/d3b/structGameObjectTemplate.html#a1bed78efc783fd519e7cb9e788c0ca36":[6,0,1085,172],
+"dd/d3b/structGameObjectTemplate.html#a1c3ee1358cfe29d08587a6d014d97845":[6,0,1085,111],
 "dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330":[6,0,1085,185],
 "dd/d3b/structGameObjectTemplate.html#a1c7b9dcd793986593ef5cac164b65994":[6,0,1085,124],
 "dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036":[6,0,1085,107],
@@ -194,14 +198,14 @@ var NAVTREEINDEX324 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,27,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,27,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,27,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,27,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,27,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,27,8,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d40/instance__molten__core_8cpp.html":[7,0,0,0,1,3,2,1,3,10],
 "dd/d40/instance__molten__core_8cpp.html#a1712840a822c3d823764d3c974c6ea31":[7,0,0,0,1,3,2,1,3,10,7],
 "dd/d40/instance__molten__core_8cpp.html#a398f000c29691c6a24707190dc4a4024":[7,0,0,0,1,3,2,1,3,10,5],
-"dd/d40/instance__molten__core_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,2,1,3,10,6],
-"dd/d40/instance__molten__core_8cpp.html#a69ab269a27b57bb4b00d3eee95db589e":[7,0,0,0,1,3,2,1,3,10,4],
-"dd/d40/instance__molten__core_8cpp.html#aa908fb56c2f024e5bfcb38bc98b849ab":[7,0,0,0,1,3,2,1,3,10,3],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html":[6,0,1930,0],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1930,0,1]
+"dd/d40/instance__molten__core_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,2,1,3,10,6]
 };

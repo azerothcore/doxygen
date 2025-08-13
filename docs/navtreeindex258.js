@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae71303047bb2e125eb7e59b55686c7b9":[7,0,0,0,1,3,5,6,10,83,24],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aff1eb0cc2288bc3b19ffa162f126106f":[7,0,0,0,1,3,5,6,10,83,26],
 "da/d78/boss__the__lich__king_8cpp.html#aaf81d742c67304a0f6cbe7b87be35ae6":[7,0,0,0,1,3,5,6,10,72],
 "da/d78/boss__the__lich__king_8cpp.html#ab2cb971d4187e38d192355bc444cd305":[7,0,0,0,1,3,5,6,10,69],
@@ -89,8 +90,8 @@ var NAVTREEINDEX258 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3900,1],
 "da/d7b/MapMgr_8h.html":[7,0,0,0,1,2,26,8],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,8,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,26,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,26,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d7e/structSpawnSpells.html#a108dee679b1f5d9fb8351f7b4b4f3a56":[6,0,2580,2],
 "da/d7e/structSpawnSpells.html#a2c430be201c1fd866ee96224f1803a20":[6,0,2580,0],
 "da/d7e/structSpawnSpells.html#a9a35c148286e88f48b174be8b74fc5d0":[6,0,2580,1],
-"da/d7f/structPosition_1_1PositionXYStreamer.html":[6,0,2432,0],
-"da/d7f/structPosition_1_1PositionXYStreamer.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b":[6,0,2432,0,0]
+"da/d7f/structPosition_1_1PositionXYStreamer.html":[6,0,2432,0]
 };

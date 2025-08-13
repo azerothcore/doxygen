@@ -1,5 +1,9 @@
 var NAVTREEINDEX273 =
 {
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5":[7,0,0,0,1,2,31,7,7],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e":[7,0,0,0,1,2,31,7,7,2],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc":[7,0,0,0,1,2,31,7,7,1],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7":[7,0,0,0,1,2,31,7,7,0],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5":[7,0,0,0,1,2,31,7,7,3],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9":[7,0,0,0,1,2,31,7,6],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc":[7,0,0,0,1,2,31,7,6,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX273 =
 "db/d1b/SkillExtraItems_8cpp.html#ad732be66d93ed6e8f498077f27e2766b":[7,0,0,0,1,2,40,2,3],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html":[6,0,1839],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html#a96102a488330c54a3e3654c767e8e1a5":[6,0,1839,1],
-"db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[6,0,1839,2],
-"db/d1b/classspell__shadowblink.html":[6,0,3794],
-"db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[6,0,3794,0],
-"db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[6,0,3794,2],
-"db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[6,0,3794,3]
+"db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[6,0,1839,2]
 };

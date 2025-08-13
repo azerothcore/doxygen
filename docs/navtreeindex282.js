@@ -1,5 +1,9 @@
 var NAVTREEINDEX282 =
 {
+"db/d86/boss__malygos_8cpp.html#aeb028081562dd8d3df703b75a9001dd6":[7,0,0,0,1,3,5,8,0,0,23],
+"db/d88/classspell__mc__play__dead__aura.html":[6,0,3434],
+"db/d88/classspell__mc__play__dead__aura.html#a201bafab6c483b08a6ae27054392dea9":[6,0,3434,4],
+"db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[6,0,3434,2],
 "db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[6,0,3434,1],
 "db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[6,0,3434,5],
 "db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[6,0,3434,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX282 =
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571adba86ceaeb379ef8f38f945b42bd38a0":[7,0,0,0,1,2,16,4,6,42,11],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ade011b0c5bb8c2be05c21c8cc6548ddd":[7,0,0,0,1,2,16,4,6,42,8],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae284935c0f167ad9508cdf9633de09bf":[7,0,0,0,1,2,16,4,6,42,20],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae5246417b9df86be1cc73268b505e323":[7,0,0,0,1,2,16,4,6,42,26],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aecca550f8449af83970969401b263ca1":[7,0,0,0,1,2,16,4,6,42,17],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aee815449780a000e13a2bd06d4033e2e":[7,0,0,0,1,2,16,4,6,42,27],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aeedb146a578adffbf2baa9b63374d74f":[7,0,0,0,1,2,16,4,6,42,24],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3":[7,0,0,0,1,2,16,4,6,42,1]
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae5246417b9df86be1cc73268b505e323":[7,0,0,0,1,2,16,4,6,42,26]
 };
