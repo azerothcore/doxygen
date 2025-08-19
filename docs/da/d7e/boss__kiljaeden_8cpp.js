@@ -16,6 +16,7 @@ var boss__kiljaeden_8cpp =
     [ "spell_kiljaeden_armageddon_periodic_aura", "dc/d6b/classspell__kiljaeden__armageddon__periodic__aura.html", "dc/d6b/classspell__kiljaeden__armageddon__periodic__aura" ],
     [ "spell_kiljaeden_armageddon_missile", "d1/d69/classspell__kiljaeden__armageddon__missile.html", "d1/d69/classspell__kiljaeden__armageddon__missile" ],
     [ "spell_kiljaeden_dragon_breath", "d5/dec/classspell__kiljaeden__dragon__breath.html", "d5/dec/classspell__kiljaeden__dragon__breath" ],
+    [ "spell_kiljaeden_shield_of_the_blue", "df/da3/classspell__kiljaeden__shield__of__the__blue.html", "df/da3/classspell__kiljaeden__shield__of__the__blue" ],
     [ "Misc", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "PHASE_DECEIVERS", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f9a2a510d15bda8318e3fc715e0b2df", null ],
       [ "PHASE_NORMAL", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac28c2a834c630f24ae2654b4ea97ed1", null ],

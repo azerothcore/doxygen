@@ -9,7 +9,7 @@ var dir_47dd4bd942ccc740eef16326f5a4c0e4 =
     [ "PlayerGossip.cpp", "df/d55/PlayerGossip_8cpp.html", null ],
     [ "PlayerMisc.cpp", "d7/d8f/PlayerMisc_8cpp.html", null ],
     [ "PlayerQuest.cpp", "d7/dbf/PlayerQuest_8cpp.html", null ],
-    [ "PlayerSettings.cpp", "d2/d2e/PlayerSettings_8cpp.html", null ],
+    [ "PlayerSettings.cpp", "d2/d2e/PlayerSettings_8cpp.html", "d2/d2e/PlayerSettings_8cpp" ],
     [ "PlayerSettings.h", "d6/d48/PlayerSettings_8h.html", "d6/d48/PlayerSettings_8h" ],
     [ "PlayerStorage.cpp", "d8/dd6/PlayerStorage_8cpp.html", null ],
     [ "PlayerTaxi.cpp", "d5/d13/PlayerTaxi_8cpp.html", "d5/d13/PlayerTaxi_8cpp" ],

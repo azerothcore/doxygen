@@ -173,6 +173,13 @@ var namespaces_dup =
       [ "RemoveByName", "d6/dba/namespacePlayerNameMapHolder.html#a9c5298580060e7a6078ffb5f4008c549", null ],
       [ "PlayerNameMap", "d6/dba/namespacePlayerNameMapHolder.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
     ] ],
+    [ "PlayerSettingsStore", "da/dd0/namespacePlayerSettingsStore.html", [
+      [ "LoadPlayerSettings", "da/dd0/namespacePlayerSettingsStore.html#aeeeef0d082814c49edeabefa39fb10b7", null ],
+      [ "ParseSettingsData", "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
+      [ "PrepareReplaceStatement", "da/dd0/namespacePlayerSettingsStore.html#a50a2948284069e6a28f5f61561e6695c", null ],
+      [ "SerializeSettingsData", "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
+      [ "UpdateSetting", "da/dd0/namespacePlayerSettingsStore.html#a24e764dd129ebe06e970a2712cb82047", null ]
+    ] ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", "dd/d34/namespaceVMAP" ],
     [ "WeatherMgr", "df/dd4/namespaceWeatherMgr.html", [

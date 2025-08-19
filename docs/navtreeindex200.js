@@ -1,5 +1,13 @@
 var NAVTREEINDEX200 =
 {
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a7c73e3381592bef44d2265aff296b301":[6,0,3625,2],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html":[6,0,392,0],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a1a034601a7dda94becbf1801bda63d55":[6,0,392,0,5],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a2c3ed57dd0336ce8ac1a85c957da9e4a":[6,0,392,0,2],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a3a85b2a6e958a965e52a9fde87c08177":[6,0,392,0,0],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a8c5e43b4b4e0583db7dcc93694202bd8":[6,0,392,0,3],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#aaf47fc993e672877f51b5095f682906c":[6,0,392,0,4],
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#ad339cb7149b50cf5accc24b5a2d0bf82":[6,0,392,0,1],
 "d7/da8/classspell__dru__glyph__of__starfire.html":[6,0,2817],
 "d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[6,0,2817,0],
 "d7/da8/classspell__dru__glyph__of__starfire.html#ae29c4f69a34e71011192df12509e2935":[6,0,2817,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX200 =
 "d7/db0/classMap.html#ab5a0895b07c01085feb62dade7a9e888":[6,0,1472,233],
 "d7/db0/classMap.html#ab63a3fb9d7629b7b3df7fd92c0dbf5e5":[6,0,1472,166],
 "d7/db0/classMap.html#ab690442f3631e908795d01f16f20f2ec":[6,0,1472,208],
-"d7/db0/classMap.html#ab70e727db299a2c99866ec407ae31d8a":[6,0,1472,35],
-"d7/db0/classMap.html#ab7d7a4e9fa4e69efa9b45691ffe7519e":[6,0,1472,77],
-"d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7":[6,0,1472,39],
-"d7/db0/classMap.html#ab89dead692716665cb5fe0c9c2dcf830":[6,0,1472,42],
-"d7/db0/classMap.html#ab8a0f0ee2c5280d116fef1c28f3c52cd":[6,0,1472,142],
-"d7/db0/classMap.html#ab9855e187255da4c4bdb41c5debadcb0":[6,0,1472,223],
-"d7/db0/classMap.html#abd2e3763ea880bfd74f4b1288ca16e89":[6,0,1472,227],
-"d7/db0/classMap.html#abd3105b1a9479ade772f6a4c47d4c83b":[6,0,1472,30],
-"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1472,154]
+"d7/db0/classMap.html#ab70e727db299a2c99866ec407ae31d8a":[6,0,1472,35]
 };

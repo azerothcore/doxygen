@@ -1,5 +1,13 @@
 var NAVTREEINDEX169 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a1a9362fc649e780f8a7e22202fa12f9c":[7,0,0,0,1,2,7,0,1,26],
+"d6/d4f/BattlefieldWG_8h.html#a1c77d9e019ffe8d4bad9e01823bf27b8":[7,0,0,0,1,2,7,0,1,49],
+"d6/d4f/BattlefieldWG_8h.html#a2219f07adfc66fe196d304b64c574212":[7,0,0,0,1,2,7,0,1,45],
+"d6/d4f/BattlefieldWG_8h.html#a41a2f2df15bf8bbcbb7f13637db65670":[7,0,0,0,1,2,7,0,1,39],
+"d6/d4f/BattlefieldWG_8h.html#a429fdb51497ac03b7447f5492148fb7b":[7,0,0,0,1,2,7,0,1,32],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cc":[7,0,0,0,1,2,7,0,1,21],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca77400c19a9af26681f70c2e55941a791":[7,0,0,0,1,2,7,0,1,21,0],
+"d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca84847bfa42e5c1b7a81f11ba4b230893":[7,0,0,0,1,2,7,0,1,21,5],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35cca9ab26738a95567e4fe7d6feacb698627":[7,0,0,0,1,2,7,0,1,21,4],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccaaa05846cad8ebb99baf4ee49e09c7ac6":[7,0,0,0,1,2,7,0,1,21,2],
 "d6/d4f/BattlefieldWG_8h.html#a46412ed18a94953231c763070e3e35ccac37577a6cdd4b8d5f971ba284bf60860":[7,0,0,0,1,2,7,0,1,21,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f":[7,0,0,0,1,3,2,9,0,12,6],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,2,9,0,12,2],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,2,9,0,12,1],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4":[7,0,0,0,1,3,2,9,0,12,7],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8":[7,0,0,0,1,3,2,9,0,12,8],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8":[7,0,0,0,1,3,2,9,0,12,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,2,9,0,12,0],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d":[7,0,0,0,1,3,2,9,0,12,4],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f":[7,0,0,0,1,3,2,9,0,12,5],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a8ff29d1fe0be700e07d22e86b6593b69":[7,0,0,0,1,3,2,9,0,15],
-"d6/d51/boss__apothecary__hummel_8cpp.html#aae2a7d6c56f8a7f3dff6f6146ec59a73":[7,0,0,0,1,3,2,9,0,14],
-"d6/d51/spell__dk_8cpp.html":[7,0,0,0,1,3,9,0]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4":[7,0,0,0,1,3,2,9,0,12,7]
 };

@@ -3816,6 +3816,7 @@ var annotated_dup =
     [ "spell_kiljaeden_flame_dart", "d6/d27/classspell__kiljaeden__flame__dart.html", "d6/d27/classspell__kiljaeden__flame__dart" ],
     [ "spell_kiljaeden_power_of_the_blue_flight", "d5/db4/classspell__kiljaeden__power__of__the__blue__flight.html", "d5/db4/classspell__kiljaeden__power__of__the__blue__flight" ],
     [ "spell_kiljaeden_shadow_spike_aura", "de/d42/classspell__kiljaeden__shadow__spike__aura.html", "de/d42/classspell__kiljaeden__shadow__spike__aura" ],
+    [ "spell_kiljaeden_shield_of_the_blue", "df/da3/classspell__kiljaeden__shield__of__the__blue.html", "df/da3/classspell__kiljaeden__shield__of__the__blue" ],
     [ "spell_kiljaeden_sinister_reflection", "d8/d7c/classspell__kiljaeden__sinister__reflection.html", "d8/d7c/classspell__kiljaeden__sinister__reflection" ],
     [ "spell_kiljaeden_sinister_reflection_clone", "db/dbf/classspell__kiljaeden__sinister__reflection__clone.html", "db/dbf/classspell__kiljaeden__sinister__reflection__clone" ],
     [ "spell_kiljaeden_vengeance_of_the_blue_flight_aura", "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html", "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura" ],

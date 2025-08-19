@@ -1,5 +1,9 @@
 var NAVTREEINDEX108 =
 {
+"d3/dcf/Battleground_8h.html#a99770417e6abb4f06880059f0b9a437faf6cfff3c86eeecac0897c0fe6ca98df5":[7,0,0,0,1,2,8,10,11,4],
+"d3/dcf/Battleground_8h.html#a9b3c137d134a4132bde20fa629c5bb6a":[7,0,0,0,1,2,8,10,28],
+"d3/dcf/Battleground_8h.html#a9b3c137d134a4132bde20fa629c5bb6aa5bf115b7d8bd9854c89486699ec30c26":[7,0,0,0,1,2,8,10,28,0],
+"d3/dcf/Battleground_8h.html#a9b3c137d134a4132bde20fa629c5bb6aaa7d82fa234979ffd5e580800cf906508":[7,0,0,0,1,2,8,10,28,1],
 "d3/dcf/Battleground_8h.html#a9b3c137d134a4132bde20fa629c5bb6aadcb9272c46983aed265dbafa2dec582b":[7,0,0,0,1,2,8,10,28,2],
 "d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64":[7,0,0,0,1,2,8,10,21],
 "d3/dcf/Battleground_8h.html#aa0346f3f211a62e6d5b326063d0efb64a11803b061c6a657c904211f3f8f60366":[7,0,0,0,1,2,8,10,21,2],
@@ -101,11 +105,11 @@ var NAVTREEINDEX108 =
 "d3/dd0/classspell__hun__sniper__training.html#ab467c3b759ac1e276d6a4815d20f5ff0":[6,0,3120,4],
 "d3/dd0/classspell__hun__sniper__training.html#acba5d68c19e68361c088e50f9b831bff":[6,0,3120,0],
 "d3/dd0/classspell__hun__sniper__training.html#af27c6dfccb12f1ba52d170da5d9228f9":[6,0,3120,1],
-"d3/dd0/classspell__mage__ice__barrier.html":[6,0,3397],
-"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[6,0,3397,2],
-"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[6,0,3397,0],
-"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[6,0,3397,3],
-"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[6,0,3397,1],
+"d3/dd0/classspell__mage__ice__barrier.html":[6,0,3398],
+"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[6,0,3398,2],
+"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[6,0,3398,0],
+"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[6,0,3398,3],
+"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[6,0,3398,1],
 "d3/dd1/DBCEnums_8h.html":[7,0,0,0,1,4,0,2],
 "d3/dd1/DBCEnums_8h.html#a10d235f3fd91ca4d4d9532092ea4cb6b":[7,0,0,0,1,4,0,2,7],
 "d3/dd1/DBCEnums_8h.html#a114472f521098d647eb8db3a6df31204":[7,0,0,0,1,4,0,2,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX108 =
 "d3/dd1/DBCEnums_8h.html#a5201a522ecfb21f8b94bcab8b2ba2f8c":[7,0,0,0,1,4,0,2,2],
 "d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6af":[7,0,0,0,1,4,0,2,17],
 "d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa129d8b88c1d7d3f0f76eea68c2677359":[7,0,0,0,1,4,0,2,17,0],
-"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa6c09979de2b88009ca57b47f0a8f7aa9":[7,0,0,0,1,4,0,2,17,1],
-"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa7c32959f04905417659eaf1dac52b7fd":[7,0,0,0,1,4,0,2,17,4],
-"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa8207267cb99157995eab255fef8e2f30":[7,0,0,0,1,4,0,2,17,8],
-"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa8eedb63abf081a44db8dd9deb04d6da9":[7,0,0,0,1,4,0,2,17,2],
-"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa8efb8adee3f151e45d5ddcfd41bcabf1":[7,0,0,0,1,4,0,2,17,9]
+"d3/dd1/DBCEnums_8h.html#a5803e4c6038ec396a71e8a90a7a2b6afa6c09979de2b88009ca57b47f0a8f7aa9":[7,0,0,0,1,4,0,2,17,1]
 };

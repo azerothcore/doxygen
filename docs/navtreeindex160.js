@@ -1,5 +1,9 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#acb3011a7800c529c8642d3dbbabc76fe":[6,0,2323,234],
+"d5/dfb/classObjectMgr.html#acb39506ceb0b83bd56369084ba706b3d":[6,0,2323,285],
+"d5/dfb/classObjectMgr.html#acb5ef37e730540db039b67602efe79aa":[6,0,2323,313],
+"d5/dfb/classObjectMgr.html#acbb58b0bcbfa04941f30b61102b268cd":[6,0,2323,354],
 "d5/dfb/classObjectMgr.html#acc3e49d7f4240a3f62bc4900d8ac0ddf":[6,0,2323,89],
 "d5/dfb/classObjectMgr.html#accb457c0ea433218a59bb11032ac8aaa":[6,0,2323,259],
 "d5/dfb/classObjectMgr.html#acce147acb4e57cce88fe84a43d65f0d1":[6,0,2323,286],
@@ -208,11 +212,11 @@ var NAVTREEINDEX160 =
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2193,0,1],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a81607ebd90d8f511bb18b03ff497d9eb":[6,0,2193,0,2],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a8edadebd7e6660041233a24fb07173bf":[6,0,2193,0,4],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html":[6,0,3641],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a0f6e6c6892d56a6fceb927f68c734bde":[6,0,3641,3],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b":[6,0,3641,1],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79":[6,0,3641,0],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3641,2],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html":[6,0,3642],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a0f6e6c6892d56a6fceb927f68c734bde":[6,0,3642,3],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b":[6,0,3642,1],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79":[6,0,3642,0],
+"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3642,2],
 "d6/d06/temple__of__ahnqiraj_8h.html":[7,0,0,0,1,3,4,9,12],
 "d6/d06/temple__of__ahnqiraj_8h.html#a0300fcd1fbf91f18e02645a86327c515":[7,0,0,0,1,3,4,9,12,7],
 "d6/d06/temple__of__ahnqiraj_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,9,12,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX160 =
 "d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08af860fa13d82d33153a5616cf6a9f8033":[7,0,0,0,1,3,4,9,12,3,0],
 "d6/d06/temple__of__ahnqiraj_8h.html#a25a619e6b66096a4f05d048e4a96df08afadc4bf950cad92f2c69f690bfd8dacb":[7,0,0,0,1,3,4,9,12,3,4],
 "d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729c":[7,0,0,0,1,3,4,9,12,4],
-"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca087b1018c6c805930936e131de7df5a4":[7,0,0,0,1,3,4,9,12,4,2],
-"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca56672f79485d0b94e109df64bb27f3ad":[7,0,0,0,1,3,4,9,12,4,3],
-"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca5a465ffad255de629d7ea16ad24068b5":[7,0,0,0,1,3,4,9,12,4,0],
-"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca623b70881e578dcf96604f8aeb29bc04":[7,0,0,0,1,3,4,9,12,4,6],
-"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca97b8f2033f623ba707311d0676736ae3":[7,0,0,0,1,3,4,9,12,4,4]
+"d6/d06/temple__of__ahnqiraj_8h.html#a9448fcffb5a3ee3ef650061025c6729ca087b1018c6c805930936e131de7df5a4":[7,0,0,0,1,3,4,9,12,4,2]
 };

@@ -342,6 +342,7 @@ var hierarchy =
         [ "spell_kiljaeden_armageddon_periodic_aura", "dc/d6b/classspell__kiljaeden__armageddon__periodic__aura.html", null ],
         [ "spell_kiljaeden_darkness_aura", "d8/d6c/classspell__kiljaeden__darkness__aura.html", null ],
         [ "spell_kiljaeden_shadow_spike_aura", "de/d42/classspell__kiljaeden__shadow__spike__aura.html", null ],
+        [ "spell_kiljaeden_shield_of_the_blue", "df/da3/classspell__kiljaeden__shield__of__the__blue.html", null ],
         [ "spell_kiljaeden_vengeance_of_the_blue_flight_aura", "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html", null ],
         [ "spell_kologarn_stone_shout_aura", "d7/d06/classspell__kologarn__stone__shout__aura.html", null ],
         [ "spell_koralon_meteor_fists_aura", "da/dc4/classspell__koralon__meteor__fists__aura.html", null ],
