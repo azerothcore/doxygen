@@ -33,6 +33,7 @@ var classGroup =
     [ "Create", "d0/db7/classGroup.html#ad8e8aed3d91a8233306d0dd6a9bb5148", null ],
     [ "Disband", "d0/db7/classGroup.html#a4af556c3741d3929d8cd8cb25d556483", null ],
     [ "DoForAllMembers", "d0/db7/classGroup.html#ad664970c595b75211468727154b2f53f", null ],
+    [ "DoMinimapPing", "d0/db7/classGroup.html#aefacf2fb59160b7b943f6e78efc50b9c", null ],
     [ "EndRoll", "d0/db7/classGroup.html#a0a9705a4f02e3ac97c7c11b064554a08", null ],
     [ "GetDifficulty", "d0/db7/classGroup.html#ab738b1f3da9ad7381c36ffa6c1e81ad6", null ],
     [ "GetDifficultyChangePreventionReason", "d0/db7/classGroup.html#a18c962060f2a618f7e01de311e36cff9", null ],

@@ -1,5 +1,16 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd7/classspell__item__mercurial__shield.html#ab923050ce4613538ee4837daba09dd33":[6,0,3259,0],
+"d5/dd7/classspell__sha__spirit__walk.html":[6,0,3785],
+"d5/dd7/classspell__sha__spirit__walk.html#a0efb319154edb2c798460de72d6a56ed":[6,0,3785,1],
+"d5/dd7/classspell__sha__spirit__walk.html#acd6ecb0204dd369c410e465551328f56":[6,0,3785,2],
+"d5/dd7/classspell__sha__spirit__walk.html#aecbecbd753b8ed32d51971a090063ef4":[6,0,3785,0],
+"d5/dd8/boss__flamegor_8cpp.html":[7,0,0,0,1,3,2,1,2,5],
+"d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,1,2,5,2],
+"d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,2,1,2,5,2,0],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,5,4],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,1,2,5,4,2],
+"d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[7,0,0,0,1,3,2,1,2,5,4,0],
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375":[7,0,0,0,1,3,2,1,2,5,4,1],
 "d5/dd8/boss__flamegor_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,1,2,5,5],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,5,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX156 =
 "d5/de7/classinstance__steam__vault.html#aa3417083841ccb50c8a2f29ba343e115":[6,0,1332,1],
 "d5/de7/structRunes.html":[6,0,2510],
 "d5/de7/structRunes.html#a88c702716eb3032c20ae5ed74922d923":[6,0,2510,1],
-"d5/de7/structRunes.html#a920d32d04ec7e872680a89b0c0a9b0ef":[6,0,2510,0],
-"d5/de7/structRunes.html#aac485530bfa81d54d9da3213fe917c29":[6,0,2510,2],
-"d5/de7/structRunes.html#ae58297e0766578b234604a97641501a1":[6,0,2510,3],
-"d5/de9/AppenderDB_8cpp.html":[7,0,0,0,1,1,1,0],
-"d5/de9/classspell__gen__profession__research.html":[6,0,2994],
-"d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[6,0,2994,4],
-"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,2994,2],
-"d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[6,0,2994,1],
-"d5/de9/classspell__gen__profession__research.html#ace75db8a6e5628df6e2edba91cd2852f":[6,0,2994,3],
-"d5/de9/classspell__gen__profession__research.html#ad967ae7e2affa312fa4adbca6e86dd7c":[6,0,2994,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[6,0,1333,0],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[6,0,1333,0,25]
+"d5/de7/structRunes.html#a920d32d04ec7e872680a89b0c0a9b0ef":[6,0,2510,0]
 };

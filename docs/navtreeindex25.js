@@ -1,5 +1,16 @@
 var NAVTREEINDEX25 =
 {
+"d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708":[6,0,2583,246],
+"d1/d16/classSpell.html#a630cf490e573e7f6ec36cfe2e2e47272":[6,0,2583,326],
+"d1/d16/classSpell.html#a63232c6963a69e17139f0084a8167496":[6,0,2583,188],
+"d1/d16/classSpell.html#a646d78d67936422cff9ab9d36e9e2503":[6,0,2583,125],
+"d1/d16/classSpell.html#a6634a11a4bb1806304a33e3bc10b7c28":[6,0,2583,304],
+"d1/d16/classSpell.html#a66c11a144d72113d243e8552c7455d15":[6,0,2583,12],
+"d1/d16/classSpell.html#a66c7bea2221cf2f2ffecdcdd89173ed3":[6,0,2583,291],
+"d1/d16/classSpell.html#a684a3106987a62ce93040b5b5cf76771":[6,0,2583,69],
+"d1/d16/classSpell.html#a68b7071f7708ddf46cb20e2e76e414ad":[6,0,2583,217],
+"d1/d16/classSpell.html#a68f9348b9f781dab56d7d8a194822b3e":[6,0,2583,124],
+"d1/d16/classSpell.html#a69206f5984e77ba464a4f4a135592a94":[6,0,2583,253],
 "d1/d16/classSpell.html#a6997d5f606e25d2380de24ef96825257":[6,0,2583,311],
 "d1/d16/classSpell.html#a69d7714c4cbd81d3dbe8e16cc8cb74a3":[6,0,2583,321],
 "d1/d16/classSpell.html#a6aa6a909f19a729eed135e2108083038":[6,0,2583,70],
@@ -238,16 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d16/structadt__liquid__instance.html#abb92a54ddecdd06c1031bafd41e642dc":[6,0,132,4],
 "d1/d16/structadt__liquid__instance.html#abfe19bd9c6d9d1d41433abe6fae3baea":[6,0,132,10],
 "d1/d16/structadt__liquid__instance.html#aecd2f6f40509d9b65f9f254e59298e8c":[6,0,132,2],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html":[6,0,742,0],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#a40078609a67aa029f71df7971449b056":[6,0,742,0,2],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#aaab278dc6557a49624099b0064b8d6f3":[6,0,742,0,0],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ab0715e75a475409ffb6c623bf363a65d":[6,0,742,0,1],
-"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html#ad3ed8edb4d06e5b98a5afc82170f3233":[6,0,742,0,3],
-"d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
-"d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
-"d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,110],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,122],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,122,5]
+"d1/d16/structboss__thorim__trap_1_1boss__thorim__trapAI.html":[6,0,742,0]
 };

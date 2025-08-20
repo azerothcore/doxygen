@@ -1,5 +1,16 @@
 var NAVTREEINDEX38 =
 {
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a0b4dad62e1adf04013d8fbcefe310400":[6,0,1709,0,3],
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a183360b99ecbd784b4dabbf5158f59d1":[6,0,1709,0,1],
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a32060a04ba73fbf9ae2df8417e826ce9":[6,0,1709,0,4],
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a6e260a6e085962d54b765bff4cb17963":[6,0,1709,0,5],
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#aa5d5e8cc4fe612fda84d971d9cee987f":[6,0,1709,0,0],
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#ab7bfdc4cc8c86645174ac154ee5db541":[6,0,1709,0,2],
+"d1/da0/boss__ambassador__flamelash_8cpp.html":[7,0,0,0,1,3,2,1,0,2],
+"d1/da0/boss__ambassador__flamelash_8cpp.html#a4e4eac020cc962efc8e71493bb7172c5":[7,0,0,0,1,3,2,1,0,2,8],
+"d1/da0/boss__ambassador__flamelash_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,2,5],
+"d1/da0/boss__ambassador__flamelash_8cpp.html#a5bd342133be8c2137b831460acc9298ca250533bd2923a3390fcb7c2492b6c05b":[7,0,0,0,1,3,2,1,0,2,5,0],
+"d1/da0/boss__ambassador__flamelash_8cpp.html#a5bd342133be8c2137b831460acc9298cab8e927dcc6182504d2d00d2adb1ff1a1":[7,0,0,0,1,3,2,1,0,2,5,1],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3e":[7,0,0,0,1,3,2,1,0,2,4],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9":[7,0,0,0,1,3,2,1,0,2,4,0],
 "d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3ea8f2637b5df85ed094463ae0367132c78":[7,0,0,0,1,3,2,1,0,2,4,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX38 =
 "d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d":[6,0,4187,4],
 "d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4187,2],
 "d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4187,1],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html":[6,0,3428],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3428,3],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3428,1],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#ae1c6062123fb62a48f542e43b34c7bcd":[6,0,3428,0],
-"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#af7a5a98b5cf784d2de8b57a183c19142":[6,0,3428,2],
-"d1/dac/structboss__lord__marrowgar.html":[6,0,595],
-"d1/dac/structboss__lord__marrowgar.html#a019816e930781889f39c561577eaecc0":[6,0,595,1],
-"d1/dac/structboss__lord__marrowgar.html#a0f3d27442ce651574ab66c2f94d27c88":[6,0,595,2],
-"d1/dac/structboss__lord__marrowgar.html#a2692d00185ef27f50af01d125e39d549":[6,0,595,9],
-"d1/dac/structboss__lord__marrowgar.html#a3fa8b012f5e3ae94cecb537aa1952b63":[6,0,595,4],
-"d1/dac/structboss__lord__marrowgar.html#a50478639cd1f13732646fcc2349c5474":[6,0,595,12],
-"d1/dac/structboss__lord__marrowgar.html#a87f5036e8ba62e54ed7c502469cffe10":[6,0,595,13]
+"d1/dac/classspell__mark__of__the__faceless__periodic__aura.html":[6,0,3428]
 };

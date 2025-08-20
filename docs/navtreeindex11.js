@@ -1,5 +1,15 @@
 var NAVTREEINDEX11 =
 {
+"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a6617555d302923e5e95e7b1c6d8d74d6":[6,0,3676,2],
+"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a868c79cda98b97b27b74d46f86cb980a":[6,0,3676,4],
+"d0/d83/classat__twin__emperors.html":[6,0,247],
+"d0/d83/classat__twin__emperors.html#a343d482857fa0a45c42f593e591f7754":[6,0,247,0],
+"d0/d83/classat__twin__emperors.html#adf3120b7bf611e0246abb2970711ada3":[6,0,247,1],
+"d0/d83/classspell__gen__use__spell__base__level__check.html":[6,0,3026],
+"d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[6,0,3026,0],
+"d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[6,0,3026,1],
+"d0/d84/classspell__novos__despawn__crystal__handler.html":[6,0,3471],
+"d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[6,0,3471,2],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a51064b3a11f453724ae0879c80eaf8df":[6,0,3471,0],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a7110d4136337d44aa0300ec82e5a6511":[6,0,3471,3],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#aac26002ff107e609fb7258306b430f1b":[6,0,3471,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445add384246ff0cad9c8a79990cc5c67f74":[7,0,0,0,1,3,5,9,2,11,43,63],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445adf084c6d34b45bffca96ae55f8d10484":[7,0,0,0,1,3,5,9,2,11,43,47],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445ae2d1d0c06636594ff59c0773adfc204c":[7,0,0,0,1,3,5,9,2,11,43,32],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445ae779acdce428719d43f12f66f3e19eb1":[7,0,0,0,1,3,5,9,2,11,43,13],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445aec7ff51562c0c04605220ec1a53010a7":[7,0,0,0,1,3,5,9,2,11,43,24],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445aed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,5,9,2,11,43,55],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af1be129915b3f55886a16a143e957805":[7,0,0,0,1,3,5,9,2,11,43,50],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af213021e6a6165929cb5d30e34ba897e":[7,0,0,0,1,3,5,9,2,11,43,28],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af242350b06f4b4533034450f2c244d66":[7,0,0,0,1,3,5,9,2,11,43,35],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af8cd99d54ceae1b1a250c4ad585ab79d":[7,0,0,0,1,3,5,9,2,11,43,67],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445afac75551d89cf02f03b570d29ed0112a":[7,0,0,0,1,3,5,9,2,11,43,60],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445afcfd375a520bde3ced526c512bc31fd4":[7,0,0,0,1,3,5,9,2,11,43,27],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445aff76c6cd555921be6b77505f82d6e85f":[7,0,0,0,1,3,5,9,2,11,43,11],
-"d0/d89/boss__thorim_8cpp.html#adad1d73fd07f76dd61e028d479b066c3":[7,0,0,0,1,3,5,9,2,11,29]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445ae779acdce428719d43f12f66f3e19eb1":[7,0,0,0,1,3,5,9,2,11,43,13]
 };

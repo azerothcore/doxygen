@@ -5,6 +5,8 @@ var MiscPackets_8h =
     [ "WorldPackets::Misc::PlayMusic", "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html", "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic" ],
     [ "WorldPackets::Misc::PlayObjectSound", "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html", "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound" ],
     [ "WorldPackets::Misc::Playsound", "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html", "d0/d72/classWorldPackets_1_1Misc_1_1Playsound" ],
+    [ "WorldPackets::Misc::MinimapPingClient", "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html", "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient" ],
+    [ "WorldPackets::Misc::MinimapPing", "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html", "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing" ],
     [ "WorldPackets::Misc::RandomRollClient", "d3/d65/classWorldPackets_1_1Misc_1_1RandomRollClient.html", "d3/d65/classWorldPackets_1_1Misc_1_1RandomRollClient" ],
     [ "WorldPackets::Misc::RandomRoll", "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html", "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll" ],
     [ "WorldPackets::Misc::StartMirrorTimer", "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html", "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer" ],

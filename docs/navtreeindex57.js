@@ -1,5 +1,16 @@
 var NAVTREEINDEX57 =
 {
+"d2/d4b/classPlayer.html#a162791b0c680a9ce73e623d317f5519a":[6,0,2400,720],
+"d2/d4b/classPlayer.html#a162c04159ca13dd0822a7f1a68b0d978":[6,0,2400,1280],
+"d2/d4b/classPlayer.html#a166e763b3ee514c7bf1ba4303acfef6b":[6,0,2400,1064],
+"d2/d4b/classPlayer.html#a1677bb43ab6dc6675bbc278b8b8b8478":[6,0,2400,1231],
+"d2/d4b/classPlayer.html#a16af0566ddd1026a464ba101b2453a42":[6,0,2400,337],
+"d2/d4b/classPlayer.html#a16cec089afe78d6d4a68ce7c4b831725":[6,0,2400,1161],
+"d2/d4b/classPlayer.html#a1721526f115b1be92c558ba6a94bbc61":[6,0,2400,1036],
+"d2/d4b/classPlayer.html#a1843098226f063082a2f7f4296bee764":[6,0,2400,439],
+"d2/d4b/classPlayer.html#a18af89b7640aa5b97ad22de25b632bc7":[6,0,2400,159],
+"d2/d4b/classPlayer.html#a190ebc08c3d5bc837ea312c7901db505":[6,0,2400,959],
+"d2/d4b/classPlayer.html#a1980ae0f693c9ac8d8d13ccec0ac8994":[6,0,2400,753],
 "d2/d4b/classPlayer.html#a19a1f8c91c4e8c51954f356136aaf752":[6,0,2400,419],
 "d2/d4b/classPlayer.html#a19ea15940b7b8e6ed7480b3dc3702bee":[6,0,2400,639],
 "d2/d4b/classPlayer.html#a19ea4193a73c66fbe75230e1fb7bebf4":[6,0,2400,521],
@@ -238,16 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d4b/classPlayer.html#a475c375e01065a89f52a2d7c4d808339":[6,0,2400,488],
 "d2/d4b/classPlayer.html#a476849b867b48d2e7d8fbbb2178a7ed7":[6,0,2400,253],
 "d2/d4b/classPlayer.html#a47bdbc779ae78d6804b52044f888624f":[6,0,2400,903],
-"d2/d4b/classPlayer.html#a47f56dc24dbfc267d9354b491ceee347":[6,0,2400,75],
-"d2/d4b/classPlayer.html#a47ff887626a1d2a494c6083ed4a90d73":[6,0,2400,1335],
-"d2/d4b/classPlayer.html#a480493ba7b3ea13b80b3454af1dcd56b":[6,0,2400,28],
-"d2/d4b/classPlayer.html#a485a00d3df2a10bc7aa44c8b48fe7296":[6,0,2400,435],
-"d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4":[6,0,2400,475],
-"d2/d4b/classPlayer.html#a48c3d12f9d7fa9b5c2f1db3bbb99355d":[6,0,2400,933],
-"d2/d4b/classPlayer.html#a48df95c9da37d12c7ec9762af371d9b5":[6,0,2400,225],
-"d2/d4b/classPlayer.html#a4976a84f1a7e5019ccccdad3cba0e743":[6,0,2400,2],
-"d2/d4b/classPlayer.html#a49a40ea441da9ee601d4a98c9238b5bd":[6,0,2400,553],
-"d2/d4b/classPlayer.html#a49cd11bf5ee90aa3b46ea32699134ecb":[6,0,2400,887],
-"d2/d4b/classPlayer.html#a49cfbb05c71e4cf78651fb93933438f8":[6,0,2400,971],
-"d2/d4b/classPlayer.html#a4a22711b166dfb8b26efe376cb5e8e8a":[6,0,2400,1261]
+"d2/d4b/classPlayer.html#a47f56dc24dbfc267d9354b491ceee347":[6,0,2400,75]
 };

@@ -1,5 +1,16 @@
 var NAVTREEINDEX164 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da324319e2f62ad6934dde6147523895d9":[7,0,0,0,1,2,3,1,7,2,39],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3426957cb278a246f58666bc72532b4f":[7,0,0,0,1,2,3,1,7,2,41],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3789bebe4ac5d7307d977ba3921b21e3":[7,0,0,0,1,2,3,1,7,2,43],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4516cbe2e6e543c7edaafad4a168934b":[7,0,0,0,1,2,3,1,7,2,5],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da475964fdc4fa9938f5419a8e78f77362":[7,0,0,0,1,2,3,1,7,2,0],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4972fdbcc028529cda907dd1670396f2":[7,0,0,0,1,2,3,1,7,2,18],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da5b04f7b4c549c433df0c70d5d01c129b":[7,0,0,0,1,2,3,1,7,2,26],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da62a035d38f6092d2badda54f2d756799":[7,0,0,0,1,2,3,1,7,2,25],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452":[7,0,0,0,1,2,3,1,7,2,35],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da689c5f60276c8789b50634715d718f83":[7,0,0,0,1,2,3,1,7,2,12],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da6fc5e747d47f0ce1484abb1e308bf950":[7,0,0,0,1,2,3,1,7,2,10],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da738bff94bbc7c86e115443b973af6972":[7,0,0,0,1,2,3,1,7,2,28],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da74961cb9067998b73aede1dc91568735":[7,0,0,0,1,2,3,1,7,2,9],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da75b76c4f028f36930e50b0a5f7fc968c":[7,0,0,0,1,2,3,1,7,2,30],
@@ -238,16 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43a64c1fd6ec9472613e18f9da6a915ff3f":[7,0,0,0,1,3,2,11,1,3,1],
 "d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43a7212587b7ea3de6b91cd751520cadcc4":[7,0,0,0,1,3,2,11,1,3,2],
 "d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43a80afabb4e24c79c1f7170e4eab2738e9":[7,0,0,0,1,3,2,11,1,3,8],
-"d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43ac105595980d08e30052b055a49d6be01":[7,0,0,0,1,3,2,11,1,3,9],
-"d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43ac8f52680cba148748b979ce5437c575c":[7,0,0,0,1,3,2,11,1,3,0],
-"d6/d27/classspell__kiljaeden__flame__dart.html":[6,0,3348],
-"d6/d27/classspell__kiljaeden__flame__dart.html#a4fee3e37f347d1dcfa84c1dc0454c9fa":[6,0,3348,0],
-"d6/d27/classspell__kiljaeden__flame__dart.html#a8063f3d669e07dc0768607feb9a2f763":[6,0,3348,1],
-"d6/d27/classspell__kiljaeden__flame__dart.html#a83aad24c7111d1f68196fcb9765dcd97":[6,0,3348,2],
-"d6/d27/classspell__kiljaeden__flame__dart.html#af90ae09274b0082bd8bd674ca43596f6":[6,0,3348,3],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html":[6,0,2064,0],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a0e4d9b3acd1de2cd44d0a6a22007e026":[6,0,2064,0,0],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a2fc9b40d72eea88b2245e6b01b17384a":[6,0,2064,0,6],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a52f64cef6159a3bfe29a6ac551b5bbe2":[6,0,2064,0,1],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a77aad4a0446fac68a5d1785acbe825eb":[6,0,2064,0,5]
+"d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43ac105595980d08e30052b055a49d6be01":[7,0,0,0,1,3,2,11,1,3,9]
 };

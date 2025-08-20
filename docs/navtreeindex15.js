@@ -1,5 +1,15 @@
 var NAVTREEINDEX15 =
 {
+"d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,12,0],
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html":[6,0,2703],
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html#a06d50e8c0f7bfd1b055d8a3f5c14d357":[6,0,2703,0],
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html#a2b39daf6fe325cfa909b964da62c2571":[6,0,2703,2],
+"d0/d9e/classspell__catch__the__wild__wolpertinger.html#a5f8abd33848c554f9a530ad23c86a7a0":[6,0,2703,1],
+"d0/d9e/structboss__nazan.html":[6,0,633],
+"d0/d9e/structboss__nazan.html#a17942f19444ad324058d7b8c8a9aa9de":[6,0,633,7],
+"d0/d9e/structboss__nazan.html#a4390d3e181c4db46e364df3302612763":[6,0,633,0],
+"d0/d9e/structboss__nazan.html#a4d44b759530f32207a46a608fb7d6209":[6,0,633,4],
+"d0/d9e/structboss__nazan.html#a5c10e932075130399a9127869f45ce1d":[6,0,633,6],
 "d0/d9e/structboss__nazan.html#a7acea69f908e7a004c2a78c103528975":[6,0,633,1],
 "d0/d9e/structboss__nazan.html#a8915d84ec4ffb8dade18041d5e910018":[6,0,633,8],
 "d0/d9e/structboss__nazan.html#ab6338a7d240014e548b22044b788ce8f":[6,0,633,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX15 =
 "d0/dae/classItem.html#a12bd50cde1035a160c344d696ab18db3":[6,0,1369,76],
 "d0/dae/classItem.html#a12c81329bc2d7b87a87b5a3d051eaa8c":[6,0,1369,21],
 "d0/dae/classItem.html#a15c567d306251f609ec3ac287fd97082":[6,0,1369,10],
-"d0/dae/classItem.html#a1835a0d8efcb30778b0fc7c3a4531aba":[6,0,1369,99],
-"d0/dae/classItem.html#a19f4d2b1e490b97a0ae7a484d8e58ab0":[6,0,1369,101],
-"d0/dae/classItem.html#a1cff18f16e42238b2d161716ee98cefd":[6,0,1369,77],
-"d0/dae/classItem.html#a1e873e5c049fd4477499caa01572022c":[6,0,1369,104],
-"d0/dae/classItem.html#a1eba1689f9ddd48d21394c4206aff398":[6,0,1369,11],
-"d0/dae/classItem.html#a228268ddaea4ae10da6fc0ddb2748f53":[6,0,1369,81],
-"d0/dae/classItem.html#a230f8f8c6bc8d8979601f1727aa4fa75":[6,0,1369,59],
-"d0/dae/classItem.html#a26916d4f4d13adc8fc921d5d5490a519":[6,0,1369,68],
-"d0/dae/classItem.html#a297720c02984eab37332ae795d22189d":[6,0,1369,0],
-"d0/dae/classItem.html#a29d45523ff35ed1ea4b5c89b00e6ffdc":[6,0,1369,84],
-"d0/dae/classItem.html#a2e82a3e7d1ee036451fbad29afe1540e":[6,0,1369,98]
+"d0/dae/classItem.html#a1835a0d8efcb30778b0fc7c3a4531aba":[6,0,1369,99]
 };

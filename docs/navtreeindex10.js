@@ -1,5 +1,15 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[5,0,1,34,4],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,1,34,2],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[6,0,0,22,2],
+"d0/d7e/structMySQLHandle.html":[6,0,1534],
+"d0/d7e/structRealm.html":[6,0,2480],
+"d0/d7e/structRealm.html#a0131d758f10cbae0c610c2c088299feb":[6,0,2480,10],
+"d0/d7e/structRealm.html#a1984cc9564b01b6456f31f77fd65a6d6":[6,0,2480,4],
+"d0/d7e/structRealm.html#a25e953d80aa3c80e068afe6b57f67d99":[6,0,2480,1],
+"d0/d7e/structRealm.html#a2a3f3db57bb7e6f69ca4f030b65c7331":[6,0,2480,0],
+"d0/d7e/structRealm.html#a377055c4729f21beecb8601cd79017db":[6,0,2480,11],
 "d0/d7e/structRealm.html#a52a4b2704e7f76d8ea296148cefb9482":[6,0,2480,7],
 "d0/d7e/structRealm.html#a61f429ddc92895e66dff2808e17cc322":[6,0,2480,6],
 "d0/d7e/structRealm.html#a63cdbd47c50f368974b43c3db2f32cee":[6,0,2480,9],
@@ -239,15 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html":[6,0,3676],
 "d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a06fd72c7754f34dbc62a99a9ed839302":[6,0,3676,0],
 "d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a47a6281c42dc9368357cc86912331c77":[6,0,3676,3],
-"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9":[6,0,3676,1],
-"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a6617555d302923e5e95e7b1c6d8d74d6":[6,0,3676,2],
-"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a868c79cda98b97b27b74d46f86cb980a":[6,0,3676,4],
-"d0/d83/classat__twin__emperors.html":[6,0,247],
-"d0/d83/classat__twin__emperors.html#a343d482857fa0a45c42f593e591f7754":[6,0,247,0],
-"d0/d83/classat__twin__emperors.html#adf3120b7bf611e0246abb2970711ada3":[6,0,247,1],
-"d0/d83/classspell__gen__use__spell__base__level__check.html":[6,0,3026],
-"d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[6,0,3026,0],
-"d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[6,0,3026,1],
-"d0/d84/classspell__novos__despawn__crystal__handler.html":[6,0,3471],
-"d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[6,0,3471,2]
+"d0/d82/classspell__q13003__thursting__hodirs__spear__aura.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9":[6,0,3676,1]
 };

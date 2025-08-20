@@ -1,5 +1,16 @@
 var NAVTREEINDEX171 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,8,6],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823":[7,0,0,0,1,3,2,1,1,8,6,3],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca6c85b8c999d46bdef77a0385157c3":[7,0,0,0,1,3,2,1,1,8,6,11],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca39878036a8edeeb0db3192ad39432dc9":[7,0,0,0,1,3,2,1,1,8,6,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca4a140dff96e2900704dfc9d574a331fc":[7,0,0,0,1,3,2,1,1,8,6,6],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca5144586b3b2ea76c648921c7df349c35":[7,0,0,0,1,3,2,1,1,8,6,12],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca667a079b04cc692b797d1e84b8026637":[7,0,0,0,1,3,2,1,1,8,6,10],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ea77c0f71e7cfec827076d1bf979469":[7,0,0,0,1,3,2,1,1,8,6,5],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca757aa4e3604bb36e01dcc74c895edf88":[7,0,0,0,1,3,2,1,1,8,6,13],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[7,0,0,0,1,3,2,1,1,8,6,8],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298caa79419e68a1437beb36bb07361b55682":[7,0,0,0,1,3,2,1,1,8,6,7],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298caae4bf65a935906901f4432f10bc8e39d":[7,0,0,0,1,3,2,1,1,8,6,1],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298cabc1ac0c4dfcc765f4cce19935877a231":[7,0,0,0,1,3,2,1,1,8,6,0],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298cae4765d2d802cd237148c67913adabb5a":[7,0,0,0,1,3,2,1,1,8,6,4],
@@ -238,16 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d6b/classspell__mage__ignite.html":[6,0,3400],
 "d6/d6b/classspell__mage__ignite.html#a3f6a53421c7c4b9346d98aa51c4ccd6d":[6,0,3400,1],
 "d6/d6b/classspell__mage__ignite.html#a801610a9f9fae5cb711850254b291268":[6,0,3400,0],
-"d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[6,0,3400,3],
-"d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[6,0,3400,4],
-"d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[6,0,3400,2],
-"d6/d6b/structnpc__sunblade__scout.html":[6,0,2146],
-"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[6,0,2146,6],
-"d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[6,0,2146,2],
-"d6/d6b/structnpc__sunblade__scout.html#ab57b63a624458a9fa598062e61c5fa0e":[6,0,2146,1],
-"d6/d6b/structnpc__sunblade__scout.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc":[6,0,2146,0],
-"d6/d6b/structnpc__sunblade__scout.html#aca75482085b72070487c24feefa23fd6":[6,0,2146,5],
-"d6/d6b/structnpc__sunblade__scout.html#ae06c1d7b43cc170f3a3b5f4835822d57":[6,0,2146,4],
-"d6/d6b/structnpc__sunblade__scout.html#ae4ca796fa8fd4aae6ac8f184638b3f97":[6,0,2146,3],
-"d6/d6d/classnpc__isle__of__conquest__turret.html":[6,0,1898]
+"d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[6,0,3400,3]
 };

@@ -282,7 +282,7 @@ var classWorldSession =
     [ "HandleMailTakeItem", "d8/d74/classWorldSession.html#a6b383298b69390ab959716d774e69b4a", null ],
     [ "HandleMailTakeMoney", "d8/d74/classWorldSession.html#a6bff0742fb3218c7036bbc47eb8112ab", null ],
     [ "HandleMessagechatOpcode", "d8/d74/classWorldSession.html#aec0a4202c991dc0e6c5ccb8ef4224334", null ],
-    [ "HandleMinimapPingOpcode", "d8/d74/classWorldSession.html#a20c5adcc731473316bc8b0b3c4a83e42", null ],
+    [ "HandleMinimapPingOpcode", "d8/d74/classWorldSession.html#ab6b59405adb031c0fef078340a26c2b4", null ],
     [ "HandleMirrorImageDataRequest", "d8/d74/classWorldSession.html#a76521a2b7bfa5d200113a3701f2e8e90", null ],
     [ "HandleMountSpecialAnimOpcode", "d8/d74/classWorldSession.html#a0655f2d65166fcbc83e3220f98a987d4", null ],
     [ "HandleMoveHoverAck", "d8/d74/classWorldSession.html#a2ac4ca79964ccb024f88e5af5ad9e399", null ],

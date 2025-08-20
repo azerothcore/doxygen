@@ -1,5 +1,16 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1319,0],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1319,0,10],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1319,0,7],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a07e1ce507a75d11793c1c0ef1e2a344d":[6,0,1319,0,5],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a16969854e152ecec8f354568c9ee23ca":[6,0,1319,0,15],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a2b6d06d7c29c8af29686647f4b30a5cd":[6,0,1319,0,16],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a2fb5fb90ae87567216dce95d49c5deaa":[6,0,1319,0,25],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a30434c7a7674974e4c98e21e301e779a":[6,0,1319,0,13],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a35edd0dbe33dc8cb77bad88c19e01110":[6,0,1319,0,26],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a3d93f3f437c7f4d9db67aa079db31eac":[6,0,1319,0,30],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a3dd464a7fc67f94ad0ff58037993ce6b":[6,0,1319,0,1],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a436a085f60295a2b5c8547820dc4e42a":[6,0,1319,0,21],
@@ -238,16 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[6,0,3643,2],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[6,0,3643,1],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[6,0,3643,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[6,0,1280,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a048a2b16ae9917c7edc9bf7023986ac3":[6,0,1280,0,1],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a840ce69595c384be321c1167513d151e":[6,0,1280,0,4],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a8986038a2f25b16b9ab8ba4d41b5221a":[6,0,1280,0,3],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#aa9a72f2f757d0b3065a6e4e25b14e86d":[6,0,1280,0,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#ad00fdc90a61e1c927323daa2149f8466":[6,0,1280,0,2],
-"d2/d28/structnpc__singularity.html":[6,0,2119],
-"d2/d28/structnpc__singularity.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d":[6,0,2119,0],
-"d2/d28/structnpc__singularity.html#a76c21129756dec05f6f2d88cebe948c5":[6,0,2119,1],
-"d2/d28/structnpc__singularity.html#ad019d234ca9ee719612d59e5bb0b53ea":[6,0,2119,3],
-"d2/d28/structnpc__singularity.html#ae81c2e5865beb00df8683fa0fb6e7872":[6,0,2119,2],
-"d2/d29/classspell__hallows__end__candy__pirate__costume.html":[6,0,3072]
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[6,0,1280,0]
 };

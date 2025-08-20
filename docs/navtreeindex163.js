@@ -1,5 +1,16 @@
 var NAVTREEINDEX163 =
 {
+"d6/d18/classModel.html#a6ed3a71ff468f5acaccc61f5c2c87a0e":[6,0,1510,4],
+"d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f":[6,0,1510,2],
+"d6/d18/classModel.html#ad6ebd2062a0b823db841a0b88baac4c0":[6,0,1510,1],
+"d6/d18/classModel.html#ae102b5fc584185113e89fb7b39a72bd1":[6,0,1510,0],
+"d6/d18/classModel.html#ae6fd5d754d9a880359b8afaf50c5753e":[6,0,1510,3],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html":[6,0,3870],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#a43b23e5c53cca872a26737d790f2893d":[6,0,3870,1],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#a45696018a8810cf1f11fbddcd853d1f4":[6,0,3870,4],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#aabd997d6db5fd38b1fdd97d90b1347e9":[6,0,3870,0],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ad6247c7f8abf41cd6190d5252ed6834e":[6,0,3870,3],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ae51bcb37894240c6fd064cd329698a55":[6,0,3870,2],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html":[7,0,0,0,1,3,5,6,11],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a0da6c5729296c905c0ee0dad01e671a0":[7,0,0,0,1,3,5,6,11,35],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,6,11,37],
@@ -238,16 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da18b54e6197749c5468eb0fe7fefb474f":[7,0,0,0,1,2,3,1,7,2,21],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da204da8f945fc6490fd6c2a809db31d7f":[7,0,0,0,1,2,3,1,7,2,13],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da2a9e52407de64c5ac23bf3ff6faefd5d":[7,0,0,0,1,2,3,1,7,2,44],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da30589eb787232d92c8e4c5a2d3fca4bc":[7,0,0,0,1,2,3,1,7,2,24],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da324319e2f62ad6934dde6147523895d9":[7,0,0,0,1,2,3,1,7,2,39],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3426957cb278a246f58666bc72532b4f":[7,0,0,0,1,2,3,1,7,2,41],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3789bebe4ac5d7307d977ba3921b21e3":[7,0,0,0,1,2,3,1,7,2,43],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4516cbe2e6e543c7edaafad4a168934b":[7,0,0,0,1,2,3,1,7,2,5],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da475964fdc4fa9938f5419a8e78f77362":[7,0,0,0,1,2,3,1,7,2,0],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4972fdbcc028529cda907dd1670396f2":[7,0,0,0,1,2,3,1,7,2,18],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da5b04f7b4c549c433df0c70d5d01c129b":[7,0,0,0,1,2,3,1,7,2,26],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da62a035d38f6092d2badda54f2d756799":[7,0,0,0,1,2,3,1,7,2,25],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452":[7,0,0,0,1,2,3,1,7,2,35],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da689c5f60276c8789b50634715d718f83":[7,0,0,0,1,2,3,1,7,2,12],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da6fc5e747d47f0ce1484abb1e308bf950":[7,0,0,0,1,2,3,1,7,2,10]
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da30589eb787232d92c8e4c5a2d3fca4bc":[7,0,0,0,1,2,3,1,7,2,24]
 };

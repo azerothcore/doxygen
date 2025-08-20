@@ -1,5 +1,16 @@
 var NAVTREEINDEX74 =
 {
+"d2/de1/classlearn__commandscript.html":[6,0,1404],
+"d2/de1/classlearn__commandscript.html#a2a7cc02eb4417907b50d49bab39110cf":[6,0,1404,7],
+"d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[6,0,1404,13],
+"d2/de1/classlearn__commandscript.html#a44b538a1031ad69bec762f1a791cf11f":[6,0,1404,10],
+"d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[6,0,1404,0],
+"d2/de1/classlearn__commandscript.html#a88e28ec43968c5a8b0bfd1f190d89a98":[6,0,1404,4],
+"d2/de1/classlearn__commandscript.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8":[6,0,1404,1],
+"d2/de1/classlearn__commandscript.html#a956716b7743dfc6de922b0badf40aeda":[6,0,1404,6],
+"d2/de1/classlearn__commandscript.html#a985d2a10f01808c4bff2922b1530e911":[6,0,1404,3],
+"d2/de1/classlearn__commandscript.html#aaa19e92798ac56355a95e625ead56556":[6,0,1404,9],
+"d2/de1/classlearn__commandscript.html#aaf4d779b47511db72727fe44fb1bbd2d":[6,0,1404,5],
 "d2/de1/classlearn__commandscript.html#ab59da6873596596ee84509cb0060e760":[6,0,1404,11],
 "d2/de1/classlearn__commandscript.html#ae25064fa03d022277a368f52a17e5b70":[6,0,1404,2],
 "d2/de1/classlearn__commandscript.html#ae8bd0389415fdeb70d369b694b953619":[6,0,1404,12],
@@ -238,16 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#a9aff74ad92b9a933cdcffe41ffd2d659":[6,0,4073,125],
 "d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[6,0,4073,111],
 "d2/de9/classSpellInfo.html#aa006aa12bf45b271115fe1c6b03177e1":[6,0,4073,183],
-"d2/de9/classSpellInfo.html#aa2eabd23552c5904652236e468bcdecf":[6,0,4073,86],
-"d2/de9/classSpellInfo.html#aa514878adc99503658ff251f089d64bf":[6,0,4073,138],
-"d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0":[6,0,4073,145],
-"d2/de9/classSpellInfo.html#aa85c0bb7b69c425976650fe10444adaa":[6,0,4073,160],
-"d2/de9/classSpellInfo.html#aa8de3a55617f9dbe8313e4d66907a0b7":[6,0,4073,28],
-"d2/de9/classSpellInfo.html#aa957eeb510350df83e1e7f18994a53d0":[6,0,4073,66],
-"d2/de9/classSpellInfo.html#aa9d0a19769974a025cc53eddb8bd0e38":[6,0,4073,29],
-"d2/de9/classSpellInfo.html#aad468ff1d83ba29cad67dc5d395337db":[6,0,4073,156],
-"d2/de9/classSpellInfo.html#aae8dfafe06e0dd85eb98212daec448f7":[6,0,4073,130],
-"d2/de9/classSpellInfo.html#aaf16ec01451e2ec88efbad50a1988cff":[6,0,4073,131],
-"d2/de9/classSpellInfo.html#aaff0b37a606a1b7d4d46a6b46d42ba15":[6,0,4073,69],
-"d2/de9/classSpellInfo.html#ab09e0659206f39f2b835279e7634ac03":[6,0,4073,148]
+"d2/de9/classSpellInfo.html#aa2eabd23552c5904652236e468bcdecf":[6,0,4073,86]
 };

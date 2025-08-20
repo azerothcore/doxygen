@@ -1,5 +1,16 @@
 var NAVTREEINDEX136 =
 {
+"d4/dd0/classWorldObject.html#a4b5f2e30dd633bf5bd19ad591f22b8f2":[6,0,4287,133],
+"d4/dd0/classWorldObject.html#a4f4a4f64229ca85c4ed891ee566fcd7c":[6,0,4287,118],
+"d4/dd0/classWorldObject.html#a504d88056098c6678598e3b573fe2ada":[6,0,4287,158],
+"d4/dd0/classWorldObject.html#a51c83c9ae836c67301167f7238d9baaf":[6,0,4287,86],
+"d4/dd0/classWorldObject.html#a51ee0969c43fed32eacf1a56e24393eb":[6,0,4287,128],
+"d4/dd0/classWorldObject.html#a521c55899c1f4333c9060ce9c4a3a715":[6,0,4287,183],
+"d4/dd0/classWorldObject.html#a52f51272b6fb3e5790a65d47406cd75f":[6,0,4287,43],
+"d4/dd0/classWorldObject.html#a52f8afc6a819a212f467f27b05d76601":[6,0,4287,51],
+"d4/dd0/classWorldObject.html#a535383de383eb9b9b20d988bdcbb3291":[6,0,4287,189],
+"d4/dd0/classWorldObject.html#a54fff8f30c1ec3714436569eae9e591a":[6,0,4287,35],
+"d4/dd0/classWorldObject.html#a55f5e551041235284a8509f6373663c5":[6,0,4287,59],
 "d4/dd0/classWorldObject.html#a577756281e727788e2095a147a524753":[6,0,4287,153],
 "d4/dd0/classWorldObject.html#a591fc0c62bfc8ea0042a0b19806833ee":[6,0,4287,96],
 "d4/dd0/classWorldObject.html#a59a21419b6f700ba5860857375694767":[6,0,4287,134],
@@ -238,16 +249,5 @@ var NAVTREEINDEX136 =
 "d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e":[6,0,4011,3],
 "d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b":[6,0,4011,2],
 "d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6":[6,0,4011,0],
-"d4/dd6/classspell__warr__vigilance.html#ac3c12801bde3bd259b573eeca6dc4d5b":[6,0,4011,1],
-"d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[6,0,4011,9],
-"d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[6,0,4011,6],
-"d4/dd8/GridObjectLoader_8h.html":[7,0,0,0,1,2,19,5],
-"d4/dd8/classinstance__mana__tombs.html":[6,0,1309],
-"d4/dd8/classinstance__mana__tombs.html#a26e4dad0957df886bc446396ab48ceda":[6,0,1309,2],
-"d4/dd8/classinstance__mana__tombs.html#a78ca8b378e4ab290f1eea2b2b5799630":[6,0,1309,1],
-"d4/dd8/structAchievementCriteriaData.html":[6,0,110],
-"d4/dd8/structAchievementCriteriaData.html#a0461ba6bbb71d66abeee6dfaa6b81782":[6,0,110,38],
-"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,110,2],
-"d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[6,0,110,39],
-"d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[6,0,110,16]
+"d4/dd6/classspell__warr__vigilance.html#ac3c12801bde3bd259b573eeca6dc4d5b":[6,0,4011,1]
 };

@@ -1,5 +1,16 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/DBCStores_8h.html#ae1befbcddb5f7115c1d06a15e379aafa":[7,0,0,0,1,2,14,1,85],
+"d2/df6/DBCStores_8h.html#ae1da802bd48a4bf2cce40a8b9e4c1cb9":[7,0,0,0,1,2,14,1,83],
+"d2/df6/DBCStores_8h.html#ae33f72acc556851465786fd8cfd961d6":[7,0,0,0,1,2,14,1,92],
+"d2/df6/DBCStores_8h.html#aec9dabc566bcb274ecd98daf1e07d13a":[7,0,0,0,1,2,14,1,29],
+"d2/df6/DBCStores_8h.html#aed8e397af9e1fd664bfdba10bea966c6":[7,0,0,0,1,2,14,1,76],
+"d2/df6/DBCStores_8h.html#aedd41232de632a297dc5d445263ed005":[7,0,0,0,1,2,14,1,26],
+"d2/df6/DBCStores_8h.html#af00952046ad30fb52804f21bcf62d8c9":[7,0,0,0,1,2,14,1,12],
+"d2/df6/DBCStores_8h.html#af01c29c525d4cac9994861f2233d3f78":[7,0,0,0,1,2,14,1,88],
+"d2/df6/DBCStores_8h.html#af0a6d713c423c9007d822c1a913228b4":[7,0,0,0,1,2,14,1,59],
+"d2/df6/DBCStores_8h.html#af595b9c42699d6d324b070d0f03f7c56":[7,0,0,0,1,2,14,1,82],
+"d2/df6/DBCStores_8h.html#af713c93466124de2378b9125a508160b":[7,0,0,0,1,2,14,1,60],
 "d2/df6/DBCStores_8h.html#af7b6eff71f64ecef778f854613d72288":[7,0,0,0,1,2,14,1,25],
 "d2/df6/DBCStores_8h.html#af9b9c30e9fba500ba3703c94847f2a4d":[7,0,0,0,1,2,14,1,72],
 "d2/df6/DBCStores_8h.html#afbbd418ece4304360cfb4707f79f5685":[7,0,0,0,1,2,14,1,80],
@@ -238,16 +249,5 @@ var NAVTREEINDEX88 =
 "d3/d06/classDBCStorageBase.html#abea56cf48880a3ae02d322b6283032b4":[6,0,955,6],
 "d3/d06/classDBCStorageBase.html#ad688053187f77a4a016274f7e46a76a3":[6,0,955,0],
 "d3/d06/classPuppet.html":[6,0,2447],
-"d3/d06/classPuppet.html#a38760bce8e8ebf28ae0143ad2931afd5":[6,0,2447,1],
-"d3/d06/classPuppet.html#a5281497d7689e1dd10f89b5a9f83006f":[6,0,2447,5],
-"d3/d06/classPuppet.html#a61dcfc821c2221d1747fcb2180e03bfd":[6,0,2447,4],
-"d3/d06/classPuppet.html#ab0082936291e6b7f5370656c7c9ed948":[6,0,2447,0],
-"d3/d06/classPuppet.html#abfc97f1d25cb1ac27b1bed6f61867fa3":[6,0,2447,3],
-"d3/d06/classPuppet.html#ac5dd23d7cf6d4b4a2ba073ae1128181b":[6,0,2447,2],
-"d3/d06/classPuppet.html#adae18eabdba52ef8a9f7c5c8768e060c":[6,0,2447,6],
-"d3/d06/classspell__lurker__below__spout__cone.html":[6,0,3382],
-"d3/d06/classspell__lurker__below__spout__cone.html#a0bf365a43b99905fb7ae8152fe5b2687":[6,0,3382,1],
-"d3/d06/classspell__lurker__below__spout__cone.html#ac12cde698f5b0bbcdf433821772c7519":[6,0,3382,2],
-"d3/d06/classspell__lurker__below__spout__cone.html#af545460920658bc8ee0444f7c0d51970":[6,0,3382,0],
-"d3/d06/classspell__mimiron__rapid__burst__aura.html":[6,0,3445]
+"d3/d06/classPuppet.html#a38760bce8e8ebf28ae0143ad2931afd5":[6,0,2447,1]
 };
