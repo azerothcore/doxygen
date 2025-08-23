@@ -178,7 +178,7 @@ var namespaces_dup =
       [ "ParseSettingsData", "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
       [ "PrepareReplaceStatement", "da/dd0/namespacePlayerSettingsStore.html#a50a2948284069e6a28f5f61561e6695c", null ],
       [ "SerializeSettingsData", "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-      [ "UpdateSetting", "da/dd0/namespacePlayerSettingsStore.html#a24e764dd129ebe06e970a2712cb82047", null ]
+      [ "UpdateSetting", "da/dd0/namespacePlayerSettingsStore.html#aaf1d54a7292b560b6d26c7a0332482e0", null ]
     ] ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", "dd/d34/namespaceVMAP" ],

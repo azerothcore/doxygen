@@ -1775,7 +1775,7 @@ var searchData=
   ['getplayerscountexceptgms_1772',['GetPlayersCountExceptGMs',['../d7/db0/classMap.html#abdac644dc3c8b30989d16efe624c8894',1,'Map']]],
   ['getplayerscountingroupsqueue_1773',['GetPlayersCountInGroupsQueue',['../d8/d72/classBattlegroundQueue.html#a67b0786459174fcf370c4ab148a5492f',1,'BattlegroundQueue']]],
   ['getplayersecuritylimit_1774',['getplayersecuritylimit',['../d6/d39/classWorld.html#ab093072ec6f5bcd680119157cabcd3f6',1,'World::GetPlayerSecurityLimit()'],['../d5/d4d/classIWorld.html#adefab958ec85d9023994a22adef88c9e',1,'IWorld::GetPlayerSecurityLimit()']]],
-  ['getplayersetting_1775',['GetPlayerSetting',['../d2/d4b/classPlayer.html#a78ab736d1c1ce4ce69de178d24abf4ff',1,'Player']]],
+  ['getplayersetting_1775',['GetPlayerSetting',['../d2/d4b/classPlayer.html#a71fc4cb0e5aad5355bf731a7804fb5a8',1,'Player']]],
   ['getplayerssize_1776',['GetPlayersSize',['../df/da7/classBattleground.html#ae170d22710cdd2cb78864032d62a3da0',1,'Battleground']]],
   ['getplayersslain_1777',['GetPlayersSlain',['../d1/d4f/classQuest.html#a910f66ebd4b91d594dab6e6227ad2917',1,'Quest']]],
   ['getplrinsanityauraid_1778',['GetPlrInsanityAuraId',['../d0/d2f/structboss__volazj.html#a5b6936cedb3fc411ae58f3dc3f6b689a',1,'boss_volazj']]],
