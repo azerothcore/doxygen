@@ -2936,6 +2936,9 @@ var hierarchy =
         [ "WorldPackets::Pet::PetSpellAutocast", "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html", null ],
         [ "WorldPackets::Pet::PetStopAttack", "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html", null ],
         [ "WorldPackets::Pet::RequestPetInfo", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html", null ],
+        [ "WorldPackets::Query::CorpseMapPositionQuery", "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html", null ],
+        [ "WorldPackets::Query::NameQuery", "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html", null ],
+        [ "WorldPackets::Query::TimeQuery", "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html", null ],
         [ "WorldPackets::Totem::TotemDestroyed", "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html", null ]
       ] ],
       [ "WorldPackets::ServerPacket", "d5/d7b/classWorldPackets_1_1ServerPacket.html", [
@@ -2976,6 +2979,8 @@ var hierarchy =
         [ "WorldPackets::Misc::Weather", "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html", null ],
         [ "WorldPackets::Pet::PetLearnedSpell", "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html", null ],
         [ "WorldPackets::Pet::PetUnlearnedSpell", "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html", null ],
+        [ "WorldPackets::Query::NameQueryResponse", "d0/d66/classWorldPackets_1_1Query_1_1NameQueryResponse.html", null ],
+        [ "WorldPackets::Query::TimeQueryResponse", "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html", null ],
         [ "WorldPackets::Totem::TotemCreated", "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html", null ],
         [ "WorldPackets::WorldState::InitWorldStates", "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html", null ],
         [ "WorldPackets::WorldState::UpdateWorldState", "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html", null ]

@@ -21,6 +21,8 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
     [ "PacketUtilities.h", "d1/dbe/PacketUtilities_8h.html", "d1/dbe/PacketUtilities_8h" ],
     [ "PetPackets.cpp", "d1/d28/PetPackets_8cpp.html", null ],
     [ "PetPackets.h", "dd/d46/PetPackets_8h.html", "dd/d46/PetPackets_8h" ],
+    [ "QueryPackets.cpp", "d6/dcf/QueryPackets_8cpp.html", null ],
+    [ "QueryPackets.h", "df/d5c/QueryPackets_8h.html", "df/d5c/QueryPackets_8h" ],
     [ "TotemPackets.cpp", "d9/df4/TotemPackets_8cpp.html", null ],
     [ "TotemPackets.h", "d2/d61/TotemPackets_8h.html", "d2/d61/TotemPackets_8h" ],
     [ "WorldStatePackets.cpp", "d0/db5/WorldStatePackets_8cpp.html", null ],

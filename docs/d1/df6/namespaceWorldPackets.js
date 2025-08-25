@@ -9,6 +9,7 @@ var namespaceWorldPackets =
     [ "LFG", "da/d9d/namespaceWorldPackets_1_1LFG.html", "da/d9d/namespaceWorldPackets_1_1LFG" ],
     [ "Misc", "d5/d57/namespaceWorldPackets_1_1Misc.html", "d5/d57/namespaceWorldPackets_1_1Misc" ],
     [ "Pet", "df/dd1/namespaceWorldPackets_1_1Pet.html", "df/dd1/namespaceWorldPackets_1_1Pet" ],
+    [ "Query", "db/d57/namespaceWorldPackets_1_1Query.html", "db/d57/namespaceWorldPackets_1_1Query" ],
     [ "Strings", "d3/d0d/namespaceWorldPackets_1_1Strings.html", "d3/d0d/namespaceWorldPackets_1_1Strings" ],
     [ "Totem", "d7/d5c/namespaceWorldPackets_1_1Totem.html", "d7/d5c/namespaceWorldPackets_1_1Totem" ],
     [ "WorldState", "d0/d4c/namespaceWorldPackets_1_1WorldState.html", "d0/d4c/namespaceWorldPackets_1_1WorldState" ],

@@ -452,6 +452,13 @@ var annotated_dup =
         [ "PetUnlearnedSpell", "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html", "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell" ],
         [ "RequestPetInfo", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo" ]
       ] ],
+      [ "Query", "db/d57/namespaceWorldPackets_1_1Query.html", [
+        [ "CorpseMapPositionQuery", "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html", "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery" ],
+        [ "NameQuery", "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html", "db/d89/classWorldPackets_1_1Query_1_1NameQuery" ],
+        [ "NameQueryResponse", "d0/d66/classWorldPackets_1_1Query_1_1NameQueryResponse.html", "d0/d66/classWorldPackets_1_1Query_1_1NameQueryResponse" ],
+        [ "TimeQuery", "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html", "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery" ],
+        [ "TimeQueryResponse", "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html", "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse" ]
+      ] ],
       [ "Strings", "d3/d0d/namespaceWorldPackets_1_1Strings.html", [
         [ "ByteSize", "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html", "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize" ],
         [ "Hyperlinks", "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html", "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks" ],
