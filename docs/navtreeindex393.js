@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/da7/classBattleground.html#adb606f987828217052b250766029a7f4":[6,0,311,66],
 "df/da7/classBattleground.html#adb95c85991fb4673d76e2a84b1af6f25":[6,0,311,182],
 "df/da7/classBattleground.html#adbc75d45c779e354cc17b500969deb13":[6,0,311,183],
 "df/da7/classBattleground.html#adc966f868d10d74229b0b522f0ccdc32":[6,0,311,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/db8/structboss__alar.html#aad92b4171c7e76781a72bac1ca7b257b":[6,0,366,25],
 "df/db8/structboss__alar.html#ab3e2e227822dd11e2530cd900c065b18":[6,0,366,26],
 "df/db8/structboss__alar.html#ab4b872bc9d4625fdaf7633a9c1f2bfa6":[6,0,366,9],
-"df/db8/structboss__alar.html#ab98174e8a60a6a5cf530da7337580236":[6,0,366,17],
-"df/db8/structboss__alar.html#ab9ab68c028fa59bfe044edd4ec171dc8":[6,0,366,5]
+"df/db8/structboss__alar.html#ab98174e8a60a6a5cf530da7337580236":[6,0,366,17]
 };

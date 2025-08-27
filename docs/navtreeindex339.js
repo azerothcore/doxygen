@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/de7/classnpc__frosthound.html#a3266f5186d1db0c010f586d3272725a6":[6,0,1792,1],
 "dd/de7/classnpc__frosthound.html#a49cd41753c715f166fc903df9dcfdd6b":[6,0,1792,2],
 "dd/de7/classspell__q10929__fumping.html":[6,0,3606],
 "dd/de7/classspell__q10929__fumping.html#a07f75e1ad374118ab0195dd1a17376ed":[6,0,3606,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a02d34d4cd26706e1108c99cc0b4afbba":[6,0,649,0,13],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a098d738ccbc2764867643bf4336c04da":[6,0,649,0,14],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a1484b82afc3072d1b1fc5e2c9b0204b0":[6,0,649,0,2],
-"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a18325a2a5cca9910bf7e35a21c16400b":[6,0,649,0,10],
-"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a5b8c197cd3c482d5a4d5a14f9c5019e7":[6,0,649,0,9]
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a18325a2a5cca9910bf7e35a21c16400b":[6,0,649,0,10]
 };

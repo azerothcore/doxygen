@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d3b/classMotionMaster.html#adb1f82ee5ec702375fc4292e46865edf":[6,0,1518,39],
 "de/d3b/classMotionMaster.html#ae37d25ba49a3887faa07bc194f3447fd":[6,0,1518,32],
 "de/d3b/classMotionMaster.html#ae586859e733b3db58835a05f4a2a7818":[6,0,1518,29],
 "de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f":[6,0,1518,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d3f/classspell__igb__overheat__aura.html#a8737bad17bf7aa3e52cb2e0b7fbc9178":[6,0,3155,1],
 "de/d3f/classspell__igb__overheat__aura.html#aabf5fdf4578935db11e041e638fba187":[6,0,3155,3],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html":[6,0,1347,0],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a089c9ac48cb3c495930a3708b4c72055":[6,0,1347,0,14],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a136381727f59e41e2a44b1a2df96f531":[6,0,1347,0,1]
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a089c9ac48cb3c495930a3708b4c72055":[6,0,1347,0,14]
 };

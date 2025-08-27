@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,12,6,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
 "dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
 "dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2957],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2957,0]
+"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2957]
 };

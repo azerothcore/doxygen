@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a136381727f59e41e2a44b1a2df96f531":[6,0,1347,0,1],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a13d0e3aeaa877a24e0007ad3de4082a0":[6,0,1347,0,13],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a1c84731d3f370ba4dc81a4489a33b14b":[6,0,1347,0,16],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a2152552f089d16dbfe43de24d62c692e":[6,0,1347,0,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d53/structboss__blackheart__the__inciter.html#a772b2b4574fa6ccd445924193985859b":[6,0,397,0],
 "de/d53/structboss__blackheart__the__inciter.html#aaf2c9d37b0af1db1d35af01923eca45b":[6,0,397,1],
 "de/d53/structboss__blackheart__the__inciter.html#abeb0cc4ff2543531f7a7c7993559f1cb":[6,0,397,3],
-"de/d53/structboss__blackheart__the__inciter.html#ad7de71ea14e5be6e2b126edde1c78ab6":[6,0,397,4],
-"de/d53/structboss__blackheart__the__inciter.html#add75633d1c04d0be91e7e80f28213917":[6,0,397,5]
+"de/d53/structboss__blackheart__the__inciter.html#ad7de71ea14e5be6e2b126edde1c78ab6":[6,0,397,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[7,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,68],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1793,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html":[6,0,1871,0],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[6,0,1871,0,5],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1871,0,2],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a82403eecdea07bfc8ed9509eb5a30dcd":[6,0,1871,0,1]
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1871,0,2]
 };

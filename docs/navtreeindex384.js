@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a89a70ef6e1daae615b46cb457e648400":[5,0,18,2,21],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[6,0,5,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[5,0,18,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[6,0,5,2,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a3240b42a9122e61b57ea91486cb3c97b":[6,0,3852,1],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3852,2],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3852,0],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3566],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3566,1]
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3566]
 };

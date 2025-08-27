@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d3a/classStandUpEvent.html#a2f68b19898c65b9229159d9133b3d7cf":[6,0,4109,0],
 "dc/d3a/classStandUpEvent.html#a456a494140657d81b203834f7b88d5d1":[6,0,4109,2],
 "dc/d3a/classStandUpEvent.html#a56bc1071300ff8f81e62839685e8f53a":[6,0,4109,1],
 "dc/d3a/classboss__yoggsaron__corruptor__tentacle.html":[6,0,790],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba19e5d34f879bc869b8df158e593133ea":[7,0,0,0,1,2,26,2,1,71],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba2065a55b80538f8ca95f059acf9cd2f7":[7,0,0,0,1,2,26,2,1,76],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba22a9761c6f7e43be0c97216f6343fbb0":[7,0,0,0,1,2,26,2,1,68],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba2871089f87be6ea7e19cf9f18e244fec":[7,0,0,0,1,2,26,2,1,30],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba29255295b1e4da59b9f53429e72369b0":[7,0,0,0,1,2,26,2,1,5]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba2871089f87be6ea7e19cf9f18e244fec":[7,0,0,0,1,2,26,2,1,30]
 };

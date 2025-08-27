@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[7,0,0,0,1,3,5,8,2,0,8,4],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa62890e77a96ea677db2e97d05cf9b3f":[7,0,0,0,1,3,5,8,2,0,8,3],
 "df/df7/boss__drakos_8cpp.html#a49700fd50259585cfac2c788de5e00a8":[7,0,0,0,1,3,5,8,2,0,4],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "dir_cfd62069f43c6d31c3f6e771507ef478.html":[7,0,0,0,1],
 "dir_d060a361923b82432b6b770fd21c8bea.html":[7,0,0,0,1,2,43],
 "dir_d1549822ab15c727c75ddc2dceea56dd.html":[7,0,0,0,1,3,5,10],
-"dir_d1bcd4454d504780cc6b5b93a278321d.html":[7,0,0,0,1,2,34],
-"dir_d24bca12e9309aa7fe30851098c5d03d.html":[7,0,0,0,1,3,2,7]
+"dir_d1bcd4454d504780cc6b5b93a278321d.html":[7,0,0,0,1,2,34]
 };

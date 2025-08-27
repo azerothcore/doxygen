@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298caf8bb36a7029171b42364e7f516cae5d1":[7,0,0,0,1,3,5,0,0,3,5,17],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,0,0,3,6],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1c3163bbf699b595b2620abd756222b7":[7,0,0,0,1,3,5,0,0,3,6,7],
 "da/d66/boss__herald__volazj_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d59b535bad43ece80946c5ec4208b44":[7,0,0,0,1,3,5,0,0,3,6,11],
@@ -142,22 +143,22 @@ var NAVTREEINDEX256 =
 "da/d71/classFleeingMovementGenerator.html#adeb978816b67ec9542ccd131da1403be":[6,0,1047,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[5,0,1,7,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[6,0,0,4,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[6,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[5,0,1,7,4,7],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,1,7,4,6],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[6,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[6,0,0,4,4,6],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,1,7,4,8],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,1,7,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[6,0,0,4,4,8],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,1,7,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,1,7,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[6,0,0,4,4,3],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,1,7,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[6,0,0,4,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,1,7,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,1,7,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[6,0,0,4,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,1,7,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,1,7,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[6,0,0,4,4,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,1,7,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[6,0,0,4,4,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,1,7,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,1,7,4,1],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[6,0,0,4,4,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[6,0,1859,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a1f4a7517190f8aabb37ea209e3aa8292":[7,0,0,0,1,3,2,4,14,7,44],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a207e0bad54dab84c8acabeb3bf8ec581":[7,0,0,0,1,3,2,4,14,7,34],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a22e7cbbbdc7616cc11958aa8e1ebd8c1":[7,0,0,0,1,3,2,4,14,7,39],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a298f8727be047ca301a9806c542d3d98":[7,0,0,0,1,3,2,4,14,7,32],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a2c0bd5a88b5fc6411c9c9276acf583bb":[7,0,0,0,1,3,2,4,14,7,41]
+"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a298f8727be047ca301a9806c542d3d98":[7,0,0,0,1,3,2,4,14,7,32]
 };

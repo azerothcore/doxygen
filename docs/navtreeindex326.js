@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d50/structnpc__dark__nucleus_1_1npc__dark__nucleusAI.html#adfb2ad6f6b36fa122511a6ed10e22b99":[6,0,1727,0,2],
 "dd/d51/structGroupQueueInfo.html":[6,0,1227],
 "dd/d51/structGroupQueueInfo.html#a0261df1066e01602f475e9a08e142883":[6,0,1227,7],
 "dd/d51/structGroupQueueInfo.html#a167a97bcd0ee298dfc49cabc4193fd3e":[6,0,1227,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#ab6c86c3680823329d5f3aad985aa316a":[6,0,3878,2],
 "dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#ade3c2e5f78cbfbc34a3cbc8259e241db":[6,0,3878,7],
 "dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#ae23dc772e58db8648a7ddbf5255bd917":[6,0,3878,0],
-"dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#af0e6f1fc6687de1abcc1689116150088":[6,0,3878,5],
-"dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#aff3b52df65504d7d4928b1ff69c1fa4b":[6,0,3878,4]
+"dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#af0e6f1fc6687de1abcc1689116150088":[6,0,3878,5]
 };

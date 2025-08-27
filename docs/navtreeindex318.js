@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2957,0],
 "dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2957,1],
 "dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
 "dc/def/structboss__mechano__lord__capacitus.html":[6,0,614],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7":[6,0,1779,6],
 "dd/d01/SmartScriptMgr_8cpp.html":[7,0,0,0,1,2,3,2,4],
 "dd/d01/classDelayedCastEvent.html":[6,0,964],
-"dd/d01/classDelayedCastEvent.html#a85471a151a3165cc906f3a41103c3f5d":[6,0,964,5],
-"dd/d01/classDelayedCastEvent.html#abe28a6749101233302634ed226a289e8":[6,0,964,4]
+"dd/d01/classDelayedCastEvent.html#a85471a151a3165cc906f3a41103c3f5d":[6,0,964,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf":[7,0,0,0,1,3,2,12,7,8],
 "dd/d2c/sunwell__plateau_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,12,7,0],
 "dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7":[7,0,0,0,1,3,2,12,7,2],
 "dd/d2c/sunwell__plateau_8h.html#a299463d4f94e7e799027f3d0d0bdc3b9":[7,0,0,0,1,3,2,12,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d36/BoundingIntervalHierarchy_8h.html#ad04403146f53e198de60b6c4bec4246e":[7,0,0,0,0,1,4,6],
 "dd/d36/classnpc__green__dragon__combat__trigger.html":[6,0,1813],
 "dd/d36/classnpc__green__dragon__combat__trigger.html#a945b7cd0084873c17d52b3c2cc3ede22":[6,0,1813,2],
-"dd/d36/classnpc__green__dragon__combat__trigger.html#acec675494f5e5e9609bf34b7f25cb569":[6,0,1813,1],
-"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html":[6,0,1330,0]
+"dd/d36/classnpc__green__dragon__combat__trigger.html#acec675494f5e5e9609bf34b7f25cb569":[6,0,1813,1]
 };

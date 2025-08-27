@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/d72/classFollowerAI.html#a792d64dca1699f77f9e1f5ad81db7aab":[6,0,1050,12],
 "de/d72/classFollowerAI.html#a83977da1bbd73813e2efa1b594512ece":[6,0,1050,8],
 "de/d72/classFollowerAI.html#a83dec5983277d0b59980b44593332b8f":[6,0,1050,10],
 "de/d72/classFollowerAI.html#a8424220526302983b8770fb5b8883785":[6,0,1050,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a7dfdcb2a88930c6b4150f7f7c825a2df":[6,0,1620,0,2],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a85f164a6ba24d7a14d77264441a78f46":[6,0,1620,0,0],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a8b1792a8a405651d602d9ed634f52689":[6,0,1620,0,4],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#aa709ee8919a2d0317d563259c7630c99":[6,0,1620,0,5],
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ab2e6d01df033985ac29e963cf2895466":[6,0,1620,0,6]
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#aa709ee8919a2d0317d563259c7630c99":[6,0,1620,0,5]
 };

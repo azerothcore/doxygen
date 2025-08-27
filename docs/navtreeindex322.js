@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d27/structSmartAction.html#a4b7fdd15e89c87f7218727f6cc552a34":[6,0,2563,200],
 "dd/d27/structSmartAction.html#a4bbed4b650e554fb563d4f8df377c270":[6,0,2563,80],
 "dd/d27/structSmartAction.html#a4d2590113e86696ca8fd7302931c48d6":[6,0,2563,101],
 "dd/d27/structSmartAction.html#a4e00ac3d4e720f40c28f41daeee21294":[6,0,2563,42],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a7f2ddbf54a4932277ad91eb0036915ab":[6,0,3780,0],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a97f5239399e7135b02000722eaf837ad":[6,0,3780,3],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[6,0,3780,2],
-"dd/d2c/sunwell__plateau_8h.html":[7,0,0,0,1,3,2,12,7],
-"dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf":[7,0,0,0,1,3,2,12,7,8]
+"dd/d2c/sunwell__plateau_8h.html":[7,0,0,0,1,3,2,12,7]
 };

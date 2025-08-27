@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680":[7,0,0,0,1,3,7,12,13,7],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803":[7,0,0,0,1,3,7,12,13,2],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2":[7,0,0,0,1,3,7,12,13,6],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b":[7,0,0,0,1,3,7,12,13,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,31,5,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,11,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,31,5,6,1],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,11,5,6,3],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,31,5,6,3]
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,11,5,6,3]
 };

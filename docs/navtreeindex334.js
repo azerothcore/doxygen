@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[6,0,152,16],
 "dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[6,0,152,13],
 "dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[6,0,152,15],
 "dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,152,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,4,5,0],
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,2,4,4,5,1],
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5ddf30d1ac944cc5bf9a3e40494c7b17":[7,0,0,0,1,3,2,4,4,5,5],
-"dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,2,4,4,5,2],
-"dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3afe379930d5ce9c90f9d5cd338c5dac86":[7,0,0,0,1,3,2,4,4,5,4]
+"dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,2,4,4,5,2]
 };

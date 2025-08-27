@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d1f/boss__marwyn_8cpp.html":[7,0,0,0,1,3,5,4,1,1],
 "dd/d1f/boss__marwyn_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,1,1,6],
 "dd/d1f/boss__marwyn_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,4,1,1,6,2],
 "dd/d1f/boss__marwyn_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2fdae13d5d52dd53dea324c1a5a02600":[7,0,0,0,1,3,5,4,1,1,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[6,0,2563,106],
 "dd/d27/structSmartAction.html#a4adacb044619cfa2b4c37c072a865628":[6,0,2563,253],
 "dd/d27/structSmartAction.html#a4b0169783ff0fed5b2a6f2a67d224d03":[6,0,2563,30],
-"dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[6,0,2563,167],
-"dd/d27/structSmartAction.html#a4b7fdd15e89c87f7218727f6cc552a34":[6,0,2563,200]
+"dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[6,0,2563,167]
 };

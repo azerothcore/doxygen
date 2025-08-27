@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d5d/classspell__baltharus__enervating__brand__trigger.html#a3a64ffc872e4650b1d226d20d9bedc65":[6,0,2635,2],
 "dc/d5d/classspell__baltharus__enervating__brand__trigger.html#aa5d7a420154b156ca24e73de2faf912a":[6,0,2635,3],
 "dc/d5d/classspell__baltharus__enervating__brand__trigger.html#ac10f4cebab4966a220cd931afd0e0a30":[6,0,2635,0],
 "dc/d5d/classspell__baltharus__enervating__brand__trigger.html#adb14940f47dc509d75a4e81bb90fc40d":[6,0,2635,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d74/cs__list_8cpp.html":[7,0,0,0,1,3,0,26],
 "dc/d74/cs__list_8cpp.html#a81af00772e7a06ad952109222b1f53a3":[7,0,0,0,1,3,0,26,1],
 "dc/d75/classspell__azjol__nerub__fixate.html":[6,0,2631],
-"dc/d75/classspell__azjol__nerub__fixate.html#a1e166c53e2051f3fae1b085a76a08c3f":[6,0,2631,1],
-"dc/d75/classspell__azjol__nerub__fixate.html#a3405c1b04f2e623662c7acaa6810278c":[6,0,2631,2]
+"dc/d75/classspell__azjol__nerub__fixate.html#a1e166c53e2051f3fae1b085a76a08c3f":[6,0,2631,1]
 };

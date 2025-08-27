@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3566,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3566,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3566,0],
 "df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1688,23],
 "df/d5c/classnpc__commandscript.html#ad789c3fb6523abddf4d07d38952e04a8":[6,0,1688,1],
 "df/d5c/classnpc__commandscript.html#ae33bcd34c61d305dc3d98d9c8d3bd379":[6,0,1688,19],
-"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1688,18],
-"df/d5c/classnpc__commandscript.html#aebdf52c0354ed5f4c951c67d093c175a":[6,0,1688,4]
+"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1688,18]
 };

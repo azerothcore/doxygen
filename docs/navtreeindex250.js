@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"da/d1e/CharmInfo_8h.html#af3f4a89bfde2856dbf998cc7d89f8c51":[7,0,0,0,1,2,16,10,1,6],
 "da/d1e/WaypointMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,19],
 "da/d1e/WaypointMovementGenerator_8h.html#af2d292bdefbb6db76ff3201ac0c0cdd6":[7,0,0,0,1,2,31,0,19,4],
 "da/d1e/WaypointMovementGenerator_8h.html#afcff81f45a877feac68bf5bcae913560":[7,0,0,0,1,2,31,0,19,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5d113c39c499d21187268b3f0200371c":[7,0,0,0,1,2,41,0,0,6,143],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5e6639ac0ff61c39893a68ee3e750e5b":[7,0,0,0,1,2,41,0,0,6,68],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ea9211c39ddc18059dd17b3e675c0ee":[7,0,0,0,1,2,41,0,0,6,301],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[7,0,0,0,1,2,41,0,0,6,57],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63":[7,0,0,0,1,2,41,0,0,6,189]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[7,0,0,0,1,2,41,0,0,6,57]
 };

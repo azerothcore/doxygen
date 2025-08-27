@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1528,7],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1528,4],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1528,5],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3452],
@@ -130,8 +131,8 @@ var NAVTREEINDEX290 =
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3654],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dce/classAura.html#abf0ff1d6e3be882ce7e8ddd7e935ab66":[6,0,278,108],
 "db/dce/classAura.html#ac031b57268ab2f7c4346ef3dbfea2af0":[6,0,278,123],
 "db/dce/classAura.html#ac2ee53cb584c3528f2990d391393bc1d":[6,0,278,43],
-"db/dce/classAura.html#ac4544d5fa6bb4171de4fccdad5e96918":[6,0,278,82],
-"db/dce/classAura.html#ac514e08ac3f8733a650d243239dada58":[6,0,278,88]
+"db/dce/classAura.html#ac4544d5fa6bb4171de4fccdad5e96918":[6,0,278,82]
 };

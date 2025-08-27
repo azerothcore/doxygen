@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d5e/classspell__the__lich__king__necrotic__plague__jump.html#aff3b52df65504d7d4928b1ff69c1fa4b":[6,0,3878,4],
 "dd/d5e/structgo__firework__show.html":[6,0,1140],
 "dd/d5e/structgo__firework__show.html#a27dc501894beaeb88b2ff0d940c7d129":[6,0,1140,1],
 "dd/d5e/structgo__firework__show.html#a42123490a9752f2187023f3f3ae56333":[6,0,1140,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d76/classAuthSocketMgr.html#a98a0866ae616017010f639f0ad9fc72d":[6,0,294,1],
 "dd/d76/classAuthSocketMgr.html#a9c56ed247f209709221a3e592f4d010f":[6,0,294,2],
 "dd/d76/classAuthSocketMgr.html#ac8169c9c11a33336d08acb0532e917bc":[6,0,294,3],
-"dd/d76/structboss__mor__grayhoof.html":[6,0,623],
-"dd/d76/structboss__mor__grayhoof.html#a00756d64d24088ebf408153fcb59ff13":[6,0,623,1]
+"dd/d76/structboss__mor__grayhoof.html":[6,0,623]
 };

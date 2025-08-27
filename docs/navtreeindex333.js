@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/dac/pit__of__saron_8h.html#ae3e866a287237cc5826ff6b20ef3220c":[7,0,0,0,1,3,5,4,2,5,17],
 "dd/dac/pit__of__saron_8h.html#af59fba40f3674c8dc74985c58d2d8643":[7,0,0,0,1,3,5,4,2,5,31],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,5,4,2,5,7],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d":[7,0,0,0,1,3,5,4,2,5,7,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/db7/classAllSpellScript.html#a95cc4310fb4bc275c7f467a4d71d790c":[6,0,152,1],
 "dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[6,0,152,0],
 "dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[6,0,152,12],
-"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,152,14],
-"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[6,0,152,16]
+"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,152,14]
 };

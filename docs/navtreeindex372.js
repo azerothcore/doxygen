@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca0867d18249c1cbe0515a67320e1ee5fd":[7,0,0,0,1,3,2,16,5,8,5],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca106fd53b8aac00d5765530ed36774724":[7,0,0,0,1,3,2,16,5,8,11],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca244f54e16c399f14043be96b80a71e53":[7,0,0,0,1,3,2,16,5,8,16],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,5,8,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "de/dbb/classChatLogScript.html#af6e61405ba6642fa451465e27c4b47d8":[6,0,867,4],
 "de/dbb/classWretchedGhoulCleaner.html":[6,0,4301],
 "de/dbb/classWretchedGhoulCleaner.html#a8176fb574f0eac852ed3528dcadac288":[6,0,4301,0],
-"de/dbb/classspell__freezing__circle.html":[6,0,2879],
-"de/dbb/classspell__freezing__circle.html#a627bffccdd78c00f0f5a4241f36aeec8":[6,0,2879,2]
+"de/dbb/classspell__freezing__circle.html":[6,0,2879]
 };

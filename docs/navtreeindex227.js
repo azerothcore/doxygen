@@ -245,9 +245,9 @@ var NAVTREEINDEX227 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,446,0,0],
 "d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,121],
 "d8/dfc/structAcore_1_1unary__function.html":[6,0,0,109],
+"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,121],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,109,1],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,121,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[6,0,0,109,0]
+"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,121,0]
 };

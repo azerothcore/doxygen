@@ -1,5 +1,6 @@
 var NAVTREEINDEX365 =
 {
+"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ab2e6d01df033985ac29e963cf2895466":[6,0,1620,0,6],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ada44600272b19d9416d957bc52bc3be4":[6,0,1620,0,1],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html":[6,0,1298,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[6,0,1298,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX365 =
 "de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb":[6,0,2393,3],
 "de/d80/classPetitionMgr.html#a0175d79b865a34bc1451bb6c748d785f":[6,0,2393,2],
 "de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[6,0,2393,1],
-"de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8":[6,0,2393,0],
-"de/d80/classPetitionMgr.html#a289f09d808c81b5ada9b26e98260f5be":[6,0,2393,14]
+"de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8":[6,0,2393,0]
 };

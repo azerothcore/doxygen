@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/dfd/classspell__q12937__relief__for__the__fallen.html#a3820e716d20809896c84c1ca781af4d1":[6,0,3673,4],
 "de/dfd/classspell__q12937__relief__for__the__fallen.html#a50203f655a85ed5984fa549fbdcc1c65":[6,0,3673,0],
 "de/dfd/classspell__q12937__relief__for__the__fallen.html#a510f81e77597ef55a87b4f77fa324b2b":[6,0,3673,1],
 "de/dfd/classspell__q12937__relief__for__the__fallen.html#ac8dcfed4a74c85121b8b6c39856f709b":[6,0,3673,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d13/blackrock__spire_8h.html#a827f0b5fa02456e320d9ee1624b0fa52":[7,0,0,0,1,3,2,1,1,0,2],
 "df/d13/blackrock__spire_8h.html#ac5499e1cfc098e10297f82ed43c1e130":[7,0,0,0,1,3,2,1,1,0,7],
 "df/d13/blackrock__spire_8h.html#ac5499e1cfc098e10297f82ed43c1e130a6c905d4e8ba544bafcf0540ed99d8a35":[7,0,0,0,1,3,2,1,1,0,7,0],
-"df/d13/blackrock__spire_8h.html#ad3bc9bdd2aa9c179fedc567b4ab2b7db":[7,0,0,0,1,3,2,1,1,0,0],
-"df/d13/blackrock__spire_8h.html#af34c80ed07e23d3f7de50ee8405c8fb1":[7,0,0,0,1,3,2,1,1,0,8]
+"df/d13/blackrock__spire_8h.html#ad3bc9bdd2aa9c179fedc567b4ab2b7db":[7,0,0,0,1,3,2,1,1,0,0]
 };

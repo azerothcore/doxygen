@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dd2/classboss__hadronox.html#a90bf0ecb218e30e61852baffeabc3dc1":[6,0,514,2],
 "dc/dd2/classboss__hadronox.html#ae3457fd6108cc350cf9eedab3178f781":[6,0,514,1],
 "dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html":[6,0,1629,0],
 "dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#a6e2819f73f0fccd02b7188f0e6f1ffa9":[6,0,1629,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9ed2340a152ddd317bff9bfd72ed5e2a":[7,0,0,0,1,3,2,17,33],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[7,0,0,0,1,3,2,17,61],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa3656c85bb96e31201c40ed1747c9b27":[7,0,0,0,1,3,2,17,97],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,17,29],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa67242f93d926d1bc712d8bfd0cd779a":[7,0,0,0,1,3,2,17,32]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,17,29]
 };

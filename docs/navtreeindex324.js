@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html":[6,0,1330,0],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a00880eedbbc2deb4dc36e4c851558861":[6,0,1330,0,8],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a3f77ecd2edf0989fcb957b56153807eb":[6,0,1330,0,7],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a3f9cca96886b97f7657edc04f4997d41":[6,0,1330,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d3b/structGameObjectTemplate.html#af60d38d17f82d1d90bb5845a54016001":[6,0,1085,8],
 "dd/d3b/structGameObjectTemplate.html#afab75dce09111797347fb1b46d081903":[6,0,1085,135],
 "dd/d3b/structGameObjectTemplate.html#afb70f005e80231e551a610d372b83d22":[6,0,1085,15],
-"dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e":[6,0,1085,191],
-"dd/d3b/structGameObjectTemplate.html#aff65541ffa640f8fa706fe425b3be1c2":[6,0,1085,33]
+"dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e":[6,0,1085,191]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dd/d01/classDelayedCastEvent.html#abe28a6749101233302634ed226a289e8":[6,0,964,4],
 "dd/d01/classDelayedCastEvent.html#acc9e22eb1908e4c458199fc4cccd56c6":[6,0,964,2],
 "dd/d01/classDelayedCastEvent.html#adb07c24a947d59d2ef1f61b8ab18d328":[6,0,964,3],
 "dd/d01/classDelayedCastEvent.html#ae2925429b3049e44d2afd2e8b990af71":[6,0,964,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,0,6],
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,3,0,6,0],
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d34e1b837b5b82d721d9a92097380b5":[7,0,0,0,1,3,5,3,0,6,2],
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e8e83cb75a4e905a65e772b945a1b57":[7,0,0,0,1,3,5,3,0,6,1],
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca9616f7ab7a5af57865463abc5abe105e":[7,0,0,0,1,3,5,3,0,6,3]
+"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e8e83cb75a4e905a65e772b945a1b57":[7,0,0,0,1,3,5,3,0,6,1]
 };

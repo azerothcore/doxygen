@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e":[7,0,0,0,1,2,16,3,2,7,0],
 "dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e":[7,0,0,0,1,2,16,3,2,7,2],
 "dd/d97/structRandomPropertiesPointsEntry.html":[6,0,2476],
 "dd/d97/structRandomPropertiesPointsEntry.html#a35506e3235c2c24230058dc2fb9abc4f":[6,0,2476,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html":[6,0,0,114],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[6,0,0,114,3],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[5,0,1,126,3],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,1,126,5],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[6,0,0,114,5]
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,1,126,5]
 };

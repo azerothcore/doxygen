@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a5b8c197cd3c482d5a4d5a14f9c5019e7":[6,0,649,0,9],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#a61d1cedcc30fbccbebbdc768d6a18900":[6,0,649,0,7],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#aa49a4e6e2f942ab0efeb83d0fe672f9f":[6,0,649,0,0],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#aae6517c4816eb9bbc5dfe245d69edd87":[6,0,649,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "de/d06/structboss__headless__horseman.html#abccf1fc3c5475e50d45bbd596ff98ce9":[6,0,521,10],
 "de/d06/structboss__headless__horseman.html#ac52c6590f78c23149abfb062d5814ded":[6,0,521,11],
 "de/d06/structboss__headless__horseman.html#ace502054c0e570655be9ea1990b48f9f":[6,0,521,12],
-"de/d06/structboss__headless__horseman.html#ad4bc4c5364d1c07c21f29747934efc01":[6,0,521,3],
-"de/d06/structboss__headless__horseman.html#ad5d8645b879a2c97c68e815463a97b49":[6,0,521,2]
+"de/d06/structboss__headless__horseman.html#ad4bc4c5364d1c07c21f29747934efc01":[6,0,521,3]
 };

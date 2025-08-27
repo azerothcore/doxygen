@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a82403eecdea07bfc8ed9509eb5a30dcd":[6,0,1871,0,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#acaaac3624e262d89920fa8a7da9e3cc0":[6,0,1871,0,3],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#af6d3e79627102acbf764aa7ee8c7433b":[6,0,1871,0,0],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#affcd7c16fe4a50a0743c0f9bb5a9d321":[6,0,1871,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d9d/classMessageBuffer.html#a5e5827a47181f545590df32ec86100b8":[6,0,1496,2],
 "df/d9d/classMessageBuffer.html#a63e35ae42b261707be96b6366579f141":[6,0,1496,0],
 "df/d9d/classMessageBuffer.html#a729a6f451f90716249a806e5c3a02b9c":[6,0,1496,14],
-"df/d9d/classMessageBuffer.html#a78f07c4d5aaa7d405ddf8ca2c6d39f11":[6,0,1496,9],
-"df/d9d/classMessageBuffer.html#a8a2738459d80d70a1b02a5a93ebad1d4":[6,0,1496,22]
+"df/d9d/classMessageBuffer.html#a78f07c4d5aaa7d405ddf8ca2c6d39f11":[6,0,1496,9]
 };

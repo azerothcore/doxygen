@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/deb/structM2Header.html#aaf4b42bfdd9f1d21a8b36e8cdb5039d5":[6,0,1458,3],
 "de/deb/structM2Header.html#ab69dd1ffe8f06e87a27681eade2ed48f":[6,0,1458,55],
 "de/deb/structM2Header.html#ab8dcc8205a16925f9e081d6104d774b5":[6,0,1458,34],
 "de/deb/structM2Header.html#aba0c84ae340e0c10b57c28f1f213b1f1":[6,0,1458,48],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#a5502476536a923e77af67c4bbcf005e3":[6,0,2661,1],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#a5b6e96abb900da33657cdbbd137138e3":[6,0,2661,0],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#aca08edf219504156d6157c95702bb815":[6,0,2661,2],
-"de/dfd/classspell__q12937__relief__for__the__fallen.html":[6,0,3673],
-"de/dfd/classspell__q12937__relief__for__the__fallen.html#a3820e716d20809896c84c1ca781af4d1":[6,0,3673,4]
+"de/dfd/classspell__q12937__relief__for__the__fallen.html":[6,0,3673]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,31,5,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[6,0,11,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,31,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,31,5,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/de6/classspell__q12919__gymers__grab.html#a96d189c452a969850121323faef1d9c1":[6,0,3671,3],
 "dd/de6/classspell__q12919__gymers__grab.html#a9bd3ea5aa5fb16aac87f6097db31e113":[6,0,3671,2],
 "dd/de6/classspell__q12919__gymers__grab.html#ad22b87be8f47886650d7bf9e98eee495":[6,0,3671,0],
-"dd/de7/classnpc__frosthound.html":[6,0,1792],
-"dd/de7/classnpc__frosthound.html#a3266f5186d1db0c010f586d3272725a6":[6,0,1792,1]
+"dd/de7/classnpc__frosthound.html":[6,0,1792]
 };

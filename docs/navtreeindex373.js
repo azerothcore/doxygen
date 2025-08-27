@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/dbb/classspell__freezing__circle.html#a627bffccdd78c00f0f5a4241f36aeec8":[6,0,2879,2],
 "de/dbb/classspell__freezing__circle.html#a9c9bbe49388cf5d04650572fdf789e5e":[6,0,2879,0],
 "de/dbb/classspell__freezing__circle.html#ac89a628f1aba54aa2ade876a4f7911b8":[6,0,2879,1],
 "de/dbb/classspell__freezing__circle.html#aed63b40f8e2cc6fd32dd536a2d56c7c3":[6,0,2879,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd":[7,0,0,0,1,3,4,30,9,2],
 "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1":[7,0,0,0,1,3,4,30,11],
 "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b":[7,0,0,0,1,3,4,30,11,0],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179":[7,0,0,0,1,3,4,30,11,2],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47":[7,0,0,0,1,3,4,30,11,1]
+"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179":[7,0,0,0,1,3,4,30,11,2]
 };

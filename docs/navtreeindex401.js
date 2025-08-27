@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/ddc/classTaskScheduler.html#a710aca9b74eabea0163fcb2b321a39e3":[6,0,4131,23],
 "df/ddc/classTaskScheduler.html#a752db7785ee3a4cb54e674a7a85e1156":[6,0,4131,50],
 "df/ddc/classTaskScheduler.html#a762836fbd5252c247acedbe4d740cf09":[6,0,4131,38],
 "df/ddc/classTaskScheduler.html#a7a4238b1a25be51166721ab89ecae50d":[6,0,4131,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2203,2],
 "df/ded/classnpc__venomhide__hatchling.html":[6,0,2262],
 "df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2262,3],
-"df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[6,0,2262,1],
-"df/ded/classnpc__venomhide__hatchling.html#a96110b752965d751ab7b466c4f67e333":[6,0,2262,2]
+"df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[6,0,2262,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d":[7,0,0,0,1,3,7,13,38,17],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693":[7,0,0,0,1,3,7,13,38,27],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/db3/structLootView.html":[6,0,1455],
 "da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1455,2],
 "da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1455,0],
-"da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1455,1],
-"da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1455,3]
+"da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1455,1]
 };

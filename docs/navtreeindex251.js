@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63":[7,0,0,0,1,2,41,0,0,6,189],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600ad2316202aec206facbfa746a136b":[7,0,0,0,1,2,41,0,0,6,18],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600cd4f45aacef7c9309066ab76e877a":[7,0,0,0,1,2,41,0,0,6,46],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a60e00cb4b8d4e07009f51480d25d7bfb":[7,0,0,0,1,2,41,0,0,6,210],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a456ee6f4b5b8cdd79647a42185265be8":[6,0,1917,0,2],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a621d4db4fac3a7c3d08defa2a8ed06d0":[6,0,1917,0,6],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa125ab2a33dbf9f1d40f238e7d45000d":[6,0,1917,0,8],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa5270e7468dcafba98d3ee72752771ce":[6,0,1917,0,4],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ab704e4f3af8aa734910efd259db31407":[6,0,1917,0,5]
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa5270e7468dcafba98d3ee72752771ce":[6,0,1917,0,4]
 };

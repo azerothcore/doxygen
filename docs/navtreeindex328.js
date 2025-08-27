@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/d76/structboss__mor__grayhoof.html#a00756d64d24088ebf408153fcb59ff13":[6,0,623,1],
 "dd/d76/structboss__mor__grayhoof.html#a043f6ee099efd0d49982b2966604e65a":[6,0,623,4],
 "dd/d76/structboss__mor__grayhoof.html#a164a911eb9a86964a61866c05d44512f":[6,0,623,2],
 "dd/d76/structboss__mor__grayhoof.html#a40bf6a66aefe7a605d94526b5a586ba6":[6,0,623,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad4e94f0b566e0ff9db022ccd4d76d659":[7,0,0,0,1,3,2,1,1,6,1,2],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a6e335f2a0f5c846b7fa4ea70f3f549da":[7,0,0,0,1,3,2,1,1,6,7],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a7e0f2ae59dbd9affc9d3a4599bebe53e":[7,0,0,0,1,3,2,1,1,6,5],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a9e488026a887c09f7d67fcde10b8c301":[7,0,0,0,1,3,2,1,1,6,6],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,1,1,6,3]
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a9e488026a887c09f7d67fcde10b8c301":[7,0,0,0,1,3,2,1,1,6,6]
 };

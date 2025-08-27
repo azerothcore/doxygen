@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/ded/classnpc__venomhide__hatchling.html#a96110b752965d751ab7b466c4f67e333":[6,0,2262,2],
 "df/ded/mechanar_8h.html":[7,0,0,0,1,3,7,5,3,6],
 "df/ded/mechanar_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,5,3,6,0],
 "df/ded/mechanar_8h.html#a16c2b8982727dd1439379712d87864b3":[7,0,0,0,1,3,7,5,3,6,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,0,8],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,0,8,2],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,0,8,0],
-"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,2,0,8,1],
-"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[7,0,0,0,1,3,5,8,2,0,8,4]
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,2,0,8,1]
 };

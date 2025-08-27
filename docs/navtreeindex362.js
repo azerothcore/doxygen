@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d53/structboss__blackheart__the__inciter.html#add75633d1c04d0be91e7e80f28213917":[6,0,397,5],
 "de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html":[6,0,1587,0],
 "de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#a1165ee0e066dcaeb300096e55758389b":[6,0,1587,0,1],
 "de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#ad2f8a14f2adfe1418a23de274493f85e":[6,0,1587,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae05bf66f17b0ae12099dd06fd8fe663b":[7,0,0,0,1,2,13,1,11,29],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae06b8a3a1af708856bb1caa1c84afe8f":[7,0,0,0,1,2,13,1,11,11],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec4ffb3080e8e29725c2061a190b7cdb":[7,0,0,0,1,2,13,1,11,1],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec5ec463cb39f566d571c9d4d4083824":[7,0,0,0,1,2,13,1,11,4],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faed815ad33055c47851099c82c07932f1":[7,0,0,0,1,2,13,1,11,28]
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec5ec463cb39f566d571c9d4d4083824":[7,0,0,0,1,2,13,1,11,4]
 };
