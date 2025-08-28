@@ -184,6 +184,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_CAN_RESURRECT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1cd44b42c86b09f221025742a6262c1c", null ],
       [ "PLAYERHOOK_ON_CAN_GIVE_LEVEL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a8b1d8b9e6a52cf26ad8ff21389f3ca3d", null ],
       [ "PLAYERHOOK_ON_SEND_LIST_INVENTORY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbd9701605e22153c142fa8f2f9808f4", null ],
+      [ "PLAYERHOOK_ON_GIVE_REPUTATION", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a230e29abe83a2be4ff046fddd42d15e4", null ],
       [ "PLAYERHOOK_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

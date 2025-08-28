@@ -1809,6 +1809,15 @@ var SharedDefines_8h =
       [ "REP_REVERED", "de/d0a/SharedDefines_8h.html#aa8feab79004a7795346184a5e6140f03aaac79934a86e4b02219a1e9db02a03f9", null ],
       [ "REP_EXALTED", "de/d0a/SharedDefines_8h.html#aa8feab79004a7795346184a5e6140f03a6ba68d52ec3f68805fedecca8551fb7f", null ]
     ] ],
+    [ "ReputationSource", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917c", [
+      [ "REPUTATION_SOURCE_KILL", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917ca6b17403b4310c7f0550c6734e3d2834b", null ],
+      [ "REPUTATION_SOURCE_QUEST", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917caaee4856eda6944c68ce6d462d848f1a9", null ],
+      [ "REPUTATION_SOURCE_DAILY_QUEST", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917caea00d71194202c17438676a6417b4bc0", null ],
+      [ "REPUTATION_SOURCE_WEEKLY_QUEST", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917cad712d20adee085a1171c44bb09baf8f3", null ],
+      [ "REPUTATION_SOURCE_MONTHLY_QUEST", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917cab40eae40d43a7a9c522dc4d236bdfab3", null ],
+      [ "REPUTATION_SOURCE_REPEATABLE_QUEST", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917cabcf9b65b489b668e22795f250c1d98c8", null ],
+      [ "REPUTATION_SOURCE_SPELL", "de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917ca81f9c093fa4f90ca6584d34915f00dc9", null ]
+    ] ],
     [ "ResponseCodes", "de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1a", [
       [ "RESPONSE_SUCCESS", "de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1aa7072946507cceb8dcc95d8395d597711", null ],
       [ "RESPONSE_FAILURE", "de/d0a/SharedDefines_8h.html#a42e167e83e1f0229d501a09e3f1d2b1aa59d85dc90bf55f638b778bff7ff02a26", null ],

@@ -120,6 +120,7 @@ var classPlayerScript =
     [ "OnPlayerGetMaxSkillValue", "d0/d5b/classPlayerScript.html#a1c5388025a13fbb65f2a8b7a580c070e", null ],
     [ "OnPlayerGetMaxSkillValueForLevel", "d0/d5b/classPlayerScript.html#a51766dc484aff74274971aec5a809369", null ],
     [ "OnPlayerGetQuestRate", "d0/d5b/classPlayerScript.html#a9239ede3a7f820cbc67bf1227738a89e", null ],
+    [ "OnPlayerGiveReputation", "d0/d5b/classPlayerScript.html#a9c16c9dc1b84759abb159913e3657509", null ],
     [ "OnPlayerGiveXP", "d0/d5b/classPlayerScript.html#a6c551a0298321975bdc82854a96631b6", null ],
     [ "OnPlayerGossipSelect", "d0/d5b/classPlayerScript.html#a029041b780393eb50916111cee237486", null ],
     [ "OnPlayerGossipSelectCode", "d0/d5b/classPlayerScript.html#adebc479bb5d0ba38ab37607f8da3c22c", null ],

@@ -10,6 +10,7 @@ var dir_4741540d90fc7603479c20e4d5a7e517 =
     [ "boss_prince_malchezaar.cpp", "de/da6/boss__prince__malchezaar_8cpp.html", "de/da6/boss__prince__malchezaar_8cpp" ],
     [ "boss_servant_quarters.cpp", "d2/d16/boss__servant__quarters_8cpp.html", "d2/d16/boss__servant__quarters_8cpp" ],
     [ "boss_shade_of_aran.cpp", "db/dde/boss__shade__of__aran_8cpp.html", "db/dde/boss__shade__of__aran_8cpp" ],
+    [ "boss_tenris_mirkblood.cpp", "d9/d8c/boss__tenris__mirkblood_8cpp.html", "d9/d8c/boss__tenris__mirkblood_8cpp" ],
     [ "boss_terestian_illhoof.cpp", "d5/d68/boss__terestian__illhoof_8cpp.html", "d5/d68/boss__terestian__illhoof_8cpp" ],
     [ "bosses_opera.cpp", "d1/dbd/bosses__opera_8cpp.html", "d1/dbd/bosses__opera_8cpp" ],
     [ "instance_karazhan.cpp", "d2/d9d/instance__karazhan_8cpp.html", "d2/d9d/instance__karazhan_8cpp" ],

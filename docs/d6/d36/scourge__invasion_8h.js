@@ -236,10 +236,7 @@ var scourge__invasion_8h =
       [ "SPELL_QUIET_SUICIDE", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad860f54409f76f306c7f49aad1365de5", null ],
       [ "SPELL_SUMMON_BOSS_BUFF", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a3b608a9cb26e58df3e74812c53382095", null ],
       [ "SPELL_SUMMON_BOSS", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad10c256706225be97608ad6b7600e3d8", null ],
-      [ "SPELL_SPAWN_SMOKE", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ac785a440e66b2d06ba2dfb853f12e38c", null ],
       [ "SPELL_ZAP_CRYSTAL_CORPSE", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824acd817eb5242a7a93465f869257c19868", null ],
-      [ "SPELL_MINDFLAY", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a9255e3fc260a2904e424c64ddc3dcfc2", null ],
-      [ "SPELL_FEAR", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5a0d904d66dec096d1d013333b118f88", null ],
       [ "SPELL_SUMMON_CRACKED_NECROTIC_CRYSTAL", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a92c13fde003d44cd7564a44e2accefea", null ],
       [ "SPELL_SUMMON_FAINT_NECROTIC_CRYSTAL", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a00810d7035c8549e82363c9c54a81e4c", null ],
       [ "SPELL_DAMAGE_VS_GUARDS", "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824add4dd9e013aa8ce5d65fe2fa99814d53", null ],
@@ -253,7 +250,6 @@ var scourge__invasion_8h =
       [ "HERALD_OF_THE_LICH_KING_SAY_ATTACK_END", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a9ac3647d12aa8d2bb5208769d62b6d15", null ],
       [ "HERALD_OF_THE_LICH_KING_SAY_ATTACK_RANDOM", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a507ea80e9979c3b7303716ad6f8a22c1", null ],
       [ "PALLID_HORROR_SAY_RANDOM_YELL", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996af94bcecab83e7a2abcd5ce2c1c30cb92", null ],
-      [ "SHADOW_OF_DOOM_SAY_AGGRO", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996ae22a2a6da868d9bd9bd00496eb98594c", null ],
       [ "SYLVANAS_SAY_ATTACK_END", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a2eb85115a7959fe1ccd23f8d754c13e4", null ],
       [ "VARIAN_SAY_ATTACK_END", "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996adc78083afe7c83dbd8c89b3d9dcef5a7", null ]
     ] ]

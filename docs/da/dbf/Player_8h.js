@@ -460,15 +460,6 @@ var Player_8h =
       [ "ERR_REFER_A_FRIEND_INSUF_EXPAN_LVL", "da/dbf/Player_8h.html#a1540bb0af13f9b9cfd024dca6c5b92c1a5427ad8b743a794d3d840cc424720527", null ],
       [ "ERR_REFER_A_FRIEND_SUMMON_OFFLINE_S", "da/dbf/Player_8h.html#a1540bb0af13f9b9cfd024dca6c5b92c1a29fca8c6f4236abcd552e817e2815ec0", null ]
     ] ],
-    [ "ReputationSource", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917c", [
-      [ "REPUTATION_SOURCE_KILL", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917ca6b17403b4310c7f0550c6734e3d2834b", null ],
-      [ "REPUTATION_SOURCE_QUEST", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917caaee4856eda6944c68ce6d462d848f1a9", null ],
-      [ "REPUTATION_SOURCE_DAILY_QUEST", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917caea00d71194202c17438676a6417b4bc0", null ],
-      [ "REPUTATION_SOURCE_WEEKLY_QUEST", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917cad712d20adee085a1171c44bb09baf8f3", null ],
-      [ "REPUTATION_SOURCE_MONTHLY_QUEST", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917cab40eae40d43a7a9c522dc4d236bdfab3", null ],
-      [ "REPUTATION_SOURCE_REPEATABLE_QUEST", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917cabcf9b65b489b668e22795f250c1d98c8", null ],
-      [ "REPUTATION_SOURCE_SPELL", "da/dbf/Player_8h.html#add0e486b240be9a2d1a8d50d397b917ca81f9c093fa4f90ca6584d34915f00dc9", null ]
-    ] ],
     [ "RestFlag", "da/dbf/Player_8h.html#a6573e61697135eebcc2945e003612f5a", [
       [ "REST_FLAG_IN_TAVERN", "da/dbf/Player_8h.html#a6573e61697135eebcc2945e003612f5aa0bf57632b9695021a05ef473297c9db7", null ],
       [ "REST_FLAG_IN_CITY", "da/dbf/Player_8h.html#a6573e61697135eebcc2945e003612f5aaaecbe68299cf222ea8809a2c2a703ac0", null ],

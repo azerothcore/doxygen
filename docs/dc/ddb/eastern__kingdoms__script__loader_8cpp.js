@@ -90,6 +90,7 @@ var eastern__kingdoms__script__loader_8cpp =
     [ "AddSC_boss_shazzrah", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1c640a692c7583028a3f575540c25b8f", null ],
     [ "AddSC_boss_solakar_flamewreath", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5572660f4524aea5809df726c465d3f1", null ],
     [ "AddSC_boss_sulfuron", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a311f82bbe3d21c6f1a7e9d5330558a8d", null ],
+    [ "AddSC_boss_tenris_mirkblood", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a476e8ae7aed8806ba0a2d27be5703e1b", null ],
     [ "AddSC_boss_terestian_illhoof", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a182dae5a06e199c8e00f756011206a51", null ],
     [ "AddSC_boss_thebeast", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab467ba90e5636027f0ef7f7806d64d25", null ],
     [ "AddSC_boss_thekal", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57604b634eb000dd3a77ed767652d105", null ],

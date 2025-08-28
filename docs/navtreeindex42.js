@@ -1,5 +1,13 @@
 var NAVTREEINDEX42 =
 {
+"d1/dc1/classspell__ioc__repair__turret__aura.html#a1b90f1288b3b45267edd4da2b3418b21":[6,0,3198,3],
+"d1/dc1/classspell__ioc__repair__turret__aura.html#a2320044c6c81a89af0fefd4f90c05bd5":[6,0,3198,1],
+"d1/dc1/classspell__ioc__repair__turret__aura.html#a4890d35f2b0889156a437c95e49f528c":[6,0,3198,2],
+"d1/dc1/classspell__ioc__repair__turret__aura.html#a4e6a66934a01d01c50208459f6771353":[6,0,3198,0],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html":[6,0,4045],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a3b03178d8ab54db36a19ba5a27444917":[6,0,4045,1],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a6309c53b9e3828e76d34a77a8fe35df1":[6,0,4045,2],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a715a58956db4253c8adfed039833debd":[6,0,4045,0],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html":[7,0,0,0,1,3,7,2,1,1],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,1,1],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca4328cf0595175e2dee8a6f0cf98bc403":[7,0,0,0,1,3,7,2,1,1,1,4],
@@ -12,9 +20,9 @@ var NAVTREEINDEX42 =
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,1,1,2,0],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,2,1,1,2,1],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaea3bc080b2997578e6287980ecc3de21":[7,0,0,0,1,3,7,2,1,1,2,2],
-"d1/dc2/structboss__warlord__salaris.html":[6,0,775],
-"d1/dc2/structboss__warlord__salaris.html#a77b3b531466810ee17f9fd6eadf5872a":[6,0,775,1],
-"d1/dc2/structboss__warlord__salaris.html#afe9ace28dcd302e9b9a9ebe806e2ada5":[6,0,775,0],
+"d1/dc2/structboss__warlord__salaris.html":[6,0,778],
+"d1/dc2/structboss__warlord__salaris.html#a77b3b531466810ee17f9fd6eadf5872a":[6,0,778,1],
+"d1/dc2/structboss__warlord__salaris.html#afe9ace28dcd302e9b9a9ebe806e2ada5":[6,0,778,0],
 "d1/dc3/SmartScriptMgr_8h.html":[7,0,0,0,1,2,3,2,5],
 "d1/dc3/SmartScriptMgr_8h.html#a0f2e73b82b6928c27559b7d0bd0ffb47":[7,0,0,0,1,2,3,2,5,31],
 "d1/dc3/SmartScriptMgr_8h.html#a0f2e73b82b6928c27559b7d0bd0ffb47a618be723cb345aaa3b5349f0981fc76c":[7,0,0,0,1,2,3,2,5,31,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX42 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab39ce9d146271601be9c2c1057d56f9e":[7,0,0,0,1,2,3,2,5,18,121],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab447bfa8b9599f6d90117233b4baf440":[7,0,0,0,1,2,3,2,5,18,34],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab48d718e08d3da70ff6fb62421507ed0":[7,0,0,0,1,2,3,2,5,18,128],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab53ff5ef14a68bdc166184880375d7e8":[7,0,0,0,1,2,3,2,5,18,106],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab564b0968e26ec330f2784f253291ada":[7,0,0,0,1,2,3,2,5,18,153],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab59da201d068fc3e9133b6f939e5e16a":[7,0,0,0,1,2,3,2,5,18,39],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab6ff170d4438aa14b3c6eeecc3a285ae":[7,0,0,0,1,2,3,2,5,18,166],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab8b8d60c7738c077686d076ac483519c":[7,0,0,0,1,2,3,2,5,18,123],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab9f8c5536f4c056af37d7f5296397f84":[7,0,0,0,1,2,3,2,5,18,144],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcabb522601269ebb35674bc5126d04b7bc":[7,0,0,0,1,2,3,2,5,18,62],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcabb916ec2a1164f1240f6ad64b4a0d11c":[7,0,0,0,1,2,3,2,5,18,68],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcabb96f24c7efdb451c2c7b91963a0b31b":[7,0,0,0,1,2,3,2,5,18,125]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebcab53ff5ef14a68bdc166184880375d7e8":[7,0,0,0,1,2,3,2,5,18,106]
 };

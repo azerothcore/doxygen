@@ -178,6 +178,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a9ab15f7d630448eb438fa09340c49764"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29461fafa9ee3f5781e8cdc4204f4a07" id="r_a29461fafa9ee3f5781e8cdc4204f4a07"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#a29461fafa9ee3f5781e8cdc4204f4a07">OnPlayerReputationRankChange</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../de/d0a/SharedDefines_8h.html#aa8feab79004a7795346184a5e6140f03">ReputationRank</a>, <a class="el" href="../../de/d0a/SharedDefines_8h.html#aa8feab79004a7795346184a5e6140f03">ReputationRank</a>, bool)</td></tr>
 <tr class="separator:a29461fafa9ee3f5781e8cdc4204f4a07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c16c9dc1b84759abb159913e3657509" id="r_a9c16c9dc1b84759abb159913e3657509"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#a9c16c9dc1b84759abb159913e3657509">OnPlayerGiveReputation</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>, float &amp;, <a class="el" href="../../de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917c">ReputationSource</a>)</td></tr>
+<tr class="separator:a9c16c9dc1b84759abb159913e3657509"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad49b8284773c1a88cc60093247a4fa6e" id="r_ad49b8284773c1a88cc60093247a4fa6e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#ad49b8284773c1a88cc60093247a4fa6e">OnPlayerLearnSpell</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
 <tr class="separator:ad49b8284773c1a88cc60093247a4fa6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a59b90cda095160dd1659220e1bddda3b" id="r_a59b90cda095160dd1659220e1bddda3b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5b/classPlayerScript.html#a59b90cda095160dd1659220e1bddda3b">OnPlayerForgotSpell</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
@@ -570,21 +572,21 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  929</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>)</div>
-<div class="line"><span class="lineno">  930</span>{</div>
-<div class="line"><span class="lineno">  931</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">  932</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">  933</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">  934</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">  935</span> </div>
-<div class="line"><span class="lineno">  936</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;PlayerScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">  937</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  934</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>)</div>
+<div class="line"><span class="lineno">  935</span>{</div>
+<div class="line"><span class="lineno">  936</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">  937</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">  938</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">  939</span>            enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">  940</span> </div>
+<div class="line"><span class="lineno">  941</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;PlayerScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">  942</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
-<div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a></div><div class="ttdeci">@ PLAYERHOOK_END</div><div class="ttdef"><b>Definition</b> PlayerScript.h:213</div></div>
+<div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a></div><div class="ttdeci">@ PLAYERHOOK_END</div><div class="ttdef"><b>Definition</b> PlayerScript.h:214</div></div>
 <div class="ttc" id="aclassScriptObject_html"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html">ScriptObject</a></div><div class="ttdef"><b>Definition</b> ScriptObject.h:43</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:756</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:757</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00756">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00213">PLAYERHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00757">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00214">PLAYERHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -634,9 +636,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  749</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  753</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00893">ScriptMgr::AnticheatCheckMovementInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00898">ScriptMgr::AnticheatCheckMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -673,9 +675,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  748</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  752</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00888">ScriptMgr::AnticheatHandleDoubleJump()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00893">ScriptMgr::AnticheatHandleDoubleJump()</a>.</p>
 
 </div>
 </div>
@@ -712,9 +714,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  743</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  747</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00863">ScriptMgr::AnticheatSetCanFlybyServer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00868">ScriptMgr::AnticheatSetCanFlybyServer()</a>.</p>
 
 </div>
 </div>
@@ -751,9 +753,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  746</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  750</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00878">ScriptMgr::AnticheatSetJumpingbyOpcode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00883">ScriptMgr::AnticheatSetJumpingbyOpcode()</a>.</p>
 
 </div>
 </div>
@@ -780,9 +782,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  745</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  749</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00873">ScriptMgr::AnticheatSetRootACKUpd()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00878">ScriptMgr::AnticheatSetRootACKUpd()</a>.</p>
 
 </div>
 </div>
@@ -809,9 +811,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  744</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  748</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00868">ScriptMgr::AnticheatSetUnderACKmount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00873">ScriptMgr::AnticheatSetUnderACKmount()</a>.</p>
 
 </div>
 </div>
@@ -848,9 +850,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  747</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  751</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00883">ScriptMgr::AnticheatUpdateMovementInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00888">ScriptMgr::AnticheatUpdateMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -887,9 +889,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  374</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  378</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00307">ScriptMgr::OnPlayerAchievementComplete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00312">ScriptMgr::OnPlayerAchievementComplete()</a>.</p>
 
 </div>
 </div>
@@ -938,9 +940,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  386</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  390</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00322">ScriptMgr::OnPlayerAchievementSave()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">ScriptMgr::OnPlayerAchievementSave()</a>.</p>
 
 </div>
 </div>
@@ -977,9 +979,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  365</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00287">ScriptMgr::OnPlayerAddToBattleground()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00292">ScriptMgr::OnPlayerAddToBattleground()</a>.</p>
 
 </div>
 </div>
@@ -1014,9 +1016,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  766</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  770</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00532">ScriptMgr::OnPlayerAfterCreatureLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00537">ScriptMgr::OnPlayerAfterCreatureLoot()</a>.</p>
 
 </div>
 </div>
@@ -1051,9 +1053,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  773</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  777</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00537">ScriptMgr::OnPlayerAfterCreatureLootMoney()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00542">ScriptMgr::OnPlayerAfterCreatureLootMoney()</a>.</p>
 
 </div>
 </div>
@@ -1090,9 +1092,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  483</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  487</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00437">ScriptMgr::OnPlayerAfterGuardianInitStatsForLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00442">ScriptMgr::OnPlayerAfterGuardianInitStatsForLevel()</a>.</p>
 
 </div>
 </div>
@@ -1147,9 +1149,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  404</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  408</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00342">ScriptMgr::OnPlayerAfterMoveItemFromInventory()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00347">ScriptMgr::OnPlayerAfterMoveItemFromInventory()</a>.</p>
 
 </div>
 </div>
@@ -1192,9 +1194,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  401</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  405</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00337">ScriptMgr::OnPlayerAfterSetVisibleItemSlot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00342">ScriptMgr::OnPlayerAfterSetVisibleItemSlot()</a>.</p>
 
 </div>
 </div>
@@ -1231,7 +1233,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00112">ScriptMgr::OnPlayerAfterSpecSlotChanged()</a>.</p>
 
@@ -1318,9 +1320,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  458</span>{ };</div>
+<div class="fragment"><div class="line"><span class="lineno">  462</span>{ };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00452">ScriptMgr::OnPlayerAfterStoreOrEquipNewItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00457">ScriptMgr::OnPlayerAfterStoreOrEquipNewItem()</a>.</p>
 
 </div>
 </div>
@@ -1381,9 +1383,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  465</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  469</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00472">ScriptMgr::OnPlayerAfterUpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00477">ScriptMgr::OnPlayerAfterUpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -1420,9 +1422,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  462</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  466</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00462">ScriptMgr::OnPlayerAfterUpdateMaxHealth()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00467">ScriptMgr::OnPlayerAfterUpdateMaxHealth()</a>.</p>
 
 </div>
 </div>
@@ -1465,9 +1467,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  460</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  464</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00457">ScriptMgr::OnPlayerAfterUpdateMaxPower()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00462">ScriptMgr::OnPlayerAfterUpdateMaxPower()</a>.</p>
 
 </div>
 </div>
@@ -1510,9 +1512,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  573</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  577</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00687">ScriptMgr::OnPlayerApplyAmmoBonuses()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00692">ScriptMgr::OnPlayerApplyAmmoBonuses()</a>.</p>
 
 </div>
 </div>
@@ -1573,9 +1575,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  555</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  559</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00642">ScriptMgr::OnPlayerApplyEnchantmentItemModsBefore()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00647">ScriptMgr::OnPlayerApplyEnchantmentItemModsBefore()</a>.</p>
 
 </div>
 </div>
@@ -1636,9 +1638,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  553</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  557</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00637">ScriptMgr::OnPlayerApplyItemModsBefore()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00642">ScriptMgr::OnPlayerApplyItemModsBefore()</a>.</p>
 
 </div>
 </div>
@@ -1699,9 +1701,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  557</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  561</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00647">ScriptMgr::OnPlayerApplyWeaponDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00652">ScriptMgr::OnPlayerApplyWeaponDamage()</a>.</p>
 
 </div>
 </div>
@@ -1738,7 +1740,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  235</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  236</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00047">ScriptMgr::OnPlayerBattlegroundDesertion()</a>.</p>
 
@@ -1777,9 +1779,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  377</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  381</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00302">ScriptMgr::OnPlayerBeforeAchievementComplete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00307">ScriptMgr::OnPlayerBeforeAchievementComplete()</a>.</p>
 
 </div>
 </div>
@@ -1846,9 +1848,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  452</span>{ };</div>
+<div class="fragment"><div class="line"><span class="lineno">  456</span>{ };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00447">ScriptMgr::OnPlayerBeforeBuyItemFromVendor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00452">ScriptMgr::OnPlayerBeforeBuyItemFromVendor()</a>.</p>
 
 </div>
 </div>
@@ -1897,9 +1899,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  633</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  637</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00812">ScriptMgr::OnPlayerBeforeChooseGraveyard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00817">ScriptMgr::OnPlayerBeforeChooseGraveyard()</a>.</p>
 
 </div>
 </div>
@@ -1936,9 +1938,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  383</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  387</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00312">ScriptMgr::OnPlayerBeforeCriteriaProgress()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00317">ScriptMgr::OnPlayerBeforeCriteriaProgress()</a>.</p>
 
 </div>
 </div>
@@ -1993,7 +1995,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  449</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  453</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00022">ScriptMgr::OnPlayerBeforeDurabilityRepair()</a>.</p>
 
@@ -2032,9 +2034,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  422</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  426</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00372">ScriptMgr::OnPlayerBeforeFillQuestLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00377">ScriptMgr::OnPlayerBeforeFillQuestLootItem()</a>.</p>
 
 </div>
 </div>
@@ -2083,9 +2085,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  480</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  484</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00432">ScriptMgr::OnPlayerBeforeGuardianInitStatsForLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00437">ScriptMgr::OnPlayerBeforeGuardianInitStatsForLevel()</a>.</p>
 
 </div>
 </div>
@@ -2128,9 +2130,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  467</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  471</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00477">ScriptMgr::OnPlayerBeforeInitTalentForLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00482">ScriptMgr::OnPlayerBeforeInitTalentForLevel()</a>.</p>
 
 </div>
 </div>
@@ -2185,9 +2187,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  486</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  490</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00442">ScriptMgr::OnPlayerBeforeLoadPetFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00447">ScriptMgr::OnPlayerBeforeLoadPetFromDB()</a>.</p>
 
 </div>
 </div>
@@ -2214,9 +2216,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  329</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  333</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00232">ScriptMgr::OnPlayerBeforeLogout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00237">ScriptMgr::OnPlayerBeforeLogout()</a>.</p>
 
 </div>
 </div>
@@ -2253,7 +2255,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  275</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  276</span>{}</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00122">ScriptMgr::OnPlayerBeforeLootMoney()</a>.</p>
 
@@ -2292,9 +2294,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  440</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00402">ScriptMgr::OnPlayerBeforeOpenItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00407">ScriptMgr::OnPlayerBeforeOpenItem()</a>.</p>
 
 </div>
 </div>
@@ -2331,9 +2333,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  443</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  447</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00482">ScriptMgr::OnPlayerBeforeQuestComplete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00487">ScriptMgr::OnPlayerBeforeQuestComplete()</a>.</p>
 
 </div>
 </div>
@@ -2382,9 +2384,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  304</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  308</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00172">ScriptMgr::OnPlayerBeforeSendChatMessage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00177">ScriptMgr::OnPlayerBeforeSendChatMessage()</a>.</p>
 
 </div>
 </div>
@@ -2469,9 +2471,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  455</span>{ };</div>
+<div class="fragment"><div class="line"><span class="lineno">  459</span>{ };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00492">ScriptMgr::OnPlayerBeforeStoreOrEquipNewItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00497">ScriptMgr::OnPlayerBeforeStoreOrEquipNewItem()</a>.</p>
 
 </div>
 </div>
@@ -2544,9 +2546,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  359</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  363</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00277">ScriptMgr::OnPlayerBeforeTeleport()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00282">ScriptMgr::OnPlayerBeforeTeleport()</a>.</p>
 
 </div>
 </div>
@@ -2589,9 +2591,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  477</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  481</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00427">ScriptMgr::OnPlayerBeforeTempSummonInitStats()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00432">ScriptMgr::OnPlayerBeforeTempSummonInitStats()</a>.</p>
 
 </div>
 </div>
@@ -2628,9 +2630,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  268</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  269</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00212">ScriptMgr::OnPlayerBeforeUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00217">ScriptMgr::OnPlayerBeforeUpdate()</a>.</p>
 
 </div>
 </div>
@@ -2679,9 +2681,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  464</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  468</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00467">ScriptMgr::OnPlayerBeforeUpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">ScriptMgr::OnPlayerBeforeUpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -2736,9 +2738,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  776</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  780</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00903">ScriptMgr::OnPlayerBeforeUpdateSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00908">ScriptMgr::OnPlayerBeforeUpdateSkill()</a>.</p>
 
 </div>
 </div>
@@ -2787,9 +2789,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  398</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  402</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00332">ScriptMgr::OnPlayerBeingCharmed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00337">ScriptMgr::OnPlayerBeingCharmed()</a>.</p>
 
 </div>
 </div>
@@ -2840,9 +2842,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../df/d55/classlfg_1_1LFGPlayerScript.html#aeb3fd4e39ed8ba345cf3c76a232f241d">lfg::LFGPlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  347</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  351</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00262">ScriptMgr::OnPlayerBindToInstance()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00267">ScriptMgr::OnPlayerBindToInstance()</a>.</p>
 
 </div>
 </div>
@@ -2879,7 +2881,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  226</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00057">ScriptMgr::OnPlayerCalculateTalentsPoints()</a>.</p>
 
@@ -2942,9 +2944,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  583</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  587</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00712">ScriptMgr::OnPlayerCanApplyEnchantment()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00717">ScriptMgr::OnPlayerCanApplyEnchantment()</a>.</p>
 
 </div>
 </div>
@@ -2999,9 +3001,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  565</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  569</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00667">ScriptMgr::OnPlayerCanApplyEquipSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00672">ScriptMgr::OnPlayerCanApplyEquipSpell()</a>.</p>
 
 </div>
 </div>
@@ -3038,9 +3040,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  567</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  571</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00672">ScriptMgr::OnPlayerCanApplyEquipSpellsItemSet()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00677">ScriptMgr::OnPlayerCanApplyEquipSpellsItemSet()</a>.</p>
 
 </div>
 </div>
@@ -3095,9 +3097,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  563</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  567</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00662">ScriptMgr::OnPlayerCanApplyWeaponDependentAuraDamageMod()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00667">ScriptMgr::OnPlayerCanApplyWeaponDependentAuraDamageMod()</a>.</p>
 
 </div>
 </div>
@@ -3124,9 +3126,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  543</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  547</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00612">ScriptMgr::OnPlayerCanAreaExploreAndOutdoor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00617">ScriptMgr::OnPlayerCanAreaExploreAndOutdoor()</a>.</p>
 
 </div>
 </div>
@@ -3153,9 +3155,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  559</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  563</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00652">ScriptMgr::OnPlayerCanArmorDamageModifier()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00657">ScriptMgr::OnPlayerCanArmorDamageModifier()</a>.</p>
 
 </div>
 </div>
@@ -3204,9 +3206,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  490</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  494</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00502">ScriptMgr::OnPlayerCanBattleFieldPort()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">ScriptMgr::OnPlayerCanBattleFieldPort()</a>.</p>
 
 </div>
 </div>
@@ -3273,9 +3275,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  569</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  573</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00677">ScriptMgr::OnPlayerCanCastItemCombatSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00682">ScriptMgr::OnPlayerCanCastItemCombatSpell()</a>.</p>
 
 </div>
 </div>
@@ -3330,9 +3332,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  571</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  575</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00682">ScriptMgr::OnPlayerCanCastItemUseSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00687">ScriptMgr::OnPlayerCanCastItemUseSpell()</a>.</p>
 
 </div>
 </div>
@@ -3387,9 +3389,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  612</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  616</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00782">ScriptMgr::OnPlayerCanEnterMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00787">ScriptMgr::OnPlayerCanEnterMap()</a>.</p>
 
 </div>
 </div>
@@ -3450,9 +3452,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  575</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  579</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00692">ScriptMgr::OnPlayerCanEquipItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00697">ScriptMgr::OnPlayerCanEquipItem()</a>.</p>
 
 </div>
 </div>
@@ -3512,7 +3514,7 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  740</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  744</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00067">ScriptMgr::OnPlayerCanFlyInZone()</a>.</p>
 
@@ -3561,9 +3563,9 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if player is allowed to gain the new level </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  796</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  800</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00918">ScriptMgr::OnPlayerCanGiveLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00923">ScriptMgr::OnPlayerCanGiveLevel()</a>.</p>
 
 </div>
 </div>
@@ -3600,9 +3602,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  506</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  510</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00557">ScriptMgr::OnPlayerCanGiveMailRewardAtGiveLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00562">ScriptMgr::OnPlayerCanGiveMailRewardAtGiveLevel()</a>.</p>
 
 </div>
 </div>
@@ -3639,9 +3641,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  494</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  498</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00512">ScriptMgr::OnPlayerCanGroupAccept()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00517">ScriptMgr::OnPlayerCanGroupAccept()</a>.</p>
 
 </div>
 </div>
@@ -3678,9 +3680,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  492</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  496</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00507">ScriptMgr::OnPlayerCanGroupInvite()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">ScriptMgr::OnPlayerCanGroupInvite()</a>.</p>
 
 </div>
 </div>
@@ -3717,9 +3719,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  614</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  618</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00787">ScriptMgr::OnPlayerCanInitTrade()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00792">ScriptMgr::OnPlayerCanInitTrade()</a>.</p>
 
 </div>
 </div>
@@ -3786,9 +3788,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  488</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  492</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00497">ScriptMgr::OnPlayerCanJoinInArenaQueue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00502">ScriptMgr::OnPlayerCanJoinInArenaQueue()</a>.</p>
 
 </div>
 </div>
@@ -3843,9 +3845,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  473</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  477</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00417">ScriptMgr::OnPlayerCanJoinInBattlegroundQueue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00422">ScriptMgr::OnPlayerCanJoinInBattlegroundQueue()</a>.</p>
 
 </div>
 </div>
@@ -3894,9 +3896,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  610</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  614</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00777">ScriptMgr::OnPlayerCanJoinLfg()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00782">ScriptMgr::OnPlayerCanJoinLfg()</a>.</p>
 
 </div>
 </div>
@@ -3933,9 +3935,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  434</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  438</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00392">ScriptMgr::OnPlayerCanPlaceAuctionBid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00397">ScriptMgr::OnPlayerCanPlaceAuctionBid()</a>.</p>
 
 </div>
 </div>
@@ -3962,9 +3964,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  510</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  514</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00567">ScriptMgr::OnPlayerCanRepopAtGraveyard()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00572">ScriptMgr::OnPlayerCanRepopAtGraveyard()</a>.</p>
 
 </div>
 </div>
@@ -4000,9 +4002,9 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if player is authorized to resurect </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  786</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  790</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00913">ScriptMgr::OnPlayerCanResurrect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00918">ScriptMgr::OnPlayerCanResurrect()</a>.</p>
 
 </div>
 </div>
@@ -4051,9 +4053,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  581</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  585</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00707">ScriptMgr::OnPlayerCanSaveEquipNewItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00712">ScriptMgr::OnPlayerCanSaveEquipNewItem()</a>.</p>
 
 </div>
 </div>
@@ -4096,9 +4098,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  496</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  500</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00517">ScriptMgr::OnPlayerCanSellItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00522">ScriptMgr::OnPlayerCanSellItem()</a>.</p>
 
 </div>
 </div>
@@ -4134,9 +4136,9 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true Avoiding displaying the error message that the loot has already been taken. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  758</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  762</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00527">ScriptMgr::OnPlayerCanSendErrorAlreadyLooted()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00532">ScriptMgr::OnPlayerCanSendErrorAlreadyLooted()</a>.</p>
 
 </div>
 </div>
@@ -4209,9 +4211,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  498</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  502</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00522">ScriptMgr::OnPlayerCanSendMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00527">ScriptMgr::OnPlayerCanSendMail()</a>.</p>
 
 </div>
 </div>
@@ -4264,9 +4266,9 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue setting the item in the trade slot, false if you want to cancel the trade </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  624</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  628</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00792">ScriptMgr::OnPlayerCanSetTradeItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00797">ScriptMgr::OnPlayerCanSetTradeItem()</a>.</p>
 
 </div>
 </div>
@@ -4309,9 +4311,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  577</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  581</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00697">ScriptMgr::OnPlayerCanUnequipItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00702">ScriptMgr::OnPlayerCanUnequipItem()</a>.</p>
 
 </div>
 </div>
@@ -4348,9 +4350,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  775</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  779</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00898">ScriptMgr::OnPlayerCanUpdateSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00903">ScriptMgr::OnPlayerCanUpdateSkill()</a>.</p>
 
 </div>
 </div>
@@ -4411,9 +4413,9 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the message, false if you want to disable sending the message </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  645</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  649</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00817">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00837">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00827">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00832">ScriptMgr::OnPlayerCanUseChat()</a>, and <a class="el" href="../../#l00822">ScriptMgr::OnPlayerCanUseChat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00822">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00842">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00832">ScriptMgr::OnPlayerCanUseChat()</a>, <a class="el" href="../../#l00837">ScriptMgr::OnPlayerCanUseChat()</a>, and <a class="el" href="../../#l00827">ScriptMgr::OnPlayerCanUseChat()</a>.</p>
 
 </div>
 </div>
@@ -4481,7 +4483,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the message, false if you want to disable sending the message </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  697</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  701</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4549,7 +4551,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the message, false if you want to disable sending the message </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  671</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  675</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4617,7 +4619,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the message, false if you want to disable sending the message </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  684</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  688</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4685,7 +4687,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the message, false if you want to disable sending the message </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  658</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  662</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4728,9 +4730,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  579</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  583</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00702">ScriptMgr::OnPlayerCanUseItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00707">ScriptMgr::OnPlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
@@ -4781,9 +4783,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../de/dbb/classChatLogScript.html#a9dc39835aac01da34c57c420fc82790e">ChatLogScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  302</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  306</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00167">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00192">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00182">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00187">ScriptMgr::OnPlayerChat()</a>, and <a class="el" href="../../#l00177">ScriptMgr::OnPlayerChat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00197">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00187">ScriptMgr::OnPlayerChat()</a>, <a class="el" href="../../#l00192">ScriptMgr::OnPlayerChat()</a>, and <a class="el" href="../../#l00182">ScriptMgr::OnPlayerChat()</a>.</p>
 
 </div>
 </div>
@@ -4840,7 +4842,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../de/dbb/classChatLogScript.html#a9962307a0e073ee3f5e7139f059e01b8">ChatLogScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  312</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  316</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4897,7 +4899,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../de/dbb/classChatLogScript.html#a64e047261c3d3de22614950c6b6f6f79">ChatLogScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  308</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  312</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4954,7 +4956,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../de/dbb/classChatLogScript.html#ac9a4dc6a35325a87c69f08f50a26750c">ChatLogScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  310</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  314</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -5011,7 +5013,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../de/dbb/classChatLogScript.html#af6e61405ba6642fa451465e27c4b47d8">ChatLogScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  306</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  310</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -5066,9 +5068,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  589</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  593</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00727">ScriptMgr::OnPlayerCheckItemInSlotAtLoadInventory()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00732">ScriptMgr::OnPlayerCheckItemInSlotAtLoadInventory()</a>.</p>
 
 </div>
 </div>
@@ -5107,7 +5109,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f">QuestApprenticeAnglerPlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  238</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  239</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00037">ScriptMgr::OnPlayerCompleteQuest()</a>.</p>
 
@@ -5138,9 +5140,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../d8/d12/classCharacterActionIpLogger.html#a48844efac9d9af9c6415ad49d2473688">CharacterActionIpLogger</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  335</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  339</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00242">ScriptMgr::OnPlayerCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00247">ScriptMgr::OnPlayerCreate()</a>.</p>
 
 </div>
 </div>
@@ -5183,9 +5185,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  428</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  432</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00382">ScriptMgr::OnPlayerCreateItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00387">ScriptMgr::OnPlayerCreateItem()</a>.</p>
 
 </div>
 </div>
@@ -5222,7 +5224,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  247</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  248</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00082">ScriptMgr::OnPlayerCreatureKill()</a>.</p>
 
@@ -5261,7 +5263,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  250</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  251</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00087">ScriptMgr::OnPlayerCreatureKilledByPet()</a>.</p>
 
@@ -5300,9 +5302,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  380</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  384</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00317">ScriptMgr::OnPlayerCriteriaProgress()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00322">ScriptMgr::OnPlayerCriteriaProgress()</a>.</p>
 
 </div>
 </div>
@@ -5351,9 +5353,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  389</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  393</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00327">ScriptMgr::OnPlayerCriteriaSave()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00332">ScriptMgr::OnPlayerCriteriaSave()</a>.</p>
 
 </div>
 </div>
@@ -5420,9 +5422,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  551</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  555</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00632">ScriptMgr::OnPlayerCustomScalingStatValue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00637">ScriptMgr::OnPlayerCustomScalingStatValue()</a>.</p>
 
 </div>
 </div>
@@ -5477,9 +5479,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  549</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  553</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00627">ScriptMgr::OnPlayerCustomScalingStatValueBefore()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00632">ScriptMgr::OnPlayerCustomScalingStatValueBefore()</a>.</p>
 
 </div>
 </div>
@@ -5518,9 +5520,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005">CharacterDeleteActionIpLogger</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  338</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  342</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00252">ScriptMgr::OnPlayerDelete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00257">ScriptMgr::OnPlayerDelete()</a>.</p>
 
 </div>
 </div>
@@ -5557,9 +5559,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  508</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  512</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00562">ScriptMgr::OnPlayerDeleteFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00567">ScriptMgr::OnPlayerDeleteFromDB()</a>.</p>
 
 </div>
 </div>
@@ -5602,9 +5604,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  299</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  303</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00162">ScriptMgr::OnPlayerDuelEnd()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00167">ScriptMgr::OnPlayerDuelEnd()</a>.</p>
 
 </div>
 </div>
@@ -5641,9 +5643,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  293</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  297</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00152">ScriptMgr::OnPlayerDuelRequest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00157">ScriptMgr::OnPlayerDuelRequest()</a>.</p>
 
 </div>
 </div>
@@ -5680,9 +5682,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  296</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  300</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00157">ScriptMgr::OnPlayerDuelStart()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00162">ScriptMgr::OnPlayerDuelStart()</a>.</p>
 
 </div>
 </div>
@@ -5719,9 +5721,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  315</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  319</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00197">ScriptMgr::OnPlayerEmote()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptMgr::OnPlayerEmote()</a>.</p>
 
 </div>
 </div>
@@ -5767,9 +5769,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  715</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  719</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00847">ScriptMgr::OnPlayerEnterCombat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00852">ScriptMgr::OnPlayerEnterCombat()</a>.</p>
 
 </div>
 </div>
@@ -5824,9 +5826,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  407</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  411</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00347">ScriptMgr::OnPlayerEquip()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00352">ScriptMgr::OnPlayerEquip()</a>.</p>
 
 </div>
 </div>
@@ -5865,9 +5867,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../dc/d08/classCharacterDeleteActionIpLogger.html#a16bc6247d220c1b6c52808cb4a522c11">CharacterDeleteActionIpLogger</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  341</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  345</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00257">ScriptMgr::OnPlayerFailedDelete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00262">ScriptMgr::OnPlayerFailedDelete()</a>.</p>
 
 </div>
 </div>
@@ -5904,9 +5906,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  602</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  606</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00757">ScriptMgr::OnPlayerFfaPvpStateUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00762">ScriptMgr::OnPlayerFfaPvpStateUpdate()</a>.</p>
 
 </div>
 </div>
@@ -5933,9 +5935,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  469</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  473</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00407">ScriptMgr::OnPlayerFirstLogin()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00412">ScriptMgr::OnPlayerFirstLogin()</a>.</p>
 
 </div>
 </div>
@@ -5972,9 +5974,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  290</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  294</span>{}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00147">ScriptMgr::OnPlayerForgotSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00152">ScriptMgr::OnPlayerForgotSpell()</a>.</p>
 
 </div>
 </div>
@@ -6011,7 +6013,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  259</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  260</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00102">ScriptMgr::OnPlayerFreeTalentPointsChanged()</a>.</p>
 
@@ -6056,9 +6058,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  595</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  599</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00742">ScriptMgr::OnPlayerGetArenaPersonalRating()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00747">ScriptMgr::OnPlayerGetArenaPersonalRating()</a>.</p>
 
 </div>
 </div>
@@ -6101,9 +6103,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  597</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  601</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00747">ScriptMgr::OnPlayerGetArenaTeamId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00752">ScriptMgr::OnPlayerGetArenaTeamId()</a>.</p>
 
 </div>
 </div>
@@ -6158,9 +6160,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  561</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  565</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00657">ScriptMgr::OnPlayerGetFeralApBonus()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00662">ScriptMgr::OnPlayerGetFeralApBonus()</a>.</p>
 
 </div>
 </div>
@@ -6203,9 +6205,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  416</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  420</span>{}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00362">ScriptMgr::OnPlayerGetMaxPersonalArenaRatingRequirement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00367">ScriptMgr::OnPlayerGetMaxPersonalArenaRatingRequirement()</a>.</p>
 
 </div>
 </div>
@@ -6254,9 +6256,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  514</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  518</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00587">ScriptMgr::OnPlayerGetMaxSkillValue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00592">ScriptMgr::OnPlayerGetMaxSkillValue()</a>.</p>
 
 </div>
 </div>
@@ -6293,9 +6295,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  606</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  610</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00767">ScriptMgr::OnPlayerGetMaxSkillValueForLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00772">ScriptMgr::OnPlayerGetMaxSkillValueForLevel()</a>.</p>
 
 </div>
 </div>
@@ -6332,9 +6334,60 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  585</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  589</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00717">ScriptMgr::OnPlayerGetQuestRate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00722">ScriptMgr::OnPlayerGetQuestRate()</a>.</p>
+
+</div>
+</div>
+<a id="a9c16c9dc1b84759abb159913e3657509" name="a9c16c9dc1b84759abb159913e3657509"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c16c9dc1b84759abb159913e3657509">&#9670;&#160;</a></span>OnPlayerGiveReputation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void PlayerScript::OnPlayerGiveReputation </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d0a/SharedDefines_8h.html#add0e486b240be9a2d1a8d50d397b917c">ReputationSource</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  288</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00142">ScriptMgr::OnPlayerGiveReputation()</a>.</p>
 
 </div>
 </div>
@@ -6383,7 +6436,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  278</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  279</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00127">ScriptMgr::OnPlayerGiveXP()</a>.</p>
 
@@ -6434,7 +6487,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  392</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  396</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00027">ScriptMgr::OnPlayerGossipSelect()</a>.</p>
 
@@ -6491,7 +6544,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  399</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00032">ScriptMgr::OnPlayerGossipSelectCode()</a>.</p>
 
@@ -6548,9 +6601,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  437</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  441</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00397">ScriptMgr::OnPlayerGroupRollRewardItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00402">ScriptMgr::OnPlayerGroupRollRewardItem()</a>.</p>
 
 </div>
 </div>
@@ -6587,9 +6640,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  516</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  520</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00592">ScriptMgr::OnPlayerHasActivePowerType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00597">ScriptMgr::OnPlayerHasActivePowerType()</a>.</p>
 
 </div>
 </div>
@@ -6632,7 +6685,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  512</span>{ <span class="keywordflow">return</span> std::nullopt; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  516</span>{ <span class="keywordflow">return</span> std::nullopt; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -6669,9 +6722,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  599</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  603</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00752">ScriptMgr::OnPlayerIsFFAPvP()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00757">ScriptMgr::OnPlayerIsFFAPvP()</a>.</p>
 
 </div>
 </div>
@@ -6708,9 +6761,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  604</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  608</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00762">ScriptMgr::OnPlayerIsPvP()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00767">ScriptMgr::OnPlayerIsPvP()</a>.</p>
 
 </div>
 </div>
@@ -6737,9 +6790,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  413</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  417</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00357">ScriptMgr::OnPlayerJoinArena()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00362">ScriptMgr::OnPlayerJoinArena()</a>.</p>
 
 </div>
 </div>
@@ -6766,9 +6819,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  410</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  414</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00352">ScriptMgr::OnPlayerJoinBG()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00357">ScriptMgr::OnPlayerJoinBG()</a>.</p>
 
 </div>
 </div>
@@ -6795,7 +6848,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  223</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  224</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00052">ScriptMgr::OnPlayerJustDied()</a>.</p>
 
@@ -6834,7 +6887,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  253</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  254</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00092">ScriptMgr::OnPlayerKilledByCreature()</a>.</p>
 
@@ -6873,9 +6926,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  287</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  291</span>{}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00142">ScriptMgr::OnPlayerLearnSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00147">ScriptMgr::OnPlayerLearnSpell()</a>.</p>
 
 </div>
 </div>
@@ -6935,9 +6988,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  707</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  711</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00842">ScriptMgr::OnPlayerLearnTalents()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00847">ScriptMgr::OnPlayerLearnTalents()</a>.</p>
 
 </div>
 </div>
@@ -6972,9 +7025,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  722</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  726</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00852">ScriptMgr::OnPlayerLeaveCombat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00857">ScriptMgr::OnPlayerLeaveCombat()</a>.</p>
 
 </div>
 </div>
@@ -7013,7 +7066,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../df/d55/classlfg_1_1LFGPlayerScript.html#afd530a2823a7187b49645c9d0625c8ba">lfg::LFGPlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  256</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  257</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00097">ScriptMgr::OnPlayerLevelChanged()</a>.</p>
 
@@ -7042,9 +7095,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  323</span>{ };</div>
+<div class="fragment"><div class="line"><span class="lineno">  327</span>{ };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00227">ScriptMgr::OnPlayerLoadFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00232">ScriptMgr::OnPlayerLoadFromDB()</a>.</p>
 
 </div>
 </div>
@@ -7073,9 +7126,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a">lfg::LFGPlayerScript</a>, <a class="el" href="../../d8/d12/classCharacterActionIpLogger.html#a753ed387ea50eaf4c56846eab33cdfc0">CharacterActionIpLogger</a>, and <a class="el" href="../../d3/d2d/classServerMailReward.html#ada945e805278d54746b6fabaf48b4546">ServerMailReward</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  326</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  330</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00222">ScriptMgr::OnPlayerLogin()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00227">ScriptMgr::OnPlayerLogin()</a>.</p>
 
 </div>
 </div>
@@ -7104,9 +7157,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903">lfg::LFGPlayerScript</a>, and <a class="el" href="../../d8/d12/classCharacterActionIpLogger.html#a3a4bcaf033e71e2dbeddc2ee6528494e">CharacterActionIpLogger</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  332</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  336</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00237">ScriptMgr::OnPlayerLogout()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00242">ScriptMgr::OnPlayerLogout()</a>.</p>
 
 </div>
 </div>
@@ -7155,9 +7208,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  419</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  423</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00367">ScriptMgr::OnPlayerLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00372">ScriptMgr::OnPlayerLootItem()</a>.</p>
 
 </div>
 </div>
@@ -7186,7 +7239,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c">lfg::LFGPlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  356</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  360</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00184">ScriptMgr::OnPlayerEnterMap()</a>.</p>
 
@@ -7225,7 +7278,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  272</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  273</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00117">ScriptMgr::OnPlayerMoneyChanged()</a>.</p>
 
@@ -7276,9 +7329,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  591</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  595</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00732">ScriptMgr::OnPlayerNotAvoidSatisfy()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00737">ScriptMgr::OnPlayerNotAvoidSatisfy()</a>.</p>
 
 </div>
 </div>
@@ -7327,9 +7380,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  608</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; } <span class="comment">// Whats that?</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  612</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; } <span class="comment">// Whats that?</span></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00772">ScriptMgr::OnPlayerNotSetArenaTeamInfoField()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00777">ScriptMgr::OnPlayerNotSetArenaTeamInfoField()</a>.</p>
 
 </div>
 </div>
@@ -7366,9 +7419,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  593</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; } <span class="comment">// Whats that?</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  597</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; } <span class="comment">// Whats that?</span></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00737">ScriptMgr::OnPlayerNotVisibleGloballyFor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00742">ScriptMgr::OnPlayerNotVisibleGloballyFor()</a>.</p>
 
 </div>
 </div>
@@ -7423,9 +7476,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  587</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  591</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00722">ScriptMgr::OnPlayerPassedQuestKilledMonsterCredit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00727">ScriptMgr::OnPlayerPassedQuestKilledMonsterCredit()</a>.</p>
 
 </div>
 </div>
@@ -7480,9 +7533,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  500</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  504</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00542">ScriptMgr::OnPlayerPetitionBuy()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00547">ScriptMgr::OnPlayerPetitionBuy()</a>.</p>
 
 </div>
 </div>
@@ -7537,9 +7590,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  502</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  506</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00547">ScriptMgr::OnPlayerPetitionShowList()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00552">ScriptMgr::OnPlayerPetitionShowList()</a>.</p>
 
 </div>
 </div>
@@ -7576,7 +7629,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  244</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  245</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00077">ScriptMgr::OnPlayerPVPFlagChange()</a>.</p>
 
@@ -7615,7 +7668,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  241</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00072">ScriptMgr::OnPlayerPVPKill()</a>.</p>
 
@@ -7663,9 +7716,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  730</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  734</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00857">ScriptMgr::OnPlayerQuestAbandon()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00862">ScriptMgr::OnPlayerQuestAbandon()</a>.</p>
 
 </div>
 </div>
@@ -7708,9 +7761,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  446</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  450</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00487">ScriptMgr::OnPlayerQuestComputeXP()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00492">ScriptMgr::OnPlayerQuestComputeXP()</a>.</p>
 
 </div>
 </div>
@@ -7753,9 +7806,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  431</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  435</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00387">ScriptMgr::OnPlayerQuestRewardItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00392">ScriptMgr::OnPlayerQuestRewardItem()</a>.</p>
 
 </div>
 </div>
@@ -7792,9 +7845,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  368</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  372</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00292">ScriptMgr::OnPlayerQueueRandomDungeon()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00297">ScriptMgr::OnPlayerQueueRandomDungeon()</a>.</p>
 
 </div>
 </div>
@@ -7821,7 +7874,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  229</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  230</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00062">ScriptMgr::OnPlayerReleasedGhost()</a>.</p>
 
@@ -7860,9 +7913,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  371</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  375</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00297">ScriptMgr::OnPlayerRemoveFromBattleground()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00302">ScriptMgr::OnPlayerRemoveFromBattleground()</a>.</p>
 
 </div>
 </div>
@@ -7911,7 +7964,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  282</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00132">ScriptMgr::OnPlayerReputationChange()</a>.</p>
 
@@ -7968,7 +8021,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  284</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  285</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00137">ScriptMgr::OnPlayerReputationRankChange()</a>.</p>
 
@@ -8013,9 +8066,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  630</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  634</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00807">ScriptMgr::OnPlayerResurrect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00812">ScriptMgr::OnPlayerResurrect()</a>.</p>
 
 </div>
 </div>
@@ -8064,9 +8117,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  504</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  508</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00552">ScriptMgr::OnPlayerRewardKillRewarder()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00557">ScriptMgr::OnPlayerRewardKillRewarder()</a>.</p>
 
 </div>
 </div>
@@ -8093,9 +8146,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  344</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  348</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00247">ScriptMgr::OnPlayerSave()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00252">ScriptMgr::OnPlayerSave()</a>.</p>
 
 </div>
 </div>
@@ -8132,7 +8185,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  232</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  233</span>{}</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00042">ScriptMgr::OnPlayerSendInitialPacketsBeforeAddToMap()</a>.</p>
 
@@ -8187,9 +8240,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  805</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  809</span>{}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00923">ScriptMgr::OnPlayerSendListInventory()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00928">ScriptMgr::OnPlayerSendListInventory()</a>.</p>
 
 </div>
 </div>
@@ -8226,9 +8279,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  471</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  475</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00412">ScriptMgr::OnPlayerSetMaxLevel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">ScriptMgr::OnPlayerSetMaxLevel()</a>.</p>
 
 </div>
 </div>
@@ -8271,9 +8324,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  626</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  630</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00797">ScriptMgr::OnPlayerSetServerSideVisibility()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00802">ScriptMgr::OnPlayerSetServerSideVisibility()</a>.</p>
 
 </div>
 </div>
@@ -8316,9 +8369,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  628</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  632</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00802">ScriptMgr::OnPlayerSetServerSideVisibilityDetect()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00807">ScriptMgr::OnPlayerSetServerSideVisibilityDetect()</a>.</p>
 
 </div>
 </div>
@@ -8345,9 +8398,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  474</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  478</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00422">ScriptMgr::OnPlayerShouldBeRewardedWithMoneyInsteadOfExp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00427">ScriptMgr::OnPlayerShouldBeRewardedWithMoneyInsteadOfExp()</a>.</p>
 
 </div>
 </div>
@@ -8390,9 +8443,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  320</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  324</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00207">ScriptMgr::OnPlayerSpellCast()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00212">ScriptMgr::OnPlayerSpellCast()</a>.</p>
 
 </div>
 </div>
@@ -8435,9 +8488,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  425</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  429</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00377">ScriptMgr::OnPlayerStoreNewItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00382">ScriptMgr::OnPlayerStoreNewItem()</a>.</p>
 
 </div>
 </div>
@@ -8474,7 +8527,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  262</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  263</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00107">ScriptMgr::OnPlayerTalentsReset()</a>.</p>
 
@@ -8525,9 +8578,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  317</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  321</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptMgr::OnPlayerTextEmote()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00207">ScriptMgr::OnPlayerTextEmote()</a>.</p>
 
 </div>
 </div>
@@ -8564,9 +8617,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  269</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  270</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00217">ScriptMgr::OnPlayerUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00222">ScriptMgr::OnPlayerUpdate()</a>.</p>
 
 </div>
 </div>
@@ -8609,9 +8662,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  353</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  357</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00272">ScriptMgr::OnPlayerUpdateArea()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00277">ScriptMgr::OnPlayerUpdateArea()</a>.</p>
 
 </div>
 </div>
@@ -8671,9 +8724,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  539</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  543</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00602">ScriptMgr::OnPlayerUpdateCraftingSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00607">ScriptMgr::OnPlayerUpdateCraftingSkill()</a>.</p>
 
 </div>
 </div>
@@ -8700,9 +8753,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  362</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  366</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00282">ScriptMgr::OnPlayerUpdateFaction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00287">ScriptMgr::OnPlayerUpdateFaction()</a>.</p>
 
 </div>
 </div>
@@ -8757,9 +8810,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  541</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  545</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00607">ScriptMgr::OnPlayerUpdateFishingSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00612">ScriptMgr::OnPlayerUpdateFishingSkill()</a>.</p>
 
 </div>
 </div>
@@ -8840,9 +8893,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  529</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  533</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00597">ScriptMgr::OnPlayerUpdateGatheringSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00602">ScriptMgr::OnPlayerUpdateGatheringSkill()</a>.</p>
 
 </div>
 </div>
@@ -8903,9 +8956,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  777</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  781</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00908">ScriptMgr::OnPlayerUpdateSkill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00913">ScriptMgr::OnPlayerUpdateSkill()</a>.</p>
 
 </div>
 </div>
@@ -8950,9 +9003,9 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented in <a class="el" href="../../dc/db1/classMidsummerPlayerScript.html#af512e1744264ac69fe2b7f7ba3836760">MidsummerPlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  350</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  354</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00267">ScriptMgr::OnPlayerUpdateZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00272">ScriptMgr::OnPlayerUpdateZone()</a>.</p>
 
 </div>
 </div>
@@ -9007,9 +9060,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  547</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  551</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00622">ScriptMgr::OnPlayerVictimRewardAfter()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00627">ScriptMgr::OnPlayerVictimRewardAfter()</a>.</p>
 
 </div>
 </div>
@@ -9058,9 +9111,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  545</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  549</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00617">ScriptMgr::OnPlayerVictimRewardBefore()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00622">ScriptMgr::OnPlayerVictimRewardBefore()</a>.</p>
 
 </div>
 </div>
@@ -9074,7 +9127,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d5b/classPlayerScript.html">PlayerScript</a></li>
-    <li class="footer">Generated on Wed Aug 27 2025 06:23:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Aug 28 2025 06:24:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -75,7 +75,8 @@ var karazhan_8h =
       [ "NPC_KING_A", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a2c0bd5a88b5fc6411c9c9276acf583bb", null ],
       [ "NPC_CHESS_EVENT_MEDIVH_CHEAT_FIRES", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5aed3483d9cd42f38c8d3b457f61bbd467", null ],
       [ "NPC_INFERNAL_TARGET", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5afb06eb2aad12bf1c4a5e323a5e5714f5", null ],
-      [ "NPC_INFERNAL_RELAY", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a1f4a7517190f8aabb37ea209e3aa8292", null ]
+      [ "NPC_INFERNAL_RELAY", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a1f4a7517190f8aabb37ea209e3aa8292", null ],
+      [ "NPC_TENRIS_MIRKBLOOD", "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a186aa006c64add6b290d47729d7d357c", null ]
     ] ],
     [ "KZDataTypes", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94", [
       [ "DATA_ATTUMEN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641", null ],
@@ -117,7 +118,8 @@ var karazhan_8h =
       [ "DATA_ROAR", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a12cb853d97a6708d8fe0d64a2a546c60", null ],
       [ "DATA_STRAWMAN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214", null ],
       [ "DATA_TINHEAD", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94aba01bea9c161afbbd81c0002f281e048", null ],
-      [ "DATA_TITO", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94aaa1342f4e963af104e5ec4ed23007bca", null ]
+      [ "DATA_TITO", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94aaa1342f4e963af104e5ec4ed23007bca", null ],
+      [ "DATA_MIRKBLOOD", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a9bd5fcbfbfd7a71a2b4068c16b8ec948", null ]
     ] ],
     [ "KZGameObjectIds", "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490", [
       [ "GO_STAGE_CURTAIN", "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a4daae08be1a483e5d7fdfe9e9cef0784", null ],

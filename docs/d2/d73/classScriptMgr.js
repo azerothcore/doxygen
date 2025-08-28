@@ -353,6 +353,7 @@ var classScriptMgr =
     [ "OnPlayerGetMaxSkillValue", "d2/d73/classScriptMgr.html#a8d5980664ef79667d90ab64f656a6020", null ],
     [ "OnPlayerGetMaxSkillValueForLevel", "d2/d73/classScriptMgr.html#a57d719f0bcf7df9ba03b7df6ead8c554", null ],
     [ "OnPlayerGetQuestRate", "d2/d73/classScriptMgr.html#ad84c12ef3faa14e72a646f85c63e4c79", null ],
+    [ "OnPlayerGiveReputation", "d2/d73/classScriptMgr.html#acd2f68eaea8392472e5b04f95409b48e", null ],
     [ "OnPlayerGiveXP", "d2/d73/classScriptMgr.html#a347f957e1c84cbeffc9c5b96d53e356d", null ],
     [ "OnPlayerGossipSelect", "d2/d73/classScriptMgr.html#a1f747172d6f2411e79bac0fd083320f5", null ],
     [ "OnPlayerGossipSelectCode", "d2/d73/classScriptMgr.html#a541408efd51058df1f3db20bc97021b6", null ],

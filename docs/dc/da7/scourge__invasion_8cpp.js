@@ -9,7 +9,6 @@ var scourge__invasion_8cpp =
     [ "npc_necrotic_shard", "db/d14/structnpc__necrotic__shard.html", "db/d14/structnpc__necrotic__shard" ],
     [ "npc_minion_spawner", "de/d72/structnpc__minion__spawner.html", "de/d72/structnpc__minion__spawner" ],
     [ "npc_cultist_engineer", "da/de6/structnpc__cultist__engineer.html", "da/de6/structnpc__cultist__engineer" ],
-    [ "npc_shadow_of_doom", "d4/dd5/structnpc__shadow__of__doom.html", "d4/dd5/structnpc__shadow__of__doom" ],
     [ "npc_flameshocker", "d6/d68/structnpc__flameshocker.html", "d6/d68/structnpc__flameshocker" ],
     [ "npc_pallid_horror", "df/dbd/structnpc__pallid__horror.html", "df/dbd/structnpc__pallid__horror" ],
     [ "npc_pallid_horror::FlameshockerCheck", "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html", "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck" ],
