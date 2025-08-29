@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/de4/classachievement__commandscript.html#ac1c40d7b3b628cc206c44eae18592292":[6,0,46,0],
 "df/de4/classachievement__commandscript.html#ac4f6addfb0c52d584bf8081436aa3d7a":[6,0,46,2],
 "df/de4/classachievement__commandscript.html#adeac4e6f74f006daa76b0ebb8ea1469c":[6,0,46,1],
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a977c51cebd1160d7d64f733adf19a658":[7,0,0,0,1,3,5,6,1,15,10],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e4ea3125a97235bd26fe6a91e15e943":[7,0,0,0,1,3,5,6,1,15,2],
 "df/df3/classboss__vaelastrasz.html":[6,0,757],
-"df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,757,1],
-"df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,757,2]
+"df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,757,1]
 };

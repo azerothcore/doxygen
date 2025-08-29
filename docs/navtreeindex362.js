@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d5e/ObjectAccessor_8cpp.html#a9c5298580060e7a6078ffb5f4008c549":[7,0,0,0,1,2,18,0,4],
 "de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[7,0,0,0,1,2,18,0,5],
 "de/d5e/classGridTerrainData.html":[6,0,1225],
-"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[6,0,1225,16],
-"de/d5e/classGridTerrainData.html#a1269f47abd6faf5304494c85628bb961":[6,0,1225,4]
+"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[6,0,1225,16]
 };

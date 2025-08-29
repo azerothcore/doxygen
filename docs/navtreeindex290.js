@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/dc1/classspell__dk__spell__deflection.html#a0e88abc0dfc1f0aa5c52f3602f99d45a":[6,0,2790,1],
 "db/dc1/classspell__dk__spell__deflection.html#a31091ef6a0d39e1d498420a85f6c84fa":[6,0,2790,5],
 "db/dc1/classspell__dk__spell__deflection.html#a760b72149ee11ad88e290c9537b3094b":[6,0,2790,3],
 "db/dc1/classspell__dk__spell__deflection.html#ab7eae0747736dea5633ef51eb0945fae":[6,0,2790,2],
@@ -174,12 +175,12 @@ var NAVTREEINDEX290 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2695,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3661],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dce/classAura.html#a6577a1543d871da43ab8b015f67d4150":[6,0,280,41],
 "db/dce/classAura.html#a66f71f0ac319d34ae8cbe5bc4b4bcfb7":[6,0,280,51],
 "db/dce/classAura.html#a6890e111fba863b7163fa5eb0b0870f5":[6,0,280,79],
-"db/dce/classAura.html#a69b589a7414d5d73ed75d12d5ba736ef":[6,0,280,96],
-"db/dce/classAura.html#a6ee04786fcd54da7e3e2b7a0277adeb8":[6,0,280,65]
+"db/dce/classAura.html#a69b589a7414d5d73ed75d12d5ba736ef":[6,0,280,96]
 };

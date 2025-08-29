@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d98/classspell__voa__overcharge__aura.html#a9453aa189ba53de3d89bbab183927cfc":[6,0,3951,1],
 "da/d98/instance__sethekk__halls_8cpp.html":[7,0,0,0,1,3,7,0,2,3],
 "da/d98/instance__sethekk__halls_8cpp.html#a14325c1667938972a51bf364b00fe3c3":[7,0,0,0,1,3,7,0,2,3,2],
 "da/d98/instance__sethekk__halls_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,7,0,2,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a1926a7ae3a01665143776b73cc14a69e":[7,0,0,0,1,3,7,13,45],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a1926a7ae3a01665143776b73cc14a69ea858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,7,13,45,1],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a1926a7ae3a01665143776b73cc14a69eadf43d003a14e71c42d8231786a77106e":[7,0,0,0,1,3,7,13,45,0],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff":[7,0,0,0,1,3,7,13,50],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a291915ace633b26b8dce599d6e9ee70d":[7,0,0,0,1,3,7,13,47]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a1d25fd6452855fb4166558c34940caff":[7,0,0,0,1,3,7,13,50]
 };

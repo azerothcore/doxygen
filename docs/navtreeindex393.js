@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/da7/classBattleground.html#a9a5551f10d103e391d51fca86d9ad981":[6,0,313,113],
 "df/da7/classBattleground.html#a9c39a4d3428e17e8fa80623138bca63a":[6,0,313,233],
 "df/da7/classBattleground.html#a9ca766a1b4618dbabc6accbbf99de892":[6,0,313,121],
 "df/da7/classBattleground.html#a9cb3765aa8a79a83e1402d60835c0ae8":[6,0,313,85],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,31,7,6,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,31,7,6,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,7,6,0],
-"df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
-"df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5]
+"df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3]
 };

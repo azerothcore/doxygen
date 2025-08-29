@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/d3b/structGameObjectTemplate.html#abaa8305304efc7c2b2c4e34e193b7f49":[6,0,1088,116],
 "dd/d3b/structGameObjectTemplate.html#abaca379bf55b3a1d2843b24dc193ddf3":[6,0,1088,52],
 "dd/d3b/structGameObjectTemplate.html#abc044a33c919fe62357529acaa86db8a":[6,0,1088,123],
 "dd/d3b/structGameObjectTemplate.html#abce6b163842d2c417ec037578cb30bc5":[6,0,1088,37],
@@ -84,16 +85,16 @@ var NAVTREEINDEX325 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,458,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,458,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,458,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d4d/classspell__sha__feral__spirit__scaling.html":[6,0,3777],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a35d58947074659d2692877dfcf13e4bd":[6,0,3777,0],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a527213b389be9b1953f423ae84eb16ee":[6,0,3777,3],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[6,0,3777,7],
-"dd/d4d/classspell__sha__feral__spirit__scaling.html#a82067899470366c2cbf21bba08061ce1":[6,0,3777,2]
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[6,0,3777,7]
 };

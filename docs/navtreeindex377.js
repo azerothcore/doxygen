@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[6,0,11,20,4],
 "de/df7/classWorldPackets_1_1Packet.html#a2ca1e6377bb2fb10bf042311e72eb5d4":[5,0,31,20,1],
 "de/df7/classWorldPackets_1_1Packet.html#a2ca1e6377bb2fb10bf042311e72eb5d4":[6,0,11,20,1],
 "de/df7/classWorldPackets_1_1Packet.html#a316af2b7ce1ac7189fb1e57f534bad11":[5,0,31,20,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[7,0,0,0,1,2,16,5,7,2,1],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[6,0,3617],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[6,0,3617,0],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3617,2],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#ac1aacfbd71224d80eaed0b9a76ff673f":[6,0,3617,1]
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3617,2]
 };

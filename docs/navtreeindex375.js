@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[6,0,2759,0],
 "de/ddc/classIgbExplosionCheck.html":[6,0,1282],
 "de/ddc/classIgbExplosionCheck.html#a28ce6685366e99db2aa1e4022012f943":[6,0,1282,1],
 "de/ddc/classIgbExplosionCheck.html#a413ee8f2218621d274d118aea967dc9b":[6,0,1282,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[7,0,0,0,0,9,10,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[7,0,0,0,0,9,10,0,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[7,0,0,0,0,9,10,0,5],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[7,0,0,0,0,9,10,0,4],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[7,0,0,0,0,9,10,0,1]
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[7,0,0,0,0,9,10,0,4]
 };

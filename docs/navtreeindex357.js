@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2290,1],
 "de/d23/structnpc__winterfin__playmate.html#a8e04dc18ee8a6d9412cd574994908eb6":[6,0,2290,3],
 "de/d23/structnpc__winterfin__playmate.html#a9189bf7b93e7c46e559c22f3504f919f":[6,0,2290,4],
 "de/d23/structnpc__winterfin__playmate.html#a9c07fb9115c21ba5c3ef7459662e8f38":[6,0,2290,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3844,2],
 "de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,30],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[7,0,0,0,1,2,16,1,2,36],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea010139a112a534bdec268292ffb51a56":[7,0,0,0,1,2,16,1,2,36,13]
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[7,0,0,0,1,2,16,1,2,36]
 };

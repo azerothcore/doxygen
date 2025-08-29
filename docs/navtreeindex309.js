@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,6,0],
 "dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,5,8],
 "dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aabc6c3d94a26fb54873e0b776c36bfe3":[7,0,0,0,1,3,5,7,5,8,2],
 "dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abdefdaaa767f3271b85dae75d4a3f920":[7,0,0,0,1,3,5,7,5,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d82/cs__modify_8cpp.html":[7,0,0,0,1,3,0,31],
 "dc/d82/cs__modify_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[7,0,0,0,1,3,0,31,1],
 "dc/d82/structChampionPosition.html":[6,0,845],
-"dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602":[6,0,845,0],
-"dc/d82/structChampionPosition.html#ac4e55af666e269440953ced038c1a8de":[6,0,845,1]
+"dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602":[6,0,845,0]
 };

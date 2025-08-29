@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,9,5,3,1],
 "df/d9a/boss__sartura_8cpp.html#a556546807d4e4becfb941d281628e053":[7,0,0,0,1,3,4,9,5,5],
 "df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,5,4],
 "df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca1027812f467c97821d58530e30688f8d":[7,0,0,0,1,3,4,9,5,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[6,0,3749],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[6,0,3749,1],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a7009dd0e842898d03caa89e92447749d":[6,0,3749,0],
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a8f21cb8ab1145fe32a78a682445cfc2d":[6,0,3749,2],
-"df/da2/Battlefield_8h.html":[7,0,0,0,1,2,7,2]
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a8f21cb8ab1145fe32a78a682445cfc2d":[6,0,3749,2]
 };

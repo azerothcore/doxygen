@@ -1,9 +1,9 @@
 var NAVTREEINDEX188 =
 {
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[5,0,31,5,34,5],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[6,0,11,5,34,5],
-"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#ad8efc926197e955ed0cf8df6a74b41e8":[5,0,31,5,34,3],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#a7e748a70029e867ba8c90eaba85bf8c9":[5,0,31,5,34,5],
 "d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#ad8efc926197e955ed0cf8df6a74b41e8":[6,0,11,5,34,3],
+"d7/d41/classWorldPackets_1_1Guild_1_1GuildInfoResponse.html#ad8efc926197e955ed0cf8df6a74b41e8":[5,0,31,5,34,3],
 "d7/d42/classnpc__ulduar__hodir__druid.html":[6,0,2231],
 "d7/d42/classnpc__ulduar__hodir__druid.html#a07809d61d55756a847467043b0e90989":[6,0,2231,1],
 "d7/d42/classnpc__ulduar__hodir__druid.html#a4b0503e20bf8caddf0ea544a88124263":[6,0,2231,2],

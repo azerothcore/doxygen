@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f":[6,0,4097,55],
 "df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[6,0,4097,27],
 "df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[6,0,4097,25],
 "df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590":[6,0,4097,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d9a/boss__sartura_8cpp.html":[7,0,0,0,1,3,4,9,5],
 "df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,4,9,5,3],
 "df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,9,5,3,2],
-"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,9,5,3,0],
-"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,9,5,3,1]
+"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,9,5,3,0]
 };

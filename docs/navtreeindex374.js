@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,293,7],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,1,2,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/dd9/AccountMgr_8h.html#af911e3860ec519c541d6df35468ee41b":[7,0,0,0,1,2,0,1,12],
 "de/dd9/classspell__dk__chains__of__ice__aura.html":[6,0,2759],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[6,0,2759,2],
-"de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[6,0,2759,1],
-"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[6,0,2759,0]
+"de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[6,0,2759,1]
 };

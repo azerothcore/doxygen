@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,9,2,2,17,6],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a3cdabed1d90c5eaa45abee7216a65a1e":[7,0,0,0,1,3,5,9,2,2,17,17],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a415c96ddc3f8a5d5e6df0d8f118c8bbd":[7,0,0,0,1,3,5,9,2,2,17,8],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a59dd5d05068d70e5ebc195ae8dcd560b":[7,0,0,0,1,3,5,9,2,2,17,5],
@@ -156,10 +157,10 @@ var NAVTREEINDEX272 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,22,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,22,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,22,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "db/d0b/TerrainBuilder_8h.html":[7,0,0,0,3,2,7],
 "db/d0b/TerrainBuilder_8h.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[7,0,0,0,3,2,7,5],
 "db/d0b/TerrainBuilder_8h.html#a26a6da9ce81eb096651bf47cb90f947f":[7,0,0,0,3,2,7,7],
-"db/d0b/TerrainBuilder_8h.html#a32c90e1638c0f8693e2fc95201d2ec3f":[7,0,0,0,3,2,7,10],
-"db/d0b/TerrainBuilder_8h.html#a39bc2d4fa649e77addef85b06c49b369":[7,0,0,0,3,2,7,4]
+"db/d0b/TerrainBuilder_8h.html#a32c90e1638c0f8693e2fc95201d2ec3f":[7,0,0,0,3,2,7,10]
 };

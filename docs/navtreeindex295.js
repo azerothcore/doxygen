@@ -1,11 +1,12 @@
 var NAVTREEINDEX295 =
 {
-"db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[5,0,31,23,6],
+"db/de2/classWorldPackets_1_1String.html#aa1ebd4ac4d40d582d707f04d09187ade":[6,0,11,23,7],
 "db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[6,0,11,23,6],
-"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[5,0,31,23,9],
+"db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[5,0,31,23,6],
 "db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[6,0,11,23,9],
-"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[5,0,31,23,3],
+"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[5,0,31,23,9],
 "db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[6,0,11,23,3],
+"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[5,0,31,23,3],
 "db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[5,0,31,23,8],
 "db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[6,0,11,23,8],
 "db/de2/structPoolObject.html":[6,0,2434],
@@ -91,8 +92,8 @@ var NAVTREEINDEX295 =
 "db/de7/loadlib_8cpp.html":[7,0,0,0,3,1,5],
 "db/de7/loadlib_8cpp.html#a076cdc3e61f69e52913492840fc864cf":[7,0,0,0,3,1,5,1],
 "db/de7/loadlib_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,5,0],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[5,0,1,8,11],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[6,0,0,5,11],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[5,0,1,8,11],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[6,0,0,5,11,3],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[5,0,1,8,11,3],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[5,0,1,8,11,7],
@@ -101,10 +102,10 @@ var NAVTREEINDEX295 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[5,0,1,8,11,2],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[5,0,1,8,11,5],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[6,0,0,5,11,5],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[6,0,0,5,11,6],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[5,0,1,8,11,6],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[6,0,0,5,11,8],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[6,0,0,5,11,6],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,1,8,11,8],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[6,0,0,5,11,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,1,8,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[6,0,0,5,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX295 =
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491":[7,0,0,0,1,3,9,3,30,26],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[7,0,0,0,1,3,9,3,30,19],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[7,0,0,0,1,3,9,3,30,12],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1":[7,0,0,0,1,3,9,3,30,9],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332":[7,0,0,0,1,3,9,3,30,17]
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1":[7,0,0,0,1,3,9,3,30,9]
 };

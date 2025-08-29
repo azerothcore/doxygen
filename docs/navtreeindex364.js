@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5":[6,0,1976,0,4],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1976,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1976,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1976,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[5,0,18,48,4],
 "de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[5,0,18,36],
 "de/d72/structnpc__minion__spawner.html":[6,0,1971],
-"de/d72/structnpc__minion__spawner.html#a007376c8f66a3963651f81ddd14cbbfc":[6,0,1971,1],
-"de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[6,0,1971,3]
+"de/d72/structnpc__minion__spawner.html#a007376c8f66a3963651f81ddd14cbbfc":[6,0,1971,1]
 };

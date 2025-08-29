@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1886,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1886,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1886,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a5d4b4c94062db7601fdc918f9727e03b":[6,0,716,0,13],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a7808767e79ebe4c5ac784ff7a32874f6":[6,0,716,0,1],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a86f376743055f99c066ad1a7c960b6c7":[6,0,716,0,7],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#a9c6fca6d70c7c53048b137b7d8cc0861":[6,0,716,0,6],
-"db/d33/structboss__svala_1_1boss__svalaAI.html#aa85b0d305074d0df887fbb7ba42a3b20":[6,0,716,0,2]
+"db/d33/structboss__svala_1_1boss__svalaAI.html#a9c6fca6d70c7c53048b137b7d8cc0861":[6,0,716,0,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da83f8445950e606075c4caaf6ca8e4ae3":[7,0,0,0,1,3,5,6,4,55,6],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9350ba008dc9d60086d570289e1b5bcb":[7,0,0,0,1,3,5,6,4,55,7],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9a3390a370dc386262db6857adddea15":[7,0,0,0,1,3,5,6,4,55,19],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207":[7,0,0,0,1,3,5,6,4,55,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/de3/structPowerDisplayEntry.html#a44532f8af054ae5224f5e816c3c9a8a7":[6,0,2440,0],
 "df/de3/structPowerDisplayEntry.html#ab6c17a5a3ba9f2f3a8fac125104703c4":[6,0,2440,1],
 "df/de4/classachievement__commandscript.html":[6,0,46],
-"df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be":[6,0,46,3],
-"df/de4/classachievement__commandscript.html#ac1c40d7b3b628cc206c44eae18592292":[6,0,46,0]
+"df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be":[6,0,46,3]
 };

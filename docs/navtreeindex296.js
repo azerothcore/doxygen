@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332":[7,0,0,0,1,3,9,3,30,17],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd":[7,0,0,0,1,3,9,3,30,16],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac":[7,0,0,0,1,3,9,3,30,24],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034":[7,0,0,0,1,3,9,3,30,22],
@@ -29,8 +30,8 @@ var NAVTREEINDEX296 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "db/dfa/classnpc__drakuru__shackles.html#a90ce98de4630771858cd3b79264a28f9":[6,0,1754,2],
 "db/dfb/classspell__arcane__chains__character__force__cast.html":[6,0,2616],
 "db/dfb/classspell__arcane__chains__character__force__cast.html#a23d220613a4133e01fb3d7cbacb3aa1c":[6,0,2616,0],
-"db/dfb/classspell__arcane__chains__character__force__cast.html#a73b5af95ee4f593337c3803574d190db":[6,0,2616,1],
-"db/dfb/classspell__arcane__chains__character__force__cast.html#a930de2343532feb50b86304f32269e4c":[6,0,2616,2]
+"db/dfb/classspell__arcane__chains__character__force__cast.html#a73b5af95ee4f593337c3803574d190db":[6,0,2616,1]
 };

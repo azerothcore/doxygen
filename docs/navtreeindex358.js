@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea010139a112a534bdec268292ffb51a56":[7,0,0,0,1,2,16,1,2,36,13],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018":[7,0,0,0,1,2,16,1,2,36,4],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5":[7,0,0,0,1,2,16,1,2,36,32],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f":[7,0,0,0,1,2,16,1,2,36,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46acff4812164f58422db79307db4bbe715":[7,0,0,0,1,2,41,9,60,18],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad01a7209b4b575624baa5781038d973e":[7,0,0,0,1,2,41,9,60,22],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad0f376666fe646253e445dedfae7753f":[7,0,0,0,1,2,41,9,60,11],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46add860fda4804b0ef5944fa5d5d54c508":[7,0,0,0,1,2,41,9,60,13],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466":[7,0,0,0,1,2,41,9,60,6]
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46add860fda4804b0ef5944fa5d5d54c508":[7,0,0,0,1,2,41,9,60,13]
 };

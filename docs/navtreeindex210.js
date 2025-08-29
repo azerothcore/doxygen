@@ -1,5 +1,6 @@
 var NAVTREEINDEX210 =
 {
+"d8/d17/ObjectAccessor_8h.html#a6639665d2704cbd06727004567caac15":[7,0,0,0,1,2,18,1,18],
 "d8/d17/ObjectAccessor_8h.html#a76097a1f20df3f0e83516b1175a17397":[7,0,0,0,1,2,18,1,10],
 "d8/d17/ObjectAccessor_8h.html#a76e4ca902836751980d6157a3eed7967":[7,0,0,0,1,2,18,1,13],
 "d8/d17/ObjectAccessor_8h.html#a868ecab21b3e6e3ac68beed32f4ea793":[7,0,0,0,1,2,18,1,16],
@@ -166,10 +167,10 @@ var NAVTREEINDEX210 =
 "d8/d20/SpellAuras_8h.html":[7,0,0,0,1,2,41,0,4],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[6,0,0,47],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,1,59],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,1,59,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[6,0,0,47,3],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[6,0,0,47,0],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,1,59,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[5,0,1,59,0],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[6,0,0,47,0],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[5,0,1,59,2],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[6,0,0,47,2],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#aa45be322836be588d8df2b253a22ee5c":[6,0,0,47,5],
@@ -213,8 +214,8 @@ var NAVTREEINDEX210 =
 "d8/d25/classspell__icc__harvest__blight__specimen.html#ac9b2786ba2dbb8d1c74af05153bb0a6f":[6,0,3136,2],
 "d8/d25/structAcore_1_1PlayerDistWorker.html":[6,0,0,92],
 "d8/d25/structAcore_1_1PlayerDistWorker.html":[5,0,1,104],
-"d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[6,0,0,92,4],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[5,0,1,104,4],
+"d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[6,0,0,92,4],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a2658f12f90953f1057a9377b21824879":[5,0,1,104,2],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a2658f12f90953f1057a9377b21824879":[6,0,0,92,2],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f":[5,0,1,104,5],
@@ -243,11 +244,10 @@ var NAVTREEINDEX210 =
 "d8/d26/classCinematicMgr.html#ae4f473744f0e3ad43ef51dbf30f62f55":[6,0,875,15],
 "d8/d26/classCinematicMgr.html#afa5c37702ecdb71e09e552b92fa5ad71":[6,0,875,6],
 "d8/d26/classCinematicMgr.html#afdcf4c2361f5ce445b1dfc013cf3348d":[6,0,875,7],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html":[5,0,28,9],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html":[6,0,9,9],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html":[5,0,28,9],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[6,0,9,9,3],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[5,0,28,9,3],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[6,0,9,9,4],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[5,0,28,9,4],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[6,0,9,9,0]
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[6,0,9,9,4]
 };

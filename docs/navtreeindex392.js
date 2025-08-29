@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"df/da2/Battlefield_8h.html":[7,0,0,0,1,2,7,2],
 "df/da2/Battlefield_8h.html#a0467dc30f5bb6a1c9ee1487a3aced1a1":[7,0,0,0,1,2,7,2,4],
 "df/da2/Battlefield_8h.html#a3c001cdd2e1b762c5c2bdd6814e59f6c":[7,0,0,0,1,2,7,2,3],
 "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2d":[7,0,0,0,1,2,7,2,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "df/da7/classBattleground.html#a92e6f79cab403a320bb9089b1f85d0a9":[6,0,313,132],
 "df/da7/classBattleground.html#a94a18a6b96492ef2f66fcd2d3fe3475c":[6,0,313,213],
 "df/da7/classBattleground.html#a961cd8ab1362894a64d302d94c705782":[6,0,313,150],
-"df/da7/classBattleground.html#a983c89eabad301bdef23af18e84d4e55":[6,0,313,31],
-"df/da7/classBattleground.html#a9a5551f10d103e391d51fca86d9ad981":[6,0,313,113]
+"df/da7/classBattleground.html#a983c89eabad301bdef23af18e84d4e55":[6,0,313,31]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d1c/classGameObject.html#a3919feec5457bc7665ec57980d42a394":[6,0,1075,169],
 "de/d1c/classGameObject.html#a393c4448650a847fc2a6fff5864eb918":[6,0,1075,99],
 "de/d1c/classGameObject.html#a3a19326e6dc829e75e382ce99bc6b807":[6,0,1075,123],
 "de/d1c/classGameObject.html#a3a807f5b5887c629a6429577e7704ca9":[6,0,1075,160],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#acbbe6667360e5bb7576c1ea741c2e2f1":[6,0,2232,0,8],
 "de/d23/structnpc__winterfin__playmate.html":[6,0,2290],
 "de/d23/structnpc__winterfin__playmate.html#a0a1051dc971ef393843bd1ba655a2e1b":[6,0,2290,5],
-"de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2290,6],
-"de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2290,1]
+"de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2290,6]
 };

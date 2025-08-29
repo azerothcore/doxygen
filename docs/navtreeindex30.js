@@ -60,10 +60,10 @@ var NAVTREEINDEX30 =
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[5,0,1,2,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[6,0,0,1,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[5,0,1,2,1,1],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[6,0,0,1,1,6],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[5,0,1,2,1,6],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,1,2,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[6,0,0,1,1,6],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[6,0,0,1,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,1,2,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[5,0,1,2,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[6,0,0,1,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[6,0,0,1,1,8],
@@ -247,7 +247,7 @@ var NAVTREEINDEX30 =
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a42052a416290a54d5479a402de578a73":[6,0,3870,0],
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a5f6aa972879b65c0207e47435d436a33":[6,0,3870,1],
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a98efb2a9a68d7878af9d6f9d46db88c9":[6,0,3870,2],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[6,0,0,119],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[5,0,1,131],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[6,0,0,119],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a2b017300220426ac42de18e3a8699219":[5,0,1,131,0]
 };

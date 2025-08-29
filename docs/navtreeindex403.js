@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,757,2],
 "df/df3/structboss__grand__warlock__nethekurse.html":[6,0,507],
 "df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,507,4],
 "df/df3/structboss__grand__warlock__nethekurse.html#a48a2ec7beeb5c9685fc627317acea949":[6,0,507,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "dir_8439b06d1222f15d9722cd90fc7c13a2.html":[7,0,0,0,1,3,2,3],
 "dir_847bfdbe3e0168e0f84c6c83bf557aa9.html":[7,0,0,0,1,3,5,8,0],
 "dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0],
-"dir_87d82bd3a9fae8fbcd48bbc4fd72b131.html":[7,0,0,0,1,3,7,4,2],
-"dir_88c1cbb3e4dc2421ad5fb1ab39bb5c29.html":[7,0,0,0,1,3,7,5,0]
+"dir_87d82bd3a9fae8fbcd48bbc4fd72b131.html":[7,0,0,0,1,3,7,4,2]
 };

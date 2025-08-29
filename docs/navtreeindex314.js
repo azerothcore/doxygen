@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,7,13],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a166f226fccae20bae418e894a1786e67":[7,0,0,0,1,3,2,16,7,13,5],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a17b3f7ce0f4341cf08035090bd0ca78d":[7,0,0,0,1,3,2,16,7,13,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dcb/structnpc__jenny.html":[6,0,1905],
 "dc/dcb/structnpc__jenny.html#a8700091c82bfff473f3d5563deb69e0b":[6,0,1905,1],
 "dc/dcb/structnpc__jenny.html#aa98caf8b706551470c943b4b722a85ae":[6,0,1905,5],
-"dc/dcb/structnpc__jenny.html#aab8c540ebb90ebbaef961b1feb3013a3":[6,0,1905,2],
-"dc/dcb/structnpc__jenny.html#ab845ba4551900a03c5a995d348a1be55":[6,0,1905,0]
+"dc/dcb/structnpc__jenny.html#aab8c540ebb90ebbaef961b1feb3013a3":[6,0,1905,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[7,0,0,0,0,9,10,0,1],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b":[7,0,0,0,0,9,10,0,3],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e":[7,0,0,0,0,9,10,0,2],
 "de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df":[7,0,0,0,0,9,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/df7/classWorldPackets_1_1Packet.html":[5,0,31,20],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,31,20,2],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[6,0,11,20,2],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[5,0,31,20,4],
-"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[6,0,11,20,4]
+"de/df7/classWorldPackets_1_1Packet.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a":[5,0,31,20,4]
 };

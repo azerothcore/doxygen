@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af70d5fd0daf99cf6df9afdd21299d7ca":[7,0,0,0,1,2,16,5,0,4,6,206],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af71d8e97544e4f93b8ca7a4d0b131bd4":[7,0,0,0,1,2,16,5,0,4,6,297],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af737923056e1131b221805d39044aff1":[7,0,0,0,1,2,16,5,0,4,6,34],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af9138329907a77a83a67f7ae92e4c1ba":[7,0,0,0,1,2,16,5,0,4,6,181],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "df/d2a/classboss__sjonnir__dwarf.html#a3589ae3bef1bbfe0fc5381e341c0995b":[6,0,701,1],
 "df/d2a/classboss__sjonnir__dwarf.html#a945d8e753e1a54dc348848b9c2dd6cce":[6,0,701,2],
 "df/d2a/instance__pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,3],
-"df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,5,40]
+"df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2]
 };

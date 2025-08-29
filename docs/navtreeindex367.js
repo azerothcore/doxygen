@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa798d6a1b21d8558d1088ff3a8b29af":[7,0,0,0,1,3,2,16,2,2,2],
 "de/d89/classGridObjectUnloader.html":[6,0,1222],
 "de/d89/classGridObjectUnloader.html#a412c9cbe22dc645c87e002ddb1772a90":[6,0,1222,2],
 "de/d89/classGridObjectUnloader.html#a7624bb11d51edffdc49fc9a95df847ef":[6,0,1222,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[6,0,754,2],
 "de/d98/classspell__gen__teleporting.html":[6,0,3021],
 "de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[6,0,3021,1],
-"de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,3021,2],
-"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,3021,0]
+"de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,3021,2]
 };

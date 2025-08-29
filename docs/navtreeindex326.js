@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a82067899470366c2cbf21bba08061ce1":[6,0,3777,2],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a8aae94d6d6a9ec1fa7d47f88874cce4f":[6,0,3777,8],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#aa333430da4cf3303822d5f048cb9d5a4":[6,0,3777,5],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#ac72434a046c28a4887971cf83d574a6e":[6,0,3777,1],
@@ -228,14 +229,14 @@ var NAVTREEINDEX326 =
 "dd/d5a/LFGGroupData_8cpp.html":[7,0,0,0,1,2,15,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[6,0,9,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html":[5,0,28,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[5,0,28,2,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[6,0,9,2,2],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,28,2,0],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a7c38a60631dc273abcfe930847864315":[5,0,28,2,2],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[6,0,9,2,0],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[6,0,9,2,1],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#a80988ffb9cda6f41e269ba896332e6a1":[5,0,28,2,0],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[5,0,28,2,1],
-"dd/d5a/classVMAP_1_1AreaInfoCallback.html#adb24cb7deeafd42035efb29ad2529b14":[6,0,9,2,3],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#ac53fe7cf79b790f501c8a3dd94cc89ff":[6,0,9,2,1],
 "dd/d5a/classVMAP_1_1AreaInfoCallback.html#adb24cb7deeafd42035efb29ad2529b14":[5,0,28,2,3],
+"dd/d5a/classVMAP_1_1AreaInfoCallback.html#adb24cb7deeafd42035efb29ad2529b14":[6,0,9,2,3],
 "dd/d5a/structBfWGGameObjectBuilding.html":[6,0,349],
 "dd/d5a/structBfWGGameObjectBuilding.html#a038bd5a89eddff137fc085371f9d1888":[6,0,349,19],
 "dd/d5a/structBfWGGameObjectBuilding.html#a1747bf381279251232b35cd8ba47c381":[6,0,349,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d5a/structBfWGGameObjectBuilding.html#a7b87ccb4d91971520b30815edcd478ff":[6,0,349,3],
 "dd/d5a/structBfWGGameObjectBuilding.html#a8b9e5cf4d460576f54df17edcee753d0":[6,0,349,13],
 "dd/d5a/structBfWGGameObjectBuilding.html#a9a921918532376825913b79471ca43b3":[6,0,349,15],
-"dd/d5a/structBfWGGameObjectBuilding.html#aa0783e3ed8e86d3e1761d6a790211c7e":[6,0,349,7],
-"dd/d5a/structBfWGGameObjectBuilding.html#aa503519e630d9b12db5a2d42667dd757":[6,0,349,9]
+"dd/d5a/structBfWGGameObjectBuilding.html#aa0783e3ed8e86d3e1761d6a790211c7e":[6,0,349,7]
 };

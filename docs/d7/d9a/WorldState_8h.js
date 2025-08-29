@@ -112,6 +112,7 @@ var WorldState_8h =
     ] ],
     [ "WorldStateGameEvents", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780", [
       [ "GAME_EVENT_SCOURGE_INVASION", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a35299752ef87a4482d58ec87ff9067ea", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BOSSES", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a625213bc617985b42a09ef37e4e06fda", null ],
       [ "GAME_EVENT_SCOURGE_INVASION_WINTERSPRING", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a42da395d5c683f22aec0cb0c1c8c7528", null ],
       [ "GAME_EVENT_SCOURGE_INVASION_TANARIS", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a585669bddff3e4d441379aa0060d8232", null ],
       [ "GAME_EVENT_SCOURGE_INVASION_AZSHARA", "d7/d9a/WorldState_8h.html#a7f47feca28234245c0857650572c5780a28ebd1b230bb8a2e19b88347b605cf70", null ],

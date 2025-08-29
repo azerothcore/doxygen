@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade121f34c7266b47676bbf62b73c7bb7":[7,0,0,0,1,3,4,9,2,2,6],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c":[7,0,0,0,1,3,4,9,2,2,0],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298caef499934292b1d16edd2de5e85c68913":[7,0,0,0,1,3,4,9,2,2,4],
 "d8/dea/boss__fankriss_8cpp.html#ab70fa8c13a3b5a522080410d24239695":[7,0,0,0,1,3,4,9,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/df8/structABNodeInfo.html#acddac09017717cf5b2893ab83e1d10c8":[6,0,19,6],
 "d8/dfa/classspell__warl__shadowflame.html":[6,0,3989],
 "d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[6,0,3989,1],
-"d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[6,0,3989,0],
-"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[6,0,3989,2]
+"d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[6,0,3989,0]
 };

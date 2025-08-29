@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a76af383762c772ec9e1f0d68573c71b7":[7,0,0,0,1,3,5,9,2,1,26,10],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a7f91c42b0edcfc7c33264b5554420b22":[7,0,0,0,1,3,5,9,2,1,26,16],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a828e7361c168c448546d63839055b64f":[7,0,0,0,1,3,5,9,2,1,26,9],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a8fa3391224de6bc0b96a3cc9402bb093":[7,0,0,0,1,3,5,9,2,1,26,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d98/structboss__magtheridon.html":[6,0,604],
 "d9/d98/structboss__magtheridon.html#a0999e13f434699bb14c2ef6d2467a043":[6,0,604,5],
 "d9/d98/structboss__magtheridon.html#a2871d60efe88d3901bad9a4c5249fcfb":[6,0,604,10],
-"d9/d98/structboss__magtheridon.html#a3015fd8503a0da84e7b78c551587f8a3":[6,0,604,1],
-"d9/d98/structboss__magtheridon.html#a305f71322dbe10e12588ebe0c45eff5f":[6,0,604,9]
+"d9/d98/structboss__magtheridon.html#a3015fd8503a0da84e7b78c551587f8a3":[6,0,604,1]
 };

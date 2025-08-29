@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d33/boss__kirtonos__the__herald_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[7,0,0,0,1,3,2,8,1,2,8],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa0cff2e24288981df143b890a0188259":[7,0,0,0,1,3,2,8,1,2,13],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acc3524cfa31f1a97fd4359b0e48e341f":[7,0,0,0,1,3,2,8,1,2,2],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aee690a541bab975b99af413600e2a65c":[7,0,0,0,1,3,2,8,1,2,3],
@@ -63,8 +64,8 @@ var NAVTREEINDEX324 =
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#abdc105e9306d9abc776259be97e2488f":[6,0,1334,0,5],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#acfc196d008166d7b9da9b85c1ef4521e":[6,0,1334,0,9],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#ad420b6b549b8d76a80844d81548b1143":[6,0,1334,0,3],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,1,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[6,0,0,5,0,31],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,1,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,1,8,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0":[6,0,1088,148],
 "dd/d3b/structGameObjectTemplate.html#ab8cf64793c6d29fbaa50b490b7e68945":[6,0,1088,70],
 "dd/d3b/structGameObjectTemplate.html#ab9dc75f7bed6b6451c8f0eba231dbf31":[6,0,1088,58],
-"dd/d3b/structGameObjectTemplate.html#aba1538c08713a616500b51650896cd5b":[6,0,1088,91],
-"dd/d3b/structGameObjectTemplate.html#abaa8305304efc7c2b2c4e34e193b7f49":[6,0,1088,116]
+"dd/d3b/structGameObjectTemplate.html#aba1538c08713a616500b51650896cd5b":[6,0,1088,91]
 };

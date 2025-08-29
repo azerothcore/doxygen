@@ -1,5 +1,6 @@
 var NAVTREEINDEX279 =
 {
+"db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4":[7,0,0,0,1,3,3,5,7,0],
 "db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa3463fc30e5ad08043418a6e5f000b6ff":[7,0,0,0,1,3,3,5,7,3],
 "db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa744785c8f12f48d39610e310adcf5701":[7,0,0,0,1,3,3,5,7,6],
 "db/d67/love__in__air_8cpp.html#a2b366c81ccbae806e6b8b58cd8ee079aa769171ec0165336918985239833b2033":[7,0,0,0,1,3,3,5,7,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82":[7,0,0,0,1,3,9,4,159],
 "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a4820d604c73df2f6b7e562490fb7dc3f":[7,0,0,0,1,3,9,4,159,2],
 "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a60458e6a34555aedacd2c698b712e448":[7,0,0,0,1,3,9,4,159,4],
-"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82aad688855ef67885dfb51c5a164b3b9b8":[7,0,0,0,1,3,9,4,159,3],
-"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82ab46fe7cd5b66c6e6be5cf8ff4511486b":[7,0,0,0,1,3,9,4,159,1]
+"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82aad688855ef67885dfb51c5a164b3b9b8":[7,0,0,0,1,3,9,4,159,3]
 };

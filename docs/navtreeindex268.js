@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/dd3/structMovementGeneratorFactory.html#af3a494507c8d910bd98bb0989d42ba6f":[6,0,1527,1],
 "da/dd6/structboss__broggok.html":[6,0,403],
 "da/dd6/structboss__broggok.html#a084e3c37a0218d47c8e39b196fc6746a":[6,0,403,2],
 "da/dd6/structboss__broggok.html#a0bf2d75f7889542a9e48689b8d080a1e":[6,0,403,3],
@@ -23,10 +24,10 @@ var NAVTREEINDEX268 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,18,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,18,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,18,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
 "da/dd8/classHashMapHolder.html":[6,0,1257],
 "da/dd8/classHashMapHolder.html#a314b4ce3265136fe326b909fe6ef6716":[6,0,1257,2],
 "da/dd8/classHashMapHolder.html#a52cc052c8d73d5b700c7f9253138942f":[6,0,1257,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/de1/structnpc__toc__retro__paladin_1_1npc__toc__retro__paladinAI.html#afe933281cea61c9a4f3ded76290a3b72":[6,0,2199,0,0],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html":[6,0,2264,0],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#a1e8e28e76f27edc5e07574e6050d7e5f":[6,0,2264,0,3],
-"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#a37bffb02c4ebf6acab8c3474581056a6":[6,0,2264,0,2],
-"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#a3a353d677b469d750474a7497c5224a7":[6,0,2264,0,6]
+"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#a37bffb02c4ebf6acab8c3474581056a6":[6,0,2264,0,2]
 };

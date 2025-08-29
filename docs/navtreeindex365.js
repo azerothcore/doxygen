@@ -1,5 +1,6 @@
 var NAVTREEINDEX365 =
 {
+"de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[6,0,1971,3],
 "de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[6,0,1971,2],
 "de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[6,0,1971,4],
 "de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1971,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX365 =
 "de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[6,0,730,0],
 "de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[6,0,730,1],
 "de/d7c/structboss__the__black__stalker.html#aede25dbe426ec26ccb0509eca0c9c6af":[6,0,730,3],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[6,0,2065,0],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a1de76ab7f3304f8373c633fa7d0aa533":[6,0,2065,0,11]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[6,0,2065,0]
 };

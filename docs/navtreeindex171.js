@@ -1,7 +1,7 @@
 var NAVTREEINDEX171 =
 {
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,33],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,33],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,33,0],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,21,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2672],

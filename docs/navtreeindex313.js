@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9bab1f8dcc1dccde2a98e7f492c9d5a9":[7,0,0,0,1,2,41,11,70,10],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9c2d093615242927901d1c4c256212b2":[7,0,0,0,1,2,41,11,70,15],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aa70d783c590006f1a8cbf2b3d144e94c":[7,0,0,0,1,2,41,11,70,0],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aaf214dbb6995dfa6ae911fa471484b01":[7,0,0,0,1,2,41,11,70,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,74,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,74,1],
 "dc/dbb/namespaceWMO.html":[5,0,30],
-"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
-"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18]
+"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7]
 };
