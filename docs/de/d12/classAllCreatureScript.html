@@ -131,8 +131,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:abba47678a4f5e73c2db3b27b4cfa3dbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a136f18625787127115566bb4625fc490" id="r_a136f18625787127115566bb4625fc490"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490">OnBeforeCreatureSelectLevel</a> (const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *, <a class="el" href="../../db/dd5/classCreature.html">Creature</a> *, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
 <tr class="separator:a136f18625787127115566bb4625fc490"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a53699365c09e80de805be89545a28968" id="r_a53699365c09e80de805be89545a28968"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d12/classAllCreatureScript.html#a53699365c09e80de805be89545a28968">Creature_SelectLevel</a> (const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *, <a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
-<tr class="separator:a53699365c09e80de805be89545a28968"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72e4b4f205e153cb72c3401028b065c9" id="r_a72e4b4f205e153cb72c3401028b065c9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d12/classAllCreatureScript.html#a72e4b4f205e153cb72c3401028b065c9">OnCreatureSelectLevel</a> (const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *, <a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
+<tr class="separator:a72e4b4f205e153cb72c3401028b065c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa5ba65ba430a95724a814311382c9a67" id="r_aa5ba65ba430a95724a814311382c9a67"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d12/classAllCreatureScript.html#aa5ba65ba430a95724a814311382c9a67">OnCreatureAddWorld</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="memdesc:aa5ba65ba430a95724a814311382c9a67"><td class="mdescLeft">&#160;</td><td class="mdescRight">This hook runs after add creature in world.  <br /></td></tr>
 <tr class="separator:aa5ba65ba430a95724a814311382c9a67"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -497,45 +497,6 @@ Protected Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a53699365c09e80de805be89545a28968" name="a53699365c09e80de805be89545a28968"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a53699365c09e80de805be89545a28968">&#9670;&#160;</a></span>Creature_SelectLevel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void AllCreatureScript::Creature_SelectLevel </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{ }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00060">ScriptMgr::Creature_SelectLevel()</a>.</p>
-
-</div>
-</div>
 <a id="a1e568b6f85a8b60a65a987c8d081ca3e" name="a1e568b6f85a8b60a65a987c8d081ca3e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1e568b6f85a8b60a65a987c8d081ca3e">&#9670;&#160;</a></span>GetCreatureAI()</h2>
 
@@ -760,6 +721,45 @@ Protected Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a72e4b4f205e153cb72c3401028b065c9" name="a72e4b4f205e153cb72c3401028b065c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72e4b4f205e153cb72c3401028b065c9">&#9670;&#160;</a></span>OnCreatureSelectLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void AllCreatureScript::OnCreatureSelectLevel </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> *&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00060">ScriptMgr::OnCreatureSelectLevel()</a>.</p>
+
+</div>
+</div>
 <a id="a8022ccb5b3d0b6d900512f3d8ea6dbfa" name="a8022ccb5b3d0b6d900512f3d8ea6dbfa"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8022ccb5b3d0b6d900512f3d8ea6dbfa">&#9670;&#160;</a></span>OnFfaPvpStateUpdate()</h2>
 
@@ -809,7 +809,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d12/classAllCreatureScript.html">AllCreatureScript</a></li>
-    <li class="footer">Generated on Fri Aug 29 2025 06:23:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Aug 30 2025 06:20:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

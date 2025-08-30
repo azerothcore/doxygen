@@ -138,7 +138,7 @@ var NAVTREEINDEX =
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8faf1c82659032d221c0cd29cfa03576",
 "d2/d62/classat__zulgurub__temple__speech.html",
 "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a45481c2ef18ab3fec727813de96eb1b6",
-"d2/d73/classScriptMgr.html#a7a309497fb8c09eadc0e400cb120921d",
+"d2/d73/classScriptMgr.html#a7a731a3f335123cfa36ac13997e49139",
 "d2/d73/classitem__incendiary__explosives.html",
 "d2/d8b/classLockedQueue.html#a259a03cc68a36181edebe088ef669c46",
 "d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d",
