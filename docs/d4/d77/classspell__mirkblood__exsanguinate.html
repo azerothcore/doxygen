@@ -312,12 +312,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>    {</div>
-<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  262</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  263</span> </div>
-<div class="line"><span class="lineno">  264</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(std::max((<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;GetHealth() * 0.66f), 2000.0f));</div>
-<div class="line"><span class="lineno">  265</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  263</span>    {</div>
+<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  265</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  266</span> </div>
+<div class="line"><span class="lineno">  267</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(std::max((<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;GetHealth() * 0.66f), 2000.0f));</div>
+<div class="line"><span class="lineno">  268</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassSpellScript_html_ac1cfda0b3181c0da3422765acf78922e"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SpellScript::SetHitDamage</a></div><div class="ttdeci">void SetHitDamage(int32 damage)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:524</div></div>
 </div><!-- fragment -->
@@ -349,9 +349,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  268</span>    {</div>
-<div class="line"><span class="lineno">  269</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(spell_mirkblood_exsanguinate::CalculateDamage);</div>
-<div class="line"><span class="lineno">  270</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  271</span>    {</div>
+<div class="line"><span class="lineno">  272</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(spell_mirkblood_exsanguinate::CalculateDamage);</div>
+<div class="line"><span class="lineno">  273</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
 </div><!-- fragment -->
@@ -368,7 +368,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d77/classspell__mirkblood__exsanguinate.html">spell_mirkblood_exsanguinate</a></li>
-    <li class="footer">Generated on Sat Aug 30 2025 06:21:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Aug 31 2025 06:22:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
