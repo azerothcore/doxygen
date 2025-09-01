@@ -100,9 +100,11 @@ var searchData=
   ['itemenchantmentmgr_2ecpp_97',['ItemEnchantmentMgr.cpp',['../d9/ddc/ItemEnchantmentMgr_8cpp.html',1,'']]],
   ['itemenchantmentmgr_2eh_98',['ItemEnchantmentMgr.h',['../da/d50/ItemEnchantmentMgr_8h.html',1,'']]],
   ['itemhandler_2ecpp_99',['ItemHandler.cpp',['../d1/d0d/ItemHandler_8cpp.html',1,'']]],
-  ['itemscript_2eh_100',['ItemScript.h',['../d4/d9e/ItemScript_8h.html',1,'']]],
-  ['itemtemplate_2eh_101',['ItemTemplate.h',['../db/d8b/ItemTemplate_8h.html',1,'']]],
-  ['iteratorpair_2eh_102',['IteratorPair.h',['../d7/d38/IteratorPair_8h.html',1,'']]],
-  ['ivmapmgr_2eh_103',['IVMapMgr.h',['../db/d23/IVMapMgr_8h.html',1,'']]],
-  ['iworld_2eh_104',['IWorld.h',['../d2/d78/IWorld_8h.html',1,'']]]
+  ['itempackets_2ecpp_100',['ItemPackets.cpp',['../db/ddc/ItemPackets_8cpp.html',1,'']]],
+  ['itempackets_2eh_101',['ItemPackets.h',['../d9/d8a/ItemPackets_8h.html',1,'']]],
+  ['itemscript_2eh_102',['ItemScript.h',['../d4/d9e/ItemScript_8h.html',1,'']]],
+  ['itemtemplate_2eh_103',['ItemTemplate.h',['../db/d8b/ItemTemplate_8h.html',1,'']]],
+  ['iteratorpair_2eh_104',['IteratorPair.h',['../d7/d38/IteratorPair_8h.html',1,'']]],
+  ['ivmapmgr_2eh_105',['IVMapMgr.h',['../db/d23/IVMapMgr_8h.html',1,'']]],
+  ['iworld_2eh_106',['IWorld.h',['../d2/d78/IWorld_8h.html',1,'']]]
 ];

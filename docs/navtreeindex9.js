@@ -1,5 +1,15 @@
 var NAVTREEINDEX9 =
 {
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a4f08c3579b6b5bd91356252b89fcb36e":[6,0,1306,0,16],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a577cdfa8f49c2ec0f3fc8fd836345f8d":[6,0,1306,0,6],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a5b658dd42d84a74033c12217ca67ea11":[6,0,1306,0,7],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a62feee8bc5d28c3361a62a77188c4dd0":[6,0,1306,0,4],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a7ae1fdc168ece52389aabde3857d7ba3":[6,0,1306,0,24],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a81c812791b26833b3dd1aa3036ad28cc":[6,0,1306,0,20],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a84541b0645efa4acbd27ef390b47b39e":[6,0,1306,0,27],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a8d5b25ceb4f77c6ce928b48b714d3d20":[6,0,1306,0,19],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aa303da423ad09251abefd6983936dc03":[6,0,1306,0,25],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ab44bcd56bdc9731e5e00941126e2c848":[6,0,1306,0,14],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ab45223f5f1282adbd0a208ae05807ffd":[6,0,1306,0,21],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#abf1e566b7cff32561a68c7ad59783126":[6,0,1306,0,0],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ac04691adf41dd7aca1fad3fa95807e4e":[6,0,1306,0,13],
@@ -239,15 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d7d/classBattlegroundRV.html#a17665265c5ab837b4e2a0cdc461a7d0a":[6,0,335,1],
 "d0/d7d/classBattlegroundRV.html#a450c1d8a9ad4712ab4042256ba7d9d08":[6,0,335,10],
 "d0/d7d/classBattlegroundRV.html#a4cb2e77a45fd02a5db85b6979d622afa":[6,0,335,6],
-"d0/d7d/classBattlegroundRV.html#a4edb8efce09dece515e8b833142d2c55":[6,0,335,4],
-"d0/d7d/classBattlegroundRV.html#a62c7201196fabb6000d2df52b8323e6a":[6,0,335,2],
-"d0/d7d/classBattlegroundRV.html#a67853fccaddfcd946015a96c5b108641":[6,0,335,7],
-"d0/d7d/classBattlegroundRV.html#a76d16c8ab6778a6fc8a4c988a46f0306":[6,0,335,12],
-"d0/d7d/classBattlegroundRV.html#a7c876ff9156f81b168aec7cf673d39b3":[6,0,335,13],
-"d0/d7d/classBattlegroundRV.html#a9707d8805f031c01c14d78fdc1790a64":[6,0,335,8],
-"d0/d7d/classBattlegroundRV.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8":[6,0,335,5],
-"d0/d7d/classBattlegroundRV.html#abbd1a364665655cfc4f059fa63384536":[6,0,335,9],
-"d0/d7d/classBattlegroundRV.html#ac5b158259ccc5168275c0e00ea041db0":[6,0,335,11],
-"d0/d7d/classBattlegroundRV.html#ac5f9a8627e919eb224d78d726da1a7a1":[6,0,335,15],
-"d0/d7d/classBattlegroundRV.html#acce3fce40dbbb403749dcdb986e1d970":[6,0,335,14]
+"d0/d7d/classBattlegroundRV.html#a4edb8efce09dece515e8b833142d2c55":[6,0,335,4]
 };

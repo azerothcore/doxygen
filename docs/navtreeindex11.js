@@ -1,5 +1,15 @@
 var NAVTREEINDEX11 =
 {
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4":[7,0,0,0,1,3,7,10,14,4],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b":[7,0,0,0,1,3,7,10,14,8],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f":[7,0,0,0,1,3,7,10,14,2],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e":[7,0,0,0,1,3,7,10,14,6],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9e":[7,0,0,0,1,3,7,10,19],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088":[7,0,0,0,1,3,7,10,19,8],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3":[7,0,0,0,1,3,7,10,19,1],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97":[7,0,0,0,1,3,7,10,19,0],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61":[7,0,0,0,1,3,7,10,19,3],
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964":[7,0,0,0,1,3,7,10,19,2],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed":[7,0,0,0,1,3,7,10,19,6],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c":[7,0,0,0,1,3,7,10,19,5],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7":[7,0,0,0,1,3,7,10,19,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a37642b2740500cc4528425d04c5ecd2a":[7,0,0,0,1,3,5,9,2,11,43,26],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,9,2,11,43,53],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,5,9,2,11,43,6],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a3c92cfcbc7a27e4d468479933a73431e":[7,0,0,0,1,3,5,9,2,11,43,34],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a49a3348e1cd4d4016ac6a0c3d9aedcd4":[7,0,0,0,1,3,5,9,2,11,43,42],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4dfc30059571f204490514b096a03b53":[7,0,0,0,1,3,5,9,2,11,43,29],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,5,9,2,11,43,57],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a528807bdc70f6354672e25e327dc140e":[7,0,0,0,1,3,5,9,2,11,43,5],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5422603ce989fe02d372fb4599156981":[7,0,0,0,1,3,5,9,2,11,43,12],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5648b08fc6857107d9a0571aabbba4e1":[7,0,0,0,1,3,5,9,2,11,43,66],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5d2ec01331d28758bb19decf46ab630d":[7,0,0,0,1,3,5,9,2,11,43,2],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a6d7358f227167cf0ff223b06d380d9ef":[7,0,0,0,1,3,5,9,2,11,43,14],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a71a09c2f3ec4ae5386b481ecff65cecc":[7,0,0,0,1,3,5,9,2,11,43,23],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,9,2,11,43,54]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a3c92cfcbc7a27e4d468479933a73431e":[7,0,0,0,1,3,5,9,2,11,43,34]
 };

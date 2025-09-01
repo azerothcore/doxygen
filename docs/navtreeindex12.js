@@ -1,5 +1,15 @@
 var NAVTREEINDEX12 =
 {
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a49a3348e1cd4d4016ac6a0c3d9aedcd4":[7,0,0,0,1,3,5,9,2,11,43,42],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4dfc30059571f204490514b096a03b53":[7,0,0,0,1,3,5,9,2,11,43,29],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,5,9,2,11,43,57],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a528807bdc70f6354672e25e327dc140e":[7,0,0,0,1,3,5,9,2,11,43,5],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5422603ce989fe02d372fb4599156981":[7,0,0,0,1,3,5,9,2,11,43,12],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5648b08fc6857107d9a0571aabbba4e1":[7,0,0,0,1,3,5,9,2,11,43,66],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5d2ec01331d28758bb19decf46ab630d":[7,0,0,0,1,3,5,9,2,11,43,2],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a6d7358f227167cf0ff223b06d380d9ef":[7,0,0,0,1,3,5,9,2,11,43,14],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a71a09c2f3ec4ae5386b481ecff65cecc":[7,0,0,0,1,3,5,9,2,11,43,23],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,9,2,11,43,54],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7c1f1fdc40dc4a782470807d58569707":[7,0,0,0,1,3,5,9,2,11,43,8],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7e3d268f8331bb47b3242f69a7825e64":[7,0,0,0,1,3,5,9,2,11,43,36],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a81a544bc57b0f9476d8a56bab0cf83a5":[7,0,0,0,1,3,5,9,2,11,43,21],
@@ -239,15 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a8177ed5bc5fd54b98f2f36c9389b8099":[6,0,1691,0,9],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a84beab3be0d7e5d5d3674a57b1928f09":[6,0,1691,0,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a907626beb601f789a725d88d45689eb2":[6,0,1691,0,7],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[6,0,1691,0,10],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#afa7fce3a9cccfcc7b088e72df9f312a4":[6,0,1691,0,5],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html":[6,0,1677,0],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[6,0,1677,0,2],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a8ebaca725aba2c3aed8856fb23228ae1":[6,0,1677,0,1],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#ae91de64c440e71e612f34e37b90076d5":[6,0,1677,0,0],
-"d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3468],
-"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3468,2],
-"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3468,1],
-"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[6,0,3468,0],
-"d0/d91/BattlegroundIC_8h.html":[7,0,0,0,1,2,8,1,11]
+"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[6,0,1691,0,10]
 };

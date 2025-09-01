@@ -1,5 +1,15 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a247675ed22d89c8239eac550a98e1a1e":[7,0,0,0,1,2,8,1,11,15,55],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a25af5346f2defcc366e37e084f374fad":[7,0,0,0,1,2,8,1,11,15,15],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a261e936a90a1bbb0b599d4e8e5e24b85":[7,0,0,0,1,2,8,1,11,15,3],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2801bc70276264321be82984df6fbbe8":[7,0,0,0,1,2,8,1,11,15,83],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2843d97368a82303248874e80b2b4819":[7,0,0,0,1,2,8,1,11,15,27],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2aae61bfad7260bf54c2ea6aef6fc99c":[7,0,0,0,1,2,8,1,11,15,71],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2cfd8e7d6c54b7e520fd604053ae0db3":[7,0,0,0,1,2,8,1,11,15,24],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2f981ebe5e9bcf4c1a81561ccee496bf":[7,0,0,0,1,2,8,1,11,15,54],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a35b776c9acb976b6930f5d0851b7cd79":[7,0,0,0,1,2,8,1,11,15,69],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[7,0,0,0,1,2,8,1,11,15,60],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3bd9cb7368abc36e9a221225a6ba6392":[7,0,0,0,1,2,8,1,11,15,9],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3eb5e05eee22dd0d729eea833e75a497":[7,0,0,0,1,2,8,1,11,15,81],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a40242685bc2ee57e15e215f139f0055e":[7,0,0,0,1,2,8,1,11,15,49],
@@ -239,15 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a2b0a176dba865e90bdc22727b2860509":[6,0,1618,0,1],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a32e6fa30e4c56fdd055a728ba7227beb":[6,0,1618,0,0],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a599679f93e4fc4b3b9aa00ea33dcb047":[6,0,1618,0,8],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a7e9c49d8dc47663e70c8fcbed68746e5":[6,0,1618,0,2],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6":[6,0,1618,0,7],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#aab51096b8f57528a0a27e23a306d6762":[6,0,1618,0,5],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#ab91df5ebee9c12d067ff83ee64effece":[6,0,1618,0,6],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#ae127a88f18f3348a0bc388d79dcd13d4":[6,0,1618,0,3],
-"d0/d9b/classboss__gyth.html":[6,0,515],
-"d0/d9b/classboss__gyth.html#a286d19b0a6e317cb7e69343982b71062":[6,0,515,1],
-"d0/d9b/classboss__gyth.html#a3706cbdd1bfb16112653d31cfa971b30":[6,0,515,2],
-"d0/d9b/structboss__dalronn__the__controller.html":[6,0,419],
-"d0/d9b/structboss__dalronn__the__controller.html#a1c3e44fe347e9c1ec45db19865bb5110":[6,0,419,7],
-"d0/d9b/structboss__dalronn__the__controller.html#a1d419cec78a9a8d6ceee3651c8054762":[6,0,419,4]
+"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a7e9c49d8dc47663e70c8fcbed68746e5":[6,0,1618,0,2]
 };

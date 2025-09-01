@@ -9,11 +9,12 @@ var searchData=
   ['worldpackets_3a_3acombat_6',['Combat',['../d1/db8/namespaceWorldPackets_1_1Combat.html',1,'WorldPackets']]],
   ['worldpackets_3a_3acombatlog_7',['CombatLog',['../d8/de5/namespaceWorldPackets_1_1CombatLog.html',1,'WorldPackets']]],
   ['worldpackets_3a_3aguild_8',['Guild',['../dd/dcf/namespaceWorldPackets_1_1Guild.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3alfg_9',['LFG',['../da/d9d/namespaceWorldPackets_1_1LFG.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3amisc_10',['Misc',['../d5/d57/namespaceWorldPackets_1_1Misc.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3apet_11',['Pet',['../df/dd1/namespaceWorldPackets_1_1Pet.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aquery_12',['Query',['../db/d57/namespaceWorldPackets_1_1Query.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3astrings_13',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3atotem_14',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aworldstate_15',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
+  ['worldpackets_3a_3aitem_9',['Item',['../d5/de6/namespaceWorldPackets_1_1Item.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3alfg_10',['LFG',['../da/d9d/namespaceWorldPackets_1_1LFG.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3amisc_11',['Misc',['../d5/d57/namespaceWorldPackets_1_1Misc.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3apet_12',['Pet',['../df/dd1/namespaceWorldPackets_1_1Pet.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aquery_13',['Query',['../db/d57/namespaceWorldPackets_1_1Query.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3astrings_14',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3atotem_15',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aworldstate_16',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
 ];

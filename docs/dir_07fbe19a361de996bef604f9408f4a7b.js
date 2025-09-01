@@ -13,6 +13,8 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
     [ "CombatPackets.h", "dd/d5d/CombatPackets_8h.html", "dd/d5d/CombatPackets_8h" ],
     [ "GuildPackets.cpp", "d9/dc8/GuildPackets_8cpp.html", "d9/dc8/GuildPackets_8cpp" ],
     [ "GuildPackets.h", "d6/d77/GuildPackets_8h.html", "d6/d77/GuildPackets_8h" ],
+    [ "ItemPackets.cpp", "db/ddc/ItemPackets_8cpp.html", null ],
+    [ "ItemPackets.h", "d9/d8a/ItemPackets_8h.html", "d9/d8a/ItemPackets_8h" ],
     [ "LFGPackets.cpp", "db/dc5/LFGPackets_8cpp.html", null ],
     [ "LFGPackets.h", "dd/d6b/LFGPackets_8h.html", "dd/d6b/LFGPackets_8h" ],
     [ "MiscPackets.cpp", "dd/d19/MiscPackets_8cpp.html", null ],

@@ -47,7 +47,7 @@ var searchData=
   ['wmodoodaddata_44',['WMODoodadData',['../d2/d23/structWMODoodadData.html',1,'']]],
   ['wmogroup_45',['WMOGroup',['../dc/d66/classWMOGroup.html',1,'']]],
   ['wmoliquid_46',['WmoLiquid',['../d9/d7b/classVMAP_1_1WmoLiquid.html',1,'VMAP']]],
-  ['wmoliquidheader_47',['wmoliquidheader',['../d3/dd1/structWMOLiquidHeader.html',1,'WMOLiquidHeader'],['../d6/d4b/structVMAP_1_1WMOLiquidHeader.html',1,'VMAP::WMOLiquidHeader']]],
+  ['wmoliquidheader_47',['wmoliquidheader',['../d6/d4b/structVMAP_1_1WMOLiquidHeader.html',1,'VMAP::WMOLiquidHeader'],['../d3/dd1/structWMOLiquidHeader.html',1,'WMOLiquidHeader']]],
   ['wmoliquidvert_48',['WMOLiquidVert',['../d1/d01/structWMOLiquidVert.html',1,'']]],
   ['wmoroot_49',['WMORoot',['../da/d10/classWMORoot.html',1,'']]],
   ['world_50',['World',['../d6/d39/classWorld.html',1,'']]],
@@ -87,6 +87,7 @@ var searchData=
   ['worldupdatetime_84',['WorldUpdateTime',['../de/dad/classWorldUpdateTime.html',1,'']]],
   ['worldworldtextbuilder_85',['WorldWorldTextBuilder',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html',1,'Acore']]],
   ['wp_5fcommandscript_86',['wp_commandscript',['../d5/d0e/classwp__commandscript.html',1,'']]],
-  ['wretchedghoulcleaner_87',['WretchedGhoulCleaner',['../de/dbb/classWretchedGhoulCleaner.html',1,'']]],
-  ['wtail_88',['WTail',['../d6/def/structAcore_1_1ChatCommands_1_1WTail.html',1,'Acore::ChatCommands']]]
+  ['wrapitem_87',['WrapItem',['../dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html',1,'WorldPackets::Item']]],
+  ['wretchedghoulcleaner_88',['WretchedGhoulCleaner',['../de/dbb/classWretchedGhoulCleaner.html',1,'']]],
+  ['wtail_89',['WTail',['../d6/def/structAcore_1_1ChatCommands_1_1WTail.html',1,'Acore::ChatCommands']]]
 ];

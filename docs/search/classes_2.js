@@ -779,12 +779,15 @@ var searchData=
   ['buildvaluescachedbuffer_776',['BuildValuesCachedBuffer',['../df/dbe/structBuildValuesCachedBuffer.html',1,'']]],
   ['buildvaluescachepospointers_777',['BuildValuesCachePosPointers',['../d7/ddc/structBuildValuesCachePosPointers.html',1,'']]],
   ['burningpitchfiltercheck_778',['BurningPitchFilterCheck',['../d9/da7/classBurningPitchFilterCheck.html',1,'']]],
-  ['buybankslot_779',['BuyBankSlot',['../d0/d1c/classWorldPackets_1_1Bank_1_1BuyBankSlot.html',1,'WorldPackets::Bank']]],
-  ['buybankslotresult_780',['BuyBankSlotResult',['../d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html',1,'WorldPackets::Bank']]],
-  ['bytebuffer_781',['ByteBuffer',['../da/d07/classByteBuffer.html',1,'']]],
-  ['bytebufferexception_782',['ByteBufferException',['../d6/de3/classByteBufferException.html',1,'']]],
-  ['bytebufferinvalidvalueexception_783',['ByteBufferInvalidValueException',['../d8/d8a/classByteBufferInvalidValueException.html',1,'']]],
-  ['bytebufferpositionexception_784',['ByteBufferPositionException',['../dc/dfc/classByteBufferPositionException.html',1,'']]],
-  ['bytebuffersourceexception_785',['ByteBufferSourceException',['../d1/d18/classByteBufferSourceException.html',1,'']]],
-  ['bytesize_786',['ByteSize',['../d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html',1,'WorldPackets::Strings']]]
+  ['buybackitem_779',['BuybackItem',['../d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html',1,'WorldPackets::Item']]],
+  ['buybankslot_780',['BuyBankSlot',['../d0/d1c/classWorldPackets_1_1Bank_1_1BuyBankSlot.html',1,'WorldPackets::Bank']]],
+  ['buybankslotresult_781',['BuyBankSlotResult',['../d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html',1,'WorldPackets::Bank']]],
+  ['buyitem_782',['BuyItem',['../de/d88/classWorldPackets_1_1Item_1_1BuyItem.html',1,'WorldPackets::Item']]],
+  ['buyiteminslot_783',['BuyItemInSlot',['../d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html',1,'WorldPackets::Item']]],
+  ['bytebuffer_784',['ByteBuffer',['../da/d07/classByteBuffer.html',1,'']]],
+  ['bytebufferexception_785',['ByteBufferException',['../d6/de3/classByteBufferException.html',1,'']]],
+  ['bytebufferinvalidvalueexception_786',['ByteBufferInvalidValueException',['../d8/d8a/classByteBufferInvalidValueException.html',1,'']]],
+  ['bytebufferpositionexception_787',['ByteBufferPositionException',['../dc/dfc/classByteBufferPositionException.html',1,'']]],
+  ['bytebuffersourceexception_788',['ByteBufferSourceException',['../d1/d18/classByteBufferSourceException.html',1,'']]],
+  ['bytesize_789',['ByteSize',['../d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html',1,'WorldPackets::Strings']]]
 ];

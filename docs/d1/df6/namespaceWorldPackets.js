@@ -6,6 +6,7 @@ var namespaceWorldPackets =
     [ "Combat", "d1/db8/namespaceWorldPackets_1_1Combat.html", "d1/db8/namespaceWorldPackets_1_1Combat" ],
     [ "CombatLog", "d8/de5/namespaceWorldPackets_1_1CombatLog.html", "d8/de5/namespaceWorldPackets_1_1CombatLog" ],
     [ "Guild", "dd/dcf/namespaceWorldPackets_1_1Guild.html", "dd/dcf/namespaceWorldPackets_1_1Guild" ],
+    [ "Item", "d5/de6/namespaceWorldPackets_1_1Item.html", "d5/de6/namespaceWorldPackets_1_1Item" ],
     [ "LFG", "da/d9d/namespaceWorldPackets_1_1LFG.html", "da/d9d/namespaceWorldPackets_1_1LFG" ],
     [ "Misc", "d5/d57/namespaceWorldPackets_1_1Misc.html", "d5/d57/namespaceWorldPackets_1_1Misc" ],
     [ "Pet", "df/dd1/namespaceWorldPackets_1_1Pet.html", "df/dd1/namespaceWorldPackets_1_1Pet" ],

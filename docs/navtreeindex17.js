@@ -1,5 +1,15 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#a4a8143286450dca8134736fcfa77903f":[6,0,1228,59],
+"d0/db7/classGroup.html#a4af556c3741d3929d8cd8cb25d556483":[6,0,1228,31],
+"d0/db7/classGroup.html#a4d8e5cbe8212d17dcdce9950344026dc":[6,0,1228,4],
+"d0/db7/classGroup.html#a4dfd1d2dddfb659196b0b7fdb02eef7a":[6,0,1228,18],
+"d0/db7/classGroup.html#a4dff081b4fd0b3422b0465710b1ac3ae":[6,0,1228,110],
+"d0/db7/classGroup.html#a4f817cf022dabb4edba4f83eaa5edd1c":[6,0,1228,92],
+"d0/db7/classGroup.html#a531651fa5a2b0fd7d20dd0f1b5f6809d":[6,0,1228,134],
+"d0/db7/classGroup.html#a53ca8211873b0e3a2301224cde0ee2c4":[6,0,1228,67],
+"d0/db7/classGroup.html#a55ab25977269e05689093eb986bddb4c":[6,0,1228,120],
+"d0/db7/classGroup.html#a5afa15c119d0d102dade2ee94947b48f":[6,0,1228,136],
 "d0/db7/classGroup.html#a5b59cd328a66f53b7573d1149b6d7ab0":[6,0,1228,87],
 "d0/db7/classGroup.html#a5ba6e1d3574b1bcc473d4cf2c7574af2":[6,0,1228,101],
 "d0/db7/classGroup.html#a5be377d96f4d118934fc0103a73877f3":[6,0,1228,97],
@@ -239,15 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a2f72f9659aa62f80c5d8159df0d14e9f":[6,0,1788,0,7],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a51a260460facf06ec6bb1486f434d885":[6,0,1788,0,3],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a8385d2e39f2d051553cf84a54f3bc5ad":[6,0,1788,0,0],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a8c3158b1e6c482dd82a6326954b8bbc5":[6,0,1788,0,6],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#ab15fc7bcd912a6c583d4c219ba37c756":[6,0,1788,0,2],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#aed6b5cfccbbe258f501b2da5c9dadb40":[6,0,1788,0,5],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#afa494098126ce3291e234cfc2b36336f":[6,0,1788,0,1],
-"d0/dbb/structWGWorkshopData.html":[6,0,4268],
-"d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4268,3],
-"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4268,2],
-"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4268,1],
-"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4268,0],
-"d0/dbc/boss__kormok_8cpp.html":[7,0,0,0,1,3,2,8,2],
-"d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,8,2,4]
+"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a8c3158b1e6c482dd82a6326954b8bbc5":[6,0,1788,0,6]
 };

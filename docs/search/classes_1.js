@@ -351,5 +351,8 @@ var searchData=
   ['authsocketmgr_348',['AuthSocketMgr',['../dd/d76/classAuthSocketMgr.html',1,'']]],
   ['autobankitem_349',['AutoBankItem',['../d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html',1,'WorldPackets::Bank']]],
   ['autobroadcastmgr_350',['AutobroadcastMgr',['../d6/d59/classAutobroadcastMgr.html',1,'']]],
-  ['autostorebankitem_351',['AutoStoreBankItem',['../d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html',1,'WorldPackets::Bank']]]
+  ['autoequipitem_351',['AutoEquipItem',['../d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html',1,'WorldPackets::Item']]],
+  ['autoequipitemslot_352',['AutoEquipItemSlot',['../d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html',1,'WorldPackets::Item']]],
+  ['autostorebagitem_353',['AutoStoreBagItem',['../dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html',1,'WorldPackets::Item']]],
+  ['autostorebankitem_354',['AutoStoreBankItem',['../d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html',1,'WorldPackets::Bank']]]
 ];
