@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,6,28,41],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a":[7,0,0,0,1,3,9,6,28,3],
 "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437":[7,0,0,0,1,3,9,6,29],
 "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75":[7,0,0,0,1,3,9,6,27],
@@ -197,10 +198,10 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1886,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1886,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1886,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316":[7,0,0,0,0,1,0,1,4],
 "db/d23/classspell__warr__retaliation.html":[6,0,4012],
 "db/d23/classspell__warr__retaliation.html#a5436413d098dde4b0fa1ed2259a47779":[6,0,4012,3],
-"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[6,0,4012,0],
-"db/d23/classspell__warr__retaliation.html#ae786a8c97e9f66152b8d0b55624a4eac":[6,0,4012,4]
+"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[6,0,4012,0]
 };

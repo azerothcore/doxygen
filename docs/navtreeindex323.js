@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[6,0,2567,167],
 "dd/d27/structSmartAction.html#a4b7fdd15e89c87f7218727f6cc552a34":[6,0,2567,200],
 "dd/d27/structSmartAction.html#a4bbed4b650e554fb563d4f8df377c270":[6,0,2567,80],
 "dd/d27/structSmartAction.html#a4d2590113e86696ca8fd7302931c48d6":[6,0,2567,101],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a47d844a9700cd8add793e3f3088d1b82":[6,0,3787,1],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a7f2ddbf54a4932277ad91eb0036915ab":[6,0,3787,0],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a97f5239399e7135b02000722eaf837ad":[6,0,3787,3],
-"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[6,0,3787,2],
-"dd/d2c/sunwell__plateau_8h.html":[7,0,0,0,1,3,2,12,7]
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[6,0,3787,2]
 };

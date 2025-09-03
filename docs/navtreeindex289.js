@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/dab/GridTerrainData_8h.html#ac0e95b704f5fbe7f2c5a728ab9ced4be":[7,0,0,0,1,2,19,9,24],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624c":[7,0,0,0,1,2,19,9,35],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d":[7,0,0,0,1,2,19,9,35,3],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8":[7,0,0,0,1,2,19,9,35,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,446,1],
 "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html":[6,0,1644,0],
 "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a5e20d5e17baaac92a560a5b2fe15fe7b":[6,0,1644,0,2],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159":[6,0,1644,0,4],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a851008790128831c5c10710b4cccb196":[6,0,1644,0,3]
+"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159":[6,0,1644,0,4]
 };

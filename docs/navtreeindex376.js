@@ -1,5 +1,12 @@
 var NAVTREEINDEX376 =
 {
+"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[6,0,2759,0],
+"de/ddc/classIgbExplosionCheck.html":[6,0,1282],
+"de/ddc/classIgbExplosionCheck.html#a28ce6685366e99db2aa1e4022012f943":[6,0,1282,1],
+"de/ddc/classIgbExplosionCheck.html#a413ee8f2218621d274d118aea967dc9b":[6,0,1282,2],
+"de/ddc/classIgbExplosionCheck.html#ae67cca111f26a275614810cbe053bcd8":[6,0,1282,0],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html":[6,0,711,0],
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a001f8b206f0d00fff77e964f49cbdb58":[6,0,711,0,2],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a0f207b2a274c7266f6882205e510f346":[6,0,711,0,3],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a21d891d8f8f6fa89b1f1883800d8d578":[6,0,711,0,7],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8":[6,0,711,0,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX376 =
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[7,0,0,0,0,9,10,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[7,0,0,0,0,9,10,0,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[7,0,0,0,0,9,10,0,5],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[7,0,0,0,0,9,10,0,4],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[7,0,0,0,0,9,10,0,1],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b":[7,0,0,0,0,9,10,0,3],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e":[7,0,0,0,0,9,10,0,2],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df":[7,0,0,0,0,9,10,1],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d":[7,0,0,0,0,9,10,1,2],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301":[7,0,0,0,0,9,10,1,4],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a":[7,0,0,0,0,9,10,1,1]
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[7,0,0,0,0,9,10,0,4]
 };

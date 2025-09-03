@@ -2,10 +2,14 @@ var classPetitionMgr =
 [
     [ "PetitionMgr", "de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8", null ],
     [ "~PetitionMgr", "de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03", null ],
-    [ "AddPetition", "de/d80/classPetitionMgr.html#a0175d79b865a34bc1451bb6c748d785f", null ],
+    [ "AddPetition", "de/d80/classPetitionMgr.html#a396e38c3e63d544d5b9bf56413fa28f0", null ],
     [ "AddSignature", "de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb", null ],
+    [ "GeneratePetitionId", "de/d80/classPetitionMgr.html#abf63ac05499b814d0d8f560803f57be4", null ],
+    [ "GetItemGuidByPetitionId", "de/d80/classPetitionMgr.html#a7607d634c90090598138e4f6b827fec2", null ],
     [ "GetPetition", "de/d80/classPetitionMgr.html#a6532eb8de34893d4f63ea68180ca9038", null ],
+    [ "GetPetitionById", "de/d80/classPetitionMgr.html#a3190c60fabad07a217b5e34b259f2057", null ],
     [ "GetPetitionByOwnerWithType", "de/d80/classPetitionMgr.html#a70ae6e41835983678bb9d37d2b766088", null ],
+    [ "GetPetitionIdByItemGuid", "de/d80/classPetitionMgr.html#a8720d872b3d24c6d059555d0eaec6a24", null ],
     [ "GetPetitionStore", "de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873", null ],
     [ "GetSignature", "de/d80/classPetitionMgr.html#a90db48e86ad855a4f3c33347dc2991e6", null ],
     [ "GetSignatureStore", "de/d80/classPetitionMgr.html#af5f18d9200b61cd5e84652c51206f1d7", null ],
@@ -16,6 +20,8 @@ var classPetitionMgr =
     [ "RemovePetitionByOwnerAndType", "de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441", null ],
     [ "RemoveSignaturesByPlayer", "de/d80/classPetitionMgr.html#a289f09d808c81b5ada9b26e98260f5be", null ],
     [ "RemoveSignaturesByPlayerAndType", "de/d80/classPetitionMgr.html#a8d30eb7c2d048ada34765193ee823a96", null ],
+    [ "_nextPetitionId", "de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae", null ],
+    [ "PetitionIdToItemGuid", "de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063", null ],
     [ "PetitionStore", "de/d80/classPetitionMgr.html#a49bb11e33b39fa77f5394130e8405537", null ],
     [ "SignatureStore", "de/d80/classPetitionMgr.html#a784ff7990f17d4cfdc4f24b6f863e88e", null ]
 ];

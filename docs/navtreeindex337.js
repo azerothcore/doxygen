@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a91ddcd2bb22bb88e2b9140a9beb2d36e":[7,0,0,0,1,2,38,0,75,1,148],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a92b56eba50f95f7a40d69f3c26a82b0b":[7,0,0,0,1,2,38,0,75,1,162],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a939ba6ce8c1166474a56df527bac0807":[7,0,0,0,1,2,38,0,75,1,22],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a93b3f841df316f44518989d98143cbbe":[7,0,0,0,1,2,38,0,75,1,96],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[6,0,2632,0],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[6,0,2671],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[6,0,2671,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2671,2],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2671,1]
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2671,2]
 };

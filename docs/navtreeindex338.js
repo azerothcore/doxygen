@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2671,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html":[6,0,669,0],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,669,0,13],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,669,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,850,26],
 "dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[6,0,850,15],
 "dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[6,0,850,24],
-"dd/dd6/classcharacter__commandscript.html#a33f48334c2a9748cb47e8c65dc2a8c9d":[6,0,850,19],
-"dd/dd6/classcharacter__commandscript.html#a3c388123887507991bb8e1a6b6f171a9":[6,0,850,4]
+"dd/dd6/classcharacter__commandscript.html#a33f48334c2a9748cb47e8c65dc2a8c9d":[6,0,850,19]
 };

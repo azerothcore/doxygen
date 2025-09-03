@@ -1,5 +1,12 @@
 var NAVTREEINDEX403 =
 {
+"df/de4/classachievement__commandscript.html#ac1c40d7b3b628cc206c44eae18592292":[6,0,46,0],
+"df/de4/classachievement__commandscript.html#ac4f6addfb0c52d584bf8081436aa3d7a":[6,0,46,2],
+"df/de4/classachievement__commandscript.html#adeac4e6f74f006daa76b0ebb8ea1469c":[6,0,46,1],
+"df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,1,7],
+"df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,1,7,9],
+"df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,1,7,10],
+"df/de7/classOutdoorPvPTF.html":[6,0,2365],
 "df/de7/classOutdoorPvPTF.html#a025bf734eb6357a72f2286822f7cc7c6":[6,0,2365,7],
 "df/de7/classOutdoorPvPTF.html#a23ef36361746c9fae0a14b1094914d22":[6,0,2365,4],
 "df/de7/classOutdoorPvPTF.html#a2c79f67ee87306c7944c86e745e1bfc9":[6,0,2365,10],
@@ -242,12 +249,5 @@ var NAVTREEINDEX403 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a977c51cebd1160d7d64f733adf19a658":[7,0,0,0,1,3,5,6,1,15,10],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e4ea3125a97235bd26fe6a91e15e943":[7,0,0,0,1,3,5,6,1,15,2],
 "df/df3/classboss__vaelastrasz.html":[6,0,757],
-"df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,757,1],
-"df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,757,2],
-"df/df3/structboss__grand__warlock__nethekurse.html":[6,0,507],
-"df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,507,4],
-"df/df3/structboss__grand__warlock__nethekurse.html#a48a2ec7beeb5c9685fc627317acea949":[6,0,507,3],
-"df/df3/structboss__grand__warlock__nethekurse.html#a4eefeb639cf5f0753feb6cfd99cda187":[6,0,507,0],
-"df/df3/structboss__grand__warlock__nethekurse.html#a6c647262ce7df78c46af6b725cbcc250":[6,0,507,8],
-"df/df3/structboss__grand__warlock__nethekurse.html#a8288f8c28b61dac574254435534b5e3f":[6,0,507,1]
+"df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,757,1]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX388 =
 {
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9c4e6647c05785664cd23fce73d8ca87":[6,0,505,0,4],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa1786f68bc52722dead6d9a6c131d6cb":[6,0,505,0,15],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa2e622be4faa605aa7b13af333bd1a91":[6,0,505,0,5],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[6,0,505,0,10],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[6,0,505,0,13],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[6,0,505,0,11],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[6,0,505,0,7],
 "df/d6f/namespaceAcore_1_1Module.html":[5,0,1,9],
 "df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,1,9,0],
 "df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,1,9,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX388 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,679,0,8],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa":[6,0,679,0,11],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,679,0,3],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,679,0,5],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaf47878572d23bfb22f2ae77fed8d95e":[6,0,679,0,9],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#ab5ba6f23e4a0f097386452bdd497ef5a":[6,0,679,0,2],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#abe4c4df1732127814a507b0f99203ebb":[6,0,679,0,0],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#adac69ee7aca11d5d355ef71a11a39a1d":[6,0,679,0,4],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#ae6fb76012902540a55870ed7b2f3fc7b":[6,0,679,0,12],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aed06635aabcb47fd700ab1a894bad13c":[6,0,679,0,7],
-"df/d7b/classAuraMunchingQueue.html":[6,0,285]
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,679,0,5]
 };

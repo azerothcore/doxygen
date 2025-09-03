@@ -1,5 +1,12 @@
 var NAVTREEINDEX381 =
 {
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a5b550d0154f302cecc509fbd868a53bb":[6,0,2256,0,0],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a6908f5731915bf7d15bb4921c960aa30":[6,0,2256,0,5],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a8d4c8d082f12b96b2b77447d0b942c2c":[6,0,2256,0,3],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#abca34d7285ef23c062006df8f8ae6d53":[6,0,2256,0,4],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#afc5c9299d7f1f73c087a19dcfb19e096":[6,0,2256,0,6],
+"df/d1a/CliRunnable_8cpp.html":[4,0,0],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2304,0],
 "df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6378748a168e4e668f696bd9c6dfbc31":[6,0,2304,0,1],
 "df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6540d8f5787ce1da211123721ef659f3":[6,0,2304,0,0],
 "df/d1b/zone__stormwind__city_8cpp.html":[7,0,0,0,1,3,2,30],
@@ -242,12 +249,5 @@ var NAVTREEINDEX381 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a22cc2c4e87a85a7ad4322cd08e86a376":[7,0,0,0,1,2,16,5,0,4,6,58],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a230202358a1e8f68251298fc905dabb4":[7,0,0,0,1,2,16,5,0,4,6,100],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a233c63d30e56fb3c86104ce213703ea5":[7,0,0,0,1,2,16,5,0,4,6,226],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a23d4b19593e2a5a476b2bb9ea11ee622":[7,0,0,0,1,2,16,5,0,4,6,195],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a24d5638deb3bf3067a787a9fd0f914d2":[7,0,0,0,1,2,16,5,0,4,6,285],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a267b0029932bfa661908ff0966465393":[7,0,0,0,1,2,16,5,0,4,6,140],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28dc9bdb9b35a8f412be125174b9a17b":[7,0,0,0,1,2,16,5,0,4,6,2],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28ff79520b4b9b2f0775cf565443cdc3":[7,0,0,0,1,2,16,5,0,4,6,202],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a299f4063063d6b21fbb5622b354c06ff":[7,0,0,0,1,2,16,5,0,4,6,222],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2abbc1426caf4406282bc4c8e123df84":[7,0,0,0,1,2,16,5,0,4,6,235],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2ade5a94dc5b622bd2dfdad5eddaf273":[7,0,0,0,1,2,16,5,0,4,6,7]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a23d4b19593e2a5a476b2bb9ea11ee622":[7,0,0,0,1,2,16,5,0,4,6,195]
 };

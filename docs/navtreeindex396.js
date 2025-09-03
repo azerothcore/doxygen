@@ -1,5 +1,12 @@
 var NAVTREEINDEX396 =
 {
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f1dfb61e83502d7901e405506313550":[7,0,0,0,1,3,2,1,2,1,6,1],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,2,1,6,0],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfc2cad8cd3ff6357504795c66143412":[7,0,0,0,1,3,2,1,2,1,6,2],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afda49efdcecab7f5dbf2499d16a880c7":[7,0,0,0,1,3,2,1,2,1,6,4],
+"df/dc5/structSpell_1_1HitTriggerSpell.html":[6,0,2587,1],
+"df/dc5/structSpell_1_1HitTriggerSpell.html#a02ac12119655f9ab82347d21cc68803a":[6,0,2587,1,3],
+"df/dc5/structSpell_1_1HitTriggerSpell.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b":[6,0,2587,1,0],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a82d752dedab39f417af225add6af1403":[6,0,2587,1,2],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#abb48d6093570ba9c5488f200544a1e83":[6,0,2587,1,1],
 "df/dc5/structTransportTemplate.html":[6,0,4182],
@@ -25,8 +32,8 @@ var NAVTREEINDEX396 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2338,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,31,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,31,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,1,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,31,1,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,31,1,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,1,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ab875e7cfb37d4193945e25abd49ac409":[7,0,0,0,1,3,9,10,32,0],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019abd290be920822efdf04e25cb92c45c0c":[7,0,0,0,1,3,9,10,32,3],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800":[7,0,0,0,1,3,9,10,32,18],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[7,0,0,0,1,3,9,10,32,4],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[7,0,0,0,1,3,9,10,32,9],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,32,16],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html":[6,0,2075,0],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0b07925593835ce4d4aaab2f672ae387":[6,0,2075,0,6],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a15f8706b9084b72359e4c8433d771d89":[6,0,2075,0,3],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a1deb2de50401297451a3e314b5369b5e":[6,0,2075,0,16],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be":[6,0,2075,0,11]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[7,0,0,0,1,3,9,10,32,4]
 };

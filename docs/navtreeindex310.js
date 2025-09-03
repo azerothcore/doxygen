@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/d75/classspell__azjol__nerub__fixate.html#a3405c1b04f2e623662c7acaa6810278c":[6,0,2635,2],
 "dc/d75/classspell__azjol__nerub__fixate.html#aaa650972803d14e4d74be977430b04f6":[6,0,2635,0],
 "dc/d76/Arena_8cpp.html":[7,0,0,0,1,2,8,2],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html":[6,0,287,15],
@@ -216,14 +217,14 @@ var NAVTREEINDEX310 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3275],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370":[7,0,0,0,1,2,16,5,0,1,2,1],
 "dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f":[7,0,0,0,1,2,16,5,0,1,2,3],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9e":[7,0,0,0,1,2,16,5,0,1,1],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632":[7,0,0,0,1,2,16,5,0,1,1,6],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a":[7,0,0,0,1,2,16,5,0,1,1,10]
+"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632":[7,0,0,0,1,2,16,5,0,1,1,6]
 };

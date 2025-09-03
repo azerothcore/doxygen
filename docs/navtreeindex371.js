@@ -1,5 +1,12 @@
 var NAVTREEINDEX371 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9876c00554065f763e35d6e0591d1631":[7,0,0,0,1,1,0,0,1,1,73],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a99a8d87d9660870e76979128e9b16dcc":[7,0,0,0,1,1,0,0,1,1,411],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9a09693f8bb359ad3dc64c5d964e7be2":[7,0,0,0,1,1,0,0,1,1,298],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b252af59b506be33acf905a27eab247":[7,0,0,0,1,1,0,0,1,1,59],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b910305203dac1dadaed30a59e16ec9":[7,0,0,0,1,1,0,0,1,1,213],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9c117ed798fac970e320276a1c751bab":[7,0,0,0,1,1,0,0,1,1,239],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9dcca0a2d3520569fa3956b6da86f5e9":[7,0,0,0,1,1,0,0,1,1,320],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9e05ac6125554ce6feb96b091c88b68c":[7,0,0,0,1,1,0,0,1,1,118],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9f53b18d4e728f4b3f2811d3c6598b65":[7,0,0,0,1,1,0,0,1,1,248],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9fb31a6ff391ca8b955a51b557092b08":[7,0,0,0,1,1,0,0,1,1,356],
@@ -23,6 +30,7 @@ var NAVTREEINDEX371 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5b593e0435142ef21e410519c43efd8":[7,0,0,0,1,1,0,0,1,1,464],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5f498c7e6bd64fc5909fd25a2e5d719":[7,0,0,0,1,1,0,0,1,1,337],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6127825f1f704e54eb2291471826d01":[7,0,0,0,1,1,0,0,1,1,352],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa670c3c502735848d34b3393f24a7766":[7,0,0,0,1,1,0,0,1,1,329],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6788c6b6f7080becb3a80190fa40274":[7,0,0,0,1,1,0,0,1,1,36],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa74b9d4701f39d2f032796aa03ad41b8":[7,0,0,0,1,1,0,0,1,1,112],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa7cb5b739ef458963c46828539574972":[7,0,0,0,1,1,0,0,1,1,27],
@@ -85,7 +93,6 @@ var NAVTREEINDEX371 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac27439a595288a896646e53bad2a901a":[7,0,0,0,1,1,0,0,1,1,431],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac35befe004830f793b5212a80699e9fa":[7,0,0,0,1,1,0,0,1,1,182],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac46bfe34daf7602d1313214a7d3f7f1d":[7,0,0,0,1,1,0,0,1,1,18],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac47767e91039c79d4a8a84fd1d6f312b":[7,0,0,0,1,1,0,0,1,1,329],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac4c65da1576e6b7bfc0735785ce730c0":[7,0,0,0,1,1,0,0,1,1,26],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac4cfc87affabd4011ba68495800cb3e0":[7,0,0,0,1,1,0,0,1,1,56],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac5052914653301b607ad1a22279c4f2c":[7,0,0,0,1,1,0,0,1,1,131],
@@ -242,12 +249,5 @@ var NAVTREEINDEX371 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4af80aaa14ff05f8c4fbfb1b502997d25b":[7,0,0,0,1,3,2,4,7,5,2],
 "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643":[7,0,0,0,1,3,2,4,7,7],
 "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,7,7,5],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a28e73bd4ce105114b8dd8e3626bfe762":[7,0,0,0,1,3,2,4,7,7,2],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,7,7,0],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,2,4,7,7,3],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643ac74b3463adde05b1cf5790c1ea942827":[7,0,0,0,1,3,2,4,7,7,1],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643acebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,2,4,7,7,4],
-"de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,7,8],
-"de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,4,7,8,9],
-"de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca522ea2571642ed9da1f663dbe11cdc6e":[7,0,0,0,1,3,2,4,7,8,1]
+"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a28e73bd4ce105114b8dd8e3626bfe762":[7,0,0,0,1,3,2,4,7,7,2]
 };

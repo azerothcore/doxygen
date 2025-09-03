@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d23/classspell__warr__retaliation.html#ae786a8c97e9f66152b8d0b55624a4eac":[6,0,4012,4],
 "db/d23/classspell__warr__retaliation.html#aeffb8490a7208ae6e32a505283afbc03":[6,0,4012,2],
 "db/d23/classspell__warr__retaliation.html#af01d160cb2a55124361a2dd113acd0a7":[6,0,4012,1],
 "db/d23/structnpc__amberpine__woodsman_1_1npc__amberpine__woodsmanAI.html":[6,0,1585,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d37/structSearchableAuctionEntryItem.html#a3fc02342ec2cdd81de7ef378edf30b54":[6,0,2531,0],
 "db/d37/structSearchableAuctionEntryItem.html#a650acd7b902fd4038f1ea384f595b058":[6,0,2531,7],
 "db/d37/structSearchableAuctionEntryItem.html#a73f9647b66aa316bdb97c50a20bc826f":[6,0,2531,6],
-"db/d37/structSearchableAuctionEntryItem.html#a9184925bad61ad58f35c4e4b3dbccd81":[6,0,2531,3],
-"db/d37/structSearchableAuctionEntryItem.html#aa1c185178359f1cbd5afcedd38a0e69f":[6,0,2531,5]
+"db/d37/structSearchableAuctionEntryItem.html#a9184925bad61ad58f35c4e4b3dbccd81":[6,0,2531,3]
 };
