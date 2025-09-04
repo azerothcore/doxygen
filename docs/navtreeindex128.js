@@ -1,5 +1,7 @@
 var NAVTREEINDEX128 =
 {
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a7a45b1c8e16c7840a45b96b15ca200b4":[5,0,28,23,4],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[6,0,9,23,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65":[5,0,28,23,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ade19ec7931454c375bf8564f05556c8e":[6,0,9,23,5],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#ade19ec7931454c375bf8564f05556c8e":[5,0,28,23,5],
@@ -150,13 +152,13 @@ var NAVTREEINDEX128 =
 "d4/d7f/classboss__thorim__trap.html#afd4ee85d73354b790c0d55abbfad75fd":[6,0,745,2],
 "d4/d7f/structPointOfInterestLocale.html":[6,0,2430],
 "d4/d7f/structPointOfInterestLocale.html#a624a1c1204cbc15acfc810a7720b8ea0":[6,0,2430,0],
-"d4/d80/structWMOAreaTableEntry.html":[6,0,4278],
-"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4278,3],
-"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4278,2],
-"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4278,4],
-"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4278,5],
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4278,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4278,0],
+"d4/d80/structWMOAreaTableEntry.html":[6,0,4279],
+"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4279,3],
+"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4279,2],
+"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4279,4],
+"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4279,5],
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4279,1],
+"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4279,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[6,0,624,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[6,0,624,0,7],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[6,0,624,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca9cc7fcd2607b62dc47019c24f44a2463":[7,0,0,0,1,3,5,2,1,1,58,5],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,5,2,1,1,58,3],
 "d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00ea":[7,0,0,0,1,3,5,2,1,1,64],
-"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa224d41981eead3a852d629c3d9a3c734":[7,0,0,0,1,3,5,2,1,1,64,1],
-"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa2384b0417b3ce06bf1d030a6072858aa":[7,0,0,0,1,3,5,2,1,1,64,0],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124":[7,0,0,0,1,3,5,2,1,1,35]
+"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa224d41981eead3a852d629c3d9a3c734":[7,0,0,0,1,3,5,2,1,1,64,1]
 };

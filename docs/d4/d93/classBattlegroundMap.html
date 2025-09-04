@@ -438,6 +438,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4faf2f3af3f1e747b6613a49c9bbe8cd inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a85aae7d2253ad0688faa4f084cfca85f inherit pub_methods_classMap" id="r_a85aae7d2253ad0688faa4f084cfca85f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a85aae7d2253ad0688faa4f084cfca85f">SendInitSelf</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player)</td></tr>
 <tr class="separator:a85aae7d2253ad0688faa4f084cfca85f inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeeb628f470a20c8b4b5bc694c75ce871 inherit pub_methods_classMap" id="r_aeeb628f470a20c8b4b5bc694c75ce871"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#aeeb628f470a20c8b4b5bc694c75ce871">UpdateExpiredCorpses</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const diff)</td></tr>
+<tr class="separator:aeeb628f470a20c8b4b5bc694c75ce871 inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a98ef9f7412045ae5124bd5cb7b65868a inherit pub_methods_classMap" id="r_a98ef9f7412045ae5124bd5cb7b65868a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a98ef9f7412045ae5124bd5cb7b65868a">PlayDirectSoundToMap</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> soundId, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId=0)</td></tr>
 <tr class="separator:a98ef9f7412045ae5124bd5cb7b65868a inherit pub_methods_classMap"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a10aa3dda3d879ae58a51c9e584a90948 inherit pub_methods_classMap" id="r_a10aa3dda3d879ae58a51c9e584a90948"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/classMap.html#a10aa3dda3d879ae58a51c9e584a90948">SetZoneMusic</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> musicId)</td></tr>
@@ -709,16 +711,16 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2187</span>    : <a class="code hl_class" href="../../d7/db0/classMap.html">Map</a>(<span class="keywordtype">id</span>, InstanceId, spawnMode, _parent), <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>(<span class="keyword">nullptr</span>)</div>
-<div class="line"><span class="lineno"> 2188</span>{</div>
-<div class="line"><span class="lineno"> 2189</span>    <span class="comment">//lets initialize visibility distance for BG/Arenas</span></div>
-<div class="line"><span class="lineno"> 2190</span>    <a class="code hl_function" href="../../d4/d93/classBattlegroundMap.html#af2d6847765d10fab527d77b26dd770ad">BattlegroundMap::InitVisibilityDistance</a>();</div>
-<div class="line"><span class="lineno"> 2191</span>}</div>
-<div class="ttc" id="aclassBattlegroundMap_html_aa38fff695728ddedc94dd6eb6bd7bf3b"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">BattlegroundMap::m_bg</a></div><div class="ttdeci">Battleground * m_bg</div><div class="ttdef"><b>Definition</b> Map.h:664</div></div>
-<div class="ttc" id="aclassBattlegroundMap_html_af2d6847765d10fab527d77b26dd770ad"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#af2d6847765d10fab527d77b26dd770ad">BattlegroundMap::InitVisibilityDistance</a></div><div class="ttdeci">void InitVisibilityDistance() override</div><div class="ttdef"><b>Definition</b> Map.cpp:2203</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2202</span>    : <a class="code hl_class" href="../../d7/db0/classMap.html">Map</a>(<span class="keywordtype">id</span>, InstanceId, spawnMode, _parent), <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno"> 2203</span>{</div>
+<div class="line"><span class="lineno"> 2204</span>    <span class="comment">//lets initialize visibility distance for BG/Arenas</span></div>
+<div class="line"><span class="lineno"> 2205</span>    <a class="code hl_function" href="../../d4/d93/classBattlegroundMap.html#af2d6847765d10fab527d77b26dd770ad">BattlegroundMap::InitVisibilityDistance</a>();</div>
+<div class="line"><span class="lineno"> 2206</span>}</div>
+<div class="ttc" id="aclassBattlegroundMap_html_aa38fff695728ddedc94dd6eb6bd7bf3b"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">BattlegroundMap::m_bg</a></div><div class="ttdeci">Battleground * m_bg</div><div class="ttdef"><b>Definition</b> Map.h:668</div></div>
+<div class="ttc" id="aclassBattlegroundMap_html_af2d6847765d10fab527d77b26dd770ad"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#af2d6847765d10fab527d77b26dd770ad">BattlegroundMap::InitVisibilityDistance</a></div><div class="ttdeci">void InitVisibilityDistance() override</div><div class="ttdef"><b>Definition</b> Map.cpp:2218</div></div>
 <div class="ttc" id="aclassMap_html"><div class="ttname"><a href="../../d7/db0/classMap.html">Map</a></div><div class="ttdef"><b>Definition</b> Map.h:158</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02203">InitVisibilityDistance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02218">InitVisibilityDistance()</a>.</p>
 
 </div>
 </div>
@@ -744,17 +746,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2194</span>{</div>
-<div class="line"><span class="lineno"> 2195</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>)</div>
-<div class="line"><span class="lineno"> 2196</span>    {</div>
-<div class="line"><span class="lineno"> 2197</span>        <span class="comment">//unlink to prevent crash, always unlink all pointer reference before destruction</span></div>
-<div class="line"><span class="lineno"> 2198</span>        <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af">SetBgMap</a>(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno"> 2199</span>        <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 2200</span>    }</div>
-<div class="line"><span class="lineno"> 2201</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2209</span>{</div>
+<div class="line"><span class="lineno"> 2210</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>)</div>
+<div class="line"><span class="lineno"> 2211</span>    {</div>
+<div class="line"><span class="lineno"> 2212</span>        <span class="comment">//unlink to prevent crash, always unlink all pointer reference before destruction</span></div>
+<div class="line"><span class="lineno"> 2213</span>        <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af">SetBgMap</a>(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno"> 2214</span>        <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 2215</span>    }</div>
+<div class="line"><span class="lineno"> 2216</span>}</div>
 <div class="ttc" id="aclassBattleground_html_a5330237a651b2e2c269c5c45e9dcd9af"><div class="ttname"><a href="../../df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af">Battleground::SetBgMap</a></div><div class="ttdeci">void SetBgMap(BattlegroundMap *map)</div><div class="ttdef"><b>Definition</b> Battleground.h:439</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00664">m_bg</a>, and <a class="el" href="../../#l00439">Battleground::SetBgMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00668">m_bg</a>, and <a class="el" href="../../#l00439">Battleground::SetBgMap()</a>.</p>
 
 </div>
 </div>
@@ -784,18 +786,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#ade440126c32b98c4fe83a1ca6a0c1846">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2230</span>{</div>
-<div class="line"><span class="lineno"> 2231</span>    player-&gt;<a class="code hl_variable" href="../../d2/d4b/classPlayer.html#a0f2e50ec63a8209c10af078686f2f278">m_InstanceValid</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2232</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
-<div class="line"><span class="lineno"> 2233</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, 100102, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2234</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/db0/classMap.html#ade440126c32b98c4fe83a1ca6a0c1846">Map::AddPlayerToMap</a>(player);</div>
-<div class="line"><span class="lineno"> 2235</span>}</div>
-<div class="ttc" id="aclassMap_html_ade440126c32b98c4fe83a1ca6a0c1846"><div class="ttname"><a href="../../d7/db0/classMap.html#ade440126c32b98c4fe83a1ca6a0c1846">Map::AddPlayerToMap</a></div><div class="ttdeci">virtual bool AddPlayerToMap(Player *)</div><div class="ttdef"><b>Definition</b> Map.cpp:244</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2245</span>{</div>
+<div class="line"><span class="lineno"> 2246</span>    player-&gt;<a class="code hl_variable" href="../../d2/d4b/classPlayer.html#a0f2e50ec63a8209c10af078686f2f278">m_InstanceValid</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2247</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno"> 2248</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, 100102, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2249</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/db0/classMap.html#ade440126c32b98c4fe83a1ca6a0c1846">Map::AddPlayerToMap</a>(player);</div>
+<div class="line"><span class="lineno"> 2250</span>}</div>
+<div class="ttc" id="aclassMap_html_ade440126c32b98c4fe83a1ca6a0c1846"><div class="ttname"><a href="../../d7/db0/classMap.html#ade440126c32b98c4fe83a1ca6a0c1846">Map::AddPlayerToMap</a></div><div class="ttdeci">virtual bool AddPlayerToMap(Player *)</div><div class="ttdef"><b>Definition</b> Map.cpp:246</div></div>
 <div class="ttc" id="aclassMap_html_afe645aa76713224c7e7fcd0f5e12fc79"><div class="ttname"><a href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">Map::IsBattleArena</a></div><div class="ttdeci">bool IsBattleArena() const</div><div class="ttdef"><b>Definition</b> Map.h:297</div></div>
 <div class="ttc" id="aclassPlayer_html_a0f2e50ec63a8209c10af078686f2f278"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a0f2e50ec63a8209c10af078686f2f278">Player::m_InstanceValid</a></div><div class="ttdeci">bool m_InstanceValid</div><div class="ttdef"><b>Definition</b> Player.h:2445</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00244">Map::AddPlayerToMap()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, and <a class="el" href="../../#l02445">Player::m_InstanceValid</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00246">Map::AddPlayerToMap()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, and <a class="el" href="../../#l02445">Player::m_InstanceValid</a>.</p>
 
 </div>
 </div>
@@ -834,21 +836,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2213</span>{</div>
-<div class="line"><span class="lineno"> 2214</span>    <span class="keywordflow">if</span> (!loginCheck &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#abaa337edfa09dd0272c1c4b7d9e6079c">GetMapRef</a>().<a class="code hl_function" href="../../d4/d52/classReference.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>() == <span class="keyword">this</span>)</div>
-<div class="line"><span class="lineno"> 2215</span>    {</div>
-<div class="line"><span class="lineno"> 2216</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;BGMap::CanEnter - player {} is already in map!&quot;</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno"> 2217</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
-<div class="line"><span class="lineno"> 2218</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea62da4c8a55a47ad723449049aa0b8b61">CANNOT_ENTER_ALREADY_IN_MAP</a>;</div>
-<div class="line"><span class="lineno"> 2219</span>    }</div>
-<div class="line"><span class="lineno"> 2220</span> </div>
-<div class="line"><span class="lineno"> 2221</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ac0238c1e89a66105296197175c2b121e">GetBattlegroundId</a>() != <a class="code hl_function" href="../../d7/db0/classMap.html#ae0451da49ca7ce3b856f38870c451e44">GetInstanceId</a>())</div>
-<div class="line"><span class="lineno"> 2222</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceaa713ae5d9139144511c533847d7d80db">CANNOT_ENTER_INSTANCE_BIND_MISMATCH</a>;</div>
-<div class="line"><span class="lineno"> 2223</span> </div>
-<div class="line"><span class="lineno"> 2224</span>    <span class="comment">// pussywizard: no need to check player limit here, invitations are limited by Battleground::GetFreeSlotsForTeam</span></div>
-<div class="line"><span class="lineno"> 2225</span> </div>
-<div class="line"><span class="lineno"> 2226</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7">Map::CannotEnter</a>(player, loginCheck);</div>
-<div class="line"><span class="lineno"> 2227</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2228</span>{</div>
+<div class="line"><span class="lineno"> 2229</span>    <span class="keywordflow">if</span> (!loginCheck &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#abaa337edfa09dd0272c1c4b7d9e6079c">GetMapRef</a>().<a class="code hl_function" href="../../d4/d52/classReference.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>() == <span class="keyword">this</span>)</div>
+<div class="line"><span class="lineno"> 2230</span>    {</div>
+<div class="line"><span class="lineno"> 2231</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;BGMap::CanEnter - player {} is already in map!&quot;</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno"> 2232</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno"> 2233</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea62da4c8a55a47ad723449049aa0b8b61">CANNOT_ENTER_ALREADY_IN_MAP</a>;</div>
+<div class="line"><span class="lineno"> 2234</span>    }</div>
+<div class="line"><span class="lineno"> 2235</span> </div>
+<div class="line"><span class="lineno"> 2236</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ac0238c1e89a66105296197175c2b121e">GetBattlegroundId</a>() != <a class="code hl_function" href="../../d7/db0/classMap.html#ae0451da49ca7ce3b856f38870c451e44">GetInstanceId</a>())</div>
+<div class="line"><span class="lineno"> 2237</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceaa713ae5d9139144511c533847d7d80db">CANNOT_ENTER_INSTANCE_BIND_MISMATCH</a>;</div>
+<div class="line"><span class="lineno"> 2238</span> </div>
+<div class="line"><span class="lineno"> 2239</span>    <span class="comment">// pussywizard: no need to check player limit here, invitations are limited by Battleground::GetFreeSlotsForTeam</span></div>
+<div class="line"><span class="lineno"> 2240</span> </div>
+<div class="line"><span class="lineno"> 2241</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7">Map::CannotEnter</a>(player, loginCheck);</div>
+<div class="line"><span class="lineno"> 2242</span>}</div>
 <div class="ttc" id="aErrors_8h_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition</b> Errors.h:76</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:158</div></div>
 <div class="ttc" id="aclassMap_html_ab8010a1270f6c3a7735de8f17d6b02a7"><div class="ttname"><a href="../../d7/db0/classMap.html#ab8010a1270f6c3a7735de8f17d6b02a7">Map::CannotEnter</a></div><div class="ttdeci">virtual EnterState CannotEnter(Player *, bool)</div><div class="ttdef"><b>Definition</b> Map.h:280</div></div>
@@ -887,11 +889,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  661</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  665</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00664">m_bg</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00668">m_bg</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00029">ArenaSpectator::HandleSpectatorSpectateCommand()</a>, <a class="el" href="../../#l02237">RemovePlayerFromMap()</a>, and <a class="el" href="../../#l00176">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00029">ArenaSpectator::HandleSpectatorSpectateCommand()</a>, <a class="el" href="../../#l02252">RemovePlayerFromMap()</a>, and <a class="el" href="../../#l00176">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -919,19 +921,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#adb9e3948d95e7c5cd964e7ea643e811f">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2204</span>{</div>
-<div class="line"><span class="lineno"> 2205</span>    <span class="comment">//init visibility distance for BG/Arenas</span></div>
-<div class="line"><span class="lineno"> 2206</span>    <a class="code hl_variable" href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">m_VisibleDistance</a> = <a class="code hl_function" href="../../d6/d39/classWorld.html#a205d28a88f24d88b7df0080b2fdcbc8b">World::GetMaxVisibleDistanceInBGArenas</a>();</div>
-<div class="line"><span class="lineno"> 2207</span> </div>
-<div class="line"><span class="lineno"> 2208</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>()) <span class="comment">// pussywizard: start with 30yd visibility range on arenas to ensure players can&#39;t get informations about the opponents in any way</span></div>
-<div class="line"><span class="lineno"> 2209</span>        <a class="code hl_variable" href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">m_VisibleDistance</a> = 30.0f;</div>
-<div class="line"><span class="lineno"> 2210</span>}</div>
-<div class="ttc" id="aclassMap_html_ac1dcad60fa21d983c548a38323775ee2"><div class="ttname"><a href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">Map::m_VisibleDistance</a></div><div class="ttdeci">float m_VisibleDistance</div><div class="ttdef"><b>Definition</b> Map.h:531</div></div>
-<div class="ttc" id="aclassWorld_html_a205d28a88f24d88b7df0080b2fdcbc8b"><div class="ttname"><a href="../../d6/d39/classWorld.html#a205d28a88f24d88b7df0080b2fdcbc8b">World::GetMaxVisibleDistanceInBGArenas</a></div><div class="ttdeci">static float GetMaxVisibleDistanceInBGArenas()</div><div class="ttdef"><b>Definition</b> World.h:217</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2219</span>{</div>
+<div class="line"><span class="lineno"> 2220</span>    <span class="comment">//init visibility distance for BG/Arenas</span></div>
+<div class="line"><span class="lineno"> 2221</span>    <a class="code hl_variable" href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">m_VisibleDistance</a> = <a class="code hl_function" href="../../d6/d39/classWorld.html#a205d28a88f24d88b7df0080b2fdcbc8b">World::GetMaxVisibleDistanceInBGArenas</a>();</div>
+<div class="line"><span class="lineno"> 2222</span> </div>
+<div class="line"><span class="lineno"> 2223</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>()) <span class="comment">// pussywizard: start with 30yd visibility range on arenas to ensure players can&#39;t get informations about the opponents in any way</span></div>
+<div class="line"><span class="lineno"> 2224</span>        <a class="code hl_variable" href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">m_VisibleDistance</a> = 30.0f;</div>
+<div class="line"><span class="lineno"> 2225</span>}</div>
+<div class="ttc" id="aclassMap_html_ac1dcad60fa21d983c548a38323775ee2"><div class="ttname"><a href="../../d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2">Map::m_VisibleDistance</a></div><div class="ttdeci">float m_VisibleDistance</div><div class="ttdef"><b>Definition</b> Map.h:533</div></div>
+<div class="ttc" id="aclassWorld_html_a205d28a88f24d88b7df0080b2fdcbc8b"><div class="ttname"><a href="../../d6/d39/classWorld.html#a205d28a88f24d88b7df0080b2fdcbc8b">World::GetMaxVisibleDistanceInBGArenas</a></div><div class="ttdeci">static float GetMaxVisibleDistanceInBGArenas()</div><div class="ttdef"><b>Definition</b> World.h:216</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00217">World::GetMaxVisibleDistanceInBGArenas()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, and <a class="el" href="../../#l00531">Map::m_VisibleDistance</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00216">World::GetMaxVisibleDistanceInBGArenas()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, and <a class="el" href="../../#l00533">Map::m_VisibleDistance</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02186">BattlegroundMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02201">BattlegroundMap()</a>.</p>
 
 </div>
 </div>
@@ -959,21 +961,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#a86b62b207ac3ddedf408936e40c87ea8">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2256</span>{</div>
-<div class="line"><span class="lineno"> 2257</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#a67b09b18e444852a4a3e6365ea17b6d7">HavePlayers</a>())</div>
-<div class="line"><span class="lineno"> 2258</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d45/classLinkedListHead_1_1Iterator.html">MapRefMgr::iterator</a> itr = <a class="code hl_variable" href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">m_mapRefMgr</a>.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != <a class="code hl_variable" href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">m_mapRefMgr</a>.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno"> 2259</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = itr-&gt;GetSource())</div>
-<div class="line"><span class="lineno"> 2260</span>                <span class="keywordflow">if</span> (!player-&gt;IsBeingTeleportedFar())</div>
-<div class="line"><span class="lineno"> 2261</span>                    player-&gt;TeleportTo(player-&gt;GetEntryPoint());</div>
-<div class="line"><span class="lineno"> 2262</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2271</span>{</div>
+<div class="line"><span class="lineno"> 2272</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#a67b09b18e444852a4a3e6365ea17b6d7">HavePlayers</a>())</div>
+<div class="line"><span class="lineno"> 2273</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d45/classLinkedListHead_1_1Iterator.html">MapRefMgr::iterator</a> itr = <a class="code hl_variable" href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">m_mapRefMgr</a>.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != <a class="code hl_variable" href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">m_mapRefMgr</a>.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno"> 2274</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = itr-&gt;GetSource())</div>
+<div class="line"><span class="lineno"> 2275</span>                <span class="keywordflow">if</span> (!player-&gt;IsBeingTeleportedFar())</div>
+<div class="line"><span class="lineno"> 2276</span>                    player-&gt;TeleportTo(player-&gt;GetEntryPoint());</div>
+<div class="line"><span class="lineno"> 2277</span>}</div>
 <div class="ttc" id="aclassLinkedListHead_1_1Iterator_html"><div class="ttname"><a href="../../d0/d45/classLinkedListHead_1_1Iterator.html">LinkedListHead::Iterator&lt; MapReference &gt;</a></div></div>
 <div class="ttc" id="aclassMapRefMgr_html_a6774b551f0d64628e33594c7b486a872"><div class="ttname"><a href="../../d4/dbe/classMapRefMgr.html#a6774b551f0d64628e33594c7b486a872">MapRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition</b> MapRefMgr.h:36</div></div>
 <div class="ttc" id="aclassMapRefMgr_html_af488c0096775085791b5fbc89e5851a0"><div class="ttname"><a href="../../d4/dbe/classMapRefMgr.html#af488c0096775085791b5fbc89e5851a0">MapRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition</b> MapRefMgr.h:37</div></div>
-<div class="ttc" id="aclassMap_html_a1acedf1441514a41ee86f73bba9d05d9"><div class="ttname"><a href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">Map::m_mapRefMgr</a></div><div class="ttdeci">MapRefMgr m_mapRefMgr</div><div class="ttdef"><b>Definition</b> Map.h:535</div></div>
+<div class="ttc" id="aclassMap_html_a1acedf1441514a41ee86f73bba9d05d9"><div class="ttname"><a href="../../d7/db0/classMap.html#a1acedf1441514a41ee86f73bba9d05d9">Map::m_mapRefMgr</a></div><div class="ttdeci">MapRefMgr m_mapRefMgr</div><div class="ttdef"><b>Definition</b> Map.h:537</div></div>
 <div class="ttc" id="aclassMap_html_a67b09b18e444852a4a3e6365ea17b6d7"><div class="ttname"><a href="../../d7/db0/classMap.html#a67b09b18e444852a4a3e6365ea17b6d7">Map::HavePlayers</a></div><div class="ttdeci">bool HavePlayers() const</div><div class="ttdef"><b>Definition</b> Map.h:315</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1072</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">MapRefMgr::begin()</a>, <a class="el" href="../../#l00037">MapRefMgr::end()</a>, <a class="el" href="../../#l00315">Map::HavePlayers()</a>, and <a class="el" href="../../#l00535">Map::m_mapRefMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">MapRefMgr::begin()</a>, <a class="el" href="../../#l00037">MapRefMgr::end()</a>, <a class="el" href="../../#l00315">Map::HavePlayers()</a>, and <a class="el" href="../../#l00537">Map::m_mapRefMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00263">MapInstanced::DestroyInstance()</a>.</p>
 
@@ -1014,23 +1016,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e">Map</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2238</span>{</div>
-<div class="line"><span class="lineno"> 2239</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = <a class="code hl_function" href="../../d4/d93/classBattlegroundMap.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>())</div>
-<div class="line"><span class="lineno"> 2240</span>    {</div>
-<div class="line"><span class="lineno"> 2241</span>        bg-&gt;RemovePlayerAtLeave(player);</div>
-<div class="line"><span class="lineno"> 2242</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
-<div class="line"><span class="lineno"> 2243</span>            bg-&gt;RemoveSpectator(player);</div>
-<div class="line"><span class="lineno"> 2244</span>    }</div>
-<div class="line"><span class="lineno"> 2245</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
-<div class="line"><span class="lineno"> 2246</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(100102);</div>
-<div class="line"><span class="lineno"> 2247</span>    <a class="code hl_function" href="../../d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e">Map::RemovePlayerFromMap</a>(player, remove);</div>
-<div class="line"><span class="lineno"> 2248</span>}</div>
-<div class="ttc" id="aclassBattlegroundMap_html_a2fcb965981bb03571f12c11cdbac54a4"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#a2fcb965981bb03571f12c11cdbac54a4">BattlegroundMap::GetBG</a></div><div class="ttdeci">Battleground * GetBG()</div><div class="ttdef"><b>Definition</b> Map.h:661</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2253</span>{</div>
+<div class="line"><span class="lineno"> 2254</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = <a class="code hl_function" href="../../d4/d93/classBattlegroundMap.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>())</div>
+<div class="line"><span class="lineno"> 2255</span>    {</div>
+<div class="line"><span class="lineno"> 2256</span>        bg-&gt;RemovePlayerAtLeave(player);</div>
+<div class="line"><span class="lineno"> 2257</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno"> 2258</span>            bg-&gt;RemoveSpectator(player);</div>
+<div class="line"><span class="lineno"> 2259</span>    }</div>
+<div class="line"><span class="lineno"> 2260</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno"> 2261</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(100102);</div>
+<div class="line"><span class="lineno"> 2262</span>    <a class="code hl_function" href="../../d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e">Map::RemovePlayerFromMap</a>(player, remove);</div>
+<div class="line"><span class="lineno"> 2263</span>}</div>
+<div class="ttc" id="aclassBattlegroundMap_html_a2fcb965981bb03571f12c11cdbac54a4"><div class="ttname"><a href="../../d4/d93/classBattlegroundMap.html#a2fcb965981bb03571f12c11cdbac54a4">BattlegroundMap::GetBG</a></div><div class="ttdeci">Battleground * GetBG()</div><div class="ttdef"><b>Definition</b> Map.h:665</div></div>
 <div class="ttc" id="aclassBattleground_html"><div class="ttname"><a href="../../df/da7/classBattleground.html">Battleground</a></div><div class="ttdef"><b>Definition</b> Battleground.h:294</div></div>
-<div class="ttc" id="aclassMap_html_a211a6e019d7b01955cf1321b156d341e"><div class="ttname"><a href="../../d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e">Map::RemovePlayerFromMap</a></div><div class="ttdeci">virtual void RemovePlayerFromMap(Player *, bool)</div><div class="ttdef"><b>Definition</b> Map.cpp:624</div></div>
+<div class="ttc" id="aclassMap_html_a211a6e019d7b01955cf1321b156d341e"><div class="ttname"><a href="../../d7/db0/classMap.html#a211a6e019d7b01955cf1321b156d341e">Map::RemovePlayerFromMap</a></div><div class="ttdeci">virtual void RemovePlayerFromMap(Player *, bool)</div><div class="ttdef"><b>Definition</b> Map.cpp:628</div></div>
 <div class="ttc" id="aclassUnit_html_a1be09c524dfdd2c3538f2ae977c58399"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">Unit::RemoveAura</a></div><div class="ttdeci">void RemoveAura(AuraApplicationMap::iterator &amp;i, AuraRemoveMode mode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4842</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00661">GetBG()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, <a class="el" href="../../#l04842">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00624">Map::RemovePlayerFromMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00665">GetBG()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, <a class="el" href="../../#l04842">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00628">Map::RemovePlayerFromMap()</a>.</p>
 
 </div>
 </div>
@@ -1057,9 +1059,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  662</span>{ <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a> = bg; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  666</span>{ <a class="code hl_variable" href="../../d4/d93/classBattlegroundMap.html#aa38fff695728ddedc94dd6eb6bd7bf3b">m_bg</a> = bg; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00664">m_bg</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00668">m_bg</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00234">MapInstanced::CreateBattleground()</a>, and <a class="el" href="../../#l00214">Battleground::~Battleground()</a>.</p>
 
@@ -1079,13 +1081,13 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2251</span>{</div>
-<div class="line"><span class="lineno"> 2252</span>    <a class="code hl_variable" href="../../d7/db0/classMap.html#a41e53a51784b9f424fe10ecafba8ccb5">m_unloadTimer</a> = <a class="code hl_define" href="../../df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb">MIN_UNLOAD_DELAY</a>;</div>
-<div class="line"><span class="lineno"> 2253</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2266</span>{</div>
+<div class="line"><span class="lineno"> 2267</span>    <a class="code hl_variable" href="../../d7/db0/classMap.html#a41e53a51784b9f424fe10ecafba8ccb5">m_unloadTimer</a> = <a class="code hl_define" href="../../df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb">MIN_UNLOAD_DELAY</a>;</div>
+<div class="line"><span class="lineno"> 2268</span>}</div>
 <div class="ttc" id="aMap_8h_html_a092c3d2c90fd46d14455e6ff2413dabb"><div class="ttname"><a href="../../df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb">MIN_UNLOAD_DELAY</a></div><div class="ttdeci">#define MIN_UNLOAD_DELAY</div><div class="ttdef"><b>Definition</b> Map.h:88</div></div>
-<div class="ttc" id="aclassMap_html_a41e53a51784b9f424fe10ecafba8ccb5"><div class="ttname"><a href="../../d7/db0/classMap.html#a41e53a51784b9f424fe10ecafba8ccb5">Map::m_unloadTimer</a></div><div class="ttdeci">uint32 m_unloadTimer</div><div class="ttdef"><b>Definition</b> Map.h:530</div></div>
+<div class="ttc" id="aclassMap_html_a41e53a51784b9f424fe10ecafba8ccb5"><div class="ttname"><a href="../../d7/db0/classMap.html#a41e53a51784b9f424fe10ecafba8ccb5">Map::m_unloadTimer</a></div><div class="ttdeci">uint32 m_unloadTimer</div><div class="ttdef"><b>Definition</b> Map.h:532</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00530">Map::m_unloadTimer</a>, and <a class="el" href="../../#l00088">MIN_UNLOAD_DELAY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00532">Map::m_unloadTimer</a>, and <a class="el" href="../../#l00088">MIN_UNLOAD_DELAY</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00214">Battleground::~Battleground()</a>.</p>
 
@@ -1112,7 +1114,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00661">GetBG()</a>, <a class="el" href="../../#l00662">SetBG()</a>, and <a class="el" href="../../#l02193">~BattlegroundMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00665">GetBG()</a>, <a class="el" href="../../#l00666">SetBG()</a>, and <a class="el" href="../../#l02208">~BattlegroundMap()</a>.</p>
 
 </div>
 </div>
@@ -1126,7 +1128,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d93/classBattlegroundMap.html">BattlegroundMap</a></li>
-    <li class="footer">Generated on Wed Sep 3 2025 06:22:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Sep 4 2025 06:22:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

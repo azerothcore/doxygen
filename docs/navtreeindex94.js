@@ -1,5 +1,7 @@
 var NAVTREEINDEX94 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08abb7a1c3a5092c0ebd094ef0d705b4989":[7,0,0,0,1,3,5,9,2,13,65,57],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac3d7238031acdb87580959bb19fdaacd":[7,0,0,0,1,3,5,9,2,13,65,42],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac4ed1047775b70d0c87cf73d72125b19":[7,0,0,0,1,3,5,9,2,13,65,5],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac51147b4c3313110355203bc22ce8084":[7,0,0,0,1,3,5,9,2,13,65,17],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025":[7,0,0,0,1,3,5,9,2,13,65,34],
@@ -239,15 +241,13 @@ var NAVTREEINDEX94 =
 "d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[6,0,1749,1],
 "d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[6,0,1749,2],
 "d3/d3e/PassiveAI_8cpp.html":[7,0,0,0,1,2,3,0,6],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4052],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[6,0,4052,3],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[6,0,4052,1],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[6,0,4052,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[6,0,4052,0],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4053],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[6,0,4053,3],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[6,0,4053,1],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[6,0,4053,2],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[6,0,4053,0],
 "d3/d41/classGameObjectModelOwnerImpl.html":[6,0,1086],
 "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[6,0,1086,6],
 "d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[6,0,1086,2],
-"d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0":[6,0,1086,8],
-"d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988":[6,0,1086,5],
-"d3/d41/classGameObjectModelOwnerImpl.html#acb968e3bd921aac111a2e06f2604b040":[6,0,1086,3]
+"d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0":[6,0,1086,8]
 };

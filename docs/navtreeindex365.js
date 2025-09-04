@@ -1,5 +1,11 @@
 var NAVTREEINDEX365 =
 {
+"de/d6d/classServerOpcodeHandler.html":[4,1,8],
+"de/d6e/classnpc__dalaran__mage.html":[6,0,1722],
+"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[6,0,1722,1],
+"de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[6,0,1722,2],
+"de/d6e/structAUTH__LOGON__PROOF__S.html":[6,0,290],
+"de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[6,0,290,4],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5846630b9df94b9f4784e59e7f320257":[6,0,290,1],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,290,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#aa8e111f748d165f854b2deff5a81577f":[6,0,290,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX365 =
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,970,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,970,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,970,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2768],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2768,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2768,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2768,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2768,0],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1352,0],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[6,0,1352,0,11]
+"de/d75/classspell__dk__death__pact.html":[6,0,2768]
 };

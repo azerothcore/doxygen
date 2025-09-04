@@ -1,5 +1,11 @@
 var NAVTREEINDEX299 =
 {
+"dc/d00/chapter5_8cpp.html#a2361288a6bfc083ea12d77072611faa0a5306e5f74f768fc37cb75e361f8836ce":[7,0,0,0,1,3,2,6,3,6,1],
+"dc/d00/chapter5_8cpp.html#a2361288a6bfc083ea12d77072611faa0aab1104f8c2f8269d74409816be80ef69":[7,0,0,0,1,3,2,6,3,6,0],
+"dc/d00/chapter5_8cpp.html#a3ec3399c01c2d3c6799f5ee0758f0211":[7,0,0,0,1,3,2,6,3,12],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1":[7,0,0,0,1,3,2,6,3,9],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a0970dbc32997dcb4cc2a64072a2220a0":[7,0,0,0,1,3,2,6,3,9,19],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a17645ad38bb5b7927ab2dff63cbdc924":[7,0,0,0,1,3,2,6,3,9,5],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a20420eaff8f4d580fb10045b8abdd96f":[7,0,0,0,1,3,2,6,3,9,13],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a29e4d6cef809d75e6601e53c2438976c":[7,0,0,0,1,3,2,6,3,9,4],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a2a9cbf0779ce2b26fb025f4fc9831d96":[7,0,0,0,1,3,2,6,3,9,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d01/classdisable__commandscript.html#aae06939a2fc52aedce54a75db4b3c218":[6,0,979,17],
 "dc/d01/classdisable__commandscript.html#ab0d61b762d728c1a35e20cda3c347c55":[6,0,979,12],
 "dc/d01/classdisable__commandscript.html#ac5088383c36894c7bd753ee99086e508":[6,0,979,10],
-"dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,979,0],
-"dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,979,4],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2670],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2670,1],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2670,0],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2670,2],
-"dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4]
+"dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,979,0]
 };

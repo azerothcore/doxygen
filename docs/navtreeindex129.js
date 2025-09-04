@@ -1,5 +1,7 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa2384b0417b3ce06bf1d030a6072858aa":[7,0,0,0,1,3,5,2,1,1,64,0],
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124":[7,0,0,0,1,3,5,2,1,1,35],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a4a3ca1a3b56932bdcbe95f057d161b25":[7,0,0,0,1,3,5,2,1,1,35,3],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a7a1fcc392203156fa5f0c7b50574bf44":[7,0,0,0,1,3,5,2,1,1,35,5],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a89249acef2d72d2d2cefbd270ca8d5e6":[7,0,0,0,1,3,5,2,1,1,35,1],
@@ -198,16 +200,16 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aad680497fcd797bb333d73b772a1255c8":[7,0,0,0,1,3,5,2,1,1,42,3],
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aaf7620485f601407e9d37d1924c7dc473":[7,0,0,0,1,3,5,2,1,1,42,0],
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aaffdfb7a077825dc6792fbc0da351e871":[7,0,0,0,1,3,5,2,1,1,42,4],
-"d4/d81/classspell__yogg__saron__insane__aura.html":[6,0,4046],
-"d4/d81/classspell__yogg__saron__insane__aura.html#a0e2113cd165f9f6ce88ba6eea9034806":[6,0,4046,0],
-"d4/d81/classspell__yogg__saron__insane__aura.html#a5fb0837417b915676549370cc76c477d":[6,0,4046,1],
-"d4/d81/classspell__yogg__saron__insane__aura.html#a7f1844fded6ad112cc99d33f52e0799c":[6,0,4046,2],
-"d4/d81/structTransportAnimationEntry.html":[6,0,4177],
-"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[6,0,4177,3],
-"d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[6,0,4177,4],
-"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4177,1],
-"d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4177,2],
-"d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[6,0,4177,0],
+"d4/d81/classspell__yogg__saron__insane__aura.html":[6,0,4047],
+"d4/d81/classspell__yogg__saron__insane__aura.html#a0e2113cd165f9f6ce88ba6eea9034806":[6,0,4047,0],
+"d4/d81/classspell__yogg__saron__insane__aura.html#a5fb0837417b915676549370cc76c477d":[6,0,4047,1],
+"d4/d81/classspell__yogg__saron__insane__aura.html#a7f1844fded6ad112cc99d33f52e0799c":[6,0,4047,2],
+"d4/d81/structTransportAnimationEntry.html":[6,0,4178],
+"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[6,0,4178,3],
+"d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[6,0,4178,4],
+"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4178,1],
+"d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4178,2],
+"d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[6,0,4178,0],
 "d4/d82/classspell__blight__worm__ingest.html":[6,0,2660],
 "d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2660,1],
 "d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2660,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523":[7,0,0,0,1,2,3,1,5,1,2],
 "d4/d85/classnpc__strangulate__vehicle.html":[6,0,2148],
 "d4/d85/classnpc__strangulate__vehicle.html#a04532bc5902af45b1e9c76cf1cec9add":[6,0,2148,1],
-"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2148,2],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html":[6,0,612,0],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a0dca07b45b3293a0f19401b299fbfb9c":[6,0,612,0,2]
+"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2148,2]
 };

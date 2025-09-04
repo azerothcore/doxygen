@@ -1,5 +1,11 @@
 var NAVTREEINDEX318 =
 {
+"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[7,0,0,0,1,2,40,1,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html":[7,0,0,0,1,3,2,12,6],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,12,6,14],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216":[7,0,0,0,1,3,2,12,6,10],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368":[7,0,0,0,1,3,2,12,6,10,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b":[7,0,0,0,1,3,2,12,6,10,0],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e":[7,0,0,0,1,3,2,12,6,10,2],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX318 =
 "dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8],
 "dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
 "dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8],
-"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
-"dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
-"dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
-"dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
-"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
-"dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0]
+"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8]
 };

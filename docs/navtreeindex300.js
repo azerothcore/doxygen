@@ -1,5 +1,11 @@
 var NAVTREEINDEX300 =
 {
+"dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,979,4],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2670],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2670,1],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2670,0],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2670,2],
+"dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
 "dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[7,0,0,0,1,3,7,4,1,4,2],
 "dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,89],
 "dc/d03/InstanceMapScript_8h.html":[7,0,0,0,1,2,38,0,58],
@@ -100,10 +106,10 @@ var NAVTREEINDEX300 =
 "dc/d07/classnpc__captain__brandon.html":[6,0,1675],
 "dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1675,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1675,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3133],
-"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3133,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3133,0],
-"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3133,2],
+"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3134],
+"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3134,1],
+"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3134,0],
+"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3134,2],
 "dc/d07/halls__of__reflection_8cpp.html":[7,0,0,0,1,3,5,4,1,2],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543":[7,0,0,0,1,3,5,4,1,2,32],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a045c165c307fd58d9f2a27b2ffdef086":[7,0,0,0,1,3,5,4,1,2,32,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9d58c4083728a4652b06dda805b76c9":[7,0,0,0,1,3,5,4,1,2,33,22],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb05711c33ffcbdb6dd9ebe06d691504":[7,0,0,0,1,3,5,4,1,2,33,15],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb68f937d20a2c3b950fa0472657a174":[7,0,0,0,1,3,5,4,1,2,33,11],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc0378017b872625a84efb340c7c3224":[7,0,0,0,1,3,5,4,1,2,33,8],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1addf50b7ce422c565cdfa865d4f741dc2":[7,0,0,0,1,3,5,4,1,2,33,19],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adf7aea44d244b5d8d7bfad495c5f42db":[7,0,0,0,1,3,5,4,1,2,33,28],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0a5c09d3ec69c8e7850531771251152":[7,0,0,0,1,3,5,4,1,2,33,16],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae193083953e93a044b4f1a70ee43b72b":[7,0,0,0,1,3,5,4,1,2,33,3],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae212b7ea9df121f54f0e1d103a584630":[7,0,0,0,1,3,5,4,1,2,33,62],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae6621a52452c1d9bcdaffb31dfc8ce4b":[7,0,0,0,1,3,5,4,1,2,33,43]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc0378017b872625a84efb340c7c3224":[7,0,0,0,1,3,5,4,1,2,33,8]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX334 =
 {
+"dd/dac/pit__of__saron_8h.html#aa63746b129e86d39a3f0010671af9e35":[7,0,0,0,1,3,5,4,2,5,35],
+"dd/dac/pit__of__saron_8h.html#aa8facc4fa02b031be7121767e65080b1":[7,0,0,0,1,3,5,4,2,5,34],
+"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3fa":[7,0,0,0,1,3,5,4,2,5,8],
+"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3faa2e0bb89777a30e2cd2dcd394174cf13a":[7,0,0,0,1,3,5,4,2,5,8,0],
+"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3faa2f8e63a003a0b97aac6607ede1f3f3b7":[7,0,0,0,1,3,5,4,2,5,8,1],
+"dd/dac/pit__of__saron_8h.html#aae4d1cc157d63faa67b8f272b643c977":[7,0,0,0,1,3,5,4,2,5,27],
 "dd/dac/pit__of__saron_8h.html#abd10aa8c3d121fbc5a908fa4779f77c2":[7,0,0,0,1,3,5,4,2,5,29],
 "dd/dac/pit__of__saron_8h.html#abeaa4f36310dad260da44b4e0daf43a0":[7,0,0,0,1,3,5,4,2,5,19],
 "dd/dac/pit__of__saron_8h.html#ac8331e51ea541bfd050c3deb5dc0a07a":[7,0,0,0,1,3,5,4,2,5,5],
@@ -142,10 +148,10 @@ var NAVTREEINDEX334 =
 "dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,3006,2],
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,3006,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[6,0,3006,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3206],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3206,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3206,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3206,1],
+"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3207],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3207,0],
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3207,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3207,1],
 "dd/db2/classGenericCreatureScript.html":[6,0,1095],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[6,0,1095,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[6,0,1095,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX334 =
 "dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[6,0,2498,14],
 "dd/db3/classReputationMgr.html#a9ae73ca846cc87d0af038414f76af880":[6,0,2498,47],
 "dd/db3/classReputationMgr.html#aa1771208a72c53e3700357e75aca4108":[6,0,2498,43],
-"dd/db3/classReputationMgr.html#aa2ea3e3ae0aa30330c53663a87395ce1":[6,0,2498,44],
-"dd/db3/classReputationMgr.html#aa7f0691fbc9758e8170967df0093aaf8":[6,0,2498,51],
-"dd/db3/classReputationMgr.html#aa9df2e895c320ee722dbcd0265bb0178":[6,0,2498,0],
-"dd/db3/classReputationMgr.html#ab0e0bb0621dfc8d41c802130642834db":[6,0,2498,36],
-"dd/db3/classReputationMgr.html#ab67626904e51d2b94d825f24ce457bcc":[6,0,2498,12],
-"dd/db3/classReputationMgr.html#aba695c05cd0e5c2190e8cebc24c14004":[6,0,2498,20],
-"dd/db3/classReputationMgr.html#ac45cfd285d11d13b1795e72aedb6fc70":[6,0,2498,48]
+"dd/db3/classReputationMgr.html#aa2ea3e3ae0aa30330c53663a87395ce1":[6,0,2498,44]
 };

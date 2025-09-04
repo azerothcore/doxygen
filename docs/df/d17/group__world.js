@@ -84,7 +84,6 @@ var group__world =
       [ "ProcessCliCommands", "d6/d39/classWorld.html#a22ba72387cf729585d0a3dff5b68a0b5", null ],
       [ "ProcessQueryCallbacks", "d6/d39/classWorld.html#aae7024335255ec3d29bddd52ca535327", null ],
       [ "QueueCliCommand", "d6/d39/classWorld.html#a681852aa66dfa02932f81f7ddeec6445", null ],
-      [ "RemoveOldCorpses", "d6/d39/classWorld.html#ab6ca02fd65db08e2d2081ee7ec33685a", null ],
       [ "ResetDailyQuests", "d6/d39/classWorld.html#aacbfdbc7a83d937ad907f4a243352493", null ],
       [ "ResetEventSeasonalQuests", "d6/d39/classWorld.html#a3837326c86546787ed5f98415e0fdcae", null ],
       [ "ResetGuildCap", "d6/d39/classWorld.html#a79351ea85793bf75a5104e1e153a237b", null ],
@@ -221,7 +220,6 @@ var group__world =
     [ "WorldTimers", "df/d17/group__world.html#ga4dcd824b4592ac27595e16471efe0520", [
       [ "WUPDATE_WEATHERS", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520abb4b6bdb4b5ae3799d4f0ca456733cce", null ],
       [ "WUPDATE_UPTIME", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c", null ],
-      [ "WUPDATE_CORPSES", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a333f639c939c9e723150abb74ebcd206", null ],
       [ "WUPDATE_EVENTS", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520ad21d0e0cae7555877c5805ce446e2628", null ],
       [ "WUPDATE_CLEANDB", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a26e7cf66fbcba5c52d1716b77262981f", null ],
       [ "WUPDATE_AUTOBROADCAST", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a8ed1fe2bb98e8e56fe8604d549af261d", null ],

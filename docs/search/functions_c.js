@@ -60,7 +60,7 @@ var searchData=
   ['library_5finit_57',['Library_Init',['../d0/dc2/namespaceMySQL.html#a70b74137156f0a22792c3cf95c54decc',1,'MySQL']]],
   ['lichkingdeathevent_58',['LichKingDeathEvent',['../d3/d5b/classLichKingDeathEvent.html#a9aa328b60358034355b1eed5caacb9f8',1,'LichKingDeathEvent']]],
   ['lichkingmovieevent_59',['LichKingMovieEvent',['../d2/df9/classLichKingMovieEvent.html#a3e48e13dc5166c73a9f379045988f86a',1,'LichKingMovieEvent']]],
-  ['linefrommessage_60',['linefrommessage',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211',1,'Acore::WorldWorldTextBuilder::lineFromMessage()'],['../d6/d38/classChatHandler.html#ac1e660df0286be7cd7e97ed7ad6e3fe2',1,'ChatHandler::LineFromMessage()']]],
+  ['linefrommessage_60',['linefrommessage',['../d6/d38/classChatHandler.html#ac1e660df0286be7cd7e97ed7ad6e3fe2',1,'ChatHandler::LineFromMessage()'],['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211',1,'Acore::WorldWorldTextBuilder::lineFromMessage()']]],
   ['link_61',['link',['../da/d7e/classMapGrid.html#abebb5ce3cfb117458f4f2661ade5aa15',1,'MapGrid::link()'],['../d4/d52/classReference.html#a6c7a8395a8f77e33772959f068296aaf',1,'Reference::link()']]],
   ['linkedlistelement_62',['LinkedListElement',['../d4/d28/classLinkedListElement.html#ac1194068a8be3b5633aee45147bdcdc3',1,'LinkedListElement']]],
   ['linkedlisthead_63',['LinkedListHead',['../db/dea/classLinkedListHead.html#ab9a10897505b9315f7abef37ca53ae3d',1,'LinkedListHead']]],

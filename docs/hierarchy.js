@@ -905,6 +905,7 @@ var hierarchy =
         [ "spell_hallows_end_tricky_treat", "d9/d68/classspell__hallows__end__tricky__treat.html", null ],
         [ "spell_hatch_eggs", "dc/d9a/classspell__hatch__eggs.html", null ],
         [ "spell_hate_to_zero", "df/d78/classspell__hate__to__zero.html", null ],
+        [ "spell_hawk_hunting", "d4/dc6/classspell__hawk__hunting.html", null ],
         [ "spell_herald_volzaj_insanity", "d6/d09/classspell__herald__volzaj__insanity.html", null ],
         [ "spell_hodir_flash_freeze", "de/d15/classspell__hodir__flash__freeze.html", null ],
         [ "spell_hodir_periodic_icicle", "de/d18/classspell__hodir__periodic__icicle.html", null ],

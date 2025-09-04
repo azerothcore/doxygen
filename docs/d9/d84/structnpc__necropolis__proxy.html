@@ -548,10 +548,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  269</span>                                             : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno">  270</span>    {</div>
-<div class="line"><span class="lineno">  271</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  272</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  270</span>                                             : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  271</span>    {</div>
+<div class="line"><span class="lineno">  272</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  273</span>    }</div>
 <div class="ttc" id="aclassWorldObject_html_a7182e916128ed9d0942413c0f14315a7"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">WorldObject::setActive</a></div><div class="ttdeci">void setActive(bool isActiveObject)</div><div class="ttdef"><b>Definition</b> Object.cpp:1065</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
@@ -596,23 +596,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  275</span>    {</div>
-<div class="line"><span class="lineno">  276</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;Id)</div>
-<div class="line"><span class="lineno">  277</span>        {</div>
-<div class="line"><span class="lineno">  278</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5fd474ff2cff0c286ec702b8017bf255">SPELL_COMMUNIQUE_NECROPOLIS_TO_PROXIES</a>:</div>
-<div class="line"><span class="lineno">  279</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a859004a6df9a4b1103d72a054e8e3739">SPELL_COMMUNIQUE_PROXY_TO_RELAY</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  280</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2ed3d99759fb6c66c9d8c11f4b9166c0">SPELL_COMMUNIQUE_RELAY_TO_PROXY</a>:</div>
-<div class="line"><span class="lineno">  282</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824aa4d76e0baf2656a5f29cd25b928ecce8">SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  283</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  284</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>:</div>
-<div class="line"><span class="lineno">  285</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* health = <a class="code hl_function" href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa83f4ae02f7bf60384f8a2f43f121d471">NPC_NECROPOLIS_HEALTH</a>, 200.0f))</div>
-<div class="line"><span class="lineno">  286</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(health, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  287</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  288</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  289</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  290</span>        }</div>
-<div class="line"><span class="lineno">  291</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  276</span>    {</div>
+<div class="line"><span class="lineno">  277</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;Id)</div>
+<div class="line"><span class="lineno">  278</span>        {</div>
+<div class="line"><span class="lineno">  279</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5fd474ff2cff0c286ec702b8017bf255">SPELL_COMMUNIQUE_NECROPOLIS_TO_PROXIES</a>:</div>
+<div class="line"><span class="lineno">  280</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a859004a6df9a4b1103d72a054e8e3739">SPELL_COMMUNIQUE_PROXY_TO_RELAY</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  281</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  282</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2ed3d99759fb6c66c9d8c11f4b9166c0">SPELL_COMMUNIQUE_RELAY_TO_PROXY</a>:</div>
+<div class="line"><span class="lineno">  283</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824aa4d76e0baf2656a5f29cd25b928ecce8">SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  284</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>:</div>
+<div class="line"><span class="lineno">  286</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* health = <a class="code hl_function" href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa83f4ae02f7bf60384f8a2f43f121d471">NPC_NECROPOLIS_HEALTH</a>, 200.0f))</div>
+<div class="line"><span class="lineno">  287</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(health, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  288</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  290</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  291</span>        }</div>
+<div class="line"><span class="lineno">  292</span>    }</div>
 <div class="ttc" id="aScriptedCreature_8cpp_html_a136c0c059281a05f9cb91237ce55be7b"><div class="ttname"><a href="../../dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a></div><div class="ttdeci">Creature * GetClosestCreatureWithEntry(WorldObject *source, uint32 entry, float maxSearchRange, bool alive)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:865</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:391</div></div>
@@ -663,11 +663,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  294</span>    {</div>
-<div class="line"><span class="lineno">  295</span>        <span class="comment">// Make sure me despawn after SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH hits the target to avoid getting hit by Purple bolt again.</span></div>
-<div class="line"><span class="lineno">  296</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>)</div>
-<div class="line"><span class="lineno">  297</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>();</div>
-<div class="line"><span class="lineno">  298</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  295</span>    {</div>
+<div class="line"><span class="lineno">  296</span>        <span class="comment">// Make sure me despawn after SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH hits the target to avoid getting hit by Purple bolt again.</span></div>
+<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1897e19df97b1e5661464a7a623c0d2c">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>)</div>
+<div class="line"><span class="lineno">  298</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>();</div>
+<div class="line"><span class="lineno">  299</span>    }</div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2180</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00070">SPELL_COMMUNIQUE_CAMP_TO_RELAY_DEATH</a>.</p>
@@ -683,7 +683,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d84/structnpc__necropolis__proxy.html">npc_necropolis_proxy</a></li>
-    <li class="footer">Generated on Wed Sep 3 2025 06:22:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Sep 4 2025 06:23:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

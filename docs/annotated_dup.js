@@ -3579,6 +3579,7 @@ var annotated_dup =
     [ "spell_hallows_end_tricky_treat", "d9/d68/classspell__hallows__end__tricky__treat.html", "d9/d68/classspell__hallows__end__tricky__treat" ],
     [ "spell_hatch_eggs", "dc/d9a/classspell__hatch__eggs.html", "dc/d9a/classspell__hatch__eggs" ],
     [ "spell_hate_to_zero", "df/d78/classspell__hate__to__zero.html", "df/d78/classspell__hate__to__zero" ],
+    [ "spell_hawk_hunting", "d4/dc6/classspell__hawk__hunting.html", "d4/dc6/classspell__hawk__hunting" ],
     [ "spell_herald_volzaj_insanity", "d6/d09/classspell__herald__volzaj__insanity.html", "d6/d09/classspell__herald__volzaj__insanity" ],
     [ "spell_hexlord_unstable_affliction", "d6/d16/classspell__hexlord__unstable__affliction.html", "d6/d16/classspell__hexlord__unstable__affliction" ],
     [ "spell_hodir_biting_cold_main_aura", "dd/da9/classspell__hodir__biting__cold__main__aura.html", "dd/da9/classspell__hodir__biting__cold__main__aura" ],

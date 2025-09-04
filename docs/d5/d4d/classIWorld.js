@@ -30,7 +30,6 @@ var classIWorld =
     [ "LoadDBVersion", "d5/d4d/classIWorld.html#a79dd26c3602b7efc27b8aeea9824fa46", null ],
     [ "ProcessCliCommands", "d5/d4d/classIWorld.html#ace81c5c964fe9ed968a95ac40580c55b", null ],
     [ "QueueCliCommand", "d5/d4d/classIWorld.html#a325294771c12b3a097363856a9bdd260", null ],
-    [ "RemoveOldCorpses", "d5/d4d/classIWorld.html#a0d272fbf5de8cfbbedd45726c190baf6", null ],
     [ "ResetEventSeasonalQuests", "d5/d4d/classIWorld.html#a594b9f40fcd60630573189de9cfdb232", null ],
     [ "SetAllowMovement", "d5/d4d/classIWorld.html#af3c670ab13a39d235ffe81a06c07d0c4", null ],
     [ "setBoolConfig", "d5/d4d/classIWorld.html#ac8d30bd35a45f8c18d985bc608e23dc4", null ],

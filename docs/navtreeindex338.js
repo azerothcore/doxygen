@@ -1,5 +1,11 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[6,0,2632,2],
+"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[6,0,2632,1],
+"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[6,0,2632,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[6,0,2671],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[6,0,2671,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2671,2],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2671,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html":[6,0,669,0],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,669,0,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[6,0,100,1],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[6,0,100,0],
 "dd/dd6/classcharacter__commandscript.html":[6,0,850],
-"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,850,5],
-"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,850,13],
-"dd/dd6/classcharacter__commandscript.html#a1bb702a0244068ae8bf49ff6399387ee":[6,0,850,9],
-"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,850,26],
-"dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[6,0,850,15],
-"dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[6,0,850,24],
-"dd/dd6/classcharacter__commandscript.html#a33f48334c2a9748cb47e8c65dc2a8c9d":[6,0,850,19]
+"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,850,5]
 };

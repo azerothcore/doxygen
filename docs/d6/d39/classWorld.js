@@ -49,7 +49,6 @@ var classWorld =
     [ "ProcessCliCommands", "d6/d39/classWorld.html#a22ba72387cf729585d0a3dff5b68a0b5", null ],
     [ "ProcessQueryCallbacks", "d6/d39/classWorld.html#aae7024335255ec3d29bddd52ca535327", null ],
     [ "QueueCliCommand", "d6/d39/classWorld.html#a681852aa66dfa02932f81f7ddeec6445", null ],
-    [ "RemoveOldCorpses", "d6/d39/classWorld.html#ab6ca02fd65db08e2d2081ee7ec33685a", null ],
     [ "ResetDailyQuests", "d6/d39/classWorld.html#aacbfdbc7a83d937ad907f4a243352493", null ],
     [ "ResetEventSeasonalQuests", "d6/d39/classWorld.html#a3837326c86546787ed5f98415e0fdcae", null ],
     [ "ResetGuildCap", "d6/d39/classWorld.html#a79351ea85793bf75a5104e1e153a237b", null ],

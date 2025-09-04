@@ -6,6 +6,5 @@ var classnpc__oculus__drakegiver =
     [ "OnGossipHello", "d9/d75/classnpc__oculus__drakegiver.html#ac00d09d2d81121d562e3303704229c18", null ],
     [ "OnGossipSelect", "d9/d75/classnpc__oculus__drakegiver.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
     [ "RemoveEssence", "d9/d75/classnpc__oculus__drakegiver.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d9/d75/classnpc__oculus__drakegiver.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d9/d75/classnpc__oculus__drakegiver.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "StoreEssence", "d9/d75/classnpc__oculus__drakegiver.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

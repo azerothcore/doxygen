@@ -1,5 +1,11 @@
 var NAVTREEINDEX289 =
 {
+"db/dab/GridTerrainData_8h.html#a91e57a946b1b9303401fd9140f3cd13e":[7,0,0,0,1,2,19,9,31],
+"db/dab/GridTerrainData_8h.html#aa56f76510545ed9c706b8fee3061b6cb":[7,0,0,0,1,2,19,9,29],
+"db/dab/GridTerrainData_8h.html#aa5c2437972b2be5c5ff23a7ac04e2680":[7,0,0,0,1,2,19,9,20],
+"db/dab/GridTerrainData_8h.html#ab120de38f25fcadb7db17ec59fcae4e3":[7,0,0,0,1,2,19,9,15],
+"db/dab/GridTerrainData_8h.html#abc01d27c4557068cbc748b21ff701539":[7,0,0,0,1,2,19,9,40],
+"db/dab/GridTerrainData_8h.html#ac08ed03fa837b2e3d2624e0123f0897b":[7,0,0,0,1,2,19,9,14],
 "db/dab/GridTerrainData_8h.html#ac0e95b704f5fbe7f2c5a728ab9ced4be":[7,0,0,0,1,2,19,9,24],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624c":[7,0,0,0,1,2,19,9,35],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d":[7,0,0,0,1,2,19,9,35,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX289 =
 "db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9c":[7,0,0,0,1,3,10,14,71],
 "db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9ca731f1c8fa206bd1f031344f9604eee1e":[7,0,0,0,1,3,10,14,71,0],
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83":[7,0,0,0,1,3,10,14,60],
-"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[7,0,0,0,1,3,10,14,60,0],
-"db/daf/structboss__eramas__brightblaze.html":[6,0,446],
-"db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[6,0,446,0],
-"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[6,0,446,1],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html":[6,0,1644,0],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a5e20d5e17baaac92a560a5b2fe15fe7b":[6,0,1644,0,2],
-"db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159":[6,0,1644,0,4]
+"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[7,0,0,0,1,3,10,14,60,0]
 };
