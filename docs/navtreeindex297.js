@@ -1,11 +1,5 @@
 var NAVTREEINDEX297 =
 {
-"db/def/classspell__pal__seal__of__command.html#a22c313409438f94d29ab3e236a56c115":[6,0,3526,2],
-"db/def/classspell__pal__seal__of__command.html#a68ba19142ae6eb04a2547495233700df":[6,0,3526,1],
-"db/def/classspell__pal__seal__of__command.html#aad5d183d0d7ea229cbfc11f751536624":[6,0,3526,0],
-"db/df0/boss__the__black__stalker_8cpp.html":[7,0,0,0,1,3,7,2,3,3],
-"db/df0/boss__the__black__stalker_8cpp.html#aed8364eb84dab70c060c0a88e6522a7c":[7,0,0,0,1,3,7,2,3,3,6],
-"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954":[7,0,0,0,1,3,7,2,3,3,5],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0":[7,0,0,0,1,3,7,2,3,3,5,8],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de":[7,0,0,0,1,3,7,2,3,3,5,7],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5":[7,0,0,0,1,3,7,2,3,3,5,6],
@@ -249,5 +243,11 @@ var NAVTREEINDEX297 =
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421":[7,0,0,0,1,3,9,8,87],
 "db/dfb/spell__quest_8cpp.html#a4777649aa316adb06a6e6266d42f5421a0afc759d23a72367a8995303f97b19f2":[7,0,0,0,1,3,9,8,87,0],
 "db/dfb/spell__quest_8cpp.html#a4eb0f632f4c478b8360da49cf5adce9b":[7,0,0,0,1,3,9,8,79],
-"db/dfb/spell__quest_8cpp.html#a4eb0f632f4c478b8360da49cf5adce9ba137aabdca55efcd6250ae056f4dc5b97":[7,0,0,0,1,3,9,8,79,0]
+"db/dfb/spell__quest_8cpp.html#a4eb0f632f4c478b8360da49cf5adce9ba137aabdca55efcd6250ae056f4dc5b97":[7,0,0,0,1,3,9,8,79,0],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934e":[7,0,0,0,1,3,9,8,98],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea24c530eacfcc86fdd4b811261ab1779d":[7,0,0,0,1,3,9,8,98,1],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea2d9af9b440777be0003d10d23ed0d28e":[7,0,0,0,1,3,9,8,98,0],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea38daf73a2a6cc98a2e2505dedf8cc18c":[7,0,0,0,1,3,9,8,98,8],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea5d7269a03590d2b1dce1768ee3b1a982":[7,0,0,0,1,3,9,8,98,4],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea70c2d25b528ea0962167f2f584c7302f":[7,0,0,0,1,3,9,8,98,3]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d4/d24/boss__cyanigosa_8cpp.html":[7,0,0,0,1,3,5,12,0],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,0,2],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a254cc05b0bdd6851394b287ad5ebf19c":[7,0,0,0,1,3,5,12,0,2,4],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a33b228b7afc7a5c8390ac93fb391dd89":[7,0,0,0,1,3,5,12,0,2,1],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516acb48837ba0691add5fffa4a9f6f0e39a":[7,0,0,0,1,3,5,12,0,2,0],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516ae802a4e257974483b59103887a97ff92":[7,0,0,0,1,3,5,12,0,2,3],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af88504b59d5b63ac965db00511935cfd":[7,0,0,0,1,3,5,12,0,2,2],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,12,0,2,5],
 "d4/d24/boss__cyanigosa_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,12,0,4],
 "d4/d24/boss__cyanigosa_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,12,0,4,2],
 "d4/d24/boss__cyanigosa_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a32c92e5ca8bda1e22fbe80e8914c9ebd":[7,0,0,0,1,3,5,12,0,4,5],
@@ -76,8 +68,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2661],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2661,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2661,2],
@@ -246,8 +238,16 @@ var NAVTREEINDEX120 =
 "d4/d2d/classHideNpcEvent.html#ab454295aab0f5d4586740140232e96eb":[6,0,1262,0],
 "d4/d2d/classHideNpcEvent.html#ac5481c94e180900f0a455dc1f1f9851c":[6,0,1262,2],
 "d4/d2d/classHideNpcEvent.html#aecfbbbcac3fd98675913a6381c891a59":[6,0,1262,1],
-"d4/d2d/classMovement_1_1SplineBase.html":[6,0,7,12],
 "d4/d2d/classMovement_1_1SplineBase.html":[5,0,21,12],
+"d4/d2d/classMovement_1_1SplineBase.html":[6,0,7,12],
 "d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,21,12,6]
+"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,21,12,6],
+"d4/d2d/classMovement_1_1SplineBase.html#a0d320a2dc6db0e026829cdfce4bf1bd9":[5,0,21,12,23],
+"d4/d2d/classMovement_1_1SplineBase.html#a0d320a2dc6db0e026829cdfce4bf1bd9":[6,0,7,12,23],
+"d4/d2d/classMovement_1_1SplineBase.html#a0f6aa656c6cf648879c9bfb90e4b577c":[5,0,21,12,27],
+"d4/d2d/classMovement_1_1SplineBase.html#a0f6aa656c6cf648879c9bfb90e4b577c":[6,0,7,12,27],
+"d4/d2d/classMovement_1_1SplineBase.html#a1519aa715d924d84efc27560b523f869":[5,0,21,12,0],
+"d4/d2d/classMovement_1_1SplineBase.html#a1519aa715d924d84efc27560b523f869":[6,0,7,12,0],
+"d4/d2d/classMovement_1_1SplineBase.html#a17550dfbefd86496ca9adfb69ea79ec7":[5,0,21,12,33],
+"d4/d2d/classMovement_1_1SplineBase.html#a17550dfbefd86496ca9adfb69ea79ec7":[6,0,7,12,33]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a20a3e03096e182080392d64989c18b83":[7,0,0,0,1,4,7,108,127],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2527c08f840f70c367ee183ae55c69ba":[7,0,0,0,1,4,7,108,15],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2626a63dd78da4e08d53b1eea309e985":[7,0,0,0,1,4,7,108,12],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a267a208234f59ac73123708905a9f71b":[7,0,0,0,1,4,7,108,114],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a280fb10c02fa35828e3505dd1d0f5814":[7,0,0,0,1,4,7,108,123],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a2dfc1b7d1798804b6d15589a2a0f8860":[7,0,0,0,1,4,7,108,11],
@@ -249,5 +246,8 @@ var NAVTREEINDEX355 =
 "de/d11/classnpc__millhouse__manastorm.html":[6,0,1967],
 "de/d11/classnpc__millhouse__manastorm.html#ac4516785f7daf544718fc201197ba977":[6,0,1967,2],
 "de/d11/classnpc__millhouse__manastorm.html#aebc8efc48d207ad7f1105fa636b9c104":[6,0,1967,1],
-"de/d11/classnpc__released__offspring__harkoa.html":[6,0,2080]
+"de/d11/classnpc__released__offspring__harkoa.html":[6,0,2080],
+"de/d11/classnpc__released__offspring__harkoa.html#a10f583320e3b617cf2b327cfb6fed6f5":[6,0,2080,1],
+"de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[6,0,2080,2],
+"de/d11/structboss__novos_1_1boss__novosAI.html":[6,0,642,0]
 };

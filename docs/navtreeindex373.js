@@ -1,11 +1,8 @@
 var NAVTREEINDEX373 =
 {
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[6,0,0,1,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,1,2,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
 "de/da9/classMotionTransport.html":[6,0,1523],
 "de/da9/classMotionTransport.html#a00417cfdf5901d38c0adf04f8d734dcf":[6,0,1523,18],
 "de/da9/classMotionTransport.html#a09f55f2b1ee17805d3ffdafd10eac768":[6,0,1523,7],
@@ -213,10 +210,8 @@ var NAVTREEINDEX373 =
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#aa70bfd2e614f9bf68ad2972990f0f7f5":[6,0,3597,1],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[6,0,3597,2],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[6,0,1287,0],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a1ef3dc88400345998d03f3c993b9a181":[6,0,1287,0,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a3a2776b83272d81de9ddcb0c90ac881c":[6,0,1287,0,3],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a7a99d985a4b465ae87c04211a7a83a77":[6,0,1287,0,1],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[6,0,1287,0,0],
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#af163238686bf22f11908f64ffb5cacca":[6,0,1287,0,1],
 "de/db3/classAccountActionIpLogger.html":[6,0,22],
 "de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[6,0,22,6],
 "de/db3/classAccountActionIpLogger.html#a2952adcd73d775b924671e5a69adaccb":[6,0,22,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX373 =
 "de/db4/classPreparedStatementBase.html#a9af41817061c82bc5498c463b2f0fdf0":[6,0,2444,18],
 "de/db4/classPreparedStatementBase.html#a9dcba27137454af96729a7e3e897f86c":[6,0,2444,15],
 "de/db4/classPreparedStatementBase.html#aa450d6784414246752c84556f6960fc9":[6,0,2444,16],
-"de/db4/classPreparedStatementBase.html#aa4ff9aa53e042d424954b553d6912fa8":[6,0,2444,13]
+"de/db4/classPreparedStatementBase.html#aa4ff9aa53e042d424954b553d6912fa8":[6,0,2444,13],
+"de/db4/classPreparedStatementBase.html#aa71863fdcace3c2fc666a0cf456d9e59":[6,0,2444,10],
+"de/db4/classPreparedStatementBase.html#aa7703fa7b7cf7cf033a45cccf4701f48":[6,0,2444,2],
+"de/db4/classPreparedStatementBase.html#ab05be7534a37abc4a7d38edd454ffb05":[6,0,2444,9],
+"de/db4/classPreparedStatementBase.html#abbd81f270eb6504ed04a661dc6da3139":[6,0,2444,7],
+"de/db4/classPreparedStatementBase.html#abbf3c9d0f2d066bc40a53d53f45fcb79":[6,0,2444,5]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a41055491c9356e1ef93a9e68820237ce":[7,0,0,0,1,3,7,13,38,29],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a75a68f28eff876a9f96b31591d24b49d":[7,0,0,0,1,3,7,13,38,26],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a785b1b1793ba985baa020374d34ca3e0":[7,0,0,0,1,3,7,13,38,8],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7960db784552c9c9e6844cdd45abe658":[7,0,0,0,1,3,7,13,38,5],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d":[7,0,0,0,1,3,7,13,38,17],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693":[7,0,0,0,1,3,7,13,38,27],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[7,0,0,0,1,3,7,13,38,28],
@@ -171,14 +165,14 @@ var NAVTREEINDEX264 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[6,0,2645,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[6,0,2645,4],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2645,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,6,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,31,6,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,6,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,6,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,6,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,6,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,11,6,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,6,10,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,6,10,2],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[6,0,11,6,10,2],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,6,10,2],
 "da/daf/classspell__contagion__of__rot.html":[6,0,2722],
 "da/daf/classspell__contagion__of__rot.html#a0f33043317402119aa14e50a1eb6c227":[6,0,2722,2],
 "da/daf/classspell__contagion__of__rot.html#a159ee8a9b0af729ed01f7632adb58863":[6,0,2722,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX264 =
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a478e2b018b7e8df95526a6b8a3e93e6a":[7,0,0,0,1,3,5,7,14,9,8],
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a50c053da5455714ecbae23dbdda067bd":[7,0,0,0,1,3,5,7,14,9,3],
 "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a756a712a742dfd0e5d7992b8f639ccee":[7,0,0,0,1,3,5,7,14,9,9],
-"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5528058e36521d5112816895b94315e":[7,0,0,0,1,3,5,7,14,9,2]
+"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5528058e36521d5112816895b94315e":[7,0,0,0,1,3,5,7,14,9,2],
+"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab57ce6fe0349a91a7309d55ab7ea1b0b":[7,0,0,0,1,3,5,7,14,9,6],
+"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab9e71f50b4273205920633a49fc30a6b":[7,0,0,0,1,3,5,7,14,9,0],
+"da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7eef1befb536c172785d84edc3f9aff":[7,0,0,0,1,3,5,7,14,9,7],
+"da/db3/classspell__dk__wandering__plague__aura.html":[6,0,2794],
+"da/db3/classspell__dk__wandering__plague__aura.html#a72d89db31c1fbd5c3b49b4c05a2d90f4":[6,0,2794,3],
+"da/db3/classspell__dk__wandering__plague__aura.html#a911b81552e7193dbf1cfc11037b44d84":[6,0,2794,1]
 };

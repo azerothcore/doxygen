@@ -1,11 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298ca7460cd0689ffc4b009eb78d8096e1af1":[7,0,0,0,1,3,2,16,1,4,2],
-"db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,16,1,4,3],
-"db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298caba24a318a569395f4cd8708baf8537c9":[7,0,0,0,1,3,2,16,1,4,4],
-"db/d0c/boss__gahzranka_8cpp.html#acc55bc974b89f69a77dfc30e1ec2dd59":[7,0,0,0,1,3,2,16,1,5],
-"db/d0c/classWorldObjectScript.html":[6,0,4296],
-"db/d0c/classWorldObjectScript.html#a12cf83d65dded66b41ca54a3c1bd31cb":[6,0,4296,5],
 "db/d0c/classWorldObjectScript.html#a2b32bc661e5a377de98902f3bc16679b":[6,0,4296,2],
 "db/d0c/classWorldObjectScript.html#a32e6b907a20d84377e1ddfce79b5cfe1":[6,0,4296,4],
 "db/d0c/classWorldObjectScript.html#a48f037dd6152ff68ebef672de68df45e":[6,0,4296,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX274 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5":[7,0,0,0,1,3,9,6,28,20],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554":[7,0,0,0,1,3,9,6,28,8],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac":[7,0,0,0,1,3,9,6,28,21],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded":[7,0,0,0,1,3,9,6,28,23]
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded":[7,0,0,0,1,3,9,6,28,23],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a":[7,0,0,0,1,3,9,6,28,12],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a":[7,0,0,0,1,3,9,6,28,10],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317":[7,0,0,0,1,3,9,6,28,22],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20":[7,0,0,0,1,3,9,6,28,36],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb":[7,0,0,0,1,3,9,6,28,43],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b":[7,0,0,0,1,3,9,6,28,39]
 };

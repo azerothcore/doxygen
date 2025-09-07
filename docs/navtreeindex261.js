@@ -1,11 +1,5 @@
 var NAVTREEINDEX261 =
 {
-"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a713bb6ae18f1cedc9590fd3918a641a3":[7,0,0,0,1,3,7,4,2,2,5,2],
-"da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a8d6e6cbf2c86e40bc0b810398fba4563":[7,0,0,0,1,3,7,4,2,2,5,4],
-"da/d83/magtheridons__lair_8h.html#abb0f3e974e353f33cf570f360b51ae2a":[7,0,0,0,1,3,7,4,2,2,1],
-"da/d83/magtheridons__lair_8h.html#abbb41987ebb50628ffd601225d4de8e7":[7,0,0,0,1,3,7,4,2,2,6],
-"da/d83/magtheridons__lair_8h.html#ac775c9e24464893354eebc42d9ee1d0a":[7,0,0,0,1,3,7,4,2,2,2],
-"da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,4,2,2,3],
 "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a20bf1397d524025e1025418b1429c5c8":[7,0,0,0,1,3,7,4,2,2,3,4],
 "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,4,2,2,3,1],
 "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a9497cf460ff607a3d232a0fdb1029d6e":[7,0,0,0,1,3,7,4,2,2,3,2],
@@ -55,14 +49,14 @@ var NAVTREEINDEX261 =
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[5,0,1,4,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[6,0,0,2,1,5],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,1,4,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,1,4,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[6,0,0,2,1,2],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[6,0,0,2,1,7],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,1,4,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[5,0,1,4,1,7],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[6,0,0,2,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[6,0,0,2,1,3],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[5,0,1,4,1,3],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[5,0,1,4,1,6],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[6,0,0,2,1,6],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[5,0,1,4,1,6],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[6,0,0,2,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[5,0,1,4,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ae350945f2713305e977e4a3e4fc3d5b5":[6,0,0,2,1,4],
@@ -249,5 +243,11 @@ var NAVTREEINDEX261 =
 "da/d90/classSpellMgr.html#addc82985cf1f7562dea166dc1102a18e":[6,0,4086,55],
 "da/d90/classSpellMgr.html#ae1b22f6a0392194bcaf234148f693237":[6,0,4086,13],
 "da/d90/classSpellMgr.html#ae2abb2ff60931b9849f928fd74892971":[6,0,4086,68],
-"da/d90/classSpellMgr.html#ae41eaa751f7d67dfa0c38aa55b2f6c7e":[6,0,4086,19]
+"da/d90/classSpellMgr.html#ae41eaa751f7d67dfa0c38aa55b2f6c7e":[6,0,4086,19],
+"da/d90/classSpellMgr.html#ae99d902c882462c230177ae98b8d6ddd":[6,0,4086,49],
+"da/d90/classSpellMgr.html#ae9c903197d7e59109bdc7675663ff93f":[6,0,4086,108],
+"da/d90/classSpellMgr.html#aeb50fa0b06b178d23731a9d27156b7b7":[6,0,4086,89],
+"da/d90/classSpellMgr.html#aebc7d657f29471ecb5136ee294873e96":[6,0,4086,98],
+"da/d90/classSpellMgr.html#aeca13d7535faa653ad4de42e2cef9c48":[6,0,4086,71],
+"da/d90/classSpellMgr.html#af0986a6cd3ad91df5cb800d7a5d95b34":[6,0,4086,1]
 };

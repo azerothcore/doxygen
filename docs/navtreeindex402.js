@@ -1,10 +1,5 @@
 var NAVTREEINDEX402 =
 {
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da5e91316dd9bc55cd79327e3af43cd664":[7,0,0,0,1,3,5,6,4,55,17],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da655e953f4ff6620016a8cdf7ee8a7458":[7,0,0,0,1,3,5,6,4,55,20],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da684d4af8b70ad778384e331084287a95":[7,0,0,0,1,3,5,6,4,55,4],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da71500497fb05b54559c21b0438d66540":[7,0,0,0,1,3,5,6,4,55,13],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da71fa32d971a209e8aab0390d87f52f62":[7,0,0,0,1,3,5,6,4,55,1],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da83f8445950e606075c4caaf6ca8e4ae3":[7,0,0,0,1,3,5,6,4,55,6],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9350ba008dc9d60086d570289e1b5bcb":[7,0,0,0,1,3,5,6,4,55,7],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9a3390a370dc386262db6857adddea15":[7,0,0,0,1,3,5,6,4,55,19],
@@ -125,8 +120,8 @@ var NAVTREEINDEX402 =
 "df/dde/classnpc__rinji.html":[6,0,2084],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2084,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2084,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX402 =
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a5c82eae433ee69b5bda8c96049a06422":[6,0,322,4],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a77b4eac66780587e6be0eb380e29c9ce":[6,0,322,1],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#aeeeecdf09990c74ffc868a135854d49b":[6,0,322,5],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#af3295d59367354a4ddaac12258e793b8":[6,0,322,3]
+"df/de3/structBattlegroundEYCapturingPointStruct.html#af3295d59367354a4ddaac12258e793b8":[6,0,322,3],
+"df/de3/structPowerDisplayEntry.html":[6,0,2440],
+"df/de3/structPowerDisplayEntry.html#a44532f8af054ae5224f5e816c3c9a8a7":[6,0,2440,0],
+"df/de3/structPowerDisplayEntry.html#ab6c17a5a3ba9f2f3a8fac125104703c4":[6,0,2440,1],
+"df/de4/classachievement__commandscript.html":[6,0,46],
+"df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be":[6,0,46,3]
 };

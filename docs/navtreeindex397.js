@@ -1,10 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ab7a6e3e33f811c9d9d85285a1e7e0d60":[7,0,0,0,1,3,9,10,32,22],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ab875e7cfb37d4193945e25abd49ac409":[7,0,0,0,1,3,9,10,32,0],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019abd290be920822efdf04e25cb92c45c0c":[7,0,0,0,1,3,9,10,32,3],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800":[7,0,0,0,1,3,9,10,32,18],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[7,0,0,0,1,3,9,10,32,4],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[7,0,0,0,1,3,9,10,32,9],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,32,16],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html":[6,0,2075,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX397 =
 "df/dd9/classUnit.html#a31ca9053f5647402e2eee175608cdb0c":[6,0,4201,280],
 "df/dd9/classUnit.html#a3238eb76e7fb2708559beaab4ccf1385":[6,0,4201,578],
 "df/dd9/classUnit.html#a32715b77516472f57100a3c2c7a59d35":[6,0,4201,570],
-"df/dd9/classUnit.html#a32761d30d56419879ad0bff2d761389d":[6,0,4201,715]
+"df/dd9/classUnit.html#a32761d30d56419879ad0bff2d761389d":[6,0,4201,715],
+"df/dd9/classUnit.html#a327ac043e5a82f6c9b34512f2fc2b43b":[6,0,4201,961],
+"df/dd9/classUnit.html#a32f102f941cf4a53fe17e7f7e957150a":[6,0,4201,2],
+"df/dd9/classUnit.html#a332bb1d1368d49a5d0fd54eaaf5f4e9a":[6,0,4201,77],
+"df/dd9/classUnit.html#a33decb7f997da3c3c71f31e84772e608":[6,0,4201,336],
+"df/dd9/classUnit.html#a33ff2bdff275d8d8e6d881eb0b44839e":[6,0,4201,483]
 };

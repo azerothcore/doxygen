@@ -1,13 +1,5 @@
 var NAVTREEINDEX64 =
 {
-"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56":[7,0,0,0,1,3,2,29,6,9],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15":[7,0,0,0,1,3,2,29,6,1],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a":[7,0,0,0,1,3,2,29,6,10],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14":[7,0,0,0,1,3,2,29,6,5],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026":[7,0,0,0,1,3,2,29,8],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c":[7,0,0,0,1,3,2,29,8,2],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77":[7,0,0,0,1,3,2,29,8,0],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186":[7,0,0,0,1,3,2,29,8,1],
 "d2/d5b/zone__silverpine__forest_8cpp.html#aa6dde45459ce647040655253e287cd41":[7,0,0,0,1,3,2,29,10],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416":[7,0,0,0,1,3,2,29,5],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a282f4f3128aee30886a27079ebbadade":[7,0,0,0,1,3,2,29,5,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX64 =
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#ab5f5b6eec491cc063ed131bbd8bf2c3c":[6,0,758,0,18],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#ac3637feea95738fdd9b34ee3b5a8dea4":[6,0,758,0,0],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#ac70447a7f7a0ac3628c0e2db11ce766d":[6,0,758,0,2],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#adde5d9c1a18f8dfe836925d9cb8391be":[6,0,758,0,10]
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#adde5d9c1a18f8dfe836925d9cb8391be":[6,0,758,0,10],
+"d2/d6e/TemporarySummon_8h.html":[7,0,0,0,1,2,16,1,9],
+"d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188":[7,0,0,0,1,2,16,1,9,6],
+"d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270":[7,0,0,0,1,2,16,1,9,6,2],
+"d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a":[7,0,0,0,1,2,16,1,9,6,0],
+"d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347":[7,0,0,0,1,2,16,1,9,6,1],
+"d2/d6e/structVMAP_1_1AreaInfo.html":[6,0,9,1],
+"d2/d6e/structVMAP_1_1AreaInfo.html":[5,0,28,1],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[6,0,9,1,0]
 };

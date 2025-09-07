@@ -1,14 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1595,1],
-"d1/dfc/classnpc__anubarak__spike.html#a7d55b321eb7e595fe5886dc382134947":[6,0,1595,2],
-"d1/dfc/classspell__hun__explosive__shot.html":[6,0,3110],
-"d1/dfc/classspell__hun__explosive__shot.html#a62920503172dc58ac864a23e90a98dd9":[6,0,3110,1],
-"d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21":[6,0,3110,0],
-"d1/dfc/classspell__hun__explosive__shot.html#ab40419508a1903869aa2b36a590301ba":[6,0,3110,2],
-"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html":[6,0,3595],
-"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a5d855d79247dff6f949a5e099abb9352":[6,0,3595,1],
-"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a9583ccd7b642694a06bde4b88826ec7b":[6,0,3595,0],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#ae797de0ed29b3ca179c07d759b469228":[6,0,3595,2],
 "d2/d00/structPetDefaultSpellsEntry.html":[6,0,2394],
 "d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89":[6,0,2394,0],
@@ -221,10 +212,10 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2175],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2175,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2175,2],
@@ -249,5 +240,14 @@ var NAVTREEINDEX49 =
 "d2/d0e/Errors_8h.html#ab1b23d9277c7dd8d381753ec943ad1bc":[7,0,0,0,0,5,1,21],
 "d2/d0e/Errors_8h.html#ad49ea597ac6ffd8eb9ae06bab8c38b43":[7,0,0,0,0,5,1,13],
 "d2/d0e/Errors_8h.html#adb1e581c0b1db74338cf2892218ff23f":[7,0,0,0,0,5,1,4],
-"d2/d0e/Errors_8h.html#ae4aa5b88f8a0cd841e02343e63098f7a":[7,0,0,0,0,5,1,2]
+"d2/d0e/Errors_8h.html#ae4aa5b88f8a0cd841e02343e63098f7a":[7,0,0,0,0,5,1,2],
+"d2/d0e/Errors_8h.html#aee2b3b5656453513bc51a5979b247a67":[7,0,0,0,0,5,1,3],
+"d2/d0e/Errors_8h.html#af222a0bd205c0bcecd8a7b6554137e33":[7,0,0,0,0,5,1,17],
+"d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3":[7,0,0,0,0,5,1,1],
+"d2/d0e/Errors_8h.html#af4a5b364827068eb978fa1a1fff5770f":[7,0,0,0,0,5,1,19],
+"d2/d0e/Errors_8h.html#af8c8ba5d8126e10ea9f5d86e8a9e742b":[7,0,0,0,0,5,1,12],
+"d2/d0e/Errors_8h.html#afbbc90bf1881f7811a1022e7af350b47":[7,0,0,0,0,5,1,10],
+"d2/d0e/classachievement__sa__defense__of__the__ancients.html":[6,0,85],
+"d2/d0e/classachievement__sa__defense__of__the__ancients.html#a678cffdece32710a42a92db0c092f3a5":[6,0,85,0],
+"d2/d0e/classachievement__sa__defense__of__the__ancients.html#af23e346f9b022f490b84c8081f847a2f":[6,0,85,1]
 };

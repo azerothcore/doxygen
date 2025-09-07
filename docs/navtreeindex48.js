@@ -1,14 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306a52f2c779f7f0ec9d4d1ff881df2aa3ea":[7,0,0,0,1,3,9,2,176,1],
-"d1/de4/spell__generic_8cpp.html#aeaf996588734c6972d1264274ea1de95":[7,0,0,0,1,3,9,2,145],
-"d1/de4/spell__generic_8cpp.html#aeaf996588734c6972d1264274ea1de95ab8718b297b44e2c64113b18a184a5ba0":[7,0,0,0,1,3,9,2,145,0],
-"d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2":[7,0,0,0,1,3,9,2,183],
-"d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2a15275eeb937b91c9a899f75605c50f37":[7,0,0,0,1,3,9,2,183,2],
-"d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2a708e907276d7e1362ed4397f69c2b4e2":[7,0,0,0,1,3,9,2,183,1],
-"d1/de4/spell__generic_8cpp.html#aece80ada25c567f4d80f220a8cec68d2ae0cc70b96f7fdb7ee4ea3ca16af8ccb0":[7,0,0,0,1,3,9,2,183,0],
-"d1/de4/spell__generic_8cpp.html#aef6fef4cb2f6d2a9535ef29e04d0b56d":[7,0,0,0,1,3,9,2,174],
-"d1/de4/spell__generic_8cpp.html#aef6fef4cb2f6d2a9535ef29e04d0b56dae9e398b824f98d95d6f594705ff9fe94":[7,0,0,0,1,3,9,2,174,0],
 "d1/de4/spell__generic_8cpp.html#af22401ca7146004a9f8a86333e93d96d":[7,0,0,0,1,3,9,2,144],
 "d1/de4/spell__generic_8cpp.html#af22401ca7146004a9f8a86333e93d96da1fd5c2639475ba6846a2560ba4c0cf73":[7,0,0,0,1,3,9,2,144,1],
 "d1/de4/spell__generic_8cpp.html#af22401ca7146004a9f8a86333e93d96da82381bb7799963fb0b6ba629b4e490b1":[7,0,0,0,1,3,9,2,144,2],
@@ -224,8 +215,8 @@ var NAVTREEINDEX48 =
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,72,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,1,72,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[6,0,0,60,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,1,72,4],
 "d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3],
 "d1/dfa/CreatureTextMgr_8h.html#a2dc428da007cefe454220dcb355a1cde":[7,0,0,0,1,2,42,3,5],
 "d1/dfa/CreatureTextMgr_8h.html#a4a74e5d0af63228e47e1f663570018ae":[7,0,0,0,1,2,42,3,10],
@@ -249,5 +240,14 @@ var NAVTREEINDEX48 =
 "d1/dfb/classUnchainedMagicTargetSelector.html#a35a7981ce5495cba8b3a5391e4031431":[6,0,4200,2],
 "d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4200,0],
 "d1/dfb/classUnchainedMagicTargetSelector.html#af28ce8f46154ae6152e9025775a7f84f":[6,0,4200,1],
-"d1/dfc/classnpc__anubarak__spike.html":[6,0,1595]
+"d1/dfc/classnpc__anubarak__spike.html":[6,0,1595],
+"d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1595,1],
+"d1/dfc/classnpc__anubarak__spike.html#a7d55b321eb7e595fe5886dc382134947":[6,0,1595,2],
+"d1/dfc/classspell__hun__explosive__shot.html":[6,0,3110],
+"d1/dfc/classspell__hun__explosive__shot.html#a62920503172dc58ac864a23e90a98dd9":[6,0,3110,1],
+"d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21":[6,0,3110,0],
+"d1/dfc/classspell__hun__explosive__shot.html#ab40419508a1903869aa2b36a590301ba":[6,0,3110,2],
+"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html":[6,0,3595],
+"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a5d855d79247dff6f949a5e099abb9352":[6,0,3595,1],
+"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a9583ccd7b642694a06bde4b88826ec7b":[6,0,3595,0]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d38/classChatHandler.html#a83f46323707f472799b6393c3184dc07":[6,0,869,42],
-"d6/d38/classChatHandler.html#a85e675a33e68c0a03d12797ce8647c7c":[6,0,869,34],
-"d6/d38/classChatHandler.html#a8621cc03a3c12dcad208c11a9402c1c6":[6,0,869,30],
-"d6/d38/classChatHandler.html#a8a6e1c0e80c356fc41360f2cc427c0f3":[6,0,869,1],
-"d6/d38/classChatHandler.html#a8fa00e6140e8bfe8551f8a3f5b48218e":[6,0,869,44],
-"d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80":[6,0,869,50],
-"d6/d38/classChatHandler.html#a93c66f4db98f9fa0e8f09445f36acdac":[6,0,869,18],
-"d6/d38/classChatHandler.html#a951840fcd02a7b80eba052ff0639aad9":[6,0,869,20],
 "d6/d38/classChatHandler.html#a9819eb4f3d8aecfe12d794fe87c811f4":[6,0,869,13],
 "d6/d38/classChatHandler.html#a9eb9fd8a86753697f7b978b80b6d7a7f":[6,0,869,51],
 "d6/d38/classChatHandler.html#aa6ba050fe60067fcfb5fe02b4f2d5530":[6,0,869,24],
@@ -249,5 +241,13 @@ var NAVTREEINDEX168 =
 "d6/d3f/classitem__only__for__flight.html#a88cdf17a85630aef703f93143ba41d4d":[6,0,1380,1],
 "d6/d3f/classitem__only__for__flight.html#a8f905266dc8f24cf35598a37e7018ff7":[6,0,1380,0],
 "d6/d40/classachievement__intense__cold.html":[6,0,63],
-"d6/d40/classachievement__intense__cold.html#a2377357d6bfc03e5b91354428d3da3de":[6,0,63,0]
+"d6/d40/classachievement__intense__cold.html#a2377357d6bfc03e5b91354428d3da3de":[6,0,63,0],
+"d6/d40/classachievement__intense__cold.html#ab8a774af80a7fb1764df97c9eea57ffc":[6,0,63,1],
+"d6/d40/classboss__emalon.html":[6,0,440],
+"d6/d40/classboss__emalon.html#a2dd481292e02337bebd450f5c9821886":[6,0,440,1],
+"d6/d40/classboss__emalon.html#a345b0663ba89de5e37b87a436c48e446":[6,0,440,2],
+"d6/d40/classspell__eredar__twins__blaze.html":[6,0,2864],
+"d6/d40/classspell__eredar__twins__blaze.html#a20fdb423d5db4f1fa629a0f0480e2a9f":[6,0,2864,1],
+"d6/d40/classspell__eredar__twins__blaze.html#a98d9d84fd26d110efbbbaba9a19ef423":[6,0,2864,3],
+"d6/d40/classspell__eredar__twins__blaze.html#aae2f572a523431f6764f08e4719adbcf":[6,0,2864,0]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6dacdfd220f36379c80b4caa3d4a1b4ba0f":[7,0,0,0,1,3,5,10,1,1,7,3],
-"d6/dd9/boss__skadi_8cpp.html#a9a5ca50ec0b8e6ff74c191f798afbcaa":[7,0,0,0,1,3,5,10,1,1,9],
-"d6/dd9/boss__skadi_8cpp.html#aa42fcae49fd433507a2251bd5975dc84":[7,0,0,0,1,3,5,10,1,1,8],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,1,5],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a096f1637b0a617a4779e41f6eb680ec8":[7,0,0,0,1,3,5,10,1,1,5,3],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a221e90edca7272b297e47592d083f4c1":[7,0,0,0,1,3,5,10,1,1,5,2],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48c7512bd582db855dca74a56e3e8d68":[7,0,0,0,1,3,5,10,1,1,5,6],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d830805dd168a2d185fa9de62c13801":[7,0,0,0,1,3,5,10,1,1,5,8],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a68265babf2de25e07f651d1fdb5a9d78":[7,0,0,0,1,3,5,10,1,1,5,7],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa1374c2f484baa70c6c3d30ffffb42f8":[7,0,0,0,1,3,5,10,1,1,5,0],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acea85e21b3879545cc517518ff4d8474":[7,0,0,0,1,3,5,10,1,1,5,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX181 =
 "d6/dec/classachievement__bg__sa__artillery.html":[6,0,42],
 "d6/dec/classachievement__bg__sa__artillery.html#aa81ae215bc91fd4598d7c9a1b02e3fcc":[6,0,42,0],
 "d6/dec/classachievement__bg__sa__artillery.html#ac24f32f872ae32e90f06f642ea2dfebc":[6,0,42,1],
-"d6/dec/classboss__doomrel.html":[6,0,425]
+"d6/dec/classboss__doomrel.html":[6,0,425],
+"d6/dec/classboss__doomrel.html#a1b8a95208506f79c00ed40be2d51eb38":[6,0,425,2],
+"d6/dec/classboss__doomrel.html#a3c544ae70c46a62ac7dd2fc5cca97c8b":[6,0,425,3],
+"d6/dec/classboss__doomrel.html#ae430a8fef70bd46267482a70084049c1":[6,0,425,4],
+"d6/dec/classboss__doomrel.html#aee45a59f9a62f1d32a7dc344bd3c46c6":[6,0,425,1],
+"d6/dec/classinstance__onyxias__lair.html":[6,0,1322],
+"d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1322,1],
+"d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1322,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,107]
 };

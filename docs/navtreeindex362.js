@@ -1,8 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"de/d3d/LFGMgr_8h.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af3939b4b2dd69f67d1e30b61c8d80955":[7,0,0,0,1,2,15,5,26,1],
-"de/d3d/LFGMgr_8h.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af72ca5749d5566cfce7b6c5395bf7577":[7,0,0,0,1,2,15,5,26,0],
-"de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86f":[7,0,0,0,1,2,15,5,35],
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fa0397c4bdc83258f74c631742096be1a5":[7,0,0,0,1,2,15,5,35,6],
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fa08c8de52d41750ba3b8d4681d09c493c":[7,0,0,0,1,2,15,5,35,8],
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fa56f882d8c103fe1403a3ce1c1c890483":[7,0,0,0,1,2,15,5,35,3],
@@ -235,19 +232,22 @@ var NAVTREEINDEX362 =
 "de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,38,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,68,2],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html":[6,0,3838],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a1e63e7798ab5e55415eb0277f3160fa3":[6,0,3838,0],
-"de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[6,0,3838,2]
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[6,0,3838,2],
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html#a8cc68fadf4ae20a9de24c75d2f61301f":[6,0,3838,3],
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html#aacd60538c8410fc313a09b1044ad6c7a":[6,0,3838,4],
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html#ad39da0510c21855dd74abd93f33621c9":[6,0,3838,1]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daa394400ff916653a0b83bdc66f44a705":[7,0,0,0,1,3,5,2,1,7,4,22],
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daa42166efb2ff21463441d6fe05c74c74":[7,0,0,0,1,3,5,2,1,7,4,34],
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab6e13abbd83f3734d973eeec4c09b96c":[7,0,0,0,1,3,5,2,1,7,4,33],
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab824ac7cc4db0c4e726f6310c879264a":[7,0,0,0,1,3,5,2,1,7,4,2],
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab91bb2f7abdc4ef0f6969346ece7701a":[7,0,0,0,1,3,5,2,1,7,4,23],
-"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dac1a736837d591e46279c9076d54e055b":[7,0,0,0,1,3,5,2,1,7,4,31],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dac525675a0a1562d2e2f3140e14c0c7b3":[7,0,0,0,1,3,5,2,1,7,4,13],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dacbe302ffef529d7b7d5a3cf727ee4ce2":[7,0,0,0,1,3,5,2,1,7,4,12],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dacd91e602313f7720d86682d6699267c4":[7,0,0,0,1,3,5,2,1,7,4,28],
@@ -249,5 +243,11 @@ var NAVTREEINDEX271 =
 "da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,4068,0],
 "da/df1/classMetric.html":[6,0,1501],
 "da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[6,0,1501,29],
-"da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[6,0,1501,27]
+"da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[6,0,1501,27],
+"da/df1/classMetric.html#a124025419c5b48f64d67e0a77d9c17f0":[6,0,1501,19],
+"da/df1/classMetric.html#a1474d1913f1db34a25d318b46e21a2b2":[6,0,1501,7],
+"da/df1/classMetric.html#a22934a06eb31e77c7ae3e26265a12272":[6,0,1501,3],
+"da/df1/classMetric.html#a268b52607a8f1551d5b4c58b71119902":[6,0,1501,6],
+"da/df1/classMetric.html#a28bb6c659cf9d832a85d3853f4a2a416":[6,0,1501,35],
+"da/df1/classMetric.html#a3c96e42f0a86453dc634367e701f5d1a":[6,0,1501,26]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX104 =
 {
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aabcfcdda61a2616a0059ffe8ce91ccc27":[7,0,0,0,1,3,4,26,16,4],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aacec21d097f6e013039569c497f1764c2":[7,0,0,0,1,3,4,26,16,13],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aad514dc16e4e6e3f3600b4f526a11b70a":[7,0,0,0,1,3,4,26,16,18],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aadedbd0a6b04165e02647c8246747ba79":[7,0,0,0,1,3,4,26,16,27],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aae2f6c59feb848539db2f33b6e90b3613":[7,0,0,0,1,3,4,26,16,7],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aae3310b68291e958bcf821ed1fefe4a3f":[7,0,0,0,1,3,4,26,16,9],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aaea3b632fcb9a55ccec096e5223e2dcb2":[7,0,0,0,1,3,4,26,16,0],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aaf210f4100612af47319547f750ed8008":[7,0,0,0,1,3,4,26,16,8],
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aaf2c43b62476ec6dd695e267bc83319dd":[7,0,0,0,1,3,4,26,16,5],
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aaf569e28f64852985c023393cbe191ff2":[7,0,0,0,1,3,4,26,16,29],
 "d3/d9d/zone__silithus_8cpp.html#a4154053cb93b323fc74dd05d04a20d7e":[7,0,0,0,1,3,4,26,14],
@@ -93,8 +85,8 @@ var NAVTREEINDEX104 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,29,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,41,1],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,1,41,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[6,0,0,29,3],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,1,41,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[6,0,2676],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#a05e6155abeb2720923ddf0d8cae54feb":[6,0,2676,0],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d":[6,0,2676,3],
@@ -249,5 +241,13 @@ var NAVTREEINDEX104 =
 "d3/da1/npc__professions_8cpp.html#a80dc472663452b1b8a59b9d23862262c":[7,0,0,0,1,3,10,10,17],
 "d3/da1/npc__professions_8cpp.html#a838d1095ae22e6125e3cccaddbbbfaca":[7,0,0,0,1,3,10,10,18],
 "d3/da1/npc__professions_8cpp.html#a83b511800a09185fd7b8fb1c1b132b34":[7,0,0,0,1,3,10,10,62],
-"d3/da1/npc__professions_8cpp.html#a866a8392c34c5d075c83b816ad300cc9":[7,0,0,0,1,3,10,10,32]
+"d3/da1/npc__professions_8cpp.html#a866a8392c34c5d075c83b816ad300cc9":[7,0,0,0,1,3,10,10,32],
+"d3/da1/npc__professions_8cpp.html#a89c8ca2f57787c511c9ec27c7b407d05":[7,0,0,0,1,3,10,10,19],
+"d3/da1/npc__professions_8cpp.html#a8fe057ad54244e21fc59785db4e575fd":[7,0,0,0,1,3,10,10,36],
+"d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295":[7,0,0,0,1,3,10,10,55],
+"d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a123c2ab95961d06031e62c6c43a68858":[7,0,0,0,1,3,10,10,55,2],
+"d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a60846e77e1f55645dca03959663acb66":[7,0,0,0,1,3,10,10,55,0],
+"d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295afcace9679cc3114b1fe6a1214539b839":[7,0,0,0,1,3,10,10,55,1],
+"d3/da1/npc__professions_8cpp.html#aab2b32f3602bef50a3a19bac6d111ab1":[7,0,0,0,1,3,10,10,60],
+"d3/da1/npc__professions_8cpp.html#aafeab306b08ad544c0a0db08389a8f14":[7,0,0,0,1,3,10,10,44]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da9c8e90bffe7e5392d9b71ca686ed4221":[7,0,0,0,1,3,5,15,56,62],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da9f433c455891ceb3d8b769a2b3442f0f":[7,0,0,0,1,3,5,15,56,20],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285daa28bba352e21c7a9cf24776dfcb74106":[7,0,0,0,1,3,5,15,56,8],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285daa39db3420e6bf5e4617bac40f45f1943":[7,0,0,0,1,3,5,15,56,35],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285daa794f72229ec28dbee9237cfa18ce9d5":[7,0,0,0,1,3,5,15,56,50],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285daa8cb667527ec15c79f1f9ecb343f2733":[7,0,0,0,1,3,5,15,56,5],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285daaf2c3d38557f7400fa4016413618b2ba":[7,0,0,0,1,3,5,15,56,14],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285dab09f0cdd5b427989516a6dfd67e91d4e":[7,0,0,0,1,3,5,15,56,13],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285dab96922f3e9353ca57171d02b2eb41433":[7,0,0,0,1,3,5,15,56,45],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285dabff9d7d598643608cc5e4500b55a5959":[7,0,0,0,1,3,5,15,56,39],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285dac0beb1197fec0f0f2a6f786406bb2568":[7,0,0,0,1,3,5,15,56,60],
@@ -249,5 +241,13 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#ae7e83af9675f10ea565b725be25b8c5e":[5,0,1,173],
 "d3/d0b/namespaceAcore.html#aecc909b333bb7f55f438bfcf1ea3085f":[5,0,1,196],
 "d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5":[5,0,1,149],
-"d3/d0b/namespaceAcore.html#af222a0bd205c0bcecd8a7b6554137e33":[5,0,1,158]
+"d3/d0b/namespaceAcore.html#af222a0bd205c0bcecd8a7b6554137e33":[5,0,1,158],
+"d3/d0b/namespaceAcore.html#af4a5b364827068eb978fa1a1fff5770f":[5,0,1,160],
+"d3/d0b/namespaceAcore.html#af8c8ba5d8126e10ea9f5d86e8a9e742b":[5,0,1,142],
+"d3/d0b/namespaceAcore.html#afe44e70d4fae1d3c112291bd985e82b1":[5,0,1,199],
+"d3/d0b/namespaceAcore.html#affed0a39c687fd0d71e1838f7d91d106":[5,0,1,183],
+"d3/d0c/AuthCrypt_8cpp.html":[7,0,0,0,0,3,0,0],
+"d3/d0c/classspell__item__trauma.html":[6,0,3312],
+"d3/d0c/classspell__item__trauma.html#a27569fe686e50246768fca4a7625fe0d":[6,0,3312,1],
+"d3/d0c/classspell__item__trauma.html#a4f4eaa4aeeac9257804957671c16233f":[6,0,3312,2]
 };

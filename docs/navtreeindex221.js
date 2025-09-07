@@ -1,11 +1,5 @@
 var NAVTREEINDEX221 =
 {
-"d8/d95/classspell__death__knight__initiate__visual.html#ab6971aa466055a1280cd258e26645157":[6,0,2729,2],
-"d8/d95/classspell__death__knight__initiate__visual.html#ad110e0dba330acde845c47501256cf5d":[6,0,2729,1],
-"d8/d95/classspell__pri__pain__and__suffering__proc.html":[6,0,3562],
-"d8/d95/classspell__pri__pain__and__suffering__proc.html#a1fa4dca7bae36c5e2acde0fe8b8cd801":[6,0,3562,2],
-"d8/d95/classspell__pri__pain__and__suffering__proc.html#a852a621f0b008dc1294dbeb9e9877a04":[6,0,3562,0],
-"d8/d95/classspell__pri__pain__and__suffering__proc.html#a8b0f656994289f260645a2ae60d9ee4b":[6,0,3562,1],
 "d8/d95/structItemSetNameLocale.html":[6,0,1395],
 "d8/d95/structItemSetNameLocale.html#aab0b8fc04dcd6a8c551f5dfc4846b290":[6,0,1395,0],
 "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI.html":[6,0,1782,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX221 =
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#a9d41e8abe764fd0f8cedd888418aafb2":[6,0,1756,0],
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#aa8892e7f2bec9f26320cd9749e648ebd":[6,0,1756,1],
 "d8/da6/classnpc__freya__ward.html":[6,0,1791],
-"d8/da6/classnpc__freya__ward.html#a90c0e7a0be1717bf1793415b6fcafbed":[6,0,1791,2]
+"d8/da6/classnpc__freya__ward.html#a90c0e7a0be1717bf1793415b6fcafbed":[6,0,1791,2],
+"d8/da6/classnpc__freya__ward.html#aebaadcc001922c78e8ec43084a827ac9":[6,0,1791,1],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,447,0],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a1544782732beba5d7114c3bb70419ae1":[6,0,447,0,3],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a16c90dba1f0a7f4cc2025e294dbac455":[6,0,447,0,11],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36":[6,0,447,0,8],
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a30ad32a4a63ae17eef4fc703a6749d38":[6,0,447,0,5]
 };

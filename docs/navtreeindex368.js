@@ -1,8 +1,5 @@
 var NAVTREEINDEX368 =
 {
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,2,2],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa":[7,0,0,0,1,3,2,16,2,2,1],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9197ae5fb459530b43372148da0f977d":[7,0,0,0,1,3,2,16,2,2,5],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a987aaf78cadb11dbca35191a3e03468c":[7,0,0,0,1,3,2,16,2,2,3],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae228fd47a845b042b583724f092a11d3":[7,0,0,0,1,3,2,16,2,2,0],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af76ba553395433c9d18c314780c339ad":[7,0,0,0,1,3,2,16,2,2,4],
@@ -31,12 +28,12 @@ var NAVTREEINDEX368 =
 "de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[6,0,3000,1],
 "de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[6,0,3000,0],
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[6,0,3000,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,1,8,8,1],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
 "de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX368 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[7,0,0,0,1,3,7,1,4,8,16],
 "de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[7,0,0,0,1,3,7,1,4,10],
 "de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[7,0,0,0,1,3,7,1,4,11],
-"de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[7,0,0,0,1,3,7,1,4,12]
+"de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[7,0,0,0,1,3,7,1,4,12],
+"de/d97/classboss__tyrannus.html":[6,0,754],
+"de/d97/classboss__tyrannus.html#a81373192ffea8817cb72b80f4629da43":[6,0,754,1],
+"de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[6,0,754,2]
 };

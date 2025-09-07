@@ -1,13 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db":[7,0,0,0,1,3,3,9,8,1],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ff":[7,0,0,0,1,3,3,9,5],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64":[7,0,0,0,1,3,3,9,5,0],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd":[7,0,0,0,1,3,3,9,5,1],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4":[7,0,0,0,1,3,3,9,5,4],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0":[7,0,0,0,1,3,3,9,5,2],
-"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af":[7,0,0,0,1,3,3,9,5,3],
-"d2/d57/winter__veil_8cpp.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e":[7,0,0,0,1,3,3,9,9],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44a":[7,0,0,0,1,3,3,9,6],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d":[7,0,0,0,1,3,3,9,6,9],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a":[7,0,0,0,1,3,3,9,6,5],
@@ -57,8 +49,8 @@ var NAVTREEINDEX63 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3897,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,31,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,31,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,31,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,11,0,3,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX63 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204":[7,0,0,0,1,3,2,29,6,2],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07":[7,0,0,0,1,3,2,29,6,3],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab":[7,0,0,0,1,3,2,29,6,13],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1":[7,0,0,0,1,3,2,29,6,0]
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1":[7,0,0,0,1,3,2,29,6,0],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56":[7,0,0,0,1,3,2,29,6,9],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15":[7,0,0,0,1,3,2,29,6,1],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a":[7,0,0,0,1,3,2,29,6,10],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14":[7,0,0,0,1,3,2,29,6,5],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026":[7,0,0,0,1,3,2,29,8],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c":[7,0,0,0,1,3,2,29,8,2],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77":[7,0,0,0,1,3,2,29,8,0],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186":[7,0,0,0,1,3,2,29,8,1]
 };

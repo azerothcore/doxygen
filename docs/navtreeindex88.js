@@ -1,13 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"d2/df6/DBCStores_8h.html#a2aeaf8baea1aaf85ca9fe37004e531f3":[7,0,0,0,1,2,14,1,17],
-"d2/df6/DBCStores_8h.html#a2b4e37a2d421c3cd682ce97113facb88":[7,0,0,0,1,2,14,1,57],
-"d2/df6/DBCStores_8h.html#a2ba5a4e116c0c4625f03f4e54a6dddd9":[7,0,0,0,1,2,14,1,84],
-"d2/df6/DBCStores_8h.html#a2c23b656948cafc6ca79fd3d887ba6cc":[7,0,0,0,1,2,14,1,81],
-"d2/df6/DBCStores_8h.html#a2d7fd7538dc4d37ee5830fd0d8d92f2a":[7,0,0,0,1,2,14,1,123],
-"d2/df6/DBCStores_8h.html#a2e1f7642e168310ccb753658f1cbd84c":[7,0,0,0,1,2,14,1,97],
-"d2/df6/DBCStores_8h.html#a2f846cf57275e67141135e1405200ac4":[7,0,0,0,1,2,14,1,121],
-"d2/df6/DBCStores_8h.html#a30af7e6070cc27a332c6c13c04f9d940":[7,0,0,0,1,2,14,1,129],
 "d2/df6/DBCStores_8h.html#a3102be8c4050f49639a6748f21fa55a1":[7,0,0,0,1,2,14,1,27],
 "d2/df6/DBCStores_8h.html#a31100350e05ae841ea6d58f61c2865f9":[7,0,0,0,1,2,14,1,58],
 "d2/df6/DBCStores_8h.html#a35540115c04e81ac523b3c256093afe7":[7,0,0,0,1,2,14,1,114],
@@ -249,5 +241,13 @@ var NAVTREEINDEX88 =
 "d2/dff/boss__balinda_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,0,1,2,0],
 "d2/dff/boss__balinda_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,2,0,1,2,2],
 "d2/dff/boss__balinda_8cpp.html#a5bd342133be8c2137b831460acc9298cab066547e004691aae6b23d39f4c0da4b":[7,0,0,0,1,3,2,0,1,2,1],
-"d2/dff/boss__balinda_8cpp.html#a5bd342133be8c2137b831460acc9298cad710181305c6301a356a9bced07677e7":[7,0,0,0,1,3,2,0,1,2,4]
+"d2/dff/boss__balinda_8cpp.html#a5bd342133be8c2137b831460acc9298cad710181305c6301a356a9bced07677e7":[7,0,0,0,1,3,2,0,1,2,4],
+"d2/dff/boss__balinda_8cpp.html#aacb1e20a146b8de6469174976538219c":[7,0,0,0,1,3,2,0,1,4],
+"d2/dff/classspell__sha__t8__electrified.html":[6,0,3795],
+"d2/dff/classspell__sha__t8__electrified.html#a4576f3d5af2d9265fa173f66d68ed512":[6,0,3795,1],
+"d2/dff/classspell__sha__t8__electrified.html#a760a018b8410233e09065d94abeeb1ff":[6,0,3795,3],
+"d2/dff/classspell__sha__t8__electrified.html#a85df8d4086a980d2b0a441097a909143":[6,0,3795,0],
+"d2/dff/classspell__sha__t8__electrified.html#ab5308a36bc3b878a2913a89a84051ad7":[6,0,3795,2],
+"d3/d00/classspell__black__temple__consuming__strikes__aura.html":[6,0,2648],
+"d3/d00/classspell__black__temple__consuming__strikes__aura.html#a93dfb9e0dac89cb66f340c41dbc526bb":[6,0,2648,0]
 };

@@ -1,13 +1,7 @@
 var NAVTREEINDEX291 =
 {
-"db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1532,2],
-"db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1532,1],
-"db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1532,3],
-"db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a":[6,0,1532,9],
-"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1532,7],
-"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1532,6],
-"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1532,4],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1532,5],
+"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1532,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3460],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3460,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3460,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX291 =
 "db/dce/classAura.html#ab477124f94af36e9be706451dce791f7":[6,0,280,6],
 "db/dce/classAura.html#ab4abe60bbc09777bab95a0a0ec66af25":[6,0,280,71],
 "db/dce/classAura.html#ab5641e8e175470f121e2c6eda7dfb253":[6,0,280,60],
-"db/dce/classAura.html#abbd4948d31a548af813815efb91ff311":[6,0,280,90]
+"db/dce/classAura.html#abbd4948d31a548af813815efb91ff311":[6,0,280,90],
+"db/dce/classAura.html#abd4f379de7ed0890f28df1209aad70c7":[6,0,280,33],
+"db/dce/classAura.html#abf0ff1d6e3be882ce7e8ddd7e935ab66":[6,0,280,108],
+"db/dce/classAura.html#ac031b57268ab2f7c4346ef3dbfea2af0":[6,0,280,123],
+"db/dce/classAura.html#ac2ee53cb584c3528f2990d391393bc1d":[6,0,280,43],
+"db/dce/classAura.html#ac4544d5fa6bb4171de4fccdad5e96918":[6,0,280,82],
+"db/dce/classAura.html#ac514e08ac3f8733a650d243239dada58":[6,0,280,88]
 };

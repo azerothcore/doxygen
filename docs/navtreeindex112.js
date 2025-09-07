@@ -1,13 +1,5 @@
 var NAVTREEINDEX112 =
 {
-"d3/dd4/BattlegroundAV_8h.html#a7e88a533a01be23bef5efaa9a92d3099a1327b9e8656dde75b55d75b53fe14bd9":[7,0,0,0,1,2,8,1,3,24,1],
-"d3/dd4/BattlegroundAV_8h.html#a7e88a533a01be23bef5efaa9a92d3099a21a9631917b468d53e81efa81d17e18c":[7,0,0,0,1,2,8,1,3,24,0],
-"d3/dd4/BattlegroundAV_8h.html#a7e88a533a01be23bef5efaa9a92d3099a554f1453e77870fb466c9c27f73846c5":[7,0,0,0,1,2,8,1,3,24,2],
-"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09":[7,0,0,0,1,2,8,1,3,28],
-"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a07c622e1e474968f0cafcee433fa0d6a":[7,0,0,0,1,2,8,1,3,28,8],
-"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a1ec45c050c2dc7019771fe8126024996":[7,0,0,0,1,2,8,1,3,28,2],
-"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a57f78a6f960c98a99eb233fc992ea692":[7,0,0,0,1,2,8,1,3,28,11],
-"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a5e3b6d49e70404ed7fcc57125b0690d4":[7,0,0,0,1,2,8,1,3,28,21],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a5f374b880fee36f938652e6bd77f6dca":[7,0,0,0,1,2,8,1,3,28,4],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a798eaab24d9b01fe32b27d796bbd8fa0":[7,0,0,0,1,2,8,1,3,28,18],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a869e6056d6a196b3ea8bf72b2b9b4cf1":[7,0,0,0,1,2,8,1,3,28,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX112 =
 "d3/dd8/classnpc__vh__sinclari.html":[6,0,2268],
 "d3/dd8/classnpc__vh__sinclari.html#a95f0d094d417d9d6ce99d7c8aa83496f":[6,0,2268,1],
 "d3/dd8/classnpc__vh__sinclari.html#ad0235f207a3031420532174c04e0c348":[6,0,2268,0],
-"d3/dd8/classnpc__vh__sinclari.html#af0a260d7868f601ae239c226b10d4de3":[6,0,2268,2]
+"d3/dd8/classnpc__vh__sinclari.html#af0a260d7868f601ae239c226b10d4de3":[6,0,2268,2],
+"d3/dd8/structnpc__supremus__punch__invisible__stalker.html":[6,0,2155],
+"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#a467d5a43bb6d2349ad859a0ef7de4c00":[6,0,2155,1],
+"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#a90ecfe4257ef77a6d6a200a2f017c51a":[6,0,2155,2],
+"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#add7d0e711ef02a16ef58d90cfc8ee733":[6,0,2155,0],
+"d3/dda/classspell__hallows__end__put__costume.html":[6,0,3077],
+"d3/dda/classspell__hallows__end__put__costume.html#a5ccb30abd83ed1d0be104bffc91deca2":[6,0,3077,4],
+"d3/dda/classspell__hallows__end__put__costume.html#ac0e4692be1527f052a23ed52af32d042":[6,0,3077,2],
+"d3/dda/classspell__hallows__end__put__costume.html#ac1fcd0a32142744f353cdc01bce740e3":[6,0,3077,0]
 };

@@ -1,13 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa2384b0417b3ce06bf1d030a6072858aa":[7,0,0,0,1,3,5,2,1,1,64,0],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124":[7,0,0,0,1,3,5,2,1,1,35],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a4a3ca1a3b56932bdcbe95f057d161b25":[7,0,0,0,1,3,5,2,1,1,35,3],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a7a1fcc392203156fa5f0c7b50574bf44":[7,0,0,0,1,3,5,2,1,1,35,5],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a89249acef2d72d2d2cefbd270ca8d5e6":[7,0,0,0,1,3,5,2,1,1,35,1],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a96d97a670ed17a7b9f6f00cba80d1f43":[7,0,0,0,1,3,5,2,1,1,35,7],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124ab55c0e246afb46a9c3feb1a24b9735db":[7,0,0,0,1,3,5,2,1,1,35,0],
-"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124abcfceb9776fee2423d4c06cb12c6a157":[7,0,0,0,1,3,5,2,1,1,35,4],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124abd46819b4fe124339bfea81e0a2f4620":[7,0,0,0,1,3,5,2,1,1,35,2],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124ac9227760f053603240a962733b2eab91":[7,0,0,0,1,3,5,2,1,1,35,6],
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32":[7,0,0,0,1,3,5,2,1,1,39],
@@ -249,5 +241,13 @@ var NAVTREEINDEX129 =
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523":[7,0,0,0,1,2,3,1,5,1,2],
 "d4/d85/classnpc__strangulate__vehicle.html":[6,0,2148],
 "d4/d85/classnpc__strangulate__vehicle.html#a04532bc5902af45b1e9c76cf1cec9add":[6,0,2148,1],
-"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2148,2]
+"d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2148,2],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html":[6,0,612,0],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a0dca07b45b3293a0f19401b299fbfb9c":[6,0,612,0,2],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a1037b770bb46400aef0ec034f86468fc":[6,0,612,0,12],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100":[6,0,612,0,15],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a2b2267e3d7be6d16ffab031d2cb4a1a6":[6,0,612,0,10],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a305f064869874d8620d794a7d26f6358":[6,0,612,0,14],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a4ba4ac7fabd3e74dc10a00a3188252e9":[6,0,612,0,0],
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a5040c31467e9d3c6edc30b9133ec6873":[6,0,612,0,13]
 };

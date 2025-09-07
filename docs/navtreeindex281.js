@@ -1,11 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"db/d6e/spell__item_8cpp.html#a9f98761f08338e3434e37973bf9a521aa8ef4989f1aa91e8209ef521364ddfbd6":[7,0,0,0,1,3,9,4,147,0],
-"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75":[7,0,0,0,1,3,9,4,123],
-"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a02f3e9f645c97cefbd42e0bc6e99e94a":[7,0,0,0,1,3,9,4,123,5],
-"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a6f84bb29dd2f2225cfaf4fd4555c640d":[7,0,0,0,1,3,9,4,123,10],
-"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a752446db3a1c4917302c98be365852d5":[7,0,0,0,1,3,9,4,123,11],
-"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa42676d62ec9ab2083a6e29f3ebfa31a":[7,0,0,0,1,3,9,4,123,4],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa7161ec6c3c0611495bbb6510658812c":[7,0,0,0,1,3,9,4,123,0],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ab76a679c0fba3121a9cb839cc942e75e":[7,0,0,0,1,3,9,4,123,3],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75acc223e155c76c1c8ce3eb5a50c0de3b2":[7,0,0,0,1,3,9,4,123,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX281 =
 "db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a99298379c308e427d9aa5ef2b5efc340":[7,0,0,0,1,3,2,15,5,8,3],
 "db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84abc14babecb1b3543b4defc07667831b7":[7,0,0,0,1,3,2,15,5,8,2],
 "db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ad4e94f0b566e0ff9db022ccd4d76d659":[7,0,0,0,1,3,2,15,5,8,0],
-"db/d78/boss__zuljin_8cpp.html#aee0dddecd161ba2804129238298840af":[7,0,0,0,1,3,2,15,5,12]
+"db/d78/boss__zuljin_8cpp.html#aee0dddecd161ba2804129238298840af":[7,0,0,0,1,3,2,15,5,12],
+"db/d78/classDatabaseWorker.html":[6,0,950],
+"db/d78/classDatabaseWorker.html#a15e753c757da609b55a66380f526091a":[6,0,950,3],
+"db/d78/classDatabaseWorker.html#a170c873cbc917ece6a87591450dbe5a9":[6,0,950,1],
+"db/d78/classDatabaseWorker.html#a2f21d73b584d9e5f17afc7a0ac78f129":[6,0,950,5],
+"db/d78/classDatabaseWorker.html#a64450680e7b6e31bb42ce4f79788eb27":[6,0,950,0],
+"db/d78/classDatabaseWorker.html#a9c47ad6c0d4dca85a63be45c4e678a70":[6,0,950,6]
 };

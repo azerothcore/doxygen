@@ -1,13 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[7,0,0,0,1,2,16,6,2,9,16],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570":[7,0,0,0,1,2,16,6,2,9,32],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a47e6e2fa037fecebc1af203e75d24969":[7,0,0,0,1,2,16,6,2,9,10],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a49c674bb42727bc9b76c7f325413b3cb":[7,0,0,0,1,2,16,6,2,9,23],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a4ab50802fb664ca0d1e2c3ef03681b6a":[7,0,0,0,1,2,16,6,2,9,30],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a4e47d198c6feb56eccb0d6385af32f74":[7,0,0,0,1,2,16,6,2,9,1],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a523d81cbe2125a5cdbda159bc5444a7c":[7,0,0,0,1,2,16,6,2,9,5],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a5f210c59dd1cd0e06eaf2df5cc5e15a9":[7,0,0,0,1,2,16,6,2,9,48],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a649dbeeb0f21207afcb4ef873854d693":[7,0,0,0,1,2,16,6,2,9,18],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a68afdc270a10bf20bb964e9c9ebc6faf":[7,0,0,0,1,2,16,6,2,9,7],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a71d9cb4238a13ea996dc1e5e94d1009f":[7,0,0,0,1,2,16,6,2,9,49],
@@ -249,5 +241,13 @@ var NAVTREEINDEX177 =
 "d6/dad/classspell__gen__eject__all__passengers.html#abb178100d4e5fa4032118f86aa34127d":[6,0,2947,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html":[6,0,2286,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2286,0,1],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2286,0,0]
+"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2286,0,0],
+"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2286,0,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,5,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,5,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,5,22,0],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,5,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2]
 };

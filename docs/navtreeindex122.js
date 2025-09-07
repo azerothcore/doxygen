@@ -1,13 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d39/classFollowerReference.html#a5cb0bab8be8116b9a489a4922c44c5c8":[6,0,1054,2],
-"d4/d39/classFollowerReference.html#abf8c86604c3ef4349567c736090402f6":[6,0,1054,1],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html":[6,0,1853,0],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html#a12f6e6d5911b2b8b9caa01a9a83570bc":[6,0,1853,0,4],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html#a70e581c9b3f7d88d497c1540ac9ca04c":[6,0,1853,0,1],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html#aa52576d94e230797209dfc938d62187f":[6,0,1853,0,2],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html#ac4b2b3acf8a7acda73c7158f1565a274":[6,0,1853,0,0],
-"d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html#ac7c8571eac32f722a5fb0c28092b7e8f":[6,0,1853,0,3],
 "d4/d39/structnpc__pilgrims__bounty__chair.html":[6,0,2040],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a23b35fee8255073c7b94d7bac54d9b22":[6,0,2040,10],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a29b012b8fc4e7cb30072b2c4a935dd3a":[6,0,2040,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX122 =
 "d4/d3e/classBattlegroundSA.html#ad995b549bc809c64a309c83d66268f57":[6,0,336,13],
 "d4/d3e/classBattlegroundSA.html#ada0cb515fadd9383d0a6f595c971b306":[6,0,336,15],
 "d4/d3e/classBattlegroundSA.html#adf8aace66db055efed5e9f4b3e83487d":[6,0,336,23],
-"d4/d3e/classBattlegroundSA.html#aed699a776840e6b940108321ba544fee":[6,0,336,31]
+"d4/d3e/classBattlegroundSA.html#aed699a776840e6b940108321ba544fee":[6,0,336,31],
+"d4/d3e/classBattlegroundSA.html#aee36aa1f5725287cab919507895b74a7":[6,0,336,4],
+"d4/d3e/classBattlegroundSA.html#af06acbefa6ef6a7f660d948554d114c0":[6,0,336,27],
+"d4/d3e/classBattlegroundSA.html#af1736c6ced8c35334fcd7d1660760d4c":[6,0,336,36],
+"d4/d3e/classBattlegroundSA.html#af610dac2f11a787570768e20065be923":[6,0,336,44],
+"d4/d3e/classspell__gen__animal__blood.html":[6,0,2905],
+"d4/d3e/classspell__gen__animal__blood.html#a3ced5941c25fce087699aa095cd487c9":[6,0,2905,1],
+"d4/d3e/classspell__gen__animal__blood.html#a44fc9ff07b9db5b2a1263d244916c79f":[6,0,2905,4],
+"d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2905,2]
 };

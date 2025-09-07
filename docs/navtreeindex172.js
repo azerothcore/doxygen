@@ -1,13 +1,5 @@
 var NAVTREEINDEX172 =
 {
-"d6/d62/classspell__q10720__the__smallest__creature.html#a12c61c9057250f12ea50be74ba74c948":[6,0,3607,2],
-"d6/d62/classspell__q10720__the__smallest__creature.html#a810fcbfe27f3c6991d1c5f599609b6f7":[6,0,3607,1],
-"d6/d62/classspell__q10720__the__smallest__creature.html#ab958c74ba8b40488751e5137eb0b6a66":[6,0,3607,0],
-"d6/d64/ModuleScript_8cpp.html":[7,0,0,0,1,2,38,0,66],
-"d6/d64/ModuleScript_8cpp.html#a7749cbcc2b6820dc30c515ebb6cefe36":[7,0,0,0,1,2,38,0,66,0],
-"d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html":[6,0,1820,0],
-"d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html#a40207493c75d8a63284e08f1f75d56c4":[6,0,1820,0,0],
-"d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html#aef49ccdae1aff20fc469f0aa2663d8af":[6,0,1820,0,1],
 "d6/d66/classDBUpdaterUtil.html":[6,0,961],
 "d6/d66/classDBUpdaterUtil.html#a31499b458f0ff0ec518980f51d6a242a":[6,0,961,1],
 "d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80":[6,0,961,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX172 =
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298caf7c15041077880d4b534de397e1426e1":[7,0,0,0,1,3,4,1,0,5,10,0],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298caf95e858c15a693439ecb90ffa84284f5":[7,0,0,0,1,3,4,1,0,5,10,26],
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268":[7,0,0,0,1,3,4,1,0,5,11],
-"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,0,5,11,6]
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,0,5,11,6],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a113fb2decd642bdaae552ac28c19d90d":[7,0,0,0,1,3,4,1,0,5,11,7],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a1928d737c99fcced04d7bae0151c0ed2":[7,0,0,0,1,3,4,1,0,5,11,0],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a6bc71f7e43b47df962d9951e4f2e7a3c":[7,0,0,0,1,3,4,1,0,5,11,5],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a7510de1379be0f2afa1ec59d828b6504":[7,0,0,0,1,3,4,1,0,5,11,3],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268ab880b5422c06b07d0fa432477a8d35de":[7,0,0,0,1,3,4,1,0,5,11,1],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268aca4e959e2a5577e0cae9ab870fa0a2a7":[7,0,0,0,1,3,4,1,0,5,11,2],
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268af3cde70bd611fd1ce40966c846f93e96":[7,0,0,0,1,3,4,1,0,5,11,4],
+"d6/d70/classspell__item__socrethars__stone.html":[6,0,3302]
 };

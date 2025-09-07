@@ -1,13 +1,5 @@
 var NAVTREEINDEX67 =
 {
-"d2/d73/classScriptMgr.html#addb44ceca5b6dd4a80689c23ee4fcd3c":[6,0,2526,269],
-"d2/d73/classScriptMgr.html#addc7b6875e6fa9f4b106614acde65a1e":[6,0,2526,136],
-"d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251":[6,0,2526,478],
-"d2/d73/classScriptMgr.html#ade2adfe07cef8ee13244b3eb73a14904":[6,0,2526,379],
-"d2/d73/classScriptMgr.html#adfb81c8ed955f0baf744788f79f27bc6":[6,0,2526,414],
-"d2/d73/classScriptMgr.html#adfd9e1638d448f2b352572f7d0cea5de":[6,0,2526,40],
-"d2/d73/classScriptMgr.html#ae030dcc3a7543c443bd6ef00d9f617bf":[6,0,2526,224],
-"d2/d73/classScriptMgr.html#ae056072cbe7167a44afabc0aeea63182":[6,0,2526,164],
 "d2/d73/classScriptMgr.html#ae0ebbe11114a7eda0d826cdac143250e":[6,0,2526,252],
 "d2/d73/classScriptMgr.html#ae1e50890be1fd9fadc4c5f248e46e98d":[6,0,2526,305],
 "d2/d73/classScriptMgr.html#ae4a59ec1731c7f84488b996ed0ef6416":[6,0,2526,61],
@@ -249,5 +241,13 @@ var NAVTREEINDEX67 =
 "d2/d82/classachievement__once__bitten__twice__shy.html#a6f02f5ab07143ddff553279049714902":[6,0,78,2],
 "d2/d82/classachievement__once__bitten__twice__shy.html#aa2e3ac3e8a14b06446174e475ac18af3":[6,0,78,1],
 "d2/d82/classachievement__once__bitten__twice__shy.html#ac5799e847f8ee1e2b562e4a58a00df16":[6,0,78,0],
-"d2/d83/classspell__huhuran__wyvern__sting.html":[6,0,3101]
+"d2/d83/classspell__huhuran__wyvern__sting.html":[6,0,3101],
+"d2/d83/classspell__huhuran__wyvern__sting.html#a47849d8241ed17ad0fb541c1178b0760":[6,0,3101,1],
+"d2/d83/classspell__huhuran__wyvern__sting.html#a85595fed0e9b6a2ced18aeb4acffcf81":[6,0,3101,0],
+"d2/d83/classspell__huhuran__wyvern__sting.html#aa23231c5c324e73930fdf8d784b0edb4":[6,0,3101,2],
+"d2/d84/classinstance__blackrock__spire.html":[6,0,1291],
+"d2/d84/classinstance__blackrock__spire.html#a3238be88efcdc9669e7e6a1d725649b3":[6,0,1291,1],
+"d2/d84/classinstance__blackrock__spire.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a":[6,0,1291,2],
+"d2/d84/structBattlegroundAB_1_1CapturePointInfo.html":[6,0,314,0],
+"d2/d84/structBattlegroundAB_1_1CapturePointInfo.html#a43228afe59b8fa004d2c740dd6262f8e":[6,0,314,0,3]
 };

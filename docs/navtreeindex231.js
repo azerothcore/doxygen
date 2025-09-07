@@ -1,11 +1,5 @@
 var NAVTREEINDEX231 =
 {
-"d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html#afbf6d71b196067400256df98949ae963":[6,0,2252,0,3],
-"d9/d1e/classboss__krystallus.html":[6,0,585],
-"d9/d1e/classboss__krystallus.html#a1d7453c9d67594bfdbd650fea897666a":[6,0,585,1],
-"d9/d1e/classboss__krystallus.html#aba14bcfa00a5d997959abd94af647bf4":[6,0,585,2],
-"d9/d1e/structConditionSourceInfo.html":[6,0,892],
-"d9/d1e/structConditionSourceInfo.html#a099d3457a0a15d8feeacc0dc8c32d439":[6,0,892,2],
 "d9/d1e/structConditionSourceInfo.html#acb67deba44021698a447e8288bca0bd4":[6,0,892,1],
 "d9/d1e/structConditionSourceInfo.html#adc6441ec52fab3ab8d2b58a146a3fef3":[6,0,892,0],
 "d9/d20/classWhoListPlayerInfo.html":[6,0,4272],
@@ -114,8 +108,8 @@ var NAVTREEINDEX231 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3244,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3244,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3244,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,11,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,11,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,11,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,11,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,11,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -223,8 +217,8 @@ var NAVTREEINDEX231 =
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,31,5,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,31,5,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,5,25,1],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[6,0,11,5,25,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,31,5,25,0],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[6,0,11,5,25,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html":[6,0,1922,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a2c5e519bd2a1699b74811c92bb217d20":[6,0,1922,0,4],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a66fcb4b5130ff03f1926eec3b4d9ff6a":[6,0,1922,0,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX231 =
 "d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,0,0,2,8,1],
 "d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae89bebb06f0b15d0ba1d9a8e3c8fdfb8":[7,0,0,0,1,3,5,0,0,2,8,3],
 "d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,0,0,2,7],
-"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,0,0,2,7,2]
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,0,0,2,7,2],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f74584ddf248c155adc2c5cee5768c2":[7,0,0,0,1,3,5,0,0,2,7,3],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1":[7,0,0,0,1,3,5,0,0,2,7,5],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca7bcaf3b04e552ed45c887583483be35c":[7,0,0,0,1,3,5,0,0,2,7,7],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca92e635e57290acbf8ac9efe15d1f99f6":[7,0,0,0,1,3,5,0,0,2,7,1],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca991acb4543678b636e0107910179512d":[7,0,0,0,1,3,5,0,0,2,7,6],
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298cac107ea27bf91014c08d43a0eaf7a02aa":[7,0,0,0,1,3,5,0,0,2,7,4]
 };

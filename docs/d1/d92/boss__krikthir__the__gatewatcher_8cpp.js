@@ -3,21 +3,11 @@ var boss__krikthir__the__gatewatcher_8cpp =
     [ "boss_krik_thir", "d8/d8a/classboss__krik__thir.html", "d8/d8a/classboss__krik__thir" ],
     [ "boss_krik_thir::boss_krik_thirAI", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI" ],
     [ "achievement_watch_him_die", "d1/d4a/classachievement__watch__him__die.html", "d1/d4a/classachievement__watch__him__die" ],
-    [ "Events", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_KRIK_START_WAVE", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6bc3dce5e0aff14dc009c38ec7e8e5a1", null ],
-      [ "EVENT_KRIK_SUMMON", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf995f2f25f1e7e0004feeb9cd59e379", null ],
-      [ "EVENT_KRIK_MIND_FLAY", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e8630dc46fecb54b0c1c77ec6ccd70a", null ],
-      [ "EVENT_KRIK_CURSE", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e6c23fda6c58fcb211edb2fbbdd6951", null ],
-      [ "EVENT_KRIK_HEALTH_CHECK", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a484fc870fe923c8990270dcb03aa6290", null ],
-      [ "EVENT_KRIK_ENTER_COMBAT", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a004cba636c79e89000feea6ee300566b", null ],
-      [ "EVENT_KILL_TALK", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
-      [ "EVENT_CALL_ADDS", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b15065116ae1cc3e6fa90ac7865ac81", null ],
-      [ "EVENT_KRIK_CHECK_EVADE", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78a74f58ba43f91fda916f14191f2854", null ]
+    [ "MiscActions", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5", [
+      [ "ACTION_MINION_ENGAGED", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41", null ],
+      [ "GROUP_SWARM", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ]
     ] ],
     [ "Npcs", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54d", [
-      [ "NPC_WATCHER_NARJIL", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54dac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54da59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54daf4f603f77d6847952388c5dce5d0de08", null ],
       [ "NPC_WARRIOR", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda", null ],
       [ "NPC_SKIRMISHER", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da", null ],
       [ "NPC_SHADOWCASTER", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502", null ]

@@ -1080,6 +1080,7 @@ var classPlayer =
     [ "UpdateHonorFields", "d2/d4b/classPlayer.html#aee0515fef117a6dc1c8a9d7c86b2f827", null ],
     [ "UpdateInvisibilityDrunkDetect", "d2/d4b/classPlayer.html#adaafbc5cd4fc1af9ce59f9f5848d2603", null ],
     [ "UpdateItemDuration", "d2/d4b/classPlayer.html#a869df3aae1a68d6a8bb759e585c71f9b", null ],
+    [ "UpdateItemObtainSpells", "d2/d4b/classPlayer.html#a552a9549ff16cac89ddc32f1b87ec88b", null ],
     [ "UpdateLFGChannel", "d2/d4b/classPlayer.html#aba41bd67bc2f1bfa7756657052e3abcd", null ],
     [ "UpdateLocalChannels", "d2/d4b/classPlayer.html#a1ff950418358c920f846a8cddf26f2b6", null ],
     [ "UpdateLootAchievements", "d2/d4b/classPlayer.html#a5f1a8052a35dfadeeb711935ad7280ed", null ],

@@ -1,11 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a":[7,0,0,0,1,3,9,6,28,12],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a":[7,0,0,0,1,3,9,6,28,10],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317":[7,0,0,0,1,3,9,6,28,22],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20":[7,0,0,0,1,3,9,6,28,36],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb":[7,0,0,0,1,3,9,6,28,43],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b":[7,0,0,0,1,3,9,6,28,39],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,6,28,41],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a":[7,0,0,0,1,3,9,6,28,3],
 "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437":[7,0,0,0,1,3,9,6,29],
@@ -204,8 +198,8 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1886,0],
@@ -225,10 +219,10 @@ var NAVTREEINDEX275 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4098,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4098,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4098,0,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX275 =
 "db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38":[7,0,0,0,0,1,0,1,6,0],
 "db/d23/IVMapMgr_8h.html#a6d0d846568e1fbb60e05aacfa9c1c73c":[7,0,0,0,0,1,0,1,5],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18":[7,0,0,0,0,1,0,1,7],
-"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[7,0,0,0,0,1,0,1,7,0]
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[7,0,0,0,0,1,0,1,7,0],
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b":[7,0,0,0,0,1,0,1,7,1],
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165":[7,0,0,0,0,1,0,1,7,2],
+"db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316":[7,0,0,0,0,1,0,1,4],
+"db/d23/classspell__warr__retaliation.html":[6,0,4013],
+"db/d23/classspell__warr__retaliation.html#a5436413d098dde4b0fa1ed2259a47779":[6,0,4013,3],
+"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[6,0,4013,0]
 };

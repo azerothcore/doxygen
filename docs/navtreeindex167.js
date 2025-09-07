@@ -1,13 +1,5 @@
 var NAVTREEINDEX167 =
 {
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a1e4eff070963b6ba1b52fd0a19fbc710":[7,0,0,0,1,3,10,17,6,27],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a23e0ca69f748d880379bfa4f9a617f76":[7,0,0,0,1,3,10,17,6,4],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a28c39d3e953330eabb03638b040fcc6e":[7,0,0,0,1,3,10,17,6,17],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a293c1abb90618fcc7c567751a5455887":[7,0,0,0,1,3,10,17,6,33],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,10,17,6,37],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2a83de60c5ef8a3557354fadab01067f":[7,0,0,0,1,3,10,17,6,55],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2afcbc3eb69c459eac0d4096f07b56fc":[7,0,0,0,1,3,10,17,6,22],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a2ed3d99759fb6c66c9d8c11f4b9166c0":[7,0,0,0,1,3,10,17,6,8],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a33da30b17ed1f650008611e382a1a989":[7,0,0,0,1,3,10,17,6,69],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a34b5b43d2e7cfa3cd199d5f0bb9c1104":[7,0,0,0,1,3,10,17,6,18],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a3b608a9cb26e58df3e74812c53382095":[7,0,0,0,1,3,10,17,6,61],
@@ -249,5 +241,13 @@ var NAVTREEINDEX167 =
 "d6/d38/classChatHandler.html#a7ab2c0deb500bef6654274630815bb75":[6,0,869,0],
 "d6/d38/classChatHandler.html#a7d91e1a37684e5794dd8cec360555ad4":[6,0,869,69],
 "d6/d38/classChatHandler.html#a7f1f93fbd2856330821b565db4014cd3":[6,0,869,15],
-"d6/d38/classChatHandler.html#a82e2e9ab17fe5f2ea814c9cd8305b6c3":[6,0,869,59]
+"d6/d38/classChatHandler.html#a82e2e9ab17fe5f2ea814c9cd8305b6c3":[6,0,869,59],
+"d6/d38/classChatHandler.html#a83f46323707f472799b6393c3184dc07":[6,0,869,42],
+"d6/d38/classChatHandler.html#a85e675a33e68c0a03d12797ce8647c7c":[6,0,869,34],
+"d6/d38/classChatHandler.html#a8621cc03a3c12dcad208c11a9402c1c6":[6,0,869,30],
+"d6/d38/classChatHandler.html#a8a6e1c0e80c356fc41360f2cc427c0f3":[6,0,869,1],
+"d6/d38/classChatHandler.html#a8fa00e6140e8bfe8551f8a3f5b48218e":[6,0,869,44],
+"d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80":[6,0,869,50],
+"d6/d38/classChatHandler.html#a93c66f4db98f9fa0e8f09445f36acdac":[6,0,869,18],
+"d6/d38/classChatHandler.html#a951840fcd02a7b80eba052ff0639aad9":[6,0,869,20]
 };

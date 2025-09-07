@@ -1,10 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,6,1,15,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a977c51cebd1160d7d64f733adf19a658":[7,0,0,0,1,3,5,6,1,15,10],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e4ea3125a97235bd26fe6a91e15e943":[7,0,0,0,1,3,5,6,1,15,2],
-"df/df3/classboss__vaelastrasz.html":[6,0,757],
-"df/df3/classboss__vaelastrasz.html#a0b51f3b50cde4907bd9064e8bf51c005":[6,0,757,1],
 "df/df3/classboss__vaelastrasz.html#a42dde198f5fc0ab2e7ca28ac32c42b7e":[6,0,757,2],
 "df/df3/structboss__grand__warlock__nethekurse.html":[6,0,507],
 "df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,507,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX404 =
 "dir_7e58d5bd8d8b82079418e9e537265afd.html":[7,0,0,0,1,3,5,9,0],
 "dir_816589248c496bc2270bc4e83dc7035c.html":[7,0,0,0,3,1],
 "dir_81f27dfa25f27c55a8e8044b1a11fbfb.html":[7,0,0,0,1,3,5],
-"dir_824c567499771b11a8d1959386aa27e6.html":[7,0,0,0,1,2,38]
+"dir_824c567499771b11a8d1959386aa27e6.html":[7,0,0,0,1,2,38],
+"dir_8303d6c15c2da3f083d7d0da7d55e7c8.html":[7,0,0,0,2,2,0,1],
+"dir_8439b06d1222f15d9722cd90fc7c13a2.html":[7,0,0,0,1,3,2,3],
+"dir_847bfdbe3e0168e0f84c6c83bf557aa9.html":[7,0,0,0,1,3,5,8,0],
+"dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0],
+"dir_87d82bd3a9fae8fbcd48bbc4fd72b131.html":[7,0,0,0,1,3,7,4,2]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/dba/classat__zulgurub__bridge__speech.html#a67234a1f4c77888a8535d0ea52e16ba9":[6,0,253,1],
-"d7/dba/classspell__deathbringer__blood__link.html":[6,0,2730],
-"d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[6,0,2730,3],
-"d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[6,0,2730,2],
-"d7/dba/classspell__deathbringer__blood__link.html#a89c0706f21fe92fd443c3638181044ec":[6,0,2730,0],
-"d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[6,0,2730,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,41],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[7,0,0,0,1,2,38,0,41,0],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3817],
@@ -249,5 +243,11 @@ var NAVTREEINDEX203 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6d04a9a48291822ea2a2a7871e782524":[6,0,1350,0,46],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ef5f14c6d94a3d62ec6b58a0e4e2be8":[6,0,1350,0,32],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a70dda8f2f50e95b330c5fbdd960c8130":[6,0,1350,0,76],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e":[6,0,1350,0,24]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e":[6,0,1350,0,24],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a724fbae6ea2a36cf226e13469f9a6932":[6,0,1350,0,52],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a73985b9658bd3091da745aecad9c4dff":[6,0,1350,0,16],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a75e75a10c7b0770b54203b033887f7cd":[6,0,1350,0,10],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a77c90ce656736c04a3f614c910ed205f":[6,0,1350,0,23],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7997a9d0601999d91e646aa6855a6da1":[6,0,1350,0,57],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7cf156d28fec3fe8e6a0e26c54bb80b3":[6,0,1350,0,78]
 };

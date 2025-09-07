@@ -1,14 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d31/structboss__servant__quarters.html#afe4a4a78824851f63ce560a60d55cee3":[6,0,693,2],
-"d2/d32/classachievement__mimiron__set__up__us__the__bomb__12.html":[6,0,73],
-"d2/d32/classachievement__mimiron__set__up__us__the__bomb__12.html#ad604fa41b8c8d34b996dbdc709faac66":[6,0,73,1],
-"d2/d32/classachievement__mimiron__set__up__us__the__bomb__12.html#adc7f5769894c59710fa70604878b1e2c":[6,0,73,0],
-"d2/d32/classspell__magmadar__lava__bomb.html":[6,0,3416],
-"d2/d32/classspell__magmadar__lava__bomb.html#a24447c4367d8e8713ba7d05ea53681ee":[6,0,3416,3],
-"d2/d32/classspell__magmadar__lava__bomb.html#a76d395449ed9fb26914aa9ff0488f1be":[6,0,3416,1],
-"d2/d32/classspell__magmadar__lava__bomb.html#a7d094ce258e3dc28cc30d5fb644d5a1e":[6,0,3416,2],
-"d2/d32/classspell__magmadar__lava__bomb.html#acbf0fa3d73de0cec47928fc0dda0c724":[6,0,3416,0],
 "d2/d32/structCreatureTextEntry.html":[6,0,933],
 "d2/d32/structCreatureTextEntry.html#a00b6d7cbf9ff377d30cd9e6cfab084b7":[6,0,933,1],
 "d2/d32/structCreatureTextEntry.html#a12ff00d59ce642d3c27978e919f6ca17":[6,0,933,0],
@@ -34,10 +25,10 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3271,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,1,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,1,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,1,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,1,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,1,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,1,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,1,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,1,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716a003bd627e1e2937f456930df39bd54fe":[7,0,0,0,1,2,8,1,1,9,6],
@@ -249,5 +240,14 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a8f90adeb34952ff3a402f1710f681580":[7,0,0,0,1,3,5,14,11],
 "d2/d38/northrend__script__loader_8cpp.html#a906ed67706bbc7d2cae677714c2eeecc":[7,0,0,0,1,3,5,14,38],
 "d2/d38/northrend__script__loader_8cpp.html#a92cd26bf4850f8f0e66ceb31a9f43561":[7,0,0,0,1,3,5,14,156],
-"d2/d38/northrend__script__loader_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,14,154]
+"d2/d38/northrend__script__loader_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,14,154],
+"d2/d38/northrend__script__loader_8cpp.html#a93e6e71a7717be3946c53d3b6093e517":[7,0,0,0,1,3,5,14,144],
+"d2/d38/northrend__script__loader_8cpp.html#a93f8126d2e36ad7caab980f1c3f83a14":[7,0,0,0,1,3,5,14,141],
+"d2/d38/northrend__script__loader_8cpp.html#a94963838fa62017b6c828d31ff1061ee":[7,0,0,0,1,3,5,14,58],
+"d2/d38/northrend__script__loader_8cpp.html#a97a8037c279c09143b2ba1235a2895f2":[7,0,0,0,1,3,5,14,75],
+"d2/d38/northrend__script__loader_8cpp.html#a97b0b02539772c66fbc310236f683e94":[7,0,0,0,1,3,5,14,20],
+"d2/d38/northrend__script__loader_8cpp.html#a98d5cb494be126bd533ec544a2230472":[7,0,0,0,1,3,5,14,13],
+"d2/d38/northrend__script__loader_8cpp.html#a9af0523ebe9bbe9f299889c99a519d1c":[7,0,0,0,1,3,5,14,109],
+"d2/d38/northrend__script__loader_8cpp.html#a9c9f3c2d2d5cc92abb79db0962b76a3f":[7,0,0,0,1,3,5,14,79],
+"d2/d38/northrend__script__loader_8cpp.html#a9e387ee32ddd2cdaed044f0c966056c0":[7,0,0,0,1,3,5,14,149]
 };

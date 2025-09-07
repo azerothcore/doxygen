@@ -1,11 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html":[6,0,2178,0],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a1396da1a6a45041f0736ecd3cc09927c":[6,0,2178,0,15],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a341ef3b9166257d6e8b3452af9b32887":[6,0,2178,0,16],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a391d5e452e96cfcd529ca32c5f168a92":[6,0,2178,0,18],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a3f93322f50d324407bfab2ab1c78ad67":[6,0,2178,0,1],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a52ee903a9e53dd9f91b30c388964d04d":[6,0,2178,0,10],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a557d38e3dc67382567e3bb2933eac74c":[6,0,2178,0,8],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a5aad5eb0df573cdfe8d55ac53010df0d":[6,0,2178,0,19],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a6eb4beb5f9a5a8bf83fdb3d4268ecd54":[6,0,2178,0,20],
@@ -249,5 +243,11 @@ var NAVTREEINDEX293 =
 "db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7":[6,0,912,36],
 "db/dd5/classCreature.html#abf20806d636a490dc0f89d776348c275":[6,0,912,176],
 "db/dd5/classCreature.html#abfbabc7c59e5920bb7635becbc0194fd":[6,0,912,139],
-"db/dd5/classCreature.html#abfe21fb620c4c5ce0393ac079fb45ca1":[6,0,912,95]
+"db/dd5/classCreature.html#abfe21fb620c4c5ce0393ac079fb45ca1":[6,0,912,95],
+"db/dd5/classCreature.html#ac238c411fb30d333218c42ff77336ddb":[6,0,912,6],
+"db/dd5/classCreature.html#ac2756414308b530be89ea07dac2be00f":[6,0,912,311],
+"db/dd5/classCreature.html#ac2fe123af4dc8d0fdacd72af7af09914":[6,0,912,293],
+"db/dd5/classCreature.html#ac38e335e4f38bb6d93b64df60f31fc45":[6,0,912,118],
+"db/dd5/classCreature.html#ac4b0f9df0383018b5f1f0d53d5f1d29a":[6,0,912,66],
+"db/dd5/classCreature.html#ac601efb79b880ed2d699b4bee2e878be":[6,0,912,253]
 };

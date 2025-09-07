@@ -1,13 +1,5 @@
 var NAVTREEINDEX162 =
 {
-"d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842adedce9914de6034535d76e04f3b0761f":[7,0,0,0,1,3,7,0,2,0,4,0],
-"d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842ae5eec3de2d56332ece305acf137cb1d7":[7,0,0,0,1,3,7,0,2,0,4,5],
-"d6/d0b/boss__anzu_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,7,0,2,0,5],
-"d6/d0b/boss__anzu_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba588218d2a14b1fa76ee078d361f24f5b":[7,0,0,0,1,3,7,0,2,0,5,1],
-"d6/d0b/boss__anzu_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacbc18c6c43b1e35b8e0910276c6cf7f7":[7,0,0,0,1,3,7,0,2,0,5,0],
-"d6/d0b/boss__anzu_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,2,0,5,2],
-"d6/d0b/boss__anzu_8cpp.html#abf2a4d1001b5e23f729fc1941f192d35":[7,0,0,0,1,3,7,0,2,0,6],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html":[6,0,600,0],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a11cda2b905ef2381c317a01e4163be00":[6,0,600,0,6],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bf898911798eaa891ef7638a3a2cc20":[6,0,600,0,0],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bfe3ab90ff6f401c3f7b8655e3abc05":[6,0,600,0,11],
@@ -249,5 +241,13 @@ var NAVTREEINDEX162 =
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f":[7,0,0,0,1,3,2,5,5,7,2],
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8":[7,0,0,0,1,3,2,5,5,7,0],
 "d6/d11/magisters__terrace_8h.html#ace003ea34649a460da4afbd65b38c987":[7,0,0,0,1,3,2,5,5,9],
-"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3":[7,0,0,0,1,3,2,5,5,5]
+"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3":[7,0,0,0,1,3,2,5,5,5],
+"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222":[7,0,0,0,1,3,2,5,5,5,0],
+"d6/d12/classspell__leotheras__insidious__whisper.html":[6,0,3377],
+"d6/d12/classspell__leotheras__insidious__whisper.html#a8622bc4d61c5c236349d4b12c2a6b10d":[6,0,3377,1],
+"d6/d12/classspell__leotheras__insidious__whisper.html#ac20676c292d87276e444bad56d71960d":[6,0,3377,0],
+"d6/d12/classspell__leotheras__insidious__whisper.html#ae356b768872de3e87806c19bf8cccb08":[6,0,3377,2],
+"d6/d13/structServerPktHeader.html":[6,0,2545],
+"d6/d13/structServerPktHeader.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2":[6,0,2545,2],
+"d6/d13/structServerPktHeader.html#a5d5cf573cebe47a10e3f17b840c7a4e1":[6,0,2545,4]
 };

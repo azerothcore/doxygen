@@ -1,11 +1,5 @@
 var NAVTREEINDEX209 =
 {
-"d8/d03/LootMgr_8cpp.html#aade507039245a0e20adcdbf548a7d690":[7,0,0,0,1,2,24,2,6],
-"d8/d03/LootMgr_8cpp.html#aba8aafe6a5d2d251b6e2f539b27f5949":[7,0,0,0,1,2,24,2,22],
-"d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb":[7,0,0,0,1,2,24,2,25],
-"d8/d03/LootMgr_8cpp.html#ac7f789f6da959300694693d249113e9f":[7,0,0,0,1,2,24,2,15],
-"d8/d03/LootMgr_8cpp.html#aec1cdee51afe09234ba6b2d917c21916":[7,0,0,0,1,2,24,2,13],
-"d8/d03/LootMgr_8cpp.html#af45baef147256b11372c092b0ac53f91":[7,0,0,0,1,2,24,2,19],
 "d8/d03/structDungeonEncounterEntry.html":[6,0,992],
 "d8/d03/structDungeonEncounterEntry.html#a2a04df701c13dc49053b09a9587a72a8":[6,0,992,0],
 "d8/d03/structDungeonEncounterEntry.html#a3d35560824a3aaeecb8db4bf8628ebfd":[6,0,992,1],
@@ -17,14 +11,14 @@ var NAVTREEINDEX209 =
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a1a4268b745e63992f4d0fc2028b717aa":[6,0,1818,0,0],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#a6fa27328cf47bef81c3465b8a3e2ace1":[6,0,1818,0,3],
 "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html#ad7fcb8c711782d3a76e9e4566334fc21":[6,0,1818,0,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,469,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX209 =
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cabb6364dcfc56405a89da1b195f5e671e":[7,0,0,0,1,3,2,12,0,6,15],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cabb68f6e68942ff4984e4ad24047e0cb4":[7,0,0,0,1,3,2,12,0,6,7],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cac5b21c2f5b54092ced572604245138fc":[7,0,0,0,1,3,2,12,0,6,12],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cacca8a478804c7bc381b01001cbe67d23":[7,0,0,0,1,3,2,12,0,6,4]
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cacca8a478804c7bc381b01001cbe67d23":[7,0,0,0,1,3,2,12,0,6,4],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cad05712b3b7b9dec8ed2494ac7c6878cb":[7,0,0,0,1,3,2,12,0,6,31],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cad410735246672b010016fe5660268bc6":[7,0,0,0,1,3,2,12,0,6,23],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cad9e783eda3dbedfe2b46c03fdb4df41e":[7,0,0,0,1,3,2,12,0,6,2],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cae8c7b8d8c98b1274f40ea3a0e25f1af9":[7,0,0,0,1,3,2,12,0,6,13],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caea1d4ae5c34f2cdc018e5e331625a8c2":[7,0,0,0,1,3,2,12,0,6,21],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caecbfefbb37e319d47db8aa6ebe55606a":[7,0,0,0,1,3,2,12,0,6,16]
 };

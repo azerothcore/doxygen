@@ -1,11 +1,5 @@
 var NAVTREEINDEX200 =
 {
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf997291ff69ff377e5e5cf689d58a25e":[7,0,0,0,1,2,28,2,0,549],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf9b4eab63957966bb491549b4594f32b":[7,0,0,0,1,2,28,2,0,586],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf9cd96ce7f109747f62d2814ae680e67":[7,0,0,0,1,2,28,2,0,994],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf9e89ac0a55c47f5301a3ff726982bab":[7,0,0,0,1,2,28,2,0,1083],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf9fc6d0bfe4d53c7b88fcd4c7b5a2cb7":[7,0,0,0,1,2,28,2,0,530],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d":[7,0,0,0,1,2,28,2,0,842],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa6efde7f735c12fd061f8d0ed916b4e":[7,0,0,0,1,2,28,2,0,452],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafaabdabe1999e0e992366ba2c12319b6":[7,0,0,0,1,2,28,2,0,115],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb56f430e18ada9d3d3f65127bc1642b":[7,0,0,0,1,2,28,2,0,923],
@@ -249,5 +243,11 @@ var NAVTREEINDEX200 =
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a6b7bd08d3e4362201ee904019f9e6b51":[6,0,718,0,9],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a6e77285330fcd09fd13ef0d029e2a554":[6,0,718,0,10],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a74a53b7c4672bcba1cc4f69407c23c42":[6,0,718,0,5],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a89750136787d549ac4c744a0e3b9239c":[6,0,718,0,2]
+"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a89750136787d549ac4c744a0e3b9239c":[6,0,718,0,2],
+"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a8ee658a07f28df0c5f46cedac25f68ab":[6,0,718,0,8],
+"d7/daf/structboss__taerar_1_1boss__taerarAI.html#add2712022edbd88504de2dd147a098a0":[6,0,718,0,3],
+"d7/daf/structboss__taerar_1_1boss__taerarAI.html#adf280483e6fd7f01d14472973c021a91":[6,0,718,0,4],
+"d7/db0/boss__zuramat_8cpp.html":[7,0,0,0,1,3,5,12,6],
+"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,6,5],
+"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4":[7,0,0,0,1,3,5,12,6,5,0]
 };

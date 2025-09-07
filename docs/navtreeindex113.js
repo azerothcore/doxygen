@@ -1,13 +1,5 @@
 var NAVTREEINDEX113 =
 {
-"d3/dd8/structnpc__supremus__punch__invisible__stalker.html":[6,0,2155],
-"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#a467d5a43bb6d2349ad859a0ef7de4c00":[6,0,2155,1],
-"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#a90ecfe4257ef77a6d6a200a2f017c51a":[6,0,2155,2],
-"d3/dd8/structnpc__supremus__punch__invisible__stalker.html#add7d0e711ef02a16ef58d90cfc8ee733":[6,0,2155,0],
-"d3/dda/classspell__hallows__end__put__costume.html":[6,0,3077],
-"d3/dda/classspell__hallows__end__put__costume.html#a5ccb30abd83ed1d0be104bffc91deca2":[6,0,3077,4],
-"d3/dda/classspell__hallows__end__put__costume.html#ac0e4692be1527f052a23ed52af32d042":[6,0,3077,2],
-"d3/dda/classspell__hallows__end__put__costume.html#ac1fcd0a32142744f353cdc01bce740e3":[6,0,3077,0],
 "d3/dda/classspell__hallows__end__put__costume.html#ac38299892d02c497e3bbae3c73a095ab":[6,0,3077,3],
 "d3/dda/classspell__hallows__end__put__costume.html#ac4be92e73c08c06c1c9954547bfe8013":[6,0,3077,1],
 "d3/dda/classspell__hallows__end__put__costume.html#af9b285133389942bea6738e518d34e48":[6,0,3077,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX113 =
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a21aad38fe91580d3b8e0cc71dce7b1ad":[6,0,2666,1],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a4741bfaaea8bc956fd1020aca13a51c2":[6,0,2666,0],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a54b2ab23915e84b9c9728eb624dae47b":[6,0,2666,2],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[6,0,2666,4]
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[6,0,2666,4],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a6d552ff58f7bb267cf4d20f2f5aedc7a":[6,0,2666,3],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html":[6,0,3655],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[6,0,3655,0],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a7936186af106ae3ddeec3bc9b39ff127":[6,0,3655,1],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#aa8ce1f0413e19d8f6d403b220fc6749c":[6,0,3655,2],
+"d3/de7/structnpc__scion__of__eternity_1_1npc__scion__of__eternityAI.html":[6,0,2105,0],
+"d3/de7/structnpc__scion__of__eternity_1_1npc__scion__of__eternityAI.html#a1335f9e34ff73d5501455062be025ada":[6,0,2105,0,1],
+"d3/de7/structnpc__scion__of__eternity_1_1npc__scion__of__eternityAI.html#a2893db70b6a1ffa14d02dd5cea7f7c0a":[6,0,2105,0,0]
 };

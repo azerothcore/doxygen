@@ -1,13 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"d5/dfb/classObjectMgr.html#a5eeaa57566d5e6e106c7b1ed962c8168":[6,0,2327,238],
-"d5/dfb/classObjectMgr.html#a5f0a4478c14968c159c51071cd4e96eb":[6,0,2327,208],
-"d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0":[6,0,2327,96],
-"d5/dfb/classObjectMgr.html#a60389bfb3b7118cb22af68bcf2baf290":[6,0,2327,66],
-"d5/dfb/classObjectMgr.html#a617429495c17a52dabbba18f88ea69c8":[6,0,2327,228],
-"d5/dfb/classObjectMgr.html#a61e8b9181ea345419c35161e2b3d4f87":[6,0,2327,149],
-"d5/dfb/classObjectMgr.html#a63e2e1664a66e29d3ab9054921124bbb":[6,0,2327,352],
-"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2327,267],
 "d5/dfb/classObjectMgr.html#a6453ba99550ee894a8857b7cd52aa4b2":[6,0,2327,164],
 "d5/dfb/classObjectMgr.html#a64dd8e2afdd1e1ebf0f7902f94ad04e6":[6,0,2327,109],
 "d5/dfb/classObjectMgr.html#a6555d4ee6bb86a8686ba789492e2840f":[6,0,2327,60],
@@ -249,5 +241,13 @@ var NAVTREEINDEX160 =
 "d5/dfb/classObjectMgr.html#af9d8776df9223dfb2843faea13f5855b":[6,0,2327,341],
 "d5/dfb/classObjectMgr.html#afa72d09be1cb2764b3be66d5fb2f1111":[6,0,2327,264],
 "d5/dfb/classObjectMgr.html#afa8e6c0a340d473253c98526831c63e8":[6,0,2327,112],
-"d5/dfb/classObjectMgr.html#afaf0c44e499261c10276edc4c3cb15a0":[6,0,2327,129]
+"d5/dfb/classObjectMgr.html#afaf0c44e499261c10276edc4c3cb15a0":[6,0,2327,129],
+"d5/dfb/classObjectMgr.html#afb4994a52572a0cc0054031150e041cc":[6,0,2327,191],
+"d5/dfb/classObjectMgr.html#afc3f080d869e3abd2c2297f5beb0e195":[6,0,2327,200],
+"d5/dfb/classObjectMgr.html#afcc4bfeeefde9e7bc8212cbded58b3a7":[6,0,2327,21],
+"d5/dfb/classObjectMgr.html#afd5cf84c3ffee0c86e6f5bb0741fdbf4":[6,0,2327,165],
+"d5/dfb/classObjectMgr.html#aff5277d75699cc517ade341b4ac8c217":[6,0,2327,280],
+"d5/dfb/classObjectMgr.html#aff7a95599cbe0e0d5911a1a98781137d":[6,0,2327,294],
+"d5/dfb/classObjectMgr.html#aff8770b00f2f83eb459815fad61e1d6f":[6,0,2327,272],
+"d5/dfb/classspell__brewfest__apple__trap.html":[6,0,2683]
 };
