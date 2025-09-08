@@ -49,6 +49,7 @@ var classdebug__commandscript =
     [ "HandleDebugUnitStateCommand", "d1/dae/classdebug__commandscript.html#a4c4669985d7836d7c73ee5295a05c9c2", null ],
     [ "HandleDebugUpdateCommand", "d1/dae/classdebug__commandscript.html#a3d037087157fa40e97d34ee977225eb1", null ],
     [ "HandleDebugUpdateWorldStateCommand", "d1/dae/classdebug__commandscript.html#acaa598f66a7c7cb82a1fd05881244067", null ],
+    [ "HandleDebugVisibilityDataCommand", "d1/dae/classdebug__commandscript.html#a4cb36f4b09ac9fa02efd7be7acb681d6", null ],
     [ "HandleDebugVisualCommand", "d1/dae/classdebug__commandscript.html#ac62894df778631ed9c96109bf18cbdac", null ],
     [ "HandleWPGPSCommand", "d1/dae/classdebug__commandscript.html#a28e02f3d118c62bfc5c7351e32878296", null ]
 ];

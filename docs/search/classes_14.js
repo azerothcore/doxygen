@@ -97,5 +97,7 @@ var searchData=
   ['typemapcontainer_94',['TypeMapContainer',['../d1/dac/classTypeMapContainer.html',1,'']]],
   ['typemapcontainer_3c_20grid_5fobject_5ftypes_20_3e_95',['TypeMapContainer&lt; GRID_OBJECT_TYPES &gt;',['../d1/dac/classTypeMapContainer.html',1,'']]],
   ['typeunorderedmapcontainer_96',['TypeUnorderedMapContainer',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
-  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_97',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]]
+  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_97',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
+  ['typevectorcontainer_98',['TypeVectorContainer',['../dc/d56/classTypeVectorContainer.html',1,'']]],
+  ['typevectorcontainer_3c_20far_5fvisible_5fobject_5ftypes_20_3e_99',['TypeVectorContainer&lt; FAR_VISIBLE_OBJECT_TYPES &gt;',['../dc/d56/classTypeVectorContainer.html',1,'']]]
 ];

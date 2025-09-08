@@ -1964,6 +1964,13 @@ var hierarchy =
     [ "ContainerUnorderedMap< T, KEY_TYPE >", "d6/d0f/structContainerUnorderedMap.html", null ],
     [ "ContainerUnorderedMap< TypeList< H, T >, KEY_TYPE >", "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html", null ],
     [ "ContainerUnorderedMap< TypeNull, KEY_TYPE >", "dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html", null ],
+    [ "ContainerVector< OBJECT >", "de/d5f/structContainerVector.html", null ],
+    [ "ContainerVector< FAR_VISIBLE_OBJECT_TYPES >", "de/d5f/structContainerVector.html", null ],
+    [ "ContainerVector< H >", "de/d5f/structContainerVector.html", null ],
+    [ "ContainerVector< OBJECT_TYPES >", "de/d5f/structContainerVector.html", null ],
+    [ "ContainerVector< T >", "de/d5f/structContainerVector.html", null ],
+    [ "ContainerVector< TypeList< H, T > >", "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html", null ],
+    [ "ContainerVector< TypeNull >", "d3/d18/structContainerVector_3_01TypeNull_01_4.html", null ],
     [ "CoordPair< LIMIT >", "d4/d6f/structCoordPair.html", null ],
     [ "CoordPair< TOTAL_NUMBER_OF_CELLS_PER_MAP >", "d4/d6f/structCoordPair.html", null ],
     [ "CorpseExplosionCheck", "da/d64/classCorpseExplosionCheck.html", null ],
@@ -2290,7 +2297,7 @@ var hierarchy =
     [ "Graveyard", "d0/deb/classGraveyard.html", null ],
     [ "GraveyardData", "df/db1/structGraveyardData.html", null ],
     [ "GraveyardStruct", "db/d35/structGraveyardStruct.html", null ],
-    [ "GridCell< GRID_OBJECT_TYPES >", "dd/dfd/classGridCell.html", null ],
+    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "dd/dfd/classGridCell.html", null ],
     [ "GridObject< T >", "d5/ddf/classGridObject.html", null ],
     [ "GridObject< Corpse >", "d5/ddf/classGridObject.html", [
       [ "Corpse", "d3/dc4/classCorpse.html", null ]
@@ -2518,7 +2525,7 @@ var hierarchy =
       ] ],
       [ "Reference< GridRefMgr< Player >, Player >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< T >, T >", "d4/d52/classReference.html", null ],
-      [ "Reference< GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
+      [ "Reference< GridRefMgr< MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >", "d4/d52/classReference.html", null ],
       [ "Reference< TO, FROM >", "d4/d52/classReference.html", [
         [ "GridReference< Corpse >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Creature >", "d4/db8/classGridReference.html", null ],
@@ -2526,7 +2533,7 @@ var hierarchy =
         [ "GridReference< GameObject >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< Player >", "d4/db8/classGridReference.html", null ],
         [ "GridReference< T >", "d4/db8/classGridReference.html", null ],
-        [ "GridReference< MapGrid< GRID_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
+        [ "GridReference< MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >", "d4/db8/classGridReference.html", null ]
       ] ]
     ] ],
     [ "LinkedListHead", "db/dea/classLinkedListHead.html", [
@@ -2557,7 +2564,7 @@ var hierarchy =
       [ "RefMgr< GridRefMgr< T >, T >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< H >, H >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< GRID_OBJECT_TYPES >, GRID_OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
+      [ "RefMgr< GridRefMgr< MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >, MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< OBJECT_TYPES >, OBJECT_TYPES >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< TO, FROM >", "d4/d73/classRefMgr.html", [
         [ "GridRefMgr< Corpse >", "db/d9d/classGridRefMgr.html", null ],
@@ -2575,7 +2582,7 @@ var hierarchy =
         [ "GridRefMgr< T >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< H >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< GRID_OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ],
-        [ "GridRefMgr< MapGrid< GRID_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
+        [ "GridRefMgr< MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES > >", "db/d9d/classGridRefMgr.html", null ],
         [ "GridRefMgr< OBJECT_TYPES >", "db/d9d/classGridRefMgr.html", null ]
       ] ]
     ] ],
@@ -2659,7 +2666,7 @@ var hierarchy =
     [ "MapDifficulty", "dd/d59/structMapDifficulty.html", null ],
     [ "MapDifficultyEntry", "df/d43/structMapDifficultyEntry.html", null ],
     [ "MapEntry", "d2/d1d/structMapEntry.html", null ],
-    [ "MapGrid< GRID_OBJECT_TYPES >", "da/d7e/classMapGrid.html", null ],
+    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "da/d7e/classMapGrid.html", null ],
     [ "MapGridManager", "d9/d8b/classMapGridManager.html", null ],
     [ "MapMgr", "d8/d58/classMapMgr.html", null ],
     [ "VMAP::MapRayCallback", "de/d20/classVMAP_1_1MapRayCallback.html", null ],
@@ -4649,6 +4656,8 @@ var hierarchy =
     [ "TypeMapContainer< GRID_OBJECT_TYPES >", "d1/dac/classTypeMapContainer.html", null ],
     [ "TypeUnorderedMapContainer< OBJECT_TYPES, KEY_TYPE >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
     [ "TypeUnorderedMapContainer< AllMapStoredObjectTypes, ObjectGuid >", "d9/d63/classTypeUnorderedMapContainer.html", null ],
+    [ "TypeVectorContainer< OBJECT_TYPES >", "dc/d56/classTypeVectorContainer.html", null ],
+    [ "TypeVectorContainer< FAR_VISIBLE_OBJECT_TYPES >", "dc/d56/classTypeVectorContainer.html", null ],
     [ "u_map_fcc", "dd/d66/unionu__map__fcc.html", null ],
     [ "u_map_magic", "d0/dcf/unionu__map__magic.html", null ],
     [ "LoadedHeightData::Uint16HeightData", "d5/df7/structLoadedHeightData_1_1Uint16HeightData.html", null ],

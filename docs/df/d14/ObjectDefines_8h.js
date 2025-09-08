@@ -28,7 +28,6 @@ var ObjectDefines_8h =
     [ "VISIBILITY_DISTANCE_NORMAL", "df/d14/ObjectDefines_8h.html#a4ff4df7e2c9ebd38bfd8c298708deba9", null ],
     [ "VISIBILITY_DISTANCE_SMALL", "df/d14/ObjectDefines_8h.html#ae57720dd4437b418bb332db290c71d45", null ],
     [ "VISIBILITY_DISTANCE_TINY", "df/d14/ObjectDefines_8h.html#a3e2fbd681c4b511f283f7b4d429a5f80", null ],
-    [ "VISIBILITY_INC_FOR_GOBJECTS", "df/d14/ObjectDefines_8h.html#aaeef4cd88d0d15aab096215c91394412", null ],
     [ "VisibilityDistanceType", "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1d", [
       [ "Normal", "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0", null ],
       [ "Tiny", "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338", null ],

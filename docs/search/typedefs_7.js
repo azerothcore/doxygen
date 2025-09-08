@@ -48,7 +48,7 @@ var searchData=
   ['graveyardmapbounds_45',['GraveyardMapBounds',['../d1/d89/GameGraveyard_8h.html#aa5ea0c376a2e44483f8c5cb084b3b186',1,'GameGraveyard.h']]],
   ['graveyardmapboundsnonconst_46',['GraveyardMapBoundsNonConst',['../d1/d89/GameGraveyard_8h.html#a6a551a1219fa9a26b5ed21656c2f9dd1',1,'GameGraveyard.h']]],
   ['graveyardvect_47',['GraveyardVect',['../df/da2/Battlefield_8h.html#a3c001cdd2e1b762c5c2bdd6814e59f6c',1,'Battlefield.h']]],
-  ['gridcelltype_48',['gridcelltype',['../da/d7e/classMapGrid.html#a6ced2887358290f2692b8db27dc41fb8',1,'MapGrid::GridCellType'],['../d7/d34/GridDefines_8h.html#ae1868802d6bb4578019077d06ee38a17',1,'GridCellType:&#160;GridDefines.h']]],
+  ['gridcelltype_48',['gridcelltype',['../da/d7e/classMapGrid.html#ade4a2ad0726ab6a45fae7ac4aa261b5b',1,'MapGrid::GridCellType'],['../d7/d34/GridDefines_8h.html#a82f1139af6d18bcc83dc53785b144b4d',1,'GridCellType:&#160;GridDefines.h']]],
   ['gridcoord_49',['GridCoord',['../d7/d34/GridDefines_8h.html#a56cc9baa50cd4031aeac2999eb38ea37',1,'GridDefines.h']]],
   ['gridtypemapcontainer_50',['GridTypeMapContainer',['../d7/d34/GridDefines_8h.html#a9bb9afe2207e6266d412c3b73369f10d',1,'GridDefines.h']]],
   ['group_5ft_51',['group_t',['../df/ddc/classTaskScheduler.html#a998482c629b3a5783373a6d3ac30e1ed',1,'TaskScheduler']]],

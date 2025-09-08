@@ -13,6 +13,8 @@ var Map_8h =
     [ "CreatureGroupHolderType", "df/d79/Map_8h.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
     [ "TransportsContainer", "df/d79/Map_8h.html#a6ca566ddeb275c5d65ead48048181bff", null ],
     [ "ZoneDynamicInfoMap", "df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318", null ],
+    [ "ZoneWideVisibleWorldObjectsMap", "df/d79/Map_8h.html#a48df2f2b831ed13fcc0eef2e9d017b4d", null ],
+    [ "ZoneWideVisibleWorldObjectsSet", "df/d79/Map_8h.html#a04f98f085e5062cb0c3e86409a12ea0c", null ],
     [ "EncounterCreditType", "df/d79/Map_8h.html#acea202894a6252d2df201860aa39d037", [
       [ "ENCOUNTER_CREDIT_KILL_CREATURE", "df/d79/Map_8h.html#acea202894a6252d2df201860aa39d037a9f7df7852d0cd0994fbc5c531928a03f", null ],
       [ "ENCOUNTER_CREDIT_CAST_SPELL", "df/d79/Map_8h.html#acea202894a6252d2df201860aa39d037aca618c5b7ae69c151ea4da7955578b02", null ]

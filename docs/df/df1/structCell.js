@@ -19,6 +19,7 @@ var structCell =
     [ "Visit", "df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee", null ],
     [ "Visit", "df/df1/structCell.html#abd95fd440e9f8dab059a8c518c58eca2", null ],
     [ "VisitCircle", "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97", null ],
+    [ "VisitFarVisibleObjects", "df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa", null ],
     [ "VisitObjects", "df/df1/structCell.html#ad507586547e54f178924f392c0066c16", null ],
     [ "VisitObjects", "df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686", null ],
     [ "All", "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123", null ],

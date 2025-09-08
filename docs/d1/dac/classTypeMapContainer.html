@@ -165,11 +165,11 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a>(<a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, (SPECIFIC_TYPE*)<span class="keyword">nullptr</span>); }</div>
-<div class="ttc" id="aclassTypeMapContainer_html_a8ef4a180d448dcba2141fc389621433d"><div class="ttname"><a href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">TypeMapContainer::i_elements</a></div><div class="ttdeci">ContainerMapList&lt; OBJECT_TYPES &gt; i_elements</div><div class="ttdef"><b>Definition</b> TypeContainer.h:123</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  120</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a>(<a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, (SPECIFIC_TYPE*)<span class="keyword">nullptr</span>); }</div>
+<div class="ttc" id="aclassTypeMapContainer_html_a8ef4a180d448dcba2141fc389621433d"><div class="ttname"><a href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">TypeMapContainer::i_elements</a></div><div class="ttdeci">ContainerMapList&lt; OBJECT_TYPES &gt; i_elements</div><div class="ttdef"><b>Definition</b> TypeContainer.h:142</div></div>
 <div class="ttc" id="anamespaceAcore_html_a2d87541d6d2eceb7467b09f7fa5bd51b"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a></div><div class="ttdeci">std::size_t Count(const ContainerMapList&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *)</div><div class="ttdef"><b>Definition</b> TypeContainerFunctions.h:159</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00159">Acore::Count()</a>, and <a class="el" href="../../#l00123">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00159">Acore::Count()</a>, and <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
 
 </div>
 </div>
@@ -199,9 +199,9 @@ template&lt;class OBJECT_TYPES &gt; </div>
 </div><div class="memdoc">
 
 <p>Removes the object from the container, and returns the removed object. </p>
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  138</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00054">VisitorHelper()</a>.</p>
 
@@ -231,9 +231,9 @@ template&lt;class OBJECT_TYPES &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>;}</div>
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>;}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
 
 </div>
 </div>
@@ -266,13 +266,13 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
 </div><div class="memdoc">
 
 <p>inserts a specific object into the container </p>
-<div class="fragment"><div class="line"><span class="lineno">  106</span>    {</div>
-<div class="line"><span class="lineno">  107</span>        SPECIFIC_TYPE* t = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a>(<a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, obj);</div>
-<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">return</span> (t != <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  109</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  125</span>    {</div>
+<div class="line"><span class="lineno">  126</span>        SPECIFIC_TYPE* t = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a>(<a class="code hl_variable" href="../../d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, obj);</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> (t != <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  128</span>    }</div>
 <div class="ttc" id="anamespaceAcore_html_aa25dd64d4a28b7d93e2c8bf4cf93d888"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a></div><div class="ttdeci">bool Insert(ContainerUnorderedMap&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</div><div class="ttdef"><b>Definition</b> TypeContainerFunctions.h:34</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>, and <a class="el" href="../../#l00034">Acore::Insert()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>, and <a class="el" href="../../#l00034">Acore::Insert()</a>.</p>
 
 </div>
 </div>
@@ -299,7 +299,7 @@ template&lt;class OBJECT_TYPES &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00101">TypeMapContainer&lt; OBJECT_TYPES &gt;::Count()</a>, <a class="el" href="../../#l00119">TypeMapContainer&lt; OBJECT_TYPES &gt;::GetElements()</a>, <a class="el" href="../../#l00120">TypeMapContainer&lt; OBJECT_TYPES &gt;::GetElements()</a>, and <a class="el" href="../../#l00105">TypeMapContainer&lt; OBJECT_TYPES &gt;::insert()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00120">TypeMapContainer&lt; OBJECT_TYPES &gt;::Count()</a>, <a class="el" href="../../#l00138">TypeMapContainer&lt; OBJECT_TYPES &gt;::GetElements()</a>, <a class="el" href="../../#l00139">TypeMapContainer&lt; OBJECT_TYPES &gt;::GetElements()</a>, and <a class="el" href="../../#l00124">TypeMapContainer&lt; OBJECT_TYPES &gt;::insert()</a>.</p>
 
 </div>
 </div>
@@ -312,7 +312,7 @@ template&lt;class OBJECT_TYPES &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dac/classTypeMapContainer.html">TypeMapContainer</a></li>
-    <li class="footer">Generated on Sun Sep 7 2025 06:21:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 06:25:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

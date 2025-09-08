@@ -625,6 +625,7 @@ var classPlayer =
     [ "IsValidPos", "d2/d4b/classPlayer.html#afdc011378fb92fcca3877300b615ed68", null ],
     [ "IsValidPos", "d2/d4b/classPlayer.html#ad41e651c11fdeb4f1d2a84101a02f865", null ],
     [ "IsVisibleGloballyFor", "d2/d4b/classPlayer.html#aa88ab08ee98b707c9db24ec8642379f7", null ],
+    [ "IsWorldObjectOutOfSightRange", "d2/d4b/classPlayer.html#a291fbe4723a8d1adfaf0f75e41edb431", null ],
     [ "ItemAddedQuestCheck", "d2/d4b/classPlayer.html#ac84736fec697d49391a3325b99e3e039", null ],
     [ "ItemRemovedQuestCheck", "d2/d4b/classPlayer.html#a0927f8027a80bf9d43291d73c2556a04", null ],
     [ "JoinedChannel", "d2/d4b/classPlayer.html#ae3cebe36f2c9322d3c8e0048dcf9ae9c", null ],
