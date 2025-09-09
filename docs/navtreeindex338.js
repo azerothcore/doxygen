@@ -1,5 +1,13 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,853,5],
+"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,853,8],
+"dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,853,7],
+"dd/dcf/structCharacterCacheEntry.html#a91c17eef26be0a18823a9834853c296a":[6,0,853,10],
+"dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[6,0,853,9],
+"dd/dcf/structCharacterCacheEntry.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532":[6,0,853,4],
+"dd/dcf/structCharacterCacheEntry.html#ae1921d1e949cec70ebbd52779b775df6":[6,0,853,0],
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[6,0,2224,0],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#a4c1f53fbbc6189ca9ee0420bc4198684":[6,0,2224,0,2],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aa66f1aa48cf928ac12751cb3ca2358f3":[6,0,2224,0,4],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#ad21127654d5511b6b1d9b22cdd77bd08":[6,0,2224,0,3],
@@ -8,10 +16,10 @@ var NAVTREEINDEX338 =
 "dd/dd1/classboss__professor__putricide.html":[6,0,662],
 "dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,662,2],
 "dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,662,1],
-"dd/dd1/classspell__target__fissures.html":[6,0,3859],
-"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3859,1],
-"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3859,0],
-"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3859,2],
+"dd/dd1/classspell__target__fissures.html":[6,0,3861],
+"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3861,1],
+"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3861,0],
+"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3861,2],
 "dd/dd2/boss__anubarak_8cpp.html":[7,0,0,0,1,3,5,0,1,1],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,0,1,1,5],
 "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a195f6417cd6d29f73dab0b90876d138d":[7,0,0,0,1,3,5,0,1,1,5,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabcc48f8614db8a252e6b91cd8a239bff":[7,0,0,0,1,3,5,1,1,2,32,43],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabdd9ae17a1682ad0796a3a513093b316":[7,0,0,0,1,3,5,1,1,2,32,12],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabeb10d9b2d8b7b7aba28d2fcb1f3ae2c":[7,0,0,0,1,3,5,1,1,2,32,16],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c404944e70b252c6ffaf6ca5d5b41d":[7,0,0,0,1,3,5,1,1,2,32,32],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf":[7,0,0,0,1,3,5,1,1,2,32,34],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cace14711262a8c537d9a9944063caa5c5":[7,0,0,0,1,3,5,1,1,2,32,36],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacf29e6a20e169dce5fcceb611b2c2ba0":[7,0,0,0,1,3,5,1,1,2,32,5],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacf7fd3c78dd2facda3f3d2bc9fa70056":[7,0,0,0,1,3,5,1,1,2,32,15],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae5aab5b5b47af5aff20b605afde84278":[7,0,0,0,1,3,5,1,1,2,32,23],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae7473d5bc22b110e233fcd4f0f744b90":[7,0,0,0,1,3,5,1,1,2,32,45]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21]
 };

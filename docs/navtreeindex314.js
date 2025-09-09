@@ -1,5 +1,13 @@
 var NAVTREEINDEX314 =
 {
+"dc/db1/classspell__gen__mount.html#a81085b5efd8d9bd7c82ebb1cf6604793":[6,0,2981,1],
+"dc/db1/classspell__gen__mount.html#a8175ecc0c407d5c4646f038d7b62e92b":[6,0,2981,3],
+"dc/db1/classspell__gen__mount.html#aa9d0a936795d06dd78ef3c4d5aaf0320":[6,0,2981,8],
+"dc/db1/classspell__gen__mount.html#aae8c5c328dda0668bf8cdabc2c9cd29f":[6,0,2981,0],
+"dc/db1/classspell__gen__mount.html#abd6347074186b7c47ac5a2c760f4db33":[6,0,2981,5],
+"dc/db1/classspell__gen__mount.html#ac06b80d14cc106281c3e6bf3f6a5c727":[6,0,2981,9],
+"dc/db1/classspell__gen__mount.html#accef27fc13ff34af52860ad6ac62e7f3":[6,0,2981,4],
+"dc/db2/SpellScript_8h.html":[7,0,0,0,1,2,41,11],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236":[7,0,0,0,1,2,41,11,70],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a01bccb65044d0e5ccab470539e8a71a3":[7,0,0,0,1,2,41,11,70,7],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a12c382920aa6890efbc36805fc32e25a":[7,0,0,0,1,2,41,11,70,6],
@@ -189,10 +197,10 @@ var NAVTREEINDEX314 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2224],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2224,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2224,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3596],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3596,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3596,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3596,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3598],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3598,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3598,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3598,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,938],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,938,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -241,13 +249,5 @@ var NAVTREEINDEX314 =
 "dc/db7/classOutdoorPvPSI.html#a401da5bef2350c4eb21b249b4f8b3e40":[6,0,2367,8],
 "dc/db7/classOutdoorPvPSI.html#a56bda08a795a4b0cd1c52ec448920fac":[6,0,2367,9],
 "dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077":[6,0,2367,1],
-"dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[6,0,2367,2],
-"dc/db7/classOutdoorPvPSI.html#a81f4362ece83f37f14471926e9a85fb3":[6,0,2367,10],
-"dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[6,0,2367,0],
-"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[6,0,2367,4],
-"dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[6,0,2367,6],
-"dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[6,0,2367,7],
-"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[6,0,2367,11],
-"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[6,0,2367,12],
-"dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[6,0,2367,5]
+"dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[6,0,2367,2]
 };

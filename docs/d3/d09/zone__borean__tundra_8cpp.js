@@ -39,6 +39,7 @@ var zone__borean__tundra_8cpp =
     [ "npc_leryssa::npc_leryssaAI", "d0/d11/structnpc__leryssa_1_1npc__leryssaAI.html", "d0/d11/structnpc__leryssa_1_1npc__leryssaAI" ],
     [ "npc_counselor_talbot", "d8/db1/classnpc__counselor__talbot.html", "d8/db1/classnpc__counselor__talbot" ],
     [ "npc_counselor_talbot::npc_counselor_talbotAI", "d8/d9e/structnpc__counselor__talbot_1_1npc__counselor__talbotAI.html", "d8/d9e/structnpc__counselor__talbot_1_1npc__counselor__talbotAI" ],
+    [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
     [ "BerylSorcerer", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281", [
       [ "EVENT_FROSTBOLT", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281aeccde9e1206ee2e4eb28b875f92ec48a", null ],
       [ "EVENT_ARCANE_CHAINS", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281acc82c9e2da8a9d11d5fc08d8ec826668", null ],

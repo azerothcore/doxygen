@@ -1,5 +1,9 @@
 var NAVTREEINDEX94 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8cf1d392f97e7fd80eb9423b207f78fd":[7,0,0,0,1,3,5,9,2,13,65,33],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a93765f7d3172274cec20d272f39baf7c":[7,0,0,0,1,3,5,9,2,13,65,65],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9733d28569b14d2d60cee84beffb40a8":[7,0,0,0,1,3,5,9,2,13,65,60],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a98770a74e11a382246a37020ee55cff5":[7,0,0,0,1,3,5,9,2,13,65,70],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e":[7,0,0,0,1,3,5,9,2,13,65,19],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9aa8082d2cca5849c4c7379cba168818":[7,0,0,0,1,3,5,9,2,13,65,35],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aa641554ba74a9505ef793021405c568c":[7,0,0,0,1,3,5,9,2,13,65,63],
@@ -245,9 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ab5781438300442bb7bcb4510aec9d233":[6,0,1792,0,2],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ac2e34b9a53ff55d177327ec95dca5466":[6,0,1792,0,4],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#af056f3c12a314acd8a7e8c6c381b9436":[6,0,1792,0,1],
-"d3/d3d/classnpc__draenei__survivor.html":[6,0,1752],
-"d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[6,0,1752,1],
-"d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[6,0,1752,2],
-"d3/d3e/PassiveAI_8cpp.html":[7,0,0,0,1,2,3,0,6],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4056]
+"d3/d3d/classnpc__draenei__survivor.html":[6,0,1752]
 };

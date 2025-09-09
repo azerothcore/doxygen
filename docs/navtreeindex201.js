@@ -1,5 +1,9 @@
 var NAVTREEINDEX201 =
 {
+"d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2187,1],
+"d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[6,0,2187,2],
+"d7/dab/structboss__glob__of__viscidus.html":[6,0,499],
+"d7/dab/structboss__glob__of__viscidus.html#a0247055fc4f3a60c880ffb78e96edcb9":[6,0,499,1],
 "d7/dab/structboss__glob__of__viscidus.html#a1ba72393766110382dc4ce4122dfd1ee":[6,0,499,0],
 "d7/dab/structboss__glob__of__viscidus.html#a2e8e38ccdf4ab5e32bd750d73daf1605":[6,0,499,3],
 "d7/dab/structboss__glob__of__viscidus.html#abe0cd95930fe52fdb5a40c704d092b90":[6,0,499,2],
@@ -9,10 +13,10 @@ var NAVTREEINDEX201 =
 "d7/daf/classboss__noth.html":[6,0,641],
 "d7/daf/classboss__noth.html#a2760f1ec46a21f22de0e57527cbe9768":[6,0,641,1],
 "d7/daf/classboss__noth.html#a534f30792c051ab44c6c07c9347893e5":[6,0,641,2],
-"d7/daf/classspell__hun__disengage.html":[6,0,3112],
-"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[6,0,3112,2],
-"d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[6,0,3112,0],
-"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3112,1],
+"d7/daf/classspell__hun__disengage.html":[6,0,3113],
+"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[6,0,3113,2],
+"d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[6,0,3113,0],
+"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3113,1],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html":[6,0,718,0],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a08babc3ca2cd76891b9c0e196e461c79":[6,0,718,0,1],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a2d49f2ce95d16cfc1b9525256f0a6bc2":[6,0,718,0,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX201 =
 "d7/db0/classMap.html#ac6cdaebabf597df48be6fe48d6172480":[6,0,1479,153],
 "d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[6,0,1479,100],
 "d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1479,103],
-"d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f":[6,0,1479,202],
-"d7/db0/classMap.html#acba733ebb1500dc5e86225730915e48f":[6,0,1479,66],
-"d7/db0/classMap.html#acc6e018eedcd4943734d153dc4a8cb89":[6,0,1479,162],
-"d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328":[6,0,1479,57],
-"d7/db0/classMap.html#acd127a41af0319958a7066382e71e293":[6,0,1479,156]
+"d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f":[6,0,1479,202]
 };

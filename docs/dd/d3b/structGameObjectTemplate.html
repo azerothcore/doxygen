@@ -1240,9 +1240,9 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  638</span>    {</div>
-<div class="line"><span class="lineno">  639</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a32ad02505bf60c19a26cf9a5729dd42b">IsForQuests</a>;</div>
-<div class="line"><span class="lineno">  640</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  640</span>    {</div>
+<div class="line"><span class="lineno">  641</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a32ad02505bf60c19a26cf9a5729dd42b">IsForQuests</a>;</div>
+<div class="line"><span class="lineno">  642</span>    }</div>
 <div class="ttc" id="astructGameObjectTemplate_html_a32ad02505bf60c19a26cf9a5729dd42b"><div class="ttname"><a href="../../dd/d3b/structGameObjectTemplate.html#a32ad02505bf60c19a26cf9a5729dd42b">GameObjectTemplate::IsForQuests</a></div><div class="ttdeci">bool IsForQuests</div><div class="ttdef"><b>Definition</b> GameObjectData.h:394</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00394">IsForQuests</a>.</p>
@@ -1271,23 +1271,23 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  643</span>    {</div>
-<div class="line"><span class="lineno">  644</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330">type</a>)</div>
-<div class="line"><span class="lineno">  645</span>        {</div>
-<div class="line"><span class="lineno">  646</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a15f58d40de8df7da4670c73d34950f28">GAMEOBJECT_TYPE_BUTTON</a>:</div>
-<div class="line"><span class="lineno">  647</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ad5d25af358a24503f1e52a8fca1987b1">button</a>.losOK == 0;</div>
-<div class="line"><span class="lineno">  648</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1">GAMEOBJECT_TYPE_QUESTGIVER</a>:</div>
-<div class="line"><span class="lineno">  649</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0">questgiver</a>.losOK == 0;</div>
-<div class="line"><span class="lineno">  650</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a5d5d866feab04a17e7da4d8b0967f2fd">GAMEOBJECT_TYPE_CHEST</a>:</div>
-<div class="line"><span class="lineno">  651</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ad174b2f7723e2d650a48123989eebc2a">chest</a>.losOK == 0;</div>
-<div class="line"><span class="lineno">  652</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a">GAMEOBJECT_TYPE_GOOBER</a>:</div>
-<div class="line"><span class="lineno">  653</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a22e9e7721cf6c9b4cdc6ba4c5298e3b0">goober</a>.losOK == 0;</div>
-<div class="line"><span class="lineno">  654</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a7b152ee9aac0d007da2d01e195bf5bc4">GAMEOBJECT_TYPE_FLAGSTAND</a>:</div>
-<div class="line"><span class="lineno">  655</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#aedd6f374610173c48d14c67daaed4db3">flagstand</a>.losOK == 0;</div>
-<div class="line"><span class="lineno">  656</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  657</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  658</span>        }</div>
-<div class="line"><span class="lineno">  659</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  645</span>    {</div>
+<div class="line"><span class="lineno">  646</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330">type</a>)</div>
+<div class="line"><span class="lineno">  647</span>        {</div>
+<div class="line"><span class="lineno">  648</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a15f58d40de8df7da4670c73d34950f28">GAMEOBJECT_TYPE_BUTTON</a>:</div>
+<div class="line"><span class="lineno">  649</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ad5d25af358a24503f1e52a8fca1987b1">button</a>.losOK == 0;</div>
+<div class="line"><span class="lineno">  650</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1">GAMEOBJECT_TYPE_QUESTGIVER</a>:</div>
+<div class="line"><span class="lineno">  651</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0">questgiver</a>.losOK == 0;</div>
+<div class="line"><span class="lineno">  652</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a5d5d866feab04a17e7da4d8b0967f2fd">GAMEOBJECT_TYPE_CHEST</a>:</div>
+<div class="line"><span class="lineno">  653</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#ad174b2f7723e2d650a48123989eebc2a">chest</a>.losOK == 0;</div>
+<div class="line"><span class="lineno">  654</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a">GAMEOBJECT_TYPE_GOOBER</a>:</div>
+<div class="line"><span class="lineno">  655</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#a22e9e7721cf6c9b4cdc6ba4c5298e3b0">goober</a>.losOK == 0;</div>
+<div class="line"><span class="lineno">  656</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a7b152ee9aac0d007da2d01e195bf5bc4">GAMEOBJECT_TYPE_FLAGSTAND</a>:</div>
+<div class="line"><span class="lineno">  657</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3b/structGameObjectTemplate.html#aedd6f374610173c48d14c67daaed4db3">flagstand</a>.losOK == 0;</div>
+<div class="line"><span class="lineno">  658</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  659</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  660</span>        }</div>
+<div class="line"><span class="lineno">  661</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#ad5d25af358a24503f1e52a8fca1987b1">button</a>, <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#ad174b2f7723e2d650a48123989eebc2a">chest</a>, <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#aedd6f374610173c48d14c67daaed4db3">flagstand</a>, <a class="el" href="../../#l01572">GAMEOBJECT_TYPE_BUTTON</a>, <a class="el" href="../../#l01574">GAMEOBJECT_TYPE_CHEST</a>, <a class="el" href="../../#l01595">GAMEOBJECT_TYPE_FLAGSTAND</a>, <a class="el" href="../../#l01581">GAMEOBJECT_TYPE_GOOBER</a>, <a class="el" href="../../#l01573">GAMEOBJECT_TYPE_QUESTGIVER</a>, <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#a22e9e7721cf6c9b4cdc6ba4c5298e3b0">goober</a>, <a class="el" href="../../dd/d3b/structGameObjectTemplate.html#ab7cc9c635762560598abe2aed642fbb0">questgiver</a>, and <a class="el" href="../../#l00033">type</a>.</p>
 
@@ -1330,14 +1330,17 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  629</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  630</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa">GAMEOBJECT_TYPE_TRAPDOOR</a>:</div>
 <div class="line"><span class="lineno">  631</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  632</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  633</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  634</span>        }</div>
-<div class="line"><span class="lineno">  635</span>    }</div>
+<div class="line"><span class="lineno">  632</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9afd1b3271e7a9e6205d5f1dab1d34610f">GAMEOBJECT_TYPE_DESTRUCTIBLE_BUILDING</a>:</div>
+<div class="line"><span class="lineno">  633</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  634</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  635</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  636</span>        }</div>
+<div class="line"><span class="lineno">  637</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa">GAMEOBJECT_TYPE_TRAPDOOR</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_TRAPDOOR</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1606</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9a9749beff7617718a640f0de6b583caad"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9749beff7617718a640f0de6b583caad">GAMEOBJECT_TYPE_DUNGEON_DIFFICULTY</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_DUNGEON_DIFFICULTY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1602</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9afd1b3271e7a9e6205d5f1dab1d34610f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9afd1b3271e7a9e6205d5f1dab1d34610f">GAMEOBJECT_TYPE_DESTRUCTIBLE_BUILDING</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_DESTRUCTIBLE_BUILDING</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1604</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01571">GAMEOBJECT_TYPE_DOOR</a>, <a class="el" href="../../#l01602">GAMEOBJECT_TYPE_DUNGEON_DIFFICULTY</a>, <a class="el" href="../../#l01597">GAMEOBJECT_TYPE_FLAGDROP</a>, <a class="el" href="../../#l01595">GAMEOBJECT_TYPE_FLAGSTAND</a>, <a class="el" href="../../#l01606">GAMEOBJECT_TYPE_TRAPDOOR</a>, and <a class="el" href="../../#l00033">type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01604">GAMEOBJECT_TYPE_DESTRUCTIBLE_BUILDING</a>, <a class="el" href="../../#l01571">GAMEOBJECT_TYPE_DOOR</a>, <a class="el" href="../../#l01602">GAMEOBJECT_TYPE_DUNGEON_DIFFICULTY</a>, <a class="el" href="../../#l01597">GAMEOBJECT_TYPE_FLAGDROP</a>, <a class="el" href="../../#l01595">GAMEOBJECT_TYPE_FLAGSTAND</a>, <a class="el" href="../../#l01606">GAMEOBJECT_TYPE_TRAPDOOR</a>, and <a class="el" href="../../#l00033">type</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>.</p>
 
@@ -1694,7 +1697,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, and <a class="el" href="../../#l02015">Spell::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, and <a class="el" href="../../#l02015">Spell::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -1868,7 +1871,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02721">GameObject::BuildValuesUpdate()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00539">GetLootId()</a>, <a class="el" href="../../#l00481">gobject_commandscript::HandleGameObjectInfoCommand()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l07848">Player::SendLoot()</a>, <a class="el" href="../../#l02015">Spell::SendLoot()</a>, and <a class="el" href="../../#l00443">GameObject::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02721">GameObject::BuildValuesUpdate()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00539">GetLootId()</a>, <a class="el" href="../../#l00481">gobject_commandscript::HandleGameObjectInfoCommand()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l07848">Player::SendLoot()</a>, <a class="el" href="../../#l02015">Spell::SendLoot()</a>, and <a class="el" href="../../#l00443">GameObject::Update()</a>.</p>
 
 </div>
 </div>
@@ -2572,7 +2575,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, and <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, and <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>.</p>
 
 </div>
 </div>
@@ -2646,7 +2649,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01308">GameObject::ActivateToQuest()</a>, <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00580">GetCooldown()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l01122">go_celestial_planetarium_access::go_celestial_planetarium_accessAI::GossipHello()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l01005">go_simon_cluster::OnGossipHello()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01308">GameObject::ActivateToQuest()</a>, <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00580">GetCooldown()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l01122">go_celestial_planetarium_access::go_celestial_planetarium_accessAI::GossipHello()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l01005">go_simon_cluster::OnGossipHello()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
 
 </div>
 </div>
@@ -2844,7 +2847,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00637">IsGameObjectForQuests()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00639">IsGameObjectForQuests()</a>.</p>
 
 </div>
 </div>
@@ -3470,7 +3473,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l01031">go_apexis_relic::OnGossipHello()</a>, and <a class="el" href="../../#l02015">Spell::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l01031">go_apexis_relic::OnGossipHello()</a>, and <a class="el" href="../../#l02015">Spell::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -4034,7 +4037,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02501">ObjectMgr::AddGOData()</a>, <a class="el" href="../../#l07341">CheckAndFixGOChairHeightId()</a>, <a class="el" href="../../#l05660">Spell::CheckCast()</a>, <a class="el" href="../../#l07362">CheckGOConsumable()</a>, <a class="el" href="../../#l07322">CheckGOLinkedTrapId()</a>, <a class="el" href="../../#l07313">CheckGOLockId()</a>, <a class="el" href="../../#l07353">CheckGONoDamageImmuneId()</a>, <a class="el" href="../../#l07332">CheckGOSpellId()</a>, <a class="el" href="../../#l01425">Group::CountTheRoll()</a>, <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l00727">StaticTransport::Create()</a>, <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l05352">Spell::EffectTransmitted()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00479">GetCharges()</a>, <a class="el" href="../../#l00580">GetCooldown()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00539">GetLootId()</a>, <a class="el" href="../../#l00085">gobject_commandscript::HandleGameObjectAddCommand()</a>, <a class="el" href="../../#l00481">gobject_commandscript::HandleGameObjectInfoCommand()</a>, <a class="el" href="../../#l00166">WorldSession::HandleGameObjectQueryOpcode()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l01212">GameObject::IsDestructibleBuilding()</a>, <a class="el" href="../../#l10283">ObjectMgr::IsGameObjectStaticTransport()</a>, <a class="el" href="../../#l00642">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00618">IsInfiniteGameObject()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00318">GameObject::IsMotionTransport()</a>, <a class="el" href="../../#l00317">GameObject::IsStaticTransport()</a>, <a class="el" href="../../#l01207">GameObject::IsTransport()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l00577">PoolMgr::LoadFromDB()</a>, <a class="el" href="../../#l08320">ObjectMgr::LoadGameobjectQuestEnders()</a>, <a class="el" href="../../#l08306">ObjectMgr::LoadGameobjectQuestStarters()</a>, <a class="el" href="../../#l05417">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l00676">Acore::NearestGameObjectFishingHole::operator()()</a>, <a class="el" href="../../#l00651">Acore::GameObjectFocusCheck::operator()()</a>, <a class="el" href="../../#l07848">Player::SendLoot()</a>, <a class="el" href="../../#l00935">BfCapturePoint::SetCapturePointData()</a>, <a class="el" href="../../#l00127">OPvPCapturePoint::SetCapturePointData()</a>, <a class="el" href="../../#l01366">GameObject::TriggeringLinkedGameObject()</a>, <a class="el" href="../../#l00443">GameObject::Update()</a>, <a class="el" href="../../#l01460">GameObject::Use()</a>, and <a class="el" href="../../#l02513">GameObject::ValidateGameobjectType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02501">ObjectMgr::AddGOData()</a>, <a class="el" href="../../#l07341">CheckAndFixGOChairHeightId()</a>, <a class="el" href="../../#l05660">Spell::CheckCast()</a>, <a class="el" href="../../#l07362">CheckGOConsumable()</a>, <a class="el" href="../../#l07322">CheckGOLinkedTrapId()</a>, <a class="el" href="../../#l07313">CheckGOLockId()</a>, <a class="el" href="../../#l07353">CheckGONoDamageImmuneId()</a>, <a class="el" href="../../#l07332">CheckGOSpellId()</a>, <a class="el" href="../../#l01425">Group::CountTheRoll()</a>, <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l00727">StaticTransport::Create()</a>, <a class="el" href="../../#l02081">Spell::EffectOpenLock()</a>, <a class="el" href="../../#l05352">Spell::EffectTransmitted()</a>, <a class="el" href="../../#l00510">GetAutoCloseTime()</a>, <a class="el" href="../../#l00479">GetCharges()</a>, <a class="el" href="../../#l00580">GetCooldown()</a>, <a class="el" href="../../#l00458">GetDespawnPossibility()</a>, <a class="el" href="../../#l00565">GetEventScriptId()</a>, <a class="el" href="../../#l00552">GetGossipMenuId()</a>, <a class="el" href="../../#l00493">GetLinkedGameObjectEntry()</a>, <a class="el" href="../../#l00427">GetLockId()</a>, <a class="el" href="../../#l00539">GetLootId()</a>, <a class="el" href="../../#l00085">gobject_commandscript::HandleGameObjectAddCommand()</a>, <a class="el" href="../../#l00481">gobject_commandscript::HandleGameObjectInfoCommand()</a>, <a class="el" href="../../#l00166">WorldSession::HandleGameObjectQueryOpcode()</a>, <a class="el" href="../../#l00397">IsDespawnAtAction()</a>, <a class="el" href="../../#l01212">GameObject::IsDestructibleBuilding()</a>, <a class="el" href="../../#l10283">ObjectMgr::IsGameObjectStaticTransport()</a>, <a class="el" href="../../#l00644">IsIgnoringLOSChecks()</a>, <a class="el" href="../../#l00618">IsInfiniteGameObject()</a>, <a class="el" href="../../#l00593">IsLargeGameObject()</a>, <a class="el" href="../../#l00318">GameObject::IsMotionTransport()</a>, <a class="el" href="../../#l00317">GameObject::IsStaticTransport()</a>, <a class="el" href="../../#l01207">GameObject::IsTransport()</a>, <a class="el" href="../../#l00410">IsUsableMounted()</a>, <a class="el" href="../../#l00577">PoolMgr::LoadFromDB()</a>, <a class="el" href="../../#l08320">ObjectMgr::LoadGameobjectQuestEnders()</a>, <a class="el" href="../../#l08306">ObjectMgr::LoadGameobjectQuestStarters()</a>, <a class="el" href="../../#l05417">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l00676">Acore::NearestGameObjectFishingHole::operator()()</a>, <a class="el" href="../../#l00651">Acore::GameObjectFocusCheck::operator()()</a>, <a class="el" href="../../#l07848">Player::SendLoot()</a>, <a class="el" href="../../#l00935">BfCapturePoint::SetCapturePointData()</a>, <a class="el" href="../../#l00127">OPvPCapturePoint::SetCapturePointData()</a>, <a class="el" href="../../#l01366">GameObject::TriggeringLinkedGameObject()</a>, <a class="el" href="../../#l00443">GameObject::Update()</a>, <a class="el" href="../../#l01460">GameObject::Use()</a>, and <a class="el" href="../../#l02513">GameObject::ValidateGameobjectType()</a>.</p>
 
 </div>
 </div>
@@ -4181,7 +4184,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d3b/structGameObjectTemplate.html">GameObjectTemplate</a></li>
-    <li class="footer">Generated on Mon Sep 8 2025 06:24:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Sep 9 2025 06:24:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

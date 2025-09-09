@@ -1,5 +1,13 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#a8ecaf02862224e9d25423760afd45d12":[6,0,915,131],
+"db/dd5/classCreature.html#a8edf87f35516c88006bb0bd99ca1154b":[6,0,915,21],
+"db/dd5/classCreature.html#a92cb34ec3d265b60cff365ccf1fda4cb":[6,0,915,23],
+"db/dd5/classCreature.html#a9446df6b2f65a4a845330ecb3904f75e":[6,0,915,234],
+"db/dd5/classCreature.html#a946af6fd5415bb647f078989c93cc937":[6,0,915,312],
+"db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a":[6,0,915,88],
+"db/dd5/classCreature.html#a964d74e322e372aa45056c06c66c0fe3":[6,0,915,24],
+"db/dd5/classCreature.html#a967138cdf1d8c3287d6a88ccc53b41ec":[6,0,915,110],
 "db/dd5/classCreature.html#a96fe53bce662d3c1182114e7625a2586":[6,0,915,190],
 "db/dd5/classCreature.html#a97e8f71cb079e6544424cf5a9ab92ce6":[6,0,915,259],
 "db/dd5/classCreature.html#a97fd2015b3956323ef777b5f9e23a1e8":[6,0,915,50],
@@ -138,10 +146,10 @@ var NAVTREEINDEX294 =
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2778,1],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2778,2],
 "db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2778,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3392],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3392,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3392,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3392,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3393],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[6,0,3393,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3393,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3393,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1652,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1652,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1652,0,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX294 =
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a65bd1d76ac4cbd6e8c5e9f827a637040":[6,0,1313,0,21],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a73baaec19f1f33eaf9f75191be50d53b":[6,0,1313,0,30],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a75e34a3422150ce7b604360b27ce9aaf":[6,0,1313,0,10],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a783b11bb2595a644cc28550efe88ccc0":[6,0,1313,0,22],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a7d95681882ebd3aed213b0fb44492e8b":[6,0,1313,0,3],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a87fe01f64c145476121811c4037ea38f":[6,0,1313,0,9],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a94c416f2babd82942f538cb590ed1b00":[6,0,1313,0,1],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a9fb268f006661035f305edfdc495bf20":[6,0,1313,0,14],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ab85709ac2cdd35f23e1ca78fbdef07c0":[6,0,1313,0,16],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ac207de646045d3e96b7ebd66d1af4d2e":[6,0,1313,0,11],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ac4c7304f6ac52a1b75ba9ac0615031db":[6,0,1313,0,29],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad14d3e7546c3638b4b3ccded54565714":[6,0,1313,0,20]
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a783b11bb2595a644cc28550efe88ccc0":[6,0,1313,0,22]
 };

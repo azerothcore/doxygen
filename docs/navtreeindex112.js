@@ -1,5 +1,9 @@
 var NAVTREEINDEX112 =
 {
+"d3/dd4/BattlegroundAV_8h.html#a751d904d288e78e456149d82d6e019c9ac5c865f00c2c78e36819281ff51b43a5":[7,0,0,0,1,2,8,1,3,27,5],
+"d3/dd4/BattlegroundAV_8h.html#a751d904d288e78e456149d82d6e019c9acaa3c37c02e690487f4c1c71e5babb6b":[7,0,0,0,1,2,8,1,3,27,0],
+"d3/dd4/BattlegroundAV_8h.html#a751d904d288e78e456149d82d6e019c9af0c70c98a97c83f1c55a2fb2a18ca3ac":[7,0,0,0,1,2,8,1,3,27,2],
+"d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3":[7,0,0,0,1,2,8,1,3,20],
 "d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3a09af2cf14365ca8c58549f326bf15284":[7,0,0,0,1,2,8,1,3,20,1],
 "d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3a275e423c2c25f439bdcd919759c902b2":[7,0,0,0,1,2,8,1,3,20,4],
 "d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3a3b85f9b4a83524f74c7c1f375a8bc861":[7,0,0,0,1,2,8,1,3,20,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX112 =
 "d3/dd4/BattlegroundAV_8h.html#af5fe1c9024bb4c7e779b1c2a67e370f1aea098f00e21b5bb443ab43bbe6429754":[7,0,0,0,1,2,8,1,3,16,2],
 "d3/dd6/classat__blackrock__stadium.html":[6,0,211],
 "d3/dd6/classat__blackrock__stadium.html#a26e43099d9253ea44060194e3b38c656":[6,0,211,1],
-"d3/dd6/classat__blackrock__stadium.html#a9f577437f231a189c02e50e71ffcb85a":[6,0,211,0],
-"d3/dd7/classinstance__trial__of__the__crusader.html":[6,0,1351],
-"d3/dd7/classinstance__trial__of__the__crusader.html#a764d871d02e4ff53b7cc3a8637dcddf9":[6,0,1351,1],
-"d3/dd7/classinstance__trial__of__the__crusader.html#a792034e9e5687bf5fa543175692bed66":[6,0,1351,2],
-"d3/dd7/classspell__halion__twilight__realm__aura.html":[6,0,3075]
+"d3/dd6/classat__blackrock__stadium.html#a9f577437f231a189c02e50e71ffcb85a":[6,0,211,0]
 };

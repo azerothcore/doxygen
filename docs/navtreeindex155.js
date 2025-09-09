@@ -1,5 +1,9 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a0558addc33c751c08aab41255fac10f1":[6,0,1294,0,43],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a06bdc27f75fa5397fbcaa7ccc60bdcb6":[6,0,1294,0,7],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a2809bfc29de2e22f49fc81f88acbd9f4":[6,0,1294,0,44],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a2baecb05e0ac7886676ae344354a7b58":[6,0,1294,0,40],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a31ac2596b15fdab08e33207d3d4ba33c":[6,0,1294,0,10],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a323768d3811b1a32126d3d2f0ee286d5":[6,0,1294,0,17],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a3485a0cdf8d8cbe1f2ce020018b4a135":[6,0,1294,0,15],
@@ -60,13 +64,13 @@ var NAVTREEINDEX155 =
 "d5/dcd/classspell__bh__cleanse__quel__delar.html#a17240b9d80e5f30cd4638e2ec5b92d0b":[6,0,2645,1],
 "d5/dcd/classspell__bh__cleanse__quel__delar.html#a41903586310ec274dd10537ccb8655f3":[6,0,2645,0],
 "d5/dcd/classspell__bh__cleanse__quel__delar.html#a64ef9effcdeaf13b58aeef889d777f22":[6,0,2645,2],
-"d5/dce/classspell__item__shadowmourne.html":[6,0,3295],
-"d5/dce/classspell__item__shadowmourne.html#a0b5b97081b7c897d451ef70c810bd7f1":[6,0,3295,5],
-"d5/dce/classspell__item__shadowmourne.html#a185159a5c83e8c65ef5b82f49a89dd8a":[6,0,3295,0],
-"d5/dce/classspell__item__shadowmourne.html#a1b51483738d5d3b73f50a78ef9fc1c57":[6,0,3295,2],
-"d5/dce/classspell__item__shadowmourne.html#a3e549b8764c0f8efc5d110543c9944c7":[6,0,3295,3],
-"d5/dce/classspell__item__shadowmourne.html#a67db21e0293f336a31bf518c0fac85d1":[6,0,3295,1],
-"d5/dce/classspell__item__shadowmourne.html#abc4b88f104253b2b141ab0e3e22ee338":[6,0,3295,4],
+"d5/dce/classspell__item__shadowmourne.html":[6,0,3296],
+"d5/dce/classspell__item__shadowmourne.html#a0b5b97081b7c897d451ef70c810bd7f1":[6,0,3296,5],
+"d5/dce/classspell__item__shadowmourne.html#a185159a5c83e8c65ef5b82f49a89dd8a":[6,0,3296,0],
+"d5/dce/classspell__item__shadowmourne.html#a1b51483738d5d3b73f50a78ef9fc1c57":[6,0,3296,2],
+"d5/dce/classspell__item__shadowmourne.html#a3e549b8764c0f8efc5d110543c9944c7":[6,0,3296,3],
+"d5/dce/classspell__item__shadowmourne.html#a67db21e0293f336a31bf518c0fac85d1":[6,0,3296,1],
+"d5/dce/classspell__item__shadowmourne.html#abc4b88f104253b2b141ab0e3e22ee338":[6,0,3296,4],
 "d5/dce/outland__script__loader_8cpp.html":[7,0,0,0,1,3,7,8],
 "d5/dce/outland__script__loader_8cpp.html#a0122e83c59c7c2b6aaab619f8772e9c7":[7,0,0,0,1,3,7,8,1],
 "d5/dce/outland__script__loader_8cpp.html#a05d8f51b48412fcf45ffacc3e257ff6f":[7,0,0,0,1,3,7,8,59],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da5a0dc3f0e6e14d4e9978ca19821959fe":[7,0,0,0,1,3,4,1,1,6,8,21],
 "d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da5ab1d93efdd8f2ab6aa4eb6fb13ec0d7":[7,0,0,0,1,3,4,1,1,6,8,1],
 "d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da74cac18998f27d2bb91371e8a097762f":[7,0,0,0,1,3,4,1,1,6,8,20],
-"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da75ed02d0297d2e2919b6c33c3ffce6cd":[7,0,0,0,1,3,4,1,1,6,8,24],
-"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da7cd818bf89762bd8e725d713463130c7":[7,0,0,0,1,3,4,1,1,6,8,0],
-"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da7d62ffbcec6a97f35cdd030abaa4efd3":[7,0,0,0,1,3,4,1,1,6,8,7],
-"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da8e4429c4b5616366b751a21f4086feab":[7,0,0,0,1,3,4,1,1,6,8,15],
-"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da93eb02f8b2a5d6dbc2fb9b139b834987":[7,0,0,0,1,3,4,1,1,6,8,22]
+"d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da75ed02d0297d2e2919b6c33c3ffce6cd":[7,0,0,0,1,3,4,1,1,6,8,24]
 };
