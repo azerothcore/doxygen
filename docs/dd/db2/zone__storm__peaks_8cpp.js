@@ -23,6 +23,7 @@ var zone__storm__peaks_8cpp =
     [ "spell_q12823_remove_collapsing_cave_aura", "db/d95/classspell__q12823__remove__collapsing__cave__aura.html", "db/d95/classspell__q12823__remove__collapsing__cave__aura" ],
     [ "npc_vehicle_d16_propelled_delivery", "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html", "d6/d1e/classnpc__vehicle__d16__propelled__delivery" ],
     [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI" ],
+    [ "spell_feed_stormcrest_eagle", "d8/d8b/classspell__feed__stormcrest__eagle.html", "d8/d8b/classspell__feed__stormcrest__eagle" ],
     [ "BrunnhildarPrisoner", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
@@ -85,6 +86,9 @@ var zone__storm__peaks_8cpp =
     [ "RoxiRamrocket", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaff", [
       [ "SPELL_MECHANO_HOG", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],
       [ "SPELL_MEKGINEERS_CHOPPER", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6", null ]
+    ] ],
+    [ "StormcrestEagle", "dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71", [
+      [ "NPC_STORMCREST_EAGLE", "dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71a58a9b81c2cdf68439c2e3a4ae08ab651", null ]
     ] ],
     [ "WhenAllElseFailsAlliance", "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144", [
       [ "NPC_PROPELLED_DEVICE_1", "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da", null ],

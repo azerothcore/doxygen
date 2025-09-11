@@ -1,5 +1,11 @@
 var NAVTREEINDEX377 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a361d04d6a219ed143eecebdd8fb66868":[7,0,0,0,1,3,5,6,9,37,4],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3743bb26b8617178b9aed704e62e7fa8":[7,0,0,0,1,3,5,6,9,37,27],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a483043dec22247ba5728a8f9126fa20a":[7,0,0,0,1,3,5,6,9,37,14],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4f1abcbf6dd50f3b0d3c6088aa4415bd":[7,0,0,0,1,3,5,6,9,37,15],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7169ab52103ed42134df634a4d7e567d":[7,0,0,0,1,3,5,6,9,37,26],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7357a600d9e229ced4d9f27e82847313":[7,0,0,0,1,3,5,6,9,37,8],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a79c034dfe5ea43ff0670dc533785fb56":[7,0,0,0,1,3,5,6,9,37,6],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7ad8d99da2c07ea5ae898e774d819122":[7,0,0,0,1,3,5,6,9,37,17],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80b9af3543ebf2d2a28dc0ecc86dfcff":[7,0,0,0,1,3,5,6,9,37,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX377 =
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419":[7,0,0,0,1,3,9,9,19,6],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220":[7,0,0,0,1,3,9,9,19,2],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d":[7,0,0,0,1,3,9,9,19,3],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812":[7,0,0,0,1,3,9,9,19,1],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e":[7,0,0,0,1,3,9,9,19,4],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3":[7,0,0,0,1,3,9,9,19,7],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e":[7,0,0,0,1,3,9,9,19,9],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4":[7,0,0,0,1,3,9,9,19,0],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788":[7,0,0,0,1,3,9,9,19,5],
-"de/df3/classinstance__the__slave__pens.html":[6,0,1347]
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812":[7,0,0,0,1,3,9,9,19,1]
 };

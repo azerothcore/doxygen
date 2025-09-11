@@ -1,5 +1,9 @@
 var NAVTREEINDEX258 =
 {
+"da/d75/Socket_8h.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699":[7,0,0,0,1,4,1,2,2,1],
+"da/d75/Socket_8h.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575":[7,0,0,0,1,4,1,2,2,0],
+"da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272":[7,0,0,0,1,4,1,2,3],
+"da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c":[7,0,0,0,1,4,1,2,3,0],
 "da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb":[7,0,0,0,1,4,1,2,3,2],
 "da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98":[7,0,0,0,1,4,1,2,3,1],
 "da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f":[7,0,0,0,1,4,1,2,3,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX258 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca541eef6b0c6c6faec2d26d8491ab24eb":[7,0,0,0,1,3,5,6,10,82,23],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca56141a47e3afdf35528b3fc7b8d5afbc":[7,0,0,0,1,3,5,6,10,82,38],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca59a9556066ef7245c03dfb8b53dce807":[7,0,0,0,1,3,5,6,10,82,63],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bc00bff64ed669a9250685a8d58ae7a":[7,0,0,0,1,3,5,6,10,82,48],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca61251e81cdb09691695a595703edfaa6":[7,0,0,0,1,3,5,6,10,82,81],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2":[7,0,0,0,1,3,5,6,10,82,53],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca68005cb6cb86e75408d2c31eba920c5d":[7,0,0,0,1,3,5,6,10,82,5],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca69d89d3e2635026d92825aacb13f0334":[7,0,0,0,1,3,5,6,10,82,85]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bc00bff64ed669a9250685a8d58ae7a":[7,0,0,0,1,3,5,6,10,82,48]
 };

@@ -3370,6 +3370,7 @@ var annotated_dup =
     [ "spell_explode_trigger", "d0/db6/classspell__explode__trigger.html", "d0/db6/classspell__explode__trigger" ],
     [ "spell_exploding_orb_auto_grow_aura", "dd/d1f/classspell__exploding__orb__auto__grow__aura.html", "dd/d1f/classspell__exploding__orb__auto__grow__aura" ],
     [ "spell_faction_champion_warl_unstable_affliction_aura", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura" ],
+    [ "spell_feed_stormcrest_eagle", "d8/d8b/classspell__feed__stormcrest__eagle.html", "d8/d8b/classspell__feed__stormcrest__eagle" ],
     [ "spell_felmyst_fog_of_corruption", "d0/d72/classspell__felmyst__fog__of__corruption.html", "d0/d72/classspell__felmyst__fog__of__corruption" ],
     [ "spell_felmyst_fog_of_corruption_charm_aura", "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html", "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura" ],
     [ "spell_felmyst_open_brutallus_back_doors", "d1/d56/classspell__felmyst__open__brutallus__back__doors.html", "d1/d56/classspell__felmyst__open__brutallus__back__doors" ],

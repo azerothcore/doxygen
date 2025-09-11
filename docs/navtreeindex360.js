@@ -1,5 +1,11 @@
 var NAVTREEINDEX360 =
 {
+"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda8b607e9b4df320f6051946623c88e084":[7,0,0,0,1,2,41,9,69,0],
+"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddaa3391be8356e56c204b6a35987068fb0":[7,0,0,0,1,2,41,9,69,2],
+"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddabf7f951ff4fe93548225f358bbd4fb9e":[7,0,0,0,1,2,41,9,69,3],
+"de/d30/SpellMgr_8h.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,9,71],
+"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64a":[7,0,0,0,1,2,41,9,64],
+"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa0a8c2fa5acc9cdc85f8748a3996282ac":[7,0,0,0,1,2,41,9,64,4],
 "de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa1aad47aebfae60e67f6788b0620198d0":[7,0,0,0,1,2,41,9,64,1],
 "de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa3d9abd3ac2621e0ae06a7bd64a3698e9":[7,0,0,0,1,2,41,9,64,0],
 "de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa58c3d6ea4ecd2afb029d7c3bb84c00c0":[7,0,0,0,1,2,41,9,64,3],
@@ -222,10 +228,10 @@ var NAVTREEINDEX360 =
 "de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1837,4],
 "de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1837,2],
 "de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1837,3],
-"de/d34/classspell__gordunni__trap.html":[6,0,3045],
-"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3045,2],
-"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3045,1],
-"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3045,0],
+"de/d34/classspell__gordunni__trap.html":[6,0,3046],
+"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3046,2],
+"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3046,1],
+"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3046,0],
 "de/d34/instance__halls__of__lightning_8cpp.html":[7,0,0,0,1,3,5,9,0,5],
 "de/d34/instance__halls__of__lightning_8cpp.html#acb5e7d848388449d05e307ed07fbcfc6":[7,0,0,0,1,3,5,9,0,5,2],
 "de/d34/structBroadcastText.html":[6,0,822],
@@ -243,11 +249,5 @@ var NAVTREEINDEX360 =
 "de/d34/structBroadcastText.html#acbce2101751bdaed47315c23f5058a7b":[6,0,822,7],
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[6,0,822,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[6,0,822,4],
-"de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,822,10],
-"de/d34/structSpellDurationEntry.html":[6,0,4077],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4077,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4077,0],
-"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[6,0,714,0],
-"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[6,0,714,0,2],
-"de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,714,0,0]
+"de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,822,10]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX280 =
 {
+"db/d67/classspell__gen__defend.html#ae5799f72b7fbce82799fd730f1525948":[6,0,2944,5],
+"db/d67/classspell__gen__defend.html#aebfc1dfb1ff025b0ef4a8c0062a000f1":[6,0,2944,0],
+"db/d67/classspell__gen__defend.html#aed4bb9ec815ac4e22b952a64c8bd3b51":[6,0,2944,4],
+"db/d67/classspell__gen__defend.html#aeefbbdd391c347b350ec7738b9825f8c":[6,0,2944,1],
 "db/d67/love__in__air_8cpp.html":[7,0,0,0,1,3,3,5],
 "db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390":[7,0,0,0,1,3,3,5,8],
 "db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390a00b4fa551ce3ec4ab9f5129c963372a8":[7,0,0,0,1,3,3,5,8,0],
@@ -104,11 +108,11 @@ var NAVTREEINDEX280 =
 "db/d6a/classnpc__marzon__silent__blade.html":[6,0,1956],
 "db/d6a/classnpc__marzon__silent__blade.html#a8fa1c0e11555df45005f37fd9de7f3a8":[6,0,1956,1],
 "db/d6a/classnpc__marzon__silent__blade.html#aadde9b84b46c594e41ae8ca3ae0265a1":[6,0,1956,2],
-"db/d6a/classspell__spawn__drakonid.html":[6,0,3836],
-"db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[6,0,3836,0],
-"db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[6,0,3836,1],
-"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[6,0,3836,2],
-"db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[6,0,3836,3],
+"db/d6a/classspell__spawn__drakonid.html":[6,0,3837],
+"db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[6,0,3837,0],
+"db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[6,0,3837,1],
+"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[6,0,3837,2],
+"db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[6,0,3837,3],
 "db/d6d/classnpc__argent__soldier.html":[6,0,1612],
 "db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[6,0,1612,1],
 "db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1612,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX280 =
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391faa38e2e0824a23d864e5fd71fb482078a":[7,0,0,0,1,3,9,4,162,11],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391faa6ba3ba3ead12c7b938e24debfd84974":[7,0,0,0,1,3,9,4,162,17],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391faa92092be8a5cf4abdb8137743f24dd37":[7,0,0,0,1,3,9,4,162,6],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391faadb571952716047ca34b904c95452d50":[7,0,0,0,1,3,9,4,162,4],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fabceccb49ff4daee294ff5bf682e8e5a7":[7,0,0,0,1,3,9,4,162,0],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fac0aee10b455091cc9f1aa9f8bc8ee3b9":[7,0,0,0,1,3,9,4,162,15],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fac47157ec199b467d0ff857a33ac13c7d":[7,0,0,0,1,3,9,4,162,12],
-"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fac894c8ac4ff37add11ef5d0778a09a7a":[7,0,0,0,1,3,9,4,162,14]
+"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391faadb571952716047ca34b904c95452d50":[7,0,0,0,1,3,9,4,162,4]
 };

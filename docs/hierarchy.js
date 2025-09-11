@@ -782,6 +782,7 @@ var hierarchy =
         [ "spell_eredar_twins_flame_sear", "d9/daf/classspell__eredar__twins__flame__sear.html", null ],
         [ "spell_eredar_twins_handle_touch", "dd/d4a/classspell__eredar__twins__handle__touch.html", null ],
         [ "spell_explode_trigger", "d0/db6/classspell__explode__trigger.html", null ],
+        [ "spell_feed_stormcrest_eagle", "d8/d8b/classspell__feed__stormcrest__eagle.html", null ],
         [ "spell_felmyst_fog_of_corruption", "d0/d72/classspell__felmyst__fog__of__corruption.html", null ],
         [ "spell_felmyst_open_brutallus_back_doors", "d1/d56/classspell__felmyst__open__brutallus__back__doors.html", null ],
         [ "spell_festergut_gastric_bloat", "d5/d2e/classspell__festergut__gastric__bloat.html", null ],

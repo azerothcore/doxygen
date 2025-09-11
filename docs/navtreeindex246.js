@@ -1,5 +1,9 @@
 var NAVTREEINDEX246 =
 {
+"d9/df5/classGmTicket.html#a7a33e23c307f41af88ee4902a91e4974":[6,0,1111,61],
+"d9/df5/classGmTicket.html#a7cc9d8b2d0f4aebf8361dcaacc328462":[6,0,1111,14],
+"d9/df5/classGmTicket.html#a838f706c8133b88b0d031d882a27d190":[6,0,1111,7],
+"d9/df5/classGmTicket.html#a88428e6391ded9b91cf8a92c3d17956d":[6,0,1111,5],
 "d9/df5/classGmTicket.html#a8865b11527ec42c392957221366cc745":[6,0,1111,45],
 "d9/df5/classGmTicket.html#a8b1458726184ca00045c7752de90c958":[6,0,1111,40],
 "d9/df5/classGmTicket.html#a91c41284e7be334b2cd71a81ee68c904":[6,0,1111,23],
@@ -25,11 +29,11 @@ var NAVTREEINDEX246 =
 "d9/df5/classGmTicket.html#af9b97c103035b485ddabc9fad4640c29":[6,0,1111,8],
 "d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[6,0,1111,12],
 "d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[6,0,1111,33],
-"d9/df5/classspell__gen__elune__candle.html":[6,0,2953],
-"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2953,3],
-"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2953,0],
-"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2953,2],
-"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2953,1],
+"d9/df5/classspell__gen__elune__candle.html":[6,0,2954],
+"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2954,3],
+"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[6,0,2954,0],
+"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[6,0,2954,2],
+"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[6,0,2954,1],
 "d9/df5/structboss__sartharion__dragonAI.html":[6,0,685],
 "d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[6,0,685,13],
 "d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[6,0,685,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be":[7,0,0,0,1,3,5,9,2,16,1],
 "d9/df7/ulduar_8h.html#aab0d4e386149b9e2e10cf46466c6e373":[7,0,0,0,1,3,5,9,2,16,8],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2":[7,0,0,0,1,3,5,9,2,16,7],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a009d7553ce7bdd277c9d53cc2524dcff":[7,0,0,0,1,3,5,9,2,16,7,13],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a066a0433f8e424fd335f0dbfcef6dbe4":[7,0,0,0,1,3,5,9,2,16,7,22],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71":[7,0,0,0,1,3,5,9,2,16,7,27],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a0f63405073ccc2be0199501a3df4bbd9":[7,0,0,0,1,3,5,9,2,16,7,21],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28":[7,0,0,0,1,3,5,9,2,16,7,25]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a009d7553ce7bdd277c9d53cc2524dcff":[7,0,0,0,1,3,5,9,2,16,7,13]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX359 =
 {
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3239,3],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3239,0],
+"de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,2010],
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,2010,2],
+"de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,2010,1],
+"de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html":[6,0,2242,0],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a27c31856d2bfe3228ae3b0b361064d7a":[6,0,2242,0,1],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d":[6,0,2242,0,4],
 "de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a585437dff0c49ac1a6bf7929ab266ff5":[6,0,2242,0,0],
@@ -43,10 +49,10 @@ var NAVTREEINDEX359 =
 "de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
 "de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3850],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3850,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3850,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3850,2],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3851],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3851,1],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3851,0],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3851,2],
 "de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,30],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[7,0,0,0,1,2,16,1,2,36],
@@ -243,11 +249,5 @@ var NAVTREEINDEX359 =
 "de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,20],
 "de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[7,0,0,0,1,2,41,9,19],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[7,0,0,0,1,2,41,9,69],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[7,0,0,0,1,2,41,9,69,1],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda8b607e9b4df320f6051946623c88e084":[7,0,0,0,1,2,41,9,69,0],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddaa3391be8356e56c204b6a35987068fb0":[7,0,0,0,1,2,41,9,69,2],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240ddabf7f951ff4fe93548225f358bbd4fb9e":[7,0,0,0,1,2,41,9,69,3],
-"de/d30/SpellMgr_8h.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,9,71],
-"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64a":[7,0,0,0,1,2,41,9,64],
-"de/d30/SpellMgr_8h.html#ab12842852449b31e4918702a49c4c64aa0a8c2fa5acc9cdc85f8748a3996282ac":[7,0,0,0,1,2,41,9,64,4]
+"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[7,0,0,0,1,2,41,9,69,1]
 };
