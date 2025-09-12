@@ -314,20 +314,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  511</span>    {</div>
-<div class="line"><span class="lineno">  512</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = 0;</div>
-<div class="line"><span class="lineno">  513</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a51efd195dfe23e7fc5ee10e4a06b3874">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>))</div>
-<div class="line"><span class="lineno">  514</span>            spellId = <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a1f5250b012ad616c920eb47d44b7c4e6">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>;</div>
-<div class="line"><span class="lineno">  515</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad275532dfb8b01a04af39f8f333125f4">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>))</div>
-<div class="line"><span class="lineno">  516</span>            spellId = <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768abea15efb17e08ad77e67287a8a50f258">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a>;</div>
-<div class="line"><span class="lineno">  517</span> </div>
-<div class="line"><span class="lineno">  518</span>        <span class="keywordflow">if</span> (!spellId)</div>
-<div class="line"><span class="lineno">  519</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  520</span> </div>
-<div class="line"><span class="lineno">  521</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>())</div>
-<div class="line"><span class="lineno">  522</span>            <span class="keywordflow">if</span> (target-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno">  523</span>                target-&gt;CastSpell(target, spellId, <span class="keyword">true</span>, 0, 0, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetGUID());</div>
-<div class="line"><span class="lineno">  524</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  512</span>    {</div>
+<div class="line"><span class="lineno">  513</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = 0;</div>
+<div class="line"><span class="lineno">  514</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a51efd195dfe23e7fc5ee10e4a06b3874">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>))</div>
+<div class="line"><span class="lineno">  515</span>            spellId = <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a1f5250b012ad616c920eb47d44b7c4e6">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>;</div>
+<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad275532dfb8b01a04af39f8f333125f4">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>))</div>
+<div class="line"><span class="lineno">  517</span>            spellId = <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768abea15efb17e08ad77e67287a8a50f258">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a>;</div>
+<div class="line"><span class="lineno">  518</span> </div>
+<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">if</span> (!spellId)</div>
+<div class="line"><span class="lineno">  520</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  521</span> </div>
+<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>())</div>
+<div class="line"><span class="lineno">  523</span>            <span class="keywordflow">if</span> (target-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno">  524</span>                target-&gt;CastSpell(target, spellId, <span class="keyword">true</span>, 0, 0, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">  525</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:185</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1072</div></div>
@@ -340,7 +340,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00471">SpellScript::GetHitPlayer()</a>, <a class="el" href="../../#l00056">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>, <a class="el" href="../../#l00057">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>, <a class="el" href="../../#l00058">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>, <a class="el" href="../../#l00059">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a>, and <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00526">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00527">Register()</a>.</p>
 
 </div>
 </div>
@@ -394,16 +394,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  527</span>    {</div>
-<div class="line"><span class="lineno">  528</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0">spell_warr_overpower::HandleEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a>);</div>
-<div class="line"><span class="lineno">  529</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  528</span>    {</div>
+<div class="line"><span class="lineno">  529</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0">spell_warr_overpower::HandleEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a>);</div>
+<div class="line"><span class="lineno">  530</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ab6f3711ba6eb0532447359165e60172a"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a></div><div class="ttdeci">#define SPELL_EFFECT_ANY</div><div class="ttdef"><b>Definition</b> SpellScript.h:42</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__warr__overpower_html_a83b2bd3a3f9a9027766f15f23cae95f0"><div class="ttname"><a href="../../db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0">spell_warr_overpower::HandleEffect</a></div><div class="ttdeci">void HandleEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:510</div></div>
+<div class="ttc" id="aclassspell__warr__overpower_html_a83b2bd3a3f9a9027766f15f23cae95f0"><div class="ttname"><a href="../../db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0">spell_warr_overpower::HandleEffect</a></div><div class="ttdeci">void HandleEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:511</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00510">HandleEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00042">SPELL_EFFECT_ANY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00511">HandleEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00042">SPELL_EFFECT_ANY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -432,14 +432,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  501</span>    {</div>
-<div class="line"><span class="lineno">  502</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({</div>
-<div class="line"><span class="lineno">  503</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a51efd195dfe23e7fc5ee10e4a06b3874">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>,</div>
-<div class="line"><span class="lineno">  504</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a1f5250b012ad616c920eb47d44b7c4e6">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>,</div>
-<div class="line"><span class="lineno">  505</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad275532dfb8b01a04af39f8f333125f4">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>,</div>
-<div class="line"><span class="lineno">  506</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768abea15efb17e08ad77e67287a8a50f258">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a></div>
-<div class="line"><span class="lineno">  507</span>            });</div>
-<div class="line"><span class="lineno">  508</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  502</span>    {</div>
+<div class="line"><span class="lineno">  503</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({</div>
+<div class="line"><span class="lineno">  504</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a51efd195dfe23e7fc5ee10e4a06b3874">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>,</div>
+<div class="line"><span class="lineno">  505</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a1f5250b012ad616c920eb47d44b7c4e6">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>,</div>
+<div class="line"><span class="lineno">  506</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad275532dfb8b01a04af39f8f333125f4">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>,</div>
+<div class="line"><span class="lineno">  507</span>            <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768abea15efb17e08ad77e67287a8a50f258">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a></div>
+<div class="line"><span class="lineno">  508</span>            });</div>
+<div class="line"><span class="lineno">  509</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_1</a>, <a class="el" href="../../#l00057">SPELL_WARRIOR_UNRELENTING_ASSAULT_RANK_2</a>, <a class="el" href="../../#l00058">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_1</a>, <a class="el" href="../../#l00059">SPELL_WARRIOR_UNRELENTING_ASSAULT_TRIGGER_2</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -455,7 +455,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/df9/classspell__warr__overpower.html">spell_warr_overpower</a></li>
-    <li class="footer">Generated on Thu Sep 11 2025 06:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Sep 12 2025 06:24:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

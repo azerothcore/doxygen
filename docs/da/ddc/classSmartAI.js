@@ -85,6 +85,7 @@ var classSmartAI =
     [ "UpdateDespawn", "da/ddc/classSmartAI.html#ae4ca3b9840e41984e4bd2911ac85f2f5", null ],
     [ "UpdatePath", "da/ddc/classSmartAI.html#a1bf5b14038fae82f76fc0012007d4b26", null ],
     [ "_chaseOnInterrupt", "da/ddc/classSmartAI.html#a20acef24c5cf90445dec51e347e8a49b", null ],
+    [ "aiDataSet", "da/ddc/classSmartAI.html#afb8837b85b794b28fce672d1e87c07a4", null ],
     [ "conditions", "da/ddc/classSmartAI.html#a8fd30e4a36288ab4914d336096879dae", null ],
     [ "m_ConditionsTimer", "da/ddc/classSmartAI.html#a334a81fe4e035b576c9ce7f7f9b34016", null ],
     [ "mCanAutoAttack", "da/ddc/classSmartAI.html#a9c16d3870704c2e0a49dcba7f518c2b4", null ],

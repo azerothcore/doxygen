@@ -26,6 +26,7 @@ var spell__warrior_8cpp =
     [ "spell_warr_t3_prot_8p_bonus", "d2/dc9/classspell__warr__t3__prot__8p__bonus.html", "d2/dc9/classspell__warr__t3__prot__8p__bonus" ],
     [ "spell_warr_retaliation", "db/d23/classspell__warr__retaliation.html", "db/d23/classspell__warr__retaliation" ],
     [ "spell_warr_heroic_strike", "de/daf/classspell__warr__heroic__strike.html", "de/daf/classspell__warr__heroic__strike" ],
+    [ "spell_war_sudden_death_aura", "d1/d05/classspell__war__sudden__death__aura.html", "d1/d05/classspell__war__sudden__death__aura" ],
     [ "CheatDeath", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376", [
       [ "SPELL_CHEAT_DEATH_TRIGGER", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376ab102180ca5b128f6a6454fc6c45f59d9", null ]
     ] ],
@@ -76,7 +77,8 @@ var spell__warrior_8cpp =
       [ "SPELL_WARRIOR_VIGILANCE_PROC", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a4af1d9127129e06c93adc52b0d5b3e09", null ],
       [ "SPELL_WARRIOR_VIGILANCE_REDIRECT_THREAT", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a2b1e0e2d4da11d3796ef142fc1d9cb43", null ],
       [ "SPELL_WARRIOR_WHIRLWIND_MAIN", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a6d54589b1b5e425c22e9be31f219ca16", null ],
-      [ "SPELL_WARRIOR_WHIRLWIND_OFF", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aab352ffaf12be7d0e86602fe71974356", null ]
+      [ "SPELL_WARRIOR_WHIRLWIND_OFF", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aab352ffaf12be7d0e86602fe71974356", null ],
+      [ "SPELL_WARRIOR_EXECUTE_R1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a45645b8c6183c408e301ae1e2da60fad", null ]
     ] ],
     [ "AddSC_warrior_spell_scripts", "d8/d08/spell__warrior_8cpp.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ]
 ];

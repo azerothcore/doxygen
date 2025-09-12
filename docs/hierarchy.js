@@ -183,6 +183,7 @@ var hierarchy =
         [ "spell_gen_feign_death_no_prevent_emotes", "df/d75/classspell__gen__feign__death__no__prevent__emotes.html", null ],
         [ "spell_gen_fixate_aura", "db/d18/classspell__gen__fixate__aura.html", null ],
         [ "spell_gen_flurry_of_claws", "d7/dfb/classspell__gen__flurry__of__claws.html", null ],
+        [ "spell_gen_food_heart_emote", "d9/d59/classspell__gen__food__heart__emote.html", null ],
         [ "spell_gen_gift_of_naaru", "d9/d12/classspell__gen__gift__of__naaru.html", null ],
         [ "spell_gen_gryphon_wyvern_mount_check", "d0/dc9/classspell__gen__gryphon__wyvern__mount__check.html", null ],
         [ "spell_gen_haunted_aura", "d7/d0c/classspell__gen__haunted__aura.html", null ],
@@ -584,6 +585,7 @@ var hierarchy =
         [ "spell_vehicle_circuit_overload_aura", "d3/d8b/classspell__vehicle__circuit__overload__aura.html", null ],
         [ "spell_voa_overcharge_aura", "da/d98/classspell__voa__overcharge__aura.html", null ],
         [ "spell_wailing_souls_periodic_aura", "d2/dae/classspell__wailing__souls__periodic__aura.html", null ],
+        [ "spell_war_sudden_death_aura", "d1/d05/classspell__war__sudden__death__aura.html", null ],
         [ "spell_warhead_fuse_aura", "d5/d79/classspell__warhead__fuse__aura.html", null ],
         [ "spell_warl_curse_of_doom", "d4/dad/classspell__warl__curse__of__doom.html", null ],
         [ "spell_warl_demonic_aegis", "d7/d26/classspell__warl__demonic__aegis.html", null ],
@@ -3301,7 +3303,6 @@ var hierarchy =
         [ "AreaTrigger_at_scent_larkorwi", "da/d3b/classAreaTrigger__at__scent__larkorwi.html", null ],
         [ "AreaTrigger_at_sentry_point", "d6/dab/classAreaTrigger__at__sentry__point.html", null ],
         [ "AreaTrigger_at_stormwright_shelf", "d7/d48/classAreaTrigger__at__stormwright__shelf.html", null ],
-        [ "AreaTrigger_at_voltarus_middle", "d3/dba/classAreaTrigger__at__voltarus__middle.html", null ],
         [ "OnlyOnceAreaTriggerScript", "d7/d4b/classOnlyOnceAreaTriggerScript.html", [
           [ "at_icc_spire_frostwyrm", "d4/df1/classat__icc__spire__frostwyrm.html", null ],
           [ "at_karazhan_side_entrance", "dd/ded/classat__karazhan__side__entrance.html", null ],

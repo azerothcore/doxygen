@@ -1,6 +1,5 @@
 var areatrigger__scripts_8cpp =
 [
-    [ "AreaTrigger_at_voltarus_middle", "d3/dba/classAreaTrigger__at__voltarus__middle.html", "d3/dba/classAreaTrigger__at__voltarus__middle" ],
     [ "AreaTrigger_at_coilfang_waterfall", "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html", "d8/d4a/classAreaTrigger__at__coilfang__waterfall" ],
     [ "AreaTrigger_at_legion_teleporter", "dc/d90/classAreaTrigger__at__legion__teleporter.html", "dc/d90/classAreaTrigger__at__legion__teleporter" ],
     [ "AreaTrigger_at_stormwright_shelf", "d7/d48/classAreaTrigger__at__stormwright__shelf.html", "d7/d48/classAreaTrigger__at__stormwright__shelf" ],

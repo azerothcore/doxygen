@@ -139,6 +139,7 @@ var spell__generic_8cpp =
     [ "spell_gen_proc_on_victim", "da/dd9/classspell__gen__proc__on__victim.html", "da/dd9/classspell__gen__proc__on__victim" ],
     [ "spell_gen_translocate", "d1/d43/classspell__gen__translocate.html", "d1/d43/classspell__gen__translocate" ],
     [ "spell_gen_cooldown_all", "d6/db4/classspell__gen__cooldown__all.html", "d6/db4/classspell__gen__cooldown__all" ],
+    [ "spell_gen_food_heart_emote", "d9/d59/classspell__gen__food__heart__emote.html", "d9/d59/classspell__gen__food__heart__emote" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],
@@ -288,6 +289,9 @@ var spell__generic_8cpp =
     [ "GnomishTransporter", "d1/de4/spell__generic_8cpp.html#a84fbf25f9671e758649ef0b0b2ebb93c", [
       [ "SPELL_TRANSPORTER_SUCCESS", "d1/de4/spell__generic_8cpp.html#a84fbf25f9671e758649ef0b0b2ebb93cafce32e6dc5c7c8c4a24b75b77bf53318", null ],
       [ "SPELL_TRANSPORTER_FAILURE", "d1/de4/spell__generic_8cpp.html#a84fbf25f9671e758649ef0b0b2ebb93cac9f0a11e691b41b0d2acefe230fdf461", null ]
+    ] ],
+    [ "HeartFood", "d1/de4/spell__generic_8cpp.html#ae8576a41431a98496006b37dcdb6480b", [
+      [ "SPELL_VISUAL_KIT_HEART_EMOTE", "d1/de4/spell__generic_8cpp.html#ae8576a41431a98496006b37dcdb6480ba3aa924d3f78dabe0929356e1b7a92389", null ]
     ] ],
     [ "HolidayFoodBuffEnum", "d1/de4/spell__generic_8cpp.html#a83a98052375575fe13836138a6134720", [
       [ "SPELL_WELL_FED", "d1/de4/spell__generic_8cpp.html#a83a98052375575fe13836138a6134720a5e004e090ce4bb16a1328cc8423247ae", null ]
