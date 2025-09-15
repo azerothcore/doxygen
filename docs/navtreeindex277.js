@@ -1,5 +1,8 @@
 var NAVTREEINDEX277 =
 {
+"db/d32/classWardenMac.html#a7a31b72ea7362c70f0fc9ff6e316d80b":[6,0,4252,2],
+"db/d32/classWardenMac.html#a7feb3f82b2e0efd8427d6d8bcabaf17c":[6,0,4252,4],
+"db/d32/classWardenMac.html#ae329d60e41b9f5af2a2c7e4983936eac":[6,0,4252,5],
 "db/d32/classWardenMac.html#af031f18554c5a96b4eb39371a92b9c51":[6,0,4252,8],
 "db/d32/classspell__ioc__gunship__portal.html":[6,0,3201],
 "db/d32/classspell__ioc__gunship__portal.html#a2d1dbae570206b358878020879708000":[6,0,3201,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX277 =
 "db/d48/classspell__shazzrah__gate__dummy.html#a2319460465cefa69b1b81ce50b1d7b85":[6,0,3813,2],
 "db/d48/classspell__shazzrah__gate__dummy.html#a47dcb727b8e467044602b2a3d54ec1de":[6,0,3813,1],
 "db/d48/classspell__shazzrah__gate__dummy.html#a66d0a1ab1a3dae5242a7396a750e73ad":[6,0,3813,4],
-"db/d48/classspell__shazzrah__gate__dummy.html#a72b3bbddf931fee1a12700c867b47f3d":[6,0,3813,3],
-"db/d48/classspell__shazzrah__gate__dummy.html#ac47cfe2bf2782202ac69ea7a91290c2f":[6,0,3813,0],
-"db/d48/structboss__gathios__the__shatterer.html":[6,0,493],
-"db/d48/structboss__gathios__the__shatterer.html#a1541f1efd3978a4c91b80e411aec6442":[6,0,493,3]
+"db/d48/classspell__shazzrah__gate__dummy.html#a72b3bbddf931fee1a12700c867b47f3d":[6,0,3813,3]
 };

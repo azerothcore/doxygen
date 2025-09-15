@@ -1,5 +1,8 @@
 var NAVTREEINDEX315 =
 {
+"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,3,7,3],
+"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab0ad4be19678ff32aa826af2257aafe8":[7,0,0,0,1,3,5,1,1,3,7,1],
+"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,1,3,4],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,5,1,1,3,4,2],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[7,0,0,0,1,3,5,1,1,3,4,5],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,1,1,3,4,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dc9/ObjectGuid_8h.html#acdd3815893762a2491365b8fd25c7283":[7,0,0,0,1,2,16,5,5,8],
 "dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1":[7,0,0,0,1,2,16,5,5,18],
 "dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2":[7,0,0,0,1,2,16,5,5,18,0],
-"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d":[7,0,0,0,1,2,16,5,5,18,1],
-"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108":[7,0,0,0,1,2,16,5,5,18,6],
-"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96":[7,0,0,0,1,2,16,5,5,18,8],
-"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de":[7,0,0,0,1,2,16,5,5,18,3]
+"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d":[7,0,0,0,1,2,16,5,5,18,1]
 };

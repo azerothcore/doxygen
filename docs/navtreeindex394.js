@@ -1,5 +1,8 @@
 var NAVTREEINDEX394 =
 {
+"df/da7/classBattleground.html#a3eff4dfc9b7319b449ffa723c74217b7":[6,0,312,62],
+"df/da7/classBattleground.html#a3fb91eb5ef43f227d97b3056b51fa17b":[6,0,312,98],
+"df/da7/classBattleground.html#a3fd0daa95d91c0beb3509a183b2cf099":[6,0,312,42],
 "df/da7/classBattleground.html#a3fde91a7c1a706154947171b7197ba23":[6,0,312,173],
 "df/da7/classBattleground.html#a42e45f62e648d1eb34736bda3ffe7b35":[6,0,312,72],
 "df/da7/classBattleground.html#a433454b346105d74c55e2be3804ec09a":[6,0,312,185],
@@ -186,14 +189,14 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,312,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,312,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,312,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2930],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2930,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2930,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX394 =
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a26505da4b98faf987b3d3c7eba819327":[7,0,0,0,1,3,5,9,1,0,5,3],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a4c273147e33928fee125a61eaaca7eb0":[7,0,0,0,1,3,5,9,1,0,5,0],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a605977f6afa488fa2bd864f4c8daf451":[7,0,0,0,1,3,5,9,1,0,5,6],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a67ddc581f50203ee16c8c1aca7deb985":[7,0,0,0,1,3,5,9,1,0,5,4],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a981ded08b76f414fbc3de557aef11006":[7,0,0,0,1,3,5,9,1,0,5,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa2ba587ec6abb998f5549b113fcb3f90":[7,0,0,0,1,3,5,9,1,0,5,1],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acfaf0511808dcbe60c9c22bce5cd8501":[7,0,0,0,1,3,5,9,1,0,5,8]
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a67ddc581f50203ee16c8c1aca7deb985":[7,0,0,0,1,3,5,9,1,0,5,4]
 };

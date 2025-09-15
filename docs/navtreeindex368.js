@@ -1,5 +1,8 @@
 var NAVTREEINDEX368 =
 {
+"de/d84/structnpc__bone__spike_1_1npc__bone__spikeAI.html#aeb7236ef0d313fd3799458f3d50276f7":[6,0,1655,0,6],
+"de/d84/structnpc__bone__spike_1_1npc__bone__spikeAI.html#af2794484ee3ebf0579ce7357d222240d":[6,0,1655,0,2],
+"de/d84/structnpc__collapsing__star_1_1npc__collapsing__starAI.html":[6,0,1691,0],
 "de/d84/structnpc__collapsing__star_1_1npc__collapsing__starAI.html#a424fac98093eb9d02cda5027523ad06a":[6,0,1691,0,1],
 "de/d84/structnpc__collapsing__star_1_1npc__collapsing__starAI.html#ac389b380a8f315ae50a8cd809393a773":[6,0,1691,0,0],
 "de/d84/structnpc__collapsing__star_1_1npc__collapsing__starAI.html#ae70fcb66171fe5f87d96aaf2f52e35bc":[6,0,1691,0,2],
@@ -59,12 +62,12 @@ var NAVTREEINDEX368 =
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[5,0,31,6,4,2],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[6,0,11,6,4,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[5,0,31,6,4,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[6,0,11,6,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[5,0,31,6,4,6],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[6,0,11,6,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[5,0,31,6,4,5],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[6,0,11,6,4,5],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[5,0,31,6,4,1],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[6,0,11,6,4,1],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[5,0,31,6,4,1],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html":[6,0,3810],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a036291aee8b08212ecead4afce01adf4":[6,0,3810,0],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a37b425f877e7415b245c119c29521c4b":[6,0,3810,2],
@@ -102,8 +105,8 @@ var NAVTREEINDEX368 =
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3798,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3798,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3798,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,1,8,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0],
 "de/d8d/structArenaScore.html":[6,0,180],
@@ -117,8 +120,8 @@ var NAVTREEINDEX368 =
 "de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[6,0,3004,1],
 "de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[6,0,3004,0],
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[6,0,3004,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX368 =
 "de/d92/classLootTemplate_1_1LootGroup.html#a5a4dfbbfaf6c6f87217c124f387d7951":[6,0,1458,0,13],
 "de/d92/classLootTemplate_1_1LootGroup.html#a66528563891f68cc71cf2e82c0c55f78":[6,0,1458,0,0],
 "de/d92/classLootTemplate_1_1LootGroup.html#a6724f160613257f2d48c0e675a372c48":[6,0,1458,0,3],
-"de/d92/classLootTemplate_1_1LootGroup.html#a77483c54ae8cb9747726bfa0e7d7225f":[6,0,1458,0,14],
-"de/d92/classLootTemplate_1_1LootGroup.html#a7ca1a5e58a5e78430209e1207b732265":[6,0,1458,0,11],
-"de/d92/classLootTemplate_1_1LootGroup.html#a8e99105a3db65b4f8afcf032ce3bb33f":[6,0,1458,0,1],
-"de/d92/classLootTemplate_1_1LootGroup.html#ab306f81dc00d214e0ec8ac3903eff42e":[6,0,1458,0,15]
+"de/d92/classLootTemplate_1_1LootGroup.html#a77483c54ae8cb9747726bfa0e7d7225f":[6,0,1458,0,14]
 };

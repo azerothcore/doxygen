@@ -1,5 +1,8 @@
 var NAVTREEINDEX382 =
 {
+"df/d20/areatrigger__scripts_8cpp.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2":[7,0,0,0,1,3,10,2,10,0],
+"df/d20/classnpc__commander__dawnforge.html":[6,0,1692],
+"df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[6,0,1692,2],
 "df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[6,0,1692,1],
 "df/d20/classspell__love__in__air__perfume__immune.html":[6,0,3389],
 "df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[6,0,3389,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX382 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa5fe51a87dea1a8de0c196ee561b9928":[7,0,0,0,1,2,16,5,0,4,6,220],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa70f1fc55b073a9f471e80647ac50f98":[7,0,0,0,1,2,16,5,0,4,6,89],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa8ed00abbd7e7cf1ebafcbb9e0c634bb":[7,0,0,0,1,2,16,5,0,4,6,82],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa9a2f26b2dfa7410ebb0f092b520d1eb":[7,0,0,0,1,2,16,5,0,4,6,177],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaa2f0aab5c0e38d5a931ab7bd0b8ed21":[7,0,0,0,1,2,16,5,0,4,6,99],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaac5b3011fec8d6c674a9fadd0ba7619":[7,0,0,0,1,2,16,5,0,4,6,221],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaafe6f7e67a4d50b1d26e0a8f8a6d1df":[7,0,0,0,1,2,16,5,0,4,6,191]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa9a2f26b2dfa7410ebb0f092b520d1eb":[7,0,0,0,1,2,16,5,0,4,6,177]
 };

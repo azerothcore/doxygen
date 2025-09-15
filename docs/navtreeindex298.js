@@ -1,5 +1,8 @@
 var NAVTREEINDEX298 =
 {
+"db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a357c8a07f912c6efb55a13cc9bc089b9":[7,0,0,0,1,2,45,1,8],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a9f512823f852120bf4c3ec78eb4bbeaa":[7,0,0,0,1,2,45,1,4],
 "db/dfa/CharacterDatabaseCleaner_8h.html#aac707369555aa95807c11b1578ae80d2":[7,0,0,0,1,2,45,1,11],
@@ -246,8 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#a9ec26485d72ccf8e97120756f14161c3":[6,0,610,0,18],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#aa3f7fd4e97351335ba6b0d90f76659d5":[6,0,610,0,7],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab49276a5703a35d4271141368c9b6fcb":[6,0,610,0,14],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab959171061519d41998dc9a7e76f3a60":[6,0,610,0,4],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#acee6055640b8f2d51fe13d46f383ebc0":[6,0,610,0,10],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#ad2f425679108a50ac4cee1fc57dfe591":[6,0,610,0,16],
-"db/dfc/structboss__malygos_1_1boss__malygosAI.html#adb432469735f6ebc016bb11bbc90a87e":[6,0,610,0,3]
+"db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab959171061519d41998dc9a7e76f3a60":[6,0,610,0,4]
 };

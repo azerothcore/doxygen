@@ -1,5 +1,8 @@
 var NAVTREEINDEX383 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaa2f0aab5c0e38d5a931ab7bd0b8ed21":[7,0,0,0,1,2,16,5,0,4,6,99],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaac5b3011fec8d6c674a9fadd0ba7619":[7,0,0,0,1,2,16,5,0,4,6,221],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaafe6f7e67a4d50b1d26e0a8f8a6d1df":[7,0,0,0,1,2,16,5,0,4,6,191],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab4868b631f1cfaf30faee627f7c9dbf":[7,0,0,0,1,2,16,5,0,4,6,31],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab48a88902ec00e979f1adafa0176d8c":[7,0,0,0,1,2,16,5,0,4,6,269],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac0cc1812ae806f2e6a59d09c5531d1d":[7,0,0,0,1,2,16,5,0,4,6,292],
@@ -205,16 +208,16 @@ var NAVTREEINDEX383 =
 "df/d24/classnpc__daphne__stilwell.html#ad7b293efc802506a825f202e34cb0f4d":[6,0,1727,3],
 "df/d24/classnpc__daphne__stilwell.html#ad844c5f0409936d7068ee55271506041":[6,0,1727,1],
 "df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[6,0,1727,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,87],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,99],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,87],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,99,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,87,3],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,99,3],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,87,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3166],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a64cf56299c8ab5292dbc9cddcee5f841":[6,0,3166,2],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a9962029ce4a5223d7aa05068e8d83326":[6,0,3166,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX383 =
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a5c836960f7449608904116dc67f09fd4":[6,0,2291,0,8],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a72f98db7ff7cf048eb1c9772bf99e46d":[6,0,2291,0,14],
 "df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a73b6b1e855253665861d2c6304f17a38":[6,0,2291,0,4],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a8bfc44c2a69ddcf15304a2f32acea652":[6,0,2291,0,5],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9e1a027515f7c90900acacc7d102a267":[6,0,2291,0,10],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9e6d01f8034382b318f008229be8e25f":[6,0,2291,0,18],
-"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a9ed22adf4f9f5fad611dfbfe60cbe75d":[6,0,2291,0,2]
+"df/d27/structnpc__wild__wyrm_1_1npc__wild__wyrmAI.html#a8bfc44c2a69ddcf15304a2f32acea652":[6,0,2291,0,5]
 };

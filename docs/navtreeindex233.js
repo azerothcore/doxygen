@@ -1,8 +1,8 @@
 var NAVTREEINDEX233 =
 {
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,31,8,3,2],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,31,8,3,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,11,8,3,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,11,8,3,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,31,8,3,4],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html":[6,0,3868],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a5af876b76d9239808ac72c5b6177cdcb":[6,0,3868,1],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a6d0d47536e6ef74a88c97019843d478c":[6,0,3868,2],

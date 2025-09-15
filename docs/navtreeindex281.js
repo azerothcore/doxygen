@@ -1,5 +1,8 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698dae0682cfbd99e9488505046b5ab1541f3":[7,0,0,0,1,3,9,4,158,1],
+"db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698dae90a73338a9ee89a483e16425616f447":[7,0,0,0,1,3,9,4,158,4],
+"db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391f":[7,0,0,0,1,3,9,4,162],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa010abde9c4fe1da8ca9fb56c537e94d8":[7,0,0,0,1,3,9,4,162,3],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa02a1609756e8b2f05ddea8010d0a0cc6":[7,0,0,0,1,3,9,4,162,9],
 "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fa0517f029844175b622271dbb2aa5423d":[7,0,0,0,1,3,9,4,162,5],
@@ -194,8 +197,8 @@ var NAVTREEINDEX281 =
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
 "db/d72/structLootItem.html":[6,0,1453],
@@ -246,8 +249,5 @@ var NAVTREEINDEX281 =
 "db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#af78da685e156bebea9f0a4881ebdfc9d":[6,0,3893,2],
 "db/d77/classspell__frost__giant__death__plague.html":[6,0,2888],
 "db/d77/classspell__frost__giant__death__plague.html#a3000d234134bb3d4b2e17fd1eff8f4f0":[6,0,2888,0],
-"db/d77/classspell__frost__giant__death__plague.html#a63e8e899cb1469dca26cd5fa34b85408":[6,0,2888,4],
-"db/d77/classspell__frost__giant__death__plague.html#a83b2fad7cdc189a17129e25a015952ff":[6,0,2888,2],
-"db/d77/classspell__frost__giant__death__plague.html#af058a0c458463bdba4a4eb73aa91c113":[6,0,2888,1],
-"db/d77/classspell__frost__giant__death__plague.html#af5e214ab418ca05ddd637c83d7a7e71a":[6,0,2888,3]
+"db/d77/classspell__frost__giant__death__plague.html#a63e8e899cb1469dca26cd5fa34b85408":[6,0,2888,4]
 };

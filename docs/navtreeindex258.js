@@ -1,5 +1,8 @@
 var NAVTREEINDEX258 =
 {
+"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,1,75],
+"da/d74/structAuctionEntryItemEnchants.html":[6,0,258],
+"da/d74/structAuctionEntryItemEnchants.html#a36445b0d9d75886a0697c75513eb6c41":[6,0,258,1],
 "da/d74/structAuctionEntryItemEnchants.html#a583aee5baaad873bcbcc2acad403d0bf":[6,0,258,0],
 "da/d74/structAuctionEntryItemEnchants.html#ab19975d2dd203aa1124f2e06fb637171":[6,0,258,2],
 "da/d74/structfile__MVER.html":[6,0,1040],
@@ -246,8 +249,5 @@ var NAVTREEINDEX258 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e752f9a45ea2f5e597d3798bc115943":[7,0,0,0,1,3,5,6,10,82,72],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3f7cf20b5d35d4d6821150f9c98fa35b":[7,0,0,0,1,3,5,6,10,82,45],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[7,0,0,0,1,3,5,6,10,82,26],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4395f0b5b835d9573a230823018c41a2":[7,0,0,0,1,3,5,6,10,82,25],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf":[7,0,0,0,1,3,5,6,10,82,51],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca45fc8673f164308f0c496cc16271b1e5":[7,0,0,0,1,3,5,6,10,82,14],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca46726b2ace592519496eb8a40e6bd68d":[7,0,0,0,1,3,5,6,10,82,8]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4395f0b5b835d9573a230823018c41a2":[7,0,0,0,1,3,5,6,10,82,25]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX274 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5346240e8c688dd7bf7a8df2c6732d35":[7,0,0,0,1,3,5,4,0,1,6,8],
+"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a57382655287fe8ca5fd0595a9bf6a59c":[7,0,0,0,1,3,5,4,0,1,6,11],
+"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7822ea80b05ae0b48a5674bd6e2867bc":[7,0,0,0,1,3,5,4,0,1,6,6],
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a8c5e21eb7c9dd11dca29dcdf9102457d":[7,0,0,0,1,3,5,4,0,1,6,2],
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0acd964cb4136fe85076468255c1700b08":[7,0,0,0,1,3,5,4,0,1,6,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aec93b37b07bbaad4a9591f2fb7d83b38":[7,0,0,0,1,3,5,4,0,1,6,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX274 =
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#ae3b52ef5527ab932d1bfa479ed767b0f":[6,0,607,0,14],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#ae40ac9fdd49c182daff81f411d316bb4":[6,0,607,0,12],
 "db/d14/structboss__majordomo_1_1boss__majordomoAI.html#af1e7213b798cdab457d8b32024da414e":[6,0,607,0,13],
-"db/d14/structnpc__necrotic__shard.html":[6,0,1988],
-"db/d14/structnpc__necrotic__shard.html#a0d2d4526d484d7f173d24d5a92b1d3ea":[6,0,1988,2],
-"db/d14/structnpc__necrotic__shard.html#a1180dc1fa894886b492508afbc692667":[6,0,1988,7],
-"db/d14/structnpc__necrotic__shard.html#a1b40f869dbf2d1d3d4cc9c26cb711600":[6,0,1988,16]
+"db/d14/structnpc__necrotic__shard.html":[6,0,1988]
 };

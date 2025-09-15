@@ -1,5 +1,8 @@
 var NAVTREEINDEX263 =
 {
+"da/d97/structnpc__jaina__proudmoore__bfu_1_1npc__jaina__proudmoore__bfuAI.html#a48b191d0812bfe3212511a52ef0df817":[6,0,1905,0,2],
+"da/d97/structnpc__jaina__proudmoore__bfu_1_1npc__jaina__proudmoore__bfuAI.html#a87e99e0b5fd0a3823b009025019b1fa4":[6,0,1905,0,3],
+"da/d97/structnpc__jaina__proudmoore__bfu_1_1npc__jaina__proudmoore__bfuAI.html#ad5ad1d05ef8210409c700e47b5442e24":[6,0,1905,0,0],
 "da/d98/AllCreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,10],
 "da/d98/AllCreatureScript_8cpp.html#a1fdf1f4f0e165d771b9e1e9064529256":[7,0,0,0,1,2,38,0,10,0],
 "da/d98/classspell__voa__overcharge__aura.html":[6,0,3958],
@@ -21,8 +24,8 @@ var NAVTREEINDEX263 =
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,31,6,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,31,6,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[6,0,11,6,6,2],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,11,6,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,31,6,6,1],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,11,6,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[6,0,11,6,6,0],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,31,6,6,0],
 "da/d99/structGameEventData.html":[6,0,1072],
@@ -246,8 +249,5 @@ var NAVTREEINDEX263 =
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa6247ca0f46a680373601bae1308b94d":[6,0,1340,0,1],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aaeb98dc1aad0d16142325c4d5a5cbf8e":[6,0,1340,0,17],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ab51ad8cd98d085811aa2c02494de3a7c":[6,0,1340,0,15],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#abb53f597c52726680dd20f4946dc363b":[6,0,1340,0,10],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ad87da3eb261f03d36d7520dc20d8b1b9":[6,0,1340,0,7],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ae57762cc1a5555f0532cf630179d2840":[6,0,1340,0,3],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af535a80d3e92a9ff42c6d9edaa989a44":[6,0,1340,0,13]
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#abb53f597c52726680dd20f4946dc363b":[6,0,1340,0,10]
 };

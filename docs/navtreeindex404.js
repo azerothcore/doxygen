@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[6,0,841,16],
+"df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[6,0,841,2],
+"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,841,23],
 "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[6,0,841,18],
 "df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[6,0,841,13],
 "df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[6,0,841,9],
@@ -152,10 +155,11 @@ var NAVTREEINDEX404 =
 "df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[6,0,3589,3],
 "df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3589,0],
 "df/df6/structHealthCheckEventData.html":[6,0,1262],
-"df/df6/structHealthCheckEventData.html#a06d4eb08cc3e6bd20ddcab20e59ed525":[6,0,1262,0],
-"df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1262,3],
-"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1262,2],
-"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,1],
+"df/df6/structHealthCheckEventData.html#a1bbb22a3ad8fc75d4bcc1cb383106c94":[6,0,1262,4],
+"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1262,3],
+"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,2],
+"df/df6/structHealthCheckEventData.html#a7ff9b62821fc33f104e58479d7c4f782":[6,0,1262,0],
+"df/df6/structHealthCheckEventData.html#aff327c455fbd912579725956c99c3a2d":[6,0,1262,1],
 "df/df7/boss__drakos_8cpp.html":[7,0,0,0,1,3,5,8,2,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,0,8],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,0,8,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX404 =
 "dir_26a560dca6d22ebb61b5c78a9f0b7562.html":[7,0,0,0,0,4],
 "dir_27480f4b138219461115b0c89185026b.html":[7,0,0,0,1,3,2,1,0],
 "dir_27c47d768f113c084c0b575dcbf4137a.html":[7,0,0,0,1,2,16,1],
-"dir_286feac6c5a6e67bcd5741cf96c61741.html":[7,0,0,0,1,2,19,1],
-"dir_29679c4820650ebe701cec6df12f9d89.html":[7,0,0,0,1,3,2,8],
-"dir_298869b7a89101c5984a6116a9a5fcbc.html":[7,0,0,0,1,3,5,0,0],
-"dir_2a68453fc96dee56602d816c58a5409d.html":[7,0,0,0,1,3,7,4,3],
-"dir_2a7b71c094ad98a6bd24c530fa7e48c4.html":[7,0,0,0,1,2,15]
+"dir_286feac6c5a6e67bcd5741cf96c61741.html":[7,0,0,0,1,2,19,1]
 };

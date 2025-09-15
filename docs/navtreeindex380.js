@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"df/d14/ObjectDefines_8h.html#a7e825c8fa49d307a4e5b992af744c195":[7,0,0,0,1,2,16,5,3,18],
+"df/d14/ObjectDefines_8h.html#a826d5509d2b008fbc7dea309a92f4a2a":[7,0,0,0,1,2,16,5,3,11],
+"df/d14/ObjectDefines_8h.html#a87d5f85dfad581145d916013245c2021":[7,0,0,0,1,2,16,5,3,2],
 "df/d14/ObjectDefines_8h.html#a89f7f74fa54f0edb8bf2fdf50319a39f":[7,0,0,0,1,2,16,5,3,4],
 "df/d14/ObjectDefines_8h.html#a913c166f7a4cd692f382db2df507a059":[7,0,0,0,1,2,16,5,3,7],
 "df/d14/ObjectDefines_8h.html#a9417df9da24d43d6fc32162e559e0b71":[7,0,0,0,1,2,16,5,3,16],
@@ -116,12 +119,12 @@ var NAVTREEINDEX380 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,1,4,1],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,1,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,1,4,3],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,1,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,1,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,1,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -157,8 +160,8 @@ var NAVTREEINDEX380 =
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,31,5,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,5,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,31,5,17,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[6,0,11,5,17,1],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,31,5,17,1],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html":[6,0,550,0],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#a05006b60fa4e7b33f589ca87b3374aa5":[6,0,550,0,10],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#a12ad910d0838b1fbb626f761b70c86c5":[6,0,550,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba835b38db59060e7ff994029348d14f52":[4,2,15,13],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba86bbc26ecd3cbf3bb1d2337033394ed8":[4,2,15,10],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba97fbf4c193a6fb9bf944a77365937a45":[4,2,15,29],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417":[4,2,15,28],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9b933190ce59532ec60b42454d0fca87":[4,2,15,19],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9ca30377545fe1b8c0ba84485094f9c2":[4,2,15,31],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaa870d541b02010203bcdaac275013fb8":[4,2,15,36]
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417":[4,2,15,28]
 };

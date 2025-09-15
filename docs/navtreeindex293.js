@@ -1,5 +1,8 @@
 var NAVTREEINDEX293 =
 {
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,6,12,91],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0dd08b5c6ed3ad1a81b66457066ae278":[7,0,0,0,1,3,5,6,12,91,7],
+"db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0e93cf6e4c5912afcda5cdad8aac7ef9":[7,0,0,0,1,3,5,6,12,91,25],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a10a315b928da7b3eca780c9b713267af":[7,0,0,0,1,3,5,6,12,91,23],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a13e19d57f21075e91ee977102ec9b3f7":[7,0,0,0,1,3,5,6,12,91,35],
 "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a14b2d2a857f743fe5aeeb1026b3821f6":[7,0,0,0,1,3,5,6,12,91,15],
@@ -246,8 +249,5 @@ var NAVTREEINDEX293 =
 "db/dd5/classCreature.html#a8047b1cc99f35cb1a7d4d9f085a8d91c":[6,0,914,298],
 "db/dd5/classCreature.html#a804ebf801404df64612628545e87f0db":[6,0,914,42],
 "db/dd5/classCreature.html#a8127401b1a832cca416fa63f6a705a3d":[6,0,914,39],
-"db/dd5/classCreature.html#a8239facb1f9d6ac1041ef30d022d6698":[6,0,914,113],
-"db/dd5/classCreature.html#a83da0a8b21cedf8eaef8f34d63c9d4cb":[6,0,914,286],
-"db/dd5/classCreature.html#a8547005ac66de0dcd1e64a7958a32be7":[6,0,914,84],
-"db/dd5/classCreature.html#a8615af8d99800a1f76bcea8adda41f7f":[6,0,914,270]
+"db/dd5/classCreature.html#a8239facb1f9d6ac1041ef30d022d6698":[6,0,914,113]
 };

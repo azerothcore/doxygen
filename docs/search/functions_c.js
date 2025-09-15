@@ -285,7 +285,7 @@ var searchData=
   ['loadpetnameslocales_282',['LoadPetNamesLocales',['../d5/dfb/classObjectMgr.html#aac6f64e0e0cdc9ba5be5a8ebc838cf8c',1,'ObjectMgr']]],
   ['loadpetnumber_283',['LoadPetNumber',['../d5/dfb/classObjectMgr.html#a4e1d65c5e9219f969b484cb1bb3597c0',1,'ObjectMgr']]],
   ['loadplayerinfo_284',['LoadPlayerInfo',['../d5/dfb/classObjectMgr.html#a6aded043e0c565f7e0e954d6bcc9958a',1,'ObjectMgr']]],
-  ['loadplayersettings_285',['LoadPlayerSettings',['../da/dd0/namespacePlayerSettingsStore.html#aeeeef0d082814c49edeabefa39fb10b7',1,'PlayerSettingsStore']]],
+  ['loadplayersettings_285',['LoadPlayerSettings',['../da/dd0/namespacePlayerSettingsStore.html#a070b072e62079e512137662a87d710f6',1,'PlayerSettingsStore']]],
   ['loadplayershapeshiftmodels_286',['LoadPlayerShapeshiftModels',['../d5/dfb/classObjectMgr.html#a8a7bac33808f4e1b437349d6f36d7a9b',1,'ObjectMgr']]],
   ['loadplayertotemmodels_287',['LoadPlayerTotemModels',['../d5/dfb/classObjectMgr.html#ae7ddda0c7e67a9c0e906689977960ec2',1,'ObjectMgr']]],
   ['loadpointofinterestlocales_288',['LoadPointOfInterestLocales',['../d5/dfb/classObjectMgr.html#ae45d8820727f79218ccf488701a14e22',1,'ObjectMgr']]],

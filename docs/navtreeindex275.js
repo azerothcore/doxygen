@@ -1,5 +1,8 @@
 var NAVTREEINDEX275 =
 {
+"db/d14/structnpc__necrotic__shard.html#a0d2d4526d484d7f173d24d5a92b1d3ea":[6,0,1988,2],
+"db/d14/structnpc__necrotic__shard.html#a1180dc1fa894886b492508afbc692667":[6,0,1988,7],
+"db/d14/structnpc__necrotic__shard.html#a1b40f869dbf2d1d3d4cc9c26cb711600":[6,0,1988,16],
 "db/d14/structnpc__necrotic__shard.html#a213d09001f9c498756e43a7fd6d49f10":[6,0,1988,18],
 "db/d14/structnpc__necrotic__shard.html#a2178a576224ff9bf33d76793356c5281":[6,0,1988,8],
 "db/d14/structnpc__necrotic__shard.html#a2992dbe8b0d18a7d41b28abd224fc697":[6,0,1988,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb":[7,0,0,0,1,3,2,7,0,2,3],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf":[7,0,0,0,1,3,2,7,0,2,10],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645":[7,0,0,0,1,3,2,7,0,2,6],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[7,0,0,0,1,3,2,7,0,2,12],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[7,0,0,0,1,3,2,7,0,2,0],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[7,0,0,0,1,3,2,7,0,2,5],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[7,0,0,0,1,3,2,7,0,2,7]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[7,0,0,0,1,3,2,7,0,2,12]
 };

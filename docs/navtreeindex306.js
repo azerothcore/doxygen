@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"dc/d36/structinstance__drak__tharon__keep_1_1instance__drak__tharon__keep__InstanceScript.html#ad8115d5e1ee45a586ec0c1149d690db5":[6,0,1300,0,2],
+"dc/d37/classGlobalScript.html":[6,0,1106],
+"dc/d37/classGlobalScript.html#a0140624a479c0d2c0a96050bb6a96bf7":[6,0,1106,16],
 "dc/d37/classGlobalScript.html#a08783ec228e8e3025641a5a2f7474071":[6,0,1106,17],
 "dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7":[6,0,1106,6],
 "dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[6,0,1106,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,7,13,6],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a3ba35f3cfe82848739530ab5d5737c4f":[7,0,0,0,1,3,5,7,13,6,0],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,5,7,13,6,2],
-"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,13,6,3],
-"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9ced0786c5d62dfaf14223025ed6a354":[7,0,0,0,1,3,5,7,13,6,1],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,13,5],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0da708c83d8321142ad79ababb74393c":[7,0,0,0,1,3,5,7,13,5,10]
+"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,13,6,3]
 };

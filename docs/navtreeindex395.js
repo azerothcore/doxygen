@@ -1,5 +1,8 @@
 var NAVTREEINDEX395 =
 {
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a981ded08b76f414fbc3de557aef11006":[7,0,0,0,1,3,5,9,1,0,5,5],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa2ba587ec6abb998f5549b113fcb3f90":[7,0,0,0,1,3,5,9,1,0,5,1],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acfaf0511808dcbe60c9c22bce5cd8501":[7,0,0,0,1,3,5,9,1,0,5,8],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ae71900060dd77ccbaf5957c5e8530b27":[7,0,0,0,1,3,5,9,1,0,5,7],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aff8517cd7a971453de2f28af60e64f0c":[7,0,0,0,1,3,5,9,1,0,5,2],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[7,0,0,0,1,3,5,9,1,0,4],
@@ -81,8 +84,8 @@ var NAVTREEINDEX395 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1713,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1713,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1713,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,31,8,6],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,8,6],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,31,8,6],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,31,8,6,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,8,6,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,31,8,6,3],
@@ -174,8 +177,8 @@ var NAVTREEINDEX395 =
 "df/db8/structnpc__tito.html#a96c47ca2e66bb984dfd2cfefa6bde643":[6,0,2188,3],
 "df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[6,0,2188,4],
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2188,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,31,5,50],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,31,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
@@ -243,11 +246,8 @@ var NAVTREEINDEX395 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2010],
-"df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2010,10],
-"df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2010,3],
-"df/dbd/structnpc__pallid__horror.html#a6145be6ed4a56ec8f8e923187ceea47c":[6,0,2010,4],
-"df/dbd/structnpc__pallid__horror.html#a700af3062528a6c41f7f0985f1820b36":[6,0,2010,2]
+"df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2010,10]
 };

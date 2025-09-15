@@ -1,5 +1,8 @@
 var NAVTREEINDEX302 =
 {
+"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf":[7,0,0,0,1,3,2,28,2,5],
+"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364":[7,0,0,0,1,3,2,28,2,1],
+"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445":[7,0,0,0,1,3,2,28,2,3],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe":[7,0,0,0,1,3,2,28,2,4],
 "dc/d18/structGameEventQuestToEventConditionNum.html":[6,0,1075],
 "dc/d18/structGameEventQuestToEventConditionNum.html#a78172859719e85a21c0a39e41c692cf4":[6,0,1075,0],
@@ -139,8 +142,8 @@ var NAVTREEINDEX302 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3664,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d28/BaseEncoding_8h.html":[7,0,0,0,0,7,4],
 "dc/d28/boss__amanitar_8cpp.html":[7,0,0,0,1,3,5,0,0,1],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,5,0,0,1,2],
-"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188":[7,0,0,0,1,3,5,0,0,1,2,0],
-"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ae5abbd9e7d682c77a56749f83994e4ff":[7,0,0,0,1,3,5,0,0,1,2,1],
-"dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,0,0,1,4],
-"dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b2c82ecf4d0a6c6ebdf5cc6a20cb93f":[7,0,0,0,1,3,5,0,0,1,4,2]
+"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188":[7,0,0,0,1,3,5,0,0,1,2,0]
 };

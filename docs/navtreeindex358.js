@@ -1,5 +1,8 @@
 var NAVTREEINDEX358 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,28,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,28,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
@@ -81,14 +84,14 @@ var NAVTREEINDEX358 =
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,1],
 "de/d24/structWMO_1_1MODD.html":[6,0,10,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,30,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,30,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,10,0,0],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,30,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,10,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,30,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,30,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,10,0,1],
-"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,30,0,4],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,30,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,10,0,4],
+"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,30,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,10,0,2],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,30,0,2],
 "de/d24/structnpc__demon__chain.html":[6,0,1741],
@@ -246,8 +249,5 @@ var NAVTREEINDEX358 =
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[6,0,2289,0,3],
 "de/d28/classboss__thorim__gauntlet__npcs.html":[6,0,737],
 "de/d28/classboss__thorim__gauntlet__npcs.html#a2a71153ed2a9091de6668ab0b6f7674f":[6,0,737,2],
-"de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,737,1],
-"de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3554],
-"de/d28/classspell__pos__slave__trigger__closest.html#a7594952f23cba22b886c2c3b10f363d4":[6,0,3554,2],
-"de/d28/classspell__pos__slave__trigger__closest.html#ab79a160e0d5b0c6e0ecfa842a4da2819":[6,0,3554,1]
+"de/d28/classboss__thorim__gauntlet__npcs.html#abdf2e90c5b86d3724fac46bff5e15d97":[6,0,737,1]
 };

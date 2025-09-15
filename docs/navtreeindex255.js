@@ -1,5 +1,8 @@
 var NAVTREEINDEX255 =
 {
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a6e4d926384ba52fc896c65b81c19b18c":[7,0,0,0,1,3,5,12,9,5,13],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a75d9a118fd53851181659a07edb75d35":[7,0,0,0,1,3,5,12,9,5,5],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a7747b0a8a3bed4ad48b3579eedb5cb1f":[7,0,0,0,1,3,5,12,9,5,14],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a7c6bd12ae52986083ef52674b9faa0a9":[7,0,0,0,1,3,5,12,9,5,23],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a833709b6f0f4420b7a0b7b059513e694":[7,0,0,0,1,3,5,12,9,5,9],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a87083a9f428ec24ea432fb05745279b9":[7,0,0,0,1,3,5,12,9,5,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX255 =
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#aa1b1fbb1a4633831774c7a7dd5cbb546":[6,0,1644,0,3],
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#acb56826a164e4d7da0a2f04c1efaf72b":[6,0,1644,0,6],
 "da/d57/classnpc__ulduar__saronite__vapors.html":[6,0,2246],
-"da/d57/classnpc__ulduar__saronite__vapors.html#a3c2e7b6263f8935da9291c736b14d139":[6,0,2246,2],
-"da/d57/classnpc__ulduar__saronite__vapors.html#a567c3aca8c381167ca278c2c3562e6f6":[6,0,2246,1],
-"da/d57/classspell__pal__hand__of__protection.html":[6,0,3522],
-"da/d57/classspell__pal__hand__of__protection.html#a33e86d770e926247c58c00143b55c418":[6,0,3522,1]
+"da/d57/classnpc__ulduar__saronite__vapors.html#a3c2e7b6263f8935da9291c736b14d139":[6,0,2246,2]
 };

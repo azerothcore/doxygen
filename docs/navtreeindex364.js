@@ -1,5 +1,8 @@
 var NAVTREEINDEX364 =
 {
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
+"de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
+"de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,7,12,8,3],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a1a67be461f59a69ebedf21ac42895f28":[7,0,0,0,1,3,5,7,12,8,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX364 =
 "de/d62/structboss__void__reaver.html#a49e6f52b11177bdac07adff92c2675f5":[6,0,771,1],
 "de/d62/structboss__void__reaver.html#a9260d05e11f4dec6fc25432a0524706b":[6,0,771,2],
 "de/d62/structboss__void__reaver.html#aa6373ef5b27255eca4d85345ae5fa729":[6,0,771,0],
-"de/d62/structboss__void__reaver.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac":[6,0,771,5],
-"de/d62/structboss__void__reaver.html#adc234fc43308771a42d99049876cad1b":[6,0,771,3],
-"de/d62/structgo__soulwell_1_1go__soulwellAI.html":[6,0,1181,0],
-"de/d62/structgo__soulwell_1_1go__soulwellAI.html#a3df147478af8930d9b6108a183e9478f":[6,0,1181,0,1]
+"de/d62/structboss__void__reaver.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac":[6,0,771,5]
 };

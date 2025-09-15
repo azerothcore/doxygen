@@ -243,11 +243,11 @@ var NAVTREEINDEX69 =
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#aabe244008103ff317e3fc1e26b04115a":[6,0,3579,1],
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#ae9939f2795b8ba428277c7d658af715c":[6,0,3579,0],
 "d2/da5/wdtfile_8h.html":[7,0,0,0,3,4,15],
-"d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4],
 "d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4],
+"d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4],
 "d2/da8/classVMAP_1_1GroupModel.html#a04394355a9e29ac711f1eac8e1b8f598":[5,0,28,4,0],
 "d2/da8/classVMAP_1_1GroupModel.html#a04394355a9e29ac711f1eac8e1b8f598":[6,0,9,4,0],
-"d2/da8/classVMAP_1_1GroupModel.html#a0e784e5b8967ee5c475fab8e2e80ca88":[5,0,28,4,22],
 "d2/da8/classVMAP_1_1GroupModel.html#a0e784e5b8967ee5c475fab8e2e80ca88":[6,0,9,4,22],
+"d2/da8/classVMAP_1_1GroupModel.html#a0e784e5b8967ee5c475fab8e2e80ca88":[5,0,28,4,22],
 "d2/da8/classVMAP_1_1GroupModel.html#a18a06e1abd1bd1631252d984fc6523bf":[5,0,28,4,6]
 };

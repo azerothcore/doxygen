@@ -1,5 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[6,0,1782,4],
+"df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[6,0,1782,0],
+"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[6,0,1782,3],
 "df/d68/structnpc__flame__of__azzinoth.html#ae797d929b0e9c8953a4c9efd392a21f3":[6,0,1782,5],
 "df/d6a/boss__warlord__najentus_8cpp.html":[7,0,0,0,1,3,7,1,9],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,9,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX388 =
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[6,0,2956,2],
 "df/d75/classtele__commandscript.html":[6,0,4151],
 "df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[6,0,4151,0],
-"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[6,0,4151,2],
-"df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[6,0,4151,9],
-"df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[6,0,4151,8],
-"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[6,0,4151,7]
+"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[6,0,4151,2]
 };

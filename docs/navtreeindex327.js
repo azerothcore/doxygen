@@ -1,5 +1,8 @@
 var NAVTREEINDEX327 =
 {
+"dd/d48/structboss__drakos_1_1boss__drakosAI.html#ae86ad4fcc57cc1137411c881355f2f51":[6,0,430,0,8],
+"dd/d48/structnpc__direbrew__antagonist.html":[6,0,1745],
+"dd/d48/structnpc__direbrew__antagonist.html#a30fed4e6888d98af576dea8e13c510d3":[6,0,1745,0],
 "dd/d48/structnpc__direbrew__antagonist.html#a924891e5d4e3f30d78186bedf76cf7d1":[6,0,1745,1],
 "dd/d48/structnpc__direbrew__antagonist.html#aaf54b03d66d726901c289ff28d362787":[6,0,1745,2],
 "dd/d49/boss__drakkisath_8cpp.html":[7,0,0,0,1,3,2,1,1,1],
@@ -23,8 +26,8 @@ var NAVTREEINDEX327 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,6,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,6,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,6,2,0],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,6,2,1],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,6,2,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afce7cebdb4a49d9e5618ac211b235c6b":[6,0,1901,0,3],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[6,0,2145,0],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2145,0,5],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2145,0,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[6,0,2145,0,1],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#ac66e3398598576fdc889a7b56646eecf":[6,0,2145,0,3],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#af6e04824ea1682c529e8579a306d34ca":[6,0,2145,0,4]
+"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2145,0,0]
 };

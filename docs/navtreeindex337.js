@@ -1,5 +1,8 @@
 var NAVTREEINDEX337 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2346894b0f989115ab92917650780718":[7,0,0,0,1,2,38,0,75,1,125],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2379d1f49e5653b186c8c56a5942bc81":[7,0,0,0,1,2,38,0,75,1,168],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a24141bf360bf13fe839b1c248670b885":[7,0,0,0,1,2,38,0,75,1,82],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a244367339ab9b82bc0f25464125b6dc4":[7,0,0,0,1,2,38,0,75,1,74],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[7,0,0,0,1,2,38,0,75,1,39],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a27f71468300c58dc100ab0150ff2a743":[7,0,0,0,1,2,38,0,75,1,92],
@@ -246,8 +249,5 @@ var NAVTREEINDEX337 =
 "dd/dcd/structboss__moira__bronzebeardAI.html#ae3f22a059330fb564cd30e581fc0198d":[6,0,622,3],
 "dd/dce/classspell__lurker__below__spout.html":[6,0,3391],
 "dd/dce/classspell__lurker__below__spout.html#a3771abcc829883ba0cbae9587adbe751":[6,0,3391,5],
-"dd/dce/classspell__lurker__below__spout.html#a5cd39919a088cab2fd160ea6e16ee7c8":[6,0,3391,0],
-"dd/dce/classspell__lurker__below__spout.html#a99c1bfc5aa4b67318bb3572589a42b1a":[6,0,3391,2],
-"dd/dce/classspell__lurker__below__spout.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7":[6,0,3391,4],
-"dd/dce/classspell__lurker__below__spout.html#adb983cc531fa666648bbdb432684ff1d":[6,0,3391,1]
+"dd/dce/classspell__lurker__below__spout.html#a5cd39919a088cab2fd160ea6e16ee7c8":[6,0,3391,0]
 };

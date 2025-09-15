@@ -1,5 +1,8 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab43aaa4d2056772fb046d103d6ba4ec6":[7,0,0,0,1,2,26,2,0,101],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab550361ae2466ca9dcd5b434f0e665ad":[7,0,0,0,1,2,26,2,0,0],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab5859165e7cf27abe02fa1b1ae6c21fe":[7,0,0,0,1,2,26,2,0,49],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba":[7,0,0,0,1,2,26,2,0,56],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab994254b14a41b328a73d11d5d477a14":[7,0,0,0,1,2,26,2,0,113],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3abc36c970b4da58e237ab991b3013cf43":[7,0,0,0,1,2,26,2,0,84],
@@ -246,8 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a37a68eddad23001a85a4a2f77e237810":[6,0,1017,4],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6":[6,0,1017,0],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a88f11ce75f439fd290bdc09156d559c2":[6,0,1017,5],
-"dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[6,0,1017,2],
-"dc/d5a/classnpc__aged__dying__ancient__kodo.html":[6,0,1571],
-"dc/d5a/classnpc__aged__dying__ancient__kodo.html#a676170a319d3a8e46c9d017e61396c28":[6,0,1571,1],
-"dc/d5a/classnpc__aged__dying__ancient__kodo.html#a8489b3f23d8eca39f2750711512672e4":[6,0,1571,3]
+"dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[6,0,1017,2]
 };

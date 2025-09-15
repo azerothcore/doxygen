@@ -1,5 +1,8 @@
 var NAVTREEINDEX362 =
 {
+"de/d3d/Group_8h.html#a76b58859b594b12f70d10ee9ee17345faebe9e5142f049394b9311d27ab5d1f2e":[7,0,0,0,1,2,20,1,14,1],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22":[7,0,0,0,1,2,20,1,13],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a053bf2b40e15c99b4d87212b6224edf5":[7,0,0,0,1,2,20,1,13,2],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a0828c5fe18a98dcec2e52be5a6faf62a":[7,0,0,0,1,2,20,1,13,14],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a18568d1a780d4ee8bd1261f04789ddec":[7,0,0,0,1,2,20,1,13,4],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a23d5a8a1b2b3ff72c3fc74d801590ef6":[7,0,0,0,1,2,20,1,13,22],
@@ -246,8 +249,5 @@ var NAVTREEINDEX362 =
 "de/d48/classnpc__algalon__worm__hole.html":[6,0,1583],
 "de/d48/classnpc__algalon__worm__hole.html#a72516a4824fa61a331caff46d2784c64":[6,0,1583,1],
 "de/d48/classnpc__algalon__worm__hole.html#aac6ff3a41f08f5a11baa78c0526a3556":[6,0,1583,2],
-"de/d48/classspell__halion__twilight__mending.html":[6,0,3073],
-"de/d48/classspell__halion__twilight__mending.html#a3016c31c072d6417bbe47c2891059718":[6,0,3073,2],
-"de/d48/classspell__halion__twilight__mending.html#ad13b3924815ac3da7902c8292a760943":[6,0,3073,0],
-"de/d48/classspell__halion__twilight__mending.html#aeea718bce7dd5aa4ac33bbd1a95a65c0":[6,0,3073,1]
+"de/d48/classspell__halion__twilight__mending.html":[6,0,3073]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX335 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a":[7,0,0,0,1,3,5,23,30,0],
+"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32":[7,0,0,0,1,3,5,23,30,2],
+"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d":[7,0,0,0,1,3,5,23,30,4],
 "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b":[7,0,0,0,1,3,5,23,30,6],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685cee":[7,0,0,0,1,3,5,23,29],
 "dd/db2/zone__storm__peaks_8cpp.html#a1d8b3fe9b89bdddf273544e5f2685ceea0e531d9bf92c9a71c24e097d8f1fd381":[7,0,0,0,1,3,5,23,29,10],
@@ -177,8 +180,8 @@ var NAVTREEINDEX335 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,626,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2173],
@@ -246,8 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#ac86df4d5887c4c1b719ce47f00b32995":[6,0,1969,0,0],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#af0ce341df018dafdce89f75fcb9f0063":[6,0,1969,0,9],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#aff28c68ed9575440f5732df855ab4372":[6,0,1969,0,12],
-"dd/dc4/classspell__item__spell__reflectors.html":[6,0,3308],
-"dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed":[6,0,3308,0],
-"dd/dc4/classspell__item__spell__reflectors.html#aa9ddc9f2a0ded66e81be51cec24a0e4b":[6,0,3308,1],
-"dd/dc4/classspell__item__spell__reflectors.html#acf737f74e3cb9340f3449b491e923b7f":[6,0,3308,2]
+"dd/dc4/classspell__item__spell__reflectors.html":[6,0,3308]
 };

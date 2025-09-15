@@ -1,5 +1,8 @@
 var NAVTREEINDEX273 =
 {
+"da/df6/classspell__warr__mocking__blow.html":[6,0,4017],
+"da/df6/classspell__warr__mocking__blow.html#a94893e6dd048f0028540e5ce15ed7b1d":[6,0,4017,0],
+"da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[6,0,4017,1],
 "da/df6/classspell__warr__mocking__blow.html#ab21c47d1918a9e29ebe7b041421deaf7":[6,0,4017,2],
 "da/df7/TradeData_8cpp.html":[7,0,0,0,1,2,16,7,17],
 "da/df8/TicketMgr_8cpp.html":[7,0,0,0,1,2,43,0],
@@ -185,12 +188,12 @@ var NAVTREEINDEX273 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
 "db/d03/classboss__sartharion.html":[6,0,683],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,683,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,683,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a075a98fb08e08a5bd1253336bca08aeb":[7,0,0,0,1,3,5,4,0,1,6,10],
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a221c4a43ef7e571fe81affc5999e2441":[7,0,0,0,1,3,5,4,0,1,6,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a3886f9fc59b89d04307d9880c92e1352":[7,0,0,0,1,3,5,4,0,1,6,9],
-"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a48f61d381cf28006a2c9b6bea2981f38":[7,0,0,0,1,3,5,4,0,1,6,7],
-"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5346240e8c688dd7bf7a8df2c6732d35":[7,0,0,0,1,3,5,4,0,1,6,8],
-"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a57382655287fe8ca5fd0595a9bf6a59c":[7,0,0,0,1,3,5,4,0,1,6,11],
-"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7822ea80b05ae0b48a5674bd6e2867bc":[7,0,0,0,1,3,5,4,0,1,6,6]
+"db/d09/boss__devourer__of__souls_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a48f61d381cf28006a2c9b6bea2981f38":[7,0,0,0,1,3,5,4,0,1,6,7]
 };

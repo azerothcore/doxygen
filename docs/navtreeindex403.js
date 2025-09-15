@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[6,0,383,0,2],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a5abb4c2b4149172d2e7bf0d539237323":[6,0,383,0,5],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a7d101626f39947dd54b574491a5e6d72":[6,0,383,0,4],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a8d7fef6dfcdc5be20f0531c34b09fc13":[6,0,383,0,6],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ab51f09b76054d8bdb13f3c27396db87e":[6,0,383,0,7],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ac9f82f61ee7fe945cb3fba23a69e704c":[6,0,383,0,1],
@@ -191,8 +194,8 @@ var NAVTREEINDEX403 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,13,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,13,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,13,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,13,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,13,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,13,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,13,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,13,0,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "df/df1/structCell.html#a7626a5fc8186c5c5cbcc74709c831241":[6,0,841,25],
 "df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[6,0,841,12],
 "df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[6,0,841,24],
-"df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[6,0,841,15],
-"df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[6,0,841,16],
-"df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[6,0,841,2],
-"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,841,23]
+"df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[6,0,841,15]
 };
