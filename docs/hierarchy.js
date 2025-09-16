@@ -5732,6 +5732,7 @@ var hierarchy =
           [ "npc_risen_archmage::npc_risen_archmageAI", "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html", null ],
           [ "npc_risen_guardian::npc_risen_guardianAI", "d4/d9e/structnpc__risen__guardian_1_1npc__risen__guardianAI.html", null ],
           [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "d7/d8b/structnpc__rizzle__sprysprocket_1_1npc__rizzle__sprysprocketAI.html", null ],
+          [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", null ],
           [ "npc_rotting_frost_giant::npc_rotting_frost_giantAI", "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html", null ],
           [ "npc_sanguine_spirit", "d2/dfc/structnpc__sanguine__spirit.html", null ],
           [ "npc_sartura_royal_guard", "dc/da1/structnpc__sartura__royal__guard.html", null ],

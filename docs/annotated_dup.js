@@ -2589,6 +2589,7 @@ var annotated_dup =
     [ "npc_rivern_frostwind", "d5/dae/classnpc__rivern__frostwind.html", "d5/dae/classnpc__rivern__frostwind" ],
     [ "npc_rizzle_sprysprocket", "dc/d1f/classnpc__rizzle__sprysprocket.html", "dc/d1f/classnpc__rizzle__sprysprocket" ],
     [ "npc_rocknot", "d8/df3/classnpc__rocknot.html", "d8/df3/classnpc__rocknot" ],
+    [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", "d5/dae/structnpc__rodin__lightning__enabler" ],
     [ "npc_rookery_hatcher", "dd/df0/classnpc__rookery__hatcher.html", "dd/df0/classnpc__rookery__hatcher" ],
     [ "npc_rotting_frost_giant", "dd/d14/classnpc__rotting__frost__giant.html", "dd/d14/classnpc__rotting__frost__giant" ],
     [ "npc_roxi_ramrocket", "df/d94/classnpc__roxi__ramrocket.html", "df/d94/classnpc__roxi__ramrocket" ],

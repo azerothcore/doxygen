@@ -1,5 +1,14 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#aa0417f9b26a1683e5055ba284b1099c2":[4,1,19,421],
+"d8/d74/classWorldSession.html#aa1007895cfb5be2941e85348c281612d":[4,1,19,452],
+"d8/d74/classWorldSession.html#aa16527cdc54e567fde488872ba2c1ce5":[4,1,19,349],
+"d8/d74/classWorldSession.html#aa16819928aa64c135a8abeafdac78110":[4,1,19,71],
+"d8/d74/classWorldSession.html#aa183080e0b0ec6a8038cc3ee784afbd2":[4,1,19,367],
+"d8/d74/classWorldSession.html#aa23431d421d33077742f7dd341176ee8":[4,1,19,241],
+"d8/d74/classWorldSession.html#aa25780c994c1beed1f89ea9ddb4d9648":[4,1,19,519],
+"d8/d74/classWorldSession.html#aa355f874eeb39b2fac37e538b2c4c805":[4,1,19,319],
+"d8/d74/classWorldSession.html#aa371efb78c38b2b9cc8f42327a3b615d":[4,1,19,497],
 "d8/d74/classWorldSession.html#aa3fc0f873562ddc702a0f9106b617b39":[4,1,19,254],
 "d8/d74/classWorldSession.html#aa47b29f93c889f8934845b9806180456":[4,1,19,383],
 "d8/d74/classWorldSession.html#aa5239d0d34442a38a0700a41d1f79b74":[4,1,19,505],
@@ -217,9 +226,9 @@ var NAVTREEINDEX218 =
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1897,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1897,2],
 "d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1897,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2256],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2256,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2256,1],
+"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2257],
+"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2257,2],
+"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2257,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1954,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1954,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1954,0,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d77/classAchievementMgr.html#a3171a7f5da450e56fb7ed9615c03bb94":[6,0,116,7],
 "d8/d77/classAchievementMgr.html#a37d1c40d3c598f193471ed407e43b548":[6,0,116,31],
 "d8/d77/classAchievementMgr.html#a3bb53cc1efc73b3162fc41f45d0fe767":[6,0,116,0],
-"d8/d77/classAchievementMgr.html#a40e7823518ed3c7384c51105b8a9d3f9":[6,0,116,28],
-"d8/d77/classAchievementMgr.html#a5285ec2869d59b9730ae9799285f7392":[6,0,116,17],
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bed":[6,0,116,1],
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda01350f61ddba37a0f87b31d1ce3f4726":[6,0,116,1,0],
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda1408ee1329bcb762ee45fb865ee58d9e":[6,0,116,1,2],
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedaad0795d71aa92acdd2da8c8ed3d42471":[6,0,116,1,1],
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedae56d39bbbd70987d9e5839b4ca0e983c":[6,0,116,1,3],
-"d8/d77/classAchievementMgr.html#a609f1328333a605b938575d55b061d8f":[6,0,116,5],
-"d8/d77/classAchievementMgr.html#a6ab19372da640991eeb1fba0c43d8e08":[6,0,116,26],
-"d8/d77/classAchievementMgr.html#a6eebdde97187856c115223c4fba3160c":[6,0,116,3]
+"d8/d77/classAchievementMgr.html#a40e7823518ed3c7384c51105b8a9d3f9":[6,0,116,28]
 };

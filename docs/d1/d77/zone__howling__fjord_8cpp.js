@@ -9,6 +9,7 @@ var zone__howling__fjord_8cpp =
     [ "npc_plaguehound_tracker", "d4/dfa/classnpc__plaguehound__tracker.html", "d4/dfa/classnpc__plaguehound__tracker" ],
     [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d4/d9a/structnpc__plaguehound__tracker_1_1npc__plaguehound__trackerAI.html", "d4/d9a/structnpc__plaguehound__tracker_1_1npc__plaguehound__trackerAI" ],
     [ "npc_razael_and_lyana", "dd/d16/classnpc__razael__and__lyana.html", "dd/d16/classnpc__razael__and__lyana" ],
+    [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", "d5/dae/structnpc__rodin__lightning__enabler" ],
     [ "spell_hawk_hunting", "d4/dc6/classspell__hawk__hunting.html", "d4/dc6/classspell__hawk__hunting" ],
     [ "Entries", "d1/d77/zone__howling__fjord_8cpp.html#a06de533fb3e7ec530f0493022ad98889", [
       [ "NPC_APOTHECARY_HANES", "d1/d77/zone__howling__fjord_8cpp.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
@@ -28,6 +29,11 @@ var zone__howling__fjord_8cpp =
       [ "GOSSIP_TEXTID_RAZAEL2", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
       [ "GOSSIP_TEXTID_LYANA1", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
       [ "GOSSIP_TEXTID_LYANA2", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
+    ] ],
+    [ "RodinLightningSpells", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3", [
+      [ "SPELL_RODIN_LIGHTNING_START", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
+      [ "SPELL_RODIN_LIGHTNING_END", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
+      [ "NPC_RODIN", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
     [ "TurmoilTexts", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
       [ "SAY_TURMOIL_0", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
