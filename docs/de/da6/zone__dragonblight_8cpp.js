@@ -43,6 +43,7 @@ var zone__dragonblight_8cpp =
     [ "npc_torturer_lecraft::npc_torturer_lecraftAI", "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html", "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI" ],
     [ "spell_dragonblight_corrosive_spit", "da/db7/classspell__dragonblight__corrosive__spit.html", "da/db7/classspell__dragonblight__corrosive__spit" ],
     [ "spell_handover_reins", "d9/d91/classspell__handover__reins.html", "d9/d91/classspell__handover__reins" ],
+    [ "spell_dragonblight_flame_fury", "d2/d02/classspell__dragonblight__flame__fury.html", "d2/d02/classspell__dragonblight__flame__fury" ],
     [ "chainGun", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8", [
       [ "NPC_INJURED_7TH_LEGION_SOLDER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a87aa2131266fab5fcd2341454c85291a", null ],
       [ "SPELL_FEAR_AURA_WITH_COWER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a", null ]
@@ -179,6 +180,13 @@ var zone__dragonblight_8cpp =
       [ "SPELL_SAC_SUMMON_GO_3", "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a7f0014c0bccdc769cc63e8f1e7304282", null ],
       [ "SPELL_SAC_BLUE_EXPLOSION", "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a84af0617fbeb30df550bc4e30aa4111c", null ],
       [ "SPELL_SAC_VEHICLE_CONTROL_AURA", "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a12b3ad955ab13fdd3aa52c96bcd70b58", null ]
+    ] ],
+    [ "FlameFurySpells", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8d", [
+      [ "SPELL_FLAME_FURY_1", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8da56cde8a35b2d6e588fa92903f3c64c3a", null ],
+      [ "SPELL_FLAME_FURY_2", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8daaa630a1eca00bf9b730bb30e831874e8", null ],
+      [ "SPELL_FLAME_FURY_3", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8dae7264eeab940eca27553226546521f7d", null ],
+      [ "SPELL_FLAME_FURY_4", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8da6362742c318fe0f70e6be8ebd18084ae", null ],
+      [ "SPELL_FLAME_FURY_5", "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8daba7eab2d916635095b9b3087912cb1ec", null ]
     ] ],
     [ "HandOverReins", "de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aea", [
       [ "SPELL_ONSLAUGHT_RIDING_CROP", "de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6", null ]

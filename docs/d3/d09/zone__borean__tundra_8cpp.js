@@ -40,6 +40,7 @@ var zone__borean__tundra_8cpp =
     [ "npc_counselor_talbot", "d8/db1/classnpc__counselor__talbot.html", "d8/db1/classnpc__counselor__talbot" ],
     [ "npc_counselor_talbot::npc_counselor_talbotAI", "d8/d9e/structnpc__counselor__talbot_1_1npc__counselor__talbotAI.html", "d8/d9e/structnpc__counselor__talbot_1_1npc__counselor__talbotAI" ],
     [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
+    [ "spell_soul_deflection", "df/d1d/classspell__soul__deflection.html", "df/d1d/classspell__soul__deflection" ],
     [ "BerylSorcerer", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281", [
       [ "EVENT_FROSTBOLT", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281aeccde9e1206ee2e4eb28b875f92ec48a", null ],
       [ "EVENT_ARCANE_CHAINS", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281acc82c9e2da8a9d11d5fc08d8ec826668", null ],
@@ -164,6 +165,9 @@ var zone__borean__tundra_8cpp =
       [ "SPELL_EXPLODE_CART", "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a81d1f706e1dc4fea6b953e51f45415fa", null ],
       [ "SPELL_SUMMON_CART", "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a64271ae9d918bbe98c41f665d909ff8d", null ],
       [ "SPELL_SUMMON_WORM", "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4a526123ed48766dbd305162355e1488f3", null ]
+    ] ],
+    [ "SoulDeflectionSpells", "d3/d09/zone__borean__tundra_8cpp.html#a68e652bcac609e5daa55b039bc1706d5", [
+      [ "SPELL_SOUL_DEFLECTION_DAMAGE", "d3/d09/zone__borean__tundra_8cpp.html#a68e652bcac609e5daa55b039bc1706d5a4ba5a82b1feec8926df52622a2d8a124", null ]
     ] ],
     [ "Spells", "d3/d09/zone__borean__tundra_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_TRANSITUS_SHIELD_BEAM", "d3/d09/zone__borean__tundra_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c", null ]

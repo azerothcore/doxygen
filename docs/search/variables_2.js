@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
+  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
   ['bachiev_1',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],
   ['bachievbombbot_2',['bAchievBombBot',['../df/dd9/structboss__mimiron_1_1boss__mimironAI.html#afcd749730b91e9bf9c18609d1f826b06',1,'boss_mimiron::boss_mimironAI']]],
   ['bachievcacherare_3',['bAchievCacheRare',['../d5/dc2/structboss__hodir_1_1boss__hodirAI.html#abae1956e9101ea07cea426ac7c51efd5',1,'boss_hodir::boss_hodirAI']]],
@@ -269,7 +269,7 @@ var searchData=
   ['bp3_266',['bp3',['../dd/d27/structSmartAction.html#af56d53ebfd46ffd5546fd0f8c5a5b241',1,'SmartAction']]],
   ['bphase3_267',['bPhase3',['../d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html#a56778ef57482fd6b40110524a6771137',1,'boss_anubarak_trial::boss_anubarak_trialAI']]],
   ['bpokeachiev_268',['bPokeAchiev',['../d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#ae9ac88ac934fa86e28f5d4905b8defba',1,'instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript']]],
-  ['bracketid_269',['bracketid',['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId'],['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId']]],
+  ['bracketid_269',['bracketid',['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId'],['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId']]],
   ['brannachievement_270',['brannAchievement',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0ba409129e2b0cb84b731043755e70e3',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannguid_271',['BrannGUID',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ae764788f5a202371ce5ea506ba5ea05f',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannintrospawnpos_272',['BrannIntroSpawnPos',['../d1/d43/boss__algalon__the__observer_8cpp.html#aeeb061299a20d936b10ca54816e5c9bb',1,'boss_algalon_the_observer.cpp']]],
@@ -297,7 +297,7 @@ var searchData=
   ['bugfixversion_294',['BugfixVersion',['../dc/d0e/structRealmBuildInfo.html#a461f8c749a874405584dc1fd3fe1d805',1,'RealmBuildInfo']]],
   ['bugtriodeathcount_295',['BugTrioDeathCount',['../db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#aab0191f5b31264f0632a24df0607d05b',1,'instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript']]],
   ['build_296',['build',['../d3/d03/structAUTH__LOGON__CHALLENGE__C.html#a4c2989e284a86a7257c3f4a7b507265c',1,'AUTH_LOGON_CHALLENGE_C::build'],['../d6/d5d/structLogHeader.html#aa5ed2806342a36723f1317105ebc13fa',1,'LogHeader::Build'],['../d8/df8/classAuthSession.html#a373f8bc6e72c0e7c9852ccfd3a3b9cb5',1,'AuthSession::Build'],['../d0/d7e/structRealm.html#a64533e919d8c3a37bd5668af77d09166',1,'Realm::Build'],['../dc/d0e/structRealmBuildInfo.html#a6cc7aff1b397df7333b9bb0003282abd',1,'RealmBuildInfo::Build']]],
-  ['building_297',['building',['../dd/d3b/structGameObjectTemplate.html#a47a2138971b4ac1e316174e38ee1f3ab',1,'GameObjectTemplate::building'],['../da/d37/unionGameObjectValue.html#aae3dbb59dc70ee4d5d0a10390200c66e',1,'GameObjectValue::Building']]],
+  ['building_297',['building',['../da/d37/unionGameObjectValue.html#aae3dbb59dc70ee4d5d0a10390200c66e',1,'GameObjectValue::Building'],['../dd/d3b/structGameObjectTemplate.html#a47a2138971b4ac1e316174e38ee1f3ab',1,'GameObjectTemplate::building']]],
   ['buildingsinzone_298',['BuildingsInZone',['../d0/d76/classBattlefieldWG.html#a9f2722e37733f13609af2dfe85ddac10',1,'BattlefieldWG']]],
   ['buildmagic_299',['buildMagic',['../df/d52/structmap__fileheader.html#a82d0f500f9e84cf6c8bf917a98f92115',1,'map_fileheader']]],
   ['bunnytimer_300',['bunnyTimer',['../d2/d16/structnpc__spring__rabbit_1_1npc__spring__rabbitAI.html#a99c2923194cf6a07bee8924abf98f470',1,'npc_spring_rabbit::npc_spring_rabbitAI']]],
