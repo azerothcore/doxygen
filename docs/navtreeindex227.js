@@ -1,5 +1,10 @@
 var NAVTREEINDEX227 =
 {
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6573237213ea097696beb6ead5caca34":[7,0,0,0,1,2,8,1,19,11,13],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a":[7,0,0,0,1,2,8,1,19,11,3],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1":[7,0,0,0,1,2,8,1,19,11,16],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6d74052a63d48c5200a918ef7795e0f6":[7,0,0,0,1,2,8,1,19,11,4],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a7b1c25d2dbc02248850ce278c1f7522f":[7,0,0,0,1,2,8,1,19,11,18],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a93e7b80ca65c61286e8dcecae63d530f":[7,0,0,0,1,2,8,1,19,11,15],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a95308567d5588fc80028306730cf9935":[7,0,0,0,1,2,8,1,19,11,20],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701aa677dd9786ce46653d34a6530475b6ed":[7,0,0,0,1,2,8,1,19,11,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX227 =
 "d8/ded/classat__cthun__center.html#af744df9577e84ab64749076324e574c9":[6,0,213,1],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html":[6,0,1657,0],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d":[6,0,1657,0,4],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a13efa2a2a0c5c796b3fd9f36a54ce523":[6,0,1657,0,2],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a395e6e14f03cb0ecfe70348cc148d7ef":[6,0,1657,0,5],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f":[6,0,1657,0,1],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a9bf17d7ec59d800955c131dbe14a31d8":[6,0,1657,0,3],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#adfd43a6a804a35e235262e55f0155ffe":[6,0,1657,0,0],
-"d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html":[6,0,2006,0]
+"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a13efa2a2a0c5c796b3fd9f36a54ce523":[6,0,1657,0,2]
 };

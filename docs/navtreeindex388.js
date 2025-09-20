@@ -1,5 +1,11 @@
 var NAVTREEINDEX388 =
 {
+"df/d5e/structAuctionHouseSearchInfo.html#a736642258b38fa05f04df4f4ac9069db":[6,0,265,0],
+"df/d5e/structAuctionHouseSearchInfo.html#a902d715d89a5ca66072393ccefbb1ead":[6,0,265,4],
+"df/d5e/structAuctionHouseSearchInfo.html#a97bc36937a55f3e9a88dabf9a4e4f0b5":[6,0,265,2],
+"df/d5e/structAuctionHouseSearchInfo.html#ac437de5977b177a586381c8665439a56":[6,0,265,5],
+"df/d5e/structAuctionHouseSearchInfo.html#acf154bf30417c1a202ae85b4dd1adead":[6,0,265,3],
+"df/d5e/structAuctionHouseSearchInfo.html#ad81a5f3c2c58e620673539b6271ff8e9":[6,0,265,9],
 "df/d65/classspell__ooze__zap.html":[6,0,3507],
 "df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[6,0,3507,3],
 "df/d65/classspell__ooze__zap.html#a5b0a5f957a7b996cbe6b219a9803069e":[6,0,3507,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX388 =
 "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a":[7,0,0,0,1,3,5,1,0,0,26],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,0,0,14],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a023b4dbd94d9ae8eeb8dc0049948ed92":[7,0,0,0,1,3,5,1,0,0,14,18],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02e7aba4a3c36ee2030914b3e3d37084":[7,0,0,0,1,3,5,1,0,0,14,12],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961":[7,0,0,0,1,3,5,1,0,0,14,2],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348":[7,0,0,0,1,3,5,1,0,0,14,1],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8":[7,0,0,0,1,3,5,1,0,0,14,14],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55":[7,0,0,0,1,3,5,1,0,0,14,8],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39cddfd73c7a581aaae8b86425ab0513":[7,0,0,0,1,3,5,1,0,0,14,11],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430":[7,0,0,0,1,3,5,1,0,0,14,15]
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02e7aba4a3c36ee2030914b3e3d37084":[7,0,0,0,1,3,5,1,0,0,14,12]
 };

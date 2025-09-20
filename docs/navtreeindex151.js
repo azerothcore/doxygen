@@ -1,5 +1,10 @@
 var NAVTREEINDEX151 =
 {
+"d5/da0/map__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,1,7,3],
+"d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html":[6,0,1313,0],
+"d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html#a8dbe1537ea00412a6fa366891204d645":[6,0,1313,0,1],
+"d5/da0/structinstance__magisters__terrace_1_1instance__magisters__terrace__InstanceMapScript.html#ad083ab5aa00902987e18f4e9423a705a":[6,0,1313,0,0],
+"d5/da2/classnpc__risen__guardian.html":[6,0,2088],
 "d5/da2/classnpc__risen__guardian.html#a472274c69abe912f5781c60911204eb5":[6,0,2088,1],
 "d5/da2/classnpc__risen__guardian.html#a568f57a442adcd64c8c3d2e4d5df729f":[6,0,2088,2],
 "d5/da2/classspell__mark__of__kazrogal__aura.html":[6,0,3436],
@@ -178,8 +183,8 @@ var NAVTREEINDEX151 =
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,9,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,9,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,9,3,0],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,9,3,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,9,3,3],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,9,3,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
 "d5/dab/boss__faerlina_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,1,3],
 "d5/dab/boss__faerlina_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8":[7,0,0,0,1,3,5,7,1,3,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX151 =
 "d5/dac/classConfigEnvTest.html#aaaccdda1669c76b94483bf2db2615d4e":[6,0,892,2],
 "d5/dac/classConfigEnvTest.html#af04bbb2661f10d3bf442c590ebdf1a2b":[6,0,892,0],
 "d5/dad/classnpc__xt002__boombot.html":[6,0,2300],
-"d5/dad/classnpc__xt002__boombot.html#a27237e7a60042ed7163b19d80537c1b3":[6,0,2300,2],
-"d5/dad/classnpc__xt002__boombot.html#a6e2f7dd0d26d140a5b73b0f66ea434af":[6,0,2300,1],
-"d5/dad/classspell__dred__raptor__call.html":[6,0,2817],
-"d5/dad/classspell__dred__raptor__call.html#a1805904d5e50bbf5aeccf37d2cadd09e":[6,0,2817,2],
-"d5/dad/classspell__dred__raptor__call.html#a84fb6e08a523f375cd8bc43e9cc73eab":[6,0,2817,0],
-"d5/dad/classspell__dred__raptor__call.html#accbf8f40b1ab123a2be81a514c94c836":[6,0,2817,1]
+"d5/dad/classnpc__xt002__boombot.html#a27237e7a60042ed7163b19d80537c1b3":[6,0,2300,2]
 };

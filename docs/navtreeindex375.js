@@ -1,5 +1,11 @@
 var NAVTREEINDEX375 =
 {
+"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aabf68ace2646050b567f4a305e8b052f":[7,0,0,0,1,3,5,4,0,0,10,3],
+"de/dc0/boss__bronjahm_8cpp.html#a4917973731274871be6d53aca950379e":[7,0,0,0,1,3,5,4,0,0,11],
+"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,4,0,0,9],
+"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a0f986351e79c5fab3d5759e4a8574ba2":[7,0,0,0,1,3,5,4,0,0,9,3],
+"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2b197a67ddc5aa697170968a192838df":[7,0,0,0,1,3,5,4,0,0,9,5],
+"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,5,4,0,0,9,2],
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a625ad0393d1c2c5e2c1c0b14e70eaae7":[7,0,0,0,1,3,5,4,0,0,9,6],
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,5,4,0,0,9,7],
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,5,4,0,0,9,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX375 =
 "de/dd2/classnpc__muglash.html":[6,0,1979],
 "de/dd2/classnpc__muglash.html#a5df1b1cff0acf8be4db77b66f8a0b5f4":[6,0,1979,1],
 "de/dd2/classnpc__muglash.html#a7cfeaf756de85b1bd2fff9163e4bd5e3":[6,0,1979,2],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html":[6,0,2912],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#a3189ba65a1d9adf252d9f0dfb70abd16":[6,0,2912,3],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#a330f1311911ba9f3ebd704c7f9a09246":[6,0,2912,7],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#a391e5089eb034618c5e3edde26685a00":[6,0,2912,0],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#a494123635eda4c43d92a08c9c8cd5627":[6,0,2912,2],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#a8a79aef777e1397b031149c54ae9d81d":[6,0,2912,5],
-"de/dd2/classspell__gen__apply__aura__after__expiration.html#aa276a986ba9b67964ddeec56d6455cf9":[6,0,2912,6]
+"de/dd2/classspell__gen__apply__aura__after__expiration.html":[6,0,2912]
 };

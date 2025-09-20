@@ -321,6 +321,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a864fed7b6710808761b3b0d4c4a518fd inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI" id="r_a1b57ae64a42c982865b94cd889a18bd4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1b57ae64a42c982865b94cd889a18bd4">SummonedCreatureEvade</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -879,9 +881,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  250</span>        {</div>
 <div class="line"><span class="lineno">  251</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51d433dde350cd94d7c3c43e30ca997f">AddAura</a>(<span class="keywordtype">id</span>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
 <div class="line"><span class="lineno">  252</span>        }</div>
-<div class="ttc" id="aclassUnit_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition</b> Unit.cpp:18961</div></div>
+<div class="ttc" id="aclassUnit_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition</b> Unit.cpp:18964</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l18961">Unit::AddAura()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l18964">Unit::AddAura()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00254">JustEngagedWith()</a>.</p>
 
@@ -1080,13 +1082,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  259</span>            <a class="code hl_function" href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a4d3a681e14d84826c1d35a353e7c50ec">GainSentinelAbility</a>(<a class="code hl_variable" href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ab24f6e9d0ae2dfbdae1198a662018d66">ability</a>);</div>
 <div class="line"><span class="lineno">  260</span>            <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a">DoZoneInCombat</a>();</div>
 <div class="line"><span class="lineno">  261</span>        }</div>
-<div class="ttc" id="aclassCreatureAI_html_afdeeccb48c5f74120d0fffe2a631a88a"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a">CreatureAI::DoZoneInCombat</a></div><div class="ttdeci">void DoZoneInCombat(Creature *creature=nullptr, float maxRangeToNearestTarget=250.0f)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:112</div></div>
+<div class="ttc" id="aclassCreatureAI_html_afdeeccb48c5f74120d0fffe2a631a88a"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a">CreatureAI::DoZoneInCombat</a></div><div class="ttdeci">void DoZoneInCombat(Creature *creature=nullptr, float maxRangeToNearestTarget=250.0f)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:113</div></div>
 <div class="ttc" id="astructnpc__anubisath__sentinel_1_1aqsentinelAI_html_a4d3a681e14d84826c1d35a353e7c50ec"><div class="ttname"><a href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a4d3a681e14d84826c1d35a353e7c50ec">npc_anubisath_sentinel::aqsentinelAI::GainSentinelAbility</a></div><div class="ttdeci">void GainSentinelAbility(uint32 id)</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:249</div></div>
 <div class="ttc" id="astructnpc__anubisath__sentinel_1_1aqsentinelAI_html_ab24f6e9d0ae2dfbdae1198a662018d66"><div class="ttname"><a href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ab24f6e9d0ae2dfbdae1198a662018d66">npc_anubisath_sentinel::aqsentinelAI::ability</a></div><div class="ttdeci">uint32 ability</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:68</div></div>
 <div class="ttc" id="astructnpc__anubisath__sentinel_1_1aqsentinelAI_html_ad89ae2e4c350eb5d494368c3144e4383"><div class="ttname"><a href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#ad89ae2e4c350eb5d494368c3144e4383">npc_anubisath_sentinel::aqsentinelAI::GetOtherSentinels</a></div><div class="ttdeci">void GetOtherSentinels(Unit *who)</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:197</div></div>
 <div class="ttc" id="astructnpc__anubisath__sentinel_1_1aqsentinelAI_html_afdd18c951d7f07921fdac7a5ab5c6ce6"><div class="ttname"><a href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#afdd18c951d7f07921fdac7a5ab5c6ce6">npc_anubisath_sentinel::aqsentinelAI::gatherOthersWhenAggro</a></div><div class="ttdeci">bool gatherOthersWhenAggro</div><div class="ttdef"><b>Definition</b> mob_anubisath_sentinel.cpp:227</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ability</a>, <a class="el" href="../../#l00112">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00249">GainSentinelAbility()</a>, <a class="el" href="../../#l00227">gatherOthersWhenAggro</a>, and <a class="el" href="../../#l00197">GetOtherSentinels()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ability</a>, <a class="el" href="../../#l00113">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00249">GainSentinelAbility()</a>, <a class="el" href="../../#l00227">gatherOthersWhenAggro</a>, and <a class="el" href="../../#l00197">GetOtherSentinels()</a>.</p>
 
 </div>
 </div>
@@ -1436,7 +1438,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dfa/classnpc__anubisath__sentinel.html">npc_anubisath_sentinel</a></li><li class="navelem"><a class="el" href="../../d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html">aqsentinelAI</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

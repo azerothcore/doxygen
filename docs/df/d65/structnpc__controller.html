@@ -190,6 +190,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6afb39c4bf86a1e882cc80fd7ec80a8f inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI" id="r_a1e545b8b2c9f8538d8663ef06c2c1030"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">SpellHitTarget</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
 <tr class="separator:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -480,8 +482,8 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2680</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">GetCharmerOrOwner</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2bdfe38bdc28869a9002094e4341d56e">InterruptNonMeleeSpells</a>(<span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno"> 2681</span>        }</div>
 <div class="line"><span class="lineno"> 2682</span>    }</div>
-<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
-<div class="ttc" id="aclassUnit_html_a2bdfe38bdc28869a9002094e4341d56e"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2bdfe38bdc28869a9002094e4341d56e">Unit::InterruptNonMeleeSpells</a></div><div class="ttdeci">void InterruptNonMeleeSpells(bool withDelayed, uint32 spellid=0, bool withInstant=true, bool bySelf=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4186</div></div>
+<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
+<div class="ttc" id="aclassUnit_html_a2bdfe38bdc28869a9002094e4341d56e"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2bdfe38bdc28869a9002094e4341d56e">Unit::InterruptNonMeleeSpells</a></div><div class="ttdeci">void InterruptNonMeleeSpells(bool withDelayed, uint32 spellid=0, bool withInstant=true, bool bySelf=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4189</div></div>
 <div class="ttc" id="aclassUnit_html_a7cdd398abd6ac328deb42529195e6add"><div class="ttname"><a href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">Unit::GetCharmerOrOwner</a></div><div class="ttdeci">Unit * GetCharmerOrOwner() const</div><div class="ttdef"><b>Definition</b> Unit.h:1213</div></div>
 </div><!-- fragment -->
 </div>
@@ -495,7 +497,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d65/structnpc__controller.html">npc_controller</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

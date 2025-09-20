@@ -1,5 +1,11 @@
 var NAVTREEINDEX389 =
 {
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961":[7,0,0,0,1,3,5,1,0,0,14,2],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348":[7,0,0,0,1,3,5,1,0,0,14,1],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8":[7,0,0,0,1,3,5,1,0,0,14,14],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55":[7,0,0,0,1,3,5,1,0,0,14,8],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39cddfd73c7a581aaae8b86425ab0513":[7,0,0,0,1,3,5,1,0,0,14,11],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430":[7,0,0,0,1,3,5,1,0,0,14,15],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a859e0907cf7afb553a4e513dd7b69160":[7,0,0,0,1,3,5,1,0,0,14,6],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e4b041fca086c68a936ab58b730ac6":[7,0,0,0,1,3,5,1,0,0,14,9],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e32ad5ac07b499ea8433d2ea86eba74":[7,0,0,0,1,3,5,1,0,0,14,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX389 =
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,597,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,597,0,8],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,597,0,3],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a6fe691c8dd5c5b387eed08e3a010bec7":[6,0,597,0,1],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a75aa55580bed475e88e9071fa5284267":[6,0,597,0,10],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a7f10837eafefefb87b338410c5994362":[6,0,597,0,0],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a852589ca84562ad1a9dcdd403fe5aa83":[6,0,597,0,2],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5":[6,0,597,0,9],
-"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#abcc993a205602484fb46a67bc68dbbd9":[6,0,597,0,5]
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,597,0,3]
 };

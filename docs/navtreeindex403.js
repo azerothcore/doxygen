@@ -1,5 +1,11 @@
 var NAVTREEINDEX403 =
 {
+"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1905],
+"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1905,2],
+"df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1905,1],
+"df/dde/classnpc__rinji.html":[6,0,2086],
+"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2086,2],
+"df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2086,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX403 =
 "df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3844,0],
 "df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3844,1],
 "df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3844,2],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html":[6,0,1853,0],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a06550732cba84da4cbd708d03a7bd6bb":[6,0,1853,0,10],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a127cc66ea4804da51eb9069037b9ba33":[6,0,1853,0,7],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1853,0,8],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1853,0,4],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1853,0,6],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1853,0,11]
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html":[6,0,1853,0]
 };

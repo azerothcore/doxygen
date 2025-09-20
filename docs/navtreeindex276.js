@@ -1,5 +1,11 @@
 var NAVTREEINDEX276 =
 {
+"db/d1e/structgo__magtheridons__head.html":[6,0,1158],
+"db/d1e/structgo__magtheridons__head.html#a28682d161074b71e1f2d70236ff2b897":[6,0,1158,2],
+"db/d1e/structgo__magtheridons__head.html#a84fd97c0dfc2826a0b7795a9fbd70cd5":[6,0,1158,1],
+"db/d1e/structgo__magtheridons__head.html#af5816b083f1856196bec7a75f0a995f3":[6,0,1158,0],
+"db/d1e/structnpc__the__biggest__tree.html":[6,0,2175],
+"db/d1e/structnpc__the__biggest__tree.html#a36c170fb178a19256fd41fb2cbbb7830":[6,0,2175,4],
 "db/d1e/structnpc__the__biggest__tree.html#a3d1b33ab7cd28de5438f53a00657170a":[6,0,2175,3],
 "db/d1e/structnpc__the__biggest__tree.html#a3fd4c5e522e8945925124426a8ff870b":[6,0,2175,2],
 "db/d1e/structnpc__the__biggest__tree.html#a572c0b146d461b6a8504163452570954":[6,0,2175,1],
@@ -69,10 +75,10 @@ var NAVTREEINDEX276 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4109,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4109,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4109,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX276 =
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a575802dd7bf6d7359724d725b62ce604":[6,0,2262,0,13],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a8a6d32250ac109bd20bde1aa139621ea":[6,0,2262,0,14],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a91766f8e2fb70b1452cbb2c075717b1a":[6,0,2262,0,8],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a9b75af98b11bf1115dfd7ce852ab7591":[6,0,2262,0,5],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#acd70f755f4a14f5f8749b59c953fdb5d":[6,0,2262,0,4],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ad2d2e3f45a7cb8e9bece6a46036d75b6":[6,0,2262,0,12],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd":[6,0,2262,0,7],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ae13cffcbcec48bb26f5d301a543615f5":[6,0,2262,0,16],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aea20be843c1f9c3402edd903b938292d":[6,0,2262,0,17],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#af547ffffa48ee8d7b0f6babbd0e9875e":[6,0,2262,0,0]
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a9b75af98b11bf1115dfd7ce852ab7591":[6,0,2262,0,5]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX376 =
 {
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#a3189ba65a1d9adf252d9f0dfb70abd16":[6,0,2912,3],
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#a330f1311911ba9f3ebd704c7f9a09246":[6,0,2912,7],
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#a391e5089eb034618c5e3edde26685a00":[6,0,2912,0],
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#a494123635eda4c43d92a08c9c8cd5627":[6,0,2912,2],
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#a8a79aef777e1397b031149c54ae9d81d":[6,0,2912,5],
+"de/dd2/classspell__gen__apply__aura__after__expiration.html#aa276a986ba9b67964ddeec56d6455cf9":[6,0,2912,6],
 "de/dd2/classspell__gen__apply__aura__after__expiration.html#ad405128104d8a6528e8db96281ad0f0b":[6,0,2912,4],
 "de/dd2/classspell__gen__apply__aura__after__expiration.html#afea2221ceeebf90cf352084d8aacf7c9":[6,0,2912,1],
 "de/dd3/classMovementGeneratorMedium.html":[6,0,1530],
@@ -243,11 +249,5 @@ var NAVTREEINDEX376 =
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cad677b101115f1546550f71f4d7561870":[7,0,0,0,1,3,5,6,9,41,35],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cadb1eb37231c55023fd8fbaff93d3b55f":[7,0,0,0,1,3,5,6,9,41,25],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,5,6,9,41,28],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cadf215f2e28fb7711cb83fb64a2afd419":[7,0,0,0,1,3,5,6,9,41,0],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caee6ab46191fe4c69f1115b26c4a2e2ed":[7,0,0,0,1,3,5,6,9,41,14],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caeed2ad5ddd42421a39d77dd7ca3c8be7":[7,0,0,0,1,3,5,6,9,41,23],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caf6baef7b50efba2a1dc5612c1d52150f":[7,0,0,0,1,3,5,6,9,41,12],
-"de/de5/boss__sindragosa_8cpp.html#a5c1528d12da74e2584629a667b6c32ac":[7,0,0,0,1,3,5,6,9,43],
-"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0e":[7,0,0,0,1,3,5,6,9,38],
-"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea207b51fe4dc6b1ebb9dd23cd3840e56f":[7,0,0,0,1,3,5,6,9,38,3]
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cadf215f2e28fb7711cb83fb64a2afd419":[7,0,0,0,1,3,5,6,9,41,0]
 };

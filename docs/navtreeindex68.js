@@ -1,5 +1,9 @@
 var NAVTREEINDEX68 =
 {
+"d2/d80/classSmartTrigger.html":[6,0,2578],
+"d2/d80/classSmartTrigger.html#a713066a301e22e7744b3f82a1ca134ed":[6,0,2578,1],
+"d2/d80/classSmartTrigger.html#ae94d836bb1a714a3b90dcf146aa967a9":[6,0,2578,0],
+"d2/d80/classboss__ragnaros.html":[6,0,666],
 "d2/d80/classboss__ragnaros.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5":[6,0,666,1],
 "d2/d80/classboss__ragnaros.html#af54e36608e160811ca06952fd2c63f6e":[6,0,666,2],
 "d2/d81/classspell__mark__of__kazrogal.html":[6,0,3435],
@@ -69,8 +73,8 @@ var NAVTREEINDEX68 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[6,0,1999,0,4],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
@@ -108,14 +112,14 @@ var NAVTREEINDEX68 =
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2107],
@@ -245,9 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a7c105b35f29e81929fbde6100a11ed77":[6,0,2528,50],
 "d2/d8f/structScriptInfo.html#a7cdff6a71fd1e7dd5830f0fdd08c7462":[6,0,2528,6],
 "d2/d8f/structScriptInfo.html#a7ea9ceb93b8217898f2c91dd685b3271":[6,0,2528,72],
-"d2/d8f/structScriptInfo.html#a81ca402939ee7cd7a1a1bf375fe3e6fc":[6,0,2528,14],
-"d2/d8f/structScriptInfo.html#a86eb75e36f4e997a03ecfea3aebc389c":[6,0,2528,46],
-"d2/d8f/structScriptInfo.html#a87b8a4650c58285d7ac414d2c4420ec3":[6,0,2528,52],
-"d2/d8f/structScriptInfo.html#a8b2d1002b689627ceebedfe1ead1aaa0":[6,0,2528,34],
-"d2/d8f/structScriptInfo.html#a8e7c61ffac670290464b0232430df05c":[6,0,2528,29]
+"d2/d8f/structScriptInfo.html#a81ca402939ee7cd7a1a1bf375fe3e6fc":[6,0,2528,14]
 };

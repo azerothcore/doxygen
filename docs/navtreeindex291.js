@@ -1,5 +1,11 @@
 var NAVTREEINDEX291 =
 {
+"db/dba/structboss__thorim__sif__blizzard_1_1boss__thorim__sif__blizzardAI.html#ab91a2a71ff00e38d2eca50ccc654d9f3":[6,0,742,0,4],
+"db/dbc/classboss__gehennas.html":[6,0,494],
+"db/dbc/classboss__gehennas.html#a380a24cbaad4e247c6c76fd63ac34f59":[6,0,494,1],
+"db/dbc/classboss__gehennas.html#a92f9ff0e957da5331b4a3ecc48be0ffa":[6,0,494,2],
+"db/dbe/classspell__dk__rune__of__the__fallen__crusader.html":[6,0,2789],
+"db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#a6c49fad4dc5d080b9a5550f8f30cae4d":[6,0,2789,0],
 "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#a82395d00066e90abc58103b18a5ef4dc":[6,0,2789,2],
 "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514":[6,0,2789,1],
 "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html":[6,0,1342,0],
@@ -100,8 +106,8 @@ var NAVTREEINDEX291 =
 "db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a":[6,0,1534,9],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1534,7],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1534,6],
-"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,4],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,5],
+"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3468],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3468,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3468,1],
@@ -226,8 +232,8 @@ var NAVTREEINDEX291 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2699,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX291 =
 "db/dce/classAura.html#a03c8f1e4156ac6526e401f2a95ad08e7":[6,0,279,76],
 "db/dce/classAura.html#a04a25715c9b268afa2025a47681df76c":[6,0,279,136],
 "db/dce/classAura.html#a068cc46b636b35d317aea47a2de6253e":[6,0,279,9],
-"db/dce/classAura.html#a0b7486aa10607794eaa6739f73b19741":[6,0,279,44],
-"db/dce/classAura.html#a139193e2e2688d6ea9c6a817c0a00318":[6,0,279,47],
-"db/dce/classAura.html#a13f14942fd6394df8e5d8ae820fd3fc7":[6,0,279,81],
-"db/dce/classAura.html#a14457cfa6d589b8024bbeeb1d4aa03d3":[6,0,279,68],
-"db/dce/classAura.html#a1734994c88d98ccd513b4f8d2f090d70":[6,0,279,28],
-"db/dce/classAura.html#a184dae26b21f0c106cd2ccf2db67c452":[6,0,279,62],
-"db/dce/classAura.html#a1cb0ef5c31c0ebb5e274a99c186e83ab":[6,0,279,27]
+"db/dce/classAura.html#a0b7486aa10607794eaa6739f73b19741":[6,0,279,44]
 };

@@ -190,6 +190,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6afb39c4bf86a1e882cc80fd7ec80a8f inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI" id="r_a1e545b8b2c9f8538d8663ef06c2c1030"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">SpellHitTarget</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
 <tr class="separator:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -509,12 +511,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  922</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c">LowerPlayerDamageReq</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">GetMaxHealth</a>());</div>
 <div class="line"><span class="lineno">  923</span>            }</div>
 <div class="line"><span class="lineno">  924</span>        }</div>
-<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
+<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassCreature_html_a387cceb07a0dae6ad447de68f2bb67c6"><div class="ttname"><a href="../../db/dd5/classCreature.html#a387cceb07a0dae6ad447de68f2bb67c6">Creature::SetLootRecipient</a></div><div class="ttdeci">void SetLootRecipient(Unit *unit, bool withGroup=true)</div><div class="ttdef"><b>Definition</b> Creature.cpp:1331</div></div>
 <div class="ttc" id="aclassCreature_html_ade3dddee0d9a81b1357473a1cdf7016c"><div class="ttname"><a href="../../db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c">Creature::LowerPlayerDamageReq</a></div><div class="ttdeci">void LowerPlayerDamageReq(uint32 unDamage, bool damagedByPlayer=true)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3829</div></div>
 <div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1032</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01032">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l03829">Creature::LowerPlayerDamageReq()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, and <a class="el" href="../../#l01331">Creature::SetLootRecipient()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01032">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l03829">Creature::LowerPlayerDamageReq()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, and <a class="el" href="../../#l01331">Creature::SetLootRecipient()</a>.</p>
 
 </div>
 </div>
@@ -554,7 +556,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:620</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00059">CombatAI::Reset()</a>, <a class="el" href="../../#l02390">Creature::SelectNearestTarget()</a>, and <a class="el" href="../../#l00070">Creature::SetCorpseDelay()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00059">CombatAI::Reset()</a>, <a class="el" href="../../#l02390">Creature::SelectNearestTarget()</a>, and <a class="el" href="../../#l00070">Creature::SetCorpseDelay()</a>.</p>
 
 </div>
 </div>
@@ -567,7 +569,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dcd/classnpc__heated__battle.html">npc_heated_battle</a></li><li class="navelem"><a class="el" href="../../d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html">npc_heated_battleAI</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

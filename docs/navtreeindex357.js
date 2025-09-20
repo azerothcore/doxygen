@@ -1,5 +1,11 @@
 var NAVTREEINDEX357 =
 {
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,18,1],
+"de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,20,23],
+"de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
+"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
+"de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c":[5,0,20,14],
+"de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f":[5,0,20,30],
 "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a":[5,0,20,33],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,20,20],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,20,19],
@@ -243,11 +249,5 @@ var NAVTREEINDEX357 =
 "de/d1c/classGameObject.html#aff6309b0741d1236cefa86abe6c442b0":[6,0,1077,170],
 "de/d1c/classnpc__acherus__necromancer.html":[6,0,1568],
 "de/d1c/classnpc__acherus__necromancer.html#a14ca04a1656a6bb0c842ecb709aba1a7":[6,0,1568,1],
-"de/d1c/classnpc__acherus__necromancer.html#af43b1908b1d99868ea5a3899fe8ebd02":[6,0,1568,2],
-"de/d1d/classiron__golem__custodian.html":[6,0,1373],
-"de/d1d/classiron__golem__custodian.html#a272e0c9fe475a665aa80a95f1e1d8629":[6,0,1373,2],
-"de/d1d/classiron__golem__custodian.html#adc11b755e193adbad757c21e5b15e063":[6,0,1373,1],
-"de/d1e/WardenWin_8cpp.html":[7,0,0,0,1,2,46,10],
-"de/d1e/WardenWin_8cpp.html#a259abc7d98e16cefc14404b5886cbc09":[7,0,0,0,1,2,46,10,5],
-"de/d1e/WardenWin_8cpp.html#a5506a4e4233b2c380f79ad1225c4dc93":[7,0,0,0,1,2,46,10,3]
+"de/d1c/classnpc__acherus__necromancer.html#af43b1908b1d99868ea5a3899fe8ebd02":[6,0,1568,2]
 };

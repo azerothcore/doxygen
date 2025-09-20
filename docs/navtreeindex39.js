@@ -1,5 +1,9 @@
 var NAVTREEINDEX39 =
 {
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ac803602c1184b2893dfebf51eb171111":[7,0,0,0,1,3,5,2,1,2,10,15],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7":[7,0,0,0,1,3,5,2,1,2,10,8],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,2,1,2,10,17],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469aec0a94cc1daae616809034f3a31043b6":[7,0,0,0,1,3,5,2,1,2,10,14],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360e":[7,0,0,0,1,3,5,2,1,2,11],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,2,1,2,11,10],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea36d8706f7d591eeae67e5ab22e97ef2e":[7,0,0,0,1,3,5,2,1,2,11,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a8dc0eb96b2b8c1ebbfa8877e0a724863":[7,0,0,0,1,2,16,10,5,41,19],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ab3a78fef2da3fc0e2430e43fb5a056a3":[7,0,0,0,1,2,16,10,5,41,3],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ac559aca6c3ee598a049ad3c74e6c2277":[7,0,0,0,1,2,16,10,5,41,1],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ac6b983128756e95cc801eb7d66152898":[7,0,0,0,1,2,16,10,5,41,17],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3acd5946c5134e10bf661be8710e62402b":[7,0,0,0,1,2,16,10,5,41,12],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aebb0887e5009f73e469b757cf96b1e96":[7,0,0,0,1,2,16,10,5,41,10],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aee4b09551f2283f499ae1206937a3acb":[7,0,0,0,1,2,16,10,5,41,9],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aefdc5bd23a2977847198bcf2b3b12a29":[7,0,0,0,1,2,16,10,5,41,2]
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ac6b983128756e95cc801eb7d66152898":[7,0,0,0,1,2,16,10,5,41,17]
 };

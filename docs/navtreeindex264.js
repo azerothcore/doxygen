@@ -1,5 +1,11 @@
 var NAVTREEINDEX264 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[6,0,697,0,12],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[6,0,697,0,20],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a87663e3f6d1c87c9def8eb1852adc029":[6,0,697,0,17],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[6,0,697,0,16],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[6,0,697,0,3],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a9cfaa3b61da9a7aad88c2d2a537f0821":[6,0,697,0,21],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab02e42a863496b27a8f2b745085e30ea":[6,0,697,0,0],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,697,0,2],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a":[6,0,697,0,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX264 =
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[6,0,3621,1],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3621,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[6,0,3621,3],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[6,0,3621,2],
-"da/dac/structAccountData.html":[4,1,10],
-"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
-"da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0],
-"da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[4,1,10,1],
-"da/dad/CombatPackets_8cpp.html":[7,0,0,0,1,2,39,0,9],
-"da/dad/structboss__harbinger__skyriss.html":[6,0,520]
+"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[6,0,3621,2]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX145 =
 {
+"d5/d4d/classIWorld.html#acad3c54cc13c94b2baee31fc9ee8392f":[6,0,1400,39],
+"d5/d4d/classIWorld.html#ace81c5c964fe9ed968a95ac40580c55b":[6,0,1400,28],
+"d5/d4d/classIWorld.html#ad80333f046a524cb05c70aabcc6707cc":[6,0,1400,2],
+"d5/d4d/classIWorld.html#adefab958ec85d9023994a22adef88c9e":[6,0,1400,16],
 "d5/d4d/classIWorld.html#ae6473c2c9bcf5d8d0a8bc9143bb38ff9":[6,0,1400,9],
 "d5/d4d/classIWorld.html#ae926e9bb899d2797a2b3bfe6954c776a":[6,0,1400,10],
 "d5/d4d/classIWorld.html#aec60f106aabf4b237607d058939e4e02":[6,0,1400,26],
@@ -85,8 +89,8 @@ var NAVTREEINDEX145 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[6,0,1841,0,4],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[6,0,1841,0,2],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[6,0,1841,0,5],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[6,0,3887],
@@ -95,14 +99,14 @@ var NAVTREEINDEX145 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[6,0,3887,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[6,0,3887,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3887,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,5,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,31,5,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3369],
@@ -245,9 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d61/classGridTerrainLoader.html#a9f5094ad19163dc8ac3f3c4bada48ee9":[6,0,1228,0],
 "d5/d61/classGridTerrainLoader.html#ac220ce61dd0c3e514dcff2465c61af0f":[6,0,1228,3],
 "d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f":[6,0,1228,6],
-"d5/d61/classspell__taldaram__summon__flame__ball.html":[6,0,3863],
-"d5/d61/classspell__taldaram__summon__flame__ball.html#a17301c4ef9623ec04ec3c15dfd4e316f":[6,0,3863,2],
-"d5/d61/classspell__taldaram__summon__flame__ball.html#a4b1e392acea30a9259e65a75667704c5":[6,0,3863,0],
-"d5/d61/classspell__taldaram__summon__flame__ball.html#a77632d11a172e5552c0c49de830a1639":[6,0,3863,3],
-"d5/d61/classspell__taldaram__summon__flame__ball.html#a9af7bb4defb7c590aaff1a709dad4573":[6,0,3863,1]
+"d5/d61/classspell__taldaram__summon__flame__ball.html":[6,0,3863]
 };

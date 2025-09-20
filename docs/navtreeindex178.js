@@ -1,5 +1,10 @@
 var NAVTREEINDEX178 =
 {
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a9a2e367f30ee16ca55e634de8e22551e":[6,0,1980,0,2],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ad5d5a9de05e472d24fe399b4de79a3d0":[6,0,1980,0,3],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ae7079b335373cc06a040756328e7f714":[6,0,1980,0,6],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#af1d8694678b10e5393c658ba0b20f47a":[6,0,1980,0,8],
+"d6/da3/DynamicObjectScript_8h.html":[7,0,0,0,1,2,38,0,42],
 "d6/da5/classnpc__ferocious__rhino.html":[6,0,1779],
 "d6/da5/classnpc__ferocious__rhino.html#a480c1d0c24cdbe7cd3c47332ee925466":[6,0,1779,1],
 "d6/da5/classnpc__ferocious__rhino.html#aa5c3cba6b1ed6cffaac578c5449b9b4e":[6,0,1779,2],
@@ -55,8 +60,8 @@ var NAVTREEINDEX178 =
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,5,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,5,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,5,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,5,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,5,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,5,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1892],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1892,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1892,2],
@@ -148,10 +153,10 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea8f2ff939af4f858097368acaff2fbfca":[7,0,0,0,1,3,3,6,19,1],
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090ea984aba85c4d3dc2b79534ed149330a07":[7,0,0,0,1,3,3,6,19,0],
 "d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eaa5f003f81344b4b63c66e9d688cf5ab7":[7,0,0,0,1,3,3,6,19,9],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eada71863a07a8a1df8b4c956b71c9d619":[7,0,0,0,1,3,3,6,19,2],
-"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eadb3e5a1b658501535c8e1b684930c8c5":[7,0,0,0,1,3,3,6,19,11],
-"d6/dba/midsummer_8cpp.html#afd8a3a151093c0630847d5c80e1f854f":[7,0,0,0,1,3,3,6,17],
-"d6/dba/midsummer_8cpp.html#afd8a3a151093c0630847d5c80e1f854fa183b2dd04793fbe4c195242a3a2bccf5":[7,0,0,0,1,3,3,6,17,0],
-"d6/dba/midsummer_8cpp.html#afd8a3a151093c0630847d5c80e1f854fab392a22637923eff71caf3a47749ca9a":[7,0,0,0,1,3,3,6,17,2],
-"d6/dba/midsummer_8cpp.html#afd8a3a151093c0630847d5c80e1f854fafe8114d2aab172e16869e5adbdd3cbc7":[7,0,0,0,1,3,3,6,17,1]
+"d6/dba/midsummer_8cpp.html#af5a1b7acbac947ea58c140c1fac5090eada71863a07a8a1df8b4c956b71c9d619":[7,0,0,0,1,3,3,6,19,2]
 };

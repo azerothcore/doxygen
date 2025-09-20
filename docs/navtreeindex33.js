@@ -1,5 +1,9 @@
 var NAVTREEINDEX33 =
 {
+"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html#a64d925b08f3f0ae59f5053121dbc495c":[6,0,2228,0,2],
+"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html#a870bdc842d8d7078302a36a20ef661e4":[6,0,2228,0,1],
+"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html#ac6784a66111406f917ae4d07dbeb60a4":[6,0,2228,0,3],
+"d1/d58/boss__the__beast_8cpp.html":[7,0,0,0,1,3,2,1,1,12],
 "d1/d58/boss__the__beast_8cpp.html#a4466ac7fe908d794c102f150217f437f":[7,0,0,0,1,3,2,1,1,12,10],
 "d1/d58/boss__the__beast_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,12,8],
 "d1/d58/boss__the__beast_8cpp.html#a5bd342133be8c2137b831460acc9298ca250533bd2923a3390fcb7c2492b6c05b":[7,0,0,0,1,3,2,1,1,12,8,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4c7f4416b5b3c5f71836aba551c78bd0":[6,0,734,0,3],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a5688581fba4a49027bf6a77a1c71d1b7":[6,0,734,0,18],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a5fa41aff3ffe27891d8caaeffc23cf59":[6,0,734,0,24],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a634372ecb400bab20c38e69539c4fc4a":[6,0,734,0,1],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a672e95cbaa8cfbc06604e5d30a9aaa4d":[6,0,734,0,2],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a79291008072b2bdbeb4d3d5901a5634b":[6,0,734,0,0],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a7f1dbfc124986f8e982331cd92806455":[6,0,734,0,8],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a9bde52ef4ff221cb0a5bb7a896c9b8fe":[6,0,734,0,21]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a634372ecb400bab20c38e69539c4fc4a":[6,0,734,0,1]
 };

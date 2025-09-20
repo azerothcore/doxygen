@@ -1,5 +1,11 @@
 var NAVTREEINDEX385 =
 {
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7692d6fdf5933a4899b5ce5ca1569122":[6,0,1359,0,25],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7ace228cf9b3f723077e57a9b3caf174":[6,0,1359,0,21],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7b15def2fab40bf559f2aa6de6865b92":[6,0,1359,0,17],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a8f3c71a2c0625ba3c99b1e7ee6beffd6":[6,0,1359,0,19],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[6,0,1359,0,2],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a9fc52ebdc0786dd73bdd7ef9ab4f14f5":[6,0,1359,0,16],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1":[6,0,1359,0,29],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#ab87f5010b4b8844b25452cb62c90f946":[6,0,1359,0,10],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aba2ac0a8b94ae6321caf8be43c18b523":[6,0,1359,0,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX385 =
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a3a287b97db58c3489815f20ee0d37977":[6,0,1316,0,2],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a61cb2b2bf09bb997457bc01a41e092e9":[6,0,1316,0,1],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a6e4072342e66689d343912de85e66b34":[6,0,1316,0,5],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a6e90bf60a076c164e432128f7ec62fba":[6,0,1316,0,4],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a9c46508320d3973006561444feae0586":[6,0,1316,0,0],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#ac2cd336874b25ad20dac104037de1df5":[6,0,1316,0,3],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#af2e752a791d75e50001060c4a9f18173":[6,0,1316,0,6],
-"df/d3f/classAliveCheck.html":[6,0,144],
-"df/d3f/classAliveCheck.html#a57b4f62b35a093665bb32073a086b8c5":[6,0,144,0],
-"df/d3f/classspell__hun__invigoration.html":[6,0,3123]
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a6e90bf60a076c164e432128f7ec62fba":[6,0,1316,0,4]
 };

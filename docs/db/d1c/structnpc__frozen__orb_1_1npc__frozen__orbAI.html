@@ -296,6 +296,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a864fed7b6710808761b3b0d4c4a518fd inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI" id="r_a1b57ae64a42c982865b94cd889a18bd4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1b57ae64a42c982865b94cd889a18bd4">SummonedCreatureEvade</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -680,11 +682,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  198</span>        }</div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1072</div></div>
 <div class="ttc" id="aclassThreatMgr_html_af90090f5c00aff1bc6e7fbb89ab2464f"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#af90090f5c00aff1bc6e7fbb89ab2464f">ThreatMgr::ResetAllThreat</a></div><div class="ttdeci">void ResetAllThreat()</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:651</div></div>
-<div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14755</div></div>
+<div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14758</div></div>
 <div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:898</div></div>
 <div class="ttc" id="astructScriptedAI_html_afa14c52852b49c2179c7410dbd897ff4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#afa14c52852b49c2179c7410dbd897ff4">ScriptedAI::SelectTargetFromPlayerList</a></div><div class="ttdeci">Player * SelectTargetFromPlayerList(float maxdist, uint32 excludeAura=0, bool mustBeInLOS=false) const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:571</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l14755">Unit::AddThreat()</a>, <a class="el" href="../../#l00898">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00651">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00571">ScriptedAI::SelectTargetFromPlayerList()</a>, and <a class="el" href="../../#l00174">switchTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l14758">Unit::AddThreat()</a>, <a class="el" href="../../#l00898">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00651">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00571">ScriptedAI::SelectTargetFromPlayerList()</a>, and <a class="el" href="../../#l00174">switchTimer</a>.</p>
 
 </div>
 </div>
@@ -714,7 +716,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d47/classnpc__frozen__orb.html">npc_frozen_orb</a></li><li class="navelem"><a class="el" href="../../db/d1c/structnpc__frozen__orb_1_1npc__frozen__orbAI.html">npc_frozen_orbAI</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

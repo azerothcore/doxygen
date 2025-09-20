@@ -1,5 +1,11 @@
 var NAVTREEINDEX396 =
 {
+"df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,5],
+"df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,0,0,6,6],
+"df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4],
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[6,0,1914,0],
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[6,0,1914,0,0],
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1914,0,1],
 "df/dbb/BankPackets_8cpp.html":[7,0,0,0,1,2,39,0,1],
 "df/dbb/classspell__gen__netherbloom.html":[6,0,2987],
 "df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[6,0,2987,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX396 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[6,0,1611,0,3],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[6,0,1611,0,4],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[6,0,1611,0,5],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[6,0,1611,0,11],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#abbfbb5a1e116c6deb3db23f12ff8994f":[6,0,1611,0,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac458fc9a331dc7edfdc764215b1926e8":[6,0,1611,0,9],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[6,0,1611,0,10],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[6,0,1611,0,6],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1611,0,2],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1611,0,8]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[6,0,1611,0,11]
 };

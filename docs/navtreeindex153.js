@@ -1,5 +1,10 @@
 var NAVTREEINDEX153 =
 {
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a8fd3938c0e91a0773eacba9fbdb4a60e":[6,0,568,0,3],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ac99064d95afff73680df1fe96749665a":[6,0,568,0,1],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad2fa9b4d11b158e3fadf0c304be6b431":[6,0,568,0,5],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#ad81fa9c3449ba347de09b1519be6d408":[6,0,568,0,9],
+"d5/db3/structnpc__amanishi__tempest.html":[6,0,1586],
 "d5/db3/structnpc__amanishi__tempest.html#a09ba0ce51ad981578adcc1950c89d5ae":[6,0,1586,7],
 "d5/db3/structnpc__amanishi__tempest.html#a4337b2bc417d8dafc4a6d5d10bbd0db9":[6,0,1586,11],
 "d5/db3/structnpc__amanishi__tempest.html#a50963cc0aac2560f6ddbf81000943ac3":[6,0,1586,1],
@@ -71,10 +76,10 @@ var NAVTREEINDEX153 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4282,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,5,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,5,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,5,38,2],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,31,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,5,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,5,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,31,5,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,5,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,31,5,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[6,0,1739],
@@ -244,10 +249,5 @@ var NAVTREEINDEX153 =
 "d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,12,1],
 "d5/dbd/classnpc__ulduar__hodir__priest.html":[6,0,2236],
 "d5/dbd/classnpc__ulduar__hodir__priest.html#a276046b974666c1462440a46a8096de7":[6,0,2236,2],
-"d5/dbd/classnpc__ulduar__hodir__priest.html#a30d7f1b68f9a1d10bc47288b81fc517c":[6,0,2236,1],
-"d5/dbd/classnpc__unworthy__initiate__anchor.html":[6,0,2256],
-"d5/dbd/classnpc__unworthy__initiate__anchor.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1":[6,0,2256,1],
-"d5/dbd/classnpc__unworthy__initiate__anchor.html#ab012983661d20a3ffa4f58136bd2d808":[6,0,2256,2],
-"d5/dbe/OutdoorPvPGH_8cpp.html":[7,0,0,0,1,3,6,3],
-"d5/dbe/OutdoorPvPGH_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[7,0,0,0,1,3,6,3,1]
+"d5/dbd/classnpc__ulduar__hodir__priest.html#a30d7f1b68f9a1d10bc47288b81fc517c":[6,0,2236,1]
 };

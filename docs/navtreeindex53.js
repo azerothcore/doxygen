@@ -1,5 +1,9 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca26affdf7d4a232a13a2e85bcfec3acac":[7,0,0,0,1,2,36,2,17,0],
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca332bbf12a9f624eaf8304facf64520c2":[7,0,0,0,1,2,36,2,17,8],
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3":[7,0,0,0,1,2,36,2,17,11],
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca44bd5ba1866b6195d1fdbcfc88e4429d":[7,0,0,0,1,2,36,2,17,3],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca75135989445a2947df016dddb20dcf24":[7,0,0,0,1,2,36,2,17,10],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca8c007c4cb4d3909e264b15da0c678415":[7,0,0,0,1,2,36,2,17,6],
@@ -121,10 +125,10 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3083,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3083,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3083,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,120],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,132],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,120],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,120,0],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,120,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,120,1],
@@ -144,12 +148,12 @@ var NAVTREEINDEX53 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,896,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,896,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,896,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,31,8,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,11,8,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,31,8,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,31,8,1,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,11,8,1,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,31,8,1,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,11,8,1,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,31,8,1,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebd":[7,0,0,0,1,2,16,11,2,8],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f":[7,0,0,0,1,2,16,11,2,8,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2464,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2464,0],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3396],
-"d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3396,2],
-"d2/d31/classspell__madrigosa__activate__barrier.html#ad55914fdc6771e09a508572d59ad30ed":[6,0,3396,1],
-"d2/d31/classspell__madrigosa__activate__barrier.html#afd73a7f5ec26c9ecb0424ee09ce638fe":[6,0,3396,0],
-"d2/d31/structCharTitlesEntry.html":[6,0,863],
-"d2/d31/structCharTitlesEntry.html#a1e5cb3fc001169a204507a084435a211":[6,0,863,0]
+"d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3396,2]
 };

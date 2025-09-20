@@ -1,5 +1,9 @@
 var NAVTREEINDEX96 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba47d5c6dd4ddfb5c44a0416966b5450c4":[7,0,0,0,1,2,48,7,0,73],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4861b6ef7b7085e7441605fe7717f938":[7,0,0,0,1,2,48,7,0,505],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba48ae643b3228e77cd5db2407bc62f271":[7,0,0,0,1,2,48,7,0,106],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba49baaafb8fb8daa657ce6528f8b9c2e9":[7,0,0,0,1,2,48,7,0,91],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4b21319d4d702a911be7762c5bab5da2":[7,0,0,0,1,2,48,7,0,375],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4bce534873ff5edc69a0434deba48e96":[7,0,0,0,1,2,48,7,0,480],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4cc18bd509d726644063e39a706c1a95":[7,0,0,0,1,2,48,7,0,51],
@@ -245,9 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac36c7299adb3c06f5fb36f0b715aaf87":[7,0,0,0,1,2,48,7,0,319],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac370515de648651d4ab2e9c62185ce01":[7,0,0,0,1,2,48,7,0,39],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac3858ea585ab107f67e032b7245bd4f4":[7,0,0,0,1,2,48,7,0,344],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac41880d016fa8fd7dce6578173c55e3a":[7,0,0,0,1,2,48,7,0,282],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac419fe26d11bc75d1330fbf43fb3ce3b":[7,0,0,0,1,2,48,7,0,429],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac44c34b3a18bb02fc03973b719699c08":[7,0,0,0,1,2,48,7,0,172],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac47c72c9d07f9764ad42845581411983":[7,0,0,0,1,2,48,7,0,503],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac4e2e15ea65f2941494c38a8a14629d1":[7,0,0,0,1,2,48,7,0,422]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac41880d016fa8fd7dce6578173c55e3a":[7,0,0,0,1,2,48,7,0,282]
 };

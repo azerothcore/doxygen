@@ -1,5 +1,10 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#a9bbda5ec17b1db9f4ca0c0b61113ef68":[4,1,19,571],
+"d8/d74/classWorldSession.html#a9bf50435ffb7a037734f151ca40fbb4e":[4,1,19,164],
+"d8/d74/classWorldSession.html#a9c146b38b2de450854011e063d488e34":[4,1,19,64],
+"d8/d74/classWorldSession.html#a9ca8f4ca136f50031defba26f00c67a3":[4,1,19,24],
+"d8/d74/classWorldSession.html#a9d1e893be19cb76f68e6b999dd7c611e":[4,1,19,234],
 "d8/d74/classWorldSession.html#a9d216a6236995c94b90628445874c352":[4,1,19,43],
 "d8/d74/classWorldSession.html#a9d27f7f4643024f8a018f415022a77a1":[4,1,19,49],
 "d8/d74/classWorldSession.html#a9d53ccdc5fe50bd3a76d500ceb0e3c43":[4,1,19,554],
@@ -244,10 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2257],
 "d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2257,2],
 "d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2257,1],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1954,0],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1954,0,1],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1954,0,0],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71":[6,0,1954,0,2],
-"d8/d77/classAchievementMgr.html":[6,0,116],
-"d8/d77/classAchievementMgr.html#a006f7efdbda628c743cf97704a7216ce":[6,0,116,23]
+"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1954,0]
 };

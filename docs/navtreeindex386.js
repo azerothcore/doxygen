@@ -1,5 +1,11 @@
 var NAVTREEINDEX386 =
 {
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a9c46508320d3973006561444feae0586":[6,0,1316,0,0],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#ac2cd336874b25ad20dac104037de1df5":[6,0,1316,0,3],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#af2e752a791d75e50001060c4a9f18173":[6,0,1316,0,6],
+"df/d3f/classAliveCheck.html":[6,0,144],
+"df/d3f/classAliveCheck.html#a57b4f62b35a093665bb32073a086b8c5":[6,0,144,0],
+"df/d3f/classspell__hun__invigoration.html":[6,0,3123],
 "df/d3f/classspell__hun__invigoration.html#a29ac1789b8023ef3339a7b40ee9c31ab":[6,0,3123,1],
 "df/d3f/classspell__hun__invigoration.html#a321098d2325bfb9cea674d1137348350":[6,0,3123,2],
 "df/d3f/classspell__hun__invigoration.html#aa16a67bf42f51b838d22dcbe4b5b6f7b":[6,0,3123,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX386 =
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a23c200f2c7b9f5d02bed7af37bc69c33":[6,0,1613,0,2],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a25bc023e061a0845421a652b571a6e1e":[6,0,1613,0,4],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a27155b8880a2a86b733bcd074e977b59":[6,0,1613,0,1],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a986f19145e46f5975f22a84a3e1b10ee":[6,0,1613,0,3],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[6,0,1613,0,0],
-"df/d54/classat__ring__of__law.html":[6,0,237],
-"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,237,1],
-"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,237,0],
-"df/d54/classat__underbog__ghazan.html":[6,0,250],
-"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,250,0]
+"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a986f19145e46f5975f22a84a3e1b10ee":[6,0,1613,0,3]
 };

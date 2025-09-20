@@ -1,5 +1,11 @@
 var NAVTREEINDEX368 =
 {
+"de/d84/classAcore_1_1PowerPctOrderPred.html#aed7be288f876fdd35c1cdba53626b03c":[5,0,1,112,3],
+"de/d84/classnpc__shadowy__mercenary.html":[6,0,2115],
+"de/d84/classnpc__shadowy__mercenary.html#a3ace4bb80f6771c586caa7f2dedf2b93":[6,0,2115,1],
+"de/d84/classnpc__shadowy__mercenary.html#ada4b63bf708b3d19ce6d3a2b36c96672":[6,0,2115,2],
+"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html":[6,0,0,122],
+"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html":[5,0,1,134],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a0e629a6fd0da179ea0c98c93d2337603":[5,0,1,134,8],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a0e629a6fd0da179ea0c98c93d2337603":[6,0,0,122,8],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a1a24eaafdf716de984a5943e049d10f7":[6,0,0,122,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX368 =
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a3f5f08b4ac364fddf14e8405cdc27b68":[6,0,1701,0,0],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4c39fd26b4ab6bd861988c19ab3ead37":[6,0,1701,0,6],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4dabd8ae79a6b956264dea7ba2359e7d":[6,0,1701,0,13],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45":[6,0,1701,0,19],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a53c900f7bfa720bfdfc22531ac916c5b":[6,0,1701,0,10],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a6b860a2b93654f92fb821b8907a3cc91":[6,0,1701,0,8],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a81a72db27d196b2fb6696b6466d26449":[6,0,1701,0,16],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a85cd2486bad6cda8867eba29538842e9":[6,0,1701,0,14],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a91131055a31dc828ccb2e3ba087d5062":[6,0,1701,0,5],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106":[6,0,1701,0,20]
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45":[6,0,1701,0,19]
 };

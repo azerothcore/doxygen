@@ -1,5 +1,9 @@
 var NAVTREEINDEX64 =
 {
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4":[7,0,0,0,1,3,2,29,7,10],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566":[7,0,0,0,1,3,2,29,7,12],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7":[7,0,0,0,1,3,2,29,7,0],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344":[7,0,0,0,1,3,2,29,7,8],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a2ba39a6181a7eb3cea0c26335739a06c":[7,0,0,0,1,3,2,29,9],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3":[7,0,0,0,1,3,2,29,6],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599":[7,0,0,0,1,3,2,29,6,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a03d407ea24e851a95835ac92c40fa780":[6,0,757,0,9],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a10764f3e70ec8286e8af17d9b680de8b":[6,0,757,0,15],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a13843cdca5d222073894827db9402035":[6,0,757,0,4],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a154123dc3f5463ace6d1b96a9b20576e":[6,0,757,0,8],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a180eb28e16672082503fa91f37dd720a":[6,0,757,0,1],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[6,0,757,0,13],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a20aa23a4492739b4f171b1361a2ba53b":[6,0,757,0,3],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a23f0fb75f652704a79c2530252138abb":[6,0,757,0,6]
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a154123dc3f5463ace6d1b96a9b20576e":[6,0,757,0,8]
 };

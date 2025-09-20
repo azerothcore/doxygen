@@ -1,5 +1,9 @@
 var NAVTREEINDEX122 =
 {
+"d4/d36/classspell__zulfarrak__unlocking.html#a32bfb203e9ecfbcfa75f6c3e7a17fade":[6,0,4070,0],
+"d4/d36/classspell__zulfarrak__unlocking.html#a5dcac6f609ec93074ec3ce195101f592":[6,0,4070,2],
+"d4/d36/classspell__zulfarrak__unlocking.html#a646a42455b6a46c9f7cbb4b0229122cd":[6,0,4070,1],
+"d4/d37/WardenCheckMgr_8cpp.html":[7,0,0,0,1,2,46,4],
 "d4/d37/structFileCloser.html":[6,0,1041],
 "d4/d37/structFileCloser.html#a92cee61e659d819612af9d8f340661ab":[6,0,1041,0],
 "d4/d37/structnpc__general__andorov.html":[6,0,1807],
@@ -245,9 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d3e/classBattlegroundSA.html#a223ddb6603b1b526682c4d3f55a1705e":[6,0,335,3],
 "d4/d3e/classBattlegroundSA.html#a283cab041084db9a8db2b39d057f25c0":[6,0,335,48],
 "d4/d3e/classBattlegroundSA.html#a2bb2fc11d239e21ee50c5aef63b4f41f":[6,0,335,12],
-"d4/d3e/classBattlegroundSA.html#a2ddcfe40b6c7bf672747b6cf24748a50":[6,0,335,7],
-"d4/d3e/classBattlegroundSA.html#a332ecfb5ad7ca48ebe3324505c6e8be3":[6,0,335,21],
-"d4/d3e/classBattlegroundSA.html#a3656fe6bf47ed89beec6c13d681d5e07":[6,0,335,0],
-"d4/d3e/classBattlegroundSA.html#a40b5fcce8eb7d90a515b91cbd97bf79c":[6,0,335,38],
-"d4/d3e/classBattlegroundSA.html#a4182dedcd4a1154ce8055b6c7d83001d":[6,0,335,37]
+"d4/d3e/classBattlegroundSA.html#a2ddcfe40b6c7bf672747b6cf24748a50":[6,0,335,7]
 };

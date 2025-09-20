@@ -1,5 +1,11 @@
 var NAVTREEINDEX395 =
 {
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[6,0,2058,0,7],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[6,0,2058,0,0],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[6,0,2058,0,4],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[6,0,2058,0,8],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[6,0,2058,0,3],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[6,0,2058,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[6,0,2212,0],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[6,0,2212,0,2],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[6,0,2212,0,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX395 =
 "df/dba/classnpc__ulduar__hodir__mage.html#abcbe0337b2a83b6eb0a64f7465d7f79a":[6,0,2235,2],
 "df/dba/classnpc__ulduar__hodir__mage.html#afebdd0f99f0c7eaaf0a2d5731335105d":[6,0,2235,1],
 "df/dba/instance__ahnkahet_8cpp.html":[7,0,0,0,1,3,5,0,0,6],
-"df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3],
-"df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,5],
-"df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,0,0,6,6],
-"df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[6,0,1914,0],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[6,0,1914,0,0],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1914,0,1]
+"df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX390 =
 {
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a6fe691c8dd5c5b387eed08e3a010bec7":[6,0,597,0,1],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a75aa55580bed475e88e9071fa5284267":[6,0,597,0,10],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a7f10837eafefefb87b338410c5994362":[6,0,597,0,0],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a852589ca84562ad1a9dcdd403fe5aa83":[6,0,597,0,2],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5":[6,0,597,0,9],
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#abcc993a205602484fb46a67bc68dbbd9":[6,0,597,0,5],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#ac1d7b3844f9019ea6485de7616caff95":[6,0,597,0,7],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#acee7b1758b670a688fe1afcdef3b9f8c":[6,0,597,0,4],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#af06da24e8bedf922895c8c591c1def04":[6,0,597,0,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX390 =
 "df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[6,0,3295,1],
 "df/d8b/classspell__item__rocket__chicken.html#a4a13827baeb7ed4f2681ab114d44eb37":[6,0,3295,2],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html":[6,0,3640],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a2b06b0dc1a4c2f5b5e4657e11a097660":[6,0,3640,2],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3640,0],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3640,3],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3640,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4066],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4066,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4066,1]
+"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a2b06b0dc1a4c2f5b5e4657e11a097660":[6,0,3640,2]
 };

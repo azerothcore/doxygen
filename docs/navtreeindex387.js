@@ -1,5 +1,11 @@
 var NAVTREEINDEX387 =
 {
+"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[6,0,1613,0,0],
+"df/d54/classat__ring__of__law.html":[6,0,237],
+"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,237,1],
+"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,237,0],
+"df/d54/classat__underbog__ghazan.html":[6,0,250],
+"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,250,0],
 "df/d54/classat__underbog__ghazan.html#aff03fc0bbded7bf7fa68d0c736bfaff2":[6,0,250,1],
 "df/d55/PlayerGossip_8cpp.html":[7,0,0,0,1,2,16,7,6],
 "df/d55/classlfg_1_1LFGPlayerScript.html":[5,0,18,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX387 =
 "df/d5e/structAuctionHouseSearchInfo.html#a1f234ab443ed5e14aafa02ec3ba5cfde":[6,0,265,7],
 "df/d5e/structAuctionHouseSearchInfo.html#a2be6266f0bbc631d476710cbe291fab1":[6,0,265,6],
 "df/d5e/structAuctionHouseSearchInfo.html#a521224ce63856745ed64c39f6cbdddc4":[6,0,265,1],
-"df/d5e/structAuctionHouseSearchInfo.html#a6f2e07af2aafb8eb53d845acd7f5ad71":[6,0,265,8],
-"df/d5e/structAuctionHouseSearchInfo.html#a736642258b38fa05f04df4f4ac9069db":[6,0,265,0],
-"df/d5e/structAuctionHouseSearchInfo.html#a902d715d89a5ca66072393ccefbb1ead":[6,0,265,4],
-"df/d5e/structAuctionHouseSearchInfo.html#a97bc36937a55f3e9a88dabf9a4e4f0b5":[6,0,265,2],
-"df/d5e/structAuctionHouseSearchInfo.html#ac437de5977b177a586381c8665439a56":[6,0,265,5],
-"df/d5e/structAuctionHouseSearchInfo.html#acf154bf30417c1a202ae85b4dd1adead":[6,0,265,3],
-"df/d5e/structAuctionHouseSearchInfo.html#ad81a5f3c2c58e620673539b6271ff8e9":[6,0,265,9]
+"df/d5e/structAuctionHouseSearchInfo.html#a6f2e07af2aafb8eb53d845acd7f5ad71":[6,0,265,8]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX277 =
 {
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#acd70f755f4a14f5f8749b59c953fdb5d":[6,0,2262,0,4],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ad2d2e3f45a7cb8e9bece6a46036d75b6":[6,0,2262,0,12],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd":[6,0,2262,0,7],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ae13cffcbcec48bb26f5d301a543615f5":[6,0,2262,0,16],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aea20be843c1f9c3402edd903b938292d":[6,0,2262,0,17],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#af547ffffa48ee8d7b0f6babbd0e9875e":[6,0,2262,0,0],
 "db/d31/classspell__hun__scatter__shot.html":[6,0,3132],
 "db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[6,0,3132,2],
 "db/d31/classspell__hun__scatter__shot.html#a5b25d03bb22995e1ba9deb7eec4ee35a":[6,0,3132,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX277 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac68852c868ab0958c7f86204d500aeb6":[6,0,2123,0,4],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aca80d441032da46537d17571357ad74c":[6,0,2123,0,16],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[6,0,2123,0,9],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[6,0,2123,0,19],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ae0bc5a848784255b909b8318e3ae30a2":[6,0,2123,0,14],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aed4c0374e19d2f0a92797c155c69bb84":[6,0,2123,0,29],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#af0c328a94608ad87b394e68289df34d0":[6,0,2123,0,6],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#af3af8fdd86002afb23ea00878b8a7120":[6,0,2123,0,0],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afaf7d79b4bb53ef3001df88e444f6674":[6,0,2123,0,22],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afd7378e117564cd01d47ef068aeb410d":[6,0,2123,0,15]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[6,0,2123,0,19]
 };

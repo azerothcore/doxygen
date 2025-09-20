@@ -43,6 +43,7 @@ var classCreatureAI =
     [ "MovementInform", "d5/d79/classCreatureAI.html#ab0438b14dc1d7f038221d9d7a2f37043", null ],
     [ "OnAuraRemove", "d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d", null ],
     [ "OnCharmed", "d5/d79/classCreatureAI.html#a454866f22b192f0c78301be09ae69a86", null ],
+    [ "OnSpellCastFinished", "d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417", null ],
     [ "OnSpellClick", "d5/d79/classCreatureAI.html#a7c9b51cb63fa6d4673a2bcd88cfd0218", null ],
     [ "OnTeleportUnreacheablePlayer", "d5/d79/classCreatureAI.html#afa92eeb50af35d0c7ab49c90509d0a57", null ],
     [ "OwnerAttacked", "d5/d79/classCreatureAI.html#a0e1c155745ee7fa6a970d38828352ad6", null ],

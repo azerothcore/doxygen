@@ -1,5 +1,11 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[7,0,0,0,1,3,4,11,2,3,7],
+"dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[7,0,0,0,1,3,4,11,2,3,8],
+"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[7,0,0,0,1,3,4,11,2,6],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2915],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[6,0,2915,1],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[6,0,2915,2],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2915,0],
 "dd/dcd/structCreatureFamilyEntry.html":[6,0,923],
 "dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[6,0,923,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2791],
 "dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2791,3],
 "dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2791,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2791,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2791,1],
-"dd/dd6/boss__halion_8cpp.html":[7,0,0,0,1,3,5,1,1,2],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a14e03d152c58b504c232ebb687dec528":[7,0,0,0,1,3,5,1,1,2,31,3],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b1c2e9fbaceb3cb2fb8fd35fae82587":[7,0,0,0,1,3,5,1,1,2,31,2]
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2791,2]
 };

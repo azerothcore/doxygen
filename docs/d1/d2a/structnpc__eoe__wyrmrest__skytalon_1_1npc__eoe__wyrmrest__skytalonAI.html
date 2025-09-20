@@ -193,6 +193,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6afb39c4bf86a1e882cc80fd7ec80a8f inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI" id="r_a1e545b8b2c9f8538d8663ef06c2c1030"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">SpellHitTarget</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
 <tr class="separator:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -476,11 +478,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1468</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686); <span class="comment">// prevents nasty falling animation at despawn</span></div>
 <div class="line"><span class="lineno"> 1469</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(1);</div>
 <div class="line"><span class="lineno"> 1470</span>        }</div>
-<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
+<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassCreature_html_a52d87121f9f834b7dc32e7ad41308f12"><div class="ttname"><a href="../../db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12">Creature::SetDisplayId</a></div><div class="ttdeci">void SetDisplayId(uint32 displayId, float displayScale=1.f) override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3531</div></div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2180</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, and <a class="el" href="../../#l03531">Creature::SetDisplayId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, and <a class="el" href="../../#l03531">Creature::SetDisplayId()</a>.</p>
 
 </div>
 </div>
@@ -541,9 +543,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1464</span>        }</div>
 <div class="ttc" id="aclassCreature_html_a3bc802b096ecae6d1eb8a90ec4c6a72d"><div class="ttname"><a href="../../db/dd5/classCreature.html#a3bc802b096ecae6d1eb8a90ec4c6a72d">Creature::SetDisableGravity</a></div><div class="ttdeci">bool SetDisableGravity(bool disable, bool packetOnly=false, bool updateAnimationTier=true) override</div><div class="ttdoc">Enable or disable the creature's fly mode by adding or removing: MOVEMENTFLAG_FLYING....</div><div class="ttdef"><b>Definition</b> Creature.cpp:3218</div></div>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1707</div></div>
-<div class="ttc" id="aclassUnit_html_a977a73b23899332b5cf6629cb6abae90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a977a73b23899332b5cf6629cb6abae90">Unit::SendMovementFlagUpdate</a></div><div class="ttdeci">void SendMovementFlagUpdate(bool self=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16788</div></div>
+<div class="ttc" id="aclassUnit_html_a977a73b23899332b5cf6629cb6abae90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a977a73b23899332b5cf6629cb6abae90">Unit::SendMovementFlagUpdate</a></div><div class="ttdeci">void SendMovementFlagUpdate(bool self=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16791</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l16788">Unit::SendMovementFlagUpdate()</a>, <a class="el" href="../../#l03218">Creature::SetDisableGravity()</a>, and <a class="el" href="../../#l03531">Creature::SetDisplayId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l16791">Unit::SendMovementFlagUpdate()</a>, <a class="el" href="../../#l03218">Creature::SetDisableGravity()</a>, and <a class="el" href="../../#l03531">Creature::SetDisplayId()</a>.</p>
 
 </div>
 </div>
@@ -556,7 +558,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/df5/classnpc__eoe__wyrmrest__skytalon.html">npc_eoe_wyrmrest_skytalon</a></li><li class="navelem"><a class="el" href="../../d1/d2a/structnpc__eoe__wyrmrest__skytalon_1_1npc__eoe__wyrmrest__skytalonAI.html">npc_eoe_wyrmrest_skytalonAI</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

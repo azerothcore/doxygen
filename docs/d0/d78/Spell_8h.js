@@ -59,6 +59,11 @@ var Spell_8h =
       [ "SPELL_EFFECT_HANDLE_HIT", "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a68d09fc4591462cf7d4f4338753af548", null ],
       [ "SPELL_EFFECT_HANDLE_HIT_TARGET", "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651af4c5b99ead243a7fd18d4925aa310dc4", null ]
     ] ],
+    [ "SpellFinishReason", "d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79", [
+      [ "SPELL_FINISHED_SUCCESSFUL_CAST", "d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79aa20e2ccdafdb980830693d0eb1efded4", null ],
+      [ "SPELL_FINISHED_CANCELED", "d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79aa662eb26a5979fec55cf4069acaa82bd", null ],
+      [ "SPELL_FINISHED_CHANNELING_COMPLETE", "d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79a801f4293e4205d7aaee865810214cf2e", null ]
+    ] ],
     [ "SpellFlags", "d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2", [
       [ "SPELL_FLAG_NORMAL", "d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2abc18f1a292e6163055b15c50854a6cbe", null ],
       [ "SPELL_FLAG_REFLECTED", "d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2a821083f58cdc2d250afcee151634e757", null ],

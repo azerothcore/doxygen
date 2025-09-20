@@ -1,5 +1,11 @@
 var NAVTREEINDEX327 =
 {
+"dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1392,0],
+"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1392,1],
+"dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[6,0,1392,2],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html":[6,0,1850,0],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a03dd56d6801194333288a2edc7ae4eaa":[6,0,1850,0,4],
+"dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0421f258f2cd871ad1f87decf5e23bc8":[6,0,1850,0,6],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a0993cfde30a492ae8dfeeda2e01a1124":[6,0,1850,0,7],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a105f8e66ba3cf752af455c787df7568e":[6,0,1850,0,2],
 "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html#a4a59b95e32acf8920082e4159b7e384c":[6,0,1850,0,0],
@@ -52,12 +58,12 @@ var NAVTREEINDEX327 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,6,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,6,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,6,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,6,2,4],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,6,2,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2736],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2736,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2736,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caadca9e3f7a259baf7c4c346388e9cb4a":[7,0,0,0,1,3,4,9,7,9,1],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caaf9b59e8724e42ea3e99eb7ce68eb524":[7,0,0,0,1,3,4,9,7,9,2],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,9,7,9,6],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,7,9,12],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caec5ad6f4170f697acf9499e4e06bb065":[7,0,0,0,1,3,4,9,7,9,10],
-"dd/d58/boss__twinemperors_8cpp.html#a74fcc9d77216554d31706b93ba8d241a":[7,0,0,0,1,3,4,9,7,12],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,4,9,7,7],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,9,7,7,4],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,4,9,7,7,2],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,4,9,7,7,1]
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,7,9,12]
 };

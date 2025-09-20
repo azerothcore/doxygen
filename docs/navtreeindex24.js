@@ -1,13 +1,17 @@
 var NAVTREEINDEX24 =
 {
+"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[5,0,1,127,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,127,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,115,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[5,0,1,127,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[5,0,1,127,1],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,115,1],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[5,0,1,127,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[6,0,0,115,7],
-"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,1,127,0],
 "d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[6,0,0,115,0],
+"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,1,127,0],
 "d1/d06/classinstance__halls__of__stone.html":[6,0,1308],
 "d1/d06/classinstance__halls__of__stone.html#a784906c7710a216016101cf7a6a915f3":[6,0,1308,2],
 "d1/d06/classinstance__halls__of__stone.html#ad0237cfaf2e48036f45181fd7746df2b":[6,0,1308,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a3378c5e643dbbde893606505c42817b5":[6,0,2590,224],
 "d1/d16/classSpell.html#a33c67fa14e2f2d76f6e0369170fdac2f":[6,0,2590,210],
 "d1/d16/classSpell.html#a33c6addb2f24e2bb07610004409c0686":[6,0,2590,299],
-"d1/d16/classSpell.html#a33ed094e3dd4ee24c1a5169e93047333":[6,0,2590,278],
-"d1/d16/classSpell.html#a3410dfd5def917fb41e5a9c923246d2f":[6,0,2590,146],
-"d1/d16/classSpell.html#a344c0569da9333faba9ab063b35009d9":[6,0,2590,237],
-"d1/d16/classSpell.html#a345dbd5586fd5c63ba90140260572478":[6,0,2590,46],
-"d1/d16/classSpell.html#a34df7adad059a14aa5f3248cca54c7f6":[6,0,2590,164]
+"d1/d16/classSpell.html#a33ed094e3dd4ee24c1a5169e93047333":[6,0,2590,278]
 };

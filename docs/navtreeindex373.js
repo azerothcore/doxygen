@@ -1,5 +1,11 @@
 var NAVTREEINDEX373 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1af402e114c35e7988f31c88d172cc376a":[7,0,0,0,1,3,5,18,45,56],
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1afe817e405fc704deb012bc981e41c4b4":[7,0,0,0,1,3,5,18,45,4],
+"de/da6/zone__dragonblight_8cpp.html#a5f1eac793b3bed36b380734fb1cddb9b":[7,0,0,0,1,3,5,18,59],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1b":[7,0,0,0,1,3,5,18,47],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba0d64583c8b42baf946ae044bd1f20f2c":[7,0,0,0,1,3,5,18,47,0],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba3d72001c4a7b95e6ee5ac0670025e730":[7,0,0,0,1,3,5,18,47,3],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba64c07f7991328575dcb4772f7974b753":[7,0,0,0,1,3,5,18,47,7],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba9cd8ea4614708f216dfa4907e1538dc4":[7,0,0,0,1,3,5,18,47,5],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baa7b1cb1588729a3e7a074312de37fd24":[7,0,0,0,1,3,5,18,47,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX373 =
 "de/dad/classWorldUpdateTime.html#a6b8a8d1b61f9ecec591165fa334972fc":[6,0,4319,7],
 "de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[6,0,4319,5],
 "de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[6,0,4319,2],
-"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[6,0,4319,0],
-"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[6,0,4319,1],
-"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[6,0,4319,4],
-"de/dad/classspell__despawner__self.html":[6,0,2747],
-"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[6,0,2747,3],
-"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[6,0,2747,2],
-"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2747,1]
+"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[6,0,4319,0]
 };

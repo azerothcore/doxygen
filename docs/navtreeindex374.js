@@ -1,5 +1,11 @@
 var NAVTREEINDEX374 =
 {
+"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[6,0,4319,1],
+"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[6,0,4319,4],
+"de/dad/classspell__despawner__self.html":[6,0,2747],
+"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[6,0,2747,3],
+"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[6,0,2747,2],
+"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2747,1],
 "de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2747,0],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,167],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[6,0,167,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX374 =
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,4,0,0,10,2],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,0,0,10,0],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,4,0,0,10,1],
-"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aab33655253951fd4440f14d64a8750c1":[7,0,0,0,1,3,5,4,0,0,10,4],
-"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aabf68ace2646050b567f4a305e8b052f":[7,0,0,0,1,3,5,4,0,0,10,3],
-"de/dc0/boss__bronjahm_8cpp.html#a4917973731274871be6d53aca950379e":[7,0,0,0,1,3,5,4,0,0,11],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,4,0,0,9],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a0f986351e79c5fab3d5759e4a8574ba2":[7,0,0,0,1,3,5,4,0,0,9,3],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2b197a67ddc5aa697170968a192838df":[7,0,0,0,1,3,5,4,0,0,9,5],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,5,4,0,0,9,2]
+"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aab33655253951fd4440f14d64a8750c1":[7,0,0,0,1,3,5,4,0,0,10,4]
 };

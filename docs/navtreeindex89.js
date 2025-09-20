@@ -1,5 +1,9 @@
 var NAVTREEINDEX89 =
 {
+"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[6,0,2098,2],
+"d2/dfd/GuildMgr_8cpp.html":[7,0,0,0,1,2,21,2],
+"d2/dff/boss__balinda_8cpp.html":[7,0,0,0,1,3,2,0,1],
+"d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,0,1,1],
 "d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a192438ec5d0934ed1bec419036328553":[7,0,0,0,1,3,2,0,1,1,0],
 "d2/dff/boss__balinda_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,0,1,3],
 "d2/dff/boss__balinda_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a250eece2d83680dd8c2989dab5b8b3cf":[7,0,0,0,1,3,2,0,1,3,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX89 =
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da54e9dfd244ae6a577a6f98b91dfc8bd0":[7,0,0,0,1,3,5,15,59,63],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da580d466d9e6b22cf0c3842e1b31bffe8":[7,0,0,0,1,3,5,15,59,19],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da59ce8370e9e0681dea90798e78fcb920":[7,0,0,0,1,3,5,15,59,11],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da5ed3507511898ba4ba2445d451c7b602":[7,0,0,0,1,3,5,15,59,30],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da604dea7cbf3c04c998febd8a2deb50a0":[7,0,0,0,1,3,5,15,59,7],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da632babe58c5f6fd70c0c12641e70a2b9":[7,0,0,0,1,3,5,15,59,52],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da691311764d946c5a00e101587c870cd1":[7,0,0,0,1,3,5,15,59,59],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da70087c7e99394874bcda266f82df3f48":[7,0,0,0,1,3,5,15,59,31]
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da5ed3507511898ba4ba2445d451c7b602":[7,0,0,0,1,3,5,15,59,30]
 };

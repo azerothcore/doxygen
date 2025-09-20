@@ -1,7 +1,11 @@
 var NAVTREEINDEX132 =
 {
-"d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[5,0,21,8,25],
+"d4/d99/classMovement_1_1MoveSplineInit.html#aec622d3475640701c147f246e0b38c9a":[5,0,21,8,8],
+"d4/d99/classMovement_1_1MoveSplineInit.html#aec622d3475640701c147f246e0b38c9a":[6,0,7,8,8],
+"d4/d99/classMovement_1_1MoveSplineInit.html#af667cfb398e7048e20960ec92ad050cd":[5,0,21,8,14],
+"d4/d99/classMovement_1_1MoveSplineInit.html#af667cfb398e7048e20960ec92ad050cd":[6,0,7,8,14],
 "d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[6,0,7,8,25],
+"d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[5,0,21,8,25],
 "d4/d99/classMovement_1_1MoveSplineInit.html#afe85fd38450d1f8ca0e6d5f305cbd7fd":[6,0,7,8,15],
 "d4/d99/classMovement_1_1MoveSplineInit.html#afe85fd38450d1f8ca0e6d5f305cbd7fd":[5,0,21,8,15],
 "d4/d99/classnpc__avatar__of__freya.html":[6,0,1623],
@@ -224,8 +228,8 @@ var NAVTREEINDEX132 =
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
-"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2588],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[6,0,2588,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[6,0,2588,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da2/classspell__gen__reduced__above__60.html#ae8ef8bea1a6afa3f810c476e038bacc6":[6,0,3008,0],
 "d4/da3/classboss__grobbulus.html":[6,0,510],
 "d4/da3/classboss__grobbulus.html#acf1b781e86e33a363b68354d34d3c015":[6,0,510,1],
-"d4/da3/classboss__grobbulus.html#ae918614566a0b9979aef4e1aeaac394c":[6,0,510,2],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html":[6,0,3938],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a46f2c2658e6b55f091bf8894f06a787c":[6,0,3938,2],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a593786eb89bf77e05dad4b502ffc1925":[6,0,3938,0],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#aa89401a4c6b1c85e4242bda45933b0ad":[6,0,3938,1]
+"d4/da3/classboss__grobbulus.html#ae918614566a0b9979aef4e1aeaac394c":[6,0,510,2]
 };

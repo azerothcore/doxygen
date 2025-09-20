@@ -201,6 +201,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI" id="r_a1e545b8b2c9f8538d8663ef06c2c1030"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">SpellHitTarget</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
 <tr class="separator:a1e545b8b2c9f8538d8663ef06c2c1030 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -489,11 +491,11 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  711</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_variable" href="../../d1/dab/classnpc__wintergarde__gryphon.html#a56a7973a05061197192111ecf55ef14a">villagerGUID</a>); }</div>
-<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:72</div></div>
+<div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassnpc__wintergarde__gryphon_html_a56a7973a05061197192111ecf55ef14a"><div class="ttname"><a href="../../d1/dab/classnpc__wintergarde__gryphon.html#a56a7973a05061197192111ecf55ef14a">npc_wintergarde_gryphon::villagerGUID</a></div><div class="ttdeci">ObjectGuid villagerGUID</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:769</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, and <a class="el" href="../../#l00769">villagerGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, and <a class="el" href="../../#l00769">villagerGUID</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00713">UpdateAI()</a>.</p>
 
@@ -531,12 +533,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  680</span>    }</div>
 <div class="ttc" id="aclassMotionMaster_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:213</div></div>
 <div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1673</div></div>
-<div class="ttc" id="aclassUnit_html_a549e721b14f15635bd6572505b366e78"><div class="ttname"><a href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20380</div></div>
+<div class="ttc" id="aclassUnit_html_a549e721b14f15635bd6572505b366e78"><div class="ttname"><a href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20383</div></div>
 <div class="ttc" id="astructPosition_html"><div class="ttname"><a href="../../d0/df4/structPosition.html">Position</a></div><div class="ttdef"><b>Definition</b> Position.h:27</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_aa3ed826690378752b1c99578a346cfd9a858ba1dc5b34b3ff5f41a194feea519f"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a858ba1dc5b34b3ff5f41a194feea519f">POINT_LAND</a></div><div class="ttdeci">@ POINT_LAND</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:655</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00655">POINT_LAND</a>, and <a class="el" href="../../#l20380">Unit::SetFacingToObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00655">POINT_LAND</a>, and <a class="el" href="../../#l20383">Unit::SetFacingToObject()</a>.</p>
 
 </div>
 </div>
@@ -570,7 +572,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  673</span>    }</div>
 <div class="ttc" id="aclassCreature_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2180</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, and <a class="el" href="../../#l00072">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -694,7 +696,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassVehicle_html"><div class="ttname"><a href="../../dc/d23/classVehicle.html">Vehicle</a></div><div class="ttdef"><b>Definition</b> Vehicle.h:28</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_aa3ed826690378752b1c99578a346cfd9a6e973decdc10409b3403219f977843e5"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a6e973decdc10409b3403219f977843e5">EVENT_TAKE_OFF</a></div><div class="ttdeci">@ EVENT_TAKE_OFF</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:649</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00649">EVENT_TAKE_OFF</a>, <a class="el" href="../../#l01838">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00053">VEHICLE_SPELL_PARACHUTE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00649">EVENT_TAKE_OFF</a>, <a class="el" href="../../#l01838">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00053">VEHICLE_SPELL_PARACHUTE</a>.</p>
 
 </div>
 </div>
@@ -753,7 +755,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="azone__dragonblight_8cpp_html_aa3ed826690378752b1c99578a346cfd9a2cde59b0a4db66da80a3c1bbf39a0d4f"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a2cde59b0a4db66da80a3c1bbf39a0d4f">EVENT_GET_VILLAGER</a></div><div class="ttdeci">@ EVENT_GET_VILLAGER</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:650</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_aa3ed826690378752b1c99578a346cfd9acc69d8cbd4aa5a4f52f3126bae9e313f"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9acc69d8cbd4aa5a4f52f3126bae9e313f">SPELL_DROP_OFF_VILLAGER</a></div><div class="ttdeci">@ SPELL_DROP_OFF_VILLAGER</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:642</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01909">EMOTE_ONESHOT_CHEER</a>, <a class="el" href="../../#l00650">EVENT_GET_VILLAGER</a>, <a class="el" href="../../#l01838">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00642">SPELL_DROP_OFF_VILLAGER</a>, and <a class="el" href="../../#l00769">villagerGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01909">EMOTE_ONESHOT_CHEER</a>, <a class="el" href="../../#l00650">EVENT_GET_VILLAGER</a>, <a class="el" href="../../#l01838">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00642">SPELL_DROP_OFF_VILLAGER</a>, and <a class="el" href="../../#l00769">villagerGUID</a>.</p>
 
 </div>
 </div>
@@ -831,7 +833,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructPosition_html_aa547307fa2e6acedbcebda20a98a0fcf"><div class="ttname"><a href="../../d0/df4/structPosition.html#aa547307fa2e6acedbcebda20a98a0fcf">Position::SetOrientation</a></div><div class="ttdeci">void SetOrientation(float orientation)</div><div class="ttdef"><b>Definition</b> Position.h:116</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_aa3ed826690378752b1c99578a346cfd9a5d2a7910d1b37d273b0cf215d624b394"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a5d2a7910d1b37d273b0cf215d624b394">POINT_TAKE_OFF</a></div><div class="ttdeci">@ POINT_TAKE_OFF</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:656</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00650">EVENT_GET_VILLAGER</a>, <a class="el" href="../../#l00649">EVENT_TAKE_OFF</a>, <a class="el" href="../../#l00648">EVENT_VEHICLE_GET</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00711">getVillager()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00355">MOVE_FLIGHT</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00656">POINT_TAKE_OFF</a>, <a class="el" href="../../#l00059">Position::RelocateOffset()</a>, <a class="el" href="../../#l00849">Object::RemoveFlag()</a>, <a class="el" href="../../#l03218">Creature::SetDisableGravity()</a>, <a class="el" href="../../#l03383">Creature::SetHover()</a>, <a class="el" href="../../#l00116">Position::SetOrientation()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00117">UNIT_FIELD_FLAGS</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00650">EVENT_GET_VILLAGER</a>, <a class="el" href="../../#l00649">EVENT_TAKE_OFF</a>, <a class="el" href="../../#l00648">EVENT_VEHICLE_GET</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00711">getVillager()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00355">MOVE_FLIGHT</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00656">POINT_TAKE_OFF</a>, <a class="el" href="../../#l00059">Position::RelocateOffset()</a>, <a class="el" href="../../#l00849">Object::RemoveFlag()</a>, <a class="el" href="../../#l03218">Creature::SetDisableGravity()</a>, <a class="el" href="../../#l03383">Creature::SetHover()</a>, <a class="el" href="../../#l00116">Position::SetOrientation()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00117">UNIT_FIELD_FLAGS</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
@@ -869,7 +871,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dab/classnpc__wintergarde__gryphon.html">npc_wintergarde_gryphon</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

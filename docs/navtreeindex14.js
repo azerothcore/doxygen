@@ -1,5 +1,9 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1bc5005a81b63f4e82a93bfc74e32f8c":[7,0,0,0,1,2,8,1,11,15,57],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1cfcf5c2a217e89728fcd8e3bfc36354":[7,0,0,0,1,2,8,1,11,15,0],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a239d48dcf636b831b5312fc4f5258a38":[7,0,0,0,1,2,8,1,11,15,53],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2457cf011017828bba1768272df4bdd5":[7,0,0,0,1,2,8,1,11,15,89],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a247675ed22d89c8239eac550a98e1a1e":[7,0,0,0,1,2,8,1,11,15,55],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a25af5346f2defcc366e37e084f374fad":[7,0,0,0,1,2,8,1,11,15,15],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a261e936a90a1bbb0b599d4e8e5e24b85":[7,0,0,0,1,2,8,1,11,15,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#aaed6604e39dd977f4e7c671052d718e8":[6,0,4054,3],
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#acd5551b09882d720608bdec6036dee9a":[6,0,4054,2],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html":[6,0,1620,0],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a1edc249808e1ebdb88605c56e19c272a":[6,0,1620,0,4],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a2b0a176dba865e90bdc22727b2860509":[6,0,1620,0,1],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a32e6fa30e4c56fdd055a728ba7227beb":[6,0,1620,0,0],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a599679f93e4fc4b3b9aa00ea33dcb047":[6,0,1620,0,8],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a7e9c49d8dc47663e70c8fcbed68746e5":[6,0,1620,0,2]
+"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a1edc249808e1ebdb88605c56e19c272a":[6,0,1620,0,4]
 };

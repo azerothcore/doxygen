@@ -1,5 +1,11 @@
 var NAVTREEINDEX314 =
 {
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fac19511a30a99f3d0cb9eafbce3745768":[7,0,0,0,1,3,7,3,2,5,1],
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fadfeb06c530d78f6c5bfdc414ae505622":[7,0,0,0,1,3,7,3,2,5,0],
+"dc/dae/gruuls__lair_8h.html#a6cc1f699014ee48a56647e53e9d1440a":[7,0,0,0,1,3,7,3,2,1],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,3,2,3],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea61f2ef319d5203666bd8a86b5b9a2603":[7,0,0,0,1,3,7,3,2,3,0],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea7e440984b10a7a2300c1caab77949a74":[7,0,0,0,1,3,7,3,2,3,1],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea8bd4e976e7d8d6748ac16eeea3862a2b":[7,0,0,0,1,3,7,3,2,3,3],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eab39dfed80a659ee419a65a9f70cfecec":[7,0,0,0,1,3,7,3,2,3,2],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eaf12a0c8363fc94afbd555850e6a2482a":[7,0,0,0,1,3,7,3,2,3,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX314 =
 "dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3602,2],
 "dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3602,1],
 "dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3602,0],
-"dc/db5/structCreatureTextLocale.html":[6,0,937],
-"dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,937,0],
-"dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html":[7,0,0,0,1,3,7,5,3,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,3,1,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,3,1,1,3],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,3,1,1,0]
+"dc/db5/structCreatureTextLocale.html":[6,0,937]
 };

@@ -1,9 +1,15 @@
 var NAVTREEINDEX263 =
 {
-"da/d97/classWorldPackets_1_1CompactArray.html#adaade1e09d979a6e98b90253f442a9e5":[5,0,31,16,7],
+"da/d97/classWorldPackets_1_1CompactArray.html#a757f7d94e52fa821dc1fdb03877574f3":[5,0,31,16,2],
+"da/d97/classWorldPackets_1_1CompactArray.html#a757f7d94e52fa821dc1fdb03877574f3":[6,0,11,16,2],
+"da/d97/classWorldPackets_1_1CompactArray.html#a75f0995b55269fc2d0bca87a0294fcb3":[5,0,31,16,8],
+"da/d97/classWorldPackets_1_1CompactArray.html#a75f0995b55269fc2d0bca87a0294fcb3":[6,0,11,16,8],
+"da/d97/classWorldPackets_1_1CompactArray.html#a85ef9a03e561e385f41de88e6e0f98c0":[5,0,31,16,13],
+"da/d97/classWorldPackets_1_1CompactArray.html#a85ef9a03e561e385f41de88e6e0f98c0":[6,0,11,16,13],
 "da/d97/classWorldPackets_1_1CompactArray.html#adaade1e09d979a6e98b90253f442a9e5":[6,0,11,16,7],
-"da/d97/classWorldPackets_1_1CompactArray.html#ae213ad313a4b0688763e882a2010c494":[6,0,11,16,3],
+"da/d97/classWorldPackets_1_1CompactArray.html#adaade1e09d979a6e98b90253f442a9e5":[5,0,31,16,7],
 "da/d97/classWorldPackets_1_1CompactArray.html#ae213ad313a4b0688763e882a2010c494":[5,0,31,16,3],
+"da/d97/classWorldPackets_1_1CompactArray.html#ae213ad313a4b0688763e882a2010c494":[6,0,11,16,3],
 "da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[5,0,31,16,11],
 "da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[6,0,11,16,11],
 "da/d97/classgo__sacred__fire__of__life.html":[6,0,1173],
@@ -243,11 +249,5 @@ var NAVTREEINDEX263 =
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39":[6,0,697,0,10],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[6,0,697,0,9],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[6,0,697,0,19],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[6,0,697,0,14],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[6,0,697,0,12],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[6,0,697,0,20],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a87663e3f6d1c87c9def8eb1852adc029":[6,0,697,0,17],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[6,0,697,0,16],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[6,0,697,0,3],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a9cfaa3b61da9a7aad88c2d2a537f0821":[6,0,697,0,21]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[6,0,697,0,14]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX297 =
 {
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cabc33b11540726249fc549e501d963cc4":[7,0,0,0,1,3,4,9,11,10,3],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7165f0a4b15a18b290c92c53991b33e":[7,0,0,0,1,3,4,9,11,10,23],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7fe4a075b9a9af0d891907d2f36a97b":[7,0,0,0,1,3,4,9,11,10,7],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[7,0,0,0,1,3,4,9,11,10,26],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cae2406a11d1bdb8b16b814464c4e4aa3f":[7,0,0,0,1,3,4,9,11,10,0],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf0e20cad46ac003fdde837c171d8e9d3":[7,0,0,0,1,3,4,9,11,10,19],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf1e07bb745ccec2dbcf6b568b94d6a50":[7,0,0,0,1,3,4,9,11,10,11],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806":[7,0,0,0,1,3,4,9,11,10,27],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,4,9,11,9],
@@ -78,12 +84,12 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1526,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1526,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1526,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,5,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1ce50fa9f251bf1d5270caca23d7dc1":[6,0,666,0,13],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1f3bf328a3729e0c667bbbe9188b104":[6,0,666,0,22],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af5d86d91401c2543128866524ff4a44f":[6,0,666,0,2],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#afd770319814d46976e3d946b43e909a4":[6,0,666,0,16],
-"db/df7/EventEmitter_8h.html":[7,0,0,0,0,15,8],
-"db/df7/structnpc__twilight__volunteer.html":[6,0,2218],
-"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2218,0],
-"db/df7/structnpc__twilight__volunteer.html#a4f27ae97ccf2c349a6352a0f5ba1681a":[6,0,2218,4],
-"db/df7/structnpc__twilight__volunteer.html#a8350dba2c41754a2e5d15c94731ef27d":[6,0,2218,7],
-"db/df7/structnpc__twilight__volunteer.html#a93288a45982b172c201e2442a4c91114":[6,0,2218,5]
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#afd770319814d46976e3d946b43e909a4":[6,0,666,0,16]
 };

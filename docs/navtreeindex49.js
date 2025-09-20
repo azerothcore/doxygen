@@ -1,5 +1,9 @@
 var NAVTREEINDEX49 =
 {
+"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a37800436af47a8f6fbc6f6eb25eab9f9":[6,0,2264,0,1],
+"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a588ed86f5b8316feafd938d85ac65aa0":[6,0,2264,0,2],
+"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#afd54b130725aa724b80f150f968ce09d":[6,0,2264,0,0],
+"d1/dfb/classUnchainedMagicTargetSelector.html":[6,0,4212],
 "d1/dfb/classUnchainedMagicTargetSelector.html#a35a7981ce5495cba8b3a5391e4031431":[6,0,4212,2],
 "d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4212,0],
 "d1/dfb/classUnchainedMagicTargetSelector.html#af28ce8f46154ae6152e9025775a7f84f":[6,0,4212,1],
@@ -227,8 +231,8 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[7,0,0,0,1,2,38,0,17,1,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d0e/CryptoConstants_8h.html":[7,0,0,0,0,3,9],
 "d2/d0e/Errors_8h.html":[7,0,0,0,0,5,1],
 "d2/d0e/Errors_8h.html#a07aa40e12479c740872d1ad7f55acbbc":[7,0,0,0,0,5,1,18],
-"d2/d0e/Errors_8h.html#a1990519ae97867f1a629699d00874fb2":[7,0,0,0,0,5,1,15],
-"d2/d0e/Errors_8h.html#a257b055b35d21943eb2a144cccd26429":[7,0,0,0,0,5,1,11],
-"d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea":[7,0,0,0,0,5,1,9],
-"d2/d0e/Errors_8h.html#a4dc49effc31d570798463c106549b1cb":[7,0,0,0,0,5,1,20],
-"d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a":[7,0,0,0,0,5,1,0]
+"d2/d0e/Errors_8h.html#a1990519ae97867f1a629699d00874fb2":[7,0,0,0,0,5,1,15]
 };

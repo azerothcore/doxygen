@@ -1,5 +1,11 @@
 var NAVTREEINDEX274 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a8f90790c6bb986c22688700bf880cf84":[7,0,0,0,1,3,5,4,0,1,4,1],
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516abc79c7968016107148a4e87df3e5dc88":[7,0,0,0,1,3,5,4,0,1,4,3],
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516abd73e5d92dabc0698fb7e80a37148d92":[7,0,0,0,1,3,5,4,0,1,4,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af9746f716f41fa3abee73388e245ba1e":[7,0,0,0,1,3,5,4,0,1,4,0],
+"db/d09/boss__devourer__of__souls_8cpp.html#a5a82b832069605e2b9bb54e94752d170":[7,0,0,0,1,3,5,4,0,1,8],
+"db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220":[7,0,0,0,1,3,5,4,0,1,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220ac2d509bd2b8f351f25ae2be6b18c41f1":[7,0,0,0,1,3,5,4,0,1,3,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220ade64fe1a3c07b22006f0212281610010":[7,0,0,0,1,3,5,4,0,1,3,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#a8a0b5200727c3a9b1c2dc63a94c0d220af653577a16ea109602a4e47c24cbb7d6":[7,0,0,0,1,3,5,4,0,1,3,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX274 =
 "db/d14/classLootTemplate.html#afb33c896a89f0fe14e2b565bb746119e":[6,0,1458,5],
 "db/d14/classgo__harpoon__canon.html":[6,0,1150],
 "db/d14/classgo__harpoon__canon.html#aa7651e111cade00bbbdb9d0feced03e6":[6,0,1150,0],
-"db/d14/classgo__harpoon__canon.html#ad0098bafd1233636bde181312126e65f":[6,0,1150,1],
-"db/d14/classnpc__ulduar__vx001.html":[6,0,2251],
-"db/d14/classnpc__ulduar__vx001.html#acdab817141b851deb09861230323ee58":[6,0,2251,2],
-"db/d14/classnpc__ulduar__vx001.html#ae8393c02c94a94b0847e0c7837bc5469":[6,0,2251,1],
-"db/d14/structIpLocationRecord.html":[6,0,1371],
-"db/d14/structIpLocationRecord.html#a10ffefef6ba7d81a23d5d29bc2ee599d":[6,0,1371,1],
-"db/d14/structIpLocationRecord.html#a1dba2f8a7697c7e6fd427089d556c19a":[6,0,1371,0]
+"db/d14/classgo__harpoon__canon.html#ad0098bafd1233636bde181312126e65f":[6,0,1150,1]
 };

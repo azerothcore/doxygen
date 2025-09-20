@@ -1,5 +1,11 @@
 var NAVTREEINDEX369 =
 {
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a53c900f7bfa720bfdfc22531ac916c5b":[6,0,1701,0,10],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a6b860a2b93654f92fb821b8907a3cc91":[6,0,1701,0,8],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a81a72db27d196b2fb6696b6466d26449":[6,0,1701,0,16],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a85cd2486bad6cda8867eba29538842e9":[6,0,1701,0,14],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a91131055a31dc828ccb2e3ba087d5062":[6,0,1701,0,5],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106":[6,0,1701,0,20],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a9af9323b3bf6df4a85445d9859609c78":[6,0,1701,0,23],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aa0d89f971b6e210d8550e89839e28f44":[6,0,1701,0,1],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aace73f2e878ebaf30634431f9f1068ab":[6,0,1701,0,22],
@@ -243,11 +249,5 @@ var NAVTREEINDEX369 =
 "de/d9d/classinstance__pit__of__saron.html#a84526dbb5ac7eb6ff5ebe24ed339826b":[6,0,1325,1],
 "de/d9d/classnpc__prof__alchemy.html":[6,0,2060],
 "de/d9d/classnpc__prof__alchemy.html#a2377df97a293fb3fcbe7f70d4d815b75":[6,0,2060,3],
-"de/d9d/classnpc__prof__alchemy.html#a2d4c7337b40be323a384a9e755fc3145":[6,0,2060,4],
-"de/d9d/classnpc__prof__alchemy.html#a43ea842214fc507c34586d12df8f7fea":[6,0,2060,0],
-"de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[6,0,2060,5],
-"de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[6,0,2060,1],
-"de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[6,0,2060,2],
-"de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[6,0,2060,6],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html":[6,0,3061]
+"de/d9d/classnpc__prof__alchemy.html#a2d4c7337b40be323a384a9e755fc3145":[6,0,2060,4]
 };

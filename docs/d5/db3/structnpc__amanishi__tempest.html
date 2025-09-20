@@ -304,6 +304,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa84f573bdb0e556cf911d0a00f6ed5fb inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a864fed7b6710808761b3b0d4c4a518fd inherit pub_methods_classCreatureAI" id="r_a864fed7b6710808761b3b0d4c4a518fd"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a864fed7b6710808761b3b0d4c4a518fd">SummonedCreatureDespawnAll</a> ()</td></tr>
 <tr class="separator:a864fed7b6710808761b3b0d4c4a518fd inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -644,11 +646,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  688</span>        <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">ScriptedAI::EnterEvadeMode</a>(why);</div>
 <div class="line"><span class="lineno">  689</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
 <div class="line"><span class="lineno">  690</span>    }</div>
-<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:75</div></div>
-<div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:214</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:76</div></div>
+<div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:215</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a05da7a474b80d725c991dde9d24df4a4"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4">TaskScheduler::CancelAll</a></div><div class="ttdeci">TaskScheduler &amp; CancelAll()</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:45</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00214">CreatureAI::EnterEvadeMode()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00215">CreatureAI::EnterEvadeMode()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00681">SummonedCreatureEvade()</a>.</p>
 
@@ -735,7 +737,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="azulaman_8cpp_html_a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25">GROUP_AKILZON_GAUNTLET</a></div><div class="ttdeci">@ GROUP_AKILZON_GAUNTLET</div><div class="ttdef"><b>Definition</b> zulaman.cpp:634</div></div>
 <div class="ttc" id="azulaman_8cpp_html_a1afe75d1237125e79ceb9bc5ee72f3d9a7f4e66bb0a1b5b2705975420f645b16e"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a></div><div class="ttdeci">@ SPELL_THUNDERCLAP</div><div class="ttdef"><b>Definition</b> zulaman.cpp:637</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00634">GROUP_AKILZON_GAUNTLET</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00637">SPELL_THUNDERCLAP</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00634">GROUP_AKILZON_GAUNTLET</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00637">SPELL_THUNDERCLAP</a>.</p>
 
 </div>
 </div>
@@ -807,7 +809,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  648</span>    }</div>
 <div class="ttc" id="aclassSummonList_html_a902c1d4535ccdb1b82801547a94151bb"><div class="ttname"><a href="../../d6/df5/classSummonList.html#a902c1d4535ccdb1b82801547a94151bb">SummonList::DespawnAll</a></div><div class="ttdeci">void DespawnAll(uint32 delay=0)</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:71</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00715">_summons</a>, <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00071">SummonList::DespawnAll()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00715">_summons</a>, <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00071">SummonList::DespawnAll()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00673">DoAction()</a>.</p>
 
@@ -853,7 +855,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="azulaman_8cpp_html_a1afe75d1237125e79ceb9bc5ee72f3d9a0947710156d8a33ca49bb50006eaeb9b"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a0947710156d8a33ca49bb50006eaeb9b">SPELL_SUMMON_EAGLE</a></div><div class="ttdeci">@ SPELL_SUMMON_EAGLE</div><div class="ttdef"><b>Definition</b> zulaman.cpp:635</div></div>
 <div class="ttc" id="azulaman_8cpp_html_a1afe75d1237125e79ceb9bc5ee72f3d9a2cbca2a74cf6c73fc2fb28813653c694"><div class="ttname"><a href="../../da/dea/zulaman_8cpp.html#a1afe75d1237125e79ceb9bc5ee72f3d9a2cbca2a74cf6c73fc2fb28813653c694">SPELL_SUMMON_WARRIOR</a></div><div class="ttdeci">@ SPELL_SUMMON_WARRIOR</div><div class="ttdef"><b>Definition</b> zulaman.cpp:636</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00634">GROUP_AKILZON_GAUNTLET</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00635">SPELL_SUMMON_EAGLE</a>, and <a class="el" href="../../#l00636">SPELL_SUMMON_WARRIOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00634">GROUP_AKILZON_GAUNTLET</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00635">SPELL_SUMMON_EAGLE</a>, and <a class="el" href="../../#l00636">SPELL_SUMMON_WARRIOR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00673">DoAction()</a>.</p>
 
@@ -887,10 +889,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  682</span>    {</div>
 <div class="line"><span class="lineno">  683</span>        <a class="code hl_function" href="../../d5/db3/structnpc__amanishi__tempest.html#a66c787bd318fdcad83b7b5008b4979f9">EnterEvadeMode</a>(<a class="code hl_enumvalue" href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027">EVADE_REASON_OTHER</a>);</div>
 <div class="line"><span class="lineno">  684</span>    }</div>
-<div class="ttc" id="aclassCreatureAI_html_a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027">CreatureAI::EVADE_REASON_OTHER</a></div><div class="ttdeci">@ EVADE_REASON_OTHER</div><div class="ttdef"><b>Definition</b> CreatureAI.h:93</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027">CreatureAI::EVADE_REASON_OTHER</a></div><div class="ttdeci">@ EVADE_REASON_OTHER</div><div class="ttdef"><b>Definition</b> CreatureAI.h:94</div></div>
 <div class="ttc" id="astructnpc__amanishi__tempest_html_a66c787bd318fdcad83b7b5008b4979f9"><div class="ttname"><a href="../../d5/db3/structnpc__amanishi__tempest.html#a66c787bd318fdcad83b7b5008b4979f9">npc_amanishi_tempest::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why) override</div><div class="ttdef"><b>Definition</b> zulaman.cpp:686</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00686">EnterEvadeMode()</a>, and <a class="el" href="../../#l00093">CreatureAI::EVADE_REASON_OTHER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00686">EnterEvadeMode()</a>, and <a class="el" href="../../#l00094">CreatureAI::EVADE_REASON_OTHER</a>.</p>
 
 </div>
 </div>
@@ -928,7 +930,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="astructScriptedAI_html_aff5fd4e142a5cf930ffacbfc7259cce5"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:218</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00218">ScriptedAI::UpdateAI()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00218">ScriptedAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -990,7 +992,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/db3/structnpc__amanishi__tempest.html">npc_amanishi_tempest</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,9 @@
 var NAVTREEINDEX48 =
 {
+"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28feb":[7,0,0,0,1,3,9,2,144],
+"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28feba145745e0c42f68f0eb6b97a99d4f9206":[7,0,0,0,1,3,9,2,144,0],
+"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28feba310e9d9e31d607796e3765765665ae7f":[7,0,0,0,1,3,9,2,144,1],
+"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28febad6a9e10c5be0d84914192180dd1c1602":[7,0,0,0,1,3,9,2,144,2],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306":[7,0,0,0,1,3,9,2,178],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306a0e716768b8b569aa1680571370c2109b":[7,0,0,0,1,3,9,2,178,0],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306a52f2c779f7f0ec9d4d1ff881df2aa3ea":[7,0,0,0,1,3,9,2,178,1],
@@ -218,12 +222,12 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[6,0,3011,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[6,0,3011,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3011,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX48 =
 "d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9":[7,0,0,0,1,2,42,3,13,4],
 "d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab":[7,0,0,0,1,2,42,3,13,0],
 "d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3":[7,0,0,0,1,2,42,3,13,3],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html":[6,0,2264,0],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a37800436af47a8f6fbc6f6eb25eab9f9":[6,0,2264,0,1],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a588ed86f5b8316feafd938d85ac65aa0":[6,0,2264,0,2],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#afd54b130725aa724b80f150f968ce09d":[6,0,2264,0,0],
-"d1/dfb/classUnchainedMagicTargetSelector.html":[6,0,4212]
+"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html":[6,0,2264,0]
 };

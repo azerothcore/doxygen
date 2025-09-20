@@ -1,5 +1,9 @@
 var NAVTREEINDEX107 =
 {
+"d3/db4/structboss__julianne.html#acdc787ba6908e716517683a8536ecf3e":[6,0,560,13],
+"d3/db4/structboss__julianne.html#ad1e1d5bb27fed12a203c8b10f6ea92a6":[6,0,560,11],
+"d3/db4/structboss__julianne.html#af2499ba9d9c25555c82d8d7ae95c7249":[6,0,560,3],
+"d3/db5/classTicketScript.html":[6,0,4169],
 "d3/db5/classTicketScript.html#a3436bbc78425bf5144c81f6309060b33":[6,0,4169,3],
 "d3/db5/classTicketScript.html#a3535e5592bc5f9ceb6b642b80a4f46b7":[6,0,4169,6],
 "d3/db5/classTicketScript.html#abd4d9cdf0fd99c10d6d86c395adecb9a":[6,0,4169,4],
@@ -55,12 +59,12 @@ var NAVTREEINDEX107 =
 "d3/db9/structThreatCalcHelper.html":[6,0,4162],
 "d3/db9/structThreatCalcHelper.html#a0f3da2af1c68a535ac2396dd600ee00b":[6,0,4162,0],
 "d3/db9/structThreatCalcHelper.html#a86dca4bc12138bef3dd53d4b3356f5d2":[6,0,4162,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,6,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,31,6,12],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,6,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[6,0,11,6,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,31,6,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,6,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[6,0,11,6,12,0],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,6,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[6,0,11,6,12,2],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,31,6,12,2],
 "d3/dbb/Battleground_8cpp.html":[7,0,0,0,1,2,8,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX107 =
 "d3/dc6/classnpc__death__ravager.html#a284d0b8ccf902d3f03ddfc6750fe0f1c":[6,0,1736,2],
 "d3/dc6/classnpc__death__ravager.html#a6aa04a28ce5aa0e467e638c8ffe11657":[6,0,1736,1],
 "d3/dc8/classat__zulgurub__bloodfire__pit__speech.html":[6,0,251],
-"d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a880058a08d7da3b8d3062a8bc17367a4":[6,0,251,0],
-"d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a8f1e477942ba9a5f653077632a98930f":[6,0,251,1],
-"d3/dc8/classboss__okthor.html":[6,0,642],
-"d3/dc8/classboss__okthor.html#a15d13a6c879ae260c0676fd4a4aff645":[6,0,642,2],
-"d3/dc8/classboss__okthor.html#a9e75c1da85a6db6692dfabfbb3ee3e87":[6,0,642,1]
+"d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a880058a08d7da3b8d3062a8bc17367a4":[6,0,251,0]
 };

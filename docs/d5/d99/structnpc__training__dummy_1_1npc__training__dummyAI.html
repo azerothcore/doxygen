@@ -298,6 +298,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a864fed7b6710808761b3b0d4c4a518fd inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI" id="r_a1b57ae64a42c982865b94cd889a18bd4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a1b57ae64a42c982865b94cd889a18bd4">SummonedCreatureEvade</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:a1b57ae64a42c982865b94cd889a18bd4 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI" id="r_a50e74b5142d67ea6cb22dd4c0ef6d417"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a50e74b5142d67ea6cb22dd4c0ef6d417">OnSpellCastFinished</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *, <a class="el" href="../../d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79">SpellFinishReason</a>)</td></tr>
+<tr class="separator:a50e74b5142d67ea6cb22dd4c0ef6d417 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI" id="r_a57b18b733f139df7116009c73a78fd4b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a57b18b733f139df7116009c73a78fd4b">AttackedBy</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="separator:a57b18b733f139df7116009c73a78fd4b inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe73fad7f8eeedeb636cb77790bffff4 inherit pub_methods_classCreatureAI" id="r_afe73fad7f8eeedeb636cb77790bffff4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4">IsEscorted</a> ()</td></tr>
@@ -566,11 +568,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97aba465dfeb8a8eb233b90d6beb5414b8f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aba465dfeb8a8eb233b90d6beb5414b8f">SPELL_EFFECT_KNOCK_BACK</a></div><div class="ttdeci">@ SPELL_EFFECT_KNOCK_BACK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:887</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a91d505a1e789c6ea6a338f3a3c85b6b9a5da3c36e87dda6bd23b3c55edd0830d2"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a91d505a1e789c6ea6a338f3a3c85b6b9a5da3c36e87dda6bd23b3c55edd0830d2">IMMUNITY_EFFECT</a></div><div class="ttdeci">@ IMMUNITY_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1405</div></div>
 <div class="ttc" id="aclassCreature_html_a6faf27886b0f5bd664cd52bc32dc983c"><div class="ttname"><a href="../../db/dd5/classCreature.html#a6faf27886b0f5bd664cd52bc32dc983c">Creature::SetCombatMovement</a></div><div class="ttdeci">void SetCombatMovement(bool allowMovement)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3869</div></div>
-<div class="ttc" id="aclassUnit_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition</b> Unit.cpp:13484</div></div>
+<div class="ttc" id="aclassUnit_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition</b> Unit.cpp:13487</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l13484">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l01405">IMMUNITY_EFFECT</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l03869">Creature::SetCombatMovement()</a>, and <a class="el" href="../../#l00887">SPELL_EFFECT_KNOCK_BACK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l13487">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l01405">IMMUNITY_EFFECT</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l03869">Creature::SetCombatMovement()</a>, and <a class="el" href="../../#l00887">SPELL_EFFECT_KNOCK_BACK</a>.</p>
 
 </div>
 </div>
@@ -666,10 +668,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  345</span> </div>
 <div class="line"><span class="lineno">  346</span>            <a class="code hl_function" href="../../d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html#af63f500cb3179964c90afab0d4a2c9b7">Reset</a>();</div>
 <div class="line"><span class="lineno">  347</span>        }</div>
-<div class="ttc" id="aclassCreatureAI_html_a7cd0b6bf7ee616d4d4e98045f7b808c0"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7cd0b6bf7ee616d4d4e98045f7b808c0">CreatureAI::_EnterEvadeMode</a></div><div class="ttdeci">bool _EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:309</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a7cd0b6bf7ee616d4d4e98045f7b808c0"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7cd0b6bf7ee616d4d4e98045f7b808c0">CreatureAI::_EnterEvadeMode</a></div><div class="ttdeci">bool _EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:310</div></div>
 <div class="ttc" id="astructnpc__training__dummy_1_1npc__training__dummyAI_html_af63f500cb3179964c90afab0d4a2c9b7"><div class="ttname"><a href="../../d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html#af63f500cb3179964c90afab0d4a2c9b7">npc_training_dummy::npc_training_dummyAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:335</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00309">CreatureAI::_EnterEvadeMode()</a>, and <a class="el" href="../../#l00335">Reset()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00310">CreatureAI::_EnterEvadeMode()</a>, and <a class="el" href="../../#l00335">Reset()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00355">UpdateAI()</a>.</p>
 
@@ -780,11 +782,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  365</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  366</span>                <a class="code hl_variable" href="../../d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html#a443f2f7de257af473d6e9793f34a2071">resetTimer</a> -= diff;</div>
 <div class="line"><span class="lineno">  367</span>        }</div>
-<div class="ttc" id="aclassCreatureAI_html_a48b996440be01f98686cd088857a5dbbac7c78f8b470c699fbd3827545ba1c5d6"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbbac7c78f8b470c699fbd3827545ba1c5d6">CreatureAI::EVADE_REASON_NO_HOSTILES</a></div><div class="ttdeci">@ EVADE_REASON_NO_HOSTILES</div><div class="ttdef"><b>Definition</b> CreatureAI.h:89</div></div>
-<div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:286</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a48b996440be01f98686cd088857a5dbbac7c78f8b470c699fbd3827545ba1c5d6"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbbac7c78f8b470c699fbd3827545ba1c5d6">CreatureAI::EVADE_REASON_NO_HOSTILES</a></div><div class="ttdeci">@ EVADE_REASON_NO_HOSTILES</div><div class="ttdef"><b>Definition</b> CreatureAI.h:90</div></div>
+<div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="astructnpc__training__dummy_1_1npc__training__dummyAI_html_adb1de124bdb2a986efcfcfc287b6d824"><div class="ttname"><a href="../../d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html#adb1de124bdb2a986efcfcfc287b6d824">npc_training_dummy::npc_training_dummyAI::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why) override</div><div class="ttdef"><b>Definition</b> npcs_special.cpp:341</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00341">EnterEvadeMode()</a>, <a class="el" href="../../#l00089">CreatureAI::EVADE_REASON_NO_HOSTILES</a>, <a class="el" href="../../#l00333">resetTimer</a>, and <a class="el" href="../../#l00286">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00341">EnterEvadeMode()</a>, <a class="el" href="../../#l00090">CreatureAI::EVADE_REASON_NO_HOSTILES</a>, <a class="el" href="../../#l00333">resetTimer</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -814,7 +816,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dea/classnpc__training__dummy.html">npc_training_dummy</a></li><li class="navelem"><a class="el" href="../../d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html">npc_training_dummyAI</a></li>
-    <li class="footer">Generated on Fri Sep 19 2025 06:23:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 20 2025 06:21:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

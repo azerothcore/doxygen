@@ -1,5 +1,11 @@
 var NAVTREEINDEX275 =
 {
+"db/d14/classnpc__ulduar__vx001.html":[6,0,2251],
+"db/d14/classnpc__ulduar__vx001.html#acdab817141b851deb09861230323ee58":[6,0,2251,2],
+"db/d14/classnpc__ulduar__vx001.html#ae8393c02c94a94b0847e0c7837bc5469":[6,0,2251,1],
+"db/d14/structIpLocationRecord.html":[6,0,1371],
+"db/d14/structIpLocationRecord.html#a10ffefef6ba7d81a23d5d29bc2ee599d":[6,0,1371,1],
+"db/d14/structIpLocationRecord.html#a1dba2f8a7697c7e6fd427089d556c19a":[6,0,1371,0],
 "db/d14/structIpLocationRecord.html#a844dfff114f6ce64b79c459527965bfb":[6,0,1371,5],
 "db/d14/structIpLocationRecord.html#a97d36332086a339e07b73955f23acd57":[6,0,1371,4],
 "db/d14/structIpLocationRecord.html#a9b54a497801e9da396955893473eb7da":[6,0,1371,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX275 =
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a836d605f4320ba9fd49cb60d6a1e032d":[6,0,2074,0,3],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a9dae9cb2c6f18d89d06cfa72b98d36f2":[6,0,2074,0,5],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#aaa9b5728fcdb379849434385b3501251":[6,0,2074,0,8],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#af5783316983b622f20d8c677f2858111":[6,0,2074,0,7],
-"db/d1e/structgo__magtheridons__head.html":[6,0,1158],
-"db/d1e/structgo__magtheridons__head.html#a28682d161074b71e1f2d70236ff2b897":[6,0,1158,2],
-"db/d1e/structgo__magtheridons__head.html#a84fd97c0dfc2826a0b7795a9fbd70cd5":[6,0,1158,1],
-"db/d1e/structgo__magtheridons__head.html#af5816b083f1856196bec7a75f0a995f3":[6,0,1158,0],
-"db/d1e/structnpc__the__biggest__tree.html":[6,0,2175],
-"db/d1e/structnpc__the__biggest__tree.html#a36c170fb178a19256fd41fb2cbbb7830":[6,0,2175,4]
+"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#af5783316983b622f20d8c677f2858111":[6,0,2074,0,7]
 };

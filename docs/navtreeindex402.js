@@ -1,5 +1,11 @@
 var NAVTREEINDEX402 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a61230091f6d3fb803a21caaf79f0a2de":[7,0,0,0,1,3,5,6,4,52,6],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a9830aca24e9426e9beca96950a2dfa65":[7,0,0,0,1,3,5,6,4,52,7],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21aec316844248752f9a40510eaab2e667f":[7,0,0,0,1,3,5,6,4,52,5],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21aeca37d82ff1e358d20ca09355ca03110":[7,0,0,0,1,3,5,6,4,52,0],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af5c31ea9a88c67dcda1c7746fb8e1ce4":[7,0,0,0,1,3,5,6,4,52,1],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af6aa344e6136036cd42f46df6d8cdf5e":[7,0,0,0,1,3,5,6,4,52,2],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,4,56],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ac6f98c2ff3ee507ab1d9d93b0dd33d":[7,0,0,0,1,3,5,6,4,56,27],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0afd93c104bac8d65ba5bda1531bc848":[7,0,0,0,1,3,5,6,4,56,37],
@@ -243,11 +249,5 @@ var NAVTREEINDEX402 =
 "df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
 "df/dde/classBGSpamProtect.html":[6,0,355],
 "df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,355,0],
-"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,355,1],
-"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1905],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1905,2],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1905,1],
-"df/dde/classnpc__rinji.html":[6,0,2086],
-"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2086,2],
-"df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2086,1]
+"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,355,1]
 };

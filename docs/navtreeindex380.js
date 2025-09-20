@@ -1,5 +1,11 @@
 var NAVTREEINDEX380 =
 {
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ad4ef9b20a8be5a60604c5f35ebeb0e1a":[7,0,0,0,1,3,2,1,1,0,5,14],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ad5d2a1051cd09c084f04d4a6d9b83238":[7,0,0,0,1,3,2,1,1,0,5,20],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22adb05e7468e6d3155497510b63790b4bd":[7,0,0,0,1,3,2,1,1,0,5,8],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ae29a8ea1a29db56bc724c1c20c561199":[7,0,0,0,1,3,2,1,1,0,5,4],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22aefc75743a8753eb432b40f221b1ae56a":[7,0,0,0,1,3,2,1,1,0,5,3],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22af30872e3809676e4f327ad83ace997eb":[7,0,0,0,1,3,2,1,1,0,5,19],
 "df/d13/classEllipseBoundary.html":[6,0,1009],
 "df/d13/classEllipseBoundary.html#a203ccf7ca23f1d66f834bdadb8b18b31":[6,0,1009,1],
 "df/d13/classEllipseBoundary.html#aa84bae8bced77e38fec652e473cf39c7":[6,0,1009,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX380 =
 "df/d17/group__world.html#gab842e78f86995775c494437356620779":[4,2,58],
 "df/d17/group__world.html#gac11f34aad352a3782f299b3978607d16":[4,2,14],
 "df/d17/group__world.html#gac86b4e254146468a7412d8fc7b0c27f2":[4,2,43],
-"df/d17/group__world.html#gad4885daeab81309a42c2c1fdebcf33ad":[4,2,48],
-"df/d17/group__world.html#gadba1100bafe6db8a242bdad35663e909":[4,2,53],
-"df/d17/group__world.html#gadd11deec2098fed61adf7910b8f09cc6":[4,2,35],
-"df/d17/group__world.html#gaea61d86d9a64dd5dbc8ea843aad97eb6":[4,2,41],
-"df/d17/group__world.html#gaeb74bbd4568c726a2443318aea6313d0":[4,2,55],
-"df/d17/group__world.html#gaed38cecb6af95222638b2177fa48757c":[4,2,37],
-"df/d17/group__world.html#gaf4ec787c400c0e90101f00d022c2c9fd":[4,2,49]
+"df/d17/group__world.html#gad4885daeab81309a42c2c1fdebcf33ad":[4,2,48]
 };

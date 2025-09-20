@@ -1,5 +1,10 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc7/structSpellEntry.html#ae5ff025c22c5ab702e908f975b3f7edf":[6,0,4086,67],
+"d5/dc7/structSpellEntry.html#ae6f0f05fb4bce3d739c202f26844e2e1":[6,0,4086,54],
+"d5/dc7/structSpellEntry.html#aeba13f7b70101e67850ece210e61a196":[6,0,4086,65],
+"d5/dc7/structSpellEntry.html#af0bfd5d7047b9fff6dadbeb7e0049837":[6,0,4086,66],
+"d5/dc7/structSpellEntry.html#af1586de0e99ed09fbd805fa4a09f2c6c":[6,0,4086,74],
 "d5/dc7/structSpellEntry.html#af173dce15da28e663953f57d435f3dd8":[6,0,4086,29],
 "d5/dc7/structSpellEntry.html#af89b96363f1bde634ea89269fae39a2f":[6,0,4086,23],
 "d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[6,0,4086,82],
@@ -244,10 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcf/culling__of__stratholme_8h.html#a60dfa3c796b46a193be610743bbcfac8":[7,0,0,0,1,3,4,1,1,6,17],
 "d5/dcf/culling__of__stratholme_8h.html#a747db489f2f94b29ff56464d123500ec":[7,0,0,0,1,3,4,1,1,6,13],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204":[7,0,0,0,1,3,4,1,1,6,3],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a059e14c5f26a783fbf9b506fb780a9d7":[7,0,0,0,1,3,4,1,1,6,3,7],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a0fb62a62929af973eea6ef46072c8fe5":[7,0,0,0,1,3,4,1,1,6,3,1],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a22ecdf33f1ba0a20c9f554f7a815038e":[7,0,0,0,1,3,4,1,1,6,3,8],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a2f66f4d100d30627ea3e066675981aff":[7,0,0,0,1,3,4,1,1,6,3,9],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a30c6dda8b96ce269b542d6a9725e7ab3":[7,0,0,0,1,3,4,1,1,6,3,0],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a390ce20614e4d07e3ddee633bc89638d":[7,0,0,0,1,3,4,1,1,6,3,5]
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a059e14c5f26a783fbf9b506fb780a9d7":[7,0,0,0,1,3,4,1,1,6,3,7]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX404 =
 {
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a06550732cba84da4cbd708d03a7bd6bb":[6,0,1853,0,10],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a127cc66ea4804da51eb9069037b9ba33":[6,0,1853,0,7],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1853,0,8],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1853,0,4],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1853,0,6],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1853,0,11],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1853,0,9],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a689fd445286595780c3d842976a5913f":[6,0,1853,0,0],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a69da5432ed2b4ef9944fbd19c97d404d":[6,0,1853,0,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX404 =
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3892,1],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3892,0],
 "df/dff/classinstance__old__hillsbrad.html":[6,0,1323],
-"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1323,2],
-"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[6,0,1323,1],
-"dir_0357f93aab1892c02aa89cc280efb408.html":[7,0,0,0,1,3,7,2,3],
-"dir_035874e76bcc0de7e09cf1c5f0f17641.html":[7,0,0,0,1,3,7,4],
-"dir_061ff0d10708e1c5472606e1cd5f9de4.html":[7,0,0,0,1,3,7,5,3],
-"dir_0787b0a4fdc11b0654465feaa92c32a3.html":[7,0,0,0,1,2,31],
-"dir_07a0a020c2e239bb7d6fc2a24a5b9a43.html":[7,0,0,0,1,3,7,0,0]
+"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1323,2]
 };

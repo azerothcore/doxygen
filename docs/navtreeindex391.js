@@ -1,5 +1,11 @@
 var NAVTREEINDEX391 =
 {
+"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3640,0],
+"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3640,3],
+"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3640,1],
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4066],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4066,2],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4066,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4066,0],
 "df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
 "df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX391 =
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a837b442d7812b0c5708995d35c0d45f6":[6,0,2079,0,1],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a8bf068c63d7ae10c6edf0af3aab1a6c3":[6,0,2079,0,8],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#aca5ae47050590ec22e6e929f44e09276":[6,0,2079,0,6],
-"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#ad044c04381a8d61a8fefc55129453ddf":[6,0,2079,0,7],
-"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#aeb0a7644ada4d44e649b4ae45e0d2dc2":[6,0,2079,0,9],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html":[6,0,658,0],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a1102dc1a5feabf3b4a9cf170835f8ade":[6,0,658,0,2],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a16265a5ba6d78302034b2a2804e59e24":[6,0,658,0,14],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a32615a07ab4974923a9f8ed3fb6b5eb5":[6,0,658,0,4],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a3eb78ce24d15d0a4df15cf4f19f78c00":[6,0,658,0,20]
+"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#ad044c04381a8d61a8fefc55129453ddf":[6,0,2079,0,7]
 };
