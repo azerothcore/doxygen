@@ -1,7 +1,5 @@
 var NAVTREEINDEX216 =
 {
-"d8/d70/OutdoorPvPEP_8h.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d":[7,0,0,0,1,3,6,2,5,4],
-"d8/d70/OutdoorPvPEP_8h.html#a13c9b3f39108790585875365648e6a51":[7,0,0,0,1,3,6,2,13],
 "d8/d70/OutdoorPvPEP_8h.html#a1751b41516eaecd46b28e8a1f80c6f07":[7,0,0,0,1,3,6,2,15],
 "d8/d70/OutdoorPvPEP_8h.html#a25cbe7281f91d6a29b183f97340385ef":[7,0,0,0,1,3,6,2,21],
 "d8/d70/OutdoorPvPEP_8h.html#a2acf7be696695ceaa968a2eac356e562":[7,0,0,0,1,3,6,2,23],
@@ -52,11 +50,11 @@ var NAVTREEINDEX216 =
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[6,0,3561,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[6,0,3561,3],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[6,0,3561,1],
-"d8/d71/classspell__sindragosa__icy__grip.html":[6,0,3828],
-"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,3828,2],
-"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,3828,0],
-"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,3828,1],
-"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[6,0,3828,3],
+"d8/d71/classspell__sindragosa__icy__grip.html":[6,0,3827],
+"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,3827,2],
+"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,3827,0],
+"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,3827,1],
+"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[6,0,3827,3],
 "d8/d72/classBattlegroundQueue.html":[6,0,332],
 "d8/d72/classBattlegroundQueue.html#a0c13aac123c7e10764784a314684aee3":[6,0,332,23],
 "d8/d72/classBattlegroundQueue.html#a1c0726698cae6065abc2e180d0d755fb":[6,0,332,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a368de21fdf970eefe78f4e51b9bf07d8":[4,1,19,189],
 "d8/d74/classWorldSession.html#a36ee21f8c7f07dc6d550de0c9d317864":[4,1,19,106],
 "d8/d74/classWorldSession.html#a370ee60f4bd23688ad2e08eee4effbca":[4,1,19,103],
-"d8/d74/classWorldSession.html#a37cf6d04ea554cc5793e4fb0b799c53a":[4,1,19,603]
+"d8/d74/classWorldSession.html#a37cf6d04ea554cc5793e4fb0b799c53a":[4,1,19,603],
+"d8/d74/classWorldSession.html#a38172e05c4f39e6a051ffff8ac820467":[4,1,19,412],
+"d8/d74/classWorldSession.html#a3845869df4d9eea005101bb7dc3ae722":[4,1,19,166]
 };

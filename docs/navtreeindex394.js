@@ -1,12 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"df/da7/classBattleground.html#a19cf075511f45a5b3984296651641273":[6,0,312,38],
-"df/da7/classBattleground.html#a19ebb33fd7ed9c085e30257d88210a41":[6,0,312,187],
-"df/da7/classBattleground.html#a1b99a417cfae29f65279bf549fc19e3c":[6,0,312,222],
-"df/da7/classBattleground.html#a1bf891e4b87892f91cc50c682c0e0e60":[6,0,312,68],
-"df/da7/classBattleground.html#a1d17b3ef05753e1704566c225a71b6a5":[6,0,312,103],
-"df/da7/classBattleground.html#a1dca98fc0ee5571f2dcd73e0f5a4ea05":[6,0,312,88],
-"df/da7/classBattleground.html#a1ef95ebaace6f65e5d00b2257212f366":[6,0,312,149],
 "df/da7/classBattleground.html#a20439edb1d9a09cf7119a53f422a3902":[6,0,312,92],
 "df/da7/classBattleground.html#a24586375b2c9b3077a93df903900a03f":[6,0,312,120],
 "df/da7/classBattleground.html#a2808a911ce471c2c360699c8dd187317":[6,0,312,202],
@@ -232,12 +225,12 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,312,252],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,1,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,1,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,1,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2933],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2933,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2933,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX394 =
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2058,0],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2058,0,2],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[6,0,2058,0,1],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[6,0,2058,0,6]
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[6,0,2058,0,6],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[6,0,2058,0,7],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[6,0,2058,0,0],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[6,0,2058,0,4],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[6,0,2058,0,8],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[6,0,2058,0,3],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[6,0,2058,0,5],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[6,0,2212,0]
 };

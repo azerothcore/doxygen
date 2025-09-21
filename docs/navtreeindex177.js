@@ -1,7 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d94/classnpc__hor__spiritual__reflection.html#ab6aafc6db10943662fb66b0f77fc34ec":[6,0,1857,2],
-"d6/d95/structGlyphPropertiesEntry.html":[6,0,1107],
 "d6/d95/structGlyphPropertiesEntry.html#a9f283a7c8339cc5b4fa67f3974ce8621":[6,0,1107,0],
 "d6/d95/structGlyphPropertiesEntry.html#aae92871758e9a738a888cacf0946f16b":[6,0,1107,2],
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1107,1],
@@ -201,10 +199,10 @@ var NAVTREEINDEX177 =
 "d6/d9f/classboss__maiden__of__grief.html":[6,0,605],
 "d6/d9f/classboss__maiden__of__grief.html#a8361e4961ac1da09b803ca9e7fc67f95":[6,0,605,1],
 "d6/d9f/classboss__maiden__of__grief.html#af8d2e6392a0c73add801910945b2558e":[6,0,605,2],
-"d6/d9f/classspell__symbol__of__life__dummy.html":[6,0,3859],
-"d6/d9f/classspell__symbol__of__life__dummy.html#a43052fedbec62cfbdbbf24fbfcbca047":[6,0,3859,1],
-"d6/d9f/classspell__symbol__of__life__dummy.html#a7a249dd2bcdccf1a19d151d041a25215":[6,0,3859,2],
-"d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,3859,0],
+"d6/d9f/classspell__symbol__of__life__dummy.html":[6,0,3858],
+"d6/d9f/classspell__symbol__of__life__dummy.html#a43052fedbec62cfbdbbf24fbfcbca047":[6,0,3858,1],
+"d6/d9f/classspell__symbol__of__life__dummy.html#a7a249dd2bcdccf1a19d151d041a25215":[6,0,3858,2],
+"d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,3858,0],
 "d6/d9f/structCondition.html":[6,0,888],
 "d6/d9f/structCondition.html#a37333d2f5e007c96d2808b51cd95ce4e":[6,0,888,2],
 "d6/d9f/structCondition.html#a39ec8f2115b587bbdc87b9f90ac749ae":[6,0,888,17],
@@ -249,5 +247,7 @@ var NAVTREEINDEX177 =
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a19b42ca678e7bf93c86891b4ea0a2dce":[6,0,1980,0,4],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1ae2393871e0f4ebeb86521f06959a7a":[6,0,1980,0,5],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623":[6,0,1980,0,7],
-"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a4313164857ebd174fe33a9a16340b332":[6,0,1980,0,0]
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a4313164857ebd174fe33a9a16340b332":[6,0,1980,0,0],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a9a2e367f30ee16ca55e634de8e22551e":[6,0,1980,0,2],
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ad5d5a9de05e472d24fe399b4de79a3d0":[6,0,1980,0,3]
 };

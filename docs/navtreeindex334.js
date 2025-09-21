@@ -1,15 +1,11 @@
 var NAVTREEINDEX334 =
 {
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74":[7,0,0,0,1,3,5,9,1,2,8,9],
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848":[7,0,0,0,1,3,5,9,1,2,8,10],
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64":[7,0,0,0,1,3,5,9,1,2,8,4],
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234":[7,0,0,0,1,3,5,9,1,2,8,0],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,9,1,2,8,5],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[7,0,0,0,1,3,5,9,1,2,8,8],
-"dd/dac/classspell__valkyr__touch__aura.html":[6,0,3951],
-"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3951,1],
-"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3951,0],
-"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3951,2],
+"dd/dac/classspell__valkyr__touch__aura.html":[6,0,3950],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3950,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3950,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3950,2],
 "dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[7,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,2,5,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX334 =
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,16,0,2],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,16,0,1],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,16,0,3],
-"dd/db1/classachievement__assembly__of__iron.html":[6,0,32]
+"dd/db1/classachievement__assembly__of__iron.html":[6,0,32],
+"dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,32,2],
+"dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,32,1],
+"dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[6,0,32,0],
+"dd/db1/classspell__gen__replenishment.html":[6,0,3013]
 };

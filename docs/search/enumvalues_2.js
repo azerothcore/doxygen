@@ -2029,7 +2029,7 @@ var searchData=
   ['content_5f71_5f80_2026',['CONTENT_71_80',['../d2/df6/DBCStores_8h.html#adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5',1,'DBCStores.h']]],
   ['context_5fgroup_5frifts_2027',['CONTEXT_GROUP_RIFTS',['../d5/d48/the__black__morass_8h.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8dc72aef6d7df6916c2c9ceeac75d388',1,'the_black_morass.h']]],
   ['context_5fgroup_5fwaves_2028',['CONTEXT_GROUP_WAVES',['../d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498eac4cdd51691e061e219e9befc6c3d4057',1,'hyjal.h']]],
-  ['cooldowns_2029',['COOLDOWNS',['../d2/db8/classPetLoadQueryHolder.html#a10a0ffdc30d99440b87e4a066d4335d8aefb2927a23c2943a069cf019a812e8c3',1,'PetLoadQueryHolder']]],
+  ['cooldowns_2029',['COOLDOWNS',['../d2/db8/classPetLoadQueryHolder.html#a19278695a8d1194fac5dde66700772d1aefb2927a23c2943a069cf019a812e8c3',1,'PetLoadQueryHolder']]],
   ['copper_2030',['COPPER',['../de/d0a/SharedDefines_8h.html#aa61850c8cc16fdf9ea749bfde3adb448aa7006aecd3fddb9a7bd047f277ed7381',1,'SharedDefines.h']]],
   ['corporeality_5fdecrease_2031',['CORPOREALITY_DECREASE',['../dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa4ff3d7d7271f8cb2caba11688d679b6a',1,'boss_halion.cpp']]],
   ['corporeality_5fincrease_2032',['CORPOREALITY_INCREASE',['../dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfac7a7e5ecf3f499fdefd66d6f7ab4a3da',1,'boss_halion.cpp']]],

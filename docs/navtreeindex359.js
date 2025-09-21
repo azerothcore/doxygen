@@ -1,9 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7":[7,0,0,0,1,2,18,3,38],
-"de/d25/ObjectMgr_8h.html#aeeb734ff80b8099b0f2243dea5aa006a":[7,0,0,0,1,2,18,3,58],
-"de/d25/ObjectMgr_8h.html#aef0c23fca606edfe93ff1ea3d8afacd3":[7,0,0,0,1,2,18,3,26],
-"de/d25/ObjectMgr_8h.html#af0a75b78c7d6f81c9f3a224feb5a2047":[7,0,0,0,1,2,18,3,28],
 "de/d25/ObjectMgr_8h.html#af15c1261eb36a9d6eef6bde75bdb8aef":[7,0,0,0,1,2,18,3,62],
 "de/d25/ObjectMgr_8h.html#af2343fbe6e619aea69105837dc9d7a7f":[7,0,0,0,1,2,18,3,32],
 "de/d25/ObjectMgr_8h.html#af55111c173fd16ba2898f3046dfa3d9a":[7,0,0,0,1,2,18,3,99],
@@ -93,10 +89,10 @@ var NAVTREEINDEX359 =
 "de/d2d/namespaceObjectAccessor.html#ae42e503fe79bbeaea1aaa665418c43f8":[5,0,23,7],
 "de/d2d/namespaceObjectAccessor.html#aeb3657e7ad09335b9a9ffa50473aa216":[5,0,23,13],
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3855],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3855,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3855,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3855,2],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3854],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3854,1],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3854,0],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3854,2],
 "de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,30],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[7,0,0,0,1,2,16,1,2,36],
@@ -249,5 +245,9 @@ var NAVTREEINDEX359 =
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a32112aa624f17e0c8efc27b27795869b":[7,0,0,0,1,2,41,9,65,4],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a398a31ba383b5d5223724e088ff17557":[7,0,0,0,1,2,41,9,65,2],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a52ade377867275ef44ef4a46a21a36da":[7,0,0,0,1,2,41,9,65,5],
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a57821dfb5eca57a0b065728a2d7f2ed9":[7,0,0,0,1,2,41,9,65,9]
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a57821dfb5eca57a0b065728a2d7f2ed9":[7,0,0,0,1,2,41,9,65,9],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a5b34bfdb4153eae1970d33e2eb156f47":[7,0,0,0,1,2,41,9,65,17],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a679d126c8b099282bf161092f9bf1cf2":[7,0,0,0,1,2,41,9,65,21],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a8444f411aca3ba862f404f51e94c79b5":[7,0,0,0,1,2,41,9,65,20],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a857fe32978c50fc86fd72c97526cb9bd":[7,0,0,0,1,2,41,9,65,0]
 };

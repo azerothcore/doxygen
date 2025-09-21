@@ -1,11 +1,5 @@
 var NAVTREEINDEX255 =
 {
-"da/d4c/violet__hold_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,12,9,0],
-"da/d4c/violet__hold_8h.html#a0437b19b38eb7bbfb24325997a21203a":[7,0,0,0,1,3,5,12,9,21],
-"da/d4c/violet__hold_8h.html#a0699cc64e4985a12f33575524379d1a2":[7,0,0,0,1,3,5,12,9,20],
-"da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec":[7,0,0,0,1,3,5,12,9,28],
-"da/d4c/violet__hold_8h.html#a0bb7365a02c1bb98957103454ceb870f":[7,0,0,0,1,3,5,12,9,31],
-"da/d4c/violet__hold_8h.html#a0e79b9b50d9f175b1097eb1edcd0055e":[7,0,0,0,1,3,5,12,9,14],
 "da/d4c/violet__hold_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,5,12,9,8],
 "da/d4c/violet__hold_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da0163c0b2425a6bc5658f01e6b42d4cdb":[7,0,0,0,1,3,5,12,9,8,1],
 "da/d4c/violet__hold_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da14871e5e8c321950cc6b5457377582ba":[7,0,0,0,1,3,5,12,9,8,3],
@@ -234,10 +228,10 @@ var NAVTREEINDEX255 =
 "da/d53/classnpc__tooga.html#a6ea6a9e4dea1ab98475dae13680ceeaf":[6,0,2208,1],
 "da/d53/classnpc__tooga.html#a7847577589f3bdc1c3ea5ee0f1f9232f":[6,0,2208,2],
 "da/d53/classnpc__tooga.html#ac0fdcb3959c239d614b1cc7c66623c5d":[6,0,2208,3],
-"da/d53/classspell__q12237__drop__off__villager.html":[6,0,3657],
-"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[6,0,3657,2],
-"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[6,0,3657,0],
-"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[6,0,3657,1],
+"da/d53/classspell__q12237__drop__off__villager.html":[6,0,3656],
+"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[6,0,3656,2],
+"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[6,0,3656,0],
+"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[6,0,3656,1],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html":[6,0,496,0],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a22f6ff041e61c94df73a938162fa26f5":[6,0,496,0,1],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3093369d5f3c7e2a1a5828671ac0af0a":[6,0,496,0,6],
@@ -249,5 +243,11 @@ var NAVTREEINDEX255 =
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#ad385477740b728e63acff7c184df3c09":[6,0,496,0,5],
 "da/d56/BattlegroundRL_8h.html":[7,0,0,0,1,2,8,1,15],
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497a":[7,0,0,0,1,2,8,1,15,1],
-"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1":[7,0,0,0,1,2,8,1,15,1,1]
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1":[7,0,0,0,1,2,8,1,15,1,1],
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0":[7,0,0,0,1,2,8,1,15,1,0],
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921":[7,0,0,0,1,2,8,1,15,1,3],
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934":[7,0,0,0,1,2,8,1,15,1,2],
+"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24":[7,0,0,0,1,2,8,1,15,2],
+"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755":[7,0,0,0,1,2,8,1,15,2,5],
+"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2":[7,0,0,0,1,2,8,1,15,2,4]
 };

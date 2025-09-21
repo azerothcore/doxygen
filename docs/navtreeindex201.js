@@ -1,7 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a7c73e3381592bef44d2265aff296b301":[6,0,3642,2],
-"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html":[6,0,393,0],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a1a034601a7dda94becbf1801bda63d55":[6,0,393,0,5],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a2c3ed57dd0336ce8ac1a85c957da9e4a":[6,0,393,0,2],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a3a85b2a6e958a965e52a9fde87c08177":[6,0,393,0,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX201 =
 "d7/db0/classMap.html#aae3a929aefb05046ef304ffba10aae71":[6,0,1478,128],
 "d7/db0/classMap.html#aae6ae9e8b45a9da8e8808a3c91806c72":[6,0,1478,28],
 "d7/db0/classMap.html#aaee44ddf86b18fce2f095ee28d8e0e1a":[6,0,1478,88],
-"d7/db0/classMap.html#aaf74a176fa4d0ccccfa114af19d43057":[6,0,1478,182]
+"d7/db0/classMap.html#aaf74a176fa4d0ccccfa114af19d43057":[6,0,1478,182],
+"d7/db0/classMap.html#ab4c7c41c4b0655330a21c3ae0e5bfd69":[6,0,1478,35],
+"d7/db0/classMap.html#ab5a0895b07c01085feb62dade7a9e888":[6,0,1478,240]
 };

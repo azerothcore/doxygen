@@ -1,12 +1,8 @@
 var NAVTREEINDEX342 =
 {
-"dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#ab93792bd7798b9ee9cf869fa20190554":[6,0,598,0,0],
-"dd/dff/structboss__lucifron_1_1boss__lucifronAI.html#aba3256ec99e56e3051045391fceedc7f":[6,0,598,0,2],
-"de/d00/classspell__voljin__war__drums.html":[6,0,3964],
-"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,3964,3],
-"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3964,0],
-"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,3964,1],
-"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,3964,2],
+"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3963,0],
+"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,3963,1],
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,3963,2],
 "de/d00/structboss__roar.html":[6,0,675],
 "de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[6,0,675,2],
 "de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[6,0,675,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX342 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a863a1d3b66417728baaa803037dc3b46":[7,0,0,0,1,4,7,75,7],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a86febeda306e11f359c9a107ed17f665":[7,0,0,0,1,4,7,75,9],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9749beff7617718a640f0de6b583caad":[7,0,0,0,1,4,7,75,31],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9ff9c7bbe3ffac8995e20c73ac930967":[7,0,0,0,1,4,7,75,12]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9ff9c7bbe3ffac8995e20c73ac930967":[7,0,0,0,1,4,7,75,12],
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a":[7,0,0,0,1,4,7,75,10],
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac5d8ae424ffe5e41e0076bcae9b70d34":[7,0,0,0,1,4,7,75,17],
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ada2da0b184a1c1cb0ab4cd7de4e0b12d":[7,0,0,0,1,4,7,75,32],
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9adfd56d9763c20bc6841ea111355f7fb8":[7,0,0,0,1,4,7,75,0]
 };

@@ -38,7 +38,6 @@ var zone__dragonblight_8cpp =
     [ "npc_commander_eligor_dawnbringer", "dc/de5/classnpc__commander__eligor__dawnbringer.html", "dc/de5/classnpc__commander__eligor__dawnbringer" ],
     [ "npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI", "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html", "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI" ],
     [ "spell_q12096_q12092_dummy", "df/d99/classspell__q12096__q12092__dummy.html", "df/d99/classspell__q12096__q12092__dummy" ],
-    [ "spell_q12096_q12092_bark", "d8/d88/classspell__q12096__q12092__bark.html", "d8/d88/classspell__q12096__q12092__bark" ],
     [ "npc_torturer_lecraft", "d9/dcc/classnpc__torturer__lecraft.html", "d9/dcc/classnpc__torturer__lecraft" ],
     [ "npc_torturer_lecraft::npc_torturer_lecraftAI", "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html", "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI" ],
     [ "spell_dragonblight_corrosive_spit", "da/db7/classspell__dragonblight__corrosive__spit.html", "da/db7/classspell__dragonblight__corrosive__spit" ],
@@ -229,10 +228,7 @@ var zone__dragonblight_8cpp =
     [ "StrengthenAncientsMisc", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51ac", [
       [ "SAY_WALKER_FRIENDLY", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c", null ],
       [ "SAY_WALKER_ENEMY", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca5bdd8b63e6a77c139d6ac9c078b58ef8", null ],
-      [ "SAY_LOTHALOR", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca556bee4cf30bc198b502eab09af5cce4", null ],
-      [ "SPELL_CREATE_ITEM_BARK", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb", null ],
-      [ "SPELL_CONFUSED", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca0cf26511132aa849497692bda7380b33", null ],
-      [ "NPC_LOTHALOR", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acabe0850e6cccff6a07799267f355b90af", null ]
+      [ "SPELL_CREATE_ITEM_BARK", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb", null ]
     ] ],
     [ "TorturerLeCraft", "de/da6/zone__dragonblight_8cpp.html#a55dd2c3e3efbd349e3fc6a050ccce7c5", [
       [ "SPELL_HEMORRHAGE", "de/da6/zone__dragonblight_8cpp.html#a55dd2c3e3efbd349e3fc6a050ccce7c5ac3ce3112661d749306b57b8b47599903", null ],

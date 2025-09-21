@@ -1,7 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/db8/classgm__commandscript.html#ab6d59a1c29bd66b699ae597351b969d9":[6,0,1109,5],
-"d7/db8/classgm__commandscript.html#add9bd1e64f98964e68cd1be3df6295e7":[6,0,1109,4],
 "d7/db8/classgm__commandscript.html#afb0f18226aac1f581d09f3b7fe9d0ce7":[6,0,1109,7],
 "d7/db8/structboss__balinda.html":[6,0,391],
 "d7/db8/structboss__balinda.html#a05c24746060d7c9a3712d9f269b4af8e":[6,0,391,7],
@@ -73,13 +71,13 @@ var NAVTREEINDEX203 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[6,0,2734,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,41],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[7,0,0,0,1,2,38,0,41,0],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3826],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,3826,3],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,3826,1],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,3826,4],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,3826,0],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,3826,2],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,3826,5],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3825],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,3825,3],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,3825,1],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,3825,4],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,3825,0],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,3825,2],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,3825,5],
 "d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3326],
 "d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3326,1],
 "d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3326,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX203 =
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420":[7,0,0,0,1,2,1,1,21,12],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5":[7,0,0,0,1,2,1,1,21,19],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a":[7,0,0,0,1,2,1,1,21,15],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722":[7,0,0,0,1,2,1,1,21,20]
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722":[7,0,0,0,1,2,1,1,21,20],
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465":[7,0,0,0,1,2,1,1,21,5],
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34":[7,0,0,0,1,2,1,1,21,16]
 };

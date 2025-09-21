@@ -1,11 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca4778bd31183ae1ceae6153555375794a":[7,0,0,0,1,3,5,4,1,2,36,17],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca5743d72d7cac2400ed0f1a62b0404ade":[7,0,0,0,1,3,5,4,1,2,36,12],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca577a20676d33b95dcf6880e929828a93":[7,0,0,0,1,3,5,4,1,2,36,6],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca6e82cf8e24f6aa46faeed255e2d4dd0a":[7,0,0,0,1,3,5,4,1,2,36,0],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca7f4416eab6cfa8f8bf63ff3b31e8d876":[7,0,0,0,1,3,5,4,1,2,36,14],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca88f0df00efaa4d36aa53bee423ff51b8":[7,0,0,0,1,3,5,4,1,2,36,4],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caa4b8db0abc842d692eceb879c9c21e48":[7,0,0,0,1,3,5,4,1,2,36,9],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caac611d00fa11a623b29f39fdaead807f":[7,0,0,0,1,3,5,4,1,2,36,2],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caace50dad2ffee3b41203adffc0373728":[7,0,0,0,1,3,5,4,1,2,36,20],
@@ -140,10 +134,10 @@ var NAVTREEINDEX301 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,856,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,856,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,856,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3930],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3930,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3930,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3930,1],
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3929],
+"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3929,2],
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3929,0],
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3929,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1654,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1654,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a50a144cf1545117d79268d3a18a4b4ec":[6,0,1654,0,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX301 =
 "dc/d13/classachievement__freya__getting__back__to__nature.html":[6,0,55],
 "dc/d13/classachievement__freya__getting__back__to__nature.html#a850a32450379284784f019a5eb5ff0ff":[6,0,55,1],
 "dc/d13/classachievement__freya__getting__back__to__nature.html#aa4078b573a9335fc52c9b9609590b12f":[6,0,55,0],
-"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html":[6,0,2260,0]
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html":[6,0,2260,0],
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a18c1b9d2b149fbc34a17c9e87a8c70b6":[6,0,2260,0,0],
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a457f2725e6580d7e6f3bb0445ba796a8":[6,0,2260,0,2],
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a598ba7930900aa211bb7e7dc12f366c0":[6,0,2260,0,1],
+"dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a92cc0c2aaa6add0c6c641719d6846bb3":[6,0,2260,0,3],
+"dc/d16/boss__hydromancer__thespia_8cpp.html":[7,0,0,0,1,3,7,2,2,0],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2]
 };

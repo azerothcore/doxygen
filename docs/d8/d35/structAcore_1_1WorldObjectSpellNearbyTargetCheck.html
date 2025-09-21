@@ -204,12 +204,12 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9070</span>        : <a class="code hl_function" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a>(range), <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>(caster)</div>
-<div class="line"><span class="lineno"> 9071</span>    {</div>
-<div class="line"><span class="lineno"> 9072</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9071</span>        : <a class="code hl_function" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a>(range), <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>(caster)</div>
+<div class="line"><span class="lineno"> 9072</span>    {</div>
+<div class="line"><span class="lineno"> 9073</span>    }</div>
 <div class="ttc" id="astructAcore_1_1WorldObjectSpellNearbyTargetCheck_html_a7b19899dd015a73bd1ae4c71fa9ae79d"><div class="ttname"><a href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d">Acore::WorldObjectSpellNearbyTargetCheck::_position</a></div><div class="ttdeci">Position const  * _position</div><div class="ttdef"><b>Definition</b> Spell.h:815</div></div>
 <div class="ttc" id="astructAcore_1_1WorldObjectSpellNearbyTargetCheck_html_abfec0df490876b2b83dcdee4da75a77f"><div class="ttname"><a href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">Acore::WorldObjectSpellNearbyTargetCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition</b> Spell.h:814</div></div>
-<div class="ttc" id="astructAcore_1_1WorldObjectSpellTargetCheck_html_a370a66c484d486ac6d2d3419a019c7cd"><div class="ttname"><a href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck</a></div><div class="ttdeci">WorldObjectSpellTargetCheck(Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition</b> Spell.cpp:8985</div></div>
+<div class="ttc" id="astructAcore_1_1WorldObjectSpellTargetCheck_html_a370a66c484d486ac6d2d3419a019c7cd"><div class="ttname"><a href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck</a></div><div class="ttdeci">WorldObjectSpellTargetCheck(Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition</b> Spell.cpp:8986</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -229,15 +229,15 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9075</span>    {</div>
-<div class="line"><span class="lineno"> 9076</span>        <span class="keywordtype">float</span> dist = target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(*<a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>);</div>
-<div class="line"><span class="lineno"> 9077</span>        <span class="keywordflow">if</span> (dist &lt; <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> &amp;&amp; WorldObjectSpellTargetCheck::operator ()(target))</div>
-<div class="line"><span class="lineno"> 9078</span>        {</div>
-<div class="line"><span class="lineno"> 9079</span>            <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> = dist;</div>
-<div class="line"><span class="lineno"> 9080</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 9081</span>        }</div>
-<div class="line"><span class="lineno"> 9082</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9083</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9076</span>    {</div>
+<div class="line"><span class="lineno"> 9077</span>        <span class="keywordtype">float</span> dist = target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(*<a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>);</div>
+<div class="line"><span class="lineno"> 9078</span>        <span class="keywordflow">if</span> (dist &lt; <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> &amp;&amp; WorldObjectSpellTargetCheck::operator ()(target))</div>
+<div class="line"><span class="lineno"> 9079</span>        {</div>
+<div class="line"><span class="lineno"> 9080</span>            <a class="code hl_variable" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> = dist;</div>
+<div class="line"><span class="lineno"> 9081</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 9082</span>        }</div>
+<div class="line"><span class="lineno"> 9083</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9084</span>    }</div>
 <div class="ttc" id="aclassWorldObject_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1250</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00815">_position</a>, <a class="el" href="../../#l00814">_range</a>, and <a class="el" href="../../#l01250">WorldObject::GetDistance()</a>.</p>
@@ -257,7 +257,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09074">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09075">operator()()</a>.</p>
 
 </div>
 </div>
@@ -273,7 +273,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09074">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09075">operator()()</a>.</p>
 
 </div>
 </div>
@@ -287,7 +287,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html">WorldObjectSpellNearbyTargetCheck</a></li>
-    <li class="footer">Generated on Sat Sep 20 2025 06:22:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Sep 21 2025 06:22:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

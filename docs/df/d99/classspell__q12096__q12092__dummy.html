@@ -314,30 +314,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2054</span>    {</div>
-<div class="line"><span class="lineno"> 2055</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> roll = rand() % 2;</div>
-<div class="line"><span class="lineno"> 2056</span> </div>
-<div class="line"><span class="lineno"> 2057</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* tree = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a">GetHitCreature</a>();</div>
-<div class="line"><span class="lineno"> 2058</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2059</span> </div>
-<div class="line"><span class="lineno"> 2060</span>        <span class="keywordflow">if</span> (!tree || !player)</div>
-<div class="line"><span class="lineno"> 2061</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2062</span> </div>
-<div class="line"><span class="lineno"> 2063</span>        tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e">UNIT_NPC_FLAG_SPELLCLICK</a>);</div>
-<div class="line"><span class="lineno"> 2064</span> </div>
-<div class="line"><span class="lineno"> 2065</span>        <span class="keywordflow">if</span> (roll == 1) <span class="comment">// friendly version</span></div>
-<div class="line"><span class="lineno"> 2066</span>        {</div>
-<div class="line"><span class="lineno"> 2067</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a>);</div>
-<div class="line"><span class="lineno"> 2068</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c">SAY_WALKER_FRIENDLY</a>, player);</div>
-<div class="line"><span class="lineno"> 2069</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(1000);</div>
-<div class="line"><span class="lineno"> 2070</span>        }</div>
-<div class="line"><span class="lineno"> 2071</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roll == 0) <span class="comment">// enemy version</span></div>
-<div class="line"><span class="lineno"> 2072</span>        {</div>
-<div class="line"><span class="lineno"> 2073</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca5bdd8b63e6a77c139d6ac9c078b58ef8">SAY_WALKER_ENEMY</a>, player);</div>
-<div class="line"><span class="lineno"> 2074</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
-<div class="line"><span class="lineno"> 2075</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Attack</a>(player, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2076</span>        }</div>
-<div class="line"><span class="lineno"> 2077</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2050</span>    {</div>
+<div class="line"><span class="lineno"> 2051</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> roll = rand() % 2;</div>
+<div class="line"><span class="lineno"> 2052</span> </div>
+<div class="line"><span class="lineno"> 2053</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* tree = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a">GetHitCreature</a>();</div>
+<div class="line"><span class="lineno"> 2054</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2055</span> </div>
+<div class="line"><span class="lineno"> 2056</span>        <span class="keywordflow">if</span> (!tree || !player)</div>
+<div class="line"><span class="lineno"> 2057</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2058</span> </div>
+<div class="line"><span class="lineno"> 2059</span>        tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e">UNIT_NPC_FLAG_SPELLCLICK</a>);</div>
+<div class="line"><span class="lineno"> 2060</span> </div>
+<div class="line"><span class="lineno"> 2061</span>        <span class="keywordflow">if</span> (roll == 1) <span class="comment">// friendly version</span></div>
+<div class="line"><span class="lineno"> 2062</span>        {</div>
+<div class="line"><span class="lineno"> 2063</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a>);</div>
+<div class="line"><span class="lineno"> 2064</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c">SAY_WALKER_FRIENDLY</a>, player);</div>
+<div class="line"><span class="lineno"> 2065</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(1000);</div>
+<div class="line"><span class="lineno"> 2066</span>        }</div>
+<div class="line"><span class="lineno"> 2067</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roll == 0) <span class="comment">// enemy version</span></div>
+<div class="line"><span class="lineno"> 2068</span>        {</div>
+<div class="line"><span class="lineno"> 2069</span>            tree-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#aad45a32b75725ab20fc1164805ed0578">Talk</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca5bdd8b63e6a77c139d6ac9c078b58ef8">SAY_WALKER_ENEMY</a>, player);</div>
+<div class="line"><span class="lineno"> 2070</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
+<div class="line"><span class="lineno"> 2071</span>            tree-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Attack</a>(player, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2072</span>        }</div>
+<div class="line"><span class="lineno"> 2073</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a></div><div class="ttdeci">@ FACTION_MONSTER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:206</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e">UNIT_NPC_FLAG_SPELLCLICK</a></div><div class="ttdeci">@ UNIT_NPC_FLAG_SPELLCLICK</div><div class="ttdef"><b>Definition</b> UnitDefines.h:339</div></div>
@@ -354,12 +354,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10346</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_a9518c38611ddc9d1c42359fc6a4c51aca5bdd8b63e6a77c139d6ac9c078b58ef8"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51aca5bdd8b63e6a77c139d6ac9c078b58ef8">SAY_WALKER_ENEMY</a></div><div class="ttdeci">@ SAY_WALKER_ENEMY</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2035</div></div>
-<div class="ttc" id="azone__dragonblight_8cpp_html_a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a></div><div class="ttdeci">@ SPELL_CREATE_ITEM_BARK</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2038</div></div>
+<div class="ttc" id="azone__dragonblight_8cpp_html_a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a></div><div class="ttdeci">@ SPELL_CREATE_ITEM_BARK</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2037</div></div>
 <div class="ttc" id="azone__dragonblight_8cpp_html_a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c">SAY_WALKER_FRIENDLY</a></div><div class="ttdeci">@ SAY_WALKER_FRIENDLY</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2034</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l10346">Unit::Attack()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00206">FACTION_MONSTER</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00458">SpellScript::GetHitCreature()</a>, <a class="el" href="../../#l00720">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l02035">SAY_WALKER_ENEMY</a>, <a class="el" href="../../#l02034">SAY_WALKER_FRIENDLY</a>, <a class="el" href="../../#l10130">Unit::SetFaction()</a>, <a class="el" href="../../#l02038">SPELL_CREATE_ITEM_BARK</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, and <a class="el" href="../../#l00339">UNIT_NPC_FLAG_SPELLCLICK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l10346">Unit::Attack()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00206">FACTION_MONSTER</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00458">SpellScript::GetHitCreature()</a>, <a class="el" href="../../#l00720">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l02035">SAY_WALKER_ENEMY</a>, <a class="el" href="../../#l02034">SAY_WALKER_FRIENDLY</a>, <a class="el" href="../../#l10130">Unit::SetFaction()</a>, <a class="el" href="../../#l02037">SPELL_CREATE_ITEM_BARK</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, and <a class="el" href="../../#l00339">UNIT_NPC_FLAG_SPELLCLICK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02079">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02075">Register()</a>.</p>
 
 </div>
 </div>
@@ -413,16 +413,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2080</span>    {</div>
-<div class="line"><span class="lineno"> 2081</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce">spell_q12096_q12092_dummy::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 2082</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2076</span>    {</div>
+<div class="line"><span class="lineno"> 2077</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce">spell_q12096_q12092_dummy::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 2078</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:792</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__q12096__q12092__dummy_html_ae180aea347e73fcce44e9ac3ff33d0ce"><div class="ttname"><a href="../../df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce">spell_q12096_q12092_dummy::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2053</div></div>
+<div class="ttc" id="aclassspell__q12096__q12092__dummy_html_ae180aea347e73fcce44e9ac3ff33d0ce"><div class="ttname"><a href="../../df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce">spell_q12096_q12092_dummy::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2049</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02053">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02049">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -451,12 +451,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2049</span>    {</div>
-<div class="line"><span class="lineno"> 2050</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a> });</div>
-<div class="line"><span class="lineno"> 2051</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2045</span>    {</div>
+<div class="line"><span class="lineno"> 2046</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb">SPELL_CREATE_ITEM_BARK</a> });</div>
+<div class="line"><span class="lineno"> 2047</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02038">SPELL_CREATE_ITEM_BARK</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02037">SPELL_CREATE_ITEM_BARK</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -469,7 +469,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d99/classspell__q12096__q12092__dummy.html">spell_q12096_q12092_dummy</a></li>
-    <li class="footer">Generated on Sat Sep 20 2025 06:22:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Sep 21 2025 06:22:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

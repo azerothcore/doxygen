@@ -1,11 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ab5e919448c2ee68b813a2115ca30a83c":[7,0,0,0,1,3,3,1,34,29],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ac8b56add24989032c805e09b8adb71d9":[7,0,0,0,1,3,3,1,34,26],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ad4f0054d3e790654adb539e4abf8e186":[7,0,0,0,1,3,3,1,34,13],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ae1fe9c1b5acba6996a127e6db1258bf2":[7,0,0,0,1,3,3,1,34,4],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ae63f338250f29c4f56556abc076784f8":[7,0,0,0,1,3,3,1,34,35],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973aea09b2fd8d846296ff9ce22fe37a8167":[7,0,0,0,1,3,3,1,34,2],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af2e3fc25967c2a43a976586bde02ce9b":[7,0,0,0,1,3,3,1,34,33],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af7789dfb34842dafd3b47f68f9665870":[7,0,0,0,1,3,3,1,34,0],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973af7ada19ef9f0a41cfbe3fa5f82d539b7":[7,0,0,0,1,3,3,1,34,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX318 =
 "dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[6,0,325,36],
 "dc/de8/classBattlegroundIC.html#aa471865e0453c6e1aa09445cd7cd46f1":[6,0,325,15],
 "dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f":[6,0,325,29],
-"dc/de8/classBattlegroundIC.html#abe6e82f855559a527b5bf202d3914e55":[6,0,325,25]
+"dc/de8/classBattlegroundIC.html#abe6e82f855559a527b5bf202d3914e55":[6,0,325,25],
+"dc/de8/classBattlegroundIC.html#abf392eaf04298c86b09a5b0f524650de":[6,0,325,39],
+"dc/de8/classBattlegroundIC.html#abfa82175f6e7b461ffccdf4cd300f296":[6,0,325,21],
+"dc/de8/classBattlegroundIC.html#ac0682d6c6402a7aed48f84f9e06a711b":[6,0,325,0],
+"dc/de8/classBattlegroundIC.html#ac3c83db80c206b44b90d89fb564fba5b":[6,0,325,3],
+"dc/de8/classBattlegroundIC.html#ac3d7672be3cc735fe5fa945319a0898d":[6,0,325,9],
+"dc/de8/classBattlegroundIC.html#ad203c33c38957ade34c92e9cd5cd82b7":[6,0,325,13]
 };

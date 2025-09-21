@@ -1,7 +1,5 @@
 var NAVTREEINDEX164 =
 {
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cace7489efdb30119233059090f253a9f6":[7,0,0,0,1,3,5,6,11,39,12],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad1388697854144d327b8463933f39e4d":[7,0,0,0,1,3,5,6,11,39,18],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad7f8ac76e48c4c06ab845b8ce8c3fa81":[7,0,0,0,1,3,5,6,11,39,34],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caeb9d0d34b45aeb88c7bfbed344b3a080":[7,0,0,0,1,3,5,6,11,39,9],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a9fc4346300eed8d695ed722582742471":[7,0,0,0,1,3,5,6,11,36],
@@ -55,13 +53,13 @@ var NAVTREEINDEX164 =
 "d6/d1a/classboss__pyroguard__emberseer.html":[6,0,662],
 "d6/d1a/classboss__pyroguard__emberseer.html#a060c52f53760e60a022a7034dd785b1d":[6,0,662,2],
 "d6/d1a/classboss__pyroguard__emberseer.html#af9f55c012880404e2e6f8278763af194":[6,0,662,1],
-"d6/d1a/structTimeTrackerSmall.html":[6,0,4172],
-"d6/d1a/structTimeTrackerSmall.html#a2ebcfabed1bf252b6afb6c3182142c7b":[6,0,4172,1],
-"d6/d1a/structTimeTrackerSmall.html#a332f650bcfc81fb4b0de1b58ff1e0c9b":[6,0,4172,5],
-"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[6,0,4172,0],
-"d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[6,0,4172,4],
-"d6/d1a/structTimeTrackerSmall.html#ab8a3c45ffe0e83132e708b5e87625c02":[6,0,4172,3],
-"d6/d1a/structTimeTrackerSmall.html#af4455d0ebb784497e9fd1a08cc915062":[6,0,4172,2],
+"d6/d1a/structTimeTrackerSmall.html":[6,0,4171],
+"d6/d1a/structTimeTrackerSmall.html#a2ebcfabed1bf252b6afb6c3182142c7b":[6,0,4171,1],
+"d6/d1a/structTimeTrackerSmall.html#a332f650bcfc81fb4b0de1b58ff1e0c9b":[6,0,4171,5],
+"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[6,0,4171,0],
+"d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[6,0,4171,4],
+"d6/d1a/structTimeTrackerSmall.html#ab8a3c45ffe0e83132e708b5e87625c02":[6,0,4171,3],
+"d6/d1a/structTimeTrackerSmall.html#af4455d0ebb784497e9fd1a08cc915062":[6,0,4171,2],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html":[6,0,1873,0],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a2e49dc8924da5d5537c33f7306287963":[6,0,1873,0,5],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a3249114a5b208109ec2c2a23533ede82":[6,0,1873,0,7],
@@ -249,5 +247,7 @@ var NAVTREEINDEX164 =
 "d6/d1f/classspell__gen__proc__above__75.html#a9c0f4404275b274bd8af7be621eaa5b9":[6,0,2999,0],
 "d6/d1f/classspell__gen__proc__above__75.html#abc2bcce83810661ab462f56594066df3":[6,0,2999,1],
 "d6/d1f/classspell__gen__proc__above__75.html#add6731563bd9a26d8f286bd29ffc8709":[6,0,2999,2],
-"d6/d1f/classspell__halion__marks__aura.html":[6,0,3068]
+"d6/d1f/classspell__halion__marks__aura.html":[6,0,3068],
+"d6/d1f/classspell__halion__marks__aura.html#a01e8677e4f55dbb55cca1bf16dec48b2":[6,0,3068,6],
+"d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[6,0,3068,2]
 };
