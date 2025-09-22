@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#ac1d7b3844f9019ea6485de7616caff95":[6,0,597,0,7],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#acee7b1758b670a688fe1afcdef3b9f8c":[6,0,597,0,4],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#af06da24e8bedf922895c8c591c1def04":[6,0,597,0,6],
 "df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2064],
@@ -201,20 +202,20 @@ var NAVTREEINDEX390 =
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,68],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,68,0],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,56,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,68,6],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,56,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[6,0,0,56,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,68,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,68,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[6,0,0,56,5],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,68,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,56,1],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,56,3],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,68,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,68,3],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,56,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,56,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,68,4],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,56,4],
 "df/d88/classspell__hallows__end__trick.html":[6,0,3085],
 "df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[6,0,3085,2],
 "df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[6,0,3085,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3640,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4065],
 "df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4065,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4065,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4065,0]
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4065,1]
 };

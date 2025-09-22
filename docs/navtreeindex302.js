@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130d":[7,0,0,0,1,3,7,2,2,0,1],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,2,0,1,1],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6":[7,0,0,0,1,3,7,2,2,0,1,6],
@@ -164,14 +165,14 @@ var NAVTREEINDEX302 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3666,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3666,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3666,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2091],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2091,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2091,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4232,36],
 "dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4232,22],
 "dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4232,5],
-"dc/d25/classCorruptTriggers.html":[6,0,912],
-"dc/d25/classCorruptTriggers.html#a225cafcce56db7d4aefd3fb75ed2533f":[6,0,912,0]
+"dc/d25/classCorruptTriggers.html":[6,0,912]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d3f/classspell__hun__invigoration.html#a29ac1789b8023ef3339a7b40ee9c31ab":[6,0,3123,1],
 "df/d3f/classspell__hun__invigoration.html#a321098d2325bfb9cea674d1137348350":[6,0,3123,2],
 "df/d3f/classspell__hun__invigoration.html#aa16a67bf42f51b838d22dcbe4b5b6f7b":[6,0,3123,3],
 "df/d3f/classspell__hun__invigoration.html#ae3c2900d98c2fd51ff0888ea5d1072c4":[6,0,3123,0],
@@ -204,14 +205,14 @@ var NAVTREEINDEX386 =
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[6,0,6,3,3],
-"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[6,0,6,3,1],
+"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,20,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[6,0,6,3,5],
-"df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[6,0,6,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[5,0,20,3,0],
-"df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[6,0,6,3,2],
+"df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[6,0,6,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[5,0,20,3,2],
+"df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[6,0,6,3,2],
 "df/d52/structmap__fileheader.html":[6,0,1480],
 "df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[6,0,1480,9],
 "df/d52/structmap__fileheader.html#a3c3cc1895a47dc69265f4b58166c3f6b":[6,0,1480,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,237,1],
 "df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,237,0],
 "df/d54/classat__underbog__ghazan.html":[6,0,250],
-"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,250,0],
-"df/d54/classat__underbog__ghazan.html#aff03fc0bbded7bf7fa68d0c736bfaff2":[6,0,250,1]
+"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,250,0]
 };

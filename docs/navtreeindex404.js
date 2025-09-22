@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1853,0,9],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a689fd445286595780c3d842976a5913f":[6,0,1853,0,0],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a69da5432ed2b4ef9944fbd19c97d404d":[6,0,1853,0,12],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a904a57d99527b6ff47d4f9ab8751a4a5":[6,0,1853,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "dir_035874e76bcc0de7e09cf1c5f0f17641.html":[7,0,0,0,1,3,7,4],
 "dir_061ff0d10708e1c5472606e1cd5f9de4.html":[7,0,0,0,1,3,7,5,3],
 "dir_0787b0a4fdc11b0654465feaa92c32a3.html":[7,0,0,0,1,2,31],
-"dir_07a0a020c2e239bb7d6fc2a24a5b9a43.html":[7,0,0,0,1,3,7,0,0],
-"dir_07fbe19a361de996bef604f9408f4a7b.html":[7,0,0,0,1,2,39,0]
+"dir_07a0a020c2e239bb7d6fc2a24a5b9a43.html":[7,0,0,0,1,3,7,0,0]
 };

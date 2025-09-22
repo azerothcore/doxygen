@@ -1,5 +1,6 @@
 var NAVTREEINDEX369 =
 {
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a85cd2486bad6cda8867eba29538842e9":[6,0,1701,0,14],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a91131055a31dc828ccb2e3ba087d5062":[6,0,1701,0,5],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106":[6,0,1701,0,20],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a9af9323b3bf6df4a85445d9859609c78":[6,0,1701,0,23],
@@ -220,8 +221,8 @@ var NAVTREEINDEX369 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,31,5,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,5,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,11,5,43,1],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,5,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,11,5,43,5],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,5,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,31,5,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,11,5,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,31,5,43,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/d9d/classnpc__prof__alchemy.html#a2d4c7337b40be323a384a9e755fc3145":[6,0,2060,4],
 "de/d9d/classnpc__prof__alchemy.html#a43ea842214fc507c34586d12df8f7fea":[6,0,2060,0],
 "de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[6,0,2060,5],
-"de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[6,0,2060,1],
-"de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[6,0,2060,2]
+"de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[6,0,2060,1]
 };

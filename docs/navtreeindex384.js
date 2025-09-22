@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,87,3],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,99,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3169],
@@ -135,14 +136,14 @@ var NAVTREEINDEX384 =
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,31,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,5,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,5,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,5,40,4],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,31,5,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,5,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,31,5,40,6],
 "df/d2d/classachievement__thorim__lose__your__illusion.html":[6,0,95],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[6,0,95,1],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[6,0,95,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7b15def2fab40bf559f2aa6de6865b92":[6,0,1359,0,17],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a8f3c71a2c0625ba3c99b1e7ee6beffd6":[6,0,1359,0,19],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[6,0,1359,0,2],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a9fc52ebdc0786dd73bdd7ef9ab4f14f5":[6,0,1359,0,16],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1":[6,0,1359,0,29]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a9fc52ebdc0786dd73bdd7ef9ab4f14f5":[6,0,1359,0,16]
 };

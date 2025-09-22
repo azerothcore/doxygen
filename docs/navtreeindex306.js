@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d35/classadt__MHDR.html#aeae95bb7dbb0d46e68db52fb2e212a80":[6,0,139,3],
 "dc/d35/classadt__MHDR.html#aeb0dacd46404505504aa4c9cd868838a":[6,0,139,4],
 "dc/d35/classadt__MHDR.html#af3204f96aaab52969f97c56fc8207e1f":[6,0,139,20],
 "dc/d36/ChannelHandler_8cpp.html":[7,0,0,0,1,2,22,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[6,0,2735,4],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[6,0,2735,3],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[6,0,2735,1],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2735,2],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[6,0,2735,5]
+"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[6,0,2735,2]
 };

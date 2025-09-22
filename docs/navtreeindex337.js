@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357":[7,0,0,0,1,2,38,0,75,1],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a002be09105d92b7edefa4c442ce040e5":[7,0,0,0,1,2,38,0,75,1,160],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a020ab2524fa543d1063bbeba914880e7":[7,0,0,0,1,2,38,0,75,1,129],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d":[7,0,0,0,1,3,4,11,2,3,4],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[7,0,0,0,1,3,4,11,2,3,7],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[7,0,0,0,1,3,4,11,2,3,8],
-"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[7,0,0,0,1,3,4,11,2,6],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2915]
+"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[7,0,0,0,1,3,4,11,2,6]
 };

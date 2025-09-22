@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2747,0],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,167],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[6,0,167,1],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[6,0,167,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,4,0,0,9],
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a0f986351e79c5fab3d5759e4a8574ba2":[7,0,0,0,1,3,5,4,0,0,9,3],
 "de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2b197a67ddc5aa697170968a192838df":[7,0,0,0,1,3,5,4,0,0,9,5],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,5,4,0,0,9,2],
-"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a625ad0393d1c2c5e2c1c0b14e70eaae7":[7,0,0,0,1,3,5,4,0,0,9,6]
+"de/dc0/boss__bronjahm_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,5,4,0,0,9,2]
 };

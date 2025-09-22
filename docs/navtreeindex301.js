@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9ca88f0df00efaa4d36aa53bee423ff51b8":[7,0,0,0,1,3,5,4,1,2,36,4],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caa4b8db0abc842d692eceb879c9c21e48":[7,0,0,0,1,3,5,4,1,2,36,9],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caac611d00fa11a623b29f39fdaead807f":[7,0,0,0,1,3,5,4,1,2,36,2],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caace50dad2ffee3b41203adffc0373728":[7,0,0,0,1,3,5,4,1,2,36,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a457f2725e6580d7e6f3bb0445ba796a8":[6,0,2260,0,2],
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a598ba7930900aa211bb7e7dc12f366c0":[6,0,2260,0,1],
 "dc/d14/structnpc__valithria__portal_1_1npc__valithria__portalAI.html#a92cc0c2aaa6add0c6c641719d6846bb3":[6,0,2260,0,3],
-"dc/d16/boss__hydromancer__thespia_8cpp.html":[7,0,0,0,1,3,7,2,2,0],
-"dc/d16/boss__hydromancer__thespia_8cpp.html#a0a9bb9014bd5526d13141dcef207c234":[7,0,0,0,1,3,7,2,2,0,2]
+"dc/d16/boss__hydromancer__thespia_8cpp.html":[7,0,0,0,1,3,7,2,2,0]
 };

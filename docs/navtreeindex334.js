@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234":[7,0,0,0,1,3,5,9,1,2,8,0],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,9,1,2,8,5],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[7,0,0,0,1,3,5,9,1,2,8,8],
 "dd/dac/classspell__valkyr__touch__aura.html":[6,0,3950],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dd/db1/classachievement__assembly__of__iron.html":[6,0,32],
 "dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,32,2],
 "dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,32,1],
-"dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[6,0,32,0],
-"dd/db1/classspell__gen__replenishment.html":[6,0,3013]
+"dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[6,0,32,0]
 };

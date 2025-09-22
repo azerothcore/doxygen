@@ -1,5 +1,6 @@
 var NAVTREEINDEX370 =
 {
+"de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[6,0,2060,2],
 "de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[6,0,2060,6],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html":[6,0,3061],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a048695baf71d307e5aaa00e54586c9f7":[6,0,3061,1],
@@ -76,10 +77,10 @@ var NAVTREEINDEX370 =
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2331,25],
 "de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,0],
 "de/da2/classMMAP_1_1IMMapMgr.html":[5,0,20,0],
-"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,0,0],
-"de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,0,4],
+"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,0,4],
+"de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,0,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX370 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a504541deebca11d7990da4501e20d8d7":[7,0,0,0,1,1,0,0,1,1,305],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a509a9198e21d1d5bc8e77b4e2b89a4d3":[7,0,0,0,1,1,0,0,1,1,446],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a51c20332895bfb84502a43681c4eb711":[7,0,0,0,1,1,0,0,1,1,177],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a529723f0f5a9f115997644377f82c6d0":[7,0,0,0,1,1,0,0,1,1,426],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a52c1b6b547d3d35e27c7747e06f5a225":[7,0,0,0,1,1,0,0,1,1,81]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a529723f0f5a9f115997644377f82c6d0":[7,0,0,0,1,1,0,0,1,1,426]
 };

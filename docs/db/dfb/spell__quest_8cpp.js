@@ -248,7 +248,8 @@ var spell__quest_8cpp =
     ] ],
     [ "Quest12937Data", "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc", [
       [ "SPELL_TRIGGER_AID_OF_THE_EARTHEN", "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcae2bb0945c16986078d2c8b5f71272d7b", null ],
-      [ "NPC_FALLEN_EARTHEN_DEFENDER", "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dca4188ec15e3cb30e3a561d4b9e9c0e7b8", null ]
+      [ "NPC_FALLEN_EARTHEN_DEFENDER", "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dca4188ec15e3cb30e3a561d4b9e9c0e7b8", null ],
+      [ "TALK_FALLEN_EARTHEN_HEALED", "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcafe0cf1a9db25cc05982796389558410a", null ]
     ] ],
     [ "Quest13291_13292_13239_13261Data", "db/dfb/spell__quest_8cpp.html#a1314755181866e8b8701c74f1ecfe3a3", [
       [ "NPC_SKYTALON", "db/dfb/spell__quest_8cpp.html#a1314755181866e8b8701c74f1ecfe3a3ae6a8a067b9253e5914dd0db42cdf39b8", null ],

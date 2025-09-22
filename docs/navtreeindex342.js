@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,3963,3],
 "de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,3963,0],
 "de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,3963,1],
 "de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,3963,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a9ff9c7bbe3ffac8995e20c73ac930967":[7,0,0,0,1,4,7,75,12],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a":[7,0,0,0,1,4,7,75,10],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac5d8ae424ffe5e41e0076bcae9b70d34":[7,0,0,0,1,4,7,75,17],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ada2da0b184a1c1cb0ab4cd7de4e0b12d":[7,0,0,0,1,4,7,75,32],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9adfd56d9763c20bc6841ea111355f7fb8":[7,0,0,0,1,4,7,75,0]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ada2da0b184a1c1cb0ab4cd7de4e0b12d":[7,0,0,0,1,4,7,75,32]
 };

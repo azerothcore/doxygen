@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a857fe32978c50fc86fd72c97526cb9bd":[7,0,0,0,1,2,41,9,65,0],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a881abe2c3bf001abaf082d7f87b9c79d":[7,0,0,0,1,2,41,9,65,14],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a9bb0ad493ce3eb1cd0ad1a56857975d8":[7,0,0,0,1,2,41,9,65,8],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620aa087c9c6b23d8341f54b0d5bf29a5519":[7,0,0,0,1,2,41,9,65,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a7cdab6cdc847b4b3c434ee42ff458dae":[6,0,1297,0,16],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a87002a39776087346791b9026c6e2e07":[6,0,1297,0,21],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a96d30d5f0dabb385f36e4b0a0762a16a":[6,0,1297,0,20],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a9e90b4dd34a8a81b499b1402fbbaf218":[6,0,1297,0,13],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aa3433b8a185c31d8c00ae1ffab10baa2":[6,0,1297,0,2]
+"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a9e90b4dd34a8a81b499b1402fbbaf218":[6,0,1297,0,13]
 };

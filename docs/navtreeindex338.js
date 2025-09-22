@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[6,0,2915],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[6,0,2915,1],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[6,0,2915,2],
 "dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[6,0,2915,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2791,2],
 "dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2791,1],
 "dd/dd6/boss__halion_8cpp.html":[7,0,0,0,1,3,5,1,1,2],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31],
-"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5]
+"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31]
 };

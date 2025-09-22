@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/dbb/BankPackets_8cpp.html":[7,0,0,0,1,2,39,0,1],
 "df/dbb/classspell__gen__netherbloom.html":[6,0,2987],
 "df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[6,0,2987,0],
 "df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[6,0,2987,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[6,0,1611,0,10],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[6,0,1611,0,6],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1611,0,2],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1611,0,8],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[6,0,1611,0,7]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1611,0,8]
 };

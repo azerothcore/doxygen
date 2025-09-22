@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[6,0,2212,0],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[6,0,2212,0,2],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[6,0,2212,0,8],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[6,0,2212,0,5],
@@ -120,8 +121,8 @@ var NAVTREEINDEX395 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1713,0,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,31,8,6],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,8,6],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,8,6,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,31,8,6,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,8,6,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,8,6,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,31,8,6,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,31,8,6,1],
@@ -213,12 +214,12 @@ var NAVTREEINDEX395 =
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2189,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,11,5,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,31,5,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,31,5,50,1],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,11,5,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,11,5,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,31,5,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,11,5,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,31,5,50,0],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,11,5,50,0],
 "df/db9/structAddonInfo.html":[6,0,129],
 "df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[6,0,129,3],
 "df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[6,0,129,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4],
 "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[6,0,1914,0],
 "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[6,0,1914,0,0],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1914,0,1],
-"df/dbb/BankPackets_8cpp.html":[7,0,0,0,1,2,39,0,1]
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1914,0,1]
 };

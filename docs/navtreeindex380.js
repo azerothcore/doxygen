@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d13/classEllipseBoundary.html":[6,0,1009],
 "df/d13/classEllipseBoundary.html#a203ccf7ca23f1d66f834bdadb8b18b31":[6,0,1009,1],
 "df/d13/classEllipseBoundary.html#aa84bae8bced77e38fec652e473cf39c7":[6,0,1009,2],
 "df/d13/classEllipseBoundary.html#ad781cadd6c09e482d3a93ad71440a4c2":[6,0,1009,4],
@@ -148,12 +149,12 @@ var NAVTREEINDEX380 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,1,4,1],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,1,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,1,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,1,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -185,8 +186,8 @@ var NAVTREEINDEX380 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,31,5,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,5,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,31,5,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d17/group__world.html#gaea61d86d9a64dd5dbc8ea843aad97eb6":[4,2,41],
 "df/d17/group__world.html#gaeb74bbd4568c726a2443318aea6313d0":[4,2,55],
 "df/d17/group__world.html#gaed38cecb6af95222638b2177fa48757c":[4,2,37],
-"df/d17/group__world.html#gaf4ec787c400c0e90101f00d022c2c9fd":[4,2,49],
-"df/d17/group__world.html#gaf7a3484daa8221287a4c325fb3a8080c":[4,2,46]
+"df/d17/group__world.html#gaf4ec787c400c0e90101f00d022c2c9fd":[4,2,49]
 };

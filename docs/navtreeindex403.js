@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a13c505b17edf9f843c6c638802eb62aa":[6,0,1853,0,8],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f1bb445ea29daaf479e7171c96db901":[6,0,1853,0,4],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d":[6,0,1853,0,6],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1853,0,11],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a63a1741fba6e0fecaf9aac6b6c397acf":[6,0,1853,0,9]
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a5c8ce256ab8e71705bc8d84f08245417":[6,0,1853,0,11]
 };

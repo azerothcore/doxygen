@@ -330,12 +330,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  257</span>        {</div>
-<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">if</span> (ar-&gt;ToPlayer()-&gt;GetQuestStatus(11317) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a> || ar-&gt;ToPlayer()-&gt;GetQuestStatus(11322) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno">  259</span>                ar-&gt;SummonCreature(27959, 3032.0f, -5095.0f, 723.0f, 0.0f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
-<div class="line"><span class="lineno">  260</span> </div>
-<div class="line"><span class="lineno">  261</span>            ar-&gt;SetStandState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1">UNIT_STAND_STATE_SIT</a>);</div>
-<div class="line"><span class="lineno">  262</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  258</span>        {</div>
+<div class="line"><span class="lineno">  259</span>            <span class="keywordflow">if</span> (ar-&gt;ToPlayer()-&gt;GetQuestStatus(11317) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a> || ar-&gt;ToPlayer()-&gt;GetQuestStatus(11322) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno">  260</span>                ar-&gt;SummonCreature(27959, 3032.0f, -5095.0f, 723.0f, 0.0f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>            ar-&gt;SetStandState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1">UNIT_STAND_STATE_SIT</a>);</div>
+<div class="line"><span class="lineno">  263</span>        }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</div><div class="ttdef"><b>Definition</b> Object.h:51</div></div>
 <div class="ttc" id="aQuestDef_8h_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition</b> QuestDef.h:103</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1">UNIT_STAND_STATE_SIT</a></div><div class="ttdeci">@ UNIT_STAND_STATE_SIT</div><div class="ttdef"><b>Definition</b> UnitDefines.h:33</div></div>
@@ -394,9 +394,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  266</span>    {</div>
-<div class="line"><span class="lineno">  267</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(spell_q11322_q11317_the_cleansing::HandleEffectApply, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  268</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  267</span>    {</div>
+<div class="line"><span class="lineno">  268</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(spell_q11322_q11317_the_cleansing::HandleEffectApply, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  269</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -443,7 +443,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dec/classspell__q11322__q11317__the__cleansing.html">spell_q11322_q11317_the_cleansing</a></li>
-    <li class="footer">Generated on Sun Sep 21 2025 06:22:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 22 2025 06:25:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

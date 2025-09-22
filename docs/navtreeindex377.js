@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea66581d4ea55e602e76d213e362896511":[7,0,0,0,1,3,5,6,9,38,0],
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea6de4ea7db4f93aad14cdeb58758f121c":[7,0,0,0,1,3,5,6,9,38,2],
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea8a524298496082994a3675c6ccf47bdd":[7,0,0,0,1,3,5,6,9,38,1],
 "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1":[7,0,0,0,1,3,5,6,9,38,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "de/dee/classcast__commandscript.html#aa72bd317a3498ef07007c1a9e81e2796":[6,0,836,10],
 "de/dee/classcast__commandscript.html#aabbcac8e85c6a64a647d71bb22bebede":[6,0,836,8],
 "de/dee/classcast__commandscript.html#ab0890c036a8d301b382fdd1b6371f671":[6,0,836,3],
-"de/dee/classcast__commandscript.html#ac28430cc0623209b891bacbb4845509b":[6,0,836,6],
-"de/def/classboss__highlord__omokk.html":[6,0,535]
+"de/dee/classcast__commandscript.html#ac28430cc0623209b891bacbb4845509b":[6,0,836,6]
 };

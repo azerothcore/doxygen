@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dd/dc1/MovementUtil_8cpp.html#a40f989c23fe19e12628da3cd9e64edf4":[7,0,0,0,1,2,31,1,3,2],
 "dd/dc1/MovementUtil_8cpp.html#a4e816239736800d4508c1fc14e624ddc":[7,0,0,0,1,2,31,1,3,9],
 "dd/dc1/MovementUtil_8cpp.html#a654673c77f53f27a80309b050d44d38d":[7,0,0,0,1,2,31,1,3,10],
 "dd/dc1/MovementUtil_8cpp.html#a7d1eb637bb6ae4a1859504fb84872808":[7,0,0,0,1,2,31,1,3,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2138,2],
 "dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2138,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
-"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
-"dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75]
+"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1b":[7,0,0,0,1,3,5,18,46],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba0d64583c8b42baf946ae044bd1f20f2c":[7,0,0,0,1,3,5,18,46,0],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba3d72001c4a7b95e6ee5ac0670025e730":[7,0,0,0,1,3,5,18,46,3],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba64c07f7991328575dcb4772f7974b753":[7,0,0,0,1,3,5,18,46,7],
@@ -114,18 +115,18 @@ var NAVTREEINDEX373 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[6,0,0,1,1,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,1,2,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[6,0,0,1,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[6,0,0,1,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[6,0,0,1,1,0,2],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,1,2,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
 "de/da9/classMotionTransport.html":[6,0,1525],
 "de/da9/classMotionTransport.html#a00417cfdf5901d38c0adf04f8d734dcf":[6,0,1525,18],
 "de/da9/classMotionTransport.html#a09f55f2b1ee17805d3ffdafd10eac768":[6,0,1525,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/dad/classspell__despawner__self.html":[6,0,2747],
 "de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[6,0,2747,3],
 "de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[6,0,2747,2],
-"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2747,1],
-"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2747,0]
+"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2747,1]
 };

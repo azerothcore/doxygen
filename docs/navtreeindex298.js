@@ -220,6 +220,7 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[7,0,0,0,1,3,9,8,103],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dca4188ec15e3cb30e3a561d4b9e9c0e7b8":[7,0,0,0,1,3,9,8,103,1],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcae2bb0945c16986078d2c8b5f71272d7b":[7,0,0,0,1,3,9,8,103,0],
+"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcafe0cf1a9db25cc05982796389558410a":[7,0,0,0,1,3,9,8,103,2],
 "db/dfb/spell__quest_8cpp.html#adcf71893f9ac87a85ac7a1562cdca6d3":[7,0,0,0,1,3,9,8,101],
 "db/dfb/spell__quest_8cpp.html#adcf71893f9ac87a85ac7a1562cdca6d3a52cf074227bd83fb6e8f2115f2225b26":[7,0,0,0,1,3,9,8,101,0],
 "db/dfb/spell__quest_8cpp.html#adf52d34d709391b95add43de7eedefff":[7,0,0,0,1,3,9,8,95],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a182dca1aea22740c6bbf97565396b6ee":[7,0,0,0,1,3,9,8,96,1],
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,96,0],
 "db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90d":[7,0,0,0,1,3,9,8,97],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dad9f6131e9a41f30d6544aa1332442dcc":[7,0,0,0,1,3,9,8,97,1]
+"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,97,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a14e03d152c58b504c232ebb687dec528":[7,0,0,0,1,3,5,1,1,2,31,3],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b1c2e9fbaceb3cb2fb8fd35fae82587":[7,0,0,0,1,3,5,1,1,2,31,2],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad":[7,0,0,0,1,3,5,1,1,2,31,4],
@@ -146,12 +147,12 @@ var NAVTREEINDEX339 =
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,31,5,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,11,5,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,31,5,6,4],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,31,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,11,5,6,1],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,31,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,11,5,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,31,5,6,3],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,31,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[6,0,11,5,6,5],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,31,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[6,0,11,5,6,0],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,31,5,6,0],
 "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html":[6,0,376,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/de0/classGroupScript.html#a0680f82522424afc364e9b94e1c6f686":[6,0,1236,0],
 "dd/de0/classGroupScript.html#a18973a7e5f260712f032ca1129d4a0bc":[6,0,1236,5],
 "dd/de0/classGroupScript.html#a2ae925dc27708fdaa4d5909b582b77a7":[6,0,1236,7],
-"dd/de0/classGroupScript.html#a3cb94966ba1d02180fb3e7cf95000e5f":[6,0,1236,6],
-"dd/de0/classGroupScript.html#a64a1441fd3db3f25236691efcff4a80b":[6,0,1236,4]
+"dd/de0/classGroupScript.html#a3cb94966ba1d02180fb3e7cf95000e5f":[6,0,1236,6]
 };
