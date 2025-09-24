@@ -19,6 +19,8 @@ var classCreatureAI =
     [ "CanSeeAlways", "d5/d79/classCreatureAI.html#a0619d01bf9eab0b2201fefccb829bc45", null ],
     [ "CheckInRoom", "d5/d79/classCreatureAI.html#ac43a29ce3cf25c376853a52f3829c0ee", null ],
     [ "CorpseRemoved", "d5/d79/classCreatureAI.html#ae7d3a9d75687236fcd615a1ac624db59", null ],
+    [ "DistancingEnded", "d5/d79/classCreatureAI.html#ade93a239946f2b95ff1c48e6e5f87b15", null ],
+    [ "DistancingStarted", "d5/d79/classCreatureAI.html#a5165233f8f2b12c2160da1cae2e31b87", null ],
     [ "DoSummon", "d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d", null ],
     [ "DoSummon", "d5/d79/classCreatureAI.html#aea867029296aaa7739a5d46c4294105f", null ],
     [ "DoSummonFlyer", "d5/d79/classCreatureAI.html#a40ce129b0c97a9d38edbbfc888c53486", null ],

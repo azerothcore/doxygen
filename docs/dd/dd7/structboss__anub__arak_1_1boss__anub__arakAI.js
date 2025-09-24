@@ -8,7 +8,9 @@ var structboss__anub__arak_1_1boss__anub__arakAI =
     [ "KilledUnit", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a33e26ae3907e84ecc02514e4133e3002", null ],
     [ "MoveInLineOfSight", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
     [ "Reset", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
+    [ "SummonedCreatureDies", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a6cad75f84265cc45631c7962e355e935", null ],
     [ "SummonHelpers", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a709ef4602ace41c9b9ccebe8795badec", null ],
     [ "UpdateAI", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#acf3ddec273ded62c768631be2b3299fa", null ],
-    [ "intro", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a4916d6a1ed06330e94698a13c404ee52", null ]
+    [ "_intro", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#afcdac68dfc0294ec3caf0d3670565354", null ],
+    [ "_summonedMinions", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html#a40d9fa6d81ab402d0855508e6b3e9dda", null ]
 ];

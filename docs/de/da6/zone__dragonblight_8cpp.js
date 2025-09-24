@@ -43,6 +43,8 @@ var zone__dragonblight_8cpp =
     [ "spell_dragonblight_corrosive_spit", "da/db7/classspell__dragonblight__corrosive__spit.html", "da/db7/classspell__dragonblight__corrosive__spit" ],
     [ "spell_handover_reins", "d9/d91/classspell__handover__reins.html", "d9/d91/classspell__handover__reins" ],
     [ "spell_dragonblight_flame_fury", "d2/d02/classspell__dragonblight__flame__fury.html", "d2/d02/classspell__dragonblight__flame__fury" ],
+    [ "spell_dragonblight_devour_ghoul", "dc/d75/classspell__dragonblight__devour__ghoul.html", "dc/d75/classspell__dragonblight__devour__ghoul" ],
+    [ "spell_dragonblight_devour_ghoul_periodic", "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html", "d9/dcd/classspell__dragonblight__devour__ghoul__periodic" ],
     [ "chainGun", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8", [
       [ "NPC_INJURED_7TH_LEGION_SOLDER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a87aa2131266fab5fcd2341454c85291a", null ],
       [ "SPELL_FEAR_AURA_WITH_COWER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a", null ]
@@ -140,6 +142,11 @@ var zone__dragonblight_8cpp =
       [ "WHISPER_OACHANOA_SUCCESS_1", "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1bafaea8ba1f119c05e016987661eeb632f", null ],
       [ "WHISPER_OACHANOA_SUCCESS_2", "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba64c07f7991328575dcb4772f7974b753", null ],
       [ "SAY_OACHANOA_FAILED", "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baabf12a7652b75fc54ea15fbaeb4604f2", null ]
+    ] ],
+    [ "DevourGhoulSpells", "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8", [
+      [ "SPELL_DEVOUR_GHOUL_RIDE_VEHICLE", "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8a98b9ffa9f69429919feab72c8c9b2a84", null ],
+      [ "SPELL_DEVOUR_PERIODIC", "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8a5b4df801c5190b0e59f1b851e52050c1", null ],
+      [ "SPELL_NOURISHMENT", "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8a1bb4dd3600a115e8beb46fcbb0a8097d", null ]
     ] ],
     [ "eFrostmourneCavern", "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4", [
       [ "NPC_PRINCE_ARTHAS", "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4a16f3963a1a993de00353e49a08605fef", null ]

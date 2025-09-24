@@ -1,5 +1,11 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#a9adeb123f25be65052f83b1e6aad4430":[4,1,19,493],
+"d8/d74/classWorldSession.html#a9ae6d2e8d45ac594b48f8cdd4aa5a0b9":[4,1,19,401],
+"d8/d74/classWorldSession.html#a9b7bebc680d9189e91e828f0bf821c46":[4,1,19,139],
+"d8/d74/classWorldSession.html#a9b951b905061fe4e729c4d97fb5cfee8":[4,1,19,335],
+"d8/d74/classWorldSession.html#a9bbda5ec17b1db9f4ca0c0b61113ef68":[4,1,19,571],
+"d8/d74/classWorldSession.html#a9bf50435ffb7a037734f151ca40fbb4e":[4,1,19,164],
 "d8/d74/classWorldSession.html#a9c146b38b2de450854011e063d488e34":[4,1,19,64],
 "d8/d74/classWorldSession.html#a9ca8f4ca136f50031defba26f00c67a3":[4,1,19,24],
 "d8/d74/classWorldSession.html#a9d1e893be19cb76f68e6b999dd7c611e":[4,1,19,234],
@@ -243,11 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d74/classnpc__innkeeper.html":[6,0,1897],
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1897,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1897,2],
-"d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1897,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2257],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2257,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2257,1],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1954,0],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1954,0,1],
-"d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1954,0,0]
+"d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1897,1]
 };

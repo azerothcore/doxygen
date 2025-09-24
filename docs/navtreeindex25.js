@@ -1,5 +1,7 @@
 var NAVTREEINDEX25 =
 {
+"d1/d16/classSpell.html#a33c6addb2f24e2bb07610004409c0686":[6,0,2590,299],
+"d1/d16/classSpell.html#a33ed094e3dd4ee24c1a5169e93047333":[6,0,2590,278],
 "d1/d16/classSpell.html#a3410dfd5def917fb41e5a9c923246d2f":[6,0,2590,146],
 "d1/d16/classSpell.html#a344c0569da9333faba9ab063b35009d9":[6,0,2590,237],
 "d1/d16/classSpell.html#a345dbd5586fd5c63ba90140260572478":[6,0,2590,46],
@@ -27,6 +29,7 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a466e44db9d22dc72705df2d0ba488d70":[6,0,2590,229],
 "d1/d16/classSpell.html#a4678d2bf3013f3bef4c29e6b11245b3c":[6,0,2590,8],
 "d1/d16/classSpell.html#a46ec7dfb92b352447f82e07bb490a019":[6,0,2590,239],
+"d1/d16/classSpell.html#a4705721cb370bd4befd17d14565c7926":[6,0,2590,205],
 "d1/d16/classSpell.html#a47efe087ed24e95913fca681d9bb74d9":[6,0,2590,58],
 "d1/d16/classSpell.html#a48371fc36b56594c7ec8df04292b195b":[6,0,2590,276],
 "d1/d16/classSpell.html#a48b9d93136110a4bee3b3a482959becb":[6,0,2590,273],
@@ -44,7 +47,6 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a52a4af684264fbe773fcadb659d0900a":[6,0,2590,359],
 "d1/d16/classSpell.html#a52dd22675529ac80245fef319af4bf91":[6,0,2590,267],
 "d1/d16/classSpell.html#a538a5dba7f22c362a76d40252ae3dfd1":[6,0,2590,307],
-"d1/d16/classSpell.html#a542b2a19a72f114bfd8c39a322fb575d":[6,0,2590,245],
 "d1/d16/classSpell.html#a54c307a1c7306610a796ae2c97d6d68d":[6,0,2590,88],
 "d1/d16/classSpell.html#a54e1e00cce2697a4be0f0541cb3d7310":[6,0,2590,280],
 "d1/d16/classSpell.html#a55168f55332ba7e6701d58ba15846f86":[6,0,2590,266],
@@ -115,7 +117,6 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a8117c6e85b94b75ed590ef7f977570a8":[6,0,2590,17],
 "d1/d16/classSpell.html#a8167ddfcea08b00c219f5596bf774a4c":[6,0,2590,250],
 "d1/d16/classSpell.html#a8168f4dc6b6f422852dac9a1abdcb98c":[6,0,2590,74],
-"d1/d16/classSpell.html#a82317a64b74ab0d00361df92ef4c9b34":[6,0,2590,205],
 "d1/d16/classSpell.html#a8263f53b6886b99dfcc99d8e61e6e0a5":[6,0,2590,216],
 "d1/d16/classSpell.html#a83cf08ae72d2f7e49734607688c42cd3":[6,0,2590,112],
 "d1/d16/classSpell.html#a84115aff1ccb64ceed3de6a71f471d5a":[6,0,2590,130],
@@ -144,7 +145,6 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a97631df87d99fcf61c1eba094122ff76":[6,0,2590,332],
 "d1/d16/classSpell.html#a987ed6b9754005e13e2321b26708cc29":[6,0,2590,42],
 "d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2":[6,0,2590,213],
-"d1/d16/classSpell.html#a99bc098d3e30bb1935ee0a6f5e37a331":[6,0,2590,243],
 "d1/d16/classSpell.html#a9b60a7a9298c8d008ba2092c87a36e98":[6,0,2590,317],
 "d1/d16/classSpell.html#a9c7afa4ff7513fda076a81298f2bc7e6":[6,0,2590,362],
 "d1/d16/classSpell.html#a9cc24c48226f54e27826e3ad1acc7ca4":[6,0,2590,252],
@@ -159,6 +159,7 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#aa7031bfbd0cb6df5192d7ac6eaf965fc":[6,0,2590,336],
 "d1/d16/classSpell.html#aa70880f32c67326c5348b4d43e71b010":[6,0,2590,161],
 "d1/d16/classSpell.html#aa82587a1bed4b000e9e84af5927ea898":[6,0,2590,135],
+"d1/d16/classSpell.html#aa9047598bc4159fad51cc88fa3d63652":[6,0,2590,244],
 "d1/d16/classSpell.html#aa97dea4a1684b9818ac11df709e46ebc":[6,0,2590,192],
 "d1/d16/classSpell.html#aa9dcc23b576a259c40ba9acbf68b9125":[6,0,2590,296],
 "d1/d16/classSpell.html#aaa2bf5651dda412ff230f3a9dc5573de":[6,0,2590,128],
@@ -169,6 +170,7 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#aaf3cae5cbd7218663e176c34b3b7cf50":[6,0,2590,189],
 "d1/d16/classSpell.html#aaf9581e80903c8fb7f96ea3e1d9e0173":[6,0,2590,225],
 "d1/d16/classSpell.html#ab00bfde34dc5dcdc6e1035608e14c067":[6,0,2590,6],
+"d1/d16/classSpell.html#ab02edf0501928564a06e1fe95b6cd09f":[6,0,2590,245],
 "d1/d16/classSpell.html#ab0c4699016a44136384cabd65a70f546":[6,0,2590,268],
 "d1/d16/classSpell.html#ab1276b2cbed008c4bff5aa00af5e117b":[6,0,2590,180],
 "d1/d16/classSpell.html#ab191335cf0379cfc4483c6404eebd285":[6,0,2590,283],
@@ -245,9 +247,7 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#adb9a9f66bc922666327081265b8bf253":[6,0,2590,355],
 "d1/d16/classSpell.html#adcc163009b8daca4a7f08b664f21d42a":[6,0,2590,340],
 "d1/d16/classSpell.html#add9cd1a79cc73388efbc0ae55fc97f96":[6,0,2590,147],
-"d1/d16/classSpell.html#adebb4d624890184a3960d6edcb25eca2":[6,0,2590,244],
 "d1/d16/classSpell.html#adedc2349e92848ab5bd8508d44c0bcae":[6,0,2590,101],
 "d1/d16/classSpell.html#adf73d7635455658b3a96095e59e20d68":[6,0,2590,270],
-"d1/d16/classSpell.html#ae0145f14c4a608000c5b928e9cb4e099":[6,0,2590,251],
-"d1/d16/classSpell.html#ae1d3075f42cccfa27b9ea322c2b7b44d":[6,0,2590,61]
+"d1/d16/classSpell.html#ae0145f14c4a608000c5b928e9cb4e099":[6,0,2590,251]
 };

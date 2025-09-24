@@ -1,5 +1,8 @@
 var NAVTREEINDEX110 =
 {
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a703483f8524bd3a6aef8cfa894313867":[7,0,0,0,1,4,0,2,15,47],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7463012c253805417e0667e772d5a985":[7,0,0,0,1,4,0,2,15,66],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a76c510bcedd4d6f00a9cbc4e01664cdf":[7,0,0,0,1,4,0,2,15,18],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7954db249829af829a878c9f10ebd1ab":[7,0,0,0,1,4,0,2,15,73],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7a228f44074f44bec4ca6be425933516":[7,0,0,0,1,4,0,2,15,53],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7acd174611a3c3e3f5dd7fffe876f374":[7,0,0,0,1,4,0,2,15,90],
@@ -240,14 +243,11 @@ var NAVTREEINDEX110 =
 "d3/dd1/classspell__dk__raise__ally.html#a465da282630352a289d5daae7ccb1d01":[6,0,2786,2],
 "d3/dd1/classspell__dk__raise__ally.html#ac7084a563e98760d58dfbcafdd7cde11":[6,0,2786,1],
 "d3/dd1/classspell__dk__raise__ally.html#ae668f0c45a74d56d1be5be29309c9f6d":[6,0,2786,3],
-"d3/dd1/classspell__q13086__last__line__of__defence.html":[6,0,3695],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#a177525c755b036a79263c0fa6fa4082e":[6,0,3695,2],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#a6697a22b684784853cb1999d41fcaaa7":[6,0,3695,5],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#a946e56a325d83656d9b43af80d065e45":[6,0,3695,4],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#a9c1dadd5a3e2e039b50a414ac589ebf4":[6,0,3695,1],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#ac08e632064c407346649f525d030d335":[6,0,3695,0],
-"d3/dd1/classspell__q13086__last__line__of__defence.html#aed99b07a53068b19bddb4daff3449a52":[6,0,3695,3],
-"d3/dd1/structWMOLiquidHeader.html":[6,0,4293],
-"d3/dd1/structWMOLiquidHeader.html#a183ec8ec2d8d30726494c6b3d3b8606a":[6,0,4293,3],
-"d3/dd1/structWMOLiquidHeader.html#a6cd85f2a674d732e88371ffce5e46077":[6,0,4293,2]
+"d3/dd1/classspell__q13086__last__line__of__defence.html":[6,0,3698],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#a177525c755b036a79263c0fa6fa4082e":[6,0,3698,2],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#a6697a22b684784853cb1999d41fcaaa7":[6,0,3698,5],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#a946e56a325d83656d9b43af80d065e45":[6,0,3698,4],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#a9c1dadd5a3e2e039b50a414ac589ebf4":[6,0,3698,1],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#ac08e632064c407346649f525d030d335":[6,0,3698,0],
+"d3/dd1/classspell__q13086__last__line__of__defence.html#aed99b07a53068b19bddb4daff3449a52":[6,0,3698,3]
 };

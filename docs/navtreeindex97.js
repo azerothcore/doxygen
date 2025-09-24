@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac370515de648651d4ab2e9c62185ce01":[7,0,0,0,1,2,48,7,0,39],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac3858ea585ab107f67e032b7245bd4f4":[7,0,0,0,1,2,48,7,0,344],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac41880d016fa8fd7dce6578173c55e3a":[7,0,0,0,1,2,48,7,0,282],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac419fe26d11bc75d1330fbf43fb3ce3b":[7,0,0,0,1,2,48,7,0,429],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac44c34b3a18bb02fc03973b719699c08":[7,0,0,0,1,2,48,7,0,172],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac47c72c9d07f9764ad42845581411983":[7,0,0,0,1,2,48,7,0,503],
@@ -103,11 +106,11 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3418],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3418,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3418,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3418,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3418,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3421],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3421,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3421,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3421,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3421,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#ad4ed0df79ff061a4735538067fa4a372":[6,0,1252,0,11],
 "d3/d4f/classachievement__staying__buffed__all__winter__10.html":[6,0,93],
 "d3/d4f/classachievement__staying__buffed__all__winter__10.html#a40afd6db0bf6cff2b9b6163b7d4c31da":[6,0,93,0],
-"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,93,1],
-"d3/d4f/classnpc__alchemist__adrianna.html":[6,0,1580],
-"d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1580,1],
-"d3/d4f/classnpc__alchemist__adrianna.html#a310d375bc73c51e407580b063a6543fa":[6,0,1580,0]
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,93,1]
 };

@@ -33,7 +33,7 @@ var classSpellEffectInfo =
     [ "DamageMultiplier", "da/db9/classSpellEffectInfo.html#a4ea127f1627b642743ab7f1d2467492a", null ],
     [ "DieSides", "da/db9/classSpellEffectInfo.html#aee74e36f2e739bdfb7db58a3206f25c1", null ],
     [ "Effect", "da/db9/classSpellEffectInfo.html#a56e153b4d14308ad4dfecddbad472b7c", null ],
-    [ "ImplicitTargetConditions", "da/db9/classSpellEffectInfo.html#a447a2f5cb761266aa789e995b0404097", null ],
+    [ "ImplicitTargetConditions", "da/db9/classSpellEffectInfo.html#a16ac081ae107669d46fc193300c1646a", null ],
     [ "ItemType", "da/db9/classSpellEffectInfo.html#ae55c90629f04e78543272dfc9bb58474", null ],
     [ "Mechanic", "da/db9/classSpellEffectInfo.html#a0393ae60c9232deea8584ab145283ee0", null ],
     [ "MiscValue", "da/db9/classSpellEffectInfo.html#a82756b2eddda518fab5057a20e14a617", null ],

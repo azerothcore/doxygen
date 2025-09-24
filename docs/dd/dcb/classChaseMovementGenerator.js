@@ -2,6 +2,8 @@ var classChaseMovementGenerator =
 [
     [ "ChaseMovementGenerator", "dd/dcb/classChaseMovementGenerator.html#ac98da5e0e4e4bb24d67ce554095b0bd1", null ],
     [ "~ChaseMovementGenerator", "dd/dcb/classChaseMovementGenerator.html#ac30308e6e93e600778047e6dc54ebb74", null ],
+    [ "DispatchSplineToPosition", "dd/dcb/classChaseMovementGenerator.html#af9d77d78ac8771e18fbaa463ce6ab29b", null ],
+    [ "DistanceYourself", "dd/dcb/classChaseMovementGenerator.html#ab26ee9709942a38a6e713c0385328e15", null ],
     [ "DoFinalize", "dd/dcb/classChaseMovementGenerator.html#a529672fc598fa3c38cbf309c4e95c7bc", null ],
     [ "DoInitialize", "dd/dcb/classChaseMovementGenerator.html#a6aa7761c76b70e6a171696f1afaac141", null ],
     [ "DoInitialize", "dd/dcb/classChaseMovementGenerator.html#a802b80cc6ae928821c06121001365db6", null ],
@@ -14,14 +16,17 @@ var classChaseMovementGenerator =
     [ "HasLostTarget", "dd/dcb/classChaseMovementGenerator.html#ad3100749f673d40913020f0d1df1e692", null ],
     [ "MovementInform", "dd/dcb/classChaseMovementGenerator.html#ac325e618f8dd0376a7c726df993e2e3d", null ],
     [ "PositionOkay", "dd/dcb/classChaseMovementGenerator.html#a11b7bbb07819ac4cbe6c9268429047ea", null ],
+    [ "SetNewTarget", "dd/dcb/classChaseMovementGenerator.html#a4ca225d9e4ded1e7de6249595f69f912", null ],
+    [ "SetOffsetAndAngle", "dd/dcb/classChaseMovementGenerator.html#a9b29cbccc856e2ca05f7a3d83bbe03b0", null ],
     [ "unitSpeedChanged", "dd/dcb/classChaseMovementGenerator.html#a81cb99fcec507afb4b0dc8d8a3081cdc", null ],
-    [ "_angle", "dd/dcb/classChaseMovementGenerator.html#aa3e0905ba4fa77eff57293d1bb707c8e", null ],
+    [ "_angle", "dd/dcb/classChaseMovementGenerator.html#a40340fa8d9408a63c564b2a08e9b892a", null ],
     [ "_lastTargetPosition", "dd/dcb/classChaseMovementGenerator.html#a80f2f31af93c87371208f2febd03f698", null ],
     [ "_movingTowards", "dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6", null ],
     [ "_mutualChase", "dd/dcb/classChaseMovementGenerator.html#a023e40670b8265260c4e3460bd1bf60c", null ],
-    [ "_range", "dd/dcb/classChaseMovementGenerator.html#ab99da8a9aa9dfcea3e01ee755cb06314", null ],
+    [ "_range", "dd/dcb/classChaseMovementGenerator.html#aad69ac268be888468f5952344c1be090", null ],
     [ "i_leashExtensionTimer", "dd/dcb/classChaseMovementGenerator.html#ae525659d62dc022ffcc03566ad23a01f", null ],
     [ "i_path", "dd/dcb/classChaseMovementGenerator.html#a8eae21b6df1513ecd17407d59bf52fb2", null ],
     [ "i_recalculateTravel", "dd/dcb/classChaseMovementGenerator.html#ab80b5a4575f9b484764a36634dd6faf2", null ],
-    [ "i_recheckDistance", "dd/dcb/classChaseMovementGenerator.html#ab8db38136708c7032eaba9149b8dc4e0", null ]
+    [ "i_recheckDistance", "dd/dcb/classChaseMovementGenerator.html#ab8db38136708c7032eaba9149b8dc4e0", null ],
+    [ "m_currentMode", "dd/dcb/classChaseMovementGenerator.html#a1fb849d253927d30f7f88de68341d621", null ]
 ];

@@ -88,6 +88,7 @@ var spell__item_8cpp =
     [ "spell_item_complete_raptor_capture", "dd/de6/classspell__item__complete__raptor__capture.html", "dd/de6/classspell__item__complete__raptor__capture" ],
     [ "spell_item_impale_leviroth", "de/dcb/classspell__item__impale__leviroth.html", "de/dcb/classspell__item__impale__leviroth" ],
     [ "spell_item_brewfest_mount_transformation", "db/d81/classspell__item__brewfest__mount__transformation.html", "db/d81/classspell__item__brewfest__mount__transformation" ],
+    [ "spell_item_brewfest_hops", "db/db0/classspell__item__brewfest__hops.html", "db/db0/classspell__item__brewfest__hops" ],
     [ "spell_item_nitro_boots", "d9/d5c/classspell__item__nitro__boots.html", "d9/d5c/classspell__item__nitro__boots" ],
     [ "spell_item_teach_language", "d0/d3f/classspell__item__teach__language.html", "d0/d3f/classspell__item__teach__language" ],
     [ "spell_item_rocket_boots", "d2/d6f/classspell__item__rocket__boots.html", "d2/d6f/classspell__item__rocket__boots" ],
@@ -161,7 +162,8 @@ var spell__item_8cpp =
       [ "SPELL_MOUNT_KODO_100", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513acfbc72c50bef304818fb18aea5f873fc", null ],
       [ "SPELL_MOUNT_KODO_60", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513ade79d3437573be2a17d9ff816e6b97fa", null ],
       [ "SPELL_BREWFEST_MOUNT_TRANSFORM", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513a687d7aabd20d9c61a54d8a6448495345", null ],
-      [ "SPELL_BREWFEST_MOUNT_TRANSFORM_REVERSE", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513a003df4c71ea10e84407e0d8ab7a0af56", null ]
+      [ "SPELL_BREWFEST_MOUNT_TRANSFORM_REVERSE", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513a003df4c71ea10e84407e0d8ab7a0af56", null ],
+      [ "SPELL_FRESH_DWARVEN_HOPS", "db/d6e/spell__item_8cpp.html#aef1fa4d8eab276d8fd55e55a92237513ad063b08c4219bfba1fdf3a1dbb920057", null ]
     ] ],
     [ "BrittleArmor", "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079", [
       [ "SPELL_BRITTLE_ARMOR", "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079ae9db0efd6f0086e7aab260f4ec8c502f", null ]

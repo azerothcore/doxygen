@@ -252,6 +252,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afa92eeb50af35d0c7ab49c90509d0a57 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI" id="r_a047d300ab37a17b0ff5ee133c31aa08d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d">OnAuraRemove</a> (<a class="el" href="../../d1/d61/classAuraApplication.html">AuraApplication</a> *, <a class="el" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115e">AuraRemoveMode</a>)</td></tr>
 <tr class="separator:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI" id="r_a5165233f8f2b12c2160da1cae2e31b87"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5165233f8f2b12c2160da1cae2e31b87">DistancingStarted</a> ()</td></tr>
+<tr class="separator:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI" id="r_ade93a239946f2b95ff1c48e6e5f87b15"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#ade93a239946f2b95ff1c48e6e5f87b15">DistancingEnded</a> ()</td></tr>
+<tr class="separator:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classUnitAI"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classUnitAI')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/ddd/classUnitAI.html">UnitAI</a></td></tr>
 <tr class="memitem:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI" id="r_a47314b7b16464a57a8bfa010900ec032"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a47314b7b16464a57a8bfa010900ec032">UnitAI</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit)</td></tr>
 <tr class="separator:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -489,12 +493,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  453</span>        summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(summon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a>, 0, 100.0f));</div>
 <div class="line"><span class="lineno">  454</span>    }</div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a></div><div class="ttdeci">@ Random</div></div>
-<div class="ttc" id="aclassCreature_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition</b> Creature.cpp:2824</div></div>
+<div class="ttc" id="aclassCreature_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition</b> Creature.cpp:2827</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
 <div class="ttc" id="aclassUnitAI_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:110</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>, and <a class="el" href="../../#l02824">Creature::SetInCombatWithZone()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>, and <a class="el" href="../../#l02827">Creature::SetInCombatWithZone()</a>.</p>
 
 </div>
 </div>
@@ -576,7 +580,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  435</span>    }</div>
 <div class="ttc" id="aboss__felmyst_8cpp_html_a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd"><div class="ttname"><a href="../../d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd">SPELL_DEMONIC_VAPOR</a></div><div class="ttdeci">@ SPELL_DEMONIC_VAPOR</div><div class="ttdef"><b>Definition</b> boss_felmyst.cpp:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00456">_timer</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, and <a class="el" href="../../#l00062">SPELL_DEMONIC_VAPOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00456">_timer</a>, <a class="el" href="../../#l00321">SpellInfo::Id</a>, and <a class="el" href="../../#l00062">SPELL_DEMONIC_VAPOR</a>.</p>
 
 </div>
 </div>
@@ -658,7 +662,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d8e/structnpc__demonic__vapor__trail.html">npc_demonic_vapor_trail</a></li>
-    <li class="footer">Generated on Tue Sep 23 2025 06:24:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 24 2025 06:23:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

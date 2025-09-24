@@ -122,6 +122,7 @@ var WorldConfig_8h =
       [ "CONFIG_ALLOWS_RANK_MOD_FOR_PET_HEALTH", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8d41df3f64a68ce08d35ea37d9d1f150", null ],
       [ "CONFIG_MUNCHING_BLIZZLIKE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a29dade96defe28bfe03bf60912b8b861", null ],
       [ "CONFIG_ENABLE_DAZE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab77427da7dfe42dc3356adb6a660e8cb", null ],
+      [ "CONFIG_ENABLE_INFINITEAMMO", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afc5622dfe648a63a0782ff4beb239c22", null ],
       [ "CONFIG_SPELL_QUEUE_ENABLED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8022155187be48b8d30e2bbce0d5a948", null ],
       [ "CONFIG_GROUP_XP_DISTANCE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a2ec522030343e687ca9ae5913db0fa01", null ],
       [ "CONFIG_MAX_RECRUIT_A_FRIEND_DISTANCE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa5f25bccbdf5fe7e3a83a91d378418c6", null ],

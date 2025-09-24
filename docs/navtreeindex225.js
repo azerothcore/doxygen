@@ -1,5 +1,11 @@
 var NAVTREEINDEX225 =
 {
+"d8/dd2/classspell__item__party__time.html#a30b74d44bb81a04ea1cfe1b6d5f926c7":[6,0,3288,1],
+"d8/dd2/classspell__item__party__time.html#a9e8b226f3ebb33c47de584850643994f":[6,0,3288,0],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html":[6,0,1568,0],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#a1c119e9719fe139d30b7d2cfd1822ad1":[6,0,1568,0,6],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#a3fece0dc9ec211be3e4130240428ad57":[6,0,1568,0,4],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#a5bddb39afcb84311536b621679619305":[6,0,1568,0,5],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#a6cec770b61952cd8df720ac783ea46e5":[6,0,1568,0,2],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#aaa928de603fc54bbfec990160bce55e9":[6,0,1568,0,1],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#aaa928de603fc54bbfec990160bce55e9a8f666ca441d6b3c527fe55f20534c389":[6,0,1568,0,1,0],
@@ -178,10 +184,10 @@ var NAVTREEINDEX225 =
 "d8/dd7/classMarkOfNatureTargetSelector.html":[6,0,1498],
 "d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[6,0,1498,1],
 "d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1498,0],
-"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2929],
-"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2929,0],
-"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2929,2],
-"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2929,1],
+"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2931],
+"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2931,0],
+"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2931,2],
+"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2931,1],
 "d8/dd8/ObjectMgr_8cpp.html":[7,0,0,0,1,2,18,2],
 "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,2,15],
 "d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[7,0,0,0,1,2,18,2,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298cae004b15f21992923ce3aa4df17acd770":[7,0,0,0,1,3,5,24,24,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#a62f401e8d73d268a4e9e96410e9ff541":[7,0,0,0,1,3,5,24,26],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7":[7,0,0,0,1,3,5,24,21],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13":[7,0,0,0,1,3,5,24,21,3],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880":[7,0,0,0,1,3,5,24,21,2],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348":[7,0,0,0,1,3,5,24,21,0],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,5,24,21,7],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd":[7,0,0,0,1,3,5,24,21,5],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9":[7,0,0,0,1,3,5,24,21,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b":[7,0,0,0,1,3,5,24,21,4]
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13":[7,0,0,0,1,3,5,24,21,3]
 };

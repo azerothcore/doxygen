@@ -415,7 +415,8 @@ var SmartScriptMgr_8h =
       [ "SMARTCAST_AURA_NOT_PRESENT", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a69627fdd04e5549128b7d76dda1d1abc", null ],
       [ "SMARTCAST_COMBAT_MOVE", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a4718e6eea137e73dc1ec9d3d48527341", null ],
       [ "SMARTCAST_THREATLIST_NOT_SINGLE", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a8d86017350a2eb7c991415661f316771", null ],
-      [ "SMARTCAST_TARGET_POWER_MANA", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08ad342ca421a47dced74addf3ec324099c", null ]
+      [ "SMARTCAST_TARGET_POWER_MANA", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08ad342ca421a47dced74addf3ec324099c", null ],
+      [ "SMARTCAST_ENABLE_COMBAT_MOVE_ON_LOS", "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a45b3e83129018c250a9a46cbc9de5bfb", null ]
     ] ],
     [ "SmartEventFlags", "d1/dc3/SmartScriptMgr_8h.html#a20d286634b226dd65acf6f7a60dfbb10", [
       [ "SMART_EVENT_FLAG_NOT_REPEATABLE", "d1/dc3/SmartScriptMgr_8h.html#a20d286634b226dd65acf6f7a60dfbb10af3fd1bc29baca146524e5aa5c87e7f8c", null ],

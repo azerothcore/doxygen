@@ -249,6 +249,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afa92eeb50af35d0c7ab49c90509d0a57 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI" id="r_a047d300ab37a17b0ff5ee133c31aa08d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d">OnAuraRemove</a> (<a class="el" href="../../d1/d61/classAuraApplication.html">AuraApplication</a> *, <a class="el" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115e">AuraRemoveMode</a>)</td></tr>
 <tr class="separator:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI" id="r_a5165233f8f2b12c2160da1cae2e31b87"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5165233f8f2b12c2160da1cae2e31b87">DistancingStarted</a> ()</td></tr>
+<tr class="separator:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI" id="r_ade93a239946f2b95ff1c48e6e5f87b15"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#ade93a239946f2b95ff1c48e6e5f87b15">DistancingEnded</a> ()</td></tr>
+<tr class="separator:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classUnitAI"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classUnitAI')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/ddd/classUnitAI.html">UnitAI</a></td></tr>
 <tr class="memitem:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI" id="r_a47314b7b16464a57a8bfa010900ec032"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a47314b7b16464a57a8bfa010900ec032">UnitAI</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit)</td></tr>
 <tr class="separator:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -513,10 +517,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  924</span>        }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassCreature_html_a387cceb07a0dae6ad447de68f2bb67c6"><div class="ttname"><a href="../../db/dd5/classCreature.html#a387cceb07a0dae6ad447de68f2bb67c6">Creature::SetLootRecipient</a></div><div class="ttdeci">void SetLootRecipient(Unit *unit, bool withGroup=true)</div><div class="ttdef"><b>Definition</b> Creature.cpp:1331</div></div>
-<div class="ttc" id="aclassCreature_html_ade3dddee0d9a81b1357473a1cdf7016c"><div class="ttname"><a href="../../db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c">Creature::LowerPlayerDamageReq</a></div><div class="ttdeci">void LowerPlayerDamageReq(uint32 unDamage, bool damagedByPlayer=true)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3829</div></div>
-<div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1032</div></div>
+<div class="ttc" id="aclassCreature_html_ade3dddee0d9a81b1357473a1cdf7016c"><div class="ttname"><a href="../../db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c">Creature::LowerPlayerDamageReq</a></div><div class="ttdeci">void LowerPlayerDamageReq(uint32 unDamage, bool damagedByPlayer=true)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3832</div></div>
+<div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1034</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01032">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l03829">Creature::LowerPlayerDamageReq()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, and <a class="el" href="../../#l01331">Creature::SetLootRecipient()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01034">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l03832">Creature::LowerPlayerDamageReq()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, and <a class="el" href="../../#l01331">Creature::SetLootRecipient()</a>.</p>
 
 </div>
 </div>
@@ -569,7 +573,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dcd/classnpc__heated__battle.html">npc_heated_battle</a></li><li class="navelem"><a class="el" href="../../d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html">npc_heated_battleAI</a></li>
-    <li class="footer">Generated on Tue Sep 23 2025 06:24:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 24 2025 06:23:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

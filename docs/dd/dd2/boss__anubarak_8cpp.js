@@ -5,11 +5,12 @@ var boss__anubarak_8cpp =
     [ "spell_azjol_nerub_carrion_beetels", "df/db7/classspell__azjol__nerub__carrion__beetels.html", "df/db7/classspell__azjol__nerub__carrion__beetels" ],
     [ "spell_azjol_nerub_pound", "d3/d37/classspell__azjol__nerub__pound.html", "d3/d37/classspell__azjol__nerub__pound" ],
     [ "spell_azjol_nerub_impale_summon", "da/d0e/classspell__azjol__nerub__impale__summon.html", "da/d0e/classspell__azjol__nerub__impale__summon" ],
+    [ "ANAnubarakNpcs", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3", [
+      [ "NPC_ANUBAR_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3aee43e0ed66739f4855b4349c08825044", null ],
+      [ "NPC_ANUBAR_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3aad29ef5dde44c6706ec77ef755dd8333", null ]
+    ] ],
     [ "Misc", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ACHIEV_TIMED_START_EVENT", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_CHECK_HEALTH_25", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
-      [ "EVENT_CHECK_HEALTH_50", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],
-      [ "EVENT_CHECK_HEALTH_75", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a80f173b323e09c2480f3e15dbf3cf191", null ],
       [ "EVENT_CARRION_BEETELS", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aef23c96ea4a6265bca522a0df262fcf3", null ],
       [ "EVENT_LEECHING_SWARM", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac84d40b2869575c0552fca376701ef2c", null ],
       [ "EVENT_IMPALE", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3022b3440e7efa171e76be3d6fc7ba6", null ],

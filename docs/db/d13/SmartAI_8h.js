@@ -2,6 +2,7 @@ var SmartAI_8h =
 [
     [ "SmartAI", "da/ddc/classSmartAI.html", "da/ddc/classSmartAI" ],
     [ "SmartGameObjectAI", "d5/d05/classSmartGameObjectAI.html", "d5/d05/classSmartGameObjectAI" ],
+    [ "DISTANCING_CONSTANT", "db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
     [ "SmartEscortState", "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54", [
       [ "SMART_ESCORT_NONE", "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
       [ "SMART_ESCORT_ESCORTING", "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],

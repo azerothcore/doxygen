@@ -247,6 +247,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afa92eeb50af35d0c7ab49c90509d0a57 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI" id="r_a047d300ab37a17b0ff5ee133c31aa08d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d">OnAuraRemove</a> (<a class="el" href="../../d1/d61/classAuraApplication.html">AuraApplication</a> *, <a class="el" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115e">AuraRemoveMode</a>)</td></tr>
 <tr class="separator:a047d300ab37a17b0ff5ee133c31aa08d inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI" id="r_a5165233f8f2b12c2160da1cae2e31b87"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5165233f8f2b12c2160da1cae2e31b87">DistancingStarted</a> ()</td></tr>
+<tr class="separator:a5165233f8f2b12c2160da1cae2e31b87 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI" id="r_ade93a239946f2b95ff1c48e6e5f87b15"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#ade93a239946f2b95ff1c48e6e5f87b15">DistancingEnded</a> ()</td></tr>
+<tr class="separator:ade93a239946f2b95ff1c48e6e5f87b15 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classUnitAI"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classUnitAI')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/ddd/classUnitAI.html">UnitAI</a></td></tr>
 <tr class="memitem:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI" id="r_a47314b7b16464a57a8bfa010900ec032"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a47314b7b16464a57a8bfa010900ec032">UnitAI</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit)</td></tr>
 <tr class="separator:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -485,9 +489,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
 <div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Attack</a>(target, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">   45</span>}</div>
-<div class="ttc" id="aclassUnit_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10346</div></div>
+<div class="ttc" id="aclassUnit_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10342</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10346">Unit::Attack()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10342">Unit::Attack()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -642,9 +646,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a>; }</div>
-<div class="ttc" id="aCreatureAI_8h_html_adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0"><div class="ttname"><a href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a></div><div class="ttdeci">@ PERMIT_BASE_NO</div><div class="ttdef"><b>Definition</b> CreatureAI.h:248</div></div>
+<div class="ttc" id="aCreatureAI_8h_html_adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0"><div class="ttname"><a href="../../d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a></div><div class="ttdeci">@ PERMIT_BASE_NO</div><div class="ttdef"><b>Definition</b> CreatureAI.h:251</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00248">PERMIT_BASE_NO</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00251">PERMIT_BASE_NO</a>.</p>
 
 </div>
 </div>
@@ -685,11 +689,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   55</span>    }</div>
 <div class="line"><span class="lineno">   56</span>}</div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
-<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:848</div></div>
-<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:13976</div></div>
-<div class="ttc" id="aclassUnit_html_aee07e22b70ed433a845b0673579d5fee"><div class="ttname"><a href="../../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee">Unit::AttackStop</a></div><div class="ttdeci">bool AttackStop()</div><div class="ttdoc">Force the unit to stop attacking. This will clear UNIT_STATE_MELEE_ATTACKING, Interrupt current spell...</div><div class="ttdef"><b>Definition</b> Unit.cpp:10502</div></div>
+<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:850</div></div>
+<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:13972</div></div>
+<div class="ttc" id="aclassUnit_html_aee07e22b70ed433a845b0673579d5fee"><div class="ttname"><a href="../../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee">Unit::AttackStop</a></div><div class="ttdeci">bool AttackStop()</div><div class="ttdoc">Force the unit to stop attacking. This will clear UNIT_STATE_MELEE_ATTACKING, Interrupt current spell...</div><div class="ttdef"><b>Definition</b> Unit.cpp:10498</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10502">Unit::AttackStop()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00848">Unit::GetVictim()</a>, <a class="el" href="../../#l13976">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10498">Unit::AttackStop()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00850">Unit::GetVictim()</a>, <a class="el" href="../../#l13972">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -703,7 +707,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/df3/classPossessedAI.html">PossessedAI</a></li>
-    <li class="footer">Generated on Tue Sep 23 2025 06:24:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 24 2025 06:23:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

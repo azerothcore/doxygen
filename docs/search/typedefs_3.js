@@ -34,7 +34,7 @@ var searchData=
   ['commandsc_31',['CommandSC',['../d0/d55/AllCommandScript_8h.html#a0c35d8c2fdd730a0360fd00502881c03',1,'AllCommandScript.h']]],
   ['completedachievementmap_32',['CompletedAchievementMap',['../d7/dc5/AchievementMgr_8h.html#aee097fd9426b25c1101af73a551a37e1',1,'AchievementMgr.h']]],
   ['conditioncontainer_33',['ConditionContainer',['../de/d5f/ConditionMgr_8h.html#ad7de5903549b8835c25b25ec3a5733c9',1,'ConditionMgr.h']]],
-  ['conditionlist_34',['ConditionList',['../de/d5f/ConditionMgr_8h.html#ae942a8e25dc24ce42e62625bb583c0dd',1,'ConditionMgr.h']]],
+  ['conditionlist_34',['conditionlist',['../de/d5f/ConditionMgr_8h.html#ae942a8e25dc24ce42e62625bb583c0dd',1,'ConditionList:&#160;ConditionMgr.h'],['../d0/dba/SpellInfo_8h.html#ae942a8e25dc24ce42e62625bb583c0dd',1,'ConditionList:&#160;SpellInfo.h']]],
   ['conditionreferencecontainer_35',['ConditionReferenceContainer',['../de/d5f/ConditionMgr_8h.html#a4c1f0e761de822234ec4585acaf1d999',1,'ConditionMgr.h']]],
   ['conditiontypecontainer_36',['ConditionTypeContainer',['../de/d5f/ConditionMgr_8h.html#aedfef73cf0a88e6988a11fe7bb7fc304',1,'ConditionMgr.h']]],
   ['const_5fiterator_37',['const_iterator',['../d4/dbe/classMapRefMgr.html#a78bdb53e78488faa65effb2706140558',1,'MapRefMgr::const_iterator'],['../d6/df5/classSummonList.html#a35c8f1dc80c0dc5bc0bf172a1e873566',1,'SummonList::const_iterator'],['../d2/d27/structBossBoundaryData.html#ac52d3ebfa7eaeb9d6fd08f0089b13918',1,'BossBoundaryData::const_iterator'],['../df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3',1,'WorldPackets::Array::const_iterator']]],

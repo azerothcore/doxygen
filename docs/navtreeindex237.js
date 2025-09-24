@@ -1,5 +1,16 @@
 var NAVTREEINDEX237 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ad98c797c06e7488bce4e755da7e8d5d9":[7,0,0,0,1,3,5,6,13,5,122],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2adb4ed5b13a16ec549d1d118763f41db4":[7,0,0,0,1,3,5,6,13,5,168],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2adc20103019dc5e55ef89284c48cd92e8":[7,0,0,0,1,3,5,6,13,5,7],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ade6b89fb81fd7c74aff87db1db3e685d":[7,0,0,0,1,3,5,6,13,5,51],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2adf5a0ab09ac4d4b4fd80aee43a87733b":[7,0,0,0,1,3,5,6,13,5,99],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2adff09495eacea3075cb09622c4f6741c":[7,0,0,0,1,3,5,6,13,5,52],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae2156bc3ac866006477a3f46ef68535a":[7,0,0,0,1,3,5,6,13,5,114],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae2c4fe1a996bd14df48414058b7f28be":[7,0,0,0,1,3,5,6,13,5,78],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae42bb10b1ec42ca4dbd7ed05ecbf8e44":[7,0,0,0,1,3,5,6,13,5,36],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae488aad8b1c4b6a6bf0c1e5ac3cfe387":[7,0,0,0,1,3,5,6,13,5,162],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae65fce3a8ab38d6567ca92cd5e94608d":[7,0,0,0,1,3,5,6,13,5,47],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae66db5d5ce69acdfef436659fe9fdc06":[7,0,0,0,1,3,5,6,13,5,112],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae6f22329aa112227847e53a1c83fb0cc":[7,0,0,0,1,3,5,6,13,5,48],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae70c2fba3da38542de5b09b692ee5251":[7,0,0,0,1,3,5,6,13,5,178],
@@ -238,16 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d6a/structQueryResultFieldMetadata.html#ac885c365760ade7b0c74e5fead82a210":[6,0,2461,0],
 "d9/d6a/structQueryResultFieldMetadata.html#ad841e71a9394fc114a35f0234ef581b6":[6,0,2461,1],
 "d9/d6a/structQueryResultFieldMetadata.html#ada6594cc2aa67c8d34bdb45e757fda8c":[6,0,2461,4],
-"d9/d6a/structQueryResultFieldMetadata.html#af8b9f87733157401cff6b0846a545fa4":[6,0,2461,2],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html":[6,0,2856],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a0ab270193a95f9043afd40c9ffd2a46b":[6,0,2856,3],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a667e50b01f431dba025f692484f6e7ba":[6,0,2856,0],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a7ffa6eb498e9ec06d5cb4f81cff44389":[6,0,2856,2],
-"d9/d6b/classspell__dtk__summon__random__drakkari.html#a9a5ffd28102a519c06f3715d7f2b1039":[6,0,2856,1],
-"d9/d6b/structCharacterRenameInfo.html":[4,1,15],
-"d9/d6b/structCharacterRenameInfo.html#a46a89b6904e59f39f4e1460a9bb45765":[4,1,15,1],
-"d9/d6b/structCharacterRenameInfo.html#a4e747a555bde74f97a5fc78287e5e29d":[4,1,15,2],
-"d9/d6b/structCharacterRenameInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,15,0],
-"d9/d6c/classspell__item__unsated__craving.html":[6,0,3323],
-"d9/d6c/classspell__item__unsated__craving.html#a50348fd27947f67df03bf4ddbec89cca":[6,0,3323,3]
+"d9/d6a/structQueryResultFieldMetadata.html#af8b9f87733157401cff6b0846a545fa4":[6,0,2461,2]
 };

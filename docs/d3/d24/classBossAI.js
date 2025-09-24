@@ -15,6 +15,8 @@ var classBossAI =
     [ "JustEngagedWith", "d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6", null ],
     [ "JustReachedHome", "d3/d24/classBossAI.html#a9a84666026e84e2e1f19aff503faa8e3", null ],
     [ "JustSummoned", "d3/d24/classBossAI.html#a55938a5ee8ad433cca9fad829cc0d915", null ],
+    [ "OnSpellCastFinished", "d3/d24/classBossAI.html#afb5e0434e21b48895b34b6b625aacedf", null ],
+    [ "ProcessHealthCheck", "d3/d24/classBossAI.html#af90b6b4ea6b676e5f25f1411b98837cf", null ],
     [ "Reset", "d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7", null ],
     [ "ScheduleEnrageTimer", "d3/d24/classBossAI.html#accee8f999f68b7e739db5ba89228c679", null ],
     [ "ScheduleHealthCheckEvent", "d3/d24/classBossAI.html#a6291eabd5cd39dafda4f92ee8f603601", null ],

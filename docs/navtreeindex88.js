@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/DBCStores_8h.html#a0ebd232e7ec9e0fdc1e296f3791c9d4b":[7,0,0,0,1,2,14,1,113],
 "d2/df6/DBCStores_8h.html#a10e6eae9259492fc3d02e034b6538583":[7,0,0,0,1,2,14,1,18],
 "d2/df6/DBCStores_8h.html#a155a342b9ae217cf65b09570727c8403":[7,0,0,0,1,2,14,1,32],
 "d2/df6/DBCStores_8h.html#a1611914a99682fc964ef95b9a788a969":[7,0,0,0,1,2,14,1,24],
@@ -173,10 +174,10 @@ var NAVTREEINDEX88 =
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#a866bfc106fc33433b4eb13fabd9c39c6":[6,0,1726,0,6],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#aa79036bed206327847bf5ad2e768e8f6":[6,0,1726,0,5],
 "d2/df7/structnpc__dancing__flames_1_1npc__dancing__flamesAI.html#ae0d71d4f9074c05ea76951ede6c7702a":[6,0,1726,0,1],
-"d2/df8/classspell__gen__area__aura__select__players.html":[6,0,2914],
-"d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2914,1],
-"d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2914,0],
-"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2914,2],
+"d2/df8/classspell__gen__area__aura__select__players.html":[6,0,2916],
+"d2/df8/classspell__gen__area__aura__select__players.html#a2b6dbd33e34357917f662000a1cd932f":[6,0,2916,1],
+"d2/df8/classspell__gen__area__aura__select__players.html#a545323b9964ee4cb3c8d054fac4e2d55":[6,0,2916,0],
+"d2/df8/classspell__gen__area__aura__select__players.html#a7b4a2301b3a608ea5b2dd2504e02741d":[6,0,2916,2],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html":[6,0,1348,0],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#a9c7c10020eef3db4794283c0f946d086":[6,0,1348,0,1],
 "d2/df8/structinstance__the__underbog_1_1instance__the__underbog__InstanceMapScript.html#ae7668c7c4432b74caa3ea46a7c7364e3":[6,0,1348,0,0],
@@ -220,12 +221,12 @@ var NAVTREEINDEX88 =
 "d2/dfa/classnpc__stillpine__capitive.html":[6,0,2145],
 "d2/dfa/classnpc__stillpine__capitive.html#a6c9ce06ffe8cafaea2f428ba610d6964":[6,0,2145,1],
 "d2/dfa/classnpc__stillpine__capitive.html#ad1d81ae43d3c417b8817da61afef4e4b":[6,0,2145,2],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html":[6,0,3940],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a3e7479f97e4105f2c12536d9c66284aa":[6,0,3940,3],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5c8464dcf2f8b62a624f38dec2f4a0a5":[6,0,3940,2],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5d8e764dafd26548af8588593bf27990":[6,0,3940,4],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a966d23cc5714fe35d80b2964dddda536":[6,0,3940,1],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#ac955cc78dd3206816906dd06b3e006f6":[6,0,3940,0],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html":[6,0,3943],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a3e7479f97e4105f2c12536d9c66284aa":[6,0,3943,3],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5c8464dcf2f8b62a624f38dec2f4a0a5":[6,0,3943,2],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5d8e764dafd26548af8588593bf27990":[6,0,3943,4],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a966d23cc5714fe35d80b2964dddda536":[6,0,3943,1],
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#ac955cc78dd3206816906dd06b3e006f6":[6,0,3943,0],
 "d2/dfb/structResetNotifier.html":[6,0,2505],
 "d2/dfb/structResetNotifier.html#a1472e21d9af04662f3574bc2c7d3890c":[6,0,2505,0],
 "d2/dfb/structResetNotifier.html#a725fc2c2504eecaa15841c27b367cd55":[6,0,2505,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfc/instance__serpent__shrine_8cpp.html#accf317168271361913093466ba7f8f0e":[7,0,0,0,1,3,7,2,0,6,9],
 "d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,2,0,6,14],
 "d2/dfc/structnpc__sanguine__spirit.html":[6,0,2098],
-"d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[6,0,2098,0],
-"d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[6,0,2098,1]
+"d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[6,0,2098,0]
 };

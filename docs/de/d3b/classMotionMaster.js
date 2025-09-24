@@ -12,6 +12,7 @@ var classMotionMaster =
     [ "DirectDelete", "de/d3b/classMotionMaster.html#a2b43b0a132dfcf6e391cc23a71634ba6", null ],
     [ "DirectExpire", "de/d3b/classMotionMaster.html#a55a28a0fc727f5f9895c64f75f7dd7cf", null ],
     [ "DirectExpireSlot", "de/d3b/classMotionMaster.html#a268d9c27d95519cf698f451bf6d9c2bf", null ],
+    [ "DistanceYourself", "de/d3b/classMotionMaster.html#aa9152d2b3f487116690c08a7df43bafd", null ],
     [ "empty", "de/d3b/classMotionMaster.html#a92e69c7f390d4c64eee74f071f1ba306", null ],
     [ "GetCleanFlags", "de/d3b/classMotionMaster.html#a8c04952aa2f0adf3cf2bc9805b465538", null ],
     [ "GetCurrentMovementGeneratorType", "de/d3b/classMotionMaster.html#a41e9fbf11fd1a17752bf68a4a14cc8e5", null ],
