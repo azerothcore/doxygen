@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ad34d850e1f11da93dc461995d9f00115":[6,0,1697,0,6],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ae66ac194b89e761808cd3e226fc7e495":[6,0,1697,0,4],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aec678cda5d636e66907593d8b3f952f4":[6,0,1697,0,3],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#af2a8c43537cac96be12e6dc8d7874cec":[6,0,1697,0,0],
@@ -109,12 +110,12 @@ var NAVTREEINDEX311 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,2002,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,2002,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d8a/structSpellPair.html#a866b12ea5416f36c36bbea1a35a6a490":[6,0,4103,0],
 "dc/d8a/structSpellPair.html#a8c2fd26e0e9de5f9292c8b993ba9f9be":[6,0,4103,1],
 "dc/d8b/classboss__blood__queen__lana__thel.html":[6,0,401],
-"dc/d8b/classboss__blood__queen__lana__thel.html#a7873efd945bdb24228866f639e32879b":[6,0,401,2],
-"dc/d8b/classboss__blood__queen__lana__thel.html#a9f8fa906f01082caacd106abc2707b07":[6,0,401,1]
+"dc/d8b/classboss__blood__queen__lana__thel.html#a7873efd945bdb24228866f639e32879b":[6,0,401,2]
 };

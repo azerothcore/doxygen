@@ -1,6 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"d0/dff/classUpdateMask.html#a72e9de07108361222addde025ea8362f":[6,0,4226,2],
 "d0/dff/classUpdateMask.html#a7638c508cfb0f5480eec2f9d650b0eb4":[6,0,4226,0],
 "d0/dff/classUpdateMask.html#a81b64e6574c61533b07491920eddf413":[6,0,4226,13],
 "d0/dff/classUpdateMask.html#a986a2b81e0b4f86486ccc455ff6ad79a":[6,0,4226,4],
@@ -203,10 +202,10 @@ var NAVTREEINDEX23 =
 "d1/d02/BattlefieldWG_8cpp.html":[7,0,0,0,1,2,7,0,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,31,13,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[6,0,11,13,1],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,11,13,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[5,0,31,13,1,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,11,13,1,2],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,11,13,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,31,13,1,2],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,11,13,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,31,13,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[6,0,11,13,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[5,0,31,13,1,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX23 =
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,127,6],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,115,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[5,0,1,127,8],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[5,0,1,127,4],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[6,0,0,115,4]
 };

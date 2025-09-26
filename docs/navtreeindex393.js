@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/d9d/classMessageBuffer.html#a960c58291dd38003298dbcf85d649568":[6,0,1502,11],
 "df/d9d/classMessageBuffer.html#a9a9bf51f87346e42a4765b72d78dc7f6":[6,0,1502,3],
 "df/d9d/classMessageBuffer.html#ab9c9b5422fff1450c98c2241344631e9":[6,0,1502,19],
 "df/d9d/classMessageBuffer.html#acc13033dd688408760116899ca38f94e":[6,0,1502,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0a44944e59a1877f181fcd2a7b0255a74a":[7,0,0,0,1,3,5,9,0,2,3,0],
 "df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0a5545d513600badfbae47148bc756ed64":[7,0,0,0,1,3,5,9,0,2,3,3],
 "df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0aa1893471464b87fd1e3bdfcb73f4ea49":[7,0,0,0,1,3,5,9,0,2,3,4],
-"df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0acbd1caaa1bf9b7c5f202cbfac4e9e73a":[7,0,0,0,1,3,5,9,0,2,3,2],
-"df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0ade40d104ed3268809acfe5d537a6828d":[7,0,0,0,1,3,5,9,0,2,3,1]
+"df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0acbd1caaa1bf9b7c5f202cbfac4e9e73a":[7,0,0,0,1,3,5,9,0,2,3,2]
 };

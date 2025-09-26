@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#adf185ee702e9e74f65204b90786f9eb4":[6,0,1162,0,1],
 "df/dc8/structnpc__onyxian__lair__guard.html":[6,0,2005],
 "df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[6,0,2005,1],
 "df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[6,0,2005,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660":[6,0,4215,599],
 "df/dd9/classUnit.html#a044b8e22a098bc13e6fb879b35675e5c":[6,0,4215,389],
 "df/dd9/classUnit.html#a0458f2adbdd0dd5b78adbbc16994d585":[6,0,4215,697],
-"df/dd9/classUnit.html#a04761e1ca5da7ae844483fabda56d432":[6,0,4215,794],
-"df/dd9/classUnit.html#a04a66c0ec19dafbd2c85574bc2e75100":[6,0,4215,4]
+"df/dd9/classUnit.html#a04761e1ca5da7ae844483fabda56d432":[6,0,4215,794]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d79/classGuild.html#a3a6aec616c51b90f7232c88e5436516a":[6,0,1252,78],
 "de/d79/classGuild.html#a3e23517a32fcf165a88b739bd7fd3284":[6,0,1252,85],
 "de/d79/classGuild.html#a4210800103f4222526827b0e544d446f":[6,0,1252,52],
 "de/d79/classGuild.html#a446fbce6fbb44fb4e45980132e06bf88":[6,0,1252,42],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d80/structboss__hedrum_1_1boss__hedrumAI.html#a95e4af51a8e24fa7b36b924c6cdfb86c":[6,0,525,0,0],
 "de/d80/structboss__hedrum_1_1boss__hedrumAI.html#aa515ed081aaabdad751c1bbba56d3d96":[6,0,525,0,2],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html":[6,0,2162,0],
-"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a1e4291187ff400e6f326ef4acbff41ee":[6,0,2162,0,7],
-"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a25bf491c19fe0bb3116c6df46cb370e5":[6,0,2162,0,1]
+"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a1e4291187ff400e6f326ef4acbff41ee":[6,0,2162,0,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX32 =
 {
-"d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html#a7a16fbe4723a95293db01d3a2d80b569":[6,0,2151,0,8],
 "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html#a819746e13af95fa964c6da3d765a7c21":[6,0,2151,0,5],
 "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb":[6,0,2151,0,1],
 "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html#adb6ae2cefeec245196d21dc1112b2d5c":[6,0,2151,0,2],
@@ -191,18 +190,18 @@ var NAVTREEINDEX32 =
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[6,0,0,117,4],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,1,129,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[6,0,0,117,8],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[6,0,0,117,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,1,129,3],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[6,0,0,117,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,1,129,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[6,0,0,117,5],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,1,129,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[6,0,0,117,2],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,1,129,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,117,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[5,0,1,129,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[6,0,0,117,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[5,0,1,129,9],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[6,0,0,117,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,1,129,6],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[6,0,0,117,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[5,0,1,129,0],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[6,0,0,117,0],
 "d1/d55/GuildScript_8h.html":[7,0,0,0,1,2,38,0,56],
@@ -249,5 +248,6 @@ var NAVTREEINDEX32 =
 "d1/d57/structboss__fankriss.html#ab6b0ee6c1605aaf148dddd6a6f4788b9":[6,0,458,0],
 "d1/d57/structboss__fankriss.html#ada23537921c3a11195450db89eb8fcfe":[6,0,458,4],
 "d1/d57/structboss__fankriss.html#af84010ee103eb81c1e269b03fc640f81":[6,0,458,2],
-"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html":[6,0,2228,0]
+"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html":[6,0,2228,0],
+"d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html#a100678bddd6a0e859c72035d4642d8e2":[6,0,2228,0,0]
 };

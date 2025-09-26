@@ -1,6 +1,5 @@
 var NAVTREEINDEX19 =
 {
-"d0/dce/classspell__dru__lifebloom.html#afdd1575bce3b34da6e3a101eaa695c41":[6,0,2831,0],
 "d0/dce/utgarde__pinnacle_8cpp.html":[7,0,0,0,1,3,5,10,1,5],
 "d0/dce/utgarde__pinnacle_8cpp.html#aa865b80ad4fb44b0c96fa45f08d06d71":[7,0,0,0,1,3,5,10,1,5,2],
 "d0/dce/utgarde__pinnacle_8cpp.html#ae8fa29243650c07aed99f9ee3cad321a":[7,0,0,0,1,3,5,10,1,5,1],
@@ -114,16 +113,16 @@ var NAVTREEINDEX19 =
 "d0/dd4/structAcore_1_1GameObjectSearcher.html":[5,0,1,71],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[5,0,1,71,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[6,0,0,59,2],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,1,71,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[6,0,0,59,1],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[5,0,1,71,0],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,1,71,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[6,0,0,59,0],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[5,0,1,71,3],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[5,0,1,71,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[6,0,0,59,3],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[5,0,1,71,3],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[6,0,0,59,5],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,1,71,5],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,1,71,4],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[6,0,0,59,4],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,1,71,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html":[6,0,2041,0],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a3a522e4c741bc321469ed87c10cf7904":[6,0,2041,0,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a5a1bf4aaf716674a63e31d24ae4a5d7c":[6,0,2041,0,5],
@@ -199,10 +198,10 @@ var NAVTREEINDEX19 =
 "d0/dda/classgo__fel__crystalforge.html#aa44708a617edd51651da49918ab776e5":[6,0,1144,0],
 "d0/dda/classgo__fel__crystalforge.html#aae9f4beff251efb7b29e1988ddd51eaf":[6,0,1144,1],
 "d0/ddc/WardenPayloadMgr_8h.html":[7,0,0,0,1,2,46,9],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[6,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,1,8,0,30],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[6,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[6,0,0,5,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[7,0,0,0,1,2,16,7,13],
 "d0/ddd/classMinion.html":[6,0,1507],
 "d0/ddd/classMinion.html#a02806f2eae429a33e0d2b0c115892c77":[6,0,1507,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX19 =
 "d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0":[6,0,4217,53],
 "d0/ddd/classUnitAI.html#a73cecdaa59da8166335eba352d58df2a":[6,0,4217,15],
 "d0/ddd/classUnitAI.html#a8460a963a07bbd44d97a51d0f7ba01f0":[6,0,4217,33],
-"d0/ddd/classUnitAI.html#a88b3f14630803365aeb7952d765a7cf1":[6,0,4217,24]
+"d0/ddd/classUnitAI.html#a88b3f14630803365aeb7952d765a7cf1":[6,0,4217,24],
+"d0/ddd/classUnitAI.html#a88ec8cb627748b730c0575eac088c820":[6,0,4217,47]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a5b177695fe9f9c8f4a14993dbc21e6d5":[7,0,0,0,1,2,16,7,5,136,25],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a657cdb25a5d62dfe027214f2103552df":[7,0,0,0,1,2,16,7,5,136,1],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a66be9bd20987f151648d805b283589f0":[7,0,0,0,1,2,16,7,5,136,26],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a6a3ab596e53d6f891597c53ac12cf0b1":[7,0,0,0,1,2,16,7,5,136,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4c0201fa18a2720548d7f88a6dfd9f36":[6,0,542,0,7],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a5030ce0d8d9fd9e8ef697d6a2ce85d25":[6,0,542,0,0],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a5de54a4d56b95e5f3f445539a5dd7030":[6,0,542,0,15],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a6038b1e91341653f7feb2e906901f224":[6,0,542,0,8],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a72664f34a55c45cbacd9b28aaf6abbc9":[6,0,542,0,14]
+"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a6038b1e91341653f7feb2e906901f224":[6,0,542,0,8]
 };

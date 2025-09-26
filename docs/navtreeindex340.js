@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,16,18],
 "dd/ddb/class__SpellScript.html#a423786f1fc45a010a4ebc16db2645a1f":[6,0,16,10],
 "dd/ddb/class__SpellScript.html#a6a2621e4aeda24af6ec55b9a8c461262":[6,0,16,4],
 "dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df":[6,0,16,8],
@@ -225,14 +226,14 @@ var NAVTREEINDEX340 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2976,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3053],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b":[6,0,846,1],
 "dd/dec/classChannelMgr.html#a4fa043d2c61f5013d62b192d46bd453a":[6,0,846,8],
 "dd/dec/classChannelMgr.html#a5cc03c09dfc33a89d3d4f59d1e92d757":[6,0,846,6],
-"dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401":[6,0,846,4],
-"dd/dec/classChannelMgr.html#a73e822c758aacb7f959407b100b9aff6":[6,0,846,9]
+"dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401":[6,0,846,4]
 };

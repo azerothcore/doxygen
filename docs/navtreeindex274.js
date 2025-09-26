@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d03/classspell__gen__model__visible.html#ae77b9ae8a1092e0dc144e83db4c0758c":[6,0,2985,6],
 "db/d03/structGtChanceToSpellCritEntry.html":[6,0,1241],
 "db/d03/structGtChanceToSpellCritEntry.html#ad5d1466406daa3696314ef2f6f18cd15":[6,0,1241,0],
 "db/d04/enuminfo__AppenderConsole_8cpp.html":[7,0,0,0,0,9,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d14/classLootTemplate.html":[6,0,1458],
 "db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1458,7],
 "db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1458,9],
-"db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1458,2],
-"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[6,0,1458,8]
+"db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1458,2]
 };

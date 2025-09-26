@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e56015afb41350575b27c908fd31f96":[7,0,0,0,1,3,2,16,5,8,17],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8f5b2129be4bedc2f2a9fc5bcbba2e":[7,0,0,0,1,3,2,16,5,8,14],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,2,16,5,8,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/dbb/classspell__ticking__time__bomb__aura.html":[6,0,3922],
 "de/dbb/classspell__ticking__time__bomb__aura.html#a213b50ebb7ce248a36dd78167d1190bb":[6,0,3922,2],
 "de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[6,0,3922,1],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[6,0,3922,3],
-"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[6,0,3922,0]
+"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[6,0,3922,3]
 };

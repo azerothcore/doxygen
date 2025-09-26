@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,68,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,68,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[6,0,1877,0,2],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a82403eecdea07bfc8ed9509eb5a30dcd":[6,0,1877,0,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#acaaac3624e262d89920fa8a7da9e3cc0":[6,0,1877,0,3],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#af6d3e79627102acbf764aa7ee8c7433b":[6,0,1877,0,0],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#affcd7c16fe4a50a0743c0f9bb5a9d321":[6,0,1877,0,4]
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#af6d3e79627102acbf764aa7ee8c7433b":[6,0,1877,0,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/dc6/classspell__dk__icebound__fortitude.html#a4d09be7d33755ae719138d079884e281":[6,0,2777,3],
 "dc/dc6/classspell__dk__icebound__fortitude.html#a76528513f0f6728e73085a3d403c3e59":[6,0,2777,2],
 "dc/dc6/classspell__dk__icebound__fortitude.html#ad99a4176d27864280a79ac548a57a4c8":[6,0,2777,0],
 "dc/dc6/classspell__dk__icebound__fortitude.html#aeafec50b06b5dd2f69ca6ab4096aea4d":[6,0,2777,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/dd8/classachievement__all__you__can__eat.html#a0baa07a7cbd239e4a5fcfd3e687aedf6":[6,0,30,1],
 "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html":[6,0,1852,0],
 "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a32cebea12e13c87b45dd2a4c6cf495e5":[6,0,1852,0,9],
-"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a3510e246908f4e5b758e05ca06a29e47":[6,0,1852,0,8],
-"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a4185259006017e85fade721796851dd0":[6,0,1852,0,2]
+"dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a3510e246908f4e5b758e05ca06a29e47":[6,0,1852,0,8]
 };

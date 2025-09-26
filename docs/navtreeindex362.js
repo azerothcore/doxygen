@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[6,0,2180,0,18],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ae764b73931eb22712fc4e22e0c15a080":[6,0,2180,0,26],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[6,0,2180,0,6],
 "de/d3c/classnpc__beryl__sorcerer.html":[6,0,1640],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#af5dbb99fe18d96665efd04bd53294636":[6,0,2220,0,4],
 "de/d43/DisableMgr_8h.html":[7,0,0,0,1,2,13,3],
 "de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[7,0,0,0,1,2,13,3,2],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[7,0,0,0,1,2,13,3,4],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[7,0,0,0,1,2,13,3,4,6]
+"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[7,0,0,0,1,2,13,3,4]
 };

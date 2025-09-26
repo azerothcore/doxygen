@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44d6afdbd4e7450f0d169619ecb67e80":[7,0,0,0,1,2,26,2,0,97],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46d43d1cc08b0023eff6e30ce3337f8c":[7,0,0,0,1,2,26,2,0,74],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46f8a77d9f63ed92f690b4eddc643c2d":[7,0,0,0,1,2,26,2,0,22],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a48e3a5ae6108c0bf1e8bf41f87609699":[7,0,0,0,1,2,26,2,0,138],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d56/structadvisor__baseAI.html#ae1c2011ba993c8d589bf6fe45602ac41":[6,0,141,8],
 "dc/d56/structnpc__eastvale__peasent.html":[6,0,1760],
 "dc/d56/structnpc__eastvale__peasent.html#a002ec21e0715b020aa19cd0839408033":[6,0,1760,2],
-"dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1760,6],
-"dc/d56/structnpc__eastvale__peasent.html#a5282dac41228569d4431d84c1f160f05":[6,0,1760,0]
+"dc/d56/structnpc__eastvale__peasent.html#a1b310b07481366042dc45f7a27ce6408":[6,0,1760,6]
 };

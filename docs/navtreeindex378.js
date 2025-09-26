@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/deb/structM2Header.html#ac454302f9a9a85e16af1ad298247f63e":[6,0,1464,12],
 "de/deb/structM2Header.html#ac64b9118d8bb1f80538332f5f03b9dc1":[6,0,1464,53],
 "de/deb/structM2Header.html#acec46e1e44f73bca2452939cabcc9631":[6,0,1464,47],
 "de/deb/structM2Header.html#ad085f18e5d58d1c9a1e3d5b909ac0f56":[6,0,1464,39],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/dfd/classspell__q12937__relief__for__the__fallen.html#ae7ed739883e30015e99b6ab5d6cb3f39":[6,0,3692,3],
 "de/dff/Position_8h.html":[7,0,0,0,1,2,16,5,11],
 "de/dff/Position_8h.html#a09519787a0405fc17b028180b2da4cdd":[7,0,0,0,1,2,16,5,11,6],
-"de/dff/Position_8h.html#a188cc2956d39298323a99c4aa5ceede6":[7,0,0,0,1,2,16,5,11,9],
-"de/dff/Position_8h.html#a71323635f122d24189054da615cb39e1":[7,0,0,0,1,2,16,5,11,7]
+"de/dff/Position_8h.html#a188cc2956d39298323a99c4aa5ceede6":[7,0,0,0,1,2,16,5,11,9]
 };

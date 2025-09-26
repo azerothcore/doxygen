@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601":[6,0,27,2],
 "df/d30/classspell__auchenai__possess.html":[6,0,2627],
 "df/d30/classspell__auchenai__possess.html#a7a34b9bd77cd1f15a1cd7954d76d80d0":[6,0,2627,0],
 "df/d30/classspell__auchenai__possess.html#aa35fc5865f108712e450661e67c384ce":[6,0,2627,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[5,0,18,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[6,0,5,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[5,0,18,2,14],
-"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[6,0,5,2,14],
-"df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[6,0,5,2,24]
+"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[6,0,5,2,14]
 };

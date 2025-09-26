@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2174,2],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[6,0,4033],
 "dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[6,0,4033,3],
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[6,0,4033,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa20fd32a182cc6cee137043c79cb3c95":[7,0,0,0,1,3,5,9,2,10,27,7],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bcd5f9e50946825716996f6ff8199f":[7,0,0,0,1,3,5,9,2,10,27,19],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa2c6a6ac9017503b9e3fed28d80ac13d":[7,0,0,0,1,3,5,9,2,10,27,0],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa756eb46c3d992396d03a7aca5a28665":[7,0,0,0,1,3,5,9,2,10,27,14],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caaf6ad93a8ecb72eb1e3c63b4849ec028":[7,0,0,0,1,3,5,9,2,10,27,21]
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa756eb46c3d992396d03a7aca5a28665":[7,0,0,0,1,3,5,9,2,10,27,14]
 };

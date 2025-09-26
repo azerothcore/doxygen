@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[6,0,6,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html":[6,0,2737],
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html#a11732039155235c287757980129d5a8e":[6,0,2737,1],
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html#a467272ccd10ec0aff7ad00a567c0049c":[6,0,2737,2],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a56a4e65df08a95fddde75162358155c2":[6,0,2737,4],
-"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a6f97c9c1dc71a87d2a82de646809f063":[6,0,2737,3]
+"df/d5c/classspell__deathbringer__blood__nova__targeting.html#a56a4e65df08a95fddde75162358155c2":[6,0,2737,4]
 };

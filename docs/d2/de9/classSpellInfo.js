@@ -1,6 +1,7 @@
 var classSpellInfo =
 [
     [ "SpellInfo", "d2/de9/classSpellInfo.html#a3c7b0f40afeafb727e7fdca06302ca48", null ],
+    [ "~SpellInfo", "d2/de9/classSpellInfo.html#a5bf9e74197f42d6805f7facc3b986a3a", null ],
     [ "_GetEffect", "d2/de9/classSpellInfo.html#a3570c83aaaaca72a58782069acf04f5c", null ],
     [ "_GetEffects", "d2/de9/classSpellInfo.html#a74f4db121e6f113d34825a6e437c8d97", null ],
     [ "_InitializeExplicitTargetMask", "d2/de9/classSpellInfo.html#ac86920b89de167157bd483cdc6ac7d4b", null ],

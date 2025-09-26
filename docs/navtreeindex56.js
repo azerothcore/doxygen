@@ -1,6 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4b56ef4372b7e4a4fa3b83d94dcf7df0":[6,0,1350,0,44],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4baa9bbab0178240b250539573530d73":[6,0,1350,0,4],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4ef8b63fb093bb98b23044e63d55fb4d":[6,0,1350,0,46],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a52d3e04da8895576e11622eaa742d91c":[6,0,1350,0,7],
@@ -244,10 +243,11 @@ var NAVTREEINDEX56 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1033,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1033,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[6,0,1033,6],
-"d2/d49/structAcore_1_1find__type__if.html":[5,0,1,62],
 "d2/d49/structAcore_1_1find__type__if.html":[6,0,0,50],
+"d2/d49/structAcore_1_1find__type__if.html":[5,0,1,62],
 "d2/d4a/classinstance__zulaman.html":[6,0,1358],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1358,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1358,1],
-"d2/d4b/classPlayer.html":[6,0,2407]
+"d2/d4b/classPlayer.html":[6,0,2407],
+"d2/d4b/classPlayer.html#a0007e0794ea027b088f9cc1a276bdec5":[6,0,2407,1329]
 };

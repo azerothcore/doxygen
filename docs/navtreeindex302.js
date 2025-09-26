@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d0f/structboss__teron__gorefiend.html#a81845f22aa383cdc57912ee9655b7bf9":[6,0,724,0],
 "dc/d0f/structboss__teron__gorefiend.html#a99c62157084373e8eddd4497360cc047":[6,0,724,8],
 "dc/d0f/structboss__teron__gorefiend.html#a9f658d42cf27a54c62a71e28b5dfadee":[6,0,724,2],
 "dc/d0f/structboss__teron__gorefiend.html#aa080c8d17bc51142c1cecadf7a0376a2":[6,0,724,1],
@@ -202,8 +203,8 @@ var NAVTREEINDEX302 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2091],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2091,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2091,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d23/classVehicle.html#a1b4a880c866af98a9eccc944786e3393":[6,0,4235,9],
 "dc/d23/classVehicle.html#a1c71112b0bc3488d27ec06d9bb63ea88":[6,0,4235,10],
 "dc/d23/classVehicle.html#a24de52021b3b9b6c8fd98e20fcca7607":[6,0,4235,7],
-"dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f":[6,0,4235,13],
-"dc/d23/classVehicle.html#a255c613bc52e4ad3400791bd9bb82306":[6,0,4235,4]
+"dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f":[6,0,4235,13]
 };

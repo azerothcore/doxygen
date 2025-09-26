@@ -1,5 +1,6 @@
 var NAVTREEINDEX283 =
 {
+"db/d81/structnpc__costumed__orphan__matron.html#a92cfd09cefd26933ae322f2cc2716927":[6,0,1708,9],
 "db/d81/structnpc__costumed__orphan__matron.html#a962de50b13079f3337c4e41eb2d98b55":[6,0,1708,3],
 "db/d81/structnpc__costumed__orphan__matron.html#adac5d514261a210a701442da13ba1587":[6,0,1708,5],
 "db/d82/classFlightPathMovementGenerator.html":[6,0,1053],
@@ -229,10 +230,10 @@ var NAVTREEINDEX283 =
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,11,10,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,31,10,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,11,10,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,31,10,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,11,10,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,31,10,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,31,10,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,11,10,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,31,10,1,1],
 "db/d89/classboss__ambassador__flamelash.html":[6,0,372],
 "db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,372,2],
 "db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,372,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX283 =
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a98e1490705f74627cf9e5483857f3f25":[6,0,2525,1,5],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aa785f3badb9c898d24efdf6d42fb8a7f":[6,0,2525,1,1],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aec44e315616920ba8224be8c4831f5e9":[6,0,2525,1,3],
-"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6],
-"db/d8b/ItemTemplate_8h.html#a02411d2e55d8ffa000a775af803d54b8":[7,0,0,0,1,2,16,4,6,26]
+"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[6,0,5,2,24],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[5,0,18,2,24],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[5,0,18,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[6,0,5,2,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3586,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3586,0],
 "df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
-"df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4]
+"df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3]
 };

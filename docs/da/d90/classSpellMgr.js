@@ -80,6 +80,7 @@ var classSpellMgr =
     [ "LoadSpellThreats", "da/d90/classSpellMgr.html#a639ed2f06c1e6457882c02bee9da7dcb", null ],
     [ "SetSpellDifficultyId", "da/d90/classSpellMgr.html#a1d78ba697367cda75056836937d7976e", null ],
     [ "UnloadSpellInfoChains", "da/d90/classSpellMgr.html#afa249eca149df213b191ea7009e51fe6", null ],
+    [ "UnloadSpellInfoImplicitTargetConditionLists", "da/d90/classSpellMgr.html#ac325f4a1c1164352f4a4f1adf1be9ce0", null ],
     [ "UnloadSpellInfoStore", "da/d90/classSpellMgr.html#a2b2cc6f3ee5006297dff23eb8567db29", null ],
     [ "mEnchantCustomAttr", "da/d90/classSpellMgr.html#a1d1bde8d692b959379b27d29bfdd1e48", null ],
     [ "mPetDefaultSpellsMap", "da/d90/classSpellMgr.html#a4ec8d854c5357f1edfd29a136203b0da", null ],

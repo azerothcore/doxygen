@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/dd9/classUnit.html#ac632f94da938bf11050de15b8b964df3":[6,0,4215,718],
 "df/dd9/classUnit.html#ac67c8e93637323c24fb7c215f3cfc026":[6,0,4215,212],
 "df/dd9/classUnit.html#ac6b29511984119cf4c430697a505cb45":[6,0,4215,35],
 "df/dd9/classUnit.html#ac6e545dc53605a0c05d8556cf66040c1":[6,0,4215,729],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/dd9/classWorldPackets_1_1Array.html#aca1087c268cece397033692f38ef5993":[5,0,31,14,6],
 "df/dd9/classWorldPackets_1_1Array.html#ad54cf12a2a831141edc38754443c0f2b":[5,0,31,14,21],
 "df/dd9/classWorldPackets_1_1Array.html#ad54cf12a2a831141edc38754443c0f2b":[6,0,11,14,21],
-"df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3":[6,0,11,14,0],
-"df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3":[5,0,31,14,0]
+"df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3":[6,0,11,14,0]
 };

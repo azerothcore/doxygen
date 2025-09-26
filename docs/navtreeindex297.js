@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586":[7,0,0,0,1,3,5,12,7,2,0],
 "db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65aeb5bea74e085aa8ec9a176deb36cdcf1":[7,0,0,0,1,3,5,12,7,2,3],
 "db/dec/temple__of__ahnqiraj_8cpp.html":[7,0,0,0,1,3,4,9,11],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a01dd3a78f0b663896c149c395a890753":[7,0,0,0,1,3,4,9,11,11],
@@ -111,14 +112,14 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1526,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3176],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3176,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3176,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[6,0,4194,2],
 "db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[6,0,4194,4],
 "db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[6,0,4194,5],
-"db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4194,3],
-"db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4194,1]
+"db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4194,3]
 };

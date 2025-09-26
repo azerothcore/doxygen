@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"df/d16/structboss__ionar_1_1boss__ionarAI.html#ac67332dd2f94ea8bdd7c7871bc022239":[6,0,550,0,12],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#acbb2807142af2ef570aec0f12c861d36":[6,0,550,0,4],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#ad3f0bf773bc091cc14491cd309a4b531":[6,0,550,0,5],
 "df/d16/structboss__ionar_1_1boss__ionarAI.html#ae87ba5970d8d4f9fc33b94dc9abefa2f":[6,0,550,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d1e/instance__blackrock__spire_8cpp.html#a16774215bba3b38580ea51987d64cff1aed7e3065d598f7876f53bad2e27db9c5":[7,0,0,0,1,3,2,1,1,15,13,0],
 "df/d1e/instance__blackrock__spire_8cpp.html#a16774215bba3b38580ea51987d64cff1af85e0da3babb6538803ce8a03a9830ec":[7,0,0,0,1,3,2,1,1,15,13,4],
 "df/d1e/instance__blackrock__spire_8cpp.html#a16774215bba3b38580ea51987d64cff1afb98aa958c83d2d7573f98dac04b241c":[7,0,0,0,1,3,2,1,1,15,13,2],
-"df/d1e/instance__blackrock__spire_8cpp.html#a59a2ff14071727e718e217d2e7ba3454":[7,0,0,0,1,3,2,1,1,15,26],
-"df/d1e/instance__blackrock__spire_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,15,15]
+"df/d1e/instance__blackrock__spire_8cpp.html#a59a2ff14071727e718e217d2e7ba3454":[7,0,0,0,1,3,2,1,1,15,26]
 };

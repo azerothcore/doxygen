@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,11,11,1,0],
 "dc/d97/structboss__apoko.html":[6,0,381],
 "dc/d97/structboss__apoko.html#a3ae4752839f47bbfce5f7df03c427cd2":[6,0,381,0],
 "dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[6,0,381,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da9/structboss__illidari__council__memberAI.html#a8e75d47f56d14d9b66d10b74c3479839":[6,0,547,7],
 "dc/da9/structboss__illidari__council__memberAI.html#a9bf2376cd75e0dc825de3839eda857eb":[6,0,547,3],
 "dc/da9/structboss__illidari__council__memberAI.html#aa0cb7a373d521038e8e41e354f6bc3f7":[6,0,547,6],
-"dc/da9/structboss__illidari__council__memberAI.html#ac32366dfad13cd37ced2428d041e25c9":[6,0,547,0],
-"dc/da9/structboss__illidari__council__memberAI.html#ad47a350f5ed066e04816e72961a80bd0":[6,0,547,8]
+"dc/da9/structboss__illidari__council__memberAI.html#ac32366dfad13cd37ced2428d041e25c9":[6,0,547,0]
 };

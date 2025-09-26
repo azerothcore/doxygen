@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd4/classBattlegroundEY.html#a88dbc7809571281359a62490b33c2aba":[6,0,320,39],
 "dd/dd4/classBattlegroundEY.html#a8f5556ecd5b356628d022c7bb22c68d9":[6,0,320,9],
 "dd/dd4/classBattlegroundEY.html#a96f14d6bfd2f451ed0cfc1ef832980be":[6,0,320,2],
 "dd/dd4/classBattlegroundEY.html#a98f279fc1a1ea4f0d04cb14deb264411":[6,0,320,23],
@@ -180,8 +181,8 @@ var NAVTREEINDEX339 =
 "dd/dd6/classnpc__aeranas.html":[6,0,1570],
 "dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1570,1],
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[6,0,1570,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,31,5,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[6,0,11,5,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,31,5,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[6,0,11,5,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,31,5,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,31,5,6,2],
@@ -192,8 +193,8 @@ var NAVTREEINDEX339 =
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,11,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,31,5,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,11,5,6,3],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,31,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[6,0,11,5,6,5],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,31,5,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[6,0,11,5,6,0],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,31,5,6,0],
 "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html":[6,0,376,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/ddb/class__SpellScript.html":[6,0,16],
 "dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[6,0,16,17],
 "dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[6,0,16,3],
-"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,16,19],
-"dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,16,18]
+"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,16,19]
 };

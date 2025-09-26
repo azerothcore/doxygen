@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#aefcdf4c5b663671fb96395e280141bbb":[6,0,372,0,8],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#af11a0cddced13c34a012c8df964ab68a":[6,0,372,0,13],
 "dc/d34/structboss__murmur.html":[6,0,630],
 "dc/d34/structboss__murmur.html#a1f40ead1b2269b97c69bd4db808d6bae":[6,0,630,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3793,2],
 "dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[6,0,3793,0],
 "dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[6,0,3793,1],
-"dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42],
-"dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[7,0,0,0,1,3,0,42,1]
+"dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42]
 };

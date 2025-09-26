@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[7,0,0,0,1,2,13,3,4,6],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707":[7,0,0,0,1,2,13,3,4,1],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4":[7,0,0,0,1,2,13,3,4,2],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484":[7,0,0,0,1,2,13,3,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/d58/classnpc__andorhal__tower.html#abf63419b6c10af47f5e5df1a4e7320e7":[6,0,1593,1],
 "de/d59/LFG_8h.html":[7,0,0,0,1,2,15,1],
 "de/d59/LFG_8h.html#a028c02c49f9146ef7d35fc893ac3c561":[7,0,0,0,1,2,15,1,5],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934d":[7,0,0,0,1,2,15,1,11],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da02871a08b83930c1916bafc2d4f35d82":[7,0,0,0,1,2,15,1,11,0]
+"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934d":[7,0,0,0,1,2,15,1,11]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,761],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,761,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca953c08d385925d927621901577d5c252":[7,0,0,0,1,3,7,1,3,16,22],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bffb9c0448448681fe9169ecd20508a":[7,0,0,0,1,3,7,1,3,16,5],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cf4c32c97f8b49d7f92498043339aed":[7,0,0,0,1,3,7,1,3,16,12],
-"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d9a2b67c5226ed789289b14d8bbb00b":[7,0,0,0,1,3,7,1,3,16,3],
-"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,7,1,3,16,28]
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d9a2b67c5226ed789289b14d8bbb00b":[7,0,0,0,1,3,7,1,3,16,3]
 };

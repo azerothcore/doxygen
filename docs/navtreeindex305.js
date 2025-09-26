@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a3bbd8658724d5c5b1b3c327135e8f753":[7,0,0,0,1,3,5,9,2,6,37,19],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a5c9bd5be3e2d67f2414fa4da571ca374":[7,0,0,0,1,3,5,9,2,6,37,11],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a5fae3621ddfc8e543e22cfd73c5550d1":[7,0,0,0,1,3,5,9,2,6,37,21],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a60cfe2e765512466b63810263ee082d0":[7,0,0,0,1,3,5,9,2,6,37,12],
@@ -100,8 +101,8 @@ var NAVTREEINDEX305 =
 "dc/d31/classOutdoorPvP__terokkar__forest.html#acf268293812d7a1a233e7f1fcba1e733":[6,0,2358,1],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[5,0,1,8,2,3],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[6,0,0,5,2,3],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[5,0,1,8,2,3,0],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[5,0,1,8,2,3,1],
 "dc/d32/BuiltInConfig_8h.html":[7,0,0,0,0,2,1],
@@ -187,14 +188,14 @@ var NAVTREEINDEX305 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,20],
 "dc/d33/HomeMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,35],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,23],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,35],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,35,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,23,0],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,23,3],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,23,5],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,35,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a80aaeb0ce3a5fe101aedbdfc2489bafe":[6,0,372,0,10],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a9ec61ccf9984a9a68091ca9fba7582df":[6,0,372,0,5],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae2dd71a0edfc489645de130a8b731392":[6,0,372,0,6],
-"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9":[6,0,372,0,2],
-"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#aefcdf4c5b663671fb96395e280141bbb":[6,0,372,0,8]
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9":[6,0,372,0,2]
 };

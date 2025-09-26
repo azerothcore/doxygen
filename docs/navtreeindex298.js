@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4194,1],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html":[6,0,666,0],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a0455bacbe8356bdadd9c391115efcd68":[6,0,666,0,8],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a04a206275d57f0e0f2af0d7e98323696":[6,0,666,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa4bfde263c46e50734abaf4dcab557fa4":[7,0,0,0,1,3,9,8,77,0],
 "db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa871431934696948e50a7bf8b73b3746d":[7,0,0,0,1,3,9,8,77,2],
 "db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aaf04a87591d2c4b9d2b770a151625d300":[7,0,0,0,1,3,9,8,77,1],
-"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[7,0,0,0,1,3,9,8,103],
-"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dca4188ec15e3cb30e3a561d4b9e9c0e7b8":[7,0,0,0,1,3,9,8,103,1]
+"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[7,0,0,0,1,3,9,8,103]
 };

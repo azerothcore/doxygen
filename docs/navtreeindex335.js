@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a341114e9f9e6033408140a307758d4d5":[7,0,0,0,1,3,5,12,1,6,1],
 "dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ec56ce8fc81edae2609aecfa3490633":[7,0,0,0,1,3,5,12,1,6,2],
 "dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7ef7daa23932b450c80289511c0d3d9a":[7,0,0,0,1,3,5,12,1,6,3],
 "dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a920803a7ad734282762d93767b701526":[7,0,0,0,1,3,5,12,1,6,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2174],
-"dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2174,1],
-"dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2174,2]
+"dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2174,1]
 };

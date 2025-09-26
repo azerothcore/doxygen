@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d27/structSmartAction.html#aa7bd614939c6716a0e467853f814a711":[6,0,2570,23],
 "dd/d27/structSmartAction.html#aa830accde42bd14f96c89020501ad6a0":[6,0,2570,53],
 "dd/d27/structSmartAction.html#aa8ceda35f9e5696f54e5ddfe132867c9":[6,0,2570,154],
 "dd/d27/structSmartAction.html#aa90fd84fa34526af47c351b51959b470":[6,0,2570,290],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d2d/classMMAP_1_1TileBuilder.html#ae386f742fed7d2b66bcf3750abf91daf":[6,0,6,10,6],
 "dd/d2d/classMMAP_1_1TileBuilder.html#ae386f742fed7d2b66bcf3750abf91daf":[5,0,20,10,6],
 "dd/d2d/classspell__item__gnomish__universal__remote.html":[6,0,3254],
-"dd/d2d/classspell__item__gnomish__universal__remote.html#a522730e5ba844728c0b3d6f423cd123a":[6,0,3254,2],
-"dd/d2d/classspell__item__gnomish__universal__remote.html#a80b89fbd2506191b897dcf367ff11500":[6,0,3254,1]
+"dd/d2d/classspell__item__gnomish__universal__remote.html#a522730e5ba844728c0b3d6f423cd123a":[6,0,3254,2]
 };

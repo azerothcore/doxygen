@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/df6/structHealthCheckEventData.html#aff327c455fbd912579725956c99c3a2d":[6,0,1262,5],
 "df/df7/boss__drakos_8cpp.html":[7,0,0,0,1,3,5,8,2,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,0,8],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,0,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html":[7,0,0,0,1,3,4,4],
 "dir_cba61ad2b7214e5ed281a3632d359d7b.html":[7,0,0,0,1,0,1,2],
 "dir_ccefc5ead7ac03e8c9da01366479cde4.html":[7,0,0,0,1,4,4],
-"dir_cd5f8786a04521b4a96eac0f95f95a85.html":[7,0,0,0,1,2,31,1],
-"dir_cefc0a666b7eb08add8b713ef09ac247.html":[7,0,0,0,1,2,30]
+"dir_cd5f8786a04521b4a96eac0f95f95a85.html":[7,0,0,0,1,2,31,1]
 };

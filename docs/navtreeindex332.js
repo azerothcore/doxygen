@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/d8d/DBCStores_8cpp.html#aa525b3c5ae6e3413cabb16b4b84b5d45":[7,0,0,0,1,2,14,0,32],
 "dd/d8d/DBCStores_8cpp.html#aab7715861812ca8fe9602150271add14":[7,0,0,0,1,2,14,0,61],
 "dd/d8d/DBCStores_8cpp.html#aad3b0ef853455cf1c8baf2b07c0f6d01":[7,0,0,0,1,2,14,0,14],
 "dd/d8d/DBCStores_8cpp.html#aad915a62fd251282e47b86aac7950b0f":[7,0,0,0,1,2,14,0,80],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d9c/classspell__geddon__inferno__aura.html#a778da1e0ae7d5cab576b55bff93c923f":[6,0,2907,4],
 "dd/d9c/classspell__geddon__inferno__aura.html#a8f13734ec4eb2dfda64be4ed3410e9a7":[6,0,2907,3],
 "dd/d9c/classspell__geddon__inferno__aura.html#ab5dea2b9154ea73e9f159f6899f71d1d":[6,0,2907,0],
-"dd/d9e/classnpc__guardian__pavilion.html":[6,0,1824],
-"dd/d9e/classnpc__guardian__pavilion.html#a89e55b3267cd93ae688573678851c7b9":[6,0,1824,2]
+"dd/d9e/classnpc__guardian__pavilion.html":[6,0,1824]
 };

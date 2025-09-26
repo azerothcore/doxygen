@@ -1,20 +1,21 @@
 var NAVTREEINDEX289 =
 {
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ab53f2e507d41dc1ba9b015ba8292e043":[5,0,1,8,0,17,0],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ab53f2e507d41dc1ba9b015ba8292e043":[6,0,0,5,0,17,0],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aba4526ea09ea4f4c77d92b34d8a0e756":[5,0,1,8,0,17,21],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aba4526ea09ea4f4c77d92b34d8a0e756":[6,0,0,5,0,17,21],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#abdad09a6ec7395e43f60de4a6ed7fcc9":[6,0,0,5,0,17,8],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#abdad09a6ec7395e43f60de4a6ed7fcc9":[5,0,1,8,0,17,8],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[5,0,1,8,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[6,0,0,5,0,17,2],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[5,0,1,8,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[5,0,1,8,0,17,13],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[6,0,0,5,0,17,13],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[6,0,0,5,0,17,1],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[5,0,1,8,0,17,1],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[5,0,1,8,0,17,20],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[6,0,0,5,0,17,20],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classspell__sindragosa__unchained__magic.html":[6,0,3837],
 "db/da6/classspell__sindragosa__unchained__magic.html#aa7e731de9e5ab1078b8ff7022393c9a7":[6,0,3837,0],
 "db/da6/classspell__sindragosa__unchained__magic.html#ae6ab0b56688bfc07262cc83e84102ccb":[6,0,3837,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36abadb3ae13a4cc76aca9d76e9ee818ee5":[7,0,0,0,1,3,10,14,72,4],
 "db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36af66b1f1c7efc46e81a731aab977a8e27":[7,0,0,0,1,3,10,14,72,2],
 "db/dae/npcs__special_8cpp.html#a503427e7eab2eb3f7b8145c4d12019a3":[7,0,0,0,1,3,10,14,57],
-"db/dae/npcs__special_8cpp.html#a503427e7eab2eb3f7b8145c4d12019a3a03a141d7e0532749a842e50f7de07c83":[7,0,0,0,1,3,10,14,57,0],
-"db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207":[7,0,0,0,1,3,10,14,50]
+"db/dae/npcs__special_8cpp.html#a503427e7eab2eb3f7b8145c4d12019a3a03a141d7e0532749a842e50f7de07c83":[7,0,0,0,1,3,10,14,57,0]
 };

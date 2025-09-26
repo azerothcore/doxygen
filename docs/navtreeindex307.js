@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[7,0,0,0,1,3,0,42,1],
 "dc/d44/structWardenHashRequest.html":[6,0,4256],
 "dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[6,0,4256,1],
 "dc/d44/structWardenHashRequest.html#af0e8f46d4352430d12f932b5a9e4c44e":[6,0,4256,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4300310bf87aeb726746c717828ffff1":[7,0,0,0,1,2,26,2,0,146],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a43212ff5df35c5e033a1cc9064e8764e":[7,0,0,0,1,2,26,2,0,93],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7":[7,0,0,0,1,2,26,2,0,38],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8":[7,0,0,0,1,2,26,2,0,95],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44d6afdbd4e7450f0d169619ecb67e80":[7,0,0,0,1,2,26,2,0,97]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8":[7,0,0,0,1,2,26,2,0,95]
 };

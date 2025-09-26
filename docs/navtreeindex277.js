@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#ada770d51f63c841c500ffc3197a7a89f":[6,0,750,0,5],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#af7076251fc1fad1dc259d747934910e2":[6,0,750,0,2],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html":[6,0,2262,0],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a022ed151fca8c540e65cc8dda3acb2a7":[6,0,2262,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1e42fdd4ba0253469e1d8f66f57ee4e8":[6,0,2123,0,18],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a2bcd03543d26590d321d2d0dcd9c216b":[6,0,2123,0,25],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a43b12e37051fc9d527e15bf714053b5b":[6,0,2123,0,24],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a446560b55d0a67152e2fefe8d2c14006":[6,0,2123,0,21],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a46add6c2b7724d6234c10ef59bf02cec":[6,0,2123,0,10]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a446560b55d0a67152e2fefe8d2c14006":[6,0,2123,0,21]
 };

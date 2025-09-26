@@ -5,7 +5,6 @@ var SpellInfo_8h =
     [ "SpellEffectInfo", "da/db9/classSpellEffectInfo.html", "da/db9/classSpellEffectInfo" ],
     [ "SpellEffectInfo::StaticData", "d6/d2d/structSpellEffectInfo_1_1StaticData.html", "d6/d2d/structSpellEffectInfo_1_1StaticData" ],
     [ "SpellInfo", "d2/de9/classSpellInfo.html", "d2/de9/classSpellInfo" ],
-    [ "ConditionList", "d0/dba/SpellInfo_8h.html#ae942a8e25dc24ce42e62625bb583c0dd", null ],
     [ "SpellCastTargetFlags", "d0/dba/SpellInfo_8h.html#a3c11f0d0cd9689554b34ccbc325da54f", [
       [ "TARGET_FLAG_NONE", "d0/dba/SpellInfo_8h.html#a3c11f0d0cd9689554b34ccbc325da54fa26e47021cbf69aa137c5a028560ee0bc", null ],
       [ "TARGET_FLAG_UNUSED_1", "d0/dba/SpellInfo_8h.html#a3c11f0d0cd9689554b34ccbc325da54fa841fdb1e05b75499a9296ae914477bca", null ],

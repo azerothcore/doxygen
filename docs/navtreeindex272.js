@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa0d0fdc87fd135ef2bedb030901cdb9c":[7,0,0,0,3,4,0,0,3],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa79c2d3de4fcd200458c406f40b2ae64":[7,0,0,0,3,4,0,0,6],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#ab7903878916593daecbeb95b98115ab0":[7,0,0,0,3,4,0,0,4],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#abc0f5bc07737e498f287334775dff2b6":[7,0,0,0,3,4,0,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/df4/AuthCodes_8h.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,1,4],
 "da/df4/classboss__overlord__wyrmthalak.html":[6,0,649],
 "da/df4/classboss__overlord__wyrmthalak.html#a2af6edf776c189d43cb82cc35bb838fe":[6,0,649,1],
-"da/df4/classboss__overlord__wyrmthalak.html#a56de538f25cbabc9346b987dbfe680a1":[6,0,649,2],
-"da/df4/classspell__majordomo__separation__anxiety__aura.html":[6,0,3433]
+"da/df4/classboss__overlord__wyrmthalak.html#a56de538f25cbabc9346b987dbfe680a1":[6,0,649,2]
 };

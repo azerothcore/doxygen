@@ -1,6 +1,5 @@
 var NAVTREEINDEX74 =
 {
-"d2/dd6/classOutdoorPvP.html#ae34ffe3b531f8689d186610b4a06d093":[6,0,2351,7],
 "d2/dd6/classOutdoorPvP.html#aeb8ce2be078f2ce067bc7f90a879e4cf":[6,0,2351,18],
 "d2/dd6/classOutdoorPvP.html#aec47df6fa8d91ae78d0f2184a3fbf780":[6,0,2351,16],
 "d2/dd6/classOutdoorPvP.html#af20e003de861bb9f9589b26fbad77cf8":[6,0,2351,26],
@@ -247,7 +246,8 @@ var NAVTREEINDEX74 =
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c":[6,0,500,0,1],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#adaf9581259a774087ce02725b42b6b47":[6,0,500,0,10],
 "d2/de9/classSpellInfo.html":[6,0,4094],
-"d2/de9/classSpellInfo.html#a0097892412fb268b302090f3721866e7":[6,0,4094,140],
-"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4094,80],
-"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[6,0,4094,173]
+"d2/de9/classSpellInfo.html#a0097892412fb268b302090f3721866e7":[6,0,4094,141],
+"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4094,81],
+"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[6,0,4094,174],
+"d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[6,0,4094,133]
 };
