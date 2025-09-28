@@ -1,5 +1,11 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1d8f6356f9cc9c5b2ca27597933f27f5":[6,0,1090,38],
+"dd/d3b/structGameObjectTemplate.html#a1d957cb99d9b0a92a1d4ea1bb4e77aa9":[6,0,1090,17],
+"dd/d3b/structGameObjectTemplate.html#a1e26ff370bfe49a1e28b79c686b51bfd":[6,0,1090,168],
+"dd/d3b/structGameObjectTemplate.html#a2009200fe2b9b921ab6ca7e253069779":[6,0,1090,27],
+"dd/d3b/structGameObjectTemplate.html#a259bf0cf9e7817c1988cf53f28170440":[6,0,1090,127],
+"dd/d3b/structGameObjectTemplate.html#a2a51882cc74f07131c149d93f10dbee2":[6,0,1090,165],
 "dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[6,0,1090,83],
 "dd/d3b/structGameObjectTemplate.html#a2b0cb20e680729e174de765842e13cc0":[6,0,1090,173],
 "dd/d3b/structGameObjectTemplate.html#a2b485d6e3b1a0b38cf445c3a2cde1766":[6,0,1090,5],
@@ -185,16 +191,16 @@ var NAVTREEINDEX326 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,28,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,457,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1936,0,1],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1936,0,3],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1936,0,2],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1936,0,0],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1936,0,4],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1830,0],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1830,0,1],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1830,0,4],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1830,0,2],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1830,0,3]
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1936,0,0]
 };

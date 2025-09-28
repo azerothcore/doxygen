@@ -1,5 +1,8 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/classObjectMgr.html#adc8f9973a27eb455d445363bd9985b27":[6,0,2330,374],
+"d5/dfb/classObjectMgr.html#add40232eb1fe043342bdab8c02961bc7":[6,0,2330,346],
+"d5/dfb/classObjectMgr.html#ade11768f3e9835b1d822c337b985bf10":[6,0,2330,370],
 "d5/dfb/classObjectMgr.html#adeb2a399a3ab5e94d13f5c2e1f7fe73c":[6,0,2330,222],
 "d5/dfb/classObjectMgr.html#adec5d46f2a8478de1bd75690a237c936":[6,0,2330,224],
 "d5/dfb/classObjectMgr.html#adfd7aa2f317a9ab684bdf765b8d83662":[6,0,2330,254],
@@ -105,8 +108,8 @@ var NAVTREEINDEX161 =
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[7,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,2,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22aa0cbbb8b4c9ed7a9bf155498c27eea00":[7,0,0,0,1,3,4,9,12,5,12],
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22aac8ccee3d50ccec7cf1a43384c4ba247":[7,0,0,0,1,3,4,9,12,5,17],
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22ab05e5a10a289ad31157f046508292475":[7,0,0,0,1,3,4,9,12,5,7],
-"d6/d07/Tuples_8h.html":[7,0,0,0,0,15,36],
-"d6/d07/Tuples_8h.html#a028fc93107022ad23a763503c9b0bbdb":[7,0,0,0,0,15,36,4],
-"d6/d07/Tuples_8h.html#a4104f84ad757b701a6ffbd51f5d10b9f":[7,0,0,0,0,15,36,6],
-"d6/d07/Tuples_8h.html#aa4e7bc2a96e641dd1642a3c61cfc96b0":[7,0,0,0,0,15,36,5]
+"d6/d07/Tuples_8h.html":[7,0,0,0,0,15,36]
 };

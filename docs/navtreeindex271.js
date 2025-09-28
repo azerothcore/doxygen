@@ -1,5 +1,11 @@
 var NAVTREEINDEX271 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5acece87b17cabb8d31782232dd4c53656":[7,0,0,0,1,3,5,2,1,7,7,2],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad3a32c06bca452d4ec3da408f3fb5eb8":[7,0,0,0,1,3,5,2,1,7,7,12],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5af8f7a209e9b9e0909610ffbcb8fe94ca":[7,0,0,0,1,3,5,2,1,7,7,5],
+"da/de8/trial__of__the__crusader_8h.html#a0f04507daf1d41009237da1c747558c3":[7,0,0,0,1,3,5,2,1,7,15],
+"da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0":[7,0,0,0,1,3,5,2,1,7,8],
+"da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a0b811ff893a4ac0bccd9837fb305e240":[7,0,0,0,1,3,5,2,1,7,8,10],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a11fc4c91d3b5e34b92071643c1363d3f":[7,0,0,0,1,3,5,2,1,7,8,5],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a1ace5c94f0afab5699acc6723638f0c2":[7,0,0,0,1,3,5,2,1,7,8,0],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a246935261502345e3d7a84f5ed008714":[7,0,0,0,1,3,5,2,1,7,8,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX271 =
 "da/de9/classspell__item__noggenfogger__elixir.html":[6,0,3286],
 "da/de9/classspell__item__noggenfogger__elixir.html#a0385a22f908ac62ab987fe9f84cad330":[6,0,3286,2],
 "da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3286,3],
-"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3286,4],
-"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3286,0],
-"da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3286,1],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[7,0,0,0,3,4,0,0,10],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a7cde0074dfd288f2d70c0e035dacb28a":[7,0,0,0,3,4,0,0,5],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a82680783457cdcbe83db9eefe68f8a9b":[7,0,0,0,3,4,0,0,2]
+"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3286,4]
 };

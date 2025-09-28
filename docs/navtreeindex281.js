@@ -1,5 +1,11 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69":[7,0,0,0,1,3,9,4,154],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69a2a57b2dd3a2a01096553a1e0902b791e":[7,0,0,0,1,3,9,4,154,3],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69abd12b6f9c9e7a2f52a167070abee422e":[7,0,0,0,1,3,9,4,154,2],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69acfe5dbb572c8b8fb11f7a37fa7049ae4":[7,0,0,0,1,3,9,4,154,0],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69ae4d29be8f6561ecd034fac94950d655a":[7,0,0,0,1,3,9,4,154,1],
+"db/d6e/spell__item_8cpp.html#a37797059c29473227ab2108f28246161":[7,0,0,0,1,3,9,4,179],
 "db/d6e/spell__item_8cpp.html#a37797059c29473227ab2108f28246161a20a566973c383b3f0988bc496150cf7c":[7,0,0,0,1,3,9,4,179,0],
 "db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7":[7,0,0,0,1,3,9,4,142],
 "db/d6e/spell__item_8cpp.html#a3f9a32da0199da6ec6c7eacf6ddc1ef7a1337df0ce25cbdb345096229f481f633":[7,0,0,0,1,3,9,4,142,0],
@@ -239,15 +245,9 @@ var NAVTREEINDEX281 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2525,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2525,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2525,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
-"db/d72/structLootItem.html":[6,0,1453],
-"db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1453,15],
-"db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1453,5]
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1]
 };

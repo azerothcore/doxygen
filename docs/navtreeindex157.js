@@ -1,5 +1,8 @@
 var NAVTREEINDEX157 =
 {
+"d5/ddd/classSpellScript_1_1TargetHook.html":[6,0,4111,8],
+"d5/ddd/classSpellScript_1_1TargetHook.html#a238979ffaaa644bd65ffd4e7cb20d797":[6,0,4111,8,2],
+"d5/ddd/classSpellScript_1_1TargetHook.html#a28f2f6f3338a2c261ee754508ee48e60":[6,0,4111,8,5],
 "d5/ddd/classSpellScript_1_1TargetHook.html#a424e03e457dc15a2689f344e614a882f":[6,0,4111,8,3],
 "d5/ddd/classSpellScript_1_1TargetHook.html#aceec6f0ea91d45a11233122c3bc843ed":[6,0,4111,8,4],
 "d5/ddd/classSpellScript_1_1TargetHook.html#aed2e0e651bdd5453d716db464ac0ab55":[6,0,4111,8,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#acdbb0bfb4f66020d964ed11b383618ac":[6,0,1339,0,12],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ad52154febdfdeb4c1e63c12314b29cdb":[6,0,1339,0,5],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae6f273bea1158e487b5d0efa57b692bf":[6,0,1339,0,20],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c":[6,0,1339,0,35],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af07eae7f1e94a9317aec26404b68b33e":[6,0,1339,0,2],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af9b41e111ea55b45d007685c1b122ac4":[6,0,1339,0,16],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#afa7f98e85998447206dc06b09dfc928d":[6,0,1339,0,34]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c":[6,0,1339,0,35]
 };

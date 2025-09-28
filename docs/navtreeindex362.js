@@ -1,5 +1,13 @@
 var NAVTREEINDEX362 =
 {
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[6,0,2180,0,5],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[6,0,2180,0,17],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[6,0,2180,0,19],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[6,0,2180,0,14],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[6,0,2180,0,13],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[6,0,2180,0,9],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abe0cf3f5e154edd5b0005c62a70dfb06":[6,0,2180,0,22],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[6,0,2180,0,11],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[6,0,2180,0,18],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ae764b73931eb22712fc4e22e0c15a080":[6,0,2180,0,26],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[6,0,2180,0,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX362 =
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#ad3c0a2c270d1b8c31761674f89500b8a":[6,0,3366,2],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#aec1ff41f0051a6c6dfbd11ea7741b1af":[6,0,3366,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[6,0,2220,0],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[6,0,2220,0,1],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a819e987eeb8eb8d580a5ad22001a641d":[6,0,2220,0,3],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ab41fdff3612b29e7d0d94fb6aaa8c085":[6,0,2220,0,5],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ad8fc713bb9673e74bfd11bc653c71587":[6,0,2220,0,2],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#aedad685279012266637d29069ead9063":[6,0,2220,0,0],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#af5dbb99fe18d96665efd04bd53294636":[6,0,2220,0,4],
-"de/d43/DisableMgr_8h.html":[7,0,0,0,1,2,13,3],
-"de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[7,0,0,0,1,2,13,3,2],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[7,0,0,0,1,2,13,3,4]
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[6,0,2220,0,1]
 };

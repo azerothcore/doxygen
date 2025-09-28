@@ -1,5 +1,11 @@
 var NAVTREEINDEX272 =
 {
+"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3286,0],
+"da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3286,1],
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[7,0,0,0,3,4,0,0,10],
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a7cde0074dfd288f2d70c0e035dacb28a":[7,0,0,0,3,4,0,0,5],
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a82680783457cdcbe83db9eefe68f8a9b":[7,0,0,0,3,4,0,0,2],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa0d0fdc87fd135ef2bedb030901cdb9c":[7,0,0,0,3,4,0,0,3],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa79c2d3de4fcd200458c406f40b2ae64":[7,0,0,0,3,4,0,0,6],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#ab7903878916593daecbeb95b98115ab0":[7,0,0,0,3,4,0,0,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX272 =
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d":[7,0,0,0,1,0,0,0,1,0,7],
 "da/df4/AuthCodes_8h.html#a96896fc9dad2c304f681a24776f6726b":[7,0,0,0,1,0,0,0,1,5],
 "da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2":[7,0,0,0,1,0,0,0,1,1],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb":[7,0,0,0,1,0,0,0,1,1,0],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d":[7,0,0,0,1,0,0,0,1,1,2],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64":[7,0,0,0,1,0,0,0,1,1,1],
-"da/df4/AuthCodes_8h.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,1,4],
-"da/df4/classboss__overlord__wyrmthalak.html":[6,0,649],
-"da/df4/classboss__overlord__wyrmthalak.html#a2af6edf776c189d43cb82cc35bb838fe":[6,0,649,1],
-"da/df4/classboss__overlord__wyrmthalak.html#a56de538f25cbabc9346b987dbfe680a1":[6,0,649,2]
+"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb":[7,0,0,0,1,0,0,0,1,1,0]
 };

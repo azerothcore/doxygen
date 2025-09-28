@@ -1,5 +1,13 @@
 var NAVTREEINDEX359 =
 {
+"de/d25/ObjectMgr_8h.html#a56de512074e494da452d4d4c243df7d8":[7,0,0,0,1,2,18,3,74],
+"de/d25/ObjectMgr_8h.html#a5e723b66ad85198f3b0625903f5edac6":[7,0,0,0,1,2,18,3,94],
+"de/d25/ObjectMgr_8h.html#a628c13edbfd025ca095cdd76a505bcc3":[7,0,0,0,1,2,18,3,48],
+"de/d25/ObjectMgr_8h.html#a67c5dcf85a804223c359aec2c1f64b50":[7,0,0,0,1,2,18,3,68],
+"de/d25/ObjectMgr_8h.html#a692ffe2a45110a63b66e0293f1d2aca0":[7,0,0,0,1,2,18,3,66],
+"de/d25/ObjectMgr_8h.html#a69bda637aad0ed6affa5026dc0ae10c9":[7,0,0,0,1,2,18,3,61],
+"de/d25/ObjectMgr_8h.html#a6c5f827b75b475ad666ee35868af6231":[7,0,0,0,1,2,18,3,75],
+"de/d25/ObjectMgr_8h.html#a6d06faa76e9e64a48c7aa628b436f55b":[7,0,0,0,1,2,18,3,42],
 "de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787":[7,0,0,0,1,2,18,3,36],
 "de/d25/ObjectMgr_8h.html#a79f769faed22997f79f7055b5e18ad79":[7,0,0,0,1,2,18,3,49],
 "de/d25/ObjectMgr_8h.html#a7de563aff0ffdb74b3df49977432df21":[7,0,0,0,1,2,18,3,52],
@@ -241,13 +249,5 @@ var NAVTREEINDEX359 =
 "de/d2f/structFactionTemplateEntry.html#ae53f6799be5ae4bf7ab047fd97a4a969":[6,0,1034,6],
 "de/d2f/structFactionTemplateEntry.html#af0d102e7e7ae480b2c61cf121bcd012a":[6,0,1034,0],
 "de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[6,0,1034,8],
-"de/d30/SpellMgr_8h.html":[7,0,0,0,1,2,41,9],
-"de/d30/SpellMgr_8h.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,9,76],
-"de/d30/SpellMgr_8h.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,9,75],
-"de/d30/SpellMgr_8h.html#a183ff5e89f6053b74daa4e3c73b28684":[7,0,0,0,1,2,41,9,38],
-"de/d30/SpellMgr_8h.html#a1b0fd27c7a9df1abc01dcafac549fa57":[7,0,0,0,1,2,41,9,46],
-"de/d30/SpellMgr_8h.html#a1d7845eefd83649331689ae0a99b51b6":[7,0,0,0,1,2,41,9,27],
-"de/d30/SpellMgr_8h.html#a218f97acb0811d2b93725da07b8e30dc":[7,0,0,0,1,2,41,9,77],
-"de/d30/SpellMgr_8h.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,9,72],
-"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9":[7,0,0,0,1,2,41,9,61]
+"de/d30/SpellMgr_8h.html":[7,0,0,0,1,2,41,9]
 };

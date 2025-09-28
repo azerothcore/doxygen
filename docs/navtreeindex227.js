@@ -1,5 +1,11 @@
 var NAVTREEINDEX227 =
 {
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a1f85dcb64b1d4a625674ed40542f33d6":[7,0,0,0,1,2,8,1,19,11,10],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a39168537485f83fcaecad9ee7df5c53c":[7,0,0,0,1,2,8,1,19,11,0],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a3c37fa41cf718fc83c59d582aedb8c93":[7,0,0,0,1,2,8,1,19,11,23],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a3e8f730935357ca3e65353a1f16eebc7":[7,0,0,0,1,2,8,1,19,11,17],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a57e5a1290efed76eb3e6ac718d613e22":[7,0,0,0,1,2,8,1,19,11,9],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a633262bf7c7d5d49d3dfed140c17a773":[7,0,0,0,1,2,8,1,19,11,21],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6573237213ea097696beb6ead5caca34":[7,0,0,0,1,2,8,1,19,11,13],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a":[7,0,0,0,1,2,8,1,19,11,3],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1":[7,0,0,0,1,2,8,1,19,11,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX227 =
 "d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#a88193ba77c8a0269a5b8bdc4f3dc96d2":[6,0,477,0,6],
 "d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#aab878773508fcbb437661d316266b942":[6,0,477,0,1],
 "d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#ab7b5df914ee5b22c25098c188306d123":[6,0,477,0,2],
-"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#afd87a8fc3ca55d1a91f4cc08b34095c8":[6,0,477,0,4],
-"d8/ded/classat__cthun__center.html":[6,0,213],
-"d8/ded/classat__cthun__center.html#a75cf2b77215e0d50c1c89ec9b522ebc3":[6,0,213,0],
-"d8/ded/classat__cthun__center.html#af744df9577e84ab64749076324e574c9":[6,0,213,1],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html":[6,0,1657,0],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d":[6,0,1657,0,4],
-"d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a13efa2a2a0c5c796b3fd9f36a54ce523":[6,0,1657,0,2]
+"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#afd87a8fc3ca55d1a91f4cc08b34095c8":[6,0,477,0,4]
 };

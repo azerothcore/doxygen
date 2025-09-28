@@ -1,5 +1,13 @@
 var NAVTREEINDEX384 =
 {
+"df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030a66017a65fb2917aa4c56d706de1100b9":[7,0,0,0,1,2,16,5,0,4,2,0],
+"df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030a75f723aec0cff918ce0c3d9011bf67e1":[7,0,0,0,1,2,16,5,0,4,2,2],
+"df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030aace34541f56d2230d2fbaeb4d8636704":[7,0,0,0,1,2,16,5,0,4,2,1],
+"df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030aae9c28d0118d9d15b37c6190829a6abb":[7,0,0,0,1,2,16,5,0,4,2,5],
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491f":[7,0,0,0,1,2,16,5,0,4,3],
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa2751b568364ca2ae5df69ae142f13fed":[7,0,0,0,1,2,16,5,0,4,3,6],
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa3aa975bcc694d2271c32ebebce6b6140":[7,0,0,0,1,2,16,5,0,4,3,5],
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa7293c2481d3ccde1b1aeca15453c1399":[7,0,0,0,1,2,16,5,0,4,3,4],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa8594535ea562d7a6fba063e44cd1767c":[7,0,0,0,1,2,16,5,0,4,3,8],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa8b5005617fee45461762adae1efc1577":[7,0,0,0,1,2,16,5,0,4,3,0],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fab399837e3e7e2c2a23e9c906e197e51a":[7,0,0,0,1,2,16,5,0,4,3,3],
@@ -153,8 +161,8 @@ var NAVTREEINDEX384 =
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1":[7,0,0,0,1,3,5,8,2,6,3,9],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa5927bac3b5dbcbb4d84d36552c1f6c1":[7,0,0,0,1,3,5,8,2,6,3,2],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a":[7,0,0,0,1,3,5,8,2,6,3,5],
-"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23],
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[6,0,2084,0],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a00872042199924a14089c1057c479ff7":[6,0,2084,0,9],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a47ed52a4a0511d7b1e3eb4bd5da409ca":[6,0,2084,0,6],
@@ -185,8 +193,8 @@ var NAVTREEINDEX384 =
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,5,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,5,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,5,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,5,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,5,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,5,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,5,40,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX384 =
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,3,4,3],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa14c943127f3ae15ef51e18fcc3aa97":[7,0,0,0,1,3,5,7,3,4,2],
 "df/d30/classAccountScript.html":[6,0,27],
-"df/d30/classAccountScript.html#a23261a238db9ddd618ebb6a45aaabcbf":[6,0,27,6],
-"df/d30/classAccountScript.html#a3720bf412499a13ba4b41fc5c9f96b7c":[6,0,27,0],
-"df/d30/classAccountScript.html#a3de6453c132bb3d76b6888b87f988d2d":[6,0,27,8],
-"df/d30/classAccountScript.html#a45d58c0f669f37b24e3dabf0ac4b2423":[6,0,27,7],
-"df/d30/classAccountScript.html#a631f7deca08644da2613142c667618a8":[6,0,27,3],
-"df/d30/classAccountScript.html#a6b5b94c1ac64bf8d926928d8401cd533":[6,0,27,1],
-"df/d30/classAccountScript.html#aae3401d74bdc9e8328a5f084462ae740":[6,0,27,5],
-"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,27,4],
-"df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,27,9]
+"df/d30/classAccountScript.html#a23261a238db9ddd618ebb6a45aaabcbf":[6,0,27,6]
 };

@@ -238,7 +238,7 @@ var searchData=
   ['_5ftrystackingorrefreshingexistingaura_235',['_TryStackingOrRefreshingExistingAura',['../df/dd9/classUnit.html#a9f63d861cbd0113802b941275e90208c',1,'Unit']]],
   ['_5funapplyaura_236',['_unapplyaura',['../df/dd9/classUnit.html#a2681906ad625eb9effbe367c7f53a930',1,'Unit::_UnapplyAura(AuraApplicationMap::iterator &amp;i, AuraRemoveMode removeMode)'],['../df/dd9/classUnit.html#ad482bd8c555622ba8fa2d06f05a11c4b',1,'Unit::_UnapplyAura(AuraApplication *aurApp, AuraRemoveMode removeMode)']]],
   ['_5funapplyfortarget_237',['_unapplyfortarget',['../d8/d9f/classUnitAura.html#af4d453cee6758e633bdcae0049581898',1,'UnitAura::_UnapplyForTarget()'],['../db/dce/classAura.html#a068cc46b636b35d317aea47a2de6253e',1,'Aura::_UnapplyForTarget()']]],
-  ['_5funload_238',['_unload',['../dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df',1,'_SpellScript::_Unload()'],['../d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f',1,'Model::_unload()']]],
+  ['_5funload_238',['_unload',['../d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f',1,'Model::_unload()'],['../dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df',1,'_SpellScript::_Unload()']]],
   ['_5funloadimplicittargetconditionlists_239',['_UnloadImplicitTargetConditionLists',['../d2/de9/classSpellInfo.html#a6c19e9a1b420634cd7201e09b9bd0cbc',1,'SpellInfo']]],
   ['_5funregisterdynobject_240',['_UnregisterDynObject',['../df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857',1,'Unit']]],
   ['_5fupdateaccountsnumber_241',['_UpdateAccountsNumber',['../de/d79/classGuild.html#a86f4c4bcdb3d744f9438d53148830698',1,'Guild']]],

@@ -1,5 +1,11 @@
 var NAVTREEINDEX297 =
 {
+"db/dec/classspell__midsummer__ribbon__pole__firework.html#af219083d127afe24b2541a95bfd449ff":[6,0,3456,0],
+"db/dec/instance__violet__hold_8cpp.html":[7,0,0,0,1,3,5,12,7],
+"db/dec/instance__violet__hold_8cpp.html#a3d339190942c6b50cafaf9780d32ffb4":[7,0,0,0,1,3,5,12,7,3],
+"db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65":[7,0,0,0,1,3,5,12,7,2],
+"db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65a009be97ca2bddcb508aeed20f057fd61":[7,0,0,0,1,3,5,12,7,2,2],
+"db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65a98abfd4974743840603721fea2cd0192":[7,0,0,0,1,3,5,12,7,2,1],
 "db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586":[7,0,0,0,1,3,5,12,7,2,0],
 "db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65aeb5bea74e085aa8ec9a176deb36cdcf1":[7,0,0,0,1,3,5,12,7,2,3],
 "db/dec/temple__of__ahnqiraj_8cpp.html":[7,0,0,0,1,3,4,9,11],
@@ -112,8 +118,8 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1526,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/classspell__hodir__biting__cold__player__aura.html#aa62be73e00d9cb512806787eaf1c4144":[6,0,3097,0],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#ab31989a4abd6b5cb08818b0e082c7d9f":[6,0,3097,1],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#ad9664bff267b330565d3c706e1752e9d":[6,0,3097,2],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[6,0,3097,3],
-"db/df4/structTransportRotationEntry.html":[6,0,4194],
-"db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[6,0,4194,0],
-"db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[6,0,4194,2],
-"db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[6,0,4194,4],
-"db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[6,0,4194,5],
-"db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4194,3]
+"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[6,0,3097,3]
 };

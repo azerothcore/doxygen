@@ -1,5 +1,13 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aaf9170997f464e7fb1c87b84bb38651a":[7,0,0,0,1,2,41,9,59,14],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ab47347c9f4b3ba1255744ba7c0a1e007":[7,0,0,0,1,2,41,9,59,13],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73":[7,0,0,0,1,2,41,9,59,16],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abcffcf75e3fd5015383c586153dc32c1":[7,0,0,0,1,2,41,9,59,21],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12":[7,0,0,0,1,2,41,9,59,4],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac5647abe6aa2b8e292cde78a34ac29cc":[7,0,0,0,1,2,41,9,59,28],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4":[7,0,0,0,1,2,41,9,59,12],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c":[7,0,0,0,1,2,41,9,59,6],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58":[7,0,0,0,1,2,41,9,59,29],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488":[7,0,0,0,1,2,41,9,59,32],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aec3e2077cfabdc92fbbc9a1858dd5c7b":[7,0,0,0,1,2,41,9,59,22],
@@ -241,13 +249,5 @@ var NAVTREEINDEX361 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[6,0,2180,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[6,0,2180,0,20],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[6,0,2180,0,15],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[6,0,2180,0,23],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[6,0,2180,0,5],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[6,0,2180,0,17],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[6,0,2180,0,19],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[6,0,2180,0,14],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[6,0,2180,0,13],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[6,0,2180,0,9],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abe0cf3f5e154edd5b0005c62a70dfb06":[6,0,2180,0,22],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[6,0,2180,0,11]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[6,0,2180,0,23]
 };

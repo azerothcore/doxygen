@@ -1,7 +1,7 @@
 var NAVTREEINDEX24 =
 {
-"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,5],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[5,0,1,127,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,5],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,127,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,115,3],

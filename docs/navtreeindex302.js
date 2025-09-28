@@ -1,5 +1,11 @@
 var NAVTREEINDEX302 =
 {
+"dc/d0e/structRealmBuildInfo.html#ad59772e86371318fe975760e303fa7d9":[6,0,2488,3],
+"dc/d0f/structboss__teron__gorefiend.html":[6,0,724],
+"dc/d0f/structboss__teron__gorefiend.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1":[6,0,724,7],
+"dc/d0f/structboss__teron__gorefiend.html#a139c351471a3f19c7e59cf8e40913820":[6,0,724,6],
+"dc/d0f/structboss__teron__gorefiend.html#a70dbf2b2a08cf915866afd51f8a74018":[6,0,724,4],
+"dc/d0f/structboss__teron__gorefiend.html#a71db567c5be7396add349e2f1b455a50":[6,0,724,3],
 "dc/d0f/structboss__teron__gorefiend.html#a81845f22aa383cdc57912ee9655b7bf9":[6,0,724,0],
 "dc/d0f/structboss__teron__gorefiend.html#a99c62157084373e8eddd4497360cc047":[6,0,724,8],
 "dc/d0f/structboss__teron__gorefiend.html#a9f658d42cf27a54c62a71e28b5dfadee":[6,0,724,2],
@@ -197,10 +203,10 @@ var NAVTREEINDEX302 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3669,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3669,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3669,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d23/classVehicle.html#a0201fddbb6ce34d9314f5105d847aa37":[6,0,4235,35],
 "dc/d23/classVehicle.html#a06211ca71a5a6a44f7430d7c6c430c51":[6,0,4235,23],
 "dc/d23/classVehicle.html#a09bd00382a9c2917e78e1527a65c3a0e":[6,0,4235,8],
-"dc/d23/classVehicle.html#a0a29ec0368b2f2680f1301cea1649b56":[6,0,4235,28],
-"dc/d23/classVehicle.html#a10bd5f2825fb974863a6bf67cb8e82a9":[6,0,4235,1],
-"dc/d23/classVehicle.html#a16e47819393af4335642a1e667b9582b":[6,0,4235,12],
-"dc/d23/classVehicle.html#a1b4a880c866af98a9eccc944786e3393":[6,0,4235,9],
-"dc/d23/classVehicle.html#a1c71112b0bc3488d27ec06d9bb63ea88":[6,0,4235,10],
-"dc/d23/classVehicle.html#a24de52021b3b9b6c8fd98e20fcca7607":[6,0,4235,7],
-"dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f":[6,0,4235,13]
+"dc/d23/classVehicle.html#a0a29ec0368b2f2680f1301cea1649b56":[6,0,4235,28]
 };

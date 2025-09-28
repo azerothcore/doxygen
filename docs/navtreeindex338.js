@@ -1,5 +1,13 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/classChaseMovementGenerator.html#ab26ee9709942a38a6e713c0385328e15":[6,0,865,3],
+"dd/dcb/classChaseMovementGenerator.html#ab80b5a4575f9b484764a36634dd6faf2":[6,0,865,26],
+"dd/dcb/classChaseMovementGenerator.html#ab8db38136708c7032eaba9149b8dc4e0":[6,0,865,27],
+"dd/dcb/classChaseMovementGenerator.html#ac30308e6e93e600778047e6dc54ebb74":[6,0,865,1],
+"dd/dcb/classChaseMovementGenerator.html#ac325e618f8dd0376a7c726df993e2e3d":[6,0,865,14],
+"dd/dcb/classChaseMovementGenerator.html#ac98da5e0e4e4bb24d67ce554095b0bd1":[6,0,865,0],
+"dd/dcb/classChaseMovementGenerator.html#ad3100749f673d40913020f0d1df1e692":[6,0,865,13],
+"dd/dcb/classChaseMovementGenerator.html#ae525659d62dc022ffcc03566ad23a01f":[6,0,865,24],
 "dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6":[6,0,865,21],
 "dd/dcb/classChaseMovementGenerator.html#aec3c7041a4e18d8e6baf6bef984077c9":[6,0,865,12],
 "dd/dcb/classChaseMovementGenerator.html#af9d77d78ac8771e18fbaa463ce6ab29b":[6,0,865,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd4/classBattlegroundEY.html#a46ec7660e3436222f3f02974ea6cbb2b":[6,0,320,24],
 "dd/dd4/classBattlegroundEY.html#a4aecc5819c764e9d8877128b4f88c5ee":[6,0,320,26],
 "dd/dd4/classBattlegroundEY.html#a57ad26ba5c2bd943b6cef0b7e1c89047":[6,0,320,20],
-"dd/dd4/classBattlegroundEY.html#a5d5bac36a19271758235be840f78e3c3":[6,0,320,17],
-"dd/dd4/classBattlegroundEY.html#a5ebf4beb2d3209a1256cc422ee3a7bd9":[6,0,320,6],
-"dd/dd4/classBattlegroundEY.html#a6794c411d4e1d70073da9c4f2a243de5":[6,0,320,42],
-"dd/dd4/classBattlegroundEY.html#a684cd0542820ac28867093c717f139b1":[6,0,320,28],
-"dd/dd4/classBattlegroundEY.html#a6f7775340f04768d873d511630a5adee":[6,0,320,16],
-"dd/dd4/classBattlegroundEY.html#a78d122110a9ab5ec21e32d8108ce6ba6":[6,0,320,4],
-"dd/dd4/classBattlegroundEY.html#a7a7fbd6c04f47a47958c6f166eb397ac":[6,0,320,36],
-"dd/dd4/classBattlegroundEY.html#a7eefcebe1a25cc10a9d8ab48c1db88a6":[6,0,320,32],
-"dd/dd4/classBattlegroundEY.html#a87e043ebb95448ad4a17bf437424b479":[6,0,320,30]
+"dd/dd4/classBattlegroundEY.html#a5d5bac36a19271758235be840f78e3c3":[6,0,320,17]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX205 =
 {
+"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#ae48e23b61d9cafbdc9a7811361ebcd11":[6,0,703,0,11],
+"d7/dc7/structboss__skadi_1_1boss__skadiAI.html#af963eda18854869f3a73cb22f48b0230":[6,0,703,0,3],
+"d7/dc9/classBattlegroundWS.html":[6,0,341],
+"d7/dc9/classBattlegroundWS.html#a0452f4b81eaa16bf796f9b297c832a1f":[6,0,341,24],
 "d7/dc9/classBattlegroundWS.html#a095ca276e67908793b32c8694abf6038":[6,0,341,22],
 "d7/dc9/classBattlegroundWS.html#a2416817208a38cc321bdd9933ffe3a3c":[6,0,341,27],
 "d7/dc9/classBattlegroundWS.html#a263e0d59a04d0552466fde6d73836b75":[6,0,341,21],
@@ -245,9 +249,5 @@ var NAVTREEINDEX205 =
 "d7/dd6/classPlayerMenu.html#a950ed922c39040db8a1fe16588c7c65a":[6,0,2422,17],
 "d7/dd6/classPlayerMenu.html#aa55a3dbe879c3d0166ba7a8deda0d6e0":[6,0,2422,20],
 "d7/dd6/classPlayerMenu.html#ab85bfb274849b70e5e49d9dfdd9ea414":[6,0,2422,6],
-"d7/dd6/classPlayerMenu.html#acc519746fa45290cde3967dc5f604158":[6,0,2422,4],
-"d7/dd6/classPlayerMenu.html#afc3d8fc9f8fd2f20ea0068b101d90f91":[6,0,2422,12],
-"d7/dd6/classPlayerMenu.html#afe2b7121b08000226986315ab2da007c":[6,0,2422,5],
-"d7/dd7/classnpc__doctor.html":[6,0,1749],
-"d7/dd7/classnpc__doctor.html#a3da4d53b2402ad7338eeb6ea463a62f6":[6,0,1749,2]
+"d7/dd6/classPlayerMenu.html#acc519746fa45290cde3967dc5f604158":[6,0,2422,4]
 };

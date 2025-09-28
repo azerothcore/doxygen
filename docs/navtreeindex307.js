@@ -1,5 +1,11 @@
 var NAVTREEINDEX307 =
 {
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3073,0],
+"dc/d44/classspell__sha__flurry__proc.html":[6,0,3793],
+"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3793,2],
+"dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[6,0,3793,0],
+"dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[6,0,3793,1],
+"dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42],
 "dc/d44/cs__spectator_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf":[7,0,0,0,1,3,0,42,1],
 "dc/d44/structWardenHashRequest.html":[6,0,4256],
 "dc/d44/structWardenHashRequest.html#a8770c7de1b983d75214d1de39d0c02ab":[6,0,4256,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3c1bbf25e615ddda433b67364eaf1b97":[7,0,0,0,1,2,26,2,0,109],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3cab71d24fc7023c34d1738558726f2c":[7,0,0,0,1,2,26,2,0,124],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e5c57d9c3c8994b83e673bd8100733f":[7,0,0,0,1,2,26,2,0,89],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e621c6cd2dc3c6ecb49fecfd0ad0d57":[7,0,0,0,1,2,26,2,0,14],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3ed4099777e242071b7879a18f513160":[7,0,0,0,1,2,26,2,0,67],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d":[7,0,0,0,1,2,26,2,0,110],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4300310bf87aeb726746c717828ffff1":[7,0,0,0,1,2,26,2,0,146],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a43212ff5df35c5e033a1cc9064e8764e":[7,0,0,0,1,2,26,2,0,93],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7":[7,0,0,0,1,2,26,2,0,38],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a44b4d825a485fe88631a5f12525821f8":[7,0,0,0,1,2,26,2,0,95]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e621c6cd2dc3c6ecb49fecfd0ad0d57":[7,0,0,0,1,2,26,2,0,14]
 };

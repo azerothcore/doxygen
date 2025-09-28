@@ -1,5 +1,13 @@
 var NAVTREEINDEX405 =
 {
+"df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[6,0,1262,3],
+"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1262,8],
+"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,7],
+"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[6,0,1262,9],
+"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[6,0,1262,1],
+"df/df6/structHealthCheckEventData.html#aae2283a58be68424fbe01c37a29e1c5e":[6,0,1262,4],
+"df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389":[6,0,1262,2],
+"df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5":[6,0,1262,6],
 "df/df6/structHealthCheckEventData.html#aff327c455fbd912579725956c99c3a2d":[6,0,1262,5],
 "df/df7/boss__drakos_8cpp.html":[7,0,0,0,1,3,5,8,2,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,2,0,8],
@@ -108,6 +116,7 @@ var NAVTREEINDEX405 =
 "dir_355661791026b33f9301c754e4db8b50.html":[7,0,0,0,1,2],
 "dir_3906e801b468713a6f5b1f193c7ea10d.html":[7,0,0,0,1,1],
 "dir_3adc8ed69e0e90d16469d218b57e0fdd.html":[7,0,0,0,2,2,0,0,0],
+"dir_3bf2c71940346ae5daa53b7ea4ecf20c.html":[7,0,0,0,2,2,0,1],
 "dir_3c4f1d0049890b6fe47974d55db5d117.html":[7,0,0,0,1,3,5,11],
 "dir_3c5bad3427979d3a913ef3b527a38b4f.html":[7,0,0,0,1,3,5,2,0],
 "dir_40fdcae811a89cab23fa8a548fe8a1a0.html":[7,0,0,0,1,2,28],
@@ -183,7 +192,7 @@ var NAVTREEINDEX405 =
 "dir_816589248c496bc2270bc4e83dc7035c.html":[7,0,0,0,3,1],
 "dir_81f27dfa25f27c55a8e8044b1a11fbfb.html":[7,0,0,0,1,3,5],
 "dir_824c567499771b11a8d1959386aa27e6.html":[7,0,0,0,1,2,38],
-"dir_8303d6c15c2da3f083d7d0da7d55e7c8.html":[7,0,0,0,2,2,0,1],
+"dir_8303d6c15c2da3f083d7d0da7d55e7c8.html":[7,0,0,0,2,2,0,2],
 "dir_8439b06d1222f15d9722cd90fc7c13a2.html":[7,0,0,0,1,3,2,3],
 "dir_847bfdbe3e0168e0f84c6c83bf557aa9.html":[7,0,0,0,1,3,5,8,0],
 "dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX405 =
 "dir_c6a050c7db8efacb27792da37f17de7b.html":[7,0,0,0,1,2,16,9],
 "dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[7,0,0,0,1,2,22],
 "dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[7,0,0,0,1,3,5,10,1],
-"dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0],
-"dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
-"dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0],
-"dir_ca38c8f641e293b4dda7eec68c8e9454.html":[7,0,0,0,1,3,7,4,0],
-"dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html":[7,0,0,0,1,3,4,4],
-"dir_cba61ad2b7214e5ed281a3632d359d7b.html":[7,0,0,0,1,0,1,2],
-"dir_ccefc5ead7ac03e8c9da01366479cde4.html":[7,0,0,0,1,4,4],
-"dir_cd5f8786a04521b4a96eac0f95f95a85.html":[7,0,0,0,1,2,31,1]
+"dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0]
 };

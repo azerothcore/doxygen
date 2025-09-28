@@ -1,5 +1,11 @@
 var NAVTREEINDEX295 =
 {
+"db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,5,7,15,9],
+"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[7,0,0,0,1,3,5,7,15,11],
+"db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,7,15,7],
+"db/dd6/instance__naxxramas_8cpp.html#a4b033537221c1c9063ff056950ac6fdb":[7,0,0,0,1,3,5,7,15,14],
+"db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,7,15,8],
+"db/dd6/instance__naxxramas_8cpp.html#a78f519adea6cb5310c9cf098d905aa7b":[7,0,0,0,1,3,5,7,15,12],
 "db/dd6/instance__naxxramas_8cpp.html#a7adc6b584916ee1544c8ff38ab6327a9":[7,0,0,0,1,3,5,7,15,13],
 "db/dd6/instance__naxxramas_8cpp.html#aba1e1afda4423e51a1849a33da49a334":[7,0,0,0,1,3,5,7,15,6],
 "db/dd6/instance__naxxramas_8cpp.html#afc813e25da4423b11b3f71a4c3434b43":[7,0,0,0,1,3,5,7,15,10],
@@ -108,8 +114,8 @@ var NAVTREEINDEX295 =
 "db/dda/structAccountFlagText.html":[6,0,24],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,24,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,24,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,893],
@@ -165,10 +171,10 @@ var NAVTREEINDEX295 =
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,13],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,31,5,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,5,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,5,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,5,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,5,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,5,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,5,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,5,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4117],
@@ -243,11 +249,5 @@ var NAVTREEINDEX295 =
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1d515f4710cd72eeb0772c278c9a4c9":[7,0,0,0,1,3,2,4,9,9,4],
 "db/dde/boss__shade__of__aran_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afd47647585e59de3d6cbd16de23e1520":[7,0,0,0,1,3,2,4,9,9,3],
 "db/dde/boss__shade__of__aran_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,2,4,9,12],
-"db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,9,5],
-"db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99aa80ba99dcffa62244d61ae4cdfeae4f89":[7,0,0,0,1,3,2,4,9,5,0],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[5,0,31,5,27],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[6,0,11,5,27],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[5,0,31,5,27,2],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[6,0,11,5,27,2],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,31,5,27,1]
+"db/dde/boss__shade__of__aran_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,9,5]
 };

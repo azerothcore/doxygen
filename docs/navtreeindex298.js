@@ -1,5 +1,11 @@
 var NAVTREEINDEX298 =
 {
+"db/df4/structTransportRotationEntry.html":[6,0,4194],
+"db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[6,0,4194,0],
+"db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[6,0,4194,2],
+"db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[6,0,4194,4],
+"db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[6,0,4194,5],
+"db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4194,3],
 "db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4194,1],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html":[6,0,666,0],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a0455bacbe8356bdadd9c391115efcd68":[6,0,666,0,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494":[7,0,0,0,1,3,9,8,90],
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a238b960933fac18685127b2d414d7b33":[7,0,0,0,1,3,9,8,90,0],
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a7d39259fba27b817134463c4a5aedb8b":[7,0,0,0,1,3,9,8,90,1],
-"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a9b8920b845fb15c13029868f0f52c833":[7,0,0,0,1,3,9,8,90,2],
-"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494af6ae9500b310bdf0a0b9f8d1bd6f11e1":[7,0,0,0,1,3,9,8,90,3],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01a":[7,0,0,0,1,3,9,8,77],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa4bfde263c46e50734abaf4dcab557fa4":[7,0,0,0,1,3,9,8,77,0],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa871431934696948e50a7bf8b73b3746d":[7,0,0,0,1,3,9,8,77,2],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aaf04a87591d2c4b9d2b770a151625d300":[7,0,0,0,1,3,9,8,77,1],
-"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[7,0,0,0,1,3,9,8,103]
+"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a9b8920b845fb15c13029868f0f52c833":[7,0,0,0,1,3,9,8,90,2]
 };

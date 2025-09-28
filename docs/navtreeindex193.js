@@ -1,5 +1,9 @@
 var NAVTREEINDEX193 =
 {
+"d7/d81/classspell__challenge__veraku.html#a4ad521364c6156c0ecef818a23ce7aff":[6,0,2713,0],
+"d7/d81/classspell__challenge__veraku.html#adc648151e2c61a61a0dc5883d9fa4ae0":[6,0,2713,3],
+"d7/d83/WheatyExceptionReport_8h.html":[7,0,0,0,0,5,3],
+"d7/d83/WheatyExceptionReport_8h.html#a1613d539e1a6f550edee20a905f7fcce":[7,0,0,0,0,5,3,12],
 "d7/d83/WheatyExceptionReport_8h.html#a2c2a64833d9c531c4cf0873d15733a66":[7,0,0,0,0,5,3,7],
 "d7/d83/WheatyExceptionReport_8h.html#a2c952cc0fe3c670bb1d829b51e483755":[7,0,0,0,0,5,3,4],
 "d7/d83/WheatyExceptionReport_8h.html#a5562a6136a28726d82fc486fd3b81ab1":[7,0,0,0,0,5,3,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d8f/structWardenInitModuleRequest.html#ab3cd73d4fa3197a0e83d7e7739838bf0":[6,0,4257,5],
 "d7/d8f/structWardenInitModuleRequest.html#ab7789ab09b68feb2424a37380e506aa0":[6,0,4257,10],
 "d7/d8f/structWardenInitModuleRequest.html#abe4fda2fc5578fe76b2d3370c479191e":[6,0,4257,2],
-"d7/d8f/structWardenInitModuleRequest.html#ac28c9edfa97a37d58ff2981edf9fe3cb":[6,0,4257,0],
-"d7/d8f/structWardenInitModuleRequest.html#ac9ad8e642e309dec3d30fa0da0525b4b":[6,0,4257,13],
-"d7/d8f/structWardenInitModuleRequest.html#ad77d736ef34332d7b92ca0c0d92148cb":[6,0,4257,19],
-"d7/d8f/structWardenInitModuleRequest.html#ad7bc62293d89cc9ab7d3311e1dc32697":[6,0,4257,21],
-"d7/d8f/structWardenInitModuleRequest.html#ae59dcfbd160fbdbfd6a0f3743248bc06":[6,0,4257,17]
+"d7/d8f/structWardenInitModuleRequest.html#ac28c9edfa97a37d58ff2981edf9fe3cb":[6,0,4257,0]
 };

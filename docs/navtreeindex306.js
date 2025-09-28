@@ -1,5 +1,11 @@
 var NAVTREEINDEX306 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a6c88f2f38d3072f5192fc0b9bd2c6e04":[6,0,372,0,7],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a79138cf6c886c843544b948778f91145":[6,0,372,0,4],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a80aaeb0ce3a5fe101aedbdfc2489bafe":[6,0,372,0,10],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a9ec61ccf9984a9a68091ca9fba7582df":[6,0,372,0,5],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae2dd71a0edfc489645de130a8b731392":[6,0,372,0,6],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9":[6,0,372,0,2],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#aefcdf4c5b663671fb96395e280141bbb":[6,0,372,0,8],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#af11a0cddced13c34a012c8df964ab68a":[6,0,372,0,13],
 "dc/d34/structboss__murmur.html":[6,0,630],
@@ -243,11 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3073],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3073,3],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3073,2],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3073,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3073,0],
-"dc/d44/classspell__sha__flurry__proc.html":[6,0,3793],
-"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,3793,2],
-"dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[6,0,3793,0],
-"dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[6,0,3793,1],
-"dc/d44/cs__spectator_8cpp.html":[7,0,0,0,1,3,0,42]
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3073,1]
 };

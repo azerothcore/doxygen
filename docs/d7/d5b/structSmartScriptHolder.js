@@ -5,6 +5,7 @@ var structSmartScriptHolder =
     [ "GetEventType", "d7/d5b/structSmartScriptHolder.html#a6d8e62e95e20a0e0875436d1f9ecc43c", null ],
     [ "GetScriptType", "d7/d5b/structSmartScriptHolder.html#a492a8e1a83e5cde0b6a92fffe54d128b", null ],
     [ "GetTargetType", "d7/d5b/structSmartScriptHolder.html#aa251efa27f361d0b7afe043b998f8f3d", null ],
+    [ "IsAreatriggerScript", "d7/d5b/structSmartScriptHolder.html#a1c279c61714a21916d2b63ed57d2b900", null ],
     [ "operator<", "d7/d5b/structSmartScriptHolder.html#a436c9c5825e123acd282569d69736e0e", null ],
     [ "action", "d7/d5b/structSmartScriptHolder.html#ac8040e5a0d1c06b3b64600c878471932", null ],
     [ "active", "d7/d5b/structSmartScriptHolder.html#a1106d3dbfa2cabbd40053b2e0c98f15b", null ],

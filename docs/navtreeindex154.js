@@ -1,5 +1,8 @@
 var NAVTREEINDEX154 =
 {
+"d5/dbc/namespaceDoodad.html":[5,0,12],
+"d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,12,0],
+"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,12,1],
 "d5/dbd/classnpc__ulduar__hodir__priest.html":[6,0,2236],
 "d5/dbd/classnpc__ulduar__hodir__priest.html#a276046b974666c1462440a46a8096de7":[6,0,2236,2],
 "d5/dbd/classnpc__ulduar__hodir__priest.html#a30d7f1b68f9a1d10bc47288b81fc517c":[6,0,2236,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dc7/structSpellEntry.html#ac2d17132ffcbb75f8748f9c04930526d":[6,0,4088,60],
 "d5/dc7/structSpellEntry.html#ac553667d97b29d8ad7e682d4c55e4263":[6,0,4088,16],
 "d5/dc7/structSpellEntry.html#ac5b4ec3f69915daa9dbf90fa01ccd85e":[6,0,4088,28],
-"d5/dc7/structSpellEntry.html#acc079291b724a3685b3375532ca783e3":[6,0,4088,38],
-"d5/dc7/structSpellEntry.html#accbc0425316d6848dbdd9f6bed9ec306":[6,0,4088,51],
-"d5/dc7/structSpellEntry.html#ada025398095d1c43c73f510a1506e68a":[6,0,4088,45],
-"d5/dc7/structSpellEntry.html#adb7e392a667089b5bc2f83770f427fb1":[6,0,4088,5]
+"d5/dc7/structSpellEntry.html#acc079291b724a3685b3375532ca783e3":[6,0,4088,38]
 };
