@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af2c272de51aa15a41af9837f99256a62":[6,0,2306,0,8],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af5a9e355c2a5a927d38ea22fe96d89f0":[6,0,2306,0,6],
 "db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
 "db/d14/classLootTemplate.html":[6,0,1458],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[6,0,648,12],
 "db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,648,14],
 "db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,648,7],
-"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,648,2],
-"db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[6,0,648,9]
+"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,648,2]
 };

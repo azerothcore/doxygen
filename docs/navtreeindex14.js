@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1854a7588b6eda9675335de813ee1fff":[7,0,0,0,1,2,8,1,11,15,47],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1bc5005a81b63f4e82a93bfc74e32f8c":[7,0,0,0,1,2,8,1,11,15,57],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1cfcf5c2a217e89728fcd8e3bfc36354":[7,0,0,0,1,2,8,1,11,15,0],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a239d48dcf636b831b5312fc4f5258a38":[7,0,0,0,1,2,8,1,11,15,53],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#a587652095a5dfae229787a0c0ceacfbe":[6,0,4056,1],
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#aaed6604e39dd977f4e7c671052d718e8":[6,0,4056,3],
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#acd5551b09882d720608bdec6036dee9a":[6,0,4056,2],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html":[6,0,1620,0],
-"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a1edc249808e1ebdb88605c56e19c272a":[6,0,1620,0,4]
+"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html":[6,0,1620,0]
 };

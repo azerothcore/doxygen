@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a5416f116eb1a8707d546c99af157642d":[6,0,1981,0,7],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a5d6a8a6c7b0469de2151c9363d63c0ce":[6,0,1981,0,13],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7b5de4a7fd5fd49847a749a82d3dbb3e":[6,0,1981,0,1],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7cb5e81a09283c1ca915ec4419363af4":[6,0,1981,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "da/d53/boss__eregos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006":[7,0,0,0,1,3,5,8,2,1,7],
 "da/d53/boss__eregos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006abe4100a7dcd9b6910d878764951067b2":[7,0,0,0,1,3,5,8,2,1,7,0],
 "da/d53/boss__eregos_8cpp.html#aff9bd9e13f792fe7a1e6587d3240b006ac13e1c97bbef63e806ba7e778dff9dea":[7,0,0,0,1,3,5,8,2,1,7,1],
-"da/d53/classnpc__frozen__orb__stalker.html":[6,0,1802],
-"da/d53/classnpc__frozen__orb__stalker.html#a7f025c829106aa6668427f913d07a722":[6,0,1802,1]
+"da/d53/classnpc__frozen__orb__stalker.html":[6,0,1802]
 };

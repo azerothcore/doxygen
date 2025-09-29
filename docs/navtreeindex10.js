@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7d/classBattlegroundRV.html#a0cd6f84233993bde76be990abab75f23":[6,0,334,3],
 "d0/d7d/classBattlegroundRV.html#a17665265c5ab837b4e2a0cdc461a7d0a":[6,0,334,1],
 "d0/d7d/classBattlegroundRV.html#a450c1d8a9ad4712ab4042256ba7d9d08":[6,0,334,10],
 "d0/d7d/classBattlegroundRV.html#a4cb2e77a45fd02a5db85b6979d622afa":[6,0,334,6],
@@ -37,18 +38,18 @@ var NAVTREEINDEX10 =
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[6,0,0,22],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[6,0,0,22,5],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[5,0,1,34,5],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,34,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[6,0,0,22,1],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,34,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[6,0,0,22,3],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[5,0,1,34,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[6,0,0,22,6],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,1,34,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[6,0,0,22,0],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,1,34,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[5,0,1,34,4],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[6,0,0,22,4],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,1,34,2],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[6,0,0,22,2],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,1,34,2],
 "d0/d7e/structMySQLHandle.html":[6,0,1540],
 "d0/d7e/structRealm.html":[6,0,2487],
 "d0/d7e/structRealm.html#a0131d758f10cbae0c610c2c088299feb":[6,0,2487,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d80/structRuneInfo.html#ad5a4b3afd246f5a4c071e3c4f350f132":[6,0,2516,0],
 "d0/d80/vmap4__extractor_2dbcfile_8h.html":[7,0,0,0,3,4,4],
 "d0/d80/zone__hellfire__peninsula_8cpp.html":[7,0,0,0,1,3,7,10],
-"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dce":[7,0,0,0,1,3,7,10,14],
-"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360":[7,0,0,0,1,3,7,10,14,3]
+"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dce":[7,0,0,0,1,3,7,10,14]
 };

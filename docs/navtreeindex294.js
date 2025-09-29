@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#a46f2520f25c51c18ee7ff7d4eed4c7dc":[6,0,914,10],
 "db/dd5/classCreature.html#a47a8fb84d400cbaf887915dee7160a18":[6,0,914,182],
 "db/dd5/classCreature.html#a47ae3ef814f373bec4341815e128c11e":[6,0,914,225],
 "db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c":[6,0,914,177],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[6,0,1651,0,9],
 "db/dd6/classachievement__split__personality.html":[6,0,92],
 "db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[6,0,92,0],
-"db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[6,0,92,1],
-"db/dd6/instance__naxxramas_8cpp.html":[7,0,0,0,1,3,5,7,15]
+"db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[6,0,92,1]
 };

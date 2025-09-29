@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#acbfd05bbbae2f5b8a6fa2ee8bc440498":[6,0,735,0,3],
+"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#aef980c0fe0c50beca167ea0ef46ff0c7":[6,0,735,0,5],
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#afff251a2cc56b7ce686a5b58c196c16c":[6,0,735,0,7],
 "d2/d80/classSmartTrigger.html":[6,0,2578],
 "d2/d80/classSmartTrigger.html#a713066a301e22e7744b3f82a1ca134ed":[6,0,2578,1],
@@ -76,8 +78,8 @@ var NAVTREEINDEX68 =
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[7,0,0,0,1,2,38,0,80,0],
 "d2/d8a/classat__dragonspire__hall.html":[6,0,215],
@@ -113,12 +115,12 @@ var NAVTREEINDEX68 =
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a6ad9d2567d938aa12e97ce840bce3456":[6,0,2528,36],
 "d2/d8f/structScriptInfo.html#a6dac508f521769e2753ba931eace54be":[6,0,2528,12],
 "d2/d8f/structScriptInfo.html#a70eae2a67827f1ff13f736a402e0905f":[6,0,2528,32],
-"d2/d8f/structScriptInfo.html#a74eccf67e40bafa675f090644ff1d395":[6,0,2528,24],
-"d2/d8f/structScriptInfo.html#a7c105b35f29e81929fbde6100a11ed77":[6,0,2528,50],
-"d2/d8f/structScriptInfo.html#a7cdff6a71fd1e7dd5830f0fdd08c7462":[6,0,2528,6]
+"d2/d8f/structScriptInfo.html#a74eccf67e40bafa675f090644ff1d395":[6,0,2528,24]
 };

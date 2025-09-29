@@ -1,5 +1,7 @@
 var NAVTREEINDEX92 =
 {
+"d3/d16/structDoorData.html#ac7ce1fcc568ad1fe6bc8a20957357ed8":[6,0,986,0],
+"d3/d16/structnpc__dirt__mound.html":[6,0,1747],
 "d3/d16/structnpc__dirt__mound.html#a16656fb7ad8cda5916e8da0002cf0292":[6,0,1747,1],
 "d3/d16/structnpc__dirt__mound.html#a4faa65dd3260104202e4bdd34bc0b67d":[6,0,1747,6],
 "d3/d16/structnpc__dirt__mound.html#a5da17256d0cd4f6cb0e1256afe4b6539":[6,0,1747,4],
@@ -69,8 +71,8 @@ var NAVTREEINDEX92 =
 "d3/d19/structArenaTeamScore.html#ab99de3b9213f3ccab1791858df6aa3e8":[6,0,197,10],
 "d3/d19/structArenaTeamScore.html#ade081f31c498ee03a80f73fe70a56cc7":[6,0,197,1],
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[6,0,197,3],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,89,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,101,0],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,89,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[6,0,0,89,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,101,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,1,101,0,1],
@@ -88,18 +90,18 @@ var NAVTREEINDEX92 =
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[6,0,2062,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[6,0,2010,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[6,0,2010,0,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,38],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,1,50],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,38],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[6,0,0,38,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,50,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2880],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2880,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2880,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af28381b7b05a3c40ef99fa57ae0c3031":[7,0,0,0,1,3,5,12,5,4,4],
 "d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,5,3],
 "d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a09dfdbcdfd5f8e81189b931f5a2d203e":[7,0,0,0,1,3,5,12,5,3,0],
-"d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a294b53c608b8a18dffa4af2594501c31":[7,0,0,0,1,3,5,12,5,3,1],
-"d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a62d28a5ea6556cf9b908471cacfa81d9":[7,0,0,0,1,3,5,12,5,3,5],
-"d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a877c9dd1628e835c6c4ac8fd9d0616dd":[7,0,0,0,1,3,5,12,5,3,2]
+"d3/d21/boss__xevozz_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a294b53c608b8a18dffa4af2594501c31":[7,0,0,0,1,3,5,12,5,3,1]
 };

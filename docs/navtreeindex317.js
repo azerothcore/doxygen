@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,3907,3],
 "dc/dd8/classachievement__all__you__can__eat.html":[6,0,30],
 "dc/dd8/classachievement__all__you__can__eat.html#a0995024862a445ea1f0ff5c82475fc64":[6,0,30,0],
 "dc/dd8/classachievement__all__you__can__eat.html#a0baa07a7cbd239e4a5fcfd3e687aedf6":[6,0,30,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[7,0,0,0,1,3,3,1,40,4],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca17383917acea21c7a408d5e02de97873":[7,0,0,0,1,3,3,1,40,1],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded":[7,0,0,0,1,3,3,1,40,3],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[7,0,0,0,1,3,3,1,40,5],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf2538d75def0c158b7a28c33187f39d0":[7,0,0,0,1,3,3,1,40,6]
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[7,0,0,0,1,3,3,1,40,5]
 };

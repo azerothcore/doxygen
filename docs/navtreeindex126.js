@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d66/classspell__warr__bloodthirst.html#a051f68946f3c246b410bbaa2ac14e4b1":[6,0,4008,1],
 "d4/d66/classspell__warr__bloodthirst.html#a180ab99bc257b841e0bbbfc0ddb83814":[6,0,4008,4],
 "d4/d66/classspell__warr__bloodthirst.html#a371d3112e619453b7c92933a145bf4d2":[6,0,4008,0],
 "d4/d66/classspell__warr__bloodthirst.html#a41d69ed3f8372c4e157aefbec6ad525c":[6,0,4008,2],
@@ -164,20 +165,20 @@ var NAVTREEINDEX126 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[7,0,0,0,1,3,7,5,2,2,20,4],
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
+"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
-"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
+"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1204],
 "d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[6,0,1204,1],
 "d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[6,0,1204,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d69/structItemTemplate.html#a8700ef8d4daab0aa628ade36d828534b":[6,0,1398,7],
 "d4/d69/structItemTemplate.html#a8716ee002d7d88a38ccfc5f3a0c829d2":[6,0,1398,73],
 "d4/d69/structItemTemplate.html#a9cddb1335c30a77f6b04aba62874fd50":[6,0,1398,30],
-"d4/d69/structItemTemplate.html#a9df7d3bc7b80983da50428cc29a9415a":[6,0,1398,35],
-"d4/d69/structItemTemplate.html#a9f7db681c7f74725a86979ee6fc35477":[6,0,1398,18]
+"d4/d69/structItemTemplate.html#a9df7d3bc7b80983da50428cc29a9415a":[6,0,1398,35]
 };

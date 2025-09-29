@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d81/classspell__challenge__veraku.html#a25f275e84570f674071bfae03aeb0ddc":[6,0,2713,2],
 "d7/d81/classspell__challenge__veraku.html#a4ad521364c6156c0ecef818a23ce7aff":[6,0,2713,0],
 "d7/d81/classspell__challenge__veraku.html#adc648151e2c61a61a0dc5883d9fa4ae0":[6,0,2713,3],
 "d7/d83/WheatyExceptionReport_8h.html":[7,0,0,0,0,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d8f/structWardenInitModuleRequest.html#a941149a5bc9c7b46fd245b2a89d017d4":[6,0,4257,12],
 "d7/d8f/structWardenInitModuleRequest.html#ab3cd73d4fa3197a0e83d7e7739838bf0":[6,0,4257,5],
 "d7/d8f/structWardenInitModuleRequest.html#ab7789ab09b68feb2424a37380e506aa0":[6,0,4257,10],
-"d7/d8f/structWardenInitModuleRequest.html#abe4fda2fc5578fe76b2d3370c479191e":[6,0,4257,2],
-"d7/d8f/structWardenInitModuleRequest.html#ac28c9edfa97a37d58ff2981edf9fe3cb":[6,0,4257,0]
+"d7/d8f/structWardenInitModuleRequest.html#abe4fda2fc5578fe76b2d3370c479191e":[6,0,4257,2]
 };

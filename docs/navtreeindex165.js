@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#a93bed362ae78231b21327994a3e4cafd":[6,0,2264,1],
 "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#abda3dbcb251d7f1e614d089f630d0d1c":[6,0,2264,2],
 "d6/d1f/classspell__gen__proc__above__75.html":[6,0,3001],
 "d6/d1f/classspell__gen__proc__above__75.html#a9c0f4404275b274bd8af7be621eaa5b9":[6,0,3001,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03":[7,0,0,0,0,1,1,0,6,5],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5":[7,0,0,0,0,1,1,0,6,0],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56":[7,0,0,0,0,1,1,0,6,8],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670":[7,0,0,0,0,1,1,0,6,2],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98":[7,0,0,0,0,1,1,0,6,1]
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670":[7,0,0,0,0,1,1,0,6,2]
 };

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['quality_0',['quality',['../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f',1,'ItemTemplate::Quality'],['../df/d5e/structAuctionHouseSearchInfo.html#a1f234ab443ed5e14aafa02ec3ba5cfde',1,'AuctionHouseSearchInfo::quality']]],
+  ['quality_0',['quality',['../df/d5e/structAuctionHouseSearchInfo.html#a1f234ab443ed5e14aafa02ec3ba5cfde',1,'AuctionHouseSearchInfo::quality'],['../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f',1,'ItemTemplate::Quality']]],
   ['quality_5fmod_1',['quality_mod',['../d7/dd4/structDurabilityQualityEntry.html#a756e7b316cc365f15f24e5e4637303a6',1,'DurabilityQualityEntry']]],
   ['qualitytobuyvalueconfig_2',['qualityToBuyValueConfig',['../d8/dd8/ObjectMgr_8cpp.html#aa622a06edade2e3d18da67881d15918c',1,'ObjectMgr.cpp']]],
   ['qualitytorate_3',['qualityToRate',['../d8/d03/LootMgr_8cpp.html#aaa3aa72e5700e28104b67a1f347c64c7',1,'LootMgr.cpp']]],

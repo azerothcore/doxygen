@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"d5/da0/TicketMgr_8h.html#adb4cde78a930d8f04d2f7ba4167a27d3af30fa9cd9828f4254eac75bd01ca49f5":[7,0,0,0,1,2,43,1,6,3],
 "d5/da0/TicketMgr_8h.html#adb4cde78a930d8f04d2f7ba4167a27d3af4d4cdba2bdbb81d2ca25b1f4864e18f":[7,0,0,0,1,2,43,1,6,4],
 "d5/da0/TicketMgr_8h.html#aeedacb4a8f5a99f7c38b120ef230820d":[7,0,0,0,1,2,43,1,5],
 "d5/da0/TicketMgr_8h.html#aeedacb4a8f5a99f7c38b120ef230820da0acf204e62a9ac335f4d8e519401a4cd":[7,0,0,0,1,2,43,1,5,0],
@@ -179,12 +180,12 @@ var NAVTREEINDEX151 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a447c2cd258d784ca1d79c79412a1a426":[6,0,2029,0],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a694ee5f884f1bd404f0ef3d3030a212f":[6,0,2029,3],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,2029,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,9,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,9,3],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,9,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,9,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,9,3,2],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,9,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,9,3,1],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,9,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,9,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,9,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,9,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX151 =
 "d5/dac/classAllMapScript.html#a6bebd1e6e36b5714598439a6c6dfaad6":[6,0,151,4],
 "d5/dac/classAllMapScript.html#a6edbb719d998c57caba09eef7ad559e0":[6,0,151,5],
 "d5/dac/classAllMapScript.html#a990130b4cd594c1cd04368aea300a49e":[6,0,151,3],
-"d5/dac/classAllMapScript.html#adcfd501bee055317bff2a63ef28c3eab":[6,0,151,7],
-"d5/dac/classAllMapScript.html#aea5284ac6b227dd44b83dc944e220f00":[6,0,151,0]
+"d5/dac/classAllMapScript.html#adcfd501bee055317bff2a63ef28c3eab":[6,0,151,7]
 };

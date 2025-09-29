@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3286,4],
 "da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3286,0],
 "da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3286,1],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d":[7,0,0,0,1,0,0,0,1,0,9],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d":[7,0,0,0,1,0,0,0,1,0,7],
 "da/df4/AuthCodes_8h.html#a96896fc9dad2c304f681a24776f6726b":[7,0,0,0,1,0,0,0,1,5],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2":[7,0,0,0,1,0,0,0,1,1],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb":[7,0,0,0,1,0,0,0,1,1,0]
+"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2":[7,0,0,0,1,0,0,0,1,1]
 };

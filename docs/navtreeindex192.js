@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#a93cdd07d00b7dff8a7da5bf4846b26c7":[6,0,0,5,10,5],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ac7e333db415e6301a02052c53779d1d4":[6,0,0,5,10,9],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ac7e333db415e6301a02052c53779d1d4":[5,0,1,8,10,9],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ad4d3a9cebe46fc524e474b7854a20b03":[6,0,0,5,10,6],
@@ -151,10 +152,10 @@ var NAVTREEINDEX192 =
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,69,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,69,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,57,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,57,5],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,1,69,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[6,0,0,57,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,1,69,0],
 "d7/d78/classnpc__plucky.html":[6,0,2045],
 "d7/d78/classnpc__plucky.html#a3443f3e8c2b3fcc96955ab2e55e7fd61":[6,0,2045,3],
 "d7/d78/classnpc__plucky.html#a51e73f4e1f618aee5a000e31328efefc":[6,0,2045,2],
@@ -199,16 +200,16 @@ var NAVTREEINDEX192 =
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#aab87f0308fc4546718bcb5209f69764d":[6,0,740,0,12],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,37],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,31,2,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,31,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,31,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,31,2,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,31,2,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,2,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,31,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3651],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[6,0,3651,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[6,0,3651,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d81/classOPvPCapturePointEP__EWT.html#ad70a8cc485072cd9af892290584062d8":[6,0,2339,6],
 "d7/d81/classOPvPCapturePointEP__EWT.html#aed78ccf9ad517b4a94431e3355cba1dd":[6,0,2339,3],
 "d7/d81/classspell__challenge__veraku.html":[6,0,2713],
-"d7/d81/classspell__challenge__veraku.html#a0d995c6ae6d1da0014c053a62b37a7b7":[6,0,2713,1],
-"d7/d81/classspell__challenge__veraku.html#a25f275e84570f674071bfae03aeb0ddc":[6,0,2713,2]
+"d7/d81/classspell__challenge__veraku.html#a0d995c6ae6d1da0014c053a62b37a7b7":[6,0,2713,1]
 };

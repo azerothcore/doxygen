@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[6,0,3097,3],
 "db/df4/structTransportRotationEntry.html":[6,0,4194],
 "db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[6,0,4194,0],
 "db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[6,0,4194,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#acc85720915b61e7392c48e48cd8a30cbafda62c2955682a62bab81dea017754fb":[7,0,0,0,1,3,9,8,80,6],
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494":[7,0,0,0,1,3,9,8,90],
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a238b960933fac18685127b2d414d7b33":[7,0,0,0,1,3,9,8,90,0],
-"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a7d39259fba27b817134463c4a5aedb8b":[7,0,0,0,1,3,9,8,90,1],
-"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a9b8920b845fb15c13029868f0f52c833":[7,0,0,0,1,3,9,8,90,2]
+"db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a7d39259fba27b817134463c4a5aedb8b":[7,0,0,0,1,3,9,8,90,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d6e/structboss__malchezaar.html#a1b48e2c117ac4c60f11310e43d34264b":[6,0,609,3],
 "d6/d6e/structboss__malchezaar.html#a25ef9558fcccee430ef92703af903d91":[6,0,609,7],
 "d6/d6e/structboss__malchezaar.html#a2c825f7f116891601ef2c3809c7db15c":[6,0,609,8],
 "d6/d6e/structboss__malchezaar.html#a354e07cb1f9ae86d96d07cb80f911474":[6,0,609,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d79/classOPvPCapturePoint.html#a44bf910f32248541761a26e2e071f823":[6,0,2337,38],
 "d6/d79/classOPvPCapturePoint.html#a53df9b5e7d63e012afc8b124e3823a46":[6,0,2337,27],
 "d6/d79/classOPvPCapturePoint.html#a5f3c23c3ccfaeb376d6c4efe77ce72b6":[6,0,2337,30],
-"d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6":[6,0,2337,14],
-"d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3":[6,0,2337,11]
+"d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6":[6,0,2337,14]
 };

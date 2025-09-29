@@ -1,5 +1,7 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/DBCStores_8h.html#a03d13b25a0a4175a34c86cf02afb24ea":[7,0,0,0,1,2,14,1,117],
+"d2/df6/DBCStores_8h.html#a07db9078d2ad7d5e932e0f41c61bc71e":[7,0,0,0,1,2,14,1,127],
 "d2/df6/DBCStores_8h.html#a0ebd232e7ec9e0fdc1e296f3791c9d4b":[7,0,0,0,1,2,14,1,113],
 "d2/df6/DBCStores_8h.html#a10e6eae9259492fc3d02e034b6538583":[7,0,0,0,1,2,14,1,18],
 "d2/df6/DBCStores_8h.html#a155a342b9ae217cf65b09570727c8403":[7,0,0,0,1,2,14,1,32],
@@ -247,7 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfc/instance__serpent__shrine_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,7,2,0,6,13],
 "d2/dfc/instance__serpent__shrine_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,2,0,6,10],
 "d2/dfc/instance__serpent__shrine_8cpp.html#accf317168271361913093466ba7f8f0e":[7,0,0,0,1,3,7,2,0,6,9],
-"d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,2,0,6,14],
-"d2/dfc/structnpc__sanguine__spirit.html":[6,0,2098],
-"d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[6,0,2098,0]
+"d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,2,0,6,14]
 };

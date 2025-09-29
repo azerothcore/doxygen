@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[6,0,3711,1],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[6,0,3711,2],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[6,0,3711,3],
 "d4/d21/classspell__drain__mana.html":[6,0,2805],
@@ -115,8 +116,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2665],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2665,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2665,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d2b/OutdoorPvPHP_8h.html#ae6571d986fbbf7b469cf495033f46516":[7,0,0,0,1,3,6,6,13],
 "d4/d2b/RealmList_8h.html":[7,0,0,0,1,4,3,3],
 "d4/d2b/RealmList_8h.html#a639c880efde6e31a4bf6be6b5bcc3cd3":[7,0,0,0,1,4,3,3,2],
-"d4/d2b/boss__ionar_8cpp.html":[7,0,0,0,1,3,5,9,0,1],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,9,0,1,8]
+"d4/d2b/boss__ionar_8cpp.html":[7,0,0,0,1,3,5,9,0,1]
 };

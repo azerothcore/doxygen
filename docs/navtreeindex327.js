@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1936,0,0],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1936,0,4],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1830,0],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1830,0,1],
@@ -98,8 +99,8 @@ var NAVTREEINDEX327 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,6,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,6,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,6,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,6,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d55/classspell__shredder__delivery.html":[6,0,3823],
 "dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3823,1],
 "dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3823,2],
-"dd/d55/classspell__shredder__delivery.html#a95de3ae27cfd764380ab1648b49af38d":[6,0,3823,0],
-"dd/d55/classspell__shredder__delivery.html#af9d8f764a6a02737f8b559f067156df6":[6,0,3823,3]
+"dd/d55/classspell__shredder__delivery.html#a95de3ae27cfd764380ab1648b49af38d":[6,0,3823,0]
 };

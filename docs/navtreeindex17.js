@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#a405b5bd383932ac83f157c3c0a853077":[6,0,1230,62],
 "d0/db7/classGroup.html#a415b1db4878cb090e7b2211325a154f3":[6,0,1230,12],
 "d0/db7/classGroup.html#a435227103ee1f035784536db101d7f7f":[6,0,1230,74],
 "d0/db7/classGroup.html#a4650f0dafeca3acfd01a36d7fba3f218":[6,0,1230,129],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dba/SpellInfo_8h.html#ae160272dac6c37cf297c68db99d9c987a9ee4aa9cce6a4676247bd2193343fc8d":[7,0,0,0,1,2,41,6,12,0],
 "d0/dba/SpellInfo_8h.html#ae160272dac6c37cf297c68db99d9c987aba1fa2b8ede36a4ce60ee903eb8eeda5":[7,0,0,0,1,2,41,6,12,1],
 "d0/dba/SpellInfo_8h.html#ae160272dac6c37cf297c68db99d9c987ac30711b0604d8eb48cdd6f446c88c83a":[7,0,0,0,1,2,41,6,12,5],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html":[6,0,1790,0],
-"d0/dba/structnpc__franklin_1_1npc__franklinAI.html#a2dcd6d0467eada6bd0d244e275c07d22":[6,0,1790,0,4]
+"d0/dba/structnpc__franklin_1_1npc__franklinAI.html":[6,0,1790,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/de7/structboss__fathomlord__karathress.html":[6,0,462],
 "dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[6,0,462,6],
 "dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[6,0,462,0],
 "dc/de7/structboss__fathomlord__karathress.html#a1e03da049ad75a464de5dd15ac5e6d88":[6,0,462,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,4035,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,4035,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4035,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5]
 };

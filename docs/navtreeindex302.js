@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d0e/structRealmBuildInfo.html#a96abd69a458dfc4363c4e545fc7fabab":[6,0,2488,6],
 "dc/d0e/structRealmBuildInfo.html#ad59772e86371318fe975760e303fa7d9":[6,0,2488,3],
 "dc/d0f/structboss__teron__gorefiend.html":[6,0,724],
 "dc/d0f/structboss__teron__gorefiend.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1":[6,0,724,7],
@@ -203,12 +204,12 @@ var NAVTREEINDEX302 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3669,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3669,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3669,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2091],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d23/classVehicle.html":[6,0,4235],
 "dc/d23/classVehicle.html#a0201fddbb6ce34d9314f5105d847aa37":[6,0,4235,35],
 "dc/d23/classVehicle.html#a06211ca71a5a6a44f7430d7c6c430c51":[6,0,4235,23],
-"dc/d23/classVehicle.html#a09bd00382a9c2917e78e1527a65c3a0e":[6,0,4235,8],
-"dc/d23/classVehicle.html#a0a29ec0368b2f2680f1301cea1649b56":[6,0,4235,28]
+"dc/d23/classVehicle.html#a09bd00382a9c2917e78e1527a65c3a0e":[6,0,4235,8]
 };

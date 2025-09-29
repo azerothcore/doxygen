@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a18f22ca155646a6f40e0627f9d6dc337":[6,0,2240,0,3],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a86971339e6fcbffb3c019e4dc29972b3":[6,0,2240,0,2],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a9af455266dd2a843ac1a2c4e56d50e78":[6,0,2240,0,4],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#ac69d21f3820f2c01a80ff664c317d111":[6,0,2240,0,0],
@@ -13,8 +14,8 @@ var NAVTREEINDEX177 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1107,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,956,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,956,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,8],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,956,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,956,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,956,3,0],
@@ -25,8 +26,8 @@ var NAVTREEINDEX177 =
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,956,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,956,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,956,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,9],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,10],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,9],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[6,0,956,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[6,0,956,3,16],
 "d6/d97/structboss__magmadar_1_1boss__magmadarAI.html":[6,0,601,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/da0/structPacketCounter.html":[4,1,18],
 "d6/da0/structPacketCounter.html#ae0f3f2a90a24b48d239e3df3525f8fdc":[4,1,18,1],
 "d6/da0/structPacketCounter.html#af652ffc837bde625aa39e913ec2e2eec":[4,1,18,0],
-"d6/da2/ProcessPriority_8cpp.html":[7,0,0,0,0,14,4],
-"d6/da2/ProcessPriority_8cpp.html#ab39209127ac54019d5252a95bc5c7aaf":[7,0,0,0,0,14,4,0]
+"d6/da2/ProcessPriority_8cpp.html":[7,0,0,0,0,14,4]
 };

@@ -17,6 +17,7 @@ var Spell_8h =
     [ "Acore::WorldObjectSpellTrajTargetCheck", "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html", "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck" ],
     [ "ReflectEvent", "d3/d03/classReflectEvent.html", "d3/d03/classReflectEvent" ],
     [ "SPELL_CHANNEL_UPDATE_INTERVAL", "d0/d78/Spell_8h.html#ab78935c66af944ba148b76e50b175514", null ],
+    [ "TRAJECTORY_MISSILE_SIZE", "d0/d78/Spell_8h.html#aa07f41c20176d114eb5a020a709a04f5", null ],
     [ "pEffect", "d0/d78/Spell_8h.html#ac4912996788d32123000e7fc35065c29", null ],
     [ "SpellCastFlags", "d0/d78/Spell_8h.html#abed1822d323e37699c2c01a115a1d2f5", [
       [ "CAST_FLAG_NONE", "d0/d78/Spell_8h.html#abed1822d323e37699c2c01a115a1d2f5ae3bc67bf88cf15e2d611b9cc1137a3ca", null ],

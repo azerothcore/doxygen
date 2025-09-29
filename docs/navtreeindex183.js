@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/df4/classspell__dru__savage__roar.html#a191085bc21ce6f5ce1d5b43d6d70f069":[6,0,2844,2],
 "d6/df4/classspell__dru__savage__roar.html#a8ab8394c56201264ac4f2d859dd52092":[6,0,2844,0],
 "d6/df4/classspell__dru__savage__roar.html#acc6d27c8d869ec80ee5794405f6c238a":[6,0,2844,1],
 "d6/df4/classspell__festergut__pungent__blight.html":[6,0,2884],
@@ -69,16 +70,16 @@ var NAVTREEINDEX183 =
 "d6/df8/classVMAP_1_1ModelInstance.html#a1d29459f4f79da938ae969509246fcf1":[5,0,28,14,1],
 "d6/df8/classVMAP_1_1ModelInstance.html#a2e756866245d8131d5fc040489a563e3":[6,0,9,14,3],
 "d6/df8/classVMAP_1_1ModelInstance.html#a2e756866245d8131d5fc040489a563e3":[5,0,28,14,3],
-"d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[6,0,9,14,4],
 "d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[5,0,28,14,4],
-"d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[5,0,28,14,2],
+"d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[6,0,9,14,4],
 "d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[6,0,9,14,2],
+"d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[5,0,28,14,2],
 "d6/df8/classVMAP_1_1ModelInstance.html#a7a4efa321915b77801e9fc87924df572":[6,0,9,14,0],
 "d6/df8/classVMAP_1_1ModelInstance.html#a7a4efa321915b77801e9fc87924df572":[5,0,28,14,0],
-"d6/df8/classVMAP_1_1ModelInstance.html#a991622da72fe08d812f49f20f0a2df17":[6,0,9,14,5],
 "d6/df8/classVMAP_1_1ModelInstance.html#a991622da72fe08d812f49f20f0a2df17":[5,0,28,14,5],
-"d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[6,0,9,14,8],
+"d6/df8/classVMAP_1_1ModelInstance.html#a991622da72fe08d812f49f20f0a2df17":[6,0,9,14,5],
 "d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[5,0,28,14,8],
+"d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[6,0,9,14,8],
 "d6/df8/classVMAP_1_1ModelInstance.html#ac0b95c6fde838667e007781bde2f2917":[6,0,9,14,10],
 "d6/df8/classVMAP_1_1ModelInstance.html#ac0b95c6fde838667e007781bde2f2917":[5,0,28,14,10],
 "d6/df8/classVMAP_1_1ModelInstance.html#aca8a2a07911eba5ec362080e2790453c":[6,0,9,14,6],
@@ -169,10 +170,10 @@ var NAVTREEINDEX183 =
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[5,0,31,6,1,2],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[5,0,31,6,1,3],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[6,0,11,6,1,3],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[6,0,11,6,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[5,0,31,6,1,0],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[6,0,11,6,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[6,0,11,6,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,31,6,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[6,0,11,6,1,1],
 "d7/d01/classnpc__shenthul.html":[6,0,2121],
 "d7/d01/classnpc__shenthul.html#a1683f8c89add6270277c59951c74027e":[6,0,2121,2],
 "d7/d01/classnpc__shenthul.html#a3a63fec338dca74eb7d071dfcc9c95b5":[6,0,2121,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html":[6,0,584,0],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#a5b77186f7c0920142a64a03c508dcc3e":[6,0,584,0,1],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#a79095e25f1d9dac927f63cef67db60ec":[6,0,584,0,6],
-"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aaba17094bfe43c9ad63076f84d10a83a":[6,0,584,0,2],
-"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#acf9101c5b776820039fd80e5d6e0c138":[6,0,584,0,3]
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aaba17094bfe43c9ad63076f84d10a83a":[6,0,584,0,2]
 };

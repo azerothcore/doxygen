@@ -37,6 +37,7 @@ var structPosition =
     [ "GetRelativeAngle", "d0/df4/structPosition.html#a30ca605729fed759e017ade3abdd917c", null ],
     [ "GetSinCos", "d0/df4/structPosition.html#aa3d385dd4141ec2952812a32d0ac7a8e", null ],
     [ "HasInArc", "d0/df4/structPosition.html#a7e91a07c89b5645ddff795e0b5495632", null ],
+    [ "HasInLine", "d0/df4/structPosition.html#a591be9768b6f4f1451e54af79a78ebaf", null ],
     [ "HasInLine", "d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27", null ],
     [ "IsInDist", "d0/df4/structPosition.html#acb24a5428773e32560e8fcbb318c2f58", null ],
     [ "IsInDist", "d0/df4/structPosition.html#a820a67efab101953f719681b15defcf6", null ],

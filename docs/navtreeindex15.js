@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a1edc249808e1ebdb88605c56e19c272a":[6,0,1620,0,4],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a2b0a176dba865e90bdc22727b2860509":[6,0,1620,0,1],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a32e6fa30e4c56fdd055a728ba7227beb":[6,0,1620,0,0],
 "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html#a599679f93e4fc4b3b9aa00ea33dcb047":[6,0,1620,0,8],
@@ -41,10 +42,10 @@ var NAVTREEINDEX15 =
 "d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[5,0,20,12,1],
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[6,0,6,12,3],
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[5,0,20,12,3],
-"d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[5,0,20,12,2],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[6,0,6,12,2],
-"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,20,12,4],
+"d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[5,0,20,12,2],
 "d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,12,4],
+"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,20,12,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,12,0],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[5,0,20,12,0],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html":[6,0,2711],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffafb8c884e06af0cc1b9af89fc7ce57391":[7,0,0,0,1,3,2,1,3,12,4,6],
 "d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5":[7,0,0,0,1,3,2,1,3,12,1],
 "d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a03dc856f794c5d7cdf0589e56f6570e7":[7,0,0,0,1,3,2,1,3,12,1,2],
-"d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a229d2386881bf04dc811f0a76c69fe5f":[7,0,0,0,1,3,2,1,3,12,1,1],
-"d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a9c9e0ba8ffebd28ae3b0a640d668d288":[7,0,0,0,1,3,2,1,3,12,1,0]
+"d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a229d2386881bf04dc811f0a76c69fe5f":[7,0,0,0,1,3,2,1,3,12,1,1]
 };

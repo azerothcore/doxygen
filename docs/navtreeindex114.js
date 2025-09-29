@@ -1,5 +1,7 @@
 var NAVTREEINDEX114 =
 {
+"d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea4cb6555408eb8bba89333a9a8346b50c":[7,0,0,0,1,3,5,9,2,8,31,2],
+"d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea80c974947176eb39dfb9ce15390db438":[7,0,0,0,1,3,5,9,2,8,31,3],
 "d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea95f188f808371565ef5397079929bfa4":[7,0,0,0,1,3,5,9,2,8,31,4],
 "d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330eae17559ca06ad661346dd1ebad13d907f":[7,0,0,0,1,3,5,9,2,8,31,1],
 "d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330eae72b4b8d8a4056153794ae9fbdaf67aa":[7,0,0,0,1,3,5,9,2,8,31,0],
@@ -238,8 +240,8 @@ var NAVTREEINDEX114 =
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[6,0,0,5,11,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[6,0,0,5,11,0,3],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[5,0,1,8,11,0,3],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[6,0,0,5,11,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[5,0,1,8,11,0,0],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[6,0,0,5,11,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[6,0,0,5,11,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[5,0,1,8,11,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[5,0,1,8,11,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX114 =
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html":[6,0,756,0],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a15e4df870d3c5263ab534cd1d2bb8a75":[6,0,756,0,5],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a1a86b7b15e0a435284afab6ac724968c":[6,0,756,0,14],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a4364710f3634b6caeea3b739efe7dc56":[6,0,756,0,2],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a448dcc64099fff57b4c18841f8715dbe":[6,0,756,0,1],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a4eace0c62b5ad50f7c1a525485da08fb":[6,0,756,0,12]
+"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a4364710f3634b6caeea3b739efe7dc56":[6,0,756,0,2]
 };

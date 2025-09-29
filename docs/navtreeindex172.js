@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d60/classspell__dreamwalker__twisted__nightmares.html#a892b0ba0f6541b3557a0200be5028479":[6,0,2817,1],
 "d6/d60/classspell__dreamwalker__twisted__nightmares.html#a930b8a515b5d156c16925dc218cf8172":[6,0,2817,0],
 "d6/d61/classnpc__maghar__captive.html":[6,0,1949],
 "d6/d61/classnpc__maghar__captive.html#a59e177f33306ed0bb3de9f640d3685e4":[6,0,1949,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d6e/structRepRewardRate.html#a914118aa28b3736ff4e6c5b61d738834":[6,0,2499,3],
 "d6/d6e/structRepRewardRate.html#aa9c27c19179b8a7bdfdc11d906cd1c06":[6,0,2499,0],
 "d6/d6e/structboss__malchezaar.html":[6,0,609],
-"d6/d6e/structboss__malchezaar.html#a0d91be1d9ad3a0876bec8b694edd44be":[6,0,609,6],
-"d6/d6e/structboss__malchezaar.html#a1b48e2c117ac4c60f11310e43d34264b":[6,0,609,3]
+"d6/d6e/structboss__malchezaar.html#a0d91be1d9ad3a0876bec8b694edd44be":[6,0,609,6]
 };

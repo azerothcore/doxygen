@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d03/classspell__gen__model__visible.html":[6,0,2985],
 "db/d03/classspell__gen__model__visible.html#a1527c59b43a26db344e5a4d2900ea9b0":[6,0,2985,2],
 "db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b":[6,0,2985,5],
 "db/d03/classspell__gen__model__visible.html#ab0de0c0459d3414f69a0dde7669b6f79":[6,0,2985,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2":[6,0,2306,0,5],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a4e17e9642ec11712652f41495974b716":[6,0,2306,0,3],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a60212e1504bcb6f7db05ba5ed09df71f":[6,0,2306,0,7],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a95e8039b174f6db267197e04b6bd2dd2":[6,0,2306,0,0],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af2c272de51aa15a41af9837f99256a62":[6,0,2306,0,8]
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a95e8039b174f6db267197e04b6bd2dd2":[6,0,2306,0,0]
 };

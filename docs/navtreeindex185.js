@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a":[7,0,0,0,3,4,17,7,6],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885":[7,0,0,0,3,4,17,7,7],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6":[7,0,0,0,3,4,17,7,1],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2":[7,0,0,0,3,4,17,7,4],
@@ -100,8 +101,8 @@ var NAVTREEINDEX185 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2281,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d22/classachievement__flame__leviathan__towers.html#ad6e9dee3f05afaca0a355b714bf75ea6":[6,0,51,1],
 "d7/d22/classinstance__blackwing__lair.html":[6,0,1294],
 "d7/d22/classinstance__blackwing__lair.html#a70aff4e1bb406f232d0b4961037ed0a1":[6,0,1294,2],
-"d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1294,1],
-"d7/d23/structboss__magus__telestra.html":[6,0,604]
+"d7/d22/classinstance__blackwing__lair.html#afb9a7ce1ac297b023aa8364cc1383336":[6,0,1294,1]
 };

@@ -22,7 +22,6 @@ var structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMa
     [ "skadiAchievement", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb9c936614467ac83b8be6b4c17c23ca", null ],
     [ "SkadiHits", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a76708007ad4b1f5db5b57e793b41d378", null ],
     [ "SkadiInRange", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d", null ],
-    [ "SkadiRuthless", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae0e93a49ecb54e69b9b4b9e0beb4cb96", null ],
     [ "SkadiRuthlessDoor", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1", null ],
     [ "StatisGenerator", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa55142f2dd41d204c5a60aaa45075911", null ],
     [ "svalaAchievement", "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae9d975b95e389fb8035d337bd1da70c4", null ],

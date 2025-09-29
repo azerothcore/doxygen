@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f":[6,0,2330,77],
 "d5/dfb/classObjectMgr.html#adc8f9973a27eb455d445363bd9985b27":[6,0,2330,374],
 "d5/dfb/classObjectMgr.html#add40232eb1fe043342bdab8c02961bc7":[6,0,2330,346],
 "d5/dfb/classObjectMgr.html#ade11768f3e9835b1d822c337b985bf10":[6,0,2330,370],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22a9e67f50b16dd4326b743d41f90172527":[7,0,0,0,1,3,4,9,12,5,15],
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22aa0cbbb8b4c9ed7a9bf155498c27eea00":[7,0,0,0,1,3,4,9,12,5,12],
 "d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22aac8ccee3d50ccec7cf1a43384c4ba247":[7,0,0,0,1,3,4,9,12,5,17],
-"d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22ab05e5a10a289ad31157f046508292475":[7,0,0,0,1,3,4,9,12,5,7],
-"d6/d07/Tuples_8h.html":[7,0,0,0,0,15,36]
+"d6/d06/temple__of__ahnqiraj_8h.html#afb6eb4f28419b652027fad41104a6d22ab05e5a10a289ad31157f046508292475":[7,0,0,0,1,3,4,9,12,5,7]
 };

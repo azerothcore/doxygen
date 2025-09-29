@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a6dda0d3a1ea7d31fb7ac9112df394a4b":[7,0,0,0,1,3,5,2,1,1,57,0],
 "d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a730e349ed06685cbf43821e78b1a080e":[7,0,0,0,1,3,5,2,1,1,57,3],
 "d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69ac41ae6f9b6ddd05a5ad1e57fdc358cb6":[7,0,0,0,1,3,5,2,1,1,57,5],
 "d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97f":[7,0,0,0,1,3,5,2,1,1,50],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d81/structTransportAnimationEntry.html":[6,0,4191],
 "d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[6,0,4191,3],
 "d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[6,0,4191,4],
-"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4191,1],
-"d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4191,2]
+"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4191,1]
 };

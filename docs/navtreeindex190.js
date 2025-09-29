@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d7/d48/structboss__vexallus.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc":[6,0,767,5],
 "d7/d48/structboss__vexallus.html#a9bc7808889da754bae9c935418975f90":[6,0,767,3],
 "d7/d48/structboss__vexallus.html#aa9d37e8132c715552e2ce0102ac9a59b":[6,0,767,2],
 "d7/d49/SpellScriptLoader_8cpp.html":[7,0,0,0,1,2,38,0,78],
@@ -70,12 +71,12 @@ var NAVTREEINDEX190 =
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,48,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1053,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[6,0,1053,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[6,0,1053,0,1],
@@ -102,12 +103,12 @@ var NAVTREEINDEX190 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[6,0,3908,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,31,6,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,11,6,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[6,0,11,6,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,31,6,5,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[6,0,11,6,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,31,6,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[6,0,11,6,5,1],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,31,6,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[6,0,11,6,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,31,6,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,31,6,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[6,0,11,6,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,11,6,5,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d5b/structSmartScriptHolder.html#a36d0ada3752320c9577bd92673fd0ced":[6,0,2576,10],
 "d7/d5b/structSmartScriptHolder.html#a3a6b9cda898c1e3250b9555ce820f263":[6,0,2576,13],
 "d7/d5b/structSmartScriptHolder.html#a3da9a6de4e29a275cae5d858a11a4f2c":[6,0,2576,11],
-"d7/d5b/structSmartScriptHolder.html#a436c9c5825e123acd282569d69736e0e":[6,0,2576,6],
-"d7/d5b/structSmartScriptHolder.html#a492a8e1a83e5cde0b6a92fffe54d128b":[6,0,2576,3]
+"d7/d5b/structSmartScriptHolder.html#a436c9c5825e123acd282569d69736e0e":[6,0,2576,6]
 };

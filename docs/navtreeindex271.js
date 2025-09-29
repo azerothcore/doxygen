@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5abcd81fb0568be0c93c96e665f3230412":[7,0,0,0,1,3,5,2,1,7,7,1],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5acece87b17cabb8d31782232dd4c53656":[7,0,0,0,1,3,5,2,1,7,7,2],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad3a32c06bca452d4ec3da408f3fb5eb8":[7,0,0,0,1,3,5,2,1,7,7,12],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5af8f7a209e9b9e0909610ffbcb8fe94ca":[7,0,0,0,1,3,5,2,1,7,7,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "da/de9/classspell__dru__treant__scaling.html#af1d4558f6132d3c2abc71ec1dabee2e8":[6,0,2854,0],
 "da/de9/classspell__item__noggenfogger__elixir.html":[6,0,3286],
 "da/de9/classspell__item__noggenfogger__elixir.html#a0385a22f908ac62ab987fe9f84cad330":[6,0,3286,2],
-"da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3286,3],
-"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3286,4]
+"da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3286,3]
 };

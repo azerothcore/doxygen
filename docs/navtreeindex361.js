@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a":[7,0,0,0,1,2,41,9,59,7],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aaf9170997f464e7fb1c87b84bb38651a":[7,0,0,0,1,2,41,9,59,14],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ab47347c9f4b3ba1255744ba7c0a1e007":[7,0,0,0,1,2,41,9,59,13],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73":[7,0,0,0,1,2,41,9,59,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5211d82bf6c3bb5d6be665cced01018b":[6,0,2180,0,21],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[6,0,2180,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[6,0,2180,0,20],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[6,0,2180,0,15],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[6,0,2180,0,23]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[6,0,2180,0,15]
 };

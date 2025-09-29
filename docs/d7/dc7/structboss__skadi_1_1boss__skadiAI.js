@@ -4,7 +4,6 @@ var structboss__skadi_1_1boss__skadiAI =
     [ "DoAction", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
     [ "GetGrauf", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a48806cf61d295e6ab86a1e018b0fd30a", null ],
     [ "JustDied", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a2853d557da48decede7baa4845f5573f", null ],
     [ "KilledUnit", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#aab72405691cab78ac0f224cf637f7570", null ],
     [ "Reset", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
     [ "UpdateAI", "d7/dc7/structboss__skadi_1_1boss__skadiAI.html#a05690f147e2c2a584179c19b0a84a1b0", null ],

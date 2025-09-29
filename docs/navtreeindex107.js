@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d3/db4/structboss__julianne.html#a8ff7675405322c2d55bd01cec340f6b8":[6,0,560,1],
+"d3/db4/structboss__julianne.html#a985c9c1f77b2769461bf42ddaab302d3":[6,0,560,2],
 "d3/db4/structboss__julianne.html#aae4be9b1035626ecc9ad2f3e5b918cbe":[6,0,560,12],
 "d3/db4/structboss__julianne.html#ab0939f8fe0fc34cafbe2dab4ef449895":[6,0,560,9],
 "d3/db4/structboss__julianne.html#abdfaf6fa147c6b35bed28bb2e3ed3c14":[6,0,560,4],
@@ -64,12 +66,12 @@ var NAVTREEINDEX107 =
 "d3/db9/structThreatCalcHelper.html#a86dca4bc12138bef3dd53d4b3356f5d2":[6,0,4164,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,6,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,31,6,12],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,31,6,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[6,0,11,6,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,6,12,0],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,31,6,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[6,0,11,6,12,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,31,6,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,6,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[6,0,11,6,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,31,6,12,2],
 "d3/dbb/Battleground_8cpp.html":[7,0,0,0,1,2,8,9],
 "d3/dbb/classquest__commandscript.html":[6,0,2463],
 "d3/dbb/classquest__commandscript.html#a044c30fdaedd07060284bd37fd2e226c":[6,0,2463,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d3/dc4/classCorpse.html#af1d47fcea8651554eb239bb7d9816491":[6,0,910,6],
 "d3/dc5/classFlashFreezeCheck.html":[6,0,1051],
 "d3/dc5/classFlashFreezeCheck.html#a47d07a686a7c74dc8914a98762b16fe3":[6,0,1051,0],
-"d3/dc5/classFlashFreezeCheck.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f":[6,0,1051,1],
-"d3/dc6/classnpc__death__ravager.html":[6,0,1736],
-"d3/dc6/classnpc__death__ravager.html#a284d0b8ccf902d3f03ddfc6750fe0f1c":[6,0,1736,2]
+"d3/dc5/classFlashFreezeCheck.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f":[6,0,1051,1]
 };

@@ -1,6 +1,7 @@
 var NAVTREEINDEX139 =
 {
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[6,0,0,5,0,19,4],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[5,0,1,8,0,19,4],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#ad941d54b994fbfe0f572348d18a790be":[5,0,1,8,0,19,2],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#ad941d54b994fbfe0f572348d18a790be":[6,0,0,5,0,19,2],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#af9bece7be346ed85c5b45cc07c7b176a":[6,0,0,5,0,19,6],
@@ -102,16 +103,16 @@ var NAVTREEINDEX139 =
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[6,0,0,24],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[6,0,0,24,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[5,0,1,36,4],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[6,0,0,24,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[5,0,1,36,0],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[6,0,0,24,2],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[6,0,0,24,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[5,0,1,36,2],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[6,0,0,24,2],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[6,0,0,24,3],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[5,0,1,36,3],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[6,0,0,24,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,1,36,1],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,1,36,5],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[6,0,0,24,5],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,1,36,5],
 "d4/df1/classat__icc__spire__frostwyrm.html":[6,0,224],
 "d4/df1/classat__icc__spire__frostwyrm.html#a67e320fb8ada7cb2c87f5944395fa174":[6,0,224,1],
 "d4/df1/classat__icc__spire__frostwyrm.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8":[6,0,224,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "d4/df7/classConfigMgr.html#ae8b4473b24540d12468cb994b89b78b8":[6,0,894,14],
 "d4/df7/classConfigMgr.html#af5206e9fdadc2123af20aba4534d2988":[6,0,894,0],
 "d4/df7/structAchievementCriteriaDataSet.html":[6,0,111],
-"d4/df7/structAchievementCriteriaDataSet.html#a0abc37729d2f3c400bb7cfde212f51c0":[6,0,111,5],
-"d4/df7/structAchievementCriteriaDataSet.html#a297f02665679b19961998fb529d064e4":[6,0,111,2]
+"d4/df7/structAchievementCriteriaDataSet.html#a0abc37729d2f3c400bb7cfde212f51c0":[6,0,111,5]
 };

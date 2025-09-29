@@ -29,13 +29,14 @@ var searchData=
   ['timediff_5fnext_5fwp_26',['TIMEDIFF_NEXT_WP',['../da/d1e/WaypointMovementGenerator_8h.html#afcff81f45a877feac68bf5bcae913560',1,'WaypointMovementGenerator.h']]],
   ['total_5fnumber_5fof_5fcells_5fper_5fmap_27',['TOTAL_NUMBER_OF_CELLS_PER_MAP',['../d7/d34/GridDefines_8h.html#a39cc058a35736437f70e4b7c5a8876a3',1,'GridDefines.h']]],
   ['trade_5fdistance_28',['TRADE_DISTANCE',['../df/d14/ObjectDefines_8h.html#ac0046f058b6628976d44bbe6847d4a36',1,'ObjectDefines.h']]],
-  ['trialofthechampionscriptname_29',['TrialOfTheChampionScriptName',['../d3/d81/trial__of__the__champion_8h.html#aa068aef9d884a9a392d579e59a774cea',1,'trial_of_the_champion.h']]],
-  ['trialofthecrusaderscriptname_30',['TrialOfTheCrusaderScriptName',['../da/de8/trial__of__the__crusader_8h.html#ae640f61e906842f9877d3e8040bc13e3',1,'trial_of_the_crusader.h']]],
-  ['tryvalidateas_31',['TryValidateAs',['../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af',1,'Hyperlinks.cpp']]],
-  ['typelist_5f1_32',['TYPELIST_1',['../dc/d8f/TypeList_8h.html#a6a7a6aa3dece450c8d239713e2952df7',1,'TypeList.h']]],
-  ['typelist_5f2_33',['TYPELIST_2',['../dc/d8f/TypeList_8h.html#a311cb99af993804c6737ae46c5cbfaff',1,'TypeList.h']]],
-  ['typelist_5f3_34',['TYPELIST_3',['../dc/d8f/TypeList_8h.html#a0309f68a543c5c0994f9edc0e56dc59f',1,'TypeList.h']]],
-  ['typelist_5f4_35',['TYPELIST_4',['../dc/d8f/TypeList_8h.html#a7a156c571ab21a16b0495e1c882a07fa',1,'TypeList.h']]],
-  ['typelist_5f5_36',['TYPELIST_5',['../dc/d8f/TypeList_8h.html#aad5d9b3c82c8503c85c625acd41c0a2f',1,'TypeList.h']]],
-  ['typelist_5f6_37',['TYPELIST_6',['../dc/d8f/TypeList_8h.html#ac6f3277dcaade98ceeaa5c0e1c454816',1,'TypeList.h']]]
+  ['trajectory_5fmissile_5fsize_29',['TRAJECTORY_MISSILE_SIZE',['../d0/d78/Spell_8h.html#aa07f41c20176d114eb5a020a709a04f5',1,'Spell.h']]],
+  ['trialofthechampionscriptname_30',['TrialOfTheChampionScriptName',['../d3/d81/trial__of__the__champion_8h.html#aa068aef9d884a9a392d579e59a774cea',1,'trial_of_the_champion.h']]],
+  ['trialofthecrusaderscriptname_31',['TrialOfTheCrusaderScriptName',['../da/de8/trial__of__the__crusader_8h.html#ae640f61e906842f9877d3e8040bc13e3',1,'trial_of_the_crusader.h']]],
+  ['tryvalidateas_32',['TryValidateAs',['../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af',1,'Hyperlinks.cpp']]],
+  ['typelist_5f1_33',['TYPELIST_1',['../dc/d8f/TypeList_8h.html#a6a7a6aa3dece450c8d239713e2952df7',1,'TypeList.h']]],
+  ['typelist_5f2_34',['TYPELIST_2',['../dc/d8f/TypeList_8h.html#a311cb99af993804c6737ae46c5cbfaff',1,'TypeList.h']]],
+  ['typelist_5f3_35',['TYPELIST_3',['../dc/d8f/TypeList_8h.html#a0309f68a543c5c0994f9edc0e56dc59f',1,'TypeList.h']]],
+  ['typelist_5f4_36',['TYPELIST_4',['../dc/d8f/TypeList_8h.html#a7a156c571ab21a16b0495e1c882a07fa',1,'TypeList.h']]],
+  ['typelist_5f5_37',['TYPELIST_5',['../dc/d8f/TypeList_8h.html#aad5d9b3c82c8503c85c625acd41c0a2f',1,'TypeList.h']]],
+  ['typelist_5f6_38',['TYPELIST_6',['../dc/d8f/TypeList_8h.html#ac6f3277dcaade98ceeaa5c0e1c454816',1,'TypeList.h']]]
 ];

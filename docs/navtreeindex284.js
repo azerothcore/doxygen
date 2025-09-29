@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a2245c14e379c83bdd47165e829de2e41":[6,0,2525,1,2],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a274c6d61203c24b3c680055244e1f590":[6,0,2525,1,0],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a3c18c61fcd44c32f9e0009479db85399":[6,0,2525,1,4],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a98e1490705f74627cf9e5483857f3f25":[6,0,2525,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eac3f38e17dbbbaf5371ecf2b18bf139de":[7,0,0,0,1,2,16,4,6,45,35],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eacbc4a20230474824f70d59ccce21017e":[7,0,0,0,1,2,16,4,6,45,20],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eacda61a3bab6bfd01e78f3b5eda262d54":[7,0,0,0,1,2,16,4,6,45,28],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eadcb92394fa95cc73b08f59634aa688e8":[7,0,0,0,1,2,16,4,6,45,23],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eadf6c18b595541cf041825a098de0e17b":[7,0,0,0,1,2,16,4,6,45,37]
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5eadcb92394fa95cc73b08f59634aa688e8":[7,0,0,0,1,2,16,4,6,45,23]
 };

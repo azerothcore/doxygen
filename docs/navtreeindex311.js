@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a694c235ee9a23b30ac0aa7b15ee8db3c":[6,0,1697,0,14],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a98e6aaa14d458228e97ced45e553c2bf":[6,0,1697,0,12],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a":[6,0,1697,0,7],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aabca8fe8385fe88d6ed6ad7ae6da0261":[6,0,1697,0,10],
@@ -116,16 +117,16 @@ var NAVTREEINDEX311 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,2002,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,2002,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3287],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#adb9ad99bc784a76da238ed2ee694d4f2":[6,0,428,0,5],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aec2878e51a12749914e3a30c0ddea900":[6,0,428,0,2],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#afc16e2da1f40ec0c0257e3bedc04c8a7":[6,0,428,0,1],
-"dc/d8a/classnpc__sergeant__bly.html":[6,0,2111],
-"dc/d8a/classnpc__sergeant__bly.html#ad54ff5aabbc30de759c8f31b7ef9f46e":[6,0,2111,2]
+"dc/d8a/classnpc__sergeant__bly.html":[6,0,2111]
 };

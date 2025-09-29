@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e621c6cd2dc3c6ecb49fecfd0ad0d57":[7,0,0,0,1,2,26,2,0,14],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3ed4099777e242071b7879a18f513160":[7,0,0,0,1,2,26,2,0,67],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d":[7,0,0,0,1,2,26,2,0,110],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4300310bf87aeb726746c717828ffff1":[7,0,0,0,1,2,26,2,0,146],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d56/structadvisor__baseAI.html#a24d22ccec834770bc5bcf44119fb0045":[6,0,141,5],
 "dc/d56/structadvisor__baseAI.html#a3c68b7ee961af2d9dabb15c7e054d45b":[6,0,141,0],
 "dc/d56/structadvisor__baseAI.html#a4fc41f3985244b6baf25b3417f67054e":[6,0,141,6],
-"dc/d56/structadvisor__baseAI.html#a678d09ec3b3d5a4d922a0fc117192349":[6,0,141,1],
-"dc/d56/structadvisor__baseAI.html#a8da09edce761f1f1e1b7eb96ec7a529b":[6,0,141,2]
+"dc/d56/structadvisor__baseAI.html#a678d09ec3b3d5a4d922a0fc117192349":[6,0,141,1]
 };
