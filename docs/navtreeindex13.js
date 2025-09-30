@@ -1,7 +1,5 @@
 var NAVTREEINDEX13 =
 {
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a815e5c67b282e2840676b5453d94d5dc":[6,0,1693,0,1],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a8177ed5bc5fd54b98f2f36c9389b8099":[6,0,1693,0,9],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a84beab3be0d7e5d5d3674a57b1928f09":[6,0,1693,0,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a907626beb601f789a725d88d45689eb2":[6,0,1693,0,7],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[6,0,1693,0,10],
@@ -249,5 +247,7 @@ var NAVTREEINDEX13 =
 "d0/d91/BattlegroundIC_8h.html#acb8d5bb63252b2fec3aa418f3a1c8165":[7,0,0,0,1,2,8,1,11,23],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417":[7,0,0,0,1,2,8,1,11,15],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a085f7e4529241da8c792eeba297bad7c":[7,0,0,0,1,2,8,1,11,15,87],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a0b977e67e2136741605bcc6625af6e20":[7,0,0,0,1,2,8,1,11,15,51]
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a0b977e67e2136741605bcc6625af6e20":[7,0,0,0,1,2,8,1,11,15,51],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1854a7588b6eda9675335de813ee1fff":[7,0,0,0,1,2,8,1,11,15,47],
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1bc5005a81b63f4e82a93bfc74e32f8c":[7,0,0,0,1,2,8,1,11,15,57]
 };

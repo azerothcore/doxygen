@@ -1,9 +1,5 @@
 var NAVTREEINDEX231 =
 {
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a11dd073b70e5126f580ec5122dce7bbd":[6,0,1793,0,5],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a4c9418b5474eb572a76168d4a460159a":[6,0,1793,0,1],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a5df6604055c5f3936a95f8d0ca5be8c1":[6,0,1793,0,7],
-"d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6273b024ebde2fb36ed79eb122f7ac68":[6,0,1793,0,4],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a6308aadc8ebf41cf045b04ac58e2244b":[6,0,1793,0,6],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a65d304edd3b00b4a45c58bf36b926900":[6,0,1793,0,3],
 "d9/d15/structnpc__freya__ward_1_1npc__freya__wardAI.html#a82932e9f2d570fa6d8394bfd3954c41e":[6,0,1793,0,8],
@@ -208,10 +204,10 @@ var NAVTREEINDEX231 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3255,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3255,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3255,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,11,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,11,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,11,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,11,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,11,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,11,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX231 =
 "d9/d2c/structnpc__ranger__lilatha.html#abd13a89b41a289edefb9bc21588f8d29":[6,0,2076,0],
 "d9/d2c/structnpc__ranger__lilatha.html#acc38d4feacb5e7fa5ce9658b10447c4d":[6,0,2076,2],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html":[6,0,2103,0],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a2f920922f8c6f1a878d0e4978e081257":[6,0,2103,0,5]
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a2f920922f8c6f1a878d0e4978e081257":[6,0,2103,0,5],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a83c5e32659d38a513790322e46dcc283":[6,0,2103,0,0],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a8ee22a276535a3a9c2f12a62e984d55b":[6,0,2103,0,6],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#aa470197f0949a413c421bda8c7c09279":[6,0,2103,0,1],
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2103,0,3]
 };

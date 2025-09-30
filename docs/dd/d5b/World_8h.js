@@ -62,7 +62,6 @@ var World_8h =
       [ "SHUTDOWN_MASK_IDLE", "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2aecfb61fe30dad8b80bb93881cafe105d", null ]
     ] ],
     [ "WorldTimers", "df/d17/group__world.html#ga4dcd824b4592ac27595e16471efe0520", [
-      [ "WUPDATE_WEATHERS", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520abb4b6bdb4b5ae3799d4f0ca456733cce", null ],
       [ "WUPDATE_UPTIME", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c", null ],
       [ "WUPDATE_EVENTS", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520ad21d0e0cae7555877c5805ce446e2628", null ],
       [ "WUPDATE_CLEANDB", "df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a26e7cf66fbcba5c52d1716b77262981f", null ],

@@ -1,10 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da1/npc__professions_8cpp.html#a36b190e3dc74100785db7b7ca7534248":[7,0,0,0,1,3,10,10,35],
-"d3/da1/npc__professions_8cpp.html#a38f587b2c5dcadfddae57974268b9300":[7,0,0,0,1,3,10,10,49],
-"d3/da1/npc__professions_8cpp.html#a39a199659c37274b232a1b4fee89d17d":[7,0,0,0,1,3,10,10,21],
-"d3/da1/npc__professions_8cpp.html#a3c0bbd141b0ae46377b5d769349c3ceb":[7,0,0,0,1,3,10,10,8],
-"d3/da1/npc__professions_8cpp.html#a3c6725cfafc91c379f0cb5c4e524a1bd":[7,0,0,0,1,3,10,10,7],
 "d3/da1/npc__professions_8cpp.html#a428ec531a2dc4e479b5c73e0d0694091":[7,0,0,0,1,3,10,10,57],
 "d3/da1/npc__professions_8cpp.html#a436d9d8427d95cc5d84bcc3e674ac5cb":[7,0,0,0,1,3,10,10,37],
 "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019d":[7,0,0,0,1,3,10,10,53],
@@ -183,8 +178,8 @@ var NAVTREEINDEX105 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,2994,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,2994,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,2994,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
 "d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,196],
@@ -249,5 +244,10 @@ var NAVTREEINDEX105 =
 "d3/da9/classWorldState.html#a60d5e7cd4ef857d7085fdb0b16107d12":[6,0,4319,61],
 "d3/da9/classWorldState.html#a61245833b5b6b4ad89c3dd17c3691ef1":[6,0,4319,48],
 "d3/da9/classWorldState.html#a623770af3df5cf1f60ad79f4d58dc463":[6,0,4319,76],
-"d3/da9/classWorldState.html#a63958dd407c96479e4d46dfbfc6d5371":[6,0,4319,27]
+"d3/da9/classWorldState.html#a63958dd407c96479e4d46dfbfc6d5371":[6,0,4319,27],
+"d3/da9/classWorldState.html#a6408344019152591c457b63601aac4dd":[6,0,4319,73],
+"d3/da9/classWorldState.html#a66228290309a4c9dc76994e6f0ab1e2c":[6,0,4319,0],
+"d3/da9/classWorldState.html#a66fb9980d02e5d6d11b0a1113aba2d39":[6,0,4319,74],
+"d3/da9/classWorldState.html#a67c189d45ab5f01e820ff001a7427b77":[6,0,4319,55],
+"d3/da9/classWorldState.html#a6981d17a891b8460a64ced84ff5470f4":[6,0,4319,60]
 };

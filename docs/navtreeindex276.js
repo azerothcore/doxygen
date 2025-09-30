@@ -1,9 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[6,0,648,9],
-"db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[6,0,648,0],
-"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[6,0,648,1],
-"db/d1d/structboss__ouro.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf":[6,0,648,8],
 "db/d1d/structboss__ouro.html#a9f9b4a53cf5c7e9d4e98d2d57e500172":[6,0,648,6],
 "db/d1d/structboss__ouro.html#aa39a371112f585da952331c200b8b5aa":[6,0,648,10],
 "db/d1d/structboss__ouro.html#aa571cee2fee8a79917f4c63b94a9a1b6":[6,0,648,3],
@@ -76,10 +72,10 @@ var NAVTREEINDEX276 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1888,0],
@@ -99,10 +95,10 @@ var NAVTREEINDEX276 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,5,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,5,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,5,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,5,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,5,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,5,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4111,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4111,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4111,0,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX276 =
 "db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[6,0,539,3],
 "db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[6,0,539,2],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[6,0,750,0],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[6,0,750,0,9]
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[6,0,750,0,9],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[6,0,750,0,1],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[6,0,750,0,4],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[6,0,750,0,8],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[6,0,750,0,3]
 };

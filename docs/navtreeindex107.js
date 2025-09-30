@@ -1,10 +1,5 @@
 var NAVTREEINDEX107 =
 {
-"d3/db4/structboss__julianne.html#a8ff7675405322c2d55bd01cec340f6b8":[6,0,560,1],
-"d3/db4/structboss__julianne.html#a985c9c1f77b2769461bf42ddaab302d3":[6,0,560,2],
-"d3/db4/structboss__julianne.html#aae4be9b1035626ecc9ad2f3e5b918cbe":[6,0,560,12],
-"d3/db4/structboss__julianne.html#ab0939f8fe0fc34cafbe2dab4ef449895":[6,0,560,9],
-"d3/db4/structboss__julianne.html#abdfaf6fa147c6b35bed28bb2e3ed3c14":[6,0,560,4],
 "d3/db4/structboss__julianne.html#acdc787ba6908e716517683a8536ecf3e":[6,0,560,13],
 "d3/db4/structboss__julianne.html#ad1e1d5bb27fed12a203c8b10f6ea92a6":[6,0,560,11],
 "d3/db4/structboss__julianne.html#af2499ba9d9c25555c82d8d7ae95c7249":[6,0,560,3],
@@ -64,8 +59,8 @@ var NAVTREEINDEX107 =
 "d3/db9/structThreatCalcHelper.html":[6,0,4164],
 "d3/db9/structThreatCalcHelper.html#a0f3da2af1c68a535ac2396dd600ee00b":[6,0,4164,0],
 "d3/db9/structThreatCalcHelper.html#a86dca4bc12138bef3dd53d4b3356f5d2":[6,0,4164,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,6,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,31,6,12],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,6,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[6,0,11,6,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,31,6,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[6,0,11,6,12,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX107 =
 "d3/dc4/classCorpse.html#af1d47fcea8651554eb239bb7d9816491":[6,0,910,6],
 "d3/dc5/classFlashFreezeCheck.html":[6,0,1051],
 "d3/dc5/classFlashFreezeCheck.html#a47d07a686a7c74dc8914a98762b16fe3":[6,0,1051,0],
-"d3/dc5/classFlashFreezeCheck.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f":[6,0,1051,1]
+"d3/dc5/classFlashFreezeCheck.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f":[6,0,1051,1],
+"d3/dc6/classnpc__death__ravager.html":[6,0,1736],
+"d3/dc6/classnpc__death__ravager.html#a284d0b8ccf902d3f03ddfc6750fe0f1c":[6,0,1736,2],
+"d3/dc6/classnpc__death__ravager.html#a6aa04a28ce5aa0e467e638c8ffe11657":[6,0,1736,1],
+"d3/dc8/classat__zulgurub__bloodfire__pit__speech.html":[6,0,251],
+"d3/dc8/classat__zulgurub__bloodfire__pit__speech.html#a880058a08d7da3b8d3062a8bc17367a4":[6,0,251,0]
 };

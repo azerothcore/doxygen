@@ -1,9 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[7,0,0,0,1,2,41,0,0,6,30],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1015c47e51e396ce6bac8260ce380831":[7,0,0,0,1,2,41,0,0,6,71],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[7,0,0,0,1,2,41,0,0,6,3],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1156dae2e392ceb801c50846a22f915b":[7,0,0,0,1,2,41,0,0,6,206],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1191ab2524c100b0d91f8d63cee8e781":[7,0,0,0,1,2,41,0,0,6,316],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a13926e531402d89ac4f4009779edc31d":[7,0,0,0,1,2,41,0,0,6,209],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1537c4fe37687e1b92db24f08e3d4d1f":[7,0,0,0,1,2,41,0,0,6,237],
@@ -249,5 +245,9 @@ var NAVTREEINDEX252 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad5b262bd48fec8f20a44e632d5a7be00":[7,0,0,0,1,2,41,0,0,6,173],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad68c289ae30ca012553dd9103bd44321":[7,0,0,0,1,2,41,0,0,6,219],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad75b18045110664869a6a4a86c4db16e":[7,0,0,0,1,2,41,0,0,6,292],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad7da1f73acd2e46f5209ca86b4ffe921":[7,0,0,0,1,2,41,0,0,6,115]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad7da1f73acd2e46f5209ca86b4ffe921":[7,0,0,0,1,2,41,0,0,6,115],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad8066667cdbdd052cb67e0f5b37364c3":[7,0,0,0,1,2,41,0,0,6,309],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad86b6755a6a877f94073e7d3767e055b":[7,0,0,0,1,2,41,0,0,6,13],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ada12d140bdacb9205248cfde2265cf33":[7,0,0,0,1,2,41,0,0,6,270],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ada233ff4871367fa9ed7efbc440b24e2":[7,0,0,0,1,2,41,0,0,6,160]
 };

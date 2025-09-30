@@ -1,10 +1,5 @@
 var NAVTREEINDEX145 =
 {
-"d5/d4d/classIWorld.html#ac01563d75973481b056130b07a6d44ac":[6,0,1400,33],
-"d5/d4d/classIWorld.html#ac8d30bd35a45f8c18d985bc608e23dc4":[6,0,1400,32],
-"d5/d4d/classIWorld.html#acad3c54cc13c94b2baee31fc9ee8392f":[6,0,1400,39],
-"d5/d4d/classIWorld.html#ace81c5c964fe9ed968a95ac40580c55b":[6,0,1400,28],
-"d5/d4d/classIWorld.html#ad80333f046a524cb05c70aabcc6707cc":[6,0,1400,2],
 "d5/d4d/classIWorld.html#adefab958ec85d9023994a22adef88c9e":[6,0,1400,16],
 "d5/d4d/classIWorld.html#ae6473c2c9bcf5d8d0a8bc9143bb38ff9":[6,0,1400,9],
 "d5/d4d/classIWorld.html#ae926e9bb899d2797a2b3bfe6954c776a":[6,0,1400,10],
@@ -103,14 +98,14 @@ var NAVTREEINDEX145 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3889,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,5,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,5,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,5,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,5,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,5,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,5,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,5,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,5,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,31,5,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,5,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3372],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3372,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3372,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX145 =
 "d5/d61/classGridTerrainLoader.html#a8b3be4eb509393af8a2a927bc15947c9":[6,0,1228,4],
 "d5/d61/classGridTerrainLoader.html#a980cb9f6537642db8ae0825d14b6bb68":[6,0,1228,1],
 "d5/d61/classGridTerrainLoader.html#a9f5094ad19163dc8ac3f3c4bada48ee9":[6,0,1228,0],
-"d5/d61/classGridTerrainLoader.html#ac220ce61dd0c3e514dcff2465c61af0f":[6,0,1228,3]
+"d5/d61/classGridTerrainLoader.html#ac220ce61dd0c3e514dcff2465c61af0f":[6,0,1228,3],
+"d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f":[6,0,1228,6],
+"d5/d61/classspell__taldaram__summon__flame__ball.html":[6,0,3865],
+"d5/d61/classspell__taldaram__summon__flame__ball.html#a17301c4ef9623ec04ec3c15dfd4e316f":[6,0,3865,2],
+"d5/d61/classspell__taldaram__summon__flame__ball.html#a4b1e392acea30a9259e65a75667704c5":[6,0,3865,0],
+"d5/d61/classspell__taldaram__summon__flame__ball.html#a77632d11a172e5552c0c49de830a1639":[6,0,3865,3]
 };

@@ -1,17 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#a93bed362ae78231b21327994a3e4cafd":[6,0,2264,1],
-"d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#abda3dbcb251d7f1e614d089f630d0d1c":[6,0,2264,2],
-"d6/d1f/classspell__gen__proc__above__75.html":[6,0,3001],
-"d6/d1f/classspell__gen__proc__above__75.html#a9c0f4404275b274bd8af7be621eaa5b9":[6,0,3001,0],
-"d6/d1f/classspell__gen__proc__above__75.html#abc2bcce83810661ab462f56594066df3":[6,0,3001,1],
-"d6/d1f/classspell__gen__proc__above__75.html#add6731563bd9a26d8f286bd29ffc8709":[6,0,3001,2],
-"d6/d1f/classspell__halion__marks__aura.html":[6,0,3070],
-"d6/d1f/classspell__halion__marks__aura.html#a01e8677e4f55dbb55cca1bf16dec48b2":[6,0,3070,6],
-"d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[6,0,3070,2],
-"d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[6,0,3070,0],
-"d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[6,0,3070,1],
-"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3070,4],
 "d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3070,3],
 "d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[6,0,3070,5],
 "d6/d21/ArenaTeamScript_8h.html":[7,0,0,0,1,2,38,0,26],
@@ -249,5 +237,17 @@ var NAVTREEINDEX165 =
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03":[7,0,0,0,0,1,1,0,6,5],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5":[7,0,0,0,0,1,1,0,6,0],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56":[7,0,0,0,0,1,1,0,6,8],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670":[7,0,0,0,0,1,1,0,6,2]
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670":[7,0,0,0,0,1,1,0,6,2],
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98":[7,0,0,0,0,1,1,0,6,1],
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75":[7,0,0,0,0,1,1,0,6,3],
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1":[7,0,0,0,0,1,1,0,6,4],
+"d6/d2a/MapDefines_8h.html#aea71555fdd0af33ccc21c76c67574421":[7,0,0,0,0,1,1,0,4],
+"d6/d2a/MapDefines_8h.html#af7a9a5e840ab3ad1c160e832500016d1":[7,0,0,0,0,1,1,0,3],
+"d6/d2a/classinstance__wailing__caverns.html":[6,0,1357],
+"d6/d2a/classinstance__wailing__caverns.html#a0f1020e86443d6902b3c4d8726f3e610":[6,0,1357,2],
+"d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[6,0,1357,1],
+"d6/d2a/classspell__sha__item__lightning__shield.html":[6,0,3796],
+"d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[6,0,3796,2],
+"d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[6,0,3796,3],
+"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3796,0]
 };

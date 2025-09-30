@@ -1,9 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[6,0,2180,0,23],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[6,0,2180,0,5],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[6,0,2180,0,17],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[6,0,2180,0,19],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[6,0,2180,0,14],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[6,0,2180,0,13],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[6,0,2180,0,9],
@@ -249,5 +245,9 @@ var NAVTREEINDEX362 =
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3366,1],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#ad3c0a2c270d1b8c31761674f89500b8a":[6,0,3366,2],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#aec1ff41f0051a6c6dfbd11ea7741b1af":[6,0,3366,0],
-"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[6,0,2220,0]
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[6,0,2220,0],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[6,0,2220,0,1],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a819e987eeb8eb8d580a5ad22001a641d":[6,0,2220,0,3],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ab41fdff3612b29e7d0d94fb6aaa8c085":[6,0,2220,0,5],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ad8fc713bb9673e74bfd11bc653c71587":[6,0,2220,0,2]
 };

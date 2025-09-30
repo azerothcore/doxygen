@@ -1,7 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a4f08c3579b6b5bd91356252b89fcb36e":[6,0,1308,0,16],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a577cdfa8f49c2ec0f3fc8fd836345f8d":[6,0,1308,0,6],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a5b658dd42d84a74033c12217ca67ea11":[6,0,1308,0,7],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a62feee8bc5d28c3361a62a77188c4dd0":[6,0,1308,0,4],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a7ae1fdc168ece52389aabde3857d7ba3":[6,0,1308,0,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX9 =
 "d0/d7c/MotionMaster_8cpp.html":[7,0,0,0,1,2,31,6],
 "d0/d7c/MotionMaster_8cpp.html#a05fec3371a9aee5a6448115a645a505d":[7,0,0,0,1,2,31,6,1],
 "d0/d7c/MotionMaster_8cpp.html#ab03e344726a074f17f8c63d10b67fcc1":[7,0,0,0,1,2,31,6,0],
-"d0/d7d/classBattlegroundRV.html":[6,0,334]
+"d0/d7d/classBattlegroundRV.html":[6,0,334],
+"d0/d7d/classBattlegroundRV.html#a0cd6f84233993bde76be990abab75f23":[6,0,334,3],
+"d0/d7d/classBattlegroundRV.html#a17665265c5ab837b4e2a0cdc461a7d0a":[6,0,334,1]
 };

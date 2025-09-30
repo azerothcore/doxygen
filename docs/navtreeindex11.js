@@ -1,7 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360":[7,0,0,0,1,3,7,10,14,3],
-"d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44":[7,0,0,0,1,3,7,10,14,5],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19":[7,0,0,0,1,3,7,10,14,0],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,10,14,7],
 "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677":[7,0,0,0,1,3,7,10,14,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX11 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a2c2e75973a89fa010060f5eada26a8c4":[7,0,0,0,1,3,5,9,2,11,43,51],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a31122c76af7fc3d1e1b65954ab4f1645":[7,0,0,0,1,3,5,9,2,11,43,52],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a3203ac4db50ae83dc66797913653df6b":[7,0,0,0,1,3,5,9,2,11,43,9],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a34c99ceca40c117ebce9f0fe4167334c":[7,0,0,0,1,3,5,9,2,11,43,68]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a34c99ceca40c117ebce9f0fe4167334c":[7,0,0,0,1,3,5,9,2,11,43,68],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a35b4285ebb83211c0d7a72ff7afa57fe":[7,0,0,0,1,3,5,9,2,11,43,62],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a37642b2740500cc4528425d04c5ecd2a":[7,0,0,0,1,3,5,9,2,11,43,26]
 };

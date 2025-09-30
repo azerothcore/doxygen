@@ -10,13 +10,6 @@ var boss__slad__ran_8cpp =
       [ "MAX_VIPER", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],
       [ "MAX_CONSTRICTOR", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc7075615c62a740f793b19068462944", null ],
       [ "MAX_SUMMONS", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
-      [ "EVENT_POISON_NOVA", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a721c4a2d69044b980cc898a992560c94", null ],
-      [ "EVENT_POWERFULL_BITE", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a65fcf2ab22d98143ae5e8bf65ab57c77", null ],
-      [ "EVENT_VENOM_BOLT", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abb679151001ca548b37ab6314bffbe7c", null ],
-      [ "EVENT_CHECK_HEALTH1", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab36d747a1c8dd4aa89b59ad5e09afc2d", null ],
-      [ "EVENT_CHECK_HEALTH2", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abf2720c6d7bcd1ff0e641f33cf445e8a", null ],
-      [ "EVENT_SUMMON1", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4739603e8d437ba1c0c1df820551794", null ],
-      [ "EVENT_SUMMON2", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a981bb86538dddef87f8a74bbc627a974", null ],
       [ "EVENT_KILL_TALK", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ]
     ] ],
     [ "Spells", "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298c", [

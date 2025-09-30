@@ -1,9 +1,5 @@
 var NAVTREEINDEX247 =
 {
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3ade85de3cd9b6f69e9275d80818c425":[7,0,0,0,1,3,5,9,2,16,5,11],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3eded988193ac9d874f3ceb16304781e":[7,0,0,0,1,3,5,9,2,16,5,39],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a403efeda2a088975e41ad8006db7f3f8":[7,0,0,0,1,3,5,9,2,16,5,41],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1":[7,0,0,0,1,3,5,9,2,16,5,17],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a41c6772c0f791c3dc8f565a8ad2dbaa9":[7,0,0,0,1,3,5,9,2,16,5,49],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a4a1e7b4d2effcc48595b249b1f8c59ce":[7,0,0,0,1,3,5,9,2,16,5,15],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a4bff20a7726ee8ba1bcb4fa00ca0d46e":[7,0,0,0,1,3,5,9,2,16,5,23],
@@ -201,8 +197,8 @@ var NAVTREEINDEX247 =
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,5,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,31,5,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,5,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,31,5,3,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,5,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,31,5,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,5,3,0],
 "da/d02/WorldConfig_8h.html":[7,0,0,0,1,2,48,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX247 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1882d898cdee5466850d93688756463a":[7,0,0,0,1,2,48,4,1,52],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a189c7eeb5803ae3af9078cfdfc785db3":[7,0,0,0,1,2,48,4,1,99],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1924f6a2aaaa9f9c317d5916501bc976":[7,0,0,0,1,2,48,4,1,157],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a194a14ed484e29106062db089b8f5456":[7,0,0,0,1,2,48,4,1,78]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a194a14ed484e29106062db089b8f5456":[7,0,0,0,1,2,48,4,1,78],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a198425b95cf4d6d365b9c9029ced406d":[7,0,0,0,1,2,48,4,1,380],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4":[7,0,0,0,1,2,48,4,1,309],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a41aadd204a62caf9ff4b724e068255":[7,0,0,0,1,2,48,4,1,423],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a7ef7b65c799cb9632affaf8ef4be36":[7,0,0,0,1,2,48,4,1,279]
 };

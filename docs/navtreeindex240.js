@@ -1,9 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470af9c5d99f0073884dc3742bdcc6f76e86":[7,0,0,0,1,3,5,9,2,1,25,30],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a576c16bc9ed4c6daad0b111bd899f56a":[7,0,0,0,1,3,5,9,2,1,16],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a":[7,0,0,0,1,3,5,9,2,1,14],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a71c363a6bd8f78db60380665c82bb7b3":[7,0,0,0,1,3,5,9,2,1,20],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[7,0,0,0,1,3,5,9,2,1,29],
 "d9/d88/boss__assembly__of__iron_8cpp.html#ac6dcbc3204d6356024f7247b7825a8e4":[7,0,0,0,1,3,5,9,2,1,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#ae1aeb1c74dfca85ee834ecc647206e9d":[7,0,0,0,1,3,5,9,2,1,18],
@@ -249,5 +245,9 @@ var NAVTREEINDEX240 =
 "d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#ad146b84be01ec07a5fee8184f0cc2da9":[6,0,849,0,0],
 "d9/d97/classSplineRawInitializer.html":[6,0,4122],
 "d9/d97/classSplineRawInitializer.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26":[6,0,4122,0],
-"d9/d97/classSplineRawInitializer.html#a3cea33c8d33407f7d2d8ea96a85a58c5":[6,0,4122,2]
+"d9/d97/classSplineRawInitializer.html#a3cea33c8d33407f7d2d8ea96a85a58c5":[6,0,4122,2],
+"d9/d97/classSplineRawInitializer.html#a878f8d8b2bc4b7c0e5c92d3055a437af":[6,0,4122,1],
+"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html":[6,0,3946],
+"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a0b6916dd3f6172e59edf477f203c85b1":[6,0,3946,1],
+"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a945ec4037120992e8a2986e7fd2e2c96":[6,0,3946,2]
 };

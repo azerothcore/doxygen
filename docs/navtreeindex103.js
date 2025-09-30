@@ -1,10 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[7,0,0,0,1,3,5,7,6,5,0],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10":[7,0,0,0,1,3,5,7,6,5,4],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8":[7,0,0,0,1,3,5,7,6,5,3],
-"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,6,2],
-"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a38bf9abef479846a5b7962e7c6661947":[7,0,0,0,1,3,5,7,6,2,5],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a433c241f2b80d08bfe9c5822231e2d8b":[7,0,0,0,1,3,5,7,6,2,4],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89121271f4b28a781a1419fb040082ff":[7,0,0,0,1,3,5,7,6,2,0],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a965a1c4a685b66429571b3764be702b0":[7,0,0,0,1,3,5,7,6,2,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX103 =
 "d3/d9d/classBoundaryIntersectBoundary.html#a41e100c17db99990981293399660824c":[6,0,814,4],
 "d3/d9d/classBoundaryIntersectBoundary.html#ab0239437fa92e39d144bf3856eb347c7":[6,0,814,3],
 "d3/d9d/classBoundaryIntersectBoundary.html#ad8bbf96e48d18ef87ac31dea8bcb023b":[6,0,814,1],
-"d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[6,0,814,0]
+"d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[6,0,814,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html":[6,0,3257],
+"d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[6,0,3257,1],
+"d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[6,0,3257,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3257,2],
+"d3/d9d/structChrRacesEntry.html":[6,0,872]
 };

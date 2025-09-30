@@ -836,10 +836,9 @@ var searchData=
   ['wupdate_5fmailboxqueue_833',['WUPDATE_MAILBOXQUEUE',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a24504584cc49b4459dc084dd0af67e69',1,'World.h']]],
   ['wupdate_5fpingdb_834',['WUPDATE_PINGDB',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520a4561c29a80e9042cfd1fb7c5ccde1c4a',1,'World.h']]],
   ['wupdate_5fuptime_835',['WUPDATE_UPTIME',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c',1,'World.h']]],
-  ['wupdate_5fweathers_836',['WUPDATE_WEATHERS',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520abb4b6bdb4b5ae3799d4f0ca456733cce',1,'World.h']]],
-  ['wupdate_5fwho_5flist_837',['WUPDATE_WHO_LIST',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa227ebddbdbccda039ebb8e732dcdb56',1,'World.h']]],
-  ['wyvern_5falliance_838',['WYVERN_ALLIANCE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e',1,'OutdoorPvPNA.h']]],
-  ['wyvern_5fhorde_839',['WYVERN_HORDE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578',1,'OutdoorPvPNA.h']]],
-  ['wyvern_5fneu_5falliance_840',['WYVERN_NEU_ALLIANCE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200',1,'OutdoorPvPNA.h']]],
-  ['wyvern_5fneu_5fhorde_841',['WYVERN_NEU_HORDE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5',1,'OutdoorPvPNA.h']]]
+  ['wupdate_5fwho_5flist_836',['WUPDATE_WHO_LIST',['../df/d17/group__world.html#gga4dcd824b4592ac27595e16471efe0520aa227ebddbdbccda039ebb8e732dcdb56',1,'World.h']]],
+  ['wyvern_5falliance_837',['WYVERN_ALLIANCE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e',1,'OutdoorPvPNA.h']]],
+  ['wyvern_5fhorde_838',['WYVERN_HORDE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578',1,'OutdoorPvPNA.h']]],
+  ['wyvern_5fneu_5falliance_839',['WYVERN_NEU_ALLIANCE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200',1,'OutdoorPvPNA.h']]],
+  ['wyvern_5fneu_5fhorde_840',['WYVERN_NEU_HORDE',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5',1,'OutdoorPvPNA.h']]]
 ];

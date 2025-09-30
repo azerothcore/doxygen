@@ -1,9 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/da1/classspell__mage__pet__scaling.html#a5b57273e0d9fc39a000c7bf4e232acb4":[6,0,3423,0],
-"da/da1/classspell__mage__pet__scaling.html#a5b65221c67283a29cbeb63cafe64457a":[6,0,3423,7],
-"da/da1/classspell__mage__pet__scaling.html#a65b6f1a2b322c928fd9a5992380d2e95":[6,0,3423,1],
-"da/da1/classspell__mage__pet__scaling.html#a67cb7b817f29dd41aa7d0dc8c87dc820":[6,0,3423,6],
 "da/da1/classspell__mage__pet__scaling.html#abf0d76c220911d88990f3071f14a9d5a":[6,0,3423,3],
 "da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[6,0,3423,8],
 "da/da3/classgroup__commandscript.html":[6,0,1231],
@@ -249,5 +245,9 @@ var NAVTREEINDEX264 =
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4c8f098f245e90685f0f3660028500a8":[6,0,800,0,2],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4f99e511d6296b56df8ab8fbe53620e6":[6,0,800,0,1],
 "da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a4fcf1be1bc20327ff8daf9c79baabde7":[6,0,800,0,0],
-"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a6af98b3daace7852a485983167538f85":[6,0,800,0,7]
+"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a6af98b3daace7852a485983167538f85":[6,0,800,0,7],
+"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a8f0234b32612ff56ac6a7429f6e4da09":[6,0,800,0,5],
+"da/daa/structboss__yoggsaron__lich__king_1_1boss__yoggsaron__lich__kingAI.html#a9d7f0f2a8cf4f421253c8c5a6ec98111":[6,0,800,0,6],
+"da/dab/classspell__gen__proc__from__direct__damage.html":[6,0,3002],
+"da/dab/classspell__gen__proc__from__direct__damage.html#a255a58ad99059ba28ab09a94e7cc683a":[6,0,3002,1]
 };

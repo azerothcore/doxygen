@@ -1,17 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d38/classAchievementGlobalMgr.html#a1dc84c9b8243eb9bc8626e63fb421023":[6,0,115,22],
-"d6/d38/classAchievementGlobalMgr.html#a1ef8eb6c302f0d5deb887f9b03b1ea4a":[6,0,115,24],
-"d6/d38/classAchievementGlobalMgr.html#a29193ffa36b0698e365d57b25dbcafb9":[6,0,115,10],
-"d6/d38/classAchievementGlobalMgr.html#a2b4dc8e045dd563567a55570e37b86fb":[6,0,115,14],
-"d6/d38/classAchievementGlobalMgr.html#a2c86d0034b6246f85737d17cb96abe7f":[6,0,115,33],
-"d6/d38/classAchievementGlobalMgr.html#a320b3d6426c884ad39bf358a28035f15":[6,0,115,17],
-"d6/d38/classAchievementGlobalMgr.html#a3557adfed8bf2fbca323acba9f665f47":[6,0,115,7],
-"d6/d38/classAchievementGlobalMgr.html#a451ad1d64eb342c5e0347d1d6aba5605":[6,0,115,19],
-"d6/d38/classAchievementGlobalMgr.html#a4608b091123456982ab2e06df899c2a6":[6,0,115,32],
-"d6/d38/classAchievementGlobalMgr.html#a4bb815985daebe61703846c095f48adb":[6,0,115,0],
-"d6/d38/classAchievementGlobalMgr.html#a4ee4ce63632cc67d7d87d44c6ab4cfef":[6,0,115,1],
-"d6/d38/classAchievementGlobalMgr.html#a5057e0b9b55f64716949c2b3e443a705":[6,0,115,35],
 "d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[6,0,115,16],
 "d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[6,0,115,3],
 "d6/d38/classAchievementGlobalMgr.html#a5999c47a86e58fd7b5437da05385d59a":[6,0,115,34],
@@ -249,5 +237,17 @@ var NAVTREEINDEX168 =
 "d6/d3b/classCliHandler.html#a610f7431dc7b064c964e0d446160d19f":[6,0,884,4],
 "d6/d3b/classCliHandler.html#a636be10a282a8d100b807dac119b3ff6":[6,0,884,9],
 "d6/d3b/classCliHandler.html#a6a7ba928db9d41743d7cebd1ad98b084":[6,0,884,1],
-"d6/d3b/classCliHandler.html#a7a3f746595d9ca126747f5e0ba52c71b":[6,0,884,0]
+"d6/d3b/classCliHandler.html#a7a3f746595d9ca126747f5e0ba52c71b":[6,0,884,0],
+"d6/d3b/classCliHandler.html#aa1fafd68fca180506cc15680b695db9e":[6,0,884,10],
+"d6/d3b/classCliHandler.html#aadeaa84ce5d26951f506a2656c1d64d2":[6,0,884,11],
+"d6/d3b/classCliHandler.html#ab12ec41c55bc5f92461abff538a76b66":[6,0,884,2],
+"d6/d3b/classCliHandler.html#abbd02247d6094bf39b2791ba45e9942e":[6,0,884,8],
+"d6/d3b/classCliHandler.html#ad8c4ee6e45afff55d94dea9704bd2097":[6,0,884,7],
+"d6/d3b/classCliHandler.html#ae879bbfa69992caa7a0b1b2b3c7d939c":[6,0,884,3],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html":[6,0,1908,0],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a04f09361f6bc4bc752ca773878187f79":[6,0,1908,0,0],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a0fa884bf3003267501f048d3f1287d42":[6,0,1908,0,11],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a1b1757dd6e0775f1f4791b4feafd86fb":[6,0,1908,0,9],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a3515e873adf5a097f66764887e3cc5a3":[6,0,1908,0,4],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a4edf558dbc54ff1acab15d6daf0a5613":[6,0,1908,0,10]
 };

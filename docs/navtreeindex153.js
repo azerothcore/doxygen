@@ -1,10 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3004d23e6eaa3f2ef5942e96e0c17308":[6,0,568,0,11],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3a21a45072144b6f0421733466770267":[6,0,568,0,10],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3fa1e67bf942824cd40c5591f4e63a08":[6,0,568,0,0],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a440b758486cd95b7884fe2ce9bdfb28f":[6,0,568,0,6],
-"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a49066a2fa1dc424a27262706c8af046a":[6,0,568,0,2],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e":[6,0,568,0,13],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a5df92ebc5bd4ee8d06b17e31381be8c4":[6,0,568,0,8],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a8fd3938c0e91a0773eacba9fbdb4a60e":[6,0,568,0,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX153 =
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ae45a3ccf5908927ac67163a4ef72afa9":[7,0,0,0,1,3,5,2,0,0,25,12],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2":[7,0,0,0,1,3,5,2,0,0,25,7],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065afb4bf32a8356fd21bf71815e09bfa3f9":[7,0,0,0,1,3,5,2,0,0,25,14],
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065affad04806a12aa2afe39e609f129580c":[7,0,0,0,1,3,5,2,0,0,25,11]
+"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065affad04806a12aa2afe39e609f129580c":[7,0,0,0,1,3,5,2,0,0,25,11],
+"d5/dbb/boss__argent__challenge_8cpp.html#aff31c755c0c35f6c75440182aafc212e":[7,0,0,0,1,3,5,2,0,0,14],
+"d5/dbc/namespaceDoodad.html":[5,0,12],
+"d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,12,0],
+"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,12,1],
+"d5/dbd/classnpc__ulduar__hodir__priest.html":[6,0,2236]
 };

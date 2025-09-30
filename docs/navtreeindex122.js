@@ -1,10 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d35/structAcore_1_1Crypto_1_1Argon2.html#a923313625297d08ff3ca9a04bbe527aa":[6,0,0,2,2,5],
-"d4/d35/structAcore_1_1Crypto_1_1Argon2.html#ae23bd592ac284f3068c36688d084c24f":[6,0,0,2,2,0],
-"d4/d35/structAcore_1_1Crypto_1_1Argon2.html#ae23bd592ac284f3068c36688d084c24f":[5,0,1,4,2,0],
-"d4/d36/classspell__zulfarrak__unlocking.html":[6,0,4072],
-"d4/d36/classspell__zulfarrak__unlocking.html#a32bfb203e9ecfbcfa75f6c3e7a17fade":[6,0,4072,0],
 "d4/d36/classspell__zulfarrak__unlocking.html#a5dcac6f609ec93074ec3ce195101f592":[6,0,4072,2],
 "d4/d36/classspell__zulfarrak__unlocking.html#a646a42455b6a46c9f7cbb4b0229122cd":[6,0,4072,1],
 "d4/d37/WardenCheckMgr_8cpp.html":[7,0,0,0,1,2,46,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX122 =
 "d4/d3e/classBattlegroundSA.html#a166c203774538fd4ec1fc774ed50472f":[6,0,335,14],
 "d4/d3e/classBattlegroundSA.html#a16772c19e10e206ebb82368837d5fc22":[6,0,335,22],
 "d4/d3e/classBattlegroundSA.html#a1852a0c722b748ed94de6713e0817694":[6,0,335,20],
-"d4/d3e/classBattlegroundSA.html#a18cef0efe0b3b0889bb319a93cb14613":[6,0,335,40]
+"d4/d3e/classBattlegroundSA.html#a18cef0efe0b3b0889bb319a93cb14613":[6,0,335,40],
+"d4/d3e/classBattlegroundSA.html#a223ddb6603b1b526682c4d3f55a1705e":[6,0,335,3],
+"d4/d3e/classBattlegroundSA.html#a283cab041084db9a8db2b39d057f25c0":[6,0,335,48],
+"d4/d3e/classBattlegroundSA.html#a2bb2fc11d239e21ee50c5aef63b4f41f":[6,0,335,12],
+"d4/d3e/classBattlegroundSA.html#a2ddcfe40b6c7bf672747b6cf24748a50":[6,0,335,7],
+"d4/d3e/classBattlegroundSA.html#a332ecfb5ad7ca48ebe3324505c6e8be3":[6,0,335,21]
 };

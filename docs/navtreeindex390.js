@@ -1,12 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8":[7,0,0,0,1,3,10,20,2,3],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84":[7,0,0,0,1,3,10,20,2,2],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16a":[7,0,0,0,1,3,10,20,1],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa09d5e48c24e03306a4d0d12e08262b90":[7,0,0,0,1,3,10,20,1,5],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa108f93f6b9254fafdbbd93c327bdd4cc":[7,0,0,0,1,3,10,20,1,2],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa1724626eca7bd8e8e1b78bd0785e5fd5":[7,0,0,0,1,3,10,20,1,11],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa23f2b96f68a213c9abe2d9d74bf3ef6e":[7,0,0,0,1,3,10,20,1,10],
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa36328bd68c5f25b7f8209c43a180c3ad":[7,0,0,0,1,3,10,20,1,9],
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa3ae3d747b633a660fa8c1fdc7630724f":[7,0,0,0,1,3,10,20,1,1],
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa61d8fcf1d72150cfc7e1a5abdfc71f21":[7,0,0,0,1,3,10,20,1,8],
@@ -42,12 +35,12 @@ var NAVTREEINDEX390 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,426,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,5,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,31,5,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,31,5,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,5,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,31,5,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,5,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,31,5,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,5,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,597,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,597,0,8],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,597,0,3],
@@ -249,5 +242,12 @@ var NAVTREEINDEX390 =
 "df/d87/structFireworkShowGameobject.html#ac2e4113330ebc9d9db379fb87eb55c03":[6,0,1045,3],
 "df/d87/structFireworkShowGameobject.html#af0a1551e7a1ced5413b6096ba15db8b2":[6,0,1045,0],
 "df/d88/BattlegroundQueue_8h.html":[7,0,0,0,1,2,8,14],
-"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17":[7,0,0,0,1,2,8,14,5]
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17":[7,0,0,0,1,2,8,14,5],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c":[7,0,0,0,1,2,8,14,5,1],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697":[7,0,0,0,1,2,8,14,5,2],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4":[7,0,0,0,1,2,8,14,5,0],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239":[7,0,0,0,1,2,8,14,5,4],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[7,0,0,0,1,2,8,14,5,5],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[7,0,0,0,1,2,8,14,5,3],
+"df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6]
 };

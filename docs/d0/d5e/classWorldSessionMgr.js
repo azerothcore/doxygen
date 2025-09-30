@@ -33,8 +33,6 @@ var classWorldSessionMgr =
     [ "SendGlobalGMMessage", "d0/d5e/classWorldSessionMgr.html#a56fc77b52d3340a3e3432254f5274bfb", null ],
     [ "SendGlobalMessage", "d0/d5e/classWorldSessionMgr.html#af32e97573c3742b0e922a6537d9c56ac", null ],
     [ "SendServerMessage", "d0/d5e/classWorldSessionMgr.html#a9bca1ddebb09c5fdba4d8dd70076a6ba", null ],
-    [ "SendZoneMessage", "d0/d5e/classWorldSessionMgr.html#a574d4b97f8877466c5acc97a3b0439fb", null ],
-    [ "SendZoneText", "d0/d5e/classWorldSessionMgr.html#af5e5c30b13c4f4b66fcdcb3d6c57f0e4", null ],
     [ "SetPlayerAmountLimit", "d0/d5e/classWorldSessionMgr.html#a773b78393737216b3e8cbb506f5335ca", null ],
     [ "UpdateMaxSessionCounters", "d0/d5e/classWorldSessionMgr.html#a4d5f21e27d14a2dee1ff4e48bdb7b341", null ],
     [ "UpdateSessions", "d0/d5e/classWorldSessionMgr.html#a6234855de299f067b0b61e690f532835", null ],

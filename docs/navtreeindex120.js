@@ -1,10 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[6,0,3711,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[6,0,3711,2],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[6,0,3711,3],
-"d4/d21/classspell__drain__mana.html":[6,0,2805],
-"d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[6,0,2805,2],
 "d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[6,0,2805,0],
 "d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[6,0,2805,1],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html":[7,0,0,0,1,3,7,4,3,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX120 =
 "d4/d2b/OutdoorPvPHP_8h.html#ae6571d986fbbf7b469cf495033f46516":[7,0,0,0,1,3,6,6,13],
 "d4/d2b/RealmList_8h.html":[7,0,0,0,1,4,3,3],
 "d4/d2b/RealmList_8h.html#a639c880efde6e31a4bf6be6b5bcc3cd3":[7,0,0,0,1,4,3,3,2],
-"d4/d2b/boss__ionar_8cpp.html":[7,0,0,0,1,3,5,9,0,1]
+"d4/d2b/boss__ionar_8cpp.html":[7,0,0,0,1,3,5,9,0,1],
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,9,0,1,8],
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,0,1,8,3],
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,0,1,8,0],
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4d8e5b12f693213d64aa0c3015681ca3":[7,0,0,0,1,3,5,9,0,1,8,1],
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,0,1,8,2]
 };

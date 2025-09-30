@@ -1,7 +1,5 @@
 var NAVTREEINDEX36 =
 {
-"d1/d79/boss__nalorakk_8cpp.html#acb9ca3a790c820be5cc99570142bda22a8ba2c136c061cd6a3d69d50eb92aa4b6":[7,0,0,0,1,3,2,15,4,4,14],
-"d1/d79/boss__nalorakk_8cpp.html#acb9ca3a790c820be5cc99570142bda22aa5fdc5f00160ab94a4848d6a849afffd":[7,0,0,0,1,3,2,15,4,4,1],
 "d1/d79/boss__nalorakk_8cpp.html#acb9ca3a790c820be5cc99570142bda22aa7c7463b7793dc7152cc6d82ae369710":[7,0,0,0,1,3,2,15,4,4,10],
 "d1/d79/boss__nalorakk_8cpp.html#acb9ca3a790c820be5cc99570142bda22ab6a10bbf6ec7839b4bd0efd4ad9064d4":[7,0,0,0,1,3,2,15,4,4,9],
 "d1/d79/boss__nalorakk_8cpp.html#acb9ca3a790c820be5cc99570142bda22ab95c0da9cea1abdeed129ce42c5b7478":[7,0,0,0,1,3,2,15,4,4,0],
@@ -80,8 +78,8 @@ var NAVTREEINDEX36 =
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1367,2],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,28,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,28,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,28,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,36],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[6,0,36,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[6,0,36,1],
@@ -108,16 +106,16 @@ var NAVTREEINDEX36 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[6,0,1991,0,5],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[6,0,0,11],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,23],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,23,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,11,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,23,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[6,0,0,11,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,1,23,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,1,23,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[6,0,0,11,4],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[6,0,0,11,3],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[7,0,0,0,1,3,7,5,1,1],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,1,1,2],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,1,1,2,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX36 =
 "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a98643a8b534605b7f23c1a119acad9d2":[7,0,0,0,1,3,5,9,2,3,52,22],
 "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a99ee7ffc7917ae8e9c355120d9a02fee":[7,0,0,0,1,3,5,9,2,3,52,3],
 "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa57cb7490aaa00efb8066ec886d837b5":[7,0,0,0,1,3,5,9,2,3,52,9],
-"d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab1a15c7ac99801547ee8c6985e9e2622":[7,0,0,0,1,3,5,9,2,3,52,0]
+"d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab1a15c7ac99801547ee8c6985e9e2622":[7,0,0,0,1,3,5,9,2,3,52,0],
+"d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abafa70640e433ae130c05badf6fc82bc":[7,0,0,0,1,3,5,9,2,3,52,29],
+"d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abc1b55600c053ca4c268962fc0e9f73f":[7,0,0,0,1,3,5,9,2,3,52,23]
 };

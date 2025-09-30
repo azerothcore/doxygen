@@ -1,7 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab":[7,0,0,0,1,2,42,3,13,0],
-"d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3":[7,0,0,0,1,2,42,3,13,3],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html":[6,0,2264,0],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a37800436af47a8f6fbc6f6eb25eab9f9":[6,0,2264,0,1],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a588ed86f5b8316feafd938d85ac65aa0":[6,0,2264,0,2],
@@ -232,14 +230,14 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,17,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[7,0,0,0,1,2,38,0,17,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[7,0,0,0,1,2,38,0,17,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2178],
@@ -249,5 +247,7 @@ var NAVTREEINDEX49 =
 "d2/d0d/classspell__illidari__council__judgement.html#a6caaa93244719d7fc8c3f28280a3c1c5":[6,0,3200,1],
 "d2/d0d/classspell__illidari__council__judgement.html#a99e2243ca4372eab1a742f8979d61334":[6,0,3200,2],
 "d2/d0d/classspell__illidari__council__judgement.html#aeafb2893534c8e188bbb519b6c7a0113":[6,0,3200,0],
-"d2/d0e/CryptoConstants_8h.html":[7,0,0,0,0,3,9]
+"d2/d0e/CryptoConstants_8h.html":[7,0,0,0,0,3,9],
+"d2/d0e/Errors_8h.html":[7,0,0,0,0,5,1],
+"d2/d0e/Errors_8h.html#a07aa40e12479c740872d1ad7f55acbbc":[7,0,0,0,0,5,1,18]
 };

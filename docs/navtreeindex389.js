@@ -1,12 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1":[7,0,0,0,1,3,5,1,0,0,15,13],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae24feedc5f9a0b43427d226a5a63177d":[7,0,0,0,1,3,5,1,0,0,15,1],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae276bdf91e4d8befe7034adb57ed4683":[7,0,0,0,1,3,5,1,0,0,15,7],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af14f3bbece9082440193c74782cf1ccd":[7,0,0,0,1,3,5,1,0,0,15,2],
-"df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f":[7,0,0,0,1,3,5,1,0,0,24],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,0,0,18],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca028bd456c32bff29e8587a05b5c71a25":[7,0,0,0,1,3,5,1,0,0,18,13],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca039181f529575fd1e4fe2c9a3e8b3b3c":[7,0,0,0,1,3,5,1,0,0,18,14],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca061d5a2b10ffdfefcd8d2b9500b34eb4":[7,0,0,0,1,3,5,1,0,0,18,17],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca099376550328e9ee8ad3d3b6a238cbc8":[7,0,0,0,1,3,5,1,0,0,18,18],
@@ -122,8 +115,8 @@ var NAVTREEINDEX389 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2807,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2807,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2807,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2775],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2775,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2775,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX389 =
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042afe3801ab9e0f7c0438996827c281b9d2":[7,0,0,0,1,3,10,20,0,5],
 "df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5":[7,0,0,0,1,3,10,20,2],
 "df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a1a94d73b5d5e70d7c17e463556e8e876":[7,0,0,0,1,3,10,20,2,1],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a2c56c53c589bf23482cfd7b6634feec9":[7,0,0,0,1,3,10,20,2,0]
+"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a2c56c53c589bf23482cfd7b6634feec9":[7,0,0,0,1,3,10,20,2,0],
+"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8":[7,0,0,0,1,3,10,20,2,3],
+"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84":[7,0,0,0,1,3,10,20,2,2],
+"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16a":[7,0,0,0,1,3,10,20,1],
+"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa09d5e48c24e03306a4d0d12e08262b90":[7,0,0,0,1,3,10,20,1,5],
+"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa108f93f6b9254fafdbbd93c327bdd4cc":[7,0,0,0,1,3,10,20,1,2],
+"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa1724626eca7bd8e8e1b78bd0785e5fd5":[7,0,0,0,1,3,10,20,1,11],
+"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa23f2b96f68a213c9abe2d9d74bf3ef6e":[7,0,0,0,1,3,10,20,1,10]
 };

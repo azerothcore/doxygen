@@ -1,7 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2464,0],
-"d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3399],
 "d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3399,2],
 "d2/d31/classspell__madrigosa__activate__barrier.html#ad55914fdc6771e09a508572d59ad30ed":[6,0,3399,1],
 "d2/d31/classspell__madrigosa__activate__barrier.html#afd73a7f5ec26c9ecb0424ee09ce638fe":[6,0,3399,0],
@@ -49,12 +47,12 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[6,0,3282,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[6,0,3282,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3282,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,1,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,1,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,1,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,1,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,1,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,1,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,1,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,1,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716a003bd627e1e2937f456930df39bd54fe":[7,0,0,0,1,2,8,1,1,9,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,14,70],
 "d2/d38/northrend__script__loader_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[7,0,0,0,1,3,5,14,137],
 "d2/d38/northrend__script__loader_8cpp.html#a7960228710cc1d4d14425e2f87b2afb2":[7,0,0,0,1,3,5,14,15],
-"d2/d38/northrend__script__loader_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[7,0,0,0,1,3,5,14,10]
+"d2/d38/northrend__script__loader_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[7,0,0,0,1,3,5,14,10],
+"d2/d38/northrend__script__loader_8cpp.html#a7ca432272eaa02df22ec89371e09a4e0":[7,0,0,0,1,3,5,14,29],
+"d2/d38/northrend__script__loader_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[7,0,0,0,1,3,5,14,60]
 };

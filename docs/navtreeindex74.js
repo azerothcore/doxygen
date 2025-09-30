@@ -1,10 +1,5 @@
 var NAVTREEINDEX74 =
 {
-"d2/dd6/classOutdoorPvP.html#ad8351fe5ddc285f8d71f9b978d11ab2a":[6,0,2351,1],
-"d2/dd6/classOutdoorPvP.html#ae34ffe3b531f8689d186610b4a06d093":[6,0,2351,7],
-"d2/dd6/classOutdoorPvP.html#aeb8ce2be078f2ce067bc7f90a879e4cf":[6,0,2351,18],
-"d2/dd6/classOutdoorPvP.html#aec47df6fa8d91ae78d0f2184a3fbf780":[6,0,2351,16],
-"d2/dd6/classOutdoorPvP.html#af20e003de861bb9f9589b26fbad77cf8":[6,0,2351,26],
 "d2/dd6/classOutdoorPvP.html#af29db712d138f6c37113153a59913bc1":[6,0,2351,5],
 "d2/dd6/classOutdoorPvP.html#aff00edc6783bc27182eb3f6b605ab2fe":[6,0,2351,13],
 "d2/dd6/classachievement__been__waiting__long__time.html":[6,0,35],
@@ -26,10 +21,10 @@ var NAVTREEINDEX74 =
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2457],
@@ -249,5 +244,10 @@ var NAVTREEINDEX74 =
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#adaf9581259a774087ce02725b42b6b47":[6,0,500,0,10],
 "d2/de9/classSpellInfo.html":[6,0,4094],
 "d2/de9/classSpellInfo.html#a0097892412fb268b302090f3721866e7":[6,0,4094,141],
-"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4094,81]
+"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4094,81],
+"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[6,0,4094,174],
+"d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[6,0,4094,133],
+"d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[6,0,4094,6],
+"d2/de9/classSpellInfo.html#a05440c40b5df16a65decb684f884d33b":[6,0,4094,161],
+"d2/de9/classSpellInfo.html#a058fff88ac7c8f681101c4d7999cce19":[6,0,4094,102]
 };

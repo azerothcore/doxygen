@@ -183,12 +183,8 @@ var namespaces_dup =
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", "dd/d34/namespaceVMAP" ],
     [ "WeatherMgr", "df/dd4/namespaceWeatherMgr.html", [
-      [ "AddWeather", "df/d17/group__world.html#ga1f76350b68494335d48ae206b87e190c", null ],
-      [ "FindWeather", "df/d17/group__world.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-      [ "LoadWeatherData", "df/d17/group__world.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-      [ "RemoveWeather", "df/d17/group__world.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-      [ "SendFineWeatherUpdateToPlayer", "df/d17/group__world.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-      [ "Update", "df/d17/group__world.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
+      [ "GetWeatherData", "df/d17/group__world.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+      [ "LoadWeatherData", "df/d17/group__world.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
     ] ],
     [ "WMO", "dc/dbb/namespaceWMO.html", "dc/dbb/namespaceWMO" ],
     [ "WorldPackets", "d1/df6/namespaceWorldPackets.html", "d1/df6/namespaceWorldPackets" ]
